@@ -1,0 +1,167 @@
+---
+id: 24b6c33e-8e1b-563b-a7b9-98ed4e17cb50
+page-type-slug: story-chapter-royal-road
+title: "19: The Guild"
+slug: 0019-19-the-guild
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 19
+ownLength: 2080
+unit: words
+publishedAt: 2025-08-28
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2555230/19-the-guild"
+royalRoadId: "2555230"
+---
+
+Chloe had been circling the same street for what felt like forever. It shouldn’t have been this hard to find a bunch of adventurers gathered up in some building, yet here she was, wandering in circles like an idiot.
+
+Eventually, she decided enough was enough. Time to ask someone who looked like they knew something. Her gaze settled on a man slouched in the shadows of an alley. Thick beard, wide grin, and a bottle dangling from his fingers like it belonged there. His cheeks were rosy, and his head bobbed every few seconds as if he was hearing stuff no one else could.
+
+He looked friendly. Or at least happy. And happy people were helpful, probably.
+
+With that brilliant logic, Chloe strolled over and waved a little. “Hey, Happy Beard Man! Hi! Uh… I’m Chloe. You wouldn’t happen to know where the Guild is, would you?”
+
+The man blinked at her, then let out a slow, wheezy laugh that turned into a hiccup. His grin stretched even wider, like her sudden appearance was the best surprise he’d ever had. “Haaaah… hello there Little Sparkle. Shiniest thing I’ve seen in this alley, that’s for sure. Now… what brings ya wanderin’ my way?”
+
+Chloe gave him a puzzled look but pushed on. “Uh… thanks? Anyway, yeah, I’m looking for the Guild. You know where it is?”
+
+Happy Beard Man tilted his head back, squinting at the sky. Then he chuckled, took a long, sloppy swig from his bottle, and let out a satisfied sigh. “Guild, huh? Just go straight ‘til the road bends, then take the alley that smells less like piss. Can’t miss it. You’ll know you’re there when ya see a sign with a cracked crown on it."
+
+“Thanks! You’ve been super helpful, Beard Guy."
+
+“Anytime, Little Sparkle. Anytime.”
+
+After waving at Happy Beard Man, Chloe strolled down the street as she followed his directions. The road curved just like he said, then dipped into a stretch that felt… different.
+
+A lot of sad looking humans slinked along the streets. Most wore clothes that had clearly seen better days, threads dangling loose, holes patched so many times the original color was anyone’s guess. Chloe tilted her head at a man shuffling past in a torn tunic and grimy boots. He almost looked like the zombies back in her dungeon. Strange fashion choice, but then again, humans were strange creatures.
+
+Nobody smiled. Nobody waved. They just kept their heads down and moved on like she wasn’t even there. The sight made Chloe frown a little. Everyone looked so grouchy for some reason.
+
+Chloe strolled along, humming to herself because, clearly, no one else in this dreary place was going to bring the fun. The alley Happy Beard Man had told her about wasn’t hard to find; it even smelled slightly better than the others.
+
+At the end of the alley hung a wooden sign swinging from rusty chains, carved with the image of a cracked crown. That had to be the place. Chloe marched up to the door and gave it a push.
+
+The door groaned, and Chloe immediately heard a roaring wave of noise. The place was massive, packed with long wooden tables, benches that looked like they’d been punched a few times, and people crammed in so tight they practically breathed the same air.
+
+Chloe scanned the room, then marched over to the nearest person, a broad shouldered man hunched over a mug. He looked tough, which probably meant he knew stuff. “Hey there, where do I get one of those guild tag things?”
+
+The man raised an eyebrow. He took a long sip before answering. “Clerks’re probably on lunch break right now, best thing you can do is go hang out at the bar or somethin’.”
+
+Chloe blinked. “Bar? Where’s that?”
+
+He gave her a look like she’d just asked where the floor was, then jerked his chin toward the massive counter at the far end of the hall. “Right there. Can’t miss it.”
+
+“Ohhh, that’s what that is, thanks.”
+
+The guy just shrugged and went back to downing his drink like she didn’t exist. Chloe spun on her heel and strutted toward the bar.
+
+She stopped in front of the massive counter and eyed the odd looking chairs lined up against it. They were tall, spindly things with no backrest and a tiny round seat perched on top, like they were designed for people to fall off. Honestly, they looked more like chairs for birds than humans. Weird, but whatever.
+
+Chloe climbed up onto one and perched on the wobbly seat. Her boots dangled a little above the floor as she grinned and drummed her fingers on the counter.
+
+She didn’t have to wait long before someone noticed her. A woman sauntered over from behind the counter.
+
+Her hair was bright red and twisted into some strange knot at the back of her head. Chloe couldn’t even name it, some kind of hair swirl thing? It looked like a bun… probably. Whatever a bun was.
+
+The woman’s arms were bare, covered in curling dark shapes that snaked across her skin. Some were jagged, others smooth, all of them looking important somehow. Chloe stared, wondering if she drew all those herself. If so, then that was serious dedication.
+
+The woman carried a wooden cup in one hand and a bottle in the other, filling the cup without even glancing down. She stopped in front of Chloe and gave her a cheeky smile. “Well, hey there, Princess. What’re you doin’ sittin’ all alone at my bar?”
+
+“Oh, that’s nice! But nope, not a princess. Pretty sure I’d remember signing up for… whatever that is.”
+
+“Could’ve fooled me. You might as well be one, sittin’ here all shiny. Not a lotta ladies on this floor, y’know?”
+
+Chloe frowned and glanced over her shoulder. Sure enough, most of the room was packed with rough looking guys. She spotted maybe one or two women in the entire crowd. “Huh. Guess you’re right.”
+
+The bartender smirked, wiping the counter with a rag. “Stick around, Princess. Things get real fun ‘round here.”
+
+“Fun? What kind of fun? I like fun.”
+
+“Depends, sugar. Can ya hold your drink?”
+
+Chloe was a bit confused at the question. She had two hands, so of course she could hold stuff. “Uh, yeah. I can hold a drink easy."
+
+The woman’s grin widened. “That so? Well then…”
+
+She reached for a tall glass, flipped it, and started pouring something from a bottle. Her hands moved quick, sliding the drink across the counter. “On the house. Let’s see if you can hold your own, Princess.”
+
+Chloe stared at the glass, which was filled with some golden liquid. “Uh… what am I supposed to do with this?”
+
+The redhead barked out a laugh that turned a few heads nearby. “You’re not drunk already, are ya?”
+
+“What? No. I have no idea what that even means,” Chloe said.
+
+The lady just shook her head, still chuckling. “You’re funny, I’ll give ya that. Just drink it, sugar. Nice and easy.”
+
+Chloe shrugged. If the lady wanted her to drink this stuff, fine, wasn’t like she had anything better to do until the clerks came back. She grabbed the glass and took a long sip. The liquid inside didn't taste like anything. Just… why did people make such a big deal about this?
+
+She set the glass down with a soft thunk and wiped her mouth with the back of her hand. “Done. So… now what?”
+
+The woman raised an eyebrow, clearly impressed. “Not bad for a newbie. Most folks choke halfway through a Roxy Special. It's one of the strongest cocktails you'll find in Kelvane."
+
+“Cool. Uh… what’s a cock-tail?” Chloe asked.
+
+That earned her another laugh, louder this time. A few of the rough-looking guys nearby glanced over with smirks, clearly entertained. The woman shook her head, grinning so wide it almost reached her ears. “You’re somethin’ else, you know that? Name’s Roxanne. But folks here call me Roxy. What about you, Princess?”
+
+"Oh, I'm Chloe!"
+
+“Well, Chloe, you up for another drink?”
+
+“Uh, sure?"
+
+Roxy chuckled low as she started pouring drinks again. Chloe swung her legs on the weird little chair as she watched.
+
+“Alright, Princess, round two. This one’s called Dragon’s Breath. Got a little fire, a little smoke, and a whole lotta kick. I mix it with citrus and a dash of spice on the rim, some folks say it tastes like—”
+
+Before Roxy could finish her sentence, Chloe grabbed the glass and tipped it back, draining it in one long gulp. The drink had looked funny, all shiny and colorful, and honestly, she just wanted to see what would happen.
+
+Roxy stared at the now empty glass. “You okay, sugar?”
+
+Chloe wiped her mouth on the back of her hand and tilted her head. “Yeah? Why wouldn’t I be?”
+
+For a moment, Roxy looked ready to scold her, but then that grin broke wide open. A laugh tore out of her as she slapped the counter and leaned back. “Oh, this is rich. This is real rich.”
+
+“What’s so funny?” Chloe asked.
+
+Roxy didn’t answer right away. Instead, she swung around and turned towards a nearby table. “Hey! Get your sorry hides over here! You gotta see this!”
+
+The men at the table groaned and hauled themselves up, stomping over until they were towering over Chloe. One guy had arms like tree trunks and a scar slicing through his eyebrow. Another had a lot of daggers. So many daggers. Tucked in his belt, even strapped to his legs.
+
+Seriously, why did anyone need that many stabby things? Even for an adventurer, it felt like too much.
+
+“What’s the deal, Roxy?” the biggest guy asked.
+
+Roxy jabbed a finger at Chloe. “I bet three silvers that none of you can out drink her.”
+
+The men stared at Chloe, then at Roxy. One of them snorted loudly. "You serious?”
+
+“Dead serious, so, any takers?”
+
+They exchanged looks, smiling and snorting. The big guy slammed a coin pouch onto the counter with a loud clink. “I’m in. Ain’t no way Desmond Fisher is gonna lose to some girlie.”
+
+The others jumped in, tossing their bets onto the shiny little pile, all backing the guy Chloe guessed was named Desmond. She still had no clue what the actual game was, but so far it looked like all she had to do was… drink stuff. Easy.
+
+Chloe loved winning, so her plan was simple: drink everything they threw at her. She seemed pretty great at this whole drinking thing already, so why not? It sounded like fun.
+
+“Alright,” Roxy called out. “Rules are simple. You drink what I pour. No spillin’, no pukin’. First one to tap out loses. Got it?”
+
+Desmond cracked his knuckles, grinning at Chloe like he was about to crush her. “Hope you can keep up, Princess.”
+
+Chloe’s smirk turned sharp. “Hope you can too.”
+
+Roxy lined up two glasses and poured something that glowed faintly red, slamming them onto the counter as the men cheered. “First round! Go!”
+
+Chloe grabbed her glass and drank it. Desmond did the same.
+
+Then came round two. Then round three. And then it kept going.
+
+Chloe didn’t notice. Or care. Every time a glass hit the counter, she drank it without hesitation. This drinking thing was really easy for her, so she didn't really get why Roxy and the other people were making such a big deal out of drinking.
+
+By the seventh glass, Desmond’s swagger had melted into a wobble. Sweat clung to his forehead, and that big confident grin slid right off his face.
+
+He choked down another drink, slammed the glass on the counter, and blinked slow… before tipping sideways. The hall went alive as cheers rattled the walls while coins clinked and curses flew.
+
+Silver and copper coins piled up on the counter while Roxy scooped it in with the smuggest grin Chloe had ever seen. “Pleasure doin’ business, boys."
+
+The men grumbled, muttering about unfair bets and bad luck, but before anyone could throw in another coin or another complaint, a voice rolled through the guild. “Well now… what in the hells is goin’ on here?”
+
+Chloe spun toward the sound and spotted a man in the doorway, tall, broad, and carrying himself like he was the most important person around. His black hair was a perfect mess, topped with this weird, wide, floppy hat.

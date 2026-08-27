@@ -1,0 +1,79 @@
+---
+id: f1c94abd-ab84-5393-a2ff-56d0e4d54cf5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1574 - An Unexpected Reunion"
+slug: 0222-chapter-1574-an-unexpected-reunion
+partOf: chrysalis
+position: 222
+ownLength: 858
+unit: words
+ownProgress: 858
+publishedAt: 2025-05-30
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2315722/chapter-1574-an-unexpected-reunion"
+royalRoadId: "2315722"
+markedReadAt: "2026-06-29T19:50:55.076Z"
+---
+
+“I never thought I’d see you again, Goszi,” Zluth grinned, showing all of his fangs. “You found your happy retirement, why would you ever leave?”
+
+The old slug extended an eye socket up through the grille that covered the hole he’d been locked into. A Krath could compress their body to extremely small sizes, and they had to, to fit inside a hole like this. The grating over the top was sharp as a razor on the inside, but blunt on the outside, meaning if Goszi were to relax his contracted body for even a second, he’d be cut to ribbons by the grate.
+
+An extremely common way the Krath used to lock up their own. Even a Krath could be contained if you limited how many tricks they could use, and they couldn’t use many when they were squished down to the size of a human head.
+
+“I was very comfortable,” Goszi rasped, barely able to speak. “Have you ever heard of a scone? The ants are big fans. Delicious.”
+
+Zluth frowned. Food was food, who cared what it tasted like? To him, the word ‘delicious’ was barely a part of his vocabulary. It certainly wasn’t something he’d ever experienced.
+
+“Do you think making the ants sound good is going to make me spare you, Goszi? Have you lost what was left of your mind?”
+
+The old Krath chuckled, only to yelp with pain when his body expanded a fraction and he was cut.
+
+“I’m as sharp as these blades,” the old Krath burbled. “Sharp as I’ve ever been.”
+
+“You could have fooled me. Weren’t you the one who twisted and betrayed everything in order to keep himself alive? You’re just a few minutes away from being eaten, that doesn’t seem sharp.”
+
+“I didn’t have much of a choice,” Goszi chuckled. “I might have betrayed the Krath, but even I’m not willing to betray the Maker.”
+
+Zluth was silent for a moment, chewing over a wad of acid bile. Chozth had told him of Goszi’s claim, that he’d been visited by Theorazzn and returned to reveal the location of the singing. The ants… again.
+
+Despite Goszi being a cunning slug who lied as easily as he breathed, Zluth believed his story. There was no other reason for a Krath so obsessed with staying alive to throw himself into the acid pit.
+
+“Theorazzn spoke to you too, Goszi,” Zluth burbled. “You decided to break out and share what you knew with the tribes? To fulfil the will of the Ancient? It’s almost… noble.”
+
+The word tasted foul in Zluth’s mouth and he spat to rid himself of it. The wad of acid sizzled and burned on the stone floor, filling the air with an acrid tang.
+
+“The Maker of Mucus is a … persuasive creature,” Goszi said. “Did I really have much choice?”
+
+“I suppose not.”
+
+Did the Krath respect, or fear Theorazzn? If he were pushed for an answer, Zluth couldn’t say on which side he’d land. The Maker of Mucus created the fifth stratum, their home. Legends said the Ancient had blessed the Krath personally, though none knew how. The fifth was a cruel and unforgiving place, and the Krath were the most cruel and unforgiving creatures within it.
+
+It was only natural that they would revere the Ancient who had made them that way, who continued to guide them from the depths of the Dungeon. Goszi, for all his selfishness, had no choice but to fulfil the Ancient’s command.
+
+Even so…
+
+“It’s not enough to save you, Goszi. You knew that from the beginning.”
+
+The old Krath chuckled, resigned to his fate.
+
+“Make it quick. I deserve that much.”
+
+“Mercy?” Zluth laughed. “Fine. Why not try something new.”
+
+When it was done, Zluth went to find Chozth, who was furiously busy. With so many powerful tribes converging on the area, she wouldn’t remain in charge for long, but as she’d been responsible for the assault so far, it was her job to ensure the slugs would have somewhere safe to be when they arrived.
+
+It wouldn’t be long before hundreds and hundreds of Krath joined the effort. Even during a wave, they were moving through the Dungeon, using the safest paths and bringing as much war material as they could carry.
+
+It would be incredibly difficult to make war during the wave, but they would find a way. They were Krath.
+
+“What do you need me to do?” he asked.
+
+“Everything,” she snapped, bubbling with rage.
+
+“Can’t do that much.”
+
+“Then go back out into the tunnels and put eyes on those filthy ants. We need to know what they’re doing at least.”
+
+“The same as before, I would guess,” he replied, then held up his hands when she glared at him. “I’ll go. Not to worry. I’ll be gone in an hour.”
+
+His reputation was rising amongst the Krath, especially as a crafty scout who could get things done, do the dirty work. When the others arrived, it would be his report they listened to. Then… when it came time to plan the assault, he would be in prime position. He would be ascendant.

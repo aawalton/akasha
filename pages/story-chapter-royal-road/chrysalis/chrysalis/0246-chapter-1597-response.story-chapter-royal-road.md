@@ -1,0 +1,91 @@
+---
+id: 114bb836-c12c-54e4-b511-9dfc9289f315
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1597 - Response"
+slug: 0246-chapter-1597-response
+partOf: chrysalis
+position: 246
+ownLength: 1031
+unit: words
+ownProgress: 1031
+publishedAt: 2025-07-02
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2401995/chapter-1597-response"
+royalRoadId: "2401995"
+markedReadAt: "2026-06-29T19:51:41.083Z"
+---
+
+“There’s an emergency!” The scent burst through the command centre, filled with a level of panic and urgency rarely felt within Solant’s presence.
+
+“Bring that scout to me immediately,” the general commanded, waving away the ants gathered around her.
+
+Not waiting to be given space to approach, the scout simply rushed over, climbing upon the others still in her way.
+
+“The Eldest has been taken!” she burst out. “The Eldest has fallen off the platform and been taken by the Krath!”
+
+A chill ran through the chamber, a shiver that crawled along the hairs on every ants’ carapace. A profound silence fell upon them.
+
+“Be clear,” Solant said, an enforcing calm before panic could break out. “Describe exactly what happened.”
+
+She listened intently as the scout explained the situation. Fortunately, she had been present on the platform herself and was able to give her first-ant perspective. The general was keenly aware of every other ant in the command centre listening in, ignoring their other work in favour of hearing of the Eldest’s sacrifice.
+
+“We will need to launch an operation to retrieve the Eldest,” a nearby general snapped, breaking the silence. “The Krath may not have even retrieved them by now. We need to be quick!”
+
+She hadn’t even finished talking before others spoke up, volunteering this battalion or that to brave the fifth and bring the Eldest of the Colony home. The air was filled with pheromones, plans made in haste stinking of desperation and panic.
+
+“Enough,” she said softly.
+
+Somehow it was enough, the force of her will emanating through the air and rolling over the crowd like a wave.
+
+“We will not be launching an operation to retrieve the Eldest,” she said.
+
+Every compound eye was fixed on her, even her closest siblings looking as if they couldn’t believe what she’d just said. Abandon the Eldest? Abandon the Eldest? Abandon the Eldest?! Impossible. Unconscionable. It was un-ant. It was… completely unthinkable.
+
+She could almost hear the thoughts churning in their heads, wondering if she was a traitor, if she had gone mad, if they had gone mad. Nothing about this situation added up to them, and they were unable to put the pieces together themselves. Before things spiralled out of control, Solant took it upon herself to explain.
+
+“Where are the mana levels at?” she demanded.
+
+After a pause, someone scrambled to find the number.
+
+“They’ve been holding steady at the peak for three days now,” came the reply from a corner of the chamber.
+
+“You hear that?” Solant asked of the unmoving swarm of ants around her. “The peak of the wave. If any of us go out there, we’ll be dead in an instant! There aren’t any measures we can take to protect ourselves from that level of contamination. Attempting to chase after the Eldest will only get ants killed.”
+
+“It’s worth the sacrifice,” Leonidant stated, staring at her leader defiantly. “We are more than willing to die if it means the Eldest can come home!”
+
+There were nods all around the chamber, and Solant couldn’t help but sigh.
+
+“And if you die and still don’t bring the Eldest home? What then?”
+
+“Then we would have tried!” Leonidant shouted. “How can we sit here and act like the Eldest is already dead when we know that they aren’t!”
+
+So much passion, so much fire. It was one of the reasons why Solant liked to keep Leonidant with her at all times. Despite her great leadership and coolness under pressure, the scout had all the rage and heat of an Immortal who’d seen a death trap. She was a window into an aspect of the Colony Solant herself only understood intellectually.
+
+“Exactly,” Solant stated, clacking her mandibles in satisfaction.
+
+“I-what?” Leonidant stuttered.
+
+Solant extended a foreleg to pat her sibling on the carapace.
+
+“The Eldest is still alive,” she said. “I know it, you know it, everyone in this chamber knows it. Am I right?”
+
+Confused, hesitant nods broke out around the room as ants examined themselves and somehow realised that it was true. They did know the Eldest was alive. They didn’t know how they knew it, but they did.
+
+“If the Eldest were exposed to the full brunt of the native mana, they would already be dead. They have found a way to keep themselves alive out there, and we will have to bet that they will continue to endure.”
+
+“You think the Eldest will just be able to ride out the wave without help?” another ant demanded. “That’s insane!”
+
+“If we go out there, we give the Krath exactly what they want, a fight on their terms, not ours. We will be overwhelmed in minutes and achieve nothing,” Solant stated. “I would much rather bet on the Eldest instead of wasting lives for no purpose.”
+
+She glared at the gathered ants and they shied away from her eyes.
+
+“The Krath will seize the Eldest soon enough,” she said, “and when they do, we know exactly where they are going to take them. There is only one place nearby where they can corrupt a monster as large as the Eldest. The moment the wave subsides, we will be able to strike a decisive blow and retrieve the Eldest at the same time.”
+
+It still didn’t sit well with the ants around her, Solant could see that. They were on the verge of doing something very unlike what they should: rebel. Their instincts demanded they rescue the Eldest, along with their sense of integrity. After all, the Eldest was the single greatest contributor to the success of the Colony, exceeding even The Queen. What ant wouldn’t trade their own life for that of the Eldest?
+
+Yet Solant couldn’t let it happen. They were close now. So close. Once the wave subsided, everything would fall into place and she would finally have achieved the impossible.
+
+She would win.
+
+If the Eldest wasn’t able to hold on for that long, then perhaps this was fate. She couldn’t tip her hand too early, it would only work if the concentration of mana had fallen back to normal levels.
+
+Sometimes it was necessary to make a sacrifice to secure victory.

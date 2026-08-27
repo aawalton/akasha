@@ -1,0 +1,183 @@
+---
+id: 0ff78554-d064-547f-b01e-9c180b224177
+page-type-slug: story-chapter-royal-road
+title: "73 - Profession Upgrade"
+slug: 0073-73-profession-upgrade
+partOf: cat-girl-evolution
+position: 73
+ownLength: 2281
+unit: words
+publishedAt: 2026-01-09
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2925640/73-profession-upgrade"
+royalRoadId: "2925640"
+---
+
+[ Profession Upgrade Options: ]
+
+[ Lazy Cook ]
+
+[ Hungry Cook ]
+
+[ Sous Chef ]
+
+[ Experienced Taste Tester (Path Change) ]
+
+[ Lazy Manager (Path Change) ]
+
+Wow, these options suck. Abby, which one sucks the least? And what does Path Change mean?
+
+“Path Change means that it would put you on a new Professional path, and that you would lose the Skills from your old Profession if you haven’t mastered them. You have not mastered either of your Profession Skills, so you would lose both.”
+
+Wow, that sucks.
+
+“And based on your personality, Lazy Cook is the best, because—”
+
+I choose Lazy Cook.
+
+[ Are you sure you wish to finalize your Profession Selection? Once finalized, you will not be able to change your Profession without divine interference ]
+
+Yes!
+
+[ You have selected the Lazy Cook class! Skills and Stat points have been assigned. Please refer to your Status Window for changes ]
+
+“—Because it is the most likely to lead into the autonomous cooking that you wanted to do.”
+
+Yeah, figures. I thought you’d say Hungry Cook though to tie it in to Gluttony though.
+
+“That would be true, but tying things into Gluttony too early can stunt their growth. Gluttony is overwhelmingly strong, so when you tie it into a weak, basic Skill or Profession, it more or less completely takes it over. If you strengthen the Skill or Profession first, it can take on its own identity, and won’t be so easily conquered by Gluttony. For example, if Inventory hadn’t been immediately subsumed by Gluttony, there are a few different interesting ways that you could have upgraded it. For example, there’s a version that lets you store living things, and a version that lets you maintain kinetic energy.”
+
+What’s that do?
+
+“That means that if you catch something in motion, when you take it out, it will still be in motion. So for example, if you then tied in Gluttony to turn it into Stomach of the Glutton, you would have been able to catch spells in motion and fire them back instead of needing to drop them on your opponent’s head and hope they destabilize violently.”
+
+Ohhhh. Yeah, that’d be super useful. I can’t do that anymore?
+
+“It’s technically possible, but you won’t be able to do it anytime soon. Since it’s already tied to Gluttony, you would have to manually figure out how to do that, and since it’s Spatial magic, that would be incredibly difficult.”
+
+Dang, that’s dumb.
+
+“It’s also technically possible that divine interference could change it, but given your relationship with the only goddess you know, that’s not something you should count on.”
+
+Dang, if only she wasn’t such a bitch. We could have done great things together. Unfortunately, there’s really nothing I can do about that, so I’ll just have to live with it.
+
+For now, time to check out what I got from my Profession upgrade. Royal Status Window!
+
+[ Name: Yona ]
+
+[ Age: 0 ]
+
+[ Species: Yona, the Gastronome. Tier: 2. Level: 29. ]
+
+[ Class: Wannabe Vivitect. Tier: 2. Level: 28. ]
+
+[ Profession: Lazy Cook. Tier: 1. Level: 1. ]
+
+[ Titles: Second Lifer, System Breaker, Named, Taker of Names II, Dungeon Pioneer I, Dungeon Destroyer I ]
+
+[ Traits: Cat-like Reflexes, Gluttony, Spatial Affinity, Nimble, Fire Affinity, Custom Namecard ]
+
+[ Stats ]
+
+[ Power: 7907 (+5439) ]
+
+[ Finesse: 14832 (+10200) ]
+
+[ Resilience: 11523 (+7925) ]
+
+[ Memory: 10826 (+7446) ]
+
+[ Willpower: 10858 (+7468) ]
+
+[ Sensitivity: 13840 (+9518) ]
+
+[ Skills: Spatial Slice, Stomach of the Glutton, Bite of the Glutton, Snatch of the Glutton, Blink, Fire Burst, External Mana Manipulation - Anatomical Constructs of the Glutton, Meditate of the Glutton, Perfect Disguise, Anatomical Analysis, Internal Mana Manipulation - Fleshbender, Timer, Culinary Analysis, Autonomous Mana Shield, Spiral Mana Burst, Mana Infusion, Auto-Mix ]
+
+[ Soul Weapons: Gluttonous Greatsword, Terror Blade ]
+
+[ Infiltrator Quest: Branch 1: Kill a member of an Enlightened Race within the territory of an Enlightened Race without getting caught. Branch 2: Live with Enlightened Races without being discovered for 30 days. Reward: Perfect Disguise Proficiency up. ]
+
+Wow, basically nothing changed. My stats barely went up at all. I got two new Skills, but they seem kinda lame.
+
+[ Mana Infusion: Infuse your dishes with your mana. Proficiency: Early ]
+
+[ Auto-Mix: Use mana to automatically mix ingredients together, no effort required. Proficiency: Early ]
+
+Hmmmm. Actually, I like both of these Skills. I can finally properly put extra mana into my food, and Auto-Mix looks like a good start to getting full automatic cooking going. Though this seems like a pretty lame Profession still. I’m pretty sure that Auto-Mix is the only one that’s actually tied to the “Lazy” part, and Mana Infusion is just a default Skill.
+
+“You are correct.”
+
+That’s dumb. At least the Skills are good though. I think. Time to do some testing to make sure, I guess.
+
+I throw together a quick seafood soup thingy using a few different varieties of seafoodman, and I use Auto-Mix to stir. Despite its description, it’s actually a kind of involved Skill. It’s not super involved, but it’s like using an electric mixer back on Earth. I can set the speed and stuff, and I can also set the equivalent of the shape of the mixer, and whatever I set, it just continues like that until I deactivate the Skill. It’s actually really intuitive and convenient, and not only that, I don’t even need to pay attention to keep it going. It’s like a switch. It’s on until it’s off, and once it’s on, the only thing I have to worry about is mana drain, which isn’t actually a worry since it’s such a light load that I regenerate faster than I spend.
+
+Mana Infusion is a little bit trickier. I can infuse the entire pot of soup with mana, which kind of works, but as I do, I notice that different ingredients take the mana differently. Some absorb it better, some absorb it worse, and some seem to slightly change the properties of the mana when they take it in. I look close enough to get a general impression of what’s going on, but I think I’ll need Lauren here to teach me the finer details.
+
+On the bright side, there does seem to be a saturation point, so I don’t need to constantly infuse once I reach that point. That means that I can just set Auto-Mix, set Timer, and take a quick nap while I wait for the soup to be finished, which is exactly what I do.
+
+An hour later, the soup is basically done, and I have to say that it tastes much better than my previous soups. The mana infusion is definitely noticeable, even if it’s not as good as whatever Lauren or the other professional chefs do. In fact, it’s good enough that Culinary Analysis upgrades its evaluation of my dish from “Poor” to “Poor with redeeming qualities!”
+
+Yeah, screw you too, Culinary Analysis.
+
+Lauren still hasn’t returned yet. It’s getting close to midnight. I’m pretty sure she was supposed to be back by now. She must have just gone home. The assassin isn’t after her, so there’s not really a big reason for her to stay here.
+
+I shrug, then Blink into my room and lay in bed for a bit. It doesn’t take too long to fall asleep, but my sleep is not restful. Not in the slightest. I have a nightmare, and it’s the same one as last time. A rainy day, an empty street, and blood everywhere. I hate that dream.
+
+I sit up in bed. It’s past midnight. Lauren was definitely supposed to be here, and even if the assassin is after me, that doesn’t mean she’s safe. And she’s too paranoid to just trust that they’re after me, and would absolutely stay here.
+
+What if the assassin realized they couldn’t get to me and went after her instead?
+
+Previously, they didn’t touch the people in Lauren’s house, and no one else has died mysteriously as far as I know, so they’re not a wanton killer, but maybe they got desperate? It’s strange. Too strange.
+
+I jump out of bed and Blink into the street. Too late, I realize that I’m still in my pajamas, but whatever. It’s late, and I’m just going to Lauren’s house. It doesn’t really matter.
+
+I Blink further south, heading along the river toward Lauren’s house. A few people jump in surprise when I appear near them, but I ignore them and continue on my way down. It only takes a couple minutes to reach Lauren’s house, and once I get to the wall, I breathe a sigh of relief. Lauren is inside, safe and sound, sleeping on her bed. Her door and window are already repaired, and as far as Food Sense can detect, there are no shady characters around. At least, none that seem to be keeping an eye on the house.
+
+I waver for a moment, wondering whether to go in or not, but eventually decide against it. I probably just slept through her getting back, and she got sick of waiting and came here. If there’s something else going on, she can tell me when she wakes up. Until then, there’s not really a good reason to stick around.
+
+I turn to head back up north, this time without Blinking. I burned through a lot of my mana doing that, and while I could replenish it with a construct, I’m not really in a hurry. I might as well let it regenerate naturally. In the meantime, I guess I’ll enjoy a midnight stroll. It’s been a while since I’ve done one of these. Though last time, I was in my proper cat form. Hmmmm…
+
+“I know what you’re thinking, and you shouldn’t.”
+
+Why not? I’ve seen loads of cats around. I’m sure no one will give me a second look.
+
+“It’s still a risk.”
+
+I have Custom Namecard. What are the odds someone sees me, a perfectly normal cat, and not only has a Skill that lets them see past Custom Namecard, but also is bored or paranoid enough to actually look deeper at me?
+
+“Admittedly low, but you’re literally being targeted by an assassin right now.”
+
+Yeah, and? I’m gonna do it.
+
+“...At least keep your guard up then to prevent the worst.”
+
+I always have my guard up.
+
+I double check with Food Sense that no one is watching me, then Blink into an empty alley and transform back into my cat form. I feel so much more stable now. More grounded. And more comfortable. Time to go exploring the proper way!
+
+It doesn’t take long for me to get back to the riverside area. To the south, it’s quiet and peaceful, with barely anyone out and about. Most of the people out are either drunk, or homeless. I avoid the latter, but if I see a particularly friendly-looking drunk person, I trot up and accept scritches before moving on.
+
+The north side is much busier, as expected. It’s the nightlife side of town, after all, and there is lots of night life happening. That means lots of potential scritchers too.
+
+I walk through this part of town at a slow, leisurely pace in plain sight along the street. There are a few other cats around, but since I am the bravest of them, and am out so openly, I also draw the most attention.
+
+“Kitty!” exclaims one particularly drunk woman, as she stumbles out of a tavern.
+
+A few seconds later, I’m surrounded by a gaggle of extremely wasted women and their one sober supervisor, laying on my back and letting them scratch my belly.
+
+“She’s sho friendly!” says one of them, words slurred.
+
+“I haven’t seen you before, precious,” says another.
+
+“Awww, what meanie made your collar say ‘bitch’?” says a third.
+
+Wait, what?
+
+I glance down and see that my necklace reward that I got from the Dungeon is now a collar. How did I not notice this before? The goddess is a double bitch now. This is an extra level of petty that I didn’t know was possible.
+
+The woman who pointed out the collar issue tries to reach for the clasp to take it off, but I squirm and bat her hands away with my paw. I have to hold back my strength and pretend to be a normal cat, which is frustrating, and the only reason that I manage to keep my collar on is that she’s drunk and uncoordinated as heck. Eventually, it gets too annoying and I roll over back onto my feet and scurry away.
+
+“Wait, come back!” she calls.
+
+I don’t look back, instead diving into an alleyway and climbing up the side of the building until I’m on a roof and out of sight. I hear the women calling for me, but I ignore them and keep moving until I’m well past them before jumping back down and returning to the street. Not more than thirty seconds later, I spot a familiar face stepping out of a different tavern. Or rather, a familiar head of orange hair. I don’t see her face until a few seconds later when she turns my direction. It’s Annie, and her cheeks are quite pink and she smells strongly of alcohol.
+
+I stop and sit down, staring at her, and a few seconds later, she notices me. For a second, she just stares at me, her mouth slightly hanging open, then she breaks out into a wide smile and starts approaching.

@@ -1,0 +1,77 @@
+---
+id: 2420c517-5dee-58b7-a2ea-f672d5cdff79
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1467 - Wheat Has Less Fun"
+slug: 0115-chapter-1467-wheat-has-less-fun
+partOf: chrysalis
+position: 115
+ownLength: 950
+unit: words
+ownProgress: 950
+publishedAt: 2024-12-04
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1938551/chapter-1467-wheat-has-less-fun"
+royalRoadId: "1938551"
+markedReadAt: "2026-06-29T19:47:45.419Z"
+---
+
+If there is a type of warfare that suits the Colony’s talents better than a defensive siege, I don’t know what it is. Our capacity to build, fortify and repair is exceptional, and we can pack far more numbers into far smaller areas than most species.
+
+I’ve often considered what the best way to attack a stronghold defended by my army would be, and I always come to the same conclusion: fight somewhere else.
+
+Dislodging the Colony from a fortified position is never worth the cost.
+
+-           Excerpt from the notes of Solant.
+
+I have to say, probably not for the first time, just how much I dislike the Krath. It's not that they’re the schoolyard bully, but they’re the annoying kid who always knew how to point the bully in your direction, somehow always on the one day of the week mother had provided lunch.
+
+How the heck did you do it, Derrick? Could you smell the margarine sandwich?! It’s not possible! Even if you did smell it, you would have thought it was a butter sandwich!
+
+Gah. These damn slugs have got me so worked up that I’ve got weird memories from my last life popping up. The good old days when I was in primary school and still got lunches from home. It was only when I got to high-school the real foraging started.
+
+Who even cares about that?! I’ve got stupid slugs to try and hunt.
+
+And my family brings me all the food I could possibly want these days. In fact, I kind of feel like they bring me too much. There’s only so much I can eat, and I don’t need to consume Biomass to heal that much, since I trigger my healing gland over and over again.
+
+It’s nice and all, but there’s other ants who need the food more than I do. Yeesh, I’m starting to sound like my mother. My real mother. She still complains about the Colony trying to overfeed her, even though she hunts for most of her own food. I never thought I’d sympathise.
+
+I settle down amongst the reserve troops further back in the fortress to wait. If I go straight to the front, the slugs will call off whatever they’ve cooked up until I leave. It’s been way more efficient just to sit here and wait for them to make a move; at least I get to see some action that way.
+
+The thousands of soldiers, mages, generals and scouts in the waiting grounds make space for me in the middle and generally go about their business as if I wasn’t there.
+
+At least, that’s how it seems on the surface. Through the Vestibule, I can feel the Will of the Colony flooding through me, which means I know exactly what they want. What they want right now is for me to crush the Krath. The ants are diligent and dutiful soldiers who’ve remained calm in the face of the hit-and-run tactics, ambushes, feints and assaults, but even they can be irritated.
+
+The Krath are such a pain in the thorax that even my siblings have had enough. I have to do my best to make sure I don’t let them affect my mental state. If I get impatient and make a mistake, then I’m handing the Krath exactly what they want.
+
+“This really is an annoying opponent to face,” Advant sighs as she settles in next to me.
+
+“I can handle annoying a lot better than I can terrifying. If they can’t do better than this, then we’ve as good as won already,” I reply.
+
+“I wouldn’t be so sure about that,” the massive soldier warns me. “Attacks are getting more intense all around the fortress. The hospitals are filling up with toxin and poison cases. The slugs are looking for ways to harm us through the blue mana, and it’s working.”
+
+“It’s not fast enough,” I reply. Of course I’m aware of what’s going on around the fortress. “Every day, the construction becomes more complete. At the rate things are going, the outer defences will be finished before they make any real progress.”
+
+“That’s true,” Advant says, cleaning her antennae in a fussy manner. “But only if they don’t continue to escalate.”
+
+At that moment, a wave of pheromones floods through the waiting area, rolling over the reserves like a wave.
+
+“Seems like tunnel twenty two is being hit again. Things have been quiet for a while over there.”
+
+I lever myself to my feet and Advant flicks me with an antennae.
+
+“You’re heading out?”
+
+“That’s one of my favourite tunnels. I’ve been having fun crushing the hopes and dreams of the Krath in there.”
+
+“Well, be careful, they might be aiming for you in particular with this attack.”
+
+“Geez, I hope so.”
+
+At least that would mean I’d have something to go up against. Every time the Krath in this particular tunnel wind up for something, they end up running for the hills as soon as I show my face. The moment that became clear, it became my mission to make them run every time.
+
+You cowards get nothing!
+
+Once I’m up, I immediately start running, following the trails through the increasingly developed sections of the fortress-to-be. When I reach the tunnel in question, I’m delighted to see that the attack is well under way. Raging monsters right at the barrier, Krath lurking relatively close. This is finally a chance to give them the business!
+
+Let me at ’em!
+
+I charge forward, pushing straight past the disciplined ranks of the Colony and out into the toxic mana beyond the safe-zone. I’m immediately surrounded by a swarm of slime-coated beasts and sludge-shooting goopy things.

@@ -1,0 +1,121 @@
+---
+id: 31c9e1e3-c242-5d0c-a41c-89da4159b56c
+page-type-slug: story-chapter-royal-road
+title: "185: Piece by Piece"
+slug: 0185-185-piece-by-piece
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 185
+ownLength: 2238
+unit: words
+publishedAt: 2026-08-03
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3763859/185-piece-by-piece"
+royalRoadId: "3763859"
+---
+
+So, as it turned out, the giant laser-shooting robot dinosaur really meant business. In hindsight, Chloe probably should've expected that.
+
+The thing had some kind of weird energy shields that could shrug off magical attacks far better than any robot had any right to, while its armor was made from some super durable metal that was incredibly difficult to even dent. On top of that, all of its lasers, cannons, missiles, and whatever other ridiculous weapons it had hidden inside itself were ridiculously powerful.
+
+Anyway, thanks to Mr. Robo Rex, Chloe was currently experiencing a rather severe case of being dismembered. She couldn't remember the last time she had all her body parts separated like she was some cheese on a sampler platter, but suffice to say this was not a good situation to be in.
+
+The sequence of events had gone something like this: Chloe had flown toward the Mecha T-Rex, looking incredibly awesome while doing so, then the Mecha T-Rex had responded by firing one of its giant laser beams directly at her face. The end result was pretty bad and also kinda gross.
+
+Her head was currently lying on the ground beside a pile of robot scrap, tilted awkwardly on its side. Her lower body was somewhere in the room probably, although she couldn't actually see where. As for the rest of her torso… Well, it was definitely around here somewhere, probably. And Cloaky got cut up into shreds too, so there was also that.
+
+Chloe wasn't even sure how the laser had managed to cut her up this badly. Getting neatly sliced into several pieces felt oddly personal somehow. But hey, at least her head was intact, and that meant she still had a chance of getting back into shape. She wasn't sure why her regeneration wasn't kicking in yet, but maybe that T-rex had special anti-zombie lasers or something like that.
+
+From her current position, she couldn't see much of the ongoing fight. The scraps around her blocked most of her vision, leaving her with little more than flashes of light, loud explosions, and a concerning amount of laser noises. But hey, she could hear everything just fine. And judging from what she could hear, things weren't exactly going great. There was Percy yelling something in the distance, followed by the unmistakable sound of something collapsing on someone.
+
+Liz also sounded like she was having a terrible time, mostly because she kept shouting increasingly creative insults at the robot dinosaur every few seconds. Even more concerning, however, was Z.
+
+See, from what Chloe could hear, it sounded like Z was struggling. That felt weird since she had kind of just assumed that Z would eventually walk over and punch the giant robot dinosaur hard enough for it to explode.
+
+But apparently the giant laser T-Rex was simply built different. A deafening mechanical roar echoed through the district, followed by another barrage of explosions that shook the ground beneath Chloe's detached head.
+
+This thing was really strong. Like, absurdly strong.
+
+Divinity Inc. must have spent an absolutely ridiculous amount of money building this thing. A bajillion credits at least, maybe even two bajillion. The point was that this thing had to be expensive.
+
+Honestly, she felt a little honored. They had built a giant laser-shooting robot dinosaur specifically to fight them. A few moments passed before Chloe suddenly remembered that she should probably try and find the rest of her body so she could actually contribute to the fight.
+
+So, the first order of business was obvious. Chloe needed to stop being just being a head and back to being a fully fledged awesome zombie angel! Sadly, she couldn't exactly crawl anywhere in her current condition, seeing as she lacked both arms and a torso at the moment, but luckily she remembered that she had those weird special eyes now. She still wasn't entirely sure how they worked, but they did cool things, and this seemed like an excellent time to experiment.
+
+Focusing as hard as a detached head possibly could, Chloe activated her True Eyes of Dominion. The result was, to put it lightly, impossible not to notice, because her head suddenly launched upward like a cannonball.
+
+"WHOAAA—"
+
+A moment later, she smashed directly into the ceiling hard enough to crack it and partially embed herself inside. Chloe just kinda stayed up there for a while trying to not be so dizzy. But after her vision cleared up, she now had a much better view of the battlefield.
+
+Percy and Liz both appeared to have been electrocuted. The two Fallen Angels were sprawled across the ground, twitching and writhing every now and then as arcs of electricity occasionally danced across their bodies. Oof, they don't look so good.
+
+Thankfully, Z had managed to draw the giant robot dinosaur away from them before it could finish the job. Unfortunately, that only meant Z was now fighting the thing by herself. And even more unfortunately… She looked tense. Now, Z didn't seem injured at all, which was honestly pretty impressive considering what they were fighting, but Chloe could tell that things weren't going according to plan.
+
+The Mecha T-Rex had somehow unfolded yet another gun and was currently firing an absolutely absurd laser minigun. Hundreds of red beams poured toward Z. She stood her ground, one arm raised as a magical barrier shimmered before her. The shield held, but even from this distance Chloe could see Z slowly being pushed backward across the ground.
+
+Which meant there was only one thing to do, Chloe had to help. Immediately forgetting that she was currently a disembodied head lodged in a ceiling, Chloe looked around the battlefield as best she could.
+
+After a few moments of searching, she finally spotted something familiar. "Oh!"
+
+Her upper torso was partially buried beneath a pile of rubble near one of the collapsed factory walls. One arm was sticking out awkwardly from underneath the debris while little arcs of dark energy occasionally twitched around it.
+
+Chloe immediately felt relieved since her body wasn't lost after all. "Don't worry, upper body. I'll save you!"
+
+Alright, step one of Operation: Become Whole Again was obviously to rescue her upper body. Chloe focused her eyes once more, immediately activating her eyes. A moment later, her buried torso suddenly shot upward, and so did all the rubble pinning it down.
+
+Chunks of broken metal, shattered concrete, and several unfortunate robot parts came flying toward the ceiling at alarming speeds. Chloe could only watch in horror as an entire pile of debris hurtled directly toward her face. "NO NO NO!"
+
+At the very last second, the rubble missed her by mere inches, several pieces smashing into the ceiling around her instead. Whew, that was way too close.
+
+Her upper torso, meanwhile, slammed directly into the ceiling beside her and became partially embedded in it. For a little while, nothing happened, and Chloe got worried that maybe she had overdone things. But eventually, one of its hands twitched. "Upper body!"
+
+Chloe immediately began yelling even harder. "Get over here!"
+
+To her relief, her upper body appeared to understand. Its remaining hand glowed with pale blue light as ice rapidly spread across its fingers, freezing them to the ceiling and giving it a better grip. Then, using sheer upper body strength and determination, it pulled itself free from the hole it, uh, Chloe, had made.
+
+Honestly, it looked absolutely horrifying, as a headless torso with only one arm and no lower body crawled across the ceiling like some kind of nightmare creature straight out of a horror movie, its fingers digging into the metal while bits of rubble occasionally fell from above. Any normal person would probably have been screaming in terror at the sight, but Chloe only watched with sparkling eyes and growing excitement. "Yeah! That's it! Come on!"
+
+The headless upper body crawled over to her. Eventually, it reached her and carefully picked her head up with one hand. Chloe smiled. "Hey, thanks upper body! Now we just have to—"
+
+Suddenly, the torso pushed itself off the ceiling. The world immediately flipped upside down. Chloe screamed. They were falling. Apparently, her upper body had decided that remaining stuck to the ceiling was no longer a productive use of their time. "UPPER BODY, THIS ISN'T SAFE!"
+
+To its credit, however, the upper body seemed to have a plan. As they fell down, its hand suddenly glowed brown, and a pillar of stone erupted from the ground beneath them. A second later, the torso landed atop it while still holding Chloe's head in one hand. "Okay, that was actually pretty smart."
+
+Her upper body was a genius. Unfortunately, that particular realization lasted for all of three seconds before a deafening mechanical roar echoed throughout the battlefield. Chloe slowly turned her head, and her upper body helpfully turned as well, allowing both of them to look toward the source of the noise. The Mecha T-Rex had stopped fighting Z for a moment and was now staring directly at them.
+
+More specifically, it appeared to be staring at the rather unusual sight of a detached head being carried around by a headless torso. The giant machine's glowing red eyes glowed brighter as several armored panels along its body unfolded, revealing rows of missile launchers that rotated into position until every single barrel was pointed directly at Chloe and her upper body. Uh oh.
+
+Missiles immediately launched toward them, leaving trails of smoke in their wake. "UPPER BODY! SAVE US! DO SOMETHING!"
+
+Her upper body did, in fact, do something. Without even hesitating, it jumped. The moment it leaped off the stone pillar, the missiles slammed into their previous location.
+
+BOOOOOOM!
+
+Flames and smoke billowed outward while chunks of stone and metal were launched in every direction. The shockwave alone was strong enough to send debris tumbling across the battlefield.
+
+Meanwhile, Chloe and her upper body landed on the ground in a smooth roll. Chloe glanced side to side, pleased by the fact she somehow made it out alive. "Upper Body, you're just so cool, you know that?"
+
+Her upper body remained silent, though Chloe was fairly certain it looked smug somehow. Honestly, she couldn't even blame it.
+
+There was, however, still one rather important problem. Chloe was still missing half of herself.
+
+Sure, having her head back together with her upper body was definitely progress, and honestly much better than being a lonely head stuck in the ceiling, but she still needed to find her lower half. There was also the matter of Cloaky, who had apparently suffered an equally tragic fate. Some pieces of her loyal cloak were still draped around her upper body, torn and smoking slightly, but a lot of it was still missing somewhere out there on the battlefield.
+
+Poor Cloaky, hopefully he wasn't dead. Actually... could a cloak even die? Chloe wasn't entirely sure, but either way, she needed to put everyone back together. The problem was that she couldn't actually see where her legs had ended up.
+
+Chloe looked left, then right, and even tilted her head upside down because it somehow felt like that might help, but her lower half was nowhere to be seen. Thankfully, she currently possessed what was proving to be an incredibly competent upper body, so she looked at the headless torso carrying her for answers. "Hey, Upper Body, you wouldn't happen to know where our legs are, would you?"
+
+Naturally, the upper body did not answer. Mostly because it lacked a mouth, but it still seemed to understand the question. Its remaining hand adjusted its grip on Chloe's head while the rest of it suddenly began hopping.
+
+Since it only had arms and no legs whatsoever, the upper body had apparently decided that the best mode of transportation was to repeatedly push itself forward with one hand while cradling Chloe's head with the other. It looked kinda ridiculous, but hey, it worked.
+
+The headless torso continued its strange journey across the battlefield, bouncing over piles of rubble and weaving through broken robots. Every now and then it would leap onto a chunk of debris, balance there for a moment, and then hop onward again like some one-armed frog.
+
+Honestly, if Chloe wasn't currently involved in the situation, she would've found it hilarious. Actually, she still found it hilarious the more she thought about it. Her detached body parts just had this weird habit of being totally awesome, but then again, they were pieces of her body after all, so it was only natural.
+
+Anyway, Chloe;s upper body climbed over a collapsed section of metal piping, and then scrambled up a pile of debris until it reached the edge of a small ledge.Then it stopped.
+
+Chloe blinked. "Did you find it?"
+
+The upper body slowly pointed downward. Chloe followed the gesture. And there it was. Her lower half had somehow ended up embedded halfway into a wall. Both legs were sticking out awkwardly while bits of rubble surrounded it.
+
+Honestly, Chloe had no idea how her lower half had ended up stuck in a wall. Then again, she'd shot by lasers and nearly hit by missiles over the last few minutes, so somewhere along the way she'd kind of stopped keeping track of where all her body parts were ending up. But, none of that really mattered right now, she was one step closer to being back in shape.

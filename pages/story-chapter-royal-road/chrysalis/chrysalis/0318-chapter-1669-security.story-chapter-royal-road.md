@@ -1,0 +1,75 @@
+---
+id: 08e07455-a90c-587c-8b2a-b450d2016556
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1669 - Security"
+slug: 0318-chapter-1669-security
+partOf: chrysalis
+position: 318
+ownLength: 1135
+unit: words
+ownProgress: 1135
+publishedAt: 2025-10-17
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2682328/chapter-1669-security"
+royalRoadId: "2682328"
+markedReadAt: "2026-06-29T19:53:59.097Z"
+---
+
+Odren the Father of Monsters is both well known, as far as Ancients go, yet also shrouded in mystery. The Origin Cult who worship him aren’t particularly helpful in this regard. Ask two of them the same question and you are liable to get five different answers.
+
+As far as we can discern, it is not believed that Odren was the very first monster spawned in the Dungeon, but he is believed to be extremely old, perhaps the oldest of all the Ancients.
+
+Referred to as ‘the Father of Monsters’, some believe he is the source of all creatures that spawn in the Dungeon, though this view is not very widely held. We know the Dungeon itself is responsible for the creation of monsters, though it may be possible the Ancient initiated, or perhaps contributes to that process?
+
+Piercing the veil of mystery around Odren is difficult, yet we can gain clues about their nature from the evidence they left behind. Several sources seem to conclude that they rose in the frozen north during the Rending, amongst the steppes and foothills of the Skyhorn range. Historical records are hard to find, but scraps have been found that seem to agree an unstoppable tide of monsters poured out of the caves and fissures in the north, leading many in the cults to believe that Odren is capable of spawning hordes of creatures all of his own.
+
+Who can say how many monsters who rise from the depths are, in fact, his children?
+
+-           Excerpt from ‘Collective Wisdom of the Cults’ by Granin Lazus
+
+“I don’t have time to deal with this issue,” Solant said, her tone as flat and logical as ever. “The invasion goes on and we cannot pause our preparations for even an instant, lest we hand the initiative back to the Krath.”
+
+Sloan and Victor rubbed their antennae into their temples. Solant was an asset to the Colony, nobody could deny that, yet dealing with her was more than a little frustrating at times like this.
+
+“We aren’t asking you to come back to the fourth and manage border security,” Sloan told her, not for the first time. “We are asking if we can review the allotment of resources to the fifth. The family is pouring everything into the fifth campaign, everything, and it’s become impossible for us to secure our borders here in the fourth as quickly as we need to.”
+
+“Unless we get more bodies into the tunnels, we risk our territory being compromised by these interlopers. These church of the path interlopers. You know what’s going to happen if they manage to capture one of us, don’t you?”
+
+“Yes,” Solant said without emotion. “I know what they will do.”
+
+“We cannot allow that to happen. One of our sisters suffering that fate was one too many. We need scouts to map out the tunnels, soldiers and generals for security, carvers to build defences, mages to help all of them and core shapers for the most far-ranging work. With what we have available, it will take months, if not years, to fully seal off all of the tunnels. There are thousands of them down there.”
+
+The little general shook her head.
+
+“I cannot accept any less than what I have requested. If our offensive stalls out before the next wave arrives, then we risk far more than just a few ants being taken by the Church. So far the Krath have failed to take any of us, but if they do, it will be a far worse fate than anything the Priests of the Path can inflict.
+
+“Already they are regrouping and fighting us in the tunnels. As more of them gather and join forces against us, the worse our opposition will become. If we don’t strike now, while our mandibles are sharp, then we run the risk of losing everything that we have gained.”
+
+Sloan clacked her mandibles in frustration.
+
+“Are you sure you aren’t simply allowing your obsession with winning to cloud your judgement? If the Colony cannot afford to fight on these two fronts, then shouldn’t we be focused on protecting what we have, rather than fighting an impossible war?”
+
+“What will the Eldest say if they wake up and hear that their sisters have been captured by the Church and it could have been prevented?” Victor pointed out. “Are you willing to accept the consequences if that happens?”
+
+“It was the Eldest’s idea to invade the fifth in the first place,” Solant pointed out. “I don’t doubt they will support my decision to ensure that we are successful and achieve what we set out to do.”
+
+Sloan let her antennae slump down.
+
+“Fine. We won’t divert any resources from the conflict in the fifth and will hold our territory as best we can in the meantime.”
+
+“I appreciate that,” Solant said. “I promise I will not fail the Colony.”
+
+With that said, the little general turned and walked out, leaving the others behind in the small meeting chamber in which they had adjourned.
+
+“This is going to be hard, Sloan,” Victor said after a long, tense silence. “If we pull back, then we invite more pressure. If we try to hold the line, we create gaps in our defenses. Even if we do everything perfectly, there’s just too much ground to cover.”
+
+“It could end badly,” Sloan agreed, nodding her head as she thought. The more she considered the possible outcomes, the grimmer it became. Even if it was only the odd exploratory delver team looking for stray ants right now, that didn’t mean it would stay that way. Escalation was almost inevitable. The more the ants hid themselves away, the more emboldened the hunters would become, pressing deeper into Colony territory and increasing the risk of a serious incident.
+
+If an ant was taken, or maybe more than one, then what? The generals knew exactly where these teams were based, it hadn’t been hard to find out using their contacts and diplomatic corps. Going to war against an independent mountain kingdom wasn’t something they could sustain right now. Doubly so when the close ties to the Silver City were taken into account.
+
+Yet, the worst case scenario kept rising in her head, refusing to be pushed back down.
+
+If ants were taken, and the Eldest awoke to find out what had happened while they slept, what were the chances they wouldn’t retaliate? And if they did, assaulting Green Mountain and annihilating the guilty, the Colony would inevitably be drawn into a war that would span the entire fourth stratum.
+
+All of Pangera could be plunged into the conflict. An endless war that burned empires to the ground even as the Dungeon grew stronger and stronger with every passing day.
+
+“This is bad,” she said. “Really bad.”

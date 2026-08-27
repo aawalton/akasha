@@ -1,0 +1,135 @@
+---
+id: 72922336-4fba-5d9e-8ad4-dabfd8509537
+page-type-slug: story-chapter-royal-road
+title: "74 - The Return of the Minion"
+slug: 0074-74-the-return-of-the-minion
+partOf: cat-girl-evolution
+position: 74
+ownLength: 2178
+unit: words
+publishedAt: 2026-01-11
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2931783/74-the-return-of-the-minion"
+royalRoadId: "2931783"
+---
+
+I lean my head into Annie’s hand as she scratches behind my ears. She’s actually very good at this. She seems to know all the right spots to scratch. If only her breath smelled better.
+
+I mean, I know I’m in a medieval world without modern amenities, but her breath is awful. I usually tune out the smell of peoples’ breath because it’s not pleasant, but when her face is a foot away from mine and she’s breathing into my face, it’s hard to ignore.
+
+But even given the current level of technology here, her breath still seems unusual. There’s the smell of alcohol, as well as the usual bad breath smell, but underneath that, there’s something else. It almost smells rotten. What the heck did she eat?
+
+I endure the smell to enjoy the headscratches for a little longer, then turn to start walking away.
+
+“Aww, no, come back,” she says, stepping toward me.
+
+Heck no. Get away from me, rotmouth.
+
+I turn and run away, disappearing into an alleyway as she stumbles behind. A few seconds later, I’ve lost her, and she sighs and turns to walk away. Rather than continuing on my way back to the safehouse though, I instead double back a little and start following her from out of sight, jumping along the rooftops behind her.
+
+“Why?”
+
+I wanna see the cult.
+
+“Actually, I am curious too.”
+
+I continue following Annie as she makes her way down the street. She’s not that drunk, but she can’t quite walk in a straight line, and her steps are uneven. She stays on the main riverside street for a kilometer or so before turning down a fairly major street and heading deeper into the city. Her final destination, unfortunately, is not a cult building. Or at least, it doesn’t look like one. It appears to be an ordinary inn.
+
+That on its own is a little strange though. Why is she living in an inn? Are inns like apartments in this world or something? Or is she not from here? Now that I think about it, despite drinking with her last night, I know basically nothing about her. She really just let me and that old dude talk the whole time without ever talking about herself. Huh.
+
+She bursts into the inn, startling the man at the desk by the door, and immediately begins speaking.
+
+“Hey, Jerry, guess what?”
+
+“What?” he asks, sounding disinterested.
+
+“I got promoted! I’m high Bronze now!”
+
+“Congratulations. However, the other guests are sleeping, so please keep the noise down.”
+
+“Oh, right,” she whispers. “Sorry. I’ll get going now.”
+
+“Have a good night.”
+
+She walks up to the third floor, fumbles for a key, enters her room, and flops onto her bed. A few seconds later, she’s snoring. A few minutes later, she’s still snoring.
+
+Wow, that was a disappointing waste of time. No cults, and not even any juicy gossip. She just walked home and fell asleep.
+
+“I was expecting more too.”
+
+Well, there’s always next time.
+
+I wait another minute or so to make sure she’s actually asleep and not gonna do anything weird and culty before turning and heading back. She took me to a pretty dead part of town, so there aren’t really any people between me and the riverside. I don’t waste any time getting back there, and then proceed to take my time getting back to the safe house, letting people pet me for almost an hour before the streets get too empty and I get too bored to stick around.
+
+Back at the safehouse, I take a brief nap, but it doesn’t last very long. I’ve basically been sleeping all day, so both my body and mind are full of energy. I channel that energy into practicing with magic. Since I haven’t messed around with Internal Mana Manipulation much, I do a lot with it, practicing moving my mana to different body parts, and also practicing with the Fleshbender part of it.
+
+Before, I could really only make random body parts longer or shorter, but now I’ve started to try other things. I can also make less obvious modifications, like increasing my bone density or muscle mass. In a way, it’s almost like a real life version of Perfect Disguise’s character creator thing. I spend a few hours in front of the mirror testing out funny-looking changes.
+
+The coolest part about it all is that the modifications aren’t purely cosmetic. When I increase my muscle mass, I get stronger. When I decrease it, I get weaker. When I make my ears bigger, I can hear a little better, and I can hear worse when they’re smaller. Same with my nose and all that.
+
+There are limitations, of course, and I don’t even get close to finding them all tonight. I’m still too inexperienced with the Skill to know exactly how far I can go, but from the looks of it, I need to roughly maintain my original shape. For example, I can’t grow extra appendages or anything like that, and I can only increase my muscles so far before progress slows to the point that additional changes aren’t noticeable.
+
+There is also definitely a knowledge gap in here somewhere. The manipulation Skill takes care of part of it, and my Anatomical Analysis Skill takes care of another part of it, but there’s still a hole there where I actually have to physically understand what I’m doing, and I’m definitely not an anatomy expert. Like I know that more muscle equals stronger, but I don’t know exactly where to put the muscles to get the strength I want. The Skill makes sure that the muscles grow safely and in a way that meshes with my body, and Anatomical Analysis helps me analyze my own body and log body parts, but unfortunately, since I have yet to eat a human, Anatomical Analysis’ human profile is quite lacking.
+
+I could go find an anatomy book, or maybe talk to a healer or something so I can figure out how everything fits together properly. Abby tells me that it would be a good idea. But nah. I just need to find a person that’s evil enough that I can eat them with no qualms. That should fill out my Anatomical Analysis enough that I won’t have to actually do any real studying to make things work the way I want.
+
+Interestingly enough though, as I mess around with Anatomical Analysis, I notice that I have a shark profile. And not a sharkman, but an actual shark. The only actual shark I’ve seen is Joshua, which must mean that even though I didn’t physically eat him, him getting consumed by Gluttony while trying to possess me counted. That actually makes sense, since all my abilities related to eating things are tied to Gluttony, so Gluttony alone should be enough to activate them, even if it’s in my head. At least, I think that makes sense.
+
+The experimentation gets me pretty excited though. While I spend most of the time in beastperson form, I do go against Abby’s advice and risk switching to my base form to do some similar experiments. Not only do they work in that form, I think they actually work even better than in my disguise form. That does make sense, since it’s my natural form, after all, but it’s good to know.
+
+By far the best thing I figure out how to do with Fleshbender is unhinging my jaw. It’s not quite unhinging, and is more like just stretching the tendons and stuff that help close my mouth, but the end result is the same. I can open my mouth way wider than before, which means I can take way bigger bites than before, and by expanding my throat too, I can even swallow things whole like a snake. Not that I would ever do that for food, since I can’t taste it when I do that, but it’s still really fun, and I think Lauren’s face would look hilarious if I did that in front of her and just ate an entire steak whole or something.
+
+After a few hours of practice, for some reason, my body starts to feel a bit sore, and those few hours also left me a little hungry and tired, so I munch on some seafoodman, then take another nap. When I wake up, it’s a little after sunrise, and after I stretch, I notice that there’s someone standing right outside the safehouse. It’s Lauren!
+
+I Blink outside right next to her, making her jump in surprise.
+
+“You’re going to give me a heart attack one of these days,” she says.
+
+“Or, I’ll make you impervious to heart attacks by helping you build up a tolerance.”
+
+“Or that,” she says. “Anyway, sorry for not coming back last night. I had a really busy day, and I wasn’t thinking. I honestly barely even remember going home…” She frowns for a moment, then shrugs. “I guess I was just tired and went to my house out of habit. I hope you weren’t worried.”
+
+“Of course not.”
+
+“Yeah, I figured,” she sighs. “I’ve got another pretty busy day today. Not as busy as yesterday, but I still won’t be back until close to sunset. Try not to get into any trouble.”
+
+“I never get into trouble unless I mean to.”
+
+“Do you mean to get into any trouble today?”
+
+“No.”
+
+“Good. Well, then, I’m off. Sorry I couldn’t make breakfast. Maybe you can get your Profession upgrade today though.”
+
+“Actually, I got it last night! I’m a Lazy Cook now!”
+
+“Congratulations… Wait, what does that Profession even do?”
+
+“Not much,” I admit. “It just gave me an automatic mixing Skill. It’s pretty useful, I guess.”
+
+“Well, if you still want to pursue automated cooking, I guess it’s a step in the right direction. You should make sure you keep using your constructs to cook if you want to keep going that way.”
+
+“Yup, that’s the plan!”
+
+Lauren nods in approval. “Sounds like you’re doing fine then. I have an appointment soon, so I have to go, but good luck. And if you get too bored, go pick up a Quest at the Adventurer’s Guild or something. There are none for Platinums, but you should be able to keep yourself entertained. It’d be a good way to learn more about the world, actually”
+
+“Okay!”
+
+She walks off, and I head back into the safehouse for a bit. I am indeed hungry, so I make myself a nice big breakfast using only my conjured limbs while I lay down on the counter. It’s actually kinda hard to do it this way, since I’m looking at everything side ways while my mana hands have to hold everything right-side-up, but I get it made without too much spillage. And everything that does get spilled, I just Snatch it into my mouth before the five second rule is up.
+
+“The five second rule doesn’t matter to you because I doubt you can get sick from eating and dirt is now a spice to your tastebuds.”
+
+Huh. You’re right. I should experiment with using dirt for flavor. Rocks don’t taste bad. I bet I could make a great rock soup. Abby, add that to the list!
+
+“What list?”
+
+The list of recipes to try.
+
+“...Okay, I have created a recipe list and added ‘rock soup’ to it.”
+
+Excellent!
+
+After eating, I take another quick nap, then go back to messing with magic. After spending yesterday messing with Internal Mana Manipulation, I decide to give Emma a turn today. More specifically, I mess around with wings. I have to go outside the city to do this, but I’m able to find a nice cliff and test different shapes and sizes of wings. Unfortunately, I don’t make very much progress, and I end up ruining another skirt. While I myself am basically immune to falling from great heights at this point, my clothes, unfortunately, are not, and when I accidentally land too close to a tree, my skirt gets all torn up and I’m forced to change it.
+
+The day was not without fruit though. I did manage to glide for a few seconds. I had to make the wings huge to do that, but it worked, at least for a little while. As soon as I tried flapping them, I fell, but a few more tests proved that I could at least glide consistently as long as I didn’t do anything else or try to change direction too drastically. It’s definitely a start.
+
+A little after noon, I get bored and also hungry, so I head back into the city, and after grabbing some food, I decide to take Lauren’s advice and go to the Adventurer’s Guild to check out the Quests. As soon as I get there, I notice a familiarly eye-catching head of orange hair. It’s funny how we keep running into each other. This is the fourth time in three days. I guess it must be fate.

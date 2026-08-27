@@ -1,0 +1,79 @@
+---
+id: f2e64f74-03aa-5124-bcc2-fb5814902330
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1531 - Unbreakable Abyssal Steel"
+slug: 0179-chapter-1531-unbreakable-abyssal-steel
+partOf: chrysalis
+position: 179
+ownLength: 1053
+unit: words
+ownProgress: 1053
+publishedAt: 2025-03-18
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2133471/chapter-1531-unbreakable-abyssal-steel"
+royalRoadId: "2133471"
+markedReadAt: "2026-06-29T19:49:33.985Z"
+---
+
+For what reason does the Abyssal Legion have such a fearsome reputation? Why is it that anywhere on Pangera, on the surface or in the Dungeon, people know the name, Legionem Abyssi?
+
+The Legion are not a national army. They do not owe allegiance to any king, court or parliament, but instead operate as an independent force that is somehow allowed to maintain recruitment, training, keeps and castles in over half the lands in this world.
+
+The Legion does not trade. The secrets of their order are not for sale, no matter the price. The only way to claim a suit of Legion armour is to pry it from a dead Legionary, and if someone does, the Legion are sure to find them and ask for it back. Firmly.
+
+Funded largely through donations or tithes from grateful kingdoms, they have held firm against the monsters during–and ever since–the Rending itself.
+
+If one were to try and calculate the lives saved due to the Abyssal Legion over the last two thousand years, I am certain that number would be equal to that of all the living beings on Pangera today.- Excerpt from ‘Legionem Abyssi: an Examination’ by Kint
+
+“Shields up! Hold the line!” Chyron roared.
+
+After pushing their way through the existing defenders for the past five minutes, the Legion had finally reached the front ranks, giving time and space for the ants and their allies to withdraw behind them.
+
+Shoulder to shoulder, the Legionaries formed a wall, their shields wide and tall, locked together to present a unified front.
+
+For the initial engagement, Chyron anchored the line herself. Front and centre of the formation, she sucked the mana deep into her body, letting it rage through her flesh and infuse her muscles and armour.
+
+“Lance!” came the call, and as one, the soldiers slipped their shields to the side, opening a gap and launching a devastating thrust through the breach.
+
+A storm of sword-light exploded forth, two ranks of Legionaries concentrating the force of their blades outwards in devastating thrusts. The light carved holes through the monsters and encroaching waves of mucus, but the Legionaries did not press their advantage. Instead, they locked their shields together once more, activating their defensive skills to produce a wall of force that held strong before them.
+
+On three sides of the platform, the Legion formed an indomitable armoured wall three ranks deep. No matter how the monsters of the fifth threw themselves forward, regardless of their heedless charges or streams of slime and mucus, the wall did not break.
+
+“Lance!” came the call once more.
+
+Chyron gritted her teeth and summoned the force from deep within her aging body. Mana ignited within her flesh, empowering her muscles, strengthening her arm. The Abyssal Armour took that strength and enhanced it further, transmitting it to her blade as she moved with flawless technique, every joint rotating in sync as her blade Skill activated. Along with the soldiers on her left and right, the Commander shifted her shield to the side and thrust her sword through the narrow gap.
+
+It was a small opening, but through it she saw the horrors of the fifth bearing down on her position. Only, a moment later, those monsters were obscured from her vision as light exploded once more from the tip of her blade.
+
+The swordsmanship of the Legion was like everything else they did: simple, brutal and effective. Not for them was the elegant manipulation and control of the Folk Blademasters. Overwhelming force. Unstoppable penetration. Undeniable results. That was the style of the Legion, and Chyron was a master.
+
+The air trembled around her, and Chyron knew instantly what had caused it: the mage batteries were ready. Dense balls of deep red fire arched overhead, so intensely hot the soldiers could feel the searing heat of them despite the distance. As they reached just beyond the peak of the arc and began to curve down, the fireballs split into a thousand smaller shards of flame and accelerated, stabbing down into the monsters like a rain of death.
+
+Each one pierced and burned, driving deep into the filth and igniting many of the monsters they touched, but even that wasn’t enough. The corruption of the fifth was so strong that even the greatest magic wasn’t able to last long within its influence. Slime snuffed the flames, and even the most potent offensive magic eventually broke apart. No matter, the Legion would endure.
+
+“Heave!” came the call, repeated by centurions up and down the line.
+
+As one, the line dug in their heels, pushed their shoulder to the back of their shields, and pushed.
+
+An explosive wall of force burst forth, strong enough to shatter stone. Everything within a dozen metres was forced back; nothing could resist or stand its ground in the face of that overwhelming strength.
+
+“Attack!”
+
+Once more, Chyron summoned the sum total of her strength. Her body hummed with power; all of it was drawn out and poured into the heavy Incus pattern armour before extending down her sword arm.
+
+She executed a devastating slash, sending a wave of light slicing through the filth before her. Then another. And another.
+
+Each strike flowed into the next, her movements perfectly controlled. The channels carved through her body by the baptism lit up like fire as mana thundered through her body. Chyron bared her teeth in a rictus grin behind her helmet. She knew this pain was being felt by every man and woman in the line, by every mage channeling more mana through themselves than any human mage had the capacity to do.
+
+This pain was what it meant to be in the Legion. This was what it meant to sacrifice yourself to protect a world against monsters.
+
+Sword light continued to flow out from the platform in a ceaseless sequence of slashes, until finally…
+
+“Shields!”
+
+With a sound like a colossal iron gate slamming shut, the soldiers locked shields again, reforming the wall. In moments, the monsters and slime crashed into the barrier, pressing, slamming, chewing and screaming as they tried to break through.
+
+But they wouldn’t. With abundant mana flowing through her, Chyron knew she could keep this up all day. For a week.
+
+“WHO ARE WE?” she bellowed.
+
+“THE STRONGEST UNDER THE EARTH!” her Legion roared back.

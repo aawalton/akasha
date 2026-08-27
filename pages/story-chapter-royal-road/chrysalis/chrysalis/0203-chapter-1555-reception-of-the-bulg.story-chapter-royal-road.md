@@ -1,0 +1,89 @@
+---
+id: ad00cf82-b952-5bde-b64c-b56216d314f8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1555 - Reception of the Bulg"
+slug: 0203-chapter-1555-reception-of-the-bulg
+partOf: chrysalis
+position: 203
+ownLength: 989
+unit: words
+ownProgress: 989
+publishedAt: 2025-04-21
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2218271/chapter-1555-reception-of-the-bulg"
+royalRoadId: "2218271"
+markedReadAt: "2026-06-29T19:50:18.916Z"
+---
+
+Zluth awoke with a start, thrashing and struggling against the ties that bound him. Had he been caught by a sletherpod? Or was he being digested inside a volun turtle? That was dire, but he could still escape so long as he hadn’t been here long. The gastric juices of the turtle were insidious, breaking down prey from the inside out. So long as it hadn’t penetrated too deep, he could still call on his magic to…
+
+Wait… this wasn’t the stomach of a volun turtle, and he hadn’t been eaten by a sletherpod. Where was he?
+
+The Krath scout stopped thrashing and began to examine his surroundings more closely. He was immersed in fluid, to be sure, but it wasn’t stomach acid, rather a nourishing form of mucus the tribes cultivated, called streth; he recognised the taste of it. He was tied down, to be sure, but when he stopped struggling wildly, it was easy to manipulate his body and slip loose from the bonds.
+
+Breaking the surface of the fluid, Zluth sucked in a deep breath and found his wounds were much improved from what he recalled. That could only mean…
+
+Twisting his eye-stalks, he saw another Krath looking down at him with a savage expression.
+
+“What a delicious little morsel we have here,” she cackled. “Now that we’ve fixed you up, you’re ripe for the plate.”
+
+Zluth didn’t take her words all that seriously, as this was a fairly typical welcome to a tribe that wasn’t your own. There was every chance they did intend to eat him, but the fact they’d healed him meant they had other business first.
+
+“I am Zluth, Krath’lath of the Slee and Krath’sizz serving under Chozth of the Thuuz. I have a message for Ulliz, leader of your tribe.”
+
+“Must be some message,” the Krath replied, “to send you sliding through the Dungeon during a wave.”
+
+There was a grudging respect in her eyes, an acknowledgement of the incredible knowledge, skill and luck required to undertake such a journey.
+
+“What did you do to land such a duty?” she asked, curious.
+
+Zluth exposed his needle-pointed teeth.
+
+“I volunteered,” he said.
+
+Her eyes widened and she reached down to help him out of the healing pod.
+
+“That must be some message.”
+
+“I must speak to Ulliz. Urgently.”
+
+It would take time for him to properly heal, and the horrors of the journey would remain with him for a long time, along with the scars, but he had persevered and, somehow, survived. The Bulg must have found him somewhere in the tunnels, since he didn’t remember reaching their Slimeground at all.
+
+The last he could recall, he was racing to eat an ooze-worm before it ate him first. Clearly, he’d won the contest, only to pass out. Shameful.
+
+As Zluth continued to pull himself together, things were happening around him. The healer had fetched someone more important, who had done the same, until someone was sent to bring him before the Krath’lath. Sliding through the Slimeground of the mighty Bulg tribe was eye-opening to Zluth. The size was overwhelming to him; the sheer number of Krath was boggling. How did they feed so many mouths? Their farms must be huge, and their Blubbeasts hyper-efficient if they were able to maintain such a large population.
+
+Everywhere he looked, there were slugs staring back at him as they went about their work, or watching him from within their small homes dug into the walls. The Slee were a small and weak tribe, he’d always known that, and when he’d found the Suggoth to be twice the size, he’d imagined the larger tribes would be double that. Twice the size and strength of the Suggoth, a mighty tribe that could shake the fifth, seemed incomprehensible to Zluth.
+
+The Bulg weren’t twice as large, they were ten times the size, at least.
+
+When he was finally led into the chamber of the Krath’lath, Zluth felt angered, and humbled, by the impressive display of power and wealth. Powerful monster pets lounged around the raised platform in the centre of the room, surrounded by a luscious and vibrant garden of moulds, mushrooms and flowers, the most beneficial and attractive plants to be found in this part of the fifth.
+
+Arrays powered by large cores were used to light and moderate the temperature, creating a warm, steamy environment that caused moisture to form on his skin.
+
+Compared to this, the Slee truly were nothing.…
+
+In the centre of it all, flanked by enormous guards, sat the Krath’lath, Ulliz. Massive, with the mottled skin pattern favoured by his tribe and radiating authority, Ulliz was the picture of a commanding, vicious leader favoured by the tribes.
+
+As Zluth was brought before him, the mighty leader sneered contemptuously, openly looking down on the scout, despite his heroic efforts to reach them.
+
+“Zluth, Krath’lath of the Slee,” he burbled, glaring forcefully. “Has Chozth given up? Sent you slithering through the Dungeon to beg for help?”
+
+Zluth bared his teeth and the Krath’lath immediately exploded with rage, flesh sizzling with the force of his acid. Before he could order his Krath to tear Zluth apart, the scout spoke again.
+
+“The Maker has awakened. Theorazzn has spoken to the tribes once again.”
+
+The rage was sucked out of the room in an instant, and Zluth took that moment to bow respectfully, his previous insolence now a distant memory.
+
+“Will the Bulg hear the words of the Ancient? Maker of mucus and Master of the Krath?”
+
+To his credit, Ulliz was able to gather himself quickly.
+
+“When Theorazzn speaks, the Bulg will answer. What words has the Ancient for their people?”
+
+“Theorazzn has demanded three things. There are two monsters who must die or be turned. One must be found, the other is part of the invasion. Third, the singing must stop.”
+
+Ulliz frowned.
+
+“What singing?”
+
+“That,” Zluth replied, “is a question we need to answer.”

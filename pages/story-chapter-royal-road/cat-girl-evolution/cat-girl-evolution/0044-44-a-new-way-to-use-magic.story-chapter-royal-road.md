@@ -1,0 +1,229 @@
+---
+id: ee07bb92-1fd6-5fda-80ef-8047acdf0bb3
+page-type-slug: story-chapter-royal-road
+title: "44 - A New Way to Use Magic"
+slug: 0044-44-a-new-way-to-use-magic
+partOf: cat-girl-evolution
+position: 44
+ownLength: 2442
+unit: words
+publishedAt: 2025-11-02
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2724967/44-a-new-way-to-use-magic"
+royalRoadId: "2724967"
+---
+
+The place we pick for the practice duel is a few hundred meters from the campsite on the side of the road. There aren’t really any great places, since there are trees everywhere, but the twins in their infinite creativity come up with a fun solution.
+
+“Figuring out what each others’ abilities are is part of the fun,” says A. “But Pike did mention something concerning about your power, so how about a deal. I’ll use my strongest attack to clear some trees, then you do the same. That way we can make a better place to fight, and we can also make sure that the protection pins are strong enough.”
+
+“Alright.”
+
+I’m actually pretty curious about how strong I can be without relying on my sword’s ability. I’ve never really messed around with maxing out my power.
+
+“I’ll start,” says A.
+
+“Okay.”
+
+She turns to the side, raising her staff as mana starts gathering in a spinning orb at its tip. At the same time, B waves her own staff, creating a platform thingy out of mana below A’s feet, lifting her into the air. A is unperturbed by the motion, continuously gathering mana until the orb seems to contain her entire mana pool and is glowing like a miniature sun. In its light, I can see that A is smiling. It takes a full fifteen seconds at least, and when it seems like the orb is about to lose stability, she points her staff forward and it flies into the distance, disappearing behind the trees.
+
+The next second, she drops to the ground and B erects a barrier around us as a deafening explosion hits our ears, followed a few seconds later by a shockwave of dust and tree branches that crashes against the barrier like wind on a window. When it dies down, the forest is completely silent. A has stopped smiling, and is drinking some weird blue liquid that seems to contain more mana than her spell did.
+
+“What’s that?” I ask.
+
+The twins give me an odd look.
+
+“The mana potion?” asks A.
+
+Ah, that was probably a dumb question, wasn’t it.
+
+“Very.”
+
+I wasn’t talking to you.
+
+“Oh, I see,” I say. “They’re green where I come from.”
+
+“They are? How?”
+
+“I dunno. I’m not a potion maker.”
+
+“It’s probably due to local flora,” suggests B. “A different base for the potion makes a different color.”
+
+“I suppose,” says A. “Shall we go see how I did?”
+
+“Yes,” I say immediately.
+
+While there is dust and branches everywhere, the treeline still hides the greater part of the destruction and I want to see what kind of damage such a big explosion could have caused. The three of us walk in the direction of the explosion, and the closer we get, the more damaged the trees are. At first, they only have a few branches broken. A bit further in, the trees are missing a good half their branches, and some of the smaller trees are almost fully torn out of the ground. Then, even the big ones are starting to get uprooted, and soon, we reach a point where there are no more trees. Everything in a thirty meter radius is gone, and everything thirty meters further out is flattened.
+
+Abby, can I do that?”
+
+“An explosion like that? No, not at your current level.”
+
+No, I mean charge up my attacks. She was charging for a really long time and used way more mana than I can use in my Skills.
+
+“Oh, that? Yes. Absolutely.”
+
+Awesome!
+
+“Think you can beat this?” asks A.
+
+I look at her. Her face is back to being expressionless, but I can sense a hint of smugness in her eyes. I don’t like that. Sure, she spent pretty much all her mana and had to stand still for a quarter of a minute to do it, but she can’t be better than me. I am the Chosen One! I need a big strong explosion Skill! Or at least something big and destructive. Like the final attack I used on Skarn, but without relying on the sword. Maybe I can do that if I do what A did and use up my entire mana pool at once.
+
+“Maybe,” I say. “But I’ve never tried, so you should stand back in case I mess up.”
+
+I walk toward the other side of the brand new clearing, summoning my sword as I go. The sword’s veins are no longer red like they were at the end of the lizard Dungeon. That’s lame. I used the mana, but the blood should still be here.
+
+“It’s likely a use it or lose it deal. Unlike things in your Stomach, your Soul Weapon still experiences time, so the energy dissipates while it’s stowed away.”
+
+That’s dumb. Abby, file a complaint with the System makers!
+
+“It won’t do anything.”
+
+Do it anyway! Also, what happened to the one you said you were filing about my Species name?
+
+“It was received. They’re still looking over it.”
+
+Lame. So not only are they bad at names, they also have slow customer support. And before you say anything, I don’t wanna hear it. The System creators are dumb. If I was in charge, it would be way better.
+
+Anyway, back to cutting things real good. The reason I got my sword out is because despite the fact that I have no mana stored in it, the sword has way more reach than my normal claws, and it doesn’t cost me any mana to use like making a really big mana claw would.
+
+I raise my sword up next to me and start charging it with mana, facing some of the more intact trees. I focus on the Spatial Slice Skill as I do, and black mana starts to coalesce on the sword’s edge. As I hoped, it just stays there. For now. I can feel the Skill struggling though. It wasn’t designed for this much mana. That’s too bad because I’m gonna keep feeding it more anyway.
+
+After about ten seconds, unfortunately, I can tell that the Skill won’t take it much longer. It hasn’t even taken half my mana pool yet. Oh well. Guess it’s time to let it go.
+
+I swing my sword horizontally, but at a slight downward angle because the cuts with Spatial Slice are so thin that the trees wouldn’t fall over if I did it perfectly horizontally. The black mana flies out from the sword’s path like a fan, passing through the trees without resistance. It disappears after about a second, and then a few seconds later, the trees start falling. There’s a satisfying sequence of thumps and crashes as they hit the ground, and once it finishes, the extent of my destruction is revealed.
+
+I lost.
+
+I still did a lot of damage, and my fan looks like it reached a good thirty meters out, but compared to what A did, it’s clearly much less. I need to do better. I need to cut further. Or maybe I need an explosion skill of my own. Ember is still sitting there like a sad little child abandoned by their parents at a shopping mall. It’s only at Middle Proficiency. I bet that if I did the same thing with it a couple times, I could get some nice explosive upgrades.
+
+“Wow,” says B, walking up on my right. “Impressive.”
+
+“It didn’t destroy as much as A’s attacks.”
+
+“It was stronger though,” says A, walking up on my other side. “At least, it would cut through tougher defenses than mine did. I’ve actually had a Dungeon boss survive that last attack before. I was twenty levels lower at the time, but defensive monsters can be very durable. But yours was spatial mana. Structured spatial mana. Mine was a chaotic explosion of unattributed mana.”
+
+“I guess,” I say.
+
+She does have a point. I still am stronger. But I also want to have a big explosion.
+
+Also, seeing her explosion, I realize that I have a slight weakness: defense. That explosion would have killed me. There’s no way I could have avoided it. Blink doesn’t take me far enough, and I have exactly zero defensive Skills. Come to think of it, Skarn looked like he was about to use a big area of effect skill at the end right before I killed him. That could have been really bad. Abby, how do I get a defensive Skill?
+
+“There are three ways. First is to take a Class or Species that will give you those defensive Skills. Second is to learn from someone who has one at a high level. I bet that the defensive twin would be able to teach you a Skill or two. Third is to develop one yourself. You can’t grant yourself Skills, but if you practice a shield-like technique using raw mana manipulation, you might be granted an equivalent Skill at your next Class or Species evolution, regardless of what you pick.”
+
+Wait, so I can just ask them to teach me? Can I ask A to teach me the explosion Skill too?
+
+“You can.”
+
+Immediately, I turn to A, but before I can say anything, B speaks from behind me.
+
+“Is that a Soul Weapon?”
+
+“Yes.”
+
+“What’s its name?”
+
+“It’s–”
+
+“Don’t!”
+
+“--a secret.”
+
+Wow, Abby, you really think I’m that dumb that I’d just tell her that my sword is the sword of Gluttony, the Trait that you have made abundantly clear that I shouldn’t tell anyone about? You think I’m that foolish? That my head is that empty? Guess what, you just graduated to Offensive Blue Box, Obbject.
+
+“Dammit.”
+
+“Fair enough,” says B with a shrug.
+
+“What kind of abilities does it have?” asks A.
+
+I don’t think I’ll be able to keep this part a secret if we’re fighting together, so you’d better not Obbject to me telling her.
+
+“...I won’t.”
+
+“It can absorb mana from things it kills and stores it up for a powerful attack.”
+
+“Wow,” says A.
+
+“How powerful?” asks B.
+
+I think for a second. The attack I used on Skarn was around the same level as the attack I used just now, I think, but I was way lower level and my stats were way lower too. Now that I think about it, that attack was basically identical to this one, except I didn’t need to spend ten seconds charging it with my own mana because it just used the sword’s mana instead. I wish I could do that more than once. Charging up an attack for ten seconds is super impractical.
+
+“Stronger than that attack,” I say. “Maybe twice as strong? I leveled up a lot since I used it at full power last.”
+
+“Impressive,” says A. “Even that though, the pin should be able to handle. You are indeed strong, but the pins will hold. Just don’t attack us again after they go off.”
+
+“How will I know when they go off?”
+
+“They will make a really annoying high pitched whining noise.”
+
+“Ah, that’s easy then.”
+
+“Yes. So are you ready to begin?”
+
+“Do you have another one of those mana potions?”
+
+“Do you not have any of your own?”
+
+“Nope.”
+
+Usually, I just eat mana-rich meat, or eat mana directly, but I’m pretty sure I shouldn’t be able to do that. At least not as well as I do.
+
+“You owe us,” says A, handing me another mana potion.
+
+“Are these expensive?”
+
+“Ones this quality are.”
+
+“Alright.”
+
+Whatever. It’s fine. I’m rich! I think. Pike gave me part of my reward earlier. A thousand gold seems like a lot.
+
+“It’s probably not wise to promise people money under that assumption.”
+
+It’ll be fine.
+
+I take the mana potion from A and start drinking. Surprisingly, it tastes like apple. I don’t know why it tastes like apple when it’s blue, but it does. It’s not bad. Not something I’d voluntarily drink, but as a utility thing, it’s not bad. It also refills my reserves really quickly. I’m only a quarter of the way through the bottle when I’m back to full, but I drink a bit more because I’m pretty sure I digest mana way more efficiently than most people and don’t want to look too suspicious.
+
+Once I feel like I’ve had enough to be reasonable, I hand it back, and then B drains the rest of it. I guess she did use a few spells to help A. Wait, doesn’t that mean that A cheated? She had B to lift her up and then protect her from the aftershocks. I did it all on my own! She definitely cheated. That means I didn’t actually lose. I bet she couldn’t have made that big of an explosion if she didn’t have B with her to keep her safe. I’ll have to challenge her again once I have an explosion of my own. Speaking of an explosion of my own, I almost forgot to ask.
+
+“Teach me how to do that explosion you did,” I say, turning to A. “And I also want to learn how to make a mana shield.”
+
+A and B share a glance, then simultaneously shrug.
+
+“They’re not really rare Skills,” says A. “My attack was just an upgraded version of Mana Burst.”
+
+“And my shields are just upgraded versions of Mana Shield,” says B. “It’s not a big deal to teach you the basic Skills, and you can work on upgrading them on your own.”
+
+“But why don’t we make it a bit fun,” says A. “We’re about to fight, right? We’ll teach you the Skills, but only if you win.”
+
+“Yes,” says B. “And if we win you have to do something for us.”
+
+“What is it?” I say, narrowing my eyes.
+
+Do they want me to teach them something too? I can’t teach them most of my Skills, since they’re tied in with Gluttony. Though I guess the base versions aren’t. I could teach them Emma, I guess. Or Slice. Or maybe–
+
+“We want to touch your ears,” says B.
+
+“...What?”
+
+“If we win, let us touch your ears,” says A. “Just a bit.”
+
+“They look soft,” says B, nodding.
+
+I stare at them for a few seconds.
+
+“You want to touch my ears?”
+
+“Yes,” they both say.
+
+“You want to give them a good rub? Maybe scratch behind them? Massage my scalp, perhaps?”
+
+“We never-” starts A.
+
+“Fine. If you really want to, I suppose I can let you touch them if you win.”
+
+They share a glance, having another one of those silent twin conversations.
+
+“Deal,” they say together.
+
+“Then let’s get started!”

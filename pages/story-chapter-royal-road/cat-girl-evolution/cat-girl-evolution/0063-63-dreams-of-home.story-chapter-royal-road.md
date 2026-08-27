@@ -1,0 +1,271 @@
+---
+id: e5115c18-1ad4-53d9-83d3-63f4631c11bc
+page-type-slug: story-chapter-royal-road
+title: "63 - Dreams of Home"
+slug: 0063-63-dreams-of-home
+partOf: cat-girl-evolution
+position: 63
+ownLength: 2147
+unit: words
+publishedAt: 2025-12-17
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2855220/63-dreams-of-home"
+royalRoadId: "2855220"
+---
+
+Okay, Abby, how do I get unscrewed?
+
+“What happened to all that intelligent analysis from literally two seconds ago?”
+
+What happened to knowing everything?
+
+“I have literally never said that I knew everything, and I have the chat logs to prove it.”
+
+I don’t care. How do I get unscrewed?
+
+“Well, the obvious solution is to disappear. Go kill someone to complete your Infiltrator Quest, get another disguise, and take on a new identity.”
+
+But if I do that, I lose my minions.
+
+“Then you can wait for the investigator to arrive and try to prove your innocence. Without divine intervention, they have no way to prove that you’re a monster, and your backstory seems to be difficult to investigate, since your alleged origin is an entirely different continent and culture. That said, if they do find out, and they send someone powerful, you will be truly screwed.”
+
+Well, then I just have to prepare enough that even if they send someone strong, I can escape, right?
+
+“That is an option, yes, though a risky one.”
+
+Then I’ll do that. ‘Cause if I can just answer a few questions and then they leave me alone, that’d be easiest, and I’d get to keep my minions.
+
+“It’s not a bad plan. The way you abuse– I mean use your Stomach makes preparations easy for you. As powerful as you are, you could likely still punch above your weight if you stored enough spells up.”
+
+Yep! So I just need to find A and B and make them make me more.
+
+“Don’t forget about the assassin.”
+
+Honestly, I’m not too worried about them. Food Sense is pretty overpowered. Now that I have this bunker to sleep in, they’re not a huge danger.
+
+“Don’t get overconfident. If it’s another of those ‘Chosen One candidates,’ they could be quite strong.”
+
+Yeah, but I’m the real Chosen One.
+
+“And if it’s the servant of a deity, then they could be quite strong, as they would have been around much longer than you.”
+
+If they’re too strong, I’m dead anyway, and if they’re not, then I have nothing to worry about. I don’t really see the point in stressing over it. Sounds like my plans aren’t really gonna change. We’ll meet with the other minions tomorrow, I’ll make them all sign contracts, and then I can start doing other stuff. Maybe I’ll hit up a Dungeon so I can upgrade Fire Burst finally. Then, I’ll be able to store some supercharged Fireballs of my own. If the assassin shows up, I’ll take care of them.
+
+“I guess that works.”
+
+Great! Alright, bedtime! Seeya in the morning!
+
+“Sweet dreams.”
+
+In my dreams, I see a memory that I’ve tried my best to suppress. Over the years, the finer details have been lost, leaving only an exaggerated caricature that always has me waking up sweating. A dark alleyway with shadows that move whenever I’m not looking. Dark clouds pouring so much rain I can’t see more than a dozen meters in front of me. Thunder so loud it sounds like someone firing a gun next to my ear. Blood everywhere. On the ground, my clothes, my hands, and my face, and no matter how much it rains, there’s not enough to wash it all away.
+
+When I wake up, I sit straight up and lift my hands, half-expecting them to be covered in blood, but they’re clean.
+
+Abby, you jinxed me.
+
+“What? What happened?”
+
+Nothing.
+
+Anyway, I’m hungry. Time to make Lauren make me some food.
+
+Based on Food Sense, it’s morning right now. Not early morning, but not late either. In the streets around us, a bunch of people are moving around. There are also plenty still sleeping, but there are enough up and about that it’s obviously not late at night. Most of the people around seem to be heading to work, or making food, or things like that. There are two people that are just crouching on a roof looking at the safe house. What a weirdo.
+
+Wait.
+
+I Blink outside, then Blink again, appearing right on the roof next to one of them. He’s invisible, but he can’t fool my Food Sense, so I grab him by the front of the collar and lift him up.
+
+“Wait!” he says. “I’m not the assassin!”
+
+“How do you know there’s an assassin?”
+
+“Pike sent me! I’m just keeping watch!”
+
+“Did he now?”
+
+“Y– Yes!” he exclaims, holding his hands up. “I swear I’m here on official Guild business! Nothing sinister!”
+
+“That sounds like exactly what an Assassin would say.”
+
+“I swear I’m not! My name is Aaron! Aaron Reinhardt! I can show you my Adventurer’s badge!”
+
+“Can assassins not get Adventurer’s badges?”
+
+“You can ask Lauren! She knows me!”
+
+I narrow my eyes at him, then glance around. We’re drawing a bit of attention, and not the good kind. And I’m in my pajamas that I just bought. They’re nice, but they’re not really outdoor clothes. How embarrassing.
+
+I Blink back down to the safehouse, still carrying Aaron, then pull out the key stone thingy and walk in. Lauren senses me coming somehow, and when I open the door, she’s waiting in the hallway, confused.
+
+“Yona?” she asks. “Aaron? What’s going on?”
+
+“He was spying on us,” I say.
+
+“On the guildmaster’s orders!” he exclaims. “I was keeping watch, just in case the assassin came back.”
+
+Lauren looks back and forth between us for a few seconds, then sighs.
+
+“Yona, put him down. He’s fine.”
+
+I let go and he falls back to the ground, landing on his feet and straightening out his clothes. When he lands, I notice that he is very short. He can’t be more than 160 centimeters. And he’s pretty thin too. And young. Well, I actually can’t tell how young, but if he’s older than 25, I’ll be shocked.
+
+“How long are you gonna spy on us?”
+
+“I’m keeping watch, not spying!” he says indignantly. “And only at night. Pike said you were confident you could keep yourself safe if you were awake, so once you’re awake, I’m off duty.”
+
+“What about the other one?”
+
+“What?”
+
+I check Food Sense again and see that the other roof-croucher is gone. Shit!
+
+“There was another person watching the house too.”
+
+Aaron’s face pales. “Are you sure?”
+
+“As sure as I was that you were watching the house.”
+
+“Damn,” he says. “Which one?”
+
+I grab him again and Blink back outside and then up to the other roof where the other person was. Once again, I can’t smell any trace of them.
+
+“Right here,” I say, pointing to the spot where they were.
+
+It’s right in sight of the roof that Aaron was on, meaning that whoever was here was also invisible. They were both kinda just right on the edge, so there was no way anyone would miss them if they even kind of glanced the right direction and they were visible.
+
+“I didn’t see a thing…” he says. “How did you know they were here?”
+
+“I have a Space Affinity,” I say.
+
+He seems to accept that response, nodding in understanding.
+
+“We’ll have to report this to the Guild.”
+
+“Okay. Go do that then.”
+
+“Shouldn’t you come too?” he asks.
+
+“No. You already know everything I do. They were here, and then they disappeared when I apprehended you. That’s pretty much it. I’m too hungry to give a report right now. I’ll probably drop by later though. Alright, seeya.”
+
+I Blink back to the ground and re-enter the safehouse feeling quite good. The assassin made a big mistake. Now I know that I can sense them with Food Sense. They are no longer a problem. Crisis averted. Time to feast!
+
+“Minion!” I say, closing the door behind me.
+
+“Is everything alright?” she asks, still standing where she was when I Blinked away with Aaron.
+
+“No, not at all,” I say. “I am extremely hungry. Make me breakfast. Three dozen eggs and a kilo of bacon!”
+
+“...Alright.”
+
+A quarter hour later, I am happily chowing down in the safehouse’s dining room while Lauren more delicately eats her meal beside me. She looks more tense than usual.
+
+“You seem to be in a good mood,” she comments.
+
+“That’s because I have just found out that the assassin is a chump!”
+
+“What do you mean?”
+
+“I mean that they’re not really a threat to me as long as I’m awake.”
+
+“Are you sure?”
+
+“Yup!” I say. “Also, we’re still meeting with the other minions today, right?”
+
+“Well, we haven’t told them otherwise, so I would assume so.”
+
+“Great! By the way, I’m gonna make you all sign contracts.”
+
+“What? Why?”
+
+“‘Cause that way I don’t have to hide stuff. And I can travel more comfortably.”
+
+“I don’t think this is a good idea.”
+
+“Why? Are they not trustworthy?”
+
+“Not necessarily,” she said. “But have you ever heard the saying that ‘two can keep a secret if one is dead’?”
+
+“Yeah, actually. Weird. We have that exact same saying where I’m from.”
+
+“Well, the more you tell, the less safe it is.”
+
+“Yeah, but I value my own personal comfort more than I value keeping my secrets, and my own personal comfort is greatly enhanced by the presence of minions.”
+
+“I don’t think they’ll be willing to enter contracts of servitude. I wouldn’t be willing to enter a contract of servitude.”
+
+“What do you think I am, a slaver? It would just be contracts of secrecy, not servitude. If you can’t keep minions loyal without threats, then you shouldn’t have minions.”
+
+“You threatened me to make me your minion.”
+
+“Yeah, but that was different. You threatened me first.”
+
+“Fair…”
+
+“So, I will make you all sign contracts of secrecy, and then I will tell you my secrets, and then you will all be officially my minions.”
+
+“I still don’t know if they’ll agree to that.”
+
+“I’m pretty sure the twins will. And Chad will too to be closer to you.”
+
+“No he won’t.”
+
+“Yeah, he will.”
+
+“I just told you last night that he rejected me.”
+
+“Yeah, but not because he disliked you. Trust me, if you’re my minion, he’ll come too.”
+
+“He won’t.”
+
+“Wanna bet?”
+
+“No, because he won’t.”
+
+“100 gold says he will.”
+
+“I don’t gamble.”
+
+“Because you know you’re gonna lose.”
+
+“That’s not–! Ughhh, fine. But not 100 gold. If you win, you don’t have to pay me back for that meal at the Sea Lemon, or for the pot that you ate.”
+
+Oh, I forgot about that. Heheh. I should eat another pot. That was funny.
+
+“And if you win, I have to buy you another meal there.”
+
+“Deal.”
+
+“Speaking of restaurants, where were we gonna meet again?”
+
+“A restaurant called the Pig Palace. They specialize in pork.”
+
+“Right! Okay, but that’s not for a couple hours. In the meantime, which Dungeon has the tastiest monsters?”
+
+“You’re going to go into a Dungeon right now?”
+
+She looks a little bit baffled. Like she can’t possibly comprehend how I’m planning to act normally when I know there’s an assassin after me.
+
+“Yeah.”
+
+“...Well, then it’ll be the Boar Forest Dungeon. It’s in the forest and it’s full of boars. It’s where most of the meat in the Pig Palace comes from.”
+
+“Excellent!” I say. “Where is it?”
+
+“Just to the north of the city. You can’t miss it.”
+
+“Alright. See you in a couple hours then. Bye!”
+
+On the opposite side of the city, Annie breathed heavily in an alleyway. That had been close. She almost got caught. How her target had known she was there, Annie had no idea, but it was obvious that her stealth was not quite as foolproof as she thought it was.
+
+It’s okay, she told herself. This doesn’t change much. The Quest is still doable.
+
+Not being able to properly sneak up on her target was an issue, but not a debilitating one. She could work around it. She just had to get creative. She would have to approach more normally. No more stealth. Only disguise and misdirection.
+
+She grimaced at the thought. She hated doing things that way. Sometimes, it was quick and easy, and she was able to get out without much harm, but other times, it took longer. Days, weeks, or even months of ingratiating herself to her target until she finally had an opportunity to strike. When that happened, it always felt awful. Not awful enough to stay her blade, but awful enough to haunt her dreams.
+
+Still, she didn’t have a choice. The Quest came before her feelings. And at least she had a useful new tool to help her out.
+
+She took a deep breath, then looked up, closing her eyes. The faces of her siblings floated in front of them, and she suppressed a tear.
+
+For them, she thought.
+
+Then, faster than one could blink, she disappeared.

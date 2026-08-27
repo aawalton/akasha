@@ -1,0 +1,197 @@
+---
+id: 0be6981e-95a3-5d4c-84e0-249cf887263d
+page-type-slug: story-chapter-royal-road
+title: "177 - Cave Spider Killing Competition"
+partOf: bunny-girl-evolution
+position: 44
+ownLength: 3244
+unit: words
+ownProgress: 419
+publishedAt: 2026-03-03
+link: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3110914/177-cave-spider-killing-competition"
+royalRoadId: "3110914"
+---
+
+The entrances to the Silver sections of the Dungeon were quite different from the entrances to the Bronze areas. The Bronze entrances were all right near the surface, and were little more than doors with guards. The Silver entrances were all underground, though, and the school had dug out large rooms around them with enchantments to keep the ambient mana low to prevent spawns.
+
+The rooms were not empty either. There were tables and chairs all around for students to rest before or after a trip into the Dungeon, and on the edges, there were even a few merchants selling important equipment at marked up rates. They had food, water, flint, firewood, light-producing artifacts, sleeping rolls, spare clothes and just about every other essential that the students might have forgotten, and they all sold for more than double what they would have cost aboveground. Fortunately, Elise was more or less always prepared due to her two spatial storage artifacts, and the others didn’t seem to be missing anything either, so they walked past the hawking merchants without giving them a second glance.
+
+They did not go straight into the Dungeon, however. Instead, they first stopped by a large bulletin board right next to it where dozens of papers had been pinned up. This was called the Quest Board, and there was one in every Silver and beyond Dungeon entrance. Each sheet of paper detailed a Quest, and each Quest had rewards.
+
+About half the Quests were put up by students and staff looking for monster parts for their crafting needs. Each of these Quests awarded money, based on what the Quest-giver could pay. The other half of the Quests were created by the University itself, and awarded Quest Points. Quest Points were not worth any money, nor did they give any tangible rewards, so Elise had not paid them much attention, but they did have value to some people, and Leonidas and Cassian were among those people.
+
+Anyone who wanted to go into a career that involved hunting monsters, exploring dangerous regions, or sometimes even just normal guard duties, benefitted from Quest Points. They had originally been part of a friendly intramural competition, but because the school kept such rigorous records of all earned Quest Points, they later became a trusted mark of achievement, and a strong addition to any warrior’s resume. Having many Quest Points was an indication of ambition, competence, experience, and reliability, and for those who went so far as to top the leaderboard, they could basically pick their career post-graduation.
+
+On the Silver level of the Dungeon, none of the money-awarding Quests were very valuable—at least not to their relatively wealthy group—and the Quest Points weren’t that high either, but Leo and Cassian aimed to be adventurers, so they needed as many as possible. Cassian also explained that he thought it would provide a good goal for their group trip, so they wouldn’t just be wandering aimlessly, which seemed like a good idea.
+
+“Originally, if it was just us and Eleanor, we would have gone scouting out the route down to the Gold areas,” Cassian had said. “But since everyone’s here, we figured we’d take it easy and just have some fun.”
+
+Fun had been their original plan, at least, but when they stopped in front of the Quest Board, all their eyes were immediately drawn to one Quest in particular. The paper was golden, and four times the size of any others, making it stand out amongst all the others, and the words on it were interesting as well.
+
+ATTENTION ALL STUDENTS
+
+Recently, there have been reports of higher tier monsters being sighted in lower tier zones. This has not been accompanied by any significant changes in mana density, indicating that these phenomena are caused by disturbances on the lower levels of the Dungeon. Any information regarding the source of these disturbances will be rewarded. All students are automatically enrolled in this Quest (does not count toward Quest Limit).
+
+Quest: Acquire information regarding unusual disturbances within the Dungeon
+
+Reward: 100-10,000 QP (dependent on quantity and quality of information)
+
+WARNING: Caution is strongly advised on all levels and all entrances. Anomalous activity has been recorded near the following entrances, but is not guaranteed to be contained to these entrances:
+
+…
+
+The paper listed a dozen or so entrances, including both the one that they were currently in, and the one that Elise and Sophie had been in the previous weekend when the Greater Steel Crawlers had appeared. The low end of the rewards was in line with the rewards for the other Quests on the board, but Elise was fairly certain that the upper end aligned with the upper end of Quest rewards period, so it would be a tempting offer for almost any student.
+
+“Huh,” said Samantha. “So it wasn’t just the crawler entrance.”
+
+“I guess not,” said Elise. “It can’t be that bad though, right? Otherwise they wouldn’t still be letting students in.”
+
+“Our Exploration instructor was actually talking about this just earlier today,” said Cassian. “He said that the disturbances are infrequent, and that no students have been harmed so far. As long as we stay cautious, we should be safe. Plus, I know that Leo and I are around Gold level, and Eleanor almost definitely is too. Helene is Gold already, and I dunno about Samantha, but she seems pretty confident. Even with the added danger, I don’t think we have too much to worry about.”
+
+“I agree,” said Samantha. “And if you guys are Gold level, then I’m definitely Gold level.”
+
+Cassian glanced at her with an eyebrow raised. “Are you saying you’re better than us?”
+
+“Are you saying I’m not?” she countered.
+
+“I dunno,” he said with a smirk. “I guess we’ll have to see.”
+
+“I guess we will,” she agreed.
+
+“Alright, just give us a minute to sign up for some Quests, and then we’ll go.”
+
+Only three University Quests could be taken at once, so the two burly men took their time deciding which ones to pick. Ultimately, they settled on one main Quest, and two side Quests. The main Quest was to hunt a 5th Tier Venomous Cave Spider Brood Mother, and the side Quests were simply to hunt Greater Venomous Cave Spiders and Cave Widows, both of which were 4th Tier spider monsters. It was simple enough, and it went well with their group’s composition.
+
+All their targets were venomous, which would be dangerous if they got injured, but Jessie had multiple healing Skills to counteract that, and because they were venomous, their physical stats were lower than they otherwise might have been. Not that their weakness really mattered, given how strong everyone present was, but since they had never fought together before, they figured it was better to err on the side of too easy than too difficult. Besides, they were there for fun, not to push themselves, so they didn’t really need powerful targets either.
+
+To sign up for Quests, there were pencils in a basket below the Quest Board, and they simply needed to write their names on the bottom of the sheet. The names would be recorded somewhere else in the University, and would then fade from the paper, leaving them open for the next person to accept. While only Leo and Cassian needed the Quest Points, the entire group signed up for all three Quests, since they had nothing to lose. They also picked up a student-made Quest for Cave Widow venom sacs, since while they didn’t need the money, they also had no reason to turn down free money when they were going to be hunting Cave Widows anyways.
+
+With their Quests selected, they headed for the door leading into the Dungeon proper, and were stopped by the guards.
+
+“Did you read the big Quest?” asked one.
+
+“Yes,” said Cassian, the self-elected leader of the group.
+
+“Good,” said the guard, nodding. “Don’t be reckless. The only reason the Dungeon’s open is because no one’s been stupid yet. Don’t ruin it for everyone else.”
+
+“We won’t, sir,” said Cassian.
+
+“Good. Have fun.”
+
+The guards let them pass one by one after checking their Dungeon Passes. Their eyes lingered on Jessie for a moment longer than everyone else. She was disguised as a man, but while her aether had settled down since her {Rune of Fate} evolved, it was still unrestrained, and added to the fact that she didn’t have any level of Dungeon Pass yet, she drew some scrutiny. They didn’t say anything, though, since Helene was Gold, so taking someone without a pass into the Silver region was allowed.
+
+Because the Dungeon was so empty at the moment, when they arrived at the first fork, only one path had been marked by chalk, indicating that it was in use, and when they took an alternate route, it only took a few minutes for them to find their first monsters. It was a pair of Greater Venomous Cave Spiders, and as soon as Elise mentioned she sensed them, Cassian and Samantha began their competition.
+
+“I’ll take them,” said Samantha. “There are only two, so we should finish quickly.”
+
+“In that case, we should fight together,” argued Cassian.
+
+“They’re too weak,” countered Samantha. “If we all fight together, we’ll be slower than if I just clean up really quick and we move on.”
+
+“Then shouldn’t two people go?” asked Leonidas. “One for each?”
+
+“I suppose,” said Samantha. “But I don’t think it’ll make much difference.”
+
+“We’ll see,” said Cassian. “I’ll take one, you take the other.”
+
+“Alright.”
+
+While they bickered, Elise strongly considered just using {Forced Feeling} to kill both before they even came into view. It would certainly have been funny, at least for her. She wasn’t sure if she wanted to reveal that she could kill things with a thought from around a corner, though. Cassian and Leonidas already knew a little too much. She didn’t need everyone else to know too. Then again, they were the Aetheric Illusions classmates. If any students at Jelor University could be shown what she could do, it was them.
+
+Besides, she was extremely curious about Samantha’s abilities. From the moment they first met, Samantha had come off as confident, but there were times when her confidence seemed to border on arrogance. Notably, she recalled when she called Professor Emmett’s bluff about knowing her true identity. Her confidence was so absolute and unwavering it almost seemed foolish, but back then, she had been right. Would this time be the same?
+
+A few seconds later, the spiders finally rounded the corner, and Cassian and Samantha both shot toward their targets. Samantha was visibly faster than Cassian, reaching hers first and bisecting the horse-sized arachnid with a single strike. Cassian wasn’t slow, though, and just as she finished her attack, he struck his own target, cutting it all the way through just as Samantha had.
+
+Overall, Samantha had clearly won the miniature competition, but the gap between them wasn’t quite distant enough to warrant her confidence. At least not in Elise’s eyes. Cassian was scowling though, and Samantha looked quite triumphant, so Elise wondered if she had missed something. It seemed to her like Samantha’s strike was a bit weaker than Cassian’s, meaning that she was more speed-focused, while Cassian was specialized more in power. However, the other explanation was that she had used less power because she didn’t need to use more, and Cassian had instead been wasteful in his own strike.
+
+Elise was still contemplating exactly what she had seen, but Sophie clearly was doing no such analysis, and was instead rushing forward with a smile on her face.
+
+“Woah!” she said. “That was cool!”
+
+“Of course it was,” said Samantha.
+
+“It wasn’t much,” said Cassian, scratching the back of his head.
+
+The others soon joined them next to the oozing spider corpses, and when Jessie—who had disabled her disguise—added her glowing compliments to Sophie's, Cassian's spirits were fully lifted, and the whole group moved on cheerfully. They quickly found another pair of spiders, which Leonidas and Helene cleared out. Leonidas fought similar to Cassian, though a bit more simply, and Helene just used {Magic Missile}, though Elise was certain that she was more of an aether specialist than mana.
+
+Elise and Sophie took out the third pair themselves. Elise opted to imitate Helene and just use {Magic Missile}, but Sophie apparently wanted to show off, taking time to charge up a fire spell that caused a pillar of flame to erupt beneath the charging spider, melting its face and causing its eyes to burst. Elise was quite impressed at how calm Sophie had already gotten in just a few days since their first Dungeon trip, but she knew Irylax had been giving her extra lessons, so it wasn’t too surprising.
+
+Unfortunately for Sophie, her kill was not quite as clean as the others, and while the spider was more or less defeated by the attack, it thrashed and rolled on the ground, forcing her to take some extra time to end its life with a {Magic Missile} of her own. The group quickly moved on from that hallway to get away from the smell of burning spider hair.
+
+For every spider they killed, the corpses were simply left on the ground behind them. Their fangs and venom sacs were somewhat valuable outside of Jelor City, but here, they were worth little, so there was no point in taking them. And they had no trouble littering the Dungeon with corpses, as while the mana in spawn zones made monsters spawn, it also had the odd effect of making their bodies rapidly decay after a certain point, if no other monsters found and ate them. One way or another, the corpses would be gone by the weekend.
+
+As they traveled, the group talked and joked, and generally had a good time. Sophie was fired up from being surrounded by powerful people, and was extra motivated to do well, and Jessie was like a kid in a candy shop. She watched every single battle with wide eyes and a smile on her face, and while she had no fighting ability of her own, she provided excellent moral support in the form of compliments and cheering, which were so effective on Leonidas and Cassian that Elise wondered if she had a Skill for it.
+
+About 45 minutes into their excursion, they encountered their first challenge. Or at least, their first obstacle that made them stop and think about something beyond whose turn it was to fight. The tunnels and rooms had all been much larger than the ones up in the bronze areas of the Dungeon, but it was only now that that fact became somewhat of a problem.
+
+Cave Widows were the same Tier as Greater Venomous Cave Spiders, and they were also later evolutions of basic Cave Spiders, but their Evolution Path was different. Rather than growing large, and focusing on physical strength to supplement their venom, they went the opposite route, getting smaller and enhancing their venom while focusing on stealth. Their stealth was simple, and anyone with good observation skills would notice them, but they had other tricks beyond just hiding that made them somewhat difficult to handle.
+
+Unlike their larger brethren, Cave Widows actually wove webs, and they preferred to rest in high places. This meant that in the much larger rooms of the silver area, Leonidas, Cassian, and Samantha could not hit them without wasting mana unless they descended. Additionally, with the ceiling covered in stalactites, there was plenty of cover, and most had wedged themselves in crevices, so it was impossible to get a clean shot on them unless one stood directly below them, at which point they would drop and attempt to bite whoever was below them.
+
+Of course, all of this could be avoided by simply setting the webs on fire. The webbing was extremely flammable, and the Cave Widows had no resistance to fire. For groups who simply intended to push through as quickly as possible, this was a quick and easy solution to encountering such a cavern, but unfortunately for their group, they wanted to collect the venom sacs, which would burst and become useless if they caught on fire.
+
+“Let’s make it a competition,” said Samantha immediately once Elise described what was inside the room.
+
+“Done,” said Cassian.
+
+“What are the stakes?” asked Helene.
+
+“Hmmm…” said Samantha. “How about a secret?”
+
+“A secret?” asked Cassian.
+
+“Just a small one,” said Samantha. “The winner can pick one person, and they can ask that person one question, and as long as the answer is only a small secret, that person has to answer truthfully.”
+
+The others contemplated that for a few seconds, but Elise already had her answer. She had been thinking about it as they walked, but given the nature of their class, she felt she could probably show off her abilities, at least a little bit. Leonidas and Cassian probably already guessed, and they hadn’t told anyone, Elise trusted Jessie and Sophie, she knew Helene’s secret, so Helene wouldn’t talk, and she had a pretty good hunch that Samantha wouldn’t mind either. And if she actually tried, she would win this competition without issue. The others didn’t really have a chance. And given that Samantha was so mysterious that even Emmett didn’t know who she was, Elise thought this was a great opportunity to get some information out of her.
+
+“I’m in,” she said.
+
+“Oho,” said Samantha. “I didn’t expect you to be so eager.”
+
+“I didn’t expect you to offer me free information,” said Elise with a shrug.
+
+“So if you win, you’re going to use your secret on me?”
+
+“Maybe.”
+
+“In that case, we’re in,” said Cassian.
+
+“We are?” asked Leo. “Oh wait, yeah, we are.”
+
+“Me too,” said Helene, looking at Samantha.
+
+“Me too!” said Sophie, not wanting to be left out.
+
+“Then it’s a match!” said Samantha. “Are you all ready?”
+
+There was a small chorus of confirmations.
+
+“Then we’ll begin in 3! 2! 1! Go!”
+
+The others shot off into the cave, but Elise simply stood where she was, raised her hand, and snapped her fingers, sending out a {Power Word Kill} with {Whisper} to all eleven Cave Widows.
+
+[ You have slain Cave Widow, Tier IV, lvl 2 ]
+
+…
+
+[ You have slain Cave Widow, Tier IV, lvl 4 ]
+
+“I win,” she announced.
+
+Cassian and Leonidas immediately stopped, completely unsurprised. Sophie turned around, eyes yellow and wide, having apparently seen what Elise had done. Helene kept moving, but looked back in confusion. Samantha froze in place, then looked back at Elise with a wide, almost unsettling smile.
+
+“So you have,” she said. “No wonder you were so confident.”
+
+“Wait, what?” asked Helene, finally coming to a stop. “Oh.”
+
+It seemed that she had finally sensed the mana seeping from the dead spiders’ corpses, still trapped above them in their webs. When she did, she looked at Elise with a newfound sense of apprehension. Even Jessie seemed a little nervous, likely having sensed what Elise had done, which made Elise wince inside.
+
+“You knew this was going to happen too,” said Samantha, turning to Cassian.
+
+Cassian merely shrugged. “Maybe.”
+
+“I see,” said Samantha. “Well, I suppose that’s my fault for being too confident. And I also suppose I owe you a secret now, Eleanor.”
+
+“Indeed you do,” replied Elise.
+
+“Well. Ask away.”

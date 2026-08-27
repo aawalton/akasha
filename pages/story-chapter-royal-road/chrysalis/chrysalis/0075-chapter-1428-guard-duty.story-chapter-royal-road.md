@@ -1,0 +1,91 @@
+---
+id: b329a532-94e4-5bcd-a054-b8d0d27fd235
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1428 - Guard Duty"
+slug: 0075-chapter-1428-guard-duty
+partOf: chrysalis
+position: 75
+ownLength: 986
+unit: words
+ownProgress: 986
+publishedAt: 2024-10-10
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1842748/chapter-1428-guard-duty"
+royalRoadId: "1842748"
+markedReadAt: "2026-06-29T19:46:08.415Z"
+---
+
+Crinis and I hold down the tunnel, with some difficulty, I’ll admit. For my part, I cast an empowered gravity well and use it to press down everything in front of me. Any monster who attempts to make a charge toward this position ends up slamming face first into the ground as the incredible suppressive power of gravity flattens them. From there, it's a simple thing for Crinis to finish them off, or we just leave them. I mean, what are they going to do?
+
+However, creating a well large enough to cover the entire width of the tunnel, and also strong enough to be effective, would take an absurd amount of mana and Altar… juice. Also, I’d have to recast it constantly as the energy of the well would burn out pretty darn quick. So, I just cover the main section in the middle, which catches about ninety percent of all monsters, since they run straight at me most of the time, and I leave the sides to Crinis, who can cover them using her shadow portal shenanigans.
+
+And so we wile away the time. I don’t even bother moving, I just plop myself down and watch as the fifth gradually pushes in against the blue mana and flatten the monsters when they come.
+
+[I have a question, Master,] Crinis says after a while.
+
+[Shoot.]
+
+[What does that mean?]
+
+[Ask your question.]
+
+[Oh. I was wondering how much you were suffering from the Call since we came here.]
+
+Ah, I hadn’t actually thought about it for a while, which must mean it’s doing well. Idly, I try focusing on that special location, right in the guts of the soul, where I feel that cursed hook has been lodged. Surprisingly, it still hurts like heck! Isn’t it amazing what a person can get used to?
+
+Then again, I had a fair bit of ongoing pain when I was a human, so I guess I’m fairly used to it?
+
+Actually… is it possible that I experienced quite a bit more pain than most people when I was a human? I mean, life seems to be harder here on Pangera than it was on Earth, objectively speaking. There’s monsters, and a Dungeon, and Ancients and all that! Yet, there’s people who’ve never had their bones broken by someone collecting on their parents’ loans.
+
+How does that make sense?
+
+Eh, I’m sure there are plenty of people out there who’ve had their legs healed with magic. They probably wouldn’t even remember the incident, their legs were busted for what, a few minutes? Hah. I wish.
+
+The Call is still yanking away, as it does, but it’s nothing like it was above. The pain has reduced to the point where I don’t even really notice it. However, it will grow stronger over time, and I’ll be right back in the plops unless I keep going deeper.
+
+[It’s fine,] I tell Crinis without going into too much detail. No reason to tell her that I am actually hurting, she’ll just get bent out of shape.
+
+Not that she really has a shape….
+
+[That’s good to hear, Master. At least something good came out of coming to this awful place.]
+
+[You aren’t wrong. The fifth is pretty terrible, isn’t it? I’m not sure it has much in the way of redeeming features.]
+
+[It’s disgusting!] she declares, wiggling her tentacles to emphasise the depth of her emotions on this matter. [The monsters are just… dreadful! I’ve looked into their thoughts.]
+
+[Oh? Bad?]
+
+[Worse than their appearance, Master.]
+
+Ouch. That’s… that’s next level. If their thoughts are more disgusting than the way they look… what the heck are they thinking about?!
+
+No, don’t consider it, Anthony, that way lies only darkness.
+
+Oho, this is interesting, and a perfect diversion. A very sludgy-looking monster has gotten caught in my gravity well and immediately gotten compressed down to a puddle. But that doesn’t seem to bother it all that much, and now that puddle is slowly yet resolutely squirming across the tunnel floor to reach me.
+
+Honestly, I never thought of what I might do if I found a monster who couldn’t be flattened by a gravity well. I suppose a gravity bomb would be enough to crush its core, but it’ll prove to be expensive if I need to bomb every single one of these monsters I see.
+
+Curious, I watch as the sludge slithers its way towards me, fighting against the immense downward pressure of the increased gravity. In an odd way, I find myself cheering for it.
+
+You can do it, weird slime-thing! I believe in the burning, mindless hatred that lives inside you! Dig deep and embrace the rage!
+
+It takes quite a while, but eventually the little goober manages to make its way across the area covered by the well until it’s only a few dozen metres away. At that moment, it gathers itself together, compresses itself even further, then springs forwards suddenly!
+
+VOID CHOMP!
+
+[You have slain….]
+
+I let the familiar refrain from Gandalf roll over me. Talk about a telegraphed attack. Regardless of how squishy and morphable the monster might be, apply enough force to shatter the core and it’s over. Interestingly, this particular creature didn’t even have any parasites living in it, which seems to be somewhat unique down here. Just about everything is infested with something else.
+
+Just before I dismiss the encounter and start looking for something else to occupy me, I sense something in the distance. It isn’t exactly a monster, and it isn’t exactly mana.
+
+What the heck is it?!
+
+Before I can question too much, it’s already rolling through the tunnel toward me like a shockwave. The slime trails shake like leaves, rocks crack, mould goes flying as this thing ripples through the air towards me.
+
+[Crinis! Brace for impact!]
+
+[What is it, Master?!]
+
+[It’s… something! Jump into my shadow, now!]
+
+What now?

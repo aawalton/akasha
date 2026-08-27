@@ -1,0 +1,77 @@
+---
+id: 45b18cae-bc88-5456-b608-4b4986ef84ff
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1645 - The Snail Procession"
+slug: 0294-chapter-1645-the-snail-procession
+partOf: chrysalis
+position: 294
+ownLength: 961
+unit: words
+ownProgress: 961
+publishedAt: 2025-09-15
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2601011/chapter-1645-the-snail-procession"
+royalRoadId: "2601011"
+markedReadAt: "2026-06-29T19:53:13.170Z"
+---
+
+For Theresant, the slow ‘march’ of the snails through the fortress was agonising. At every turn, she would fret and worry. What if they hurt themselves? What if some soldier came blundering around the corner and stood on them? What if they were getting tired?
+
+Yet she was powerless to intervene. She knew as well as anyone that locking the chal up within the snailcare centre would only result in them staring at the door once more, putting them right back where they started.
+
+She had no choice but to let them do whatever it was they were so determined to do. Hopefully the grubs never started acting like this, or she wouldn't be able to deal with the stress. The very thought of having to shepherd a group of stubborn grubs through a nest was enough to make her start cleaning her antennae to soothe herself.
+
+Even more irritating, Florence, alongside her, seemed to be having a wonderful time. Clacking her mandibles enthusiastically and cheering on the chal as they slid along at their slow, dignified pace.
+
+“Don’t encourage them,” Theresant snapped.
+
+“Oh, don’t be silly,” Florence laughed. “Whether I encourage them or not, they’re going to keep doing what they’re doing regardless. I may as well be positive about the whole thing, it’s better than hovering about bringing down the mood.”
+
+“I’m just concerned.”
+
+“Of course. I still don’t see what you think is going to happen to them. They’re in the middle of the fortress! We have Brood Tenders running ahead to make sure the way is clear and everyone is being very patient and respectful,” she gestured to the waiting ants watching the little procession move past with fascination.
+
+“Yet we still don’t know what they want to do,” Theresant warned her sister. “This is the first time they ever showed any intention to leave the room, and we don’t know why.”
+
+“I hardly think they’re going to try and fling themselves into the fifth stratum to fight,” Florence said, “and if they try to do something dangerous, we will intervene.”
+
+What she said made perfect sense, yet Theresant still couldn’t shake the worry that nibbled at the back of her mind. Regardless, she had no choice but to follow as the chal slid through the tunnels, turning this way and that as they homed in on… something.
+
+At their slow pace, the chal continued on their way for hours while Theresant oscillated between light worry and borderline panic. Eventually, the chal hesitated for a moment before finally committing to a direction. Only this time, there was a problem.
+
+“Oh,” Florence said as another Tender reported back to her.
+
+“Oh? Oh what?” Theresant asked.
+
+“Apparently we aren’t able to clear the chamber ahead.”
+
+“Well then, we have to stop the hatchlings,” Theresant replied immediately. “We can’t allow them to go somewhere that isn’t safe.”
+
+Florence was only half listening, her attention focused on the Tender reporting back to her.
+
+“The Eldest is there?! Evolution!”
+
+Each exclamation did little to settle Theresant’s nerves, but the chal continued their resolute sliding, advancing toward the distant chamber without slowing their pace.
+
+“The Eldest is evolving up ahead?” Theresant asked, seeking clarification, her eyes latched onto the snails. “Is there a problem?”
+
+“Well…” Florence trailed off. “It seems as if the Eldest is also fighting off a dangerous mana infection. The healers are desperate to halt the spread, there are hundreds of them up ahead.”
+
+That didn’t sound acceptable at all. Deadly mana? Hundreds of healers battling to save the Eldest’s life? None of this was music to Theresant’s ears. She was suddenly nervous for the Colony, for the Eldest, but also for the hatchlings. This wasn’t the sort of situation they should be heading into!
+
+“We have to stop them, Florence,” she insisted. “We can’t let them go in there.”
+
+“And yet… that seems to be exactly where they want to go.”
+
+Florence watched as the little snails seemed to even accelerate slightly, as if their destination was finally in sight. They didn’t deviate in the slightest, this was definitely where they wanted to go, not even Theresant could deny it.
+
+“I know what you want to say,” Florence said, cutting off her sibling, “but there is no danger yet. Let’s watch for a moment longer. We can gather the Tenders closer so we can scoop up the chal if anything goes wrong. If we take them back now, we’re only going to wind up here again in a few hours’ time.”
+
+As much as she might have wished it not to be true, Theresant could only agree. If they took the little snails back, they would be staring at the door again, trying to get out. Right now, the chal were in no danger.
+
+Heart in her mandibles, she watched as they continued to slide forward. Closer and closer, they moved towards the chamber, finally crossing the threshold and entering within.
+
+Once she saw what was inside, Theresant almost demanded that the Tenders gather up the hatchlings and take them away. The Eldest lay within, still, slumbering, and yet, somehow wrong. Healers covered them like a blanket, pressed against their carapace, seeking to cure some deep ailment. Even the golgari were there, hands placed against the carapace, eyes closed.
+
+As she drew nearer, she began to sense it, the corruption that lay within, a foul taint that chewed at the Eldest from the inside. Her heart broke for the Eldest, and seized with fear for the hatchlings. She lunged forward, eager to save them from the danger, but she was too late.
+
+The little snails slid right up to the giant ant’s side, their eyes glittering with some deep sadness. As one, they drew breath, and began to sing.

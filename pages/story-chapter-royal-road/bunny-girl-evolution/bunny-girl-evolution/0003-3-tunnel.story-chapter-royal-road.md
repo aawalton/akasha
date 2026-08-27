@@ -1,0 +1,124 @@
+---
+id: d5a073d6-28c0-5977-bd24-1d8f17fe114f
+page-type-slug: story-chapter-royal-road
+title: "3 - Tunnel"
+partOf: bunny-girl-evolution
+position: 3
+ownLength: 2284
+unit: words
+ownProgress: 2284
+publishedAt: 2024-08-01
+link: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/1741061/3-tunnel"
+royalRoadId: "1741061"
+markedReadAt: "2026-06-29T20:02:45.558Z"
+---
+
+Elise used [Leap] to get back into the main chamber of her burrow. Did she need to do that? No. But did it help? Also no. She slammed into the far wall face first, causing her nose to sting, but she barely noticed the pain with how much she was panicking.
+
+She was stupid. A perfect place for a burrow that just happened to have no other large creatures around? She should have been suspicious from the very start. Of course there was some ultra-powerful monster that considered that area to be its domain. And of course it happened to show up on the same night that she settled down there.
+
+It was still just sniffing, so she was safe for the moment, but based on the size of its head, if it tried to dig her out, it wouldn’t take more than a few swipes to either uncover her or bury her, and obviously neither of those outcomes were ideal. Her alternate entrances weren’t far enough away for her to sneak out either. It would see her no matter which one she exited out of.
+
+She wallowed in indecision for a few moments longer before making what she thought was the best choice: digging deeper. If she couldn’t escape above ground, she would just have to go further underground. Even as strong and powerful as the wolf was, it would have to move many times as much earth to get the same depth she could. It still hadn’t made any moves yet, but Elise didn’t even consider waiting to see if it would leave. If it hadn’t noticed her from the smell, it almost certainly did when she faceplanted into the wall.
+
+She got another foot into the hill before her progress started to slow significantly due to the compactness of the earth. She did not let up her efforts though, because she heard the sound of dirt falling back at the main entrance as the wolf pawed at the hole. She dug until her paws started to hurt, then dug more. She could barely see the way back to the main chamber anymore with how much loose dirt had piled up, but the wolf’s careful excavation hadn’t ceased, so she kept going.
+
+She wasn’t sure how long she dug for, but it was definitely more than ten minutes. The wolf had stopped, but she hadn’t heard it leave yet, so there was no point in turning around yet. Her paws were getting rubbed raw, but it didn’t matter. The deeper she got, the safer she got. She dug and dug until suddenly, she reached forward to grab at more dirt only to find air as she fell down into a cave.
+
+It wasn’t too deep, but her landing was awkward and she felt a crack in her front left paw. She squeaked in pain and curled up to nurse the wound until she could get accustomed enough to the pain to think clearly again. When she was lucid again, she took in her surroundings. Thankfully, she was blessed with good dark vision, so despite the lack of light, she could still make things out.
+
+The cave was clearly not natural. It was almost perfectly round, and the walls were smooth packed dirt. At the same time, it didn’t look manmade. For one, it was too short: any human that wasn’t a child would have to hunch over to walk through it. It didn’t look like it had been drilled either, since it curved to opposite sides in either direction.
+
+Not liking the images that came to mind of what kind of creature could make such a tunnel, she shook her head, picked a direction, and started limping. Whatever had made the tunnel wasn’t there, and she didn’t hear anything either. On top of that, she was pretty sure the wolf was too big to fit in the cave, so the immediate danger was gone. She just had to find somewhere safe. Somewhere actually safe this time.
+
+The tunnel wound around with a seemingly random pattern of turns, ascents, and descents, none of which brought her any closer to anything. Her broken paw was throbbing in pain, and she was getting thirsty again. In the back of her mind, she knew that a broken limb was often a death sentence for wild animals, but she deliberately chose not to think about it. She tried filling her head with positive thoughts. She would find the exit to the tunnel, and she would survive. Her leg would heal perfectly, and she’d live a long and happy life, albeit one stuck as a rabbit.
+
+Her hope was rewarded when she started to hear the faint sound of running water. She sped up, hoping that she was finally nearing the surface, but when the tunnel sloped downward instead, she started having doubts. Whatever had made the tunnel probably needed to drink water too. If there was an underground river, she was more likely to encounter it at the water source than anywhere else. She didn’t have much of a choice though. There had been no branches to the tunnel, and she didn’t know if she could make it back to where she started and then further on only three legs.
+
+She committed to her path, and a hundred feet later, the tunnel opened up to a wide cavern the size of an airplane hangar with an underground river running through the far side of it. The cavern looked just as unnatural as the tunnel she had come from, with unnaturally smooth walls and ground. Even the river’s path was strangely uniform.
+
+She only noticed those things in passing though, as something far more eye-catching took up almost the entire corner to her right. It was an enormous, softly glowing, translucent orange orb that looked almost like one of the pods from the Matrix, but way bigger, and instead of being hooked up to machinery, it was attached to the ground and wall with some kind of pitch black web-like material.
+
+[Lesser Earth Wyrm, lvl ???]
+
+[Inspect has leveled up! Lvl 9 -> 17]
+
+[Evolution in progress (5h48m remaining)]
+
+Elise froze in her tracks. Identifying the “Lesser” Earth Wyrm had given her the same amount of levels that inspecting the direwolf had, which meant it was much higher level than the direwolf. It said it was in the middle of evolution, but she had been being chased by the snake while the System explained what that meant, so she had no idea how dangerous it was.
+
+System! Help!
+
+“Help? What seems to be-”
+
+Explain evolution to me again!
+
+“Certainly! Evolution is a process that all non-humanoid creatures go through as they progress. It allows them to become stronger and to learn-”
+
+Skip that part! Just tell me about what actually happens when you evolve.
+
+“I understand. When a creature evolves, it is enveloped in a cocoon while its body is broken down and reformed as its new species. During this time, the creature is very vulnerable, so typically, they find or create safe, isolated spaces so as not to be interrupted.”
+
+Is it possible to wake up in the middle of evolution?
+
+“No, it is not possible, as a creature undergoing evolution will not have a body to wake up until the final stage of the process.”
+
+Elise breathed a sigh of relief. That meant she still had almost six hours before that thing woke up. Plenty of time to get some water, take a quick breather, and get back out. She had no idea what she would do after that though. This Earth Wyrm was clearly not one to go to the surface often. What if the tunnel she was following never actually made it back up? She couldn’t dig back to the surface with a broken paw. She looked back at the giant orange as a thought crossed her mind.
+
+System, exactly how vulnerable are creatures during their evolutions?
+
+“That can vary based on species. Some evolution paths come with perks that allow them more safety during evolution. A standard evolution is still very delicate though. Even a mouse could chew its way through the membrane, and if the membrane is broken, the creature inside will die.”
+
+Elise eyed the earth wyrm as she contemplated. If it didn’t have a class that gave it extra protection, she could kill it right there and solve her most immediate problem. If it had decided this location was a safe place to evolve, that meant that she would also be safe there, as long as it was gone. There was no food there for her, but there was water, and she could live without food for longer than she could live without water. If she killed it, she could afford to rest for longer before turning back. On top of that, she would earn exp for killing it, so maybe she would get a skill that could help her escape, or if she was lucky, an evolution.
+
+But the prospect of killing the defenseless creature bothered her. No matter how dangerous it was, it had done nothing to her so far, and for all she knew it could be intelligent. It had dug itself a cave next to a river, so it was, at the very least, not mindless like a slime.
+
+System, is it possible for a non-humanoid to be sapient?
+
+“Yes! Dragons are one notable non-humanoid sapient species.”
+
+Does that mean that Wyrms are sapient?
+
+“Though not an uncommon misconception, Dragons and Wyrms are not the same creature. Wyrms are typically not sapient.”
+
+Typically?
+
+“It is possible for non-humanoid creatures to gain sapience at higher evolutions. However, this is rare, and not possible until the 6th evolution. If you wish to attain sapience, you must reach at least this evolution and have a Legendary species.”
+
+But I already have sapience.
+
+“I am sorry, but Forest Rabbits are not sapient creatures. If you wish to attain sapience, you must reach at least your 6th evolution and obtain a Legendary class. In rare cases, it is also possible to acquire a cross-species evolution that grants sapience.”
+
+But I am sapient.
+
+“I am sorry, but Forest Rabbits are not-”
+
+Enough, she thought. She was getting sidetracked. Is a Lesser Earth Wyrm sapient, or not?
+
+“I’m sorry. I cannot answer that question.”
+
+Elise sighed, then started considering the situation. She had no idea if what was inside was sapient. If it was, killing it mid-evolution would be murder. If it wasn’t sapient yet, but was evolving into something that would be sapient, would that be any different? She went down that rabbit hole for a minute or so before deciding it was a hole not worth exploring at the moment.
+
+The System had said that Wyrms were typically not sapient. Was this a typical one? “Lesser” and “Earth” didn’t scream “atypical” to her. It sounded like just an indication of its power and element. But what if Earth was named after the planet, and it was another human like her that had gotten transferred into a new body?”
+
+System, are there any other… people like me? Ones that died and got a new body as a non-humanoid?
+
+“My records are only updated until the point when you arrived. I do not know if any more have arrived since. When you arrived, there were 0 other humans using !@#$%^&*’s reincarnation system in this world.”
+
+Does ‘earth’ in a species name just indicate the element? Is it possible for it to be referring to the creature’s planet of origin?
+
+“The word ‘Earth’ used in a species title refers to that species' primary magical element.”
+
+Elise sighed again, this time in relief. She had been in that world for less than 24 hours. The odds of someone else getting reincarnated, getting reincarnated as something that powerful, finding enough experience to reach the evolution threshold, all while being within a mile of her were astronomical. There was almost no chance of that, at least. And if Earth was just an element, that was another thing less to worry about. The only concern left was that it was sapient through the normal means.
+
+“Lesser Earth Wyrm” didn’t sound very Legendary. Even if it was at the right evolution, that might not be sapient. And if it was evolving into something sapient… Was she willing to kill in order to survive?
+
+She wanted to say ‘no’, but between the pain and the fear, she was on the verge of thinking it didn’t matter whether it was sapient or not. After all, even if it did become sapient, there was no guarantee it wouldn’t immediately kill her when she woke up. If she decided not to, she would have to find a way to survive in a tunnel with a broken leg and the threat of two massive predators searching for her.
+
+Dangit, she thought. Fine. I’ll do it.
+
+If she didn’t it was almost certain death. She had no choice, really. It was kill or be killed, and she wasn’t so selfless that she would give up her life just because this creature might become sapient.
+
+She limped up to the orange evolution pod and peered inside. As far as she could tell, the inside was pure liquid; no sign of any Wyrm. Half of her wanted to wait a bit and prepare herself more, but she also knew that if she waited too long, and it turned out that the Wyrm had some kind of skill to thicken the orange membrane that held it together, she would only put herself in more danger.
+
+I’m sorry, she thought, and she bit down as hard as she could.

@@ -1,0 +1,123 @@
+---
+id: df877c03-cee5-50a0-be2a-7fb56451b934
+page-type-slug: story-chapter-royal-road
+title: "164: Tartarus Again"
+slug: 0164-164-tartarus-again
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 164
+ownLength: 2019
+unit: words
+publishedAt: 2026-06-12
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3529643/164-tartarus-again"
+royalRoadId: "3529643"
+---
+
+The rings Graham handed out turned out to be way cooler than Chloe originally expected. Apparently, if you tapped the ring once, it would create this floating magical arrow in front of you that pointed toward whichever person wearing the linked rings you wanted to find. All Chloe had to do was think about Z, Raenof, or Sierra, and the arrow would immediately adjust itself to point in their direction. Even better, the arrow changed color depending on distance too, becoming more red the closer someone was and more blue the farther away they were.
+
+Chloe spent a solid few minutes repeatedly booping the ring just to watch the glowing arrow spin around while she swapped between different people. At one point she accidentally kept making it flick rapidly between Raenof and Sierra because she couldn’t stop thinking about both of them at the same time, which made the poor arrow look extremely confused.
+
+Eventually though, once everybody finished preparing, Chloe lined up in front of the gate alongside Z. Up close, the gate looked surprisingly well-maintained considering it was apparently ancient.
+
+Massive stone pillars covered in glowing runes curved upward into a huge archway. The stone itself barely even looked weathered despite how old the structure had to be. Chloe had kinda expected something older and more cursed-looking. Maybe with skulls or something of that sort, since ancient magical gates really could’ve benefited from more expressive decoration in her opinion.
+
+But while Chloe stared up at the giant structure, another thought suddenly popped into her head. She blinked once before turning toward Graham. “Wait a minute, are you and Iris coming with us into Tartarus or not?”
+
+Graham shook his head slightly. “I am afraid not. Iris and I still possess matters requiring our attention here within the mortal realm.”
+
+“Like what?”
+
+“For one, we still need to recover the remaining black boxes containing fragments of your mother’s power.”
+
+“Ohhh, right.”
+
+Chloe vaguely remembered the weird black boxes now. A lot's happened in her unlife lately that keeping track of all of them was getting difficult. Still, if those boxes were apparently important to Mom stuff, then they mattered a lot.
+
+“Well,” Chloe said while shrugging a little, “good luck with all that then.”
+
+“Likewise,” Graham said.
+
+Nearby, Iris simply gave Chloe a small nod from behind her mask while Z adjusted her glasses. Chloe herself mostly just felt excited, because after all the fighting, dungeon crawling, and a bunch of other nonsense, she was finally one step closer to finally reuniting with her Mom.
+
+Graham eventually stepped towards the ancient gate, and a moment later he conjured the broken sword Chloe had won back at the auction a long time ago from thin air. Even now, there wasn’t really anything about it that screamed “super important magical artifact", but hey, stranger things have happened.
+
+Shortly after, Graham approached the massive stone archway calmly before raising the broken sword in one hand. And then he crushed it for some reason. The old blade shattered instantly between his fingers with a loud crack as fragments of ancient metal exploded and scattered across the ground. Chloe scratched her head, because that seemed incredibly counterintuitive.
+
+But then, the gate reacted. A deep pulse rolled through the mountain and the massive stone archway erupted with light. Every rune carved into the gate blazed to life while streams of energy raced wildly across the engraved symbols.
+
+Swirling energy gathered inside the center of the archway, twisting together into a gigantic vortex of light and shadow. Then, with a deafening roar of magic, the center of the gate fully tore open.
+
+A massive swirling void appeared inside the archway, glowing with layers of crimson, violet, and black energy that spiraled endlessly. Strange flashes of distant landscapes flickered deep within the portal for brief moments before vanishing again while arcs of magic crackled across the edges of the gate.
+
+Once the gate finally settled down a little, Chloe stared at it wide-eyed. Then she immediately whipped around toward Z with pure excitement. “Z! Did you see that?!”
+
+Z sighed. “Yes, Chloe, I was standing directly next to you.”
+
+“But look at it!” Chloe said while pointing at the giant portal. “It’s all glowy and swirly, this is just like those fantasy movies where the heroes go into the evil dimension near the end!”
+
+Now would be a great time to have some dramatic orchestral music, but Chloe had to reluctantly accept that she couldn't have everything she wanted. Anyway, Z simply looked at her for a moment with the exhausted patience of someone already used to Chloe being Chloe.
+
+“Let's go, we should leave before the portal destabilizes.”
+
+Chloe pouted a little at having her excitement interrupted, but eventually toned herself down slightly before turning back toward Raenof, Sierra, Iris, and Graham.
+
+She waved both arms enthusiastically at them. “Bye for now! Hope to see you guys again soon!”
+
+***
+
+Ishgria sensed the moment Chloe crossed into Tartarus. Even separated by enormous distance, she knew that her daughter had finally arrived.
+
+Under different circumstances, Ishgria would have gone to Chloe immediately. She would have greeted her daughter properly, wrapped her in a tight embrace, and checked whether her baby girl had been recklessly throwing herself into danger again. Considering this was Chloe, the answer was almost certainly yes. Unfortunately, Ishgria’s current situation left very little room for emotional reunions.
+
+At the moment, she stood in one of her hidden fortresses buried far beneath Tartarus, surrounded by dozens of angels moving throughout the massive underground facility. Entire sections of the fortress had been converted into fully operational rooms. Long tables scattered across the central chamber were covered in maps, handwritten plans, reports, blueprints, and tactical diagrams pinned beneath crystal paperweights. Some angels stood gathered around these tables discussing strategy while others rapidly typed away at their computers.
+
+And despite the tense atmosphere, not every angel looked stressed. Off near one side of the chamber, several angels were seated around a smaller table quietly drinking coffee while taking what appeared to be a brief break from their duties. One of them looked half asleep while another casually flipped through paperwork.
+
+Ishgria had done everything she could to transform this section of the fortress into a proper workplace. It still lacked many of the comforts and luxuries she once enjoyed back in her old office long ago, but the facility served its purpose well enough. The infrastructure was stable, and more importantly, the people working under her had somewhere safe to continue coordinating their efforts. Unfortunately, “functional enough” no longer felt sufficient given the current situation. Now she was going to have to work herself relentlessly just to ensure the entire operation survived what was coming next.
+
+A familiar voice suddenly approached from nearby. “Boss, we got a problem.”
+
+Ishgria turned slightly as one of her angels hurried toward her. This one was wearing a dark sweater layered over a collared shirt alongside a pair of faded jeans and sneakers. Despite the more casual clothing, the exhaustion written across his face made it obvious he had probably been working for quite a while already.
+
+“Corswain,” she said, already knowing exactly where this conversation was heading, “is Ymir already inside Tartarus?”
+
+Corswain frowned at that. “Yeah, Boss. She’s… already here, and she brought a massive entourage with her.”
+
+How typical. Ishgria thought to herself.
+
+“Recall every angel currently stationed in the upper floors immediately,” Ishgria ordered. “I want all personnel brought back down here as soon as possible.”
+
+“Boss, I understand where you’re coming from, but are you sure it’s a good idea to leave the upper floors basically undefended?”
+
+“It is not a decision I enjoy making. However, I would rather prioritize the safety of our people than waste lives attempting to hold territory we may not be capable of defending properly at the moment.”
+
+“Got it, Boss. I’ll notify the broadcasting team right away.”
+
+“Thank you, Corswain.”
+
+Corswain gave her a respectful nod before quickly hurrying off to another part of the fortress, Meanwhile, Ishgria quietly started walking deeper into the underground complex toward her private office.
+
+As she moved through the halls, nearby angels often stopped what they were doing when they noticed her passing by. Many lowered their heads respectfully or greeted her politely as she walked past. Ishgria returned the greetings with small warm smiles and occasional waves despite the growing stress sitting heavily in the back of her mind. Even if it sounded a little vain to admit, she understood how many of them saw her. To a lot of the angels here, she was the reason they were still alive.
+
+Eventually, Ishgria arrived outside the doors to her private office located deeper within the fortress. She reached into her coat pocket and pulled out a small key card before scanning it against the panel beside the door. A soft chime rang out, and soon after, the heavy metal doors slid open.
+
+The office beyond looked far warmer and more personal than the rest of the fortress, and that was intentional. Comfortable couches, soft rugs, and stacks of books were scattered around the room. One corner contained a small kitchen area with a coffee machine and mugs resting nearby, while another had a low table surrounded by cushioned chairs. Plants rested near the walls beneath artificial grow lights, adding bits of green life to the room.
+
+Ishgria had done her best to recreate the office she once had back home. But no matter how carefully she arranged everything, one very important thing was still missing from it.
+
+She walked towards one of the nearby shelves filled with books, folders, and framed photographs. Her eyes settled almost immediately on a particular picture resting near the center. It was a photo of her and Chloe together during Chloe’s high school graduation.
+
+Chloe stood there grinning proudly at the camera with her valedictorian sash draped over her graduation gown while Ishgria stood beside her with one arm wrapped tightly around her daughter’s shoulders. Even in the photograph, Chloe looked impossibly energetic and smug. In all fairness, Chloe was just naturally smug and cheerful all the time, but Ishgria remembered her being especially happy that day.
+
+Ishgria slowly picked the frame up with careful hands. The moment she looked at the picture properly, tears immediately began forming in her eyes.
+
+That day had been one of the happiest moments of her entire life. To watch her little girl grow up, succeed, and stand there so proud of herself after working so hard… it had meant everything to her. Chloe had been so excited afterward too, already talking endlessly about the future and all the things she wanted to do next.
+
+If circumstances had been different, Chloe would have already gone off to college by now. Ishgria still remembered the moment Chloe told her she wanted to study law and eventually become a lawyer. Honestly, the choice had surprised her quite a bit at the time. Of all possible careers Chloe could have chosen, becoming a lawyer had not been among Ishgria’s first guesses.
+
+Honestly, Ishgria had originally expected Chloe to choose something more creative, or maybe go into business or marketing instead. Becoming a lawyer had definitely caught her off guard at the time.
+
+Then again, Ishgria vaguely remembered mentioning more than once that Divinity Inc.’s legal department had been horribly understaffed back then, so maybe Chloe had gotten the idea from that somehow. Looking back on it now, Ishgria wondered if she should have reminded Chloe more often that she could, and should, choose any career path she wanted for herself.
+
+But, none of that would have changed how proud she felt of her daughter. No matter what Chloe chose to become, Ishgria would have supported her completely. And more than anything else, as she stood there quietly holding the graduation photo close against her chest, she simply wanted to see her little girl again.
+
+And when Ishgria finally saw her daughter again, she fully intended to give Chloe the graduation gift she still owed her.

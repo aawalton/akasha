@@ -1,0 +1,99 @@
+---
+id: 1b74fb3d-3f9c-5749-8b02-ae0e2197550f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1402 - The Krath’lath’s Plans!"
+slug: 0049-chapter-1402-the-krath-lath-s-plans
+partOf: chrysalis
+position: 49
+ownLength: 1088
+unit: words
+ownProgress: 1088
+publishedAt: 2024-09-03
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1786026/chapter-1402-the-krathlaths-plans"
+royalRoadId: "1786026"
+markedReadAt: "2026-06-29T19:45:12.058Z"
+---
+
+“What is happening?!” the Krath’lath screamed.
+
+The acid and fury bubbled throughout her slug-flesh, causing it to sizzle and pop at the edges.
+
+The pain only sharpened her rage. The surrounding Krath leaned back from her, unwilling to fall prey to her wrath. They too felt the mindless rage of their kind rising. The ants were coming! Finally, they were coming!
+
+Each and every one of them needed to suffer in the acid pits for this invasion! And yet. And yet!
+
+“Something is consuming the Acid Mucus, Krath’lath,” Goszi reported.
+
+The old Krath had positioned himself wisely, staying as far from the tribe leader as possible while still remaining in the chamber. Two bulging red eyes turned on their stalks to face him.
+
+“I can see that,” the Krath’lath bellowed. She pointed with one of her spindly limbs. “Is that a whirlpool of mucus!?”
+
+It was. From their position close to the ceiling, the Krath were able to look down on where the giant ant had fallen. As part of their welcome strategy, the Krath had diverted several mucus rivers into this tunnel, flooding it with the highly toxic and acidic substance.
+
+But now, it was being drained away, sucked into… something that they couldn’t see. What could possibly consume so much of the dreaded stuff? Already, the level in the tunnel was half of what it had been only a few minutes ago.
+
+From the depths of the muck, they caught an occasional burst of the most horrific sound, a scream of hunger so dreadful it put the burning in their own stomachs to shame.
+
+“Have any of the needle-eels poisoned that insect yet?”
+
+“They can’t penetrate its shell.” Again, Goszi made the report, but from an entirely different position. As the Krath’lath had raged through the chamber, he’d moved carefully to maintain his distance.
+
+“How is that possible?” The Krath’lath raged.
+
+“Apparently, it’s too hard for the eels to get through,” the old Krath replied.
+
+“HOW IS THAT POSSIBLE?” she screamed back at him.
+
+Those eels were notorious for their ability to puncture just about anything. Every monster, no matter how thick their shell, lived in fear of these eels! Once they pierced through, they would inject their digestive enzymes into the prey, liquifying it from the inside out. A terrible way to die, and a fitting end for the leader of this invasion.
+
+Before she could unleash her rage, the leader of the tribe was distracted by a new development at the opening to the fourth stratum.
+
+Large… pipes… were lowered down into the sludge. The moment they made contact, the metal began to hiss and steam, then rattle as they appeared to suck the mucus up and into the tunnel above.
+
+The Krath’lath considered what she was seeing for a moment, her eyes sizzling on their stalks as she bottled her anger.
+
+“They’re going to feed the mucus to their… pets!” she roared. “Destroy the pipes immediately!”
+
+One of the Krath dove down into the river, extending his body to slip through the gunk at incredible speeds. Rapidly, he sliced through the thick sludge, expertly dodging the darting eels as he made his way to the pipes. Mere moments before he reached them, he exploded upwards out of the river and slammed into the rock ceiling of the tunnel.
+
+There he remained, pressed against the stone so hard he flattened out to only a few inches thick, wrestling against an invisible force holding him in place. Every watching Krath shuddered in rage to see one of their tribe caught, eyes bulging on the ends of their stalks.
+
+Then it appeared.
+
+Rising up from the sludge, its carapace pulsing with dark purple light, the massive ant made its presence known. It stared straight up at the slug caught on the rock and began to clack its mandibles mockingly.
+
+Unable to escape, the Krath did as all his kind would do: he ruptured the acid glands deep inside his body with one claw and laughed mercilessly as his flesh was eaten away.
+
+“GUGUGUGUGUGUG!” he bellowed, before he was gone. Even then, his liquid remains were left behind, still stuck flat to the roof.
+
+The ant clacked one more time before it sank back down into the sludge, seemingly unaffected. When it was completely gone, whatever invisible force had trapped the Krath was released.
+
+Before any of them could react or comment, Zluth burst into the chamber.
+
+“It’s coming,” he roared. “Get clear!”
+
+A blue glow began to suffuse the entrance to the fourth, and shortly after, a thick… syrup of blue mana began to descend into the fifth. Where the blue mana touched the existing atmosphere, it hissed and frothed audibly, as it clashed with the existing mana.
+
+As soon as the blue mana appeared, so too did the ants.
+
+Only a dozen at first, but another dozen quickly followed, then another. More pipes descended from above, secured by the ants who attached them to the roof of the tunnel, then guided them down into the sludge below.
+
+“Do it NOW!” the Krath’lath screeched.
+
+Several Krath raced away while the rest seethed, audibly sizzling with rage. The blue mana infuriated them on a fundamental level. Its mere existence was incompatible with the slug-tribes and it had no place in the fifth!
+
+More and more ants poured down the opening as the blue mana expanded to fill the space. Every second that passed, they established more pipes and began syphoning the mana of the fifth upward at faster rates.
+
+There was a change in the air, and the Krath turned as one, eyes curving into wicked half-moons as they anticipated what was to come.
+
+They could smell it before they could see, a wave of rot and toxin that rushed down the tunnel so fast it blew their eyes back. Further down the tunnel, a tidal wave of hissing red mucus raced towards them.
+
+They had intended for the ants to establish more of a presence before they unleashed the wave, but the insects were moving too fast. This ought to slow them down.
+
+Zluth leaned forward, eagerly anticipating the moment the ants would be swept away. However, where he expected to see panic, to see the insect monsters rushing to escape, they only continued to work, never pausing in their tasks.
+
+The giant ant appeared once more, rising up to the surface of the muck, clacking its mandibles in a slow, sarcastic rhythm.
+
+Suddenly, Zluth had a bad feeling.
+
+He eased further away from the Krath’lath.

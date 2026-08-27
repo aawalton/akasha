@@ -1,0 +1,69 @@
+---
+id: d441b4a9-df06-52e1-8b52-3431d87eb4b8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1496 - Experimentation"
+slug: 0144-chapter-1496-experimentation
+partOf: chrysalis
+position: 144
+ownLength: 1066
+unit: words
+ownProgress: 1066
+publishedAt: 2025-01-28
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2035056/chapter-1496-experimentation"
+royalRoadId: "2035056"
+markedReadAt: "2026-06-29T19:48:27.551Z"
+---
+
+Despite the crushing defeat inflicted on the Krath, the pressure in the tunnels is still relentless. Either more of the slugs have arrived, or they have put in place something that is helping them ramp up the number of monsters heading our way. Then again, it could just be the rising mana levels in the fifth. Every day that passes brings the next wave closer, and it goes without saying that things are going to go absolutely crazy down here once it starts.
+
+Regardless of the reason, the fighting continues to be intense on every side of the fortress (with the notable exception of the Legion-guarded tunnels), ants and Krath-supported waves of monsters clashing over and over again. As I move to the edge of the safe-zone, the intensity of the battle is evident in the sheer number of ants filling the field hospitals while being treated for nasty wounds, burns, acid or mana infection.
+
+There are even humans in there, as the Colony has been forced to push them closer to the front in order to ensure the shared force buff from the priests is spread across the foremost lines of ants. Solant was right. The Krath were doing much better than I thought at pressing us, and without her ingenious trap, they may have done some real harm. As it is, we continue to hold the line, but the amount of effort, injury and desperation needed to do so shouldn’t be underestimated.
+
+With a humble heart, I wander up to the general in charge of this particular tunnel and give them a quick salute with my antennae.
+
+“I’ve been cleared to fight and have some stuff to test,” I announce. “How are things working out right now?”
+
+The general turns to face me, cleaning her antennae as she snaps her mandibles in irritation.
+
+“It’s tough,” she says. “The enemy has managed to lay down several huge puddles of mucus that are reducing the stability of our line, and they’re taking forever for the blue mana to burn away. I’m starting to suspect the Krath are developing mucus that is resistant to our cleansed mana.”
+
+Well, if that’s true, then the completion of the fortress can’t come soon enough. The sooner we can wall out the fifth, the better.
+
+“I’ll take care of things here for a while, that should give you enough time to repair the lines and for the mucus to burn away.”
+
+“I appreciate it, Eldest.”
+
+“No problem. I’m happy to help.”
+
+I turn to head out into the tunnel, but turn back at the last second.
+
+“And I’ll be testing some things, but I’ll make sure I leave enough space to avoid causing you any issue.”
+
+“We would appreciate it.”
+
+I wander on through the massed ranks of the ant battalion, and I try not to notice the robed priests and how weird they get whenever I’m around. Are they as bad as Beyn? No, absolutely not, but all the bowing, shouting and kneeling is awkward enough as it is. The hysterical weeping, however, is way too much. I want to go over and tell them off, but I’m worried that would just make things worse. A human with a flood of tears and rivers of snot running down their face is bad enough, what would actually happen if I walked over to them? I don’t want to find out.
+
+Ignoring the priests, I head straight out into the fifth, letting the toxic mana wash over me and immediately start burning into my body. As usual, the eyes are the worst part, and I immediately trigger my regeneration gland, knowing that it will soon refill thanks to the Vestibule.
+
+There’s plenty of monsters around, funnelling towards the ant lines in a constant stream, and I’m tempted to immediately rush forward and start crushing, but I restrain myself. Even unempowered, Void Chomp was able to cause quite a mess, and presumably this higher rank Skill will be worse, so I’m going to be cautious.
+
+Whipping together some Dragon’s Breath, I blast the slime and monsters with superheated flame as I walk forward, putting more distance between me and the ant lines. Only when I’m over a hundred metres distant do I judge it safe to attempt to use my new bite attack, and I quickly find a target.
+
+I’m sorry, snail. I’m not mad at you or anything, not especially anyway, but you have been selected to experience my new chomp.
+
+Quivering with anticipation, I pull my mandibles back and activate the new Skill as I lunge forward.
+
+The first thing I notice is the precipitous drop in my stamina. Energy floods out of my body to an absurd degree, more than double what a Void Chomp would have cost, perhaps four times as much! Next I notice the mandibles of black light that form beside my own, and my eyes boggle at their sheer size.
+
+When using Void Chomp, giant mandibles of black light would form, extending ten metres beyond the limits of my own jaws, and crash shut with tremendous force. These new mandibles are so dark as to be light-absorbing, and they are huge. Extending twenty metres beyond my head and perhaps five metres thick, they are colossal in scale, reaching far beyond the intended target of my bite and hitting the monster behind it!
+
+The other distinguishing feature of Void Chomp was the vortex that forms between my actual, physical mandibles and drags my enemies in, utilising a pulling force not unlike a gravity bomb to vacuum them towards me. That void no longer forms. Instead, a sphere of intense, white light materialises between my jaws, rotating slowly and growing brighter as each moment passes.
+
+The sphere still exerts that dreadful, vacuuming pressure, and despite its efforts to cling to the rock, the snail is pulled towards me.
+
+Just what the heck is this sphere, I wonder to myself. Then it hits me. As my enormous jaws slam shut on it, the sphere cracks, radiant beams of light escaping from the gaps. In slow motion, I watch as the sphere collapses in on itself, growing smaller and smaller until there’s an intense flash that completely blinds me. When my vision clears, I’ve been blasted ten metres back and my carapace is visibly smoking. The snail is nowhere to be seen.
+
+It's like a mini star… Starcrusher.
+
+Holy moly.

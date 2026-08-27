@@ -1,0 +1,61 @@
+---
+id: 851b8851-611b-54a4-8737-c0b39ae5aca2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1512 - Unexpected Visitor"
+slug: 0160-chapter-1512-unexpected-visitor
+partOf: chrysalis
+position: 160
+ownLength: 972
+unit: words
+ownProgress: 972
+publishedAt: 2025-02-19
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2075372/chapter-1512-unexpected-visitor"
+royalRoadId: "2075372"
+markedReadAt: "2026-06-29T19:48:57.822Z"
+---
+
+When I ‘wake up’ from my torpor, Crinis, Tiny, Invidia and I spend a pleasant time chatting and catching up with each other. Everyone has struggled to some extent over the last little while. Defending the platforms has been a gruelling task, and none of us are so powerful we can comfortably shrug off the increasingly dangerous environment.
+
+Tiny’s had a hard time, since he has the shortest range of all of us, if we discount his ability to shoot lightning. Blasting things with large amounts of electricity has always been his least preferred method of doing things. After all, why not use the electricity on your fists, then punch and zap things at the same time?
+
+The big ape mimes for us how he had to fight, ducking and weaving as he dodges imaginary blasts of slime and mucus, occasionally unfurling his wings for a dramatic leap into the sky before crashing down with mighty blows. It becomes clear just how hard it’s been for him. Fighting at such short range, and with such pitiful defence, he was constantly forced to dodge and move to avoid being deluged with slime. Once monsters got close enough to the blue mana, he could finally unleash strikes from his hands and pummel them into oblivion, but the closer the monsters got, the more he had to dodge.
+
+No wonder he’s so irritated.
+
+Invidia, of all of us, had the easiest time. He’s been putting his combustion magic to good use, exploding swarms of enemies one after another from a safe distance. Even taking into account the capacity of the fifth to eat away at mana, his mind is so powerful he could still force his spells a good distance into the toxicity, far enough he was never in any real danger. However, even his massive brain has been pushed to the limit after fighting for such an extended period of time, and the monsters of the fifth have been unusually resistant to going boom.
+
+Considering how squishy they are, I would have thought they would suffer a lot from his power, but with their layers of slime and resistance to fire, they’ve been able to avoid being burned as well as absorb the concussive force of his spells. So he had to work twice as hard to get things done.
+
+Crinis… poor Crinis, has had it the worst of all of them. She literally has to reach out and touch her enemies to hurt them, which is a bad idea in the fifth. She’s more than happy to demonstrate how her fights went, showing us how she would drag monsters into the blue zone before… doing what she does. However, every bit of her Darkness Flesh that was exposed to the fifth had to be cut away, lest the corruption spread throughout her entire body. Her body is closer to pure mana than the rest of us, and as it turns out, that makes her more susceptible to the fifth.
+
+So she’s had to cut loose a heck of a lot of her own flesh, which means getting fed a lot of Biomass to help her get it back. I give her a pat with an antenna, proud of what she’s been able to accomplish. The poor thing. She’s fighting hard even though conditions are so against her.
+
+Naturally, she uses that as a chance to try and sneak inside my leg, and I have to shake it until she can’t hold on any more. Honestly….
+
+Sarah is a lot less forthcoming about her experience, but judging by the dewy-eyed looks she’s getting from Odin, who still follows her around, she unleashed some rather spectacular violence out there.
+
+We sit and chat until eventually someone comes to find me, that person being Solant, of all ants.
+
+“Shouldn’t you be busy right now?” I ask her.
+
+“On the contrary,” she replies coolly, “with the outer defenses complete and the fortress functioning correctly, there is a rare opportunity for me to step out of the command post.”
+
+“And you spend this precious time talking to me? I guess… I’m honoured?”
+
+“No. I was passing by and picked up a message that was being delivered, so I thought I would do it myself, since it has the potential to be something interesting. There is a visitor for you.”
+
+“First, ouch. Second, a visitor? Who is coming down to the fifth stratum to visit? It’s an absurd suggestion.”
+
+“Someone you may remember. I’m told you had dealings with this person during your tour of the fourth stratum. A mage from the Silver City.”
+
+My blood begins to heat up at the mere mention of that place, but I push my anger aside and think. A mage from the Silver City? There’s a few that I met, but one in particular comes to mind.
+
+Rathwyn Werilos. Seemed like a reasonable sort of person, even tried to talk me out of fighting the dragon-bird, as I recall.
+
+“Alright then,” I say, picking myself up. “I’ll go and meet him. Where can I find him?”
+
+As it turns out, the usual protocols for welcoming and housing guests aren’t in place yet. Who would have thought, since we’ve been literally fighting for our lives, we haven’t had the time. As a result, our guest has been housed close to the top of the fortress, just inside the entrance. With Solant helping, it isn’t hard to get some rooms allocated, and I head over there to meet the mage when they make their way down.
+
+Sure enough, Rathwyn wanders around the corner, his eyes lighting up when he sees me outside his room, but I’m surprised to see that he hasn’t come alone. In fact, there are four other mages who’ve tagged along for the ride.
+
+What the heck are they doing here?

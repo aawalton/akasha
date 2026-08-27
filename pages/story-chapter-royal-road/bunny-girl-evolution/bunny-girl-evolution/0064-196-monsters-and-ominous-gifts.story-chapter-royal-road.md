@@ -1,0 +1,163 @@
+---
+id: 03072149-5251-5efa-b47b-b5e0238a2fbe
+page-type-slug: story-chapter-royal-road
+title: "196 - Monsters and Ominous Gifts"
+slug: 0064-196-monsters-and-ominous-gifts
+partOf: bunny-girl-evolution
+position: 64
+ownLength: 2880
+unit: words
+publishedAt: 2026-05-09
+link: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution/chapter/3373779/196-monsters-and-ominous-gifts"
+royalRoadId: "3373779"
+---
+
+Elise briefly debated using her disguise again for the meeting, but decided against it. She had not heard anything about there being visitors again, and it would be a bit annoying to have conversations if no one knew who she was. She also wanted to see Jag, and perhaps Hans again, and would rather at least use a form they were familiar with. Or at least one close to it.
+
+While she was quite comfortable in her base form, to the point of preferring sleeping in it to her human form, there was no denying it came with its fair share of disadvantages. The lack of opposable thumbs could compensated with {Telekinesis}, but it wasn’t the most convenient arrangement. And while her current base form was capable of holding things, she had done a very good job of not letting anyone see it, and wanted to keep it that way. And of course, her human form was off the table. There was a stigma about appearing human at Ostra, and even if she didn’t want to reveal her true form, walking around as a human would be heavily frowned upon.
+
+Fortunately, she had come up with a brilliantly simple solution back when she was staying with Oberon. She could just transform into a different type of changeling. At Tier 5, she was limited to only other species at Tier 5, but luckily for her, most basic varieties of Changeling were well within her strike zone.
+
+And it frankly didn’t matter which one she chose, because they all had very similar base appearances. Solid, monochromatic eyes, pointed ears that were shorter and angled further down than elves’, and, depending on the origin of the changeling, various non-standard styles of hair and head attachments such as antlers or horns or antennae. Elise had experimented with copying a few of the changelings she had seen at previous Ostra meetings, but settled for the most basic form, that was just relatively ordinary hair.
+
+Well, ordinary for her, at least. Her particular shade of silver white wasn’t exactly common.
+
+There was technically a meeting for Fighting with Nature at the same time as the Ostra meeting, but she already hadn’t planned on going. It wouldn’t be much of a meeting anyway. Many of the other students would be skipping to study for finals, and even Sophie wouldn’t be there. Nick and Bianca had found out that she was skipping class to train, and had forbidden her from doing just about anything until she caught back up with her schoolwork. Sophie was, of course, indignant, but had reluctantly acquiesced after Irylax mentioned the importance of keeping her word.
+
+When Elise arrived at the Ostra meeting, she tried not to look nervous as she scanned the room, and hid her sigh of relief when she spotted no signs of either Freddy or Rayna. That was normal, as Rayna usually didn’t show up at all, and Freddy liked to show up a bit late, but given current events, “normal” wasn’t the same as “expected” anymore.
+
+She was glad for their absence at the moment, because that meant that at least for the present, she could catch up with the others in peace. She quickly located Jag at the center of a group of other non-humanoid monsters, animatedly telling a story, so she switched to her rabbit fey form and flew over to join them.
+
+“Elise!” he shouted when she arrived, stepping forward to embrace her in an extremely awkward hug that only a jagaur could give.
+
+“Jag!” she said, returning the embrace as best she could without having proper arms either.
+
+“Elise, I have fan-tastic news.”
+
+“What is it?”
+
+“I am now the proud owner of a shop!”
+
+“You are?”
+
+“I am!”
+
+“Congratulations!”
+
+“Thank you!”
+
+“How did that happen!”
+
+“Well, do you recall that gnome village that I was living near and attempting to befriend?”
+
+“Of course.”
+
+“Well, in my absence, they began having some troubles with encroaching monsters. Nothing overly worrying, but enough that they couldn’t roam the forest quite as freely as they would have liked. When I returned, I took care of the problem—just a few stray hawk monkeys—and the village head personally thanked me! And he offered me a reward! I, of course, asked for a shop, and he gave me one!
+
+“It’s a bit outside the village, of course. I could tell they weren’t too comfortable with my presence, so my shop is a bit out of the way, but it’s still within walking distance, and just the other day, I had my first customer!”
+
+“Wow, really?”
+
+“Indeed!” said Jag, his tail twitching proudly. “I was actually just telling them—“ He gestured toward the others around. “—about how it all went. I won’t bore them by recounting it, or bore you by explaining how a humanoid shop works, but do you want to know what the gnome said when he left?”
+
+“What?” asked Elise.
+
+“’Until next time’! I might have my first repeat customer soon!”
+
+There was a short round of cheering and feet stomping from the other monsters around, and Elise joined in. Jag’s enthusiasm and excitement was infectious, and Elise found herself feeling both happy and guilty. Happy for Jag and his achievement, and guilty that she had been so caught up in her own selfish worries that she had forgotten what the real purpose of Ostra was. Freddy was certainly suspicious, but what organization leader wasn’t? And if his aims were focused on her, that meant that it wasn’t pointed at the other monsters like Jag who actually needed Ostra. Whatever Freddy’s goal was, Ostra was doing good for monsters like Jag, and she had nearly forgotten that.
+
+“So, what do you sell in your shop?” she asked once the cheering had died down.
+
+“Oh, all sorts of things,” he said. “I’m sure you already know that gnomes are crafty folk, but you should see some of the contraptions they build. I can’t make heads or tails of them, but their achievements are truly outstanding. But of course, a craftsman can only be as good as their material, and given how remote their village is, their material is quite limited. They have a very bountiful mine, which is why they settled where they did, but anything they don’t find in the mine or the forest around it, they generally lack. And unlike them, they don’t have regular meetings with these fine folk at Ostra who can connect them with material from all over the continent!
+
+“So, I sell them what they need! Or I will, once they realize I’ve got it. Metal, glass, wood, tools, runework… I’ve got a bit of everything right now, and I’ll narrow down my orders a bit once I find out what they really want.”
+
+“Wow,” said Elise. “That sounds like a very lucrative business model.”
+
+“Oh, I’m sure it might be, but at the present, I have no use for money, so I’ve been bartering. Well, I bartered the once. But I will barter more. I mentioned that the gnomes make all sorts of things, right? Well, I traded for one of their inventions. Oh, I should have brought it with me. It’s the most marvelous little tool…”
+
+Jag went on to describe what sounded to Elise like a microwave. A magical one that probably worked better than a mundane microwave, but still a microwave. But the way he described it, so completely in awe made Elise feel a little awe herself, and when he continued on to describe some of the other things he had seen in the village, Elise realized that of all the humanoids, the gnomes might actually be the most similar to Earth humans.
+
+Like the dwarves, they were typically crafters, but unlike the dwarves, they had no specialty with runes. Elise wasn’t sure if it was some sort of Race Skill they had, or if was simply their culture, but the gnomes preferred more “mundane” methods to achieve the affects they wanted. Gnome magical engineering was the science to the art of dwarven runesmithing. Their tools might never measure up to what the dwarves could do in terms of raw power, but they far outdid them in utility and versatility.
+
+Just hearing about all the things they had built in just this one village made Elise want to go visit one of the gnome cities on the east side of the country. The gnomes had no nation of their own, and hadn’t for more than a thousand years, but there were still gnome-controlled cities that were considered to be very popular tourist destinations. Elise had never had much desire to visit before, but now she was already planning a trip in her head.
+
+After the talk of the gnomish village, some of the other monsters started talking about their own efforts to grow close to various humanoid settlements. It was here that Elise learned that Jag’s enthusiasm was a bit more infectious than she realized, as all these monsters also wanted to open shops. Elise enjoyed listening to them for a little while, but when the conversation became increasingly focused on the technical details of procuring supplies and market availability, she found herself zoning out, and soon excused herself to go explore the rest of the gathering.
+
+Hans was not present, unfortunately, and Elise didn’t really know anyone that well, so for a minute or so, she was unsure of where to go. Then, she undid {Subtle Royalty}. The effect was not immediate, but it wasn’t long before she was approached by a small group of changelings—she had changed back to her changeling form after leaving Jag—and together with them, grabbed a plate and ate a hearty dinner.
+
+Elise was not usually so much of a social butterfly, but knowing that Freddy would be showing up in the near future and putting her on guard, she wanted to make the most of her time, and so she did. After the changelings, she joined Jerry the elephant and his ever-present crowd of friends and listened to him telling stories about his time in the circus for a bit before wandering a bit more until she was stopped by a female insectoid monster for another conversation.
+
+Apparently, this insect woman dreamed of love, but had yet to meet a human willing to accept her. And while she acknowledged that her appearance was “perhaps not what human men were looking for,” it had taken Elise quite a long time to convince her that a giant locust was not going to be any man’s ideal partner. The insect woman had not been happy to hear that, but still thanked Elise, and talked about how she was going to focus on leveling up so that she could evolve into something more appealing.
+
+As the night went on, Elise had many more such conversations, and after a few more, she re-activated {Subtle Royalty} again as her social battery started to run low. Now that she was more aware of her soul and aether than ever, the Skill felt a bit stifling, but she would rather feel stifled than continue to draw so much attention.
+
+When is he coming? she wondered, glancing over toward the door to Freddy’s office.
+
+It had gotten quite late, and while Freddy was often fashionably late, he was not usually this late. Elise was getting a little annoyed, because she had done more socializing that night than she had in the past month, and was worried it was all for nothing. Not that she regretted any of the conversation she had, but draining her social battery so thoroughly on false pretenses was annoying.
+
+The night dragged on even further, and although {Subtle Royalty} was active, the Skill was less effective than it had been in the past, and she began to wonder if she should just head home. She activated {Don’t Look At Me, Peasants!} to avoid attention and drifted over to a corner for a moment of peace. She had spoken with Jag like she wanted to—twice, actually, as she had circled around again later—and she had met many other monsters and re-met many more. While she was exhausted, it had been a fun night, and she was more than ready to leave.
+
+Still, she double-checked one last time to make sure that there was no one else she was missing, and right as she finished and made her decision to leave, the door to Freddy’s office finally opened. She turned toward it, as did nearly half the other monsters in the room, but the one standing in the doorway was not Freddy. Instead, it was his timid assistant Firona, who gave an inaudible apology before disappearing into the throng of monsters.
+
+I guess he’s not here tonight, then, thought Elise before shrugging and turning to leave.
+
+However, before she could make it to the door, Firona somehow reached the door first, blocking her path.
+
+“Elise,” said the demoness.
+
+“Firona?” asked Elise.
+
+“Can I talk to you for a bit?” asked Firona. “Freddy’s not here, but he left something for you. It shouldn’t take long.”
+
+“…Sure,” said Elise.
+
+“Let’s head to Freddy’s office, then.”
+
+Firona seemed to have a Skill very similar to Elise’s own, allowing her to move through the crowd without anyone so much as glancing at her, so the two of them quickly made their way to the opposite side of the room and into Freddy’s office. There, Elise sat on one of the two couches while Firona fiddled around in the drawers of the desk for a few seconds.
+
+“Ah, here it is,” she said, holding up a leather bracelet with a small silver medallion on it.
+
+“What is it?” asked Elise.
+
+“Protection artifact,” said Firona. “Things might get dangerous soon. Freddy wanted to make sure you were safe.”
+
+“Dangerous?”
+
+“Might,” said Firona. “Not likely, so don’t go spreading it around. But it’s still a possibility, and you’ve already been identified by Jelorian intelligence, making you a prime target. Helena will be getting one as well. Just in case.”
+
+“I see…” said Elise.
+
+She took the bracelet from Firona and slipped it on, where it tightened slightly to fit properly on her wrist. To Elise’s senses, it felt perfectly mundane. Whatever enchantments were on it were hidden beyond what she could detect, indicating that it was of the highest quality.
+
+“What’s the danger?” asked Elise.
+
+“I can’t say,” replied Firona. “Probably nothing. But better safe than sorry.”
+
+“Alright then,” said Elise. “Is that all?”
+
+“Yes, that’s all,” said Firona. “It’s just that your mission is covert, so most of the organization doesn’t know about it. I couldn’t give it to you out there. Some of our members are more observant than you’d expect. You’re free to go now. You looked like you were heading out. I’m glad I caught you in time.”
+
+“Alright,” said Elise. “Thanks.”
+
+“Just following orders,” said Firona. “Stay safe.”
+
+“Bye.”
+
+Elise left the office, fidgeting with her new bracelet. Firona had said it was nothing to worry about, but Elise found the interaction ominous. Six months hadn’t passed yet since Titania’s warning, but Titania’s warning had never been all that precise. The six months weren’t guaranteed. Titania was not the goddess of prophecy, so how could she see the future?
+
+What Elise found most ominous, though, was not the timing, but rather what Firona had said about Elise being a prime target. Her words implied that she was at risk because she had been identified. Emmett knew about her, of course, and he had for a while, but Elise had never really thought any deeper about that. Now, however, she realized that if Emmett knew, and he was basically Jelor’s spymaster, there was probably a report about it lying around somewhere. She doubted that Emmet would betray her personally, but she knew that not everyone in the government was keen on cooperating with Ostra. Still, for Elise, a random changeling to be targeted…
+
+What is going on that I’m suddenly in danger?
+
+When Penelope got back from her “disciplinary leave,” she was immediately told to write a covert report, then told to return to her regular duties. A week had passed with no news, but today, she had finally been summoned back to the captain’s office. He was waiting for her behind his desk as usual with a stern expression on his face, so she stood at attention, back straight and hands behind her back.
+
+“Dame Penelope, I hope that you’ve learned your lesson!” he said.
+
+“Yes, sir!” she replied.
+
+“That’s enough, Aldric,” said a third voice, making Penelope flinch. “There’s no one listening right now.”
+
+She looked over at the couches to see a small, unassuming man sipping on a cup of tea. He was nearly as short as Elise, and looked like he didn’t have an ounce of muscle on his body, but he still radiated a kind of calm confidence that, combined with his presence in the captain’s office, made Penelope certain he was someone important.
+
+“My name is Emmett Larcombe,” said the man, after another sip of tea. “You’ve probably never heard of me, but I am the one in charge of covert operations in Jelor. I’ve heard much about you, Penelope. Why don’t you have a seat?”

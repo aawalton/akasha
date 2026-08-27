@@ -1,0 +1,203 @@
+---
+id: 80c786c0-6f8e-5768-b1b5-bbc8ae3d8422
+page-type-slug: story-chapter-royal-road
+title: "77: Spectacle"
+slug: 0077-77-spectacle
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 77
+ownLength: 2166
+unit: words
+publishedAt: 2025-11-28
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2800607/77-spectacle"
+royalRoadId: "2800607"
+---
+
+The Ironfang guy was forced to walk ahead of them. Every time he even looked like he was thinking about doing something stupid, Sabine gave him a zap to the back that made his fur puff up. After the third one, he stopped trying anything altogether.
+
+Eventually, they stopped in front of a run-down building. Its walls were streaked with weird, blotchy stains, like someone had been throwing soup at it every day. The roof slouched like it had given up trying to stay upright, and the whole place just didn't look very good.
+
+Chloe scrunched her nose and gave Sabine a side-eye. “What is this place again?”
+
+“It’s an old tannery,” Sabine said without slowing down. “A place where they used to turn animal hides into leather. But we’re not here for the tannery. We’re here for the dungeon.”
+
+Hearing this, the Luphian perked up. “It’s right this way!”
+
+He led them around the side of the building, past a pile of old crates and a funny looking rat that gave Chloe the stink eye. She narrowed her gaze at it. Not sure if rats are cuter than the rat people.
+
+Anyway, the Luphian stopped in front of a crumbling stone wall. It was plain, cracked, and mossy.
+
+He pointed at it with a claw. “That’s the entrance.”
+
+Chloe stared at the wall. Then back at him. “That’s a wall.”
+
+“The dungeon entrance is hidden, but I'm telling you, it's there."
+
+“You sure this isn’t just your sad corner where you hide to cry or whatever?"
+
+Before the wolfie could fire back, Sabine stepped in. She pressed her palm against the stone and went still.
+
+“I can sense something deeper beyond This is no ordinary wall.”
+
+“Wait, really?” Chloe asked.
+
+"Our Luphian friend here is telling the truth. There’s something behind this.”
+
+Chloe leaned in and sniffed the stone wall, like that would help. Can't really feel anything, but Sabine's probably onto something.
+
+Sabine muttered something under her breath and pushed more magic into the stone. A shimmer of blue energy rippled across its surface. But nothing happened. She tried again, and still got nothing. “The entrance is sealed, and I can’t break it.”
+
+"Aww, so what do we do?"
+
+"Most likely, we will need a key of some kind to enter. Either that or we need to find someone who can let us in."
+
+At that, she slowly turned her gaze toward the Luphian. He immediately lifted both hands in the air.  “I don't know anything about a key! I swear!"
+
+Chloe looked him up and down. “Are you sure?” she asked sweetly, cracking her knuckles in a menacing way. “Because I could just beat it out of you.”
+
+The Luphian took an uneasy step back. Sabine gave him a quick once-over, then shook her head.
+
+“Let him go, Chloe. I believe he's telling the truth."
+
+Chloe lowered her hands. “So… what do we do with him now? He’s not exactly being helpful.”
+
+Sabine didn’t answer right away. She raised a hand and flicked her fingers. A sharp crack of lightning shot out, hitting the Luphian in the chest. He jerked once, then collapsed. Smoke curled lazily from his fur as he hit the ground with a thud.
+
+“We leave him here,” Sabine said casually.
+
+Chloe blinked. Honestly, she’d kind of thought they’d have to drag him off somewhere or tie him up or something. But leaving him here worked for her too. “Okay, sounds good to me.”
+
+Sabine gave her a sideways look. “Want his brain?”
+
+“Nah. He didn’t seem that interesting. Probably tastes boring."
+
+“Fair enough. Just thought I’d ask.”
+
+“Thanks. But now what? We still don’t know anything about the key. That weird wall is still sealed, and we’ve got no way to open it.”
+
+“We’ll have to find out who has the key. My guess is their leader. The one with the scar.”
+
+“Ooooh. Scar! Right! You think he’s got a super spooky key on a necklace or something?:
+
+“Possibly. But we won’t know unless we find him.”
+
+***
+
+For the next couple of hours, Chloe and Sabine roamed the sketchier parts of the city. Sabine walked ahead, all serious and focused. Chloe wandered beside her, humming a little tune and keeping an eye out for anyone with bitey tattoos.
+
+It didn't take long to spot a group. Four Ironfang wolfies were hanging around an old tavern, standing under a flickering lantern that looked like it was on its last breath. They were laughing about something involving broken ribs and bad beer. Chloe didn’t catch the details, she’d already stopped listening when no brains were mentioned.
+
+Sabine gave her a nod, and Chloe took that as her cue to go in. She charged in with a bright, “Hellooo!” and promptly tackled the nearest guy straight into a barrel. Then she spun around and clocked the second guy in the face with a loose wooden plank.
+
+Sabine, meanwhile, fired lightning from her hands. Two more ironfang guys went down before they even realized something was wrong.
+
+When the dust settled, three Ironfangs were groaning in a pile of broken crates and spilled ale. The fourth one tried to sneak away, but Chloe stomped a boot onto his back. "Nice try, but better luck next time!"
+
+Sabine crouched beside him. “Take us to your boss."
+
+The guy winced. “I don’t know where he is…”
+
+Chloe leaned in until her face was inches from his. "You sure about that?"
+
+“Okay, okay! I might know where he hangs out sometimes! But if I take you there and he finds out—”
+
+Sabine gave him a casual zap. Not enough to fry him. Just enough to make him twitch.
+
+“Okay! I’ll take you! Just don’t do that again!”
+
+Sabine stood up. “Lead the way. And don’t get clever.”
+
+As the guy whimpered and scrambled to his feet, Sabine glanced at Chloe. “Good work, Chloe."
+
+"Thanks! I actually had—"
+
+While Chloe was still talking, the guy suddenly tried to bolt. However, she snatched him by the collar before he made it two steps and yanked him back. “Hey! No running. That’s, like, super not cool.”
+
+The guy nodded hard. “Okay, okay, I won't run again! Can you let me go now? Please?”
+
+Chloe narrowed her eyes at him, then gave him a shove forward. “Fine. But I’m totally watching you, mister sketchy-paws.”
+
+Their reluctant guide led them through a mess of narrow alleys. Meanwhile, Chloe kept thinking Maybe I should zap him too to speed things up. Or maybe I should just wait until he tries to run again.
+
+Eventually, he stopped in front of a building squished between two taller ones. “That’s the place. The boss is probably inside.”
+
+Sabine didn’t even glance at him. “You’re coming too.”
+
+With the most sad groan Chloe had heard all day, he pushed open the door. Inside was a dim, smoky room filled with busted furniture, scattered dice, and Ironfangs who definitely weren’t expecting visitors. Everything went quiet for a breath.
+
+Then Sabine blew up their table. One flash of lightning later, and half the room was on the floor in confusion. Chloe laughed, grabbed a boot someone had left in the corner, and threw it at the nearest guy. Another tried to get away, but she kicked him straight into a shelf.
+
+Once the chaos settled, only one Luphian still stood: massive, gray-furred, and leaning against the back wall like this was just mildly annoying. He had a huge scar across his face, running from brow to jaw.
+
+Chloe’s eyes lit up the moment she saw him. That big gray Luphian leaning against the wall was the one from her vision after she’d slurped up Nodd’s brain. “Hey! You’re that scar guy!”
+
+The Luphian raised a brow, voice all rough and growly. “Yeh? I’m Scar. What of it?”
+
+“Wait… your name’s actually Scar?”
+
+“Yea? That's my name. Now, are you gonna give me one good reason not to tear your throat out right here?”
+
+“Uhhh, because that would be super uncool?”
+
+Before he could say anything to that, Sabine stepped up beside her. “Because we have ways of making you talk.”
+
+Scar let out a low chuckle, his grin stretching just wide enough to show off a row of sharp teeth. “That’s cute."
+
+Then he stood up to his full height. Chloe felt her body tense a little. Yeah, he looked way bigger standing up.
+
+Meanwhile, the moment he moved, Sabine raised one hand and fired off a bolt of lightning straight at his chest. The blast hit him dead-on.
+
+For a second, Chloe expected him to crumple like all the other guys Sabine zapped. But instead… he just stood there. Scar didn’t even flinch.
+
+“You a lightning caster?” Scar asked out loud.
+
+Sabine didn’t answer. Another bolt flew from her hand, this one brighter, louder, and way more serious. It struck with a sharp crack, pushing Scar back a step.
+
+Chloe’s eyes widened. Oh wow, how is he still standing?
+
+Scar’s grin faded as he leveled a hard glare at Sabine. A heartbeat later, he lunged and slammed straight into her stomach, sending her skidding backward. Of course, if Sabine was getting tossed around, then clearly it was finally Chloe’s moment to shine.
+
+She pushed off the ground and dashed forward with all the enthusiasm of a chaos gremlin let loose. “Alright, Scar! Time for you to—whoa!”
+
+Scar’s arm swung around, and before Chloe could dodge, it caught her full in the side. The hit lifted her clean off the ground. Her vision spun, and she crashed into a wall.
+
+Okay. That sucked a lot more than I thought it would.
+
+Despite the setback, Chloe was already getting up. Dust clung to her clothes, and something was probably bruised, but she was more annoyed than hurt.
+
+She wiped her mouth and looked up. Scar and Sabine were locked in again.
+
+They moved fast, too fast, like two storms colliding. Chloe stood there for a moment, watching as Sabine landed a kick that sent Scar sliding back, only for him to dig his heels in and charge again.
+
+Chloe stayed by the wall, brushing dust off her cloak as Sabine and Scar clashed. She could jump back in right now… but also, this was kinda awesome to watch.
+
+Sabine's lightning flickered across her arms as it shaped into crackling spears, then into a long glowing blade. She swung it in sharp arcs, slicing through the air. Scar dodged the first few, but then one caught him across the side, tearing a glowing line through his fur.
+
+Instead of being mad though, he just laughed. "Heh, not bad."
+
+Chloe watched as Scar just smiled, all calm like he wasn’t in the middle of getting zapped. Sabine came in fast with another strike, her lightning blade sparking through the air, but Scar lifted his forearm to block.
+
+That’s when things got weird. Scar's arm shimmered as his fur darkened, hardened, and then turned into metal just in time as Sabine’s lightning blade hit.
+
+Chloe leaned forward, eyes wide. “Oooooh.”
+
+Scar's arms were now completely covered in metal. That was when a thought struck Chloe.  Wait. Is that why they’re called the Ironfang Syndicate? That's kinda neat.
+
+Scar grinned, clearly having the time of his life. He slammed a fist into the ground, and Chloe felt the whole floor shake under her boots. The metal kept spreading over his shoulders, crawling down his legs like some kind of armor. Wherever it went, flesh gave way to iron.
+
+Sabine then decided to change tactic and rushed in barehanded, fists crackling with lightning. Each punch landed with a burst of sparks.
+
+Her strikes were fast, but Scar didn't even bother dodging as he took on all of the hits. “This’s the most fun I’ve had all month!”
+
+Sabine ducked a counter punch from Scar, her scowl deepening. “Glad one of us is enjoying this.”
+
+Sparks flew and metal slammed against muscle and magic as Sabine and Scar kept going at it. Chloe lingered just off to the side, watching it all.  Ooh, Scar’s brain probably tastes smoky.  Sabine’s brain, though… mm. Sabine probably tastes really nice. But she’d definitely get mad if I tried to nibble it. It would be nice if she let me have a taste though.
+
+Chloe even clapped a little when Sabine landed a sick uppercut that sent Scar skidding back into a pile of broken chairs. But he just shook it off, cracked his neck, and charged again.
+
+Sabine blocked the first few hits, but he was getting stronger by the second. Eventually, one of his punches connected cleanly, sending her skidding across the room with a hard grunt.
+
+Chloe winced. “Oof."
+
+Sabine slammed into a wooden beam and stayed there for a beat. Her lip was bleeding. And she was not smiling. Slowly, she turned her head toward Chloe.
+
+Their eyes met. Chloe froze as Sabine glared at her. Whoops, I should… uh, probably get involved now.

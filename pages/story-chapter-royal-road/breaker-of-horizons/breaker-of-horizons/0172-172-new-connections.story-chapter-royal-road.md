@@ -1,0 +1,129 @@
+---
+id: 6d93f140-6d06-5da6-9ed5-1cc45f2071c3
+page-type-slug: story-chapter-royal-road
+title: "172. New Connections"
+slug: 0172-172-new-connections
+partOf: breaker-of-horizons
+position: 172
+ownLength: 2281
+unit: words
+publishedAt: 2022-01-24
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/831012/172-new-connections"
+royalRoadId: "831012"
+---
+
+Perhaps because of how keyed up he had been the entire day, Caden woke before his alarm went off, though he was relieved to see that he had only lost five minutes of sleep. He had been so exhausted that he couldn't even remember if he had dreamt anything, and so it felt like he had fallen asleep only moments ago before waking, clear-eyed and refreshed. The room was still dark but Caden could see across the room where Ambrose's shape was still curled comfortably beneath the covers, with the faint sound of his breathing filling the room. With practiced ease, Caden quietly got out of bed and went to the bathroom.
+
+It occurred to him while he was brushing his teeth and taming his hair that Devon would likely be up soon, and sure enough, when he was done and had gone back to the common area, Devon was just stepping out of his room.
+
+He was in the middle of a yawn when he caught sight of Caden, and his eyebrows shot up in surprise. A few awkwardly funny seconds passed as he tried and failed to stifle the yawn and talk at the same time. "Morning," he finally managed. "Didn't expect anyone else to be up."
+
+"But I'm always up this early too," Caden said automatically in a tone of mild bewilderment. He immediately realised his misstep because of course this once-friend version of Devon wouldn't know that, having just met him yesterday, but the response had slipped out before he could stop himself and now it was too late to take back what he had said.
+
+"Oh. Uh, sorry, might've missed you saying it yesterday," Devon said. He gestured vaguely at the bathroom closer to his room. "Well I'll be just a few minutes, then I'm getting started on making breakfast."
+
+"For everyone?" Caden asked tentatively. After yesterday's events, he wasn't really sure where he stood with Devon.
+
+Devon rolled his eyes. "Of course it's for everyone. I told you, didn't I? In this dorm, we eat well. And you're in this dorm now. Plus, I figure maybe if I feed you well enough, you won't end up destroying the Empire or something."
+
+Caden laughed despite himself, and Devon shot him a grin before retreating into the bathroom. Feeling considerably lighter, Caden snuck back into the room since Ambrose was still sleeping, packed what he would need for the day, then left his bag on the couch. Devon emerged after a few more minutes and made his way to the counter, where he started pulling out what he needed to make breakfast — a carton of eggs, a box of cherry tomatoes, and a few sprigs of basil.
+
+"Need help?" Caden went up to the counter.
+
+"I don't know," Devon said, eyeing him dubiously. "How are you with omelettes?"
+
+"Uh... they'll be edible, but probably not pretty," Caden admitted.
+
+"Well, we can give the shitty ones to Lynus," Devon said cheerfully, pushing the skillet over to Caden and nodding at the stove. "If you don't get better after the first two, I'll take over."
+
+Even though Devon's manner had been breezy up to that point, there was a definite change in the way he behaved around Caden now. After sorting out the cooking arrangements, Devon worked in silence, apparently lost in thought. He still spoke up and gave instructions and helpful tips when it was time for Caden to try making the omelettes, but he otherwise kept his comments brief, and there was less of the easy banter that usually flowed between them. Caden was saddened by this new distance, but he was grateful that Devon hadn't completely closed the door of friendship despite the monumental shock he had gone through the previous day.
+
+Thankfully the first two omelettes were decent, and though the cherry tomato slices and basil weren't well-contained within them, Devon pronounced them passable and permitted Caden to continue while he started cooking omelettes with another skillet. They worked in companionable silence and soon breakfast was ready. Right on cue, the scent of warm food brought the rest out of their rooms, bleary-eyed, and everyone took their usual seats.
+
+"C'mon," Devon said, gesturing to Caden to take the remaining empty chair.
+
+Once again, it was the little details that drove home how he was a stranger to these once-friends. Like the night before, Ambrose was in the middle seat directly across Devon, which was not the way Caden remembered things. The informal arrangement that everyone had fallen into over the last term meant that the roommates should all be sitting across each other. But now, Jerric was to Ambrose's left, facing the empty seat that was now left for Caden. He wondered for a moment if this reflected something deeper — had their relationships shifted? Was Jerric now not as close to Devon? Had Devon been drawn into a deeper friendship with Ambrose than before?
+
+He joined the table and sat across Jerric while the breakfast table chatter started up. Even though he hadn't really held out any hope of being able to go through breakfast without being interrogated, his heart still sank when Kevan finally looked up and directed a question at him. "So Caden, Emilia said you're pretty good at Thaumaturgy. How good do you think you are?"
+
+Caden had to bite his tongue before he said something unwise. He took a moment to finish chewing, then answered carefully, "Good enough for now. But there's room for improvement."
+
+Kevan grinned. "Wanna have a go in the arena, if we manage to get a spot?"
+
+Ambrose let out a small chuckle and everyone's attention turned to him. He looked up, a little taken aback. "What?" he asked.
+
+"You think I shouldn't fight him?" Kevan asked, though Caden was rather surprised by the tone. It wasn't issued as a challenge or delivered in an abrasive manner. It almost sounded as if Kevan was looking to Ambrose for direction or instruction.
+
+"Oh. No, I just thought... I mean, you've kinda just met him, and that's the first thing you ask. That's, uh, typical of you," Ambrose said, grinning a little.
+
+The others chortled and even Kevan joined in. He shot a slightly apologetic look at Caden, then addressed Ambrose. "He's the Top Scorer man. And Emilia says he'd make a good sparring partner. Don't tell me you're not even a little bit interested?"
+
+Ambrose shot a cryptic sideways look at Caden before turning back to the rest. "If he wants to fight, sure, but I'm not the kind of person to push people into it. That's more your thing, Kev."
+
+Something had definitely changed in the dynamic here. That kind of talk might have once irritated Kevan, but now it seemed to have become a part of the normal banter.
+
+"You don't have to get dragged into all this," Jerric said wearily. "I mean, unless you're another duelling junkie and this really is your thing. If not, you're welcome to join the more normal people." He indicated himself and Devon.
+
+"What, I'm not normal?" Ambrose asked, looking wounded that he hadn't been included.
+
+"No," everyone else said in unison, except Caden. Their response was immediate and emphatic, and they all burst out laughing.
+
+"Definitely not normal," Devon added after the laughter. Caden thought he detected a tinge of bitterness and that his cheerful response had been a little forced. No one else seemed to pick up on that, except for Ambrose, whose gaze lingered on him a moment longer.
+
+"I think I'll have out with the normies," Caden said, trying to sound lighthearted. That got an exaggerated groan of disappointment from Kevan and he didn't pursue the matter further. Caden noticed Lynus smirking to himself, but he decided not to remark on it.
+
+The conversation turned to speculation on the term's curriculum as the rest picked up from where they had left off the night before. After awhile, Caden checked his watch and excused himself.
+
+"We've got almost an hour more," Lynus pointed out innocently, though he was transparently trying to worm some information out. "You got somewhere to be?"
+
+"I'm meeting someone at the library before class," Caden said, since it wasn't anything he needed to hide.
+
+"Who?" Lynus asked. "A girl?"
+
+Kevan elbowed his brother and rolled his eyes. "Ignore him. But seriously. Is it a girl?"
+
+Jerric let out an exaggerated sigh and waved at Caden to go. "Quick, before they get any worse."
+
+"Tell us about it in class later!" Kevan called as Caden took the chance to duck out the door.
+
+There was enough time for him to get to the library ahead of his planned meeting with the mysterious second-year student. The place was mostly empty, with only a handful of people in the cafe having breakfast. He found a seat and settled in to wait.
+
+On the dot, half an hour before their first class at 9 in the morning, the girl burst noisily through the library doors. She was dressed quite differently and it took Caden a moment to recognise her by her ponytail. She had traded her oversized white jumper for a denim jacket over a white top, and her black jeans ended in a pair of low-cut brown boots. She ran, panting, over to the cafe area and flopped down in a chair facing Caden. "Sorry," she said, trying to catch her breath. "Had stuff. Ran here."
+
+"No worries," Caden said. He watched as she set a very functional, rugged-looking leather backpack on the table and proceeded to take out a well-worn notebook, a writing pad, and a case of stationary.
+
+"Sorry, didn't prep," she said, still panting a little as she started copying things over from her notebooks onto a fresh sheet of paper. "Wait, what am I doing?"
+
+She didn't wait for Caden to get a word in as she abruptly abandoned her pen and simply gestured at the paper. Caden felt her slip into the arcanic sea, and he caught a whiff of the sequence that enabled transcription by dictation, although he could tell she had modified it somehow. Her fallen pen leapt up of its own accord and danced rapidly across the sheet, replicating her notes in exacting detail. The process took no more than half a minute. She gestured sharply and the copied notes flapped forward and almost stuck Caden squarely in the face. Out of reflex, he conjured a barrier that stopped them just a hair's breadth away from the tip of his nose.
+
+"Oh, sorry, sorry!"
+
+"No worries," he repeated dryly. All it took was a little twitch of his will, and the notes extricated themselves from the barrier and floated gently back to the table where he could skim them.
+
+"Why are so many people looking for this?" he asked, noting the title of Alyssa Nivordin's work. "What' so important about thaumaturgical glyph arrays?"
+
+"Right. You only started your first year," the girl replied. "Wait, wait, sorry, you're helping me. I should introduce myself first. I'm Leyla."
+
+"Caden. So, glyph arrays?"
+
+Leyla seemed eager to launch straight into the explanation. "Well, we get introduced to them in second year, though its just the basics. We learn how to plug into them and make use of them. There are generic arrays and patterns you can use for all sorts of situations, but higher-level thaumaturgy involves creating glyph arrays that are purpose-built. Only those who specialise will really go on to study the principles in detail. But now..."
+
+"Now everyone is technically specialising, so you want to get a head start," Caden finished.
+
+"Yes. But since you can't grab the whole book for me, I've compiled what I know about the theory and gotten some pointers from seniors about what sections are especially useful to study beforehand, so I've put all that in. I'll eventually get my hands on the whole book since I applied for access and it's just a matter of time, but I can't wait that long because there's things I want to try out first, so I just need you to help me find something about this," she pulled the papers over and pointed at one of the diagrams in her notes.
+
+"Well why didn't you just give me this, then?" he asked, a little bewildered. "I mean, it's just one diagram."
+
+"Oh. Well, since you're helping me, I thought I should give you the rest of my notes so you get something out of this." She smiled and slid them back to him. "I mean, that's the nice thing to do, right?"
+
+He blinked at her, suddenly at a loss for words.
+
+"So... uh, how long do you think you need?" she asked. "Maybe we can meet again tomorrow?"
+
+Caden shook his head and glanced down at his watch. It was 15 minutes to the first class. If he moved really fast, he'd be able to get from the library to the class in about five minutes. That gave him 10 to find the diagram and scribe the relevant sections. But even as he almost started sprinting towards the Lower Library, the voice of reason told him that there was really no point hurrying.
+
+"Right. Tomorrow. Maybe lunch, here?" he asked, feeling inexplicably hot under the collar all of a sudden.
+
+She nodded, then quickly packed her things and got up to go, and favoured him with a cheerful smile and a wave. "Sure. Tomorrow, then!"
+
+He watched her go, and once she had disappeared through the doors, he stared down at the notes, though his mind wasn't really dwelling on their contents, and instead on the person who had handed them to him.

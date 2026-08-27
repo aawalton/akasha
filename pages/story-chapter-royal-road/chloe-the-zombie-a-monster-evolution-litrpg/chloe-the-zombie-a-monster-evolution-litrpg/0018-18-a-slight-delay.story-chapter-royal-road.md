@@ -1,0 +1,179 @@
+---
+id: f4ab8dc1-0849-572a-8710-865aa59197b7
+page-type-slug: story-chapter-royal-road
+title: "18: A Slight Delay"
+slug: 0018-18-a-slight-delay
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 18
+ownLength: 2356
+unit: words
+publishedAt: 2025-08-27
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2552553/18-a-slight-delay"
+royalRoadId: "2552553"
+---
+
+As they made their way deeper into the city, Chloe couldn’t stop pointing at things, half in awe, half in confusion. She jabbed a finger at carts stacked with strange fruits, at glowing crystals hung from what she now knew were street lamps, at a man yelling on a box about “civic duty,” and even at a funny bird with a weird limp. Each time, she turned to William with wide eyes.
+
+“What’s that?” Chloe asked as they passed a stone building with a weird metal pipe belching steam.
+
+“Public baths, heated by underground furnaces and enchanted vents. Anyone can pay a few coins for hot water and a scrub,” the Baron explained.
+
+“And what’s that?” she asked next, pointing to a man in layered robes shouting passionately at a small, half-interested crowd.
+
+Baron Willy rolled his eyes a bit. “Likely a philosopher, or a madman."
+
+“Is there a difference?”
+
+“Honestly, it can be hard to tell at times.”
+
+And then she saw it. Up ahead, past a fancy-looking gate, was a huge building that practically screamed “I’m important.” Big front doors, tall windows, a lot of fancily dressed people inside. Everything was spotless.
+
+“Okay. What’s that building about?" Chloe asked.
+
+William smiled. “Ah, that splendid structure you see yonder is none other than my estate.”
+
+“Wait… your what now?”
+
+“My personal residence, at least, the one I maintain within the city walls. I keep a more expansive manor nestled in the countryside for when the mood strikes me."
+
+“Wow, so, you live in this big building right?”
+
+“Indeed I do. It has served as my city home for many years now. Quite charming, wouldn’t you agree?”
+
+Chloe glanced at the building again, then back at the Baron, then back at the towering structure. It had to hold at least a hundred rooms, maybe more. Did nobles just keep extra rooms for fun?
+
+She was still processing how absurdly big it was when the gates creaked open and a group of well-dressed humans rushed out. One of them, an older man with thin white hair and round thingies sitting on his nose, hurried ahead of the rest.
+
+“Baron William! Thank the gods. We feared the worst when word reached us of the attack.”
+
+William hopped down from the wagon and greeted the man with a smile. “It’ll take more than a few back-alley bandits to stop me. Though I can’t take all the credit.”
+
+He turned and gestured toward Chloe. “This young adventurer arrived at just the right time. Without her, I might not have made it here at all.”
+
+Chloe gave a lazy wave from the wagon. “Hello! I’m Chloe.”
+
+A brief, awkward silence followed. The older man cleared his throat. “Er… yes. Quite. Thank you for assisting the Baron in his time of need.”
+
+William stepped forward and clapped the old man lightly on the shoulder. “Now, I’ll want hot water, a proper meal, and the latest reports on the city within the hour. Also, quarters for my guest.”
+
+“Of course, my lord,” the old man said, bowing quickly. “We’ll see to it at once.”
+
+Seeing how everyone moved around so neatly, Chloe guessed they had to be Baron Willy’s servants. The way they rushed to do his bidding made her a bit jealous. Must be nice, having people to do stuff for you when you say so.
+
+Soon, the servants moved and cleared the way. Chloe hopped off the wagon and stretched her limbs with a lazy grin. She looked at the estate again, tracing the endless rows of those towering walls that scraped at the sky. The place was massive, too massive. How could anyone need this much room?
+
+But anyway, to Chloe’s surprise, all of the servants at the estate treated her pretty well. It was pretty nice all things considered.
+
+The first thing they did was show her to a room  all to herself. It had nice wooden floors, big windows with sheets of soft cloth, and a really big bed.
+
+Then came the clothes. One servant handed her a fresh outfit: proper boots, clean leggings, a shirt without a single tear, and even a cloak. A good cloak, the kind that wasn't clinging with dried blood and goblin muck.
+
+The only real downside was the food, or rather, the lack of a certain kind. There wasn't a single brain in sight. Not even a bite.
+
+Instead, the servants brought her odd little things. Round, crumbly, and warm. Sweet, but with a grainy bite. Some hid chunks of something that definitely wasn’t meat. They called them cookies.
+
+They were fine, Chloe supposed. Warm in her mouth, easy to chew, but bland as old dirt to her tongue. Nothing that stirred her hunger.
+
+Now she lounged in what she was pretty sure was called a chair, and not just any chair. This one wasn’t stiff like the ones she’d seen in the villages. No, this chair was wide and soft.
+
+It felt good. Really good. Big chair, fancy house, and no one trying to stab her. Almost perfect, if it wasn’t missing one tiny, important detail. Her reward.
+
+Baron Willy had promised one. She hadn’t risked her neck for a plate of cookies or whatever. He better not think she’d forgotten.
+
+Eventually, the door creaked open, and Baron William swept in, looking more lively than ever. “Ah, Chloe! How are you finding my humble estate? Is it to your liking?”
+
+Chloe raised an eyebrow. “Yeah, it’s pretty nice. The squishy chair’s especially good. But, uh... can I get my reward now?"
+
+“Ah, yes, of course. That scholar I promised will require a bit of patience, I’m afraid. I must send a formal petition, and only once it’s approved can they dispatch someone from the capital. The journey from there to Kelvane alone will take at least a week, possibly two, depending on road conditions, and whether or not the scholar in question is currently neck-deep in a project that requires a full debrief…”
+
+Chloe was already zoning out. Baron Willy was doing it again. The long talking thing. So many words, and none of them made sense to her.
+
+William kept going. “And of course, we must consider the bureaucratic bottlenecks in requesting civilian transfer under academic escort. The council has its procedures. They demand…”
+
+She stared at him, eyes glazing over. The man had a real gift for making words sound like not words. Chloe wondered why couldn’t he just talk like a normal person?
+
+Finally, Baron Willy stopped, folding his hands behind his back with a satisfied little puff of breath. “Do you understand everything?”
+
+Chloe blinked. “Yeah, I just need to wait for this scholar to come eventually. Right?”
+
+"Precisely. I shall see to it that you’re introduced to a proper scholar as soon as possible. But don't worry, I'm still a man of my word, and the remainder of your reward is yours, here and now.”
+
+He held out a folded piece of paper, stamped with a shiny blob of wax that had some weird squiggly design on it. Chloe took it cautiously, holding it like it might bite.
+
+“What's this?” she asked, turning it upside down.
+
+"That is a letter bearing my official seal. Present it to a bank after you’ve secured yourself a Guild Tag, and they’ll transfer the agreed sum of one hundred gold coins straight into your account, no questions asked. Once you've handled all that, do make your way back to my estate. We have much more to discuss."
+
+"Um, what's a bank?"
+
+“A bank is simply an institution where people deposit their coin for safekeeping, and occasionally request loans or earn a modest return. Quite dull in practice, but essential to civilized commerce.”
+
+“Okay, so… I just hand this thing to the bank and it'll turn into shiny coins?"
+
+“Well, it is rather more intricate in practice. But in a manner of speaking, yes, that is the general idea. For now, I would advise that you keep my letter safely within your cloak, until you have obtained an official guild tag. Once you are properly registered, you may proceed to open an account with the bank, present the letter, and thereafter receive your gold."
+
+During the journey to Kelvane, Chloe had asked the Baron what coins were actually for. She’d seen humans drop them in the dungeon before and just assumed they weren’t important. But apparently, you could trade them for stuff. Food, clothes, weapons, pretty much anything. And from what Baron Willy said, one hundred coins was a lot.
+
+“Wait, hold on. What’s the point of this bank thing anyway? And why can’t you just give me the coins now?”
+
+“You see, I do maintain a modest supply of coin here at the estate for minor expenditures, but certainly nothing close to a hundred gold pieces. That would be terribly imprudent, and, frankly, a rather tantalizing temptation for any unscrupulous character who might try to steal from me."
+
+“So… you don’t have the coins?"
+
+“I do have it, just not here. The majority of my wealth, like that of any responsible noble, is secured in a bank. Gold there is far less likely to vanish than gold in a loose chest under my floorboards.”
+
+“Okay…  so you’re saying if I want my coins, I gotta… go to this bank place?"
+
+"Precisely."
+
+“And is that where the guild tag comes in?”
+
+“Well, a Guild Tag serves as both identification and credential. It tells the world that you are an individual of legitimate occupation, and therefore a trustworthy recipient of funds. Without such proof, the bank won't give you the coins you are owed."
+
+“Hmm, so how do I get one of those Guild Tag thingies?” Chloe asked.
+
+"Fortunately for you, Kelvane has no shortage of reputable guilds you could join. There’s one for crafters and smiths, another for scribes, translators, and bookbinders. And of course… there's the ever famous Adventurer’s Guild.”
+
+That last one caught Chloe’s attention. Adventurer’s Guild… oh! Wait. I’ve heard that before. A lot of the humans who came into my dungeon said they were with that one.
+
+She sat up straighter, suddenly much more interested. The Baron didn’t notice.
+
+He was still in full noble explanation mode. “It’s by far the most accessible guild. Open to mercenaries, explorers, and those who thrive on the edge of civilized society. Rather fitting, in your case.”
+
+Chloe nodded slowly, wearing the look of someone deep in thought. In truth, she just liked how the word sounded.
+
+Adventurer had a nice ring to it. If the job was all about running through dungeons, stabbing things, and scooping up loot, then she’d absolutely crush it. After all, she’d come from a dungeon herself, that had to make her double qualified.
+
+The Baron finally turned back to her, pulled a pouch from his coat, and placed it on the table beside her. It clinked when it landed.
+
+“There. I’ve added a few extra silver coins to cover your guild registration, and maybe pick up some better gear, arms, or whatever else you need. Once you're done, go sign up with a guild, and they’ll issue you a Guild Tag. From there, you can visit any bank to withdraw your gold without any trouble.”
+
+Chloe picked up the pouch and gave it a little shake. Coins rattled inside, dull and clinky. Not very exciting. “Okay. Cool. But, uh… what’s a silver again?”
+
+William let out a long sigh. “Very well. I suppose I’ll have to reiterate the basics of currency to you, won’t I?”
+
+Chloe rolled her eyes. This was going to take forever, no doubt about it.
+
+***
+
+Chloe was glad to finally leave the Baron’s estate. It was nice and all, but after a while, she’d started hearing Baron Willy’s voice even when he wasn’t around. Nobody deserved to suffer like that.
+
+Now, Chloe was wandering through Kelvane’s loud, smelly, people-packed streets with no plan except one: find the Adventurer’s Guild. Of all the guilds, it was clearly the coolest. Sure, there were other ones, for baking, sewing, and book-hugging weirdos, but none of those were of interest to her.
+
+Besides, Chloe still needed a Guild Tag to claim her reward. William had gone on about the coin system in exhausting detail, and it still felt ridiculous.
+
+One gold was worth ten silver, and one silver was worth twenty copper. Which meant a hundred gold added up to… what, a thousand silver? That times twenty meant… twenty thousand copper pieces? That was a lot of coins. Chloe figured it would be enough to fill an entire room, or maybe two rooms, maybe three.
+
+Somewhere between imagining shiny piles and picturing herself swimming in treasure like some storybook hero, Chloe noticed something was off. She’d definitely taken a wrong turn. One moment she’d been strutting past bustling stalls and colorful shopfronts, and the next, the world had gone gray.
+
+The buildings here were crooked and small, leaning on each other like drunks. Doors sagged on rusty hinges, and half of them looked like they’d given up long ago. A rat darted across the street, tail whipping behind it like it had urgent business somewhere else.
+
+Chloe slowed her steps, eyes flicking from shadow to shadow. The place felt wrong, tight and hollow, like a part of the city everyone forgot about.
+
+The people were no better. They moved like ghosts, silent, heads low. Nobody greeted her, nobody even spared her a glance. Their clothes hung loose, faded and frayed, patched so many times they barely looked like clothes at all. It reminded her too much of the rags she and the others wore back in the dungeon—and that was not a memory she liked brushing against.
+
+The realization struck like a thrown rock. Wait. Wait. Did I walk into a dungeon by accident? Is this a dungeon? Is this city big enough to have a dungeon in it?
+
+She sniffed the air, just to be sure. But the air here didn't smell like the one back in the dungeon.
+
+Still, something felt off. There was something odd about this part of the city.

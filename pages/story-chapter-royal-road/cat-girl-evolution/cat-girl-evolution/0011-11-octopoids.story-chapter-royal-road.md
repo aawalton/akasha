@@ -1,0 +1,145 @@
+---
+id: 40e009d4-18f6-5326-a614-19b56d20d5b2
+page-type-slug: story-chapter-royal-road
+title: "11 - Octopoids"
+slug: 0011-11-octopoids
+partOf: cat-girl-evolution
+position: 11
+ownLength: 2407
+unit: words
+publishedAt: 2025-08-19
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2529399/11-octopoids"
+royalRoadId: "2529399"
+---
+
+The nearest octopusman lashes out at me with a tentacle, trying to grab me, so I leap backward out of its reach.
+
+These guys are gonna be so tasty!
+
+I dodge to the side as a second octopusman reaches for me.
+
+They look kinda weird. They’re not quite as human as the other -oids. They have two tentacles that are thicker than the other ones that they use kind of as legs, but they have six tentacles instead of arms, and in the middle of all the tentacles is a gaping beak. Its head is all squishy and jiggly with eyes on either side and two big nostrils with no mouth. Their skin looked exactly the same color and texture as the bark when they were on the trees, but now that they’re away, they’re turning a different color.
+
+I jump around a bit more as more octopusmen peel themselves away from the trees and start attacking me. There are ten of them in total. That’s a lot. But it’s okay! I’m strong now! These guys are nothing!
+
+I wait for the nearest one to reach for me again, and this time, I only jump back enough to be out of its range, and as the tentacle flies past my face, I Slice at it!
+
+…And I miss. So I wait for the next strike, and I Slice again! This time I hit!
+
+…And it barely does anything. I mean, it cuts kinda deep into the tentacle, but it doesn’t even cut all the way through. How are these guys so tough?
+
+At that moment, I hear a faint noise from behind, and the sound of wind, then something slams into my rear end. Nothing breaks, but it does force my knees to bend, preventing me from jumping away as it starts wrapping around me. It’s another octopusman, and this one was still in hiding. I hear another noise behind to the other side as a second hidden one emerges. There are actually twelve of them, not ten.
+
+The tentacle keeps wrapping around me, so I twist my body around and Slice at it with a single claw. It doesn’t quite make it all the way through, but it does seem to sever the muscle, and its grip loosens. A second Slice takes the tentacle all the way off, and I immediately grab it and put it in my Stomach before using Blink to get behind the one that was grabbing me.
+
+My butt hurts. That hurt. I don’t like this fight. Maybe thinking I could take on ten of them wasn’t the smartest. But it’s okay! I just need to-
+
+Cat-like Reflexes activate and I Blink again out of reach of another tentacle. Is it another octopusman? No, it’s one of the ones from before. It just snuck around and camouflaged itself against another tree while I wasn’t paying attention.
+
+This is dangerous. These guys aren’t anywhere close to as weak as the other -oids, and there are so many of them! If it was just one or two, I could probably take them, but twelve? Not a chance. Time to run.
+
+I ignore the throbbing pain in my backside as I sprint through the trees. It’s not as easy to lose them as it was to lose the other -oids. They’re much faster, and they’re using their upper tentacles to swing off of trees and things. I’m still faster, but I almost have to run all the way to the edge of the island before their sounds start to fade far enough behind that I’m sure I’m out of their sight.
+
+I slow down a bit to catch my breath, then start leaping from tree to tree along the edge of the island. After about five more minutes, the island goes quiet. It seems like they’ve given up the chase, but I haven’t heard them enter the water. They’re probably either waiting somewhere for me to pass by, or they’re being stealthy.
+
+I don’t like this. They’re strong, there are a lot of them, and I don’t have anywhere to run or hide. They can all climb trees just as well as I can, if not better, they’re strong enough that even after upgrading Scratch to Slice, I can’t kill them easily, and worst of all, they’re coordinated. They all came to the island at the exact same time while I was fighting the sharkmen. I think that means that the sharkmen were a decoy so they could set up an ambush. That’s way too smart. I don’t like it at all.
+
+They’re clearly targeting me. There’s no way there would be so many octopusmen here for any other reason. The eelmen were probably also hunting me. The fishmen seemed less coordinated, so they might have just been a scouting party or something to make sure the island was clear. Either way, it’s clear that they are actively trying to kill me, and that can’t be good.
+
+But, as smart as they are, I’m smarter. I just need to figure out a way to get out of this. First though, some rest. My butt really hurts.
+
+I glance back, and stare at my backside. It’s bleeding. Why is it bleeding? It was a squishy tentacle, not a sword! Unless…
+
+“Blergh!”
+
+I wait a second to make sure that the noise didn’t summon the octopusmen, then I look down at the severed tentacle. I poke at one of the suckers with my claw, and just as I thought, instead of squishing, I hit something hard, almost like a tooth. No wonder I’m bleeding.
+
+I look back at my wound and a sudden thought occurs to me. This is just like the injuries that Old Man Jenson had! It was probably one of these things that killed him! That’s one mystery solved. I’m so smart.
+
+I take a bite of octopusman. It’s delicious. Every bit as good as I hoped it would be.
+
+You know, now that I know that these tentacle have teeth or whatever these things are in them, I feel like my butt doesn’t hurt as much as it should. Actually, it definitely hurts less than it should. And I feel like it’s getting even less over time. Hmmm…
+
+Oh, right! I have that one Trait that makes me heal faster when my Satiety is high! Haha, silly me. Well, that’s nice. That means I won’t bleed out at least. I am getting really hungry though.
+
+I take another ten bites of octopusman.
+
+Much better! Now, how do I get out of this mess? The night has only just begun, so I need to survive the whole night. There’s no way they’ll just stay put and hope I stumble onto them. They’ll come for me again soon, and when they do, I’ll need to be ready.
+
+So, how do I kill twelve coordinated octopusmen? I can at least damage them with Slice, even if I can’t kill them easily. Can I just run around and do a war of attrition, slowly whittling them down? That would take forever and be super tedious, but do I have a better option? I feel like Ember wouldn’t be very effective against them, so Slice and Bite are my only two real weapons.
+
+I look over my Royal Status Window to see if there’s anything I’m missing, and I find myself lingering on Snatch of the Glutton. While I don’t like the name, I feel like it should be useful. Do the octopusmen count as “edible”? Well, I’m eating part of one right now, so surely they should. The real question is: will Snatch of the Glutton work on them, or will it be like Stomach of the Glutton where it won’t let me? If it does work, I could just teleport them to me, then kill them while they’re separated from the rest of the group.
+
+Well, I won’t know until I try it. And I will try it when they get close again. For now, though, my butt is feeling better, but I think the healing is making me really hungry, so I’m gonna finish off this tentacle so I can keep healing.
+
+It takes about fifteen minutes, but I eventually eat the entire severed tentacle, and by the end, my back is fully healed. There’s still blood on my fur, so I’ll have to give myself a bath later, but at least it doesn’t hurt anymore. I haven’t seen, heard, or smelled anything coming, so the octopusmen are still a way’s out, which means that I’ve got some time. I should see if I can figure out how this Snatch works.
+
+I use Food Sense to focus on some of the things around me. There are leaves all around, grass below, trees, dirt, a few insects, and some seashells that all register as edible. I focus my attention on the nearest insect, and try to use the skill, and it works! There's an ant on the tree branch with me now! I’m honestly surprised. I wonder if…
+
+Nope. Can’t put it into Stomach. So I can use Snatch on living creatures. Interesting. That seems overpowered. I mean, they are edible, but being able to just pull something to where my claws are waiting seems too strong. Maybe there are other limitations? I should-
+
+Wait! What’s that?
+
+Something new has entered the range of my Food Sense. It’s coming from inland. It’s an Octopoid! Wow, this skill seems overpowered too. I should have been using it when I was coming back from the sharkmen…
+
+Well, too late now. The octopusman is about fifty meters away, which seems to be the edge of Food Sense, and he’s moving very slowly. A short while later, two more appear behind him, and then a fourth appears way off on the other side. It looks like they’re trying to pincer me. Smart. But not as smart as me!
+
+Snatch!
+
+The world spins as I feel a strong mental pressure, and then suddenly, everything is right again, and the octopusman is in front of me and falling down toward the ground. He lands with a squelch, and I shake the dizziness away before jumping down on him. He looks completely disoriented, but still manages to dodge to the side as I fall from above, Slicing at his head. My claw leaves a long cut across his chest instead of down his head.
+
+He recovers quickly, and tries to lash out at me, but between my Cat-like Reflexes and my now-super-high finesse, I dodge easily. Even when he attacks with four tentacles at once, I can still get away. But I can’t keep dodging, because I can sense the others from his group closing in quickly. Time to finish this.
+
+I start a Slice, and then as I’m halfway through, I Blink right in front of his head. As I Blink, I feel that same intense mental pressure, and it almost makes my attack falter, but with my paw already in motion, it still connects, cutting deep into his head.
+
+It reacts quickly, trying to wrap me up, but I use my back paws to kick away, slipping between the closing tentacles. The others are only ten meters away, so I turn around and start another Slice before Blinking once again to right behind it. This time, my vision goes entirely black, and when I can see again, I’m standing on top of the octopusman’s corpse as the others burst through the treeline.
+
+[ You have defeated Octopoid, lvl 5! Bonus experience for defeating an enemy above your level! ]
+
+[ !@#$%^&*() House Cat, 1 → 3 ]
+
+[ +32 Power, +44 Finesse, +40 Resilience, +28 Memory, +28 Willpower, +28 Sensitivity ]
+
+Nice, levels! But hmmm, I probably shouldn’t use Blink anymore.
+
+I quickly store the octopusman’s corpse in Stomach, which turns out to be a mistake. My vision goes dark again, and when I can see again, it’s only thanks to Cat-like Reflexes that I avoid getting grabbed. I spring to the side, avoiding one set of tentacles, then up onto a tree trunk to avoid the next set, and from there, I rocket myself further into the trees. I’m heading straight toward the second group of octopusmen, but they haven’t realized what’s happening yet, so when I come flying by, bounding from tree to tree, they aren’t prepared. Two of them react in time to reach up to grab at me midair, but they’re too slow, and I sail past.
+
+The chase is on again, but just like last time, I manage to get away and out of their range until I can camp out in another tree. Now, to figure out why Snatch, Blink, and Stomach made my head hurt.
+
+[ It’s because you’re out of mana ]
+
+I am?
+
+[ You used Blink a dozen times, and you teleported a human-sized creature against its will. It’s a miracle you’re still conscious ]
+
+I also teleported an ant.
+
+[ Exactly. Don’t use any more magical skills until your mana recovers. You could die. ]
+
+That’s not good. How long will it take?
+
+[ Probably about 8 hours ]
+
+What? That’s way too long! How am I supposed to beat the octopusmen without Blink and Snatch?
+
+[ I would recommend not trying. You can just keep running. They can’t catch you. ]
+
+Surely there’s a better way to do it, right?
+
+[ You could try to meditate to speed up the process, but I wouldn’t expect you to be able to figure out how to do it before the end of the night. Not when you’re being hunted. ]
+
+Watch me!
+
+[ You can’t even sense mana properly yet, let alone draw it in faster. Without a skill or trait to help you do it, it could take years. ]
+
+Well then how do I get that skill or trait?
+
+[ Traits are only possible to gain from Evolutions or Bloodline awakenings, and to learn a Skill, you need to either be taught by someone who has gotten the skill to Peak Proficiency, or you need to unlock it with your Evolution, Class, or Profession ]
+
+So basically, you’re saying it’s impossible.
+
+[ Yes. Unless by some miracle the System manages to finish- ]
+
+[ Your Evolution has been stabilized! You may now view your Evolution in your Status Window and select a Class! ]
+
+[ Oh, for f- ]

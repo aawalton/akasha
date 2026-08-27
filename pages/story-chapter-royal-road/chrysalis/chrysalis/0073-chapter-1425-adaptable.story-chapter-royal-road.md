@@ -1,0 +1,83 @@
+---
+id: 343e4587-729d-5508-9dfb-ba58312db704
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1425 - Adaptable"
+slug: 0073-chapter-1425-adaptable
+partOf: chrysalis
+position: 73
+ownLength: 1003
+unit: words
+ownProgress: 1003
+publishedAt: 2024-10-07
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1838293/chapter-1425-adaptable"
+royalRoadId: "1838293"
+markedReadAt: "2026-06-29T19:46:02.120Z"
+---
+
+Solant had built her entire campaign around one central principle: adaptability. The fifth was an unknown quantity. Who could say what the Krath were capable of, or what conditions may arise down there?
+
+That didn’t mean playing it safe, moving slow, absolutely not. That approach would only give their enemies time, time to gather and organise, time to muster their forces. If the Colony didn’t establish an impregnable clawhold within the fifth before that happened, all would be lost.
+
+Strike hard, strike fast, and adapt to whatever came their way. The vents had caused enormous headaches to the invasion, and ground their expansion to a halt, but that didn’t mean that progress would stop too.
+
+“Do we have an update from this section of tunnel in quadrant seventeen?”
+
+“Scout came in a few minutes ago, general, the gap has widened, but hasn't been opened completely.”
+
+“Is it wide enough for the soldiers to get through?”
+
+This was the key question.
+
+“Y… yes it is, general. Just.”
+
+“That’s enough. Send word to cease work on that section of tunnel. We don’t need to eliminate the pocket created by the vent, we just need to be able to get around it.”
+
+Scouts ran to deliver her instructions as Solant fell into silent contemplation, staring at the model of the surrounding territory. It wasn’t even the tunnels and intersections she was looking at, but something deeper, something larger. She was trying to sense the ebb and flow of the campaign, to see what was, and imagine what could be.
+
+Many options were considered, but after examining each with due care, she dismissed all but one.
+
+“Send orders to all quadrants. Order ** is cancelled, we return to standard organisation, and begin operation Happy Meal.”
+
+“That’s much earlier than planned,” Leonidant observed from nearby.
+
+“The situation has changed,” Solant said simply.
+
+And it had, of course it had, but they had to make the most of a difficult situation.
+
+“I authorise the use of the blue lure method as well,” she stated.
+
+More runners dashed away to deliver the orders, and Solant settled back to contemplate the model once more. Given their current plight, this was perhaps the best they could do. For the time being, they were in a holding pattern. Construction continued on the fortified nest, of course, and the build teams had adjusted to the new schedule brilliantly, as should be expected from them.
+
+Operation Happy Meal was something they would have always needed to do, so it wasn’t as though time was being wasted.
+
+“Leonidant, have we identified the monsters we should be targeting?”
+
+“We have several prime candidates, general. Slime Elementals and Alchemy Sludge monsters seem to be the best candidates to feed through the pipes. Smaller parasitic monsters are also suitable, such as the Pulsing Mindrot or the False-Friend Maggot.”
+
+Even Solant couldn’t help but wave her antennae a little in disgust.
+
+“Vemiculus Amicus Falsus,” she clacked her mandibles with distaste. This stratum really was a distasteful place, to harbour such creatures. “What of the feeding apparatuses? Have they been assembled?”
+
+“Everything is ready, general. Your orders came at the perfect moment,” Leonidant assured her.
+
+Feeding the happy little pets that were the wuffers was an important component of the invasion. Making more wuffers was one way to combat the contamination of the fifth, but strengthening the ones they already had was another. It had already been proven that the wuffers could level up by ‘purifying’ and consuming monsters fed to them through the pipe network; the trick was actually finding prey they could use in this way.
+
+The second trick, of course, was getting them into the pipes without letting them touch the blue mana, which would instantly begin disintegrating any fifth stratum monster.
+
+As her orders were distributed throughout the safe-zone, the ants began preparing for the difficult task ahead. Teams were formed, lures were prepared, the carvers ensured the pipe networks were ready and up to the task.
+
+Then the hunting began.
+
+In many ways, Solant likened the strategy more to the human pastime of fishing, as opposed to hunting. Specially prepared spheres, each enchanted to hold mana within them, were carefully charged with purified mana, then launched hundreds of metres out onto the contaminated tunnels. The enchantments prevented the external energy from mixing with the internal, so the little ball filled with blue mana just sat there on the rock floor, seemingly uninteresting.
+
+But to the monsters of the fifth, that faint wisp of foreign energy was enough to drive them into a blind rage, and send them hurtling towards the source. As soon as the ants had a ‘bite’, they would pull back the lure, using the thin, enchanted chain attached to it, dragging the monster closer to the safe-zone. Once the beast locked onto the greater source of (in its eyes) contamination, it disregarded the lure and charged headlong toward the waiting formation of ants.
+
+Then, the mages stepped forward, weaving powerful spells of binding, and the soldiers deployed their weaponry, engineered for this very purpose.
+
+The maddened monsters of the fifth were greeted with a barrage of magic that both damaged them and locked them in place, either by trapping their feet in the stone floor, solidifying the air around them, or capturing them whole in ice. Then came the spears, propelled from iron launching tubes that Brilliant had designed. They delivered enchanted payloads straight into the beasts, paralysing the monsters so that the ants could continue their grisly work.
+
+If a target was suitable for wuffer consumption, the manipulators were brought forward, huge contraptions of string and pulleys, designed to stuff the monster into the waiting pipe-network entrance.
+
+If not, it was quickly destroyed and the core harvested. Then the lure was prepared once more.
+
+Within the captured territory, there were twelve separate hunting grounds… or fishing spots, and each was extremely busy. On their specially constructed pads, the wuffers happily wibbled and wobbled, very much enjoying the meals they were being served.

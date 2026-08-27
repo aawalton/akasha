@@ -1,0 +1,87 @@
+---
+id: 71a3ca92-eaa1-5de2-a0d5-6d596a65ca34
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1422 - Zluth Ascendant"
+slug: 0070-chapter-1422-zluth-ascendant
+partOf: chrysalis
+position: 70
+ownLength: 971
+unit: words
+ownProgress: 971
+publishedAt: 2024-10-02
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1830736/chapter-1422-zluth-ascendant"
+royalRoadId: "1830736"
+markedReadAt: "2026-06-29T19:45:54.253Z"
+---
+
+“I told you I could make you the next Krath’lath,” Goszi spat. “All we needed was for the Slee tribe to be brought right to the edge of extinction.”
+
+Zluth eyed the older Krath, one of his stalks turning to track the slug.
+
+“Are you regretting the bargain?” Zluth asked.
+
+Goszi burbled out a harsh laugh, his voice sounding as if it were rising through a dense bog.
+
+“Of course not. The last Krath’lath was a disaster. All fury, no cunning. She was good at bullying cowards and cultivating acid, not acceptable traits for a leader.”
+
+She certainly had managed to cultivate a potent acid for herself. Even now, Zluth felt it searing through his flesh as he attempted to blend it with his own. He hadn’t been able to consume much of the fallen leader, nobody had, but even a little had been enough to take some of her strength.
+
+“The real issue I have is making sure the new Krath’lath doesn’t throw me aside now that I’ve done my bit,” Goszi said, a sly tone creeping into his voice.
+
+Zluth’s eyes narrowed.
+
+“Are you saying I would go back on my word? Betray my part of the agreement?”
+
+“If you wouldn’t, then you aren’t the Krath I thought you were,” came the contemptuous reply.
+
+Of course, Zluth had fully intended to betray Goszi. Although his help in securing the leadership had been useful, the old slug now had nothing to offer. In fact, given the desperate situation of the Slee, having an older, weaker member taking resources from those who could better utilise them was making their survival less likely.
+
+Making Zluth’s survival less likely.
+
+He couldn’t have that.
+
+“I will admit, Goszi, I called you out here to give you the choice. You helped me unseat the Krath’lath, so I won’t consume you on the spot. You can either detonate your acid gland and end yourself, or choose exile in the swamps. Perhaps I might have been able to justify keeping you alive if we were still holed up in the Slimegrounds, but now we are nomads without a home.”
+
+“Don’t talk nonsense. You would have killed me anyway,” Goszi stated with utmost confidence, and Zluth nodded his confirmation. “This is exactly the type of leadership we needed all along. However, I think it’s important you reconsider your position.”
+
+Zluth’s eyes curved into wicked moons as he turned both stalks on the other Krath.
+
+“I thought you might….”
+
+The two were isolated from the rest of the tribe, who were resting in an air pocket beneath a yellow mucus river. It had been a difficult journey, staying ahead of the invasion and its cursed, lethal blue mana, while also avoiding the many dangers of the fifth. Zluth had taken on dangerous scouting duties time and time again to ensure his people made it through safely, helping to secure his position as Krath’lath.
+
+Goszi had to have known what was happening the moment the new tribe leader had asked him to slide out, away from the group. Now Zluth was interested to hear what the crafty old slug had in mind to keep himself alive.
+
+“Since I may be dead anyway, is there any chance you might reveal where you intend to take the tribe?” Goszi asked.
+
+Zluth shook his head. He wouldn’t reveal anything if he didn’t have to, and right now, he didn’t.
+
+“Hmph,” Goszi burbled, “I thought as much. Very well, I will lay my moss out on the table. I know how to find the Slimegrounds of the Suggoth tribe. What’s more, I know where to find their old Slimegrounds, which they abandoned after they destroyed the Zzith.”
+
+Zluth was taken aback.
+
+“How could you possibly know that?” he demanded, the anger beginning to sizzle in his flesh. “Are you trying to trick your way into surviving for another few days? Another week? So you can try to raise up another leader in my place?”
+
+“The tribe won’t change leader, not now,” Gozsi spat derisively. “It would be as good as condemning all of us to death. And as for the reason I know this, it’s because I myself was a member of the Zzith before I fled and joined the Slee.”
+
+Trying to tamp down his anger, Zluth calculated the time based on what he knew of local history. It seemed to check out. It was possible Gozsi had abandoned his tribe shortly before they were destroyed.
+
+“That would explain why you know the location of the Suggoth’s current Slimeground, assuming they usurped the Zzith’s old haven, but their old one? Did the Zzith really know the location of their rival’s home?”
+
+Goszi smiled a slow, wide smile.
+
+“In truth, it was the Zzith who initiated the conflict. We flooded their egg chambers with acid, burning their young into soup. It was a powerful strike, but we hadn’t anticipated just how hard the Suggoth would strike back, nor did we realise they’d found the Slimeground. It was over in just a few days.”
+
+The story sounded compelling, but there were details missing. How had Goszi, the wiley old slug, known the Suggoth would win the conflict?
+
+“You sold them out, didn’t you? You were the one who revealed the location of the Zzith Slimegrounds in order to bargain for your escape.”
+
+Goszi revealed his needle-pointed teeth in a savage grin.
+
+“The Zzith were complacent. I knew they would lose eventually, so I merely hastened their demise and ensured my own survival in the process.”
+
+And now he had an in with the Suggoth, which Zluth would need in order to raise the alarm about the impending invasion….
+
+“Well done, Goszi,” he said, “you have managed to survive yet again.”
+
+“It’s what I do,” the old slug replied. “It’s very hard to kill old Goszi.”

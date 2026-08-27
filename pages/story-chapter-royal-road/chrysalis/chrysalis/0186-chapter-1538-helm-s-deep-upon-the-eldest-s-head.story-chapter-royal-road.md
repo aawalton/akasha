@@ -1,0 +1,91 @@
+---
+id: 37f3a189-cdc1-5159-8448-d2b4971ecfcd
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1538 - Helm’s Deep Upon the Eldest’s Head"
+slug: 0186-chapter-1538-helm-s-deep-upon-the-eldest-s-head
+partOf: chrysalis
+position: 186
+ownLength: 994
+unit: words
+ownProgress: 994
+publishedAt: 2025-03-27
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2153421/chapter-1538-helms-deep-upon-the-eldests-head"
+royalRoadId: "2153421"
+markedReadAt: "2026-06-29T19:49:47.041Z"
+---
+
+“I can’t make a helmet strong enough to resist a blast of those sorts of proportions. Impossible.” Smithant declared.
+
+Well, no arguing with that, I suppose.
+
+“Thanks for taking the time to meet with me, I suppose,” I say, turning away.
+
+“There’s no way,” she continued. “Not even with the most advanced forging techniques and alloys we currently possess. With crushed living stone mixed into the furnace… or perhaps a folded lattice of… no, the temperature would cause it to crack. Which is why I told you it was impossible!”
+
+“A-alright,” I say, confused. “You don’t need to tell me twice. If you can’t do it, you can’t do it.”
+
+“And it has to be transparent,” she stressed. “The whole idea is to protect your eyes and stop them from imploding. If you can’t see through it, there’s no point. Rather than a clear material, we would be better creating a shield over your eyes using enchanting, but the materials required… and the work would be meticulous… not durable at all… and how would it even work? The core required to power it… for a shield of sufficient strength…. No, impossible.”
+
+I’m not sure if she’s having an episode or what. I think I’ll just leave.
+
+“Get back here!” she roars, and I freeze on the spot.
+
+“Make up your mind, dammit!” I declare, my antenna twitching, sensing a moment of thwacking had arrived.
+
+“I’m thinking! Look, sit down over there and I’ll take some measurements while I ponder.”
+
+“Are you going to keep telling me my request is impossible the whole time?”
+
+“Uh, maybe?”
+
+“Don’t.”
+
+“... I’ll try my best.”
+
+So I drop into an adjustable ant chair that doesn’t quite extend enough for me to sit comfortably, damn my hugeness, and wait while the smith takes measurements, mutters to herself and is a general pest.
+
+Her workshop in the fortress isn’t as elaborate as some that I’ve seen her in, most of the industry in the Colony is happening further up in the Dungeon, after all, but it's still fancy. Smithant’s workshop isn’t about mass production, or even fine craftsmanship. She specialises in discovery and prototyping, and so her space is specially rigged to produce… just about anything an ant could possibly think of. Much like my current request, she’s the one we turn to when we need solutions to new problems.
+
+Still, the wealth on display here is something I’m just starting to get used to. Our trade with outsiders in the fourth stratum has borne fruit, and the proof is right here in the open. All sorts of crystals and metals that I’m fairly confident the Colony hasn’t unearthed are neatly stacked here and there about the chamber. No doubt Smithant has been working day and night, tinkering and testing to see what she can do with them.
+
+“It might be possible,” she declares, jarring me out of my thoughts.
+
+“What? Ah. It is? I’m pretty sure you said just the opposite about a hundred times.”
+
+“I was just thinking, don’t be so fussy,” she says, waving my concerns aside. With an interesting project placed in front of her, Smithant has come to life, clacking her mandibles eagerly, antennae waving through the air with vim and vigour. “It’s not going to be easy, but there are a few alloys I’d like to try, which should be conductive enough to hold the necessary enchantments. You don’t need the shields to be up permanently, do you?”
+
+“Well… no. I suppose not.”
+
+I only need them to protect me from the explosion released at the end of the Starcrusher. Or in the event an attack finds its way to my eyes. Most of the time, I don’t need any protection around the ocular region. Foresight and my reflexes are usually more than enough to keep my eyeballs safe.
+
+“So the issue becomes one of burst potential. We need an enchantment and alloy robust enough to allow extreme amounts of mana to flow through in a very narrow timeframe. That’s tough, very tough. Well, it’s easy, actually, the tough part is making it so that it doesn’t burn out after a single use.”
+
+“Couldn’t you just make another one after each use?”
+
+“That,” she snaps, “would be wasteful and poor craftsantship.”
+
+“I suppose you’re right on that front.”
+
+Being wasteful is tantamount to being selfish in the eyes of the carvers. There’s no way they would stand for it.
+
+“While I have you, Eldest,” Smithant goes on, “I have some prototype armour pieces for you that I want you to try on.”
+
+I shift, a little uncomfortably.
+
+“I really don’t think you can make anything better than my carapace, no offence.”
+
+This is gravity compressed diamond! Also, no way in heck am I covering it up!
+
+“Rude,” the smith snaps, slapping me on the side with an antenna, “but you aren’t wrong. These pieces are for covering the gaps in your joints and come with some beneficial enchantment work. They should help make you a little more mobile than before, while also improving your mana intake.”
+
+Well… that doesn’t sound too bad. The weak point of any ant is the joints, specifically in the legs, after all.
+
+“Alright then, let’s see how they fit,” I sigh.
+
+Turns out, quite well. Say what I will about Smithant, she does good work. Each of my legs is fitted with two separate ring-plates. The first protects the point where the leg joins to my body, the second clamps over the joint at the midpoint of the leg, the knee equivalent, I suppose.
+
+Made of a glittering, silver-golden alloy, they look rather fetching as well. A shiny accessory that only accentuates the deep lustre of my carapace.
+
+“I’ll have something ready for you in a few days,” Smithant says, dismissing me and getting straight to work.
+
+With nothing else to do, I scuttle out and head back to the platform. The fight is never-ending out there, after all.

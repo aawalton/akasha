@@ -1,0 +1,83 @@
+---
+id: cfa5b82a-7f2a-5c33-8624-cdadbce9b00b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1471 - Pursuit"
+slug: 0119-chapter-1471-pursuit
+partOf: chrysalis
+position: 119
+ownLength: 844
+unit: words
+ownProgress: 844
+publishedAt: 2024-12-10
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1948986/chapter-1471-pursuit"
+royalRoadId: "1948986"
+markedReadAt: "2026-06-29T19:47:52.856Z"
+---
+
+It was understood from the beginning that it was simply unacceptable for a single member of the Colony to be captured during the invasion. Considering the Krath were infamous across Pangera for their disgusting methods of converting captured enemies into corrupted versions of their former selves, the reality of battling against a twisted version of the Colony itself was intolerable.
+
+Also, there was a subtle arrogance in the way we thought of this scenario. To us, the most potent and deadly weapons in the Dungeon were ourselves. Were the Krath to get ahold of such a weapon, our mission would surely become harder.
+
+However, the resolve to prevent any captives became personal somewhere along the line. The Colony would not allow one of their own to be lost to the Krath. We simply wouldn’t. No matter the cost.
+
+-           From the personal notes of Historiant.
+
+“FORWARD, SISTERS!” Leeroy roared from the head of the column. “WE ADVANCE INTO THE DEADLY UNKNOWN TO RESCUE ONE OF OUR OWN! THERE IS NO TIME TO LOSE!”
+
+“WE SEEK!”
+
+“THE KRATH DARE TO TAKE ONE OF OUR OWN! WE WILL TEACH THEM THE ERROR OF THEIR WAYS! OUR SISTER WILL NOT PERISH THIS DAY!
+
+“IF ANYONE IS GOING TO PERISH… IT’S GOING TO BE US!”
+
+“FOR THE COLONY!
+
+With the reliquary of the Fallen Immortal carried in the centre of their formation, the heavily armoured shock troops of the Colony stopped for no one and nothing, rushing headlong out of the safe-zone and into the toxic world of the fifth.
+
+Each was immediately surrounded by a protective bubble generated from within their armour. They tried not to be too disappointed about it. There was a mission to complete, after all. There would be no glory if their sister was lost to the Krath.
+
+“After the Eldest! Charge as if survival were biting at your legs!”
+
+“FOR THE COLONY!”
+
+Other ants fell back, giving space to the single-minded fanatics that were the Immortals. Their charge was like an avalanche, the ground shaking beneath their armoured feet as thousands of tons of monster and metal sprinted forward into danger.
+
+The moment Leeroy found the tunnel the Eldest had been widening, she dove in headfirst without hesitation.
+
+“Prepare the digging crews! Carvers to the front!” She ordered those behind her.
+
+They passed the orders along, but also didn’t hesitate to dive into the tunnel without pause, crashing into the back of Leeroy, and eventually the Eldest.
+
+“Eldest! We’re here to assist! Where is the enemy?” Leeroy demanded.
+
+“Be quiet and dig,” the Eldest ordered. “There’s no time to waste.”
+
+The original tunnel used by the Krath was only a few metres wide, barely enough to squeeze their captive ant through, but the Eldest needed much more space to move. Leeroy and her vanguard were mighty soldiers, but they were still significantly smaller than their Senior, and so it wasn’t long until they pushed to the front.
+
+Stone Mana specialists arrived, using their Skills to shape the stone even faster than the Eldest could. Combined with a digging force hundreds strong, the ants punched through the rock at record pace and soon burst out into another tunnel.
+
+Naturally, they came out of the roof, which caused Leeroy and the others to fall twenty metres and crash into the tunnel floor. She was barely able to get to her feet and start running before the Immortals behind her leapt down, crashing heavily themselves.
+
+A few moments later, the reliquary came down like a brick of reinforced steel, which it was, sending rock and stone flying everywhere. The ants responsible for carrying it shook themselves off and hefted their burden once more, undamaged.
+
+“I SEE THEM!” Leeroy roared. “Onwards, to DEATH!”
+
+“WE SEEK!”
+
+Again, the ground shook, the stone rattled and even the slime seemed to slow in its seeping tracks as the irresistible charge of the Immortals began to gather momentum.
+
+Leeroy’s legs screamed under the pressure, but she welcomed the strain. To get her body moving with ten tons of steel on her back was difficult, but it was worth it. The faster she went, the more force the impact would generate, and the greater the odds it would be her last.
+
+In the distance, she could see the Krath, with their captive being dragged behind. As slippery and quick as they were, with a large ant to pull along, they could only move so fast.
+
+And Leeroy judged that the Immortals were moving faster.
+
+For so long, she had waited for this moment, a chance to be unleashed on the deadliest environment in the Dungeon. Now there was going to be a fight, a glorious rescue to prevent the heinous enemy of the Colony from securing a captive for their nefarious purpose.
+
+Surely. Surely here…
+
+Her heart was afire, and she knew every single Immortal in the column felt the same way.
+
+Here. Now. This was the moment!
+
+“GET BACK HERE AND KILL ME!” She bellowed at the fleeing Krath, picking up even more speed with the force of her fury.

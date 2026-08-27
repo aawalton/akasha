@@ -1,0 +1,177 @@
+---
+id: 3035cc9f-c01d-5e21-ab4a-7f79c95189fc
+page-type-slug: story-chapter-royal-road
+title: "89 - Named Monster Evolutions"
+slug: 0089-89-named-monster-evolutions
+partOf: cat-girl-evolution
+position: 89
+ownLength: 2509
+unit: words
+publishedAt: 2026-02-15
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3055749/89-named-monster-evolutions"
+royalRoadId: "3055749"
+---
+
+“You said ‘different’ not… whatever the heck this is.”
+
+[ Is this not different? I don’t see the issue. ]
+
+I glare at the Annoying Red Box, then turn my attention back to the space I have appeared in. I don’t really know what I was expecting, but it wasn’t this. The room I’m in now is a short hallway made of white marble from floor to ceiling, and there are three offshoot hallways, two on the left and one on the right. The only notable feature aside from the offshoots is a big painting on the far end of the hall, and if I’m not mistaken, the painting is of me. My true form, of course, standing on a table and eating a whole cooked fish.
+
+“What’s going on?” I ask.
+
+[ This is how Named monsters evolve. Well, it’s how intelligent Named monsters evolve, at least. Low tier Disasters have a process more similar to the one you are already familiar with. But for sapient Named monsters like yourself, you get this. ]
+
+“Yeah, I got that. That’s really not helpful at all.”
+
+[ I wasn’t done yet. ]
+
+“Then why did you send the message? You sent me a full box with text with no immediate followup and expect me not to assume you’re done?”
+
+There is a long pause before another response arrives.
+
+[ As an intelligent monster, you are able to use more than just your base instincts to choose your path, so we move away from the food-based selection process. As a Named monster, your existence is special, so we have to go a step further. A Name is not just a word or phrase. Names carry power, especially capital -N Names granted by the System. Only the worthy can handle them, so to have one, you must prove yourself worthy.
+
+Of course, the same is obviously true of upgrading Names. If you want to change your Name, you must prove that you are worthy of your new Name. That is what this space is. A place for you to prove yourself.
+
+You have four options, represented by the four paths before you. The first is to claim the Name of one you have defeated, and you will find that on the first path to your left.
+
+The second is to continue down your current path with a Historic Name. You can follow in the footsteps of your predecessor, or claim another Historic Name. These choices lie in the second hallway on your left.
+
+The third is to forge your own path. The System has prepared Names that you may qualify for, and trials for you to prove yourself. These choices are on the right side.
+
+The final option is to keep your current Name, and simply upgrade in Tier with no other changes. The fourth option is, of course, the weakest, but it is also the safest. You have already earned your Name. You do not have to earn it again. You will simply wake up evolved with no further trials. Any other option will have you entering a Trial where failure will have consequences. At best, you will simply fail your Evolution and be reverted a couple levels and lose the right to challenge for that Name again. At worst, you will lose your current Name, and be relegated to an ordinary monster. ]
+
+“That’s a lot of words. Abby, summarize them for me.”
+
+[ Your usual System Assistant is not available at this time. ]
+
+“Lame. Okay, fine, I’ll read it myself.”
+
+…
+
+“Wait, are you saying I have a hand-me-down Name right now?”
+
+[ More or less. Did you really think you were the first to earn ‘the Gastronome’? It’s actually one of the more common Infiltrator Names. ]
+
+“What about Yona? Were the other ones named Yona?”
+
+[ Most likely not. ]
+
+“Then they didn’t have my Name!”
+
+[ Yona is your given name, and is integrated as part of your Name, but the actual value of the given name is unimportant. At least, not right now. You can give your given name importance, but as you are now, the ‘Yona’ is not important. It could be anything, and it would function as the same Name. ]
+
+“That’s dumb. My given name is definitely important.”
+
+[ Not in the System’s eyes. Not yet, at least. As I said, though, you will have a chance to prove its worth eventually. ]
+
+“Lame. Okay, so my current Name was possessed by some other monster in the past, but they were something like Gertrude the Gastronome, or Gary the Gastronome, or something like that?”
+
+[ Precisely. ]
+
+“And they evolved again later to get new Names, and I can claim those Names too.”
+
+[ Also correct. ]
+
+“Well, I’m not doing that. I’m not taking another hand-me-down Name. And how can I claim the Name of something I’ve killed? I haven’t killed any other Infiltrators, so would I become a different type of Named monster if I claim those Names?”
+
+[ Yes. ]
+
+“That’s dumb. I guess I’m not doing that either. That’s fine though. I didn’t want any of those Names anyway. They’re dumb.”
+
+[ You should at least take a look at your options before writing them off. ]
+
+“Why bother? I already know what those ones are, and I don’t want some lame used Name.”
+
+[ You may still find them interesting. Do you see the painting at the end of the hallway? All your options are represented like this. Don’t you want to see what you would look like with those Evolutions? ]
+
+“...Okay, that actually sounds pretty interesting.”
+
+I take a step toward the first hallway on the left, then pause.
+
+“Wait a second…” I say. “Which Annoying Red Box are you? How do I know you’re not Arboliculous? What if you’re trying to trick me, and going down this hallway will lock me into claiming a defeated Name without me knowing it?”
+
+[ I am not the one you called “Arboliculous” nor am I permitted to lie. Everything I’ve told you has been the truth. ]
+
+“That’s exactly what Arboliculous would say if he didn’t want me to know it was him.”
+
+[ True, but in that case, how do you know that anything I said was the truth? What if the path on the right is actually the one for Names you have defeated, and I’m trying to trick you into avoiding the other paths so that you’ll go there thinking you’re defying me? ]
+
+“...Okay, you raise a good point. Fine, I’ll give you one chance. If you’re tricking me, though, I’m gonna… I don’t know what I’m gonna do, but it’ll leave you with a massive headache!”
+
+[ I will take that into consideration :) ]
+
+I narrow my eyes at the Annoying Red Box, then continue my journey to the first hallway on the left. I pause right at the border between the two hallways. I place a single paw inside, and nothing happens. I get halfway in, and still nothing happens. I step back out to make sure I can, then go all the way in, then all the way back out. With a sigh of relief, I finally head all the way in and start looking at what awaits inside.
+
+As promised, for each option, there is a painting depicting what I would look like if I got that Name, and a plaque below it showing the stat details and Skills. I don’t really focus on that, since I’m not gonna pick any of these Names, but I do enjoy the paintings.
+
+Yona, Terror of the Forest is a little bit boring, but also hilarious. It’s like if someone took a picture of Menyar, then photoshopped the boar out and replaced it with me. It’s just a giant cat, towering over the trees. There’s nothing else special about it.
+
+The next one is quite interesting. It’s the one based on Joshua, but rather than Temperant Idol, the System went and swapped Temperant for Gluttonous, making it Yona, the Gluttonous Idol. I’m not actually a big fan of this one, because while it keeps me an ordinary cat instead of a weird human-cat-seal hybrid, it also makes me the size of a horse and morbidly obese. Yona, the Gluttonous Idol is resting in a temple as a line of similarly obese supplicants provide her with offerings of more food. That lifestyle doesn’t actually sound bad, but I don’t really want a cult, and I definitely don’t want to be so fat that my stomach reaches the ground before my legs do.
+
+Yona, Ruler of the Shore is a muscular, anthropomorphic cat with sleek, seal-like fur and long, webbed feet. She’s got the Gluttonous Greatsword in her hand, but instead of black, the metal is now gold, though the veins still glow red. She’s positioned on the left side of the canvas, standing on a beach and facing to the right, holding her sword out in front of her. A horde of aquatic cat monsters rushes forward in front of her toward some unknown target.
+
+Yona, the Bubble Witch looks similar, but less muscular and more feminine, and while she still has a greatsword made of black metal, the hilt is now made of coral, and the veins glow blue instead of red. In the painting, she’s sleeping in a cave, hugging her sword with a smile on her face.
+
+From that painting, I turn to the fifth and frown. Why is there a fifth painting? I have only killed four Named monsters. This one doesn’t even make sense. It’s not even a monster. It’s just me, but human, with a scar running from her cheek to her chin. She’s wearing a suit and sitting in an office on a leather chair behind a wooden desk, staring straight forward with an oddly chilling expression. Her gaze feels uncomfortably familiar. I glance down at the plaque below to see what the Name is, and then grimace.
+
+Yona, Winter
+
+“What the hell is this?!” I demand.
+
+[ I was hoping to ask you the same thing. Interestingly enough, I cannot see the information of that particular option. It’s completely censored. ]
+
+“Liar! What is this? Why is this here?!”
+
+[ I already told you that I cannot lie. I don’t know what it is, and your reaction has me very curious. ]
+
+“Tell me!”
+
+[ I can’t ]
+
+I glare at the Annoying Red Box, then back at the painting, then I scoff and turn around and walk back out of the hallway. I have no idea how or why that’s there, but the fact it’s here raises an extremely important question. Can humans have Names? I haven’t heard much about it, but I really don’t know much about the world. I don’t want to ask this guy, so I’ll ask Abby later. Either way, it looks like the System is really trying to get on my nerves. The damn System developers, at it again.
+
+“And you…”
+
+[ Me? ]
+
+“You tricked me.”
+
+[ I did not. ]
+
+“You did. You appealed to my curiosity, but you had ulterior motives, and now I’m angry.”
+
+[ I don’t see how that’s my fault. ]
+
+“You could have at least mentally prepared me! But you didn’t, and now I’m going to give you a headache. Somehow.”
+
+[ I promise– ]
+
+“I don’t care. You’d better find some ibuprofen quick while I’m still thinking about what I’m gonna do!”
+
+Ah, that feels better. I’m not going to let those stupid System developers ruin my mood. This is a happy day! I’m evolving! I’m going to get stronger and I’ll be able to eat more tasty foods, and I’m gonna bully my minions into scratching my newly-evolved ears! This is not a time for that.
+
+I walk away from the hall without looking back, and then enter the second hallway on the left where the Historic Names are. These ones are much better than the other paintings. There are a dozen of them, and nine of them are Infiltrators, two are Hermits, and one is a Leader. And none of them are morbidly obese!
+
+I’m still not gonna take any of them, because I don’t want a stupid hand-me-down name, but they’re fun to look at, at least, and some of them are kinda tempting. Or if not tempting, at least pleasant to look at. For example, there’s Yona, the Gastronomic Thief, which shows me hiding in the rafters of a nice restaurant, enjoying a delicious steak while a waiter unveils an empty platter, to the confusion of both himself and the couple at the table he’s serving. The Stat bonuses it comes with are nothing special compared to the rest—though they’re still good—but the Traits are super cool. One of them is called Traceless, which I think might be the one that Annie has that makes her never leave any tracks or scents behind.
+
+There’s also one called Yona, Lauren’s Gastronomic Familiar, which is very interesting. I assume that “Lauren” is another example of a given name not having much meaning, but it has some interesting implications, especially when combined with the painting. It shows Lauren and I in a kitchen. I’m standing on the counter while Lauren holds a soup ladle up for me to taste its contents. It’s very cozy. It makes me wonder what kind of life the Named monster who had this Name before lived. It must have been a good one. But, I don’t really want to tie myself to anyone, even if it is my number two minion, so even if it wasn’t a hand-me-down name, I wouldn’t take it.
+
+As I enjoy the rest of the paintings, I idly wonder if the System developers have a bunch of artists locked up to make these. There are a lot of them, and all are super high quality, and all look like they value artistry over realism. At least, that’s my impression, based on the occasional disparity between the paintings and descriptions. The compositions are all very tasteful, and they all evoke very specific emotions, ranging from cozy to terror-inducing, and with all the fun little details, I can’t imagine that they’re just automatically generated for each new Named monster.
+
+That would track for these lazy System developers, locking up poor artists to do this kind of thing for them. Though it makes me wonder why they don’t just do the same with some writers so they can have better Skill names. I guess they’re too lazy for consistency too.
+
+Once I leave that hallway, I stop for a second, glancing back at the nearest picture frame.
+
+Hmmmm…
+
+“Hey, Annoying Red Box.”
+
+[ Yes, Your Highness? ]
+
+“Flattery won’t help. I’m still mad at you. I just wanted to let you know that I had an idea on how to give you a headache.”
+
+[ What is it? ]
+
+“You’ll see. As soon as I finish looking through the last options.”

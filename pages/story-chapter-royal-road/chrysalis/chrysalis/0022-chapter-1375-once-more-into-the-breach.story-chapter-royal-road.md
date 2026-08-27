@@ -1,0 +1,111 @@
+---
+id: f441368d-4b3d-599c-aac0-79b387e311a1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1375 - Once More Into The Breach"
+slug: 0022-chapter-1375-once-more-into-the-breach
+partOf: chrysalis
+position: 22
+ownLength: 1182
+unit: words
+ownProgress: 1182
+publishedAt: 2024-07-23
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1728611/chapter-1375-once-more-into-the-breach"
+royalRoadId: "1728611"
+markedReadAt: "2026-06-29T19:44:21.482Z"
+---
+
+It’s amazing how quickly a week can go by when you’re trying to make sure you haven’t jinxed your entire family. In a blink, we are back at the entrance to the fifth, waiting to descend back into the stratum. This time, we’ve scaled up the size of our exploratory team to double what it was before. A thousand wuffers, ten thousand ants, me and the crew, along with our Legion onlookers.
+
+[Are you really sure you want to go down there?] I ask Morrelia. [It’s gross. And not in a casual way. The fifth is almost professionally disgusting.]
+
+She glares up at me, her eyes dark and stormy, like they always are.
+
+[I’ve been there before. Are you worried I won’t be able to handle it?]
+
+[Handle it? Handle what? You’ll be all nice and safe, tucked away in a pocket of purified mana. I’m the one who has to run around in the acid and sludge.]
+
+She looks a little surprised to hear that.
+
+[You can survive in there?]
+
+[Of course! Well… for a while, anyway.]
+
+[I’m impressed. I know firsthand just how hostile to life the fifth is.]
+
+[Bah, no you don’t. There’s no chance a human could get out there directly. At best, you were in a protective suit thicker than my carapace.]
+
+Morrelia hesitates.
+
+[Actually… there is a human who survived direct exposure….]
+
+[Let me guess. Your dad?]
+
+That guy is terrifying. I never want to see him, or his axe, again for the rest of my days.
+
+[Of course not. It was my mother.]
+
+Of course it was.
+
+[What is wrong with your family?!]
+
+[Don’t get mad at me! They’re the weird ones, not me!]
+
+[Your parents aren’t here, a fact for which I am truly thankful, so I can only yell at you about it! Do me a favour and convince them to retire or something!]
+
+[Hah!] she snorts. [Those two? Resigning from the Legion? It’ll never happen.]
+
+Gah. Well, I’ll cross that bridge when I come to it.
+
+[Alright then. Let’s shift the topic to something happier. See you in the acidic, toxic, poison-filled fifth stratum. I’ll be going down first.]
+
+[See you down there,] she nods.
+
+Our plan to manage the descent is almost the same as before. The main adjustments revolve around managing double the wuffers, since a thousand wuffers gathered together in one blob would basically block off the tunnel completely. The ones exposed to the mana of the fifth would do their job and purify it, only to expel the cleansed mana straight into the faces of the second layer of wuffers.
+
+Now, they could just let it flow through them, but then there’s no benefit to having more of the jelly-monsters for this part of the operation. So instead of one thick layer, we have staggered blobs of cheerfully puffing pets extending downward from the main blob to form the ‘plug’ that seals off the tunnel as before.
+
+With more surface area exposed to the fifth, the chuffing wuffers can do their job all the more quickly, rapidly filling the tunnel above them with cleansed mana and allowing the ants to pile up behind them and begin their own descent.
+
+When I reach the bottom, I signal the core shapers above to pull back their extended pets, ensuring no wuffer is exposed to danger prematurely while I scope out the landing zone.
+
+Things appear to be much the same. River of mucous. Thick acid. Clouds of poison. Colourful, toxic mould. And let’s not forget, plenty of truly awful-looking monsters, ready and waiting to vomit up an ocean of bile upon any monster who dares so much as whip out a mop down here.
+
+Even more threatening, the potential for the Krath to be out there, watching and waiting, ready to jump us the moment we get comfortable.
+
+Not for the first time, I think back to that slippery slug that got away from me towards the end of the last mission. That thing was fast, and far too clever to be just another monster. I’ll be interested to see if something like that pops up again.
+
+For now, I can’t see, or sense, anything threatening—more threatening than the usual, I suppose—so I signal the go ahead and head down into the fifth once more. Soon after, a huge blob of cleansed mana follows, packed with ants and wuffers. The local monsters immediately look up, like bloodhounds detecting some powerfully stinky socks, and we are off to the races.
+
+[Tiny, try and make sure our Legion guests stay safe, alright?] I ask the big ape.
+
+He pulls a face at me.
+
+[Hey. Morrelia is cool and the other two are with her, alright? No need for this attitude.]
+
+He flexes his left pec.
+
+[I know you’re smart enough to talk! There’s no need to communicate via flexing anymore!]
+
+He turns his back on me.
+
+[No! Hey! I don’t care what your lats have to say, alright? Just keep them safe! Sheesh!]
+
+I don’t know exactly when he decided he didn’t like the Legion, but it’s really stuck with him. From the peripheral of my extremely wide vision, I can see him signalling with his deltoids, but I’m not paying him any attention. This is the riskiest moment of the operation, and if we fail to establish our foothold, then everything is going to heck really, really fast.
+
+Weird slime and crustacean-looking things run at me, and I don’t mess around, unleashing void chomp combos until their shells crack and the notification messages pop up in my awareness. It’s best for me to expend my energy reserves now and let them recharge when our position is better fortified, so I continue to lay it on thick.
+
+A massive plume of dragon’s breath launches from between my mandibles as I set everything in front of me ablaze. Smaller monsters are straight up roasted, but the bigger ones, and the mucus-filled environment itself, remain stubbornly resistant to fire.
+
+I mean, I could launch a gravity bomb, but that spell doesn’t play well with my siblings, so it’s off the table right now.
+
+So instead, I do it old school. The omni-elemental construct spins and whirls as I push it to its limits, whipping out multiple elements in a constant stream. Spears of ice. Jets of fire. Globs of Lava. Hissing vents of steam. Shard-filled, cutting winds. I unleash all of it, along with my trusty mandibles, for a full hour, until things finally settle down enough for me to retreat into the safe-zone and dedicate myself to eradicating all the toxic mana that slipped past my guard.
+
+There’s a lot.
+
+Using that much magic required many mind constructs, which left my defences too low to fend off the native mana properly. A worthy tradeoff, in the end.
+
+Within the centre of the formation, Morrelia is standing along with her two allies, close to the wuffers, watching everything happen with wide eyes.
+
+[Welcome back to the fifth,] I say expansively, waving an antenna at the surroundings. [Did you miss it?]
+
+[No. No, I didn’t.]

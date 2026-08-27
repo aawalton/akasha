@@ -1,0 +1,189 @@
+---
+id: 6948ad97-e817-512e-95a9-3c5dcbe02e96
+page-type-slug: story-chapter-royal-road
+title: "15: Village Hero"
+slug: 0015-15-village-hero
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 15
+ownLength: 2259
+unit: words
+publishedAt: 2025-08-22
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2538824/15-village-hero"
+royalRoadId: "2538824"
+---
+
+Zarruk was a mess, but his head was still in okay condition, and that’s what mattered. Chloe popped it open, warm squishy goodness spilling out, and happily scooped up the tasty bits.
+
+The first bite sent a shiver racing through her, sharp and electric. Salty at first, then sweet, with a faint edge of spice and just a hint of bitterness curling at the end. This brain wasn’t simple, it had layers, and Chloe savored every one of them.
+
+[Brain Consumed: Zarruk the Usurper (Hobgoblin Warlock, Level 13)]
+
+[Experience Awarded]
+
+[You have leveled up! 5 >> 6]
+
+[Strength +2, Speed +2, Vitality +5, Magic +7, Resistance +5]
+
+[Skill Upgraded: Dark Magic Affinity II >> Dark Magic Affinity III]
+
+[Skill Upgraded: Mana Sense II >> Mana Sense III]
+
+[Skill Upgraded: Mana Control II >> Mana Control III]
+
+[New Skill Acquired: Bind Human I]
+
+[New Skill Acquired: Dark Bolt I]
+
+Chloe wiped a smear of gore from her chin with the back of her hand. The vision hit fast.
+
+She was Zarruk now, or stuck in his sorry excuse for a life. And wow, what a disaster. First thing she noticed? Nobody liked him.
+
+Every goblin in sight sneered, shoved, or called him names Chloe didn’t quite understand, but she was sure they were nasty. He puffed his chest like some big shot, waving his staff around, but no one cared.
+
+Then came the real kicker. Zarruk crept toward some shiny thing a big goblin was holding, got caught, and, wham. One punch. Then another. And another. Chloe winced with every hit, like she felt it herself. The poor guy got squashed a lot. She almost felt bad for him. Almost.
+
+But as usual, the vision soon faded, and Chloe was back to reality. Glowing text hovered above her, and her eyes lit up like she’d just found a whole hoard of shinies.
+
+Chloe’s eyes sparkled as she scanned the glowing system text hanging in the air. She got two new spells this time! Finally! Last time I got a spell was back in the dungeon.
+
+Her eyes narrowed as they fixed on the first spell: Bind Human. Unfortunately, this spell didn't seem all that useful. Zarruk had tried that trick earlier, and it hadn’t so much as slowed her down. Still, it was hers now. Maybe one day she’d find a human to test it on, then she’d know for sure.
+
+However, Chloe had a pretty good feeling about Dark Bolt. The name alone was super cool, which was reason enough to like the spell.
+
+The glowing text faded, leaving silence and the broken staff beside Zarruk’s limp hand. Chloe crouched, plucked it from the ground, and turned it over. “Oooh. Almost forgot about you.”
+
+The last time she’d held a staff, things hadn’t ended well. This time would be different. It had to be.
+
+Grinning wide, Chloe struck a bold pose and raised the staff high. “Magic—”
+
+The staff blew apart in a violent, earsplitting pop that rocked the chamber. The blast hit her square in the chest and hurled her backward. She slammed into the stone floor and skidded across it in a tangle of limbs, her cloak trailing smoke.
+
+For a long while, she stared at the cracked ceiling. Twice now, stupid magic sticks had blown up in her face. Chloe swore to herself she would never trust staves ever again.
+
+With a low growl, Chloe dragged herself upright, brushing soot from her torn cloak. No more sticks. She didn’t need them anyway. She’d cast her own magic, barehanded if she had to.
+
+Bind Human would have to wait since there was no one around to test it on. But Dark Bolt? That one was ready to fly.
+
+Chloe raised one hand, letting the mana swirl around her fingers. A crackle of black light flickered to life in her palm. With a flourish, she pointed at a nearby boulder and fired.
+
+The bolt zipped through the air with a thin screech and struck the stone dead-center. The hit left a shallow scorch mark and a puff of smoke. Hmm. That was... fine. But honestly? Kinda wimpy.
+
+Just to compare, Chloe snapped her fingers and fired a Rock Shot. The conjured stone ripped through the air with a sharp crack, slamming into the same spot as before. This time, the entire boulder split apart with a deep, satisfying crunch. As expected, Rock Shot packed far more punch than Dark Bolt, for now at least.
+
+Chloe was just about ready to write off Dark Bolt as a flashy, but totally useless spell. That was, until an idea slammed into her head. Hold on. What if… I just smash Rock Shot and Dark Bolt together?
+
+Her hands moved on their own, one summoned Rock Shot, while the other started to cast Dark Bolt. She brought them together slowly. The stone floated between her palms, wrapped in black energy. Sparks snapped at her fingers, but she didn’t flinch.
+
+So far, so good. This was absolutely, one hundred percent going to work and definitely not blow up in her face.
+
+Then the rock started to hum. Chloe’s grin slipped. The hum deepened into a pulse, and then the whole thing exploded in a blinding flash, dead center between her eyes.
+
+The blast flung Chloe off her feet. She slammed into the ground with a loud thud, one boot dangling halfway off.
+
+Chloe blinked through the haze, staring up at the cracked cavern ceiling. She wondered why her idea of smashing two spells together didn't work. Maybe the timing was a little off. Or maybe the spells were just being rude.
+
+Undeterred, Chloe rolled to her knees and hopped back up. “Alright, time to try again!”
+
+This time, she took it slow. Rock Shot first. Then came Dark Bolt. She didn’t force them together, not right away. Instead, she held them apart, letting the magic breathe, crackling in her hands.
+
+The spells crackled as they drifted closer. The stone shook in her hand. Dark energy snapped once, then wrapped around it. Soon, they fused.
+
+A jagged, twitching shard floated between her palms, cloaked in shadow and sparks. It hissed, ready to fly. Chloe’s grin stretched wide. Ooooh. Now that’s more like it.
+
+She flicked her wrist and launched it. The empowered stone tore through the air and slammed into a rock wall with an explosive crack. Dust and shadow blasted out in a wave, shards flying everywhere. When the smoke cleared, there was a crater twice as deep as anything she’d ever made before. Success!
+
+[Spell Combination Successful]
+
+[Rock Shot X and Dark Bolt I have combined into: Cursed Rock Shot I]
+
+[New Feature Unlocked: Spell Combination]
+
+[Spell Combination becomes available once at least one spell reaches Rank X. To create a Combined Spell, you must also have a compatible secondary spell at Rank I or higher. The new spell will always begin at Rank I, regardless of the secondary spell’s level, though higher-rank secondary spells may yield stronger results. The original spells used in the process are consumed unless you possess a trait or item, such as a spellbook, that allows for spell retention.]
+
+The description for spell combination was pretty long, so Chloe only skimmed it. All she cared about was that she could now mash two spells together and make something brand new, and probably really cool.
+
+Her eyes skimmed the glowing text again, lingering on the line about compatibility. Unfortunately, it offered nothing useful, no neat little guide saying, this spell likes that one, or something of that sort.
+
+But then, Chloe thought about her earlier skill descriptions, specifically the one for Lich’s Mastery. She remembered something about affinities… undead magic being tied to Earth and Dark types. Oooh. Maybe that’s it. Rock Shot’s earth, Dark Bolt’s… well, dark. Both undead adjacent, which is maybe why they like each other.
+
+She nodded to herself, already making mental notes. Spell combos are definitely a thing I need to mess with more. If I can start mashing spells together, I’m gonna be unstoppable. Or explode. But either way, fun!
+
+With a satisfied hum, Chloe tucked the thought away for later. There was other stuff for her to do.
+
+Chloe stretched, cracked her neck with a loud pop, and took in the mess. The whole area was a complete mess.
+
+Debris and corpses were everywhere. Zarruk's corpse was slumped in a pool of drying blood, while Morgrin’s massive body was crumpled not too far away. Around them, the hobgoblin guards were scattered in piles of dented armor and guts.
+
+Zarruk’s brain was already gone. But her stomach wasn’t done.
+
+Her gaze slid to Morglin’s corpse. Time to see what cave beast brain tasted like.
+
+Chloe crouched and split the skull open with eager force. The brain inside was thick, heavy, and smelled… off. One bite was all it took for her grin to falter. She gagged mid-chew, spat it out, and wiped her mouth with a grimace that twisted her whole face. That was a flavor she never wanted to meet again.
+
+Shaking it off, she sauntered toward the goblin guards instead. One by one, she pried open helmets, split skulls, and scooped out the good stuff. Compared to Morglin, these were an improvement, though that really wasn’t saying much.
+
+By the time Chloe finished, she regretted stuffing herself with so many goblin brains. They weren’t even that good, and these were the stronger ones. The weak ones? Absolutely awful.
+
+So, she made herself a promise; no more goblin brains unless they came packed with magic. Her standards had officially leveled up. She wasn’t wasting time chewing through sad-tasting brains ever again.
+
+[Brain Consumed: Hobgoblin Guard (Level 10)]
+
+[...]
+
+[Brain Consumed: Hobgoblin Guard (Level 11)]
+
+[Experience Awarded]
+
+[Skill Upgraded: Swordsmanship VII >> Swordsmanship IX]
+
+***
+
+Chloe strolled out of the cave with a spring in her step and a bit of brain still stuck in her teeth. The air outside was clearer, brighter, less murdery. She squinted against the light and made her way down the path toward the village, humming to herself as she kicked a pebble off the edge.
+
+But the moment she reached the outskirts, her humming stopped. Baron Willy himself was standing outside and a whole crowd of villagers had gathered around him, all wide-eyed and whispery. What's going on? Why are all the humans gathering out here?
+
+She strolled right up to the Baron and planted her hands on her hips. “Hey. Did I miss something?”
+
+“Ah, Miss Chloe. I take it the goblins in the lair have been dealt with?”
+
+“Yup. All dead. Even the leader. Some warlock or whatever. Kinda tough, but I made it through.”
+
+The Baron just smiled a little wider, but said nothing more. Chloe really wasn't sure what was going on exactly.
+
+Chloe blinked as the crowd cheered. There were smiles, clapping, and way too many eyeballs pointed directly at her. The noise, the grins, the little ones whispering like she was some kinda mystery creature. It was all kind of… weird. Nice, but weird. Wait… are they happy? Like, actually happy? For me?
+
+Before she could wrap her head around it, someone pushed through the crowd, a familiar, scruffy-haired boy with wide eyes and an even wider smile. “It’s you! You really are a hero!”
+
+“Pfft. It’s no big deal. I wasn’t gonna lose or anything. Goblins? Easy.”
+
+“Still! You’re amazing! I told them all about you!”
+
+Wow, this kid is really dedicated. Is this what being a “hero” feels like? 'Cause I like it.
+
+The crowd parted again as an older man stepped forward, wearing rough clothes and a warm but worn-out smile. His posture was a little stooped, and he walked like his bones didn’t quite trust the ground anymore.
+
+“Well now, you must be the one the Baron was talkin’ about.”
+
+“Uhhh… yeah. That’s me, and who are you?"
+
+“Name’s Alric. I’m the village elder 'round these parts. On behalf o’ everyone here, I wanna thank ya. What you did for us… well, words can't describe how much you've helped everyone here."
+
+Chloe scratched her cheek, a little unsure what to do with all the attention. Damn, they’re really laying it on thick. I mean… I did save them. But this feels like a lot. Still… kinda nice.
+
+Alric kept going. “We’d be honored to have you and the Baron stay the night. We’re puttin’ together a feast come tomorrow. It’ll be modest, but it’s the least we can do.”
+
+“Wait. What’s a feast?”
+
+“Pardon?”
+
+Before Alric could get more confused, Baron William stepped in smoothly. “What she meant, dear Elder, was: what kind of feast do you intend to hold?”
+
+Alric chuckled. “Ah, right, right. Well, nothin’ fancy. We’ll gather what food we got left, and a few o’ the younger folk’ll go huntin’ in the morning. Might be some stews, maybe roasted game too if we’re lucky."
+
+Chloe opened her mouth to say no. Honestly, it didn’t sound all that exciting. Because from the sound of it, there would be no brains involved in this entire feast. She was already about to politely decline when her eyes drifted downward.
+
+The boy she first saved was still standing beside her, looking up at her expectantly. Even Chloe could tell that he didn't want her to go immediately.
+
+Her words stuck in her throat. Why’s he looking at me like that? That’s not fair. Now I feel all... squishy inside.
+
+Despite feeling a bit awkward, Chloe gave the elder her answer. “Uh… sure, I guess I’ll stay."

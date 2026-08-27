@@ -1,0 +1,131 @@
+---
+id: 7b47b45e-0f10-5867-967f-ec51d500a2ea
+page-type-slug: story-chapter-royal-road
+title: "124: Midnight"
+slug: 0124-124-midnight
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 124
+ownLength: 1808
+unit: words
+publishedAt: 2026-03-11
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3140403/124-midnight"
+royalRoadId: "3140403"
+---
+
+Chloe had never figured out who her dad was. Mom had always just said he left, and that was it. And after a while, she stopped asking, because Mom’s smile always got a little tighter when that topic came up.
+
+Besides, Chloe figured that her dad had to be some kind of big jerk anyway. Who would leave someone like Mom behind anyway?
+
+So, for all of Chloe's life, it had always been her and Mom. Ever since Chloe was little, Mom wasn’t just her mom. She was Chloe’s best friend, her favorite person, and the one constant in a world that sometimes felt was moving too fast. Even when Mom was crazy busy thanks to all of her work, she still made time.
+
+Mom still cooked breakfast with her when she could. She still kissed her forehead before leaving for work too, and she still listened to Chloe ramble about pretty much everything and anything at all. Chloe had always thought her mom was a real life superhero, and no matter what happened, she’d always be fine. Seeing her lying there on the floor was just heartbreaking.
+
+Chloe’s hands shook as she leaned over her mom, staring at her face. Mom's eyes were closed, her expression too still, too peaceful, and it made Chloe’s stomach twist in the worst way. “Mom? This isn’t funny… You’re not allowed to do this.”
+
+She fumbled for her mom’s wrist and pressed two fingers to the skin, trying to find a pulse the way she’d seen in movies, and waited. Nothing happened.
+
+Chloe shifted her grip, pressed harder, waited again, and still felt nothing. Her breath started coming too fast, like her body was panicking even before her brain could catch up. The hallway blurred at the edges, and the dead silence around them suddenly felt too loud. “No, no, no, no, no…”
+
+She tried to check the other wrist like maybe she’d picked the wrong one. Like maybe the first one was just… broken. Like there was some dumb, easy explanation she could grab onto. But there was still nothing despite her best efforts.
+
+Chloe's thoughts really started to spiral for the worse, she couldn’t lose Mom. Not here. Not after everything that they've been through. But… she couldn't help but feel despair at that moment.
+
+Then, Maeve knelt beside her “Miss Chloe, try checking her pulse here.”
+
+She gently guided Chloe’s hand upward, two fingers pressing to the side of Ishgria’s neck instead, Chloe blinked, swallowing hard. “Oh, okay."
+
+Her fingers pressed there again, and she held them still, barely daring to move. For a second, she felt nothing, until Chloe she felt it. A small, steady beat under her fingertips.
+
+Chloe sucked in a shaky breath that sounded like a sob and relief hit her so hard her arms almost gave out. “Oh my gosh, she’s… she’s alive. Mom’s alive!"
+
+Chloe didn’t even realize she was shaking until Maeve’s hand touched her shoulder again. Chloe kept her fingers pressed to her mom’s neck, terrified the pulse would vanish the second she stopped checking.
+
+Maeve leaned in closer, calm even with bodies scattered all around them like this was just another horrible problem she had to solve. She placed two fingers against Mom's temple, and Chloe saw a soft shimmer of magic flicker around Maeve’s hand.
+
+“Come back to us."
+
+As she watched this, Chloe just stared at her mom’s face and waited, watching for any tiny sign, any twitch, any proof that Ishgria was still here. She hated how still Mom looked.
+
+Chloe’s heart kept pounding harder and harder, and she honestly felt like she might explode if nothing happened. Then, Mom started to open her eyes.
+
+Chloe jolted forward so fast she nearly knocked herself over. Her hands hovered over her mom’s shoulders like she couldn’t decide whether to shake her or hug her or cry right there on the floor. “Mom? It’s me. It’s Chloe. Please wake up.”
+
+Mom's lips parted, and she let out a faint breath. Her eyes opened just a sliver, unfocused at first, then slowly, painfully, they found Chloe’s face.
+
+“Chloe…?"
+
+Chloe’s throat closed up instantly. A broken sound escaped her, and she leaned down without thinking, wrapping her arms around her mom like she was trying to glue her back into the world. She squeezed tight, too tight, forgetting everything except the fact that she was awake, she was real, and she wasn’t gone.
+
+“I thought you were dead,” Chloe choked out, voice shaking. “I thought I— I couldn’t feel your pulse and I messed up and—”
+
+When Ishgria’s arms wrapped around her, Chloe hugged back even tighter. Her hands clutched at Mom's clothes, fingers curling and trembling, and Chloe hated how badly she needed this right now. She hated that her chest hurt, and her eyes burned, and her throat felt like it was closing up.
+
+“It’s alright,” Mom whispered. “I’m here.”
+
+Chloe made a shaky sound that was halfway between a laugh and a sob and pressed her face into her mom’s clothes again. She didn’t care about the dust, or the blood, or the cold floor under her knees. None of it mattered. She just kept holding on, clinging on as if she had just seen Mom for the first time again after twenty years.
+
+Maeve stayed close, kneeling on Ishgria’s other side. “My lady, I'm glad you're still well."
+
+Mom turned her head toward Maeve. Even like this, even pale and weak and sitting on the floor surrounded by corpses, she still looked like herself. The best mom there ever was. “You did well, both of you.”
+
+Chloe pulled back just enough to look at her mom properly. Her eyes were watery, her nose felt stuffy, and she was pretty sure she looked like an ugly crying mess, but she didn’t care. “Mom, what happened?”
+
+Ishgria’s lips twitched, like she wanted to smile but didn’t quite have the energy. “It’s… a long story, but I’m glad the two of you came for me.”
+
+Chloe sniffed hard and tried to laugh through it. “Yeah, duh,” she muttered, wiping her face with her sleeve like she was angry at her own tears. “You can’t just get jumped by masked weirdos and expect me to not show up.”
+
+Ishgria’s eyes softened as she chuckled. “Even so, you really shouldn’t be here, Chloe.”
+
+“I had to be here, since y'know, I was literally just here to pick you up anyway together with Maeve. We went through a lot, because first there were these bad guys, and then there were more bad guys, and then…"
+
+Ishgria’s laugh came a little stronger this time, and for one tiny moment, Chloe felt like the world was going to be okay again. Like this would be over and they would go home and Morikhan would tackle her and everything would go back to normal. Then Mom's smile faded.
+
+The hallway lights flickered again, but this time it wasn’t the weak, tired flicker from earlier. It was worse. The light stuttered and stretched, and the edges of Chloe’s vision blurred like someone had smeared the world with their thumb. The bodies around them didn’t look solid anymore, fading in and out like bad drawings.
+
+Chloe blinked hard. “Uh… Mom?”
+
+Mom lifted her gaze, meeting Chloe’s eyes with a calm that didn’t fit the nightmare around them. It was too gentle, and way too close to that look dying mentors would give to their apprentices.
+
+She raised a hand slowly and brushed her fingers along Chloe’s cheek, wiping away a tear. Her touch was warm for a second, and Chloe leaned into it without thinking.
+
+“Everything will be alright,” Mom said.
+
+Chloe opened her mouth to argue because she didn’t believe that for even one second. Then Mom started to fade.
+
+Her outline turned thin and pale, like mist under sunlight, and the colors of her clothes dulled until they looked washed out. Even her hand, still touching Chloe’s cheek, began to feel colder, lighter, like it wasn’t fully there anymore.
+
+Chloe’s eyes widened in horror. “No, no, no, what are you doing?”
+
+Despite fading into nothingness, Mom didn’t look scared at all. That made it worse.
+
+Maeve’s form started to blur too, and Chloe’s panic spiked so hard she almost couldn’t breathe. It wasn’t a normal blur like when you rubbed your eyes too hard. Maeve’s outline softened at the edges, like someone had taken an eraser to her and started rubbing away all the sharp parts.
+
+Chloe whipped her head toward her. “Hey, why are you fading? Stop that! You can’t just… you can’t just vanish right now!”
+
+Maeve stayed calm, but her eyes held something complicated. Something sad. It was the kind of look someone gave when they already knew what was going to happen, and they hated it, but they couldn’t stop it either. And then the hallway started to vanish along with her.
+
+The walls lost their sharp lines first, turning soft and smudged, like wet paint running down glass. The emergency lights along the floor stretched into long glowing streaks, becoming thin and blurry.
+
+The bodies on the floor faded next. They just started losing weight in the world, their shapes becoming flat and pale. Their masks turned transparent. Their guns became ghostly outlines. The dark stains on the carpet washed out until the floor looked clean again, like nothing bad had ever happened here at all.
+
+Chloe stumbled back, arms out, reaching like she could physically hold the moment in place. Her fingers swiped through empty air where her mom had been, and her chest tightened.
+
+Mom was fading fast, lighter and lighter, her face softening into something hazy and unreal until she looked more like a memory than a person.
+
+Chloe’s throat burned. “Mom…?"
+
+"She's just a memory now, Chloe. And so am I.'
+
+Chloe turned back just in time to see that Maeve was still there, but only barely. Her outline had blurred even more, like something invisible was tugging her away inch by inch. The edges of her wings had gone faint, the feathers losing their color quickly.
+
+She lunged forward and grabbed Maeve’s sleeve. “Maeve, what’s happening? Why are you fading too? What is this?”
+
+Maeve turned her head toward Chloe, and even like this, even half-erased by whatever was swallowing the world, she still managed to smile. “Miss Chloe, listen carefully. You didn’t do all of this for nothing. You gave me hope, and I want to make sure you have hope as well.”
+
+"What do you mean by that?"
+
+"Please try to remember, Miss Chloe. Remember who you really are."
+
+"I'm… just Chloe though. What are you trying to say?"
+
+"No, I mean that you should try to remember why you really came here. You haven't been an ordinary angel for a long time."

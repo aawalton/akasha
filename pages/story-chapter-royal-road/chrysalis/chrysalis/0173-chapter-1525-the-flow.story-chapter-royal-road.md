@@ -1,0 +1,77 @@
+---
+id: 2e57f6c6-b7e1-5367-b1e3-4ed56e9c26e4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1525 - The Flow"
+slug: 0173-chapter-1525-the-flow
+partOf: chrysalis
+position: 173
+ownLength: 1050
+unit: words
+ownProgress: 1050
+publishedAt: 2025-03-10
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2116594/chapter-1525-the-flow"
+royalRoadId: "2116594"
+markedReadAt: "2026-06-29T19:49:22.605Z"
+---
+
+Advant, loyal Soldier of the Colony and member of the Council, stood alongside her sibling, the general Sloan, and watched.
+
+“It’s doesn’t quite hit home until you see it for yourself,” she noted.
+
+“I’ve been here for three days, and I still can’t quite believe it,” Sloan replied. “Getting the reports is overwhelming enough, but this… this is beyond my imagination.”
+
+The two stood, clinging to a wall as they looked down over the connection between the fourth stratum and the fifth. Deep below the mountain that the Colony had turned into their nest, the transformation that had taken place here was nothing short of baffling.
+
+Where once there had been monster-infested tunnels turned into staging grounds for the invasion, now there lay a hub of industry without rival anywhere else in the Colony’s lands. A new portal network had been established, the extravagant cost deemed justified in order to save the time it took to shift materials from the mountain above to below, and from those portals, an unending stream of all that the ants created poured out.
+
+Reinforcements, healers, medicines, new trainees for the militia, metals, wood, precious stone, ores, cores, Biomass, everything.
+
+It had proven to take too much time to carry objects through the portal, so the carvers had laid down tracks and devised carts that could bridge the gap caused by the width of the portal itself, just so they could move things through that little bit faster.
+
+The two Council members watched as the fully laden carts streamed through the magic gateways, being sorted and shifted to different paths that would take them to specific warehouses to be unloaded. Already, the surrounding tunnels were stuffed with storage, the defensive line pushed further and further out to accommodate the necessary space. Peeling the Dungeon veins from this vast chamber alone had been a mighty work; not too long ago, it would have been beyond the Colony’s skill entirely.
+
+And all of this, everything that came through, everything that was processed, all the materials, all the ants, all the humans and golgari and various other races, all vanished down the shaft into the fifth stratum.
+
+“Solant has somehow managed to leverage the production of almost the entire Colony,” Sloan noted. “We are sending down ten thousand ants a day, and still she wants more.”
+
+“Are our casualties that high?” Advant fretted. “We shouldn’t be throwing away the lives of our siblings.”
+
+“You’ve seen the reports, the casualties are far lower than what we might have expected going into this, but the injury rate is staggering, and the time to heal wounds sustained down there is much longer than the norm. Every healer we can spare across the entire Colony is down there already, and it isn’t enough. Look over there.”
+
+The general used her antennae to direct Advant’s attention, and she saw a new facility being constructed, an enormous, ten-floored building being built into the vast chamber wall.
+
+“New hospital, the first of six.”
+
+“Six?”
+
+“That’s right. They’re running out of space down in the fortress to accommodate the wounded. Attrition during the wave has proven to be absurdly high. Did you see what the average deployment time for a soldier on the platforms is?”
+
+“Two hours,” Advant said grimly.
+
+“Two hours in the fight, then a week out of it recovering,” Sloan confirmed. “Generals are better, but still awful. Scouts and mages last the longest, but the fighting is so hectic that even they can’t avoid injury.”
+
+The two turned their attention back to the shaft. In their minds, it had transformed from just an elevator, or a tunnel, into something far more terrifying.
+
+It was a mouth, and it was eating everything the Colony could put into it.
+
+“The fortress is an insatiable beast,” Sloan sighed. “We’re putting in everything, everything that we can produce, and the appetite never gets any lower. All the profits from our trade with the brathian conglomerate are being eaten up by this monster.”
+
+“I thought we were using those cores to graduate more hatchlings?” Advant asked.
+
+“And where are they going?” Sloan snapped, pointing back at the hole in the ground. “It’s not like we can stop it now either. If we pull back, the fortress will be chewed up and toxified in a matter of days. Nothing will be recoverable, all of it lost.”
+
+“What are you worried about? Just come out and say it directly.”
+
+Sloan fell silent for a moment, rubbing at her temples with her antennae, a gesture many of them had picked up from the Eldest. Advant knew what was troubling her sister, they all shared the same concerns, but it was better for such things to be out in the open.
+
+“Solant tricked us from the beginning,” Sloan said. “She knew all along just what this project was going to take, the stepped expansion of this staging ground is proof enough by itself. If we’d known from the beginning what this was going to require, we would have never gone along with it. There are so many things we need to focus on. Our position in the fourth is still unstable. Shoring up our borders in the third. Training our siblings, raising their Skills and increasing the number of tier six ants across the Colony. The Eldest themself demanded we slow down to focus on such things.”
+
+“Yet it was the Eldest’s idea to invade the fifth,” Advant stated. “This isn’t Solant’s doing, she’s just following orders.”
+
+“I know that,” the general groused. “I’m not criticising her, she just did what she thought was necessary to complete the task put in front of her. What I’m worried about is the stakes. If this invasion fails, we will never get back the resources we’ve invested in getting this far. It will be a blow to the Colony like we haven’t experienced before.”
+
+“It will be a blow to the Eldest,” Advant said quietly. “Some might doubt their decision-making, call into question their judgement.”
+
+“The Eldest has never led us astray before,” Sloan fretted. “We just have to trust that this time won’t be any different.”
+
+As they discussed, the ceaseless flow of precious resources did not pause even for an instant. All of it vanishing down into the darkness, food for the beast.

@@ -1,0 +1,197 @@
+---
+id: eafdf2d5-a098-5d9c-8d15-1fdc81facf0d
+page-type-slug: story-chapter-royal-road
+title: "110 - Not a Plague"
+slug: 0112-110-not-a-plague
+partOf: cat-girl-evolution
+position: 112
+ownLength: 2492
+unit: words
+publishedAt: 2026-04-06
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3237685/110-not-a-plague"
+royalRoadId: "3237685"
+---
+
+[ In their greed and hubris, the leaders of Maligar sought to use the Awakened Sacred Mali Tree for their own benefit. They hid it away and attempted to bind it, harvesting its fruits for profit while it struggled against its chains. ]
+
+[ Dungeon Challenge: Witness the end of Maligar ]
+
+[ Floor Challenge: Uncover the truth behind the plague in Maligar. ]
+
+We appear once more on the road leading into Maligar. The city’s buildings look the same as always, but even from here, there are visible differences. The glass dome is gone, and the Sacred Mali Tree’s branches rise high above even the tallest tower, and it’s not the only tree that’s grown. The trees lining the streets are taller than before, some even rising above the buildings. Most worryingly, however, is the mana concentration. It’s not quite as high as it was back when Skarn took over the coast, but we’re still pretty far from the city.
+
+Despite the mana concentration, the city actually looks otherwise intact. There are still guards standing at the gate, and from our vantage point, we can just barely make out the figures of people moving around in the street. Though if I’m not mistaken, it looks a little less busy than before. It’s hard to tell, since the trees all cover the streets a lot more than they did before, but I’m pretty sure that there’s less movement than usual.
+
+“Same as last time?” I ask. “Set up at the inn and split up?”
+
+“If it doesn’t seem too dangerous, yeah,” says Lauren. “Unless anyone has a different plan.”
+
+The others shake their heads.
+
+“Then let’s go.
+
+As we draw nearer, the mood darkens. The mana gets denser the closer we get, and even worse, with my high Sensitivity, I’m starting to get a sense of what’s happening in the city. I hear the distant sounds of pained moans, and occasional vomiting, and there’s a sickly sweet smell in the air, like overripe fruits.
+
+When we get close enough to see the guard’s faces, we see that they look pale, and have bags under their eyes, and their posture isn’t quite as sharp as it was before.
+
+“Hail, travelers,” says one, his voice strained. “At any other time, I would bid you welcome, but I’m afraid I must recommend that you turn around. Maligar is currently facing a plague, and we have the entire city locked down. If you enter, you won’t be allowed to leave.”
+
+We all glance at each other, then nod, and Lauren steps forward.
+
+“We’ll enter,” says Lauren. “We’ve traveled from afar, and don’t want to leave without seeing the city.”
+
+“Suit yourself,” says the guard. “I will say that the city is beautiful right now. We have received a blessing from the great god Mali himself, and we are overflowing with fruit. You can spend your entire stay on the streets and never go hungry. If you want to move freely, though, I recommend buying some panacea potion, if you can afford it. It won’t cure the plague, but it’s the only thing that seems to help stave it off. It’s what’s keeping us upright, right now.”
+
+“I see,” says Lauren. “Thank you.”
+
+“Now, the toll,” says the guard before doing the weird glitch thing that the guard on the last Floor did. “Thank you kindly! And it looks like you’ve already got some panacea potion! Good thinking! Well, welcome to Maligar! Enjoy your stay!”
+
+The inside of the city is indeed beautiful, but it also gives off a strong sense of uncanny valley. The trees are taller and wider than ever, and the way the sun comes through the leaves is mesmerizing, and the fruits are numerous and hanging low enough to grab. It’s like the city is decorated for Christmas with the many fruits serving as ornaments.
+
+But there’s something off about it all. The fruits are too big, and too perfect. They make my mouth water just looking at them, but they’re all like that. Every single one. None are underripe, and none are falling off the tree and rotting. They’re all just dangling there, perfect and waiting to be eaten.
+
+As we walk, I feel around with Food Sense, trying to find something suspicious, and after a few seconds, I spot it. Every single tree feels mostly normal, except each one has a single root that goes down much deeper than the rest before curving in toward the center of the city. It doesn’t take a genius to figure out what they connect to, so I squirm out of Lauren’s arms, jump onto B’s shoulder, and nuzzle my head against hers while whispering in her ear.
+
+“Tell the others not to touch the fruits.”
+
+“Did you find something?” comes the response in my head.
+
+“Yes. The trees are all connected to the Sacred Mali Tree.”
+
+“Ah, yes, that’s not good.”
+
+I sense thin mana connections between her and the others, at which point the mood grows even more somber.
+
+Hey, Abby, the plague is probably because of all these fruit, right?
+
+“It certainly seems that way.”
+
+Do you think that means that the plague is actually poison, making it subject to my Poison Immunity?
+
+“That does seem likely.”
+
+I see. In that case…
+
+As we proceed through the city, I Snatch a fruit or two from every tree we pass, surreptitiously storing them away in my Stomach for later. I’m pretty sure the others all notice, but no one says anything, and in fact, the twins grab a few samples as well.
+
+“We can study them once we get to the inn,” one of them explains telepathically.
+
+With the new “study” angle, I use that as an excuse to double my Snatching, harvesting five or more of every single kind of fruit. I keep an eye out for anything else suspicious, of course, and I do actually find something. There’s someone following us. They’re doing a half-decent job of it, sticking to shaded alleys, and never appearing suspicious, but he’s very clearly following us, and as we near the inn, he finally fully emerges, jogging up to us from behind.
+
+“Hey, are you guys from out of town?”
+
+We all turn to see a boy, probably around sixteen years old, wearing clothes that indicate he’s among the city’s poorest denizens. They’re not quite rags, but they’re very simple, and not very clean. His hair is a mess too, but unlike most of the people we’ve seen in the city so far, he looks otherwise completely healthy. His skin is tan, and his eyes are sharp and clear, and devoid of exhaustion.
+
+“We are,” says Lauren, taking charge of the group as always.
+
+“You should leave,” says the boy. “You look strong. They won’t be able to stop you.”
+
+“Why?” asks Lauren.
+
+“It’s…” he trails off. “I can’t say it here.”
+
+“Could you say if we were in a private room in an inn?” asks A.
+
+The boy hesitates.
+
+“And if we put up some custom privacy wards?” asks B, holding out a few engraved metal disks.
+
+He hesitates a moment longer, then nods.
+
+“Then come with us,” says Lauren.
+
+He looks nervous, but he steps forward to follow us to the inn, where we book three rooms, just like last time. Just as with the gate guards, the innkeeper glitches out when he asks for the fee, before skipping to showing us our rooms. None of the inn’s other patrons seem to have a problem with this, and the boy doesn’t notice. He just follows us as we check the three rooms, then crowd into mine and Lauren’s. The twins set their disks down, creating a cubic mana barrier around us that completely cuts off all sound and mana from the outside world.
+
+“So, what is it you wanted to tell us?”
+
+“There’s something weird about this city,” says the boy. “I’ve been looking into it, but I haven’t figured anything out. But there’s something weird, and I think it’s because of the trees. You shouldn’t eat those fruits that you picked.”
+
+We all share a glance, and the twins send a few telepathic messages before we all nod.
+
+“Can you step outside the privacy ward for a moment?” asks Lauren.
+
+“Huh?” he asks. “Oh. Sure?”
+
+He steps outside, and with him gone, we all start talking freely. The kid gives me a weird look when I start talking, but I ignore it.
+
+“He’s clearly an intended part of the Floor, right?” I ask. “I mean, he was following us from the moment we entered.”
+
+“Yes, I believe so,” says A.
+
+“He probably has information that is supposed to get us started on the investigation,” says B.
+
+“Information that would be a lot more useful if Yona hadn’t already soled the Floor.”
+
+“Maybe,” I say. “The trees are all connected to the center of the city, so clearly, the Sacred Mali Tree is doing something to them that makes the fruit poisonous, which is getting everyone sick.” I pause, but there is no Annoying Yellow Box, so I continue. “But that can’t be it, because the Dungeon would have just told us we succeeded.”
+
+“It might still be true,” says Lauren. “But it’s not the whole truth.”
+
+“Right,” I say. “So the whole truth is probably something similar to the last Floor, where we have to figure out why it’s gotten this bad, and why no one has done anything about it.”
+
+“In which case, talking to this boy is a good place to start,” says B.
+
+“But we need to get our story straight first.”
+
+“The easiest solution would be to claim we’re investigators from the Adventurer’s Guild.”
+
+“But there might be better options, if you can think of any.”
+
+“No, let’s just go with that,” says Lauren. “No point in getting anything more complicated. We do have to think of something for Yona, though.”
+
+“Nah, it’s fine,” I say. “Call him back in. I’ll handle it.”
+
+“Are you sure?”
+
+“Yeah.”
+
+Lauren turns to the boy and beckons him back in, and as soon as he re-enters the ward, I turn into my catgirl form and step forward to put a hand on his shoulder. He gasps, and takes a nervous step forward, but he’s helpless before my Power, and can only gulp.
+
+“You’re in luck, kid,” I say. “We’re with the Adventurer’s Guild, and we’re here to investigate the plague. You can call me Agent Yona. Now, tell me everything you know.”
+
+“I– Um– Uhhhh…” he stammers. “W– Well, you see…”
+
+He stammers a bit longer before taking a deep breath to collect himself.
+
+“The plague started right after the trees all grew,” he says. “They all suddenly got taller and produced more fruit, and the city lord said it was a blessing from Mali. Except right afterward, people started getting sick. They said it was because some travelers brought in a disease from their trip to the swamps, but I don’t believe it. My dad was already suspicious of the fruits, and told us not to eat any, and now we’re one of the only healthy families in the entire city. Which is good, because we couldn’t afford to buy the panacea potion anyway.”
+
+“Is there a cure?” I ask.
+
+“Sort of…” he says. “A few people have been cured, but all of them are super rich. I heard a rumor that there’s a super concentrated version of the panacea potion that can fully cure people, but it’s hard to make, so most people haven’t been able to get any yet.”
+
+“I see,” I say, nodding. “So the regular trees are poisoning people while the city lord and his cronies profit off the sick.” I pause, waiting for an Annoying Yellow Box, but when none comes, I continue. “How despicable of them. It seems that our investigation will need to go quite deep to uncover the full truth. But rest assured, young… Hey, what was your name, kid?”
+
+“F– Folsa.”
+
+“Rest assured, young Folsa, we will get to the bottom of this. By the way, have you heard anything about the Sacred Mali Tree?”
+
+“What do you mean?”
+
+“Anything weird about it?”
+
+“Well, it got way taller at the same time as all the other trees did, but otherwise, no… Why, is it related?”
+
+“Don’t worry, kid,” I say, patting him on the shoulder again. “We’ll worry about it. You just go back to your family.”
+
+I start to gently steer him out of the room, which he seems a bit too bewildered to resist, but after a few seconds, he turns back.
+
+“Wait!” he says.
+
+“Yes?”
+
+“There’s one more thing. The city lord– he hasn’t been seen since he made the announcement. There was a rumor going around that he died of the plague. But there are also decrees that come out regularly, so I’m not sure. But it’s weird.”
+
+“How long ago was the announcement?”
+
+“Three months, now.”
+
+"I see. Well, Folsa, thank you for the information. We’ll take things from here. Also, don’t tell anyone else about us.”
+
+He seems a bit reluctant, but it seems he’s out of things to say, so he lets himself be pushed out of the room, after which I return for a final discussion. It’s not really much of a discussion, though. We all came to the same conclusion after hearing Folsa’s words: we need to investigate the city lord.
+
+And so, after a few hours of reconnaissance, we end up back in the inn. Unfortunately, we don’t find much. Everyone who’s been fully cured has locked themselves away in their homes ever since then, and since it’s all the rich people, their houses are warded to the point that even Lauren can’t guarantee being able to sneak inside safely. We did hear a rumor that the city lord will be making a public appearance in a week for the first time in a while, but we’re impatient, and we don’t know if Maligar has enough time, so we look for other leads. And fortunately, the twins managed to find one
+
+By repeating their stunt from last Floor with a different guard, they got all kinds of gossip, and found out that the city lord has a rather large family. He only has one wife currently, but he’s had three others in the past, and fathered children with all of them, and many of those children now have their own children. One of those grandchildren is a young girl with a strong affection for animals, and is known to frequently adopt strays off the street.
+
+That is why, currently, I am currently laying in a garden in my cat form, with all my fat siphoned off to make myself look as thin and unhealthy as possible. The garden belongs to the city lord, of course, and happens to be a place where this granddaughter frequents.
+
+Operation Get Adopted is a go.

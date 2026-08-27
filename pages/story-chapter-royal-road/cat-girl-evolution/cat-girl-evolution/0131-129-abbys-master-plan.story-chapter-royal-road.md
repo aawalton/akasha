@@ -1,0 +1,135 @@
+---
+id: 343380f0-bcfe-521b-ad99-244e3eeb92f8
+page-type-slug: story-chapter-royal-road
+title: "129 - Abby's Master Plan"
+slug: 0131-129-abbys-master-plan
+partOf: cat-girl-evolution
+position: 131
+ownLength: 2034
+unit: words
+publishedAt: 2026-05-20
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3421380/129-abbys-master-plan"
+royalRoadId: "3421380"
+---
+
+Before returning to the other instance, we take a short stop in the new second Floor. Since it was a rush job and an emergency setup, it’s just the default cube shape, and Abby used one of the preset environments to make it shaped like a bedroom with a very fancy bed. A very fancy, comfortable bed that Annie unfortunately oozed all over. Not that she can really help it, but it’s still pretty gross, and unfortunately, she appeared on the bed before I could set her somewhere else.
+
+If everything had gone as planned back in the other instance of the first Floor, we would have just gone straight back to rejoin the others, but the thing with Fiona was really bothering me. The message from Gluttony, the fact that she’s somehow free of Joakim, and that she managed to escape instead of being devoured is all too weird. So, with the extra time we have, I ask her what happened.
+
+“You’re saying I made a deal with you to free you in exchange for bringing me Joakim?” I ask when she finishes.
+
+“Y– yes?” says Fiona, looking confused. “Was that… not you?”
+
+“I’m gonna be completely honest, I have no idea. I’m pretty sure that was Gluttony, but Abby says that Gluttony is supposed to be part of me.”
+
+“It objectively is,” says Abby, popping into existence beside us. “It’s a piece of your soul. It being able to act independently is concerning, to say the least.”
+
+“And did you say that it said you didn’t smell as good as ‘the last one’?” I ask.
+
+“Yes.”
+
+“So it liked Joshua better…” I say, rubbing my chin. “It must like the other Sin and Virtue Traits. That’s probably why it wants Joakim.”
+
+“That would make sense,” agrees Abby. “But as for how it’s acting independently, I have no clue.”
+
+“Same,” I say. “But the important part is that you’re free. And if I can free you, I can probably do the same for Annie. After I figure out if I can control it. Or at least communicate with it.”
+
+I look down at the severed head. She looks quite thoughtful. She’s still bound to kill me at all costs, but she has no restriction keeping her from talking while she tries to regenerate enough to be able to damage me.
+
+“I’m not sure,” she says. “I can try to possess you if I’m separated from my body, but I can’t be separated from my body unless Joakim separates me. If anyone else tries, or my seal is damaged, I just die.”
+
+“Is there no way around it?”
+
+“Theoretically, there is,” says Fiona. “Soul seals can be broken by skilled mages. It’s still a little risky, because if they mess up, she’ll die, but it’s not impossible.”
+
+“What happens when Joakim dies, though?” I ask.
+
+“The soul seal remains in place,” says Annie. “But the connection between him and I will break, and there will be no need to break the seal at all.”
+
+“Oh, right! So we just have to kill him. And if not that, I’m sure the twins can cook something up. Speaking of the twins, maybe they know something about Gluttony acting independently. Let’s go ask!”
+
+“We have never heard of anything like that,” says A after we get back and explain the situation.
+
+“Our master has never mentioned anything about it.”
+
+“Damn,” I say, scratching my head. “That’s a shame. I really thought you’d know something.”
+
+“Sorry,” they say, shrugging.
+
+“But we should be able to disconnect Annie, at least,” says A.
+
+“Or at least, our master will be able to,” says B.
+
+“Well, that’s good, at least,” I say. “But we shouldn’t need to. We’ll just kill Joakim. Abby, what’s your plan for killing Joakim?”
+
+“Well, I’m not sure about directly killing him, but it’d be pretty easy to ruin his plans by usurping his Dungeon. And for that, we need to power up this Dungeon, and to do that, we need to kill more things here, or one very powerful thing, like Andala, the Heavy. So the next step of the plan is Yona luring him into the Dungeon.”
+
+“That’ll never work,” says Fiona.
+
+“What?” asks Abby. “Why not?”
+
+“You’re severely underestimating Andala. You can’t just ‘lure him into the Dungeon.’”
+
+“Why not?”
+
+“Well, first of all, the fact that he’s not here already means that he’s probably under explicit orders not to enter, meaning you’ll have to force him in.”
+
+“Something that shouldn’t be too difficult since his gravity will pull him right in if we can stop his momentum above the Dungeon,” counters Abby.
+
+“But you’re missing something very crucial,” says Fiona, raising a finger. “Andala doesn’t just use gravity to attack. His aura Trait pulls everything down, including himself, but he can just use gravity magic to counter it and float up. That’s also why you can’t just lure him. He’s surprisingly fast.”
+
+“But for a monster his size and to counteract gravity that strong, it would take an immense amount of mana to keep moving,” says A.
+
+“Even for a Tier 4 Disaster, it wouldn’t be able to keep it up for long.”
+
+“Yona would just have to stay away from it for a few minutes before it runs out.”
+
+“And with it depleted of mana, she would be able to use Snatch to teleport it over the Dungeon entrance.”
+
+“A few minutes?” says Fiona. “More like a quarter hour. Andala isn’t some Dungeon-spawned Tier 4 Disaster. He’s a Tier 2 that evolved into a Tier 4, and he’s experienced every level. Even if she keeps him flying around constantly at top speed, she’ll run out of mana long before he does. And not to mention what will happen if Joakim shows back up while you’re trying to run away. This plan will never work.”
+
+“Well, the mana won’t be a problem,” says Abby, rubbing her chin. “But you raise a few good points…”
+
+“What do you mean mana won’t be a problem?”
+
+“I have infinite mana,” I say.
+
+“Impossible,” says Fiona.
+
+“Nuh uh.”
+
+“Wh–? Huh?” Fiona sputters. “What do you mean ‘nuh uh’?! Infinite mana is literally impossible. I know Sin Traits let you ignore some rules, but that’s basic manadynamics. Unless you’re suggesting you can bypass the laws of reality?”
+
+“Well, I am the Chosen One,” I say. “But I guess you're right. It’s technically not infinite, but I can prepare extra mana in advance to give myself functionally infinite mana. And I have a bunch stored up already. Teleporting around for fifteen minutes shouldn’t be a problem.”
+
+“But doing so while avoiding a full-fledged Tier 4 Disaster, and potentially the Leader that controls it is,” says Abby. “Hmmm…”
+
+The room goes somewhat silent as we all contemplate the information Fiona brought us. The original plan was to just have me go out, teleport around, and lure Andala into the Dungeon so that Abby’s reverse harem can take care of him. The king, the knight captain, and the mage duke are all Tier 5 stage hazards created to defend the city from attacks, and they should be enough to handle the badger. And if not, the backup plan was to have A and I just rain hell on it from above to weaken it enough that said stage hazards could finish the job. Mostly A, since her specialization makes her much better at dealing damage from a distance than me.
+
+But with the new information Fiona has brought us, that task suddenly seems a lot less doable. Sure, the mana won’t be an issue, but our original plan didn’t account for the undead badger to be able to fly, or even move quickly at all. It seemed just as pinned down by its aura as the rest of us earlier, but I guess that’s just because we were all in range of its attacks, so it didn’t need to move.
+
+On the bright side, aside from Andala and Joakim himself, we don’t have too much to worry about. Most of his most powerful undead are already neutralized.Fiona is freed, the rest of her former Party is gone, and Annie has returned to being a captive severed head. Fiona says he has another Party of Platinum Adventurers under his command, but that he took them out of the Dungeon a little bit ago, and didn’t have them when he came back, so we assume he has them assigned to some other task outside.
+
+Aside from that, all he’s got are the shadowy assassin who attacked us in the labyrinth, some tanky dude that neither Fiona or Annie know too much about, but who neither are too concerned about either, and Annie’s brother, Phillip, who is the Dungeon Core. Him being the Dungeon Core complicates things a little bit, since that means that destroying Joakim’s Dungeon is now our last resort, since we’d rather not do that to the poor undead siblings, but it shouldn’t be too bad. Abby’s plan is to usurp the Dungeon anyway, and doing so would bring Phillip under our control, so it shouldn’t be an issue. Killing him is, like, Plan F.
+
+That still leaves the issue of Andala. Our best hope for a successful usurpation is getting him in here and killing him. Based on how much our odds increased after killing the other undead, we figure Andala should get us at least to 35% or so. A one in three chance is at least something Abby’s willing to consider as an emergency option. She and the others still don’t want to trust my plot armor, though, which is pretty ridiculous. I mean, my odds of survival in my last evolution were only 33%, and I came out just fine.
+
+“I still think it’s worth a shot,” I say. “It might be dangerous, but I think I can handle it.”
+
+“And we don’t really have much choice,” says Abby with a grimace. “We can’t let Joakim empower his Dungeon more, or make more undead. And we can’t just escape without leaving the Dungeon behind for 15 days.”
+
+“Plus, if we succeed, then we’ll have free reign over Joakim’s Dungeon, even before we usurp it,” says Lauren. “He won’t be able to stop Yona from running around and devouring every enemy there. Not without getting involved personally. And necromancers generally aren’t the most powerful direct combatants. If he does that, we may be able to slay him.”
+
+“Right,” I say. “And it’s not like we’re gonna have any better chance of success if we wait compared to if we go now. Unless you have a backup plan?”
+
+“Well…” says Abby. “No… You’re right. We’re stuck with this.”
+
+“Well, then no point in wasting time,” I say, clapping my hands together. “Let’s get set up.”
+
+Just like I did back when I fought Fiona and the other undead, Abby and I just delete the entire servant’s quarters from the instance. The spawn point for the Dungeon can’t be moved—at least, not without incurring a penalty—so Andala will appear right there, and it’ll be much easier to kill him without a building in the way.
+
+What we do not delete are all the servant homunculi. They’re all pretty mindless, since Abby didn’t have time to flesh out any of their personalities, so in the absence of their living quarters, they just wander around. By keeping them there, they will be instantly killed by Andala’s aura when he arrives, but that’s intentional. Abby’s reverse harem can only attack if the right circumstances are met, and those circumstances are the wanton slaughter of natives.
+
+With that set up, B then lifts herself, her sister, Fiona, and the handsome silver-haired mage up high into the sky on one of her shields. Andala’s aura is strong, and wide-ranging, but it’s not that wide ranging, and if they’re high enough up, they won’t be affected. And if I drain him of mana properly, he won’t be able to fly up to meet them. The rest head to the opposite side of the city far outside the range of Andala’s aura, because despite their relative competence, unfortunately, they will be utterly useless here.
+
+Then, we begin.

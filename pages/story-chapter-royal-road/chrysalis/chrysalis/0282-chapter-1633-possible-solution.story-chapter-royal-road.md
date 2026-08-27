@@ -1,0 +1,121 @@
+---
+id: ae3430e8-2c8c-5efe-8874-290e49e33f1d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1633 - Possible Solution"
+slug: 0282-chapter-1633-possible-solution
+partOf: chrysalis
+position: 282
+ownLength: 1149
+unit: words
+ownProgress: 1149
+publishedAt: 2025-08-28
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2554036/chapter-1633-possible-solution"
+royalRoadId: "2554036"
+markedReadAt: "2026-06-29T19:52:49.968Z"
+---
+
+The powers of the Ancients are legendary, even among those who know them best: the cults who worship and serve them. If one were to ask the Cult of the Worm what Yarrum was capable of, they would attest to the incredible strength of the monster, able to crush mountains by wrapping around them and squeezing. Or perhaps they would wax lyrical about the dreaded maw of the great worm, with teeth able to rend anything apart, be it rock, steel or diamond.
+
+However, none of these cultists have actually seen Yarrum for themselves. These are legends, passed down from those precious few who actually had encountered the Ancients and survived to tell others.
+
+To try and accurately gauge the strength of the Ancients is an impossible task, as the monsters themselves are wreathed in myth to the point that most don’t believe they even exist.
+
+In these pages, I will attempt to record what stories have survived, gathered from the various cults I have come into contact with.
+
+-           Excerpt from ‘Collective Wisdom of the Cults’ by Granin Lazus
+
+It didn’t take long for Granin to find out what had happened. Anthony snapped his mandibles and glared up at them, only to collapse back to the ground a moment later. While still pinned to the ceiling within Anthony’s gravity domain, he extended several mind bridges until one finally connected and he was able to speak to a mage.
+
+[The healers tried to withdraw the infection into themselves, like the others did,] the ant explained, dispirited.
+
+[The others? There are more ants who are infected?!]
+
+[Yes, twenty of them. They have been quarantined and are being treated as well as we are able.]
+
+Twenty more? This didn’t bode well. The legends about Theorazzn’s abilities were… disturbing, to say the least. If any of the twenty were overcome, then the chance they could spread the toxin to others wasn’t zero.
+
+[Be very careful around them,] Granin warned. [Eventually, the toxin will erode their spirits and attack their minds. When it gets to that point, they’ll start to attack others and infect them.]
+
+[I-I’ll pass on your message.]
+
+Below, Anthony continued to lie still, focusing internally, even as he kept the gravity domain up.
+
+[You’d better tell the Eldest you won’t try it again. The longer this domain stays up, the worse the toxin will spread. It’s taking away vital mental resources.]
+
+[We know. The others are trying, but the Eldest is… unconvinced.]
+
+Stupid, stubborn ant!
+
+[I’ll try,] Granin said.
+
+He reached out to the big ant again through the bridge that linked them. As expected, the ant was still furious.
+
+[Anthony,] Granin said cautiously. [Cut off the domain. I’ve spoken to the others, they won’t try it again.]
+
+[They didn’t even ask me! As if I would ever let them do that!]
+
+That’s why they didn’t ask. Granin kept that thought to himself.
+
+[I have another solution,] he assured the massive monster. [It isn’t ideal, but it will work. Now let us down. If you’re too far gone, then even this won’t solve the problem.]
+
+[... Fine.]
+
+The dark purple mana that filled the room flickered and faded away, leaving Granin, Corun and Torrina, along with a hundred insect monsters, floating in mid-air for a terrifying moment before they plunged to the ground.
+
+Torrina managed a neat turn in the air and landed on her feet. Corun attempted the manoeuvre, but didn’t turn far enough and landed flat on his face. Granin didn’t bother and crashed into the floor like a boulder, his granite second-skin absorbing the impact. He grunted as he picked himself up, noting the floor had come off second best in the impact, and turned to the gathered ants.
+
+[I have a possible method that will work,] he told them.
+
+As one, the ants’ attention snapped towards him, all of them pointing towards him at once. Granin held up his hands, feeling a little defensive.
+
+[The Eldest has to agree. And it won’t be easy to do, but we might just be able to pull it off if everyone cooperates.]
+
+There was much antenna waggling as the ants communicated amongst themselves.
+
+[Speak to the Eldest and see if they will agree. If you can get their cooperation, we will provide anything you need.]
+
+Granin nodded and drew in a deep breath. This was the best option he could see. It wasn’t ideal, as he’d said, but it was better than letting the most promising proto-Ancient he’d ever seen die. Anthony was more than that, though, he was also a friend. Granin would put everything on the line to make sure he would survive.
+
+[Alright, Anthony. I’ve got one more solution for you. It’s better than the last one, but you might still not like it.]
+
+[Does it involve killing someone else so I can live?]
+
+[It doesn’t.]
+
+[Well, I’m a fan so far.]
+
+Here goes nothing.
+
+[In short, you need to evolve.]
+
+There was a long silence as Anthony just looked at him, slowly processing.
+
+[Wait… That’s it?!]
+
+[It’s possible you will get an evolution option that will enable you to either absorb and utilise the energy in your body, or one that will make it possible for you to survive it. If such an option appears, you’ll live.]
+
+The big ant thought for a moment.
+
+[I suppose I’ve seen something like that before. There’s this strange feeling I have that you aren’t telling me everything, Granin. What’s the catch?]
+
+[You’re in no state to manage your own evolution,] Granin told him bluntly. [So you’ll have to let us do it. Also, we’ll have to try and keep you from dying during the course of your evolution, which could take weeks. It’ll be a tremendous pain in everyone’s backside, and we may not even succeed, but right now, I don’t see another path.]
+
+The golgari folded his arms across his chest once more and levelled his stare at the ant before him.
+
+[It’s not ideal, I know that, but if you relax enough to manage the evolution yourself, the toxin will expand too fast. Also, your evolution will be somewhat forced. Whatever option will help you live is the one we have to take. We could be seriously harming your potential by doing this.]
+
+Granin hesitated for a moment, but ploughed ahead. He owed Anthony the whole truth.
+
+[The corruption of Theorazzn may not even be totally gone. You’ve probably experienced it to some degree already.]
+
+[Wow… this suggestion is sort of rubbish.]
+
+[It’s the best I can do,] Granin snapped. [I tried to convince the Colony to let the mages from the Silver City in here to look at you, but they don’t trust them enough.]
+
+Anthony laughed, a thin sound that echoed in Granin’s head.
+
+[I suppose we better move quickly, then. How did you even know I was max Level?]
+
+Granin shrugged.
+
+[I didn’t.]

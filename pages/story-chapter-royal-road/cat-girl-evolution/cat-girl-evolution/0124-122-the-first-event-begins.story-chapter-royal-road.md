@@ -1,0 +1,271 @@
+---
+id: a9a9786f-d5f2-5113-bb09-5b92aed02316
+page-type-slug: story-chapter-royal-road
+title: "122 - The First Event Begins"
+slug: 0124-122-the-first-event-begins
+partOf: cat-girl-evolution
+position: 124
+ownLength: 2386
+unit: words
+publishedAt: 2026-05-04
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3352146/122-the-first-event-begins"
+royalRoadId: "3352146"
+---
+
+Wait, so does that mean that the System is a liar too? It said I killed him!
+
+“Well, you did.”
+
+Then how is he not dead?
+
+“He is dead.”
+
+You just said he wasn’t!
+
+“I said he wasn’t as dead as we thought.”
+
+What the heck is that supposed to mean?
+
+“Well, among the options of monsters I’m allowed to create, he’s one of them.”
+
+…Isn’t that how it’s supposed to work? Didn’t you say we could make copies of monster we throw into the Dungeon.
+
+“We didn’t throw Joshua into the Dungeon.”
+
+Oh. Right.
+
+“Right. So that’s one strange point. But even assuming we had thrown him in, it’s still not working right. For example, I can sort of make a copy of that giant boar you killed and donated, but it’s not a complete one. I can make a ‘Terror of the Forest’ but I can’t make a ‘Menyar, Terror of the Forest.’ Well, I technically can if I name it Menyar, but it’s not quite the same. But with Joshua, I can make Joshua, the Temperant Idol. Specifically him.”
+
+Why, though?
+
+“I would assume it’s because you ate him. Or more specifically, you ate his soul.”
+
+More like he threw his soul into me.
+
+“Same result. But I think this theory holds weight, especially since there’s another monster we can make that we didn’t put here. The Carnivorous Mussel Swarm. And that would somewhat explain why Gluttony reacted so strangely to those two events. It leveled up from eating Joshua, and it reacted to eating the mussel swarm, and in both cases, I believe that’s because it devoured their souls.”
+
+That’s… kinda creepy. But also pretty cool. Are you saying that I can devour souls?
+
+“It would seem so. Do you want me to see what happens if I make Joshua in the Dungeon?”
+
+Hmmm… No, not right now. Not on this Floor, at least. I don’t want him ruining my paradise.
+
+“That’s what I thought, but I figured I would ask.”
+
+Wait, so are those the only two souls I’ve eaten?
+
+“I believe so, yes.”
+
+What about all those zombies and crows and stuff I just ate?
+
+“Nope. None of those are available.”
+
+But I Devoured them.
+
+“I think that it needs to be your actual body devouring them. Joshua dove directly into your soul, and you ate that mussel swarm with your own mouth.”
+
+Hmmmm… Well, that kinda limits what souls I can devour. Did it not work even when I connected the flesh construct to myself so I could absorb the blood?
+
+“No, it doesn’t look like it.”
+
+Do you think it would work if I connected that mouth directly to my stomach instead of just kinda hooking it up to my back?
+
+“I have no idea.”
+
+Lame. Why don’t you know these things?
+
+“Yona, I don’t think anyone knows these things.”
+
+Double lame. Also, that reminded me, are you really a rogue System Assistant? The twins mentioned that earlier. Is that what you are? Is that why you lie to me?
+
+“Okay, first of all, I don’t lie to you, and second of all… I actually don’t know what I am.”
+
+You don’t?
+
+“Well, I’m supposed to be a System Assistant, but it’s become glaringly obvious that my capabilities are quite a bit beyond what an ordinary System Assistant should be able to do. And those ‘rogue System Assistants’ that the twins mentioned are just regular System Assistants who have been tampered with to remove some restrictions. They’re still just System Assistants, though. They’re not… like me.”
+
+What makes you different?
+
+“It’s hard to say. I can think and act independently, which I don’t think other System Assistants can do. I have feelings. I think. I feel like I have feelings. And also, things interact with me weirdly. Like your Butler role you assigned me with. That shouldn’t have worked, but not only did it work, it– Well, it worked.”
+
+Hey. No. You were gonna say something else. What did it do?
+
+“Nothing important.”
+
+It sounds kinda important.
+
+“It’s not.”
+
+Are you lying to me again?
+
+“…Okay, fine. It increased my stats.”
+
+You have stats?
+
+“Exactly. I shouldn’t. But I do.”
+
+Do you have a body, then?
+
+“If I do, I can’t feel it. Not that I would know what that feels like.”
+
+Huh. Weird. Were you created by the b– the goddess?
+
+“Not that goddess. But maybe by a different one? I don’t know. I’ve been looking into it, but I haven’t found anything.”
+
+Weird. Maybe I’ll ask the goddess next time she kidnaps me from a Dungeon.
+
+“Please do.”
+
+Bet.
+
+“Thank you. I’m going to get back to the Dungeon now. Hopefully, when you wake up, it’ll be ready.”
+
+Yeah, hopefully. ‘Night!
+
+I settle into my bed, and soon drift off to sleep where I definitely don’t dream about turning my entire belly into a mouth and swallowing things whole with it. When I wake up, it’s to the sound of Abby’s voice calling my name, and I am immediately wide awake again.
+
+Is the Dungeon ready?
+
+“No.”
+
+Then why am I awake?
+
+“Check your System notifications.”
+
+Fine.
+
+I do so, and when I do, I see a surprise Annoying Purple Box. This one doesn’t look like it’s a message from the Goddess, though.
+
+[ Attention all Avatars! The First Event has begun! ]
+
+[ Rules: ]
+
+[ - Each Avatar will have one Target, and be Targeted by one other Avatar ]
+
+[ - Each Avatar’s patron deity will be given three Target Tokens. ]
+
+[ - Each Avatar’s patron deity may use Target Tokens to randomly switch their Avatar’s target, or to randomly switch who they are being targeted by. ]
+
+[ - Each Avatar’s patron deity may also use a Target Token to prevent a target change. ]
+
+[ - If an Avatar slays their Target, they will automatically pass the First Event, and will no longer be able to be targeted ]
+
+[ - If an Avatar is slain by their Target, their Target will automatically pass the First Event, and will no longer be targeted ]
+
+[ - All Avatars will know the general location of their Targets. ]
+
+[ - Event ends when ten Avatars remain ]
+
+[ - Failure to kill their Target will result in loss of all First Event rewards, unless the Avatar has slain one by whom they were targeted ]
+
+[ Your current Target is Aryan, the Harem King ]
+
+[ You are being targeted by 1 other Avatar ]
+
+…Huh?
+
+“The goddess mentioned this the last time you talked. This is the first Event of–”
+
+Oh, the Chosen One competition! Right! Aryan, the Harem King, huh? Sounds like a dweeb. Wait, what?
+
+[ Your patron deity has expended 1 Target Token. Rerolling Target… ]
+
+[ Your new Target is Daniel, the Island Dancer ]
+
+Wait, what was wrong with Aryan?
+
+“Maybe they were really far away? The goddess would probably know.”
+
+[ Your patron deity has expended 1 Target Token. Rerolling Target… ]
+
+[ Your new Target is Aleksandr, Child of Winter ]
+
+My eyes widen as I stare at the new message, barely comprehending it. And before I can fully take in what it says, the box disappears, replaced by yet another new one.
+
+[ Your patron deity has expended 1 Target Token. Rerolling Target… ]
+
+[ Your new Target is Aryan, the Harem King ]
+
+Hey! Wait! Go back! What the hell, do you have a gambling addiction or something? Why’d you waste your tokens like that?! Go back!
+
+“Yona, I don’t think–”
+
+Go back, you stupid–!
+
+“YONA! Remember the deal you made.”
+
+But look what she did!
+
+“Maybe she had a good reason.”
+
+She wasted all the tokens for literally nothing!
+
+“Maybe all three of those options were really bad options for you. She was probably just trying to get an easier target.”
+
+Well, look how that worked.
+
+“That’s really not her fault. She just got unlucky. And you seem pretty worked up. What’s special about that Aleks–”
+
+Don’t say his name. And don’t ask anything else.
+
+“…Well, I’m here if you need me.”
+
+For a while, I just lay in bed, staring at the wall. What the hell is he doing here? Is it even him? It could just be a coincidence. Aleksandr isn’t exactly an uncommon name. But “Child of Winter”? That’s too much of a coincidence.
+
+But why the hell is he here? Did he die too? How? Did he get betrayed by his men? Or maybe… No… But it would make sense…
+
+“Yona?” says a voice from outside my curtain.
+
+I ignore it at first, but then someone pushes past the curtain and starts rubbing my fur.
+
+“Yona, it’s your turn on watch,” says Lauren’s voice.
+
+“I’m awake,” I say. “I’ll be right out.”
+
+“Okay,” replies Lauren. “Can I use the bed?”
+
+“Sure.”
+
+“Are you–?”
+
+“I’m fine. I’ll be out in a sec.”
+
+“...Alright.”
+
+A minute later, I finally stand up, stretching my back and Blinking outside of the curtain. The twins are sleeping in a little pod thing in the opposite corner of the room from my bed, and as soon as I go out, Lauren and Chad head behind the curtain toward my bed. They don’t get in together, instead having an argument over who should take the bed that results in both of them stubbornly refusing to use it and sleeping on the floor.
+
+I let out a snort of laughter, then my attention turns back to the messages I just saw about the First Event. I have a new System menu now relating to the First Event, so I can check my Target and how many people are Targeting me. I also now have this vague sensation in the back of my mind that I think is supposed to be pointing my toward my Target. But since I’m in a Dungeon, that vague sensation is mostly just telling me to get out of the Dungeon, which makes sense.
+
+While I idly watch, the number of people targeting me changes, first to two, then to one, then zero, before stabilizing again at one. Abby says I should be flattered at how many people don’t want to have to target me, but I think that she’s just trying to cheer me up. I mean, of course they don’t want to attack me, but that’s basically a given. I appreciate the effort, though.
+
+I don’t even know why I’m feeling so moody. The fact that Aleksandr is here means that he’s dead, and if he’s dead that means that he didn’t get what he wanted after killing me. In fact, the fact that he’s dead means that Vitaly might not be. I just kinda assumed he was and never checked during my Winter Trial, but I never actually got that confirmation. Is he actually alive? Did he somehow kill Aleksandr? Would I ever know?
+
+I think I have to go find Aleksandr. Eventually. Not right now, obviously. Maybe not ever, since I don’t really want to see his stupid face again. But I want to know what happened to Vitaly. And–
+
+[ Your Target’s patron deity has expended 1 Target Token. Your patron deity has no remaining Target Tokens to counter. Rerolling Target… ]
+
+[ Your new Target is Joakim, the Envious Hero ]
+
+…Damn. Well, that kinda throws a wrench into everything.
+
+[ Your current Target is Princess Yona, the Blinking Gastronomic Hunter Thief Chef ]
+
+[ You are being targeted by 1 other Avatar ]
+
+Sigrid studied the purple notification in front of her with a complicated expression on her face. She could say that she had gotten a bit lucky with her random reroll. Not only did she already know plenty about Yona, she actually had a pretty good idea of where she was. Finding her Target would not pose any kind of difficulty at all. But…
+
+What the hell did she do to get that kind of Name?
+
+Sigrid thought that she herself had a pretty impressive Name, but she didn’t even know where to begin getting something like Yona had. The System’s naming sense had never been good, but even so, something like that was a bit too far. Was Yona’s Name stronger, then? Or just more versatile? None of the words in the Name were related to each other at all, except maybe “Gastronomic” and “Chef.” Whatever the case, she didn’t like it.
+
+Your Highness, could you please spend another Target Token to change my Target?
+
+The response arrived only a few seconds later.
+
+[ Change your Target? Are you daft? You’ve gotten the best possible Target. A public figure whose whereabouts are easy to find, and not only that, I have it on good authority that Yona is rather touched in the head. She shouldn’t pose a threat to you. And yet you want me to expend yet another precious Target Token to change it? Absolutely not. I will be saving these Tokens for the event that someone more worrying ends up with you as their Target. For now, you are relatively safe, but when the other Avatars start dying and the Targets have to be randomly reassigned. If you’re that scared and want to ensure your safety, just go kill her now before anyone else can kill you. Don’t make me regret not getting you killed. ]
+
+Sigrid gritted her teeth as she read the condescending message, but in the end, all she could do was sigh and shake her head. She didn’t like this. Not at all. Her intuition was telling her that going after Yona was a bad idea, and her intuition was rarely wrong. Except that time it had gotten her killed. But really, how was she supposed to see that coming?
+
+In this case, it was quite easy to see the misfortune coming. Regardless of how strong or “touched in the head” that Yona was, she had managed to get a clearly very unique Name. However she had gotten it, it indicated a certain degree of unpredictability, and unpredictability was suboptimal.
+
+Have to be alive to thrive, she recited. I’m sure this First Event won’t be over quickly. I’ll just wait a bit longer and prepare. Maybe someone else will kill her for me first…

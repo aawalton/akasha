@@ -1,0 +1,169 @@
+---
+id: c35f6923-6740-5597-9b90-412ae80989f9
+page-type-slug: story-chapter-royal-road
+title: "101: Uncertain Future"
+slug: 0101-101-uncertain-future
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 101
+ownLength: 2010
+unit: words
+publishedAt: 2026-01-16
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2948867/101-uncertain-future"
+royalRoadId: "2948867"
+---
+
+Chloe stood up as fast as she could. She pointed straight at Ynett, her arm trembling a little even though she tried very hard to look confident. Hearing that name again made her feel not very good.
+
+A dozen questions rushed through her mind all at once. How was Ynett even alive? Why was she a bird lady now when she used to be a snake lady? How did she get inside Aetherion? And why was she smiling like that?
+
+Chloe wanted to ask everything. She opened her mouth, ready to spill every question she had, but nothing came out. Her throat felt tight. Her tongue felt stuck. It was like her whole brain tripped over itself trying to pick which question to shout first, and in the end, she couldn’t say any of them.
+
+Across the table, Ynett watched her with that same quiet, sharp amusement. “What’s wrong, little one? You look like you have something to say.”
+
+“W-what are you doing here?”
+
+“Probably the same reason you are. I'm looking for someone."
+
+That answer did not help Chloe at all. Before she could push further, Ynett’s attention slid past her toward Sierra. The wolf girl stiffened immediately.
+
+“Oh my, a familiar beastkin. And alive, no less. How unexpected.”
+
+Sierra’s breath hitched. Her tail tucked in tight against her chair, and she lowered her head as if she wanted to disappear into her cloak. “How… how—”
+
+“Her name’s Sierra!” Chloe cut in before she could finish. Sierra didn’t sound like she was in any shape to talk, and Chloe decided that if someone had to be loud right now, it might as well be her.
+
+“Ah. My mistake,” Ynett said lightly. Her gaze slid back to Chloe, and her smile curved into something almost playful. “You’ve gotten quite bold, little undead.”
+
+Chloe puffed out her cheeks, trying to look tougher than she felt. Sierra, however, only seemed more shaken.
+
+Until finally, Raenof spoke up. “Pardon me, but it’s clear there’s history between the three of you. I would like to know what kind.”
+
+Ynett rested a hand dramatically over her chest. “History? Oh, nothing dramatic. Just a little reunion. Old faces meeting again after a long—”
+
+“She tried to kill me. And she mind controlled Sierra for a really long time,” Chloe blurted out.
+
+Raenof’s whole posture changed. His shoulders went stiff as he summoned his staff, held ready in front of him. Sierra flinched at the sudden movement and pressed in closer to Chloe.
+
+Ynett just kept on smiling. “Now, now, let’s think this through, shall we? Do you really believe fighting me here is a good idea?”
+
+Chloe swallowed hard, but she forced herself to glare anyway. “I don’t know how you got here, but I beat you once. And I’ll do it again if you try anything funny.”
+
+“Yes… you did cause a few problems for me before. But things are different now, as I’m already on my fourth evolution. So I doubt the three of you could defeat me. Even together.”
+
+Chloe’s stomach twisted, and she really wished it didn’t. She hated how sure Ynett sounded.
+
+And even worse, she hated that Ynett was probably right. Chloe remembered how much stronger she got just from going from her second evolution to her third. A fourth evolution was a whole other world. She honestly wasn’t sure she, Sierra, or even Raenof could keep up with someone like that.
+
+“If you’re so strong, why not deal with us now?” Raenof asked.
+
+“Because removing you wouldn’t help my goals. And frankly, I find it far more interesting to watch what you do next.”
+
+“And these goals of yours are what, exactly?”
+
+“To grow stronger. Normally, that would mean killing you or placing you under my control. But certain circumstances prevent that.”
+
+“And those circumstances are?”
+
+“I’m on a quest of sorts, with parameters I must follow. Because of that, harming you now would be  counterproductive to my goals."
+
+“And how are we supposed to trust you?”
+
+“You don’t need to trust me. I only require your cooperation.”
+
+Chloe crossed her arms. “Well, I still don’t trust you at all. Not even a tiny bit.”
+
+“Oh? Not even a tiny bit? How tragic.”
+
+“You tried to kill me! And you made Sierra try to kill me before too! And now you’re just sitting here being all fancy and birdy!”
+
+“You may dislike me, but I'm being honest when I say that our interests align for now. We wouldn't be having this conversation at all otherwise."
+
+Before Chloe could argue, Sierra tugged very gently on her sleeve. “Chloe, I… I think she’s telling the truth.”
+
+Chloe spun toward her. “How? Why are you saying that?”
+
+Sierra swallowed hard. She kept her eyes glued to the table, like she was scared to even look at Ynett directly. “Because… she’s always been strong. Really strong. If she wanted to hurt us, she would have done it already. The fact that she isn’t doing anything must mean that she’s serious.”
+
+Chloe hated that Sierra sounded like she meant it. She hated it even more because it made sense. Ugh. I don’t want it to make sense.
+
+Ynett let out a pleased hum. “A very reasonable observation. Thank you, little beastkin.”
+
+Sierra flinched, while Chloe’s scowl deepened. “Fine. You’re not attacking us right this second. But how are we supposed to know you won’t later?”
+
+Ynett rested her chin on her hand, looking far too pleased. “Allow me to demonstrate. Once you understand the difference in our abilities, you’ll realize I could harm you at any moment if I wished to.”
+
+Before Chloe could even blink, Raenof’s staff ripped itself from his hand. It floated above the table, spinning as though it weighed nothing at all. Then it flipped upside down, tapped Raenof twice on the shoulder, and wiggled in a strange little dance.
+
+Chloe could barely believe what she was seeing. Uh oh.
+
+Ynett twirled a finger, and the staff dipped into a low bow, before drifting back toward Raenof. He caught it immediately, fingers tightening around the wood, his jaw clenched so hard it looked painful. Chloe had never seen him look that tense.
+
+“Impressive, isn’t it? I’ve gained quite a few abilities since we last met.” Ynett said.
+
+Chloe swallowed. The display was terrifying. And, annoyingly, a tiny bit fascinating. But mostly terrifying.
+
+“Telekinesis?” Raenof asked.
+
+“It's one of the many new abilities in my repertoire. Evolution has been very kind to me.”
+
+Raenof looked at Chloe, and even though he didn’t say a word, she understood the message in his eyes. He wasn’t telling her what to do, but he was definitely warning her to think before doing anything reckless.
+
+Chloe hated the idea of agreeing to anything Ynett wanted, but picking a fight right now felt like a terrible plan. Sure, she would probably survive. But Raenof and Sierra weren’t made of zombie parts, and Ynett’s mind control stuff made everything even worse. What if Ynett used it on them?
+
+And maybe working with Ynett for a bit wasn’t the worst idea. If she pretended to cooperate, she could watch Ynett closely, figure out what she could do now, and maybe come up with a good plan later. A smart plan. A tactical plan.
+
+Chloe forced herself to speak, even though every part of her hated it. “Fine. I guess I’ll trust you. For now.”
+
+Ynett turned her gaze to Raenof and Sierra, her eyes narrowing just slightly. “And the two of you? Any objections?”
+
+Raenof didn’t answer, though his grip on his staff tightened. Sierra shook her head quickly. Neither of them looked happy, but neither argued.
+
+“Very well. If there are no further objections, we should get moving. Time, after all, waits for no one.”
+
+Chloe frowned at Ynett. “So what’s your quest anyway? And why are you in such a hurry?”
+
+“My goal is to help you and your friends find the Sages of the Wilds.”
+
+Something in Ynett’s voice felt off, like there was a whole chunk of truth missing. But at the same time, Ynett didn’t sound like she was lying either, which only made Chloe more annoyed. It was hard to tell what was real with her.
+
+For now, Chloe decided not to push it. “Then do you know how we can get to Maeve?”
+
+Ynett shook her head. “No. Unfortunately, the exact location is still hidden from me.”
+
+Chloe groaned under her breath. Of course that would’ve been too easy.
+
+“But, I am an Avian noble at the moment. Which means I can sponsor individuals to enter the Grand Archives.”
+
+***
+
+Z stepped out of the car the moment it rolled to a stop, heels clicking against cracked asphalt. She straightened her coat, adjusted the cuffs with practiced efficiency, and surveyed the surroundings.
+
+Ahead of her stretched a derelict district that time and municipal budgets had both apparently forgotten. Empty storefronts lined the street like hollowed-out teeth, their windows clouded with grime or shattered entirely. Faded advertisements peeled from brick walls in long curled strips and graffiti spread across almost every available surface.
+
+Regardless, her target location stood further ahead. The old bridge.
+
+It stretched across a narrow river channel that barely flowed anymore, reduced to a sluggish ribbon of murky water weaving through concrete and rusted supports. The steel truss bridge looming over it had long passed the point of structural dignity.
+
+Whole sections of the railing were missing, leaving only stubs behind. The faded paint had surrendered entirely to corrosion, forming dark streaks of rust. An abandoned truck sat halfway across the span, tilted at an uneasy angle, sagging as though exhausted by the weight of time.
+
+Z kept walking anyway. She knew this bridge was no ordinary structure, and its abandonment was far from a simple matter of neglect.
+
+She stepped onto the bridge’s fractured surface and inhaled slowly. This place had once served as a passageway between the heavenly realm and the material world.
+
+Long ago, before Ishgria’s last war against the gods, the bridge had shone with divine brilliance, unbroken and revered. Now it was a ruin, forgotten by most and dismissed by the rest as a hazard. Yet traces of its old power still lingered. Very few knew the truth, but Z was one of them.
+
+She was also the one who was tasked by the gods to spread the narrative that the district was unsafe, that the bridge had collapsed for mundane reasons, that no one should approach. The misinformation had served its purpose well.
+
+Z raised her hand, and magic gathered at her fingertips, forming a soft glow that brightened rapidly until the entire span shimmered. Light washed outward like a ripple across still water, wrapping the ruined bridge in a temporary illusion of its former glory.
+
+Rust smoothed into polished steel. Broken beams reformed. The abandoned truck faded like dust in sunlight. At the far end, a pristine white archway, humming with celestial power. For a brief moment, the old bridge looked whole again.
+
+Z lowered her hand and walked forward. The portal’s glow reflected in her eyes as she approached. She had been passive long enough, it was time to act.
+
+Of course, nothing would be simple once she crossed into the material world. Her strength would fade the moment she stepped through, reduced to a fraction of what it had been here. She would have no control over where she might emerge. And there was no guarantee that she would ever return to the heavenly realm after leaving it behind.
+
+Yet when her thoughts drifted to the people she had failed… to Ishgria, Z strengthened her resolve. If this was the price of trying again, then so be it.
+
+And, strangely, a faint warmth tugged at the corner of her mind. Maybe, somewhere out there, she would cross paths with Chloe again. That strange little zombie girl had been unexpectedly pleasant company.
+
+The thought was small, almost foolish. But in that moment, it made stepping forward feel a little less lonely.

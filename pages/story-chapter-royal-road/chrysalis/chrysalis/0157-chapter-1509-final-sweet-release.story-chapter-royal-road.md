@@ -1,0 +1,93 @@
+---
+id: fe934140-3e9c-5e94-b319-b89331683cc5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1509 - Final, Sweet Release"
+slug: 0157-chapter-1509-final-sweet-release
+partOf: chrysalis
+position: 157
+ownLength: 1073
+unit: words
+ownProgress: 1073
+publishedAt: 2025-02-14
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2065662/chapter-1509-final-sweet-release"
+royalRoadId: "2065662"
+markedReadAt: "2026-06-29T19:48:52.060Z"
+---
+
+“This is our chance,” Leeroy hissed. “We can’t mess it up again.”
+
+“Shhh!” her second in command, Hamadant shushed, waving her antennae to dispense the scent faster. “We don’t know who might be paying attention.”
+
+The two looked around surreptitiously, then paused, then inspected the shadows beneath their feet. Leeroy went as far as to prod her own shadow with an antenna.
+
+“I think we’re in the clear,” she said, dubious.
+
+“We don’t have much time,” Hamadant said. “Artaxant said the armour will be repaired in less than a day.”
+
+“The evolution might take longer than that,” Leeroy fretted. “What if it’s not finished in time?”
+
+“We have to take this chance,” Hamadant stated, emphatic. “It was your idea, and we all agreed.”
+
+“Mufasant was particularly keen,” Leeroy muttered. “She trampled over all our doubts.”
+
+“If any of us evolve with supervision, they’re going to demand we explain our options and choose them for us,” Hamadant said. “Our only chance is for one of us to evolve in secret and find the right option for the rest of us to pick, and you’re the only one who’s reached max level. We’re counting on you, Leeroy.”
+
+Member of the Council, among the oldest of all the ants in the Colony, leader of the Immortals and constant disappointment to the Eldest, Leeroy felt her heart swell with powerful emotions as her second in command placed a leg on her carapace and spoke so earnestly.
+
+All they wanted to do was sacrifice themselves for the Colony. Was that so wrong? Was it such a bad thing to be so dedicated, to listen to what their instincts told them?
+
+No. Of course it wasn’t! Thanks to the mistake they’d made when evolving to tier six, they’d become trapped, too durable to be defeated, and even if they were, they would simply revive. The Phoenix Flame had been so detrimental to their goals it had almost pushed them entirely out of reach. Whenever the Immortals found themselves in a position that was dire enough for them to be defeated the first time, the Colony would rally to their side, ensuring they wouldn’t get the chance to be defeated twice.
+
+Even so. EVEN SO, Leeroy and her followers had not given up hope. Not at all. The search went on until they found what they were looking for.
+
+“Take this. It was the best we could find.”
+
+Hamadant handed her a rare core, nodding firmly as Leeroy took it in her mandibles.
+
+“Good luck. Show us the way,” she said, then turned and scuttled out of the remote chamber they had stowed themselves in.
+
+Again, Leeroy was deeply moved, then firmed her resolve. This was a chance; she was going to undo her mistake and find the evolution that would counteract their current evolution and its cursed Phoenix Flame Organ, giving them a chance to achieve their true goal.
+
+Concentrating, Leeroy began to absorb the core, feeling its energy being added to her own, the gem within her body swelling and pressing against her insides. The pain was good; she welcomed and embraced it. This pain was nothing compared to her burning will, her defining ambition. When weighed against her need for glorious sacrifice, what was pain?
+
+Nothing.
+
+When the core was fully absorbed, she took a moment to centre herself. This would be a big evolution, the first of the Immortals to rise to tier seven. This time, she couldn’t afford to make any mistakes. She would read the full description of everything.
+
+She could already imagine the Eldest laughing at her, forcing the rest of the Immortals to follow in her footsteps if she made another error. This time, it would be flawless.
+
+She initiated the evolution process and focused her mind, quieting her spirit which cried out for selfless sacrifice, achieving a sort of mandible-clenched focus. As she engaged the evolution menu, she flicked through the notifications until the list of possible species appeared. She honed in on each item, reading each word as if her life depended on it.
+
+Salvation lay in these words, and she would digest each and every one fully and completely.
+
+For herself. For her followers. For the search.
+
+Your Evolution Options are as follows:
+
+Leeroy winced. Things weren’t off to a good start. Even looking at the names, things didn’t seem promising on the surface. Hopefully there was something better in the special or rare options. She would check the details of each evolution, of course, the previous mistake couldn’t be repeated. Yet she was hoping there would at least be something that seemed promising on the surface.
+
+This wasn’t getting better. Just look at those names! Leeroy wasn’t exactly sure what unquenchable would entail, but she knew it wasn’t good. She wanted to be quenched! Fully quenched! Every day she spent in a less than satisfactorily quenched state was a fresh agony!
+
+She folded her legs and clapped her front legs together like she saw the human priests do with their strange hand-things.
+
+Please, she begged, there HAS to be something in the rare options.
+
+Burning with a hope that refused to fade, she read on.
+
+Noooooooo!
+
+That was SPECIFICALLY what she didn’t want to see!
+
+Leeroy slammed her head into the stone floor of the cavern, breathing deep, slow breaths. There was hope. There was still hope. One option remained, and it would surely be just what she was hoping to see. It had to be. It had to be.
+
+Expecting the worst, Leeroy tilted her head to the side as she read the evolution. Wasn’t this… sort of promising? Fallen? That was a good start! She would love to have fallen! And zombies? Zombies were dead, weren’t they? She distinctly remembered that zombies were heavily involved with death mana and had something to do with dead things.
+
+Wasn’t this… wasn’t this perfect?
+
+NO! She wouldn’t be tricked again! The description had to be checked. Thoroughly checked!
+
+[Rare Evolution: Fallen Zombie Soldier (Rare). +20 Bonus to Cunning, +100 Bonus to Will, +250 Bonus to Toughness, +150 Bonus to Might. Embrace Death, and it will never leave you. The Phoenix Flame Organ will be consumed—
+
+“It’s perfect!” Leeroy roared, eyes bulging from her carapace, and slammed accept. A few modifications to turn her into the perfect sacrificial soldier, and her evolution would be complete!
+
+She couldn’t wait until the Eldest saw her again. They wouldn’t be laughing this time!

@@ -1,0 +1,175 @@
+---
+id: d3983a2e-248f-5741-9a2f-c9eee87ff711
+page-type-slug: story-chapter-royal-road
+title: "120: Life of Chloe - IV"
+slug: 0120-120-life-of-chloe-iv
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 120
+ownLength: 1881
+unit: words
+publishedAt: 2026-03-02
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3108311/120-life-of-chloe-iv"
+royalRoadId: "3108311"
+---
+
+If there was one thing Mom always told Chloe, it was that she should help people when she could. And Sierra had looked like she needed a lot of that. Chloe still didn’t know why she’d gotten cornered like that, but at least the poor girl was safe now.
+
+Chloe got Sierra to the school counselor as fast as she could, sticking close the whole way. She walked slightly in front of Sierra, not rushing her too hard but also not giving anyone the chance to get near again.
+
+Sierra stayed quiet the whole way, clutching her bag so tightly her knuckles looked pale. Chloe didn’t like seeing that, since it made her stomach twist in a weird way.
+
+When they finally reached the counselor’s office, Chloe didn’t just dump Sierra at the door and leave. She waited until the counselor actually let Sierra step inside and started to talk to the girl.
+
+Chloe wanted to stay longer, and she really did. But classes were still a thing, and as much as Chloe hated to admit it, she couldn’t just disappear for the rest of the day. So before she left, she pulled out her phone, scribbled her number down, and pressed it into Sierra’s hand.
+
+“Text or call me sometime, okay? If someone bothers you again, you tell me.” Chloe said.
+
+Sierra nodded quickly, still sniffling. “O-okay."
+
+That settled things for the most part, but Chloe knew that Sierra was super shy. And Chloe had a strong feeling Sierra wouldn’t actually reach out first, even if she really needed to. So Chloe decided for her.
+
+She’d text later. Or call. Or check on her after school. Whatever it took to make the girl feel less alone.
+
+After that, the rest of the day went more or less peacefully. But the way people acted about it made Chloe’s mood sour all over again. A bunch of students asked Chloe why she’d helped Sierra, like it was some shocking mystery. It was as if Chloe had just rescued a dangerous animal instead of a scared girl.
+
+Apparently Sierra was “from a bad neighborhood,” and that somehow justified what happened to her. That sounded like the dumbest reason ever to treat someone badly in Chloe's mind.
+
+Just because you came from a bad place didn’t mean you had to be bad. That just didn't make sense to her.
+
+When the final school bell rang, Chloe asked around for Sierra. But apparently she’d gone home early, which made sense since she was probably still uncomfortable after what happened.
+
+She waited for Sierra to text her, but when nothing came through, Chloe checked the school website to see if her number was listed. It wasn’t, though she did find Sierra’s email, so she sent a quick message anyway just to check in. Unfortunately, there was no reply. Chloe frowned at her phone for a moment before deciding she’d try again in a couple of hours.
+
+For now, she waited in the school lobby like usual. A few minutes later, a fancy black car pulled up outside, and Maeve stepped out of the driver’s seat. “Miss Chloe, your mother asked me to pick you up a bit earlier than usual today. Would you be alright joining me and coming to her office?”
+
+Chloe perked up instantly. Going to Mom’s office sounded way more interesting than going straight home. “Sure, I don’t mind.”
+
+“Good. I also brought a change of clothes for you. Please clean up first and get changed, I'll wait."
+
+***
+
+Chloe was again sitting in the car with Maeve driving. She was in the front seat of course, idly looking at the landscape. Something about today's events really made Chloe think, and she thought back to the reason Sierra was bullied, that she just came from a less nice neighborhood than the other kids. That made her wonder how anyone lived in the mortal world.
+
+Because from what Chloe knew, the mortal world was this terrible place where all sorts of bad stuff happened. And that being sent there was basically a punishment for angels.
+
+Chloe turned to Maeve and asked, “Hey, uh… what do you think about the mortal world?”
+
+Maeve kept her eyes on the road. “I don't have any strong feelings about it. Why did you ask?”
+
+“I was just thinking. Like… how do mortals even live down there?"
+
+“They live there because they have to."
+
+“That’s not an answer. That’s like… a you answer.”
+
+“It was still technically an answer.”
+
+Chloe huffed and leaned back in her seat. “But hypothetically, if a mortal came up here, would they be treated badly just because they came from down there?"
+
+"Probably."
+
+"But why?"
+
+“Mortals are flawed, they cause suffering, then act surprised when it hurts them. It isn’t complicated.”
+
+“Wait, so you just think it’s their fault?”
+
+“I believe it is their nature. Angels are meant to rise above such behavior. Mortals rarely do.”
+
+"But angels can do bad stuff too. I saw this girl get bullied in school just today!"
+
+"Hmm, younger angels tend to be less experienced, so such troublesome behavior is to be expected to an extent."
+
+"So do we get a pass just because we're angels?"
+
+"I suppose that's one way to look at things. The truth is that angels can be harsh, but we are not chaotic the way mortals are once we've developed. Even the older mortals can still be incredibly foolish, you see."
+
+"Hmm, but—"
+
+Maeve finally looked at her for a brief moment, eyes calm but firm. “Miss Chloe, you have a kind heart. That is admirable.”
+
+Chloe blinked. “Uh. Thanks?”
+
+“But kindness does not change reality. There is little reason to sympathize with mortals who refuse to improve themselves.”
+
+Chloe stared at her, then scoffed. “That’s such a sad way to think."
+
+“It is easy to say that from a safe place. You have not seen enough of the world to understand why mortals become the way they are.”
+
+“So you’re saying I’m naive.”
+
+“I am saying you are young and protected. Your views may change once you experience more bitterness.”
+
+“Well I don’t want them to change. I wanna keep thinking people should stop being jerks.”
+
+Maeve smiled. “Then I hope the world is kind enough to let you.”
+
+“…Fine, we’ll agree to disagree.”
+
+“That seems reasonable.”
+
+“But I’m still right.”
+
+“Of course you are, Miss Chloe.”
+
+The rest of the ride went quieter after that. Not awkwardly quiet, just the kind where Chloe stared out the window and thought really hard while pretending she wasn’t thinking at all.
+
+Eventually, Maeve slowed the car and turned onto a broad road lined with skyscrapers. Chloe’s eyes widened a little as she looked ahead. The buildings here were all glass and steel and perfect angles. Of course, all of them were also super tall. But even then, one tower stood out.
+
+It was taller than the rest, rising up so high Chloe had to tilt her head back just to see the top. Dark glass covered most of it, which was reflective like a giant mirror. The edges were crisp, the shape sleek and confident, and the whole building looked less like an office and more like a statement. Like it was telling everyone else in the city, Yeah, I’m the important one.
+
+Chloe sat up straighter without even realizing she was doing it. She’d seen pictures of this place a million times. Everyone had. Divinity Inc wasn’t just some company, it was the company that everybody knew about. The biggest in all of Heaven.
+
+Maeve drove closer, and the entrance came into view. Tall panels of stone and glass framed the front, and the doors looked like they weighed more than Chloe’s entire car. Even the lights were glowing in a way that made the whole entrance look almost unreal.
+
+Right above it, in massive letters that nobody could possibly miss, were the words: DIVINITY INC.
+
+Maeve pulled up near the front and parked the car. She stepped out first, walked around, and opened Chloe’s door for her.
+
+Chloe climbed out and tilted her head back, staring up at the skyscraper again. Divinity Inc looked unreal up close. She’d been here a few times before since her mom brought her sometimes, but it wasn’t like she came often. Every time she did, it still felt kind of epic.
+
+Maeve started guiding her toward the entrance, but she didn’t let Chloe get far before stopping her with a firm touch on the shoulder. “Miss Chloe."
+
+Chloe blinked and looked at her. “Yeah?”
+
+Maeve looked Chloe over. Chloe had cleaned up properly, wearing a neat blouse, a fitted dark skirt, and a sleek jacket that probably cost a good chunk of change. Maeve then leaned in to smooth Chloe’s jacket, fix her collar, making sure everything sat perfectly.
+
+Chloe stood still and let it happen, even though her face scrunched up in protest. “This feels stuffy."
+
+“It is good for you,” Maeve said calmly, stepping back to check her work. “You look presentable.”
+
+“I looked presentable before,” Chloe muttered.
+
+"But now you are more presentable."
+
+"I… sure."
+
+Satisfied, Maeve led her inside. The lobby was huge, unreasonably huge.
+
+Inside, the lobby was even more ridiculous. The floor was so polished Chloe could almost see her own face in it, and she didn’t even like how shiny it was because it made her feel like she had to walk carefully.
+
+There were fancy vending machines lined up along one wall, but not the sad school kind. These ones had sleek glass cabinets with glowing screens. One of them had snacks that probably cost more than a normal lunch, and another one sold drinks in fancy bottles with hard to pronounce names.
+
+Chloe even saw one that looked like it offered warm food, like actual fresh meals, not just a sad microwaved thing. There were also comfy lounge areas with soft couches and charging stations built right into the tables, while a giant display screen on the wall showed news updates and company announcements.
+
+People in office clothes moved through the lobby constantly. They walked fast but quiet, holding tablets and coffee cups at all times. A few of them glanced at Chloe, then immediately looked away again like eye contact might get them fired.
+
+Chloe leaned toward Maeve as they walked. “Do people here always look this stressed?"
+
+“Yes, and before we continue talking, maybe it's best if you go to the receptionist desk and get your guest pass first."
+
+"Oh, right!"
+
+They walked up to the reception desk at the front of the lobby. It was sleek and modern, and a huge glowing Divinity Inc logo lit up the wall behind it. The receptionist stood up the second they got close.
+
+She had black hair tied in a loose bun and round glasses. Chloe smiled and waved. “Hi!”
+
+“G-good morning, Miss Chloe.” The receptionist said nervously.
+
+“Whoa. You look like I’m about to bite you, just relax."
+
+“I-it’s just, you’re the daughter of the CEO. It’s only appropriate to respect you.”
+
+Chloe leaned forward a bit, still friendly. “Well just relax alright? Why don't you tell me your name first?"
+
+The receptionist hesitated, then lifted her nametag like. “Zenaida, but… my friends call me Z.”

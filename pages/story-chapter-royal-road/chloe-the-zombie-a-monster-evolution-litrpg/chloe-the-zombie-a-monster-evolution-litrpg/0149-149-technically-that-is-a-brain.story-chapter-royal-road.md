@@ -1,0 +1,107 @@
+---
+id: a7288c8a-b828-5b25-b8b4-1cc2cd89351f
+page-type-slug: story-chapter-royal-road
+title: "149: Technically, that is a Brain"
+slug: 0149-149-technically-that-is-a-brain
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 149
+ownLength: 2019
+unit: words
+publishedAt: 2026-05-08
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3371024/149-technically-that-is-a-brain"
+royalRoadId: "3371024"
+---
+
+With the death of the big scorpion, the smaller scorpiods all died out. That was nice and all, but right now Chloe was really bothered by one question that was stuck to her head. Do scorpions have brains?
+
+Chloe thought about this question real hard as she dismissed her wings and walked towards the big guy's corpse. Chloe stared at the giant, very dead scorpion, and instead of doing anything immediately useful, her thoughts drifted toward brains.
+
+A brain was… okay, wait, what was the actual definition again? It was something like the central organ of the nervous system, the part that processed information, controlled actions, and basically ran everything important. So if that was the case, then anything that could move properly, react to stuff, and not just flop around randomly had to have something like a brain, right?
+
+People definitely had brains, no question there, and she had eaten those before, so she knew exactly what those were like. Then there were monsters, like that big bat creature she fought long ago, which also had a brain, and the thunderbird, which also had one. The point was that everything she’d dealt with so far had something she could clearly point at and go, yeah, that’s a brain. Which made her pause a little, because now the real question wasn’t if things had brains, but when something stopped having one.
+
+Like, bugs were small, but they still did all sorts of complicated stuff. So they had to have some kind of control center. But she wasn't sure if bugs had actual brains, or just a similar organ that worked like a brain, but wasn't actually a brain?
+
+Okay, so Scorpions fell under arachnids, which meant their anatomy was different from insects, and that meant their internal setup was different too. They didn’t have a brain in the same way humans did, or even the way larger animals did, but they still needed something to process signals and control movement.
+
+Arachnids had something called a synganglion, or at least she was pretty sure that was the term, which was basically a fused cluster of nerve tissue that acted like a brain. It wasn’t separate or clearly shaped like one, but it still handled all the important stuff, like coordinating movement and processing sensory input. And if she remembered right, it was located in the front part of the body, or in what most people would call the head.
+
+It wasn’t exactly a brain in the traditional sense, but it functioned like one, which, as far as she was concerned, was close enough. And if it was close enough, then that meant there was a very real chance it would still work for what she wanted.
+
+Chloe stepped up to the scorpion’s body and looked over the cracked, damaged head where she had struck earlier. Up close, the damage looked even worse, some parts slightly caved in from the force of her lightning.
+
+Okay… so, the brain thing should be in here somewhere. She crouched down as she reached out and tapped the broken section lightly with her fingers.
+
+Chloe flexed her right hand, and although the full lightning blade had faded, a thinner layer of electricity flickered back to life around her fingers, just enough to help. She pressed her hand against one of the larger cracks in the scorpion’s head and pushed, then dragged her fingers along the split, letting the lightning bite deeper into the damaged plating. The shell resisted for a moment before giving way with a brittle snap.
+
+She pried them apart as best she could, though her nose wrinkled slightly as the inside was exposed. It wasn’t anything like what she had seen before, since she never really thought she'd be eating part of a giant scorpion of all things.
+
+The interior was packed with pale, fibrous tissue and strange clustered sections that all sort of blended together. So she reached in and started feeling around, carefully at first, then a little less carefully when nothing immediately stood out, her fingers brushing past layers of tissue until she found something deeper inside the front of the head. It felt different.
+
+Chloe leaned in a little closer, focusing on that spot as her fingers traced around it, clearing away the surrounding material until she could isolate it properly. It wasn’t large, and it definitely didn’t look like any brain she had seen before, but there was something in her gut that told her that this was it. Maybe zombies just had a natural sense for brains.
+
+She loosened the scorpion's "brain" from whatever it was connected to before finally pulling it free with a soft plop. Chloe held it up between her fingers, turning it slightly as she examined it as she tried to decide if this actually counted.
+
+The strange mass she held in her hand didn’t really look like a brain, but she figured it was about as close as she'd get. So, Chloe tossed it into her mouth and chewed. The taste wasn’t that bad actually, just a bit strange in a way she couldn’t quite place.
+
+[Brain Consumed: Solarian Devastator (Level 82)]
+
+[Experience Awarded]
+
+[You have leveled up! 33 >> 39]
+
+[Strength +23, Speed +22, Vitality +90, Magic +56, Resistance +55]
+
+[Skill Upgraded: Divine Magic Affinity II >> Divine Magic Affinity III]
+
+[Skill Upgraded: Divine Magic Blast I >> Divine Blast II]
+
+[New Skill Acquired: Blaze Armor I]
+
+[New Trait Acquired: Fire Heart]
+
+[2 Trait Points Awarded]
+
+Chloe noticed right away that she hadn’t gotten nearly as many levels from the sun scorpion compared to the moon monkey she had beaten before, but she also knew why. Her level was already much higher now, so of course the gains weren’t going to feel as big, so she wasn’t too bothered by that.
+
+Besides, she had picked up a couple of new skills, got herself two extra trait points, and most importantly, she had absolutely destroyed a giant laser-shooting scorpion, which definitely counted as a good day. Although, before she could enjoy that too much, a familiar dizziness hit her again.
+
+Chloe’s face scrunched slightly as she swayed where she stood as another one of those post-brain-eating visions was about to hit. She had half expected this one to be kind of useless, if she was being honest. The moon boss hadn’t exactly shown her anything impressive, so she figured this would be more of the same.
+
+But when Chloe found herself seeing through the scorpion’s eyes, she could tell that this vision was not something that she could skip like those online ads. The scorpion had fought someone before her.
+
+And that someone was kinda weird. The figure stood in front of the scorpion, completely covered in a black hooded cloak that hid almost everything about them.
+
+Chloe couldn’t see their face at all, not even from this close, and that alone was already annoying. But what made it worse was the mask. They were wearing a plain white mask under the hood, something that actually reminded her of those cheap Halloween masks she’d seen before.
+
+The scorpion attacked first, its massive claws slamming down as it tried to crush the cloaked figure outright, but the person just poofed out of the way like they teleported, causing the attack to miss. The scorpion lashed out again, tail snapping forward as a beam of light tore through the space where the figure had been standing, but once again, it hit nothing.
+
+Then the figure soon reappeared right in front of the scorpion. A blade of bright red light formed in their hand, and then the hooded person swung it.
+
+A single swing and one of the scorpion’s legs was cut clean off, the severed limb dropping before the scorpion even seemed to register what had happened. The hooded person then teleported and made a second strike, carving through another limb, then another, and another.
+
+The scorpion tried to fight back, claws snapping, tail firing again, but it didn’t matter. The hooded person just kept teleporting in and out of the way, so they were never truly in danger.
+
+Within seconds, the scorpion was already falling apart. Its legs gave out one by one, and its body sagged as it lost balance. It didn't take long for the hooded figure to get into position and then drive their red light sword straight into the scorpion’s head.
+
+The red light flared brightly on impact, and the scorpion quickly collapsed. There was no struggle, no drawn-out finish, just a clean, instant end that felt almost unfair. From the scorpion’s perspective, the last thing it saw was that same blank mask staring back at it without a single hint of emotion before everything cut out and the vision ended.
+
+Whoever that person was, Chloe could tell they were serious trouble, and the fact that they had already beaten the sun scorpion before her made something click in her head. That probably meant they were inside the dungeon too, moving through the same place she was, and that raised a slightly uncomfortable thought. Not just anyone could get in here. Chloe knew she was special, that she had been allowed in for a reason, so if this hooded figure was here as well, then they probably weren’t normal either.
+
+She also vaguely remembered that dungeon bosses took about twenty-four hours to respawn, which meant the scorpion she fought had already come back after being killed by that person. Putting that together, there was a very real chance the hooded figure was still ahead of her somewhere, progressing through the dungeon at their own pace, and if that was the case, then she might end up running into them as soon as the next floor.
+
+If that hooded figure was still ahead, then Chloe couldn’t just mess around like usual. Well, okay, she was still going to mess around a little, but she also needed to be ready. The annoying part was that she was still one level short of her next evolution, which felt very inconvenient timing-wise, but at the same time, she had a bunch of new stuff to work with now.
+
+First up was the new skill. Chloe straightened slightly and focused, pulling at that fresh ability as she activated Blaze Armor. Flames sparked to life across her body, wrapping around her arms, her torso, her legs, until she was fully engulfed in fire. The flames clung to her body, shaping themselves around her like a second skin instead of burning outward.
+
+Even Cloaky got caught up in it, the fire rolling over the fabric without damaging it. After things settled, Chloe looked down at herself. She lifted her arm and flexed her fingers, watching the flames shift and move with her, then lightly tapped her other arm just to test it. The moment her hand made contact, she blinked.
+
+It wasn’t soft, and it didn’t even really feel like fire, at least not the way she expected. The fiery armor felt sort of solid, but not too restrictive, something flexible yet tough. Obviously she wouldn't know how good or durable this armor was until she tested it out more properly, but she didn't feel like hitting herself to test the durability. I'll just activate 'Blaze Armor' when I fight some real enemies later.
+
+With that done, Chloe let the flames fade, dismissing Blaze Armor as the fire peeled away from her body and disappeared. It was time to move on to other stuff.
+
+There was also Fire Heart, but honestly, that one sounded pretty straightforward. It probably just boosted her fire-related abilities in some way, maybe made them stronger or more efficient or something along those lines. It was nice, sure, but not exactly exciting enough for her to stop and read through the full description right now, especially when she had something way more interesting to focus on.
+
+Because now? Now it was time to spend her trait points, she'd been saving up for a while and she was absolutely going to reap the reward of her efforts.
+
+[Displaying Available Traits for Purchase]

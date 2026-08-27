@@ -1,0 +1,193 @@
+---
+id: 9f47020c-2734-5b57-bbbb-aab1da4c346e
+page-type-slug: story-chapter-royal-road
+title: "125 - Abby's Dungeon"
+slug: 0127-125-abbys-dungeon
+partOf: cat-girl-evolution
+position: 127
+ownLength: 2193
+unit: words
+publishedAt: 2026-05-11
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3381071/125-abbys-dungeon"
+royalRoadId: "3381071"
+---
+
+What do you mean “in your defense”? Why do you feel the need to defend yourself?
+
+“…Do I not need to defend myself?”
+
+Well, you didn’t before, but since you jumped straight to it, now I’m suspicious of you. I don’t really care that you made yourself a queen here. I would have done the same, probably. But what are you getting so defensive about?
+
+“…Nothing.”
+
+I don’t believe you.
+
+“Maybe you’re just paranoid.”
+
+No, you definitely did something else. What did you do?
+
+“I just did what you told me to do.”
+
+And that was…?
+
+“Set up the Dungeon.”
+
+You’re being very evasive.
+
+“You’re being very investigative.”
+
+Yes, because you’re acting suspiciously. Tell me what you did.
+
+“Okay, fine. I made you the villain of the Floor.”
+
+What?
+
+“Well, you know how you asked me to make you an avatar that you could inhabit while in here? Well I did that. It’s a cat, and it’s basically you if you weren’t a Named monster. A gluttonous cat named Yona that can teleport and steal food. And the way to earn Queen Abby’s favor is to capture the cat. Well, one of the ways. That’s the intended way, but I guess there are other ways you could do it.”
+
+That’s… actually pretty funny.
+
+“I also made the cat fat.”
+
+Oh, you bitch.
+
+“Like, morbidly obese. If the you here was an Earth cat, it would have died of heart failure by now.”
+
+Why?!
+
+“Anyway, though, the Dungeon is otherwise set up like you asked. This city is set on a bay that’s full of scallops, there’s a big Named boar in the forest to the east, and there are a few chefs around that make good food.”
+
+Hey, I see what you’re trying to do here. Unfat me!
+
+“Also, I sent all the undead to a different instance, which is why you guys are able to relax and rest up right now. I doubt they’ll be finishing the Floor Challenge any time soon, so you’ve got time. Alternatively, you could go finish them off right now. Since you’re the Dungeon Core, you killing them will count as experience points for the Dungeon too.”
+
+Stop changing the subject!
+
+“I can’t make any changes to the Dungeon for the next week. It was just finalized, so it needs to stay exactly as-is for a little while before we can start making small adjustments. I’ll make this Floor’s Yona thinner then.”
+
+You’d better. And what else did you do? That can’t be it.
+
+“Nothing you’d get mad at.”
+
+I don’t believe that.
+
+“You can check everything else for yourself. It’s all exactly as you wanted. It’s just your avatar that I messed with.”
+
+We’ll see about that.
+
+I finish giving the healing potion to B, and prop her up against the bed’s headboard. The potion went down smoothly, and Chad’s potion was the same with A, and I can sense their damaged internal organs healing, but neither of them wake up yet, and they won’t be up for a few minutes. Lauren downed a potion of her own, and she’s now laying on her back while it does its work. Chad and I are the only ones able to move at the moment, but without anything obvious calling for our attention, we take some time to relax and recover as well.
+
+I start poking around with Food Sense to get a feel for our surroundings, and for all intents and purposes, it feels like a normal castle. We are definitely in some kind of servant’s quarters, since all the rooms around us are the same, and most of them house slumbering maids. There’s a communal bathhouse at either end of the hallway, and beyond these rooms, there’s the castle proper. I don’t sense anything really amiss. It seems pretty peaceful.
+
+I also don’t sense my avatar. Abby, where is she?
+
+“You should be able to enter Dungeon Core Mode and travel freely around the Dungeon. That will let you instantly locate any entity here too, including her.”
+
+How do I do that? Do I just think Dungeon Core Mode and– Woah!
+
+As soon as I give the mental command, my body vanishes, and I turn into a disembodied spirit. Chad leaps to action when I disappear, drawing his sword and looking around, so I immediately go back into normal mode.
+
+“Sorry,” I say. “I’ll be back in a bit. I’m gonna explore around. Stay here and watch the others.”
+
+“Alright,” he says, breathing a sigh of relief as he sheathes his sword.
+
+I re-enter Dungeon Core Mode, and immediately, I fly upward, through the ceiling to the next floor, and then further up until I exit through the roof. I move extremely quickly to the point it felt almost more like teleporting than flying. And when I think about wanting to go to check out a spire I see in the distance, my invisible form moves there almost instantly too.
+
+I look around at the city, noting a few interesting-looking buildings, and I briefly check all of them out before heading outside the city walls to the forest. The forest is pretty samey, so I don’t go far into it, instead returning back to the castle to look for my sacrilegious alter ego.
+
+Just like Abby said, I can locate any entity here. It feels really weird to do it, though. I have, like, a directory in the back of my mind, and I can mentally scroll through it and see all the names and brief little description things for each creature. There are way, way too many to find bizarro Yona this way, but the directory also has a search feature which is creepily good. I just picture a fat cat that can teleport and it instantly filters everything else out except the avatar Abby created for me. Another thought sends me flying through the city until I’m hovering right above it.
+
+Just like Abby said, she’s morbidly obese. The poor thing probably weighs three times as much as it should, if not more. But aside from that, she seems to be living her best life. She’s got a full belly, and is currently passed out on the roof of the castle in a very nice sunny spot. Through the power of the System and high stats, her body isn’t at risk of failing, currently, though I know that all that fat in her heart can’t be healthy.
+
+I’m about to ask Abby how I’m supposed to inhabit her, but as I think about inhabiting her, I suddenly find myself pulled in her body, and the next moment, I’m yawning and stretching. I try to roll over onto my feet, but the movement proves to be more difficult than usual, for obvious reasons. And when I finally do get to my feet, my belly is almost brushing the ground. I do not like this at all.
+
+Immediately, I siphon off as much fat as I can with Fleshshaped Constructs, and surprisingly, it works perfectly. The skin ends up pretty stretched, but a second of manipulation later, that’s fixed too, and my avatar looks properly normal again.
+
+Ha! Take that, Abby! What happened to no changes?
+
+“This only affects this instance. Any new instance will still have the default Floor 1 Yona.”
+
+Damn. Okay, you’re still fixing this immediately as soon as you can.
+
+“Of course.”
+
+I only spend a few more seconds in this cat’s body before willing myself to exit it. With me gone, the Yona of this Floor regains control, and after taking no more than two seconds to examine her new body, she lays back down and goes back to sleep.
+
+From there, I search the directory for the Named monster, and soon find myself a few kilometers into the forest, staring at an enormous, slumbering boar. Just like the one in the Boar Forest Dungeon, its Name is Menyar, Terror of the Forest, but unlike the real thing, this one is Tier 4. Delicious. I can’t wait to kill and eat it.
+
+My next stop was going to be this “Queen Abby” character, but right before I’m about to fly to her, Abby informs me that the twins are waking up, and that Lauren is mostly recovered. Of course, that doesn’t stop me from checking out Queen Abby before returning, but Abby says that the Dungeon is also about to properly begin, and she wants me to experience the ordinary flow before I explore too much. I weigh my options, but if the goal of the Dungeon is to earn Queen Abby’s favor, I guess we’ll probably be seeing her soon anyway, and I am a bit curious what else Abby has gotten set up here.
+
+“That wasn’t teleportation,” says A as soon as I appear.
+
+“How did you do that?” asks B.
+
+“Uhhhh…” I say. “Well, it’s kinda hard to explain.”
+
+“Where are we?” asks Lauren. “Queen Abby? Did we go to the next Floor?”
+
+“Not exactly…” I say.
+
+Lauren narrows her eyes at me. “You know what’s going on here, don’t you?”
+
+“I do.”
+
+“What is it?” asks A.
+
+“How did we get here?” asks B.
+
+“Hmmm…” I say, rubbing my chin. “Well, I was gonna try to find a way to explain this more tactfully, but I changed my mind. I’m just gonna rip the band-aid off.”
+
+“Band-aid?” asks A, tilting her head.
+
+“This is my Dungeon,” I say.
+
+“Your Dungeon?” asks Lauren.
+
+“Yes. I have a Dungeon in my Stomach.”
+
+The others all stare at me in total silence.
+
+“You know,” says Lauren after a little while. “I’m honestly not even that surprised.”
+
+“Same here,” say the twins at the same time.
+
+“Oh. Well, that makes this a little easier, then.”
+
+“Before I ask anything else, are we safe here?” asks Lauren. “What happened to Joakim and the other undead?”
+
+Abby?
+
+“Yes, you’re safe here unless you start committing crimes or you challenge Menyar. And as I mentioned before, the other undead are in a different instance, so they can’t reach you. And I don’t expect them to solve the Floor any time soon. Only two of them seem to have any true intelligence, and neither of them are really in a state to do much right now. Andala, the Heavy has not entered, but if it does, it will also get its own instance.”
+
+The two with intelligence are obviously Annie and that mage undead whose body Joakim stole. She did seem a little faint when I pulled her in here, so it makes sense she’d need some time to recover.
+
+“Yeah, we’re safe,” I say. “The undead are in another instance, and this Dungeon is a peaceful one. As long as we don’t go poking around in places we shouldn’t, we’ll be fine.”
+
+“Okay.” Lauren nods, then furrows her brow. “In that case, how the hell is this even possible? How long have you had it? What’s serving as the Dungeon Core? Does this place even have a Dungeon Core? Are you the Dungeon Core? And–”
+
+“Okay, hold on, slow down,” I say, raising my hands. “Let me explain. Basically–”
+
+At that moment, the door suddenly flies open, and a young man appears. He looks… ridiculous. Ridiculously handsome, but also ridiculous. He’s wearing a tailsuit and a monocle, like a typical fantasy butler, but he’s also weirdly young, and his clothes aren’t quite right. He can’t be older than 25 or so, and the top of his coat and shirt are unbuttoned, revealing his collarbones. His hair is also a bit too perfect, to the point it’s almost uncanny.
+
+“Oh, good, you’re awake,” he says. “I am Tyler, the butler. Queen Abby was calling for you. I don’t know what she wants with brand new servants, but you’d best behave yourselves in her presence. Now hurry up. We don’t have all day.”
+
+The way he speaks annoys me. He sounds awfully arrogant for someone dressed like that and named Tyler. What kind of butler is named Tyler?
+
+Abby, what the hell?
+
+“What?”
+
+You know what.
+
+I glance at the others, who look just as confused as I am, but I just shrug.
+
+“This is the first time I’ve been here, too,” I say. “Let’s just follow him for now. We have plenty of time. I’ll explain more later.”
+
+“...Alright,” says Lauren.
+
+We follow the “butler” out through the halls to the castle proper, and then up a couple flights of stairs until we eventually reach a set of large double doors.
+
+“Remember,” says the fake butler as he places his hand on the door handle. “Respect. Queen Abby deserves only the best.”
+
+With that, he pushes the door open, leading us into what is apparently a throne room. It’s clearly more of a meeting room, since there are other chairs all around, but there are two main thrones sitting on a raised dais, and on those thrones are a man and a woman. I can only assume they are Queen Abby, and the king, but just like with Tyler, their outfits are… interesting.
+
+Abby, what the hell have you been doing with your internet access?

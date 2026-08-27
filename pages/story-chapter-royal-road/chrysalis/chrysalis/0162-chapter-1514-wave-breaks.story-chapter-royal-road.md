@@ -1,0 +1,93 @@
+---
+id: d6e5c5d8-5b45-5dcc-8052-094c3db29b84
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1514 - Wave Breaks"
+slug: 0162-chapter-1514-wave-breaks
+partOf: chrysalis
+position: 162
+ownLength: 1012
+unit: words
+ownProgress: 1012
+publishedAt: 2025-02-21
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2079831/chapter-1514-wave-breaks"
+royalRoadId: "2079831"
+markedReadAt: "2026-06-29T19:49:01.664Z"
+---
+
+[This… this is remarkable,] Rathwyn tells me, then turns to say something to the goggle-eyed gaggle of mages behind him. They all nod enthusiastically, each jabbering as quickly as the next.
+
+[Why don’t you just hook all of them into the mind bridge?] I ask him, a little exasperated. I’ve been watching him pass on my words for an hour now, and the lack of efficiency is starting to bug me. [You know I’m safe, as far as giant ants go.]
+
+The group is standing inside one of the mighty gates that separates the inside of the fortress from the platforms and intakes outside. They were extremely keen to learn how the safe-zone was created and maintained, and there didn’t seem to be a problem showing them. Just to be safe, I checked with Solant, and she didn’t seem to care, so here we are.
+
+They were fascinated, and somewhat charmed, by the wuffers, happily wuffing away on their platforms, chewing through prodigious amounts of toxic mana without breaking a sweat. Only half of the wuffer platforms in the fortress are active right now, so there’s still a long way to go before this place is running at full capacity, but from what I’ve heard, the core shapers are really cranking them out, so it shouldn’t be long.
+
+[You’re right,] Rathwyn chuckles. [I should connect them up; it would make my life easier, if nothing else. Give me a moment.]
+
+He goes silent for a brief period, and I’m given another opportunity to witness his masterful control of mind magic.
+
+[There, that should have all of us connected. Introduce yourselves, please.]
+
+[I’m Anthony,] I say, giving a wave, [nice to meet you.]
+
+[Englebert.]
+
+[Horatio.]
+
+[Lady Meritious.]
+
+[Camsworth.]
+
+[Kathy.]
+
+These names are all so… wait a second… Kathy?! I stare hard at the woman in question without letting her know I’m staring. Easy to do with eyes like mine.
+
+She seems… a lot more robust than the others, putting it mildly. I think I might have spotted the bodyguard they ‘snuck’ in. The rest of them are as bookish as Rathwyn himself. Certainly more believable that they’re mage scholars.
+
+[Well, welcome to the fortress. I hope we don’t all die in the next few months. Anyone have any questions?]
+
+[How is the fortress defended, militarily?] Kathy asks, folding her arms across her chest, inadvertently showing off the guns.
+
+Sheesh, lady. Don’t make it obvious! Still, there’s no reason to hide it from them.
+
+[Why don’t we go take a look, then?] I say. [Just to check, we’re all comfortable getting a bit closer to the action? Beyond this gate is an active warzone, after all.]
+
+[There aren’t any windows?] one of them, Camsworth, asks.
+
+[Nope. If you want to see it, you’ve got to head out the gate.]
+
+[I’m sure it’ll be fine,] Rathwyn states encouragingly. [Let’s go.]
+
+I give a nod to the gate guards, and they activate the mechanism which opens the massive thing, letting it swing wide enough for me to squeeze through.
+
+As promised, beyond the gate is a scene straight out of a nightmare. There’s a bridge, blazing with light as massive amounts of mana are channeled through it, beyond which stands the platform itself. Tens of thousands of ants and militia hold the line, defending the intakes and holding back the nightmare creatures of the fifth.
+
+The rage-filled screeches of the monsters are near deafening, even from here. Explosions, fire, acid and slime fly every which way. There’s a steady stream of figures moving to and fro between the field hospital set in the centre of the platform. Burned individuals and those contaminated by toxic mana are rushed in to be cleansed before they get sent back out to do it all over again.
+
+Each of the academics has a sickly look on their face as they witness the full horror of the fifth, and even Kathy looks impressed.
+
+[Eight of these with over forty-thousand ants on each of them,] I tell the group. [This is where the mana intakes are located, so without them, the entire fortress would quickly be overrun by the native mana.]
+
+[And you’re going to defend these platforms throughout the entire duration of the wave?] Rathwyn asks shrewdly. [How do you intend to achieve that?]
+
+[With difficulty,] I say grimly. [The fifth has been getting more and more toxic as the concentration of mana rises. There are a lot of plans afoot, but right now, we have to hold with what we have.]
+
+Solant has all sorts of schemes in mind, but they aren’t quite ready to implement. I’m about to turn around and usher the mages back inside the fortress when I first sense the oncoming power.
+
+It’s like a pulse, originating somewhere deep down, perhaps right in the centre of the planet, and it rolls outwards at tremendous speed. I feel it far below me, right at the edges of my mana sense, but before I can even say anything, it’s already on top of me.
+
+The mana around me compresses as that enormous force washes through and races onwards, up and up, all the way to the surface of Pangera. The change is immediate.
+
+The colour of the toxic mana deepens, grows more dense and vibrant, and begins to press in on the safe-zone. The monsters throwing themselves against the Colony’s defenses are thrown into an even greater state of frenzy, their cores overflowing with power.
+
+The wave has finally arrived. The fortress was finished literally a day before it struck.
+
+[If you’ll excuse me, I’ll have to leave you here,] I tell the mages. [I suggest you get back inside. Quickly.]
+
+Even Rathwyn looks a little pale-faced.
+
+[Yes… yes, of course,] he says.
+
+He goes to say something else, but I’m already turning away, snapping off the contact. Good thing I brought them to my platform. Before I even reach the front lines, I have two gravity bombs in the works, crunching the mana down and summoning the power of the altar.
+
+This is going to be awful.

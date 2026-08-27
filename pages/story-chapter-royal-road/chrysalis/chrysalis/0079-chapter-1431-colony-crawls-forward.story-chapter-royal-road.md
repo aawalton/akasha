@@ -1,0 +1,85 @@
+---
+id: 12b460a1-cb47-5af4-807e-420b363e5c3b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1431 - Colony Crawls Forward"
+slug: 0079-chapter-1431-colony-crawls-forward
+partOf: chrysalis
+position: 79
+ownLength: 1018
+unit: words
+ownProgress: 1018
+publishedAt: 2024-10-15
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1851129/chapter-1431-colony-crawls-forward"
+royalRoadId: "1851129"
+markedReadAt: "2026-06-29T19:46:20.452Z"
+---
+
+It was slow at first, but accelerated quickly. The vents, which had been spewing mana directly into the heart of the Colony’s claimed territory and surrounds, reduced their output, and eventually stopped.
+
+Solant was somewhat pleased.
+
+“We return to the standard timetable immediately. I want alternative plans to handle vents within our marked borders drawn up within the hour. Juliant and Subutant, you’re on that.”
+
+“How do you want them handled?” Juliant sought clarification.
+
+“Containment. We won’t destroy something we don’t understand. Trying to do something drastic may well just blow up in our mandibles.”
+
+“Got it, general.”
+
+The two carvers scuttled away to work on designs and plans that could be incorporated into the grander scheme as Solant turned her attention to other matters. They’d been put behind schedule, and in a race against time, that wasn’t something she was happy with. Work had continued, but the expansion and exploration which were such key planks in this scheme were dramatically behind. Currently, the blue mana only covered less than a third of the area required for the safe construction of the fortress.
+
+“Leonidant and Washingtant. I want you to find the Eldest and get them back into the depths. We can’t push deeper without their help, not even remotely as quickly, at least.”
+
+“What about the guardians?”
+
+“If they are willing, they should return to their assigned posts.”
+
+The situation was so fluid and dynamic that perfect information was impossible to come across, but the Colony’s network of runners and mages did their best to relay information straight back to the command post so the model could be updated in as close to real time as possible, moving markers across the enormous, detailed model of the terrain. In many ways, Solant didn’t need it, she saw the whole campaign in her head, just from catching the scent of the updates as they came through, but looking at the model seemed to help her think.
+
+Right now, orders were being sent out to the entire expeditionary force to once more press for expansion. The entire safe-zone was a hive of activity, with ants frenetically running all over the place, reconnecting with their battalions and getting back on schedule. In fact, they had far more antpower than they needed right now. The waves of troops pouring in from the fourth hadn’t ceased for a moment, even though they weren’t able to reach their assignments.
+
+For the time being, they’d been absorbed into the already deployed battalions until such time they could enact their tasks. Throwing more ants at a problem wasn’t always a way to make it go away faster, but it usually helped.
+
+With all of the problems the fifth was throwing at them, having more ants around to push back wasn’t a bad thing in Solant’s book, not at all.
+
+Into the chaos of the command post came two respected figures, just as rushed and hectic as everyone else.
+
+“Ellie, Bella, nice to see you,” Solant greeted them in clipped tones. “How can I help you?”
+
+The two core shapers looked at each other for a brief moment before turning back to Solant and speaking at the same time.
+
+“It’s about the wuffers,” they both said.
+
+“Is it the degradation problem? I’ve been informed of that. Nasty business,” Solant said.
+
+“No,” Bella said, jumping in before Ellie, “it’s about our plan for fusion. We wanted to know if you were willing to go ahead with it.”
+
+“Already?” Solant queried, turning her full focus onto the two. “This is far ahead of schedule.”
+
+“We need more wuffers, and we need them now,” Ellie replied. “It’s the only thing that can get us back on track.”
+
+“But we will suffer a tremendous loss in the short term, correct?” Solant asked carefully. “We will lose multiple tier six wuffers in order to create a single queen.”
+
+“That’s right, but in the long run, a queen will generate more wuffers who will more than make up for the lost capacity…. Eventually.”
+
+“Do it,” Solant said decisively.
+
+“What? Are you sure?” Bella gasped.
+
+“We are here for a long time,” Solant said in a businesslike manner. “The sooner we produce the first queen, the sooner we cross over the mark which accelerates us past our previous pace. Despite the issues we are facing, I will always take a long term payoff over a short term benefit. That’s how we will win.”
+
+“We… we’ll get right to it, then.”
+
+The two core shapers dashed off, and Solant shot them a quick salute before turning back to her work. If they were successful, then the entire operation would receive an enormous boost, with new wuffers being produced on site from the Biomass the Colony couldn’t otherwise use.
+
+“I’ll need to adjust the projections again,” Solant muttered to herself.
+
+With less tier six wuffers right now, that meant the expansion would be delayed yet again in the short term, but accelerated in the long term. The builders would have to focus more on the internal structure of the fortress before finishing the outer layers in a rush, which was basically the opposite of how it had been initially intended to go.
+
+It would be close. If they didn’t finish sealing and enchanting the outer walls of the fortress, then it wouldn’t stand a chance of resisting the wave. The schedule had been pushed right to the brink.
+
+“No problem,” she said and clacked her mandibles with satisfaction. “I like a challenge.”
+
+Back to the model she went, inspecting every little piece of the invasion as it currently stood. In a few minutes, she began issuing orders. A little change here, a little shift there. With the extensive planning and drilling that had gone into preparing the troops, major adjustments were unnecessary and unwanted, but like an artist with a brush, Solant would make a slight touch, and leave behind a picture that was just that little bit more coherent and clear than it was before.
+
+And if she did it over and over again, what would be left behind would be elegant, efficient, and flawless.

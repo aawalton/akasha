@@ -1,0 +1,99 @@
+---
+id: 62c6de16-b5f8-5e45-a133-3a291966b20c
+page-type-slug: story-chapter-royal-road
+title: "152. New Phases"
+slug: 0152-152-new-phases
+partOf: breaker-of-horizons
+position: 152
+ownLength: 2002
+unit: words
+publishedAt: 2021-11-15
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/787443/152-new-phases"
+royalRoadId: "787443"
+---
+
+The next three days demanded more from Caden than the entire term. In the morning, before lunch, the Demiurge spent time going over the questions that Caden had compiled after the previous days' study. Instead of answering them, Caldwell would pose him a series of questions that ended up eventually giving Caden the tools to answer his own original question. Sometimes, it necessitated a little experimentation, so with a tap of his staff, Caldwell would supply a dense sphere of protective arcana right there in the Vault, and Caden would step inside to test things out. By the end of the three days, Caden's theoretical understanding of the arcana hadn't exactly expanded, but he had gained a more nuanced appreciation for how all the things he knew fit together and influenced each other, although the Demiurge was careful to stress that even at this point, he should strive to maintain flexibility in his thinking, because the whole framework of arcanophany was just that — a framework; an edifice put together by people and Fateweavers. It was not itself objective truth, merely a codified set of observations and theories.
+
+In the afternoons, Caden was left to himself to study the Demiurge's notes on the wysana, and the source material. While he didn't entirely trust the Demiurge, Caden didn't think he'd be able to ever make enough progress to reliably cross-check the Demiurge's observations with the source material, so he simply threw himself into the study of the notes. With the help of the morning sessions with Caldwell, Caden was able to piece together more of what he needed to know and understand in order to go about making his own wysana. At this point, he knew it definitely wasn't something that could be done by pure will alone since it involved the use of properly scribed sequences in a prepared space, and it also required the preparation of several artefacts. The difficulty now was in understanding the glyphs to be scribed on the preparation area, and also the glyphs involved in the creation of the artefacts.
+
+The training in the evenings had progressed on an exponential curve of difficulty. After surviving the first night, Caden thought he had a grip on the Demiurge's pace and methods, but the next three nights taught him otherwise. The shield-piercers turned to detonators, and at the latest training session, he had been exposed to a new sequence, which he recognised as a slower version of what Ambrose had used to tear apart the enemy agents that had ambushed them at Devon's home. Instead of ripping him apart cell by cell in instant, it hit him with debilitating pain first and only started taking effect at his extremities, which gave him time to unravel them before they killed him.
+
+Even though his physical injuries and the attendant pain were all flawlessly removed by the Demiurge at the end of every session, he still returned to his dormitory after each session shaking, mostly because of the mental exhaustion. In fact, Caden was starting to understand that it was not exactly mental exhaustion alone. It was his auric-ambient-flare being tested and stretched as his mind held the mental poses necessary to make it work in specific ways as he unravelled hundreds of sequences in succession across a wide area.
+
+If the brutality of the training did not yield any results, Caden might have simply given up. As it was, he could see that he had improved by an order of magnitude, and thinking back over the engagements he had been in before, Caden was very sure now that he would be able to do a great deal more, even against the hostile agents that had posed such a great danger. For the very first time since his arrival at the Academy, he felt combat-worthy.
+
+On their fifth morning, when Caden entered the Vault, he found that Caldwell had moved the tables to the sides so that there was a huge empty space in the centre. A massive sheet of paper was stretched across it.
+
+"What's this for?" Caden asked apprehensively.
+
+"You need space to scribe the glyphs for a wysana," Caldwell said, gesturing at the paper. Today, he was dressed in just a simple white T-shirt and black jeans.
+
+"But I... I don't understand the glyphs yet!"
+
+Caldwell nodded genially. "Yes, but it's time to start working with them. Theory will only get you so far."
+
+Caden frowned and opened his mouth to object since it was absurdly dangerous to work with glyphs if you didn't know what they were doing. But then he remembered that the augera had given the twins a set of glyphs to use on a weapon meant for him, and it hadn't actually done them harm. "What safety precautions should I be taking here?" he asked.
+
+Caldwell flashed an approving smile. "What do you think might be necessary?"
+
+That was entirely expected. Caden hadn't actually been expecting an answer, and the question was directed more at himself.
+
+As long as he didn't feed the glyphs with any arcana, whether by channeling arcana into them or by using a self-fuelling clause, Caden was quite sure that he could safely work with scribing the glyphs. The usual precautions involved separating all the glyphs in a scribed sequence using temporary parentheses — arcanic blockers that would prevent the glyphs from bonding as a sequence.
+
+However, with Caden's ability to access oblivion, he knew these glyphs involved in the creation of a wysana were not like the ones from the Basic, Advanced, or Special sets. They worked in higher dimensions, so the usual protections that worked on the common glyphs might not serve. If he couldn't rely on the normal method of using parentheses, then the only thing that was left to do was scribe them one by one and figure out how to adapt the conventional parentheses to work in the higher dimensions that these particular glyphs also operated on.
+
+"Normal parentheses likely won't be enough," he said slowly. "I'll have to scribe one glyph at a time, then work in oblivion to manually block the sites of connection before I scribe the next glyph."
+
+"Yes. You will be glad to know that there are more artficing tools that will help with this work, but you should not use them yet until you have mastered the fundamentals and fully understand the principles behind how they function." Caldwell pointed at a box on one of the tables. "You'll find the usual tools and ink for scribing there. Ink and paper for now. Once you understand the glyphs better, we'll move on to stone. Then, when you're ready to do the actual work, I'll provide the metals and gems."
+
+"Alright," Caden said apprehensively. "But do we start now? I've still got some questions from yesterday."
+
+"They were mostly about the glyphs," Caldwell said, grinning. "As I said, further discussion of theory will only bring you so far. I'll be with you in the mornings to supervise your practical work with the glyphs, and to make sure nothing goes too badly awry. I won't stop you from making mistakes, however. We'll be proceeding here with the same methodology as our thaumaturgy sessions. If you're not careful, you'll get hurt."
+
+The Demiurge tapped his staff twice, and a protective layer of arcana extended to form a cube, completely enclosing the huge sheet of paper laid at the centre of the Vault.
+
+"Alright," Caden said again, this time with a sigh. He retrieved the box and walked over to the cube. "Uhm, you need to let me in."
+
+Caldwell raised an eyebrow. "You can phase, can't you? Let yourself in."
+
+Caden blinked. So far, he had only ever phased in place. He hadn't attempted to actually move while phased. It was possible in theory, of course, but it had become painfully obvious by this stage that making practical use of all these arcanophanic revelations involved backbreaking work.
+
+He spent several fruitless minutes simply phasing in and out on the spot. Once, he even failed to bring the box with him, but the Demiurge caught it in a cushion of arcana before all the implements spilled out.
+
+"What is the challenge here?" Caldwell asked.
+
+"It's the distance. I don't know how it maps over from oblivion to the physical world. I keep picking myself up, moving forward, and then putting myself down, but I always end up right here no matter how far I think I've moved forward in oblivion," Caden answered, frustrated.
+
+"Doesn't that strike you as odd? From what you described, wouldn't you expect yourself to be phasing forward at different distances instead of simply appearing in the same spot?" Caldwell moved over to a chair and turned its back to Caden. He sat astride it, leaning over the backing. The staff was left standing next to him, completely unsupported.
+
+"Uh... yes," Caden answered, frowning a little. Caldwell seemed to be stating the obvious. "That's what I expect. So... yeah, it's odd. And I'm not sure why it's not working that way."
+
+"Well, you've spent a few minutes throwing yourself at the problem in the same way. What have you learned?"
+
+Caden tried to think, even though he felt a little wrung out by his attempts to traverse oblivion. "Distance doesn't matter there in the same way. So... moving in oblivion probably doesn't translate to any real movement here."
+
+"Does your position in oblivion change when you move here in the physical world?" Caldwell asked lightly.
+
+"Does it?" Caden blinked. "I... actually don't know."
+
+Caldwell gestured at him vaguely, which Caden had come to understand was a sort of general command like "go and try". He bit his lip and took a few tentative steps away from the barrier, then decided that it might be easier if he went further. He walked all the way to the wall, then tried phasing again.
+
+It was, as ever, hard to tell 'where' things were in oblivion, but he did get the distinct impression that he was further away from the barrier that the Demiurge had conjured. Caden returned to the physical world, his eyes burning with excitement as he turned the problem over in his head.
+
+"My physical position affects my oblivion location, which makes sense, of course, because it moves my auric-ambient-flare across the dimensions. It's just that... the dimensions don't map over in quite the same way?" Caden thought aloud. "So how do I move with precision?"
+
+"How indeed?" Caldwell grinned. "Go on."
+
+He thought back to the arena and the last few days of skimming oblivion, leaping from sequence to sequence to snuff out their points of origin.
+
+"I need a target," he said to himself, irritated at how obvious it seemed now. "A point to focus on, made with arcana."
+
+Without waiting for confirmation from the Demiurge, he manifested a simple sphere of arcana inside the protective cube. When he phased into oblivion, instead of trying to slowly shimmy forward like before, he simply willed himself to be at that precise point where he had conjured his orb. Once he was in contact with it, he phased back into the physical world again.
+
+"Excellent!" Caldwell said, clapping. Caden looked out from within the protective cube and grinned. Then, his grin gave way to astonishment as he realised the implications of what he had just done.
+
+"Did I teleport?"
+
+Caldwell blinked, then chuckled. "Not quite the same thing. You phased, which is not teleporting as I think you mean. Keep working at it and you'll come to understand the differences. But for now, let's get back to the work at hand. Start scribing."
+
+Caden stared down at the box in his hands. He wanted to devote more time to phasing because as far as he could tell this was exactly teleporation, but the lure of creating his own wysana was too great to resist. Steeling himself, he took out the ink and instruments he needed, and started on the first glyph.

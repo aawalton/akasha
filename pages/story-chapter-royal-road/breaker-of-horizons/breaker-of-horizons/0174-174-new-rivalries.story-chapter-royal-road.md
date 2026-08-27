@@ -1,0 +1,115 @@
+---
+id: e43e578c-3c4e-5f09-8e9a-0518630cb49c
+page-type-slug: story-chapter-royal-road
+title: "174. New Rivalries"
+slug: 0174-174-new-rivalries
+partOf: breaker-of-horizons
+position: 174
+ownLength: 2217
+unit: words
+publishedAt: 2022-01-31
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/835776/174-new-rivalries"
+royalRoadId: "835776"
+---
+
+Bertram and Caden emerged from the small corner and found themselves stepping out onto the ledge overlooking the entire chamber. There were many smaller structures strewn across the entire battlefield, each roughly the size of the small space the two of them had been enclosed in. Some of these structures were entirely enclosed, others had small rooflights so they were accessible from above, and a few were even completely open-topped. The structures were connected to each other with passageways which were similarly varied in how much cover they provided.
+
+But there wasn't much time for either of them to really scrutinise the state of the field. As soon as they emerged, several more constructs that had been prowling around the rooftops nearby turned their faceless heads towards the pair, and started scuttling along the structures. It was unsettling to watch as these humanoid shapes picked their way across the surfaces with insectile speed and grace.
+
+Bertram swore colourfully and pointed at one of the lower structures which was more enclosed. "Quick, in there, before we draw more of them!"
+
+Despite his size, Bertram moved with surprising agility, and Caden sensed the smooth flow of arcana circulating through Bertram's auric-ambent-flare as he bolstered his movements. Where he lacked the sheer volume and density of Caden's arcanic flow, Bertram more than made up for it in efficiency. Even cursorily, Caden could tell that he was better than even Emilia.
+
+Caden followed as closely as he could as Bertram vaulted over a few low barriers and dove neatly through the opening in the structure's roof. It wasn't tiring at all thanks to the arcanic assistance, but he was definitely clumsier than Bertram. He lost a precious handful of seconds as he stumbled over the last hurdle, and it was enough for the nearest construct to leap forward and grab his ankle. Caden resisted the urge to simply obliterate the thing with his own power, and instead made sure to form a heavy bolt with the battery's available arcana. The construct shattered into pieces as he brought the bolt down on it from above, and it gave him enough time to roll sideways into the opening. He was already drawing on more arcana to hold the gap against the other constructs hot on their tail, but as soon as he was through, the opening sealed itself shut.
+
+"Close one," Bertram said, grinning. He had a hand on the nearest wall, and the flow of arcana told Caden that he had somehow managed to transmute the normally unyielding grey substance of the arena to seal the gap. Caden had only ever seen Ambrose manage that.
+
+"Without the control sphere?" Caden asked, gesturing at the ceiling. "How?"
+
+"It's hard to explain now," Bertram answered with a wink, echoing Caden's words from earlier. "Maybe there's time to swap trade secrets later, eh?"
+
+"Maybe," Caden said, grinning a little despite himself. He couldn't be too free with what he knew, but it was hard to stay aloof in the face of Bertram's affability.
+
+Bertram sent out a little pulse of arcana that reflected off the walls, but it was so subtle that Caden barely caught it since he wasn't paying full attention.
+
+"What was that? Some sort of scanning sequence?" Caden asked, taken by surprise.
+
+This time, Bertram's manner changed a little. He gave Caden a measuring look, then nodded slowly. "Homebrew. Not supposed to be noticeable by anyone else but the user."
+
+Caden gave a weak smile. "Seems pretty sophisticated."
+
+Bertram raised an eyebrow and sighed. "Seems pretty broken if a first-year student somehow picked it up. And you could even tell its purpose."
+
+"Well, I am the Top Scorer of my cohort," Caden said, trying to sound a little indignant. "I'm ahead of my peers. Doesn't mean your sequence is broken."
+
+"Oh?" Bertram's raised eyebrow went even higher and was in danger of vanishing into his hairline. "Well, if you're that far ahead, then we don't need to be so cautious."
+
+"What do you mean?"
+
+Instead of answering immediately, Bertram went to the two doors leading in to the room they were in, placed a palm on the wall next to them, and sealed the openings entirely. "I'll be straight with you. Did you think about what'd happen to the Top Scorer spot now that we're all in the same truncated academic year?"
+
+Caden frowned and shook his head. "Nope. Does it matter? And is this really the best time to talk about it?"
+
+Bertram waved a hand dismissively. "We've got time. We're not the last ones standing yet. Anyway, now we're all technically in the same year, there's only one Top Scorer spot now. And it matters because whoever gets it will have a little bit of leverage."
+
+"Leverage? For what?" Caden asked, confused. As far as he knew, there wasn't any kind of prize for being the Top Scorer beyond the prestige that came with it. In the past it might have mattered because it did mean better job prospects, especially if you were top in your graduating year, but it meant little now that they were all essentially conscripts.
+
+"Ah, dear innocent freshie," Bertram shook his head and smiled, but his manner was more solicitous than condescending. "There's a shadow economy with the Academy at its heart. As arcanists, we can get all sorts of things, from restricted artefacts to banned reading materials. And we can also make artefacts and write homebrew sequences. There's a public out there that is eager to buy what we can get our hands on. Being Top Scorer lets you charge a premium because you can sometimes get your hands on things that normal suppliers can't. Even if what you're selling isn't unique, the Top Scorer brand commands a price of its own."
+
+Caden couldn't quite believe his ears. "Okay... so... how is this relevant now?"
+
+"Well, I was comfortably in the top spot in my year, so I figured my only threats were you and the second-year Top Scorer."
+
+Bertram was still smiling, but Caden felt suddenly quite unsafe. He remained poised between oblivion and the physical world, ready to bring the full extent of his power to bear on any impending threat. "So... if I'm a threat to you, what do you intend to do?" he asked grimly.
+
+"I intend to help you," Bertram said.
+
+"What?" Caden blurted.
+
+"If someone were to take the top spot in a year when all three years are combined, they'd make quite a name for themselves." Bertram shrugged. "I've had two very lucrative years. Holding the title for a third year wouldn't really do much for me. It's more useful for either you or the second-year to get it. And if I help either one of you get there, I figure there's a partnership to be made there with plenty of future payoffs."
+
+"You're being very upfront," Caden said, since he was at a loss as to what else he could say.
+
+"Hey, I said I was gonna be straight with you. Anyway, that's why I approached you. I've gotten in touch with the second-year, too. I'm gonna see how good both of you are and I'll be giving both of you all the help and resources you need to get the top spot. The winner gets a partnership, provided we're on the same wavelength." Bertram grinned. "So, consider this a working interview, if you're interested."
+
+"Let me get this straight. You're basically offering me a spot in some smuggling chain?" Caden asked.
+
+Bertram frowned a little. "That's a huge oversimplification. But I guess that's one way to look at it."
+
+Caden hadn't expected anything like this at all. It seemed remarkable that there could be such a thing right under the Fateweavers' noses. But then, the fact that it did exist meant that the Fateweavers had permitted it. It was hard to believe that the same people who necessitated the Vaults would be okay with forbidden arcanic knowledge being smuggled out of the Academy by light-fingered or overly-enterprising arcanists. Even students! Caden thought he had quite enough trouble to deal with. Being embroiled in an Empire-wide smuggling ring wasn't something else he wanted to add to his plate.
+
+"I'm—" Caden began.
+
+"—not required to give a hasty answer!" Bertram cut in, grinning once more. "I'm just telling you where I'm coming from so you don't misunderstand me. This is more of a free-and-easy sort of thing. I'll be giving you helpful tips and telling you stuff anyway. And if, at the end, I think we're a good fit and you manage to clinch the top spot, I'd welcome you aboard. If not, then just consider me a good friend you can ask to help you find things, or move goods, for a price."
+
+It was incredibly hard to just say no to Bertram. He had such an effusive personality that was more forceful than even Devon, and he wielded it with practised ease. "Alright, fine. Let's see where this goes," Caden said, rolling his eyes a little as Bertram's grin widened.
+
+"Alright! So, prospective partner, if I'm going to help you secure that top spot, I need to know where you currently stand so I can give level-appropriate help to maximise the time we have." Bertram rubbed his chin thoughtfully, then shot an appraising look at Caden. "You sensed my homebrew sequence and could intuit its function, so at the very least that means you're operating at the same level as some third-year students. How about we use Kant's exercise, and you show me just how much you can do?"
+
+If I did that, you'd probably get scared of me, Caden thought to himself. But instead, he said, "Alright, I'll try."
+
+Bertram nodded, now serious. "Kant's not a pushover. The constructs we've met are only one of the threats. My brief scan earlier picked up another type. Bigger, more brutish, but also faster. It was two rooms away, heading towards a cluster of five people, and I doubt they managed to stand up to it. What do you want to do?"
+
+"Which way?" Caden asked.
+
+Caden sensed another pulse of arcana from Bertran before he jerked his thumb at the door closest to them. "Through here. It's moved on, three rooms down now. And yep, the five people are down."
+
+The signature of Bertram's sequence was a lot easier to pick up now that Caden knew what he was looking for and was expecting it. He wasn't entirely familiar with all the glyphs, but he recognised most of them. And in any case, he could operate at an even higher level in oblivion, where he could simply unpack the conceptual framework behind the sequence that Bertram had used. It would take some time for him to learn the sequence for himself, but now that he had seen it properly, he was quite confident he'd be able to recreate it given time, and perhaps even improve it.
+
+For now, though, it was time to push his own limits. How much could he accomplish without making use of more sophisticated sequences? It would be quite an enjoyable exercise. This was almost relaxing compared to the training he had endured with the Demiurge.
+
+"Open it up," Caden said. "We're going to bring it down."
+
+Bertram hesitated. "You know, you don't have to do crazy shit to impress me. Discretion is the better part of valour."
+
+Caden smiled. "I just wanna have a bit of fun."
+
+"Alright then," Bertram said, throwing his hands up in mock surrender before unsealing the door. "On your head be it."
+
+Without waiting, Caden hurtled through the door, relying less on his senses in oblivion and opting to operate more on the arcanic sea and the physical world. The grey matter of the arena was inscrutably smooth at this level, and the constructs were also now shrouded in a murky haze that obscured their exact location. However, he still managed to hone in on the general location of the large construct that Bertram had mentioned. It was coming up against a group of six now.
+
+Caden turned the corner and found himself in a small room with one wall smashed down completely, leading to the 'outside'. The construct was there with its back to Caden. It was still humanoid, but more ape-like in size and stature, with much broader shoulders. Instead of hands, its arms tapered into wedges that looked capable of impaling a human. It was obvious that a direct hit would immediately put a combatant out of the fight.
+
+There were six people spread out in front of it, each in a defensive position behind some rudimentary cover, or else on an elevated platform or rooftop that put some distance between them and the threat. Caden could sense their gestalt in the arcanic sea, a formidable thing with an impressive array overlaid, with its battery humming with power. Caden marked each person as he traced their physical position based on where he sensed them in the arcanic sea, and his eyes widened as he recognised two of them.
+
+"Oy Caden!" Kevan called out from where he stood with his brother, just ten metres away from the hulking construct. The two of them were taking point in the gestalt. "Move along, this one's taken!"

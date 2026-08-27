@@ -1,0 +1,109 @@
+---
+id: 286ef6ed-42e7-58cb-8938-c8787fe59b5f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1447 - An Unusual Medical"
+slug: 0095-chapter-1447-an-unusual-medical
+partOf: chrysalis
+position: 95
+ownLength: 1065
+unit: words
+ownProgress: 1065
+publishedAt: 2024-11-06
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1887585/chapter-1447-an-unusual-medical"
+royalRoadId: "1887585"
+markedReadAt: "2026-06-29T19:47:07.271Z"
+---
+
+Well, this is awkward.
+
+I knew it would be. I mean, obviously, it was going to be awkward, anyone could have foreseen that. But now that I’m here, in the moment, I really wish I hadn’t been so ready to acquiesce to this particular demand.
+
+Anthony of the past, why are you always such a pain in my business zone?
+
+To say the tension is high would be a bit of an understatement. The Legion weren’t permitted to send many soldiers to see me. Four, to be precise. However, Solant, or more likely the council, have seen fit to surround me with several thousand guards in case they try something nefarious.
+
+Bit wasteful, if you ask me.
+
+[Hey there,] I wave an antenna at them. Looks like the commander came, along with her two highest ranking officers and a mage. [How are we all this fine day?]
+
+The commander, decked out in her full Legion armour and looking like she’s ready to take on the unending hordes of the Dungeon, glares at me before she replies.
+
+[Is it necessary that I talk back?] she says.
+
+[Of course it is! I stipulated conversation. CON-VER-SA-TION. That means you have to talk back, otherwise it’s just me jabbering at you!]
+
+[I’m not accustomed to speaking with monsters.]
+
+I bet that’s the understatement of the century. I’d be shocked if she’d ever spoken to one at all. This is the Legionem Abyssi we’re talking about. They don’t exactly get along with creatures spawned from the Dungeon.
+
+[It’s not like a little chat is going to hurt you, is it?]
+
+She doesn’t waver in her steady glare.
+
+[There are creatures in the Dungeon who can invade your thoughts and plant eggs in your brain using a mind bridge and just a few thoughts. It’s one of the most dreadful ways to meet your end in the entire Dungeon.]
+
+[Holy moly! Why would you even say something like that? I feel like my brains are getting itchy just thinking about it!]
+
+Ugh, that sounds awful.
+
+[What stratum do those monsters live on? I don’t want them anywhere near me.]
+
+For once, the Commander smirks, breaking her stiff expression for the briefest of moments.
+
+[This one.]
+
+Well… nards.  Why is it that I suddenly want to leave this place and never come back? Perhaps a vacation in the third is just what the doctor ordered.
+
+[Is that even true, or are you just trying to creep me out as a punishment for forcing you to talk to me?]
+
+[Who knows?] she shrugs. [Surely, a little more time in the fifth will give you the answer.]
+
+[Is she always like this, or just with monsters?] I say, turning toward the two tribunes, giving me an excuse to bring Morrelia into the conversation.
+
+[I’ve instructed them not to reply to you. I’ll be the only one you can engage with your prattling,] the Commander tells me.
+
+How rude. Although…
+
+[So… you’re saying they have to stand there, are forced to listen to me, but aren’t allowed to reply?]
+
+[That’s… correct.]
+
+Oho! Well now. Well, well, well.
+
+[Hey there, bud. How are you?] I say, prodding an antenna toward the male tribune. [I hate to tell you this, but you absolutely stink. Ants have incredibly fine senses of smell, surely you’re aware, and I have super, super sensitive antennae. Being frank, you smell like dead plants and whale vomit. If I were you, I’d run to find a bath or something to get rid of the stench immediately. Sadly for you, there’s no choice but to stand here, surrounded by several thousand ants who all think you stink.]
+
+I point at a nearby soldier.
+
+[See how she’s standing a few steps further away from you than that one over there is from the Commander? It’s the stink. Your stink. You smell so bad you’re making an ant compromise on their duty. I cannot tell you just how rare a thing that is. It’s like you smell so bad that water ran uphill just to get away from you.]
+
+Now, is it true that he smells like perfume? Yes. Is it offensively strong? Also yes. Is it as bad as I’m making out? No.
+
+But it’s funny to watch him squirm. This guy is getting progressively more uncomfortable as time passes, and his eyes have started tracking the ants around him against his will, as if wanting to see if they really are avoiding him.
+
+Gweheheheh.
+
+[Are you quite finished?] the Commander demands, irritated.
+
+[I could literally do this all day.]
+
+[I couldn’t. Can we be done with our business so that I can go kill some Dungeon spawn?] She rolls her shoulders. [I feel as if I need to work out some tension.]
+
+[Can’t imagine why. Alright then, I’ll let you off the hook easy today. What do you need?]
+
+[Our mage will simply need to approach you. They won’t examine your core, but they will be able to use their Skills to glean information about you.]
+
+[Some sort of Dungeon Seer nonsense? Fair enough, let’s get this done.]
+
+The Legion Mage, to his credit, doesn’t appear nervous at all, striding towards me with confidence. The ants are extremely tense in this moment, but as far as I can tell, nothing really happens. The guy walks up, holds out a hand and closes his eyes for ten seconds, then nods, turns around and walks away. I wasn’t able to detect anything happening at all, not a whiff of mana or energy in any form.
+
+[That’s it?] I ask, a little surprised.
+
+[That’s it,] the Commander confirms. [Now if you’ll excuse us, we will head to our designated tunnel and start fighting.]
+
+[Hey, good for you. Hope it all goes well.]
+
+She cuts off the contact with what I can only describe as an unnecessary amount of force before turning away and marching off with her fellow soldiers in tow.
+
+I’m not exactly sure what I expected, but I don’t think that was it. Still, to get the Legion in here helping with the assault, it’s a small price to pay. They might not contribute as much as they could if they really wanted to, but having a couple of tunnels locked down by the premier fighting force in the Dungeon brings me a little peace of mind.
+
+Even if they are here to kill me.

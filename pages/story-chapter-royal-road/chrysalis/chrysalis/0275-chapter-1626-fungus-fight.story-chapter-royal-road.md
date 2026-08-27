@@ -1,0 +1,61 @@
+---
+id: f5bf3fd3-c586-568f-8d5f-9a8daac22221
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1626 - Fungus Fight"
+slug: 0275-chapter-1626-fungus-fight
+partOf: chrysalis
+position: 275
+ownLength: 956
+unit: words
+ownProgress: 956
+publishedAt: 2025-08-19
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2529551/chapter-1626-fungus-fight"
+royalRoadId: "2529551"
+markedReadAt: "2026-06-29T19:52:36.676Z"
+---
+
+Leeroy was enjoying the battle, an emotion she usually didn’t get to experience. For the most part, the Immortals didn’t get to fight like this. They usually charged until they got bogged down, then slugged it out with whatever they were against, right up until their Phoenix Fire Organs kicked in and healed them, allowing them to get stuck in all over again. At this point, most opponents found they’d had enough.
+
+The unusual terrain in the heart, along with the massive weight of the Immortals’ armour, meant that they were fighting in very short bursts, followed by a great deal of climbing. Was the climbing all that enjoyable? No, of course not. Leeroy was on her third climb at the moment, and her poor legs were struggling.
+
+Yet, she was still having a good time. After all, there was something about throwing herself at an enemy, dragging them from their perch and pulling them down to their doom. Then doing it again. And Again!
+
+By this stage, the joints in her legs were aching fiercely, but the pain in her limbs was not enough to stop Leeroy from doing what she loved, and she knew the rest of the Immortals felt the same way.
+
+Cleansed mana continued to fountain out of the vents, filling the heart, and the Krath were being forced higher and higher. It wouldn’t be long until they were out of this chamber entirely.
+
+Leeroy supposed that was a good thing, but she couldn’t help but feel a little cheated that they were getting further and further away. The fall was more exhilarating the higher up she started, but the climb back up was only getting longer.
+
+“Hurry sisterrrrrrrr,” a falling Immortal called out to her as she plummeted from above, a thrashing beast trying to throw her off.
+
+“I’m working on it,” Leeroy grumbled, hauling herself up another few metres.
+
+She should have worked on her Grip Skill a little more. How was she supposed to know that she’d be required to climb while wearing full armour?!
+
+“I don’t suppose you feel like helping?” she asked her fungal passenger.
+
+The Zombie fungus didn’t respond, not that she’d expected it to. In truth, Leeroy wasn’t entirely sure how it worked. Clearly the fungus had some sort of mind of its own, otherwise how could it take over when she ‘died’? They were in some sort of symbiotic relationship, but how much they could actively cooperate, she didn’t know. The fibres that had spread throughout her body and carapace didn’t impede her in any way. In fact, they seemed to have strengthened her, if anything, but she couldn’t actively command them to do anything.
+
+She did have a sense of the spores that had been spread all through the heart, however. They clung to every enemy now, subtly sapping their strength, ready to be recalled once she ‘died’. It gave Leeroy an odd sense of comfort, knowing that she could go all out, even to the point of death, and still her body would fight for the Colony. The final twinge of guilt for disagreeing with the Eldest that she may have felt when stuffing herself into the waiting maw of an enemy monster was now gone. A freeing sensation.
+
+Step by painful step, she continued to claw her way up the wall of the heart. It was taking time, but she was getting closer. She could already see her target. Those snails had been a right pain in the backside, taking potshots at the Immortals as they climbed, and they’d combined their efforts to smash the root not long ago. One in particular, fatter than the others, had caught Leeroy’s eye.
+
+Her aim was to climb above it, then launch off the wall and carry the creature off its perch. The two of them would fall hundreds of metres down to the rising liquid mana, thrashing and fighting each other the whole way down.
+
+It would be glorious! All she had to do was get there.
+
+A few more painful steps and Leeroy halted, digging her mandibles into the wall as she shook out her legs one at a time, trying to loosen up her joints. Interestingly, she didn’t even consider taking her armour off; it was almost a part of her at this point, just as much as the fungus was.
+
+The sludge barrage came as a complete surprise to Leeroy. She’d made herself a stationary target, and probably should have seen it coming, perhaps she was a little too comfortable. Regardless of the reason, several of the snails targeted her with a devastating barrage, and Leeroy was caught entirely unawares.
+
+The searing acid and corrupting mana ripped into her body, leaking through her armour and nearly knocking her clear off the wall. If she hadn’t locked her mandibles in the flesh, she would have fallen, which may have saved her as the cleansing mana below would have washed away the corruption.
+
+But it was not to be. Leeroy held on as long as she could, but she could feel her life fading, her thread being pulled so thin it was about to snap.
+
+There was nothing she could do.
+
+As she drew closer and closer to death, she could feel something stir within her. The Zombie Fungus was coming alive. It called out to the spores, who responded in their billions and trillions, drifting back towards the host, carrying tiny motes of vitality with them.
+
+As she faded into oblivion, Leeroy could feel the fungus rise to full wakefulness, turning its alien savagery against the filth that had dared to invade the host, pulling the body back together and driving out everything that contaminated it.
+
+And then, she was gone.

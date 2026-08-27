@@ -1,0 +1,81 @@
+---
+id: 4e4312de-99de-50c6-9b2c-8199bfdaa2f7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1443 - An Unusual Meet and Greet"
+slug: 0091-chapter-1443-an-unusual-meet-and-greet
+partOf: chrysalis
+position: 91
+ownLength: 1063
+unit: words
+ownProgress: 1063
+publishedAt: 2024-10-31
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1876566/chapter-1443-an-unusual-meet-and-greet"
+royalRoadId: "1876566"
+markedReadAt: "2026-06-29T19:46:55.110Z"
+---
+
+“Tribune Morrelia, Tribune Joshen. I trust you are prepared for our upcoming engagement?”
+
+Morrelia just nodded, but Joshen snapped out a salute.
+
+“Of course, Commander. Your briefing was very thorough.”
+
+Arrayed in his spotless dress uniform, her fellow Tribune was, as usual, the very picture of a dedicated officer. Morrelia, on the other hand, had just come from the field, and she looked like it. Chyron gave her a critical glance, but she just shrugged carelessly. The ants absolutely wouldn’t care what she looked like. What she smelled like was much more important.
+
+Judging from the faint whiff in the air, Joshen was wearing some form of scent, and she couldn’t help but wonder what the ants’ reaction might be when they detected it.
+
+For her part, the Commander was, as always, wearing her armour, fully armed, her helmet tucked under one arm and glaring. In truth, it was difficult to say she was glaring, since that was her usual look. Morrelia had only seen the Commander angry a few times, but on those occasions, her normally severe expression turned positively thunderous.
+
+Right now, the Commander was definitely tense. The Legion had given approval for them to work with the ants during their assault on the fifth, but critically, the Colony itself had to approve. It had been surprisingly easy to arrange a meeting, but they’d been made to wait until they were to speak to someone with… the authority to agree to their participation.
+
+Now, it was time for the meeting to take place, and they were about to depart from the Legion camp, which had already begun being struck.
+
+As Chyron stepped outside, Morrelia and Joshen fell into position behind her, matching her stride and staring straight ahead, even as they scanned their surroundings. Alongside them, twenty fully armoured Legionaries were arrayed, stomping in unison as their magically enhanced Abyssal plate boosted their physical strength.
+
+Not far outside their camp, they found a gathering of ants, no more than a dozen, which was unusual. This deep in the Dungeon, the ants usually moved in groups of several hundred. Morrelia had seen their patrols with her own eyes, swarms of ants who moved as if they had a single mind.
+
+No words were exchanged, the ants simply turned and began to walk, matching pace with the Legion as they travelled. It wasn’t hard to interpret their intention: follow us.
+
+After eyeing the Commander, who gave a subtle hand gesture, the soldiers and officers fell in line, walking at a brisk pace, weapons drawn and ready for battle at any moment.
+
+It was the only intelligent way to move this deep into the Dungeon. Although there hadn’t been any spawns expected along this path, it never hurt to be cautious. Even Dungeon Seers could be wrong.
+
+They were headed towards the entrance to the fifth, of course, and as they approached, Morrelia was shocked by the continued transformation of the area. When last she’d been here, the Colony had been busy moulding it into the staging ground of the invasion, a process that had only continued. It was enormous. Part fortress, part nest, part supply depot, part industrial manufactory.
+
+The number of ants was staggering, and the stream of traffic leading to the massive rampway that likely ran to the heart of the mountain above, and its gates, was eye-boggling. The ants were packed together so thickly they looked like merchant carts packed on the road in front of an inspection point, except the ants were actually moving. Tens of thousands of them going up or down at any time in a constant stream.
+
+Fortunately, they weren’t required to step right into the heart of the fortress, something even Morrelia felt uncomfortable about while travelling with so many of her fellow Legionnaires.
+
+The ants leading them came to a halt, and so did they. Shortly after, they were approached by a much larger group of ants. Several thousand, in fact. The tension among her fellow soldiers ratcheted up significantly, but the Commander showed no change in demeanour, merely watching it all take place with a critical eye.
+
+Solant was there, in the heart of the formation, the little general instantly recognisable from her diminutive size and the scale of her presence. Morrelia understood why they were being so careful. This was the general charged with managing the entire campaign; of course they would be reluctant to risk her.
+
+The two groups were still separated by over a hundred metres when Solant and her entourage came to a stop. Not an overwhelming display of trust, but sensible on the part of both sides.
+
+The Legionaries were tense, she could see it amongst the ranks, and no doubt the ants felt the same way, though there was very little to give away how they were feeling. Both sides stood still, waiting, though for what she wasn’t sure.
+
+From behind the ants, a human came running, an enormous young man with a similarly large axe strapped to his back.
+
+“Sorry!” he called as he came to a stop beside Solant. “I mistimed my sleep.”
+
+Commander Chyron frowned severely, and Morrelia felt compelled to step forward and whisper in her ear.
+
+“It’s culturally important to the ants to get enough sleep. They won’t disturb someone who’s resting if they can help it.”
+
+If anything, that only caused Chyron to grow more irritated, and Morrelia understood why. She was probably thinking the ants didn’t consider this important enough to wake their translator.
+
+The young man in question was busy nodding and rubbing the back of his head as the ants no doubt berated him for his lack of timing. She wondered which mage was communicating with him.
+
+After a minute, he stepped a little closer to the Legion and executed an awkward bow.
+
+“Hi. I’m Jern. I’ve been asked to translate for you. I’ll pass your words onto Solant. So you can… say what you want.”
+
+He was clearly uncomfortable having so many eyes on him.
+
+“You’ll pass on my words?” Chyron asked him. “How? You don’t look like a mage to me.”
+
+“I can talk using scent, like the ants do, thanks to my Class.”
+
+Chyron’s eyes narrowed, doubtlessly curious about exactly what Class this was. He didn’t look like one of the ant priests, that was for sure.
+
+“Very well. Let the general and I talk.”

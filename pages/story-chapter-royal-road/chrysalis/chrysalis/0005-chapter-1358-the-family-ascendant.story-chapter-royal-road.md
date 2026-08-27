@@ -1,0 +1,97 @@
+---
+id: b249848b-ac22-5712-a674-ec588353833b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1358 - The Family Ascendant"
+slug: 0005-chapter-1358-the-family-ascendant
+partOf: chrysalis
+position: 5
+ownLength: 1080
+unit: words
+ownProgress: 1080
+publishedAt: 2024-06-20
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1684763/chapter-1358-the-family-ascendant"
+royalRoadId: "1684763"
+markedReadAt: "2026-06-29T19:43:48.803Z"
+---
+
+It’s nice to have the full council around. How long has it been since I saw them all together in one place? Even Antionette and Victoriant are here, now majestic tier six queens, with huge gasters for generating many, high-quality eggs.
+
+It’s actually the two Queens who speak up next.
+
+“Things have been going well up there,” Antionette tells the Council. “We’ve expanded to over twenty antcademies, with satellite nests built around each of them in the second stratum. However, we are beginning to push against claimed territory.”
+
+“Haven’t we taken a lot of ‘claimed territory’?” I ask.
+
+“We have, but that was claimed by independent city states, which are now part of the Colony.”
+
+Good for them.
+
+“We are now brushing against parts of the Dungeon claimed by the major powers, and we don’t want to antagonise them.”
+
+I mean… we could…. No, that’s probably a bad idea. Prosper in peace. This is the way.
+
+“How are the…  uh… former independent cities doing? They’ve come into the fold alright?”
+
+“Well…” Victoriant shifts a little uncomfortably. “For the most part, yes, but the cities who were… persuaded… by the crusade…”
+
+Good lord. What did those crazy priests do in there? Are those people suffering from trauma? Do they resent their ant overlords?
+
+“What’s the problem with them, Victoriant?”
+
+“They’re just very enthusiastic. Several of them were almost depopulated due to the residents volunteering to become soldiers in the Colony.”
+
+Oh. So… the opposite problem. How the heck did that happen?
+
+“Alright then. So, things are going well up there, I guess. How about the Antcademies? How are they running?”
+
+It’s a good time to ask, given we have the architects of the entire program right here with me. Theresant and Florence are in attendance, each of them resplendent, tier five Brood Tenders, emitting a soothing aura that refreshes all of us.
+
+Florence happily opens up, clacking her mandibles with obvious joy.
+
+“We’ve made great strides in streamlining the rearing and education process. A thorough exploration of the various Skills and mutations that affect education and growth have resulted in us uncovering what we believe to be the best possible combinations. A fully grown hatchling has a significant statistical advantage over where they used to be, and their builds are much more refined.”
+
+“You still ask them what they want to learn, right? You don’t just force them to become whatever we need?”
+
+“Of course we don’t, Eldest, but when we ask them what they want to be, the first question they ask is what we want.”
+
+Obviously, they’re ants.
+
+“You can’t just fold at the first obstacle! You’ve got to push a little harder than that!”
+
+“We do, of course. Usually, this results in them trying to divide themselves up according to what they think the Colony needs. They get quite grumpy about it.”
+
+Damn hatchlings. Accept freedom, dammit! I might have to chalk it up as a lost cause. Trying to get them to choose their own path in life seems pointless when they can’t really be happy unless they feel like they’re contributing to the family anyway. I wanted them to learn they could contribute to the family as well as choose their own path, but it doesn’t seem to be sinking in.
+
+“And how are the Brood Tenders handling things? No problems? You have enough numbers?”
+
+“It’s been very busy,” Theresant says, without seeming tired at all, “but things are starting to slow down a little now. There’s less expansion happening in the first and second stratum; with less new nests being built, we aren’t having to establish new antcademies or brood rearing chambers. So, things are going very well.”
+
+Of course they are, you guys get to tickle the grubs all day long! I’m so jealous! How could you possibly be stressed!?
+
+“Well, that’s wonderful to hear. I almost hesitate to ask, but how many students are we graduating each week? Or are the hatchlings being produced on a monthly basis?”
+
+“No, they are still being hatched weekly. It’s difficult to say, but across all of the nests, we are graduating close to one hundred thousand students a week.”
+
+HOLY MOLY.
+
+No, it’s fine. I’m cool. It’s cool. That’s over five million a year. Five million of the most prime, primo ants this Dungeon has ever seen. That’s… a lot.
+
+“What about egg production and education in the third and fourth strata? We’ve captured a fair bit of land in the third. In the fourth, we have… this single mountain, but there’s already a nest here.”
+
+“We aren’t sure about that. There are Queens creating brood in the third right now, and The Queen has just moved here, but we aren’t sure what effect the overly thick mana in the lower levels will have on the young.”
+
+“That’s a good point, we should figure that out before we do too much. I like the caution in this instance.”
+
+Now I guess we can move to the big ticket item.
+
+“It’s no secret that I have a big project on the go right now. Fully cleansing the fifth stratum in order to allow for the Colony to make our way deeper into the Dungeon. It’s not going to be easy, obviously, but if we can do this, we will shock the entire world and put the Dungeon on notice. Everyone will have to accept that we, the Colony, mean business.”
+
+Advant leans forward in her chair.
+
+“That sounds nice and all, Eldest, but I don’t think that’s the real reason you want to do this.”
+
+“Of course not. If they capture one of us, they can corrupt us with their evil goo and make an entire colony of evil sludge ants. We don’t have a choice but to remove that possibility from the Dungeon completely.”
+
+The rest of the Council don’t really care about impressing the other empires of Pangera. Nor do they think it important to get them in our debt or any such thing. When I mention eliminating the chance of our siblings getting corrupted, they are completely bought in.
+
+“It’s going to take a ton of resources. I want to emphasise that we need to ensure we aren’t shortchanging any of our other projects. Having said that, what we can spare, I want to put towards this. We are still in the opening stages, gathering information and testing potential solutions. When we sort things out, the call will come, and everyone needs to answer.”

@@ -1,0 +1,95 @@
+---
+id: aac77049-9255-52b3-8425-e6dc35aeb26f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1492 - Commander, Meet Goszi"
+slug: 0140-chapter-1492-commander-meet-goszi
+partOf: chrysalis
+position: 140
+ownLength: 1083
+unit: words
+ownProgress: 1083
+publishedAt: 2025-01-22
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2022832/chapter-1492-commander-meet-goszi"
+royalRoadId: "2022832"
+markedReadAt: "2026-06-29T19:48:19.672Z"
+---
+
+The Legionary Commander and the Krath glared at each other, each wishing they could destroy the other, while Solant stood to the side, observing their interactions calmly.
+
+[I refuse to say a word in the presence of this metal-clad usurper,] Goszi hissed into the general's mind. [Get rid of her immediately.]
+
+Solant clacked her mandibles, somewhat amused.
+
+[Do you think I am here to question you? That is not the case.]
+
+Goszi narrowed his eyes, turning his glare onto the ant as his mind buzzed with possibilities. Were the Legion the true architects of the invasion? Had they finally stepped forward to claim credit?
+
+If so, he would rather die than talk. Goszi wanted to live, of course he did, but even he had his limits. Spill the deepest secrets of the Krath to their most hated enemies? You may as well have him talk directly to the tree!
+
+He wouldn’t do it.
+
+Chyron also turned her ire-filled gaze toward Solant.
+
+[Do you really think if you treat a Krath nicely, they will reciprocate with kindness? They eat each other as a way to prune the weak. There isn’t a shred of kindness to be found in them. They are more monster than sapient.]
+
+Even Solant couldn’t let that pass.
+
+[Almost as if being born naturally or from the Dungeon has no bearing on character,] she chided the Commander, who didn’t take back her words. Not wanting to quarrel, Solant moved on. [No, being kind to Goszi will not elicit his sympathy or respect. By the same token, being cruel and administering pain will only cause him to withhold from us, or begin to lie. In order to persuade him to share, we have to give him something he values. Only then can we threaten to take it away.]
+
+Chyron frowned. It was probably impossible to cause enough pain to a Krath to make them speak. They lived with acid burning within their bodies every second of every day. Pain was nothing to them, a constant companion from the moment they were born to the moment they died.
+
+[You really think you can extort information out of this creature with tea and biscuits?]
+
+[We will soon see.]
+
+[Have you finally decided to reveal your true masters?] Goszi spat at Solant. [This whole invasion has been the work of the Legion all along!]
+
+Now the general turned back to the slug, waggling her antennae.
+
+[You believe the Abyssal Legion has created an army of monstrous ants and joined forces with the bruan’chii to wage war on the fifth?] she asked.
+
+She let the absurd question hang between them, raining ridiculousness down on Goszi’s head.
+
+When he considered it, what Solant said made sense. The Legion would never do such things. The Legion wouldn’t cooperate with monsters or bruan’chii in any way, and yet, they were here! There was a Legionary Commander standing next to a monster staring daggers at him right this moment!
+
+This had to mean something, a play by the real puppeteers, but for what? Perhaps they were trying to tip him off balance, rile up his anger by parading this hateful sack of meat in front of him. Or was it misdirection? Perhaps the Legion really was in charge, and this was just to make him think they weren’t! Still… would they really abandon the principles they had held onto for thousands of years?
+
+The more he tried to read the situation and find the deeper layers of meaning, the more he became tangled in his own thoughts. Whoever was pulling the strings was a mastermind, hinting at things but never revealing, leaving Goszi in a web of illusions.
+
+[What do you want, bringing this… person here? All you have done is stir my hatred,] he declared probing for a response.
+
+As always, Solant was unperturbed by the words of the slug.
+
+[I don’t want anything. I don’t expect anything. I don’t need anything,] she replied. [You assume that this is about you, but why would that be the case? We may be here for the Commander, or perhaps in the service of our unseen ‘masters’?]
+
+The slug glared at Solant, who looked back placidly, unresponsive in the face of Goszi’s rising fury.
+
+[Do you think this will bait me into revealing something I shouldn’t?] he sneered. [I am less likely to talk now that you’ve shown how closely you are working with my enemies.]
+
+Solent waved her antennae thoughtfully.
+
+[Goszi, I shouldn’t have to remind you that we are your enemies, yet you propose to work with us just fine. If you truly feel that you don’t want to divulge any information… then I’m afraid we may need to consider cancelling afternoon tea today.]
+
+Goszi frowned, looking at the ant monster askance.
+
+[You’re… cancelling tea?] he queried.
+
+Solent nodded.
+
+[Yes. It is difficult to bring tea and biscuits down into the fifth; there is a limited supply, as I’m sure you understand. If you refuse to cooperate with us at all… then I’m afraid it is difficult to justify providing you with such rare commodities.]
+
+Goszi laughed in her face.
+
+[I was expecting threats from you, but this is what you choose to threaten me with?] he mocked. [I have lived most of my life on slime and rotten meat. You won’t pry any knowledge from me with a few of these… biscuits.]
+
+[As you say,] Solant acknowledged, then cut him off, turning to Chyron. [As you can see, we have not misled you. We have a captive, there he is, and we are working to extract what reliable information we can in our own way.]
+
+[Do you think you will be successful?] Chyron growled, still staring at the hateful slug. Seeing a Krath like this was a first for her, trapped and helpless, unable to escape her glare. [If you need assistance, I know how to make them fear.]
+
+It wasn’t something she should have offered, which she realised immediately, but found she wasn’t prepared to retract her words. Yes, she could inflict horrors on this Krath, and would gladly do so.
+
+[That will not be necessary,] Solant informed her, before gesturing that they should leave the small viewing chamber. [I believe there is nothing to be gained from having you and Goszi glare at each other any further. Let us leave.]
+
+[So you gained something from this meeting?] Chyron asked as she turned and stomped out.
+
+[I believe so, yes,] Solant said with satisfaction, her many-lensed eyes gleaming.

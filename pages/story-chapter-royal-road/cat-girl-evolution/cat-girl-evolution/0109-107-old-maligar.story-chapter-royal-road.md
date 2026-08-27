@@ -1,0 +1,205 @@
+---
+id: 66e5f6f2-471a-5071-82a1-4a981c787bed
+page-type-slug: story-chapter-royal-road
+title: "107 - Old Maligar"
+slug: 0109-107-old-maligar
+partOf: cat-girl-evolution
+position: 109
+ownLength: 2649
+unit: words
+publishedAt: 2026-03-31
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3213383/107-old-maligar"
+royalRoadId: "3213383"
+---
+
+[ In their ignorance, the people of Maligar unwittingly Awakened the Sacred Mali Tree. This was their first mistake, but far from their last. ]
+
+[ Dungeon Challenge: Witness the end of Maligar ]
+
+[ Floor Challenge: Find out why the Sacred Mali Tree was not killed after its Awakening ]
+
+The second Floor starts almost the exact same way as the first, except for one key difference. The glass dome in the center of the castle that was once clear now has branches visible through it. The tree has gotten taller. Other than that, though, the city is more or less identical. It’s even full of people.
+
+“Wait, I thought people only lived on the first Floor?” I say.
+
+“They do, as far as we’re aware,” says A.
+
+“Which means those aren’t people,” says B. “They’re homunculi.”
+
+“Homunculi?”
+
+“Artificial people,” explains A. “They look, feel, and if made properly, act like humans, or whatever else they are made to look like. But they are not real.”
+
+“They lack souls,” continues B. “Their memories are artificial. They are barely more than advanced flesh golems.”
+
+“They are common in both Challenge and Story Dungeons.”
+
+“And very occasionally in Tower Dungeons.”
+
+“Huh. I see.”
+
+Abby, can we make homunculi?
+
+“Yes. In fact, I am already doing that.”
+
+Woah, you’re on top of things.
+
+“I am your butler.”
+
+Yes, you are! And of course my butler should be the coolest and smartest and best!
+
+“Thank you.”
+
+Now, make a chef homunculus that gives me free food!
+
+“…As you wish.”
+
+Why the pause?
+
+“I was just copying you.”
+
+What?
+
+“Pause. Paws. Get it? Because you’re a cat.”
+
+Booooo. When did you learn to make bad puns?
+
+“I’ve always nyown.”
+
+Never say that again.
+
+“As you wish, Your Highness.”
+
+I tune back into the conversation between my minions, which has moved on a bit without me, but I manage to get the gist of it. Lauren and the twins are talking about how the homunculi are probably replicas of real people from back when they were alive. In that case, that means that the Floor Challenge probably involves talking to the homunculi, and solving the mystery that way. It probably doesn’t involve any combat. And in that case…
+
+“–make a plan and– Yona, what?!” Lauren suddenly cuts off mid-sentence as I switch to my cat form and jump into her arms.
+
+“We’re gathering information, right?” I ask. “Would that not be easier for me to do in this form?”
+
+Lauren struggles for words for a few seconds before sighing, and shifting her arms to make my position a bit more comfortable.
+
+“Alright, sure,” she says. “Anyway, as I was saying…”
+
+She and the twins go back to making a general plan, which mostly just involves some contingencies and whatnot. The twins bring out some emergency beacon stones and hand three to each of us. Supposedly, infusing mana into it will make all the others light up, and the others will be able to follow the connection to the originator. All three are different colors, green, yellow, and red to denote different urgency levels. Annoyingly, they reversed the colors for some reason, so red means “come when you can,” and green means “If you don’t come right now, I’m gonna die,” with yellow being right in between. I make Abby remember that for me as soon as I hear it because I know I’m gonna screw that up.
+
+Based on the sun, it’s around noon, so we all agree that once we get into the city, we’re gonna find an inn or something, and then split up to look around, and we’ll meet back at the inn at sunset. That should give us plenty of time to at least get a feel for how the city works. We already know the general layout from our wandering yesterday, so now that the city is—theoretically—historically accurate, we just need to figure out who the important people are, who has control over the tree, and why they haven’t killed it yet.
+
+That all sounds good to me, so I just store my beacon stones away and nestle into a more comfortable spot as we start moving. As we walk, I look up and notice Chad staring at me. I stick my tongue out at him. He frowns and looks away.
+
+When we reach the gate, we are stopped by two armored guards. They look kind of intimidating, but they’re also smiling and relaxed.
+
+“Welcome to Maligar, travelers” says one of them. “Do you have your toll fee ready?”
+
+“Uhhhh…” says Lauren.
+
+At that moment, the guard freezes, then rapidly blinks, then turns back to normal.
+
+“Thanks for coming prepared! You’re welcome to enter. Enjoy your time!”
+
+We all glance between each other, then enter after a round of shrugs. Having to pay a toll in a currency that probably no longer exists would have been weird, but it looks like the Dungeon Core thought of that, and made sure it wouldn’t be a problem.
+
+Still, that was weird and mildly unsettling. I know they’re homunculi, but honestly, if I didn’t know that, and I didn’t see that weird spasm thing, I probably wouldn’t have known. Their bodies are all completely human, and even their Namecards don’t show anything weird. Those two both had names and Classes and levels, just like any regular human. And so does everyone else here.
+
+As we walk through the streets, I check the behavior and Namecards of everyone we pass, but there’s nothing strange about them. The adults behave like adults, the kids behave like kids, the elderly behave like elderly… In the distance, I can hear a young couple flirting, and an older couple bickering. I can hear a merchant haggling with a customer, and an older brother telling his younger brother not to tell their mom whatever the older brother just did to make the younger cry. I can hear the skittering of paws on stone as a cat chases a rat through an alley.
+
+For a moment, I am hit by an intense wave of something similar to vertigo. It’s a good thing Lauren is carrying me, because I probably would have lost my balance. The city feels so alive, but it’s not. None of these people are real. They’re basically just robots following some programming. Robots that look and act exactly like real people, and are even based on real people. Real people that are long dead.
+
+“This feels weird,” Lauren mutters.
+
+I merely nod in affirmation as we continue through the city. The twins stop for a moment to ask a local where the nearest inn is, and a few minutes later, we arrive. It’s in the same building that we stayed at in the first Floor, which is a weird, but not actually unexpected coincidence. Who would have thought that the building originally built thousands of years ago to be an inn would make a good inn?
+
+We get three rooms, one for Lauren and I, one for Chad, and one for the twins. Then, after checking in, we all gather in Lauren’s room to discuss next steps.
+
+“These people are really all homunculi, right?” asks Lauren as soon as we all sit down.
+
+“Yes,” say the twins at the same time.
+
+“This is so weird.”
+
+“Yeah, I don’t like it,” I agree. “It’s creepy. I’d honestly like it better if they all acted like robots.”
+
+“Robots?” asks A.
+
+“What are those?” asks B.
+
+“Uhhh, golems. I meant golems. Like if they just acted less like people. It would still be creepy, but the creepiness would be obvious instead of subtle.”
+
+“Yeah…” says Lauren.
+
+“But it doesn’t really matter,” I say. “We just need to figure out the Floor Quest, and then we can leave.”
+
+“Right,” says Lauren, shaking her head to clear it. “I think we should split up.”
+
+“We agree,” say the twins.
+
+“Me too,” I say.
+
+Chad just nods.
+
+“Then that settles it,” says Lauren. “Meet back here by sunset. And Yona, take those stones out of your spatial storage so that the message can actually get to you if they’re needed.”
+
+“Oh, yeah, whoops.”
+
+Wait, but how do I carry them?
+
+“Pockets.”
+
+I don’t have pockets.
+
+“Make them.”
+
+Make pock–? Holy shit, I can make pockets! I never even thought about that!
+
+“Gimme a second,” I say aloud. “You guys can head out. I need a couple minutes.”
+
+With the others all gone, I start working with Fleshshaped Constructs to make flesh pockets on my body. It turns out to be pretty easy, actually. I just need to stretch the skin and fur out a bit in the right places, and it works! The stones are small and flat enough that the can fit pretty comfortably in fleshy pockets right below my neck, so I use a mana hand to put them there, and after a few seconds, I seal them away. The interior of the pockets are still lined with skin and fur, but the stones are no longer accessible from the outside, and the skin is pulled taut enough that they don’t jiggle around when I move.
+
+With a satisfied nod, I find a safe spot with Food Sense and Blink over to an alleyway, from which I begin my journey. I sensed the twins going toward the castle, while Lauren and Chad split up and went to two different markets to talk to some merchants. With that in mind, I start making my way over toward the wealthier areas of the city.
+
+There are only two real possibilities for why the tree hasn’t been killed yet. The first is that the people of Maligar see its Awakening as a good thing, and don’t realize the danger. The second is that someone is covering it up, and the people of Maligar don’t even notice yet. In the case of the first, Lauren and Chad will find that out pretty quickly. If not, then there probably aren't many people who can afford to cover up something that big. One would be the king, or city lord, or whoever lives in the castle. And the others, of course, would also be wealthy. So if I go to the wealthy districts, all our bases should be covered.
+
+It’s not really hard to find where the rich people live. The city isn’t exactly cramped, but given that it’s a walled city, there’s not much room to expand outward, so it’s pretty obvious which people are rich when only some of them have private orchards. As always with rich people, they have the biggest pieces of land and the tallest houses.
+
+I don’t really know exactly what I’m looking for, so I mostly just wander the streets and alleys, eavesdropping on whatever conversations I can hear. Unfortunately, most of the rich people have pretty robust sound-cancelling wards on their houses, so I can’t hear what’s going on inside, but I manage to find a nice perch on top of one of the tallest houses that gives me a good vantage to look out from, and a good array of sounds to pick up on.
+
+Most of the conversations I hear are relatively mundane. Topics like weather, food, and business abound, with the occasional juicy rumor about who’s cheating on who, and what kind of drugs someone might have been caught with recently. Nothing too strange, and nothing even remotely relevant.
+
+I sit there for a while before I start getting bored. I debate finding another spot to eavesdrop, but short of teleporting into these houses and maybe even directly interrogating people, I doubt I’ll get anything better than this. And even if I do that, there’s always a chance of wards or alarms or something. I’m in my Perfect Disguise cat form, rather than my actual base form, so I shouldn’t show up as a monster, but still, a house cat teleporting around isn’t exactly a normal occurrence. It’ll definitely raise some alarms. I’ll wait to see what the others get before I do anything drastic.
+
+Instead, I start working on a little project I’ve had my mind on lately. Despite having Fleshshaped Constructs now, I haven’t really done anything with it. It’s not the easiest Skill to use, especially since I’m pretty sure it’s illegal, but I’ve also been in a creative rut. But, the boredom of travel allowed my imagination to run wild, and I’ve got a few good ideas for things I can make.
+
+I double check that there’s no one else here, and that no one else can see me while I’m on the roof, then summon a few pieces of meat from my Stomach and get to work while continuing to eavesdrop. A few hours pass in a flash with nothing particularly interesting happening. I mean, I get Flesh Stitching to Middle Proficiency, but that’s it. At the end of these few hours, though, I finally overhear something noteworthy.
+
+In the distance, a young couple is meeting for a secret garden rendezvous. A few minutes ago, I was tuning out the sound of them having some fun time, but now, they’ve finished and are talking about the Sanctuary.
+
+“When do you think they’re gonna start letting people in again?” asks the girl.
+
+“My dad went the other day,” says the boy.
+
+“He did?” asks the girl. “Why does he get to go?”
+
+There’s no audible response, but I assume the boy shrugs based on what he says next.
+
+“I wanna go,” says the girl in a tone that makes it clear she’s pouting. “I haven’t been since I was seven!”
+
+“I don’t get what the big deal is,” says the boy. “It’s just a big tree. We still get the fruits on the lunar festival the same as always.”
+
+“That’s not the same!” says the girl. “I wanna see it. Did you ever go on the day of the Lunar Festival?”
+
+“Maybe once or twice?”
+
+“It’s magical! The mana gets all crazy and swirls around, and the birds start freaking out. Actually, the last time I went…”
+
+The girl goes off on a tangent about a poor bird breaking its wing during the frenzy of the Lunar Festival, and the conversation gets further away from important stuff from there. It’s pretty disappointing, but not all is lost. The fact that no one has been allowed into the Sanctuary for a few years is something that I’m sure the twins and Lauren will find out too, but this boy’s father being let in is not. If I can figure out who he is, and more importantly who his father is, we’ll have a solid lead.
+
+I try to get back to work while keeping an ear on the young couple’s conversation, but I find it hard to focus properly on my fleshshaping when I know that I might need to get up at a moment’s notice to follow the boy, so instead, I put all my parts back in my Stomach and just start snacking while I listen.
+
+A few minutes later, it becomes clear that the conversation won’t be over any time soon, so my mind starts to wander a bit again. I look around at the city, taking in the sights, sounds and smells. The city is relatively clean, and the myriad fruit trees all around give it a very unique aroma that I don’t think I’ll ever smell again. I close my eyes and take a long, deep whiff, and when I open them again, something in my periphery makes me jump.
+
+There’s another cat sitting beside me, this one gray with black stripes. It’s a male cat, and it’s staring out across the city, just like me. It definitely wasn’t there a second ago, which leaves only one real possibility.
+
+“You again.”
+
+“Me again,” says the cat in the voice of the Dungeon Core.
+
+“What do you want?”

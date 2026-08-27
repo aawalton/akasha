@@ -1,0 +1,79 @@
+---
+id: d31a1c6f-fb9f-5a54-886e-eabe6f53dc67
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1668 - Serve the Path"
+slug: 0317-chapter-1668-serve-the-path
+partOf: chrysalis
+position: 317
+ownLength: 1025
+unit: words
+ownProgress: 1025
+publishedAt: 2025-10-16
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2679952/chapter-1668-serve-the-path"
+royalRoadId: "2679952"
+markedReadAt: "2026-06-29T19:53:57.177Z"
+---
+
+It has long been assumed amongst the cults that Braxxin is a type of monster known as a titan, though we have no idea where in the Dungeon they may originate. More accurately, if they are known to any amongst the cults, they have chosen not to share it with this author.
+
+Due to his tremendous height, there were many who saw the Ancient and survived to record it. Humanoid, with pale blue skin and a beard of frost, Braxxin’s height has been variously recorded as between one and five kilometres. The great crown of ice atop his head is reportedly a focus for his power, which soaks in all heat around him, creating an area of almost absolute zero.
+
+Braxxin rose close to the city of Wellourn, now lost to time. Situated beside a great lake, the city was instantly frozen solid the moment he emerged from below the ground. Although the ruins have long since been cleared away and the dead laid to rest, the lake itself is still yet to thaw. Perhaps it never will.
+
+-           Excerpt from ‘Collective Wisdom of the Cults’ by Granin Lazus
+
+It was easier to ask for forgiveness than permission. This maxim had been well understood around Pangera for thousands of years, from the smallest of children to the mightiest of emperors. People were cautious by nature, hesitant to take on risk, loath to chance the worst case scenario, no matter how unlikely it might be.
+
+If you had confidence in your purpose, surety in your footing along the path, yet others did not share your faith and barred the way, then perhaps this was not an impediment, but an opportunity.
+
+An opportunity to seek forgiveness. A most holy calling.
+
+Alir Vinting, Grand Priest of the Way, had cause to seek forgiveness many times in his life. He was a man of decisive action, unwilling to sit still when the path was clear in front of his feet. It was the reason he had risen so far in the church. It was the reason he would rise even higher.
+
+The Church of the Path saw the ants for what they were, a spiritual test and resource to be exploited. When the Dungeon threw up monsters such as these, it was a cause to rejoice within the faith. The Dungeon was created to shape and mould the faithful, to provide for them and make them stronger. Within the nests of the Colony waited a harvest more rich than any in centuries, and it would be the act of a blasphemer, heretic and fool to leave it untouched.
+
+Alir rose from the woven mat on which he prayed, his knees sore, as they always were after an hour of devotions, but he embraced the pain. He had endured far worse in times of penance and was accustomed to this daily ritual.
+
+Out the window before him, he saw the brilliant, shining waters of the fourth stratum. Winds filled with the energy of light and life brushed against his face, and Alir allowed himself a small smile. He felt as if the Dungeon were affirming his mission, anointing his purpose.
+
+“Have you finished your absolutions, Grand Priest?” a voice called softly from behind him.
+
+Reaching down, he brushed himself down before turning to face the Deaconess Martha Scott. Plain of face, of middling height and unassuming figure, she nevertheless radiated a certain intensity, an outward expression of the iron faith that she contained within.
+
+“I have,” he said. “Have any of the teams returned this morning?”
+
+Straight to business as always, Alir focused on the matters at hand.
+
+Martha shook her head.
+
+“They have not, Grand Priest.”
+
+Alir tsked and frowned. There were eight teams in the Dungeon right now, one of which should have returned yesterday.
+
+“The delvers in this city assured me they were up to the task,” he said. “I remain unconvinced.”
+
+“More will be coming,” Martha told him. “Three ships set out from the Silver City a week ago. It shouldn’t be long before they arrive.”
+
+“We must be cautious,” Alir stated, nodding to himself. “Probe carefully. If the ants learn of our intentions too early, then the following steps become progressively more difficult.”
+
+“What if they already have?” Martha asked, a little hesitant. “It’s odd for a team to be an entire day late returning from the Dungeon.”
+
+“If they find us, then they find us,” he said. “I would rather operate in secret, but if I must walk in the open, then I shall. That’s why we’re here, after all.”
+
+He gestured vaguely toward the mountain, but the Deaconess understood.
+
+“Green Mountain doesn’t recognise the ants as a civilised race,” she said.
+
+The kingdom of Green Mountain was a stubborn, traditional place. A firm martial tradition meant many of the youth here became delvers or enlisted with the Legion, who maintained a strong presence on the mountain. Recognising monsters as a civilised race? Never. Even the bruan'chii, children of the Mother Tree, weren’t welcome here. The Folk were barely tolerated and the Sophos were killed on sight.
+
+Hunting the ants out of Green Mountain was perfectly legal, even if some communities on the fourth would find it distasteful. The ants learning what they were doing would simply make it more difficult to probe the edges of their territory, but not impossible.
+
+After all, the tunnel networks beneath the mountains were vast and incomprehensibly tangled. The local delvers had access to detailed maps and guides that had been constructed over thousands of years, the ants did not. Even if there were millions of them, it would take years to find every path into their lands.
+
+More tests were needed, more elixir was needed. A single ant was able to produce so much. If Alir could replicate that extraction, he would be able to prove what a golden hoard that ant nest really was. Would the Silver City deny him then? He didn’t think so.
+
+“The path lies clear before us, Martha. A difficult road to walk, with trials and tribulations aplenty, but vast, vast rewards at the end.”
+
+The Deaconess bowed low.
+
+“Praise the Path.”

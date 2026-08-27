@@ -1,0 +1,97 @@
+---
+id: 5b1ada41-e9ad-5d5b-87c0-a259beb17cab
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1401 - The Colony Invades!"
+slug: 0048-chapter-1401-the-colony-invades
+partOf: chrysalis
+position: 48
+ownLength: 1003
+unit: words
+ownProgress: 1003
+publishedAt: 2024-09-03
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1786025/chapter-1401-the-colony-invades"
+royalRoadId: "1786025"
+markedReadAt: "2026-06-29T19:45:10.133Z"
+---
+
+Well, let me say this, Solant really does know how to host a get-together. I get the best view, because, as usual, I’m the lucky chap who gets to go down the tunnel first. Which means I’m right in the middle of the staging ground as the full invasion force takes shape around me. As Solant had predicted, it takes hours for everyone to get into place, not just row after row of ants, but the allies going down with them, the wuffers, the carvers and all the materials they need to construct the nodes as we go.
+
+I’ve only taken a glimpse at the full extent of the plans Solant has laid out, but even that was enough to give me a headache. As I look out on all of these individuals, I know that Solant has given each and every one of them extremely detailed orders, down to the minute of execution.
+
+This whole thing has been planned down to the seconds. Good thing I gave Invidia and Crinis the schedule, otherwise I’d have no chance of keeping up.
+
+There’s a whole lot more wuffers here than I expected. I don’t know how the core shapers are managing to pump them out, but whatever they’re doing, it’s working. The ones who saw experience in the fifth already have evolved a step as well, which puts them at tier six.
+
+Each of them represents a massive investment of resources from the Colony, and we absolutely can’t afford to let them be caught by the enemy. Of all the things that this invasion plan focuses on, the safety of the wuffers is of the utmost importance.
+
+When everyone is assembled, it’s a fearsome sight. A million ants, each in perfect formation along with our allies, united in purpose. Their Will flows into me, filling me with their thoughts and expectations. Each of them believes in the absolute victory of the Colony, and that thought pours into me over and over again, until our success becomes inevitable in my mind.
+
+There’s never a time I’m more frightened of the Vestibule than when such large numbers of ants are so in sync. Their Will forms such a raging torrent it almost washes my own thoughts away.
+
+“You ready, Solant? Let’s do this!” I exclaim.
+
+My core is thumping with energy, and the energy is pounding throughout my carapace.
+
+Despite everything happening around us, Solant is perfectly calm; not even a twitch of her antennae betrays a hint of nervousness.
+
+“It’s not time yet, Senior,” she tells me.
+
+“When will it be time?” I demand.
+
+She confers with an ant beside her.
+
+“One minute and nineteen seconds,” she tells me.
+
+“Dammit!”
+
+I’m starting to feel a little self conscious standing here with over a million individuals looking at me. Surely we can go? The wait for the final minute is almost unbearable, but I master myself, and the seconds tick by.
+
+“Five. Four. Three. Two. One. Begin the invasion,” Solant announces calmly.
+
+“Whoo!”
+
+I practically dive over the edge and into the tunnel to the fifth, freefalling for a dozen metres before I slam my legs into the rock wall, gripping tight to slow my descent.
+
+“Not much for inspirational speeches, are you?” I call back to Solant.
+
+“Not necessary,” she dismisses the thought. “Good luck, Senior, I’ll see you soon.”
+
+Like a good general should, Solant is going to make sure everything is going off without a hitch in the staging ground and trust that those of us leading the charge know what we’re doing. I mean, she should have confidence; she made everyone drill and practise this a thousand times.
+
+Like the leading drops at the crest of a wave, I throw myself down the tunnel, an impossible pressure following in my wake. The poisonous muck of the fifth grows larger in my vision, but such is the overwhelming power flooding through my Vestibule, I don’t even care.
+
+Barely slowing myself at all, I hurl myself down into the filth, dropping into the fifth like an ant-shaped missile.
+
+And of course, the welcoming party is there in full force.
+
+The filth in the tunnel has been thickened, to the point it’s almost flooded with mucous. As soon as I land, I can barely move as the toxic goop begins to gum up my joints and push tainted mana into my body. I can already feel monsters swimming through the gunk, approaching this apparently vulnerable prey with malicious intent.
+
+Is that you, slugs? Well, I appreciate this welcome so much, let me give you a gift!
+
+HOOOOOOOWWWWWWLLLL!!!!
+
+But I’m so generous, one is simply not enough!
+
+HOOOOOOOWWWWWWLLLL!!!!!
+
+The wuffers and first wave of ants are already descending down the tunnel and I plan to welcome them with a fully clean landing zone. We aren’t mucking around down here!
+
+The bombs rip through the mucus and detonate a few hundred metres away, the powerful vacuum force dragging the sludge away from me. This stuff is so dense and thick with mana that those two weak bombs won’t be enough to clear everything at once, but it’s going to be a heck of a start.
+
+Ghostly lines of assault appear before my eyes, and soon after, my antennae begin to tingle as invisible enemies still attempt to strike me.
+
+Good luck!
+
+The Altar flashes with power within me, and all that energy floods into my carapace. The Gravity Compressed Diamond pulses once, then explodes with light, blasting back every attack. After the initial burst, it continues to pulse as the Will soaks into the diamond.
+
+You think you can put your filthy claws on this magnificent beast?! Nonsense!
+
+In the distance, the two gravity bombs peter out, the gravitational mana within having been consumed. But that’s totally fine.
+
+HOOOOOOOOWWWWWLLLLL!!!!
+
+HOOOOOOOOWWWWWLLLLL!!!!
+
+Plenty more where those came from! Gweheheheheh!
+
+I hope the slugs, if they are out there, are enjoying this opening act. Because the Colony is coming soon, and things are going to get messy when they arrive!

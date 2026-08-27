@@ -1,0 +1,65 @@
+---
+id: 112488d5-379d-5f76-bf51-65286b71aae3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1623 - Catastrophe"
+slug: 0272-chapter-1623-catastrophe
+partOf: chrysalis
+position: 272
+ownLength: 957
+unit: words
+ownProgress: 957
+publishedAt: 2025-08-14
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2516543/chapter-1623-catastrophe"
+royalRoadId: "2516543"
+markedReadAt: "2026-06-29T19:52:31.174Z"
+---
+
+It wasn’t long into the battle before most of the platforms the Zissth had constructed were completely destroyed. The armoured ants, in their insane zeal, had smashed everything they could in their charge, latching onto the Krath’s trained monsters, forcing themselves into their mouths, or simply flinging themselves into the air, dragging their victims down with them.
+
+Now Zluth could see the cursed creatures were slowly pulling themselves up the walls of the heart, eager to try again.
+
+The battle had moved to the walls and roof of the lower chamber, the Krath and their beasts clinging to the moving surface and fighting with the ferocity and cunning their kind was known for.
+
+But even here, there were nightmares waiting for the slugs. The shadows themselves had turned against them. No patch of darkness remained ordinary and safe for long, they deepened, and moments later, nets would fly out, or flashing mandibles. He’d seen more than one Krath dragged into the pooling shadows, surely never to return.
+
+Danger was everywhere, and Zluth could feel the acid surging in his flesh as he tried desperately to keep himself alive. Flat against the wall, he conjured the power he cultivated inside of him and spat it forth, a jet of acid that seared across the wall and burned into the mucus coating the heart.
+
+He was too slow, the shadow he’d targeted had already faded. Or perhaps… moved. Zluth’s eyes twisted atop their stalks, trying to see in every direction at once.
+
+The creature of shadow and teeth wasn’t far away anymore. Every minute that passed, those grasping, lashing, squeezing limbs got closer and closer. He would need to move further up soon, but if things didn’t change, then soon there would be no space left and the Krath would be forced back to the upper chamber.
+
+He gathered his acid once more and prepared to spit, a condensed ball of power, sent straight to the heart of the forest of tentacles, but something caught his eye at the last second. Zluth flung himself to the side just as the axe crashed into the heart right beside him.
+
+Zluth reacted instantly, turning and unleashing the ball of acid, but he struck nothing, his shot flying too high. Unbelievably, a human was there, thick shoulders, corded muscle on his arms and a hefty axe in his hands. The man was buried up to his waist in shadow. As Zluth watched, he sank back into the shadows, his brown eyes burning with dangerous intent.
+
+A shiver ran down the length of Zluth’s flesh. That human was hunting him. Hunting him.
+
+Baring his fangs in anger, the Krath’lath of the Slee felt the rage ignite within him. How dare this creature hunt him, a Krath, within the beating heart of the fifth!
+
+Humans did not belong here. Humans could not survive here.
+
+An ear-shattering, piercing cry split the air. It came from the huge beast, electricity crackling around his chest and arms, hanging from the slime ropes. Something about that screech speared into the Krath’s brain, stunning and freezing him on the spot.
+
+Only for a moment, then control reasserted itself, just in time for him to contort his body once more.
+
+The axe flashed past his face, so close he felt the wind from it on his tongue. Infuriated, he spun and snapped with his jaw, eager to take a bit from this absurd human. Somehow, the weapon was there, between the soft flesh of the attacker and the Krath. When he bit down, he tasted only metal. A second later, the human was gone, retreating back into the shadows and taking the axe with him.
+
+So angry his flesh boiled and popped as the acid within him bubbled and frothed, Zluth lost track of the battle, looking only at the shadows around him, waiting for the would-be hunter to emerge once more.
+
+It took until the third explosion for Zluth to snap back to his senses. The detonations were deafening, the concussive force rolling through his body with each blast, and they were getting closer. Gripping tight to the wall of the heart with his foot, Zluth compressed his body and camouflaged himself as best he could while racing away from the explosive magic.
+
+The battlefield was so hectic, so chaotic, it was impossible for the Krath to mount an organised defence. They were fighting hard, but more and more ants continued to emerge from the root. At this rate, they would soon be outnumbered. Once that happened, there might not be a way to turn the fight around.
+
+Zluth’s eyes burned red as he glared down at the cursed root. That damned tree would be cut down and used to feed the mould farms when this was done, the tribes wouldn’t settle for anything less. For now, he just needed to destroy that root, then they would have a chance.
+
+Unflattening his body, Zluth whirled and spat a dense wad of mucus from deep within his body. A patch of gathering darkness on his left was scattered as the sizzling goop splattered over it.
+
+The slug hesitated. He could have sworn…
+
+Searing pain exploded from his side, and Zluth hissed furiously as he twisted away. The gleaming blade of the axe sizzled with bright green acid as it pulled away. The human sank once more into the shadows, his steady gaze burning with intent as Zluth cursed and spat.
+
+A deep gouge had been cut into his side, but it wouldn’t be fatal. Already the acid in his flesh had cauterised the wound.
+
+How had the human managed to trick him? Again, the slug turned his gaze down to the massive root below.
+
+He didn’t have time for this….

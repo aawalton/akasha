@@ -1,0 +1,77 @@
+---
+id: 25bfbccf-ee50-5fe2-bf64-59d3c370a534
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1406 - Krath Assault!"
+slug: 0053-chapter-1406-krath-assault
+partOf: chrysalis
+position: 53
+ownLength: 908
+unit: words
+ownProgress: 908
+publishedAt: 2024-09-10
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1796356/chapter-1406-krath-assault"
+royalRoadId: "1796356"
+markedReadAt: "2026-06-29T19:45:19.694Z"
+---
+
+The ‘yolk’ of the egg reveals itself to be even more disgusting than what I had supposed. As the ant line behind me prepares for battle, the goop sprayed into the air turns out to be an entire colony of semi-liquid grasping hands. They flutter through the air before raining down onto the ground. I get a particularly bad feeling about these hands, so I flex my legs and use an empowered dash to get the heck out of there.
+
+Instead of landing on my carapace, the wriggling hands land on the floor of the tunnel, and that’s where the true grossness is revealed. Like writhing noodles topped with a grasping claw, they latch onto the ground and start pulling themselves towards me. What’s more, they’re fast, way faster than they appear they should be.
+
+With a rising sense of ick, I prepare another wave of Dragon’s Breath and unleash it against the oncoming spaghetti swarm. It’s much more effective than it was against the egg, and I gleefully cook the pasta with the roaring jet of pure flame.
+
+It goes well, at least I think it does, right up until I feel an unbelievable pain latch onto my side.
+
+How in the heck?!
+
+Tilting my head, I can see one of the horrible things has managed to grab hold of me. Instantly, it starts pressing itself against my carapace, burning and melting into the diamond.
+
+Ha! You think you can burn through my gravity compressed diamond that easily? You’re dreaming! Except, I realise rather quickly that isn’t what the noodle arm of doom wants at all. After flattening itself out, it starts sliding across my carapace toward the nearest joint. The moment it arrives, it starts trying to burrow into the gap and burn its way inside me!
+
+GAH! That’s disgusting!
+
+Dragon’s Breath!
+
+Hot! Hot!
+
+Note to self, do not set yourself on fire. Thankfully, my gambit appears to have worked. I don’t detect any trace of the evil goopy thing that tried to slip its way inside my carapace.
+
+Seriously, the monsters in the fifth are just… the worst.
+
+I’d expound upon their many disgusting attributes, but something else demands my attention. Ahead of me, the many sources of waves I detected have resolved into a massed charge of terrifying-looking monsters. Unlike the earlier assaults we suffered from the random Dungeon spawns of the fifth, many of these monsters share a type.
+
+These aren’t spawns, these are most definitely crafted pets.
+
+Casting my senses forward, I seek out any trace of the slimy foe, and to my surprise, I actually find them.
+
+The Krath are here, they’re actually here! So they weren’t content with just skulking around and watching their feeble plans fall to bits! They summoned a little gumption and came out in the open! I really didn’t think that was in their playbook.
+
+I can barely make them out. The crafty, slithery slugs are doing their best to hang back and stay hidden, but they’re definitely there.
+
+Well, since they’ve come out to say hello, I might as well greet them properly!
+
+HHHOOOOOOOWWWWWWLLLLLLL!!!!!!
+
+The gravity bomb screams into existence once more and rockets forward. All the investments I made in my gravity specialisation are really paying off right now. As the raw gravitational energy of the bomb makes itself felt, I benefit in multiple ways, my carapace soaking it in, and my gravity mana gland, now formed of Resonant Well Stone, turning that energy back into mana, helping recoup the cost of the spell.
+
+Without these sweet, sweet synergies, I wouldn’t be able to fling so many bombs around, but with them, I’ve got enough in the tank for a few more!
+
+The bomb expands, roaring into life and ripping that section of the tunnel to shreds. However, between the wind, toxins and mucus that whip through the air to be consumed, I can see something rather unusual.
+
+The manic charge of the beasts has halted in its tracks, the Krath coordinating the charge having retreated and ordered their pets to back up with them.
+
+With the black hole screaming its fury into the tunnel, I watch with utter amazement as the Krath turn their monsters around and leave.
+
+Oi! Get back here!
+
+Have the lousy slugs already decided they don’t want to have anything to do with me? I almost feel insulted. Get back here and fight, you miserable sacks of slime!
+
+But they don’t. Now that they realise I’m here, and still packing plenty of heat, they just back off, leaving me feeling a little irritated. I mean, not being attacked is a good thing, right? Except I can guess exactly what the Krath are thinking. They want to avoid running headfirst into the big, bad ant, which means they’ll just attack somewhere else, if they aren’t already. Lousy sneaks.
+
+As much as I’d like to run off to the other side of our expanding mass of blue mana, I can’t! Solant has a plan, and that plan requires me to be here, protecting the front as it expands. Besides, if I were to leave, who’s to say they just wouldn’t come back and attack here?
+
+As if on cue, more weird native monsters show up, rushing toward the Colony lines with mindless rage in their eyes, spewing poison from every orifice.
+
+Which means Tiny is going to have all the fun punching slugs on the other side of the tunnel.
+
+Dangit!

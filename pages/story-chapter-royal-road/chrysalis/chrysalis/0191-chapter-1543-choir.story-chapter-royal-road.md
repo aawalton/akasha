@@ -1,0 +1,69 @@
+---
+id: fe9ca751-8913-55b1-8754-83c81a5362ac
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1543 - Choir"
+slug: 0191-chapter-1543-choir
+partOf: chrysalis
+position: 191
+ownLength: 1093
+unit: words
+ownProgress: 1093
+publishedAt: 2025-04-03
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2169990/chapter-1543-choir"
+royalRoadId: "2169990"
+markedReadAt: "2026-06-29T19:49:56.003Z"
+---
+
+Ever since that first experiment, a change had come over the Snailcare centre, as it had come to be known. The young chal were growing well, as far as the Brood Tenders could tell. They ate regular meals. They played and slid around the space happily. They bowed to each other and moved off to their private spaces for periods of silent… meditation. And when night fell, they would curl up together and retreat into their shells, dozing until morning.
+
+Theresant was pleased with the progress and care that the team had been able to provide for the snails. They had grown in knowledge and understanding of the diet and preferences of the hatchlings, along with devising more engaging and stimulating activities for the children. Where they struggled, and had to constantly iterate and innovate, was with the singing.
+
+It turned out, the little snails loved to sing. Once they’d been introduced to it, they took to vocalising like ants to digging. Wherever she went inside the chamber, Theresant was sure to hear at least one snail raising its voice, softly piping away. If she found one singing, then there would be another, not far away, sliding over to join in. The two snails would then sing back and forth, simple things, a single note, taking turns to sound it out. When they were done, the two would then bow to each other, and slide off to find something else to do.
+
+So it was that the Snailcare centre was filled with the tiny, clear voices of the infant chal from the moment they awoke to the time they went to sleep. It was a wondrous development, but it was also one that drove the Brood Tenders crazy.
+
+They didn’t know anything about singing! They had no vocal cords! They consulted experts, hired singers from the Brathian Conglomerate to act as advisors, sought high and low for the best vocalists to sing to the hatchlings.
+
+As it turned out, the small number of magpei who had joined the Colony in their assault on the fifth were an invaluable asset in this regard. Despite their uncouth speech and violent demeanor, which prevented them from even being considered to be allowed inside the chamber, they were indeed part-bird. In those few moments when Theresant and the other Brood Tenders had been able to get one of them to stop talking and trying to pick a fight, they were able to sing with such startling clarity and technique that even the ants could tell the difference.
+
+Since then, they’d been able to develop several protocols that helped them deal with the magpei, the first of which was: only invite one at a time.
+
+With the help of the experts, the Brood Tenders were able, somehow, to grasp the basic fundamentals of music. They learned about scales. Chords. Notes. Timing signatures. They learned of the many ways the voice could be altered to sing higher, or lower, or make it quaver, how it could be projected, the importance of breathing, of the diaphragm… whatever that was, and a thousand other incomprehensible things.
+
+But they did what they did best. They took all the information presented, studied and digested, distilled and purified, until they were able to construct a curriculum which they believed would take the young snails and eventually turn them into maestros worthy of the most august and respected halls of music on Pangera.
+
+Today, that work would begin.
+
+Theresant couldn’t help but feel nervous as the hatchlings were gathered from around the chamber. They weren’t difficult to move, the Tenders would simply grasp them ever so gently by their shells and pick them up. The snails would be startled, to be sure, retreating into their shells, but once they were set down, they would soon emerge again, looking about curiously.
+
+So it was that half a dozen Brood Tenders moved amongst the leafy plants and trickling waters, gathering the hatchlings and bringing them over to the area Theresant had personally prepared for today’s lesson.
+
+Nervously, she cleaned her antennae, only to find her glued moustaches kept getting in the way. It was annoying, but the other Tenders had assured her that the hatchlings seemed to pay more attention when they wore them, so she had been persuaded.
+
+Indeed, after they were gently placed down and began to emerge, the chal did seem particularly fascinated with the long, luxurious moustaches that trailed down almost to the ground. When all were ready, she gained their attention by bowing low to them.
+
+As expected, the gathered hatchlings bowed back, lowering their heads in a gesture of respect.
+
+Theresant steadied herself, then signalled those watching to begin.
+
+She opened her mouth, and pretended to sing.
+
+A single note, so pure and clear it sounded as if holy mana had been infused within it, emerged. It resounded for several seconds, then ceased. The Brood Tender snapped her mouth shut, then looked down at the snails expectantly.
+
+Seemingly enraptured by the sound, the little snails were completely still at first, then they mimicked the note. One by one, until all of them had joined in, they sang. Some wavered a little, others were off a little in pitch, but corrected themselves. After a few seconds, they also cut off, looking up at Theresant expectantly.
+
+The Tenders still weren’t sure of the appropriate way to praise the hatchlings. They didn’t like being touched, their snail bodies appeared to be very sensitive, so they couldn’t be patted or tickled like a grub could. So, she bowed again, and they bowed back.
+
+The first lesson: middle C.
+
+After a beat, she signalled once more, opened her mouth, and another, new note rang throughout the chamber.
+
+Which was D.
+
+The tiny choir listened intently, then, once the note was cut off, imitated it back to her. Again, it wasn’t perfect, but the hatchlings were still very young, perfection wasn’t to be expected from them, yet. Satisfied, Theresant bowed again, and received their bows in return.
+
+In this way, they went through the entire C major scale. By the time they reached the final note, the snails were clearly flagging, their little voices no longer able to keep up, so the Brood Tenders ended the lesson, letting them eat, drink and rest.
+
+“What do you think, sister?” one of her siblings asked Theresant.
+
+“I think our little choir shows some promise,” she replied, clacking her mandibles with satisfaction. “With a little luck and effort, we should be able to complete musical theory before they turn one.”

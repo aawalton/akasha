@@ -1,0 +1,195 @@
+---
+id: 0f3121ec-c914-5a22-bdec-1bbc87b877e4
+page-type-slug: story-chapter-royal-road
+title: "65: Zappy Wolf"
+slug: 0065-65-zappy-wolf
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 65
+ownLength: 1962
+unit: words
+publishedAt: 2025-11-07
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2740471/65-zappy-wolf"
+royalRoadId: "2740471"
+---
+
+Chloe was feeling real good about that last fireball. The wolves were already running away fast, with tails between their legs.
+
+She threw her arms in the air with a grin. “Yeah, that’s right! Who’s scared now?”
+
+But then she squinted at their retreating wolves. Wait a minute... they’re running kinda fast. Like, way too fast.
+
+The realization hit. If the Thunder Wolves got too far, that meant no tasty brains for her. And that just wouldn't do.
+
+“Oh no you don’t!” she shouted, dismissing her wings in a puff of shadow. Flying was cool and all, but she wasn't that good at it yet. Not only that, she’d gotten a big boost to her speed stat from evolving. So, she figured it was time to test that out.
+
+Chloe sprinted after one of the wolves. The wind tore past her face, trees blurred, and the wolf up ahead grew closer with every stride.
+
+As Chloe gained ground, she raised a hand and slammed it down. The ground rumbled in response, and a big stone spike shot up right in the wolf’s path.
+
+She was kind of hoping the spike would skewer the beast clean through. Instead, it bonked the thing in the side and sent it tumbling.
+
+Still. A win was a win.
+
+The Thunder Wolf scrambled back up, snarling, sparks snapping along its horns. Now it looked mad.
+
+Then it threw back its head and howled as a bolt of lightning blasted straight from its jaws, slamming through Chloe’s torso with a sizzling crack. She blinked and looked down at the smoking hole punched clean through her stomach. Darn, that's kinda annoying.
+
+Instead of backing off, Chloe flung her arms forward. Ice magic surged through her fingers as hundreds of sharp shards shot into the air.
+
+The Thunder Wolf yelped as the icy storm slammed into it, staggering under the barrage. But somehow, it survived and then charged right at Chloe. Wow, you’re a tough one.
+
+Chloe grit her teeth and slammed her boot down, summoning a huge spike of stone right in its path. But the wolf dodged. It leapt to the side with way too much grace for something that chunky.
+
+Fine. If it wanted close combat, then Chloe was up for the challenge. She ran forward to meet it, lightning crackling around its jaws.
+
+Just as the Thunder Wolf lunged, she raised her arm and covered the whole side of her body in shimmering ice scales. Its fangs hit her with a loud clank.
+
+Sparks flew, but the teeth slid right off. Oh yeah. Ice scales for the win!
+
+Before, she could barely coat her knuckles. Now, ice scales were actually pretty useful. The Thunder Wolf growled louder, clearly not enjoying the flavor of frozen zombie.
+
+After that, Chloe planted her feet, pulled back her arm, and punched the big wolf right in the snout. The beast flew back, crashing through a bush, a tree, and then another tree.
+
+“That’s what you get for zapping my tummy!” Chloe huffed, all while her ice scales melted. They had done their job already.
+
+And speaking of tummy, she glanced down. The hole that had been blasted through her earlier was completely gone. She gave it a poke just in case, but it was as good as new.
+
+Next, she looked back toward the Thunder Wolf, which was already dragging itself up and snarling again. It clearly wasn’t done yet.
+
+Chloe, however, wasn’t in the mood to get bitten again. This time, she was gonna try something else.
+
+She held out both hands as she tried to remember what that suspicious blood mage had done before. Chloe twisted her wrists, curled her fingers just right, and focused hard.
+
+To her surprise, the Thunder Wolf suddenly froze. Then it took a step backward. Wait… I did that!
+
+The wolf snarled, clearly trying to resist, but instead did an awkward spin and flopped on its side. Chloe burst out laughing. Okay, blood magic is amazing. Why didn’t I try this sooner?
+
+She gave her fingers another twist. The wolf jerked upright, then it started to do what Chloe believed was some kind of dance.
+
+Its face screamed murder, but it couldn’t stop moving. Chloe wheezed, clapping her hands as she enjoyed the show. Unfortunately for her, the fun didn’t last.
+
+The Thunder Wolf suddenly let out a furious howl, and lightning exploded out of it in all directions. Chloe yelped and jumped back, shielding her face as the air lit up with sparks. Whoops. I guess the blood magic wore off… or made the big zappy wolf mad. Probably both.
+
+The wolf’s entire body pulsed with lightning now. It looked twice as zappy, and twice as mad.
+
+Bolt after bolt of lightning shot from its horns, zipping through the air. Every single blast slammed into Chloe, torching through her chest, arms, and leg.
+
+If she could feel pain, that probably would’ve been terrible. But instead, the whole thing felt mildly inconvenient. Eh, I'm sure the big guy's gonna get tired of shooting lightning eventually.
+
+And just as Chloe had thought, eventually, the lightning stopped. The wolf staggered, its sparks fizzling out as it looked like it ran out of juice.
+
+Chloe, meanwhile, was lying on the ground in a crispy heap. Cloaky was probably still smoldering. Okay, now it's healing time.
+
+Dark tendrils slithered from her wounds, pulling her back together piece by piece. Within seconds, she stood back up, fully healed.
+
+She rolled her shoulders and smiled. It was time to finally put the Thunder Wolf down.
+
+With a flick of her wrist, Chloe summoned a massive earth spike beneath the Thunder Wolf. The ground rumbled as the spike launched upward, smacking the beast into the air.
+
+As the Thunder Wolf soared upward, Chloe coated her fist in fire. Then, she launched herself into the air, met the beast mid-fall, and drove her flaming punch straight into its jaw.
+
+The impact shook the ground below. Dust and ash exploded outward as the Thunder Wolf crashed down, and a soft ding echoed in her head.
+
+[You have killed: Thunder Wolf (Level 32)]
+
+[Experience Awarded]
+
+Chloe then landed with a soft hop and brushing soot off her sleeve like it was no big deal. But she was kinda disappointed when she read the notifications. No level up? Not even a skill upgrade? Aww…
+
+Z did say things would slow down after her evolution, but Chloe still felt disappointed. And it wasn't like the Thunder Wolf was a super easy fight.
+
+To make things worse, when Chloe looked around, it became painfully obvious that the rest of the Thunder Wolves had long since gotten away.
+
+Feeling disappointed, Chloe turned to the only one that hadn’t successfuly made a break for it, the crispy corpse still twitching slightly. Guess I’ll just make do with one zappy wolf brain. Better than nothing.
+
+She crouched beside the Thunder Wolf, eyeing its massive, horned head. It was brain eating time.
+
+Cracking the skull open proved to be more annoying than usual. The horns made everything awkward. She tried prying and twisting. She even gave one of the horns a good smack, but that just broke off the horn.
+
+Eventually, Chloe just blasted the top of the skull with a small fireball. The top popped open, kinda. Some fur caught fire, but she patted it out with her hands. What mattered was that the brain was finally ready to be eaten.
+
+[Brain Consumed: Thunder Wolf (Level 32)]
+
+[Experience Awarded]
+
+[New Skill Acquired: Lightning Affinity II]
+
+[New Skill Acquired: Lightning Blast I]
+
+Chloe licked the last bit of goo off her fingers and flopped onto her back. She felt fantastic, and just a little sparky in the best way.
+
+Sure, she hadn’t leveled up. But hey, at least she got new skills! That was something.
+
+Chloe sat up and wiggled her fingers. So, I got the lightning blast skill this time. Time to give it a test!
+
+She pointed at a rock. Then, a spark formed, but fizzled out with a little pop. “Huh.”
+
+Chloe tried again, both hands this time. A narrow arc of electricity zipped out and tapped the rock with a faint zap. Not super impressive.
+
+Seems like I can only do little tiny zaps now. Hopefully I can get better at lightning magic later, maybe I can get Sabine to teach me too if I see her again. And I definitely won't let her steal my nose next time!
+
+Soon, Chloe looked up and saw that Raenof was walking over, giving her a casual wave. She stood up and ran, skidding to a stop in front of him. “What’s up?”
+
+Raenof tilted his head. “Well, I just watched you fight off a Thunder Wolf pack all by yourself. I’d say that’s what’s up.”
+
+“Duh, that's because I'm awesome. But also… I kinda wanted to get all of them, a bit annoyed I got distracted by just the one wolf honestly."
+
+“Want to go after the rest? I can help track them.”
+
+Chloe thought about it, but she didn't feel like tracking down the Thunder Wolves. “Ehhh. Not really. They’re kinda annoying to deal with, and they're probably pretty far away by now."
+
+Raenof shrugged. “Fair enough. Ready to move on?”
+
+Chloe opened her mouth to say yes. But her eyes drifted back to the general direction where Mr. White had fallen. "Maybe in a bit. I wanna see Mr. White again. Just one last time.”
+
+Raenof nodded silently and followed her as she walked back the way they’d come. Mr. White’s body was exactly where she left it.
+
+Chloe knelt beside him and brushed some dirt off his face. “You were the best horse ever."
+
+She sat there a moment, fingers resting lightly on his fur. Is there really nothing I can do for him?
+
+Raenof stepped beside her. “You know, maybe we could bury him?"
+
+"What's that?"
+
+"Basically, we'll dig up a hole and put Mr. White inside. After that we'll cover the hole with dirt."
+
+“Ooh! Then later he’ll claw out of the ground all undead and awesome!”
+
+“No, Chloe. That’s not how burials work. He’ll stay dead.”
+
+“Aww what? Then why bother?”
+
+“Burials are a way to honor the dead. To give them peace, and also to remember that they mattered.”
+
+Chloe went quiet at that. She definitely wanted Mr. White to feel like he mattered, because he did. Even though he wasn’t coming back, there was something about this burial thing that felt... right. Kinda sad. But also warm.
+
+She stared at Mr. White’s face for a bit longer, then gave a small nod. “Alright. Let’s do this burial thing."
+
+"Alright, just follow me."
+
+They moved to a calmer patch of land beneath a shady tree. Chloe lifted her hands, and the ground trembled as dirt pulled itself away, carving down into a neat rectangle. Raenof stepped in too, using some kind of soft, leafy magic that made the roots wriggle aside and the soil turn fluffy.
+
+It took a bit, but they finished digging a horse-sized hole. Chloe carried Mr. White down gently, and together with Raenof, they eventually covered him back up, smoothing the dirt until it looked neat.
+
+She knelt and gave the mound a soft pat. “You were so cool.”
+
+“Want to bury the others too?” Raenof asked.
+
+"What others?"
+
+"You know, Sett, and the other travelers. Thought you'd maybe wanna bury them too."
+
+"Umm, nah."
+
+"You sure?"
+
+"I'm sure, why'd you ask anyway?"
+
+"I just thought… you know what, nevermind."
+
+"What? I feel like you wanna tell me something."
+
+"No, it's fine, let's just get a move on."
+
+Chloe squinted at Raenof hard. But when the elf noticed her stare, he just chuckled and walked away faster.

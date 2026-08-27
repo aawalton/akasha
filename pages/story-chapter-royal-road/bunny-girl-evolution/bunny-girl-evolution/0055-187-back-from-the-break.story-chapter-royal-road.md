@@ -1,0 +1,240 @@
+---
+id: be7c788e-cfb7-5840-a5bb-ed9aba43d3cb
+page-type-slug: story-chapter-royal-road
+title: "187 - Back from the Break"
+partOf: bunny-girl-evolution
+position: 55
+ownLength: 3958
+unit: words
+publishedAt: 2026-04-07
+link: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3242253/187-back-from-the-break"
+royalRoadId: "3242253"
+---
+
+I have no idea who this woman is.
+
+Elise spent perhaps a moment too long studying Three’s now-visible face, and she could not tell her real identity. Her face looked vaguely familiar, but more in an “I’ve seen this person around” kind of way than “I should know who this person is.” Elise was pretty sure she had seen Three out of her disguise at some point, but where and when that had been, she had no idea.
+
+Before the staring could get too awkward, she quickly turned away and walked to her seat up front. Sophie, Samantha, and Jessie soon started a conversation that stole Elise’s attention away, but once class started, Elise found her mind drifting back to Three. As Otto lectured on the effects of aether-based aura Skills, Elise narrowed her mind in his direction.
+
+Three had black hair and green eyes. Emmett also had black hair and green eyes. So did Hugo Larcombe, who was sitting in the back of the classroom, and if she remembered correctly, the duke himself as well. It wasn’t an uncommon color combination, so that on its own didn’t serve as proof, but Elise felt like she was on the right track. The fact that Three was in the class at all was another point in favor of her being a Larcombe, and so was the quality of the fabrics making up her clothing. Ordinary families would not be able to afford it, meaning she had to be a noble, or at least the daughter of a wealthy merchant.
+
+She ran through a couple other vague possibilities in her head throughout the duration of the class, but ultimately tossed them all out. Her being a Larcombe was the only idea with any merit. And after a bit more internal back and forth, she came to another decision, and right at the end of the class, she used {Whisper}, directing it at Three.
+
+“Are you a Larcombe?”
+
+Behind her, Three fumbled with her bag as she was picking it up, then turned to stare at Elise. One eyebrow was raised with an expression of surprise and approval, and a moment later, she turned to Emmett, and Elise sensed another telepathic message being sent.
+
+“Eleanor, would you mind staying after class for a moment?” called Emmett a few seconds later.
+
+“Sure,” said Elise before turning to Sophie. “You can wait for me outside.”
+
+“What’s going on?” asked Sophie. “Are you in trouble?”
+
+“No, I don’t think so…” said Elise looking back up at Three.
+
+“I think I might have passed some kind of test,” she sent with {Whisper}.
+
+“Oh!” Sophie mouthed before grinning. “I’ll see you outside then!”
+
+A minute or so later, the classroom was empty except for Emmett, Three, and Elise, and as soon as the door closed Three’s outfit began to change. While Elise could already generally see through the mask, there had still been a bit of haze, at least until that moment. The rest of the mask vanished, revealing her face in full, and at the same time, her clothes became more casual and less ostentatious, and in the end, the mysterious, masked woman had been replaced by a completely ordinary-looking girl no older than twenty.
+
+“So was the mask some kind of test?” asked Elise.
+
+“Yes, yes it is,” said Emmett. “Do you recall what I said about advanced classes at the very beginning of the semester?”
+
+“...No, not really,” admitted Elise.
+
+“That’s alright,” he said. “I stated that while passing this class would be easy, advancing beyond it would be less so. This class is designed to educate, with a bit of practical experience mixed in, but more advanced classes are almost entirely practical. You need a certain level of aetheric resistance to be able to complete the coursework, which is why, while most could pass this class, not all would necessarily be qualified to advance to higher courses. And that’s what my daughter here is for.”
+
+“Hi, I’m Theresa,” said the young woman formerly known as Three with a curtsy. “Nice to officially meet you!”
+
+“Nice to meet you too,” said Elise.
+
+“Being able to passively resist the mask’s effects already qualifies you for being able to take the higher courses, and since you’ve done it so early in the semester, that means you have some time to plan and prepare, if you want to take any particular advanced course next semester.”
+
+With a flourish of his hand, a piece of paper appeared.
+
+“Could you give me your hand?” he asked.
+
+For a split second, an intrusive thought flashed through her head of activating {Fey Bargaining} to literally give Emmett her hand. She pushed the thought aside and instead raised her hand, which he gently grabbed and placed on the paper. The paper had some kind of thin aether matrix built in, and as soon as she touched it, it interacted with her own aether. Once it was done, Emmett pushed the paper into her outstretched hand.
+
+“This is the list of available courses,” he said. “It will only be visible to you. Anyone else will see a random assortment of fish-related courses. Don’t ask me why they are fish-related. It was something my predecessor set up. But you will be able to peruse the classes at your leisure, and if any catch your eye, you can come to me with questions, or assistance in preparing for them.”
+
+“Thank you,” said Elise, briefly glancing over the list. “What are the asterisks for?”
+
+“Any course with an asterisk will require you to sign a contract with the kingdom of Jelor before you are allowed to take it. The reason is that these classes will be teaching you how to use these aetheric Skills, some of which are either illegal, or highly restricted, so the kingdom will want to ensure you do not use them for unsanctioned purposes.”
+
+“Oh,” said Elise, frowning.
+
+In her cursory inspection, she had seen quite a few courses that looked interesting, but all of them had an asterisk, and she was definitely not willing to sign any kind of binding contract in order to learn how to use aether better. Not when she had access to so many powerful people who were already willing to teach her with no contract necessary.
+
+“It’s a very light contract,” Emmett tried to argue upon seeing her expression. “And the contract can be amended or even waived if you choose to continue working with Jelor in the future. For example, I have no such contract.”
+
+“Okay,” said Elise, keeping her face straight.
+
+“I should also inform you that any attempt to learn these skills without permission will result in an investigation,” he said sternly.
+
+“I understand.”
+
+Emmett looked at her sternly for a few seconds, then sighed.
+
+“Well, I don’t want to make you late for your next class,” he said. “If you’re certain about not signing any contracts, there are still a few classes that don’t require it, and those classes are still very useful.”
+
+“Okay,” said Elise. “Thank you.”
+
+“Have a good day. And don’t tell the others about Theresa.”
+
+Elise nodded to Theresa, whose outfit was already shifting back to her Three disguise, then walked out of the room without looking back. The whole encounter had been rather disappointing. The revelation of Three’s true identity was actually somewhat boring, and all the most interesting aether classes were ones that she wouldn’t be able to take. Not that it really would have mattered. Based on Titania’s words, Elise doubted that she would be taking any classes next semester, so even if there was no contractual limitation, she still wouldn’t have gotten much out of it.
+
+She was a bit glum when she met up with Sophie back outside the classroom, but she soon brighted up as she listened to her sister talk. While disappointing, there was still plenty of silver lining. For one, the fact that she wouldn’t be able to take any of the most interesting classes could actually be considered good, because now she wouldn’t have any regrets about what could have been if she was taking classes next semester. On top of that, just the list alone was a powerful tool. With what Elise now knew about aether, a long list of things that were possible to learn to accomplish with aether was a lot more useful than Emmet probably realized, and it was already giving her ideas of things to try once she had either {Aether Manipulation}, or the System-free equivalent.
+
+And the last bit of silver lining was that now that she knew about Three, that was one less mystery she had to worry about. Even if it was only a minor mystery, anything that made things clearer was a boon in her eyes.
+
+Defensive Gardening was a bit more interesting than usual, with Sucri starting a new unit that day. Their new plant was something called a Chimera Vine, which, despite its name, was not actually a chimera. It was a completely natural plant that had earned its name from its chimera-like habit of gathering bits and pieces of other plants and integrating them into its own body.
+
+On its own, a chimera vine was harmless. It could not move on its own, it was not toxic, and it wasn’t even particularly sturdy, allowing even a low tier human to tear through it if they somehow got entangled in it anyway. And even once it had integrated a few other plants, those integrated parts were generally weaker than the original. The chimera vine’s true strength came in its controllability.
+
+They had studied a half dozen plants thus far, each having its own requirements to allow for user safety. Most were similar to the tanglethorn, where a single application of blood mixed with poison was enough to keep them harmless to the user. Some were more resilient—or maybe just dumber—and required multiple applications. Others couldn’t be trained, and simply had to be avoided, or required the user to build up an immunity. The chimera vine negated all of that.
+
+While the grafted parts would act just like the originals, they were all still part of the same chimera vine, so simply training the base chimera vine was enough to train everything else. And while even with a generous helping of nature mana, chimera vines took a long time to mature, a mature chimera vine could cover an entire estate, spanning up to a quarter mile in all directions. A few well-placed chimera vines with appropriate additions could defend entire borders, and in fact, they had historically been used for exactly that.
+
+“This chimera vine will be your final project for the semester,” said Professor Sucri. “For the rest of the class, we will be covering how best to nurture the chimera vine, how to train it, how to graft other plants on, and finally, how to choose a suitable location to plant it. You will be graded on your vine’s health, the quality of the grafts, and the thought process behind them. You are more than welcome to work with others, though should you end up with a nearly identical chimera vine to another person, it had better be twice as good as the rest of the class, or else you both lose points.
+
+“Each of you must choose a specific location you wish the vine to defend, and you will make a defensive array for it that meets your location’s needs. That means that if you use a coughing bellflower for in-home defense, you will fail.”
+
+That remark was met with a few chuckles around the greenhouse. The coughing bellflower was the most dangerous plant they had worked with thus far. It was a small bush that grew small flowers that spat large clouds of toxic fumes at anything that got near. Poor Arthur had gotten a face full of it, and nearly got kicked out of the class that day. They were extremely potent for defense, but also difficult to train, and if used in an open area, the clouds could be caught by the wind and carried to an undesirable location. They were best used to guard the borders of highly secure facilities to make sure that visitors only took the intended paths. They were also extremely illegal to plant in any populated area, which was the main source of amusement for the class.
+
+“By the end of the week, I want you all to submit your choice of location, complete with a thorough description of its surroundings, the people and creatures that you would like to keep out, and whether you want your defenses to be punitive or preventative. I will be grading your final project based on this assignment, so I hope that you will take it seriously, and get the details right. You’ll have a few minutes at the end of every class to work on this, but I expect that you’ll have to do some work at home to get things right.
+
+“Now back to the chimera vine…”
+
+The rest of the class passed quickly as Sucri taught them in more depth about how the chimera vine worked, and how to care for it. Unlike previous units, they did not actually start with an infant version of the plant yet. Instead, they would be studying and learning for a week, and only the next week would they get their own specimen to work with.
+
+Sophie excitedly babbled about what kinds of things she would attach to hers as they left the classroom, then the two parted ways for their next class.
+
+As it turned out, Defensive Gardening was not the only class starting a new unit. Intermediate Unattributed Spells was also finally moving on to the second spell they would learn. The vast majority of the class had not yet earned {Levitate} yet, but most were somewhat close, and they had the entire rest of the semester still, and two more spells to learn, so it was time to move on. Elise wondered why they didn’t just give them all the Skill Quests at the very beginning of class, but there must have been some kind of recommended order or something like that.
+
+With the new unit came a new location. The class began in the classroom as usual, but once everyone was accounted for, Professor Dellinger led them all outside toward an open field lined with targets. She floated using {Levitate}, of course, though thankfully she stayed just a foot or so off the ground, too low to earn herself yet another public indecency charge.
+
+The second unattributed spell that the class was to learn was {Mana Burst}. It was a spell very similar to {Magic Missile}, though rather than a swift, hard mana projectile, it was a slower-moving explosive one. Elise had seen it in use a few times before during Basic Magical Combat, but she frankly wasn’t too impressed by it. Technically, it had more raw power than {Magic Missile}, and was especially effective in enclosed spaces, or if she could manage to land it in her target’s mouth or something, but it was also quite inefficient with mana, and carried a risk of collateral damage that {Magic Missile} didn’t. Still, she was glad to be learning it, and she was doubly glad when Professor Dellinger explained the process and she realized that it would actually be quite easy.
+
+To learn {Mana Burst}, all she needed to do was cast {Magic Missile} with so much mana that it became unstable. Her practice with {Magic Missile} already involved adjusting the mana amounts, so the process was something she was very familiar with. She had even pushed it to instability a few times, so she was roughly aware of where the point of no return was.
+
+The main difficulty in completing the Skill Quest, though, lay in maintaining the instability without losing control. Destabilizing the Skill was easy, but it would simply explode in the air where it appeared, damaging herself. And the further away from her body it went, the harder it would become to control, meaning that if she pushed it to the verge of instability, and then launched it forward, it would most likely destabilize along the way, exploding uselessly in midair. That wasn’t to say that it wouldn’t be easy, but after a few attempts, Elise learned to her dismay that she would not be completing it on the first day.
+
+She burned through about half her mana on failed attempts, all of which exploded just a few feet away from her before stepping back and letting Cassie take her turn. Cassie lined up across from the target like she was supposed to, and then closed her eyes and began to concentrate. Elise tilted her head in confusion as the other girl seemed to be putting in far too much effort, but the projectile slowly formed over her shoulder, quickly becoming unstable. Cassie pointed her arm out, as if somatically guiding the attack where she wanted it to go, but before her arm was even fully extended, it detonated in midair, making her cover her ears.
+
+The explosion did not hurt her, because somehow, Professor Dellinger had a passive defense spell covering the entire class, but having it explode so closely likely wasn’t good for her eardrums, and it was a few seconds before she recovered enough to try again.
+
+Three attempts later, she turned around, shoulders slumped in defeat as she gestured for Elise to take her place again. Elise was still circulating her mana, so rather than standing up immediately, she decided to ask a question that she had been wondering about ever since she joined the class.
+
+“You’re not aiming to become a full mage, right?”
+
+“Hmm?” asked Cassie. “Oh. No. I’m going to become an archaeologist.”
+
+Elise nodded as if this was new information to her and she hadn’t seen Cassie’s Class with {Inspect} already before continuing.
+
+“Is learning this required to become an archaeologist?”
+
+“Not usually,” said Cassie. “But I don’t want to be an ordinary archaeologist. I want to go to Carsas when I graduate. But to be approved for the expedition, you need to be able to reach a certain level of self defense, which means I need to get stronger.”
+
+“Oh, interesting.”
+
+“The requirements aren’t very high, but I’m not really cut out for this stuff, so it’s hard work. But if I just complete this class, I’ll be good! {Mana Burst} will be useful, but the third spell, {Dome Shield} is what I’m really after. If I can learn that, I’ll be more than qualified! Assuming I do well in my other classes, of course, but I’m not really worried about that part.”
+
+Cassie smiled as she finished, but the smile quickly vanished as they heard a scoff from beside them.
+
+“What?” asked Elise, annoyed as she turned to face the scoffer.
+
+It was Liam Grane, of course, who had somehow ended up right beside them despite Elise’s efforts to avoid him. She had been pettily squabbling with him in class all semester, and she was pretty sure he had followed her there intentionally to continue.
+
+“Oh, nothing,” he said. “I just thought I heard someone spouting nonsense.”
+
+“Oh, I heard that too!” said Elise.
+
+“You did?” he asked, taken aback.
+
+“Yeah, it was coming from right over there,” she said, gesturing toward Liam.
+
+The young noble’s face turned sour.
+
+“Eleanor,” whispered Cassie, putting a hand on her shoulder. “It’s fine.”
+
+“I think it might have been the wind, though,” Elise continued. “I don’t think there’s anyone stupid enough to actually talk like that.”
+
+Liam’s face turned red with anger, but before he could say anything, Professor Dellinger wandered over and asked if they needed help. With the distraction, their bickering could no longer continue, and Elise used the opportunity to stand up and get back to practicing. Liam scowled at her, but nearby students kept asking the professor for help, so he didn’t get a chance to speak to her again until the end of class, when he walked up and put his hands on his hips as he glared at her.
+
+“I’ve had it with you and your filthy mouth,” he said. “I would say your parents raised you poorly, but I looked into your background and learned that you don’t even have any. Given your unfortunate circumstances, it is my duty as your better to educate you on the lessons you missed out on. I challenge you to a duel.”
+
+Cassie gasped and reached out, but Elise spoke before she could stop it.
+
+“What are the stakes?” said Elise.
+
+“If I win, you will serve me for the rest of the semester. You will speak respectfully, you will run errands for me, and you will not talk back.”
+
+“And what if I win. Will you serve me?”
+
+He scoffed. “A noble serving a commoner? I think not.”
+
+“You’re just scared you’ll lose.”
+
+“Why would I be scared–?”
+
+“Coward.”
+
+“I’m not–!”
+
+“No wonder your brother never talks to you.”
+
+The crowd that had formed around them collectively gasped, and Liam took an angry step forward before regaining control.
+
+“Fine!” he spat. “If you win, I will serve you, not that that would ever happen.”
+
+Elise smiled as {Fey Bargaining} took hold.
+
+“I’m free tomorrow night,” she said. “Seven o’ clock?”
+
+“Done!” he said. “If you get scared, it’s too late to back out now. The duel has been formalized with dozens of witnesses.”
+
+“I was going to say the same to you,” she said. “Alright, seeya tomorrow, then. I gotta get to my next class. Bye!”
+
+Liam shouted some angry bluster after her, but she ignored it, smiling as Cassie rushed after her.
+
+“You didn’t have to do that!” the other girl exclaimed. “I– I’m fine! You don’t have to protect me!”
+
+“Well, I’m doing it anyway,” said Elise. “Besides, I’ve wanted to do something like this for a while. I can’t believe he actually challenged me to a duel. And over something so small. Why was he making fun of you anyway? He seemed to think whatever you said was funny.”
+
+“Well…” started Cassie, looking down at her feet. “The people in charge of setting up the Carsas expeditions are nobles. And they usually only recruit other nobles. And I’m a commoner…”
+
+“That’s stupid,” said Elise.
+
+“But they still take commoners if they’re talented enough,” added Cassie. “Which is why I was gonna get strong in this class, and then do so well in my other classes that they can’t reject me. I already have interest from a couple professors. They said they’d write me recommendation letters once I finish this class!”
+
+“Oh, nice!”
+
+“I still need a recommendation letter from a proper, landed noble, though. Even the noble professors are mostly minor nobles, or they are only noble by blood, and have no real claim to any titles.”
+
+“Huh…” said Elise, rubbing her chin. “Would a recommendation letter from Liam Grane help you?”
+
+“Huh? Wait— You mean–? You’re not serious, are you?”
+
+“Well, would it help?”
+
+“Yes, but–”
+
+“Then it’s settled. I’ll make him write one for you once I win.”
+
+“But he’s a Grane!” said Cassie. “The Granes are the champions of Jelor!”
+
+“It’ll be fine,” said Elise. “I’m stronger than I look.”
+
+“But–”
+
+“Cassie,” said Elise, stopping and turning to her friend. “Even if I did want to back out, it’s too late. I have to continue. But seriously, don’t worry. I’ll be fine.”
+
+Cassie looked like she wanted to say more, but held her tongue.
+
+“Just stay safe,” she said.
+
+“I will,” said Elise. “Now, let’s get to our next classes. Wouldn’t want that prick to make us late.”

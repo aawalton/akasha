@@ -1,0 +1,167 @@
+---
+id: 08fbb142-f5cd-505e-bc03-fe5be99f4629
+page-type-slug: story-chapter-royal-road
+title: "58: Mana Mastery"
+slug: 0058-58-mana-mastery
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 58
+ownLength: 2106
+unit: words
+publishedAt: 2025-10-26
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2706208/58-mana-mastery"
+royalRoadId: "2706208"
+---
+
+Becoming a blood mage hadn’t been easy. Caelus had sacrificed more than most just to reach this point, and naturally, that made him cautious. There was rarely a good reason to take unnecessary risks, not when the cost of failure was so often fatal.
+
+Even so, he was damn good at his job. He always brought back his targets, although today was different.
+
+Caelus rose from the pool of blood, a deep ache settling into his limbs. His muscles felt drained, but that was to be expected.
+
+At least the clearing around him was still and empty, just as he’d planned. He took a breath and looked around for any sign of movement. Luckily, nobody was nearby, not even any notable animals. That was good.
+
+Vulnerability was the price of using Sanguine Recall, and this location had been chosen with that in mind. Even the local wildlife seemed to avoid it.
+
+He made his way toward a thicket of bushes at the edge of the clearing. Hidden beneath them was a chest, marked with faintly glowing red sigils. Anyone who wasn't him who tried to touch it would be crippled by pain, which often escalated to a case of sudden death after a few minutes. That trap had saved him more than once from unwanted surprises.
+
+Opening the chest, Caelus began dressing. He hadn’t packed any bandages this time.
+
+But that was probably fine, since his old disguise was blown. What he needed now was something new. The long coat, gloves, hat, and boots he pulled out would do just fine.
+
+While Caelus adjusted his clothes, his thoughts drifted back to the girl. The one with white hair and red eyes, the one who had forced him to change his plans.
+
+The job had been straightforward. Track the elf and recover the black box that was stolen by any means necessary. Caelus's client hadn’t said anything about a third party. Certainly not someone who could rip off her own arm and then use it as a weapon.
+
+She had looked almost human, but something about her presence was wrong. Caelus couldn’t put it into words, but he knew that she wasn't normal.
+
+But what disturbed him most wasn’t her behavior. It was that his blood magic hadn’t touched her.
+
+Within the Cult of the Flayed One, Caelus held the rank of Disciple. It placed him below the Prophet and the Apostles, but it was still a position of power, one earned through great trials and sacrifice. In other words, he wasn’t weak.
+
+But the fact remained that Caelus was so surprised by the girl's immunity to his blood magic, that he decided to retreat temporarily. He always preferred being cautious after all.
+
+His first theory was that the girl had an anti-magic barrier of some kind. That would explain why his blood magic didn't work on her.
+
+However, a field strong enough to nullify blood magic would have left traces. Blood magic was a rare discipline, and shutting it down would have required either a barrier designed specifically to counter it or one powerful enough to suppress many other forms of magic as well. If a barrier that strong had been active, Caelus would have noticed immediately. For that reason, he eventually set aside the idea of an anti-magic barrier.
+
+His next thought was that the white-haired girl might be a blood mage herself. But that assumption had one big problem. Every blood mage in Ishgria belonged to the Cult of the Flayed One, and he would have known if she were part of it, or even if she had once been a member who was cast out
+
+Caelus had read through most of the cult’s archives, enough to recognize the names and deeds of past initiates. Yet none of them matched her appearance, and none had displayed abilities anything like hers.
+
+That left only one explanation. Maybe she wasn’t human at all.
+
+It explained her lack of reaction. Maybe the white haired girl didn't have any blood at all.
+
+Some constructs or flesh golems were made without any blood or veins. Such creatures were fueled only by mana and willpower. Caelus had heard of an especially advanced artificial being known as a homunculus, though he wasn't sure if the girl actually was one or not.
+
+Regardless, whatever the girl was, she definitely wasn't human. That meant that a good chunk of Caelus's techniques were useless against her.
+
+Once he was fully dressed, Caelus destroyed the chest and settled against the trunk of a tree. It would be hours before he felt steady again and maybe a full day before his magic returned to anything like its proper strength, so he planned to conserve what little energy he had left.
+
+Meanwhile, he reminded himself of the task: capture the elf and recover the stolen item. What had sounded like a simple contract had become far messier than he’d expected.
+
+The elf carried that black box from the auction house, and if the elf died there was no telling where the object might end up. If it was hidden inside a dimensional space, which Caelus assumed it was, a corpse would be useless. Elves were adept at magic after all, so it was only natural to assume the elven thief he was chasing had access to some form of dimensional storage.
+
+Normally, Caelus worked fast. He had completed every contract he ever took; some jobs took days, some weeks, and the longest had dragged on for several months, but he had always finished.
+
+This one was different. The elf left few traces, so was difficult to track down. And even the mercenaries and freelancers he had hired had little luck.
+
+Caelus had paid for veteran scouts, sensory mages with keen mana senses, and even some adventurers. All had returned empty-handed. He had spent a small fortune and gotten nothing in return.
+
+The only real break he’d had was lucky: a thrown dagger in the capital that nicked the elf’s shoulder and drew blood. That dagger had been everything, because it allowed Caelus to use his blood magic to track the elf.
+
+But now there was the girl to worry about as well. She had not moved like a trained fighter, and she didn't carry herself like a mercenary. She didn’t look particularly sharp, and in some ways she seemed like someone who wandered into trouble by accident.
+
+Still, Caelus knew it was better to be careful rather than underestimate his enemies. Failure was not an option he would accept. He would lie low, watch, and wait for the right moment. When that moment came, he would strike and finish the job, just as he always had.
+
+***
+
+Waiting wasn’t exactly Chloe’s strong suit. She could handle chasing monsters and even riding those weird wooden box cart things, but sitting wasn't her thing. Still, Raenof had promised to teach her a cool mana technique once he finished resting, and that kind of changed everything.
+
+She did want to get better at magic. And mana was like… magic juice, right? So the better she got at that, the stronger she’d be. More magic. More power. All good things.
+
+With Raenof back to doing his whole sleeping routine, Chloe figured she might as well keep herself busy before her brain collapsed from boredom. First on her list of not-waiting: hunting down the Guildmaster of the local Thieves’ Guild.
+
+She still hadn’t gotten over the fact that the place doubled as a restaurant. That had to mean the Guildmaster was either super fun or really weird. Probably both.
+
+Unfortunately, when she got there, the servers just gave her polite smiles and said the Guildmaster wasn’t in. One waiter even muttered that he was “often not around.”
+
+So, with that plan completely ruined, Chloe wandered off to explore Rellstead on her own. Which, in her case, mostly meant walking in random directions until something interesting happened.
+
+She ended up trying a bunch of things. First, she watched some street performers juggling flaming pins and immediately tried to join them, only to get yelled at and told to scram. Then she spotted a lady walking a goat and asked if she could ride it. That was a very firm no. Later, she wandered into a bookstore and got kicked out for asking if the books had “any brain stuff” in them.
+
+Eventually, the sky darkened, and the streets began to quiet down. With nothing better to do, Chloe headed back to the inn.
+
+Once inside, she peeked into Raenof’s room. He was still asleep, but his breathing was steady now, and he looked way less like he was about to fall apart. Good. One less thing to worry about.
+
+She slipped into the room and plopped onto the floor beside his bed, legs crossed, arms resting loosely on her knees. For a while, she just stared at the wall. Then her hands. Then Raenof. Might as well meditate again, I guess.
+
+It hadn’t helped much the last few times, but this time she was determined to actually try. Like, for real this time. Chloe closed her eyes and did her best to push away every wandering thought.
+
+Unfortunately, her brain had other ideas. First it reminded her of that shiny black box Raenof showed her. Then it brought up the goat from earlier, which for some reason felt even more distracting. No! Focus, Chloe!
+
+She shook her head and started over. This time, she really, really tried. Chloe focused on the faint hum that buzzed just under her skin, the thrum of mana she usually only noticed when she was flinging fireballs or cursed rock shots. Slowly, carefully, she reached for it.
+
+Minutes passed. Maybe hours. Hard to tell. But she kept at it.
+
+Chloe nudged the mana gently, felt it shift beneath her skin. When she pushed too hard, it pushed back. When she relaxed, so did it.
+
+Eventually, finally, something happened. A soft ding echoed in her head.
+
+Chloe's eyes opened to find glowing words floating in the air.
+
+[Skill Upgraded: Mana Control IX >> Mana Control X]
+
+[Skill Upgraded: Mana Sense IX >> Mana Sense X]
+
+Chloe blinked. Then blinked again. Whoa, I actually did it?!
+
+She almost screamed, but remembered Raenof was still asleep. Instead, she settled for silently flailing her arms, which was good enough.
+
+But the best hadn't even come yet. Another notification soon popped up.
+
+[Two Skills have been Combined: Mana Control X and Mana Sense X have become >> Mana Mastery I]
+
+Chloe jumped to her feet and threw both hands in the air. “YES YES YES!”
+
+Behind her, Raenof made a groggy noise and blinked open one eye. “Did… something happen?”
+
+Chloe spun around, still mid-bounce. “Hey! You’re awake! Guess who just got Mana Mastery!"
+
+Raenof sat up slowly, squinting at her. “Mana Mastery? That’s… actually impressive. It’s a major step for any spellcaster.”
+
+“I know, right? I was meditating and stuff, and then I got mana mastery out of nowhere. Can't believe it took me this long honestly."
+
+“Well then. Congratulations, Chloe.”
+
+“Thanks! So, uh, now that you’re all awake and healthy-looking and not coughing up blood, can you teach me that cool mana control technique you promised?”
+
+Raenof paused. Just a little too long.
+
+Chloe squinted. “Don’t you dare.”
+
+“I may still need a bit more rest…”
+
+“But I waited so long already! That’s gotta count for something!”
+
+“Alright, alright. I’ll teach you something. Just let me… get ready.”
+
+“Okay! But what are you gonna teach me? Is it a fireball that explodes twice?"
+
+Raenof chuckled softly as he swung his legs over the side of the bed and stretched. “Nothing quite so dramatic. But now that you’ve learnt Mana Mastery, there are a few fundamental techniques you can start learning."
+
+Chloe leaned in, eyes wide. “Okay, hit me with it. What’s the coolest one?”
+
+“One of the most basic, and admittedly, one of the flashiest, is the ability to walk on water.”
+
+"Walk on water? Like, actually step on it? You’re telling me people can just do that?”
+
+“If someone understands how to manipulate mana flow under their bodies, then yes. It’s a technique built on surface tension reinforcement. Not elemental affinity. You don’t need water magic or anything like that."
+
+“Seriously? So even someone like me can do it?”
+
+“It’s a skill that requires focus, finesse, and a solid sense of balance. But with practice, you absolutely can.”
+
+Chloe couldn't help but imagine all the stuff she could do with this ability. She could run across lakes to look cool. Dodge across puddles mid-fight.
+
+“This is gonna be so awesome!"

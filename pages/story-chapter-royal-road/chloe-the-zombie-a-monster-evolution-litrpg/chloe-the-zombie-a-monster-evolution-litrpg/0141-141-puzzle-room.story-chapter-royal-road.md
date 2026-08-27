@@ -1,0 +1,129 @@
+---
+id: 162ddc90-e02d-56d1-994b-e35d3e74495b
+page-type-slug: story-chapter-royal-road
+title: "141: Puzzle Room"
+slug: 0141-141-puzzle-room
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 141
+ownLength: 2034
+unit: words
+publishedAt: 2026-04-20
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3296793/141-puzzle-room"
+royalRoadId: "3296793"
+---
+
+[You have killed: Death Knight  Level 60)]
+
+[You have killed: Death Knight  Level 60)]
+
+[You have killed: Death Knight  Level 60)]
+
+[You have killed: Death Knight  Level 60)]
+
+[Experience Awarded]
+
+Chloe stood there feeling very victorious as she looked over the scattered piles of broken armor and bones. The death knights hadn’t stood a chance against her awesomeness.
+
+If anything, this whole fight had only confirmed something Chloe already knew to be completely true. All skeletons really needed to be careful around her, because they were clearly no match for her sheer greatness. More importantly, this was just further proof that zombies were obviously better than skeletons. Not that Chloe had ever needed proof in the first place, of course, but it was still nice to see the evidence piled all over the floor.
+
+The only unfortunate part about beating those death knights was the fact that none of them had brains. Chloe had checked just to be sure, kicking one of the skulls and poking through the broken bones with mild hope, but things turned out as expected.
+
+Still, the fight hadn’t been a total waste. As Chloe glanced around the floor, she noticed something shiny lying near one of the fallen death knights. She leaned down and picked it up, brushing a bit of dust off the object before holding it up to get a better look. It was a key.
+
+The key was made of this silvery metal that was somewhat shiny. Strange swirling carvings ran along the shaft, forming twisting patterns that looked almost alive as they curled around the metal. And at the top of the key was a circular handle shaped like a crescent moon.
+
+The whole thing had a slightly eerie look to it, like it belonged in some ancient temple full of cursed artifacts, which she supposed this place kinda was? But she hadn't found any cursed artefacts so far, so she was probably fine.
+
+Chloe looked at the key she picked up, this was the moon key. In the game, this was the item needed to open the chamber of the boss that guarded the Moon Piece. Chloe had already decided she was just going to call it the moon boss because that was much easier to say.
+
+Now that she had the key, that meant she was one step closer to punching that boss in the face too. As soon as Chloe finished picking up the key, the purple barrier at the end of the corridor flickered. The magic shimmered for a moment before dissolving into thin sparks of light that faded into the air. Looks like clearing the room removed the lock.
+
+“Nice,” Chloe muttered as she slipped the key away and started walking down the hall.
+
+The corridor continued deeper into the ruins, and after walking for a short while, the passage opened into a much larger room. Chloe stepped inside and immediately groaned.
+
+Oh no. Chloe thought.
+
+It was a puzzle room. And Chloe wasn't a big fan of puzzle rooms.
+
+She always found them kind of tedious, especially the ones that expected you to carefully move things around in the correct order. It reminded her way too much of those annoying temple puzzles where you had to push stone blocks onto glowing tiles while trying not to reset the whole thing if you messed up once.
+
+Unfortunately, if she wanted to reach the moon boss, she knew she had to solve this one. Chloe stepped farther into the room and quickly realized that the entire floor was covered in shallow water.
+
+The water reached just under her knees, rippling gently as she walked forward. Every step sent small waves spreading across the chamber, the sound of splashing echoing softly as she moved.
+
+Scattered across the flooded floor were several raised stone platforms. Each one stood just above the surface of the water, forming a rough path across the room toward a large door on the opposite side of the room.
+
+Strange symbols were carved into the tops of the platforms, glowing with magic. Chloe slowly turned her head as she looked around the room, trying to remember how this puzzle worked.
+
+Then she remembered that the normal goal of this puzzle was pretty simple. You had to step on the platforms in the correct order to activate them, which would unlock the door at the far end of the room. If you stepped on the wrong one, the puzzle reset and you had to start all over again.
+
+Pretty standard dungeon stuff. But Chloe also remembered something else. There was a hidden version of the puzzle.
+
+If you followed the normal path, the door would open and you could move on to the next area. However, if you stepped on the platforms in a very specific secret order instead, a hidden mechanism would activate.
+
+And when that happened, it would reveal the real path that led to the chamber where the moon boss was hiding. Chloe slowly cracked her knuckles as she stared at the floating platforms, feeling pretty confident at first. She figured this puzzle wouldn’t be too hard since she had already cleared this dungeon once before.
+
+The shallow water rippled around her legs as she stepped forward. The stone platforms were spread across the room, each one sitting just above the water with glowing symbols carved into the top. Chloe narrowed her eyes while looking between them, trying to remember the order she was supposed to step on them.
+
+“Okay,” she muttered to herself while pointing at one of the platforms. I’m pretty sure it starts with this one.
+
+She stepped onto the platform. A symbol on the platform glowed brightly, but then the light suddenly flashed red. A loud buzzing sound echoed through the room as every platform went dark again and the puzzle reset itself.
+
+Chloe slowly looked down at the platform beneath her feet. Then she stepped back into the water with a small splash while crossing her arms. Looks like she didn't get it right this time, but that was fine, she just had to try again.
+
+This time Chloe stepped onto a different platform. The symbol lit up with a soft blue glow, which seemed promising, so she quickly jumped to another platform that looked familiar.
+
+The moment her foot landed, the puzzle flashed red again. The puzzle reset again after that, and Chloe was reminded that this was the exact reason she wasn't a fan of puzzle rooms.
+
+Chloe stared at the platforms with a very unimpressed expression while the water around her legs settled again. But even so,  she kept trying for a while.
+
+She hopped from platform to platform while muttering to herself, occasionally pointing at the symbols with complete and utter suspicion. Sometimes she felt completely sure she had the order right, only for the puzzle to reset all over again.
+
+At one point she even slipped slightly while jumping between two platforms, which also caused the puzzle to reset. After several attempts, Chloe sighed and rubbed her face.
+
+Instead of trying the secret path, Chloe focused on the normal solution she remembered from the game. She slowed down and carefully stepped onto the first platform she knew was correct, and the symbol glowed blue.
+
+Encouraged, Chloe jumped to the next platform, then the next one after that. Each symbol lit up in order as she moved across the room, forming a glowing path behind her while the puzzle accepted the sequence.
+
+Finally she stepped onto the last platform. A loud grinding noise echoed through the chamber as the large stone door at the far end of the room slowly opened. Dust drifted down from the ceiling while the heavy door slid aside, revealing a hallway.
+
+Chloe walked over and peeked through the doorway. The hallway looked completely normal, which meant it was definitely not the way to the moon boss.
+
+So Chloe turned back toward the puzzle room and walked through the shallow water again, returning to the starting point while preparing to try the hidden path one more time. She reset the puzzle and took a moment to study the platforms more carefully this time, slowly looking from one glowing symbol to the next while trying to remember the exact order from her old memories.
+
+After thinking for a moment, she finally stepped onto the first platform. The symbol beneath her foot glowed with a steady blue light, which made Chloe feel a little more confident about her guess.
+
+She quickly jumped to the second platform, landing with a small splash as the water rippled around her legs. The second symbol also lit up blue, which made Chloe grin slightly as the pieces of the puzzle began to return to her memory.
+
+Encouraged by that, Chloe immediately hopped to the third platform and then the fourth, splashing water as she moved across the room while the glowing symbols continued lighting up behind her in a slowly growing chain of blue light. As she followed the sequence, more of the correct order for the secret route began returning to her memory little by little, and with every successful step she felt more confident that she was finally getting it right.
+
+Chloe paused once she reached the fourth platform and leaned forward slightly while looking at the remaining ones ahead of her. The water below rippled gently from all the splashing she had done, and the untouched platforms glowed. She tilted her head while squinting at them, trying to remember the part of the puzzle that had always tripped players up back in the game.
+
+“Okay,” she murmured to herself while pointing toward one of the stones with narrowed eyes. Pretty sure this is the way.
+
+After a moment of hesitation, Chloe bent her knees and jumped. The moment her foot landed, the symbol beneath her lit up with a bright blue glow.
+
+Chloe’s eyes widened as a huge grin spread across her face, because that was a very good sign and also meant the puzzle had not immediately yelled at her again.
+
+Feeling much better about herself now, Chloe quickly hopped to the next platform and landed with another splash, sending small ripples across the water below. The symbol beneath her foot lit up blue as well, and the glowing pattern behind her grew brighter as the puzzle seemed to recognize the sequence.
+
+Now only two platforms remained. One platform had a sharp symbol carved into it that looked like a little star, while the other had a curved marking shaped like a crescent moon.
+
+Her memory finally clicked. The normal solution to the puzzle would have players step on the star symbol next, which would finish the basic route. But the hidden route required something different, because you had to completely ignore that step.
+
+Instead, you had to step on the crescent first. Chloe’s grin widened as she remembered. I'm so good.
+
+She jumped to the crescent platform. The moment her foot touched the stone, the symbol flared with bright blue light. Thin glowing lines spread across the floor like veins of magic, connecting all the activated platforms together in a glowing web that stretched across the watery room.
+
+Chloe’s grin grew even wider as she looked down at the glowing pattern. Now the last one.
+
+She jumped to the final platform. For several seconds, nothing happened, and Chloe stood very still while looking around at the glowing stones behind her. Part of her wondered if she messed up the puzzle somewhere, but it's not like her progress was reset, to this had to be the correct route.
+
+Then, the entire chamber violently shook. A deep rumbling roar echoed through the ruins as the stone floor trembled beneath her feet, and the water splashed wildly across the platforms as cracks suddenly spread through the tiles below.
+
+Chloe blinked in surprise. “Oh.”
+
+The rumbling quickly grew louder, as suddenly, the center of the room collapsed. The stone floor split apart with a thunderous crack as massive chunks of rock broke free and dropped straight down into darkness below. Water rushed toward the opening, pouring into the massive hole along with broken debris from the shattered floor.
+
+“WOAH!”

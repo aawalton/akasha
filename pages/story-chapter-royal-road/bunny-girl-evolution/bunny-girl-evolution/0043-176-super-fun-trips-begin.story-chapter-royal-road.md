@@ -1,0 +1,162 @@
+---
+id: 4db39929-b225-51a2-9932-ddade30ff60f
+page-type-slug: story-chapter-royal-road
+title: "176 - Super Fun Trips Begin"
+partOf: bunny-girl-evolution
+position: 43
+ownLength: 3844
+unit: words
+ownProgress: 3844
+publishedAt: 2026-02-28
+link: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3101060/176-super-fun-trips-begin"
+royalRoadId: "3101060"
+markedReadAt: "2026-06-29T20:04:02.778Z"
+---
+
+Not long after Jag gave them permission to rub his belly, there was a knock on the door. It was Sophie, wondering what they were doing, and seeing no reason to hide the truth, they let her in and introduced her to Jag. Between the fact that Elise herself was a monster, and Jag’s own efforts to appear as non-threatening as possible, Sophie had no trouble accepting it, and soon joined them on the ground, feeling his fur.
+
+A little while after that, they all went down to the sitting room, and after some brief tension and panic, Nick and Bianca also accepted Jag’s existence, and the group sat down for a long conversation. Jag quickly won over the couple, and by the end of the night, he and Nick seemed well on their way to being good friends. The whole time, Irylax barely acknowledged Jag’s existence, only looking up to nod in greeting before going back to her book.
+
+Elise paid attention to the conversation at first, but as it turned to the topic of politics and business, she lost interest, and started focusing on Irylax instead. She had noticed only a couple days ago that Irylax’s aether seemed to be increasing, despite her lazy slob lifestyle, but now that she had time to just sit and observe her, she realized that the “lazy slob” persona she embodied might have just been cover. It was incredibly subtle, but beneath her calm demeanor, Elise sensed her aether moving. Elise suspected that if her {Aether Sense} wasn’t being power-leveled by Aetheric Illusions, she wouldn’t have noticed at all, but there was definitely something happening.
+
+She spent most of the conversation trying to make sense of what was going on, and though she really had no idea what Irylax was doing, she did have a theory. Irylax was actually in soul meditation, and whatever she was doing was happening within her soul. How she was also reading a book, Elise had no clue, but her best guess was some kind of Skill that let her body perform basic tasks while her mind was occupied in her soul realm. That part wasn’t important though, at least not to Elise.
+
+While healing Jag, Elise had theorized that it would be possible for her to sense souls through {Aether Sense}, and now she was being presented with an opportunity to put that theory to the test. Kind of. Without knowing exactly what Irylax was doing, she would never make sense of the aether movements, but she could at least get a hint on sensing the base form of the soul itself.
+
+It was very difficult, because souls were not physical objects. They existed just outside the physical world, and while Elise could sense and enter her own soul because it was intrinsically connected to her mind, sensing another soul was entirely different. It was not something she could easily wrap her head around. All she could do was analyze its effects on the world, and try to trace it back from there. She did not make much progress by the time the conversation wrapped up, but she felt like she had gleaned a few useful insights.
+
+When it was time to wrap up for the night, Jessie said her farewells and left with a pair of very annoyed-looking guards waiting outside, and Elise escorted Jag down to the basement and into the secret passage leading to Ostra’s headquarters. She wasn’t particularly keen on spending too much time near where Freddy lived, but Jag couldn’t really stay in the humanoid parts of the city, and he couldn’t safely get to Ostra without her help, so she didn’t have much of a choice.
+
+“I’m glad to see you’re doing well,” said Jag while they walked. “You are lucky to have found a family like them.”
+
+Elise could sense that he was genuinely happy for her, but he was also quite wistful.
+
+“Yeah…” she said. “I’m sure you’ll find some people soon. Ostra is public now, after all. Maybe that gnome village you were approaching will look at you more favorably now.”
+
+“Oh, yes!” he said excitedly. “I hadn’t considered that. I’m afraid it hasn’t fully settled in for me that Ostra is public. You are absolutely correct!”
+
+Elise smiled, seeing Jag’s lifted spirits. Then, she recalled something Maggie had said when she examined Jag.
+
+“By the way,” she said. “I talked to another soul expert before, and she said that you might lose some levels.”
+
+“Ah, yes,” he sighed. “I did indeed lose some levels. I’m now at level ten. It feels strange to suddenly be weaker like this. But it’s much better than being dead, don’t you think?”
+
+“Yes, much better,” Elise agreed. “But it still sucks.”
+
+“It is what it is,” said Jag, attempting to shrug. “Twenty one levels to help end an organization like the Blood Syndicate is a small price to pay. I would gladly make the sacrifice again. I have no regrets.”
+
+“Mmm.”
+
+Elise could not say the same. Logically, she knew that she had done everything she could at the time, but in retrospect, there were many things she could have done better. She didn’t want to watch anyone she cared about die, or almost die ever again, which was why even now, when she was peacefully attending a school, she was still pushing herself every day to improve. Given the nature of the {Rune of Fate}, and how her excessive aether formed connections, she suspected it would be impossible to avoid being embroiled in a situation like that ever again. She simply had too much importance in the world for none of it to touch on her. She just needed to be ready.
+
+A few seconds of silence passed before Jag turned the conversation back to his gnomes. The ease with which the Grays had accepted him, and the news of Ostra going public had him in high spirits, and he babbled on about all the things he might be able to do now that monsters were becoming accepted. He talked about some of his friends in Ostra, and how they could supply him with wares, and how the gnomes were excellent builders, so if he managed to befriend them, he could have his own fully-stocked shop in just a few months.
+
+Elise smiled and nodded along with what he said all the way to the headquarters, then bade him farewell when one of the low-rank harpies that Ostra hired as staffers came to collect him. Jag seemed quite excited to get back to his village, which made Elise herself a bit wistful. She had spent months working toward being able to save Jag, and now that she had, their reunion only lasted a few hours, and she was saying goodbye again. And if she continued to skip Ostra meetings to avoid Freddy, she wouldn’t see him much at all after this.
+
+As she turned away from Jag, she hesitated for just a split second, wondering if she should say something. But hearing Jag happily chatting with the harpy, she decided against it and kept moving. It would be fine. It wasn’t like she was forbidden from the Ostra meetings. If she wanted to see him again, she could just bear with it and attend. Or she could get the location of his village and pay him a visit.
+
+When she returned to the house, the rest of its occupants had already fallen asleep. Elise tried to sleep as well, but found herself unable to. She just lay awake in her bed, staring up at the ceiling, thinking about her future. She was frustrated with herself for being like this on what should have been a joyous night since Jag returned, but she couldn’t help herself. Eventually, she gave up on rest, and began working on her soul until she was too tired to continue and sleep took her against her will.
+
+The next day, she felt surprisingly alright for how little sleep she got, largely due to her now reasonable physical stats, but despite how well she functioned, she could feel the need for sleep nagging at the back of her mind the whole day. Thankfully, that day was the pleasant kind of boring that she was starting to get used to with her school life. New and interesting things happened, but there were no life-changing revelations or unexpected surprises that required immediate attention.
+
+Even the Dungeon Competition preliminary team evaluation was boring. Sucri observed, took notes, and gave comments, but most of what she said were things that Elise had already observed. Telvir was fine. Hannah needed more experience, but was growing well. Lauri would have to get creative to work around the handicap of being unable to use his wings. Frank was talented, but lazy. Elise was fine, but as the leader, Sucri wanted her to be a bit more assertive than she was.
+
+Overall, it was about as expected, and Elise was almost happy that Frank’s attitude didn’t change when Sucri wasn’t around. That would make it much easier to replace him with Sophie when Sophie was strong enough. Elise didn’t think Sophie was more talented than Frank, but their stats were roughly equivalent, and Sophie was much more pleasant to work with, so even if Sophie wasn’t Elise’s adoptive sister, she would still pick Sophie over Frank.
+
+The next day was similarly boring, but there was a subtle air of excitement over it. Most of that air came from Sophie’s lungs as she talked nonstop about the upcoming excursion into the Dungeon with their classmates from Aetheric Illusions. In class, everyone who was going—Cassian, Leonidas, Helene, Samantha, and Jessie—confirmed that they were available and would be there, and that only made Sophie more excited. By the time they finished their dinner and went to the fountain to meet up, Sophie was practically vibrating.
+
+Leonidas seemed to share in their excitement, and on the way to the Dungeon, the two of them came up with a “team name” and started chanting it. They chose “Dungeon Trouts” based on the false name of the Aetheric Illusions class, and despite the odd looks they got chanting it, Samantha, Jessie and Cassian all joined with them, leaving Helene and Elise walking some distance behind, trying not to look too embarrassed.
+
+At this time of night on a Thursday, there weren’t many other people trying to go down into the Dungeon, so there was no line at the entrance. They flashed their badges to the guard, then took a lift downward to the silver region, and the Aetheric Illusions class trip to the Dungeon began.
+
+Penelope had no idea if she was being followed. She hoped she wasn’t, but as a knight, detecting invisible or undetectable people wasn’t exactly her specialty, so she was unfortunately in the dark. Her only recourse was to act natural and play along with the cover story her commanding officer had set up for her, and hope no one looked too closely.
+
+Right now, she was a knight who had been suspended after failing her duties due to drunkenness. She was one strike away from being expelled from the order altogether, and needed to tread carefully. For that reason, it was best to stay out of sight of her commanding officer, so as not to rouse his anger again. She was not required to remain in the city, but she was required not to disgrace the knight order again. Therefore, she was taking the opportunity to visit an old friend. A friend that she had grown close with while assaulting the Blood Syndicate.
+
+It was a decent enough cover story, though Penelope wished that her investigation had been less impromptu so that she could have warned Maia she was on her way. As it stood, she was now about to enter the Greenwood city gates and unless Otto was paying special attention to her movements, they would have had no idea she was coming.
+
+Or so she thought. To her surprise, almost immediately after entering, she found Maia waiting for her. Even more surprisingly, it looked like Maia had stopped dyeing her hair. It was still mostly black, but the roots were coming in their natural blonde color. She looked like she was also transitioning away from her all-black fashion to… slightly less black. Her dress was still black, but it had some splashes of red embroidery here and there that made her look a little less brooding. Not much, but a little less.
+
+“Penny!” she called.
+
+“Maia!” said Peneleope, matching her excitement.
+
+The excitement was, of course, a ruse. Maia had never called Penelope ‘Penny’ and even if she was less brooding than before, excitedly calling out to her friend on the street was still out of character. But she was trying to help Penelope sell her story, so she had to make sure they looked like good friends who had grown close through tribulation. Not that they hadn’t, but the more people who saw it, the better.
+
+They chatted about a few meaningless things on their way to Otto’s antique shop, with Maia talking about how boring her work had been, and Penelope complaining about her overbearing boss. The masks came off as soon as they got inside, though.
+
+“What happened?” asked Maia in a serious tone.
+
+“Not here,” said Penelope, glancing around. “Do you have somewhere more private?”
+
+“Otto’s office,” said Maia immediately. “Should I grab him? He’s out right now, but I can go get him.”
+
+Penelope wavered for a moment, then shook her head. While she considered Otto somewhat trustworthy, she also knew that he worked closely with Ostra, and worried that her suspicions would get back to them if she spoke with him.
+
+“Not yet,” she replied. “You can grab Kaia though.”
+
+“She’ll be lethargic until sunset, but I’ll get her.”
+
+A few minute later, the three of them were in a small office hidden beneath the shop. Kaia’s hair was messy, she was yawning, and she was sipping from a large cup of dark blood, but when she saw the serious expression on Penelope’s face, she was able to shake at least some of the drowsiness away to pay attention.
+
+“So…” said Penelope. “A few days ago, I was out performing my duties, escorting a few nobles around and mediating discussions and things like that when a mysterious woman visited me. She was wearing a lot of clothing and a thick veil, so I don’t know what she looked like. I don’t even know if she was human. But she told me something very… concerning. She said that Ostra had created the Blood Syndicate so that they could later destroy it, and that the founder of the Blood Syndicate did not die in the raid, and that she is not only alive, but still a member of Ostra.”
+
+Penelope had prepared herself for a number of reactions from the twins. Shock, denial, fear, anger… What she had not expected was somber silence. The two twins shared a glance, then grimaced, then looked back at Penelope.
+
+“Yes, we’ve been investigating something similar,” said Maia.
+
+“You have?” asked Penelope.
+
+“Kaia can explain it better.”
+
+Kaia nodded, then yawned, then took a sip of her blood, then started speaking.
+
+“I didn’t know that anything was wrong until I talked to Natalie,” she said. “You might know her as Lily. One of the other vampires. My memories of being turned and the one who turned me are foggy, which I thought was a natural result of being forcibly freed, but Lily’s memories are gone. Entirely. Like they were erased. I think that mine were supposed to be erased too, but since something went wrong while freeing me, and we had to finish the process later, the memory erasure didn’t fully take.
+
+“I don’t remember everything, but I do remember her face. I remember some of the things she said. I remember how powerful she was, and I know there’s not a chance that she would have died in that raid. Which was strange, because Ostra claimed to have killed the vampire who ruled the organization. I wondered if they had somehow managed to do the impossible and slay her. Then, Otto found the initial report from Ostra to the Jelorian kingdom about what happened. They still claimed to have taken out the leader, but do you know who they claimed the leader was?”
+
+“Who?” asked Penelope.
+
+“Me,” said Kaia. “‘A vampire named Rose’ was what the report said, and it even included a physical description. Blonde hair. Green eyes. They said I was ‘a monster hiding behind the face of an innocent young beauty.’ Of course, they tried to destroy that report after the fact, and those particular details never made it public, but that report did exist, and according to what Otto found, it existed too soon. I was still… wherever that changeling kept me, and no one but us knew what had happened to me. Nearly everyone else in that room was dead. There were no witnesses and there was no body. But they confidently declared me dead, and that I was the ringleader.”
+
+“We think that she was intended to be the scapegoat,” said Maia. “And the initial report was pre-made. It came out too quickly and with too much detail. They tried to rescind it when they realized she was still alive, and every report after that has a fake vampire whose name neither Kaia nor Natalie recognize and who doesn’t have a physical description.”
+
+Penelope took a moment to process their words, then took a deep breath to calm the anger bubbling up from within.
+
+“So that confirms it, doesn’t it?” she asked. “It was all a setup?”
+
+“We thought so too, but Otto is trying to look deeper,” said Maia. “It’s technically possible that it’s not a setup. They had spies in the Blood Syndicate long before they took it down, and Kaia was a known face, and was often used by the true founder to carry out her will. It’s feasible that they actually believed Kaia was in charge. Not likely, but feasible. Kaia wasn’t around for that long, but the founder wasn’t human, so shapeshifting isn’t off the table.”
+
+Penelope doubted that explanation, and clearly, the twins did too.
+
+“Or, the more likely alternative explanation is that only one or a few people within Ostra were involved,” continued Maia. “We know that, at the very least, the average member was not aware of this. We confirmed with Hans and a couple other Ostra members that Otto is familiar with. Ostra as a whole was not aware. The main question is whether it was the entirety of the leadership, or just one or two near the top. Regardless of what the truth is, though, it’s too big for us to act recklessly.”
+
+Penelope nodded, and silence fell over the room. She wasn’t entirely sure what to do. Her secret mission wasn’t over yet, but she was suddenly stalled. Her only source of information was already looking into what she needed. All she could do was wait.
+
+She and the twins talked a bit longer about some of the more specific details, like where Otto was looking for information, and what Penelope knew about the different factions and their opinions, but the conversation quickly ran dry. It was a bit of a depressing situation, being caught in the middle of such an issue, and knowing they couldn’t do much about it only made it worse. But the fact that they couldn’t do much about it raised a very important question in Penelope’s mind.
+
+Why me?
+
+Why had that woman chosen to speak with her of all people? She had connections, but none powerful enough to cause the trouble that such a revelation would potentially create. There were much better ways to cause panic. The woman could have announced it publicly, or she could have gone directly to Penelope’s commander. And if that woman knew about Penelope’s connection to Otto and the twins, that clearly wasn’t why she was chosen to receive the information. The information broker was already looking into it, even without Penelope prompting him.
+
+Then, her face fell as a new idea dawned on her. She was somewhat uniquely poised with her connection to Otto and the Jelorian knights. She could both raise the alarm among the highest ranks of the kingdom, and verify her information through Otto. That connection was certainly important, but there was one more connection Penelope had that she realized would tie it all together: the Grays.
+
+Nick had been captured by the Blood Syndicate too. He had spoken with undisguised rage about “the Lady” multiple times. He knew what she looked like. He knew that Rose wasn’t the Lady. But he didn’t know about the false report. And with how Otto and the twins were keeping it to themselves, he never would have known until they found the truth. Except now Penelope knew. And by talking to him after talking to the twins, she might be able to get the full truth. Not to mention the fact that they had a direct connection to Ostra through Snowberry and a literal dragon living in their house. And Penelope was close enough to them to get the truth.
+
+“What is it?” asked Maia, seeing Penelope’s face.
+
+“Have you contacted Nick?” asked Penelope.
+
+“Not yet,” said Kaia. “And we don’t plan to. Not yet, at least. Nick was kept locked up the whole time. The only information he has is what the Lady looks like, which I also have. And he has too many eyes on him. He got too famous. Talking to him would alert too many people.”
+
+Penelope frowned. Kaia’s words made her realize that Nick wasn’t the true important connection she had. He was no better than Kaia when it came to information. But she was still certain that it had to have something to do with the Grays. Bianca wasn’t any more knowledgeable than Nick, and Sophie had been stranded on an island the whole time, leaving only two options. The dragon… or Snowberry…
+
+Either way, someone wanted Penelope to make those connections, that she was sure of. Everything was far too convenient for it not to be set up. And that raised another, possibly more important question. Who? Who could possibly have set this up? And why?
+
+At that moment, the door to the office opened, and Otto entered.
+
+“Penelope!” he said jovially, not at all surprised to see her. “I’m glad you’re here! What brings you to my humble shop on this fine day?”
+
+Penelope gave him the quick rundown of her situation and what she had discussed with the twins, and the mood once again turned somber.
+
+“I see,” he said. “Well, that saves me some explanation time. I am actually very glad you’re here because I’ve hit a snag in my own investigation, and I think you’d be able to help. Have you ever done any undercover work?”

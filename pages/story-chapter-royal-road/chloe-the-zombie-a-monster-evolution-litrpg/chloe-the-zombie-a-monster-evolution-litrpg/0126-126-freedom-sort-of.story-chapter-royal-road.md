@@ -1,0 +1,159 @@
+---
+id: ee643c7e-09a8-51f3-b082-e16f83d42418
+page-type-slug: story-chapter-royal-road
+title: "126: Freedom, Sort of"
+slug: 0126-126-freedom-sort-of
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 126
+ownLength: 1795
+unit: words
+publishedAt: 2026-03-16
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3158300/126-freedom-sort-of"
+royalRoadId: "3158300"
+---
+
+By the time Chloe woke up, she realized she was back in the same chamber where she had found Maeve. Everything sort of felt solid and real again. This was the real world, or at least as real as things ever got for her.
+
+Raenof and Sierra were both nearby, slumped against the walls and half-asleep. Seeing them like that made something twist in Chloe’s chest. Normally, she would’ve gone over right away and poked them awake just to mess with them a little. But this time, she stayed where she was and stared at the floor.
+
+There was just… a lot. Too much, honestly. All this time, she’d been stuck as a zombie, dying and coming back over and over again. She didn’t even want to think about how long she’d been trapped in that first dungeon, or how many close calls she’d had since then. It felt ridiculous compared to the life she could’ve been living, staying home and playing games without the constant threat of exploding or being stabbed.
+
+But thinking about it too long made her head hurt, so she stopped. Sitting there wasn’t going to fix anything.
+
+After a moment, Chloe pushed herself up. She wasn’t sure if she wanted to dump everything on them right away, or if that would just make things worse.
+
+Still, she knew one thing for sure. She wanted to talk to them, and she really hoped they'd still be willing to help her, even after everything. Because Chloe had a new goal now, and it was to go find her mom.
+
+Chloe glanced over at Raenof and Sierra, both still slumped where they’d been left, and started toward them with the vague plan of poking one and then the other. Although, she didn't get very far.
+
+Something big bumped into her side, and Chloe’s face lit up instantly as she recognized the feeling and turned. “Mr. White!”
+
+The massive white horse snorted softly and leaned into her like he’d been waiting for that exact moment. Chloe kissed his cheek, then another one just because she could.
+
+She pulled back enough to grin up at him, patting his neck. It still felt kind of hilarious that Mr. White was real. Like, actually real. Not a plushie on her shelf missing a button eye, but a giant skeletal horse who could probably stomp through a wall if he felt like it. Life was weird like that.
+
+“Okay, okay,” Chloe said, giving him one last hug. “Hang on a sec. I gotta wake the others.”
+
+Mr. White huffed and stayed where he was as Chloe walked over to Sierra first. She knelt down and gently shook her shoulder. “Hey. Sierra, wake up."
+
+Sierra blinked awake, startled at first, then relaxed when she saw Chloe. “Oh… hi Chloe."
+
+“Hi,” Chloe replied, smiling.
+
+Raenof woke up next and looked at Chloe, and his expression shifted slightly. “You seem… different somehow, did something happen?”
+
+Chloe opened her mouth with a joke ready, then hesitated. She rubbed the back of her neck and gave a small shrug. “A lot happened, and Maeve is gone now. Honestly, I’m not sure if it's a good idea for me to tell the two of you everything."
+
+"Is it because there's some curse placed on you?"
+
+"Uh, no. It's just… complicated."
+
+Sierra nodded. “That’s okay, you can tell us when you’re ready.”
+
+Raenof inclined his head. “I agree. You do not owe us answers before you are prepared to give them.”
+
+Chloe felt something warm settle in her chest at that. “Thanks for understanding, but there is one thing I can tell you. And you both have to promise not to freak out.”
+
+“I promise,” Sierra said.
+
+Raenof nodded. “I will listen.”
+
+“I’m… Ishgria’s daughter.”
+
+The silence hit hard after Chloe's revelation. Raenof didn’t speak right away. He just stared at Chloe, his calm expression tightening as his brows slowly drew together. “That is a very serious claim, I want to believe you, Chloe. Truly, but do you have any proof?”
+
+Chloe opened her mouth, her thoughts tripping over each other as she scrambled for something, anything, that didn’t sound completely ridiculous. But she had a hard time figuring out something she could say that wouldn't make her look crazy.
+
+“She’s telling the truth.” Sierra suddenly said.
+
+Both Chloe and Raenof turned to her at the same time. Sierra stood a little straighter, even though her hands twisted nervously in the sleeves of her clothes. She then met Raenof’s gaze head-on. “I met Ishgria, and she mentioned Chloe by name.”
+
+Raenof’s eyes widened, just a fraction. “You are certain?”
+
+Sierra nodded. “Yes. I wouldn’t say it if I wasn’t.”
+
+“How did you even meet Lady Ishgria of all people?"
+
+"I… went to Tartarus, right after I died. And that's where I met her."
+
+Chloe stared at Sierra. “Wait, you died? Like, died died?"
+
+"Well, maybe not died exactly, but I got close."
+
+Sierra shifted a bit like she was bracing herself. “A while back, I was being chased by Ynett’s snakes, and I felt myself about to die. Yet, right before it happened, I heard a voice. It asked me if I wanted help. I said yes, and before I knew it, I was in Tartarus."
+
+Chloe leaned forward immediately. “Okay, hold on. When you say voice, was it like Z? You know, the one who keeps telling me to do stuff like it’s my job?”
+
+"Uh, I guess? I don't know who this Z is though."
+
+"Nevermind then, what’s Tartarus actually like? It sounds like a pretty rude place if you ask me."
+
+“It was actually really creepy at first. There were rivers of blood, and a lot of fire. And also monsters that felt way stronger than anything I’ve seen up here.”
+
+"Uhuh, and then?"
+
+“But, it wasn’t all bad. I know that sounds wrong. But there were places that felt… quiet. Like they weren’t trying to hurt you. And once I stopped panicking, it kind of felt like just a place where people passed through, not just a place to suffer.”
+
+"And you're saying you met my Mom there?"
+
+"Um, yes. I did speak with Lady Ishgria briefly."
+
+Chloe sat back, eyes shining a little. “Okay, so we totally need to get to Tartarus. Because I want to see my Mom!"
+
+Raenof cleared his throat. “Chloe, I don't mean to burst your bubble, from what Sierra has described, the only known way to reach Tartarus at the moment is to die. Or come very close to it, and I do not believe that is a good plan.”
+
+Chloe opened her mouth, then closed it again. She frowned, arms crossing as she thought. “Yeah, guess dying on purpose isn't the best idea. I mean, I’m great at not staying dead, but that doesn't mean I want to start trying anytime soon."
+
+Sierra nodded. "Agreed, and also, I don’t know if Chloe dying would even bring her to Tartarus. Maybe what happened to me was a one off thing."
+
+After that, Maeve’s words echoed in Chloe's head, about Tartarus, about finding the Sages, about not losing herself. Her fingers curled into fists, then relaxed.
+
+“Okay,” she said, forcing a grin that didn’t quite reach her eyes. “So we don’t rush into dying. Fine. We’ll do this the smart way.”
+
+Raenof raised an eyebrow. “Do you have a smart way?”
+
+“Not yet! But I’m working on it. And hey, at least now we know Tartarus is probably real, so all we have to do is go there."
+
+"I suppose that's certainly a goal." Raenof said with a chuckle.
+
+Chloe let out a slow breath and looked around the chamber again, suddenly very aware that they were still very much stuck wherever this place was. “Okay, big revelations aside, how are we actually getting out of here?”
+
+Raenof followed Chloe’s gaze across the chamber. After a moment, he lifted his staff and pointed with the end of it. “Through there, I suppose."
+
+Chloe turned slowly and squinted. At the far end of the chamber stood a tall door, impossibly tall, framed in super shiny gold. Faint patterns were etched across its surface, curling and looping in ways that made her eyes ache if she stared too long.
+
+“…Was that there before?” Chloe asked.
+
+Raenof shook his head. “I am fairly certain it was not, but this place has been changing. It may simply be finished with us.”
+
+“Good, I really just want to leave. The Sanctum of Dawn hasn’t exactly been great." Sierra said with a weak smile.
+
+Chloe snorted, the tension in her chest easing just a bit. “Wow, rude. I mean, yeah, it tried to kill us a bunch, but I met Maeve, so I feel like that balances things out.”
+
+“Okay, fair. Especially since Maeve absolutely destroyed Ynett.”
+
+“Ugh, don’t remind me,” Chloe said, waving her hand. “That snakey jerk is officially banned from my brain. It’s freedom time!”
+
+She spun around and cupped her hands around her mouth. “Mister Whiiite!”
+
+A heavy snort echoed back, followed by the solid clop of hooves. Mr. White trotted over like he’d been waiting for his cue.
+
+Chloe’s face lit up instantly. She rushed over, wrapped her arms around his face, and planted a few quick kisses on his muzzle. “Okay, buddy, let’s get out of here.”
+
+Getting everyone through the door was an experience and a half. Chloe had to tug and angle and talk Mr. White through it like she was trying to shove an entire couch through a doorway that was very clearly not designed for horses. Raenof steadied the door with his staff, while Sierra kept glancing back over her shoulder from time to time.
+
+When they finally stepped through, Chloe braced herself for the worst.  Instead, cool night air brushed her face.
+
+They were standing on grass, in what looked like a quiet park. Lanterns lined the paths, casting warm light near some stone benches, and small fountains that softly bubbled nearby. In the distance, tall buildings rose into the night sky, their lights glowing like everything was normal. More notably, there was also this big statue of a bird person in the middle of everything.
+
+“Huh, so we're back here again."
+
+They were in Aetherion by the look of it. Wide, open, and peaceful, like the city had decided to pretend nothing bad had ever happened here. The sky above was deep blue and full of stars, and thankfully, there wasn’t a single person around.
+
+“At least we’re not being chased.” Sierra said.
+
+“Yet,” Chloe added, glancing around anyway.
+
+Raenof frowned slightly, scanning their surroundings. “This is not where we entered, but at least we are safe for now."
+
+"Yeah, we should prooobably find somewhere to hide though, and fast."

@@ -1,0 +1,199 @@
+---
+id: 6f798641-12db-54b2-8d02-1345ed5a8099
+page-type-slug: story-chapter-royal-road
+title: "155. Very Cool Evolutions (End of Book 2)"
+slug: 0155-155-very-cool-evolutions-end-of-book-2
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 155
+ownLength: 1938
+unit: words
+publishedAt: 2026-05-22
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3432046/155-very-cool-evolutions-end-of-book-2"
+royalRoadId: "3432046"
+---
+
+Chloe was pretty sure she was not supposed to feel pain. That had always seemed like one of the better parts of being undead. Pain was for people with normal bodies, and yet, right now, everything hurt real bad.
+
+Apparently, that super mega death ball of glorious destruction must have been so unbelievably awesome that even the backlash had managed to smack pain straight into her. Her divine shield had kind of, sort of, maybe cracked at the very last second, which was kinda unprofessional of it. Because of that, both she and Z had been blasted through the air before crashing hard across the floor.
+
+Chloe groaned, rolled onto her side, and immediately remembered to check on Z. She scrambled over on her hands and knees, then dropped beside her and pressed an ear against Z’s chest, listening carefully. Luckily, she heard heartbeats come through, which was great news.
+
+“Whew, close one,” Chloe muttered.
+
+Z was alive, and somehow, the good news kept getting better. As Chloe lifted her head, some new notifications appeared.
+
+[You have killed: Morpheus the Flayed One (Level 85)]
+
+[Experience Awarded]
+
+[You have leveled up! 39 >> 40]
+
+[Strength +7, Speed +7, Vitality +7, Magic +15, Resistance +5]
+
+Finally, after all this time, Chloe had reached Level 40, which meant one beautiful, important thing: she was finally going to evolve. The ruined chamber around her did not matter at all as she stared at the glowing words in front of her with rising excitement.
+
+Oooh yeah, it's about time I finally got my evolution. It's been so long since I had one…
+
+She waited for the usual notification to appear, the one that always showed up when she was ready to evolve. Nothing happened. Chloe blinked and leaned sideways a little, just in case the message was hiding. Still nothing, and that was pretty weird.
+
+She was definitely Level 40, so where was the evolve prompt? Then she looked at Z lying beside her, and a horrible thought hit her. Z usually handled this stuff and did the system stuff. But Z was here and that meant she wasn't up there in heaven doing her administrator job. Wait a minute, can I even evolve at all now?
+
+Chloe grabbed Z by the shoulders and gave her a firm shake, then another one for good measure, then a third because the first two had not felt enough. “Z. Z! Wake up!"
+
+Z made a weak sound somewhere between a groan and a sigh, which Chloe took as progress. A moment later, the woman’s eyes slowly opened. She blinked up at Chloe, who was hovering over her with the intense expression. "Welcome back, Z! You're like, alive now, so yay!"
+
+“I had gathered as much,” Z said weakly. She pushed herself upright with visible effort and held a hand to her head. “Though I confess I would have preferred a gentler awakening.”
+
+“No time for gentleness,” Chloe said, waving both hands. “I just hit level 40!"
+
+Z looked at her for a moment, then nodded. “Congratulations.”
+
+“Thanks, but there's a small problem here you see. I didn't get any evolve notification like I used to."
+
+That seemed to wake Z up faster than the shaking had. She straightened a little, then looked at Chloe more carefully. “You reached the Level threshold, but no prompt appeared?”
+
+“Yup, very suspicious behavior from the system.” Chloe said.
+
+Z was quiet for a few seconds, thinking in that calm, serious way that reminded Chloe a lot of some boss lady in a meeting. But then again, Z kinda was a boss lady in some ways, so guess that did track. .
+
+“At a guess,” Z said, “the evolution process was likely facing complications because of the alterations I made to your last evolution. But don't worry, I can still evolve you manually, though it will take some time.”
+
+Chloe stared at her. “That sounded smart. Can you make it sound less smart?”
+
+Z pinched the bridge of her nose. “Yes, you can still evolve. I should still be able to help you. However, we will need somewhere secure first, because the process may leave you vulnerable for a while.”
+
+"Oooh, okay then! I'll have a look around."
+
+Chloe sprang to her feet and threw her arms wide, nearly slipping on loose rubble before recovering. She turned in a slow circle and looked around the arena. The place was an absolute wreck. Broken pillars covered the floor, which also happened to be split with giant cracks, scorch marks covered everything, and pieces of ceiling still dropped now and then.
+
+Wow, I really did go off hard huh. Chloe thought to herself.
+
+Then she looked at the crater where Morphy had last been, or rather the enormous hole that now took up a large section of the floor. Bits of broken stone still crumbled from the edges and fell into the darkness below as Chloe walked to the rim and peered down. And uh, she could not see the bottom.
+
+“Ohhh,” she said. “I think I punched us to the next floor.”
+
+Z stood and came beside her. She looked into the hole, then looked at Chloe, then back into the hole again. “You did what?”
+
+“I made a shortcut for us basically, but also, that place down there is probably full of surprise monsters, so maybe not an ideal place for evolving."
+
+"Right, I do agree with that statement."
+
+Chloe turned and gestured grandly to the ruined chamber around them. “So, hear me out. We beat Morphy and completely wrecked this place, which means nobody sane is coming here anytime soon. That makes it safe enough, right?"
+
+Z looked over the broken arena, the giant hole in the floor, and the heavy silence left after Morpheus’s death. She looked back at Chloe and gave a slow nod. “You know what? We can make this work.”
+
+After that, Z stepped to the edge of the massive hole Chloe had blasted through the floor and raised one hand. A soft golden glow spread from her fingers into the cracked stone beneath them.
+
+The rubble around the rim began to shake as huge slabs of broken floor dragged themselves inward while smaller stones poured after them like a stream of gravel. Dust rose into the air as the pieces locked together one by one, until the gaping hole slowly patched up. The ground wasn't back to perfect condition, but it became solid enough.
+
+Z lowered her hand and exhaled quietly. “That was merely a precaution, just in case anything from below gets any funny ideas."
+
+Chloe stared at the sealed floor for a second, then shrugged. “Kay, but more importantly, can I evolve already?”
+
+“I was getting there,” Z replied.
+
+With a flick of her wrist, Z reached into empty air and pulled out a thin silver laptop. She then pointed toward a far corner of the chamber, where a half-collapsed pillar still offered some cover. “We should move there."
+
+Chloe nodded immediately. “Cool. also, super important question.”
+
+Z had already started walking. “What now?”
+
+“What brand is the laptop?”
+
+“That is not relevant.”
+
+“It is deeply relevant. If I am about to evolve, I deserve to know what technology is present.”
+
+“It is custom made.”
+
+“Ohoho. Fancy.” Chloe hurried after her. “Custom by who? Angels? Secret nerds? You?”
+
+Z sighed. “Let's just go, alright?"
+
+"Fiiine."
+
+They continued across the ruined arena while dust drifted lazily through the air around them. Chloe walked beside Z and her hands clasped behind her back.“So does your laptop have any games in it?”
+
+“No.”
+
+“Music?”
+
+“Yes.”
+
+“Ohhh. What kind?”
+
+“Whatever fits my mood.”
+
+“Can it run twenty tabs at once?”
+
+“It can run far more than that.”
+
+“Can it survive being thrown?”
+
+Z pinched the bridge of her nose while continuing toward the corner. “Chloe, please focus.”
+
+They reached the corner at last, and Z set the laptop on a flat slab of stone and then opened it. The screen lit instantly with lines of glowing symbols that Chloe did not understand at all, which meant it was probably advanced and impressive. Chloe crouched beside the laptop and stared at the screen. Strange symbols scrolled across the display in neat rows, boxes opened and closed on their own, and tiny bits of text flashed past far too quickly for her to read.
+
+"What's all this stuff you're opening?" Chloe asked.
+
+“It is a console,” Z replied without looking at her.
+
+Chloe kept watching with narrowed eyes. “Are you hacking me?”
+
+“I am helping you.”
+
+Z then typed one final command and closed the dark window. She straightened, nudged the laptop slightly farther back on the stone slab, and pointed two fingers away from it.
+
+“Step back.”
+
+“Kay,” Chloe said.
+
+She obeyed and shuffled backward a few steps, then crossed her arms and bounced lightly on her heels.“Okay, I stepped. Now what do I do?"
+
+“You should see some notifications appear right about... now.”
+
+[Displaying Available Evolution Options]
+
+[Divine Harbinger Zombie]
+
+[Necrolord Sovereign Zombie]
+
+[Soulshatter Phantom Zombie]
+
+Z Coughed loudly to catch Chloe's attention. "As you can see, the descriptions for these evolution options aren't loaded in properly yet, that's because—"
+
+Chloe froze.pointed at the first one so hard her whole arm shook. “OHHHH.”
+
+She pointed at the second. “OOOHHHH.”
+
+Then the third. “OOOOOOHHHH.”
+
+“These names go unbelievably hard.” Chloe said.
+
+Z rubbed her temple. “Just make sure to choose carefully."
+
+Chloe narrowed her eyes and pointed accusingly at Z. “Wait, actually, before I choose anything. If you’re here doing the notifications for my evolution... then who’s been doing the normal System stuff this whole time? And how long have you even been here in the mortal world anyway?”
+
+That question made Z go very quiet, and not the normal quiet either. This was the long, thoughtful, slightly suspicious kind of quiet that made Chloe instantly certain she had asked something important. Chloe crossed her arms, leaned forward, and waited.
+
+By the time Z finally spoke, Chloe was halfway into a really cool daydream about how she was back in her room and playing with her Mr. White plushie. She was kinda sad that she couldn't bring that plushie with her, but anyway, it was time to listen to what Z had to say.
+
+“It is a very long story, Chloe,” Z finally said. “But I have been in this world for a long time.”
+
+Chloe blinked, then tilted her head sharply to one side. “How long is a long time, exactly?”
+
+“Long enough that someone has likely already taken my place as Head Administrator back in Divinity Inc. But it is what it is.”
+
+“Aww. Are you sad you lost your job?”
+
+Z stared at her for a second, then let out a soft chuckle. “Not really in all honesty. I'm technically unemployed now… and I have to say, it's not that bad."
+
+Chloe placed a hand over her chest. “Say no more, I like not having a job. Having a job sounds totally not fun."
+
+"But Chloe, you'll have to get a job eventually once this is all over, you do know that right?"
+
+"What? I'm sure Mom can figure something out for me, so don't worry about that stuff.
+
+Z shook her head, still faintly amused, then gestured toward the floating evolution choices waiting in the air. "Since Lady Ishgria isn't here, you're going to have to figure this one out yourself."
+
+Chloe turned back to the glowing choices, planted her hands on her hips, and stared at her choices. “Alright then, time to choose what kind of awesome zombie I’m gonna be next!”

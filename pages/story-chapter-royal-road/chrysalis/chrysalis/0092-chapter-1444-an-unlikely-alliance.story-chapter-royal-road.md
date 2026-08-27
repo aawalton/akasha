@@ -1,0 +1,113 @@
+---
+id: 32060139-88ec-599c-a556-f816ee92a884
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1444 - An Unlikely Alliance"
+slug: 0092-chapter-1444-an-unlikely-alliance
+partOf: chrysalis
+position: 92
+ownLength: 936
+unit: words
+ownProgress: 936
+publishedAt: 2024-11-01
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1878143/chapter-1444-an-unlikely-alliance"
+royalRoadId: "1878143"
+markedReadAt: "2026-06-29T19:46:57.020Z"
+---
+
+“Can I ask how progress is going in the fifth stratum? The Legion is quite familiar with just how temperamental it can be,” Chyron stated.
+
+There was only the slightest pause before Jern replied. He must have been passing on the Commander's words as she spoke them.
+
+“You may not. That information is only for those who are part of the expedition.”
+
+Meaning, if they wanted to know, then they would have to commit their support for the invasion. Not an unexpected reply.
+
+“I don’t want to waste words,” Chyron stated evenly. “I know that there have been difficulties down there. The knowledge of the Legion would be invaluable to you, as would our participation.”
+
+“Knowledge has no value when there is no trust. The same goes for prowess on the battlefield.”
+
+Chyron couldn’t help giving a wry smile.
+
+“If you thought we weren’t of any use, you wouldn’t be here at all.”
+
+“I’m the only one in the Colony who believes in the potential of our cooperation. There is also commensurate–did I say that right? I did? Commensurate risk. The key to success in these negotiations is finding an acceptable balance.”
+
+“How old are you?” Chyron asked.
+
+“Who… me?” Jern asked. “I’m eighteen.”
+
+“Not you.”
+
+Only eighteen? Morrelia thought. This guy is massive!
+
+And he moved well. It was difficult to put her finger on, but there was something about the way he placed his feet, his balance, and the way he didn’t seem hampered by the axe on his back, but aware of it at all times. Just what sort of training had the Colony put him through?
+
+Solant tilted her head to one side, her antennae waving curiously.
+
+“Does it matter?” the ant replied.
+
+Chyron shook her head.
+
+“The Legion has been fighting monsters for thousands of years. I personally have served for over six decades, and in that time, I’ve fought in every stratum from the second to the sixth. Don’t underestimate what we bring to the table.”
+
+Solant flicked her antennae.
+
+“My family is young, but capable of so much more than you imagine. As am I. Let’s keep in our minds just why your Legion is here. You want to kill the Eldest, because they have been subjected to the Call, something beyond their control. Naturally, this means the Colony is disinclined to accept your help. Now, without wasting any more words, let us state our positions clearly. What are your conditions for lending aid to the Colony?”
+
+This was the kind of negotiating Commander Chyron preferred, one without pretence.
+
+“A guarantee of safety goes without saying. Access to all information gathered by your Colony in the Fifth stratum. And regular access to the ‘Eldest’.”
+
+“Why would you need access to the Eldest?”
+
+“Inspection purposes.”
+
+There was a long moment of silence as the ants conferred amongst themselves. Morrelia felt the tension rise amongst the troops, and she moved to clap the nearest soldier on the pauldron, catching his eyes and giving him a steadying nod. No good would come from the troops being too tense. A little nervous energy was good, kept a person on their toes. Too much led to errors. She did not want to see any errors.
+
+As she moved amongst the troops steadying a few, the ants finished their discussion, and the translator Jern spoke up once more.
+
+“You will fight as a unit, under the command of your own officers, but under the direction of the Colony and its generals. We will not divide you across more than two fronts at a time, but those assignments will be dangerous, far from the centre of our operations. Is this acceptable?”
+
+“It is,” Chyron replied immediately.
+
+“We require that you share accurate and complete information regarding the nature of the Fifth stratum.”
+
+“Some things I cannot share, but others, I can. If I cannot answer a query, I will offer other information instead.”
+
+“Acceptable. Access to the Eldest will only occur with their permission. We do not order them.”
+
+“That isn’t sufficient. You know our mission is directly related to that individual. We promise not to harm them, but we must have access to them.”
+
+This was not what the ants wanted to hear, and even Morrelia could tell. Antennae waggled angrily back and forth while several audibly ground their mandibles. As she expected, Anthony was a touchy subject amongst them.
+
+Just when she expected Solant to reject the agreement, Jern suddenly raised a hand.
+
+“Uh… the Eldest agrees to the condition.”
+
+Suddenly, the ants looked resigned, but there was a ripple of confusion that ran through the Legionaries.
+
+“You speak for the individual in question?”
+
+“No, but I can speak to the Eldest,” Jern said, looking embarrassed.
+
+“Really? How do you have that authority?”
+
+The young man looked confused for a moment.
+
+“Oh, thanks. No, I can speak to the Eldest. They were listening in, and agreed to your conditions.”
+
+“Interesting,” Chyron murmured. “Then it sounds like we may have an agreement.”
+
+“It does indeed.”
+
+An ant immediately came forward, a thick sheaf of documents held in its mandibles. Moving carefully, in a businesslike fashion, it approached and offered the documents to the Commander. Joshen stepped forward to take them.
+
+“And what are these?” Chyron asked, brow raised.
+
+“Deployment schedule, logistics integration instructions, maps and a step by step plan for billeting your troops.”
+
+Chyron flicked through a few of the pages, the corner of her mouth quirked up in a smile.
+
+“This is an awful lot for you to organise on such short notice.”
+
+“I didn’t. Your participation in this endeavour wasn’t… unplanned for.”

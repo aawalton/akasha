@@ -1,0 +1,193 @@
+---
+id: 727d78b1-eb25-5329-bf3d-54a51e9d4397
+page-type-slug: story-chapter-royal-road
+title: "102: Sponsorship Benefits"
+slug: 0102-102-sponsorship-benefits
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 102
+ownLength: 1925
+unit: words
+publishedAt: 2026-01-19
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2957978/102-sponsorship-benefits"
+royalRoadId: "2957978"
+---
+
+Getting to the Grand Archives wasn’t simple. They had to pass several guards, each one standing tall in gleaming armor. They blocked the way for most would-be visitors, but the moment they saw Ynett, the guards bowed, and the four of them were waved through without a single question.
+
+Chloe tried not to stare too much, but it was both impressive and annoying how easily Ynett earned that kind of respect. She wondered how in the world did Ynett actually manage to get such a convincing disguise, but that was a question for another time.
+
+The Grand Archives was huge, rising like a white stone mountain in the center of Aetherion. Tall columns shaped like folded wings lined the entrance, and various imagery of birds in flight covered the outer walls.
+
+Two enormous doors marked the front. They were at least five times Chloe’s height and probably weighed more than even a mountain of brains. Yet they opened with barely a sound as Ynett approached, as if the building recognized her.
+
+Chloe slowed as they stepped onto the final set of polished marble stairs. The air felt cooler here, almost like the Archives were breathing quietly. Even Sierra had lifted her head, her eyes wide as she took in the view. Raenof, meanwhile, looked impressed but tense, probably because he expected something to happen at any moment.
+
+Not like Chloe could blame him. He probably also didn't really trust Ynett.
+
+They reached the top of the stairs at last. The great doors finished gliding open, revealing a warm golden glow waiting inside.
+
+They stepped inside, and the glow only grew brighter. Tall shelves rose all the way up to a domed ceiling painted with flying birds and swirling clouds. Chloe turned in a slow circle, eyes huge. “This place is huge. And shiny. And huge.”
+
+Raenof nodded beside her. “It is impressive.”
+
+“The Grand Archives were built over three hundred years ago,” Ynett said. “Commissioned by the High Cleric of that age. Each wing-shaped pillar represents one of the—”
+
+“Wait, how do you know that?” Chloe interrupted.
+
+“I did my research.”
+
+Raenof raised a brow. “Research? Meaning this is your first time inside?”
+
+“Yes,” Ynett replied.
+
+Chloe folded her arms. “You sound like you memorized the whole place.”
+
+“I like to be prepared, unlike certain people who rely entirely on impulse.”
+
+“And which people are you talking about exactly?”
+
+Ynett’s smile softened into something annoyingly patient. “Now, now. We are here to look for information on Maeve, not argue.”
+
+Chloe huffed. She really did not like Ynett. Everything about her felt slippery, smug, and way too comfortable. But the worst part wasn’t even that, it was how Ynett still hadn’t tried hurting any of them. Not her, not Raenof, not Sierra.
+
+If Ynett was really as strong as she claimed, she could have gone to Maeve on her own. So why bother dragging them along?
+
+Chloe suspected the answer was as simple as it was unsettling, Ynett knew something the rest of them didn’t. That thought sat heavy in her chest. Even so, they didn’t have much of a choice. For now, they had to follow along and hope Ynett’s secrets weren’t the dangerous kind.
+
+Sierra stayed close to Chloe, looking nervously at Ynett every few seconds. Chloe didn’t blame her. Ynett moved ahead of them with total calm, feathers swaying with each step, humming under her breath like she was enjoying a nice walk.
+
+“We should look for anything mentioning Maeve.” Raenof suggested.
+
+“Agreed. Let’s begin in the east wing. It holds the oldest historical records,” Ynett said.
+
+They walked deeper into the archives, passing scholars and robed attendants whispering quietly to each other. None of them looked twice at Chloe, Raenof, or Sierra, until Ynett walked by. Then everyone started bowing, nodding, and stepping aside like she was some important queen. Chloe found it annoying. Nobody ever bowed at her.
+
+And I’m way cooler than she is, she thought with a pout.
+
+When an attendant approached to offer assistance, Ynett flicked her fingers in a casual, almost bored gesture. The attendant stopped as his eyes turned into a glazed, empty stare before he silently wandered off in the opposite direction.
+
+Raenof stopped walking. “Must you use that magic here?”
+
+Ynett tilted her head, feigning innocence. “What magic?”
+
+“That,” he said flatly, pointing at the poor man drifting away like he’d forgotten what a straight line looked like.
+
+“Oh, that's just a little nudge. Harmless.”
+
+“It is not harmless,”
+
+Chloe crossed her arms. “Yeah. Stop doing that. It’s creepy.”
+
+“I suppose I’ll hold off a little more, if you insist.”
+
+Chloe immediately stuck her tongue out at Ynett’s back, then continued walking. They headed deeper between the towering shelves. Chloe tried to be helpful at first and grabbed anything that looked important, but every book she picked ended up being something like The History of Wing Grooming or Advanced Feather Maintenance. Not even close to useful.
+
+But after a lot of searching, Raenof eventually stopped so suddenly Chloe walked into his back. “Hey, warn me next—oh,” she said, catching the title of the book he held. Records of the Sanctum of Dawn.
+
+“That looks like the book we want,” Chloe whispered loudly.
+
+“It is,” Raenof said, flipping the cover open. “Give me a moment.”
+
+Chloe nodded, then looked to Sierra, who clung to the edge of a shelf like her life depended on it. She nudged the wolf girl's shoulder gently. “You okay? I can get you a book on wolf stuff if you want"
+
+Sierra managed a tiny laugh. Chloe smiled proudly.
+
+Ynett appeared beside them like an unwanted shadow. “How touching. The little wolf hiding behind the little zombie.”
+
+Chloe glared. “She’s not hiding. She’s just standing.”
+
+“Mm. Of course she is.”
+
+Meanwhile, Raenof was already deep in the book. “According to this, the Sanctum of Dawn could only be reached through a ritual that needed an offering, specifically a body part from a beast of the sky.”
+
+“A beast of the sky? That likely means the Thunder Bird. They’re native to this region.” Ynett said.
+
+“Most likely. Their feathers were used in old holy rites. But Thunder Birds are extremely dangerous.”
+
+“Oh, nice, I can totally punch a bird,” Chloe said.
+
+Raenof shut the book with a slow, tired look. “Chloe. Thunder Birds can summon storms with a single cry. They can incinerate you with lightning.”
+
+“So? I’ll probably survive.”
+
+Ynett chuckled. “For once, the elf is correct. Thunder Birds are ancient creatures. Even I would struggle with one.”
+
+“Well, what if we all team up and beat it up together?”
+
+“I would be delighted to assist you all in defeating a Thunder Bird. But first, we must find one.”
+
+Raenof returned to flipping through the pages. “They are native to this region’s wilds. If we leave Aetherion and head toward the mountains, we may find a nesting site.”
+
+Chloe groaned quietly. “Mountains again? The last time I went up a mountain, I got chased by angry goats, almost got eaten by a weird bat monster, and then almost got set on fire.”
+
+Raenof simply stared at her. Sierra blinked. “How… how did all of that happen?”
+
+“Oh, you know. It just kinda does."
+
+Chloe shrugged like surviving goat attacks and flaming bat monsters was normal. Ynett looked delighted by the chaos of it, which was rude but also fair.
+
+Raenof cleared his throat and went back to the book. “In any case, if we want a Thunder Bird feather, or anything else from it, we will need a plan.”
+
+“My plan is punching."
+
+“Yes, well, unfortunately Thunder Birds do not usually fly low enough for you to punch.”
+
+Ynett stepped closer with a thoughtful hum. “We should gather supplies first. Maybe some charms to resist lightning, and perhaps something to lure the creature. Unless you intend to stand on a cliff and scream until it notices you.”
+
+Chloe blinked. “Wait. That’s an option?”
+
+“No,” Raenof said immediately.
+
+Sierra tugged gently at Chloe’s sleeve. “Um… even if we get the feather or whatever part we need, what do we do then? Is there a specific place where we have to do the ritual?"
+
+“Hm. Good question.” Raenof flipped through the book again as. After a long moment, he tapped a line with his finger. “Here. It says the ritual does not require a specific location.”
+
+Chloe gasped. “Seriously? So can we just do it anywhere?"
+
+"It only says the ritual must be performed during dawn. If the offerings are correct, the Sanctum of Dawn will reveal itself.”
+
+“Reveal itself… how?”
+
+“I imagine a portal, or a path, or some other magical sign. The text is vague.”
+
+“Convenient,” Ynett murmured, brushing a finger along the shelf. “If we obtain the Thunder Bird’s offering, the rest should fall into place. In theory.”
+
+Chloe swallowed. She disliked how calm Ynett sounded. She disliked even more how much sense she made. Still, at least they had something resembling a plan now. “Okay. Step one: get supplies. Step two: find the Thunder Bird. Step three: punch it until it drops a feather.”
+
+“That is absolutely not—” Raenof began.
+
+“—exactly what will happen,” Ynett finished smoothly, flashing him a smile.
+
+***
+
+Scar staggered back until his spine hit the cold stone wall, sliding down it with a shaky breath. The stink of scorched fur clung to him, as streaks of lightning burns crawled across his arms and shoulders, leaving patches of blackened skin and singed hair.
+
+The underground chamber around them flickered with weak blue light. Every distant rumble made dust drift from the ceiling. Scar ignored it. Pain drowned out everything else.
+
+Morikhan’s massive frame shifted beside him, the giant wolf lowering his head until his moss-streaked fur brushed the cracked stone floor. “Scar, can you recover?”
+
+Scar let out a broken huff. “Barely. Gimme a bit, yeah? Ain’t dead yet.”
+
+“It is enough. Few survive an encounter with a member of Sol.”
+
+“Then why’d you save me? Last time we crossed paths, we weren't exactly on friendly terms."
+
+"The situation has changed. Whatever passed between us before no longer concerns me. I hold no personal grudge against you.”
+
+Scar barked a rough laugh. “What, you expect us to be all buddy-buddy now?”
+
+“No. And if you try anything foolish in the foreseeable future, I will kill you.”
+
+“Yeah… message received. Guess that means I owe you one. So what do you want?”
+
+Morikhan lifted his head, gaze focused down the ruined corridor. “I intend to strike at Sol. You may join me, if you wish. Or you may stay out of it entirely. I care only that you do not stand in my way.”
+
+“Normally? Wouldn’t bother. Not my problem. But for the chance to get revenge on that sparky witch, yeah. I’ll listen."
+
+Scar had been many things in his life, but weak had never been one of them. The humiliation Sabine dealt him cut deeper than any lightning scorch seared into his skin.
+
+What soured it further was the simple fact that he would have died if not for Morikhan. Being rescued by the massive wolf felt less like salvation and more like a claw hooked beneath his ribs.
+
+He could live with pain. He could endure failure. But humiliation was something he would never swallow. So, no matter how bitter or crooked the road became, Scar would have his revenge.
+
+Morikhan’s rumbling voice cut through his thoughts. “Since you’re so hell-bent on revenge, tell me. Do you wish to become a sage?”

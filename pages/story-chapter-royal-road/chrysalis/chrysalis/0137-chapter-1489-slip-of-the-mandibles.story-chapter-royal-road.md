@@ -1,0 +1,111 @@
+---
+id: b85d7c53-4cf5-5ba7-b1a6-e4854967ac9f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1489 - Slip of the Mandibles"
+slug: 0137-chapter-1489-slip-of-the-mandibles
+partOf: chrysalis
+position: 137
+ownLength: 1193
+unit: words
+ownProgress: 1193
+publishedAt: 2025-01-21
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2021406/chapter-1489-slip-of-the-mandibles"
+royalRoadId: "2021406"
+markedReadAt: "2026-06-29T19:48:13.828Z"
+---
+
+I was going to visit the healers anyway, so being prodded by the Legion at the same time isn’t a big deal. I’m the one who agreed to their conditions, after all; it’s not like I can complain now.
+
+Well… I can… and I will! Just… internally.
+
+Advant and I wind our way through the myriad tunnels of the burgeoning fortress, and I’m pleased to see how far along the building has come. With these large connecting tunnels complete, the build teams have moved on to finishing all the rooms, passages and chambers that come off them. Through the offramps and entrances, I can see workshops, resting chambers, storehouses and even guest rooms being filled in.
+
+Solant’s mastery of logistics continues to amaze and astound with just how efficient everything is. The guest rooms already have carpets, beds and tapestries in them, for goodness’ sake! Not to mention the fine woodworked furniture!
+
+Hello? Can we get a wall or something in the outer tunnels where the fighting is taking place?
+
+As much as I want to protest, I know that Solant has arranged everything this way for a reason. Just because I don’t know what it is doesn’t mean it isn’t for the best. Most importantly, the network of channels that will be the lifeline of this base are now complete, and the final touches are being put onto the many, many wuffer platforms dotted throughout the fortress.
+
+When that work is done, the outer edges of the fortress will finally be completed, and I, along with all the other ants fighting at the frontline, will be able to retreat inside, secure behind the thickest walls, the most robust gates and the deadliest traps the Colony has ever devised.
+
+Not to mention a thick wall of blue mana that will dissolve any enemy that comes too close. Gweheheheheh. If things go well, we won’t have to defend the fortress at all; the cleansed energy of the wuffers will do all of the work for us.
+
+We stride into a chamber to find a group of healers and Legionaries standing ready, waiting for my arrival. The Legion Commander is in attendance, along with Morrelia, which is nice. It’s good to see Morrelia is doing well, though, if I’m honest, she looks a bit stressed.
+
+Ah. I think I see the reason, and it has a large, luxurious moustache. In the time it takes me to move from the entrance to the centre of the room, Isaac hasn’t taken his eyes off Morrelia once, smiling gently to himself and stroking his moustache idly with one hand while she avoids his gaze completely.
+
+Geez.
+
+[Isaac, get the heck out of here.]
+
+He jumps when I speak to him, whipping around to look at me.
+
+[Wha? Why?]
+
+[Your facial hair is annoying. Go wait outside the door.]
+
+[My… my facial hair?] he asks, voice trembling as he raises both hands to cover his pride and joy.
+
+[You don’t have to shave it or anything, just go wait outside, dammit!]
+
+Yeesh.
+
+Still confused, he does as I’ve asked, and only when he’s out of sight does Morrelia visibly relax. Come on, Isaac, you have to be a lot better than this if you want to be her friend. Even Odin is doing better than you. Odin! Sarah can at least stand to be around him, which is more than I can say for this situation.
+
+Commander Chyron, resplendent in her burnished armour and sweeping red cloak, cuts quite the dashing figure in the middle of the room, and I approach her, looming over the much smaller human, clacking my mandibles ominously.
+
+[Are you done?] she asks once the mind bridge has been established. [You aren’t impressing anyone.]
+
+[Is that so? I’m a supremely unimpressive monster? Then I suppose you can pack up and go home. No need to be hanging around here with five thousand highly trained and expensively equipped troops, am I right?]
+
+Chyron frowns and folds her arms across her chest. [You’re annoying, if nothing else.]
+
+[Coming from an Abyssal Legion Commander, I think annoying is a compliment,] I chuckle, giving my mandibles a few more snaps. [How’ve you been finding your tunnel? I hear things have been getting crazy up there.]
+
+[I’m catching up on my sleep, if nothing else,] she says. [Can we hurry this along? I’m late for my nap.]
+
+From what I hear, the Legion aren’t taking it easy at all. Chyron has been putting the troops through an intense training regimen, whipping them into shape and ensuring her soldiers are in prime condition. They’ve been getting pretty much no attention from the Krath at all, only having to deal with random monster spawns, which they’ve done with contemptuous ease.
+
+[No need to rush. If you come all this way to spend some time in my presence, we may as well have a chat. Can I interest you in tea and biscuits?]
+
+[You cannot,] she firmly refutes. [I’m not here to exchange pleasantries with a monster, I’m here to do my duty.]
+
+[Your duty involves having that guy wander over and wave his hand at me? What information is he even getting out of that?]
+
+[We aren’t required to give you that information, monster.]
+
+[It’d be nice if you did, though.]
+
+Chyron just glares up at me, clearly running out of patience. She really isn’t much fun.
+
+[How’s the information exchange been going,] I ask. [Given us anything really juicy yet?]
+
+[Your leader is satisfied with the intelligence provided,] Chyron says shortly. [That will have to be enough for you.]
+
+Well, I suppose it is. If Solant is happy, then I am too.
+
+[I wonder who we’ll learn more from in the end,] I wonder, settling down for their Dungeon Seer to examine me, [you lot or the Krath we captured.]
+
+[The what?!] Chyron snaps, glaring up at me.
+
+I’m surprised by the intensity of her voice and turn my head towards her again. Then I think for a moment. I… probably shouldn’t have mentioned that.
+
+[Nothing. Just lies. All I do is lie, all the time, so many lies. Holy moly, there I go, lying again. Better get this inspection done with. I’ve got stuff to do.]
+
+Smooth.
+
+I reach out an antenna and prod the Dungeon Seer, prompting him to move forward. He recoils from me and looks to Chyron for guidance, trying to avoid my repeated poke attempts.
+
+[You’ve captured a Krath? That’s impossible,] she grinds out.
+
+[Absolutely. That’s the first clue that I was lying. Man. Such lies. I really shouldn’t lie so much. It’s bad for the soul. Or something. Are we done here?]
+
+Times like this, I’m glad I can’t sweat.
+
+Chyron glares at me for a long moment before gesturing for the Dungeon Seer to approach me. As before, he holds out his hand for ten seconds or so, then lowers it again. This time, I’m watching closely, and I see the quick look of surprise that flickers through his eyes.
+
+[You’re reading my Level,] I say. [Why would that matter?]
+
+Then I think for a moment.
+
+[I shouldn’t have said that out loud. Dangit.]

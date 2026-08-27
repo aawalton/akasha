@@ -1,0 +1,112 @@
+---
+id: b3e420ac-7129-5f9a-a0fd-2b118b8401d6
+page-type-slug: story-chapter-royal-road
+title: "108 - The Auction House"
+partOf: bunny-girl-evolution
+position: 17
+ownLength: 2708
+unit: words
+ownProgress: 2708
+publishedAt: 2025-06-21
+link: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/2373486/108-the-auction-house"
+royalRoadId: "2373486"
+markedReadAt: "2026-06-29T20:03:12.556Z"
+---
+
+The interior of the building was about as nondescript as the outside. As far as Elise could tell, it was just a small, unoccupied inn. At least, that’s what it was on the surface. Inside, there was a [Discreet Usher] who guided them back behind the bar in the dining hall where a staircase was hidden, leading down to a small room with a magical elevator. She and Franz followed wordlessly as the Usher brought them inside and pressed a button. A full minute of awkward silence followed as the elevator went downward.
+
+At some point, they seemed to leave whatever enchantment kept Everspring temperate, and it got suddenly cold, making Elise shiver. Franz reached around her shoulder to pull her close, and she had to refrain from shivering again and pulling away. When the elevator finally reached the bottom, the temperature returned to normal, though this time, Elise could sense the climate control enchantments in the walls around her.
+
+The trip downward had put a bit of a damper on her mood. They had to be hundreds of feet underground by now, meaning that if things went badly, there was no easy way to escape. She didn’t think that Oberon would have sent her anywhere that things were likely to get dangerous, but he had paired her with a con artist and sent her to what was clearly a secret auction, so she couldn’t rule anything out.
+
+The new room they arrived at was small, hardly more than a hallway, and it had two doors leading out. One was clearly a maintenance door, and almost blended into the wall, while the other was made of ornately carved wood, and this was the one the usher led them through. They walked about a hundred feet down a winding hallway to another door, and when that door opened, they were hit by a wave of sound.
+
+Through this second door was a massive lobby the size of a basketball stadium with a ceiling that probably was half the height of the elevator shaft. It was filled with people and lined with doors identical to the one they had emerged from. A few looked their way when they entered, but no one came to greet them. Most of the people were filing toward the far side of the room, which was lined with double doors, and through the throngs of people, Elise could see just the barest hint of a stage in the distance.
+
+“Looks like we made it just in time,” said Franz. “I’m glad I didn’t get delayed any more than I already was.”
+
+I’m glad you were delayed at all, thought Elise as she nodded and smiled.
+
+If he hadn’t been delayed, Elise probably wouldn’t have enough time on her transformation to make it through the whole thing. She would end up turning into a bunny Cinderella, fleeing as the clock struck 2:13 or whenever her transformation would wear off. She wondered how Oberon managed to time it so well, but the older fey’s methods seemed to generally be beyond her comprehension, so she didn’t spend much time worrying about it.
+
+“Right this way,” said the Usher, gesturing toward a smaller set of doors off to the side of where the rest of the crowd was going.
+
+Through that door, there was a staircase that zigzagged up to what looked like four floors, but they only went up to the second before walking down a hallway to a small balcony overlooking the rest of the auction house interior. There were curtains on either side that blocked their views of the adjacent balconies, but Franz cleared them both as soon as they entered, smiling down at the people below as he did so. The only furniture on the balcony was a small couch that forced Elise to sit uncomfortably close to the man, and a table with a book and two paddles on it.
+
+“This is the auction catalog, and these are your bidding paddles,” said the usher. “There will be servants regularly patrolling the halls. Feel free to summon them whenever you need anything. For now, would you like any refreshments?”
+
+“A bottle of your best red,” said Franz. “And maybe a few cookies and things. Eliza dear, do you want anything?”
+
+“Something with cinnamon,” said Elise.
+
+“Oh, good choice,” said Franz. “Yes, that should be all.”
+
+“Yes, sir,” said the usher bowing. “Another servant will be in shortly.”
+
+“Thank you,” said Elise.
+
+As soon as he was gone, Elise reached for the catalog on the table and began reading through it as Franz leaned in to read along. She was a bit surprised at how above-board everything seemed. Given the fact that it was taking place in a secret bunker deep underground, she had expected some illicit materials being sold—at least drugs, and at worst, possibly even people—but everything seemed quite normal.
+
+There were still a few things that were clearly illegal, but frankly, they were illegal in a way that Elise found a bit disappointing. There was wood from a tree known as a steel baobab, which was nearly extinct and illegal to harvest, and seeds for a type of vine that was illegal to plant because of how invasive it was. The catalog bragged openly about these facts in the descriptions for each item, but after having taken out an international slave trading syndicate, the level of illegality seemed almost boring.
+
+Elise flipped through the pages idly, keeping an eye on the seats below as they rapidly filled in. She didn’t think she’d have much time before the event officially started, so she stopped looking too closely and started skimming until she found something interesting. The first thing she stopped on was the portable library that Franz guessed she was after, and her eyes almost popped out of her head when she saw the details. It suddenly made perfect sense why Franz thought she would have come all this way just for it.
+
+It was far more extravagant than she had initially envisioned. It wasn’t just a storage device that was designed to hold books. It was designed to hold the books, the bookshelves, the floor, the walls, the windows, the ceiling the chairs, and the cushions of a library as well. It was one of the highest-capacity spatial storage devices ever created, and it had been designed to hold exactly 1 thing: a literal library.
+
+It wasn’t a full-sized library, of course. The catalog made it very clear that the portable library was only about 100 square feet, and had 6 bookshelves, 1 armchair, and a large window with a cushioned windowsill. It had magical climate control, and noise cancelling to keep it quiet no matter what was happening outside. The base of the room was designed with auto-leveling in mind, so no matter where it was taken out of the storage, it would sit stable and level on the ground. It had a full six pages dedicated to showing images of the miniature library placed in various locations, like on mountains, beside waterfalls, and even in a tree.
+
+She thought it was far beyond what anyone could ever need, especially considering what she knew about how difficult spatial magic was, but at the same time, it sounded really nice. She could totally see herself using it. She checked her storage pouch she had gotten from the tailor changeling and realized to her surprise that it actually had a function to tell her how many coins were inside. She had 25,000, which was far more than the starting bid of 10,000. She had no idea what to expect from the bidding, but if she could afford it, would she buy it?
+
+She was conflicted, because on one hand, it didn’t feel like her money, so she would feel guilty spending so much of it. On the other, because it wasn’t her money, she weirdly also felt more comfortable spending it on something so frivolous. She would never buy something like that unless she had as much disposable income as Oberon seemed to have, but since it was his money, it didn’t really count, right? She didn’t expect to have the money, so losing it all buying something like that was a net 0.
+
+That’s stupid, she told herself.
+
+Even if she was going to use that mindset, she should at least buy something useful with all that money instead of wasting it on the library.
+
+She was about to start flipping through the pages again when the lights suddenly dimmed and the room went quiet. From behind a curtain on the stage, an older man with salt and pepper hair wearing a black suit stepped out.
+
+“Welcome to the 150th annual Everspring Underground Auction!” he said, his voice magically amplified.
+
+He waited for the polite smattering of applause to dissipate before he continued.
+
+“I hope your purses are full, because this auction just might be the best one yet.” There was another short round of applause. “As always, we have rare items from all over the world, made by the finest craftsmen and appraised by our very own Madame Hawke.”
+
+He gestured up toward a lone balcony on the back wall, where Elise saw a woman dressed in red with long feathers in her hair waving to the people below. Elise joined the applause, which was greater than any that had come before, and lasted a full twenty seconds before dying down. As it did, the lady on the balcony retreated back into the shadows, but just before she did, Elise could have sworn that they made brief eye contact.
+
+“In addition, we have some exciting new items that I can guarantee most of you have never seen in your lives,” the man on the stage continued. “As you all know, the exploration of Carsas has made great strides in recent years, and it has begun bearing fruit. I can see some of you checking your catalogs, but you will not find any information on these items within. We have intentionally left them out in order to build tension.”
+
+That caused a few angry grumbles.
+
+“But, don’t worry,” he said. “We will tell you how many of them there are, and how much the starting bids will be so you can plan your spending accordingly. In fact, I will do just that right now.
+
+“We have a total of 7 items from Carsas available tonight. The first two will start at 500 gold, and will be the opening items of the auction. The next 2 will start at 1500 gold, and will be the final items before the intermission. When we return from the intermission the next 2 will be unveiled, each starting at 3000 gold. The final one will be included in the auction’s grand finale, and will start at 10000 gold.”
+
+The auctioneer paused to allow the audience to whisper amongst themselves. From Elise’s brief flip through the catalog, 10000 was just about the upper limit for starting bids. The portable library was the only other thing she remembered seeing at that price, and it was also supposed to be part of the grand finale.
+
+“Due to the surprise nature of these items’ inclusion, we will be raising the limit for allowed purchases on credit. However, as always, we will keep the item in our own storage until you bring us the funds. Should you fail to do so within three months, the item will be sold to the next highest bidder, and you will be banned from the auction house for the next decade.
+
+“Now, without further ado, I believe you’re all feeling quite eager to lighten your wallets, so I won’t keep you any longer. It’s time to reveal the first item of the auction.”
+
+The tension in the air was palpable as an attractive young woman pushed a covered cart out onto the stage.
+
+“As I’m sure many of you have heard, what makes Carsas so interesting is not the fact that it has completely new species, but rather that it has variants of existing species, some of which are new, and others of which were thought to be extinct. During one particular expedition, a group of intrepid explorers stumbled upon a grove where many such plants grew. It was far too much for them to bring back with them, however.”
+
+The woman behind him lifted the sheet off the cart, revealing a scroll in a glass case. On one side of the scroll, there was a wavy purple mushroom, and on the other, an almost metallic yellow vine with yellow flowers.
+
+“So, instead, they made a map. This map was made by a 7th tier cartographer class, and accurately details the exact route to reach this grove. The grove is more than four square miles, and is full of many of the specimens that you see before you. On the left is a Primordial Veilcap. You may know about ordinary veilcaps, which are a common ingredient in sleeping draughts. The Primordial version is similar, but more potent, and early testing shows it has the side effect of producing pleasant dreams.
+
+“On the right is a Gilded Creeper. This is a rather unique plant, and while its full uses have not been discovered, early testing from an 8th tier Alchemist show that when handled in certain ways, it can produce an excellent stamina potion, on par with anything already on the market.
+
+“Both of these species can be found in abundance within this grove, and early estimates value it at well over 30,000 gold worth of materials, and far more than that if you process it yourself. It is in a safe location on the continent, but the way to reach it is currently rather dangerous, so reaching it is no simple task. Still, it will no doubt prove to be a veritable gold mine for anyone with the means to take advantage of it. The map also comes with free consultation with its creator, who is more than willing to accept a job to guide the purchaser to his findings.
+
+“The starting bid is 500 gold. Do I see 500? 500! Do I see-? 550! 600!”
+
+The bids started rapidly increasing and Elise soon lost interest. She could recognize the objective value of such an item, but she was hoping for something a bit more exciting with how much the announcer had hyped up the other continent. The map ended up selling for around 2500 gold, with the winner being a man on a lower balcony on the opposite side of the room with a mustache so bushy Elise could see it clearly, even from hundreds of feet away.
+
+The next item was the skin of an odd tiger-lizard combination that sold for only 1400 gold. Just selling those two items took an entire ten minutes though, which made Elise worry about her time limit. She was less worried that she would have to leave early, and more worried that the auction taking longer than 4 hours was well within Oberon’s plans, and that something big was going to happen in the middle of it, but her worries were alleviated when the ordinary items began to be put up. The auctioneer spent almost no time at all explaining these items, instead jumping straight into the bidding.
+
+The items in this part of the auction were mostly simpler. Either raw materials, or relatively ordinary magical items. They were all excellent items, but none of them really caught Elise’s interest. Franz bid on a few of them, and even won a set of dwarven rune armor, but Elise found her eyes glazing over, and she repeatedly checked the timer on {Lesser Transformation} to see how much time had passed.
+
+Her mind drifted away from the auction and back to her future evolutions. She was idly wondering what kind of evolution paths these lessons from Oberon would open up for her when the auctioneer said something that snapped her back to the present.
+
+“Our next item is a set of 10 copies of the banned book, {Mind Control}, and Other Similar Skills and How to Use Them from the first printing, preserved in perfect condition. Bidding starts at 100 gold!”

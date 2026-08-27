@@ -1,0 +1,183 @@
+---
+id: 826b8dfb-2b14-5bcd-9137-7623ff737220
+page-type-slug: story-chapter-royal-road
+title: "124 - Yona, the Devourer"
+slug: 0126-124-yona-the-devourer
+partOf: cat-girl-evolution
+position: 126
+ownLength: 2656
+unit: words
+publishedAt: 2026-05-08
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3369558/124-yona-the-devourer"
+royalRoadId: "3369558"
+---
+
+Everything was falling apart right before his eyes, and Joakim could do nothing about it. The Dungeon he had so painstakingly cultivated was having its essence devoured, some of his most powerful undead were proving ineffective, and the damn cat was taunting him. If she could even be called a “cat” anymore.
+
+That thing on her back had grown with every zombie it devoured. It had two heads the size of a person, each with a dozen tentacles strong enough to crush the Tier 3 zombies like bugs. Wherever she went, they snatched more and more of the zombies, breaking their bodies as they were drawn toward the all-devouring maws. With each dead zombie. The eldritch monster not only grew stronger, but the Dungeon grew weaker.
+
+Joakim teleported behind her and fired a Soul Bolt, hoping to catch her unaware, but she seemed to have eyes in the back of her head and the moment he appeared, she disappeared, reappearing on top of one of the special zombie variants and devouring it before he even had time to line up another attack.
+
+“Delicious,” she said, licking her lips.
+
+“Do you have any idea what you’re doing!?” shouted Joakim. “You’re ruining everything!”
+
+He fired another volley of Soul Bolts as he spoke, all chasing their target as she fled, but none of them hit, and a dozen more zombies were devoured before his eyes.
+
+“Yeah, that’s kinda my goal,” she replied, sending an enormous blade of inky black spatial mana his direction.
+
+She had performed this attack more than a dozen times already, each with enough mana that she should have burnt through her mana pool already, but she showed no signs of stopping. Not only were the devoured zombies empowering her body, but they even seemed to replenish her mana.
+
+It’s not fair! Joakim screamed internally.
+
+“Do you know how many people had to die to prepare this?!” he screamed. “If you continue, their sacrifices will have been for nothing!”
+
+“I actually don’t know,” she asked, her smile fading. “How many had to die?”
+
+“Thousands! Thousands dead to stop monsters like you!”
+
+“You killed thousands to try and kill me?”
+
+“I killed thousands to save millions from you!”
+
+“…Kinda sounds like you’re the real monster here.”
+
+“I am the hero!”
+
+“Heroes don’t kill thousands.”
+
+“Heroes need to make sacrifices!”
+
+“Not human ones!”
+
+“Sometimes, you need to lose a battle to win a war.”
+
+“Sounds like cope to me.”
+
+It took all his willpower to refrain from flinging more spells at her in response. She had briefly stopped her devouring as they spoke, and he didn’t want her to start again. Besides, she was distracted at the moment, which would give Annie time to get in position.
+
+“The only one coping is you,” he sneered. “Look at yourself! You’re a monster!”
+
+“A princess monster, thank you very much,” she said, standing up straighter, and running her fingers through her somehow-perfect hair. “And do you really think you’re the hero here? I bet Annie and her siblings don’t think so. By the way, I know she’s sneaking up on me.”
+
+How? No. It doesn’t matter. She doesn’t know what Annie can do now.
+
+“Annie and her siblings are heroes too. Through their sacrifices, the world will be saved.”
+
+“Did they want to be sacrificed?”
+
+“What we want isn’t always what we need to do.”
+
+“Would you die to save a life?”
+
+“If that life was more valuable than my own.”
+
+“…Are you serious?”
+
+“Of course I am. Look at me. Do you see the power I wield? Imagine how many lives I could save! And imagine how many would die if I died!”
+
+“That’s… not how that works.”
+
+“Maybe in the movies, but in real life, you can’t be a hero if you’re dead.”
+
+“That’s arguably the only time you can be a hero, actually. Isn’t self-sacrifice, like, the entire meaning of heroism?”
+
+“Being a hero is about saving lives!” shouted Joakim. “And do you think I’m not making sacrifices? Do you think that making these decisions is easy?!”
+
+“Easy or not, it hasn’t stopped you from making them.”
+
+“Exactly! How many could make the same decisions I have? How many have the resolve to make the same choices? How many can see the bigger picture? Clearly not you! And that’s why you will have to die!”
+
+With that, he gave a mental command to Annie, and the undead assassin shot forward, moving faster than should have been possible. A grin spread across Joakim’s face as he saw Yona’s eyes widen in shock. He sensed her trying to teleport away, but while her mana was fast, Annie was faster. The redhead assassin was upon Yona in an instant, her cursed Soul Weapon pointed at her throat.
+
+But then, right when it looked like Yona was about to lose her head, Annie suddenly changed her angle of attack, slashing the empty air behind Yona’s head, firing a blade of mana straight up. A single glance was enough to tell Joakim that blade contained nearly her entire mana pool. The next moment, her blade flashed again, and Annie’s head fell to the ground.
+
+“Finish him!” she shouted to Yona.
+
+Both Yona and Joakim were in baffled shock for a moment, but Yona recovered more quickly. She Blinked behind him, raising her sword high in the air as her tentacles grasped at him. Joakim tried to Blink out of the way, but as he gathered his mana to use the Skill, he found some of it stolen away. It was not much, and he resisted it, but it slowed him down just enough that before he could leave, the first tentacle wrapped around his leg, causing the Skill to fail.
+
+He barely managed to tilt his head aside as the next second, her sword came down on his shoulder, cleaving him nearly in two from collarbone to hip. It stopped on his hip bone, and the next moment, he felt a massive drain. His body became a desiccated husk in an instant, and his mana dropped precipitously. With no way to stop hit, his only available recourse was to imitate Annie and use his still-attached arm to sever his own head and Blink away.
+
+He felt a tug once again as Yona tried to pull him to her, but while she was strong, she was still a Tier behind, and he was able to resist without trouble. He Blinked further and further away until he reached near the hospital the Dungeon Floor was set around, appearing beside one of his other undead, who was engaged in battle against Yona’s Party members.
+
+She was called Fiona, First Warmage of Joakim, and was his second most powerful undead to date. She had once been a Platinum-ranked Adventurer, and had been visiting family in the first village Joakim had wiped out. Killing her had been difficult, and raising her even more so, but because he managed it, his activity had gone unnoticed for much longer than they might have.
+
+She had never liked him. She blamed him for the death of her family, which he could understand. He didn’t fault her for that. But no matter how he explained things, she was never able to understand the bigger picture like he could, and in turn was the most volatile of his creations. She could not betray him, but she did everything in her power to defy him at every turn, deliberately misinterpreting his orders.
+
+As useful as she was, he would be glad to be rid of her.
+
+She seemed shocked to see his severed head floating in front of her, but she could not resist when he commanded her to open her mouth. He did the same, and from his mouth, his true form leapt out. He jumped straight to the roof of her mouth and burrowed upward into her brain, destroying it and taking over. At the same time, he undid the seal on her tongue, ejecting her soul back into its natural ghostly state.
+
+Attacks came flying his direction as his new body twitched and jerked as he finished taking it over, but despite losing her body, Fiona continued to defend against them at his command. It only took another second for the body to be completely his, at which point he took a moment to survey the battlefield.
+
+Things were not looking good. The zombie horde that had once seemed endless was largely decimated. Most had died to stray attacks and spells from the main battle, but hundreds had been devoured by Yona, and even as she Blinked after him, she consumed more with each jump. But as he looked at her and the others, he realized that hope was not lost.
+
+The Dungeon may have been weakened, but at the end of the day, zombies were weak. The loss of essence was immense, but it was not something that could not be offset. If, say, a group of Tier 4 Adventurers, including a Named monster as powerful as Yona, died within, that might offset, or even make up for the existing loss. He would need Phillip or one of the local zombies to finish the job for it to work, but that could be arranged.
+
+“Phillip, give me the success rate.”
+
+“8% right now, sir,” came the prompt reply.
+
+No choice then, he thought with a grimace.
+
+As the chaos unfolded around him, he stretched his new hand out, borrowing Fiona’s mana to summon his most powerful undead from Cold Storage. He had not intended to use this one originally, because it would not leave any corpses intact for him to raise, but at this point, that no longer mattered. What he needed now was not more undead. He just needed them dead.
+
+A shadow fell over the battlefield as the monster appeared and fell to the ground with an earth-shattering crash. It was a badger, but it was the size of a semi truck, and its mouth was lined with fangs taller than Joakim was. Its aura Trait could be felt immediately, with even Joakim not being immune. Gravity intensified around him, crushing his new body into the ground, and making it impossible to breathe. But he still smiled as he saw the others being affected the same way.
+
+The twin witches had it worse, both knocked instantly unconscious, while the enemy assassin was gasping for air. Their tank managed to keep his feet somehow, but his legs were trembling, and there was blood coming from his nose from the effort required.
+
+Yona herself was on the ground as well, the tentacles of the fleshy amalgamation on her back pinned to the ground and half-buried in the dirt. Even so, she continued teleporting toward him, appearing a few centimeters above the ground before being slammed back into it. Joakim only kept smiling back at her.
+
+The battle was over. Even if he could no longer move, nothing could survive this undead. It had once been the Named monster that spawned with him, a relatively weak Tier 2 Disaster, but after slaying it, Joakim then raised it, and had been working to strengthen it ever since. It was now a bonafide Tier 4 Disaster, and having evolved twice from a Tier 2 Disaster, its stats were more than Joakim and his entire army of undead combined. Its gravitational aura Trait was enough to defeat most Tier 4s on its own, and with Joakim controlling it, it could not be stopped.
+
+“Beam me up, Phillip.”
+
+“Sir?”
+
+“Get me out of here!”
+
+“Ah, yes, sir!”
+
+The next moment, Joakim was able to move again as he appeared in the same dark, gothic bedroom that Phillip had made his headquarters.
+
+“Show me the third Floor!” he shouted in Fiona’s voice.
+
+“Yes… sir?”
+
+A live feed appeared of the battlefield from an aerial view. The Named Disaster, was there, along with Yona and her Party, and Joakim’s undead. It would be a pity to lose them, but after the loss of so much essence, sacrifices had to be made. If he was able to conquer Maligar, it would all be worth it.
+
+He mentally reached out to the monster, taking direct control to make sure it attacked the right people in the right way, but as he told it to use a gravitational attack on the unconscious twins, they suddenly vanished. It only took a moment to spot where they had gone, but when he did, Joakim gasped.
+
+“What the hell?” he muttered.
+
+“Sir!” shouted Phillip. “Th– They–”
+
+“I have eyes,” Joakim said with a scowl. “Where the hell did they get a Dungeon?”
+
+The moment Andala, the Heavy appears, I know the battle is lost. His aura Trait makes it impossible for anyone to fight, but if Joakim can control that thing, we lose. There’s nothing we can do to stop it. Not when we’re so close. But I’ll be damned if I’m letting my minions die.
+
+I Blink as close as I can, ignoring the pain as I repeatedly slam into the ground, and as soon as everyone is within range, I summon an entrance to my Dungeon on the ground. I have no idea if I’ll be able to relocate the entrance again, but I don’t have time to worry about things like that right now.
+
+One by one, I Snatch each of my Party members, making them appear right above the Dungeon and falling into it. Andala creates craters all around with his attacks, but I manage to Blink away from them when they hit too close to me, and a moment later, all my Party members and Annie are safely inside the Dungeon. I’m about to teleport into the Dungeon myself when Abby stops me.
+
+“Grab the other undead too!”
+
+I really don’t–
+
+“Please! Something just came up! We need them!”
+
+Dodging Andala’s attacks by repeatedly slamming my face into the ground isn’t fun, but I can hear the urgency in Abby’s voice, so I don’t waste any more time arguing. I Snatch each of the other undead into the Dungeon as well, including the one whose body Joakim stole. Unfortunately, all the zombies in the area were instantly killed when this guy appeared, so just those will have to be enough.
+
+The badger swings its claws at me, sending a gravitational wave in my direction, but I once again Blink out of the way, ignoring the concussion I’m definitely getting by doing this, and after a couple feints, I manage to safely make it into the Dungeon portal.
+
+I breathe a long, deep sigh of relief as gravity returns to normal, and after taking a few seconds to catch my breath again, I get up. I groan in pain as I push myself to my feet, since most of my bones are lightly fractured. I’m already circulating my mana to heal myself, but it’s still going to be a few minutes before I’m back to 100%.
+
+I take a look around to see that I’m in what seems like a medieval hotel room. There’s a bed, a desk, a dresser, and an armoire, but that’s about it. Only one door and one window, and no attached bathroom.
+
+The twins are both unconscious, but alive, and laying on the bed, and Lauren is gasping for breath on the ground. Chad is on his feet as well, but he looks like he’s on the verge of passing out. Still, he nods at me in acknowledgement, and starts fumbling in his bag for a healing potion. I grab a few from my Stomach as well to start feeding to the others, and as I do, I finally take a look at the Annoying Yellow Box in front of me, and as I do, I pause.
+
+[ Floor Challenge: Win Queen Abby’s favor. ]
+
+Abby…
+
+“In my defense, I thought that you would first come in here under very different circumstances.”

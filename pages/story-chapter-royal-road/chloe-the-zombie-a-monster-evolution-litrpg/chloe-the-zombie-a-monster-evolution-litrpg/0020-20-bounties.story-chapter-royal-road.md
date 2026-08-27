@@ -1,0 +1,265 @@
+---
+id: 9838f5a9-c162-53b5-9e10-fbea41873f85
+page-type-slug: story-chapter-royal-road
+title: "20: Bounties"
+slug: 0020-20-bounties
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 20
+ownLength: 2650
+unit: words
+publishedAt: 2025-08-29
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2557928/20-bounties"
+royalRoadId: "2557928"
+---
+
+The moment the man in the big hat stepped further in, the buzz in the room died down. A few folks straightened in their seats, nodding his way with a respect that didn’t need words.
+
+The man tipped his wide hat before strolling toward the bar. “Roxy.”
+
+Roxy smirked as she reached for another bottle. “Well, look what the wind dragged in. Evenin’, old man.”
+
+That earned her a low chuckle. But his gaze slid past Roxy, landing square on Chloe. “Now, I ain’t seen you ‘round here before.”
+
+Chloe perked right up and gave him a wave. “Hi! Uh… nice weird hat, Old Man. I’m Chloe.”
+
+For half a second, the room froze. Then the man laughed, tipping his head back as one hand settled on his belt. A few folks nearby snorted into their mugs.
+
+“Old Man, huh? Well now, sugar, you can call me Ray. Ain’t quite that old yet.”
+
+“Wait, really?” Chloe blinked, tilting her head. “I thought your name was Old Man.”
+
+“Not quite,” Ray said with a grin that curved like a blade. “Ray’ll do just fine. Now, tell me somethin’—what’s a gal like you doin’ here?”
+
+“Oh, just waiting,” Chloe said cheerfully, kicking her boots against the stool legs. “The clerks are on, like, some kind of break or whatever. Soon as they’re done, I’m getting one of those Guild Tags.”
+
+Ray’s brows inched up slow. “Break, huh? That’s funny… ‘cause the clerks are upstairs, workin’ same as always. Ain’t on no break far as I know. Who told you that nonsense?”
+
+Chloe didn’t hesitate. She jabbed a finger toward a guy slouched down the bar, the same one who had waved her off earlier. “Him.”
+
+The man stiffened like he’d been slapped with cold water. “Boss, I can explain—”
+
+Ray’s voice cut like a knife through warm butter. Calm. Even. Sharp. “That so?”
+
+The guy floundered, palms flying up like surrender flags. “I just—thought she looked lost! Didn’t wanna—”
+
+Ray stepped closer, still all easy charm, but his eyes carried steel. “Lemme give you a tip, son. If you don’t know better, best keep that mouth shut ‘fore it runs you headlong into trouble. Got it?”
+
+“Y-Yeah, boss. Loud and clear.”
+
+“Good man.” Ray clapped him on the shoulder, the motion friendly enough to sting. Then he turned back, tipping his hat toward Roxy. “Pour me the usual. Somethin’ strong. Feels like my head’s still swimmin’ lately.”
+
+Roxy arched one brow as she reached for a glass. “You keep this up, old man, and you’ll drink yourself into an early grave.”
+
+Ray chuckled low, leaning his elbows on the counter. “Aw, please, I’ll be just fine.”
+
+His gaze swept the men still hovering around like flies on spilled ale. “Y’all mind givin’ us a little space? Got some talkin’ to do with our new friend here.”
+
+The grumbling was quiet, but they went, drifting back to their tables with reluctant glances.
+
+Ray slid onto the stool beside Chloe. He set his hat on the counter with a soft thump, then leaned one elbow. “So… why don’t you tell me what you’re really doin’ here?”
+
+“Uh… I just did? I’m here for a Guild Tag.”
+
+“That’s it? Nothin’ else?”
+
+“Nope. Just a guild tag.”
+
+“You sure ‘bout that?”
+
+“Yeah? What else would I come here for?”
+
+“Oh, I dunno… settlin’ a few old debts? Slippin’ in where you don’t belong? Movin’ things that ain’t yours to move?”
+
+“Nope.”
+
+“Is that so?”
+
+"Yep, now can you help me get a guild tag or not?" Chloe asked bluntly.
+
+Ray just stared at her for a few seconds. Before finally scratching his head. “Well, I’ll be damned. I’ve been sittin’ in this chair for a long while, and I ain’t never run across someone quite like you.”
+
+Chloe tilted her head. “Is that good or bad?”
+
+“Hell if I know. But either way, you’re welcome here. The Guild could use a little shake up now and then.”
+
+That smug grin of Chloe's bloomed again. Wow, I thought joining a guild was gonna be harder than this.
+
+Ray went on, tapping one finger against the bar, “But, we don’t just hand out Guild Tags like candy. You gotta earn it.”
+
+“Oh, okay. Do I have to fight someone?"
+
+“That depends. Don’t hurt none if you can throw a mean punch. But more importantly, we’re lookin’ for folks who can stick it out when things get real ugly out there.”
+
+"Which means… what exactly?'
+
+“Means you gotta earn yourself a rank first ‘fore we hand you a Guild Tag. We run on a rank system here. Starts at F, runs all the way up to A. Higher the rank, the better the perks. But even an E-rank’ll earn you a Guild Tag.”
+
+Chloe leaned on the counter, arms crossed and boots swinging like she didn’t have a care in the world. Okay, rank system… E sounds like the super easy tier, right? Like, ‘ehhh, at least you tried.’
+
+"Okay, how do I get a rank?"
+
+“Registration’s easy. All you gotta do is pick yourself a mission or a bounty. Finish it, bring the proof back to me or one of the clerks upstairs, and we’ll size it up, then give you a rank that fits.”
+
+“Hmmm, okay, I think I get it… kinda. But, like, what’s the difference between a mission and a bounty?"
+
+“Missions are simple, you can think of ‘em like requests. Somebody needs somethin’ done, escort a wagon, clear out some critters, fetch an item. If you fit the bill, usually by rank, the job gets assigned to you. Once it’s yours, it stays yours ‘til you finish or too much time slips by.”
+
+"Gotcha."
+
+“Bounties, now, that’s a whole different beast. They’re a free-for-all. We post new ones every week, and anyone can take a crack at ‘em. The first one to finish gets paid, simple as that. Though, fair warnin’, most bounties that we got on the board are all kill contracts."
+
+“Oh! So this bounty stuff involves killing people?” Chloe asked, leaning in with way too much enthusiasm.
+
+Ray’s brows went up at the way she said it, all bright and bubbly. “That’s the long and short of it."
+
+“And do any of these bounties have, like, strong people?"
+
+“Plenty of all sorts. Some barely worth the ink on the poster. Others? Real nasty pieces of work. You want a challenge, the board’s got it.”
+
+Ray turned and nodded toward the far wall where a huge wooden board loomed, absolutely plastered with… flat things. Rectangles? Sheets? Whatever they were, they had squiggly marks all over them and little drawings of faces with numbers underneath.
+
+“Take your pick of a poster, sugar. Your first rank hangs on that wall.”
+
+Chloe blinked at the board. Poster… right. Guess that means those flat thingies with the faces on them. Weird way to decorate a wall.
+
+"Okay, thanks, I'll go take a look then."
+
+Ray chuckled low, tipping back the last of his drink before setting the empty glass down with a soft thunk. “Good luck. I’ll be upstairs in my office if you need a hand. And here’s a tip, start with an E or D rank bounty. Don’t go bitin’ off more’n you can chew.”
+
+"Yeah, okay, sure."
+
+He tipped his hat one last time before strolling toward the stairs, but Chloe barely noticed. Her eyes were focused on the bounty board now.
+
+Chloe hopped off the stool and made her way over to the bounty board. When she got close, she realized a whole crowd of people were already standing in front of the board, talking loudly and pointing at the flat things on the board.
+
+The people were in the way, so Chloe marched right up and shoved her way in. A big guy stumbled sideways, blinking down at her in shock. Another one tried to block her path with an arm, but Chloe shoved him hard in the chest. He actually slid back a step, eyes going wide.
+
+“Hey!” he barked, clearly not used to being moved by someone half his size. His face twisted into a scowl as he stepped forward, one hand twitching like he was ready to grab her.
+
+Before Chloe could even look at him, his buddies grabbed his arms, pulling him back. “It ain't worth it man, let's go."
+
+The angry man glared over their shoulders, but Chloe didn’t really care. She was already up at the board, hands on her hips, staring at all the bounties available.
+
+Wanted: Brillan the Knife
+
+Minimum Recommended Rank: E
+
+Reward: 10 gold
+
+Description: A former smuggler turned bandit. Known for ambushing caravans along the southern trade road.
+
+Wanted: Rolf ‘the Mole’
+
+Minimum Recommended Rank: E
+
+Reward: 12 gold
+
+Description: Expert tunnel digger turned escape artist. Has a preference for stealing livestock. May attempt to bite if confronted.
+
+Wanted: Big Tilda
+
+Minimum Recommended Rank: D
+
+Reward: 15 gold
+
+Description: Wanted for multiple accounts of property damage and excessive public brawling. Last seen challenging a group of guards to a fistfight.
+
+There were way more bounties on the board than Chloe expected. But honestly? None of them sounded exciting. Brillan, Rolf, Big Tilda, all of them weren't that interesting. Definitely didn’t sound like magic people.
+
+And why waste time on non magic humans when she could find one with some spice? Magic brains were the best brains, and she wasn’t about to settle for plain flavor if she didn’t have to.
+
+But after a good amount of searching, Chloe spotted it. A poster near the very right of the board. Ooooh. Now this looks fun.
+
+Wanted: Rogue Mage Luther Delius
+
+Minimum Recommended Rank: C
+
+Reward: 200 gold
+
+Description: Escaped from the Tower of Mages. Known for attacking crowded areas and causing mass casualties. Wanted for multiple counts of arson, manslaughter, and magical experimentation on civilians. Considered extremely dangerous and a threat to public safety.
+
+Chloe’s eyes went wide, and a grin curled slow and sharp across her face. Two hundred gold. That was… what, fourty thousand coppers? Which sounded like a lot of money that she could use to buy a mountain of shiny things she didn’t even know she wanted yet. And better than all that, the brain on this guy had to be delicious.
+
+Her fingers twitched with excitement as she reached up, tore the poster down, and folded it with a crisp snap that sounded way too satisfying. That was when Chloe noticed something.
+
+There were even more posters with Luther’s name on them, some buried under other posters. Clearly, this guy was popular. Chloe figured that meant one thing, that she had to move fast before someone else got to him first. Which meant it was time to track down Ray and squeeze out a few hints.
+
+She strutted back toward the bar, the poster flapping in her hand. “Hey, Roxy! Where’s Ray?”
+
+“His office is upstairs. First door on the right. Can’t miss it.”
+
+“Kay, thanks!"
+
+Chloe walked up the stairs, hit the first step and started climbing, cloak sweeping behind her like a shadow with attitude. The noise from the hall faded as she reached the landing, where the wood felt cleaner, the air quieter, and the smell of booze gave way to parchment and ink.
+
+At the top, a narrow hallway stretched ahead, lined with doors. She spotted the first one on the right, the wood polished and marked with a brass plate that read: Guildmaster’s Office..”
+
+Chloe pushed the door open without knocking, because knocking was boring. “Hi!"
+
+Ray was sitting behind a heavy desk stacked with papers, one boot propped on the edge like he was too cool for chairs to tell him what to do. In his hand was a chunk of bread, and he was halfway through chewing when he looked up at her.
+
+“Well now,” he said, swallowing slow, crumbs sticking to his stubble. “Ain’t you quick. Need somethin’, sugar?”
+
+Chloe strutted right up to the desk and slapped the folded poster down like it was a winning card. “I want this bounty, can you tell me more about this Luther guy?"
+
+Ray raised a brow, setting the bread aside. He leaned forward, eyes sliding to the name on the poster. Then came a low whistle. “Luther Delius, huh? You sure ‘bout this? You don’t gotta start with a hard one. Any job’ll do for your first rank.”
+
+“I’m sure. This one sounds fun.”
+
+Ray studied her for a long moment, like he was trying to figure out if she was crazy or just too stubborn. Finally, he shrugged. “Well, I ain’t in the business of stoppin’ folks, but I’ll give you fair warnin’. This ain’t no milk run. Luther’s a dangerous bastard.”
+
+“Dangerous how?” Chloe asked, practically bouncing in place.
+
+“For starters, he’s a mage. Real nasty one, too, really good with fire magic. Last time someone tried to bring him in, half their team came back lookin’ like overcooked steak. Word is, he’s been holed up in the caves up in Splitrock Mountain."
+
+“Right. So, I just gotta go to this mountain and kill this Luther guy right?”
+
+“Slow down there, Splitrock Mountain ain’t no joke. You even know what you’re walkin’ into?”
+
+“Uh, yeah. A mountain with caves. How bad can it be?”
+
+Ray let out a sharp laugh and slapped the counter. “How bad? Girl, that place’ll chew you up and spit you out. You ever heard of Stonebreaker Goats?”
+
+“Stone… what now?”
+
+“Stonebreaker Goats, they're Big ol’ bastards. They plow through solid rock like it’s bread crust. And that’s just the outside. You get past them, and inside them caves? Whole damn place is alive and lookin’ for a snack.”
+
+Chloe just gave him a bright smile. “Cool. Sounds fun.”
+
+“Fun? Girl, I’m tellin’ you, pick somethin’ simple. Smuggle a crate, run a message, scare off some purse snatchin’ punk. Anything that don’t end with you gettin’ turned into goat chow.”
+
+“Nope. I’m taking this bounty and you can’t talk me out of it.”
+
+Ray sighed, dragging a hand down his face before giving her a long, squinty look. “Why? What makes you so damn sure you can pull this off?”
+
+Chloe just shrugged. “I just know I can. So I’m gonna go find him and get it done.”
+
+“You could die out there.”
+
+“Then I just won’t."
+
+Ray shook his head slow, a tired chuckle rumbling out like gravel. “Alright then. But listen close, Luther’s gotta be dead, sure… and we’re gonna need proof you put him in the dirt.”
+
+“Proof?”
+
+“His body, make sure to drag it back here so we can collect and confirm. No body, no coin. And definitely no rank for you."
+
+Chloe tapped her chin thoughtfully. “Does it have to be, like… intact?”
+
+“Preferably, it makes the paperwork faster.” Ray answered.
+
+“What if… y’know… the head was… missing?”
+
+“Hmm, far as the Guild’s concerned, long as the rest of him’s at least somewhat recognizable, a little cranial damage ain’t a problem. Might slow down the clerks, though.”
+
+“Perfect. Then I’m definitely going for this bounty.” Chloe said.
+
+Ray shook his head with a laugh, tipping his hat back. “You’re a strange one. But hell, I like strange. Before you go stormin’ off though, you’re gonna want a storage scroll. Makes haulin’ bodies a whole lot easier.”
+
+“Storage scroll? What’s that?”
+
+“It’s just a fancy magic scroll. You open it, lay it down, speak the trigger word, and whatever you’re tryin’ to stash gets pulled right in: body, gear, whole damn treasure chest if you want. Makes haulin’ things a lot easier. The only catch is it's single-use. Once it swallows somethin’, that scroll can't take in anything else. So make it count.”
+
+“Whoa, that sounds amazing! Where do I get one?”
+
+“I know a guy selling ‘em on the cheap, He’s honest enough, tell him Ray sent ya.”

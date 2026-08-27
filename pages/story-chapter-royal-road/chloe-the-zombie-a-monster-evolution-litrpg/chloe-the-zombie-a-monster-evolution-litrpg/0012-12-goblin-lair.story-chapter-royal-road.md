@@ -1,0 +1,227 @@
+---
+id: 209c6492-cb47-597b-bf58-b59f674e7fa5
+page-type-slug: story-chapter-royal-road
+title: "12: Goblin Lair"
+slug: 0012-12-goblin-lair
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 12
+ownLength: 2535
+unit: words
+publishedAt: 2025-08-20
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2533554/12-goblin-lair"
+royalRoadId: "2533554"
+---
+
+By now, the surviving goblins were backing away. Some turned and ran outright. A few of the smarter ones tried to call for help, but it was too late. Chloe had already carved through half their little warband, and her cloak was soaked in goblin blood.
+
+She stood proudly in the middle of the ruined village, taking in the aftermath. Honestly, these goblins hadn’t been much of a challenge. She couldn’t help but wonder how the humans had managed to lose to them in the first place.
+
+Driven by curiosity, she wandered over to one of the fallen goblins. Humming to herself, she crouched beside the body, tapped her chin, then casually cracked the skull open.
+
+Just a taste, she figured. After all, what could possibly go wrong?
+
+Chloe scooped out a bit of brain and gave it a cautious nibble, only to spit it out a second later. The rest hit the ground with a wet splat. Ew, gross!
+
+She scowled at the mess and wiped her mouth with the back of her hand. So, goblin brains weren’t just bad, they were a major downgrade from human ones. Hopefully, the goblin shaman’s brain would be better. Otherwise, she was going to be seriously disappointed.
+
+Suddenly, a flicker of movement caught her eye. Two goblins, bigger than the others and well armored, were creeping toward her from opposite sides, each with jagged axes raised.
+
+They lunged at the same time, one aiming high, the other low. Chloe didn’t even flinch.
+
+She snapped her fingers, firing a Rock Shot. And then a second one after that.
+
+With a sharp hiss of magic, the stones blasted forward, one slamming into the upper goblin’s face with a crack, the other punching clean through the chest of the second.
+
+The first dropped like a sack of wet bones. The second gurgled once and collapsed in a twitching heap. I love this spell.
+
+Chloe was just about to start skipping toward the last few goblins when a voice boomed out from the far end of the square.
+
+"How dare you trespass on the land of Gribnash the Dark One!"
+
+She stopped mid-step and turned her head, slowly. Standing atop a ruined stone well was a goblin unlike the others. This one was taller, hunched, draped in bones and feathers and something that might have been a burnt cloth.
+
+His skin was a sickly green-grey, painted with swirls of ash, and he clutched a twisted staff crowned with jagged bone and flickering red light. Even though Chloe had never seen a goblin shaman before, she was pretty sure this had to be the one.
+
+“So, you must be the goblin shaman." Chloe said.
+
+“I am Gribnash!” he bellowed, raising his staff. “He who calls flame and shadow! And you, filthy human, shall die for defiling my domain!”
+
+Chloe burst out laughing. The goblin shaman actually thought she was human. The idea was so ridiculous it almost made her choke.
+
+“Sorry to disappoint, bone boy, but there’s no way I’m losing to a shriveled little twig like you.”
+
+Gribnash snarled, visibly getting angrier. With a guttural shout, he slammed his staff into the ground. Dark energy coiled around the bone like smoke, then surged forward in a crackling blast.
+
+Chloe’s eyes widened. Ooh. That actually looks kind of—
+
+The spell slammed into her chest, launching her off her feet. She flew backward and hit the ground hard, sliding through the dirt with a sharp grunt.
+
+Chloe blinked up at the sky, her cloak still smoking. Maybe that goblin wasn’t entirely a joke after all.
+
+She groaned and pushed herself up, brushing bits of dirt from her cloak. Her chest still sizzled faintly where the dark blast had hit. That had actually stung a little.
+
+Not a bad effort for a goblin. She still planned to eat his brain, of course.
+
+But then, from the rubble to her left, Chloe heard a soft skitter. Another came from the right.
+
+Goblins were pouring out from the shadows, clambering over broken beams, dropping from rooftops, darting through alleys like a swarm of angry rats. Up on a cracked stone wall, the goblin shaman raised his staff with a sneer stretched wide across his face.
+
+“She is weakened! Kill her! Paint the stones with her meat!”
+
+The goblin horde shrieked and charged. Chloe rolled her shoulders, unimpressed. There was no way she’d lose to goblins of all things.
+
+The first rushed in with a hatchet. She sidestepped, caught its arm mid-swing, and flung it headfirst into another goblin. The loud thunk that followed was deeply satisfying.
+
+Another leapt at her from behind. She twisted on the spot and brought her foot up in a sharp backward arc, smashing her heel into its chin and shattering its jaw.
+
+One goblin lunged at Chloe with a crude spear. She ducked low, drove her sword through its chest, and yanked it free just in time to meet the swing of another attacker. Their blades clashed.
+
+She spun, lashed out with her boot, and caught a third goblin square in the gut, launching it into the air. It flipped twice before crashing into a twitching heap.
+
+One tried to run. Naturally, Chloe prepared her Rock Shot.
+
+The stone fired with a crack, blasting through the back of his skull. He dropped dead soon after.
+
+More rushed in, shrieking and swinging wildly. Chloe danced between them, blade flashing, fists cracking skulls. Rock Shot after Rock Shot flew from her hands, each one bursting goblin bodies with ease.
+
+Eventually, one last goblin lunged. Chloe caught him by the wrist and drove her sword into his neck, twisting for good measure. There there, go and join your little friends.
+
+[You have killed: Goblin Marauder (Level 5)]
+
+[You have killed: Goblin Marauder (Level 5)]
+
+[...]
+
+[You have killed: Goblin Marauder (Level 6)]
+
+[Experience Awarded]
+
+The street was a mess of twitching bodies and shattered weapons, the ground slick with dark stains. Chloe stood in the center of it all, hair wild, cloak ripped, ichor dripping from her gloves like ink.
+
+She dragged the back of her hand across her cheek, smearing away something unidentifiable, then glanced toward the well. Gribnash was still there. Still smiling, like he’d been waiting.
+
+Oh. Right. She’d gotten a little too excited and completely forgotten about him.
+
+Gribnash launched a blast of dark energy which slammed into her stomach, tearing a hole clean out her midsection. Black ichor sprayed behind her in an arc as Chloe crumpled to one knee.
+
+The Goblin Shaman howled with laughter. “Fool! Did you think you could stand against the might of Gribnash? I, who conquered the Bone Warrens! I, who—”
+
+Chloe blinked up at him, already thinking he talked way too much.“You done?”
+
+Gribnash’s words caught mid-rant. His eyes widened just in time to see her run straight at him. His staff lit up again. Another blast shot forward, this time low.
+
+Chloe’s right leg tore off below the knee, spinning through the air before landing with a dull thud behind her. She slammed into the ground hard, the impact jarring through her body. A sharp, burning fury surged in her chest. Now she was mad.
+
+Chloe dragged herself forward, clawing at the dirt with both hands. Behind her, her severed leg gave a twitch, then started hopping toward Gribnash like it had its own grudge to settle. Honestly, she was quite surprised by how… weirdly enthusiastic her leg was. But she wasn't going to complain.
+
+The Goblin Shaman shrieked, stumbling backward. “What are you?! How are you still alive?"
+
+Chloe grinned up at him. “I'm hungry."
+
+Gribnash’s shrieking didn’t last long. Chloe’s severed leg, still twitching on its own like some horrible little beast, leapt upward and slammed into the Gribnash' chest with a wet crack. The blow knocked him off balance, sending him sprawling onto his back.
+
+Chloe followed, dragging herself through the dirt, one arm clawing forward, the other pressed to the ragged hole in her stomach. You're not getting away!
+
+Gribnash scrambled backward on all fours, trying to scoot away. But Chloe was already there.
+
+She reached him, grabbed his ankle, and yanked him down with a thud. Then she pulled herself over him, planting what was left of her weight across his chest.
+
+Gribnash whimpered. “W-wait, please! Mercy! I’ll give you anything! Just—"
+
+Chloe didn't bother letting the goblin finish. She was too busy taking a big bite out of his brain. The taste alone made everything worth it.
+
+[You have killed: Gribnash the Dark One (Goblin Shaman Level 10)]
+
+[Brain Consumed: Gribnash the Dark One (Goblin Shaman Level 10)]
+
+[Experience Awarded]
+
+[You have leveled up! 2 >> 3]
+
+[Strength +3, Speed +3, Vitality +3, Magic +7 Resistance +5]
+
+[Skill Upgraded: Swordsmanship V >> Swordsmanship VI]
+
+[Skill Upgraded: Dark Magic Affinity I >> Dark Magic Affinity II]
+
+[New Skill Acquired: Magic Resistance I]
+
+[1 Trait Point Awarded]
+
+***
+
+Chloe flopped onto her back with a satisfied grin, paying no mind to the fact that her leg was still crawling around somewhere nearby. The goblin shaman's brain had been magic-y, and crunchy in the best way.
+
+This time, the vision was the shaman, strutting in a cave, waving his stick like a big deal while a whole crowd of goblins stared. They nodded, gasped, and clutched their scrawny chests. So dramatic, so passionate, and even a little adorable. All that energy for a guy whose brain she just crunched.
+
+The scene fizzled, and Chloe blinked up at the ceiling with a lazy grin, until a thought poked her. Her gaze slid sideways. There was one of her legs, chilling on the floor, completely unattached.
+
+Chloe did get another Trait Point, but she wasn’t ready to use it just yet. She could spend it whenever she wanted. For now, she had more important stuff to deal with first. Like reattaching her own leg.
+
+She pushed herself up onto one elbow and glanced around. A few feet away, her severed leg lay twitching lazily in the dirt, looking far too relaxed for something that had just flown off her body.
+
+“Hey! Leg! Stop being lazy and get back over here!”
+
+The limb gave a twitch, then lurched upright and started awkwardly hopping its way back toward her. Chloe smiled. She knew it would come back eventually.
+
+As it reached her, dark tendrils unfurled from the stump of her thigh. They met the twitching limb halfway, coiling around bone and muscle like they’d done it a hundred times. With a wet shlurp, the leg reattached.
+
+Chloe gave it a few experimental wiggles, then stood and bounced on her toes. Good as new.
+
+Looking around, she let out a low whistle. Goblin bodies were scattered everywhere, and the air hung heavy with dust and smoke. The village was a complete wreck.
+
+She figured the humans were going to have a hard time recovering from all this. Speaking of humans, there were probably still some hiding around, maybe even chained up like that nice kid from before.
+
+Cracking her knuckles, Chloe grinned wide. Time to go find them. And no, not for brains this time. This was more like… people saving. Yeah, that sounded like something heroic.
+
+Chloe strolled through the ruined village, pushing open doors and kicking in a few that didn’t feel like cooperating. Most of the buildings were a mess, but more often than not, she found at least one human inside, all chained up.
+
+She crouched beside the first one, cracked the chains with a sharp snap, and gave them a little thumbs-up. “You’re welcome!”
+
+The human blinked at her like, seemingly confused. Honestly? Chloe had thought they'd be a bit more grateful, but whatever.
+
+She moved from building to building, kicking open doors, snapping shackles, and grinning every time someone actually did thank her. But to be fair, even the quiet ones at least looked a little bit happy to see her.
+
+Eventually, as she rounded a corner, Chloe spotted movement up ahead. Amid a cluster of weary villagers was Baron Willy himself, helping an old lady out of her chains.
+
+Chloe waved cheerfully. “Hey Baron Willy! Look! I’m saving people!”
+
+The Baron turned as Chloe approached, his expression softening into a genuine smile. "Miss Chloe, you have my sincerest gratitude. What you’ve done here today is not simply commendable, it is vital. These people owe their lives to your strength, and your—”
+
+Chloe rolled her eyes, striding up with her hands behind her head. “Yeah, yeah, thanks. That’s sweet and all, but we’re done here, right? All the goblins are dead, and I'm pretty sure I freed everybody else."
+
+The Baron raised an eyebrow, lips twitching into something between amusement and exasperation. “Ah… if only it were that simple. I’m afraid I cannot be the one to declare that. We should let the villagers speak for themselves.”
+
+As if on cue, the old woman nearby coughed loudly to draw attention. Chloe turned toward her, blinking in curiosity.
+
+The woman dipped her head. “Thank you, young lady. Truly, we owe you our lives. But like the Baron said, it ain't over yet."
+
+Chloe blinked and tilted her head. “Wait, what do you mean it’s not over? I totally crunched the ugly magic one.”
+
+“Aye, you did, and thank the gods for that. But goblins don’t just show up outta nowhere, dear. They come from deep places tucked in the wild where no decent folk go pokin’ about. You kill the ones out here, sure, but unless the lair's cleared… they’ll just come crawlin’ back. And this village can’t take another raid.”
+
+“Huh. Sooo… squish the lair, stop the problem?”
+
+The old woman nodded. “Their lair’s north of the village. Just head straight, you’ll see a cave in the hills. No one around here goes near it. Everyone hates that place.”
+
+Chloe’s eyes narrowed. It sounded simple enough, but something didn’t add up. If all the humans here knew exactly where the goblins were, then there was a bigger question hanging in the air.
+
+“Why hasn’t anyone destroyed the goblin lair before?” She asked.
+
+The woman sighed. “Sadly, our village just don’t have the strength. Not enough fighters or hunters to take them head-first. We’re farmers and laborers, mostly. And hiring adventurers costs coin we ain’t got.”
+
+Coin? Costs? Chloe had no clue. Coins sounded tasty though, maybe it was a crunchy snack? Costs… okay, that one rang a bell. She’d spent trait points before, so she understood that at least.
+
+Anyway, Chloe got the gist of what the woman was saying eventually. The villagers were too weak to handle the problem, and nobody else would do it. Which meant they needed someone strong. Someone amazing. Someone like her.
+
+“Don’t worry then. I’m gonna go kill all the goblins!" Chloe said proudly.
+
+“Just… like that?”
+
+“Yep.”
+
+The woman opened her mouth, hesitated, then swallowed. “Are… are you sure? There’s more of them than you think. That place is—”
+
+“—full of goblins,” Chloe finished, waving dismissively. “I got it.”
+
+Time to snag me some goblin brains. Well… mostly the boss’s brain, actually. The rest probably taste pretty bad. But the leader? Ooh, I bet that one’s gonna be special. Really special.

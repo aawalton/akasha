@@ -1,0 +1,233 @@
+---
+id: 08da39a2-449c-5dd0-849c-f9272ec8b989
+page-type-slug: story-chapter-royal-road
+title: "1: Daily Routine"
+slug: 0001-1-daily-routine
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 1
+ownLength: 3107
+unit: words
+publishedAt: 2025-08-17
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2525468/1-daily-routine"
+royalRoadId: "2525468"
+---
+
+Chloe burst from the ground in a spray of dirt. Soil scattered across the cavern floor, clinging to her skin and lodging beneath her nails. She remained there a moment, half-buried, before slowly pushing herself upright.
+
+This was a routine Chloe knew far too well. Although, she didn’t remember exactly how she’d died last time.
+
+It took a few seconds for her mind to clear up, but she eventually remembered the details of her last death. It had been the work of a man in a brown robe, carrying a wooden staff. With a flick of his staff, he conjured a rock from thin air and launched it straight through her head.
+
+That was the last thing she could recall before the darkness came in. Tch. Humans and their stupid magic. Just unfair, really.
+
+Chloe straightened her body, shaking soil from her hair. But something was… wrong.
+
+Wait a minute. Chloe thought to herself. Am I… am I thinking?
+
+She stood still for a moment, realizing she could truly think and form thoughts in her own words. This wasn’t how it was supposed to go.
+
+Zombies didn’t think, they walked around, snapped at anything warm, and fell apart the moment someone fought back. But something inside her felt different now, that much she could tell.
+
+Even weirder than having actual thoughts was suddenly knowing her own name, Chloe. She knew it like it had always been there, but had no clue where it came from. Had someone called her that before? Did she just make it up? It felt weirdly familiar, even if it didn’t make any sense.
+
+She turned to the other zombies nearby, three, maybe four, staggering ahead, mouths agape. One brushed past her, heading deeper into the cave. Another limped on a crushed ankle without so much as a grunt.
+
+“Hello?" She asked out loud.
+
+No response. Not even a glance.
+
+She stepped forward, waved a hand in front of one’s face. Nothing. It looked like the others hadn’t changed at all.
+
+Chloe looked down at herself. The same corpse-pale skin, the same tattered clothing, and those ever-present stitches along her limbs, though she still hadn’t the faintest idea where those had come from. None of it had changed, which made things even more confusing. Wait, what if this is a trick? Some awful curse? Or worse, what if I’ve always been like this, but I just haven't realized until now? I have so many—
+
+Suddenly, something cold latched onto her ankle. Chloe twisted with a scowl and found another zombie clinging to her leg, moaning softly as it tried to pull itself upright by climbing her.
+
+"Ew, get off me!"
+
+Immediately, Chloe lifted her foot and kicked the undead as hard as she could. Its head tore clean off with a wet, revolting pop, and splattered against the cavern wall.
+
+The rest of its body flopped to the ground in a heap, limbs twitching aimlessly. Good riddance. Grabbing my leg like that is just weird.
+
+[You have killed: Zombie (Level 4)]
+
+[Experience Awarded]
+
+[Skill Upgraded: Unarmed Combat I >> Unarmed Combat II]
+
+She stared at the glowing letters, mouth hanging half open. Huh, what's this?
+
+Lifting a hand, she waved it in front of the message. Nothing. She tried again with both hands, swatting at the floating lines like she was shooing off a stubborn fly, but the text didn’t budge. It hovered a moment longer, then faded on its own.
+
+Chloe folded her arms and stared at the empty space where it had been. Those words… she’d seen them before. They were notifications, an important part of the System. Back when she was just a normal zombie, they used to flicker in and out like meaningless noise she couldn’t figure out. But now? Now the words actually made sense.
+
+She couldn’t resist smiling. It was almost funny, there she was, actually thinking, reading, understanding things like it was the most natural thing in the world. Who would’ve guessed a zombie like her could do all that stuff?
+
+Her gaze drifted to the others trudging deeper into the cavern. Mindless, silent, completely useless. Not long ago, she’d been one of them. The thought made her stomach twist.
+
+Chloe swept her eyes across the cavern again. The others didn’t notice a thing, still wandering without a care, no urgency, no awareness. It looked like she was the only one who had suddenly become smart. Which meant one thing; she had the edge now.
+
+She still had no idea how she’d gotten smart, but one thing was obvious: the weak didn’t last. Not down here. They got chewed up and torn apart. Strength was everything, and she wasn’t planning on being anybody’s snack. No, she’d be the strong one. The strongest of all.
+
+Chloe figured one thing out real quick. If she wanted to get stronger, she needed experience and skills. How did she know that? Instinct, maybe. Or just common sense. Either way, it sounded about right.
+
+The whole “skills” thing was still fuzzy, though. She didn’t really get how it worked. What she did know was that smacking zombies around seemed to level up her unarmed combat. So that was a start.
+
+She turned on her heel and headed into the dark. The next zombie she saw was a sorry sight, hunched over, jaw hanging by a thread, eyes as empty as they came. Pathetic.
+
+One swift kick sent it sprawling, and before it could twitch, she brought her heel down hard. Bone cracked loud against the floor, sharp and clean. Chloe smiled at the sound. Oh, that was nice.
+
+[You have killed: Zombie (Level 5)]
+
+[Experience Awarded]
+
+Another zombie wandered nearby, slightly large. Chloe watched it for a moment, unimpressed. Then she walked up, gave it a polite tap on the shoulder, and when it turned, far too slowly, she elbowed it square in the back of the head. The crunch that followed was very satisfying.
+
+[You have killed: Zombie (Level 5)]
+
+[Experience Awarded]
+
+[Skill Upgraded: Unarmed Combat II >> Unarmed Combat III]
+
+Chloe stepped back, flexing her fingers. Something felt off, but in a good way. For a zombie, she was moving way too fast.
+
+Not only that, she was also not totally sure when she’d gotten so good at fighting. Pretty sure back when she was still a dumb zombie, her punches were more like awkward flails. But somehow, she could actually land good hits now. Chloe eventually guessed that maybe her recent awakening had changed her a lot more than she thought.
+
+What if she was… more? Not just another shambling corpse, but something better. Something special.
+
+She remembered adventurers talking about a queen before, which sounded like someone important. What if she was a queen? Or more specifically, a zombie queen. The idea made a lot of sense to Chloe, of course she’d be special.
+
+Yet, suddenly, a sharp sound tore through her thoughts. Chloe heard footsteps, quick and heavy. She didn’t need to guess what that meant. Those footsteps were likely the signs of a human.
+
+Chloe stepped back and pressed herself behind a stone pillar, keeping to the shadows. Tilting her head slightly, she peered out.
+
+A man passed. He wore a hooded cloak and was somehow carrying a lot of items without much issue. A sword hung at his hip, a staff strapped across his back. His pack bulged with items that Chloe couldn't quite make out, the straps drawn tight to hold it all in place.
+
+Chloe watched until the man vanished from view. Only then did she allow her shoulders to ease. He had gear, and a lot of it. Probably strong too, judging by how much he was lugging around. Best to stay out of his way for now.
+
+She stepped back into the open and resumed her path. The thought of dying again unsettled her more than she cared to admit. Something about her was definitely different now. She wasn’t mindless anymore.
+
+But if she died like this… what would happen? Would she come back the same, with her thoughts intact? Or would she wake up brainless, dragging her feet like the rest? What if this version of her just vanished for good?
+
+Chloe clenched her hands tight. No way was she going to risk dying. She’d just get strong enough to survive, strong enough to never end up back like she was before.
+
+She moved through the cavern, looking around cautiously. She was hunting, seeking more of her kin to dispatch and earn herself some more experience. But as she turned a corner, she stopped.
+
+A slow-moving cluster of zombies shuffled ahead, all heading in the same direction. Their steps were slow but focused. This wasn’t aimless wandering.
+
+Chloe caught on immediately. The others had picked up a scent, and there weren’t many things that could rouse zombies like that except for the smell of fresh brains. In other words, these zombies were likely going after some humans, specifically, adventurers.
+
+She still had some fuzzy memories from back when she was a completely normal zombie, getting whacked by adventurers again and again. Not exactly the kind of thing that made her want to run up and say hi.
+
+Yet, another part of Chloe's mind wanted to believe that maybe this time would be different. If she stuck close to the other zombies, slipped in at just the right moment, maybe she could sneak a few hits in. And if she got lucky, she'd be the one walking off with fresh, juicy brains all to herself.
+
+The craving for brains wasn’t something Chloe ever thought about too deeply. Every zombie, including her, liked to eat brains. She had no idea why, and honestly, she didn’t care.
+
+Chloe eased forward, sliding past the others like a shadow. None of them spared her a glance. Their empty stares stayed locked ahead, drawn by the scent of blood.
+
+The tunnel widened into a larger chamber, Chloe stepped inside, then stopped dead in her tracks. A massive spider lay collapsed in the middle, legs curled tight around its body. The thing looked fresh, greenish blood still oozing in little pools beneath it.
+
+She circled the carcass as she took in the damage. The whole head was a mess, completely smashed in. Someone had gone out of their way to wreck the thing, probably humans. They were always more than happy to beat up monsters.
+
+Chloe stared for a moment, almost pouting. Great. Now I’ll never know what spider brains taste like.
+
+The thought stuck for a moment, but Chloe shoved it aside. She had bigger things to worry about.
+
+Not far ahead, four zombies crouched low over a heap of human corpses, tearing into flesh with blind hunger. They didn’t even notice her, which was good.
+
+The smell of warm blood hit her, without that gross rot stink yet. Her eyes swept over the bodies, drinking in every detail. Their skin still had color, wounds raw and shiny. These humans hadn’t been dead long at all.
+
+Chloe’s grin stretched wide. This was prime stuff, the juicy bits. No way was she letting her unthinking kin eat all of that, especially not the brains.
+
+She rushed over to the group of zombies. The first zombie barely lifted its head before she drove her palm into its neck, snapping it cleanly. The second turned toward her, she kicked its leg out, then stomped its skull into the stone. The third tried to flee, but she caught it from behind and twisted its head until the spine cracked. The last lunged clumsily. She sidestepped and slammed its head against the wall until it stopped moving.
+
+[You have killed: Zombie (Level 4)]
+
+[...]
+
+[You have killed: Zombie (Level 4)]
+
+[Experience Awarded]
+
+[Skill Upgraded: Unarmed Combat III >> Unarmed Combat IV]
+
+Chloe stared down at the motionless corpses. Back when she was just a regular zombie, it definitely hadn’t taken this many kills to level up. But now? She’d smashed through a decent number of zombies and still hadn’t leveled once. She wasn't sure why that was the case.
+
+Maybe the System was just being stingy now that she was stronger. But it didn't bother Chloe too much, she'd get her level eventually. Greatness like hers didn’t stay down for long.
+
+She turned her attention to the human bodies. Most had only been partially eaten, yet overall, they were intact.
+
+Chloe crouched beside the nearest one. A young man in damaged chainmail. His stomach had been torn open, but his arms and head were untouched. Her eyes shifted lower, spotting several thin daggers which protruded from his torso.
+
+She moved to the next body and found the same pattern, multiple punctures from several daggers still lodged in the chest. There was no way zombies had done this. They didn’t usually go for precise strikes like that. Whoever was behind it knew exactly what they were doing.
+
+Her gaze settled on the body in the center. A man in tattered brown robes, slumped awkwardly against a rock, blood pooled beneath his neck where a dagger had been driven deep into the side.
+
+Chloe tilted her head. Recognition crept in slowly, unwelcome but undeniable. Wait, I recognize this human!
+
+She remembered the sting. The sudden weightlessness in her limbs. The piece of stone conjured by his will, piercing through her skull effortlessly.
+
+And now, the man who killed her was very, very dead. Serves you right.
+
+But even as that satisfaction curled through her mind, a deeper curiosity gnawed at her. She crouched beside him and reached for the dagger buried in his neck.
+
+Her fingers closed around the hilt. The blade slid free with a soft scrape, still slick with blood, its edge unchipped.
+
+Chloe turned it in her hand, weighing the weapon. There was no way her kin had been responsible for killing these humans. Sure, some of them spawned holding weapons, including daggers. But actually taking down a whole group of adventurers with them? Not a chance. Most of them could barely walk straight, let alone pull off something like that.
+
+She thought about the hooded human from earlier. Was this his mess? It didn’t add up. Why would the hooded guy kill his own and leave the bodies behind? And stranger still, he hadn’t even taken the brains.
+
+Ignoring zombie brains made sense; most of her kind were lucky if they had more than dust rattling in their skulls. But human brains? Those were precious, even an idiot should know that. Maybe he just didn’t realize how good they were. Silly human.
+
+The more Chloe thought about it, the weirder it seemed. Every corpse had been picked clean. No weapons, no packs, not even a shiny trinket left behind. Just clothes. Boring, plain clothes. Well, except for that one guy in chainmail. But Chloe wrinkled her nose at the sight of it. Armor just wasn’t her thing, too heavy, too ugly, and there was no way it would make her look good.
+
+She recalled how the hooded human, the one she’d first seen running away, had been overloaded with items. And among them was a staff that looked far too familiar.
+
+That settled it. He was the one who’d killed the other humans and taken everything worth keeping.
+
+But the conclusion didn’t sit right with her. Why would a human turn on his own? That wasn’t how things usually worked down here. They always showed up in groups, all brave and righteous, swinging swords and slinging spells like they owned the place.
+
+Unless… maybe that hooded "man" wasn’t human at all. What if he was a monster pretending to be one? Maybe even another awakened creature, like her.
+
+The idea was unsettling, but also kind of cool. If Chloe met him, she wasn’t sure whether she should punch him or ask if they were somehow related.
+
+The thought lingered, twisting uncomfortably in the back of her mind. But Chloe scoffed under her breath and shook it off. Bah. Whatever. I’m too hungry to think anymore.
+
+The odd thing was, zombies didn’t need to eat. Not to survive, anyway. Chloe had gone without eating brains for longer than she cared to admit. But something about seeing humans always stirred that hunger in her.
+
+Chloe knelt beside the brown-robed corpse first. The head was still intact, the skull undamaged. She placed her hand under the chin and tilted it back, inspecting it. You ended me once! And now I get to return the favor, zombie style.
+
+Chloe slipped her fingers behind the corpse’s ear, feeling along the bone until she found the weak spot. One sharp pull, and the skull gave way with a crack, exposing a juicy looking brain.
+
+She leaned in and took her first bite, savoring the smooth texture, the rich taste. Yet, just as she swallowed, it hit her. A sudden spark right behind her eyes, sharp enough to make her blink.
+
+[Brain Consumed: Todd Redmoor (Human Wizard Level 9)]
+
+[Experience Awarded]
+
+[You have leveled up! 1 >> 2]
+
+[Strength +2, Speed +2, Vitality +1, Magic +5, Resistance +2]
+
+[New Trait Acquired: Mana Core (Uncommon)]
+
+[New Skill Acquired: Mana Sense I]
+
+[New Skill Acquired: Earth Magic Affinity I]
+
+[New Skill Acquired: Rock Shot I]
+
+Chloe felt… wrong. The glowing numbers popping up were one thing, but the sudden dizzy lurch in her skull? That was new, and not in a good way.
+
+Then everything started to become distorted. The cavern blurred, colors smeared, and her own body just… vanished. When the world snapped back into focus, Chloe wasn’t Chloe anymore. She was staring through someone else’s eyes, the brown-robed wizard's eyes.
+
+He was waving his staff around. Then he started chanting, and suddenly, a chunk of stone blinked into existence out of nothing. Chloe barely had time to admire it before the robed man flicked his wrist, and the rock flew forwards like an arrow, smashing into some poor zombie’s head.
+
+Only… that wasn’t some zombie. That was her.
+
+Chloe flinched hard, even though the memory had already played out long ago. Why am I seeing this? I already know this guy killed me!
+
+Her jaw clenched as irritation bubbled, but before she could really start sulking, everything shifted again. Words and meanings poured into her skull.
+
+Weird words like mana, incantations, and spells. She even knew the name of the attack that killed her now: Rock Shot.
+
+The visions fizzled out all of a sudden, and Chloe was back in the chamber, kneeling with sticky hands and a cracked open skull at her feet. Only, her whole body thrummed with energy, and it felt good.

@@ -1,0 +1,163 @@
+---
+id: 54b9dbf0-abd6-554a-8366-059f92ba4f7a
+page-type-slug: story-chapter-royal-road
+title: "132 - Because I'm the Chosen One"
+slug: 0135-132-because-im-the-chosen-one
+partOf: cat-girl-evolution
+position: 135
+ownLength: 2756
+unit: words
+publishedAt: 2026-06-26
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3592732/132-because-im-the-chosen-one"
+royalRoadId: "3592732"
+---
+
+Joakim felt incredibly vindicated as he watched his enemies prepare for battle. He had been nervous. He had worried it would fail. In the end, he had cut it very close. But it all worked out in the end.
+
+The Tier 5s had entered not long after Yona’s Party had, and from the moment they did, Joakim knew his victory was inevitable. Their deaths in his Dungeon would empower it enough to make usurping Maligar feasible, especially when combined with the deaths of Yona and her Party. He doubted he would be able to get to near certainty, but based on his current progress, their deaths would likely at least push it close to a coin flip.
+
+His original plan was to kill Yona and the others, then use Andala to take care of the Tier 5s. At Tier 5, they would be better able to resist his aura than Yona’s Party, but they would still be largely incapacitated, and a few well placed spells to support Andala’s rampage would have them easily defeated.
+
+Obviously, that hadn’t gone to plan, as Yona’s Party proved to be more than he bargained for, and the surprise appearance of the Dungeon had lost him one of his strongest fighting forces, as well as pinned down Andala. The explosive plan was something he had already concocted at the back of his mind, but he originally didn’t mean to use Ellie for it. He did truly want to restore her properly, but desperate times called for desperate measures. Only a Named monster could hold that much mana, and only an undead with a soul could have a Name, and Ellie’s soul was the only intact one he had on hand.
+
+At least it had worked out well in the end. He frankly hadn’t expected it to be as effective as it was, as he should have predicted, his plan went more or less flawlessly. Horace had been harassing the Tier 5 Party all throughout the labyrinth. A Tier 4 assassin against a party of Tier 5s was risky, but him being a Named monster helped, and the fact that his abilities were almost entirely specialized in mobility and getting in and out quickly helped him survive.
+
+Because of his harassment, the Tier 5 party wasn’t able to set up properly for their ascent to the next Floor, and their barrier was weak enough that Ellie’s explosion tore through it almost instantly. That was actually almost a bad thing, as it would have killed them all instantly, preventing the Dungeon from gaining from it, but thankfully, it weakened the explosion just enough that between that and the Party’s defensive artifacts, they had all survived, if only barely for their mage.
+
+After that, it was a simple matter of cleaning up the kills, with Phillip landing the finishing blow on each, and voila! The Dungeon was empowered.
+
+“What are we at, Phillip?” he asked mentally as he finished healing the undead that had once been a Tier 5 mage.
+
+“31%, sir.”
+
+“Excellent!”
+
+The battle between his undead and the monster’s Party raged on around him, but he just grinned. His victory was all but assured. He just needed to take out the monstrous cat, and it would be done.
+
+The undead mage was about half restored when he suddenly sensed spatial mana coalescing behind him. He did not hesitate to Blink out of the way, taking his new undead with him, and causing the enormous sword to strike empty ground. Yona Blinked after him a few more times, and while her attacks were formidable, he still had a full Tier on her, and his teleports were faster than hers.
+
+“Stop running, coward!” she shouted.
+
+Joakim only smiled, flipping her off before taking the undead mage into his spatial storage and Blinking away even further. It was a shame he wouldn’t be able to get her back to fighting form at the moment, but the rest of her Party would have to be enough. As mindless undead, they would not be nearly as powerful as their living counterparts, or the Named he could have made if he had managed to trap their souls, but they would be more than enough to deal with a Party of newly-minted Platinums. Especially with himself, Horace, and Sebastian, a Named made from a former Adventurer’s Guild branch leader, still alive and fighting.
+
+As Yona chased him around the battlefield, he began to laugh, unable to stop himself. Finally he felt like a proper hero. The villains had come with a strong plan. They had caught him off-guard, and he had lost much, but in the end, victory was his, just like in all his favorite stories.
+
+Nothing will be able to stop me now, he thought gleefully.
+
+He Blinked around a few more times, avoiding Yona’s attacks, the two of them settling into a comfortable rhythm. Then, to catch her off guard, he suddenly chose not to Blink, instead sidestepping and firing back with an attack of his own. It was an attack he had not used against her before either, so it caught her even more off-guard. Violent Rend ripped the space between his hand and her side to pieces, and the spatial disruption slowed her Blink, allowing his attack to connect with her exposed side before she could properly react.
+
+Appearing a dozen meters away, she immediately began healing, her flesh wriggling and reconnecting, but Joakim knew that healing like that wasn’t cheap. She may have stored a lot of mana, but he doubted she had stored as much as he had, and healing wounds like that would burn through it quickly.
+
+The battle continued on, with Joakim enjoying every second of it. It was not an easy fight, but he knew beyond a doubt that he would win. It was the climactic final battle of a long arc. He had already foiled the villain’s plan, and now, all that was left was to defeat the villain themselves. This part of the story was practically already over. All that remained was to watch the hero win.
+
+He entered a flow state as the fight continued. He felt good—powerful—and everything seemed to be going his way. Yona occasionally broke off from the fight, trying to land cheap shots on the surviving undead, but unlike the previous battle, there were no weaklings left for her to pick off. Horace was too slippery, Sebastian too durable, and the new undead simply had too many stats. She dealt damage, sure, but she could not Devour them to replenish her reserves, and she could not harm them enough to change the final outcome.
+
+She tried every trick she had, but Joakim had counters for all of them. Having been on the losing end of her mana-stealing trick, he was more prepared the next time she tried it, managing to resist the theft, and supply enough extra mana that his teleportations could activate anyways. She tried to sneakily release small constructs to drop powerful attacks on the heads of him and his summons, but after the first one caught him by surprise, nearly killing one of his new undead, he set Horace to the task of destroying the constructs before they could get into position, and they were thus neutralized.
+
+Meanwhile, her Party members weren’t faring much better. Their tank, Chad, was locked in battle with Sebastian. They were almost evenly matched, with Chad perhaps being a tad more skilled, but Sebastian had the advantage of Named monster stats, and was slowly overwhelming the other frontline warrior.
+
+The assassin, Lauren, was sneaking around the battlefield, but it was clear that her Class Path had traded some stealth for raw power, making it difficult for her to truly surprise her targets. The fact that her fire affinity instantly cauterized any wounds she left was mildly annoying, as it prevented the undeads’ natural regeneration, but even with her sacrifice of stealth for power, she still couldn’t leave wounds deep enough to truly cripple a Tier 5 undead.
+
+The twins were slightly more of a concern. The barrier mage’s shields were potent enough to defend against all attacks coming their way, and the artillery mage was staring Joakim down while pouring a dangerous amount of mana into some kind of spell. Even as strong as he had become, he knew better than to mess with whatever that was. But even so, as long as he paid attention, it would be easy enough to dodge.
+
+Yona broke off from their duel once again, trying to land a strike on Sebastian’s head, but Joakim followed right behind her, firing a Violent Rend at her before she could swing. However, the sword was a diversion, and before Joakim’s attack, could land, a pitch black blade of spatial mana flew from her mouth, slicing Sebastian’s arm off. At the same time, the fleshy mass attached to her back swung around to intercept Joakim’s attack, getting completely destroyed in the process, but protecting the monster from the worst of it.
+
+Immediately after, she Blinked over to the undead ranger of the Tier 5 Party, repeating the same trick. This time, Joakim didn’t bother to personally interfere, instead commanding the undead to leap out of the way to safety. Her attack missed, carving a deep scar into the ground as the ranger rolled away unscathed, drawing his bow to fire a countershot.
+
+Yona repeated a similar process, teleporting around the battlefield and trying to land strikes on the undead to no avail. Joakim’s mana sense was too refined, and he could always detect where she was teleporting early enough to get his minions to dodge. No matter which she targeted, she was never successful.
+
+She’s getting desperate! thought Joakim happily. She probably wants to try to take out the undead so she can regroup with her Party before challenging me.
+
+The loss of Sebastian’s arm turned the tide of the duel between the shieldbearers temporarily, but the weakness was quickly rectified. Yona had given up on using her construct heads to drop bombs, meaning Horace was free again, and his addition turned the battle back in Joakim’s favor.
+
+The villain Party started to appear visibly desperate. Chad’s face was sleek with sweat, and after so many attacks had proven ineffective, Lauren was getting bolder and taking more risks. One such risk had nearly gotten her killed by Horace.
+
+On top of that, even if they somehow managed to turn the tides back in their favor, it wouldn’t matter in the end. Ellie was on the next Floor, restoring herself from a mana battery. Once she had recovered enough to return, the battle would be over. The other Party was largely immobile, and Ellie’s explosions were too strong even for the dedicated barrier mage. The longer they fought, the more certain his victory became.
+
+Suddenly, he caught a flash of mana in his periphery. Realizing he had almost forgotten about the artillery mage, he channeled the quickest Blink he could, getting out of the way before the spell could fire, only to realize that he hadn’t been the target.
+
+A beam of pure, violent mana tore across the battlefield, and before the light even died down, Joakim received three System notifications.
+
+[ Lost connection with Revenant #78 ]
+
+[ Lost connection with Revenant #79 ]
+
+[ Lost connection with Revenant #80 ]
+
+His eyes widened in horror as he saw a few leftover body parts that had been outside the range of the beam fall to the ground. The cat had tricked him. She wasn’t getting desperate when she attacked the undead. She was corralling them. He hadn’t even noticed that she had pushed them all into one line until it was too late.
+
+Even Sebastion had not escaped unscathed. Yona’s earlier attack had taken his shield arm, and this one took his sword arm, along with a large chunk of his shoulder. Suddenly without any means of defense, Chad immediately impaled him on his own sword, tackling him to the ground and pinning him. Yona then appeared beside him and beheaded the former guildmaster before tossing the head into the Dungeon.
+
+“Ellie, are you ready?”
+
+“I– I’m only halfway recovered.”
+
+“Fuck!”
+
+A half power explosion would be too risky. It might kill them, but it also might not. He needed to stall for time for Ellie to finish recovering. She was the only card he had left. At least for now.
+
+“Well done,” he said with a grimace. “But I’m afraid it’s too little, too late.”
+
+“Actually, I think it’s too late for you,” replied Yona. “You’re pretty screwed right now.”
+
+“How so?”
+
+“You have no powerful undead left and the Adventurer’s Guild is on their way. I’d love to hear how you plan to survive that.”
+
+While Joakim was loath to admit it, she did have a point. With all his most powerful undead slain or captured, he would have trouble fighting off a force of any kind of power. With Phillip under his control, he would be able to keep on the run for a while by using the Dungeon’s features, but there was a limit to even that, and with the entire might of the Adventurer’s Guild after him, they would be able to corner him eventually. And the odds he would be able to pick enough of them off to build up a serious fighting force again was low. He had gained quite a few levels for the stunt with the Tier 5 Party, but Tier 5 himself was still a long way off, and until then, he was limited to only Tier 4 Named undead.
+
+His only real option was continuing his original plan of usurping Maligar. And with that in mind, a new idea came to him.
+
+“Let them come,” he said. “They will die, just the same as you will?”
+
+“Oh, will they?” she asked, an annoyingly smug expression. “I know you’re just stalling for time for your suicide bomber to come back. Well, you know what? Fuck you.”
+
+As she spoke, the rest of her Party began to back up, and one by one, they jumped into the Dungeon.
+
+“I can’t believe you still think you’re the hero here,” she continued. “You have the entire Adventurer’s Guild against you, you’ve killed thousands, you’ve put innocent people through hell, and you still think it’s alright, just because it’s for ‘the greater good’?”
+
+Joakim commanded Horace to attack the others as they retreated backward, but they were ready for him, and his attacks were futile.
+
+“I was brought here to be a hero,” said Joakim. “I will save the world, whatever it takes.”
+
+“Save the world from what? You still haven’t explained.”
+
+“From you!”
+
+“You wanna know how many people I’ve killed? Zero. Well, maybe technically one. But he was more of a monster than a person, and he kind of killed himself in me, so I don’t think it really counts.”
+
+With each word, she stepped a bit further back until she was right on the edge of her Dungeon. Joakim scowled as he realized that Ellie wouldn’t be ready in time. If they just stayed hidden in the other Dungeon, he would not be getting any more essence for his Dungeon before the Guild arrived.
+
+This wasn’t how it was supposed to go, he thought, frustrated.
+
+“Fine!” he said. “Do you want to know how I plan to survive the Adventurer’s Guild?”
+
+“Oh?” asked Yona, stopping right before entering the Dungeon.
+
+“Phillip, activate the usurpation.”
+
+“But–!”
+
+“Just do it! And start merging as soon as it succeeds!”
+
+“Y– yes, sir!”
+
+“By doing this,” said Joakim, spreading his arms with a smile. “As I said, the Hero always wins.”
+
+He stayed like that for a few seconds, but his surroundings did not change. The merge did not begin. Below him, Yona’s lips spread in a wide grin.
+
+“The usurpation just failed, didn’t it?” she asked.
+
+“No, I was just– I was making a joke. I don’t need any preparations. I’m the Hero!”
+
+“The usurpation failed,” said Phillip’s voice in his head.
+
+“Shut the fuck up,” said Joakim. “Do you think I’m an idiot?!”
+
+“If you were really the Hero, that would have worked,” said Yona, her smile only growing wider. “But you know what? You’re not the Hero. You’re not the Chosen One. And you wanna know how I know?”
+
+“Because you’re ignorant and deluded?”
+
+“Because I’m the Chosen One, bitch.”
+
+She snapped her fingers, and a moment later the ground began to rumble.

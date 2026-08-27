@@ -1,0 +1,121 @@
+---
+id: 3e9a9ce4-e801-5c38-9907-7b9e6deaeec6
+page-type-slug: story-chapter-royal-road
+title: "167: Under New Management"
+slug: 0167-167-under-new-management
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 167
+ownLength: 1857
+unit: words
+publishedAt: 2026-06-19
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3561683/167-under-new-management"
+royalRoadId: "3561683"
+---
+
+The entire parking area was filled with rows of identical black sedans. The cars actually reminded Chloe a little of the ones she and Mom used to have back home, though these ones somehow looked even more soulless than usual.
+
+Chloe slowed down slightly while staring at them as a dangerous thought immediately entered her brain. She had always wanted to try driving a car before, and she remembered how she did technically already have a license before she became a zombie.
+
+Meanwhile, Z had already started looking around, completely ignoring the cars while Chloe mentally imagined herself drifting one of the sedans at dangerously high speeds. After a few seconds, Z finally pointed toward a narrow tunnel built into the far side of the parking space. “Looks like our way out."
+
+Chloe immediately pointed toward the nearest sedan. “Why don’t we just drive there instead? We literally have free cars right here.”
+
+“Unless we possess a very good reason to use one, it would be best not to risk it. Flying will be faster and significantly less likely to alert additional security systems.”
+
+That answer made complete sense, which unfortunately also made it a lot harder for Chloe to argue against. Still, she puffed her cheeks out slightly in disappointment while giving the nearest sedan one last longing look. I'll drive around next time for sure.
+
+Z manifested her wings in a burst of glowing white light before immediately taking off toward the tunnel. A second later Chloe summoned her own wings as she pushed herself into the air and flew after Z.
+
+***
+
+After flying through the tunnel, Chloe and Z finally burst out into the open, and the first thing Chloe thought was wow, Divinity Inc. worked fast. The sky above Tartarus glowed with a dull reddish haze, and the ground below was dry, cracked, and dead looking. Though so far, Chloe guessed that was just how Tartarus was supposed to look, because Divinity Inc's influence was a lot more obvious elsewhere.
+
+Paved roads stretched through the wasteland and towards a massive city-like complex in the distance. The closer the roads got to the city, the denser the construction became until the entire horizon was filled with cranes, scaffolding, and unfinished buildings.
+
+Although, some of these buildings somehow already looked fully completed, covered in glass windows and glowing company logos, while huge sections of the city still remained mid-construction. And everywhere Chloe looked, there were billboards with glowing advertisements for Divinity Inc. hung from roadsides, the sides of buildings, and even floating digital screens that looked like they were being carried by these surprisingly small drones.
+
+Chloe whistled while hovering in the air beside Z. “Okay wow, how the heck did they build all this so fast?”
+
+Z stared out across the growing city with a noticeably colder expression than usual. “Divinity Inc. may be slow in many areas, but eliminating competition has never been one of them.”
+
+The way she said that made Chloe feel like there was probably a horrifying story behind it somewhere, but now probably wasn’t the best time to ask. Instead, Chloe folded her arms behind her head while continuing to float in the air. “So uh... what do we even do now? Tartarus kinda looks super controlled already.”
+
+“Our objective remains unchanged, the primary issue is that we will now need to operate carefully while gathering information. Even if we avoid attention, there is still a high probability Divinity Inc. will eventually send forces after us.”
+
+“Oh! I can just turn invisible. Wait, can you do that too?”
+
+“I can, and considering the circumstances, that would likely be the most practical approach. We should conceal ourselves and explore this section of Tartarus first before deciding our next course of action.”
+
+A second later, both of them vanished completely. Chloe still thought invisibility powers were very cool every single time she used them. One moment she could see her arms and wings perfectly fine, and the next they were just gone. Oh, and although she couldn't see Z exactly, she could still sense Z's mana and presence. So she could sort of know where Z was generally, most of the time.
+
+The two of them flew through the air toward the city while remaining completely invisible. The closer they got, the bigger the place looked. Bright lights lit up the streets despite the permanently red sky above, and huge digital billboards flickered constantly with smiling advertisements that made Chloe feel weirdly uncomfortable, especially this one billboard that said "Welcome to new Tartarus!"
+
+Something about that just doesn't feel right. Chloe thought to herself.
+
+Eventually, Chloe and Z descended to the streets before touching down on the pavement. The moment Chloe’s boots hit the ground, she dismissed her wings while Z’s glowing white wings dissolved silently behind her. Even invisible, Chloe still instinctively glanced around like somebody might somehow spot her anyway.
+
+The city itself somehow looked both crowded and empty at the same time. There were workers everywhere, and groups of people hauling metal beams, operating machinery, welding supports together, or dragging equipment.. Most wore dirty construction gear covered in dust and grime, and almost all of them looked completely exhausted.
+
+What really caught Chloe’s attention though were the things supervising them. Tall humanoid robots marched throughout the construction zones with glowing red eyes. Their metal bodies looked sleek and polished compared to the filthy construction sites around them, and every single one had a large cheerful sticker plastered across its chest with bright colorful text.
+
+A Happy Worker is a Good Worker. Chloe stared at one of the robots as it slowly turned its glowing eyes toward a worker carrying supplies. “Was Divinity Inc always this depressing?"
+
+“It's certainly gotten much worse in recent years.” Z said.
+
+Chloe continued watching the workers for another few seconds before tilting her head slightly. “Wait a second though, why doesn’t Divinity Inc. just use robots to do all the construction stuff? They already have creepy robot guys everywhere.”
+
+“Most likely because somebody within the finance department determined that using laborers was still more cost efficient.”
+
+“Seriously?”
+
+“I assure you, large corporations are often willing to tolerate horrifying conditions if it improves profits by even a single percentage point."
+
+Yeah, that unfortunately sounded believable. As Chloe watched another exhausted worker drag a massive crate across the street while a red-eyed robot monitored him from nearby, she frowned. “So uh... should we maybe help these people or something?”
+
+“For now, no.” Z answered. “We still lack information about Tartarus, Divinity Inc.’s current operations, and your mother’s whereabouts. Acting recklessly now could compromise everything.”
+
+Chloe puffed her cheeks out slightly at that answer, though she already knew Z was probably right. It felt really hard to just ignore all this, but she kept her head down for now.
+
+The two continued walking while the noise of construction echoed all around them. Chloe had just started wondering whether this entire city ever stopped building anything when Z suddenly slowed beside her. Chloe immediately noticed the shift in her posture and followed her gaze upward.
+
+Several angels wearing black-and-white Divinity Inc. uniforms flew overhead between the buildings in tight formation as they patrolled the city from above. Chloe opened her mouth, already about to whisper something, but before she could speak, Z quickly reached over and covered Chloe’s mouth with one hand.
+
+Z shook her head, and Chloe slowly nodded in understanding while the patrol passed overhead. Getting caught this early would probably be super embarrassing.
+
+The moment the angels disappeared beyond the nearby buildings, Chloe felt somewhat relieved. “Okay wow, they really do patrol this place like crazy.”
+
+“Which is precisely why you should attempt to be quieter.” Z replied calmly before continuing down the street.
+
+“Hey, I was being quiet.”
+
+“Not anymore, clearly."
+
+Chloe felt that was kinda rude of Z, but whatever, she'll let this one slide. The two continued walking through the city while staying invisible, weaving through crowds of exhausted workers and construction equipment scattered across the streets. Chloe kept glancing around curiously while they walked, half distracted by the giant buildings and half distracted by how unbelievably sad everybody here looked.
+
+Seriously, nobody in this city seemed happy. Unfortunately, Chloe got a little too distracted staring at one of those stickers. She accidentally walked directly into something solid. CLANG.
+
+The impact sent a loud metallic noise echoing through the street as Chloe bounced backward in complete surprise. “Oh crap—”
+
+The humanoid robot she’d bumped into staggered slightly before immediately turning its glowing red eyes toward her position.Despite still being invisible, Chloe panicked and decided the best possible solution was diving behind the nearest lamp post and just hoped that would work out. She pressed herself against the pole while really, really hoping that the robot would just go away.
+
+Z kept standing right in the middle of the sidewalk without moving even slightly. The humanoid robot slowly tilted its head with a mechanical whir as its glowing red eyes scanned across the empty air. The machine continued to search before its gaze abruptly stopped and locked directly onto Z’s position. Then it just stared, and Chloe felt her entire body tense instantly. Oh no, Z!
+
+The robot stood completely motionless while it remained fixed on the exact spot where Z stood invisible. Tiny flickers of light pulsed behind the machine’s eye lenses while faint clicking noises echoed from somewhere inside its body, almost like it was thinking, or calculating. Chloe didn’t know which option was worse.But despite the situation, Z didn’t react at all.
+
+She remained calm and motionless while the robot continued staring directly at her. Chloe didn’t understand how Z stayed so calm all the time, because she was already mentally preparing for the world’s most awkward fight scene.
+
+Several seconds crawled by before the robot’s head suddenly twitched once. Then, it finally turned away completely and resumed walking down the street like nothing had happened.
+
+Chloe immediately sagged against the lamp post in relief. “Okay wow, that was—”
+
+A violent rush of wind suddenly tore through the street hard enough to rattle nearby signs and scatter dust across the pavement. The angels from earlier descended from the sky almost instantly.
+
+Their wings spread wide as they slammed down onto the street directly in front of the robot with enough force to crack the pavement. There were four of them in total, and they looked like they all meant business.
+
+Unlike the exhausted office workers Chloe had seen inside the administrative building earlier, these angels looked much more dangerous. Their uniforms were reinforced with armored plating along the shoulders and chest, and each of them carried metallic weapons attached to their belts. Bright halos hovered above their heads while glowing company insignias shimmered across their jackets.
+
+One of the angels stepped forward toward the robot. “Explain the disturbance.”
+
+“Potential hostile entity detected. Source unconfirmed.” The robot said in a mechanical voice.
+
+Chloe immediately froze behind the lamp post. That sounded bad, that sounded extremely bad actually. Come on, Chloe, gotta think of a way out of this one!

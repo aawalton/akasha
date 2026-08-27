@@ -1,0 +1,89 @@
+---
+id: e9a27611-43a7-595d-ac07-a3f9dd27ec39
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1448 - Rising Once Again	"
+slug: 0096-chapter-1448-rising-once-again
+partOf: chrysalis
+position: 96
+ownLength: 919
+unit: words
+ownProgress: 919
+publishedAt: 2024-11-07
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1889455/chapter-1448-rising-once-again"
+royalRoadId: "1889455"
+markedReadAt: "2026-06-29T19:47:09.055Z"
+---
+
+“What do you estimate to be the level of fortress completion?” Solant asked softly, her eyes fixated on the maps and models laid out before her.
+
+“It’s almost impossible to give an accurate figure,” Tungstant groused. “We’ve never done anything in such a piecemeal fashion as this. Some parts are nearly complete, while others haven’t been started!”
+
+“That’s why I asked for an estimate.”
+
+The carver paused for a moment to gather her scattered thoughts. She wasn’t used to working in this manner, and the pressure was enormous. The Colony had invested an enormous wealth of resources in this endeavour, and she had never before been so painfully aware of the risks. Combined with a lack of torpor that had her looking over her shoulder, and… she was getting irritable.
+
+At least Solant was always calm and patient, which at times was an irritant in and of itself.
+
+“Twenty percent,” she said finally. “Of all the components, the channels, tanks and platforms are probably the furthest along, but foundations, reinforcement and the outer walls are woefully behind. There’s almost no chance we can finish according to the schedule.”
+
+“I completely agree,” Solant nodded, not taking her eyes off her precious models. “There will be a new timetable issued within the hour. Our deadline has been pushed back a week, which should give everyone time to catch up on their torpor.”
+
+“A week?” Tungstant said, shocked. “Why a week?”
+
+The vents had slowed them down tremendously, but they hadn’t lost that much time, had they?
+
+Solant clacked her mandibles softly.
+
+“You keep telling me that this is the most complex and ambitious construction project the Colony has ever undertaken. Am I right?”
+
+“Yes. Because it is.”
+
+Not just in scale or complexity, but the manner of construction as well.
+
+“We cannot allow there to be any errors, not one, in the final fortress. The extra week will allow time for every build team to maintain minimum rest standards and double-check their completed builds to iron out faults.”
+
+What Solant didn’t mention was that the reinforcements they’d received from the Legion allowed them a little more leeway. Should the worst happen, the Colony could concentrate their forces in fewer tunnels, which would make all the difference and allowed them to push the clock out a bit further.
+
+“Fine,” Tungstant said slowly. “I’ll let the teams know.”
+
+“I appreciate your time, Senior,” Solant said, finally turning her head. “Make sure you get some rest as well.”
+
+“I will.”
+
+That would be one less thing she had to worry about, at least. As Tungstant moved out of the command post, Leonidant, the trusted scout of Solant’s twenty, moved to her side.
+
+“You aren’t going to tell her?” she asked quietly.
+
+“What would be the point?” Solant replied. “We have accounted for the changes in the updated schedule. Let Tungstant focus on what she does best: coordinating and managing the build teams. We will handle the rest.”
+
+As she was speaking, a scout rushed into the room, exchanged a few words with one of the generals, then ran back out, returning to her post. Solant waited patiently, still watching her models and maps, trying to see the reality that lay behind the markers, numbers and indicators scrawled on everything in front of her.
+
+Ceasant approached a few moments later.
+
+“Readings from the deep finders just came in,” she reported.
+
+Solant clacked her mandibles thoughtfully. She’d been waiting for these numbers.
+
+“Update the model and let’s see what we’re dealing with.”
+
+Ceasant, with the help of Leonidant and a few others, gathered together, shifting markers and updating numbers with new indicators. When they were done, all the ants moved away and allowed the little general to lean forward, taking it all in at a glance.
+
+“Sooner than expected,” was all she said.
+
+“If the mana is starting to rise already, will our timetable still hold? I know you said the carvers can take it a little easier, but can we still afford that luxury?” Ceasant worried.
+
+“Having rested and confident build teams is not a luxury, but a necessity,” Solant corrected her.
+
+In her head, one scenario after another flashed by, taking into account this new data. She weighed and measured, trying to find the right way through the myriad of possibilities.
+
+The mana was rising, and sooner than expected. There was still time before the wave, but it was coming, sure as The Queen was hunting her own food.
+
+More and more, the delay caused by the vents was coming back to bite them. The Krath would organise soon; she had estimated they would begin to escalate their attacks over the next few days. One small blessing, the slugs had proven to be less organised than she had accounted for, but it wouldn’t last for long. With the rising wave, that meant things were going to get very tight towards the final stages of construction. So long as the fortress was completed before the wave arrived, the first stage of the invasion would be a complete success. If not…
+
+They would abandon everything and retreat to the fourth. It would be the single greatest loss of material the Colony had ever suffered. Not only that, the Krath would not be caught unawares a second time, making any future invasion much more difficult.
+
+They had to succeed. They had to. Solant would do anything to win, that was why she had been chosen for this role.
+
+They were going to win.
+
+No matter the cost.

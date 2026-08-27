@@ -1,0 +1,91 @@
+---
+id: cb276592-0887-50e3-a0c2-8f05d66b68f4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1661 - It Spread Like a Virus pt 8"
+slug: 0310-chapter-1661-it-spread-like-a-virus-pt-8
+partOf: chrysalis
+position: 310
+ownLength: 1115
+unit: words
+ownProgress: 1115
+publishedAt: 2025-10-07
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2657178/chapter-1661-it-spread-like-a-virus-pt-8"
+royalRoadId: "2657178"
+markedReadAt: "2026-06-29T19:53:43.677Z"
+---
+
+Nothing is known of Gon the Sightless Freak, not even how we came to know the Ancient’s name. None have ever seen them, even in dreams. The few cultists who have dreamed of Gon report a world shrouded in darkness. A place without sight, or sound, or touch, or taste or smell.
+
+We don’t even know why the cultists have these visions. They have received no message from the Ancient, gained no wisdom or insight. All they have is blind eyes, tasteless tongues, deaf ears, useless noses and unfeeling hands.
+
+The Freak will not be witnessed. In any way. By anyone.
+
+-           Excerpt from ‘Collective Wisdom of the Cults’ by Granin Lazus
+
+The golgari liked things to come in threes. The melding of minds was a tradition even older than their use of the second skin. From that unity flowed the formation of the triads, the master and students, the creation of the circles and the structure of golgari society around the world.
+
+Perhaps this was why, Eran Thouris mused, they had decided to play with nine a side, rather than ten.
+
+She sat, with Marzban and Irisod the Court Mage by her side, watching as young golgari, perhaps only a few months into wearing their stone flesh, shifted the ball back and forth, running and laughing while they played.
+
+“It’s interesting,” Marzban mused, hand resting on his palm as he watched. “Look at the way they move it. I haven’t seen our people do that.”
+
+Eran nodded thoughtfully.
+
+There were many differences between the brathians and the golgari. Physically, the golgari were imposing figures, usually more than seven feet, with strength of limb beyond what most races were capable of. Despite being young, the youths were able to lift and carry the ball without difficulty. They would throw it, kick it, unafraid that the hard stone of the ball would break their bones or even abrade their flesh.
+
+“The people of the stone have always been meatheaded. More brawn than brains,” Irisod sniffed. “Our people must use more dignified methods.”
+
+“I think they would prefer the term ‘rockheaded’,” Marzban commented dryly. “And look, you can already see there’s some shapers down there.”
+
+Indeed, working with magic was seen as a lesser profession amongst the golgari, preferring to venerate their warriors instead. Even so…
+
+“The golgari shapers are literally the best manipulators of stone in the world,” Marzban said, “I think Tunnel Ball might be right up their alley.”
+
+Indeed, as Eran watched, two boys who were clearly shapers in training were able to shape the stone with incredible precision, creating loops and curves to turn and throw the ball without having to touch it. Before long, they hardened the ball and started punting it about by creating pillars of rock to smack it around.
+
+“Where did they even learn it from?” Eran wondered aloud. “We’ve only been here for a few hours. It can’t have come from us. The Colony isn't welcome here, so it can’t be from them. So who else is spreading this game?”
+
+This particular trade mission had only just arrived on business from the Satrap. He’d decided to invest in some rare gemstone ventures within the Empire of Stone, and Eran had not long ago disembarked her ship, only to find that Tunnel Ball had even spread here, where hatred for the ants ran high. After Anthony had rocked an entire mountain, they really didn’t like the Colony. They still bought a surprising amount of cheap, ant-produced goods, though.
+
+“I think I might have an answer for you,” Marzban said, nodding his head off to their right.
+
+Eran turned to see some Folk emerging from a docked ship, blades in their hands and a stone ball carried between two of them.
+
+They called out and the golgari cheered when they saw them coming. Before too long, they had a few small games going, blade light flashing as the balls bounced to and fro. Rather than a proper game of Tunnel Ball, it was almost as if they were playing an elaborate game of keepaway, as those without the ball tried to seize it, while those in possession tried to pass the ball around and keep it safe.
+
+Without a proper field on which to play, this was as close an approximation to Tunnel Ball as they could make.
+
+Although, the dock may not have been the best place for it. They ducked and wove through dense traffic and shipping crates, with more than a few close calls. The skill on display was honestly impressive, but it was only a matter of time before there was a serious accident. When the authorities finally shut them down, the players protested good-naturedly but gave way in the face of the furious guards.
+
+Eran had one question on her mind. She turned to Marzban.
+
+“The Folk are playing Tunnel Ball?” she demanded.
+
+He shrugged.
+
+“It would appear so. How else would they have the ball?”
+
+“You know what this means?”
+
+He frowned.
+
+“I do.”
+
+“We can never lose to them,” she insisted. “The dignity of our people must be upheld!”
+
+“It’s not going to be easy,” Marzban muttered, stroking his chin as he considered the dire problem before them. “We play underwater. There’s no way the furry Folk will ever agree to give us a home field advantage like that.”
+
+“We can make water wherever we play. I insist that the Tunnel Ball fields be moved to the surface.”
+
+“The ants have also made that point. The standard rules for interleague and international matches demand a dry field.”
+
+The very thought of having to sit and watch as a brathian team was defeated by the Folk was enough to make her fins stand on edge. They had the advantage in the duelling arenas, and they never let anyone hear the end of it. Something had to be done. The conglomerate would have to marshal all possible advantages as effectively as possible.
+
+“I need to talk to the Satrap as soon as we return,” she declared. “We need to invest heavily in our Tunnel Ball players. New practice grounds, coaching, Skill development and research. We must harness every edge we possibly can. Hire ants if that’s what it takes. When the time comes, we will crush all opposition.”
+
+She thought of how well the golgari had seemed to take to the game. If it spread here as well, just how strong would their teams be? The thought only firmed her resolve even further. No matter what they had to spend, they would win.
+
+Marzban nodded, sharing her determination.
+
+“I believe my brother will agree wholeheartedly. He loves money a little less than he hates losing.”

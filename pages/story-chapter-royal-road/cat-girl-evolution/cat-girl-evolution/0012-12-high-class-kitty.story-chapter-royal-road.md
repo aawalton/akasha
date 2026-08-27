@@ -1,0 +1,309 @@
+---
+id: 8b83aca5-2ed8-5d02-9b94-ca1a795ec9c9
+page-type-slug: story-chapter-royal-road
+title: "12 - High Class Kitty"
+slug: 0012-12-high-class-kitty
+partOf: cat-girl-evolution
+position: 12
+ownLength: 2807
+unit: words
+publishedAt: 2025-08-20
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2534518/12-high-class-kitty"
+royalRoadId: "2534518"
+---
+
+Haha! The great Princess Yona could never be held back by a simple System glitch!
+
+[ This humble servant is in awe of Your Most Magnificent Highness’s serendipity ]
+
+Now, how do I pick a Class?
+
+[ You should probably check how your Species got stabilized first. ]
+
+Oh, good idea. Royal Status Window!
+
+[ Name: Yona ]
+
+[ Age: 0 ]
+
+[ Species: Gluttonous Feral Fiery Spatial Devourer Thief House Cat. Tier: 1. Level: 3. ]
+
+[ Class: --Select-- ]
+
+[ Profession: Locked ]
+
+[ Titles: Second Lifer, System Breaker ]
+
+[ Traits: Cat-like Reflexes, Gluttony, Spatial Affinity, Nimble, Fire Affinity ]
+
+[ Stats ]
+
+[ Power: 190 (+90) ]
+
+[ Finesse: 316 (+146) ]
+
+[ Resilience: 244 (+114) ]
+
+[ Memory: 208 (+98) ]
+
+[ Willpower: 226 (+106) ]
+
+[ Sensitivity: 226 (+106) ]
+
+[ Skills: Slice, Stomach of the Glutton, Bite of the Glutton, Snatch of the Glutton, Blink, Ember ]
+
+…That’s a really long Species name. I think. That’s long, right?
+
+[ It’s the longest I’ve ever seen ]
+
+I should get a Title for that.
+
+[ …I can make a support ticket. ]
+
+Wait, really?
+
+[ Depending on who reads it, it’s possible it could work. And I’m doing this for selfish reasons. A stronger you is a stronger me. Now, let’s stop wasting time and pick your class. ]
+
+Is this gonna knock me out again?
+
+[ No. That’s only for Species Evolutions. Class and Profession Selections are quick and easy. ]
+
+Sweet! Then Abby, I want to select a Class!
+
+[ You have reached Tier 1! You are now eligible for a Class. Would you like to select a class? ]
+
+Yes!
+
+[ Class Options: ]
+
+[ Warrior ]
+
+[ Mage ]
+
+[ Priest ]
+
+[ Shaman ]
+
+[ Ranger ]
+
+[ Rogue ]
+
+Wait… These are all boring!
+
+[ Well, they are starter Classes. Everyone gets the same ones. ]
+
+Lame. Alright, then which one is best? Which one will let me recover my mana so I can kill the octodudes?
+
+[ Mage, Priest, and Shaman will all give you the skills you need. But this is the start of the rest of your life. You can survive this night without the class. You should think more deeply about your long term future ]
+
+Why not both? Which one of those three will be best for the rest of my life?
+
+[ Most likely Mage, but you should at least- ]
+
+I choose Mage!
+
+[ Are you sure you wish to finalize your Class Selection? Once finalized, you will not be able to change your Class without divine interference ]
+
+[ You should really- ]
+
+Yes!
+
+[ You have selected the Mage class! Skills and Stat points have been assigned. Please refer to your Status Window for changes ]
+
+[ I don’t know why I even bother ]
+
+Royal Status Window!
+
+[ Name: Yona ]
+
+[ Age: 0 ]
+
+[ Species: Gluttonous Feral Fiery Spatial Devourer Thief House Cat. Tier: 1. Level: 3. ]
+
+[ Class: Mage. Tier: 0. Level: 1. ]
+
+[ Profession: Locked ]
+
+[ Titles: Second Lifer, System Breaker ]
+
+[ Traits: Cat-like Reflexes, Gluttony, Spatial Affinity, Nimble, Fire Affinity ]
+
+[ Stats ]
+
+[ Power: 191 (+90) ]
+
+[ Finesse: 317 (+146) ]
+
+[ Resilience: 245 (+114) ]
+
+[ Memory: 222 (+104) ]
+
+[ Willpower: 240 (+112) ]
+
+[ Sensitivity: 236 (+110) ]
+
+[ Skills: Slice, Stomach of the Glutton, Bite of the Glutton, Snatch of the Glutton, Blink, Ember, External Mana Manipulation, Meditate ]
+
+Wow, my stats barely went up at all.
+
+[ Well, Mage is a basic class. Don’t expect much until you evolve it ]
+
+Lame. So which of these skills lets me absorb mana faster? Meditate, right?
+
+[ Correct. ]
+
+Alright. Meditate!
+
+Why is nothing happening?
+
+[ You need to actually meditate while you use the Skill ]
+
+Ah, right. I knew that.
+
+I close my eyes and start meditating, and immediately, I feel the Skill activate. Well, I don’t know if I feel the Skill itself activate, but it definitely feels different from what I expected. Even though my eyes are closed, I can still sense my surroundings, and it’s different from Food Sense. It’s like there’s wind all around that I couldn’t feel before. It must be mana. I have no idea what I’m supposed to be doing with this, but it’s interesting.
+
+I observe for a little longer, and after a minute or so, I notice that there’s actually a small trickle of mana entering my body, and when it does enter, it travels to somewhere around my stomach and sits there. There’s barely any there right now, but I’m guessing there’s supposed to be a lot more of it, and it’s only empty because I used it all. That would track with what Abby said. Now I just need to figure out how to get more of it in there.
+
+Go in faster!
+
+Hmmm, that didn’t work. I try various ways to get it in faster, including clenching my body to try to suck it in, breathing in deeper to get more, and thinking really hard about the mana going into my body faster. The first solution doesn’t work at all, and neither does the third, but the second one actually seems to make a tiny difference, so I focus more on that, and soon settle into a breathing rhythm.
+
+After a few more minutes, I open my eyes again.
+
+I’m booored.
+
+[ It’s barely been 5 minutes ]
+
+5 minutes of boredom. How does this skill even work? I can sense the mana, but I can’t do anything about it.
+
+[ While you meditated, you were regenerating mana about twice as fast as before ]
+
+That was twice as fast? That was nothing! You said I could replenish my mana faster if I picked a Class!
+
+[ And you are replenishing your mana faster. I did not lie. ]
+
+This is useless! How am I supposed to hunt the octodudes? You tricked me! You’re- ! You’re Abbitch!
+
+[ I tried to explain, but you kept cutting me off ]
+
+You should have explained faster!
+
+[ I don’t see how your complete and utter disregard for common sense is my problem. Perhaps this will serve as a good lesson for you in the future ]
+
+You’re mean! I’m gonna figure it out anyway!
+
+[ I would say something snarky, but every time I’ve done that in the past, you somehow managed to actually do it, so this time, I wish you the best. Sincerely ]
+
+Whatever. Watch me!
+
+I close my eyes and start meditating again. This time, I don’t waste any time on that stupid breathing crap. Obviously, that’s not the right way to do it, or else it would be faster. I bet that there’s some secret way that Abby’s not telling me. So, how should I do it?
+
+Now that I think about it, it’s really weird that thinking about mana moving inward didn’t work. Don’t I have a new External Mana Manipulation skill? Shouldn’t that have let me control that mana? I mean, it’s external, and it’s mana, right?
+
+I open my eyes again and summon the descriptions for my two new skills.
+
+[ External Mana Manipulation: You can manipulate your mana outside your body. Proficiency: Early ]
+
+[ Meditate: Deepen your meditative state and heighten your senses. Proficiency: Early ]
+
+Yeah, that should have let me control the mana! The Skill lied!
+
+Wait, hold on. It says “your” mana. So I can only control my own mana outside my body? How does that help when all the mana that’s mine is inside my body? Can I push it out?
+
+I close my eyes and focus on willing my mana outside my body, and it works! I knew it! I’m a genius!
+
+…
+
+Wait, my mana! Come back!
+
+Thankfully, I can pull it back in easily. That was almost bad. I would have wasted all that time I spent meditating. Now, how can I use this to recover faster?
+
+I can’t control the mana around me, but I can control the mana within my body when it’s outside my body. I wonder if I can use my own mana to scoop the other mana in. Mana can touch mana, right? That should work.
+
+I send my mana outside my body again, though this time only a little bit, and slowly, painstakingly, I form it into a spoon-thingy. It takes like ten minutes, and right when I think I have something serviceable, I sense the octodudes on the edge of my Food Sense range.
+
+Damn annoying, delicious bastards!
+
+I pull my mana spoon back into my body where it dissolves into plain mana again and I open my eyes. This time when I open them, the sensation of the mana takes a second to fade, and I feel like I can feel a faint tingle in my gut where the mana is still slowly being drawn in.
+
+I wait a bit for the octodudes to get closer, and then I once again race over their heads and through the trees. They were more ready for me this time, probably having figured that I could sense them and would make a run for it, but I was ready for them too, so their tentacles never touch me.
+
+When I find a new spot to lay down, I immediately Meditate and start making my mana spoon again. It goes a bit faster this time, and after only five minutes, my spoon is mostly spoon-shaped. It’s clunky and ugly, but it will have to do. I make the spoon move through the air scooping up mana. It works! I push the spoon with the mana in it into my fur. That doesn’t work.
+
+Well, it kinda works, but not as well as I was hoping. And even worse, the mana that makes up the spoon is slowly dissipating, and when it dissipates, I can’t get it back. The extra mana I’m absorbing barely covers what I’m losing, so basically, I’m not getting any use out of this method.
+
+Still, the spoon can scoop mana, so that’s an improvement. I just need to figure out a way to absorb it faster.
+
+Hmmmm…
+
+Well, breathing helped, right? Maybe if I just spoon it into my mouth instead of splashing it on my fur…
+
+I move the spoon around to be in front of me and lower my jaw as I scoop some mana inside. Now that worked. Kind of. All the mana I scooped with the spoon is swirling around my mouth now. It’s not getting out, but it’s not going toward my stomach either. Well, there’s only one way to get things from my mouth to my stomach!
+
+I swallow, and I sense the mana flow from my mouth down my throat where it settles in my stomach and is slowly converted into the pure mana.
+
+Haha! I did it!
+
+I grab another spoonful, then another, and the amount of mana in my stomach increases and condenses, and the digestion process accelerates. At some point, controlling the mana spoon becomes significantly easier too, probably due to a Proficiency upgrade, which increases my shoveling speed. I only stop when it feels like my stomach is about to burst, and then I absorb the spoon back into my body and open my eyes. The sensation of the mana lasts even longer this time before it fades. There’s also an Annoying Blue Box waiting for me.
+
+[ At this point, I’m not even surprised, but Oh Great Princess Yona, please tell me how in the world you’ve managed this? ]
+
+I ate the mana!
+
+[ I can see your Royal Status Window, so I can see that you don’t have the Mana Eater Trait, nor do you have the Devour skill, meaning what you just said should have been impossible. However, it seems that word doesn’t apply to you. For my own peace of mind, I’m going to assume it’s something to do with Gluttony. Or perhaps it’s because your Species is a “Devourer” species. Regardless, Congratulations. ]
+
+Thank you, Abby! Now, let’s go get some octodudes!
+
+I Meditate again to check my mana, and it looks like the digestion has slowed down. I think that’s because I’m about full on mana though, which is perfect, because it means I can kidnap and kill another octodude before I have to replenish again!
+
+I leap from tree to tree, pausing at each one for a few seconds and using Food Sense to see if they are nearby. On the twelfth leap (I was counting), I finally sense one. I wait a few seconds to check exactly where it is and what it’s doing, and after confirming that nothing weird is going on, I Snatch it.
+
+This time when I use the Skill, I feel a strong resistance. I pull the skill harder, and I feel something like a light mental snap and the octodude appears in front of me. I feel a bit lightheaded, but not as bad as the last time. However, this octodude is ready for me, and as soon as he appears, he lashes out with his tentacles. Unfortunately for him, he’s still ten meters in the air, and I am more agile, so I just jump back and he falls to the ground.
+
+From there, the fight is simple. To kill him I need to use Blink 3 times. I thought I would only need 1, but he reacts really quickly to my Blinks. Suspiciously quickly, actually. At one point, I thought I had him dead to rights when I teleported behind him, but as though he could see me, he dodged to the side, making my Slice only cut through his shoulder instead of his head.
+
+Because of this, by the time I finish him off, the others have arrived too, and I barely have time to put the dead one into my Stomach before I have to run away. My head hurts pretty bad, but not as bad as it did last time, and it lessens with every step. I think it’s all that extra mana I have in my stomach being digested and replenishing my reserves. Though come to think of it, why does overusing mana hurt my head when it’s stored near my stomach. Very strange.
+
+Either way, I get away safely yet again, even when I stop to taunt them. When I get out of their range again, I stop and prepare to sit down and eat some more mana, but then I hear something strange. It sounds like the octodudes have given up on stealth. I stand back up, waiting for them to get closer to me, but they’re not moving toward me. After a few seconds, I realize that they’re heading back to the shore on the side of the mainland.
+
+I try to chase after them, but I only make it there in time to see the last one disappearing into the water.
+
+“Mraw!”
+
+Get back here, you delicious bastards!
+
+They do not come back. There go my plans of infinite octopus. I still have two of them, at least. That should last me a while. Still, I wish I could have hunted the rest of them. Too bad I can’t go after them in the water.
+
+[ … ]
+
+Shut up, Abbstract.
+
+[ I didn’t say anything ]
+
+You sent an Annoying Blue Box with dot dot dot in it. That counts as saying something.
+
+Anyway, food aside, I actually have something very serious to worry about now. And no, Abbrupt, it’s not food this time. Surprising, I know. But watch, I can be serious sometimes.
+
+The octodudes were clearly after me. The eelmen were probably also after me, and they came after me because I killed the fishmen. Each time, they’ve gotten stronger. And now that the octodudes are gone, the next thing is probably going to be even stronger, right? Maybe the Named monster will even come himself! That would be bad.
+
+[ I’m impressed. Those are serious concerns. ]
+
+Of course they are. As much as it pains me to admit, even my great self is not strong enough to defeat the fishman. Not even after leveling up– hold on, let me check– two more times in my Species and three in my Class. Especially not if he brings more octodudes to help him. I need a plan…
+
+Hmmmm…
+
+Ah! I’ve got it!
+
+Abby, give me a plan.
+
+[ Why don’t you just wait for your divine luck to drop a solution in your lap? ]
+
+You think that’ll work?
+
+[ Of course- ]
+
+[ Avatar Quest: Raise your Class to Tier 1 ]
+
+[ Reward: Teleport to the mainland ]
+
+Wow, Abby, you’re really smart!

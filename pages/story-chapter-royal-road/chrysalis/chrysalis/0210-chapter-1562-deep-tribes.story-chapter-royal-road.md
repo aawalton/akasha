@@ -1,0 +1,75 @@
+---
+id: f6e8ee28-fa8f-5cce-ac8a-041894dc4d05
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1562 - Deep Tribes"
+slug: 0210-chapter-1562-deep-tribes
+partOf: chrysalis
+position: 210
+ownLength: 985
+unit: words
+ownProgress: 985
+publishedAt: 2025-04-30
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2242256/chapter-1562-deep-tribes"
+royalRoadId: "2242256"
+markedReadAt: "2026-06-29T19:50:32.136Z"
+---
+
+Desperate to catch onto something, anything, Zluth flailed wildly, trying to use his arms or foot to grab the walls, except that every time he managed to grab something, it was coated in extremely viscous slime and he couldn’t hold on. He plummeted dozens of metres, mind spinning, before he found himself wrapped up in something soft and sticky.
+
+A web?!
+
+There weren’t many creatures in the fifth who used webbing in their traps, and all of them were dreadful monsters to fall prey to. What could it be? A Trap-fall Matriarch Spider? A Mucus Widow? The dreaded Big Boy Funnel web?
+
+Not wanting to hang around and find out, Zluth began summoning the acid within himself. He would have to burn the webs away using magic, then hope he could escape before the monster came to check. It was a risky strategy, and also the only one available. If he stayed in the webs for even a few minutes, they’d infect him with their paralytic toxin.
+
+“No need for that,” a burbling voice spoke from somewhere above him. “Don’t get too excited, or we might have to feed you to our little pet here.”
+
+Zluth froze in place, not wanting to antagonise this Krath. Slowly, he extended an eye stalk and swivelled it to look behind himself. The drop tunnel was almost perfectly sheer, the walls carefully coated to prevent grabbing, all leading to a thick layer of webbing covering the gap. Above him, looking down with a vicious leer, was a large, sleek Krath male. More intimidating than that was the eight-legged monstrosity standing over the slug. Recognising the colour pattern on his carapace, Zluth shuddered.
+
+“Oh? You know what monster this is?” the Krath grinned.
+
+“Soul-Drinker Orb Weaver,” Zluth replied. “I’m a scout, sent from the Bulg with a message for the Zissth tribe.”
+
+“I don’t recognise you as a Bulg. You aren’t using their skin pattern, and you’ve never run a message down here before. My spider has a particular fondness for liars.”
+
+The monsters leaned forward, iridescent venom dripping from its fangs and a hungry gleam in its eyes.
+
+“No lies!” Zluth said, trying to stifle his panic. “I am Zluth, Krath’lath of the Slee, from far above. I delivered the message to the Bulg, then volunteered to come here when Ulliz couldn’t find a scout willing to deliver during the wave.”
+
+“Volunteered?” the Krath muttered, as if tasting the unfamiliar word in his mouth. “What sort of slug would volunteer to throw their life away in the Dungeon?”
+
+“One who has seen a vision of the Maker,” Zluth replied softly.
+
+“Maker of Mucus!” the slug exclaimed, slime and goop flying from his mouth. “That claim could land you in worse mouths than my spider here.”
+
+“I know,” Zluth burbled, trying not to move and get himself further tangled. “Theorazzn has given us tasks. Are you going to prevent me from passing them to your Krath’lath?”
+
+The Krath shook his head.
+
+“I won’t, but I warn you, even if you tell the truth you likely won’t make it out alive. There’s a reason the Bulg don’t like coming here.”
+
+This wasn’t something Zluth wanted to hear, especially now that there was nothing he could do about it.
+
+“I have a habit of not dying,” he replied.
+
+“I can see that. Let’s get you out of there.”
+
+Zluth expected the slug to cut him loose of the web, or dissolve the strands somehow, but apparently that wasn’t how he operated. Despite protesting, cursing and spitting, Zluth found himself unceremoniously turned end over end, wrapping him in webs until he couldn’t move, then picked up in the spider's jaws. Only after the trap had been remade did the Krath take him anywhere.
+
+As it turned out, they were still a fair distance from the Slimeground of the Zissth. He tried to track their route through a series of winding tunnels, shadowed passages and mind-bending loops, but had to give up. Even his experience and Skills as a scout weren’t enough to memorise the path. Which was entirely the point, of course. The Zissth didn’t want anyone to know their home, even those they had caught in traps.
+
+It was a level of paranoia and caution that Zluth wholeheartedly supported, even if it lowered his chances of survival.
+
+When they finally emerged from the tunnel, Zluth found himself staring out into the largest open space he had ever seen in the fifth stratum. An absurdly large cavern, yawning wide before him, possibly a dozen kilometres across. He stared wildly into open space, unsure how or why such a cavern would exist. A moment later, he realised something else. The sound of the heart, an endlessly deep rhythm that rippled through the air and stone, so ubiquitous that he had started to not notice it, had changed.
+
+The tone, the timbre of it, was different. At first, he couldn’t understand what had changed, then he realised that the walls of this vast open space, were moving.
+
+He was inside the heart! Then realisation hit him. The Zissth didn’t live near the heart! Their Slimeground was here.
+
+“I’ll show you something nice,” his Krath captor said, and Zluth felt himself be tilted downward by the spider still holding him in its jaws.
+
+It took him a moment, but he soon realised what he was looking at. Down, at the very bottom reaches of the beating heart, he could see a vile slime pooling that was so lurid, so potent, even looking at it was enough to cause his eyes to sizzle with corruption. With a cry of pain, he retracted them into his body, scarcely believing what he had seen.
+
+“Was… was that?” he started, still reeling from the sting.
+
+“The touch of Theorazzn and source of his blessing,” the slug nodded, then grinned a savage grin. “This is why visitors don’t get to leave.”

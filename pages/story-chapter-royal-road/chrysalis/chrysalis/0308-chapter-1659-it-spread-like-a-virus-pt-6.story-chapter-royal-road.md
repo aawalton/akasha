@@ -1,0 +1,113 @@
+---
+id: a2e343be-2e3e-5d84-aaa2-11c85ee4a7ea
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1659 - It Spread Like a Virus pt 6"
+slug: 0308-chapter-1659-it-spread-like-a-virus-pt-6
+partOf: chrysalis
+position: 308
+ownLength: 1032
+unit: words
+ownProgress: 1032
+publishedAt: 2025-10-03
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2647263/chapter-1659-it-spread-like-a-virus-pt-6"
+royalRoadId: "2647263"
+markedReadAt: "2026-06-29T19:53:39.843Z"
+---
+
+Zothoth who Feasts on Sanity is barely understood even by the Cult of Asylum, who worship them. More accurately known as ‘the Cult of the Shattered Mind’, since those who dream of Zothoth are usually unable to communicate what they saw upon waking. Or communicate anything at all, truth be told.
+
+There are few legends of the Ancient, as they are known as a mind eater, a creature who consumes the very thoughts and consciousness of any who looks upon them.
+
+A single entry in a recovered journal from the Rending makes reference to ‘the plains of lost remembrance’, where millions of broken, insane people wandered, gibbering and screaming. The cults believe this is where Zothoth reached the surface, and ate as they had never eaten before.
+
+-           Excerpt from ‘Collective Wisdom of the Cults’ by Granin Lazus
+
+Satrap Umizan rested in his underwater palace, well pleased with the report in front of him. With one hand resting on his belly, he let the other play down the page once more, indulging himself in the glorious numbers that filled the neat and orderly columns.
+
+“Profits, wonderful profits,” he purred.
+
+Business with the Colony had been necessary to prevent the collapse of the commodities trade in the fourth, and he would have invested in this enterprise even if, Dungeon forbid, the Consortium had to trade at a loss. However, seeing such delicious, juicy profits filled him with a particular sense of glee. The margins weren’t amazing, the blasted negotiator for the ants had made sure of that, but the volume more than made up for it.
+
+“The trade mission was an enormous success,” he grinned broadly.
+
+His wife, reclining by his side, allowed herself a self-indulgent smile.
+
+“Of course it was, my dear husband, did you think it could be anything less with me at the helm?”
+
+In truth, he had been very concerned. Not because of his dear wife Eran, of course, but because of the ants. It had been a huge risk to expose them in the way they had, but somehow the alien, insect monsters had managed to endear themselves to many residents of the fourth stratum.
+
+Yes, many deals had been struck, and now an absurd volume of trade items poured out of the Colony every day, landing straight into the hands of the Brathian Island Conglomerate, who were only too happy to take them to market.
+
+“We are swimming in rich waters now, my wife,” Umizan chuckled, extremely pleased with the outcome. “We may need to discuss our investment portfolio. There must be something we can do with all of this wealth.”
+
+Of course, he already had a few ideas. There were some lakes he would gladly pay for mining rights of, although scaling up the ship building capacity of the group would be a wise move. They were having to hire shipping for the absurd quantity of items they were moving, and the rates were usurious.
+
+Just as the Satrap and his wife began the most pleasurable indulgence of husband and wife, discussing finances, there was a most rude knocking at the door of his study.
+
+Umizan froze, hoping whoever it was would give up and go away. Etran frowned at him, but he shook his head stubbornly.
+
+There were investments to discuss! Investments!
+
+However, the person at the door, blast their fins to rot and scales to peel, continued to insistently knock. Eventually Umizan was forced to give up and call out.
+
+“Who’s there?” he demanded, irritably.
+
+“Your brother, Marzban, can I come in?”
+
+“Is it important?”
+
+“Would I be here knocking if it wasn’t?”
+
+Grumbling to himself about uppity relatives, even if they were the head of his security, Umizan gestured for the ever-present guard to open the door. He scowled as his brother swam into the room.
+
+“This had better be good,” he snapped.
+
+Marzban’s brows rose, but he showed no other reaction to his sibling’s poor mood.
+
+“There’s a public disturbance outside the palace. I thought you may be interested to see it for yourself.”
+
+“A public disturbance?” Umizan muttered.
+
+His mind raced. Were people unhappy with his leadership? Had he not brought them great opportunity, wealth and prosperity? Had public sanitation run out of money? The meticulous ledgers in his head clicked and clacked as he rapidly sorted through them all. Unemployment was very low, public sanitation was generously funded, and the salary packages he provided to the members of the Conglomerate were well above market rate.
+
+He was fine.
+
+So what were they unhappy with?
+
+“Can’t you just tell me what’s going on?” he asked.
+
+Marzban shook his head.
+
+“I honestly don’t think so. You need to come and see.”
+
+Almost despite himself, Umizan found himself intrigued. Deciding that the discussion regarding the newfound wealth of the Conglomerate could indeed wait, he offered his hand to his wife, who took it gracefully, and swam out of his palace, honour guard in tow.
+
+“They’ve been at it for hours,” Marzban said, shaking his head. “I’ve never seen anything like it.”
+
+“Like what?”
+
+“You’ll see.”
+
+He heard the disturbance before he saw it. Vibrations and ripples in the water from a large, very animated crowd.
+
+Shouldn’t these people be working?
+
+He swam higher and finally got a glimpse of what all the fuss was about.
+
+A pit had been dug into the sea bed, and what appeared to be two teams of brathians were flinging water at each other in what appeared to be a brutal struggle without a point. He spotted the ball after a moment when an enterprising soldier thrust forward his palm, sending a needle-thin jet of water that curled around and shattered the ball, causing the watching crowd to erupt into cheers and shouting.
+
+And the crowd… there had to be a thousand of them.
+
+“They’ve been playing this… game for hours now,” Marzban huffed, folding his arms across his chest. “And the crowd has only been getting larger. They learned it from the ants, apparently.”
+
+Umizan looked down at them, seeing it all. The players, the crowd, the enthusiasm, the joy and camaraderie.
+
+“Do you smell that?” Umizan said.
+
+Marzban frowned, sniffing.
+
+“Smell what?”
+
+Umizan grinned broadly.
+
+“Money.”

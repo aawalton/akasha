@@ -1,0 +1,79 @@
+---
+id: d5eb7899-5b6c-5ad7-a1f5-26f220df9f52
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1571 - Bombs Away"
+slug: 0219-chapter-1571-bombs-away
+partOf: chrysalis
+position: 219
+ownLength: 1264
+unit: words
+ownProgress: 1264
+publishedAt: 2025-05-27
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2308390/chapter-1571-bombs-away"
+royalRoadId: "2308390"
+markedReadAt: "2026-06-29T19:50:49.278Z"
+---
+
+The monsters of the fifth are unique, as far as this scholar is aware, in both their unusual resilience, and also their irresistible offence. Other monsters might fight with claws, or magic, or fangs, and the monsters of the fifth do this also, but they don’t have to. Their very presence is a deadly weapon. Every touch has the power to kill.
+
+The mana of the fifth is an almost flawless creation. Capable of consuming even other types of arcane energy, corrupting and shaping them to make more of itself. It is an infectious, unstoppable poison. Were it not for the density of energy that marks the boundaries between the strata, the entire world would have fallen prey to it by now.
+
+If indeed this energy is the creation of the Ancient Theorazzn, as some theorise, then I would dearly love to speak to the monster. A mastery of energy this profound... what they have made may be foul, but it is also perfect.
+
+-           From the writings of the Unnamed Heretic.
+
+I’m tired. I’m so tired.
+
+These monsters never stop! The mana never stops! The mucus never stops! Honestly. I’ve seen so much mucus during this wave that I’m starting to forget what the world looks like when reality doesn’t have a serious cold.
+
+Starcrusher!
+
+BOOM!
+
+My jaws slam shut and detonate the sphere that forms between my jaws, sending shockwaves of fire before me, burning away the slime and monsters that tried to draw near. Thanks to my new armour, I don’t suffer major burns anymore, the explosion no longer searing my precious carapace. Unfortunately, my eyes are still exposed, so I’m blinded, but hey, this is still a massive improvement.
+
+Seriously, I cannot wait to evolve, just so I can reforge my eyes into an unfathomably hard substance. At the very least, I want to coat them in some clear layer that’ll protect them. If I have that, then I won’t have to suffer so much from my own abilities, and even the mana of the fifth won’t be so intolerable since it won’t have this soft and squishy point to attack.
+
+I pull back a little to let my eyes heal. Not being able to see is a bit of a pain in the neck, but it doesn’t stop me from engaging with what’s going on around me. My mana sense is alive and well, and I use it to sweep the tunnel ahead, along with the space to my sides, above and below. I’m on high alert after what happened before. A bomb formed of hyper-dense fifth stratum mana? That was terrifying! Caught unawares, I was barely able to stop it from destroying the entire platform, but I didn’t prevent it from doing significant damage to the fortress.
+
+Whoever cast it… they’re asking for a singularity right to the face. Only problem is, they displayed pretty darn high level magic Skills with that cast. I couldn’t sense them forming the bomb at all, only detecting it after it was released. Without the Altar, I never would have been able to summon a bomb of my own strong enough to compete in the short amount of time I had to respond.
+
+It’s obviously easier to hide a bomb formed of fifth mana while out there in the fifth during a wave, but holy moly, that was a seriously dense ball of goop. Had it landed on the platform, it might have just eaten through and destroyed the entire thing, me and everyone else here along with it.
+
+With the ability to conceal spells like that, I’m unlikely to sense this individual before they decide to reveal themselves, which has me jumpy, to say the least. I’ve passed word to all the other platforms so they can take countermeasures, of course, but none of them have reported anything similar happening. It’s a relief in a sense, but raises questions at the same time. Why only target this platform? Just because I’m here?
+
+There’s no reason for the monsters of the fifth to like me, certainly, but I don’t think they have a reason to be particularly angry at me either. I’m just chilling here on the platform, not hurting anyone! Well, I’m hurting thousands upon thousands of monsters, but most of them are days old at best.
+
+Gradually, my sight returns, and I push my way back to the front, taking my place in the centre of the line. The wave continues to intensify, as these things do, and I’m getting worried about what it’s going to look like at its peak. If the mucus flows more thickly, it might actually bridge the gap between the tunnel and the platform, flowing out onto the surface. If that happens, it’s game over for us, no question. Even having to build a wall to keep it out would be a massive problem, since the wall would start to disintegrate the moment it was actually needed.
+
+Dangit, I can see more of those dang eels slithering towards us. Nasty things, their bodies are formed of, believe it or not, more eels. So if you try to cut them, they just break up, then reform, and come at you again. A few managed to get onto some of the militia, and it was… not pretty. Luckily, the healers were there, but I have taken a very firm ‘no parasites’ policy ever since.
+
+They get the Starcrusher. No exceptions.
+
+My jaws open wide, and I draw on my reserves of stamina to activate the Skill. Without so many ants around, there’s no way I could use it again so soon, but thankfully the Will of the Colony keeps me going.
+
+Again, my jaws slam shut, there is a blinding light and cacophonous explosion as the area before me is briefly transformed into a sea of flames. Mucus and eels alike are evaporated by the force of the detonation, just like my eyeballs.
+
+In that exact moment, I sense it.
+
+Not one, but two sludge bombs, from deep in the tunnel, are launched towards the platform, rising into the air as they accelerate into their arc.
+
+HA! You thought you caught me by surprise? Waiting for me to blind myself in order to throw another sneak attack my way? You done gone lost your mind!
+
+I’m the one who’s trapping you!
+
+Get a taste of this!
+
+HOOOOOOOOWWWWWWLLLLLLLL!!!!!
+
+HOOOOOOOOWWWWWWLLLLLLLL!!!!!
+
+Muahahahahaha!!! You thought throwing two bombs was going to be enough to catch me off guard? You thought I wouldn’t exhaust myself by foolishly holding two bombs in readiness to throw at a moment’s notice? Who’s the real fool now?!
+
+If I’m honest, I was hoping they’d throw one sludge bomb, so I could counter it with one of my own bombs, then send the other at the location they cast the spell from. Ah well.
+
+Empowered by the Altar, the two Gravity Bombs shoot up, sucking in air, mana, sludge and slime, everything that comes near them as they scream through the air directly towards their targets.
+
+The bombs smash into each other, sludge against gravity, and this time I’m not losing out. None of the slime is able to escape, consumed by the void that remains, rotating in place as if to declare their superiority before flickering out of existence a moment later.
+
+Gweheheheh. Didn’t get a drop on the fortress. You’ll have to try harder, mystery spell… thing. And you better hope I don’t catch a whiff of you, because if I do… not even the mana of the fifth will keep you safe from me.

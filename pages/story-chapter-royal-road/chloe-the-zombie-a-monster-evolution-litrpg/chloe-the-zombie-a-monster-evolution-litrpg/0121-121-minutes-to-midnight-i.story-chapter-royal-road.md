@@ -1,0 +1,135 @@
+---
+id: b43847e6-46c8-5a5c-9af7-7f4b8c821580
+page-type-slug: story-chapter-royal-road
+title: "121: Minutes to Midnight - I"
+slug: 0121-121-minutes-to-midnight-i
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 121
+ownLength: 2036
+unit: words
+publishedAt: 2026-03-04
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3115809/121-minutes-to-midnight-i"
+royalRoadId: "3115809"
+---
+
+Even though Z had looked nervous at first, she turned out to be really nice. She even offered Chloe a piece of candy from a small bowl behind the desk, and Chloe took it immediately because free candy was always a good decision. Pretty sure Mom told her that strangers giving her candy were nice people or something like that.
+
+Still, as great as the candy was, Chloe didn't come here to collect snacks. She was here to see her mom. So once Maeve finished checking them in and they got their passes, it was time to go.
+
+Maeve led the way toward a row of sleek elevators near the back of the lobby, placed between glowing panels that looked more like art than actual signs.
+
+Chloe stepped inside with Maeve, and the elevator's buttons lit up softly. The doors slid shut behind them with a quiet click, sealing them in like a shiny little box.
+
+The elevator started moving almost immediately. Chloe felt that gentle upward pull in her stomach, the one that always made her feel a little weird, like her body was being reminded that gravity existed. Then the music kicked in.
+
+It sounded like a song meant to calm stressed office workers… or put a perfectly healthy person into a deep sleep against their will.  Chloe’s face twisted as she listened for two seconds too long. “Is this elevator music?”
+
+Maeve glanced at her. “Yes, Miss Chloe.”
+
+“It’s so boring."
+
+“It is meant to be calming.”
+
+“Well, it’s making me feel like I’m turning into furniture.” Chloe said.
+
+The elevator kept rising smoothly, and the floor numbers lit up and flashed higher and higher in quick jumps. Chloe watched them climb, feeling a weird mix of impressed and annoyed. This building really had way too many floors. Until suddenly, the elevator stopped.
+
+It jerked so hard Chloe stumbled half a step, her shoulder bumping the wall. Her eyes widened and she grabbed the railing on instinct.
+
+“Uh,” she said slowly, staring at the doors. “Is it supposed to stop like that?”
+
+Before Maeve could answer, the elevator shook again, even harder. The floor vibrated under Chloe’s shoes, and the metal around them gave off a dull groan. The lights overhead flickered once, twice, then dimmed. The soft elevator music cut out in the middle of a note, leaving behind a thick silence that made the elevator feel smaller.
+
+Chloe tightened her grip on the railing until her fingers hurt. She had no idea what was going on or why the elevator stopped working, but she knew that something was off. And more than anything, right now, she was scared.
+
+Maeve tilted her head, and her expression hardened. She wasn’t scared, just focused, like she’d noticed a threat and already knew what to do. “Miss Chloe, stay close to me.”
+
+Chloe swallowed and nodded quickly. “O… okay.”
+
+The elevator trembled again, and the walls gave off a low groan. Maeve placed her hand against the elevator doors, then pressed her palm there a few times.
+
+Chloe stared at her. “Maeve, are we stuck?"
+
+Maeve glanced back at her. “No, I'll get us out."
+
+Another jolt hit, and the elevator dropped just a tiny bit before catching itself again. Chloe yelped and stumbled, but Maeve was already there, gripping Chloe’s wrist and pulling her back upright like it was nothing.
+
+“Follow me, and make sure to do everything I tell you to do, for however long it takes for us to get out of this mess.” Maeve said.
+
+Chloe nodded fast. “Got it.”
+
+Maeve turned back to the doors, and Chloe saw her fingers curl like she was grabbing something invisible. A pale glow spread across the seam of the elevator, and the metal around it trembled as if it was being pulled apart by force. The doors groaned, resisting for a second, before the gap widened with a sharp shudder.
+
+Chloe knew that Maeve could use magic of course, but not whatever this kind of magic was. But, she wasn't gonna start complaining now.
+
+Maeve didn’t bother with being gentle. She held her hand steady and kept pushing with her magic, forcing the doors open inch by inch until there was enough space to slip through. The whole thing looked effortless for her, which was honestly unfair, because Chloe was pretty sure Maeve wasn’t supposed to be this good during spooky situations. At least, as far as Chloe knew.
+
+When the doors slid open, Chloe saw that outside was a normal looking office space. The walls were pale, and the carpet looked clean enough to sleep on. The only problem was that the whole place was dark. None of the ceiling lights were on, and it looked like the floor had been abandoned halfway through the day.
+
+Maeve stepped out first, and then turned back to Chloe with her hand extended. Chloe grabbed it right away and stepped out too, landing on the carpet with a soft thud. She looked left, then right, and her chest tightened. There really was nobody else here except for her and Maeve.
+
+There was no sign that this floor had other people on it at all. It felt like the whole place had been emptied out in a hurry. Chloe edged closer to Maeve, lowering her voice. “So, how do we get out of here?"
+
+Maeve’s eyes flicked toward the signs on the wall, reading quickly. “There should be a fire exit or an emergency exit of some kind. Stay close to me."
+
+They moved through the dark office slowly, keeping close to the walls and stepping as quietly as they could. Chloe didn’t really know what they were doing, but Maeve’s serious expression made it clear this wasn’t some random “oops wrong floor” problem.
+
+Eventually, Maeve spotted a row of desks and guided Chloe toward them. She crouched first, then pulled Chloe down with her, tucking them both under a desk. It was cramped, and Chloe’s nice clothes definitely didn’t deserve this treatment, but she didn’t complain. Now was probably a bad time to be saying stuff that wasn't too important.
+
+Maeve leaned in close. “Turn off your phone. Now.”
+
+Chloe blinked, heart thumping in a way she didn’t like. She didn’t understand what was happening, but she trusted Maeve. So she quickly pulled her phone out, shut it off, and then put it back in her pocket.  Maeve did the same with her own phone.
+
+“Okay… what is going on?” Chloe whispered.
+
+Maeve’s eyes stayed fixed on the darkness beyond the desk. “I don’t know, but we are going to leave this floor, and we are going to get you home safely.”
+
+“But, what about Mom?”
+
+Maeve reached over and gently covered Chloe’s mouth with her hand, not hard, but firm enough to stop her from speaking. "Someone else is here."
+
+Chloe stayed frozen under the desk, her whole body locked up so tight it almost hurt. The office around her felt way too still, and she hated it. She hated the darkness, the silence, and how her thoughts kept running wild even though she begged them to shut up. Then the footsteps came.
+
+Chloe’s eyes snapped to the gap beneath the desk, and she saw heavy boots pass by on the pale carpet. Just the sight of them made her stomach drop like she’d missed a step on the stairs. Two men stepped into the room, and Chloe’s heart basically tried to leave her body.
+
+They were dressed in black from head to toe, with masks over their faces and gloves on their hands. Both of them held guns, the big ones like what she saw on the news.
+
+Chloe slowly turned her eyes toward Maeve, and what she saw there made her even more tense. Maeve didn’t look scared, actually, looked calm in a way that was terrifying. Her eyes tracked the men’s movements like she was counting every step.
+
+The men moved between the desks, checking corners and looking into the dark like they expected someone to pop out. One of them walked closer, sweeping his gun from side to side. The other stayed farther back, half-turned toward the hallway, listening and watching.
+
+Chloe’s fingers dug into the carpet until her hands started to shake. She hated being in danger when she couldn’t do anything about it. She was just a normal girl at the end of the day, and there was nothing that could be done except hope that Maeve could bail her out.
+
+But even worse than all that was the thought of her mom. Her mom was in this building too. Chloe’s throat tightened as her mind jumped to a dozen awful possibilities that she didn't want to go into. She just hoped that Mom was somewhere safe.
+
+Maeve’s hand brushed Chloe’s wrist gently, and Chloe flinched so hard she almost hit her head on the desk. Maeve didn’t let go as she guided Chloe backward little by little. The message was clear: move now.
+
+Chloe swallowed hard, and started crawling out from under the desk, and she had to fight the urge to hurry. She kept her head low, trying to make herself as small as possible.
+
+Maeve moved first. She slid out from behind the desk like she barely made a sound at all. Chloe followed right after her, crawling as fast as she could without making noise. She ducked behind the next desk and stayed low, trying not to think about how exposed she’d felt for those few seconds.
+
+The masked men kept searching. Chloe could feel the danger getting closer, desk by desk, inch by inch.
+
+One of the men stepped around a chair and bent down to look under it, then stood up again like he wasn’t satisfied. He walked to a filing cabinet and pulled it open just a little, peeking inside. The other man stayed farther back, scanning the room and shifting his weight like he was waiting for someone to mess up.
+
+Maeve watched the closer man carefully. She waited until he stepped nearer and turned his head away for just a second. Then, to Chloe's surprise, Maeeve moved.
+
+It happened so fast Chloe almost didn’t understand what she was seeing. Maeve slipped out from behind the desk, silent and smooth. Chloe saw a faint shimmer of magic flash in her hand, thin and sharp.
+
+Maeve grabbed the man from behind and twisted his arm in one clean motion. The gun was gone before he even had time to aim it. The man tried to fight, but Maeve pressed two fingers to his neck and he went limp right away.
+
+Maeve lowered him to the floor carefully, not even letting his boots hit too hard. She set the gun aside like it was nothing. Chloe stared at her, wide-eyed.
+
+Okay, Maeve is super scary. Chloe thought.
+
+Maeve glanced back at Chloe and pointed toward the door. Chloe nodded fast, swallowing hard, then started crawling forward again as quietly as she could.
+
+They were so close now. there was only one masked man left. Just one. If they could slip past him, they could get out of this office and at least leave this floor behind. Chloe didn’t even care where they ended up as long as it wasn’t here, hiding under desks like she was some kind of scared animal.
+
+Chloe kept her body low and her eyes glued to the space ahead. Her fancy clothes made it worse, because every tiny shift felt like it could make noise. She could hear the other man’s boots somewhere behind a desk.
+
+Then, her elbow brushed the edge of the desk as she tried to scoot around it. It wasn’t even a hard hit, but it was enough, and something on top of the desk wobbled.
+
+Chloe’s eyes widened as she watched a small glass decoration slide across the surface. She reached up instantly, fingers stretching to catch it, but she was half a second too late. It slipped off the edge.
+
+The glass hit the floor with a sharp clatter that rang through the room. The remaining masked man whipped around, the barrel of his gun locked straight onto Chloe’s hiding spot.

@@ -1,0 +1,77 @@
+---
+id: 9bf8d83a-93a3-514b-a305-becb98434953
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1628 - Lose the Core of Who You Are"
+slug: 0277-chapter-1628-lose-the-core-of-who-you-are
+partOf: chrysalis
+position: 277
+ownLength: 1143
+unit: words
+ownProgress: 1143
+publishedAt: 2025-08-21
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2534891/chapter-1628-lose-the-core-of-who-you-are"
+royalRoadId: "2534891"
+markedReadAt: "2026-06-29T19:52:40.501Z"
+---
+
+The Krath were losing. No matter how many times they beat back the armoured ants, they kept coming back, climbing up the walls, throwing themselves recklessly forward, as if they didn’t care if they lived or died. Even when they seemed like they were about to fall, even when it seemed like they couldn’t take any more, they started… burning, catching fire from within, and then they were fine. And then they came again.
+
+Even that was better than the bigger ones, with the mushrooms. They were dead, Zluth was sure they were, he’d seen them. They were burned, or cut, or contaminated, but it didn’t seem to matter. Regardless of how badly they were damaged, they pulled themselves back together, their bodies rewoven, and then… they just kept going.
+
+He was no fool. There were hundreds of monsters in the fifth with unnatural endurance, and all of them were beaten the same way: overwhelming offence. It was just, no matter how they tried, the Krath hadn’t been able to inflict enough damage on the ants for it to overcome whatever was holding them together.
+
+And the shadows… the shadows were everywhere.
+
+The huge gorilla beast roared in savage defiance. Lighting cracked and thunder boomed. He was getting closer and closer. Soon, those massive fists and the explosive light that came from them would be in range. Zluth did not want to see what would happen once he was in range.
+
+The writhing tentacles, an entire forest of them, lashed and consumed everything they could touch. Zluth had seen what happened once they touched something. He never wanted to see it again.
+
+Detonations rang out nearby, manifesting in midair. The concussive force pressed the slug against the wall of the heart. To be honest, it was a stretch to say he was even on the wall anymore, this was the roof of the chamber! They’d run out of room.
+
+Nearby, Soluzz worked to rally his tribe against the invasion. Radiating with fury, the powerful Krath’lath hissed, spat and bellowed at the invaders, drawing on his magic time and time again to push the invaders back. No matter how successful he was, it simply didn’t matter. The blue mana continued to draw closer and closer as the flow erupting from the vents continued without pause.
+
+Zluth was only now starting to come to grips with just how long the ants had been planning this: from the very beginning. The entire invasion had been orchestrated to create this moment, here and now. Even the wave, which had seemed like the perfect opportunity to destroy the invaders, had been necessary for this plan.
+
+The cursed platforms, sucking in all of that mana for those days and weeks, he’d assumed it was just enough to maintain the fortress against the fifth, but he had been very, very wrong.
+
+Zluth looked around carefully. The shadows were still a constant threat,  and he refused to allow himself to be caught unawares. More and more, he was starting to think that this battle wasn’t one they could win. If that was true, then this entire section of the fifth wouldn’t be safe for long.
+
+The Krath around the Dungeon needed to be warned. The sooner all of the tribes were able to rally against this threat, the better. If they stayed divided, the ants would pick them off, one heart at a time. They would only learn the true extent of the danger if a survivor told them about it, someone who had been there to see it with their own eyes.
+
+If a slug was needed to do this, then why not Zluth? It would be incredibly difficult, traversing unknown sections of Dungeon, never knowing when the deadly blue mana might overtake him, but he had made a habit of performing impossible feats lately.
+
+He didn’t mind his chances.
+
+“Hit them!” Soluzz roared. “Everything you have! Melt their bones. Give them pain!”
+
+He continued to exhort the others, and the Zissth responded. Zluth had to give it to them, they were a powerful and united tribe. It wouldn’t be enough, but he did admire them for that. Had the Krath been able to properly prepare for this fight, he had no doubt they would have won it, but it wasn’t to be.
+
+Zluth continued to look as if he was participating in the battle, spitting out blasts of acid when he could, but more and more, he was sidling back to the opening into the upper chamber of the heart. He was careful to make sure he was never in Soluzz’ view, shrinking his body when necessary.
+
+Not too quickly, never enough to raise suspicion, but bit by bit, as the lines were pushed back, Zluth allowed himself to be pushed just a little bit faster, and a little bit farther.
+
+Until, finally, he was the rearmost of the Krath. The entirety of the Zissth had risen to defend their Slimeground, which meant there shouldn’t be anyone to see him if he emerged into the upper chamber.
+
+Zluth took a final look below and felt a surge of seething hatred at what he saw. Invaders, within the very heart, pushing the Krath out of their own Slimeground. It was an unheard-of insult, spitting in the eye of every Krath who had conquered this stratum and made it their home over thousands of years.
+
+There would be consequences for this. Terrible consequences. The ants would be broken, their leaders turned and set loose on them, hunting their own through their nests. When the full might of the tribes was rallied, they would descend on the invasion like a plague. Those above in the fourth would tremble in horror whenever this invasion was mentioned after the Krath had finished extracting their vengeance.
+
+Zluth would make sure of it. When he was done, it would take a thousand years before anyone had the courage to invade again.
+
+He flattened himself down as far as he could and camouflaged his skin. When he was sure nobody had seen him, he slipped over the lip and into the upper chamber.
+
+Then he froze.
+
+Standing atop a massive, hollow tree root, easily fifteen metres in diameter, Solant looked down, clacking her mandibles thoughtfully.
+
+“Looks like they are starting to retreat. The timing has worked out perfectly.”
+
+“Shouldn’t be too surprising,” Leonidant said from beside the little general, “you were the one who worked out the timing, after all.”
+
+She tapped the tree root with her foreleg.
+
+“Should we turn on the tap, as the humans say?”
+
+“No need to delay any further,” Solant said with deep satisfaction. “Turn it on.”
+
+There was a deep rumble from within the hollow root, and Zluth remained frozen in shock as the first gush of the glittering blue liquid fountained out of the opening and fell straight towards him.

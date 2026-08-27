@@ -1,0 +1,127 @@
+---
+id: 84504125-7874-5ed8-89cd-98824fe2139e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1649 - Solant Surveys"
+slug: 0298-chapter-1649-solant-surveys
+partOf: chrysalis
+position: 298
+ownLength: 1543
+unit: words
+ownProgress: 1543
+publishedAt: 2025-09-19
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2611546/chapter-1649-solant-surveys"
+royalRoadId: "2611546"
+markedReadAt: "2026-06-29T19:53:20.840Z"
+---
+
+The fifth stratum was changing. Tended by the healers, the heart had survived its purification, rotten and slime-covered flesh giving way to healthy red muscle that now pumped stronger than ever. But that wasn’t the only change.
+
+Filled with a deep sense of satisfaction, Solant looked down into the depths of the lower chamber. The whirlpool had finally faded, a sign that perhaps Theorazzn’s contamination was no more, and now fully half of the chamber was filled with placid waters. Except, it wasn’t water, nor anything like it, but pure, liquid mana. Cleansed by the wuffers and condensed via some means only Brilliant understood, the stuff was so concentrated and powerful that even now, it still hadn’t fully dispersed.
+
+It didn’t hurt that the fortress had once again opened the channels, though in a vastly reduced capacity from before. A trickle of liquefied mana continued to flow into the heart, but it wouldn’t be enough to maintain the level of liquid below. With every second that passed, the mana was breaking up and filling the air, a cloud so dense that Solant could almost see it with her own eyes.
+
+Ba-thump! Ba-thump! Ba-thump!
+
+The walls of the heart shuddered around her, contracting and expanding, pumping mana throughout a vast swathe of Dungeon. The vibrations that filled the chamber were so potent they sent the fine hairs on Solant’s antennae quivering, a disorienting and uncomfortable sensation, but one she could tolerate to be here and watch her plan unfold.
+
+Already the change was happening. Scouts had begun to sweep the tunnels surrounding the heart as they filled with pure mana, wiping away the corruption and filth that had infested them for so long. New monsters were starting to spawn, creatures devoid of the toxins and mucus that had pervaded the fifth for so long. This heart, this section of the fifth, had been taken back from the Krath, and from Theorazzn, the first true victory over the corruption in thousands of years.
+
+As the architect of this triumph, Solant allowed herself a few moments to feel pleased, but only a few. They had no idea how many hearts remained, but there would be hundreds, perhaps thousands, if not more, and she had no doubt the slug tribes would unite against them, desperate to push back the invasion and reclaim what they saw as theirs and theirs alone. The challenge would be brutal, but the Colony would overcome, of that, she was certain.
+
+[I never imagined this would be the outcome of your invasion.]
+
+Commander Chyron stepped up beside the ant general, her eyes roaming over the pure red flesh of the heart. Solant clacked her mandibles in amusement.
+
+[You thought we would fail? That the fortress would crumble and all of us die? I find it odd those were your beliefs, seeing as you chose to join us inside the fortress walls.]
+
+[I did think that,] Chryon readily admitted.
+
+[But you had a way out.]
+
+[I always leave a way out for my soldiers. They are too precious to be thrown away.]
+
+[In that,] Solant mused, [you and the Eldest find much common ground. For my part, I knew we would be standing here, looking at this sight, having this conversation.]
+
+[Your foresight extends so far? Is that what you would have me believe?] Chyron asked, cocking one brow.
+
+[I cannot see the future, but I, much like the Legion, understand where wars are won. On the training ground. In the foundries. In the preparation and logistics. I was ready for this conflict, and the Krath were not. The result was always likely to tilt in my favour.]
+
+Chyron nodded thoughtfully, looking down at the little general.
+
+[You’re an interesting ant,] she said finally. [Of all the ants I’ve spoken to, you seem to be the only one with an ego. Does it feel strange to be so different from your siblings? Some might look at you and think you are the wedge that will split your family apart.]
+
+Solant waggled her antennae as she considered the question.
+
+[I am different from the others,] she acknowledged, [but only because that difference is something that the Colony needs. I and the other champions each provide something the others lack, a point of difference, a new perspective. Brilliant, with her endless thirst for knowledge, Vibrant, with her boundless energy and optimism, me, with my bottomless hunger for victory. We push the Colony to act differently, poke holes in an otherwise uniform shape, letting in new ideas and ways of doing.]
+
+[So you know what you are. Champions, unique and special monsters, born with advantages that others don’t enjoy.]
+
+[We all know what we are,] Solant confirmed. [The Eldest was involved in teaching all of us, and they have instilled us with an understanding of our responsibilities.]
+
+[And how did they teach you?]
+
+Solant clacked her mandibles, amused.
+
+[They beat me.]
+
+Chyron glanced down at the general, then nodded. That would indeed be a lesson for the little perfectionist.
+
+[I tried to poison them,] Solant added, casually. [Sadly, my methods were ineffective.]
+
+[You regret not being able to poison your leader?] Chyron asked carefully.
+
+[I regret being unable to win. Slight point of difference.]
+
+This ant truly was an unusual specimen. Chyron could only shake her head.
+
+[And of course, you know that your Eldest is different, but not in the same way you are, am I right? That soul was not born an ant. Not at first, anyway.]
+
+Solant shifted slightly.
+
+[Of course we know. Everyone knows. However, I do disagree with you in one sense. You said that soul was not born as an ant first, and that is true. Anthony was a human. We know this. It is my personal belief, however, that this was simply an error on the part of the universe.]
+
+[The universe?]
+
+[Or the System, or whatever you want to call it. Brilliant has many thoughts on the matter, but I don’t especially care. My point is, that soul was certainly meant to be born an ant first. The order has simply been confused somehow.]
+
+[... I see.]
+
+Chyron stepped forward, right to the edge of the platform they were standing on, and looked down at the pool of liquid mana beneath them, her eyes cold and hard.
+
+[I must be told how you learned to make this,] she said, her tone deadly serious. [Liquid mana is a secret not known to many.]
+
+[Brilliant invented it, by accident, or so I’m told. I can ask her to explain it to you. She will probably even agree. There is little she enjoys more than letting others know how clever she is.]
+
+Solant shifted her legs, warming up her joints as she prepared to depart.
+
+[We didn’t steal it from the Legion, if that's what you’re worried about. Would a Legionary really spill your secrets to us? Despite being no longer human, you cling to your prejudices just as fiercely as any ‘sapient race’.]
+
+Chyron turned and glared at the ant.
+
+[I am human,] she said, a statement as hard as Abyssal Steel.
+
+[You were,] Solant disagreed, calm and logical, as always. [Mana doesn’t move through a human the way it moves through you. In fact, your relationship to mana is much closer to ours than it is to a human's. You need it to survive, don’t you? Just like us. I don’t know how, but you’ve changed yourselves in order to grow stronger, made your bodies more like the things you fight, in order to better destroy them. I wonder…] she said, antennae waving thoughtfully.
+
+[... I wonder if you could have given yourselves a core, but chose not to, because that would be a step too far. It would be impossible to still claim humanity at that point; certainly no one else would see you that way.]
+
+Chyron was silent for a long moment, anger flaring in her eyes. When she spoke, it was with utter finality.
+
+[We have made sacrifices in order to protect what needs to be protected. My flesh has changed, it's no longer what it once was, but my soul remains human.]
+
+She smirked.
+
+[Much like your Eldest’s.]
+
+Solant laughed.
+
+[Falling at the final hurdle. I fear you will grow accustomed to that, in the coming years. You will watch the back of the Colony, as we succeed in every area you dreamed the Legion would. As we conquer everything you hoped you would conquer, and overcome everything you could never overcome.]
+
+She gestured to the heart.
+
+[This is only the beginning. Soon, Pangera will wonder why they ever needed you in the first place. The Colony will be their protector, their soldier, the light against the darkness and the spear that penetrates the deep.]
+
+[And then you turn on them. Dominated by a bigger and stronger monster, you succumb to your base instincts and consume everything you thought you would protect. We have seen all of this before.]
+
+Solant shook her head.
+
+[Again, you almost reach the goal, but fall at the end. You have seen things that resembled us before, but there has never been anything quite like the Colony. In the history of this world, we are unique, and we will be victorious.]

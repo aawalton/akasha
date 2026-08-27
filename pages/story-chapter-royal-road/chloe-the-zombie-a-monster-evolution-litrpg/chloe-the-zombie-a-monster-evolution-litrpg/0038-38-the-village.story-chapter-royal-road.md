@@ -1,0 +1,181 @@
+---
+id: 73b4a5ec-e9b2-5181-a769-b4e78d7b58dc
+page-type-slug: story-chapter-royal-road
+title: "38: The Village"
+slug: 0038-38-the-village
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 38
+ownLength: 2038
+unit: words
+publishedAt: 2025-09-24
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2625456/38-the-village"
+royalRoadId: "2625456"
+---
+
+Chloe moved from tree to tree, crouching low even though there wasn’t really a point. Snow crunched under her boots every time she landed, leaving messy prints that might as well have screamed: hey look, zombie girl here!
+
+The outline of the village was coming into view through the branches. It was bigger than she expected.
+
+Not a city like Kelvane, sure, but there were plenty of roofs poking up. And she saw that there were a good amount of humans walking around.
+
+She crouched behind a tree and peeked out. For a second, she almost felt sneaky. But then she glanced down at herself and frowned.
+
+Cloaky was, of course, black. The trees were dark too, which was fine. But everything else around her was covered in an endless sheet of white snow.
+
+Chloe brushed a few flakes of snow off Cloaky’s edge. Blending in clearly wasn’t happening.
+
+The snow might as well have been shouting her position for all the world to hear. Still, she wasn’t the type to give up just because things weren’t fair. Sneaky zombies kept sneaking.
+
+She shuffled closer to the village, weaving her way around the edge of the forest. The closer she got, the clearer the village became. Walls made from wood and stone circled the houses, they weren't that tall, but probably enough to keep animals out.
+
+But Chloe noticed the village had no guards, not even a single person pretending to defend the place. That settled it, if nobody was keeping watch, then Chloe could finally take a break from being sneaky. Being cool and stealthy was fun and all, but she was getting a bit bored of it.
+
+She stood up, brushed the snow off her cloak, and strutted forward. Chloe half-expected someone to yell at her, maybe try to stab her, but instead the villagers shuffled about like she wasn’t even there.
+
+It was bizarre. Chloe stuck out like a sore thumb, black cloak, sword at her hip, not even close to looking like a “normal villager.”
+
+And yet, everyone walked right past her without a single glance. Some lugged baskets of sad, frozen vegetables, and a few just stared at the snow. Not one of them reacted to her.
+
+Chloe blinked, then gave a cheery little wave at a woman carrying a bucket. “Uh, hi? Nice weather, huh?”
+
+The woman didn’t even look at her. She just stared blankly ahead and said, “The fields are barren this year. The harvest is gone.” Then she kept walking.
+
+Chloe scratched her head and squinted. That was… not what she asked.
+
+Next, she tried to talk to a man carrying some wooden planks. “Hey, buddy, quick question. You know where I can find Ynett?”
+
+The man didn’t even slow down. “The cold has taken too many. We must burn more firewood,” he muttered, before walking away.
+
+Chloe’s eye twitched. “That’s not an answer!”
+
+She stomped her foot, snow puffing up around her. Still, nobody cared.
+
+A little boy dragging a broken toy stopped right in front of her as he mumbled, “The well is frozen. There is no water. The well is frozen. There is no water.”
+
+Chloe crouched, pointing her sword at him. “Kid, come on, seriously. Do you know a lady named Ynett?"
+
+“The well is frozen. There is no water,” the boy said, dropping the toy as he wandered away.
+
+Chloe let out the loudest groan she could muster and flopped backwards into the snow. It was hopeless. What was wrong with these people?
+
+She was asking perfectly normal questions, and they were acting like she didn’t exist. Honestly, it was worse than talking to rocks. At least rocks didn’t spit out random nonsense every time you asked them something.
+
+She sat up again, brushing snow off Cloaky, and marched toward a group of villagers clustered near a cart. “Alright, listen up! I’m looking for Ynett. The lady who is doing the whole mind-breaking thing? Anyone know her?"
+
+“The animals have fled. There is no meat.” One villager said.
+
+Another shook her head slowly. “The river is silent. The river is silent. The river is silent.”
+
+Chloe threw her arms in the air. “Seriously? I asked about Ynett!"
+
+The villagers didn’t even blink. They just wandered off, mumbling their lines like nothing happened.
+
+Chloe groaned and rubbed her face. Okay, so Plan A, asking nicely, is useless. These people are totally busted in the head.
+
+Chloe stomped down the snowy street, still pouting after her latest failed attempt to get an answer. The villagers shuffled and muttered the same empty words, and she was starting to think this whole place was one giant waste of time.
+
+Then she heard it. “Girl, come here."
+
+Chloe froze mid-step, her head snapping left and right. Nobody in the crowd looked at her. Everyone just kept on mumbling their nonsense lines. Then she caught movement at the corner of her eye.
+
+A door cracked open a few houses down, and a man’s face peeked out. He waved her over hurriedly, eyes wide. “You. In here. Quick.”
+
+Chloe tilted her head, squinting at him. He looked like every other villager she’d seen. But something in her gut said he was different. She couldn’t tell what exactly, just that he wasn't like the others.
+
+She swaggered over. “What’s up? Why’d you call me?”
+
+“Not safe out here, you need to leave. Now.”
+
+“Leave? Nope. I’m here to kill Ynett.”
+
+The man’s face went pale. He slapped his hand over her mouth so fast it almost surprised her. “Don’t say that!” His voice shook, and he glanced over his shoulder at the other villagers. “Please, just come inside.”
+
+Chloe pulled his hand off and smirked. “Fine, fine. Don’t have to drag me twice.”
+
+He didn’t even wait for her to finish before tugging her inside and then shutting the door. The man pressed his back against the door, breathing hard. “You need to watch what you say around here, or things will get nasty fast.”
+
+“Nasty how? Everyone out there just talks all weird.”
+
+The man sighed, dragging his hand down his face. He muttered something under his breath, then shuffled to a small table in the corner. A kettle sat there, steaming gently. He poured a dark drink into a wooden cup and took a sip before gesturing at the chair across from him.
+
+“Feel free to take a seat first,” he said.
+
+Chloe hopped over and plopped down, swinging her legs. "Okay."
+
+“Would you like some tea?” The man asked.
+
+She shook her head. “Nah, I’ll pass. But you can tell me where Ynett is, right? That’d be way more useful.”
+
+The man set his cup down slowly. “You really shouldn’t be looking for Ynett. Chasing her is just asking for trouble you don’t understand.”
+
+“Oh, come on, tea guy! I'm here to deal with her, and that’s that. If you’re so scared of her, why don’t you just, y’know, leave the village?”
+
+The man stared at her for a long second, then sighed. “First of all, my name’s Leonard. Not ‘tea guy', Leonard.”
+
+Chloe gave him a thumbs-up. “Got it, Lenny.”
+
+“And second, if I could leave, I would have done it a long time ago. Long story short, as long as Ynett is still alive, there’s no leaving for me.”
+
+"Why though? Doesn’t sound that hard. You just walk out, right?"
+
+“It’s just not possible. Not for me. But you… you haven’t been here long. You could walk away and never look back.”
+
+“Nope. Not leaving. Not until I smash Ynett’s face in. Then maybe I’ll think about it.”
+
+Leonard let out a sharp, bitter laugh. “So many have said the same thing before you. They came here, promising they’d end her. I even believed some of them. I thought, maybe this time. Maybe this one will be enough. But Ynett is still here. And they’re all gone.”
+
+Chloe puffed out her cheeks and pouted. “Pfft, well, they weren’t me. I’m different. If you’re not gonna be helpful, then I’ll just find her myself!”
+
+She stomped toward the door, reaching for the handle. But then, Leonard’s hand shot out, catching her wrist. “Wait, do you really think you can kill her?”
+
+Chloe spun back. “Of course I can."
+
+For a long moment, Leonard searched her face. Then he let out another heavy sigh and sank back into his chair. “I don’t know where she is,” he admitted. “Not exactly. But there’s one person left in the village who might know."
+
+"Who?”
+
+“There's an abandoned manor deeper in the village, that’s where she lives. They call her the Black Wolf.”
+
+“The Black Wolf? Does she just sit in a house wagging her tail all day? Pretty sure wolves are supposed to be outside animals."
+
+“It doesn’t matter where she stays. The fact is, she’s Ynett’s guard dog. Anyone who tries to leave the village doesn’t get far. She always finds them and then kills them.”
+
+Chloe tapped her chin, her grin not fading. So, creepy wolf house lady kills escapees? That actually sounds kinda fun.
+
+“One more thing, Black Wolf isn’t a real wolf. It’s just a nickname. She’s… a beastkin.”
+
+Chloe blinked, confused. “A beast what now?”
+
+“Beastkin, monsters that walk around looking like people. They wear human skin, but they can’t hide what they are. Animal ears, tails, eyes that aren’t right. They think they can blend in, but they don’t belong with us. Not really. The Black Wolf is one of them.”
+
+“Wait, wait, so she’s a person, but with cute fuzzy ears and a tail? That actually sounds adorable."
+
+“Don’t underestimate her, she's very dangerous. But if you’re set on finding Ynett, you'll probably have to go through the Black Wolf first."
+
+“Well duh, if I can’t smack around this Black Wolf, then what chance would I even have against Ynett? Sooo, obviously, I gotta go find her first, beat her up a little, and then make her spill where Ynett’s hiding."
+
+Leonard stared at her for a long moment. Until finally, he let out another tired sigh and muttered, “Then all I can do is wish you luck. Head east past the well and through the old square. The manor where the Black Wolf lives is there, you’ll know it when you see it.”
+
+“Thanks, Leonard! You’re actually kind of helpful when you try.”
+
+He only shook his head, but Chloe caught the faintest ghost of a smile as she strutted out the door. “Black Wolf, here I come!” she declared to nobody in particular.
+
+The deeper she went, the quieter everything got. The muttering villagers faded away until all that was left was the wind whistling through broken boards and the creak of wood.
+
+Eventually, the manor appeared. It was a lot taller and bigger than the other houses. A crooked fence circled the place, half-buried in snow and leaning like it was ready to collapse.
+
+Chloe stopped, planted her fists on her hips, and smirked. “Heeey! Black Wolf! Get your fuzzy butt out here already, I don’t have all day!”
+
+Her voice echoed loudly. Nothing answered. Huh, maybe I should try going inside.
+
+Chloe stomped right up to the door and shoved it open without a second thought. The hinges screamed like they hated her, but she didn’t care. She stepped inside, wrinkling her nose at the stench that hit her.
+
+The manor was a wreck. The floorboards groaned under her boots, buried in dust and scarred with deep claw marks. Broken chairs lay scattered across the main hall, and a long rug was torn straight down the middle.
+
+Chloe looked left, noticing movement in the shadows near a broken staircase. She snapped her head that way, only to catch nothing but drifting dust in the pale light.
+
+She scowled as she pushed deeper. Another flicker of movement came, this time to her right. Then the sound came. A faint shuffle, right behind her.
+
+Before she could spin, claws tore through her back. The hand punched straight through her stomach, bursting out of her belly in a spray of black ichor that splattered across the dusty rug.
+
+Chloe’s eyes went wide as the shock hit her. Well, that was just plain rude.

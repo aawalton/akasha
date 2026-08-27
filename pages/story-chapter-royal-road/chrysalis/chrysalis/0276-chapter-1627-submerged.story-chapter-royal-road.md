@@ -1,0 +1,119 @@
+---
+id: 0adbabf3-6e01-5bd8-bb99-1d4191158190
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1627 - Submerged"
+slug: 0276-chapter-1627-submerged
+partOf: chrysalis
+position: 276
+ownLength: 986
+unit: words
+ownProgress: 986
+publishedAt: 2025-08-20
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2532143/chapter-1627-submerged"
+royalRoadId: "2532143"
+markedReadAt: "2026-06-29T19:52:38.595Z"
+---
+
+Alright, this is getting silly. How much of this liquid mana did Solant make inside the fortress?! The flow bursting out of the vents hasn’t weakened in the slightest, the jets are several metres thick! This is liquid mana! I didn’t even know that was a thing!
+
+Forget about condensed mana, this is condensed, condensed. I almost can’t believe how dense it is. The power contained within is absolutely crazy. The only time I’ve ever seen anything with more dense power would be highly expanded cores like my own. Even in my current, rather distracted state, I’m still astonished by what Solant has achieved.
+
+This liquid mana won’t stay this way forever, it’s already started to… evaporate? I guess? Over time, the space above is filled with more cleansed mana, pushing back the incoming toxic energy. If things continue this way, it’ll take over the heart in less than an hour.
+
+When I think of the vast torrents of power that flooded through the platforms and into the channels, I suppose it only makes sense. If the vast majority of that energy was being siphoned off, condensed and stored, then I couldn't possibly say how much there is.
+
+“Eldest! How are you feeling?”
+
+“Fine! Completely fine.”
+
+“Somehow I doubt that…”
+
+“Well… I’ve been worse.”
+
+“Have you been worse lately?”
+
+“I mean… just after I fell into the pool, I was in pretty bad shape. Much worse than now.”
+
+Several healers kick me at the same time. I’m not trying to be difficult! I’m doing my best over here!
+
+“We’re going to have to move you soon,” one of the healers tells me. Then she kicks me again.
+
+“Is that really necessary?” I complain.
+
+“Yes,” they all respond.
+
+Sheesh.
+
+“Why do you need to move me so urgently? Is there a problem?”
+
+“You’re about to be underwater! Are you paying attention to what’s going on around here?”
+
+“To be fair, I do have other things I need to be worrying about.”
+
+I’d say ninety-eight percent of my brainpower is currently devoted to the containment of the toxin. My brains are all running at full steam, the constructs spinning as fast as they can, turning their strength inwards, trying to unravel the insidious energy within my body.
+
+Lousy Ancients and their unfair, lousy powers. First the Call, a chain snapped shut around my neck, then Arconidem being a massive pain in my thorax, and now this!
+
+I’m half tempted to go down to the middle of the Dungeon and give them a piece of my mind.
+
+“How are you going to move me? I think I’m a bit too heavy for you,” I point out.
+
+As much as I would like to see the healers try and lift me, I don’t want to see them hurt themselves. I can’t begin to imagine how much they would complain about the extra work.
+
+“We have found another way to move you. Are you going to answer the question now? How are you?”
+
+Honestly, I don’t particularly want to answer now. I don’t even know what answer they want to hear!
+
+“I’m… not well,” I hazard.
+
+A barrage of kicks rain down my carapace.
+
+“We know that!”
+
+“Answer the question!”
+
+“I’m trying, dammit!”
+
+I almost wish they hadn’t learned to avoid hitting me with their antennae, since my carapace is much too hard for them.
+
+“Hey there, Senior! How are you?”
+
+Oh great, Brilliant is here. I didn’t even notice her pop into existence on top of my back.
+
+“I’ve been trying to answer that question.”
+
+“You should have just asked me! After all, I’m BRILLIANT!”
+
+“Yes, yes, thanks for that.”
+
+If Brilliant is here… does that mean…. Ah, nards.
+
+“Are you going to try and do a weird teleport thing again? I hate that.”
+
+“Not quite,” Brilliant laughs. “If I tried to do that here, the two of us would be toxified before we got more than a kilometre! Toxified? Is that a word? It must be, since I used it! After all–”
+
+“DON’T even. We get it. So if we aren’t getting blipped from one place to another, then how are you going to move me?”
+
+“Little bit more of a complicated process. We’ve done a little work using shadow mana, and the Mother Tree is helping us create pockets of darkness. I can blip you from one to the next, but it’ll take a little time, moving you and the healers at the same time is going to take a lot, so we are going to need breaks.”
+
+“We are going to need breaks? Isn’t it just you?”
+
+“That’s impossible. I’m BRILLIANT!”
+
+“Right. Of course.”
+
+I can’t help but look up. The battle is still going on up there, the Colony is fighting, and here I am sitting on my backside. It’s not how I wanted this to happen! Crinis, Tiny and Invidia are there, doing their best to keep me and the others safe. At times like this, I really feel the weight of my mistakes and poor decisions.
+
+Brilliant notices how distracted I am, and she laughs before shooting me down with characteristic bluntness.
+
+“You’re just in the way right now, Senior. What are you supposed to do in the state you’re in? Everyone is going to be better off if we get you out of here.”
+
+Well, that’s a little deflating. It’s even worse that she isn’t wrong. I know they’re conscious of me, all of them. Through the Vestibule, I can sense their concern and worry. Every now and again, they look down and see me, unmoving on the ground, and they’re distracted, worried, concerned.
+
+It’ll be the best thing for everyone if I’m no longer here, including myself.
+
+I’m in trouble. Big trouble. No matter what I say to the healers, I can at least admit it to myself. This infection isn’t going away.
+
+It’s growing.
+
+“Alright then,” I sigh. “Let’s get moving.”

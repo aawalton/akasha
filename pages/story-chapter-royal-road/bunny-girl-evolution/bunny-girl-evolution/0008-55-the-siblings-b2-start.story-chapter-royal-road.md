@@ -1,0 +1,182 @@
+---
+id: 609541db-7551-5f2b-b515-a59641a00f3f
+page-type-slug: story-chapter-royal-road
+title: "55 - The Siblings (B2 Start)"
+partOf: bunny-girl-evolution
+position: 8
+ownLength: 4018
+unit: words
+ownProgress: 4018
+publishedAt: 2024-12-17
+link: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/1960203/55-the-siblings-b2-start"
+royalRoadId: "1960203"
+markedReadAt: "2026-06-29T20:02:55.242Z"
+---
+
+Be sure to check out the Author's note at the end for some exciting news
+
+After three months of living hell, Nick was about to snap. He hadn’t even had time to process the (probable) deaths of his parents before he was quite literally thrust into a den of monsters. He had no idea where Sophie and Bianca were, or if they were alright. He didn’t even know where he was. All he knew was that whoever sold that teleportation scroll to his dad was a scammer.
+
+“Oi, Pretty Boy!” shouted a voice. “You’re up! Get your ass out there.”
+
+Nick grunted as the collar around his neck gave him a small, but painful shock. The man who called his name was standing at the doorway, sneering. Jack was an ugly man, both inside and out. He was at least 50, overweight and balding, was missing 7 teeth, and his left cheek was marred by a massive burn scar shaped vaguely like a tiger paw from a branding gone wrong. His clothes were filthy, and no longer big enough to cover his ever-growing gut, and his fingers were adorned with rings, one of which controlled the collar around Nick’s neck.
+
+Nick scowled, but he knew better than to talk back. He stood up from the splintery wooden bench he was sitting on and made his way toward the doorway. When he reached it, Jack spat on his chest, then chuckled.
+
+Should I just kill him? thought Nick.
+
+He could do it. He was already strong enough to do so when he first got there, let alone now after months of fighting for his life. Jack had the ring, but he wasn’t a fighter. He wouldn’t be able to react in time. Nick could bash his skull in right there and be free of the man. But he still wouldn’t be able to escape. Jack’s boss would send in some goons to subdue him, and then he’d be punished, and Jack would be replaced, potentially by someone worse.
+
+“Good luck, Pretty Boy,” said Jack.
+
+Nick took a deep breath and walked out the door into the hallway leading to the arena. The roar of the crowd grew louder with every step he took. Whoever or whatever was fighting must have been putting on a hell of a show. It had been a while since he heard the stadium that loud.
+
+When he reached the end of the hallway, he could finally see it through the bars of the gate. In the middle of the arena, two female giants were in the middle of a brawl. Both were equipped with a shoddy wooden shield and an oversized wooden club. Clearly, neither of them were experienced in combat, but if anything, the crowd loved that more. Every time either of them swung their weapons the noise swelled, and it felt like it was threatening to burst Nick’s eardrums.
+
+Nick gritted his teeth and looked at the audience in disgust. Slavery was supposed to be illegal in every country on the continent, but obviously that was only in name. An organization of this size couldn’t exist without some kind of backing. They had thousands of people packed into the stands, and Nick had seen at least a few hundred different regular fighters in his time there. And that was only for this underground fighting ring, not even including the various other shady businesses that he had caught glimpses of just outside.
+
+Neither Bianca nor Sophie were among them, so either they had been teleported somewhere else, or these slavers had taken them somewhere else… He tried his best not to think about what might be happening to them, but it was hard. Bianca was beautiful, and he knew Sophie would be too. If the slavers did anything to either of them…
+
+He clenched his fists around the bars of the iron gate and tried to turn his attention to the fight. He couldn’t afford to waste time worrying about that. He needed to survive and get stronger so that he could break out and end this organization. If something had happened to either Bianca or Sophie, he only hoped the gods would forgive him for what he was going to do.
+
+In the arena, the stalemate of a battle broke when one of the giant’s shields shattered, and the woman fell to the ground. The other one immediately pounced on them and raised her club to deliver the finishing blow. At the apex of the swing though, she stopped. Nick knew exactly what she was feeling, but there was nothing he could do to help.
+
+The woman on the ground took that opportunity to sweep the other giant's legs and reverse their positions. This one didn’t hesitate, and immediately started pounding away at the other’s face with her bare fists. The one on the bottom struggled mightily for a few seconds, but then went limp. The one on top kept pounding away until the other’s skull was little more than a fragmented, bloody mess and she had to be pulled up by a pair of burly guards. The crowd was going wild, but there were tears streaming down the winner’s face.
+
+She was led out to the sound of raucous applause and jeering while two slave boys dragged the other corpse away. A minute later, the iron gate was unlocked, and swung open. When Nick took his hands off it, there were indentations in the bar where he had been gripping. He marched onto the stage, his face set in grim determination as the crowd shouted his nickname he had earned.
+
+“And now, it’s time for The BERSERKER!!” shouted a magically amplified voice.
+
+The noise in the underground pit reached a new peak and Nick had to refrain from wincing as it pierced his ears. The amplified voice continued talking, saying something about his opponent, and telling the audience members to start placing their bets, but he wasn’t paying attention. He was staring at the person approaching from the gate on the opposite side. It was Sophie.
+
+He blinked a few times and rubbed his eyes to make sure his eyes weren’t playing tricks on him, but she still remained in front of him. There was something wrong with her though. She didn’t look like she recognized him at all. She just observed him calmly, sizing him up for a fight. There was a strange mana in the air around her too.
+
+“Sophie!” shouted Nick, trying to make himself heard over the crowd.
+
+Her eyes narrowed, then widened in comprehension and she visibly gasped. She was dressed in all black with a dagger on each hip, and as the announcer continued his introduction, she drew one of them, spinning it around in her hands a few times before pointing it at Nick. A moment later, the noise around vanished, magically cut off, probably specifically because the organizers wanted them to be able to talk.
+
+“Sophie!” said Nick, walking up to her. “You’re alright! Thank the gods.”
+
+She smiled widely and walked up to meet him, but Nick could sense that something was off. His sister was a mage, so why was she dressed like an assassin? And she was too calm. Her face looked scared and worried, but her movements were poised and carried a certain air of confidence. Despite this, Nick ignored the warning signs, and went in for a hug. Almost too quickly for him to see, Sophie drew a dagger and stabbed him in the gut.
+
+“Dumbass,” she said.
+
+As she spoke, her form shifted, Sophie’s face melting away and being replaced by a changeling’s. Her eyes were solid black, her ears were pointed like elves’, her hair was short and spiky, and she was a few inches taller than she had been as Sophie.
+
+“You’re not Sophie,” said Nick, biting back the pain.
+
+He swung a fist at her, but she danced back, pulling the blade out of him, still smiling. However, her smile melted away when rather than spouting blood, the wound began to heal. Nick used her brief moment of surprise and confusion to charge at her.
+
+He had no weapon. They took his sword away because he was winning too easily. He didn’t even have any armor on. They stopped letting him use that when it saved his life and let him win against an arguably more skilled opponent. At this point though, he didn’t need a weapon. His new class more than made up for one, and now his hands were enough.
+
+That was, if he could catch the other woman. Even though she had been taken somewhat by surprise, she had no trouble dodging his charge. She was much faster than him. She probably had more stamina than him too. Nick guessed that if she had her way, she would just keep running away until he wore himself out, then come in for the finishing blow. He didn’t care though. He knew the organizers wouldn’t allow that. It would be too boring. At some point, she would have to stop running to avoid the consequences of failing to entertain the audience, and when she did that, Nick would strike.
+
+It took about a minute for that moment to arrive. She turned away from him again, looking like she was going to run away, then suddenly disappeared from his sight. It took him a moment to realize what happened, and another to locate her mana signature, which gave him barely any time to dodge the invisible blade being swung at his neck. He didn’t manage to avoid it fully, but the injury he did receive wasn’t deep, and started closing up immediately.
+
+The changeling reappeared a few feet away, frowning in disappointment, and the game of cat and mouse began again. After another minute, she disappeared yet again. Prepared for it this time, Nick followed where he sensed her to be, preparing to grab her when he got closer, but then, she suddenly reappeared on the opposite side, swinging her knife down at his neck. He turned, raising his hands to catch her, only to feel her blade plunge deep into his back as the one in front turned into smoke and faded away.
+
+He howled in pain, and spun around to face his attacker. She wasn’t ready for such a violent reaction, and was forced to let go of the blade, lest she be thrown away by the force of his spin. Nick reached behind him and shouted in pain as he jerked it out of his body. The wound started healing, just like the first one had, but it was too deep to heal well at that moment. He would be fine by the next morning if he survived, but for now, he was in trouble. A few more injuries like that, and he wouldn’t be able to move properly anymore.
+
+Or at least, that’s what the changeling was probably thinking. He doubted she had any information on his skills and abilities, since he had none on hers. She was learning as they fought, just like he was. She might have an idea of his trump card, but even so, Nick was confident there was nothing she would be able to do about it. Once he used it, the fight would be over. He just needed to time it right.
+
+He started chasing her again, trying to ignore the pain in his back. The next time she stopped to attack, he was ready. He tracked her invisible form, and he didn’t fall for either illusion, and almost managed to get his hands on her when she finally did attack. She reacted quickly enough to get away, but that also meant her blade never got near him.
+
+Though the sounds from the spectators were still cut off by magic, Nick could see out of the corner of his eye that they were getting unhappy. A few had started booing. The changeling noticed too, and decided it was time to make her final move as well.
+
+She disappeared just like she had before, and Nick tracked her mana, just like he had before. He silently thanked her for turning invisible, so he wouldn’t have to swing at her while she looked like Sophie. His fist flew through the air, faster than any of the other times, landing right where her head should have been… and passing through with no resistance.
+
+The mana that should have been hers dissipated, and at the same time, he felt a sharp pain in his legs and fell to the ground. He tried to get back up, but not only were his tendons cut, the woman jumped on top of him, stabbing him repeatedly in the back. He tried to roll away, but his muscles were spasming from all the damage he was taking, and his mind wasn’t working properly from the pain.
+
+That didn’t matter though. His trump card triggered automatically when he accumulated a certain amount of damage, and Not-Sophie’s attack was more than enough for that. In a massive explosion of mana, she was flung off his back, and Nick put his fist to the ground and with a mighty shove, pushed his body up into the air and back onto his feet.
+
+The wounds on his back and legs healed in an instant, and the mana in his body was flowing faster than ever. For about one minute, he would be unstoppable. His wounds would heal faster than his enemies could create them, and his stats were all nearly doubled. After the minute ended, he would be too exhausted to move, but none of his opponents had ever lasted that long.
+
+He leapt toward the other fighter, reaching her just as she was getting back to her feet. She managed to dodge his first strike, but she could only block his second, and her Fortitude wasn’t high enough to handle the force of the blow. She landed a dozen feet away with her arm twisted at an awkward angle.
+
+Nick pounced on her immediately, grabbing her by the throat and lifting her into the air for the crowd to see. They were going wild. He felt disgusting.
+
+“P-Please! Don’t!”
+
+The changeling turned back into Sophie, and for a moment, he hesitated and his grip loosened. She took that opportunity to wrap her legs around his arm, and in one clean motion, she bent it backward over her body, snapping it.
+
+He dropped her in surprise and pain. His arm snapped back into place almost immediately, but the girl rolled onto her feet and turned invisible again. Nick wasn’t fooled though. He didn’t have time to be. When he was in this state, his senses were heightened, so he was able to track her down easily, and a few seconds later, he had her neck in his hands again. He held her up to the crowd again, but this time, he closed his eyes and did his best to tune out what she said. A few seconds later, he twitched his arm and her neck snapped. Her body went limp, and she fell to the ground as he lowered his arm.
+
+[ You have slain {Lesser Assassin Changeling}, lvl 16 ]
+
+[ You have leveled up! 10 -> 12 ]
+
+All at once, the sounds of the audience came back. They were loving it. They were disgusting. Nick finally opened his eyes and looked at his opponent. Sophie was gone, replaced instead by the girl who wasn’t quite human. He looked closer and saw that she looked young. Not as young as Sophie, but not as old as him either. He didn’t know if changelings aged like humans, but it still made him feel almost as disgusting as the people who had pitted them against each other.
+
+He looked up at the audience, and scanned the crowd until he saw what he was looking for. Up in the VIP box, a group of well-dressed individuals were watching with expressions of mild amusement. He zeroed in on one woman, standing in the center with a glass of blood-red wine in her hand. She had long black hair and a black dress and a black veil covering her face. Nick had seen her at many previous events, and every time, no matter who else was there, she was in the middle. If she wasn’t the one in charge of the organization, she was close to them.
+
+Whether due to the effects of his skill, or just regular rage, the longer Nick looked at her, the more his blood boiled. Who was she, and why would she organize something like this? Nick had been lucky enough to fight only strangers so far, but seeing Sophie’s face in this fight nearly made his heart stop. It wasn’t her this time, but what about the next time? Or the time after that? What if it was Bianca? If Sophie and Bianca were experiencing the same thing he was…
+
+“I’m going to fucking kill all of you!” he shouted. “You hear me?! You’re all dead! And if you laid a single finger on my sister, you’re going to wish you died before I got to you!”
+
+Two guards leapt in from the sides jabbing him with blunt spears enchanted with electricity magic. He collapsed to his knees in pain, but struggled back to his feet to give the woman in black one last glare and spit in their direction. Through the veil, he thought he saw the vaguest hint of a smile. Then, his skill wore off and the strength left his body and he fell to the ground, his vision turning dark.
+
+On the night of the warg attack.
+
+“Noooo!” shouted Sophie, but it was too late.
+
+The walls of the cabin were gone, replaced by crumbling stone pillars and blue sky. Sophie looked around for a few seconds in confusion, then flinched with surprise when she realized her arms were empty. Snowberry hadn’t come with her. She flinched again when she realized that Nick and Bianca weren’t there either.
+
+“N-Nick?” she called. “Bianca? M-Mommy? Daddy?”
+
+The only response was a gentle breeze tousling her hair. As far as she could tell, she was alone. She was kneeling on a cracked stone floor in the ruins of something so far gone she couldn’t tell what it had been originally. There were a few broken pillars, but none of whatever they supported was intact, and the ground was covered in broken stone, grass, and moss.
+
+“Nick?” she called, louder this time. “Wh-where are you?”
+
+She got to her feet, slowly and shakily, and walked to the edge of the ruin. When she looked out, she saw that she was on top of a hill overlooking a sandy beach. The sun was high overhead, and there wasn’t a cloud in sight.
+
+“Nick! Bianca! Mommy! Daddy!”
+
+At first there was no response, but then, from off to her left, she thought she heard something approaching. Sophie was about to call out again when a chill ran down her spine, and she stopped herself. She didn’t know where she was. There was no guarantee that whatever was approaching was even humanoid, let alone friendly. She froze for a few seconds, then crept to a nearby pile of rubble and hid behind it.
+
+As whatever was approaching got nearer, Sophie heard not just its footsteps, but also a voice. It was a woman’s voice, and after a few seconds, Sophie was able to start picking out the words.
+
+“-not real. It’s never real. But I need to see anyway. No! I’m not just going to blow it up! You remember what happened last time! Yes, I’m sure I heard it. It was a voice. A girl’s voice. No, not like mine. A young girl, like Alpi. Or was that Sandy. Wait, no, Sandy wasn’t real. This one sounded more real. Of course I know the difference! Do you think I’m crazy?”
+
+The voice got nearer and nearer, and soon Sophie heard the sound of bare feet slapping on stone.
+
+“She’s over there, by the rocks,” continued the voice. “I told you she was real. What? No! You really think she could hurt me? You need to have a higher opinion of myself. Does she know I’m here? Well, she hasn’t moved, so maybe not. Hiding? Why would she do that? I just told you I’m not crazy.”
+
+Sophie didn’t know what to do. Whoever this woman was, she was clearly insane. If Sophie had a choice, she wouldn’t get involved. But did she have a choice? The woman seemed to already know she was there, and there was nowhere for Sophie to run. Not without being seen, at least. It would probably be best to just show herself.
+
+“An elf?”
+
+Sophie almost jumped in surprise as a shadow covered her face and a woman’s head peered down on her from above. How did the woman get there? Sophie didn’t hear any more footsteps. Sophie scrambled forward before turning around to get a better look.
+
+The woman was floating in midair right above the rubble Sophie had been hiding behind, staring with a blank expression. Her hair was long, dangling almost all the way down to the ground, and it looked surprisingly clean. Her face was pretty, but intimidating, and her eyes were bright yellow.
+
+She was also entirely nude, and didn’t seem to care much about it. Like her hair, her body was surprisingly clean, aside from her feet. It was hard to tell due to the angle, but Sophie thought the woman looked very tall.
+
+“No, it’s a half-elf,” she continued. “Elf mother, human father? Yes, I think so. 12 years old. Good stats for her age. What’s her class? That’s not important. Where did she come from? It’s been so long since I’ve had company. Did she walk all the way up here? What? I should just ask her? Shut up, I was getting to that. You. Girl. Who are you? Where did you come from?”
+
+Sophie didn’t know how to respond. Who, or what was this woman? She didn’t seem to have any malicious intent, but there was no telling whether that would continue to be true.
+
+“She’s not answering,” said the woman. “Maybe she doesn’t speak Common. Should I try Elven?”
+
+“I-I speak Common,” said Sophie. “Wh-who are you? Where am I?”
+
+“She says she speaks Common. No, I don’t know. She asked me questions. She hasn’t answered my questions. How arrogant.”
+
+“M-my name is Sophie!” said Sophie hastily. “I was- I used- My brother, he- It was- Teleportation scroll!”
+
+“Liar. She’s lying. Yes I know. It’s impossible to teleport here. She’s lying. Yes, I’m going to ask.”
+
+“I’m not lying!” said Sophie. “I was- I was asleep, and then I woke up and- and it was really cold, and Mommy- my mom said that there was a monster, and then my- my dad had a scroll and he gave- he gave it to my brother, and then we- and then he tore it, and then I was here.” Sophie was sobbing by this point. “I need to get- get back. Can you- help me? Please? My mom and dad are in danger!”
+
+“She’s- Yes, I can see that. What should I do? Why is she crying? She said she used a scroll. An ancient one maybe? One programmed to come here before it was cut off? But where did she get it? It’s not possible. She’s lying. But she’s also crying. What should I do? Tell her to stop? Okay. Girl. Sophie. Stop crying.”
+
+Sophie cried harder.
+
+“That didn’t work. What now? She can’t talk if she’s crying.”
+
+“P-please!” sputtered Sophie. “I need to- get home!”
+
+“Home? She says she wants to go home. Should I tell her? Eh, I don’t want to. You do it. What? That’s no excuse. Ugh. Fine. Girl. Sophie. You want to go home? This is your home now.”
+
+“Wh-what? N-no! I need to- to get back!”
+
+“Back? There is no going back. Welcome to Purgatory.”

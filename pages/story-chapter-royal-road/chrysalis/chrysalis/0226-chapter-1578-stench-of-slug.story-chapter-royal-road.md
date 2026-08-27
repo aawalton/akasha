@@ -1,0 +1,77 @@
+---
+id: 60078929-ce3a-53f3-9c0f-f2d442685c51
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1578 - Stench of Slug"
+slug: 0226-chapter-1578-stench-of-slug
+partOf: chrysalis
+position: 226
+ownLength: 997
+unit: words
+ownProgress: 997
+publishedAt: 2025-06-05
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2331458/chapter-1578-stench-of-slug"
+royalRoadId: "2331458"
+markedReadAt: "2026-06-29T19:51:02.645Z"
+---
+
+Every now and again, another bomb is launched at the platform, forcing me to intervene by firing my own bomb to counter it. I can’t tell if they really expect to actually do some damage, or if they’re just trying to wear me down.
+
+It is tiring, having to constantly be ready. I need to keep mana in reserve at all times. Not even in reserve, I need to keep a bomb partially formed basically permanently. It occupies a chunk of my sub-brains, causes mental fatigue, and I can’t ever allow my gravitational construct to drop, which occupies even more of my mental resources.
+
+Knowing the creatures of the fifth like I do, I suspect they feel very smug, confident that I’m getting tired, that my nerves are fraying, never knowing when the next bomb is going to come. I can almost picture them chuckling evilly to themselves, imagining my suffering.
+
+Of course, I’m not tired, not even a little bit.
+
+Goodness knows how many ants there are in the fortress, well over a million, and that Will flows in a neverending torrent, washing away my fatigue and keeping me as fresh as a daisy. The emotional burden… isn’t that bad, really. I mean, I’m already out here, constantly under attack. Having one more thing to keep an eye out for isn’t that much of an imposition.
+
+I suppose it does mean I don’t get to take any more breaks, since I have to be on the platform without ever getting a rest. It’s not ideal, but I can manage.
+
+However, there’s been another change out here. It’s subtle, there isn’t much to go on, but I’m getting a sniff of something a little different happening. The pressure, steadily rising as the wave has grown in intensity, has been ramping up a bit faster than I would have expected. The monsters are coming thicker and the mucus is more dense, more virulent than before. Roving packs of nasty parasites are sneaking about, diving at the defending ants from sneaky angles, acting far more cunning than before.
+
+It stinks of slug. Reeks of Krath!
+
+Those tricky slugs are back, pulling the strings and playing their little games. I’d hoped they wouldn’t show up during the wave, hoped we’d be free of their meddling. Looks like it isn’t going to be that easy. I shouldn’t be surprised, nothing is coming easy down here.
+
+They may have been behind the sludge bomb launching, but it appears they aren’t satisfied with that alone any more.
+
+Chomping and blasting away, I do my best to take as much heat onto myself as I can, making life easier for the rest of the defenders, but despite my best efforts, it’s a constant struggle. Ants go down, acid chewing through their mandibles, or they get globbed with mucus and need to be dragged away before the poison consumes them.
+
+The attrition rate is still terrible.
+
+Lousy slugs. I’m keeping my senses open for any sign of the sneaky, slithery scum. Krath are masters of disguise, able to conceal their presence and mask their mana expertly, they wouldn’t have survived down here without polishing those Skills until they gleamed. However… I think I’m starting to get better at spotting them.
+
+For instance… that rock over there.
+
+It’s part of the sheer wall that faces me, above and to the left of the tunnel exit in front of the platform. I’ve been looking at that rock, courtesy of my compound eyes, for weeks. I know that rock. I am one, with that rock.
+
+And it isn't usually that wide.
+
+If I were to guess, I’d say it’s… maybe twenty to thirty centimetres thicker than it was before.
+
+HA! You fools! You thought I wouldn’t notice? They don’t call me Anthony, the eagle-eyed for nothing!
+
+I mean… I can’t remember anyone actually calling me that, but they were thinking it!
+
+As nonchalantly as one can play a screaming jet of super-enhanced fire around, I shift my target closer and closer to the suspicious rock. Then I drift it away again. Then closer again. Then away again.
+
+Gweheheheh. Getting warm, suspicious rock? Feeling a little toasty?
+
+Something about the Krath just brings out the worst in me.
+
+Unwilling to wait any longer, I snap my focus and blast the rock directly, roasting the mucus around it in an instant. Ha! Did I get him? It’s not easy to see through the bubbling, steaming mucus, but I’m pretty sure the rock has gone back to its regular size. The interloper has clearly fled, or been broiled.
+
+That’s what you get! Trying to be all sneaky.
+
+Now… I wonder if there are any other suspicious lumps of sediment around here. Taking some time to train my eyes over the wall and really focus on the details, I try to spy more Krath, but I’m not seeing any other oddly-sized rocks.
+
+Maybe… maybe that one?
+
+To be honest, the colours are off more than the shapes, now that I really check. I can spot a dozen different outcroppings that aren’t looking quite right, the shades have changed a bit. I mean, that could just be the mucus oozing over the top of them, or perhaps they’ve started growing some mould or moss or something?
+
+Just to be certain, I focus my external-mana sense, really drilling down on one of the oddly-coloured sections of the wall, no larger than a curled up cat. Which was a mistake.
+
+I barely have time to realise that I am, in fact, looking at a Krath, before dozens of nets are being launched from the wall, slicing into the blue mana and latching onto unsuspecting ants and even humans positioned close to the front lines.
+
+“KRATH!” I roar with my pheromones. “Cut the lines! Don’t let them take anyone!”
+
+If they actually manage to get someone out into the tunnels, we’ll never be able to get them back. Even I can’t survive out there, not anymore.

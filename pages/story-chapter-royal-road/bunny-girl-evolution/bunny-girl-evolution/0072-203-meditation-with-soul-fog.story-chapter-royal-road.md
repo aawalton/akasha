@@ -1,0 +1,167 @@
+---
+id: f7cafebf-624a-5ab0-94d8-0825e20cb1f2
+page-type-slug: story-chapter-royal-road
+title: "203 - Meditation with Soul Fog"
+slug: 0072-203-meditation-with-soul-fog
+partOf: bunny-girl-evolution
+position: 72
+ownLength: 3163
+unit: words
+publishedAt: 2026-06-30
+link: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution/chapter/3610955/203-meditation-with-soul-fog"
+royalRoadId: "3610955"
+---
+
+“About what?” asked Elise evasively.
+
+“About you,” said Telvir. “Who you are. What you are. And please don’t be mistaken. I mean no offense, assuming your presence here is legitimate. But my life is not my own, and I cannot jeopardize it by involving myself with someone of unknown and potentially dangerous ties.”
+
+“Why didn’t you ask before, then?”
+
+“I believed I knew who and what you were.”
+
+“And that was?”
+
+“A dragon. Sophie’s master.”
+
+“Oh… That explains a lot, actually.”
+
+“Yes. But now I know you are not that, which brings me back to my original concern.”
+
+“How do you know I’m not Sophie’s master?” said Elise, straightening her back and trying to appear casually intimidating like Irylax.
+
+“Because I recently learned the identity of Sophie’s master, and that curse incident proves beyond a doubt that you are not her.”
+
+“How did you find that out?”
+
+Immediately after she spoke, Elise realized that she had asked a stupid question.
+
+“I’m not going to tell you,” Telvir replied evenly.
+
+“…Fair enough.”
+
+Of course there was no chance of him telling her. Elven societies and information channels were some of the best-kept secrets in the world. In her lessons with Irylax, Elise had learned that even powerful dragons could not locate the hidden elf groves. They were warded against all kinds of discovery, including dreamwalking.
+
+On top of that, elven communities had significantly longer memories than any other, and could form and maintain connections across centuries. No doubt wherever Telvir had come from had many such connections, and it wasn’t like Irylax was an unknown entity. There were plenty who would be aware that the scourge of the north sea had returned, and while fewer, there would still be plenty who knew she had a disciple. It wouldn’t be hard to piece that together.
+
+“So, what is it that you want to know?” asked Elise. “Do you just want assurance that I’m not going to endanger you?”
+
+“I want to know your goal as a Fated.”
+
+Elise blinked, taken aback, then her mind went into overdrive as she mentally recalibrated. The whole conversation was unexpected, but Telvir being aware of the Fated was a step beyond what she was mentally prepared for.
+
+“Okay, hold on,” she said, holding up her hands. “Fated? How did you know?”
+
+“I felt your aether earlier when you got ‘cursed.’”
+
+“You could feel that?”
+
+“Elves are far more sensitive to aether than any other race, and you had the very distinct aura of a Fated.”
+
+“Elves can feel that?”
+
+“Yes.”
+
+Wait, does that mean Sylvanna–?
+
+“In fact,” he continued. “I believe I already know who you are. You are the rabbit, aren’t you? Sylvanna’s pet?”
+
+She did!
+
+“Yes, but hold on, before you continue,” she said, raising a hand to stop him from speaking. “Can you just tell me exactly what it is that you want to know? And if you know any more of my secrets, can you just get them out of the way now? I really don’t like the way you keep pulling out bombshells and surprising me.”
+
+“Alright,” he replied, crossing his arms. “I know that you are some sort of changeling, that you are associated with Ostra, that you are largely responsible for the reappearance of old Dokkalfheimr, and that you are friends with another of the Fated, Jessica Lux of the Church of Light. And what I want to know is what you plan to do as a Fated.”
+
+…Okay, so not as much as I was worried about.
+
+“What do you mean ‘as a Fated’?” Elise asked.
+
+“Fated bring change. Always. They were given their power for a reason. Some get revenge, some choose conquest, like Empress Wei Lan, some want to help, like your friend Jessica, and others have less tangible goals, like the one responsible for the Void Chasm. What is it that you are after? Why do you have your power? What change will you bring? And will it put us in danger.”
+
+“I just want to be free.”
+
+“Free?”
+
+“I don’t know why I’m Fated. I don’t know why I have this power. I don’t want anything specific. I just want to be able to live freely. I don’t want anyone to be able to tell me what to do. I want to be free to do what I want. That’s all.”
+
+“And the change you plan to bring?”
+
+Elise thought for a moment, then shook her head.
+
+“I can’t say.”
+
+“Will it affect me?”
+
+“Almost definitely,” she said. “But not right now. Or any time soon. Right now, I’m just a student participating in a competition.”
+
+Telvir regarded her with an unreadable expression for a few seconds before nodding.
+
+“Alright,” he said. “I believe you. That’s all I wanted to know. I’m going back to sleep. Have a good night.”
+
+Elise stared at him silently as he turned and walked back toward the camp. She had thought she was mentally prepared for whatever twist he was going to throw into the conversation next, but he had once again broken all her expectations by simply walking away. For a few minutes, she just stood there, processing what had just happened. She was glad it had been resolved without issue, but she was also baffled at how it all went down.
+
+He must have had some way to contact the other elves, even while down here. Ordinary long-distance communication methods struggled when this deep underground, especially when in the middle of a high tier spawn zone, but it would be no surprise if the elves had some way around that. That was the only explanation for how he knew so much about her after seemingly knowing nothing before.
+
+Well, technically, he could have known all that information about her beforehand, and just not known it was her, somehow, but that seemed unlikely. If he was aware of a white-furred, red-eyed rabbit changeling working with Ostra, he probably would have connected the dots a lot sooner.
+
+Either way, it was a strange conversation, and she was glad it was over. She was also a little disappointed that he probably wouldn’t be quite as respectful to her as he had been before, now that he knew she wasn’t a dragon. Not that it really mattered, but it had been mildly amusing while it was still going on.
+
+She did have one question that she felt she should have asked him that she now regretted. The way he had mentioned Sylvanna made it sound like he knew her, but he had never indicated anything of the sort before. If he was close with her, he probably would have mentioned it to Sophie. Unless Sylvanna was a shunned exile for her life choices or something. Whatever the case, she would have to ask him later.
+
+With that settled, though, she could get back to the task at hand, which was killing the wyrm in the other cavern and observing how the experience affected her soul so she could attempt to replicate it. And the experiment was a partial success.
+
+Killing the worm was easy with {Power Word Kill}, but when she did kill it, she couldn’t really feel it doing anything. Unfortunately, whatever it was that helped her soul grow was not aether, or at least not any form of aether she was familiar with and able to detect. She suspected it would be much easier to tell what was going on if she was in soul meditation when it reached her, but she could not enter it quickly enough, and her awareness of her soul when not meditating was abysmal.
+
+On the bright side, there was a very simple way for her to get around this. A cruel way, but a simple way. She just had to find two wyrms, command them to fight each other, then sit down and meditate while they killed each other.
+
+It was a little nerve-wracking to sit down and close her eyes while the two titans collided not far away, but Elise managed to get into her soul without too much trouble, and vaguely kept tabs on the battle and her connection to the monsters as she waited for one of them to die. She kept one of her soul form’s hands on the System web, worried that her command would fail if she disconnected from the System, and after a minute or so, one of the wyrms finally succumbed to its wounds, and she finally saw the rush of experience points entering her soul.
+
+It came from all around, filtering through the wall of her soul and entering as a foggy, vaporous substance, and it was then immediately absorbed by the System web. Her jaw dropped, then she raised a fist and started pounding on the web.
+
+“Hey!” she shouted. “Give that back! Thief!”
+
+But the System did not give her her fog back, and pounding on the web did absolutely nothing. After a few seconds, her anger receded enough to think properly, and she came up with a pretty viable theory about what had happened and why. The System had taken whatever that substance was, and it would store it, refine it, and apply it in the form of stat points when she hit the level-up threshold. She had no idea if that’s how ordinary soul improvement was supposed to work, but it was fairly clear that was at least how the System worked.
+
+And that raised a few questions. If she had disconnected from the System before the wyrm died, would the System still have stolen the experience? And if she was disconnected from the System, how did she turn the experience into stats and levels? What even were stats and levels? Because she was pretty sure they weren’t natural. At least, not in the same way they were presented.
+
+Well, there’s only one way to find out.
+
+While still in soul meditation, she mentally reached out across her aether connection to the surviving wyrm. It was in bad shape, and if she left it alone, it would probably be killed by something else soon. Actually, it might not even have survived long enough for something else to find it. She could sense its aether dissipating. The only thing keeping it upright was her presence making it want to show its strongest, best side.
+
+She felt a wave of pity for the monster, and what she had forced it to do, but quickly pushed the feeling aside, instead focusing back on the System. Using Skills while in soul meditation was difficult, but not impossible. Using two at once, like with her typical {Whisper} and {Power Word Kill} combination, was simply not feasible while in soul meditation. But with no one else around, she didn’t need {Whisper}.
+
+Her mouth opened and uttered a word that she couldn’t understand, and as she finished speaking, she took her hand off the web, watching as it grew dim just before the wyrm outside perished. Once again, the fog entered her soul, and this time, the System did not swallow it up. Instead, it just floated around aimlessly, drifting like clouds. She reached out, trying to control them like she could with nearly everything else in her soul, but they did not listen. They just continued to float, doing absolutely nothing and providing no value to her.
+
+Okay… Now what?
+
+She had successfully absorbed some of… whatever that was… and she had kept it away from the System, but she had no idea how to refine it and make it her own. And while Aya’Rhun’s instructional crystal did cover some basic soul control techniques, it unfortunately did not cover this part.
+
+She knew that it would probably be processed naturally on its own. Quel’Khulan said that even before the System, monsters grew by killing each other, and while intelligent and able to access her own soul, Elise was still a monster. It would sort itself out eventually. But she would have preferred to understand how, instead of letting things happen naturally.
+
+She tried a few more various tricks to try to refine the fog, but none of it worked. The only thing she was able to do was trap it in soul constructs. That at least was good, since when the fog drifted near the edges of her soul, some of it ended up floating outside and getting lost. And more still seemed to disappear on its own without ever touching the edge. She hoped that was her soul processing it, but she really had no idea.
+
+She thing that seemed to work best was touching it with her soul form, at which point the stuff seemed to get directly absorbed, but the absorption rate was slow, and there was a lot of fog, and she didn’t have time to grab it all. She had to settle with trapping most of it in soul construct cubes. So she could experiment with it later. She had a vague idea of compressing it somehow, but she had already been gone for too long, and wanted to get at least a little bit of sleep before the Dungeon Competition resumed in the morning, so she hooked herself back up to the System and quietly returned to the camp.
+
+The next day passed without issue. They made steady progress through the Dungeon, and now that Elise wasn’t having issues, and they were out of the slime territory, they were doing very well. The wyrm territory was definitely one of the best places to be, at least for them. Their enemies were all not only landbound, but often moved by tunneling through the earth, which made them extremely vulnerable to magical root attacks. On top of that, with the way the monsters consumed and processed the earth, their bodies were typically quite valuable, as they were made of the metals they refined.
+
+All in all, despite the worrying start, they were in a very good position in the competition. Even if they never found anything particularly valuable, just their presence and success in this region could be enough to push them to the top. The wyrm tunnels were relatively infamous in the city for the way they constantly changed due to the nature of their inhabitants, which meant they were pretty sure they were getting bonus points for mapping out what was quite literally uncharted territory.
+
+Elise finally reached level 10 in the late afternoon, though her leveling up didn’t really matter anymore. {Rune of Fate} evolving had increased her aether already, and {Subtle Royalty} now refused to activate, despite no longer being broken. She was entirely dependent on the earring, at least until she managed to get things under control. That meant answering a few awkward questions from the others, but saying the earrings were an anti-curse artifact was enough to satisfy Hannah and Frank, while a proper explanation to Sophie through {Whisper} resolved the rest of the confusion.
+
+She managed to have a brief telepathic conversation with Telvir as well, and confirmed that he had known Sylvanna, at least in passing. They had not been close, but he knew of her, and while not hated or shunned, she was somewhat infamous for her life choices. Half-elves were usually the products of male elves’ escapades. A female elf settling down with a human was nearly unheard of.
+
+That night progressed roughly the same as the previous night had, with Elise sneaking out to do more tests with her soul form. Unfortunately, the trapped fog had dissipated over the course of the day, but now that she knew what to look for, she was able to acquire more without too much trouble. She found a new wyrm and killed it, absorbing the soul fog and trapping it in the same containers she had made the night before.
+
+This time, since she had more time, she was able to do some experimental compression. Compressing the fog was not easy, but it was clearly possible. She managed to get about a cup full of the compressed liquid fog, which looked just like water. It had coalesced at the bottom of the cube she was experimenting on, and she had gathered it in a bowl afterward.
+
+The only logical course of action from there was to drink it, which she did, and that seemed to work, to an extent, but she knew it still wasn’t quite right. She could feel her soul form absorbing the liquid, but it was hardly any faster than absorbing the gas had been. The only benefit to the compression was making it smaller so that more of it could fit in her body at once. She was certain there was another step she was missing, but whatever it was eluded her, so she settled for compressing the rest of the fog into liquid and drinking that as well before returning to camp.
+
+On the third day, near the end, they found traces of a more powerful monster. There was a large section of the tunnels that was devoid of life, and the tunnels in the vicinity were slightly larger than they had been. They slowed their pace, advancing cautiously and gathering as much information as possible before it came time to camp for the night. They had roughly located the monster, which they assumed to be some evolved wyrm variant, but they had not gotten close enough to check for certain. Any monster that strong would certainly notice them if they got that close, and they had all agreed it was better to get a good night’s sleep before facing whatever it was.
+
+Elise was tempted to go back out again that night, but decided against it. The lack of sleep from the previous two nights was starting to catch up to her, and she still had not finished processing the compressed soul fog from the previous night. She settled instead for a brief soul meditation session before bed to see if she could figure anything out about improving her soul without killing. She had only barely gotten started when she noticed something that sent a chill down her spine.
+
+The very second that she disconnected from the System, she noticed something was wrong. There was too much fog in her soul. Fog that the System had not absorbed. That could only mean one thing: someone else was using an aether skill on her. She tried to scan the others with her senses, but before she even tried, she realized what was going on. There was an extra person in their camp. Someone that somehow, no one had noticed. Sophie was on watch, and the sixth person was even in her line of sight, kneeling right by Elise’s head, but the half-elf was not reacting.
+
+They’re using a Skill similar to {Don’t Look At Me, Peasants!}, she realized.
+
+Immediately, Elise exited soul meditation and opened her eyes, just in time for the mysterious person to reach out and touch her face.

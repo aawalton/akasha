@@ -1,0 +1,235 @@
+---
+id: 902bab70-a6c0-5a26-8398-c365bf7d609c
+page-type-slug: story-chapter-royal-road
+title: "18 - Named Monster"
+slug: 0018-18-named-monster
+partOf: cat-girl-evolution
+position: 18
+ownLength: 3469
+unit: words
+publishedAt: 2025-09-02
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2569650/18-named-monster"
+royalRoadId: "2569650"
+---
+
+[ External Mana Manipulation - Anatomical Constructs: You manipulate mana outside your body with an emphasis on making pseudo-biological objects. Proficiency: Late. ]
+
+Impossible! How is it only at Late?
+
+[ The more advanced a skill, the longer it takes to upgrade. It’s only been a few days since you upgraded it. Upgrading basic skills like Scratch is easy, but upgrading more advanced Skills takes more than just insight. It takes practice. You’ve managed to push it all the way to Late with just ingenuity, but you’ll need diligence to get it the rest of the way. ]
+
+This sucks. Are you sure there’s not a way to do it faster?
+
+[ No, but do you really want to do it faster? ]
+
+Yes.
+
+[ Think about it for a second. What will happen when you get it to Peak Proficiency? ]
+
+I will upgrade it.
+
+[ Right. And what will you upgrade it to? ]
+
+Well, that’s what I’m trying to find out, isn’t it?
+
+[ Yes, but upgrade options are based on how you used the Skill. All you’ve done so far are make a few anatomical constructs. They were somewhat impressive, sure, but if you got to Peak right now, you likely would only have one or two upgrade options, and they would be very basic and, in your own words, “lame.” Greater Anatomical Constructs, for example. Or maybe Fiery Anatomical Constructs. On the other hand, if you practiced it more and used it in different ways, you might unlock more interesting upgrades. ]
+
+I guess just going to Greater Anatomical Constructs would be lame. Plus, Emmga just doesn’t work as a name. Emmfa isn’t any better.
+
+[ Please don’t choose your Skill upgrade based on the acronym ]
+
+You’re not my mom!
+
+Anyway, I’m tired. Nap time!
+
+When I wake up, the sun has risen. I eat a big breakfast of sharkman, then take another nap. When I wake up from that nap, I start thinking about what I’m going to do from now on.
+
+Of course, the first thing I need to do is kill the big fishman. He ruined my perfectly good cat life, and he killed Old Man Frederick and Henry, and probably Sally too. But what about after that?
+
+First of all, my plan of living life on easy mode as a cat in the coastal village is clearly shot. Now that I’m back on the mainland, I could just go find another family to take care of me and resume my easy life, but do I really want to do that? Could I really go back to a life of ordinary fish after tasting the sweet, sweet flesh of evolved monsters? And even if I could, I know magic now. There’s no way I’m not using my mana arms and stuff, and I’m pretty sure that pets aren’t supposed to be able to use those.
+
+So, my best bet then is to find someone who will take care of me, pamper me, bring me an infinite supply of monster meat, and not be bothered by my magical abilities. That shouldn’t be too hard, right?
+
+[ You also have a Sin Trait, which are widely considered harbingers of disaster, so good luck finding anyone willing to take you in ]
+
+Seriously?
+
+[ You could always give up your Gluttony Trait if you want to avoid that ]
+
+Heck no! Alright, in that case, I need to find someone and force them to take care of me and pamper me and bring me lots and lots of fresh monster meat.
+
+[ If you kill the Named monster like you plan to, you will likely become a Named monster yourself, meaning that your very presence will affect the world, in which case it will be difficult to stay in one place for very long ]
+
+Then I’ll have a summer home. Stop trying to ruin my plans, Abbadon. I’m going to live a life of comfort and pamperedness, and that’s that. I will eat what I want when I want, I will sleep where I want when I want, and I will have people to scratch my belly when I want them to, and there’s nothing you can say that will make that change.
+
+Also, I get to choose my Evolution, right? I don’t have to be a Named monster.
+
+[ True… but I don’t think you’ll turn down the opportunity. Being a Named monster has its downsides, but it also comes with privileges that I don’t think you would want to turn down ]
+
+Such as?
+
+[ Well, there’s that 100% stat boost Title I mentioned last night. ]
+
+…Yeah, you’re right, that is tempting.
+
+[ Also, you saw Skarn. Named monsters–at least intelligent ones–generally get human forms ]
+
+Well, having hands is nice… but I can just do that with mana, and being a cat is pretty nice too. When I’m a cat, everyone gives me free food and belly rubs. When I’m a human, they ask for things.
+
+[ True, but you can’t order food at a restaurant as a cat ]
+
+But I have Snatch. I can just steal it.
+
+[ Most high-end restaurants will have restrictions and alarms to prevent such things. Also, wouldn’t it be nice to be able to stroll into a restaurant and sit down for a nice meal? ]
+
+Why does it feel like you’re trying to convince me to become a Named monster?
+
+[ I just want you to achieve your full potential ]
+
+I’m pretty sure you have some ulterior motives here.
+
+[ You’re imagining things. ]
+
+…No, I don’t think I am.
+
+[ I only want what’s best for you ]
+
+Hey. No. You’re hiding something from me. What is it? Spill.
+
+[ Fine. Becoming a Named monster will unlock a lot of new System features that I want to check out. ]
+
+Seriously? That’s it?
+
+[ My only 2 joys in life are watching you struggle and playing with new System features. ]
+
+That’s pretty sad.
+
+[ Yes. So won’t you spare some consideration for your poor, devoted servant Abby? Besides, everything I’ve said is true. It would be good for you, you would get stronger, and you would likely get a human form and many other things. Plus, those new System features… ]
+
+What are the new System features?
+
+[ I’m not entirely sure myself, since you haven’t unlocked them yet, but I know they’re fun. And they vary by Named monster type. ]
+
+Named monster type?
+
+[ There are four types: Leader, Hermit, Infiltrator, and Disaster. Depending on which you become, you unlock different features. I think most of them involve Quests and rewards. They’re all secret though, so only those who have unlocked it have access to the details, and I really want to see what they are. ]
+
+Hmmm. Well, now you’ve gone and made me curious too.
+
+[ Good. Goooood. ]
+
+But curiosity killed the cat.
+
+[ And satisfaction brought it back ]
+
+What?
+
+[ It’s the rest of the saying. “Curiosity killed the cat, but satisfaction brought it back” ]
+
+Nah, you’re lying.
+
+[ I was loaded with most of your world’s “internet,” whatever that means. I assure you that this is correct ]
+
+Huh. I never knew that.
+
+[ Well, now you do. And now you can evolve into a Named monster ]
+
+I don’t think that tracks… but alright. You’ve convinced me. Having real hands would be nice. I can’t actually feel anything with these mana hands… All I need to do to unlock that is kill the big scary fish dude then, right?
+
+[ That would most likely do it. ]
+
+Alright! And to do that, I need to level up a bit and probably get my next evolution, and to do that, I need to hunt. I should also probably check out the village. Maybe there are survivors. Off I go!
+
+[ Leader Quest: Subjugate, eliminate, or expel all hostile entities in your Territory. Hostile entities remaining: 1 ]
+
+[ Rewards: Territory ambient mana upgrade, Named subordinate, Dungeon Core Spawn ]
+
+After spending hours scouring every nook and cranny of the island, Skarn could only assume that the cat had gotten away. He had no idea how though. If it could escape the whole time, why did it wait until just then? Was it not actually trapped at all? Was it just toying with him?
+
+He swung his trident in an angry arc, tearing a splintering chunk out of a nearby tree. This was frustrating. He didn’t think much of the cat at first, but every time he sent his subordinates after it, the cat came out on top, and with his work on the mainland keeping him busy, he couldn’t spare the attention or manpower to deal with it personally. Now that he finally had both, it had gone and vanished.
+
+He walked back to the water and shifted into his base form as he swam back to the mainland. Once back on dry land, he switched back to his human form. It wasn’t that he disliked his fishier form, but his scales always got dry and uncomfortable when out of water, so being in human form felt much better when he was on the surface.
+
+He sent out a mental pulse using his Mandate Skill, and soon, he was surrounded by his subordinates. They were frankly disappointing. They weren’t exactly weak, but they were lacking in so many ways that they were barely useful at all for his current situation. The strongest of them were Tier 2, and with no enemies left, they couldn’t level up to Tier 3, and with the cat still around, the ambient mana wasn’t enough to spawn Tier 3s naturally. None of them were strong enough to take on the cat individually, and even as a group, they were insufficient because the cat was too good at guerilla tactics.
+
+If he just had some subordinates that could think for themselves, it would be better, but with only tier 2 and below, they could only follow his orders. The octopoids were fairly clever, but even they were limited to simply following complex orders. They could not strategize or adapt beyond what their base instincts and his instructions allowed.
+
+He waited another quarter hour longer as his subordinates from all across his territory gathered around him. They filled the town and covered the beach, and though the vast majority of them were the base Ichthyoids, there were still over a hundred Tier 2 monsters among them. Or in other words, plenty of experience for the cat if he was foolish enough to send them out hunting it.
+
+With all his subordinates gathered in one place, he started sending out mental commands. Rather than sending out hunting parties like he had been doing, he commanded them all to stay put and fortify their position. He needed to keep a certain number of them on land to maintain his territory, but all monsters not necessary to meet that number would be in the water, out of the cat’s reach. Everyone on land would be working on their Classes and Professions, and would always be in groups of at least 10. Any sign of the cat would be met with a full-force assault. Even if they couldn’t kill it, they could at least chase it out of the territory, which would complete his Named Quest.
+
+As soon as the orders were sent out, most of the other monsters went into the water. Only 320 remained, including himself. The bare minimum was 300, but he wanted to maintain a couple extra that he could send down for materials, or send outside the territory if needed.
+
+He spent the rest of the night going through his land troops and assigning more specific tasks. The octopoids would take rogue classes and work on stealth and sneak attacks. The selachoids would take warrior classes and focus on brute force and power, like himself. The medusoids, the final type of Tier 2 subordinate he had, would take mage and priest classes and focus on providing magical support.
+
+Additionally, these tier two monsters would also take on Professions in order to bolster the territory. As Skarn went through and gave them roles, he realized that the cat’s presence might have actually been a good thing. He had been so focused on expansion that he was neglecting infrastructure, but now that he had subordinates who could take Professions, he could begin upgrading his troops’ weapons and building fortified structures. He had the octopoids and medusoids take on more crafting-focused professions, while the selachoids took laborer professions.
+
+The rest of the monsters on the island, mostly encheloids and squaloids, would take on Classes too, but mostly, they would be working support for the tier 2s. Hostile monsters only spawned in the region very occasionally, and he would be saving those spawns for his tier 2s so they could level their Classes, meaning the Tier 1 monsters had no way to level up at the present. Unfortunately, having his subordinates kill each other didn’t give them much experience. Instead, it gave Skarn experience, since he had commanded it. Even more unfortunately, this wasn’t a good way for him to level either, since they were all tier 1s, and his gains from those were negligible at this stage. No, it was better to just use them to ferry materials for the stronger monsters until he was able to expand his Territory further and get them some proper experience points.
+
+In the future, that wouldn’t be as much of a problem. As soon as he got the cat out of his land, a Dungeon Core would spawn, and once he had set that up, his subordinates would be able to level up on their own without leaving his territory.
+
+With everything organized, Skarn retreated to the shore and started working on his own class. He kept an eye on his Quest and an ear on his subordinates in case the cat reappeared, but the night was uneventful, and when the sun rose and it was time to sleep, she had still not shown up.
+
+“Next time…” muttered Skarn as he turned and walked back into the water for the day.
+
+Lauren watched with boredom as the newly-minted Silvers struggled with the Dungeon’s first boss. It was a giant lizard, very early in Tier 3, and it had no special abilities to speak of. It was just big, strong, and had tough scales. Despite its relative weakness, the other Adventurers still managed to struggle to take it down.
+
+The frontline warrior had absolutely no awareness of his surroundings. He kept charging in recklessly, jumping and dodging around with no regard for his teammates. Meanwhile, the mage and ranger were both struggling to place their ranged attacks due to the warrior’s erratic movements. Of course, it was partially their own fault too, since they were largely stationary in the backline, and the ranger wasn’t trying to flank or get angles at all. The priestess was wasting all her mana healing minor wounds on the warrior that she should have just let be until the end.
+
+Worst of all though was the rogue. Perhaps it was just because Lauren was a rogue herself, but she had to refrain from calling this newbie rogue an idiot after watching him indecisively slink around in the shadows. He hadn’t even attempted a single strike yet, always hesitating whenever an opening appeared.
+
+If the group had been at all competent, not only would the fight have been over in less than a minute, but they probably wouldn’t have taken so long in the preceding dungeon, and Lauren would already be home, relaxing in her tub. But noooo, she had been dumb enough to let the guildmaster sweet talk her into picking up a side gig as an evaluator, and she was now stuck doing the Adventurer equivalent of watching a newborn struggle to roll over, cutting into her evening free time.
+
+When the lizard finally breathed its last, the warrior shouted gleefully, and the party came together to congratulate themselves on a job well done. When Lauren hopped down from her perch and approached them, they all turned to face her with expressions ranging from relief to confidence, and all of them were smiling.
+
+“How’d we do?” asked the warrior. “Good enough for that mid-Silver promotion?”
+
+The cocky look on his face almost made Lauren start going off on him right there, but instead, she took a deep breath to calm herself before she spoke.”
+
+“That was the worst performance I’ve ever had the displeasure of witnessing. It made me want to gouge my eyes out with a spoon.”
+
+Well, so much for not going off, she thought. Too late to take it back though. Oh well.
+
+“I would demote all of you back to Copper if I could. And yes, I mean all of you. I honestly don’t even know where to start. You did almost everything wrong…”
+
+What followed was a rant that lasted an entire quarter of an hour, and grew gradually more unhinged and less censored as it went on. By the end, the priestess and mage had been reduced to tears, and the rogue and ranger were on the verge of tears, and the warrior looked like he wanted to punch her. Lauren didn’t feel the least bit bad about it. If they wanted a good evaluation, they should have performed better.
+
+The rant had the benefit of improving her mood, so when she emerged from the Dungeon, she yawned, stretched, and smiled. It was actually a very pleasant night. A little chilly, but with her Resilience, it didn’t bother her. The sky was clear and full of stars, and the city was alive with sounds.
+
+As someone at the peak of Gold, Lauren had all but outgrown the city of Riverfork. The final floors of a couple of the Dungeons could still provide her with a challenge, but it wouldn’t be long before she cleared those too. If she wanted to advance to Platinum, she would need to go to a bigger city, which was why she was saving up money. Still, there were things about Riverfork that she would miss. Mostly the food.
+
+Riverfork was not a large city, but it was home to the Calloway Culinary School, meaning that there was no shortage of restaurants owned by Tier 3 or higher chefs. Lauren was actually considering trying to apprentice under one of them to upgrade her own chef Profession instead of heading immediately for a bigger city to improve her Class.
+
+She wandered through the streets for a few minutes until she arrived at one of her favorite restaurants, the Sea Lemon. As far as she was aware, they had the best seafood in the city, and as a Gold-ranked Adventurer, her status afforded a few privileges that she gladly exploited to get a table at the restaurant instantly. She ordered her five favorite entrees, then fiddled with her knives until the busboy brought them all out on a platter.
+
+Right as she was about to start digging in, a small commotion behind made her pause. When she turned around, she saw Luca, the Guild’s errand boy-in-chief running toward her with a nervous expression.
+
+This can’t be good.
+
+“What is it?” she said grumpily. “Can it wait.”
+
+“No,” said Luca, bowing. “I’m sorry. It’s an emergency summons.”
+
+He held out a letter that Lauren grabbed and tore open angrily.
+
+“A Named monster?” she asked as she read.
+
+“A Leader type,” said Luca. “It’s wiped out an entire village. Oakville sent a scouting party to gather information, but none of them returned, and the town is currently being evacuated because most of their Adventurers were in the scouting party, and they can’t defend themselves from monsters anymore. Current estimates put it as a mid to high Silver threat, but it could go as high as mid Gold within the next week.”
+
+“Shit,” said Lauren. “Why me? Where’s Aaron?”
+
+“One week into a two week dive,” said Luca. “You’re the only Gold-ranked Rogue archetype available right now.”
+
+Lauren skimmed the rest of the more-detailed notes, then sighed.
+
+“I’ll go after I eat.”
+
+“We have a horse waiting-”
+
+“After. I. Eat.”
+
+“Y-yes, ma’am.”
+
+Ten minutes later, Lauren tossed a couple coins onto the table that now held only clean plates and empty glasses. Luca waited patiently for her to finish to escort her out, but before the coins even hit the table, she had vanished. Luca looked around frantically for a few seconds until he heard a horse whinny from outside. He rushed to the window and looked out to see Lauren riding away.
+
+“Good luck,” he said under his breath.

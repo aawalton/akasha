@@ -1,0 +1,131 @@
+---
+id: 97bdf9d7-c791-5bcc-9405-8bcc78538a76
+page-type-slug: story-chapter-royal-road
+title: "136: Going Back"
+slug: 0136-136-going-back
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 136
+ownLength: 1888
+unit: words
+publishedAt: 2026-04-08
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3248063/136-going-back"
+royalRoadId: "3248063"
+---
+
+As it turned out, Iris had smoke for basically everything, which Chloe thought was honestly pretty cool. While she was using her tracking smoke, Iris casually mentioned she had smoke for baths, smoke for lights, and she even had a special kind of smoke just for smoking meat. Chloe thought it was kinda odd how that one apparently wasn't the first kind of smoke she had, but whatever.
+
+Chloe didn’t even question it at that point, because at this rate, Iris probably had smoke for making tea too, or like, emotional support smoke or something. Anyway, with the very useful people-finding smoke, Iris managed to track down Sierra and Raenof pretty quickly, as they had been hiding in some random alley.
+
+Then Iris did her teleporty blue smoke thing again, and just like that, all of them got out of Aetherion in one piece. Once they were safely outside, they all changed into less noticeable clothes. Iris wore a dark blue cloak that made her look all mysterious and important, also put her mask back on of course so smoke didn't spill from her lips, while Raenof and Sierra went with brown cloaks that helped them blend in more. Chloe, obviously, had Cloaky, so she was already perfectly covered.
+
+Technically they were supposed to head straight to Ishgria next. But Chloe had one extremely important thing to do first, and no, it was not optional. She needed to get Mr. White out of Cloaky.
+
+Chloe grabbed the edge of her cloak and lifted it slightly. “Um, could you throw Mr. White out here?”
+
+Apparently, that request translated very differently in Cloaky language, because Cloaky suddenly expanded outward, and a bunch of shadowy hands shot out before immediately tossing Mr. White onto the ground like he was yesterday’s trash. The whole thing happened way too fast, and Chloe just stared for a second.
+
+Mr. White snorted loudly and glared at Cloaky, while Cloaky just sort of shrugged with its shadowy hands like it had done absolutely nothing wrong. Then it shrank back down, returning to its normal cloak shape all innocent like.
+
+Iris watched the whole thing, then glanced at Chloe. “Was your cloak always able to do that?”
+
+“Nah, that’s pretty new."
+
+Chloe immediately rushed over to Mr. White,. “Hey buddy, are you okay?”
+
+Mr. White huffed, still a bit grumpy, but then he nudged into her like he always did. Chloe brightened instantly and climbed onto his back. "Good to see you're doing good, Mr. White."
+
+Raenof looked at the group. "So, are we good to go now?”
+
+Iris gave a small nod. “I can bring us to Ishgria using my smoke. However, I will need a few days to recover my strength, because I’ve exerted myself quite a bit recently."
+
+“Wait, so that means we’re just gonna be going on foot for a while?" Chloe asked.
+
+"More or less, yes." Iris said.
+
+Chloe made a face immediately, like she had just been told vegetables were mandatory. “Kinda lame, but okay."
+
+Raenof stepped in before she could spiral further. “We can take it slow, maybe find a village along the way and rest until Iris recovers.”
+
+Sierra nodded. “That… sounds nice.".
+
+Chloe brightened instantly, because “village” meant food, probably beds, and maybe people she could totally convince to give her some brains, or, uh, normal food, yes, definitely normal food. She pointed dramatically ahead. “Alright then, off we go!”
+
+Iris glanced in the direction Chloe was pointing, then raised an eyebrow slightly. “Chloe, that is not the way to Ishgria.”
+
+Chloe paused, then slowly lowered her hand like nothing had happened. “Oh, I knew that."
+
+She spun and pointed in a completely different direction with the exact same confidence. “Off we go!”
+
+***
+
+“Administrator L, report to CEO Y’s office immediately.”
+
+L muted the comm panel on his desk, the sleek interface dimming at his touch. For a while he remained still, staring at nothing in particular before rising from his chair, heading towards the bathroom.
+
+There weren’t many things left that could actually make him nervous, but that message was definitely one of them. CEO Y liked to look unpredictable at times, but L knew better than most that nothing she did was random, and if she’d called him in like this, then she’d already made up her mind about something.
+
+He’d been running on fumes ever since Z left. Still, he kept coming back to the same thought, the same justification he’d been using to push forward. If putting himself through this meant Ishgria had even a small chance of coming back, then it was worth it. The bathroom mirror, unfortunately, didn’t seem to agree.
+
+Dark circles dragged down his eyes, his hair refused to sit properly no matter how little effort he put into fixing it, and when he glanced down, he paused, frowning as he realized that he was wearing the same shirt as yesterday. On its own, that wasn’t a big deal, but the fact he hadn’t even noticed until now was far from ideal. It was rather embarrassing honestly.
+
+He let out a breath, running a hand through his hair in a half-hearted attempt to fix it. Much as he detested CEO Y, he had to look somewhat presentable when talking to the head honcho of Divinity Inc.
+
+L then stepped out of the bathroom and walked back into the executive floor. He adjusted his sleeves out of habit, even though it didn’t really help, and kept moving forward. The elevator sat waiting at the end of the hallway, its reflective doors showing just enough of him that he instinctively avoided looking directly at them.
+
+“Get it together,” he muttered under his breath.
+
+The doors opened the second he got close, and he stepped inside without slowing down. The control panel lit up on its own, already set to the top floor, and of course it was.
+
+L didn’t remember pressing anything, but he knew that CEO Y probably had a hand in all this. Sadly, not seeing her isn't really an option. Because he knew that she'd quite literally drag him out of his seat if he resisted for too long, that was just how the CEO did things.
+
+The doors slid shut behind him without a sound, sealing him inside, and the elevator began its ascent with such unnatural smoothness that it barely registered as movement at all. A second later, the music faded in.
+
+Soft piano layered over slow, drawn-out strings, the kind of composition that was meant to feel calming, reassuring, maybe even a little uplifting if you didn’t think too hard about it. But here, in this place, it did the exact opposite.
+
+L just stared as the music continued playing. There was no imperfection in it, no texture, nothing that felt human, just a seamless loop of curated calm that pressed against his nerves the longer it played.
+
+He could almost swear the music wasn’t there to relax anyone, but to smooth them out, to sand down anything sharp or resistant until all that was left was compliance. Admittedly, maybe that was just him being dramatic, or maybe exhaustion was finally catching up in ways he couldn’t mask anymore. Either way, the longer he stood there, the more the music grated against him.
+
+After what felt like far too long, the elevator finally reached the top floor, and L stepped out into a space that immediately felt… different. The corridor stretched out in front of him, lined with understated gold accents and minimalist decor that didn’t try to show off and yet somehow screamed expense anyway. At the far end stood a set of tall double doors, with a single plaque mounted beside them. CEO Y.
+
+L slowed as he approached, his pace steady and controlled, though he could feel the tension creeping back in, tightening slowly in his chest with each step. He stopped just short of the doors, taking a brief moment to settle himself, to push everything down where it belonged, before lifting his hand and knocking.
+
+“L? Come in, darling.”
+
+L pushed the door open slowly, careful not to let it make a sound, and stepped inside. He'd almost forgotten how bright the CEO's office was.
+
+It wasn't just well-lit, but aggressively so, bathed in a warm, artificial glow that felt engineered rather than natural. Soft pastel tones covered the walls, broken up by signs that displayed encouraging slogans such as: Dream Big, Stay Positive, Live, Laugh, Love.
+
+A small arrangement of fresh flowers sat on a pristine white table, while a digital display in the corner looped soft animations about growth, unity, and success. Everything about the room was trying to be comforting, and somehow, it achieved the exact opposite.
+
+The door slid shut behind him with a quiet click. His gaze shifted forward, then slightly upward.
+
+CEO Y sat behind her desk, posture relaxed, hands neatly folded, already looking at him as if she’d been expecting this exact moment down to the second.
+
+She was smiling, and it was the same corporate type of smile you'd see in advertisements. There was something off about it, something that never quite reached her eyes, like it stopped halfway and just… stayed there. Normally, L could ignore it, file it away as part of her usual act. But today, it bothered him more than usual.
+
+“L,” she greeted. “You look tired, darling.”
+
+He stopped a few steps in front of her desk, straightening slightly. “Thank you for your concern, but I'm doing fine."
+
+“Oh, always so diligent, but let's cut to the chase, shall we?"
+
+"Pardon?"
+
+“Tell me, darling,” CEO Y said gently, resting her chin against her hand, her tone just as sweet as before, “why are you working so hard to bring back my competition?”
+
+For the briefest moment, something in L’s chest tightened. “I’m not sure I understand what you mean, if you’re referring to internal project allocations, all actions have been within approved—”
+
+“L, stop trying to dodge the issue. Did you really think that I haven't noticed what you're trying to do?"
+
+He let the silence settle for half a second, just enough to make it feel like he was considering her words rather than reacting to them, then met her gaze again with the same steady composure. “I think there may be a misunderstanding. If there are concerns regarding my current assignments, I’d be happy to review them and make any necessary adjustments.”
+
+CEO Y watched him for a moment, her expression unreadable except for the faint curve of that ever-present smile. “Well, allow me to cut to the chase. You see, the company hasn’t exactly been in the most… comfortable position lately. Resources are tighter than I’d like, certain departments are underperforming, and overall…” she gave a small, almost apologetic shrug, “we’re being stretched thin.”
+
+L’s expression didn’t change, but he understood immediately. He’d been in this environment long enough to know what that kind of language really meant. "And your point Maam?"
+
+CEO Y’s smile didn’t falter as she continued. “And when that happens, difficult decisions have to be made."
+
+L inhaled quietly, then exhaled. “What do you want?"
+
+“I want clarity, darling, start giving me names. And in return, I can make sure that you'll live a relatively comfortable rest of your life."

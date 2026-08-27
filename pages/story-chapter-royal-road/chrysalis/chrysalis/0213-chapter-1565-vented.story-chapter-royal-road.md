@@ -1,0 +1,79 @@
+---
+id: cd723fb3-7db7-53ad-9e30-826af34221c8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1565 - Vented"
+slug: 0213-chapter-1565-vented
+partOf: chrysalis
+position: 213
+ownLength: 959
+unit: words
+ownProgress: 959
+publishedAt: 2025-05-19
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2290192/chapter-1565-vented"
+royalRoadId: "2290192"
+markedReadAt: "2026-06-29T19:50:37.952Z"
+---
+
+Solant was deep in reflective meditation when she perceived a messenger was fast approaching. Not for the first time, she considered implementing a network of mind-mages for near instantaneous delivery of messages, but again had to shelve the idea. Even though the Colony could provide the number of mages to create such a network through the fortress, their expertise was far better spent on battlefields, where their spells were capable of inflicting tremendous damage from a relatively safe distance.
+
+Being a leader meant mastering the art of the possible.
+
+A good idiom. Solant nodded to herself with satisfaction, resolving to add it to her annals of wisdom. One day, she would be satisfied that the collective words would contain enough knowledge to be of worth to other generals; then and only then was she prepared to share them. For now, they remained a collection of her personal thoughts and idioms.
+
+Drawing her antennae through the elbow joints of her front legs, cleaning them and simultaneously using the action as a mental trigger to cast away extraneous thoughts, she made herself ready to receive news. When the scout was finally admitted to her chamber, Solant felt as if her mind had been cleansed, all baggage and weight thrown out and leaving behind a placid lake.
+
+“What news do you bring?” she asked the clearly tired messenger.
+
+“The vents have opened again,” the scout reported. “I was told to inform you as soon as possible.”
+
+Solant leaned back in her seat, pressing her forelegs to the sides of her head.
+
+Yes, this had always been a possibility, and she had planned accordingly. Was this timing coincidental, or did it signify something greater? She pondered on the issue for several minutes before she lowered her legs again.
+
+“Take me to Cobalt and Tungstant,” she said.
+
+“They… they were the ones who sent for you.”
+
+“I know.”
+
+Despite this occurrence, Solant was still at peace. Still calm. No ripples marred the surface of her lake. The fifth had proven to be a worthy challenge for her, but so far, everything had been within her expectations. She was confident. She didn’t lose.
+
+Cobalt and Tungstant were arguing, not an unusual occurrence lately. It seemed that, as the two ants developed their Skills and grew more experienced in design, engineering and construction, differences in opinion cropped up more and more. To Solant, this was a strength, as it provided the chance to test their ideas against another and defend them in rigorous debate, ensuring they were sound. But she sensed the two siblings were less comfortable with these arguments, too used to agreeing with each other to get any benefit from their dialogue.
+
+“Sisters,” Solant greeted them as she arrived, nodding respectfully to the scout who had acted as her guide. “I’ve been told the vents are open again. Why have you sent for me?”
+
+“Because it’s an emergency?” Cobalt said, irritated. “There are seventeen vent sites within the fortress, and each of them is spilling extremely concentrated doom at a high rate.”
+
+“We have completed our countermeasures, have we not?” Solant asked.
+
+“Just because we built systems that haven’t ever been tested before, doesn’t mean we solved the problem!’ Cobalt burst out. “Now that they’re being used, we have to check every single inch of them to make sure there aren’t any leaks or mistakes!”
+
+“Of course,” Solant said soothingly. “I would expect nothing less.”
+
+She turned to the vent site nearby, which the two sisters had likely been arguing over. The vents were… interesting. The ants had, obviously, investigated them extensively after the first incident. As it turned out, excavating them was possible, but difficult. Each vent was connected to a fleshy tube that ran through the rock and connected to something far, far below. If they wanted to, the Colony could have ripped them all out and been done with it, but Solant had other ideas.
+
+So, an emergency plan had to be put in place. Right now, the vent was capped with an elaborate device created by the finest enchanters the Colony had produced. It acted much the way the walls of Zluth’s prison did, or indeed the intakes of the platforms, drawing the mana in without letting it come into contact with a surface. Everything the mana of the fifth touched was corrupted, after all, and nothing it came into contact with could ever contain it.
+
+This cap then fed the energy into a network of pipes that eventually connected to the mana channels that fed the wuffer collectives.
+
+“And what seems to be the issue?” Solant asked. “You were arguing when I arrived. I assume there is a matter that needs to be resolved?”
+
+“What? Oh… no, that’s fine.”
+
+“Fine, is it?” Tungstant spoke up for the first time, fixing her sibling with a hard stare. “It didn’t seem ‘fine’ a moment ago.”
+
+“We don’t need to bother Solant with it,” Cobalt insisted. “It’s an issue for the two of us to sort out.”
+
+“Personally, I don’t mind getting another person’s opinion. It can give an outside perspective that may prove useful.”
+
+“There’s no need.”
+
+Solant clacked her mandibles softly, drawing their attention back to her.
+
+“I presume this matter has something to do with the construction of the caps? Or the distribution of extra wuffers?”
+
+“What? No,” Tungstant shook her head. “We’ve been arguing over the proper ratio of sugar in tea, and what measure we should use for it. Cobalt thinks we should continue to use the human ‘spoons’ measurement, but I argue we should move to a new metric, since we don’t use spoons. What are your thoughts?”
+
+Solant eyed the two of them.
+
+“I am returning to my meditation,” she said, then turned and left.

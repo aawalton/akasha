@@ -1,0 +1,221 @@
+---
+id: 806c346c-e0e3-5efb-81d0-9fa5beb2646e
+page-type-slug: story-chapter-royal-road
+title: "37 - Sensitive Matters"
+slug: 0037-37-sensitive-matters
+partOf: cat-girl-evolution
+position: 37
+ownLength: 2345
+unit: words
+publishedAt: 2025-10-17
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2682857/37-sensitive-matters"
+royalRoadId: "2682857"
+---
+
+At my very polite request, we leave the small town without fanfare. The mayor was gonna have a farewell feast or something, but we made him just give the food to us in private instead, and then borrow a horse and leave. A few people come out to wave at us as we pass by, but no one stops us, and soon, we’re out and on our way.
+
+There are two more small towns between here and Riverfork, though each one is slightly less small than the last. Each of them also gives us a warm welcome, though not as much as the first. Probably because that last town held all the people from the abandoned town who now got to go back home. And also because now the normal townsfolk wouldn’t have to deal with a bunch of refugees.
+
+Nothing exciting happens on the way. In fact, it’s so unexciting that I spend most of the time asleep in Lauren’s arms as we ride toward the larger city. Unlike when she was running, the horse running is actually quite comfortable. The saddle is enchanted with vibration dampening spells or something, so while there’s a lot of up and down, it feels more like gentle rocking than jolty bouncing.
+
+Because I sleep so much during the day, I have a lot of energy at night and usually stay up messing with my mana manipulation skills. I’m getting pretty good with my mana tentacles. They’re still all pale and ghostly for now, but I can move them around pretty easily now. Right now, I’m working on figuring out different lengths and thicknesses, so I can make the tentacles whatever size I want. Lauren seems to be mildly bothered by them for some reason. I can’t wait until she sees the fleshy ones whenever I finally upgrade my Class again.
+
+My work with Internal Mana Manipulation is unfortunately pretty slow. Most of what I can do with it right now is make my claws longer and make my body stronger, neither of which are all that interesting to play with. Not in an inn, at least. And not with my stats as high as they are. If I tried scratching the walls, I’m pretty sure that the inn would fall apart. I do at least mess around with the strength increase by running around the room.
+
+As the city of Riverfork comes into view, Lauren looks a little sleep-deprived for some reason. I feel great, personally, and I am very ready to get into the city and try the seafood restaurant Lauren has mentioned a few times. She said they have good scallops, which means that’s where we’re going first. Or second. Apparently we need to stop by the Adventurer’s Guild first to report what happened with the Named monsters. Something about it being an emergency quest and requiring a direct report or something lame like that. At least I don’t have to show myself directly just yet. Lauren says we can keep my identity a bit quieter, at least until after we eat, and then we can do more guild stuff.
+
+About a kilometer outside the city, we pull off the road and walk into the woods a little way so that I can transform into my catgirl form. As nice as it is to be carried, apparently, they have more intense inspections at the border, and my Custom Namecard won’t be enough to hide what I am if I’m in cat form. I need to use Perfect Disguise. In order to draw less attention though, Lauren picked up a cloak for me to help hide my ears and tail.
+
+“What kind of sauce do they put on the scallops?” I ask as we approach the short line of people trying to enter the city.
+
+“It’s a beurre blanc with a hint of lemon,” says Lauren. “And a few other spices that I can’t identify.”
+
+“You don’t have any special chef Skills to taste food better?”
+
+“I do, but they have Skills to block that to prevent other chefs from stealing their recipes.”
+
+“Oh, that makes sense.”
+
+I wonder if it will block my own tastebud Traits.
+
+A minute of silence passes, then I speak again.
+
+“How long will the Adventurer’s Guild stuff take?”
+
+“It shouldn’t take long, but it also depends on you,” she says. “If you cooperate, we can be out in a few minutes. But if you introduce yourself as a princess and make a big deal of everything, we could be stuck there for hours. You have a good cover story, right?”
+
+“Yes.”
+
+“What is it?”
+
+“I used a teleportation scroll, but it malfunctioned and sent me here.”
+
+“What? Where did you even get that idea? No, say that you came to the continent to explore and have a fun adventure, and got lost and ended up around the village. It’s a weird coincidence, but it’s way more believable than something ridiculous like a malfunctioning teleportation scroll.”
+
+“Why is it so unbelievable?”
+
+“Teleportation scrolls are incredibly rare and expensive. And a malfunctioning one that didn’t just kill you? Unheard of. That would raise so many questions. Getting lost raises some questions too, but not as many, and the questions aren’t as dangerous.”
+
+“I see.”
+
+“Actually, you know what, why don’t you just stay mostly quiet. I’ll handle the talking.”
+
+“You don’t think I can talk for myself?”
+
+“Frankly, no. I don’t. I don’t think you know enough to bluff your way through this, so I’ll handle it.”
+
+“Hmph,” I say, crossing my arms. “You really doubt me that much?”
+
+“This will be the fastest way to get to the restaurant.”
+
+“Well, if you insist, I guess I could leave the talking to you.”
+
+“Thank you.”
+
+“Well, that didn’t take long.”
+
+What didn’t take long?
+
+“Her figuring out how to handle you.”
+
+What’s that supposed to mean? Are you saying I’m hard to handle?
+
+“Yes.”
+
+Well, you know what I say to that?
+
+“What?”
+
+Shut up, Ibbis.
+
+“Ibbis?”
+
+Well, I ran out of words that started with “ab-” and I’ve been trying to come up with more, but I just can’t. Then, I had an epiphany. I am limiting myself. I’ve been calling you only Annoying Blue Box, but there are so many other adjectives I can use. I was thinking about this a lot, and from now until I change you again, you are Irritating Blue Box.
+
+“I preferred-”
+
+Shut it, Ibbuprofen.
+
+A couple minutes later, we make it to the front of the line, and are stopped by two guards standing in front of a gate.
+
+“Identification,” says one of them.
+
+“Really, Jerry?” asks Lauren.
+
+“Hey, it’s standard policy,” he says with a shrug. “Even for regulars. Though, I was out drinking pretty late last night, and I’m feeling a bit forgetful today. Maybe if you-”
+
+He cuts off as Lauren flicks a silver coin at him and he catches it between two fingers.
+
+“Who’s your friend?” he asks, pocketing the coin with practiced ease.
+
+“Fellow adventurer. Look at her title.”
+
+Jerry looks above my head, and his eyes widen.
+
+“Oh, shit, you were out on that quest to-”
+
+He stops as another coin flies at his face.
+
+“Keep quiet for now,” she says. “I’ll explain more later.”
+
+He looks down at the coin in his hand, weighing his options.
+
+“I dunno, Laur, the boys invited me out again tonight, and-”
+
+“Don’t test me,” says Lauren. “I don’t care enough to pay you more, but if you blab, next time I’ll just show my ID.”
+
+“Hey, I was just messing around,” he says, putting his hands up in surrender before turning to me. “Have a good day. And if you ever want to grab a drink-”
+
+“Let’s go, Yona,” says Lauren, grabbing my arm and dragging me forward.
+
+“He seems friendly,” I say once we’re further in.
+
+“Don’t let him take you out drinking,” she says. “He has the worst taste in alcohol. No appreciation for what actually tastes good.”
+
+“Ah. He seems like a dick.”
+
+“He’s not bad. Just don’t go drinking with him.”
+
+“Okay.”
+
+“The Guild’s not far. Let’s go.”
+
+We speedwalk through the streets, giving me very little time to appreciate them, which is mildly unfortunate, because fantasy cities are actually pretty cool. There’s no electricity and no cars or anything like that, but there’s a lot of magical equivalents. There are no streetlamps, but there are a lot of rocks on poles. I guess the rocks glow at night or something?
+
+Horses seem to be the normal mode of transportation, but there are also a few horseless carriages. And unlike cars, which I think also used to be called “horseless carriages,” these are literally just carriages that don’t have horses attached, and move with magic instead.
+
+Most of the people around are humans, but I see a few short bearded dwarves and pointy-eared elves too. They’re rare though, and all of them seem kind of important in some way. Like the dwarves I see are all in a group and everyone parts ways for them to pass by, and the few elves I see are all dressed very elegantly and walk with their noses up like they’re better than everyone. Fools. Clearly, they have never been a cat before.
+
+The guild building is pretty big compared to the other buildings around, but other than that, it looks pretty normal. The people around it are not normal though. Walking along this part of the street feels like I suddenly went from the normal part of a city to the part hosting a cosplay convention. There are people wearing armor all over, and most of them are openly carrying big weapons. None of their weapons are as big as my sword, but some of them get pretty close.
+
+I guess these are all the Adventurers, and this whole street must be Adventurer central. I see armor and weapon shops, a sign for something that looks like a potion shop, and like ten different taverns. The Adventurers stream in and out of every single building constantly, walking in groups and talking very loudly. Too loudly. My ears are sensitive, and I don’t like it, and unfortunately, entering the guild building doesn’t really help. It’s even louder and more crowded inside, and it smells terrible. This is actually worse than a cosplay convention because all these people are physically active and covered in sweat.
+
+“It smells in here,” I say.
+
+A lot of people look at me. Lauren is one of them, and she looks mildly annoyed.
+
+“Well, what did you expect?” she asks.
+
+“Can I wait outside?”
+
+“...Actually, yes, that’s a good idea. I’ll try to be quick. Don’t get into any trouble.”
+
+“Okay!”
+
+We split up and I head back outside where the air is slightly fresher. Having such high Sensitivity kinda sucks sometimes. It doesn’t suck as much as it probably should though. It’s currently my highest stat at 7594, which is like 1000 times more than it started. Shouldn’t I be smelling things 1000x stronger then?
+
+“You are, but your mind is also affected by the stat, and you are able to subconsciously filter out most of it. If you focused, you would feel that thousand time difference, though maybe not in the way you’d expect. Sensitivity often deals with how well you can discern minute sensory differences, rather than how intensely you sense things.”
+
+Ah, I think I see. So if I focus, I smell more, but it won’t knock me out, and instead I’ll be able to tell differences better.
+
+“Yes, that’s exactly what I just said, but more summarized.”
+
+Great! I’m gonna experiment with it while I wait.
+
+Let’s see… that group of two guys and two girls over there! They just ate… beef! And potatoes. Fried potatoes, I think. I don’t recognize the oil. Actually, that girl over there had fish, not beef. A white fish. Cod, maybe? There’s something else too. Hmmm… Oh, she smells like the tall guy. Wait, but the other girl also smells like the tall guy. And the short guy. Hmmm. Quite the mystery. I’m gonna go ask.
+
+“You shouldn’t-”
+
+“Hey, tall guy!” I say, waving to the group.
+
+They don’t respond, so I conjure a mana hand and tap him on the shoulder. A few people look at me weirdly, but no one stops me, and my mana hand gets their attention.
+
+“Can I help you?” he asks politely.
+
+“I’ve got a question,” I say.
+
+“What is it?”
+
+“Are you guys a polycule.”
+
+“A what?”
+
+“A polycule. Like are you all romantically involved together?”
+
+“What? No?”
+
+“No, I was just curious why both of them–” I point to the women “–smell like you.”
+
+“I- wait- what?”
+
+As he stammers, the face of the woman who smells like both guys pales, and the other woman and man look at her and the tall guy in shock which quickly turns to anger. A few pointed questions later, they’re all shouting at each other.
+
+I turn and walk away without another word and head back to the Adventurer’s Guild, leaning up against the wall as I watch the argument escalate. The short guy and the other girl look really angry. Like pulling weapons out angry. Now they’re waving them around. There’s a crowd forming around them, and a few people are trying to step into the argument. It looks like it’s about to calm down. A big dude in armor just got in between the two pairs. That’s probably–
+
+Oh shit! The short guy stabbed the tall guy! He just ran past the armored dude and jumped on him! He’s got him on the ground! He’s still stabbing! He’s getting pulled off, but the tall guy is a mess. That’s a lot of blood.
+
+“What’s going on out here?”
+
+I flinch slightly as Lauren emerges from the building.
+
+“Nothing,” I say.
+
+“What did you do?”
+
+“I didn’t do anything. C’mon, let’s go get food!”
+
+“No, you definitely–”
+
+I grab her arm and drag her away from the commotion.
+
+“Scallop time!”

@@ -1,0 +1,255 @@
+---
+id: b34dcb56-f65d-587c-8923-da68c080a0ee
+page-type-slug: story-chapter-royal-road
+title: "32: Odd Requests"
+slug: 0032-32-odd-requests
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 32
+ownLength: 2628
+unit: words
+publishedAt: 2025-09-16
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2604945/32-odd-requests"
+royalRoadId: "2604945"
+---
+
+Sabine took a step forward, lightning curling between her fingers. Chloe instantly took a step back. Sabine stepped forward again, and Chloe stepped back again.
+
+They kept going like that, step, step, step, until the air between them felt tighter with every move. By the fifth step, Chloe’s chest felt all knotted up. Not that she’d admit it out loud.
+
+“Are you afraid, my dear?” Sabine asked.
+
+Chloe snorted, folding her arms like that would make her look braver. “N… no. I’m just being careful.”
+
+“Careful, hm? How very… sensible of you.”
+
+Chloe was winding up to throw back something clever, when Sabine casually lifted one finger and aimed it right at her. Chloe’s shoulders jerked before she could stop herself, a shiver racing down her spine.
+
+Sabine laughed, and somehow, that made it worse. Oh, she thinks she’s funny.
+
+Chloe planted her feet, letting the black tendrils beneath her skin writhe and gather. Her right arm snapped forward, the tendrils shooting out and launching her hand toward Sabine.
+
+It should’ve been fast enough to at least graze her. Chloe’s arm shot out, but Sabine just slid sideways in one clean, effortless step.
+
+Chloe caught a sharp scent in the air, and before she could yank her arm back, Sabine’s hand brushed one of the tendrils. Lightning exploded through it.
+
+One moment Chloe was fine, the next her whole body became super twitchy. The jolt ripped up the length of the tendril, sank its teeth into her arm, and shot through every inch of her like it was trying to fry her from the inside out. Muscles seized, teeth locked, and her vision went blinding white for a second.
+
+“Ghh—!”
+
+Chloe tried to pull back her arm, but her tendrils just twitched and flopped like it had a mind of its own. Cloaky rippled behind her in a weird, jerky shudder, like even it had no idea what to do.
+
+Then, just as suddenly, the lightning stopped. Chloe swayed, head heavy and legs all floaty.
+
+Sabine was already a step away, watching her with a smile. “Are you quite alright, my dear?”
+
+Chloe blinked hard, trying to get the world to stop wiggling. "I… I'm okay… ugh."
+
+She ended up flat on her back, staring up at the sky. Her head was still buzzing from that stupid lightning trick.
+
+Sabine walked up to Chloe. “Well, it appears I win.”
+
+Chloe groaned, pushing herself up to sit before standing. She gave her best pout, crossing her arms. “Yeah… I guess.”
+
+“As agreed, you will do whatever I tell you to do.”
+
+“Yeah, yeah, fine."
+
+“Good. For a start, I want you to stand still for a few seconds.”
+
+"Wait, that’s it?”
+
+“Yes, my dear. That’s it. Begin now.”
+
+Chloe tilted her head, a little suspicious. This is… way too easy.
+
+But whatever, arguing over something this simple wasn’t worth the effort. She planted her boots, squared her shoulders, and stood still like a rock. She didn’t even care how long Sabine kept her like this, Chloe could stand still for the entire day if need be.
+
+Sabine’s expression shifted. She closed her eyes for a moment, and when they opened again, Chloe felt an instant shiver run down her spine. Her eyes were gold now, shiny gold.
+
+Chloe then felt something really weird wash over her body. It wasn’t painful, but it definitely wasn’t nice.
+
+Her skin prickled, and the closest she could describe it was like being licked all over by something invisible, nosy, and way too thorough. It felt gross.
+
+Chloe felt that Sabine wasn't just looking at her, it felt like she was being seen through. Almost as if Sabine was peeling her open without touching her.
+
+Still, Chloe had promised to stand still. And if there was one thing she was good at, it was committing to bad ideas purely out of stubbornness. So she stayed put, even as her mind screamed at her to run.
+
+Finally, Sabine’s eyelids lowered again. When she opened them this time, the gold was gone, replaced by her usual sharp blue. “Thank you. I trust it wasn’t too uncomfortable?”
+
+“Actually, yes. It was gross. Super gross.”
+
+“Quite normal, I assure you. But anyway, you’re free to move around now.”
+
+Chloe immediately stretched her arms, rolling her shoulders. Whatever Sabine did to her had not felt good. She flexed her fingers, bounced on her heels, and gave everything a little shake just because she could. The gross feeling was fading, but she still felt like she needed to scrape it off somehow.
+
+Chloe turned to Sabine, narrowing her eyes. “Alright, spill it. What exactly did you do to me?”
+
+Sabine casually waved her hand, like she was brushing away a speck of dust. “Don’t trouble yourself with the small details. Instead, why don’t I teach you magic?”
+
+Chloe squinted. “Hey… are you trying to distract me?”
+
+“No, my dear. But truly, it’s nothing important. Don’t you want to learn magic?”
+
+“Nuh uh, you’re not getting me that easy. First, you have to tell me what you did.”
+
+Sabine stepped closer, and then she reached out, pinched at the air in front of Chloe’s face, and pulled her hand back. “Ah, there it is.”
+
+Chloe tilted her head, confused. “What’s ‘there it is’?”
+
+“Your nose,” Sabine said, holding her thumb between her fingers.
+
+Chloe slapped both hands over her face. “Wait, you took it? Give it back!”
+
+Looking real smug, Sabine then pretended to press it back into place. “There. Good as new.”
+
+It took a few seconds for Chloe’s brain to catch up, and when it did, she gasped. “Wait a second, you tricked me! How’d you do that?”
+
+Sabine’s lips curled into that knowing smile. “Are you finally ready to learn now?”
+
+"Learn what?"
+
+"Magic, I can teach you."
+
+Chloe scratched her head, thinking it over. “Hmm… wait, does that mean I’ll get to do lightning? Like, zap people?”
+
+“That depends, do you have a lightning affinity?”
+
+“Nope.”
+
+“Then no.”
+
+Chloe’s shoulders slumped. “Boo, that's not cool."
+
+“I can, however, teach you the fundamentals of magic. From what I’ve seen, you’ve been using magic entirely by feel and instinct.”
+
+“Aww, what? That sounds suuuper boring.”
+
+“You will need the fundamentals if you wish to become stronger in the future. Trust me, knowing the basics of magic will be useful to you."
+
+“I mean, I like getting strong, but how does knowing boring stuff make me stronger?”
+
+“If you understand the basics, you may be able to learn new spells on your own, and perhaps even create your own in the future. Without that foundation, you will never come close to that.”
+
+“So, if I listen to you, I might get to make my own special magic one day?”
+
+“It will take time, and a great deal of effort… but yes. At least it will become a possibility.”
+
+“Oh. Okay then. I’ll listen.”
+
+When Sabine told her to sit, Chloe plopped down cross-legged on the grass, Cloaky bunching up around her. Sabine settled across from her, hands folded neatly in her lap.
+
+“The core principle of magic is exchange. You trade mana to create an effect. It's all a matter of spending energy to produce a result. Your mana comes from your mana core. It is a vessel for your mana, and it replenishes itself using energy from your soul and the environment around you.”
+
+“Oh, what’s a soul, exactly? And do I even have one?”
+
+“A soul is the essence of your being. And yes, you still have one. If you did not, you would not be here asking me this. Even the undead have souls, your nature is simply different from that of the living.”
+
+"Hmm, okay."
+
+"Moving on, the potency of a mana core is commonly assessed through a basic water orb test, which we are unfortunately unable to conduct here. This test measures the core’s strength by its colour, ranging from colourless at the weakest to red at the strongest. More advanced variations of the water orb test can reveal not only the nature of your mana core, but also a range of additional characteristics."
+
+“Wait, how does a water orb even—”
+
+“Chloe, let me finish explaining before you ask questions.”
+
+Chloe pouted, but obeyed. She didn’t like being told to keep quiet, but picking a fight with Sabine right now felt like a bad idea.
+
+“Theoretically, all mana cores could reach red with enough training. However, some people are born with more potent cores from the start, making their progress much easier. For most, they will remain colorless their entire lives. Such cores have just enough ambient mana to sustain the soul, but not to create magic.”
+
+“Uh… could you say that again? I don’t get it.”
+
+“It’s fine if you don’t understand everything now. Just remember this, some people will always have an easier time using magic than others. That’s all you need to know for now.”
+
+“Ohhh. Okay, that makes sense.”
+
+“Now, we will cover the basics of mana control. It is the art of guiding your mana with intent, rather than allowing it to drift or act on mere instinct. I am certain you have done this unconsciously before, but it is time you understood the process. So, watch closely.”
+
+Chloe leaned in as a faint shimmer of blue light curled over Sabine’s skin. “Oooh. Pretty.”
+
+“This,” Sabine said, “is control. I am pulling mana from my core and directing it to a specific place. Now you try."
+
+Chloe nodded, focusing hard. She pictured her mana as a big gloopy puddle sloshing somewhere inside her chest, then imagined scooping it up and shoving it down her arm into her hand. At first, nothing happened. Then her fingers prickled, the feeling growing until a thin haze of dark shadow curled over her palm.
+
+“Ha! Got it!”
+
+“Not bad at all. You learn quickly.”
+
+“Of course I do,” Chloe said, puffing out her chest. “I’ll have you know my mana control skill is actually pretty high. I’m basically a natural.”
+
+“Perhaps, but skill alone is not enough. While you can execute the actions, understanding the why behind them will allow you to refine and improve far beyond instinct.”
+
+“I dunno, seems pretty easy to me so far.”
+
+“That is because you have talent. Magic does not come so easily to most, so you should be grateful for that advantage.”
+
+Chloe smiled. Hah, I am amazing.
+
+“Now, we shall begin with the basics of mana sense. You have likely employed it before, albeit without understanding the mechanics. This is your opportunity to grasp it fully, so do pay attention.”
+
+Chloe nodded, leaning in like she was about to hear some big news. This magic stuff was way more interesting than she’d thought, and she already thought magic was pretty awesome.
+
+***
+
+By the time the sky turned dark, Chloe decided she pretty much had mana sense figured out. Sabine had explained it in her usual long, fancy way, but the gist was simple. Feel the mana around you and figure out what it’s doing. That was it.
+
+Chloe got the hang of it fast. She’d even managed to tell when Sabine was gathering mana before she actually did anything with it, which, in Chloe’s opinion, made her a genius.
+
+She did ask why her mana control or mana sense skills hadn’t gone up even though she was clearly becoming more awesome at both. Sabine told her the system probably already considered her an adept, so basic lessons like these wouldn’t do much for her skills. But, Chloe figured that was just the system’s way of being stingy with skill level ups.
+
+Oh, and Sabine had mentioned that Chloe would unlock some super cool skill if she got mana control and mana sense to level ten each. She wouldn’t say what it was though, no matter how much Chloe begged.
+
+Apparently, the path to this mystery skill involved something called meditating. Which, as far as Chloe could tell, was just… sitting still. And thinking about not thinking.
+
+So, she gave it a try. Sat down, closed her eyes, tried to focus on her mana core like Sabine said, and got bored in about thirty seconds.
+
+Her legs got itchy. Her back wanted to wiggle. And her brain kept wandering off to way more important questions, like what would Sabine's brain taste like?
+
+Speaking of, Sabine kept trying to nudge her back on track, but Chloe just couldn’t meditate for long. And before she knew it, the sky had gone all dark. Which meant she had somehow spent hours failing at sitting still. Impressive, really.
+
+After the lesson, the two of them went back to Baron Willy’s place. While everyone else slept and rested, Chloe spent her time walking laps around the entire building… more than a few times. Apparently, this really annoyed people, because Baron Willy eventually told her to go read a book instead.
+
+Chloe thought that sounded boring, but he actually picked out a pretty neat one. It was about how the kingdom of Ishgria was founded. She didn’t remember all the details, but basically, there was this really cool queen who fought off a ton of humans and monsters to make the kingdom.
+
+Also, there were these legendary monsters called dragons! They were huge, breathed fire, and the drawing in the book made them look ridiculously cool. Chloe decided she had to see one someday. Preferably up close. And maybe ride it, or eat it. She hadn’t decided yet.
+
+Morning came faster than she expected, and eventually, Sabine called both her and Baron Willy into a big room with way too many chairs for the number of people actually in it. Sabine smoothed her jacket before speaking. “I will have to be going soon. There are matters that require my attention.”
+
+Baron William gave her a polite nod. “Of course. But I must ask, will you be taking Miss Chloe with you?”
+
+Sabine shook her head. “Chloe seems fine here. I will leave her be.”
+
+Baron William’s brows shot up. “Won’t the Royal Mage Academy or the Tower of Mages be interested in her?”
+
+“They have their own affairs to manage. And if it is a reward you were seeking, I am afraid you will be disappointed.”
+
+Baron William’s shoulders slumped, his perfectly composed posture cracking just enough to show the disappointment underneath. For some reason, his eyes had this vacant, hollow look, like someone had eaten his brain but left the rest of him running. Chloe couldn’t quite figure out how to describe it.
+
+“Uh… what’s up with him?” Chloe asked out loud.
+
+“Nothing important,” Sabine said with a soft chuckle. Then she turned to Chloe. “Oh, but make sure you remember what I taught you yesterday.”
+
+“’Kay.”
+
+“And come find me once you have grown much stronger. Then I might actually teach you more… interesting things.”
+
+“Oh! Like lightning magic? Can you teach me that?”
+
+“Perhaps. But that will depend on you.”
+
+“Okay! I’ll make sure to be super strong before seeing you again, then.”
+
+“That is good to hear.”
+
+Sabine rose to her feet, gave a graceful bow, and swept toward the door. Chloe waved enthusiastically after her until she vanished from sight.
+
+Well, now that I’ve got nothing better to do… might as well grab another bounty and score some brains.
+
+She glanced at Baron Willy. He hadn’t moved. Or blinked.
+
+Chloe leaned forward and waved a hand in front of his face. “You okay there?”
+
+He snapped out of it with a slow shake of his head. “I’m… fine. What will you be doing now, Chloe?”
+
+“Probably heading out for another bounty. Why'd you ask?"
+
+“Actually… if you have a moment, I’d like you to hear me out.”

@@ -1,0 +1,73 @@
+---
+id: e4980d17-94ab-5632-a6e6-56f8eb004c83
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1519 - What Was Known, What Was Lost"
+slug: 0167-chapter-1519-what-was-known-what-was-lost
+partOf: chrysalis
+position: 167
+ownLength: 966
+unit: words
+ownProgress: 966
+publishedAt: 2025-02-28
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2093761/chapter-1519-what-was-known-what-was-lost"
+royalRoadId: "2093761"
+markedReadAt: "2026-06-29T19:49:11.247Z"
+---
+
+“Englebert, you’re our best expert on the chal, can you pull yourself together, man?”
+
+“I’m… I just… I… I think… I am… I… no?”
+
+Rathwyn shot a quick smile toward Coolant and Propellant, then briefly wondered if the ants were even able to read human facial expressions. They didn’t have muscles on the outside of their heads… but then, they did spend a lot of time around people who did… so… maybe?
+
+[I’m sorry, I’m afraid the shock hasn’t quite worn off yet. I’m not sure you realise what a momentous event the… resurfacing of the chal will prove to be.]
+
+He couldn’t help but eye ‘Kathy’ as he said this. In their time, the chal were among the most dominant powers on all of Pangera. Perhaps not as mighty as the Abyssal Legion in the early, post Cataclysm times, but their empire flourished like no other as the race to settle the Dungeon began. She was already suspicious the ants would use the snails to become a strategic threat, as if the Silver City had anything to fear!
+
+[You’re all being strange,] Propellant said directly. [As far as we’re concerned, these are just baby snails that need looking after. The most interesting aspect to all this that I can see, is that it’s possible to ‘purify’ the Krath.]
+
+[Indeed,] Coolant agreed, [my more hot-headed sibling has put forward our position accurately. The Krath, as it turns out, may be a product of their own corruption process. We know for a fact that directly exposing them to cleansed mana will kill them, but there may be a way to revert them back to what they were before.]
+
+[I doubt they would even want that,] Rathwyn said after some consideration. [The Krath revel in what they are, there’s a sick, twisted pride amongst the tribes in their way of life and what they do to others.]
+
+The two ants considered each other, waving their antennae back and forth, before they seemed to shrug.
+
+[It’s only a thought. Now, tell us what you know of these snails. We’ll pass that information onto the Brood Tenders, and they can devise a proper curriculum for the hatchlings.]
+
+They were seated around a table, the academics recovering and muttering amongst themselves while sipping hot tea and nibbling biscuits, leaving Rathwyn to occupy the two ant mages. The insects were no longer willing to be denied, however, so he hoped they would have something valuable to share.
+
+“Englebert, you better have something.” Rathwyn warned. “They want to start designing curricula already.”
+
+“They were just born!” Englebert exclaimed. “How are they supposed to start learning already?”
+
+It wasn’t a bad point.
+
+[Why wouldn’t they?] Coolant replied after he’d queried them. She sounded genuinely confused. [My siblings start the learning process the moment they are born. Even before then, technically. I understand we are monsters, so there is a difference, but we will not fail in our duty to these hatchlings. We will do everything we can, starting now.]
+
+There wasn’t much to say to that.
+
+Englebert and the others discussed amongst themselves for a few minutes, debating and collating what information they had, before the bald magio-scholar acted as their spokesperson.
+
+[The chal were known for a few things that can still be found in the historical record,] he said. [Chief among these is their mental prowess. As you’ve seen from the young, the chal don’t have any arms, and we don’t believe they will grow any either. I wish we had a proper expert here to explain this better, but there are writings that describe the chal as able to move the world with merely their ‘thoughts and songs’.]
+
+[Thoughts and songs? So they were powerful mages and… singers?]
+
+[Not quite,] Englebert said, starting to sweat. [Anyone can move things using force magic, but what the chal did seems to have been considered something different entirely. Without even calling upon mana, they could use their minds to manipulate the world.]
+
+[That’s weird,] Propellant snipped her mandibles thoughtfully. [No mana? How does that even work?]
+
+[What about the singing?] Coolant said, turning to the others. [It’s been days since the first of the snails was born, but we haven’t heard a peep out of them at all. We thought they might be mute.]
+
+[Again, I wish I had more I could tell you,] Englebert said, [but the records clearly state there was immense power to be found in the songs of the chal. I don’t know how, or what form it took, but they were able to create miracles through their songs; many of the mighty works of the chal were said to have been created via song.]
+
+[Hmm. This may pose an issue…] Coolant muttered. [We don’t even have vocal cords. How are we supposed to teach someone how to sing?]
+
+[Not to mention this mind… power that we don’t know anything about,] Propellant agreed. [This might be more difficult than we thought.]
+
+[Other than this,] Englebert continued, [we know the chal were very communally oriented. The ruins of their cities contained many gathering places and open spaces for them to gather. I think keeping them together is a good first step. With time and access to our resources in the Tower, we should have a great deal more we can say. Sadly, none of us are experts in this field.]
+
+[That’s fine, thank you,] Coolant said. [You’ve given us much to think on already.]
+
+Rathwyn made their goodbyes and shepherded the academics back to their quarters, which immediately erupted into furious discussion with Nemis breathing down their necks demanding to know the military import of baby chal.
+
+All he could do was try to manage expectations as he wondered just what on Pangera these ants were going to show him next.

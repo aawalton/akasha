@@ -1,0 +1,255 @@
+---
+id: 47fc5972-aa71-5458-8628-acf235e5b8fd
+page-type-slug: story-chapter-royal-road
+title: "112 - Infiltration"
+slug: 0114-112-infiltration
+partOf: cat-girl-evolution
+position: 114
+ownLength: 3459
+unit: words
+publishedAt: 2026-04-10
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3254797/112-infiltration"
+royalRoadId: "3254797"
+---
+
+With my new servant gone, I am left alone with one single servant who seems a bit preoccupied with the other cats. Unfortunately, she’s not that preoccupied, so I probably can’t do anything overly suspicious, but there’s still plenty I can do from right here. The castle is enormous, but my Food Sense covers all of it aside from a wing on the far opposite side, and that wing just seems to be servant’s quarters, so I don’t really need to see it anyway.
+
+The first thing I check out, of course, is the tree. It’s much bigger than I remember, but interestingly enough, it seems to have had some qualitative changes as well. Before, it was all monstrous and blatantly evil-looking, but it’s mellowed out now. The ground is undisturbed, with no stabby roots sticking out, and the thorns and sharpened branches are gone too. For all intents and purposes, it looks like it’s just a normal—albeit enormous—tree.
+
+It’s also significantly more mana-dense than before. And the mana in the air around it is quite dense as well. In fact, it’s so dense that it’s weird that there aren’t any monsters spawning. It must have some kind of Skill to prevent it while still intensifying the mana, because otherwise, it doesn’t make sense.
+
+As I look closer at the tree, I realize that the tree itself doesn’t make any sense either. It’s a tree, so of course it grew, and it’s a monster, so I guess it makes sense that it would be able to control its branches and roots, but still, it’s too different. The fruit look a little different too. It’s almost like it turned into a different, but similar species.
+
+“That’s probably exactly what happened.”
+
+Huh? How? If there are no monsters, how did it level? Does it have some kind of secret underground kill chambers where it takes all the monsters that spawn and kills them for experience?
+
+“You gain Racial Experience Points by aging as well.”
+
+Really?
+
+“One year per tier per level. A Tier 0 will naturally reach Tier 1 after 10 years, gaining one level per year. A Tier 1 will reach Tier 2 after 40 years, gaining one level every two years. And so on. But this only works if your age and Racial Level are aligned. If you level up your Racial level normally, you won’t start gaining them with age until you reach the age where you would have naturally gotten to that level. So you won’t be able to naturally gain any for a long time. More than a century, in your case.”
+
+Oh. Wait, how long has it been since the tree Awakened again? Lauren said it’s been like 120 years, right?
+
+“Right. So assuming it started at level 1 of Tier 0, it would currently be well on its way to Tier 3. Level 24 of 30. But it also might not have started at Tier 0. It could have started at Tier 1. It’s not likely, but it’s technically possible, in which case it would be at level 27 of 30. Assuming it hasn’t gained any excess experience points.”
+
+Oh. And if it evolved into a Named monster at Tier 2, then it would be pretty strong already.
+
+“And it likely did, based on the mana concentration. This is the product of either a Leader or a Disaster. An ordinary monster could not have caused this.”
+
+Right. Wait, does that mean that there’s a Named monster right there? I can go kill it and get another Soul Weapon right now?
+
+“Most likely not.”
+
+What? Why?
+
+“I have learned while making our Dungeon that generating true Named monsters is prohibitively expensive. Those Dungeons who threw them at you likely bankrupted their entire savings to do so.”
+
+So we can’t have Named monsters in our Dungeon?
+
+“Not easily, but we should be able to afford at least one with what we have now. If you give me more of that mana-rich meat. By the way, it’s time for a refill.”
+
+I take a moment to split up the remains of my food stores and shove them into the Dungeon in my Stomach. My food reserves are starting to look quite pitiful. I only have a few tonnes of meat left. The vast majority of the seafoodmen, boars, mussels, and eagles ended up in the Stomach. I kept enough to keep me fed and happy for a while, but the rest is just gone. I can only hope that the Dungeon is worth it.
+
+But Abby, wait, what did you mean about not being a Named monster?
+
+“Well, while creating a true Named monster is expensive, creating a replica of one is much less so. The same way you can make fake people, you can also make fake monsters. It will have all the abilities of a true Named, without any of the existential weight. And it also won’t contribute toward Taker of Names nor will it drop a Soul Weapon.”
+
+Wow, that’s lame as hell. Isn’t this, like, one of the most famous Dungeons in the world? Is he really so stingy he can’t afford real Named monsters?
+
+“Real Named monsters for every instance that gets created? Even the most popular, wealthiest Dungeons wouldn’t be able to afford that.”
+
+Yeah, but he could have made one for me.
+
+“And why would he do that?”
+
+Because I’m gonna save his life. Duh.
+
+“...Good point. You should see if you can negotiate with him for one on the next Floor. A single Named shouldn’t set him back too much. And all that would go a long way toward helping to build out the Dungeon. Actually, if you can, still kill that tree and eat it. We can at least use it to fuel the Dungeon.”
+
+Yeah, good idea. You’re smart. I’ll do that in that last hour after we finish the Floor.
+
+“Good plan.”
+
+Yes, yes it is. Now, back to the mystery at hand!
+
+I switch my attention from the tree to its surroundings as I continue my investigation. The metal ring is still there, and looks more robust than before, but it’s also broken and not working. The tree seems to be maintaining the illusion that it is, but I can tell that the mana in the engravings isn’t actually flowing properly. The tree is just kinda moving its own mana around in it randomly to make it seem like it’s working. Smart tree.
+
+Meanwhile, about two dozen gardeners are also present in the Sanctuary, working just as meticulously as everyone else in the castle to keep the Sanctuary clean and well-groomed. In addition to the gardeners, there’s another person who is completely out of place, though.
+
+A single old man stands perfectly still in the center of a circular clearing surrounded by trees. He looks like he’s sleeping, slightly swaying in the artificial breeze blowing through the enclosed garden. The gardeners pay him no mind, as if him being there is the most natural thing in the world. If I didn’t have Food Sense, and was just looking at him, I might have thought the same thing. Maybe he was just an old man enjoying the fresh air and ambiance of the Sanctuary. But, I do have Food Sense, and I think that this right here is the exact reason that the Dungeon Core said my abilities counter the Dungeon.
+
+The old man is not alive. His heart isn’t beating on its own. He isn’t breathing on his own. Instead, there are roots spreading all throughout his body, wrapping around his organs and bones, keeping up his appearance as a living person. The roots contract the heart to pump the blood, and they expand the lungs to draw in air. They have fully infiltrated his spinal cord, controlling his nerves to keep his muscles working so he can stand, and they spread all throughout his brain, no doubt controlling that too. They all originate from a seed growing from the interior of his stomach, which is full of soil and manure.
+
+So this is obviously the reason that the leaders of the city haven’t dealt with the plague. I wouldn’t be surprised if everyone who was “cured” was just like this. That would explain why they haven’t made any public appearances. They’re all busy acting like trees. But that doesn’t explain why the people haven’t acted independently.
+
+During our discussion before Operation Get Adopted began, Lauren pointed out how weird the attitudes of the people in the city are. No one seems overly concerned, despite the entire city being infected, and they are all perfectly content to wait until the cure can be produced on a larger scale. Couple that with the general weirdness I’ve seen from all the people in and around the castle, it’s pretty safe to say that the tree is also causing that somehow. And if it’s a Disaster type Named, that would explain the reason.
+
+But will that be enough to say we solved the mystery? I have a feeling that the answer there is “no.” I think that I will need to get a closer look at the tree. The only question is how…
+
+I spend the next half an hour just sitting around and observing the goings-on of the castle. The area I’m in isn’t warded that heavily, but there are soundproofing and anti-teleportation wards over all the important areas, including the Sanctuary. Once again, I could just break in, but that would have consequences, and it’s not like I’m in a rush. I can afford to wait. And maybe snack a little.
+
+I glance back at the servant tending to the room. She’s pretty occupied playing with one of the other cats, so after finding a suitably empty supply closet, I Blink away. The first thing I do in the closet is summon some Yona Lard™ and shape it into a Yona shape. It doesn’t look perfect, but cats can look kinda funky when they’re asleep, so it’ll have to do. Fortunately, since it’s my own flesh, it’s relatively easy to morph, and I can even make it grow fur, for some reason. It’s actually pretty gross, and I’m pretty sure this isn’t the intended use for my Class, but whatever.
+
+I Blink back to the room with my decoy, deposit it in the corner of the room, and teleport back to the supply closet. The servant didn’t notice at all, and hopefully, the “sleeping” lard decoy will be good enough to fool her for long enough that I can safely wander around. With that handled, I then summon a big boar leg to fill my belly, and once I’m sated, I find an empty hallway and Blink away again. Now is when the real infiltration begins.
+
+I don’t have any real stealth Skills, but I do have the Stealthy Trait, as well as Nimble and Traceless. Moving invisibly isn’t possible, but moving without being noticed around a few maids and other low-level laborers is child’s play. I Blink as far as I can before encountering wards, and from there, I just stick to shadows and corners, waiting for people to open doors for me.
+
+It doesn’t take long until I reach the doors to the Sanctuary, at which point I am forced to climb up to the ceiling and cling to it with my claws. There’s no cover anywhere near the doors, and no one coming and going anytime soon, so all I can do is wait. It’s half an hour before the door finally opens as one of the gardeners decides he’s satisfied that the bush he was trimming is perfect, at which point my legs are getting a bit sore. I stay up high, out of sight of the gardener and the guards, crawling down the wall, through the doorframe, and back up like a spider.
+
+As soon as I get inside, and look up, I let out an exasperated sigh. The glass is gone. I forgot about that. I could have saved myself so much time by just getting outside the castle, and climbing over it. There are guards and wards to prevent people from flying in, of course, but according to the twins, they won’t activate for simply mundane creatures, such as the house cat I have my Perfect Disguise set to. And I could pretty easily find a blind spot to climb the walls if I tried.
+
+Oh well. You live and you learn.
+
+I turn my attention to the tree itself, and now that I can see the trunk from up close, I can finally get a look at its Namecard.
+
+[ Maligar, the Patient Giver (Evolving) ]
+
+Huh. Interesting.
+
+“Oh, that’s not good.”
+
+What? Why not?
+
+“Patience is one of the Virtue Traits.”
+
+The Virt–? Ohhhh. Right. The Virtue Traits. Equal and opposite of the Sin Traits. The ones that are powerful enough to make an entire town starve themselves to death if given to a Named Disaster.
+
+“Yes, those Virtue Traits.”
+
+Right. Well, I think that solves the mystery then. And hey! It’s evolving! That means I can kill it pretty easily, right?
+
+“Yes. It is not conscious and will not fight back.”
+
+Perfect!
+
+I quickly make my way out the top of the Sanctuary and back to the inn, snagging a couple fruits on the way. The twins tell me that they confirmed that the fruits are poisoned, and I tell them what I found out about the city Lord and the tree, and as soon as I do, we all get the notification saying that the Quest is completed.
+
+[ You have both found the source of the visible plague, and the hidden plague affecting Maligar and completed the Floor Challenge! Reward: Maligar Spatial Chest ]
+
+[ Waiting for Party Leader to select course of action… ]
+
+The rewards that appear before us are tiny. They’re small enough to fit into a pocket, and made of wood, but when we open them, we can sense a relatively sizable spatial storage inside. It’s nothing compared to my Stomach, and the others already have more conveniently shaped storage options, but they’ll at least fetch a good price if we sell them.
+
+“Alright, I’ll be right back,” I say once we stash the rewards away. “Get to the outskirts of the city.”
+
+“Don’t take too long,” says Lauren.
+
+I Blink away through the city until I reach the castle, then switch to cat form and climb up the castle and back into the Sanctuary. From there, I leap onto one of the tree’s branches, summon the Gluttonous Greatsword, and stab it deep into the wood. The wood is quite sturdy, so the sword doesn’t go in all the way, but it goes in plenty to start absorbing the mana rapidly, and as it does, I Snatch a squirrel from one of the trees down below.
+
+“Hey.” I say. “I know you’re listening.”
+
+The squirrel doesn’t respond.
+
+“Well, it doesn’t matter if you don’t respond, because you don’t need to, but here’s what’s going to happen on the next Floor: You’re going to make the tree a real Named monster.”
+
+“What?!” exclaims the squirrel.
+
+“I know how Dungeons work. I know you can do it. And I know for a fact that you’re rich enough. I’m saving your life, so it only makes sense that you’d give me a reward like this.”
+
+“That’s– That’s insane!” says the Squirrel. “Don’t tell me you’re going to try and fight it!”
+
+“Of course I am. Why else would I want it to be real?”
+
+“No. I will not be making it real.”
+
+“Well, then I’m not helping you solve your Dungeon Destroyer problem.”
+
+“What? But you already agreed to do it!”
+
+“I didn’t pinky promise, so it doesn’t count.”
+
+“But the Delicacy!”
+
+“Wanna know a secret? If I just get it once, I’ll be able to recreate it on my own. I don’t actually need to keep you alive.”
+
+“What?!”
+
+Abby, I can do that, right?
+
+“Maybe?”
+
+Good enough for me.
+
+“So yeah. Give me that Named monster. I wanna kill it and get a Soul Weapon and stuff.”
+
+“...Frankly, it won’t actually cost me that much, but I still can’t do it. You say you won’t help me if I don’t, but you can’t help me if you’re dead either.”
+
+“You really think I’d lose?”
+
+“Yes.”
+
+“Me, a princess, the Chosen One, and a Named monster with a Sin Trait?”
+
+“Against another, more powerful Named monster with a Virtue Trait? Absolutely.”
+
+“Well, you’re wrong. I’ve already killed one Named monster with a Virtue Trait that was a Tier above me. I can do it again.”
+
+“Joshua shouldn’t count. He didn’t even fight back.”
+
+Shut up.
+
+“I can’t let you do this,” says the squirrel. “I have a conscience. I’m not going to assist in your suicide.”
+
+“How is it suicide if the Named monster is already there? You’re just making it real. The Floor isn’t getting any more dangerous.”
+
+“But you’re not supposed to fight it! At no point in this Dungeon are you ever expected to kill it, and starting on the fourth Floor, it’s impossible for anyone at your level. If you were a Tier higher, I might allow it, but as you are? Absolutely not.”
+
+“C’monnnn. Please?”
+
+“No.”
+
+“Pleeeeeeeease.”
+
+“No.”
+
+“Please please please please please please please please please please plea–”
+
+“Stop.”
+
+“–se please please please please–”
+
+“Stop!”
+
+“–please please–”
+
+“Okay, fine!” the squirrel shouts. “But on one condition.”
+
+“What is it?”
+
+“You can only fight it after you complete the Floor Quest. That way, you can simply ascend to the next Floor when you lose instead of dying.”
+
+“I was already gonna do that.”
+
+“Well, then you should have mentioned it,” says the squirrel indignantly. “Happy now?”
+
+“Yup!” I say. “Now, watch and learn, foot freak, and witness how I will kill this ‘unkillable’ named monster.”
+
+As I speak, the Gluttonous Greatsword reaches saturation, and I switch to cat girl form as I pull it out of the wood. From there, I summon a mana hand and slowly float down the trunk, dragging the sword along the wood so it can continue absorbing mana and not bleed it all off. Then, once I’ve reached a section that seems suitable, I charge up a Spatial Slice to its maximum, and cut across the wood. The ordinary Charged Spatial Slice gets about halfway through, so I charge up a second one, this time cutting at a slight angle to separate a wedge from the tree. I move the wedge to my Stomach, then float into the gap, charging up a third Spatial Slice.
+
+At this point, the gardeners below are freaking out, and the guards are starting to appear, but it doesn’t matter. The third Spatial Slice cuts all the way through, and with an enormous creaking and crash, the great tree falls.
+
+But of course, it’s not dead yet. Its root system is still quite intact, which is why the next thing I do is Snatch a big boulder from deep beneath the ground, leaving a nice, empty pocket of safety for me to retreat to. Then, I absorb the mana from the sword, form it into a Fireball, and make my escape.
+
+Even from my retreat deep below the earth, I can feel the power of the explosion. Just from in here, I can sense that the castle above me is basically gone, and so is the base of the great tree. As the debris settles, I Blink back upward to admire my handiwork. The Sanctuary is gone, and so is most of the castle, and a couple blocks of the surrounding area. The System notifications confirm that the tree is dead, along with everyone in a half kilometer radius. Apparently, though, there’s a bit of a nasty surprise with all those kills.
+
+[ You have slain Maligar, the Patient Giver, Tier 2, lvl 30. No experience awarded, as the enemy was an essence-free Dungeon construct ]
+
+There are similar messages about the experience on all the other things I killed.
+
+“What?!” I shout out loud.
+
+“The Dungeon Core likely didn’t want Adventurers massacring the homunculi for experience points.”
+
+“But what about the tree?!”
+
+“Well, he just said you’re not supposed to fight it either.”
+
+“This is dumb.”
+
+“But on the bright side, that won’t be the case for the next Floor, since the tree will be real.”
+
+“It’d better be,” I say grumpily. “I can’t believe he cheated me out of so many levels. Foot Freak, you’d better not cheat me out of the next ones too!”
+
+With that, I fly back to where the rest of my Party is, and we ascend to the next Floor.

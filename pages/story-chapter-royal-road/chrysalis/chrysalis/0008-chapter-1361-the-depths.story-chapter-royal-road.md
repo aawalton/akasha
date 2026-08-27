@@ -1,0 +1,97 @@
+---
+id: 5d748c37-19e1-58b5-8538-29ed4bd61585
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1361 - The Depths"
+slug: 0008-chapter-1361-the-depths
+partOf: chrysalis
+position: 8
+ownLength: 1085
+unit: words
+ownProgress: 1085
+publishedAt: 2024-06-25
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1691906/chapter-1361-the-depths"
+royalRoadId: "1691906"
+markedReadAt: "2026-06-29T19:43:54.537Z"
+---
+
+It takes a little while to find Solant, because she is doing what she always does, running around the place sorting out everyone else's problems. She’s like an industrial strength iron, running over the military operation beneath the nest and pressing out every tiny wrinkle she comes across. Actually, the more I consider the image, the more it seems to fit. Solant is inevitable, a tide of logistical efficiency that no problem, no matter how small, can hide from.
+
+As we move from chamber to chamber, tunnel to tunnel, we find nothing but an extreme example of pure ant organisation. There are troops training, running drills with the single-minded, relentless focus of insects. Supplies are being stockpiled, inventory constantly checked. Construction is everywhere, barracks chambers, hospitals, the works. The deeper we go, the more common it becomes, until at last we find the little general herself, overlooking a force of ten thousand ants running some sort of tunnel drill along with what looks like a hundred wuffers.
+
+“What in the name of heck is going on here?” I ask, trying to figure out what the complex movements might be for. The whole battalion shifts forward, backwards, some ants hopping over others, some slipping underneath, then they rotate, making it seem as if I’m staring into a horizontal whirlpool as streams of my siblings swirl around the walls. It's dizzying!
+
+“It’s about managing the movement of mana,” Solant says shortly, watching the drill underway like a hawk. Members of her personal squad are with her, as always, watching alongside, some annotating into a scent-book, literally taking notes.
+
+“I’m going to need more than that. Don’t we use mages to manage the movement of mana?” I ask, still confused.
+
+Solant sighs and I resist the urge to thwack her.
+
+“In the fifth, our greatest opponent is not the monsters we will face, although they are mighty and dangerous indeed, it is the mana itself. It is impossible, even for us, to produce enough mages to manage the flow of energy through an entire stratum. Even for small scale incursions, we have to do everything we can to reduce the burden on our wuffer auxiliaries, and the ant mages, to ensure they don’t burn out.”
+
+“That all makes sense, sure, but I need you to explain the trippy scene in front of me. I feel like I'm getting vertigo.”
+
+“We are monsters with cores, so we absorb mana constantly.”
+
+“I get that much.”
+
+“Which means, our movement is capable of influencing, in a small way, the flow of energy in an area.”
+
+“Ohhhh snap. So if there’s enough of us moving in a precise sequence…”
+
+Solant nods, satisfied.
+
+“That’s right. With a force this large, we can create a flow, drawing mana in towards us, or pushing it out. When we want more toxic mana to be fed to the wuffers in the centre of the formation, we can draw it in without exposing ourselves. When the wuffers have purified all the mana around them, we can push that clean energy out into the surroundings, weakening the toxic energy around us.”
+
+Holy moly. This general is proving to be everything I hoped she would be. The campaign hasn’t even started yet, but her out-of-the-box thinking is already paying dividends.
+
+“That’s awesome. I can’t wait to see it in action. Well, get the troops together. It’s time to sally forth into the fifth! I’m here and ready to go!”
+
+Solant actually huffs a little as she clacks her mandibles. She huffs! At me!
+
+“It will take a little time to get everything organised, Eldest.”
+
+“What? But Tiny is ready to go!”
+
+[Show her, Tiny.]
+
+He doesn’t know who or what I’m talking about, but the ape doesn’t fail to deliver, raising one brow, along with one tree-thick arm, and flexing.
+
+“See?”
+
+“Regardless of how ready you are, we haven’t gathered the necessary team. There are many moving parts to this, Eldest. I’ll get everything ready as quickly as I possibly can, but it will take some hours. Why don’t you head down to the forward operating base and wait there? That will give you an opportunity to see what we’re up against.”
+
+I’m tempted to unload a thwack just to emphasise the necessity of good attitudes, but I think that’s only because my head still hurts from the treatment mother unleashed upon me. I’m seeking to transfer my aching head to someone else and that’s not fair. I’ll be the bigger ant and refrain from such childish behaviour.
+
+“Alright, fine. We’ll meet you down there.”
+
+“Oh, I won’t be there.”
+
+THWACK!
+
+“What do you mean you won’t be there?!”
+
+“Ah! Eldest, was that really necessary?”
+
+“Answer the question!”
+
+“I have too many things to worry about here! Our preparations are reaching a critical stage and I have to make sure that everything runs perfectly. You’ll have capable members of every caste in your team, I’m sure you can manage them just fine!”
+
+“Alright, fine. But you watch yourself.”
+
+I tap an antenna against my own head then stretch it out to tap against Solant’s.
+
+“Make sure you keep your head on straight.”
+
+The little ant steps back, glaring up at me, then sighs.
+
+“Good luck down there, Eldest. It’s going to be difficult.”
+
+“Hah! I was made for difficult.”
+
+So saying, I turn away, and lead my three friends down towards the deeper tunnels. It doesn’t take long before we reach the main shaft, prepared by the Colony to pierce deep into the web of tangled tunnels below the nest. Despite the number of troops committed to this project, it still isn’t possible to keep the shaft free of monsters, so we run into opposition quickly, though it doesn’t last long.
+
+Eager to stretch his muscles, Tiny is more than happy to leap across the open expanse, smashing everything to bits. Seemingly without effort, he unleashes his meteoric fists, or simply grabs hold of the foes and obliterates them against the hardened stone walls.
+
+When we reach the bottom, the light is dim, the number of ants around us are few, and the mana is thick. Filled with life energy, the tunnels are awash with plants, and though dim, the light here is intense, filled with a subtle power imbued by the density of mana.
+
+And there are monsters. So many monsters. Clearly, the Colony still has a lot of work to do down here before the tunnels are properly cleaned out. Ah well, we can contribute a bit.

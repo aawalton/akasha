@@ -1,0 +1,147 @@
+---
+id: 160fc50e-1a4b-5b04-a151-15a365404117
+page-type-slug: story-chapter-royal-road
+title: "13 - Silver Level Threat"
+slug: 0013-13-silver-level-threat
+partOf: cat-girl-evolution
+position: 13
+ownLength: 2672
+unit: words
+publishedAt: 2025-08-23
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2540190/13-silver-level-threat"
+royalRoadId: "2540190"
+---
+
+From a distance, it wasn’t obvious what was wrong with the little fishing village. All the buildings appeared intact, the boats were bobbing up and down at the dock, and the breeze made the palms sway gently in the wind. On closer inspection though, there were a few things off.
+
+First, there was no one there. No people on the streets, no one manning the open air market, and no one on the ships. Second, those with excellent vision could notice patches of dark dried blood in the streets and along the dock. The third way was the mana. Those sensitive to mana would notice that the density in the region was much higher than it should have been. In fact, that was precisely what Guildmaster Ryan was checking as he stood at the top of the hill overlooking the village.
+
+“If you have a question, just ask,” he said without turning around.
+
+Behind him, Charlie flinched before laughing nervously. Ryan was one of two Silver rank Adventurers in Oakville, and the only active one. Charlie had even heard rumors that Ryan was once well on his way to Gold before he abruptly decided to retire to head the remote Oakville guild branch instead. Even if Charlie didn’t know those things, just the aura the man gave off was enough that he knew not to mess with him. And yet, he had let his curiosity get the better of him.
+
+“Sorry, sir,” he said sheepishly. “I was just wondering what the readings were saying.”
+
+“Nothing good,” said Ryan. “It’s higher than it should be. And even as we stand here, it’s increasing. This Named monster has been around for more than just a few days.”
+
+His tone was grim, but that made Charlie more excited. There were two dozen Adventurers on this mission, all hoping to get a piece of the experience and push to Silver. Charlie was worried that he would get unlucky and not be able to contribute enough to do it, but it looked like he had nothing to worry about. Stronger monsters meant more experience to go around.
+
+“Don’t act so excited,” said Ryan, somehow sensing Charlie’s mood without even turning around. “It’s more experience, yes, but it’s also more danger. Especially since this is a leader type monster. It would be different if it was a solo Named, but the mana will only keep increasing, and stronger and stronger monsters will spawn. I wouldn’t be surprised if that place is already crawling with Tier 2s.”
+
+At that, Charlie’s mood was dampened a bit. He had only ever fought two tier 2 monsters, and neither were pleasant experiences. He had to fight them with a full party, and while they had given good experience, he still had a scar from the tier two bear he had to fight a few months back.
+
+“Might have to put in an emergency request,” continued Ryan. “I don’t think this is something we can handle. And if it’s not handled quickly, the mana levels will be permanently altered, and it may even spread to Oakville. And if we all die out here and word doesn’t get back to the main guild in time, it could even evolve into a Gold or Platinum level threat.”
+
+Charlie was conflicted. On one hand, he really wanted to get the experience to push his Species to tier 2, qualifying him to be a Silver rank. On the other, the idea of a Platinum level threat was a sobering thought. A Platinum threat meant that a full squad of Platinums would need to team up to take it on, and Platinum adventurers weren’t exactly common. No matter how desperate he was, he didn’t want to cause something like that. All of Oakville would likely be wiped out if that happened, and as much as his mother nagged him, he didn’t want that to happen.
+
+“We should call it in right now then,” said Fiona, who had been more sneakily eyeing the mana measurement device from the other side.
+
+“I think I will,” said Ryan. “But we still need to scout it out more thoroughly. We know it’s an Ichthyoid type spawn group, but if we can get a better idea of the specific evolutions, it would help the Guild send a team more suited for the task.”
+
+He turned to the group of adventurers who were all waiting nervously around the hilltop.
+
+“Plans have changed!” he announced. “This is no longer a raid. This is a scouting mission. I only need a small team. Anyone who would like to join, please raise your hand.”
+
+Seven people raised their hands, including both Charlie and Fiona. The ones who didn’t were mostly warriors in heavy armor and mages with little mobility. The ones who did were generally rogues like Fiona, or warriors who had taken a more lightly armored path, like Charlie.
+
+“Good,” said Ryan. “Sierra, stay back for a moment. I’ll give you the message. The rest of you may leave.”
+
+With an even mix of disappointed grumbles and relieved sighs, the group began heading back up the road. It was an unfortunate waste of half a day of travel, but they had all signed up to deal with emergencies like this, so they couldn’t openly complain. Sierra, a young shaman and Ryan’s niece, stayed behind as he wrote a message on a piece of paper and handed it to her. Charlie watched over his shoulder as he wrote, but only caught a few words, such as “Ichthyoids,” “Low Silver threat,” and “potential Platinum threat.”
+
+Once Sierra had left, Ryan gathered the remaining Adventurers together for a briefing.
+
+“Remember, this is a scouting mission,” he said. “Our priorities are survival and information, not killing. Only fight if necessary. Keep your eyes and ears peeled for anything useful.
+
+“Ichthyoids are nocturnal monsters, so we’re going to head down in just a moment while we still have daylight and find a good place to camp out and observe. Ideally, we’ll be able to stay in one place and watch without being seen the whole time, and return in the morning. I doubt that will actually happen, so we’ll be preparing an escape route. Once again, you are not to engage the monsters unless absolutely necessary. Do you understand?”
+
+He looked at each Bronze Adventurer in turn until they nodded in affirmation. Charlie couldn’t help but feel like Ryan’s gaze lingered on him the longest.
+
+“Then let’s move. Nightfall is coming, and we don’t want to be moving around when it arrives.”
+
+They hiked down the hill, reaching near the edge of the village in close to half an hour. They stopped a few hundred meters out, and looked around for a bit before Ryan directed them to a slightly raised knoll off to the right. It overlooked the village and was covered in bushes, so as long as they laid down, it would be almost impossible to spot them.
+
+Once in position, they did their best not to move. As they laid there, not moving or speaking as the hours ticked away until sunset, Charlie began to regret his decision to volunteer for this mission. He wanted to stay where there was the best chance of experience points, but laying in a bush wasn’t what he had in mind. Still, he kept his complaints to himself. No one else was complaining, and he didn’t want to out himself as a whiner.
+
+When sunset finally did arrive, at first, nothing happened. Then, as they watched the monsters began to emerge from the water. There were over a hundred of them, and even from as far away as they were, it was obvious that they came in multiple varieties. There were ordinary, base Ichthyoids with fish heads, ones with eel heads, some small sharks, octopi, and as the night went on, they even saw a few great white shark heads.
+
+“Tier two monsters confirmed,” whispered Ryan so softly it was barely audible.
+
+It didn’t take a genius to figure out which ones those were. Just at a glance, the octopi and the great whites moved better and faster than the rest. There were only a dozen that they could see, but it was doubtful that was all of them.
+
+Ryan and most of the others kept an eye on the shore, making mental note of the monsters emerging from the water, but Charlie found his attention draw to a group of the small sharks that were walking up to the village. He watched as they entered the village, and occasionally disappeared behind houses and trees as they made their way up the main road. Charlie got goosebumps as they got further and further up, and had a sudden premonition of danger. Before he could say anything though, he heard a collective gasp from the others and looked back to the shore.
+
+Standing on the shore, flanked by four of the great white sharks and four octopi was the Named monster. It was outside of Charlie’s namecard range, but he didn’t need to be any closer. There could be no mistaking it. It was a head taller than even the already larger great white sharks, and though its head was more similar to the ordinary Ichthyoids, its mouth was lined with long, sharp teeth. It held a large trident, and by the light of the stars, Charlie could see that the end was dyed black with dried blood.
+
+“Fiona!” Ryan suddenly hissed. “You’re the fastest here. Go back to the Oakville. Tell them the Named monster is a Tier 3! It’s already almost a Gold level threat!”
+
+“W-what?” said Fiona.
+
+“Now! Go! Hurry!”
+
+His voice was barely more than a breath, but it conveyed all the urgency it needed to, and Fiona quickly extricated herself from the bushes and started making her way back up the hill.
+
+“Dammit, how the hell did it get the experience points already?” muttered Ryan. “Everyone else, get ready to move out as well. We can’t stay here.”
+
+As they all started to move, Charlie was suddenly reminded of the group of shark-heads that he had been watching walk up the village. He turned quickly, trying to locate them again, but found that they had disappeared. For a moment, he hoped that they had just gone into one of the houses. Then, he heard rustling from the bushes at the base of the knoll. Beside him, Ryan drew his sword. Charlie made to mimic him, but Ryan put his hand out to stop him.
+
+“They’re tier 2,” said Ryan. “You and the others run. I’ll finish these ones off and join you.”
+
+“But-!” started Charlie.
+
+“Go!” said Ryan. “You’re Bronzes! Stop being an idiot!”
+
+At that moment, the shark men emerged from the bushes wielding swords of bone, and before Charlie could decide what he wanted to do, a hand grabbed his arm and pulled him away. Reluctantly, he turned to run with the others, but as he did, he glanced back just in time to see Ryan behead one of the sharkmen with a single strike.
+
+The power of a high Silver, thought Charlie wistfully as he ran.
+
+He and the other Bronzes ran up the hill away from the village until they couldn’t hear the sounds of Ryan fighting, and then they slowed down a bit. They were generally a fast bunch, but running all the way back to Oakville wasn’t feasible. They still maintained a quick pace, but it was more of a powerwalk than a run. They moved like this for five minutes before the nervousness started settling in.
+
+Ryan should have joined us by now, thought Charlie.
+
+The others seemed to be having similar thoughts with how much they were glancing around and how much they twitched at every sound.
+
+After another minute, Charlie noticed something in the distance on the road. He quickened his pace, hoping he saw wrong, but when he was able to make out the details, his heart sank. It was Fiona. She was lying facedown on the road, but head had been twisted all the way around, and she was staring up at the sky with dead eyes and an expression of shock. Her knives were still in their sheathes. She had never even had a chance to fight back.
+
+Charlie and the others drew their weapons as the forest came alive around them. The octopus men they had seen down at the beach peeled themselves off the trees around, their skin changing from the color of bark to a dull red that was barely discernible under the starlight. Still in shock from seeing his sister’s body, Charlie barely had the wherewithal to check the monsters’ namecards.
+
+[ Octopoid, lvl ?? ]
+
+Two question marks, he thought vaguely. Definitely a tier 2.
+
+At that moment, Charlie gave up. He held his sword out and backed up to form a circle with the others, but he knew it was pointless. They were evenly matched in numbers, but each monster was strong enough to give the entire group trouble. There was no hope against all of them.
+
+As the octopoids advanced, Charlie found it difficult to focus. His eyes wandered and the only thoughts going through his head were of how his mother would feel.
+
+“Sierra,” muttered another adventurer.
+
+Charlie looked up and followed their gaze to a nearby bush where a boot was sticking out from underneath. He stared blankly for a moment, then started laughing.
+
+“What are you doing?” demanded another adventurer from behind him.
+
+“We were never going to survive in the first place,” said Charlie, still laughing.
+
+“We can still make it!” said another. “We just need to break through and-”
+
+Suddenly, everyone stopped moving, both monster and human. Charlie didn’t realize why at first until he turned and saw who– or rather, what– was coming up the road toward them. It was the Named monster, and now that he was closer, it was only more terrifying.
+
+[ Skarn, Ruler of the Shore, lvl ??? ]
+
+The monster walked toward them with a casual stride, picking his bloody teeth with a sword that Charlie recognized as Ryan’s. It wore no clothes, but its scales looked like armor, and the trident in its hand was almost three meters long.
+
+“Humans,” it rumbled, its voice so deep it seemed to shake the ground. “You should be honored. You are about to die to a king.”
+
+“Piss off, you scaly bastard!” shouted Charlie.
+
+“You will die last,” replied the monster.
+
+It took a step forward, and then, before any of them could react, it was in front of them. It ran two of the adventurers through with a single thrust. A small fireball splashed uselessly against his skin, and a sword bounced off with a loud clang, then two more died.
+
+“You humans are not even as strong as that cat.”
+
+Charlie shouted and rushed forward, stabbing, but the monster caught his blade in its bare hands, and with a violent twist, it tore it from Charlie’s hands.
+
+Charlie’s wrists were broken, but he kept pushing forward anyway, kicking at the monster. He swung his leg with all his might, striking the monster in the stomach, and immediately winced in pain. Skarn didn't budge an inch, and Charlie didn't need an assessment skill to know he had broken his foot as well. He fought through the pain as he dove for a dropped sword, but while he did, it ignored him and killed the final two adventurers. As Charlie charged forward with his final strike, he suddenly found himself lifted into the air. Surprised and with his wrists broken, his sword clattered to the ground, as the monster raised him up so that they were eye to eye.
+
+“You have spirit, human,” said Skarn. “You will make a good breakfast.”
+
+Then, it leaned forward and opened its maw, revealing multiple rows of razor sharp teeth. The last thing Charlie saw was the darkness at the back of its throat.

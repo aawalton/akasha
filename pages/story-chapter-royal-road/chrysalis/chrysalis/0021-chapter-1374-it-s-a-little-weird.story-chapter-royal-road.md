@@ -1,0 +1,101 @@
+---
+id: 5759ea8a-abe2-5feb-8771-099f7b4fdd8f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1374 - It’s a Little Weird"
+slug: 0021-chapter-1374-it-s-a-little-weird
+partOf: chrysalis
+position: 21
+ownLength: 1004
+unit: words
+ownProgress: 1004
+publishedAt: 2024-07-19
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1723238/chapter-1374-its-a-little-weird"
+royalRoadId: "1723238"
+markedReadAt: "2026-06-29T19:44:19.556Z"
+---
+
+So… Morrelia is going to hang out with the Colony again. That’s… fine. It’s fine.
+
+Though if her two fellow Legionaries could stop looking at me like I spat on their mother’s kitchen floor, I’d appreciate it.
+
+I mean, I get it. They think that all the monsters they see around them are going to turn insane and submit to the will of the Ancients, thus turning against all non-monstrous life on Pangera. Every ant they see is a future enemy, so why would you be happy to see so many of them, working so industriously?
+
+You wouldn’t! You would be distinctly unhappy.
+
+So I can’t quite find it in myself to blame them, but I sure wish they’d get with the program and realise the Colony is different. We won’t be succumbing to any such outside influence, thank you very much! Although if they ask me why the Colony is safe from outside influence… I don’t think I’ll be elaborating much.
+
+Which leaves me with only one course of action! If I amass meritorious deeds and allies, then the Legion won’t have anyone to help them if they decide to try and exterminate the Colony.
+
+[So… are you really cleared to stay here for a week?] I ask Morrelia as I escort her and her two fellow Legionaries to their rooms.
+
+[I’m an officer, Anthony. I’m able to make decisions.]
+
+[Really? Your commanding officer doesn’t care if you hang around here for a couple of weeks and go on manoeuvres with a group of monsters? That’s… not what I would have expected.]
+
+[From the Legion?]
+
+[Well, yeah. You guys don’t exactly have a ‘monster-friendly’ reputation.]
+
+That’s putting it mildly.
+
+[In this case, I can justify it by saying the target is inviting us to be near them and allow us to collect intelligence. Why would we decline such an opportunity?]
+
+[Oooo, that’s sneaky. When did you get sneaky? I remember you being more of a ‘slice first, think later’ sort of berserker.]
+
+She grunted.
+
+[The training we go through to be officers is thorough in the extreme. The Legion hasn’t lasted for thousands of years without ensuring our officers aren’t stupid.]
+
+Well… I suppose that makes sense. Say what I will about the Legion, the fact they’re still around speaks volumes about their organisation. They aren’t a country, they’re an independent military force, who’ve fought against the Dungeon across the entire planet on every stratum. Well, every stratum that I know of.
+
+[Do you guys have a presence in the fifth?] I ask, curious.
+
+Morrelia hesitates before nodding.
+
+[Yes. I did part of my training there. It… wasn’t pleasant.]
+
+[And that’s not a secret you aren’t supposed to share with your ‘target’?]
+
+[I’m trying my best to manage my divided loyalties, Anthony. Don’t make it harder for me.]
+
+[Enough said. My mandibles are sealed.]
+
+I snap them shut for emphasis, causing the two accompanying Legionaries to jump in alarm, hands flashing to their weapons. Heh, what could you even do with those? I’m a tier seven mythic monster, two of you aren’t going to be enough.
+
+By the time we finish in the fifth, I might even be tier eight. I estimated earlier it would take us a year to get through the stratum below, which might be enough time for me to gain the levels I need. I mean… it’s a heck of a lot of levels.
+
+[Well, down this corridor is the section set aside for humans. You can tell because it’s too small for me to enter. Pick a room, any room, make yourselves comfortable. We don’t have much in terms of supplies down here, given where we are, but I’m sure someone will do a run to get you some creature comforts soon enough.]
+
+[There’s no need,] Morrelia assures me, [we have what we our own supplies.]
+
+[Someone will do it anyway,] I shrug my antennae, [we take hospitality seriously around here.]
+
+So saying, I leave the three Legionaries to settle themselves, only to have Brendant approach me the moment I leave the fort.
+
+“Eldest, you met with the Legion and they’re staying with us? Can I ask what’s going on?”
+
+Whoops. I guess I kind of went and did my own thing without asking if I should. Hopefully, the rest of the Colony doesn’t mind.
+
+“Morrelia came with a couple of others to observe and learn about our progress in the fifth. I gave her the details, showed her the wuffers, and she asked if she could come down on the next mission. I thought it couldn’t hurt, so I agreed.”
+
+Just when I’m wondering if Brendant is going to be mad about it, she merely nods.
+
+“Very well. I’ll let everyone know of the change in arrangements. We’ll need to send for supplies as well, since our stock of human furniture is poor at the moment. I don’t think their rooms even have rugs. Terrible!”
+
+She turns to scuttle away but I call out to her before she can get too far.
+
+“Is it a problem that I’ve arranged this on my own? Are you worried things might go poorly for us? I invited the enemy straight into our mission….”
+
+She clacks her mandibles in amusement.
+
+“If you think it’s worth doing, then it is, Eldest.”
+
+Ugh. Not only do my antennae flood with the scent of pure conviction coming from Brendant, but I can feel that same ironclad belief ringing through the Vestibule.
+
+Dammit! I’m not worthy of such blind trust!
+
+Without another word, Brendant is off, ready to take care of the administrative details my change in the plans has brought about. I can only sigh heavily. This level of trust… It's a heavy burden that I’m only beginning to learn how to grapple with.
+
+Hey, as long as I don’t make any major mistakes, it’ll be fine.
+
+Well… maybe I’ll go check in with the preparations and see if there’s anything I can do to help. No harm in being careful now, is there?

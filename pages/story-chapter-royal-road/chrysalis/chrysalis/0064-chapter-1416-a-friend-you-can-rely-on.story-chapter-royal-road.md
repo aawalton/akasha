@@ -1,0 +1,81 @@
+---
+id: 7f660b07-93cf-5f84-bdb1-2e27e39015c1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1416 - A Friend You Can Rely On"
+slug: 0064-chapter-1416-a-friend-you-can-rely-on
+partOf: chrysalis
+position: 64
+ownLength: 897
+unit: words
+ownProgress: 897
+publishedAt: 2024-09-24
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1817224/chapter-1416-a-friend-you-can-rely-on"
+royalRoadId: "1817224"
+markedReadAt: "2026-06-29T19:45:40.814Z"
+---
+
+When it comes to the obsessions that form the centre of a Demon’s identity, many fail to realise just how broad the scope of what can form this obsession really is.
+
+This is most likely due to the prevalence of certain obsessions, especially those that tend to form around the fifth and sixth tiers. Wrath, Pride, Greed and so on, the fundamental building blocks of almost all demonic obsessions, are practically synonymous with the denizens of the third stratum.
+
+However, these are not the only possibilities. Firstly, it is important to note that as a Demon type monster evolves further, its obsession can, and often does, grow more complex, gain nuance that it didn’t possess before. Demons who seek knowledge may now hunt only for particular fields of information, or chase specific sources. Demons who obsess over slaughter may now demand certain types of prey, or specific methods of killing.
+
+Secondly, one must consider the paths less travelled: obsessions that simply do not pop up as often. In my studies, I have encountered reliable cases of demons with truly rare and often bemusing obsessions. These include:
+
+Gardening.
+
+Words starting with the letter ‘Z’.
+
+The scent of fried food.
+
+Red and Orange.
+
+Carpets.
+
+Poems by Margrave De’Champaugnee (of which only three exist).
+
+-           Excerpt from ‘On Demons’ by Magio Scholar Liruen
+
+Not for the first time, Invidia considered what it meant to be a true friend. In fact, this was something he thought of often. To be even more precise, it could be said that this was something he pondered almost constantly.
+
+To put it directly: he was obsessed with the idea.
+
+Not only did he want to know the answer to this question, he wanted to be the answer to this question. Every moment of every hour, his prodigious mind was turned to this purpose, and he felt that, even so soon after his evolution and the subsequent shift in his obsession, he was starting to get a few solid ideas.
+
+Firstly, a friend was loyal.
+
+Tiny turned and gave Invidia a thumbs up, and the little demon returned the gesture with his own, stick-thin digits. Another wave of attackers had been successfully dispatched, and there had been only minimal damage done to the safe-zone.
+
+There was no need for anyone to mention the three separate occasions in which the big ape had attempted to leap out of the blue mana field, only to trip over himself as the command of their Master prevented him from carrying out the action.
+
+Secondly, a friend would say the things that needed to be heard, not only the things that someone wanted to hear.
+
+He fluttered up next to Tiny and placed his little hand on the massive, broad shoulder of his brother.
+
+[It issss too dangeroussss to try and leapssss out. If you tripssss and fallssss, you may getssss poisoned. If it getsssss into your handssssss… no punching for daysssss.]
+
+Tiny pondered this advice for a moment, his frown growing deeper and deeper, until finally he was seized by fear and began to shake his head furiously. Of course Tiny didn’t want to have to wait for his hands to heal! It would be very upsetting if he couldn’t punch!
+
+This was already the third time that Invidia had pointed out this potential issue to his brother, but with each incident, Tiny came that little bit closer to injuring himself, and the message seemed to sink in that little bit further.
+
+In this way, Invidia acted as he determined a good friend should, and Tiny seemed to appreciate it. The big ape gave him a quick thumbs up and Invidia returned the gesture, all the while feeling deeply satisfied inside.
+
+Yessssss. Givesssss me your friendsssship!
+
+His eye gleamed with satisfaction as he felt a brief moment of fulfilment. Of course, it faded all too quickly, leaving Invidia greedy for more. It was fine, he had only just begun to take his steps along this new path. In time, he would accumulate more and more friends, and he would help them all, and they would feel grateful towards him, and he would enjoy this sense of satisfaction all the time!
+
+He fluttered his little wings happily as he contemplated this future. Of course, there was one being from whom he desired friendship more than any other: his Master, but Invidia had a plan, and he would be patient.
+
+He turned his attention once more to the tunnel he and his brother were defending. The mana beyond the blue safe-zone almost seemed to boil of its own accord, as if the fifth itself rejected their presence, was enraged by the invasion. Even at the edges of his mana sense, he could feel the energy of this place writhing and drifting toward them, trying to smother this unwelcome infection before it took hold.
+
+Deep in his pocket dimension, his brain flexed, and a hundred mind-constructions began to churn. Mana was woven at dizzying speed as he reached out and…
+
+BOOM! BOOM! BOOM!
+
+Explosions began to rock the tunnel as Invidia attacked the beasts creeping towards them. Tiny watched on, sad that he couldn’t also reach out and fight.
+
+[You will have your turnssss soon,] Invidia assured him.
+
+The ape immediately brightened as he was comforted, and Invidia once more felt that sense of satisfaction.
+
+After all, wasn’t that what friends were for?

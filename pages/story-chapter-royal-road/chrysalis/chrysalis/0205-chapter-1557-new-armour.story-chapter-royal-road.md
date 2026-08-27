@@ -1,0 +1,81 @@
+---
+id: 6715edc1-f166-588c-99d5-895b04721fb2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1557 - New Armour"
+slug: 0205-chapter-1557-new-armour
+partOf: chrysalis
+position: 205
+ownLength: 1035
+unit: words
+ownProgress: 1035
+publishedAt: 2025-04-23
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2223576/chapter-1557-new-armour"
+royalRoadId: "2223576"
+markedReadAt: "2026-06-29T19:50:22.740Z"
+---
+
+As promised, I did end up taking a break. After my gravitational mana was restored, I dumped all of it, along with all the energy in the Altar, and absolutely flattened everything attacking the platform with Gravity Wells. It helped, for sure. The defending battalions were able to clean off the platform, organise the lines, get healed and enjoy a brief respite. Despite throwing out as much gravity magic as I’m personally capable of, it didn’t hold back the tide for long. Small fights were already breaking out before I’d even gotten off the platform, faster monsters racing through the muck to throw themselves at the defenders ahead of the rest.
+
+I’m not happy about it, but there isn’t much I can do about it. Despite my incredible endurance, I still need to rest every now and again. I’ve been battling constantly for days on end, exposed to the toxicity of the fifth over and over again. I’m due for a juice cleanse, I suppose.
+
+As usual, the healers pick over me, grumbling and irritated as they hunt down every stray speck of toxicity and corruption in my body before sending me on my way. There are massive barracks stacked on top of each other close to the platforms, helping to keep up the absurd turnover rates for the battalions fighting out there. If there are twenty thousand on the platform, then there are eighty thousand waiting to go out there at a moment’s notice. There’s enough space for me to pull into a more open rest area and plonk myself down against the wall.
+
+Emotionally drained from the constant fighting, I’m asleep in moments, the world fading away as my thoughts grow still. Sweet, sweet torpor.
+
+I’M UP! WHOO!
+
+Refreshed, full of beans, empowered and enlivened. I’m ready to attack, ready to fight, ready to conquer! But first: breakfast.
+
+Getting a decent feed down here isn’t easy, given the horrific, toxic nature of the Biomass we find. Truly vast quantities of food are being shipped down from above, but interestingly, once I report to the mess hall, I find that some of the newly spawned creatures that have begun popping up in the fortress are on the plate.
+
+“Are we sure this stuff is safe to eat?” I ask the ants who delivered the food.
+
+“It’s been tested and cleared,” she says with a shrug of her antennae. “It’s a good thing there’s something spawning around here we can eat.”
+
+Well, that’s no lie. I tuck in, getting several system messages from the bushy bearded one as I do.
+
+[You have consumed a new source of Biomass: Musculus Vorator, you are awarded one Biomass]
+
+[You have consumed a new source of Biomass: Fames Thrombocyti, you are awarded one Biomass]
+
+[You have consumed a new source of Biomass: Venatio Leucocytos, you are awarded one Biomass]
+
+Hey, I’ll take three extra points of Biomass. That’s what we call winning. As I continue to munch, I idly check the profiles. I’m interested to see if Gandalf has something informative to say about these beasties.
+
+[Musculus Vorator: Devouring Muscle, these small monsters aren’t that threatening on their own, but when they form into a pack, they are significantly more dangerous. Able to attach to each other and merge their flesh, these creatures can pack a punch.]
+
+[Fames Thrombycyti: Hungering Platelet, these monsters are known for their ability to contain Biomass for extended periods. They seek to suck in and consume their prey, moving the stored Biomass to a safe place where they can digest it over time.]
+
+[Venatio Leucocytos: Hunting Leukocytes, a specialised predator who seeks out parasitic monster types, consuming and dissolving them within its gelatinous form.]
+
+Fair enough, why not? All of these monsters seem weird to me, but it's the fifth, is anything normal around here? If they want to start spawning all over the place, they can, why the heck not.
+
+Putting it out of my mind, I head off to find Smithant, who is, predictably, working at her forge. I don’t even get the chance to open my mouth before she springs at me.
+
+“You’re here, finally!” she declares, tapping on my carapace with her hammer.
+
+“Hey, don’t scuff the diamond!” I protest.
+
+“Move it! Over there, on that seat. Can I get some help in here?!”
+
+Moving the heavy armour pieces is too much for Smithant alone, but with help she’s able to get it all on me and then starts inspecting the fit. Feeling like I’m rather unnecessary to proceedings, I sit silently while the smith pokes, prods, measures and mutters to herself. After removing a few pieces and angrily smacking the heck out of them at the forge, she cools them down and puts them back on.
+
+“It’s good enough,” she declares. “How’s the helmet feel?”
+
+“Uh… heavy.”
+
+“Good.”
+
+I have to say, I’m not used to wearing… well… anything, anymore. Smithant has fitted me with rings and other small pieces every now and again, but this set is a bit more robust than that. With layered plates covering my leg joints, even fitted over the joints between my body segments, there’s a heck of a lot going on. It’s a heap of added weight, several tonnes’ worth, and the helmet is the icing on the cake.
+
+Obviously, it leaves space for my eyes and antennae, making sure not to inhibit the motion of my mandibles as well. Overall, it does a good job of covering the clear areas of carapace along the front and sides of my head, which will hopefully help keep me alive if I decide to empower another Starcrusher.
+
+“It’s all enchanted, some of my best work,” Smithant boasts. “Highly resistant to corrosion and corruption, it should hold up fairly well even in the fifth. It should even help accelerate your mana absorption, just an added bonus I slipped in there.”
+
+Well, if it keeps me safer out there, that means I can do more, which will be a big help.
+
+“Thanks, Smithant. I appreciate this,” I tell her, and she clacks her mandibles with satisfaction.
+
+“Well, I’d better get back to it.”
+
+Back to the platform. When the heck is this wave going to end?!

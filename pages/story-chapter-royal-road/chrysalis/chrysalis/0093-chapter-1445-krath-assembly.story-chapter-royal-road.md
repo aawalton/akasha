@@ -1,0 +1,69 @@
+---
+id: 4ddd6072-20a9-5c66-8d20-216b3d6ee61f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1445 - Krath Assembly"
+slug: 0093-chapter-1445-krath-assembly
+partOf: chrysalis
+position: 93
+ownLength: 1008
+unit: words
+ownProgress: 1008
+publishedAt: 2024-11-04
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1883649/chapter-1445-krath-assembly"
+royalRoadId: "1883649"
+markedReadAt: "2026-06-29T19:47:01.231Z"
+---
+
+“Is it really necessary for me to be here for this?” Goszi burbled unhappily. “My foot aches like I dipped it in an acid swamp. I’m too old to be traipsing around the tunnels on a long journey.”
+
+Zluth didn’t bother to dignify that with a response. The older Krath took every opportunity to make himself seem harmless and elderly, while in reality only one of those things was true.
+
+“Pay attention,” he hissed, stabbing one of his thin arms towards the other Krath, who, despite his advanced age, managed to parry the limb with ease. “If I have to feed you to a sump sloth to escape after your yapping brings the monsters down on us, I will do it with glee!”
+
+Goszi glared at him.
+
+“I’m starting to regret picking you as the next Krath’lath,” he muttered. “At least the old one wouldn’t force me out of safety.”
+
+“With the old Krath’lath, you and the entire tribe would be dead,” Zluth scoffed. “To escape that fate, you had to reveal what a scheming, underhanded betrayer you are, which is why I don’t let you out of my sight.”
+
+The compliments mollified the aged slug a little, and he slid along quietly until they reached the meeting point.
+
+Puzith, Krath’lath of the Suggoth, was there to greet them, along with five of her trusted enforcers.
+
+Hidden amongst a deep patch of moss, the slugs came together and conversed quietly while concealing themselves.
+
+“You made it on time,” Puzith observed.
+
+“I would not dream of keeping the leader of a powerful tribe like the Suggoth waiting,” Zluth replied, his eyes curving into wicked moons as he did.
+
+Puzith did not laugh, though her eyes also curved, indicating her amusement. The Suggoth were indeed a much larger and stronger tribe than the Slee, even before they were devastated recently, but they were on their way to meet with tribes that were much larger still. The Bulg, the Lirz and Thuuz would all be in attendance, along with a host of smaller tribes, but those three represented the real power in this area of the stratum. They occupied prime territory, close to the heart, and were housed in enormous Slimegrounds ten times the size of the Slee hideaway.
+
+At least, that’s what Zluth had heard. He certainly wasn’t going to question it when he met them.
+
+“Let us be away, we have a long way to go.”
+
+A statement that prompted further grizzling from Goszi, but nobody paid him any mind. For over a day, the eight slugs moved through the treacherous ground of the fifth stratum. Even to the Krath, these tunnels were filled with danger, and one wrong movement could have them killed a dozen times over. The slug tribes had never ruled this place by might, but by their wits and cunning, and it was in this manner that they travelled.
+
+Punishingly narrow and concealed cracks in the walls were used as resting places, or shortcuts from one tunnel to another. They sunk deep into mucus rivers when it was safe to do so, sliding along the bottom and using the dense muck as protection.
+
+Puzith lost one of her guards on the journey when the fool was too hasty, sliding onto an unfamiliar patch of moss. As it turned out, it wasn’t moss, but the cleverly patterned tongue of a Slurp Dragon. The Krath barely had time to blink before he’d been wrapped up and pulled into the jaws of the concealed beast.
+
+The rest of them had frozen in place for over an hour, waiting for the monster to finish its meal and move to another hunting ground, Puzith sizzling with quiet fury the entire time. Zluth wisely chose not to say anything.
+
+Fools didn’t live long in the fifth.
+
+Finally, they arrived at the gathering place designated for the meeting. Todrool falls, a vast tower of slime that cascaded from the upper levels of the stratum down toward the heart below through a hundred kilometre long vertical tunnel, had been selected for this purpose. First, because it was a place every tribe knew of, and second, because of the immensely powerful monster who made their home in the area. The upper areas of the falls were always clear, for none dared to enter lest they become prey for the beast.
+
+Zluth, Puzith and the others squished themselves almost completely flat as they crept toward the entrance to the falls. There weren’t many good places to conceal themselves, and these became even more rare as they approached, as they noticed the emissaries of the other tribes had gathered, huddling in what cover they were able to claim.
+
+As the representatives of smaller, weaker tribes, they made do with what little they could find on the outskirts of the gathering, watching with barely extended stalks as more and more Krath arrived.
+
+Then the first of the major tribes arrived.
+
+Zluth thought it was the Bulg, judging by the distinctive mottled colouring they chose as they moved boldly in the open. A full fifty slugs, their Krath’lath slithering along at the head of the column, enormous and radiating confidence. The other tribes pulled away as the Bulg marched through to take pride of place right at the entrance to the falls, but before they could become settled, the other great tribes arrived as well.
+
+Tensions ratcheted up as the Thuuz and Lirz made their appearance. They also had brought dozens of slugs, who looked down on the huddling leaders of the minor tribes with open contempt. Zluth sizzled with quiet fury, but knew there was nothing he could do about it. He would need to be subtle, and get the great tribes on his side, if he wanted to achieve his goals.
+
+After all, they needed him. No other slug had more information on the invasion than he did.
+
+As the major tribes openly feuded for better positioning at the edge of the falls, the other leaders crept forward. It was time for the gathering to begin.

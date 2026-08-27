@@ -1,0 +1,169 @@
+---
+id: eac28952-839a-5718-b3d0-e685880167a0
+page-type-slug: story-chapter-royal-road
+title: "137: A Familiar Face"
+slug: 0137-137-a-familiar-face
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 137
+ownLength: 1817
+unit: words
+publishedAt: 2026-04-10
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3256304/137-a-familiar-face"
+royalRoadId: "3256304"
+---
+
+A lot had happened since Chloe left Ishgria. And now she was just… back. It felt a little unreal if she were being totally honest.
+
+She walked alongside Sierra and Raenof as they entered a very familiar slum, one Chloe recognized almost immediately. This was the exact same place where she had once asked for directions to the Adventurer’s Guild, only to somehow end up at the Thieves Guild instead.
+
+In hindsight, that was kind of a wild detour. That one decision had basically kicked off a whole chain of events that probably would've never happened had she gone to the adventurer's guild.
+
+Maybe there was a world where Chloe maybe could've been some super famous adventurer. Maybe she'd even get some cool titles like Chloe the Dragonslayer like in the games she used to play. But then again, there was also a chance that she could've just been killed, since she wasn't exactly the most subtle back then. She wasn't too subtle now either, but hey, she was at least slightly better at it.
+
+Anyway, Mr. White was was safely tucked inside Cloaky again, because even in a place like this, an undead skeletal horse was probably still a bit much for casual public viewing. Chloe glanced around as they walked, taking in the surroundings.
+
+The streets were narrow and uneven, with cracked stone and patches of mud that made walking a bit annoying. The buildings looked old and worn, with random cloth and scraps hanging between them.
+
+Still, the place felt weirdly familiar. Chloe tilted her head as she glanced down one of the alleys, trying to remember something. She was pretty sure she had seen that one guy here before… the one she called Happy Beard Man.
+
+She frowned a little and looked around again, but didn’t see him anywhere. “Huh.”
+
+Iris glanced at her from the side. “Did you notice something?”
+
+Chloe blinked, then straightened up quickly like she totally hadn’t been zoning out. “Huh? It’s nothing, just thought I saw someone I recognized. It’s not important.”
+
+Iris looked at her for a moment longer, then nodded and didn’t push further. “In that case, we should head to the Thieves Guild here. It’s about time we move to the next stage of the plan.”
+
+“Wait, what plan?”
+
+“The one where we save Ishgria."
+
+“Oh! Right, that plan."
+
+Raenof let out a quiet breath beside them. “As long as wherever we’re going smells better than this place, I’ll consider it an improvement."
+
+Sierra nodded quickly, pulling her cloak closer around herself. “I… I agree."
+
+Clearly the most uncomfortable out of all of them. Being a beastkin probably meant her sense of smell was the strongest among them, which really didn’t help in a place like this.
+
+Iris reached into her cloak and pulled out two cloth masks, handing one to Raenof and one to Sierra. “You should wear these for now. Because honestly, the Thieves Guild does not smell much better.”
+
+Raenof and especially Sierra were thankful and put the masks on quickly. And after that, the group moved ahead until something familiar came into view. A wooden sign hung ahead, swaying from rusty chains, carved with the image of a cracked crown.
+
+Chloe’s eyes lit up a little. “Oh hey, I remember this place.”
+
+“When exactly did you come to a place like this?” Raenof asked.
+
+“Oh, this? Yeah, this was like one of the first places I visited in Ishgria. Or, okay, maybe not the first first, but definitely up there. Kinda funny, right?”
+
+Raenof chuckled, shaking his head slightly. “You really do have a knack for getting drawn into trouble."
+
+Chloe grinned immediately, way too pleased with that. “Yeah, and look where it got me,” she said, gesturing at him, then at Iris and Sierra. “I ended up with you guys, so I have to be doing something right.”
+
+Raenof let out a sigh, while Sierra gave a small, shy smile. It was nice having friends.
+
+Not long after, they stepped inside the Thieves Guild, and Chloe blinked as she looked around, clearly caught off guard. The place was way busier than she remembered, and it was already pretty busy before.
+
+People filled almost every corner, some talking loudly, others laughing, while a few argued like they were about to start a fight. And the whole place, as usual, was filled with all kinds of shady-looking people. But what was more noticeable, however, was the new "furniture" in the bar area. New barrels had been stacked along the walls, some used as makeshift tables, while others were being used for activities that Chloe didn't want to think too much about.
+
+Chloe’s eyes lit up as she spotted a familiar red-haired woman behind the bar. “Oh!” she said, immediately walking over. “Heya, Roxy!”
+
+The red-haired woman looked up, then narrowed her eyes slightly as she gave Chloe a slow once-over. “Do I know you?”
+
+Chloe put a hand on her chest like she had just been personally attacked. “Wow, of course you know me, I’m the one who survived your drink, the Roxy Special. Remember that?”
+
+Roxy stared at her for a second longer, then suddenly snorted. “No way, you’re that girl?”
+
+Chloe pointed at herself proudly. “That girl, yes.”
+
+“Hah, didn’t think you’d make it, Princess. But then again, you survived my special, so I guess I shouldn’t be too surprised.”
+
+“It’s called being built different, duh."
+
+“Yeah, yeah. Wait… you’re also the one who didn’t know what a cocktail was, right?”
+
+Chloe froze for half a second. “Okay, first of all, I totally know what that is now.”
+
+“Oh yeah?” Roxy asked, raising a brow.
+
+“Yeah,” Chloe said confidently. “It’s like… a drink, but mixed. And sometimes there’s, like, decorations on the drink too.”
+
+Roxy snorted. "That’s called garnish, Princess.”
+
+“Close enough, but point is, I know words now."
+
+Roxy laughed,. “So what’ve you been up to then? You look like you’ve gotten yourself into more trouble.”
+
+Chloe lit up instantly, already leaning forward. “Oh, you have no idea, I fought this lightning lady and then I literally—”
+
+A light pat landed on her back, cutting her off mid-sentence. Chloe slowly turned her head, and sure enough, Iris was standing next to her. “Maybe the two of you can catch up later."
+
+"Yeah, yeah, got it,” Roxy said.
+
+Chloe blinked, then looked between them. “Wait, are we meeting Ray?”
+
+Iris shook her head. “No, we are not.”
+
+“Ray’s out on a job right now,” Roxy said.
+
+“Okay, then who are we here to see?” Chloe asked.
+
+Iris glanced at Chloe, then lightly gestured toward the stairs. “The time for introductions will be later. We’ll speak once we’re upstairs.”
+
+Chloe immediately puffed her cheeks out a little. “Ugh, fine."
+
+She turned back to Roxy anyway and gave her another wave. “Don’t forget about me, yeah? I survived your drink, that means I deserve, like, a discount or something.”
+
+Roxy snorted and waved back. “Yeah, yeah, get lost, Princess.”
+
+Chloe grinned to herself, completely satisfied, then turned and followed after Iris. Raenof and Sierra trailed behind as the group moved through the crowded guild, weaving between tables, barrels that were used as tables, and more barrels that were once used as tables.
+
+By the time they reached the second floor, it was noticeably quieter. They stopped in front of a familiar door, and Chloe tilted her head as she stared at it. “Wait, isn’t this Ray’s office?”
+
+“It is,” Iris said. “But like I said, Ray isn’t here. You’ll be meeting someone much more important.”
+
+Chloe blinked. “Who?”
+
+“The leader of the Thieves Guild.”
+
+“Oh, so like your boss?”
+
+“In more ways than one, yes.”
+
+Before Chloe could ask anything else, Iris opened the door and stepped inside. Chloe followed right after, curiosity getting the better of her, with Raenof and Sierra close behind. The moment everyone entered, Iris shut the door behind them.
+
+No amount of warning could’ve prepared Chloe for what she saw sitting at Ray’s desk. Sitting there was Happy Beard Man, the same guy who she was pretty sure was just some random homeless guy.
+
+He looked exactly the same as before, with his thick, messy beard, worn-out clothes, and that overall “definitely lives in an alley” look. There was nothing about him that screamed “leader of the Thieves Guild,” which made the whole thing feel really suspicious.
+
+Chloe squinted hard at him. “What are you doing in Ray’s office?”
+
+“I merely chose a form that would be familiar to you. We have not spoken much before, as you might already be aware."
+
+Chloe froze for half a second. For some reason, Happy Beard man sounded like a noble, someone who belonged in a grand hall, not… here.
+
+She pointed at him. “Yeah, no, that voice does not match the whole alley aesthetic you’ve got going on."
+
+The man smiled. “I simply find certain disguises more convenient than others. This one, in particular, serves its purpose well.”
+
+Sierra peeked out slightly from behind Chloe. “W-When did you and Chloe meet…?”
+
+The man inclined his head slightly. “I was the one who directed her here."
+
+Chloe blinked a few times, then scratched her head. “Wait, who are you if you’re not just some random drunk guy?”
+
+The man's smiled widened. "I'll show you."
+
+It started subtly, but Chloe felt how a strange, heavy pressure settled into the room, pressing against her senses in a way that made her instincts twitch. It wasn’t sharp, but it was overwhelming.
+
+Dark shadows began to seep out from beneath him, spilling across the floor. They moved slowly at first, then faster, spreading outward and curling around Happy Beard Man's body as they consumed him piece by piece.
+
+The shadows thickened, rising upward like smoke, except heavier. They twisted and folded over themselves, forming a tall shape that loomed in the center of the room.
+
+It wasn’t malicious, there was no killing intent, no sharp edge that screamed danger, but it was still terrifying in its own way. It was the kind of presence that made her body react even when her mind didn’t want to, like every instinct was telling her that this guy in front of her was far, far stronger than her.
+
+Happy Beard Man’s skin turned into black armor piece by piece, like it was being forged right over him. A heavy chestplate formed first, followed by sharp, imposing pauldrons that settled over his shoulders. Then came the gauntlets, while a long, tattered cape spilled out behind him, made entirely of shadow.
+
+The man then straightened fully. Where a head should have been, there was only darkness, swirling slowly. And yet, Chloe could feel his attention locked onto her clearly, like he was looking straight at her without needing eyes at all.
+
+The figure adjusted slightly, then gave a slight bow. “My name is Graham, the first of Ishgria's Knights."

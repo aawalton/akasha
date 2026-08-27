@@ -1,0 +1,181 @@
+---
+id: ad8d1091-ba6a-504b-848d-fe4975f2639f
+page-type-slug: story-chapter-royal-road
+title: "88 - Gluttony is Pleased"
+slug: 0088-88-gluttony-is-pleased
+partOf: cat-girl-evolution
+position: 88
+ownLength: 2785
+unit: words
+publishedAt: 2026-02-13
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3049198/88-gluttony-is-pleased"
+royalRoadId: "3049198"
+---
+
+The mussels on this floor have tentacles. Those tentacles have nozzles on the end that fire water. Each mussel has eight tentacles, which means eight jets of water, and there are six mussels in the first room I enter on this floor. I don’t wanna do the math, but basically, there’s a ton of jets of super high-pressure water shooting at me from all angles, and it sucks.
+
+Even worse, the water is much stronger than the water from the mussels on the other floor, and their shells are way tougher too, since all of them are now Tier 3. They’re not tough enough to fully block my Spatial Slice, but they are enough to make me need a few strikes to kill them.
+
+All that is to say that even as fast as I am, and with ten Autonomous Mana Shields all charged with as much mana as I can fit in them, I ended up soaked by the end of the battle.
+
+“This sucks.”
+
+Even hearing my comically deep voice out loud doesn’t lift my spirits much. Taking a bite of one of the mussel tentacles helps, since it is delicious, but do I really have to go through another half dozen of these rooms?
+
+“Yes.”
+
+Shut up. That was a rhetorical question.
+
+With a sigh, I store all but one of the mussels in my Stomach, then summon a new outfit and start changing my clothes. I really should have stored some towels in here. I have enough clothes to keep changing after every room, but my hair is just gonna have to stay wet.
+
+Why do the stupid mussels even have tentacles anyway? I mean, they’re delicious, but going from one jet of water to eight is a stupid upgrade. It doesn’t even make sense for them to have tentacles!
+
+“Technically, shellfish, octopus, and squid are all types of mollusk, so it’s not that far off.”
+
+You’re lying.
+
+“I am not.”
+
+That doesn’t make any sense either. How is a mussel close to an octopus?
+
+“That’s just how it is.”
+
+That’s dumb.
+
+“At least you get more food.”
+
+Yeah, I guess.
+
+I take a big bite of the amazingly delicious tentacle and sigh. All things considered, it’s a pretty good silver lining, but even that doesn’t get me that excited. Sure, I have a big appetite, but the amount of food in my Stomach is growing way faster than I can eat it, and even if I figure out how to manipulate it all with my Vivitect Class, there’s still way too much for me to actually use. I mean, I still have almost an entire Named boar corpse in there that I’ve barely touched, I have literally hundreds of seafoodmen, and now I have dozens of these giant mussels. This room alone probably has more mussels than I’ll eat in ten years, and I have to clear six more of them before I can get out of this stupid Dungeon.
+
+It’s kind of even killing my excitement for the Goddess of Bitch’s gift. She said it would let me have an unlimited supply of food, but I basically already have unlimited food. I’d rather have more variety than more quantity.
+
+“Is a little water really all it takes for you to get depressed?”
+
+Shut up, Obbscure. These are serious concerns.
+
+“You could donate your food to charity.”
+
+What kind of charity needs literal tons of monster meat?
+
+“You could host a great feast. I’m sure that there are many chefs that would jump at the opportunity to participate.”
+
+Hmmm, that’s not a bad idea.
+
+“Or you could just hold onto it and realize that if you do start using it with your Vivitect Class, you’re probably going to be losing some of it in battles, meaning that you’ll be slowly burning through your reserves anyway, and more is better.”
+
+That sounds like a waste of perfectly good food.
+
+“So is leaving it sitting in extradimensional storage for eternity.”
+
+Fair.
+
+Well, it’s not like I’ll figure it out just sitting here. Time to finish this stupid Dungeon and hopefully get my last level. I just got a level in my Class, so I should be close to a Species level. I just need to kill a few more of these stupid mussels.
+
+A few more stupid mussel kills later, it still hasn’t happened yet. Three more rooms full of mussels, and not a single level in either my Class or Species. The fourth doesn’t give me any either. Neither does the fifth. And the sixth is the boss room.
+
+“Abby, does this Dungeon hate me or something?” I ask, staring up at the giant stone door leading to the boss room.
+
+“Actually, it’s entirely possible. You do have the Dungeon Destroyer Title.”
+
+“Oh yeah. I forgot about that.”
+
+“The difficulty did take a sharp spike this floor. The Dungeon might be attempting to stack the odds against you as you get further in to prevent you from reaching the core.”
+
+“Do you think that the core tastes good?”
+
+“I think that it’s impossible for it to taste good enough to be worth the consequences of destroying the Dungeon.”
+
+“Lame.”
+
+“I also think that mentioning the flavor of the core out loud has likely worsened the Dungeon’s opinion of you.”
+
+“Is that bad?”
+
+“This Dungeon so far does not seem to be a very intelligent one, but since you said that before entering the room, it theoretically could increase the difficulty of the boss monster.”
+
+“Oh. I hope it’s a Named monster, then!”
+
+With that, I push the door open, hoping that by entering so soon after, the Dungeon won’t be able to react quickly enough to change the boss monster. Unfortunately, whether I failed at that or not, I’ll never know. The monster in here is not Named, though. It’s also nothing like what I was expecting.
+
+[ Carnivorous Mussel Swarm, lvl ?? ]
+
+As soon as I enter, a wave of black shells rises from the center of the room. I counter with a Spatial Slice that easily cuts through hundreds of the little monsters, but I don’t get any kill notification, and the swarm doesn’t appear bothered by the attack at all. It just keeps coming, forcing me to teleport behind it to get out of its way. The swarm crashes into the doors behind where I just stood with a reverberating series of deep clacks, then starts surging back toward me.
+
+I toss another Spatial Slice at it, and it is just as ineffective as the first, so when I Blink away for the second time, I reappear hovering in the air on a floating mana hand, looking down at the boss room to take stock of the situation.
+
+Clearly, Spatial Slice isn’t gonna work. Maybe I could eventually whittle the swarm down, but it would take forever. So, explosives is going to have to be the answer. Unfortunately, the room is kinda small. It’s big enough that I can hover just barely out of reach of the swarm, but it’s small enough that if I detonated any of my stored full-power spells, I would definitely be hit as well.
+
+There is, however, a section of water on the far side of the cave. And from what I can sense, it goes pretty deep. Abby, water stops explosions, right?
+
+“No, not at all. But if you’re planning on blowing something up aboveground, it will be much safer under the water since it will stop all the heat and shrapnel, and a decent portion of the shockwave. It won't block it all though. This is because, unlike air, water can’t compress very well, so—”
+
+Okay, that's enough. I don't care about the science-y stuff. That’s good enough for me. I know what I’m gonna do. I think. Hold on, one second.
+
+I Snatch a few of the dead mussels that got cut in half by Spatial Slice, and toss one into my mouth. Unfortunately, it doesn’t taste that good. I mean, it tastes fine, but it doesn’t taste like anything special. As I thought, the real monster is the swarm, not the individual mussels. The mussels themselves aren’t special at all. Which is great, because that means that what I’m about to do won’t even lose me much.
+
+The mussels below me try to rise up, piling on top of each other to reach me. It looks like they might actually make it high enough to touch my mana hand, so I float a few meters over, forcing them to have to shift their entire tower to be able to reach me, and with the reprieve, I take a couple constructs from my Stomach and craft them into my trusty handmarine. Once it’s fully formed, I send it into the water without me. The mussel swarm ignores it, still trying to get to me.
+
+Then, I look at my sword, which is glowing from all the blood and mana it absorbed from the other mussels. In the past, when I absorbed the mana, I immediately channeled it into Spatial Slice, because it’s easy and has great synergy with the sword, but I don’t have to do it like that. I can use that mana for whatever I want. And, as I’ve seen with Spatial Slice, the surge of mana lets me pack way more into whatever Skill I’m using than I normally could. I can’t really control it, but in this case, I don’t need to.
+
+I activate the sword’s special ability, feeling my body flood with mana, then immediately, I start casting Fireball, pouring every ounce of mana I just got into it. The mana already didn’t fit in my body and gladly flows out in front of my hand into the form of a fireball. Then it destabilizes immediately, and I barely manage to Blink out of the way before it detonates. I reappear thirty meters underwater in the safe, dry confines of the handmarine as I hear the deafening explosion go off above.
+
+Even this deep under water, the force of the explosion still shakes me so hard I crash into the sides of the handmarine, hitting my head. Fortunately, after eating Annie, my hands are more realistic-ish, so it’s fleshy and absorbs the impact decently well. It still kinda sucks though. And the subsequent collapse of the cave doesn’t really help.
+
+It’s not a total collapse, but the explosion sent fractures through the walls and ceiling, and in the minute following the explosion, tons and tons of rocks fall from above, splashing into the water and crashing into the ground. As I sit underwater, waiting for things to settle down, I watch for the System notification, but strangely enough, it never comes, so I start scanning the surface with Food Sense.
+
+It only takes a few seconds to find out what happened. I detonated the explosion right at the top of the cave as the mussels were attempting to climb up to get me. That means that there were about a dozen meters of mussels stacked up between the ground and the explosion. Most of them were completely obliterated, but a dozen or so at the very bottom in the center managed to survive, and surrounding them is an ectoplasm-like mana membrane.
+
+Once the cave collapse has settled down, I Blink back aboveground, then dig through the pile of charred shells until I reach the living ones. Before, the entire mussel swarm was infused with mana, but now, they barely have any left. The swarm survived, but only barely, and I can feel the mana slowly leaking out. It’s dying. It’ll die if I leave it alone.
+
+But there’s something else there. Something that I can only faintly sense. Something… edible.
+
+I pick up one of the last remaining mussels, and it tries to bite my finger. I let it bite me out of curiosity, and as expected, it doesn’t hurt. It’s too weak now to do anything. It’s basically a Tier 0 monster at this point. I lift my hand upward, bringing the mussels with me, and surprisingly, the others come with it, as if they’re all held together by an invisible spiderweb. The edible thing is in the invisible part. It’s constantly moving around, but it’s there. And I want to eat it.
+
+I raise the whole cluster up, bringing one of the mussels to my mouth, and I chomp down, tearing it from the others and crunching it between my teeth. The mysterious thing retreats from the mussel, and the invisible web releases the mussel as soon as it enters my mouth. I repeat this a few more times, and each time, the strange little thing pulls away from my mouth. The one on my finger lets go, as if the whole swarm is now trying to escape me, but I just grab it, pinching it shut between my fingers as I continue eating.
+
+I would just eat them all one by one until there’s nothing left, but with every one I eat, I can feel the thing getting weaker, and I know if I keep going like this, it’ll die before I can eat it. Instead, I grab the last mussels—all seven of them, and press them together in a bundle. The thing made of mana tries to escape, but it can’t leave the confines of the swarm, so it’s helpless as I bring the bundle toward my mouth and put the entire thing inside.
+
+I have to do the unhinging my jaw thing to get the whole bunch into my mouth, and I have to keep it somewhat unhinged to be able to chew it, but it still fits, and a few crunches later, I finally get the System notification informing me of its death, alongside a few others.
+
+[ You have slain Giant Monster Mussel, Tier III, lvl 35. Bonus experience for killing an enemy above your level! ]
+
+[ Yona, the Gastronome, 29 → 30 ]
+
+[ +36 Power, +72 Finesse, +42 Resilience, +39 Memory, +39 Willpower, +72 Sensitivity ]
+
+[ You have reached an Evolution threshold! Would you like to initiate Evolution? ]
+
+[ You have cleared a Dungeon Floor! You may now choose to advance to the next floor, or exit the Dungeon. If you do not choose within one hour, you will be automatically ejected from the Dungeon. 59:58 remaining ]
+
+[ Advance ] [ Exit ]
+
+[ Gluttony is pleased ]
+
+I smile as I read the first three notifications, then frown as I read the final one.
+
+“Abby, what does that mean?”
+
+“An excellent question. I have no idea. That sounds like a better question for Arianne or Cecilia.”
+
+Both of whom I currently cannot contact.
+
+“Unfortunate.”
+
+Very.
+
+Well, hopefully it’s nothing bad!
+
+I double check to make sure there’s nothing else worth grabbing in the boss chamber, then accept the prompt to leave the Dungeon. I accomplished my goal. No point in hanging around. Not when the rental house has a nice, warm bath waiting for me so I can wash all this saltwater out of my hair!
+
+I appear in midair on the opposite side of the Dungeon portal from where I entered. Fortunately, I was expecting this, and rather than falling on my butt again, I land softly on the sand, conjure a mana hand recliner, and start floating away. Just like when I entered, everyone is staring, so I make sure to maintain an aloof, elegant expression, not making eye contact with anyone as I travel back to the city.
+
+When I get out of my bath, it’s just before sunset, and the others are all back from their own Dungeon expeditions, so we all grab a meal together before splitting up. No one says it out loud, but when I tell them that I reached my goal, they all know exactly what I mean. They promise to all be Platinum by the time I return, and then they head back to the house while I head to the secret underground room I found and get ready to evolve.
+
+The room is just as I left it, and none of the air tunnels I made seem to have been discovered or patched up, so after taking a few seconds to set up A and B’s devices to help mask my presence, I finally accept the prompt and my evolution begins. When I open my eyes, I am not in the cozy room that I was for the last two evolutions.
+
+“What the heck?” I say. “What’s going on?”
+
+The only response is an Annoying Red Box.
+
+[ I did tell you that Named monster Evolutions were different, right? ]

@@ -1,0 +1,109 @@
+---
+id: 10d8c2a7-0c5e-55ee-9333-57aca4d49b9f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1370 - Are They Really?"
+slug: 0017-chapter-1370-are-they-really
+partOf: chrysalis
+position: 17
+ownLength: 1080
+unit: words
+ownProgress: 1080
+publishedAt: 2024-07-15
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1717870/chapter-1370-are-they-really"
+royalRoadId: "1717870"
+markedReadAt: "2026-06-29T19:44:11.771Z"
+---
+
+Morrelia was very grateful not to be on a boat any longer. She would serve no matter where the Legion chose to send her, but she much preferred to have her feet on dry land. However, she didn’t necessarily think her current position was any safer.
+
+“Relax, tribune,” Chyron chuckled. “Unless these monsters are a lot more bloodthirsty than you’ve said they are, we are not under threat.”
+
+The younger woman restrained her glare, as this was her commander.
+
+“I still believe we should exercise caution. We did directly attack their leader in plain view. They could easily use that as an excuse to eliminate our entire Legion.”
+
+She tried not to make her words sound too clipped, but she failed miserably, causing the veteran commander to bark out a short laugh.
+
+“If they kill us, they’ll destroy the reputation they’ve laboured so hard to build. You can’t be an enlightened, peaceful species of monsters and murder entire legions at the same time.”
+
+“With respect, commander, if we were to die here, would anyone know? We are directly beneath the Colony.”
+
+It had been a difficult march, plunging this deep into the tunnels beneath the ant mountain, but commander Chyron had proved her strength and that of her legion. The soldiers under Morrelia’s command had performed admirably, even better than she had expected, and the force had scythed its way through the monsters.
+
+The difference between this and the Liria Legion under commander Titus was stark. It wasn’t that her father was a poor leader, far from it, but that the gap in experience between the rank and file was that wide.
+
+So now they were here, deep within territory newly claimed by the Colony, close to the entrance to the fifth stratum.
+
+“We would get word out, I can assure you of that,” Chyron stated with absolute confidence. “You’re being too much of a worrywort, tribune. We are here to complete a mission. Focus on your duty, not these extraneous concerns.”
+
+Morrelia swallowed her anger. It wasn’t her place to bicker with the commander, even if she did feel the woman was being somewhat cavalier with the lives of her soldiers.
+
+“How are we supposed to complete our mission here, commander?” she asked tightly. “The target is in the fifth stratum, while we are here in the fourth.”
+
+“They’ll be back up soon enough. No one can stay down there for long.”
+
+Morrelia herself had stayed down there for a period of months, but Chyron could occasionally fall guilty to the same pro-Legion bias that some of the higher ups were prone to fall into. It was something the Legion actively guarded against, underestimating their foes was something they hated, yet even so, it crept up occasionally.
+
+“The Colony has proven themselves to be remarkably adaptable. I remind you, commander, the stated intention of the Colony is to cleanse the fifth stratum. I have little doubt they are attempting to do so as we speak.”
+
+“I quite agree with you,” the commander nodded, “and we are here to confirm whether or not the target has survived the attempt. As unfortunate as it may be, we are in a poor position to complete our objective. It is far more likely the fifth will do our work than our legion is to succeed, unless the situation changes.”
+
+It was unlikely the Legion would attempt to engage Anthony within the fifth itself. Despite the presence of Legion facilities within that stratum, it wasn’t as if they campaigned there. The fifth was simply… too inhospitable.
+
+At that moment, a scout approached the command area, breathless after a hard run.
+
+“Reporting, commander!”
+
+“Speak.”
+
+“We’ve confirmed the ants have withdrawn from the fifth. They don’t appear to have suffered casualties.”
+
+Chyron nodded as if that was what she’d been expecting all along.
+
+“Do we have any idea how successful they were down there?” Morrelia asked the scout.
+
+“Successful?” the scout looked at her as if she were talking complete gibberish. “What do you mean?”
+
+“Were they able to make any progress in cleansing the fifth?”
+
+“We… uh… we have no way to tell, tribune,” the scout reported.
+
+It was clear that nobody expected the Colony to get anywhere in this endeavour, and to be honest, that was the sensible position to take. Yet Morrelia knew better than most just what the Colony was capable of.
+
+If there were any group to pull off something as insane as this, it would be them. Commander Chyron turned to her with a raised brow.
+
+“You think it would be worth investigating to see what progress they have made in the fifth, tribune?”
+
+Morrelia hesitated for a moment before she then nodded.
+
+“I do,” she affirmed. “The cleansing of the fifth has been a dream for all of Pangera for thousands of years. Any attempt should be studied in the hopes that we get closer to succeeding.”
+
+Chyron pursed her lips as she considered the matter.
+
+“In theory, how would you seek to obtain this information? We can’t go into the fifth and follow them, not with our current equipment.”
+
+Morrelia pointed in the direction of the ant forward base.
+
+“I would go and ask them.”
+
+The scout and Chyron both responded with blank expressions, as if their minds had not prepared them for such an approach. Morrelia shrugged.
+
+“I know it sounds ridiculous, but the Colony is attempting to open lines of dialogue with everyone they can. There’s no reason for them to keep their progress a secret.”
+
+“We are their enemies, are we not?” Chyron responded dryly. “Typically, one doesn’t share information with their enemies.”
+
+“If they are in any way successful in their assault on the fifth, then the Colony is likely to want to share that with us to try and reduce our hostility towards them. In the unlikely event they succeeded in their mission, then they would win the approbation of the entire planet.”
+
+The commander considered this with narrowed eyes.
+
+“What’s stopping them from just lying to us?” she asked.
+
+Under normal circumstances, not an unreasonable question. For here and now? There was a clear response.
+
+“Because the Colony doesn’t lie,” Morrelia responded firmly.
+
+Certainly, they never had that she was aware of.
+
+Chyron considered her with a thoughtful gaze.
+
+“Very well,” she determined. “You, tribune, will be our liaison in this matter, if they are willing to accept you. Go, with a minimal guard, and see if the monsters are feeling talkative.”

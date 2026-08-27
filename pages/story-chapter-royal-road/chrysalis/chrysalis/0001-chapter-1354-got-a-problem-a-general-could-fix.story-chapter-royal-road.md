@@ -1,0 +1,71 @@
+---
+id: 403a7c1f-98a3-590e-9896-3381a2de18f4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1354 - Got a Problem a General Could Fix"
+slug: 0001-chapter-1354-got-a-problem-a-general-could-fix
+partOf: chrysalis
+position: 1
+ownLength: 1055
+unit: words
+ownProgress: 1055
+publishedAt: 2024-06-14
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1675979/chapter-1354-got-a-problem-a-general-could-fix"
+royalRoadId: "1675979"
+markedReadAt: "2026-06-29T19:43:41.167Z"
+---
+
+It takes a little while to figure out where Solant is. Whenever I turn up in a tunnel looking for her, someone tells me she was just there, but left not long ago. Well, where was she going? She was heading over to that tunnel in order to talk to so and so. Alright, no problems, I’ll head over there.
+
+Except, when I get there, I hear the exact same thing. A picture clearly emerges that Solant is running around from place to place, but not like a chicken with its head cut off, more like an agent of organisation and order, crashing down wherever she senses chaos, straightening out everything and leaving only clean, functional lines of precision and logistics behind. It seems like the army of the Colony functions like a well-oiled machine wherever she happens to go.
+
+It was actually insanely impressive to see. Us ants are naturally a well-organised group by definition. Someone wants to do something, they lay down a trail, start getting others on board and things happen. Now, the Colony isn't like any other ant colony. There’s layers of intelligence here that normal ants can’t imagine, obviously. We have layers of authority, decision makers, and groups whose entire role is to make sure we’re all pulling in the same direction. There’s literally millions of us, and I can feel the Will rolling off each of them, and everyone wants nothing but the best for the family, but they don’t necessarily all agree on how that’s supposed to be achieved.
+
+Discrepancies pop up. Things don’t always happen as smoothly as they should. Information at the front doesn’t necessarily match what is reaching the back. Even for creatures who communicate with scent, it's possible for someone to misunderstand what was being said to them. Small little things, but when it happens just a few times every thousand interactions, considering there are billions of interactions a day… mistakes happen.
+
+Solant just seems to… swoop in and straighten them all out. I have no idea how she even knows what she’s looking for. It’s like she can just sense when things aren’t working perfectly and knows how to fix it.
+
+I’m hugely impressed.
+
+When I finally catch up with the general, I get to see her in action personally. Oftentimes, I see a scrum of ants appear around whoever is in charge, messengers arriving or waiting for replies, advisors, soldiers, mages, each responsible for their own slice of the decision-making process.
+
+Around Solant, even this process is streamlined. Ants don’t come to her, she goes to them, with only a few of her personal team following her. When she reaches a new group, she listens, she watches, she thinks, then she talks. In just a few minutes, she’s moving on to the next group. The moment she’s done talking, the ants who were listening rush off to work, clearly understanding exactly what it is that she wants them to do.
+
+Judging from the looks of things, she’s evolved since the last time I saw her as well, which means she’s reached tier five. So quickly! I’m glad the Colony has been focusing on getting her Level pumped up. She’s going to be an important part of the family moving forward. Each champion who’s appeared has been a positive and exceptional influence, and she won’t be any different.
+
+She’s a little bigger than she was before, but her antennae in particular are larger, and a little fuzzy on the ends. I can’t help but wonder what they’re designed to sense. I watch her move efficiently from group to group before she’s finally done and finds the time to come and speak to me.
+
+“You look busy, Solant! I’ve been following you around for a while, and everywhere I go, you leave a well-organised group of ants. What’s the secret?”
+
+She looks up at me, her eyes dark and serious.
+
+“The line between order and disorder lies in logistics, Senior,” she tells me. “It is impossible to ensure everything runs perfectly, but if we aim for perfection, we will come close.”
+
+I mean… that’s wise. I guess? I’m not exactly the best person to judge wisdom.
+
+“So you’re trying to ensure that our logistics are working as well as possible?”
+
+“Of course. We are planning to embark upon a grand campaign, are we not?”
+
+“The invasion of the fifth? Heck yeah, we are.”
+
+“The victor of every war is decided long before they begin. We have been training, testing, checking, double checking, triple checking every aspect of our approach. When the time comes, we will act as one entity, with one, unified mind and purpose. From what we know of the Krath, they are nefarious, intelligent, scheming and cunning, but they are divided and untrusting. We will smash them before they can hope to recover.”
+
+Holy moly. I like everything I’m hearing. The potential I saw in the little general has done some serious blossoming. What the heck has been going on over here? Is this a nest or a hothouse?!
+
+“Awesome. I’m glad to hear things are going so well! Is there anything I can do to help? Crinis, Tiny, Invidia and I are ready to roll!”
+
+“Of course, Senior, there is a lot that you can do. Our advance teams are preparing to start exploring the fifth, and it would be excellent if you could be part of that process.”
+
+Hoo boy. Jumping down into the poisonous mulch and exploring a whole new stratum of the Dungeon? That’s like, my favourite thing to do outside of tickling grubs!
+
+“Sure thing. I’ve got to do some jobs for Victor, need to talk to a few folks, and then I’m all yours. Keen to get involved. I know Tiny’s looking forward to punching something.”
+
+Thumbs up.
+
+“How are we going on the project to cleanse the fifth of the toxic mana? Have we worked out a way to make the change permanent?”
+
+“That’s been a difficult challenge, Eldest. That project is in the hands of Brilliant and the core shapers, who’ve been investigating tirelessly, but there hasn’t been a breakthrough as of yet. We’re hoping our advance team explorations will be able to shed more light on the exact nature of the fifth.”
+
+That’s smart.
+
+“Alright then, Solant. I’ll catch up with you later.”

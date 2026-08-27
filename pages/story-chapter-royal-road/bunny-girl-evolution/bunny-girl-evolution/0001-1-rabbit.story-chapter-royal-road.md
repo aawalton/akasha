@@ -1,0 +1,280 @@
+---
+id: 66cf82b9-2b04-57df-9295-0b8f7bdd5df2
+page-type-slug: story-chapter-royal-road
+title: "1 - Rabbit"
+partOf: bunny-girl-evolution
+position: 1
+ownLength: 2798
+unit: words
+ownProgress: 2798
+publishedAt: 2024-08-01
+link: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/1741031/1-rabbit"
+royalRoadId: "1741031"
+markedReadAt: "2026-06-29T20:02:41.826Z"
+---
+
+In the dense foliage of an overgrown forest, a white rabbit bounded as fast as it could, with a snake moving way faster than a no-legged animal should be allowed to hot on its heels.
+
+“We take great pride in our brand new, AI-powered ‘Find-a-Form’ algorithm and its ability to match each person with their perfect new species. We’ve taken a look at your past life, and using our thoroughly tested, zero-failure system, we’ve picked the perfect body for your new life!”
+
+Please help me! screamed the rabbit mentally as it tripped over a branch it couldn’t see due to the giant blue box in front of its face.
+
+“Let’s begin the System tutorial! Before you now is your status window! It contains information about yourself, including your name, species, level, stats, and skills!”
+
+I don’t care! Please! Help me!
+
+“The first row contains your name, Elise Burrow. It seems this is still the same name as your past life. This indicates that you don’t have any parental figures in this life to rename you. Should you find one while still in your infantile stage…”
+
+Elise tuned out the grating, robotic voice as she frantically searched for somewhere safe. Five minutes earlier, she had woken up in her new body, and hadn’t had more than ten seconds to take stock of her situation before she heard the hissing behind her. Fortunately, her new body came with new instincts, so she was at least able to run without tripping over herself, but it didn’t come with much else, and the snake was frustratingly fast and persistent.
+
+A hole in the ground was out of the question, for obvious reasons, and as she had discovered to her dismay, rabbits were not good at climbing trees. No better than snakes were, at least. Her best hope was to find some kind of rocky area, and hope to lose it between some boulders, but everywhere around her, all she saw was green.
+
+Speaking of sight, fortunately, or unfortunately, she noticed that she could see all the way behind her while running forward, which meant she got a full view of the angry serpent on her fluffy tail. Her hearing was also incredible, allowing her to hear every dry leaf it slithered over and every flick of its tongue as it tasted her scent on the wind. Maybe focusing too much on her new senses was a bad idea at the moment.
+
+A few more minutes passed and the System was still droning on and on about stats or skills or something, and Elise was no closer to losing the snake than she had been when she started. Her legs were getting sore, and her heart was beating so fast she was worried it might explode, and she was slowing down noticeably.
+
+Why is it so fast? she thought. And why is it still chasing me?
+
+The second question was rhetorical, of course. It was still chasing her because it was going to catch her. It lunged forward, and it was only through adrenaline that she managed to hop out of reach of its dripping fangs. Its failed attack had bought her a few more seconds, but she knew she wouldn’t be able to dodge the next one. She was running on fumes.
+
+Just then, a shadow passed overhead, and before she had time to process what it meant, her rabbit instincts took over, and she took a sharp right into a nearby bush. The snake tried to do the same, but sharp turns weren’t its forte, and a split second later, it was being carried away in the claws of an enormous–at least to her– hawk.
+
+She hid in the bush, shivering with fear and on high alert for any other potential predators. After a few minutes without hearing anything, she finally started to calm down, and was able to more rationally think about what was happening.
+
+She was a rabbit, but she definitely wasn’t born that way. The last thing she remembered before waking up as a rabbit was pulling an all-nighter to study for her biology exam. The voice had mentioned something about a ‘new life’. Did that mean she had died? But how? Her only guesses were that she had somehow overworked herself, or she had a freak aneurism. It must have been the aneurysm because she wasn’t that stressed. And she had only had nine shots of espresso.
+
+…
+
+Okay, maybe she had done it to herself.
+
+She folded her ears in shame as she imagined all the rabbit jokes her classmates would be making if they could see her now. They had started it back in middle school. She was a small girl with big ears and buck teeth, and she was so nervous at her new school that in the first roll call, she squeaked when her name was called. They had only gotten worse as the years went on, not helped by her timid disposition. It reached its peak when she decided to try to change her image by competing for the track and field team, only to discover that the high and long jumps were her best events.
+
+Even in college, she couldn’t escape it. She didn’t perform well enough academically to go anywhere but an in-state school, and it just so happened that all her tormentors were in the same boat. On a bigger campus where they were split by major, she ran into them less, but all the cheerleaders were going into nursing, an adjacent degree to Elise’s biology, so she still had classes with many of them.
+
+She pulled herself from her introspection and tried to tune back into the annoying robo-voice.
+
+“-can provide you with great strength, but be careful! You’ll be highly vulnerable during the evolution process, so make sure you are in a safe location surrounded by people you trust!
+
+“That’s all! If you ever need help, or you forgot something from the tutorial, just think ‘System! Help!’ and I’ll respond in an instant! Thank you for your patience, and enjoy your new life!”
+
+Elise waited a short while, expecting it to start talking again, but it didn’t. The only sounds around her were the sounds of the forest. Birds singing in the trees, squirrels scurrying up tree trunks, ants with their tiny feet bringing food back to their colony, and the distant roar of a bear. She shuddered and curled further into herself.
+
+System! Help! she thought.
+
+She didn’t understand what was happening, and as annoying and unhelpful as it had been, this ‘System’ thing at least seemed to have information.
+
+“Help? What seems to be the problem?”
+
+Where am I?
+
+“I’m sorry. I cannot answer that question.”
+
+Why not?
+
+“You do not meet the requirements to enable location services.”
+
+What are the requirements?
+
+“I’m sorry. I cannot answer that question.”
+
+What questions can you answer?
+
+“If you have any questions about your System and how to use it, I’d be happy to help! You can summon me any time with the command ‘System! Help!’”
+
+What is this ‘System’ thing?
+
+“The System is the law of the world, and through it, anything is possible! Its basic function is to allow users to earn experience so that they can gain levels, which reward them with increased stats and can sometimes grant skills. Humanoid races may also choose a class to earn bonus stats and skills, while non-humanoid races can choose evolutions to get the same, as well as a new form! You are a non-humanoid race, so you will progress through evolutions, rather than classes.
+
+Why am I a rabbit?
+
+“Your new body was chosen automatically by the System. We take great pride in our brand new, AI-powered ‘Find-a-Form’ algorithm and its ability to match each person with their perfect new species. We’ve taken a look at your past life, and using our thoroughly tested, zero-failure system, we’ve picked the perfect body for your new life!”
+
+Is it too late to change to something else?
+
+“All soul transfers are irreversible and non-refundable.”
+
+She mentally sighed. Can you tell me more about stats and skills?
+
+The System launched into a long-winded explanation of its facets, which she was certain she had heard verbatim snippets of while she was fleeing for her life. It was verbose, and used language that was way too excited for how bland and monotone its voice was, but the information she got was useful at least.
+
+She had nine different stat categories: Strength, Agility, Dexterity, Fortitude, Charisma, Willpower, Intelligence, Mana, and Mana Control. All were self-explanatory, and definitely didn’t need the paragraphs that the System narrated to her for her to understand what they were about. Well, except for Charisma, but even with those paragraphs, she still wasn’t quite sure what it meant. Hers was very high though, according to the blue window in front of her. Either that, or the rest of her stats were very low.
+
+Name
+
+Elise Burrow
+
+Age
+
+0 (20)
+
+Race
+
+Forest Rabbit
+
+Level
+
+1
+
+Stats
+
+Base
+
+Bonuses
+
+Total
+
+Strength
+
+4
+
+0
+
+4
+
+Agility
+
+15
+
+0
+
+15
+
+Dexterity
+
+3
+
+0
+
+3
+
+Fortitude
+
+2
+
+0
+
+2
+
+Charisma
+
+50
+
+0
+
+50
+
+Intelligence
+
+13
+
+0
+
+13
+
+Willpower
+
+18
+
+0
+
+18
+
+Mana
+
+0
+
+0
+
+0
+
+Mana Control
+
+20
+
+0
+
+20
+
+Skills
+
+Level
+
+Description
+
+Inspect
+
+1
+
+Identify the species and level of another creature
+
+Nature Magic Affinity
+
+1
+
+As a creature of the forest, you feel a strong connection to nature and natural mana
+
+Leap
+
+1
+
+Jump with additional force. Cooldown: 5 seconds
+
+Mark of Fate
+
+MAX
+
+???
+
+“Do you have any further questions?” said the voice once it was finished explaining everything.
+
+How do I make the window disappear?
+
+“Simply will it to disappear, and it will be gone. If you wish to look at it again, you can will it back into existence. Only you can see your System window.”
+
+She did as the voice recommended, and the blue window vanished. She didn’t know why that hadn’t worked when she was running away. She definitely wished for it to disappear multiple times when it was obstructing her view of what was in front of her, but nothing had happened. It must have been the tutorial or something.
+
+With her most pressing questions answered, Elise set to planning her next moves. She didn’t want to die again, so she needed to survive, but as a simple rabbit, she wasn’t sure what she could do. The System had explained that the best way to gain experience was combat, but with such poor stats and no useful skills, she couldn’t think of any way to actually win a fight against anything. Maybe if she could make use of her [Nature Magic Affinity] skill, she could do something, but with no mana, the skill was nothing more than words on a screen.
+
+Her stomach growled and she realized that before thinking about how to level, she should first focus on trying to survive. She crept through the brush, keeping her eyes and ears peeled for any sign of danger until she came to a small clearing full of freshly sprouted grass. She had never been one for grass as a human, but her adoptive father was always cursing at rabbits for eating his lawn, so she figured it wouldn’t be too bad.
+
+She took a tentative bite to test the taste, but soon found herself chowing down without a care in the world. She had no idea that grass could taste so good. It was juicy and full of flavor, and had a satisfying crunch to it as she chewed. She munched away, giving the grass in a small radius around her a nice trim until she suddenly froze when she heard a noise.
+
+She turned her head so her right eye could get a better look at its source. On the other side of the clearing, a translucent green blob twice as tall as her was heading her direction. Wherever it passed, the grass was pulled into its body and rapidly dissolved. She internally panicked for a moment until she noticed how slow it was and was able to calm herself. It was certainly dangerous, and she shouldn’t let it touch her, but unlike the snake, she could easily outrun it.
+
+Presented with such an easy target, she realized that this was the perfect opportunity to test out the one skill that she could actually use: [Inspect].
+
+[Forest Slime, lvl ???]
+
+The System had mentioned when explaining the skill that at low levels, Inspect wouldn’t work well on creatures above her own level, so its level being hidden came as no surprise to her. If anything, it excited her. Although it might have been technically stronger, it had a glaring weakness, and it seemed to be mindless. If she played things right, she could exploit it, and maybe even kill it to gain experience.
+
+Unfortunately, that was easier said than done. She was unwilling to touch the thing after seeing what it was doing to the local flora, and she had no way of harming it from a distance. She tried picking up a stick in her mouth and poking at it, but grabbing a stick with a rabbit’s mouth turned out to be no small task, and when she finally accomplished it and poked at the slime, it just absorbed the stick and started dissolving it too. She wanted to try a rock to see if that would be any better, but she wouldn’t be able to get a rock close enough to the slime without also getting herself close to it, and since she couldn’t climb, she couldn’t drop one on its head either.
+
+She slowly led it through the forest, away from her precious grass as she looked for something to help her kill it, and it followed mindlessly, always moving in a straight line toward her, regardless of what was in its way. She didn’t understand why it, like the snake, was so focused on her. Were rabbits especially delicious or something?
+
+Either way, it worked out in her favor. Soon, she noticed that the ground she was on was sloping gently upward, and that the trees were getting sparser, and after a half hour of kiting the slime along behind her, she found something she could work with: a cliff.
+
+It wasn’t the tallest cliff, but it was almost completely sheer, with just a few outcroppings preventing it from being a smooth wall of stone. Upon seeing the outcroppings, an idea formed in her mind. A dangerous one, but one that she thought could work out well in her favor if she played it right. She just had one last thing to check before putting it into practice.
+
+System! Help!
+
+“Help? What seems to be the problem?”
+
+Do I have to directly fight something to earn experience for defeating it?
+
+“No. As long as you intentionally cause its death, you will earn experience. However, if you are working with others, your experience will be drastically reduced if your contribution is too minimal.”
+
+She grinned, or at least attempted to. She wasn’t sure how it looked in a rabbit’s body. She ran alongside the cliff until she found the perfect spot, and then after looking back once more to make sure the slime was still following her, she carefully dropped down onto a small outcropping. One convenient thing about her new eyes was that she could see above, behind, and in front of her all at the same time, which meant she could watch for the slime poking out over the ledge while also looking ahead at the other small outcropping a few feet away.
+
+Right when it was about to fall, she used her [Leap] skill to jump to the other outcropping. As she had hoped, the slime fell down onto the first one, and tried to continue toward her. She held her breath as it fell, finally exhaling when the blob hit the ground and popped, splattering green sludge everywhere. There was an electronic dinging sound, and a new System window she hadn’t seen before appeared in front of her.
+
+[You have defeated Forest Slime, lvl 4]
+
+[You have leveled up! 1 -> 2]
+
+[{Leap} has leveled up! lvl 1 -> 2]
+
+[Agility + 1, Charisma + 3, Mana + 2, Mana Control + 2]
+
+She used [Leap] to get back to the top of the cliff, then bounced around in a short dance to celebrate her victory. She couldn’t believe it was so easy. If she could find a few more of those slimes, she would be able to level up in no time at all.
+
+Her high spirits were laid low in an instant when a shadow passed over her head, and she heard the screech of a hawk.

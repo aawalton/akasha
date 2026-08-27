@@ -1,0 +1,185 @@
+---
+id: 12a942e5-2848-5ae1-9273-cc27803c329f
+page-type-slug: story-chapter-royal-road
+title: "127 - I Have a Plan"
+slug: 0129-127-i-have-a-plan
+partOf: cat-girl-evolution
+position: 129
+ownLength: 1902
+unit: words
+publishedAt: 2026-05-15
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3398133/127-i-have-a-plan"
+royalRoadId: "3398133"
+---
+
+“‘Usurp Parent Dungeon’?” asks Lauren. “How does that work.”
+
+“Well, basically, I press a button, and we maybe take over the parent Dungeon,” says Abby. “Yona will gain control and gain the opportunity to either merge the parent Dungeon with her Dungeon, or invert the two, making her Dungeon the parent Dungeon.”
+
+“Okay, then, press the button,” I say.
+
+“If I press the button, we only maybe take it over.”
+
+“How maybe is maybe?”
+
+“Right now, it’s a 0.7% chance of success. And if it fails, we won’t be able to try again for ten years.”
+
+“Oh, that’s not very good. Could we press it anyway?”
+
+“Why would you want to do that?”
+
+“I’m the Chosen One. I have plot armor.”
+
+“You don’t have plot armor.”
+
+“Hold on. Just think about it. The Chosen one always has plot armor. Like when you watch a movie and they say ‘this only has a 0.7% chance of success’ and then the main character chooses to bet on it anyway, they always win. They have plot armor. And this is the Chosen One competition. This is a fight between two Chosen One candidates. And if this succeeds, then I win, making me the true Chosen One, and that would therefore mean that I have plot armor. We’d just be pitting my plot armor against his, and the real Chosen One will win.”
+
+“That… actually makes a weird amount of sense.”
+
+“Absolutely not,” says Lauren. “We are not betting everything on ‘plot armor,’ whatever the hell that means.”
+
+“I agree,” says Abby.
+
+“Hey, you just said my argument made sense!”
+
+“I said it made a weird amount of sense,” says Abby, raising her finger. “And by that I meant that I was surprised there was any logic at all behind it because it’s a ridiculous proposal.”
+
+“Awww…”
+
+“As far as I can tell, the success chance is based on the difference between the two Dungeons’ mana and essence, with essence being more heavily weighted. And since this is a brand new Dungeon that has not killed anything or anyone yet, it only has whatever essence it started with, which isn’t much.”
+
+“Ah, so that’s why you wanted me to grab all those undead,” I say, nodding. “So if I just pop over and kill them really quick, we’ll have better odds?”
+
+“Yes.”
+
+“Was this why the Maligar Dungeon Core wanted us to weaken the other Dungeon?” asks A.
+
+“Is the Parent Dungeon to this Dungeon trying to Usurp Maligar?” asks B.
+
+“I believe so,” says Abby. “And Yona eating the Dungeon’s monsters, and therefore its essence, lowered its odds of success. But also, her forcing Maligar to make that Named monster decreased Maligar’s essence.”
+
+“Still, there’s no way a new Dungeon can overcome a Dungeon as old as Maligar, right?” I ask.
+
+“Well, maybe,” says A.
+
+“People rarely die in Maligar, so it shouldn’t gather much,” says B.
+
+“But then again, it has been almost 3000 years.”
+
+“Surely there have been enough stupid Adventurers challenging the tree to give Maligar at least some essence.”
+
+“Right, and even if it’s only a little, it should be more than a nested Dungeon that’s only been here for a month.”
+
+“But what if the nested Dungeon has plot armor?” I suggest.
+
+The twins both stare at me for a second before continuing.
+
+“But Joakim can’t be that dumb.”
+
+“He wouldn’t waste all this time here unless he thought he had a legitimate chance of success.”
+
+“And finding the Dungeon Core isn’t a valid option. Any good Dungeon will know how to hide and protect its core.”
+
+“And Maligar has hidden and protected its core for thousands of years.”
+
+“So he has to be after the Dungeon Usurpation.”
+
+“But why does he think it will work? Where is he getting the essence?”
+
+Both twins look over at Abby, who has been suspiciously silent and smug throughout the whole exchange.
+
+“Well, I have a theory,” she says, trying not to smile.
+
+“And?” ask the twins.
+
+“He’s a necromancer, right? Well, he can just get the summons killed by the Dungeon to feed it essence. So he can leave the Dungeon in one place, go out, collect bodies, come back, and feed the Dungeon.”
+
+“Oh, of course!” says A.
+
+“Why didn’t we think of that?” laments B.
+
+“So Joakim could indeed be quite close to usurping Maligar, and us draining his Dungeon could very well have delayed his plans.”
+
+“But at the same time, having us here and potentially able to usurp puts pressure on him. He might get desperate, which could be either good or bad.”
+
+“If he triggers the usurpation early, and it fails, we win.”
+
+“But if it succeeds, we’re screwed.”
+
+“Not necessarily,” says Abby. “I’m pretty sure Yona can just pick her Dungeon up, and you guys can leave.”
+
+“I can?” I ask. “I wasn’t sure when I put it down.”
+
+“Yes, I can’t imagine you’d have a portable Dungeon that you couldn’t pick back up. At worst, there will be a cooldown.”
+
+“How can we check?”
+
+“Going outside and trying to pick it up.”
+
+“Hmmm… Can I go out, but appear in the air right above the Dungeon so I just fall right back in before I can be attacked?”
+
+“Yes, and that’s a good idea because that Disaster is still waiting right outside.”
+
+“Wait, I can see outside too?”
+
+“Just what’s in line of sight of the entrance, but yes.”
+
+“How do I– Oh!”
+
+No sooner do I think about doing it an Annoying Blue Box appears asking if I want to view outside, so I do. As Abby said, the giant badger is waiting right outside. It looks a lot grosser now that I have time to take a good look without my brain getting crushed. It’s mostly intact, but one of its eyes is hanging out of its socket, and there’s a big piece of skin missing on its mouth, exposing its teeth, which are full of bits of rotten flesh.
+
+The Disaster is just laying down, staring at the Dungeon without moving. If I didn’t know any better, I’d think it’s dead dead, but I’m 99% sure it’s just waiting for us to re-emerge so it can pounce on us. And with its aura Trait, there’s not a whole lot we can do if it does. I bet I could Blink far enough away to get out of range, but I don’t think I could do it while carrying everyone else.
+
+I exit the view and after getting a small amount of help from Abby, I do exactly what I suggested, reappearing outside the Dungeon, only to fall straight back in. As I predicted, the badger dives at me, trying to cut me to pieces, but its gravity field has the added bonus of sending me downward a lot faster than usual, so by the time it reaches the Dungeon, I’m already back in.
+
+“Fifteen days,” I say when I return. “I can pick it up in fifteen days.”
+
+“Hmmmm…” says Abby. “Well, it won’t really matter once the Joakim situation is handled, but this means that we can’t have Yona pick the entrance up, leave, and then farm essence somewhere else before coming back. At least, not yet. We could always just wait out the 15 days, but if Joakim manages to usurp Maligar during that time, then we probably won’t be able to usurp at all. If he builds up enough essence to take over Maligar, and then succeeds, he’ll have all that new essence, and all Maligar’s essence. And our sources are limited.”
+
+“It’s kinda sounding like we can’t make this happen,” I say. “Which would make you a liar.”
+
+“Ah, not quite,” says Abby, raising a finger and smiling. “Unlike you, I am capable of thinking ahead, and I have a REALLY BIG LOVE FOR MEN’S CHESTS!”
+
+Abby raises her hands to her mouth and gasps. The others look at her in confusion, then at me as I smile triumphantly.
+
+“I figured out how to control the homunculi.”
+
+“So you did…” says Abby. “Anyway, I was saying, I have a plan. And that plan starts with killing those undead in the other instance.”
+
+“FUCK!” Joakim screamed in frustration as he punched a wall.
+
+Even in the pure mage’s relatively fragile body, the strength was more than enough to punch straight through the wood. As he pulled his hand back, the wooden splinters tore bloody lines through his skin, but he barely paid it any attention. It wasn’t his body anyway. He would need to find a new body soon.
+
+This body’s not bad, though, he thought, looking down at himself.
+
+For a moment, he paused his hands drifting toward his chest and legs, but he stopped himself.
+
+No, he told himself. I’m the hero. A hero wouldn’t do that.
+
+…
+
+But no one has to know…
+
+…
+
+No. I have more important things to worry about.
+
+He started pacing again, biting his thumbnail in consternation. Where the hell had the cat gotten a Dungeon? If he hadn’t seen her moving around outside after placing it down, he would have thought she swallowed a core. But no, there was none of that. The Dungeon entrance just appeared, already fully realized, and she tossed not only her allies, but half of Joakim’s own undead inside. He hadn’t been notified of their demise yet, but they were as good as dead.
+
+Their loss was a heavy blow to him, but it was not hopeless. He still had a few more powerful undead left at his command, and of course, Andala. Unfortunately, until the ones in the Dungeon were dead, Andala would be tied up, leaving him with a big hole in his firepower. And he was still far short of essence to be comfortable gambling on usurpation. He was the hero, and he knew that heroes often faced worse odds… but he wasn’t about to bet everything on 8%.
+
+And to top it all off, he had unfortunately already selected his next Named subordinate, and she wasn’t really much of a combatant. But she could be…
+
+He paused his pacing and walked instead toward the next room over, where he did his experimenting. There, a girl’s body was lying in pieces strewn across a table as her soul rested in a soul lantern nearby. It was a gruesome scene that wouldn’t have looked out of place in a horror film, but to Joakim, it was just his Profession. An unfortunate, but necessary Profession.
+
+“Elliora,” he said softly, caressing the lantern. “I’m going to have to apologize, because this won’t be quite the resurrection I promised you and your siblings, but I’m afraid I have no choice. I wouldn’t be doing this if it wasn’t necessary. But you’ll see. In the end, it will all be worth it. Just trust me.”
+
+The soul lantern flickered as Elliora acknowledged his words. It was a displeased flicker, but Joakim ignored it. He had done plenty of things that displeased him. Compared to him, her sacrifice was rather little. In some ways, it wasn’t even much of a sacrifice. He was sure that many would kill to get what he was about to give her.
+
+And it would solve his firepower issue.
+
+“It’s okay,” he said in a comforting tone. “You’ll be able to see them again soon.”
+
+Phillip, at least…
+
+Then, he got to work.

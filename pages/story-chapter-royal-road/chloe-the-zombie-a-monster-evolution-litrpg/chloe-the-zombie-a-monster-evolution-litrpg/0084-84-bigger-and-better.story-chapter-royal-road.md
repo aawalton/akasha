@@ -1,0 +1,171 @@
+---
+id: b8125aef-d763-5da0-be96-d9e1d62a305e
+page-type-slug: story-chapter-royal-road
+title: "84: Bigger and Better"
+slug: 0084-84-bigger-and-better
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 84
+ownLength: 2011
+unit: words
+publishedAt: 2025-12-10
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2835945/84-bigger-and-better"
+royalRoadId: "2835945"
+---
+
+Varnex narrowed his eyes as the writhing orb of shadow surged forward. It was a beautiful thing made from layered malice, decay, and entropy.
+
+So when the undead stepped forward, palm glowing, he almost laughed. What did this silly girl think she was doing? But then the light came.
+
+It split the darkness, pouring from her outstretched hand in a blinding burst. A dome of radiant energy formed around the two girls, and his spell slammed into it and shattered.
+
+Cracks spiderwebbed across the barrier’s surface, but the spell didn’t break through. Not even close.
+
+Varnex stumbled back, hissing as the light scraped against his vision like needles. He raised a clawed hand to shield his face. Around him, the lesser ratfolk howled and recoiled, some dropping their weapons outright.
+
+He glared past his arm, eyes watering, and saw her. That red-eyed abomination, standing there all proud and positively beaming. She turned to the Luphian girl beside her, talking animatedly as she bragged about her spell. He could even hear her from across the room, something about her “super sparkly shield” and how “that was so cool.”
+
+The sight twisted strong feelings in Varnex’s chest. Rage, but also something worse than that, humiliation. A gnawing, shrieking fury that scraped along his bones.
+
+His claws tightened around his staff. “No, I will not be made a fool!"
+
+With a snarl, he raised his staff and slammed it against the floor. A deep boom echoed through the chamber, followed by a rippling pulse of dark energy. The shadows around his feet surged in response, bursting upward in shadowy tendrils.
+
+Darkness swept over the lesser ratfolk, their squealing bodies vanishing beneath the tide. Their souls were weak, but Varnex didn’t care. Fuel was fuel after all.
+
+Their withering cries were cut short as the last of the shadows coiled and tightened, dragging them into the swirling void. Varnex straightened slowly, eyes glowing brighter now. The staff pulsed in his grip, brimming with raw strength.
+
+Varnex steadied himself as the last traces of divine light faded. His breath came uneven at first, but he forced it under control, fingers tightening around the shaft of his staff until the wood creaked. He would end it here, without a shadow of a doubt.
+
+Shadows rose up his arm like ravenous serpents. Power pooled at his fingertips, heavy and hot, ready to strike. Then something went wrong.
+
+His arm jerked violently, snapping sideways with a sickening crack. Pain burst through him, sharp, racing up his nerves before he could even gasp. His staff nearly slipped from his grasp. His knees hit the stone, and his breath stuttered as his own body betrayed him.
+
+Somehow, his legs twisted so much until his muscles screamed. It was as if invisible hands were pulling his body in opposite directions, reshaping him like clay.
+
+It wasn’t Varnex's magic, that was for certain. Someone else was doing this to him.
+
+He turned his head sharply and saw her. The red-eyed girl was moving her fingers in strange motions, like a child mimicking a spell she didn’t understand. Yet the air around her shimmered faintly, thick with a magic that made his skin crawl.
+
+Varnex couldn't believe what he was seeing. That red-eyed girl was warping his body with magic he hadn’t even sensed being cast. It had to be blood magic. But how?
+
+He had studied the forbidden arts for decades, clawing through tomes soaked in madness, offering sacrifices, whispering to names history would rather leave forgotten. And not once had he succeeded in wielding it properly. Yet here she was, moving her hands in those ridiculous motions, and somehow twisting his limbs like they were made of wax.
+
+Before he could unravel the absurdity of it all, the beast girl was already upon him. She blurred forward in a rush, and Varnex barely registered the movement before the pain came.
+
+Her claws tore sliced into his stomach with a wet crunch that knocked the air from his lungs. The hot sting of torn flesh bloomed deep in his gut, and blood began to pool beneath him, spattering across the floor.
+
+He staggered, snarling, the shame of it almost worse than the wound itself. A filthy Luphian had somehow laid hands on him. The insult burned.
+
+With a roar, Varnex slammed his staff into the ground. The darkness around him roared back, surging outward in a shockwave of raw hate.
+
+Black mist swallowed everything as the blast knocked both girls back, sending them skidding across the stone like rag dolls. For a brief moment, the flow of battle was his again.
+
+Panting, Varnex clutched at the gash in his belly with one hand. His staff pulsed in his grip, the crystal at its tip leaking shadow like ink in water.
+
+Rage steadied him. He would end this, no matter what.
+
+With a snarl, Varnex raised his staff and uttered a phrase older than his own name. Shadow from all around him surged up, transforming into the shape of a massive serrated executioner’s blade.
+
+He leveled the spell at the red-eyed girl. “Die!”
+
+The blade screamed forward. It struck and cleaved the girl clean through her from shoulder to hip. Her upper body flopped backward, the lower half crumpling forward, and black ichor splattered across the floor in a wide arc.
+
+That should have been it. The girl had been an anomaly, able to wield both divine and blood magic like a child playing with stolen weapons, but now she was nothing more than a broken thing on the ground. Varnex had killed her. He must have.
+
+But then, somehow, the girl moved. Her top half shifted with a lazy sort of tilt, like someone sitting up from a nap.
+
+The girl blinked, then glanced down at her severed lower half. And in a few seconds, she casually grabbed her legs, before pulling herself back together. A wet squelch echoed through the chamber as her body stitched itself whole again, shadowy energy binding muscle to muscle, bone to bone. The girl was whole again.
+
+When she stood, she patted her cloak and fixed her red eyes on him with an almost bored look. “Okay, that was not cool.”
+
+Varnex froze in place. She should have died. No, she should have stayed dead.
+
+As if things couldn’t possibly get worse, Varnex turned just in time to see the beast girl rising to her feet. The Luphian rose up, blood dripping from her claws.
+
+She met his gaze, and what he saw wasn’t rage, or wild fury, or the madness he expected from a cornered predator. It was something colder. Sharper. A focused intent that made his skin crawl.
+
+Varnex swallowed, his throat suddenly parched and tight. A creeping realization settled in his chest. He might actually lose.
+
+***
+
+Chloe was having the absolute best time. The rat wizard guy was throwing around all kinds of nasty spells, but that just made the fight more fun.
+
+He was strong, but she and Sierra were still kicking, and that was what mattered. Well, she had been sliced clean in half a minute ago, but she'd stitched herself back together just fine. No biggie.
+
+And Sierra looked like she was about two seconds away from turning the guy into a shredded rat… guy. Hope Wolfie doesn’t get a taste for brains, 'cause if she steals mine, we’re gonna have words.
+
+As Sierra lunged forward in a blur of silver fur and fury, Chloe moved too. The rat wizard, Tall Robey, lifted his staff and fired another blast of dark energy. But then instead of dodging or blocking like usual, Sierra just vanished.
+
+One moment, she was there, and the next, she was gone. Chloe blinked fast as Sierra reappeared right behind Tall Robey in a burst of swirling black mist, claws already mid-swing.
+
+Sierra tore into the rat wizard as she ripped and slashed, each strike landing with a wet, ugly sound that echoed off the stone walls. Chloe watched for a moment, impressed, but also a little left out.
+
+With a grin, she lifted her hand and started hurling ice shards into the rat wizard. She wanted in on the fun too.
+
+The two of them made quite the team, Sierra shredding, and Chloe adding her own touch of ice to the mix. After a while, the rat wizard’s screams faded into silence. He twitched once, then slumped over, his staff clattering to the ground.
+
+[You have killed: Varnex the Darkseer (Level 40)]
+
+[Experience has been distributed evenly among all participants involved in the kill.]
+
+[You have leveled up! 2 >> 3]
+
+[Strength +3, Speed +7, Vitality +19, Magic +5, Resistance +7]
+
+With the gross rat wizard finally very, very dead, Chloe decided it was time to claim her prize. She skipped over to his body, crouched down with a satisfied hum, and gave his limp head a little tilt.
+
+Sierra, still catching her breath, stared at her. “Uh… what are you doing?”
+
+Chloe looked up. “Gonna eat his brain, obviously.”
+
+“You’re… what? Why?!”
+
+“It’s part of my thing! It helps me learn stuff. Sometimes it’s memories, sometimes spells. Like, did you know one guy’s brain taught me how to use blood magic?"
+
+“That’s not… normal,” Sierra muttered, taking a small step back.
+
+Chloe frowned, poking the rat wizard’s head. “Says who? I mean, yeah, brains a little squishy, but they're super tasty! And not bad once you get past the texture."
+
+“Chloe, you can’t just say stuff like that.”
+
+“I just did. And I’m gonna do it again, right after I eat this guy’s evil little brain. Who knows what cool stuff is in there?"
+
+There was a long, awkward pause. Then Sierra sighed, turned away, and held up a hand. “Fine. Just do your thing. But I’m not watching.”
+
+“Okay, works for me.” Chloe beamed.
+
+She giggled to herself and crouched beside the rat wizard’s body, rubbing her hands together. Alright, brain, here I come.
+
+Cracking open his skull took a little effort, ratfolk were sturdier than they looked, but eventually, with a satisfying crunch, she popped the top open. Steam rose off the brain in soft little tendrils, and Chloe’s eyes sparkled. It practically glowed with magic.
+
+She dug in like there was no tomorrow. The taste was rich and thick, with this weirdly fancy flavor she couldn’t quite place. It was what Chloe imagined expensive food probably tasted like. There was even a bitter aftertaste, though she couldn’t tell if that was from the magic or something else entirely.
+
+[Brain Consumed: Varnex the Darkseer (Level 40)]
+
+[Experience Awarded]
+
+[You have leveled up! 3 >> 4]
+
+[Strength +4, Speed +6, Vitality +16, Magic +9, Resistance +6]
+
+[Skill Upgraded: Basic Dark Magic Spell Mastery I >> Basic Dark Magic Spell Mastery II]
+
+[1 Trait Point Awarded]
+
+Chloe was feeling pretty pleased with herself. The stat boosts were nice, the skill upgrade made her feel all sparkly inside, but the real win was that shiny new trait point. She had four now, which meant she could finally afford something cool.
+
+She was just about to open her menu and go trait shopping when something sharp jabbed her right between the eyes. Her vision blurred, and the world around her peeled away.
+
+In the next blink, she wasn’t Chloe anymore. She was… Varnex? Ugh, gross.
+
+And the rat wizard was kneeling in front of a massive wolf. Like, big enough to stomp a house down with a single paw kind of big. His fur was white and thick, streaked with green stuff that looked like moss or maybe fungus.
+
+Varnex was groveling. “Please forgive me.”
+
+The giant wolf didn’t even twitch. “Go away.”
+
+“I can still be of use to you, Master Morikhan. Just—”
+
+“Enough. I have nothing left to say to you.”
+
+And then it was over. The vision ended, and Chloe staggered slightly, blinking as the dungeon walls came back into focus. Wait… why was that rat wizard guy talking to Morikhan? And also, how did Morikhan get so big? Like, what did he eat?

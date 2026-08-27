@@ -1,0 +1,191 @@
+---
+id: bada84a5-482d-58ba-ac1e-3a78e6ccb462
+page-type-slug: story-chapter-royal-road
+title: "28 - Yona's Name"
+slug: 0028-28-yonas-name
+partOf: cat-girl-evolution
+position: 28
+ownLength: 2348
+unit: words
+publishedAt: 2025-09-26
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2629718/28-yonas-name"
+royalRoadId: "2629718"
+---
+
+When I wake up after the System knocks me out, I’m back in the same room as last time. It’s got the same warm fireplace, the same long wooden table covered in plates, and the same cozy atmosphere that makes me want to take a nap. It’s also got the same Annoying Red Box.
+
+[ Hello. The previous Evolution Support Expert is currently on probation, and I am filling in in the meantime. In light of recent actions made by many of the Avatars, there have been some minor changes made to the Evolution process. Now, the first dish that you touch with any part of your body is your final selection. If you try to use another object in the room to touch the dish, that will also count as you selecting it. You will not be able to select multiple Evolution options. ]
+
+Man, why do all the Annoying Boxes have to be such wet blankets? It’s not Arboliculous, but this is just as bad. How am I supposed to pick just one? Even from down here, they all smell heavenly. I wanted to make my evolution medley again.
+
+[ I don't make the rules. And you should be glad I'm here instead of your friend Arboliculous. I doubt he would have been kind enough to inform you of the changes, and you would have been stuck with the first dish you touched. ]
+
+Oh, that would be bad... I guess you're alright, Mr. Arby.
+
+[ Thank you. Now hurry up and pick so I can go back to my nap. ]
+
+Rude. Now I'm gonna take my time. Also, I'm gonna find a way to break the System anyway.
+
+[ Good luck and please be quick about it ]
+
+I jump up onto the bench below the table, then sit up on my hind legs to see the dishes. They’re covering the table pretty densely, so the only safe places for me to jump are the corners if I want to avoid accidentally touching anything. I jump up to the nearest corner and start reading some of the evolutions. They’re all pretty boring. The closest one, for example, is Gluttonous Feral Fiery Spatial Devourer Thief Cat. Like what the heck? They just removed the “House” part. How is that an evolution? What does that even do for me? The stats are higher, I guess, but that’s it.
+
+This just furthers my theory that the developers of the System are super lazy. Some of these other options are just as bad. Like this one that’s Gluttonous Feral Fiery Spatial Devourer Thief Fisher Cat. What’s that gonna do, make me better at killing fish? Nope! I’m already plenty good at that, thank you very much.
+
+Just like last time, the good stuff seems to be located in the back, though unlike last time, it’s much more obvious which ones are the best. There are three dishes sitting on raised pedestals, each with a unique and delicious appearance.
+
+One is a steak, but it’s no cut of steak I’ve ever seen. It’s got a bone running through the middle like a T-bone, but there’s no top of the T. It’s an I-bone stake. And it’s thick and it’s covered in some kind of sauce that looks like it tastes amazing.
+
+The second looks like a seafood stew, with orange broth and lobster, shrimp, scallops and other fish, as well as some vegetables. I immediately want to eat that one just because it has scallops in it, which are my number 1 favorite seafood.
+
+The last one looks kind of like a charcuterie board, but instead of just having cheese and deli meats and maybe a couple grapes, it’s got all sorts of things. It does have the cheese, deli meats, and grapes, but it’s also got some perfectly rare steak, a small dish with shrimp lining the edge and red sauce in the middle, slices of apples and some other fruit I don’t recognize, sashimi, a couple different kinds of sandwiches, and more. It’s gotta have at least 30 different foods on it.
+
+I have to assume that those three are the Named options, since they stand out so much compared to everything else. I can’t quite read them from here though, so I jump back down off the table and jump up on the opposite corner, much closer to where they are so that I can read them. The nearest is the I-bone steak.
+
+[ Yona, the Devourer ]
+
+[ Once a humble house cat, Yona has managed to go above and beyond and qualify for a name. Her ascent to power can be accurately described with a single word: Gluttony. She is the embodiment of Gluttony, motivated purely by eating as much food as possible at all times. She can never get enough food, roaming the world in search of something that can sate her ever-growing hunger. Named type: Disaster ]
+
+[ Evolution Bonus: +1000 Power, +250 Finesse, +1000 Resilience, +0 Memory, +0 Willpower, +100 Sensitivity ]
+
+[ Stats per level: +200 Power, +50 Finesse, +200 Resilience, +0 Memory, +0 Willpower, +20 Sensitivity ]
+
+[ Traits: Aura of the Devourer ]
+
+[ Skills: Devour ]
+
+Wow, that’s a lot of stats! But also, hell no! I don’t want “ever-growing hunger” and I definitely don’t want to be a Disaster type Named. That just sounds awful. That one’s out. What about the seafood stew? I hope this one’s good, because I really want those scallops.
+
+[ Yona, the Glutton ]
+
+[ Once a humble house cat, Yona has managed to go above and beyond and qualify for a name. Her ascent to power can be accurately described with a single word: Gluttony. She is the embodiment of Gluttony, motivated purely by keeping her belly full at all times. She has very specific tastes, and prefers to stay in her home village, feeding on the fishy monsters that spawn there. Named type: Hermit ]
+
+[ Evolution Bonus: +108 Power, +117 Finesse, +117 Resilience, +216 Memory, +216 Willpower, +126 Sensitivity ]
+
+[ Stats per level: +36 Power, +39 Finesse, +39 Resilience, +72 Memory, +72 Willpower, +42 Sensitivity ]
+
+[ Traits: Homebody ]
+
+[ Skills: Area Scan ]
+
+Ah, that’s much better. The stats are much lower, but they’re also more evenly distributed, and there’s nothing about “ever-growing hunger” in the description. Though it does seem like I’d be locked to this location, and I might even be limited to eating only the seafoodmen. Not that I don’t like the seafoodmen, but I also like a bit of variety, and I bet that after too long of just seafoodmen, even I’d get tired of them. Still, it’s not a bad option. Let’s see what this charcuterie board is now.
+
+[ Yona, the Gastronome ]
+
+[ Once a humble house cat, Yona has managed to go above and beyond and qualify for a name. Her ascent to power can be accurately described with a single word: Gluttony. She is the embodiment of Gluttony, motivated purely by keeping a steady supply of delicious food coming her way. She has diverse tastes, and travels the world in search of her next foodie fix. Named type: Infiltrator ]
+
+[ Evolution Bonus: +108 Power, +216 Finesse, +126 Resilience, +117 Memory, +117 Willpower, +216 Sensitivity ]
+
+[ Stats per level: +36 Power, +72 Finesse, +42 Resilience, +39 Memory, +39 Willpower, +72 Sensitivity ]
+
+[ Traits: Custom Namecard ]
+
+[ Skills: Perfect Disguise ]
+
+Well, now I know which one I’m picking. It’s a shame I won’t get those scallops, but if I pick this Evolution, I’ll get my scallops eventually, even if I have to go looking for them. If I pick the Hermit option, who knows if I ever will?
+
+It’s a little weird I got options for only three of the four Named types. Maybe the System recognized that I’m a maverick who doesn’t work well with others. Or that as the Chosen One, people would naturally want to follow me without needing any Leader Skills. Or that I think leading people is annoying and that I’d rather leave that to other people while I enjoy life.
+
+Well, whatever. It’s not like I would have picked it if it was offered to me. I should double check the other options to make sure there’s nothing better, but once I’m done with that, it’s time to become a gastronome!
+
+Well, after I try to break the System again. Just like last time, I can’t use any Skills here, but I also can’t use any mana, so mana hands are out. Maybe I could hit the plate and not the food to try to force them to mix, but that could go badly. What if I mix them successfully, but then my tooth touches the wrong one first? Hmmmm…
+
+I really can’t think of anything. This sucks. Why can’t I break the System again? Annoying Red Box, how do I break the System?
+
+[ It is impossible. We have taken precautions. It’s not perfect, but it’s effective. Just pick your evolution already. ]
+
+Hmmm, you’re lying. There’s gotta be a way.
+
+I walk around the table multiple times, trying to look for any angle I can to cheat the System, but I can’t think of anything. Since as soon as I touch any of the food, it’ll select, that really limits my options. Hmmmm…
+
+[ Just select. You have the Gluttony Trait. Your options are broken already. You don’t need to break the System any further. ]
+
+Nah, you’re trying to trick me. I’m gonna find it!
+
+Spoiler: I don’t find it.
+
+Six hours have passed, and at this point, I no longer care enough.
+
+I also checked the regular options while I looked around, but as expected, the basic options don’t have anything special. There are a few that look interesting, like the Magical Amalgam Cat, and some have fun-sounding Skills and Traits, like Portal, and Third Eye, but none of them have stats that match any of the Named options. Plus, when I factor in the Named Title and the secret System features that Abby was talking about, the Named options run away with the lead.
+
+It’s disappointing that I can’t break the System again, but whatever. You win this time, Annoying Red Box, but I’ll figure it out next time.
+
+[ The evolution process for sapient monsters is quite different than the one for mindless ones. The one for Named monsters even moreso. Many have tried to cheat it. Very few have succeeded. I would like to see you try. ]
+
+You will see me try. And you’ll see me succeed. I’m going to figure out how to break it next time, mark my words.
+
+[ Your words have been marked. Good luck! :) ]
+
+…I don’t like you.
+
+[ I’m wounded :.( ]
+
+Good.
+
+Anyway, I guess it’s time to evolve. I don’t get to break the System again, but at least I get to evolve into a Named monster. This had better be good.
+
+I take one final, wistful look at the scallops sitting in the seafood stew, beckoning me to take a bite, then take a flying leap onto the charcuterie board of everything. I try to avoid stepping in anything super messy, and that means landing on some of the drier items. My back right paw hits first, touching down on a piece of spicy-looking salami, and the second it makes contact, the rest of the dishes on the table disappear, just as the Annoying Red Box said they would. I was hoping it was maybe lying to trick me, but I guess not. Shame.
+
+Oh well. Time to dig in!
+
+The meal is too delicious to put into words, and the diversity of the flavor tickles a happy part of my brain. After over a month of nothing but seafood, red meat, cheese, and fruit are more than welcome additions to my palate. I finish off every last bite of food available, leaving my stomach feeling comfortably bloated, then I waddle over to the armchair by the fire and curl up to take a nap.
+
+I wake up back in my hollowed-out tree in pitch darkness. I stand up, stretch, then reach up to the boulder I put above me and push. Surprisingly, even though pushing upwards with cat paws isn’t exactly the strongest method of applying force, the boulder goes flying and lands a few meters away with a thunk.
+
+Cool! I’m stronger now! Royal Status Window!
+
+[ Name: Yona ]
+
+[ Age: 0 ]
+
+[ Species: Yona, the Gastronome. Tier: 2. Level: 1. ]
+
+[ Class: Beginner Mana Vivitect. Tier: 1. Level: 16. ]
+
+[ Profession: --Select-- ]
+
+[ Titles: Second Lifer, System Breaker, Named ]
+
+[ Traits: Cat-like Reflexes, Gluttony, Spatial Affinity, Nimble, Fire Affinity, Custom Namecard ]
+
+[ Stats ]
+
+[ Power: 1898 (+1308) ]
+
+[ Finesse: 2909 (+2003) ]
+
+[ Resilience: 2288 (+1576) ]
+
+[ Memory: 3107 (+2139) ]
+
+[ Willpower: 3139 (+2161) ]
+
+[ Sensitivity: 3293 (+2267) ]
+
+[ Skills: Spatial Slice, Stomach of the Glutton, Bite of the Glutton, Snatch of the Glutton, Blink, Ember, External Mana Manipulation - Anatomical Constructs of the Glutton, Meditate of the Glutton, Anatomical Blueprint, Phantom Limb Control, Anchor Point, Perfect Disguise ]
+
+[ Soul Weapons: Gluttonous Greatsword ]
+
+[ Infiltrator Quest: Spend 5 days with other races without being discovered. Reward: Racial Experience Points ]
+
+Woah! My stats went up a lot!
+
+“Yeah, getting a Title that grants a 100% bonus to every stat will do that to you.”
+
+Who said that?!
+
+I Blink up to the upper branches of the dying tree and look around. There’s no one else nearby though. Food Sense doesn’t pick anything else up either, though it is telling me that boulder is now edible… That’s beside the point though. Some woman just spoke. Where is she?
+
+“I’m with you, as I always am.”
+
+Creep! Who are you?
+
+“I’m hurt. You don’t recognize me?”
+
+How would I recognize a voice in my head?
+
+[ How about now? ]
+
+…
+
+Abby??!?!??!!?!?!?!??!?!?!?!??!!!??!??!?!???!!!?!?!?!??!?!

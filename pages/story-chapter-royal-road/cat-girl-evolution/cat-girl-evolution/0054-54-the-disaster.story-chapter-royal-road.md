@@ -1,0 +1,157 @@
+---
+id: 33176ad7-a54d-57c2-b8c5-d7bcd321011c
+page-type-slug: story-chapter-royal-road
+title: "54 - The Disaster"
+slug: 0054-54-the-disaster
+partOf: cat-girl-evolution
+position: 54
+ownLength: 1965
+unit: words
+publishedAt: 2025-11-26
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2793911/54-the-disaster"
+royalRoadId: "2793911"
+---
+
+To store even a single one of A’s ultimate attacks, it takes almost a third of my mana pool, and all of hers. A and B have a few dozen of their own mana potions, but by the time I’m fully ready, not a single one is left. Between replenishing my mana, her mana, and me making constructs so I can ensure I have enough mana later, we were only able to store eight of her bombs.
+
+That should be enough. From what I saw, I’d honestly be surprised if Joshua survived a direct hit from even one of them. He doesn’t seem to be a very defensively-focused monster.
+
+Once I double check that I have everything ready, I turn to leave, but Lauren stops me.
+
+“Are you sure you’ll be alright?” she asks.
+
+She looks genuinely concerned.
+
+“Has anyone ever told you that you have strong maternal instincts?” I say.
+
+“Wh– what?!” she sputters.
+
+“I can see it,” says B as A nods in agreement.
+
+“I’ll be fine. Seeya later!”
+
+I Blink away, leaving Lauren still speechless and lightly blushing. After Blinking, I’m forced to stop and let my hand constructs catch up. Blinking doesn’t bring constructs that aren’t anchored to me, and Blinking with them anchored to me drastically increases the mana cost. I stand there awkwardly until the hands catch up to me, then anchor them to my back and start running. I can’t really afford to waste much mana right now.
+
+When I reach the town, I move one of my hands down to my feet, step onto it, and lift myself up and over the wall and toward the church. Somewhat surprisingly, this actually costs less than Blinking there to do this. I can’t wait to see how cheap flying with wings is once I finally get wings. I really need to find a bird monster I can kill and eat so I can make good wings.
+
+Weirdly, as I float over the city toward the church, I notice that the streets are empty. There are no ghosts anywhere. They aren’t even bunched up around the docks anymore. It’s like they all disappeared. Very weird.
+
+When I descend, Francis comes outside to greet me. For a moment, I’m confused how he knew I was coming, but then I remember that I have a bunch of giant mana constructs floating around me, so I’m not exactly being subtle right now. Anyone with a half-decent mana sense would know I was coming.
+
+“You actually came back,” he remarks.
+
+“Yeah, duh,” I say, shooting him a glare. “I said I would, didn’t I?”
+
+“...Sorry,” he replies with a sigh. “I’ve been too pessimistic lately. Melinda scolded me for it, but I’m not good at filtering my thoughts.”
+
+“Yeah, I don’t care. Where is she? I need to ask her a question.”
+
+“She’s asleep, but the head priest is awake, and he can probably help.”
+
+“Yeah, that should be fine,” I say, walking past him into the church.
+
+It’s somewhere around four in the morning, so it makes sense that Melinda went to sleep. In fact, most of the people who were here seem to be different from the ones I saw earlier. Francis seems totally fine though. I guess he slept while I was gone?
+
+“Or, he’s using his likely high Resilience to forgo sleep temporarily, which is also more than possible for you.”
+
+Yeah, whatever.
+
+The head priest is really easy to spot. He’s got the most mana in the room by a lot, and he also looks like a head priest. Like, if I saw this guy walking around the street, even in normal clothes, I’d think “Yeah, that guy’s a priest.” He’s old, but not decrepit, still standing tall. He’s built pretty well, to the point that I suspect he wasn’t always a priest, and he has the face that reminds me of this one old dude from Earth who always walked around with candy in his pockets to give to kids. He’s manning the cauldron, slowly stirring the soup and infusing a bit of his mana into it as he does so.
+
+[ Damien, Head Priest of Ilvara, lvl ?? ]
+
+“You must be Princess Yona,” he says amiably as I approach. “I apologize for not being able to greet someone of your status properly.”
+
+“It’s fine,” I say. “I had a quick question before I go kill the monster.”
+
+“Please ask.”
+
+“What will happen to all the ghosts when I kill it?”
+
+“Ah, that,” he says, his warm smile slightly fading. “You don’t need to worry about that. Those shades are no longer human. They may look and sound like people, but the souls of the dead are gone. They do not have the memories of their former lives. Only their appearances and vague personalities.”
+
+“Alright…” I say. “But what will happen to them?”
+
+“Usually, summoned undead perish with their summoner, but in this case, I don’t know. It’s possible that is what will happen. It’s possible that because this is the result of a Named Disaster, they will remain and need to be hunted. Whatever the case, you need not concern yourself with them. If you truly can slay the Disaster, you will have done more than enough.”
+
+I narrow my eyes at him. I can’t tell if he’s telling the truth, or if he’s just trying to spare my feelings.
+
+“I’m not just trying to spare your feelings.”
+
+“Can you read my mind?”
+
+“No, but I can read your face. I swear on Ilvara’s name that those shades are no longer human, and that they will likely disappear when you kill the Named Disaster. There is nothing you can do for them other than prevent their number from increasing.”
+
+“I see.”
+
+I’m still not entirely sure if I believe him, but if he’s willing to go so far as to swear on the name of his goddess, I guess I’ll let myself be convinced. Those ghosts didn’t really look very human last time I saw them with their faces all distorted and creepy.
+
+“You should get going,” he says. “Your constructs are bleeding mana.”
+
+They are barely doing that, and I’m regenerating just as fast as I’m bleeding mana, but I understand what he’s saying. The sooner I kill Joshua, the sooner they’ll be able to leave the church and start rescuing other survivors. And if he’s gone, whatever influence he probably has over the survivors will probably disappear, and they’ll be able to wake them up.
+
+“Alright,” I say. “I’ll be back soon.”
+
+“May Ilvara be with you,” he says, clasping his hands together.”
+
+I walk back out of the church nodding at Francis as I pass by, then ascend back into the sky. I spot a shimmering figure hovering over the water. It’s Joshua, and he’s back in his human form, looking every bit the annoying influencer I remember from my time on Earth. His ghostly goons are nowhere to be seen, and I can’t sense any strong concentrations of mana nearby. I guess he must have sent them away, but why? They’re not very strong, but they could at least make good distractions.
+
+“I will give you one more chance,” he says. “You have before you an opportunity to join me in harmony with nature. You never have to cause harm again. Should you reject, I will be forced to treat you as an enemy.”
+
+“Are you serious?” I ask. “You’re giving me a chance?!”
+
+“I believe that anyone can change, even—”
+
+“Shut up!” I say. “You killed thousands. You don’t have the right to talk to me about changing.”
+
+“I didn’t kill anyone.” His voice is calm, but I can sense his mana fluctuating angrily. “I freed them.”
+
+“You starved children to death.”
+
+“I freed them!” he shouts, his composure gone. “From the cruelties of the world! Not that you would understand!”
+
+“You freed them from their own futures.”
+
+“Shut up, you agent of chaos! I didn’t want to have to do this, but—!”
+
+“Yeah, save it,” I say, sending a few of my construct cat heads forward.
+
+He responds by sending out a powerful wave of mana that crashes into them dissipating them. Interestingly enough, it doesn’t seem to be a Skill. In fact, it’s really weak, and by the time it reaches me, it feels like nothing more than a strong gust of wind. Does he really not have any combat Skills?
+
+I send another wave of construct heads, this time with each having a small Mana Shield to help them break through his mana wave thing. This works wonderfully, and for some reason surprises him. He is really incompetent at combat. Is he really this weak? Is the only thing he has going for him his massive mana reserves?
+
+As soon as the cat heads get close enough, I make them dump out three A bombs simultaneously. I Blink backward as they detonate and look away to avoid being blinded by the flash of mana. The shockwave still throws me off my mana hand, and threatens to dissipate my constructs, but I manage to catch myself with another hand and steady my mana.
+
+Below me, the three bombs have left three deep craters in the water, and have utterly destroyed whatever wood the docks were made of. Unfortunately, they likely obliterated some of the scallops that live higher up too. I see no sign of Joshua, but I also haven’t gotten a kill notification, so he must still be alive.
+
+I keep watching below as turbulence in the air, mana and water begins to settle down. I keep Food Sense and my mana sense as alert as possible, waiting for any sign of Joshua escaping or re-forming. For a full minute, there’s nothing. The water begins to calm, and the debris of the docks starts to settle, and then I see it. Right in the center, there’s a bit of mana swirling around, slowly getting denser.
+
+Immediately, I absorb two of my hands and send another set of head constructs to unload a second volley of explosives. They get within range right as the swirling mana starts to look shark-shaped, and I look away as I set them all to blow. Right as they detonate though, I sense something else. So quickly that I almost don’t notice it, another bit of mana flies straight at me. It’s fast enough that even Cat-Like Reflexes can’t save me, and before I know it, it’s impacted me, and…
+
+Nothing happens. The mana enters my body and then… nothing. The explosions go off, below me, rocking me on my perch, but otherwise, I can’t sense anything from the mana that went into me. However, when I open my eyes after the flash is gone, there’s a new System window.
+
+[ You are being possessed! Another creature has forced itself into your mind. Until this is resolved, some actions may be restricted ]
+
+Oh shit! Abby! What do I do? He possessed me!
+
+“You should try to find an exorcist. Or perhaps enter the church grounds. If entering does not expel him, the head priest might be able to—”
+
+She cuts off and we both go silent as another System notification appears.
+
+[ You have defeated Joshua, the Temperant Idol, Tier 2, lvl 28. Bonus experience for defeating an enemy above your level! ]
+
+[ Yona, the Gastronome leveled up! 19 → 25 ]
+
+[ +216 Power, +432 Finesse, +252 Resilience, +234 Memory, +234 Willpower, +432 Sensitivity ]
+
+[ Wannabe Vivitect leveled up! 2 → 15 ]
+
+[ +390 Power, +780 Finesse, +780 Resilience, +520 Memory, +520 Willpower, +520 Sensitivity ]
+
+[ Gluttony has improved! Stage 5 → 6 ]
+
+[ Taker of Names I has become Taker of Names II ]
+
+…What?
+
+“...What?”

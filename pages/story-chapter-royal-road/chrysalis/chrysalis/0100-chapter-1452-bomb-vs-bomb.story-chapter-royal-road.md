@@ -1,0 +1,89 @@
+---
+id: 8dbfd06a-524b-5cda-86a0-efae4fd1dbe3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1452 - Bomb vs Bomb"
+slug: 0100-chapter-1452-bomb-vs-bomb
+partOf: chrysalis
+position: 100
+ownLength: 962
+unit: words
+ownProgress: 962
+publishedAt: 2024-11-13
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1900320/chapter-1452-bomb-vs-bomb"
+royalRoadId: "1900320"
+markedReadAt: "2026-06-29T19:47:16.751Z"
+---
+
+This is outrageous! How dare you, snake! This is my secret, personal technique! Have you been peeking at my notes, stealing my private writings and copying my homework? This can’t be allowed!
+
+Gandalf! Intervene in this situation immediately.
+
+My gravity bomb screams and howls as always, but even through that din, I can still hear the spell unleashed by the snake monster hiss and spit as it shoots forward. My mana sense is screaming about the dense, potent mana contained within, some form of venomous mana.
+
+It doesn’t feel the same as the fifth’s native energy; this is something different entirely, though likely just as deadly.
+
+The two energies collide and I belatedly leap into my hidey-hole, digging in my claws and sticking my head out over the edge to watch what happens.
+
+The gravity bomb expands, turning into a whirling vortex of inescapable doom. Just the sort of thing I wanted to see.
+
+Your bomb is a cheap imitation, snake! How dare you try and copy my technique?!
+
+However, even though I know my spell is overpowering the other, I can still see it. I don’t even need my mana sense to tell what’s happening, I can see it with my own eyes. The black hole I’ve created is flecked through with that potent venom. Every now and again, it splashes out in bursts and arcs like coronal ejections from the sun.
+
+That lousy venom is eating my gravity mana!
+
+The two energies are busy cancelling each other out, but the gravity bomb is stronger, much stronger. Despite its own spell, the den of the snake is far from unaffected by the magic. Slime is getting ripped into the air, stones are crumbling, the walls of the tunnel shaft are cracking, chunks breaking off and falling into the void.
+
+But the venomous properties of that slimy-toothpick’s mana are eating away more of the bomb than I’d like, weakening it quickly.
+
+When the black hole finally sputters out and fades away, the snake remains, unhurt, glaring up at me.
+
+I glare right back.
+
+You think you have the right to feel upset just because I launched a devastating and deadly spell at you out of the blue with no warning? Nonsense! I’m the one who has a legitimate grievance!
+
+Well… honestly, now that I think about it more closely… the gravity bomb technique isn’t all that secret.
+
+I learned super early on that it was possible to compress mana… and I killed a monster by shooting a ball of plain, unchanged mana at it. Not long after, I got access to gravity mana and naturally used that to perform the technique from that point forward, since gravity mana works super, super well with it.
+
+But… you could make a bomb out of any type of mana, and it’s not like it’s complex to do it, you just take a massive amount of mana and cram it into as small a ball as you can, then launch it.
+
+Honestly, I wonder why more people don’t use it?
+
+A wave of all of my near-death experiences caused by the gravity bomb flashes through my head in an instant.
+
+Ah.
+
+That’s probably why.
+
+Also, even if it isn’t complicated, it is hard. Condensing mana to the extent necessary to create a bomb requires dedicated Skills and is mentally taxing… putting it mildly. Not to mention, using regular spell forms is probably ten times more efficient.
+
+Anyways! Stupid snake!
+
+It’s still down there, staring up at me, menacingly. Deadly venom drips from its massive fangs as it shifts its body slowly. Is it priming for a leap?
+
+I tense.
+
+Instead of springing forward, I feel a powerful surge of mana as dozens of bolts begin to form in the air. The snake hisses as they surge forward, flying toward me at dizzying speed.
+
+You’re actually a mage-snake?! You’d go this far just to defy my expectations?!
+
+I snap a barrier into place, more than enough to block such weak attacks, only to double-take when the venomous mana starts to eat through the shields.
+
+Anti-mana mana… that’s cheating, surely.
+
+I refuse to accept this!
+
+My brains kick into gear. Leveraging my constructs and Skills, I push them hard and begin weaving mana like a master weaver with a hundred arms making two-dozen rugs. More shields spring into existence as bolt after bolt of blue flame is launched down towards the lousy serpent.
+
+You want to throw bolts? I can throw bolts just as well as you! Better, even!
+
+Unsurprisingly, the slime coating over the snake snuffs out the flames quite easily, but I suspect with enough heat it’ll eventually be burned away. For its part, the monster isn’t all that pleased by my attack, and though it doesn’t defend itself, it redoubles its efforts, adding spears of condensed venom to fire at me alongside the bolts.
+
+These spears punch into my shields with tremendous force before splattering and dissolving them in moments, forcing me to make more and more. The two of us have fairly comparable cores, so in a battle of mana, we’re likely to come out even… depending on who has the better organs and mutations.
+
+In that sense, using regular mana isn’t to my advantage. It’s probably drawing from an organ, or network of organs, to produce this venom mana, whereas I’m working with energy from my core.
+
+I’m way more efficient when using gravity mana anyways.
+
+I cast away my blue fire bolts and dedicate those minds to drawing out and weaving the dense, potent energy contained in my gravitational mana gland. It isn’t cheap to cast gravity spells, and I only know the one, but we’ll see how well this lousy snake likes being crushed under the might of an empowered well.

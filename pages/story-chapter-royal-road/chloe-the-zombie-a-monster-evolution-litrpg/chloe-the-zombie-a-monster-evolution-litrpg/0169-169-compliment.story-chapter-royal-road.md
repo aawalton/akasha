@@ -1,0 +1,115 @@
+---
+id: 3658ce81-fa7d-551a-bef5-705ba074060c
+page-type-slug: story-chapter-royal-road
+title: "169: Compliment"
+slug: 0169-169-compliment
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 169
+ownLength: 1949
+unit: words
+publishedAt: 2026-06-24
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3584736/169-compliment"
+royalRoadId: "3584736"
+---
+
+Chloe understood that anybody who casually walked out of the darkness asking “easy way or hard way” was probably bad news. Normal people usually didn’t introduce themselves like mysterious crime bosses.
+
+The guy’s appearance definitely wasn’t helping either. Between the black clothes and those broken black wings hanging behind him like they barely worked anymore, the entire thing practically screamed fallen angel. And while Chloe didn't want to judge a book by its cover, she also couldn't help but feel weary at the idea that she might have to throw down with a fallen angel in the next few seconds.
+
+Fallen angels usually were the kinds of folks locked up in prison from what she remembered. And not for petty stuff too, but real deal serious stuff that she didn't really want to think about too much. Anyway, Chloe came to the completely reasonable conclusion that she was absolutely not going to become toast down here.
+
+If anybody was getting toasted today, it was gonna be this guy instead. Or maybe roasted? Fried? Did angels count as birds technically? Because if they did, then maybe this would make him some kind of extra edgy burnt turkey. Chloe didn’t fully know where her brain was going with that comparison anymore, but the important part was that she had mentally committed to violence if needed.
+
+Beside her, Z remained calm despite the tension filling the underground corridor. “Who are you?”
+
+The man didn’t answer. He just stared at them for another second before slightly tilting his head again. “I asked a question, you answer now, or we do this the hard way.”
+
+Well okay wow, this guy really only had one line apparently. But even so, Chloe immediately understood that there was not gonna be an easy way out of this anytime soon.
+
+She and Z were basically complete opposites most of the time. Z was calm, and was the kind of person who actually thought things through before acting, while Chloe herself usually solved problems by charging directly at them. Somehow though, despite how different they were, Chloe could still tell exactly what Z was thinking without either of them needing to say it out loud.
+
+She glanced toward Z just in time to see her give the faintest nod, and Chloe immediately grinned slightly in response. Well, it is what it is.
+
+The moment Chloe nodded, both she and Z moved at the exact same time. The fallen angel reacted to this by taking a stance as if to say "come get me", though he was weirdly quiet now.
+
+Dark energy burst around him as Chloe launched herself forward first, moving much faster and louder than Z because she did want to get the first hit in. “Alright creepy tunnel guy, you officially picked the hard way!”
+
+The man tilted his head slightly, and Chloe’s fist missed his face by barely an inch. Chloe immediately followed up with another strike aimed toward his ribs before twisting into a kick toward his side, but the guy kept slipping around every single attack with these smooth effortless movements that made her feel like she was trying to punch fog. His black wings dragged loosely behind him across the floor while shadows curled around his arms and shoulders, and every time Chloe thought she finally had him cornered, he twisted away again. Okay wow, this guy is unbelievably annoying.
+
+Not to be deterred, Chloe pushed harder, throwing another rapid series of punches while trying to overwhelm the fallen angel through sheer aggression, but this didn't really work out. The fallen angel barely broke a sweat dodging, meanwhile Chloe was out here fighting like an angry wrecking ball, which normally worked pretty well for her, but right now it felt like she was swinging at somebody who could already see everything she planned to do before she did it.
+
+Then suddenly the dark aura surrounding him pulsed outward. Chloe immediately felt something slam into her chest. “Oh cra—”
+
+An invisible force exploded against her body and launched her backward across the corridor so fast her feet left the ground. A split second later her head punched directly through one of the weaker concrete walls with a violent crack that echoed throughout the tunnel.
+
+Chloe just remained there awkwardly embedded halfway into the wall while chunks of broken concrete and dust slowly rained down around her. Her body hung limply outside the crater while her head remained completely stuck inside the wall itself. What… just happened?
+
+Then Chloe started violently wiggling back and forth while she internally complained. Geez, this is so embarrassing. Felt like I was taken out like some background character.
+
+She shoved herself backward until her head finally popped free from the concrete. Chloe stumbled backward slightly before immediately shaking dust and debris out of her hair. Still grumbling to herself, Chloe looked back toward the center of the corridor and immediately froze. Z and the fallen angel were locked in combat.
+
+The fallen angel drove forward first with a punch coated in dark energy that distorted the air, but Z smoothly shifted sideways at the last second before countering with a strike of her own aimed directly toward his ribs. Bright divine light flared across her arm as she attacked, clashing violently against the man’s shadows.
+
+The fallen angel spun low with another strike aimed toward Z’s side, but Z blocked the attack cleanly with one arm before driving her elbow toward his jaw. He barely twisted away in time, then retaliated immediately with a kick that forced Z backward.
+
+The fight was totally intense, and somehow Z was keeping up perfectly. Actually no, she wasn’t just keeping up. She was good, really good actually, which kind of sort of confused Chloe a little.
+
+Because, no offense, but Z looked like the kind of person who spent her time organizing paperwork and working from behind a desk somewhere, not somebody who could fistfight mysterious underground fallen angels like she belonged in an action movie. But even crazier than that she was doing all this while wearing glasses.
+
+Anyway, the fight somehow kept getting faster. At first Chloe thought she was doing a pretty good job following everything, but after another few exchanges she started losing track of who was punching who. The fallen angel drove forward aggressively, dark energy pouring from his body in thick waves as he unleashed a barrage of punches and kicks toward Z.
+
+Z slipped past one punch, blocked another with her forearm, then countered with a glowing strike that exploded against the man's shoulder in a burst of divine light. The impact blasted chunks of concrete from a nearby wall, but the fallen angel barely seemed to notice. He immediately retaliated with another attack, forcing Z backward before she spun around and drove a kick into his ribs, knocking him back.
+
+The fallen angel dug his heels into the concrete and brought himself to a stop, leaving deep grooves carved across the floor. Then he smiled, and that immediately made Chloe nervous.
+
+Not because it was an especially evil smile or anything like that. But it was kinda worse, like he knew something she didn't. Like somebody who had just decided to stop holding back.
+
+A second later, dark energy erupted from his body again. This time it was much thicker than before, pouring from him in dense waves. And despite standing well away from the fight, she could feel the growing pressure building throughout the area.
+
+At the same time, brilliant white light spread across Z's body. It was bright enough that Chloe had to squint just to look at Z, and it was clear that the former administrator really meant business now. .
+
+The entire corridor soon looked like some kind of deranged disco as shadows and divine light crashed together in rapid succession, filling the space with alternating flashes of black and white. Every collision sent shockwaves through the area hard enough to rattle the pipes overhead and shake dust from the ceiling. The fallen angel lunged again and again through swirling darkness while Z met every attack head-on in bursts of light, neither giving ground as the impacts grew stronger with each exchange. And then—
+
+"Enough."
+
+The single word cut through the corridor instantly, silencing the fight as completely as if somebody had flipped a switch.
+
+Chloe had absolutely no idea where that voice had come from. She started looking around the corridor, her eyes darting between the shadows, the ceiling, and every dark corner she could see, trying to figure out who had spoken. The voice hadn't even seemed to come from any specific direction at all.
+
+But what happened next was somehow even stranger, because the fallen angel actually listened. The man immediately lowered his stance and stepped back from Z without the slightest complaint. One second he had been trying to punch her through a wall, and the next he was standing there calmly as if he was just about to say hi.
+
+Despite Chloe's shock though, she figured it was best to check on Z first. Once it became clear that nobody was about to launch another surprise attack, she quickly jogged over towards Z.
+
+"You okay?" she asked.
+
+Z adjusted her glasses with perfect calm. "I've been better, but I am mostly fine."
+
+"Cool, good to see you're okay Z."
+
+Z slowly turned her head toward Chloe. "Why did you not assist me after recovering?"
+
+Chloe immediately froze. "...Listen."
+
+"Chloe."
+
+"I have a good explanation!"
+
+"Chloe."
+
+"I just got distracted okay? And besides, you were totally handling the fight just fine on your own right?"
+
+"A fair point, but I would have appreciated some help."
+
+Z stared at her, and Chloe grinned sheepishly. "Look, there was a lot happening.  Also your glasses were doing things that I don't think glasses are supposed to do."
+
+After that, Z let out a long sigh. A really long sigh. Somehow that felt significantly worse than being yelled at. Chloe had already started preparing a perfectly reasonable defense, but before she could continue arguing her case, she noticed something change. The calm expression Z had worn throughout the conversation vanished instantly, replaced by a level of focus that immediately put Chloe on edge.
+
+Z turned toward the darkness beyond the corridor, and Chloe tensed as well. Whatever had gotten Z's attention, it was enough to make her forget all about Chloe's questionable contribution to the fight. Then somebody stepped out of the shadows.
+
+A woman soon approached, like the guy fallen angel, she also had black wings, though hers were visibly damaged as well. Several feathers were missing entirely, while parts of the wings looked twisted and scarred.
+
+Her skin was pale. Like, really pale. Honestly, Chloe wasn't even sure she could beat this woman in a pale-off, and Chloe was literally undead. Long black hair fell past her shoulders, and she wore so much black clothing that Chloe briefly wondered if she'd ever seen another color in her entire life. Belts, buckles, chains, straps, and all sorts of mysterious goth accessories covered nearly every part of her outfit, most of which Chloe couldn't identify. But regardless, the woman looked like she'd fit perfectly into one of those mall stores that sold black nail polish, skull decorations, and edgy merchandise.
+
+Though if Chloe was being really honest with herself, she did like the look this new girl had. Mom never let her try out more alternative looks, so she was always a little jealous when people could put on more striking outfits.
+
+And hey, since she seemed nice, Chloe decided to greet the girl. "Heya, I really like your outfit!"

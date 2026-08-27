@@ -1,0 +1,129 @@
+---
+id: 95d6d5c3-05e0-59c1-9ee8-e2d2d0e0c914
+page-type-slug: story-chapter-royal-road
+title: "164. Unknown Variables"
+slug: 0164-164-unknown-variables
+partOf: breaker-of-horizons
+position: 164
+ownLength: 2115
+unit: words
+publishedAt: 2021-12-27
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/813890/164-unknown-variables"
+royalRoadId: "813890"
+---
+
+The day was turning out to be a lot more complicated than Caden had anticipated. He had already been forced to reveal his far-beyond-average arcanophanic abilities to Devon, and now there was an as-yet-unidentified voice in oblivion making cryptic statements.
+
+The message was brief, but Caden inferred that whoever it was seemed to be aware of his precarious situation, which meant that this mystery watcher had either been keeping tabs on him for awhile, or had the ability to read the past in oblivion like the Demiurge. The only new 'player' on the field that he was aware of was the unseen assailant who had attacked him last night, so his first thought was that perhaps the two were one and the same.
+
+But if so, then why hadn't the assailant taken a second shot at him? Was it possible that there was yet another group in play here? Caden felt increasingly cornered and overwhelmed as he thought about all the moving pieces in the puzzle he was already embroiled in; the prospect of having yet another potential threat to keep track of was mentally draining.
+
+For now, he comforted himself with the fact that he had not been attacked, and the voice has apparently wished him well. Since he didn't yet have the ability to try and track down the source, he willed himself not to dwell on it for the moment. There was no point worrying about something if he literally couldn't do anything about it. There was enough on his plate for now.
+
+As he and Devon made their way to the cafe, their conversation remained firmly on things like what there was to eat, and what they both thought about the food on offer there. The congenial air between them had given way to something more guarded, and Devon seemed to be on the verge of asking more about Caden's capabilities, but he always managed to rein himself in and subsequently attempt to cover the moment with a more benign question.
+
+When they got there, they found it mostly empty, with only a handful of other students who had arrived on campus ahead of time. Still, it felt strange for Caden to see it filled with other people when he had enjoyed having almost the whole place to himself and the Demiurge over the last week. Caden checked his watch for the first time since he woke up and was surprised to see that it was almost time for lunch even though his duel with Devon hadn't really taken that long. Evidently, they had spent a lot of time just talking over breakfast.
+
+Queuing up to place an order was another thing that felt rather odd. A quick dip into oblivion told him that the Demiurge's wysana either wasn't nearby or was actively veiled, which made sense since the place was now open to the public again. The service staff that worked in the Academy were now back in full force, and it was a person behind the counter who took their orders and later served them their food.
+
+As they sat down to eat in a quiet corner, far enough from the other patrons, Caden decided that he had to deal with Devon's questions head-on. If he remained entrenched in his cloud of curiosity and suspicion, meeting the others would only be more difficult.
+
+"Alright, Dev," Caden said with a sigh, "Just go ahead and ask me whatever it is you want. I'm telling you right from the start that I'll be reserving the right not to answer, but otherwise I'll try to tell you what I can."
+
+"Where did you learn to do what you did?" Devon blurted out almost immediately.
+
+It was probably wise to make sure they couldn't be heard. Before Caden answered, he set up a thin shield around them. The simple barrier against sound worked both ways, so the chatter and clanking of cutlery in the cafe was reduced to a dull, muted background noise, while their own conversation would sound just as muffled to anyone on the outside.
+
+"I can't answer that yet," Caden said apologetically.
+
+Devon took a bite of his salmon fillet while still fixing Caden with an intense stare. He chewed thoughtfully, then shot off his next question. "What has to change before you can answer that?"
+
+Caden was a little taken aback because he hadn't really thought of it in terms of conditions that needed to be fulfilled, but now that the question had been posed to him, he took the time to consider it while absently starting on his own food.
+
+"I need to make sure it's safe, both for myself and for anyone I tell," he finally answered.
+
+Devon's eyes widened in slight alarm. "What currently makes it dangerous? Are there threats the rest of us in the dorm need to be aware of?"
+
+There was no easy way to answer that without giving everything away. "Technically, no," he said slowly. "It's complicated. Basically, if some conditions aren't met, I think revealing too much will put everyone involved in danger."
+
+Sensing that he wasn't going to get much more out of this line of inquiry, Devon changed tack. "How exactly did you end up being assigned to our dorm?"
+
+"I told you, I got re-assigned."
+
+"I want the details," Devon said testily.
+
+"The Demiurge reassigned me. I didn't ask why," Caden replied, though he felt a little bad about providing statements that, while not technically untrue, did not actually paint an accurate picture of the situation.
+
+If Devon thought something was amiss, he gave no sign of it. "Alright. Everyone else in the dorm is connected to the Prophecy in some way. Do you know how you're involved, since you think that's what landed you in our dorm?"
+
+"I have some idea... but I'm not ready to share what I think it is yet."
+
+Devon's eyes narrowed. "Because you think it's not safe?"
+
+Caden nodded. Sensing Devon's irritation, he tried to moderate his response. "Look, I know it's frustrating, and it seems like an easy excuse, but it's a real worry for me. And not just because it's not safe for me. I genuinely care about what happens to everyone else."
+
+"But why? You haven't gotten to know the rest, and you've literally only just had your first conversation with me a few hours ago," Devon countered. "Why should you care?"
+
+"That's just how it is," Caden said flatly. "I can't explain it."
+
+Devon mellowed a little. "Sorry if that's a bit sharp. But yeah, this is frustrating. And suspicious. And scary. And have I mentioned how suspicious it is? Because it is. It's suspicious."
+
+"Okay, so you're worried I might be... what, some sort of spy?" Caden asked. "Maybe you can tell me what you fear, and I'll see what reassurance I can give you."
+
+Devon pointed his fork at Caden. "That's not fair. If you're a spy, this is basically asking how to get yourself a clean bill."
+
+Caden threw up his hands in mock frustration, though it was only partially feigned. "Okay, well, don't you think it's a bit hard for me to be a spy when one of the professors is my father?"
+
+"Okay, fine," Devon muttered grudgingly. "Plus the Demiurge transferred you, and I honestly doubt anyone can sneak anything past him, so chances are you're not a spy."
+
+"Exactly," Caden nodded emphatically, though his mind went immediately to the unknown assailant in the dorm (and, if they were two separate people, the latest contact he had from another unknown watcher).
+
+"This is going to sound very, very cliche, but my biggest fear is that you're some sort of big bad guy that the Prophecy has thrown into our path, and you're the biggest threat that everyone in the dorm will have to face together," Devon said in a rush.
+
+"That's... not entirely crazy, even if it is very cliche," Caden said, his throat suddenly dry. He knew it wasn't true because the Fateweavers didn't have that kind of control over him any longer, but it didn't preclude them from marshalling the Six-Chained-Foundations and turning them into a unified force against anyone who happened to stand in their way. And if he wasn't careful, he might end up blundering right into their path. The Fateweavers didn't have to see something or control it if their only aim was to run roughshod over obstacles.
+
+"So are you a big bad guy? Because from where I'm sitting, you've got unknown powers, and that puts you firmly at the top of the list of candidates who might end up being bad guys," Devon pointed out.
+
+"Even if I were," Caden replied dryly, "I'm not likely to admit it to your face, am I?"
+
+"That is not helping."
+
+Caden let out a long sigh. "Who knows? Maybe I am. But have you considered whether or not the Prophecy might be worth submitting to? I mean, think of what you and the others ended up doing." He dipped a little into the arcanic sea to shade his words with more meaning. "Broken — that's what happened to you. And I'm guessing the rest, too."
+
+Devon paled. His hands started shaking so much that he was forced to put down his utensils, and it took him a few moments to calm himself down. Caden noticed he was using the same breathing technique that Emilia had imparted to everyone. "Are you listening to yourself?" he finally managed to ask. "You're talking about challenging a Prophecy. Like, a real one. And not just any normal one, but a Major Prophecy. That means... that means challenging the Fateweavers."
+
+"Who are not gods," Caden noted.
+
+"They might as well be!" Devon wheezed.
+
+"No, the whole Empire has been under their shadow, and maybe in here they are as close to gods as mortals can come, but they're still not gods. There's a world out there, with people who have never danced to the strings of any prophecy, minor or major," Caden said, growing more heated as he spoke. "And maybe out there, people like you don't end up broken just because someone else thought it was a good idea."
+
+Devon looked physically ill. "You really are."
+
+"Are what?"
+
+"A spy."
+
+"No," Caden shook his head sadly. "I'm Aiestan, born and bred. I've just had a very weird life, and it's given me a different perspective on things."
+
+But Devon didn't seem to be listening. He was muttering distractedly to himself. "What do I do now? Who do I tell? The others. But then what do we do?"
+
+Caden let out another long sigh. "I guess I might as well tell you. I came to the Academy to study because my sister is the subject of a minor prophecy delivered to my father. 'This daughter shall be your ruin.' That's what's driven me to study so much and get here. I want to learn how to undo it."
+
+Devon seemed to have exhausted his ability to express shock. He simply stared numbly at Caden for a few seconds before giving himself a little shake. "Okay. That's bad, but less bad than what I imagined."
+
+Oh Devon, you have no idea how much worse it actually is. It might be better if I were a foreign spy, Caden thought. "Yep. So that's the short version. I'm here to study prophecies and how to unmake them. At some point I figured that means challenging the Fateweavers. Obviously that's a long way off, but being on this path has made me challenge some of the Empire's general attitudes towards prophecies and the philosophy we've built up around them."
+
+Neither of them were eating any more. Caden's appetite had deserted him, and judging from the look on Devon's face, the feeling was mutual.
+
+"So... what happens now? Because this all basically means that while I do acknowledge the reality of a Chosen One and the Major Prophecy, I'm not supportive of it. And honestly, after seeing what it's done to you, I don't think you should be supportive of it either," Caden continued.
+
+Devon got up shakily. "I'm gonna... just take a walk. Clear some fresh air. I mean, get some fresh air. Clear the air. Clear the head. I think I'll see you... at the briefing. And then later. Around the dorm. Around."
+
+Caden watched him leave and felt his heart sink.
+
+'Told you. You walk a fine line. Let's meet and talk. Maybe it'll help you avoid further missteps.'
+
+His eyes darted around, trying to spot anything out of the ordinary even as he scanned oblivion in vain.
+
+'See you by the lake, if you're willing.'

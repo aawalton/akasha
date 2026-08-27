@@ -1,0 +1,89 @@
+---
+id: d2ffb870-cf89-5d1d-955d-cd7626aa3a6e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1399 - Slime Sage"
+slug: 0046-chapter-1399-slime-sage
+partOf: chrysalis
+position: 46
+ownLength: 1004
+unit: words
+ownProgress: 1004
+publishedAt: 2024-08-30
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1780186/chapter-1399-slime-sage"
+royalRoadId: "1780186"
+markedReadAt: "2026-06-29T19:45:06.422Z"
+---
+
+Things were in a precarious state amongst the tribe. Zluth was struggling to contain the rage that boiled away inside him, bubbling alongside his internal acid. The ants had vanished once again, enraging all of the Krath who were denied their opportunity to rend the invaders limb from limb.
+
+It was clear the monsters were planning something, coming in, testing the waters and then leaving again. They were studying, learning, preparing for the time they could move into the fifth stratum in force.
+
+That much was obvious.
+
+Zluth was determined they would rue the day they ever dreamed it would be possible to enter this place. The fifth was reserved for the krath, and them alone. Living creatures from above or below, be they monster or sapient, had no place in this world of toxic perfection.
+
+“Zluth, I see you have survived the breeding season.”
+
+Zluth turned an eye stalk to see Goszi sliding up behind him. He quieted his rage at having one of his kind at his back. Generally, it wasn’t a safe place for anyone to have a krath, fellow tribe member or not, but he wasn’t as wary around Goszi. The other Krath was ageing, his slug flesh growing pale as his acid became less virulent. It wouldn’t be long until he was fed to the young, possibly only a few more seasons.
+
+“I managed to keep my stalks down,” Zluth burbled.
+
+“I’m surprised you managed it. The Krath’lath was determined you would father her brood.”
+
+Zluth shuddered.
+
+“You mean she was determined to consume my flesh.”
+
+Anything could, and frequently did, happen during the courting rituals. A dozen males had been consumed over the last three days alone. Soon, the eggs would be laid, and not long after, they would hatch, bringing another swarm of raging Krath for the tribe to feed. This time, Zluth had escaped the clutches of the Krath’lath, but she would surely try again next season, unless he managed to divert her attention to someone else.
+
+Goszi slid up beside him, maintaining a respectful distance so the two didn’t unnecessarily aggravate each other. Zluth had found a neat cranny that overlooked the Blubbeast pits, where concealed from view, he could watch the massive creatures wallow in their filth, chomping on the detritus the tribe saw fit to feed them.
+
+“What do you think of these… ants?” Goszi said, his voice sounding as if it were summoned from the depths of a swamp. “What do you think they are trying to do?”
+
+Zluth shuddered with rage. The thought of the invaders was enough to make his slug-flesh crawl.
+
+“I think they are doing what everyone up there hopes to do: find a way through the fifth. They won’t be allowed. This is our place, and none are able to tame it.”
+
+“You think the plan put forward by the Krath’lath will work, then?” Goszi asked, his stalks leaning toward the other Krath. “You think her rude welcome will be effective?”
+
+There was something in his demeanour that sent warnings blaring through Zluth’s head. This crafty old slug was up to something.
+
+“It should,” he replied carefully. “I haven’t seen anything to suggest it wouldn’t.”
+
+“Gugugugugugug,” the other Krath laughed. “There’s no need to measure your words so carefully. I agree with you, it should work.”
+
+“Then why are you here, asking me about it?”
+
+“Because a smart Krath is always willing to explore the possibilities. If the Krath’lath were to fail… then what might happen?”
+
+Zluth narrowed the eyes on the end of his stalks.
+
+“She would lose support amongst the tribe. Maybe even enough to topple her from her position.”
+
+No doubt that would result in her being consumed. The thought of the potent acid the Krath’lath had built inside herself caused Zluth’s mouth to water. If he could refine that for himself…
+
+Imagining that liquid fire permeating through his flesh sent a tingle running through his body. However, if she failed to repel the invaders, and if she lost support, who was to say that Zluth would be the beneficiary?
+
+“I know what you’re thinking,” Goszi smirked, “but what if I told you there was a way that all the benefits would fall on you?”
+
+Zluth gnashed his teeth.
+
+“I would be interested,” he snarled. “I would also be suspicious. Why would an old Krath come here, looking to whisper such things to me? What do you stand to gain, Goszi?”
+
+Every Krath was out for themselves. That was the first, second and third rule of the tribes. Goszi spread his spindly, clawed arms wide.
+
+“I’m just an old Krath. A few more seasons and I’ll be tossed into the pits, down there with the Blubbeasts. All I want is to live a secure life for a while, and a strong Krath’lath could do that.”
+
+“You could take your chances in the wilds,” Zluth pointed out.
+
+Gozsi pulled a face.
+
+“My odds of survival out there would be low without the support of a tribe, and you know it. Even if I did manage it, that’s not much of a life to live, now is it?”
+
+Zluth supposed it wasn’t. Eking out a living with the other outcasts in the swamps, or in the depths of the acid lakes, where other Krath didn’t bother to go was… a desperate and miserable existence, to say the least. Even the tribes, with their endless backstabbing, betrayal and senseless murder, were preferable to that.
+
+“And exactly what sort of sway do you have with the tribe?” Zluth asked pointedly. “An old slug on the verge of being feed isn’t the most persuasive voice to have on my side.”
+
+“Gugugugugug,” Gozsi chuckled, “you aren’t wrong. Listen to me for a moment. I’ve been around for a while, and I know just what poison to drip in which ears to make these miserable slugs happy.”
+
+He leaned closer and began to whisper, and Zluth found himself leaning in as well, his needle-sharp teeth revealed by a widening, savage grin.

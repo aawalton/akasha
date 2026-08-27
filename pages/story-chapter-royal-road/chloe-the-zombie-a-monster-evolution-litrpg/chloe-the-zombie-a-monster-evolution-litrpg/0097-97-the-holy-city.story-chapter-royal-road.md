@@ -1,0 +1,153 @@
+---
+id: 43816971-fa36-56d4-b088-55637ad4e547
+page-type-slug: story-chapter-royal-road
+title: "97: The Holy City"
+slug: 0097-97-the-holy-city
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 97
+ownLength: 2007
+unit: words
+publishedAt: 2026-01-07
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2920383/97-the-holy-city"
+royalRoadId: "2920383"
+---
+
+After some talking, Chloe, Raenof, and Sierra settled on a plan. Mr. White would carry them all the way to the forest outside the Holy City, and that was where he would stay and wait. From there, the three of them would continue on foot.
+
+They also agreed that Leftie definitely couldn’t be seen. Detachable hands weren’t exactly “normal,” and Chloe didn’t want anyone screaming. So she tucked Leftie safely inside Cloaky, promising he could come out again when the time was right.
+
+They then decided it would be best to pretend they were a small group of adventurers traveling through the region. Their excuse would be that they wanted to pass through Aetherion and take a short break there before moving on.
+
+It was a plan that didn’t require disguises or complicated magic, but Raenof still insisted they needed to get their story straight. He especially warned Chloe about one very important rule: she absolutely could not mention brains to anyone in the Holy City.
+
+Apparently, that would lead to “big trouble,” and the way he said it made Chloe imagine she'd get hunted by everybody in the city or something like that. She decided she wanted none of that.
+
+Raenof also handed her and Sierra a pair of small metal badges. They were surprisingly shiny, with a carved crest that looked official enough. He explained that adventurers carried these to identify themselves when visiting major cities, and having them would make their story much more believable.
+
+Chloe turned her badge over in her hands. “Where did you even get these?”
+
+“Don’t worry about it,” Raenof said.
+
+Chloe thought about asking more, but only for a second. Then she shrugged. She trusted Raenof, so she decided not to worry at all. If he said it was fine, then it was fine. Probably.
+
+She clapped her hands together and announced she was ready to go. Raenof turned to Sierra next, asking if there was anything she wanted to do before they left.
+
+Sierra shook her head. “No… I’m ready too.”
+
+“Good. Then I suppose I should get my own horse. You two will ride Mr. White, and we can head for the Holy City once we’re all prepared.”
+
+Chloe almost mentioned that she could fly, but the thought disappeared as soon as she looked at Mr. White’s flaming, majestic skeleton-self. She wanted to ride him so badly. Flying was cool, but riding a bone horse covered in blue fire was way cooler. And Raenof could just get his own horsie anyway.
+
+***
+
+Chloe and Sierra rode together on Mr. White, sitting close so they wouldn’t tumble off every time he moved. Meanwhile, Raenof rode ahead on a very normal horse, which Chloe thought looked a little boring next to Mr. White. Still, she guessed normal horses had their uses too.
+
+The trip to Aetherion took a long time, even with horses. Mr. White never got tired or hungry, but Raenof’s horse definitely did. They had to stop for food and water several times, which slowed everything down. Chloe didn’t mind too much, since she liked watching Sierra try to pet Mr. White, and she liked listening to Raenof pretend he wasn’t annoyed at his horse chewing everything.
+
+After many hours of travel, they finally reached the gates of Aetherion, only to be greeted by a line so long it wrapped down the road like a giant sleepy snake. Before they joined it, Chloe hugged Mr. White tightly around his bony neck. She pressed her cheek to his warm blue flames and told him she would be back for him later.
+
+Watching him head off toward the forest made something heavy settle in her chest. She knew he would be fine, but it still sucked leaving him behind just because the people inside the city would probably get too spooked.
+
+Raenof guided them to the very end, stopping behind a group of travelers carrying giant baskets filled with cloth and fruits. Chloe leaned slightly forward, scanning the people around them.
+
+In fact, Raenof had told her that Aetherion was home to lots of bird people, Avians, he called them, but she didn’t see a single feathered person anywhere. Everyone looked normal, or at least normal enough that Chloe didn’t spot any wings or bird legs sticking out.
+
+As they settled into the line, she finally spoke up. “Hey, Raenof? I thought you said this place had lots of bird people. I don’t see any.”
+
+Raenof glanced over his shoulder. “Avians are very insular. They don’t go outside their cities often.”
+
+“Why don’t they like going out?”
+
+“Because, to put it bluntly, they think they’re better than everyone else.”
+
+Chloe frowned thoughtfully. That sounded like a jerk thing to do.
+
+Sierra shifted behind her and added quietly, “I’ve heard a lot of bad stories about how Avians treat Luphians. They don’t… really respect us.”
+
+Chloe turned to look at her, her brows pulling together. Sierra’s ears were lowered, and her tail stayed wrapped around her leg.
+
+She reached back and patted Sierra’s knee, trying to be comforting even though she had no idea what to say. She didn’t know much about bird people, but she wasn’t a fan of anyone who made Sierra look sad.
+
+“Then we’ll just stick together, if any bird person tries to be a jerk, I’ll… I dunno, glare at them really hard.” Chloe said.
+
+Raenof chuckled. “Let’s hope it doesn’t come to that.”
+
+The line moved slowy. Painfully slowy. Chloe just hummed to pass time while Sierra just looked most the time. Raenof rode ahead on his boring horse, glancing back every now and then to make sure neither of them had gotten distracted or wandered off.
+
+As they crept forward, Chloe watched the people in line. There were merchants with big carts, families with excited kids, and a lot of grumpy-looking adventurers who had dented armor. But still no bird people. Do bird people hide in nests? Do they even have nests?
+
+Eventually, after what felt like forever, they reached the very front of the line. Two guards stepped forward at once, crossing their spears to block the way. They were super tall.
+
+Taller than Raenof, who was at least a good head or so above Chloe, wearing shiny armor. Feather-shaped engravings decorated the metal, and their helmets curved downward like sharp beaks. And their narrow eyes had that sharp, judgmental look that just didn't scream "I'm a nice guy".
+
+They weren’t looking at her though. They were glaring at Raenof. And at Sierra.
+
+The first guard stepped closer, his glare still aimed directly at Raenof. “State your names and business."
+
+“We’re travelers who are stopping briefly for supplies.” Raenof explained.
+
+The second guard let out a sharp snort.“We don’t allow just anyone to wander freely inside. Not without proper verification.”
+
+Raenof nodded politely and reached into his cloak for his badge. He held it up for the guards to see, then gestured for Sierra and Chloe to do the same. Chloe happily took hers out. Sierra followed more hesitantly.
+
+The guards barely glanced at Raenof’s badge before turning their attention to Sierra. Their expressions soured instantly. “Oh, a Luphian, I hope you aren’t bringing any… wild habits into the city.”
+
+The second guard smirked. “We’ve had issues before. It's hard to trust their kind.”
+
+Sierra’s ears drooped, and she held her badge closer to her chest. Chloe felt irritation spark inside her, not pain, just that fired-up feeling she got whenever someone messed with people she cared about. She did not like seeing Sierra look so small.
+
+“Hey!” Chloe snapped, pointing straight at the guards. “Stop being mean!”
+
+Raenof looked absolutely mortified, like he wanted to melt into his saddle and pretend he didn’t know her. But Chloe didn’t care. Why should mean people get away with being mean to her friend?
+
+Both guards froze. Their expressions went strangely blank. After a long second, they straightened up and dipped their heads toward her in stiff, almost respectful motions.
+
+“Our apologies, we didn’t mean to cause offense.” The first guard said.
+
+The second guard cleared his throat and tried to make his face look less jerk-like. “Yes. That was… inappropriate of us.”
+
+Chloe blinked at the guards, totally confused. She hadn’t used Otherworldly Glamor. She didn’t feel shiny or special, and nothing about her felt different at all. But for some reason, the guards were acting like she was someone very important. It was definitely strange, and Chloe could tell they were not acting normal. Still, if things were going to be easy for once, she figured she might as well enjoy it.
+
+She gave a firm nod. “Good. You should be nicer.”
+
+Both guards nodded right back. Raenof stared at her with a completely baffled expression, and even Sierra looked unsure, though she didn’t say anything.
+
+After another moment of awkward bowing from the guards, they finally stepped aside and allowed Chloe, Raenof, and Sierra to enter the city.
+
+The three of them rode past the gates and into Aetherion. Chloe felt proud and a little smug, even though she still had no idea why the guards listened to her. Maybe I just have a naturally bossy voice, she thought, which instantly made her stand even straighter. Being naturally bossy sounded kind of cool.
+
+Inside, the city was nothing like the outside crowd. Bright white towers rose high into the sky, their tips shaped like elegant wings. Almost everything was carved with bird shapes: bird wings, bird feathers, bird faces. Someone in this city had been way too excited about feathers.
+
+And then there were the people. Chloe slowed her pace so she could stare properly. Most Avians had human-like bodies and faces, but their legs looked like bird legs, ending in sharp talons. Their wings were all different colors, silver, gold, crimson, blue, even green. Some Avians walked on the ground like normal people, but many were flying overhead, gliding between buildings.
+
+Sierra watched them with awe and a hint of caution, her ears twitching every time a bird guy or girl passed too close. Raenof simply observed quietly, though Chloe could tell he was carefully looking at everything.
+
+She, on the other hand, was so amazed she got pretty distracted. “Whoa… look at that one!” she said, pointing at an Avian who swooped down with bright purple feathers. “And that one! And that… oh! That guy’s got giant wings!”
+
+“Chloe… please focus." Sierra murmured.
+
+"Oh right, sorry."
+
+Chloe nodded rapidly. She tried to focus for exactly three seconds, then gasped again when an Avian with gold feathers flew right over them. It felt like she was riding through a giant bird festival that never ended.
+
+Just as she began imagining herself wearing a full bird-themed outfit, Raenof’s voice broke her thoughts. “Chloe, we need to talk about what happened back at the gate.”
+
+She blinked at him. “Huh? What part?”
+
+“The part where the guards suddenly stopped acting like themselves and apologized to you. Kindly.”
+
+“It was really strange. They looked at you like you were… important.” Sierra added.
+
+Chloe tilted her head as she tried to think back. The guards bowing, the polite voices, the totally-not-normal behavior… it had all been weird, now that she actually thought about it. But she didn’t feel shiny or magical the way she did during Otherworldly Glamor. She felt normal.
+
+She shrugged. “Honestly? I have no idea what happened back there."
+
+Raenof frowned, which usually meant he was sorting through something way too complicated for Chloe to guess. “Are you sure you didn’t activate anything? Or use some ability without realizing it?”
+
+“Nope, I didn’t touch anything. No glamor. No skills. Nothing at all.”
+
+“Then something about you has to be influencing them."
+
+“But what though? I mean, yeah, I’m totally awesome and everything, but I thought these bird people were supposed to be mega jerks.”
+
+“It's hard to say for certain what’s happening… maybe we should look for information. Ask around. Explore the city more. I really feel like something is up."

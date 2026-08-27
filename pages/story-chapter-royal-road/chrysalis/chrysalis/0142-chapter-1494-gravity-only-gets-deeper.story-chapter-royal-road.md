@@ -1,0 +1,59 @@
+---
+id: 8f440255-a4bf-51a0-999e-fb70790d8d4c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1494 - Gravity Only Gets Deeper"
+slug: 0142-chapter-1494-gravity-only-gets-deeper
+partOf: chrysalis
+position: 142
+ownLength: 973
+unit: words
+ownProgress: 973
+publishedAt: 2025-01-24
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2026694/chapter-1494-gravity-only-gets-deeper"
+royalRoadId: "2026694"
+markedReadAt: "2026-06-29T19:48:23.520Z"
+---
+
+There are many strange magics in this world, different forms of mana and ways of employing that energy that combine to make almost anything possible. The Colony has put enormous time, effort and resources into attempting to map all of these, to create a complete record of every type of mana and magic discipline, but at some point we began to believe that our quest may not be possible.
+
+Some forms of mana are so esoteric that access to them is extremely difficult to acquire. It’s unknown exactly what is needed to unlock some of these rare magics, and it's a possibility that the way we ants think is preventing us from being able to use them.
+
+Some individuals have been able to attune themselves to rare and powerful magic, but are not always able to pass on their knowledge to others. The Eldest is a prime example. Despite several attempts, they were never able to unlock their particular, devastating brand of magic for anyone other than themself.
+
+-           Excerpt from the private notes of Coolant, Mage of the Colony.
+
+I may not have been able to get much in the way of Biomass while I’m down here, but I sure as heck have had plenty of time to practise my combat Skills. I’ve been chomping, blasting with fire, dashing all over the place and making judicious use of my gravity mana through all sorts of intense fights.
+
+By now I’m sure to have reached some caps. I mean, I should be regularly checking and upgrading my Skills as soon as I’m able, it’s not like I’m struggling for Skill Points right now… but I can’t be bothered—I mean I’ve been very busy!
+
+There’s a whole invasion of the fifth stratum going on right now, war with the slug tribes and all sorts of important stuff to deal with! Who’s got time or energy for mucking about with Gandalf? Not me!
+
+Well… I suppose I do right now….
+
+I wander back into the fortress, heading away from the bruan’chii and their touching reunion toward the inner chambers. So many of them are complete now, and there’s a bit more available space since there aren’t build teams everywhere, or large stockpiles of construction materials crowding everything.
+
+Once I spot a sufficiently out-of-the-way pocket, I plop myself down, take a breath and open up my status screen. As expected, there’s a large number of Skills that need upgrading, some important ones at that, but my eyes are first drawn to one in particular, my pride and joy: Gravity Magic Affinity.
+
+Lo’ and behold! There it is in my status screen!
+
+Master Gravity Mana Affinity (IV) Level 40.
+
+Which means… I can rank it up! Grandmaster, here we come! I’m so excited, I spend the Skill Point immediately, not bothering to look at anything else. As soon as it's done, an overwhelming flood of knowledge begins to pour into my brains, filling them with a trickling, shivery sensation as new information takes shape within my memory.
+
+And it’s a heck of a lot of knowledge, which is exciting! I wonder how many spells I just learned! I haven’t gotten a new spell since Gravity Well at rank one, which is a rather handy piece of magic, to say the least. Whatever I get this time is going to be just as, if not more impressive, so I’m super keen to see what it does!
+
+As soon as the process finishes, I start dredging through this new knowledge, picking up each individual piece before setting it back down again in a new spot as I try to piece the puzzle together.
+
+It’s a painstaking process, and one that isn’t made any easier by the sheer bulk of what I have to process. I mean, a puzzle doesn’t get easier if there are more pieces, right? Generally speaking, the opposite is true. Every single spell is an intricate weaving of mana, a three dimensional masterpiece with hundreds, if not thousands of interlocking parts that all need to be perfect for the spell to function properly. Even the simplest bolt is a complex shape that requires a high level of mental fortitude to create.
+
+As I pick through my new knowledge, I’m eager to see just how many new shapes I’ve been given, but as I work, I slowly start to realise that all these pieces I’ve been looking at seem to all fit the same general puzzle. Which means, I’ve only unlocked a single new spell.
+
+And… looking at just how much knowledge was shoved into my brain, it’s… rather large. Significantly larger than even Gravity Well was.
+
+This is just unreasonable! Do you have any idea how hard it is to cast Gravity Well? It’s ridiculous! Creating an adaptable mass of power that can selectively exert the power of gravity might sound really simple, but I assure you it isn’t! Whatever the heck this spell does, it better be mighty impressive, because it’s going to take ages for me to be able to cast it reliably!
+
+Before I can even start to practise, I need to go through this process to get the actual shape right. After a couple of hours of using my brains to work on the problem at the same time, I’ve made a lot of progress, and I have to say, this spell is giving me the heebie-jeebies.
+
+For starters, it requires an absurd amount of mana. Like… all of it. All of the mana. Second, if I’m not mistaken, it seems to be rather… dangerous. And I don’t mean to whatever I’m aiming at, I mean in general. Even to me.
+
+Putting this much power into such a small space, in such a chaotic way, just… just can’t be right. If I actually cast this thing… just what is going to happen?

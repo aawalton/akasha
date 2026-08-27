@@ -1,0 +1,93 @@
+---
+id: f64f29c2-7b2a-5dc1-8f50-3d1a328ec61c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1400 - The Massing Masses"
+slug: 0047-chapter-1400-the-massing-masses
+partOf: chrysalis
+position: 47
+ownLength: 1232
+unit: words
+ownProgress: 1232
+publishedAt: 2024-09-02
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1784396/chapter-1400-the-massing-masses"
+royalRoadId: "1784396"
+markedReadAt: "2026-06-29T19:45:08.347Z"
+---
+
+After recovering from my mutation session, the gang and I head out to get some practice with our new abilities. We need to get accustomed to things before the invasion starts, and that time is rapidly approaching.
+
+Every time we return to the Colony, the staging grounds are more and more full. Battalion after battalion of ants, along with the auxiliaries who are mixed in with them. I’m not entirely comfortable with those antennae-wearing priests being included with the troops, but Solant isn’t wrong, they provide a boost to all the ant and non-ant troops so long as they’re fighting together.
+
+She’s determined to push for full integration of the non-ant troops into her forces, and she’ll drill them until they collapse on the verge of death if that’s what it takes. After the first week, the coordination between the groups is already looking good, but is the perfectionist satisfied? Of course not. It’s a good thing the humans, golgari, ka’armodo and others are plenty motivated; otherwise they wouldn’t make it.
+
+For our part, we help clear out the lower tunnels, fighting off the monsters native to the fourth, under the watchful eye of the Legion, of course.
+
+They still haven’t given up on their mission, apparently, not that I expected they would. It soon becomes a common occurrence for us to turn around and find Legion observers watching from further back in the tunnels. Every time I leave the nest, they try to track my movement, but so far, they haven’t actually attempted anything.
+
+Just in case, the Colony is sending observers as well, though they seem to think I haven’t noticed them. Soon enough, I’m going to be just as heavily observed as The Queen. She’s active in these tunnels as well, hunting for her own Biomass and lending her strength to the family. I can’t lie, she’s kicking a fair amount of monster backside, but I can’t help but worry. That’s my mother, dammit! That’s all of our mother!
+
+Spiritually, if not literally.
+
+It wasn’t that long ago when every ant in the Colony was her child, but now that is most assuredly not the case. The other Queens, who evolved specifically for high-quality egg production, rather than a mix of egg-laying and combat like Mother, produce far more offspring than she does, and there are so many of them that her grandchildren outnumber her own children hundreds to one, if not thousands at this point.
+
+A month passes since the last mission to the fifth as Solant continues to mass her forces and prepare every aspect of the invasion. The highway from the fortress down to the staging ground is constantly filled with ants and others, hauling food, supplies and everything else I can think of as the population at the foundations of the fourth continues to rise. When the time finally comes for me to report to the front, I’m practically bursting with excitement.
+
+I’ve waited way too long for this!
+
+The fifth might be the worst place in all of Pangera, but my spirit of adventure is demanding I plunge into the unknown! Also, the hook in my guts that is the Call has been growing more relentless lately. As much as I don’t want to admit it, the pain of it is not a non-factor when it comes to my eagerness to descend.
+
+Tiny, Crinis, Invidia and I emerge into the now vast set of chambers beneath the fortress, and I resist the urge to rub my antennae across my eyes. What I’m seeing is no illusion, and I still can’t believe the transformation that’s taken place down here.
+
+Where once the forward base was a relatively small thing built into the wall, it’s now expanded to a booming fortress of its own. There are tens of thousands of non-ant troops housed there now, and the surroundings have been enormously changed as well. There are a thousand battalions of ants here now, a full million individuals. Possibly the greatest army of monsters in the entirety of Pangera.
+
+To house such an absurd number of ants, vast dorm chambers have been constructed, each one stacked on top of the other in close proximity, layered like flaky pastry.
+
+There’s so much movement it almost breaks my many lenses trying to track it all. Even my antennae are twitching out of control, there’s just so much scent and so many intersecting pockets of gravity.
+
+[Let’s head down and see where Solant wants us to be,] I tell the others, and we make our way to the main thoroughfare that cuts right through the heart of the entire operation.
+
+Of course, the traffic here is insanely intense. The entire complex covers several square kilometres at this point, and the bulk of that area is directly adjacent to this one road. Thankfully, it was built wide enough that having Tiny and myself walking down it at the same time doesn’t create a traffic jam.
+
+It does cause other problems, though.
+
+[Dammit, Tiny! Do you have to think about punching everything?!]
+
+A ghostly fist comes flying at me.
+
+[Oi! I saw that!]
+
+At least he has the grace to look guilty.
+
+I was initially excited after mutating my eyes. Being able to see ‘intent’ was an interesting idea, and as soon as it was done, I realised exactly what it did. My antennae can let me see the future, just a smidge, but that is of the movement that is definitely happening. What I can see with my eyes is the intention to move. It has to be more serious than just thinking about it, and it only works for strikes, but it’s still pretty nifty.
+
+The first intent I saw was ghostly fists flying out from Tiny to smack into walls, rocks, the ground… pretty much everything.
+
+Which was fine… except it never stopped! He’s thinking about punching stuff all the time. Every ant that walks past us, every single one, ghost fist. He sees an uneven bit of ground? Ghost fist. Invidia lands on his shoulder? Ghost fist.
+
+Anything moves, in any way? Ghost fist.
+
+It’s absolutely exhausting!
+
+I carefully avoid considering what Crinis thinks about doing to me. There’s no need to open that can of worms.
+
+I find Solant in the central command, which is lucky since she’s usually out and about sticking her little antennae into everything.
+
+“Hey there, little general! Are we about ready to get this show on the road?”
+
+“If you mean, invasion into the fifth, then yes. We will begin marshalling in the morning, which should take four hours or so, then we will attack. I hope you’ve been over your instructions.”
+
+“Of course I have. You gave them to me weeks ago.”
+
+“When did you read them?”
+
+“Well… yesterday.”
+
+“Go over them at least another ten times. We can’t afford to have any flaws or delays in our plan of attack.”
+
+“Ah, so you noticed as well.”
+
+“Not me,” she denies, “Coolant was here a few days ago.”
+
+Makes sense. The mage ants have been keeping track of these sorts of things for a while now.
+
+It’s only faint, but the mana has just begun to creep up again. The next wave is still a long way out, but it’s building. If we don’t secure our place in the fifth before it hits, we are going to be so, so dead.

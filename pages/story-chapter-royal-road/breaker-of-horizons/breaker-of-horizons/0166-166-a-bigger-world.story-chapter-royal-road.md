@@ -1,0 +1,81 @@
+---
+id: 7eb1457d-7148-5dec-b764-5d237ecd8a3b
+page-type-slug: story-chapter-royal-road
+title: "166. A Bigger World"
+slug: 0166-166-a-bigger-world
+partOf: breaker-of-horizons
+position: 166
+ownLength: 2471
+unit: words
+publishedAt: 2022-01-03
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/817662/166-a-bigger-world"
+royalRoadId: "817662"
+---
+
+Since there didn't seem to be any immediate danger, Caden chose to stay by the lake and take the time to ponder his next steps.
+
+The augera had warned him to stay away from his friends, probably out of a desire to keep him as far away from Fateweaver influence as possible. The mysterious watcher had given him more reasons to support that stand — evidently, when everyone's memories of him had been wiped, the Fateweavers had also tinkered with the probabilities so that it would be more difficult for him to remake those bonds of friendship. And even if they hadn't, it had only just occurred to Caden that the only reason his friendship with the rest had formed so quickly and so strongly in the first place had been because it supported the Major Prophecy. Now that this wasn't the case, he couldn't expect the same sort of serendipity that had brought them together and helped them co-exist. Even his latest meeting with Devon was proof that the watcher was right. He had gotten along really well with Devon on their second 'first meeting' simply because they were both well-suited to be friends, but even then, things had soured in just a few hours.
+
+A heavy weight in Caden's chest as he thought back to his conversation with the Demiurge about moving back into the dorm. If he was honest with himself, he knew even when he made that choice that it would be quite impossible for him to really re-estabilish his old friendships. Being in the dorm was really more about giving him an opportunity to see, first-hand, what the Fateweavers were doing with them, so it wouldn't be left to his imagination. It was about seeing the Fateweaver's manipulation of his friends with a front-row seat, because he couldn't bear to turn away and try to forget, or pretend that it wasn't happening.
+
+The weight in his chest seemed to migrate down to somewhere in the pit of his stomach. Now that he was forced to really contemplate it, the prospect of being in the dorm, surrounded by once-friends, was dreadful. But he had to face it. He would take the watcher's advice and have no expectations about preserving old friendships, or even re-kindling them in some new form. If he expected nothing, then he couldn't be disappointed, only pleasantly surprised.
+
+So if Devon told the rest about his run-in with Caden, and what he had learned of Caden's intentions, and it ended up putting them on guard or even turned them against him right off the bat, then so be it. And even though the resolution wasn't one he made easily or without any pain, it did bring a sort of relief. It gave him some measure of clarity now that he wasn't trying to hold on to these frayed or broken threads of his old life.
+
+His brief conversation with the watcher made it clear that there were much larger forces at play, and that he ought to be re-assessing his priorities. The watcher had hinted at the usefulness of a wysana in taking on a Major Prophecy, and the Demiurge had requested that Caden abstain from making 'Empire-breaking decisions' until he could create one. That made learning how to fashion his own wysana his top priority. Until he mastered that ability, he'd be ill-equipped to take on the Fateweavers or hold his own against any other parties in play.
+
+The next thing he needed to do was also get a handle on who the watcher and the assailant might be. The Demiurge mentioned putting defences in place, but Caden hadn't questioned him about that earlier since he had been too focused on other things. Caden decided that he needed to know more about the state of the world so he could at least make more informed decisions or ask better questions whenever he came into contact with these other forces. The Demiurge might be willing to help with that, so Caden resolved to ask when they next met.
+
+Caden still had at least three hours before he needed to get ready for the briefing, so he decided to head into the Vault. There were more sages around, and even a few senior students, but by the time Caden had gotten to the bottom level of the Lower Library, there was no one around, so he managed to slip in without having to worry about being inconspicuous.
+
+All the implements of scribing were still there, but the Demiurge wasn't around to provide the protective cube, so Caden decided against continuing to work on the glyphs for creating a wysana. Instead, he turned to the other shelves in the Vault. The circular hall with the original texts was closed off behind the heavily-glyped ornate door, but there was still plenty of reading material in the rest of the Vault, so he started scanning the titles for anything related to world geography and history. There were no ladders at all, so Caden spent a few minutes experimenting with conjured planes of force and managed to hack together a crude version of the moving discs of arcana that he had seen in the circular hall. It was nowhere near as stable, but it allowed him to carefully levitate himself so he could reach the higher shelves.
+
+Not all of the books were written in in the modern tongue, so Caden passed them over. After about twenty minutes of browsing, he thought he discerned a general pattern in how the books were arranged, and he finally managed to zoom in on a section that contained encyclopedias.
+
+He spent an hour slowly working through that section because it was hard not to get side-tracked. There were encyclopedias were about the various fields of arcanophany that at first didn't seem all that special because he had seen copies of them before in the Upper Library, until he realised that these copies in the Vault contained more pages or chapters, and even alterations in the text. It became clear that the publically-available versions had been edited.
+
+Finally, he came to a shelf that contained books on world history and geography, in a corner near the ceiling. He quickly skimmed the titles, looking for one that seemed more comprehensive and general. There was nothing here that seemed new, so he settled for a title that looked like it would give a good overview of things.
+
+"The Powers That Be: A Survey of the Nations," he murmured, extracting the text and flipping open the cover. There was a lengthy preface written by a past Demiurge that indiicated this was simply a translation of a much older text, with a reference number that presumably would lead him to the original in the circular hall.
+
+He was a little disappointed, because he didn't think something this old would be useful, but since he had it in hand, he turned to the table of contents and ran a finger down the list.
+
+There were only two names on that list Caden recognised — "Arcanocracy of Aiesta, The" and "Confederacy of Sedhah, The", but even those names gave him pause and drove home how old the original text was, because Caden was very sure that Sedhah was a kingdom, and had been that way for a very, very long time. Furthermore, he had never before read of Aiesta described as 'the Arcanocracy'. It had always been 'The Empire'. What was this 'Arcanocracy'?
+
+The rest were completely foreign to him, probably because the nations had long since died off. Just below Aiesta was a nation named "Cildana Gwyd, The", so Caden turned there.
+
+It is difficult to give a full account of the elves...
+
+Caden's finger froze over the word 'elves' and he felt suddenly cold. If he were anywhere else, he might assume he was reading some sort of fantasy text. But he was in the Vault, and he had just read a note by a past Demiurge about this text being a translation, so that meant this was no work of fiction. This was real. He felt so shaken that he clutched the book close to himself and lowered himself all the way to the floor so he could be on solid ground. He stumbled over to the nearest table and sat down, flipped back to the page on the Cildana Gwyd, and continued reading.
+
+It is difficult to give a full account of the elves – their society is one of amazing diversity, with few systems that are analogous to human society. For instance, although they fall under the care of a monarch, the duty of the king and queen seems to involve little governing; instead it tends towards something best described as guardianship. Inquiry into the exact nature of what it is they guard is almost impossible, and it remains a closely-kept secret.
+
+Perhaps the easiest way to dissect the community would be to begin with its aconwera, roughly translated as tale of work. Here is where their society finds its greatest similarity with humans. There are many avenues of work, each known as an aconwer, and elves are free to pursue almost any aconwer regardless of age or experience. Only a handful of roles are reserved for dedicated individuals who serve as the core of each aconwer. These few are responsible for maintaining its integrity in a structure that is otherwise almost devoid of such fixtures.
+
+The page went on, but Caden's head felt light. He sat back and stared, glassy-eyed, at the text.
+
+Perhaps it was just because it had been so recent, but Caden's mind went back to his encounter with the watcher. His faint voice in oblivion was definitely not that of an augera, and Caden didn't get the same feeling he did from the watcher as when he had engaged with a Fateweaver, so Caden had simply assumed he had met with another human mind, albeit one with great power, like the Demiurge.
+
+What if he had been wrong in that assumption? What if he had met with a mortal mind, but it wasn't a mortal human mind? Might that not account for how whisper-quiet the watcher had been in oblivion, in a way that Caden had never before seen?
+
+It was possible, but there was no way for him to verify this now. Caden realised his heart was hammering away and forced himself to calm down so he could focus on reading.
+
+As soon as elves are of age (at around 15 harvests, by our reckoning) it is customary for them to seek out their own improvement in whatever discipline they desire. This freedom of choice is a persistent feature of elvish society and it is not unusual for elves to take up a different aconwer even after many years of serving in a particular place. Newcomers into each craft are apprenticed to those more experienced, following different hierarchies depending on the tradition of the work, and gradually move up the hierarchy as they prove their worth. By the time elves reach the evening years of their lives, it would not be unusual for them to have experienced what it is like to serve in almost all the regular aconwera. Because of this, the various functions of elven society are all fulfilled on an almost informal basis. The only solidarity to this system is provided by the handful of individuals who opt to confine themselves to a handful of aconwera instead of roaming across the whole spectrum. These few tend to serve as guardians and custodians of the traditions of their favoured aconwera.
+
+This fluidity surprisingly does not result in a major dearth in any given area of elven society. Most elves demonstrate an intuitive grasp of the greater good, and they exhibit an almost instinctive need to sacrifice personal desires to serve the needs of the community. In short, their society’s structure would never work for us. It is widely believed that the elven heritage of magic lends them a keen sense of empathy that few non-elven people can ever hope to emulate.
+
+Elvish society seems to function largely on consensus in major decisions like war of peacemaking, and the elven people demonstrate remarkably few instances of misunderstanding or disagreement. Even if the elves have differences, these are more likely to be based on differing opinions of what the greater good is, and they are able to quickly come to an agreement by virtue of that desire to serve the community.
+
+As a people, elves are known to be great proponents of simple living – even their monarchs are housed in humble structures of their own making, as is the custom. Hoarding of individual wealth is a rarity, as elves tend to organise themselves into enclaves that operate almost like families, where possessions are communal to a certain degree. As such, there is little use for currency within elven societies – many who do not deal with humans have never even handled money. They get by on a system of simple bartering of services and charity from fellows.
+
+Temperamentally, they can be unfathomably distant at times and surprisingly unreserved at others. Their moods seem to be governed less by their individual tastes, and more by societal norms which vary across the aconwera, the seasons, and even their physical location. That is not to say that they are not subject to the same passions as humans – the difference seems to be simply one that stems from the fundamental difference in culture.
+
+There are, of course, elves who deviate from the norm and are more ‘human’ in their behaviour, meaning to say they do not function well in the fluidity and communal style of elven society. Although still respected by their ‘wilder’ brethren, these elves are, sadly, often treated with the same politely veiled suspicion that is usually reserved for outsiders.
+
+There are two major settlements populated by elves; one is their ancient stronghold Argwyden in the sprawling forests that stretch from the fringe of the Western Borderlands to the Shattered Crags; the other, Brycham, is found within the Paradise Range.
+
+The Cildana Gwyd are currently ruled by King Felavor Erindil and Queen Merelda Laurin. Their ages are not known, but they have been in power for at least eighty years.
+
+The summary ended there, and a quick flip through the rest of the section appeared to be a more detailed look at some aconwera. By the time Caden was done with that summary, though, he wasn't in the frame of mind to read the rest.
+
+What else was here in the Vault? What other facts of the world and its history lay here, hidden from the people of the Empire? And how big was the world beyond it? Caden stared around at the shelves, feeling lost and alone.

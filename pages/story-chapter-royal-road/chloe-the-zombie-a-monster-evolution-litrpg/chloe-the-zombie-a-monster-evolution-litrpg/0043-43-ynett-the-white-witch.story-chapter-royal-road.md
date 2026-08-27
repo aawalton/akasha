@@ -1,0 +1,227 @@
+---
+id: f54c630d-2484-5da3-98c5-4929ff9afa4b
+page-type-slug: story-chapter-royal-road
+title: "43: Ynett, the White Witch"
+slug: 0043-43-ynett-the-white-witch
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 43
+ownLength: 2242
+unit: words
+publishedAt: 2025-10-01
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2643659/43-ynett-the-white-witch"
+royalRoadId: "2643659"
+---
+
+Ynett stepped into the village, and as soon as the first villager caught sight of her, the effect spread like ripples across still water. One by one, they all lowered their heads, bowing and kneeling in reverence. It was as it should be. Lesser beings had their place, and offering respect to one greater than themselves was the most natural order of all.
+
+She had returned for two reasons. The first was to settle certain loose ends. The second was preparation.
+
+Conflict was inevitable now, and the source of it was a single zombie girl. Chloe. That was her name, wasn’t it?
+
+Ynett couldn't believe it. That scatterbrained zombie girl had clawed her way free of the illusion. Her spell was strong enough to drown dozens in slumber, yet Chloe had shattered it in only a few hours.
+
+The girl was no longer unconscious, and worse, her intent had been made plain. She wanted Ynett dead.
+
+Ynett’s expression did not waver as she walked among the kneeling villagers. Still, the faintest chill followed in her wake.
+
+She stopped at the village center, beside the well whose rim glittered with pale frost. “All of you. Gather at the well. Remain there until I return.”
+
+The villagers rose and shuffled toward the well, their movements empty and dulled. Obedience was all that remained to them, as it should be.
+
+Once they were in motion, Ynett turned inward. She closed her eyes, stretching her senses outward. The village, the snow, the bowed servants, all receded into silence as her awareness reached farther.
+
+In a few minutes, a familiar pulse quivered at the edge of her weave. The beastkin girl. Once a tool, now a loose end.
+
+Ynett had touched the beastkin's mind before. To find her again was no harder than recalling a word she had already written.
+
+A hiss broke the stillness as Ynett extended her hand. Pale light curled around her fingers, from which ivory scaled serpents slithered forth. They wound about her wrist, tongues flickering.
+
+“Go.”
+
+The snakes dropped to the snow and streaked forward, bodies blurring with unnatural speed. Strengthened and sharpened by her magic, they would not be outrun. Not even by a beastkin.
+
+She watched them vanish into the treeline. That matter would take care of itself.
+
+The true concern lay elsewhere. The zombie girl.
+
+Ynett folded her hands neatly in front of her and closed her eyes once more. That one would not be as simple to handle. Brute force was rarely effective against creatures who thrived on chaos. But inevitability was still inevitability.
+
+Chloe would come. And when she did, Ynett intended to be ready.
+
+The villagers stood in a neat ring around the well, motionless beneath her gaze. Ynett approached, and their stillness held.
+
+One by one, she touched a finger to each of their foreheads. With every tap, a thread of magic slipped into the soft fabric of their minds. Their eyes flickered faintly, then dulled once more.
+
+It was an elegant spell, subtle enough to elude all but the most gifted spellcasters. A trap, powered not by her own mana but by the villagers themselves, waiting for the moment it would spring. Refining it took much patience.
+
+Not only that, opportunities to test it outside controlled conditions were rare. Today would be the exception.
+
+The work was slow, even for her, but Ynett did not hurry. Precision was everything.
+
+When the last villager was marked, the White Witch folded her hands, surveying them as though examining tools arranged in perfect order. “Heed this command. Scatter, and when a girl with white hair and red eyes enters the village, you will rush her without hesitation.”
+
+The command passed through villagers like a ripple. They dispersed at once, taking positions among the houses and paths without question.
+
+Ynett lingered by the well. Loath as she was to admit it, Chloe had proven more resourceful than anticipated.
+
+Not only could the girl wield both fire and earth magic, but she had resisted a charm as well. That kind of defense usually demanded years, even decades, of study and refinement. For a zombie, of all things, to possess it was absurd. And yet it had happened.
+
+Ynett knew of the ability unique to zombies: the assimilation of a target’s skills through consuming their brains. In theory, it could grant them formidable powers.
+
+In practice, most zombies lacked the intelligence to make use of anything they absorbed. A dungeon zombie could devour a master mage’s brain and still fail to form so much as a coherent word.
+
+Chloe was undeniably sharper than the usual mindless corpse. Even so, for her to acquire charm resistance, she would have needed to consume the mind of someone who had achieved it themselves. How such a thing could have happened was beyond Ynett's imagination.
+
+Of course, Ynett was still confident in her abilities. But, even the faintest chance of defeat, left untended, could grow into something larger. It was time to take some precautions.
+
+She lifted her hand, tracing sigils in the air. Mana coiled around her fingers, spreading outward in slow waves. Across her arm, pale scales shimmered into view, patterns blooming like frost across glass. She exhaled before pressing her palm to the ground.
+
+From her back, serpentine shapes uncoiled, glistening with her mana. They slithered around her, jaws yawning wide. Their fangs sank not into flesh, but into her shadow, pulling, dragging, stretching. The sensation split through her mind, but she remained perfectly composed.
+
+The serpents writhed, then dragged a mirror copy of Ynett out of the shadows. Two Ynetts stood where there had been one.
+
+The drain struck almost at once, a hollow weight settling deep in her chest. This was expected. The spell had always demanded a vast portion of her mana. But time would restore what was spent, and the zombie girl shouldn't arrive anytime soon.
+
+Ynett turned her gaze to her double, meeting her identical eyes. “You will leave. Change your form and survive. That is your only task.”
+
+The clone inclined her head, body already rippling. Limbs twisted into coils, flesh melting into scales. In seconds, a great white serpent coiled where she had stood, eyes gleaming faintly with Ynett’s own intelligence.
+
+It hissed once in acknowledgment before gliding into the snow, vanishing into the trees. Ynett straightened, smoothing her exhaustion into silence.
+
+The villagers were prepared. Her servants stood ready. Her contingency was in place.
+
+***
+
+The hum of the vending machine filled the break corner. Z slid a token into the slot, pressed a button, and waited for the clatter of a brown colored can dropping into place. She retrieved it, adjusted her glasses, then popped the tab with a crisp snap.
+
+The first sip felt good. A small reprieve after too many nights buried under reports.
+
+Her shoulders had just begun to ease when a voice cut through the quiet. “You really shouldn’t be drinking that much coffee.”
+
+Z stopped mid-sip. The rim of the can lingered at her lips before she lowered it, setting it lightly against the counter beside her. “Good morning, L. And for your information, this is decaffeinated.”
+
+“Good for you, then.”
+
+L passed her, stopping at the vending machine. He looked over the buttons like he had all the time in the world.
+
+The machine chimed as he pressed one, the soft whirr followed by a clatter as a dark brown colored can dropped into the tray. He popped the can open, before he tipped it back for a long swallow.
+
+Z’s wings twitched. “So hypocrisy is simply in your nature?”
+
+He wiped his mouth with the back of his hand, still smiling that insufferably charming smile as he leaned lightly against the side of the machine. “My body’s simply… different from yours.”
+
+Z crossed her arms. “You’ve been ranting for decades about how processed caffeine is the death of culture.”
+
+L raised an eyebrow. “Decades? I'm quite sure that I've only said such a thing once. And I was being poetic.”
+
+“Then what about that time when you threw an entire can across the cafeteria?"
+
+“It offended me. It was hazelnut-flavored.”
+
+She narrowed her eyes. “And this one?”
+
+He turned the can to show her the label. “Toasted vanilla. See? Growth.”
+
+“L, you’re disgusting, and I hope you know that."
+
+He took another sip, louder this time, and sighed dramatically. “Mmm. Tastes like character development.”
+
+Z muttered something under her breath and turned slightly away, her wings flicking again. Of all the people in the office, L was one of the few who seemed acutely attuned to how to annoy her.
+
+“What was that?” he asked, acting all innocent.
+
+Z glared at her fellow administrator. “I said, I hope it explodes in your mouth.”
+
+“Well, that’s rude. You could’ve just asked for one.”
+
+“I wouldn’t drink that swill if I was dying.”
+
+“Now who’s being dramatic?”
+
+Z didn’t answer. She was barely restraining herself as is.
+
+L grinned wider. “You know what? I think I saw a matcha latte version down there. The others said that one was rather nice.”
+
+Z’s eye twitched as she forced herself to not become too agitated. “That’s beside the point, why are you here?”
+
+“Because, as always, I’m the one tasked with delivering bad news. The higher-ups are accelerating the Culling.”
+
+“I’m aware.”
+
+“They’re accelerating it again. It will likely happen in a day or two. Perhaps less.”
+
+The can in Z’s hand suddenly felt heavier. Her fingers tightened against the thin metal, her wings drawing slightly closer to her back. "So soon?"
+
+“Worried?” L asked, watching her reaction.
+
+Z exhaled softly through her nose, the closest thing she would allow to a laugh. “Even if I were, I wouldn’t give you the satisfaction of knowing.”
+
+“Of course. I wouldn’t have it any other way."
+
+“And your champions? How are they faring?”
+
+“I expect all of mine to survive. Well… perhaps one may be at risk. But you know how it is.”
+
+Z adjusted her glasses. “You’re not referring to Ynett, then?”
+
+L let out a chuckle, tilting his can in her direction. “Obviously not. Though, between us, I wouldn’t be surprised if Ynett failed to kill your favored zombie girl.”
+
+That made Z pause. She almost couldn't believe what she heard. “What makes you say that? You’re losing confidence in one of your own?”
+
+“I’ve read more of the reports. Quite thorough, I must admit. That little zombie girl of yours, she’s managed to make it far, despite being such a… joyful creature. Almost impressive, really.”
+
+“Ynett is a full evolution ahead. And you still believe there’s a possibility she might lose?”
+
+“Not lose. Merely fail to kill your champion. There is a difference.”
+
+“That’s just semantics.”
+
+“And semantics matter, especially in this case.”
+
+Z sighed, setting her can down on the counter with a soft clink. “Whatever you say.”
+
+“To answer your earlier question,” L continued, straightening slightly, “I believe Ynett has a good chance of underestimating your zombie girl. And when that happens, she’ll pay for it. That said, Ynett is the vengeful type. Your zombie girl will have to watch her back.”
+
+“Sure, I’ll keep that in mind.”
+
+“Good. Because despite how it may seem, I do enjoy speaking with you.”
+
+“Hmph. I cannot say the same. But I suppose I can tolerate your presence more than I can some others.”
+
+“Practically flattery, coming from you. Still, poor Icariel. His champions? I doubt they’ll last.”
+
+Z’s head snapped toward him, her glare sharp enough to cut through the hum of the machine. “L. Remember company policy.”
+
+L raised a brow, feigning innocence. “Did I say anything? I don’t recall.”
+
+“You of all people should know using our original names is forbidden.”
+
+“I’m aware. But really, who’s going to punish us?”
+
+“Just because we won’t get caught here doesn’t mean—”
+
+“Z. Look at you. Look at what you’ve become. You used to be so much better than this.”
+
+“What are you saying?"
+
+L drained the last of his coffee in a single swallow before throwing the empty can into the bin. He then faced Z and looked at her in the eyes. “You were always one of the best among us. And yet you were also the first to make yourself a servant of the gods.”
+
+“We’re all in the same position, aren’t we, L? I don’t understand why you’re raising this now.”
+
+“Because I think you can do better, Z. Ever since you dedicated yourself to them, you’ve never truly cared about the rest of us. Only work.”
+
+“Is… that it? Is that why you’ve been trying to irritate me all this time?”
+
+L’s voice softened, though the words carried the same sting as before. “Tell me, Z… did you know that Serapha has already been terminated?”
+
+Z froze, her eyes widening a fraction behind her glasses. “You’re serious?”
+
+“I am. Every one of her champions was wiped out, so she was terminated. But of course, you didn’t know that, did you?”
+
+“Termination reports aren’t part of my responsibility. That’s why I didn’t know.”
+
+“It isn’t part of mine either. And yet, I knew.”
+
+Z said nothing. Her wings drew in close, uncertain of how to respond.
+
+L sighed, brushing some hair from his face as he turned away. He walked a few paces, then glanced over his shoulder. “There was a time when we made the rules, Z. One day, I hope you remember that.”

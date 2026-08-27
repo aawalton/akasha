@@ -1,0 +1,103 @@
+---
+id: 1e927ac2-d0c8-5d8c-a58f-c7d34e989ebc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1394 - What’s An Eldest to Do?"
+slug: 0041-chapter-1394-what-s-an-eldest-to-do
+partOf: chrysalis
+position: 41
+ownLength: 1199
+unit: words
+ownProgress: 1199
+publishedAt: 2024-08-16
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1760380/chapter-1394-whats-an-eldest-to-do"
+royalRoadId: "1760380"
+markedReadAt: "2026-06-29T19:44:57.108Z"
+---
+
+Well, Morrelia has gone back to the Legion, Brendant has said they won’t be launching any more tests for the time being, and the subjugation of the lower tunnels is almost done. So… I find myself kind of rudderless and without purpose for the time being.
+
+Which means, of course, there’s nothing to stop me from tickling the grubs! Muahahahaha!
+
+My precious stress relief, it’s been so long! Now that Mother is present in the fourth, there’s an active Queen down here, which means grubs!
+
+Filled with joy, I race upward from the forward base, which has been expanding by the hour, and head into the shortcut network the Colony is still in the process of constructing.
+
+It’s always a bit of a risky business building these sorts of extended ‘highways’ in the Dungeon. Sure, it allows us to travel much more quickly from the nest to the entrance of the fifth, but the reverse is also true. When the next wave occurs, the monsters of the fifth and their toxic mana will have a direct road straight up to the base of the nest.
+
+Naturally, the Colony is aware of this, which means a copious number of defensive emplacements, walls and forts are also under construction, each of which only face the downward slope. This network of direct tunnels is going to be the main focus of all the fighting in the next wave, and it’s clear the carvers don’t intend to employ half measures.
+
+There’s a lot of ants moving down the shortcut, in addition to the huge number of workers busily building away. Clearly, the troops are starting to move down to the staging ground. Hopefully soon, the invasion will be ready and I can start taking on the fifth properly. Those stupid slugs are going to have no idea what hit them.
+
+Gweheheheh.
+
+With joy in my heart, I burst into the inner chambers, ready to engage in a wonderful bout of tickling! Where are those grubs?
+
+“What are you doing here, child?” A deep and warm voice calls to me.
+
+“Going to play with the grubs!” I declare happily.
+
+THWACK!
+
+“Yeeouch!”
+
+I was so preoccupied with my opportunity to indulge myself in harmless games with the grubs, I didn’t even realise it was Mother talking to me!
+
+“H-h-hello there, Mother! How are you doing?”
+
+It’s still weird to realise that I’m larger than her now. For most of my ant life, she’s towered over me. I can still remember the first time I saw her, when I was… what? Tier two? She was huge, looming over all of the ants in the Colony. The past, present and future of the family, all bound up in a single carapace.
+
+Despite being larger than her, The Queen is still an intimidating presence. There’s sharpness to her gaze that seems to pierce straight through my exo-skeleton, no matter how many layers of diamond I have!
+
+“I’m well, child. I am very busy, as all members of the family are. How is it that you have time to play with the brood? Surely, there are many tasks that you could perform?”
+
+Well……. Probably? The lower tunnels aren’t completely clear of monsters, how could they be? It’s not like we’re removing the Dungeon veins from that area, so there’s a constant stream of new spawns. Not to mention, every time we find a local, high tier monster who’s carved out a little territory for themself over the years and take them out, other monsters start to move into the area, looking for new turf. These skirmishes have played out hundreds of times down below and will go on for a while longer yet.
+
+I could also help with the organisation of the troops heading down to the staging grounds. I’m not all that good at logistics, to put it mildly, but I’m aware enough to say that just having me around would help lift the spirits of the troops. After all, I’m the oldest and strongest, who doesn’t want their big reliable older sis-BROTHER. Reliable older brother around.
+
+Sheesh.
+
+“You’re right, Mother,” I admit with a heavy sigh, slumping with defeat. “There are plenty of things I could be doing right now. I suppose I’ll head out and… get back to it.”
+
+My Mother watches me gather myself slowly with an amused glint in her eye.
+
+“You really are the most troublesome of all my children. Whether you are coming or going, there is always some difficulty.”
+
+I’m not exactly sure what to say to that. She already thwacked me, do I need a scolding as well?!
+
+“As you say, Mother.”
+
+I can only agree with her in the hopes of avoiding more sharp thwacks of the antennae. As if sensing my somewhat cowardly mentality, The Queen’s antenna twitches once more, but she doesn’t lash out.
+
+“There is nothing wrong with playing with the grubs, Child,” she tells me warmly. “I do so at times myself. I only ask that you make sure to balance the needs of the Colony against your own.”
+
+That… is an odd thing for Mother to say. I mean, she’s an ant. Not just any ant, she’s as ant as it gets. What does she mean, balance the needs of the Colony against my own? The needs of the Colony are the needs of the individual, to just about everyone in this family, and especially to her. I turn to look at her directly, but I can’t get a sense of what she’s thinking. Does she see me differently from the others for some reason? Does she know that I wasn’t always an ant?
+
+Does it matter, considering she gave me permission to tickle the grubs?!
+
+“I’ll have you know, Mother, that it has been ages since I entertained the brood. I’ve been busy all over the place, doing all sorts of stuff for the family!”
+
+“That is good,” she says, and reaches out to pat me on the carapace encouragingly.
+
+“I’ve even been taking part in the test assaults on the fifth stratum!” I boast.
+
+Compliments from Mother are rare; it doesn’t hurt to fish for a few more. She hesitates, confused.
+
+“What assaults on the fifth stratum?” she asks, puzzled.
+
+At this moment, I realise just how badly I messed up. She’s not supposed to know about those! She’s not supposed to know anything about it at all!
+
+“Oh, you know… just… a few exploratory missions to see what’s going on down there. Test out the waters… sort of thing.”
+
+If she were capable of narrowing her eyes, that’s exactly what she would be doing right now.
+
+“I don’t like it when my children keep secrets from me.”
+
+“What? What secrets? That’s… a perfectly… perfectly reasonable thing for you to say… of course. I mean… there’s so much going on in the Colony at any given time… how could you possibly know about all of it? Nobody knows about all of it! Except maybe me.”
+
+The Queen remains still, as if processing what I said, so I take the opportunity to just… slide a little toward the brood chamber.
+
+Then slide a little more.
+
+I think I got away with that….
+
+Smooth!

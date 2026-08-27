@@ -1,0 +1,105 @@
+---
+id: 51330d9f-71de-5aac-9ad1-ec4567f5c086
+page-type-slug: story-chapter-royal-road
+title: "214 - First Time Home Buyer Elise"
+slug: 0026-214-first-time-home-buyer-elise
+partOf: bunny-girl-evolution
+position: 26
+ownLength: 3041
+unit: words
+publishedAt: 2026-08-11
+link: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution/chapter/3798701/214-first-time-home-buyer-elise"
+royalRoadId: "3798701"
+---
+
+The underground city was much larger than Elise had first thought. The cavern she was in was already three times as large as the old dwarven city in every direction, but in her cursory glances a couple days before, she had not noticed most of the caves branching off in every direction. Some were wide, and some were narrow, some went downwards, others went up, and there were hundreds of them.
+
+There was an underground river cutting the city in half down the center, flowing directly through the castle in the middle before disappearing into darkness so complete even Elise’s inherent dark vision couldn’t penetrate it. The water in the river was boiling hot, sending a constant wave of steam into the air that obscured half the cave. From what she could see, nearly all the bridges made to cross the river had been destroyed over however many years it had been since this cave was inhabited. The only way across for anything without wings would be through the castle in the center, which she did not go near.
+
+In addition to the Abyssal Hounds, Elise saw many other creatures roaming about the ruins. The more rubble-filled areas had hundreds of smaller creatures living within them, mostly rodents and insects. These animals had mutated in the same way that the hounds had, growing extra limbs, eyes, and tentacles and gaining the Abyssal prefix to their species title. Elise knew from her studies that spawn zones tended to create monsters best suited for their environment, but she was beginning to wonder what kind of environment could possibly require these things.
+
+The Abyss, I suppose…
+
+She flew around most of the city, trying to find a good place to settle down and set up camp, but no matter where she looked, it was all occupied. There were multiple packs of Abyssal Hounds, each with their own territories, the collapsed buildings were home to countless rodents and bugs, which were weaker, but no less bothersome, and the structures on the ceilings housed the most dangerous horrors of all. She had seen one of them emerge when she was flying around, and it made her falter so badly she almost fell out of the sky.
+
+The scaled beast was very clearly much higher in level than the hounds, and with that level seemed to come greater corruption. It was like an enormous serpent, but its head was just a mass of eyes, its maw was full of tentacles, and its tail split into hundreds of individual tendrils that seemed to change shape and size as she watched. It floated silently out of one of the hanging structures and promptly began devouring Abyssal Hounds. As strong as the hounds were, they were helpless before it, and the tentacles on its tail seemed to be able to pass through solid matter, seizing the hounds from the buildings where they hid. Even from a distance, the drain on her aether to maintain {Don’t Look At Me, Peasants} when it was around was too much for her to stay airborne, and she was forced to hide until it returned to its resting place.
+
+It was not the only type of monster dwelling in the heights of the cavern, but the other kinds were marginally less intimidating. There was a species of Abyssal Shrieker Bat that used sound to kill their prey, and the sound was so loud and powerful that when Elise tried watching from nearly half a mile away, she was still forced to cover her ears. There were also flocks of Abyssal Ravens that emerged wherever there was a battle to feast on the remains of whatever carcass had been left behind. They ate everything, even the bones, and licked the spilled blood of the ground, leaving the site of the feeding looking as if no battle had ever happened
+
+Herds of Abyssal Deer roamed the more open areas of the city, eating moss that grew on the ancient stone, and when the Abyssal Hounds came to hunt them, instead of running, they turned to meet the charge. Their antlers were covered in tentacles as well, but these tentacles ended in sharp points and were able to become rigid at a moment’s notice. Elise had witnessed one successfully killing an Abyssal Hound, and once the others had fled, the herd feasted on the corpse, the tentacles in their mouths tearing flesh off without resistance.
+
+The only place that didn’t seem to have any dangerous monsters was the castle at the center, but the fact that the other monsters—even the flying serpents—avoided that area made her certain it was not somewhere that she wanted to go. Whatever lived there had not yet made itself known to her, but she was personally glad for that. If the flying serpents’ gaze was already so difficult to hide from, she didn’t even want to think about hiding from whatever lived in the castle.
+
+With the city exhausted, she then decided to try her luck in some of the offshoot caves. The first one she tried was one of the narrower ones, but she had to turn back when she sensed a powerful presence ahead. It did not seem quite as strong as the serpent, but she still didn’t want to disturb it too much.
+
+She tried two more narrower caves, only to end up in similar situations. In the third, she decided to press on just a bit further, stopping just a few feet from the presence. She could not see anything, and {Inspect} would not activate, but {Aether Sense} told her it was directly in front of her. {Don’t Look At Me, Peasants!} was barely active either, which confused her. Whatever the creature was, it was quite strong, but perhaps it did not have eyes, so there was no need to block its sight?
+
+She floated down toward the ground, looking for a rock to throw, and the very second her foot hit the ground, {Don’t Look At Me, Peasants} went into overdrive, draining her aether just as quickly as being in the presence of the serpent had. She immediately flew upward again, and the drain stopped.
+
+So it can sense tremors, then?
+
+She flew back to the entrance in search of a rock, and when she returned, she tossed it forward to where she sensed the presence. She made sure to stay as far back as she could, so she wouldn’t be caught up in anything, and when she tossed the rock, she flew back even further, but surprisingly, nothing happened. Even when the rock landed well within the bounds of what was supposed to be the monster, there was no reaction.
+
+Determined to get to the bottom of the mystery, Elise then flew back out in search of a test subject. It didn’t take long to find an Abyssal Rat scrounging for scraps, and she quickly seized control of it and directed it down the cave. It walked down the cave without issue, and for a few seconds, Elise wondered if perhaps the monster in the cave was asleep or something. Then, the rat reached the bounds of where the creature was supposed to be, and she finally saw it. Or rather, it showed itself to her.
+
+One second, the rat was walking obliviously down the cave, and the next, it disappeared, along with the cave. In its place was a massive maw attached to a creature that seemed to be just a mass of flesh, eyes, and tentacles. Elise heard a squelching sound, and saw the creature chew a few times, and a few seconds later, the mouth opened again. The inside was fleshy and covered in blood, but as the mouth widened, reaching the width of the cave, it shimmered and changed, and a moment later, the teeth were gone, and the cave was back.
+
+Oh.
+
+Once she was certain it had returned to usual, she flew back down the cave until she was in range, and now that she knew where the creature was, she was able to successfully use {Inspect}.
+
+[ Greater Abyssal Mimic, lvl ??? ]
+
+She tried a few more of the narrower caves, but they all seemed to end in the same mimic traps. She wasn’t even sure whether these caves were real, or if the mimics had created them to trap unwitting prey. She tried killing one to find out the answer, but even {Power Word Kill} wasn’t enough to take it out, and when she tried, it let out an ear-splitting screech and charged forward, forcing her to flee. She hoped it would have left the cave entirely so she could get a glimpse of what lay behind it, but like an eldritch moray, it only went to the edge of the cave before slowly withdrawing back.
+
+She might have been able to kill it with a few more uses of {Power Word Kill}, but it would have left her drained of aether, and she realized that even if she succeeded, she would still be stuck with a giant mimic corpse in the way of the rest of the cave.
+
+A project for another time, then…
+
+From then on, she only went into the wider caves. The mimics thankfully seemed quite limited in size, so as long as the cave was greater than a certain width, she could be relatively assured that it was real. Unfortunately, most of the moderate-sized caves were also home to dangerous monsters. Most of them looked like they had once been the estates for the wealthy, but they had since been taken over by various monsters. Most were relatively empty, but when Elise saw a few Abyssal Hounds and Abyssal Deer within, she realized that this was probably where they slept, and that they would not be so sparsely populated for long.
+
+Still, the fact that such places existed was promising. She could almost definitely find one that would be a suitable place to stay. Or if not, she could work to clear one out. New spawns would be a problem, but she hoped she would be able to take care of that eventually. Jelor’s preferred method of simply starving a location of mana to prevent spawns was something she would hopefully be able to replicate after mastering the contents of Aya’Rhun’s instructional crystal.
+
+After a couple more hours of searching, she eventually did find one that would hopefully work. It was smaller than some of the others, but that was actually better, since it would be easier to deal with, and the only monsters inside were some Abyssal Crawlers that were clearly fresh spawns. She eliminated them easily, gaining a level in the process, then staked out outside it to make sure there wouldn’t be anything coming to claim it in the near future.
+
+While she waited, she did some minor exploration of her surroundings, all while keeping the cave in sight. Surprisingly, this was one of the only offshoot caves around. There were a few narrower ones that, of course, contained mimics, and there was one enormous one that gradually sloped upward and out of sight, but otherwise, that was about it.
+
+There weren’t many monsters around, either, though that was less surprising and more worrying. The other places that locked monsters were home to stronger monsters, and she doubted this one was any different.
+
+Still, six hours or so passed, and nothing came to call the place home, so she tentatively re-entered and started looking around. She was ready to move out at a moment’s notice, and had one of the teleportation scrolls that would take her back to Charlotte’s place at the ready, just in case.
+
+The small cave she was in had two buildings inside, one of which seemed to be the main house, with the other being a guest house. There was a cracked path connecting the two of them, and on either side, there were remains of what Elise presumed had once been a garden or something similar. There was an indentation where she imagined there might have been a pond, and there was rotten black plant matter all around. A few mushrooms and patches of moss grew here and there, though they were partially devoured, kept at bay by the constant spawning of abyssal rodents.
+
+Behind the main house, there was a raised stone platform that had once been square, but was now cracked and damaged, and the corners had crumbled, turning it almost circular. She floated down into the center of it, twirling around to take in the view before sitting right in the center.
+
+This would be a good place to meditate, she thought. And maybe I can fix it up a bit once I learn some earth magic.
+
+She started imagining what the cave would look like after she fixed it up a little bit. Repairing the stone would be beyond her at the moment, but she could use nature magic to spruce the place up, and reinforce some of the more damaged walls and such. In addition to the moss and fungus, she had seen a few random varieties of vines and root-like growths around the cave that she thought would be strong enough to provide some structural support. There were some bioluminescent berries too, which she thought would look nice growing along the edges of the cave, though she didn’t dare try to eat them.
+
+As long as there’s nothing that’ll try to kill me for being here, I think this might be the place.
+
+She flew back out, watching the entrance for another hour or so before a pack of Abyssal Hounds drew near, and she decided she would rather not be noticed. They were clearly not heading for her cave, but she didn’t want them to pick up her scent and chase her around the cave again, so she flew back into her future home, and began to settle in.
+
+She was in her base form, since there was no reason for a disguise at this point, and her base form could harness more aether than her human one. It could also hear much better, so she would be forewarned if anything approached. She then sat down on the stone square and began to meditate. She hadn’t before out of caution, but at this point, she decided it wasn’t much of a risk. She could still sense her surroundings while meditating in her soul, so if anything happened, she would still be able to react.
+
+Once inside her soul, she then took control of her body again, remaining in her soul, and summoned Aya’Rhun’s instructional crystal from Astrid’s Star. Before the Dungeon Competition, she had been stuck on the step of being able to control her soul, and after, she hadn’t had any time to check with everything else going on. Whether what she was doing counted as controlling her soul, she wasn’t sure, but she hoped it would at least give her a glimpse into how to complete the next step.
+
+However, before she could even reach the right section of the information contained within the crystal, her attention was suddenly drawn away as she heard the sound of Abyssal Hounds howling outside. She immediately stood up, stowing the crystal away, and flew back outside the cave. She was worried that the hounds had noticed her, and would begin hunting her, but instead, she found that they were running away. In the distance, she heard similar howls from other packs, and not far away, she saw a flock of Abyssal Ravens flying back upward to the hanging building they called home. She followed the nearby pack of hounds back until they reached a large building where they all filed inside and ran down to the basement, where they huddled together as if bunkering down.
+
+A chill ran down Elise’s spine as she turned to look around, only to find that every other monster in the city was doing something similar. Frantically, she flew back to her personal cave at top speed. She wasn’t sure what was going on, but she definitely didn’t want to be out in the open.
+
+The main house had three floors and a basement, and after seeing the other animals, Elise immediately flew into the basement and hid herself in a corner. She waited for a few seconds, then used nature magic to summon a thick wall of roots to hide and protect her. She continued to grow them, making them thicker and stronger until her mana ran out, and then huddled further into the corner and waited.
+
+For an extremely tense minute, nothing happened. With her mind in her soul, she was able to keep her body perfectly calm and still, but her soul form was wringing its hands, waiting for the inevitable.
+
+Then, it happened.
+
+At first, she only felt a slight tremble in her soul, as if the whole thing had been rocked by a gentle wave. Then, another wave came, this one stronger. Then another, then another. Each one was stronger than the last, and each shook her more.
+
+Hostile aether began to enter, and while she was able to tighten her soul boundary to prevent some of it from getting in, it only helped a little. Every new wave seemed to shatter her concentration, forcing her to rebuild her soul defenses and making her more vulnerable to the next.
+
+She clung to the System web, but by the fifteenth wave, it was almost impossible, and by the twentieth, the tremors were so powerful that they flung her around her soul realm like a pinball. Her soul form hitting the walls of her soul did not hurt in the same way it would have if her physical body did the same, but with every wave, she felt a kind of existential pain that grew with each new hit.
+
+On the thirtieth, she felt like she was on the verge of falling unconscious, but when she braced herself for the thirty-first, it never came. She was dizzy and disoriented, but she slowly began to recover, and soon, she heard the sounds of howling in the distance.
+
+It’s over, she realized breathing a sigh of relief. But what the heck was that?

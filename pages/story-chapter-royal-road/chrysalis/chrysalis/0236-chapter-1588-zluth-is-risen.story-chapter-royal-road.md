@@ -1,0 +1,77 @@
+---
+id: e2342051-17d3-5087-866e-9e2af57343b3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1588 - Zluth Is Risen"
+slug: 0236-chapter-1588-zluth-is-risen
+partOf: chrysalis
+position: 236
+ownLength: 889
+unit: words
+ownProgress: 889
+publishedAt: 2025-06-19
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2367760/chapter-1588-zluth-is-risen"
+royalRoadId: "2367760"
+markedReadAt: "2026-06-29T19:51:21.719Z"
+---
+
+A council of Krath’lath was a tense, if not deadly, affair at the best of times. The Krath’lath Zluth had known throughout his life were, for the most part, petty bullies, upstarts and thugs. Stronger than the others, or bigger, they were able to gain influence using the most crude methods. When such tribe leaders met, the outcome was inevitable: fighting, death and destruction.
+
+But those had been petty leaders of minor tribes, such as his own Slee. Weak and irrelevant, their squabbles over the least desirable tunnels in the entire stratum were so insignificant, the truly powerful Krath had never even heard of them. In front of him now was a very different scene. Ulliz, Mulzoz, Chozth, Soluzz, leader of the Zissth tribe, and others, mighty leaders of the deep tribes who had gathered at the call of the Ancient.
+
+These leaders were as viciously cunning as they were powerful. Eyes darting atop their stalks, they saw everything, always alert for the slightest sign of weakness. Even Chozth, sleek and deadly, a coiled snail-snake ready to spring, looked ordinary amongst them, one among the many.
+
+Soluzz, huge and positively crackling with acidic might, was first among equals here, and it was he who held the central position.
+
+“Our scouts have been able to determine that there are pockets of native mana erupting within the fortress,” Zluth continued his report. “The vents are straining them, though perhaps not as much as we had hoped.”
+
+Atop their stalks, those eyes watched him intently, and he felt their gaze like a physical weight upon his flesh. It was difficult not to reflexively enter camouflage.
+
+“Which scouts were able to glean this information?” Ulliz burbled. “Perhaps we should be speaking to them instead.”
+
+“I did,” Zluth replied, a sly lilt in his voice.
+
+It hadn’t been easy, either. Sneaking under the platform itself using the built-up mucus clinging to sections of the underside had been one of the most dangerous things he’d ever done. But he had to, there hadn’t been any other choice. If some other scout had retrieved better information, then they would be here before the tribe leaders and not him. They’d been desperate, too. Seeing opportunity, the Krath scouts had tried every sly, conniving method they could to glean intelligence or hamper their rivals.
+
+It was the kind of contest all Krath revelled in, and Zluth had won.
+
+“And were you able to get close enough to confirm the singing?” Soluzz demanded.
+
+“Yes, the singing interests me the most,” said another voice.
+
+The Krath’lath of the Gluzzgith tribe, Thulziss, had arrived from the depths only a few hours ago, along with several hundred of her finest Krath warriors. Like Chozth, she wasn’t as large as some of the other leaders, but felt dense and explosive. The air of danger around her was as thick as a toxic miasma.
+
+“Were you able to hear it?” she asked him.
+
+Zluth tried not to shudder at the memory.
+
+“I did,” he confirmed.
+
+“And? Describe it to me,” she told him, eyes bulging red with the force of her will as it pressed down on him.
+
+“It… it…” Zluth struggled for the words. How to describe it? Despite barely being able to catch the sound, it had filled him, burned him, turned his mind red and his acid to boiling. He shook his head and breathed deep, casting away the memory. “It was enraging. Foul and disgusting, it stirred the rage in me like nothing I’ve ever experienced.”
+
+“An abomination,” Thulzziss breathed. “A foul stain on our home, a blight on the creation of the Maker. We must ensure that the singing will cease, no matter the cost.”
+
+“Theorazzn asked us to do it, and we will. The question is how,” Ulliz burbled.
+
+The mighty Krath’lath thought to themselves for a moment, each pondering their own schemes and strategies. Minds with as many twists and turns as a labyrinth considered, planned and worked through their own plans, each more convoluted and diabolical than the last.
+
+“If I might make a suggestion?” Zluth said ingratiatingly. “I have a thought that has developed during my time observing these invaders.”
+
+Once again, all eyes turned to him, swivelling atop their stalks. Whatever he had to say, it had better be good, or he would likely be devoured in moments.
+
+“The invaders. These… ants. They are fiercely loyal to each other, which is proven by their willingness to throw themselves into danger in order to save any we capture.”
+
+The surrounding Krath’lath smirked and chuckled.
+
+“You think this weakness can be exploited?” Soluzz asked.
+
+“It can. The Ancient asked us to turn two monsters. As far as I know, we haven’t found one of them, but the other is here on the platform. They are fiercely protective of this creature. Every time it is in danger, they react.”
+
+“It’s also powerful. Every scout agrees that this is a difficult beast to contend with,” the Krath’lath stated, eyes blazing red.
+
+“There are ways we can approach. And if we can approach, we can make a move. If we take that ant and turn it, the others will come after us, even during a wave.”
+
+“You really think so?”
+
+“I do,” Zluth confirmed, then grinned evilly. “We can bring them out of their little fortress and destroy them.”

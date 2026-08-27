@@ -1,0 +1,55 @@
+---
+id: 6ad71d10-d309-512f-aab9-e9f9ea86d2e7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1367 - Clean Up In Isle Five"
+slug: 0014-chapter-1367-clean-up-in-isle-five
+partOf: chrysalis
+position: 14
+ownLength: 1110
+unit: words
+ownProgress: 1110
+publishedAt: 2024-07-03
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1702623/chapter-1367-clean-up-in-isle-five"
+royalRoadId: "1702623"
+markedReadAt: "2026-06-29T19:44:06.013Z"
+---
+
+To purify the fifth’s mana is an absurd idea, a comical suggestion. It’s impossible, everyone knows it’s impossible, and not because we haven’t tried, or made half-hearted attempts. Hundreds and thousands have died, enough resources to bankrupt an empire have been spent, over several attempts, some by individual empires, some by conglomerates of several major powers.
+
+All have been unsuccessful. Not only unsuccessful, but unmitigated disasters. Even when these efforts managed to gain a foothold, they were eventually snuffed out, unable to hold their ground against the unrelenting pressure placed upon them by the fifth. The monsters there will not abide any change to the environment, which is itself a horrifying ordeal to overcome.
+
+Then, there are the Krath tribes, roving bands of sadistic killers, who will unleash unspeakable torment on any they capture, breaking the will of would-be invaders and sending them running back to the safety of the fourth. Against these factors, purifying the fifth has become nothing more than a dream within a dream.
+
+Yet, when the great ant spoke of it, I couldn’t help but have hope.
+
+-           From the private notes of Rathwyn Werilos, Mage of the Tower
+
+You know, now that I’m here and everything’s underway, I have to say, the fifth, despite everything I’ve heard about it… really sucks. I hate it here. I can’t believe even the mucus-ridden toxi-snails actually enjoy living here.  Take a vacation in the fourth rather than trying to melt my face off, maybe you’ll learn how to relax!
+
+Once the perimeter is… somewhat secured, the carvers begin to fortify and lay down the experimental ‘track’ we intend to use to feed the wuffers. After all, they’re helpless little things, unable to fight at all, every drop of evolutionary potential and energy was required to create the incredibly unique set of organs and mutations required to not only tolerate the toxic mana, but purify it. As such, they’re supposed to remain protected, nestled in the middle of our formation.
+
+To keep them safe, but let them work, we need to create a steady flow of contained ‘goop’, aka fifth stratum mana, to feed to our happily chuffing wuffers. The answer the carvers came up with was a sweet track system. Each section slots into the next and powers up, extending the reach of the formation and drawing in more energy, feeding it back to be cleaned.
+
+It’s simple to work and versatile enough that only a little shaping is required to smooth out the ground before we can lay down the track. The end result is that we can easily expand the formation as the clean mana extends further outwards.
+
+Behold, the incredible engineering of the family!
+
+However, that’s not worth anything if we can’t defend it. Defending our territory is becoming harder and harder every second as more and more native monsters sense what we’re up to. The second they do, they come screaming out of the shadows, twisted with rage, and throw themselves into our defensive formation with no regard for their own safety. So long as they can spread the poison and push us back, they don’t even care if they become biomass.
+
+For the moment, we have an overwhelming force. With myself and the three amigos present, we’re easily able to outpunch the local riffraff. What makes it difficult is the atmosphere of the fifth. I can endure it for a while, but I’m a little different than the others. Having an exo-skeleton is a serious advantage since it takes the acidic effect a lot more time to eat through it than it would skin and muscle. My joints are vulnerable, as ever, but compared to the others, I’ve got it easy.
+
+Tiny has a thick covering of fur, but that’s no defence against the omni-present acid. Every time he so much as sticks a finger outside the slowly expanding bubble of clean mana, he has to snatch his hand back as it begins to sizzle. Even Crinis has a hard time. Her flesh… shadow… I mean… is it even flesh anymore? Whatever. It’s a lot of things, but it ain’t that durable, so if it's exposed to the acidic atmosphere, it starts to burn away rather quickly. Even worse for her, it’s hard to replenish what was lost using Biomass down here, since every monster is some variety of poisonous or toxic to eat.
+
+Invidia… needless to say, the eyeball with his little fluttery wings and noodle arms is the weakest of all of us, physically. Were he exposed to the atmosphere for even a few seconds, he might lose a limb. Thankfully, he’s the one who is the least likely to suffer, since, as a master mage, he doesn’t need to go anywhere near his targets in order to blow them up.
+
+For the most part, I remain almost completely outside of the cleansed mana, working to push back the monsters before they can reach the rest of my family. Every now and again, I duck into the safe zone, just for a little breather and to give myself a thorough scan, to ensure I’m clean of toxic influence.
+
+Little by little, we expand our control until our safe zone covers the width of the tunnel and begins to extend further outwards.
+
+It’s at this point where the expansion begins to slow. Not because we’re being pressed too hard, but because the war between the purified mana and the toxic energy of the fifth is beginning to reach an equilibrium. Despite the fact the energy cleaned by the wuffers is designed to eat into the energy of the fifth on its own, it’s still susceptible to being corrupted by the fifth. When the two energies meet, a war begins as both try to consume the other in order to propagate itself.
+
+With our cluster of five hundred wuffers, there’s only so much they can do to push back against the overwhelming amount of mana present here.
+
+Not helping is the local fauna. The bile toads and mucus snails are able to perform much the same terraforming tasks that they did in the fourth, puking up dense clouds of toxic energy to eat into the purified zone. Even when we finally put them down, half the time they explode into filth, or little slugs break out of them, leap at us and then explode into filth.
+
+This place just doesn’t like being clean, basically. It’s fine, we aren’t expecting to succeed, or even kick start the process. This is simply the first test, a trial run, as we prepare for the full invasion. By the looks of things, it’s quite successful so far!

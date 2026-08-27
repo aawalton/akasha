@@ -1,0 +1,159 @@
+---
+id: 91b4601a-13ce-5ff6-bf47-f3dbeb2ac9c6
+page-type-slug: story-chapter-royal-road
+title: "166: Laser Crabs"
+slug: 0166-166-laser-crabs
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 166
+ownLength: 2062
+unit: words
+publishedAt: 2026-06-17
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3552501/166-laser-crabs"
+royalRoadId: "3552501"
+---
+
+Chloe’s first instinct upon seeing the giant archive room was to maybe possibly burn the whole thing down. Because seriously, there was absolutely no way anything stored in some creepy underground archive was good.
+
+Unfortunately, before Chloe could start burning stuff, Z stepped in with the voice of reason. “We should search the archives for useful information first, destroying everything immediately would likely be counterproductive.”
+
+Chloe groaned. “Ughhh, fine.”
+
+“And additionally,” Z continued, “setting the archives ablaze would almost certainly result in the interns being forced to clean up the aftermath.”
+
+Okay wow, that actually made Chloe feel kinda bad. The interns here already looked like they were one inconvenience away from collapsing into dust. Chloe suddenly imagined some poor intern being handed a mop and told to clean several floors worth of magical fire damage.
+
+“Okay, yeah, maybe we shouldn’t burn the place down,” Chloe admitted reluctantly.
+
+Meanwhile, Z continued walking deeper into the archive while quietly studying the surrounding shelves and storage sections around them.
+
+“Remember, we are searching for anything related to Tartarus’s acquisition, Ishgria, or potentially information regarding either you or myself.”
+
+Chloe gave a thumbs up. “Kay, got it.”
+
+Then she wandered toward one side of the archive and started flipping through stacks of papers and folders. Her current strategy mostly involved opening random files and hoping something interesting jumped out at her.
+
+At first, Chloe didn't get too much out of her search. Most of the documents she opened were just boring corporate nonsense like various compliance forms, and then more forms for those forms. There were also budget reports, employee complaints, supply chain documents, and a lot of other stuff that was pretty boring.
+
+At one point she accidentally spent five whole minutes reading a report about coffee machine maintenance schedules. It was a lot less interesting than she thought.
+
+Eventually though, after opening enough folders, Chloe finally stopped just blindly grabbing papers and actually started thinking about it properly. She asked herself a simple question, if she was some horrifying evil corporation trying to take over Tartarus, where would she hide the really important stuff?
+
+So instead of searching randomly, Chloe started examining the archive sections more carefully. She looked at department labels, organizational codes, project tags, and other miscellaneous categories while slowly narrowing things down aisle by aisle. That one sounds lame, and oh wow that title sounds super illegal, but tax fraud's not exactly what I'm looking for.
+
+Eventually, she saw a thick black folder resting near the back of one shelf, one that said: Project Paradise. That kind of name? In a place like this? Yeah, Chloe knew exactly what was up, or at least, she got a good feeling about this folder.
+
+Chloe grabbed the folder free and opened it. The moment she started reading, her expression changed from suspicious curiosity into genuine disbelief.
+
+The documents inside detailed extensive development plans regarding Tartarus itself. There were maps, restructuring proposals, population management plans, economic forecasts, and massive infrastructure projects outlining how Divinity Inc intended to completely transform the realm.
+
+One page specifically detailed future commercial expansion plans. Including a mall. Chloe stared at the page for a while. Holy moly, they're really gonna build a mall here of all places?
+
+There were proposals for luxury districts, transit systems, entertainment sectors, and something called Tartarus Heritage Tourism, which sounded so unbelievably stupid that Chloe almost admired the confidence behind it.
+
+“Geez, these executives have completely lost their minds,” she muttered.
+
+But then she reached another section. And the documents stopped being even remotely funny. Chloe’s grin disappeared completely as her eyes moved across several highlighted lines discussing “high-priority hostile entities” interfering with the acquisition effort, specifically, a certain someone named Ishgria. And she just so happened to be labeled under the orders for "Permanent termination". It didn't take a genius to figure out what that meant.
+
+Chloe closed the folder, turned, and then walked toward Z. “Hey, I found something."
+
+Z looked up from another stack of records as Chloe handed over the folder. The angel quickly skimmed several pages before her expression darkened slightly.
+
+“Good work locating this,” Z said carefully.
+
+Meanwhile, Z herself held another file tucked beneath one arm. “I also discovered documents pertaining to both you and myself.”
+
+“Oh? What did it say?"
+
+"More or less what you'd expect, that both of us are also considered threats by Divinity Inc."
+
+"Eh, guess that sounds about right."
+
+Chloe glanced around the endless archive surrounding them again. “Honestly, we should probably keep digging around more too. Who even knows what other insane stuff we’ll fin—”
+
+“I would advise against that.”
+
+The calm unfamiliar voice suddenly echoed throughout the archive room. Chloe froze, and then she looked up towards the ceiling.
+
+Apparently, the archive room had several small speakers mounted along the ceiling. And unfortunately, each of those speakers also came with attached security cameras. So, that was probably not great.
+
+Chloe slowly stared upward at one of the tiny blinking cameras before awkwardly looking over toward Z. “Hey, um… sorry for not noticing those earlier.”
+
+Z gently nudged Chloe’s shoulder. “It is fine, this was always part of the plan.”
+
+“Wait, it was?”
+
+Z didn’t answer that question. Instead, she looked directly up at one of the camera-speakers overhead. “Who are you?”
+
+A burst of static suddenly crackled through the archive room, echoing from the ceiling speakers before the voice returned. “Administrator A, and I currently possess authorization to deal with both of you however I see fit.”
+
+Chloe immediately frowned, because wow, that sounded cartoonishly evil. Not just regular evil either, but the kind of evil where somebody probably sat in a giant chair petting a cat.
+
+Beside her, Z’s expression hardened. “If that is the case, then why not confront us personally?”
+
+“As much as I would enjoy doing so, the CEO has assigned me additional responsibilities elsewhere. Therefore, for the time being, you and Ishgria’s daughter will instead be handled by my personnel.”
+
+Chloe immediately frowned a little at hearing that. She still wasn’t used to hearing people call her that instead of just “Chloe.”
+
+A second later, the speakers overhead crackled loudly with static before falling silent again. And then Chloe felt it.
+
+At first, it was just a faint vibration traveling through the floor. The vibrations quickly grew heavier until she could actually hear them now too, rapid movement echoing from somewhere beyond the walls.
+
+Chloe slowly turned toward Z. “Well, I gotta ask, what exactly do we do after we fight our way out of here?”
+
+“This building’s layout appears structurally similar to many other Divinity Inc. facilities. If that assumption is correct, there should be a parking lot not too far from here. We can probably get out of the compound from there."
+
+"Cool, could we grab a car or something on the way out?"
+
+"Chloe, we can fly, remember?"
+
+"Right, but— "
+
+"No driving, we fly. Also, get ready, they're coming close."
+
+Almost immediately afterward, the doors at the far end of the room violently exploded. The entrance burst apart in a cloud of smoke, dust, and shredded papers as chunks of debris flew across the archive floor. Chloe instinctively stepped beside Z as both of them prepared to face the threat, or threats, ahead.
+
+A whole group of what could only be described as murder bots came skittering around the corner. Chloe immediately decided to call them Crab Bots, mostly because they looked pretty much like giant mechanical crabs. Each one was wide, with heavy mechanical legs that clanged against the floor as they moved.
+
+Instead of proper claws, both of their massive pincers had long cylindrical laser cannons mounted directly into the joints. The weapons glowed with an angry red light that pulsed brighter every passing second. Above their bulky bodies was a small rotating head unit with a single oversized camera lens fixed at the center. It didn't take long for the entire group to open fire at once.
+
+Chloe and Z dove behind a row of tables as laser fire tore through the room around them. Metal shelves exploded apart in showers of sparks, and Chloe watched one beam punch straight through a thick steel rack like it was wet cardboard. These laser shooting Crab Bots absolutely meant business.
+
+Honestly, she already wanted this over with. Since Chloe guessed that robots probably would take more damage from getting hit by a lot of electricity, she decided to fire off some zaps. Chloe planted one foot against the floor, and launched herself straight out of cover. The Crab Bots reacted instantly.
+
+A dozen red beams slammed into her body almost at the same time. Lasers punched through her coat, tore through flesh, and blasted smoking holes clean through her torso and arms. Black ichor sprayed through the air as the impacts spun her sideways mid-leap.
+
+Despite getting her body torn apart, Chloe laughed as she raised both of her hands. “Oh, now you guys are dead.”
+
+Lightning erupted from her hands as massive arcs of electricity ripped across the room with deafening cracks, branching wildly between every Crab Bot, the bolts so bright they burned afterimages into the walls. The first Crab Bot convulsed violently as electricity flooded through its body, its thick metal legs locking up instantly while sparks exploded from every joint, then the lightning chained to the next machine, and the next, and the next.
+
+One Crab Bot crashed sideways into a wall hard enough to crater it. Another flipped completely upside down as smoke poured from its body. A third simply collapsed in place with its legs twitching helplessly.
+
+Within seconds, every single Crab Bot hit the floor. Though disappointingly, None of them really exploded. In the aftermath, Chloe stared at the pile of sparking machines in visible annoyance. Aww. Seriously? Not even one cool explosion?
+
+Chloe turned toward Z, already opening her mouth to say something, but Z had moved before she could get a single word out. The angel rushed ahead as a blade of light formed instantly in her hand with a sharp crack of energy. One of the Crab Bots tried to raise its laser claws toward her, but Z drove the sword straight through the machine’s red camera eye before it could even fire.
+
+Z ripped the sword free of the Crab Bot she stabbed, and immediately pivoted toward the next target. Another Crab Bot lunged at her, claws snapping through the air, but Z sidestepped and stabbed upward through the underside of its head.
+
+The last surviving Crab Bot attempted to crawl backward across the floor. Z walked toward it and plunged the glowing blade directly through its eye. The machine convulsed once before going completely still, one final shower of sparks bursting from its body.
+
+Silence settled across the hallway aside from the faint crackling of dying electricity and the hiss of burning metal. Z flicked the remaining sparks from her blade before turning toward Chloe. “Make sure to finish off your opponents properly in the future.”
+
+Honestly, that was a pretty fair point, so Chloe just scratched the back of her head awkwardly and nodded. “Yeah, my bad.”
+
+The glowing sword dissolved into drifting particles of light around Z’s hand before she looked Chloe over carefully. “Are you alright?”
+
+Chloe glanced down at herself, then looked back at Z. Most of the damage from the fight was already gone, the torn flesh and burns fully regenerated. “Yep, good to go, but I got a question."
+
+"Yes?"
+
+"Why'd that Administrator A guy just send these robots at us? I mean, not that they weren't threatening, but I expected more, you know."
+
+"My current guess is that the company's resources are stretched thin at the moment, with the more experienced personnel being on the lower floors."
+
+"Ah, is it because they're trying to kill my Mom?"
+
+"Very much so, now come on, let's move." Z said before turning and breaking into a run down the corridor.
+
+“Right behind you!” Chloe shouted as she vaulted over a pile of burning debris and sprinted after her.
+
+The two tore ran out of the archive room and then through the hallway at full speed while warning alarms continued blaring. Eventually, they burst through a pair of reinforced doors at the end of the corridor and emerged into a massive underground parking area.

@@ -1,0 +1,91 @@
+---
+id: 904069b8-2267-5d58-9def-11ef62c2f47e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1503 - Absence Makes the Heart Grow Fonder"
+slug: 0151-chapter-1503-absence-makes-the-heart-grow-fonder
+partOf: chrysalis
+position: 151
+ownLength: 1126
+unit: words
+ownProgress: 1126
+publishedAt: 2025-02-06
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2050317/chapter-1503-absence-makes-the-heart-grow-fonder"
+royalRoadId: "2050317"
+markedReadAt: "2026-06-29T19:48:40.711Z"
+---
+
+Retirement wasn’t exactly what Goszi had in mind. In some ways, he was living a life of luxury beyond the wildest dreams of any Krath. He didn’t have to work, he was fed without having to move his foot, his safety was guaranteed, and most of all, he was protected from the greatest danger to any member of the slug tribes: other Krath.
+
+There were downsides, of course. He was confined to a single room and lacked stimulus. The ants had tried to provide things to entertain him, puzzles, games, had offered to bring him items so he could indulge in a hobby, a loom for weaving, wood for whittling, that sort of thing.
+
+He’d solved the puzzles quickly and grown bored. the games were more interesting, but he lacked opponents. Most of the ants were too easy to beat (Solant was too hard), while those with more skill were too busy.
+
+As for hobbies, he was a slug of the tribes, he didn’t even know what that was? He could wrangle a blubbeast, could extract edible meat from the pits without being crushed or eaten, could navigate the deepest, slimiest pits of the fifth, could do any of the thousand and one things a tribe needed to do in order to survive. He didn’t do any of those things for fun or entertainment! He did them to avoid getting eaten!
+
+Now that he had what he had yearned for over the last few years, Goszi found himself growing increasingly irritated, and he didn’t want to admit why, which only made him more irritated.
+
+With a roar, Goszi launched himself from his bed and splatted into the opposite wall, trying to gnaw on the smooth wall as his eyes bulged atop their stalks.
+
+He wanted tea! By the fifth, he wanted some damned tea! And biscuits! He would rend a thousand monsters to bits for a sweet, crunchy treat, would annihilate a dozen Krath young for the ones with little chocolatey bits in them!
+
+“I can’t take it anymore!” he frothed, his flesh sizzling with anger.
+
+Never in his life had he tasted something so delicious. In fact, never in his life had he tasted something that could be described as anything like delicious. In the tribes, they ate Biomass which had been digested by the blubbeasts and mosses from the gardens. Goszi had never complained about it, had never heard of a single slug who had, but that was only because none of them had ever eaten something that actually tasted good!
+
+DAMN IT! How had they known? He’d been so careful. The first time he’d eaten a biscuit, his mouth had exploded with flavour. The delightful, crumbly texture, the sweet flavour. He thought he’d covered his reaction well, acting as if he were starving and in need of food. The ants were fooled. At least, he’d thought they were.
+
+Then he drank the tea.
+
+The aroma, the flavour, the welcome heat and smooth sensation on his tongue. It had washed away the crumbs and poured straight into his shrivelled heart.
+
+[You appear to be having a hard time of it, Goszi. Is there something we can do to help?]
+
+Maddened red eyes atop their stalks turned toward the window to see the adjoining room was lit, Solant watching him from within. She was reclined on one of the ‘ant chairs’ that he’d seen before, relaxed, cleaning her antennae, looking as casual as could be. He wasn’t fooled. Even with those unreadable eyes, he could read that gaze. Solant was as cold a killer as any he had seen in the tribes, colder even. She lacked the rage and fire that bubbled within every single slug. No, Solant was just cold all the way through.
+
+He grit his teeth and tried to cool his thoughts.
+
+[I’m just a little bored,] he grumbled. [All of these entertainments are too stale for one of my kind. Perhaps you could…] he grinned savagely, [give me some of your young. I could hunt and chase them through this room for days. I’m sure they would be delicious.]
+
+Unruffled as always, Solant didn’t react.
+
+[I don’t think so,] she replied. [Although, speaking of delicious.]
+
+She clacked her mandibles, and a few more ants entered the room from beyond Goszi’s view. He watched as they set out some furniture within easy reach of the general. A small table, then a little dainty cloth to go over it, along with some decorative squares of wood.
+
+[What are you…] Goszi started, then trailed off.
+
+The ants returned, with tea, AND BISCUITS.
+
+A cup was placed atop one of the squares, then filled with tea from a larger vessel with a long spout before that too was placed on a square. Then a plate, heaped with biscuits. He could see the warmth rolling off them. It was impossible, the two rooms were far more separate than they appeared, but he swore he could smell them.
+
+[Do you really think that will move me?] he sneered, while internally he screamed with rage.
+
+Solant appeared to thank the ants who had served her before she turned back to him.
+
+[These are my refreshments. Why would I care how you feel about them?] she stated logically.
+
+She used one foreleg to grab a biscuit, then nibbled at it. Goszi’s flesh started to sizzle.
+
+[I wonder how long until your masters become frustrated with your lack of progress?] Goszi mused, trying desperately to master himself. [I’m sure they are already angered by your incompetence.]
+
+[Perhaps,] Solant replied placidly. [Perhaps not.]
+
+She sipped her tea, and Goszi couldn’t help but gulp, desperate for a whiff of that complex scent.
+
+She saw. He knew she saw.
+
+[Did you know there is something of a secret technique when consuming tea and biscuits?] she said conversationally.
+
+[I couldn’t care less,] Goszi gasped, eyes fixated on the small table filled with delectable treats.
+
+[A hidden method, first revealed by the Eldest and known only to a few.]
+
+She reached with a foreleg once more to grasp a biscuit and lifted it slowly. Goszi’s eyes followed every move. She brought it over to the cup, held it there for a moment, then lowered it. Maddeningly slow, the biscuit went lower, and lower, before it touched the heavenly tea within, the rich biscuit soaking up the liquid like a sponge absorbing the gods’ nectar.
+
+Solant withdrew the biscuit just as slowly, holding it over the cup as a few drops tantalisingly fell back in. Only then did she bring it to her mouth and take a nibble.
+
+[Would you care to try it?] she offered.
+
+Goszi found himself pressed against the glass, teeth gnashing wildly, his eye-stalks repeatedly smashing into the hard surface.
+
+[... Yes.]

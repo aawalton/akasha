@@ -1,0 +1,73 @@
+---
+id: aae1d28c-8aad-5b08-be9b-539e334c799e
+page-type-slug: story-chapter-royal-road
+title: "167. A Grim Beginning"
+slug: 0167-167-a-grim-beginning
+partOf: breaker-of-horizons
+position: 167
+ownLength: 2102
+unit: words
+publishedAt: 2022-01-06
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/819405/167-a-grim-beginning"
+royalRoadId: "819405"
+---
+
+Caden spent the handful of hours he had left before the briefing to read as much as he could. However, overwhelmed as he was by the scale of this revelation and the prospect of even more unknown things about the past of the Empire and the world itself, progress was slow. By the time he had to leave to start the walk to the Nivordin Lecture Hall, he estimated that he had only made it halfway through all the various aconwera covered in the text.
+
+With a sigh, he brought the text over to the rest of the books on the wysana that were still where he had left them on one of the other tables in the Vault, and resolved to come back to it another time. Perhaps he would ask the Demiurge about it tonight, if they could arrange a meeting. And if not, he'd try and finish reading it before their first weekend session.
+
+It was already getting dark when Caden emerged from the library building. The campus was more populated than Caden had seen in awhile, and everyone was making their way towards the Nivordin Lecture Hall. He was mostly lost in thought as he followed the general flow of foot traffic, but a slight perturbation in oblivion drew his attention momentarily and he glanced towards the Spire. As ever, it towered over the campus, but at the moment its normally imposing silhouette seemed to have a strangely parental cast to it, as if it were leaning over him in concern.
+
+'Your mind moves strangely,' the augera murmured. 'Very troubled patterns.'
+
+'I don't feel like talking. Not now,' he answered wearily. 'And especially not to you.'
+
+To his relief, the augera did not press the matter, and its presence withdrew from his awareness. The contact still left him in a somewhat irritable state, however, as he stewed over how apparently easy it was for all and sundry to peer into his mind and pick up his mood if they were well-versed enough in arcanophany or knew their way around the higher planes of oblivion. He started wondering how one might go about veiling their thoughts more thoroughly, and resolved to start down that line of inquiry with the Demiurge.
+
+Since he was so preoccupied, Caden wasn't quite paying attention when he slipped into the hall. But something in the the air didn't sit quite right, and he blinked in confusion as he stepped over the threshold, then gasped when he finally realised what he was seeing.
+
+The lecture hall was large enough to fit an entire cohort with some space to spare, but it didn't occur to Caden until that moment that the entire body of fledging arcanists in the Academy had been called to attend this briefing, not just his cohort, which meant there wouldn't be enough seats for everybody.
+
+However, the hall's configuration had changed. Gone were the widely-spaced fixed tiered seats with foldable desks. In their place were sleek metal chairs placed more closely together. Each tier had also somehow stretched so that it was larger than what Caden remembered. The most remarkable thing was the stage, which seemed to have sunk several levels lower, creating more tiers for more seats to be placed. Somehow, the dimensions of the hall had increased. Caden took a moment to peer into oblivion and realised with a start that even after this adjustment, the hall wasn't yet in its completely unveiled state. From what he could see of the arrangement in oblivion, the true size of the hall rivalled the main arena, and it contained features he didn't understand. But what was even more surprising to Caden was the fact that the external dimensions of the building were fixed. Somehow, oblivion had been so cunningly folded here that the real, habitable space was larger on the inside than on the outside. Even trying to look at how it worked gave Caden a headache, so he abandoned the attempt and grounded himself more fully in the physical world.
+
+The hall was already mostly filled, and Caden spotted a few familiar faces in the crowd. There were older students from the senior cohorts, but it seemed to Caden that there were fewer of them than expected, and he remembered that apparently not many of them had made it through Reeves' ensorcelment trials. His cohort was likely the largest one now, since no one had failed, and at a glance it seemed like almost everyone had elected to return and submit to the conscription.
+
+Caden's heart leapt to his throat when he spotted Devon near the front. He had turned around to glance across the hall and just happened to make eye contact with Caden in that moment, and he gave a pained smile before turning back to continue his conversation with the person next to him. Caden could hear the blood pounding in his ears as he recognised it was Jerric who was talking with Devon, and he could tell that the rest of his other friends were seated along the same row even though he was only looking at the backs of their heads.
+
+Then, almost as if he could feel Caden's eyes on the back of his head, Ambrose turned very slowly and deliberately and looked straight at him. Ambrose frowned, looking troubled and confused, before bobbing his head in awkward acknowledgement and turning hastily away once he noticed that Caden was staring right back at him.
+
+Caden swallowed hard, grabbed the nearest available seat he could get somewhere closer to the back, and tried to still the hammering in his chest.
+
+After a few minutes, the steady flow of people coming in through the doors slowed to a trickle. Just as the last few students stepped in, the doors swung shut of their own accord and the empty stage was suddenly occupied by Demiurge Maugrim Caldwell in his full arcanist regalia, complete with the black staff. Even though his appearance had been completely silent, with no visual phenomena, every eye in the lecture hall was drawn to him. There were exclamations of surprise, and the hall filled up with excited conversation.
+
+This time, Caden sensed the folding of oblivion. The Demiurge had performed what he called 'phasing' in order to appear before them out of thin air, though Caden still didn't know the difference between that and straight-up teleportation.
+
+"Welcome back," Caldwell said softly, but his voice carried easily over the noise in the hall, and the babble died instantly.
+
+"On a good year," he continued, looking up at everyone, "the Academy sees around six to seven hundred arcanists in its halls across all the cohorts. But at the end of last term, our number was reduced by almost a third when they failed to prove themselves capable enough to resist ensorcelment."
+
+Caldwell gestured broadly at everyone. "And out of that qualified crop, fewer still have returned. Three hundred and ninety-two, to be precise. You have answered the call to serve the Empire, and have come to be trained as thaumaturgists."
+
+The heavy tap of Caldwell's staff on the floor echoed ominously as he walked slowly to the edge of the stage, closer to the tiered seats. He leaned on the staff, suddenly ancient and weary, his next words directed more at the floor, though they still rang clear through the entire hall. "At the end of our accelerated year of training, we will not end with three hundred and ninety-two thaumaturgists. Your lecturers and I will do all we can do train you well, and to train you safely... but the path of a thaumaturgist is fraught with danger, moreso than the calling to any other vocation. In the best case scenario, you will meet your limits and learn them, and find the humility and grace to step back before you are visited by calamity. You will fail, and your time in the Academy will be cut short for now. Perhaps in a more peaceful age, you will return to study other more benign branches of arcanophany. You may even find another calling in life and leave arcanophany altogether. But the most important thing is you will live."
+
+He stepped away from the edge of the stage and turned his back to everyone, then gestured broadly with his staff. The massive blackboard seemed to disintegrate, but Caden realised it was merely being folded away into oblivion. In its place, the wall was now dominated by a massive slab of black marble. There were minuscule lines etched into it, and it took everyone a moment to realise that it was a list of names. Thousands of names.
+
+"In the worst case, you will not recognise the point of no return until you have crossed it. You will meet your end, and depending on the extent of your hubris or ignorance it will either be mercifully quick or painfully slow. But to mark your sacrifice in service, and the courage you show in daring to lay claim to power, your names will be recorded among the Academy's honoured dead. Your families will be looked after. Your mistakes will be treasured. And so in your death, you will serve as a stepping stone for others to come, just as those who have come before will serve you."
+
+The Demiurge left his staff standing by itself before the memorial and turned to face everyone. "A thaumaturgist is not an ordinary arcanist. There is no future for a thaumaturgist that does not involve pain and suffering. You are about to enter the study of a field that bends arcanophany to destructive use, and even the larger body of arcanists who have merely dabbled in it do not know how truly dangerous a skilled thaumaturgist can be. There is a reason why Aiesta is feared above all nations, and why we, too, have so far elected to induct only a small number into this contingent each year. You will learn to wield terrible power, or else be broken by it."
+
+The tension in the hall was almost unbearable. It was clear that many were now having second thoughts, but no one seemed to dare to even breathe as the Demiurge spoke in his soft voice.
+
+"The year ahead of us will test you all, body, mind, and soul," he said, looking down at his feet. "To meet the needs of the Empire for today, the Academy has become a forge that will transform those of substance into weapons. You all will pass through the fire have have your mettle tested. For some, you will emerge refined. But for others, you will learn you are not suited for this path. I know you have been told, by the law of the Empire, that if you do not meet the call of service, you forfeit your future in the Academy. Even so, I want you to know that there is no shame in withdrawal. It takes wisdom to know yourself, and to know when you have come as far as you are able."
+
+The Demiurge walked slowly back to his staff and reclaimed it. The memorial melted away, allowing the blackboard to return to that position. Caldwell nodded up at the entrance, and the doors opened to admit Reeves, who slowly made his way down towards the stage. As Reeves came to stand behind the massive oaken desk, Caldwell turned to address everyone one last time.
+
+"Have courage," he said, smiling sadly, "and exercise wisdom. I would rather not have to carve any more names onto marble."
+
+In the blink of an eye, Caldwell vanished. Caden marked his disappearance in the slight folding of oblivion, and since he was watching for it, this time he caught the faint impression that the Demiurge had gone in the direction of the Spire.
+
+In the Demiurge's absence, the hall erupted into noisy whispers, and Reeves simply watched in silence, allowing everyone to digest what the Demiurge had just told them. Caden looked closely at him and realised that he looked particularly careworn, and he seemed a little lost in his own thoughts as he gave everyone some time to talk among themselves.
+
+After a minute or two, the hall gradually fell quiet again as people started turning their attention to Reeves.
+
+"Heed the Demiurge's advice," Reeves said. His voice was firm and businesslike, even though he still looked a bit distracted as he glanced around the hall. He gestured at the blackboard, which immediately filled with diagrams and instructions. "Now, listen carefully, and hold your questions for the end. Here is what to expect for the year."

@@ -1,0 +1,75 @@
+---
+id: 09c20295-2ab7-535a-9fd3-d312eac2e109
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1607 - Fury"
+slug: 0256-chapter-1607-fury
+partOf: chrysalis
+position: 256
+ownLength: 914
+unit: words
+ownProgress: 914
+publishedAt: 2025-07-16
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2438698/chapter-1607-fury"
+royalRoadId: "2438698"
+markedReadAt: "2026-06-29T19:52:00.436Z"
+---
+
+Pets can be exceptionally powerful assets in the Dungeon, and much has been written about them, but I find a great deal of the discourse settles on the expense of raising them.
+
+Some argue that pouring valuable cores into a pet is a wise investment, since delving the Dungeon with a capable monster by your side makes the endeavour much, much safer. Others dismiss this attitude, saying that by the time the pet has become strong enough to assist on deep delves, the person raising it has already spent so much they could have retired.
+
+This purely transactional attitude does not take into account all that a good pet can be. More than an asset, more than a tool, they can be a loyal companion and friend who will never turn their back on you. Indeed, they are incapable of it.
+
+-           Excerpt from ‘Delving Tips’ by Bolsen Smith
+
+Tiny was furious. Not the usual, simmering anger that he channeled into his fists, but a deep-burning, chest-thumping rage that pulled his lips back in a permanent snarl and sent waves of heat rolling through his chest. His friend the little-eye could sense it as well.
+
+[Be calmsssss,] Little-Eye urged him, but Tiny found it harder and harder to listen.
+
+Despite his inner conflict, the giant ape’s fighting style had never been more disciplined or controlled. Elbows tight to his sides, his fists flickered out too fast to see and returned twice as fast. Compact, quick, Tiny wove his body in unpredictable patterns, his feet dancing across the diamond coating of the platform. Always perfectly balanced, able to shift his weight in any direction at any time. A poison-tipped spike flashed towards him and Tiny felt a surge of fury. With the slightest slip of his head, he allowed the projectile to blast by him. Lightning coiled around his shoulder, charge building until…
+
+SNAP!
+
+His coiled muscles detonated like an explosion, the light around his fist blasting outwards along with a bolt of electricity that boomed with thunder. The target of his wrath was obliterated, seared by lightning and crushed by the impact of the light from his fist, but Tiny was already moving, weaving to another target, positioning his feet just so, rotating his body, shifting his weight. His right fist snapped out, the light forming and rocketing away so fast it looked like Tiny was launching flares into the fifth.
+
+Punch, punch, duck, shift, weave, punch, punch, punch, lightning blast.
+
+Sweat poured down the bat-faced ape’s leathery skin, soaking his fur and dripped off his brow. He couldn’t maintain this for long, but he wouldn’t stop, not until the anger was gone.
+
+[You couldss hurt yourssselfsss,] Little-Eye warned him.
+
+Tiny roared.
+
+Thick ropes of electricity snaked around his upper arms, crackling and twisting as he unleashed the storm within himself. With a deafening boom, Tiny thrust his arms forward and sent a deadly arc of lightning into the faces of the oncoming monsters. They hissed and howled, but he didn’t relent. His vision went white as his own eyes began to blaze with electric energy. His own body felt seared, dangerously burning within as his organs emptied out all of the potent lightning energy they’d gathered.
+
+Lightning surged, discharging from his palms in an endless surge as he bellowed his fury.
+
+When he finally ran out of energy, Tiny felt drained, the crackling light that normally filled him gone. His muscles steamed as the heat rolled off him in waves, his innards ached, probably singed by the sheer volume of lightning he’d pushed out. Physically weary, Tiny fell onto his backside, breathing deeply. In moments, the ants were on him, checking, healing, giving him comforting pats as they worked to make sure he hadn’t taken any lasting harm.
+
+He let them, grateful for their help, but he paid them little mind, focused instead on the surging anger that still burned within him.
+
+[I toldsss you,] Little-eye said. [Doesssn’t get them back.]
+
+[Know that,] Tiny grunted back, curling his fingers into fists.
+
+He knew that, but it didn’t help. Tiny knew he wasn’t smart. There were things he was good at (punching) and there were things he was not (thinking about stuff that wasn’t punching). Right now, his Master and his Sister had gone away, gone somewhere Tiny couldn’t follow, and he didn’t know how to get them back.
+
+A giant, bat-faced gorilla with unbreakable bones, wings of shadow and the power to shatter the hardest steel with his fists, Tiny was not used to feeling helpless.
+
+[You’re smart. You think how to get them back,] he told his Brother, Little-eye.
+
+[I amssss. It will takessss me timessss. It issss hard, but you needsssss to waitssss.]
+
+This was the same thing he had said before. Tiny knew it. He even accepted it. But it was hard.
+
+[Try.]
+
+And he would. He would try. It wouldn’t be easy to hold back his surging anger, but he would try. Hopefully his smarter brother was able to come up with something soon, because he didn’t think he’d be able to hold on for long.
+
+If it came down to it, he would go out into the tunnels and he would punch everything that tried to keep him from his family.
+
+If monsters got in his way, he would punch them.
+
+If the sneaky slugs tried to stop him, he would punch them.
+
+If the nasty mana tried to slow him down, well, he would punch that too.

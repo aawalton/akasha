@@ -1,0 +1,87 @@
+---
+id: 4bc3ef07-c3e7-5fd6-82fc-d25efaf9bcba
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1603 - That Terrible Sound"
+slug: 0252-chapter-1603-that-terrible-sound
+partOf: chrysalis
+position: 252
+ownLength: 887
+unit: words
+ownProgress: 887
+publishedAt: 2025-07-10
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2423075/chapter-1603-that-terrible-sound"
+royalRoadId: "2423075"
+markedReadAt: "2026-06-29T19:51:52.702Z"
+---
+
+The Krath were in a frenzy.
+
+“Move back!” Thulziss bellowed, phlegm and mucus flying from his lips as he glared down at the others. He loomed large over them, radiating power and authority, yet he did not get the reaction he expected.
+
+Some were cowed, especially those from his own tribe, the Gluzzgith, who had travelled from the heart to come to this blighted place, but others still roared back at him, foaming at the mouth.
+
+“Can’t you hear it?”
+
+“It’s cleansing filth! I’ll tear it apart!”
+
+“I can’t take it! I can’t take it!”
+
+The last Krath, frothing with anger, eyes bulging to the point it seemed they might burst, lashed out, no longer able to contain their rage. Almost blind with anger, they sank their fangs into the Krath beside them, who screeched and retaliated in kind.
+
+In moments, the entire scene would descend into chaos, Krath tearing each other apart in an orgy of violence that would kill dozens. The Krath’lath of the Gluzzgith sucked in a breath and let the rage boil in his voice.
+
+“BE STILL OR I WILL TEAR YOU APART!” he roared, the threat resonating in the air as the thick, acrid scent of his unfathomably concentrated acid spread.
+
+He moved amongst the crowd, daring them to defy him, his maw gaping wide to reveal his enormous fangs. It was difficult for them, he could see that they were deep in the grip of the rage, and he didn’t blame them, he felt exactly the same.
+
+When finally the last of the crowd had been cowed, Thulziss moved decisively; as the leader of the undisputed largest tribe in the area, his presence commanded respect.
+
+“Get them out of here,” he commanded the various Krath’lath of the smaller tribes in attendance. “Move to the first staging ground. That should be far enough from the fortress.”
+
+“Has the way been made safe?” Ulliz demanded.
+
+“If you don’t leave, you will find this place will grow increasingly unsafe,” Thulziss growled.
+
+Ulizz, Krath’lath of the Bulg, understood him immediately. With the help of the others, they were able to keep the slugs in line long enough to get them moving away from the fortress. Thulziss, along with the other Krath who were strong enough of will to resist the rage, waited to ensure that nothing went wrong as the other tribes withdrew.
+
+All the while, the singing resonated in their minds.
+
+Pure, clean sounds rang like peals of unsullied water, washing against their thoughts and trying to soothe their souls. Endlessly, effortlessly, the song invaded, calling, seeking, desperately crying out for acceptance and peace.
+
+They hated it.
+
+Like needles poking them right in their guts, the song was intolerable to every Krath that heard it. Its purity offended them. Its appeal disgusted them. Its cleanliness was so rage-inducing, no Krath could possibly endure it.
+
+Should they remain in its presence any longer, they would tear each other apart before they managed to reorganise any sort of assault on the fortress. Whatever the song was, it was inimical to the Krath. Theorazzn was right to seek its destruction.
+
+“If we can’t endure the song any longer, then how are we going to attack the fortress?” Chozth demanded.
+
+Of all the various Krath’lath of these minor tribes, Thulziss approved of Chozth the most. She was a real Krath, determined, vicious and brutal, eager to do the work of the Ancient and visit innumerable horrors upon her enemies.
+
+“We will have to work on a countermeasure,” he replied. “We can endure the song for a time, but every slug has its limits. If it doesn’t stop, we will need to find a way to block it out until we can get inside the fortress and eat whatever is creating the dreadful racket.”
+
+The massive slug didn’t even have adequate words to describe how much the song repelled him. It was antithetical to his senses, and every cell in his body cried out to annihilate the creatures responsible. The acid within his body stirred and burned with every note, searing his flesh and burning in his throat.
+
+He turned away from the fortress before he lost control and surged toward it in a fit of blind rage.
+
+“Have the others retreated?” he grated out.
+
+“We’re only waiting for the slugs we sent down to retrieve the body of the ant,” Chozth told him. “They should be here shortly.”
+
+They’d have to be quick… otherwise they too might have succumbed to the song….
+
+Just as he was thinking it, the large Krath’lath sensed movement nearby and turned to see a group of slugs dragging up something from below. Whatever it was, pulling it up the sheer vertical surface that plunged down into the depths below was clearly a chore and a half.
+
+Chozth’s eyes glittered as she looked at them, particularly at the sturdy scout at their head.
+
+“Zluth. Good of you to finally join us.”
+
+The slug, Zluth, grinned savagely.
+
+“It would have been easier if you’d stayed and helped lift this cursed creature.”
+
+“You had no problems with the song?” Thulziss asked, cutting through the useless chatter.
+
+Zluth spat a wad of acid onto the ground.
+
+“Nothing we couldn’t handle,” he said. “Could I ask you mighty Krath’lath to help us pull this thing? It’s unbelievably heavy.”

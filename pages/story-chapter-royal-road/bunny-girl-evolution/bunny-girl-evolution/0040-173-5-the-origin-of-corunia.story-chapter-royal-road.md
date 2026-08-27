@@ -1,0 +1,120 @@
+---
+id: af809110-dd01-50cb-83db-bf7d14e20469
+page-type-slug: story-chapter-royal-road
+title: "173.5 - The Origin of Corunia"
+partOf: bunny-girl-evolution
+position: 40
+ownLength: 1089
+unit: words
+ownProgress: 1089
+publishedAt: 2026-02-21
+link: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3076735/1735-the-origin-of-corunia"
+royalRoadId: "3076735"
+markedReadAt: "2026-06-29T20:03:57.094Z"
+---
+
+After 800 years of travels and countless forms of mischief, Oberon and Titania finally returned to where it all began. The place of their birth. The mysterious valley where winter couldn’t quite reach.
+
+The valley hadn’t changed much since they left. It was still just as green as ever, and though the animals and some of the plants had changed, the overall atmosphere was untouched. Almost.
+
+The mountains nearby were inhospitable, and nearly uncrossable for most, but somehow, a group of humans had made their way all the way here and settled in the comfortable warmth hidden within the deadly cold. There were only a few dozen of them, and they had only claimed a small section of the southern part of the valley as their own, but both Titania and Oberon knew that the number would not stay small for long. There was plenty of room for them to expand their territory outward, and the monsters in the region were not a serious threat to them. With no danger and plenty of land, the valley would be crawling with humans within a century.
+
+For the time being, though, the two fey did not disturb them. Instead, they walked invisibly through the forest, speaking telepathically in delighted tones.
+
+“Look!” said Titania, holding up a squirrel. “It’s you!”
+
+“And look!” said Oberon, holding up a clone he had fashioned in the shape of a golden-haired child small enough to use his hand as a bed. “It’s you!”
+
+“I was not that chubby,” said Titania.
+
+“And my tail was far bushier,” said Oberon.
+
+The continued all around the valley, reminiscing about their early days of fighting the other forest critters and how threatening they had seemed. The strongest monster in the valley, a low 3rd tier fox, had seemed so imposing at the time, but now, even a million such monsters could not even scratch them.
+
+Eventually, they finished their tour of memory lane, and ended up on the highest peak surrounding the valley, looking down on the glowing orange fires in the human camp. Both were silent, simply enjoying the moment. They had come a long way, and seeing their place of origin filled them both with a strange mood. Eventually, though, Titania broke the silence.
+
+“Oby,” she said.
+
+“Yeah?” replied Oberon.
+
+“I want to be a queen.”
+
+“A queen? Well, there’s that new kingdom way down south. We could go replace their queen.”
+
+“No, I want to be a real queen,” she said. “A legitimate one. Of my own kingdom. Doesn’t that sound fun?”
+
+“I dunno,” he said, scratching his chin. “That sounds like a lot of work.”
+
+“Fun work!” she said.
+
+“Maybe,” he said with a thoughtful look.
+
+“If I was queen, would you be my king?”
+
+“Of course.”
+
+“What if I was an evil queen?”
+
+“Then I suppose I would be an evil king. Or maybe I would be a manipulated king. A pitiful man enchanted by my queen’s beauty and grace, blind to her faults.”
+
+“Ooh, that’s a fun idea,” said Titania. “What if I was a frivolous queen?”
+
+“Then I would have to be a rich king,” said Oberon, smiling. “Amassing wealth to satisfy my wife’s habits.”
+
+“And what if I wanted to be the king?”
+
+“Then I guess that would make me the queen?”
+
+“Do you see what I’m saying, Oby?”
+
+“What?”
+
+“Wouldn’t it be fun to have our own kingdom? We can be all of those things and more. Whenever we got bored, we could just pretend to die, or stage an uprising, and then become our own successors and have some more fun.”
+
+Oberon’s face lit up.
+
+“That’s a great idea!” he said. “Tighty, you’re a genius!”
+
+“I told you not to call me that,” she said, playfully shoving him.
+
+“You always have the best ideas, Tighty,” he said, clinging to her arm. “This is why I keep following you.”
+
+“Maybe I should start having worse ideas so that I can finally be rid of you and don’t have to be called ‘Tighty’ anymore.”
+
+She tried to push him away, but he only clung tighter, and a clone appeared on her other side, grabbing her other arm.
+
+“I’d follow you anyway, just to annoy you,” he said.
+
+“Really? Even if I ran away to Irylax’s belly?”
+
+“I’d follow you anywhere,” said Oberon. “Even to a place as foul and gluttonous as that.”
+
+Oberon paused and Titania giggled as they both felt the icy sensation of an aether bond tightening on their souls.
+
+“You let your guard down again!” she said.
+
+“How can I ever see through all the traps of someone as wily as you?” Oberon said. “But I think this calls for some retaliation.”
+
+Before Titania could react, a dozen clones appeared around them, all diving toward her and beginning a mass tickle attack. Titania barely managed to slip out, and the ensuing chase lasted all night until she and the dozen Oberons collapsed into a giggly pile, breathing heavily. One by one, the clones vanished, and soon, all that were left were Oberon and Titania, laying on a snowy slope, watching the sun rise.
+
+“Are we really making that kingdom?” asked Oberon.
+
+“Of course!” said Titania. “Why wouldn’t we? If it turns out to be boring, we can just leave.”
+
+“Where do we start?”
+
+“Right here, of course. We already have our first subjects too!”
+
+“Who?”
+
+“The humans in the valley!”
+
+“Oh yeah…” he said. “When do we start?”
+
+“How about right now? Why wait?”
+
+Titania shot to her feet, Oberon following close behind, and immediately, the two began shifting their forms. A few hours later, two haggard travellers stumbled into the green valley, barely making it to the small settlement. It was a man and woman, both in their twenties, and though they were starved and weakened, they still held a certain level of poise and charisma that allowed them to quickly earn the trust of the other humans.
+
+As the years went on, the two became integral parts of the budding society dwelling in the valley that the humans had dubbed “Everspring.” They quickly distinguished themselves as the strongest warriors in the colony, and became the only ones able to reliably leave the valley. With their help, the population of Everspring grew, eventually reaching the size where they needed leaders. By this time, the couple had grown older, delegating their travel duties to younger successors, and they were almost unanimously chosen to lead the new human settlement.
+
+And so, the first king and queen of Corunia were born.

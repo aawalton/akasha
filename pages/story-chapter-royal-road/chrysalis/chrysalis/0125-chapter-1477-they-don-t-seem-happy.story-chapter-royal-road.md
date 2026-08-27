@@ -1,0 +1,93 @@
+---
+id: d5ce070b-a0d5-5900-85da-8567eae4ff2a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1477 - They Don’t Seem Happy"
+slug: 0125-chapter-1477-they-don-t-seem-happy
+partOf: chrysalis
+position: 125
+ownLength: 962
+unit: words
+ownProgress: 962
+publishedAt: 2024-12-18
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1961975/chapter-1477-they-dont-seem-happy"
+royalRoadId: "1961975"
+markedReadAt: "2026-06-29T19:48:04.068Z"
+---
+
+Well, well, well. It’s been a couple of days since I managed to capture that grey-looking slug and we locked him up. Other than invading his cell and poking him with my antennae for a few hours every day, I don’t have much to do with him. Solant is handling the questioning and I’m totally happy to leave her to it. Just being in contact with Goszi via a mind bridge feels like I’m being invaded by mental slime. His thoughts, heck his very existence is toxic. Just when I thought the Krath couldn’t be any more unpleasant, I meet one, and it gets so much worse.
+
+No, I spend the bulk of my time out in the tunnels, batting away invasions, scaring away slugs and making a general nuisance of myself. However, it’s clear that something has changed over the last few days: the Krath are decidedly unhappy. Perhaps it's just that they’ve had more time to ramp up the pressure, but I think everyone knows that they really want to get our prisoner back. From what I understand of the Krath, they aren’t likely to be mounting a rescue mission, more like they want to take him off the table in a permanent manner.
+
+Even with the slugs trying to apply more pressure, it isn’t like the Colony is taking it easy either. As the fortress continues to be pieced together, our defensive positions continue to get better and better, along with more ants flooding into the fifth.
+
+“Hi-hi, Senior!”
+
+“Hey, Vibrant. Unusual to see you standing still. Have the medics forced you to start resting?”
+
+“Yep-yep! I’ve been getting a bit hurt-hurt, so they want me to heal for a while.”
+
+Forced inactivity? For Vibrant?
+
+“I’m kind of shocked you agreed to that,” I admit. “Wasn’t it almost impossible to get you to take torpor not that long ago? Now you agree to sit down to rest and recover without protest?”
+
+Vibrant clacks her mandibles and laughs.
+
+“Who said-said I didn’t complain? Sol-Sol told me I was starting to slow down so I needed to rest,  and that made sense.”
+
+Right. Trust Solant to find a way to convince Vibrant to rest. I doubt she was actually getting any slower, but hey, if it works, it works. Vibrant is one of the strongest and most effective soldiers in the entire Colony, but making the best use out of her is difficult, not only because of how specific her build is, but how hard it can be to get her to take any sort of direction.
+
+She walks, actually walks over to where I’m resting and settles down beside me, giving me a chance to directly compare our sizes. She is certainly larger than she was before, but still decidedly smaller than I am. Vibrant isn’t as interested in mass; in fact, she wants to avoid it as much as possible. I’ve no doubt she has much denser muscle mass than I do, and higher Might, even if I am larger. Instead of gaining size with each evolution, she seems to be getting more and more sleek. Two more evolutions and she’s going to look like an ant-inspired bullet train.
+
+“How did the Krath manage to injure you?” I ask, genuinely curious.
+
+I mean, she’s so fast, how the heck did they catch her?
+
+“Too much slime-slime on the ground,” she laughs. “I thought if I could run-run fast enough, then the poison wouldn’t get me.”
+
+So she ran through a bunch of sludge on the ground on purpose, thinking she could make herself immune by being too fast for the toxin? It’s the kind of insane thing she would think of, and I’m willing to bet she thinks it only failed because she wasn’t going fast enough.
+
+“The healers have given you a once over? You managed to sit still long enough for them to finish, right?”
+
+“Yep-yep! It wasn’t easy, even the micro-sleeps weren’t enough to pass the time, so I had to start flutter-stepping.”
+
+Do I even want to know?
+
+“What is flutter-stepping?”
+
+“If I move my legs fast-fast, then nobody notices that I’m doing it.”
+
+“Wait… so you keep your body still, and you just move your legs?”
+
+“Yep-yep!”
+
+“And it’s so fast that nobody can even see it happen?”
+
+In fact… am I detecting movement right now? It’s subtle, but I swear I can feel some vibrations in the air.
+
+“You’re doing it right now, aren’t you?”
+
+“Yep! It makes me feel like I’m move-moving even when I’m sitting still!”
+
+That’s… actually a super useful skill for Vibrant to have. If it can help her to finally sit still long enough for others to give her assistance, then sure, what the hey.
+
+“How are you feeling about the fifth stratum so far?” I ask her. “You’ve been here long enough to get an impression of the place.”
+
+“It’s yuck,” she declares, wiping her antennae with her forelegs furiously. “I can’t run as much as I want and everything smells. The thump-thump is super bad too.”
+
+“Thump?” I ask, confused. “What thump?”
+
+“Not thump. Thump-thump,” she clarifies.
+
+Ah, so she wasn’t just repeating the word. What the heck is the thump-thump?
+
+“Wait, you mean the heartbeat? I thought I was the only one who’d picked up on that!”
+
+“Nope-nope! I can hear it! It’s really annoying!”
+
+Well, there you go. I wonder if anyone else is picking up on it now. Come to think of it, there’s no way Vibrant would have been able to hear the heartbeat all the way up here; she can’t leave the safe-zone, after all!
+
+“Could you hear that noise when you first got here?” I ask.
+
+“Nope-nope! But the mana is getting thicker!”
+
+Ah. The wave isn’t far away, then.

@@ -1,0 +1,245 @@
+---
+id: 66a582d6-58ef-58ae-a079-9bc00f34ef99
+page-type-slug: story-chapter-royal-road
+title: "30: Thieves Guild"
+slug: 0030-30-thieves-guild
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 30
+ownLength: 2349
+unit: words
+publishedAt: 2025-09-12
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2595157/30-thieves-guild"
+royalRoadId: "2595157"
+---
+
+The carriage bearing the Royal Mage Academy’s insignia swayed in an unhurried rhythm, its wheels grumbling over the uneven road. A warm breeze drifted through the open window, carrying with it the scent of grass and distant rain.
+
+Sabine reclined in her seat. A polished pipe rested between her fingers, its wood dark from years of use. She drew in a breath, letting the fragrant smoke fill her lungs before releasing it in a thin, curling stream toward the passing fields.
+
+The ember at the bowl’s heart flared briefly, then faded back to a smolder. Her eyes, half-lidded, watched the world slip by as though she had all the time in the world.
+
+Across from her sat a cloaked man, his hood shadowing most of his face. The only thing visible was the black book in his hands, its cover marked with a stylised sun. His eyes moved in silence over the page until, at last, he snapped it shut with a quiet thump.
+
+“Is this errand of yours really necessary?”
+
+Sabine exhaled a ribbon of smoke toward the open window, her gaze never leaving the passing landscape. “But of course. Baron William’s aunt, Marquess Liana, happens to be a dear friend of mine. It would be dreadfully poor manners not to assist her nephew, don’t you think?”
+
+"Fine, but how long do you think you'll be in Kelvane?"
+
+"Hmm, I'm in no particular rush. I plan on taking my time there, seeing the sights, and enjoying myself. Perhaps a week, maybe a touch longer. A proper chance to unwind, you know," Sabine said.
+
+"Seriously?"
+
+"Yes. Did you know Kelvane is famous for its roasted peanuts? Quite exquisite, really."
+
+"You're forgetting your mission."
+
+"I am not. As far as I’m aware, we can’t even begin until Number Four has finished her preparations, and you know as well as I do, she’s meticulous. Perhaps a touch too much for her own good."
+
+The man leaned back in his seat, resting the closed book on his knee. “I still do not understand, how in the world are you part of the Inner Circle?”
+
+She drew in another slow breath from her pipe before letting the smoke curl lazily into the breeze. “Because I get things done. One might have thought that was obvious.”
+
+“Relax, I was trying to make a joke. Thought you might play along.”
+
+Sabine’s lips curved faintly. “Then you ought to try telling jokes that are actually funny.”
+
+The man sighed and shook his head. “Listen, once this errand of yours is done, Sol will have a new assignment for you.”
+
+She took her time answering, tapping the stem of her pipe against her teeth. “Ah, well, you see… I am frightfully overbooked for the next month. Terribly busy. So many… naps to attend to.”
+
+He raised a brow. “Was that your attempt at a joke?"
+
+“Are you implying that  what I said wasn't humorous enough to be considered a joke?"
+
+“That’s… debatable,” the man said, his lips twitching faintly.
+
+Sabine gave a slight shrug. “Well, it's hardly my fault if your sense of humour is flawed.”
+
+“In all seriousness, Sabine, the Great Game is going to reach the next stage sooner or later.”
+
+“And do you know precisely when this will be?”
+
+“I’m still doing the calculations. No estimates yet. Too many variables.”
+
+“But you do believe it is coming soon?”
+
+“It’s hard to say for certain, but the Game is moving forward—that much is beyond doubt. At least ten Champions of Chaos have already been eliminated.”
+
+“And how many do you suspect there are in total?”
+
+“That’s the problem. The other members are still gathering data. We should have a clearer picture in a few months.”
+
+A moment of silence settled over the carriage, broken only by the rumble of wheels and the creak of wood. Sabine sat back, folding her arms. “And what, precisely, does Sol expect me to do in this… next stage?”
+
+The man’s gaze drifted toward the carriage ceiling, weighing his words. “Sol hopes you can use your position at the academy to… locate a Champion of Chaos. One you might mentor.”
+
+Her brows arched. “Mentor? My dear, these champions are bloodthirsty, psychotic, insufferably arrogant, impatient, treacherous, shall I continue? And that’s assuming I could find one at all.”
+
+“It’s not as if Sol expects you to watch over them forever. The idea is simply… to keep one on track. Teach them a few things here and there, enough that they can progress in the Great Game, and then maybe—”
+
+Sabine cut him off with a weary sigh, leaning back into her seat. “I think I shall require another smoke before we go any further.”
+
+***
+
+Chloe walked back into Kelvane with her hands tucked snug under Cloaky, humming to herself. She wandered through crooked lanes and past buildings stacked so close together they seemed ready to lean in on each other. Eventually, the mess of streets opened up to a building with a familiar sign swaying above its doors.
+
+Pushing the doors to the Guild open, Chloe was greeted by warm chatter, the smell of ale, and a nice hint of woodsmoke. Roxy spotted her instantly, leaning on the bar with a rag in hand.
+
+“Chloe! Where’ve you been? You’ve been gone for weeks!”
+
+Chloe waved cheerfully and made her way over, weaving around a couple of tables. “Oh, you know… here and there. Also, I killed Luther!”
+
+“Luther Delius?”
+
+“Uh, yeah, that guy!”
+
+That got a few heads turning. Roxy blinked, looking a little shocked, then gave a short laugh. “Is that why you’ve got a new getup now?”
+
+“What’s a getup?”
+
+“Clothes. Outfit. Whatever you’re wearing. That.”
+
+“Ohhh.” Chloe tugged at Cloaky’s edge like she was showing it off. Getup… that’s a weird word.
+
+Roxy pointed toward the stairs. “Anyway, if you’re finished with that bounty, you should go talk to Ray. I’d talk to you more, but I still have a lot of orders to get through.”
+
+“Okay! Thanks, Roxy!” Chloe chirped, already heading for the steps. Ray probably has my reward. And with this, I’ll finally get a guild tag too.
+
+The steps groaned under her boots as she made her way up, the air growing faintly warmer with each floor. At the end of the hall, she pushed open the door to Ray’s office.
+
+He sat behind his desk, shoulders hunched as he bent over something small in his hands. Chloe tilted her head, squinting.
+
+It was a long, pointy wooden thing with tiny sticks poking up along its back, and he was rubbing it with a cloth like it was some priceless treasure.
+
+“What is that?” she asked, stepping closer. Looks like… a pointy house?
+
+Ray turned in his chair. “Well, I’ll be. Chloe, is that really you?”
+
+“Yup, it’s me! But seriously, what is that?”
+
+“This? It’s a ship.”
+
+“Oh? What’s a ship?”
+
+Ray chuckled, setting the tiny "ship" down. “Somethin’ you sail on the water. Big as a house, catches the wind with its sails, and’ll carry you across the sea.”
+
+“Sea…” she echoed. That’s just a really big puddle, right?
+
+Ray shook his head, still amused. “Girl, you’ve been gone for a while. Sit yourself down and tell me where you’ve been.”
+
+Chloe dropped into the chair opposite him and grinned. “So, guess what? I killed Luther.”
+
+Ray’s hands froze mid-polish. “You serious?”
+
+“Uh-huh! Totally serious.” Chloe reached under Cloaky and pulled out a rolled-up storage scroll. “He’s right here.”
+
+Ray raised an eyebrow at the scroll. “Right, why don't you open it up?"
+
+“Okay.” Chloe hopped up, crouched on the floor, and spread the scroll out. She stared at the lines and runes for a long moment. “Um…I forgot how to open it.”
+
+Ray chuckled loudly. “I’ll help you out this once. But next time, you really oughta do this yourself.”
+
+“Yeah, yeah,” Chloe said, waving him off like she absolutely would remember next time. Probably.
+
+Ray knelt beside her, pressing his palm flat over the center of the scroll. The scroll shimmered, then flared in a brief burst of pale light before their glow began to splinter and fade. The scroll curled inward, edges blackening, until it crumbled away entirely.
+
+With a heavy thump, Luther’s body slammed onto the floorboards. The impact rattled the desk, and the sharp stench of burnt cloth and seared flesh rose almost immediately, clinging to the air. Most of his body was blackened, the skin blistered and flaking in places where fire had eaten through armor and cloth alike.
+
+The top of his head, however, was mostly gone, thanks to Chloe eating his brains before. Not that she was about to admit that part. Yet.
+
+Chloe nudged the corpse with the toe of her boot. “Good enough, right?”
+
+Ray’s gaze flicked from the ruined body back to her. “Couldn’t get him back in better condition?”
+
+“Hey, not my fault he decided to set himself on fire.”
+
+Ray narrowed his eyes and pointed at the missing head. "And what about that?"
+
+Chloe gave him a sheepish grin. “Okay, that one was me.”
+
+“Well, condition aside, I can tell this here’s the real deal. The appraisers’ll see it too, they got their fancy magic for provin’ things. You’ll get your reward, sure enough, though I reckon they’ll dock ya some for the, uh… presentation.”
+
+“Is that gonna mess with what rank I get then?”
+
+“Nah. On that end there ain’t any problems. You completed the bounty, that’s what matters.”
+
+“Kay, good to know."
+
+“I’ll deal with the paperwork. But first—”
+
+Ray chuckled and held out his hand. Chloe was confused, so she just stared at it. “What’s going on?”
+
+“It’s a handshake,” Ray said, one brow arched. “You been livin’ under a rock all this time or what?”
+
+“Not a rock. A cave. Then I went out to explore and stuff.”
+
+Ray let out a low chuckle, shaking his head like she’d just made a clever joke. Chloe didn’t understand what was so funny, she really had spent most of her life in the dungeon, after all.
+
+Still, Chloe figured she might as well play along. She reached out, fingers brushing against his rough, calloused palm before giving it a quick, awkward shake.
+
+“Congratulations, Chloe. You’re now an official C-rank member of the Thieves Guild.”
+
+“Wait, did you say the Thieves Guild?”
+
+“You really didn’t know?”
+
+“Nope.”
+
+Ray leaned one hip against the desk, folding his arms. “Well, for your peace of mind, the Thieves Guild ain’t some back-alley gang runnin’ around pinchin’ purses. We’re a legitimate, sanctioned establishment. Got charters, rules, taxes, we’ve even got a legal department. We’re in the books, same as the Alchemists Guild or the Mercenaries’ Union. Only difference is the kind of jobs we take.”
+
+Chloe nodded slowly, like she was carefully absorbing every scrap of this very important information. “Mhm, right, right.”
+
+“…and because we’re official, you get—”
+
+But her eyes had already drifted to a crack in the floorboard by his boot. It curled just so, and for a moment it looked like… a little brain. I should eat that later.
+
+“Chloe,” Ray said, one brow rising.
+
+She blinked, snapping her gaze back up to him. “Huh? Oh, yeah, I’m fine. Sooo… can I get my guild tag now?”
+
+Ray let out a slow sigh, though a hint of a smile crept into his voice. “Well now, there’s a heap of paperwork I oughta be doin’ first… but what the hell. I’ll get ya on the books right now and wrestle with the papers later. Just gimme a minute.”
+
+He moved to a wooden cabinet, the hinges creaking as he opened it. Inside were neat stacks of books and a small iron-banded lockbox. Chloe leaned on the desk, her chin propped on one palm, watching with idle curiosity. I wonder what this guild tag thing looks like?
+
+Ray pulled out a small black rectangle, no bigger than a few fingers wide, and set it down on the desk between them. The surface gleamed faintly in the light, smooth as polished stone. A thin leather cord looped through a hole at the top, swaying gently when he let go.
+
+He handed the thing to Chloe. “Here it is, your guild tag. Wear it, and folks’ll know you’re official.”
+
+She picked it up, rolling it between her fingers before flipping it over. “Ooooh, cool.”
+
+Chloe slipped the cord over her head, or at least tried to. Somehow it got caught in Cloaky and then knotted itself in her hair.
+
+“…Hold still,” Ray said, stepping around the desk.
+
+“I am holding still!” she protested, even as she kept squirming.
+
+With great patience, Ray worked the cord free, tugged her hair loose, and slid the tag neatly into place around her neck. Chloe was glad that worked out, somehow.
+
+"Alright then. Now all that’s left’s gettin’ it registered. Oh, and ‘bout yer payment. I went ‘n updated yer tag with the bounty marked complete for now. Pay won’t come through ‘til them appraisers confirm the kill, though. Shouldn’t be too long, and as soon as they’re done lookin’ over Luther’s carcass, the money will be sittin’ pretty in yer account."
+
+He pressed his thumb to the tag, murmuring something. The etched crest flared to life with a warm glow that traced its edges before fading back into the black.
+
+[Guild Tag Registered]
+
+[C Rank Thieves Guild Member: Chloe]
+
+[Date of Joining: 10th of Thavriel, Year 842]
+
+[Original Branch: Kelvane]
+
+[Membership Status: Active]
+
+Bounties Completed:
+
+1. Luther Delius - C Rank
+
+“Thanks, Ray!” Chloe said.
+
+“Ain’t no trouble,” he replied, giving her a wink. “So… what’s next for ya?"
+
+Chloe tilted her head. Hmm... What was next?
+
+First things first, she had a guild tag now, which meant she could finally open a proper bank account. Baron Willy had mentioned that way back.
+
+Speaking of Baron Willy, he’d also promised her a scholar, a brainy person who was really good at magic. And it had been a while since she last heard from him, so this scholar person should’ve shown up by now, right?

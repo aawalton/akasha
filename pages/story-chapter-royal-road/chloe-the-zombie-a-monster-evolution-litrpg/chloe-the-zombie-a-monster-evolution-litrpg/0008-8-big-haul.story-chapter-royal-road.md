@@ -1,0 +1,191 @@
+---
+id: 846ad427-a0d1-5d5d-84d2-76238b1f1250
+page-type-slug: story-chapter-royal-road
+title: "8: Big Haul"
+slug: 0008-8-big-haul
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 8
+ownLength: 2190
+unit: words
+publishedAt: 2025-08-17
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2525565/8-big-haul"
+royalRoadId: "2525565"
+---
+
+Carlson had seen plenty of lunatics before, spellcasters twitching from mana poisoning, folks who took in too much pixie dust at once, even a berserker who gnawed off his own fingers just to spite a healer. But the girl in the shredded dress? She made the rest look downright polite.
+
+At first, he thought she was just another ragged scavenger with a screw loose. She didn’t even have armor. Just clothes that had seen better days, and wild eyes that shimmered with something feral.
+
+Carlson had actually thought about kidnapping her at first. Even through the grime and the rags, she had a striking look, white hair, red eyes. Features straight out of old paintings, the kind nobles paid coin to hang in their halls.
+
+He had an eye for these things. And there were always buyers willing to pay for pretty girls, even if she did have stitches all over her body for some reason. Those could be hidden with enough ingenuity.
+
+But suddenly, the girl lifted a hand like she barely cared, causing a chunk of stone to appear from thin air, hanging in place. Then it fired.
+
+The rock shrieked through the air and tore straight through Zack’s chest. Carlson flinched at the sound. The hit punched through ribs and lungs with a sick crunch, blood spraying across the grass as Zack folded in half and hit the ground twitching.
+
+Everything halted for a single breath. Then the girl stepped forward, grinning from ear to ear.
+
+Carlson’s gut twisted. That grin set his nerves on fire. “Oi, kill her!”
+
+Three of his boys charged. At the same time, the two horses nearby reared and tore free of their reins, galloping off to who knows where.
+
+Even though Carlson had wanted those horses for himself earlier, he didn’t give a damn now. His gaze was glued to the girl.
+
+One of his boys went in first, raising his blade high for a clean cut across her collar. Steel hit flesh, yet, the edge only sank into her skin just a little bit.
+
+“What the—?”
+
+She drove her shortsword up into his gut. Ferne wheezed, eyes wide, weapon slipping from his fingers.
+
+The girl kicked his legs out from under him and, before he hit the ground, brought her heel down between his shoulder blades. Seeing this, another one of his men roared and swung wide.
+
+She snatched his wrist mid-arc, and his joint soon gave way with a snap. He screamed. She stabbed him right in the chest before kicking him aside.
+
+Carlson couldn't believe what he was seeing. Just who or what is she? And how is she so strong? Did someone send her—
+
+“Boss!”
+
+Carlson flinched as his last remaining man, Berren, skidded to a stop beside him. The boy looked ready to throw up. “Boss, we gotta go! That thing ain’t human!”
+
+The Boss himself turned to say something back, but a sharp crack snapped through. Berren jerked. Then his eyes dropped.
+
+A rock jutted from his belly, glistening red. His mouth worked soundlessly, once, twice. Then he folded, crumpling face-first into the grass.
+
+Carlson stood frozen, heart pounding hard enough to rattle his ribs. The girl stepped over Berren’s corpse without a glance, blade still slick with blood.
+
+And then, she started… humming? It was like she was wandering through a meadow, not across a field of the dead. Like the lives she’d just ended meant nothing. Like they’d always meant nothing.
+
+That thought cut deeper than the sword ever could. All those years. All the things we forced ourselves to do just to survive, and it don’t mean a damn thing to her.
+
+Carlson’s fists curled tight enough to ache. He knew that he and his men weren’t saints. Never had been. But they weren’t nothing. They weren’t just meat to be butchered and left in the mud like they’d never mattered.
+
+He wasn’t going to just stand there and die like the rest. You want to play? Fine. Let’s see how you handle a little surprise.
+
+He shifted his weight, subtly, slow enough not to draw attention. Most folks thought Carlson was just another thug with a blade. And they weren’t wrong. He was a thug. A bandit since his first stubble, living off scraps and stolen coins. But there was one thing they didn’t know.
+
+Years ago, he’d crossed paths with a wandering swordmaster in a tavern. The man had been drunk, bitter, and half-mad. But for a jug of spiced wine, he’d taught Carlson a technique.
+
+A series of quick slashes that was meant to end a fight instantly. Carlson had practiced it. Sloppy at first. He’d never gotten good at the technique, not really. But it was all he had now.
+
+Carlson had to wait until she was close enough. The moment she stepped too close, he’d activate his sword technique and end it all in one strike.
+
+***
+
+Chloe hummed a little tune as she stepped over the twitching corpse at her feet. Some blood spattered her skirt, but she didn’t mind.  Wow, I took out way more humans than I thought… I’m gonna be so full after this!
+
+Only one human still stood. Just one, a few paces off. He hadn’t moved at all for some reason.
+
+The man just stood there, staring. Not a twitch, not even when Chloe stepped over the last body like it was nothing. Something about him felt… off.
+
+She lifted a hand and gave a lazy little wave. “Helloooo? Anyone still in there?”
+
+Nothing. Not a blink, not a breath of movement. The silence stretched, and Chloe tilted her head. This human was a strange one.
+
+But when she got close enough to see the sweat streaking down his face, his mouth opened, then closed. It was like he couldn’t decide whether to scream or cry. “W-what… what do you want?”
+
+“To eat your brain, duh.” Chloe said.
+
+The man lowered his head. “I give up, just… just get it over with.”
+
+Chloe blinked in surprise, then her whole face lit up. “Oh! Well, thank you! I’ll make it—”
+
+Steel flashed in her peripheral vision. There wasn’t time to flinch.
+
+A burning snap tore through her right shoulder, and her arm flew off, landing with a wet thud beside her. Chloe didn’t even see the blade move. Just felt the split, saw the stump, and heard the sloppy sound her arm made when it hit the grass.
+
+Then the sword plunged straight into her belly. Wow, rude.
+
+The force of the strike shoved her back a step, not enough to topple her but enough to make her pause and glance down at the blade embedded in her gut. Black ichor oozed around the steel, and her already-ruined dress flopped open a little more at the wound.
+
+The man stood before her, panting hard. His grip was white-knuckled on the sword hilt, eyes begging her to just fall down and die already.
+
+Chloe looked at the man. Then at her missing arm. Then at the blade jutting from her belly. And finally, back up at him with a gleam in her eyes. “Honestly, that was kinda cool.”
+
+He said nothing. Just stared.
+
+“I didn’t even see you move. One second it’s all shing-shing, and the next, my arm’s gone and there’s a sword in my gut. Gotta say, smart move.”
+
+The man’s face twitched, confusion twisting into dread as he stared at her. He must have thought that last attack finished her. Too bad for him.
+
+Suddenly, Chloe’s stitches writhed and twitched. They stretched from her shoulder stump, snaking toward the severed arm lying in the grass.
+
+The man’s breath hitched. He stumbled back once, then turned and ran. No hesitation. No clever parting words. Just raw, desperate terror as he bolted across the grass.
+
+Chloe had no plans on letting him live. Not after he tried to kill her.
+
+She raised a hand and summoned a rock, her fingers curling with purpose. The stone hovered for just a heartbeat, then shot forward.
+
+A sharp crack rang out as the projectile punched clean through his back. It burst from his chest with a wet pop and a spray of crimson, sending him sprawling face-first into the grass.
+
+Chloe flinched with a little hop, then broke into a gleeful grin. She was pleased that her aim was gradually getting better.
+
+[You have killed: Ferne Blacktooth (Human Bandit Level 6)]
+
+[...]
+
+[You have killed: Carlson Fisher (Human Bandit Level 10)]
+
+[Experience Awarded]
+
+[You have leveled up! 1 >> 2]
+
+[Strength +3, Speed +2, Vitality +3, Magic +9, Resistance +4]
+
+[Skill Upgraded: Unarmed Combat V >> VI]
+
+[Skill Upgraded: Swordsmanship II >> Swordsmanship III]
+
+[1 Trait Point Awarded]
+
+Chloe swayed from side to side, a satisfied grin stretched wide across her face as the shimmering text faded into the air. Not only did she get some nice stat boosts, but she also got a Trait Point on top of that.
+
+The last Trait Point came from that rogue she munched back when she first left her dungeon, which meant now she had two points to spend, and the possibilities made her head spin in the best way.
+
+The temptation to spend her points was there, but her gaze drifted to the trail of corpses scattered across the clearing. There were brains to munch on first. As for the trait point, Chloe planned to hold onto it for when things got truly messy. It wasn’t like she had to spend it immediately.
+
+But before feeding, there was one little thing she needed to take care of. Her arm.
+
+Chloe glanced down at her shoulder stump, watching the stitches writhe like excited worms. Her body clearly had a plan. Black threads slithered from the torn flesh, twitching and creeping across the ground like they were sniffing out a trail.
+
+Her severed arm wasn’t far, still clutching her sword. Chloe strolled over, crouched low, and gave the limb a gentle nudge with her foot. “There you go buddy, don’t be shy."
+
+The tendrils snapped forward all at once. They pierced into the flesh, twining around bone and muscle with little wet sounds. The moment her shoulder touched the stump, her skin pulled tight, stitches re-knitting in black. A second later, she flexed her fingers. “Good as new! Thank you, me.”
+
+Chloe set her sword down in the grass. There was a big meal waiting.
+
+She walked over to the nearest body, humming softly as she knelt beside what was left of one of the humans. Cracking open the skull was always a bit of a hassle, but it was worth it. Those juicy brains were just waiting for her.
+
+One by one, Chloe opened up their heads. Then, it was meal time.
+
+[Brain Consumed: Zack Blacktooth (Human Bandit Level 7)]
+
+[...]
+
+[Brain Consumed: Ferne Synn (Human Bandit Level 6)]
+
+Naturally, Chloe saved the best for last. She strolled over to the body of the last human, the one who actually managed to cut her arm. Honestly, nice try with the whole trick-and-slice thing! Probably would have worked if I was a normal zombie… but I'm not. So, sucks to be you.
+
+[Brain Consumed: Carlson Fisher (Human Bandit Level 10)]
+
+[Experience Awarded]
+
+[Skill Upgraded: Unarmed Combat VI >> Unarmed Combat VIII]
+
+[Skill Upgraded: Swordsmanship III >> Swordsmanship V]
+
+[Skill Upgraded: Thieving IV >> Thieving VIII]
+
+Chloe wiped her mouth with the back of her hand and sat up a little straighter, licking a smear of blood from her thumb. A pleasant fuzz settled behind her eyes, the kind that always came after a good meal.
+
+She looked at the notifications hovering in the air. Her thieving skill had gone up, by quite a bit, actually, and that gave her pause.
+
+Chloe squinted at the corpse beside her. That one had been a bandit. Or so the System claimed, right after she killed him. Bandit, bandit, bandit… the word repeated in her mind, but it still didn’t mean much to her.
+
+Even after chomping through so many bandit brains, Chloe still wasn’t totally sure what a bandit was supposed to be. One of the few downsides to brain-eating, not that she’d ever call it a real problem, was that information didn’t always show up neat and tidy. Most of the time, it came as scrambled bits and fuzzy ideas.
+
+Sure, she got those quick little visions after every snack. Bandits crouched in shadows, ambushing other humans, grabbing shiny things, then running away with big stupid grins, but how were they different from thieves? Was “bandit” just a weirder name for thief?
+
+Either way, Chloe had expected more from their brains, especially after that last guy, the one who actually managed to cut her up a bit. But nope. Every single snack just crammed more thieving tricks into her head and nothing else. She’d been hoping for sword skills, something flashy, something fun. Instead? Nada.
+
+For a moment, Chloe started thinking the outside world might be way more boring than she’d imagined. Then a loud bang cracked through the air behind her. She perked up, ears twitching. Someone was still alive.

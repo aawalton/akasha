@@ -1,0 +1,107 @@
+---
+id: e133916f-7bca-5c4b-9172-2ce733624bf0
+page-type-slug: story-chapter-royal-road
+title: "148: Lightning Cutter"
+slug: 0148-148-lightning-cutter
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 148
+ownLength: 2160
+unit: words
+publishedAt: 2026-05-06
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3362668/148-lightning-cutter"
+royalRoadId: "3362668"
+---
+
+Chloe stayed crouched behind the pillar for exactly three seconds, mostly because that felt like a very reasonable and tactical amount of time in her head, even if she had no idea why. Then she suddenly popped back out, and the moment the scorpion’s tail tilted toward her again with that awful glowing gloop already forming at the tip, she just kicked off the ground and flew up.
+
+The burning mass hit where she had been a split second later, splattering across the sand and spreading into that horrible, bubbling fire, and Chloe wrinkled her nose mid-flight as she glanced down at it for half a second. Yeah, no, still hate that.
+
+The scorpion didn’t let up, and almost immediately another laser was fired at her. Chloe twisted sharply to the side, the beam grazing past her shoulder before she rolled midair and dipped lower, only for a second beam to slice across her path and force her back up again.
+
+To make things worse, a scorpiod lunged at her from below, pincers snapping upward in an attempt to catch her off guard, but Chloe just angled her body slightly to dodge, then kicked off the air itself to redirect her momentum. Another one came from the side, tail flicking forward, and Chloe twisted again, slipping between its attack and the incoming line of another laser. Honestly, this was all getting kind of ridiculous.
+
+“Okay, okay, I get it,” she huffed, spinning once to avoid another shot before flying higher.
+
+Once she was as high as she could be, she pulled her leg back slightly as energy began to gather up for her super duper attack. Electricity snapped to life around her, racing across her body, crackling louder with each passing second, wrapping around her arms, her torso, and wings.
+
+The big scorpion noticed Chloe charging her attack of course, and its tail snapped upward and locked onto her position. She saw the glow build at the tip, the telltale signs for another laser, and for a split second she just hovered there, fully charged with lightning and absolutely not in the mood to dodge. She really wanted to finish this fight, and she was going to finish charging up her attack in order to do so.
+
+The instant the laser fired, she used her Wraith Form. The beam tore through her, or, well, through where she was supposed to be.
+
+From her perspective, it felt wrong in that strange, floaty way Wraith Form always did, like the world had turned slightly out of sync with her, the laser passing through her body in a blinding streak of light without actually touching anything real. It still felt intense, though, like standing inside something that shouldn’t be allowed to exist that close to her.
+
+However, Chloe still tried her best to focus and keep her Wraith Form up, because this time, it wasn’t easy. Keeping her body phased out while also holding all that lightning around her was… yeah, not great. The strain hit fast, a creeping exhaustion that dug in deeper with every second.
+
+“C’mon… c’mon…” she muttered to herself, forcing herself to hold on just a little longer.
+
+The laser kept going, dragging on for what felt way longer than it had any right to, and Chloe could feel her control slipping, the edges of her form flickering slightly as the pressure built. For a moment, it almost broke her concentration entirely—
+
+But just as Chloe was about to give up, the beam cut off. She dropped out of Wraith Form immediately, snapping back into full presence. And almost by instinct, she knew she had to make her move immediately.
+
+Pulling her body forward, Chloe tipped into a dive, fast and direct, dropping from the air like she was trying out her best impression of a very aggressive bird of prey. The wind rushed past her as she angled straight for the scorpion’s head.
+
+Now, she was not about to lead with her face. She liked her face a lot, since it was part of her head which had a lot of very important stuff.
+
+So instead, she pulled one arm back and flattened her hand, fingers tight together in a sharp, cutting shape as she focused the lightning around her. The energy condensed rapidly along her arm and into her hand, gathering at her fingertips until it was completely concentrated, the crackling arcs sharpening into a very stabby, very angry point. Okay, let’s see you block this!
+
+The scorpion tried to guard, but Chloe was too fast. She cut through the air in a straight line, lightning screaming around her as she drove her hand forward and slammed it straight into the scorpion’s head.
+
+There was a split second where her hand met resistance, like the scorpion’s armor was trying very hard to pretend it could still hold, before it finally gave way with a sharp crack. Chloe’s hand punched through the surface, and the moment it did, all that built-up lightning surged straight into the creature’s head.
+
+A violent burst of energy tore outward from the point of impact, bright light flashing so intensely it swallowed the scorpion’s entire upper body for a moment. Lightning ripped through it in wild, branching arcs, racing across every segment of its body, snapping along its legs, its claws, and its tail. The sound followed a fraction later, a massive crack of thunder that echoed across the area, loud enough that even Chloe felt it in her bones.
+
+Unfortunately for Chloe, her attack was so strong that the recoil was also crazy. She was thrown back instantly, ripped away from the impact as the explosion pushed her off with way more force than she had planned for, her body spinning wildly through the air. Before she even realized it, she hit the ground face first, and quite hard at that.
+
+Sand exploded around her on impact, and Chloe ended up stuck there for a second with her head buried straight into the ground and the rest of her body angled upward in a way that was probably not her best look. Her legs twitched slightly, her wings flopped awkwardly behind her, and she just stayed like that for a while. It was a good thing she didn’t need to breathe. Because otherwise, this would’ve been a problem.
+
+After a second, Chloe wriggled a bit and yanked her head free from the sand with a soft pop, grains sliding off her face as she blinked a few times and shook her head. She spat out a bit of sand and pushed herself up onto her hands and knees, looking around with slightly dazed eyes as she tried to pull herself together.
+
+Once she managed to feel a bit better, looked towards the scorpion immediately, of course it wasn't dead. She knew it before she even fully looked, because there was no notification of a kill after her attack. And sure enough, when her vision settled properly, the thing was still there, but it did not look good.
+
+The once smooth white-and-gold plating around its head was shattered in several places. Parts of it had caved in slightly where her strike landed, and scorch marks ran along its body where the lightning had torn through, leaving thin glowing lines that slowly faded. One of its legs twitched unevenly, like it wasn’t moving quite right anymore, and its tail now wavered slightly in the air.
+
+Well, that was definitely her cue to finish this, and Chloe wasted no time pushing herself back into the air. She angled her body like she was about to go for the same lightning-charged dive again, because honestly, it had worked great the first time.
+
+But then she slowed slightly midair, her expression shifting as a thought finally caught up to her, and she tilted her head while looking down at the scorpion’s battered form. It was already in pretty bad shape, and  it definitely didn’t look like it could take another hit like before without just collapsing. That made her hesitate, because if it was already that weakened, then maybe she didn’t need to go straight for the head this time around.
+
+Maybe she could just hit it somewhere else, finish it off from a different angle so that she could preserve the scorpion's head, meaning eventually she'd get to eat its brain. Although, another thought then popped up in her mind.
+
+Do scorpions even have brains like… actual brains, or is it gonna be some weird gloop? Eh, whatever, I’ll figure it out after it’s dead.
+
+With that decision made, Chloe lifted her right hand as she started pulling lightning into it again. This time, she didn’t compress it into a small, sharp point like before, and instead let the energy spread across her entire hand.
+
+The energy extended past her fingertips. It sharpened along the edges, the crackling noise becoming tighter and more focused as the lightning took on a blade-like form. It looked like her hand had grown a weapon made of pure lightning. A very loud, very angry one.
+
+Chloe turned her wrist slightly, watching the way sparks snapped off the edges and disappeared into the air, her grin widening as she admired it for a second like she’d just invented something very cool, which, in her opinion, she absolutely had.
+
+She then flew off, the lightning blade along her arm screaming as it cut through the wind. The scorpion reacted almost immediately, its tail jerking upward with that glowing stinger aimed right at her.
+
+Yeah, no, that thing goes first. Chloe thought, already adjusting her angle mid-flight.
+
+She twisted slightly and dipped just under a half-formed laser, then surged upward in the same motion. The stinger snapped toward her, but Chloe managed to swing her arm in one clean, horizontal arc.
+
+There was a sharp, slicing crack as her hand tore straight through the stinger. For a split second, the two halves stayed connected, and then the top portion slid off and dropped, hitting the sand below with a heavy thud. Chloe just kept going after that.
+
+The scorpion recoiled hard as the severed tail twitched wildly, and its claws snapped upward in a sudden attempt to catch her, but Chloe weaved between the strikes easily.
+
+She dove lower this time. One of the scorpion’s front legs slammed into the ground where she had just been, sand exploding upward, but Chloe slipped past it and used her lightning clad hand to carve through the leg at the joint. The cut wasn’t as clean as the tail, but it was good enough, and the limb buckled instantly, the scorpion’s weight shifting unevenly as it tried to compensate.
+
+One particularly annoying scorpiod tried to jump her from the side, because apparently they still existed, and Chloe didn’t even look at it as she flicked her blade outward. The lightning edge clipped it mid-air, slicing clean through its torso as it fell apart in two uneven halves, both pieces hitting the sand uselessly. Maybe next time, buddy.
+
+She darted around it and sliced through another leg, then another, her lightning blade carving bright, glowing cuts as the scorpion’s movements grew more unstable. Its massive body began to tilt as more of its support gave out.
+
+Chloe shot upward briefly, then angled straight down again, aiming directly for its main body this time. The claws moved to intercept, but they were slower now, just enough for her to slip between them as she closed in.
+
+“Hey, remember me?” she said cheerfully.
+
+She drove her arm forward. The lightning blade plunged into its body with a violent crack, punching through the weakened armor and sinking deep as energy surged in behind it. She didn’t stop there, either. She ripped it free and struck again, then again, each stab sending another burst of electricity tearing through the scorpion’s insides.
+
+The creature convulsed. Its legs twitched, its claws snapped uselessly at the air, and the remaining segments of its tail jerked wildly as the lightning spread through it in uncontrollable waves. Cracks widened across its body, glowing faintly as the damage built faster than it could handle.
+
+Chloe pulled back one last time and hovered right in front of it, her arm still crackling with leftover energy as she watched for any kind of reaction. The scorpion didn’t move for a while, like it hadn’t quite caught up to what had just happened, and then its body finally gave out. It shuddered before collapsing, legs buckling all at once as it slammed into the sand.
+
+She stayed in the air for a moment longer, staring at it like she was waiting for it to get back up just to be annoying, and when it didn’t, she finally drifted down and landed lightly on the sand. The last bits of lightning around her hand fizzled out as she relaxed her right arm.
+
+[You have killed: Solarian Devastator (Level 82)]
+
+[Experience Awarded]

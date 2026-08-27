@@ -1,0 +1,63 @@
+---
+id: 0b0cb990-887d-535a-ac42-763b53841b62
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1360 - Get Our Act Together"
+slug: 0007-chapter-1360-get-our-act-together
+partOf: chrysalis
+position: 7
+ownLength: 1055
+unit: words
+ownProgress: 1055
+publishedAt: 2024-06-24
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1690819/chapter-1360-get-our-act-together"
+royalRoadId: "1690819"
+markedReadAt: "2026-06-29T19:43:52.644Z"
+---
+
+Many members of the Council remain in the chamber to discuss the various issues plaguing the Colony across all the levels of our development. I remain among them for a while, just listening in and catching up on the issues beyond the range of my Vestibule. It would be nice if the organ had such tremendous range it would reach all the way to the surface. If that were possible, I’d know what was happening at every level of the family, even in the nesting chambers all the way up in the first.
+
+I mean, it would be terrifying to be exposed to that much Will, from that many individuals, but on the other hand, I like to know what’s going on around the place. From the conversations happening around me, I learn about things happening in Renewal, which is apparently getting much larger as even other communities who managed to hide and survive the assault of Garralosh hear about the thriving city and move in.
+
+As the territory expands, we run across more mineral deposits rich with mana, or wood which has absorbed different attributes. With the influx of raw resources, processing has also had to be expanded, along with research to work out what can be done with the stuff.
+
+This organisational chatter brings in Tungstant and Cobalt who want to talk about what they’ve learnt from examining the materials they purchased from the various markets around the fourth. Smithant is apparently losing her mind, sealing herself into the forges and testing everything she can in every way she can. I shouldn’t be surprised, an opportunity like this isn’t going to come around too often and she’s completely obsessed with her craft. I’m sure she’ll have a ton of new ideas after she gets more time to research. Now that Tiny has finished his evolution, a new set of armour for him would be amazing, and he’d get a ton of use out of it. It’s not like he’ll be evolving again any time soon.
+
+Victoriant and Antionette are discussing potential nest expansions into the third with Sloan and Advant. Apparently, it’s been too difficult to guarantee security up there, so the only nest producing brood is the massive one built underneath Roklu. The Colony has captured almost a dozen pillars since then, and nests are being constructed under each. According to Advant, things are looking much safer in the third now than they were. The demons within our land are settling down, going back to their normal behaviour, which is admittedly pretty chaotic. Which is weird, since the rest of the stratum appears to be having massive issues still. I might need to talk to Al about it, which I can do through the Nave at any point, I suppose.
+
+Ahh, it’s nice to hear about the family.
+
+As much as I want to luxuriate here in the warm and fuzzy feelings the family brings out in me, it’s time to get off my surprisingly comfortable chair and go out to make a difference. It’s not enough just to hear about the family, it’s also necessary to work for them and carve out a better future from this punishing world! Hah, as if the Dungeon has anything that can go up against this Colony.
+
+Levering myself up, I exit the chamber as quietly as I can so I don’t disturb the others, but I admit it’s probably a fruitless effort. Outside the room, I find my three friends waiting patiently. Well, I find Crinis and Invidia waiting patiently, Tiny is asleep.
+
+Well, if I’m honest, Crinis was probably spying on me through the shadows, so at least Invidia was waiting.
+
+[Alright, you three, it’s time to get up and get going! We’ve got a lot to do! Wake up, Tiny!]
+
+The big ape stirs and blinks a few times, his bat ears twitching this way and that.
+
+[We’re going to go fighting.]
+
+BAM! His eyes spring open in an instant and his body flares with electricity, sending it crackling along the walls. Up he springs, rolling his shoulders and cracking his enormous knuckles, jumping on the spot he’s so excited to get going.
+
+[That’s right, big guy. We’re going into the fifth stratum! A whole new place, filled with brand new monsters! Isn’t that exciting!]
+
+[Yes,] he affirms, grinning wide. [Can’t wait to punch!]
+
+Crinis is less enthused.
+
+[Is that wise, Master? It’s very dangerous down there. I’ve heard all about how… disgusting and filthy that place is. You will be fouled by the creatures that live there.]
+
+[My plans are a little more ambitious this time, Crinis. I don’t want to just go there. I don't want to just make it through to the sixth. I want to cleanse the place entirely. Let’s walk and talk.]
+
+I lead the way while Crinis latches onto my carapace, before surprising me and fading straight into my shadow. Tiny stomps along behind me since we can’t walk side by side in these tunnels. The two of us are rather huge at this point. Invidia latches onto the ape’s shoulder, flapping his wings every now and again to maintain equilibrium. In this fashion, I lead us back down into the depths of the nest, explaining on the way.
+
+[The fifth wasn’t always the way it is now. I’ve never spoken to anyone who knows what it was before, but everyone agrees it was corrupted at some point. Something managed to convert an entire stratum into a toxic sludge wasteland, so it stands to reason that we should be able to turn it back. If we can figure out what was done to the place, we can reverse it. Make sense?]
+
+[It will be difficult. We don’t knowsssss what wasss done. Nobody knowssss what wasss done.]
+
+[You are not wrong, Invidia. No-one else has figured it out, even after several thousand years. However, I have a reason to believe that we will be successful where everyone else has failed.]
+
+[And what is that, Master?]
+
+[We’re monsters,] I laugh. [There’s nothing more adaptable, or more able to endure mana, than we are. There’s never been a unified, organised and driven society of monsters like us in the history of the Dungeon. We are going to do things that nobody ever believed were possible, just wait and see.]

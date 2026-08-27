@@ -1,0 +1,115 @@
+---
+id: a30d2d16-6855-5d1e-8855-6aa03c573f11
+page-type-slug: story-chapter-royal-road
+title: "160: Black Heart"
+slug: 0160-160-black-heart
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 160
+ownLength: 2048
+unit: words
+publishedAt: 2026-06-03
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3487811/160-black-heart"
+royalRoadId: "3487811"
+---
+
+Welp, now that Chloe actually thought about it, the whole reason she was even down here fighting this dragon in the first place was because she needed the dragon’s heart. Except now the dragon didn’t exactly have a heart anymore.
+
+Chloe squinted down at the massive black crystal glowing inside the creature’s ribcage, watching it pulse, and honestly? She really hoped that thing counted, because otherwise this was going to get super awkward really fast. Like, imagine going through all this trouble only to come back and be told, “Sorry Chloe, that horrifying evil crystal technically does not qualify as a heart.” She would actually lose her mind.
+
+Still, that sounded like a problem for Future Chloe, and Future Chloe could deal with it later because Present Chloe currently had a giant skeletal dragon screaming at her while an undead army crawled out of the floor.
+
+“I will handle the lesser enemies,” Z said, already turning toward the skeletons gathering across the floor. “Focus on the dragon.”
+
+“Okie dokie,” Chloe said, giving Z a quick thumbs up before both of them split apart midair.
+
+Golden sparks were already beginning to flicker around Z as she descended toward the mass of undead soldiers, while Chloe shot off in the opposite direction straight toward the massive two-headed skeletal dragon. The creature somehow looked even bigger now that she was facing it alone, its bony body twisting through the air as both skull-like heads slowly turned toward her at the same time.
+
+“Oh, you’re still mad about getting cut in half, huh?” Chloe called out, grinning.
+
+Both of the dragon's heads opened wide as darkness began gathering deep inside their throats. Thick black fire swirled together slowly at first, then faster and faster as the glow intensified.
+
+Chloe’s grin twitched slightly as she saw it building up. She’d played enough games to know exactly when a big boss is charging up their attack. Oh, yep, there it is.
+
+The instant the dragon fired, twin streams of black flame exploded toward her, roaring through the chamber loud enough to shake the walls. Chloe twisted sharply to the side, barely slipping past the attack before the flames tore through the space she’d occupied a second earlier.
+
+The heat brushed against her side as the dark fire rushed past, making her flinch. Still, instead of panicking too much, Chloe just laughed as she spun through the air. “Too slow!”
+
+She thrust one hand forward as magic surged through her body, bright energy crackling violently across her fingers before exploding outward in a massive arc of lightning. The blast tore across the chamber with a deafening crack and slammed directly into the dragon’s chest.
+
+The dragon reeled slightly under the barrage, both heads roaring as the attacks pushed it backward through the air. Chloe thought that maybe her lightning would do the trick, but then the dragon pushed back. The black crystal in its chest flared, and suddenly the lightning stopped forcing it backward. One head snapped toward her while the other twisted away, and before Chloe could fully react, something slammed into her from the side.
+
+“Gah—!”
+
+Her concentration broke instantly as she tumbled through the air while something clawed and snapped at her shoulder. Chloe twisted midair, finally getting a look at it. A skeletal gargoyle. Its bony claws dug at her as its wings beat wildly, and Chloe immediately made the most offended face possible. “Ew, get off me!”
+
+Before Chloe could blast the thing away herself, something suddenly burst out from beneath her cloak. Dark red shadowy arms shot outward from Cloaky as they grabbed the skeletal gargoyle midair and hurled it away. The creature spun wildly through the air before smashing into a distant wall.
+
+“Aww, thanks Cloaky,” Chloe said. “Knew you’d always have my back.”
+
+Almost proudly, more shadowy arms stretched out from beneath the red cloak, reaching toward the ground below just as Chloe continued falling. The massive hands slammed against the stone floor with enough force to shake the area slightly, but instead of letting her crash, they bent and compressed beneath her like some weird giant shadow trampoline. Chloe bounced off them with a startled yelp, shooting back upward a short distance before flailing slightly midair.
+
+“Wheee!” she laughed, her wings quickly spreading again as she steadied herself above the ground.
+
+The shadowy hands slipped back beneath Cloaky after catching her, disappearing into the folds of the red fabric like they’d never existed at all. Chloe barely had time to grin before she flapped her wings hard and launched herself back into the air, shooting upward toward the ceiling while the battle below exploded into complete chaos. Wind rushed violently past her face until she was nearly level with the ceiling.
+
+Then she flipped upside down midair, laughing a little as she hung there beneath the ceiling with her wings spread wide. Before focusing on the dragon again, Chloe quickly looked around for Z to see how she was doing.
+
+And well, Z was absolutely destroying everything. Golden divine energy flashed across the battlefield below as skeletal soldiers were blasted apart one after another, holy lightning tearing through groups of undead at a time. One poor skeletal mage got hit so hard it practically evaporated on the spot, while nearby archers were launched backward as arcs of divine lightning chained between them.
+
+And then Chloe saw Z absolutely combo one unlucky undead knight. The armored skeleton rushed her with its sword raised, only for Z to calmly sidestep it before driving a kick straight into its side hard enough to spin the thing around. Before it could recover, she hit it again with another strike, then finished by slamming a glowing hand directly into its chest.
+
+Golden lightning exploded outward instantly, and the knight detonated into flying bones.
+
+“Whew, go Z!” Chloe yelled from above. Z didn't really react though, as she was still busy fighting.
+
+So for now, Chloe focused back at the dragon as she finally looked at it. Unfortunately, the dragon looked right back at her.
+
+The black crystal embedded deep inside its ribcage pulsed once, and suddenly the ceiling around Chloe cracked apart with loud snapping sounds. Thin fractures raced across the stone before entire sections burst open, and hordes of skeletal gargoyles began clawing their way out from inside the ceiling itself.
+
+Dozens of them unfolded from the darkness like giant dead bats, all jagged bones and torn wings, their glowing eyes immediately locking onto Chloe the moment they emerged. Oh, come on, MORE of you guys?!
+
+Chloe yelped and immediately flew backward, twisting sharply through the air as claws snapped inches away from her face. Instead of retreating though, she suddenly dove lower, angling herself straight toward the dragon. Lightning crackled around one hand while flames burst to life around the other, until they formed into swords of fire and lightning respectively.
+
+In Chloe’s head, this was supposed to be the cool part. She’d fly past the dragon, slash through it with her flaming lightning sword, and then there’d probably be a dramatic pause before the whole thing exploded behind her while she looked all awesome and mysterious. It would totally look just the way she saw countless times in various shows and cartoons. It was going to be so awesome. Unfortunately, reality immediately ruined everything.
+
+The moment Chloe got close enough to strike, one of the dragon’s massive heads suddenly snapped toward her way faster than she expected. Its jaws slammed shut around her before she could dodge, its teeth crushing around her body as the dragon immediately started thrashing its head violently back and forth.
+
+Chloe didn’t feel pain, but that didn’t make the experience much better. Her entire body whipped through the air so fast it made the whole world blur together, and within seconds she was completely dizzy.
+
+The chamber spun around her as the dragon shook her around like some kind of chew toy. Obviously, she wasn't just going to take this kind of beating without fighting back, although that was kinda rough since her head was starting to feel fuzzy.
+
+So, Chloe decided that she'd call in the cavalry, figuratively speaking. “Cloaky, HELP!”
+
+Shadowy arms burst outward from beneath Cloaky, surging toward the dragon’s skull. The hands slammed against the creature’s jaws and forced them apart through sheer brute force, prying the dragon’s mouth open wide enough for Chloe to tear herself free.
+
+She stumbled through the air, wings flaring unevenly as she tried to stabilize herself again. But the good news was that while she was recovering, the holes left behind by the dragon’s teeth were already closing.
+
+Anyway, now that she wasn’t currently inside a dragon’s mouth anymore, Chloe snapped her attention back toward the monster. The remaining head roared furiously at her, black energy flickering deep inside its throat again as it prepared another attack.
+
+Still floating midair, Chloe slowly steadied herself, her wings beating for a second as she locked her gaze straight down the dragon’s open maw. Black fire flickered deep inside its throat, so she closed her eyes tightly for just a moment, focusing as magic surged violently through her body. I can feel it… the power.
+
+Then she opened her eyes again, and it was time. Chloe thrust her hand forward and pushed.
+
+An invisible force exploded outward violently, and the dragon’s skull shattered instantly. Bone exploded apart with a deafening crack as the entire head violently imploded under the pressure. Jagged fragments of bone flew across the chamber like shrapnel while the dragon’s long neck twisted unnaturally from the impact, snapping sideways as dark energy leaked from the destroyed remains.
+
+But despite Chloe's awesomeness, the fight still wasn’t over. The remaining head let out a roar and immediately lunged toward her, massive jaws snapping wildly through the air as it tried to catch her before she could recover. Chloe jerked backward instinctively, but the dragon was still really fast.
+
+Before it could reach her though, Cloaky came in clutch. Dark red shadowy hands burst outward from beneath the cloak, grabbing onto the dragon’s skeletal frame with sharp snapping motions. One hand latched onto the creature’s ribs while another hooked around its spine, and suddenly Chloe was yanked violently through the air. “WHOA!”
+
+The hands swung her around the dragon’s body at insane speed, pulling her through the gaps in its enormous ribcage as jagged bones rushed past her face by inches. Chloe ducked instinctively as one of the dragon’s claws swiped past where her head had been a second earlier, then the shadowy hands flung her lower beneath the creature’s spine.
+
+Its tail whipped toward her immediately. Another shadowy arm grabbed the tail mid-swing and used the momentum to launch Chloe upward instead, sending her spiraling around the dragon’s back while the remaining head snapped furiously, unable to catch her.
+
+Chloe barely kept herself oriented as Cloaky practically dragged her through the fight like some insane rollercoaster ride, weaving her around ribs, wings, and twisting bones until finally the shadowy hands gave one last hard push.
+
+She eventually shot upward through the air and suddenly found herself directly behind the dragon’s remaining head. This was her chance!
+
+Chloe’s grin widened as she channeled magic through her eyes again. The air around her warped as she focused everything she had onto the dragon’s remaining head. Divine Push!
+
+The dragon’s last skull completely exploded apart. Bone shattered instantly in a violent burst like a bomb had gone off inside the creature’s head. The entire neck snapped backward from the impact as the force tore straight through it, scattering chunks of skeletal debris across the area.
+
+For one glorious second, Chloe just hovered there staring at the destruction she’d caused, her eyes wide with pure excitement. She quickly flew upward afterward, putting some distance between herself and the dragon’s collapsing body.
+
+Except, despite losing both heads, the dragon’s body didn’t collapse. Actually, it started to move again pretty quickly.
+
+Its giant wings beat against the air in uneven, jerking motions while the rest of its body twisted violently below, the black crystal buried inside its ribcage pulsing harder than before. Without heads, the thing somehow looked even more unnatural now, like a giant dead puppet still refusing to stop.

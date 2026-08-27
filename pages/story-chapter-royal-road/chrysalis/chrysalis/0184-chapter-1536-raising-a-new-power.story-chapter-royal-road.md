@@ -1,0 +1,89 @@
+---
+id: 056c06fd-3ef7-5956-97bd-0b4b0210e9e6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1536 - Raising A New Power"
+slug: 0184-chapter-1536-raising-a-new-power
+partOf: chrysalis
+position: 184
+ownLength: 1121
+unit: words
+ownProgress: 1121
+publishedAt: 2025-03-25
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2149019/chapter-1536-raising-a-new-power"
+royalRoadId: "2149019"
+markedReadAt: "2026-06-29T19:49:43.177Z"
+---
+
+The Chal, a mythical race of unique creatures, the first to achieve stability and peace in the era following the Rending. Now, thousands of years after their fall, who can say what they were like, how they lived, their thoughts and philosophies?
+
+What would they make of the world that was created in their absence?
+
+-           Excerpt from ‘The Lost People’ by Xinci
+
+“We are grateful you were able to come, Theresant. I know it’s not easy for you to leave the Broodchambers.”
+
+“It’s alright. Florence is still there to care for the little ones. You were right to call me.”
+
+“We’ve been doing our best to care for the hatchlings, but we really wanted your insight and advice.”
+
+Theresant had only arrived in the fortress an hour ago, but she had no time to rest. She and her fellow Brood Tender were busy scuttling towards the chambers dedicated to caring for the baby snails. Perhaps it was their instinct to care for young things, but once she’d heard they needed her down here, the Council member hadn’t eaten or rested in her quest to arrive as soon as possible.
+
+“What will be your approach?” her sister asked her. “Do you want to observe the hatchlings from afar, or do you wish to interact with them?”
+
+“I will take feedback from the care team and interact with them directly, to gain experience as quickly as I can. This early development phase is the most important, as well you know. We can’t afford to make mistakes, and we have to learn fast. As soon as we arrive, I want you to gather as many of our sisters as you can so I can talk with them.”
+
+“I will do as you say.”
+
+When they arrived, Theresant was treated to a brief meal and cup of tea while the off-duty Brood Tenders were assembled for her to speak with. As she rested, she did her best to clear her thoughts of any preconceived notions.
+
+Over the time since she had been born, the Brood Tenders had honed themselves into an elite hatchling-rearing force. Every aspect of care had been tested, investigated, measured and weighed a million times over. The diet, the temperature, the humidity, the cleanliness, the perfect blend of auras, the teaching methods, everything was pushed to the limits to create the best possible environment for the hatchlings. After all, the hatchlings were the future of the Colony! Not a single individual in the family would begrudge any effort to better rear the youth.
+
+And now, all of that expertise needed to be thrown out. The chal were snails, not insects, nor were they monsters, but naturally born sapient creatures. There would be many differences between them and the ant hatchlings she had devoted her life to rearing.
+
+Leave no stone unturned! Examine the problem from every angle! If these young creatures would be in the care of the Colony, then they would get the best upbringing the Colony could muster! Anything less would shame the Queens.
+
+When the Brood Tenders were gathered, Theresant wasted no time launching her interrogation, trying to squeeze every drop of insight from them. For their part, the Tenders were forthcoming and understanding, presenting their thoughts in a detailed and easy-to-understand way.
+
+“They seem excessively polite for such young hatchlings,” one stated, to the others’ agreement. “Whenever two of them come face to face, they bow to each other before moving past. When it was time for them to eat, they refused to eat from the same bowl. Instead, they would eat one at a time, waiting until the snail in front of them had finished before starting. We switched to individual servings and that works much better.”
+
+“What are we feeding them?” Theresant asked sharply. “Are we varying the food? Times of feeding?”
+
+“Yes. We’ve been using a variety of fruits, leafy plants, ground seeds and nuts, all cooked and uncooked.”
+
+“Have we offered them meat?”
+
+“Not yet.”
+
+“Hmmm.”
+
+From what she understood, normal molluscs were vegetarian, but who knew with the chal? Clearly, they weren’t carnivores, but a balanced diet could be possible.
+
+“We can offer a sliver of fish, perhaps, see if it takes their interest…” she mused.
+
+“We must be careful of allergies,” one of the Tenders warned her.
+
+“Of course, of course. What else can you tell me of their behaviour?”
+
+“They appear to enjoy spending time in each other’s company. They gather together often, and sleep in groups, but also tend to take time alone frequently.”
+
+“That’s interesting, what do they do on their own?” Theresant asked.
+
+“They are usually still, sometimes swaying back and forth a little, sometimes withdrawing most of the way into their shells. We aren’t sure exactly what they are doing, but they seem to enjoy it.”
+
+As the conversation rolled on, Theresant built a picture of how the snails were choosing to spend their time. Her sisters were constantly making small adjustments to their enclosure, trying to see what sort of environment or surfaces enticed them the most, and trying to encourage healthy mental and physical stimulation in the growing molluscs.
+
+“I will see them now,” Theresant declared. “Take me to their chamber.”
+
+Of course, she wasn’t allowed into the room without a thorough cleansing to ensure no outside contamination was able to enter the controlled atmosphere within the chals’ rooms. Once that was done, she entered the space as quietly and softly as she could, all of her senses on high alert.
+
+The Brood Tenders had gone out of their way to try and create a comfortable environment for the young chal. Leafy, shady sections were vibrant with living plants, soft soil, and gently running water only a few centimetres deep, creating a warm and green space, but that wasn’t the whole room. Other sections were dryer, with more sandy soils and sparse plants, while others contained more decaying vegetation and logs. All of these blended together, transitioning smoothly from one to the next, with small play areas, slides, coloured balls and toys scattered artfully throughout the room.
+
+It was a peaceful, relaxing space, conducive to learning and growing, which was good. Her sisters had not been lax in their efforts.
+
+And then, she saw her first chal.
+
+The little snail emerged from beneath a wide, heavy leaf, eyes atop its little stalks waving curiously as it slid this way and that. When it seemed to realise something, or someone, was in front of it, the chal raised up its body and bowed, pausing for a moment before returning to the ground and slithering around her.
+
+Curious behaviour, but something else stuck in her mind.
+
+When was the last time they had cleaned their moustaches?!

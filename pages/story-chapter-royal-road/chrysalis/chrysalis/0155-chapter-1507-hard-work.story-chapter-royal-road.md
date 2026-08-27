@@ -1,0 +1,67 @@
+---
+id: 4b92c581-af88-5c11-84de-f86317a77dfb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1507 - Hard Work"
+slug: 0155-chapter-1507-hard-work
+partOf: chrysalis
+position: 155
+ownLength: 1080
+unit: words
+ownProgress: 1080
+publishedAt: 2025-02-12
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2061801/chapter-1507-hard-work"
+royalRoadId: "2061801"
+markedReadAt: "2026-06-29T19:48:48.384Z"
+---
+
+I’ve said it before, and I’ll say it again, even the most basic spell forms in this world are hard work, masterpieces that require thousands of individual strokes of the brush to get right. In some ways, the gravity bomb is the simplest of all my spells, since all I have to do is shove a bunch of mana into a small space and squish it, but what it lacks in complexity, it makes up for with the sheer effort required.
+
+This new spell is like doing both at the same time. I have to paint an incomparable masterpiece, while simultaneously straining my brains to the point of bursting.
+
+Which is a nice twist. Thanks, Gandalf.
+
+The spell form is an ungodly thing, requiring such absurd precision, control and focus that it even puts the Omni-Elemental Construct to shame. My sub-brains have spent every spare moment puzzling, testing and working on mastering this spell, and to be honest, I’m only fully confident with about half of it.
+
+At least I’ve been able to work out in a vague sort of way what the spell should do. I didn’t know what to expect from a new gravity spell, given that I have a limited understanding of how it works. It pulls stuff in, right? The Gravity Well already lets me do that in pretty much every way that matters. I can pull stuff into the well, I can even reverse it and push stuff away from the well. What else is there to do?
+
+Something, apparently. All I’ve been able to figure out is that the spell should send some sort of force blasting in a forwards direction, like I’m shooting something from an elaborate magic cannon.
+
+So… great!
+
+The roar reverberates again, stunningly loud. The monster isn’t in sight, but I can sense it now; the powerful mana it contains is lighting up the edges of my senses like a beacon. This bad boy is definitely tier seven. A strong tier seven too. Can’t have been hiding too far from the fortress either, if it’s here already.
+
+Well, better start putting this damn thing together. My brains start to spin into high gear as I let the Omni-Elemental construct fade to nothing. I can’t afford to have anything else taking up my mental resources while I work on this thing.
+
+With a flourish that would make Michaelangelant proud, I start funnelling a mighty river of Gravity mana, pulling it out of me and shaping it expertly. Dozens of minds manipulate the mana, condensing it, folding it, twisting and curving and looping, forming the thousands upon thousands of intricate shapes that need to fit together just so for the lousy thing to work.
+
+The framework gradually takes shape as I squeeze out more and more mana. It’s a thirsty beast, this spell. I’ll have to spend pretty much every drop of gravity mana I have in me to cast it a single time.
+
+In terms of shape, it’s kind of like a vertical loop, with two horizontal loops linked together meeting in the middle of the first one. However, inside each of those three loops in an absurd amount of dense detail. Spiraling coils that twist in and around themselves like those infinite shapes are everywhere, making the internal structure of the spell like an Escher painting after a dozen cups of strong coffee.
+
+Working on it is quite literally brain-melting, and I quickly burn through the parts I’m comfortable with and into far less familiar territory. At this point, the strain doubles, since I have to hold the entire thing together while I stop, start, add sections, find they don’t fit right, unpick them and do it over again.
+
+Meanwhile, our approaching friend makes their presence known. As suspected, it certainly is a big chap. It’s a snail, which is fairly standard, given what we’ve seen so far in this stratum, but it quickly differentiates itself.
+
+For one, it’s massive. Easily larger than me, the snail towers over the other monsters nearby, a testament to its large spend in Might. Unusual for a snail, it has an enormous maw, with hideous, spongy-looking teeth that undulate inside its perpetually open mouth. Even worse is its tongue. Every now and again, the beast shoots the thing out and latches onto a nearby monster, giving me a good look at it. It looks like it’s ninety percent sawblade as opposed to tongue, with thousands of ugly, razor-sharp-looking teeth covering the surface. Yikes.
+
+The shell is a towering thing, and from the centre on either side extends a gelatinous arm that smokes from its sheer toxicity.
+
+I do not want to get up close and personal with this thing. And, thankfully, I shouldn’t have to, if this all works out.
+
+My main mind is deeply involved in the process now, since it’s better at handling Gravity Mana than the constructs are, thanks to its mutations. More and more mana is dredged up to feed this beast as every one of my minds is put to the task of piecing it together.
+
+The moment the big snail sees us, and the cleansed mana, a predictable thing happens. It opens its mouth absurdly wide, gets a mad look in its eyes and starts charging straight at us. Surprisingly quickly for a snail, I might add.
+
+Hurrying up my work, I realise that the spell is nearly complete. Above each of the two horizontal loops now sits a hollow sphere, and if I’m understanding my own thoughts right, I’m supposed to fill them with an absurd amount of condensed gravity mana….
+
+But… if I do that… they’ll become gravity bombs…. Right?
+
+Suddenly, I have a bad feeling about all this.
+
+While some of my brains continue to pick over the rest of the spell, I dedicate the bulk of my focus to emptying out the remaining power I contain within myself, splitting it in half and directing each of the flows into a separate sphere. Once there, more minds take hold of the mana and begin to crush it down, compressing it into that deep, dark purple energy I know so well.
+
+It doesn’t take long for the spell to become visible, not just to me but to everyone. Two dark spheres begin to form above me, one on my left, and the other to my right. With each passing moment, the two spheres grow larger and darker.
+
+The ants and militia move further away.
+
+Ah, nards.

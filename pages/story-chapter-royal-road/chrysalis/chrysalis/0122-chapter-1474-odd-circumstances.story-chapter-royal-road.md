@@ -1,0 +1,89 @@
+---
+id: 526f2271-0b36-5906-960e-e18c60ab1db1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1474 - Odd Circumstances"
+slug: 0122-chapter-1474-odd-circumstances
+partOf: chrysalis
+position: 122
+ownLength: 1107
+unit: words
+ownProgress: 1107
+publishedAt: 2024-12-13
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1953782/chapter-1474-odd-circumstances"
+royalRoadId: "1953782"
+markedReadAt: "2026-06-29T19:47:58.561Z"
+---
+
+To say this wasn’t how Goszi had assumed his day was going to end would be something of an understatement. He’d been pushed to the edge by Zluth, and his tactics had worked out remarkably well, but to fall into the soft, fleshy hands of the enemy in the process of escaping had not been part of the plan.
+
+He tried to look as harmless as possible as the massive ant deposited him uncomfortably close to the wall of blue mana that would melt him in a matter of moments. Just an old, grey slug, no threat to anyone. While he maintained the facade, he studied his enemies. None of the scouts had ever been this close before, but there wasn’t much that he could make out that they hadn’t seen already.
+
+The ants formed the bulk of the frontlines, various members of the other races mixed amongst them, including robed figures who moved between them all, shouting randomly. Goszi still wasn’t sure how things were going to play out. Would the invaders actually keep him alive? Would they destroy him once they had the information they wanted? How could he play this to avoid getting himself splatted?
+
+One thing was for sure, his life amongst the tribes was well and truly over. A Krath who had voluntarily surrendered was as big of a traitor as it was possible to conceive. If he ever met a Krath who knew what he’d done, then he’d be killed on the spot. Which meant, for now, he needed whoever was in charge of this invasion to keep him alive, and for that, he would have to offer something they wanted. The first step: finding out what that was.
+
+So he tried his best to be patient as he observed everything that went on around him. A Krath didn’t get to his advanced age without being patient, after all. He would wait for the right moment.
+
+[Are you really trying to make yourself look harmless?] the giant ant asked, walking over and prodding him with one of its long, stalk-like appendages.
+
+This monster was… not like Goszi had anticipated. For one, it was super annoying.
+
+[Go away,] Goszi grumbled, [I’m trying to think.]
+
+[So? You Krath have been a pain in my thorax for ages, I think you can tolerate a little prodding.]
+
+Which he was forced to do, as the ant kept poking him. Why in the Decaying World had the creators of these ants made them this intelligent? He could understand it to a degree, slaves that were capable of solving problems themselves were useful, but generally created more issues than they solved.
+
+[Are you sure your masters want you to treat me like this?] Goszi snarled, batting away the appendage with his arms. [Leave me be!]
+
+The ant cocked its head for a moment, then kept prodding him.
+
+[I’m pretty sure my masters will be fine with it.]
+
+[How can you be sure?] Goszi hissed. [Perhaps you will be punished for this.]
+
+[I get a steady feed of instructions from my masters. They seem to be encouraging me, if anything.]
+
+That was possibly useful information. Critical information, even. The ants received a constant stream of directions? How was it being communicated? Perhaps whoever was behind this invasion had created a hive mind with which to direct their insect slaves. That would make sense, perhaps it was even the best way to do it.
+
+Yes, it was starting to become clear. All he needed to do was discern which information was most critical to the ants. If he strung it out long enough, little pieces here and there, he could extend his stay with these invaders, perhaps even negotiate for better, poke-free treatment.
+
+[How long until I see someone in charge?] Goszi demanded. [Or do you intend to leave me here for days and risk getting your only hostage killed?]
+
+[Geez, you’ve got a big attitude for a little slug. I’m pretty sure someone is coming now. I mean, I’m happy to sit here and prod you for a few days, but I’m fairly sure I’m going to be outvoted on that one.]
+
+[You’ll do whatever you’re told,] Goszi sneered. [I don’t know why I’m bothering to talk to you.]
+
+[Because I keep poking you.]
+
+Bubbling with fury, Goszi ignored the infuriating creature and did his best to focus. He would need to make a good impression, which wouldn’t be easy considering the reputation of his people. Nobody trusted the Krath, and certainly no one held any love for them. He’d be lucky if they didn’t stick him in a box for the rest of his life. If he could show he was willing to work with them, then perhaps things could turn in his favour.
+
+[Ah, here comes someone for you. You wanted the person in charge, so here she is.]
+
+Goszi immediately shrank himself down and attempted to appear as agreeable and harmless as possible. When a new mind connected to his own, he spoke sounding completely unctuous and pitiful.
+
+[This humble slug is named Goszi,] he burbled, [who am I addressing?]
+
+He extended one eye stalk upward to see who he was speaking to and almost spat acid when he realised it was just another ant.
+
+[Bah! Why do you insects insist on annoying me? Bring your masters to me so I can address them directly! I’m sure they want to know what I have to say! Only an incompetent slave would keep me from them!]
+
+[Slave?] the new mind said in a cold and unemotional tone.
+
+[Yeah, this guy seems to have a few wires twisted,] the big ant contributed as Goszi literally sizzled with anger.
+
+[I see,] the new arrival stated.
+
+Much smaller than the large ant, this new insect remained safely within the safe-zone, watching Goszi impassively.
+
+[I’m not sure how to convince you of this, but we, the Colony, initiated this invasion of the fifth stratum. There is no one pulling our strings; we are in control.]
+
+Goszi’s eyes narrowed atop their stalks as his mind whirled. What possible benefit could there be to feeding him such nonsense? Perhaps this was some sort of scheme to confuse him in the event he was a spy planted by his people?
+
+[I… see…] he replied. [So… I will be negotiating with you directly, then?]
+
+How far were they going to take this? Would this ant pretend to have that authority? Or perhaps the real masterminds could negotiate through this ant using the hive mind?
+
+[Yes. You will negotiate with me. Let us begin.]
+
+This was going to be more difficult than Goszi had assumed.

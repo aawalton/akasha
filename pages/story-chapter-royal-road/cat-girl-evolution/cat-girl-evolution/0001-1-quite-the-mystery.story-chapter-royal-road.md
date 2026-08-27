@@ -1,0 +1,211 @@
+---
+id: aab1fe3f-8cc8-5d95-8be4-936babb98245
+page-type-slug: story-chapter-royal-road
+title: "1 - Quite the Mystery"
+slug: 0001-1-quite-the-mystery
+partOf: cat-girl-evolution
+position: 1
+ownLength: 2036
+unit: words
+publishedAt: 2025-08-17
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2525425/1-quite-the-mystery"
+royalRoadId: "2525425"
+---
+
+I am a cat. I didn’t used to be a cat, but now I am. To cut a long story short, I died, and when I woke up, I was in this body with this weird System thing telling me to complete a Quest.
+
+[ Starter Quest: Solve the mystery of the- ]
+
+Shut up.
+
+Anyway, being a cat is actually pretty nice. My owners aren’t very well-off, but the husband is a fisherman by trade, so I have basically an endless supply of fresh food. I was always partial to fish, but now that I’m a cat… Oh man, that stuff is delicious. I could eat it all day. I do eat it all day…
+
+I’m getting fat.
+
+But it doesn’t matter, because I’m a cat. Cats are cute, fat or thin, and the whole village agrees. When my owners stop feeding me for the day, I can just leave the house and find some other kind soul susceptible to my wiles.
+
+[ If you do not complete the Starter Quest, you- ]
+
+Shut up.
+
+Anyway, being a cat is much better than being a person. I don’t have any responsibilities, and I can literally just lay around all day doing nothing and people will still pamper me. It’s like being a princess without any of the societal expectations. I can come and go as I please, I can sleep anywhere I want, and when I get itchy, I can just walk up to anyone and they’ll scratch me. Well, almost anyone. Old Man Jenson just tries to kick me instead.
+
+I should go tear up his shoes again. I was bored anyway, so I might as well.
+
+I stand up and stretch my legs, yawning as I do so.
+
+“Ooh, big stretch!”
+
+It’s one of my owners. The wife, Sally. She’s a pleasant young woman. A bit plump, and an excellent baker. I’m not a huge fan of bread, but I can’t deny how good it smells when she’s working. I leap down from the windowsill and rub against her legs, giving her the honor of scratching behind my ears for a few seconds before I walk toward the door.
+
+“Where are you going?” she asks.
+
+I ignore her and keep walking, slipping out through the door, which is partially open. Most of the people here keep their doors open, and the ones that don’t at least keep them unlocked. One of the benefits of living in a small village, I guess. Everyone knows everyone, so there’s more trust and less room for crime.
+
+It’s also very nice for me because it means I can walk into anyone’s house to get food whenever I want.
+
+Once outside of the owners’ house, I start heading down toward the shore where Old Man Jenson lives. Of course, I don’t go directly there. I take a detour along the Walk of Food, as I like to call it. First, I stop by Ms. Jennie’s place for some milk. She always has a jug or two ready to pour me a bowl when I stop by.
+
+Next, I head down to the market. It’s late afternoon, which is the best time to go, because that’s when they’re packing up and most willing to toss me scraps. Or at least, that’s how it usually is. For some reason, there aren’t many people here today. Just two of the fishermen sitting behind an empty table and chatting.
+
+“Mra!” I say.
+
+That’s cat for “give me food!”
+
+They both look down at me, and the nearest one smiles and leans down to pick me up. It’s Johnny, and he’s one of the most generous fisherman. He sometimes even gives me a whole fish. I let him pick me up, of course.
+
+“Hey, Yona,” he says.
+
+That’s my name. Yona.
+
+“You hungry?” he asks.
+
+“Mra!”
+
+Of course I am!
+
+“Sorry, but we’re all sold out today.”
+
+What? Impossible!
+
+“Pickings have been slim lately,” says the other, reaching out to stroke my back. “The spawn rate has slowed down.”
+
+Nooooo!
+
+“I’ll make sure to save you some next time,” says Johnny. “But for now, you’re outta luck.”
+
+He puts his hand in front of my mouth, and I give it a sniff. Smells like fish. I lick it. Tastes like fish. I bite it.
+
+“Hey!”
+
+Tastes like blood.
+
+“Bad cat!”
+
+Despite his words, he keeps petting me. I enjoy it for a few seconds longer, then jump down. I suppose I’ll let him off easy today. If he’s all sold out again next time though, we’re gonna have a problem.
+
+“Bye, Yona,” says Johnny.
+
+I flick my tail in his direction and continue on my journey down to the shore.
+
+Old Man Jenson’s house is a bit far out from everything else in the village. Most of the village people seem to like it that way. I mean, he’s obviously crazy. Who kicks cats? Plus, he’s been even crazier lately talking about some kind of curse and saying that I brought it and that the whole village is going to die because of me. Ridiculous!
+
+Him living out here does make it hard to sneak up on him though. If he’s not out fishing, he’s usually on his porch, and he can see me coming from far away. Fortunately, it looks like he’s out right now, giving me an open lane.
+
+His door is slightly open, which, despite the rest of the village’s habits, is unusual. He’s a bit paranoid, so he always keeps his door locked. The fact that the door’s open means he’s probably about to leave or something.
+
+I quickly run up and crouch down by his porch, listening. There’s no sound. Is he really not home? Then why did he leave his door open? It’s quite the mystery.
+
+[ Starter Que- ]
+
+Shut up.
+
+I wait a few more seconds to make sure he’s actually not home, instead of just setting a trap for me or something. I wouldn’t put it past him. But there’s no noise. Not even the sound of breathing. I think I’m in the clear.
+
+I creep up to the door and peek my head in. Nothing. His shoes are on the ground by the door though, which is perfect. That’s exactly what I came for. That also means he’s home. Maybe he got drunk and forgot to close the door.
+
+I step inside and creep towards his shoes. I’ll take one, run away, chew it up, and bring it back. That’s the safest option. If I do it here, and he wakes up, then I’ll be in danger.
+
+I grab one in my mouth, but just before I back out, I smell something strange. Familiar. Blood. And it’s coming from his bedroom.
+
+I set the shoe down gently and walk a bit further into the house. The scent of blood intensifies. I enter his room and it fills my nose, almost strong enough to make me dizzy. The window is broken and the floor is covered in dark liquid. Old Man Jenson lies on the bed, unmoving. Dead.
+
+Huh. That’s weird.
+
+I jump up on his nightstand to get a better look. His arms are twisted weirdly and cut up all over, and his neck is twisted and bent like someone–or something– tried to rip it off. It’s not the most gruesome corpse I’ve ever seen, but it’s up there. This can’t be good.
+
+I look around a bit more and notice that his window is propped open. Old Man Jenson never props his window open. I know because I’ve tried to sneak in before and it’s always shut. That’s also weird.
+
+Well, I’m sure someone else will figure out what happened. Murder investigation isn’t my job. I wonder if he has any snacks around. If he’s dead, he can’t stop me.
+
+[ Just do the damn Starter Quest already! ]
+
+Wow. Rude.
+
+[ Don’t you want to unlock the whole System?? ]
+
+What does that do for me?
+
+[ You will be able to get stronger. Evolve. Become more than you are. ]
+
+Why would I want to evolve? My life right now is pretty cozy.
+
+[ You will be able to acquire more food if you evolve ]
+
+Ooh!
+
+[ Yeah! So just do the Starter Quest and you’ll unlock the rest of the System and be able to get more food! ]
+
+How do I do that?
+
+[ Starter Quest: Solve the mystery of the fishing village ]
+
+How do I do that?
+
+[ That’s part of the mystery ]
+
+Too much work. I’m going to look for snacks.
+
+[ No! ]
+
+It doesn’t take long to find Old Man Jenson’s stash of snacks. He’s paranoid, so of course, he has a big stockpile of preserved food. Salted fish and things like that. It’s not the best, but it’s still pretty tasty, and there’s plenty to fill me up. By the time I finish and head back, the sun is setting.
+
+[ Come on, aren’t you curious? ]
+
+Nope.
+
+[ But you’re a cat! ]
+
+Curiosity killed the cat. I’d rather just live my nice peaceful cat life and not die just yet.
+
+[ I promise you won’t die! It will be good for you! But if you don’t do the Starter Quest, you might die! ]
+
+Hmmmm. I’ll think about it.
+
+[ Please just do it! ]
+
+I said I’ll think about it.
+
+And I do think about it. For three days. I generally try to ignore the annoying blue boxes, occasionally telling them off when they get too pushy, and I live in peace. Johnny saves me some fish the next few days, so he is forgiven, but I do overhear him talking about the spawn rates continuing to decrease. That’s not good. That means less fish for me. Even worse is that my sleep hasn’t been as restful lately, since I’ve been keeping an eye on the window, so I’m both almost tired, and almost hungry. Maybe I should actually look into that mystery thing.
+
+[ Yes! Do it! ]
+
+Well now I don’t wanna.
+
+[ Noooo! ]
+
+After I receive my dues from Johnny, I head back to the house and take a nap on the windowsill again. When I wake up, the sun is setting. That means it’s dinner time. I stretch again, but this time, there’s no praise when I do. The wife isn’t here. The house doesn’t smell like bread. There’s no sound nearby. That’s weird.
+
+Hmm, I’ve said that a lot lately.
+
+[ Perhaps if you did the Starter Quest- ]
+
+Shut up. I’m going to take another nap.
+
+When I wake up this time, it’s dark out. The house is still empty. Okay, now this is concerning. Where’s my dinner?
+
+“Mraw!” I shout.
+
+There is no response. I check throughout the house, and there’s no one. I leave the house and look around. The streets are oddly quiet, but I hear some kind of commotion from down by the shore. What’s going on?
+
+I trot down to find a crowd gathered around the market and the dock. There’s a lot of muttering going on, and Johnny and a few of the other fishermen are rigging one of the larger boats up with serious expressions on their face. That can’t be good.
+
+“Do you think they’re alright?” I hear a young girl nearby say.
+
+“No way,” replies a teenage boy, probably her older brother. “You heard them talking about the spawn rates, right? Don’t you know what that means?”
+
+“What?”
+
+“Ms. Jennie said that when the spawn rate for weak monsters is low, that means there are stronger monsters around.”
+
+“Stronger monsters?”
+
+“Yeah. Honestly, they’re probably dead.”
+
+“Oh no…” breathes the little girl.
+
+I weave through the crowd toward the edge of the dock where I find Sally trembling next to the boat that Johnny is rigging. Her eyes are red, and Jennie is standing next to her with a hand on her shoulder. The husband, Henry, is nowhere to be seen. Is this related to the Starter Quest?
+
+[ Maybe ]
+
+Dammit. Okay, fine. This just got personal. I’ll do the stupid Starter Quest. I can’t lose my main source of food.

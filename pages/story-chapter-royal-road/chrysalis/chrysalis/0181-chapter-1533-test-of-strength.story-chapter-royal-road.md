@@ -1,0 +1,77 @@
+---
+id: 647ce651-6954-5d88-822d-ae0e0ba17ed3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1533 - Test of Strength"
+slug: 0181-chapter-1533-test-of-strength
+partOf: chrysalis
+position: 181
+ownLength: 884
+unit: words
+ownProgress: 884
+publishedAt: 2025-03-20
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2137982/chapter-1533-test-of-strength"
+royalRoadId: "2137982"
+markedReadAt: "2026-06-29T19:49:37.562Z"
+---
+
+It’s cool, I can do this. I can totally do this!
+
+No I can’t. It’s a stupid idea, and all that’s going to happen is breaking my own carapace into a million pieces, then incinerating them with the power of a burning star. Why would I do that to myself? Why would anyone do that to himself?
+
+For glory!
+
+No, no way. That is a dangerously Leeroy-ish thought, and I won’t tolerate that sort of nonsense inside my head. Get out, neurons who cooked up that poor excuse for a thought, you aren’t welcome.
+
+Alright, a better reason, there has to be a better reason. Think, brains!
+
+For the family!
+
+Well… I mean… dammit… that’s a lot harder to refute. I am willing to do very stupid things for my family; I have a proven track record for that, after all. In fact, I’ve done a heck of a lot of that since being reborn on Pangera. Maybe this is how I’ll go out, ready to be reborn again as a… chicken… or something. Or some sort of monstrous lamprey. Or.. a more monstrous lamprey. Those things are terrifying by default.
+
+“Eldest? Are you going to help or what?”
+
+Propellant snaps at me from nearby, breaking my concentration.
+
+“Hey! I’m trying to pump myself up over here!”
+
+“You need air inside you or something?” she replies, confused. “We’re ants! We don’t even have lungs! Get in the fight!”
+
+“Alright already, sheesh!”
+
+It’s not as if the fighting isn’t hectic. The war around the platform is an absolute mess, which is what we’ve come to expect, I suppose, but it’s especially bad on the front lines, which is where I can make the most impact.
+
+Being more durable than any other ant in the Colony, with the possible exception of Leeroy, I can hold better and longer than most, anchoring the defensive line and keeping others safe. Which is exactly what I was going to do, once I’d sufficiently psyched myself up.
+
+Grumbling to myself, I stand and start skittering back to the front line, still trying to summon the internal fortitude necessary for my upcoming stunt. I mean, there’s no better time to try and push the limits than now, right? Things are hard, the Colony is struggling, and it’s going to get a heck of a lot worse before it gets any better. Before we end up neck deep in sludge, I need to know if this stuff works.
+
+Alright! It’s decided, I’m going to go for it. Let’s do this!
+
+Striding back to the front is fairly easy at my size, I just step over everyone, and soon enough the goop of the enemy is right in my face. It’s almost impossible to attack and miss when you’re on the front. Even if you don’t get a monster, which is unlikely, you’re going to help push back the truly endless wall of mucus that threatens to gloop out onto the platform itself at any moment.
+
+Which wouldn’t be ideal.
+
+So I get to chomping, blasting acid and shooting copious amounts of fire at everything I see. I can’t put my mandibles on anything directly, but at least I can use the active ability to chomp away with extended range.
+
+But that’s not what I’m about. Not this time. I have a new focus, a new purpose during this particular battle.
+
+I’m going to unleash the true might of the Starcrusher!
+
+Now, is that likely to, quite literally, explode in my face? Yes. Yes it is. But I have a plan that will hopefully leave my face intact along with the rest of me. It’s going to work! Maybe!
+
+I’ve used the new chomp attack several times since my initial attempt, and I would say I’ve gotten… somewhat used to it. I’ve learned it's possible to direct the resulting explosion of power… a bit, which will help avoid damaging the platform, but even so, I’ll have to stick my head off the edge, right up against the end of the safe zone to do this.
+
+Because not only am I going to use the Starcrusher chomp, I’m going to empower it with the Altar.
+
+Doing so will be roughly equivalent to pumping it up to a rank eight Skill as opposed to a seven in terms of raw power, and that isn’t likely to play nice with my siblings to my left or right, nor me, in the middle.
+
+However! Thanks to the mutation on the Altar itself I selected, allowing me to infuse my carapace with its blessed energy and making myself more durable, I should be able to survive.
+
+Hopefully.
+
+And if I do survive, then that’s another weapon we can use during the wave, which is going to get bad before the end.
+
+Nervous, I check to my left and then my right. The line of soldiers is holding strong for the moment, with the copious support pouring in from the lines behind. Now seems as good a moment as any.
+
+Pulling my mandibles wide, I step forward and activate the chomp. As I do, I use the Altar to empower the ability, and then start sweating in my carapace as I feel almost all of the energy contained inside drain away.
+
+This might have been a very bad idea…

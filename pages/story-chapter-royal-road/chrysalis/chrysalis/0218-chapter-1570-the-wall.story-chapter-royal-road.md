@@ -1,0 +1,83 @@
+---
+id: 20d0a9e8-6d56-50be-a8c4-98d452a4689c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1570 - The Wall "
+slug: 0218-chapter-1570-the-wall
+partOf: chrysalis
+position: 218
+ownLength: 1232
+unit: words
+ownProgress: 1232
+publishedAt: 2025-05-26
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2306393/chapter-1570-the-wall"
+royalRoadId: "2306393"
+markedReadAt: "2026-06-29T19:50:47.358Z"
+---
+
+“Lock it down!” Smithant roared, her pheromones blasting away the doubt and confusion that hung heavy in the air. “Get your mandibles in there and work!”
+
+If there was an invitation that no ant was likely to turn down, this was it. Rushing forward as a unit, the carvers applied themselves in the most direct and ant-like way they knew how. Mandibles to the rock, they dug and shaped, clearing space, demolishing rooms and opening a path to the outer wall.
+
+“Keep pushing! The cleansed mana will protect you, so don’t hesitate. Dig!”
+
+Smithant was no foremant, telling others what to do, she was a craftsant, and she put her jaws to work on the line just like the others. For the situation to be so dire that she was pulled out of the forge, she knew they didn’t have time to be hesitating. This may not be the most efficient solution, but it was sure to work, and that was all she cared about.
+
+More and more ants joined in over time and they worked tirelessly, ripping away everything in their way as they opened up the damaged section of the fortress. Only when they’d isolated the problem could they hope to create a solution. As they used magic and mandibles to break down what they had already built, the scale of the issue became more and more apparent.
+
+The fortress was filled with purified mana, which kept them safe from the contamination of the fifth, yet that wasn’t the only protection. The outer wall was one of the most expensive construction projects in the history of the Colony, completely enchanted to repel magical energy, which prevented the mana of the fifth from even coming into contact with it. Clashes between cleansed and corrupted only took place on the platforms, which preserved an enormous quantity of cleansed energy since they didn’t need it to hold back the energy over the vast majority of the walls’ surface.
+
+Now, though? With a giant rent in the outer wall, the enchantments were broken and highly concentrated toxic energy was flooding into the breach, warring with the cleansed energy and burning through it at an accelerated rate. Already, Smithant could see sections of rock that showed the telltale signs of having been exposed to the fifth. Hints of slime, a yellow-greenish tint, strands of mucus here and there. It would be dangerous to keep going, they all knew that.
+
+“Dig faster!” she urged her sisters. “We need stone shapers in here to peel this section back! Hurry!”
+
+Soon, her mandibles began to sting, small sections sizzling and burning as malevolent mana infected them. She kept digging.
+
+At some point, core shapers appeared and threw their teams of blobby, cheerful wuffers  ahead of the carvers to try and cleanse any corruption, but it wasn’t enough.
+
+After two hours, they had managed to find the source of the issue. Eight floors of the fortress had been destroyed to reveal the full extent of the hole, a gaping wound in the Colony’s defences. It was enormous, dozens of metres across and twice as tall. Whatever had caused it had long ago fallen into the darkness or fizzled out, cleansed by the blue mana.
+
+Two opposing energies clashed violently at the entrance, an endless stream of native mana seeking its way inside, trying to erode the wall further while the blue rushed forward to annihilate its opposite.
+
+Mandibles burning, Smithant consulted with the other carvers.
+
+“Are the replacement parts ready?” she asked.
+
+“They were delivered ten minutes ago,” came the reply. “The problem is, we need to break the wall down until we find the joints, then we can replace the damage from there.”
+
+“How far apart are the joints?” Smithant asked, trying to remember. She’d worked on the design for the metal struts herself, but putting together the framework had never been her area.
+
+“Depends on the segment. Can be as much as a hundred metres.”
+
+Smithant cleaned her antennae absentmindedly as she eyed the wall. They could peel back the wall further, expose the joints and then start replacing the components, sealing it all up behind them, but that would be difficult work. Doing it while exposed to the outside mana would be… tricky.
+
+“We stay as far back as possible,” she said, “get the mages to dissolve the rock. I know it’s hard,” she said, cutting off any protest, “it was designed to be resistant, I know that much. When that’s done, any other smiths and specialists like me will get our mandibles in there and cut away the metal. Just make sure you have healers around.”
+
+Surely, there would be a better way to do this, but the most experienced and skilled builders were busy inside the fortress dealing with the channels. She was the first to turn up, so she would get the job done.
+
+With the emergency wuffers happily wuffing away as close to the hole as the core shapers were willing to put them, the ant mages, specialists in construction and stone, got to work, breaking down the highly condensed stone they’d put immense amounts of effort into making.
+
+Gradually, the internal structure of the wall was revealed: living stone, enchanted steel beams, intricate panels of arcane arrays. Once there was enough room, Smithant and the others rushed forward, their mandibles glowing with power as they got to work.
+
+Shaping metal was their talent, their way of life, and they had moulded their evolutions and mutations to suit. Their jaws scythed through the beams as teams pulled the cut sections clear.
+
+Before her eyes, Smithant could see the edge of the wall, and several times, she drew perilously close to the enormous drop into the void beneath. She could see the clashing energies, the war of mana, that occurred right in front of her face as she cut.
+
+She could barely feel her mandibles anymore.
+
+With one section cleared, the ants rushed back to safety where healers were waiting to tend to their injuries.
+
+“This is stupid. You’re stupid. If it contaminates your brain, who knows what’ll happen to you,” the healer snapped as she brought her antennae down to Smithant’s face.
+
+“You want us to leave a hole in the side of the fortress?” she replied.
+
+There was no answer to that question. The healers worked swiftly, but weren't halfway done when the next section was exposed. Smithant pushed herself up, ran out across the stone beams the mages had produced, and got back to cutting.
+
+Back and forth, back and forth. Her mandibles had become pitted, some parts were smoking. Without the protection of the enchantments, the beams were soaking in flecks of corrupted mana, and it was infecting the ants. It didn’t matter, they had to keep going.
+
+SNAP.
+
+With a final, desperate push, she sheared through the last beam, a nice clean cut, if she did say so herself. Ants holding the beam in their grip hauled it away, and now the work was done.
+
+Smithant limped back to safety. One of her eyes… didn’t seem to be working. Didn’t matter, she could see well enough with the other. The entire segment of the wall was clear, as were the joints. Replacement parts could be slotted in, and the entire hole swiftly built over. Good. She was satisfied.
+
+Before she even made it to the healer, she collapsed.

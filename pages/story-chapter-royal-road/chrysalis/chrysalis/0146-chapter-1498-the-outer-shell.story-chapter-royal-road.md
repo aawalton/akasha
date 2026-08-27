@@ -1,0 +1,71 @@
+---
+id: 94a5ebbb-c72a-50d8-b02e-ace04aea012c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1498 - The Outer Shell"
+slug: 0146-chapter-1498-the-outer-shell
+partOf: chrysalis
+position: 146
+ownLength: 963
+unit: words
+ownProgress: 963
+publishedAt: 2025-01-30
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2037175/chapter-1498-the-outer-shell"
+royalRoadId: "2037175"
+markedReadAt: "2026-06-29T19:48:31.405Z"
+---
+
+One of the most important and fundamental features of the fortress is that the entire structure has been peeled of mana veins. Naturally, allowing of the native mana of the fifth to be released within the walls would defeat the entire purpose of the fortress and weaken the strength of the cleansed mana inside. Removing Dungeon Veins from such a large area was in and of itself, a monumental undertaking, and one that is often overlooked.
+
+-           Excerpt from ‘The Impossible Fortress’ by Antitect.
+
+Tungstant sighed heavily, feeling exhausted. Despite taking her mandatory rest period, something Solant insisted upon, she still felt tired. There was just so much to do. The work itself was invigorating, naturally–Tungstant was a carver, after all–yet she felt as though her brain was on the verge of catching fire.
+
+So many problems, all needing solutions. For weeks and weeks on end, she and Cobalt had been planning, designing, re-designing, fixing issues as they arose and, as often as she could, doing the construction work herself.
+
+“You smell as tired as I feel,” Cobalt noted from nearby.
+
+“You too?” Tungstant asked.
+
+“Of course. Everything you’ve been doing, I’ve been doing.”
+
+“At least there’s only one job left.”
+
+“I’m not sure if only is quite the right word,” Cobalt said wryly. “It may be one job, but it’s rather large.”
+
+Rather large was quite the understatement. After months of planning, pre-building components and weeks of relentless work, the interior of the fortress was finally done. The inner vaults, the mana channels, the wuffer platforms, the barracks, hospitals, workshops, resting chambers, storage, Biomass containers, elevators, rail network, all of it was finally done. Solant’s precious logistics hubs were completed, the tunnels and thoroughfares were complete, everything was finished, except for the outer shell of the fortress.
+
+“All we have to do is build a wall,” Tungstant joked, "how hard can it be?”
+
+Cobalt clacked her mandibles together derisively.
+
+“If it were just a wall, then I wouldn’t be worried,” she said.
+
+The two Council members were moving through the tunnels, heading towards the first stockpile in the upper third of the fortress. Construction on the outer shell would begin from the top and work its way down, since the upper levels were the least contested.
+
+When they arrived, they found hundreds of build teams assembled, ready and waiting, along with a literal mountain of materials. Steel frames, struts of living stone, enchanted slabs of metal, enormous joints, each a dozen metres tall and just as wide, all stacked neatly and ready to be used.
+
+The two carvers shook off their fatigue and scuttled up to the gathered crowd. Surrounded by their brethren, they began to lay out the work to come.
+
+“This is going to be a difficult job, everyone,” Tungstant started, “so we want to make sure everybody remembers the process.”
+
+“I know we’ve gone over these techniques in the practice builds, but this has been such a long project, I know we’re not at our best,” Cobalt continued. “The family is counting on us to do this job and do it right.”
+
+“Remember to pay particular attention to the bonding process. The struts and living stone need to be fused using the five-point mandible joint method. Make sure every joint is securely affixed before you move on to the next. Even the slightest bit of separation will prevent the stone from growing through the prepared grooves,” Tungstant said.
+
+“Pay particular attention to the enchanting arrays,” Cobalt said sternly. “We’ve had to reset a few sections of the mana channels, which was doable, but fixing sections of the shell will be incredibly difficult. Not to mention time-consuming. If you want to explain to Solant why ten build teams needed to spend a full day taking the shell apart rather than building it, by all means, rush your work.”
+
+Every team stirred at that. Errors were inevitable in any build, but the ants prided themselves on their patience and quality worksantship. Warning them all to avoid mistakes was a little insulting, but at the same time, nobody wanted to have to have such a discussion with Solant.
+
+“Those enchantment plates are extremely sensitive,” Tungstant warned. “They’re double-sided, which means they need to be handled with extreme care. These are responsible for preventing the cleansed and toxic mana from colliding and are the most important element of the entire shell. If a single one is out of place by a millimetre, the entire array will be thrown off.”
+
+Luckily, with their enhanced construction skills, such precise measuring was entirely within the realms of the possible, but they still had to be careful.
+
+“Triple checks before the stone is shaped,” Cobalt stated firmly. “No misses, no mistakes. Let’s get started.”
+
+Every team turned on the spot and headed to the stockpile, preparing to haul the needed materials to their designated build sites.
+
+Tungstant and Cobalt looked at each other, nodded, then separated, each heading to opposite sides of the fortress to help troubleshoot, build and oversee their teams in action.
+
+When it was all done, the entire fortress would be suspended, separated from the fifth almost entirely, cleansed and toxic mana prevented from touching each other. A mana deadzone would be formed all around the outer shell at all points except for eight enormous bridges. These would serve as the intake channels, feeding the wuffers and providing the cleansed energy for the entire fortress.
+
+Both carvers knew they were on the clock, there was only so much time until the wave struck, but Solant still, even now, refused to rush them. This deep into the project, they understood why. A fatigue they had never truly experienced before was setting in, but they would push through. They were ants; work was what they loved.

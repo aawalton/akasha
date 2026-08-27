@@ -1,0 +1,83 @@
+---
+id: ba67509b-c5be-52de-af6f-d191cd8e8717
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1481 - A Breather"
+slug: 0129-chapter-1481-a-breather
+partOf: chrysalis
+position: 129
+ownLength: 1015
+unit: words
+ownProgress: 1015
+publishedAt: 2025-01-07
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1996102/chapter-1481-a-breather"
+royalRoadId: "1996102"
+markedReadAt: "2026-06-29T19:48:11.915Z"
+---
+
+Sarah wanders off to get armoured up, as does Odin, the weirdo. Fully suited up, the truly enormous bear is even more deadly-looking than before, which is hard to believe. The specially crafted gear will enable her to operate out in the toxic zone for half an hour at a time, which isn’t half bad.
+
+[Any advice for me?] she asks, sounding a little nervous.
+
+I can’t blame her; the fifth has a reputation for being unrelentingly awful, and it’s hard to grasp just how terrible it is without seeing it for yourself.
+
+[Be careful. Very careful. The Krath are clever, they strike from the shadows, from camouflaged positions in the moss and beneath puddles of mucus. They can squish themselves into tiny gaps to attack and then flee into the rock before you can get to them. They’ll be looking to try and capture you if they can, but they’ll also try and harm you in a bunch of different ways to see what works. Expect acid, clouds of toxic gas, parasites that will try to dig into your body, venom, mental assaults… uh what else….
+
+[They used a nearly invisible sentient cloud of spores on me once, tried to get in my mouth and burn me from the inside out, watch out for that one. There was another time when they tried to paralyse me with these little rock eels. Little critters burrowed through the ground, then launched themselves up at me. They had these needle-pointed noses that were crazy sharp. Didn’t make it through my carapace, but you’ll be more vulnerable to that than me.]
+
+By this stage, Sarah has lost a significant portion of her previous cheer. She’s starting to look a little wild around the eyes as my list goes on.
+
+[Is that all?] she asks.
+
+[Not even remotely. That was yesterday.]
+
+[I’m not sure I can do this….]
+
+[You’ll be fine. Talk to the generals in the tunnels you go to, they’ll give you good advice. Have a word with the medical team on things you need to look out for, they’ve been treating all the ants, so they’ll know what’s causing the most problems. Other than that, just be careful. Remember that nearly every monster will pop or release deadly parasites after you destroy them, so get out of the way after you bite something.]
+
+[It sounds disgusting.]
+
+[It is,] I assure her. [But you’re doing something amazing for the family. We really appreciate it. Everyone in the Colony is happy to have you for a sister.]
+
+[Sh-be quiet!] She snaps, embarrassed. [I’m just here to help out a little. It’s not that impressive. Alright, off I go. Wish me luck!]
+
+[Good luck!]
+
+She turns around and waddles off, a giant amongst the smaller ants. As she moves, Odin is revealed, standing behind her and staring at me.
+
+[Perfection,] he whispers in my mind.
+
+He’s been armoured up a little. I guess he’s also going to go out and fight? He’s like an assassin demon or whatever, so I suppose that makes sense. I just wish he wasn’t such a weirdo. I wave him away with a flippy motion of my antenna and then contemplate for a moment.
+
+What to do now? Sarah is going to head to my old area to cover the severe attacks we’ve been getting there, so I’m actually free to do something else for a change. I suppose I’ll go and visit my friends! Been a while since I checked in on them. They’re all taking a break at the moment, so I may as well head on over and say hello.
+
+I mean, I can talk to them whenever I want, but it always feels nicer to speak face to face, even if we are using mental communication.
+
+I find the trio of tier seven monsters relaxing and chatting together in a narrow little corner, out of the way of the main traffic and activity of the fortress.
+
+[Master!] Crinis yells, bounding over the ground like an inky black tidal wave before glomping onto my carapace.
+
+[Hey there, Crinis! I missed you too. Tiny, Invidia! How are things?]
+
+Predictably, Tiny gives me a seated thumbs up with one arm, and a powerful flex with the other. Invidia is also sitting on the ground, which is unusual. Normally he’d be sitting up on Tiny’s shoulder or fluttering in the air, but for once he’s actually on the ground, his little arms resting on the rock floor and preventing him from just rolling away.
+
+[Hey, Invidia, I almost missed you down there.]
+
+The eyeball nods and his little wings flutter a bit as he gives himself a little lift until he’s up on his palms.
+
+[It issss nice to sssseeeee you,] he says. [I hopessss you havesss been well.]
+
+How nice of him to ask after me! Man, Invidia is such a good demon.
+
+[I’m good! Thanks for asking.]
+
+I settle in to talk to them, and they’re full of stories. Just like my areas of the fortress have been crazy and active, so have theirs, and it sounds like there has been plenty of hijinks for them to worry about. Luckily nobody has been hurt and no ants have been abducted after the first, so it's all come out well.
+
+[You must have been massing up some good levels at least,] I tell them. [Has the time finally come for you to catch up to me in level?]
+
+[I doubt that, Master,] Crinis says. [You’ve been fighting more than any of us, and you’ve taken on many strong monsters. You’ll be ready for the next tier soon.]
+
+[That can’t be right,] I say, thinking to myself. [I didn’t evolve that long ago.]
+
+Idly, I flip up my status and start poking at it. I mean, I’ve been fighting a lot, especially recently, and the monsters in the fifth have been pretty strong. I suppose I must have racked up a few levels, but there’s such a long way to go until my next evolution….
+
+Wait. I have over a hundred and fifty levels?!

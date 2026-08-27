@@ -1,0 +1,183 @@
+---
+id: a7583285-a0ce-58b9-8213-42c9e124073a
+page-type-slug: story-chapter-royal-road
+title: "42: Ice Breaker"
+slug: 0042-42-ice-breaker
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 42
+ownLength: 2478
+unit: words
+publishedAt: 2025-09-30
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2640681/42-ice-breaker"
+royalRoadId: "2640681"
+---
+
+Chloe opened her eyes, but everything felt fuzzy. Her head lolled to the side as she groaned, the cave ceiling wobbling above her in that annoying spinny way that made her want to flop back down.
+
+She rubbed her eyes and gave her cheeks a few pats just to check that she was really back in the real world now. But slowly, the haze peeled away.
+
+The spinning stopped, and the throbbing in Chloe's skull shrank to something way less terrible. Finally, the pieces clicked back together, and she realized that she was back in the cave. But something was off.
+
+Chloe squinted hard as she looked around. Ynett was nowhere to be seen. Ohhh, I’m so eating that brain. Hope she's still around here somewhere.
+
+She looked around the cave, scanning every shadow and cranny, but nothing moved except the dust drifting in the air. Since nothing interesting was around, Chloe grabbed Cloaky tighter around her shoulders, and marched toward the exit.
+
+The cave’s mouth hit her with a blinding flash of light. Chloe squinted hard. Rude!
+
+But at least the storm was gone. No more howling white chaos, no wind shoving her around. Just a sky so blue it almost hurt to look at, stretching over endless sheets of sparkling snow.
+
+Chloe stomped out into the light, leaving messy zig-zag tracks behind her. The whole place was all white and shiny, but Chloe couldn’t care less about pretty views. What she cared about was filling her belly. Preferably with Ynett’s brain.
+
+At least getting back to the village should be easy now. Chloe could already picture Wolfie's confused face when she showed up again. Maybe the girl would wag her tail, maybe she’d try to chew her arm off again. Either way, it would be fun.
+
+She marched forward with fresh energy, while humming a tune that didn’t sound like anything in particular. The snow stretched quiet around her, broken only by the crunch of her boots.
+
+Then, she heard a growl. Chloe stopped walking and turned her head towards the source of the sound.
+
+From between two big rocks, a familiar frosty lizard slunk out again. Its claws screeched sparks off the stone, and every hiss puffed out little curls of frost like it was trying way too hard to look scary.
+
+This was the same slippery ice lizard that had run away before. The way it had run away right before Ynett appeared still felt wrong.
+
+Chloe knew monsters didn’t normally just run away like that. And the timing with Ynett showing up? Way too perfect to be random.
+
+Which meant only one thing: this giant frosty lizard had been under Ynett’s control. And now, here it was again, sent out to deal with her. Of course, she wasn't gonna let that happen.
+
+Besides, Chloe bet this lizard’s brain was extra tasty. Monsters with a fancy magic ice breath had to have a delicious brain. Alright, frosty. Let’s see how you like this.
+
+Chloe thrust her fist forward, and black tendrils burst out from her wrist. They yanked her arm loose and launched it through the air, her hand flying toward the lizard. The fist slammed right into its chest hard.
+
+She blinked, then pouted. She’d been aiming for the head, but steering a flying fist was trickier than it looked. Still, the lizard slid back a step, scales splintering with a satisfying crunch. Oh well, a hit’s a hit.
+
+The beast roared, frost steaming from its jaws. It didn’t look scared at all. Just annoyed, like she’d poked it with a stick.
+
+Chloe snapped her tendrils back, fists raised. The lizard lunged, claws slamming down.
+
+She squeaked and hopped sideways, snow scattering as the ground cracked where she’d been. Then she shot out another tendril-fueled punch, smacking into its side hard enough to chip off flakes of ice.
+
+But this time, the lizard didn’t even twitch. Oh, come on!
+
+Then the beast sucked in a deep breath. Chloe’s eyes went wide.
+
+She dove aside just as a blast of frost whooshed past, freezing the ground into jagged glass. Her shoulder brushed the chill, leaving her arm super stiff.
+
+“Okay, rude!” Chloe shook her arm out like it had betrayed her and stomped her boot hard enough to make snow scatter. Trying to turn me into a Chloe-sicle? Not happening!
+
+The lizard’s head whipped around, its fangs slick with dripping frost. Chloe darted forward as her fists blurred. Black tendrils cracked like whips with every strike, launching her punches harder and faster than her body alone could manage.
+
+The sound of fist meeting scale rang sharp, each blow shoving the beast back step by grinding step. Shards of ice splintered and sprayed the air, but still the monster pressed forward, refusing to slow.
+
+A claw slashed low, and Chloe ducked under it, her hair whipping wild around her face. She popped up just in time to see its chest swell again. The breath came out in another rushing blast, sweeping across the area in a roaring wave.
+
+Chloe dove and rolled, boots skidding behind a broken slab of rock as frost blasted over her cover, leaving it glittering like glass. She couldn’t help but giggle, even as steam hissed off Cloaky’s tattered edges. Heh. You really, really want me frozen, huh? Not dead. Just frozen.
+
+Most monsters went straight for the kill. Claws to the throat, teeth to the head, clean and simple. But Chloe had started to notice something weird.
+
+This lizard had plenty of chances to snap her neck or shred her to ribbons with those huge claws, and yet it didn’t. All it ever did was puff out that frosty breath, over and over, like it was desperate to wrap her up in ice instead of finishing her off.
+
+That was when it all started to make sense. Ynett hadn’t killed her before, even though she clearly had the power to do it. The same pattern fit here too.
+
+The lizard had claws sharp enough to carve her in half and a mouth big enough to swallow her whole, yet it only ever tried to bury her under frost. It had to be following orders. Don’t kill the zombie, just freeze her nice and neat.
+
+The thought wasn’t proven, but it lined up well enough, and Chloe was quick to seize on it. If the lizard was holding back, then she would make sure every second of that hesitation worked in her favor.
+
+She ran from cover, tendrils snapping as she launched her fist forward at the lizard, which soon cracked against its snout. The lizard reeled back with a furious snarl, snow spraying up as its massive feet stomped in protest.
+
+The roar that followed rattled her chest. Its whole body lit faintly blue, mist pouring out in thick waves, but when it exhaled the frost blast was shorter this time. And a lot thinner. Ooooh. Getting tired, are we? Betcha can’t keep that up forever, big guy.
+
+The big lizard lunged, another puff spilling out, even weaker. Chloe laughed and ran away. Once she was out safer, she threw out another tendril punch, smashing into its neck.
+
+Back and forth they went. Her fists blurred, every strike leaving fresh fractures. The lizard chased with its freezing breath, but the blasts sputtered shorter, thinner, weaker.
+
+“You’re running out of juice, lizard breath!” Chloe crowed, ducking another puff. The monster snarled, chest heaving, mist spilling in ragged bursts.
+
+The frost lizard let out another sputter of icy breath. But it was barely a puff.
+
+Chloe puffed her own chest out in victory. And now… for my next trick. Vanishing zombie!
+
+Her body shimmered until she was gone, leaving only empty snow. The lizard swung its head around, confused, as its tail lashed the air.
+
+Chloe crept behind, tendrils coiling tight. Her grin nearly split her face. She launched her fist forward as hard as possible.
+
+The punch slammed into the back of its skull with a nasty crack. The lizard staggered, knees buckling as snow sprayed. For a second, it looked stunned. Chloe cackled, snapping her tendrils back smugly.
+
+But then its eyes flared a cold, furious blue. It then unleashed a roar that shook her down to her boots, just in time for her invisibility to snap away. Uh oh.
+
+The lizard spun fast, jaws snapping for her arm. Chloe dove aside, snow spraying in her face as fangs clashed shut far too close from where she’d been.
+
+Its claws carved trenches in the ice, then it lunged again, this time close enough for its teeth to scrape across her shoulder. She whipped a tendril punch into its snout, ice cracking away under the blow, but the beast didn’t even flinch. Something had changed.
+
+Before, it had been all about freezing her. But now? The ice breaths had all but completely stopped. Instead, the lizard was out for blood, all claws and jaws and fury.
+
+The change was so sharp it made the truth clear. Ynett had this thing under control, just like Wolfie. But when Chloe had cracked it across the back of the head, the control had broken. Now there was no control. Just rage.
+
+She barely ducked another bite, the fangs raking close enough to stir her hair. She tumbled across the snow, laughter spilling out as she sprawled in a heap. Totally fine. Totally under control. Just a giant angry lizard trying to eat me. No big deal.
+
+The beast reared, eyes blazing bright blue. It lunged, and Chloe wasn’t fast enough. Its jaws clamped down, and her right arm disappeared between its teeth.
+
+Her body jerked, but the stump writhed as black tendrils burst out. They lashed into the monster’s face, ripping and tearing.
+
+Yet, the lizard roared and inhaled, then blasted a torrent of frost directly onto the tendrils. The writhing black mass froze solid in an instant, stiff and brittle under a shell of glittering ice.
+
+Its jaws crunched down. Shards exploded outward as they scattered. Chloe staggered back, her knees wobbling.
+
+She clutched at the stump with her left hand as her grin faltered for once. The lizard spat the frozen chunks aside, then turned back to her, frost dripping from its fangs.
+
+Chloe’s lips trembled as she wobbled on her feet. Ohhh… don’t feel so good. Nope. Really don’t feel good at all.
+
+The lizard's eyes locked on her like she was nothing but meat. It roared and charged, jaws snapping.
+
+Chloe forced her tendrils to flare, swinging a desperate punch. Her remaining fist cracked into its jaw, splintering ice, but it barely slowed. She dodged clumsily as its claws tore the ground where she’d stood.
+
+Then the lizard struck again. This time its fangs clamped around her leg.  Chloe’s body jolted as the limb tore free, black ichor spraying across the snow.
+
+She toppled, sprawling across the ground, her whole body shivering from the sudden imbalance. The lizard chewed, crushing her leg into frozen chunks. This is bad. Really, really bad.
+
+Out of options, Chloe went for the most desperate idea she had. The lizard’s claws pinned her down, crushing her limbs against the snow. Its fangs gleamed above her, ready to snap shut. She couldn’t move anything but her head, and so, that was exactly what she used.
+
+Black tendrils erupted from her neck, whipping forward and launching her skull straight into the lizard’s face. The impact cracked loudly, her forehead slamming into its snout with a bone-jarring smash.
+
+The world flashed white, her teeth rattling in her mouth as both she and the beast reeled from the blow. Chloe groaned as the tendrils snapped her head back onto her shoulders. Okay… ow. Maybe not my best idea.
+
+But it worked. The lizard’s glowing eyes flickered, its breath faltering as its massive body swayed. Chloe staggered upright, wobbling on one leg. Flames sparked to life in her trembling hand.
+
+“Burn. Burn. Burn!”
+
+Fireballs erupted one after another, each one screaming into the lizard’s skull. They burst in explosions of heat and smoke, licking across its icy scales until steam hissed and the air smelled of scorched frost. She kept throwing, flames sparking wild until the beast’s head was blackened.
+
+The monster heaved as Chloe lifted her hand higher. Shadows swirled as a cursed stone formed in her palm. With a wild fling, she hurled it into the creature’s open jaws.
+
+The rock sank down its throat, glowing black as it vanished inside. The lizard convulsed, roaring, choking, its body trembling like it was about to burst. With one final screech, the frost lizard collapsed.
+
+[You have killed: Shivermaw (Level 25)]
+
+[Experience Awarded]
+
+[You have leveled up! 1 >> 2]
+
+[Strength +9, Speed +3, Vitality +7, Magic +9, Resistance +3] -
+
+[Skill Upgraded: Cursed Rock Shot IV >> Cursed Rock Shot V]
+
+[Skill Upgraded: Fireball III >> Fireball IV]
+
+***
+
+Z’s fingers clattered across the keyboard, the rhythmic sound nearly drowned by the rustle of stacked reports threatening to topple across her desk. Many bore the stamp of urgent. The deadlines grew tighter with each passing hour since the culling was approaching, and her work had to be flawless.
+
+Her wings twitched in quiet irritation as she typed faster, glasses sliding down the bridge of her nose. The rules were clear: the weakest ten Champions of Chaos would be erased. No appeals. No delays. No errors.
+
+Z's report would decide which champions were culled and which survived. A wrongly culled champion would not be tolerated. The consequences would be her own head on the block.
+
+She paused only long enough to rub her temple before pulling up the next file. Chloe.
+
+It had been some time since she last reviewed the Zombie Girl's case, and curiosity pricked at her. Besides, Chloe's report needed updating anyway.
+
+The records indicated that Chloe had traveled north into Ishgria, pursuing a bounty involving Ynett, the White Witch. Z’s typing slowed.
+
+Ynett was one of L’s champions, and a formidable one at that. Unfortunate, but hardly unexpected. This was precisely why she had insisted on granting Chloe charm resistance in the first place.
+
+Z managed many champions, yet Chloe was… different. Not only had the girl drawn her own reluctant interest, but a member of the C-suite as well. That distinction made Chloe more than another entry in the registry. It made her survival critical.
+
+If the favorite of an executive fell too soon in the Great Game, responsibility would cascade back to Z's desk. Still, the rules were the rules. She could bend procedure only so far before compliance became malpractice.
+
+So, Z returned to her work, forcing her focus back onto the reports, away from possibilities better left unconsidered. She tried to focus on happy thoughts instead, though to be fair, she hadn’t exactly collected many of those in the last few centuries.

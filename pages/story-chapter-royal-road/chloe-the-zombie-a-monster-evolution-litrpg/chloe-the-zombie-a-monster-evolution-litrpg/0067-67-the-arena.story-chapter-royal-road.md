@@ -1,0 +1,291 @@
+---
+id: 3b139ae6-2548-5778-a1b3-0162138fc14f
+page-type-slug: story-chapter-royal-road
+title: "67: The Arena"
+slug: 0067-67-the-arena
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 67
+ownLength: 2309
+unit: words
+publishedAt: 2025-11-10
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2748724/67-the-arena"
+royalRoadId: "2748724"
+---
+
+Raenof stepped around one of the corpses of the rat folk. “So… you gonna eat their brains too?”
+
+“Ew, no way! Are you kidding? Look at them. Their brains probably taste nasty." Chloe said.
+
+“Out of curiosity, what exactly makes a brain gross to you?”
+
+“A gross brain is just… gross! Y’know? I don't need a reason. I can feel the gross.”
+
+Raenof chuckled under his breath. “Alright, alright.”
+
+They moved on deeper into the sewers. Chloe hopped over puddles and occasionally poked at suspicious gunk with her boot. It made the journey more fun.
+
+After a while, she glanced at Raenof. “Hey, so what’s up with those rat guys anyway? I thought this city was full of the wolfie people.”
+
+“Luphians,” Raenof corrected. “And the rat folk are a complicated bunch. No one really knows where they came from. But what is known is that they like to live in dark places close to civilization, like this sewer."
+
+Chloe tilted her head. “Huh. So living down here must not be that bad then.”
+
+"You do realize we’re standing in ankle-deep sludge right?"
+
+"Well, I still don't think it's that bad."
+
+Raenof sighed through his nose. "Right… anyway, we should be careful. There could be more of the rat folk nearby.”
+
+“No worries. I’ll take care of any rat guy that shows up."
+
+As if the sewers were listening, a clatter of claws echoed through the tunnel. Soon, Chloe saw more rat folk turning a corner, weapons raised.
+
+Raenof didn’t even get a word out before Chloe threw her hands forward with a huge grin.  A blast of dark energy rocketed down the tunnel and obliterated the lead rat warrior.
+
+Another tried to duck behind a pipe, but Chloe’s second blast curved around and exploded in his face. Chloe then kept firing dark energy blasts until there were no rat guys remaining.
+
+[You have killed: Rat Folk Warrior (Level 11)]
+
+[You have killed: Rat Folk Warrior (Level 11)]
+
+[...]
+
+[You have killed: Rat Folk Warrior (Level 11)]
+
+[Experience Awarded]
+
+Chloe dusted her hands together with a proud smile. “Sewer cleared. You’re welcome.”
+
+Raenof just gave her a slow clap as he stepped over a sizzling rat tail. "Not much to say, well done."
+
+The two kept going, winding through the maze of tunnels. Raenof kept glancing at the walls, tapping on pipes, crouching low to examine the flow of water. At one point, he rubbed a bit of slime between his fingers, then nodded to himself like that meant something.
+
+Chloe squinted. “Sooo... do you actually know the way out of this place?”
+
+“No,” Raenof said, standing up. “But the flow here is getting stronger, and the incline of the floor is leveling out. Also, the air feels a little drier than before.”
+
+“Cool,” Chloe said, pretending she understood any of that. Not sure how looking at water and rubbing slime helps you find a way out, but maybe Raenof is some kind of special elf.
+
+"I'm getting this weird feeling that you're making some kind of weird assumption about me in your head." Raenof said, glancing at Chloe.
+
+"Whaaat? No way." Chloe said. Did he read my mind?
+
+"Chloe? You okay?"
+
+"Right um, yeah. I'm fine."
+
+"You sure?"
+
+Chloe felt things were getting a bit awkward. So, she decided to switch up the topic of conversation immediately. "Hey, Raenof? Why are there so many of these rat guys if they’re so weak?”
+
+Raenof shot Chloe a look, but didn't say anything at first. He then adjusted his cloak and stepped over a puddle before answering. “Because they breed very quickly. Large numbers are their strength.”
+
+“Breed? What’s that?”
+
+Raenof froze for a second mid-step. “Oh no.”
+
+Chloe jogged up beside him. “Come on, what’s breeding?”
+
+He cleared his throat. “It’s... something that species do to create more of themselves.”
+
+“Yeah, but how? Do they split in half?”
+
+“No.”
+
+“Do they grow from the dirt like mushrooms?”
+
+“No.”
+
+“Do they just pop out of eggs?"
+
+“Chloe, this really isn't that important right now.”
+
+“Well, you’re the one who said they breed fast. I’m trying to understand your words!”
+
+“Look, it’s... complicated. And maybe not something you need to worry about.”
+
+“You think I can’t handle it?"
+
+“Yes, now can we please just—"
+
+“Is it embarrassing? Is it something with tails? Is it—”
+
+“Hey!” Raenof said suddenly, pointing ahead. "I think I see the exit right over there."
+
+Chloe looked toward where Raenof was pointing. Sure enough, a faint breeze drifted from a large grate ahead, and sunlight spilled in through cracks in the stone. A ladder led up to what was probably the exit.
+
+"Just follow behind me, it's time we leave this place." Raenof said.
+
+Chloe pouted, but followed him toward the exit anyway. Stupid Raenof and his secret breeding knowledge. I’ll figure it out eventually.
+
+Raenof climbed up the ladder first. Chloe looked up after him. “Wait! Shouldn’t we go invisible before popping out? What if someone’s up there with a nose like the rat guys?”
+
+“After how long we’ve spent crawling through sewer filth, I doubt invisibility will help much. We'll figure something out if things get bad."
+
+"Huh, okay."
+
+Soon, Raenof pushed the hatch open and slipped out, motioning for her to follow. Chloe climbed after him, boots squelching, as she emerged into a dirty alleyway. There wasn’t a single person in sight, but she could hear muffled voices nearby.
+
+Raenof let out a breath, stretching his back. “Finally, I can breathe fresh air again."
+
+Chloe looked around with a hand on her hip. “Okay sooo… where are we?”
+
+“We should be inside Vorraska, probably in one of the less nice districts, though.”
+
+“Then let’s go before someone weird shows up."
+
+“Hold on. I’ve got a spell I want to use.”
+
+“Oooh. What kind?”
+
+Raenof held out his hand, and with a flick of his fingers, a staff shimmered into existence. “Something to make us smell less like rat and sewer gunk.”
+
+"Do we really smell that bad?" Chloe asked.
+
+“Let’s just say, if we walk into a shop like this, people will not be kind to us. Now, come a bit closer."
+
+Chloe stepped forward. Right away, a puff of green mist burst at their feet. It felt warm, almost tingly, like a really comfy forest had just sneezed on her. Then the mist faded away, leaving no trace.
+
+Raenof snapped the staff away with a flick of his fingers. “There. All done.”
+
+Chloe looked down at herself. “I don’t feel any different.”
+
+“Oh, believe me. I can smell the difference.”
+
+"Kay, if you say so."
+
+Chloe followed Raenof out of the alley and straight into chaos. The whole place was filled with beastkin, or more accurately, Luphians, who shouted over each other. Muddy kids with floppy ears dashed between carts, and an old wolf-woman was whacking a vendor with a broom. It reminded Chloe of Kelvane’s shady side, except here, everyone had claws, tails, and more muscle.
+
+“Sooo… you think the Thieves Guild is around here?” Chloe asked, squinting at a nearby stall where something was definitely still twitching on a skewer.
+
+Raenof gave the area a once-over. “Doubt it. We should look around first.”
+
+“Yeah, no kidding. This feels like the kind of place where someone gets stabbed over soup.”
+
+“That’s one way to put it. Though, to be fair, most people here don’t really have anywhere else to go.”
+
+“Yeah, yeah, anyway, where do we go?”
+
+“Come on. Let’s ask around.”
+
+They weaved through the slums and passed under a stone arch. The change was instant.
+
+Here, the buildings were tall and clean, made of smoother and nicer rocks. The streets were smooth and wide. And the Luphians that walked around had nicer clothes, oh, and they also looked cleaner.
+
+But what really made Chloe stop were the monsters. Instead of wagons and horses, Luphians rode massive lizardy things with horns and claws. Others led these creatures with glowing antennae and huge shells. One round, fluffy beast waddled past with crates stacked on its back, snorting softly.
+
+Chloe slowed to a stop, staring wide-eyed. She kinda just looked at all the cool monsters nearby for a long while. Long enough that she didn't realize Raenof was waving a hand at her.
+
+“You okay back there?” Raenof asked.
+
+“Yeah, yeah! I was just looking at all the cool monsters!”
+
+"That lizard looking one’s called a drazzle, not a monster.”
+
+She nodded, then pointed at another monster. “Ooh, got it. What about that one?”
+
+Raenof let out a quiet sigh. “No idea, but listen, I asked around and got a couple directions. Now I’m pretty sure I’ve found where the Thieves Guild is."
+
+“Finally! I can finish my mission and go back to doing fun stuff again!”
+
+Raenof chuckled. “Oh, I think you’re going to like this Thieves Guild. A lot.”
+
+She squinted at him. “Why do you say it like that?”
+
+“You’ll see. Come on.”
+
+Chloe groaned and flailed her arms dramatically but followed him anyway. “You’re the worst at answering things.”
+
+“I know,” he said, annoyingly pleased with himself.
+
+The two walked through the nicer part of the city, down stone-paved streets with fancy lanterns. Chloe kept glancing around, trying to imagine what kind of super-secret hideout a fancy wolf-person thieves guild would have.
+
+Eventually, Raenof stopped. Chloe nearly bumped into him. “What? We here?”
+
+He pointed ahead with a small nod. Chloe looked.
+
+The building in front of her was way taller than anything else on the street. It had banners flapping from every direction. The front doors were open, and Chloe could see rows of seats inside. The inside sounded really loud, filled with cheering, yelling, metal clashing, something exploding.
+
+Chloe’s jaw dropped. She took a few steps closer, squinting at the sign hanging above the archway. Thieves Guild Arena: Where Legends Are Made.
+
+“What… is this?” she asked, eyes darting from the doors to the armored Luphian guards. “Some kind of really big tavern?”
+
+“No. This is an arena. A place where fighters test their skills against each other in fights and tournaments." Raenof explained.
+
+“Wait. You’re telling me people fight for fun there?"
+
+“Hmm, that's one way to put it."
+
+Chloe bounced around excitedly. “Do they use magic too? Can anyone join? Do they, like, eat snacks while fighting?”
+
+Raenof shook his head, clearly amused. “I imagine they do. But first, we should go inside and find the Guildmaster. Once we do that, your mission will be formally completed. And I’d like to ask them something myself.”
+
+“Like what?”
+
+“Information about the client I need to deliver the box to."
+
+“What box?”
+
+“The one I showed you back at the inn in Rellstead. Remember?"
+
+“Ohhh, the red one!”
+
+“That’s the one.”
+
+The moment Chloe stepped inside the arena, her eyes went wide. The interior was even louder than the outside.
+
+Luphians of all shapes and sizes bustled around the wide hall. Some wore armor, others strutted around in robes. A few wore absolutely nothing but pants as they laughed and elbowed their friends.
+
+A group of kids zoomed past on all fours, yipping excitedly as they chased each other through the legs of the bigger wolf people. One even had glowing stripes across her fur and a stick clenched in her teeth.
+
+There were tables everywhere. Some sold shiny pins shaped like swords or fangs or flaming fists. Others had skewers of grilled meat, bubbling drinks, or weird snacks. One booth even sold posters that moved when you stared at them too long. Chloe spent a solid five seconds staring at one before it blinked back. This place is so loud... I love it!
+
+Raenof glanced around the busy arena and then looked at Chloe. “So… what do you think?”
+
+“This place looks awesome. But uh, where’s the Guildmaster supposed to be? Is he hiding behind one of the snack tables or something?” Chloe asked.
+
+“Actually, after asking around earlier, I found out the Guildmaster here is one of the fighters.”
+
+“Wait, seriously? Does that mean we get to see him punch people?!”
+
+“That depends. We’ll need to find a staff member first. Someone who knows the schedule.”
+
+After weaving through the crowd, they finally managed to call out a tall Luphian staffer. She had fluffy grey fur, and a shiny name badge.
+
+“The Guildmaster? They’re actually competing in today’s main match. And tickets are selling out fast.” The staffer said.
+
+Chloe tilted her head. “Selling out? So, like, people are stealing them?”
+
+Raenof gave a quiet sigh. “No, Chloe. It means they’re almost gone. Being sold. Purchased.”
+
+“Ohhh. Wait, what are tickets?”
+
+“They’re like little passes. You buy one, and it lets you watch the fight.”
+
+“Oh I’ll take one of those tickets,  please!” Chloe said.
+
+Raenof muttered something under his breath and reached for his own coin pouch. “I’ll buy one too.”
+
+“That’ll be eight silvers each,” the staffer said.
+
+Chloe proudly dug into Cloaky and pulled out a jingling pouch. She fished out a shiny gold coin and handed it over with a huge grin.
+
+Raenof raised an eyebrow. “That’s a gold coin, Chloe.”
+
+“Yeah! It’s shiny and it’s more, right?"
+
+“You need to ask for change.”
+
+“What’s that?”
+
+“It’s the extra money they give back to you after you overpay,” he explained, already pinching the bridge of his nose.
+
+Chloe turned to the staffer. “Can I have the… change stuff, please?”
+
+The staffer looked like she was trying not to laugh as she handed Chloe a small pile of silver and copper coins, along with her ticket. Raenof paid for his own and got his ticket too.
+
+Chloe stared down at her slip with curiosity, then casually began folding it. Raenof, sensing disaster, quickly reached out.
+
+“Don’t store it yet, we’ll need it to find our seats.”
+
+“Right. Right. I totally knew that.”

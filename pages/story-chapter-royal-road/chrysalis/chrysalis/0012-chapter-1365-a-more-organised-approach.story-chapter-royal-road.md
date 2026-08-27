@@ -1,0 +1,75 @@
+---
+id: ddf68fa0-2827-5dce-bf10-ca408d9cc0d3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1365 - A More Organised Approach"
+slug: 0012-chapter-1365-a-more-organised-approach
+partOf: chrysalis
+position: 12
+ownLength: 1064
+unit: words
+ownProgress: 1064
+publishedAt: 2024-07-02
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1701522/chapter-1365-a-more-organised-approach"
+royalRoadId: "1701522"
+markedReadAt: "2026-06-29T19:44:02.206Z"
+---
+
+I felt a little bit foolish listening to Advant a few hours later as she explained how our trek into the fifth was going to work. More specifically, as she outlined the many layers of protection the Colony had provided to keep us safe in that horrific environment.
+
+“Everyone is to ensure they have six of these enchanted leg guards on at all times,” she informed the gathered ants, glaring at them. “No, it is not selfishness to take six, it is the bare minimum requirement to keep you alive so you might serve the Colony. Any individual found to be wearing less than six at any time will be put on vacation for a month. Do you understand?”
+
+“We understand!” the ants chorused back, fear in their eyes. They did not want that vacation.
+
+“We will begin distribution of the rings while Coolant explains their function, pay attention!”
+
+Many small carvers with boxes clutched in their mandibles began to run up and down the assembled ranks of ants, handing out sets of rings, adjusting them to fit, and ensuring each ant had one on each leg before they moved to the next. All the while, Coolant’s calm tone washed over us.
+
+“The rings combine two properties that will be beneficial in the fifth. The first promotes regeneration. The atmosphere of the fifth is completely toxic and will eat into your bodies like a potent acid. Particularly vulnerable are the joints.”
+
+She’s not wrong. Mine are still stinging.
+
+“This constant healing effect will be able to mitigate the damage, but not overcome it, so be wary. We aim to limit our exposure to the toxic mana as much as antly possible, but we expect things to be chaotic down there. All of us will be exposed at some point. The second effect is a complex piece of enchanting that will help prevent the virulent mana of the fifth from slipping into your body.”
+
+I really should have grabbed some of these before I went down there.
+
+“As you know, this mana will propagate itself and literally eat you from the inside out. As monsters, we constantly draw in mana from around us, which means we are always at risk of absorbing this dangerous energy. Should it get into your core and begin to multiply, we will be unable to save you. Make sure it doesn’t come to that.”
+
+She eyes everyone seriously.
+
+“To that end, all mages will be constantly sweeping with their mana sense. It is vitally important that any ant touched by the mana be cleansed immediately. Now, I will pass over to my sister, Bella, who will explain the measures taken by the core shapers to protect us.”
+
+A somewhat nervous-looking Bella steps up in front of the crowd, unused to being in the spotlight. In fact, she is so circumspect, I hadn’t even noticed she was here until this moment. Even the Will I get from her is quiet.
+
+“H-hello everyone. As you… as you know, we have been hard at work on the Wuffer initiative, trying to maximise the ability of these pets to purify the mana of the fifth.”
+
+She gestures with an antenna, and one of her fellow caste members ushers one of the happy blob monsters forward. The creature wuffs contently as it undulates over the ground, radiating positive energy like a little blue ball of gooey sunshine.
+
+“This is our current template for the tier five wuffer design, and it is much more efficient and effective than before, but I want to emphasise to everyone that they are incredibly fragile in combat.”
+
+Where before she had been hesitant and timid, once she’s begun talking about her beloved pet, Bella speaks with vigour and confidence.
+
+“Which means you must protect them. Protect them like they are brood, or a Queen. They are your lifeline in the fifth; without them, the mana will overwhelm you in a matter of minutes.”
+
+She glares at the assembled ants for a moment, then she realises what she’s doing and begins to hesitate again.
+
+“Please,” she says.
+
+Of course, I’ll defend the wuffers with all of my spirit! We need them to stay alive down there, after all. Coolant steps forward again.
+
+“We expect the monsters of the fifth will have an… extreme reaction to our attempts to cleanse the atmosphere. They were maddened by it during the wave, and we anticipate they will hate it even more in their home stratum.”
+
+That’s a good point, and one I’d kind of neglected. The monsters of the fifth were not pleased when we disrupted their toxifying operations. Memories of maddened, berserking slug monsters come flooding back to me. Good times.
+
+“And lastly,” Advant steps forward, “it is critically important that no ant is lost. We will take headcounts every hour we are down there. Always move in squads of ten and watch out for your sisters. If a single one of us is captured, it could spell disaster for the Colony.”
+
+At this reminder, my attitude becomes grim. As the leaders go over the final details of the operation, my mind wanders back to the poor soul that was lost in the Golden City. I’ll never allow such a thing to happen again. I fully intend to dedicate a dozen of my mind constructs to monitoring the Vestibule at all times. The second an ant is captured, I will know about it.
+
+Never again will I let a member of my family be taken from me in that manner.
+
+Eventually, I too am fitted with the enchanted rings, as are Tiny, Invidia and Crinis. It takes a bit of work to get them onto the ape’s fingers, given how thick they are, and a bit of work to get them onto Invidia’s, given how thin they are. For Crinis, she doesn’t need the size changed, since she can adjust the size of the tentacle they sit on at will.
+
+I decide to keep an eye on how well the gear works for them, since it was specifically designed for ants, and I ask Invidia to pay strict attention to himself, Tiny and Crinis while we’re down there. Crinis has some mana manipulation, but Tiny has literally none and will need someone else to protect him from that vile influence.
+
+[Of courssssse. I will alwaysssss help friendssssss.]
+
+Well… that’s really decent of him!

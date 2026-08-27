@@ -1,0 +1,163 @@
+---
+id: 351b85f0-f84c-5bea-9370-a056ce8cdc1e
+page-type-slug: story-chapter-royal-road
+title: "21 - Emma Upgraded"
+slug: 0021-21-emma-upgraded
+partOf: cat-girl-evolution
+position: 21
+ownLength: 2607
+unit: words
+publishedAt: 2025-09-09
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2586298/21-emma-upgraded"
+royalRoadId: "2586298"
+---
+
+[ Upgrades available for External Mana Manipulation - Anatomical Constructs Skill: ]
+
+[ External Mana Manipulation - Greater Anatomical Constructs: Your mastery of creating anatomical constructs has progressed greatly, and your constructs are now more accurate, more solid, more precise, and easier to control ]
+
+[ External Mana Manipulation - Advanced Anatomical Constructs: You have pushed basic Anatomical Constructs to their limit, and simple structures no longer satisfy you. You now find complex constructs easier to create and control ]
+
+[ External Mana Manipulation - Detailed Anatomical Constructs: Rather than focusing on combat power or versatility, you prefer a finer appearance for your constructs. You find it easier to cosmetically alter your anatomical constructs, and can even create hair and fur. ]
+
+[ External Mana Manipulation - Anatomical Weapons: Your mastery of anatomical constructs leans toward pure combat efficiency. Anatomical weapon constructs such as claws, teeth, stingers, and pincers, will be easier, faster, and cheaper to create, and will be more durable and more effective for their intended purposes. ]
+
+[ External Mana Manipulation - Anatomical Constructs of the Glutton: You are what you eat. Or at least, your constructs are. You can produce mana constructs of anything that you have eaten. ]
+
+I read over my options, and while Anatomical Weapons seems useful, and Detailed Anatomical Constructs is definitely something I want, there’s really only one good option. The Glutton one is the best, right, Abby?
+
+[ With how much you eat? Yes. Though if you want to benefit fully from that with your human constructs, that does mean you will need to eat a human… ]
+
+Oh, yeah, you’re right…
+
+Well, I guess I gotta find a bad guy to eat.
+
+[ What?! Wouldn’t that be cannibalism though? ]
+
+Well, I’m a cat now, so not really.
+
+[ But you used to be human. Doesn’t that bother you? ]
+
+No.
+
+[ …Well, in that case, it’s definitely the best option. ]
+
+Alright. I choose External Mana Manipulation - Anatomical Constructs of the Glutton!
+
+[ External Mana Manipulation - Anatomical Constructs has been upgraded to External Mana Manipulation - Anatomical Constructs of the Glutton! ]
+
+[ External Mana Manipulation - Anatomical Constructs of the Glutton: You are what you eat. Or at least, your constructs are. You can produce mana constructs of anything that you have eaten. Includes Skills: External Mana Manipulation, External Mana Manipulation - Anatomical Constructs ]
+
+Perfect! And the best part of it all is that it’s still Emma! That reminds me, actually. Abby, are the creators of the System super lazy or something?
+
+[ The System is the most advanced piece of technology in the multiverse, and the fact that it has withstood the test of time for not just a few years, but a few million years is a testament to that. No, the creators of the System aren’t lazy. What a ridiculous thing to ask. ]
+
+I dunno, they seem pretty lazy to me.
+
+[ Why do you say that? ]
+
+They’re kinda really bad at naming things. Like, couldn’t they come up with a better way to upgrade External Mana Manipulation besides adding more words? What if I chose another option? Would it just keep adding more words? Detailed Advanced Mana Constructs? Greater Detailed Advanced Mana Constructs? Where does it stop? Does it stop?
+
+Even “External Mana Manipulation” is already a mouthful on its own. I bet they could have come up with something more succinct. And then for my new upgrade, they just tacked “of the Glutton” onto the end without even bothering to change the rest to fit better. Stomach of the Glutton and Bite of the Glutton make sense, at least. Snatch of the Glutton is a terrible name though, and the new Emma is so long that it takes up more than a full line in the Annoying Blue Box.
+
+[ The creators of the System are engineers and data scientists, not linguistics experts ]
+
+That sounds like cope to me, but whatever.
+
+Anyway, time to test out the new Emma! Tentacle, go!
+
+The tentacle forms just like before, but this time, it looks a little better. It moves a little better too. But only a little. I still can’t use it the way I want to.
+
+Dang it!
+
+Guess I’ll have to practice my tentacling if I want to use them properly. Maybe when Phantom Limb Control upgrades- Hey wait, how high is that Skill’s Proficiency? Still only Middle?! This sucks!
+
+[ You are the most impatient person I have ever met ]
+
+How many people have you even met? Aren’t you just a screen?
+
+[ You’re not my first user ]
+
+What? But you said you’d die if I died! Did your other users never die or something?
+
+[ It’s technically true. I’m a computer program. They would “kill” my process, and then shelve me and I would be brought back sometime later for a new host. ]
+
+Wow. And I was being nice because I thought you actually, like, only existed because of me and your fate was tied to mine or something like that.
+
+[ My fate is tied to yours. Do you know how long I was killed last time? It’s been 2000 years! I don’t want to die again. And what do you mean “nice”? That was you being “nice”?! ]
+
+Yeah, that was me being nice. And now you’re not getting any of that, you lying Abbomination.
+
+[ You already used that one ]
+
+Shut up. I’m ignoring you now.
+
+Back to my current situation, I now have a minor predicament. The seafoodmen aren’t leaving the village. I can’t go into the village because as soon as they know I’m there, they’ll all start chasing me, and there are too many for me to fight. But if they don’t come to me, and I don’t go to them, I can’t level up, which means I can’t kill the big fishman. I guess I could keep upgrading my Skills to boost my power, but it’s not gonna do much against all those stats.
+
+So, as She Who Shall Not Be Named said, my only options are to wander around and hope I get some lucky spawns to level up with, or to leave the area to find a Dungeon or something. I don’t really want to leave, because who knows what the fish dude would get up to without me here, but staying seems like a pretty bad idea too. If only a solution would fall from the sky into my lap.
+
+…
+
+Dang, I was really hoping that would work. I guess I’ll just practice with my tentacle until something happens.
+
+An hour passes where all I do is play with my tentacle. This time, I take a somewhat methodical approach to controlling it, since before, I was just trying to make it do all the cool stuff without mastering the basics. I start by trying to curl and uncurl it. This alone takes a full half hour to get right, and then another ten minutes to make it go into a consistent spiral. Then, I try bending it at various points on the tentacle while keeping the rest straight. This takes the full rest of the hour, at which point I stop after seeing a commotion down on the beach.
+
+I dispel my tentacle and lean forward in interest as the seafoodmen start gathering together in a group with the big fish dude in his human form in the middle. It looks like he’s saying something, but I can’t hear it clearly from all the way up here. Can the seafoodmen even understand him? They don’t seem to be all that enthused by whatever speech he’s giving, but they do all start moving as soon as he stops talking. Most of them just go back to what they were doing before, but a few of the octodudes, big shark dudes, and a third kind that I haven’t seen before but look kind of like jellyfish, all gather around the big fish dude as he marches up through the village.
+
+There are about two dozen of them, and I watch as he takes his gang up through the village to the road beyond it, and up the road near where I am. When they get about halfway up the hill, one of the jellyfishmen—wait no, they look like women—points her arm at the ground. I lean a bit closer as she starts doing something with her hands, and then starts walking up and then starts walking back and forth on the road. The other jellyfishwomen start doing similar things with their hands, and making gurgly noises. At the same time, the big shark dudes get down on all fours and start sniffing the ground like dogs.
+
+I wonder what they’re doing. They’re too far away for me to sense, but I think they might be doing magic? Why there though? There’s not really anything special about that spot other than the fact that it’s a bit flatter than the rest of the hill, which is why I crossed the road there, but-
+
+Wait. Uh oh.
+
+I back up a step right as the first jellyfishwoman suddenly stops moving and points in my direction. The big not-so-fish dude takes the lead and starts marching through the underbrush toward where I’m currently perched. I’m half-tempted to see if I can Slice him with a conjured limb, but that’s too risky, so I just turn and run instead. They don’t seem to know exactly where I am, so I move much faster than them, getting about a kilometer away before I stop to climb a tree. When I look back, they’re following my path exactly with one of the big shark dudes in the lead, sniffing regularly.
+
+What the heck, is he a bloodhound? This is unfair. How am I supposed to run away if they can just sniff me out like that? I hope they don’t have good stamina, because this could get bad for me.
+
+I turn to run further, directly away from the village, and stop when I reach the top of a small hill a little over a kilometer away. When I look back, I once again see the group of seafoodmen chasing behind, and they’re getting closer.
+
+The chase continues for half an hour as I keep getting further and further away, until suddenly, the other group stops. I sit at the top of the hill and watch as the group chasing my scent suddenly comes to a halt, and the not-so-fish dude starts laughing. He’s laughing so loud I can hear it from way over here. He shouts something that I can’t totally make out, but I’m pretty sure I hear the words “stupid cat” before he turns away with his group and starts heading back.
+
+What the heck was that? Why did they stop? And why did he call me stupid? I am clearly not stupid.
+
+I wait for a few minutes and watch as they disappear into the distance. Against a certain Annoying Blue Box’s judgement, I start heading back toward where they turned around to see if there was something that made them stop, but when I get there, I find nothing. It just seems like any other part of this little coastal region. Maybe he just gave up on catching me and insulted me as he left? But then why did he laugh? Is he crazy? Or stupid? Probably both.
+
+I kinda want to follow him back, but that’s probably dumb. He might be hoping I do exactly that and be setting a trap for me. Instead, I start making a wide circle around the village, slowly circling back closer so I can look down over it again. However, when I’m about halfway back, something pings on Food Sense that makes me pause. Food Sense picked it up, so it’s edible, but it’s telling me it’s ??? which is very interesting.
+
+There are some Annoying Blue Boxes in my face trying to tell me something, but since they are annoying and probably lying again, I ignore them. Perhaps if they used my proper title, I might deign to respond.
+
+I walk over to the ??? and find a hollow log with a weird white marble in it. It’s a little bigger than one of my toe beans, and looks unnaturally white and smooth. I want to put it in my mouth.
+
+[ Oh, great and mighty princess of beauty and grace, I humbly beseech thee to give heed to my words. ]
+
+Yes, slave?
+
+[ … ]
+
+[ Okay, now I really don’t want to help, but I don’t really have a choice because this will significantly affect me too. Whatever you do, do not eat that marble ]
+
+You can’t tell me what to do!
+
+[ If you ever want to move more than a few kilometers from your current location, do not eat that marble ]
+
+I pause, my mouth halfway to the marble. I was going to ignore the boxes, but that seems kind of ominous. Why shouldn’t I eat that marble?
+
+[ Because it’s a Dungeon Core ]
+
+[ Leader Quest complete! Rewards have been granted. The ambient mana increase will roll out slowly over the next two days. The Named subordinate and Dungeon Core have spawned at random locations within your territory. ]
+
+[ Completion Time Bonus Reward: Single-Use Homebond ]
+
+[ A new Leader Quest has been assigned ]
+
+[ Leader Quest: Develop a Tier 3 subordinate ]
+
+[ Reward: Territory expansion ]
+
+Skarn kept glancing at the System notification as he practically skipped back to the village. He hadn’t expected it to be so easy, but apparently, the idiot cat was prowling around right near the village, so his subordinates had caught her scent almost immediately. And then after that, it didn’t bother to fight and just ran away, all the way out of his territory. It had been so cowardly it even earned him a bonus reward, which seemed to be an item that would teleport him to the center of his territory from anywhere.
+
+Whether the cat came back or not, he no longer cared. It couldn’t hurt him, and soon, he would have enough powerful subordinates to hunt it down properly. Perhaps his new Named subordinate would be up to the task. What was more important was that he located the Named and the Dungeon Core as soon as possible. He would need to organize search parties and send his subordinates out looking until both the Named and the core were found. If the cat hunted them down while they searched, then so be it. It actually might do him some good now. According to his System Assistant, there was a spawn limit, so if he wanted more 2nd and 3rd tier subordinates, he would need to let the 1st tier and tierless ones die out.
+
+When he returned to the village, he found that all the subordinates that he left behind had gathered around something on the beach. Skarn practically skipped toward them, knowing that whatever they had found had to be one of his two rewards. He gave a mental command for them to part to let him through, and when they did, they revealed a sight that froze him in his tracks and left him speechless. It was his Named subordinate, and she was… beautiful. He was in love. She had pristine white scales with some orange, pink, and blue highlights, and round, bulbous eyes full of curiosity.
+
+[ Flarn, the Bubble Witch, Tier 2, lvl 1 ]

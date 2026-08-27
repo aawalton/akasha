@@ -1,0 +1,181 @@
+---
+id: 3dc99f92-2682-595a-a6ff-34745e60d379
+page-type-slug: story-chapter-royal-road
+title: "16: Time of Peace"
+slug: 0016-16-time-of-peace
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 16
+ownLength: 2191
+unit: words
+publishedAt: 2025-08-25
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2546692/16-time-of-peace"
+royalRoadId: "2546692"
+---
+
+Baron William couldn't sleep just yet. The hour was late. Yet, his bed, despite being the finest the village could offer, was far too humble to cradle a mind as overburdened as his.
+
+The Baron stared at the ceiling. He’d never actually slept in a village before, not properly.
+
+Oh, he’d visited, certainly. But to live among the common folk, however briefly? That was quite new. A whimsical attempt to "connect with the people," as one of his more progressive cousins might say. And yet, that innocent countryside getaway had rather spectacularly devolved into a bandit ambush, and here he was, alive, housed, and thoroughly rattled.
+
+Much had transpired since the day he first encountered Chloe. Never in all his years would William have imagined she’d be so capable.
+
+Not only had she saved him from the bandit ambush, but she had gone on to save an entire village from a goblin raid, alone no less. And, as if that weren’t enough, she had taken it upon herself to wipe out the goblins’ lair afterward.
+
+There was, however, one small complication. Some of the villagers had seen her fight, and what they saw had raised questions.
+
+William himself had been surprised. The girl fought with reckless abandon, seemingly unfazed even as her limbs were blown apart. He could have sworn that her severed leg had moved of its own accord before too.
+
+The Baron knew the girl wasn't normal, but he never imagined anyone like Chloe could exist. He was especially shocked when he saw her recover from her many injuries with such ease, even reattaching her own limbs. It was a sight that no doubt at least some of the villagers had also witnessed.
+
+Fortunately, eloquence had always been one of William’s strong suits. With a touch of charm, it hadn’t taken much to convince the villagers that Chloe was merely an eccentric adventurer with an unusual set of magical abilities. There was no need for unnecessary rumors to take root.
+
+The baron much preferred that as few eyes as possible turned in Chloe’s direction. It would be troublesome, after all, if other parties began to take an interest.
+
+Grateful though he was for all she had done, that gratitude did little to change his original intention. He still meant to be the first to inform the capital’s mages of her existence.
+
+There was, he admitted, a small part of him that felt a twinge of guilt at the notion of quite literally selling Chloe out. But then again… his coffers weren’t going to refill themselves, and sentiment had never been a particularly profitable indulgence.
+
+All he needed was to get her back to his estate. Once Chloe was there, he simply had to keep her around long enough for the “scholars” to arrive. After that, he could begin to reap the rewards.
+
+***
+
+It was during her brief time among the living that Chloe first learned about a strange ritual most humans practiced: sleep. Something far more intense than ordinary rest.
+
+Apparently, it involved lying down for hours and doing absolutely nothing. The whole idea sounded ridiculous to her, why waste so much time just lying there when you could be eating something? Or hitting something? Or, better yet, eating something after hitting it?
+
+So, while the humans snored through the night, Chloe slipped out of the village to go exploring. The forest nearby was dark, damp, and crawling with odd creatures that made funny noises when she poked them. She tasted the brains of a few; some were scaly, one was fuzzy, and not a single one had brains that tasted good.
+
+When the sky finally started to brighten, she headed back toward the village, feeling a little restless. There really wasn’t much else to do.
+
+Now, she sat in what she guessed humans called the “village square.” It was just a big empty space between buildings, cluttered with barrels, a well, and far too many humans shuffling about, yawning and stretching.
+
+She perched on a low stone ledge and watched the sleepy village creak back to life. So this was morning. It had a kind of quiet charm to it, in its own sluggish way.
+
+Humans trickled out of their homes one by one, and the sight amused her. They didn’t all rise together like she expected, some moved fast, others dragged their feet, and a few just wobbled outside to stare blankly at the sun.
+
+The earliest one out, besides her, was that wrinkly old guy. The village elder.
+
+He gave her a kind smile as he walked past, nodding politely. “Good morning, Chloe."
+
+She blinked, then remembered what the Baron had told her last night. Humans like it when you say stuff back. It’s called being polite, I think.
+
+“Good morning, human,” she said with a little wave.
+
+The man chuckled and carried on. Okay. That was... not awful. He looked happy. Why does that make me feel kind of happy? Weird.
+
+So, Chloe kept doing it. Every time a villager passed through the square, she'd wave or nod or mutter a greeting. Sometimes she got a smile. Other times just confused blinking. One guy nearly dropped his bucket of water when she spoke. That was pretty funny.
+
+She didn’t get up or move around much, just lounged in the center of things. Occasionally she'd drag a stick across the dirt and draw squiggles.
+
+More humans were waking up now. Some were setting up tables. Others were already chatting about the feast. One kid was running around with a stick, pretending it was a sword.
+
+Chloe had just finished poking at a particularly fat bug with a twig when she heard the giggling. Wonder what's that all about?
+
+She looked up. A group of small humans had gathered near the square, whispering to each other and staring at her. One of them, a boy, stepped forward with his chest puffed out. “Hi! We’re playing tag, wanna join?”
+
+She stared at them, unimpressed. “Why would I want to chase squishy humans around in circles?”
+
+The kids exchanged looks. One of them, a girl, cupped her hands and shouted, “What’s the matter? You chicken?”
+
+Chloe blinked. Chicken?
+
+She had no idea what that was. But the tone was clear. “I don’t know what a chicken is… but you’re going to regret calling me that.”
+
+The next few minutes were chaos. Screaming, giggling chaos.
+
+Chloe sprinted after them. The kids shrieked in delight, darting between barrels and fences and occasionally each other. She tagged one of them with a theatrical leap and an exaggerated “Gotcha!” before bolting off again.
+
+And honestly? It was fun.
+
+Apparently, this was a “game,” and it had rules. You could only tag someone if they weren’t already “it.” And you couldn’t leave the square. Weirdly strict for something so simple.
+
+Chloe tagged a red-faced boy and dropped beside him. “Okay, I have a question.”
+
+The boy, panting heavily, blinked at her. “Yeah?”
+
+“Why do the rules matter? Why not just grab everyone and win immediately?”
+
+“Because then it’s not a game. Rules make it fair. If anyone can do whatever, it stops being fun.”
+
+Chloe tilted her head. “Oh, okay. I'm still gonna win, though.”
+
+"Nuh-uh, I'm just warming up, you'll see!"
+
+"Right…. I definitely believe you."
+
+The kids and Chloe kept playing through the square. At one point she tried climbing a barrel to get to high ground. At another, she nearly tripped on her own boot.
+
+Until suddenly, she collided with something tall. Chloe tumbled backward, landed on her butt, and looked up.
+
+Baron William was sprawled on the ground, looking… really tired. She couldn’t help but wonder what he had been up to to end up like this.
+
+The Baron groaned, his limbs protesting as he pushed himself upright slowly. “Chloe, my dear… you descend upon the world with all the grace of a cathedral bell flung from its tower. A flying anvil would have the courtesy to slow down. If subtlety were a dance, you would be the cymbals. Not played, dropped. From a great height.”
+
+Chloe had no idea what he said, and shrugged. It was clear that being tired wasn't enough to stop the Baron from talking like his usual self. “Thanks?"
+
+Brushing himself off, he finally stood and straightened his clothes. “Anyway. I was looking for you.”
+
+“Uh-huh. You found me. Congrats.” Chloe said.
+
+William gave her a flat look, then continued, “After speaking with the villagers, I’ve confirmed that this place is only a few days’ journey from Kelvane. On horseback, of course. I’ve acquired a wagon. And two horses, miraculously unharmed. It seems the goblins avoided destroying the stables. Likely they wanted to save the livestock, and not only that…"
+
+Chloe tilted her head. Kelvane… Kelvane… that was the place Baron Willy had been going on about. Whatever it was, she figured she’d just let him finish his speech before worrying about it.
+
+She waited patiently, throwing in a few nods here and there like she totally understood every word. When the Baron finally wrapped it up, Chloe gave him her brightest grin and a simple, “Neat.”
+
+After that, Baron Willy insisted on taking a walk. Something about “stretching his legs” and “getting a feel for the village.” Chloe tagged along, partly because she was curious, and mostly because there wasn’t much else to do until that promised feast.
+
+They wandered along between cottages and carts, past little gardens and lines heavy with clothes. Kids zipped by, shouting her name to get her to play with them. A woman gave her a wave while hanging up shirts, and even a man fixing a roof stopped what he was doing just to smile at her. It was strange, none of them looked scared of her. Not even a little.
+
+But as they walked, William talked. And talked. And talked.
+
+“This building is a granary,” he said, pointing at a squat wooden structure.
+
+Chloe tilted her head. “What’s a granary?”
+
+“A place to store grain.”
+
+“...What’s grain?”
+
+He blinked. “Food, well, food for other food, in many cases. Or rather, food that becomes other food. Grain is a foundation, you see. We grind it into flour, which is used to make all sorts of foods, such as pastries, noodles, and cakes."
+
+“Oh, that's uh, okay I guess.”
+
+Later, they passed a small fenced-in area filled with clucking, feathered creatures strutting about with self-importance.
+
+“These are chickens,” William announced with a sweeping gesture.
+
+Chloe’s eyes narrowed. So that’s a chicken.
+
+“Can I eat them?” she asked, already licking her lips.
+
+“Not these ones, they’re for eggs, and far more valuable alive than roasted.”
+
+“Then can I eat eggs?”
+
+“Technically yes, but… best not to. These aren't our chickens after all."
+
+By the time Chloe and William circled back to the square, she had seen more human activities than she ever imagined. Washing, sewing, hammering, simple, ordinary things, yet oddly fascinating to watch. Maybe humans weren’t all that bad. At least, not these ones. They hadn’t tried to stab her or scream in her face even once, which she found to be quite impressive.
+
+When the sun dipped low, the square transformed. Villagers poured in with excited chatter. Tables creaked under the weight of food, benches filled with smiling faces.
+
+Chloe took her seat and scanned the feast laid before her. Roasted meats. Stewed things. Breads. Soups. Sweets. But something very, very important was missing.
+
+She stared at her plate. Then at Baron Willy. “I don’t see any brains.”
+
+William, who had been eating something, froze mid-motion, his expression tightening ever so slightly. “Ah. Yes. About that. I’m afraid the consumption of brains of any kind was outlawed in Ishgria quite some time ago. Caused quite the stir, especially among those who considered the brains of certain animals a cultural delicacy. But alas, the Crown deemed it a public health matter. Ethics, taboos, disease prevention, the usual parade of civilised concerns.”
+
+“Is it okay if I just don't eat anything then?"
+
+"No, that would be rude. A guest refusing food at a celebration is an insult that ruptures goodwill. So please. Just eat the meat at least. These kind people went through quite a lot of trouble after all."
+
+With great reluctance, Chloe stabbed a piece of roasted something and shoved it into her mouth. It was chewy, smoky, and kind of juicy. Okay. Fine. This isn’t the worst.
+
+She tried another bite. Then another. Still no brains, but it was warm and filling enough. The vegetables, on the other hand, were a firm and immediate no.
+
+Chloe slumped back in her seat, shoving the offending greens to the edge of her plate with clear disdain. Brains would’ve been so much better.
+
+The Baron had promised her scholar brains. A scholar was this fancy magic human, if she remembered right. That thought alone was enough to make her grin. Magic brains were the best brains. Zarruk’s was amazing, and he was just a goblin.
+
+The brains of human scholars though? Those had to taste incredible. Unfortunately, Chloe figured she’d have to wait until she reached that Kelvane place.

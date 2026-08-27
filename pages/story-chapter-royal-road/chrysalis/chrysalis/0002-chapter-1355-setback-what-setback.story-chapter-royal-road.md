@@ -1,0 +1,101 @@
+---
+id: 75ca1808-ccb2-5c79-ab4a-60d267b9809c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1355 - Setback? What Setback?"
+slug: 0002-chapter-1355-setback-what-setback
+partOf: chrysalis
+position: 2
+ownLength: 1131
+unit: words
+ownProgress: 1131
+publishedAt: 2024-06-17
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1679935/chapter-1355-setback-what-setback"
+royalRoadId: "1679935"
+markedReadAt: "2026-06-29T19:43:43.088Z"
+---
+
+The Colony possesses a trait that is uniquely ascribed to it and to it alone, among the advanced, thinking societies that have emerged on Pangera. And that is, you can almost view them as a single entity, a super-organism, so to speak, due to how united in purpose they are.
+
+Disagreements, or different approaches, are almost absorbed as part of the process, as millions of individuals work to bring about a single outcome: the betterment of the whole. It’s almost comical how incorruptible they are. Even more than a society, they are a unified mass of constantly shifting components that give the appearance of a society, while concealing their true nature. The Colony is not a people, or a country, or a kingdom, or an empire. They are a single beast. One Creature. One Mind. One Purpose.
+
+-           Excerpt from ‘True Threat’ by the propagandist Erdagon
+
+The best way to put your troubles behind you is to keep pushing forward, find something else to do. So that’s exactly what I get to doing. With Tiny, Crinis and Invidia beside me once again, we throw ourselves into the long list of jobs Victor has put in front of me. Escort construction teams down into the tunnels? No problem, we’ll get them there lickety-split. Fight off a raid from some sort of crystalline cow-looking things? Of course! They will crumple in the face of Tiny’s fists. Stand guard while an excavation team takes mineral samples from a potential mining site?
+
+I mean… it’s boring as heck… and surely you can get someone else to do this… but fine! We’ve got it!
+
+All the while, the thriving and vibrant energy of the Colony wraps around me like a warm blanket. Every day that goes by, the family becomes stronger, more secure, and my confidence grows. It’s hard not to grow, with so much zest and vigour being pumped directly into my veins via the Vestibule. The enthusiasm and drive of my siblings is contagious. I can’t help but catch the bug and throw myself into every task with determination and vigour.
+
+It’s heady stuff.
+
+It takes barely two days to crush through Victor’s list, leaving the general scrambling for things for us to do. At that point, I tell her not to bother and to let me know if anything else comes up, something they need me and the squad to take care of. Something that isn’t guard duty on mining expeditions.
+
+It’s at that moment the general twitches as if she just recalled something.
+
+“Oh yes, Eldest. There is one thing that you should look into.”
+
+There’s something off about the tone of her scent…. I can’t quite put an antenna on what it is, but she sounds… shifty.
+
+“Oh? Is it more pointless guard duty? Anyone can do those jobs, you don’t need a pack of mythic monsters to take care of them.”
+
+“I thought only two of you were mythic?”
+
+“We are all mythic in my eyes!” I shoot back. I will accept no prejudice against Invidia and Crinis! They’re bound to be mythic after their next evolutions, so there’s no harm in counting them early!
+
+“Well, that’s fine, I understand what you’re saying. We are stretched thin down here Eldest.”
+
+“There’s hundreds of thousands of us!”
+
+“And you might have noted that the monsters here are not like the ones we fight in the first stratum,” the general replies a little snippily. “Maybe you can pulverise giant lizards with hardened rock shells, or sea krakens, or water elementals, without twitching a mandible, but it's considerably harder for the rest of us. Each task requires a greater commitment of numbers, a greater amount of organisation and logistical support just to get anything done down there!”
+
+Well… that’s a good point. I’ve evolved and kept myself stronger than everything I fight, but this is certainly not true for most ants. Hardly any of them have fully reinforced cores when they evolve, and even fewer get special cores, let alone rare cores, to expand their capacity before evolution. There are millions of us at this stage, millions, and all the cores and Biomass that can be spared get funnelled towards the next generation. That means our young hatchlings are coming out of the antcademies stronger than ever, which is great! But after that point, their growth begins to stagnate. Against the more powerful monsters of the fourth, the ants need greater numbers to get anything done. It’s totally understandable, but I still feel a little sad about it.
+
+Hopefully, the cores that come in from the trading we will do can be diverted into strengthening those battling on the front lines. Obviously, it's important to make sure every grub grows up to be as strong as possible, I instituted that policy after all, but we need to ensure the rest of the Colony doesn’t fall behind.
+
+“Alright then, what is this job you have for me?” I sigh.
+
+Mentally, I’m bracing for something tedious, but I’m still surprised and a little suspicious when I get the answer.
+
+“We need you to welcome and escort a VIA.”
+
+My antennae twitch.
+
+“What in the name of all that is good and six-legged is a VIA?”
+
+“That’s not important. Just focus on doing the job well.”
+
+“Okaaaaay.” That’s not weird. “You want to meet, and escort, this VIA. Where do I meet them? And where am I taking them?”
+
+“You’ll meet them at the teleportation gate, obviously.”
+
+“Wait, I thought we hadn’t connected our gates to any outside networks?”
+
+“We haven’t.”
+
+Fine. So they are coming from within our own network.
+
+“And who is this, VIA? Am I allowed to know that?”
+
+“I’m afraid not. This mission has the utmost level of secrecy. You’ll understand everything when you meet them at the gate.”
+
+“Fine. How long do I have until they arrive?”
+
+“About an hour.”
+
+“So soon!”
+
+“Well… yes.”
+
+Despite feeling like something very odd is going on, I head on over to the gate hub and take my time resting as the minutes tick by. A VIA? What the heck is a VIA? And since when did we use terms like that anyway?
+
+I was hoping to start planning for the invasion of the fifth and take part in my first expedition, but instead they want me to sit around and meet someone? Who the heck could possibly be worth it?
+
+When the time finally arrives, the gate flashes bright as I stand and approach. When the light finally dims, a large, insectlike form is revealed, antennae wiggling as they take in the new sights and sounds… and smells. Obviously.
+
+“Ahhh. Very Important Ant. Makes sense.”
+
+THWACK!
+
+OUCH!
+
+“I’m no more important than anyone else in the family,” my mother says, clacking her mandibles huffily.

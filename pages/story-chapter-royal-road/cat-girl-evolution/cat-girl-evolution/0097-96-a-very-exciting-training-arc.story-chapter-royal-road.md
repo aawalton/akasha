@@ -1,0 +1,119 @@
+---
+id: 452ff06a-ee82-59eb-b708-5c0bc334f825
+page-type-slug: story-chapter-royal-road
+title: "96 - A Very Exciting Training Arc"
+slug: 0097-96-a-very-exciting-training-arc
+partOf: cat-girl-evolution
+position: 97
+ownLength: 2514
+unit: words
+publishedAt: 2026-03-04
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3114595/96-a-very-exciting-training-arc"
+royalRoadId: "3114595"
+---
+
+When I get back, the others immediately sit me down like it’s an intervention and tell me that I’m not allowed to be eating out in public for the time being. It’s ridiculous and unfair, but apparently, my evolution made a ripple thingy that made the entire city super hungry, and now everyone knows that there’s someone or something with Stage 7 Gluttony around, and the Guild is actively hunting them. With Arianne in my corner, I don’t have too much to worry about in the long run, but for now, I can only eat what Lauren makes, or what they bring back for me.
+
+On the bright side, Lauren has apparently been doing a ton of cooking since I’ve been gone, so not only is there plenty for me to eat, but her skills have improved since I started my evolution. She summons a few dishes for me to munch on, and then the conversation continues on to what they’ve been doing while I was evolving.
+
+The four of them formed a Party, and have been basically doing non-stop Dungeon raids the whole time. They hit Platinum pretty quickly after we got here, and they’ve all put on a few more levels since then as well. And those levels were strong too. Them being Platinum means that their Classes are Tier 4, so even though I have a crazy species and ridiculous Titles and stuff, their stats are growing even faster than mine.
+
+A and B never really had small mana pools, but even with my evolution, theirs are now bigger than mine. Of course, that doesn’t count the functionally infinite mana that I can have via my Stomach, but in terms of raw mana in their bodies, they have more than me. Chad and Lauren’s physical stats are comparable to mine too. I mean, their Power probably already outdid mine, but Lauren now has more Finesse, and Chad has more Resilience than me. That Tier 4 stat growth gets pretty crazy. Overall, I think I still have the highest stat total, but A and B are very close, and the others aren’t far behind.
+
+Other than their Class Upgrades, nothing too exciting happened, though. They got stronger and earned a bit of a reputation as Dungeon maniacs, and I apparently have a reputation of being mysterious and reclusive. And that reputation is only gonna grow, since I’m not allowed to leave and eat, and I’m about to begin my training arc.
+
+Once we finish catching up, I briefly explain my new Appoint Skill, and then assign them their roles. Chad is very happy with his. His Knight role gives him a flat 10% stat boost, which is more than welcome. There is a caveat that he has to be protecting me to keep it, but by just living nearby and being a member of my Party, that seems to count.
+
+The twins seem satisfied as well. The Advisor role is a little more complex, but it gives them the same stat boost as long as I am satisfied with their advice. That condition is a little nebulous, but apparently, I am already satisfied with their advice, probably from that time they taught me about magic, so they get the bonus.
+
+Lauren, however, is not happy.
+
+“Handmaid?!” she exclaims. “Why do I have to be a Handmaid?!”
+
+“That’s the only role left,” I reply.
+
+“You’re lying.”
+
+“When have I ever lied to you?”
+
+“Literally the first time we met.”
+
+“Okay, but that was different.”
+
+“There has to be another role.”
+
+“Nope,” I say. “I think that there might be more in the future. I’ll give you the Royal Chef role when I get it!”
+
+“Yona…” she says in a warning tone.
+
+“Hey, I’m telling the truth! It’s the only one left. But hey, on the bright side, all you need to do is keep making me food, and you get to keep the stat boost!”
+
+Lauren doesn’t seem too happy about that, but she grumpily accepts it. The Handmaid role gives her a stat boost as long as she’s serving me, and of course, cooking for me counts as serving me. It’s really easy, and it suits her well. The Butler role is actually identical too, which makes me wonder why they’re separate in the first place, but oh well.
+
+My Infiltrator Quest turns out to be really easy. I thought it was gonna be something about true friendship or tricking people or something like that, but all I had to do was ask the others to call me a friend and they did, and the Quest completed. It didn’t even give me a level, which is annoying, but Abby says I’m probably actually behind on my Infiltrator Quests compared to my level, so I guess it makes sense.
+
+With that settled, I pop downstairs to say hi to Annie, and also have a look at the miniature battlefield-zoo thing that Chad carved. Annie seems kinda depressed, but she doesn’t really say anything to me. She’s been locked up here the whole time, though, so she probably doesn’t have too much interesting to say anyway.
+
+After that, Lauren shows me where my room is, and I kick everyone out so I can nap. I spend the next two days in a napping and eating cycle, and on the third, Lauren finally gets me off my ass to start my training. It’s annoying, because the napping and eating cycle is very comfortable, but I did promise I’d do some training after my Evolution, so I really don’t have a choice.
+
+From then on, my daily schedule is eat, train, eat, nap, eat, train, eat, sleep. In the mornings, I train with Lauren and Chad on using my body and internal mana manipulation. In the evenings, I train with the twins on magic and external mana manipulation. And in both training sessions, we work on improving my Class Skills as much as possible.
+
+During this time, I don’t go into any Dungeons, which is annoying, but necessary. I’m on the verge of my Class Upgrade, so whatever training I’m gonna do, I need to do it before that so that my Class Upgrade options will actually be good. That means no more new meats. That’s probably a good thing, since I haven’t even figured out what to do with all my old meat yet, but some more variety would be cool to have.
+
+Whenever I have the energy to do so, I join Lauren for her cooking sessions, and since my Profession is still only Tier 1, it levels up very quickly, and evolving more or less how I want it to. I become an Automated Cook, which is pretty much what I wanted, though the quality of the food is a little lackluster, since it’s still only “cook” instead of “chef.” Apparently “Chef” Professions get some cool Skills for improving flavor that I’ll have to wait until next Profession Upgrade to get.
+
+Aside from that, though, there’s only one important change: Spatial Slice reached Peak Proficiency. And even better, aside from one, all the options were actually really good. There was Greater Spatial Slice—blech—Spatial Slice of the Glutton, Spatial Multislice, Rending Slice, Remote Spatial Slice, and Charged Spatial Slice. Obviously Greater Spatial Slice got crossed off the list instantly, and Spatial Slice of the Glutton did too. I don’t really need that Skill to be better at cutting edible things because it’s already really good at cutting edible things, and adding other aspects to it would be more useful.
+
+Multislice was the next to go, since I can already replicate that on my own with my claws (though Abby said the Skill would make it cheaper). Rending Spatial Slice goes next, since Rend is more chaotically destructive, making its utility overlap with my explosive Skills like Fireball and Spiral Mana Burst, and losing some of Spatial Slice’s penetrative power. Between the last two options, the decision is extremely difficult, mostly because I can use my Gluttony to abuse the hell out of both of them.
+
+Remote Spatial Slice basically sends my attack through a tiny, paper-thin portal to hit somewhere further away. The two drawbacks to this are that it’s pretty obvious where it’s going to hit if you’re paying attention to the mana, and you can only put the exit portal in a place where you can clearly sense. The first drawback is unfortunate, but can be somewhat remedied by upgrading the Skill’s Proficiency, while the second is entirely negated by the existence of Food Sense. With this Skill, I could hit people through walls and around corners or with my back turned to them without any issue at all.
+
+Charged Spatial Slice lets me charge the attack up for way longer than usual, and pack it full of way more mana than usual. In an actual fight, of course, this would not be useful. Standing still for a full minute to charge an attack would never work. However, I have Stomach of the Glutton. I can do that minute of charging from the safety of my home, then store it away and launch it at a moment’s notice in a battle.
+
+In the end, I choose Charged Spatial Slice. Remote Spatial Slice is cool, but I can also kinda replicate that one with my mini head constructs, and it’s too situational. I can’t think of many times that I’d need to attack someone on the other side of the wall when teleporting to the other side of that wall wouldn’t be an option. On the other hand, having an ultra powerful Spatial Slice has many uses.
+
+Other than Spatial Slice, though, nothing much really changes. Spiral Mana Burst turns into Compressed Spiral Mana Burst, which is identical but stronger, and Autonomous Mana Shield turns into Compressed Autonomous Mana Shield. Both are lame upgrades, but I kinda didn’t put too much effort into either Skill, and the twins say that “Compressed” is a strong descriptor, so it’s whatever.
+
+The rest of my Skills either don’t reach Peak Proficiency, or are tied up in Gluttony and can’t upgrade independently anymore, so no changes there. At least, not on my Royal Status Window. I did find out something very useful with Internal Mana Manipulation, and how it interacts with my new Trait, Adipose Reserves.
+
+Just as Abby reassured me, I am fully capable of handling the fat that grows on my body because of the new Trait. It grows in all my forms, unfortunately, so even my beautiful, perfect cat girl form puts on weight when I eat, but I can just siphon the fat off and all is well. However, even once separated from my body, that fat is still a valid target for Internal Mana Manipulation somehow. I have no idea how or why that works, but it does, and I’ve built up a pretty sizable reserve of fleshy constructs in my Stomach.
+
+I also made some biscuits from Yona Lard™, but for some reason, none of the others were willing to try them. More for me, I guess.
+
+After a month of this, we agree as a group that I’m about ready to upgrade my Class. According to them, my progress is ridiculously fast, and that’s true, but sadly, I can’t say it’s talent. It’s mostly because I’m cheating. With Anatomical Analysis, I have a perfect understanding of my body, and with Food Sense, I can tell exactly how Lauren and Chad are moving mana through their bodies, so it’s easy to copy them. And while my progress on stuff like Compressed Spiral Mana Burst and Compressed Autonomous Mana Shield is only above average, according to the twins, my progress on anatomical constructs is absurd, once again due to Anatomical Analysis and its synergy with Gluttony.
+
+Unfortunately, despite being ready, I can’t actually upgrade my Class yet, because my Evolution hasn’t stabilized. Last time, it only took a couple days, but I guess that since it’s Names and not just Evolutions, it’s taking longer. And that’s annoying, because it’s the only thing stopping us from leaving for Maligar to claim the First Delicacy right this very second.
+
+On the 33rd day since completing my Evolution, while the others are focusing on their Professions, I slip out through the window in my house cat disguise and set out along a route that I’ve been perfecting in secret. The Gluttony thing was actually resolved a couple weeks ago when some Mithril Adventurer rolled in from further inland and killed some corrupt noble dude and said the problem was resolved. The twins said later that the guy was sent by Arianne, and that the noble dude actually did have Gluttony, on top of being a despicable person, and that she had intentionally not informed me about the Gluttony wave so that she would have a good, legal excuse to kill him.
+
+But I still kept working on this route, since for the first time in months, I’m able to move around freely in cat form and enjoy everything that comes with that. Namely, the free food. Free handouts from kind housewives don’t taste quite as good as they used to—not since I got to taste high level cooking—but there’s something about the way I get them that makes it better, somehow. More authentic, maybe? Or maybe it’s just nostalgia. Regardless, I travel around, acting like a normal cat and mooching snacks off unsuspecting civilians using weaponized cuteness. I also have a few stops near popular restaurants where I use Snatch to grab stuff from their storerooms. None of them have noticed yet. I think.
+
+As I walk along my route, I encounter one of the “friends” I’ve made. She’s a black cat, like me, though her eyes are boring yellow, as opposed to my beautiful green. She’s still cool though. She knows all the best spots for sunny naps, and she’s got a snack-begging route of her own that I followed her on once. I’ve decided to call her Julie, since when I first saw her, she was running away with a jewel she stole from somewhere.
+
+We bump heads, then she turns around and leads me through a couple alleys and up to the roof of a house owned by an elderly couple who both have musical Professions. It seems that this is a nap day. It’s a pretty great place to nap too, since the elderly couple are always playing soft music from below, and the sun hits the roof just right for most of the day. I hop down and take my spot, and Julie lays down right beside me, and we both quickly drift off. Then, I get rudely awoken by an extremely annoying voice.
+
+“Yona, wake up!”
+
+Five more minutes.
+
+“Yona!”
+
+Later…
+
+“Yona!!”
+
+What?!
+
+“Your Evolution is finalized!”
+
+Okay, I’ll check after I wake up.
+
+“The goddess’ blessing also arrived.”
+
+I said I’ll check later.
+
+“Stomach of the Glutton is gone!”
+
+I spring to my feet with my fur straight up and hiss at the sky.
+
+That bitch did what?!

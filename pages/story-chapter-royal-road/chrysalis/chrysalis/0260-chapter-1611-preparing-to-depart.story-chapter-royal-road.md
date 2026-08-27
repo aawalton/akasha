@@ -1,0 +1,95 @@
+---
+id: f74ce4f5-aecd-5839-9d88-ba7285b43d7f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1611 - Preparing to Depart"
+slug: 0260-chapter-1611-preparing-to-depart
+partOf: chrysalis
+position: 260
+ownLength: 944
+unit: words
+ownProgress: 944
+publishedAt: 2025-07-29
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2474665/chapter-1611-preparing-to-depart"
+royalRoadId: "2474665"
+markedReadAt: "2026-06-29T19:52:08.106Z"
+---
+
+Jern and Alis were side by side, cleaning their weapons and armour and talking. Alis had been unusually reserved since Anthony had been taken, and Jern knew she felt somewhat responsible. Which was silly. She’d been on the platform at the time, but the attack on the Nave had knocked her just the same as it had the rest of them. She had nothing to feel bad about, but she seemed to insist on it anyway.
+
+“Jern? Jern! Are you alright?” she asked, looking concerned.
+
+The big man shook his head and smiled at her, causing her to blush slightly. She’d been like this since Anthony had exposed their feelings so openly. He knew she was a little irritated at having their feelings discussed like that, but Jern didn’t mind it. He wouldn’t necessarily thank Anthony for it, but he did feel like the big ant had saved them some time.
+
+“I’m okay. Sorry to worry you,” he replied. “Why do you ask?”
+
+“Because you look so distracted. It didn’t seem like you were hearing a single word I said!”
+
+Alis did not like it when Jern wasn’t listening properly, which he felt made sense. If nobody was listening when you spoke, what was the point of speaking in the first place? Alis tended to have a lot to say, which suited Jern down to the ground, since he never felt the need to speak all that much. Between the two of them, they found a good balance, he thought.
+
+“Anthony is yelling at me in my head,” he explained with a smile. “He’s really loud.”
+
+Alis’ eyes went wide as she stared at him with her mouth open.
+
+“Sh-shouldn’t you answer him?” she said, waving her hands in the air as if she didn’t know what she should do with them. “Why is he yelling at you? That isn’t good! Is it because of me? Is he mad we haven’t helped him yet?”
+
+Jern reached up and wrapped one of his arms around her shoulder, squeezing her against his side. For some reason, she always went quiet when he did that.
+
+“He’s telling us not to go and save him,” he told her. “I’m ignoring him.”
+
+Alis still looked very nervous, even as she leaned into him.
+
+“Is it alright to ignore him though? Isn’t he… like… a god?”
+
+“I think he is,” Jern affirmed his belief, “but that doesn’t mean he can’t be wrong sometimes.”
+
+“Are gods allowed to be wrong sometimes? Aren’t they just… always right?”
+
+“Anthony? Always right?”
+
+“I suppose that’s a good point.”
+
+Jern smiled at her again. It was easy to smile when Alis was around.
+
+“He just doesn’t want us to get hurt, so he’s trying to tell us to stay away. We don’t want him to get hurt, so we’re going to go and save him. That’s all.”
+
+“It’s all so simple when you say it like that,” Alis sighed, resting her head on his shoulder.
+
+In Jern’s opinion, it was simple. It was possible for them to keep Anthony happy and still save him. They just had to do it as safely as possible. He’d tried to explain that to him, but Anthony didn’t want to listen. If he were being honest, it was often hard to make Anthony listen.
+
+He did a lot more talking than he did listening.
+
+Despite the danger posed to the giant ant, Jern wasn’t too worried. He knew that there were many people working on the rescue, people he knew were a lot smarter than he was. No matter what, they’d come up with something that would work.
+
+As if summoned by his positive thoughts, the darkness around the two thickened until it was almost impossible to see his hand right in front of his face. For a normal person, it would be impossible to do anything in a lightless place like this, but Jern had learned to adapt to it. There were ways to know what was going on around him, even when his eyes didn’t work properly.
+
+The moment the nameless one appeared, Jern and Alis turned towards them, able to feel it as the ant stepped out of the darkness.
+
+Welcome, they both signed to the ant.
+
+Able to sense the disturbance in the air caused by their movements, the Nameless One returned the greeting.
+
+Our design is moving apace. We will have everything we need in place soon. Are you ready to depart?
+
+Yes, Jern signed.
+
+“Wait, are we going somewhere, Jern?”
+
+“I’m going to help rescue Anthony,” Jern told her.
+
+Immediately, she got a look on her face, a look that he knew all too well.
+
+“I’m coming too,” she told him, looking determined.
+
+Of course, Jern’s first thought was that he didn’t want her to go. It was going to be dangerous and he didn’t want her to get hurt. That was only sensible, Alis was precious to him after all, why would he want to take her somewhere she might get hurt? But Jern understood that thought wasn’t a good one. That was exactly the reason why he was ignoring Anthony ranting at him right at that moment.
+
+“Okay,” he said.
+
+Gather your things, the Nameless One signed to them. We do not have much time.
+
+Jern gave Alis a squeeze on the shoulder and she flashed him a look before they turned to pick up their armour and weapons.
+
+“Do you think the kids will be coming too?” Alis asked him.
+
+“I doubt we could keep them away even if we tried,” he replied.
+
+Once they were ready, the two Templars stepped into the waiting darkness and disappeared, leaving nothing behind.

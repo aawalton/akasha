@@ -1,0 +1,87 @@
+---
+id: c756602d-aa89-5247-8be5-4f6299dbc54b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1580 - Return of the Slug"
+slug: 0228-chapter-1580-return-of-the-slug
+partOf: chrysalis
+position: 228
+ownLength: 950
+unit: words
+ownProgress: 950
+publishedAt: 2025-06-09
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2341452/chapter-1580-return-of-the-slug"
+royalRoadId: "2341452"
+markedReadAt: "2026-06-29T19:51:06.500Z"
+---
+
+Every platform was under siege by the Krath. Solant stood in the centre of the command post as messages came thick and fast, a flurry of information that she needed to process rapidly so she could slot every puzzle-piece into its appointed place before making a decision.
+
+It wasn’t easy. There was so much going on around the fortress that even her message-relay network was struggling to keep up with the demand. Construction crews were still hard at work at all levels of the fortress as mana continued to spew out of the vents, stressing the mana channels to their breaking point. There were still failures occurring as the carvers fought a constant battle of managing the extreme pressures while shutting off sections for emergency repairs.
+
+Tons and tons of highly engineered channel components were being brought into the fortress in a steady flow, but it was still hard to keep up with demand. Even traversing the fortress was a problem, since no one could know which sections would be cut off next.
+
+To make matters worse, the Krath were active again, working against all of the platforms, except one.
+
+Solant would dearly love to know what the Legion had done to make the Krath both hate and fear them to such a degree. Goszi had loathed the Abyssal Legion on a deep, almost fundamental level. The Krath hated everyone, but they really hated the Legion. Such a level of animosity should cause them to seek out the small army that was here in the fifth, but, for whatever reason, they avoided it, refusing to engage even now.
+
+At least that was one platform that she knew wasn't going to go down. The reserves within the heart of the fortress were steadily filling, the torrent of mana pouring in being converted at incredible speeds. If things continued at this pace, they would have enough at the point when the wave ended. They just had to last that long.
+
+“Order the reserves to move forward,” she told the gathered generals. “We have to commit more troops to the platforms.”
+
+“Doesn’t that just increase the risk of capture?” one asked, clacking her mandibles nervously.
+
+“We have measures in place to combat their attempted abductions. There are worse things they could do to us than take a few of our siblings.”
+
+“Like what?”
+
+“What could possibly be worse?”
+
+“You would abandon your siblings?”
+
+Solant looked at the gathered generals, a little surprised by their collective outburst. She slowly cleaned her antennae, the gesture soothing her and bringing a sense of calm to the room. The generals were clearly on edge.
+
+“They could destroy the fortress and kill all of us,” she pointed out mildly. “That would be worse.”
+
+There wasn’t much arguing with that.
+
+“Of course we have measures in place to try and prevent abductions, but they aren’t foolproof. The best method to stop any of our siblings being taken by the Krath is to never come to the fifth in the first place. Since we have thrown that option away, we will need to do the best we can.”
+
+Solant watched each of the generals, trying to impress on them the importance of the situation.
+
+“If we hold, we will win. Keep that in mind at all times. No matter the cost, we must hold.”
+
+The generals snapped out a salute and moved to ensure her orders were implemented.
+
+It wouldn’t be easy, the platforms weren’t designed to hold so many troops, but with the tight manoeuvring drills the battalions had been practising for months, they would be able to manage.
+
+“How are those hospital expansions progressing?” she asked.
+
+A nearby carver stepped forward, reading from a report.
+
+“Work should be completed in a few hours, general,” she replied. “The lack of crews is making it difficult, but we’re getting there.”
+
+Attrition rates on the platforms were about to shoot up to the top of the ant-hill. Every platform needed their medical facilities expanded.
+
+“And the healers?”
+
+“We’re struggling to get them in.”
+
+“I don’t care what they have to do up there, we must have more healers,” Solant said coldly. “Reiterate my request in an urgent message to the fourth. I need ten thousand healers. I don’t care if they’re tier three. We need them now.”
+
+“I will send it, general.”
+
+The wave was happening everywhere, the entire territory of the Colony would be on high alert and under pressure, she knew that, but it still didn’t matter. Success here was simply too important.
+
+With newly trained battalions flowing into the fortress, the number of ants inside had risen to four million. The strongest fighting force in the entire Colony was concentrated within the walls, all dedicated to holding the line until the end. It would have to be enough.
+
+“Are the forward wuffer stations completed yet?”
+
+A carver stepped forward from her nearby station.
+
+“Nearly, general. The queens are still producing the last ten percent of wuffers needed. We should be up to full production within a day.”
+
+“Good. That’ll do.”
+
+The intensity of the wave was reaching a critical point, and the amount of cleansed energy required to keep the platforms clear was growing every minute. The wuffer stations had been dispersed throughout the fortress to keep them safe, but now they needed the cleansed energy delivered to the platforms faster than ever before. With the new stations, the chances of the platforms getting overwhelmed by the native mana went down significantly.
+
+Of course, there were other things prepared for the return of the Krath. If those slugs thought the Colony was simply going to sit back and let them pile on the pressure, they were kidding themselves.

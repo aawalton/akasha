@@ -1,0 +1,95 @@
+---
+id: 9419b820-26aa-526e-8adf-dfee9c82a1cf
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1616 - Eruption"
+slug: 0265-chapter-1616-eruption
+partOf: chrysalis
+position: 265
+ownLength: 1124
+unit: words
+ownProgress: 1124
+publishedAt: 2025-08-05
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2492907/chapter-1616-eruption"
+royalRoadId: "2492907"
+markedReadAt: "2026-06-29T19:52:17.701Z"
+---
+
+The moment it began, Zluth was on alert. His first suspicion was that Soluzz had set a trap, but when he turned his stalks towards the Krath’lath, he looked as mystified as the rest of them.
+
+If anything, that was worse. Zluth was prepared for betrayal, as any sensible Krath would be, but this was something else.
+
+“Are we under attack?” he demanded.
+
+“Impossible,” Soluzz spat. “Here in the heart? Who would have the guts? Who could?”
+
+“It's the ants!” Chozth frothed. “They’ve come to save their champion after all!”
+
+The large ant was still tumbling down the slope towards the pit, and Zluth wasn’t too keen on going back to take another look. It couldn’t be more than seconds away from plunging into the sludge, after which there would be no going back.
+
+The shaking grew more and more pronounced, forcing the slugs to flatten their bodies and tighten their grip on the surface they clung to.
+
+“What is happening?” Soluzz raged at his warrior escorts, but none of them had an answer for him.
+
+With a hideous tearing sound, the flesh of the heart gave way as something pierced through, rapidly widening the opening and extending into the cavity within. Zluth was so shocked to see the heart invaded that he needed a moment to recognise just what he was seeing.
+
+“The tree?!” he hissed.
+
+“She wouldn’t dare!” Soluzz bellowed, but the evidence of their eyes betrayed his words.
+
+Extending into the heart right in front of them was a giant root, widening and hardening with every passing moment. The slugs seethed at this blasphemous trespass, enraged that the hated interloper had gone so far as to pierce the heart.
+
+“Kill it!” Soluzz ordered his warriors. “Send word to the tribe above! We finally have an excuse to hunt down and annihilate this foul tree once and for all!”
+
+Snarling, he began to gather his immense magic, only to hesitate as something unexpected poked its head out of a small hole that had grown in the thickening wood, covered with a bubble of blue mana.
+
+Two antennae emerged, followed by a little ant head, causing Chozth to froth with rage.
+
+A moment later, a voice rang out in their heads.
+
+[Nailed it on the first try. To be expected, I suppose, I’M BRILLIANT!]
+
+Zluth recoiled. She was in his head? How?! He hadn’t felt the bridge connect? And yet it had, he could sense it now. What strange method was this? He immediately moved to sever the connection, but not before the cheerful, energetic voice spoke again.
+
+[Not a great place to stand, sluggies!] Then the voice seemed to shift, as if it were speaking to someone else. [We found the spot! LET IT RIP!]
+
+Maniacal laughter echoed in his head until Zluth finally managed to cut it off, breaking the bridge between them. How? Why!? One thing was for certain: this moment was dangerous. He didn’t understand what was going on — and that meant he needed to be cautious.
+
+“We should retreat until we know what is happening,” he suggested to the others, preparing to flee.
+
+“Retreat?” Chozth spat. “We attack! If they save the captive, then we have achieved nothing.”
+
+That was a good point. Zluth felt himself torn. His instincts screamed at him to run, to hide and wait for his chance to strike, yet the Ancient demanded that he stay and fight to ensure the ant was turned. Fortunately, his decision was made for him.
+
+To his right, the great stack of vents began to violently shake. A low rumble could be heard, followed by a high-pitched whistle sound as vast amounts of air and mana began to screech out of the openings. The flow of energy had reversed, something was coming out of the vents, not in.
+
+That was all Zluth needed to see. Between the tree-root, growing larger and thickening each second, and the strange behavior of the vents, he was unsettled enough to make his decision. He didn’t announce anything, or draw attention to himself, he simply flattened himself and began to run, seeking higher ground.
+
+He wasn’t the only one, nor was he the first.
+
+Krath raced back along the path, trying to reach the platforms they could use to winch themselves higher. Zluth didn’t bother with the platform, he launched himself onto the slime ropes themselves, gripping tight with his foot as he began to squirm his way higher.
+
+Chozth and Soluzz looked to hold their ground for a moment, but when the rest of the Krath ran, they saw the writing on the wall and joined them.
+
+That slight delay would prove to be fatal.
+
+With a final eruption of mana and sour air, the tops of the vents exploded as a geyser of pure blue liquid burst out of the top. With so much pressure behind it, the fluid blasted a hundred metres into the air before it began to rain down.
+
+Zluth cursed and picked up his speed, rushing to get higher. He recognised the stench of that liquid, knew it for what it was, even if he didn’t know how. The ants were attempting to corrupt the heart! That was tainted, concentrated mana that they had violated! They were pumping it straight back to the source!
+
+Looking down, he could see the sludge pool, sizzling and frothing with great bubbles wherever even the slightest drop of the crystal blue liquid touched it. A horrified realisation came to him.
+
+They weren’t trying to cleanse the heart… they were trying to cleanse the entire stratum! The heart would pump the foul energy they had created throughout this entire section of the Dungeon! And… and if the sludge were overcome…
+
+The source of the energy within the entire fifth stratum could be at risk.
+
+Horrified, Zluth redoubled his efforts. He needed to alert the Krath above. Chozth was right, they had to fight!
+
+He twisted a stalk back down towards the deadly Krath’lath. As always, she was faster and more powerful than the others, racing to make up for the ground she had lost. He knew she would be safe, she only needed a few more moments.
+
+That’s when a single drop of the purified energy landed on her back.
+
+Chozth collapsed in an instant, writhing as the energy ate into the corruption in her flesh. Zluth grit his fangs, but there was nothing he could do. He wasn’t going back down there, not now.
+
+It was with a little comfort that he saw the bundle of ooze that was the giant ant splash into the sludge pool and sink beneath the surface.
+
+Too late, he thought savagely. Your moment of victory is about to turn into one of crushing despair.

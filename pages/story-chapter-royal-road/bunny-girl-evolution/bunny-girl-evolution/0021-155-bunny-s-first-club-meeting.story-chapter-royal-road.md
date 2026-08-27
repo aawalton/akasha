@@ -1,0 +1,170 @@
+---
+id: d7f3d0db-a187-52d0-8778-f0743277466e
+page-type-slug: story-chapter-royal-road
+title: "155 - Bunny's First Club Meeting"
+partOf: bunny-girl-evolution
+position: 21
+ownLength: 2937
+unit: words
+ownProgress: 2937
+publishedAt: 2025-12-16
+link: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/2852325/155-bunnys-first-club-meeting"
+royalRoadId: "2852325"
+markedReadAt: "2026-06-29T20:03:20.471Z"
+---
+
+The club room was one of the smaller lecture halls in the central area of the University. Most of the chairs had been cleared out somehow though. Elise wasn’t sure how, since she was pretty sure they were all bolted to the floor, but there was no sign of them, or the bolts that were supposed to hold them down. There was still an assortment of them lined up near the front of the room by the stage, but the rest of it had been converted into a kind of ballroom.
+
+The atmosphere reminded Elise a little bit of the Ostra gatherings, with tables of food on the edges, tables to eat the food at scattered around, and a bunch of people standing in groups and chattering. In the center of the room though, there was something interesting. Someone had dug a shallow pit and filled it with dirt. About half a dozen stone dummies were scattered in the pit as well, and while no one was next to the pit at the moment, Elise could only assume it was a place to practice offensive nature magic. Well, maybe not “practice.” “Show off” was probably more accurate, given the setting.
+
+“Welcome to Fighting with Nature,” said Shawn as Elise and Sophie looked around the room. “As I said, I’m Shawn, and I’m the student president here. Feel free to ask me if you ever have any questions about anything. Gardening tips, combat advice, Dungeon advice, or even food recommendations or something. We’re pretty laid back so feel free to talk about whatever.
+
+“There are a few more new students as well, but not many. This is an invite-only club, and all the members are personally scouted and recruited by Sucri, so we usually don’t have more than five or ten newbies here at the first meeting. She likes to give it a bit more time before inviting them, but you two must have impressed her pretty well. She said she even invited you on the very first real class. I’m excited to see what you’re capable of.
+
+“Anyway, we’re still waiting on one more new student that I have to give my spiel to, so I’ll have to keep waiting by the door, but I’ll get Sara to show you around. Hey, Sara!”
+
+He looked to another group nearby as he called and a very short woman looked their way. Elise wasn’t that short, but it was still rare that she had to look down to talk to someone like she did with Sara. The other woman was clearly not a dwarf, and her body was proportioned like a normal adult, but she couldn’t have been more than four and a half feet tall. Her skin was so pale it made Elise’s own pale skin look tan, and as she drew nearer, her black hair shifted slightly and Elise noticed that her ears were just a little bit pointier than a normal human’s.
+
+Drow blood, maybe? Elise wondered.
+
+She was most definitely not a full drow, or even half drow, but her size, skin, and ears pointed to her having some kind of drow ancestry.
+
+“Heya!” said Sara. “Newbies?”
+
+“Yes, this is Eleanor and Sophie,” said Shawn.
+
+“Oh, the ones Sucri mentioned!” said Sara. “Nice ta meet ya! I’m Sara, and I’m the vice president! Shawn, you want me to show them around?”
+
+“If you could, thanks,” said Shawn. “Still waiting on one more.”
+
+“No problem!” said Sara. “Follow me!”
+
+Sara marched off toward the far side of the room with Elise following close behind, and Sophie a little further behind after she got distracted watching Shawn walk away.
+
+“He’s a little old for you,” sent Elise with {Whisper}.
+
+“Wh– What do you mean?” asked Sophie with very unconvincing feigned confusion.
+
+“You’re probably better off with the boys at the Academy.”
+
+“They’re all gross.”
+
+“And Shawn isn’t?”
+
+“Shut up!”
+
+Their silent conversation ended there because they reached the group that they were walking toward and Sara called out.
+
+“Hey, Dumbo!” she said loudly.
+
+One of the people in the group, a giant standing close to nine feet tall, turned around and made a show of looking around. Eventually his eyes settled on Elise and Sophie with an expression of exaggerated confusion.
+
+“Did you hear someone insulting me?” he asked, his voice a deep rumble. “I swear I heard someone call me Dumbo.”
+
+Sara wound up and delivered a strong kick to his shin. Elise sensed a large amount of amusement from the giant, alongside a flash of pain through {Sense Emotions}, but his face betrayed no hint of the pain. Instead, he gave an exaggerated flinch of surprise and looked down at Sara, eyes widening.
+
+“Oh, Shorty! Sorry, I didn’t see you there.”
+
+“Of course you didn’t, you blind idiot,” she said. “Also, be nice! We’ve got newbies!”
+
+“I can see that,” he said, grinning and holding out a hand. “My name is Daryl. I’m in my final year, and I’ve been in the club since my first year. I’m basically our ace.”
+
+“He’s on the C team,” said Sara. “They didn’t even place top 25 last year.”
+
+“Because we placed 26th. All thanks to me, of course.”
+
+At this someone else in the group punched him in the arm. Elise sensed another bout of amusement accompanied by a flash of pain, but instead of wincing, he just started laughing, a sound so deep and loud it shook Elise to her bones.
+
+“This is Eleanor and Sophie, by the way,” said Sara once he calmed down. “Eleanor and Sophie, this is our club’s C team, and Dumbo here is the team leader. Next to him is Allie, Tom, Henrietta, and Jameson.”
+
+Elise and Sophie nodded and waved to each member in turn, but the whole time, Elise felt confused. She was missing some information. C Team of what? Placed 26th where? Sophie seemed to understand what was going on, but Elise was lost. Elise debated asking Sophie privately, but she didn’t know when she’d get the chance, and she didn’t want to be stuck learning about teams and placements that meant nothing to her, so she decided to just ask instead.
+
+“Sorry, but C team for what?” she asked.
+
+Everyone turned to look at her.
+
+“Are you serious?” asked Sara.
+
+“Yeah,” said Elise.
+
+At that, Daryl started laughing again and Sara’s jaw dropped.
+
+“You don’t know about the Dungeon Competition?”
+
+“...No,” said Elise, regretting her choice.
+
+Daryl started laughing even harder, and Sara seemed lost for words.
+
+“Have you been living under a rock?” she asked.
+
+“No, she lives in her room,” said Sophie before Elise could respond. “She never leaves.”
+
+“Still…” said Sara. “You came here without knowing about the Dungeon Competition?”
+
+Elise didn’t bother to respond to that, as the answer was obvious.
+
+“Wow,” said Sara. “Well, I guess a quick explanation is that every semester, the University hosts the Dungeon competition where the clubs form teams and try to get as deep in the Dungeon as possible. You get points based on speed, monsters killed, and a few other things like tactics and safety precautions and things like that. Registered clubs can have up to three teams, which we call A, B, and C, and then they can also have a rookie team made up of only new students.
+
+“There are some prizes and stuff, but mostly, it’s just bragging rights. Last semester, Fighting with Nature got 5th place overall, which is pretty good for a club specializing in a type of magic that usually isn’t used for combat. I’m the leader of A team, by the way, and we placed 3rd overall last semester. B and C team didn’t do quite as well, so our overall rank fell to 5th, but our club is still one of the best. It’s the best if you specialize in nature magic.”
+
+“I see,” said Elise.
+
+“Do you want to participate? Since you got recruited early, you’ve got the first chance to qualify for the rookie team. I guess you only just found out about it just now, but if you’re interested, you should probably apply to join as soon as you can.”
+
+“I think I am interested,” said Elise.
+
+While she hadn’t known about it before, anything that had her in the Dungeon more was good. The Dungeon was one of the main appeals of Jelor University, since she could still continue to level up without needing to find another spawn zone to hunt in. If these Dungeon teams were training for a competition, she would probably be able to go down more often than she otherwise would, and that was better for her. She would have to ask to make sure that was the case, but for now, she was leaning more on the side of joining than not.
+
+“Me too!” said Sophie.
+
+Elise noticed that she looked a little nervous, so gave her a slight nod of approval. If Sophie could learn how to fight, she would be able to defend herself better, which was definitely a good thing. She doubted Sophie would ever be in too much danger with Irylax around, but Irylax couldn’t be with her all the time, and Sophie getting some combat experience would be good for the times when she was alone.
+
+“Well, Sucri is gonna explain all that later, so you can apply then,” said Sara. “The competition might be a little stiff though. Teams can only have up to five members, and Sucri usually tries to get ten or so newbies in here before she finalizes the teams. And the newbies that get recruited early are usually pretty strong. For example, Shawn was basically ready to be on B team as soon as he got here.
+
+“I guess it’s easier than getting onto one of the main teams still. And since you guys are here already, that means you’re pretty good.”
+
+Elise glanced around the room, counting fifty or so people, which was more than triple what was allowed on the three main teams. That meant that despite being only on C team, Daryl and the others on his team were still among the strongest in the room, and in the University as a whole. 26th place meant that among the tens of thousands of students currently in attendance, they were close to the top hundred, at least in terms of combat.
+
+Can I beat them? She wondered.
+
+When using her aether Skills, she could punch far above her own weight class. Even as a 4th tier, she had been handling 6th tier monsters with ease. They were dumb beasts, so it would be different against a human, but the jump to 5th tier had been quite extreme, and she hadn’t had an opportunity to test it out yet. If she went all out and used all her aether Skills… It might have been arrogant of her to think, but she felt like she could go toe to toe with even Sara, who felt like the strongest person in the room aside from Professor Sucri.
+
+Without those Skills though, her magic was nothing special. {Suggest} was a common enough Skill that she could safely use it without drawing suspicion, as long as she held back a bit, but other than that, she would be entirely dependent on her mana Skills, which were… lacking. They weren’t that weak, but she had so thoroughly integrated {Suggest} and {Forced Feeling} into her combat style while training with Oberon that it would be tricky to adjust to not being able to use them as freely.
+
+Still, she had an advantage that a lot of people in the room didn’t: experience. While she had only been in the world for around six months, she had spent much of that time fighting. As a monster, she had no choice. That was the only way to level up. Most humanoids would have little to no combat experience, like Sophie. Even if Elise couldn’t use her strongest abilities, she still had spent enough time hunting and fighting that she felt she likely had an inherent advantage over the coddled humanoids who could level without being forced to hunt.
+
+Sara continued to lead them around, introducing them to various groups of people, and at each one, Elise found herself sizing them up, judging them by their Class and level. Since no one in the room had an inordinate amount of aether, Elise used {Inspect} freely, and while there were some interesting Classes in the room, nothing jumped out at her as being particularly special or worrying. She was almost disappointed about not finding any other changelings in disguise.
+
+As Shawn and Sara had said, everyone there was friendly. Elise actually enjoyed the atmosphere a lot. Everyone was on a first name basis, and while there were a few people who were clearly nobility, they weren't the stuck-up, prissy kind that she had seen walking around campus. They definitely weren’t like that Grane guy that had picked a fight with the Grays on registration day.
+
+At more than half the groups, Sara was made fun of for her height. She took it well, of course, snapping right back and sometimes laughing when someone said something particularly clever. While she seemed to be the victim of most of the jokes, Elise also noticed that Sara did nothing to stop them, and actually seemed to subconsciously invite them. Or maybe even consciously. Whatever the case, she was a great addition to liven up the atmosphere and break the ice, and by the end, even Elise felt comfortable enough to call her short.
+
+As they walked around, more people slowly trickled in filling the room further, and at some point, the final new student arrived, and got taken around on a similar tour to them. To Elise’s surprise, the last student was an elf. He looked like an ordinary young man, but Elise knew it was highly unlikely that was the case, and his demeanor and the reactions of everyone else around the room confirmed that. He was likely the oldest person present, and everyone there showed him the respect that title warranted.
+
+Shortly after Elise and Sophie finished their tour and grabbed a few snacks, the room went quiet as Sucri spread her mana across the room, from the position she had taken in the center of the dirt pit. A mass of roots grew underneath her, raising her up high enough that she was visible to all, smiling in her normal calm way.
+
+“Welcome to the semester’s first official meeting for the Fighting with Nature club!” she said, earning a round of applause. “I’m glad to see so many old faces returning, and I’m excited to see what the new ones will bring.
+
+“Now, I don’t want to take too much of our time, so I’ll get right down to business. Tryouts for the three main teams will begin next week. The club meeting will take place on Betelgeuse Field, and the tryouts will be open to anyone who wishes to apply. And for those of you who are new, Betelgeuse Field is where most of our meetings will take place.
+
+“As for the rookie team, the roster will be decided three weeks from today. Until then, I will be evaluating you based on your performance in other club activities. And if you’re inexperienced, don’t worry at all. That’s what the club is for! Most people don’t think of nature magic as a combat element, so most don’t practice it. I won’t be judging based on your current skills. I’ll be judging based on potential. So just try your best and you’ll be fine!
+
+“For today, our schedule is fairly packed, since it’s the first day, but it should be fun! First, our club president and vice president, Shawn and Sara, will be giving a little demonstration that they’ve been working on. I expect it will be an eye-opening experience for our new members, and hopefully a good show for the old ones. After that, we’ll be splitting up. Old members, you’ll be with me, and we’ll be playing some of your favorite games.”
+
+Most of the old members cheered.
+
+“New members, you’ll be going with Shawn, Sara, Daryl, and Heath, where they’ll start teaching you about nature magic combat. I believe they have some games planned as well?”
+
+“Yes, we do!” boomed Daryl. “And sparring!”
+
+“Sparring?”
+
+“You’ll see.”
+
+A few of the other students laughed.
+
+“If you damage the room, you’re paying for it,” said Sucri, causing more laughter. “Well, new students, it sounds like you’ll be playing games and sparring with them. I’m sure they are sensible enough to not risk injuring you though, so no need to worry.
+
+“Once we're done with that, we’ll all come back together for a final pow-wow, and you’ll all be free to go. Or stay. I booked the room for the rest of the day, so you all are free to stay and chat if you’d like. Now, Sara? Shawn?”
+
+The two walked up to the center of the room as Sucri’s roots buried themselves back in the dirt. Elise could sense Sophie’s excitement as Shawn walked up to the pit. Elise herself was a bit excited, though for a different reason. She had no idea what the “sparring” would entail, but she had already been sizing herself up against the rest of the room earlier. Now, she would finally get a chance to test herself, even if it was only against the other newbies. She would even get a chance to spar with an elf. She couldn’t wait.

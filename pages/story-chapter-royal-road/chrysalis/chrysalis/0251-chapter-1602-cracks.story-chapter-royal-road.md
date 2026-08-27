@@ -1,0 +1,111 @@
+---
+id: ae4cabfe-db45-5452-a56b-b9205162680f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1602 - Cracks"
+slug: 0251-chapter-1602-cracks
+partOf: chrysalis
+position: 251
+ownLength: 964
+unit: words
+ownProgress: 964
+publishedAt: 2025-07-09
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2420275/chapter-1602-cracks"
+royalRoadId: "2420275"
+markedReadAt: "2026-06-29T19:51:50.773Z"
+---
+
+Reports came flooding in from all over the Colony at a frantic pace. There were problems everywhere. Tunnels were overflowing, channels were breaking, the hospitals were filled with mana-poisoned soldiers, supply lines were stretched and the platforms were being pressed harder than ever before.
+
+Solant was in her element. She synthesised the information at a carapace-warping speed, making decisions to address the problems she could fix and working to mitigate the ones she couldn’t. Supplies were redirected, stores were drawn down, reserves were committed, room was found, tactics adjusted, resources reallocated.
+
+She had built the systems around her to be as robust as she possibly could, and they were now being strained right to their limits, but they were still holding. The decision-making processes needed her direct intervention more and more often, events continuing to diverge from the carefully prepared responses she had crafted in the buildup to the invasion, requiring novel and untrained responses.
+
+Perhaps for any group outside of the Colony, it would have been impossible to hold on in these circumstances, but the ants were unique in their temperament. She knew every one of her sisters had complete and total faith in the others and they would hold the line, do the work and get the job done, no matter what.
+
+All except one.
+
+“You aren’t going to get them?” the troublemaker asked, disbelieving.
+
+“I am not,” Solant replied. “Senior themself agreed with my decision. Going out into the fifth is too dangerous.”
+
+“Who cares about dangerous? Everything is dangerous! Dangerous is just another way of saying interesting!”
+
+“No, it isn’t.”
+
+“It is if you’re BRILLIANT!”
+
+“It still isn’t.”
+
+“Bah! That kind of attitude is going to hold you back in the long run,” Brilliant scoffed. “If you want to progress, you need to take chances! You need to be bold and brave! You need to accept a little danger.”
+
+Solant tipped her head to the side.
+
+“Where do you think we are right now?” she pointed out.
+
+Brilliant went to speak, then hesitated for a moment, looking around the chamber. It was in a state of chaos, hundreds of ants running in and out every second, the air so thick with pheromones her antennae itched. Of course this command chamber was in a fortress that had been built deep within the fifth stratum, known to be a deathtrap across the entirety of Pangera.
+
+“Your point is well made,” Brilliant conceded, but only for a moment. “If you understand the need to take on risk, then you should be perfectly happy with my rescue plan! We can pop out there, nab the Senior, then pop back, no problems at all!”
+
+“Your dimensional magic doesn’t work as well in the fifth.”
+
+“I can fix that,” Brilliant laughed, waving off her concerns.
+
+“How?”
+
+Brilliant cackled.
+
+“You want me to explain how dimensions are stitched together and the tricks I intend to use to get around the corrupting influence of the fifth?”
+
+Solant nodded.
+
+“Yes.”
+
+For once, Brilliant didn’t quite seem to know what to say.
+
+“Well… ah… are you sure you have the time?”
+
+There did seem to be an awful lot of ants looking rather desperate to communicate with the little general. Frantic, even.
+
+“If there is a way to safely return the Senior to us, then I will listen, but I won’t approve anything without understanding the finer details.”
+
+Brilliant scratched at her head with one antennae.
+
+“Do you… think that you… well… would you be able to… uh… comprehend it?”
+
+She attempted to reach for tact, but failed rather spectacularly. Despite her intelligence, some might say genius (she definitely would), Brilliant was not in the habit of looking down on her siblings for not being as intellectually minded as she was. However, having to waste time explaining the intricacies of magic to someone who wasn’t even a mage was enough to bring out her indelicate side.
+
+“I have memorised the structural, mechanical, and arcane schematics of this entire fortress down to the last bolt,” Solant clacked her mandibles without the slightest whiff of smug energy. “I devised the tactics used by every battalion within it and designed the logistics system that keeps it functional. Just because I have not turned my mind to the manipulation of mana does not mean I am unable to comprehend it. Begin your explanations quickly, if you would. I am rather busy.”
+
+Despite herself, Brilliant was a little impressed. Perhaps there might be another ant with an intelligence as formidable as her own!
+
+She doubted it.
+
+“Very well! I shall reveal to you the great secret! Everything I said about my plan to overcome the corruption of the fifth was a lie! I did not have a plan, but fully intended to wing it!” she declared proudly.
+
+Solant nodded, slowly.
+
+“I… see.”
+
+“I will still succeed,” Brilliant insisted. “Do you know why?”
+
+“Yes.”
+
+“BECAUSE I’M BRILLIANT!”
+
+“I said yes,” Solant sighed.
+
+She shook her head.
+
+“Your request is denied. Unless you have a concrete plan, I will not allow any ant to step foot outside the safe-zone until the wave has subsided.”
+
+“I think you’ll find you don’t have authority over me,” Brilliant pointed out, with an abundance of smug energy.
+
+There wasn’t much the little general could say to that. She paused for a moment, turned, then placed an antenna on her sibling’s carapace.
+
+“You would be a tremendous loss to the Colony if you died. Think twice before you do something you aren’t sure of.”
+
+Having said her piece, Solant could delay no longer and threw herself back into the fray. There were decisions to be made.
+
+For her part, Brilliant simply looked confused.
+
+“Think twice? Think twice?” She shook her head and laughed. “Who needs to think a second time? Absurd notion!”

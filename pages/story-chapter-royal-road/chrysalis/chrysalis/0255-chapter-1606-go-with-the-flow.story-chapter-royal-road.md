@@ -1,0 +1,83 @@
+---
+id: 94be9fc0-8ed8-5441-9501-52079c314087
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1606 - Go With The Flow"
+slug: 0255-chapter-1606-go-with-the-flow
+partOf: chrysalis
+position: 255
+ownLength: 836
+unit: words
+ownProgress: 836
+publishedAt: 2025-07-14
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2433863/chapter-1606-go-with-the-flow"
+royalRoadId: "2433863"
+markedReadAt: "2026-06-29T19:51:58.511Z"
+---
+
+You might think there’s nothing to do when you’re wrapped up in a cocoon of slime and being rolled around the Dungeon, heading toward a slime-pool of doom created by a god-monster several thousand years old, and you’d be right!
+
+At least I had people to talk to.
+
+[Crinis, for the last time, I am not letting you live inside me. Stop asking, it’s never going to happen.]
+
+[I wouldn’t ask if you stopped getting in trouble like this,] she told me primly. [You make all of us worry, and how can we help you if you won’t let us close to you?]
+
+Ugh, this again. Everyone wants to babysit me, the Colony, my own pets. I didn’t have to worry about anything like this when I was a human! In fact, nobody paid much attention to me at all.
+
+[There’s a difference between being ‘close to me’, and ‘inside my body’. My carapace is not a house!]
+
+[Maybe it should be.]
+
+[Not happening.]
+
+Crinis goes back to sulking and I can’t help but sigh. I don’t want to make her upset, but at the same time I don’t want to have a ball of endless darkness and horror living inside me. My carapace is for me, it’s not such an outrageous demand! I am going to have to make some sort of concession eventually. The fact that I do keep ending up in these situations is true, after all. Well, it’s not that bad.
+
+I’m surrounded by the mana equivalent of deadly toxin, sure, but it isn’t getting through to me right now. On top of that, I’m starting to win the war against the poisonous mana that already seeped within me, which is also a plus. My wounds are healing, I’m reducing the amount of toxin inside me, this is all a win!
+
+Well, it would be if I weren’t being steadily moved further and further away from the fortress. I’m still easily in range of the Vestibule, but I won’t be forever. Once I lose contact with the fortress, things are going to get pretty dangerous. Out here, I’m fairly helpless. If I break the slime cocoon, I’ll be bombarded with a lethal dose of toxic mana in minutes. Once the wave subsides and the concentration of energy falls, I can jump out of here and kick slug backside, no problems. Until then, I kind of have to stay put.
+
+[Hey, Solant, how are things going over there?]
+
+I reach out to the little general using my Nave, just to avoid having to keep arguing with Crinis. Also because I’m bored.
+
+[Busy,] she says curtly.
+
+[Would you… care to elaborate?]
+
+[No.]
+
+How rude! Why does she think I’m out here in the first place? I fell off that platform, fighting to the last, to keep my siblings safe! I mean really.
+
+[Oi, I think you can spare a thought or two, don’t you? I’m really bored out here.]
+
+There comes a long mental sigh, and I feel her thoughts slowly turn towards me, like a Queen ant turning toward a particularly lively grub.
+
+[Yes?] she says.
+
+[Yeesh. You are getting such a thwacking when I get back.]
+
+[... This does not incentivise me to ensure your safe return.]
+
+[You need incentive?! Is this the sort of treatment I get from my own family?!]
+
+[Of course not,] Solant sighs. [We will do everything we can to bring you back. I apologise if I seem rude, but there really is a great deal going on here.]
+
+[Quick update, then I’m out of your head.]
+
+[Very well. We continue to pull in as much power as we can process, which is increasing the strain on the already overloaded network. The vents are still spewing forth mana, clearly the Krath believe we won’t be able to hold out forever, but so far we are containing the damage. Barely.]
+
+[That sounds… dangerous.]
+
+[Without harnessing this energy, we will not be able to hit our quotas. It is necessary.]
+
+[Wouldn’t want to miss a quota. Anything else?]
+
+[The battles on the platforms continue to become more and more difficult. We are suffering from severe attrition. I believe you hurt the Krath badly on your own platform, which has relieved the pressure there, but that doesn’t mean they aren’t pressing at the others. So far, we have managed to hold, but the situation is in flux. I am constantly moving battalions and adjusting tactics. In fact, I intend to head to one of the most pressed battlefields and take command myself.]
+
+[Oh shoot. Is it really that bad?]
+
+[It is challenging,] she allows, [but we will win.]
+
+[Never in doubt.]
+
+As promised, I cut the connection, thinking about what I’ve heard. Things are rough at the fortress, but they’re holding on. They don’t need to last that much longer, if our predictions are right. The wave has peaked already, so as long as it falls soon, all will be well. If not, then I need to figure something out, quick.

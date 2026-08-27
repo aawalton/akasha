@@ -1,0 +1,202 @@
+---
+id: 72c5a3c5-f1a5-58e3-8ade-682cf4b3488a
+page-type-slug: story-chapter-royal-road
+title: "175 - Bargain of Divine Proportions"
+partOf: bunny-girl-evolution
+position: 42
+ownLength: 3537
+unit: words
+ownProgress: 3537
+publishedAt: 2026-02-24
+link: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3086620/175-bargain-of-divine-proportions"
+royalRoadId: "3086620"
+markedReadAt: "2026-06-29T20:04:00.834Z"
+---
+
+Elise sensed powerful aether flow out of Jessie and into Jag for a few seconds before slowing to a trickle.
+
+“Take him back,” said Jessie.
+
+Elise didn’t need to be told twice. Still overflowing with divine aether of her own, she bent down and put her own hand on Jag, taking him back into Astrid’s Star. As soon as he vanished, Jessie sighed with relief and slid into a seated position.
+
+“What happened?” asked Elise.
+
+“His soul is… super damaged.”
+
+“Is it that bad?”
+
+“Well, he’s alive,” said Jessie. “But barely. He’s doing a little better now, though. I don’t have that much of my own divine aether though, and I can’t call on Lucena’s right now.”
+
+She looked down at her hands and frowned. Elise frowned as well.
+
+“Doesn’t that make your rune’s upgrade actually a downgrade, since you lost the ability to channel her aether three times a month?”
+
+“No, not exactly,” said Jessie. “Because even without being able to call on Lucena’s aether, {Divine Restoration} is still way stronger of a Skill than anything I had before. That little bit I did just now was stronger than what I could accomplish in a week normally, and it was more effective. I was only kinda able to heal souls before, but that Skill does it perfectly. Plus, I can still channel Lucena’s aether. Just not as much, since I have to go through my Saintess Class Skills instead of through the rune. And not right now because he’s not a believer. Most importantly, though, it lets me create my own divine aether?”
+
+“Your own divine aether?”
+
+“It’s kinda hard to explain, but yeah, I make my own. I don’t think this is actually part of the {Divine Restoration} Skill. I looked through the Church’s records, and they have records of {Divine Restoration} belonging to high level priests and past Saintesses, but none of them could make their own divine aether like I can.
+
+“Anyway, basically, over time, my soul converts some of my normal aether into divine aether and stores it. But the conversion rate is super low, so I only had a little bit, which I used just now. And to heal the level of damage I saw, I’d probably need to charge up for at least a month to be able to heal it all.”
+
+“Dang…” said Elise.
+
+She had gotten her hopes up for curing Jag that night, and it was disappointing to have them dashed like that, but the night was overall still a huge win. She had a timeline for when Jag could be cured, and it wasn’t even that far out. A month was nothing, and even if it took longer, it would still be fine. In fact, compared to back on Earth, this was simply unthinkable. Jag was going from brain dead with a destroyed heart to fully recovered in just four months or so. When she put it like that, it was actually incredible.
+
+“This is actually great!” said Elise.
+
+Jessie was still looking a little down, so she looked a little surprised at Elise’s words.
+
+“Huh?”
+
+“He’s gonna be cured in no time!” she said. “Even if it didn’t happen right now, as long as you’re around, we can save him!”
+
+Jessie was shocked for a moment longer, then broke out into a grin.
+
+“Yeah!” she said. “I think I’ve just gotten spoiled. Usually, I just kinda cure people all at once. Or if it was beyond me, one of the senior priests would handle it. Having a timeline of a month or more seemed bad after that… but it’s actually not bad at all.”
+
+“I know, right?” Elise looked down at her own hands, still overflowing with divine aether. “I just wish that I could—”
+
+She froze, eyes widening.
+
+“You wish you could what?” asked Jessie.
+
+“...Give you my divine aether,” finished Elise. “Jessie! I have an idea! If I give you my divine aether, will you use it to keep healing Jag?”
+
+“Yeah? But how are—?”
+
+Jessie paused as her own eyes widened in shock as {Fey Bargaining} activated and all the divine aether that had been inside Elise’s body flowed into hers.
+
+“Oh, shit!” she said. “Bring him out! It’s disappearing!”
+
+Elise quickly brought Jag out again, and as soon as he appeared, Jessie put her hands back on, sending all the divine aether that Elise had just given her into his body. Elise paid a bit closer attention this time, noticing how the aether seemed to get absorbed by the body. Or rather, by something superimposed on the body. Elise assumed that was the soul, but souls were not something she could sense. Yet. As she observed the soul healing process, however, she realized that sensing the souls of others likely wasn’t too far off from what she could do now. She didn’t know if it was possible with just {Aether Sense}, but perhaps it would be possible to achieve something similar in the future.
+
+“Take him back!” said Jessie, pulling her hands away.
+
+Elise did so, and when he disappeared for the second time, both women were smiling.
+
+“How did it go?” asked Elise.
+
+“Almost halfway there,” said Jessie. “That aether… It was strange. It wasn’t like Lucena’s or mine, and it didn’t seem to want to obey me. I lost a lot to inefficiency. But then as soon as it got into his body, it was almost like it had a mind of its own, going beyond what my Skill normally does. It was… very weird.”
+
+“Maybe it’s because Jag is a monster?” Elise suggested. “And Titania is a monster too? So her aether doesn’t like being used by a human, but likes helping a fellow monster?”
+
+“Yeah, maybe something like that…” said Jessie.
+
+“Let’s do it again!” said Elise. “I had all three charges, so I can do it two more times if we need to.”
+
+“Just one should be enough,” said Jessie. “As long as we’re quick.”
+
+“In that case, let’s get it set up right now,” said Elise. “What happened just now is that I have a Skill that makes deals binding, and carries out the conditions of the deal. So when you agreed to my proposal, we had a deal, and the Skill gave you the divine aether as part of it. So I’m going to make another deal right now that should take effect as soon as I get my divine aether, which should make it way faster.”
+
+“Okay,” said Jessie, nodding.
+
+“Alright, Jessie. If I give you the divine aether that I’m about to get from Titania, will you use it to heal Jag?”
+
+“Yes.”
+
+Jessie shivered as the Skill took hold, then nodded again. Elise silently prayed to Titania, and a moment later, the wave of divine aether hit her body and immediately bounced to Jessie. As soon as it did, she re-summoned Jag from the necklace, and Jessie placed her hands on him. It took nearly thirty seconds for Jessie to raise her hands, and when she did, she still had a bit of Titania’s aether left. It dissipated fairly quickly, but the fact that she had leftovers, and that she didn’t tell Elise to take him back into Astrid’s Star said enough about how it had gone.
+
+The two stared at Jag, holding their breath for a few seconds until finally, he stirred. First, his upper legs twitched, then his lower legs, then his entire body stretched out as his mouth opened in a wide yawn. When he stretched, his frontmost paws ended up touching Jessie’s leg, pressing against them to give him some leverage to stretch his back. Jessie gasped when his paws touched her, but didn’t move.
+
+Only after he finished stretching did he finally open his eyes, blinking drowsily. Jessie was right in front of him, so she was the one he saw first, which made him visibly confused.
+
+“Well, hello there,” he said in Common, sitting up. “I’m afraid I don’t—”
+
+He never got to finish his sentence, because at that moment, Elise wrapped him up in a tight hug, almost making him fall over again.
+
+“Jag!” she said.
+
+“Snowberry?” he asked. “That’s you, right?”
+
+“That’s me!” said Elise. “You’re awake!”
+
+“So I am,” he said, returning her hug as best he could without proper arms. “Where are we? I presume we won the battle, yes? Was the operation a success? Where is Hans?”
+
+Elise released him, leaning back to sit right in front of him.
+
+“Okay, so long story short, yes, we won, everyone is fine, the operation was a huge success, and it’s been more than three months since it ended. Your soul was severely wounded, so I had to keep you in stasis until we found a healer that could cure you, and now I have. This is Jessie, by the way. She’s the Saintess of the Church of Light.”
+
+Jag blinked a few times, then bared his fangs in a terrifying smile.
+
+“The Saintess of the Church of Light healing a monster!” he exclaimed. “Are you sure I’m not dreaming?”
+
+“Yup!” said Elise happily. “And I guess, since you’re awake now, I should officially introduce you. Jessie, this is Jag, a member of Ostra and a friend of mine. He and I were on a mission together when he was injured. Jag, this is Jessie. She’s one of my classmates at Jelor University, and, as you know, the Saintess of Light.”
+
+“A pleasure to meet you,” said Jag, extending one of his front paws. “And thank you for healing a monster like me. You are just as lovely inside as you are on the outside. It brings me great joy that we humanoids and monsters can co-exist like this.”
+
+“Y– Yes, it’s nice to meet you as well.”
+
+Jessie hesitantly lifted her arm to his paw, and they shared an awkward paw-handshake. Elise noticed a slight blush appearing on Jessie’s face as she stared down at his paw. Elise narrowed her eyes. She knew Jag well enough to know that he probably had no ulterior motives behind his words, and that he was probably just trying to leave a good impression on an important figure of the humanoids, but it did sound a bit flirtatious.
+
+“Did you say that it’s been three months?” he asked, turning to Elise. “I’ve probably missed quite a bit then.”
+
+“Well, I don’t think there’s been too much,” said Elise. “At least, I don’t think there’s been anything else big. There have been a few minor things though. I can tell you what I know.”
+
+“That would be wonderful.”
+
+For the next half hour, Elise and Jessie spoke to Jag about all that had happened in the past three months. At first, it was just Elise, but as it turned out, spending time with Oberon was not conducive to being aware of world events, so there was a lot she only had vague knowledge on. Jessie actually knew quite a bit, since in the church, listening to rumors was one of the main ways she kept herself from boredom, so she was able to fill in the gaps in Elise’s knowledge.
+
+While they spoke, Elise kept an eye out for signs of lingering injury on Jag, but he seemed to be perfectly fine. His emotions were calm and cheerful, and his aether was peaceful and ordinary. By the time they finished, he was more or less completely relaxed. He still seemed eager to see Hans, since the last he saw of the older fey, he was vanishing into the sadistic vampire’s Domain, but any urgency he had was gone. Elise’s reassurances that everything was fine had left him content to relax and chat for a while before doing anything else.
+
+On top of that, the news that they shared with him of what had happened since he was injured made him very happy. Hearing that Ostra had gone public, and not only were they not being hunted down, but they were actually negotiating with the world’s greatest powers, was the greatest news of his life. Even if nothing of importance had been decided, the mere fact that discussions were still ongoing after so long was more than enough for him.
+
+Once he had been caught up on current events, he then started asking Elise what she specifically had been doing, so she gave him the shortened version of her time with Oberon and her first couple weeks at the University. Jessie listened closely to this as well, since Elise went into greater detail about her specific exploits with Oberon, and finally shared the full story of her first meeting with Maggie.
+
+Once Elise was done with her own personal story, Jag turned to Jessie and—probably for politeness’ sake—asked about her own life. Jessie gladly shared her own situation, and all her frustrations, which made Elise wince a little, as she felt that the Saintess was a little too open about those things. Telling Elise, another aetherborn and a fellow earthling, was one thing. Telling the Grays was perhaps a little too far, but it was also probably something she needed to do. But now telling Jag, a monster she had only met a few minutes ago? Elise trusted Jag, but she had no idea if he was at all good at keeping secrets, and she worried a scandal would occur if the people thought that there was a schism between the Saintess and the Church.
+
+Not that Elise thought that the Church didn’t deserve some public scrutiny, and she had told Jessie as much, but Jessie’s stance was very much “maintain the status quo for now,” and as much as she liked to complain, her relationship with the church was more complicated than she often made it seem. But if she wasn’t careful and kept ranting to anyone who would listen, the relationship would turn complicated in a bad way, and she wouldn’t be prepared. Elise didn’t interrupt though, and instead just made a mental note to talk to both of them privately afterward to make sure they were all on the same page.
+
+Once Jessie finished with her own story, she asked Jag about his, and Jag was just as eager to share his past as she had been. He passionately told her about his dream of living amongst the humanoids and owning a shop, as well as some of his attempts to befriend humanoids, most of which had been failures.
+
+“I’m not the most terrifying monster,” he said. “But I don’t exactly look friendly or harmless either. Most humanoids run away or try to attack as soon as they see me, and ignore what I say. I worked on my speech, and my demeanor, but no matter what I do, I still look like a monster. So, I started devoting my time into working around that, which is how I eventually became one of Ostra’s foremost experts on appearing harmless.”
+
+“Oh?” said Jessie.
+
+“Yes,” he said with a toothy smile. “I spent a long time observing humanoids and the few monsters that they do allow within their territory. Cats, dogs, horses, and such. I always wondered why humans didn’t seem bothered by them when they were just as much monster as I. In fact, I’m certain that those house cats they keep around would be more than capable of turning into something just like me, given the circumstances. Yet they were allowed to roam the streets, and I was not.
+
+“So, after years of observing, practicing, and testing, I finally was able to reach a point where I could sometimes get humanoids to speak with me instead of running and attacking. I still have a long way to go, but it’s excellent progress.”
+
+“I’m a little confused, though,” said Jessie. “You said people kept running away and attacking you instead of talking, but you don’t look that scary.”
+
+“I don’t look that scary now,” he corrected, raising a paw. “But that is because I have spent years practicing my body language to appear as calm and unthreatening as possible. You see, one of the main things I observed about animals that humanoids keep as pets is that their body language is very different from that of wild monsters. It’s not easy for the untrained eye to see, but instinctively, humanoids can recognize it, and the body language of a wild monster puts them on edge. Here, allow me to demonstrate.”
+
+Jag stood up, then gestured toward Elise and Jessie, who did the same. Jag stood over six feet tall when standing, so both Elise and Jessie had to look up to maintain eye contact, and while his figure was imposing, Elise certainly didn’t feel on edge. Yet.
+
+“I may not look it right now,” started Jag. “But I am quite the accomplished hunter. I have killed countless monsters to get where I am now, and my body was quite literally designed to help me kill more efficiently. And before I worked on my body language, it showed. Observe.”
+
+Jag slowly raised his upper body up until his head was more then seven feet off the ground, and he made a series of other micro-adjustments to his posture, and by the end, his point had been made abundantly clear. Elise couldn’t even put into words exactly what he had done, but despite his form being the same, he suddenly registered to her subconscious as a threat. The look in his eyes sent a shiver down her spine, and beside her, Jessie took a nervous step back.
+
+“I– I see,” said Jessie. “I understand now.”
+
+“Yes,” said Jag, his voice now deeper and more rugged. “This is how I first appeared and sounded, and this is why it was so difficult for me to speak with anyone.”
+
+He shifted his demeanor back, and the pressure in the room vanished. The terrifying, 7th tier Firebreath Jagaur was gone, and the friendly, gentlemanly Jag had returned.
+
+“With that, most of the work was done. This body language took a very long time to reach the stage it has now, but that alone was enough to earn me a few conversations. There are two more main tricks that I use, though. One is submissive behavior. This is also largely body language, but there are a few more obvious things, like lowering my head to be at or below eye level, or allowing people to have a clear view of my vulnerable points. Pet dogs use these quite frequently.
+
+“The last, and perhaps most important trick, however, is ridiculousness.”
+
+“Ridiculousness?” asked Jessie.
+
+“Yes. Ridiculousness. That is the term I use to describe it, at least. Humanoids have an odd instinct to lose fear for anything that looks ridiculous. So, if I look ridiculous, I suddenly become an unfearable creature. There are more subtle tricks, like acting clumsy, which works well for horses, or making exaggerated motions with my head and limbs. There is one trick, however, that almost always works, and is a combination of ridiculousness and submissiveness. Behold, my masterpiece.”
+
+With that, he lay down on the ground, rolling over to show his belly. Then, he slightly leaned to the side so his whole body was curved, tilted his neck, and let his tongue loll out of his mouth. Elise recognized it as the same pose that he had shown all those months ago at her first Ostra meeting. The one she had silently laughed at for being too ridiculous. When she realized that, a sudden thought hit her.
+
+Wait… It was all on purpose?
+
+She thought back to almost every interaction she had with him, from the moment they met till now. The way he struggled to hold plates with his front paws, the times he had tripped over roots in the Jungle, the absurd poses he showed off in the lesson… Everything was not only calculated, but it was the result of years and years of practice and research. Suddenly, Elise felt stupid for ever looking down on his lesson about appearing harmless. His act had worked so well on her that she had never even considered the possibility that he would need such an act. And she wasn’t the only one it worked on.
+
+“Would it be rude to ask to rub his belly?” said Jessie's voice in her head.
+
+“...If it was anyone else, I’d say yes,” replied Elise. “But I think Jag would be very happy if you did. It would be proof his efforts have paid off.”
+
+“I’m gonna do it.”
+
+“Can I rub your belly?” asked Jessie.
+
+Jag’s breath caught in his throat for a moment before he choked out a response.
+
+“Yes,” he said. “Y– you may.”
+
+Jessie stepped forward and got on her knees, rubbing one of his bellies with each hand. Elise saw a small tear forming in the corner of Jag’s eye as his emotions turned into pure bliss, with a strong sense of relief. Elise smiled and watched for a few moments before she realized that she herself had never felt Jag’s fur, and that his belly looked quite rubbable. A moment later, she joined Jessie on the ground, enjoying the feel of Jag’s surprisingly soft and luxurious fur.

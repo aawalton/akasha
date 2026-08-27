@@ -1,0 +1,171 @@
+---
+id: fc51e6ae-2e96-598b-9dc5-1f64d048c94a
+page-type-slug: story-chapter-royal-road
+title: "136 - The End of Maligar"
+slug: 0139-136-the-end-of-maligar
+partOf: cat-girl-evolution
+position: 139
+ownLength: 2864
+unit: words
+publishedAt: 2026-07-06
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3638169/136-the-end-of-maligar"
+royalRoadId: "3638169"
+---
+
+When we emerge from Joakim’s Dungeon and inform the Maligar Dungeon Core that we killed Joakim, the Dungeon Core thanks us so profusely that it gets really uncomfortable. He even appears in front of us in person in his real form and starts crying while hugging us. He looks basically exactly like I pictured him. That is to say, he looks like a computer scientist. Tall-ish, scrawny, baggy clothes, graying hair, and a scraggly beard. I guess he at least wasn’t lying about not being able to fight. He doesn’t look strong at all.
+
+Once he finally calms down, he thanks us more politely, and explains what happened since we went into Joakim’s Dungeon. There’s a solemn silence when he describes how Joakim slaughtered all the residents of the first Floor to power up his Dungeon and weaken Maligar. Thinking about that almost makes me regret killing him instead of keeping him alive and doing cruel things to him.
+
+Apparently, the Adventurer’s Guild also finally noticed that something was wrong with Maligar, and managed to re-take the first Floor from Joakim’s undead. A few of them had just started on their way up the Dungeon when Joakim tried and failed to usurp Maligar, and one of the Parties was now on the fourth Floor waiting out the time until the tree begins to evolve so they could come up and help. They don’t need to do that anymore, of course, but he assures us that had we been in trouble, we would have had support within a few hours.
+
+After that, it’s our turn to explain in more detail what happened in the Dungeon, and when we’re finally done with that, we’re able to get to the important stuff.
+
+“So, can we get some of those fruits now?” I ask.
+
+The Dungeon Core, whose real name we still don’t know, blinks, taken aback.
+
+“Oh. Yes. Right. Of course. I can’t reset the Dungeon Floor while you’re in it, though. Can you please go back to your Dungeon, wait about five minutes, and then come back out? I’ll reset the Floor so you can officially complete Maligar, and I’ll also give you the fruits.”
+
+“Yes!” I say. “Alright, everyone, back in! Move, move, move!”
+
+The others are still in a bit of a dark mood after the news of what Joakim did on the first Floor, so they’re a bit slow to get up. I’d be lying if I said I wasn’t also affected, but it’s not like moping about will help. And I’m sure a taste of world-renowned fruit will help us all feel better.
+
+Five minutes later, we re-emerge from the Dungeon, and this time, we’re pretty far outside of Maligar, standing on a hill overlooking what used to be the city.
+
+[ Dungeon Challenge: Witness the end of Maligar ]
+
+[ Floor Challenge: Witness the end of Maligar ]
+
+The city itself is gone, entirely dismantled to build a stone wall around the tree. I know that the wall is actually quite tall, since we saw it on the fourth Floor, but compared to the tree itself, it’s almost unnoticeable. The tree is now at least a couple kilometers tall, and its branches spread just as far, reaching far beyond where the territory encircled by the wall ends.
+
+The branches are dotted with fruits, some of which don’t look too far from us, but I’m sure they’re not quite that easy to get as they look. I’m sure that the tree’s aura Trait extends much further than it used to. Still, I really want to go grab them. They look delicious.
+
+Fortunately, I don’t have to. A few seconds after we arrive, some of the fruits pluck themselves from the tree and float down toward us. One by one, they land gently on the grass, and I immediately send constructs to take most of them into my Stomach while grabbing the biggest one for myself and extending a claw to peel off the skin.
+
+“Don’t eat it yet,” says the Dungeon Core’s voice beside me.
+
+“Too late!” I say, deftly cutting into the skin and pulling away a chunk of orange deliciousness.
+
+I stab it with my claw and pop the chunk into my mouth. Immediately my mind goes blank as the flavor of the fruit seems to take over every brain cell. All I can process is how delicious it is. I can’t even say why it’s so delicious, but all I know is that I want to devour the entire fruit right now. The juice is like divine nectar, and the meat is the perfect level of firmness. Each time I chew, new waves of flavor fill my mouth.
+
+I think I could die happy right about now.
+
+But, all good things must come to an end, and soon, I swallow, and while the incredible flavor lingers, it starts to lose some of its intensity. I immediately reach for another chunk, but then I feel the mana from the first bite of fruit start to kind of go crazy inside me. It beats against the walls of my esophagus on its way down, and fights against my Stomach’s attempts to consume it. Fortunately, it doesn’t manage to go anywhere, but it is strange, and it makes me realize that maybe the Dungeon Core’s warning had some merit to it.
+
+“Well, I guess you can safely eat it,” he says. “But if anyone else tries to, your mind and body will be taken over by the tree. At least wait until the thing dies to try it. Or better yet, wait until you’re out of the Dungeon. There’s no point in risking your lives for this.”
+
+“I dunno, the flavor might actually be worth dying for,” I say, cutting off another piece for myself. “When’s the tree gonna die anyway?”
+
+“Watch,” says the Dungeon Core, gesturing in the tree’s general direction.
+
+I delay my second bite of fruit to try to get a good look at what he’s pointing at. At first, I don’t see it. It’s just the tree. Though some of its central branches are weird. It looks like they’re reaching up toward the sun like they’re trying to grab it. But that’s silly. The tree might be big, but it’s nowhere near able to actually eat the sun. Unless the sun isn’t a star in this world?
+
+“Yona, look to your left.”
+
+I do that, but there’s nothing that special. Just some forest and hills and then the sunset…
+
+Wait.
+
+I look back at the “sun” above the tree and my eyes threaten to bulge out of my head. That is not the sun. That is a human holding a ball of mana shining so brightly that it looks like the sun. A ball of mana so intense that even from here, and even through Maligar’s spatial aura, I can sense it. I thought it was just the tree making the mana denser again, but now I see that I was mistaken. That’s not ambient mana. That’s just the residual radiation from the spell.
+
+Jaw hanging open, I watch as the miniature sun suddenly changes. It’s subtle, and slow, since it’s affected by the tree’s aura Trait, but it starts extending downward, directly toward the tree. It probably takes a half hour, but we all sit there mesmerized as the tree’s branches slowly converge, trying to block the projectile, only for it to burn straight through them as if they’re not there.
+
+After a little while, the projectile disappears into the center of the tree, and the world grows darker. The real sun is finished setting, and it’s night now. A bright beacon still shines upward from the center of the tree for a little while, but that soon disappears as well as the tree closes up behind it.
+
+For almost an hour, nothing happens. I continue to munch on the fruit, but my eyes stay glued to the tree until finally, something happens.
+
+It starts as just a bulging of the wood. Then, the trunk starts to splinter, and beams of light begin to escape. Soon, the entire trunk is shattered just above the base, and an explosion expands outward in slow motion, decimating everything in its path. It doesn’t seem to care whether what it hits is stone, plant, or earth. It all disintegrates under the force of the spell as the shockwave rolls outward.
+
+The intensity only starts to visibly lessen once it gets about five kilometers out in any direction. It’s still moving in slow motion, indicating the tree is not yet dead, somehow, but it’s not quite as powerful as before. Eventually, the light fades to almost nothing, and even the shockwave lessens to the point where not every tree it passes through is eradicated. Then, the tree finally dies, and everything starts moving at normal speed again. A gust of wind blows our hair and clothes back, flattening the grass around us, then that too fades.
+
+Almost nothing is left of the tree. Not a single branch survived, only at the very bottom of the resulting crater is there any evidence that there was ever a tree at all, but even those are rapidly disappearing. The remnants of its enormous root system are burning from the force of the explosion, and I’m sure that only the absolute deepest of it will remain. Nowhere near enough for the tree to regenerate, though, clearly.
+
+I turn to see the twins looking like their entire worldview has been shattered. I think back to when we first saw the crater, and they said that it would have to be created by a Tier 8 or 9. But back then, they weren’t accounting for the tree’s aura weakening any explosion. If it would take a Tier 8 or 9 to create that crater normally… who the hell made that crator through the tree’s aura?
+
+“That was the holder of True Patience,” says the Dungeon Core as though reading my mind. “Would you believe me if I said they were only Tier 8 when they did that? That’s just how strong the Sin and Virtue Traits can get. Even if she could only do that after stockpiling mana for 30 years, I’m sure you can imagine how devastating that attack would have been if not for Maligar’s aura Trait.”
+
+We all nod wordlessly as the dust continues to settle, and the fires in the distance start to go out.
+
+“Well, I must thank you once again for your assistance. I owe you my lives. If there is anything else you need, just say the word. And I’ll reset the Dungeon for you again, so you can restock on your fruits when you come back out and are able to pick up the Dungeon.”
+
+None of us respond, so the Dungeon Core disappears, leaving us to stare in silence.
+
+“So…” says Lauren after a few minutes. “Back into our Dungeon again?”
+
+“Yeah…” I say, tearing my eyes away from the crater. “Let’s go.”
+
+Even though we ate Joakim’s Dungeon, we still have fourteen days left before we can pick it up and leave. We planned to just use those fourteen days to relax and rest, and maybe work on our Professions, but as I walk back toward the black tear in space, I look down at the partially eaten fruit I’m hugging. It’s delicious enough on its own, of course… but I have a cooking Profession. A cooking Profession that is in dire need of leveling. And right here, I have access to basically an infinite amount of a world-renowned Delicacy.
+
+I think I know what I’m going to do with my two weeks.
+
+[ Your Target has completed the First Event! Automatically assigning new Target… ]
+
+[ New Target Found! ]
+
+[ Your new Target is Aryan, the Harem King ]
+
+[ Your patron deity has expended 1 Target Token. Rerolling Target… ]
+
+[ Your new Target is Edward, Halfsteel ]
+
+“Oh, so now you expend a Target Token,” said Sigrid out loud from her spot on her bed.
+
+[ Don’t you dare use that tone of voice with me, young lady. You’re already on thin ice. I have half a mind to just give this competition up entirely after that last stunt you pulled. But I’ll give you one more chance. Go kill your Target and I might reward you with something good. ]
+
+[ Avatar Quest: Pass the First Event. Reward: Something Good (Maybe) ]
+
+Sigrid sat up with a sigh.
+
+“I still don’t understand why you were willing to spend a Target Token on this Aryan guy, but not Yona.”
+
+[ I really don’t need servants who question me at every turn, but this time, I shall humor you. It is because I don’t want to have to look at Aryan, the Harem King. His existence is an affront to all that is beautiful, and he is the epitome of the reason that I voted against Lust being among the Tutorial rewards. The less I see and hear from him, the better. ]
+
+“What is that supposed to mean?”
+
+But there was no response. As usual. The fact that Sigrid had gotten two messages out of her patron god was actually out of the ordinary, and a testament to just how much the patron god disliked Aryan, the Harem King.
+
+He can’t be that bad, can he?
+
+Sigrid was not personally a fan of harems, but she was struggling to picture exactly what this other reincarnator could be like for them to disgust her patron god so. After a few seconds, she decided to give up, though, as she realized that those were things she did not actually want to picture. Additionally, her patron god was extremely unreasonable, and there was a good chance they were just overreacting.
+
+Whatever. At least I have a proper Target now. Onward I go, I guess.
+
+[ You have successfully escaped Maligar with the Diligent Watcher! Reward: Potion of Diligence ]
+
+[ You have cleared a Dungeon Floor! You may now choose to advance to the next floor, or exit the Dungeon. If you do not choose within one hour, you will be automatically ejected from the Dungeon. 59:58 remaining ]
+
+[ Advance ] [ Exit ]
+
+Kai could feel it. His Epithet was getting close. He had the talent, he had the skill, he had the fame… All he needed was a grand feat to cement him in history. And this was it.
+
+Maligar was in trouble. It was one of the most famous Dungeons in the nation for a multitude of reasons, and it was facing its greatest crisis ever. It was under attack from a Tier 4 Named monster, and not just any Tier 4 Named monster. A Tier 4 Named monster who happened to be a Necromancer. And the Maligar Dungeon Core had personally asked him for help. And now, it was time.
+
+“Are you ready?” he asked his Party members.
+
+The three mages nodded in unison. They were not the most talkative trio, but Kai thought that was a plus. They were quiet, diligent, competent, and best of all, subtle. Sure, they could cast grand spells, but they kept everything simple. A big fireball was impressive, but still just a big fireball. It wasn’t unique, unlike Kai.
+
+“This next Floor is where it happens,” he said excitedly. “The birth of the Silver Knight. We can’t mess up. Defensive measures ready in case of ambush. We ascend in 10. 9. 8…”
+
+The three mages charged their mana as Kai wrapped up his countdown and accepted the prompt to advance to the next Floor. When they arrived, they were on a hill far outside Maligar, with the infamous tree rising up as high as a mountain in the distance, its branches extending upward as if trying to swallow the sun. No one was waiting to ambush them, and there were no Dungeon entrances nearby.
+
+“Maligar?” called Kai, uncertain. “Where is the Dungeon?”
+
+Almost immediately, a small squirrel popped into existence nearby.
+
+“Oh, I am so sorry,” said the squirrel. “I completely forgot to inform you. The issue is already resolved. Thank you for your willingness to help, and please take this as a token of my appreciation.”
+
+The squirrel reached a forelimb to the side, and a fruit the size of a dwarf plucked itself from the great tree and flew towards them, stopping a meter in front of Kai’s face.
+
+“It would have been much more difficult to acquire this on your own, though still technically possible. And this is better than the ones that are easily available. Once again, thank you for your time and concern, and I wish you the best of luck in your future as Adventurers.”
+
+“Wait!” said Kai. “S– someone already defeated the necromancer?”
+
+“Yes, thankfully,” said the Dungeon Core.
+
+“Who?”
+
+The squirrel paused as though thinking.
+
+“It was Yona,” it finally said. “Sorry, Princess Yona. I believe you are already acquainted with her. If you want more details, feel free to ask her.”
+
+With that, the squirrel winked out of existence, and Kai fell to his knees in despair.

@@ -1,0 +1,189 @@
+---
+id: ca13e148-3e9f-5917-a051-6450cee49004
+page-type-slug: story-chapter-royal-road
+title: "75: Restaurant Brawl"
+slug: 0075-75-restaurant-brawl
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 75
+ownLength: 1916
+unit: words
+publishedAt: 2025-11-24
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2788805/75-restaurant-brawl"
+royalRoadId: "2788805"
+---
+
+With Sabine's help, flying turned out to be way more fun than Chloe expected. Once she got the hang of things, she actually started to enjoy herself.
+
+Sabine showed her how to glide smoothly, how to turn, and even how to dive without hitting a  tree. Chloe tried every trick she could think of, twirling and spiraling through the sky.
+
+At one point, Chloe glanced sideways and asked, “How’d you get so good at this, anyway?” Sabine explained that lightning magic helped, something about moving with mana, not against it.
+
+Chloe didn’t fully get it, but it sounded cool enough. So she just… zaps herself into flying? Wild.
+
+But eventually, Sabine turned to Chloe mid-flight and said, “We should land soon.”
+
+Chloe blinked and glanced around. “But I don’t even see the city yet.”
+
+“We’re close. But it's better if we don’t get spotted flying in.”
+
+“Why not?”
+
+Sabine’s answer came as she started to descend. “It’ll take too long to explain.”
+
+Chloe frowned and looked down. “Hey, wait up!”
+
+They landed near a riverbank surrounded by tall grass. Sabine touched down first, light as always. Chloe followed a bit less gracefully, stumbling slightly on the landing but managing not to eat dirt.
+
+As her feet touched the ground, she dismissed her wings with a flick of thought. The cool air by the river felt nice after all that flying, though she already missed being in the sky. Ugh. Ground is boring.
+
+Chloe stretched her arms overhead with a loud, unnecessary groan as the river faded behind them. “Flying is fun and all, but why do I feel like my spine is confused now?”
+
+“You’re not used to it yet, don't worry, things will get better the more you fly."
+
+"Kay, if you say so."
+
+The two of them walked in companionable silence for a while, following a narrow path that went through tall grass and patches of wildflowers. Eventually, Chloe spotted tall buildings, jagged rooftops, and stone walls that looked like they hadn’t crumbled despite really wanting to. Also, there was a wide road that led toward a huge front gate already packed with people, carts, and a suspicious number of goats.
+
+Chloe pointed. “There it is! So… what’s the plan? We climbing the wall? Turning invisible?"
+
+Sabine shook her head. “We’re not sneaking in.”
+
+“We’re not?”
+
+“No. We’re just walking through the front gate.”
+
+“Are you sure that’ll work?”
+
+“I am. We just need to get to the back of the line.”
+
+Chloe opened her mouth to protest, then closed it. Well… if it saves us from crawling through a sewer again, I’m in.
+
+The line was longer than Chloe thought was possible. Lots of people waited beneath the sun, most looking bored out of their minds. Toward the end, a small group of elderly Luphians surrounded a squeaky old cart loaded with colorful vegetables.
+
+One of them, a shaggy grandpa with snowy fur and a walking stick, gave them a curious look as they approached. “New to Varkos?”
+
+Chloe gave a cheerful wave. “Yup! First time. Do they give out snacks at the gate?”
+
+“Only if you count taxes,” said an older Luphian woman with twitchy ears.
+
+Chloe wrinkled her nose. “Ew. Dunno what taxes are, but that sounds awful.”
+
+As the line inched forward, so did their little conversation. Chloe learned all sorts of things, including the fact that Luphians apparently really didn’t like these bird-like people called Avians. Not that any of them were around. Chloe had never even seen a bird-person before. I wonder if they have feathers for eyebrows?
+
+The old Luphians kept chatting, mostly harmless gossip and occasional jabs at how slow the line moved. Every now and then, they gave Chloe a lingering glance, though never unkind. Chloe did her best to seem casual, sticking close to Sabine and absolutely not doing anything suspicious.
+
+By the time they reached the front, the sun had dipped pretty low. Chloe had been silently rehearsing her introduction to the guards, but before she could even open her mouth, Sabine stepped forward and pulled out something shiny.
+
+The shiny thing flashed in the sunlight, a polished silver… uh, something, that looked super official. The moment the guards saw it, they snapped to attention.
+
+“She’s with me,” Sabine said, all smooth and mysterious. “A guest.”
+
+The guards nodded, stepped aside, and just… let them through. No questions. No suspicious looks. Nothing.
+
+Chloe blinked. Wait, that’s it?
+
+She followed Sabine through the gate, still half-expecting someone to stop them. But nobody ever did.
+
+As they stepped past the gates and into the city proper, Chloe immediately turned to Sabine. “Okay, what was that shiny thing that let us get through the guards so easily?"
+
+“A diplomatic badge,” Sabine replied without looking at her. “It’s issued to certain individuals to allow passage through allied cities without trouble.”
+
+“Whoa. What’s a diploment?”
+
+“Diplomat, Chloe. They handle negotiations between nations. Talk instead of fight, ideally.”
+
+“Ohhh. So you must be, like, a really good one then!”
+
+“I’m not a diplomat at all, actually.”
+
+“Wait, what? Then how did you get the badge?”
+
+Sabine waved a hand. “Not important. What is important is that we find a place to eat. I’m starving.”
+
+The streets of Varkos were busy, noisy, and were filled with as many wolf people as Vorraska was. Buildings rose all over the place, some tall and proud, others patchy and lopsided, with wood and metal slapped on.
+
+But what really caught Chloe’s eye were the Luphians with the bitey tattoos. They had gray jaw symbols inked on their skin, on arms, necks, even right across the face in one case.
+
+And people definitely noticed them. Others crossed the street to avoid them, went quiet when they walked by, or pretended not to see them at all.
+
+Chloe leaned toward Sabine, whispering, “Hey. Those people with the bitey tattoos... who are they?”
+
+“They're with the Ironfang Syndicate. Best to steer clear.” Sabine said.
+
+Chloe nodded slowly, but her eyes stayed on one of them, a lean guy leaning against a post with a cool  looking jacket.Okay… but they look kinda awesome though.
+
+Still, she didn’t argue and followed Sabine past a fountain shaped like a wolf. Eventually, they ducked into a quieter corner of the city where a restaurant waited. It didn’t look super fancy; just a wide doorway, a few wobbly tables, and a Luphian waiter who looked like he’d been leaning on that doorframe since morning.
+
+But Sabine walked in like she owned the place, so Chloe followed right behind her, trying to look confident and definitely not like she was two steps away from knocking over a chair.
+
+The restaurant was cozy, with mismatched tables that gave it more charm. But Chloe’s eyes immediately landed on a nearby table where a fluffy Luphian family was seated, two parents and three little wolfie pups, all wagging tails and wobbly ears. One of the pups was chewing on a spoon while the others tried to stack slices of bread into a tower.
+
+Chloe practically melted. Awwww. Look at all the tiny wolfies!
+
+They were seated fast by a lean, red-furred Luphian waiter with a nice voice and a dirty vest. He handed them heavy menus carved into wooden boards, then clasped his paws behind his back. “What can I get for you?”
+
+Sabine barely glanced at the menu. “Two orders of smoked river fish, roasted root salad, a plate of fried peppers, three skewers of honeyed meat, and the wildberry tea.”
+
+The waiter blinked at the list, then quickly scribbled it down on a small note thingy. Chloe, meanwhile, stared at her menu. Half the words made no sense, and the pictures didn't help either as she didn't recognize most of the foods anyway.
+
+“Uh… I’ll have the steak? I guess?”
+
+The waiter nodded. “Would you like anything else?”
+
+“No thanks,” Chloe replied quickly. One mystery dish is enough for now.
+
+“I’ll be back shortly,” he said, before slipping off toward the kitchen.
+
+Once he was gone, Chloe leaned her elbow on the table and gave Sabine a sideways look. “So... that was a lot of food.”
+
+Sabine didn’t even glance up as she reached for her water. “Flying makes me hungry.”
+
+"Hmm, I guess I get that. Oh, do they serve brains here?"
+
+"No, Chloe, they don't."
+
+"Aww, really?"
+
+"Yes, we'll get you some brains next time, alright?"
+
+"Fine…"
+
+Eventually, their food arrived in a glorious parade of sizzling platters and steaming bowls. The roasted peppers looked nice, the honeyed meat was also neat, and the steak, well, Chloe poked it suspiciously once, then beamed. “Oh, this looks not bad actually."
+
+Meanwhile, Sabine was already cutting into her food by the time Chloe picked up her fork. Chloe jabbed the steak half-heartedly. It looked nice, and probably tasted great too, but it wasn’t brain. So really, what was even the point?
+
+She nudged it again with her fork. Yeah. Still not a brain.
+
+However, they had barely started eating when the air in the room changed. The sound of boots thudded across the floorboards, and the low chatter in the restaurant faded into a hush.
+
+Chloe looked up to see four Ironfangs guys walking in like they owned the place. Each one had the same gray jaw tattoo, some on arms, some on necks, and one guy had it stamped right across his bald head. Huh, didn't know wolfies could even be bald.
+
+They didn’t bother looking for seats. The biggest of them, the bald one, walked straight up to Chloe and Sabine’s table and stared down at them. “You’re in our spot."
+
+Sabine calmly wiped her mouth with a napkin before answering. “We arrived first.”
+
+Chloe nodded supportively. “Yeah, also, we already ordered food. And ate some. That makes this our table now."
+
+The Bald Ironfang narrowed his eyes. “You can leave. Or we can make you.”
+
+Sabine stood up slowly. “This is our spot."
+
+All four Ironfangs stepped forward. And Chloe figured they were gonna attack, so she decided to attack them first, and punched the nearest one in the face. Her fist connected with a satisfying crack against the bald wolfie, and all chaos broke loose.
+
+Tables went flying. Glass shattered.
+
+The red-furred waiter screamed and dove behind the counter as Chloe spun into a wild kick that sent a chair skidding into someone’s knees.
+
+Sabine moved too. Lightning flickered along her arms, casting sharp flashes across the room. She flicked a hand and a bolt shot across the floor, slamming a charging Ironfang guy straight into a wall.
+
+Another came at her with a dagger. But Sabine just lifted her palm and blasted him backward with a crackling shock that set his fur smoking.
+
+Chloe ducked as someone swung a chair at her. She retaliated by whipping her steak plate at them. It shattered across their face.
+
+Another Ironfang lunged at Sabine with a snarl, but Sabine barely glanced his way before blasting him across the room with a crack of lightning.
+
+Chloe felt pretty good about how things were going. These Ironfang guys weren’t that tough after all. She was already planning a victory pose when she noticed the bald one standing up.
+
+He stepped forward slowly, eyes beginning to glow. Then he threw his head back and unleashed a howl so deep it made the walls tremble. Light pulsed under his skin, racing along his veins.
+
+Chloe blinked. Okay. That seems new. Wonder what he's all about?

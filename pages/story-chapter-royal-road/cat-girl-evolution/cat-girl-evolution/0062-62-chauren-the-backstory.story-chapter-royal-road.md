@@ -1,0 +1,279 @@
+---
+id: 537e47ba-f3fc-5bbf-b5c3-7863409c8a4f
+page-type-slug: story-chapter-royal-road
+title: "62 - Chauren: The Backstory"
+slug: 0062-62-chauren-the-backstory
+partOf: cat-girl-evolution
+position: 62
+ownLength: 2758
+unit: words
+publishedAt: 2025-12-14
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2846439/62-chauren-the-backstory"
+royalRoadId: "2846439"
+---
+
+Lauren is on guard the whole way to the Guild, but I’m more relaxed. I keep a part of my mind on Food Sense in case anyone approaches suspiciously, but no one does. And as Abby said, anyone who can avoid my Food Sense probably isn’t someone we have much chance against in the first place, so it doesn’t really matter.
+
+Of course, we make it there safely without anything going wrong, and head to the front desk to ask for Pike. Apparently, he doesn’t work this late (go figure), but when Lauren says it’s urgent, they send a runner to his house to fetch him. In the meantime, we take a seat at one of the tables in the main lobby and just hang out until he gets here. It’s not too busy, since it’s so late, but there’s still a steady stream of Adventurers entering and exiting, and most of them give me at least a glance. Some of them stare. As they should.
+
+“Hey, Lauren, how come we’re here and not asking the city guard or the police or whoever’s in charge of city security?” I ask after a minute or so.
+
+“Because we’re Adventurers,” she says. “If we weren’t, we would be with them, but the Adventurer’s Guild has access to the same safehouses with less rules about how we can use them. We just need permission from Pike and we can get in. If we went to the police, we would have to fill out a bunch of paperwork and go through some interviews and stuff like that to verify that we are actually in enough danger to need it. I mean, we’d have to do that here too if we were weaker, but I’ve known Pike for long enough that he’ll just take my word and we can be in the safehouse pretty quickly.”
+
+“Huh,” I say. “So basically, we’re here because we can bully our way in through connections?”
+
+“Well, I wouldn’t—”
+
+“I like the way you think,” I say, nodding.
+
+She stares at me for a second, then sighs and looks away, and we go back to silently observing the room. I eavesdrop on a few conversations, but it looks like none of the Adventurers are dumb enough to be whispering about me in a room full of people who probably have pretty high Sensitivity, so I don’t hear anything fun that I can directly interact with. I do hear a few flattering and unflattering comments from the Adventurers walking around outside. There’s nothing super interesting though, so after another minute, I turn my attention back to Lauren and ask a question that I’ve been waiting to ask for a while.
+
+“So what’s your history with Chad?”
+
+She tenses up.
+
+“Nothing.”
+
+“I’m pretty sure it’s not nothing.”
+
+“It’s nothing important,” she says, looking away.
+
+Her ears are turning red. She’s definitely embarrassed about something. That means that she did something. Or at least, she feels like it was her that did something.
+
+“What did you do to him?”
+
+“I didn’t do anything to him!”
+
+“I dunno. That’s exactly what someone who did something to him would say.”
+
+“I didn’t! We were just Party members! That’s all!”
+
+“Aha! I knew there was something!”
+
+“That’s nothing! We’re basically just friends.”
+
+“Mhm. Then why aren’t you in the same Party now? You don’t seem to dislike each other.”
+
+“Parties form and break up all the time,” she says, her face very red as she looks away. “Our mage got married, and Chad and I were already near the top of Gold, so we didn’t really need a Party anymore, and we decided to split up.”
+
+“I see.”
+
+That’s definitely not the whole story. She’s way too embarrassed for that to be the full story. In fact, she’s so embarrassed that other Adventurers are noticing, and a few of them are not-so-subtly eavesdropping on our conversation. I love relationship drama. It’s the one thing in life that brings the world together.
+
+“So if I go find this mage and ask them…” I say.
+
+“They’ll say the same,” she says quickly.
+
+“And if I ask Chad?”
+
+“...The same.”
+
+“You hesitated.”
+
+“I didn’t!”
+
+“Just spill it already. What happened?”
+
+“No.”
+
+“Ha! You have just proven that something happened!”
+
+“Wha–? No I didn’t!”
+
+“Yeah. If something didn’t happen, then you would have said ‘nothing happened,’ but instead, you just said ‘no,’ meaning that something did happen and that you don’t want to tell me.”
+
+“W-Well–! I–! That doesn’t–!”
+
+I smirk at Lauren’s sputtering. She’s about to break. I’ve seen it many times before. Time to play nice cop!
+
+“Lauren, back home, I was basically the best matchmaker in the country.”
+
+“Oh, not this Cupid of Moscow thing again.”
+
+Shut up.
+
+“I looked that up, by the way. There was no one known as that, according to your internet.”
+
+Why would that be on the internet? Anyway, shut up, you’re distracting me.
+
+“I’ve helped loads of couples figure it out. I’m just trying to help here. Just tell me what happened.”
+
+Lauren eyes me suspiciously.
+
+“I promise not to tell Chad. Unless I think it’ll help.”
+
+“That’s not very reassuring.”
+
+“Trust me, I know what I’m doing.”
+
+She stares at me for a few seconds, then lets out a long sigh. Gottem!
+
+“Fine,” she says. “And I don’t care if you tell Chad, because he knows the story. It’s not even a long story. Basically, I asked him out, and he rejected me.”
+
+“No!” I say, gasping.
+
+“Yeah,” she says, slumping forward.
+
+“Why did he do that?”
+
+“Well, at the time, we were still Party members. He said he was worried about personal feelings getting in the way of work. Things were pretty awkward after that, and then a couple months later, our mage retired and we went our separate ways, and until the emergency Quest, we hadn’t talked since.”
+
+“I see,” I say, nodding seriously. “Well, that’s easy. Just ask him out again!”
+
+“What?”
+
+“I mean, he clearly likes you.”
+
+“N– no he doesn’t. He doesn’t care for me at all.”
+
+“What are you talking about? Didn’t you see the way he was looking at you the whole emergency Quest?”
+
+“H– how was he looking at me?”
+
+Her embarrassment is now gone, and she’s looking at me with a hopeful, almost eager expression. The room is now more full than it was earlier, since a few of the people that probably would have left by now stuck around to eavesdrop, and everyone else is moving a bit slower, keeping an ear open to listen.
+
+“Well,” I start.
+
+Before I can get any further than that, the door slams open, and Pike stomps in, his wooden leg clunking against the wooden floor. He’s not wearing his usual armor, instead dressed in salmon-colored linen pajamas. He spots us immediately and power walks toward us, but slows down as he gets closer, his expression showing a hint of suspicion and confusion.
+
+“You seem to be in high spirits for someone who just survived an assassination,” he comments, looking at me.
+
+“I dunno if ‘survived’ is the right term since they were never in the same place as me. They showed up while I was gone.”
+
+“Yes, but you’re remarkably unconcerned for someone who came here so I could unlock the safehouse for you.”
+
+“Why would I be concerned when there’s such a robust safehouse?”
+
+“Are you not worried they’ll attack again before you get inside?”
+
+“In public? Not likely. Plus, I would notice if they tried. You know firsthand that sneak attacks don’t work very well on me.”
+
+“Assassins have many ways to get around awareness Skills and Traits.”
+
+“If they have a way around mine, then it doesn’t matter what I do. I’m dead either way.”
+
+Pike looks at me for a second, then glances around at all the people who have completely stopped what they’re doing to listen in on our conversation.
+
+“This isn’t the right place for this conversation,” he says. “Let’s go to my office.”
+
+As we follow him upstairs, I find my attention drawn to his leg again. It is still not edible, even after Gluttony leveled up during the emergency Quest. The wood on his leg looks a bit darker than the wood on the Scepter of the Temperant Idol, but the grain looks similar. I think. I’m not an expert on wood, but they’re at least not obviously different.
+
+“Hey, Pike, is your leg a Soul Weapon?”
+
+“No,” he says. “And it was a personal gift from a friend, so I would appreciate if you stopped asking about it.”
+
+“Okay.”
+
+Dang, shut down. And he didn’t even do it rudely so I can’t keep asking about it without seeming like an asshole.
+
+When we get into his office, he snaps his fingers and the mana-powered lights around the room turn on. He takes a seat at his desk and folds his hands in front of him fixing us with what is probably supposed to be a serious and intimidating stare. Unfortunately, the effect is somewhat ruined by the salmon-colored pajamas.
+
+“Tell me what happened,” he said. “Don’t leave out any details, and explain to me why you need the safehouse.”
+
+I let Lauren handle that part, since she probably knows what he wants better than I do. She covers the whole situation, including a few of her own theories that I didn’t realize she had. For example, she mentions that it’s possible that they thought I was home since I teleported out instead of going out the door, so they might have seen Lauren leave, but not me, and assumed I was still home. Pike nods along with everything he says, and when she finishes, he sits silently for a few seconds, then looks me directly in the eyes.
+
+“What I am about to say cannot leave this room,” he says. “This is classified, and I am technically not allowed to be telling you about it.”
+
+“Yes, sir,” says Lauren.
+
+“Aye-aye, Cap’n,” I say.
+
+“Excuse me?” he says.
+
+“Sorry. I mean, yes, sir! I won’t tell anyone!”
+
+He narrows his eyes. “If you do, know that you will lose your Adventurer’s License, and you will not be able to appeal it.”
+
+“I understand.”
+
+“Good,” he says, nodding. “Do you remember what I said before giving you the emergency Quest in Ryantown? About the Named monsters?”
+
+“How there were an unusual amount of them recently?” guessed Lauren.
+
+“Yes. Well, one of them was in the eastern swamps, and the one who slayed it was a mysterious man of unknown origins who claimed to be the herald of a god. The Guild took him in and kept him in a Guild-owned property while they tried looking into his background. Nine days ago, he was assassinated.
+
+“The city he was being kept in was Tarnton, which is normally a 20 day trip from here, but with high enough Stats or fast transportation, a determined person could easily cut that trip down to nine days or less.”
+
+“So you think that the person that broke into my house is the same person that killed that man?”
+
+“Yes,” he says. “And whoever it is is targeting the killers of the Named monsters. And I believe that the Guild already suspected this, since around this same time, I also received word that a Guild investigator was on their way, and will be arriving soon.”
+
+“Oh,” says Lauren. “Yona’s in a lot of danger then.”
+
+“Almost certainly,” he says. “Which is why I will definitely be unlocking the safehouse for you. In fact, I was already preparing one for this exact reason. I didn’t expect to need it so soon, but the cleaners just finished earlier today, so you’ll find it as comfortable as a defensive bunker can be.”
+
+“Thank you,” says Lauren, looking relieved.
+
+“It will remain available to you until the threat is resolved, or until the Guild investigator arrives and declares it unnecessary. Of course, you are free to reject, or to leave as you please, but you do so at your own risk, and I would ask that you don’t, as if you die before the investigator arrives, it will make things much more difficult.”
+
+Lauren nods, then turns to me.
+
+“Ah, yeah,” I say. “Sounds good.”
+
+“Then that’s settled,” says Pike, standing back up. “Remember, you cannot speak of what we just discussed outside of this room.”
+
+“Yes, sir,” says Lauren.
+
+“Yes, sir,” I echo.
+
+“Then follow me. I’ll show you the way.”
+
+The whole way to the safehouse, Lauren and I are both completely silent. The safehouse itself looks mostly like a normal house with an iron gate around it, but using Food Sense, I can see a lot of differences. The walls are about three times as thick, made of solid stone bricks, and are absolutely packed with mana. There’s also a really big basement lined with the same stuff, and there are intricate lines of mana all over the place, and some of them seem to react to our presence.
+
+“This is the key,” says Pike when we reach the entrance gate.
+
+He hands it to me, and I take a look at it. The metal part looks like a normal key, but the handle is a big green crystal thing that’s full of the same intricate lines that surround the house.
+
+“Right now, all the defenses are active. If you try to enter without this on your person, they will activate, and you will be completely locked out and an alarm will sound. Don’t lose this. You can bring others in with you if you want, but they need to be within two meters of the key, or they will be treated as intruders.
+
+“The house is fully stocked with all the essentials, including food, water, healing potions, and even a few defensive artifacts in case of emergency. All potions and artifacts are tracked, and if we find that you are using them excessively or unnecessarily, you will be charged for them. The same goes if you destroy anything. Do you have any questions?”
+
+Lauren and I both shake our heads.
+
+“Then I’ll leave you to it. Stay safe, and good luck.”
+
+With that, he walks away. I wait until he’s gone, then look down at the key.
+
+“Yona, is something wrong?” asks Lauren.
+
+“Huh? Oh. No. It’s nothing.”
+
+We enter the house and find that it’s… a little lame. It’s definitely a shelter meant for a lot of people, and not two people. All the beds are bunk beds, and all the bedrooms have a bunch of them. They’re not very comfortable either. But that’s whatever. I can deal with it.
+
+Lauren and I quickly check the entire house to make sure we know where everything is, and then I tell her that I’m tired and going to bed before teleporting into the topmost room and locking the door.
+
+Abby… This is really bad, isn’t it? Am I screwed?
+
+“What do you mean?”
+
+He said that the guy that killed the other Named monster was a guy with a mysterious background who said he was the herald of a god. Ring any bells?
+
+“Oh, the competition. Right.”
+
+Right. And you know what that means?
+
+“What?”
+
+That guy was a monster. Probably. The goddess said there were 29 others reincarnated like me, and Joshua was clearly a ghost shark monster, so he wasn’t human either. That means that guy probably wasn’t human either. Does Perfect Disguise stay active if I die?
+
+“No, it will disable… Ah, I see the problem.”
+
+Yes. If he died, then they would know that he was a monster too. And if they know that he was a monster…
+
+“Then they likely suspect you as well.”
+
+Pike didn’t mention that the other guy was a monster, but that’s just further proof. He probably either wanted to see my reaction, or get me to keep my guard down. Either way… This is really bad, right?
+
+…
+
+Abby?
+
+“Sorry, I was just surprised by you suddenly talking like an intelligent person.”
+
+I always talk like an intelligent person.
+
+“And yes, this does seem quite bad. But it’s not unsalvageable. Perfect Disguise can’t be seen through by normal means. And it sounds like they have no way to verify your backstory easily.”
+
+Yeah, but I have no way to clear my name. And if the Guild is sending an investigator, they probably have ways to find things out. I think I might really be screwed.
+
+“...Yes, you might be screwed.”

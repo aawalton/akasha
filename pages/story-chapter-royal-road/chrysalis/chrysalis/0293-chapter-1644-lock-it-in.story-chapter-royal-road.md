@@ -1,0 +1,77 @@
+---
+id: f3b109bd-baaa-5d11-a586-f5b92591f5d8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1644 - Lock it in"
+slug: 0293-chapter-1644-lock-it-in
+partOf: chrysalis
+position: 293
+ownLength: 1070
+unit: words
+ownProgress: 1070
+publishedAt: 2025-09-12
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2593932/chapter-1644-lock-it-in"
+royalRoadId: "2593932"
+markedReadAt: "2026-06-29T19:53:11.249Z"
+---
+
+Even with so many changes made, there was still an abundance of energy remaining. A tier eight evolution was certainly no laughing matter, and the triad wavered back and forth over how it should be spent.
+
+Reforging Anthony’s brains was definitely a strong possibility, but would be expensive if done correctly. After all, there were multiple sub-brains to reforge, along with the coordination cortex and main brain. Doing some and not others would hamper efficiency, but doing all at once would use a huge chunk of the remaining energy.
+
+There was a powerful argument for spending a large sum of energy on simply bulking up Anthony’s raw power. With his musculature reset, adding more Might in the form of muscle mass was even more tempting, as he would get more bang for his buck from every drop spent there. Conversely, spending on his brains was another good idea, since Anthony’s magic was exceptionally strong, but without reforging them, the efficiency was comparatively poor.
+
+Fancy resets were one thing, but there was seldom a safer bet than sheer, raw power. Anthony had distributed his evolutionary energy across his brains and physical strength since the beginning, which had left him somewhat deficient in both.
+
+The triad consulted and decided a sizeable portion of energy would be devoted to increasing his Might, Cunning, Toughness and Will.
+
+With the decision made, they made another pass through his body, adding size where appropriate, density in other areas, increasing the mass of his brains and musculature. More bite strength, more muscle control around the legs and thorax, more brain matter. They worked as fast as they could, refining, shaping, ensuring that overall balance and efficiency wasn’t compromised, relying on their hundreds of years of collective experience and extensive study of the ant form.
+
+With the job done, they collectively nodded, satisfied with their work. Anthony would need to start mutating his tendons the second he woke up, lest he tear himself apart the moment he tried to move. Other than that, he would enjoy a significant boost to his statistical strength.
+
+And yet, more energy remained. Reluctant to add more organs, they prevaricated, unsure of which direction to go, yet aware that every second that passed brought Anthony’s death that little bit closer. After all, the evolutionary process wouldn’t begin to consume the infection until after it had begun.
+
+Pressed for time, the triad decided to break one of their own soft rules. They would commit to reforging the sub-brains and coordination cortex, but leave the main brain alone. If they tried to do all five, the remaining budget of evolutionary energy would force them into sub-optimal choices. Although it would cause some imbalance within Anthony, he would still benefit from vastly improved sub-brains, able to handle his general, non-gravity related spellcasting and improved coordination between them.
+
+Committed to a course of action, the triad set to work, diving into the lists and looking for the most optimal materials.
+
+The obvious direction for the sub-brains was to utilise a material especially suited to mind mana, since they cast and maintained the constructs that then went on to handle the rest of the mana, yet it wasn’t necessarily the best choice. After all, any material could be specialised towards mind mana via mutation, and the most specialised brain materials were relatively cheap, but not the most powerful.
+
+Ultimately, what mattered when handling mana was force of mind and will. They had enough evolutionary energy remaining to ‘go for the good stuff’, so to speak, and so they delved deeper into the lists, looking for a better choice.
+
+Stormforce Array. A mental construct of energy and light, this material overcomes the limitations of the flesh. Imbued with the power of the storm, it enhances and magnifies strength of mind.
+
+After being properly mutated, Anthony would find himself able to host more than double the amount of mind constructs, each far more powerful than before.
+
+Next they turned their attention to the coordination cortex. Processing power almost didn’t matter here. After all, the cortex was more of a relay than anything else. It only had to act as a medium for the actual brains to do the work efficiently. The only thing they had to focus on was speed.
+
+With their remaining budget, purchasing such a specialised material was surprisingly simple. More dynamic options were always more costly, after all.
+
+As it turned out, Radiant Dynamo looked perfect for the cause. With exceptionally fast transmission speed, the cortex would be able to function far faster than any of the brains it was connected to, which was necessary for it to work.
+
+With the tiny amount of energy left over, the triad performed a final pass, making Anthony’s nervous system mutable and ensuring every drop of energy was spent as they touched up his musculature.
+
+With this, the evolutionary process was complete. All in all, Anthony would come out the other side much stronger than he was now, yet they were still unsatisfied, knowing this wasn’t what he would have chosen for himself.
+
+The triad resolved to trip the next cultist of Theorazzn they met, on a hard surface as well.
+
+[Anthony? Are you happy with this?] they asked him.
+
+The giant ant was strained to the breaking point, trying to hold back the infection that threatened to steal away his life at any moment.
+
+[You… you did well. Start… start when you… can.]
+
+The triad nodded, took a collective breath, then initiated the process.
+
+Immediately, Anthony’s consciousness began to slip away as his body fell into a deep slumber. Soon it would begin to change, eating up the energy from within, they just had to make sure he survived long enough for the process to work.
+
+The triad slammed their hands against his carapace and pushed their minds within, desperate to help.
+
+[He’s going to sleep!] they announced to the surrounding healers. [Keep him alive just a little longer!]
+
+~~~
+
+The chal continued to slide along in a solemn procession while ants patiently waited in side tunnels and rooms for them to go past. Wherever they were headed, it was deep in the fortress, and at their current pace, it may take some time for them to get there.
+
+The snails were still very small, after all.
+
+Where are you going, little ones? Florence thought to herself. And just what are you going to do when you get there?

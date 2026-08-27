@@ -1,0 +1,139 @@
+---
+id: a30afc70-9db5-5571-909c-245bbd11cb10
+page-type-slug: story-chapter-royal-road
+title: "114: Death Game"
+slug: 0114-114-death-game
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 114
+ownLength: 1662
+unit: words
+publishedAt: 2026-02-16
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3059623/114-death-game"
+royalRoadId: "3059623"
+---
+
+Chloe explained everything that had happened to her so far. She told them about the rabbit fey first, who had been a jerk right from the start. Then there was the flower fey, who had turned out to be an even bigger jerk, mostly because he had tricked her into walking into a dungeon.
+
+After that came the Fog Spewer, who was absolutely the biggest jerk of all. She made sure to describe that one properly, including the fog tricks, and the part where she very clearly blew its head up.
+
+Worst of all, despite all her awesomeness and very impressive effort, the stupid fog dragon was still alive somewhere out there. “Anyway, after all that, I got Mr. White to help me go through this really, really long tunnel. And now I’m here.”
+
+Raenof rubbed the back of his head. “That sounds like you went through quite a lot, but I'm just glad you are safe.”
+
+Chloe puffed up as she crossed her arms. “Of course I’m safe. As if I'd lose to some dumb fog dragon."
+
+Mr. White snorted beside her, like he agreed completely. Ynett smiled and tilted her head just slightly. “Of course, if there's anyone here who would be aware of your… durability, it would be me."
+
+Chloe shot Ynett a sharp look, the kind that clearly promised trouble if the snake lady kept talking. Ynett only shrugged in response, looking completely unbothered.
+
+Ignoring the snake lady, Chloe turned back to Raenof. “So, did you guys figure out how to get out of this place yet?”
+
+“We have been lost for a while, to put it bluntly.” Raenof said with a sigh.
+
+Sierra nodded quickly as she hugged her arms close to herself. “It’s… um… it’s hard to tell where we’re supposed to go. Everything in this place smells the same after a while.”
+
+“And trolls,” Chloe added helpfully. “Don’t forget trolls.”
+
+Sierra nodded again. “Yeah, there are a lot of trolls. We’ve mostly just been fighting them all this time while trying to find our way out."
+
+Chloe scrunched up her face as she thought about it. Getting lost forever in a gross flower dungeon sounded bad. But also, going back to fight the stupid fog dragon didn't exactly sound like it would be easy either.
+
+The fact that the Fog Spewer could regenerate was just unfair. Regeneration is only fair when Chloe did it, and that was just a fact.
+
+She was just about to say something, until Ynett spoke up. “It is unlikely we will leave this place without dealing with the Fog Spewer. This area feels like it's shaped by an individual's power, a domain, if you will. Until whoever creates this domain is dead, we are probably not going to leave this place."
+
+Chloe hated that Ynett was making sense. Stupid snake lady and her not so stupid words.
+
+"If the Fog Spewer truly controls this place, then finding it should be our priority.” Raenof said.
+
+Chloe huffed. “Sure, but just so you all know, that guy is a mega jerk. Like, he lied to me, tried to mess with my head, and then regenerated after I blew its face up.”
+
+"Right, you did mention that before. How fast did it regenerate exactly?"
+
+"Uh, a couple of seconds pretty much. I think it regenerates about as good as I do, much as I hate saying that."
+
+Sierra made a small, worried sound. “That’s… um… not good.”
+
+“Nope,” Chloe agreed. “But it’s okay. I’ll just hit it harder next time.”
+
+With that extremely solid plan in place, they started moving again. Of course, the dungeon didn’t get any nicer the deeper they went.
+
+Chloe walked at the front this time, because she’d already been tricked once and wasn’t about to let that happen again. Mr. White clacked along beside her. Raenof, Ynett, and Sierra, followed behind as well.
+
+They walked for a long while after that. The dungeon stayed rude the entire time.
+
+Every few turns, another flower troll showed up like it had been waiting just to annoy them. Chloe blasted most of them without slowing down, mixing fire and lightning until the plant monsters stopped moving. Sometimes Raenof stepped in to help, sometimes Sierra did, and sometimes Ynett froze things solid.
+
+Eventually, the path opened up into a corridor that ended in something that felt completely wrong for this dungeon. Instead of fog, rot, and flower trolls, there was a huge entrance covered in brightly colored vines. Even weirder was how there was glowing moss that lined the floor like fancy lights.
+
+Big signs made out of vines and leaves stood right in front of it. One proudly read ESCAPE HERE, another said SAFETY INBOUND, and right in the middle, was a sign that said THIS IS NOT A TRAP.
+
+Chloe stared at the signs for a few seconds, feeling super insulted. She was the smartest zombie ever, and those signs were obviously pointing straight into a trap.
+
+Raenof stopped beside her, looking just as unimpressed. “This entrance certainly isn't trying to be subtle."
+
+Sierra peeked out from behind Chloe, her ears twitching nervously. “Are we… um… are we really going in there?”
+
+“Oh, I find it charming. It is rare for a trap to announce itself so confidently.” Ynett said.
+
+Mr. White snorted and stomped at the ground, clearly wanting nothing to do with it. The group stood there for a moment, just staring at the entrance.
+
+Eventually, Raenof rubbed his chin. “If the Fog Spewer controls this area, then this area is probably some kind of attempt to mislead us. Not a very good one, mind you, but an attempt is an attempt."
+
+"Wait, actually, what if this is some kind of trick to try and get us to not go in?" Chloe asked.
+
+"You mean reverse psychology? That could be a possibility, now that you mention it."
+
+"Well, I dunno what a reverse psycho trophy is or whatever, but what I mean is maybe the signs are trying to secretly get us to not go in."
+
+"Chloe, that's what reverse psychology is."
+
+"Oh, really?"
+
+"Yes."
+
+Sierra shifted her weight, hugging her arms close. “I don’t think it’s safe, but… I don’t really see anywhere else to go.”
+
+Chloe glanced back the way they had come. “Yeah. Going back sucks. And staying here sucks. So this is kinda our only suck left.”
+
+Ynett’s smile widened just a bit. “Precisely. We do not have the luxury of choice.”
+
+Chloe groaned and dragged a hand down her face. “I hate that. I really hate when the bad idea is also the only idea.”
+
+She took a few steps toward the entrance and stopped just before the colorful tunnel. Chloe cracked her neck, then moved in with the others.
+
+The moment they went in, the air felt like it was pressing in on her while also trying to lift her off the ground. Colors burst around them all at once, so much that her eyes almost hurt just looking at it all.
+
+And boy, Chloe really didn't expect the tunnel to open up into this big arena. The floor was wide and made from dry soil, which was kinda weird considering how damp everything was so far. But she supposed some kind of magic had to be involved in making this place.
+
+Tall platforms rose in uneven rings, carved from crystal and stone. Above them, the ceiling vanished into swirling light that Chloe wasn't sure where it came from exactly. Probably just some weird fey magic.
+
+Speaking of fey, there were a stupid amount of them here. Like, a lot of them.
+
+They filled the edges of the arena, perched on ledges, lounging on floating petals, or hovering lazily in the air. Some looked almost cute, with wings and bright eyes and flower crowns. Others looked sharp and wrong, all too many teeth and strange limbs. They whispered and laughed among themselves, looking weirdly excited.
+
+And from Chloe's experiences so far, happy fey wasn't good news. Chloe slowed, staring around with open suspicion. Okay, I don’t trust almost anything or anyone here.
+
+Mr. White stepped in beside her. Raenof and Sierra followed close behind, both clearly overwhelmed. Sierra clutched her sleeves, ears flat, eyes darting everywhere at once. Raenof’s expression stayed calm, but Chloe could tell he was tense. Ynett, of course, looked perfectly fine.
+
+Some of the fey were laughing and pointing at Chloe for some reason. So, she planted her hands on her hips. “Hey, just so you know, staring is rude!"
+
+A few fey laughed. Others hissed softly. One threw something that looked like a glowing berry, which splattered against the floor.
+
+The light above them darkened suddenly, colors pulling inward as fog began to pour down from the ceiling. The whispers fell quiet, replaced by excited murmurs that crawled through the crowd.
+
+The fog gathered at the center of the arena, twisting and squeezing in on itself until a massive shape pushed its way out. Rotten scales formed first, followed by exposed bone. The Fog Spewer soon emerged, lowering its head toward them, fog spilling from its mouth constantly.
+
+“Welcome back,” it rumbled, its voice rolling through the arena and vibrating in Chloe’s bones.
+
+Chloe pointed at it immediately. "I'm sooo going to get you this time you big jerk!"
+
+The Fog Spewer ignored her completely and spread its wings wide. “Honored guests, you have wandered far and wide to reach this magnificent arena. Such effort deserves reward.”
+
+Chloe glanced at the crowd, then back at the dragon, her mouth twisting into a scowl. “I don’t like the way you said that.”
+
+The Fog Spewer’s glowing eye fixed on her, clearly amused. “Then allow me to be clear.”
+
+The lights flared brighter all at once, colors surging through the air as the arena began to hum. Magic pulsed through the ground beneath their feet, crawling up Chloe’s legs in an unpleasant buzz.
+
+“Welcome to the Feywild Death Games!"

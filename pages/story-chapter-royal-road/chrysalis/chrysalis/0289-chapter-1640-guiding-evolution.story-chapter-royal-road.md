@@ -1,0 +1,75 @@
+---
+id: 0f748e9b-6cda-57fa-b2f0-f3628fb2932f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1640 - Guiding Evolution"
+slug: 0289-chapter-1640-guiding-evolution
+partOf: chrysalis
+position: 289
+ownLength: 1046
+unit: words
+ownProgress: 1046
+publishedAt: 2025-09-08
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2583229/chapter-1640-guiding-evolution"
+royalRoadId: "2583229"
+markedReadAt: "2026-06-29T19:53:03.569Z"
+---
+
+There are many who have dedicated themselves to the art of raising pets to fight on their behalf within the Dungeon. Expensive, time consuming, emotionally draining, mentally taxing, it is not a pursuit for the faint of heart or weak of mind, but for those who truly master it, immense power can be achieved.
+
+From acquiring a core, modifying the core, creating and raising the monster to its full, combat ready size, there are huge upfront costs to even trying to rear a monstrous companion. None of these processes are easy, if you try to do it all yourself, or cheap, if you try to find someone else to do it for you.
+
+For this reason, the majority of pet owners are wealthier individuals, scions from powerful families or individuals who are responsible for the pooled resources of their delver gang or mercenary regiment.
+
+Yet, even in reaching this stage, the true benefits of raising pets have not been realised. Where the masters are able to differentiate themselves from the layman is in careful management of evolution. The true experts can find efficiencies that the system cannot, overriding the defaults to shape the form of their pet like a sculptor revealing perfection from within the stone.
+
+-           Excerpt from ‘On Pets’ by Xinci
+
+[Would you like to engage the Managed Evolution Process?]
+
+Yes.
+
+[This monster is not your pet. Awaiting permission.]
+
+[Anthony! We need your permission to begin the evolution,] the triad urged, [you need to answer the system prompt!]
+
+The giant ant was still flailing wildly, rolling and twisting as he endured the ‘itch’ he described.
+
+[SAZZIFRANAZAPP!!!! Do whatever the heck you want! GRAAAAAAA!]
+
+[Permission granted.]
+
+[This Monster has reached the maximum level for its current species. Managed Evolution will allow you to control the process of changing the form and stats of this monster.]
+
+[An additional 10% evolutionary energy will be granted for maxed mutations.]
+
+[Warning: Evolving will make securing XP and Biomass more difficult, as fewer rewards are given for preying on less evolved creatures.]
+
+The triad wished they could flick the system prompts away faster, but there was no way to rush the process, all they could do was wait.
+
+This was hardly the ideal situation for such an important evolution, and the three merged minds resolved themselves for the trial to come. Not only would they have little time to choose a species, they would then need to go through the entire managed evolution process, selecting resets, new organs and doing all they could to strengthen Anthony for the challenges ahead, all the while he would be thrashing and kicking like a mad thing. Far from ideal.
+
+Many shapers would take days to plan out all the details they would need to race through in a matter of minutes. However, there was no choice, all they could do was their best.
+
+[Your evolution options are as follows:]
+
+No time nor any reason to look at anything other than the mythic options. The triad gave them their whole focus. There had to be something there that would help Anthony absorb the toxic mana within him. If not, he likely wouldn’t survive the evolution, dying before his new form took shape.
+
+[Mythic Evolution: Colony Ascendant. +125 Cunning, +125 Willpower, +250 Might, +250 Toughness. You have sought to be the perfect specimen, excelling in all aspects of your form. Now go beyond, and rise above what was once possible. Musculature will be reforged into World-Infused Flesh. Brains and Coordination Cortex will be reforged into Radiant Dynamo Matter. Reforge at half-cost. A Core of Ascension will be granted for free.]
+
+The triad examined the evolution in stunned silence. The numbers and keywords were simply overwhelming. None of them had done more than read about options that could be provided to tier eight monsters, yet here one was, right in front of them. A mythic evolution no less.
+
+Two-hundred and fifty in mental stats, five hundred in physical, along with exceptionally powerful reforges. Had they the shaper Register of Monster Parts with them, they didn’t doubt the Radiant Dynamo would be just as extraordinary as the World-Infused flesh, truly precious and powerful materials.
+
+Combined with those benefits, all further reforges at half cost would enable Anthony to go on another reforge spree. His eyes needed work, his legs and a slew of other organs and parts. With the overwhelming amount of energy a tier eight mythic evolution would provide, combined with halved costs? They could select a range of massively powerful options for his body.
+
+What gave them pause was the Core of Ascension. None of the three had even heard of such a thing, despite how potent it sounded. What function could it possibly have? With the evolutionary information at their fingertips, it was possible for the triad to learn, they could find out in just a few seconds, but they hesitated.
+
+This was clearly the evolution that Anthony would have wanted to take. If he had been free to make his own selection, to evolve in peace and without pressure, this option would have ticked all the boxes. The stats would have reinforced the path he was already on, powering up his brains, making him stronger and more durable, a real physical powerhouse, and the reforges would have pushed him over the top. An exemplary mage and fighter, he would have become an almost impossible matchup.
+
+Such a perfect and well rounded evolution, the triad hesitated, on the verge of selecting it, even knowing that they couldn’t. The three minds wobbled, no longer in harmony as they argued amongst themselves. Perhaps Anthony would be able to survive. They would find a way to help him, to ensure he made it through the process.
+
+With an evolution like this behind him, his path towards Ancient-hood would be so much smoother, perhaps even assured.
+
+And yet. They couldn’t choose it. They mustn’t. The risks were too great and Anthony had placed his life in their collective hands. To avoid temptation and regret, they ignored the Core of Ascension. They were not to know of its purpose, and they would have to live with that.
+
+Quickly, they turned their eyes to the remaining options. One of them had to keep him alive. It was their only hope.

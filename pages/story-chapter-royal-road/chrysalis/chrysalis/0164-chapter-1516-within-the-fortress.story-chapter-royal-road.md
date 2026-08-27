@@ -1,0 +1,81 @@
+---
+id: fac04d98-f79b-577b-b7e4-defee6794201
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1516 - Within the Fortress"
+slug: 0164-chapter-1516-within-the-fortress
+partOf: chrysalis
+position: 164
+ownLength: 1086
+unit: words
+ownProgress: 1086
+publishedAt: 2025-02-25
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2088004/chapter-1516-within-the-fortress"
+royalRoadId: "2088004"
+markedReadAt: "2026-06-29T19:49:05.459Z"
+---
+
+The wave had arrived; Goszi could feel it. Even here, in his little bubble of natural fifth stratum mana, he could sense the raging torrent of power at the edge of his senses.
+
+He grinned savagely to himself, then chomped down on a scone. Apparently, the Colony hadn’t covered it in the candied blood of their enemies, but instead some sort of jam. He’d been told it was made from strawberries, whatever that was. In any case, it was delicious, and he annihilated the treat between his needle-sharp fangs before spearing the crumbs with his radula.
+
+For once in his long life, it was difficult for the old slug to determine how he wanted the future to play out. He’d betrayed his own people, certainly, and if he were caught by them, he would be put to death. This was something he’d rather avoid, of course.
+
+However, he didn’t like the ants, and he actively hated whoever the puppeteer pulling their strings turned out to be, probably the Legion, despite the farce he’d seen. If the entire invasion was destroyed down to the last insect, he would rejoice in his heart, then hope he could break out of his prison and loot their tea supplies.
+
+He pondered this question further as he took his time selecting which scone he would devour next, only to be interrupted by a disturbance by the window panel.
+
+The light shifted, the panel became clear and Solant was revealed on the other side, at ease, already enjoying her tea.
+
+[Greetings, Goszi. I see you are well.]
+
+[What do you want?] the Krath demanded, unconsciously moving to protect his precious scones. [You blackmailed me for all I can tell you!]
+
+Solant clacked her mandibles, expressing her doubts about the accuracy of that statement before taking another sip of tea.
+
+[I thought it would be prudent to speak with you again now that the wave has arrived. I have more free time now, after all.]
+
+[More free time?] the slug scoffed. [Have you already surrendered your life to the fifth? That didn’t take long.]
+
+[It’s simply that, with the fortress now complete and our defences established, there is nothing more I can do. We will either hold out, or we won’t.]
+
+[You won’t,] Goszi chuckled evilly. [If you thought the fifth was difficult to manage before, you’re in for a whole world of pain. Nothing in the Dungeon can prepare you for what’s coming.]
+
+[And what is it that’s coming, specifically, Goszi?] Solant asked coolly. [Would you care to elaborate?]
+
+[I don’t feel the need,] he replied, smug. [After all, you’ve built your fortress; all you need to do is see if you can hold out. What does it matter what I have to say?]
+
+[Interesting,] Solant mused. [You say your native stratum is so dangerous, so deadly, yet we are here. We have constructed an enormous fortress, defeated the Krath tribes, purified the mana. Where am I, Goszi? I’m sitting here, drinking tea and eating snacks. Am I in the fourth? The third? Or am I here, in the supposedly ‘deadliest’ stratum of the Dungeon.]
+
+The Krath sneered.
+
+[You think you can bait information out of me so cheaply? Why would I expose any information I possess when I can watch you come crawling back to me, begging for answers while the walls of your fortress melt before your very eyes? Perhaps then, your masters will finally make themselves known and we can cease this farce.]
+
+[Is it really so surprising? That a species of sapient ant would be so successful in taming your home stratum?] Solant asked, genuinely curious. Goszi’s insistence that someone had to be behind the invasion and the Colony couldn’t be responsible had never bothered her, but it did confuse her.
+
+Goszi didn’t bother to reply, merely selecting another scone and tossing it into his maw. He chewed while he eyed the ant general surreptitiously. He didn’t trust Solant. Her steely, unflinching attitude and the almost unemotional timbre of her thoughts told him all he needed to know of how cutthroat her decision-making really was.
+
+Already, the wily ant had managed to get him to say far more than he’d ever intended; he wouldn’t allow her to get any more. He might have betrayed his tribe, but he wasn’t about to betray the fifth stratum entirely.
+
+Solant watched the Krath in turn. After their many conversations, she felt she was starting to get some level of understanding. Goszi wasn’t a coward, and he was far from stupid. The slug was, above all else, self interested, beyond even what other Krath were capable of. Food had been one lever to pry knowledge out of him, but it seemed she would need to find others if she wanted to know more.
+
+[Very well, Goszi. How about we make a wager?] she said. [How long do you think the fortress will be able to survive the wave? A week? Two weeks?]
+
+[So, if you beat the mark I set, you will win the wager? How am I supposed to collect in the event that you lose? Presumably, that would mean the entire fortress had been destroyed.]
+
+[We can compromise,] Solant stated reasonably. [In fact, this could be the only way for you to secure a way out of the fortress in the event we start to lose. Let’s say that the moment the outer wall is breached, you win the bet. It will take at the very least a few hours for the entire complex to fall after that. Enough time for you to collect.]
+
+Goszi pondered the offer. It was a trap, of course it was. However, in order to win, all he needed was for the wall to be breached. From what he knew, that was a near certainty. All he had to do was make sure the terms of the deal were sufficiently favourable.
+
+[The moment the outer wall falls, I get safe passage out,] he demanded, [a clear, unobstructed path to safety.]
+
+[That’s fine,] Solant agreed. [And if I win, you will answer my questions to the best of your ability.]
+
+The Krath’s eyes narrowed as Solant sipped her tea.
+
+[You know what will happen if you answer unsatisfactorily,] Solant told him clearly, tipping an antenna toward her own plate of treats. [It would be in your interest to honour our deal.]
+
+Goszi glanced down at his own plate of scones, now half depleted.
+
+[I hear they are wonderful with jam and cream,] Solant said.
+
+Goszi snarled.

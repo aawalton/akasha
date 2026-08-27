@@ -1,0 +1,67 @@
+---
+id: bc872a0b-9bb5-554f-b32f-ceac4ef47206
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1513 - Conversations With Mages"
+slug: 0161-chapter-1513-conversations-with-mages
+partOf: chrysalis
+position: 161
+ownLength: 857
+unit: words
+ownProgress: 857
+publishedAt: 2025-02-20
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2077687/chapter-1513-conversations-with-mages"
+royalRoadId: "2077687"
+markedReadAt: "2026-06-29T19:48:59.744Z"
+---
+
+The Tower, located in the Golden City in the fourth stratum, is a house of learning and knowledge second to none in all of Pangera. Here it is that the most respected and prodigious minds debate and study all aspects of life on Pangera. Classes, monsters, mana, the Dungeon, diplomacy, governance, gardening, pot making and the appropriate decorations for end tables. There is no question the scholars of the Tower will not pursue to the ends of the world.
+
+With a reputation for truly ferocious ‘discussions’, the Tower is not a place for the faint-hearted. If one is not prepared to defend their position with logic, reams of evidence, masterful rhetoric and a robust, red-faced screaming session, then they will have a short career indeed.
+
+-           Excerpt from “Living in the Tower” by Rathwyn Werilos
+
+Rathwyn is essentially what someone would think about when picturing a mage. He has a long, grey-ish beard, aggressive eyebrows and piercing eyes. The image is slightly thrown off by the shorts and short-sleeved shirt he’s wearing, however.
+
+Did this guy really come to the fifth for a holiday? Is there anything more insane than that?!
+
+A mind bridge stretches out to me, and again, I can’t help but notice the quality of its construction. The weave is tight as a drum, near flawless. It snaps into place so smoothly it's an almost totally different experience. This guy is damn good with his mind magic.
+
+[Anthony, nice to see you well! Things were a little grim the last time we spoke.]
+
+He’s smiling, but his tone is sincere. I can’t figure this guy out, just what the heck is going on here?
+
+[Let’s not mention that unfortunate incident,] I say, waving an antenna in greeting. [Tension is still high in the Colony as a result of what happened that day.]
+
+And there will be a price to pay. Oh yes, I haven’t forgotten, the Church of the Path is on my list, and the Silver City won’t come out unscathed.
+
+[That’s sensible,] Rathwyn nods, stroking his beard with one hand while he holds his luggage with the other. [With peaceful relations prospering between the City and the Colony, there is no reason to dwell on the… unpleasantness.]
+
+[Rathwyn, you and your… fellows… look like you’re here on vacation. What in the name of heck are you doing in the fifth wearing shorts?]
+
+His legs are as hairy as his face, for the record. Perhaps it wouldn’t be so bad, but all of the mages are dressed the same way. I swear one of them has palm trees, or something very much like them, printed all over his brightly coloured shirt. How is that even a thing!
+
+Rathwyn’s eyes twinkle and he smiles broadly at my question.
+
+[That’s because we are on holiday. Technically speaking. What you see before you,] he makes a broad, sweeping gesture to include the smiling, bearded and shorts-wearing group behind him, [is the Interspecies Relations Department of the Tower. We have, each and every one of us, decided to take a vacation to come and visit the Colony and witness for ourselves what you are going to achieve here.]
+
+They all seem very pleased with themselves, but to me, they all look insane.
+
+[This is the fifth, and a wave is about to break! Don’t you think this is a bit dangerous?!] I ask incredulously.
+
+[Of course it is,] Rathwyn states reasonably, [but this an unprecedented academic opportunity! If the Colony succeeds even a little bit, there will be libraries filled with studies and texts written about your efforts. To excel in academia, sometimes it’s necessary to take a little risk in order to be on the frontlines, so to speak.]
+
+[And this has nothing to do with spying on the capabilities of the Colony?]
+
+Rathwyn’s broad smile doesn’t even twitch.
+
+[Don’t be absurd, of course it does. Yet you’d rather have someone like me here as a spy for the Child Emperor than someone from the Church of the Path, don’t you think?]
+
+[As if we’d let them in,] I chomp my mandibles at the thought, even though I realise it isn’t that simple. If the Child Emperor sent one to us as a representative, could we really turn them around and tell them to buzz off? Trade and friendly relations with places like the Silver City are supposed to protect us from those who would seek to harm us, like the Abyssal Legion. Would it be worth ruining that to keep out a single priest?
+
+Maybe.
+
+[So yes, I will be doing some poking and prying on behalf of my Emperor and the Tower, but for the most part, I’m here to study, learn, and hopefully, witness history,] Rathwyn says. [I have to say, judging by what I’ve seen so far, I think we’ve made a good bet. This fortress is remarkable. The staging ground above is like nothing I’ve ever seen before.]
+
+[You haven’t seen anything yet,] I tell him, sighing to myself.
+
+Well, they’re here now. May as well help them settle in. Things are going to get mighty hectic from this point onward.

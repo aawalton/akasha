@@ -1,0 +1,79 @@
+---
+id: 00f38132-f14e-55d5-9946-0d917300c93d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1385 - Wrapping Up the Expedition"
+slug: 0032-chapter-1385-wrapping-up-the-expedition
+partOf: chrysalis
+position: 32
+ownLength: 916
+unit: words
+ownProgress: 916
+publishedAt: 2024-08-05
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1745176/chapter-1385-wrapping-up-the-expedition"
+royalRoadId: "1745176"
+markedReadAt: "2026-06-29T19:44:40.392Z"
+---
+
+Fighting for several days down in the fifth is a truly unpleasant experience. The only thing that makes it bearable is seeing the gradual transformation taking place within the purified area.
+
+Unable to survive without native, fifth stratum mana, the poisonous moulds, toxic flowers, slime and mucous strands that cover almost every surface here have died off. Even the mucus river, thick and disgusting as it is, can’t help but be somewhat purified by the time it’s made its way through the safe-zone.
+
+If we were to remain here long enough, I wonder if we might see the original, natural environment of the fifth begin to return and flourish, but goodness knows how long that would take. In fact, I doubt it ever could, considering we would need to restore the mana that had persisted here before it had become corrupted. I doubt anyone on Pangera can remember what that was, except perhaps for the Ancients.
+
+However, eventually we reach the end of the experiment, and it’s time to pack up and go home to the fourth.
+
+“The more time we spend in the fifth, the more I want to conquer it,” I confess to Brendant.
+
+The dutiful soldier has been in stellar form as the leader of our expedition. Her cool and collected leadership from the front has been the anchor holding this entire operation in place. Honestly, I’ve been impressed.
+
+“I think I know what you mean, Eldest,” she confesses. “This place rejects any attempt to even live here with such ferocity, I can’t help but want to rise to the challenge.”
+
+The Colony is in the process of removing all our temporary defences and earthworks. Naturally, we terraformed the safe-zone to be as convenient as possible, but since we’re leaving, there’s no reason to leave it behind and let the Krath go over everything.
+
+I have no doubt that they’re watching us, but the damn slugs are so sneaky I can barely catch a whiff of them with any of my senses. Their mana, their appearance, their scent, everything about them blends into the fifth so perfectly they’re practically indistinguishable from a wall. Every time I think I’ve caught a glimpse of one, it vanishes just as quickly.
+
+Though their malevolent interference didn’t stop at just watching.
+
+It’s impossible that the monsters we fought were only those naturally spawning in the area. We battled against way, way more than that.
+
+“What do you think the Krath will have waiting for us when we return?” I wonder.
+
+“Who can say?” Brendant shakes her antennae. “We know basically nothing about them, but they don’t know anything about us either. Winning the war for information will be crucial to our success.”
+
+“I’m going to assume Solant has a plan in that regard?”
+
+“Solant has a plan in every regard.”
+
+That’s her method. I shudder to think just how detailed the plans for invading the fifth have become at this point. The thought of hundreds of thousands of ants rigorously training for this upcoming war fills me with confidence. I’ve no doubt we will be successful in the long run.
+
+“Still, how are we supposed to get information on the Krath? We haven’t come close to capturing one…”
+
+Brendant flicks her antennae dismissively.
+
+“We haven’t been trying to capture one. The more they fight against us, the more we will learn of their methods, capabilities and thoughts. So long as they don’t manage to overwhelm us, we will absorb their pressure and counter attack with double the force. Under Solant’s command, agility and adaptability are our greatest strengths.”
+
+That’s a good point. We were too rigid before, but Solant has shown that a willingness to shift strategy and methods can be powerful. Heck, there’s nothing she won’t throw away or change in order to achieve victory.
+
+As before, the wuffers are among the last to be taken up to the fourth, seeing as how the safe-zone must be maintained at all times. Eventually, the time comes, and the happily chuffing pets are gathered up from their place on the specially constructed pads and lifted up into the shaft above. Once this happens, there’s only a few minutes until the purified mana is completely overwhelmed, so we have to work quickly.
+
+The trenches are destroyed, all sign of enchantment removed and then the ants themselves rush up the shaft.
+
+Tiny, Crinis, Invidia and I are the last remaining members, and I send the three of them up first before I retreat myself.
+
+As I climb up the wall and make my way across the roof, I spy a pair of eyes peeking out from behind a mucus strand, watching me with a burning hatred.
+
+Oho… Mr Krath. Let your guard down now that you saw us leaving, did you? How delicious.
+
+Masking all sign of my efforts, I continue to climb toward the entrance to the shaft, and the moment I set my claws upon it, I let the spell rip.
+
+Gravity Bomb!
+
+HOOOOOOOOWLLLL!
+
+It’s not a super strong one, nor is it empowered, but it’s sure to cause a heck of a mess. I don’t remain to see what happens, but begin my climb back to the fourth stratum, chuckling to myself.
+
+By the time I reach the top, I haven’t received a notification from Gandalf regarding any dead Krath, so I assume it managed to squirm away somehow.
+
+Gweheheheh.
+
+Hope you liked my farewell gift, slug. Don’t worry, you’ll be seeing me again before too long.

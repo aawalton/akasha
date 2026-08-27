@@ -1,0 +1,263 @@
+---
+id: 5fc646de-49e4-5b98-9f0e-9fc6617b8b81
+page-type-slug: story-chapter-royal-road
+title: "79 - Annie, Are You Okay?"
+slug: 0079-79-annie-are-you-okay
+partOf: cat-girl-evolution
+position: 79
+ownLength: 2266
+unit: words
+publishedAt: 2026-01-23
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2970265/79-annie-are-you-okay"
+royalRoadId: "2970265"
+---
+
+“I brought you a present,” I say. “You don’t like it?”
+
+“Yona this—! You’d better have a damn good explanation or I’m sending an emergency signal to the Guild right now!”
+
+“Fortunately, I do have a damn good explanation,” I say, picking the head up with a mana hand. “Behold! The assassin! Annie, say hi.”
+
+“Hi,” says Annie, sounding despondent.
+
+“She’s alive?!” exclaims Lauren. “Annie, what—? Are you okay?!”
+
+“No, she’s definitely dead,” I say. “Or undead. She’s a zombie or something like that.”
+
+Lauren is quiet for a few moments, jaw hanging open. Then she closes her eyes and takes a deep breath to regain her composure.
+
+“Okay, so the assassin is an undead who was pretending to be a low-level Adventurer to get close to you, and you defeated her and now you have brought her still-animated head into my house and are… washing feces off it?”
+
+“The interrogation got a little messy,” I explain. “But yeah, you got it. That’s pretty much exactly what happened. Now can you help me wash her off? She kinda stinks.”
+
+Lauren takes another deep breath, then sighs.
+
+“Alright,” she says. “Just give me a minute. Can you put the head in the sink really quick?”
+
+“Sure?”
+
+“Thanks.” She turns her head and shouts down the hall. “Louise!”
+
+A few seconds later, clacking footsteps announce the arrival of one of the servants, the oldest one.
+
+“Can you run down to the Guild and tell them that we’ve… somewhat resolved Yona’s current dilemma?”
+
+“Wait!” I say, making both of them pause and look at me. “Not yet.”
+
+“Why not?” asks Lauren.
+
+“I’m pretty sure this is related to my secrets, so I don’t wanna let the Guild know yet. I still have some questions I need to ask her, but I need someone more experienced to get the right answers.”
+
+“Oh,” says Lauren. “Okay, Louise, forget the Guild. Do you know where the Silver Witches live?”
+
+“Yes,” says Louise, nodding.
+
+“Go tell them that something important has happened with Yona, and that they should come to my house.”
+
+“Yes, ma’am.”
+
+The servant nods, then walks calmly toward the door, leaving us once again alone in the kitchen.
+
+“Alright, let’s get this over with.”
+
+A few minutes later, Lauren and I are in Lauren’s private office, looking at Annie’s head, which is resting on a platter on a low table in front of us. Annie has been slowly recovering her mana this whole time, which gathers in her head, but she hasn’t done anything with it. I’ve been keeping an eye out to make sure I can Snatch her mana away if she tries something, but I haven’t needed to do anything yet.
+
+“So…” says Lauren. “What are you?”
+
+“Hmmm?” asks Annie. “Oh, right. I still have that… You should be able to see now.”
+
+“See wha—?” I start before checking her Namecard. “Oh.”
+
+[ Annalise, First Blade of Joakim, lvl 22 ]
+
+“A Named monster,” says Lauren. “I thought as much, but that still doesn’t quite answer my question. What type of undead are you?”
+
+Annie lifts her eyes, reading something on her Status Window before replying.
+
+“I am a Wraith and a Revenant.”
+
+“A Wraith and a Revenant?” asks Lauren. “How? Wait, then your body…”
+
+“It’s mine,” says Annie. “I got reanimated as a Wraith. My body got reanimated as a Revenant. Now we’re bound together.” She opens her mouth and shows the underside of her tongue, where a complex circle pattern is carved. “Pretty ingenious, to be honest. It’s almost like being alive again. Except, you know, I have to manually control my heartbeat to blend in, and if I bite my tongue too hard, I die and my body goes on a mindless, murderous rampage.”
+
+“Damn, that sucks,” I say. “Can you at least taste food?”
+
+“Only when my heart’s beating. Doing that gets my body working mostly normally, so I can taste and digest things, though it costs mana, so I can’t do it all the time, and when I stop, the food just kinda stops moving in my intestines until I start my heart up again.”
+
+“Gross. I guess that explains your breath though.”
+
+“My breath?”
+
+“Yona, that’s really not important right now,” says Lauren. “You are the assassin who killed the other Named monster though, correct?”
+
+“I am,” says Annie.
+
+“And you came here to kill Yona.”
+
+“Also correct.”
+
+“Are you still trying to kill Yona?”
+
+“Yes.”
+
+“What?!” I say.
+
+“I have a Quest,” says Annie. “Right now, I’m biding my time and waiting for you to either let your guard down or release me so I can escape and continue plotting your death.”
+
+“But I thought—!” I start.
+
+“You don’t have a choice, right?” asks Lauren.
+
+“Right,” says Annie. “I can’t reject the Quest.”
+
+“The one who raised her likely ordered her, meaning she has no choice but to obey.”
+
+Ah, that makes sense.
+
+“But you won’t attack us now, right?”
+
+“Of course not,” says Annie. “That would be suicidal and has no chance of success. My Quest is to kill Yona, but the method is not specified, and neither is there a time limit. I now know I can’t kill her through normal means, and that I cannot kill her currently, so my only option is to escape and plot something abnormal. I can’t do that while I have no body, so all I can do is wait and hope you give me my body back so I can complete my Quest. Or kill me, so that I can’t do it. But after thinking about it a bit, I no longer want to die, so please don’t do that.”
+
+“What changed?” I ask.
+
+“There’s still something I need to do.”
+
+“What is it?”
+
+“I can’t say.”
+
+“Is it related to the one who turned you into this?”
+
+“I can’t say.”
+
+“I see.”
+
+Lauren leans back with a hand on her chin, deep in thought. I take the opportunity to do some deep thinking as well.
+
+There’s really only one thing that she could still want to do that she can’t talk about: kill the one who turned her into an undead. I think. Unless maybe she wants to marry them? But that wouldn’t make sense, since she seems to hate being an undead. So she definitely wants to kill them.
+
+And honestly, I can’t blame her. I want to kill them too. Even if they didn’t send an enslaved assassin after me, I’d want to kill them. Joshua was mostly delusional, but whoever’s doing this is just plain evil.
+
+As Lauren and I sit in silence I notice three people approaching the house from the ground. I recognize the three as Louise and the twins.
+
+“The twins are here,” I say. “Why did you call them, by the way?”
+
+“They’re two of the most knowledgeable mages in the city, and given the contract, they can be somewhat trusted with your secrets. Though we haven’t really discussed any of those yet.”
+
+“Oh, well, that’s because I already figured that part out,” I say. “Annie’s after me ‘cause her Quest is to kill the Named monster pretending to be an Enlightened in this city. So, me. And if she said that to Pike, that would basically be outing myself.”
+
+“Ah, I see. One second. I’ll go lead them in. I can’t have Louise looking in here right now.”
+
+Lauren leaves, and Annie and I sit in silence for about a minute until they return. Unlike Lauren, they don’t seem that bothered by the severed head. Or maybe it’s just that they spend so long with expressionless faces that they can no longer express shock properly. Either way, they just stand there while Lauren gives them a quick rundown of the situation, nodding at the details. However, they get caught up on a detail I didn’t expect them to get caught up on.
+
+“Wait, she’s a Wraith soulbound to a Revenant?” asks A.
+
+“Where is her seal?” asks B.
+
+“Under her tongue,” says Lauren. “But—”
+
+She stops, as the twins are clearly no longer listening. Instead, they both rush forward and kneel down in front of Annie.
+
+“Please show us the seal,” they say simultaneously.
+
+Annie obliges, opening her mouth and sticking her tongue out again. I sense a rapid telepathic conversation between the twins over the next few seconds before they both start using their mana to draw in the air, copying the seal with faint silver lines. The whole process takes a few minutes, and in the end, two perfect replicas of the seal hover in the air between the twins and Annie’s head. Then, they both vanish, and the twins stand back up, barely suppressing smiles.
+
+“What was that about?” asks Lauren.
+
+“Soul magic is unattributed magic,” says A. “And functional soul seals are incredibly rare.”
+
+“They essentially can only come from the System,” adds B. “Being able to see one up close and notate it is a once-in-a-lifetime opportunity.”
+
+“You don’t plan to do anything with it, right?” I ask, narrowing my eyes.
+
+I’d rather not have my minions be turning people into cursed undead.
+
+“Nothing like this,” says A. “But soul bonds are very useful for high level artificery.”
+
+“This specific soul seal won’t help us, because it was designed specifically to bind a Wraith to a Revenant, but studying it can help us learn more about soul seals in general, which will let us make soulbound items.”
+
+“Oh. Like Soul Weapons?”
+
+“Precisely,” says A with a glimmer in her eye. “There are less than a dozen artificers in the entire world who can make such items.”
+
+“Anyone who can make them will inevitably end up in the history books,” continues B, her eyes sparkling. “And even if we don’t make it that far, soul seals can be useful at lower levels too.”
+
+“Soul-binding restraints are highly-sought-after,” says A. “They’re the only way to restrain powerful criminals without killing or permanently crippling them.”
+
+“They can also be used with artificial soulweaves to create fully autonomous golems.”
+
+“Or for magical curses.”
+
+“Or tracking.”
+
+“Or mana-efficient long-distance communication.”
+
+“Or—”
+
+“Alright, we get it,” says Lauren, stopping them. “They’re useful. Now what do you think of the rest of it?”
+
+“Ah, right,” says A. “The assassination part.”
+
+“Well, it looks like Yona has made an enemy of quite the powerful necromancer,” says B. “A Necromancer who can create Named undead has to be at least 5th tier.”
+
+“5th tier?!” I exclaim.
+
+“Or,” says A. “They are a Named monster themselves. A Leader type, specifically.”
+
+“I’m not sure which is worse,” says B.
+
+“What’s the big deal with Leaders?” I ask.
+
+All four of the others stare at me.
+
+“Didn’t you kill a Leader?” asks Lauren.
+
+“Yeah. He wasn’t that strong though.”
+
+“That was because both you and I were keeping him from expanding his reach, so he was unable to get stronger, and his Territory was very limited. If he had been allowed to live without being hindered, even for another week, he would have become something far beyond what you could have handled. Leader type Named are by far the most dangerous type of monster in existence.”
+
+“Not Disasters?” I ask. “Joshua was pretty dangerous.”
+
+“A Disaster can destroy a city,” says A.
+
+“But a Leader can destroy the same city, and turn it into an inhospitable, monster-infested wasteland for centuries,” finishes B.
+
+“That village where you killed the Leader is now considered a Silver level danger zone,” says Lauren. “It will be years before the mana levels settle back down to a level where ordinary people can live there.”
+
+“Oh,” I say. “That does sound pretty bad.”
+
+“Yes,” says Lauren. “But a 5th tier Necromancer might be just as bad. Any Necromancer who managed to get that strong without being caught and executed is intelligent and competent, and probably very well hidden.”
+
+“There is some silver lining though,” says A.
+
+“What is it?” asks Lauren.
+
+“This monster’s name,” says B. “She is the ‘first blade,’ which indicates she is the first, and likely the oldest and most powerful of those that this Joakim person has created, and given that we can see her level, that means she cannot be higher than Tier 3, meaning that in either case, this necromancer has only just begun creating Named monsters, meaning they cannot be that strong.”
+
+We all glance at Annie, who looks like she would probably shrug if she had shoulders.
+
+“I can neither confirm nor deny,” she says evenly.
+
+“Regardless, we need to inform the Guild,” says Lauren. “If it’s a Leader type Named, and one with necromantic abilities that is able to create other Named, this could become a continental threat.”
+
+“Of course,” says A.
+
+“And that brings us to some other silver lining,” says B.
+
+“What?” asks Lauren.
+
+“Well, that means that this is out of our hands!” says A.
+
+“We are by no means qualified to deal with a threat of this magnitude, so while we may have to watch out for future assassins, we won’t have to deal with their source,” says B.
+
+“That’s true,” says Lauren. “And with the Guild occupying the necromancer, they shouldn’t have the time to send any more assassins after Yona.”
+
+Lauren looks relieved, and A and B are as stoic as always, but seem upbeat as well. I, however, am not.
+
+Abby… I’m pretty sure they just jinxed us.
+
+"It certainly seems that way."
+
+...Why do you sound so happy about that?
+
+"You've had your fair share of heaven-sent luck. I believe that means you're finally due for some hell-spawned misfortune."

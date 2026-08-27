@@ -1,0 +1,89 @@
+---
+id: ba177251-2bd5-5185-a440-bb2d0efd196b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1508 - Boom"
+slug: 0156-chapter-1508-boom
+partOf: chrysalis
+position: 156
+ownLength: 928
+unit: words
+ownProgress: 928
+publishedAt: 2025-02-13
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2063809/chapter-1508-boom"
+royalRoadId: "2063809"
+markedReadAt: "2026-06-29T19:48:50.277Z"
+---
+
+I contain a huge amount of gravity mana these days, but as the spheres start to fill up, I worry that I might not have enough. Trying to whip together a gravity mana construct at this point would be an exercise in futility; all of my minds are dedicated to holding this lousy thing in place as I sprint to the finish line.
+
+Unsurprisingly, the snail is heading right for me, both eyes stretched forward atop their stalks, staring hatefully at my gleaming diamond perfection. I suppose it’s a good thing, makes aiming easier. I am a little worried about how quickly it’s approaching, though. Can I fill this damn thing up any faster?!
+
+I mean, this thing is taking forever to cast!
+
+There isn’t much I can do to speed it up, though. I’m moving as much mana as I safely can and condensing it as fast as possible. So many of my minds are dedicated just to holding the rest of the spell in place, preventing the mana from shifting even an iota as I prepare to complete the cast.
+
+I watch, nervously, as the spheres on my right and left continue to swell. I’ve been close to gravity bombs several times, but not this close! I can’t help but have a bit of anxiety about the two orbs just hovering there… ominously.
+
+I keep expecting to hear the characteristic shriek of the wind, feel the air whipping my antennae about, but it doesn’t happen. The two bombs sit there, inert, just… growing.
+
+Finally, when the snail is only a few hundred metres away, the spell is ready. I feed in the last possible drop of power I hold within me, crush it down one final time, then let it rip.
+
+I don’t have the time to give it a final check, so here’s hoping it works!
+
+I expect something to happen immediately, and I duck down, covering my head with my legs, but… there’s nothing? Wait! Something is happening! It’s slow at first, but the two bombs are moving. As the seconds tick past, they move faster, and it takes a bit, but I work out what’s happening. They’re orbiting each other.
+
+The two spheres of absolute darkness rotate, tracing a circle in front of me, one rising above, the other dipping beneath. Faster and faster they spin, increasing in speed well beyond the point where I thought they couldn’t get any faster. Then I realise something else: the orbit is decaying! The two bombs are getting closer together!
+
+Holy moly… I have a really bad feeling about this!
+
+The snail is close enough now to make its presence felt. It rears back, drawing its head almost all the way into its shell before it lunges forward, unleashing a torrent of violently orange sludge that fills the air with noxious fumes the moment it appears.
+
+Come on, spell!
+
+The two bombs draw closer and closer, and when I extend my senses for a moment, I can feel the truly absurd amount of power being generated between the two spheres.
+
+Man, I wish I had a shell I could hide inside, the suspense is killing me!
+
+The two spheres finally touch, and purple lightning explodes from the contact. Crackling purple light jags through the air and rips deep grooves into the rock, even digging lines into the diamond platform!
+
+Whoops!
+
+Still rotating, the two bombs continue to fall into each other, combining, merging, and forming… something else.
+
+A hideous void takes shape at the heart of the merger, pulsing with dreadful power. More lightning cracks around the orb, forming a halo of destruction from which forks leap out to tear across whatever they touch, including my own carapace! Ouch!
+
+Finally, the two bombs fuse completely, and only the void is left in their place. I cringe in fear from my own creation. There is so. Much. Power! That orb to me looks like a herald of death more than an angel of salvation!
+
+So much energy, an absurd amount, all held in place by the spell form I created. But even that shape, so intricate and layered, can’t hold this beast back for long!
+
+No, something has to give, and at last, it does.
+
+A tiny hole appears, an infinitesimal opening, and the void, unable to hold itself together any longer, unleashes its energy through that gap.
+
+The world around me goes black. Time slows.
+
+A lance of pure darkness blasts forth, and the world seems to scream in pain.
+
+Ah, I think I figured out what this spell is called.
+
+Singularity.
+
+I don’t want to look, but I can’t close my eyes. Everything the beam touches is annihilated. Everything near the beam is annihilated. Like the finger of the reaper, everything it points at just ceases to exist, broken apart at the atomic level.
+
+The noxious fumes are gone.
+
+The orange sludge is gone.
+
+The snail? You guessed it. GONE.
+
+More accurately, a good chunk of it is gone. The beam itself is probably a metre wide, and it bores a hole straight through the offending gastropod.
+
+The void collapses in on itself, shrinking with each passing second as all of its energy is given to the beam. When the orb finally winks out of existence, the beam goes with it.
+
+Light returns. Time returns.
+
+The gathered ants and militia watch in stunned silence. Even the monsters of the fifth seem momentarily cowed, unable to understand what they just saw.
+
+Even I don’t understand it, dammit! And that was unempowered!
+
+Just what am I becoming?

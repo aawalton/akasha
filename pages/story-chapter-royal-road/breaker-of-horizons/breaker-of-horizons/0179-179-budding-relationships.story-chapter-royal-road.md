@@ -1,0 +1,133 @@
+---
+id: 47d4319d-118c-50eb-9a37-04bfa8ea44cc
+page-type-slug: story-chapter-royal-road
+title: "179. Budding Relationships"
+slug: 0179-179-budding-relationships
+partOf: breaker-of-horizons
+position: 179
+ownLength: 2075
+unit: words
+publishedAt: 2022-02-17
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/847532/179-budding-relationships"
+royalRoadId: "847532"
+---
+
+Leyla looked at him with a twinkle in her eyes, but other than that she gave no sign that she knew who he was. With a perfectly straight face, she leaned across the table and extended a hand. "Hello Caden. Pleasure to meet you."
+
+Nonplussed by the revelation of who the second-year Top Scorer was, and Leyla's pretense of not recognising him, Caden could only mutely return the handshake. Bertram picked up on his awkwardness and waggled his eyebrows at Caden. "You're not one of those people who have no idea how to talk to girls, right?"
+
+"I talk to girls just fine," Caden answered irritably, and a little more forcefully than he intended. He caught Leyla's eye and saw her lips twitch ever-so-slightly, but she quickly schooled her expression and turned to look blandly at Bertram as he spoke.
+
+"Wait, no, don't tell me you didn't think a girl could be the Top Scorer?" Bertram's tone was accusatory, but it was clear he was just pulling Caden's leg.
+
+"I definitely didn't expect one of them to be a huge pain," Caden shot back.
+
+"We still have another class to get to in a bit," Leyla said delicately to Bertram before he could get another word in. "You said you wanted to meet me?"
+
+Bertram became a bit more business-like. "You've got Kant's class next, right? In the duelling compound?"
+
+Leyla nodded.
+
+"If he's starting off all his classes the same way, then it'll be an unannounced training exercise with an emphasis on forming gestalts and using glyph arrays efficiently," Bertram said, while he plucked a writing pad and pen out of his bag and placed them on the table. "You'll have to face off against arena-created attackers and last until the end of a time limit."
+
+Caden was a little surprised that this information was being given out so freely. Did Leyla have some sort of hold over him, or had she paid for this information? Bertram had already revealed he was a trafficker of artefacts, so it wasn't that much of a leap to assume he was also an information broker of some sort. Or did he perhaps have an ulterior motive by providing unsolicited tips? Was he trying to extract a favour of some sort from her?
+
+"Why are you telling me this?" Leyla asked, her eyes narrowing a little. Her question implied that this information was indeed unsolicited, and it brought Caden an inexplicable sense of relief. But it was also mingled with a growing feeling of suspicion towards Bertram.
+
+"Because I've got an assignment for you," Bertram grinned, thumbing through the writing pad. Caden caught a glimpse of copious notes and diagrams until Bertram finally got to an empty page. "Got anyone you can gestalt with in your class?"
+
+"Um, everyone, I guess? Isn't that basic?"
+
+"Let me rephrase," Bertram said, with a sideways glance at Caden. "Do you have friends you think you'll be gestalting with in your class, or are you more of the loner type?"
+
+"Not a loner," Caden muttered.
+
+Leyla's eyes flicked from Caden back to Bertram. "Yes. At least two. Could go up to five. How big a gestalt is allowed?"
+
+"As big as you want," Bertram answered. Caden was about to add that Kant had reprimanded their class for not forming one giant gestalt when Bertram cut across him and shook his head. "But that's not the point. Yo—"
+
+"Caden was about to say something," Leyla pointed out, raising an eyebrow at Bertram.
+
+"Oh? Well depending on what he says, he might make the assignment I have for you even harder," Bertram said lightly, turning to face Caden expectantly.
+
+Caden had to admit, as irritating as it was to be on the receiving end, Bertram was remarkably adept at exerting social pressure, and it was quite an educational experience. He sighed and shook his head. "Nevermind."
+
+Leyla looked a little sympathetic. "He's a bit much, isn't he?" she asked Caden in a conspiratorial whisper. "Very pushy. You can tell he's the kind who's used to getting what he wants."
+
+"What I want is for you to get what you want, even if you don't quite know you want it yet," Bertram said smoothly.
+
+Caden snorted but gestured for the two of them to continue. "We've all got a class soon, so you better get on with it."
+
+Bertram nodded and directed his attention at his writing pad. There was a little stirring of arcana before the pen leapt up and started quickly filling the page with a sketch of the giant construct with accompanying observations tagged to its anatomy, the sequences and patterns for a few different thaumaturgical glyph arrays, and some other text that Caden couldn't make out from where he was seated.
+
+"So, about that exercise," Bertram began, gesturing at the page as it continued to fill. "Here are some glyph arrays you can use depending on how many people you end up gestalting with. I formed a two-person gestalt with Caden but he managed pretty well without my help and we lasted to the end, so I hope you'll manage the same in order to stay competitive. Additionally, Caden actually took that down by himself." He tapped the sketch of the giant construct.
+
+Leyla's eyebrows shot up and she gave Caden an appraising look before turning to Bertram. "So I have to do that too, or I'm out?"
+
+Bertram shook his head. "Of course not. There'll be plenty more chances for you to prove yourself. I'm just telling you that there's an opportunity, if you want to take it."
+
+Leyla seemed to withdraw into herself a little as she looked down at the sketch. Her friendly and earnest manner had given way to a steely sort of quietness, and Caden could almost see the cogs whirling in her head as she took in the information that Bertram had provided. Evidently, she really did care about trying to earn his approval. Why did she want to be his partner-in-crime? What did she hope to get out of becoming some sort of smuggler or trafficker of artefacts? He hadn't pinned her down as the sort that would get into this kind of trouble.
+
+After a few moments, she glanced up saw Caden regarding her seriously, and gave a wide grin. Gone was the cold determination that had darkened her features earlier. "If I don't manage it, maybe you can teach me how you did it?"
+
+"Uh, sure," Caden answered, caught off-guard by the sudden change, while also being a little flustered by the request.
+
+"Whoa there, that's not something you can just give out!" Bertram interjected, looking indignant. "Kant offered a prize for anyone who could figure it out by the end of our session, and no one managed it! There's a price on your technique!"
+
+"No, there's no prize anymore because the offer was only good until the end of our session," Caden pointed out. "Plus, he expects everyone to have figured it out by our next session since he wants everyone to fight it one-on-one."
+
+"I know that! But, I mean, you didn't even offer to tell me!" Bertram said, now arranging his features into exaggerated aggrievement. "And after all I've done to help you!"
+
+Caden rolled his eyes. "Would you like me to tell you?"
+
+"What do you take me for, some kind of loser who isn't capable of reverse-engineering what you did?" Bertram shot back, now pretending to be offended. Leyla sniggered.
+
+"Fates, I'm this close to punching you!" Caden said, gritting his teeth.
+
+"Pfft, no you're not. You secretly like the banter," Bertram laughed. "Anyway, let me at least try to figure it out myself. Even if I'm really stumped and I can't replicate what you did, I'll figure out another way to bring the construct down. If you really wanna help Leyla, let her do the same."
+
+"Very professorial," Leyla said, smiling. "You sure you're not just afraid I might come out ahead of even you, if Caden helps me?"
+
+Bertram grinned back at her. "I like that attitude. I also respect how you're trying to use your feminine wiles to get Caden to help you, and I fully recognise that I am outmatched in that particular arena since you seem to be more his type. It's good to press your advantages. Very canny."
+
+Caden choked and Bertram thumped him heartily on the back. Leyla blushed. "That's not what I—"
+
+"Hey, no judgement!" Bertram put up his hands. "I confess I am not above using every available means to obtain what I want. Comes with the territory."
+
+"I think I'm done here," Caden spluttered, getting to his feet. "Class time."
+
+"He's right, we need to go!" Bertram neatly tore off the page and handed it to Leyla as he stood as well. "You two can catch up some other time. I'm sure you'll have lots to discuss."
+
+Caden's face was burning and he couldn't bear to look at Leyla, but he got the impression she was equally mortified. Bertram was still yapping, so Caden decided the best thing to do was just leave as quickly as he could. He sped off without waiting for the third-year to pack away his writing pad. Only when he was at the library doors did it occur to Caden that he should have at least said goodbye to Leyla or tried to make a more dignified exit in order to minimise the impact of Bertram's words. Leaving like that only served to confirm that the whole affair had been hugely embarrassing, and that maybe there was some sort of unspoken attraction. But it was too late now.
+
+Bertram caught up to Caden outside and fell into step beside him. There was the most infuriating grin on Bertram's face. "Well that was a fruitful meeting. Very fruitful. Wasn't it fruitful?"
+
+"You're horrible."
+
+"Ah man, was that too much?" Bertram sobered a little. "I was just having a bit of fun. Sorry if I crossed a line or something."
+
+Now that he was out of that situation, Caden didn't feel like he wanted to sink through the floor and disappear anymore. He shot an irritated look at Bertram, then took a deep breath to steady himself. "My life's kinda complicated now. I guess normally I'd be okay with it, but I'm just a bit on edge. And you're just..."
+
+"Relentlessly cheerful, annoyingly persistent, and unapologetically funny?" Bertram nodded seriously. "Yeah, I know."
+
+Caden couldn't stop himself from smiling just a little.
+
+"Aha!" Bertram pointed a triumphant finger, but then shed a little bit of the comic energy. "But alright, duly noted. Gotta say you're a pretty patient guy though. Thanks for putting up with me."
+
+"Is that why you were alone too? Back in the duelling chamber?" Caden asked, now curious.
+
+"Nope," Bertram said, looking at Caden with complete seriousness. "You weren't with anyone at the briefing the previous day, and the only other first-years in our group are the twins. From what you said, it seemed like you have a generally negative impression of them. Because of all that, I was worried you'd end up being alone at the start of our session, and if you weren't near anyone, you'd have been caught alone without a gestalt. I introduced myself the day before, so there was a chance you'd see a familiar face and come over, but I figured if I was already in a group you probably wouldn't just walk over and introduce yourself. So I told my friends to go ahead without me, sat alone, and got out my book. Made me easier to approach."
+
+Caden stared at him.
+
+"Anyway, that wasn't all just to help some lost puppy," Bertram continued with a slight cough. "My plan was to be in a gestalt with you so I could get a feel for your capabilities, so it worked out in my favour."
+
+"...Hey, Bert? Uh, do you mind if I call you Bert?"
+
+"Bert's fine."
+
+"Alright. Well, I don't think I've said thanks, Bert. So thanks."
+
+Bertram smiled warmly for a moment before the usual grin of mischief took over. "If you really want to thank me, might I interest you in making a purchase? I've got the most wonderful selection of artefacts which might be able to help you in the romance department and—"
+
+Caden sighed loudly and stuffed his fingers in his ears as they approached the lecture halls.

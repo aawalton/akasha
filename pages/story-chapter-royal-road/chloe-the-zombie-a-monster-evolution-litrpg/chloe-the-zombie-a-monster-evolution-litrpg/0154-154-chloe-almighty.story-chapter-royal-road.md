@@ -1,0 +1,115 @@
+---
+id: 12f705b9-2879-50f3-8afd-2476af649799
+page-type-slug: story-chapter-royal-road
+title: "154: Chloe Almighty"
+slug: 0154-154-chloe-almighty
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 154
+ownLength: 2156
+unit: words
+publishedAt: 2026-05-20
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3422876/154-chloe-almighty"
+royalRoadId: "3422876"
+---
+
+Morpheus felt as though he stood above all things. Immense power coursed through his new body, and he saw no path left for his two challengers to escape. In this ascended form, he would obliterate them both.
+
+Admittedly, he had misjudged the zombie girl. What had first seemed like a loud and foolish nuisance had proven far more dangerous than expected. She was reckless, stubborn, and strangely difficult to kill. But even so, she was not his greatest concern.
+
+His attention was still mainly on the hooded woman hovering nearby. By now, he was certain she was some kind of cleric or similar holy caster. The repeated use of divine magic had made that obvious enough, but no divine entity was going to save her from his power.
+
+A cruel smile spread across Morpheus’s face as he raised one clawed hand. Blood seeped from the cleric’s body and burst outward at his command, twisting through the air before coiling around her throat and mouth like living chains. It tightened at once, then forced itself inward. Her body jerked violently in midair as she clawed at her neck, suddenly unable to breathe.
+
+The zombie girl gasped in shock and turned toward her companion. Morpheus felt immensely pleased as he saw the clear panic on her face.
+
+Pleased, he flicked his hand sharply and hurled the choking cleric through the air. She flew helplessly and crashed into a bone pillar with enough force to shake the chamber. Cracks spread across the pale surface where she struck, and fragments of bone rained down into the blood below.
+
+Then, before the zombie girl could react, Morpheus folded his wings and dove downward. He dropped from above like a falling spear, the barbed tail behind him lashed forward at the last moment and punched straight through the zombie girl’s stomach. The point burst from her back in a spray of dark ichor as the force of the strike continued to bring them both down.
+
+Morpheus slammed into the arena floor hard. The sea of blood below split apart at his command, peeling back in great waves to leave a circle of bare stone beneath him. The impact shattered the ground and sent cracks racing outward in every direction. Dust and broken stone blasted into the air while the walls trembled.
+
+When the dust and broken stone finally settled, Morpheus stood at the center of the crater he had created. Cracks spread beneath his feet, and shattered rubble lay scattered in every direction. His tail remained buried through the zombie girl’s body, pinning her to the ruined ground while dark ichor slowly pooled beneath her. At last, after taking on his true form, victory was his.
+
+He straightened proudly and spread his wings wide over the crater. A smug smile touched his lips as he looked down at the motionless girl beneath him. “It is time for you to meet your end, little corpse. You will soon feel the might of—”
+
+Morpheus stopped mid-sentence as a sudden chill ran through his spine. It made every instinct inside him tighten at once. This was odd, because he had won. His enemy was pinned, wounded, and helpless beneath him. There was no reason for fear to touch him now, and yet it crawled through his body all the same.
+
+Slowly, he looked down at the zombie girl. What he saw shattered his confidence.
+
+Somehow, the zombie girl's eyes had changed. The usual red glow was gone, replaced by a rich golden light that shone with immense divine power. There was no panic left in her face, no pain, no confusion. Only a cold stillness stared back at him, terrifying him in a way he had not felt before.
+
+Before Morpheus could react, fire burst across her entire body. The flames blazed so bright and hot that even he was forced back. He tore his tail free and launched himself into the air as the heat surged through the crater below.
+
+Snarling, Morpheus thrust out a hand and commanded the sea of blood nearby to move. Thick waves rushed inward from every side, surging toward the crater to drown the zombie girl.
+
+But the zombie girl simply stood. She rose from the center of the flames as if untouched, then spread her burning wings wide. Fire poured from the wings in long streams of golden light as she lifted slightly into the air. The blood that neared her hissed and recoiled, turning to steam before it could touch her.
+
+Then she opened her arms and spoke in a calm voice. “Divine Push."
+
+The moment those words left her lips, a vast and unseen force erupted from the zombie girl at the center of the crater, not as simple power, but as something absolute. The endless sea of blood Morpheus had shaped with pride was all pushed back in towering walls of crimson. Waves higher than houses reared upward around the area, breaking into spirals of red foam and flying spray.
+
+The blood was hurled backward with catastrophic force, swept across the chamber floor in roaring torrents that tore grooves through the ground. It crashed into the far walls heavily, sending tremors through every pillar and shaking dust from the vaulted ceiling above. Great sheets of crimson climbed the walls before collapsing again, only to be driven back once more by the endless outward pressure coming from the zombie girl.
+
+Morpheus stared in horror as his domain was stripped from him. The sea of blood he had summoned was reduced to nothing more than scattered remnants forced into the corners of the chamber.
+
+Steam drifted through the air where blood had been vaporized by the zombie girl's flames. Her wings were spread wide, burning with radiant fire that trailed long banners of light through the smoke. Golden flames crowned her body and rolled from her shoulders like robes woven from the sun. Her eyes shone with a brilliance too pure to meet for long, and the stillness in her face was more dreadful than any rage.
+
+Morpheus had seen countless veteran adventurers beg for mercy before his eyes. He had mocked the gods of men and carved power from blood with his own hands. Yet as he looked upon her now, those memories turned hollow, because the zombie girl had clearly outclassed his power absolutely.
+
+She looked like a deity that had stepped down into the world. Fear, true fear, entered Morpheus then. It crawled through his chest like ice, coiled around his heart, and squeezed harder with every passing second.
+
+To make matters worse, the zombie girl soon lifted her gaze and found him where he hovered. When she spoke again, her eyes remained locked onto his, making no effort to hide her contempt.
+
+“Divine Pull.”
+
+***
+
+Chloe had never felt power like this before in all her unlife, and for one brief, glorious moment she almost wanted to apologize to everyone else in the world for how unfair this was about to become, because the force raging through her body now felt less like magic and more like she had somehow drank some super awesome divinity juice and it did exactly what was advertised. It was exactly what she needed.
+
+She had not come this far just to let some blood-obsessed creep with too many speeches crawl away again. They were here to clear the dungeon, survive whatever nonsense waited deeper inside, and leave with their limbs mostly attached. That meant Morphy needed to be finished here and now, permanently.
+
+The instant she spoke the words Divine Pull, Morphy’s body snapped toward her. His wings flared wide, and every muscle in his transformed body strained against the invisible force dragging him towards Chloe's waiting hands.
+
+She then closed her fists, and he stopped dead only a few feet in front of her, suspended in midair and held so tightly that both wings became jerky and useless. He snarled, twisted, and fought like a cornered dog, yet he could not move so much as an inch.
+
+And honestly, seeing that made Chloe feel a lot better. Watching him choke Z had been bad enough. Watching him throw her into a pillar had been worse.
+
+Watching him pin her down and start monologuing over her like he had already won had pushed something deep inside her past the point of patience. Somewhere between anger, humiliation, and the very personal desire to punch him into another dimension, those strange golden eyes had awakened at last. She still had no clue how they worked. But they worked now, and that was what mattered.
+
+“Oh wow,” Chloe said, drifting upward as she kept him trapped before her. “You really picked the wrong day to be annoying.”
+
+She shot high above him in a blazing arc of fire and gold, then turned in the air and thrust both hands downward. Divine Push.
+
+Yet another colossal wave of force crashed onto Morphy. His body was hurled downward, smashing into the floor like a shooting star. Stone burst upward in a roaring pillar of debris, shattered slabs spun through the air, and cracks tore across the ground in every direction.
+
+Chloe then held one hand extended and kept the pressure on him, forcing Morphy deeper into the crater each time he tried to rise. Every struggle earned him another crushing surge that drove him farther into the ground. She only stopped when Morphy stopped moving, and by then the entire floor was basically just a massive crater.
+
+But as nice as it was that Morphy finally decided to stay put, the job wasn't done yet. It's about time.
+
+She brought both palms together before her chest and began building her ultimate attack. A spinning sphere of fire formed first, blazing between her hands, while chunks of stone tore free from the shattered arena below and circled the flames before melting into its core. Ice came next, spreading crystal veins across the growing mass. Then, darkness poured in like ink through water, twisting through the volatile sphere.
+
+Next, Chloe added lightning. Wild bolts erupted around the orb, lashing across its surface and cracking so loudly the pillars trembled. Forcing all that chaos together as the sphere swelled larger, brighter, and far more dangerous.
+
+Finally, she poured a thin thread of divine energy into the center. Golden light rushed through every layer at once. The fire burned hotter, the ice shone brighter, the darkness twisted deeper, and the lightning roared even louder. Powers that should have destroyed each other were somehow forced together by Chloe's sheer willpower and focus.
+
+The massive sphere pulsed with so much power that the air around it warped Chloe had absolutely no idea how she was keeping it together. But she knew one very important thing. She only had a few seconds before everything went horribly wrong.
+
+“With love,” she muttered, then hurled the massive sphere downward.
+
+The orb tore from her hands and screamed through the air, trailing fire, frost, lightning, black smoke, and streams of golden light as it plunged straight toward the crater where Morphy was still pinned beneath her crushing force. The chamber shook before it even landed, the pressure of its descent alone splitting stone and sending loose rubble skittering across the floor.
+
+The instant she released it, Chloe did not stay to admire her work. She snapped her head toward Z and saw her lying limp at the bottom of the bone pillar where she had been thrown earlier. Without wasting another second, she kicked through the air in a burst of speed and shot across the chamber like an arrow.
+
+“Z!"
+
+She reached her just as the sphere started to really explode. Chloe grabbed Z around the waist and shoulders, pulling her up from the ground as gently as she could manage while still moving very fast. Of course, Chloe also made sure to turn off her Blaze Armor before rescuing Z, because burning Z was not her plan.
+
+But as she flew up to safety, carrying Z, the world exploded. A flash of light burst from the crater so bright it erased every shadow in the chamber. And then the rest of the blast arrived.
+
+The shockwave chased Chloe through the air. Heat roared at her back while freezing winds tore past from the same blast. Bolts of lightning lashed through the chamber, striking walls and ceiling in blinding chains. Black waves of magic rolled through the aire, while golden force crushed everything in its path.
+
+Whoops! Made it too big!
+
+Still carrying Z, Chloe twisted in midair and threw out one hand behind them. A divine barrier burst into existence, wide and glowing, curving around them. The barrier shook violently as waves of power crashed across it.Chloe gritted her teeth and poured more strength into the shield while holding Z tightly with her other arm.
+
+Below them, the chamber ceased to look like a room at all. Everything became light.

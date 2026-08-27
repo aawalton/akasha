@@ -1,0 +1,63 @@
+---
+id: aa70a4ca-04d5-50c6-89f3-990ef36dec57
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1656 - It Spread Like a Virus pt 3"
+slug: 0305-chapter-1656-it-spread-like-a-virus-pt-3
+partOf: chrysalis
+position: 305
+ownLength: 929
+unit: words
+ownProgress: 929
+publishedAt: 2025-09-30
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2639507/chapter-1656-it-spread-like-a-virus-pt-3"
+royalRoadId: "2639507"
+markedReadAt: "2026-06-29T19:53:34.095Z"
+---
+
+“Ten rounds in, we have reached the midpoint of the match, and things are really heating up here, folks. Tied at two all, both teams have shown great skill and strategy on both offence and defence. It’s exciting to see just how quickly the Folk have adapted to the game, and as longtime watchers, I can tell you all that these are highly skilled teams. Commentant and myself have both been impressed by the level of the matches we’ve seen since we arrived, and this one is no exception. The reputation of the Folk is well deserved.”
+
+There were nods and smug faces all around the stadium as this ‘Peter’ stated the obvious. Of course they were excellent, they were the Folk, the finest duelists in the Dungeon.
+
+“Certainly it’s been impressive. These two teams could realistically compete in the third or fourth division in Anthome. A very high level for people who came to the game so recently.”
+
+Third or fourth division? Well, that didn’t sit so well with the crowd.
+
+“We emerge from the halftime break, and both teams are taking their positions on their respective sides of the field. What do you think we might see them change up in the second half, Commentant?”
+
+“The Flowing Stone haven’t been able to get their dominant, push-centric game going as much as they’d like in the first half. I wouldn’t be shocked at all to see them play a wider front. Rather than concentrate their strength as they usually do, spread their power trio across the mid-line to help shore up the flanks, which have been suffering greatly from the Spirit Blossoms’ creative and deceptively punishing attacks.
+
+“As for the Blossoms, their offence has been good, but the defense is really being pushed hard. Plumtree and Snow-fur are really getting battered out there, and if they can’t hold the line in the later rounds, I fear the Flowing Stone might run away with the score.”
+
+Indeed, Grey was in a similar mind to these supposed ‘analysts’ as he watched the battle unfold.
+
+He shook himself. This was no battle, but a mere game. Trivial nonsense, not a true duel. Regardless, he concurred with their assessment. The Blossom team had held on so far, but their warriors were growing tired, fatigued. In truth, all of them were. The rounds had been gruelling, physically and mentally demanding as the two teams clashed repeatedly, forcing the competitors to push themselves. Yet the Flowing Stone were hitting harder, more viciously, and had more energy to spare.
+
+Unless the Blossoms adjusted their strategy, he estimated they would struggle greatly in the final few rounds.
+
+“The teams are lining up for the next round and… yes, yes I believe we see some shifts in formation. The Stone have indeed widened their front-line, but not by as much as I would have liked to have seen. A bit more width would really help them, I feel.”
+
+“Yes. We can also see the Blossoms have adopted a deeper formation, pulling their front back and setting their flanks even wider. I like this adaptation. More time to react in the centre, more space to work on the sides. This could give them the edge they need.”
+
+“Indeed, the greater width means the Stone really should be pushing wider still. I feel they will come to regret not being more bold with their formation change.”
+
+“We’re about to find out! Here we go!”
+
+Swords flashed, light exploded and the crowd roared. Unknowingly, Grey leaned forward ever so slightly in his seat.
+
+Yes, he could see it unfolding just as he had predicted. The Stone were defending, holding the centre, but their flanks were not adequately protected. As before, the Blossoms were able to hold just long enough to get their passing game going, then launching themselves down the sides of the field in a sharp lunge towards the wall.
+
+They displayed such fine control, using the light of their swords to shift the ball from side to side, flicking it at rapid speed. The Stone fought fiercely. They fell back, recovered their lines, lashed out with savage sword strokes, trying to tear down their enemies before they could get too close.
+
+There was real skill on display and Grey was pleased to see it. A slight smile tugged at his lips, and warriors from half a dozen sword schools worked against and with each other, their techniques and control clear for all to see. It wasn’t perfect, they were not blademasters, but still it was interesting to watch.
+
+Again, the defenders tried to read the final pass, looking to intercept and destroy the ball. Spring made a daring run, cutting through the lines and drawing them towards her. The defence collapsed, sure that she would be the target, only to realise too late she was a decoy.
+
+The ball sailed through the air at great speed, another of the Blossoms in perfect position to receive, only a few metres from the wall. But Claw had held back, clever enough not to be sucked into the distraction, and moved to block.
+
+In a stunning display of skill and control, the Blossoms player used the flat of his blade to catch and control the ball, parrying it to his right.
+
+Straight to his teammate.
+
+The crowd erupted as the Blossoms scored, and even White begrudgingly clapped, unable to deny the brilliance of the play.
+
+Grey stroked his muzzle. Who was that lad? He had excellent wrist control. Perhaps Grey should see if the young one was open to switching schools….

@@ -1,0 +1,93 @@
+---
+id: b936a339-bb68-53a2-a370-d551cb9c8bf9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1584 - New - Old Friends"
+slug: 0232-chapter-1584-new-old-friends
+partOf: chrysalis
+position: 232
+ownLength: 1258
+unit: words
+ownProgress: 1258
+publishedAt: 2025-06-13
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2352218/chapter-1584-new-old-friends"
+royalRoadId: "2352218"
+markedReadAt: "2026-06-29T19:51:14.231Z"
+---
+
+[And that’s how we ended up here,] the mage concludes.
+
+[Well… you’re more than welcome, I suppose. We need all the help we can get out here. Things are… oh snap!]
+
+I barely pause to calculate before launching another empowered gravity bomb. The dense ball of mucus sails through the air towards the platform, only to be met halfway by my own spell. As always, the two collide in a hideous, noisy mess, the mana colliding violently until finally they chew through each other. They’ve been getting more and more frequent. Whoever is out there launching these bombs is really pushing it. Trying to push my reserves, perhaps? If so, they’re in for a sad time. I can make as much gravity mana as I want, and my mental fatigue is washed away each and every second! I’m fresh as a daisy out here!
+
+At least, that’s what I keep telling myself. I may not be tired, I may be mentally sharp, but my nerves are getting worse and worse. Also, the kids are really starting to get annoying. The longer I go without sleep, the more they stare at me. It’s getting creepy. Every time I shift my head, I see them, staring. Sometimes they’re nearby, in a group of soldiers, or perhaps far away, with the reserves, watching. And then, sometimes, they’re right next to me, somehow sneaking up and slipping into my nearly non-existent blindspots.
+
+Only an ant could teach them how to sneak up on an ant! Lousy nameless ones.
+
+[What was that?!] Mage Werilos asks, aghast. [A Doom Sphere of mucus?]
+
+[Uh… well, yes. I suppose so. It’s super-concentrated mana of the fifth stratum, rolled up into a tight little ball and then launched at the platform from range. What did you call it?]
+
+[A Doom Sphere,] he replies. [That’s what they’re called, right? A hyper dense, self sustaining sphere of uniform mana.]
+
+[I mean… maybe? Are you telling me this kind of spell has… an official name?]
+
+[Well… yes. I assumed you knew, since you use them.]
+
+[I just came across it randomly when I was younger! I used a sphere of densely packed neutral mana to blast a monster, then started using my… uh… own personal brand of energy, which seemed to fit very well with the spell.]
+
+I mean, it’s been my trump card for a long time. I never would have made it this far without it.
+
+[Well… it’s a known spellform. They aren’t exactly complex, just extremely difficult to cast. Very taxing on the mind. Most mages don’t consider them worth the effort.]
+
+I mean… yeah, they’re extremely difficult to cast. Forcing the mana to be that dense feels like clenching your teeth until they fuse together. It’s gotten easier, though, I assume because my brains have become so large and mighty.
+
+[Why wouldn’t they be worth it? They’re rather powerful.]
+
+[Well… they’re not exactly discriminating forms of magic. Hard to control, require a huge amount of mana and mental energy. Even at the higher tiers of magic, you can still cast spells that are easier to work with and allow for more control.]
+
+[And have the same effect?]
+
+I doubt it. If everyone was flinging spells around that were equal to the gravity bomb, then it wouldn’t have been so effective for so long. Even so, I’m curious as to how much Rathwyn Werilos is prepared to say. He’s supposedly a respected mage from one of the premier places of magic in the entire Dungeon. If this guy isn’t an expert, then nobody is.
+
+Of course, I’m sure there are limits to how much he can talk about with intelligent monsters.
+
+[The same effect? No, of course not. They aren’t called Doom Spheres because they are weak or easily countered. I don’t have a single spell in my arsenal that could destroy a spell like the one flung towards us a moment ago. The mana of the fifth is… difficult to work against. What did you say that purple mana was?]
+
+[I didn’t. If I could roll my eyes, I would.]
+
+[You can’t blame a scholar for trying. Of all the mysteries I’ve witnessed down here, perhaps that is the most intriguing. I would love to know what it is and how it works.]
+
+[Information exchange? I’ll tell you all about it if you can educate me more on magic.]
+
+He chuckles in my mind.
+
+[I’m afraid I would need approval to share that sort of information, and I am certain I wouldn’t get it. The pursuit of knowledge is defeated by bureaucracy yet again. A shame. Well, I suppose that’s enough standing about. My friends and I will put in an honest shift.]
+
+From as far back as they are, it’s easy to tell that Solant is intent on not letting them be killed. She set them behind the healers! If they get in trouble, the healers will have to turn around and go back towards the fortress! Well, if they couldn’t be useful there, I’m sure she would have moved them forward. I’ll just wait and see what they can do.
+
+While I wait, my brains keep churning and I keep fighting, burning, chomping and blasting while remaining ready to retaliate with gravity bombs at the drop of a hat. The strain sets my brains on fire, but they don’t get tired. Without the Vestibule, I doubt I could do this for more than an hour. I’ve been doing it for days!
+
+After a few minutes, there’s finally some action. It’s difficult to see, since it’s all taking place directly behind me, so I angle my body a little to keep an eye on things.
+
+At first, I don’t see anything. The mages are gathered together in a huddle, not really moving. When I use my mana sense, however, things really come to light. They are doing some work. A huge amount of energy is being weaved, and so expertly! At this distance, I can’t work out the details, but there are layers upon layers upon layers, so many threads, so many mind-constructs, all working in harmony to craft something truly unique.
+
+And then they power it.
+
+A vast sum of mana is pushed in one end of the construct they’ve created, and out the other end comes something I can see with my mundane eyes.
+
+Tiny motes of fire.
+
+And I do mean tiny. If they weren’t so bright, I might have almost considered them little fireflies. More and more of them rise up, clustering together, and I wait for something to happen, but nothing does, nothing except more motes. Minutes tick by, and they continue to pop into existence, while the ones already created seem to drift up into the air.
+
+After ten minutes have passed, there are thousands of the things, a cloud of them, almost like a galaxy, floating lazily up and over the platform. Finally, the mages step back, breathing heavily, sweat dripping from their faces as they turn to admire their handiwork.
+
+I mean… it looks… nice? Very pleasant to look at, really lifts the general mood of the platform.
+
+I’m not very impressed, and I’m about to express that to Rathwyn when the first of the little dots finally reaches the front of the platform, right over my head.
+
+A dense beam of superheated fire lances out of it and spears a lunging monster straight through. The creature instantly ignites into flame and collapses onto the platform, bellowing in rage.
+
+I look up.
+
+There are thousands of them.

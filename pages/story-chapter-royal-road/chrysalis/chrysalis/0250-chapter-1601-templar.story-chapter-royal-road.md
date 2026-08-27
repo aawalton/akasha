@@ -1,0 +1,101 @@
+---
+id: 073e6ec6-e758-52c1-8181-c9354fd79b8b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1601 - Templar"
+slug: 0250-chapter-1601-templar
+partOf: chrysalis
+position: 250
+ownLength: 1003
+unit: words
+ownProgress: 1003
+publishedAt: 2025-07-08
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2417629/chapter-1601-templar"
+royalRoadId: "2417629"
+markedReadAt: "2026-06-29T19:51:48.845Z"
+---
+
+Jern woke, feeling his head pounding in his skull. He groaned and tried to sit up, his vision swimming before finally settling, letting him see that he’d been moved into one of the barracks. One of the Colony members must have pulled some beds in here to lie the comatose Templar down on.
+
+Slowly shifting his head to the left, then to the right, Jern confirmed that he was indeed not alone. Alis was with him, along with Bertran, but he didn’t see the kids.
+
+“Trean? Emilia? Allison?” he called.
+
+His voice was rough, as if he’d been shouting for hours, but he hadn’t, had he?
+
+Memories of the battle within the Nave returned to him in a rush. The tide of critters who had flooded in, trying to do something to it while he and the other fought them off desperately. It had seemed like it would never end, but eventually they stopped coming, not long before the Templar had been completely out on their feet. For some reason, fighting inside that place was so much more exhausting than doing battle on the platform. Some sort of spiritual drain, instead of a physical one? Maybe it was both. He did feel tired. In every way.
+
+“Trean? Emilia? Allison?” he tried again, a little louder this time.
+
+“We’re here.”
+
+Barely a whisper, the pheromonal message brushed past him, so light it could have almost been mistaken for a stray scent in the air. Typical of the kids, they were always this secretive.
+
+Craning his neck, he spotted them in a dark corner, huddled together and wrapped in blankets. With a groan, he pushed himself up and swung his legs off the side of the bed, feeling around for his shoes. It was almost pitch black inside the barracks, not unusual for areas of a nest dedicated to the ants, but even so, Jern could see just fine. The training of the nameless ones was especially strict on this point. If you couldn’t find your way in total darkness, you wouldn’t make it from one side of a room to the other inside the Sanctum.
+
+Boots on, he stood and made his way over to the kids, squatting down a short distance away from them, Jern spoke to them, using his softest pheromones.
+
+“How are you?” he asked. “Anyone hurt?”
+
+The three kids looked somewhat the worse for wear. As strong as they were, it hadn’t been enough to endure the draining war that had occurred within Anthony. Every time they struck down one of those… creatures, it had taken something out of them, something he couldn’t identify.
+
+“We’re fine,” one of them replied.
+
+Again, the communication was so soft, a hushed whisper, he couldn’t even tell which of them had said it. Jern looked around, but didn’t see anyone paying attention to them.
+
+There were many ants in the barracks, still as statues as they enjoyed their torpor, and it was difficult to say if they were watching or not, fancy all-direction eyes that they had, but he felt he was probably safe.
+
+There’s no need to be so quiet, he gestured to them clumsily using the secret language of the nameless.
+
+They hissed at him. Hissed!
+
+Eyes wide with fury, Emilia snapped out a series of gestures.
+
+Not here! Do you want to be seen?
+
+Then talk to me, Jern signed back, his gestures growing ever so slightly larger.
+
+The three glared at him but he only smiled slightly.
+
+“Fine,” Trean said aloud. “We will talk.”
+
+A win. It wasn’t easy to get these three to bend on anything, but it could be done with the right leverage.
+
+“How long have you been awake?” Jern asked them. “Do you know what happened to Anthony?”
+
+“Not long,” Emelia replied, still a little sullen, “and I heard that the Eldest fell from the platform.”
+
+Jern’s eyes widened. He what?
+
+“That’s not possible. I know he’s alive.”
+
+All three of the young folk looked at him as if he were a fool. Of course, they all knew he was alive. Which meant either Anthony hadn’t fallen, or he had, but found a way to survive anyway.
+
+Jern felt fairly confident it was the second. He sighed. Well, nobody had ever said it was easy to follow a living ant-god.
+
+“Do you have any idea how we’re going to go and get him?” he asked hopefully.
+
+He certainly had no plans. Jern had been told in no uncertain terms that leaving the safety of the platform would be almost-instant, painful death. There was no doubt in his mind that someone much smarter would need to find a workaround for him, then he could get out there and do what needed to be done.
+
+“We’ve been talking to the nameless ones,” Allison whispered to him. “They’re working on something.”
+
+That was enough to put Jern’s brows up. If they were going to move, he would need to get in touch so they could bring him along.
+
+“What did they say?” he asked.
+
+“They’ve been in contact with The Shadow. She went with the Eldest when he fell.”
+
+As if the nameless needed more motivation….
+
+“They’re trying to coordinate something, but moving through the fifth is going to be very difficult. Even for them.”
+
+It was hard for everyone, even secret shadow ants, apparently.
+
+At least Jern could be confident someone was working on a solution. All he had to do was tag along.
+
+“You should get some more rest,” he suggested to the three.
+
+They looked offended, but he only smiled at them.
+
+“We might need to fight again soon. Better to rest while we can,” he said, and shrugged.
+
+Hoping they would take his advice, Jern left them and headed back to his own bed, kicking off his shoes and lying down once more. With a subtlety he hadn’t displayed before, he left a faint message in the deepest pocket of shadow in the chamber, then pulled up his blankets. In minutes, he was softly snoring.

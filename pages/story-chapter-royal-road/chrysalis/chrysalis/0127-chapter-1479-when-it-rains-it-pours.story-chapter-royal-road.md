@@ -1,0 +1,61 @@
+---
+id: c2680e73-f457-50f7-8987-8f2231b03983
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1479 - When it Rains it Pours"
+slug: 0127-chapter-1479-when-it-rains-it-pours
+partOf: chrysalis
+position: 127
+ownLength: 898
+unit: words
+ownProgress: 898
+publishedAt: 2024-12-20
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1965165/chapter-1479-when-it-rains-it-pours"
+royalRoadId: "1965165"
+markedReadAt: "2026-06-29T19:48:07.917Z"
+---
+
+A deluge of sludge blasts my way as the worm disgorges its vast, rotund belly of goop through its mouth. Dodging to the side isn’t really an option, since I don’t want the sludge to enter the safe-zone at all, so I return fire with… fire.
+
+Dragon’s fire!
+
+When mucus and fire meet, it’s never a good time for anyone–the sound alone is horrendous, and I won’t even mention the smell–but thankfully I’m able to produce enough heat to burn away a good portion of the slime.
+
+The worm itself isn’t that hard to fight, it’s more of a sludge delivery system than anything else. A few quick chomps and it gives up the ghost, but I don’t have time to relax, there’s more monsters right around the corner to deal with.
+
+This time it’s a horde of weird crab-looking things. Each one is disgusting in its own magical way, but for the most part, I would have to say that the dozens of eye stalks they each sport are the worst part. The little pinchers rush forward mindlessly, carpeting the tunnel in front of me. There must be thousands of the lousy things! Where did the Krath even find them?
+
+Only two metres tall, they aren’t very large, and probably aren’t very evolved, but that doesn’t mean they can’t do damage, a theory that is proven correct almost immediately.
+
+As soon as they’re within range, the crabs raise up their claws and start shooting acid at me. From thousands of crabs, that equates to an awful lot of acid.
+
+I spring to the side to avoid the bulk of the spray and then charge directly forward, letting the rest fall behind me as I shorten the distance. In an instant, I reach the first of the crabs and unleash a mighty Void Chomp right in their midst, annihilating a chunk of the acidic crustaceans.
+
+Which of course was what the slugs wanted me to do all along. The moment they bite the dust, each of the crabs swells up and explodes, sending a shower of toxic goop flying into the air.
+
+Because of course they did. I’m wise to the shenanigans of this place by now, and before any of it can reach me, an empowered gravity domain takes shape around me, yoinking all of the airborne sludge to the ground. I swear to goodness, the amount of putrescent slime being flung about by these monsters is expanding exponentially! The Krath clearly have a plan in mind that involves spreading foul mucus far and wide.
+
+Well, it’s not like it’s a secret. There have been several attacks that managed to breach the wall of blue mana that protects the Colony, and I’m sure they learned what they were hoping to from those instances. Namely, what worked to consume as much blue mana as possible.
+
+It’s not a difficult concept: if they manage to deplete the mana that shields us, then we have to leave, or diminish our held territory. Needless to say, giving up territory is not an option. We’ve captured what we need to construct the fortress and not much more. There is no retreat!
+
+Yet the Krath are working a surprisingly effective campaign of trying to consume as much of the purified mana as they can, pushing our wuffer platforms to the brink in order to force us back.
+
+They’re especially interested in this area, since it's where Goszi is being held prisoner. I don’t know how the heck they managed to figure that out, but they have, it's the only thing that makes sense. We have whole teams of mages on constant alert to detect tunnelling around his prison, and the Krath are constantly trying to get in there.
+
+Having their little cracks in the stone collapse on them has dissuaded the slugs from getting too close, but they keep trying.
+
+I munch my way through the crabs, bemoaning the waste of Biomass and doing my best to make sure I don’t get any goop on me. The healers are being more and more insistent that I take regular rests to ensure there’s no buildup of contaminants anywhere in my system, but I’ll have to wait twice as long if I get exposed to a significant source of infection.
+
+Alright, the crustaceans have been dealt with. I let the domain drop and turn my attention back down the tunnel wondering what’s coming next, only to be met with a wall of mucus oozing toward me.
+
+Oh great, they’re trying to flood the tunnel again.
+
+I don’t know where in the heck they’re managing to find sao much of this goop, but they’ve sent waves of the stuff flowing down the tunnel around twice a day. Twice a day! What infinite lake of pus are they draining to send all of this our way?!
+
+I turn and signal to the ants behind me, and they immediately start deploying the countermeasures the Colony cooked up over the last few days.
+
+Chains spin, stone groans and the massive grates gradually pull open, revealing the redirection pipelines we constructed. It won’t be able to take all of it away, but it will get a significant amount, letting it fall down the tubes and pile up below the fortress where we don’t particularly care about it.
+
+As for the rest… I sigh.
+
+Time for more Dragon’s Breath, I suppose.

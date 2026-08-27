@@ -1,0 +1,164 @@
+---
+id: f7221a61-34cf-55c8-b42d-9acc29580c75
+page-type-slug: story-chapter-royal-road
+title: "188 - A Very Close Duel"
+partOf: bunny-girl-evolution
+position: 56
+ownLength: 3151
+unit: words
+publishedAt: 2026-04-11
+link: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3259519/188-a-very-close-duel"
+royalRoadId: "3259519"
+---
+
+The rest of that day passed in a blur. Basic Magical Combat had no new unit. They just went right back to drills and exercises, with perhaps a little more scolding from the instructor than usual due to students getting rusty over break. Attalaya and Sophie were not victims of this. While Elise hadn’t done much herself, it quickly became clear that both of the others had been practicing a lot over break.
+
+Sophie seemed to have worked especially hard, and had made notable strides. It was easier for her to do so, since her starting point was lower, but it made Elise wonder what Irylax had put the girl through over the break. Her attacks were much cleaner and more efficient, and her reaction time on defense and dodging had gotten better too.
+
+Her improvements were again visible later that night as they practiced with the Dungeon Competition team. Not only had her skills improved, but so had her instincts, and she was more decisive both in combat and out of combat. When Elise asked afterward, Sophie confided that she had basically spent the entire break in the Dungeon at Irylax’s behest, which explained a lot.
+
+Classes the next day passed by similarly quickly, with Elise’s mind increasingly more occupied by the upcoming duel as the day went on. Duels were completely legal in Jelor, though they were generally considered an archaic way to settle grudges. In modern times, they were mostly used for mutual benefit or for demonstration purposes, rather than for things like this. The only people who used them on people they actually disliked were people like Liam who were hoping for a legal way to beat their opponent up.
+
+Elise was more than happy for the opportunity to finally shut him up once and for all, and with {Fey Bargaining}, she could more or less guarantee a positive outcome if she won, but now that she had some time to cool off, she was a little worried about the consequences. She had basically given up on keeping a low profile at school already. Oberon’s “disguise” for her had made it a pipe dream, and now that she had leveled up a few more times, {Subtle Royalty} was even less effective at restraining her aether than it had been. She was already drawing noticeably more eyes than she had before.
+
+However, that didn’t mean she wanted to make a massive spectacle of embarrassing the son of a duke. There was a difference between not avoiding attention, and intentionally drawing it. She had not needed to specify the location of the duel because both parties knew that there was only one place in the University it could take place, and that was the Dueling Fields. These fields were deliberately kept open to the public and placed in a very conspicuous location to make sure that duels were easy to witness. Even if she and Liam didn’t try to draw a crowd, they would have plenty of spectators. And she doubted that he would pass up a chance to invite more people to see him attempt to humiliate her.
+
+Attention aside, she was also worried about the possibility of retaliation. With a fey bargain already in place, she would be able to keep Liam from retaliating personally, but she was a bit worried about his family. While Liam was widely known as a prodigal son and was not well-regarded, he was still a Grane, and if she went too far, they might step in. In the worst case scenario, she might have to reveal her first layer of disguise to keep any kind of political pressure off her back and make Oberon deal with it.
+
+When she saw his face that evening, though, those worries all began to fade. She saw his annoying, smug expression, and remembered the way he had casually ordered his bodyguard to knock Sophie’s teeth out on registration day, and decided that she didn’t care enough to worry. She would be taking a leaf out of Oberon’s book and acting first and thinking about the consequences later.
+
+Cassie was beside her, and she looked like she was going to try convincing Elise it wasn’t too late to back out, but Elise never gave her the chance, and instead marched up to Liam and crossed her arms.
+
+“So, you actually came,” said Liam haughtily.
+
+He had brought a small crowd of onlookers with him, all of which seemed to be fellow nobles and their bodyguards. Elise was pleased to note that most of them didn’t seem to actually like Liam all that much. In fact, many of them seemed more interested in Elise herself than the arrogant noble. They had a varied mix of emotions, most of which were curiosity and interest, with a few—especially among the guards—exhibiting open annoyance. One was even giving off a strong sense of amusement, and when Elise looked for the source, she found that Helene had somehow found her way into the group.
+
+“I did,” replied Elise, moving her gaze back to her opponent.
+
+“It seems that despite being a commoner, you lack common sense,” he said with a smirk.
+
+Behind him, many of the nobles cringed. It was enough that Elise did not feel the need to give him any kind of retort, because she knew nothing she could say would embarrass him any more than his own words. He was digging his own grave.
+
+“I’m ready to begin when you are,” she said simply.
+
+“Well, if you’re so eager to serve me, I don’t see any reason to wait,” he said. “Though if you’re that eager, you could simply grovel now and skip this pointless farce.”
+
+“Mmmm,” said Elise, ignoring him and walking over toward one of the demarcated areas for dueling.
+
+Liam scowled and hurried to the opposite side where he adopted his usual arrogant sneer. While they took their positions, a nearby faculty member rushed over and took up a spot at the edge of the field between them. This was evidently nothing new to him, because his expression looked bored as he began to speak.
+
+“This space is for officially sanctioned Jelorian duels,” he said. “Are you two here to participate in such a duel?”
+
+“Yes, we are!” declared Liam Grane.
+
+“State your names, and the terms of the duel.”
+
+“Liam Aldous Grane,” said Liam. “And when I win, she will be my servant for a year.”
+
+Elise saw the faculty member hold back a sigh as he turned to face her.
+
+“Eleanor Gray,” she said. “And if I win, he will be the one serving me.”
+
+“These are serious terms for the duel. Are both parties certain that they wish to agree to this?” asked the faculty member.
+
+“Yes,” said Liam and Elise simultaneously.
+
+Elise activated {Fey Bargaining} again hoping to double up on the deal, but unfortunately, it didn’t work. It seemed that the exact same deal could not be made twice. She did note that the existing deal seemed to have been somewhat strengthened, though, so it was still a win.
+
+“Then before we begin, let me briefly go over the rules. You will not aim for killing blows. If you do, you will immediately lose, and you will be subject to criminal prosecution under the Jelor Kingdom’s laws. The same goes for intentional maiming.
+
+“Should you attempt to kill or maim your opponent, I will step in and restrain you. Should you continue attacking after I have announced the end of the duel, you will automatically forfeit and will be considered the loser, regardless of the outcome of the actual duel.
+
+“While attacking your opponent is allowed in the context of the duel, illegal Skills will remain illegal. Should you be caught using any, you will automatically forfeit the duel and be subject to criminal prosecution under the Jelor Kingdom’s laws. If you perform any attacks that could be considered sexual assault, you will automatically forfeit the duel and be subject to criminal prosecution under the Jelor Kingdom’s laws.
+
+“Barring any breaking of rules, the duel will end when one party is either unable to continue, or when they announce their forfeiture, or when they are struck by a blow that would have been lethal if not for its intentionally reduced power.
+
+“I, Henry Seller, am the adjudicator for this duel, licensed officially by the kingdom of Jelor, and with the power to enforce the laws of the nation in case of emergency. I alone decide the beginning and end of the duel, in accordance with the aforementioned rules. Any decision made by myself in regards to this duel is legally binding, and can only be overturned in the court of law. Do both parties agree to abide by these rules?”
+
+“Yes,” said Liam and Elise.
+
+Elise activated {Fey Bargaining} once again, but she was surprised to see that the faculty member seemed to have a deal-making Skill as well. She guessed that it was probably a specialized one for this task, or maybe just an item, but she was glad to see that there was some kind of external reassurance of the terms beyond just an arbitrary set of rules that a ducal family no doubt had the power to meddle in.
+
+“Then both parties, take your positions.”
+
+Elise and Liam stepped forward, standing thirty feet apart in the grassy field.
+
+“Ready,” said the adjudicator. “Set. Begin!”
+
+As soon as the adjudicator announced the beginning of the duel, Liam pointed two fingers at the commoner girl, and a jet of white-hot flames shot out, aimed directly at her side. She erected a {Mana Shield} to defend against it, but the shield shattered under the force of his spell, and she barely managed to get out of the way with some kind of movement skill. Probably {Dart}, if he had to guess.
+
+She countered with an attack of her own, and Liam had to admit that it wasn’t actually a bad attempt. {Ensnaring Roots} from below and {Magic Missile} from above. A lesser mage might have been bested by that combination alone. But Liam Grane was no lesser mage.
+
+With a scoff, he stomped his foot, and a wave of fire spread out around him, killing the roots before they could get any kind of leverage on him, and at the same time, he erected a {Mana Shield} to block the {Magic Missile}. When the projectiles collided with the shield, he scoffed again.
+
+Did she really think she had a chance with only this level of skill? he wondered.
+
+Liam might not have been able to measure up to his siblings, but even so, he was still a Grane. He was raised from a young age to be a powerful mage. Sure, maybe he didn’t train as diligently as he could have, but that didn’t mean he was weak or inexperienced. He had spent years in the Grane family’s rigorous training, and had been sparring since as soon as he learned his first combat spells. Petty tricks like hers would not work on him.
+
+With a good gauge on how powerful his opponent was, Liam decided to change up his strategy. Hitting a swift target with {Flame Jet} wasn’t easy, but with defenses as weak as hers, something like {Flame Jet} was overkill anyway. He switched to {Flamethrower}, making a wide sweeping motion with his hand, covering the entire field. She would have nowhere to run, and even with its reduced power, he doubted her shield would hold up.
+
+She surprised him by leaping into the air out of the way of the flames, far higher than she should have been able, but it didn’t matter. She may have escaped {Flamethrower}, but in the air, she was completely exposed. With a sneer, he pointed his two fingers at her, firing another {Flame Jet}. However, at the last moment, right before he fired, she somehow dodged to the side midair. Barely reacting in time, he shifted his aim to her new location, and—
+
+Wait, what?
+
+The fire hit empty air, and the commoner girl fell back to the ground in a perfectly straight line, having not actually dodged.
+
+I could have sworn… he thought with a frown.
+
+“Wow, maybe I shouldn’t have worked so hard to dodge that first attack,” she said with an annoyingly arrogant smile.
+
+Liam’s anger flared, and his frown became a scowl.
+
+“Silence, commoner,” he said, firing another {Flame Jet}.
+
+Once again, at the last moment, she dodged, so he adjusted his aim, only for his spell to miss with her having not moved.
+
+Something strange is going on, thought Liam.
+
+Before he had any time to contemplate anything further, however, the commoner attacked again. It was {Magic Missile} again, which he presumed was her only offensive Skill. She got a bit trickier this time, however, splitting the missiles into two paths so they attacked him from either side, forcing him to raise two shields. At the same time, he also felt nature magic gathering near his feet again, but he dismissed it.
+
+I don’t need to worry about that right now, he thought.
+
+The {Magic Missile} projectiles broke uselessly against his shields as they had before, and Liam began preparing his next attack. He felt a strange pressure against his legs, but he ignored that too.
+
+It’s nothing, he thought. I just need to take out the commoner bitch.
+
+Another {Flamethrower} sent her into the air again, and he was about to finish her off with a {Flame Jet} when the pressure in his legs reached his waist and he spared a glance down. His eyes widened as he saw thick roots climbing up his legs, wrapping him up and pinning him down.
+
+How?!
+
+He frantically used {Flame Expulsion} to try to burn through them, but these ones were different from the last ones. Before, they had been brand new sprouts, and had burnt easily against his fire mana, but these ones had grown enough to be resistant. The moisture in the fresh wood made them difficult to burn, and what he did burn quickly regrew.
+
+How did I not notice?!
+
+He cast {Flame Expulsion} again, this time with double the power, and it still wasn’t enough. A feeling of fear and panic rapidly built as the roots continued up his body, immobilizing further. And at the same time, the commoner landed lightly on the ground, and started walking toward him with a smile.
+
+Something about her was different. She seemed almost bigger, somehow. She was still the same size as always, more than a head shorter than him, but with every step, it was like her presence grew. He felt like he was standing before his father. No, even his father had not exerted this much pressure just by looking at him. She was on a different level.
+
+He pushed out one final, panicked {Flame Expulsion}, this one the strongest yet. He pushed the Skill further than he ever had, earning a level-up notification from the System for his efforts, but it was in vain. For a moment, he thought he might have succeeded, as he had disintegrated many of the roots near his chest, but the ones around his legs were still alive, and started growing back up again. Two of the roots dug into the backs of his legs, and before he knew it, the spell had brought him down to his knees as she drew nearer.
+
+He had a bit more mana left, but seeing her standing over him, his will to fight was gone. She was not someone that he ever should have messed with, and he knew that now.
+
+“Y– yield!” he shouted. “I yield!”
+
+The commoner woman stopped stepping toward him, and the roots around him immediately stopped growing. Then, a moment later, the strange pressure vanished.
+
+“Liam Grane has forfeited!” announced the adjudicator. “Eleanor Gray is the victor!”
+
+The roots fell away, and the enormous pressure vanished as if it had never existed in the first place. Liam did not get up yet. He knew he did not have the strength in his legs. All he could do was breath a shaky sigh of relief.
+
+It’s over.
+
+It’s over, thought Elise with an internal sigh of relief.
+
+She had to admit, she underestimated Liam Grane a bit. She had done enough research to know that he wouldn’t be a total pushover, and she had felt that his mana pool was much greater than hers, but she didn’t expect him to be so experienced at combat. She had wasted too much mana in the beginning of the fight on her pointless shield and her first failed attack. By the end, she was running on fumes. As it turned out, regrowing roots when they were constantly being burned away used quite a bit of mana. A few more seconds, and she would have been forced to pummel the grounded noble with her fists.
+
+Still, it all turned out alright in the end, even if she did have to undo {Subtle Royalty} to speed up the surrender process. She had been using {Suggest} to invoke panic and fear, but she was worried about taking it too far and causing a heart attack, and didn’t want to increase the power too much. Instead, she kept the power of {Suggest} the same while instead increasing the power of the object of the fear.
+
+Undoing {Subtle Royalty} hadn’t technically increased the effect of {Suggest}, but what it had done is tied herself more closely to the effects. Instead of just fearing that he would lose, Liam Grane began to fear her instead. And with the full force of her aether fueling her presence, she had become more than he dared handle. Even now, as she walked back to the opposite side of the field, she could sense that all the defiance had been thoroughly beaten out of him. Not once had he even considered a cowardly retaliatory attack aimed at her back.
+
+Her mind was taken off the duel when Cassie ran out to meet her, congratulating her on her victory, as well as showering her with what was probably excessive praise. Elise didn’t mind too much, though she did get annoyed when some of Liam’s “friends” came over to talk to her as well. Still, it wasn’t all that bad, and she could tell from Liam’s state that all her worries before the duel were pointless.
+
+The nobles were annoyingly talkative, many trying to recruit her to their houses, but Elise managed to politely turn down all of them and extricate herself from the situation after a quarter hour to begin her journey home. She planned to continue her soul meditation and learn how to use her aether, but before that, something else had caught her attention. Near the end of the duel, something very unexpected had happened.
+
+She completed a hidden Skill Quest.

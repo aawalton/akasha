@@ -1,0 +1,181 @@
+---
+id: 0444e446-cf9d-59cb-b467-dbde1680fa75
+page-type-slug: story-chapter-royal-road
+title: "26: Burning Man"
+slug: 0026-26-burning-man
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 26
+ownLength: 2159
+unit: words
+publishedAt: 2025-09-08
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2584557/26-burning-man"
+royalRoadId: "2584557"
+---
+
+Luther froze as the pulse of his magic collapsed. Both of his fire elementals were gone, their flames snuffed out. He had invested considerable effort conjuring those constructs. They were not disposable.
+
+A slow grin crept across his face. It seemed that some capable individuals had finally arrived.
+
+He stepped out from his tent, the cavern's heat pressing faintly against his skin. Something in the air had shifted. The balance of magic felt... disturbed, changed.
+
+Perhaps the Tower of Mages had grown tired of his actions and sent a proper response. A task force, maybe, though that seemed unlikely. The Tower wasn’t known for decisive action.
+
+More likely, the Royal Mage Academy had taken an interest. The Tower often used the Academy as an extension of its will, sending professors, assistants, and favored students to handle tasks beneath the Tower’s direct attention. Cleanup jobs, errands dressed up as assignments, menial work. The thought sat bitter on his tongue.
+
+Luther despised the idea of being treated like a loose end. He was no failed apprentice fumbling with borrowed spells. He had been the most gifted fire mage in his cohort, unrivaled in terms of fire control.
+
+And yet, his teachers had dismissed him. Cast him aside for his obsession, his focus. As if devotion to a single art was some kind of flaw.
+
+They couldn’t comprehend what fire truly was. Fire was life, hunger, rebirth. It was freedom.
+
+If someone had finally come to stop him, fine. But he would not meet them unprepared.
+
+Luther closed his eyes and exhaled through his nose. The heat in the air bent easily to his will, but what he sought now was something deeper. He reached inward, focusing on the flow of magic through the cavern. The usual background hum of the mountain was there, ever restless, but beneath it was something sharper.
+
+One presence stood out above the rest, impossible to miss. That mana wasn’t fresh or reckless. It was seasoned, refined over years, maybe decades. Potent, dense, and well controlled. The kind of signature that didn’t belong to amateurs or overeager apprentices.
+
+Whoever it was hadn’t even bothered to conceal themselves. No masking spells, no misdirection, just advancing in his direction. And that, more than anything, put Luther on edge.
+
+Not a team. Not a squad. A single someone.
+
+Of course. One executioner, sent to clean up the mess.
+
+Luther opened his eyes and stood up. There was no way he was going to go down without a fight.
+
+He turned from the main cavern and made his way toward a narrower tunnel. At the end of the passage stood a smooth wall, unremarkable but for the faintest glimmer of enchantment across its surface. With a gesture, Luther pressed his palm against the stone. It rippled like water, and a hidden compartment slid open.
+
+From inside, he took out a thick tome. Its cover bore a single stylized sun etched in gold leaf.
+
+Luther brushed his thumb over the symbol, then flipped the book open, skimming quickly through the pages. He paused. Nodded once. Then snapped it shut.
+
+This book was the reason he had come to this place. Without it, none of this would have been possible.
+
+Without Sol, his ambitions would have remained distant. But here, buried beneath the weight of Splitrock Mountain, his ritual had found fertile ground. The entire area was saturated with mana, and best of all, it was remote. Far from the prying eyes of the Tower… for the most part.
+
+Luther moved deeper into the chamber, past stone altars blackened by fire and piles of scorched bone that crumbled beneath his steps. At the chamber’s heart, the ritual circle awaited.
+
+The circle was carved in strange sigils and inked with blood both dried and fresh. Corpses ringed its outer edge, twisted into the shapes of runes, charred and bound in iron chains. They fed the glyphs even in death.
+
+It had taken weeks to shape the flow of magic in the circle just right, to let the natural pressure build and spiral inward. Luther had planned to wait a few more days, perhaps a week, for the ritual to truly mature.
+
+But someone was coming for him now, and he was not going to fight without an advantage. He stepped into the circle, boots grinding lightly against ash and char.
+
+The moment Luther stepped into the ritual circle, the glyphs pulsed brighter, reacting to his presence. Heat stirred from the ground, rising in waves.
+
+Luther strode to the center of the circle, the stone groaning softly beneath his boots. In one hand, he held the ritual book, its stylized sun emblem glinting. As he stepped into the heart of the sigils, the ritual stirred beneath him.
+
+The glyphs flickered, then blazed. Fire bloomed along the outer rings where corpses had been chained and shaped into runes. One by one, they lit up slowly, then all at once. Blackened limbs twisted in the heat as flames curled around empty ribs and hollow sockets, devouring what little remained.
+
+The circle drank deep from the flesh and bone it had been given. Flames licked up the chamber walls in spirals, and then, it turned towards Luther.
+
+He tilted his head back and opened himself to it. Mana poured into his body, not all at once, but in thick, molten waves. It slipped into his limbs, coiled around his spine, seeped into his marrow.
+
+Every inch of him felt carved open and filled with light. The rush wasn’t sharp or painful, it was consuming. A slow, measured tide that built and built, layering strength upon strength as it flooded every hollow part of him.
+
+Luther sat still, eyes closed, and body thrumming with magic. The initial surge of power had been exhilarating, even overwhelming, but over time the flow had leveled into something steadier. Perhaps a bit too stable.
+
+He could feel the ritual still working beneath him, the mana still rising from the mountain’s depths, trickling into him. But it wasn’t enough. The torrent he had envisioned had become a stream. Potent, yes, but slower than he had hoped.
+
+Luther tightened his grip on the ritual book. Acquiring it from Sol had taken months. Lies, theft, fire, and more than one body buried beneath scorched rock. He hadn’t acquired the book just to go halfway.
+
+The ritual would work. He just needed time.
+
+Minutes dragged on, turning into what felt like hours. The glow from the ritual waxed and waned. His skin glimmered faintly with golden light, but still, the transfer wasn’t done. The power Luther craved still danced beyond his reach.
+
+Perhaps… perhaps he really should have waited. A few more days. Let the ritual fully ripen. But did he really have a choice? Someone was coming for him, someone strong.
+
+And right at that moment, Luther heard a voice. An annoyingly cheerful voice.
+
+“Helloooo? Anyone in there?”
+
+Luther’s brow twitched. What in the blazes was that?
+
+“Hey! I can sense you're there, magic man! Yoo-hoo! I found your secret hidey hole!”
+
+She sounded excited. Genuinely excited.
+
+Luther’s jaw tightened. This… this was the assassin sent for him? A child playing explorer? Surely the Tower hadn’t fallen so far as to employ loud, immature brats as executioners.
+
+“Luuuutherrrrr, c’mon, don’t be shy! I just wanna talk! Maybe eat your brain a little!”
+
+He forced his breathing to slow, trying to ignore the grating cheer in her voice. Just a little longer. He was so close, the ritual would—
+
+“HEY! ARE YOU DEAD?”
+
+The shout slammed into Luther's skull like a hammer. His eyes snapped open.
+
+Insulting. That was the only word for it.
+
+He, Luther Delius, reduced to being hunted by some unhinged child who thought murder was a game. It was absurd.
+
+But before he could react, pain struck. It was instant, searing pain.
+
+Mana twisted in his chest, a flood turned to fire. His limbs locked as if seized by chains. Light burst behind his eyes, and his breath hitched. The ritual circle flared beneath him, too fast, too wild.
+
+Luther doubled over, jaw clenched tight as the burning began in earnest. Something was wrong. Very, very wrong. The magic tore through him like a wildfire.
+
+He fell to his knees, hands braced against the burning stone. The glyphs beneath him pulsed brighter, frantic now, erratic. The veins of the ritual were no longer feeding him, they were devouring him. The balance had shattered. He had let his focus slip, all because of that damned voice.
+
+Mana clawed its way up his spine, wrapping around his lungs, his throat, his eyes. His vision blurred. Fire bled through every pore, his body glowing like an ember about to break. His skin peeled in glowing threads.
+
+His nerves screamed. But not louder than her.
+
+“C’mon, I’m getting borrrrrred out here! Hurry up or I’ll come in and poke stuff!”
+
+Luther’s snarl tore itself from his throat. The cave lit with fire as if echoing his rage.
+
+The ritual had lost its tether. The influx of mana had tipped past what his form could hold. He was no longer the conduit, he was the fuel. The flames weren’t his anymore. And it was her fault.
+
+He had been so close. So close to perfection. To finally showing them all.
+
+But no. Instead, he had been interrupted by some brain addled lunatic with the most annoying voice he had ever heard.
+
+Pain climbed his limbs, slow, intimate, merciless. It burned hotter than any fire he had ever called, hotter than anything he had ever dared dream.
+
+His hands split open with the sound of breaking glass. His chest cracked down the center like overfired stone. The blaze devoured.
+
+And yet, through the pain, one truth burned brighter than all the rest. He would kill her.
+
+No matter what the ritual made of him, be it monster, ash, or god, she would die screaming. Luther swore himself to the task.
+
+***
+
+Chloe was having the worst time trying to find this Luther guy. She’d yelled herself hoarse trying to bait him out, tossed a few insults just to be petty, even stomped around dramatically. But she didn't get even a single reaction.
+
+Still, Chloe knew he was nearby. She could feel it.
+
+He was here somewhere, being all mysterious. So, she gave it one more shot. “C’mon, I’m getting borrrrrred out here! Hurry up or I’ll come in and poke stuff!”
+
+No answer. Rude.
+
+She was about to try firing a Rock Shot to make an even louder noise, until all of a sudden, she felt a sudden surge of magic. A lot of magic.
+
+The feeling was sharp enough to raise every little hair on her arms. Then came the screams.
+
+Chloe turned her head towards the sound. Another scream followed, deeper this time, less man, more monster, and her grin sharpened. There we go.
+
+The tunnel ahead started pulsing, red and gold and way too hot. Heat slammed into her face, made her blink and hiss and pull her cloak tighter.
+
+She crept forward, and it felt hotter and hotter with every step. The walls had started to glow now, glowing like veins.
+
+Then the tunnel opened up, and Chloe skidded to a halt. Oohhh boy.
+
+There was something in the fire. Man-shaped… kinda.
+
+He was kneeling right in the middle of this huge burnt circle. Everything around him was absolutely screaming with heat. Flames coiled around his body, bright enough to make her squint, but through the blaze she caught glimpses of skin tearing apart, muscles snapping and splitting.
+
+Chloe tilted her head, curious. Was this Luther? Maybe? She’d heard he was just some magic guy. Not whatever this was. This thing looked way more like those fire elementals she defeated a while back, and even they didn’t look this cranky.
+
+“Alright, maybe-Luther,” Chloe called out with a cocky little wave, “bring it o—”
+
+Out of nowhere, something snapped through the air. A thick line of fire blasted past her cheek. It wasn’t like normal fire. It was clean, white, and super hot. The ground behind her exploded in sparks and smoke, and the wall behind her just melted.
+
+Chloe yelped and dove sideways. Whatever that spell was, it was bad news. She was not in the mood to get vaporized today.
+
+The maybe-Luther guy screamed again, louder this time. Chloe, still crouched behind a half melted rock, puffed out her cheeks and thought of a plan.
+
+After a very thorough strategic assessment, by which Chloe meant screaming internally for three whole seconds, she chose to fall back on a classic technique. A move so reliable, it had saved her undead butt more times than she’d ever admit out loud.
+
+Chloe turned around and ran as fast as she could. Nope nope nope!
+
+Note: This story has been pirated on other sites. Please know it’s free to read on Royalroad.com, where I officially post chapter updates.

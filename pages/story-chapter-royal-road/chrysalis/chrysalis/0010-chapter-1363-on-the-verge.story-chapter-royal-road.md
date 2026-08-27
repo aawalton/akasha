@@ -1,0 +1,121 @@
+---
+id: 3ede5013-e958-5bb7-be47-f5bdd14a7a73
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1363 - On the Verge"
+slug: 0010-chapter-1363-on-the-verge
+partOf: chrysalis
+position: 10
+ownLength: 1080
+unit: words
+ownProgress: 1080
+publishedAt: 2024-06-27
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1694574/chapter-1363-on-the-verge"
+royalRoadId: "1694574"
+markedReadAt: "2026-06-29T19:43:58.368Z"
+---
+
+To my surprise, it’s Brendant, a soldier of the Council, who leads this expedition. Soft-spoken and reserved, she isn’t usually one to put herself forward for an operation like this, preferring to work diligently in the background. Not that I’m unhappy to see her, she’s steady and reliable, as well as powerful, being a tier six ant with maxed evolutions.
+
+“Brendant, good to see you! Is this the whole force?”
+
+She comes down accompanied by what appears to be five thousand ants, along with a force of five hundred wuffers. We aren’t holding back on this one. Those five hundred pets represent an enormous sum of cores, but purifying the mana of the fifth is far too difficult without something custom-built for the job.
+
+“This is all of us. We aren’t meant to go too deep, or for too long. We’ve done a fair bit of testing to determine the potency of the mana and whether it's possible to survive down there, but we haven’t done any exploring. That’s what this expedition is for. Do some preliminary mapping and get some data back to the generals about the environment and the effectiveness of our countermeasures.”
+
+“Hey, Brendant, why are you talking to me as if I don’t know what we’re here for? I know exactly what the mission is about.”
+
+The smaller ant shifts a little on her six legs.
+
+“It doesn’t hurt to have a reminder before the beginning of a mission, Eldest.”
+
+“I’m not going to fly off the handle and invite some sort of invasion by insane slugs! I can be cool. Everything is going to be fine.”
+
+“As you say, Eldest.”
+
+Gah! There’s never any trust.
+
+“How long until we depart?” I ask.
+
+“Give us an hour or two for final prep and we should be ready to go.”
+
+“Fantastic. I’ll leave that to you, I’m going to dip my toe into the fifth and see what it’s like in there.”
+
+I can tell Brendant wants to say something, but she refrains, merely giving me a nod and turning back to her business.
+
+[Come on, guys. I want to check out the fifth. Let’s see what it’s like!]
+
+[Master, I really don’t think…]
+
+[Fight!]
+
+[Yessssss, letssssssss.]
+
+[Sorry Crinis, you’re outvoted.]
+
+Led by myself, we rush over to the entrance and find two other ants peering down at the well.
+
+“Propellant, Coolant. I didn’t expect to see you two down here already.”
+
+The two mages remain side by side, though the air swirls violently between them as the two extreme temperatures they produce clash.
+
+“We’ve come to do some testing regarding the mana,” Coolant informs me.
+
+“They wouldn’t let us go down there with you. Too much risk,” Propellant snaps her mandibles in irritation.
+
+“It’s a sensible precaution,” Coolant tells her sister.
+
+“It’s weak! We’re the strongest mages in the Colony, we should be down there!” Propellant bites back.
+
+I keep to myself that I’d rather have Brilliant on her own than the two of them. That little mad scientist is an expert at sniffing out answers to difficult questions, but risking her on our first trip would be absolute madness.
+
+“I agree, there’s no reason for you to go down this soon,” I tell them. “Be a little patient, there’ll be a million of us down there before too long, you included.”
+
+It’ll take at least that many to establish any real foothold, considering the odds we’re up against.
+
+“Well, I’m going to poke my nose in, see what the fuss is about,” I declare, only for the two mages to immediately question me.
+
+“What? Why?” Coolant demands.
+
+“You know what that mana will do to you?” Propellant bursts out.
+
+“I’ve been exposed to the mana of the fifth before, don’t worry about it.”
+
+“It’s not quite the same, Eldest,” Coolant insists, “this is the original item, not a reproduction produced by a monster. You’ll find exposure to it will be… uncomfortable.”
+
+Uncomfortable? I don’t have a problem with being uncomfortable. I’ve got the Call! I’m constantly uncomfortable! Although, right now, as I’m on the verge of descending to another stratum, I’m in less pain from it than I’ve felt in ages. In fact, I’m almost free of pain! It’s such a wondrous, heady feeling, I honestly don’t care what the mana feels like.
+
+“It’ll be fine, I’ll be down there for just a few seconds. A minute, tops.”
+
+[I’ll go first guys, you wait for me up here. Be ready with the healing magic, Invidia. I’ll be counting on you.]
+
+[Yesssssss. Count on me moressssssss.]
+
+[Uh… okay? I will?]
+
+His eye gleams with happiness and warmth.
+
+[Goooodssss,] he hisses.
+
+And over I go. The passage down is pretty much vertical, so I grip on for dear life and head face first towards the bubbling goop that separates this layer from the next. On the way down, I remember an important point.
+
+“Uh, Protectant and friends. By no means are you to go down there with me. There’s absolutely no way you’ll survive the exposure without support.”
+
+“And what makes you think you will?” Protectant mutters from somewhere close to my antennae.
+
+“Because I’m a heck of a lot larger and stronger than you lot? If I take damage, Invidia can heal me. If all of you take damage, there won’t be enough healing to go around. You just have to wait this one out.”
+
+They aren’t happy about it, but for once, I’m actually right. The twenty bodyguards remain at the halfway mark of the tunnel as I continue to descend.
+
+Quickly, I arrive at the barrier, my antennae almost brushing against the surface. Holy moly. From here it really does look like a complete mess, a thick soup of sludge and poison that writhes as if alive.
+
+To my mana sense, the tunnel before me may as well be filled with radioactive waste. The energy just doesn’t feel right, as if it's tainted, damaging, even to other forms of mana. Now that I’ve come this far, I’m not going to hold myself back. I’ll be heading down here with thousands of my siblings soon enough. As if I’d ever do that without checking its safety for myself first.
+
+Unwilling to waste more time, I decisively poke an antenna straight into the muck.
+
+Hmmmm.
+
+Hmmmmmmm.
+
+Yep. Just as I thought. It burns like I stuck it straight into acid. That’s not enough to tell me anything, I need to go all the way in.
+
+Onward!

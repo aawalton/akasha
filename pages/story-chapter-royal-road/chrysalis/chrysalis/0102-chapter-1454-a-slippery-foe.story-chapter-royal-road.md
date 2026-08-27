@@ -1,0 +1,71 @@
+---
+id: d5328efd-01e2-5cb5-b09d-1b565a214f66
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1454 - A Slippery Foe"
+slug: 0102-chapter-1454-a-slippery-foe
+partOf: chrysalis
+position: 102
+ownLength: 1048
+unit: words
+ownProgress: 1048
+publishedAt: 2024-11-15
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1904131/chapter-1454-a-slippery-foe"
+royalRoadId: "1904131"
+markedReadAt: "2026-06-29T19:47:20.618Z"
+---
+
+The ball of mana is incredibly dense, and from this close, I can see the dark green energy twisting and spitting virulently. This venom mana is unlike anything I’ve seen before. Not quite like acid, not quite like the toxic poison of the fifth, it’s almost a blend of the two. I’ve no doubt that, should it touch me, it would begin to eat through my carapace and body like an acid, and spread throughout my carapace like the fifth’s toxic mana.
+
+Nasty stuff.
+
+Of course, I was more than ready for this eventuality! You aren’t taking me out by launching a surprise, short-range bomb! You can’t quote me the deep lore when I wrote it!
+
+Shields snap into place, as dense and thick as I can make them, but of course they aren’t going to accomplish much. As expected, the bomb smashes straight through the shields, losing only a fraction of its momentum, but that’s fine, I had the mana ready, so it didn’t hurt to use it.
+
+Of course, the best way to fight the spell launched in my face is to match it with another bomb, but from this close, that would be as good as sticking my head into a black hole. Unhealthy.
+
+Alternate methods must be employed and the best method of all is to get the heck out of the way!
+
+There is just enough energy inside the Altar to empower my dash, and I spring to the side with, quite literally, blinding speed. My vision blurs as I move so quickly that I basically teleport, my antennae slapping back onto my carapace almost painfully.
+
+The sizzling ball of venom mana sears past me in my wake, and I laugh heartily within my heart. Did you really think I wasn’t ready? Gweheheheh! Now you will experience your doom, slug-snake!
+
+However, I seem to have misjudged the distance when I engaged my dash… by rather a lot.
+
+SMASH!
+
+I plough headfirst into the wall, sending shards of rock flying everywhere and burying myself in stone.
+
+Dammit!
+
+This is hardly dignified! I bring up my six legs and try to yank myself out, but it isn’t easy. I really managed to bury myself rather deep. Behind me, I feel the venom bomb detonate, sending globs of mana flying all throughout the area. Stuck as I am, all I can do is throw up more shields and conjure stone, shaping it to cover my business district so it doesn't experience a hostile takeover.
+
+My brains spin, and I quickly realise that manipulating the stone behind me isn’t the only option I have… there is stone in front of me as well. I flex my minds along with my mandibles and begin ripping into the rock, plunging myself into a state of ant zen as I chew my way deeper, keen to escape the venom that is melting through everything behind me as well.
+
+This is the risk of the bomb strategy. Great power, poor target selection. Pressed down by the well, the snake-ish slug wouldn’t have been able to escape its own bomb and is doubtlessly suffering the effects.
+
+Working my jaws, I throw myself into the task of ripping a path through the rock, bending my way around to connect to the main chamber. It only takes me a minute to break through, and I emerge back into the light to find the scene is much changed from before I left.
+
+Everything is coated in a thin layer of the venom mana and it sits, sizzling away, menacingly, on the surface of the stone. I look at it, a little puzzled, then realisation strikes me. This isn’t acid, this is venom. I’m sure it’s incredibly potent at eating through biological tissue, but stone? Not so much.
+
+Interesting.
+
+The other thing that strikes me is that the slug-snake somehow has managed to leave. I can sense it now, slithering, faster than I would have expected, disappearing deeper into the stratum with its tail between its metaphorical legs.
+
+Running away? You coward! How in the heck did you even manage to get away?
+
+I check the well above my head, and while it's definitely weakening, it's still very much in effect. This is a potent well with the full force of the Altar behind it. Not to toot my own horn or anything, but it’s mighty! There’s no way this damn slug should have been able to get out of here.
+
+Then I see it. The venom is still eating away at it, but I can see enough to determine what might have happened here. There’s a large amount of slug flesh and slime piled up where the snake was pinned, although it’s rapidly vanishing as the venom slips through the slime and gets hold of the flesh.
+
+The lousy monster sloughed off part of its own body to escape the well and slither away while I had my head stuck in the wall!
+
+It never would have been able to do it if I’d been watching the whole time, but I managed to bury my own head in the wall, giving it the opportunity to get out!
+
+This trick can’t have gotten the monster far, but it was apparently far enough to escape the area I’d defined to be under the effect of the well, which wasn’t much, being honest. I’d kept it narrow in focus to concentrate its power, so even a little bit of distance would have been enough to get some of its body out of the effect.
+
+This is humiliating. More than a little humiliating, in fact. I could chase after it, even though it’s moving fast. The monster has to have been significantly weakened, it looks like it left about forty percent of its mass here, but running blindly into the fifth, getting further and further away from the support of my family….
+
+It’s not a smart idea.
+
+For now, my best bet is to retreat, regroup with the family and let them know what happened. Hopefully, Solant will be able to figure out what to do next. Maybe, with the monster chased away, that’s all we really need? So long as it doesn’t come back, we can expand down here and start construction… so I guess that’s a win?

@@ -1,0 +1,81 @@
+---
+id: 361264a7-2ef6-5b67-bc9e-1a96f7242044
+page-type-slug: story-chapter-royal-road
+title: "147: The Sun Scorpion"
+slug: 0147-147-the-sun-scorpion
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 147
+ownLength: 2010
+unit: words
+publishedAt: 2026-05-04
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3353895/147-the-sun-scorpion"
+royalRoadId: "3353895"
+---
+
+The first thing Chloe thought when she saw all the sun imagery was whether this had anything to do with Sol, because, well… sun and Sol felt like a pretty obvious connection. She lingered on that idea for a moment, trying to recall if there was anything important tied to it, but nothing came to mind. As far as she remembered, this place wasn’t linked to anything major or suspicious, just a standalone boss room with its own thing going on, so she eventually shrugged it off.
+
+What did catch her attention, though, was the carving on the door. Instead of the monkey from before, the figure beneath the sun was a massive scorpion. Its body was wide and armored, its claws thick and heavy, and its long tail curved high above it with a menacing looking stinger.
+
+The doors rumbled as they slowly opened, the sound of grinding stone echoing around her, and the moment Chloe crossed the threshold, a rush of hot, dry air blasted outward, carrying sand with it that flew straight into her face. She flinched slightly and raised a hand to shield her eyes, pushing through the gust as she stepped into the boss room anyway. She had to do this.
+
+The sand didn’t let up once she stepped inside, and after about three steps of her boots sinking slightly and grit getting everywhere it absolutely shouldn’t be, Chloe decided she was already done with that. Yeah, no.
+
+She manifested her wings and flew up, feeling much better. As she moved deeper in, the doors slammed shut behind her with a heavy, echoing thud, sealing her inside, but Chloe barely spared it a glance because the area itself was… surprisingly nice.
+
+It looked like a desert, but not the empty, boring kind. The ground was filled with golden sand broken up by patches of rock and clusters of stubborn desert plants, from tough little shrubs to thin, spiky growths that somehow managed to survive in the heat. Scattered across the area were large, ruined stone pillars, some still standing tall while others had collapsed partially, looking chipped and weathered like they had been sitting there for a very long time.
+
+At the center of the pillars stood a massive stone scorpion, about as big as the giant monkey Chloe had fought before. Chloe slowed in the air as she looked it over.
+
+Right on cue, the statue cracked. A sharp sound echoed through the arena as fractures spread across its surface, and chunks of stone began to fall away. Pieces of the stone shell slammed into the sand, kicking up dust, and as the outer shell broke apart, the massive scorpion emerged.
+
+It had a white carapace with thin lines of gold tracing along its segments and joints, giving its entire body an almost regal shine. Its claws reflected the light as they opened slightly, while its legs pressed firmly into the sand.
+
+Its tail rose last, long and curved, each segment layered neatly as white and gold shimmered together, ending in a sharp stinger that pulsed faintly with energy. The last pieces of stone fell away in heavy chunks, and the moment it was fully free, the scorpion made its move.
+
+The first attack the big scorpion made was snapping its tail forward as a beam of concentrated light tore through the air straight at her like a laser. Chloe twisted midair just in time, the blast missing her by inches before it hit one of the ruined pillars behind her and carving straight through it, the structure disintegrating in a spray of debris. She barely reacted beyond a slight widening of her eyes, more impressed than anything. Seemed like both the Sun Boss and the Moon Boss like their lasers.
+
+She kicked off the air and angled toward one of the taller pillars, tapping against it with her foot before launching off again at a sharp angle, using the momentum to sling herself across the air as the scorpion tracked her movement. Its tail adjusted, lining up another shot before firing again, but this time Chloe dipped lower, skimming just above the sand as the beam passed overhead.
+
+Without even looking, she flicked her hand back and fired a quick lightning blast that struck the scorpion’s side with a sharp crack, sparks scattering across its white-and-gold carapace, though it barely reacted as the energy dispersed across its surface. Chloe glanced back mid-flight, squinting as she had to accept that her zaps really weren’t doing much.
+
+She twisted again and fired off an ice blast, a sharp shard of freezing energy slamming into one of the scorpion’s legs as frost quickly spread over its joints. For a moment, the result of the attack actually looked promising as that leg slowed just enough to catch her attention, but the effect didn’t last. The scorpion flexed, and the frost cracked and shattered almost instantly, breaking apart as if it barely mattered, and just like that, Chloe could tell ice wasn’t going to cut it here.
+
+The scorpion then slammed its claws into the ground with force as the sand around it rippled violently Chloe slowed slightly in the air, watching as some vaguely humanoid creatures began to rise, clawing their way up from beneath the surface. They were bipedal, but they looked more like someone had taken a scorpion and forced it to stand upright without fixing anything else.
+
+Their bodies were built like a mix of humanoid and insect, with a plated torso made of rough white chitin streaked with dull gold lines. Their upper bodies were bulky and slightly hunched forward, with narrow, segmented waists that connected to thick, insect-like hips, giving them a weird, off-balance silhouette.
+
+Their arms of course ended in sharp pincers that clicked and scraped as they moved. Their heads were small compared to their bodies, tucked slightly forward with no real face, just a hard, smooth plate with faint glowing slits where eyes should have been. And behind them, their tails curled and twitched constantly, shorter than the main scorpion’s but still long enough to be a problem, each one made of tight, overlapping segments that ended in a sharp, needle-like stinger.
+
+Chloe remembered these guys, these were the Scorpiods. Basically, they were the minions of the big scorpion who were really meant to be more annoying than actual threats, but there were quite a lot of them.
+
+One of the scorpiods launched at her, its claw snapping shut just an inch behind her as Chloe twisted midair with easy control, already a step ahead as she planted her foot right on its shoulder. She pushed off instantly, using it for momentum instead of avoiding it, and shot toward a nearby pillar, tapping it with her foot before kicking off again in a sharp burst that sent her streaking past two more incoming attacks without even slowing down.
+
+Another laser from the big scorpion cut through the air, and Chloe dipped under it smoothly, rolling midair, then flicked her hand downward in one clean motion. A quick lightning blast snapped out and clipped one of the scorpiods, knocking it off balance just enough for her to follow up with a small ice shot that froze part of its arm, slowing its next swing so she could slip right past it. She wasn’t trying to end anything yet, not really, just moving and testing everything as she went. There had to be some kind of trick to beating the big guy and all the smaller guys.
+
+The big scorpion kept spamming those tail lasers like no tomorrow, while the smaller ones crowded her up close, snapping and lunging like they were trying really hard to box her. Chloe just leaned into the chaos, kicking off another pillar and launching herself high into the air in one smooth burst, barely even looking as another beam sliced across the ground beneath her and sent sand exploding everywhere.
+
+Mid-spin, she fired another lightning blast, then followed it up with a sharper ice blast aimed at one of the scorpion’s front legs, watching more carefully this time as frost spread over the joint and slowed it just a little. That was when it clicked.
+
+The way the big scorpion's claws moved looked like it was guarding something. Chloe focused onto the main body as she circled around it. The scorpion always made sure to keep its head tucked behind those massive claws, and every time she got even close to a clean angle, the claws shifted right into place, blocking it perfectly.
+
+In hindsight, it probably should've been obvious that the head would be the weak point of the big scorpion. But to be fair to Chloe, she remembered there were plenty of games that made the stinger of scorpion the weak point.
+
+Unfortunately, right as Chloe started putting that plan together, the scorpion decided to switch things up. Its tail dipped slightly, its head angled forward, and then it spat what had to be one of the weirdest looking substances Chloe had seen in a long time.
+
+A thick, glowing mass of burning liquid shot toward her, arcing through the air in a way that was very clearly not safe. It hit the ground a second later with a wet, splattering impact, and everything immediately got worse.
+
+The liquid spread out in a sizzling wave, flames bursting across the sand as it clung and crawled, burning hot and stubborn, not fading like normal fire but sticking and bubbling as it slowly spread like molten tar.
+
+Chloe paused for a split second as she watched the fire spread, because that looked… familiar. The way the burning liquid clung to the ground instead of fading, the way it bubbled and spread, sticking to everything like it really didn’t want to let go.
+
+Back in history class, there had been that whole section about something like this, something designed to stick and burn hotter and longer, something you really, really didn’t want near you: napalm. Anyway, she has never heard of good things happening to people that get hit by that stuff, so Chloe was definitely going to dodge it at all costs.
+
+The scorpion fired another glob at her, then another, each one placed more carefully, forcing Chloe to weave and dodge while avoiding the now very not safe ground. A scorpiod tried to jump her mid-move, but she knocked it aside with a quick punch and kept going, as she really needed cover.
+
+Chloe shot to a nearby pillar, dropping low and sliding behind it just as another wave of burning scorpion goop slammed into the spot she’d just left. The impact hissed loudly, flames licking at the base of the pillar but stopping just short of her. She'll need to figure something out to deal with this hot mess.
+
+The problem with the scorpion was that it's armor was really strong, and Chloe wasn't sure if she could crack it by brute force. Well, except maybe if she used her Divine Blast, but that attack would need some time to really charge up, and the way the scorpion and the scorpios were attacking, that would be kinda hard.
+
+And the old ice trick she tried with the monkey didn't seem that viable here either. Since the scorpion seemed to be able to shrug that off, and Chloe had no doubt that fire wouldn't be useful at all considering the big scorpion was all about fire.
+
+Then again, she still had her Wraith Form, and if the scorpion’s head was even a little more fragile than the rest of its body, then maybe all she needed was one clean opening to make it count. If she could get in close, slip right past its defenses, and dump everything she had straight into that weak point, it might actually work. She could try to phase through any threats while in Wraith Form, charge up her attack at the same time, then pop out exactly where it would hurt most and unload everything in one go.

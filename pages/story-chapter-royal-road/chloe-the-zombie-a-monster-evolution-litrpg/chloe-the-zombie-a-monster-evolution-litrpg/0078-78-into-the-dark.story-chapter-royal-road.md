@@ -1,0 +1,231 @@
+---
+id: 90b0a795-c23b-55b4-a444-ede8d7b68b6c
+page-type-slug: story-chapter-royal-road
+title: "78: Into the Dark"
+slug: 0078-78-into-the-dark
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 78
+ownLength: 2292
+unit: words
+publishedAt: 2025-11-30
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2806079/78-into-the-dark"
+royalRoadId: "2806079"
+---
+
+Chloe clapped her hands once. “Okay! Tagging in!”
+
+The ground beneath Scar gave a deep, rumbling groan. A second later, cracks tore across the floor. Thick arms of rock burst upward, grasping for his legs with a violent snap.
+
+But Scar was faster than he looked. He let out a low growl, twisting his body just as the first stone hand lunged. With one powerful push, he vaulted sideways to dodge the grasping hands.
+
+He landed hard, one foot then the other, the muscles in his shoulders flexing as he straightened. His gaze lifted immediately, and locked right onto Chloe.
+
+Uh oh. That’s not a friendly look.
+
+“Your turn, huh?” Scar said.
+
+“Yup!” Chloe chirped, trying not to sound nervous. Then she disappeared.
+
+Her body shimmered before fading completely, vanishing into thin air until only a faint ripple lingered in the air where she’d stood. Scar’s brow furrowed as he turned in a slow circle. He sniffed the air once as he tried to locate her.
+
+Chloe couldn’t help but smirk from where she now stood, unseen and silent. She walked around, savoring how confused he looked.
+
+She darted behind him, already gathering flames into her fist. Alright, Scar. Time to see how you like my kind of surprise.
+
+Just then Sabine blasted another bolt of lightning across the room. The strike caught Scar in the chest and knocked him right into Chloe’s range.
+
+She reappeared mid-swing, flames blooming across her fist. “Gotcha!”
+
+Chloe’s fiery punch came down fast, aimed squarely at the back of Scar’s big metal head. She could already feel the heat roaring in her knuckles, ready to explode. But at the last second, Scar twisted with a speed that didn’t match his size.
+
+His hand shot up and caught her wrist mid-swing. The flames burst against his palm, and though the blast rippled through his body hard enough to make him stagger. He just stood there, grinning at her like this was all some kind of game.
+
+Chloe stared at him, her mouth half open. Wait, what? He actually caught that?
+
+She wasn’t exactly weak, but Scar had snatched it so easily. It was kind of impressive. And also kind of rude.
+
+Before he could launch her across the room again, a sharp crack split the air. Sabine’s lightning shot in like a whip, slamming into Scar’s side with a sizzling snap. His whole body jolted as the current ran through him, forcing him to release Chloe.
+
+She slipped from his grip and landed lightly as she blinked up at Scar. The Ironjaw Boss stumbled back a few steps, smoke rising from one shoulder. Then, to everyone’s surprise, he raised both hands in the air with exaggerated slowness.
+
+“Alright, alright! Time out!” he barked, voice still half-laughing.
+
+Chloe's brows pulled together. “Wait, what?”
+
+Sabine still looked super concerned. Lightning crackled around her hand, still primed and humming with magic. “What are you up to now?”
+
+Scar just rolled his shoulders, then he stretched his neck with a slow tilt. “I’ve had my fun, but if this keeps going, things are gonna get real messy. And I hate messy.”
+
+“You’re not mad? I mean, we beat up all your guys. And also, you,” Chloe said, giving Scar a confused look.
+
+“I’m annoyed, sure. But they ain’t exactly special, are they? Just muscle. Easy enough to replace. And me? I’m still standin’, ain’t I?”
+
+Chloe gave him a slow once-over. It was true. Despite going a few rounds with both her and Sabine, Scar didn’t look too worse for wear. His fur was singed in a few spots and there were some marks from Sabine’s lightning, but they seemed to be fading already. Either he healed fast, or he just didn’t care.
+
+Sabine still had her hand raised, lightning flickering between her fingers. “If you’re really that unconcerned, then you won’t mind helping us with something.”
+
+“Depends on what it is.” Scar said.
+
+“We want the entrance to the dungeon beneath the city opened."
+
+“That’s what this is all about? What for? You treasure hunters or somethin’?”
+
+“It’s none of your business.”
+
+“Then maybe I don’t feel like openin’ it.”
+
+"So you can open it?"
+
+"Yea, but I ain't doing it for you two."
+
+Sabine took a step forward, lightning sparking louder now. “Then you’re useless to us.”
+
+Scar didn’t flinch. “If you really think you can kill me, go ahead and try. But who else is gonna open the entrance to that dungeon for you, huh?”
+
+“What do you want?”
+
+“You two wanna poke around that dungeon under the city, yeah? Well, turns out the Black Maw’s been at it long before you showed up. They've been creepin' into my turf, settin’ up camp where they don’t belong, diggin’ through things they shouldn’t touch.”
+
+He jabbed a clawed thumb toward the floor, his tone turning sharper. “They’re makin’ a mess down there, and I don’t like it. So here’s the deal. I'll open the way to the dungeon. But while we’re down there, you’re helpin’ me clean house first. After that, you're free to do whatever."
+
+Chloe glanced sideways at Sabine, then leaned in with a whisper. “Hey, uh… aren’t those Black Maw guys gonna be, like, really mad if we mess with them?”
+
+“They’re not going to be very kind,” Sabine said flatly.
+
+“And we’ll be hunted down by another creepy gang?”
+
+“Most likely.”
+
+“And you’re fine with that?”
+
+“Might as well go all the way.”
+
+Chloe looked back at Scar, then back to Sabine. “Wait, can’t we just beat him up and make him open the dungeon?”
+
+Sabine shook her head. “He’s capable enough to make that more trouble than it’s worth.”
+
+“But what if he just sits back and watches while we do all the fighting?”
+
+Before Sabine could respond, Scar raised a brow. “Y’know I can hear you, right?”
+
+“I didn’t say anything.” Chloe said.
+
+“Don’t worry, sweetheart. I’ll pitch in. Got my own score to settle with those Black Maw rats.”
+
+Sabine folded her arms. “So, if we agree to help you deal with them, you’ll open the dungeon for us?”
+
+“Sure thing,” Scar said with a toothy grin. “But don’t get any bright ideas, or I’ll make sure you'll regret it."
+
+***
+
+After a lot of walking, they reached the old tannery again. Same gross walls, same sad roof, same weird stains here and there.
+
+Scar stepped up to the moss-covered wall and slapped a hand against it. “Y’wanna know why none of you outsiders can get this thing open?”
+
+“What’s the secret?” Chloe asked.
+
+“It’s ‘cause this place wasn’t built for outsiders. Back when it was first made, this dungeon was a training ground. Meant for beastkin to learn how to master their primal forms. Only those who’ve done that can open the gate.”
+
+Chloe blinked at him, then glanced at Sabine. Oh. Maybe that’s why Sabine didn’t feel like fighting him too hard earlier. Makes a bit more sense now.
+
+Scar closed his eyes and pressed his palm harder against the wall. Then, a faint red glow pulsed beneath the stone, tracing shiny letters and images that hadn’t been visible a moment ago.
+
+The moss shriveled and peeled away, and the stone shuddered like it was exhaling after a long nap. Soon, the wall split down the middle and opened inward.
+
+Chloe leaned forward, eyes wide. Oooooh, creepy door magic.
+
+Together, the three of them stepped into the dungeon. Moss and vines clung to the walls like they’d been waiting a long time for someone to visit. Cracks split the tiled floor, and twisted roots poked out everywhere.
+
+As they moved deeper inside, Sabine conjured a string of glowing orbs with a wave of her hand. Chloe hung near the back, letting her fingers trail along the damp wall as she wandered.
+
+Soon, her gaze landed on a broken barrel sagging in the corner. She gave it a casual nudge with her foot. It didn’t do anything interesting, just let out a sad creak and slumped further into itself.
+
+Further along, an overturned crate had become a miniature mushroom garden. Chloe crouched beside it, tilting her head at the odd clump of fungi sprouting from the cracks. The mushrooms were puffy and pale, with faint blue speckles on their caps, and they gave off a gentle glow like they were trying really hard to be noticed.
+
+She reached out and poked one with a finger. It jiggled. “Hey, do you think these will taste good?"
+
+Sabine didn’t even glance back. “Do not eat anything that glows.”
+
+Chloe pouted and pulled her hand away. “Aww, but what if they're tasty?"
+
+“Chloe. Move.”
+
+With a small eye roll, Chloe followed after Sabine. Scar led the way a few paces ahead. “The deeper we go, the worse it gets. Black Maw’s been squatting in these tunnels for a while now… but they’re not the only problem.”
+
+That made Chloe glance up. “Oh? More baddies?”
+
+“Yeah. There's a beastkin that prowls these halls. Most folks down here call ’em the Ripper.”
+
+“The Ripper? Okay, that’s definitely a cool name. What’s their whole deal?”
+
+“Seriously? You don't think it's obvious?"
+
+“What?”
+
+Scar huffed, clearly unimpressed. “The Ripper’s a mean one. Shows up when you're not lookin’. Always leaves a mess wherever they go.”
+
+That made Chloe wrinkle her nose. “Okay, but what do they look like? You can’t just drop a scary name and not give me the details.”
+
+“Beastkin, covered head to toe in black. Always cloaked, never talks. Looks like they walked outta the Black Maw’s wardrobe, but they ain’t with ’em.”
+
+“Wait, seriously? Not with the Black Maw, but looks exactly like them? You sure it’s not just one of their guys but more murdery?”
+
+“If it was one o’ mine, I’d already have a leash on ’em. But nah, they hit everyone. Black Maw, Ironfang, scavengers, random adventurers. Doesn’t matter. Something ain’t right about ‘em.”
+
+After that, Sabine and Scar walked ahead, all serious. Chloe tagged along behind them, not really bothered by whatever tension was going on.
+
+Honestly, she wasn’t even paying that much attention. There were way more interesting things going on, like a rock shaped like a potato, and a weird patch of moss that looked like a lizard face if you squinted hard enough.
+
+Soon, they rounded a bend, and Scar stopped. “Looks like we’ve got ourselves a welcome party.”
+
+Chloe looked past him. And she immediately made a face.
+
+The chamber ahead had partially collapsed, and the floor was littered with bones. A lot of bones. Long, cracked, and yellowed, still wrapped in scraps of rusted armor or clutching what was left of their weapons.
+
+Then, some of the bones twitched. A faint rattle echoed through the air, and one skull rolled into place with a soft click.
+
+Chloe tensed as a skull rolled into place, locking eyes with Chloe. Well, not eyes, but the creepy green glow burning in the sockets sure felt like a stare.
+
+The bones clattered louder, reassembling into tall, beastkin shaped skeletons. They stood taller than her, some bulkier than Scar even.
+
+Chloe groaned. “Ugh. Skeletons? Really? So lame.”
+
+Scar glanced over his shoulder with an amused snort. “You got some kind of beef with bones?”
+
+“I just think skeletons are dumb and lame, and uh, not cool at all!”
+
+“Focus,” Sabine snapped, stepping forward. "We should take down these skeletons fast.”
+
+The first skeleton lunged, sword raised high. Sabine dropped low, her hand flashing out as a burst of lightning exploded from her palm. The bolt tore through the skeleton’s ribcage with a sharp crack, scattering bone fragments and sparks across the floor. The thing staggered back, but didn’t fall.
+
+Scar roared and barreled into another one shoulder first. The impact sent a spray of ribs and armor bits flying across the chamber. Before Chloe could even cheer, a third skeleton swung at her.
+
+She ducked under the swing, spun around, and kicked it in the spine. The bones clattered apart, but the skeleton twitched, reassembling as if nothing had happened.
+
+“Oh, come on! These guys are way beefier than the skeletons in my dungeon!” Chloe yelled, snapping her fingers to conjure a quick burst of flame and threw it at one of the beastkin skellies. Fire roared over the bones, but still, the undead just kept moving.
+
+“They’re reinforced with some kind of strange magic,” Sabine called out between strikes, her lightning sparking off another skull. “It’s concentrated in their heads, so crush the skulls, or they’ll keep coming!”
+
+“Kay, it's skull smashing time!” Chloe said.
+
+One skeleton lunged at her with an axe. She ducked low, then slammed her hand to the ground. A spike of stone erupted upward, punching through the skeleton’s jaw and blasting its skull into smaller shards. The body shuddered once and collapsed into a pile of useless bones.
+
+Chloe grinned, brushing dust off Cloaky. Okay. That’s better.
+
+The room turned into chaos. Bones shattered, lightning flashed, and the air filled with the sound of cracking joints. Scar tore through enemies with brute strength, grabbing one skeleton by the arm and smashing it so hard against the wall that the skull bounced off and rolled away. Sabine kept zapping all of the skeletons too, blowing up their skulls with lightning.
+
+Chloe zipped around the edges, crushing skulls with her bare hands. One particularly stubborn skeleton kept getting back up, until she finally punted its skull halfway across the room.
+
+“I said stay down!” she shouted.
+
+By the time it was over, the chamber was a wreck. Crushed bones littered the ground.
+
+[You have killed: Beastkin Husk (Level 24)]
+
+[You have killed: Beastkin Husk (Level 24)]
+
+[...]
+
+[You have killed: Beastkin Husk (Level 27)]
+
+[Experience Awarded]

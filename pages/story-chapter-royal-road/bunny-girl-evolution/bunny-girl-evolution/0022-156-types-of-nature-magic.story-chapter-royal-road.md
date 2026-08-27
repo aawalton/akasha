@@ -1,0 +1,120 @@
+---
+id: 6eebc2ad-6722-5ab1-99bf-e1f7c4b02c69
+page-type-slug: story-chapter-royal-road
+title: "156 - Types of Nature Magic"
+partOf: bunny-girl-evolution
+position: 22
+ownLength: 3264
+unit: words
+ownProgress: 3264
+publishedAt: 2025-12-20
+link: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/2864139/156-types-of-nature-magic"
+royalRoadId: "2864139"
+markedReadAt: "2026-06-29T20:03:22.387Z"
+---
+
+Elise was a bit doubtful about Sucri’s words at first, but only a few seconds into Shawn and Sara’s demonstration, she felt she did indeed have her eyes opened. Since it was for the Fighting with Nature club, the demonstration was, of course, a fight. It was an obviously choreographed fight that the two had practiced quite a bit, but it still looked impressive.
+
+Sara’s Class was Myriad Vinecaller, and as the name indicated, she did indeed call myriad vines. The demonstration was generally confined to the pit in the center, but that didn’t seem to be much of a limitation on her at all. She conjured vines of all sizes, from as thin as thread to as thick as a tree trunk. They whipped through the air so fast it was difficult to keep track of even one, let alone the dozens that flailed around, reaching for their target.
+
+Shawn, on the other hand, was a melee fighter. From his slender frame, and even his Class, Nature’s Champion, Elise would never have expected it, but she had to admit that he looked impressive. When the demonstration began, wooden roots and vines grew from beneath his clothes until they covered his entire body in thick armor. At the end of each of his arms, he grew long wooden blades made of some kind of wood that Elise didn’t recognize, but was pure black with thin red grain between layers.
+
+The way he fought reminded Elise a bit of the drow, Naomi. While he mostly used his blades to slash at Sara’s vines, his limbs seemed to extend freely, making him taller or shorter as needed, extending his reach, and sometimes even detaching or reattaching when they got caught by Sara’s vines.
+
+The demonstration lasted a total of five minutes, and it seemed that the two of them had planned out a whole arc full of twists and turns, where one would be put at a disadvantage, then pull out some new trick to escape. Shawn was captured by Sara’s vines, but ejected himself upward out of his armor, forming new armor midair as the set he shed was crushed. Later, he sliced through dozens of vines to get to Sara, stabbing at her heart, only for her to be pulled to safety by vines that were almost invisibly thin.
+
+Not long after that, Shawn sprouted a second pair of arms from his back, cutting through Sara’s attacks even faster then before, but when it looked like he was about to reach her, she threw out what looked like a woven vine net. He sliced through it easily, but the pieces didn’t stop, and the moment they hit his armor, they put roots down, and began visibly draining it of mana. Pieces of the armor quickly wilted and rotted, falling off and showing Shawn’s clothes and skin underneath.
+
+The vines grew rapidly, threatening to start burrowing into his skin while Sara commanded her larger vines to surround him, but Shawn unleashed a Skill that sent a wave of mana outward. The vines on his body were sent flying, and the vines reaching for him were stopped in their tracks as his armor rapidly repaired itself, and even seemed to grow stronger. It looked like whatever he used doubled as a boosting Skill, because the next moment, he was right back on the offensive.
+
+The battle went back and forth like this a few times, with Sara and Shawn pulling out new Nature-related Skills one after another to counter each other. Elise doubted they were showing everything they had, but it was more than enough to be impressive. When they finished and bowed to the audience, the entire room erupted into loud applause.
+
+Elise clapped along with the rest, but her mind was racing. She had been so obsessively focused on her aether abilities for the past few months, that she had more or less neglected mana, and only now did she realize how much she was missing out on. Sure, she had gotten {Nature Mana Manipulation} to the level cap, and she was working toward being able to craft {Mana Manipulation} using the new Skill Recipes, but they were still more of background projects for her. She had never truly delved into it like Shawn and Sara so obviously had.
+
+She was still lost in thought as the room started splitting up, absentmindedly following Sophie toward where the other newbies were as she continued to think. Her focus on aether made her neglect mana, and now that she had been made so keenly aware of that, she wanted to incorporate mana into her path more closely. At the same time, she still very much wanted to dive deeper into aether. Of course, she could always just do both, but now, she had to decide what the balance of each would be.
+
+She came up with a few vague ideas, but didn’t have time to get anything concrete before her attention was forced away by the club activities. She and Sophie were standing alongside the elf and the other two newbies that Sucri had recruited. The elf’s name was Telvir, and the two others were a male Ainar named Lauri, and a female Saurin—a lizard person—named Agatha.
+
+“I’m glad that you all have decided to join us today,” said Shawn once everyone had settled in.
+
+He was sweating lightly from the exhibition, but his face was more animated than it had been before, and it was clear that he had enjoyed himself.
+
+“Just a quick question before I begin,” he continued. “Have any of you actually fought with nature magic before?”
+
+Elise glanced at the other newbies as she tentatively raised her hand. The only other person who raised their hand was Telvir.
+
+“I see,” said Shawn. “Would you mind sharing your experiences?”
+
+Elise looked to the elf, who briefly glanced at her from the corner of his eye. His expression remained unchanged, as he looked back to Shawn. While his face was neutral, Elise sensed a healthy dose of disdain from him. He had been passively exuding it the whole time, but it had increased ever so slightly when he looked at Elise, and that made her a bit angry.
+
+“My path will take me adjacent to your own,” Telvir said to Shawn. “Natural armor and weapons and skilled hand-to-hand combat.”
+
+“Interesting,” said Shawn before turning to Elise. “And you?”
+
+“Tripping or trapping with roots and vines and firing {Magic Missile} and another offensive nature spell at them.”
+
+The elf’s disdain grew again at her words, almost as though he was silently scoffing at her simple methods. Elise felt anger bubbling up within her. Were all elves like this? Was Sylvanna just the outlier? She had initially had a neutral, or even favorable impression of him, but that impression was rapidly deteriorating.
+
+“Both of those are very valid tactics,” said Shawn. “Yours in particular is quite common, Eleanor. Especially your mention of {Magic Missile}. Nature magic is often quite limited in direct offensive potential, so many mages use it for defense or utility while relying on other methods for offensive power. That’s what Heath here specializes in.”
+
+He gestured to Heath, who nodded. Elise had briefly been introduced to Heath by Sara. Outwardly, he had a laid-back personality, but with {Sense Emotions}, Elise could tell he was actually pretty nervous. Sara had introduced him as B team’s dark horse. He wasn’t the leader, but not due to lack of ability. Rather, his abilities were just as good as anyone on A team’s. He just didn’t like leading, claiming it was too much work.
+
+“Those two tactics are also two of what Sucri defines as the main four methods of fighting with nature,” continued Shawn. “Obviously, I represent the melee attack kind, while Heath represents the utility type. The other two types are the hyper-specialist, and the preparation specialist, represented by Sara and Daryl, respectively.
+
+“Sara uses vines, and only vines. She has very few Skills to do anything else with Nature magic, but because of her specialization, her vines are very strong. I’m sure I don’t need to explain too much
+
+“Daryl, on the other hand, doesn’t have much direct power. He specializes in knowledge and preparation. He has hundreds of seeds on him at all times, and is excellent at setting up defenses in advance, laying traps, and strategizing. If I were to attack him right now, he would be able to mount some defense with the things he has prepared in case of sudden attacks, but without an opportunity to set up, his combat power is significantly lower than mine, despite being around the same level. However, if I gave him a day to prepare, and then tried to attack him, it would most likely be me who loses.
+
+“Of course, those aren’t the only ways that nature magic can be used, and even within those four categories, there are many, many different variations. You also don’t have to choose just one, and can dip into multiple. But they are useful guidelines and archetypes for you to plan your strategy around, and studying others within the same category can help you maximize the effects of your own abilities.
+
+“For this first meeting, we’ll just be covering each of them in a little bit of detail with a few demonstrations here and there to give you all a better idea. After that, we’ll be doing a bit of… sparring.” Behind him, Daryl had a big smile on his face, and even Sara and Heath looked a bit smug. “If you decide to officially join the club, you’ll probably have a one-on-one meeting with professor Sucri about your abilities and which way you want to build, so make sure you pay attention.”
+
+He launched into an explanation of his own tactics when it came to nature magic. He briefly described how he had gotten to where he was, and gave some vague details on his Class and Skills. According to him, the melee build for nature mages was the rarest for a few reasons. First, it required a wide array of lowercase -s skills, including both talent with mana, and with physical activities. Most mages didn’t have much in the way of athletic talent, and the opposite was true as well, so the pool of people who could actually learn the skills he had was limited. It also was tough because it spread his stat points out widely, since he needed both physical and magical stats, meaning none of his stats were as high as someone more specialized.
+
+Elise caught Telvir nodding along with what Shawn was saying, and despite the elf’s attitude toward Elise, he clearly held some respect for Shawn. He also was more than a little proud when Shawn explained that most people weren’t skilled or talented enough to follow his path. As the others had their turn to talk, his respect dwindled slightly though. It was obvious that he looked down upon the other specialties somewhat, though not as much as he had looked down on Elise.
+
+Rationally, Elise knew that there was technically no problem with what the elf was doing. She even scolded herself for paying such close attention, since she was basically looking into his private thoughts. Outwardly, he showed no sign of whatever was going on in his head and was a perfectly respectful spectator. Technically, he was innocent. But at the same time, she really wanted to prove him wrong, and was greatly looking forward to whatever the sparring would entail.
+
+It was Sara’s turn after Shawn finished, and she explained her own philosophy when it came to nature magic. She hadn’t originally intended to specialize in vines, but, like Elise, {Prehensile Vines} was the first nature spell she got, and she got good enough with it that she unlocked a vine specialist Class at her Class evolution and just decided to continue down that line. The upsides to her route was that unlike Shawn, her stats were highly specialized, having almost nothing in her physical stats, and huge amounts in both her magic stats. Additionally, with only vines, she had a lot less to worry about than people like Daryl or Heath, who had many different kinds of plants and spells to worry about as they fought.
+
+“So basically, it’s the perfect archetype for simpleminded people,” chimed in Daryl as she spoke.
+
+That comment earned him another kick in the shin, which he once again laughed off while Sara wrapped up her explanation.
+
+After Sara, it was Daryl’s turn, and when he spoke, his entire demeanor changed. The jovial giant turned into an erudite professor as he explained his long-time fascination with all kinds of plants, and how it had led to him pursuing botany. From his explanation, it was clear that he was the most well-educated of the four, and likely of the entire club. His methods weren’t particularly strong for direct combat, as Shawn explained, and as a giant, a species known for their low mana pools, his methods didn’t require a large amount of mana either. However, he was very proud to say that following in his footsteps would unlock the best post-graduation job prospects, and was the best for long-term quality of life.
+
+Elise found each of the three explanations interesting, but as she listened, she also fairly quickly decided against any of them. She did not have the physical stats to copy Shawn, she had no need to limit herself to only a single type of plant like Sara, and while she thought that plants were interesting… she didn’t want to spend years and years studying to learn as much as Daryl. Maybe in the far future, she would do it, but for now, she would rather focus on things with more immediate results.
+
+That brought her to the fourth and final archetype, which Heath soon began explaining.
+
+“Unlike the others, I am not all in on nature magic,” he said. “Most of my Skills are unrelated to it, and my Class is mostly focused on other magic. This is my third year at this school, and I’ve only taken two nature magic classes. However, I was born with {Nature Magic Affinity}, so I unlocked nature spells at every Class upgrade. Nowadays, I have a few spells from other attributes too, but Nature is still a staple of my style.
+
+“The advantage that nature magic has over all other attributes is efficiency. Unlike every other attribute, which requires the caster to either generate their own material, like fire or light magic, or to fully control what they work with, like water and earth, nature magic is more like nudging plants in the right direction.
+
+“As an example, imagine you make two walls, one out of stone earth magic, and the other out of wood with nature magic. Depending on the type of stone and the type of wood, and the type of attack you’re defending against, it’s most likely that the stone will be more durable. However, what happens when the walls are damaged? If a stone wall is cracked down the center, the mage has to expend a lot of mana to repair the wall, molding stone to their will, and forcing it to obey. If a wooden wall is cracked down the middle, however, the nature mage has a much simpler time. With a little bit of mana, and a little bit of intent, the wall will naturally repair itself.
+
+“It’s the same with other nature spells, like {Ensnaring Roots}. There are other spells in other attributes with similar effects, but {Ensaring Roots} is by far the cheapest, as the roots it creates are biologically geared toward trapping things. It costs much less mana because the roots naturally will wrap around whatever they touch, while in any other attribute, they would need to be specifically guided.
+
+“Of course, this doesn’t help it at all when it comes to firepower, which is why people like me tend to use it for other things. Tripping and trapping, defense, mobility, and so on are my main focuses when it comes to nature magic, while for offense, I use either unattributed magic, or earth magic.”
+
+The longer he spoke, the more certain Elise was that she would likely follow in his footsteps. She already needed to mix in her aether with her nature magic, so a style that was already designed to be a supplement was perfect for her, and as he went on to talk about some more specific tactics he employed, she started coming up with her own ideas. With {Nature Mana Manipulation}, she could already imitate basically everything he did, and with nature magic’s natural efficiency combined with her own aether Skills, she felt like she could become an extremely efficient combatant. Using aether to aid her own attack and defense, she would expend even less mana than Heath did, and her enormous aether pool would fuel her for a while. She could become a very good attrition fighter. Efficient fighting was kind of what she already did, since she had to do it in the Jungle when her mana pool was much smaller, but if she mastered nature magic further, she could take it to a new level.
+
+When Heath finished his explanation, Elise was feeling generally satisfied with how she planned to develop her magic. She got a bonus dose of satisfaction when she realized she might have pre-emptively ended another existential spiral. She didn’t need to worry about a balance of aether and mana. She could just develop her abilities together as one. That might change a bit when she unlocked the full {Mana Manipulation} Skill, but the general philosophy would stay the same. Her aether pool made it foolish to specialize in anything but aether, but there was plenty of room for her mana abilities to slot in.
+
+Her satisfaction was enough that even Telvir’s general arrogance didn’t bring her mood down, and she was in a very good mood when Daryl started explaining the sparring.
+
+“So obviously, we can’t do true sparring in here,” he said. “There’s not enough room, the terrain is bad, and we would get in trouble for damaging the room. However, we can do something just as good. And before I get too deep into it, don’t worry. This is just a fun game, and your performance doesn’t really matter.
+
+“Basically though, we’ll be doing a pseudo-spar using these!” he gestured back toward the stone dummies standing in the dirt patch. “We can’t have you attacking each other, but we can have you attack these stone dummies, and try to defend them. So that’s exactly what you’ll be doing! We’ll pair you off, and you’ll each take turns attacking and defending a dummy.
+
+“Don’t worry about being inexperienced. You’re newbies, so it’s expected. Also, we’ll be right here to give you some tips based on your performance, so you can start getting a feel for using nature magic for combat.
+
+“That said, since some of you do have experience, it’s not entirely fair to pit you against the ones without it. At least not immediately. So for the first match, we’ll have you go against each other! Experience versus experience. Does that sound alright to you?”
+
+Elise and Telvir made brief eye contact. Telvir’s disdain rose to a new high, and with it, so did Elise’s desire to prove him wrong.
+
+“I’m game,” she said.
+
+“I supposed it would be interesting,” said Telvir.
+
+“Then it’s a match!” said Daryl happily.

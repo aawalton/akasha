@@ -1,0 +1,141 @@
+---
+id: f436f04e-d312-5864-83b8-fe83067a66e1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1673 - Shake Your Money Maker pt 3"
+slug: 0323-chapter-1673-shake-your-money-maker-pt-3
+partOf: chrysalis
+position: 323
+ownLength: 1405
+unit: words
+ownProgress: 1405
+publishedAt: 2025-10-23
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2697697/chapter-1673-shake-your-money-maker-pt-3"
+royalRoadId: "2697697"
+markedReadAt: "2026-06-29T19:54:08.761Z"
+---
+
+When Jasper awoke, he didn’t imagine there would be anything particularly special about this day. He lived alone in a small house on the outskirts of the city, cheap enough that he’d been able to buy it when land prices were still low. As a fully functioning town, Renewal hadn’t been around that long, but the speed of its development had been utterly staggering. Some buildings in the city centre were already being torn down as they were too small to accommodate the booming population.
+
+Fortunately, his little shop hadn’t come under any scrutiny. A short walk from the square, close to the cathedral and administration buildings, there was a decent amount of foot traffic in the area and quite frankly, he liked his little corner. Having to rebuild, even if it were at the city’s expense, wasn’t something he wanted to do.
+
+Following his usual morning routine, Jasper washed, shaved and dressed in fresh, clean clothes. He grabbed up the pants and shirt he’d worn yesterday and slung them into a linen bag. Mrs Worther’s washing service had been a life saver for him. He had neither the time nor the inclination to go to the river and scrub out his clothing, so he was more than happy to pay for the privilege, since all he had to do was drop them off on the way to work.
+
+With his first task of the day done, he picked up some fresh fruit from the market for breakfast and then went about making sure his suppliers had followed their agreements and dropped off the required goods at his store. Some things he sourced from the Colony itself and as always it was delivered early, clearly marked and well packaged, right at his back door.
+
+The day started early for a shopkeeper and he didn’t want to miss the morning rush, so Jasper set about getting ready to open. He hauled in the various packages, wiped down all the surfaces and brought the pastries and snacks out of the cool store and put them back out on display.
+
+When everything was ready, he opened his door, placed out his little ‘we’re open!’ trestle sign before taking the shutters off the windows.
+
+Feel Renewed was open for business!
+
+With a smile on his face, Jasper went inside and made sure the boiler was heating up properly. He’d topped off the reservoir before closing the day before, so there should be plenty of water, yet sometimes the fancy enchanted mechanism responsible for bringing it to a boil didn’t function properly.
+
+As he tinkered about the place, humming to himself, he slowly started to realise that he hadn’t had any customers yet.
+
+That was… a little unusual. He’d been open for ten minutes, which wasn’t long, but normally there would be at least five people dropping by for their regular morning tea and scone on their way to work.
+
+None of them had turned up? None?
+
+Confused, he poked his head out the door again. The streets were a little empty, and he could hear a hubbub over by the square. Was there something going on over there today?
+
+Curiosity piqued, he called out.
+
+“Franklin! Can you watch my shop for ten?”
+
+“Can,” the old cooper from next door replied, “but you’ll need to watch mine for twenty this afternoon!”
+
+Always had to ‘win’. Jasper rolled his eyes.
+
+“Done.”
+
+He stepped out and walked toward the square, the sound of voices growing louder the closer he got. When he arrived, it wasn’t hard to see what had caught everyone’s attention. In fact, it was impossible to miss.
+
+In the middle of the square, the little hatchling from the previous day, at least he assumed as much, had set up its own stall. Flanked by two enormous soldiers who loomed comically over the well-built wooden shop, the little ant was seated in one of those unusual ant chairs, waiting for people to approach.
+
+Spying another ant behind the stall, Jasper had to assume that was a mage, otherwise how were they supposed to talk to any customers?
+
+Even more curious, he couldn’t see what they were selling. There was nothing on the flat surface of the stall, nothing on display, just a little ant waiting patiently, clacking her mandibles, and a small sign on the front.
+
+Frowning, he moved closer so he could read it.
+
+It read: Colony Bank: Renewal Branch.
+
+What on Pangera?
+
+There was a large crowd gathering, but as of yet nobody seemed willing to actually go up to the table and speak to the hatchling, so Jasper took it upon himself to walk over and ask what was going on.
+
+He had to be back at his cafe in ten minutes, after all.
+
+When he reached the table, a mind bridge snapped into place and he recognised the mental voice of the mage he’d spoken with the day before.
+
+[Hello and welcome to… the Colony Bank. Would you like to make a deposit?]
+
+[You forgot the name?]
+
+[I did. I’m not exactly sure what is going on here.]
+
+The little hatchling clacked her mandibles happily, antennae wiggling with excitement as she stared at him eagerly.
+
+[She… wants to know if you are making a deposit.]
+
+[A… a what?]
+
+[Will you give her money?]
+
+A few more happy clacks of the mandibles.
+
+Jasper smiled, though he was quite bewildered.
+
+[What am I giving her money for? Is this a donation?]
+
+[She says… no. She will take your money and, for a small fee, store it inside the nest for safety. You will never have to fear that your wealth will be taken ever again.]
+
+That was… his initial instinct was to say ‘silly’, but… the more he thought about it… Right now his savings were hidden in the wall of his house. A decent hiding place to be sure, but he’d be lying if he said he felt completely secure about it….
+
+[How small is this fee?] he asked suspiciously.
+
+[A one-time copper sovereign to open your account with the bank, then a yearly handling fee of nine copper and nine iron.]
+
+[Isn’t that basically a silver?]
+
+[But it isn’t, she says. The emphasis is hers.]
+
+[Right.]
+
+He thought about it for a moment before he realised he was more tempted than he probably should be. If his money was stored inside the Colony, who would ever steal it? Theft was basically impossible! The ants weren’t going to take it, they literally didn’t even use money.
+
+[She says… you will also receive a monthly payment based on the amount you have stored in the bank. A… percentage of your savings will be paid back to you.]
+
+He would be paid?
+
+[How much?]
+
+[Two percent.]
+
+So he would be paid, but not much.
+
+[Wait,] he said, [is that payment calculated on how much I give you, or on how much is in there at the end of the month?]
+
+[The end of the month.]
+
+[So that means the payment for the second month will include the payment from the first month?]
+
+The little ant rubbed her antenna together.
+
+[Only if you leave that money in the bank, she says.]
+
+But that meant he would be receiving extra money based on the extra money he was given…. It could even add up to enough to pay the yearly fee, which meant his money would be perfectly safe, all year round, and it wouldn’t cost him anything.
+
+Now he was really tempted. There had to be a catch.
+
+[How do I get my money back if I want it?] he said, eyes narrowing.
+
+The little ant ducked down and grabbed a large, leather-bound book with her mandibles from below before placing it on the counter and opening it to the first page.
+
+[She will keep a record of all money stored in the bank right here, and anyone can come to this stall and withdraw their coins whenever they want.]
+
+[What if I want all of my coins at once?]
+
+[They won’t be stored far away. It will take an hour or so to retrieve it all if there isn’t enough at the stall to cover your request.]
+
+Jasper considered it a moment longer, then turned and started running back to his house. People called out to him as he went, asking what was going on, but he ignored them. Which wall had he hidden that darned money behind again?!

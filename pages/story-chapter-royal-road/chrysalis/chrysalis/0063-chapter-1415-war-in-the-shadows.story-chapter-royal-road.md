@@ -1,0 +1,73 @@
+---
+id: e6488d4e-965e-5135-a9a1-d7adbdbbaee1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1415 - War in the Shadows"
+slug: 0063-chapter-1415-war-in-the-shadows
+partOf: chrysalis
+position: 63
+ownLength: 927
+unit: words
+ownProgress: 927
+publishedAt: 2024-09-23
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1815656/chapter-1415-war-in-the-shadows"
+royalRoadId: "1815656"
+markedReadAt: "2026-06-29T19:45:38.890Z"
+---
+
+Externally, Crinis writhed, hundreds of limbs slipping into the shadows before they emerged outside the safe-zone, tearing apart the raging beasts who threatened to attack her Master’s family.
+
+Internally, Crinis writhed, with anger! How dare these disgusting creatures try to take apart anything that her Master wanted to build? The rage fuelled her as she launched attack after attack, spending herself unreservedly to annihilate the foe.
+
+It was costly. Every time she extended a limb into the poison, she had to cut it off, lest it carry the infection back to her. The mana of the fifth was so virulent it tore apart her limbs in under a minute, breaking down the Dark mana that formed her body at incredible speeds. Whatever she lost, she had to replace, but the Colony was well aware of her limitations, and a steady supply of Biomass was being provided for her. Even so, she wasn’t able to fight at full pace. Soon, she would need to rest and let her reserves build up again.
+
+Master had commanded that she never fall below half of her maximum capacity, and Crinis was bound to obey that commandment, no matter what. Thinking of his care and concern for her warmed Crinis’ heart and stoked the flames of her fury.
+
+You monsters DARE to defile that which the Master seeks to create? My kind, wonderful, perfect, strong, perfect, wise, wonderful, perfect Master?! Die. DIE. DIEDIEDIEDIEDIEDIEDIEDIE!!!!!
+
+With a snap, Crinis came back to herself and realised she’d withdrawn all her limbs, without realising it. For a moment, she was incandescent with fury, then realised she’d already burned through her reserves and hit the limit.
+
+She grit her three sets of teeth, but managed to contain her emotions. Pulling in her flesh, Crinis returned to her preferred form, that of an ‘adorable little ball,’ as her Master so cleverly phrased it.
+
+Considering how much she’d grown and evolved, she wasn’t able to compress herself down as small as she had in the past, but even so, her Master had grown larger and didn’t seem to notice the change. Or if he had, he hadn’t mentioned it.
+
+A mind brushed against hers and Crinis accepted the contact, allowing the ant to connect their thoughts.
+
+[How goes the defence?] Brendant asked.
+
+[Well,] Crinis replied, still feeling irritated that she couldn’t lash out at the monsters she could sense beyond the safe-zone. Foul beasts, hurling their vile slime and bile towards her Master’s family! Outrageous.
+
+[I take it you need more Biomass? I’ll have some brought immediately.]
+
+[Thank you,] Crinis said, recalling her manners. She shouldn’t be so consumed with anger that she forgot to be polite! [Have you…] she hesitated to continue, [... have you heard how my Master is doing? I haven’t seen them in… more than an hour.]
+
+They were still connected. In fact, he still spoke to her and her brothers every now and again. But she couldn’t touch him, and when he was that far away, in her experience, things went very badly, very quickly! She felt uneasy and wouldn’t be able to relax until her Master was once more within her gras—close and safe where she could protect him.
+
+[As far as I’m aware, the Eldest is still hard at work on the front line, leading the way as the Colony descends deeper. Last I heard, they were fine, although Solant is constantly stressed the Eldest is going to go off schedule.]
+
+[My Master cannot be bound by any such thing as a schedule,] Crinis declared proudly. [It is foolish in the extreme to try.]
+
+Brendant dipped her antennae in acknowledgement.
+
+[You are quite correct, as always. I think there are two dozen separate contingency plans that branch from the Eldest’s actions. So far, none of them have needed to be put to use.]
+
+It was only a matter of time, Crinis was sure of it.
+
+[And my siblings? Are they behaving themselves?]
+
+She could reach out to them directly, but they were unlikely to tell her. Tiny would claim everything was fine, no matter how bad the situation, and Invidia would not betray his confidence. The fluttering demon had always been willing to keep secrets, but now he was like a vault. A reliable and trustworthy confidant.
+
+[Of course. You and your fellow Guardians have been of immense help. The two of them are fighting one level below where we presently stand. Tiny has not attempted to fight outside the safe-zone, and Invidia is doing an excellent job keeping him healthy and using his combustion magic on the enemy.]
+
+[As long as they’re being useful,] Crinis muttered.
+
+There wasn’t really any doubt. As much trouble as Tiny could get into, he always did his best to help, in his own way. With the strict conditions that the Master had put on him, there wasn’t much opportunity for mischief.
+
+And Invidia was there… surely nothing would go wrong.
+
+[Thank you for taking the time to speak with me,] Crinis said, extending the top of her little blob so that she could dip it in a short bow.
+
+[Not at all,] Brendant replied, dipping her antennae back. [And here is the Biomass you asked for. Enjoy your meal.]
+
+A line of ants approached, carrying large chunks of food which they deposited in front of Crinis, who readily snapped them up with a tentacle and shoved them into her mouth.
+
+It wouldn’t be long until she had regenerated her lost strength and would be able to fight again. She couldn’t wait… to be helpful, obviously.

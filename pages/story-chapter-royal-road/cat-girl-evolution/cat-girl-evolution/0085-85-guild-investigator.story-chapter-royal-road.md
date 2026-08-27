@@ -1,0 +1,195 @@
+---
+id: 7887c50d-71f2-5a85-a43c-3928fc959660
+page-type-slug: story-chapter-royal-road
+title: "85 - Guild Investigator"
+slug: 0085-85-guild-investigator
+partOf: cat-girl-evolution
+position: 85
+ownLength: 3142
+unit: words
+publishedAt: 2026-02-06
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3017485/85-guild-investigator"
+royalRoadId: "3017485"
+---
+
+Of the two people behind me, one of them is a beastperson like me. This one is a man, but he’s got cat ears and a tail. His fur and hair is black like mine, but his eyes are yellow, and he seems just as surprised to see me as I am to see him.
+
+However, he is not the source of the intense gaze. That would be the person beside him, a woman with a face so forgettable I don’t even know how to describe it. Plain brown hair, plain brown eyes, ordinary features, and gray robes that look like she’s had them for twenty years and plans to use them for ten more. Despite the intensity I felt in the gaze, her expression is actually quite relaxed, and she’s faintly smiling.
+
+Before anyone can say anything the door to the house opens, and the twins come running out, abandoning their usual calm demeanor to rush toward the plain woman.
+
+“Aunt Ari!” they say.
+
+“Girls!” says the woman, pulling them both into a hug.
+
+The other beast man and I stand awkwardly to the side while the other three exchange greetings and talk about how long it’s been and things like that. It looks like this woman has known the twins since they were kids. That makes me wonder what they were like when they were kids. Until just a second ago, it would have been hard to picture them as normal kids, but seeing how they’re acting around “Aunt Ari,” I think they must have behaved normally once. So when did they decide to stop making facial expressions?
+
+That aside, the fact that they know her is good, I think. That woman is powerful enough to be dangerous, but if she’s close with the twins, then it’s not super likely that she’s gonna do something to me. Unless the twins have been stringing me along this whole time…
+
+Experimentally, I Blink a meter to the right. The moment the mana starts gathering around my body, the plain woman’s eyes snap to me, then to the spot I’m about to appear so that she’s still looking at me after I use the Skill. She doesn’t react otherwise, but the fact that she reacted so quickly and tracked me so easily is all the confirmation I need. This is not someone I can handle.
+
+“And you must be Yona,” says the woman, pulling away from the twins. “I’ve heard quite a bit about you.”
+
+“All good things, right?” I ask jokingly.
+
+“No, not quite,” she says with a smile.
+
+“Oh…”
+
+“But this isn’t the right place for that conversation,” she continues. “Why don’t we head inside.”
+
+“We’ve prepared the sitting room with snacks and beverages,” says A.
+
+“We tried to get your favorites,” says B.
+
+“That sounds lovely,” says the woman. “But I’m afraid I’ll need to use your basement first. I believe this gathering will be much more pleasant if I can have a one-on-one conversation with Yona here beforehand.”
+
+“Of course!” says A. “We’ll unlock it for you.”
+
+“There’s no need for that. I can get in on my own. Why don’t you two keep Lord Fabio company while I’m away?”
+
+“Okay,” says B. “Right this way.”
+
+The twins hold out their arms, and Fabio gives me a curious glance before slipping his arms into theirs and allowing them to escort him inside. I stay rooted in place as they enter, closing the door behind them. Then, Ari steps toward me. I take a nervous step back, but she doesn’t stop until she’s right in front of me and puts a hand on my shoulder.
+
+“I’m going to teleport us. Don’t resist.”
+
+Before I can reply, I feel an intense tug on my very existence. Instinctually, I fight back against it for a moment before I realize what her words meant, and I let it go. The next moment, the two of us are standing in the vault where I spoke to Cecilia.
+
+“Have a seat,” says Ari, gesturing toward the couch.
+
+“Yes, ma’am,” I say, sliding into the comfortable couch.
+
+“My name is Arianne Fenn,” she says. “I am the guildmaster of the Elyrian Adventurer’s Guild. I am currently here on a vacation to visit my nieces, but I also have some business, and that business is acting as a Guild Investigator to look into you.”
+
+“Ah…”
+
+“I have heard from reports that you enjoy testing the limits of what is considered acceptable in social situations. You are acting quite meek right now, so I doubt it will be a problem, but I should also inform you that I possess the True Wrath Trait, so I would recommend against testing my limits.”
+
+“Yes, ma’am!”
+
+Wow, she is scary!
+
+“The Guild has a procedure in place for handling Infiltrators. We are not only aware of their existence, but the very founder of the Guild was an Infiltrator himself, so we are quite open to having them in their ranks. However, a powerful Infiltrator can be just as dangerous as a powerful Leader, so we still take their recruitment very seriously. I will be registering your existence with the Guild, and you will be required to do a probationary period with a licensed Guild Evaluator.
+
+“Luckily for you, you seem to have already recruited a licensed Evaluator into your Party, so technically, nothing needs to change. Unluckily for you, you have also recruited my nieces into your Party, so I will be taking this interview very seriously, and I will also be personally monitoring your performance. Understood?”
+
+“Understood!”
+
+She pulls a strange artifact from her pocket and sets it on the table. It’s a metal dial that looks almost like a compass, except instead of having directions on it, it’s just split into two halves, both marked with runes that I can’t read. I know that neither of them are the bitch rune, though.
+
+“This device can detect if the speaker is telling the truth,” she says as the needle spins to point to my right. “If you lie you’ll die.”
+
+The needle flips around, pointing the other direction, which I assume means that statement was a lie.
+
+“You won’t die,” she continues. “But it won’t be good for your odds of passing the interview, so I would suggest being honest.”
+
+“Yes, ma’am.”
+
+“First, your name.”
+
+“Yona.”
+
+“No, your Name.”
+
+“Oh. Yona, the Gastronome.”
+
+The needle stays pointed at the truth side.
+
+“Tier?”
+
+“Two.”
+
+“Have you completed the Branch Quest yet?”
+
+“No.”
+
+“Good. I recommend choosing the pacifist branch. Otherwise, you will not be allowed to move freely without signing a binding soul contract.”
+
+“I was already planning on doing that, hahah.”
+
+She glances down at the dial, which is still on the truth side, then breaks out into a wide smile.
+
+“Excellent answer!” she says. “That will make the rest easier. What is your current goal?”
+
+The next fifteen minutes are a rapidfire barrage of questions about my goals, as well as some hypothetical moral dilemma questions. After the question about the branch Quest, though, a lot of the pressure disappears, and it’s much easier to stay calm. A few of the questions worry me a little bit, like the ones about what I’d do in self defense scenarios, and especially the one about whether I want to eat humans. It’s hard to make a “yes” answer to that question sound not bad, but I somehow manage to make it clear that it’s only for the sake of getting anatomical and culinary data, and that I would only ever do it to someone who was either already dead, or who I killed in self defense, or who really really deserved it.
+
+“Well, it seems that I don’t have much to worry about,” says Arianne, pocketing the truth-telling device at the end of the interview. “I am very pleasantly surprised. All Infiltrators have their quirks, but you are possibly the least worrisome one in the Guild.”
+
+“She really asked the wrong questions.”
+
+Shut up, Obboe.
+
+“There are still some procedures that we need to go through, but they are quite simple,” Arianne continues. “I will inform Lauren Haddock of her duty to keep an eye on you. Due to your Gluttony Trait, I also have to make it clear that you are not allowed to stay in one city for more than three months unless your reports from Lauren indicate that you are not spending a significant amount of time within the city. Alternatively, if you manage to find a Party member with Temperance at the same Stage as your Gluttony, you may live and travel freely, so long as you are near them, as your Sin Trait’s negative effects will more or less be cancelled out.
+
+“Additionally…”
+
+She goes on for a few minutes about random bureaucratic stuff that I only half pay attention to. I don’t completely blow her off, but most of what she says is basically that my Evaluator—aka Minion #1, aka Chad’s girlfriend, aka Lauren—needs to file some paperwork for me to be allowed to do certain things, which means that I don’t really need to worry about it. I’ll just make Lauren worry about it. And it sounds like Lauren is going to be getting a visit from the terrifying Guildmaster in the next day or so, so I don’t even need to memorize it and relay it to her.
+
+Only at the end does she say something that properly piques my interest.
+
+“Now, the last thing we need to do is figure out your cover story,” she says. “Which is why I’ve brought Lord Fabio.”
+
+“The catboy?”
+
+“You shouldn’t be calling him that, but yes. He is your new cousin. He has already agreed to this.”
+
+“Wait, you already set it up?”
+
+“For the most part, yes,” said Arianne. “Technically, you did most of the work, going around and calling yourself a princess and becoming a well-regarded public figure. All I had to do was convince Lord Fabio of the benefits of going along with it.”
+
+“Wait, what? So I’m going to be a literal princess?”
+
+“The beastperson tribe equivalent, yes.”
+
+“Why would he agree to that?”
+
+“There were quite a few conditions on his agreement, but your interview fulfilled all those conditions, so the answer boils down to profit. Elyria is currently negotiating with the peoples of the mainland to establish trade routes and trade deals. Lord Fabio is the chieftain of the felinid tribe, one of the weaker tribes, but he hopes to form powerful connections. If you continue on your current route, you will become quite famous, and if you are officially connected to him, that will only boost his reputation, so long as you don’t do anything that goes against his intentions. And based on your interview answers, I don’t believe you will.
+
+“Of course, you’ll have to talk with him personally to work out the finer details, but from what I’ve gathered, it will be very simple for you. All you have to do is exactly what you are already planning on doing. Grow stronger, hunt more powerful monsters, collect the Seven Delicacies… As long as your reputation remains good, Lord Fabio will be able to use you.”
+
+Abby, what do you think? Are you ready for me to take my rightful place as princess?
+
+“No.”
+
+Well, that’s too bad.
+
+“Sounds good to me!” I say. “As long as I don’t have to deal with any politics!”
+
+“I’m certain that Lord Fabio will be happy to hear that you don’t want to be politically involved,” she replies. “Shall we go meet him?”
+
+“Yes!”
+
+Upstairs, we find Lord Fabio in the middle of a classic twin interrogation. He seems to be bewildered, but actually enjoying himself. That’s probably helped by the fact that the twins set out a big plate of smoked salmon that he is enjoying. Arianne officially introduces us, and I think I sense her using some kind of telepathy with him as she does so. He greets me happily, and invites me to a private dinner at the Sea Lemon later to talk details. I accept, of course, especially since he says it will be his treat.
+
+After that, the conversation turns light, and we all have a generally good time. Whatever Arianne was doing to make me feel pressured earlier is entirely gone, so even though I know she’s powerful enough to instantly kill me if she wants, I’m actually able to relax and enjoy myself. I also enjoy the sight of the twins acting weirdly animated around Arianne, using actual facial expressions and vocal inflection.
+
+The change actually gets me wondering. Is the monotone, straight-faced act just something that they put on for other people? Is this how they usually are, and they just decided to do the other thing as a long-running bit? Or is the side of them that I’m familiar with the norm, and this is only how they are around Arianne? The world may never know.
+
+Dinner with Fabio that night is delicious and productive. He reminds me a bit of my personal assistant back on Earth, handling all the annoying stuff while I got to sit back and relax and enjoy my status. And despite a certain Annoying Blue Box’s comments, that does not make me a bad leader. The most important parts of being in charge are having an eye for talent and knowing how to delegate. I, of course, am an exemplary leader, possessing both qualities in spades. My eye says Fabio is politically talented, and therefore, I delegate him the important responsibility of upholding my cover story, with the caveat that I basically just can’t do anything evil.
+
+My backstory is apparently very convenient for him too. His aunt was a somewhat well-known Adventurer until one day, she got poisoned by a powerful Named monster and went missing after travelling to Elyria to try and find a cure. While here, she gave birth to me, and raised me in secret, and although she managed to fight off the venom for decades, it left her body ravaged, and she eventually succumbed, at which point I set out into the world from our secluded cave and became the renowned Adventurer I am. This missing catgirl Adventurer even had a Spatial Affinity like me, and was known as a big eater. In fact, it all fits so well that it’s almost suspicious, and it makes me wonder if he’s embellishing things to make it seem like it fits better than it does.
+
+When I return to Lauren’s house, my first minion looks a bit shaken, having just come from her own meeting with the terrifying holder of True Wrath. She shakes off the shaken-ness pretty quickly, though, and with the Guild Investigator business handled, she’s able to finalize the sale of her house and prepare for the move to Doralak.
+
+Chad also finishes his own preparations, which is basically just gathering all his valuables, and then hiring some other Adventurers to check his house every couple days to make sure it doesn’t get taken over by squatters.
+
+My own preparations are pretty simple. The only thing I really have to do is collect my meat from the Pig Palace, which I happily do. The head chef even offers me a free meal made from the Named Disaster’s tenderloin which, of course, I accept. It’s easily the best pork I’ve ever had, and I now literally have tonnes of the very same meat. I can’t wait to make Lauren make some for me.
+
+The only other productive thing I do to prepare for our departure is look into some of the Dungeons around Doralak. It’s a city that’s home to a fair amount of Platinums, and they have an entire seven Dungeons within a day of them. The most delicious-sounding of them is one right on the lake beside the city that has shellfish enemies. Unfortunately, it doesn’t have any scallops, but it does have mussel monsters, which sound incredible.
+
+Beyond just giving me a new source of food, though, that Dungeon should also be enough to earn me my final level before my next Evolution. Annoyingly, the timer on my Quest reset again after meeting Arianne and Fabio, but now that all that stuff is dealt with, I should be in the clear. And if I can find a safe place within the city to evolve, I should be able to complete the Quest while I’m evolving. I asked the twins to ask Arianne about that before she left, and she said it sounded plausible, so if it doesn’t work, I blame her.
+
+With my Evolution should come a few exciting things. First of all, the Annoying Red Box said that Named evolutions were different from regular ones, so I might be able to cheat my way through it again. Second, I'll finally get my reward from the Goddess of Bitches, and as annoyed as I am with her for tricking me, I am extremely curious about what reward could be so good I have to wait until my evolution to get it. Third and finally, I just kinda want to see my numbers go up. Maybe after evolving, my Power will finally go over 10,000 and I won’t be weak anymore.
+
+While Lauren, Chad, and I do all that, the twins don’t make any preparations at all beyond creating a device to mask the presence of Annie’s head, which confuses me at first. Then, on the day we plan to leave, I learn why.
+
+Lauren, Chad, and I stand on the street, watching as the twins place their hands on the walls on either side of the gate to their house. I can sense some extremely complex mana signals being sent throughout the walls, and after about a minute, they take a step back, and a moment later, the house vanishes. Completely. Like, it just disappears, basement, garden and all. All that’s left is a plot of dirt that is somehow flat, and not a giant pit where the basement used to be.
+
+The twins walk up to the middle of the dirt and pick up a small disk of metal cut into two parts, each with a chain attached. They take the two half-disks and don them like necklaces before returning to Lauren, Chad, and I, who are all stunned.
+
+“I believe that’s everything,” says A.
+
+“Let’s get going.”
+
+Seven days later, the five of us arrive at Doralak after a comfortable and uneventful journey. I poke my head out as our carriage travels through the city. The city itself is pretty similar to Riverfork, and is nothing special, but it all feels new and interesting. Very soon, I’ll be able to evolve again, and after that, it’s on to Maligar and the first of the Seven Delicacies!

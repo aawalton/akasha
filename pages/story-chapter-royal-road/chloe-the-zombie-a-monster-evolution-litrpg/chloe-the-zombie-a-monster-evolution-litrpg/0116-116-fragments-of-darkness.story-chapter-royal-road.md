@@ -1,0 +1,175 @@
+---
+id: 8fbffa7f-01d2-5b86-b9a1-1ac8ebc792c5
+page-type-slug: story-chapter-royal-road
+title: "116: Fragments of Darkness"
+slug: 0116-116-fragments-of-darkness
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 116
+ownLength: 1983
+unit: words
+publishedAt: 2026-02-20
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3074505/116-fragments-of-darkness"
+royalRoadId: "3074505"
+---
+
+Chloe followed Ynett through the door, and, well, everyone else followed too. It was still really weird seeing Ynett casually destroy the Fog Spewer like that and then act like it was no big deal. That kind of power was suspicious, and Chloe absolutely did not generally trust suspicious things.
+
+Still, curiosity won out. Chloe really wanted to know what was behind that door. So she kept walking, even if she kept one eye firmly on Ynett the whole time, just in case the snake lady decided to do something weird.
+
+They stepped into this big room made out of stone. The floor was smooth, with carvings that looked really old. Thick stone pillars rose along the edges, etched with faded symbols and clawed marks that came from who knows what.
+
+Chloe’s eyes swept across the space, taking in the size of it, the emptiness. Then she froze.
+
+Standing right in the middle was the fancy black-feathered bird lady. The same one Chloe had met before. The same one who had said something weird about Chloe being a daughter or whatever. Chloe hadn’t forgotten that. She just hadn’t really understood it.
+
+“Oh hey,” Chloe said casually, walking right up and giving a friendly wave. “It’s you again.”
+
+Unfortunately for Chloe, out of nowhere, a powerful gust of wind slammed into her chest. It hit hard enough to knock her straight off her feet, sending her stumbling back before she hit the ground with a surprised grunt.
+
+Chloe blinked, then pushed herself up onto one elbow, looking more annoyed than hurt.  She glanced back at Ynett immediately. “Was that you?”
+
+“No, that was wind magic. Not telekinesis.”
+
+“You don’t have wind magic?”
+
+“Not yet,” Ynett said
+
+Chloe sat back on the cold stone for a moment, staring up at the ceiling with a deep frown. “That somehow makes me feel worse.”
+
+If Ynett hadn’t been the one to shove her back, then it had to be the bird lady. Sierra definitely couldn’t use wind magic, Raenof wouldn’t pull something like that on her, and Mr. White would never betray her like that. That only left one answer. And Chloe really didn’t like not knowing why someone had decided to knock her down like that.
+
+She pushed herself up properly while keeping her eyes locked on the bird lady. This lady was definitely the same one that Chloe saw before. Same feathers, same dress, same everything.
+
+The bird lady’s gaze swept over the group, sharp and careful, like she was measuring them. Then her eyes landed on Raenof. “Everyone except the elf, please leave us.”
+
+Chloe blinked. “Uh, why him? And who are you supposed to be, anyway?”
+
+The bird lady looked at Chloe, then back to Raenof. “My name is Maeve, and the elf does not belong in this place.”
+
+"I appreciate your concern, Lady Maeve, but I am aware of where I am.” Raenof said.
+
+“You are lost in direction. I owe a great deal to the elves, and I will not allow one of your kind to be harmed by staying here for too long."
+
+Chloe’s head snapped between them. “Okay, hold on, you’re saying that like you’re helping him.”
+
+“I am,” Maeve replied,
+
+“So you’re just gonna send him away, but what about the rest of us?”
+
+“You are not my concern.”
+
+Sierra stiffened, shrinking back a step. Mr. White snorted softly. Ynett as always just smiled seeing all this.
+
+Chloe stared at Maeve, disbelief giving way to anger. “Wow, you were way nicer before.”
+
+Maeve tilted her head. “Was I?”
+
+“Yeah, back then, you actually talked to me, and you even hugged me.”
+
+“I do not remember that."
+
+“You don’t remember? You literally hugged me. It was a whole moment.”
+
+Maeve’s eyes softened. “Then it was not this self. There are… many versions of me.”
+
+Chloe stared at Maeve for a second, her mouth hanging open just a little. “…Okay, you’re gonna have to explain that. What do you mean, not this self.”
+
+“My mind is fragmented, and It has been for a long time. Truth be told, I'm struggling just to stay lucid enough to speak to you right now. Different parts of me wake, act, and fade in this place, and they hold different memories. Different feelings.”
+
+Sierra hugged her arms tighter, ears drooping. “So, the you Chloe met before, that was a different one?”
+
+“Yes, a kinder one. Closer to what I once was.”
+
+“This dungeon is not random,” Maeve continued. “It is a reflection of me, my thoughts, my fears, and my regrets. The Fog Spewer was one such reflection. A fragment of my mind given shape.”
+
+Chloe frowned hard. “So you’re telling me I fought your feelings?"
+
+“In a sense, yes."
+
+“That explains why I couldn't really kill that Fog Spewer guy. He wasn't even really real in the first place!"
+
+Maeve nodded slowly. “That creature was likely a piece of my mind given physical form. Now that it has been defeated, it may be why I am able to speak to you more clearly.”
+
+Sierra swallowed. “That’s… really sad.”
+
+Maeve did not respond to that. Ynett, who had been silent the whole time, finally spoke up. “Then the question becomes, what can be done to fix you.”
+
+By now, Chloe had gotten a lot better at noticing when things were about to go bad. Her danger sense hadn’t been great at the start of her journey, but after dealing with so many strong enemies, she’d learned to feel it when something powerful was about to happen. That feeling hit her hard now.
+
+Maeve’s wings flared slightly, feathers rustling as her eyes snapped back to Ynett. The gentleness she’d shown Raenof vanished in an instant, replaced by something colder. “Fix me?”
+
+Ynett tilted her head. “If this place is a reflection of your fractured mind, then restoring you would—”
+
+“What makes you think I am broken,” Maeve demanded.
+
+Chloe stiffened. Uh oh.
+
+The floor creaked softly as magic stirred as Maeve took a step forward, looking straight towards Ynett. “You see fragments and assume failure. You see pain and assume weakness.”
+
+“I simply see inefficiency.” Ynett said casually.
+
+Ynett looked like she was about to say something else, probably something smug and annoying, when Maeve spoke first. “Perdition Rite Number Six: Divine Spear.”
+
+Chloe didn’t even have time to ask what that meant. She had no idea what a “Perdition Rite” was, or why this one had a number, or how many more there were, and for a split second her brain tried to grab onto that. Then everything went wrong.
+
+A thunderous crack ripped through the ceiling overhead, so loud it felt like it punched straight through her skull. The entire chamber shook, and Chloe snapped her head up just in time to see it.
+
+A spear of pure black energy tore straight down as the ceiling shattered around it, chunks of rock exploding outward when the spear slammed into the floor.. The impact sent a shockwave through the chamber as the spear punched straight through Ynett.
+
+Raenof froze where he stood, eyes wide in shock, and Sierra moved behind Chloe. Speaking of, Mr. White moved instantly as he stepped in front of Chloe, his skeletal body blocking her view like he had decided, very firmly, that this was absolutely not something she should be seeing up close. Aww, thanks buddy.
+
+Ynett staggered. The spear pinned her to the ground, black energy crackling and writhing around the wound. She coughed violently, blood spilling from her mouth and staining the stone beneath her. Even then, even like that, her eyes stayed locked on Maeve. "What… is the meaning of this?"
+
+Maeve didn’t raise her voice. She didn’t even look angry. That somehow made the bird lady look a lot scarier.
+
+“Out of everyone here,” Maeve said, “you are the only one I know is not acting in good faith. You are a pest, and pests must be removed."
+
+Ynett laughed weakly, blood still dripping from her lips. "Do you really think this is enough to kill me? I will return again after this, and I will find you."
+
+She coughed again, forcing the words out through pain. “I will have my revenge.”
+
+Maeve tilted her head slightly. “Perdition Rite Number Eight: Purgatory Flames.”
+
+Black fire erupted around Ynett, swallowing her whole in an instant. The flames weren’t like normal fire that Chloe was used to seeing, these ones were kind of like a super fire, but evil-er.
+
+As a zombie, Chloe wasn't really a fan of fires that weren't her own. Back when she wasn't as smart as she was now, fire attacks really did her in often. And the other zombies in her dungeon didn't stand a chance against fire either.
+
+Back to watching Ynett getting burned to a crisp though, Chloe saw how the black fire burned without glow or warmth, nothing like real flames, just a crushing heat that pressed down on everything around it. And then uh, things started to get gross.
+
+Chloe shut her eyes immediately. She did not need to see that.
+
+Because wow, she was pretty sure she caught a glimpse of Ynett’s body starting to melt, or dissolve, or maybe twist into something worse, and she had zero interest in finding out which one it was. Some things were better left unconfirmed forever.
+
+The flames roared for a few more seconds, loud and terrible, filling the chamber with a sound that felt heavier than noise. Until eventually, they stopped.
+
+Chloe stayed frozen, eyes still shut. One second passed. Then another. Then a third.
+
+When she finally dared to take a little peek, the spear and the fire were gone. The space where Ynett had been was empty.
+
+Chloe swallowed hard, her throat suddenly dry. “Uh, so… she’s gone, right?” she asked, glancing at the empty space where Ynett had been like she half expected her to pop back up out of spite.
+
+“For now, yes,” Maeve replied. “The serpent will not be able to take another step in this domain for a long time.”
+
+“Okay, but… why did you destroy Ynett just now? Not gonna lie, I didn’t really like her, but why do that now? You could’ve done it earlier, right?”
+
+Maeve didn’t answer right away. Instead, she stiffened, one hand lifting to clutch at her head like something had suddenly gone wrong. Her wings trembled slightly as she winced.
+
+“Hey, you okay?” Chloe asked.
+
+Maeve lowered her hand and looked at Chloe, her eyes unfocused for a moment before finally settling on her properly. When she spoke again, her voice sounded strained, like it hurt just to get the words out. “Come closer, I need your help.”
+
+Chloe blinked. Then blinked again.
+
+That tone sounded like it came from the nicer Maeve. The one who had talked to her before. The one who had hugged her and did not just obliterate Ynett.
+
+Without really thinking about it, Chloe stepped closer. “Okay, what do you need me to do?”
+
+“I want you to venture into my soul and free me from my torment.” Maeve said.
+
+Chloe stared at her. She wasn’t totally sure what Maeve meant by that, but she had a pretty solid idea of what torment was, and none of those ideas sounded fun. Also, how exactly was a zombie supposed to go into someone’s soul? She wasn’t even sure what a soul really was. Still, Chloe decided that some questions were less important than others.
+
+“Um,” she said slowly, scratching the back of her head, “I don’t mind, but… why me?”
+
+Maeve looked at her for a long moment. Then she said, very simply, “Because you are special.”
+
+That didn’t explain anything, but Chloe liked how it sounded anyway. Maeve straightened, the strain creeping back into her expression. “Prepare yourself,” she said, then turned to Raenof. “I will need your help as well.”

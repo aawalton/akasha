@@ -1,0 +1,117 @@
+---
+id: 841e8ed2-8dd7-566b-936e-cd7de503bf3f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1672 - Shake Your Money Maker pt 2"
+slug: 0322-chapter-1672-shake-your-money-maker-pt-2
+partOf: chrysalis
+position: 322
+ownLength: 1133
+unit: words
+ownProgress: 1133
+publishedAt: 2025-10-22
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2695012/chapter-1672-shake-your-money-maker-pt-2"
+royalRoadId: "2695012"
+markedReadAt: "2026-06-29T19:54:06.836Z"
+---
+
+Jasper was used to seeing ants about the place; they were in Renewal every day, after all. On a few occasions, he’d even been asked questions by them, quite the remarkable experience. They had an insatiable curiosity about tea and sweet things like cakes and biscuits, and he’d answered as best he could. He wasn’t a baker, after all, but the owner and operator of a small cafe in which he sold various beverages, hot and cold, along with snacks and sandwiches.
+
+It was a simple business, a simple life, and he was well satisfied with it after the chaos that had engulfed his life when the waves began. Renewal had lived up to its name as far as he was concerned, and he wouldn’t trade his little store for the world.
+
+Yet there was something about this ant in particular that was different. For one, she was so small, barely up to his knee, which made him think she must be a hatchling. That made him wary. The Colony were extremely protective of hatchlings, which led to his other concern. He didn’t know enough about the ants to tell the different types apart all that well, but he’d heard rumours a group of Brood Tenders that were guiding a young one around the town, which meant the other ants nearby must be the Tenders.
+
+Brood Tenders, as a rule, did not interact with others all that much. The hierarchy within the Colony was easy for everyone to understand. At the tippy-top were the Queens, who people of Renewal didn’t see, ever. Just under that were the brood, who never left the safety of their special chambers. Just under that were the hatchlings, who basically went straight into their ant schools after being born and didn’t come out until they’d evolved, and just under them, were the Brood Tenders.
+
+Having this particular combination of ants in his shop was making Jasper quite nervous.
+
+[She wants to see the coins,] he was told via mind-bridge.
+
+Confused, he opened up his fingers and held out his hand, a few coins resting on his palm. He needed to bend low so the hatchling could inspect them without climbing up onto his counter.
+
+Getting close, the ant inspected the coins with her eyes, then with her antennae, seeing and smelling them as best she could.
+
+[Are these all the types of coins you have?] the voice said in his mind.
+
+Judging by the tone, whoever was speaking to him using magic was just as confused by what was going on as he was.
+
+[Ah, just a moment,] he replied.
+
+He stepped behind the counter and opened his lockbox, extracting one of each type of coin he carried in the store.
+
+He placed them on the ground in order of value, pointing to each one as he explained their worth, assuming his words would be passed on to the curious hatchling.
+
+[We only recently moved away from a barter economy and started minting our own coins. It was the mayor's idea and probably about time. Some people were already using coin from wherever they came from before arriving here, but they were given a fair exchange once the new ones went into circulation.
+
+[The least valuable is an iron, here.]
+
+He pointed to the small, reddish coin with a simplistic image of an old woman on it.
+
+[They stamped the first mayor on this one, in recognition of her contributions. Ten irons will make a copper, which is this one. I think the ant here was called Grant. I know they explained it all, but I don’t remember it particularly well, I’m sorry. Five coppers makes a copper sovereign. Ten coppers make a silver and five silvers make a silver sovereign. Above that you have the gold and gold sovereigns, but I don’t have any of those.]
+
+The little ant inspected each one carefully in turn.
+
+[Why don’t you have any gold?] he was asked.
+
+Jasper laughed and scratched his cheek sheepishly.
+
+[I don’t make enough money, and, to be honest, even if I had one, I wouldn’t keep it in the store. Crime is incredibly low in Renewal, but I would feel too darn nervous having it here.]
+
+The little ant seemed to listen as the response was translated, then nodded.
+
+[She just has a few more questions.]
+
+Jasper smiled and shrugged.
+
+[Sure.]
+
+[Why money?]
+
+He blinked.
+
+[Uh, I’m sorry?]
+
+[She wants to know,] the voice said, seemingly just as confused as he was, [why you use money.]
+
+He blinked again, then scratched the back of his head.
+
+[Do you use money at all?] he asked, suddenly curious. [In the Colony, I mean.]
+
+[No.]
+
+[How do you pay for things?]
+
+[We don’t.]
+
+[How do you get paid?]
+
+[We don’t.]
+
+Well… if you didn’t need to pay for things, it stood to reason that you wouldn’t need to get paid.
+
+[What if someone takes more than everyone else?] he wondered. [Takes more than is fair?]
+
+[Such selfish behaviour…] the mental voice seemed completely scandalised, as if she’d never thought of such a thing, [it’s… un-antlike.]
+
+How in Pangera was he going to explain the concept of money? It was… it was just money!
+
+Still, the little hatchling looked up at him expectantly, so he decided to do his best.
+
+He started by explaining barter, the exchange of goods and services for other goods and services, then described the limitations of the system. If one reared cows for a living, he couldn’t very well walk around with ten cows in his pocket, nor could he easily trade a tenth of a cow for a cup of flour.
+
+Then he described money as a representation of value, and as a more convenient and streamlined manner to conduct trade. Everyone could carry coins around, and as long as everyone agreed on their value, business could be conducted quickly and easily.
+
+He also spoke about the power it granted to those who controlled the supply of money, in this case the city itself, since they were the ones minting them, and the problems with theft. Not that there was much theft in Renewal, but it was a lot easier to steal a gold coin than it was to steal what a gold coin could buy.
+
+The little hatchling listened to all of this, absorbed it, almost totally motionless. When he was finished, Jasper could only put his hands on his hips as he leaned back and thought if he had anything else to say. Eventually, he shrugged.
+
+[I think that’s all I know about it, I’m afraid.]
+
+The little hatchling nodded. Then turned and left.
+
+[She says ‘thank you’.]
+
+[Oh. She’s very welcome.]
+
+And that was the strangest conversation, on the strangest day in Jasper’s entire life.
+
+Until the next day happened.

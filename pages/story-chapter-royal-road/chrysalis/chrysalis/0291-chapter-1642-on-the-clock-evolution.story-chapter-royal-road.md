@@ -1,0 +1,63 @@
+---
+id: 9c2aac3e-1b4f-5398-ab95-ac2bacfecaa2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1642 - On the Clock Evolution"
+slug: 0291-chapter-1642-on-the-clock-evolution
+partOf: chrysalis
+position: 291
+ownLength: 1030
+unit: words
+ownProgress: 1030
+publishedAt: 2025-09-10
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2588740/chapter-1642-on-the-clock-evolution"
+royalRoadId: "2588740"
+markedReadAt: "2026-06-29T19:53:07.413Z"
+---
+
+By this time, the Colony had somewhat managed to hold Anthony down using some sort of threaded rope, magic and sheer weight of numbers. He was still wiggling about, but his range of motion had been greatly reduced, which made keeping in contact with him much easier.
+
+[Anthony,] the triad said, trying to break through to him. [We have two options that should help you survive, do you have a preference?]
+
+[I’d prefer it… IF MY FACE WASN’T ON FIRE!]
+
+[The evolutions!]
+
+[GAH! Fine. Gimme a sec!]
+
+They waited as patiently as they could while he struggled to access the menu.
+
+[I hate them both! Acken! Flacken! ITCHY! Bulwark! Go with that one! EVEN IF IT SUCKS, DAMMIT!]
+
+Well, not that they didn’t know how he would feel about it before, but at least he’d been able to make the final selection on his own. It was clear at this point that the potent mana left behind by Theorazzn had completely skewed the evolutionary options available to him, and destroyed his chance to advance along the path he had carved for himself.
+
+The triad were furious at having to make these compromises, at having to curtail the potential of such a promising monster, but nothing mattered if he didn’t survive, that was obviously the most important thing. Anger boiling in their hearts, they locked in the Bulwark, and set to work.
+
+A tier eight mythic monster had an absolute ocean of evolutionary potential available to them, and many, many potential purchases to be made.
+
+Acting in unison, the three golgari surged into action. There were many things that needed to be addressed, and they had long prepared for a possibility such as this.
+
+The three had made a study of ant physiology, and tore through Anthony’s physique like a hurricane, adjusting, shifting, realigning and perfecting his musculature. It required almost no energy to do so, but would result in a noticeable difference in power. The default was not necessarily correct, and this was one such instance.
+
+In addition, Anthony had not been overly careful in the way he had expanded his size and added additional muscle. The density and bulk were generally spread fairly evenly, but an even distribution wasn’t the best way to achieve an optimal result. Further corrections needed to be made, condensing muscles in certain areas, shifting mass from one place to another. In particular, the muscles in the head connected to the mandibles needed a significant amount of work.
+
+After this initial pass was complete, Anthony’s body was much better streamlined. With more time, they could squeeze a few more percent out of him, but that was a luxury they could not afford.
+
+Next, they distributed the free stats gained from the evolution, of which there was an abundance. Anthony’s size would again need to increase, if only to fit everything he needed to cram into his body, but the bulk of the physical energy was spent on condensing key muscles. With all of the room, the brains were expanded, gaining a great deal of processing power before they needed to start condensing the grey matter.
+
+Defensively, the carapace was hardened and thickened, the joints reinforced and slight adjustments made to his shape, making it more difficult for enemies to target his vulnerable points. In particular, attention was placed around Anthony’s head. The giant ant had quite frequently damaged himself using his own abilities, and his new chomp attack had proven to be especially potent. Thickening the carapace there, shaping it to better deflect the power unleashed by his mandibles, would hopefully reduce the damage he did to himself.
+
+Next, the triad turned their attention to the purchases they wanted to make. First of all, a Mind Construct. A very specific organ, it would act as a construct would, taking in raw mana and converting it to the desired attribute, but not store it as a regular mana gland would, shaving a little off the price. After all, Anthony didn’t need a reserve of mind mana, but a constant, steady supply. With careful positioning, the triad was able to ensure a steady drip of mana would be pulled from the core and fed to the organ without spending any energy to forge an actual, physical connection.
+
+With mutations and an eventual reforge, Anthony would be able to very efficiently create the mind mana that he constantly needed without having to devote any of his own mental resources to the task. Further freeing up his brains for more important work, the purchase of this organ was more than justified.
+
+Next, Anthony had been at pains to try and address the weakness that was his legs, increasing the speed at which they could regrow, but it simply wasn’t enough. Although the triad planned on a reset for his limbs, it was necessary that energy be spent on a better solution.
+
+Vestigial Limb Incubator.
+
+This would place six small organs adjacent to each of Anthony’s legs. Should one be damaged, the existing leg could be disconnected and the vestigial limb would take the place of the lost limb. Combined with mutations and healing fluid, the new leg could grow to an acceptable size in a matter of minutes, rather than hours.
+
+The three had long considered Anthony’s… rather unique collection of senses. He had, thanks to his origin as an ant, a very broad ability to see, though his compound eyes began at an exceptionally poor baseline. His antennae, covered with fine hairs, were extremely sensitive to touch and smell, especially so after their reforging and subsequent mutation. In addition, he was able to sense future echoes, along with gravitational fields, adding yet more information to an already crowded picture.
+
+Reaction speed was key to the giant ant’s survival strategy, which meant rapidly processing this sensory information was critical. Shaving even a fraction of a second from his response time could be crucial. To facilitate this, they purchased an add-on to his existing brain structure: A Sensory Processor.
+
+Looking at the work they had done, the triad could only brace themselves. They had barely made a dent in the vast reservoir before them. There was still much to do.

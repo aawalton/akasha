@@ -1,0 +1,81 @@
+---
+id: 02df636f-494a-5aa3-83f8-d5fb6c482fc4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1435 - When it Rains, It’s Mucus"
+slug: 0083-chapter-1435-when-it-rains-it-s-mucus
+partOf: chrysalis
+position: 83
+ownLength: 1182
+unit: words
+ownProgress: 1182
+publishedAt: 2024-10-22
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1862420/chapter-1435-when-it-rains-its-mucus"
+royalRoadId: "1862420"
+markedReadAt: "2026-06-29T19:46:30.810Z"
+---
+
+It is difficult to piece together a specific theme or guiding principle for the naturally occurring monsters of the fifth. This may be due to how poorly studied they are, for obvious reasons. Expeditions to seize cores from the fifth do take place, but they are extremely risky, and therefore monstrously expensive.
+
+Should the Krath catch wind of poachers, those poor individuals will suffer a truly terrible fate, but even without the intervention of the Slug Tribes, there are many ways to meet an end within the fifth.
+
+Which means that even those successful expeditions that manage to return have only delved the top third of the stratum, at most. Who knows what creatures might lurk in the deep, where the mana is thickest and at its most potent?
+
+From what we do know, we can say that the fifth has a huge amount of variety. Fish creatures, amphibian type monsters, insectile beasts, elementals, bipedal monsters, flying creatures, living mould creatures, turtles, dragons, flowers, trees and everything else under the sun and below.
+
+What clearly differentiates it from the other strata is two things: the reliance on toxins, poisons and acids to do most of the damage, and the prevalence of parasites.
+
+Monsters who need other monsters to be attached to themselves in order to live and thrive aren’t unheard of elsewhere in the Dungeon, but nowhere are they as common as here. An entire branch of study has been founded amongst the Shapers to try and determine if a positive, symbiotic relationship can be found between a parasite and host. They want to create a custom parasite that will strengthen the monster they introduce it to, but the Dungeon seems somewhat resistant to such designs. There must be a reason for that.
+
+-           Excerpt from the private notes of Granin.
+
+I nearly died, but it was totally worth it. Should I have put as much juice as I did into that gravity bomb? Probably not. In my defence, I can only say that I was not in my right mind at the time. I was traumatised by the sight of my hated foe, my nemesis.
+
+I hate those damn centipedes even more than I hate the termites. Although, if I run into a fifth stratum variety of termites I might just lose it. That is not something I ever want to see.
+
+In the wake of my… slightly over the top course of action, the centipede nest… and everything around it for a significant distance, was very much destroyed. Once I pried myself out of the rubble, the environment had most definitely changed for the better, with most of the mucus strands gone, along with most of the nearby tunnel.
+
+Hey, it’s probably easier to build in this than it was to build with the mucus everywhere! You’re welcome, Cobalt and Tungstant!
+
+Feeling much better about life, the universe and all the other stuff, I cheerfully advance into the tunnel again. I’m only about two kilometres deep at the moment, and I have the final third of this particular sojourn ahead of me before I can call it quits and get back to the safe-zone.
+
+Before I do so, I sit down for a second and make a thorough check of my body, turning my many minds inward. As expected, trace amounts of toxic mana have taken root in several places throughout my carapace, and I take the time to break them all down, ensuring nothing is left behind. When that’s done, I check myself again and come up empty. That doesn’t mean there aren’t pieces left, but they’re so small that I can’t sense them, so it’s time to move on. Only by getting checked over when I return can I be sure to be completely free of the stuff.
+
+For a few hundred metres, there isn’t much to worry about, most of it has been thoroughly annihilated by the bomb I unleashed. The tricky part is finding a way through all the rubble. Certain sections of the tunnel have collapsed, and others are certainly unsteady. Again, something I’m sure the carvers are more than capable of fixing.
+
+So down I go, making excellent progress. Even the miasma has been consumed by the bomb, to some extent anyway, which gives me better visibility as I make my way forward.
+
+Eventually, I come to the outer edges of the mucus web and am forced to cut my way through, but it doesn’t present much of a challenge. Then I’m through! Whoo!
+
+Now, what else lies ahead?
+
+As far as I know, once I reach my destination, the tunnel I’m currently heading down will intersect another and come to an end in a T-intersection. Which should be just ahead of me. This new tunnel runs horizontally, so it will need to be conquered eventually, but for the time being, it’ll be ignored as the Colony completes construction up above.
+
+It might be because I destroyed everything behind me, but there seems to be a distinct lack of monsters around here. Like, an almost suspicious lack of monsters.
+
+I advance hundreds of metres down the tunnel, and there just… isn’t much to see.
+
+I’m pretty much completely vertical now, clinging to the wall of the tunnel and looking straight down as I come toward the intersection, which finally comes into sight.
+
+And… I suppose that is probably the reason I’m not seeing many monsters around….
+
+Ahead of me, I can see the point where the two tunnels meet and this one ends. Normally, such intersections are the most chaotic parts of the Dungeon, filled to the brim with monsters running into each other and vibrant environments.
+
+Instead, I see something else. At first I thought it was a massive pool of lurid green slime, streaked through with an almost offensively bright yellow colour, but then I saw it ripple.
+
+It’s not a pool of slime, it’s a single organism, a monster. When I look closer, I can make out its shape a little better and it becomes relatively easy to determine what it is.
+
+It’s a snake, coiled up in a circle. A single, truly enormous snake.
+
+Could this thing be tier eight or nine?! Holy moly!
+
+Looks like I found the old monster who lords over this section of the Dungeon. I wonder if it left the centipedes alone for any particular reason, or did they only recently move in while this thing was napping?!
+
+I hunker down, and begin to slowly retreat.
+
+Chances are, I’ll need to fight this thing, but not right now. I’ve been out in the toxins for too long. I need treatment, I need a break from constantly regenerating my eyes, and I need to consult with the headquarters about what they want me to do. For now, I settle for giving Solant a quick heads up.
+
+[Hey there, general. I’ve reached the endpoint, and I’m starting to make my return. Just thought you would like to know that there is a significant impediment to our progress just ahead of my position.]
+
+[In what form?]
+
+[Snake form.]

@@ -1,0 +1,111 @@
+---
+id: 06743ce8-dab6-5e07-b3bc-dc969422dd63
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1391 - Within the Sanctum part 1"
+slug: 0038-chapter-1391-within-the-sanctum-part-1
+partOf: chrysalis
+position: 38
+ownLength: 1105
+unit: words
+ownProgress: 1105
+publishedAt: 2024-08-13
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1755950/chapter-1391-within-the-sanctum-part-1"
+royalRoadId: "1755950"
+markedReadAt: "2026-06-29T19:44:51.747Z"
+---
+
+Alis went to scream, but something was placed over her mouth, preventing her cry from escaping. She struggled, but it was useless, she was gripped tightly by invisible forces.
+
+Were they invisible? Or was it that she had gone blind?! There was nothing but darkness around her, so total and complete she couldn’t see anything of herself, not even the nose in the middle of her face.
+
+A scent reached her, so soft that it almost didn’t exist, a breath of pheromones.
+
+“You must be silent here. You are safe.”
+
+Alis concentrated hard, trying to use her newly awakened ability to interpret the scent-based language of the Colony.
+
+“Am I blind?” she asked, desperate for an answer.
+
+She got a reproachful tap of an antenna on her head, and again the whisper-soft scent reached her.
+
+“Of course not, it is simply dark. Speak softly here. You are within the Sanctum. If you are calm, rise, and follow me.”
+
+The invisible forces binding her in place vanished, and Alis shakily rose to her feet. She wanted to ask the nearby ant where they were, what was happening, but they were already moving. How exactly she knew that, she couldn’t say, but there was no doubt it was true.
+
+So, step by step, she followed, staggering into the darkness with her hands waving in front of her face.
+
+She hit her head more times than she could count, but the ant was patient, waiting just out of her reach until she was recovered and ready to follow once more. It felt like they travelled for days, but it could have been only hours, or perhaps minutes. Alis could feel her sense of time stretching and becoming thin as she wandered through this seemingly endless tunnel of pure darkness.
+
+“Stop.”
+
+It was the first time the ant had spoken to her in… some time… and Alis felt as if she could detect the words more clearly than before. Was the ant speaking louder? Or had her ‘hearing’ adjusted due to being unable to see?
+
+“It seems you are still unaware of it.”
+
+Alis frowned.
+
+“Unaware of what?”
+
+There was no response for a moment, as if the ant were weighing its words.
+
+“You are no longer hitting your head as much as before.”
+
+It was a simple observation, a statement of fact, but it hit the Templar like a thunderbolt. It was true, she was hitting her head less, but how?! Walking through the dark didn’t necessarily make one better at walking through the dark. No matter how practised she became, she still couldn’t see.
+
+She inhaled deeply through her nose.
+
+It was there, ever so faint, words, messages, guidance. The scent had been so tenuous she hadn’t even realised it was there, but subconsciously had begun to follow it, reacting without knowing.
+
+“You’ve been guiding me this whole time.”
+
+It wasn’t a question.
+
+“Follow me.”
+
+Once more she followed the ant, now hyper-sensitive to any change in scent that she could detect. The steady stream of instruction came and she continued to react on instinct, moving more confidently and swiftly as she learned to trust what her nose was telling her.
+
+“It isn’t enough to simply have Skills, or practise Skills,” the ant told her. “To truly achieve mastery, you must push. You must do things that take your abilities beyond what the rational mind says is possible. That is the first and most important lesson I will teach you. Now stop.”
+
+As instructed, she stopped.
+
+“Why am I here?” she asked. “What is happening?”
+
+“You were told by the Eldest, were you not? You have been brought here to be trained.”
+
+“But where is this? And who are you? I haven’t heard of anything like this in the Colony.”
+
+She made sure to modulate her pheromones as softly as she could. For some reason, it seemed… wrong… to be loud.
+
+“You have seen us many times, even if you didn’t realise what it was you were looking at. As for where. You are in the Sanctum of Sleep, the sacred temple of rest here in the fourth stratum. The Eldest has asked that we teach you our ways and equip you for the struggle ahead. So we shall, as best we are able.”
+
+She felt the ant’s scent fill the room, for it was a room, she could tell as the pheromone landed upon each surface. Small, with a bed, a basin, a chest to store things in.
+
+“This will be your resting place while we train. In order to find it again, you must remember the scent it has been marked with; do not forget it. Now come.”
+
+As her guide began to walk away, Alis desperately drew deep in the air of the small room, trying to imprint this marker in her memory. Not far away, she was asked to halt once more.
+
+“Can I ask, where is Jern? Where are the children?”
+
+The poor things must be so afraid….
+
+“They are safe. For now, we will train you separately. Later, we may bring you together again, depending on how well you learn our skills.”
+
+“And what are those skills?”
+
+She could feel the ant walking in a slow circle around her, even before the monster released a single scent.
+
+“We are masters of stealth, observation, subtlety and patience. We strike accurately, always. We do as we intend, nothing more, nothing less. We endure when others cannot, and we excel where others fail.
+
+“It is not necessary that you learn all of our ways, for you are not to become one of us. However, I can see the wisdom of the Eldest in entrusting you to us. What we will instil in you is a state of mind. An unswerving dedication to your purpose.”
+
+This all sounded rather intimidating to Alis.
+
+“I’m not even sure what my purpose is,” she admitted softly.
+
+“It does not matter,” the ant dismissed her concerns, and Alis looked up, shocked. “When we are finished here, no matter what fate lies in store, you will be worthy of it.”
+
+She would be worthy? Would she no longer feel the crushing pressure of being chosen, the weight of expectation she felt whenever her friends, members of the crusade, looked at her?
+
+“There will be no more idle talk,” her guide stated. “From now on, I will instruct, and you will do. There is no failure, only lessons learned. There is no attempt, only achievement. There is no defeat, only triumph delayed.
+
+“I am the Nameless One, and I will teach you until there is nothing left for you to learn.”

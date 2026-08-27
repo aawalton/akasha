@@ -1,0 +1,117 @@
+---
+id: 64a92846-e0a7-5424-ad35-1243cd3f8550
+page-type-slug: story-chapter-royal-road
+title: "180. Dealing Secrets"
+slug: 0180-180-dealing-secrets
+partOf: breaker-of-horizons
+position: 180
+ownLength: 2239
+unit: words
+publishedAt: 2022-02-21
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/850258/180-dealing-secrets"
+royalRoadId: "850258"
+---
+
+Their second class was in one of the smaller lecture halls that Caden had never been in before, though it followed the same tiered layout as the Nivordin Lecture Hall. He and Bertram were the last ones in, arriving just on time. Caden brightened a little as he saw Alina Celwyn, the professor who had taken his group for Advanced Glyphs in the previous term, standing at the lecturer's podium below. The two of them were left only with the seats furthest at the back, closer to the door, so they quickly settled down as Alina gestured at the blackboard behind her. It filled with glyphs, and Caden saw with a little thrill of excitement that he recognised some of them as being from the Special Set.
+
+"Welcome back, everyone," Celwyn said, turning to face the hall. She looked a lot more careworn than Caden remembered, and she had a slightly defeated air about her. Instead of launching straight into a lecture, she simply looked around at all of them, her eyes settling on each one for a moment. There was an uneasy silence, which she broke with a heavy sigh.
+
+"Your foray into the deeper mysteries of glyphs will be coloured by the necessity to lean more towards thaumaturgy," she began at last. "Given the nature of the glyphs you will be working with, we will begin strictly with the theory, which is why we are here in a lecture hall. In time, we will return to the workrooms where you will start making use of them in active sequences. Then, only after you have demonstrated a basic level of proficiency, you will be allowed to make use of them in your practical thaumaturgy sessions."
+
+Henry raised his hand and Celwyn nodded at him. "Yes?"
+
+"What if we've already covered them? Not all of us are first or second-years."
+
+"You will only be allowed to use them in combat sequences after you have demonstrated your proficiency to me," Celwyn said firmly. "In our later practical sessions, I will be testing your ability to use them in actual combat. Even if you are a third-year, you've only seen the Special Set glyphs used in non-combat sequences. They work very differently."
+
+"But they're the same glyphs," Henry countered, though his tone was not argumentative. "If we're comfortable using them in non-com—"
+
+"They are not the same," Celwyn replied sharply, cutting him off. There was another slightly awkward silence. Caden exchanged a look of worry with Bertram, who was also regarding her with some concern.
+
+"They are not the same," Celwyn repeated, a little more calmly, though her brow was still furrowed in annoyance. "That is exactly my point. And this is where we begin with the theory. Third-years, some of the ground I'm going to cover might be passingly familiar to you, but our focus on thaumaturgy changes everything, so pay attention. You will be in a better position to mark the differences, and I expect you to note these things, and I will require your considered responses so that everyone emerges from this as more than just mindless killing machines."
+
+The more she spoke, the more bitterness seeped into her voice. After her sharp reply to Henry, no one else raised any questions or observations, and everyone fell to quiet note-taking as she continued with the lecture about the principles behind the Special Set, and how they were different from both the Basic and Advanced Sets. From what Caden understood, the Special Set glyphs were more malleable in their function depending on the intention with which they were used, which made them more difficult to use reliably in the same way. Celwyn spent most of the lecture talking about mental imagery and patterns of thought, introducing several 'models' or 'modes' as the foundations for future lessons. It seemed like a more formalised form of frameshifting to Caden, and he wondered at his most recent discovery about the 'arcanic sea' or the 'upper reaches of arcana', and what implications this had about arcana and glyphs as a whole.
+
+Caden expected Celwyn to end the class with an invitation for questions, which had been her habit in the past term, but she dismissed them without doing so, and something about her manner discouraged any inquiries as well. She left without being stopped by anyone. With her departure, the rest of the class erupted into conversation as they slowly filed out of the hall and went their separate ways for lunch. Caden hesitated at the door, wondering whether he ought to go back to the dorm to see if there would be lunch there with Devon and the rest, or if he ought to eat in the library. He toyed with the idea of the latter, half-hoping to catch her there even though his meeting with Leyla was only for the next day.
+
+"C'mon," Bertram said, nudging Caden and nodding towards the cafeteria instead of the library.
+
+"Eh, I think I'll..." he trailed off. He saw the twins as they split off from the rest of Henry's group and headed back to the dormitories, and decided that although he did want to have a meal with Devon and Jerric, he wasn't quite ready to sit down with the twins again, especially after their thaumaturgy trial earlier. "Alright. Lead the way."
+
+As they headed to the cafeteria, the conversation turned to Celwyn's odd behaviour. Bertram shared that Celwyn had been the professor taking his group since the first year, and they traded theories to explain her odd behaviour.
+
+"She's an artificer by specialty, and I know her private projects are more to do with artefacts with benevolent uses," Bertram explained. "I've, uh, acquired a few of them and sold them."
+
+"You've stolen from her workshop?" Caden asked, incredulous.
+
+"Not stolen," Bertram replied, wagging a finger. "Acquired. I do have some lines I don't cross, and theft is one of them."
+
+"But then where do you get your... your inventory?
+
+"That's information for partners," Bertram grinned. "Anyway, you can sorta tell from the stuff she makes that she's quite opposed towards thaumaturgy."
+
+"You mean she's never designed or made any artefacts with combat applications?"
+
+Bertram shook his head, dropping his cavalier attitude. Caden noticed that whenever he started discussing arcanophany, he became a lot more serious and focused. "No. We kinda covered this today when she talked about Special Set glyphs being malleable. When you use them in specific ways, the glyphs themselves change. You can tell from how she's used them in her work that she's got a certain... hm, a certain frame of mind."
+
+Caden mulled over this. During his one-week intensive training with the Demiurge when he had learned about the glyphs for the wysana, he had worked with glyphs that were even greater in complexity than the Special Set, and he couldn't remember encountering this kind of malleability. He assumed that if Special Set glyphs were like that, then those higher-class glyphs for wysana creation would have that same quality, but apparently this wasn't the case. The only Special Set glyphs he had really seen up close and actually used were from the military-grade shield-piercer that Ambrose had taught him, and the most recent sighting when with the stasis sequence Lynus had attempted to use in the exercise earlier that day. Caden had only ever seen or used a Special Set glyph in a thaumaturgical sequence, so he didn't have any basis for comparison for how they could appear or feel different.
+
+"So you've used Special Set glyphs before?" Caden asked. "'Cause Henry mentioned it too."
+
+"We've learned the set and used it in specific sequences. None of them were for combat," Bertram confirmed.
+
+"Then how'd the twins come up with that stasis sequence?" Caden wondered aloud.
+
+Bertram shot him a surprised look. "You caught that? Yeah, I wondered that too. They're first-year, like you. I assumed that Henry taught them the glyphs, and also formulated the theory for the sequence with them."
+
+"But that's dangerous," Caden pointed out.
+
+Bertram shrugged. "Hey, you recognise Special Set glyphs. That's dangerous too, 'cos it means you know enough to use them. It happens. Seniors pass tips along and leak things ahead of the curriculum sometimes. Kant didn't stop them from deploying the sequence, did he? That means they've already cleared it with someone beforehand."
+
+"How can you be so sure?" Caden pressed.
+
+"'Cause that's how it works, freshie," Bertram answered. "Hasn't your cohort done this? People homebrew stuff all the time, and the rule is you've got to clear it with a professor before you deploy."
+
+"Yeah," Caden replied, remembering Devon's sequence to keep food warm. "But I mean... these are combat sequences. With Special Set glyphs. This isn't some fun, harmless homebrew project. And the twins were using it in combat, in live practice, with other people around. Plus, after what Celwyn just said, what happens now?"
+
+Bertram sighed. "That's politics between the professors. If you ask me, Henry and his gang aren't gonna stop, and you shouldn't expect them to, so you've got to plan accordingly. The question now is what you are going to do about it. People are experimenting ahead of the curve. Celwyn's put this little ban on us, but do you think the other lecturers are putting similar bans on their teaching groups? Because I don't think they are."
+
+Caden hesitated, thinking about his private lessons with the Demiurge. It occurred to him that it was rather hypocritical of him to think that it was alright for him to learn all this advanced arcanophany that was even beyond some professors, while thinking it was wrong for Henry and the twins to be dabbling in combat applications of Special Set glyphs. Moreover, apparently Ambrose had already been familiar with them long before anyone else, and that was back in their first few months in the Academy.
+
+They walked in silence for awhile. Bertram was more serious than Caden had ever seen, but he wasn't sure what the senior was thinking about. He was about to ask when Bertram broke the silence. "Let's have a quick lunch and then get some work done before the next class."
+
+"What work?" Caden asked.
+
+"Practical work. I've got to let you deconstruct the pulse sequence, and see how you do it. Then I want to have a try duplicating your sword thing."
+
+"So soon? I was thinking tomorrow," Caden said.
+
+"Sooner the better," Bertram said firmly. "And before we do that, I want a working lunch. I've got some serious questions to ask you."
+
+They were just getting into the cafeteria, and before Caden could clarify, Bertram gestured at an empty table in a relatively private corner. A globelight manifested there, along with a privacy barrier. Caden stared, and a few other eyes glanced that way as well. It wasn't usual for someone to claim a table in this manner, but apparently Bertram didn't care about being a little rude, and no one challenged him because there were still plenty of seats around.
+
+"Let's be quick," Bertram said, heading off to grab his food. Caden sighed and followed, quietly tallying up his questions.
+
+Bertram didn't engage in any further conversation as they queued, apparently still deep in thought. The cafeteria was barely half-full, but Caden spotted a few of his fellow first-years, and he nodded or waved in acknowledgement as they met his eyes. There was a strange sense of tension mingled with weariness in the air, and Caden wondered how everyone else's first two lessons had been.
+
+When Bertram and Caden got their food, they retreated to the table that Bertram had secured. He immediately began eating, but he managed to speak relatively clearly around the food in his mouth.
+
+"Special Set glyphs. How do you know them?" he asked bluntly, fixing Caden with a measuring gaze..
+
+Caden frowned. "What do you mean?"
+
+Bertram stabbed a carrot and popped it into his mouth, then pointed the fork at Caden. "Lynus' stasis sequence. You recognised some of the glyphs in it. When did you learn about them? Who taught you?"
+
+"That's private," Caden answered a little coldly. "I don't see why that's important, anyway."
+
+If Bertram was irritated by this refusal to answer, he didn't show it. He simply continued chewing, still watching Caden with that thoughtful, measuring expression. "Alright. Why are you studying arcanophany?"
+
+That question caught Caden off-guard. He blinked in surprise, then shook his head. "Does it matter?"
+
+Instead of answering, Bertram put more food in his mouth, chewed a little, then asked, "Are you getting private lessons from a professor?"
+
+"Maybe," Caden said through gritted teeth, staring Bertram down. "Why are you asking all these questions?"
+
+Bertram swallowed the food in his mouth and paused for a moment. "Because, Caden Dundale, something isn't adding up. And I'm beginning to think that it's quite dangerous for me to be around you. I've been pretty straight with you, and I'm still willing to work with you because I think I can help you, and it also aligns with my own plans and interests. But that'll only be possible if you're willing to level with me, too."
+
+He popped more food in his mouth and started chewing again. "So what's it gonna be, Caden? I've trusted enough to basically tell you I'm running an illicit business. Do I get anything back from that, or should I cut my losses now?"

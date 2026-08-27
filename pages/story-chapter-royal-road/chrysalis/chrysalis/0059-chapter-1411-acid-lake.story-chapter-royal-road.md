@@ -1,0 +1,123 @@
+---
+id: e46df2c0-60d6-5ec4-a3b1-127662ff91f1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1411 - Acid Lake"
+slug: 0059-chapter-1411-acid-lake
+partOf: chrysalis
+position: 59
+ownLength: 1211
+unit: words
+ownProgress: 1211
+publishedAt: 2024-09-17
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1806970/chapter-1411-acid-lake"
+royalRoadId: "1806970"
+markedReadAt: "2026-06-29T19:45:31.208Z"
+---
+
+I just can’t believe how terrible it is down here. Well, I can believe it, but just when I think the fifth can’t get any worse, it somehow manages to find a new low. We haven’t even managed to dig that deep into the stratum, maybe a kilometre, and already things are going to plops, as Isaac would say.
+
+“What is that, Brendant?”
+
+“What do you mean, Eldest?”
+
+“I mean, what are we looking at?”
+
+“Isn’t it obvious what we’re looking at?”
+
+“Indulge me.”
+
+“It’s a lake of acid.”
+
+“Why is there a lake full of acid?”
+
+“Because there is? I feel like you’re asking the wrong ant, Eldest. We can get Brilliant to try and explain the origins of this lake.”
+
+“I don’t think that will be necessary, I’m just getting depressed.”
+
+In front of me, directly below our position at the ceiling, the offensive body of not water bubbles away menacingly, oblivious to my mounting disapproval. Tiny turns to me and raises an eyebrow.
+
+“No, Tiny, you can’t punch it.”
+
+He looks sad. I’d kind of hoped that raising his intelligence would lead him to consider other solutions, ones that didn’t involve his fists, but alas, all that seems to have happened is that he can now think of more things to hit. Rather than watch the steady barrage of ghost fists flying from Tiny to the acid below, I turn toward Solant, who has finally descended to lead from closer to the front.
+
+“Did we know this was here?” I ask.
+
+She shakes her head.
+
+“We weren’t able to sense this far into the stratum, but such obstacles weren’t unanticipated.”
+
+“You thought we might run into an entire lake of acid?”
+
+“I tried to anticipate many different eventualities,” the small ant demurs.
+
+After digging down through a few levels of the fifth, encountering several of the massive, kilometre-plus wide tunnels we’d found so far, we eventually broke through to this mess. It’s a massive lake filled with a thick, goopy mess of bubbling, acidic snot.
+
+I hate it.
+
+To make matters worse, there’s clearly a heap of monsters inside it. We can see them wriggling and writhing down there, the surface of the lake shifting unnaturally as they shuffle about below. A few have tried to break the surface, perhaps sensing the cleansed mana above their heads, and from what I saw, they looked like nothing so much as… mucous crabs, I guess I would say, even if I hate that phrase.
+
+It’s not even possible to guess how deep it is, since the acidic goop is so thick you can’t see more than a millimetre into it!
+
+“So how are we going to get through this mess?” I ask with a sigh.
+
+“As quickly and as safely as we can,” Solant replies.
+
+I notice that she won’t give details unless I actually press her for them.
+
+“Care to explain?”
+
+It’s almost like she’s irritated at having to tell me the plan! She’s asking for a thwacking, I tell you.
+
+“Ultimately, this invasion is a war of mana against mana,” she says, launching into a rather more expansive explanation than I was asking for. “The natural mana of the fifth is completely toxic to us, making it the strongest weapon the fifth has against us. Conversely, the opposite is true. The mana produced by the wuffers is anathema to the natives of the fifth, and is our strongest weapon against it. We don’t need to go down and fight the monsters beneath us.”
+
+Oh, thank Gandalf. If someone was going down there, I know who it was going to be.
+
+“All we need to do is convert the lake into purified mana. The cleansed energy will do the work for us.”
+
+“Solant, you know perfectly well what my next question is going to be. Why the heck do you insist on making me ask it?”
+
+“I don’t know what you mean….”
+
+“Like heck! Fine! HOW are you going to convert it? If we try and pipe that stuff up, it’s going to eat into the material and break everything. If we actually feed it to the wuffers, it might melt through them as well!”
+
+Solant sighs.
+
+THWACK!
+
+“You are pushing your luck, little general.”
+
+“That wasn’t necessary,” she says, rubbing at her head with one antenna and glaring up at me.
+
+“I disagree.”
+
+“Fine. You are correct, it would be risky to try and pipe something this caustic directly to the wuffers. So we will use a different approach. Which is!”
+
+She hastily continues as my antennae twitch again.
+
+“Which is to say, we will use some enchantment arrays designed by the mages to condense and thicken the mana the wuffers produce before sending it down. It will be a war of attrition between the competing energies, but we can bring more firepower to the area if needed, while the lake can’t.”
+
+“Huh, it sounds interesting. I suppose this is the stuff you were talking about?”
+
+“Just so.”
+
+A large gathering of mages and carvers descend the vertical tunnel above the landing area which had been carved out of the rock. Even the stone is faintly toxic in this accursed place, eating into the ants’ mandibles and forcing them to seek healing after digging for too long.
+
+Even the sanctity of ant zen has been tainted in this place!
+
+As I ruminate on just how much I don’t like this place, the rest of my family has gotten busy. Over the next ten minutes, an astonishing amount of construction takes place, clearing an area and getting what appear to be very sophisticated arrays set up. When completed, they look like a series of stone rings, each engraved and set with powering cores, stacked on top of each other with a couple of inches of space between. A dozen of them are put together in short order, while the carvers get to work creating a wuffer platform.
+
+It doesn’t take long for the wibbly-wobbly little things to be in place, the pipework necessary to feed them installed and the process to begin. I watch, fascinated, as the wuffers begin to do their thing, but the blue energy is fed directly into the condensers.
+
+They aren’t very large, but once this newly made blue mana touches them, the constructs pull the energy inside, acting like a storage tank. The individual rings begin to pulse in sync with each other.
+
+I can sense the mana inside thickening, growing more potent with every pulse. When the appropriate density is reached, the mages activate a secondary set of mana pipes, directing the energy down through the opening in the floor and into the acid lake below.
+
+Immediately, a furious hiss resounds as the first of the blue mana comes into contact with the lake, the two energies clashing, each trying to consume the other. As all the condensers reach maximum capacity, more mana begins to flow through the channels laid into the ground, and the fierce noises from below intensify.
+
+Peeking over the edge, I can see the surface of the acid lake has begun to boil and churn.
+
+“This might take a while,” I observe.
+
+Solant doesn’t seem concerned.
+
+“We have seven more arrays we can deploy. We will get through eventually.”

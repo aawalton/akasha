@@ -1,0 +1,71 @@
+---
+id: e7fc7438-aecb-5bcf-a260-397be34d37bb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1487 - The Breach pt 5"
+slug: 0135-chapter-1487-the-breach-pt-5
+partOf: chrysalis
+position: 135
+ownLength: 1059
+unit: words
+ownProgress: 1059
+publishedAt: 2025-01-15
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2010775/chapter-1487-the-breach-pt-5"
+royalRoadId: "2010775"
+markedReadAt: "2026-06-29T19:56:42.904Z"
+---
+
+“Abandon the captives!” Zluth told his war party. “Slide as fast as you can!”
+
+His group was much further back than most and had managed to avoid the crushing force of the large ant’s spell entirely, but many others hadn’t been so lucky. As Zluth raced to escape before the twisting roots could block the tunnel, he turned one eye around to see what was happening behind.
+
+It wasn’t pretty. Many Krath had acted cautiously, just as Zluth had, but many others had not. When he’d shouted his warning, several Krath’sizz had pulled their groups back just far enough that they’d either outrun the strange spell or been caught right on the edge. By pressing themselves down to their smallest, thinnest shape, they were still able to push out of the field, if only just.
+
+Yet there were several dozen Krath who were caught right in the middle. Despite straining with all of their strength, it was unlikely they would make it clear of the crushing force before the giant ant was able to reach them. Indeed, as he watched, the massive ant strode inexorably forward out of the blue mana and toward the captured slugs, clacking its mandibles mockingly the whole time.
+
+His initial fears that some would betray the tribes, as Goszi had, were allayed as his fellow Krath began to detonate themselves one by one. The loss of good slugs was a blow to Chozth, but more traitors would have been enough to send Zluth into a fury.
+
+Chozth herself hadn’t been idle. As her people rushed towards her with all the speed they could muster, she once again sucked in mana and began to work a spell. When she turned and started racing for the tunnel exit herself, she dropped down from the ceiling and began to hurl a stream of slick goop from her mouth.
+
+With the trail of slime in front of her, she raced across the ground at an absurd pace, her lithe and powerful body capable of speeds that Zluth could only dream of.
+
+“Quick! Onto the trail!” he yelled to his followers, sliding onto it himself and instantly finding himself gliding faster than before.
+
+His followers responded, and soon the growing wall of roots began to fill their vision.
+
+“Damn tree!” Zluth cursed, eyes bulging with fury atop their stalks.
+
+There was only one tree monster capable of doing something like this. At least, only one that wasn’t an Ancient, and every Krath knew, and hated that cursed creature. Zluth sizzled with anger as he realised he should have seen it coming. The cursed children of the wooden thief had been seen assisting the ants, so of course they were here with her knowledge and approval. The Krath had expected the ants to tunnel around behind them and had taken measures to ensure they couldn’t be surprised, but they hadn’t bothered to try and detect the presence of the Mother Tree’s roots.
+
+A costly mistake, but one that wouldn’t be the end of him! He was going to make it out, no matter what!
+
+Ahead, Chozth was already far ahead of them, the stream of goo from her mouth finally coming to an end as she ran out of power. Yet, for her, it didn’t matter, she had reached the growing blockade and leaped through, roots lashing after her form as she sailed through the open gap.
+
+That gap was rapidly closing.
+
+Zluth cast his eyes about frantically, looking for another way out. He pushed as hard as he could for the exit, but he could already tell it was going to be close. Desperate for a fallback plan, he hunted for a crack or crevice in the tunnel walls, anything that he could force himself into and try to dig his way out through, but there was nothing. The ants had been busy, reforging the natural walls of the tunnel into reinforced stone, smooth and without blemish.
+
+Seeing no alternative, he abandoned his search and concentrated on the only escape he could still see: the narrowing gap ahead.
+
+“Push harder, you weaklings!” he roared to his war party behind him, some of whom were already flagging. “Faster! Or you won’t make it!”
+
+Despite the risk of slowing him down, Zluth pulled in more mana and began to blend it with the acid inside him. Weaving a quick spell, he launched a glob of lurid, sizzling acid, splattering it over the roots, which immediately began to sizzle and burn.
+
+He grimaced at the expense. The acid stores within him had grown thin, and he didn’t have enough for any more magic. What remained pulsed throughout his slug flesh, but lacked the vigour and heat he was accustomed to.
+
+It would be the work of many days to restore himself, but that was something he could worry about after he survived.
+
+As the wall of roots loomed larger and larger in his eyes, he pushed himself to the limits, his foot straining to eke out every bit of speed he was capable of.
+
+With a roar, he launched himself, compressing himself to lower the wind resistance as he sailed through the air. Roots scraped against his flesh, digging painful grooves along his foot, but Zluth was through. The tunnel beyond was clear, Chozth waiting a short distance away.
+
+The rest of Zluth’s war party followed soon after, and a small number of other groups made it through. More Krath launched spells at the roots, trying to burn them away with acid and sludge, but it had little effect. As time passed, the roots grew thicker and thicker, adding layers as well as mass to the wall.
+
+Soon, it formed a solid barrier, and the Krath trapped on the other side were left with no way out.
+
+Chozth’s flesh bubbled and popped with the strength of her fury as she beheld the small number of Krath who had managed to escape. Only a third of those involved in the attack had found a way out. This assault had been a disaster.
+
+Yet, witnessing the raw power of the Krath’lath, there were none who entertained the slightest thought of challenging her, not even Zluth.
+
+“We will retreat,” she burbled furiously. “Move.”
+
+Tired, weakened, and burning with fury, Zluth gathered his war party and slid away, one eye fixed on the barrier behind him.

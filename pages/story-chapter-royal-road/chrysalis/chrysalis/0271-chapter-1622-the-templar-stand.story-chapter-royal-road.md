@@ -1,0 +1,97 @@
+---
+id: 6bd9a76f-196b-5719-bfbf-d8019fea5607
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1622 - The Templar Stand"
+slug: 0271-chapter-1622-the-templar-stand
+partOf: chrysalis
+position: 271
+ownLength: 891
+unit: words
+ownProgress: 891
+publishedAt: 2025-08-13
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2513804/chapter-1622-the-templar-stand"
+royalRoadId: "2513804"
+markedReadAt: "2026-06-29T19:52:29.175Z"
+---
+
+Soon after the Immortals somehow ran into the air on a golden road, they started coming back down again. Not particularly gently, either. With enemies gripped in their mandibles, the armour-clad ants are literally dragging their opponents to the floor of the heart, crashing into the liquid mana with tremendous force and holding their victims down as the purified energy breaks them down.
+
+Honestly, if the liquid hadn't risen so high, I think the fall would have been enough to bring the enemies and the Immortals to a rather messy end. In fact, I suspect that might have been the point. More than one of the ‘victorious’ ants can be seen grumbling as they pick themselves up and start scaling the walls of the heart, no easy feat with all that armour weighing them down.
+
+I’m starting to get genuinely worried one of them might fall on me, and I'm in no position to get out of the way. With so much of my focus on trying to halt the spread of the toxin within me, I don’t have the attention to spare for dodging. I’ll just have to hope they’re careful enough not to squish me along with themselves.
+
+Then again… my carapace might be enough to withstand the impact, the gravity compressed diamond is no joke.
+
+Neither is my wrath, which I will unleash on the first ant who lands on me!
+
+Or… uh… what? What the heck was that?
+
+A sense of unease stirs in me as I wonder where on Pangera that stray thought came from. Is… was that Dark Anthony? Has he stirred from his restless slumber?
+
+I search inside myself, but I don’t see any trace of Dark Anthony, no evidence that he’s taken over at all. That’s… that’s not a good thing.
+
+“I don’t want to alarm anyone, but a strange and unfriendly thought popped into my head a moment ago,” I tell the healers.
+
+“That shouldn’t be possible,” one of them snaps, latching her antennae onto my head. “The corruption hasn’t gone anywhere near your brains, nor your core. How could it be affecting your thoughts?”
+
+“I don’t know! Either I’m just really angry and wanting to chomp my own siblings, which has never happened before, or the toxin is getting to me!”
+
+“This is a problem….”
+
+“Really?!”
+
+I don’t want to become sludge Anthony, sludge Anthony is a massive jerk and probably leaks mucus out of his eyeballs. No thanks!
+
+“We might have to move you back to the fortress immediately,” the healers tell me.
+
+“Is that really a good idea? At least I’m swimming in cleansed mana here, almost literally.”
+
+I can tell it’s having a positive effect on me. The little bits of Ancient Goop that clung to my carapace have been purified now, which means no more corrupt mana is getting into me. Honestly, digging a hole in my carapace and pouring the stuff inside me might do the trick, but I’m a little worried my organs won’t hold if dunked in such purified mana.
+
+“You might… be right,” the healer sighs, still poking and prodding at me.
+
+Honestly, the situation isn’t looking too promising right now. We’re managing to hold our ground, but we aren’t pushing the toxin back. In fact, if Protectant hadn’t taken some of the infection away, I might well be toasted already.
+
+I hope she’s doing alright, her and the others.
+
+So I can crunch them myself!
+
+Ohhhhh no. Newp. Don’t like that at all.
+
+A mass of darkness shifts above me and, to my surprise, the six Templars step out onto my carapace.
+
+“Where the heck did you come from?” I ask them. “And should you even be here?! This is dangerous!”
+
+Alis stamps her foot, on my back, mind you.
+
+“Everywhere you go is dangerous! Aren’t we supposed to protect you? You saved me… so you can’t complain when the situation is reversed.”
+
+Well… that’s fair, I suppose.
+
+“Yes, alright, but I wasn’t talking about the battle, I was talking about the concentration of mana in here.”
+
+I don’t need to point to the liquid mana still literally raining down around us. If a regular human were to touch the stuff… I don’t think it will go well for them. Very quickly.
+
+“The toxin is hurting you spiritually,” Jern says, seemingly ignoring my concerns. “It isn’t affecting the Nave right now, but we can feel it. It’s changing you.”
+
+Well great. I guess that explains the twisted impulses I’ve started getting.
+
+“Is… is there anything you guys can do to help me with that?” I ask, a little reluctantly.
+
+I’m supposed to be the one putting myself on the line to save others, not the other way around!
+
+It’s Bertram who answers.
+
+“I think so. A few of us are going to have to stay in contact with you. Not all of us have the exact same Skills, so we can’t all do the job. That frees up some of us for winning the battle.”
+
+“You’re going to fight?”
+
+The older man blinks, scratching at his stubbled cheek.
+
+“Well, not me. Or Alis. But the rest can.”
+
+The kids?! Ah, heck.
+
+They’re glaring at me too, they know what I’m thinking. I’ll need to tread carefully, otherwise they’ll start guilting me into more things.
+
+“Just… try not to get hurt,” I sigh.

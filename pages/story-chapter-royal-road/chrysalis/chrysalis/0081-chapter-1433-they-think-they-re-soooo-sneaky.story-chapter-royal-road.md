@@ -1,0 +1,71 @@
+---
+id: 7661b424-0db1-5738-b21f-5158fd9c2c65
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1433 - They Think They’re Soooo Sneaky"
+slug: 0081-chapter-1433-they-think-they-re-soooo-sneaky
+partOf: chrysalis
+position: 81
+ownLength: 1036
+unit: words
+ownProgress: 1036
+publishedAt: 2024-10-17
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1854040/chapter-1433-they-think-theyre-soooo-sneaky"
+royalRoadId: "1854040"
+markedReadAt: "2026-06-29T19:46:24.291Z"
+---
+
+Sadly, that encounter was only the beginning of my Krath concerns. I start to see signs of them everywhere I look. Slime trails on the walls, but when I try to follow them, there’s a little crack they’ve slithered into, which inevitably launches poisonous spikes, or clouds of toxic gas. There was one which just erupted with a massive font of sludge that blasted fifty metres past my head after I dodged out of the way.
+
+So, they’re being tricky. Hey, fine. You want to lead me into these stupid traps? I can just ignore the slime trails. I’ve got stuff to do anyway.
+
+The next time I spy one of the half-hidden trails, I pay it no mind and keep moving forward, chomping on the monsters that rush forward the moment they spot me. It doesn't take the Krath long to figure out that I’m no longer willing to play their game, which just means that they move to the next one.
+
+As I creep forward, my antennae start tingling almost constantly and I can feel tiny eddies in the gravitational field around me as they slither about, but it’s really tricky to pin them down. Unlike most monsters down here, who have a rudimentary sort of cunning at best when confronting an outsider such as myself, the Krath are extremely cautious. I can feel just how cautious they are. They move, then freeze, then move again after I pay attention elsewhere. No two ever seem to be moving at the same time, and they are impossible to find just by looking. Somehow they always find something to blend in with. I’m telling you, chameleons have nothing on these damn slugs!
+
+They must have some sort of mottled outer skin or something. Unless there’s an eyestalk sticking out, I can’t see a darn thing.
+
+Which is when they start launching things at me.
+
+I’m monitoring changes in mana like a hawk who can see mana, but they aren’t doing anything magical, they just start shooting stuff at me. The first is a spike that I manage to dodge before it can lodge in my side. Next is a potent blast of acid that I jump out of the way of. When it hits the floor, it starts melting straight through the rock, vanishing into the darkness right before my eyes.
+
+Oi! You stupid slugs! Someone could really get hurt from that!
+
+But I choose not to retaliate, I’ve got a ton of tunnel to cover, and if I chase these pests, they’re just going to slither down into a hole somewhere and vanish. Despite what a massive pain in the thorax they’re being, I will persevere!
+
+Which, of course, just means that they crank it up a notch. Two start firing at once, or three, or they shoot more than one projectile at a time. It becomes impossible for me to properly dodge, even with my foresight, simply due to the sheer size of my body and the clever ways they aim their shots. Which means I have to take more active measures, putting up shields or blasting their shots away with force or air magic.
+
+The natural consequence is that my mental attention is further fractured. I’m constantly paying attention to my antennae, to the mana around me, preparing shields and other countermeasures, all of which is weakening my efforts to purge the invasive mana from myself!
+
+Stupid slugs!
+
+I’m fine for now, but if this goes on too much longer, it’s going to become an issue. I half heartedly start shooting back at them, since I have the mana ready to go anyway. Blades of concentrated air slice outwards every now and again, trying to catch them when I sense movement, but if I hit anything, I don’t get any sign, and as if in retaliation, their attacks intensify.
+
+More spikes (where do they even get them from?), more acid, more everything, until it becomes a near endless barrage and I’m forced to commit even more of my mental resources to fending them off! It’s a nightmare!
+
+At least it would be, if this wasn’t part of my master plan.
+
+It’s not easy to whip together a gravity well while concealing the expenditure of mana. In fact, it’s extremely difficult. I’m certain signs of the building power leaked out, but by then they were so occupied by poking at me that I don’t think they noticed.
+
+And crucially, they let their guard down, and drew a little bit too close.
+
+Eat gravity, suckers!
+
+GWEHEHEHEHEHEH!
+
+With an enormous outrush of power, the well forms above me, and all of a sudden, up becomes down and down becomes up. Naturally, I expect this, and manage to flip over gracefully before I land on the roof. Once I do, I crank the force of the gravity up to eleven… hundred.
+
+Oh, they’re moving now. In fact, I can actually see one! The slug is desperately clinging to the ground as it tries to creep out of the range of my gravity well.
+
+What’s the matter, little slug? Don’t you feel like firing some acid at me? Or a spike, perchance? I clack my mandibles, filled with evil glee as I seize this moment to pay them back for all the pain they’ve caused me over the last few hours!
+
+Better move quick, you darn slugs! If you lose your grip, I promise things won’t get any better for you up on the roof!
+
+In the end, I manage to catch two. The one who I saw earlier, and one other who tried to hold out in the mould, but was ultimately betrayed by their hiding place, since it weakened their grip.
+
+Both slugs are ripped up to the ceiling and pressed into the surface. They flatten themselves down and try to escape the field, but it’s no use. Filled with thoughts of vengeance I approach the two slugs, but, predictably, they do not give me the satisfaction.
+
+Both detonate and melt away before I get a chance to chomp.
+
+Absolutely crazy. I let the well dissipate and land heavily back on the floor of the cavern and continue my patrol.
+
+I am not bothered any further.

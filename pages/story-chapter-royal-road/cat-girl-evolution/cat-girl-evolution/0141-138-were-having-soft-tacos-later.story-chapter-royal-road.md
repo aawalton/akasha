@@ -1,0 +1,251 @@
+---
+id: 0ecf3da4-c0d4-5cb1-98bd-d3373725094e
+page-type-slug: story-chapter-royal-road
+title: "138 - We're Having Soft Tacos Later!"
+slug: 0141-138-were-having-soft-tacos-later
+partOf: cat-girl-evolution
+position: 141
+ownLength: 2873
+unit: words
+publishedAt: 2026-07-15
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3678986/138-were-having-soft-tacos-later"
+royalRoadId: "3678986"
+---
+
+Our next attempt at mango habanero salsa doesn’t go much better than the previous one, but it is enough to get me a few more levels in Automated Cook, and it also gets me that last little Proficiency bonus I needed for Mana Infusion, so I can upgrade that as well. And as soon as we finish taste testing the latest batch and decide to take a break, that’s exactly what I do.
+
+[ Upgrades available for Mana Infusion: ]
+
+[ Greater Mana Infusion ]
+
+[ Precise Mana Infusion ]
+
+[ Greater Precise Mana Infusion ]
+
+[ Detailed Mana Infusion ]
+
+[ Greater Detailed Mana Infusion ]
+
+[ Precise Detailed Mana Infusion ]
+
+[ Automated Mana Infusion ]
+
+[ Precise Automated Mana Infusion ]
+
+[ Detailed Automated Mana Infusion ]
+
+“Huh,” I say aloud.
+
+“What is it?” asks Lauren, who is currently leaning against the counter.
+
+“Five of my Skill Upgrade options are underlined.”
+
+“Really?” she asks, leaning forward. “What are they?”
+
+“Greater Precise Mana Infusion, Greater Detailed Mana Infusion, Precise Detailed Mana Infusion, Precise Automated Mana Infusion, and Detailed Automated Mana Infusion.”
+
+“And you’re coming from just regular Mana Infusion?”
+
+“Yeah.”
+
+“Interesting. I’ve heard of it, but I’ve never actually seen it myself. Those five options are all two tiers above the base Mana Infusion, which is why they’re underlined. You’re basically skipping a step by choosing them.”
+
+“Oh. Nice.”
+
+“For this specifically, Greater Detailed Mana Infusion will be best.”
+
+“Ew.”
+
+“Ew?”
+
+“It has ‘Greater’ in it.”
+
+Lauren rolls her eyes. “Well, how else would you want them to indicate it’s better than regular Detailed Mana Infusion?”
+
+“I dunno. A number? A letter? Sure, just calling it ‘Detailed Mana Infusion 2’ isn’t creative, but it’s better than the false creative ‘Greater.’ It’s an extra syllable and it sounds lamer.”
+
+“Well, it’s still the best. You really don’t need the Precise part–” She gives me a dirty look “–and Automated doesn’t really help us at all here. Though, it might be better for your ultimate goals of having your cooking done automatically? It depends. You can always stick Automated on with the next upgrade, and if we’re gonna be cooking with more Delicacies, I’m sure it won’t be long before you get the next Skill Upgrade.
+
+“But Detailed will give you a better sense for the specific aspects of each ingredient, and allow you to selectively infuse them, which is the best for what we want to do. And if the future Delicacies are on a similar level to this one, we’ll need that then, too. I’m actually planning on grabbing Detailed next time I get an upgrade for Mana Infusion, which should be soon. So, yeah, Greater Detailed is the best for our purposes here.”
+
+“I guess.”
+
+I rub my chin as I stare at my options. I really don’t want to pick a Skill with “Greater” in it. The System forcing me into Greater Blink is one thing, but actually choosing a Skill like that is a whole different thing. It’s like by voluntarily taking a Skill that’s named like that, I’m giving in to their terrible naming sense.
+
+But Lauren also has a point. We discovered during this cooking session that, to Lauren’s immense jealousy, I don’t really need any more precision. Apparently, a big part of being precise is just being able to sense what you’re doing, and Food Sense handles that all for me. The not-a-mango is food, my mana is food, and I can sense them all perfectly. Sure, my mana control isn’t quite as refined as hers yet, but it’s not that far off, and as long as I go slowly, I can actually be more precise than her.
+
+And as for Detailed, it does indeed sound useful. We had a very mild amount of success in the last attempt trying something similar. Since none of us could really sense what parts of each ingredient did what, we couldn’t do a proper Detailed infusion attempt, but I know that most of the capsaicin is stored in the pepper seeds, so we were able to give them a bit of extra oomph in the last batch. The fruit was still a little overpowering, but there was a stronger kick to the salsa, so it definitely worked.
+
+But I really don’t want to choose Greater, so I guess Detailed Automated–
+
+“Hold on.”
+
+What?
+
+“Automated doesn’t do what you think it does.”
+
+It doesn’t let me automatically infuse mana without putting any brainpower into it?
+
+“Well, it does do that, but–”
+
+Then I choose–
+
+“Wait!”
+
+Ughhh, what is it?
+
+“You need to manually set the infusion patterns.”
+
+Like I have to do with Anatomical Blueprints?
+
+“Yes, exactly.”
+
+That’s fine. I choose!
+
+“WAIT!!”
+
+I’m this close to summoning you here and rubbing habanero juice in your eyes.
+
+“Automated Mana Infusion is faulty.”
+
+Faulty how?
+
+“Okay, imagine you have a pepper. You detect all capsaicin in the seeds, and deliberately infuse them with more mana than the rest of it. Each seed has a little more mana, and the mana is concentrated specifically in the capsaicin. This works well, and you save the infusion pattern to use on the next pepper. However, the next pepper is shaped differently, has a different number of seeds, and the seeds are in slightly different places in the pepper. How do you think the Automated Mana Infusion will handle this?”
+
+Based on your tone of voice, poorly?
+
+“Correct. It will still work, and it will be consistent, but it will have reduced efficiency, which leads to reduced quality. Automated is a modifier that is usually chosen by cooks and chefs who need to cook large volumes of roughly similar dishes. The quality is lower, but it makes up for it with consistency and reduction of mental strain. If you want your dishes to be of supremely high quality, the Automated modifier will hinder you.”
+
+So you’re saying that the Automated modifier trades quality for convenience?
+
+“Precisely.”
+
+Hmmm… Is there any way to get around that? Like, another modifier that helps it maintain its quality while still being automated?
+
+“I believe so, but it is a couple upgrades away. I personally recommend Greater Detailed Mana Infusion for now.”
+
+But is the loss in quality really that much? I mean, I need to eat a lot of food. I can handle a slight dip in quality for automation.
+
+“But you already have Lauren, so do you really need that?”
+
+Well, maybe she can be the one I go to for high quality food, and I use myself for high quantity food.
+
+“But what if you and Lauren aren’t always together?”
+
+Are you suggesting my minion would abandon me?
+
+“Surely you’ve noticed it, though. Your growth rate compared to hers. She is skilled, yes, and fairly talented, but you’re a Named monster with a Sin Trait. Every level of yours is easier than every level of hers, and worth more to boot. You’ve already surpassed her in combat power. It won’t be long before she provides too little value in battle to be useful.”
+
+She can still cook for me. I’m not gonna abandon my minion.
+
+“She’s an Adventurer first, and a chef second. Will she be satisfied as a tagalong with you?”
+
+Well–
+
+“And what about her and Chad? What if they want to settle down? Will you get in the way of that?”
+
+I glance over at Lauren, who’s idly twirling a knife between her fingers. Abby’s right about her abilities. She’s good… but she’s definitely starting to fall behind, and she’s gonna keep falling behind in the future. Chad too. I think the twins should be able to keep up, just since their hyper-specialization helps them punch above their weight class, but Lauren and Chad…
+
+…Shit, Abby, you might be right. But I can still just find a new minion to cook for me.
+
+“Chefs who can work well with Delicacy-level ingredients are few and far between, and are likely to already be established with their own restaurants.”
+
+Well, you can just make me a high level chef here in my Dungeon.
+
+“High level, yes. Specialized, no. You’ve noticed by now that James’s Class and Skills are all the most basic of basic, right?”
+
+Well, I did think he was a bit lackluster for a palace chef…
+
+“That’s because I can’t give him any more exotic Skills. Story Dungeons can have more varied characters and Skills, but for Challenge Dungeons, it’s a lot more restricted. The level of the homunculi is more freeform, but their Skills and abilities are tied to the level of the Dungeon, and making a chef of that caliber would require us to kill quite a few more monsters or people in here to level the Dungeon further. If you want a quantity-focused chef, I can make one quite easily, but for quality… You get the picture.”
+
+Damn. You really know how to kill the mood.
+
+“Look on the bright side. This is actually way better than automating your own Skills. Even if you went all in on the automated path with constructs, it’d be years before you reach the level of being able to just sit back, relax, and let your constructs cook you high quality meals. This way, on the other hand, you can just tell me to start cooking while you’re doing something else, and by the time you get in here, the food will be ready.”
+
+Hmmm… You raise a good point.
+
+“On top of that, raising the level of a Profession focused on automation requires a lot of hours just making dish after dish. A Profession focused on supreme quality will level up faster just by cooking with high quality ingredients, which you seem to be acquiring in abundance.”
+
+That’s true.
+
+“Plus, good food tastes better when you make it yourself.”
+
+Eh, that’s debatable. But I think you’re right about the other stuff.
+
+“Of course I am.”
+
+Is there a way to get rid of the “Greater” thingy after I upgrade it?
+
+“Yes.”
+
+And it’s not just gonna upgrade to “Greatest,” right?
+
+“No, the System doesn’t like absolutes like that. It will upgrade to ‘Superior.’”
+
+Dammit, that’s only marginally better.
+
+“Would you like to file another ticket about the System’s poor naming sense?”
+
+Yes.
+
+“Done. Now, are you gonna pick the Skill.”
+
+…Fineee. I choose Greater Detailed Mana Infusion.
+
+[ Mana Infusion has been upgraded to Greater Detailed Mana Infusion! ]
+
+[ Greater Detailed Mana Infusion: Infuse mana into food with an great eye for specific aspects of the food. Proficiency: Early. Includes Skills: Mana Infusion, Detailed Mana Infusion ]
+
+I sigh aloud, which makes Lauren pay attention to me again.
+
+“Still struggling?” she asks.
+
+“No,” I say. “It’s just that my Royal Status Window has been irreversibly tainted, and there’s nothing I can do about it.”
+
+“Well, we all have to deal with things we don’t like.
+
+“Princesses don’t.”
+
+“Well, too bad we’re not in your kingdom.”
+
+“Yeah… Anyway, I got the Skill Upgrade, so let’s see if we can get this salsa working.”
+
+“Right,” says Lauren, bouncing off the counter and turning around as new ingredients appear on it.
+
+Just like all the previous times, we quickly cut up all the ingredients, making sure to keep the maligar fruit completely separate from the rest. We found in the second attempt that even the aroma can infuse a bit of its flavor into the other ingredients, so we make sure to keep it sealed away until the right time.
+
+Then, we start infusing mana. James and Lauren do the initial infusion, saturating the tomatoes and peppers with as much mana as they can hold, then they pass them over to me for the detailed mana infusion. Their own mana infusion is already pretty good, sticking to the established ‘mana tunnels’ within each ingredient. I didn’t even realize such things existed, but apparently all living things have them, and infusing mana in line with them produces much better results than just flooding the thing with mana.
+
+But the mana tunnels aren’t good enough for this. They enhance the flavor more than an unguided mana infusion would, but compared to the maligar fruit’s natural mana, it’s nothing. We could always just reduce the concentration of maligar fruit even further, but all three of us agreed to at least try it this way first. If we put too little to the point that ordinary ingredients can match its flavor, it ceases to be a Delicacy. We can’t make the fruit ordinary. We instead have to make the other ingredients extraordinary.
+
+I focus my newly-upgraded Skill on the tomatoes, quickly locating a few points of interest. Unfortunately, the Skill doesn’t quite tell me what they do, so it takes a few bits of experimentation to figure out exactly what enhancing each one does. I could try to enhance it all, but it’s better to get a feel for what the flavors are, I think, in case we want to make some variations in the future.
+
+I soon figure out how to increase the sweetness and acidity, as well as a few less obvious enhancements. It’s not quite as simple as that, since enhancing each one has some unintended consequences on the overall balance, and how the other flavors interact, but for now, I just concentrate the mana in all of it. This reduces the overall mana concentration in the general flesh of the tomato, so a moment later, Lauren reaches over to top it off, creating what is easily the strongest tomato yet.
+
+We repeat the process for all the tomatoes, then the peppers, garlic, onions, and even the cilantro and salt. The salt infusion doesn’t feel all that useful, but whatever.
+
+Lauren and James take over for the next part, which involves some roasting and precise temperature control that I’m not quite ready for yet, but they always call me in to mess with the mana infusion as the food cooks, so I can make sure the ingredients stay potent as they combine and cook.
+
+Finally, it’s time to add the maligar fruit in. We use the same one tenth quantity that we used last time. Little enough that it’s not too overpowering, but enough that we don’t lose the potency that comes with it being a Delicacy. This is the trickiest part for me, as even while Lauren stirs, I have to continue my mana infusion, making sure to avoid the maligar fruit as much as possible, so I don’t boost it any more.
+
+At the end of the long, and slightly stressful process, the three of us stand around in silence, staring at the new bowl of salsa. It doesn’t look any different from the previous attempts. It arguably doesn’t even feel any different from the previous attempts. There’s a little bit more mana in it, but not enough to say that this is definitely a success.
+
+We all share a glance, then at the same time, reach for a chip and dip it in. I do a silent count, then nod at the two of them, tilt my head back, and toss the chip in.
+
+The flavor immediately explodes in my mouth, and this time, it’s not only the maligar fruit. I can taste the spiciness of the habanero, as well as their slight sweetness. The sweetness is still lost a bit amongst the fruit’s sweetness, but it’s there, and it’s distinct. I can taste the savoriness of the garlic, and I even detect a hint of salt, though it’s very weak.
+
+It’s delicious, but flawed. I can taste all the individual flavors, but the harmony isn’t quite there. It’s not bad, but I can tell there’s still much room for improvement. And looking at the faces of the other two, they seem to feel the same.
+
+“I think I see where we’re going with this,” says Lauren before swallowing. “Now that I can taste the flavors better, I can see how they might work together. But we’re gonna need to modify the recipe a little bit. I think more garlic, and maybe a couple other herbs and spices. Let me see what I have in my bag…”
+
+“Yes, I agree,” says James. “This is not a combination I had ever considered, but it’s not bad. I think we can make this work. Though it will have to be some fish to be able to compete, flavor-wise.”
+
+“Oh, it is,” I say with a smile. “We might need to give it a bit of a mana infusion, but I can assure you, it’s very good.”
+
+“We should actually cook a bit of it up right now,” says Lauren without looking up. “So we can tailor the salsa to it better.”
+
+“Good idea,” says James.
+
+I peek into my Stomach, looking at the remains of Skarn. I’ve barely touched him, but somehow, his body feels a lot smaller than it used to. I know that this is what’s best, but losing his meat is going to be a true tragedy. Once we master this salsa recipe, I’m afraid he won’t last much longer…
+
+But that’s a price I’m willing to pay. And I’m sure Skarn would be happy too. This is much better than he deserved.

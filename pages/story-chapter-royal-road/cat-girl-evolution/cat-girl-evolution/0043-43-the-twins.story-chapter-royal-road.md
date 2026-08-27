@@ -1,0 +1,345 @@
+---
+id: fe2cfea4-15a2-5ee7-894f-646e5c4215ba
+page-type-slug: story-chapter-royal-road
+title: "43 - The Twins"
+slug: 0043-43-the-twins
+partOf: cat-girl-evolution
+position: 43
+ownLength: 2774
+unit: words
+publishedAt: 2025-10-31
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2718684/43-the-twins"
+royalRoadId: "2718684"
+---
+
+At first, the twins seem pretty normal. They’re identical girls—well, women, since they’re 21, but they’re younger than me, so that makes them girls—and they wear big billowy robes with big witch hats. They’re pretty, I guess (though not as pretty as me), and with natural platinum blonde hair and gray eyes so pale they look silver, they make a pretty strong first impression.
+
+“My name is Ammasherayalothonathara,” says one whose namecard says she is an Advanced Artillery Mage.
+
+“And I am Berthariklesionasthitara,” says the other, an Advanced Barrier Mage.
+
+“We just call them A and B,” offers Lauren. “Or the twins.”
+
+“Yes, we don’t mind,” says A. “Please feel free to do the same.”
+
+“I am definitely going to do that then,” I say.
+
+For the next few minutes, we don’t interact anymore as we load up our things onto the wagon that Guildmaster Pike prepared for us. Even on the wagon, we remain silent for a bit until the horses pick up the pace to a gallop as we exit the city. Despite the speed, the ride is surprisingly smooth due to some kind of magical suspension system on the wheels. Shortly after we get up to speed, they finally start talking.
+
+“So you’re a beastperson?” says A.
+
+“Yes, I am,” I confirm.
+
+“Do you find that you prefer your meat raw, as a beast would, or cooked in the human fashion?”
+
+“Cooked, obviously.”
+
+“Do you have a tail?” asks B.
+
+“Yes,” I say, flicking it up slightly from under my dress.
+
+“Does your tail make you wish that human society had never developed clothing?”
+
+I glance at Lauren, who avoids eye contact. I try Chad, but he also looks away. I look back at the twins, and while their faces are expressionless, I can tell they’re eager for my answer.
+
+“Well, human clothes definitely weren’t made for me,” I say.
+
+It’s true. Underwear is not comfortable when you have a tail.
+
+“Maybe you should have thought of that-”
+
+Didn’t ask. Don’t care.
+
+“Interesting,” says B.
+
+“I have heard that there are variants of beast people who possess more animalistic features, including a full coat of fur,” says A. “If you were one of these, would you still choose to wear clothes?”
+
+“Yes. I wouldn’t just run around naked. I’m not insane.”
+
+“I see,” says A.
+
+“You are of the house cat variety, correct?” asks B.
+
+“Yes,” I say.
+
+“As house cats are the smallest and weakest cats, do you sometimes find yourself wishing that you were of a more powerful subspecies, such as tiger or sabercat?”
+
+I scoff. “Why would I want to be that? House cats are the best kind of cat.”
+
+“Fascinating.”
+
+“If you were cursed, and could no longer be a house cat variety beast person, which variety would you choose?” asks A.
+
+“Black-footed Cat.”
+
+“I’m afraid I’m not familiar with that variety.”
+
+“It’s a house cat, but wild.”
+
+“I see.”
+
+B opens her mouth to ask something else, but I cut her off. I think that if I let them keep going, they will just ask questions forever.
+
+“What about you?” I ask. “If you had to be a beast person, what variety would you choose?”
+
+“Armadillo,” says A immediately.
+
+“Bandicoot,” says B.
+
+“Why those?”
+
+“Armadillos are adorable,” says A.
+
+“Bandicoots are adorable,” says B.
+
+“And you didn’t just choose those animals because their names start with A and B?”
+
+They stare at me for a second.
+
+“I didn’t realize,” they say simultaneously.
+
+I’m pretty sure they’re messing with me. In fact, I’m 99% sure they’re messing with me. But their faces are so perfectly neutral that it’s impossible to tell. Either way, I kind of like these two. They’re pretty funny.
+
+“Would the other beastpeople of your tribe agree with the answers you’ve given so far?” asks A.
+
+“I don’t know.”
+
+“Does the house cat tribe fear the canine tribes?” asks B.
+
+“No? Why would we?”
+
+“Why did you choose to become a Mana Vivitect?” asks A.
+
+“Why did you choose to become an Artillery Mage?”
+
+“I like destroying things from far away.”
+
+“I like making mana limbs do things for me while I sit back and relax.”
+
+“I see.”
+
+“What is your favorite color?” asks B.
+
+“Green.”
+
+“Would you prefer if your hair and fur was green in addition to your eyes?”
+
+“No.”
+
+“Do you bathe yourself with your tongue?” asks A.
+
+“No.”
+
+“Why not?”
+
+“I don’t want to. Do you always ask this many questions to people you first meet?”
+
+“No, they usually ask us to stop by now. Are you going to ask us to stop now too?”
+
+“No, probably not.”
+
+This is kind of fun, actually.
+
+“Then if you had to pick any other Class unrelated to Vivitecture, what would you pick?” asks B.
+
+Hmmm, that one’s actually a tricky one. I definitely like vivitecture, but I wonder what I would have picked if I wasn’t pressed for time like I was back on the island. Definitely a mage Class because magic is cool. Maybe a fire mage. Blowing stuff up is fun. I should work on that. I haven’t had much opportunity, and poor Ember is still sitting at Middle Proficiency. I bet I could upgrade it to Fireball or something pretty easily.
+
+“It would be first Fireburst, then Fireball.”
+
+Whatever. I should work on that. Explosions are cool.
+
+“Then you should answer with Pyromancer. Though Space Mage would also be a good choice for you. Teleporting and holding food in extradimensional space and whatnot.”
+
+True, but with fire, I can cook food.
+
+“Yes, but you can get fire magic for cooking from your Profession.”
+
+Good point.
+
+“Space mage,” I finally say.
+
+“Space?” says B. “You have a Spatial Affinity?”
+
+“Yes.”
+
+“Would you specialize in a specific type of spatial magic, or try to be an all-rounder?”
+
+Abby, what’s best?
+
+“Storage, translocation, and offense are the three main specializations of spatial magic. You use all three quite regularly, so an all-rounder would suit you.”
+
+“All-rounder,” I say. “If you could pick anything besides your current Classes, what would you pick?”
+
+“Barrier Mage,” says A.
+
+“Artillery Mage,” says B.
+
+“Other than those,” I say, rolling my eyes.
+
+They’re definitely messing with me.
+
+“Aeromancer,” says A.
+
+“Geomancer,” says B.
+
+“Air and Earth magic?”
+
+“Yes. If you could have any other affinities, which would you choose?”
+
+The conversation continues on for hours, with me and the twins going back and forth, asking more and more hypotheticals. I think I would normally be annoyed by something like this, but for some reason, I find it amusing instead. I’m also curious to see how long the twins will go on before they get tired of the bit and drop it. Unfortunately, I don’t find that limit. I start getting sleepy, and I have to stop for a nap.
+
+Throughout the whole conversation, neither Lauren nor Chad says a word. They do keep exchanging glances though whenever the twins or I bring up a particularly ridiculous question. Once, I even see them make a series of facial expressions at each other, having an entire nonverbal conversation in the middle of the verbal conversation between me and the twins. They’re definitely made for each other.
+
+When I wake up, we’ve arrived at our destination for the night. It’s an inn in a medium-sized town with a Tier 3 chef in charge of the kitchen. This is where I learn that Lauren’s Profession is also Tier 3, because the food they make here is about as good as hers. That makes me wonder why her Profession is so high. It’s almost as high as her Class level, if I’m not mistaken. That seems a little weird for an Adventurer. Though I guess she did mention that she was basically the strongest Adventurer in Riverfork, so she probably ran out of Class levels to grind and had no choice. Either way, that works out well for me, since I get to enjoy this quality food every day with her as my minion.
+
+Over dinner, the twins and I resume our conversation, though this time, it turns to food.
+
+“As a cat beast person, do you find that you prefer meat to vegetables more than an ordinary human might?” asks A before putting a large bite of beef stew into her mouth.
+
+“I think that even if I was a human, I would prefer meat to vegetables more than an ordinary human would. Not that I don’t like a good veggie dish. But vegetables are, and always will be, secondary to meat.”
+
+“I agree,” she replies.
+
+“Me as well,” says B. “What is your favorite kind of meat?”
+
+“Including seafood?”
+
+“Yes.”
+
+“Scallops.”
+
+“What about excluding seafood?” asks A.
+
+“I had hippopotamus once. It was divine.”
+
+“Hippopotamus?”
+
+“A river animal. Big. Round. Muscular. Huge mouth and strong jaws. Perfectly marbled meat that melts in your mouth.”
+
+“I think that I’ve heard of those,” says Lauren. “But there are none here. They only live on the mainland.”
+
+“Fascinating,” says A. “I would like to try hippopotamus.”
+
+“Me too,” I say. “I haven’t had that in a while.”
+
+Abby, add it to the list!
+
+“What list?”
+
+The list of foods I’m going to eat. I’m going to go to the mainland and find a hippo Named monster and eat it.
+
+“...Alright, I will make a new memo in the notes section, which exists, by the way, and is easier to use than asking me to do it.”
+
+Oh, something like that really exists? Great! Abby, add scallops, and a scallop Named monster to the list too.
+
+“...Alright, though I doubt you’ll be able to find a scallop Named monster. Named monsters are rare, and scallops so rarely evolve beyond ordinary scallops that the odds of finding a scallop Named are astronomical.”
+
+I’ll find one anyway, even if I have to make it myself.
+
+“Good luck with that.”
+
+“What, in your opinion, is the best way to cook meat?” asks B.
+
+“I don’t know. I just eat whatever the chefs make. Scallops are best pan-seared though, and I think the hippo I ate was grilled. What are your favorite meats, and what do you think the best ways to cook them are?”
+
+The conversation about food continues the whole meal. This time, Lauren actually chimes in occasionally, since as a relatively high-level cook, she has a lot to contribute. I try to keep the conversation going as long as possible, once again testing the twins’ limits, but unfortunately, I still don’t find it before Lauren announces that we need to go to bed so we can get an early start tomorrow.
+
+The next day, we talk a lot again. The twins ask questions. I answer. I ask questions. They answer. I don’t think I’ve ever had any conversations this long, and yet somehow, it doesn’t get boring. The twins seem to know how to keep me on my toes with their questions, throwing in weird twists to otherwise normal lines of questioning to spice things up. I reciprocate, and in the process, I think both sides learn a lot about each other, all of it utterly useless tidbits.
+
+On this night though, we don’t stay in a village. Since we’re in a rush on an Emergency Quest, we don’t have time to plan a proper travel route, so this day of riding unfortunately left us in between two towns at nightfall meaning that we need to make camp. Fortunately, with Lauren, the food is still excellent. Not as good as kitchen food, but way better than trail rations have any right to be.
+
+After dinner, as we set up camp, I ask the twins an interesting new question.
+
+“If you two fought, who would win?”
+
+They look at each other, and though their faces don’t change, it feels like they’re having a telepathic conversation.
+
+“It would be a stalemate,” says A, turning back to me. “I can’t penetrate her defenses.”
+
+“And I have no attack spells,” says B.
+
+“I see,” I say. “So you two are kind of stuck together.”
+
+“We’re stronger together than apart,” says A.
+
+“What if Lauren and Chad fought? Who would win?”
+
+A few feet away, Lauren and Chad both pause in the middle of setting up their tents (on opposite sides of the camp, of course).
+
+“Neither,” say both twins immediately.
+
+“They wouldn’t hurt each other,” says A.
+
+Lauren and Chad both get back to their business, but as I glance over, both their ears are slightly red. Or maybe that’s just the firelight.
+
+Also, this is another reason I like the twins. We haven’t spent too much time on the topic, but it appears that they both agree with me that Lauren and Chad belong together. Both I and they have made a few comments about it. Not enough to get Lauren or Chad to say anything about it, but enough to make them squirm a little. It’s funny.
+
+“What if they were forced?” I ask.
+
+“Depends on terrain,” says A. “If it’s an arena, Chad wins.”
+
+“If it’s in a forest like this, Lauren wins,” says B. “Lauren is an assassin. Chad is a vanguard.”
+
+“Chad wins in a head-to-head fight,” says A. “Lauren wins if she can sneak up on him.”
+
+“Makes sense.”
+
+“You are Platinum, correct?” asks B.
+
+“My badge is only Gold, but I’m basically a Platinum.”
+
+“What would happen if we fought?” asks A. “Us two versus you?”
+
+“I would win, of course.”
+
+“Why?”
+
+“Because I’m me.”
+
+“I see. Would you like to test that theory?”
+
+“What?”
+
+She reaches into the spatial bag at her waist and pulls out a small brass pin that’s loaded with a shit ton of mana. Way more than my entire mana pool.
+
+“What is that?” I ask.
+
+“A protection pin,” she replies. “Made by our teacher. They can protect from a single attack up to low Mithril. Designed to allow full power duels without risk of death.”
+
+“Would you like to duel with us?” asks B.
+
+“I don’t know if this is a good idea,” says Lauren, walking up next to us.
+
+“We only know about her abilities in concept,” says A. “And it is the same for her about us. In order to work best together, we should have more firsthand experience with each others’ abilities.”
+
+“It’s for the sake of the Quest,” says B. “In order to save lives, we need to be able to cooperate efficiently. This is the best way to increase that efficiency.”
+
+Lauren looks hesitant. The twins, on the other hand, are showing an emotion for the first time. It’s very faint, but their eyes are slightly wider than usual, and their bodies are tense, ready to spring into action. They’re eager to fight.
+
+And you know what? I am too. This sounds fun. I’ve been wondering how my abilities stack up against people who have actually trained for a long time. My fight with Pike didn’t last very long, but it left me wanting more. This is the perfect opportunity.
+
+“I agree,” I say. “How can I trust them if I don’t know exactly what they can do?”
+
+“It will be fine,” says A. “These pins will keep us safe. And there are no other people around. We will only cause some minor ecological devastation.”
+
+“Alright, fine,” says Lauren. “But we need to get moving early in the morning, so make sure you don’t wear yourselves out or get injured.”
+
+“Of course,” says A before turning to me. “Take this.”
+
+I accept the pin from her and pin it to my shirt. As soon as it’s on, a thin wave of mana surrounds me like a second layer of skin. It feels very weird. And very strong. What the heck level is the twins’ teacher at to be able to create something like this? At least Tier 5, right?
+
+“At least,” agrees Abby. “Possibly Tier 6.”
+
+Woah. I wonder what I’ll be able to do when I’m that level.
+
+“Let’s go,” says A, standing up and turning to walk deeper into the woods.
+
+B is tapping her foot on the ground impatiently as well. They both have identical pins on already. Their faces are still mostly unreadable, but if it wasn’t clear before, it’s obvious now: They love to fight. And they think they can beat me. Obviously, they’re wrong. I need to put them in their place.
+
+“Minion,” I say, standing up with my hands on my hips. “Prepare us a post-duel snack.”
+
+“What?” says Lauren. “But-”
+
+“No buts. There’d better be some tasty meat ready when I return.”
+
+And with that, I follow the twins off into the forest.

@@ -1,0 +1,61 @@
+---
+id: c5fa95cd-0e0a-58fd-9dad-97b3beca5ed3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1379 - Slug Strife"
+slug: 0026-chapter-1379-slug-strife
+partOf: chrysalis
+position: 26
+ownLength: 900
+unit: words
+ownProgress: 900
+publishedAt: 2024-07-26
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1732355/chapter-1379-slug-strife"
+royalRoadId: "1732355"
+markedReadAt: "2026-06-29T19:44:29.010Z"
+---
+
+Ah, the fifth. Such a lovely place to be. I mean, the acid isn’t all that enjoyable, but what this stratum lacks in good atmosphere, it makes up for with hospitality.
+
+A disgusting, bloated lobster comes running at me, its eyes boiling with rage, and hissing globs of unspeakable goo bubbling up from its carapace so fast the monster leaves a thick trail of ooze behind it.
+
+I mean, what do I even do? I don’t want to bite the thing. If I actually manage to hurt it, my mandibles will probably melt off. Its claws don’t seem any more appealing than the rest of it. It has four, because of course it does, and the pincers look more like mouths than anything else, each of them streaming virulent yellow bile.
+
+Let’s just say, it isn’t the kind of fight I really look forward to.
+
+Gravity Bomb!
+
+A smaller bomb rips into space and howls toward the offending monster. Unthinking, the beast runs straight into the spell and vanishes as the bomb expands to consume whatever it can.
+
+The lobster screams and rattles, and for a moment, I can see it flailing wildly, bits and pieces pushing out of the void, but only for brief instants, until the spell eventually winks out and the lobster, now missing a large chunk of itself, slumps down defeated. Yeesh. I’m having to do this more and more as time passes. That monster was almost the same size as I am, so it can’t have been too low of a tier, which means I would have loved to get my mandibles on the core.
+
+But these darn things are all so toxic. If I let them anywhere near the safe-zone, they start spraying goop all over the place like they’re firefighters trying to hose down a petrol station before it can explode. Even one of them can put a serious dent in the good work the wuffers have been doing, setting all of us back hours, if not more.
+
+Speaking of wuffers, they’ve been doing good work. I cast my eyes about, but I don’t see any more major threats for the time being, which gives me a little time to check myself over, and inspect the work the Colony has been doing.
+
+Which is a lot. The wuffer zone has now been expanded to include a brand new zone, the two separated by several hundred metres. There’s all sorts of fancy shenanigans going on between the two packs of wuffers, channels dug into the floor of the tunnel to move both toxic and pure mana from one side to the other. I’m not sure how it all works, I certainly wasn’t the one to do the math, but it seems to be working well, and it won’t be long before the two separate bubbles of purified mana connect in the middle.
+
+When that happens, we’ll have a long stretch of tunnel that has no toxic mana in it whatsoever.
+
+I have to say, I’m super impressed at how well it’s all working. The thinkers in the Colony have really outdone themselves on this one. I know the idea is to use these ‘nodes’ of wuffers in strategic positions to support each other and maintain the clean mana zone, so this is the test run to see how the current designs on these connections will perform. Of course, the usual ants are there, closely monitoring the situation, taking down numbers on their pheromone slates and checking that things are working as intended.
+
+The main bottleneck I can see is our wuffer count. No way we can maintain a whole pack of five hundred wuffers at every section. I have no idea what cores these little globs are made of, but we can’t have an unlimited supply of them. Which means we need to get them to evolve and hope we can do more with less.
+
+“How’s it going out there, Eldest?” Brendant calls out to me, her pheromones somewhat fuzzy. “Can you continue?”
+
+“For a little while,” I respond, “but I’ll need a break in around ten minutes.”
+
+I flip the majority of my mind-constructs over to cleansing my internal mana, breaking down the infections as fast as possible. It’s a never ending battle, since no matter how much I remove, more will always come in. While I’m at it, I trip my regeneration gland and feel a brief moment of relief as the ice cold fluid rushes throughout my body, concentrating in my carapace and joints as it repairs the damage done by the acidic mana.
+
+Only by constantly refreshing my regeneration gland and washing the fatigue from my minds via the Vestibule am I able to remain out here for as long as I do. Endless stamina and regeneration really do come in handy.
+
+Just as I ready myself to intercept another large monster rushing forward, one of my antennae twitches.
+
+I swear I just sensed something….
+
+Another gravity bomb explodes into reality, flying toward the offending monster, a snail with four acid-spitting heads, and I turn my attention toward the mucous river. Just for a second, I registered a little something in here, I swear. Something… odious.
+
+I wander over to the edge and look down into the slowly flowing, bright yellow sludge.
+
+Which is when thick tendrils burst out of the surface and try to enfold me.
+
+Ah, a trap.

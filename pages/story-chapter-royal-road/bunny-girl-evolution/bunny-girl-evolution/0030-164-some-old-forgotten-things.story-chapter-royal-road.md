@@ -1,0 +1,194 @@
+---
+id: b7e8ebff-e1d3-51f5-898a-ca4ab914858c
+page-type-slug: story-chapter-royal-road
+title: "164 - Some Old Forgotten Things"
+partOf: bunny-girl-evolution
+position: 30
+ownLength: 2811
+unit: words
+ownProgress: 2811
+publishedAt: 2026-01-17
+link: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/2951301/164-some-old-forgotten-things"
+royalRoadId: "2951301"
+markedReadAt: "2026-06-29T20:03:37.787Z"
+---
+
+Elise undid {Subtle Royalty}, and immediately, the floodgates opened. It was like a dam had been broken, and her aether spilled out into the room, forming a dense cloud of energy around her. It was only stopped by the four walls of the room and by Jessie’s own aether. The two aethers did not clash, but Jessie’s did seem to pull back, allowing Elise’s to have more space. With both of their auras now fully unleashed, Elise could see that she had been a little generous in her initial estimates. Jessie did indeed have a lot of aether, but it was still well below what Elise had at her disposal.
+
+Jessie’s eyes widened as Elise let her aether loose, and she even took a step back in surprise.
+
+“Holy shit,” she muttered.
+
+Elise couldn’t help but feel a little bit of pride at that reaction. Even if it was not really her own accomplishment, being at the top of her field felt good.
+
+While Jessie marveled at Elise’s aether, another thought crossed her mind.
+
+Does a Saintess have higher social status than the princess of the fey?
+
+It only took her a few seconds to realize that was a stupid question. {Subtle Royalty} only worked on those of lower social status, so the fact that Jessie hadn’t noticed Elise’s aether proved that she had the higher status. Still, she found that odd. Jessie was technically the chosen of her goddess, just like Elise was. Was it the “princess” title that Elise had? Or was it the fact that her position was baked into her very species, while Jessie’s was only a Class? Did Titania have a higher divine status than Lucena? That one couldn’t be true because Titania herself told Elise that she was a young goddess, and she was pretty sure Lucena was one of the oldest.
+
+Whatever the case, it was an interesting thing to note, and it also had Elise curious about how {Royal Presence} would work. She had gotten to test it out a bit when she had gone to dinner disguised as an Ainar when she was with Oberon, but that was really only one time, and she hadn’t gotten to use her royal Skills much at all. She didn’t dare test them on the Grays so as not to draw Irylax’s ire, and she didn’t dare use it in Aetheric Illusions in order to keep her identity hidden.
+
+Jessie, however, was different. Since they were both from Earth, they already knew a lot of each others’ secrets, and since she didn’t have a dragon backing her, Elise had less to worry about with angering people. There was, of course, the goddess Lucena, but as long as she wasn’t doing anything sinister, she hoped the goddess of Light wouldn’t interfere.
+
+“Hey, Jessie, do you mind if I try something really quick?”
+
+“Sure. What is it?”
+
+“I’ve got a presence Skill that I haven’t gotten much chance to mess with. I’m gonna activate it. Can you tell me how it feels?”
+
+“Sure.”
+
+“Alright. Here it goes.”
+
+Elise activated {Royal Presence} and Jessie’s eyes widened once again. Elise herself didn’t feel the Skill, but she felt its effects. Her aether changed, becoming more intense, and the connection between her and Jessie was reinforced. She could also sense Jessie’s emotions, and felt her go from surprise and curiosity to shock, awe, and reverence. She even averted her gaze, as if now afraid to make eye contact with Elise.
+
+“Wow,” said Jessie. “That is… intense. I feel kinda the same way I feel when Lucena contacts me. Like I’m in the presence of something on a different level of existence. But it’s not quite as extreme. I guess instead of existence, it’s more like social status. Like I’m not allowed to talk to you because we’re from different castes.”
+
+“But you can resist it, right?”
+
+“Yeah. I mean, I can feel a tiny urge to bow down, but I’m not gonna do it.”
+
+“Can you try to look me in the eyes?”
+
+Jessie looked like she was struggling internally for a moment, then shifted her gaze back to Elise’s face. Oddly, when she did, Elise felt the awe and reverence vanish, replaced by stubborn defiance.
+
+“For some reason, I kinda dislike you now,” said Jessie.
+
+That makes sense, actually, she thought.
+
+Not everyone viewed nobility the same way. Sure, most viewed them as a higher social class, but there were plenty of rebels who thought of them more negatively than positively. They were not people to be respected, but despised. They wanted to rise up against the nobles, not keep their heads down and hope they passed them by. The description of the Skill corroborated that too. “Let the peasants know who’s boss,” wasn’t the most clear, but she could imagine that “letting the peasants know who’s boss” in a group of rebels or anarchists would earn more hostility than respect.
+
+So, when Jessie stubbornly willed herself to ignore the intended feeling of reverence and looked Elise in the eye, the Skill flipped. Now, Jessie saw herself on equal footing, which meant that Elise’s attempts to put herself above Jessie were unpleasant. This was a very important discovery, and Elise was very happy she had done this test before relying on the Skill. Accidentally provoking someone or something she was trying to cow would be bad.
+
+She disabled the Skill and felt Jessie’s emotions settle back down to normal. As that happened, many questions raced through her head. Was this phenomenon unique to {Royal Presence}, or did it affect all her “royal” Skills? Would {Royal Decree} fail to work on someone who held disdain for royalty? How would it affect mindless monsters who had no concept of royalty? Was her {Subtle Royalty} Skill secretly failing to work on certain people as she walked around?
+
+She had no way to answer those questions at the moment, but she filed them away for future reference. She would need to be a bit more observant as she walked around to make sure it was working as she had previously assumed it worked, and when she got her Dungeon Pass, she would need to do some experiments on the monsters within.
+
+“What Skill was that?” asked Jessie.
+
+“{Royal Presence},” replied Elise.
+
+“{Royal Presence}? Does that mean you’re a princess?”
+
+“Technically.”
+
+“What do you mean, technically?”
+
+“I mean that the king of Corunia made me a princess as a joke.”
+
+“What kind of joke makes someone a princess?”
+
+“The kind of joke that an immortal fey who wants nothing more than entertainment would make.”
+
+“...The king of Corunia is a fey?”
+
+“I think he always has been. As in, it’s always been the same fey pretending to be his own child and things like that.”
+
+“But didn’t Corunia have a big mess a couple hundred years ago where a group of rebels killed the tyrannical king and took over the country?”
+
+“...I’m gonna be honest, I don’t know as much history as I should, but that does sound like something that he’d do. He was probably both the old king and the new king in that rebellion.”
+
+Jessie just stared for a few moments before laughing out loud.
+
+“That’s hilarious,” she said. “How does he do it? Does he have clones or something?”
+
+“Yes.”
+
+“Yeah, that makes sense. Wait, how do you even know all this.”
+
+“I… trained under him for a couple months.”
+
+“Why?”
+
+“Because he thought it would be fun or something. I honestly don’t know, but he invited me, and I accepted. By the way, I’m pretty sure this is all supposed to be secret, so don’t go telling anyone.”
+
+“I won’t. But wait, so you’re literally a princess?”
+
+“I won’t ever actually inherit anything,” said Elise. “He’s the king, and he’s also the first, second, and third in line for the throne. Unless someone somehow manages to kill him, It’s impossible for me to actually have any power.”
+
+“That’s still pretty crazy though,” said Jessie. “Especially since you get that presence Skill. I’ve felt a few other presence Skills when nobles come to the church, but none of them were anywhere near as intense as that.”
+
+“Well, that’s probably mostly because of how much aether I have. Also, wait, you felt the other presence Skills?”
+
+“Yeah? Should I not have?”
+
+“Well, they’re only supposed to work on people of lower social status, but I’d think that the Saintess would have higher social status than most nobility. I guess not…”
+
+“Oh, that’s probably because I’m a peasant,” explained Jesse. “I think I actually did hear something about that, and the Saintess title is technically a religious station, not a social station, so it’s not affected by social status. And the body I inhabited when I got here was the body of a commoner, so I am a commoner.”
+
+“Ah, I see. Wait, inhabited? That body’s not yours?”
+
+“Ha! I wish. No, I was shorter and pretty overweight before. Stress eating from med school, y’know? This body belonged to an orphan raised by the church who happened to have the same name as me. She died from falling off a parapet while fleeing a lustful young merchant or something like that. I didn’t really find out until a little while later, and the man who did it is already sentenced to life in prison. Regardless though, when I woke up, they all started saying it was a miracle and that I was the Saintess and then I worked as the Saintess for a year and a half and now I’m here.
+
+“It’s not really bad though. As much as I like to complain about being stuck in the church, I basically got exactly what I asked for. I should have known it would come with a twist like this. That offer was way too good to be true.”
+
+“What offer?”
+
+“You know, the ‘your life was too short, so we’re giving you an opportunity to live again. Just tell us what you want to do and we’ll make it happen’ offer.”
+
+“...I never got that,” said Elise. “Wait, so you chose to be the Saintess?”
+
+“Well, no, but I did say that I wanted to help heal people, since, y’know, I never got to actually be a doctor. But wait, you didn’t get that?”
+
+“No. I just died, and then I woke up in a forest as a rabbit.”
+
+“Damn, that sucks,” said Jessie. “Maybe you just got unlucky? Or maybe I got lucky?”
+
+Elise tried to think back to her last moments on Earth and her first moments in this new world. At the time, she had just assumed she died of a caffeine overdose, and with all the chaos of her first few days as a rabbit, she never really stopped to think too much harder about it, and that settled into her mind as the “truth.” But was that really the truth?
+
+She had definitely been drinking too much caffeine on the last night she remembered. Between her classes and her part time job, she didn’t have as much time to study as she should have, and tried to make up for it with an all-nighter before the test. She remembered drinking her ninth—or was it tenth?— cup of espresso, then diving back into her notes, and after that, it was all hazy. Was that the overdose? Or was there a portion of her memories missing?
+
+She might have been inclined to agree with Jessie’s theory that Elise had been unlucky, or that Jessie had been lucky, but there was something else that stopped her. Something that Maggie had said months ago.
+
+“How much do you remember?” she had asked. “After you died. Before you were born.”
+
+There was definitely something that she had somehow forgotten. But what? Had she asked for something, and it got misinterpreted and had her put into the body of a rabbit? What could she possibly have asked for that would get her dropped into a monster-filled forest as a rabbit?
+
+“Elise?”
+
+Elise flinched, realizing she had gotten lost in thought mid-conversation.
+
+“Sorry,” she said. “I just— Whenever you see Maggie next, can you tell her that I want to talk to her?”
+
+“Yeah, sure,” said Jessie, frowning. “What’s up?”
+
+“It’s just something she said once,” said Elise. “About what happened after I died. I can’t remember anything happening in between dying and waking up here… but I think she might know something.”
+
+“I see,” said Jessie. “Yeah, Maggie knows a lot. I’ll let her know next time she’s around.”
+
+“Thanks.”
+
+The two were silent for a few seconds until Jessie finally broke it.
+
+“So… You mentioned earlier that the Rune of Fate is gonna morph into something else, right?”
+
+“Yeah,” said Elise. “It's based on your own personality and tendencies and desires. It should be happening to you pretty soon. At least, your aether feels a lot more settled than mine does, so I bet your soul is doing alright. You’ve also had longer to adjust than me.”
+
+“Yeah,” said Jessie. “Mine’ll probably be something to do with healing. I mean, it’s basically all I do, and I really don’t mind it. It would make sense. What about you?”
+
+“I… don’t know,” said Elise. “My soul is an absolute mess right now. I’m trying to fix it, but it’s like carving a statue out of a block of stone. It’s difficult, tedious, and I barely have any idea what I’m doing. I think I kind of know what direction I want to go though? Something to do with self control. Having control of my own life. Freedom? Yeah, freedom sounds right. Or independence. It’s still really vague though…”
+
+“Hmmm, independence. I wouldn’t mind some of that. Maybe mine’ll be that instead too, since I’ve been craving it so much. Being a Saintess is cool, but being a wandering healer sounds more fun. Oh, speaking of wandering healers, have you ever read the Fifth Signet?”
+
+“Oh yeah!”
+
+From there the conversation turned to books, and then later other Earth media, and what started as a random tangent ended up lasting nearly an hour, and when they realized the time, it was well past sunset, and even from her room, Elise could sense Jessie’s guards’ impatience. Jessie did not have Elise’s Skill, but she didn’t need it to know that she needed to leave. They had not finished their conversation, but they had plenty of time to do so later, so neither were too worried.
+
+“Can I come over again tomorrow night?” asked Jessie after she changed back into her original dress.
+
+“Ye– Wait no,” said Elise. “I’ve got something else going on tomorrow night. I’m heading into the Dungeon with a professor to see if I can get my entry pass.”
+
+“Aww, lucky.”
+
+“But the night after that, yes. And I’ll see if I can get you some more casual clothes before then.”
+
+“Oh, that would be amazing,” said Jessie. “Well, I’m sure my guards are annoyed enough right now, so I’ll be heading off. Thanks for everything!”
+
+Elise escorted Jessie back downstairs, joined the Grays as Jessie bid farewell and thanked them for their hospitality, then left with her two grumpy guards who had somehow already summoned a carriage for her.
+
+With her gone, Elise had a barrage of questions from Nick and Bianca about how she had befriended the Saintess to answer before she was finally able to return to her room alone. The conversation with Jessie had given her a lot to think about, and those thoughts occupied her mind as she did her usual soul meditation routine. She did not find any answers in her own mind, nor did she feel she got any closer, but she did find some peace in knowing that it didn’t really matter, at least at the moment. Perhaps what she had forgotten was important, but important or not, it didn’t really change what she had to do now. Not when she couldn’t remember it.
+
+Her sleep was a little bit less restful that night than it had been, but she did not have any nightmares, and by the morning, her mental state had returned to normal. Her classes went by without incident that day. The only thing of note that happened was Jessie informing her that Maggie was out on a discreet mission at the moment, and she did not know when the paladin would return. It was a bit disappointing, but by now, Elise was used to important people in her life disappearing for long periods of time, so it didn’t really bother her.
+
+After her classes finished, she joined Sophie for their usual walk back to the house, ate a hearty dinner, then changed her clothes into something practical and returned to campus so she could meet Professor Sucri and enter the Dungeon.

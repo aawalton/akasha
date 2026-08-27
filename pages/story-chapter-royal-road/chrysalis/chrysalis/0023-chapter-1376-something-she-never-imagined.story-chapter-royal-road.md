@@ -1,0 +1,89 @@
+---
+id: fe8dac65-651f-581a-a3af-36a6d01d1c05
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1376 - Something She Never Imagined"
+slug: 0023-chapter-1376-something-she-never-imagined
+partOf: chrysalis
+position: 23
+ownLength: 1037
+unit: words
+ownProgress: 1037
+publishedAt: 2024-07-23
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1728614/chapter-1376-something-she-never-imagined"
+royalRoadId: "1728614"
+markedReadAt: "2026-06-29T19:44:23.260Z"
+---
+
+Morrelia gripped the hilts of her dual blades tight, but knew she wouldn’t get the opportunity to use them. Ants were watching her at all times, and she’d been instructed not to participate and throw off their carefully laid plans. The Colony moved with incredible efficiency, every member knowing where they needed to be at any given moment. On the surface, it looked like chaos, giant insects crawling all over each other, working here and there, carrying, moulding, enchanting, digging, but when she followed a single ant, there was always a purpose to their movements.
+
+In almost no time at all, the… oddly innocent-looking ‘wuffers’ had been installed inside a formation, channels were dug, and a steady flow of fifth stratum mana was being fed to them. It was remarkable looking at them. The creatures seemed to be completely immune to the toxifying effect of the mana, absorbing a constant stream of it and releasing a dense, blue, cleansed energy in its place.
+
+All the while, they wobbled back and forth and released those short chuffing noises from which she assumed the Colony had derived their names.
+
+They were… oddly compelling. She found it difficult to tear her eyes away from them, but she forced herself to. There were more important things to focus on at the moment.
+
+[Are those creatures really unaffected by the mana of the fifth?] she demanded of Anthony.
+
+Not because she was concerned for their safety, she simply wanted to know.
+
+[The wuffers? I don’t know, I didn’t design them. I’d have to ask Ellie or Bella. Probably after we complete this mission, they’ll be monitored and checked for wear and tear.]
+
+The giant ant was resting now after running wild out in the poisonous atmosphere of the fifth. Without him fighting off dozens of monsters by himself, it would have been impossible for the Colony to establish such an effective beachhead so quickly.
+
+[And how badly are you affected?] she asked him.
+
+[Who, me? Oh, it sucks. The acid burns me constantly, I have to regenerate myself all the time or else my joints will dissolve to nothing. The mana invades at every opportunity and I have to keep it away from my core, but it seeps into my body anyway and starts eating me from the inside out. Bottom line? I hate it.]
+
+The Legionary chuckled at his frank dislike for the environment in which he found himself. It wasn’t all that surprising. She’d been out there herself and had heard stories of what even a second of exposure would do to a human.
+
+“What’s so amusing, tribune?” Marcus asked her.
+
+For a moment, she’d almost forgotten that they were there. Marcus and Greyson, her fellow Legionaries who had come a lot further and stayed a lot longer than they’d expected when first embarking on this trip. Neither of the two seemed all that comfortable here in the fifth, eyeing the surroundings with more than a little wariness.
+
+“I was amused to note that the ants are struggling just as much as we do when entering the fifth,” she told them a half-truth. “Though I believe you two haven’t trained here before.”
+
+“That’s right, tribune,” Greyson noted. “I have to say, I’m not sure yet if this stratum is living up to its reputation.”
+
+Now that made Morrelia laugh out loud, a short and sharp bark of rough amusement.
+
+“I take it I’ve made an ignorant comment, tribune,” Greyson said.
+
+“Yes,” she agreed, “you have.”
+
+She gestured to the bubble of safety in which they were currently standing.
+
+“If you were to step outside of this blue mana for a few seconds, you would be dead. No if’s, no but’s, no healing, no saving you. The mana of the fifth is self-propagating. Once it gets a hold, it’ll make more of itself until it takes over your body and eats you from the inside out.”
+
+She gestured toward Anthony, who now had a full pack of little ants crawling over him which he tried to poke away with his antennae, but they seemed inordinately skilled at dodging them.
+
+“Even this monster, able to survive out there for an extended period, has to be checked to make sure not a speck of native mana remains.”
+
+The cries of beasts were becoming more and more common. Squelching roars from the distance, echoing up the tunnel toward the fortified ant position.
+
+Anthony sighed loudly in her mind.
+
+[Time to get back to it, I suppose. The natives here are going to run at us non-stop until we leave. Try to keep your head down for the moment. We’ll be setting up a separate node of wuffers soon, and that should mean a bit more space in the safe-zone for you to move around in.]
+
+The giant monster levered himself up onto his legs, sending the smaller ants scuttling, several of them appearing to whack him on the carapace with their legs or mandibles.
+
+[Are they… are they hitting you?] she asked.
+
+[What? Oh, the healers. Yep. I don’t know what happened, but the healers are almost universally bad-tempered.]
+
+[Did you wait until they were finished treating you?]
+
+[No.]
+
+[Do you think that made them angry?] she asked, a little flabbergasted.
+
+[Probably, but I had Invidia check me out and he says I’m clear.]
+
+[Why not explain that to them?]
+
+[This is funnier. Off I go!]
+
+Morrelia watched him rush out of the protected area, vowing to treat the Legion medical staff better when she returned. Perhaps now she could understand why they were so constantly frustrated.
+
+It wasn’t only Anthony heading back out into the fray. Tiny, Crinis and Invidia, Anthony’s other pets, also stepped up and became more active, blasting back the raging monsters as they rushed forward. The rage of the fifth stratum born monsters was a sight to behold. Morrelia felt as if she were in a wave as she watched them throw themselves against the ants with mindless violence.
+
+Only when she noticed how they spewed thick bile, or sprayed clods of mucus, rich with toxic mana, as they died, did she realise what was happening. The fifth did not want to be conquered, and it started fighting back.

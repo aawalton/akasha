@@ -1,0 +1,193 @@
+---
+id: 86e5154d-8ea7-5273-95b7-09d01265fc5b
+page-type-slug: story-chapter-royal-road
+title: "141 - The Pre-Paparazzi"
+slug: 0144-141-the-pre-paparazzi
+partOf: cat-girl-evolution
+position: 144
+ownLength: 2464
+unit: words
+publishedAt: 2026-07-22
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3709523/141-the-pre-paparazzi"
+royalRoadId: "3709523"
+---
+
+“Don’t you dare start listing out curse words and slurs.”
+
+What?! Why not? How else will we find out Poddy’s real name?
+
+“We won’t because he’ll never confirm it.”
+
+And? It’s still fun to guess.
+
+“For you maybe. Besides, you don’t have time. Lauren’s trying to get your attention.”
+
+Huh? Oh.
+
+“Are you talking to Abby again?”
+
+“Maybe.”
+
+“Does she have anything important to tell us?”
+
+“Yes. She wants us to try to guess Poddy’s real name.”
+
+Lauren rolls her eyes. “Right. Anyway, we’re about to exit. Are you ready? You remember our story, right?”
+
+“Do you think I’m stupid.”
+
+Lauren stares at me.
+
+“Okay, yeah, yeah, I remember our story. I’m ready. Let’s get this over with.”
+
+“Okay, good. The Dungeon Core has no interest in feet.”
+
+The Annoying Yellow Box flashes in front of my face, confirming that we have completed the Floor, and a second later, my surroundings turn black as we exit the Dungeon. I half-expect to get taken aside by Buttercup so she can gloat about the “choker” that she gave me that I am now wearing, but that does not happen. I just appear back outside with the others.
+
+The people waiting to question us outside are a lot less obnoxious than I was worried they’d be. I mean, there are still a buttload of them, and they’re all shouting questions at us, but someone who is very smart and who I will gladly donate some maligar salsa to decided to set up a perimeter to keep them from crowding around us.
+
+Once we’re out, we all stop for a moment to take in our surroundings and maybe strike a pose or two to show off the fits, then walk toward the opening in the crowd that was clearly designed for us to walk through. There are a few people standing in this opening, but they are visibly more important than the others. One of them, I recognize, so I know his status, and for the others, their Namecards show multiple question marks on their levels, meaning they are at least Tier 5 in whatever level they are displaying.
+
+If I was a gambler, I’d be willing to bet that those are the people we actually have to talk to, and the rest are just paparazzi and curious bystanders.
+
+“What do you mean ‘if’?? You literally just basically bet your life on 6% odds two weeks ago.”
+
+That wasn’t a gamble.
+
+“How was that not a gamble? And don’t say–”
+
+Because I’m the Chosen One.
+
+“No!”
+
+Also, wouldn’t it have been fine? I could have just picked the Dungeon up at the end of the 15 days and we could have left.
+
+“I have no idea if it would have worked like that, and I’m glad we didn’t have to find out.”
+
+I bet it would have been fine.
+
+“There you go gambling again.”
+
+Shut up.
+
+When we reach the group standing in the opening, one of them steps out in front of the others. It’s an older woman with gray hair and a stern expression, and she’s wearing a very formal-looking outfit, with some badges and medals and things that I don’t recognize, but look very impressive.
+
+[ Royal Inspector, lvl ??? ]
+
+Her Namecard has three question marks, so she has to be Tier 6, and that’s in her Profession. A damn Royal Inspector Profession too. How many things did she have to royally inspect to get it that high? And what level is her Class? I think I probably shouldn’t mess with her too much.
+
+“Jeanne, Royal Inspector,” she says, nodding toward Lauren, who is standing slightly further forward than everyone else as our designated speaker. Her voice is as hoarse, and as stern as her expression. “I’m going to need you all to answer some questions about what happened.”
+
+“Of course,” says Lauren. “We’d be happy to.”
+
+“Good,” says the woman. “These others will sit in as well, at least for the main part. I will need to speak with Yona separately and in private, however.”
+
+Oh, that can’t be good.
+
+“Am I in trouble?” I ask.
+
+“That depends on how the talk goes,” says the woman with a straight face. “Now, you’ve already wasted enough of my time dithering in Maligar for so long. Let’s not waste any more. Follow me.”
+
+She turns and starts walking without waiting for a response. One of the other important people—a young-ish man with the Adventurer’s Guild insignia embroidered on his chest—gives us an apologetic look, but no one else says anything. As we start walking, my attention turns to the one person in the group that I recognize—Fabio, the catboy, and my “cousin”—and he gives me a smile, but he doesn’t say anything. Not at first, at least.
+
+“Tap your finger on your leg three times if you can hear me,” says a high pitched voice in my ear after a few seconds.
+
+I glance around, looking for the source of the sound, then tap my leg as requested.
+
+“Good,” it says.
+
+This time, I locate the source, and surprisingly, it’s Fabio.
+
+“This is a technique to speak in a frequency that humans can’t hear, but we can. I will have to teach you how to do this later, but for now, just listen. This talk coming up with the inspector and the others is mostly a formality. They just need an official story to report. The Maligar Dungeon Core was quite insistent that you were the ones to resolve the incident, and no one has any reason to believe otherwise, so once they get the official story out of you, they’ll file their reports and be on their way.
+
+“The private talk afterward is not a formality. That one is serious, and you won’t be able to get out of it. But don’t worry. It won’t be too bad, either. I’ve already smoothed out the worst of it. To make it through safely, you just need to let her talk. Whatever you do, don’t lie to her. She can detect lies. Just let her talk, and she’ll explain everything, and you’ll be done.
+
+“Afterward, you and I are having dinner. I mentioned that I smoothed out the worst of it. That took quite a bit of politicking on my part, and while it worked out in the end, having to cover up for mistakes like the one you made was not part of our deal. I have no intention of breaking it off, but I’m going to want a favor in return. Don’t worry, it won’t be anything too bad, and the food at dinner will be delicious, but don’t even think about trying to get out of this, or else I’m going to tell Arianne.”
+
+I wait to see if he’s going to say anything else, but he doesn’t, which is annoying. He didn’t even tell me what I did! What could I have possibly done to deserve this?
+
+“Well–”
+
+Shut up, I wasn’t asking you.
+
+This is unfair! I’m so gonna eat his bed later! I can’t believe he threatened me with telling Arianne, too. Why would she get involved? And what even can she do? Sure, she’s strong, but it’s not like she’s gonna beat me up just ‘cause I didn’t go along with whatever he’s planning. This is clearly exploitation, and I won’t stand for it!
+
+Not long after Fabio finishes bragging about how he’s gonna exploit me, we arrive at one of the larger buildings in the external part of Maligar. I think it’s probably the mayor’s house, or something. Whatever it’s supposed to be usually, though, Jeanne has commandeered it, since it is currently empty, and she walks in the front door like she owns the place.
+
+We end up in a conference room, the five of us sitting on one end of a long table, and Jeanne and the others sitting on the opposite side. Jeanne starts by having all the others present introduce themselves.
+
+The first is the young man with the Adventurer’s Guild insignia. Apparently, he’s the head of all the Adventurer’s Guilds in the entire region. Meanwhile, the older guy next to him is the Maligar branch leader.
+
+The next person is a middle-aged, balding man who keeps shooting Jeanne dirty looks, and is apparently the mayor whose house was commandeered. In fact, he tries to make a big thing about welcoming us to his “humble” home during his introduction, but stops when Jeanne taps her finger on the table impatiently. Coward.
+
+We’ve already met Fabio, so he basically just says “hi,” and the last person somehow fell asleep before her introduction and has to be woken up to give her introduction.
+
+“Lacey,” she says with a yawn. “Adventurer’s Guild Investigator. Ari sent me. I also need to talk to Yona after this. Maybe not right after. How ‘bout tonight? ‘Kay, thanks.”
+
+And with that, she leans forward again and immediately falls back asleep. Jeanne glares daggers at her, and the regional Guild head gives her a nervous look, but she ignores them both. I notice that her namecard also has three question marks, just like Jeanne. I probably also shouldn’t mess with her.
+
+Once the others have introduced themselves, Jeanne launches into her questions, and Lauren takes the lead in answering them all. Most of the questions are confirming the details they learned from other sources, like the two undead survivors we let out. Since they got out and we didn’t make them sign any secrecy contracts or anything, there’s only so much we can twist things, but we at least manage to avoid mentioning the fact that I’m a monster, or that I have Gluttony. And thankfully, the undead that got out apparently did the same, since no one brings it up.
+
+For the Dungeon, apparently Lauren went out to talk with Poddy at some point, and we all agreed to say that the nested Dungeon was consumed by Maligar. We can’t hide the fact that we had a Dungeon to put in Joakim’s Dungeon, but the other two undead didn’t know I could move it, so we’re going to keep it that way. Officially, it’s just a Dungeon core that we had that we had to use in an emergency, feeding it to Annie, which happened to break her from Joakim’s control.
+
+We don’t lie about any of this, of course. Lauren is good at talking around things, saying things like “our friend at the Dungeon Core,” and “Annie sacrificed herself to save us” and other things that are technically true, but also unconnected to the mobile Dungeon. This seems to work—at least, no one calls us out—and at the end, Jeanne and the others thank us for our time, and everyone is dismissed from the room except Jeanne and Lacey, who is still asleep.
+
+“Ignore her,” says Jeanne, making me take my eyes off the sleeping woman. “She is allowed to remain for this part.”
+
+“Right,” I say. “So, what did you want to talk about?”
+
+I still don’t know what I could have done. I mean, maybe she’s gonna ask about me being a monster? Arianne said it wouldn’t be a problem, but maybe she was just talking about the Adventurer’s Guild. Maybe I have to sign some other kind of deal here. Or maybe it’s about me being a foreigner operating without a visa or something? Or maybe–
+
+“It has come to the attention of the Elyrian Inspectorate Division that you are in possession of a Vivitect Class. Is this true?”
+
+Huh? Oh. Ohhhhhhh.
+
+I completely forgot that was illegal. But how did she know?
+
+“…Yeah,” I say.
+
+“I understand that you may not be familiar with Elyrian customs, but the Vivitect Class is on our banned Class list. You need a permit to be allowed to use it.”
+
+I nod, and she continues.
+
+“Ordinarily, if someone was discovered to have used this Class without a permit, they would be arrested, and sentenced to a minimum of five years in prison. If they remained defiant, they may have been subjected to Class destruction as well.”
+
+“C– Class destruction?”
+
+“A painful process involving selectively destroying the soul to remove a Class. It leaves its victims crippled and unable to hold another Class ever again.”
+
+“Oh.”
+
+“But that’s only as a last resort. Usually, these people are given a provisional permit and released on probation. In your particular case, however, we will be doing none of those things. In light of your background, your status, and your contributions to Elyrian peace and safety, our gracious and benevolent ruler has decided to grant you mercy.”
+
+I let out a sigh of relief.
+
+“That does not mean that you are free to use the Class as you wish.”
+
+I unsigh.
+
+“For now, we will do nothing. For the next year, we will do nothing. But if you do not begin the process of earning your permit in that time, you will be arrested and subjected to all the ordinary consequences. And if I have any say in it, you will be subjected to additional consequences for ignoring this warning and our extremely generous terms. If it were up to me, I would send you straight to the capital to earn your permit right now at this very second.
+
+“Don’t take this for granted. And if you leave the country without earning your permit, and you fail to return before your year is up, you will not be allowed back in without heavy concessions. Do you understand?”
+
+“Yes, ma’am.”
+
+“Good. Then, we’re done here. You can deal with her on your own.”
+
+Jeanne gestures toward the slumbering Guild Investigator as she stands up, then marches out of the room, leaving the two of us alone. I glance at Lacey, wondering if I should wake her up, or if I should just let her sleep until tonight and have her come find me. Hmmmm…
+
+Outside the room, I sense Fabio waiting on the bottom floor, chatting with the others. He’s probably waiting for me. And he wants to exploit me for something that is in no way my fault. I should give him a piece of my mind. I can deal with Lacey later. Probably.
+
+I stand up, trying not to make any noise, and tiptoe towards the door, but freeze when I hear Lacey’s voice behind me. It’s muffled, because her head is still buried in her arms, but it’s clear enough I can hear it.
+
+“Midnight,” she says. “Fruit Dragon.”
+
+“Is the Fruit Dragon–?” I start.
+
+“Tavern,” she says.
+
+“…Alright, then. I will see you there.”
+
+She grunts in acknowledgement, then starts snoring. I walk out the door, and this time, she doesn’t stop me.
+
+Time to see what that exploitative catboy wants.

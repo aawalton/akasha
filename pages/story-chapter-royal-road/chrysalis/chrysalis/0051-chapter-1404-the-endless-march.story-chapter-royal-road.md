@@ -1,0 +1,65 @@
+---
+id: 7bc649aa-28fb-5cee-899f-a36ef858c162
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1404 - The Endless March"
+slug: 0051-chapter-1404-the-endless-march
+partOf: chrysalis
+position: 51
+ownLength: 1089
+unit: words
+ownProgress: 1089
+publishedAt: 2024-09-06
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1790235/chapter-1404-the-endless-march"
+royalRoadId: "1790235"
+markedReadAt: "2026-06-29T19:45:15.906Z"
+---
+
+A truly transparent effort. Zluth could have almost praised the Krath’lath for how blatant she was, but it was difficult when the treachery was aimed at him. He controlled the frothing rage that sizzled through his veins along with the acid. Before his departure, he’d exchanged a look with Goszi. So far, things were moving along the path the old Krath had envisioned.
+
+The Krath’lath was vulnerable, her initial plan a total failure. Now she was desperate, lashing out and ordering a full assault. If that too were to fail, then she would be toppled from her position and consumed. All he had to do was make sure he was there when it happened, so he could get himself a taste….
+
+Until then, he had to at least appear as if he was doing as he was commanded, otherwise his tribe would eat him for being so obviously disloyal. Which meant he had to go back and monitor the ants.
+
+Compressing himself, Zluth began by moving away from the ants’ point of ingress. Once he’d put some distance between them, he doubled back, using every trick he knew to mask his presence and trail. He’d almost been caught by these filthy ants before, and he couldn’t allow it to happen again.
+
+They’d been bringing in the wibbly abominations when he’d fled, which meant the area of blue mana would have expanded significantly. Calculating this, he re-entered the tunnel occupied by the enemy at what he believed to be a safe distance.
+
+It was not a safe distance.
+
+When he peeked his eye-stalks out into the open space, he was met with a wall of blue mana, oozing toward him and burning away the natural mould, moss and slime as it advanced. It was only metres away and filled with ants, bustling here and there.
+
+He snatched his eyes back into his hiding place and swiftly retreated, cursing internally. How had they advanced so far, so quickly? That point had been the very limit of the space they had filled with their corruption the last time they’d visited. Were they planning to expand it even further this time?
+
+Moving swiftly, he zipped through the narrow network of minor tunnels and emerged into a blooming patch of sickly, purple moss. Quickly mottling his flesh to match the pattern, he cautiously extended his eye stalks to peer down the tunnel.
+
+Yes, he had outpaced the ants, their poisonous mana was several hundred metres away now, but that didn’t mean he shouldn’t be cautious. Suppressing all signs of his presence, he flattened out his body and approached ever so slowly, using every crevice, patch of slime and mucus to hide his passage.
+
+As he drew closer, he became more and more disturbed by what he saw.
+
+There were so many ants. The last time they had come, there had been thousands of them. Industrious and swarming, they had filled the corrupted area of the tunnel, always in contact, always connected to each other. But this… this was absurd!
+
+The entire tunnel was ringed with them! On the roof, the walls and floor, many ranks deep. As the blue mana expanded, they advanced, powerful, larger-built ants in the front, smaller ones in the back. As they moved forward, they extended their pipe network at the same pace, new pieces laid down as quickly as the blue goop oozed forward. In the distance, Zluth could still see the tunnel entrance and the steady flow of ants moving through it. He watched as more and more came through, constantly expecting it to stop, or at least dwindle, but it never did.
+
+More ants came, more of the blue blobby monstrosities in a never ending stream until Zluth felt his eyes were about to pop on the end of his stalks. How many were coming through?! Already, they had to have reached more than ten thousand, and there were no signs of them slowing down!
+
+The mana advanced, and Zluth was forced to retreat, getting further from the entrance to the fourth as the ants expanded their control of the tunnel. It was all happening so fast, he couldn’t believe what he was seeing!
+
+He could see the ants already at work on another of the nodes he had witnessed before. Already completed plates of enchanted metal were brought forward just as the stone had finished being shaped. In minutes, it was all slotted together, with pipes extended from underneath into the channels that were already prepared. Soon, the pipe network had been connected and pushed out into the unclaimed territory. A few seconds later, a blobby mass of disgusting creatures arrived and was put in place, followed a few seconds later by the flow of fifth stratum mana through the channels. The dreadful monsters chuffed and wibbled as they were fed the mana of the fifth, happily consuming it and emitting the blue abomination around them.
+
+It had taken minutes. MINUTES!
+
+There was construction taking place further back as well; the ants were shaping, sculpting, reinforcing the stone, bringing down strange metal lattices and enchanted beams of glittering steel. With rising horror and rage, Zluth began to realise just what he was looking at.
+
+This was no test incursion, no practice run. This was the real thing. The ants felt they had learned what they needed to, and now… now they were moving in. None of this was temporary; they intended to stay!
+
+Anger and hate so pure it caused the acid to sizzle and pop in his veins flooded through Zluth, but he suppressed it just enough to avoid revealing his position. Not that his efforts at stealth seemed to matter. The ants were so preoccupied with their tasks they paid little mind to anything else. Any monster that attempted to challenge the wall of blue mana was set upon by hundreds and hundreds of ants. Without mercy or remorse, the insects piled onto any threat, using their numbers and overwhelming might to eliminate the threat in a matter of seconds.
+
+And still more were coming.
+
+It never stopped. It wasn’t going to stop.
+
+Zluth realised several things at once as he continued to back up the tunnel.
+
+First, the Krath’lath was going to fail. Even if she marshalled the entire tribe, it wasn’t going to be enough to dislodge these ants.
+
+Second, this incursion was going to send shockwaves through the entire fifth stratum. There would be a gathering of the tribes soon, and he was going to be there, as the new Krath’lath.

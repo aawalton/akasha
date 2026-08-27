@@ -1,0 +1,187 @@
+---
+id: b7a7f429-1fb8-581e-8e5a-6f0a1b6db462
+page-type-slug: story-chapter-royal-road
+title: "50: Chloe's First Mission"
+slug: 0050-50-chloes-first-mission
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 50
+ownLength: 2178
+unit: words
+publishedAt: 2025-10-10
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2665997/50-chloes-first-mission"
+royalRoadId: "2665997"
+---
+
+Chloe hadn’t cared about missions at all. Not even a little.
+
+That was, until Iris mentioned the whole brain reward thing. She wasn’t really sure why Iris was offering up brains, but Chloe wasn’t about to say no. Of course, she didn’t know if the brain would be good or not, but Iris was a guildmaster. That had to mean cool stuff… and maybe even cooler brains.
+
+“The special mission will involve you protecting someone on their journey. If you do this, you’ll be paid five hundred gold, as well as the additional brain I promised.” Iris explained.
+
+Chloe squinted suspiciously. “I mean, that sounds okay. But why are you pushing this on me? Don’t you have a bunch of people who can do missions like this?”
+
+“I do, but I need someone of the right rank. The A-rankers are already occupied, and at this moment, you are the only B-ranker available. Everyone else is C-rank or below, which I believe would not be suitable.”
+
+“Hmm. I dunno. What kinda brain are we talking about here? If it’s just, like, some random guy's brain, that’s kinda lame.”
+
+“Then perhaps it’s best if you see for yourself.”
+
+Iris reached into her desk and pulled out that smooth white mask again. As soon as she slipped it on, the weird endless mist pouring from her lips stopped as the air cleared right away.
+
+She stood up and swung a dark coat over her shoulders with a little flair. “Follow me, Chloe. You’ll see soon enough what sort of brain I mean.”
+
+Chloe tilted her head, then gave a little shrug. “Oh? Okay.”
+
+Iris walked ahead while Chloe skipped after her. They passed the usual stairs leading down to the basement, but Iris didn’t stop there.
+
+Instead, the guildmaster turned toward a narrow little stairwell Chloe had never noticed before. It looked squishy and dark, and the walls got closer the deeper they went.
+
+Chloe’s ears twitched, and she tilted her head again as she bounced after the taller woman. “Uh, where are we going? This place looks suuuper dark. Not that I mind! I love dark places.”
+
+“You’ll see soon enough,” Iris replied.
+
+The stairwell ended at a big heavy door, which looked like it had something important locked behind it. Iris pressed her palm flat against the surface and whispered something Chloe didn’t understand.
+
+A bunch of locks clanked, one after the other, and then the door creaked open with a groan. The room inside stretched long, lit by lanterns glowing a soft blue. Everything shimmered with a kind of weird, quiet magic.
+
+Chloe's eyes went comically wide, and she zipped forward before Iris could say anything. The walls were covered with shelves, all crammed with dusty books, glass jars full of mysterious gunk, and shiny stuff that glittered under the lanterns. Glowing tubes pulsed gently with strange liquids in colors she didn’t have names for.
+
+She nearly squished her face against one of the jars, grinning at the floating... thing inside. It had way too many eyeballs. “Whoooa! What is this place?!”
+
+Iris’s mask turned toward her with that unreadable stare. “This is my laboratory.”
+
+“Your labra... laby... labe-rat-tory? Huh? What even is that?”
+
+“A laboratory is where experiments are conducted. A place for research, study, and creation."
+
+“So it’s a big brain place? You must be super smart then, huh?”
+
+Iris chuckled as she walked deeper into the room. “I suppose that’s one way to put it.”
+
+Chloe, meanwhile, reached for a shiny scalpel lying temptingly on the table. Her fingers were inches away when Iris’s voice cut sharp through the air.
+
+“Do not touch too much, Chloe. Some of this is delicate.”
+
+Chloe froze mid-grab, grinning sheepishly. “Right, right. Totally wasn’t about to poke that sharp thing into the squishy thing. Nope."
+
+She walked along the shelves anyway, looking into jars and boxes. “Seriously though, how’d you get all this?"
+
+Iris passed Chloe and stopped at the far end of the room as she gestured. “That's a secret. And besides, there’s something far more important I want to show you.”
+
+Chloe trotted after her, still staring at the strange tubes. One of them bubbled, and she stuck her tongue out at it before catching up. What’s in there? Brain juice? Slime soup? Ooo, maybe both.
+
+After that, she skidded to a stop beside Iris, eyes going wide at the row of tall glass cases. Inside were creatures she had never seen before, well, except for the wolf. “Ha! I know that one! Wolfie!” Okay, maybe not Wolfie exactly, but close enough.
+
+Next to it was a bird with two heads. Weird. Do they argue with each other? Bet they fight over snacks all the time.
+
+Iris folded her arms, watching Chloe bounce with excitement. “I appreciate your enthusiasm, but please turn your attention here.”
+
+Chloe spun on her heel. “Oh, right, right.”
+
+Iris swept deeper into the laboratory as she stopped in front of three enormous black coffins lined neatly against the far wall. With a clap of her hands, all three creaked open at once.
+
+The first coffin held a young man with red hair and similarly colored robes. The second contained a pale woman with her hands folded neatly over her chest. The third held a broad-shouldered man whose skin looked like it was made from stone. It was kinda creepy.
+
+Iris gestured across them one by one. “A fire mage. A water mage. An earth mage. If you succeed in your mission, you may take one of their brains as your reward.”
+
+Chloe pressed up close to the coffins. “Hmm, I dunno, Iris. I was expecting, like, a super rare brain. These people don't seem very special to me."
+
+Iris chuckled softly, her mask muffling the sound. “If you doubt their worth, perhaps you would like to test them yourself.”
+
+Chloe’s eyes lit up instantly. “Wait, you’re saying I can fight one of them? For real?”
+
+“Yes, I can wake one of them briefly. If you manage to beat them, you will understand what makes them so special.”
+
+“Okay then, if I’m picking one, it’s gotta be the earth guy, since I’ve got bonus affinity with earth."
+
+“The earth mage, then. I'll get him up for you.”
+
+Iris pressed her hand against the coffin with the earth mage. Cracks of dark energy spidered across the surface, glowing faintly.
+
+“Be careful, Chloe, even restrained, these mages are formidable.”
+
+The earth mage’s eyes fluttered open. And he soon sat upwards.
+
+Chloe’s jaw dropped, and she smacked her hands against her cheeks. “Whoa! He’s alive! Well… sort of alive! How’d you do that? Did you poke him with a stick or something?”
+
+“This is necromancy. Perhaps, with time, you might learn it as well.”
+
+“That’s, like, the coolest thing ever. One day, I wanna wiggle my fingers and make dead people rise too!” Chloe declared, hands wiggling wildly as if to prove her point.
+
+A soft chuckle slipped from Iris. “It will take far more effort than that, I assure you. But first, we have business. Let us move to the sparring chamber.”
+
+Chloe practically bounced after her. They slipped through the archway into a wide room. The place was mostly empty, save for markings scratched into rough circles on the ground.
+
+Iris pointed toward one side of the room. “Stand there, Chloe.”
+
+Chloe hopped into place with a bounce, while Iris guided the earth mage to the far side of the chamber. Her eyes narrowed as she studied him. I wonder how strong this guy’s gonna be. He doesn’t look like a zombie… no brain cravings, no moaning, just kinda standing there listening to Iris. But wait, if a human likes brains, does that technically make them a zombie? Hmmm. Questions for later.
+
+“Do whatever you wish to defeat him. Show me what you can manage,” Iris said, stepping back.
+
+Chloe planted her feet wide, fists on her hips. “Kay! Don’t blame me if I totally crush him, though."
+
+Iris raised her hand and sliced it down through the air. “Three. Two. One. Begin.”
+
+Chloe’s instincts flared. With a gleeful shout, she hurled a fireball across the room. “Eat this!”
+
+For a second she thought the mage would block it with a wall. Instead, the ground split under her feet, and a massive stone fist punched upward, launching her high into the air.
+
+“Wha—?!”
+
+Chloe flailed around before slamming onto the floor with a bone-rattling smack. Groaning, she lifted her head just in time to watch her fireball smack into the mage’s chest… only to fizzle into harmless sparks.
+
+“Is that enough of a demonstration for you?” Iris asked loudly.
+
+Chloe slammed her palm against the ground and popped upright. “Nuh uh! He just got lucky!"
+
+Her form shimmered as she vanished, slipping into invisibility with a mischievous smirk. She was totally going to catch the earth mage off guard this time.
+
+However, as Chloe dashed to try and get behind the earth mage, he tilted his head, then stomped. Big earth spikes burst from the ground in all directions.
+
+Chloe yelped as one slammed into her chest, knocking her back. Another clipped her head, and soon, her invisibility flickered before dropping completely.
+
+Once she was back on the ground, Chloe rubbed her forehead with both hands, glaring at the mage. “Aww, how did he even know where I was?”
+
+Iris couldn't hold back a chuckle. “Earth mages often possess the skill Tremor Sense. They can feel your steps through the ground itself.”
+
+Chloe blinked, then winced as her head throbbed again. “Oh… makes sense. Well, anyway, this earth mage guy is pretty strong. So, can I eat his brain right now?”
+
+Iris gave her a long, steady look through the mask. “No. Not yet. The mission comes first.”
+
+“Fiiiine. But when I finish, do I gotta come all the way back down here for the brain?”
+
+"I have a different solution in mind, don't worry, you'll have your brain when you complete the mission. But more importantly, do you want to actually take it on?"
+
+Chloe perked right back up, brushing dust off her clothes with both hands. “Well duh. What’s the mission exactly about anyway?"
+
+“You are to protect and escort an elf. They must be brought safely from Evergale to Vorraska, a city across the border in beastkin territory.”
+
+“Wait. What’s an elf?”
+
+“They are a long-lived race. There aren’t many left in the world, but every one of them is powerful, especially when it comes to magic. But, the elf you’ll be escorting is young by their standards, so he’s not all that strong yet, which is why he requested a bodyguard to escort him.”
+
+Chloe scratched her cheek, nodding along like she understood every word. I think I kinda get it. An elf is basically a fancy magic person who lives a long time, right? Yeah, pretty sure that's it.
+
+“So all I gotta do is walk this guy to that city, fight off anyone who bothers him, and then I get a brain? Sounds easy.”
+
+“Do not be so quick to assume. This mission is not as simple as it looks.”
+
+“Why not?”
+
+“First of all, elves are rare and very special. Some people fear them, and others would pay a lot to capture one. On top of that, this elf is… let’s say picky. He’s already turned down several bodyguards. And finally, once you leave Evergale, you’ll be crossing into beastkin territory. That won’t be easy."
+
+“That sounds like… work. Like, a lot of work. Brains are nice and all, but this whole trip sounds like it’s gonna take forever.”
+
+“Then perhaps I can sweeten the deal. If the client accepts you as their guard, I’ll give you the brain of a fallen knight before you leave. Not as rare as a mage’s, but I promise you, he was very skilled.”
+
+“Wait, you’re saying I can get a brain now and later? You should've just said that from the start!"
+
+"Good, then maybe we can—"
+
+"Oh, actually, hang on. Why do you want me to do this so badly anyway? Sure, I’m the only B ranker nearby or whatever, but can’t this elf just… I dunno, wait until the A ranks are free?”
+
+“Well, this elf has been patient, but he can’t wait much longer. The Thieves Guild wants goodwill, and elves almost never ask for help. If one’s asking now, it’s a chance we can’t waste. And before you ask, no, I can’t escort him myself. Because believe it or not, I do have other matters that need to be looked at."
+
+Chloe thought about Iris's offer. It was clear that the guildmaster really, really wanted her to take this mission, which made it feel like there had to be some kind of catch. Still… two brains as a reward was hard to resist. Even if the first one wasn’t a mage, it was coming from Iris, so it had to be good.
+
+“Mmm, fine, I’m in. Two special brains are way too hard to turn down.”

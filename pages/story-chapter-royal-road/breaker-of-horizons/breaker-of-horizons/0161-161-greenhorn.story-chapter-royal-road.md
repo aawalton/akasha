@@ -1,0 +1,79 @@
+---
+id: a6dc3cd5-1ee1-5921-bd5a-48e51f349fa3
+page-type-slug: story-chapter-royal-road
+title: "161. Greenhorn"
+slug: 0161-161-greenhorn
+partOf: breaker-of-horizons
+position: 161
+ownLength: 2154
+unit: words
+publishedAt: 2021-12-16
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/807471/161-greenhorn"
+royalRoadId: "807471"
+---
+
+Since globelights were placed across the whole interior, and there weren't going to be any combat-grade sequences being flung around, there was no need for the arena shields. Caden and Devon took up positions on opposite ends of the arena on the highest level of the stands, giving them the clearest possible view of the entire field of globelights.
+
+Even before they started, Caden could see how much skill this exercise demanded. The globelights were so numerous that it was difficult to keep track of them all. Even trying to keep all the orbs within one's field of vision was impossible. Any arcanist attempting this would have to at the very least be proficient with dipping into the arcanic sea, or they'd be severely handicapped.
+
+"Ready? We'll try a ten-minute limit." Devon called, his amplified voice echoing out. Caden couldn't even see him through the mass of globelights.
+
+Caden amplified his own voice. "Okay. Ready!" he replied, then gently stepped onto the precipice between the arcanic sea and oblivion, riding the divide where he had spent so much time honing his skills in unravelling. He took a moment to get a sense of the whole field, gently probing the closest globelights to assess their integrity and see how they differed from the household varients. Ordinary globelights had robust shells that allowed them to maintain their integrity even with some backwash of ambient arcana, and were even hardened enough to help them withstand some minor physical trauma. These, he realised, had shells that were a lot more fragile. The glyphs that regulated the flow of arcana within them were entirely absent. Any change in the mix had to be handled manually, and the shell had to be adequately hardened during that process. But hardening the shell itself would disrupt the flow and send ripples through the whole globelight, which would cause it to burst if it was hardened for too long.
+
+Caden spent a moment more marvelling at how delicately the globelights were put together before turning his attention to the wider world. Devon, he noticed, had launched into action almost immediately. Evidently, he was familiar with these globelights varients. What was especially impressive was the fact that Devon wasn't just focused on one globelight at a time — he had cast his consciousness out like a delicate thread strung between five of them, and was gently altering them to emit a soft, green glow instead of the neutral white. And he wasn't slow, either. The change took less ten seconds, and then Devon's mind skipped to the next nearest five globelights.
+
+Caden fought back the urge to leap into the fray and tackle as many globelights as he could in one fell swoop and focused on just one. He had never really worked on something so gently before. Unravelling sequences was an act of precise, calculated violence. This required just as much precision, but also a much softer touch. He hardened the globelight's shell, then quickly altered the mix of arcana so that it turned a deep, pensive blue. While he managed it more quickly than Devon had, he also sensed that he had almost popped the globelight because his hardening had been too forceful. A shade more weight in his focus, and it would have broken.
+
+Meanwhile, Devon had already turned enough globelights over that a patch of the arena was noticeably green. Caden took in a deep, calming breath, forcing himself not to be agitated by how far he was falling behind.
+
+Still working on one globelight at a time, Caden managed three more, though each time he came perilously close to breaking the globelight just by hardening it. On the fourth, he finally felt it all click together in his mind. He had been working in a sort of frame of mind better suited for combat — rapid detection and elimination of threats. That meant his auric-ambient-flare held a shape that made it 'weighter', made its focus more powerful and forceful. That was helpful for quickly smashing hostile sequences, but it was the total opposite of the restraint needed here. He had to soften the shape of his auric-ambient-flare, or his movements would always be too heavy.
+
+Think softly, he remembered the Academy Spire augera telling him once, a long time ago, when it had gently nursed his mind back to wholeness after his first encounter with a wild augera by the lake. That instruction meant more to him now that he knew the shape of his own auric-ambient-flare. He could feel the form of his own thoughts. There was a sort of tactility to them in oblivion.
+
+Think softly, he repeated, taking in another deep breath, and using that breath to expand his own awareness of his body, like how Emilia had taught them all in Devon's house. But he took it further, focusing now on how breathing felt on the edge of oblivion, how this focus on breathing changed the tenor of his thoughts, calmed him down, made his auric-ambient-flare softer too.
+
+In this state of supreme tranquility, he reached out with tendrils of thought towards the little bubbles of arcana that drifted across his awareness. Now, instead of thinking of hardening the shells of the globelights, he simply covered them in a gentle blanket of arcana, light as satin. There was no need to callously swirl the mix of arcana within them either. He simply breathed, and his intention melted into the arcana, wafting along his silk-soft covering and turning the globelights blue.
+
+The change rippled out, with Caden as the epicentre. Almost a third of the arena was suddenly bathed in the deep hues of Caden's chosen shade of blue. The arcana took a moment to settle, sending faint ripples through the lights and giving the impression that a section of the arena was underwater.
+
+Devon let out of a yell of surprised delight. "Whaaaaat?!"
+
+Caden laughed. "Get ready for another wave."
+
+"Oh yeah? It's on!" Devon shouted.
+
+To Caden's surprise, Devon's movements in the arcana changed entirely. His little thread of focus strung between five globelights at a time suddenly coiled together and then burst apart, sending little tendrils snaking out to all the globelights he had turned so far before they reached out to their unclaimed neighbours. Those white globelights turned green in a matter of seconds, before sending out new tendrils to its own surrounding globelights. As each globelight was claimed and connected with the rest in turn, the pace of change was increasing exponentially. How was Devon managing this?
+
+Caden quickly marked out another segment of the globelights, careful not to make direct contact with the ones Devon had claimed or was about to lay claim to, since he wasn't sure it was possible to make that change without popping the orbs. He managed to turn half of the remaining globelights blue before they met Devon's cascading wave of green.
+
+Both of them stopped. Devon was the first to move, sending tendrils out from one of his green globelights to latch on to a single blue globe. Instead of trying to defend against it or beginning an invasion of his own, Caden watched closely to figure out exactly how Devon was working.
+
+But then he realised that Devon's focus wasn't even there at the point of contact between their two opposing globelights. His consciousness was all the way back in his body, where he was concentrating on something.
+
+Fascinated, Caden turned his attention to Devon's auric-ambient-flare. It was clear that Devon wasn't operating in oblivion, but whatever he was doing was still having an effect on higher planes. He was moving by instinct, somehow shaping his auric-ambient-flare into certain poses without being entirely conscious of it. Caden wasn't sufficiently well-versed in things to be able to follow along with what Devon was doing, but it seemed to be similar to Caden's own method.
+
+He turned back to the globelights. Devon had already managed to turn the first one, and now that it was done, Caden noticed that all along the division between green and blue, Devon's orbs were sending out tendrils to their closest blue contacts. There were more than a hundred conflicts in progress, and yet Devon was somehow keeping up with all of them at once without even really being there.
+
+If this went on unchecked, Devon's wave of green was going to cover the entire arena well before the ten-minute time limit.
+
+As before, Caden had to resist the urge to simply fling himself into the fray. That kind of forceful movement would probably shatter half the orbs in the arena. He calmed himself down and shrank his focus to just a single point of contact. If he wanted to win this engagement, he had to figure out exactly how Devon's method worked at the smallest level.
+
+He zipped over to where one of his blue orbs had just been touched by a green tendril. The shell stiffened at the contact, and in those few seconds when it was sufficiently firm, the tendril deftly turned a core component in the globe before retreating entirely. Then, without any further intervention, the orb changed of its own accord from blue to green. Once the change was complete, the newly-converted orb reached out to its parent and formed a firm connection, then started sending out its own tendrils to the nearest blue orb.
+
+What struck Caden was how amazingly organic it all looked. And the little poke by the tendril was perfectly calibrated to alter just one part of the globe so that it turned its own colour. The process was slower than Caden's method of turning orbs, but it seemed to require almost no conscious effort on Devon's part. How was he accomplishing this?
+
+The key had to be in the way the tendrils were acting. Caden beat back a wave of panic as he saw the arena's hue shift perceptibly against him, and focused on the tendrils of the converted orbs. They were all linked, he realised. Every time Devon changed an orb, it became part of a network that connected each orb to all of its neighbours, forming a web that finally led all the way back to him.
+
+Like something growing. Like roots. Like a tree, Caden realised. And that was why Devon didn't need to bother with the actual points of contact. He had managed to infuse his concept of organic growth into the arcana itself, so that it did the work for him. All he needed to do was provide a framework for how to grow, so that it didn't move with unchecked ferocity, and instead with the grace and gentleness of nature itself. And that was why even the conversion of orbs required so little focus. Devon's frameshift was like a poison of some kind, a little prick to start the process of changing colours.
+
+Even as Caden understood this, he also knew that this network that Devon had formed was not going to be susceptible to his method of claiming globelights en masse. The network that Devon had formed made it a perfect defence against that satin blanket, because Devon's globes were now infused with a sort of 'identity' that made them immune. If Caden wanted to claim Devon's orbs, he would have to wage a war on a hundred different points.
+
+The wave of green was now almost upon him. To buy himself some time, Caden sliced through the tendrils that were reaching out towards his orbs. He sensed Devon's surprise, but it quickly gave way to determination as more tendrils snaked out. Caden devoted a portion of his attention to slicing them apart while trying to finally go on the assault against one of Devon's green orbs.
+
+He tried his satin sheath first, altering it so that it would burn away any tendrils it came into contact with. But the adaptation was too hostile, and the moment he cast it over the green orb, the entire thing burst apart. He stifled a curse and tried to make it less abrasive. This time, when it wrapped around a green orb, the tendril burned away like ash, and a moment later the orb turned blue.
+
+But the surge of triumph in Caden's heart turned swiftly to shock as he realised that he was now standing in a sea of green. Devon had somehow kept up the encroaching tendrils of green from the front, but then also seeded another orb right next to Caden, which had worked its way outwards from within. At the moment of realisation, with his attention momentarily diverted, Devon reclaimed the orb that Caden had just turned.
+
+"Fates," Caden breathed, staring wide-eyed as he stood in the middle of a host of spheres shedding verdant light.
+
+"I won?" Devon said softly, though it was still amplified. The disbelief in his voice was palpable. "... I won. I WON. AGAINST THE TOP SCORER."

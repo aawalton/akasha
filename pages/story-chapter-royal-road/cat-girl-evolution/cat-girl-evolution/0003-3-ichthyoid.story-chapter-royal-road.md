@@ -1,0 +1,147 @@
+---
+id: 6c273f92-2ed0-5cee-99b8-a99d1e8812de
+page-type-slug: story-chapter-royal-road
+title: "3 - Ichthyoid"
+slug: 0003-3-ichthyoid
+partOf: cat-girl-evolution
+position: 3
+ownLength: 1842
+unit: words
+publishedAt: 2025-08-17
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2525499/3-ichthyoid"
+royalRoadId: "2525499"
+---
+
+My fur stands on end as it draws nearer. Its eyesight doesn’t seem to be good, since it hasn’t noticed me. It also looks quite clumsy. It trudges forward, its feet rarely getting more than a centimeter off the ground, and with each step, it grinds its foot slightly against the ground as if to make sure it’s firmly in place before trusting it with its full weight. These things are clumsy. At least on land.
+
+However, it’s still many times my size, and it’s carrying a crude sword that looks like it’s made out of a swordfish. There’s no way I could win if I tried to fight it.
+
+Wait. Fight it? Why would I do that?
+
+“Y-Yona,” says Henry from behind me. “Run.”
+
+You don’t need to tell me twice.
+
+I wait until the fish man is in the room. It still doesn’t see me. Its gaze is focused on Henry instead. As soon as it takes a step inside, I slip past from behind, quiet as can be. It doesn’t notice me, and instead advances toward Henry.
+
+Halfway down the tunnel, I stop. Am I really going to let my main source of food die because of some stupid fish person? It can barely even walk properly. I may be a cat, but I’m not some pushover. Henry is mine.
+
+I turn around to see the Ichthyoid stepping even closer to him, and raising its sword. I sprint toward it and jump on its back, latching on with my claws and biting down on its neck. Lukewarm blood sprays into my mouth as it stumbles backward a few steps, flailing its arms wildly. It opens its mouth and makes an odd gurgling noise as it tries to reach around and pull me off.
+
+As its free hand gropes toward me, I push off, tearing away a chunk of flesh. I land on my feet, and for a moment, I don’t move. This fishman meat is… delicious! This is the best fish I’ve ever had! I want more.
+
+It’s still struggling to stabilize itself, so I lunge toward its leg and take a bite out of its calf. It lifts its leg in shock and pain, and I let myself fall off, swallowing my prize. It teeters for a moment on one leg, but when it tries to bring its lifted leg back down, it slips and falls. I pounce on it immediately, scratching at whatever I can reach, leaving thin trails of blood across its body as it flails about and tries to get its legs back under it.
+
+Not on my watch!
+
+It puts an arm behind it to stabilize itself on the ground, so I take a bite out of its wrist. It falls backward again, and I circle around toward its head. As I swallow, I faintly notice that I feel better than usual. More energized. Stronger.
+
+The Ichthyoid tries to swing its other arm around to stab me with the sword, but it’s such a clumsy strike that I barely even have to try to dodge it. I jump to the side, and as it tries to raise its weapon again, I jump up and claw at its eye. It lets out another gurgle-scream as I fall back to the ground.
+
+Two more minutes pass as I dodge its clumsy strikes and claw and bite back whenever I can before it finally starts to slow down. It’s given up on getting back to its feet, and is just trying to grab at me and strike with its sword, but obviously, it’s had no luck. The entire ground is slick with blood, which only makes its balance worse, and every other strike, it slips and falls back to the ground.
+
+Finally, after another minute, it can no longer raise its arms. It’s lost too much blood. It’s heart is still beating, but only faintly, and a few seconds later, even that stops.
+
+[ You have defeated Ichthyoid, lvl 3! Bonus experience for defeating an enemy above your level! ]
+
+[ House Cat, 1 → 2 ]
+
+[ +2 Power, +6 Finesse, +3 Resilience, +2 Memory, +2 Willpower, +5 Sensitivity ]
+
+Hm? What does that mean?
+
+[ Starter Quest complete! You’ve unlocked the complete System! Would you like a tour? ]
+
+A tour? I guess I-
+
+Wait! Henry! I still need to save him!
+
+I turn to run back out of the cave, but I freeze when I look at the man slumped against the wall. He’s not breathing anymore. His eyes have glazed over. I’ve seen it many times before. I know he’s dead.
+
+Dammit!
+
+Who’s going to bring me fish now? Who’s Mrs. Wife going to bake bread for? Why did I even come out on this stupid quest in the first place if I wasn’t even going to save him?
+
+…
+
+But I could have saved him. If I had just done the quest earlier when I was supposed to, he would still be alive. I even still had time a few days ago when I found Old Man Jenson dead. That should have been my warning. But instead, I was lazy and complacent. I just sat around doing nothing, trusting that everything would work out somehow, and now, everything’s ruined. This is all my fault.
+
+Never again.
+
+It might be too late to save Henry, but I can at least save Sally. That Named monster thing sounds dangerous. I need to get back to warn Old Man Frederick. With Henry dead, I’m the only one who can. I’ll write it in the sand or something.
+
+I sprint out of the cave, the wind rippling through my blood-splattered fur as I run back to the beach. I burst out of the treeline just in time to see Old Man Frederick getting impaled. He’s surrounded by Ichthyoids, but one is much bigger than the others. It’s a full head taller and muscled like a comic book superhero, and unlike the others, it doesn’t seem to have any trouble moving around on land. It has a long gash across its chest, but it still stands tall, and looks otherwise unharmed.
+
+It’s holding a golden trident up in the air, and dangling from the end of it is Old Man Frederick. His sword has fallen to the ground, and his wooden leg is broken, but he still struggles, his bloody hands gripping the trident in his stomach. The fishman swings his trident downward and the old man slams into the ground, sliding off the end and bleeding heavily from his stomach. The fishman gurgles something, then he and his subordinates walk back to the water. For a moment, it stops, and it almost seems to look at me. I read the odd words above its head.
+
+[ Skarn, Ruler of the Shallows, lvl ??? ]
+
+Then, it turns and dives into the water and vanishes into the night. I wait a few seconds, then sprint up to Frederick, who is unmoving on the ground. When I get to him, I find that thankfully, he is still alive.
+
+“Yona,” he says, his voice somehow still clear despite the blood pouring from his mouth. “You can understand me, can’t you?”
+
+His one good eye is caked over with blood, but I nod anyway in response. He knew I was here without being able to see me. He might be able to sense me nodding too.
+
+“You were always strange,” he continues. “Too smart. I was suspicious of you. I’m glad that-” He coughs. “I’m glad I was wrong. Forgive me for this indulgence, but please hear this old man’s final words.”
+
+I nod again, but he’s already talking.
+
+“I am a fool. A coward. I ran away to this little village to escape my past mistakes, and now here I am making more. I saw the signs, but didn’t take them seriously. I allowed a Named monster to grow under my very nose, and then I let it defeat me. I, the only one who stood a chance. The village is as good as gone.”
+
+He has another coughing fit, and spits out a glob of blood and other bits. The blood is soaking into the sand, and under the faint starlight, it looks black.
+
+“Run, Yona,” he says. “The others are all dead. You’re the only one left. Run, if you can, and don’t look back. And if you make it out–forgive me this one selfish request–but if you make it out, please tell Dolores Virelai that I’m- I’m sorry.”
+
+He coughs again, and this time when he speaks, his voice is much weaker.
+
+“This is all my fault.”
+
+This isn’t your fault. It’s mine.
+
+His heart beats one final time before going still.
+
+I sit beside the old man for a few seconds. He’s dead. The only hope against the Ichthyoids is dead. I have no way to get back to shore, and the ichthyoids are probably on their way there right now. Even if I swam, there’s nothing I’d be able to do. They’ll either kill me in the water, or I’ll be too late to do anything. Looks like I won’t be able to save Mrs. Wife either…
+
+Screw it. I’m going to kill that fish bastard. I don’t care if Frederick failed. I took down a monster twenty times my size just as a normal cat. And I leveled up. Like in a video game. If I can get stronger, I’m going to kill that thing. No one takes my food and gets away with it.
+
+I get up and start running off into the woods by the island, searching for other survivors. However, like Frederick said, they’re all dead. It looks like the Ichthyoids were already swarming the island when we arrived. By each human corpse is a pile of ichthyoid corpses. Johnny has a full half dozen next to him. But it didn’t matter. The humans still died all the same.
+
+Now there’s no one who can bring me fresh fish in the evenings. No one to fill a saucer with milk for me. No one to toss me scraps from behind his stand. The only one I can rely on is me.
+
+[ Starter Quest complete! You’ve unlocked the complete System! Would you like a tour? ]
+
+Yes.
+
+[ Oh, thank the gods, finally ]
+
+Hey!
+
+[ Congratulations! You’ve unlocked full access to the System! I will now begin your tour! ]
+
+[ Retrieving Start Quest performance data… ]
+
+[ Data retrieval complete! ]
+
+[ Starter Quest Completion Grade: C ]
+
+That seems high.
+
+[ Well, you did complete it, so that’s technically a pass ]
+
+[ Completion rewards: Full System access, Basic Evolution Manual ]
+
+[ Performance Reward: [Gluttony] Trait]
+
+Gluttony?!
+
+…Actually, yeah, that’s fair.
+
+[ Next, I will show you how to use your Status Window. To use the Status Window, simply think the words ‘Status Window’ ]
+
+Okay.
+
+[ … ]
+
+[ To use the Status Window, simply think the words ‘Status Window’ ]
+
+Oh. Right. Status Window.

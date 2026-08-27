@@ -1,0 +1,81 @@
+---
+id: 1eb2dfb4-7726-5f5e-bab3-be7e47d10e50
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1667 - Border Tensions"
+slug: 0316-chapter-1667-border-tensions
+partOf: chrysalis
+position: 316
+ownLength: 1141
+unit: words
+ownProgress: 1141
+publishedAt: 2025-10-15
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2677286/chapter-1667-border-tensions"
+royalRoadId: "2677286"
+markedReadAt: "2026-06-29T19:53:55.255Z"
+---
+
+Ruminominex is a creature of change and flux. The Shaper of Earth creates and destroys in a constant cycle, guided only by her own inexplicable design.
+
+There are some who suspect the Ancient is an elemental of stone or earth, but the cultists who worship her do not believe so. In their dreams, they have caught glimpses of Ruminominex through the ever-shifting mountains in which she makes her home and describe her as a sturdy, dense, animal-like creature, with skin that shifts and changes, flowing like water just as the mountain around her does.
+
+When she surfaced, Ruminominex found her way to a mountain range, which promptly collapsed, only to be remade according to the Ancient’s wishes. The Ancient’s Spear is how the range is now known, though most have no idea why. How they explain away the pillar-like mountain, easily twice as tall as the next highest, I have no idea.
+
+-           Excerpt from ‘Collective Wisdom of the Cults’ by Granin Lazus
+
+“Look down there,” the scout said, keeping her scent as light as possible. “Do you see?”
+
+“I do,” Bella whispered back.
+
+These tunnels were far from the mountain nest of the Colony, right on the edges of the territory they had claimed. Barely patrolled and not fully explored, they were dangerous in the extreme, filled with powerful monsters who looked to reestablish their territories after the wave had died down, but there were other perils lurking as well.
+
+In the distance, barely visible at all to her ant eyes, Bella could see a group moving cautiously, sticking to cover as much as they could while advancing deeper into the land of the Colony. A mix of well armed and armoured Folk and golgari were moving together as a group. It was clear that these people were experienced delvers.
+
+“See their odd movements? There’s definitely a sixth member, but we can’t see them with the naked eye,” the scout told her, and Bella nodded to show her acknowledgement.
+
+Thankfully, a core shaper like her had ways to overcome her own weaknesses. With a mental command, she urged her loyal pet Hooticus to investigate. Originally a Razorbeak Shadow Owl, Hooticus had been modified by combining the original core with that of a Haptofowl, an eight-eyed, flightless bird from the first stratum that relied on its extremely keen senses to stay alive.
+
+Floating on soundless wings, her pet flitted from shadow to shadow, melting into the darkness as it drifted closer. While it was still hundreds of metres away, Hooticus was able to confirm the scout’s suspicions.
+
+“They’ve concealed themselves from sight, hidden their heat signature, muffled their sound and masked their mana,” Bella noted softly, and the scout waggled her antenna in exasperation.
+
+Going so far to try and remain hidden… just who was this shy guest in the Colony’s lands?
+
+Despite all the precautions they’d taken, they hadn’t succeeded in hiding their shadow, and it was this little pocket of energy that Hooticus had picked up on. With so little information, she still wasn’t able to identify them, and that was precisely the reason she had come all the way out here.
+
+“They’re coming deeper. We need to pull back,” the scout told her, and Bella agreed.
+
+Ordering Hooticus to keep an eye on the invaders whilst keeping himself concealed, she retreated further into the tunnels, doing her best to follow the scout's lead. So far from the Colony and without support, she had to rely on her pets to keep her safe, but there was no guarantee they would be able to defeat some of the deadly monsters roaming these tunnels.
+
+Remaining hidden was the safest bet, so they kept low and out of sight as much as possible while Bella received a steady stream of updates from Hooticus.
+
+As expected, the delvers had shown themselves to be capable. They fought when they had to, avoided any other conflict and continued to make their way deeper into the tunnels. Just what were they here for? The scouts had reported seeing several of these delver groups sniffing around starting two weeks after the wave receded, yet it still wasn’t known why.
+
+At first, the Council had thought it was simply a matter of delvers plumbing the Dungeon for wealth and experience, as they always did. Yet these groups behaved oddly. They didn’t fight that much, concentrating more on covering ground than defeating monsters. They didn’t bother to fully harvest the monsters they did defeat, which was highly unusual for delvers. Lastly, there was the secret of the hidden person smuggled into every group. After failing to identify the invisible tagalong, Bella had been called in to investigate. Only scouts and core shapers were allowed to range this far from the nest, and the scouts had repeatedly failed, despite their best efforts.
+
+The ants tailed the delvers for hours, waiting for an opportunity to present itself. After fighting and sneaking their way through the tunnels, doing their best not to draw attention, the delvers decided to establish a base camp. Using various methods of concealment, they pitched their tents, laid out their supplies and made themselves comfortable.
+
+Clearly, they intended to be in these tunnels for an extended period.
+
+The camp itself was almost as well hidden as the secretive figure, invisible to the eye, all signs of mana erased, and yet, the hidden person still didn’t reveal themselves.
+
+Bella didn’t have a choice, she would have to use desperate measures.
+
+Reaching into the bag slung beneath her carapace, she withdrew a glass cylinder.
+
+“Stand back,” she warned the scout.
+
+Inside, a small creature could be seen, wiggling happily as she lovingly tapped the glass with her antennae.
+
+The Thought Leech was native to the fifth stratum, but this one was modified. Normally, the parasite was able to hunt by homing in on the thoughts of their targets, helping them find more intelligent monsters with larger brains.
+
+This little one was different. It didn’t eat brains, but thoughts.
+
+Hooticus returned, swooping down on silent wings before picking up the cylinder and flying away. After thirty tense minutes, the owl returned, dropping the leech, still safe in its containment, back into her mandibles.
+
+[Well done, Hooticus,] she praised him, but the owl merely turned his head and started tidying his feathers. He was always trying to act aloof.
+
+[And how did you go, my little hungry one?] she said to the leech, who wriggled happily.
+
+Regurgitating thoughts wasn’t easy for the leech, and she hated making him do it, but she couldn’t think of any other way to achieve their goal. After she processed what the leech had managed to steal, she understood why their foes were being so secretive.
+
+“It’s a priest from the Church of the Path,” she hissed to the scout. “They’re hunting for members of the Colony!”

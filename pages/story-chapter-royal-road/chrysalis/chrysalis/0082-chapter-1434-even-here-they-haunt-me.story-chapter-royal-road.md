@@ -1,0 +1,73 @@
+---
+id: 14b34289-0654-5f3a-801f-68478d011f36
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1434 - Even Here, They Haunt Me"
+slug: 0082-chapter-1434-even-here-they-haunt-me
+partOf: chrysalis
+position: 82
+ownLength: 1011
+unit: words
+ownProgress: 1011
+publishedAt: 2024-10-18
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1855661/chapter-1434-even-here-they-haunt-me"
+royalRoadId: "1855661"
+markedReadAt: "2026-06-29T19:46:26.074Z"
+---
+
+Even if the slugs aren’t attacking me anymore, they still watch. I can feel them slithering about on the edges of my gravitational awareness, tiny little eddies in the field I can barely sense. In some ways, it’s a shame. I really do want to capture one and have a chat with them, but they seem keen to avoid such an exchange.
+
+Ah well. If the slugs aren’t shooting stuff at me, there’s still plenty for me to worry about. The further I progress in this near-vertical tunnel, the thicker and more dense the slime becomes. It’s almost like a spiderweb of mucus strands has been formed across the entire width of the tunnel, which spans over a kilometre, let me remind you.
+
+It’s so dense now that I actively have to burn or bite my way through. Every time I snap a strand, it recoils and slaps wetly against the rock or contacts another strand and becomes stuck, the two blending together and thickening the rest of the web.
+
+So I advance slowly while holding desperate hope in my heart that I’m not going to find some kind of sludge-spider that’s created this tangled mess. Of all the things I’ve seen and fought down here, an eight-legged, slime-spitting arachnid would be the most off-putting I can imagine.
+
+Fortunately, I haven’t come across anything like that so far, just the usual frogs, slime-fish, and a few more of those weird egg-looking things.
+
+VOID CHOMP!
+
+I don't empower it, because goodness knows what would happen if I did. Would it suck in all the mucus strands? Or would they detach from the walls and then flop about until they stuck to me? I won’t take the risk.
+
+So I let the black jaws of pure energy scythe through the strands, then creep forward, filled with caution. My antennae never stop moving as I try to sense any scent, any gravitational shift, and my eyes, as always, are peeled. For trouble, specifically.
+
+And, in fact, the deeper I go into the mess, the more I do begin to sense something. Many things. Many, small things. For a while, I’m worried that this is a whole bunch of Krath ahead of me, but I soon dismiss the idea. The Krath are way, way sneakier than whatever this is. The slugs move so cautiously, so cleverly, I end up second-guessing myself whenever I think I spot one. Whatever is causing this sensation, it’s just wiggling about all over the place.
+
+Another chomp, another slight advance, and I’m starting to get a sense of where the centre of this mess might lie. I mean, the Colony is going to come through here and use this tunnel as part of the eventual fortress, so all of this needs to go. If I can figure out what created this web and destroy them, that’ll be to the benefit of the family.
+
+Steadily, I chomp through, bit by bit, heading towards what I believe to be the centre mass of this tangled web. Soon, I can see it. Right in the middle, hanging in the air, connected to strands coming from the floor and ceiling, is a large mass of snot.
+
+For want of a better word.
+
+It basically looks like more mucus strands that have been mixed with dirt or crushed rock to create something… more solid. Whatever I’ve been feeling wiggling about is crawling all over and within this thing. It’s fairly large, dozens of metres across, perhaps as many as fifty, and roughly (very roughly) spherical.
+
+I’ll need to get closer to get a better look at it. The air down here is basically filled with a constant miasma, a toxic fog, that can make it difficult to see at times. Here, surrounded by all this sludge, it’s quite thick.
+
+Chomp.
+
+Another strand is sheared apart by the extended energy mandibles, and it recoils sharply, whipping through the air and setting the entire network nearby to wobbling. Unlike before, there’s a strong reaction from the booger-orb, with a heck of a lot of activity suddenly occurring. Creatures are boiling out of the thing and shimmying along the ropes of goop towards me. Well now, finally I get a chance to see what the heck has caused this mess!
+
+What are you, you filthy mucus merchants?
+
+I ready my mandibles to dispense righteous justice, only to freeze when the first of the foes draws close enough for me to see.
+
+It… it can’t be?
+
+Not you. Not here. Not like this!
+
+With its many legs, the monster shuffles along the mucus strand, a thick layer of goo coating its outside. Once it gets close enough, it rears up its back section and points it towards me. The beast flexes hideously and a truly disgusting strand of goop is fired towards me, arcing through the air before sticking to the rock I quickly vacated.
+
+Irritated, the monster flexes its two claws at me, each squelching as they compress their own slime coating.
+
+Centipedes. Slimetipedes.
+
+REALLY, DUNGEON?! Even in the fifth you’ve started spawning these horrible things?! What is your problem, Gandalf!?
+
+I swear to all that is sacred and holy, I will obliterate these damn things from the Dungeon and put in a personal complaint to Gandalf. This isn’t right!
+
+I mean, at least they aren’t coated in diamond, which is a plus, but I can’t exactly say that toxic sludge is much of an improvement either.
+
+More and more of them are emerging, and I commit myself to the only reasonable course of action: annihilating everything around me with a black hole. It’s the right thing to do.
+
+I put together a powerful force barrier in front of me and begin to compress the gravity mana within me. Ah yes, all of these awful things that offend my eyes so badly will soon be going away.
+
+And eventually, they will be removed from the Dungeon entirely, and I will no longer need to live on the same world as these creatures. Only then will I know peace.

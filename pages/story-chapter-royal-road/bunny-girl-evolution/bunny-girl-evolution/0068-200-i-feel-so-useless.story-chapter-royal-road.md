@@ -1,0 +1,241 @@
+---
+id: 5f7025dc-8f92-53fe-ab86-16f9f2a572e6
+page-type-slug: story-chapter-royal-road
+title: "200 - I Feel So Useless"
+slug: 0068-200-i-feel-so-useless
+partOf: bunny-girl-evolution
+position: 68
+ownLength: 3920
+unit: words
+publishedAt: 2026-05-23
+link: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution/chapter/3435155/200-i-feel-so-useless"
+royalRoadId: "3435155"
+---
+
+It all happened in less than a second, and Elise’s senses were barely enough to keep up with it. No, they were not enough at all, and only afterward did she make sense of it.
+
+First, there was a surge of aether from Irylax so intense and violent it made Elise sick by proximity, and at the exact same time, three other people released more mana than Elise had ever felt in her life, and two others let out their own aether, which had a more soothing property.
+
+“AAAAUUUUGGGHHH!!”
+
+The little girl let out a bloodcurdling scream of agony that turned inhuman partway through, and at the same time, her skin rippled like her blood was boiling beneath it and her body began to morph. It grew in size, and the pale skin sprouted black scales that soon grew to the size of dinner tables. As she changed, her mana exploded out from her, sending a shockwave through the cavern. Had that shockwave been allowed to hit Elise, or any of the other System-raised, they would have instantly died, but the sealed heroes acted first.
+
+Quel’Khulan moved faster than Elise could blink, standing between the group and the rapidly-expanding serpent with his shield raised. He shouted, and the mana seemed to be drawn to him like a magnet. While he couldn’t stop it all, he managed to block a large majority of it before he was overwhelmed and was sent backward.
+
+What made it past him was still enough to kill Elise, but it would have been a painful, slightly drawn-out death, rather than an instant one. That never reached her either, however, because the third of the mana surges formed protective shells against each and every person in the room and at the same time pulled them backward and away from the chaos. They flew through the air, reaching the far side of the cavern in an instant, then going further as the earth parted for them like an opening maw.
+
+While Elise could not immediately identify the source of this mana, the source of the two aether surges was much more obvious. With the explosion of mana, the girl had also released a surge of aether, but that never reached the others either, as the Sage, Ber’Hana, unleashed her own aether to defend them. Elise didn’t fully understand how it worked, but she seemed to donate her aether to everyone else, allowing them to weather the storm with almost no damage, and whatever they did receive was instantly restored by her husband, Ber’Lanra the Healer.
+
+The scaly mass of flesh that had once been the little girl continued to expand, filling the cavern and turning into a serpent that Elise belatedly recognized as the one she had seen in her dreams. She had known it was enormous just from those brief glimpses, but seeing it in person was something else entirely. It filled the entire cavern, and kept growing, shattering the ceiling and walls as it expanded to its full size. Each scale was the size of her old bedroom on Earth, and there were thousands upon thousands of them.
+
+As this first second of chaos came to a close, so too did much of the danger, with Elise and the others settling back far enough in the newly-formed cavern to be safe from the expanding flesh. There was no second wave of mana or aether, either. Not from the serpent, at least.
+
+As she sat on the ground trying to process what was going on, though, there was another from behind her, and she turned to see Aya’Rhun, spreading her arms as her aether suffused not just the new cave, but the earth around it, extending far, far beyond the range of Elise’s senses. The Mage was looking upward, eyes wide and unblinking, as her mouth rapidly moved, speaking in a language that even with {Tongues}, Elise could not understand. For a moment, she wondered what Aya’Rhun was doing, but then she realized that although the serpent had stopped moving and was no longer giving off any mana, the earth had not stopped trembling.
+
+For a few terrifying seconds, it seemed like the world might collapse around them as aftershocks from the initial explosion continued to echo, but then they began to lessen, soothed by Aya’Rhun’s mana. Little by little, they dissipated, and after nearly a full minute, the world was still and silent again. Aya’Rhun immediately collapsed, and was stopped from hitting the ground by Quel’Tyral, who laid her down gently on the ground. Another wave of aether spread from Ber’Lanra, restoring whatever few wounds still remained.
+
+The next moment, Irylax appeared in the middle of the group, apparently unharmed and unbothered.
+
+“Is–?” started Quel’Khulan.
+
+“Dead,” said Irylax, cutting him off. “But she wasn’t alone. In her final attack, she sent out a message as well. I silenced it, but she was trying to contact someone. I believe there are more like her. When the seals were broken, I sensed sympathetic pulses elsewhere in the world. If I had to guess, there were others like her sealed the same way you were, and they were unsealed when you were.”
+
+“That’s–” started Quel’Khulan.
+
+“I don’t have time to listen to you, and I frankly don’t care,” said Irylax, cutting him off. “Theorize all you want once I’m gone. This incident has shortened my remaining time to mere minutes. Right now, I need to speak with my apprentices. I’ll leave the rest to you.”
+
+With that, Elise’s vision spun, and the next thing she knew, she was back in the living room of the Grays’ house. Nick, Bianca, and Sophie were already there, sitting on the couch. Sophie was crying, and her brother and sister in law were attempting to comfort her. When Irylax and Elise appeared, the three were momentarily in shock before Sophie flung herself at the dragon and wrapped her in a bear hug.
+
+“Please don’t go,” she said, her face buried in Irylax’s shoulder.
+
+“That is no longer my decision to make,” said Irylax, returning the embrace, and patting Sophie on the back.
+
+“Please,” said Sophie, her voice cracking.
+
+“I’ve delayed as long as I could,” said Irylax, her expression turning uncharacteristically soft. “I thought I would have a few more hours. I planned to make this goodbye longer and more pleasant. I was going to take you to see my homeland, and explain things in more detail, but… Such is life. Not everything always goes to plan.
+
+“But don’t worry. This isn’t a permanent parting. I’m not dying. I’m just going to the divine realm. We can reunite when you make it there as well.”
+
+“P– Promise?” asked Sophie, pulling away and looking up at her mentor.
+
+Irylax smiled, but after the incident in the cave, she seemed to have lost control of her aether slightly, and Elise caught a hint of sadness and doubt in her emotions.
+
+“Of course,” she said. “We’ll meet again in the future. But don’t make me wait too long.”
+
+She’s lying, realized Elise. She doesn’t know.
+
+If the incident in the cavern hadn’t done enough already, the sadness and doubt Elise saw in the unflappable dragon really hammered home exactly how far out of her depth she was. Irylax had instantly killed a serpent powerful enough to nearly put the sealed heroes—a group whose power Elise could already not comprehend—on edge. And now she was worried she wouldn’t survive her ascension. Was ascending to godhood that dangerous? Or was there something else going on? Was it related to Titania saying that there was a chance she would die?
+
+“I’ll follow you,” said Sophie resolutely. “I’ll get to 9th tier and then become a goddess and meet you again.”
+
+“I’ll be waiting,” said Irylax, leaning down to press her forehead against Sophie’s.
+
+Sophie smiled and giggled slightly, then the two broke apart as Irylax turned to look at Elise.
+
+“Don’t forget what we discussed before,” she said.
+
+It was obvious that she was referring to her request—or rather, command—for Elise to leave the Grays once she was gone.
+
+“But what about–?” started Elise.
+
+“One week,” said Irylax. “You have one week.”
+
+Just barely enough time for the Dungeon Competition, then.
+
+“I understand.”
+
+“What are you talking about?”
+
+“…I’ll need to leave soon too,” said Elise.
+
+“Wh– what?” asked Sophie, glancing between her and Irylax. “You–?”
+
+“Not like that,” Elise quickly reassured. “I’ll be around. I just can’t stay here. It will be dangerous for all of us. But I’ll keep in contact with dreamwalking. We can talk every night if you want.”
+
+“Really?”
+
+“Yes,” said Elise. “I’ll be fine. And we can even meet up sometimes?”
+
+She glanced at Irylax, who nodded at her suggestion.
+
+“Not too often,” said the dragon. “But yes, occasionally should be fine.”
+
+Sophie breathed a sigh of relief, then smiled.
+
+“Okay. That’s good. I can handle that.”
+
+“And…” started Irylax, before trailing off and looking away from Elise. “Nevermind. Just don’t endanger my apprentice. And do well. I expect to see you in the divine realm too.”
+
+“Yes, ma’am.”
+
+“I have no more time. I must go.” She turned to Nick and Bianca. “Thank you for your hospitality. I hope to see you again in the future as well.”
+
+“It was our pleasure,” said Nick. “Thank you for taking care of Sophie.”
+
+“And Sophie,” said Irylax, turning back to her apprentice. “You’re a good kid. I’m going to miss you.”
+
+“I–” started Sophie, but Irylax was already gone.
+
+Elise wasn’t sure what she had expected from a divine ascension, but silent vanishing wasn’t it. One moment Irylax was there, and the next she wasn’t. There was no mana or aether. She just disappeared from the living room as if she had never been there.
+
+“…She’s really gone,” said Sophie.
+
+Then, she started crying again.
+
+Due to the earthquake caused by the incident deep below, the Dungeon Competition was put on hold for a day as surveyors went in to verify that nothing had been overly disrupted. Thankfully, the earthquake, while intense, had been brief enough that things were already settling down by the time the surveyors entered. A few groups of monsters had gotten riled up and skirmished, but the mana levels were ordinary, and there was no significant migration of monsters.
+
+This meant that rather than one day of free time before it began, Elise and Sophie suddenly found themselves with two. They had originally planned on using their free day to finalize their preparations for the Dungeon Competition, but with the delay, there was no point. They met with the team briefly to confirm the plan, but the meeting only lasted a few minutes as they all agreed to postpone their final preparations the next day, and then they all parted ways.
+
+Sophie was clearly still recovering from the previous night, and her eyes were red-rimmed, so it wasn’t difficult for Elise to decide what they would do with the surprise free time. It was time for a spa day!
+
+When they returned home after their meeting, they grabbed Bianca—Nick was at work—then went by the church of Light to get Jessie before heading to a spa that Elise had discovered a month or so back during one of her lazy Sundays. Like the one back in Everspring, it catered to a wealthier clientele and specialized in keeping secrets, so Jessie was able to attend in her normal form.
+
+The conversation was light and pleasant, no one wanting to dwell on the previous day. Elise briefly asked Jessie about what happened after she left using {Whisper}, but thankfully, it wasn’t much. Aya’Rhun had awoken shortly after Elise and Irylax disappeared, and the sealed heroes then reconvened to discuss the future. They ultimately decided that they would have to cut contact with just about all mortals, given the magnitude of the threats they faced. If they ran into another enemy on the level of the serpent and had ordinary mortals with them, they would be handicapped trying to protect them.
+
+That made sense to Elise, but she found herself wondering what would happen to her magic lessons. She had been really looking forward to them, and while she completely understood why the heroes needed to go into hiding, it would suck to get so close, and then have that torn from her. But she tried not to dwell on it. At least not for the present. It was supposed to be a relaxing day, after all.
+
+Four hours after entering the spa, the four women left feeling clean and refreshed. It was only mid-afternoon at this time, and they weren’t quite ready to go home yet, so they then took a carriage to the opposite side of the city from where they lived so they could visit a park. It was a rather famous park that none of them had gotten a chance to see, due to it being so far from where they lived.
+
+The park was not particularly awe-inspiring, but it was very nice. It had all been set up by a famous landscape architect—a profession Elise hadn’t been aware existed—and it seemed designed to induce a state of pleasant tranquility no matter which way they went.
+
+On their way home, they stopped at a butcher shop and purchased some very expensive steaks for dinner that night. Elise paid for everything, of course, since she still had all Oberon’s gold and nothing better to do with it.
+
+Dinner was just as peaceful and happy as the rest of the day had been, and while they had not yet gotten over Irylax’s departure, it was clear that they were handling it just fine. The dinner table felt a bit strange without her presence, and her seat at the head of the table remained empty, and her absence was impossible to ignore, but it was fine.
+
+As usual, they retired to the living room after dinner, where the conversation continued to be lively until it got late enough that Jessie had to leave, and Elise was getting tired and ready for bed. She bade Jessie goodbye, and the Grays goodnight, but when she opened the door to her room, she found someone else waiting for her.
+
+“You had an exciting day today,” said Samantha.
+
+“What are you doing here?” asked Elise, shutting the door behind her.
+
+“We never got a chance to wrap things up properly yesterday,” said Samantha, reaching into her pocket. “Here, take this.”
+
+Elise frowned as she accepted a scroll, and when she unfurled it, she recognized the pattern on it as belonging to a teleportation scroll.
+
+“It’s for emergency use,” said Samantha. “Erin was supposed to give it to you, but, well…”
+
+“Where will it take me?”
+
+Samantha shrugged. “No one knows. It’s somewhat random.”
+
+“Wait…” said Elise.
+
+“Yes, I know you have experience with this kind of scroll before. Erin’s sister makes them. They’re not completely random, but they are completely unpredictable. They are a true marvel of artificery, though. Whoever uses one will be taken to the place where they can benefit the most, supposedly. And that seems to have been the case for the Grays.”
+
+“You call being enslaved by a crime syndicate beneficial?” asked Elise.
+
+“In the long run, was it not?” asked Samantha. “Bianca first spent time in the deep wilderness and unlocked a very rare Class, and Nick may now be the only one in the world of his species, on top of having a very powerful Class. The journey may not have been pleasant, but the results are undeniable. And then, of course, there’s Sophie, which I don’t think I need to explain.”
+
+“Still…” said Elise. “Doesn’t that mean that there’s a chance that this will take me somewhere that I will be enslaved?”
+
+“It does,” said Samantha. “But at your current level, I doubt there are many in this world who could successfully keep you. And as I said, this is only for emergency use. Because it is not anchored anywhere else, it is also untraceable. If you use this, no one will be able to follow you. And if you encounter one of the foes that was sealed alongside us and all you have is an ordinary scroll, they will be able to follow you.”
+
+Elise continued to frown at the scroll, but after a few seconds of deliberation, she reluctantly stowed it away in Astrid’s Star. She did not feel good about using the very same device that had nearly ruined the Gray family completely, but if she ever was in such an emergency, she would rather have it than not.
+
+“I’m sure Jessie told you already, but we’ll be disappearing for a while,” continued Samantha. “It’s not safe for us to be anywhere near other mortals. But Aya’Rhun has not forgotten her promise. She still intends to teach you, when she can. For now, she’s sent this.” She produced another item from her pocket, this one a translucent white prism. “Channel your aether into it to activate it. It should be doable for you as you are. The crystal will do most of the work. Just will yourself to see its contents.”
+
+Elise did so, and it did indeed work. It was an exceedingly odd sensation, and it took her a few seconds to get used to it, but once she adjusted, she found it rather intuitive. The crystal seemed to be an archive, of sorts, and it contained what appeared to be a tutorial on basic mana use. Elise couldn’t help but smile when she saw it. She was worried she would get nothing, or would have to wait years until things settled down more, or at worst, try to figure things out on her own, but this was more than enough to keep her occupied for a while. Hopefully, by the time she finished going through it and mastering the technique, either the world would be safer, or Elise would be strong enough to handle the dangers.
+
+“Thank you,” she said.
+
+“And lastly, this,” said Samantha, this time pulling out a bundle of scrolls. “These ones are ordinary. No contact with mortals unfortunately includes Charlotte. She’s currently in a safe place, but she’s no doubt lonely. Each of these scrolls are paired, and there are seven pairs. One will take you to her location, and the other will take you back to where you were. Each can take up to two people, so we request that you visit her regularly until you can find a better, more permanent home for her, and then bring her there.”
+
+“I will,” said Elise, accepting the scrolls gratefully. “You’re not going to give her to Ostra?”
+
+“No,” said Samantha. “Tyral visited them once, and he said there was something wrong with the organization. He does not like them, and would prefer she stays away until she’s mature and experienced enough to decide these things on her own.”
+
+Elise nodded. “I understand.”
+
+“I shouldn’t spend too much longer here, but do you have any questions before I go?”
+
+“Why don’t you all just ascend?” asked Elise immediately. “Then you wouldn’t be in danger. Surely you’re at that level, right?”
+
+“Well, that was the original plan,” said Samantha. “We were forced to allow ourselves to be sealed away rather than ascending in the past, and we wanted to all do it at once after we were unsealed… but then we met Irylax. I won’t explain further to avoid putting you in danger, but suffice to say, we realized we still had much further to go before ascending was safe. So, in addition to trying to take out these unsealed evils, we will also be working hard to grow stronger so we can accomplish our true goal.”
+
+“I see.”
+
+“Besides, leaving the world behind with more creatures like the serpent running loose would not sit well. We work to protect the mortal realm, and abandoning them to their fate when we know they have no one who can stand against these beings goes against our creed.”
+
+Elise nodded again.
+
+“Is there anything else?”
+
+Of course there was, but most of Elise’s questions would have the same answer. “I can’t tell you because it would put you in danger.” And as much as Elise wanted to defiantly demand the answers anyway, after witnessing the death of the serpent, she knew better. They were right. She wasn’t ready yet.
+
+“No, noth–” she started. “Wait, yes. Who were those guards you were with on orientation day? And what did you say to Liam Grane to get him to back off?”
+
+Samantha blinked, then laughed before snapping her fingers and causing the same two guards from orientation day to appear right in the room.
+
+“The guards were illusions,” she said. “Part of my mystique. And I just told Liam an embarrassing secret of his and threatened to reveal it.”
+
+“What secret?”
+
+“Nothing interesting. Not compared to our secrets, at least. Just an affair with a married woman that his father explicitly told him not to touch. It would have been juicy gossip, and it would have gotten him disciplined, but that’s all. More consequences than he cared to bear, but not enough for him to feel truly threatened.”
+
+“I see.”
+
+“Is that all?”
+
+“Yes, I think so.”
+
+“Then, this is goodbye. I know our relationship was built on lies, but I did enjoy your company. I’ll miss being able to mess with you.”
+
+“I didn’t mind you much either,” said Elise with a smile. “You were a fun mystery.”
+
+“That was my goal,” said Samantha, returning the smile. “See you around.”
+
+She disappeared, just like Irylax had, but Elise knew it was different. Samantha was just so adept with mana and aether that Elise didn’t notice.
+
+I need to get stronger, thought Elise, flopping down onto her bed. I feel so useless.
+
+She spent the rest of the evening reading through the instructions in the crystal from Aya’Rhun, though she didn’t quite get through it all. It was all comprehensible, but complex, explaining the intricacies of how aether and mana interacted, and it also contained a set of progressively harder drills to work up to being able to cast simple spells. Elise would have a lot to do once she got started on it.
+
+But that would have to wait until after the Dungeon Competition. This would be the last bit of time she would get to spend with Sophie for the foreseeable future, and she wanted to make it count.
+
+To the mortals, her ascension had seemed simple and instant. To her, it was the opposite. It was a long, painful process as her body and soul were torn apart and built anew, ridding her of the remains of mortality and replacing it with divinity. She had never felt such pain before, and she wasn’t even able to move or scream. She was in a void, unable to control herself.
+
+Then, all of a sudden, it was over. She had no idea how long it took. She only knew that she was whole once again, and better than she had been. Significantly better. So much better that she hardly felt like herself. Her power as a newly ascended god dwarfed that of some who had been around for centuries.
+
+But she had no time to revel in her divinity, as the moment her mind regained clarity, a shadow fell over her, and she looked up to see an enormous winged figure descending from above.
+
+“Father.”

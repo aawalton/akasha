@@ -1,0 +1,171 @@
+---
+id: 47f851ce-9edd-5712-ba81-9a278e401176
+page-type-slug: story-chapter-royal-road
+title: "81 - Infiltrator Quests"
+slug: 0081-81-infiltrator-quests
+partOf: cat-girl-evolution
+position: 81
+ownLength: 2641
+unit: words
+publishedAt: 2026-01-29
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2990015/81-infiltrator-quests"
+royalRoadId: "2990015"
+---
+
+We ask a few more questions of Annie about her master, which she refuses to answer. Then, the twins volunteer to take her head so they can study it and also make sure it stays sealed, while Lauren and I head to the Guild to inform Pike of what’s going on. When we get there, we tell him that Annie killed herself and destroyed her body after the interrogation. It doesn’t make sense, and Pike clearly doesn’t believe us, but he and Lauren have a weird silent conversation that ends with him letting it go.
+
+“Whole world’s going crazy,” I hear him grumble as we descend back down from his office.
+
+After that, we head back to Lauren’s house, and I promptly teleport up to my room and take a nice, long nap on my nice, comfy bed. The beds in the safe house weren’t bad, necessarily. I’ve had worse. But they were definitely cheap and mass-produced, unlike the beds in Lauren’s house whose mattresses are much nicer. It’s always nice having rich friends.
+
+When I wake up, it’s a little after midnight. Lauren and all the servants are fast asleep. I stretch out, then teleport downstairs to start cooking myself a quick meal. I try making some grilled fishman, but as it turns out, I am not good at grilling fishman. The meat gets a nice sear on the outside, but it’s not cooked evenly, and the middle is basically completely raw. That’s not really a big deal for me, and it still tastes fine, but Culinary Analysis gives me a rare “Abysmal” rating on my food quality, which stings a little. It definitely doesn’t taste abysmal… but I guess it was a little uninspired.
+
+Whatever. Screw that Skill anyway. It has a dumb name and was created by a dumb person and it doesn’t know what it’s talking about.
+
+With my stomach satiated, I leave the house, still in cat form, and start wandering the streets. This time, though, I’m not exploring. I’m thinking.
+
+“Impossible.”
+
+Shut up.
+
+I kinda got distracted by all the other stuff going on with Annie, but now that I’ve had some time to sit around and relax some of the stuff she said kinda bugs me. Like how when she was attacking me, she was yelling about how Infiltrators like me trick humans into trusting them, then kill them to complete Quests. Looking at my own Royal Status Window, I do indeed have a Quest that’s kinda like that.
+
+I never really thought about it too deeply before, but looking again, the two options for how I can complete it say “branch.” I was just thinking that it was two different methods to get the rewards, but her words make me think it might be deeper than that. Will the one I complete decide my future Quests too? If I do the faster option of killing someone, will my other Quests be related to killing people? And for the non-murdery option, will that lead to more non-murdery Quests? Abby?
+
+“The System is frustratingly tight-lipped about this, so I can’t say for certain. However, if I had to guess based on the terminology used in other System features, I would be willing to bet that yes, the option you choose here will decide the types of Infiltrator Quests you receive in the future.”
+
+Yeah, that’s what I thought. That also explains why Annie’s attitude toward Infiltrators is so different from the twins’. They have no problem with them, but that’s probably because all the ones that their master is aware of are the ones who chose the peaceful route. Meanwhile, Annie had an unfortunate encounter with the non-peaceful kind. Actually, given what A and B said about necromancers and Named monsters, I think there’s a pretty good chance whatever turned Annie is probably one of those Infiltrators.
+
+Wait, no, that can’t be right. If she was created by a Named monster, that monster has to be a Leader type, right?
+
+“Not necessarily. Technically, it’s possible to create Named monsters without being a Leader type, so long as they are a powerful enough Necromancer. Though if it is as you suspect, and the creator is one of the contestants, then I don’t find that likely. Even as much progress as you’ve made, I don’t think it is possible for them to have become such a powerful Necromancer in such a short span of time.”
+
+Right, so still, not likely.
+
+“I believe that you may be overthinking this. Perhaps she simply was killed and raised by a Leader, and now that she is an Infiltrator herself, she can view the Infiltrator Quests and has drawn her own conclusions.”
+
+Oh yeah… I think it’d be best to just ask her.
+
+“She wouldn’t be able to answer.”
+
+Non-answers can be just as informative as answers if you know how to read them.
+
+It doesn’t really matter that much though. I’m bored, so I might as well go see what’s up. Plus, I’ve never been to the twins’ house before. It should be fun. And I can ask all three of them about Infiltrator Quests. Maybe Annie’s already done hers, or if not, I bet the twins will know something.
+
+“Good point. But how are you going to find them?”
+
+I can just follow their scent. I have pretty high Sensitivity, you know.
+
+I stop my aimless wandering and run back to Lauren’s house. From there, I track down the smell of the twins, and also of Annie, and I follow them to the far west side of the city where the trail ends. The twins' house is both unique and exactly what I expected from them. It looks like someone took a normal mansion, stuck a big room on the side, then mirrored the whole thing. The middle of the building is only one story, and is wide and rectangular, but on either side, a three story mansion rises up, both identical even down to the weathering on the stone bricks. I bet that they did that on purpose to be funny. Exactly as expected of them.
+
+The whole building is surrounded by a tall stone wall, and between the wall and the house is a pretty nice garden. Like everything else, it’s symmetrical. Almost. There is a pond on either side, both filled with the exact same amount and type of fish. However, the fish are not moving identically. I guess even the twins’ dedication to the bit isn’t quite enough for them to be able to make that happen. It’s almost disappointing. Why even have live fish in the first place when they can’t be controlled precisely enough for everything to be identical?
+
+Beneath the house, there is an enormous basement that extends beyond the borders of the house, going almost all the way out to the wall surrounding the property. The basement is mostly one single room, with a few sealed rooms around the edges, and the entire floor is filled with tables covered in random scrap and trinkets. It’s actually pretty impressive how much is there. I knew that they were artificers, but I didn’t realize that they were so dedicated to the craft. In fact, they’re actually down there right now, still tinkering.
+
+Beneath the ground, I sense the twins both standing over a table, controlling their mana and fitting pieces of metal together to make… something. A headband? Yeah, probably that. Annie’s head is sitting right in front of them on the table. All three of them are talking, but the sound insulation in the basement is so good that even I can’t hear a word they’re saying.
+
+I’m about to teleport in to say hi when I notice something else. Below the basement, there’s actually a second hidden basement. That on its own isn’t too crazy. It’s what’s inside it that gives me pause.
+
+The second basement is much smaller than the first, only consisting of two rooms. The first is completely empty, with nothing but a couple light fixtures and a big vault door. Behind the vault door, though, is… nothing. Nothing I can sense, at least. In fact, I can’t even properly sense the vault door. Only the handle on it. Whatever it’s made of is not edible to me, and apparently, that also makes it so I can’t sense what’s within it. Unless it’s just a solid brick of that metal, but I doubt that. If it was, why would there be a door handle?
+
+I’m almost tempted to teleport straight there and try to get in before talking to Annie and the twins, but that would be a little rude, even for me. Instead, I just Blink right onto the table behind Annie. Or at least, that’s what I try to do. However, when I try to trigger the Skill, there’s a flash of mana from some weird formations around the yard, and nothing happens. I try again, this time pushing harder, but the enchantments preventing me from teleporting don’t give.
+
+A and B notice the attempted intrusion at the first attempt, and on the second, B heads upstairs to check things out. With a sigh, I jump up onto the stone wall, then down into the garden, casually strutting up to the front door. I sit down in front of it right before B opens the door.
+
+“Mraw?” I say.
+
+For a few seconds, we stare at each other. Then, I step forward and jump up, putting my paws on her leg. She understands the gesture, and bends down to pick me up and hold me in her arms. She heads inside, closing the door behind her, then immediately starts scratching behind my ears. A perfect minion.
+
+She brings me downstairs without a word, stopping in front of the table with Annie’s head where A is still working on the headband thingy. Annie looks at me with an expression of cautious curiosity, but doesn’t say anything.
+
+“You know, you really shouldn’t be wandering around in that form,” says A, absently reaching out to rub my back while she examines the headband.
+
+“You registered as a monster to our defensive enchantments,” adds B.
+
+“If we didn’t already have the alarm disabled to bring Annie in, you would have woken up half the city.”
+
+“Oops,” I say.
+
+“I told you so.”
+
+Shut up.
+
+“I think this should do it,” says A.
+
+I am confused for a moment before I realize she’s not talking to me. Without waiting for a response, she reaches out and places the headband around Annie’s forehead. She twists a knob on the side, and it tightens into place, and then some kind of enchantment activates and it starts cycling mana. I can’t tell what else it’s doing, but both A and B study it closely for a few seconds before nodding.
+
+“Perfect,” says B.
+
+“What’s that?” I ask.
+
+“Restraint headband,” says A. “It drains her mana.”
+
+“We had to manually adjust the rate though,” adds B. “Since she’s an undead, she’ll die if she runs out of mana entirely, so we have to make sure it only absorbs as quickly as she recovers.”
+
+“It also has some basic mana interference features,” says A. “If she tries anything shady, the headband will interfere with it. It won’t be able to completely stop her, but it will disrupt enough to make anything she tries to do cost more mana than she has.”
+
+“She’s effectively mundane now. Aside from the fact that she’s a severed head.”
+
+“I see.”
+
+Looking closer, I can kind of see how it works. It is indeed draining the mana from her body. The mana is already quite a bit lower than it was earlier, so I assume that the earlier tests must have brought Annie’s reserves down. I bet that was somewhat intentional on the twins’ part. It’s also a little comforting that they were able to do this, since that alleviates the rest of my concerns about leaving Annie alive. I don’t really want to kill her, since while she did try to kill me, she seems more of a victim than a perpetrator, but at the same time, leaving her alive is risky, since she’s still under orders to assassinate me. With this, she should be harmless.
+
+“Next, we’ll start working on some masking tools,” says A. “To hide her presence so we don’t get in trouble with any authorities.”
+
+“Assuming we want to take her with us, that is,” says B. “We can always turn her in too. Or kill her.”
+
+I think about it for a few seconds, then shake my head. Shaking my head happens to make B’s fingers hit a sweet spot behind my ear, so I then twist my head a bit more, rubbing it against her hand to really scratch that itch. Then, after a few seconds of that, I respond.
+
+“Yeah, let’s bring her,” I say. “I don’t wanna kill her, and I don’t think we can turn her in without exposing me. Besides, she might be useful later.”
+
+“That’s what we thought,” said A. “So we’ll keep doing that.”
+
+“We were actually going to do it anyway, since it’s good practice. Especially if you want to be able to travel around in that form without triggering alarms.”
+
+“We might be able to make you a stealth collar…”
+
+“It’s fine,” I say. “I think I’ll be able to avoid the alarms myself soon. That actually reminds me why I’m here. You guys know about Infiltrators, right?”
+
+“Roughly,” says B.
+
+“Okay, so basically, as an Infiltrator, I have Quests I can do that earn me rewards. My current one has two different branches. Do you know if doing one or the other will affect my future Quests?”
+
+A and B share a glance and a quick telepathic message.
+
+“Quests?” asks A. “What do you mean?”
+
+“Ah, I guess you don’t know then,” I say. “Annie, do you?”
+
+“Yes,” she says. “It does affect them. You will be locked onto a path when you complete either side.”
+
+She looks very sad as she says this.
+
+“Ah, I see.”
+
+I’m not really sure what else to say, so I just relax and enjoy being pet by A and B for a few seconds until the twins simultaneously yawn.
+
+“Did you need anything else?” asks A, wiping away a tear that formed from her yawn. “Did you just want to ask that?”
+
+“Pretty much,” I say.
+
+“Well, now that we’ve got her secure, we’re probably gonna head to bed,” says B.
+
+“You’re welcome to stay and keep her company if you’d like,” says A. “Try not to teleport around though.”
+
+“If you push against the enchantment too hard, you might set the alarm off.”
+
+“And don’t go walking around the city like that until you can properly hide what you are. Honestly, you’re incredibly lucky you haven’t come across any other detection fields. Ours isn’t even that robust and it picked you up.”
+
+“Alright, I guess,” I say, jumping out of B’s arms and switching into cat girl form.
+
+I wish there was a way to speed up that Infiltrator Quest. And now that I know that the branch will permanently affect my Quests, I definitely can’t do the killing one. I’m not against killing bad guys, but I’d rather not be forced to keep doing it. Especially if the Quests keep escalating like they have been.
+
+The twins yawn again, then turn to head back upstairs, and as they do, my senses brush against the secret vault below us again.
+
+“Can I go down into the second basement?” I ask.
+
+They both pause mid-step, and I sense a rapid telepathic conversation happening between the two of them. Then, they both turn around wearing rare smiles.
+
+“Actually…” says A.
+
+“Why don’t we just show you ourselves?” asks B.

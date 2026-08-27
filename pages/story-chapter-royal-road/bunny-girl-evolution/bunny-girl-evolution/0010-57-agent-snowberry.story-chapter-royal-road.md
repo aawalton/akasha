@@ -1,0 +1,192 @@
+---
+id: f81542bf-057e-563a-87d9-83b511a01c1d
+page-type-slug: story-chapter-royal-road
+title: "57 - Agent Snowberry"
+partOf: bunny-girl-evolution
+position: 10
+ownLength: 3062
+unit: words
+ownProgress: 3062
+publishedAt: 2024-12-24
+link: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/1971835/57-agent-snowberry"
+royalRoadId: "1971835"
+markedReadAt: "2026-06-29T20:02:59.152Z"
+---
+
+The armored man was standing in a small clearing with his sword drawn and his back to a tree as a pack of wolves stalked back and forth just outside of his range. As she watched, one of the wolves lunged in toward him, only to veer away from the path of his blade as he swung down to intercept it. Elise had no idea who the man was, but he was the first human other than the Grays she had seen in the forest, and he clearly needed help.
+
+As she flew toward him, another wolf dove in, and backed away again. They seemed too scared to get close, and seemingly with good reason. Two of the wolves had long gashes down their flanks, dripping blood onto the grass as they paced around. The man seemed calm and poised, and not at all panicking like Elise knew she would have been. She slowed down, realizing that the situation was not quite as dire as she feared.
+
+She had some time, clearly, so she stopped behind a nearby tree, far enough away that hopefully none of them would notice her, but close enough she could still use {Inspect}.
+
+[ Direwolf, lvl 9 ]
+
+This is probably what the warg evolved from, she thought.
+
+She was filled with anger, but let it pass. The warg was out there somewhere, living a peaceful life that it didn’t deserve, but that wasn’t anything she could do anything about right now, and she had more important things to worry about. At this range, she could see that there were two wolves that were bigger than the others. They were a bit too far away for her to {Inspect}, but it didn’t take a skill to tell that they were a higher tier version. [Greater Direwolf], if she had to guess. Both were standing at the back of the pack, snarling as if giving commands to the others.
+
+Elise thought about what she could do to help the man. She could have just gone in, guns blazing, firing {Magic Missile} at everything she could hit, and she would have if the danger had been more immediate, but that wasn’t the most effective way for her to act. Maybe she was strong enough now that she could make that strategy work, but without knowing what tier the direwolves were on, she wasn’t going to gamble her life on that assumption. Subtlety was her strength, and it would be best to use that.
+
+The best plan would probably be to use {Suggest} on the bigger wolves and try to get them to leave without a fight. She didn’t really want to let the monsters leave, knowing what they would become if they survived long enough to evolve, but she was saving someone, not hunting, so making sure they were safe was the number one priority. Unfortunately, {Suggest} had a much shorter range than {Inspect}, and these wolves probably had much better senses than the cows, so it would be difficult to get close enough while in her current form.
+
+She ran through the different monsters and animals she had seen, thinking what would be best to transform into, and realized that she didn’t actually have any forms that were good for stealth. Especially since all her forms were bright white. That meant that rather than stealth, she would need to go for something harmless that the wolves would pay no attention to, which more or less limited her to birds. The man might find a white bird unusual, but she doubted she would be on the wolves’ radar as a potential food source.
+
+She transformed into one of the tiny birds from the drow cave– a [Cave Sparrow] – deactivated her {Fairy Wings}, and flew up to a tree above the wolves. Her stats were pitifully low, as the creature she had transformed into was two whole tiers below her, but the wolves paid her no mind. She was too small to even make a decent snack. She glanced toward the man, but she couldn’t tell if he had seen her, as his face was hidden by a helmet. She used {Inspect} on him, to see what his class was.
+
+[ Knight, lvl ??? ]
+
+[ Inspect has leveled up! 47 -> 48 ]
+
+His level was hidden, which meant that he was higher level than her {Inspect} skill. If he was that strong, and a melee combat class, it made her wonder why he wasn’t just fighting them off. If she remembered correctly, Sophie’s older brother Nick had the same class, and he had a skill that could cleave through trees like butter. Surely it could cut through a few wolves too. Though maybe it was the quantity that stayed his hand. If he used that skill, he might take out a couple, but there were more than 20 wolves there, and he might not have the mana to take them all on.
+
+Regardless of his reasons, he still needed help, so Elise focused on the nearest of the two larger wolves.
+
+This prey isn’t worth it, she sent with {Suggest}. We will get hurt for little meat.
+
+The tone of the wolf’s snarling changed, and the nearest wolves’ ears perked up. None of them moved, so Elise turned her attention to the other bigger wolf, and sent the same thing. It still wasn’t quite taking, so she switched back to the first and reinforced the first {Suggest}. The wolf huffed, then let out a short howl. All the others froze, then turned toward the big wolf. A few seconds later, they all turned to walk away.
+
+Elise watched them stalk off into the forest, but they didn’t get very far before stopping. They had given up the hunt, but they still weren’t willing to let the man roam free in what they probably considered to be their territory. She turned to see the man still holding his sword, also watching the wolves warily. After about a minute when it was clear that they were no longer actively trying to kill him, he took a few cautious steps forward, then turned and sped up as he pressed deeper into the forest.
+
+Where is he going? thought Elise,
+
+That question was answered a few seconds later when he arrived at a path that she somehow hadn’t noticed before. She followed behind him, flitting from tree to tree, trying not to draw attention to herself. A few other birds and smaller critters gave her curious looks, but none of them bothered her. The wolves were still following below and behind her, but they didn’t get closer than a hundred feet from the man.
+
+The knight pressed on with the confidence of someone who knew where they were going, which made Elise curious. She hadn’t really spent much time aboveground until the past two weeks, but she hadn’t noticed any other humanoids nearby. Either he had some very good directions, or he was someone who had been there before, and Elise only knew one [Knight] who had been there before.
+
+No, it can’t be… she thought.
+
+Her hopes had gone up when the possibility that the man was Nick crossed her mind, but Nick was much taller than this knight. Not that the knight was short, but Nick had been close to six and a half feet, and this man definitely wasn’t that. However, the further he went, the more confident Elise became that she knew where he was going. The path was not completely straight, but whenever it curved, it would always right itself to head back toward the cabin.
+
+Who was he? Did someone finally get sent to check on what had happened to the Grays? There wasn’t really any other possibility. In that case, should she reveal herself to them? She could ask how they were doing, and find out where they were so that she could check on them, and deliver the bones. She would have to be in her human form, obviously, since she doubted the man would tell a monster about their whereabouts. Though he probably wouldn’t tell a random suspicious woman he met in the woods either…
+
+She decided to just follow him for the time being, and only reveal herself later if she thought it was a good idea.
+
+After a few minutes, the wolves finally stopped tailing them, so the knight sheathed his sword and quickened his pace. Elise followed behind, still in her sparrow form, then realized that if she was going to talk to him later, she would need {Lesser Transformation} to be off cooldown. He wasn’t looking behind him anyways, so she switched to her Lesser Rabbit Fey form, and continued following.
+
+{Lesser Transformation} was almost available again when they finally arrived in the valley with the cabin in it. The knight was jogging at this point, though Elise couldn’t tell why. As far as she was aware, there was nothing dangerous nearby. As he approached the cabin, he took his helmet off, hanging it from a hook strapped to his belt. Or rather, her belt.
+
+Definitely not Nick, she thought.
+
+Her shoulders were broad, and she looked well-built, but the facial features that had been hidden beneath the helmet were surprisingly soft. She had dark brown hair cut short so it only fell to her neck, and a face that looked more innocent than Elise thought a knight’s should have looked.
+
+When she reached the door, she stopped for a second, took a deep breath, then knocked. There was no answer, of course, so after a minute, she knocked again.
+
+“Nick!” she called. “Bianca! Mr. Gray! Mrs. Gray! Sophie?”
+
+Her voice sounded young, and from the way she called out their names, Elise guessed that this woman must have been one of Nick and Bianca’s friends. Maybe she had trained with Nick. More importantly, however, she also noticed that the knight didn’t seem to be aware of what had happened there. That meant she had come of her own volition, and that she had not been sent by the surviving Grays.
+
+That confirmed some of Elise’s fears, filling her with dread. If this woman who was close enough to the Gray’s to come out to the forest alone to look for them didn’t know where they were, that meant that no one did.
+
+The knight knocked and called the names once more before trying the door. It was locked, so she circled around the side of the house. She chose the intact side, of course, so she made it to the back door without noticing the problem. She tried that door as well, then circled back around to the front, going the same way she had first come. Elise’s sense of dread was overcome by a sense of frustration as she watched the knight pound on the front door more.
+
+Should I help her?
+
+At this rate, she would break down the door without even realizing that there was a massive hole in the one side of the cabin that she hadn’t checked. Elise’s skill was off cooldown, so she could transform into a human and go talk, but was now the best time to reveal herself?
+
+Will there be a better time? she thought.
+
+Not being able to answer, she decided that she might as well. The knight clearly didn’t know what had happened to the Grays, but she probably knew more about them than Elise did, so she would be a valuable source of information. If Elise could get her to talk, that is. How would she introduce herself in a way that wouldn’t seem suspicious? She could pretend to be lost in the woods, perhaps. No, that would be incredibly suspicious. What kind of person would get lost this deep in monster-filled woods.
+
+There was also the problem of her clothes. They looked normal-ish to her, but they were made by dwarves whose knowledge of fashion on the surface was 400 years out of date, so it would no doubt look strange to the knight. No, the best plan would be to bluff, and do so shamelessly.
+
+She flew down to the ground, then transformed into a human and deactivated her wings. She took a brief moment to make sure that she looked relatively presentable, then stepped out from behind her tree.
+
+“Who are you?” she asked.
+
+The knight whipped around at the sound of her voice, drawing her sword. Finally getting a full frontal view, the knight looked even younger than Elise thought she was. If she was any older than Elise was, it was only just barely. She was also taller than Elise expected. She still wasn’t as tall as Nick, but having spent so much time with dwarves and drow, Elise had forgotten how short she was. She was a full head shorter than the knight, and between the height difference and the sword pointed at her face, it was becoming very difficult to maintain her false confidence.
+
+“Wh-who are you?” asked the knight.
+
+“I asked first,” replied Elise. “Who are you and what are you doing here?”
+
+She used {Charm}, followed by {Suggest} to hopefully get her to let down her guard. While she probably wasn’t as strong as someone like Sindri or Naomi, if she decided to attack, Elise very well could die, since her physical stats were so low.
+
+“I- My name is Penelope,” said the knight, lowering the sword. “I’m looking for my friends. One of them, he- his family lives here. They went to visit for Spring Break, but he never came back. Do you know what happened to them?”
+
+“I do,” she said. “But first, please put your sword away.”
+
+“Of course!” replied the knight, sheathing it. “What happened? Where are they?”
+
+“They were attacked.” Elise was surprised at how steady her voice was. “A Winter Warg attacked the cabin while they slept.”
+
+“A warg?!” exclaimed Penelope. “Here?!”
+
+“Yes,” said Elise, nodding. “Follow me.”
+
+She walked around to the destroyed side of the cabin with Penelope following closely behind. When she saw the destruction of that side of the house, she gasped.
+
+“The cabin was professionally enchanted…” she muttered. “Does that mean that they’re- are they- dead?”
+
+Elise’s mind raced as she tried to calculate how much information she could give her. She didn’t even have a cover story in mind. How would she explain how she knew what she knew? She couldn’t lie though either.
+
+“The parents are,” Elise said. “But there were no other bodies.”
+
+“Then Nick is alive?”
+
+“I don’t know. I hope so.”
+
+Penelope looked at the wreckage of the cabin for a couple more seconds, then turned to her.
+
+“Who are you? How do you know this?”
+
+Elise still hadn’t figured out a cover story. What kind of cover story would even make sense here?
+
+“My name is Snowberry,” she started.
+
+“Snowberry?” asked Penelope.
+
+Snowberry?? Elise thought.
+
+“Yes. Agent Snowberry. It’s a code name.”
+
+What am I saying?? Why is my name being translated to Snowberry?
+
+{Tongues} seemed to be working properly otherwise. She could hear that whatever Penelope was saying was in Common, even if she understood it in English. She could feel all the unfamiliar words on her tongue as she spoke them, despite thinking them and hearing her own voice in English. However, despite the fact that she was definitely saying “Elise”, for some reason, she heard “Snowberry”.
+
+“Oh, you’re with the IB,” Penelope said, a look of comprehension crossing her face. “But when I asked, they said all their agents were busy? Did they already have one working on this case?”
+
+“Not the IB.” What’s the IB? “I’m an investigator working for a private organization.”
+
+“A private organization?”
+
+“Correct,” she said, nodding. “You probably haven’t heard of us, and we like to keep it that way. We look into unique cases such as this one that other organizations might be less qualified to handle.”
+
+“What makes this case unique?” asked Penelope.
+
+“Well, everything,” she said. “This is supposed to be a safe area, only spawning low level monsters that couldn’t even hurt a child, and yet a warg was living here. And on the night of the attack, we detected a dimensional anomaly.”
+
+“A dimensional anomaly?” asked Penelope, looking shocked. “What does that mean?”
+
+“It’s less serious than it sounds,” she said. “It’s just a term to refer to a long-distance teleportation spell being used. Three people were transported away on that night.”
+
+“To where?”
+
+“We don’t know,” she said. “That’s another thing that makes this case unique. In fact, I was just about to start reaching out to friends and family to see if anyone had news about their whereabouts. Have you heard anything?”
+
+“I haven’t,” the knight said, shaking her head. “That’s why I’m here.”
+
+“Do you know who else might know? Someone else they might have gone to first? Maybe some of their family?”
+
+“Family?” asked Penelope. “I don’t know. Nick never told me about any other family. I don’t know if he had any. I’m pretty sure he said that his mom’s family didn’t talk to her. Oh, but Bianca’s might! I tried to get in touch with them before I left, but they never responded to any of my letters.”
+
+“You sent letters? Then you know where they are?”
+
+“Doesn’t everyone?”
+
+Not me!
+
+Elise panicked for a moment, wondering what to say. Apparently Bianca’s family was well-known enough that Penelope didn’t even feel the need to say their names. That meant that Elise should have known who they were too. Did she get caught? No, there was still a way out.
+
+“Who exactly is Bianca?” she asked.
+
+“I thought you were supposed to be investigating this,” said Penelope, her eyes narrowing.
+
+“I am,” said Elise. “I knew that the Gray family lived here, but I did not know who the fifth person here on the night of the attack was.”
+
+“Ah,” said Penelope, not looking totally convinced. “Well, the fifth person was Bianca Lappin, youngest daughter of the Lappin family.”
+
+“Oh, I see.”
+
+Elise immediately knew she had made a mistake. She probably should have known before she opened her mouth, since Penelope wasn’t exactly being subtle about her suspicion. Elise took a few panicked steps back as the other woman drew her sword.
+
+“You’re not an investigator. Who are you really?”

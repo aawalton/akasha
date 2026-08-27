@@ -1,0 +1,117 @@
+---
+id: fd03952b-2392-5128-a799-3e6c27966f41
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1651 - On the Study of the Chal"
+slug: 0300-chapter-1651-on-the-study-of-the-chal
+partOf: chrysalis
+position: 300
+ownLength: 1094
+unit: words
+ownProgress: 1094
+publishedAt: 2025-09-23
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2621583/chapter-1651-on-the-study-of-the-chal"
+royalRoadId: "2621583"
+markedReadAt: "2026-06-29T19:53:24.671Z"
+---
+
+It didn’t take long to recount the story of what had occurred, and Rathwyn reacted with the same disbelief and shock that Granin himself still felt.
+
+“That’s… that’s extraordinary,” the mage muttered. “Who could have thought that the chal were capable of such a feat?”
+
+Granin frowned.
+
+“They aren’t,” he said flatly.
+
+Rathwyn raised his brows.
+
+“Perhaps I… did not fully understand your words, Shaper Granin. Am I correct in saying that the snails were able to cure the toxin of the Ancient?”
+
+“Yes.”
+
+“So, forgive me, in what way are they incapable of performing the feat which you just attributed to them?”
+
+Granin sighed and pinched his brow, stone grating on stone. As remarkable as it was, he wasn’t especially interested in this beyond how it related to his friend, Anthony. He was an expert in monsters, not in ancient, long-dead singing snails.
+
+“The chal are extinct,” Granin said, “everyone knows that. They’ve been gone for over a thousand years.”
+
+“Yes, but the Colony has, somehow, brought them back.”
+
+“No,” Granin corrected. “The Colony has brought back cleansed Krath.”
+
+Rathwyn blinked.
+
+“Again, I must apologise because I do not take your meaning. Are they not the same thing?”
+
+The others were still weeping in the distance, but showed some signs of managing to pull themselves together. It was about time. The ants were, although polite, still obviously uncomfortable with so much noise and disruption around their Eldest. Already they were starting to make preparations for the construction that would soon start to take place, turning this normal chamber into an impenetrable bunker within the fortress. No measures would be skipped to ensure the safety and survival of the most senior ant in the family.
+
+“They are not,” Granin stated, as if it were obvious. To him, it was. “It’s obvious that the chal were corrupted and fell to become the Krath, but after thousands of years, cleansing the corruption out of them doesn’t just turn them back into perfect chal again, the same as they once were. Those snails aren’t chal, they are cleansed Krath. There is a difference.”
+
+“I see,” Rathwun murmured, brow furrowed in thought as he too folded his arms and pondered. “What you say has a certain logic to it. Cleansed Krath, rather than chal. Close to what they were, but not the same.”
+
+“If you want the final proof, look over my shoulder,” Granin said, jerking his thumb toward the slumbering ant. “If baby chal were capable of cleansing corruption by singing at it, the toxin of Theorazzn no less, then how on Pangera did they fall and become Krath in the first place?”
+
+Rathwyn’s eyes widened as the realisation struck him. What Granin said was perfectly logical. These snails were mere infants, yet their powers of purification were at an absurd level. An empire of seasoned chal took on the fifth and were utterly defeated, vanishing from Pangera forever. The two facts didn’t line up at all. The only explanation was that the chal had never possessed powers of this nature; ergo, the little snails were indeed very different from what their ancestors had been.
+
+“You have opened my eyes,” Rathwyn said with sincere gratitude as he offered a distinguished bow. Granin rolled his eyes.
+
+“Please, I’m a Shaper. Don’t bow at me.”
+
+“As you wish,” the mage smiled. “Yet your scholarly credentials and acumen are to be celebrated, Shaper Granin. I would be most grateful if we were to have further opportunities to converse in the near future. I’m sure my colleagues would be most grateful as well.”
+
+“Them?” Granin pointed to the group only now picking each other off the floor, eyes puffy and red from weeping.
+
+“... Yes. They are dedicated and… enthusiastic in the pursuit of their studies. The chance to witness history come to life in such a grand spectacle had them quite excited.”
+
+“I’m happy to talk when I have the time,” Granin conceded. If he didn’t give in a little, then there could be friction down the line. Fostering good relationships was always a good idea, even with crazies like the magio-scholars. “Though, I should mention a few things.”
+
+“Oh?” Rathwyn said, curiosity lighting up his eyes. Violet eyes, oddly enough. Was that a family trait?
+
+“First, I’m a Shaper, but my triad and I specialise in knowledge and fields pertaining to monsters, cores and pets.”
+
+“A valuable area of research.”
+
+“Second,” Granin ploughed on, “we are members of the Worm Cult, worshippers of Yarrum who have exiled ourselves from our own people to be amongst the Colony.”
+
+“I… see,” Rathwyn said, his enthusiasm fading somewhat as a troubled expression fell over his face.
+
+“I don’t think anyone back at your tower would look well on you spending time with us.”
+
+“What you say has merit,” the mage agreed, “though here among the ants, who is to say what we do or who we speak to?” He winked, a gesture Granin did not return.
+
+“Third, we are here for Anthony. He is our number one priority, and we will be devoting most of our time to him while he is evolving.”
+
+“Oh. Oh.”
+
+Rathwyn’s eyes flicked to the ant, unmoving, fully understanding what Granin was trying to tell him.
+
+“You are being very forthcoming. I can only presume you have a reason,” he probed.
+
+Granin allowed himself a slight smile.
+
+“You and your group want to study these… new chal. There’s a stunning example of what they’re capable of resting over there.”
+
+“You want us,” Rathwyn said slowly, “to help study the changes, in order to help the monster, Anthony.”
+
+“That’s right.”
+
+The Magio-Scholars of the Silver City were amongst the best and brightest humans in the entire Dungeon. Granin would welcome their insight in studying this puzzle, since he doubted he could come up with an answer on his own.
+
+“And you think he’s a potential Ancient, capable of destroying the world?” Rathwyn probed.
+
+“That’s not how it works,” Granin scowled. “Breaking free of the prison and destroying it are not the same thing. Labelling all the cults as lunatics trying to break Pangera is completely false.”
+
+“Oh, I don’t know,” Rathwyn quipped. “The nutters in the Cult of Thoughts can be quite fairly labelled as lunatics.”
+
+Granin frowned as he looked sideways at the mage.
+
+“You aren’t…”
+
+Rathwyn smiled.
+
+“I’m a diplomat,” he said, “I meet all kinds.”
+
+“But you aren’t a cultist?” Granin asked bluntly.
+
+The scholar spread his hands, letting the long sleeves of his robes drape down by his sides.
+
+“Well now. Who can say?”

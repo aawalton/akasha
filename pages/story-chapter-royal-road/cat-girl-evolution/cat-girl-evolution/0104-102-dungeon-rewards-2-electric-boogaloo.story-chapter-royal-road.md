@@ -1,0 +1,217 @@
+---
+id: c9549cd5-9d58-54e2-b897-c31146d3bbf0
+page-type-slug: story-chapter-royal-road
+title: "102 - Dungeon Rewards 2: Electric Boogaloo"
+slug: 0104-102-dungeon-rewards-2-electric-boogaloo
+partOf: cat-girl-evolution
+position: 104
+ownLength: 3249
+unit: words
+publishedAt: 2026-03-23
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3182516/102-dungeon-rewards-2-electric-boogaloo"
+royalRoadId: "3182516"
+---
+
+[ Princess Yona, the Blinking Gastronomic Hunter Thief Chef, lvl 2 → 5 ]
+
+[ +306 Power, +648 Finesse, +378 Resilience, +360 Memory, +360 Willpower, +648 Sensitivity ]
+
+[ Beginner Vivitect, lvl 1 → 4 ]
+
+[ +270 Power, +540 Finesse, +270 Resilience, +450 Memory, +540 Willpower, +360 Sensitivity ]
+
+[ Taker of Names III → Taker of Names IV ]
+
+I dismiss the notifications almost immediately, Blinking down to the ground where Lauren is already stripping the torn metal breastplate off Chad’s body and the twins are pouring a powerful healing potion down his throat. Thankfully, without the metal in the way, and with Chad’s Resilience as high as it is, the healing potion starts doing its work immediately, repairing his organs and pushing his shattered ribs back into place. Still conscious, he coughs up a glob of blood, then smiles at Lauren, showing off a set of blood-covered teeth.
+
+“You look worried,” he says weakly.
+
+Lauren raises a fist as though to hit him, then unclenches it and sets her hand on his shoulder.
+
+“G– good work,” she says. “You did well.”
+
+The twins and I share a glance and a smirk. With the monster defeated, and Chad already recovering, the mood lightens, and a few seconds later, the sky does too.
+
+As soon as Algon died, it became immediately obvious that the storm was its aura ability. Without the bird holding the storm together, the wind dies down, and the clouds all above and around start drifting outward, exposing the clear sky above. It’s like we’re standing in a hollow column of stormclouds, and the way that the calmness of the air, and the way that the artificial sun reflects off the remaining clouds gives the whole Floor a very serene feeling, and compared to how chaotic it was not even a minute ago, the effect is amplified.
+
+The five of us spend a few seconds just staring into the sky, enjoying the view as the healing potion does its work, and after that, we finally start looking at our gains, still silent as we all check our Status Windows.
+
+There’s not really anything unexpected for me. I won’t lie and say I wasn’t hoping for a few more levels, but given the fact that I was sharing experience points, and that I didn’t even get the final blow, it makes sense. I do wonder how much I would have gotten if I did it all on my own. Or if I even could have done it all on my own. Without the poison, and without the twins, it would have been incredibly difficult. I might have had to imitate my namesake and spend some time in the big monster’s stomach. A gross, but necessary tactic.
+
+One thing that became clear in this fight, though, is that A is way stronger than I thought she was. I mean, I knew that she had the big explosion attack, and I assumed that she had a big single target attack too, but I didn’t realize it was so strong. And fast. Even if it took her forever to charge it up, it basically instakilled a Tier 4 Disaster. Even if it wasn’t injured and poisoned, that attack would still have punched a hole right through its head. Of course, it has a lot of downsides, but B mitigates most of them, and honestly, if I hadn’t knocked the bird to the ground right in front of them, Chad wouldn’t have even needed to step in. Lauren and I could have distracted it for a few more seconds, and A would have fired her attack without all that stress.
+
+It also proves that they weren’t actually going all out when we did that spar a couple months ago. Maybe they thought I’d be able to get out of the way? Or maybe she didn’t have whatever that Skill was? Either way, I’m pretty sure that if A charged that up, and B defended, there wouldn’t be much I could do about it. Now that B knows I can eat her shields, she would be able to account for that, and hold me back long enough for A to get her attack off. Maybe. It’d be very different from how the first spar went, though.
+
+I set those thoughts aside, and turn my attention to the body of the eagle behind me. It’s not quite as big as Menyar was, but it’s not much smaller either, so I first summon a few more constructs from my Stomach to replenish my mana, then pull the bird in. Surprisingly, it costs a lot less to eat this than it did to eat Menyar.
+
+“Most of the bird’s size is feathers. Its actual body is much smaller. And it probably has hollow bones.”
+
+Huh. I guess that makes sense.
+
+With the main body of the bird gone, the bloody field is suddenly clear, revealing the severed foot that Lauren cut off, as well as a curved knife resting in the indentation where the other foot was sitting. It registers as edible, so I am able to Snatch it into my hand for inspection. It’s very simple, carved from a single piece of material that I’m pretty sure is a souped up version of the eagle’s talons. The handle is wrapped in brown leather, and the blade is just unadorned, sleek, black talon. It’s so nondescript that if I didn’t know it was a Soul Weapon, I probably would have overlooked it.
+
+Surprisingly, when I try to bond with it, it does so instantly. I guess I shouldn’t be that surprised, since I think that the fishman weapons were just bad matches for me, but I was still half-expecting it to fail. With the weapon now added to my soul arsenal, I pull up the description, making my brows knit.
+
+[ Stormblade: Harness the power of the storm to amplify attack power. ]
+
+I glance at the others, who are all watching with curiosity, then Blink to the enormous charred tree trunk before slashing at it while activating the blade’s enchantment. As I swing, the wind whips around me, gathering around the blade, pushing the attack faster, and flying outward with the swing. The attack carves a deep line through the blackened wood, but nothing particularly impressive.
+
+I wind up for another strike, this time pouring far more mana into it. This time, along with the wind, there’s some condensation, and even a few sparks that release with a crack of thunder. The cut is much deeper this time, but frankly, still nothing impressive.
+
+For the third attack, I disregard the blade’s enchantment entirely and just use a Spatial Slice. The cut is much thinner, but I can sense that it goes just as deep. That’s not too impressive, since Spatial Slice is one of the best skills for cutting power around, but it does kind of put a damper on the blade’s abilities. It costs more mana to use than a Spatial Slice, and doesn’t even do things any better. I guess it's faster, since the wind helps me move my arm faster, and maybe the lightning does something extra, but it’s not something I can use effectively.
+
+I Blink back to the group, still holding the blade, and after a few seconds, I walk up to Lauren, who is still kneeling next to Chad, and offer it to her.
+
+“Here,” I say.
+
+“What?” she says.
+
+“You should take this. I don’t think any of us could use it as well.”
+
+“I– Well– But–”
+
+“Unless the twins want it? A did get the last hit.”
+
+“No, it suits Lauren,” responds A immediately. “If she doesn’t want it, we can just sell it and split the profits.”
+
+“But that’s–” sputters Lauren. “That’s a Soul Weapon.”
+
+“Yeah? And?”
+
+“Do you know how much those cost?”
+
+“A lot? But it’s a knife that makes your attacks faster and cut deeper. Does yours do that?”
+
+“Well, no, but it’s a Soul Weapon.”
+
+“Yeah, and it suits you, I think. Let’s at least check to see if it’s compatible with you.”
+
+I press it into her hands, and give a mental command to the System, and I feel the blade disappear from my soul, presumably to go into hers. She stares at it, still in shock, and I take my hand away before she can try to send it back.
+
+“If you don’t want it, you can sell it,” I say. “Or, you can keep it.”
+
+Lauren struggles to find her words as she glances around at the group.
+
+“But you all fought it too,” she protests. “I only contributed a little. This is too much.”
+
+“We’ll just take all the profits from the monster corpses,” says A with a shrug.
+
+“Either you take it, or we sell it, and we don’t really need the money,” says B.
+
+“It’s more useful to us in your hands.”
+
+“Just think of it as an investment into the Party’s overall strength and safety.”
+
+“But–”
+
+“Shhhh,” I say, putting a finger to her lips. “It’s yours now. Just take it.”
+
+Lauren looks at me, then the twins, the Chad, who shrugs, then winces, since he’s not fully healed yet. She struggles for words for a few seconds, then sighs.
+
+“Alright,” she says. “Fine. I’ll take it. And I’ll make sure to use it well.”
+
+“You’d better,” I say. “Do you know how much that thing costs?”
+
+Lauren stares at me, then throws a playful punch at my thigh as I dance away. The twins almost immediately start grilling Lauren on the Soul Weapon, but I tune them out as I turn my attention to the real prize for the Dungeon: The eagle’s severed leg. And more importantly, the end of it that Lauren severed where the heat of the blade cooked the meat.
+
+Actually, wait. Hold on. I just realized something. Abby, aren’t Soul Weapons so valuable because they grow with the user?
+
+“Correct.”
+
+Then why didn’t the Gluttonous Greatsword and Terror Blade grow with me?
+
+“They did. You just forgot to check.”
+
+Why didn’t you remind me, Butler?
+
+“Because I… also forgot.”
+
+You’re not being a very good butler right now.
+
+“My deepest apologies, Your Highness. I shall endeavor to do better in the future.”
+
+…
+
+Not even being sarcastic this time?
+
+“Most of my processing is being used to make your Dungeon right now.”
+
+Oh, right. How’s that coming along?
+
+“Good. Just keep tossing meat in. And a chunk of that bird would be nice. It would give me a few more options for what I can make.”
+
+How long until you’re done?
+
+“Hmmm, maybe another month or so?”
+
+Seriously?! You said it would be done by the time I evolved my Class!!
+
+“I severely underestimated how difficult it was to design a Dungeon.”
+
+Yeah, no shit, Sherlock. A month?!
+
+“Well, if you want me to do it right, yeah. Most of the aesthetic design is done right now, but doing the—I guess on Earth it would be called ‘level design’—is more complicated than I thought it would be, and the System’s requirements are very strict. I can technically have it functional much sooner, but it won’t be good. Also, I still don’t have that much room to work with yet. I’ll need a lot more meat. Probably most of what you currently have.”
+
+You’re kidding.
+
+“Unfortunately, no. But think about it this way: by investing all that meat, you’re just turning it into future meat. Every monster that you feed to the Dungeon can be endlessly recreated, and if I set this level up properly, then I can put everything into this first Floor. The scallops, of course, will be abundant, but I can also make the Ichthyoids and their line spawn nearby, and same with the mussels, and I can put boars and eagles in the forest, and more.”
+
+You sound like a sketchy salesman right now.
+
+“Well, it’s true. And the more meat you give me, the bigger I can make the Floor, and the more monsters I can make spawn on it. And if you want me to be able to spawn a Named monster as a stage hazard, it needs to be way bigger than it is now.”
+
+Ughhh, fine. How much can it hold right now?
+
+“It’s finished digesting what you gave it before, so it’s quite a bit bigger than it was. If you can toss me a couple boars, a couple eagles, and most of the seafoodmen, that should be enough for now.”
+
+I mentally enter my Stomach, pick out a few of the more intact seafoodmen for myself, and then shove all the rest into my Dungeon. Hundreds of corpses, gone in an instant. And I toss a half dozen boars and eagles too. The feeling of my Stomach emptying out so much feels incredibly wrong. Like it goes against my very nature. But I do it anyway, even if it hurts, all for the promise of a lying butler.
+
+“I’m not lying.”
+
+We’ll see about that…
+
+“Don’t forget to check your Soul Weapons.”
+
+Oh yeah, right. Terror Blade!
+
+[ Terror Blade: When activated, this blade emits an aura of terror. Wounds made by this blade cause the wounded to greatly fear the wielder. ]
+
+Huh. A new ability when I stab stuff. That’s not bad, I guess. Gluttonous Greatsword!
+
+[ Gluttonous Greatsword: Like its owner, this sword has gluttonous tendencies, and will drink in the blood and mana of that which it strikes. The user will get a portion, allowing them to regenerate both their body, and their mana reserves. Once per day, the user can use all mana stored within the Gluttonous Greatsword to empower a magical Skill. Once per day, the user can use all the blood within the Gluttonous Greatsword to heal their wounds and empower their body. Once per day, upon striking a target, the user can absorb blood and mana at a drastically increased rate. ]
+
+Hey, that’s pretty cool too! An absorption ability! Shame I didn’t know about it before that battle or I could have tested it. But oh well. Maybe next time my Butler who knows everything about the System will let me know about things like this. Annoying, Lying, Forgetful Butler.
+
+“Sure.”
+
+…That’s it? Dang, this Dungeon business really has your mind occupied.
+
+“Yes.”
+
+…Well, I guess I’ll leave you to it.
+
+Turning my attention away from my Annoying, Lying, Forgetful, Dungeon-Obsessed Butler and back to my prize, I walk up to the severed eagle leg, and with a careful Spatial Slice, I cut into the charred end and pluck out a piece of cooked meat. I give it a sniff, then pop it into my mouth and close my eyes and savor the flavor.
+
+It tastes… Well, it tastes good, but it’s hard to describe. I was expecting something like chicken feet, but it’s not quite that. Obviously, there’s the typical mana density of Named monster meat, and the base flavor is mostly like other poultry I’ve had, but there’s also something else in it that I can’t quite quantify. It’s almost like mint, where it cools the inside of my mouth, even as I feel the warmth of the actual food, and there’s also a bit of tingliness, like I just ate a sichuan peppercorn.
+
+It’s very delicious, and I eat basically all of the cooked part, but the flavor profile is so confusing that it’s difficult to fully immerse myself in it. A high quality meat, but I don’t know if it’s something I’d want to consume endless amounts of. It’s just so weird.
+
+I cut off another chunk of the raw meat, store the rest, and bring the meat back to Lauren to make her cook it. We have to make our decision on whether to leave the Dungeon or advance to the next Floor, but we still have most of our hour left, which is plenty of time for Lauren to do a bit of cooking, and it should also help Chad get back on his feet.
+
+I tell Lauren about the flavor before she cooks, and she seems confused as well, but does her best with the basic spices she brings with her into the Dungeon, and the end result is definitely better than the seared flesh I just had, but it’s still weird. The others all agree that it’s an incredibly weird meat, but Lauren brings up that if all the meat is like this, we might be able to get a really good price from some gourmets and chefs looking for some special novelty dishes. While many Dungeons can recreate Named monsters, Lauren read the guide book for this Dungeon pretty extensively, and she says she’s never heard of anything like this one, meaning it’s new, and therefore valuable. And as much as I hate giving up perfectly good meat, there’s more than enough that we can sell off at least some of it.
+
+With that settled, we double check all our stuff, and as soon as Chad is able to walk again, Lauren, the Party Leader, accepts the prompt to leave the Dungeon. My vision goes dark, and I wait a second, expecting to reappear back in the room that we entered from, but a few seconds pass, and the darkness remains. I’m only confused before a second before I realize what’s going on.
+
+“Ah, it’s you again,” I say.
+
+“Yes, it’s me,” says a woman’s voice that seems to come from all around. “Congratulations on reaching Tier 3 in your Class and Species. You’ve earned me enough divine power that I can offer you another Quest and reward again. But before that, I think we should have a little chat. What do you say?”
+
+“...Nah, I’m good. I’ll just take the Quest and reward.”
+
+Within the Dungeon of the Glutton, Abby was hard at work. She wasn’t lying when she told Yona that the level design was a lot more work than she anticipated. What she failed to mention, however, was the reason that it was more work than she anticipated.
+
+If Abby had done as she initially planned, and created a simple challenge with some roaming monsters in the distance, it wouldn’t have taken long at all. She would only have needed a couple days for the Dungeon to absorb the mana of the monsters Yona fed it so that its size would be sufficient, and then she would be able to get it up and running. However, when digging through the different types of creatures she could set to spawn in the Dungeon, she came upon something too good to pass up: NPCs.
+
+While friendly or neutral creatures and characters were mostly found in Story Dungeons, there was nothing stopping them from existing in other types. And while Dungeons could not create Enlightened Races, they could create homunculi that looked like Enlightened Races, and they could give these homunculi set personalities and memories that made them act like Enlightened Races too. Well, mostly like humans. No matter how well they were set up, they would still always be NPCs.
+
+But that didn’t matter. The programming was more than enough for what she wanted to do. And she was grateful that she had managed to give Yona the impression that Dungeon creation was boring and technical so she wouldn’t check in. If Yona had heard Abby cackling as she worked, she would never be able to get away with it.

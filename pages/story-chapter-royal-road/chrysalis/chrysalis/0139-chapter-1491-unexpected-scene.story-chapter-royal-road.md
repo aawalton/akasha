@@ -1,0 +1,83 @@
+---
+id: 4bfa266a-5844-5cb9-bfe7-6e4c81017d4d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1491 - Unexpected Scene"
+slug: 0139-chapter-1491-unexpected-scene
+partOf: chrysalis
+position: 139
+ownLength: 1121
+unit: words
+ownProgress: 1121
+publishedAt: 2025-01-21
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2021415/chapter-1491-unexpected-scene"
+royalRoadId: "2021415"
+markedReadAt: "2026-06-29T19:48:17.707Z"
+---
+
+It wasn’t easy for Chyron to get a meeting with Solant. Not because the ants prevented them from speaking to each other, but because the demands on the ant’s time were so extreme that opportunities for them to get together were scarce.
+
+They’d met several times since the initial agreement had been formed, and the Commander expected things to go much the same way as they had last time. However, she was in luck, and was granted an audience with the ant leader at oddly short notice.
+
+Walking into the command post, alone, was a disorienting sensation for Chyron. There were ants everywhere. They crawled over each other, on the roof, on the walls, antennae waving and legs flickering. The space was filled with constant motion to the point it was dizzying, even to someone with her level of vision.
+
+Not that the area wasn’t organised. There were clear lines of delineation for tasks, areas of expertise and processes. Messengers coming in were organised based on priority, shuffled into different queues to be processed, information was double and triple checked before being passed to the inner circle, moving from outer ring to inner through trusted intermediaries. As a leader herself, Chyron recognised the purpose to much of the flow. There was just so much of it, and the space was so full, that being inside gave her an oppressive feeling of claustrophobia.
+
+Fortunately, she wasn’t required to go too far inside, just to wait on the outskirts, and soon a small ant surrounded by many others emerged from the chaos, a mind bridge forming between them soon after.
+
+[Greetings, Commander.]
+
+Solant’s mental tone was always cool and calm, almost devoid of emotion. She spoke with a deliberate, precise pace, as if every word had been measured and weighed before she opted to deliver it.
+
+Chyron didn’t bow or tip her head, but raised a hand in greeting.
+
+[Solant,] she said, attempting to show some level of respect to the monster. Insulting the creature wouldn’t get her what she wanted, nor would open hostility. Who’d said Chyron was incapable of diplomacy?
+
+[I have heard you are interested in meeting our resident Krath?] Solant asked, coming to a stop before the Commander.
+
+The monster almost reflexively began cleaning her antennae, dragging them through the elbow joints of her front legs, something all the ants did habitually.
+
+[So it’s true?] Chyron noted. [You actually captured one?]
+
+[The Eldest makes the impossible possible on a regular basis,] the ant noted, [I no longer question it. Would you like to meet him?]
+
+[I’m interested in seeing for myself,] Chyron confirmed, but wondered whether they would allow it. To her surprise, the general nodded immediately.
+
+[Very well. I will take you.]
+
+One thing about the ants is that they didn’t tend to move slow. Much like the non-monstrous versions on the surface that Chyron recalled from her youth, they skittered about quickly, and she was forced to maintain a jogging pace to keep up. In her heavy armour, a normal person would have been exhausted in moments, but she easily maintained the pace.
+
+Through many tunnels and twists they ran, the still-developing fortress being built up around them. Every time Chyron came through the tunnels, she was more impressed by what the ants had been able to achieve. Not content with half measures, they had decided to build something enormous in scale. When complete, it would dwarf the Legion’s own holdings in the fifth, but it was yet to be seen if the ants could finish it, let alone hold it.
+
+Eventually, they came to the outskirts of the fortress, through a tight security corridor and finally into a small chamber. One entire wall was made of some form of glass that, for the moment, was opaque. The rest of the room was plain and undecorated, without furniture or embellishment of any kind.
+
+[It wasn’t easy for us to create this space,] Solant explained, indicating the glass wall. [There’s a null mana zone all around the chamber in which the Krath is held. It pushes away the purified energy of the fortress as well as the natural mana of the fifth, preventing the two from blending. Once a day, we have to refresh the mana inside, as the prisoner absorbs it over time.]
+
+Five ants had entered the room along with them, and Solant nodded to one who then began weaving magic. Chyron could feel the monster reach out to something in the other room, forming a mind bridge, then communicating.
+
+[We want to let him know you’re here, so there aren’t any surprises,] Solant told her.
+
+[You don’t want to surprise it?] Chyron wondered.
+
+Just what sort of treatment were they giving the creature? The Krath were the most despicable creatures in the entire Dungeon, regularly inflicting the most horrific treatment on their captives to the point that capture at their hands was considered the worst fate a person could suffer. The Legion had burned down whole swathes of the fifth to try and exterminate them, but had never succeeded, locking the enmity between them in stone.
+
+[He doesn’t want to talk to us with Commander Chyron present,] the mage announced.
+
+[He doesn’t have a choice,] Solant replied coolly. [Open the glass.]
+
+The window turned transparent, and Chyron’s eyes widened.
+
+The Krath were as ugly in form as they were in spirit. Long, green-yellow slugs, their large mouths were filled with needle-pointed fangs, and atop their form, their eyes sat at the end of long stalks. At the front of their bodies, twelve spindly limbs extended, each tipped with razor-thin claws.
+
+Right now, the slug was glaring straight at Chyron, its eyes bulging and burning pure red with hate. Though she couldn’t hear it, Chyron could see the writhing and slight popping up and down the creature’s flesh. Sensitive to its mood, the acid the Krath kept within their flesh was clearly active.
+
+To be fair, the Commander felt much the same way, her hands clenching into fists as she imagined tearing the creature apart and stomping it beneath her armoured boots.
+
+So pure was her anger, she didn’t notice the creature’s ‘cell’ for some time. Soft cushions, rugs, nice furniture, a bed, even paintings and tapestries on the wall. Was that a plate of tea and biscuits on the table?!
+
+[Is this your prisoner or your guest?] she demanded of Solant, rounding on the little ant.
+
+[Prisoner,] came the reply.
+
+[Then why are you treating it so well? If your roles were reversed, you would be begging for death!]
+
+[I don’t care about inflicting pain, or making the creature suffer, or how the Krath have treated others,] Solant said. [I only care about extracting information.]

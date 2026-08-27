@@ -1,0 +1,139 @@
+---
+id: 02653910-a9b0-50c7-a10f-e85f05009785
+page-type-slug: story-chapter-royal-road
+title: "139: An Old Dungeon"
+slug: 0139-139-an-old-dungeon
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 139
+ownLength: 2209
+unit: words
+publishedAt: 2026-04-15
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3277145/139-an-old-dungeon"
+royalRoadId: "3277145"
+---
+
+Well, this was it. The big moment.
+
+Iris had brought Chloe to an old, abandoned church. Meanwhile, Graham had already taken Sierra and Raenof ahead toward the super spooky mountain.
+
+Chloe wasn’t really sure who the church had been dedicated to, since the place looked pretty trashed. The walls were cracked, the symbols worn down, and whatever decorations used to be there were either gone or broken beyond recognition. But apparently, none of that mattered, because hidden inside was a super secret entrance that only the Thieves Guild’s Guildmaster could open.
+
+Iris led her inside before stopping at a concealed passage. Then came the stairs, and more stairs, and uh, even more stairs. Chloe wasn’t sure how long they had been going down, but at some point, it started to feel a little excessive. Like, how deep did this place even go? Was this still a church or had they accidentally entered some kind of underground stair dimension?
+
+Still, they kept going until they finally reached the bottom, where the stairs opened into a wide, open space. Chloe blinked as she stepped in, and she started to feel that the whole place looked weirdly familiar.
+
+The room opened up into a massive stone chamber with tall pillars, while the floor was covered in patterns that looked ancient and mysterious, but also kind of overdesigned. At the far end stood a huge set of doors, covered in glowing markings.
+
+Chloe tilted her head slightly, squinting at the whole thing. She had definitely seen something like this before.
+
+It looked almost exactly like the entrance to one of the endgame dungeons from Everreal Quest, the kind where the game was basically screaming at you, “This is important. Something big is about to happen." Naturally, she totally beat the dungeon in a single try before, at least, she's pretty sure about that.
+
+Really, the only thing missing from this dungeon was the limited edition wizard plushie you could get if you collected 900 pinecones throughout the game, which Chloe had absolutely not done. The plushie would appear right in front of the doors to the main dungeon if you did have 900 pinecones though, so that was something to remember in the far future.
+
+Iris turned to Chloe. “Once you go beyond those doors, there will be no turning back. Are you ready?”
+
+“Yeah, obviously,” Chloe said. “I’m totally ready.”
+
+“Your objective is simple, go down, defeat the dragon, take its heart, and make it back out alive.”
+
+"Yep, got it."
+
+Iris held her gaze for a moment longer, as if making sure Chloe actually understood what she was getting into, then gave a small nod. “Good, then good luck.”
+
+Before Chloe could respond, Iris vanished in a soft burst of smoke. Now it was just her and the giant ominous doors.
+
+Chloe turned back to the doors as her brain started digging through old memories, trying to match what she was seeing with what she had experienced before. Back in Everreal Quest, doors like this were never just doors. They always needed something, touching the right spot, channeling energy, solving some weird puzzle, or just standing there long enough until the game decided you were important enough to go in finally.
+
+Chloe squinted, leaning in slightly as if that would help her figure it out faster. Hm, let's try something.
+
+She reached out and placed her hand right at the center of the door, half-expecting nothing to happen. For a brief moment, nothing did, and she was just about to pull her hand back when something happened.
+
+Chloe blinked as the door glowed, growing brighter and sharper, until the entire door was almost like a disco ball. Then, right in front of her, some slightly less shiny text appeared.
+
+[Authorized User Detected]
+
+[Permitting Entry]
+
+Chloe stared at it, her eyes lighting up slightly. Yeah, this was definitely like the game.
+
+She wasn’t entirely sure what she did to get “authorized,” since back in Everreal Quest you usually needed some special key item or quest completion or something very annoying like that. But honestly, she wasn’t about to question it. If the door wanted to let her in, she was not going to argue.
+
+A heavy sound followed as the massive doors began to move. And as the doors slowly parted, dust shifted and the air stirred around her. The gap widened just enough to reveal darkness beyond.
+
+Chloe stepped forward and slipped through the opening, and the moment she entered the dungeon proper, the doors shut behind her. Kinda rude, but okay.
+
+Anyway, the whole environment was a lot less stale than she remembered. This first dungeon floor opened into a dense, jungle-like environment, filled with thick vines hanging down from above and massive roots twisting across the ground like they had taken over everything.
+
+Soft, glowing plants dotted the area, casting faint green and blue light that pulsed gently, giving everything an eerie, almost dreamlike glow. It could be a pretty nice place, if it wasn't the first floor of an endgame dungeon.
+
+Chloe moved forward through the dungeon, stepping carefully over thick roots as she explored deeper into the overgrown halls. The more she looked around though, the more the place felt weirdly familiar.
+
+She eventually spotted a golden mushroom growing out of the side of a broken statue of what was once probably some kind of knight. The moment Chloe saw it, she immediately recognized the thing from Everreal Quest. In the game, those golden mushrooms acted like checkpoints that saved your progress whenever you died.
+
+"Oh! I know you!" Chloe said excitedly as she skipped over to it.
+
+She reached out and poked the mushroom with a finger, expecting something to happen.  Instead… nothing happened, well, almost nothing.
+
+The mushroom wobbled a little from her poke, swaying left and right like it was doing a tiny dance. Chloe leaned closer and squinted at it, watching it wiggle for a few seconds before straightening up. Watching the mushroom move was kinda funny for a little bit, but probably not the best use of her time.
+
+Still, she decided the mushroom was close enough to a checkpoint to count, so Chloe stayed near it while thinking about what to do next. If this dungeon really was the same one from the game, then she already had a pretty good idea of how the place worked.
+
+This dungeon was called the totally original and not at all generic Ancient Sanctum, and it had three floors in total. That didn't sound like a lot, but the floors were huge and packed with side paths, hidden rooms, and secret areas. Clearing the whole place in the game actually took a pretty long time if you wanted to explore everything.
+
+Each floor also had its own theme, along with something the game literally called a “unique danger.” It was basically a special mechanic designed to make each floor more annoying than the last. The first floor was jungle themed, and the unique danger for this floor was supposed to be a powerful monster that stalked the player the entire time.
+
+Chloe slowly looked around the area, but she didn't see anything stalking her. She closed her eyes and tried to focus, reaching out with her mana sense the way she'd done before. If there really was a big scary monster creeping around somewhere, she should've been able to feel it, but she didn't sense anything at all.
+
+Huh. Chloe thought.
+
+She opened one eye, then the other, looking around again just to be sure. But there was nothing that really stood out to her aside from the crumbling walls.
+
+Then, Chloe thought that maybe she just wasn't deep enough in the dungeon. The stalking monster in the game didn't always show up right away either. Sometimes it waited until the player had already fought a bunch of enemies and gotten tired before it started chasing them.
+
+Well, sucks to to be that monster, because Chloe never got tired. As the bestest zombie ever, she could walk around forever if she wanted to. No breathing, no exhaustion, no aching muscles at all.
+
+Anyway, if she remembered correctly, the monster that stalked you on this floor was also randomized in the game. That meant she had absolutely no idea what kind of creature would eventually come after her. But worrying about it sounded boring, so instead, Chloe kept exploring.
+
+She wandered through the dungeon for a while longer until she eventually arrived at a large stone gate. The door was old and covered in vines, but the center of it had two carved slots built into the stone. One slot was shaped like a sun, and the other was shaped like a moon.
+
+Chloe tilted her head the moment she saw it. Ooooh, I remember this part.
+
+Back in the game, this floor had two bosses hidden somewhere in the dungeon. One dropped the Sun Piece and the other dropped the Moon Piece. You needed both of them to unlock the door and move to the next floor. Despite knowing all that though, Chloe walked up to the gate anyway, mostly because she was curious.
+
+She stepped back, rolled her shoulder, and wound up her arm. Then she punched the door as hard as she could.
+
+THUNK.
+
+The stone gate didn't budge even a little. Chloe stared at the door for a moment, then slowly pulled her fist back and gave it an unimpressed look.
+
+Well, that pretty much confirmed it. If she wanted to keep going deeper into the dungeon, she'd have to go find those Sun and Moon pieces the normal way.
+
+Chloe decided to go for the Moon Piece first. Out of the two bosses on this floor, she remembered the moon one being closer to where she was now, and that sounded way more convenient. Less walking meant more doing other fun stuff like punching and blasting, which was obviously the superior strategy.
+
+The tricky part wasn't fighting the boss though. The real problem was actually finding the hidden room in the first place.
+
+The boss room was tucked away behind a very specific route through the ruins.  Luckily for Chloe, she'd already cleared this dungeon before. So she ran through the halls with confidence, weaving between giant roots that burst through the floor and hopping over all sorts of rubble.
+
+For a while, everything went smoothly. Then Chloe suddenly skidded to a stop. She immediately dove behind a massive stone pillar, pressing her back against it as she very slowly leaned out to peek around the edge.
+
+From her spot, she could finally see one of her mortal enemies: skeletons. Chloe squinted at them with deep suspicion, lips pulling into an offended frown as she watched the group standing further down the corridor. Skeletons were, in her completely correct and unbiased opinion, the worst kind of undead.
+
+And she had completely objective reasons to dislike skeletons too. They were basically just zombies that forgot to bring any of the good parts with them. No flesh and no personality, just bones clattering around pretending they were scary.
+
+Chloe absolutely did not dislike them because she got completely destroyed in an early skeleton dungeon while playing Everreal Quest. That had nothing to do with it.
+
+But the skellies standing in the corridor weren't your average bone boys. These skeletons were massive, each one easily a head taller than a normal person. Their bones were thick and darkened to the point htey almost looked metallic. Heavy black armor covered their bodies from head to toe, making it clear these were some heavy duty troopers.
+
+Each of them carried an enormous greatsword planted tip-first into the stone floor, the blades as tall as Chloe herself. Tattered capes hung from their shoulders, slowly shifting even though there wasn't any wind in the dungeon.
+
+Inside their skulls, pale blue flames burned quietly where eyes should've been. These were no ordinary skeletons, they were death knights, and they looked like they meant business.
+
+Chloe stared at them for a moment, then slowly sank back behind the pillar as one of the death knights turned to face her.
+
+She slowly peeked out again after a few seconds, counting them carefully and counted one by one. A one, a two, a three, a four, a five… and a six.
+
+Six death knights didn’t sound like a lot on paper, but Chloe knew better than to underestimate them. These guys were absolutely not the kind of enemies you could just bonk once and forget about. They hit ridiculously hard, moved way faster than their heavy armor suggested, and unless you completely crushed their skulls, they’d just regenerate.
+
+If she wanted to get through here, she’d either have to figure out a way to deal with all six of them… or somehow dash past them before they could react. The second option sounded good, but unfortunately, the dungeon clearly disagreed with her.
+
+At the far end of the hallway, right where the path continued deeper into the ruins, a faint purple barrier shimmered across the corridor. It pulsed with magic, blocking the exact direction Chloe needed to go. That barrier wasn’t going anywhere until all six death knights were dealt with.

@@ -1,0 +1,105 @@
+---
+id: ddb1307d-6e5e-53e8-b60f-f78efd9afb38
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1437 - Tell Him He’s Dreaming"
+slug: 0085-chapter-1437-tell-him-he-s-dreaming
+partOf: chrysalis
+position: 85
+ownLength: 1090
+unit: words
+ownProgress: 1090
+publishedAt: 2024-10-23
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1863815/chapter-1437-tell-him-hes-dreaming"
+royalRoadId: "1863815"
+markedReadAt: "2026-06-29T19:46:37.128Z"
+---
+
+Morrelia was frustrated.
+
+“Tribune, you need to relax a little, you look like you’re going to bite someone’s head off,” her fellow Tribune, Joshen Aurelis noted.
+
+She narrowed her eyes at the man, irritation bubbling just beneath the surface. Joshen wasn’t someone that Morrelia was able to get along with. He was too stuffy, too… clean. Being in the Legion was a career of being ankle deep in blood and guts, so how was this guy always so spotless? It shouldn’t have been possible!
+
+“I just might,” she growled.
+
+Joshen sighed and put down the papers he was carrying. The two were the sole occupants of the officers’ tent, which wasn’t as unusual as it sounded, considering most of the camp was asleep. They were the only two who’d be inside at such an hour.
+
+“You aren’t still obsessing over your bizarre scheme?” he said.
+
+“Bizarre?” Morrelia snapped. “What’s bizarre is having an entire Legion of elite troops sitting on their hands in the fourth doing nothing. There are hotspots throughout the Dungeon that desperately need help, what are we achieving by staying here?”
+
+“We are fulfilling our mission,” Joshen said patiently, and perhaps, a little condescendingly.
+
+“No, we aren’t,” she forced out through gritted teeth. “What is our mission, Joshen?”
+
+“To isolate and kill the prospective Ancient.”
+
+“And how exactly have we gotten closer to achieving that objective today? Tell me, Joshen, what bold strides have you made?”
+
+“You know as well as I do that pursuing the monster into the fifth stratum would be suicide. We are waiting for the Krath to do our work for us.”
+
+“So you admit we aren’t doing anything.”
+
+“Someone has to be here to confirm that the mission has been achieved.”
+
+“And how are you going to do that? You think the Colony is just going to tell us?”
+
+“You know as well as I do that our Dungeon seers are close enough to confirm the creature's death the moment it occurs.”
+
+“And how long will that remain true? How deep will the target go before they’re no longer able to be sensed through the interference of the fifth?”
+
+“I will admit, as I have in the past, that will become a problem, but right now it isn’t.”
+
+Morelia threw up her hands.
+
+“So we just stay here, doing nothing, achieving nothing, hoping that the Krath are able to kill our target?”
+
+“Those are our orders,” Joshen shrugged.
+
+At this point, Morrelia made the sensible decision and stopped talking. This guy was just infuriating. As long as they were doing as they were told, he was satisfied, whereas Morrelia was climbing up the walls, desperate to be doing something useful.
+
+If she asked her mother for advice, the woman would probably tell her to do whatever she wanted. Minerva hadn’t exactly been amazing at following directives, but she was such an effective leader and fighter that the troops went along with whatever she wanted to do anyways. It didn’t hurt that she was almost always right in her strategic decisions, either.
+
+The only thing the higher officers could do with her was put her right at the top of the Legion and make her Consul. At least at that point she wouldn’t be insubordinate anymore, since all the orders were coming from her!
+
+“Are you two still bickering in here?”
+
+The two Tribunes snapped to attention as Commander Chyron slipped into the tent. The grizzled veteran was decked out in her armour, only missing her helmet, which made her formidable presence even more hard-edged than usual.
+
+“You know it’s possible for both of you to be right?” the Commander drawled. “As soldiers of the Legion, it’s important that we follow our orders and don’t break the trust that’s been placed in us. At the same time, it is a waste of resources for us to be sitting here doing nothing at a time when the Abyssal Legion is drastically short-handed.”
+
+Feet stomping heavily in her armour, the Commander walked into the tent, staring down both of her Tribunes.
+
+“You’re quite right, Commander,” Joshen said, causing Morrelia to roll her eyes before she could stop herself.
+
+“Has there been any word from the brass?” Morelia asked, Chyron just looked at her and cocked an eyebrow. “... Commander, has there been any word from the brass?” Morrellia winced and corrected herself.
+
+“As a matter of fact, there has. Lo’ I bring you a miracle! The Consul has changed their mind,” Chyron said.
+
+“Are we redeploying?” Morrelia asked, heart in mouth.
+
+If they were going to leave Anthony alone, that would at least save her troubled conscience. She hated this mission, even if it gave her a chance to be closer to the people she’d helped to save in Renewal. There were many, many places in the Dungeon where her Skills could be put to good use in the service of those who were unable to defend themselves in ways that didn’t involve trying to kill old friends.
+
+“Of course not,” Chyron huffed, “they aren’t going to bend that far. Our mission is still valid and important. Any monster who experiences the Call needs to be prevented from descending. That’s been the case for over a thousand years, and it isn’t going to change now.”
+
+The Commander eyed her two officers before she continued.
+
+“No. It’s been determined that we will need to be closer to the target in order to accurately record their death, or, in the unlikely event they make it through the fifth, be able to report their location to an interception team in the sixth.”
+
+Joshen frowned.
+
+“So we are to give up trying to achieve the kill ourselves?”
+
+That was not a turn of phrase that Morrelia liked hearing. Was Joshen really that focused on achieving this mission? What for? The glory? To increase his chances of promotion?
+
+“For the time being, that is correct,” Chyron affirmed. “We’ve been given permission to provide limited support to the ants as they attempt to progress into the fifth in order to justify our presence watching over the target. It’s believed that this will further aggravate the Krath and cause them to target the ants even further, while allowing the Legion to achieve other objectives elsewhere in the fifth.”
+
+“Killing two birds with one stone,” Morrelia said flatly.
+
+Chyron grinned.
+
+“We’re nothing if not efficient.”
+
+“Doesn’t this put us at tremendous risk?” Joshen asked, his tone flat.
+
+“Of course it does,” the Commander replied. “You’re in the Legion. This is what we do.”

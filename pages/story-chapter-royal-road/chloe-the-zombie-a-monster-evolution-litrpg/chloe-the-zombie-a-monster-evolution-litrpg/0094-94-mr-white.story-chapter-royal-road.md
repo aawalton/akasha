@@ -1,0 +1,189 @@
+---
+id: 87ea2cda-4415-596b-9b16-a27b0199b9f8
+page-type-slug: story-chapter-royal-road
+title: "94: Mr. White"
+slug: 0094-94-mr-white
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 94
+ownLength: 2100
+unit: words
+publishedAt: 2025-12-31
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2895738/94-mr-white"
+royalRoadId: "2895738"
+---
+
+Chloe felt pretty pleased with herself as she walked out of the dungeon. She may or may not have gotten lost a few times on the way out, but since she was a very smart zombie, she eventually found the exit. And it probably didn’t even take that long, really. Time was weird underground anyway.
+
+She held the black Gem of Wighthood up to the light for a moment, admiring how epic and shiny it looked, then tucked it into Cloaky, who swallowed it fast, which meant it was now extremely safe. Unless Cloaky decided to eat it. But he wouldn’t.
+
+When she finally stepped outside, the warm breeze hit her face and made her sway a bit. It always felt strange to go from a spooky dungeon to bright, grassy sunshine. She blinked at the light, then looked around.
+
+That was when she spotted Wolfie, Sierra, sleeping under a tree with her arms behind her head, tail twitching lazily even in her dreams. Somehow the wolf girl had made it out faster than Chloe, which felt a little unfair.
+
+It wasn’t like Sierra had to fight a cerberus or anything. But then again, the wolf girl did get hauled off by Morikhan’s guys earlier, so maybe that balanced things out.
+
+Chloe stood there for a moment, trying to decide if Sierra was really asleep or just acting. Either way, the usual instinct rose up in her chest.
+
+She walked over, crouched down, and reached out with one finger toward Sierra’s cheek. After all, what was the point of finding a sleeping wolf girl if she didn’t poke her awake?
+
+Chloe poked Sierra’s cheek once, then twice, and then several more times just because it was fun and Sierra’s face was very pokeable. The wolf girl's ear twitched first, then her nose scrunched up, and finally her eyes fluttered open in slow, confused blinks. Chloe leaned in even closer, practically nose-to-nose with her, studying every tiny reaction.
+
+Sierra’s eyes finally focused, and the wolf girl froze as she realized Chloe’s face was inches from hers. Her tail gave a startled jerk, her whole body stiffened.
+
+“Hi! Are you awake yet?" Chloe asked.
+
+Sierra scrambled upright so fast she almost headbutted Chloe, who had to lean back at the last second to avoid getting bonked. The wolf girl pressed a hand to her chest, trying to slow her breathing. “Chloe… what?”
+
+Chloe plopped down beside her with her legs crossed. “Hi! I am Chloe. But you already knew that.”
+
+She waited until Sierra’s ears stopped twitching before continuing. “Sooo, uh, how did you get out before me? I’m the one who had to beat a dungeon boss after all."
+
+“Um… after Morikhan’s people grabbed me, they didn’t take me deeper into the dungeon. They escorted me out. Morikhan told me to wait here, so… I did.”
+
+“Wait, wait, wait. You were supposed to go find Morikhan, right?"
+
+“I know. I thought I was supposed to… um… capture him. Or maybe defeat him. Or something like that. But it turns out it was a misunderstanding."
+
+“Then what about that time you went all berserky? I thought that was because you fought Morikhan?”
+
+“Well… yeah, I did fight him. But he was just messing around with me, apparently. He wasn’t serious.”
+
+Chloe had no idea what Morikhan’s idea of fun was, but messing around with super-angry, transformed Sierra didn’t sound like fun at all. Weird giant wolf man things, she thought.
+
+Still, she didn’t really feel like commenting on it. What mattered was that Sierra was out and not dead, which counted as a win in Chloe’s book.
+
+Sierra’s expression softened a little before she looked down at her hands. “Actually… Morikhan gave me something.”
+
+Chloe perked up right away, sitting a little straighter. “Ooh? What is it?”
+
+“He helped me with my shadow magic actually, showed me a few tricks here and there."
+
+“Like what? Tell me—”
+
+Before Chloe could finish, Sierra vanished. Like, poof. Gone.
+
+Chloe stared at the empty patch of grass. “Hello?”
+
+She turned left, then right, spinning in a small circle as she checked every direction. “Hellooo? Where’d you go? Are you a ghost now? Did you fall into the ground? Do I need to dig?”
+
+Suddenly, a light poke tapped her shoulder. Chloe jumped so hard she let out a tiny squeak she definitely didn’t want to admit to.
+
+She flailed backward and toppled onto the grass in a messy heap. Sierra stood behind her, poking her fingers together shyly but wearing a small, proud smile. “I’m right here.”
+
+“Wow, did you teleport?”
+
+“It wasn’t teleporting, just shadow slipping.”
+
+“Shadow slipping? That sounds so cool! Can you teach me?”
+
+“Probably not… sorry. I’m still not fully sure how it works myself."
+
+“Aww, fine…” Chloe puffed her cheeks out in disappointment. Shadow stuff would’ve been so fun.
+
+Sierra hesitated for a moment, then glanced around. “Um… Chloe? Do you know where Scar and Sabine are?”
+
+“Nope. Not at all. But they’re probably fine, right? They’re both really strong after all."
+
+“It’s okay! We’ve got places to be anyway. And I’ve got something super important I wanna do real soon.”
+
+Sierra lowered her ears, then nodded. “Speaking of… now that we’re out, we should go find the next Sage of the Wilds. Maeve the Joyful.”
+
+Chloe perked up. “Hey! Morikhan told me to find that Maeve lady too!”
+
+She shot to her feet with renewed excitement, then paused, remembering something very important. “But before that, I’ve got something I need to do.”
+
+“What is it?”
+
+“I got this super cool gem for defeating the dungeon boss. It can revive people! So I’m gonna go revive someone with it.”
+
+“Revive… someone? You mean you know who to use it on?”
+
+“Yep! He’s pretty far away though. So you can come with me or stay here. Up to you.”
+
+Sierra took a moment, then gave a small nod. “I don’t really have anything else to do, so I’ll just go with you.”
+
+“Great!” Chloe clapped her hands together, then focused for a moment. A pair of shadowy wings unfurled from her back in a soft, smoky flare.
+
+Sierra’s jaw dropped. “Chloe… you have wings?!”
+
+Chloe stretched them proudly. “Yup! Pretty cool, right? We’re going now then. Oh, —can you fly too?”
+
+“N-No. I can’t fly.”
+
+“Then I’ll just carry you!”
+
+“O-Okay… I guess that’s fine…”
+
+Chloe stepped forward and wrapped an arm around the wolf girl. This is gonna be fun.
+
+***
+
+Chloe had only recently gotten the hang of flying. Well… “gotten the hang of it” was maybe a strong phrase.
+
+She could stay in the air and move around well enough. But, carrying Sierra at the same time turned out to be a whole new challenge. The wolf girl wasn’t heavy, but Chloe still wobbled a bit every time she tried to adjust her wings.
+
+Even so, she found it weirdly fun. The extra weight made her dips and turns feel more exciting. She wasn’t sure Sierra felt the same way though.
+
+The wolf girl clung to her very tightly, ears stiff and tail wrapped around her own leg, which Chloe assumed meant Sierra was probably spooked. Either way, Chloe decided it was fine. She was flying, Sierra wasn’t dead, and the sky was big enough for all the wobbling she wanted to do.
+
+It didn’t take long before her excitement turned into a focused determination. She knew where she was going. Exactly where she was going.
+
+Which surprised Chloe, because she usually forgot stuff a lot. But Mr. White’s resting place? She remembered it very clearly.
+
+The strangest part was that she didn’t even have to think hard about it. The moment she took to the sky, her body just… pointed the way where Mr. White's body was. Probably because he was super cool.
+
+Soon enough, Chloe reached the river where she’d fought that annoying blood mage jerk, and also where she and Raenof had buried Mr. White. With Sierra clinging to her, Chloe followed the river’s twisty shape below and glided toward the spot where Mr. White’s body was resting.
+
+The moment they got close to the riverbank, Chloe angled downward. Her landing, as usual, was not exactly graceful.
+
+She touched the ground, stumbled a few times, and finally skidded across the grass. A spray of dust puffed up behind her as she fought for balance. Sierra clung to her through the whole thing with both arms and both legs wrapped tight around her, tail curled so firmly it could have been tied into a knot.
+
+When they finally came to a stop, Sierra loosened her grip very slowly. Chloe flashed her a wide grin. “See? Easy landing!”
+
+Sierra gave her a shaky smile that said she absolutely did not agree, but she kept quiet. Chloe decided silence meant she did good enough.
+
+Sierra took a moment to steady herself while she looked around. “Is… this the place?”
+
+“Yep!” Chloe puffed up proudly and pointed toward a quiet patch of grass near the river’s edge. “I buried Mr. White over there. With Raenof.”
+
+“You… really remembered exactly where?”
+
+“Of course I did. Mr. White was awesome. My brain remembers awesome stuff."
+
+She walked toward the small mound of dirt where Mr White was buried. The grass had grown a bit since then, soft and bright, swaying slightly from the river breeze. The whole place felt calm in a warm, gentle way that made her chest feel funny.
+
+Chloe knelt beside the grave and brushed her fingers lightly over the grass. “Hey, Mr. White… I’m back.”
+
+Sierra stayed a few paces behind her. The wolf girl seemed to want to give her space.
+
+Chloe reached into Cloaky and pulled out the Gem of Wighthood. The black gem sat heavy in her hand, heavier than before, almost like it knew exactly what she wanted from it.
+
+The real challenge was figuring out how to use the thing. Chloe stared at the gem, then at the ground, then back at the gem.
+
+Maybe I just… shove it in the dirt? It sounded smart enough to her.
+
+Chloe pressed the gem into the soil and wiggled it around a little, hoping something magical would happen. Maybe the ground would open up, or light would shoot out, or at least there’d be a tiny sparkle. Unfortunately, the dirt just sat there being boring dirt.
+
+She picked the gem back up, brushing soil off her fingers. Okay, fine. Gotta try something else.
+
+Maybe it needed her to say the magic words out loud. That sounded like something a magic revival gem would want.
+
+Holding it right up to her face, she cleared her throat and spoke slowly. “I want to revive Mr. White.”
+
+The gem gave a single pulse, gentle but clear, almost like a heartbeat. Chloe froze, eyes widening as glowing words flickered into the air before her.
+
+[Gem of Wighthood activated. Confirm the revival of “Mr. White”?]
+
+“Yes! Yes, revive Mr. White!”
+
+The gem responded immediately. Light started to seep into the soil, at first a faint shimmer, then a steadily growing glow that spread across the whole riverbank.
+
+The mound of dirt cracked open. Loose dirt slid aside as something large pushed upward from beneath. A skeletal hoof wrapped in swirling bluish flames, broke through the ground. Another followed, then the full skeleton of a horse began to emerge, each bone outlined in ghostly fire. The flames didn’t burn the grass. They moved like living mist, curling around the ribs and legs.
+
+When the creature finally pulled itself free, Mr. White rose from the earth, tall, proud, and blazing with ghostly color. His entire skeletal frame burned with soft bluish fire. Even his empty eye sockets weren’t empty anymore; they glowed with two steady blue lights that felt warm and familiar, almost like he was looking right at her.
+
+For a moment, Chloe completely forgot how to blink. She couldn’t believe what she was seeing. Leftie, perched on her shoulder, looked just as shocked as she was. He even stood upright on two fingers to get a better view.
+
+He looked different now, spooky in the coolest way possible, all fire and bones and magic but underneath all that, he was still her Mr. White. She felt it deep in her chest, a little spark of recognition that made her eyes sting.
+
+Before she even realized she was moving, Chloe ran forward and threw her arms around his flaming skeletal neck. The bluish fire wrapped around her like warm fog, gentle and not hot at all. “Mr. White! You’re back!”

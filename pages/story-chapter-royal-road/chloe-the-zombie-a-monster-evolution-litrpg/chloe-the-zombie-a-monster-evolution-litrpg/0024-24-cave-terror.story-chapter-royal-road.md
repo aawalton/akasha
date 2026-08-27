@@ -1,0 +1,167 @@
+---
+id: 635976e8-9471-5ff8-b71b-4d8194668838
+page-type-slug: story-chapter-royal-road
+title: "24: Cave Terror"
+slug: 0024-24-cave-terror
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 24
+ownLength: 1944
+unit: words
+publishedAt: 2025-09-04
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2573912/24-cave-terror"
+royalRoadId: "2573912"
+---
+
+Chloe narrowed her eyes and turned in a slow circle. The monster was gone.
+
+She conjured another cursed stone, pulsing with violet energy as it hovered in her palm. Dark magic thrummed against her skin.
+
+Then the ground trembled. A faint, quick shiver, sliding up through her boots. Chloe spun towards the source of the tremors and launched the stone, the cursed energy crackling as it tore through the air, only to burst into mist against nothing.
+
+Her lips curled into a scowl. Clever thing. Chloe hated when food made her work for it.
+
+Sliding across the stone, Chloe pressed her back to the cavern wall. Her gaze darted from shadow to shadow, hunting for even a hint of movement.
+
+Another tremor shivered through the floor, closer this time. She loosed a second shot without hesitation.
+
+But this one missed too. The cavern ate the sound of the impact like it was mocking her.
+
+Whatever this monster was, it wasn’t just fast. It was playing with her. Too quick and too light for her cursed stones to land a clean hit.
+
+Chloe clenched her jaw and focused. Her Tremor Sense pulsed.
+
+And there it was. A whisper of movement. Weaving in and out of her range like it knew exactly how far she could feel.
+
+Chloe's shifted left, just a hair. Something swooped past her in a burst of wind, missing by inches. Hah! I felt that! Eat dirt, bat-face!
+
+The monster hissed from somewhere behind her, just for a second. Chloe spun, ready to launch another shot, only to stop.
+
+The creature had reappeared. Just briefly. But long enough for her to catch a glimpse of its wings flaring open before it leapt into the air and vanished again mid-flight.
+
+Wait. It showed up before it jumped. Ooooh… maybe it’s got, like, a cooldown or something. Needs time to recharge its invisibility juice.
+
+She ducked under a rocky ledge and crouched, listening again. This time, when faint movements brushed her tremor sense, Chloe dodged before the monster struck.
+
+The bat-thing missed Chloe and screeched in frustration, briefly visible once again as it pulled a wide turn midair. Oh yeah. You're annoyed now, huh?
+
+She conjured another cursed stone, charging it brighter than the last, ready to catch the thing the next time it flickered into view. But then the tremors stopped.
+
+The air grew heavier in a way that made Chloe’s skin crawl. That kind of silence usually meant trouble was about to smash through, and fast.
+
+A shimmer flickered beside her, too quick and too close to dodge. The beast snapped into view with a guttural snarl, its jaws gaping wide. Chloe twisted hard to avoid the attack, but not fast enough.
+
+A glob of sizzling green acid seared through the air where she’d just been. Most of it missed, except for the part that splashed across her left arm.
+
+Pain didn’t hit her, but the sight sure did. Flesh hissed and peeled back. Bone fizzed and vanished in seconds, cloth curling into blackened ribbons of ash. What was left twitched once before going still, a charred stump, useless and ugly.
+
+For a moment, Chloe just stared. That was her arm, destroyed in only a few seconds.
+
+She stumbled back and moved behind a big rock as she prepared another Cursed Rock Shot. If this thing wanted to play acid-and-vanish, she could play too. One arm or not, she was going to win, and then she was going to eat its damn brain.
+
+Yet, a shimmer broke the darkness to her right. Chloe spun and hurled the stone on instinct.
+
+It smashed into the air in a violent blast, black mist and shattered rock exploding outward. The monster tried to dodge, but the edge of the blast clipped one wing. Its screech ripped through the cavern, sharp and furious.
+
+The beast vanished again, a blur tearing wide through the dark. Chloe stalked forward into the center of the chamber. She reached for her sword, barely drawing it before the thunder of wings roared behind her.
+
+She turned just as the creature lunged, its jaws locking around her remaining arm. Bone crunched like brittle wood. Flesh tore in wet snaps as the beast whipped her arm around, black ichor splattering across the stone in thick arcs.
+
+For a second, Chloe panicked, until she realised something big. She could still move her limbs when they weren’t attached. This was about to get fun.
+
+Chloe gritted her teeth and focused down on the severed arm, commanding it with every ounce of will she had. It twitched. Twitched again.
+
+From the creature’s maw, her right arm, still gripping her sword, moved. With a brutal twist, her arm drove the blade straight into its eye. The monster reared back, flinging Chloe's arm through the air.
+
+Her arm hurled into a jagged rock, and bounced a few times before falling into a hole. She… probably wasn’t getting that one back.
+
+Across the chamber, the beast staggered. One side of its face was a leaking mess, blood spraying with every twitch.
+
+Chloe rolled onto her knees. Her shoulders ached, well, what was left of them, but she managed. Okay. I’ve been using my hands to fling Rock Shots this whole time, yeah? But I’m, like, really good at firing Rock Shots. Maybe I don’t even need hands anymore. Maybe I just scream magic at things with my mind. That’s a thing, right?
+
+She narrowed her eyes. No. Wait. That is a thing. I’m making it a thing.
+
+It took a few tries, mostly fueled by rage and spite, but Chloe did it. A cursed stone shimmered into existence, held aloft by raw willpower. The dark energy flared hotter than usual. The second it stabilized, she flung it with nothing but focus.
+
+The rock slammed into the beast’s chest and burst in a shriek of black mist. The monster roared, its form twisting violently.
+
+Chloe conjured another. Then another. And another.
+
+Each cursed stone screamed through the air, hammering into its ribs, wings, throat, anywhere she could lock onto. The creature tried to take off, wings flapping wildly. It even flickered invisible again, but its body was too damaged to hold the magic.
+
+Chloe didn’t stop. She didn’t blink. She just kept firing.
+
+One more shot. Then another. Then the final shot struck its chest dead center.
+
+The beast collapsed soon after, wings twitching, limbs spasming, acid bubbling around its mangled form. And then it stopped moving altogether.
+
+Finally, Chloe let herself collapse onto her back, staring up at the jagged ceiling with a grin tugging at her lips. She might’ve been two arms down, but there was a fresh, delicious brain snack waiting for her. That felt totally worth it.
+
+[You have killed: Greater Terror Wing  (Level 18)]
+
+[Experience Awarded]
+
+[Skill Upgraded: Cursed Rock Shot II >> Cursed Rock Shot III]
+
+Losing both arms wasn’t exactly part of the plan, but at least Chloe had come prepared. Her gaze slid toward her backpack, slumped against a boulder a few feet away like it was mocking her. That was the next problem.
+
+She had no arms, and her backpack was loaded with clasps. Meanwhile, she was sitting here with exactly zero grabby bits to work with.
+
+Chloe shuffled over awkwardly, knees scraping stone, and leaned down. After a few failed headbutts and growls of frustration, she finally hooked the edge of the flap with her teeth and tugged it open.
+
+Inside, tightly wrapped in cloth and still faintly twitching, were her prizes. Two spare arms. Whew, glad I packed these.
+
+Chloe clamped her jaw gently around one of the limbs and dragged it out. It flopped onto the stone floor with a meaty thump. She positioned herself awkwardly over it, using her chin and shoulder to nudge it into place near her left stump.
+
+The moment the limb touched her torn edge, something stirred. Black tendrils slithered out from the ragged stump of her shoulder. They latched onto the foreign arm and began to pull, slow at first, then more urgently.
+
+Chloe tilted her head and watched with morbid curiosity. The tendrils burrowed deeper, pulling the limb into place, anchoring it. But once the arm was locked in, it just… hung there.
+
+Limp and utterly useless. Chloe gave it a mental nudge. Nothing.
+
+She squinted and tried again, focusing harder this time. The fingers twitched once, then spasmed completely the wrong way and slapped her right in the face. Hey! What was that for?!
+
+Chloe growled and zeroed in. Another few seconds passed. Then something shifted. The skin along the limb shimmered, its color dulling, the texture softening. Faint pops echoed as the bone reshaped itself, adjusting joint by joint until it looked... almost right. Closer to what her original arm was.
+
+The fingers moved again, this time, when she told them to. She smiled, then flexed the new hand. Each finger wiggled in perfect little sync. Ooooh, yes. That’s more like it.
+
+Chloe rolled her shoulder experimentally. It still felt a little weird, but her new arm had adjusted.
+
+With a hum of satisfaction, Chloe used her mouth to remove the cloth wraps from her new arm. Then she turned back to her pack and grabbed the second arm, this time with her new hand. Her other stump tingled in anticipation.
+
+She lined up the limb, nudged it into place, and waited. Once again, the black tendrils slid out, coiling greedily around the arm. This time, the connection locked in quicker, smoother, like her body had learned the rhythm.
+
+While she waited for the limb to finish settling, she leaned back against a nearby rock. Definitely bumping spare arms up the priority list in the future.
+
+The second arm began to shift, reshaping itself to match her frame. Fingers flexed in slow, awkward little pulses. She gave it a few experimental wiggles. Then, just like that, full control snapped into place.
+
+Chloe stood up, both arms now moving smooth and clean. She stretched them wide, flexed her fingers, rolled her shoulders, and grinned at the gentle thrum of power running through her bones again.
+
+She peeled the bandages off this one too, dusted her hands, and cracked her knuckles. I'm re-armed and ready!
+
+With her arms restored, Chloe could finally get to eating brains. She crouched beside the twitching corpse of the bat monster, eyes narrowing as she spotted a familiar shape sticking out from the beast’s ruined eye socket. Her sword. Still embedded.
+
+Chloe grabbed the hilt with her new right hand and yanked it free with a satisfying squelch. Bits of gore clung to the blade, but she didn’t care.
+
+She gave it a lazy flick to the side, then slid it back into its sheath. Okay, now I can actually get to the main event.
+
+She cracked her knuckles and leaned in closer, peeling back the remains of the creature’s skull. The bone was thick, but not thick enough to stop her from forcing it apart with a few well-placed pries and a grunt of effort.
+
+The skull split open with a wet crunch. Inside sat a brain. Huge, glistening, and practically glowing with residual magic.
+
+Chloe’s eyes sparkled with delight. Ohhh, I bet you’ve got so much juice in there.
+
+Without another thought, she dug in. The brain squished delightfully between her teeth. It was dense, rich, and sizzling with magical aftertaste.
+
+[Brain Consumed: Greater Terror Wing (Level 18)]
+
+[Experience Gained]
+
+[You have Leveled Up: 7 >> 8]
+
+[Strength +4, Speed +5, Vitality +3, Magic +5, Resistance +4]
+
+[New Skill Gained: Acid Resistance III]
+
+[New Skill Gained: Acidic Spit III]
+
+[New Skill Gained: Invisibility I]

@@ -1,0 +1,221 @@
+---
+id: 4fba0926-5bee-5997-a031-3dbae2cf46fa
+page-type-slug: story-chapter-royal-road
+title: "3: Disarmed"
+slug: 0003-3-disarmed
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 3
+ownLength: 2452
+unit: words
+publishedAt: 2025-08-17
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2525508/3-disarmed"
+royalRoadId: "2525508"
+---
+
+Chloe stood at the mouth of a narrow passage, where the tunnel sloped upward into darkness. It had to be the way up.
+
+She’d scoured every corner of the floor below, and none of them had offered a fancy little exit like this one. A new place meant new challenges, and with luck, some fresh brains to munch on.
+
+She lifted one foot and stepped forward. Then stopped.
+
+Her foot froze mid-air, toes just brushing the cold stone, then trembled. A chill raced up her spine.
+
+She yanked her leg back like the floor had tried to bite her. Wait, what if there are stronger monsters up there? What if there are strong humans too? What if the whole floor is super dangerous? Maybe even some magic trap that turns me into soup. I’m not soup. I don't wanna be soup!
+
+Suddenly, Chloe stopped moving and just stared at the air for a few seconds. Wait… what is a soup? Not sure how I know that word.
+
+Well, anyway, maybe I should stay down here a bit longer. But if I don’t go… I’ll never know what’s out there. I’ll never get stronger. Never get to taste more flavors of brains.
+
+Chloe had spent her entire un-life in this one, grimy floor of the dungeon. She knew how to speak, somehow, like the knowledge had been shoved into her skull by whoever or whatever kept her body stitched together. Everything else, she picked up secondhand, pieced together from the many adventurers who wandered on her floor.
+
+But beyond this floor? Chloe’s knowledge thinned out fast. She knew she couldn’t stay here forever, not unless she wanted to suffer from an eternity of boredom. It was time to move on.
+
+With fists clenched, she marched toward the passage once more. Her pace slowed as the walls closed in around her, forcing her to hunch her shoulders. Eyes flicked left and right with every cautious step. The incline was fortunately not too steep.
+
+Eventually, the tunnel opened into another chamber. At a glance, it didn’t look much different from the one she had just left. Still a cave. Still dark. Still suspiciously damp. That, at least, felt mildly familiar.
+
+Chloe tiptoed forward, glancing around. No monsters in sight. No hidden traps. No angry adventurers springing from the shadows. So far, so good.
+
+Then something flapped above her. Chloe's head snapped upward, claws twitching and ready to strike. A black, winged shape screeched as it darted past her, vanishing into the dark.
+
+She tensed, ready to bolt, until the shape finally registered: a bat. Just a bat.
+
+Relief washed over her, chased by a sting of embarrassment, but Chloe puffed herself back up fast. Once her pride stopped limping, she strutted forward with a bit more bounce in her step. Maybe this floor wasn’t so bad after all.
+
+As she rounded a bend, Chloe stopped short. Her eyes landed on something that made her instincts buzz with excitement: a wooden chest, just sitting there in the middle of the room.
+
+She crept closer, gaze locked on the prize. It looked exactly like the kind of treasure chest adventurers were always talking about.
+
+Crouching beside it, Chloe tilted her head, studying it with open curiosity. She’d heard stories about these things, mysterious gifts from the dungeon that supposedly just appeared out of nowhere. And inside? Who knew.
+
+Weapons, armor, rare loot... maybe even brains, if the dungeon was feeling generous. The possibilities might as well be endless.
+
+Her fingers hovered above the latch, twitching with anticipation. Moment of truth. What treasures await—"
+
+The chest twitched. Chloe stopped moving.
+
+The wood groaned, and then it flexed like a rib cage expanding. Then the top split in two, sort of like a mouth.
+
+Rows of jagged teeth lined the inside, each one glistening with thick saliva. A massive pink tongue flopped out, wet and twitching, drooling slime onto the stone floor.
+
+“GAH!” Chloe shrieked, jerking back too late.
+
+The strange creature lunged and sank its teeth into her left hand with a wet, meaty squelch. If this had happened to someone else, Chloe absolutely would’ve laughed, a lot. But since it was her hand currently being chewed like a snack, she was finding it significantly less hilarious.
+
+“HEY! NO!” she screeched, flailing wildly as she tried to rip her arm free.
+
+The monster let out a sound somewhere between a growl and a burp, then started thrashing, shaking its whole body and tossing Chloe around. Panic shot through her chest as she wondered what kind of monster was this? No brains, no meat, just teeth and wood.
+
+She kicked the chest monster. Slapped it. Even tried talking it down. “I wasn’t gonna steal everything, you know! Just peek inside!”
+
+The thing only growled louder and clamped its jaws down harder, wood grinding against her legs. That was it. No more talking. No more negotiations.
+
+“Fine! You want to do things the hard way? You got it!”
+
+She raised her free hand and pointed it right into the mimic’s maw. A chunk of rock launched from her hand, slamming into the chest monster's tongue. The monster shrieked and flailed, but still didn’t let go.
+
+“Oh, you wanna be greedy? I’ve got more.”
+
+Another CRACK echoed as Chloe launched a second Rock Shot. Then a third, with this one in particular bursting out the back in a spray of slime and splinters. With one final gurgle, the chest monster went limp.
+
+[You have killed: Mimic (Level 3)]
+
+[Experience Awarded]
+
+[Skill Upgraded: Rock Shot II >> Rock Shot III]
+
+There was a pop as it slid off her arm… and her hand went with it. Chloe stared at her very empty, very wrist-only left arm.
+
+She looked down at the mimic’s corpse, which still twitched slightly as if smug in death. “You ate my hand. That’s my hand. I liked that hand!"
+
+Chloe lay sprawled on the cold cavern floor, clutching the jagged stump where her hand used to be. Her beautiful hand was gone. Eaten by some greedy, tongue flopping treasure chest wannabe.
+
+Then something twitched. Her eyes snapped to the mimic’s ruined remains. It gave an unpleasant shudder. Then another.
+
+Confusion tangled with dread as Chloe's thoughts raced. The System had said it was dead. Triple-Rock-Shot-to-the-face dead. So why was it moving? Was this an undead mimic? Or worse… cursed? The idea made her stomach twist. She really didn’t have the patience for cursed nonsense today.
+
+And then, from the sticky ruin of its guts, something pale and small pushed through, it was a hand. Her hand.
+
+It rose slowly, trembling and dripping with goo, wiggled its fingers, and gave her a little wave. Chloe froze, staring like the world had just turned upside down.
+
+Then, a scream tore out of her. “LEFTIE!”
+
+She scrambled forward on her remaining limbs, scooping the wayward arm into her good one and clutching it tight. Relief burst out in a laugh as she held it close. Leftie was okay. Slimy and covered in mimic guts, sure, but it was back, and that was all that mattered.
+
+Leftie gave a slow, confident thumbs-up. Chloe smiled. “Oh, you’re just the best. Let’s get you back where you belong.”
+
+She pressed the hand to her wrist. Nothing.
+
+Chloe tried to press harder. Still nothing.
+
+She gave it a twist, then a pat, then muttered a few made-up magic words. Nothing.
+
+Leftie flopped to the ground with a dramatic plop. “Oh, come on. Could you please work with me here?"
+
+She picked Leftie up again. Okay. So maybe you’re not ready to reattach yet. That’s fine. Totally fine. We’ll just... improvise.
+
+Chloe held Leftie up to eye level. “Can you hang on to my shoulder for now?”
+
+Leftie responded with another thumbs-up. Chloe wasn't sure how her hand of all things learned to gesture, but she wasn't going to question it now. She was just happy she had her hand back.
+
+“Okay Leftie, you'll have to hang on there for a bit."
+
+Chloe carefully rested Leftie on her right shoulder, who curled its fingers slightly for grip. This will have to do for now.
+
+With Leftie firmly perched on her shoulder, Chloe strutted deeper into the cavern with renewed confidence. The mimic incident was officially behind her. She had magic, she had flair, and she had a detachable support hand. What could possibly go wrong?
+
+The passage twisted slightly before opening into a wide chamber, the air thick with dust and there was this strong smell of dry bones. Which, as it turned out, wasn’t far off.
+
+Three skeletons stood on the far side of the room, swaying around aimlessly. Chloe grinned.
+
+Skeletons were simply zombies without the juicy bits. No brains, no guts, no fun. Honestly, they looked a little pathetic. They didn’t even squish when you hit them. And really, what was the point of a fight if there wasn’t going to be any splatter?
+
+As soon as her footsteps echoed through the corridor, the skeletons jerked upright. Their skulls snapped in her direction, eyes empty but somehow hungry. With a chorus of bone-grinding creaks, they started to shuffle toward her.
+
+“Alright, bony boys. Let’s see what you’ve got,” Chloe said.
+
+She raised her right hand, narrowed her eyes, and locked onto her target. Focused. Aimed. Fired.
+
+A chunk of stone blasted from her palm and slammed into the cavern wall about ten feet to the left of her actual targets. “…Okay. Warm-up shot, that one doesn’t count.”
+
+The skeletons continued their advance, arms rattling, joints clicking with every stiff step. It was a good thing that they moved very slowly.
+
+Chloe fired again, and missed. Then fired again, and missed harder. Frustration prickled under her skin; this was getting embarrassing.
+
+The next Rock Shot finally clipped a skeleton’s shin with a sharp crack. Chloe’s face lit up as a wild, triumphant laugh tore out of her. She’d finally gotten a good hit in. Now it was time for the finishing blow.
+
+She hurled another shot, with better aim this time. The rock struck a skull clean off its shoulders, sending it spinning to the ground. Chloe then fired another blast that punched through the second skeleton's skull, scattering bone shards everywhere. The last skeleton took several rock blasts to the chest, and with a series of satisfying crunches, it collapsed in a heap.
+
+[You have killed: Skeleton (Level 3)]
+
+[…]
+
+[You have killed: Skeleton (Level 3)]
+
+[Experience Awarded]
+
+[1 Trait Point Awarded]
+
+Chloe tapped her chin with a finger. Okay. What’s a Trait Point? Some kind of prize? Can I eat Trait Points?
+
+Leftie gave her an uncertain wiggle. It seemed even her detached limb thought that was a questionable idea.
+
+“Hey! It's a fair question!” Chloe said defensively.
+
+Leftie just remained still after. Perhaps it was its way of saying, "Eh, fine."
+
+Still, that Trait Point question was bugging her. How do I even use it?
+
+[Trait Points are awarded periodically upon the completion of specific tasks. These points may be used to purchase traits from a selection curated by the System. To view the list of available traits, simply focus your intent on accessing it.]
+
+Chloe tilted her head. Purchase traits? Wait… what’s “purchase”?
+
+[“Purchase” means to exchange a resource, such as Trait Points, for a benefit or item.]
+
+Oooooooh. So I trade trait points for fancy powers. Got it.  Okay, System. Show me what kind of traits I can get please.
+
+[Displaying Available Traits for Purchase]
+
+[Each trait costs 1 Trait Point, unless stated otherwise.]
+
+1. Steady Hands (Basic): Your hands are unusually stable, making it easier to perform tasks that require precision.
+
+2. Keen Nose (Basic): Your sense of smell is slightly enhanced, allowing you to detect faint scents like blood, rot, or recently disturbed soil.
+
+3. Venomous Bite (Uncommon): Your bite gains a venomous effect that weakens and damages enemies over time.
+
+4. Profane Regeneration (Uncommon): Your body heals over time, mending wounds and allowing severed limbs to be reattached if held in place.
+
+Steady Hands didn’t look particularly flashy, but Chloe could see the appeal. Better aim for spells was nothing to sneeze at, and it might even help with more delicate work, like removing brains without squishing them. Still, something about it felt a bit underwhelming.
+
+She moved on to the next trait: Keen Nose. Sniff powers. That one made her pause. Being able to smell blood or corpses from a distance could come in handy, especially in a dungeon full of things that liked to hide. She filed it under “maybe,” just in case nothing better came up.
+
+Then Chloe's eyes landed on Venomous Bite, and her whole expression lit up. Now that was something. Having poison chompers meant that she could be just like that giant spider back on her floor.
+
+But the next trait was something Chloe really didn't want to miss: Profane Regeneration. And in the description was limb reattachment.
+
+She glanced at Leftie, who perked up slightly on her shoulder. “You hear that, buddy? We could fix this. You and me, whole again. No more awkward shoulder rides.”
+
+Leftie gave an enthusiastic thumbs-up. Chloe nodded. Guess that settles that.
+
+[Trait Purchased: Profane Regeneration]
+
+[Trait Points Remaining: 0]
+
+A strange warmth pulsed in Chloe’s chest, spreading throughout her body. It buzzed through her limbs, tickling her bones and making her fingers twitch.
+
+She plucked Leftie off her shoulder, cradling the severed hand with care. Holding it over her wrist, she pressed it gently against the stump. For several long, awkward seconds, nothing happened. The hand just dangled there.
+
+Chloe frowned, narrowing her eyes. Maybe she was supposed to do something.
+
+She pushed, wiggled, even mashed it a little harder against her arm. When that failed, she whispered a string of nonsense syllables that sounded magical, though even she wasn’t sure what language they were meant to be. Still, the hand flopped uselessly, no more alive than before.
+
+“Come on, Profane Regeneration, I believe in you!” Chloe said out loud.
+
+And then, finally, one of the fingers gave the faintest twitch. Chloe stared at the point of contact. That had to be it.
+
+From where the hand touched her wrist, thin tendrils of black energy began to slither out, weaving through her skin like writhing threads. They stitched hand to arm in jittery pulses, tugging at the flesh and knitting it back together, bit by bit.
+
+Her eyes widened, gleaming with delight as she watched the mending take shape. It wasn’t quick.
+
+The whole ordeal involved a lot of unsettling crackling, minor sizzling, and several moments where her fingers flexed at strange angles. But slowly, piece by piece, her arm became whole again.

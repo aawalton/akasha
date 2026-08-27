@@ -1,0 +1,87 @@
+---
+id: abfd83c7-5e95-53fc-8833-4d1f592edcee
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1615 - Primordial Soup"
+slug: 0264-chapter-1615-primordial-soup
+partOf: chrysalis
+position: 264
+ownLength: 1233
+unit: words
+ownProgress: 1233
+publishedAt: 2025-08-04
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2490062/chapter-1615-primordial-soup"
+royalRoadId: "2490062"
+markedReadAt: "2026-06-29T19:52:15.772Z"
+---
+
+The descent into the lower chamber of the heart was a difficult one. The flesh of the chamber walls was sagging and leaking mucus, yet even so, the way was narrow and dangerous. The Zissth had created a path, but dragging such a large and heavy monster through wasn’t easy. Once they were through, Zluth could feel the change in the air instantly.
+
+Rising from below were such potent and toxic fumes that his skin began to bubble and burn when they brushed against him.
+
+Down there was the pool of sludge left by Theorazzn, from which the pools in every other slimeground in the region had been drawn. He couldn’t wait to see it up close, but was wary. Respect for the dangerous elements of the fifth was exactly what kept the Krath alive in this environment.
+
+“How close are we going to get to the pool?” he asked Soluzz directly.
+
+The big Krath knew exactly what he was getting at.
+
+“It’s so potent even I will melt if I get too close,” he replied. “From a hundred metres away, we can roll the monster in and watch the change take place. Any closer than that and I can’t guarantee your safety.”
+
+Even from a hundred metres away? Zluth was even more intrigued. Every Krath had a deep-seated respect for the Ancient, but no idea of what Theorazzn was truly capable of. To think that a pool of his perfect sludge could sit here in the heart for thousands of years and still be so potent!
+
+Chozth was not feeling the same reverent emotions as Zluth, continuing to glare at the still form of the slime-wrapped monster. She struck it once more with venom.
+
+“Not long now, filth,” she hissed. “Soon you’ll hate everything you ever loved.”
+
+“Still one more to go,” Zluth reminded her. “The task isn’t finished yet.”
+
+“The other one didn’t kill my warriors. This one did,” Chozth spat, her acidic saliva bubbling on the platform.
+
+“Once we have turned this one, we can return to the fortress and destroy it. With that, the singing will come to a stop and two thirds of the Ancient’s task will be done,” Soluzz said.
+
+“There may be more,” Ulliz, Krath’lath of the Bulg, spoke up. “Now that the Ancient is awake, we should be prepared for more visitations.”
+
+“I will be prepared, but you don’t need to bother,” Chozth bit off each word as she addressed her rival. “Theorazzn will only speak to the worthy.”
+
+Considering he had spoken to Chozth directly, it wasn’t something Ulliz could refute directly. Before they could retaliate, Soluzz cut them off.
+
+“We’re here. Be silent from this point.”
+
+He gave no other warning, but glared with bulging red eyes to ensure they knew he was serious. Lowered by thick strands of mucus, the platform made from hardened mould that had been melted together with acid touched down at the lower reaches of the heart.
+
+Looking up, Zluth was still astonished at the size of the thing. A beating pump of poison and toxicity, the heart was the centre of this entire section of the fifth, through which all the mana flowed, enriched by the miasma of the Ancient. The walls pulsed on either side, forcing the flow of energy, a constant cycle of contamination that had made the Krath who they were.
+
+Soluzz noticed him looking and caught his eye with a wave of his hand. He pointed to the side and Zluth stared.
+
+Huge pillars of ossified flesh rose up from the floor of the heart, dozens of them clustered together, the tops puckered open and sucking in vast torrents of mana.
+
+The openings of the vents! Zluth had known of the vents his entire life, but never seen the source of their energy with his own eyes.
+
+The group continued to move down a roughly built pathway that kept them above the sticky flesh of the heart. Behind them, the monster was dragged by a group of powerful warrior slugs, hauling it towards its doom.
+
+With every moment, they drew closer, and the air of miasma grew thicker and thicker until Zluth felt as if he could barely breathe. Looking at the others, he knew they were suffering the same, but refused to show weakness in front of their rivals. If they weren’t, he certainly wouldn’t, so he continued to breathe as normal, despite the searing pain.
+
+Soluzz wordlessly led them on until at last he came to a stop. Indicating for the others to draw closer, he pointed down at something they couldn’t see.
+
+Even before laying eyes on the pool itself, Zluth could see the vapours rising from it. They warped and twisted the air, easily visible despite having no real colour. It was as if the world itself was infected by it, changing and warping by sheer proximity to something so toxic.
+
+As he approached the edge of the path, Zluth looked down and immediately felt a bright, burning pain in his eyes.
+
+The pool was so incredibly potent he could barely look at it. In the slimeground of the Slee, they had a pool of change, but it was diluted, with barely a mouthful of the pure sludge within it. A deep, deep yellow streaked with virulent, bubbling green, the toxic stuff of Theorazzn was so unbelievably strong he could feel his own flesh beginning to warp and sizzle just by looking at it.
+
+He lunged back, taking his eyes away and gasping for breath, even though every inhalation seared his insides.
+
+The Ancient had created that? And thousands of years ago?! It was impossible. Could a Krath ever hope to cultivate something that strong? Just thinking about containing it within his flesh made Zluth quiver. He would be destroyed in an instant.
+
+When he had recovered, Zluth turned to see he wasn’t the only one to have a strong reaction to the pool. The other Krath’lath were all slumped over, gasping, all except for Soluzz. The large Krath was in great pain, but he held his position, expressing his superiority by standing where they could not.
+
+He raised his hands, waving his warriors to bring the monster forward. From here, it would slide down the edge of the pit in which the pool of change was located. They would only need to tip it over the edge.
+
+In the act of making the gesture, Soluzz paused. A change came over the air within the heart, a ripple that seemed to pulse upward, originating from the centre of the Dungeon. Immediately, the mana began to thin, the concentration of energy starting to drop.
+
+The wave was over.
+
+He grunted. It had lasted longer than it should. At least now they would be able to move through the tunnels much more easily. Bringing their strength to bear against what remained of the fortress would be simple. With his gesture, the warriors pulled the ant forward, still wrapped in its cocoon of slime. Though that protection wouldn’t last long. The slime might be able to resist the mana of the fifth, but it couldn’t protect from what lay below. Already, it was starting to dissolve.
+
+With a final heave, the warriors tipped the monster over the edge, and Soluzz, joined by Chozth, watched eagerly as the creature began to roll and slide down to its doom.
+
+That’s when the shaking started.

@@ -1,0 +1,107 @@
+---
+id: 56f91552-c240-583b-88ea-9ee90968c07a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1548 - The Pain of Knowledge"
+slug: 0196-chapter-1548-the-pain-of-knowledge
+partOf: chrysalis
+position: 196
+ownLength: 1205
+unit: words
+ownProgress: 1205
+publishedAt: 2025-04-10
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2189086/chapter-1548-the-pain-of-knowledge"
+royalRoadId: "2189086"
+markedReadAt: "2026-06-29T19:50:05.601Z"
+---
+
+Throughout the inner chambers of the fortress, there had been a persistent and harrowing sound echoing down the long tunnels. The ants knew it well, knew how it would hang in the air, shivering like an icy breeze, rattling against their antennae and disquieting their souls.
+
+To the non-ants, it was even more terrifying, a mournful sound, filled with despair, with longing, it seemed to them as if a dispossessed soul was haunting the chambers, and their superstitious minds were disturbed. The ghost of the fortress, the banshee of the fifth stratum, the terror of the tunnels.
+
+For the Brood Tenders, and for Theresant more specifically, this object of fear and discomfort had a different name: Academia.
+
+“Pleeeeaaaaaaaassseeeeee!” howled the magio-scholar of the Golden Tower, Englebert, tears and snot flooding down his face. “PLEASE let us see the chal!”
+
+He clung to Theresant’s leg, refusing to let go even when she moved, letting himself be dragged along the floor. She lifted her leg and waggled it, trying to shake him off, but he had the grip of a lamprey, latched on for dear life. She lowered her leg again with a sigh. Every day, this same scene was repeated. It wouldn’t be so bad, if it weren’t for…
+
+“Look into your heeeeaaaaarrrrtt!” sobbed the other mage, all four limbs wrapped around one of Theresants other legs. “We beg! WE BEEEEEEEEEG!”
+
+Lady Meritious had a particularly piercing and resonant voice. Theresant had considered asking her if she could sing, but… after some consideration, had decided against it.
+
+[I have to apologise for them,] Rathwyn stated, [again. I tried to tie them to their beds this morning, but Englebert chewed through the rope.]
+
+Theresant didn’t need a translation to know what the scholars were after. They wanted access to the young chal, to observe and study them. It wasn’t necessarily a bad idea, to have another set of eyes and a different perspective brought to bear on the rearing process. It was just… they were so bad at controlling themselves. She wiggled her leg again, but the Lady Meritious was stuck like a barnacle, her grip unyielding.
+
+This was very inconvenient.
+
+[If they promise to stop coming here every morning, I will allow them to observe for a portion of the day,] she finally compromised. [They must promise to behave themselves.]
+
+They would be in an observation chamber, so the hatchlings wouldn’t be able to see or hear them at all, but further shameful displays would be unsettling to the Tenders, and thus lower the quality of their overall care.
+
+Unacceptable.
+
+[I’ll let them know,] Rathwyn said, then spoke aloud to the scholars.
+
+There was silence for a moment. Blessed silence. Then the two mages broke out in fresh noise, tears and mucus, rubbing their faces on Theresant’s legs as they bawled with gratitude.
+
+Filled with distaste, she began to use her other legs to try to push them off, prying them off her after several minutes of effort. It took some time for the scholars to collect themselves, time that Theresant used to supervise the morning meal’s preparation and distribution.
+
+So far, the snails were growing well, as far as the Tenders could tell, but they continued to experiment with their diet in the hopes of stumbling across foods they enjoyed even more. The chal didn’t appear to be super picky eaters, happily chomping away at the offerings the Tenders prepared, but Theresant couldn’t help but wonder if they were missing something.
+
+Regardless, after the meal was done, Rathwyn and his two associates arrived outside the viewing chamber.
+
+[They promise to comport themselves with the dignity expected of the magio-scholars,] he assured her, prodding both of the mages with his finger for emphasis.
+
+[Yes, we must apologise for our… earlier display,] Lady Meritious said, looking abashed. [Our yearning for knowledge temporarily overcame our better judgement.]
+
+Theresant could have pointed out that they had lost the battle against their yearning for knowledge daily for some time, but chose to keep her thoughts to herself.
+
+[You may enter the observation room,] she told them, [but you are not allowed into the snailcare centre itself. We are taking strict measures to control the environment in which the hatchlings are being raised and will not take risks compromising it.]
+
+[Very reasonable and understandable, as I’m sure my colleagues will agree,] Rathwyn stated solemly, with more poking.
+
+[Yes… of course,] Englebert muttered, looking sulky.
+
+[I… agree,] Lady Meritious said, looking very disagreeable.
+
+Hoping she wasn’t making a mistake, she led the scholars into the observation chamber and watched carefully as they approached the one-way window.
+
+[What has been happening inside the chamber today?] Lady Meritious asked, flipping out a notebook and beginning to scribble things down.
+
+Surprisingly normal behaviour from them… This could be a good sign.
+
+[They have just been awoken and fed their morning meal,] she told them. [The Tenders are now encouraging the hatchlings to move about the space and engage in the various play activities we have set up around the chamber.]
+
+She used an antenna to point.
+
+[Over there, you can see we have created a multi-textured slide for them to glide over. The hatchlings seem to enjoy using their feet to glide over different types of surfaces.]
+
+[Fascinating, fascinating!] Englebert muttered to himself, also furiously writing down his notes.
+
+As the seconds passed, the two scholars appeared almost magnetically drawn to the window before them. Before long, they were practically pressed up against it, their eyes glaring feverishly as they tried to observe every movement of every chal in sight.
+
+Theresant pointed at the two of them, concerned, and Rathwyn just shrugged apologetically.
+
+She was reluctant to say anything else, but her instincts demanded she be a good host, so Theresant felt compelled to speak.
+
+[Any moment now, I expect the next singing lesson to begin.]
+
+The two scholars froze in place, as if struck by lightning, but before they could properly react, a single, clear note rang out through the observation chamber.
+
+[The snails are given group and individual lessons, as well as times like this where we give them the opportunity to simply listen and join if they so choose,] she explained. [They almost always do.]
+
+Indeed, as the note was held, resonating in the air, the little chal opened their mouths and joined in, their little voices combining to form a bright, if thin, accompaniment to the angelic sound of the magpei singer.
+
+Both researchers were furiously writing, or at least, it seemed as if they were. On closer inspection, Theresant thought they were merely moving their hands randomly, covering the pages with disordered scrawl. When she focused on their faces, she jumped.
+
+Only the whites of their eyes were showing and a foam was dripping from their mouths.
+
+[Are they diseased?!] she demanded of Rathwyn, leaping back. Had the snailcare centre been contaminated?
+
+He leaned forward to see the state of his fellows and sighed heavily.
+
+[They have been overwhelmed with excitement, I’m afraid,] he said. [I’ll have to take them back to our rooms to recover.]
+
+He hesitated for a moment.
+
+[Could I ask for some soldiers to help? They’ll likely fight me if I try to take them away.]

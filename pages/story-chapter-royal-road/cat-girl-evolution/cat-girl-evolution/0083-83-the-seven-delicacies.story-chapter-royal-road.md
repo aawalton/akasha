@@ -1,0 +1,169 @@
+---
+id: 89862006-c969-5da4-8187-d2901b14011a
+page-type-slug: story-chapter-royal-road
+title: "83 - The Seven Delicacies"
+slug: 0083-83-the-seven-delicacies
+partOf: cat-girl-evolution
+position: 83
+ownLength: 2331
+unit: words
+publishedAt: 2026-02-01
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3000872/83-the-seven-delicacies"
+royalRoadId: "3000872"
+---
+
+“The Delicacies are actually a little bit more than just tourist destinations,” explained Cecilia. “That’s what they mainly are, but they’re also a teaching tool. In the past there were many chefs and connoisseurs that went and tasted them all to expand their horizons and get experience. They were originally discovered and defined by one legendary adventurer-chef a few centuries ago. He actually marked a total of twenty or so, but over the years, other experienced chefs and gastronomes narrowed it down, and a few of the originals unfortunately went extinct.
+
+“Ultimately, it was limited to seven, with each Delicacy possessing a unique form of deliciousness, and most importantly, being replicable. There have been many legendary meals made from unique creatures, but they were one-time events. The Seven Delicacies are all things that can continue to exist eternally, so long as their environment isn’t destroyed.”
+
+“So you’re saying that there’s more than seven?” I ask.
+
+“Well, no, but yes,” she says, scratching her chin. “I’m no expert on food, but as far as I know, the seven are universally acknowledged, while the rest are debatable. I’ve seen people claiming there are actually eight, or ten, or even fifteen, but no one disputes those first seven.”
+
+“Fifteen Delicacies…” I mutter.
+
+“I heard that you have a chef class, right?”
+
+“Just cook for now.”
+
+“Then you may find it interesting to know that there is an intended order to try them in. It’s not necessary, but it supposedly leads to the best experience. And lucky for you, the first one is actually relatively close to you.”
+
+“Where is it?”
+
+“A bit northeast of you, in a Dungeon city called Maligar.”
+
+“A Dungeon city?”
+
+“A city within a Dungeon.”
+
+“That’s possible?”
+
+“Yes, but it’s very rare. It’s only possible in certain types of Challenge Dungeons, and even among those, very few are large and diverse enough to actually accommodate long-term settlement. Maligar is, though, and there is a sizable population living on the first floor. The Delicacy is actually the boss monster of the top floor, a plant-type monster that grows incredible fruits.”
+
+“What kind of fruits?”
+
+“They are similar to mangos.”
+
+“That’s my favorite fruit. I’m going there. How far away is it?”
+
+“Hmmmm, I’m not sure how to describe it,” says Cecelia. “I don’t really pay much attention to distance these days. Girls?”
+
+“It’s actually quite close to where we’ll be going,” says A.
+
+“Lauren wants to go to Doralak, which is only about a day away from Maligar,” says B.
+
+“Perfect!” I say. “We’re going to Maligar.”
+
+“I should warn you that it’s not exactly easy to reach the top floor of Maligar,” says Cecelia. “How much do you know about how Dungeons are formed?”
+
+“I know that if something eats a Dungeon Core, they become a Dungeon.”
+
+“Correct, and they also become a Dungeon Master. Think of it like the Dungeon is their body, while the core is their mind. When an unintelligent beast consumes a Dungeon Core, they create simple Dungeons, most often Tower type Dungeons or Field Type Dungeons. To create a Challenge type Dungeon, however, the Dungeon Master must have a certain degree of intelligence, and even more so for Story types. And the creator of Maligar was a very intelligent creature.
+
+“Maligar is famous for other reasons besides the Delicacy. It’s also considered somewhat of a test. Platinums from all around the continent travel to Maligar to test themselves, as many consider it to be the quintessential Challenge Dungeon. It is not an easy Dungeon, and some never manage to complete it.”
+
+“I’ll be fine,” I say. “I’m actually a genius, you know.”
+
+“I’m sure you are,” Cecilia says with a laugh. “And even if you weren’t, you have the twins, so you can’t fail. Or if you do, I’m disowning them. If they can’t beat Maligar after being trained by me, then they are truly hopeless. You got that, girls?”
+
+“Yes, Master,” say A and B simultaneously.
+
+The words are harsh, but her tone is playful, and after spending a lot of time around the twins, I can sort of see beneath the slack-faced exterior, and I know that they’re not bothered. I think that’s more because both are confident that Maligar won’t be a problem than that Cecelia won’t actually disown them, though.
+
+Either way, I am excited. You can’t go wrong with a good fruit, and a mango-like fruit that’s good enough to be considered one of the Seven Delicacies must be heavenly. My mouth is watering just thinking about it. If meat from Named monsters is so incredible, then how good must fruit from a Named monster be?
+
+Abby, I’m going to interrogate her more. Write everything down!
+
+“Yes, Your Highness.”
+
+Again, with less sarcasm!
+
+“Yes, Your Highness.”
+
+I spend the next hour getting every detail I can out of Cecilia about the Seven Delicacies, as well as the other eight that other people put on the same level. Unfortunately, she’s not really a foodie, so she doesn’t know many specifics about them. She does know, however, that the vast majority of the Delicacies exist in Dungeons, because those are the only places where Named monsters respawn. The bison on the mainland are actually an outlier as monsters that spawn outside a Dungeon, though it’s a bit of a unique situation there.
+
+Apparently, the place where they live was once the territory of a Leader type monster so powerful it took a party of Hero-rank Adventurers to kill it, and even now, almost a thousand years later, the mana density on large swaths of the mainland is so high that it’s completely uninhabitable because it regularly spawns Tier 5 and higher monsters. The bison themselves are Tier 6 already at spawn, and the mana occasionally swells and produces a Named Disaster that needs to be culled by the most powerful Adventurers around.
+
+These high tier spawn zones are home to one of the other Delicacies, as well as between two and four of the almost-Delicacies (Cecelia wasn’t quite sure on the numbers). It will be a while before I get to go there, though. Getting to the mainland is hard enough, and even if I went there, I’m not ready to take on Tier 5 and higher monsters. Probably. Not until I evolve again, at least. Abby says the differences between tiers only grows, so even though I could take out a Tier 3 as a Tier 1, even with all my other advantages, taking out a Tier 5 as a Tier 3 will be hard.
+
+Still, there’s only one other Delicacy on this continent, plus two more almost-Delicacies, so after Maligar, I probably won’t be sticking around this place too much longer. I just need to make sure I level up a bit more and at least reach Tier 4 before I get there. The mainland sounds more fun, anyway. It’s supposed to be way bigger, and it has way stronger monsters and higher-level people, and stronger monsters and higher-level people means tastier meat and better meals.
+
+A and B mostly stand still the whole time, very occasionally correcting Cecilia on details, or giving her points of reference for mundane things like travel time and climate concerns. By the end of the conversation, I get the distinct impression that Cecilia almost never leaves her workshop, nor does she ever talk to normal people.
+
+We stop talking when A and B start yawning so much it gets distracting for both me and Cecilia.
+
+“Well, I guess it must be pretty late,” she says, as if she has no concept of what time it is beyond the exhaustion level of A and B. “I have a few inventions I would love to show you. I made a few gadgets that should work well with both monsters, and beastpeople, but I haven’t had anyone to help test them for me in a while. Plus, I’m really curious what kinds of materials you can eat. It’s been so long since I met another Gluttony. But I really need to finish this project up, so I guess that will have to wait until next time.”
+
+She sighs deeply, and internally I do too. My sigh, however, is a sigh of relief. This conversation has lasted about two hours, but it would have only been half an hour if she didn’t keep going on tangents about her inventions. If I had to sit here while she explained all the things she wants to test… I’d be here all night!
+
+Though I am interested in possibly eating some rare materials… That sounds like it could be fun.
+
+“A shame,” I say. “It’s been good talking with you.”
+
+“Yes, yes it has!” says Cecilia. “Good luck in Maligar! Now, if you’ll excuse me, I have an artifact to finish!”
+
+She spins in her stool again, flipping her magical welding mask back down, and the feed cuts, the crystal ball darkening. For a few seconds, the twins and I sit in silence. Then, they both yawn at the same time, so I stand up.
+
+“Well, that was fun,” I say.
+
+“Yes, Master is quite the character,” says A.
+
+“That went better than I thought it would,” says B.
+
+“...How did you think it would go?” I ask.
+
+“Well, let’s just say we’re lucky she was in the middle of a project when we called,” says A.
+
+“If she wasn’t, she would have ignored our yawns and shown you all her artifacts anyway.”
+
+“Ah. I see.”
+
+“Yeah…” says A.
+
+The twins yawn again.
+
+“Well, we’re going to head to bed now,” says B.
+
+“Once again, you’re welcome to stay.”
+
+“But don’t teleport, and don’t switch to your monster form.”
+
+“Got it.”
+
+“Well, have a good night, then,” they say simultaneously.
+
+I follow them out of the vault and back up through the trapdoor. They take the sensory deprivation devices off of Annie’s head, and while Annie doesn’t comment on it, she looks visibly relieved to be able to see and hear again. Then, they head up to bed on their own.
+
+I explore their workshop for a bit, trying to ignore Annie’s eyes following me as I move around. There are a lot of interesting-looking devices, but most of them don’t seem to work, and the ones that do don’t seem to do much. Not much that’s fun, at least.
+
+Bored of the workshop, I head upstairs, exploring the common area of the house before leaving. It’s well past midnight now, and even the parts of the city with active nightlife don’t have much going on anymore, so I just head back to Lauren’s house. I’m not quite tired yet, so I munch on some seafoodman and start messing with my mana limbs. As I do, I notice something strange.
+
+My hands are better. They have suddenly become a lot more realistic-looking, and they’re more articulate. I was already pretty good at controlling them before, even using them to cook, but it somehow became even easier. It’s almost like I can use them to feel. I am confused for a few seconds until I remember that I have Annie’s body in my Stomach. I guess Emma counted that as having eaten a human, so now my human body part constructs are better.
+
+I confirm this theory by trying a few more types of constructs, summoning my Long Sexy Mana Legs, a full torso, and even a head. Unfortunately, the head doesn’t seem to enjoy the same benefit. Looks like I’ll have to actually eat a human head to be able to produce a better version of that.
+
+I mess around with my constructs a bit more, then lay down in my bed and idly fiddle with my Royal Status Window. I’m level 29, one away from my next Evolution, and now that we’ve caught Annie, I think I can safely evolve. Kind of. I mostly trust my minions, but not enough to just evolve next to them, so I’ll need to find somewhere remote, hidden, and safe to complete my Evolution. I think I will wait until we get to Doralak to do that though. That way, my minions can get settled in in the city, and maybe receive their Platinum badges while I’m evolving, and then we can go right to Maligar when I get back.
+
+While I’m looking at my Royal Status Window, I also notice something else. Something very frustrating. My Infiltrator Quest has been reset. I was making decent progress on not getting caught, but apparently having Cecilia see me and do whatever she did to figure out my Name counted as getting caught, so the 30 day timer got reset. That’s double annoying now that I know that I can’t really do the other branch, since that’ll lock me into a weird serial killer path.
+
+Wait, hold on.
+
+Abby, if the timer is starting again right now, and I go disappear for a month to complete my Evolution… Will that count as completing the Quest?
+
+“I can’t say for certain, but I think it might as long as you don’t stray too far from the Enlightened Races. If you’re off in the middle of nowhere, it won’t count, but if you find somewhere secluded within a certain distance of your destination, then perhaps.”
+
+Perfect! Alright, I have my plan, then! I’ll get that last level I need, then I’ll hold off on evolving until we get to Doralak and I find a good spot. Then, I’ll tell the minions to get their Platinum badges while I evolve, and once I evolve, we’ll all go to Maligar together and get the First Delicacy!
+
+“A solid plan.”
+
+You sound sarcastic.
+
+“You might be forgetting something important.”
+
+And what’s that?
+
+“The Guild Investigator is still coming in a few days, and you did not clarify with Cecilia how she would prevent that from being an issue, nor did you remind her and verify that she hadn’t forgotten.”
+
+Oh…
+
+Right.

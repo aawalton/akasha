@@ -1,0 +1,147 @@
+---
+id: 5408e21b-e3f7-5bd3-b244-b05c5148d28a
+page-type-slug: story-chapter-royal-road
+title: "59 - Rabbit Stew"
+slug: 0059-59-rabbit-stew
+partOf: cat-girl-evolution
+position: 59
+ownLength: 2104
+unit: words
+publishedAt: 2025-12-07
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2826414/59-rabbit-stew"
+royalRoadId: "2826414"
+---
+
+After Pike lets us go, Lauren and I immediately head to her house. We briefly talk with the others and promise to meet again tomorrow around lunch, but for now, all of us want to go home and get some rest.
+
+Once at Lauren’s house, we both immediately take baths. We just walked for almost a week and while Chad did make us a tub at one point, a wooden tub outdoors filled with water from a creek doesn’t really compare to a nice, steamy bath. I fall asleep for a bit while in the tub, waking up to a growling stomach, but surprisingly perfect skin. It didn’t turn all wrinkly from the water.
+
+“It’s because your Finesse is high. The wrinkles that form on your skin are a natural response to give your fingers more grip underwater, but your Finesse is so high it's unnecessary.”
+
+Woah, I didn't know that about finger wrinkles. Wild. High stats are really cool!
+
+When I get out of the bathroom, I find that Lauren has fallen asleep on the couch in her pajamas. Her mouth is open and she’s snoring slightly. I take a step forward to wake her up so she can make me food, but then I pause, remembering something she said on the road. I was complaining about how slow my Profession levels were coming in, and she said that it was probably at least partly because I kept relying on her to cook while I was just an assistant. If I do some cooking on my own, then I’ll level faster.
+
+On top of that, she also mentioned that I should be able to blow through my tier 0 Profession in no time at all. Profession levels are based on skill and knowledge, and I guess I’ve passively absorbed enough information about cooking that with that combined with my high Finesse, there will be no problem with leveling up.
+
+I turn away from her, leaving her to sleep as I go to the kitchen. I open her magical walk-in refrigerator thingy to check what kind of ingredients she has. She’s got all kinds, from fruits and veggies to meats of all shapes and sizes. She’s got an entire pig in here. Well, I think it’s a pig. It looks a little bit off though, like its legs are too long. Whatever the case though, she’s got a lot of food.
+
+I reach for a particularly well-marbled steak, then pause again. Should I really be wasting such high quality ingredients on my level 3 Professional skills? And even aside from that, I have literal tons of meat in my Stomach that I will never get through. It’s perfect for experimenting on.
+
+Instead of meat, I just grab a few onions and garlic cloves and things like that and walk back out, checking my Stomach to see what’s available. And the answer is… a lot. Fortunately, my Stomach seems to have a built in calculator or scale or something, because it gives me weights for each of the things I have available, and… Well, the seafoodman I have the least of is the little shark guys, and I have over a ton of that meat.
+
+In other words, I definitely need to start eating some of it.
+
+I look through my different fish options, but then something else in my Stomach catches my eye: the rabbits. And more specifically the rabbit Dungeon Core. I never mentioned it to Lauren, since I didn’t want to have to explain how I got a Dungeon Core, but I’m really curious to see how it tastes. I didn’t really get a chance to taste the unused core. Also, since we were on the road for the past week, Lauren made a lot of stew, so I have a pretty good idea on what I’m doing here.
+
+I put my hand to my chin, thinking hard, then shrug and pull the rabbit dungeon core out and set it on the counter. I head back to the food storage and grab a couple potatoes and carrots and some other things that look tasty and then get to work.
+
+I never much liked cooking before, but my Skills and heightened stats make it actually pretty satisfying. When using Slice with Finesse as high as mine, I can make every slice of everything the exact same thickness. I can safely gut the rabbit without making too much of a mess, and the pelt comes off in a perfect single piece. I store that back in my Stomach because I’m pretty sure that a Dungeon Core pelt would fetch a high price if I wanted to sell it, and it would probably also make a nice hat.
+
+Every single piece of meat I can cut off goes right into the pot with the rest of the ingredients, and some of the bones too. The rest of the bones are my appetizers, alongside two of the dishes I still have left over from our trip to the Sea Lemon.
+
+I am in cat form the whole time while I cook, of course. Now that I have the privacy of a home, and mana arms to work with, I can basically do everything in this form, and it’s much more comfortable. The mana arms aren’t quite as precise as my real arms, but at the level of precision I’m working with, the difference is negligible for my purposes. Plus, I bet if I keep doing it this way, my mana arms will eventually be just as good.
+
+Timer turns out to be a super useful Skill. Stew isn’t exactly the quickest meal, so I end up taking a nap on the counter while I wait, and by setting Timer beforehand, I’m able to avoid oversleeping.
+
+When I wake up, I lift myself up on a pair of very long mana legs so I can see into the pot, then start stirring. I can’t exactly say it’s a professional meal, but it looks good, and it smells good, so that’s all I really care about. The meat came out perfectly tender, falling apart as I stir with the wooden spoon.
+
+Satisfied with my work, I turn the burner off, and then lift the entire pot up and turn to find somewhere to eat only to realize that Lauren is standing in the doorway looking mildly flabbergasted. I’m not sure when she woke up, but apparently, I was so engrossed in my food that I didn’t notice. Whoops.
+
+“That tune sounds nice,” she says after a moment.
+
+“What tune?”
+
+“The one you were humming.”
+
+I was humming?
+
+“The Russian national anthem, yes.”
+
+Oh. Huh. Weird.
+
+“Thanks,” I say. “This is mine by the way. You can’t have any.”
+
+“That’s fine,” she says. “Did you get any Profession levels?”
+
+“Three!”
+
+Apparently, making my own food is good for Profession levels. At this rate, two more meals and I’ll be at my Profession evolution.
+
+“Nice,” she says. “Don’t forget to bring back my pot.”
+
+I look down at the pot. Food Sense is telling me it’s edible. I could do something really funny right now.
+
+“How much does this pot cost?”
+
+“I don’t like that question. What are you going to do with my pot?”
+
+“Depends how much it costs.”
+
+“...5 gold. If you take it, you owe me a–”
+
+She stops mid-word as I lift the pot up and take a bite out of the edge. The metal is soft under my teeth and tears away easily, leaving a semicircular piece missing from the edge. I slowly chew and swallow it, staring her in the eyes the entire time. Then, I turn and continue walking away on my mana legs, leaving her speechless behind me.
+
+I was going to go to the couch, but since I just did that, I think it would be funnier to go upstairs to my bedroom, so I do exactly that. While I’m about halfway up, Lauren finally recovers, and shouts after me.
+
+“You owe me a new pot!”
+
+Laughing, I finish heading to my room and set the pot down on the desk and conjure a mana spoon.
+
+Surprisingly the pot actually tasted pretty good. I guess that my tastebuds are weird now, but I think I am actually going to finish eating the pot when I’m done with the stew. It has a very interesting, savory flavor that I can’t really describe properly, but is good.
+
+The stew itself is much better than the pot though. I wasn’t expecting too much, since it was me making it, not Lauren, but it actually turned out pretty nice. I guess using the exact same ingredients she used in her stew makes for a pretty good meal. It’s not as good as hers, since she has some kind of Skill to infuse her cooking with mana and make it taste better, but it’s definitely better than any stew that I had back on Earth.
+
+The rabbit meat itself is interesting too. It’s not all that flavorful, at least not compared to the higher tier monsters I’ve eaten, but it adds some very interesting undertones to the stew. It’s a bit like beef, but has a bit of earthiness and, weirdly enough, sweetness to it. Maybe that’s the fairy bits? It did have fairy wings.
+
+Either way, it’s good, but my poor cat body can only fit half of it before I’m stuffed. I switch to my cat girl form, hoping to benefit from a bigger stomach, but unfortunately, I feel just as full there. Weird how that works. Actually, Abby, how does that work?
+
+“System magic.”
+
+Thanks for the detailed explanation.
+
+“I don’t know how it works specifically. Only that it’s handled by the System.”
+
+You know, for someone who’s supposed to know everything about the System—
+
+“First of all, you’ve already said that multiple times, second of all, I never claimed to know everything, and third, this information is restricted, not because of some nebulous rule, but because the answer would give you knowledge on magic beyond your level, which would not be fair to everyone else who doesn’t have that information.”
+
+Who cares about fairness?
+
+“The System developers.”
+
+Then why did they give me +220% to all my stats?
+
+“...It’s technically fair because it’s technically within the bounds of the System.”
+
+Oh boy, I love technicalities!
+
+Anyway, I put the whole pot full of stew into my Stomach, then switch back to cat form for a nap. When I wake up, it’s dark out, but based on the sounds I hear around, it’s not that late. I can hear pretty far into the city, and all the restaurants are still packed, and there are people out on the streets. It’s probably not long after sunset.
+
+I give a big stretch, then finish off my stew, and the pot too, then start looking for things to do. I can practice with my mana limbs, which is definitely something I should be doing, but I can do that whenever, and I don’t wanna do that right now. I also definitely need to be working with Internal Mana Manipulation so that I can make real fleshy tentacles later, but I also don’t wanna do that right now. After all, why would I want to stay around inside when I have a whole magical city to explore!
+
+I would love to go out in cat form, but Abby reminds me that my Custom Namecard Trait will only block cursory inspections, and that anyone with a more advanced way of checking my species will see that I am a Named monster. The odds aren’t high, but since my Named monster species has my actual name… Yeah, it’s better not to risk it.
+
+On my way to the door, I spot Lauren back on the couch, but this time, rather than sleeping, she’s reading a book. When she sees that I am back in my catgirl form, she lowers her book and cocks her head slightly to the side.
+
+“Going somewhere?”
+
+“Yup,” I say. “Gonna explore the city.”
+
+“Give me a minute and I’ll be ready,” she says, setting the book down.
+
+“No, I wanna go alone.”
+
+“I can show you around.” She gets up off the couch. “I know all the best spots.”
+
+“Yeah, but I wanna explore alone.”
+
+“You’re unfamiliar with the city, so you could get lost.”
+
+Hmmm. For some reason, it seems that Lauren doesn’t want me to go out alone. That’s strange.
+
+“Nah, I’m leaving,” I say. “Bye!”
+
+“Just thirty seconds,” she says, rushing to the stairs.
+
+“Nope!” I say, and I Blink outside.

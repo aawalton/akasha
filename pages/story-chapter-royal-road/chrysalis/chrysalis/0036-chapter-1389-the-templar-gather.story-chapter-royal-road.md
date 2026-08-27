@@ -1,0 +1,113 @@
+---
+id: a869021a-8d1c-5004-a47d-1592d24751af
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1389 - The Templar Gather"
+slug: 0036-chapter-1389-the-templar-gather
+partOf: chrysalis
+position: 36
+ownLength: 1058
+unit: words
+ownProgress: 1058
+publishedAt: 2024-08-09
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1750452/chapter-1389-the-templar-gather"
+royalRoadId: "1750452"
+markedReadAt: "2026-06-29T19:44:47.951Z"
+---
+
+The Templars of the Great One emerging among the followers of the New Path lent greater weight to their words and deeds, a manifestation of their belief and vindication for their methods.
+
+The acknowledgement of the system had blessed the allies of the Colony in many ways. The special Classes that became available to the priests who trained under Beyn, the ant cavalry riders, the benefits provided when the Colony fought alongside their allies, all of it affirmed the burgeoning faith of the people.
+
+When knowledge of the Templar was made public, that faith both exploded, and was cemented, as it seemed the system itself had acknowledged the divinity of the Great One.
+
+The Templars themselves came to be revered, to which the various members of that august body had differing reactions. Some embraced their role wholeheartedly, being powerful symbols of the Great One and their divine authority amongst the people. Others rejected it, preferring their identities to remain secret, so they might continue to act to further the designs of their deity in the manner they had before being selected.
+
+Regardless of their actions, each of the Templars proved themselves to be selfless devotees, pure of heart, thought and deed. No promise would they break. No faith would they betray. No dishonour would they leave unavenged.
+
+-           Excerpt from ‘Observations on the New Path’ by Rebecca
+
+“Come, it isn’t far now.”
+
+Jern, as usual, kept his sentences short and to the point, not a fan of using three words when two would do.
+
+Alis shot him a disgruntled look, and he felt, on this occasion, it was probably justified.
+
+“There’s no need to be afraid,” she said sweetly. “This is a dangerous place, but you will be protected. Nothing bad is going to happen to you, I promise.”
+
+For their part, the three children didn’t seem afraid at all. They looked up at Alis and nodded, calm as napping shepherds. There was something different about these three, and that was probably why Jern hadn’t felt the need to coddle them much, but they were still very young. It didn’t hurt to make a little extra effort to ensure they were comfortable.
+
+Alis was a lot better at that sort of thing than he was. Jern operated on a ‘I’m sure you can take care of your business just fine’, sort of policy. As a result, he wasn’t always sure if he should be lending help or not.
+
+“Is everything alright?” the general leading the squad asked.
+
+“Oh. Yes, everything is fine. We just wanted to make sure the children were calm.”
+
+“You’re worried about them?”
+
+“Shouldn’t we be? They are quite little.”
+
+“The young must be protected at all times,” the ant declared firmly. “However, some are more capable than others.”
+
+Jern considered that for a moment.
+
+“I’m not sure I follow.”
+
+“I don’t want to say too much. Just… don’t overwork yourself.”
+
+Now this confused Jern.
+
+“Don’t overwork? Coming from you girls? I’ve been working hard, but you soldiers have been putting in day-long shifts….”
+
+The general was now waving her antennae wildly, swinging her head from side to side, as if afraid something would leap from the shadows at any moment.
+
+“Don’t say that!” the general hissed. “I’m going to sleep straight after this escort mission is done,” she announced… sort of… generally.
+
+Jern looked confused, but nodded.
+
+“That’s probably a good idea.”
+
+“Is it long until we reach the Great One?” he asked.
+
+“Not long now,” a different soldier replied. “The Eldest said they would meet us beneath the nest. Luckily, they didn’t want us to go all the way down. It’s quite a trek from the nest to reach the forward operating base.”
+
+The lower they went, the heavier the traffic, but the three children didn’t seem intimidated at all. Their eyes were tranquil as they took in the rushing columns of ants speeding about them.
+
+“The Eldest is resting within this chamber,” the general said as they arrived outside a large opening in the wall. “A different team will arrive to escort you back to the gate, since we are all going to rest.”
+
+“Enjoy your rest,” Alis thanked them. “I hope you have a refreshing torpor.”
+
+The team of ants gave a quick salute, turned, and began to scuttle away. Jern watched as they turned into a shadowed area of the tunnel, and didn’t emerge again.
+
+Odd. He didn’t think there was an opening there? He shrugged. He hadn’t spent much time in these tunnels.
+
+“Alright then, let’s not keep the Great One waiting,” he said, and strode forward.
+
+After a second, he remembered he was supposed to be nicer to the young ones, but when he turned around they were right on his heels, with Alis bringing up the rear.
+
+The Eldest, as usual, was an imposing figure, even at rest. The massive ant loomed out of the darkness, its razor-sharp mandibles, deep purple crystalline carapace and overall presence overwhelming to most.
+
+Yet Jern could feel his connection to the enormous creature before him buzzing away in the back of his head.
+
+Anthony was tired, a bit bored, and quite curious about meeting the three individuals behind him. Even being near the most powerful ant felt invigorating to Jern, as if his own cares and worries were being melted away and his body filled with strength.
+
+“Hello, Anthony,” he waved up at the ant.
+
+“Managed to get the hang of the pheromones, eh?”
+
+The scent of the ant was much the same as everything else about him, overwhelming. It blasted against Jern’s newly awakened senses and rattled him down to his toes.
+
+“I’m getting better,” he said.
+
+“Nice to see you again, Jern, Alis. I hope you’ve been well. Now please, introduce me to these three little Templars waiting behind you. I’ve been wanting to meet them for ages.”
+
+Without needing to be told, the three stepped forward, then silently knelt and bowed their heads towards the Eldest.
+
+Jern and Alis were stunned for a moment, but Alis recovered quickly.
+
+“Anthony, this is Allison, Trean, and Emilia.”
+
+“Oh, I know their names,” the giant ant said.
+
+Then he did something odd, raising up onto only his back legs, he performed a complicated motion with the other four limbs.
+
+“Nameless Ones and Templars. What interesting children you are proving to be.”

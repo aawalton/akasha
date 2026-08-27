@@ -1,0 +1,55 @@
+---
+id: 048cd864-2860-54db-a45d-2132a3cde163
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1665 - Shifts in the Sanctum Part 2"
+slug: 0314-chapter-1665-shifts-in-the-sanctum-part-2
+partOf: chrysalis
+position: 314
+ownLength: 979
+unit: words
+ownProgress: 979
+publishedAt: 2025-10-13
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2672458/chapter-1665-shifts-in-the-sanctum-part-2"
+royalRoadId: "2672458"
+markedReadAt: "2026-06-29T19:53:51.329Z"
+---
+
+Many assume that Perrianon of Blood and Horgran the Butcher are more similar than they are. Horgran is, from what we know, a beast of unfathomable strength and appetite for death, a creature of endless violence. Perrianon is not obsessed with blood, or the spilling of it. Perrianon IS blood.
+
+By the very nature of their existence, all things bleed in the presence of the Ancient, running like a river, filling depressions in the earth, forming lakes, even oceans. There is wisdom amongst the worshippers of Perrianon, for their knowledge of medicine is perhaps the most advanced in the entire Dungeon. None have better understood the needs of the body, and the secrets locked away in blood.
+
+Perranon rose to the surface in the depths of an ocean, having little contact with the continents and the kingdoms that lived there. That didn’t mean they were unaware. Legends tell of the ‘blood tide’, when the seas turned red for weeks at a time, dyeing the beaches the dark shade of clotted blood.
+
+-           Excerpt from ‘Collective Wisdom of the Cults’ by Granin Lazus
+
+Many in the order may not realise, but it was the Shadow herself who invented the silent language employed by the nameless, and it was in this manner that she communicated with them. Limbs dancing gracefully in the darkness, she called them to attention.
+
+Thank you for gathering here, she signed. I hope your work has gone well, and I will not keep you from your rest for long.
+
+Of course not. The nameless soundlessly clacked their mandibles to show their amusement. If the Shadow were to encourage them to break one of the Eldest’s commands, they would eat their own antennae.
+
+I have called this meeting to ask something of you, the Shadow continued, though it is not a command, but something you must decide amongst yourselves.
+
+This was interesting… and different. The nameless had a very narrow focus, and they dedicated their all to it. Making decisions among them was a process almost entirely centered around how to better carry out their function, yet somehow the nameless felt that the Shadow was asking something different of them. Something new.
+
+Recently, the nameless participated in the battle of the heart, helping to tip the balance against the FILTHY AND DISGUSTING… ahem. I apologise for that outburst. Tip the balance against the Krath and secure a great victory for the Colony. This was the first time you were ever called on to use your abilities in battle rather than to fulfil your purpose.
+
+That was true. The circumstances had been unique, requiring the secret shadow techniques of the nameless in order to help rescue the Eldest. Of course she and her sisters were more than willing to help save the Eldest, no matter the cost, and it just so happened that in doing so, they had helped secure the heart and win the day for the Colony, which they were also happy with. When the mission had been completed, the nameless had gone back to their regular work, vanishing into the darkness and slipping back into their roles alongside the rest of the Colony.
+
+It wasn’t something they had ever thought they would have to do again, outside of another emergency.
+
+I have thought long and hard about this, but I cannot deny how effective the nameless were in that battle. It feels that it would be a shame to deprive the Colony, and the Eldest, of your talents in this field, but it is not something I wish to command you to do. The Sanctum was created for one purpose only, and you have fulfilled that purpose admirably.
+
+Rare praise from the Shadow, and the nameless felt themselves well up with pride. At the same time, they understood what she was asking of them. Would the nameless allow themselves to be drawn into more conflicts and battle on behalf of the Colony? She could already tell it didn’t sit right with all of them. They had honed their skills in order to ensure the will of the Eldest was respected, not to fight.
+
+It would be some time before they were able to come to a conclusion regarding this matter, the nameless one could already tell.
+
+The second issue I must raise is the spread of the Sanctum amongst the non-ant population. After the first humans were made nameless, we have had others taken in by the nameless, and their numbers only continue to grow, the Shadow went on. So far, it has not been a problem, but it is becoming clear that some sort of standard procedures must be put in place to welcome and train these new members. It seems clear now that as we grow, the number of irregulars who join us will also grow. It is best that we be ready.
+
+This was also sensible. The nameless looked amongst each other, nodding in agreement. So far, any non-ant who had joined the Sanctum had been inducted and trained in a very ad-hoc manner. The Brood Tenders amongst the nameless had protested vigorously, but it had seemed wasteful to try and create a full curriculum for only a few students.
+
+Now it seemed as if ‘a few students’ would continue to balloon into ‘a steady trickle of applicants’, and from there, who knew?
+
+With a few final gestures, the Shadow departed, leaving them behind, doubtless to return to the side of the Eldest and keep them safe. Left behind, the nameless signed amongst themselves, giving their initial thoughts and impressions about what had been discussed.
+
+Tired and needing to rest, the nameless one excused herself and made her way to the grand resting chamber. After genuflecting, she gladly took her place on the waiting segment, letting her thoughts grow still as she wondered just what lay in store for the Sanctum of Sleep.

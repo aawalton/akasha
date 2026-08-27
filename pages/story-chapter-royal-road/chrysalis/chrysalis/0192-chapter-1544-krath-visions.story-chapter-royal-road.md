@@ -1,0 +1,59 @@
+---
+id: b2b59161-3c54-5d42-aa7a-d00a5bfdc02d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1544 - Krath Visions"
+slug: 0192-chapter-1544-krath-visions
+partOf: chrysalis
+position: 192
+ownLength: 1034
+unit: words
+ownProgress: 1034
+publishedAt: 2025-04-04
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2172575/chapter-1544-krath-visions"
+royalRoadId: "2172575"
+markedReadAt: "2026-06-29T19:49:57.923Z"
+---
+
+To say that Zluth was furious would be an understatement. But so what? He was a Krath, they were always furious. Except, this time, it burned deeper, bubbled more furiously away in his flesh. As always, he had placed himself, carefully, in position to watch the ants fight against the wave.
+
+As hard as it was to believe, it was safer for him out here. The Krath may be the masters of the fifth, its hidden rulers, but during a wave, even they needed to show restraint. The fifth stratum was unruly, deadly, and nothing could withstand the full, toxic fury that was unleashed during a wave. The many members of the assault squad had prepared chambers to hunker down and ride out the worst of it in, with channels and tunnels prepared to funnel away the worst of the mucus and slime.
+
+However, remaining in such a confined space with Chozth was tantamount to putting his head on the block. Furious at the continued survival of the ants, she seethed and fumed endlessly, with no other outlet for her wrath except her fellow Krath. She’d eaten a dozen of them already, the acid within her flesh growing so strong she visibly steamed.
+
+Zluth had no doubt that the second she laid eyes on him, he would be dead. Stronger, faster, and perhaps even more cunning than he, she would overpower him in short order, and none would step in to defend him. So he did what he did best: volunteered for scouting duty and laid low.
+
+Thus, he found himself pressed into a crack only a few inches thick, a dense layer of mucus rolling off the stone and over his perfectly still form.
+
+Despite being painfully compressed, he was far from safe. At any second, the mucus could be contaminated with mold or fungal spores that would strip his flesh in moments. If the type of slime being generated from the mana veins in the walls were to change, he would have to recognise it and move before it touched him; again, in a matter of seconds. Despite concealing himself as best he could, there were numerous monsters, experts at hunting slippery prey, he had to watch out for. Needle crabs. Tooth-nosed lamprey. Rotted-Seekers. Carrier Drones.
+
+Even thinking of the last made him shudder. Having the hideous worms burrow into his body was one of the worst ways a Krath could fall to the Dungeon.
+
+He was thinking too much. Be vigilant! A Krath could only survive if they were alert at all times.
+
+Snapping back to attention, he carefully examined his surroundings once more. He felt out the mana, tasted the mucus, tested for eddies or disturbances in the flow.
+
+Finding nothing amiss, he judged it was time to emerge once more.
+
+Slowly, carefully, prepared to run and hide at the slightest provocation, he began to push out of the crack. A thick coating of slime still ran over him, and he let it, sticking to the stone as best he could as he crept out towards the edge, mottling his skin to match the rock beneath him and hiding his own mana.
+
+Eventually, he made his way to the end of the tunnel, where he turned and made his way up. Most of the monsters were concentrated at the mouth of the tunnel itself, leaping over the gap to confront the ants on their bizarre platform. That was the last place he wanted to be.
+
+Once he’d gained enough distance, he pushed himself away from the wall and out to the edge of the slime. Only then did he extend his eyes just beyond the surface to look down below.
+
+He still didn’t understand what the ants had done, how they had carved out this space within the fifth. Between himself and the outer fortress wall was a sheer drop, a cliff that ran as high as he could see and plummeted down into the darkness seemingly forever. On his side, the Dungeon veins ran thick throughout the walls, spawning monsters and an endless flow of slime. On the other, the outer fortress wall remained clear and unblemished. It was as if he were staring at a different stratum of the Dungeon! He hated it.
+
+And down there, on that cursed platform, the ants and their allies battled the wave. It didn’t make sense. They should have died a hundred times over.
+
+Against the virulent filth of the fifth, they should have died long ago, and yet they persisted, somehow, fighting on and on. All the while, the platform itself sucked in absurd amounts of mana, funneling it to those evil jelly monsters to corrupt.
+
+In the middle of the platform, the giant ant stood, resolute and defiant. The attacks and spells it unleashed were devastating, clearing huge swathes of enemies at a time. The damned monster never seemed to tire, never seemed to even slow down.
+
+Zluth hated that disgusting creature.
+
+The wave would continue to grow stronger, the environment more toxic, the monsters more numerous and more frenzied. Already, there were rumblings from the depths; creatures were coming up, rising as they fled from the dangers below. Soon more Krath would arrive, as they abandoned their holdings in the deeper tunnels to find safer territory.
+
+Filled with resentment and anger, the Krath retracted back to the wall and made his cautious way to the crack in the rock once more. In another day or two, he’d no longer be able to put off reporting to Chozth. Hopefully she would have cooled off a little by then. For now, all he could do was retreat to his little pocket of safety, get some sleep, then return to his post.
+
+He excreted a thick layer of hardened slime as he pressed himself into the crevice, sealing it off behind him as he forced his body down to its smallest possible size. Through a little opening, and then out into the small space he’d carved out. The Dungeon veins hadn’t invaded yet, but they would in a few hours. That was enough.
+
+Zluth chomped down on the few rations he had remaining and settled in to sleep, still boiling with anger.

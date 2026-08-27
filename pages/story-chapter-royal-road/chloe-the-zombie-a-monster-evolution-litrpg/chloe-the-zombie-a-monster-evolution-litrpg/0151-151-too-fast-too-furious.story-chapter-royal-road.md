@@ -1,0 +1,143 @@
+---
+id: 8f572c10-8795-54fe-9fec-9e89c4ec85ff
+page-type-slug: story-chapter-royal-road
+title: "151: Too Fast, Too Furious"
+slug: 0151-151-too-fast-too-furious
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 151
+ownLength: 1920
+unit: words
+publishedAt: 2026-05-13
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3390812/151-too-fast-too-furious"
+royalRoadId: "3390812"
+---
+
+Chloe honestly had no idea how Z had ended up in a place like this. But that thought didn’t last very long, because right now, the only thing that really mattered was that Z was here and, more importantly, she looked like she was in good shape.
+
+Without thinking about it any further, Chloe threw her arms around Z in a tight hug, squeezing just a little tighter than necessary. Z stiffened at first, clearly caught off guard by the sudden contact, her arms hovering awkwardly for a second like she wasn’t entirely sure what to do with them. But after that brief pause, she sighed and relaxed slightly as she returned the hug.
+
+After a moment, Z gently pulled back from the hug, creating just enough space between them as she adjusted her glasses. "Have to say, I wasn't quite expecting that."
+
+Chloe pulled back slightly after the hug, still smiling as she looked Z over from head to toe just to make sure this really was Z.
+
+"How did you even get to this place? I didn't think anyone else could make it inside, aside from me."
+
+"Well… I uh, have a keycard of sorts that your Mother gave me a long time ago."
+
+"Really? When did Mom give you the keycard?"
+
+Z looked Chloe up and down for a few seconds. "You… Chloe, don't take this the wrong way, but you seem very different somehow."
+
+“Oh! Yeah, I mean, I got stronger, like, a lot stronger. You should’ve seen the stuff I just fought, it was, okay actually no, you probably did see it, never mind.”
+
+Chloe paused mid-thought, then snapped her fingers. “Also, I got some of my memories back. Not all of them, but like… bits and pieces. So a lot of stuff is starting to make sense again, I even remember your full name now. It's Zenaida, right?"
+
+"Wow, I… I'm sort of impressed."
+
+“Still gonna call you Z though, it's a lot easier.”
+
+Z blinked, then let out a soft chuckle. “I suppose I’ll take that as a win."
+
+"Cool, so anyway, how and when did Mom give you the keycard exactly?"
+
+Z held out a hand, and a white keycard manifested in her palm. “Your mother gave this to me near the end of my internship. Actually, she gave it to me along with a rather cryptic note, something about it being able to open any door I wanted… I just didn’t expect that to be literal.”
+
+Chloe looked at it, then back at Z, then just nodded like that made perfect sense. “Yeah, that tracks since Mom is built differently. But how did you know to go here?"
+
+Z's smile faded just a little, not completely gone, but softened into something more serious. Her shoulders straightened slightly, and there was a pause before she spoke again. "It's a long story, but for now, there's something more important I want to tell you."
+
+Chloe tilted her head at that. “What is it?”
+
+“I’m sorry, the reason you went through everything you did, it was mostly because of me. If I had made different decisions, things might have turned out differently. You might not have ended up in the mortal world at all, and you might still be with your mother.”
+
+After hearing all that, Chloe just shrugged.  “I mean… I don’t really get why you’re apologizing. You never seemed like a bad person to me. And whatever you did, you probably had a reason, right?”
+
+Z shook her head. “You don’t understand, I made more mistakes than you realize.”
+
+Chloe watched her for a second longer, then shrugged again. “Okay, then just tell me later, we can go over all of it after this. Right now we’ve still got a dungeon to clear, so… priorities?”
+
+Z opened her mouth like she was about to argue, her expression tightening for a brief second as if she wasn’t ready to let the topic go, but then she stopped herself. Soon, she gave a small, softer smile instead. “If you say so."
+
+Chloe nodded, then glanced around the room before looking back at Z as something clicked in her head.  “Wait, this is the floor with the impossible maze, right?”
+
+“It is,” Z said. “I’m a little surprised you know that.”
+
+“Yeah, you’d know if you played Everreal Quest."
+
+“I’m sorry, what?”
+
+Chloe rolled her eyes lightly and waved a hand. “So, basically, I already know the way out of the maze, all you need to do is follow me and we'll get through the whole thing fast."
+
+“Really?” Z asked, stepping a little closer. “Because I’ve been trying to get through it for… an embarrassingly long amount of time to be honest with you."
+
+“Yeah, I’m sure I remember the way out,” Chloe said super confidently. "Just follow me and we’ll get through the maze easy.”
+
+Z shot a look at Chloe that was just long enough to suggest she wasn’t entirely convinced, but she didn’t argue in the end. “Alright, I’ll follow your lead.”
+
+“Good choice,” Chloe said, already turning and walking off with some extra swagger in her step.
+
+It didn’t take long before the maze came into view, and when it did, it was just as massive and ridiculous as Chloe remembered, maybe even more now that she was actually standing in front of it for real. The stone walls stretched high, really high. Chloe tilted her head up and squinted slightly, trying to judge the height, then immediately decided the most logical way to measure it was in herself.
+
+She figured if she stacked about ten of herself on top of each other, she still wouldn’t reach the top, which meant the walls were probably somewhere around twelve, maybe fourteen Chloes high. Hmm, maybe the walls are as tall as twelve me's after all… or not, hard to say for sure.
+
+The paths between them weren’t any better either. They were really wide, easily big enough for something huge to walk through without any trouble, like the maze was designed with giant monsters in mind instead of normal people. Chloe gave the space a quick glance and guessed it was about four Chloes wide.
+
+Some people might think using themselves as a measuring unit would be a little self indulgent, and maybe it was, but Chloe didn't really care. Maybe once she became a big boss or a president or something, she'd make everybody have to use her height as a measuring unit just for the heck of it.
+
+Anyway, there were three entrances to the maze, and Z slowed slightly as they approached the one on the far left. She looked at it before gesturing toward the opening. “This is where I entered earlier, I made some progress, but eventually I still got stuck.”
+
+“Nah,” Chloe said immediately. She pointed toward the right most entrance instead, already turning in that direction.  “This one’s better.”
+
+“Hold on, I've been through that route a few times, and that route leads to a dead end. Are you sure we should go there?"
+
+“Yeah, we totally should go. Just follow me and you’ll see what I mean.”
+
+Z hesitated for a brief moment, clearly weighing that answer, but in the end, curiosity won out, and she followed.
+
+The moment they stepped inside, Chloe slipped into full navigator mode, and she technically did have a skill called Navigator, so that totally made sense. She walked forward with complete confidence, turning corners without hesitation and choosing paths that didn’t seem to follow any clear pattern, left, then right, then straight for way longer than it felt like it should go, before suddenly cutting into another turn. Z followed without saying anything, until they reached this wall that looked like a dead end.
+
+“Chloe—” Z started, about to warn her.
+
+But Chloe ignored Z and just walked straight through the wall. The surface rippled for just a second as she passed, the illusion breaking enough to reveal the space behind it, before settling back into place like nothing had happened.
+
+When Z followed Chloe through the illusory wall, she paused for a brief moment on the other side, looking a little embarrassed as she adjusted her glasses again. “I really should’ve figured there was an illusion there."
+
+“Wait, you couldn’t tell?” Chloe asked, sounding genuinely surprised. “Like, not even a little?”
+
+Z shook her head. “No, there wasn’t any noticeable difference in mana between the wall and the surrounding environment. It was extremely well concealed.”
+
+Chloe slowed just a little at that, thinking it over as she scratched her cheek lightly. “Okay, yeah, that’s fair, I probably wouldn’t have noticed either if I hadn’t memorized the way out of the maze."
+
+The two kept walking after that, and after a while, the maze began to open up to a wider space ahead. Chloe and Z both stepped forward out of it and into something completely different. The walls curved smoothly around them in a perfect circle, enclosing the space like a massive arena. If there was a boss room, this would be one.
+
+Chloe stepped further into the arena and smiled.  “Ohhh, okay, yeah, I remember this one, This room’s home to the Great Dark Beast. It's this panther-like thing, but super big and fast, very cool overall.”
+
+Z glanced around the arena. "And how should we defeat this beast?"
+
+"Uh, divine magic works I guess."
+
+The moment Chloe finished speaking, a sharp, piercing shriek tore through the arena and echoed off the walls. Shadows gathered in the centre of the arena, folding in on themselves before something massive began to take shape.
+
+A giant panther-like creature unraveled out of the shadows. Its body was sleek and massive, but it didn’t look entirely solid, its fur flickering between real and unreal as patches of darkness slid across it like living smoke. Bright arcs of purple lightning covered its body, snapping and crackling along its limbs and tail in violent bursts. Its eyes burned with a harsh, unnatural glow, and then it roared.
+
+Chloe immediately pointed at it, already turning toward Z with a grin. “Yeah, that—”
+
+Z stepped in front of her before she could finish. “Perdition Rite, Number Four: Divine Purge.”
+
+Suddenly, countless swords of light manifested above the beast, forming a massive ring. Each of their tips were all angled downward, and in the next second, they crashed onto the Dark Beast.
+
+The swords struck all at once, piercing through the beast from every direction in perfect unison, the impact exploding in a blinding surge of light. The creature didn’t even get the chance to move as it was battered by the endless barrage of light.
+
+When the swords of light finally stopped, the Dark Beast's body broke apart into fading wisps of darkness, dissolving into nothing quickly. The glowing swords of light vanished just as quickly, and Z then turned back toward Chloe. She seemed to look surprised to see that Chloe was already pouting.
+
+Her cheeks puffed out slightly as she crossed her arms, her earlier excitement completely gone, replaced with very obvious disappointment as she stared at the empty space where the boss had been.
+
+“Is something wrong?” Z asked.
+
+Chloe stared at her for a second, then pointed vaguely at the now-empty arena floor. “Yeah, there is."
+
+“Could you elaborate?”
+
+“Well, I would've liked to fight that beast, since I’m literally one level away from evolving."
+
+Z let out an awkward laugh as she glanced down. “Ah… sorry about that.”

@@ -1,0 +1,81 @@
+---
+id: f54befd5-6179-53ef-bef7-e87c7295f2c8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1621 - Eternal Search"
+slug: 0270-chapter-1621-eternal-search
+partOf: chrysalis
+position: 270
+ownLength: 1022
+unit: words
+ownProgress: 1022
+publishedAt: 2025-08-12
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2511140/chapter-1621-eternal-search"
+royalRoadId: "2511140"
+markedReadAt: "2026-06-29T19:52:27.250Z"
+---
+
+“Sisters! We arrive now at the final battle!” Leeroy called, her voice ringing out within the darkness. Her precious siblings were around her, even if she couldn’t see them. They were a presence that she could never deny, a wordless embrace she would never refuse. “The enemy has taunted us for so long, thinking themselves outside the reach of our mandibles. They were fools, the Immortals can charge anywhere!”
+
+“WE SEEK!”
+
+“Deep in the heart of the stratum. Surrounded by enemies on all sides, the poisonous filth of the fifth all around us. What better place for us? What more could we possibly wish for?! Our enemies yearn to bring us death! I welcome it!”
+
+She felt the rising hunger of the Immortals around her. They still burned for sacrifice, she did too, and this was a golden opportunity. As the last of the healers in front of them left the shadow realm, Leeroy began to gather her strength in her legs.
+
+Within her body, she felt the fungus awaken, stirred to life by the aura of battle and struggle. Soon, it too would be unleashed on the battlefield. Like her, it hungered for sacrifice.
+
+The Eldest had been right. This was the right evolution for Leeroy and her sisters. She had chosen wisely. She stepped forward, ready to emerge.
+
+“Sisters! What is our purpose?!” she roared, then charged.
+
+“WE SEEK!” they answered her as one.
+
+The full might of their armoured column advanced, slowly at first, but with a gathering momentum. They burst out of the darkness and found themselves in a bewildering scene.
+
+The walls of the heart shuddered and thundered around them as blue mana warred with toxic and foul energy all around them. The Eldest was down, surrounded by healers, their eyes burning with inner suffering.
+
+Leeroy suppressed a twinge of jealousy and focused on her mission. She was here to fight, and to find her ending.
+
+The Immortals crashed to the ground, their feet deep in the rising liquid-mana, and continued their charge, speed and power mounting by the second. At their head, Leeroy wore her new armour, forged by Smithant over the last few days. Cunningly concealed holes allowed the fungal fibres that now twisted around her carapace to wind their way about the armoured plating as well, while several gaps at the back gave room for the mushrooms that poked through. To her left and right were the only other tier seven Immortals, flanking and supporting her, their armour mirrored to hers.
+
+Casting about, Leeroy found the enemy, high above, warring with the guardians and shadows. The nearest foes were at least two hundred metres up, the bulk of them were five times that far. Weighed down by their armour, the Immortals weren’t built for climbing or fighting in the air. They were made to smash into their foes headlong and fight to the bitter end.
+
+So that’s what they were going to do.
+
+“Ignite the road to the beyond! Hoist the Reliquary high!” she roared.
+
+“Ascend!” the Immortals chanted back at her.
+
+Not all of the Immortals were Soldiers, though that caste made up the bulk of them by far. There were mages, carvers and others along with them, all part of the armoured charge. They had made sure that there was nowhere the Immortals couldn’t go in search of their final rest.
+
+Even far above, the Krath were not safe.
+
+Metal-clad ant legs thundered along the ground, but, after a brief pause, that was no longer true.
+
+A golden pathway formed, just before Leeroy’s legs, that lifted them off the ground and curved, higher and higher, until the armoured column of the Immortals was charging directly upwards.
+
+Carried forward by the unstoppable momentum of her sisters, Leeroy used every ounce of her strength, her legs gripping hard on the golden road and pushing. Her stamina plunged precipitously as she Dashed again and again, each step a new activation of the Skill. Braced by the Immortals in front and behind them, the entire column accelerated upwards as they screamed their warcry.
+
+“FOR THE COLONY!”
+
+The armoured might of the Colony could not be denied.
+
+Leeroy burst through the edge of the safe-zone and rushed headlong into the poisonous atmosphere of the fifth. Smithant’s enchanted device activated immediately, enveloping her in a temporary bubble. She hoped against hope that it would run out.
+
+Before her loomed the beasts of the Krath, gibbering mouths and slime-launching snails, their shells aglow with power as they sucked in mucus and mana. That was perfect.
+
+Leeroy lowered her head, shifted her path, and launched herself forward.
+
+At the same time, the mushrooms along her back sprang to life, bursting out a trail of spores that streamed behind her with glittering light, like motes of gold floating in the wind.
+
+With joy soaring in her heart, Leeroy closed in on the beast as it swelled with foul energy, her mandibles wide and ready to strike. Behind her, the rest of the Immortals reached the end of the road and similarly flung themselves from it, each having picked their target. The force of their charge was such that they fired from the path like steel-clad rocks flung from a catapult, like spears launched from a ballista.
+
+The beast before Leeroy barely had time to roar in defiance before she crunched into it, biting and ripping. Acid and mucus poured down on her like rain, but she didn’t care. Her charge had crunched through the snail’s shell as if it were paper, and she soon heard the notification ring in her ears.
+
+Disappointed the fight hadn’t lasted longer, she found her bearings and sought out another target. Already, the Krath were beginning to rain down their acid and poison on her, but she welcomed it gladly. Today, Leeroy knew, she would give her life for the family she loved.
+
+Then the spores would come, and the fungus would put her back together.
+
+When she awoke, she would be whole once more, and, on another day, she would get to do it all over again.
+
+Truly, she had found a most blessed existence.

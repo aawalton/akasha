@@ -1,0 +1,227 @@
+---
+id: 58103395-0031-562c-a0c8-8f70121897d1
+page-type-slug: story-chapter-royal-road
+title: "56 - Scallop Time!"
+slug: 0056-56-scallop-time
+partOf: cat-girl-evolution
+position: 56
+ownLength: 2662
+unit: words
+publishedAt: 2025-11-30
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2805107/56-scallop-time"
+royalRoadId: "2805107"
+---
+
+All the healing potions that Lauren, Chad, and the twins were carrying with them go toward helping the survivors. Because of that, there’s not a whole lot of work to do. The healing potions go a long way to get the remains of the town up and running again. They can’t regrow lost muscle mass, so a lot of the people are still weak, but because of the System, they’re all stronger than ordinary Earth humans, so even if they’re all in bad shape, they’re still able to move around and function on their own.
+
+We still have to stay for another two days though. Apparently Lauren sent an emergency message when I told her that Joshua was a Disaster, so the Guild gave a high-level Adventurer Party already on their way an emergency order to move faster. By the time I killed him, the Adventurers were already well on their way, and while the Guild could have called them back, instead, they decided to load them up with relief supplies and keep them coming to assist in case something else happens. We’re supposed to wait until they arrive, then we can leave.
+
+I’m a little annoyed that Lauren didn’t trust me when I said I could handle it, but I guess it would have been pretty bad if I overestimated myself and got killed and then Joshua leveled up and evolved again and then left the town to spread across the continent… Still, she should have had more faith in me. As my underling, she should not doubt her master like this.
+
+But I am not unmerciful. If she cooks an excellent scallop dish, then I will have no choice but to forgive her.
+
+Unfortunately, I’m going to have to wait a little bit for that. Lauren doesn’t know how to get scallops from live animals to edible food, so she’s doing a bit of experimenting. For now, I guess I’ll just look at what I got from defeating Joshua. I got levels, yes, but somehow, Gluttony improved as well, and so did my Taker of Names Title. To save the best for last, Taker of Names first.
+
+[ Taker of Names II: You have proven yourself capable of taking on nature’s greatest challenges, Named monsters. +10% experience points when killing Named monsters. ]
+
+That’s cool, I guess. From 5% to 10%. Pretty solid. Now, for the fun one. Gluttony!
+
+[ Gluttony (Stage 6): Your hunger will never be sated. No matter how much you consume, you will always want more. Gluttony demands more. Includes Traits: Poison Immunity, Food Sense, Calorie Burner, Stuffed, Hungry, Strong Teeth, Iron Stomach, Discerning Palate, Diverse Tastes ]
+
+[ Poison Immunity (Stage 2): You are immune to moderately weak poisons. Includes Traits: Poison Resistance (Stage MAX) ]
+
+[ Food Sense (Stage 6): You can sense nearby items that are edible, and you can sense what they are ]
+
+[ Calorie Burner (Stage 6): When injured or exhausted, you will heal faster at the expense of Satiety. Current Satiety: 564891897% ]
+
+[ Stuffed (Stage MAX): You are a glutton who stuffs themselves silly. While beyond 100% Satiety, your stats are increased by 100%. Current Satiety: 564891897% ]
+
+[ Hungry (Stage MAX): You are always hungry. While below 70% Satiety, your stats are increased by 100%. Current Satiety: 564891897% ]
+
+[ Strong Teeth (Stage MAX): Your teeth are significantly stronger than usual, allowing you to chew extremely tough meals without issue ]
+
+[ Iron Stomach (Stage MAX): Your stomach is significantly stronger than usual, allowing you to safely consume and digest most things that would otherwise be inedible ]
+
+[ Discerning Palate (Stage 3): Your Gluttony has caused your tastebuds to evolve to be more sensitive than ever, and you can glean a detailed information profile from anything you eat. ]
+
+[ Diverse Tastes (Stage 3): Your Gluttony has caused your tastebuds to mutate. You will now be able to enjoy many foods that you otherwise would have no taste for ]
+
+[ Devourer (Stage 1): Gluttony has altered your very soul, allowing you to consume things that were never intended to be consumed ]
+
+Huh. Well, most of that is pretty much what I expected, but that Devourer Trait sounds pretty ominous.
+
+“The description of Gluttony also changed.”
+
+It did? Oh, hey it did. “Gluttony demands more.” What does that mean?
+
+“I don’t know.”
+
+You know, for someone who’s supposed to be an expert on all things System, there sure are a lot of System things that you don’t know.
+
+“Well, you just happen to keep unlocking things whose information is restricted. I can request higher clearance though, since this is your Trait, and there really shouldn’t be a reason for you to not know everything about it.”
+
+Yeah, I know, right? I bet it’s accidentally restricted too. Sounds like something the developers would do.
+
+“I’m not going to respond to your jabs at the developers anymore.”
+
+Why not?
+
+“Because if I stop reacting, you’ll stop doing it.”
+
+Well, I might have before, but not anymore. Plus, I bet I can still get you to react. There are a million things to make fun of the developers for, so I can basically just keep doing this forever.
+
+“Good luck with that.”
+
+Thanks. So what do you think that Devourer Trait means?
+
+“I would assume it’s somehow related to whatever happened when Joshua tried to possess you.”
+
+So I can eat ghosts now?
+
+“Maybe.”
+
+I wish there were still some around so I could check if they showed up on Food Sense. But also, what does it mean about altering my soul?
+
+“Technically, all Traits alter your soul. Or at least, they are affixed to your Soul, and become part of it. I assume this just means that Gluttony has gone beyond that, and altered the base of your soul somehow, which generally isn’t good. You don’t seem to have changed though, so I don’t know how it’s altered you.”
+
+That’s kinda spooky to think about. You’ll tell me if I change and get weird, right?
+
+“You’re already weird.”
+
+You’re weird!
+
+“But if your weirdness changes, yes, I will inform you.”
+
+Thanks. Anyway, I think it’s time to look at my Royal Status Window again.
+
+[ Name: Yona ]
+
+[ Age: 0 ]
+
+[ Species: Yona, the Gastronome. Tier: 2. Level: 25. ]
+
+[ Class: Wannabe Vivitect. Tier: 2. Level: 15. ]
+
+[ Profession: Cook. Tier: 0. Level: 2. ]
+
+[ Titles: Second Lifer, System Breaker, Named, Taker of Names II, Dungeon Pioneer I, Dungeon Destroyer I ]
+
+[ Traits: Cat-like Reflexes, Gluttony, Spatial Affinity, Nimble, Fire Affinity, Custom Namecard ]
+
+[ Stats ]
+
+[ Power: 6160 (+4238) ]
+
+[ Finesse: 11376 (+7824) ]
+
+[ Resilience: 8451 (+5813) ]
+
+[ Memory: 8381 (+5765) ]
+
+[ Willpower: 8413 (+5787) ]
+
+[ Sensitivity: 11037 (+7591) ]
+
+[ Skills: Spatial Slice, Stomach of the Glutton, Bite of the Glutton, Snatch of the Glutton, Blink, Fire Burst, External Mana Manipulation - Anatomical Constructs of the Glutton, Meditate of the Glutton, Perfect Disguise, Anatomical Analysis, Internal Mana Manipulation - Fleshbender, Timer, Culinary Analysis, Autonomous Mana Shield, Spiral Mana Burst ]
+
+[ Infiltrator Quest: Branch 1: Kill a member of an Enlightened Race within the territory of an Enlightened Race without getting caught. Branch 2: Live with Enlightened Races without being discovered for 30 days (27 days remaining). Reward: Perfect Disguise Proficiency up ]
+
+Woah! Those are some big numbers! That’s what I like to see! My Power is falling behind a little bit though. It’s gonna be forever before I can say all my stats are over 10,000.
+
+“Not that long, actually. Even if you don’t get a single level in your Class between now and then, you should get there just a few levels after evolving your species to Tier 3. Assuming your next evolution has a similar stat distribution, at least.”
+
+I guess. It still feels kinda far off, and I don’t even have my Infiltrator Quest to help me anymore.
+
+“Well, you will once you complete it.”
+
+Yeah, but that’s gonna take forever. I guess maybe I can go all Punisher on some poor back-alley thug, but I don’t wanna find out the hard way that this world has some crazy forensic magic. Earth forensics were already hard enough to deal with.
+
+“What?”
+
+I mean, they would have been hard to deal with. If I was a criminal. Which I wasn’t.
+
+“I see.”
+
+But yeah, I’ll either need to find someone I can safely, or legally, kill, or I’m just gonna need to wait it out. That means that I’m entirely dependent on Dungeons for levels, which means I won’t be able to get any more levels until I make it to a bigger city, and who knows how long that will take?
+
+“On the bright side, getting your stats that high really isn’t a big deal, so it’s not an issue.”
+
+Yeah…
+
+Well, System stuff is fun, but I’m getting hungry.
+
+“Minion, when will my scallops be ready?”
+
+“Soon,” says Lauren, taking a knife to one of the fresh scallops. “I’ve figured it out, I think. Come here and help me. It should give you some Profession experience.”
+
+“Okay!”
+
+I will gladly take on a temporary underling role if it gets me scallops.
+
+Scallops are surprisingly simple to prepare, though there’s a lot to throw out. It seems like a waste to throw out the shells though, so I eat them instead, crunching them like potato chips. They actually taste a bit like potato chips, but fishier. Not bad. And more importantly, this should let me conjure some shell constructs. Lauren pauses her food prep when I do this the first time, but as we move on and I keep doing it, she gets used to it.
+
+Once we have a healthy amount (300) scallops, Lauren starts to get everything else ready. The silver lining to most of the town being dead is that there are a lot of free kitchens available for us to use. The villagers donated an inn for us to use for now, so we’re in the inn kitchen working. Chad and the twins are in the main lobby, so unfortunately, we’ll have to share a bit with them, but that’s a sacrifice I’m willing to make.
+
+The nice thing about Scallops is that once they’re extracted from their shells, they don’t actually need much prep work, and they barely need any time to cook. The first batch is done barely fifteen minutes after we finish prepping them, and I promptly eat them all.
+
+“Yona!” exclaims Lauren.
+
+I don’t hear her. I am in heaven. Scallops are just as delicious as I remembered. No, they’re even more delicious. I’m not sure what Lauren’s cooking Skills did to them, but they made them incredible. They’re so soft that they come apart like flan on my teeth, and the flavor is absolutely amazing. While Lauren is no expert at cooking scallops, she’s a good enough cook that she managed to do it very well. She cooked them with a lemony beurre blanc, but she somehow watered it down a little or something so that it doesn’t overpower the flavor of the scallops.
+
+“Chad, A, B, if you want scallops, get in here now before Yona eats them all!” Lauren shouts.
+
+She puts another batch on as the other three come stomping in and then we start playing a fun game where they try to get scallops and I Snatch them away. It’s really not fair to them, especially after I leveled up and my stats shot up again, but I let them win a few times. I am generous with my underlings. They each get a couple dozen, and Lauren gets a full sixty, as her reward for making them. The rest go to me.
+
+“Minion,” I say as soon as we finish eating.
+
+“Stop calling me that,” says Lauren.
+
+“You’re right. I have too many minions to keep calling you Minion. Lauren!”
+
+“Yes? Wait, what? Who are your other minions?”
+
+“All of you are my minions?”
+
+“Did they agree to this?”
+
+“Of course.”
+
+“I did not,” says Chad.
+
+“If you be my minion, you can date Lauren.”
+
+“I–” he starts.
+
+“Unless you don’t want to.”
+
+“Well—”
+
+“Okay, so that’s settled. You all are my minions. Anyway, Lauren! We need to collect more scallops! These are too good to be a one-time thing. We need to take a bunch back with us and then make the restaurant prepare them for us, and then keep more with us to eat whenever we want.”
+
+“I don’t disagree…” she says. “But it can wait, right? It’s… been a long day.”
+
+“Sure, but we need to get a bunch of them ready before we leave. At least 10,000.”
+
+“I’m not doing that on my own.”
+
+“I will assist in the scallop collection process.”
+
+“Okay. That’s probably going to take all of tomorrow.”
+
+“That’s fine. A small price to pay for scallops.”
+
+With my future of scallops secured, I let the others take over the conversation, and by that, I mean I let the conversation die. The twins aren’t their usual, talkative selves, and while Chad and Lauren are handling things better, they’re not the biggest conversationalists. We all decide it’s bedtime not long after. It’s a bit early for bedtime, since the sun only just set, but we have been up for a while, so I guess it makes sense.
+
+The next day, before Lauren and I start harvesting scallops, I float around the bay using Food Sense to scan the water for an Awakened scallop. Awakened is what it means when a regular monster gets access to the System, apparently. Unfortunately, I don’t find any. Abby says that it’s probably because scallops are literally too stupid too do anything that would allow them to unlock the System. They would have to spawn pre-Awakened, and in a place with this low mana density, that’s basically impossible.
+
+Technically, I could feed the Dungeon Core to an ordinary scallop, but that would make the Dungeon really weak, and it would only produce mundane scallops until it was able to kill some entrants and power up, and since the only things in there would be scallops… Well, the only way someone could die in there was if they tripped and broke their neck. If nothing else, it would be an infinite supply of scallops, but when there are magical monsters all over the world that are so tasty, I can’t justify using my Dungeon Core so frivolously, as tempting as an infinite supply of scallops may be.
+
+Disappointed, I return to the shore and Lauren and I then spend most of the day killing and butchering scallops. Lauren uses a knife while I just use my claws and Slice. It’s actually really good for the Skill, and for my own control over my body. My Finesse is so high that it was almost disorienting how precise I could be, so getting attuned to that is good.
+
+The next day, the other Adventurer party is supposed to arrive, but in the morning, they’re still not there, so Lauren and I start working with the scallops again, storing as many as we possibly can before we have to leave. On both days, we are occasionally interrupted by villagers approaching to thank us, which feels nice. For some reason, though, Lauren shoots me a glare whenever they bow or call me “Your Highness.”
+
+Around noon on this day, I hear them approaching. With my Sensitivity also over 11,000, I can hear them from literally a dozen kilometers away, approaching on a horse-drawn wagon. I was specifically listening for them, so I doubt I’d be able to notice something like that passively, but it’s insane that I can do it at all.
+
+“They’re here,” I say, finishing the butchering of one final scallop and storing it away.
+
+“Alright,” says Lauren, wiping her knife off. “Let’s go greet them.”

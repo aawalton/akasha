@@ -1,0 +1,155 @@
+---
+id: d719dc81-ee19-50bf-831a-4783924686f7
+page-type-slug: story-chapter-royal-road
+title: "119: Life of Chloe - III"
+slug: 0119-119-life-of-chloe-iii
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 119
+ownLength: 1930
+unit: words
+publishedAt: 2026-02-27
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3098445/119-life-of-chloe-iii"
+royalRoadId: "3098445"
+---
+
+Thanks to Mr. Raymond, Chloe got permission to quickly go grab herself a costume before joining the first class of the day. She’d been a good student for a long time, so most teachers tended to cut her some slack. Mr. Raymond included.
+
+She immediately called Maeve and asked if they could make a quick stop at that shop near the main road. The one that sold all kinds of random stuff. Costumes, knickknacks, and things nobody really needed but everyone bought anyway.
+
+The shop was packed with options, but Chloe focused more on the costume aisle. There was a wizard outfit with a floppy hat, a knight costume made of shiny plastic armor, and a fairy costume with glittery wings that looked itchy just from standing near them. There was even a costume where someone could dress up as a toilet, which Chloe decided not to think too hard about. Apparently it was one of their best sellers somehow though.
+
+Regardless, after a lot of staring and thinking, Chloe stopped in front of one rack and tilted her head. She realized she didn’t want something random or ironic. She wanted something that really spoke to her on a personal level. So, obviously, she picked the zombie costume.
+
+She grabbed the outfit and an extra makeup kit to really sell the look. By the time she was done changing and fixing herself up, even Maeve had to admit that she looked the part of a zombie very well.
+
+The outfit was honestly adorable. She looked like a medieval peasant girl who had gotten zombified and then decided to keep going anyway. The makeup added pale skin tones, darkened eyes, and just enough fake blood streaks to make it look legit without being gross.
+
+Now fully in costume, Chloe had Maeve drive her back to school. The moment they arrived, she rushed inside and headed straight for her first class.
+
+The room was loud and bright, packed with rows of desks that had been pushed slightly out of alignment by excited students. Colorful decorations hung from the walls and ceiling, clearly put up just for the day. Paper banners, fake cobwebs, and little cutouts covered every spare surface. Students filled the room in every kind of costume imaginable, talking over one another and showing off all of their cool props.
+
+Chloe immediately spotted Mr. Raymond near the front, leaning against his desk in full cowboy gear like it was a completely normal teaching outfit. She lifted a hand. “Sorry I’m late!”
+
+Mr. Raymond waved it off easily. “It’s alright, Chloe. And nice costume, by the way.”
+
+“I know, right?” Chloe said proudly. “For some reason, it just feels right.”
+
+Several classmates turned in their seats, eyes lighting up as they took in her outfit. One girl near the window leaned over her desk. “That’s actually really cute,” she said. “Like, creepy, but cute.”
+
+Someone farther back added, “The makeup’s really good. Did you do that yourself?”
+
+Chloe soaked it all in, grinning like she deserved every word. Of course she did.
+
+Mr. Raymond clapped his hands loudly. “Alright, everyone, settle down. Chloe, go ahead and take your seat.”
+
+“Okay!” Chloe said.
+
+The lesson went by pretty smoothly, at least as far as Chloe was concerned. She listened along while Mr. Raymond talked about the differences between the heavenly world, where everyone was now, and the mortal world. The mortal world was really gross, since it had monsters, wars, and all kinds of awful stuff that no good angel was ever supposed to think about too hard.
+
+The idea of living somewhere like that sounded exhausting. By the time Mr. Raymond finished explaining it all, Chloe honestly couldn’t imagine surviving in a place like that. She wasn’t even sure how mortals managed it in the first place.
+
+Still, despite the gloomy topic, Mr. Raymond ended the class with a bright smile and dismissed everyone like he hadn’t just described a nightmare world. Chloe was grateful. She didn’t really want to spend any more time on that subject anyway.
+
+Once the bell rang, the room filled with noise again as everyone stood up and started chatting. There was a short break before the next class, which meant one very important thing: snacks!
+
+Chloe grabbed her bag and headed toward the cafeteria, already thinking about what snack she wanted first. Maybe some Honey Squares, or Golden Fishie Crackers, or even that new ice cream brand called Brain Twisters. That one sounded fun. There was apparently a limited edition version where the popsicle was shaped like a brain too, which was kinda cool.
+
+But of course, where Chloe walked, she was rarely ever alone. Her entourage followed her almost immediately. Jessica walked on one side wearing an armored knight costume, while Jennifer had this ghost maid outfit that looked way fancier than it needed to be. Jasmine followed behind them, wearing her normal clothes with some fake blood splattered on like she’d given up halfway through trying to plan a costume.
+
+Jessica leaned in as they walked, eyeing Chloe from head to toe. “Okay, real talk, how did you pull that together so fast? I swear you weren’t dressed like that this morning.”
+
+Chloe grinned. “Talent, duh. And a really good shop. Also, I look good in literally anything, so that helps.”
+
+Jennifer laughed. “Honestly, yeah. If I wore that, I’d just look like I fell into mud.”
+
+Jasmine nodded. “The makeup is actually really cute though."
+
+“Aww, thanks,” Chloe said, clearly pleased. She gave a little spin like she was showing it off properly.
+
+They moved into the long hallway leading toward the cafeteria, the noise growing louder as more students crowded in. Jessica lifted one arm and groaned dramatically. “Also, before anyone says anything, yes, I did armor again.”
+
+“You did the exact same costume last year,” Jennifer said.
+
+“And it was iconic last year, so I think it's fine to do it again” Chloe added.
+
+Jessica sighed. “Yeah, but these boots are killing me. I’m never doing armor again. Ever.”
+
+“You say that every year,” Jennifer pointed out.
+
+“And every year I mean it,” Jessica shot back.
+
+Jennifer adjusted her headpiece and smiled a little. “At least my costume’s comfy. And spooky. But cute.”
+
+“It is cute,” Chloe said. “Way better than just slapping blood on and calling it a day.”
+
+Jasmine shrugged. “Hey, a costume is a costume."
+
+Chloe laughed as they walked, happily jumping into the conversation. She told them about almost forgetting it was costume day, how Mr. Raymond nearly gave her a heart attack when he pointed it out, and how the toilet costume she’d spotted earlier was still the worst thing she’d ever witnessed. Like, people really needed to sit down and think about some choices.
+
+But then, she slowed. Chloe's smile slipped away as she noticed something off to the side. Near the lockers, a girl stood backed up against the wall, clutching her bag tight to her chest. A group of boys and girls had boxed her in, talking too loudly and laughing as they leaned in way too close. Anyone with eyeballs could tall that the cornered girl was being bullied.
+
+“…Hold on,” Chloe said, her voice dropping as she frowned and stared that way.
+
+Jessica followed her gaze and immediately grabbed Chloe’s arm. “Don’t, that girl’s bad news."
+
+“Yeah,” Jennifer added. “It’s not worth getting involved.”
+
+Chloe looked at them, then back at the group by the lockers. Her jaw set. "You guys can go ahead.”
+
+Jessica blinked. “Chloe—”
+
+“I’m not just gonna walk past that,” Chloe said, pulling her arm free. “That’s just mean.”
+
+She took a step toward the lockers, her wings shifting slightly under her costume. Being mean didn’t sit right with her at all. It didn’t matter who the girl was or what people said about her. Letting stuff like that slide felt wrong. Because last she checked, angels weren’t supposed to be like that.
+
+Chloe walked straight toward them like she owned the hallway. The group didn’t notice her at first. They were too busy laughing and talking over each other, leaning in close and blocking the girl against the lockers like that was somehow funny.
+
+“Hey!” Chloe yelled, loud enough to cut through them.
+
+A few heads turned. One of the boys frowned. “Just go away, this is our business."
+
+"Well, you’re being jerks in a public hallway. That makes it everyone’s business.”
+
+One of the girls scoffed. “We’re just talking.”
+
+“Uh-huh,” Chloe said. “And I’m just standing here. See how that logic works?”
+
+The group shifted, annoyed now. Someone muttered something under their breath. Another stepped forward a bit, trying to look intimidating. But Chloe wasn't scared at all. Mom always told her that she needed to stand up to bullies.
+
+So, she just crossed her arms and stood there, menacingly. "I'm not going away until you all stop."
+
+“Why don’t you bother someone else,” the boy said. “This girl’s weird anyway.”
+
+Chloe’s smile sharpened. “Wow. Bold words for someone who thinks cornering one person as a group is impressive.”
+
+That got a few uncomfortable looks. One of the bullies glanced around, checking who might be watching. Chloe noticed, and felt pleased, that meant the group's confidence was already cracking.
+
+She leaned in just a little. “So here’s how this goes, all of you walk away. And everyone gets to pretend this didn’t turn into a whole thing.”
+
+“And if we don’t?” one of them asked.
+
+Chloe shrugged. “Then things are gonna get awkward for all of us."
+
+The bullies laughed, but it sounded forced. Then one of the girls, standing near the back, leaned in and whispered something to the others. Chloe caught just enough of it. “…you know who her mom is, right?”
+
+Apparently, that was all it took. The laughter died on the spot. One of the boys went pale, another suddenly found the floor way more interesting than it had been a second ago, and someone muttered, “Yeah… this isn’t worth it.”
+
+“Whatever. We were leaving anyway,” the first boy said, trying to sound casual as he backed away from Chloe.
+
+They scattered one by one, all of them suddenly very busy with somewhere else to be. Within seconds, the hallway was back to being peaceful, with a few less bullies being around.
+
+Chloe waited until they were completely gone before turning back to the girl by the lockers. She looked small now that the space around her had opened up, shoulders hunched in on herself.
+
+The girl had long black hair, and she was dressed in an all-black costume with soft wolf ears perched on her head and a matching tail clipped at her waist. Her hands trembled as she clutched her bag tight.
+
+Chloe’s expression softened right away. “Hey, I like your costume, and uh… you okay?”
+
+The girl tried to nod, but it didn’t work. She sniffed once, then the tears came fast. She covered her face, shoulders shaking as she cried quietly.
+
+Chloe didn’t rush her or try to fix it. She reached into her bag, pulled out a tissue, and held it out without saying anything. She stayed right there and just waited for a while.
+
+After a moment, the girl took the tissue with a small, shaky hand. Chloe stayed where she was, giving her space but not leaving. Crying was allowed. Everyone needed that sometimes.
+
+When the girl’s breathing finally slowed and the tears eased up a bit, Chloe spoke again. “Hey, what’s your name?”
+
+The girl hesitated, then wiped her eyes and sniffed. “…Sierra."

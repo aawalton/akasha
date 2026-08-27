@@ -1,0 +1,95 @@
+---
+id: 888d845b-2eb7-56ca-9599-434750f7c609
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1412 - The Eggs that Were Left Behind"
+slug: 0060-chapter-1412-the-eggs-that-were-left-behind
+partOf: chrysalis
+position: 60
+ownLength: 1189
+unit: words
+ownProgress: 1189
+publishedAt: 2024-09-18
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1808163/chapter-1412-the-eggs-that-were-left-behind"
+royalRoadId: "1808163"
+markedReadAt: "2026-06-29T19:45:33.127Z"
+---
+
+Things are happening all over the place. More and more ants pour down into the fifth through the entrance. Even now, hours into the invasion, the flow of troops has not slowed. In fact, it has only accelerated. I can sense them all through the Vestibule, feel their iron-hard resolve and selfless determination.
+
+Then I sense someone who has a little too much selfless determination.
+
+Is that Leeroy? What in the name of heck is she doing down here? I haven’t exactly gone out of my way to learn all the details of the plan, because my brains would probably explode if I tried, but I find it hard to believe bringing her and the Immortals down here is a good idea.
+
+I’m sure Solant has a plan, but I can’t think what it could be for the life of me. Perhaps Leeroy bribed her to allow them to find eternal rest in the fifth? I wouldn’t put it past the moronic ant to give it a try.
+
+There’s so much activity going on, it’s dazzling. If I let my mind dip into the stream of Will for even a second, I feel like I’ll get swept away in the torrent. There’s fighting everywhere. As the Colony extends our zone of control deeper into the fifth, the number of fronts grows larger and larger. Native monsters are throwing themselves at my sisters in mindless rage all over the place. More and more wuffer stations are being established, the carvers and mages working at a furious pace to establish the network of channels and pipes that are necessary to maintain our position, and indeed, to expand it, because we aren’t done yet.
+
+In fact, there’s a heck of a long way to go before we hit the mark that Solant is demanding, and things are going to get even more crazy before we get there.
+
+We finally broke through the acid lake, which was a heck of a sight. When we were done with the thick, sludgy acid, it changed into something else entirely. I’ve got no real clue what it was, but it didn’t burn or poison us, so… winning?
+
+The issue is what we found beneath the lake.
+
+“There’s definitely a series of caverns down there,” Tungstant stated, prodding at the floor beneath us.
+
+The carvers were able to create a dry spot by raising up walls and pumping any liquid out, which is where we now stand, preparing to continue digging down.
+
+“Naturally formed?” Solant asked, intent.
+
+“Let’s go with half and half,” Tunstant replied, continuing to waggle her antennae back and forth as she sensed the stone. “Some of it has definitely been dug out… but by what method, I have no idea. The shape of the rock is… strange.”
+
+“Perhaps it was melted away with acid?”
+
+Tungstant clacked her mandibles thoughtfully, concentrating on what her more esoteric senses told her.
+
+“That’s possible,” she said slowly. “It would explain how smooth the walls are.”
+
+Solant nodded, satisfied.
+
+“We found them,” she said, looking entirely too smug.
+
+“Found who?” I ask, glaring.
+
+“This is likely to be a hiding place for the Krath. A village, of some sort. I expect it will have been abandoned by now, but this is an exciting find nonetheless.”
+
+My antennae slump.
+
+“I have to go in there, don’t I?”
+
+“Yes, of course. There are almost definitely traps and incredibly harmful substances. None of us could hope to survive, but you at least have a chance.”
+
+“... Yay.”
+
+I’m surprised they were able to be found this close to the fourth, but once the carvers create an opening and I’m lowered down, it’s clear to see that some sort of intelligent creature was living here. Wild monsters don’t create such neat and organised living spaces.
+
+Back in the burning atmosphere of the fifth, I keep a steady flow of regeneration fluid running through my body. The count of ants providing Will to the Vestibule is rising every minute. There must be over a hundred thousand in the fifth by now, and many, many more waiting in the fourth.
+
+Trying to ignore the incessant irritation of having my carapace constantly melting, I do my best to take a look around.
+
+It’s eerie being here. I can see little holes in the wall that appear to lead into sphere-ish slug houses, stacked on top of each other and burned into the walls of the cavern.
+
+Much like ants, they don't appear to stress about gravity all that much. There are paths and homes right up the walls and onto the ceiling. I try peeking inside one of the rooms, but I can’t see much. It’s so dark inside and the miasma is so thick in this place it’s ridiculous.
+
+I mean, holy moly, how do they even breathe in here? The atmosphere is melting my eyes so fast the healing can barely keep up. Without a constant supply of regeneration fluid, I’d be blind as a bat in about a minute.
+
+Just as Solant had suspected, the place looks abandoned. I can’t sense much of anything moving, no shifting gravity waves, no intent… nothing. The place is almost suspiciously dead.
+
+Which, of course, it is. When I move further in, I find what used to be their fields and cattle… pits? Whatever they were raising and tending here, they made sure we wouldn’t be able to get our mandibles on it. There are signs of violence everywhere, but the bodies are gone, absorbed back into the Dungeon before I got here.
+
+There does appear to have been some effort at cultivating the land, though, which I find odd. Why the heck would they be growing food down here? Aren’t they monsters?
+
+Don’t think that I’m looking at nice, furrowed rows of rich, brown earth for a second. That’s not how things work in the fifth. They were growing mould, but not in a cool way like the termites were, but in a gross, stinking, slimy way. Yuck!
+
+The blue mana has already begun to descend into the cavern, slipping through the opening I entered through and cleansing everything it touches. Good luck with those pits, blue mana, you’re gonna need it!
+
+I try to stay ahead of the mana as I explore. If I find something interesting, I’ll need to preserve it since it’ll probably turn into mush the second it comes into contact with the purified energy.
+
+Despite keeping that in mind, when something finally catches my eye, it’s only a split second before the mana hits it.
+
+A momentary parting of the haze, perhaps a lucky glint of light catches my attention and I lock onto them.
+
+They look like… pearls, I would guess. Kind of inky black, shiny pearls, each about the size of a hatchling's eye and covered in a thin film of slime. There are only a dozen or so, nestled into a pool of clear fluid that clearly would have contained many, many more.
+
+The moment I see them, I realise what they are: eggs!
+
+The next moment, the blue mana envelops them, and they begin to sizzle.

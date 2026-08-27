@@ -1,0 +1,79 @@
+---
+id: 5f300594-bc1b-5b45-98ad-4a5296833dfe
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1655 - It Spread Like a Virus pt 2"
+slug: 0304-chapter-1655-it-spread-like-a-virus-pt-2
+partOf: chrysalis
+position: 304
+ownLength: 1073
+unit: words
+ownProgress: 1073
+publishedAt: 2025-09-29
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2636688/chapter-1655-it-spread-like-a-virus-pt-2"
+royalRoadId: "2636688"
+markedReadAt: "2026-06-29T19:53:32.159Z"
+---
+
+Despite his attempts to calm his apprentice and have her explain just what she thought she was doing, he got nothing but irritated glares. When he tried, politely, to tap her on the arm to get her attention, she simply brushed him off.
+
+His apprentice! Brushed him off!
+
+There would be a reprimand for this behaviour, most definitely. Only… later. It looked as though she was… quite invested in the goings-on below and didn’t want to be disturbed.
+
+When both teams had entered, the Flowing Stone showing equal resolve and fighting spirit to the Blossoms, they leapt down into the pit below. For the next few minutes, the teams stretched, conferred with each other and seemingly ran through various drills while the two voices rang out overhead, discussing the upcoming match.
+
+“We have an interesting matchup here, one of divergent styles. I’m keen to see if either one will be adopted by the developing Tunnel Ball community here in Freehill and become the dominant method, or if we will see something entirely new develop.”
+
+“Yes, Peter, the Blossoms are very much a space control team, utilising a familiar strategy to longtime Tunnel Ball fans but in a way rather unique to the Folk. The Flowing Stone, led by their dominant front-line trio of Claws, Thick-Hide and Spots, are what we in the know would call a charging team. Using their superior strength, they want to crack the centre line and force the opponent back, creating weakness in their foe’s offence and opening passing lanes when attacking themselves.”
+
+“Indeed. Now for anyone in the audience who is new to Tunnel Ball, we will take a brief moment to explain the rules and aim of the game.”
+
+Grey was quite relieved to hear this, as everything the two individuals had been saying was going right over his head. So this ‘game’ involved carrying a vulnerable ‘ball’ from one's own defensive line and reaching the other side of the pit without it being broken. Play didn’t stop until either the ball was broken, or the attacking team scored. Apparently there were limited opportunities where the ‘umpire’ could step in, most of them involving situations where the attacking team couldn’t advance the ball but the defending team couldn’t break it, such as if it was buried deep within the ground and neither team could achieve control over the mana needed to break it out.
+
+Both sides had ten turns to attack, and whoever scored the highest total would win.
+
+Upon hearing the rules, Grey simply didn’t understand what the excitement was about. In what way was this more interesting than a duel between experts? Carrying a ball around? Trying to destroy it? Who cared?! Blademasters cultivated their dueling skills in order to triumph over the monsters and display the prowess of the Folk. What purpose did this foolish display serve?
+
+Growing irritated all over again, he slumped in his chair and crossed his arms over his chest. If he left now, he would never hear the end of it from White, so he might as well get settled and prepare to endure the rest of this farcical display.
+
+“It looks as if the Blossoms have won the coin toss and elected to attack first.”
+
+“Attacking first is the default choice for teams with confidence. I like this show of strength from the Blossoms.”
+
+“Right you are, Commentant. Well, after all the build up, it’s time to play, folks. As both teams take their formations on the mid-line, we are about to see some action. The ball is being carried by Spring, team captain for the Blossoms, and she is facing down the truly terrifying trio ready to crash through and hunt that ball.”
+
+“Here we go! The umpire signals the start of the match and… boom!”
+
+The pit erupted in a dazzling burst of sword light, and the crowd roared as Grey leaned forward, his blademaster eyes seeing through the chaos perfectly. The second the round had started, both teams had drawn their blades, unleashing their techniques as fast as they could.
+
+The back-line for the Blossoms, a duo from the life-blooming school, had created a large tree of pure energy that covered their ball handler, protecting her from harm while three others unleashed wily serpents that wove through the air, hunting for prey.
+
+On the other hand, the vaunted front trio had executed competent quick-draw techniques, smashing their opponents with raw, unformed sword-light, putting them on the back foot. Pressing their advantage, they pushed forward, unleashing further rapid bursts, not letting their opponents get set.
+
+“As expected, the Flowing Stone are pressing over the mid-line! Keeping their opponents under pressure, Claws, Thick-Hide and Spots are advancing!”
+
+“The flanks are a different story. The Blossoms are executing their trademark strategy, harassing and hounding. Look at those serpents sweeping in and out. They can team up at a moment's notice and strike. The question is, when will Spring make her move. She is yet to take a single step—protected by the defensive formation, she is waiting for her moment to strike.”
+
+A dazzling clash of sword light continued as the more skilful fighters controlled their energy, arcing it up over the pit before raining it down amongst the opposing team. The advance of the dominant trio was halted for a moment, as the rest of their team was being pressed hard.
+
+“We are seeing both formations starting to break down here, Commentant! Chaos could erupt at any moment!”
+
+“I quite agree. Brilliant swordsmanship on display from both teams as we—goodness! Spring makes a pass!”
+
+“I almost missed it! Caught in the mouth of a snake, the ball is moving forward and the Blossoms are streaking down the flanks! Remember, they must physically control the ball in order to score!
+
+“Flicking the ball between snakes, a dazzling display of control and strategy. The Stone are regrouping, but can they track the ball?!”
+
+“Another pass, and this one is DEEP. Spring is charging up the right unopposed! Will she get there?”
+
+ROAR!
+
+“An interception from Thick-hide smashes the ball to smithereens and ends the play! How did he get there?!”
+
+“A brilliant read, he watched and waited, knowing the pass would come to the captain. Excellent patience, excellent presence of mind. Calm under pressure, that’s the true spirit of a Tunnel Ball player!”
+
+“WHOOOOOOO!!!!” White howled, pumping her fist with excitement. “GO STONE!”
+
+Grey blinked.
+
+Just what was he watching?

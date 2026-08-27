@@ -1,0 +1,216 @@
+---
+id: 04824c3d-ed29-5a81-82fa-4412220d6a9c
+page-type-slug: story-chapter-royal-road
+title: "189 - Advice from a Dragon"
+partOf: bunny-girl-evolution
+position: 57
+ownLength: 3654
+unit: words
+publishedAt: 2026-04-14
+link: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3271403/189-advice-from-a-dragon"
+royalRoadId: "3271403"
+---
+
+[ You have discovered a hidden Skill Quest: {Conqueror's Aura} ]
+
+[ {Conqueror's Aura} (Skill Quest): Defeat 1000 opponents. Cause an opponent to surrender with your presence. ]
+
+[ Progress: 2/2 ]
+
+[ You have completed the Skill Quest {Conqueror's Aura}! You have unlocked the skill {Conqueror's Aura}! ]
+
+[ Conqueror's Aura: Infuse your presence with the power of those you have defeated. Nearby targets will feel pressured, and lose the will to fight. ]
+
+Elise glanced at her rewards, smiling in satisfaction. {Conqueror's Aura} was actually a Skill whose existence she was already aware of, and whose effects she already knew. In the book about mind control that she had gotten from the auction, it had a section on aura Skills, and Conqueror's Aura was widely known as one of the strongest. In its base form, it was not actually that powerful, but it had a somewhat hidden feature in that it scaled with the number of opponents defeated.
+
+For Elise, who had probably not defeated more than a couple thousand, it wouldn’t be much stronger than the base version. The base version for Elise, at least. With how much aether she had, though, her “base version” was likely already quite strong. As she progressed and defeated more opponents, it would continue to grow in strength, even relative to her aether amounts. It was an incredibly powerful Skill for any monster, simply due to the nature of how they evolved, and she was very glad to have it, even if she did not have an immediate use for it at the moment.
+
+When she returned home, she was in an excellent mood, and dove straight into her soul meditation. She didn’t know whether it was her mood, or if she was just improving that much, but she made great progress that night. She finally succeeded in the drill that Irylax had assigned to add more rules to gravity, creating a lightswitch that turned it on and off. Connecting it to a switch specifically wasn’t necessary, but it helped her wrap her head around it.
+
+She accomplished this so early that she moved on to her next test, which was adding a gravity dial. She spent an hour or so on this, and though she wasn’t able to create a truly free dial, she was able to successfully add one that had 5 different settings, ranging from zero gravity to double gravity, with normal gravity right in the center. And she knew that if she took the time, she could add a hundred more settings too. Assigning the gravity values to the dial had actually been incredibly easy, and it was making the dial itself that took most of the time.
+
+Bolstered by her success, she decided to skip adding more options, though, and move straight to her third experiment, which went just as well. This one was a bit abstract, but ironically, that somehow made it easier than the other two. Right in the center of her room, she created a floating arrow pointing down, and locked it in place. Then, she simply assigned the direction of gravity to be the same direction the arrow was pointing.
+
+She reached out to grab it, rotating it ninety degrees to the right, and immediately found herself falling toward the wall. She willed herself to float, holding herself in the air, then rotated the arrow again so that gravity was pointed at the ceiling.
+
+Elise played around with the arrow for a minute or two, then moved it over near the dial and started combining their effects. Ultimately, she ended up moving the dial onto the base of the arrow, and adding four more settings to it, each one sitting halfway between the previous five settings. With her arrow dial, she now had more or less complete control over the gravity in her soul realm, and while there were improvements she could make, she didn’t want to kill her momentum by stopping for refinement, and instead moved on to the next step of in-soul gravity manipulation: localized gravity.
+
+Unfortunately, localized gravity eluded her, and after an hour and a half of frustration, she gave up, and exited her soul with a sigh. It was not quite time to sleep, but she wasn’t ready to dive back into her soul just yet, so for a few minutes, she simply lay in bed, staring at the ceiling. It had begun to rain at some point while she was meditating, and the soft patter of raindrops went a long way to soothe her as she re-focused her mind.
+
+Then, a flash of lightning went off, and she sat up straight into her bed and stared at the window.
+
+Was that–?
+
+A second flash of lightning went off, and a dark silhouette was illuminated. One of a tall woman with long, dark hair, and as Elise watched, she opened her eyes, revealing a pair of yellow irises that almost seemed to glow in the dark.
+
+“I– Irylax?” asked Elise. “Wh– what are you doing here?”
+
+“Make a deal with me,” said the dragon. “Let me into your soul, and I will give you further instruction. I won’t harm you.”
+
+“What? Why?”
+
+“Hurry up. Before I change my mind.”
+
+Elise took a moment to consider before nodding while activating {Fey Bargaining}, and the moment she nodded, she was pulled into her soul. Just like the last deal she made with Irylax, the drain on her aether was immense, and when Irylax first entered, her soul felt strained. Then, Irylax shifted from her dragon form to her human form, and the strain disappeared.
+
+“Show me your progress,” said Irylax, casually floating down into the doorway to Elise’s soul bedroom.
+
+“O– Okay.”
+
+Elise spent a few nervous minutes showing Irylax what she had done. The progress she had felt so proud of just a few hours ago seemed paltry now that she was explaining it. She had done the incredible work of making her bedroom not broken, making her soul form appear mostly human on the outside, making terrible clothes, and making a gravity dial. The last part was still a little bit impressive, but compared to what she assumed Irylax could do, she doubted it was much. To her surprise, though, Irylax actually seemed pleased.
+
+“Good,” she said. “This is good progress. You will be able to begin building your Domain soon.”
+
+“I will?”
+
+“You have a firm grasp on soul sculpting, and you are working on localized rules. Once you have understood the principles of localized rules, you will be able to create the domain space, and start applying rules. Progress will be slow, but creating a rudimentary domain will help you advance far more than continuing to play around with gravity.”
+
+“I– I see.”
+
+“And your soul form will settle within the next few months. There is nothing more for you to do on that front. Your soul just needs time to grow accustomed to and accept the new form. Your next Evolution likely will not take your physical form all the way to your soul form, but 7th Tier should. And if not then, you will definitely have that form by 8th Tier.
+
+“Your soul defenses are pitiful, but it seems you haven’t had much instruction on that, so it is not your fault. Soul defenses can be difficult to build. Here, take this.”
+
+Irylax held out a hand, which now held a brass orb that definitely hadn’t been there a second ago. The orb had a valve sticking out the side with a knob and a dial on it.
+
+“What is it?” asked Elise.
+
+“Some of my aether,” said Irylax. “I put it in a container made from your aether. You can use this to test soul defenses. Turn the knob to release some of my aether and see how your soul reacts to foreign aether. There should be enough to last you a year or so, unless you waste it.
+
+“Thank–”
+
+“The best way to think about soul defenses is similar to rules or laws. Think about the conditional rules that you have created with your dial and arrow. Imagine that instead of gravity, it controlled a function that expelled all foreign aether. Now imagine that it automatically triggered whenever it detected foreign aether. That is a soul defense. A very rudimentary one that can be easily fooled by anyone who knows what they’re doing, and even many System Skills, but still a soul defense nonetheless.”
+
+“I s–”
+
+“You should work on practicing with other kinds of conditions that aren’t tied to physical objects once you have learned localized rules. For example, a room that only has gravity when someone enters. A light that responds to hand signs. A room where gravity is controlled by verbal commands. Whatever kinds of triggers you can think of, try them. The more triggers you can use, the more powerful your Domain, even if you can only manipulate one rule.
+
+“And as for rules, once you master localized rules, you will be able to create more specific rules. Increasing gravity on a single person. Preventing one person from moving entirely. Silencing a person. You will have to test all these on your own soul form, but it should work fine. Once you understand these, you will be able to add more complex rules, and build other domains.”
+
+“Other domains?”
+
+“Yes.”
+
+“You can have multiple Domains?”
+
+“You can have as many Domains as your soul can handle. What do you think separates a Domain from just a location in your soul?”
+
+Elise was stumped, so after a few seconds she just shrugged.
+
+“Absolutely nothing,” said Irylax. “The only difficulty is manifesting the Domain, which is more complicated, but you’re not ready for that yet. Simply put, however, the only difference between a Domain, and a room in your soul is whether you can manifest it. If your soul is powerful enough, you will be able to manifest multiple different Domains. And your soul will certainly be powerful enough. By the time you reach 6th Tier, you will be able to handle one. By 9th, I do not know if there will be a limit.”
+
+“Oh…”
+
+“Most cannot, because their souls are weak, but you will not have that issue. Neither do I. We are somewhat alike, in that respect. But it doesn’t matter. Moving on, let’s go over dreamwalking.”
+
+“Wait, wait, wait, hold on,” said Elise, holding up her hands.
+
+“What is it?” asked Irylax.
+
+“Why are–? Wait, hold on. I am extremely grateful for all this help that you’re giving me right now… but why are you giving it to me?
+
+“Because I want to,” said Irylax.
+
+“But why now? Why not earlier? Or later?”
+
+Irylax took a deep breath, then let out a sigh.
+
+“I am going to ascend soon.”
+
+“What?!”
+
+“There is no need to shout. I will be ascending soon. I can’t hold it off much longer. And when I go, I will no longer be able to protect my goddaughter.”
+
+“Sophie?”
+
+“Yes.”
+
+“You– you want me to protect her?”
+
+“No. I want you to leave her.”
+
+“Leave her? Why?”
+
+“You are Fated. You will draw trouble wherever you go, and I don’t want my apprentice near when you do. When I ascend, you must leave her. Do you understand?”
+
+“I–!” started Elise before stopping herself and looking down in defeat. “Yes.”
+
+Nothing had happened lately, but Elise knew that wouldn’t hold for long. Even without Titania’s prophecy, Elise had too much aether and knew too many powerful people for things to stay safe and peaceful. And there was a very good chance she would lose most of her protection in the next few months. If Titania managed to convince Oberon to ascend, he would be gone, and with Irylax ascending as well, the only one Elise would have left would be Freddy, and she didn’t know if she could trust him.
+
+She didn’t have any enemies, but she didn’t need to have enemies to be in danger. If anyone found out that she wasn’t human, that would put her and the Grays in danger. If anyone found out what kind of abilities she specialized in, that would also put her and the Grays in danger. If Liam Grane decided to retaliate, she wouldn’t have either of her major shields left to protect them.
+
+“Good,” said Irylax. “You are still under my protection, though, and in order to make sure that you remain protected even after my ascension, starting now, I will be training you. Once per week, unless I am busy, I will enter your soul and give you instruction.”
+
+“Really?”
+
+“Dragons do not lie.”
+
+“Thank you!”
+
+“I am only keeping my word. Now, do you have any questions before I leave for the night?”
+
+“Yes, I do!” said Elise. “Is your ascension related to the thing Titania mentioned about the continent not being intact in a few months?”
+
+“No. Not directly, at least. Hmmmm… Or maybe it is… I don’t think so, though. My ascension will not change much in this realm, but it may cause ripples.”
+
+“Then do you know what she was talking about?”
+
+“I do not, and frankly, I do not care to learn.”
+
+“Wh– why not? Won’t Sophie be in danger from this?”
+
+“Perhaps, and I will create contingencies for that, but strength is not taught through coddling. I don’t want to put her in a situation where she is never in danger. I want to put her in a situation where she can overcome whatever danger comes her way. However, I know that if you are present, the danger will be beyond what she can handle. It always is with the Fated.
+
+“I also don’t have the time to worry about calamity in the mortal realms. If it was bad enough to be truly worrying, then I would already know, and since it isn’t, I will simply focus on my ascension, and the things that immediately concern me.”
+
+Elise wanted to protest, but the look on Irylax’s face told her that it would be no use. The dragon had already made up her mind, and Elise had never once seen her change it after it was made up.
+
+“Anything else?” asked Irylax.
+
+Elise racked her brain, trying to find something to ask, and while she was able to come up with a few questions, none were of immediate concern. She already had plenty to practice over the next week before Irylax came back for the next lesson, and it was already getting late.
+
+“Not right now.”
+
+“Good. Then, on to dreamwalking…”
+
+They spent the next half hour going over dreamwalking, a skill that Elise had let fall behind a bit in her eagerness to practice everything else. She had run into the slight snag of being unable to sense aetheric connections that weren’t active, and couldn’t really find a way around it. She had managed to use {Charm} to dreamwalk to people in her immediate vicinity that she could apply the Skill to, but that wasn’t really all that useful.
+
+Irylax taught her a way to do it, though, and they spent much of the time practicing it. It was a meditation technique involving memories and mental imagery, and though Elise couldn’t get it that night, she was happy to have a starting point for her future efforts.
+
+She went to bed satisfied, but also confused and mildly stressed. The upcoming upheaval had been at the back of her mind ever since Titania first mentioned it, but Irylax’s ascension made it all feel more real. With Irylax gone, whatever was going to happen would be that much more perilous. She wished she could be as nonchalant about it as Irylax was, but she couldn’t bring herself to totally dismiss it.
+
+That night, she dreamt of an enormous, flaming person bursting from the ground and shattering the continent with an enormous sword, and woke up before sunrise, unable to fall back asleep.
+
+The rest of the week passed quickly. Classes were the same as usual, with the exception of Liam being oddly quiet during Intermediate Unattributed Spells. The entire class knew what had happened in the duel, and Liam didn’t seem to have fully recovered, and was unable to make eye contact with Elise for more than a half second. She hadn’t even ordered him to do anything yet, and it was already a pleasant change of pace to be able to practice without hearing snide comments from his direction every minute or so.
+
+It was only on Friday that something changed. Basic Magical Combat had started out as usual with their five laps of warmups, something that everyone in the class could now complete in fifteen minutes or less. Professor Lance had them all line up on the field, and instead of going to their usual drills, he brought out a brand new device that they had never seen before. It was shaped like a giant target made of stone suspended by metal bars in the middle of a stone frame. Elise could sense some incredibly dense mana contained within it, and a very complex network of mana channels, but until the professor spoke, she could only guess what it did.
+
+“Today, we’re going to be playing a little game!” he announced. “This is a power sensor. You hit it, and it will tell you how hard you hit. It works with magical, physical, and even mental attacks, but we won’t be using that last function today. Today, we’re all going to take turns attacking. You get up to three attempts to break your highest score, but you can’t take more than ten seconds to prepare any of them. The five highest scoring students will get extra credit on the final exam.”
+
+If a power competition wasn’t enough to get the students excited, the promise of extra credit was, and it wasn’t long before the students had formed an extremely tight line leading back from the device. Nearly everyone was eager to test their power, and though Elise had no illusion that she would place highly, she was still curious how she would measure up.
+
+The first student was an earth mage who took the full ten seconds of preparation to charge a powerful stone bullet spell. It shot out faster than Elise’s eyes could track and shattered against the stone target, making the whole thing glow blue. A moment later, the professor checked something on the side of the device and turned to face the class.
+
+“213!” he said.
+
+None of the students had any frame of reference for whether that was good or not, so no one reacted. The earth mage took his next two attempts, scoring about the same, with the third being at 216 before moving on. When the next five students failed to reach even 150, it soon became clear exactly how impressive the earth mage was.
+
+Elise, Sophie, and Attalaya watched the students in front of them go with fascination and anticipation. The earth mage from the beginning remained in first place for nearly twenty students until a lightning mage managed to score 287 with a deafening thunderbolt. That girl stayed in first for only two students before surprisingly an unattributed mage scored 301 with what looked like a laser beam.
+
+When it was Elise’s turn, she tried three different attacks. First was a volley of high-powered {Magic Missile}, just to see how it stacked up. She had seen a few other students use volley attacks, and they all seemed to count toward the same score, so she wanted to do the same.
+
+“117!” announced the professor.
+
+Frowning, Elise prepared her next attack, a modified {Vicious Bloom} that used roots instead of vines. She empowered it with as much mana as she could, trying to make it crush the stone. The roots ended up barely being able to get more than a few inches in before being stopped, but it was enough for a significant improvement on her score.
+
+“209!”
+
+For her final attack, she was extremely tempted to use {Power Word Kill} to see what would happen, since she detected that it was a valid target, but she ultimately decided against it. She could try to disguise it as another nature magic spell, but if that failed, she would have no good way to explain herself. She really wanted to see how it would score, though.
+
+Her final attack was only a single point better than her first, which was still respectable, but with Sophie and Attalaya going after her, and a few more heavy hitters further back in line,she knew she wouldn’t maintain the top five.
+
+Sophie topped out at 231, leveraging her larger mana pool and better control of mana to make a slightly better version of Elise’s root attack, and Attalaya simply kicked the target, earning a whopping 392. Elise still didn’t understand how the woman could produce so much power with a simple Warrior Class, but she had come to accept it by that point.
+
+Attalaya remained in first until the very end, but another student—an armored man that Elise remembered from the defensive test—actually managed to get close with a sword strike that scored 371. As the students all started talking to each other, congratulating the winners and bantering with the losers, the instructor suddenly released a wave of mana that flattened the grass around him and ruffled everyone’s hair, seizing their attention.
+
+“Attention!” he shouted. “We’re almost out of time, but class is not over yet! Before I let you all go, I need to tell you the reason that we had this little competition. The reason is that I needed to figure out your upper limits so I can get the right protective equipment from the school proper.” He paused a moment, letting his words settle in before continuing. “That’s right! Next week, we will begin sparring!”

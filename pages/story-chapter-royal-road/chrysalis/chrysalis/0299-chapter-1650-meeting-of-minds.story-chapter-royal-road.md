@@ -1,0 +1,111 @@
+---
+id: 4155e40e-94c3-5fae-aa2f-c6dff6539068
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1650 - Meeting of Minds"
+slug: 0299-chapter-1650-meeting-of-minds
+partOf: chrysalis
+position: 299
+ownLength: 1124
+unit: words
+ownProgress: 1124
+publishedAt: 2025-09-22
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2618794/chapter-1650-meeting-of-minds"
+royalRoadId: "2618794"
+markedReadAt: "2026-06-29T19:53:22.762Z"
+---
+
+By the time the little snails had finished singing, an entire day had passed. Much to the horror of the Brood Tenders, the little creatures collapsed the moment their song was complete. Ants swarmed over the snails, gently picking them up as they retreated into their shells and then scurrying away, returning them to wherever they had come from.
+
+Granin watched the entire procession, utterly bewildered by everything that had taken place. He didn’t need to check on Anthony, the giant ant was still sleeping soundly as his evolution wound on, and Granin had been in almost constant contact with him for a whole day. The contamination was just… gone. The song of the snails had cleansed it out of him somehow—not just cleansed it, changed it, turning it from a fatal infection into… something else entirely. Just what, it was too early to say.
+
+Whatever path Granin had thought Anthony was being pushed down had now utterly changed. The organs that were forming within him were nothing like what they should have been, and it was still early in the process. In fact, given the changes that had taken place, this evolution was likely to take much longer than it otherwise would have.
+
+He turned to the other members of his triad.
+
+“We should go back and get some rest,” he told them. “Nothing is going to change in the near future, and he is through the worst of it.”
+
+“Are you sure one of us shouldn’t remain, just in case?” Torrina asked him.
+
+Granin shook his head.
+
+“There’s a literal army of healers here watching him. There’s nothing we can do that they can’t do better. Besides, you’re exhausted, I’m exhausted. We can process what we’ve seen better after we’ve had some rest and time to reflect.”
+
+There was a lot to reflect on. So much had happened, Granin felt his head was spinning. After hundreds of years of life, he had never imagined he would see something like what he had witnessed in this chamber. A tier eight mythic evolution, the toxic virulence of an Ancient, the resurrection of the chal, the true nature of the Krath. It was enough to make him question… nearly everything he had ever thought he’d believed in his entire life.
+
+At that moment, there was a scream of almost unimaginable pain that caused Granin to whip his head around, his heart pounding in his chest as this new threat materialised.
+
+Except, he didn’t see a threat, he saw a small gathering of what appeared to be human scholars, wearing the robes of the Tower, on their knees, hands outstretched as the Tenders disappeared into the distance with the snails in their grip.
+
+When the last of the snails vanished out of sight, some of the scholars began to openly weep, fat tears rolling down their cheeks and snot dribbling from their noses and into their beards. Granin was, once again, dumbfounded. How many more shocking sights could one day bring?
+
+“A… are they alright?” Corun asked, looking at the humans askance.
+
+“Do they look alright?” Granin muttered.
+
+He would never understand facial hair. Messy outgrowths from the face that the humans could remove if they chose, but elected not to. Along with their general squishiness, it was something he had always struggled with when interacting with them. Before the triad could make a clean exit, one of the more calm humans saw the three golgari and approached, hand raised in a friendly wave.
+
+“Hello there!” he greeted them, then gave an embarrassed chuckle. “I’m sorry about my colleagues. They had only just heard that the chal were here singing and were desperate to see it for themselves. Arriving a few seconds too late seems to have been rather… painful, for some of them.”
+
+Granin flicked his eyes to the scholars, still ugly crying, now clinging to each other for support.
+
+“I see,” he rumbled. “Well, my students and I are tired after an… eventful day. We will retire now.”
+
+Before he could turn away, the much smaller man who didn’t even come up to his shoulder reached out to place a hand on his forearm.
+
+“Please. Ah, I mean no offence,” he said, removing his hand. “I merely plead with you to spare a few moments of your time. My friends and I are here on something of a studying vacation and are eager to learn everything we can.
+
+“Before I go on, I have been unspeakably rude. My name is Rathwyn Werilos, magio-scholar of the Tower. A pleasure to make your acquaintance.”
+
+The man made an exquisite bow and extended his hand, this time in greeting, and Granin found his own had extended to cover half the distance between them before he even realised he’d started moving. Catching himself, he snatched his hand back at the last second, eyeing the newcomer suspiciously.
+
+“Are you a diplomat or a merchant?” he asked.
+
+Rathwyn smiled a wry smile.
+
+“Diplomat,” he said honestly.
+
+“That’s worse.”
+
+“I know.”
+
+Granin could only sigh.
+
+“Give me a moment to send my students on their way, then I can spare you some time. Is that enough?”
+
+“Of course, you are more than generous. Allow me to step back, I would never dream of intruding on the dialogue between a triad.”
+
+Granin grunted, then waited as the mage stepped back before he addressed his students.
+
+“This human could talk you two into selling your own second-skin and have you thank him for not charging a fee for pulling it off your hide. Be very careful around him, and any of these other scholars. The Silver City is a world of its own, a dangerous one. Try not to get entangled. Go rest.”
+
+“Isn’t using those sorts of abilities extremely illegal?” Corun hissed.
+
+“Not if you’re a diplomat.”
+
+“Will you be alright?” Torrina asked, as Corun started sliding away from the mage, heading for the exit.
+
+“I’ll be fine,” Granin replied. “Go and sleep.”
+
+With a final, concerned glance, Torrina turned and joined Corun in his hasty escape.
+
+“I really am trying to suppress my abilities to the greatest extent I can,” Rathwyn assured him.
+
+It was something his type often said, but strangely, Granin actually believed it. This man was truly good at his job.
+
+“Alright, I’m Granin,” he said, folding his arms across his massive chest. “What is it you want to know?”
+
+Rathwyn tilted his head to the side a little.
+
+“You’re almost immune to manipulation, aren’t you?” he said curiously.
+
+Granin tapped himself on his bare, stone covered face.
+
+“Granite,” he said, by way of explanation.
+
+Rathwyn smiled warmly.
+
+“I think we can be good friends, you and I.”
+
+Granin did not return his expression.
+
+“I don’t,” he said.

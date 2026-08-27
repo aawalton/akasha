@@ -1,0 +1,97 @@
+---
+id: 3b29902c-a2f1-5ac1-bb03-d0cda2db4178
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1528 - The Legion Deploys"
+slug: 0176-chapter-1528-the-legion-deploys
+partOf: chrysalis
+position: 176
+ownLength: 965
+unit: words
+ownProgress: 965
+publishedAt: 2025-03-13
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2122961/chapter-1528-the-legion-deploys"
+royalRoadId: "2122961"
+markedReadAt: "2026-06-29T19:49:28.362Z"
+---
+
+Commander Chyron was not enjoying her time. The Legion had tasked her with destroying a potential Ancient, a monster subject to the call, and she had pursued it to the best of her ability. Only now she found herself locked in a fortress surrounded by millions of monsters during a wave.
+
+Not only could she not attack the target she had been given without ensuring the death of her entire Legion, the blasted creature was growing stronger by the day! Every inspection of the blasted monster’s core showed it was gaining blasted Levels at a steady blasted pace, fighting against the boundless horrors of the fifth.
+
+Meanwhile, her own people were sitting on their hands doing drills.
+
+In truth, Chyron had long ago given up on achieving her mission. Without some catastrophic blunder on the part of the ants, the odds of successfully attacking the beast were abysmal. No, she would do her duty and shadow the monster all the way to the sixth, at which point it would become someone else's problem.
+
+Still, it was frustrating. Chyron and her Legion were more than enough to destroy a tier seven mythic monster under normal circumstances, but this one happened to be surrounded by tens of thousands of other monsters at any given moment.
+
+[The general is available to speak to you now,] a voice rang out in the Commander’s head, and she pushed off the wall, scowling.
+
+Solant was busy, of course she was, but Chyron couldn’t help but feel irritated. It wasn’t the ant’s fault, but her general foul mood was making every minor hindrance stoke her temper.
+
+Chyron caught herself as she was walking through the door, wondering what she was thinking. Since when did she care if anything was the blasted ant’s fault or not? What these monsters thought of her was no concern of Chyron’s.
+
+Inside the chamber, she found the ant general seated on one of the strange ant chairs, munching away on something. The Commander expected it to be a cake slice or some other delicacy, washed down with a refreshing cup of tea. The ants did like their sweets and tea, after all.
+
+To her displeasure, she realised Solant was chewing on Biomass, mincing the material with her mandibles before bringing her head over the food to get a mouthful.
+
+Reminding me what you are. As if I would ever forget.
+
+Nothing the general did was ever an accident or coincidence. She wanted Chyron to see her like this, behaving as a monster should.
+
+In short order, their minds were connected, and the Commander wasted no time.
+
+[I want my people in the fight. What are your conditions?]
+
+[We don’t need you in the fight,] Solant replied coldly. [Your information has proven to be useful, but we are quite capable of defending the fortress on our own.]
+
+[I didn’t say you weren’t able to. I said I want my people in the fight.]
+
+The general munched another mouthful, her large, many-faceted eyes focused on her guest. What was it like, to view the world that way, the Legionary wondered. Not just to see the world broken into a thousand shards, one for each lens, but as a monster, where almost everything on Pangera was just food to make you stronger.
+
+One day, the Colony would turn on their allies, driven by hunger and a will so much greater than their own. Chyron was as certain of it as she was her own name.
+
+[Are your people prepared to fight alongside monsters? Alongside those who are loyal to the Colony?] Solant asked. [I doubt your single Legion would be able to hold a platform on your own.]
+
+Chyron bared her teeth.
+
+[Want to bet?]
+
+The men and women in her Legion were as tough as abyssal steel and twice as deadly. The fifth held no fear for her.
+
+[Really? You are willing to hold a platform by yourselves? For how long?]
+
+[Indefinitely,] Chyron stated without hesitation. [We don’t need to be relieved.]
+
+[With only five thousand combatants? How will you rotate out your fatigued soldiers? I’m sure you’re aware that the onslaught never stops out there.]
+
+Solant didn’t sound doubtful, only coolly polite as she continued her meal. Chyron narrowed her eyes.
+
+[We are the Deep Legion,] she stated simply.
+
+Solant waited for more words from the woman, but when none came, she simply nodded. It was time to measure the worth of this Legion. They would be her opponent in the future, of that she was sure. She should learn what she could while she had the chance. Preparation was nine-tenths of victory, after all.
+
+[We will provide medical support, along with a battalion of reserves. This is non-negotiable,] she said, cutting off the Commander before she could speak. [Should a single platform fall, the entire fortress will be compromised.]
+
+[How many in a battalion?]
+
+[Ten thousand. Ants and support militia. Will that be a problem?]
+
+Chyron chewed on it for a moment.
+
+[No,] she declared finally. [As long as they follow orders.]
+
+[I can guarantee that.]
+
+[Then we have a deal. Where do you want me to deploy and when?]
+
+[Now,] Solant said.
+
+She made no gesture, but another ant stepped into the room in that moment, a folder gripped neatly in its mandibles.
+
+[Here are the details of your deployment. Your Legion will need to shift their billets to the chambers indicated in the documents. You have twelve hours to prepare yourselves before the troops on that platform rotate off. I look forward to seeing what you can do.]
+
+As if Chyron didn’t realise what the ant was doing.
+
+[Enjoy the show,] was all she said before turning on her heel and striding from the room.
+
+Mana burned in her veins. She needed a good fight.

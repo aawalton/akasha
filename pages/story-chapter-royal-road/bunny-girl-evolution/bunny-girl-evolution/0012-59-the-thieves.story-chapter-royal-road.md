@@ -1,0 +1,250 @@
+---
+id: 52311f08-db85-5876-817d-af5bb43d4468
+page-type-slug: story-chapter-royal-road
+title: "59 - The Thieves"
+partOf: bunny-girl-evolution
+position: 12
+ownLength: 2679
+unit: words
+ownProgress: 2679
+publishedAt: 2024-12-31
+link: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/1983194/59-the-thieves"
+royalRoadId: "1983194"
+markedReadAt: "2026-06-29T20:03:03.039Z"
+---
+
+Penelope set Elise down, then drew her sword and marched toward the open door. Elise thought to herself that she would have chosen a stealthier approach, but in full plate armor, there was no way that Penelope was sneaking up on anyone. Elise hopped behind, though she maintained a few steps’ distance. She didn’t want to get caught in the crossfire of whatever might happen in the room, and if whoever was there managed to get past Penelope, then Elise would be there to attempt to stop them. However, it turned out that there was no need for that.
+
+“What are you doing in here?” demanded Penelope as she marched inside.
+
+Elise heard a pair of gasps followed by a brief struggle, that ended in two slams, one much louder than the other.
+
+“I’m sorry!” wailed a young boy’s voice. “I’m sorry!”
+
+“Stop crying!” said another voice, this one sounding like it belonged to a young girl. “Just kill us already, knight lady!”
+
+“Nooooo!” screamed the young boy.
+
+“I’m not going to kill you,” said Penelope. “But you might wish I had if you don’t tell me what you were doing in here.”
+
+“I’m not sayin’ nothin’,” said the girl.
+
+“We were stealing!” said the boy.
+
+“Shut up, Marco!”
+
+“How old are you two?”
+
+“I’m 9!” said Marco.
+
+“Marco!” said the girl. “Stop tellin’ her everything!”
+
+“Where are your families?” asked Penelope.
+
+“I ain’t gotta family,” said the girl. “Marco neither.”
+
+“Is that true?”
+
+“No!” said Marco.
+
+“Marco!”
+
+Elise had heard enough. She roughly understood what was going on, and while she didn’t think that Penelope was the type to take things too far, Elise wanted to go in herself to make sure. She took a quick step back, glanced around to make sure there was no one watching, then transformed into her human form and stepped inside.
+
+The scene inside was not quite what she had imagined. Penelope had indeed pinned both of the thieves to the ground next to the bed, but the two thieves didn’t look at all like she had imagined they would. The boy who was allegedly 9 looked like he was taller than Elise, while the girl had a small pair of gray-feathered wings splayed out behind her on the ground. Both were wearing filthy rags, and looked unhealthily thin. {Inspect} identified them as a [Giant] and an [Ainar], respectively, and neither had any levels associated.
+
+“Thieves?” asked Elise.
+
+Penelope glanced back, a hint of surprise in her eyes as she saw Elise’s human form.
+
+“Yes,” said the knight. “Can you close the door?”
+
+“Of course,” said Elise, doing just that.
+
+“I’m going to let the two of you up,” said Penelope, turning toward the children. “Don’t try to run. I believe you both already know that it won’t work. You understand?”
+
+The boy nodded, tears running down his face, while the girl just glared defiantly. Penelope glared back for a few seconds until the girl’s defiance withered, and she gave a meek nod as well. Penelope slowly stood up, letting the children up. Both immediately sat up and scrambled backward to the wall away from the knight, where they stopped, hugging their knees. Penelope looked back at Elise with an unspoken question, that Elise responded to with a slight shrug. She didn’t know what to do either.
+
+“Why were you two trying to steal from me?”
+
+The girl grunted and hugged her knees tighter, while the boy only started crying harder. Penelope sighed and turned back to Elise, who also sighed before walking over and crouching down in front of the two children.
+
+“There’s no need to be frightened,” said Elise. “We’re not going to hurt you.”
+
+“Yeah, right,” said the girl.
+
+Elise turned to her and frowned, noticing bruising all down her arms, and more on her ankles that were just barely peeking out from her ragged dress. The boy was less hurt, but his body wasn’t in good shape either.
+
+“Not only will we not hurt you, we’ll actually even help you,” said Elise, using {Charm}. “Just close your eyes, and I’ll prove it to you.”
+
+The boy’s sobbing lessened slightly, and he shut his eyes tightly, but the girl refused to close hers.
+
+“Please?” asked Elise with another dose of {Charm}, as well as {Suggest}.
+
+The girl glared for a moment longer before reluctantly letting her eyelids fall. “Fine. Just get it over with.”
+
+Elise waved her hands in front of their faces, making sure they actually couldn’t see anything, then stood up, turned around, activated {Fairy Wings}, then used {Fairy Dust} with healing in mind. It was not the skill’s intended use, so it took a few seconds to see effects, but Elise didn’t stop until the marks on the girl’s arms had vanished. She could tell it took a fairly significant portion of her {Fairy Dust}, but that was fine. It would come back.
+
+She turned back around, and crouched again.
+
+“You can open your eyes now,” she said.
+
+“What did you do?” asked the girl.
+
+“Look,” said Elise, reaching gently for the girl’s arm.
+
+The girl flinched away, raising her hand out of Elise’s reach, but she must have at least noticed the lack of pain, because a second later, she looked up at her own arm in surprise.
+
+“Y-you- you healed me?” she asked.
+
+The boy looked in awe at his own limbs, his tears from the moment before seemingly forgotten. He then proceeded to run his hands along his torso before turning to Elise with his mouth hanging open.
+
+“Are you a healer?” he asked.
+
+“Sometimes,” said Elise. “Now, can you two tell me your names?”
+
+“I-I’m Marco,” said Marco.
+
+“...Annie,” said the girl after a moment.
+
+“Nice to meet you, Marco and Annie. My name is Snowberry.”
+
+“Snowberry?” asked Marco.
+
+“It means something else in my native language.”
+
+Why didn’t I just use that line when I first met Penelope?
+
+“So, would you mind telling me why you decided to try to steal from my friend here?” continued Elise. “I promise that no matter what you say, we won’t hurt you.”
+
+“A-Annie said that we could make a lotta money,” said Marco, sniffling. “‘Cause knights are always loaded.”
+
+Annie turned her eyes away.
+
+“Do you need money to eat?” asked Elise.
+
+“N-no,” said Marco. “The Boss- he says we gotta meet quota. Annie said- she said we could have enough for quota for a month if we stealed from a knight.”
+
+Elise glanced back at Penelope, whose expression was dark.
+
+“The Boss?” asked Elise. “Who’s the Boss? Is he the one who hit you?”
+
+“H-he’s-” started Marco.
+
+“No!” shouted Annie. “We-we can’t tell you about the Boss.”
+
+“Why not?”
+
+“We just can’t,” said Annie. “So just forget about it. Take us to the coppers or kill us, or whatever, ‘cause we ain’t talkin’.”
+
+I somehow doubt that, said Elise, looking at Marco, who was rubbing his dripping nose on his shirt.
+
+“Tell us about the Boss,” said Penelope in a voice so low it was almost a growl.
+
+Elise made eye contact with the knight, and nodded.
+
+“We’re going to pay him a visit,” said Elise. “Can you tell us where he is?”
+
+“N-no,” said Annie.
+
+“Marco?” said Elise, looking at the boy.
+
+“No!” shouted Annie. “Marco, don’t say, nothin’.”
+
+“Is the Boss threatening your families?”
+
+“...no,” said Annie, failing to meet Elise’s eyes.
+
+“If he is, you can tell us. We can handle it.”
+
+“N-no,” said Annie. “You can’t.”
+
+“Why not?”
+
+“B-because… You just can’t!”
+
+For the first time, Annie too looked to be on the verge of tears, so Elise stood up and walked over to Penelope.
+
+“What should we do?” Elise whispered.
+
+“Beat the shit out of the Boss,” Penelope whispered back.
+
+“Shouldn’t we leave that to the ‘coppers’?”
+
+“I’ve seen enough of this city to know that they aren’t gonna do shit. And they aren’t gonna do shit about us if we make a mess. I can go in alone. I doubt some back-alley thug will be strong enough to handle a knight.”
+
+“I’ll help,” said Elise. “I just wanted to make sure that’s what we were doing.”
+
+Penelope nodded, then stepped toward the children, who both flinched away in fear.
+
+“Alright, kids, here’s the deal,” she said. “We’re going to go find this ‘Boss’ of yours and we’re gonna beat him up. We’ll save your families, and make sure you never have to give that guy money again. Okay? But we need you to tell us where he is first.”
+
+Annie and Marco glanced at each other. Annie shook her head, and Marco looked disappointed.
+
+“Please?” said Elise, crouching down in front of them again. “We promise we’ll keep you safe.”
+
+Annie stared at Elise with eyes full of mistrust.
+
+“Please?”
+
+Annie looked away. “He likes to stay at the Shimmering Lotus.”
+
+“The Shimmering Lotus?” asked Elise.
+
+“A brothel,” said Penelope. “I saw it on my way in. I know where it is. Let’s go.”
+
+She turned around to walk toward the door, but at that moment, Marco’s stomach grumbled so loudly that Elise could feel the floor gently vibrating. Penelope paused and turned back to the boy, who was looking embarrassed.
+
+“Does the Boss like to drink at night?” asked Penelope.
+
+“Y-yes,” said Annie.
+
+“Then we should wait until later. For now, how about a meal? Do you like pie?”
+
+Half an hour later, the four of them were in a much nicer part of town, sitting at a streetside table just outside of a restaurant, and chowing down on meat pies. Penelope had changed out of her armor, opting for a simple set of pants and a shirt. Frankly, Elise didn’t see much of a difference between what Penelope was wearing and what she was wearing, but as Penelope predicted, Elise seemed to be drawing much more attention.
+
+Elise knew she was attractive in her human form, and she knew that her absurd Charisma would only make her more so, but she had still underestimated its effects. Nearly every head turned as she walked down the street, and everywhere she went, she could feel dozens of not-so-subtle gazes aimed at her. It was uncomfortable, but it did have a few upsides.
+
+For example, they were able to get a table at the restaurant, despite the owner clearly wanting to turn them away due to Marco and Annie’s appearances. In that part of town, the two stuck out like a sore thumb, and it was understandable that the owner didn’t want them dirtying the restaurant or giving the place a bad image by sitting on the street, but with a little help from {Charm}, he relented. With a little more help from {Charm}, he also “accidentally” brought out an extra lamb pie “for the children”.
+
+When Marco and Annie first saw the food, their eyes widened in disbelief, and they almost seemed afraid to touch it. That fear only lasted about ten seconds though before Marco’s appetite won out and he made his best attempt at eating an entire pie in a single bite.
+
+“Slow down a bit,” said Elise with a light laugh. “The food’s not going anywhere, and we can always order more.”
+
+Elise felt a little iffy about offering Penelope’s money up so freely, since she had gathered the other woman’s financial situation wasn’t the greatest, but she planned on paying her back with the dwarven gold, and Penelope didn’t object, so she carried on.
+
+Annie ate her food a bit more gingerly, and though her hands were shaky, Elise could tell that she had at least been taught some form of table manners, unlike Marco. That made her wonder what the children’s situation was. They were street urchins, but they had families, and families who were too poor to afford good clothes for themselves. Or perhaps their families had the money, but didn’t think that clothing for their children was worth it. Whatever the case, it wasn’t good, and the more she thought about it, the less she liked it.
+
+She decided to turn her mind to the other topic at hand, which was how they would handle the Boss. Penelope wanted to barge in and beat him up, and while Elise was wholly for that plan, she was also a bit worried about the logistics. It was mid-afternoon, so there was still some time before sunset, but she was already nearing a full two hour cooldown on {Lesser Transformation}. If they stayed out too much longer, she might not have it back in time for the raid. It wasn’t entirely necessary, and she would probably even be better off without it, but she still wanted to have all options available if she could.
+
+But how would she transform back into a rabbit with Marco and Annie around? Marco was clearly not one for secrets, and despite her bravado, it hadn’t taken much for Annie to start talking either. She wasn’t sure what the consequences of being discovered would be, but she doubted they would be pleasant. It was best to keep the secret contained to as few people as possible.
+
+In that case, there was really no way that she would be able to head back to the inn with Penelope. There was no way that the other woman would be willing to let the children out of her sight until the attack, and there was no way Elise could transform in front of them.
+
+“Hey, Penelope,” said Elise, swallowing a bite of chicken pie. “I have an errand to run after we get back to the inn.”
+
+Penelope nodded, catching Elise’s pointed look. “That’s fine. I’ll watch over them. Maybe I can get them a bath and some new clothes.”
+
+“Sounds good,” said Elise.
+
+Marco and Annie continued to wolf down their food, but they couldn’t hide the smiles on their faces. Elise was sure that Penelope was running her pockets dry spending so much on them, but it was definitely worth it. Elise would make sure to pay her back double once she converted her dwarven gold to something more universal.
+
+They went through another round of pies before Marco was too full to continue. Both children’s stomachs looked a bit bloated compared to how skinny the rest of their bodies were, but they wore satisfied smiles. The four of them lazed around for another ten minutes before finally getting out of their seats and heading out. They started heading back toward the inn, but two blocks down, they passed a building with steam rising from a dozen chimneys on top, and a wooden sign with a picture of a tub hanging from above its door.
+
+“Let’s stop here,” said Penelope.
+
+Elise looked wistfully at the sign, thinking that a bath sounded really nice, but forced herself to look away to respond to Penelope.
+
+“Alright,” she said. “I need to go run my errand. I’ll see you guys later.”
+
+“You’re going?” asked Marco.
+
+“Only for a bit,” said Elise with a smile. “I’ll see you guys again later tonight. Until then, make sure you behave for Penelope.”
+
+“Okay.”
+
+Elise patted him on the head–something that felt odd, since she had to reach upward to do it– then did the same to Annie before turning and walking down the street. The streets were far too busy to transform, so she started heading back toward the quieter, dirtier side of town. As she got further away from the cleaner streets though, she started to feel uneasy. The constant gazes felt more sinister and the people she saw around her looked much more dangerous.
+
+She went vaguely toward the inn, but made a couple random turns, just in case someone happened to be following her. After about 5 minutes, when she was in the most deserted part of the city yet, and she was sure that there was no one around, she made a sharp turn into a dark alley, and after one final check to make sure she was alone, she transformed back into her rabbit form.
+
+Time to get to work.

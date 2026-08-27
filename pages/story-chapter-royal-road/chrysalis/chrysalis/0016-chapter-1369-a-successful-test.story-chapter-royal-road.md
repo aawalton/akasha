@@ -1,0 +1,85 @@
+---
+id: dd6adf85-5605-5ba4-8ee2-6e6a8445ef3e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1369 - A Successful Test"
+slug: 0016-chapter-1369-a-successful-test
+partOf: chrysalis
+position: 16
+ownLength: 1108
+unit: words
+ownProgress: 1108
+publishedAt: 2024-07-05
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1705216/chapter-1369-a-successful-test"
+royalRoadId: "1705216"
+markedReadAt: "2026-06-29T19:44:09.831Z"
+---
+
+Things are looking pretty decent down here. Well, by ‘things’, I don’t mean the environment, that’s for sure. It still sucks down here. Big time. But, the work of the Colony has been immensely successful. We’ve been able to maintain our foothold here in the fifth for two days, and I’ve spent the last few hours taking a break within the cleansed mana zone, poking the wuffers with my antennae.
+
+Everytime I give them a prod, they wobble like sentient jelly, wiggling in delight and happily letting out their little ‘wuff wuff wuff’ noises. It’s not as fun as playing with the brood, but it’s a pleasant distraction from the madness going on at the edges of the territory.
+
+“Surely you’ve had enough of a break now, Eldest,” Advant says. “When are you going to get back out there?”
+
+I turn my attention to the powerful, tier six soldier, who is also taking a break from her duties on the frontline.
+
+“By ‘back out there’, do you mean out into the toxic poisonous mana of the fifth? Because, just in case you weren’t aware, I’ve been running in and out of that stuff for days now, and it’s rather draining.”
+
+That’s putting it lightly. When I finally decided I’d had enough and sat down for a rest, I was shocked to discover just how many little pockets of invasive mana had managed to take root inside my body. A single speck of fifth stratum energy is enough to kill me if left untreated, but after the relentless pressure I’ve experienced, even with so many mind constructs monitoring, some was still able to slip through the net.
+
+I managed to purge myself after a great deal of effort, but it was a sobering reminder of just how careful I need to be down here.
+
+“I’m aware of that, Eldest, more than aware.” She looks out at the area surrounding our little bubble, the only pocket of safety amidst an entire stratum of madness and death. The locally spawned monsters are still coming at us as soon as they can, crawling, rolling, clambering, worming their way through the tunnel to throw themselves at the Colony and destroy what we have created. It almost reminds me of fighting during a wave. Not quite, the spawn rate around here isn’t enough to properly mimic the sheer insanity of fighting out in the Dungeon during a wave, but the feeling of being under siege is extremely familiar.
+
+“Do you think they’re ever going to get tired of that?” Advant asks me.
+
+“The slime monsters? No. Though, I expect there are some smarter creatures who can resist the urge to go completely berserk when they see what we’ve done. I expect they still hate it, but they may act a little more carefully.”
+
+The soldier waggles her antennae.
+
+“Do you mean the Krath?”
+
+I shake my head.
+
+“Obviously they’ll be a challenge, probably the biggest, but as far as I know, they aren’t the only smart monsters down here. This deep, there’s sure to be some old monsters with a more intelligent approach.”
+
+“Just another thing for us to overcome,” Advant replies, grim determination clear in her tone. “No matter how many of them there are, they won’t be able to overcome the Colony. We’ll succeed here, I have no doubt about it.”
+
+“Why would you? We’ve decided to do something, so it’s going to get done.” I too cast an eye at the madness still happening all around us. “Eventually.”
+
+The fifth does not want to be conquered, that much is clear. Unfortunately for it, I don’t intend to allow for a choice.
+
+“Do you think they’re going to be satisfied with the progress we’ve made? I notice the boffins have been recording and measuring non-stop for the last few days.”
+
+A particular frenzy has come over them in recent hours in their measuring and testing. I’m not too familiar with all of it, but I know that the main thing they’re interested in is how well the purification process is going. It's the hinge around which this entire operation will swing, and the only reason we’re down here is to see how well our current plans are working.
+
+“How much longer until we leave?” I ask the soldier in charge.
+
+Advant considers for a moment.
+
+“Not long, I think. We pretty much have what we came for. Solant is going to be very interested in all the data we’ve gathered.”
+
+I look over my shoulder to the wuffers, still cheerfully working in the centre of the formation. Without these creatures, we don’t have any hope of success. Fingers crossed, they’re up to the job. It’s been a little eye-opening to see just how small a space five hundred of them can keep pure. I’m not sure exactly what I was expecting, but I was expecting more than this.
+
+Advant notices my gaze.
+
+“I wouldn’t worry, Eldest. The wuffers are still a work in progress. With further refinement, and higher tiers, we’ll see what they can really do.”
+
+“How much refinement is left? I thought they’d been working on them for more than long enough.”
+
+“The organs and processes at work here are extremely complex. The five hundred wuffers we have here aren’t the same, there are three main designs being tested in this expedition. Purification rates and cleansed mana density are all being measured in order to help decide which methods are the most promising for evolution into tier six.”
+
+Man, I’m so glad it’s not me having to put all this thought into things. Because I wouldn’t, and I think everyone can admit that. With a logistical genius like Solant around, and the thousands of mages, generals and core-shapers pouring their efforts into this, I can feel relaxed that the i’s are being dotted and the t’s are being crossed.
+
+“Give it a few more hours,” Advant says decisively, “no need to overstay our welcome.”
+
+I push myself up onto my feet.
+
+“Alright. I might as well get out there again.”
+
+~~~
+
+Zluth’s heart was filled with vicious glee as he returned to the scene of the crime. His tribe had reacted with predictable fury and outrage when he had returned to them. It was difficult to keep the grin off his face as he imagined the painful future in store for the invaders. With his tribe behind him, he rushed to the upper echelons of the stratum.
+
+Slowly, he extended his stalks, keen to see just how far the ants had extended their reach.
+
+And saw, nothing. The insects were gone, leaving no trace they had been here at all!

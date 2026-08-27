@@ -1,0 +1,63 @@
+---
+id: 64ec0fd0-507d-5ae5-9f29-8d07d8a8fff0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1564 - Working Dangerously"
+slug: 0212-chapter-1564-working-dangerously
+partOf: chrysalis
+position: 212
+ownLength: 976
+unit: words
+ownProgress: 976
+publishedAt: 2025-05-02
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2247932/chapter-1564-working-dangerously"
+royalRoadId: "2247932"
+markedReadAt: "2026-06-29T19:50:36.030Z"
+---
+
+As it turned out, it was possible to work with a native, undamaged core from the fifth. It was just a massive pain in the backside for all involved. Led by the fearless Formo, Bella and Ellie worked hard with the battalions fighting on the platform to secure what they needed.
+
+Namely, a monster core that had never touched the cleansed mana.
+
+As it turned out, they were already feeding Biomass from defeated monsters into the intakes on the platforms, allowing the food to be sucked away along with the mana and fed to the wuffers. This practice had led to an unexpected consequence of certain channels getting clogged with food. That didn’t stop the mana from flowing, but it did threaten to break the enchantments and necessitated a fix.
+
+It stood to reason that the battalions could feed a core into the channels as well. They had mechanisms and specially crafted tools to reach out and grab things beyond the safe zone, so why not? It would be difficult, and dangerous, since they were doing it in the middle of an ongoing battle, but it was possible.
+
+Then they needed to speak to Cobalt and Tungstant about creating some sort of catch mechanism to get ahold of the cores before they were whipped away to the wuffers. This was another pain in the carapace, but the two carvers were eventually able to figure out something they thought would work.
+
+Once it was in place, all the core shapers needed then was a place they could work on the cores. After all, the cores could never touch cleansed mana, which meant they needed a work space with tightly contained native energy. Once that was done, they could work on the cores, and then somehow raise the monsters in a containment zone.
+
+Then and only then, would their new pets be ready to fight outside the fortress!
+
+“An awful lot of work, I SAY!” Formo exclaimed. “But perhaps it will prove worth it. We can’t say either way just yet.”
+
+“It’s just a shame that none of it is being done by us,” Bella said regretfully, watching the carvers work at building the spaces that they needed.
+
+“No need to worry. We will have a SMASHING amount of work to deal with soon enough! Have no fears about that!”
+
+And he wasn’t wrong. With the catchment facilities in place, it didn’t take long until the first cores trickled into the waiting bay. Once the workshop was done, an intricately controlled space containing pockets of fifth stratum mana, the cores were dropped into the separate workstations, ready to be manipulated.
+
+Since it was necessary to touch a core to obtain the best results, they required specially produced, heavily enchanted gear that would allow them to carefully extend an appendage into the foulness in order to work on the cores.
+
+For the ants, that naturally meant antennae coverings, but for Formo, a special glove was made. With so many steps completed, all that remained was to get to work on the cores themselves and try to come up with a viable design.
+
+Formo, as the most experienced by far, was the first to make an attempt. With confidence, the sophos used the sealed glove to extend a single claw into the contaminated space, tapping it on the core, and then growing still. Bella and Ellie watched with bated breath as he worked his powerful mind on the core, only to jump in the air when he burst out with a loud exclamation.
+
+[ABSOLUTELY FILTHY, I SAY!] he roared across their mental link. [PHAW AND BALDERDASH!]
+
+He withdrew his hand and shook it as if some vile substance clung to his skin, although his body had never come into direct contact with the contamination.
+
+[What’s wrong?] Bella asked, worried. [Was the containment breached?]
+
+[No,] the sophos replied sourly, [it’s the core itself. Tainted and corrupted right to the heart of it. I could feel it trying to reach into my mind while I was working on it. INSIDIOUS AND FOUL THING!]
+
+[Does that… does that mean it’s impossible to create a fifth stratum pet?] Bella asked, despondent.
+
+If even the cores were so tainted as to try and corrupt the mind of someone working on it… what would happen if a core shaper actually reconstituted the monster? A permanent mental link would be created between them, possibly another avenue for the fifth to attack? Would a loyal fifth stratum pet infect its master without even trying to?
+
+[I DON’T GIVE UP THAT EASY!] Formo declared. [The FIRST thing we need to do is find the elements of the core related to this BLIGHTED CORRUPTION and manipulate them in a way that makes them safer to handle. It’ll be BLOODY DIFFICULT, but it’s a necessary step. The two of you can work on the problem as well, just make sure you aren’t in contact with it for too long. BAH!] he exclaimed, shaking his hands. [DISGUSTING thing to do to monsters.]
+
+So the three of them got to work. One by one, they identified the hurdles and made progress towards solutions. The cores of the fifth stratum monsters were unlike anything Bella and Ellie had ever seen before. The cleansed cores they’d worked with had wiped out vast sections of information contained inside, and now those sections were filled with malevolent corruption.
+
+Navigating that toxicity while making just the right tweaks was a mind-bending, dangerous task that they doubted they could trust to any but the finest core shapers in the Colony.
+
+After days of effort, the first viable core was ready to be turned into a pet. Exhausted, Formo, Bella and Ellie passed it to the next stage of the process, the pet raising area, and collapsed in a heap. Silently and without fanfare, the shadows rose to swallow them.

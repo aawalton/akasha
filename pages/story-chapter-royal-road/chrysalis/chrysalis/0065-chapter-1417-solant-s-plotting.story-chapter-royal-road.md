@@ -1,0 +1,99 @@
+---
+id: 306ca2e5-c9b2-5a97-b199-811500b5e766
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1417 - Solant’s Plotting"
+slug: 0065-chapter-1417-solant-s-plotting
+partOf: chrysalis
+position: 65
+ownLength: 1093
+unit: words
+ownProgress: 1093
+publishedAt: 2024-09-25
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1818861/chapter-1417-solants-plotting"
+royalRoadId: "1818861"
+markedReadAt: "2026-06-29T19:45:42.741Z"
+---
+
+The influence of Solant on the organisation of the Colony is difficult to overstate. Perhaps of all the champions who arose within the Colony, her impact was the greatest, even when compared to Brilliant, or Merchant.
+
+By our very nature, the ants of the Colony formed an effective military. Cooperative, egoless, selfless, unafraid of death, we were able to organise readily, train relentlessly, and confront our enemies with confidence and overwhelming numbers.
+
+Solant was not satisfied with that.
+
+She turned the Colony into a proper military. Every caste was brought into a unified command structure that made the best use of their talents, in ways no other ant had ever dreamed of. It was no longer enough to simply train, gain experience and improve levels. Endless drills, complex formations, backup plans within backup plans, contingencies, redundancies. The exhaustive drive and intellect she possessed was laser focused on one single thing: preparation.
+
+Yes, Solant was the greatest battlefield general the Colony ever produced, but her true power and influence was in reshaping the Colony’s approach to not only battle, but war.
+
+It is due to Solant that we came to be so feared.
+
+-           Excerpt from the private notes of Historiant
+
+Some among her closest advisors, her broodmates who she’d grown up with, considered Solant to be something of a pessimist. They all saw the wisdom in planning for the worst, but she truly seemed to expect it, which appeared excessive to them at times.
+
+To her mind, it was only prudent. If she expected the worst, then she wouldn’t be in the slightest surprised when it almost inevitably happened. Also, she wouldn’t be too shocked when something even worse occurred.
+
+So far, everything to do with the invasion of the fifth stratum had been going according to plan. According to her expectations, that meant that something awful should happen right about…
+
+“General Solant!”
+
+… It was difficult at times, always being correct.
+
+“Make way for the messenger,” she demanded, cool and calm as always.
+
+The forward command post was a hive of activity, not least because it was constantly moving. As the area covered by the purified mana pushed deeper into the fifth, so too did the frontline of the invasion. As the commander, she needed to stay close to respond to any disasters as they took place. Such as now.
+
+The many bustling ants gave way and soon a clearly stressed scout stood before her.
+
+“There has been some form of attack!” she burst out. “Toxic mana is spreading everywhere within the safe-zones!”
+
+What? That shouldn’t be possible…
+
+“How?” she demanded. “Has anyone identified the source?”
+
+“Yes, general,” the scout nodded her antennae frantically. “It’s the vents! Those strange openings along the tunnels. They suddenly opened up and started spewing toxic mana everywhere! Some parts of the invasion force have already been cut off!”
+
+Of course. Even worse than the worst case scenario. If the local Krath hadn’t overplayed their hand so severely, this would be the perfect moment for them to have attacked….
+
+She’d gotten lucky.
+
+Silence fell over the post as Solant sank deep into her thoughts, considering every possibility. Those vents… The Colony had identified them during the first scouting mission but wasn’t able to determine their purpose or function. Why would they open now? What had triggered this event?
+
+It didn’t matter. What mattered now was limiting the damage, preserving the strength of her troops and ensuring the invasion didn’t lose momentum.
+
+“Come with me,” she ordered quietly, and led the entire command group to the model of the fifth. Even now, carvers were hard at work on it, filling in the details, shaving away at sections of rock, or adding new ones as reports came in describing the terrain of the surrounding Dungeon.
+
+“Spread the command that every squad is to engage Shell-Epsilon tactics,” she instructed.
+
+Stop advancing, act as independent, defensive units until further orders arrived. Yet another thing they had extensively drilled.
+
+“This command must reach every battalion and squad, regardless of the state of the tunnels. Am I understood?”
+
+The scout nodded.
+
+“Gather any additional scouts you require outside the command post and coordinate with the staff here. Go swiftly.”
+
+As a result of this order, several of her siblings would die, infected by the toxicity of the fifth beyond any hope of recovery. She hardened her heart. If the messages didn’t get through and the troops didn’t go into the trusted defensive formation, a great many more lives would be at risk.
+
+Until the tunnels were cleansed and every inch of the safe-zone reconnected, every squad was on their own.
+
+“Carvers, mages, up front,” she ordered, and waited as those she needed crawled forward. “We have to do two things as quickly as possible. First, locate every active vent and modify the pipe network to allow intake from them. If necessary, we may need to adjust the wuffer-node layout. It will be up to each team's discretion what course of action they need to take. Second, we need to find every inactive vent, if there are any, and prepare pipe lines to each of them. If they start expelling mana, we have to be ready to siphon it away immediately.”
+
+The situation was bad, but had the potential to become so much worse.
+
+“We have to move quickly. Go now, and send back progress reports every ten minutes.”
+
+Dozens of ants rushed away, already issuing orders as Solant stared at the model, as if trying to discern the future from the hard, cold stone.
+
+“Leonidant,” she called to her trusted broodmate, who leapt to her side in seconds. “You will go to this area and be responsible for coordinating the response.”
+
+She used her front leg to indicate the zone she meant, specifying the exact sections of tunnel at which her sibling’s area of responsibility would end.
+
+“Washingtant, I want you in charge of this section.”
+
+“Juliant, you will take this section.”
+
+“Napoleant, you take this area. Go.”
+
+Those she knew best, and who understood her mind the most, rushed to obey her commands, and Solant sat back, still thinking hard. So long as her troops were able to do as they had trained, this disaster could be overcome. She wasn’t worried about that. Her mind, of course, was busy calculating a new reality. Now that this had happened, what was the new worst thing that could possibly occur? And how could she be prepared?
+
+“Bring the Eldest to me,” she instructed, “I have a task that they are not going to like.”

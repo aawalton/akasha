@@ -1,0 +1,169 @@
+---
+id: a73d0cdd-0db2-5338-960a-6c8876711505
+page-type-slug: story-chapter-royal-road
+title: "197 - A Game of Secrets"
+slug: 0065-197-a-game-of-secrets
+partOf: bunny-girl-evolution
+position: 65
+ownLength: 2972
+unit: words
+publishedAt: 2026-05-12
+link: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution/chapter/3385421/197-a-game-of-secrets"
+royalRoadId: "3385421"
+---
+
+As Elise walked through the tunnel back to the Grays’ house, she suddenly came to a stop, looking down at the new bracelet on her wrist. She had been so lost in thought wondering what kind of danger she might have been in that she forgot that the originator of the bracelet, Freddy, was also a danger to her. She frowned as she looked at it, wondering if there was another purpose to it, or if it even did what Firona said it did. She doubted it, since it would have been an incredibly clumsy thing to do, knowing that Irylax lived in the same house, but she couldn’t just assume that and keep wearing it.
+
+When she got back to the house, she went straight to Irylax and asked her to check it, but, of course, Freddy wasn’t stupid. The bracelet did exactly what it was supposed to do, and nothing else. Despite its size, it actually had a spatial array in it, and that spatial array contained enough mana to power the protective barrier against the full might of a tier 8’s assault for half a minute. Half a minute wasn’t much, but if activated, it would also send out a beacon and set an anchor point to which someone—presumably Freddy—could teleport to rescue her. That part was mildly concerning, but if Elise ever found herself in a position where she had to choose between death and putting herself at Freddy’s mercy, she would choose the latter. Even if he planned to do unspeakable things to her, at the end of the day, she would rather be alive than dead.
+
+After getting an assurance from Irylax that the bracelet couldn’t be used for tracking, and that the anchor point wouldn’t exist until Elise activated the bracelet, Elise thanked the dragon and went back to her room, fidgeting with the bracelet. Her mind was racing with possibilities, but nothing she came up with quite made sense. Why was she suddenly in danger? And in danger to the point that Freddy himself felt he would need to step in, no less. What was about to happen?
+
+The most likely possibility was that some anti-monster group would stage a coordinated assault on Ostra, and given that Elise had indeed been identified by Emmett, she was technically at risk. If Ostra knew that such an attack was coming, though, why wouldn’t they inform her? It made sense not to inform the whole group to avoid causing panic, but Elise was directly in harm’s way, so wouldn’t it make sense to inform her? She was missing a big part of the whole puzzle, and it bothered her, but she did not find it that night, and the rest of the week proved busy enough to distract her.
+
+It was the final week of the semester, which meant final exams. She didn’t bother showing up to the Modern Language exam, but she at least kind of tried for her other two mandatory classes. She didn’t even need to attend those if she didn’t want to, but skipping all her finals just didn’t feel right. And even if she was never a big fan of tests, they provided a soothing touchpoint of normalcy as her life looked like it was about to drastically change.
+
+She was pretty sure she flunked both exams, and she wasn’t exactly happy about it, but with no real pressure to do well, it didn’t bother her much either. She was just glad to put an endcap on those classes.
+
+Intermediate Unattributed Spells only technically had a final, but it took less than a minute to complete. She just had to demonstrate that she had learned all three spells when Professor Dellinger came to check on her, and the rest of the class was spent socializing with Cassie. Unlike Elise, Cassie was very stressed about her finals. She had only figured out {Mana Barrier}, the final spell in the class within the last week, and from the way she talked, every waking hour since had been dedicated to studying for her other classes.
+
+Elise was content to just listen to her vent, half-paying attention while the other half of her mind wandered about the room, idly watching the professor test the other students. Not long after Elises’s own test, she moved on to test Liam Grane, and Elise strongly considered messing with him to make him fail, or at least score lower, but she decided against it. Liam Grane certainly had not changed much as a person from when he had ordered his guard to knock Sophie’s teeth out, but he was learning. Probably.
+
+At the very least, he hadn’t been flaunting his status in class anymore, and he had been fulfilling his end of the bargain to serve her. Elise tried not to be too cruel, only asking him for small things, like bringing her water, or holding the door for her. A few students with grudges had urged her to go further, asking her to do things like make him kneel and beg, and while Elise couldn’t say she wasn’t tempted, she didn’t want to abuse her power like that. She wouldn’t be any better than him if she did that. Instead, she just did her best to make sure he knew what it was like to not be the highest status in the room, and hoped that he developed a bit of humility and empathy in the process.
+
+Basic Magical Combat was a similarly simple test. Less than a minute total of work, and she was done. Elise was quite pleased with her progress, having improved in every category that they graded her on. Not quite as much as Sophie, but considering Sophie’s starting point, it would have been surprising if anyone managed to improve more than her.
+
+Attalaya’s improvement was much less pronounced, since she had started so far ahead of everyone else, but she still did plenty to satisfy the instructor. And in these final tests, Elise was once again reminded exactly how strong the giantess was. She was like a force of nature, unstoppable on offense, and unshakable on defense. They hadn’t been back into the Dungeon together since the incident with the prophecy, but Elise knew that the little wager they had over the Dungeon Competition would not be an easy one to win.
+
+The only final that Elise was actually somewhat worried about was Defensive Gardening. She and Sophie had been caught up in their own individual training, and hadn’t put quite as much time into the project as they probably should have. Or at least, that’s how Elise felt until she saw some of the other final projects in the class. Poor Arthur in the back of the class had never had much talent for nature magic, but even so, his chimera vine attempt was truly pitiful. He only managed to graft three other plants onto it, and not in any particularly clever or novel ways. While Elise felt a bit bad for him, as he presented his creation to the class, she also felt much better about hers and Sophie’s own chimera vine.
+
+Their presentation didn’t go perfectly, and they definitely lost out to a few of the more ambitious students like their deskmate Isabelle, but it didn’t matter, because they had definitely passed with a good grade. And given that Professor Sucri was also their instructor for Fighting With Nature, she didn’t seem too bothered by their only adequate showing. She knew they had other things to worry about, and it was pretty obvious that Sucri cared more about the Dungeon Competition than she did about the class.
+
+After the Defensive Gardening was the final for Aetheric Illusions, and just as Emmett had said on the first day of class, it was a non-issue. It was a real exam, and it covered content from the whole duration of the class, but it wasn’t anything difficult. It was the kind of exam that tested foundational knowledge and mastery, rather than more granular memorized factoids, so for Elise and Sophie, who had not only been paying attention, but also got bonus lessons with Irylax, it was incredibly easy.
+
+In fact, no one in the class seemed to struggle with it. At the beginning of the class, Elise might have expected Leonidas to struggle based on his overall impression, but after spending some time with him in the Dungeon, she knew that he wouldn’t have trouble at all. While he often spoke without thinking, and was somewhat simplistic, he was far from stupid, and had even once let slip that he had better grades than Cassian, who Elise had thought was the smarter of the two.
+
+With the way that the finals schedule had worked out, the Aetheric Illusions was the final final exam for all of them except for Leonidas and Cassian, who actually had to participate in the Dungeon Competition for one of their classes. But since it was essentially the end, they all decided to go out to a celebratory dinner together. Even Hugo and Theresa finally agreed to go. Theresa had dropped her “Three” disguise just a week or two earlier when Jessie finally managed to see through it, becoming the last one to pass the test.
+
+Given the company they were keeping, they chose a rather upscale establishment to celebrate at. With two Larcombes, the Saintess, and Helene being a somewhat high-rank noble herself, anything less wouldn’t do. Plus, these upscale establishments had discretion as one of their selling points, so Jessie could be comfortable in her true form, and they could freely discuss the class without needing to worry about being overheard.
+
+The dinner started off fairly normal and pleasant, but as Elise probably should have expected, it took a turn toward the uncomfortable later on. Not because anyone did anything particularly strange, but because of all the unanswered questions everyone present still had about each other. Many secrets had been revealed over the course of the class, but many had remained hidden, and now that it was ostensibly the last time they would all be together, the students couldn’t help but be a bit more forward than usual with their poking.
+
+“C’mon,” said Leonidas, looking at Samantha. “Just a little hint? Please?”
+
+“Hmmm, I don’t know,” said Samantha with a coy smile. “I don’t feel like it’s fair that I’m the only one who shares. Maybe if everyone else does.”
+
+“You promise?” asked Elise.
+
+“Ha!” said Samantha. “Absolutely not. I make no guarantees. Not with you around. But I will strongly consider it.”
+
+“That’s not enough,” said Helene. “It’s not fair.”
+
+“Life isn’t fair,” said Samantha with a shrug.
+
+“But you know almost everything about us. And you can’t even promise a hint?”
+
+“Appealing to empathy isn’t a good way to get people to spill secrets,” said Samantha, shaking her head in disappointment. “But I suppose a hint or two wouldn’t hurt. Not for free, though.”
+
+“Of course not,” said Elise. “What do you want?”
+
+“I want to be entertained. Why don’t we play a little game? I’m sure we all have a few little secrets that we have yet to share, and a few theories about the others that we aren’t sure about. I mean, even I’m not sure about everything I’ve found. It can be hard to get the full truth without hearing it directly from the source.”
+
+“So what are you suggesting?” asked Cassian. “We can’t share our secret no matter what.”
+
+“You can’t share yours…” said Samantha. “But what about others’? Surely you with your immunity to mental magic have seen a few things you shouldn’t have. And I’d be willing to bet that Jessie knows quite a few things about Eleanor that Eleanor would rather keep quiet. So, how about this: rather than revealing one of your own secrets, we go around the table and reveal someone else’s. The twist is that if you get the secret wrong, you have to reveal one of your own instead. The same goes if the ‘secret’ you reveal is something that everyone present already knows.”
+
+There was silence as nearly everyone shared a cautious glance or two. None of them particularly wanted to reveal anything overly damning, but they couldn’t deny their own curiosity either. Elise herself was actually quite willing to share. This identity would have to go away after the semester was over anyway, so revealing a few things wouldn’t hurt. And while Jessie could reveal some things about her that she would want to keep close, she trusted Jessie enough not to go quite that far.
+
+“What if we don’t know any secrets about the others?” asked Hugo.
+
+“Oh, I highly doubt that you don’t know anything,” said Samantha with a smile. “It doesn’t need to be anything major. For example, let me begin. Hugo, I know that you sometimes pick your nose when you think that no one is looking.”
+
+Hugo flushed a bit, but didn’t deny it.
+
+“How many people here already knew that?” asked Samantha, glancing around.
+
+Elise raised her hand, as did Helene and Three, but no one else did.
+
+“So, that’s a success,” said Samantha. “I pass this round, and next up is now Eleanor. So, do we all understand?”
+
+“I’m willing to play,” said Cassian. “But when I say that Leo and I can’t reveal our main secret, I mean it. We actually can’t.”
+
+“You don’t have to,” said Samantha. “I’m sure you’re under some kind of obligation. But you can reveal some details around it, surely. For example, you could tell us where you’re really from. Or why you really want to go to Carsas.”
+
+Cassian frowned and was silent for a few seconds. He and Leo made eye contact, sharing a silent conversation before nodding.
+
+“Alright, we’ll play.”
+
+“Wonderful!” said Samantha. “Anyone else have any misgivings?”
+
+Not everyone looked completely comfortable, but ultimately, curiosity won out over caution, and soon the game began.
+
+“Helene’s real name isn’t Helene Garter,” said Elise. “She’s actually Helena Wagner.”
+
+It was low hanging fruit, but she knew for a fact that Sophie didn’t know, making it a very safe pick for her to choose. And while she was certain that Helena Wagner wasn’t her real name either, she doubted Helene would be so quick to out herself as a changeling. Not so soon, at least. There was a distinct possibility she would do it later if she got desperate for a secret out of Samantha, but Elise felt that she was safe for the time being.
+
+She was wrong.
+
+“Nope!” said Helene with a smug grin. “My real name is not Helena Wagner.”
+
+Elise scowled.
+
+“Oh, no,” said Samantha excitedly. “Now you’ve got to share something. And it should be on the same level as the secret you tried to spill for her.”
+
+“Fine,” said Elise. “I’m not Eleanor Gray. I’m Princess Eleanor of Corunia.”
+
+“What?!” exclaimed Cassian. “You’re a princess?!”
+
+“Yes. I am.”
+
+“She is!” agreed Sophie proudly.
+
+“Huh,” said Theresa. “I thought you were– Nevermind.”
+
+Elise raised an eyebrow at her, but the other girl didn’t elaborate. Instead, they moved on to Sophie, who excitedly stood up and pointed at Cassian.
+
+“Cassian has a crush on Eleanor!”
+
+Elise looked down with a hand to her face as Cassian turned red and the rest of the table erupted in laughter. Cassian opened his mouth a few times, but no words came out, and eventually he gave a resigned sigh and leaned back in his seat.
+
+“Fascinating,” said Samantha, still chuckling. “But is there anyone here who didn’t know that?”
+
+Surprisingly, Leonidas raised his hand.
+
+“Seriously?” asked Jessie.
+
+“Yeah, I thought he liked you,” said Leo with a shrug.
+
+“Well, Sophie, looks like you got lucky there,” said Samantha. “Alright, Jessie, you’re up!”
+
+The game went around the room, with each new person revealing a slightly smaller secret than Elise had tried to. Evidently, her own attempt backfiring made everyone else more cautious. Jessie went for some low-hanging fruit as well, revealing that Sophie’s personal teacher was a dragon, and Cassian and Leonidas each revealed each others’ favorite colors. Hugo revealed that Theresa wet the bed until she was seven, and Theresa retaliated by exposing that Hugo was scared of snakes.
+
+Helene made no secret of her goal to get as much out of Samantha as possible.
+
+“Samantha is actually 9th tier,” she said confidently.
+
+“Wrong,” said Samantha. “Are you just going to sacrifice your own secrets to try to guess mine?”
+
+“Yes,” said Helene.
+
+“Fair enough,” said Samantha with a shrug. “But you do have to give up another secret now.”
+
+“I’m more than fifty years old,” said Helene dismissively. “Alright, your turn.”
+
+No one had been zoning out, but when it came time for Samantha’s turn, everyone’s attention became hyperfocused on her. While they were all interested in each others’ secrets, Samantha was on a whole other level. Even Emmett himself hadn’t figured out who she was yet, so even the tiniest hint would bring them that much closer to the truth. All that needed to happen was for Samantha to get some of her own guesses wrong, something that happened much sooner than anyone expected.
+
+“Hmmm,” said Samantha, stroking her chin as she deliberated.
+
+She made a show of looking at each person in the room in turn before turning to Elise with a light smile.
+
+“Eleanor,” she said. “You are actually the clone of the king of Corunia.”
+
+Elise heard a small gasp from Cassian, but the rest of the room went silent as Samantha’s faint smile turned into a smug one.
+
+“...No,” said Elise. “That is completely wrong.”
+
+“Huh?” asked Samantha, her expression morphing to confusion. “You’re lying.”
+
+“I’m not,” said Elise. “I am my own person. I am no one’s clone.”
+
+“...Well, shit.”

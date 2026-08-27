@@ -1,0 +1,133 @@
+---
+id: 3763839b-5853-5857-9bd0-88fce6dcdad4
+page-type-slug: story-chapter-royal-road
+title: "162: Walking and Walking"
+slug: 0162-162-walking-and-walking
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 162
+ownLength: 1909
+unit: words
+publishedAt: 2026-06-08
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3509725/162-walking-and-walking"
+royalRoadId: "3509725"
+---
+
+The very first thought that popped into Chloe’s head after hearing that was honestly pretty simple. How does a company acquire an entire realm?
+
+She just stood there staring at Z for a moment while her brain tried to process what she’d just heard. Buying buildings made sense, and buying islands maybe made sense too if you were rich enough. But buying an entire realm sounded less like business and more like some cartoon villain nonsense.
+
+Chloe blinked a few times. “Wait, hold on. You can DO that?”
+
+As if Z somehow sensed the confusion violently bouncing around inside Chloe’s head, she snapped her flip phone shut before slipping it back into her pocket. “To put things in layman’s terms, Divinity Inc possesses an acquisitions department which, functionally speaking, also serves as the mercenary arm of the company. They have apparently deployed agents into Tartarus in order to acquire the realm itself, and I have little doubt they have cooperated with at least some individuals native to this realm in addition.”
+
+Chloe stared at her for about two seconds. “Wow. That sounds like… a lot.”
+
+“That is because it is, and it also means we are effectively operating under a time limit.”
+
+Well, that sounded incredibly stressful. Chloe had never really liked time limits very much since they always stressed her out a little, and time limits were basically never attached to good things anyway. Every single time somebody put a timer on something, it immediately became miserable. Tests had time limits, video game time trials had time limits, even track and field stuff had time limits too, which was one of the many reasons Chloe had hated running laps so much back in school. Time limits were basically just society’s way of bullying people into moving faster.
+
+And now apparently there was a time limit attached to saving an entire realm from being bought by some horrifying corporate empire. Yikes.
+
+Anyway, before Chloe could ask more questions though, Iris suddenly stepped forward. “Then we must head to the gate immediately."
+
+***
+
+Cold mist swirled around Chloe as the world twisted, the air feeling strangely damp and heavy against her skin. The thick cloud of Iris’s mist slowly drifted apart around her and Z, peeling away in thin ribbons as Chloe blinked several times to get her bearings back. Then she looked around.
+
+“Oh,” Chloe muttered.
+
+They were standing near the top of an enormous mountain. Black rocks stretched across the barren landscape around them, there wasn’t a single tree, patch of grass, or sign of life anywhere in sight. And that wasn't even the worst part of all this.
+
+A thick black miasma rolled across the mountain path ahead of them, twisting and curling through the air in heavy waves. It flooded the trail leading upward and spread across the mountaintop itself, clouding the top in darkness. Chloe could barely even see where the path ended because the miasma swallowed everything further ahead. Every now and then, the dark fog shifted strangely, almost like something huge was moving deep inside it.
+
+Chloe slowly turned her head while staring at the mountain peak disappearing into the darkness above. “Wow, this place looks SUPER evil.”
+
+“Your instincts are correct. This place is indeed unsafe.”
+
+Well, at least she was honest about it. Still staring up at the dark mountain peak, Chloe crossed her arms while the black miasma rolled slowly across the path ahead of them. “Cool, cool. Love that for us.”
+
+“However,” Iris continued, “Graham, Raenof, and Sierra have already successfully reached the summit where the gate is located. All we must do now is make our way there as well.”
+
+That immediately made Chloe perk up a little. Okay, good, so Sierra and the others weren’t currently dead.
+
+“Judging by the fact that you did not simply transport us directly to the summit, I assume there is some sort of complication involving this place.” Z said.
+
+“There is,” Iris admitted.
+
+“Once we enter the miasma, we will almost certainly become separated from one another due to the magical properties of this mountain. Space and direction become distorted inside it.” Iris explained.
+
+Chloe blinked. “Wait, seriously?”
+
+“Yes, however, there is a very simple method to safely traverse the miasma.”
+
+“Ooh! What is it?”
+
+“All you need to do is continue walking straight forward and avoid becoming distracted.”
+
+“Huh, is that really it?”
+
+“That is it.”
+
+Well, that sounded suspiciously easy. Before Chloe could question it further, Iris calmly lifted one hand. Magical mist immediately gathered around her fingers, swirling through the air before twisting together into the shape of three floating lanterns. Each one looked old-fashioned and metallic, kinda like the lanterns Chloe remembered seeing in those old winter holiday movies for kids. The lanterns hovered silently for a moment as the surrounding mist curled around their frames, then slowly drifted apart until one stopped in front of Iris, another floated toward Z, and the last settled directly before Chloe.
+
+“The lanterns will continuously move toward the summit,” Iris explained. “Simply follow your lantern and continue moving forward no matter what you may see or hear inside the miasma.”
+
+Chloe squinted hard at the floating lantern in front of her. Then she slowly looked back at Iris with the most suspicious expression imaginable. “This still sounds WAY too easy, but what’s the other catch?”
+
+“The other catch is that there are creatures dwelling within the miasma itself. You may encounter them while making your ascent.”
+
+Well there it was. Chloe knew there had to be another catch somewhere.
+
+“You must protect the lanterns from those creatures,” Iris explained further. “If your lantern is destroyed or lost, navigating the miasma safely will become significantly more difficult.”
+
+Chloe groaned. “Ughhh. Of course there are monsters involved.”
+
+Honestly though, after fighting a giant undead dragon earlier, “protect the magic lantern from spooky mountain monsters” didn’t actually sound that bad by comparison.
+
+Still, Chloe eventually shrugged. “I mean… okay, I guess that’s not too bad.”
+
+Beside her, Z nodded. “It seems relatively straightforward, though I do wonder if we will suffer any ill effects due to the miasma or not?"
+
+"I believe all three of us here are strong enough to not be affected by the miasma too much, at least not just by being in it." Iris said.
+
+"Understood, thank you for the explanation." Z said.
+
+“Then I wish you both you and Chloe good luck."
+
+Iris stepped directly into the black miasma. Chloe watched as the swirling darkness immediately swallowed her lower body first before slowly consuming the rest of her. The silver lantern floating ahead of Iris drifted deeper into the fog, its pale light glowing softly through the thick black haze while her silhouette faded from view.
+
+The whole thing had this mysterious fantasy vibe to it, like the beginning of some super dramatic boss area in a game. Chloe could practically imagine ominous music playing in the background while mysterious lore text appeared on screen.
+
+“Okay, that’s actually awesome,” Chloe muttered.
+
+Then she turned toward Z with a grin. “Alrighty then, let’s g—”
+
+She stopped mid-sentence, because somehow, Z was already gone. Chloe blinked and quickly looked toward the miasma again, only now noticing the faint glow of Z’s lantern already moving deeper through the darkness. Wow, really?
+
+After complaining about Z abandoning her for approximately three more seconds, Chloe finally followed after them and stepped into the miasma herself. Thick black mist curled around Chloe’s legs and drifted across the path in slow waves while her lantern floated ahead of her.
+
+Chloe squinted into the fog as she walked, every now and then the miasma would move strangely, almost like giant shapes were slithering around somewhere deeper inside it, but whenever Chloe tried looking directly at them, they vanished again. But, despite how creepy the mountain looked, Chloe actually didn’t mind the walk all that much.
+
+The miasma probably bothered normal people a lot more, but since Chloe technically didn’t need to breathe anymore, the thick black fog wasn’t choking her or making her dizzy the way it probably should’ve. At worst, it just smelled kinda gross, not that she would know since her nose only cared for brains these days. So instead of freaking out, Chloe mostly just followed behind her floating lantern while casually swinging her arms.
+
+For a while, she simply let her thoughts drift aimlessly while the silver light bobbed ahead of her through the fog. She wondered how Sierra was doing up ahead and immediately pictured the poor girl nervously clinging to Raenof while trying not to panic every time the mountain made a weird noise. Then Chloe thought about Raenof himself, which naturally led to her imagining him having some boring conversation with Graham probably.
+
+Eventually though, Chloe’s thoughts wandered back toward herself instead. More specifically, how exactly she’d ended up becoming whatever she was now. Because Chloe still had absolutely no clue.
+
+She knew she was undead. That part had become painfully obvious at this point. But the actual how part remained a complete mystery.
+
+Had somebody intentionally turned her into a zombie? Was she cursed somehow? Did she die one day and just kinda… got back up afterward?
+
+Maybe it had been some horrifying magical accident instead. That sounded pretty believable too. Chloe briefly imagined herself tripping and falling into a giant glowing vat labeled EVIL NECROMANCY JUICE before climbing back out covered in weird magic sludge. At least that would actually be kinda funny.
+
+A growl suddenly echoed through the miasma, deep enough that Chloe could almost feel it rumbling through the mountain beneath her feet, and she immediately stopped walking as the lantern ahead of her continued floating calmly through the darkness. Well, guess it was just a matter of time before something decided to attack me.
+
+Then the growl came again, much closer this time, followed by the sound of several massive things moving through the fog around her as claws scraped against stone somewhere nearby. Shapes shifted inside the black miasma at the edges of her vision, huge silhouettes briefly appearing before vanishing again while rough breathing echoed through the air.
+
+Chloe slowly looked around before groaning loudly. “Oh my gosh, can you guys stop hiding already? Either attack me or don’t, because this creepy stalking thing is getting annoying!”
+
+Almost immediately, the miasma ahead of Chloe violently burst apart as a gigantic wolf-like creature lunged straight out of the darkness with a savage snarl loud enough to echo across the mountain path. The beast easily towered over her as thick black fur rippled across massive muscles. Four glowing crimson eyes burned through the fog above rows of jagged teeth slick with saliva while foul-smelling vapor poured from its mouth with every breath. The monster opened its jaws impossibly wide as it launched toward her head-first like it fully intended to rip her apart in a single bite.
+
+Chloe jerked backward at the last second just as the creature’s jaws snapped shut inches from her face with a deafening crack powerful enough to spray bits of shattered stone across the ground. The beast crashed behind Chloe, its massive claws digging deep grooves into the ground. But when Chloe turned to face the creature, she saw how behind the monster, more glowing crimson eyes slowly began appearing one by one deep within the miasma.
+
+Ooh, that's uh, that's a lot of monsters. Chloe thought to herself.

@@ -1,0 +1,65 @@
+---
+id: 45dbb1bd-c0ef-59c1-934a-83769a31cec3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1629 - Downfall"
+slug: 0278-chapter-1629-downfall
+partOf: chrysalis
+position: 278
+ownLength: 977
+unit: words
+ownProgress: 977
+publishedAt: 2025-08-22
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2537452/chapter-1629-downfall"
+royalRoadId: "2537452"
+markedReadAt: "2026-06-29T19:52:42.425Z"
+---
+
+“Where is Zluth?” Soluzz bellowed.
+
+The other Krath’lath had remained close to him, cowards and fools, all of them, but at least he had seen Zluth out fighting. That scout had shown he was a capable Krath’lath, though still young, and Soluzz had plans for him, a pawn to extend the power of the Zissth even further, but now he was nowhere to be seen.
+
+“He ran away,” Ulizz spat, “fled to preserve himself.”
+
+Soluzz glared at the Krath’lath of the Bulg. Useless and weak, the slug had conserved what power he had even to this point, perhaps waiting for Soluzz to grow weak so he could turn on him and try to seize control of the Zissth. A useless effort, as Soluzz could smash the weakling even if he was half dead.
+
+“You expect me to believe he ran away while you remain?” Soluzz spat.
+
+He turned his furious glare at the others around him, including Mulzoz, leader of the Lirz, and Puzzith of the Suggoth.
+
+“You’re useless,” he ground out through his clenched fangs. “Cowards and traitors. You call yourselves Krath?!”
+
+Despite the fury that burned in his veins and sizzled his flesh, Soluzz could see that the heart was all but lost, a fact that stung him so fiercely the pain of it was greater than the acid within him. It was all he could do not to start lashing out and feasting on the weakling leaders around him. He would need them, for a little while longer. When he had led the survivors of his tribe to a new slimeground, established a new centre of power for himself, then he would turn on them.
+
+Disgusted by the pathetic display and the possible betrayal of Zluth, Soluzz raised his voice to gather the remaining members of his tribe.
+
+“Fall back!” he ordered. “Regroup in the upper chamber!”
+
+Once the order had been given, he made his own move immediately. Without the slugs actively pushing back against the oncoming enemy, it wouldn’t be long before the lower chamber was lost completely, and he certainly didn’t intend to be the last one in line. Clinging to the ceiling, he pushed and bullied his way forward as the Krath rushed to the relatively narrow opening.
+
+Only for a flood of shining blue fluid to pour down from above.
+
+Horrified, the slugs slid to a halt, though some were already too close. The blue liquid gushed through the opening, spraying drops in every direction. Those Krath closest to the opening fell back, writhing and hissing in pain and fury, their skin sizzling as even a single drop burned into them. Soluzz knew well how that pain felt, and he wasn’t eager to feel it again.
+
+The ants must have cut them off and started flooding the upper chamber behind their backs. It was a trap all along.
+
+A part of him could see how cunning and conniving the plan of the invaders had been, leaving them no escape. It was a very Krath thing to do. Even so, he was the leader of the Zissth tribe, Soluzz! He was as calculating and underhanded as he was powerful. There was still a way out, there had to be!
+
+“This way!” he bellowed. “We have to blast a hole through the wall of the heart, it’s the only way out!”
+
+He led the charge himself, but, for the first time in this desperate battle, he realised that not all of his tribe was following. Seeing the opening to the upper chamber cut off had shaken his people, and some were beginning to panic.
+
+Pathetic fools, he sneered. How had they ever been considered worthy of the heart?
+
+Damaging his own home seemed offensive to Soluzz. This was their Slimeground, the central hub of their territory, a sacred site that contained the pool of the Ancient. Yet, to survive, everything was on the table. As he slid across the ceiling as fast as he could, Soluzz gathered his power again. Summoning the acid from within his flesh and sucking in mana, he wove them together, not to harm the ants or drive back their assault, but to blast a way through the rotten and slime-infested wall of the heart itself.
+
+The slugs around him gathered their strength to aid him, and Soluzz felt his confidence surge. He would survive to fight another day, and next time, he wouldn’t lose. These invaders had struck a blow, had achieved something no one else had in thousands of years, but this would be the end of it. When the tribes were united, there was nothing that could stand against them, not even the whole of Pangera.
+
+The fist of the gorilla came from nowhere, slamming into the ceiling, the enormously thick fingers tearing into the heart. Soluzz turned and fired his magic on reflex, straight into the rage-filled face of the ape-monster. The beast slapped away the spell with its free hand, roaring defiance even as its skin bubbled and burned from the power of the Krath’s acid.
+
+The free arm came back and swung with dizzying speed, but Soluzz was ready, sliding to the side as he hissed in defiance. What he hadn’t accounted for was the sheer power of that punch. The entire heart rocked from the force of the blow, and Soluzz, so close to the point of impact, lost his grip, and began to fall.
+
+He barely had time to realise what had happened, to come to terms with his inevitable death, before he was snatched out of the air by a writhing forest of dark limbs. He tried to expel his acid through his skin, to burn his way free, but he wasn’t fast enough.
+
+The barbs lining the tentacles dug into him, then began to rotate.
+
+Before he even had a chance to scream, Soluzz was no more.

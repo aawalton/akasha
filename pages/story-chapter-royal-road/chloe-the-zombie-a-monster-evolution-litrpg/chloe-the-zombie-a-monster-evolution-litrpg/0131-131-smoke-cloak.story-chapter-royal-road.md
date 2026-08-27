@@ -1,0 +1,155 @@
+---
+id: 65b37a76-81ed-511e-b477-701e9e3f6df3
+page-type-slug: story-chapter-royal-road
+title: "131: Smoke & Cloak"
+slug: 0131-131-smoke-cloak
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 131
+ownLength: 2170
+unit: words
+publishedAt: 2026-03-27
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3200003/131-smoke-cloak"
+royalRoadId: "3200003"
+---
+
+Chloe knew something was up. Those robed people had been weird, and if Iris hadn’t noticed them then she would handle it herself.
+
+The auction was important, but Iris, Raenof, and Sierra could manage without her for a bit. Sitting still while something suspicious slipped away just wasn’t in Chloe's nature, and the longer she stayed put, the itchier she felt.
+
+So she waited until the announcer started talking up the next item and the crowd’s attention focused on the stage. At that moment, Chloe slid out of her seat and slipped through a side door quickly.
+
+The hallway outside was quieter, and she ducked into a narrow service alcove half-hidden behind a decorative pillar and a stack of some random crates. Once she was out of sight, Chloe turned invisible.
+
+Time to go find those shady guys. Chloe thought.
+
+Chloe moved through the halls, a smug grin stuck on her face even though no one could see it. Being invisible always made her feel just a bit buzzed.
+
+The side corridors in general had fewer lights and stuff, though a lot of servants hurried past with trays and papers. Some guards stood around looking bored too, and Chloe slipped between all of them without anyone noticing.
+
+She took her time snooping, peeking into storage rooms, listening at doors, and leaning around corners just because she could. For a moment, she wondered if she’d been wrong, since all she saw were tired workers and very normal hallways. Then she heard running, and from the sound of it, whoever was making the sound was pretty desperate.
+
+Chloe perked up right away and followed the sound, spotting another group of robed figures moving fast down a sloped corridor. Oh, there you are.
+
+She followed them easily, staying just behind, close enough that she could’ve reached out and tapped one if she wanted. They turned into a narrow passage, and with a soft click, part of it slid open, revealing a hidden entrance.
+
+Chloe slipped in after them, pressing herself flat against the wall as the passage closed behind her. The space inside was dark and tight, which wasn't too big of a deal for Chloe since she was used to dark places. And she was good at sneaking too, which was why she could, and did, run up behind the robed guys and listened in to them talking as they ran.
+
+“We need to move faster,” the first one said, clearly annoyed. “The auction is progressing quicker than anticipated.”
+
+“The sword was secured by outsiders,” another replied. “That complicates things.”
+
+“It doesn’t change the plan,” a third snapped. “There are more of us stationed below. Once the final item is presented, we move.”
+
+“And the compass?”
+
+“Already marked by one of our insiders, once the signal is given, we'll make our move."
+
+Chloe tensed as she heard the word "insider", that meant these guys had to have been planning this heist for a long time. And there were probably a lot of these shady people hidden as staff or something inside the Exchange.
+
+It was clear enough to her that these guys were bad news, and she had no plans on letting them continue with their plans so easily. So, she cracked her knuckles and got to work.
+
+Obviously, this wouldn't be the first time Chloe took down some bad guys. But, before she regained her true memories, she kinda just did things based on instincts and the skills she got from eating brains.
+
+Now, however, she wanted to try and have a little bit of fun. So Chloe made sure to remember all the cool moves she could from the best action movies she remembered, like Gun Punch 7 or The Obliterator.
+
+The first guy never even saw her coming. Chloe flashed in behind him and brought her hand down in a sharp chop, dropping him flat.
+
+The second one spun around just in time to get a knee driven hard into his stomach, the impact folding him in half as Chloe grabbed his shoulder, ran two steps up the wall, and kicked off it to slam him backward into the stone. He hit with a dull crack and slid down with a wheeze.
+
+Chloe skidded across the floor to sweep another robed figure’s legs out from under him before popping back up and planting an elbow square into the next guy’s chest, sending him flying into a stack of crates.
+
+Only one was left standing. Chloe caught him by the front of his robe and slammed him back against the stone wall so hard the impact knocked the air straight out of his lungs. She leaned in close as she dropped her invisibility, snapping into view right in his face. “Hi! So, you’re gonna answer some questions for me, like, right now.”
+
+The guy laughed at her at first, and even while she had him pinned, he squared his shoulders as much as he could manage before rolling his eyes. “I'm not talking to some wannabee fighter like you."
+
+Chloe felt her smile twitch at the edges. “Uh-huh."
+
+She pulled one hand back and slammed her fist into the wall right beside his head. The impact boomed through like a thunderclap, stone cracking outward in a spiderweb as dust burst into the air and rained down around them. The ceiling groaned loudly, and tiny chips of rock broke loose and clattered to the floor between their feet.
+
+The guy froze, eyes going wide as he stared at the shattered wall inches from his face. Another crack crept through the stone above them, and he swallowed so loudly Chloe could hear it.
+
+Chloe leaned in closer, still smiling. “Let's try this again, yeah? Talk to me, or I'm going to introduce your face to my fist."
+
+She felt pretty proud of that line, it came straight from Gun Punch 7, when the lead actor was fending off some bank robbers. And luckily, it looked like the line got the desired effect!
+
+“We’re just hired muscle, th-that’s all, I swear. We just grab the items and get out. The compass, the sword… whatever else they want, that's it."
+
+"And who's they?"
+
+“The bosses! Some of them are here too since they wanted to handle certain things personally.”
+
+"And who are your bosses exactly?"
+
+The guy opened his mouth to answer, but then he choked. His eyes rolled back as his body jerked violently, and Chloe saw the man gagging, clawing at his own throat. When his mouth fell open she saw a glowing mark of a sun flaring across his tongue, glowing bright.
+
+The light pulsed once, then vanished, and the guy went limp in her grip like someone had cut his strings. Chloe barely had time to register what she’d seen before his weight sagged fully against her.
+
+She let him slide down to the floor and dropped to her knees beside him, pressing a finger to his neck to check for a pulse, but she got nothing back.  She tried shaking the man, and even calling out to him even though she knew it wouldn’t help. As a last resort, Chloe tried to use her healing too, but that also didn't work. He was dead dead.
+
+Still, at least Chloe got a big clue as to who is responsible for this whole mess. Sol.
+
+She stood quickly, scanning the passage, suddenly very aware of how much time she might’ve already wasted. If Sol was involved, then there was gonna be big trouble.
+
+Chloe turned invisible again and ran back the way she came, racing toward the auction hall. And she almost made it back before everything went wrong.
+
+The ground shook suddenly in a teeth-rattling jolt that threw her completely off balance. Chloe yelped as she went down hard on her butt, sliding a little across the floor.
+
+The walls groaned and dust fell from above, and from beyond the doors she heard it, loud and clear, people screaming. Chloe winced as she pushed herself upright, rubbing her side and muttering, “Oh wow, that’s… not great.”
+
+The shaking lasted a few awful seconds before it settled, leaving behind a buzzing silence that made her ears ring. Chloe scrambled to her feet and hurried forward, slipping through the door toward the auction hall just in time to see the aftermath unfold in real time.
+
+People were pouring out in a full panic, shoving past each other, fancy clothes be damned. Someone slammed into her shoulder hard enough to make her stagger back a step. Chloe blinked, trying to piece together what had happened and how bad it was, her head still buzzing as she took it all in.
+
+Apparently that someone was Iris. She was standing right in front of Chloe, calm and unmoved, like she had been waiting there the entire time while everyone else ran around losing their minds.
+
+Iris’s eyes focused directly on her.  “You can drop the invisibility, I can see you.”
+
+Chloe let out a small huff and dropped the spell, her body snapping back into view as she crossed her arms. “Okay, first of all, rude. Second of all, how can you see me when I was invisible?"
+
+Iris didn’t look impressed. "Experience."
+
+“Oookay, but seriously, we need to move, like, now. I followed some robed weirdos, knocked most of them out, and one of them literally died while talking, which is—”
+
+“Sol’s involved, I know.” Iris said.
+
+“You knew? Then why didn’t you do anything?"
+
+“I noticed them when the auction began and secretly tracked them using my magic. If any of us acted too openly, Sol might have realized that their men  were being watched."
+
+“And now?”
+
+“Now it hardly matters.”
+
+Iris held out her hand. “I’ll take you to where the main threat is, we have bigger issues to deal with now."
+
+Chloe hesitated for half a second, then nodded and grabbed Iris’s hand without overthinking it. Smoke curled up around them instantly, thick and swirling, wrapping around Chloe’s legs and arms as the world twisted sideways.
+
+The next moment, they were somewhere else. Chloe stumbled forward and barely caught herself before stepping into water, then looked around and groaned when she realized where they were. It was a sewer, with old stone tunnels stretching out in every direction and dark, dirty water slowly flowing through the middle. Luckily, they were standing on a raised dry path along the side, because if Chloe’s dress had gone into that water she probably would’ve screamed.
+
+Still, she couldn't help but let out a little, "Ew."
+
+Before she could complain more, Iris shifted beside her as smoke rose again, darker this time. Chloe watched as Iris’s elegant dress dissolved into shadow, reforming into a dark blue hooded cloak, her mask fading away entirely. Purple smoke curled constantly from her mouth now, as it always did when she didn't wear her mask.
+
+Iris turned to her. “You should change too. We’re going to fight.”
+
+Iris stepped forward, and from the curling smoke Cloaky formed in her hand before she tossed it toward Chloe. She caught Cloaky with both hands, relief hitting her right away as she hugged it for a quick second, then cleared her throat a little awkwardly. “Hey, uh, Cloaky? Can you help me change?"
+
+She wasn't sure if it was gonna work, but Cloaky did seem to be able to do a lot more stuff than usual ever since its last upgrade. And to her pleasant surprise, Cloaky seemed to respond to her request.
+
+Countless shadowy hands emerged from Cloaky and wrapped around Chloe, settled for a moment, and when it pulled back, Cloaky was there instead. Chloe flexed her fingers and grinned. “Hurray!”
+
+Iris didn’t wait at all though and ran down the tunnel, and Chloe barely had time to react before she took off after her. “Hey, a warning would’ve been nice!"
+
+Still, Iris didn’t slow down, turning left and right through the sewer. And at one point, Iris stopped so suddenly that Chloe almost ran into her.
+
+They had entered a wider chamber where the sewer split into several paths. The water pooled deeper here, dark and slow, and something about the space made Chloe feel like they were being watched.
+
+Chloe opened her mouth to say something smart, or at least loud, when movement at the edge of her vision caught her attention and made her pause. A figure stepped out from one of the side tunnels, emerging slowly into the open space.
+
+They were hooded and wrapped in dark fabric that swallowed what little light reached this part of the sewer, the material hanging heavy and still around them as their boots touched the stone without a sound.
+
+“Hey,” Chloe called out. “Stop right there!"
+
+The figure did stop. Slowly, deliberately, they raised one hand and reached for the edge of their hood before pulling it back. Blonde hair spilled free, and Chloe’s eyes widened.
+
+It was a face she absolutely did not expect to see here. “…Sabine?”

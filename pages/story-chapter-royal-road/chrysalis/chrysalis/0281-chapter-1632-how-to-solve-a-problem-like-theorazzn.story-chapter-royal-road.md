@@ -1,0 +1,109 @@
+---
+id: 9f14c06a-abf6-5e81-ae35-ecb8978bdc8d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1632 - How To Solve a Problem Like Theorazzn?"
+slug: 0281-chapter-1632-how-to-solve-a-problem-like-theorazzn
+partOf: chrysalis
+position: 281
+ownLength: 1076
+unit: words
+ownProgress: 1076
+publishedAt: 2025-08-27
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2551075/chapter-1632-how-to-solve-a-problem-like-theorazzn"
+royalRoadId: "2551075"
+markedReadAt: "2026-06-29T19:52:48.045Z"
+---
+
+“How bad is it?” Corun asked.
+
+Granin took his hand off the dark purple carapace and grunted.
+
+“I won’t make a song and dance about it. It’s bad.”
+
+Corun looked shocked, but Torrina only nodded, her expression grim.
+
+“What are the options? There has to be something we can do, otherwise you wouldn’t have agreed to come here,” she asked him.
+
+Granin grunted again and folded his arms, thinking.
+
+“It’s not up to us, it’s up to Anthony, and it's up to the Colony. There are things we can do, but only if they let us, and all of them will have consequences. This is a delicate moment for Anthony; we have to respect his wishes.”
+
+There were dozens of healers crawling over the massive ant now, poking and prodding, their minds turned inward, trying to break down the mana within his body, an exceptionally difficult task.
+
+“There are ways he could expel the mana,” Torrina said, stepping up beside Granin, her eyes locked onto his. “You know as well as I do that he can get rid of it.”
+
+“You think I don’t know that?” Granin growled. “Are you going to force him to do it? You know he won’t.”
+
+“He’s a proto-Ancient,” Torrina insisted. “You’ve been charged by Yarrum himself–”
+
+“Stop. Right now.”
+
+Granin scowled, his deep, rumbling voice brooked no argument. Only when his student remained silent, despite her obvious frustration, did he continue.
+
+“I know all of that. There is no one who wants him to come through this more than I do, but it is impossible for us to force him to take the easy way out. Even if we convinced the Colony to help us, he still wouldn’t cooperate. If all of us try to force him, then he will resist, and it will become very dangerous, very quickly. If he’s overcome by the corruption here, inside the fortress, then the cleansed mana will kill him in a matter of minutes and everything is finished.”
+
+[What are you whispering about?]
+
+Anthony’s voice rang in the golgari Shaper’s head, sounding more strained than Granin could ever recall hearing it. It was always strange to hear such a young-sounding voice coming from such a large monster. It was difficult to remember sometimes just how recently he’d been hatched.
+
+[Talking about options to dispense with the mana inside you.]
+
+[I’m taking suggestions.]
+
+[I bet,] Granin chuckled, then grew serious. [Anthony, there are ways… that you could get that mana out of your system. It won’t be easy, but you do have a mutation that will help.]
+
+“Are you talking to him?” Corun asked.
+
+“Yes, I’m talking to him,” Granin snapped.
+
+“Are you going to bring it up?”
+
+“Yes! I’m just being tactful!”
+
+Torrina and Corun both stared at him, eyes full of doubt. Granin cursed under his breath and ignored them. He could be tactful when the situation demanded!
+
+[Your mandibles. You can inject mana into the things you bite,] Granin said abruptly, too irritated to dance around the subject any longer.
+
+The big ant hesitated for a moment, Granin could hear his thoughts turning over, slowly. Almost all of his mental energy was devoted to the war within.
+
+[It doesn’t work like that,] Anthony said slowly. [I can’t inject mana that I don’t control.]
+
+[It would be difficult,] Granin said. [But we could move the mana through your body, not breaking it down, but containing it, and then force it out through your mandibles.]
+
+[Wouldn’t I have to be biting something?] Anthony asked, still skeptical. [Wouldn’t I have to be biting something for like… a long time?]
+
+Those thoughts continued to turn over, until he arrived at the conclusion. As Granin had feared, the reply was immediate.
+
+[No.]
+
+The Shaper felt a deep, desperate frustration. Right in front of him was the monster of his dreams, the hope of thousands of years of cultists all over the Dungeon. Anthony could do it, could become an Ancient, he could feel it, but now that monster was dying. He couldn’t allow it. He just… couldn’t!
+
+Yet, he also refused to force his friend to do something he was unwilling to do.
+
+[There are many who would willingly take on the burden for you. I would do it. Gladly.]
+
+[Granin, I’m not going to kill you with toxic mana. Sheesh.]
+
+Injecting mana in this way would require the ‘victim’ to be very still, for a very long time, and accept the poison coming their way, since Anthony didn’t have direct control over it. They couldn’t use a monster as a sacrifice, it had to be a volunteer. Anthony had figured it out, and flatly refused.
+
+[Well, there goes that idea.]
+
+[Thanks for trying.]
+
+“He said no, didn’t he?” Torrina asked when she saw the grumpy look on Granin’s face.
+
+“Of course he did. We all knew he would.”
+
+The faces of all three fell as they contemplated their next steps. In silence, they thought, as the ants around them continued to climb and fuss over their Eldest. Despite their silence, it was easy to see how agitated they were. The insects were jittery, hesitant, moving back and forth, as if they didn’t truly know which way they needed to go.
+
+Granin raised his head, looking at the huge ant, laying on the ground beside them. The bridge between them was still connected, and distantly he could feel the turnings of the monster’s mind. He was focused inward, as was natural, with only very superficial thoughts running through his head.
+
+Then, out of nowhere, there was a blast of emotion. At first, a wave of confusion, followed by fear. They came so quickly, one after the other, sharp and profound. Granin snapped his head around, wondering what had happened to provoke such powerful emotions in the big ant.
+
+Then, burning away the fear, came a hot wave of anger, searing and scalding.
+
+Before Granin could react, he felt the world around him change, a storm of mana that rolled through the chamber. Up became down, down became up, and he fell to the ceiling, flailing in the air along with all the ants, Corun and Torrina. Pressed to the roof, Granin struggled back to his feet, looking down on the giant ant below, who stood up, brimming with fury.
+
+Anthony clacked his mandibles sharply, and Granin could only turn to look at the members of the Colony struggling alongside him.
+
+“What did they do?” he wondered.

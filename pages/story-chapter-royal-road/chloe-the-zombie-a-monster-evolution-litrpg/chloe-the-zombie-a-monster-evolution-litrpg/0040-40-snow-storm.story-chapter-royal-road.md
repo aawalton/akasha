@@ -1,0 +1,155 @@
+---
+id: 4d414978-0109-52d7-901e-cb898d6bbc6f
+page-type-slug: story-chapter-royal-road
+title: "40: Snow Storm"
+slug: 0040-40-snow-storm
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 40
+ownLength: 2174
+unit: words
+publishedAt: 2025-09-26
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2630760/40-snow-storm"
+royalRoadId: "2630760"
+---
+
+Chloe had been walking east of the village for, like, forever. Then boom, snow decided to attack her. Not cute, fluffy snow either, but a full on angry storm of snow that covered the entire area she was walking in.
+
+Cloaky whipped around like it was trying to run away, and every step sank her knee-deep in snow till her legs felt like frozen sticks. Why does my butt feel like it’s about to fall off?
+
+Despite this, she trudged on through the snow. She had no idea how long she’d been walking anymore. Ten minutes? An hour? A day?
+
+Hard to tell when everything looked the same, white, more white, and then a little extra white just to be sure. The storm wasn’t letting up either.
+
+Chloe's whole body felt stiff. Okay, this is actually bad. Like, bad-bad. If I freeze, then how am I gonna eat all the brains?
+
+She squinted into the swirling white, but she could barely see ahead. The storm kept howling, drowning out everything except the constant crunch of snow underfoot and the icy whistle around her ears. Finding shelter felt impossible.
+
+Still, she had to find something, anything. A tree, a hole, even a big rock she could crouch behind. Well, maybe not a tree, since there weren't any around here.
+
+Then, out of nowhere, a genius idea hit Chloe right in the brain. Monsters loved caves.
+
+Big scary ones always had some hole in the ground to lurk in. And if there were monsters hiding nearby, maybe she could sniff them out. Or, well, sense them out. It was time to break out the ol’ mana sense.
+
+Unfortunately, Chloe's first try ended with her brain going fuzzy because stupid snowflakes kept stabbing her eyes, making her blink a lot. She groaned, shook her head hard and even gave her own cheeks a few slaps for good measure. Focus, Chloe, focus. No dying from snow today.
+
+She tried again. This time she pulled her thoughts inward, like slamming a door on the storm.
+
+Chloe forced herself to ignore the freezing wind clawing at her skin, the sting in her nose, and the fact that her rear still felt like it was about to fall off. Instead, she pictured her awareness stretching outward, weaving through the storm, poking around for anything big and mean that might be hiding.
+
+At first, Chloe got nothing. So, she gritted her teeth and pushed harder, forcing her senses outward while the wind shoved at her shoulders like it was trying to knock her concentration loose. There had to be something out there.
+
+After a while, Chloe finally picked something up. A spark way out in the distance, faint at first but steady, like a heartbeat in the dark. A mana core, throbbing with power so strong it almost drowned out the storm once she locked onto it. Definitely not human. This was a monster.
+
+Common sense said walking straight into a monster’s nest was a terrible idea. But Chloe was already about two minutes away from face-planting into the snow and never standing back up. What else was she supposed to do, just keep stumbling around until she froze?
+
+The more she thought about it, the more it sounded like a win-win. If Chloe played it right, she’d get shelter from the storm and maybe a tasty monster brain on top. Eating was always better than freezing. Honestly, it wasn’t even a hard choice.
+
+Decision made, Chloe adjusted Cloaky around her shoulders, then she started trudging toward the mana core. It wasn’t easy.
+
+Every step was a struggle, her boots sinking into snow that wanted to trap her in place. The wind shoved her sideways, and more than once she had to throw her arms out to keep from toppling over.
+
+Finally, through the blur of white, Chloe saw it. A black smear on the endless sheet of snow. She blinked, rubbed her eyes, and squinted hard. Yes! A Cave!
+
+Chloe lurched forward, half-running, half-stumbling as the snow tried to drag her down. Her legs burned, her teeth rattled, but she didn’t stop.
+
+By the time Chloe finally stumbled into the cave, she practically collapsed. She threw herself forward and landed on her hands and knees.
+
+The wind’s scream dulled into a muffled howl behind her, and though the stone floor was still freezing, at least it wasn’t trying to bury her alive anymore.
+
+Chloe smacked Cloaky a few times to shake off the snow before flopping it back over her shoulders. The cave was way too quiet, and that never meant anything good.
+
+As she wandered further in, she spotted the remains of six unlucky humans. Adventurers, maybe? Hard to say, since most of them were just torsos with a few limbs tossed around. Calling them corpses was being generous. None of them even had heads.
+
+Chloe winced when she spotted what might’ve been a skull behind a rock, smashed in like it had been chewed or stomped on. Definitely not snack material.
+
+She was about to poke at the mess, when suddenly, a growl rumbled through the cave. Chloe tensed as the growl rumbled louder. Then, a monster stepped out of the shadows.
+
+It was massive, every bit of its body wrapped in sharp scales that looked like it was made of ice. Frost puffed out of its jaw with every hiss, curling into the air in little clouds. Ooooh… this creature looks so cool. Looks like some kind of giant ice lizard.
+
+The monster hissed back, then roared, shaking the entire cave. Dust rained down from the ceiling, and the air dropped even colder.
+
+Chloe only smirked, planting her feet as she raised her hand. “Alright, frosty. Let’s see how you like this.”
+
+Mana flared hot against her palm, fire blooming alive in a swirling ball of flame. With a snap of her wrist, she hurled it forward. The fireball screamed across the cave, bursting against the monster’s icy scales.
+
+The lizard screeched, recoiling like the flames cut deeper than any blade could. Chloe cackled loudly. Ha! Fire beats ice!
+
+Since that first fireball worked so well, Chloe just kept chucking more. Each one lit the cave in bursts of orange.
+
+The ice lizard hissed and recoiled every time, its tail smashing into stone, as it scrambled back. Chloe chased after it, tossing fire left and right. Things were starting to feel a little too easy.
+
+But then the lizard stopped running away from the fire. Its glowing blue eyes narrowed, and Chloe froze mid-throw. That was definitely not good.
+
+The next fireball smacked into the lizard’s chest and fizzled out, leaving behind nothing but a damp patch that froze solid again in seconds. The creature shook itself, frost scattering, and the roar that ripped free sounded less afraid this time and way more annoyed.
+
+Then it dropped its head and charged. Chloe yelped, hopping backward with arms flailing.
+
+She threw up her hand and conjured a chunk of rock, writhing with black energy. With a sharp flick, she hurled her Cursed Rock Shot straight into the monster’s face.
+
+The stone cracked against icy scales, sending chips flying. The hit worked, but instead of slowing down, the lizard only roared louder. Its claws tore at the ground as it barreled closer.
+
+Chloe spat hard, acid sizzling across the air until it splattered against one of the lizard’s glowing eyes. The monster shrieked, jerking back as black smoke hissed from its ruined socket.
+
+She let out a proud smile. Yes! I did—
+
+But Chloe didn’t even get to finish before the lizard's claws slammed into her chest. The blow launched her straight into the cave wall.
+
+Cloaky flopped down over her face in the most dramatic way possible while she slid to the ground in a heap. Ughhh… that wasn't good.
+
+Alright, so the ice lizard hit harder than Chloe thought. Fine. She’d just hit harder back.
+
+Suddenly, the air shifted. The cold cut sharper as the ice lizard’s chest swelled, its one good eye glowing bright as frost mist built at its jaws.
+
+Chloe actually felt excited seeing this. It looked like the lizard was pulling off one of those “breath attacks” that dragons used. Which made her wonder, was this thing just some overgrown lizard, or was she fighting a baby dragon? Hard to tell, but whatever. She had bigger problems to deal with, like not dying.
+
+The creature opened its jaws wide, and a torrent of icy energy exploded out. A cone of freezing death rushed toward her, the roar of it rattling loose chunks of stone from the ceiling.
+
+Chloe yelped and dove sideways as the blast screamed past. The ground where she’d just been standing froze solid in an instant, jagged icicles stabbing upward.
+
+She rolled to her feet, and a sharp laugh burst out of her throat. “Hah! Close one.”
+
+But before she could celebrate too much, something weird happened. The lizard stopped moving entirely for a few seconds. Its whole body locked up, tail twitching once, twice, and then without a single warning, it spun and ran away as it scrambled straight out of the cave.
+
+“Wait, what? No, no, no, you don’t get to run away! Get back here!”  Chloe's shout echoed through the cave, but the lizard was already too far gone.
+
+Chloe stood there frowning, arms crossed tight, her foot tapping sharp against the stone. Why’d it run? As much as she hated to admit it, the lizard had been giving her way more trouble than she liked. No reason for it to run like that.
+
+But then, a voice echoed from deeper in the cave. “…Are you alright?”
+
+Chloe froze, shoulders stiff. Her eyes narrowed, and she crept towards the voice. Whoever was in here, it definitely wasn’t gonna be good news. She could feel it in her gut.
+
+The deeper she went, the clearer the shape became. Then she stopped dead, blinking hard, like her brain needed a second to catch up with what her eyes were seeing.
+
+A woman stood in the dark, pale robes flowing around her like drifting snow. Her hair was long and white. But her eyes were the freaky part, pale yellow with slit pupils like a snake’s. Scales shimmered across her face, neck, arms, and legs.
+
+And then there was the hat. White, just like the rest of her, tall and pointy too. Sort of like a wizard’s hat.
+
+There weren’t exactly a lot of magic people hanging around here, so Chloe only had one good guess who this lady was. “You’re Ynett, aren’t you?”
+
+The woman chuckled like Chloe’s suspicion actually amused her. “Yes, I am. And what should I call you?”
+
+Chloe didn’t bother answering. She just pulled her fist back, ready to swing.
+
+But then, something weird slithered over her. It was kinda like that gross feeling when Sabine stared at her with those creepy golden eyes, except this time it wasn’t as gross. More like something was worming its way into her head, like little invisible fingers poking around in her brain. Ew.
+
+However, gross brain-poking or not, Chloe wasn’t about to let it stop her. Black tendrils snapped out from her wrist, tearing her hand loose and flinging it forward. Her knuckles crunched right into Ynett’s jaw, sending the witch flying back until she slammed into the cave wall with a loud crack.
+
+Dust rained from the ceiling. Chloe flexed her empty wrist as the tendrils reeled her hand back into place. Maybe this Ynett lady wasn’t all that tough after all. Probably just scary when she had minions to boss around.
+
+But then she blinked. And there Ynett was again. Standing right in front of her. Perfectly fine, like the wall-smash thing hadn’t even happened.
+
+Ynett tilted her head. “I’ve never seen anything like that before. What was that attack?”
+
+Chloe narrowed her eyes. Talking wasn’t going to get her anywhere. Her gut twisted with a sharp little warning, if she didn’t kill Ynett fast, things were going to get bad.
+
+She raised her hand. A jagged chunk of rock tore itself into being, dripping with crawling black energy. With a flick, the Cursed Rock Shot cracked against Ynett’s chest.
+
+But when Chloe blinked, Ynett stood there again, untouched. How is she doing that?
+
+Next, flames roared to life in Chloe's palm. She hurled the fireball, and the cave flared orange as fire exploded across Ynett’s robes. Stone glowed, smoke hissed, sparks showered everywhere.
+
+And when it all died down… Ynett was still standing. Chloe was really starting to feel worried now, but maybe she just had fire resistance? Yeah, that had to be it.
+
+So she ran forward, drawing her sword at the same time. In a few seconds, Chloe drove the blade clean through Ynett’s chest. She twisted hard, blood splattering as the weapon dug deeper.
+
+But when she blinked, Ynett wasn’t hurt at all. She was standing a good distance away, smiling like Chloe had done nothing the entire time. “Are you finished?”

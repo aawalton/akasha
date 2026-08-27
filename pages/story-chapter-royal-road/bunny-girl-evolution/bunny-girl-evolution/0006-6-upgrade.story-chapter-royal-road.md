@@ -1,0 +1,196 @@
+---
+id: 56866a8a-a5ee-5bdc-846a-209b99a64069
+page-type-slug: story-chapter-royal-road
+title: "6 - Upgrade"
+partOf: bunny-girl-evolution
+position: 6
+ownLength: 2422
+unit: words
+ownProgress: 2422
+publishedAt: 2024-08-01
+link: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/1741100/6-upgrade"
+royalRoadId: "1741100"
+markedReadAt: "2026-06-29T20:02:51.373Z"
+---
+
+“Sophie!” Sylvanna pounded on the door for a third time. “Breakfast time!”
+
+Sophie replied with an incomprehensible mumble, muffled by the solid oak door. Sylvanna knocked one more time before opening the door. The room was mostly clean, save for the two books left open on the desk and the bedsheets which had been gathered at the center of the bed in a vaguely human-shaped lump.
+
+“So-phie,” she sang. “It’s time to wake up.”
+
+There was no response.
+
+There was only one way to solve this problem.
+
+She grabbed the sheets, and tore them away to reveal her daughter, one hand grasping blindly for the sheets, and the other wrapped around the white rabbit. The rabbit looked at Sylvanna, as if begging to be rescued from the girl’s less-than-gentle embrace.
+
+“Sophie,” she said. “The sun’s been up for an hour now. It’s time to wake up.”
+
+“Iowanna,” said the girl, rolling over to face the wall.
+
+“How many times have I told you not to stay up all night reading?”
+
+“Nnnnnnhhh.”
+
+Sylvanna reached down to extract the rabbit, causing another round of blind grasping from the girl.
+
+“If you want to play with her, you’d better wake up soon. We were going to name her today, remember? If you don’t hurry, I’ll be doing it without you. I was thinking Madame Fluffybutt would be fitting.”
+
+“Nooo!” Sophie finally sat up, blinking rapidly to clear the drowsiness.
+
+“Then you’d better hurry up and get out of your pajamas and get your breakfast.”
+
+Sylvanna left the room with the rabbit in her arms and went out to the kitchen where she had set out two steaming plates of sausage and a plate of carrots. She set the rabbit down on the table in front of the carrots, which it began to eat with gusto. Sylvanna had to give it to her daughter; the rabbit was indeed cute. Its fur was so white it was almost blinding to look at under the sun, and the way it couldn’t sit still because of the constant twitching of its nose and ears was adorable. Even its ruby red eyes were cute, though she had found them a little unsettling at first.
+
+The rabbit seemed to sense her gaze and slowed its eating. The animal was also strangely intelligent. Definitely one of the most intelligent that Sylvanna had ever met. It could not understand language, but it seemed to understand everything else, including body language and basic trade. She would be lying if she said she wasn’t curious, or even suspicious of its origins, but when she checked its emotions, it only showed fear, and hope, with not a hint of malice.
+
+She reached out to pet it, and check it again, to find it still the same. It stopped moving under her touch, and started trembling slightly.
+
+“Don’t worry, little one,” said Sylvanna with a smile. “I won’t hurt you.”
+
+She wasn’t sure if it was her words or her smile, but the gesture seemed to put the rabbit at least somewhat at ease, and it returned to its food. Sophie arrived soon after, yawning and stretching her arms as she walked down the hallway.
+
+“Mommy, where’s- oh!”
+
+The girl skipped over to the table to pet the rabbit. Unlike with Sylvanna, the rabbit didn’t seem to mind her touch, and kept eating while being pet.
+
+“Eat your sausages before they get cold.”
+
+“Ok.”
+
+Sophie sat down in her chair and started eating, but her eyes never left the rabbit, and in between bites, she would smile at it. Sylvanna herself smiled as she watched both of them.
+
+“Where’s Daddy?” Sophie asked.
+
+“He went out early this morning, remember?”
+
+“Uhhh.”
+
+“We talked about it last night.”
+
+“Oh yeah…” her face turned glum. “Are we really going to have to leave?”
+
+Sylvanna sighed. “I hope not, but if monsters keep spawning, I don’t think we’ll have much of a choice.”
+
+Sophie poked at her food. The rabbit sensed the mood, and its eating slowed as well.
+
+“But on the bright side, your father and I were thinking of sending you to the academy early!”
+
+“Really?” Sophie asked, perking up.
+
+“Yes! You’ve done very well in your studies so far. If you took the entrance examination tomorrow, you’d pass with flying colors! Your father was worried that you’d have trouble making friends, being so young, but there should be a few more students your age, and I know you won’t have any trouble making friends.”
+
+“Can I really go to the academy?”
+
+“Of course!”
+
+“Can I bring her?” She pointed to the rabbit.
+
+“We’ll have to see if the academy allows pets.”
+
+“We’ll at least bring her when we move though, right?”
+
+“Well, we can’t leave her behind in a monster-infested forest, can we?”
+
+“Nope!” said Sophie happily, turning back to her meal.
+
+Sylvanna smiled again, but inside, her heart was heavy. She was trying to act like it wasn’t a big deal, but she had been around long enough to know that a sudden change in monster spawn rates was never a good thing. It had only been slimes until now, but if a mere rabbit had managed to gain enough experience to evolve, they might have to leave sooner than later.
+
+“Have you decided what you want to name her?”
+
+“Yeah! Snowberry!”
+
+The rabbit’s ears straightened, as if it knew they were talking about it.
+
+“Snowberry? That’s an interesting name.”
+
+“It’s because her fur is white like snow, but her eyes are red like a strawberry.”
+
+“It’s a great name.” She turned to the rabbit. “Isn’t that right, Snowberry?”
+
+Elise was very confused when the elvish people started saying her name. At first, she was worried that they had learned something, but as they kept saying that, she realized that somehow, they had independently decided to name her ‘Elise’. She wasn’t sure how that worked out. It must have been some other word in their language.
+
+After breakfast, the mother started to give some kind of lesson to the girl in the sitting room. Elise wasn’t sure what it was about, and even though she tried to listen and learn the language, it was so boring that at some point, she fell asleep in Sophie’s lap.
+
+She woke up around noon as the lesson wound up, and they headed outside to tend to the garden. It was a lot more exciting than Elise expected it to be. The creek was a good hundred feet from the nearest plants, but that did not bother the elf woman. She did some dance-like motions similar to what Sophie had demonstrated at the creek the prior day, but instead of creating a small water snake, a long, swirling stream of water came out of the creek and followed the woman on her dance around the garden, dripping onto each crop as it went by. Sophie tried to imitate, but she did not have nearly the range of her mother, and had to walk the water over from the creek before she could start depositing it on the plants.
+
+Once they were done, Sophie lead Elise over to a certain section of plants, and pointed at them and said something. Elise didn’t know exactly what she said, but she understood her meaning, and cast {Sudden Growth} in the area. The girl laughed and bent down to grab one of the green sprouts and pulled it out to reveal a magnificent carrot. She pulled a few more, then jogged down to the creek to wash them off. She tossed one to Elise, ate one herself, and pocketed the other three.
+
+“Sophie! Elise!” called the elf woman.
+
+Elise froze for a split second, still not used to them knowing her name, but soon recovered and responded by bounding back toward the cabin.
+
+“Yhapu gvzr,” she said when they arrived.
+
+They went back inside where the older woman had somehow had time to prepare another meal. It was much lighter this time– a plate of greens for all three of them– but Elise could have sworn that she had only been inside for a minute before calling them back in. They settled back into the sitting room for another lesson of some sort, but this time, Elise was too full of energy to sit still.
+
+She took to exploring the house on her own, which was very different from her tour from Sophie’s arms. For one, everything looked a lot bigger from her perspective. The tables were roofs over her head, the actual roof was so high it might as well have not existed, and the undersides of the couch now looked like cozy areas that would be perfect for a nap.
+
+The house was oddly clean too. Well, maybe not oddly when the elf woman could use magic so proficiently, but even if she could do that, Elise still wasn’t sure if she would bother to clean under the couches and in between the floorboards.
+
+With {Mana Sense} Elise also found that the entire house was filled with organized mana. It ran along every wall, though thicker on the outer walls, and there were lines of it running under the house. She could guess with reasonable confidence what a few of them did, such as the big one that pointed toward the creek and ended at the kitchen sink, or the dense outline around each door and window frame, but most remained mysteries.
+
+While productive, her exploration didn’t actually take that long, since the cabin wasn’t very big, and when she finished, the lesson was still ongoing, and she no longer had anything to do. She tried playing around with her skills, but the only ones she could safely use in the house were {Dart} and {Leap} and there were only so many times she could jump onto and off of a chair before it got boring. Thankfully, the mother noticed her boredom and decided to let her outside.
+
+The cabin was set in a shallow valley in between three hills– one of which was the one she had emerged from the wyrm’s tunnel atop– and the half-elf family had taken over its entirety. The trees along the hilltops were marked with bright ribbons, and every square foot of the valley showed signs of use: a sawed-off stump here, an old firepit there, blade marks on the larger trees…
+
+There was also a complete lack of wildlife, aside from a few small birds and harmless rodents. Or at least, that’s how it seemed at first. As Elise ran alongside the creek, she suddenly heard a pop from behind as a slime appeared. Because of her near-omnidirectional sight, she could see that it had literally just appeared there. It didn’t emerge from hiding or come around a corner and into her sight or anything like that. It was just pop and then it was there.
+
+[Forest Slime lvl 1]
+
+As with the first slime she had met, as soon as it noticed her, it made a beeline directly toward her, disintegrating every bit of plant matter in its path along the way. For a brief moment, Elise tried to remember where the cliff was, until she mentally facepalmed as she remembered she wasn’t anywhere near as helpless as she had been before.
+
+One quick {Magic Missile} later and it was dead. She stayed further back when casting, in case it popped when it died, but instead, her attack just poked holes in it, causing it to rapidly deflate and ooze its innards into the creek.
+
+[You have defeated Forest Slime, lvl 1]
+
+[{Magic Missile} lvl 1 -> 2]
+
+System, do all monsters just appear like that? She asked.
+
+“I’m sorry. I do not understand the question.”
+
+Do all monsters just randomly appear in places? Are they not born like anim- like humans are?
+
+“Yes. Monsters arrive in the world through a process known as ‘spawning’. Would you like to learn more about spawning?”
+
+Yes please.
+
+“I’m sorry. I cannot answer that question.”
+
+What? Then why did you ask if I wanted to know more?
+
+“I’m sorry. I cannot answer that question.”
+
+Arrrrghhh.
+
+“If you are dissatisfied with your experience, would you like to fill out a short feedback survey so that the developers can improve your future experiences?”
+
+No! I already filled that out.
+
+“I am sorry you are dissatisfied. Some of your concerns may be addressed in our next major update, for which a closed beta test has just been released. Would you like to enable beta features?”
+
+Beta features? she asked. What are the beta features?
+
+“I’m sorry. I cannot answer that question.”
+
+What? Then why did you offer them to me?
+
+“By agreeing to enable beta features, you are also agreeing to our strict Non-Disclosure agreement. Information about beta features is not permitted to users who are not in the closed beta. If you wish to know what the beta features are, you must agree to test them.”
+
+Well that’s dumb.
+
+“I’m sorry you feel that way, but no matter how frustrated you are, derogatory language is never acceptable.”
+
+What? But I wasn’t-! Nevermind. Can I turn off the beta features if I don’t like them?
+
+“By agreeing to test the beta features, you must opt in for at least 7 days. After that, you may disable the beta features if you would like to.”
+
+Elise contemplated. She was tempted to accept it without further thought, because whatever it gave her couldn’t be worse than what she had now. Maybe it would get smarter with the beta, or at least tell her why it couldn’t answer her questions, and what other kinds of questions it couldn’t answer. However, she did not trust the ‘developers’ or whatever had created that thing. They clearly didn’t care much about user experience. She had seen her fair share of ‘upgrades’ to programs she used that only made them worse and more annoying.
+
+But if it was a closed beta, as they said, that meant a limited number of people were getting to test it. That meant that they might actually take her feedback seriously if she gave it to them. That settled it in her mind. She had an opportunity to help guide the developers in the right direction, and maybe even prevent them from worsening an already subpar product. She wouldn’t throw it away for a cowardly what-if.
+
+I would like to enable beta features, she thought.
+
+“Excellent. Please sit tight while we upgrade your system with all the latest new features, courtesy of !@#$%^&!”

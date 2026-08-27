@@ -1,0 +1,89 @@
+---
+id: 27d55a8c-1090-542c-94c6-417310e402ef
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1378 - Travelling in the Fourth"
+slug: 0025-chapter-1378-travelling-in-the-fourth
+partOf: chrysalis
+position: 25
+ownLength: 1022
+unit: words
+ownProgress: 1022
+publishedAt: 2024-07-25
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1731080/chapter-1378-travelling-in-the-fourth"
+royalRoadId: "1731080"
+markedReadAt: "2026-06-29T19:44:27.087Z"
+---
+
+As I’ve come to expect from the Colony, their hospitality was exquisite, just exquisite! After arriving via the gate, Emilia led our little group to what I can only describe as an ant concierge (complete with an adorable little hat), who directed us to the most fitting place of residence.
+
+“The Colony doesn’t really have ‘tourism’ or ‘hotels’ like you might find where you come from,” Emilia explained. “There aren’t that many people who want to come and stay here outside of the people who fall within their territory.”
+
+That’s an understatement and a half! Information about the inner workings of the Colony is almost totally unknown! If that weren’t the case, would I, Tolly, the bold adventurer, have come here to investigate? There are no wastelands I will not endure, no dangers I shall not brave, no teas I shall not sample in the pursuit of enlightenment.
+
+Despite Emilia telling me of the paucity of accommodation, I had become accustomed to the ways of these ants by now, so I knew what to expect when we finally reached our residence.
+
+I could only describe it as an enormous, shared apartment, complete with kitchen, private bathrooms, several living rooms, a dining area and a SWIMMING POOL.
+
+Emilia must have registered the shock on my face, so she rushed to explain.
+
+“The Colony learned that humans, along with brathians, quite enjoy the feeling of being submerged in water. So they tend to include these when they can spare the room.”
+
+If anything, I was given an even greater shock when I went into my own bedroom and saw the facilities there. I have to say, reader, that nobody could have been more impressed than I at the level of comfort provided. The bed was rather enormous. Well, it was both large, yet not too large, just the right size for a person to be perfectly comfortable within. And the mattress!
+
+The older I get, the more I appreciate a good mattress, and I have to say, the moment I lay down to test it, I knew I would take it home with me. No matter what I had to pay!
+
+I’d steal it if I had to, reader, I don’t mind confessing to you!
+
+Such a gentle-firmness, I can’t imagine how they achieved it. It goes without saying that the linens and duvet were of the most sublime quality as well. I truly looked forward to immersing myself in their warm embrace. Even more surprising was the incredibly-well made, soft and appealing plush toy I found sitting on my pillow.
+
+It appeared to be of a rather manic ant, a cheeky glint in her eye and a wild grin on her face. Definitely a strange colour to her carapace as well, far from the usual russet red of the ants I’d seen. Looking closely, I could see little glimmering pockets of light woven into the fuzzy exterior of the toy, which left me speechless. Why go to such lengths for this little thing?
+
+I emerged to ask Emilia just what was going on, only to find her clutching her own fluffy ant toy, a broad smile on her face.
+
+“Oh, you got Brilliant,” she told me cheerfully. “It’s considered lucky to get her.”
+
+Then she held out her own toy for me to inspect.
+
+“This is Solant.”
+
+The plush in question was quite different from my own. It gave off a serious, even contemplative feeling, yet there was a sternness, a certain steeliness in the gaze of the ant in question.
+
+“Is she… a famous general of some sort?” I guessed.
+
+“That’s exactly right!” Emilia enthused. “She’s extremely capable, the Colony’s greatest general.”
+
+Then my guards emerged, with confused expressions on their faces, each holding their own plush toy. One held a fuzzy gorilla-looking creature with bat wings, while the other was an indescribable horror of nightmares that I couldn’t look at without losing my sanity.
+
+“Oh! You got Tiny and Crinis! They’re so rare!”
+
+It turns out the plushies are quite the collectible items within the Colony, since they don’t give out that many and most of the ants want to have at least some of them. Naturally, I asked which was the most rare, because of course I did, reader! If there is a rare collectible item, I MUST have it, to display over my mantel so that it may lord over my social circle silently with its majesty.
+
+I was quite surprised when I got an answer to my question.
+
+“The rarest of them all?” Emilia pondered for a moment. “Let me think for a moment.”
+
+“It isn’t the Eldest?” I asked. I certainly expected it to be that most revered of ants.
+
+“Oh no,” Emilia laughed, “everyone has the Eldest. They make way more of them, the demand is so high.”
+
+Where I had expected that the esteem in which the Eldest was held would place that august figure as the most rare in the collection, instead they became the most common. They’ve done it backwards! I still insist that it’s backwards!
+
+“If I were to say which was the most rare, though I’m only guessing, I think I would say it’s The Queen.”
+
+“As in…”
+
+“As in the first Queen, yes.”
+
+That confused me a little. I thought she, too, would be wildly popular.
+
+“She has always hated being overly revered by her children,” Emilia confided to me, leaning forward and speaking softly, “so nobody wants to be caught with a plush of her and make her sad. In the eyes of The Queen, things like this are frivolous wastes of resources and she doesn’t approve.”
+
+A down to business sort of woman! I can certainly appreciate that!
+
+“I know I’ve asked before, but surely now that we are this deep there is a chance of gaining an interview with The Queen?” I ask, ensuring to capitalise properly.
+
+Emilia hesitated.
+
+“It’s… unlikely. But I can ask.”
+
+She implored me not to get my hopes up, but you know me, reader. When I have a foot in the door, you may as well shake my hand. What an exclusive!

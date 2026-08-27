@@ -1,0 +1,91 @@
+---
+id: c28e427e-8771-52a1-9baf-41ae53fe27e4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1469 - Breach"
+slug: 0117-chapter-1469-breach
+partOf: chrysalis
+position: 117
+ownLength: 1145
+unit: words
+ownProgress: 1145
+publishedAt: 2024-12-06
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1942263/chapter-1469-breach"
+royalRoadId: "1942263"
+markedReadAt: "2026-06-29T19:47:49.235Z"
+---
+
+The snake-slug is a big beasty, having returned to its full size as a result of the Krath fattening it back up in preparation for this assault.
+
+No problem, I can shave a few tons off of it without any trouble at all! Just need to get my mandibles on it.
+
+Doing so isn’t very hard, since the monster doesn’t seem all too bothered by me as I charge forward, mandibles wide and ready to chomp. I’m still worried about just what the Krath have done to this monster to affect its mental state so severely, but right now I just need to stop it from reaching the safe-zone.
+
+Goodness knows what the Krath would have packed into the monster for it to disgorge into the safe-zone.
+
+As I approach, the monster turns to unleash a powerful, condensed ball of its own unique venom mana, but I’m wise to its tricks. You think I’m going to take a venom bomb to the face?! Unlikely!
+
+The moment I sense the spell coming, I use earth magic to pull up the tunnel floor and form a protective wall, hardening it in an instant. The bomb crashes into my improvised barrier with tremendous force, but the wall doesn’t break. Splashback flies everywhere, including onto the snake-slug itself, but its slimy coating nullifies the mana in moments. The rest of the attacking monsters who get splashed aren’t so lucky, as the potent energy begins to eat into them.
+
+Oof.
+
+Now the floor is covered in the stuff, but I create my own path through it by making platforms of stone to walk on. It slows me down quite a lot, but once that mana gets into my toes, it’ll race straight up my legs and attack my body, so I can’t risk it.
+
+The snake-slug hisses furiously, still wriggling toward the safe-zone with all its might.
+
+Not today, fool!
+
+VOID CHOMP!
+
+My mandibles crash shut along with the black jaws of pure energy extending beyond them. I feel the chomp bite home, tearing away huge chunks of slug flesh.
+
+Gweheheh. How do you like that, slug?!
+
+Pulling back, the slug is dragged by my mandibles, and for a second I wonder when the heck I got so strong. Of course, it could also be the case that the slug is just lighter than expected, but that isn’t what happened either.
+
+I forgot that it managed to escape my well before by throwing off a huge chunk of its body! Dammit!
+
+Indeed, the moment I bit into it, the slug-snake pulled the same trick again, sloughing off a chunk of flesh and launching its real body forward like a slimy missile. Whatever the Krath did to the creature has caused it to completely abandon any sense of self preservation; all it cares about is getting to the safe-zone, and now it almost has!
+
+With so much of its mass cast away, the slug-snake has become a slithering, sliding speedster, gliding over the thick sludge layer that the Krath built up on the floor of the tunnel.
+
+Time to dash! Whatever the Krath have planned, I am not letting them get away with it!
+
+Concentrating on my legs, I use an empowered dash, carefully measuring the distance this time, so I end directly behind the snake. Lunging forward, I clamp my jaws down on its tail and hold on, digging my feet in to slow its momentum.
+
+Aaaand the tail detaches.
+
+I mean, come on! It’s part gecko now?! Give me a break!
+
+Already hauling back against the expected resistance, the sudden lack of force sends me tumbling backwards as the snake-slug lunges across the final gap, thrusting itself into the safe-zone.
+
+Instantly, it begins to bubble and hiss as the cleansed mana goes to work on its corrupted form. It won’t live long now, but that was always part of the plan.
+
+“Watch out!” I roar to the ants, who’ve already pulled back to a defensive position.
+
+Of course, it’s too late for them to retreat any further, and the snake-slug immediately begins to disgorge a flood of… something from its gullet.
+
+At first I think it’s unleashing its venom mana, which would be devastating with so many ants packed into the tunnel, but somehow it's even worse. I throw myself into the blue mana and start tearing the snake apart, but the stream of goop from its mouth doesn’t cease. Soon enough, the goop materialises into a horde of little slime creatures, each one burning away in the blue mana, but not as quickly as I would have expected.
+
+Have they already learned to create monsters with some level of resistance to it? That’s impossible!
+
+Yet before my eyes, the little slime monsters, hundreds and hundreds of them, undulate over the ground and then launch themselves at the nearby ants. Disciplined and fearless, the ranks of the Colony don’t fold or buckle, forming a wall of insect might even in the face of this surprise attack. The slime creatures are chomped, blasted with acid and spells, but they don’t fight back. Instead, the moment they come into contact with an ant, they flatten out and stretch, trying to wrap their opponent in a cocoon.
+
+Dozens of my siblings are already locked into battle with the creatures, and the more time passes, the slower and weaker they become, struggling against the enemy trying to wrap them up.
+
+Clearly some sort of poison is at work, slowing my sisters down.
+
+“Burn them! Quickly!”
+
+Even if the ants get damaged by the flame, we can heal them right up, which is a lot better than whatever the heck the Krath are trying to do.
+
+Speaking of the Krath, this is the moment they choose to make themselves known, because of course they do.
+
+They’ve snuck their way around the edges of the gravity well, and now spears of sticky thread are being launched from concealed positions near the safe-zone. At first I’m not sure what they’re trying to do, but then I see one of the threads hit a still-burning goop monster who is almost done wrapping up a general. The thread sticks to the outside of the monster, and immediately the Krath start hauling on it, trying to drag the captured, no-longer-struggling ant out of the blue mana.
+
+“They want captives! Sever the threads, dammit!” I roar.
+
+Absolute chaos erupts as my sisters throw themselves forward, determined to suffer any injury rather than let one of their family be taken away. It’s bedlam everywhere I look as ants burn, bite, grab, pull and climb all over each other, doing everything they can to stop the Krath’s kidnapping attempts.
+
+Meanwhile, there is still battling along the flanks of the tunnel.
+
+Well… if you’re determined to get this close to us, I might as well make you pay for it, you miserable slugs!

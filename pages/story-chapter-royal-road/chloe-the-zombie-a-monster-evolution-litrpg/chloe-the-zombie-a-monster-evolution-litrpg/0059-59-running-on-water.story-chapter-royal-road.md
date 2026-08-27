@@ -1,0 +1,235 @@
+---
+id: fc032540-dae2-535e-9864-77e8afd43024
+page-type-slug: story-chapter-royal-road
+title: "59: Running on Water"
+slug: 0059-59-running-on-water
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 59
+ownLength: 2040
+unit: words
+publishedAt: 2025-10-27
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2708924/59-running-on-water"
+royalRoadId: "2708924"
+---
+
+To teach Chloe how to walk on water, Raenof brought her to this place called a park. Apparently, it was a spot with trees and grass and benches where people just sort of hung out.
+
+It was like a forest, but neater. The plants all looked like they’d been trimmed and told to behave. Not that Chloe cared. Plants were plants.
+
+The park was quiet at this hour, lit up slightly thanks to a few lanterns along the path. A wide pond stretched in front of them.
+
+Chloe stood right at the edge, eyeing the water like it might jump at her first. Beside her, Raenof stifled yet another yawn. His hair was slightly messier than usual, and he had the distinct look of someone who’d much rather be in bed.
+
+Raenof rubbed at one eye with the back of his hand and mumbled, “Alright. Pay attention. I’m only going to explain this once.”
+
+Chloe gave an eager nod. “Got it.”
+
+“First off, getting to Mana Mastery I is already a big deal. Most non-elves never make it that far. Actually, a lot of people can’t even feel their mana at all, let alone control it.”
+
+“So, they just never figure it out?”
+
+“Unless they get proper training, no. A lot of folks go their entire lives without making a real connection. Elves, though, we’re taught early. Mana control is part of our basic education. Which is why walking on water is considered pretty simple for us, but it’s the right next step for you.”
+
+“So, I gotta be able to walk on water before I get to the cooler stuff?”
+
+“Exactly. If you can stay balanced and walk across water, it shows your mana control’s strong enough to start learning higher techniques.”
+
+“Ooh, okay! But like, what kind of higher techniques?”
+
+“There are quite a few. Telepathy, advanced sensing, things like that. Eventually… even flight.”
+
+“Wait, flying flying? Like, actually flying?”
+
+“More or less. You don’t flap around or anything, it’s more like floating, but with extreme control.”
+
+Chloe immediately imagined herself soaring through the sky, feeling wind in her hair. I definitely wanna learn how to fly eventually.
+
+“How far off am I from being able to fly?"
+
+“Very far. I can’t even do it yet.”
+
+“What? But you’re, like, really good at mana stuff. Right?"
+
+“I’m decent, but flight is something usually advanced mages can pull off. Levitating’s a little easier, though not nearly as flashy.”
+
+“Okay, wait, what’s levitating?”
+
+“It’s just hovering a bit above the ground. Pretty practical, and not very exciting. But that’s not what we’re doing today.”
+
+“Aw, fine. But once I’ve got this walking thing down, we’re doing the floaty stuff next.”
+
+“One step at a time, now watch me,” Raenof said, stepping toward the pond.
+
+Chloe fully expected him to sink, or at least stumble a little. But Raenof just kept walking.
+
+The water rippled gently beneath his feet but never broke. No splash, no sinking, not even a little wobble.
+
+Chloe was impressed. “Whoa, that's so cool. It's like you're walking on the ground, but on water!"
+
+Raenof turned slightly and gave her a smile, still standing perfectly balanced out on the pond. “That’s the idea.”
+
+A few steps later, Raenof made his way back to shore and brushed a few drops of water off his cloak. “Alright. Now for the explanation.”
+
+He motioned for her to sit, and she plopped down on the ground. "Okay, I'm listening."
+
+“You need to push a steady flow of mana into your feet,” Raenof said, tapping his boot. “Then use that mana to counteract your weight, like you’re creating a thin layer of energy that holds you up. Balance is important, but the real challenge is maintaining the mana flow without interruption.”
+
+“That’s it?” Chloe asked.
+
+“That’s it.”
+
+“Oh, then I totally got this."
+
+"Go ahead then, let's see how you do."
+
+Chloe sprang up and ran straight for the pond. Unfortunately, when her foot hit the water, she sank.
+
+There was a huge splash. Chloe popped up a second later, flailing and soaked, with her hair stuck to her face and Cloaky clinging to her tighter than usual.
+
+Raenof raised an eyebrow. “You pushed too much too fast. Try again. Slower this time.”
+
+She huffed but climbed back onto land, grumbling the whole way. “Okay, okay, steady mana flow, I can do this.”
+
+Chloe tried again. And again. And again.
+
+Each time she got a little further. One step. Then two. Then a weird, awkward slide that lead to her falling face first into the pond.
+
+By the tenth attempt, Chloe was soaked from head to toe, but no longer faceplanting immediately, which was sort of progress. I’m totally getting the hang of this.
+
+Raenof watched her latest attempt, arms crossed. “You’re improving, but maybe it’s time for a different approach.”
+
+Chloe squinted. "You got an idea?"
+
+"Let’s flip the strategy. Instead of going slow and steady, how about you go fast?”
+
+"Uh, you sure that's a good idea?"
+
+"Hear me out. Picture something you really want in the middle of the pond, something you’d chase without thinking. Run for it, and let your instinct move you while your mana keeps you up."
+
+“Well, I do like the idea. But you really think this is gonna work?"
+
+"It's worth a shot, and if it doesn't work, we can always try something else."
+
+"Alright then, I'll try."
+
+Chloe backed up a few steps from the edge of the pond. Okay. Imagine something I really want. Something worth chasing...
+
+A giant, glowing, brain appeared in her mind. It was the juiciest brain she’d ever imagined. It sparkled. It jiggled. It practically begged for her to eat it. Perfect.
+
+Chloe ran as fast as she could, going after the imaginary brain. As her feet hit the water, she pushed mana into them with feeling. And somehow, after doing this, she didn’t sink. For three whole steps.
+
+Then she tripped over her own momentum and faceplanted straight into the pond. Afterwards, Chloe popped up again, coughing out water and wiping weird green stuff off her forehead.
+
+Raenof raised an eyebrow. “You lasted longer than before, maybe this is working. Why don't you try again?"
+
+“Oh, I’m gonna,” Chloe muttered, dragging herself back to land.
+
+She tried again. And again. Sometimes she got two steps, sometimes five. A few times she even managed to make it almost halfway across the pond before sinking. But every time she fell, she jumped up more excited than ever.
+
+After a lot more tries and a lot of splashes, Chloe finally did it. She ran across the surface of the water, laughing the entire way. Her boots only skimmed the surface as she dashed across to the other side. Then she turned, arms raised proudly. “HA! Did you see that?! I actually ran on the water!"
+
+Raenof smiled and clapped slowly. “Very impressive. You’re getting the feel for it.”
+
+“Obviously. I’m amazing.”
+
+“Then let’s take it a step further. Try walking now.”
+
+“Wait, I still have to walk?"
+
+“Yes you do. Running lets you rely on momentum. But walking requires constant, careful mana flow. No shortcuts.”
+
+“Fine. I got this.”
+
+Chloe walked back to the pond and planted her foot gently on the surface. She sank immediately.
+
+She went back to land and tried again. But this attempt didn't go so well either.
+
+Raenof winced a little as she dragged herself out again. “It’ll take more time. It’s a completely different kind of control.”
+
+Chloe groaned and flopped onto the grass. “I was cooler when I was running."
+
+Raenof chuckled. “Then keep training. You’ll get there.”
+
+“Oh, I will."
+
+Chloe wasn’t the giving-up type. Not when she was this close.
+
+She shook out her sleeves, pushed back her dripping hair, and marched toward the pond confidently. Raenof followed with his usual patience. “This time, don’t just shove your mana out. Keep it steady and let it balance your steps. I’ll help guide it if it slips.”
+
+Chloe muttered something about mana being picky and annoying but nodded. She lifted her foot, and stepped forward. To her shock, the water held. Am I… actually doing this?
+
+She set her other foot down. Still no splash. Carefully, she took another step. Then another. And then another after that.
+
+Chloe wasn’t sinking or falling this time She was actually walking on water properly.
+
+“I’M WALKING!” she shouted, throwing her arms up, then immediately teetered.
+
+“Careful,” Raenof said, catching her with one hand. “Celebrate when you’re dry.”
+
+And right then, a glowing notification popped up in front of her.
+
+[Skill Upgraded: Mana Mastery I >> Mana Mastery II]
+
+"Yay! I got my mana mastery skill up to level 2!"
+
+Raenof smiled as they returned to shore. “You did well.”
+
+She bounced on her toes, dripping and delighted. “Thanks! So, what now? Can you teach me something else? Like levitating?"
+
+Raenof just pointed at the sky, and at the rising sun. “Now? We eat. Get something to drink. Then we check in with the Thieves Guild. Maybe Sett’s ready.”
+
+Chloe groaned. “Ugh. Lame. That’s your plan?”
+
+“I’m hungry and thirsty. Cut me some slack."
+
+“Fine, fine. We can go eat or whatever."
+
+As the two walked back toward town, birds started chirping, and the sky faded from deep blue to warm pink and orange. Morning had decided to come by.
+
+After a moment, Chloe peeked over at Raenof. “Hey, random question. What’re you gonna do after all this? Like, after we get to Vorraska and you hand off your mystery box?”
+
+Raenof paused before answering. “I’ll probably head home. It’s... far. I haven’t been back in years.”
+
+“Oh. And what about me?”
+
+“That’s up to you, maybe take another bounty? You said you wanted to get stronger.”
+
+She nodded, thinking. “Yeah, I guess I do.”
+
+“In that case, maybe think about finding a mentor.” Raenof said.
+
+“What’s a mentor?”
+
+“Someone experienced. Someone who trains and guides you. Ideally, you should get a powerful mentor who's proficient and knowledgeable about magic. And...”
+
+“Aaand?”
+
+Raenof gave her a sidelong look. “And they should also be someone who can keep up with your energy.”
+
+"Pfft, that'll be totally easy. I'm sure I can find plenty of people who'd want to be my mentor."
+
+Raenof laughed, shaking his head. “Come on, Chloe. We’ve got a lot to do.”
+
+***
+
+Chloe and Raenof were back in the basement of the Thieves’ Guild. The long table in the center had been cleared off, and Sett stood at one end, looking like he was finally ready to talk business. Around him were about half a dozen travelers he planned to bring along.
+
+Most of them weren't really noteworthy. But there was one guy who did catch Chloe's attention.
+
+Everything about him screamed don’t look at me, which, of course, meant Chloe stared even harder. He was wrapped in black from head to toe, completely covered up.
+
+Black cloak, gloves, boots, even a hat pulled low enough to hide most of his face. Honestly, the hat was kinda cool... but still, something about the guy screamed weird.
+
+Chloe kept sneaking glances his way until Raenof leaned in beside her and whispered, “Why are you staring at that man?”
+
+She whispered back carefully. “Because he looks super suspicious. Like... suspicious-suspicious.."
+
+Raenof followed her gaze, gave the man a brief once-over, then nodded. “...Yeah. I think he’s suspicious too.”
+
+Chloe was still side-eyeing the black-hat mystery man when Sett clapped his hands and raised his voice “Alright, listen up. It's time we go over the route, and I'm not gonna explain this more than once."
+
+Chloe perked up and scooted closer to the table, the rest of the group closed in as well, including the mystery guy, who still hadn’t done anything overtly weird. But she kept sneaking glances at him when possible.
+
+Meanwhile, Sett pulled out a big map and spread it wide. “First things first, you all should know this route’s not going to be easy. If you wanted easy, you’d be taking the official road.”
+
+He tapped the map for emphasis. “But for one reason or another, you’re not. You picked my route. That means faster travel, and a whole lot more risk.”

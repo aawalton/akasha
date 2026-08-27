@@ -1,0 +1,209 @@
+---
+id: 0bb61a20-84d5-5714-830b-69cda54af095
+page-type-slug: story-chapter-royal-road
+title: "7 - Encheloids"
+slug: 0007-7-encheloids
+partOf: cat-girl-evolution
+position: 7
+ownLength: 2470
+unit: words
+publishedAt: 2025-08-17
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2525571/7-encheloids"
+royalRoadId: "2525571"
+---
+
+The eelman twists the rest of its body around and stabs down at me, and for the first time, I feel the effects of Cat-like Reflexes. Before my mind fully comprehends what’s happening, I’m already launching myself backward, as the sword impacts the ground, sending a small cloud of dust upwards. These eelmen are much faster than the fishmen. That was almost dangerous.
+
+The eel hisses and steps toward me, and I immediately turn around and run. Fortunately, while their strikes are faster, they’re still not land creatures, so I lose them in no time. When I feel I’m far enough away, I find a tree to climb and I sit and wait.
+
+This is a problem. My attack didn’t do nothing, but it barely drew blood. Are the eelmen’s stats that high? How am I going to eat them when I can’t even damage them properly?
+
+I look down at the paw I used for my attack. There’s still a little bit of eel blood on my claws. I lick it. It’s delicious.
+
+Alright, that settles it. I need to kill these guys. I just need to figure out how…
+
+I bet their eyes are weaker than their skin, but to get to their eyes, I need to go near their heads, and going near their heads means going near their teeth, and that doesn’t sound fun. Also, it doesn’t really help me much if they’re blind, but still otherwise unharmed. It would take forever to whittle it down with my claws that can barely pierce its skin.
+
+[ Perhaps if you had continued to work on Scratch and gotten it to Late Proficiency instead of sleeping all day, you would have enough firepower to hurt them. ]
+
+Shut it, Abblesauce. I don’t need sass right now, I need answers. If I don’t kill them soon, they might go back into the water, and I won’t be able to have eel tonight. How do I upgrade Scratch again so I can kill them?
+
+[ Upgrading a skill isn’t that simple. It took hours just to reach Middle Proficiency. Unless you have some kind of sudden enlightenment, it won’t be possible in the near future ]
+
+Exactly! Sudden enlightenment! Now how do I get that?
+
+[ How should I know? ]
+
+I dunno. You’re the one with the answers.
+
+[ Sudden enlightenment isn’t something you can force. It doesn’t happen so easily. That’s why it’s called “sudden.” If you’re really that set on killing them though, you can maybe try to grind out the proficiency before they leave, but I doubt you have the time. ]
+
+Can’t you just give me the enlightenment?
+
+[ No, I literally can’t ]
+
+Lame. Well, fine, I guess I’ll just have to take the slow, boring route and grind out the skill. I can’t let them get away.
+
+[ Yes. Good. Get used to it. The “slow, boring route” is the normal one. ]
+
+That sucks. Oh well. Now, what do I need to do to grind Scratch to Late Proficiency?
+
+[ As I said before, Skill Proficiency improves with consistency, precision, and versatility. You worked on consistency and precision earlier, so perhaps versatility is the way to reach Late Proficiency ]
+
+Okay. How do I do that?
+
+[ Figure it out yourself ]
+
+Don’t wanna.
+
+[ Too bad. I only know the rules of the System. I don’t know how to upgrade skills. You’re on your own for this one. ]
+
+You can still help me think of ideas.
+
+[ Don’t wanna :p ]
+
+Fine, screw you too, Abbomination. I’ll figure it out myself!
+
+So, versatility. How do I make Scratch more versatile? It’s just a skill for scratching things, right? How versatile can it be? I can scratch less, and I can scratch more. That’s about it.
+
+I guess instead of scratching the eels, I could scratch branches or something and make them fall on the eels, but I feel like that wouldn’t be very effective. I wouldn’t be able to break a big enough branch to do any real damage, and I might not even hit them, since having four claws would make the cut not clean at all.
+
+Wait. Do I need to use all four claws?
+
+I lift my paw and look at it as I flex just one toe. One claw pops out, while the others stay hidden. This is perfect!
+
+Scratch!
+
+I Scratch the main trunk of the tree I’m on and look at the result. Then I extend all four claws and do the same. The cut with the single claw is much deeper than the cut with all four. This is perfect! I bet I can break the eelmen’s skin this way! I don’t even need to upgrade it to Late Proficiency! Suck it, Abbsinthe!
+
+[ …How? ]
+
+It’s because I’m a genius!
+
+[ …More than you know. Check Scratch’s Proficiency ]
+
+I check. It got upgraded to Late. Ha!
+
+[ My deepest apologies for ever doubting you, Princess Yona. It seems sudden enlightenment does happen that easily. ]
+
+Well, it’s only natural to doubt the extraordinary. I suppose I can forgive you, Abby.
+
+[ I am most grateful for your generosity ]
+
+As you should be. Now, let’s go kill some eelmen!
+
+It’s only been about ten minutes since I fled the first pair I encountered, so I can still hear them stomping around. Unfortunately, their hissing seems to have attracted a few of their friends, and there are now six of them grouped up. That’s no good. Fortunately, I can hear another pair much further out, so I climb down my tree and start running toward them.
+
+About a minute later, I’m crouching behind them. I don’t think they’ve heard the hissing of the others, so they’re still searching around, heedless to the fact that an apex predator is hunting them. As always, I wait until they’re separated by a tree, then strike at the ankle of one of them, this time with only a single claw. For the briefest of split seconds, the skin compresses without breaking, and I almost doubt myself, but then it breaks, and my claw severs the eelman’s achilles tendon. A second swipe at its other leg sends it crashing to the ground just like so many fishmen before it.
+
+The eelmen are still faster than the fishmen, so I have to retreat briefly to escape its friend, but since it’s night time and my fur is black, it quickly loses sight of me. I sneak back up on it and take both of its legs too. The process of finishing them off is a bit slower than it usually is for the fishmen, since I do actually have to worry about their swords and mouths, but with my newly upgraded Scratch, even my four-claw Scratches can break the skin now, so five minutes later, they’ve both lost enough blood to slow down, and another minute after that, their hearts stop beating.
+
+[ You have defeated Encheloid, Tier 1, lvl 1! Bonus experience for defeating an enemy above your level! ]
+
+[ You have defeated Encheloid, Tier 1, lvl 1! Bonus experience for defeating an enemy above your level! ]
+
+[ Spatial House Cat, 5 -> 9 ]
+
+Tier 1? What’s that mean?
+
+[ Tier 1 is- ]
+
+Actually, save it. They smell delicious. I want to eat first.
+
+I walk up to the nearest one, and as I’m about to take a bite out of it, I pause. If my claws could only break the skin after getting Scratch to Late Proficiency, my teeth probably won’t be able to do it.
+
+I extend a single claw and Scratch at some of the flesh, and to my surprise, it makes a cut multiple centimeters deep. That’s weird. Is it just the extra stats I got from leveling up? No, that’s too extreme. Maybe…
+
+I bend down and take a bit. The skin feels soft, and breaks easily under the force of my teeth. I bite down all the way, tearing off a chunk and starting to chew.
+
+This is delicious! This is the best eel I’ve ever had! It’s soft and juicy, and the flavor is intense without being overpowering. If the fishmen have the ideal fish flavor, the eelmen have the ideal eel flavor. That makes me wonder how good the Named fishman must taste. I bet it’s heavenly.
+
+I gorge myself until my stomach feels like it’s about to burst, then pull both corpses into my Stomach for later. That was a good meal. Now, Abby, what were you saying about Tier 1?
+
+[ Tier 1 is a marker that indicates that a monster has undergone its first evolution. Higher tier numbers are indicative of more evolutions. ]
+
+So the eelmen evolved from the fishmen?
+
+[ That is one possibility. It is also possible that they spawned in naturally as Tier 1 monsters. Named monsters can have that kind of influence on a spawn zone ]
+
+I see. So when I evolve, I will be Tier 1 too?
+
+[ Correct. Right now, you are Tier 0, though you are more powerful than an ordinary tier 0 due to your mutation and titles ]
+
+That makes sense. How long until I reach Tier 1?
+
+[ Tier 0 ends at level 10. Once you reach level 10, you will no longer gain experience points to your Species until you choose an Evolution. ]
+
+Oh, so I only need one more level!
+
+[ Yes, and there just happen to be some unsuspecting Encheloids roaming the island ]
+
+Very true. More snacks for later too! Time to get hunting!
+
+The next group of eelmen I target is the only other lone pair. With my new levels, it’s faster than the first, though it still takes a good five minutes to kill them. Those kills get me straight to level 10, and just as Abby said, not a bit further.
+
+[ You have reached an Evolution threshold! Would you like to initiate Evolution? ]
+
+Ye-!
+
+[ WAIT! ]
+
+What is it, Abblause?
+
+[ Evolving leaves you in a vulnerable state. If the Encheloids find you while you’re evolving, you will die. ]
+
+Oh. That’s not good.
+
+[ Not at all. Which is why you should wait until you’re sure you’re alone on the island before you start it. ]
+
+Good idea. Thanks, Abby. You saved my life.
+
+[ It’s not that I care about you or anything. It’s just that my life is bound to yours. If you die, I die. ]
+
+Wait, really?
+
+[ Yes. ]
+
+Dang, that sucks. At least you get to work with someone as great and brilliant as me though!
+
+[ …Right. ]
+
+Anyway, let’s go kill the rest of the eelmen so I can evolve! They’ll make a good post-evolution snack!
+
+[ …Well, I have heard that evolving leaves monsters hungry. Let’s go. ]
+
+I find the remaining eelmen at the site where I killed the first two. Two of them are on all fours sniffing the blood I left behind while the other four hiss at each other. This is a bit tricky. Hmmmm.
+
+Well, they’re not paying attention, so might as well start whittling them down now. It should be basically the same process, right? Hit and run ankle Scratches until they’re all on the ground, then hit and run other Scratches until they bleed out? Simple.
+
+…
+
+Or not. The first step of my plan succeeds. They’re pretty stupid, so despite seeing the blood of the other eelmen, none of them are watching their surroundings, so my attacks take them by surprise, and I’m able to cripple two of them before I’m forced to retreat. It goes wrong after that though when the other four encircle the downed ones, protecting them from my followup strikes.
+
+I think that maybe I’m fast enough I could still get in and fight them with some more hit-and-runs, but with four against one, I don’t like my odds. I’ll just wait until they forget about me.
+
+Unfortunately for me, they don’t forget about me. After a few minutes, one of them lowers his sword and tries to help the fallen eelmen to their feet. He manages to get one of them up, but the injured one immediately falls back to the ground, since both achilles are completely severed. The uninjured one stares at his comrade for a few seconds, then raises his sword and stabs downward, straight into the downed one’s eye. He repeats the process for the other injured one, then hisses something to the others and they all start running.
+
+I stop to pull the two dead ones into my Stomach, then chase after them. I scratch at their ankles as they flee, but with how flexible their necks are and how they’re eyes are placed, they’re somehow able to keep an eye behind them to watch for me while also not running into any trees. Just when I’m about to give up my pursuit, one of them trips. It’s the one with the bloody sword who killed the two injured ones.
+
+The other three don’t notice his fall immediately and keep moving, so I pounce on the opportunity, and scratch at his legs. However, he’s fast. Faster than the others I’ve killed. He manages to turn around, so rather than severing his achilles, I just leave a long, bloody line across his webbed foot.
+
+He stabs at me so quickly I can barely see it, but Cat-like Reflexes saves me again, and I jump back out of reach. I slink back into the underbrush as he scrambles to his feet and starts running again to catch up to the other eelmen. I pursue right up to the edge of the treeline, and watch as they run into the waves. The one whose foot I scratched pauses for just a split second before he fully dives underwater, looking back in my direction and hissing. Then, the island is calm.
+
+Well, that didn’t go as planned.
+
+[ You can’t win them all ]
+
+I know. So much eel meat lost though…
+
+[ Well, look on the bright side. More experience points for after you evolve and can earn again! ]
+
+Hey, yeah, you’re right! Good thinking. I should go evolve now.
+
+[ No, you should wait to make sure they aren’t coming back, then evolve ]
+
+Hmmm, yeah, that’s probably a better plan.
+
+I return back to the center of the island and climb my favorite tree, settling into my spot. Then, I wait. And I wait some more. And then I fall asleep.
+
+When I wake up, the sun is rising and the seagulls are screeching and the fish and eel people are nowhere to be seen. Sounds like the perfect time to Evolve!

@@ -1,0 +1,145 @@
+---
+id: 96782a0a-31a3-502b-b4c3-e4634598ce14
+page-type-slug: story-chapter-royal-road
+title: "71 - A Busy Day at Work"
+slug: 0071-71-a-busy-day-at-work
+partOf: cat-girl-evolution
+position: 71
+ownLength: 2592
+unit: words
+publishedAt: 2026-01-04
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2910195/71-a-busy-day-at-work"
+royalRoadId: "2910195"
+---
+
+Despite the chaos of everything that had been going on recently, for most people living in Riverfork, life simply went on as usual. The potential catastrophes in Ryantown and the small fishing village had been settled before they could cause any direct problems for Riverfork. Only the highest rank Adventurers had been directly affected, and it wasn’t even all of them.
+
+However, even with just four taking on the responsibility of handling the matter of Ryantown, it still left them with some things to take care of when they returned. For the twins, it was finishing the artifacts that had been commissioned of them that they had to put on hold during the emergency Quest. For Chad, it was a personal woodworking project that would serve as the finishing touch to his house, at least for the time being. For Lauren, it was work.
+
+While her conversation with Pike had mostly been about Yona, at the end, it had turned to Lauren’s own personal plans for the future. Pike had long known of her intention of moving out of Riverfork, so it came as no surprise to him. He had already been looking for a replacement evaluator for when she left, but with her leaving so soon, he needed to take a more active role in searching. In the meantime, he managed to talk her into spending much of her free time performing as many evaluations as possible to give him a small buffer in case he couldn’t find a new one in time.
+
+She had agreed because she felt guilty about leaving so suddenly, but now that she was back in the Dungeon watching new Adventurers, she regretted that decision. It wasn’t that she didn’t like helping new Adventurers. Some of them were very pleasant to work with. They understood their weaknesses, and were happy to receive guidance. As many pleasant Adventurers as there were, though, there were just as many unpleasant ones.
+
+It was a problem that stemmed from the perceived danger inherent to being an Adventurer. The reason that it was "perceived" was that, in Lauren’s opinion, the danger was negligible, at least for anyone who knew what they were doing. Of course, there were always the more daring Adventurers who took risks to challenge unexplored Dungeons, or unexplored sections of Dungeons, and often wound up dead, but the average Adventurer would never do that. They would just go into the well-documented Dungeons with a Party of capable people, kill monsters that they had information on beforehand, collect their valuable body parts, and go home. The mortality rate for these types of Adventurers should have been negligible.
+
+Unfortunately, not all was as it should have been. The profession’s reputation scared many people away, while attracting many others of the arrogant, glory-seeking type. They let the reputation of being an Adventurer get to their heads and thought that they were better than they were. They did stupid things in Dungeons, not realizing how stupid they were, and ended up getting themselves killed. In an ironic twist, the very fact that Adventuring was known to have a high mortality rate was the exact reason that Adventuring had a high mortality rate.
+
+Even more unfortunately, these types of Adventurers that like to get themselves killed were the type that Lauren had to deal with more often during evaluations. The pleasant, rational Adventurers all passed their evaluations. The unpleasant irrational ones failed and had to try again. It wasn’t uncommon for her to see the same Adventurer or group of Adventurers three times for the same rank evaluation, and as much as they annoyed her, they also held grudges against her for failing them.
+
+She only got a single day of relaxation after the emergency Quest before going back to work, and even that day of “relaxation” was marred by the talk with Pike and the bombshell Yona decided to drop on her. Now, she was back at work, dealing with new Adventurers while the lazy, gluttonous cat was probably napping and eating all day.
+
+As sunset approached, she finished up her fifth evaluation of the day. They just so happened to be the same group that she had failed before the first emergency Quest sent her to the fishing village. Some dolt had gone and promoted them while she was gone, and now they thought they were ready for high Silver and were challenging the evaluation test again.
+
+They had a bone to pick with her, and their recent promotion had bolstered their unearned confidence to new heights, and despite the utter failure of their previous test, they somehow managed to perform worse on this one. They had each gained a few levels since the last evaluation, so their attacks were more powerful, and their bodies were more durable, but their teamwork was just as atrocious as ever, and their increased stats only exacerbated the issues their lack of coordination caused.
+
+She rejected their request for promotion, of course, and once again, her critique left a few of them in tears. Their tank, however, had somehow grown a spine since the previous evaluation, and rather than wilting under her scathing remarks, he rose to match her, arguing back. Lauren thoroughly refuted everything he tried to say until it reached the point where he stormed off, threatening to report her to the guildmaster.
+
+“Try it!” she called after him. “See how that goes!”
+
+The others made to follow him out, but she stopped them.
+
+“Stop,” she said.
+
+They all paused and turned back, a few with tears in their eyes.
+
+“Do you know why the mortality rate of Adventurers is so high?”
+
+They glanced between each other, then tentatively shook their heads.
+
+“It’s because many Adventurers are stupid,” said Lauren. “And stupid Adventurers are dead Adventurers. Right now, you guys are acting like stupid Adventurers. I’m not failing you because I hate you. I’m failing you because you dumbasses are going to get yourselves killed if you don’t shape up.
+
+“It’s really not that hard. Just change a few bad habits and you’ll at least have passable teamwork. It should only take a few months. And if you ignore me and wait until you get a more lenient evaluator and keep pushing yourselves, don’t blame me when your shitty teamwork ends up being the death of you. Got it?”
+
+They all gave her nervous nods.
+
+“Good. Now, scram. I’ve got one more evaluation to do tonight, and I am starving.”
+
+The young Adventurers nodded, then quickly scurried away. Lauren sighed, then followed behind at a more leisurely pace, letting them pull ahead so she didn’t have to look at them. As she walked, she pulled out some jerky to eat to soothe her grumbling stomach.
+
+Damn you, Yona, she thought. If I end up getting fat because of you, I’m gonna… I don’t know, but you’re not gonna like it.
+
+While she ate, she also pulled out her assignment sheet detailing the evaluations she would have to perform. Her final one was a solo Adventurer, which was a huge relief. It wasn’t that solo Adventurers were any better than Parties, but a single Adventurer was much easier to handle than a group, even if they were belligerent.
+
+This particular Adventurer was a newcomer to Riverfork, apparently, as her paper listed her badge as being originally from Wormwood, a city to the east bordering the Great Swamp. She was a rogue archetype like Lauren, which is probably the reason they had been matched together, and more curiously, she was a Shadow Rogue, which was the same Tier 1 Class that Lauren had. Lauren didn’t believe much in luck or fate, but the coincidence was enough to put her in a somewhat better mood and make her hopeful that this time, the Adventurer was different.
+
+Her hope was rewarded by what was indeed a much better experience. The new Adventurer, Annie, was not only bright and pleasant, but she was also competent. Competent enough that it had Lauren excited.
+
+She’s a natural! thought Lauren as she watched Annie slink into the shadows and wait as a group of a dozen lizards passed her by.
+
+Other Adventurers might have attacked by then, or run away, but Annie clearly understood both her abilities and her role. Taking on a group was not what a rogue did best. Even if these lizards were on the weaker side for someone of her level, fighting a group as a lone rogue was not ideal. Instead, she let them pass, and slowly stalked them from behind, only striking when one of them fell behind. When she did strike, her blow was swift, precise, and best of all, silent, and as soon as the lizard was dead, she retreated to the shadows.
+
+She killed two more this way, then retreated further before dropping her stealth and letting her mana replenish. She repeated the process a few more times until the entire group was dead, then moved on. The whole process only took half an hour, and the next two groups of lizards were smaller and went down even faster. They reached the boss room quickly, and Lauren was once again pleased to see Annie use her Class to her advantage.
+
+Low level stealth Skills like the Shadow Rogue’s Shadow Form would not activate if someone was looking at you. This was tricky in a Dungeon boss room, since the boss always spawned staring directly at the entrant, preventing such stealth Skills from activating. Fortunately, Annie came prepared.
+
+As soon as the lizard appeared, she pulled a smoke bomb out of her bag and threw it at the ground between her and the lizard. The second that the line of sight between her and the lizard was broken, she entered the shadows, making the lizard lose track of her. The boss ran around the room searching for her, but she stayed perfectly hidden, slowly moving along the walls until she was in the back of the room.
+
+She had clearly done her research on the Dungeon. The bosses of each floor were always the same, and the methods to defeat them were well-defined. For rogues, if the boss lost track of them for more than a minute, it would return to its starting position at the back of the room and wait for them to make their appearance. Annie positioned herself perfectly so that when it laid down on the ground, it was only a few feet away from her. It did not have time to react when she made her move, cleanly severing its spine in a single blow and completing the first floor of the Dungeon.
+
+I don’t know if I can even critique her, thought Lauren happily as she undid her own stealth Skill to meet back with Annie.
+
+“How did I do?” asked the redheaded girl earnestly.
+
+“Very well,” said Lauren with a smile. “I honestly don’t have much to critique you on. If I had to say something. It would be that there were a few times when you might have been a little too cautious, but that’s not a real critique. Too much caution is rarely a bad thing for an Adventurer. Still, you likely could have gotten things done a bit faster if you had more confidence and moved a bit more quickly.”
+
+“I see,” said Annie, pulling out a notepad and jotting something down. “Thank you very much!”
+
+“You’re welcome,” said Lauren. “Your official results will take a day to process, but I can say right now that you passed my test. That was the best evaluation test I’ve seen in… Well, it might be the best ever.”
+
+“Really?”
+
+“Yup!” said Lauren. “I’m sure you’ll make it to Silver and beyond in no time. You definitely have what it takes. Just don’t get a big head and make sure you always stick to the best practices.”
+
+“Yes, ma’am!”
+
+Lauren smiled, then turned to the System prompt that would cause them to exit the Dungeon. As she was about to click the prompt though, Annie started speaking again, making her pause.
+
+“By the way, do you know Yona?”
+
+“Yona?” asked Lauren. “Yes. I am a member of her Party.”
+
+“Wow!” said Annie. “Did she really kill a Disaster all on her own?”
+
+“...Yeah,” said Lauren. “Two of them, technically.”
+
+“That’s so cool!” said Annie. “I wanna be strong like that someday!”
+
+Oh no, I can not let this girl meet Yona, thought Lauren. Yona will become insufferable.
+
+“Well, if you keep going the way you’re going, I’m sure you’ll make it,” said Lauren. “I’m a bit hungry, so we should–”
+
+“Is it also true that she’s secretly a Named monster?”
+
+Lauren froze.
+
+“What are you talking about?” she replied, turning back to Annie.
+
+Annie looked the same as she had before—a young, bright-eyed Adventurer—but something about the atmosphere around her had changed. Her expression, her tone of voice, and her demeanor were all just as they were before, but for some reason, Lauren now felt that she looked almost… regal? No, that wasn’t right. Holy was a better term. The wooden scepter in her hand suddenly looked like something that a mighty holy leader would hold, rather than a simple Adventurer.
+
+Wait, wooden scepter? thought Lauren. When did she get that? And why is it so… familiar?
+
+Lauren tried to recall where she had seen the scepter before, but for some reason, she couldn’t quite reach the memory. It was like there was a haze over her mind regarding it.
+
+“Yona is a monster disguised as an Enlightened, isn’t she?” asked Annie, still smiling.
+
+Lauren opened her mouth to reply, but found that she couldn’t. The words simply wouldn’t come out. She frowned, trying to figure out why, then her eyes widened as she realized what it was. It was the contract that she had signed the day before, the one to protect Yona’s secrets.
+
+Yona! Lauren suddenly remembered.
+
+She stared at the scepter again, finally remembering what it was. It was the Soul Weapon belonging to the Named Disaster of Ryantown. The ghostly creature that had brainwashed an entire town into starving themselves to death. And the scepter was the weapon that had been stolen from Yona’s room the previous day.
+
+“You’re the assassin!” Lauren exclaimed.
+
+She leapt back, drawing her blades and getting in a defensive stance. Meanwhile, Annie stood where she was and sighed. Her smile was gone, and her eyes had lost their luster, now looking hollow and lifeless.
+
+“I was hoping it wouldn’t come to this,” said Annie in a monotone. “I don’t like getting other people involved.”
+
+Lauren suddenly remembered where they were and was about to give the mental command to exit the Dungeon when a wave of mana passed through the scepter and struck her. Her mind was sent reeling and her vision went dark and she almost forgot what she was doing. She barely managed to hold onto herself using one single thought.
+
+Yona’s assassin is right in front of me.
+
+Her vision returned just in time to see Annie’s leg flying toward her face. She tried raising an arm to block it, but her mind was foggy and her movements were sluggish, and the kick hit her right in the temple, knocking her unconscious. When she came to, she was lying on her back with Annie standing over her.
+
+“I’m sorry,” said Annie.
+
+Then, the redhead brought the tip of the scepter down to Lauren’s chest, and the moment it made contact, Lauren’s mind went blank.

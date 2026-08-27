@@ -1,0 +1,127 @@
+---
+id: e8abf557-c507-5a2f-8826-4bf02aca4c31
+page-type-slug: story-chapter-royal-road
+title: "165. Stranger Still"
+slug: 0165-165-stranger-still
+partOf: breaker-of-horizons
+position: 165
+ownLength: 2306
+unit: words
+publishedAt: 2021-12-30
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/815452/165-stranger-still"
+royalRoadId: "815452"
+---
+
+Caden was completely oblivious to how the scene looked to the handful of people in the cafe. The little bubble of privacy that muffled sound was still up, so all they had witnessed was Devon getting increasingly distraught before he finally got up and left, while Caden remained and was now staring unblinkingly at their unfinished food. A few furtive glances were thrown his way and there was a bit of speculative whispering, but he heard none of it anyway through his own barrier, and his mind was a long way off. His thoughts were turned inward as he tried to carefully take stock of the present situation and the various forces involved.
+
+While it was possible that this unknown watcher was some hitherto unknown agent of the Fateweavers, Caden's instincts told him this wasn't the case. The person was being so elusive even in oblivion that it was hard to believe they were working together with the Fateweavers, because he expected anyone that worked with them to be less concerned about moving softly. Also, something about this person's ability to hide so completely in oblivion made him associate them with the unknown assailant, who was most certainly an outside force.
+
+Which led him back to his earlier suspicion — were they the same person? If so, then agreeing to meet would be very dangerous, and possibly also very stupid.
+
+As Caden continued to mull over things, he absently started on his food again, still oblivious to the curious looks being thrown his way.
+
+The thought of a trap being set for him so nearby was very disquieting, and it made him feel very vulnerable. And yet... if this was a trap, wouldn't it have been set with better care? He had literally been attacked only hours ago. Why would the same assailant make such a naked attempt to draw him out into the open? And was setting a trap even necessary, given how the assailant had struck when he was in the middle of the Academy in the dorm? Plus, the lake wasn't particularly isolated and it was still within the Demiurge's sphere of influence. If the assailant absolutely had to lure him away, it made more sense to want him to meet somewhere far outside of the Academy.
+
+So perhaps the watcher was not the assailant. Caden had to consider the possibility that this watcher was yet another party; one who was potentially against the Fateweavers as well, given all this secrecy. That made them a possible ally, and he was quite willing to make an ally out of someone who wasn't trying to kill him. It was a far more attractive option than the one the augera had presented him with, which was to try and reach out to the assailant and make an ally of them.
+
+The Fateweavers were obviously still in play, and he fretted a little about whether they were keeping tabs on him and whether or not he might accidentally be serving as bait to draw this watcher out, but after some thought, he decided it wasn't a huge danger. He didn't have to worry much about moving undetected himself because he was {~?~} and they apparently couldn't read him without killing him. And if the events of the previous night were any indication, the Fateweavers weren't closely watching the Academy, or they would have noticed the attack. The assailant's attempt on his life had adequetely revealed how the Fateweavers had excluded him from the Empire-wide protective surveillance of the augeric web, and the augera were not obligated to report anything done as long as it only threatened Caden. Of course, this all relied on the assumption that the Demiurge himself either wasn't lying about how that worked, or could reliably tell that the Fateweavers truly hadn't noticed anything amiss, but Caden was inclined to believe Caldwell because the augera had also separately corroborated some of those claims.
+
+The Demiurge's actions so far indicated that he was, in a way, entirely self-interested. He didn't seem to have a care about whether the Empire and the Fateweavers were preserved or destroyed, and was apparently happy to look out for Caden. So even though there was a chance that whatever new protections he had put in place would tip him off about what Caden was up to if he met the watcher, Caldwell wasn't likely to intervene as long as Caden himself wasn't in danger.
+
+Caden finally concluded that if he wanted, he really could just stroll to the lake and meet this watcher. There was some risk involved, but it seemed perfectly acceptable given the potentially valuable information he might gain from meeting someone who was powerful enough to move with apparent impunity within the Academy and evade the Fateweavers' detection.
+
+The scratching of his cutlery on glass drew him sharply back to the present and he blinked down at his empty plate, mildy confused for a moment until he realised that he had been absentmindedly eating all this while. He looked up and saw a few heads hastily turn away, and it finally dawned on him how odd the whole scene must have looked to everyone around.
+
+Feeling a mix of irritation and embarrassment, he brought his and Devon's trays to the return point and left as quickly as he could, trying hard to avoid eye contact with anyone. On the bright side, he didn't think he spotted anyone from his year.
+
+There wasn't any point delaying, so he set off towards the hidden door that led out to the lake. By now, more students had arrived on campus and there were people milling about the grounds, but being able to see all the hidden buildings meant that the whole place still felt largely empty to Caden. And even though the hidden door wasn't exactly in a secluded area, there was no one near enough to see him by the time he got there. He reached out in oblivion and pulled the door into position so that it shifted out of the solid marble wall.
+
+Just in case, he took the time to cover himself in a close-fitting honeycomb shield and shifted it out of the visible spectrum. And even though he wasn't sure how effective it would be, he made use of the principles he had learned while figuring out the wysana sequence and trying to block individual glyphs — they helped him extend his shield into oblivion as well. When he felt satisfied with his work, he stepped through the door and closed it behind him, allowing it to fade back into the marble wall.
+
+The lake glittered invitingly in the light of the noonday sun, which also provided just enough warmth to hold the chill of winter at bay without making it unpleasantly hot. It was extremely disarming weather that was at odds with the pit of anxiety Caden felt in his stomach. There was no one within sight as far as the eye could see, and nothing stood out in oblivion either.
+
+'You came. The lake. Go to the water's edge.'
+
+For the first time, Caden felt the presence of the person instead of just 'hearing' their disembodied voice, which did indeed seem to orginate from somewhere close to the water. However, his eyes failed to pick out anyone or anything remarkable, and before he could reply, the presence faded once more. He tried in earnest this time to locate the person, extending his senses as far as he could in oblivion, to the very limits of his ability where he felt the higher reaches of his auric-ambient-flare straining to grab hold of whatever planes of reality were beyond ordinary mortals.
+
+'If you're that curious, then go to the water's edge.'
+
+This time, there was no directionality to the voice, but he did catch a sense of mild amusement in its tone. Caden forced down the rising sense of foreboding and slowly made his way down towards the lake.
+
+He stopped a few steps from the edge and waited, but after a few moments of silence, he steeled himself and stood with the tips of his shoes just touching the water.
+
+There was movement. His own reflection waved lazily back at him and grinned.
+
+"What the—" Caden stepped back, alarmed, but his reflection didn't move, and continued to look up at him wryly.
+
+'You've gone through stranger things, surely.'
+
+The voice was definitely coming from his reflection, but even at this distance, it was so faint that Caden had to really concentrate to catch the words. And despite the fact that he was right there next to the apparent source, he still couldn't detect the person's auric-ambient-flare.
+
+'How are you hiding so completely?' he asked, projecting in oblivion. 'Why can't I sense you at all?'
+
+'Your first question is 'how', not 'who'? You must feel very safe.'
+
+That wasn't very reassuring at all, and Caden double-checked his shields. The watcher must have sensed his growing sense of unease, because his reflection looked like it was chuckling, though no sound came through.
+
+'An answer for an answer. Fair?'
+
+'And if I refuse to answer a question?'
+
+'Then you get fewer answers. You get as much as you offer. First question — have you dominated any augera?'
+
+Something in the tone of that question sent chills up Caden's spine, and he felt the sense of danger increase dramatically. He got the distinct impression that if he answered in the affirmative, something awful would happen.
+
+'No,' he answered, feeling relieved that he could say so truthfully, because he was almost certain that the watcher could tell if he was lying.
+
+'We're off to a good start. So, what's your question? Do you want to know the 'how', or the 'who'? Or do you want to ask something else?'
+
+He didn't know how many more questions he was going to be asked, and he wasn't exactly sure if he felt comfortable about continuing to exchange answers in this way, so he tried to weigh the importance of the questions.
+
+'How,' he decided after agonising over it for a full minute.
+
+'Quite impossible to satisfactorily and perfectly explain. But maybe this works — you sense the web. The Fateweavers made it and sit on it like a throne. I? I've made friends with it, and it teaches me how to skulk around the seat of power.'
+
+'You're friends with the augera?' he blurted, but the watcher wagged a finger at him.
+
+'It's my turn. The Fateweaver you met — tell me what you remember about how they looked.'
+
+That felt like it was safe to answer because it wasn't giving away any of his personal secrets. 'Female. White hair, a bit longer than shoulder-length. Blue eyes. Hard to tell her age. Grey robes.'
+
+His reflection nodded thoughtfully, then grinned at him. 'So, which question do you want me to answer?'
+
+This time, the choice was simpler. 'Who are you?'
+
+'It's harder to answer than you know. No name I can give would mean anything to you. But I think you will be interested in knowing that I did not attack you last night. I am not of the Empire, nor am I of Sedhah, or any nation known to you. And finally, I am not a friend to the Fateweavers.'
+
+'But then who, or what—'
+
+'It is my turn.'
+
+'Your answer hardly counts!' Caden protested.
+
+'Nevertheless, it is all I can meaningfully give for the moment. If that doesn't satisfy you, we can stop here.'
+
+The unfairness of it irritated Caden, but he felt that there was more to gain by continuing the exchange, so he nodded curtly. "Fine, next question."
+
+'Did you reveal to the Fateweavers that you have met with an ocean-wellspring-core?'
+
+Caden drew in a sharp breath. His reflection simply regarded him calmly, waiting for a response.
+
+'No,' he finally replied. The watcher looked pleased, then nodded back at him.
+
+'Your question?'
+
+Asking for further clarification about who or what the watcher wasn't likely to yield any further information, so Caden tried to think about something else he could ask that would give him the most amount of information to work with.
+
+'Why are you watching me?'
+
+His reflection shook with laughter, but no sound came from it until it settled down and gave its response.
+
+'The cheap answer is that you are {~?~}. But I am feeling generous, so I will tell you that I am quite interested in seeing how your choices will force the Fateweavers to move in ways they have not had to do for almost a thousand years. And if you prove to be very promising, and our interests turn out to be aligned, I might one day consider working with you.'
+
+That definitely caught his interest. 'Okay. Ask me another question,' he said, eager to offer something up so he could ask something else. But his reflection smiled ruefully.
+
+'I'm afraid that's all I need from you for now. Some free advice — you've put yourself in a very precarious position by moving back into the dorm. Don't expect to preserve your old friendships. The Fateweaver's threads slant far away from that inclination, and if you want to attempt to wrest them to your favour, be aware of the risk you are taking, and be adequately prepared for the possible consequences. A wysana might help you mitigate some of that risk, or alleviate the severity of any resulting fallout, but even then, the deck is stacked against you.'
+
+Before Caden could say anything else, his reflection shifted slightly and turned into the figure of a middle-aged man with black hair and startlingly bright emereld-green eyes. The man tipped his head and flashed a grin, and the next moment, Caden was left staring at his own confused face in the shimmering water.

@@ -1,0 +1,213 @@
+---
+id: f4e1b392-0265-51d6-9ac5-2c923b028e3c
+page-type-slug: story-chapter-royal-road
+title: "68: The Star"
+slug: 0068-68-the-star
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 68
+ownLength: 2093
+unit: words
+publishedAt: 2025-11-12
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2754747/68-the-star"
+royalRoadId: "2754747"
+---
+
+With tickets in hand, Chloe skipped down the hallway. Raenof didn’t look nearly as excited, but there was a curious glint in his eyes.
+
+The hallway curved and suddenly opened up into what the signs called the “arena stands.” The place had rows upon rows of seats stretched up in a giant circle, all facing a wide pit in the center. The arena floor was covered in sand, with a lot of sword and claw marks carved deep into the ground.
+
+Raenof gently grabbed her shoulder and guided her toward their section. “This way.”
+
+They climbed a few rows, Chloe muttering things like “oops,” “sorry,” and “wow, your fur’s really shiny” as she bumped her way through. Their seats weren’t super close to the center of the arena, but Chloe still had a clear view.
+
+She plopped down on her seat, legs swinging like a kid on a bench. “Okay! When does the stuff start?”
+
+Raenof sat beside her, “Just wait.”
+
+So, she waited.
+
+A couple of Luphian vendors wandered past with trays of snacks—mostly meat on sticks or crunchy-looking stuff wrapped in leaves. More people kept filing into the stands, chatting and squeezing past one another. A kid in front of her waved a little flag with a fang on it, nearly smacking Chloe in the face.
+
+She leaned toward Raenof. “Sooo… when exactly does the fight start?”
+
+“Soon,” he replied, calm as ever.
+
+Chloe leaned back, tapping her fingers against her knees. After about ten seconds, she leaned in again. “Has it secretly started and we just missed it?”
+
+Raenof didn’t even blink. “No, Chloe. You’ll know.”
+
+About five minutes passed. Chloe poked his arm. “Now?”
+
+“No.”
+
+A couple of more minutes passed. “Now now?”
+
+“No.”
+
+“You sure? I heard a thing.”
+
+“Chloe,” Raenof said with a sigh. “Please.”
+
+“Fineee,” she groaned, slouching in her seat. “I’ll wait.”
+
+Eventually, after what felt like forever, the arena rumbled. Lights flared to life along the outer walls, and a deep, thumping beat rolled through the air. Chloe shot upright. It’s time!
+
+A booming voice echoed through the arena. “Vorraska… are you READY?!”
+
+The crowd exploded in cheers, howls, and stomping. Chloe flailed both arms. “I’m ready!!”
+
+Once the noise went down a bit, she turned to Raenof. “Hey, do you know where that voice came from?”
+
+Raenof pointed to glowing crystals set along the walls. “Those magic crystals over there have been enchanted to become sound projectors. They amplify voices so the whole arena can hear.”
+
+Chloe opened her mouth to ask more, but her attention snapped back to the arena as something rose from the center platform with a hiss. Standing on top was the flashiest Luphian Chloe had ever seen.
+
+He wore a red and gold coat, and he had the widest smile Chloe had ever seen on a wolf person. He raised a clawed hand and grinned wide enough to show off every one of his sharp teeth. “Vorraska! Are you ready for the fight of the season?!”
+
+The audience howled and cheered even louder. Chloe threw her arms up too. “I’m sooooo ready!”
+
+The guy in the red and gold coat strutted across the ring. “Today’s match will be between two titans of the arena!"
+
+The announcer pointed toward the far end of the arena. “In this corner, the one, the only, the walking storm: Razz the Lightning!”
+
+A set of heavy gates crashed open, and out stormed a massive Luphian. His grey fur shimmered with glowing blue streaks, and lightning sparked at his feet with every step. Two axes crackled in his hands, arcs of electricity coiling around the blades. And as if he wasn't cool enough already, he had a pair of horns jutting out of his head.
+
+Chloe bounced in her seat. “Whoa! He looks like a Thunder Wolf that got bored of walking on four legs and decided to just walk normally."
+
+Raenof nodded. “Hmm, I heard that some Luphians still carry ancient beastblood. So he might have shared the same ancestors as Thunder Wolves.”
+
+Once Razz reached the center of the ring, the announcer threw his arms wide. “And now… prepare yourselves for the legend of legends! The roaring flame of Vorraska! The Guildmaster himself, your reigning champion… Aleph!”
+
+Flames erupted from the opposite gate. Out of the fire strode another tall Luphian.
+
+He wore only loose black pants and a crimson sash tied at his waist, and the rest of him was just rock hard muscle. His long red hair streamed behind him, matching the firelight.
+
+The crowd cheered louder and louder as the Guildmaster got closer to the center. And once the cheers were at their loudest, he tilted his head back and breathed fire straight from his mouth, curling high into the air before fading into smoke.
+
+Chloe couldn't help but be in awe. "Whoaaa…"
+
+Raenof raised an eyebrow. “Impressed?”
+
+"Totally! I wanna breathe fire too."
+
+"Oh? Can't you do that already?"
+
+"Well… guess I haven't tried."
+
+Meanwhile, Aleph raised one arm to the crowd, and the noise doubled again. Chloe jumped up and shouted something that was probably words, but definitely not coherent.
+
+The two fighters squared off in the middle of the arena. Razz's twin axes hummed with lightning. But Aleph just stared his opponent down, fire lazily licking his arms like it belonged there.
+
+The announcer strutted off to the edge, arms raised high. “This is it, Vorraska! Two champions, one winner! In three...!”
+
+The crowd roared the countdown.
+
+“Two...! One... FIGHT!”
+
+Razz was the first to move, he charged across the arena, twin axes sparking with blue lightning. One came for Aleph’s head, the other aimed low at his ribs. Chloe tensed, gripping her seat so hard Cloaky squeaked beneath her.
+
+But Aleph slipped past the first strike, then tilted backward just enough for the second to miss by a hair. None of Razz's attacks landed.
+
+Razz snarled and followed up with a spinning strike, but Aleph stepped in and punched him straight in the gut. The hit landed with a deep boom, flames bursting from Aleph’s fist. Razz staggered back, wheezing, as a gasp rippled through the crowd.
+
+Gritting his teeth, Razz leveled his head and aimed his horns directly at Aleph. Bright light sparked between them before he unleashed a bolt of lightning that struck Aleph in the chest with a thunderous crack. The air lit up white for a split second. Chloe flinched, one hand over her mouth.
+
+Smoke coiled around Aleph’s body as he took a step back. Then, slowly, he stood up and smiled. His chest was blackened, but otherwise totally fine.
+
+Razz was looking super angry at this point. With a snarl, he started launching as many lightning bolts as he could. However, Aleph walked through them without breaking stride.
+
+The blasts hit, hissed, and sparked off his body, but he just kept coming closer and closer, until the Razz had no space left to run. So, Razz ditched ranged attacks and leapt forward.
+
+Razz landed a headbutt that made Aleph stumble, then spun into a dual slash with both axes. Aleph raised his arms and caught the blades as flames coiled up his arms and began to turn the metal red hot. Razz yelped and let go just as Aleph surged forward.
+
+Aleph then grabbed Razz by the waist and hurled him across the arena. The wolf-man crashed into the ground with a puff of dust and rolled to a stop in a heap.
+
+He started to rise again. But Aleph was already ready to finish things. With fire exploding around his feet, the Guildmaster sprinted forward and leapt high into the air.
+
+Chloe gasped as Aleph launched himself into the air, both feet driving square into Razz’s chest. The impact cracked through the arena like thunder.
+
+Aleph then took a step back, chest heaving, his gaze locked on Razz’s unmoving form. Another guy rushed into the arena, dropping to one knee beside Razz. He checked for movement, pressed two fingers to Razz’s neck, then raised his hand and began to count. “One… two… three!”
+
+At the final count, he swung his arm toward the announcer. Next, the announcer’s voice exploded through the arena. “Today's winner is… ALEPH!”
+
+Chloe jumped up and threw her fists in the air, screaming something that vaguely resembled words. Raenof, still seated beside her, looked mildly amused. “Impressed?”
+
+Chloe pointed at Aleph. “Now I really wanna talk to him."
+
+"Then let's go find him."
+
+***
+
+Chloe practically skipped down the steps as the crowd poured out of the arena. Her arms flailed through the air as she swung her hands around. “And then Razz went flying through the air. It was so cool!”
+
+Raenof walked beside her at his usual calm pace. “Yes, Chloe. I was watching. I saw the whole thing.”
+
+"You saw that drop kick move right? I wanna try learning that one day."
+
+“I’m sure you do. But maybe we should focus on the part where we find Aleph?”
+
+“Okay, so… where do you think he went?”
+
+“That’s what we’re trying to find out.”
+
+Chloe and Raenof weaved through the halls of the arena, ducking past lingering fans and vendors packing up their stalls. Chloe had already asked three people for directions. Two of them shrugged, and the third just ignored her altogether, which was not nice.
+
+Raenof had better luck spotting someone who at least looked like they knew something: a tall Luphian in a sharp vest. “Excuse me, do you know where we might find Guildmaster Aleph?”
+
+The staffer gave him a quick once-over and shook his head. “Guildmaster’s busy. No visitors.”
+
+Chloe peeked around Raenof with her brightest smile. “But what if it’s a fun visit?”
+
+“Still no visitors,” the staffer said.
+
+Chloe and Raenof tried to ask around more. But most people either didn't know anything or didn't want to help them at all.
+
+Raenof was just about to suggest they give up and try again tomorrow when Chloe suddenly stopped mid-step. Her eyes went wide.
+
+At the end of a wide corridor stood a pretty big crowd, And right at the center of it all, was Aleph.
+
+He stood tall and calm, surrounded by staffers trying their best to hold the crowd at bay. But fans kept pressing closer anyway, shouting questions and reaching out.
+
+Raenof stepped up beside her. “Well… I guess we know where he is now.”
+
+Chloe grinned. “Perfect! Let’s go.”
+
+“Chloe. That crowd’s too thick. We’re not getting through—”
+
+But she was already walking. No way she was going to miss the chance.
+
+“Chloe! Seriously. This is not—”
+
+“Gonna stop me!”
+
+Chloe strode forward with zero hesitation. The crowd was super thick, but Chloe kept pushing forward like she belonged there. “Coming through!"
+
+A fan’s wildly wagging tail swung in front of her, but Chloe slipped around it and popped out at the front, right there, face-to-face with Aleph. Chloe waved both arms over her head. “Hi! Big fan! Also I really need to talk to you for reasons!”
+
+Unfortunately, her path was immediately blocked by two staffers. One held up a hand. “Ma’am, you need to step back.”
+
+“This area’s restricted,” said the other, already reaching for her arm.
+
+Chloe blinked, then frowned. “Seriously? I just wanna talk to the guy.”
+
+The first one stepped closer and grabbed Chloe's arm, trying to drag her away.. “Guildmaster Aleph isn’t seeing anyone right now. Please return to—”
+
+Before he could finish, Chloe casually grabbed the staffer and tossed him aside. He hit the ground with a thump and a shocked yelp.
+
+The second staffer went down next. Chloe shoved him with one hand, and he slid across the floor, arms flailing all the way.
+
+The entire crowd gasped. A few people backed off immediately, giving her a very generous amount of space.
+
+Aleph finally turned to look at her, towering over Chloe. His fiery eyes narrowed, and his voice rumbled with casual disinterest. “What’s your deal, kid?”
+
+Chloe crossed her arms and tilted her chin up proudly. “I’m here on a very important mission from Iris. Now I need your help so I can get my reward and all that.”
+
+Aleph blinked once, turned around, and started walking away. “Nope.”
+
+“Wait, what?! What do you mean, nope?”
+
+“Means I’m not helping you. Now go away before I toss you out of this place myself.”
+
+Chloe stood there, stunned. He didn’t even think about it?
+
+Then she hurried after him. “Don’t just walk away! I came all the way here through sewers and rat people!”

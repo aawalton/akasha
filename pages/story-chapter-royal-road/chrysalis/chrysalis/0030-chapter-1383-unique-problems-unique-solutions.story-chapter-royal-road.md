@@ -1,0 +1,107 @@
+---
+id: 0c32088d-6ec1-595d-8ee5-1ce268a900d5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1383 - Unique Problems? Unique Solutions"
+slug: 0030-chapter-1383-unique-problems-unique-solutions
+partOf: chrysalis
+position: 30
+ownLength: 1090
+unit: words
+ownProgress: 1090
+publishedAt: 2024-08-01
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1740089/chapter-1383-unique-problems-unique-solutions"
+royalRoadId: "1740089"
+markedReadAt: "2026-06-29T19:44:36.686Z"
+---
+
+By the time we manage to isolate some small pieces and place them into the wuffer intake pipes, several of the lousy monsters have pulled themselves back together and I’m forced to chomp them again. Repeated exposure to toxicity and acid is really starting to take a toll on me, and I’m going to need a break sooner rather than later.
+
+Even Tiny is struggling inside the safe-zone, his fur becoming patchy in areas where he’s been burned. Invidia is staying close by, healing and cleansing him as much as he can, but I can tell the ape is getting worn down.
+
+Using the heavily enchanted trenches drawing toxic mana toward the groups of wuffers as a delivery system seems to make the most sense. It’ll get the problem to the wuffers and isolate it from the rest of the safe-zone at the same time. The only concern is… how will the happy wibble-wobble pets take it?
+
+Even I watch with bated breath as the test sample is absorbed. The wuffers have been happily doing their thing for ages now, absorbing the toxic mana in a constant stream and releasing a dense cloud of purified energy that fills the safe-zone.
+
+For a moment, it’s difficult to tell what is happening. Even my senses struggle to keep tabs on such a small bit of mana.
+
+[Invidia, can you tell what’s happening in there?]
+
+[It appearssss the pieces have been absssorbed.]
+
+[Oh snap. So one of the wuffers has actually taken it in?]
+
+[Yesssss.]
+
+A few moments later, I pester him again.
+
+[So… what’s happening now?]
+
+[Waitssss a moment.]
+
+Exactly one moment later.
+
+[How about now?]
+
+[Interessssting. You sssshould be able to sssense it too.]
+
+I cast my mind toward the wuffers, confused. I don’t sense anything! Certainly no toxic mana…. Wait, that’s the point!
+
+In fact, the purified mana being released is ever so slightly more dense! It actually worked?!
+
+With a solution at hand, the ants spring into action, working as industriously as they always do. I’m no exception, since I’m the only one who can gather up the many chunks of monster still outside the purified area.
+
+I spend the next ten minutes slicing up monsters and delivering pieces to others inside the safe zone, wherein they are further ‘processed’ until they can be fed into the toxic mana lines and eventually absorbed by the wuffers.
+
+Soon, the purified mana cloud is expanding even further, pushing back against the fifth and expanding the safe-zone beyond its previous limit. It won’t last long, this is a temporary boost after all, since the wuffers can only maintain this level of output while they’re… eating? I guess?
+
+But dang, I’m exhausted. Not physically, or even mentally, thanks to my constant state of refreshment, but I am thoroughly toxified at the moment and my body does not feel good.
+
+I stagger into the safe-zone and plop myself down in some clear space. The moment I step inside, I feel a bit better. The purified mana begins to seep into me, warring against the poison I’ve absorbed. I turn my weary mind-constructs over to meticulously cleansing myself, and I don’t even protest when a few grumbling healers come over to tend to the worst of my wounds.
+
+My mandibles have it the worst, they’ve been etched and melted by the act of biting and carrying chunks of those creatures around. My precious mandibles!
+
+“Eldest, you’re a mess,” one of the healers mutters. “How did you get this much damage to your carapace? Are you even trying out there?”
+
+“Hey! I’m working hard! It’s not easy out there, you know?”
+
+Sheesh!
+
+Truth be told, my carapace isn’t nearly as bad as it looks. The acidic effect of the fifth is strong, sure, and every monster I fight only makes it worse by spreading goop, slime or mucous which is even more acidic. However, my carapace is made of gravity compressed diamond. It’s dense. Absurdly dense. It’s going to take a heck of a long time for any acid to burn through it.
+
+No, the worst of my injuries is not the carapace, but my joints, antennae, eyes and other, less well protected bits of myself. Despite regularly flushing my system with regeneration fluid, the damage outpaces my rate of healing at times.
+
+Gradually, my body begins to feel better, and Tiny, Crinis and Invidia come over and plop themselves down next to me. Tiny also suffered quite a few burns, but Invidia has been patching him up well.
+
+[Nice work, gang. Crinis, are you feeling better? No major issues?]
+
+[Ah, no… I’m fine, thank you Master.]
+
+[Good. Maybe don’t eat any more fifth stratum monsters?]
+
+[I will… try.]
+
+There’s quite a bit of excitement over at the wuffers from the many core shapers watching over them. Lots of running about, antennae waving and prodding.
+
+I snag a messenger shooting past me and ask what’s going on.
+
+“The wuffers have levelled up and seem to have absorbed Cores, Eldest!” she reports before dashing off to report to the generals, and presumably Brendant.
+
+Cores? XP? So they actually did finish them off? That’s… interesting. Did they get Biomass too?
+
+I look over at the wibbly blobs of blue goo, happily chuffing as they continue to absorb pure filth and turn it into clean, bright mana.
+
+Are these things going to be the worst nightmare of the fifth stratum monsters? Stranger things have happened, I suppose.
+
+The idea of Krath running in fear from a cheerful pack of slow-moving wuffers is amusing, but unlikely to come about in reality, I suppose. If that speedy slug I saw was actually a Krath, it would be impossible for the wuffers to ever catch up to them.
+
+Brendant soon rushes over to confer with the core shapers. She chats to them for a while as I recuperate, then comes over to speak with me.
+
+“Quite a development,” I say.
+
+“The core shapers are extremely excited. It’s been difficult to level up the wuffers, since they have basically no offensive capabilities at all. Now they realise that they don’t need any at all. If their pets can ‘purify’ these toxic monsters for experience and cores, it will be huge for the sustainability of our project.”
+
+Interesting. Well, good news is good news!
+
+“Give me an hour to rest and I’ll get back out there. I’ll try and pass over as many monsters as I can so we can give them to the wuffers.”
+
+“That’s exactly what I was going to ask, Eldest.”

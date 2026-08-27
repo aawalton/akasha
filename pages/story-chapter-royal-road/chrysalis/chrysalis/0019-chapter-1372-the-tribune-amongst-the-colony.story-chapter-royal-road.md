@@ -1,0 +1,123 @@
+---
+id: 4e892fa2-7817-5298-92a9-8828b7018fe7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1372 - The Tribune Amongst the Colony"
+slug: 0019-chapter-1372-the-tribune-amongst-the-colony
+partOf: chrysalis
+position: 19
+ownLength: 1017
+unit: words
+ownProgress: 1017
+publishedAt: 2024-07-17
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1720790/chapter-1372-the-tribune-amongst-the-colony"
+royalRoadId: "1720790"
+markedReadAt: "2026-06-29T19:44:15.619Z"
+---
+
+“Be careful, Tribune. The monster may attempt to manipulate your thoughts.”
+
+Morrelia frowned.
+
+“I’ve received mental fortitude training and raised my Skills to the commander level,” she said evenly. “I will of course remain vigilant nevertheless. Thank you for your diligence, Legionary.”
+
+[What’d he say?] Anthony’s voice echoed in her mind.
+
+[They’re still worried you’ll manipulate me,] she sighed.
+
+[I mean… is it possible to communicate in any way without allowing for the chance of manipulation? I’ve seen what the brathian do to people with just words. It’s not pretty.]
+
+[You know as well as I do that a mind bridge allows for more than just communication. How did you defeat Garralosh again?]
+
+[Ugh… I’d rather not remember, to be honest; that was nasty. Alright, this is the place.]
+
+The ants’ forward operating base wasn’t anything special, yet. There were hundreds of carvers still working on it, and she knew full well what miracles they could accomplish.
+
+[Are there really rooms in there for us?] she asked, a little sceptical.
+
+[Of course! We’re an accommodating group of insects. Unlike your Legion.]
+
+Morrelia felt a pang in her chest.
+
+[Are you thinking of the bolts we shot at you?]
+
+[Of course I am! While I was falling out of the sky as well. That’s such a cheap shot.]
+
+She took a deep breath.
+
+[I won’t apologise for it. The stated purpose of the Legion is to protect people from the Dungeon, and to that end, they’ve determined you shouldn’t be allowed to descend any deeper.]
+
+The giant ant turned to regard her directly, the many lenses in his eyes gleaming at her.
+
+[I don’t expect you to apologise or anything, you don’t run the Legion. I get that you lot are doing what you think is best to protect people. It’s the right goal, just the wrong target. But hey, I don’t think I’ll ever convince the people who run your outfit of that, so it is what it is.]
+
+She sighed in relief. At least he wasn’t going to hold it against her personally, but he wasn’t done.
+
+[What I’d like to know,] Anthony continued, [is what you think. Am I a threat to the peace on Pangera?]
+
+It didn’t take long for him to put her on the spot, hitting right at the heart of her anxieties.
+
+[I’m… I’m not sure,] she said. [The wisdom of the Legion has helped us stand firm against the Dungeon since the Cataclysm. There is tremendous value in it, yet… I still struggle to imagine the Colony turning on us.]
+
+[Hey, you do right by the Colony, and we’ll do right by you.]
+
+[Then what happened at the Silver City?]
+
+In an instant, all the energy was sucked out of the massive monster and he slumped to the ground.
+
+[Oof. Don’t talk about that…. That whole mess was disturbing and depressing.]
+
+[Was? So it’s resolved?]
+
+[Oh, heck no,] Anthony muttered darkly, [not by a long shot. But that’s not why you’re here!]
+
+He recovered his bounce alarmingly quickly, springing back up onto the tips of his legs. To have such a large monster moving so quickly right next to her was unnerving, to say the least. It was hard to believe this was the same creature she’d fought alongside so long ago.
+
+[If you get any bigger, you’re going to have trouble fitting into the nests,] she observed as they walked toward the entrance to the fifth.
+
+[They’ll just make the tunnels wider,] he dismissed her concerns, and he was probably right. [This is what you came for, right? You want to know how we’re going down in the fifth?]
+
+[That’s right,] she said, looking around curiously.
+
+There were thousands of ants, hard at work on a myriad of tasks around her. It was clear the Colony was only beginning to muster the might of their industry to approach this challenge.
+
+[How many are working on this above?] she asked. [I assume this isn’t everyone.]
+
+[Of course not!] he barked a laugh. [The initial invasion force is being prepped above. It’s going to be around a million strong.]
+
+[A million?!]
+
+[This is the fifth stratum, Morrelia,] he told her condescendingly. [We aren’t going to make any progress being half-hearted about it. Here, take a look at these guys.]
+
+He walked over to a separate area where a group of ants were tending to hundreds of… strange… wobbly creatures.
+
+[These are the wuffers,] Anthony told her, [I love these guys. I don’t know why they turned out so happy, but they did.]
+
+Indeed, the wobbly, jelly-like monsters chuffed and puffed happily, cheerful expressions on their amorphous faces as they contentedly wibbled back and forth. Morrelia stared hard at the… monsters.
+
+They were cute.
+
+How had they made such adorable monsters?!
+
+[What is the point of these… creatures?] she demanded harshly.
+
+[Whoa, don’t be so rough on them, these guys are amazing. This is the initial stage of our detoxification process right here. The wuffers are able to drink up fifth stratum mana and release a purified version. Our initial mission was just to see how well they worked when we put them to the test in the real thing.]
+
+Wuff wuff wuff wuff, the creatures happily chuffed as the ants moved among them, checking them over with their antennae.
+
+[And how well did they do?] Morrelia asked tightly, still unable to take her eyes off them.
+
+None of them better have gotten hurt!
+
+[They were fine! Did a great job. We held them in the middle of our formation, and they maintained a clear, purified field of mana for us to operate in. Next time we go down, we’ll have more, and higher tier wuffers to help us. The core shapers are still trying to perfect the design, but it’s looking good so far.]
+
+With difficulty, Morrelia tore her eyes away from the cheerful creatures and put her back to them.
+
+[When’s the next mission?]
+
+Anthony scratched his head with an antenna.
+
+[Uh… one week. Why?]
+
+She glared up at him.
+
+[Because I want to go down with you. Why else?]

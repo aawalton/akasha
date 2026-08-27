@@ -1,0 +1,81 @@
+---
+id: e31b55a3-ae79-59e3-b203-6892efd2191e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1511 - Exhausted Monsters"
+slug: 0159-chapter-1511-exhausted-monsters
+partOf: chrysalis
+position: 159
+ownLength: 913
+unit: words
+ownProgress: 913
+publishedAt: 2025-02-18
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2073708/chapter-1511-exhausted-monsters"
+royalRoadId: "2073708"
+markedReadAt: "2026-06-29T19:48:55.908Z"
+---
+
+I head deep into the fortress using the main tunnels, which are, of course, bustling with activity. There aren’t as many groups running around delivering building materials, since the fortress is largely finished, but that doesn’t mean there isn’t plenty to do. The internals of the fortress are still being worked on, furniture, rugs and various other decorative items are being brought in, and I see so many ants carrying end tables and chairs I wonder if this place is turning into a furniture warehouse.
+
+Other than that, with all the workshops up and running, deliveries of metals and other precious materials are still pouring into the fortress. Everything needed to build this place has been used, but now they want to stockpile replacements to fix the inevitable damage that will come during the wave.
+
+So the fortress is still a hive of activity, but, when it comes to the Colony, that’s always going to be the case no matter where you go. If they aren’t feeling busy, then my siblings aren’t satisfied.
+
+I head deep into the fortress, close to the middle, before I find a chamber without too much activity and slump down, tired all the way down to my core.
+
+I can understand why it's considered so hard to get anywhere in the fifth a lot better now. Sustaining any sort of presence requires such an absurd amount of resources and effort that for anyone other than the Colony, it simply couldn’t be worth it. If the Colony were to be paying for all the materials and labor that’s been used down here, it would bankrupt the Brathian Island Conglomerate ten times over. Literally millions of individuals have devoted every ounce of their effort over a period of months to get us this far, not to mention the precious resources that have been gathered across four layers of the Dungeon from the Colony’s territory.
+
+With all of that effort, and all of that expense, we’ve built a single outpost in the fifth. It’s a mighty fortress, sure, but there’s only one. We’ve breached less than a hundred kilometres into the fifth and have been holding out by the thinnest edge of our mandibles.
+
+It’s harder than I thought it was going to be, I guess is what I’m getting at.
+
+I sit, ruminating on my experience in the fifth so far, until I hear heavy footsteps approaching. Tiny stomps into the chamber looking as tired as I feel. The big gorilla is slumped over at the shoulders, his fur singed and melted off in patches and he barely musters up the energy to flick me a thumbs up as he walks over and drops onto the ground next to me.
+
+I wave an antenna in greeting and get a ghost fist in return.
+
+Even now?!
+
+[Hey, buddy. Been tough going out there?]
+
+[Bad fights,] he huffs, and I get a brief glimpse into the simmering frustration bubbling under the surface.
+
+He hasn’t been able to fight the way he likes, punching things in the face, so I can understand why he’s annoyed.
+
+[We’ll get our chance,] I promise him. [Somehow, someway, we’ll find a way to let you sock them right between the eyes, alright?]
+
+He nods and sighs loudly, his massive shoulders and chest rising and falling with his breath. I seriously wonder how much this ape weighs. He’s got so much densely packed muscle, not to mention his absurdly dense bones.
+
+It doesn’t take long for Tiny to fall asleep, slumped against the chamber wall, and I sit, waiting until the next member of the group arrives. Invidia flutters in, looking much the same as he always does, a lidded eyeball with long, stick-thin arms dangling down from either side of his non-existent body. His little wings look comically small, but somehow they manage to hold him up as he drifts over and lands on Tiny’s shoulder, settling into the fur.
+
+[Hey there. How’ve you been?]
+
+[I hassss worked hardssssss.]
+
+[We all have, but I appreciate it. Thanks for your help.]
+
+His eye gleams with some sort of devilish light.
+
+[You are welcomesss,] he hisses in satisfaction.
+
+Soon enough, his eye begins to droop down and he’s fast asleep, absurdly small on Tiny’s enormous frame. Which means I just need to wait for Crinis. Except, after a while, she still hasn’t appeared. I thought she’d come running, since we haven’t seen each other for a while.
+
+A sneaking suspicion creeps into my thoughts and I look down at my shadow. Extending one of my legs, I start prodding at it, trying to sense if there’s anything in there. I don’t think there is… but she should be here already. Where the heck…
+
+Ah, nards.
+
+[Crinis… get out of me.]
+
+There’s silence for a moment.
+
+[Crinis. I’ll make it an order if I have to.]
+
+[Fine,] she grumbles.
+
+Darkness begins to seep out of my carapace and pool on the floor, a puddle of pure black that slowly takes shape into a little ball with innocent, wiggling tentacles. It is a decidedly unpleasant process to watch.
+
+[Don’t do that,] I tell her, shuddering. [The inside of my carapace is for me, alright? I need that space.]
+
+[But you look so adorable from in there, Master,] she says pleadingly.
+
+[Never, ever explain what you mean by that. Go to sleep. Sheesh!]
+
+When Sarah arrives not long after, she finds the four of us bundled together against the wall, sound asleep.

@@ -1,0 +1,223 @@
+---
+id: 9da54b3c-52b7-5d8f-9645-f3c7300d0515
+page-type-slug: story-chapter-royal-road
+title: "39: Black and White"
+slug: 0039-39-black-and-white
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 39
+ownLength: 2491
+unit: words
+publishedAt: 2025-09-25
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2628162/39-black-and-white"
+royalRoadId: "2628162"
+---
+
+Chloe wasn’t sure what had just skewered her, but her body moved on pure instinct. She slammed her head back with a sickening crack.
+
+Her skull smashed into something solid, and a hiss of pain burst behind her. The claws ripped free from her gut as whoever it was stumbled back.
+
+Black tendrils writhed out of Chloe's stomach, snapping and stitching the gaping hole together until it was as good as new. Chloe grinned wide, dying just wasn’t really her thing.
+
+She spun on her heel, sword raised, and finally got a look at her attacker. A black haired girl stood in the ruined hall.
+
+But Leonard had been right, she wasn’t human. Sharp wolf ears twitched on top of her head, and her amber eyes burned with a hungry glow. A long black tail swished behind her, while her legs were furred like a beast’s, ending in clawed feet.
+
+Chloe couldn't help but stare for a while. Ohhh, she’s a wolf girl? Wow.
+
+The wolf girl’s ears flicked back as her gaze locked on Chloe. A growl rolled from her throat before she sprang forward.
+
+One second the wolf girl was clear across the hall, and the next she was right up in Chloe’s face, claws flashing for her throat. Chloe ducked, the blades of wolf girl's claws singing past her head.
+
+To slow the wolf girl down, Chloe figured Bind Human would do the trick. Not like she expected it to actually work, but even a second or two was better than nothing.
+
+Dark energy coiled around her hand as she thrust it forward. Chains of shadow burst into being, snapping around the wolf girl’s arms and legs.
+
+Then just as quickly as they appeared, the chains shattered. A single flex of muscle, and they blew apart into black shards.
+
+Chloe blinked. Well, now or never.
+
+Black tendrils exploded out of Chloe’s shoulders. They yanked her whole arm with them, hurling her fist across the hall like a living battering ram. It smashed straight into the wolf girl’s stomach with a thunderous crack, the impact blasting her clean through the wall. Wood shattered into splinters as she tore through one room, then another, before finally cratering into the far hall.
+
+Chloe reeled her arm back from the wreckage and burst out laughing, practically bouncing with glee. But that’s when she heard it again, a rolling growl, sounding a lot angrier.
+
+The wolf girl rose from the rubble, lips peeled back to show sharp fangs. She ran, then lunged as Chloe swung her sword up to parry, sparks bursting as steel met claw.
+
+The fight spiraled into chaos. Claws and sword clashed in storms of sparks. Tendrils lashed out from Chloe’s arms and shoulders, whipping forward like spears. The wolf girl dodged most, but a few scored shallow cuts across her skin.
+
+Chloe, in turn, was ripped open again and again. An arm shredded, her shoulder carved to the bone, her stomach slashed wide twice over. Each time, her black tendrils worked overtime, pulling her together, sewing her body back up.
+
+She cackled through it all, ichor dripping down her chin as her grin only grew wider. The wolf girl snarled and swept both claws down at once.
+
+Chloe blocked the first strike with her sword, but the second carved deep into her side, tearing her loose leg clean off again. The limb smacked against the floor with a wet slap.
+
+She looked at the severed leg, then at the wolf girl. Wait. I’ve got an idea.
+
+While the wolf girl crouched low, ready to pounce, Chloe snatched up her loose leg with both hands and spun around before she threw it as hard as she could. The severed limb flew end over end and smacked the wolf girl square in the head with a loud, meaty thunk.
+
+Chloe burst out laughing, clutching her stomach as she bent over. “Take that! Guess I’ve got a leg up on you!”
+
+After settling down, Chloe hopped over and scooped up her loose leg. She brushed some dust off the thigh, then pressed it back against her stump. Black tendrils writhed out, pulling flesh and bone together until it clicked snugly into place.
+
+She stomped her new leg once for good measure. But then she paused.
+
+Something was off, Chloe didn't get any notifications. Which meant the wolf girl wasn’t dead yet.
+
+Chloe drew her sword. If wolfie was still breathing, that just meant she had to finish the job. Pretty sure one little brain bite will tell me where Ynett’s hiding. Efficient and delicious.
+
+However, Chloe stopped mid-swing when the wolf girl twitched and opened her eyes. “Where… where am I?”
+
+“Uh… in a wrecked house? Hello? Don’t you remember?” Chloe asked.
+
+The girl clutched at her stomach where Chloe had smashed her through the walls. “Please. Don’t kill me. I didn’t… I didn’t know what I was doing.”
+
+“Wait, wait. So you were, like, mind broken? Or mind controlled? Which one?”
+
+“Mind controlled. But I swear, I’m fine now.”
+
+Chloe lowered the blade a little. “Ohhh, that’s great! Means your brain’s probably safe to eat now. Just hold still, okay?"
+
+The wolf girl’s eyes went huge. She scrambled away, clawing at the broken floor. “No! Please, don’t kill me!”
+
+Chloe frowned, confused. “Why not?"
+
+“N-no… you don’t understand. I can be more useful to you alive than if you eat me.”
+
+“How? You gonna sprout a second brain for me later?”
+
+“I… I don’t know. I just… I just don’t want to die.”
+
+Chloe stared at the wolf girl shaking, tears streaking down her cheeks. Her ears were pinned flat, tail curled tight, the whole thing looked really sad. Ughhh, stop looking like that! Now I feel all gross inside. I was so ready for a brain snack, and you totally ruined it.
+
+It was weird. Usually the people whose brains she munched either fought back, which was fun. Or sometimes they were already dead, which was convenient.
+
+Wolfie, though? She just looked sad, and that made Chloe’s stomach twist in a way she didn’t like. She probably could kill her, sure, but right now she didn’t really feel like it. Maybe later. Yeah, maybe later.
+
+With a groan, Chloe shoved her sword back into its sheath. “Fiiine. I won’t kill you. But you gotta tell me everything you know about Ynett, and in return, I won’t crack your skull open. Deal?”
+
+The wolf girl nodded fast, still trembling. “Deal."
+
+Chloe flopped onto the busted floorboards. “Sooo, tell me about Ynett. What’s her deal?"
+
+The wolf girl shrank back a little, hugging her arms around herself like she could make her body smaller. “Y-Ynett… she’s not human. She never was. She’s… a monster. Stronger than anyone I’ve ever seen.”
+
+“Ohhh, but c’mon, what’s she look like?”
+
+"She looks human, mostly. But her face, her hands… they have scales. Like… like a snake’s scales.”
+
+“Hmm, well, the last snake I ran into was back in the dungeon, but it was a total pushover. So, how strong is this Ynett, really?”
+
+“V-Very strong. She’s a… a Champion of Chaos. That means she’s way stronger than normal monsters.”
+
+“Oh? And how’d you find out she’s a Champion?”
+
+“She… she told me. I don’t know if she was bragging, but, she did.”
+
+“Pfft, that’s funny, ’cause I’m one of those too!”
+
+“Y-you are?”
+
+“Yup! Got the fancy trait and everything.”
+
+“W-well… I'm actually a Champion too.”
+
+“Whaaaat? But if you’re a Champion, then why didn’t Ynett just, like, chomp your brain already? Even I was thinking about giving your head a lil nibble, oh, but don't worry. I'm kinda not in the mood for that right now."
+
+The wolf girl’s eyes sank to the floor, her ears flattening. “I don’t know. Maybe she thought I wasn’t worth killing. All I know is she always keeps some humans with her. The stronger ones."
+
+“Stronger ones?”
+
+“Basically, Ynett picks out the strongest people from those she's got under her thumb. Then she sends them to hunt monsters and all sorts of other stuff."
+
+Chloe tapped her chin, looking way too thoughtful. Huh. Creepy, but also kinda smart. I’d totally make people fetch snacks for me too if I could.
+
+“Makes sense. But if you're a Champion too, then how strong are you? You can go toe-to-toe with Ynett, right?”
+
+The wolf girl shook her head quickly, hugging her arms tighter around herself. “N-no. I’m only in my first evolution. Ynett has evolved more than once, so… I don’t really stand a chance against her.”
+
+Chloe gasped. “Ohhh, that’s it? Don’t even worry about it! I’m only on my second evolution too. You’ll catch up eventually.”
+
+“You… you’re already on your second evolution?”
+
+“Yup! Took a lot to get here too. I had to fight so many humans and monsters. But eventually, I rose from just a normal special zombie to, uh… a super duper zombie!”
+
+The wolf girl gave her a small, hesitant nod. “Wow, you must have changed a lot already, then.”
+
+“Yeah! Totally did. Cloaky here even turned black after my last evolution—pretty cool, right?” Chloe said, tugging at her cloak.
+
+“Um, is that the only thing that changed when you evolved?”
+
+“Well, duh, a couple other things changed too. But Cloaky’s the only one you can actually see on the outside, y’know? Why’d you ask?”
+
+“Well, I actually changed quite a lot. I was just a normal wolf before this, you see.”
+
+Chloe waved at the girl like she couldn’t believe it. “HUH?! You went from a wolf to… this?”
+
+The wolf girl rubbed her arm, not meeting her eyes. “Out of all the evolution options I got, this one just… seemed better than the rest. So I chose it.”
+
+“Pfft, yeah, tell me about it. I don’t get why the System even gives us choices if one’s just clearly better. Oh wait, by the way, what were we talking about again?”
+
+“...Ynett. And how she’s on her third evolution."
+
+“Ohhh, right, right. Now tell me, wolfie. If Ynett’s so scary, then where’s she hiding when she’s not bossing villagers around?”
+
+“I don’t know for sure. She always leaves the village for days at a time."
+
+"Well, do you know where Ynett usually goes?”
+
+The wolf girl hesitated, her ears twitching. “She usually hunts out in this big empty stretch of land east of the village. Fewer trees, more rocks, you’ll know when you hit it.”
+
+“Okay, I’ll just head east, and then bash her head in. Sooo… what about you? Wanna come with me?"
+
+The wolf girl gave a weak little laugh, shaking her head. “If I were stronger, maybe I’d ask to go with you. But right now… I just want to rest. Fighting her again would only mean my death.”
+
+Chloe puffed her cheeks, then shrugged. “Okay, suit yourself."
+
+***
+
+Ynett knew the numbers better than anyone. Evolution wasn’t luck. It was math, and the System never lied.
+
+She was already on her third evolution, but her level still sat stubbornly at five. To get to the next one, she needed forty. Ynett had pieced that much together after noticing the pattern.
+
+Each evolution had cost twice as much as the last. The first came at level five, the second at ten, the third at twenty, and now, she’d need to reach level forty to reach her fourth evolution.
+
+It was a long climb, sure, but hardly impossible. Not for her.
+
+Her gift was control. Minds bent if she pressed long enough, hollowed out until there was nothing left but obedience. She called them servants, which sounded cleaner than “slave,” and Ynett never saw the point of ugly words when a graceful one would do.
+
+The only downside was that kills made by her servants didn’t count for her own experience gain. But she had worked around that.
+
+Ynett simply let her servants soften up the prey until it broke, and then she stepped in to finish it. The experience was hers, the effort was theirs. And today would be no different.
+
+Her claws clicked lightly against the frozen stone as she stood. This area was home to some powerful monsters, ones she hoped she could either kill or put under her control.
+
+She looked at the men and women lined up before her. Blank eyes, unmoving, waiting.
+
+Some had been adventurers once. One carried a bow split down the middle, another a shield crushed in with dents, but they still obeyed. Some had been thieves, quick once, their fingers twitching faintly with muscle memory that didn’t matter anymore.
+
+She had half a dozen servants at her disposal currently. She would’ve liked more, but too many of her servants had already “expired.” These would have to do.
+
+Ynett opened her mouth to give the order, then stopped. Something tugged at her mind, sharp and sudden. One of her servants was gone.
+
+Lesser ones broke all the time when they died. But this felt different.
+
+Fortunately, her Mind Ruler skill did more than let her seize control of others. It also provided a convenient list of every name she had bound, neatly displayed by the System itself. Ynett summoned the list, scanning through it until her eyes stopped at the top.
+
+One name was missing. The wolf girl.
+
+She had been one of the useful ones, a strong and reasonably obedient tool. And more than that, she had been a Champion of Chaos.
+
+Ynett had discovered as much after prying into the beastkin’s mind before breaking her will. That little revelation had been especially valuable.
+
+It was unfortunate. Ynett had plans for Champions of Chaos.
+
+She understood the Great Game, and she understood what it meant. Having obedient Champions, or at the very least, ones weaker than herself, was a resource she intended to secure. Such tools would increase her odds of surviving when the culling began.
+
+Losing the wolf girl should not have been possible unless something else had interfered. Whether she had been killed or somehow freed from Ynett’s control, the cause remained unclear. But either way, it pointed to the same truth. Someone was meddling.
+
+A new threat had emerged, and Ynett refused to be caught unprepared. She required a new servant, one powerful enough to deal with this new threat.
+
+The adventurers and thieves already bound to her will had proven useful, but they were fragile tools, easily broken. What she needed now was something greater.
+
+She knew of a creature native to this frozen region of Ishgria, the Shivermaw. A monstrous lizard wreathed in ice, its breath could turn prey into lifeless statues in an instant. To bring such a beast under her control would be worth far more than a few fragile mortals.
+
+And she knew precisely where to find it. The Shivermaw lingered in caves, there was but a single cave that suited its nature within a reasonable distance. Fortune, it seemed, was with her.

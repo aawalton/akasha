@@ -1,0 +1,215 @@
+---
+id: 1e93a36a-aef8-5aab-874e-acd793bdcd0a
+page-type-slug: story-chapter-royal-road
+title: "116 - The Other Dungeon Core"
+slug: 0118-116-the-other-dungeon-core
+partOf: cat-girl-evolution
+position: 118
+ownLength: 2380
+unit: words
+publishedAt: 2026-04-20
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3295276/116-the-other-dungeon-core"
+royalRoadId: "3295276"
+---
+
+“Oh, my, Annie, look what they’ve done to you!” said Joakim, fiddling with the straps on Annie’s mana-restraint headband.
+
+It didn’t take long for him to finish removing the headband, halting the mana drain, and when he did, he took Annie and cradled her to his chest.
+
+“It’s alright,” he said softly. “I’m here now.”
+
+As he held her, he channeled his own mana inside her, both to accelerate the replenishing of her reserves, and to use on of his own Skills to help her regenerate. She felt an uncomfortable phantom itch on the stump of her neck as the flesh wriggled and began to grow outward again.
+
+“Those monsters,” whispered Joakim. “I’m so sorry, Annie. I should have sent you more support. I should have saved you sooner. It’s all my fault.”
+
+Yes, it is, thought Annie, but she said nothing out loud.
+
+The regeneration continued at a rapid pace, with her upper half and arms done in just over a minute, and the legs well on the way. By this time, Joakim had carried her to some kind of bedroom, and Annie’s head was resting in his lap with one of his hands on her forehead, and the other on the top of her head. She regenerated without her clothes, of course, but Joakim made a show of closing his eyes and looking away so as not to make her uncomfortable.
+
+Only when her body was fully regrown did he take his hands off, and gently, still without opening his eyes, he slid out from under her. Annie stood up, shaky on her new legs, but she felt an enormous wave of relief at finally being physically independent again. She bade her heart beat, and for a few seconds, she reveled in the feeling of being “alive,” before the illusion was broken as Joakim spoke again.
+
+“There are clothes in the closet, my dear,” he said. “Though I’m afraid the selection is rather limited.”
+
+Annie looked around, getting a good look at their location for the first time. It was clearly a bedroom, but it looked a bit strange. It was huge, indicating that the owner was wealthy, but it was decorated very strangely. The bed was at least three meters square, and its frame was made of pitch black wood, with curtains surrounding the entire thing. The sheets were blood red, embroidered with black designs, and so were the curtains. The rest of the furniture in the room—a desk, a few cabinets and small decorative tables—was also made of the same black wood, as were the doors, and there was a couch and armchair opposite the bed embroidered in red satin. The entire room had an eerie, gloomy feel to it that Annie wasn’t sure she liked.
+
+The closet Joakim had mentioned was behind a black door, and it was even bigger than Annie’s old bedroom. Going by quantity alone, the clothing selection in the closet was about as far from “limited” as it could possibly be, but when she looked closer, she realized what Joakim had meant. There were at least a hundred different dresses, but there was almost nothing else, and all the dresses looked like they belonged in a ballroom. The only other type of clothing present was undergarments, leaving Annie with an annoying task of finding the least inconvenient dress.
+
+A few minutes later, she emerged, now clothed in a open-backed black dress that had seemed like it would interfere the least with her movements. It didn’t fit her perfectly, but it was close enough not to be too uncomfortable. She still wanted to find something more casual as soon as she could.
+
+“Have you finished?” asked Joakim, still looking away.
+
+“Yes, I’m dressed,” said Annie.
+
+Joakim turned to her, and when he saw what she was wearing, a warm smile appeared on his face.
+
+“You look lovely,” he said.
+
+Annie barely kept herself from grimacing. Once, she had almost believed he had good intentions. Despite everything he had done, his handsome face, soft-spoken demeanor, and his conviction that what he did had a greater purpose had nearly convinced her. She wouldn’t ever forget what he had done to her, but there was a chance she would have forgiven him down the line. But not anymore.
+
+“How are you feeling?” he asked. “Better?”
+
+“Yes,” she said, unable to lie.
+
+Having a body and mana was certainly better than being trapped in a backpack and unable to do anything.
+
+“Are you able to talk right now, or do you want some time?”
+
+Annie wavered. Both options were true, so she could choose either.
+
+“I can talk now,” she eventually said.
+
+“Then I’d like to ask you a few questions about your experience the past few months,” he said. “You can stop me anytime if you get uncomfortable, but I believe that after what you’ve experienced, you’ll understand why I’m doing this. I’d like information so I can make sure something like this never happens again.”
+
+Annie gritted her teeth and nodded.
+
+“Thank you, Annie,” he said solemnly. “Now, your original Quest was to kill the Named, whose name I believe is Yona, correct?”
+
+“Yes.”
+
+“But you failed, clearly. I don’t blame you at all, but it’s a fact. What exactly happened that caused you to fail?”
+
+“Well…”
+
+Annie went into a long retelling of how she had first befriended Yona, then lured her out on a Quest and ambushed her. Joakim said nothing, only nodding along, right up until the point when Annie explained how she had lost, despite the successful ambush.
+
+“Did you say she ate herself?”
+
+“The part affected by the curse, yes.”
+
+“How? Eating the flesh shouldn’t have been enough to get rid of the curse.”
+
+“She… has Gluttony.”
+
+“Oh, I see,” said Joakim, rubbing his chin. “I didn’t know Gluttony could do that. But that makes sense. Gluttony can eat curses… Hmmm, that might change some things, but no matter. She must have been seriously wounded after eating the curse.”
+
+“Yes, but she was still stronger than me,” said Annie. “I wasn’t able to escape, and she beheaded me, then ate my body and took my head back to her Party members, who created that headband to keep me from regenerating.”
+
+“Why didn’t they kill you?”
+
+“I… don’t know,” said Annie. “Perhaps they realized that you would know immediately if I died, and they wanted to make sure that they had as long as possible before you realized that I had failed.”
+
+“They are quite intelligent, then,” said Joakim, frowning. “But still foolish. It is lucky that they brought you so close, or else I wouldn’t have been able to save you so easily. At least, now you have seen the dangers I’m trying to protect the world from.”
+
+Annie wanted to counter him by saying that he was far more dangerous than Yona was, but stopped herself. Getting angry at Joakim never worked. Besides…
+
+What if he doesn’t know?
+
+“When I was talking with Yona, she told me something strange,” said Annie.
+
+“Oh? What was that?”
+
+“That she used to be human.”
+
+“A lie, of course,” said Joakim immediately. “Of course she would say that.”
+
+“That’s what I thought too,” said Annie. “But I’m not so sure. She seemed like she might have actually been.”
+
+“Annie,” said Joakim, standing up and putting a hand on her shoulder. “She wasn’t. The gods themselves have confirmed it. Whatever she told you—whatever she showed you—it was all a lie. A lie that she is trying to convince the entire world is true. But not us. We can never fall for it. Because the moment we begin to think of them as human, we lose.”
+
+“But what if it was true?” asked Annie. “What if they really were humans, just like you? What would you do then?”
+
+“If they were, then I would do the same as I have been,” said Joakim solemnly. “Because whether they are human or not, it doesn’t change their goals and abilities. And sometimes, humans can be the worst monsters of all.”
+
+Annie gave Joakim a pointed stare, but he did not notice, instead, nodding as if he hadn’t just said the most hypocritical thing in the world.
+
+“Annie, did you hear about the Ryantown tragedy?” asked Joakim.
+
+“I did,” she replied.
+
+“Did you know that one of those so-called ‘former humans’ was responsible for that?”
+
+“I… did not.”
+
+“Even if they were humans at one point, they aren’t anymore,” he said. “These are the kind of ‘people’ we’re dealing with here, Annie. Monsters in human skin at best. Capable of callously erasing a town from existence for no other reason than to grow in power.”
+
+“And how is that any different from what you did?” asked Annie before she could stop herself. “What about my hometown? What about what you did to them?”
+
+“A– A necessary evil,” said Joakim, adopting an expression of sorrow. “If there was any way around it, I wouldn’t have done it, but your world’s System is cruel. The only way for me to increase my power was to grow my Territory. If I hadn’t, I wouldn’t be able to contend with those I must stop.
+
+“But don’t worry. Each and every one of your people—I will make sure they are remembered. Their sacrifice will not be in vain. I will stop the calamities before they can kill many more. The lives in that village were spent to save the lives of millions elsewhere. And when it is all said and done, your village won’t be just another footnote in history, caught in the crossfire between the hero and the forces of evil. It will be known by name, and it will be a place of great importance—the place where the hero originated. And I will do everything in my power to pay for my sins.
+
+“But for now, we can only look forward. Every minute spent in the past is a minute that our foes grow in strength. And we cannot sit idle. Not with one of them at our very doorstep.
+
+“Having said that, there is one part of the past that I believe you’ll be happy to hear about now.”
+
+“...What?” asked Annie.
+
+“Your brother!” said Joakim with a smile.
+
+“M– My brother?”
+
+“Yes!” said Joakim. “I may have committed crimes, but I have never broken a promise. I promised you that I would bring him back, and I did.”
+
+“You did?”
+
+“Yes,” said Joakim. “And your sister is next. In fact, I was preparing to work on her when you arrived! She should be done within the week!”
+
+“C– Can I meet them?”
+
+“Of course!” said Joakim. “Why wouldn’t you be able to? You may be bound to me by the System, but you are my subordinate, not my slave. Why don’t we go see him now, actually.”
+
+“Y– yes, please!”
+
+He actually did it?!
+
+Joakim led her out of the room, and through a labyrinth of hallways and doors, and the whole time, Annie, held her breath. Countless worries ran through her head. Maybe Joakim was lying. Maybe he had only resurrected the body, but not the soul. Maybe he had bound her brother’s soul to a fate worse than her own. But nearly all those worries were put to rest when they arrived at a pair of large wooden doors, and Joakim opened them to reveal a lone man standing in the middle of a great stone hall.
+
+“Phillip?” she asked nervously.
+
+“Annie!” said the man, turning to her. “Is that really you?”
+
+“Phillip!” said Annie, running into his arms.
+
+She crashed into him, and for a long time, they were tied up in a bear hug until Annie finally extracted herself, looking up into her brother’s face. It was exactly as she remembered it. He was older than her, but he had always had a young-ish appearance, and when he was clean-shaven like he was now, most people thought she was the older of the two. He had the same ginger hair, the same green eyes, and a face covered in freckles, and the look in her eyes was one too deep to be a mere imitation.
+
+“I almost didn’t believe him at first,” said Phillip. “Are we really…?”
+
+Annie felt a sudden pang of sadness, when she saw him glance over toward Joakim.
+
+“Yes,” she said. “We are.”
+
+“Well, I wouldn’t want to intrude any longer on such a moment,” said Joakim behind her. “Phillip, would you mind filling her in on the plan I told you about?”
+
+“Not at all,” said Philip.
+
+“Wonderful,” said Joakim. “Then I’ll get back to work. If all goes well, your sister will be joining you within the week.”
+
+“Th– thank you!” said Phillip.
+
+“Thank you,” said Annie, much less enthusiastically.
+
+With that, Joakim left, the door closing behind him. Neither of the siblings spoke for a few moments, then they both tried speaking at once.
+
+“What–?” said Annie.
+
+“How–?” said Phillip.
+
+They both laughed for a moment.
+
+“You first,” said Phillip.
+
+“What plan was he talking about?” asked Annie.
+
+“Ah, well, to put it simply, he wants me to take over Maligar.”
+
+“What?”
+
+“I don’t understand it fully either,” said Phillip. “But apparently, a nested Dungeon can consume and merge with its parent Dungeon if the right conditions are met.”
+
+It took a few seconds for Annie to register what that meant.
+
+“Wait, you’re the Dungeon Core?”
+
+“Yeah,” said Phillip. “Did Joakim not tell you?”
+
+“He didn’t…” said Annie.
+
+“It’s not so bad,” said Phillip, trying to comfort her. “I can’t leave, but I’ve got a custom Floor that I can do whatever I want with. I can make us a new home, and a new farm, and we can invite other people to live there, and it can be almost like it used to be. It’ll never be quite the same, but we can still have a good life… Annie, are you okay? Is there something wrong?”
+
+“It’s…” started Annie.
+
+“Annie?”
+
+She looked up at her brother’s face, then glanced back out the door where Joakim had left. What should she tell him? What could she tell him? How much did he know, and how much of what Joakim said did he buy?
+
+What do I do?

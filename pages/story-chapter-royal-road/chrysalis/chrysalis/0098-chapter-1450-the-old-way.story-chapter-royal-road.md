@@ -1,0 +1,105 @@
+---
+id: 5da48799-e1a0-508e-a439-086c63264282
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1450 - The Old Way"
+slug: 0098-chapter-1450-the-old-way
+partOf: chrysalis
+position: 98
+ownLength: 1000
+unit: words
+ownProgress: 1000
+publishedAt: 2024-11-11
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1896469/chapter-1450-the-old-way"
+royalRoadId: "1896469"
+markedReadAt: "2026-06-29T19:47:12.932Z"
+---
+
+The Eldest is sleeping now, which is only right. They will wake eventually, of course they will, but hopefully, by that time, we will not need them to achieve the work.
+
+If all goes well, we will complete our objective without having to disturb the Eldest at all. My only regret is that I will not get the chance to share the triumph of my greatest campaign.
+
+-           From the personal notes of Solant
+
+“We’ve got weird monsters popping up in the tunnels!” I roar as I burst into the command post.
+
+“I know,” Solant says, unperturbed by the sudden outburst. “You were not the first to find them, though you were close.”
+
+“How long ago did you find out?”
+
+And who could have possibly been faster than me? I tracked them down using tiny eddies of gravity, for goodness sake!
+
+“One minute,” Solant replies.
+
+A minute.
+
+“Vibrant was the first to arrive with the news.”
+
+“Vibrant?!”
+
+“Hi-hi!”
+
+I turn to see the tier seven speed-soldier hopping on the spot excitedly from one leg to another. I’m still a little surprised to see that she isn’t larger than I am, but holy moly is she looking sleek. This is an ant designed for a single purpose: to go fast.
+
+“How are you, Vibrant?”
+
+“I’m great, Senior! Things are going well above, so I thought it was about time I came down here to help out! It’s been going well so far-far! It’s a shame I’m not allowed to run through the yucky stuff, but there’s enough blue for me to run in now, so that’s ok!”
+
+It’s kind of fascinating to see the physical modifications she’s gone through in order to facilitate her need to go faster. I can tell that she’s a lot lighter than I would expect. I think she reforged her carapace into a tough but lightweight substance in her last evolution. Her legs are the other area that’s undergone massive change. Her legs are much thicker than mine even, and in particular, the joints where they connect to her body are enormously bulky. Not just to run fast, I surmise. To turn and manoeuvre at that speed, she needs to be able to absorb absolutely ridiculous amounts of force.
+
+“Make sure you’re careful,” I sigh, resigned to her hijinks at this point. “It’s extremely dangerous down here, and you can run into trouble very, very fast.”
+
+“I know that, Senior!” she pipes. “That’s why I keep making it so I can think faster. It takes a lot of energy, but the micro-naps really help!”
+
+I forgot that she sleeps between words in order to facilitate something approaching normal speech. Not wanting to get distracted, I turn back to Solant, intent on getting answers.
+
+It doesn’t bother Vibrant at all. Seconds later, I hear an excited ‘Crin-Crin!’ as some tentacles start appearing from the shadows, sending Vibrant to hopping again. I’m sure they’ll have a good chat.
+
+“Did you know that monsters would spawn in the cleansed tunnels?” I demand.
+
+“You thought they wouldn’t?” Solant asks, calm as ever.
+
+I want to thwack her for answering a question with a question, but deep down, I kind of did think they wouldn’t spawn. Or… if they did, then they’d be toxic monsters who would be instantly melted by the clean mana. Does it count as monsters spawning if they evaporate a second later?
+
+“Kind of?” I reply.
+
+“I did not, and do not, believe the Dungeon would ever tolerate not spawning monsters wherever it can. They were always going to appear in the cleansed tunnels, that’s why we have a patrol schedule.”
+
+“It’s not that the monsters were spawning so much, but that they were… different! They weren’t toxic, they could survive in the blue mana! What’s going on there?”
+
+This is the real question. Is the Dungeon already switching gears and starting to spit out different monsters in the places we’ve cleaned out? That seems like a short span of time for the Dungeon to adapt to a change in environment in such a small area.
+
+And I swear to goodness, if Solant answers with a question, she is going to get such a thwack—
+
+“I don’t know,” she replies simply.
+
+Huh.
+
+“I only found out it was happening two minutes ago,” she states, rather fairly, “so I don’t have any answers. The mages and Dungeon Seer specialists will look into it. We may even contact Brilliant, since this is the sort of thing she likes to investigate, but for now we can only guess as to why a different breed of monster is appearing in our tunnels.”
+
+Well, that’s totally reasonable, but doesn’t really do anything to feed this hankering I have for answers.
+
+“Any chance you could share some speculation with me? I don’t care if it doesn’t turn out to be right, I just want someone else to bounce ideas off.”
+
+Solant clacks her mandibles.
+
+“I am rather busy…”
+
+“Thanks, I appreciate it. So, are these even new monsters, or are they the original monsters, but just, non-goopified versions? Or are they the monsters that were spawning here before the place was toxified? Wouldn’t that mean these creatures haven’t been seen in the Dungeon for thousands of years? That’s crazy!”
+
+“These are all viable theories,” Solant says, impatient for me to go away and do something else, “but we can’t know. Perhaps you could learn something by consuming the Biomass of these creatures and letting us know what you find.”
+
+“Consume the Biomass?” I ask, puzzled.
+
+“Presumably they aren’t toxic, so why couldn’t you eat them?”
+
+I… didn’t even think of that.
+
+“That’s a great idea, Solant! I’m going to investigate.”
+
+“We do need you to take on that snake…”
+
+“Dammit.”
+
+I guess my eating spree will have to wait a bit. It shouldn’t be too much of an issue, I’ll pop down, take out the giant slime snake, and be back in time for breakfast.
+
+A breakfast of unknown, mysterious Dungeon spawn! Gweheheheheh!

@@ -1,0 +1,246 @@
+---
+id: bdeb1783-b7aa-5b9b-9aa8-f9147ba3b1d0
+page-type-slug: story-chapter-royal-road
+title: "185 - The Good Old Days"
+partOf: bunny-girl-evolution
+position: 53
+ownLength: 3095
+unit: words
+publishedAt: 2026-04-01
+link: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3217162/185-the-good-old-days"
+royalRoadId: "3217162"
+---
+
+“Oh, that is excellent news, then,” said Quel’Khulan. “Where is it?”
+
+“I don’t know where it is, but I know someone who does,” she said. “I almost opened it by accident, and we thought it was dangerous, so we decided to get rid of it. I had him get rid of it without telling me so that I couldn’t go back and find it, because even if I didn’t want to open it, those boxes have a certain… draw.”
+
+“Yes, that was by design. We had to ensure we’d be able to escape somehow.”
+
+“How did you get sealed in the first place?”
+
+“I can’t go into detail, but it was voluntary,” he said. “Mostly. We had no choice for reasons that I will not explain further.”
+
+“I see.”
+
+“I’m glad you understand. Truly, I would tell you if I could, but ignorance is safety, and merely knowing would put you in danger you cannot even fathom.”
+
+“Mmm.”
+
+Elise nodded, but she wasn’t particularly happy about it. As with her knowledge of soul defense, she personally would prefer to know and prepare, than to be kept safe by ignorance, but she also got the distinct impression that Quel’Khulan would not budge on the matter, no matter what she said. Not at the moment, at least. While {Sense Emotions} had no effect on him, it didn’t take a Skill to tell how he felt about her. He saw her as a child, and the answers as a bomb. And no matter how cute a child looked, or how responsible they promised they would be, no responsible adult would ever give a child a bomb.
+
+“The one who knows where the box is actually isn’t far from here,” she said, breaking the temporary silence. “It’s a bit tricky to get there from here, but I can call him over and we can meet halfway.”
+
+“That would be excellent,” he said.
+
+Elise nodded and summoned the communication sheet Oberon had given her and a pen, and scribbled a quick message asking him to come meet at the forest. She then pulled out an ordinary piece of paper and wrote a note for Naomi briefly explaining that she was safe and would be back soon, and then she started leading Quel’Khulan back up to the surface. The armored man was so large that he hardly fit in the tunnel, but he was also deceptively nimble, so they managed to make it to the surface without much trouble. It was only at the very end of the tunnel that he had to forcibly widen it to get out, which he did with ease, pushing his hand through the dirt and stone like they were made of water.
+
+It was only a few minutes later Oberon arrived, wearing the same disguise he had forced upon Elise, looking utterly out of place in the midst of the monster-infested forest.
+
+“Well, when you said you had something interesting to show me, I didn’t expect it to be this interesting,” he said, walking up to Quel’Khulan and reaching a hand out with a mischievous smile. “And where might you be from, love.”
+
+“Enough games, changeling,” said Quel’Khulan gruffly, pushing the reaching hand away. “Elise has informed me that you know the location of one of my comrades.”
+
+“Comrades?” asked Oberon, looking at Elise in confusion.
+
+“Do you remember that black box I bought at the auction that I told you to get rid of that you definitely didn’t do properly?”
+
+“That description doesn’t ring a bell,” he said, putting a hand to his chin. “But I do recall something similar that I definitely did get rid of it properly.”
+
+“Right,” said Elise, straight-faced. “Well, there was another one in the cavern, and this man, Quel’Khulan, was sealed inside it. The others apparently have his comrades inside.”
+
+“Ah, I see,” said Oberon, his eyes lighting up. “Interesting! Very interesting! I knew we should have opened it up! You should have listened to me!”
+
+“You wanted to get rid of it too,” said Elise. “Anyway, where did you put it? I assume you didn’t sink it in the ocean or launch it into space or bury it in a volcano like I suggested.”
+
+“Why would you think that?”
+
+“Because you would have found something more ‘fun’ to do with it.”
+
+“Fair. Which I did. But I actually have no idea where it is now.”
+
+“Yeah, right.”
+
+“No, I’m being serious,” he said. “I gave it to someone else, and had them get rid of it.”
+
+“...Why?”
+
+“Because I thought he would do it wrong, and it would be interesting to see where it turned up next?”
+
+Elise put a hand to her face and sighed. “You can still reach out to him and find out where it is, right?”
+
+“Of course! In fact, I’m already doing that right now! We just have to wait a few more minutes for my clone to get in position. I’ll let you know as soon as I have an answer! And in the meantime…”
+
+Oberon went on to grill Quel’Khulan, asking most of the same questions Elise had and getting most of the same answers. He was a celestial from the pre-System era, sealed away with six comrades for reasons he refused to elaborate on. Elise tuned this part out, her mind returning to thoughts of being able to use magic without the System, but tuned back in as Oberon changed his line of questioning.
+
+“So, how did Evolution work before the System?” asked Oberon.
+
+“Well, you are aware of soul tiers, yes?”
+
+“No, I’m afraid I’m not,” said Oberon. “But let me guess: there are nine of them?”
+
+“Correct. And as a monster grows in age and gathers soul essence, it can advance to higher tiers. With each tier, there was added complexity, and of course, as the soul changes, so too must the body, so they would enter Evolution cocoons and grow into their newly strengthened soul. I’m afraid I’m not intimately familiar with the finer details of the process, but that is what is widely known. Was widely known.”
+
+“Very interesting,” said Oberon. “Well with the System, it works similarly, though of course, it has the guidance of the System. When a monster reaches the appropriate level, which I presume is the same as gathering soul essence, the System tells them they have reached an evolution threshold, at which point they must select an evolution path, and find a place to enter their cocoon.”
+
+“Fascinating,” said Quel’Khulan. “You can choose?”
+
+“Yes. Though I suspect it’s not much of a choice for non-sapient monsters.”
+
+“Hmmm, I see. I suppose that makes sense. A sapient monster would be able to guide their own soul, and therefore their own Evolution.”
+
+“Then Classes must have worked the same, right?” asked Elise.
+
+“Classes?”
+
+“Monsters have Species Evolutions, humans have Class Evolutions. There are also nine tiers, and they can choose to change their path, or redirect it at each tier.”
+
+“I’m still not sure I understand,” said Quel’Khulan, scratching his chin. “What exactly is a Class?”
+
+“Uhhh…” said Elise.
+
+Wait, I barely know the answer to this either, realized Elise. I kinda skimmed over it in my explanation earlier.
+
+“A Class is a set of Skills and Stat Point guidelines that the humanoids can select at each tier,” said Oberon. “Humanoids select them at the beginning of each tier, and they govern how their stat points are distributed, and what Skills they learn. When they reach a new Tier, they can choose a new Class, which will alter their Stat Point distribution per level, and grant them more Skills.”
+
+“That…” said Quel’Khulan, frowning. “These Classes determine which Skills a person gets? Can they not learn Skills in other ways.”
+
+“Not usually,” said Oberon. “There are Skill Quests, and while many are well-defined, most are impossible to achieve for most people. For example, if you can’t sense mana, good luck learning {Mana Circulation}.”
+
+“That is vile,” said the paladin, scowling. “That is not how things are supposed to work.”
+
+“Yes, I’m beginning to understand that now,” said Oberon. “So how did it work in your day?”
+
+“There was no such thing as a Class,” said Quel’Khulan. “You simply cultivated your soul and practiced things that would help you accomplish your goals. If you wished to fight, you would practice enhancing your body. If you wished to be a farmer, you would practice sensing the soil and plants, and perhaps water magic. If you wished to be a merchant, you would practice negotiation and using aether. This… This Class system is absurd.”
+
+“I’ve always thought it was a bit silly,” agreed Oberon. “By the way, my friend, you are a living relic. There are many historians and researchers all over the world that would spend small fortunes to be able to ask you these same questions.”
+
+“I do not need payment for this,” said Quel’Khulan. “This should be basic information. And you are saying that no one knows it?”
+
+“Most people aren’t even aware that aether exists,” said Oberon. “Let alone that they can meditate and enter their souls.”
+
+Quel’Khulan’s jaw dropped at that.
+
+“The situation is far worse than I feared. How? How can this knowledge have been lost?”
+
+“The System restricts it,” said Oberon. “The System refuses to tell anyone about aether until they already know about it, and even after, it won’t tell you any more than you already know. And if you try to inform others that aether exists, it warns you, and if you keep doing it… Well, the last person who tried ended up in so many pieces they never found them all.”
+
+“The System killed them?!” asked Elise.
+
+“Not directly. It simply marked them as an enemy of the world, and put a bounty on their head.”
+
+“It can do that?”
+
+“Only for threats that it deems existential. Or that it thinks are spreading information about aether, apparently.”
+
+“Of course it does,” said Quel’Khulan, his face twisted in anger. “I should have guessed.”
+
+“This is related to you, isn’t it, my friend?” asked Oberon.
+
+“Yes,” said Quel’Khulan. “I was not certain before, but I am now. This is absolutely related to my comrades and I.”
+
+“How so?”
+
+“Hearing this, I am even less inclined to tell you than I was before. In fact, I will not even allude to the reason anymore, as we are already treading in dangerous waters. Simply forget that we had this conversation. Please. For your own sakes.”
+
+Elise nodded almost immediately. She was burning with curiosity, but she already had more than enough hints to understand what was going on. Whoever had created the System had created it to limit the potential of all who lived in the world. And it was created in direct response to Quel’Khulan and the others in the boxes. If they were anything like him, they were far more powerful than any other humanoid alive, and more specifically, their souls were more powerful.
+
+And as for why the System creators didn’t want people to develop powerful souls? Well, she could only think of one viable answer: they were afraid. Those with powerful souls were a threat. The creators of the System—the gods—were afraid of Quel’Khulan, his comrades, and anyone else who might become like them.
+
+And knowing that, it wasn’t hard to guess what Quel’Khulan’s goal was. He was going to kill those gods. And after this conversation, he would likely dismantle the System, and that made him an existential threat to the System. And after learning about what things could have been like, Elise most definitely agreed with his actions, and would be willing to join his cause, which made her an existential threat to the System.
+
+She glanced at Oberon, worried that he would press further, but even though he was still smiling, he didn’t seem to be in much of a joking mood. In fact, Elise felt that his mood was somehow similar to when he talked about Titania. The thought of that made Elise suddenly realize something else about the System.
+
+The way it handled divinity was also related. Anything deemed a true threat was given an impossible Divinity Quest, or one that directly contradicted their beliefs and their Path. Anyone who could be a potential threat was either barred from ascending, or only allowed to ascend after weakening their convictions.
+
+There has to be a way to get around that, right? thought Elise.
+
+She was tempted to ask Quel’Khulan how divinity was reached before the System, but they were already treading in dangerous waters, and she didn’t want to push things any further. Oberon seemed to be having some similar thoughts, and Quel’Khulan was glaring at the both of them, as if daring them to keep pushing him for answers. When neither did, the silence stretched on to the point of awkwardness, only broken when Oberon made an expression of sudden surprise.
+
+“Oh, well, I’ve gotten my answer about the other box,” he said. “It’s gone.”
+
+“Gone?” asked Elise.
+
+“Yes. Gone. I have no idea where it is.”
+
+“What about the person you gave it to?”
+
+“He doesn’t know either. He says a mysterious woman bought it from him, and he does not know who she was, or where she took it.”
+
+“Why would he do that?!”
+
+“He is currently assuring me that he had no choice, and that at the time of sale, he feared for his life.”
+
+Elise scowled. “Does he at least have any leads?”
+
+“He says that the woman who bought it was indescribably beautiful, but he also can’t describe any of her features. He does not know the color of her hair, eyes, skin, dress, or anything useful. It seems she was using quite a powerful illusion.”
+
+“Heh.”
+
+Elise and Oberon turned to Quel’Khulan, who was slightly smirking.
+
+“Sorry,” he said, seeing their gazes. “But there is nothing to worry about. I am reasonably confident that was one of my comrades. Indescribable beauty is one of her favorite tricks. That is a promising sign. That means that she is likely already gathering the others, and she is far better-suited to the task than I. I will still need to make contact with her, but that should make things much easier for me.
+
+“I actually have a way to call her here, but I’m afraid it’s not a quick process. It will take some time for her to arrive. You two are welcome to keep me company, but I don’t believe we have much else to discuss. I think that continuing to discuss the past would be unwise, given the earlier revelations, and I would not want to put you in danger. I will simply wait here for her to meet me, and we will handle the rest on our own.”
+
+“Are you certain?” asked Oberon. “I can help you get a form identification, if you want to move around the world freely.”
+
+“I’m sure my comrade already has that covered,” said Quel’Khulan with a smile. “She would not appreciate me revealing her name, but in our time, she was known as the Spy.”
+
+“Then in that case, Elise and I will be taking our leave.”
+
+“Huh?” said Elise.
+
+“He clearly wants us to leave,” said Oberon’s voice in her head. “Did you miss the cues? I didn’t train you this poorly, did I?”
+
+Slightly embarrassed, Elise nodded, and then turned to Quel’Khulan with a smile.
+
+“It was nice to meet you,” she said.
+
+“Yes, you as well,” said Quel’Khulan. “And Elise, the Spy may contact you again in the future for assistance undoing the other seals.”
+
+“Any time,” said Elise. “Good luck with whatever it is that you’re doing.”
+
+“Thank you. And thank you again for freeing me. I won’t forget my promise.”
+
+Elise smiled and nodded, and then Oberon put a hand on her shoulder, and together, the two fey walked away, leaving the enormous armored man alone in the clearing.
+
+Quel’Khulan watched the two fey leave, smiling, but as soon as they left the range of his senses, his smile vanished and he drew his sword.
+
+“Are you going to keep watching like a coward, or are you–?”
+
+Before he could even finish his question, a woman appeared in front of him, floating in the air just high enough that she could look down on him. She was tall, with long black hair and yellow, slitted eyes. Her clothes were simple, and covered in crumbs and stained with grease, but her disheveled appearance could not hide her malevolent aura.
+
+“You are quite bold to challenge a dragon,” she said.
+
+“I have slain dozens of your kind.”
+
+“Oh?” she asked. “And that makes you think you stand a chance against me?”
+
+With that question, she flared her aether, and as it washed over him, Quel’Khulan’s face paled and his hands trembled.
+
+“Wh– what?” he said. “How? How are you still in the mortal realm?”
+
+“Why should I tell you? Unless you still want to challenge me. If you win, I’ll answer whatever questions you wish.”
+
+Quel’Khulan rarely backed down from a fight, especially when his opponent was a dragon, but in this case, he knew he was outmatched. Even if all six of his comrades were present, he was not sure they could guarantee victory. It would be like trying to fight a god. Literally. The dragon before him was practically a demigod, somehow stopping her divine ascension midway. Still trembling, he sheathed his sword and raised his hands.
+
+“And you called me a coward,” scoffed the dragon.
+
+That made Quel’Khulan’s anger flare for a moment, but he did not change his stance. He would not allow such a petty provocation get the best of him. Especially not when it was his own petty provocation thrown back at him.
+
+“My apologies,” he said. “I should not have said that.”
+
+“Hmph.”
+
+“Might I ask… why you are here? And why you were watching me?”
+
+“I was not watching you. I was watching Elise. She is my… Hmmm… I don’t know how to describe it. She is under my protection.”
+
+“I see.”
+
+“But you are quite interesting,” she said. “You asked me how I am still in the mortal realm, but I could ask the same of you. I might, if I hadn’t heard your conversation earlier. But now, I know exactly why you haven’t ascended. It’s the same reason as mine.”
+
+Quel’Khulan’s eyes widened.
+
+“Tell me, celestial,” said the dragon. “Which god are you trying to kill? I believe we may be able to help each other.”

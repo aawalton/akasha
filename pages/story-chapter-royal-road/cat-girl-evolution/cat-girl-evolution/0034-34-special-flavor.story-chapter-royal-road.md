@@ -1,0 +1,267 @@
+---
+id: 7fa3ee6a-ef2e-5368-aab7-5668ad0b56f2
+page-type-slug: story-chapter-royal-road
+title: "34 - Special Flavor"
+slug: 0034-34-special-flavor
+partOf: cat-girl-evolution
+position: 34
+ownLength: 3104
+unit: words
+publishedAt: 2025-10-10
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2665162/34-special-flavor"
+royalRoadId: "2665162"
+---
+
+As I sleep, I dream of a fancy fantasy restaurant with magic everything. I’m sitting at a table alone with a bunch of covered platters in front of me. A half dozen faceless servants surround me, and one lifts the cover closest to me. Underneath is a beautiful array of seafood, but one piece immediately grabs my attention: scallops.
+
+I’ve had a lot of good seafood lately. Eel, octopus, crab, and Named meat, which is surprisingly delicious. However, my favorite seafood, scallops, has continued to elude me. I didn’t look very hard, but I did slaughter a huge number of seafoodmen, and didn’t see a single scallop. And now here they are, right in front of me, ready to be eaten.
+
+They look beautiful. A perfect shade of cream with golden brown edges, and drizzled with a white sauce that smells vaguely of lemon. They are some of the biggest scallops I have ever seen, and there are eight of them making a flower pattern in the center of the platter, demanding my attention. I can feel my mouth watering.
+
+I pick up my silverware, moving slowly so as not to appear improper, then reach for the scallop. It’s so soft that the fork sinks in almost without resistance, and goosebumps of anticipation form on my arm. I raise the fork to my mouth, and open wide, ready to pop the whole thing in.
+
+“Yona!”
+
+Suddenly, I’m awake, stretched out on the bed as someone pounds on the door. Lauren. That devil. I was so close to finally tasting scallops again. I will make her pay.
+
+“Mra!” I shout back angrily.
+
+“Yona?”
+
+Oh shit, I’m supposed to be a cat girl right now.
+
+I quickly switch to my other form, then call back to her.
+
+“What do you want?” I say, trying to make sure my grumpiness is known.
+
+“Breakfast is ready!”
+
+At the mere mention of food, my stomach growls.
+
+…I suppose payback can wait.
+
+“I’ll be down in a minute.”
+
+“Okay.”
+
+I hear her footsteps retreat, so I switch back to my base form to get a nice, proper stretch in before shifting again and opening the door.
+
+It feels strange to be bipedal again. And so unsteady. Why are humans like this? I never wondered before, but now, after spending so much time as a cat, it’s obvious that having four legs is better. Especially now that I have mana arms that will soon be fleshy arms.
+
+I experimented a bit with my new abilities last night before I went to bed, and it was kinda lame. Internal Mana Manipulation is cool, and it lets me strengthen my body even more than my stats already do, but the Fleshbender part didn’t work very well. Abby says I’m just impatient and need to practice more to increase its Proficiency, but she’s wrong. I need to find a way to cheat the Proficiency higher, or tie it in with Gluttony so I don’t need to. And I should do that soon, probably. All I can do right now is make my fingers and toes a little bit longer, which isn’t very helpful.
+
+Well, maybe if some guy wants to show off how big his hands are, and tells me to put my hand on his to show off, and then I make my fingers longer so that my hands are bigger. That would be funny. Guys like that exist in this world too, right? Well, whatever. It’s not important.
+
+As I walk down the stairs, the scent of whatever Lauren is cooking begins to enter my nostrils. My mouth waters again as I get closer. It smells delicious. And… familiar? I’ve smelled this smell before. I like this smell. But what is it? Ah, I know! Sichuan pepper! They have that here? I hope it’s not just something that smells like Sichuan pepper and tastes completely different.
+
+I hop down the stairs six at a time as I rush toward the kitchen that contains the source of the food. The smell gets stronger as I go, and I can also smell some meat underneath. I think this is pork. Pork ribs? How did she have time to make that? How long has she been awake? Actually, what time is it?
+
+“It’s just past noon.”
+
+Huh. You have a clock?
+
+“Of course I have a clock.”
+
+Oh. Well then what time did we get back last night?
+
+“Around three in the morning, and then by the time you finished your bath and made your Class selection and went to sleep, it was a little after four.”
+
+I see. So I only got eight hours of sleep then.
+
+“Only? With your Resilience so high, you probably don’t even need two.”
+
+Silence, Abble. Sleep is one of life’s great joys. Would one really deprive themself of it for some silly reason like not needing it?
+
+“Yes.”
+
+Well, they’re dumb. I, on the other hand, am a genius, so I am able to recognize the value of sleep, and therefore, I choose to make the most of my time by sleeping as much as possible.
+
+“Of course, Your Highness.”
+
+Okay, now that I can hear you, I know you’re being sarcastic.
+
+[ I would never ]
+
+Get that thing out of my face.
+
+I find Lauren in the tavern-y area where she’s sitting at one of the tables with a platter piled high with four full racks of ribs on it. Ribs for breakfast is a bit of an odd choice, but hey. I’m not complaining. It looks like she even took my appetite into consideration. I suppose she’s getting closer to being forgiven for that rude awakening earlier.
+
+“Hungry?” she asks with a smile. “I made a lot.”
+
+“It smells good,” I say, sitting down at the table in front of a big plate she set out.
+
+The plate is big enough that a rack of ribs can just barely fit on it, so I reach out and grab an entire rack of ribs. There is silverware too, but I ignore it. Ribs are finger food.
+
+They’re really hot, but it doesn’t bother me much. I guess that’s my Resilience showing. And it’s perfect, because that means I can dive right in!
+
+They look delicious, and smell even better. It looks like she opted for a dry rub, rather than a sauce, though there are two bowls of some reddish sauce that smells a bit like chili peppers in the middle of the table. I have to try without the sauce first though, because the Sichuan pepper scent is coming from the ribs themselves.
+
+Lauren watches eagerly as I tear the first rib off and bring it up to my mouth. She seems excited for me to try it. I suppose that makes sense. Professionals usually take pride in their work. She must have put some effort into this. Let’s hope it’s not a disappointment.
+
+I take a bite, and for a second, my mind goes blank. Then, I return, all the flavors hitting me at once. This blows the steak from the other night out of the water, and takes the top spot for new world foods by a landslide. She really wasn’t lying about being limited by the travel equipment. Now that she has a kitchen, she’s taken her cooking to a whole new level.
+
+The pork is juicy, flavorful, and full of mana. It’s not dry in the slightest, and comes off the bone with absolutely no resistance. In fact, it’s so tender that I can just slide the bone right out. And the seasonings…
+
+Sichuan pepper was right. There’s a lot of it, and it’s perfect. The light, citrus-y flavor, the warm undertones, and best of all, the light tingle in my mouth. Oh, how I’ve missed this.
+
+Without hesitation, I devour the rest of my rib, and reach for a second. As I do, I notice that Lauren looks a little hesitant. No longer as eager as before.
+
+“Did you like it?” she asks, catching my eyes.
+
+“It’s delicious!” I say. “I didn’t know you guys had Sichuan pepper here!”
+
+“S-Sichuan pepper? I don’t know what that is.”
+
+“Maybe it’s called something different. It’s the stuff that makes your tongue tingle.”
+
+“Ah,” says Lauren, her face completely straight. “You mean the numbflowers.”
+
+“Numbflowers? I guess that’s not the worst name. But yeah, it’s really good!”
+
+With the next rib, I try the sauce. I’m not sure if it makes it better, but it adds a whole new layer of flavor. The sauce has a lot of kick to it, just the way I like it, and spice isn’t all it has. It’s got its own set of spices and herbs in it, some of which are the same as the ribs, and the rest of which complement it. Before I know it, I’ve finished off the entire first rack, half dipped in the sauce, half plain.
+
+While I eat, Lauren starts eating as well, though she’s much less enthusiastic about it. By the time I finish my second rack, she’s barely finishing her first, and doesn’t look like she has much of an appetite for the rest. I hope she doesn’t.
+
+“You gonna eat that?” I ask, pointing to the final rack.
+
+“Huh?” she says looking up. “Yes? That’s why I made four. Two for each of us.”
+
+“Dang…”
+
+“Do you want more?”
+
+“Yes!”
+
+“I can whip up some dessert if you want. Dessert isn’t my specialty, but I’ve got a couple decent recipes.”
+
+“I love dessert!”
+
+“Let me finish eating, and I’ll go make some.”
+
+Alright, if this dessert is good, Lauren will be forgiven. If she can direct me to a restaurant that serves scallops, she will become my number one underling.
+
+“I’m sure she’ll love that.”
+
+Hey, you better watch your mouth. You’re number one for now, but if Lauren proves more useful… Well, I don’t know if you can hold that spot.
+
+“I’m number one?”
+
+Well, you didn’t wake me up from a scallop dream. Maybe if you do some more useful things though, you can maintain your number one position even if Lauren gives me scallops.
+
+“I am already doing everything in my power to help you. And why should I care about being your number one underling?”
+
+Because it’s number one? Duh.
+
+Anyway, Lauren seems to be in a better mood now. Well, she’s eating faster, at least. I think that means she’s feeling better. I wonder why she was down. Maybe I didn’t react enough? I bet I could make her feel better by having a bigger reaction, but if she was expecting more, I wonder what kinds of reactions other people have. Maybe if I start reacting even less, it will push her to make even better food.
+
+Yes, this is a good plan. I will do that. From now on, no more reactions when I eat her food. I need to give her the drive to make me better and better food until she is the best underling in the world.
+
+“Good luck.”
+
+There’s that sarcasm again.
+
+Once Lauren finishes her food, she heads back to the kitchen to make whatever dessert she’s making. Meanwhile, I start messing with Internal Mana Manipulation again. It feels weird to be able to move the mana around inside my body without needing to expel it first. As it travels through me and to my limbs and back, I can feel myself getting stronger. I’m pretty sure that Skarn’s golden form skill was some application of this.
+
+I flex my fingers, causing my claws to shoot out, then focus my mana on the claws, watching them slightly lengthen until they’re a full five centimeters long. Abby and I have agreed that the most obvious use of the Skill is for the claws. Lengthening them doesn’t do a whole lot for me, since Slice and Spatial Slice already extend the range, but I can do other things. I can make them thicker and more durable, or I can make them sharper to help them cut deeper.
+
+I think the most useful part of my new skillset though is Anatomical Analysis. It’s like a second brain that stores all the sciencey information so I don’t have to. And best of all, it seems to work really well with my new upgrade to Gluttony. With Discerning Tastebuds being added, I now make a profile of whatever I eat, and apparently having Anatomical Analysis adds a whole new section to that profile. That means I don’t even have to do any real work to get the information I need. I can just eat!
+
+Unfortunately though, it looks like Discerning Tastebuds has its limits. I got nothing from the steaks or the ribs. Abby says it’s because it needs to come from things that I kill myself. If only the System creators were diligent enough to put that in the description… So lazy.
+
+Well, at least it works for all the seafoodmen though. Because of that, just by eating some octodude tentacle, my mana tentacles become much better. I mean, that already happened with the upgrade to Emma, but now it happens more. I can actually control my mana tentacles pretty decently. I can’t wait until I can make them fleshy.
+
+I continue to fiddle around with my Skills until Lauren returns from the kitchen, holding a pan filled with what looks like cobbler. It smells like cobbler too. Peach and blueberry cobbler.
+
+“I can’t afford a refrigerated spatial bag, so no ice cream, but I used a little trick I learned with butter and sugar to make up for it,” she says as she sets the steaming pan down. “I’ve only done this once before, and I made some on-the-fly improvements, but it should still taste fine.”
+
+“We’ll see,” I say with a very straight face while staring at the cobbler and definitely not drooling.
+
+Excellent. No reaction.
+
+She produces two more plates from somewhere and splits the cobbler evenly between us, then passes me my plate, and we both dig in. It’s delicious, of course. I do feel the lack of ice cream to go with it, but whatever that trick with sugary butter she was talking about worked well. It’s definitely the best cobbler I’ve ever had.
+
+I don’t show it on my face though, and only let out a single accidental “Mmmm,” as I eat. She doesn’t notice that though. I think. She was pretty invested in her own dessert.
+
+“That was pretty good, I guess,” I say, leaning back with my plate nearly licked clean.
+
+Perfect acting, if I do say so myself.
+
+“I disagree.”
+
+No one asked you.
+
+“I’m glad you enjoyed it,” says Lauren. “I think it could use a bit more refinement though. I’ll have to experiment with it later. Maybe we can make that our project as I teach you how to cook.”
+
+“Perhaps,” I say, leaning back and pressing my fingers together.
+
+Can’t say no to better cobbler.
+
+“Well, we should get going,” she says, standing up. “We’ve been here for longer than I thought we would be. I don’t think you have anything to pack up, but if you have anything to get ready, do it now. I’m gonna wash these dishes, head upstairs to grab my stuff, and then we’ll leave.”
+
+A few minutes later, we’re outside the inn as Lauren double checks that she didn’t forget anything. Once she looks satisfied, I turn to walk down the street, but she puts a hand on my shoulder to stop me.
+
+“Yeah?” I ask.
+
+“You have the Custom Namecard Trait, right?”
+
+“Huh? Yeah. Why?”
+
+Is there something wrong with my Namecard?
+
+“Yes.”
+
+“I think… that you should change it before we go anywhere,” says Lauren. “That namecard stands out. Normally, people just put their Class or Profession, and maybe a Title they want to show off. Hiding both and putting a custom name… especially one like that… Well, it will draw a lot of attention.”
+
+“I like attention.”
+
+“I should have said ‘suspicion.’ The only people with the Custom Namecard Trait are people who have something to hide. You’ll draw attention from shady organizations who will basically stalk you for answers.”
+
+“Ah, that kind of attention,” I say.
+
+I know that attention. I don’t like it at all.
+
+“I’d recommend using your Class. You don’t have to use a Title, but if you have anything impressive, it would be good.”
+
+“Before you look, you only have one applicable Title: Taker of Names I. Second Lifer and Named are obviously dangerous, and System Breaker might cause awkward questions, since you can’t explain how you broke the System without revealing your status as a monster.”
+
+Okay. So do I just use my Class and Taker of Names then?
+
+“Yes, it sounds like that would be ideal.”
+
+I change my Namecard and look back at Lauren.
+
+“Better?”
+
+“No, actually, that’s worse,” says Lauren with a grimace. “Vivitect is a banned Class. And you don’t have a Profession…”
+
+“Is Mana Vivitect allowed?”
+
+“Yes, that’s fine, but you might get some raised eyebrows, since it’s very close to a regular Vivitect. It’s still legal though.”
+
+I switch my Class to “Capable Mana Vivitect,” one of the other options that I passed up on.
+
+“Much better,” says Lauren.
+
+“Are you not bothered that I have a banned Class?”
+
+“I think that banned Classes are dumb,” she replies grumpily. “I had to take a worse Class at my last upgrade because the better one I was offered led to only banned paths. If I had the Custom Namecard Trait though, I would have taken it in a heartbeat. And Vivitect is one of the more innocent banned Classes. As long as you’re not like a serial killer or something, I don’t care. I’m actually kinda jealous.”
+
+“Well, I am pretty special.”
+
+“Yes, I can see that. Well, now that that’s settled, let’s head out. To Riverfork!”
+
+“To Riverfork!” I echo. “Hey, by the way, do you know any restaurants where I can get scallops?”
+
+“Scallops?” she asks. “Yes. There’s a restaurant in Riverfork that I like that gets them regularly imported. They’re delicious.”
+
+“Will you take me there?”
+
+“If you want, but they’re pricey, so I’m not paying for you.”
+
+“I’ll pay with my reward money!”
+
+“Sounds like a deal then.”
+
+“Hooray!”
+
+As we walk out of the small town, I have a bit of pep in my step. Scallops are on the horizon, and the only thing keeping me from them is distance. I can’t wait to get to the city. It’s gonna be so good!

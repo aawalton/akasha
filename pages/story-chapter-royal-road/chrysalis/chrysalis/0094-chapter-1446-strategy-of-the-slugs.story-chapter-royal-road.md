@@ -1,0 +1,101 @@
+---
+id: 51f4813e-d52c-56e5-b23e-6a1f5b2e7efb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1446 - Strategy of the Slugs"
+slug: 0094-chapter-1446-strategy-of-the-slugs
+partOf: chrysalis
+position: 94
+ownLength: 1057
+unit: words
+ownProgress: 1057
+publishedAt: 2024-11-05
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1885641/chapter-1446-strategy-of-the-slugs"
+royalRoadId: "1885641"
+markedReadAt: "2026-06-29T19:47:03.034Z"
+---
+
+Zluth was instinctively uncomfortable, and judging by the body language and expressions of his fellow Krath, they felt the same way. Of all the dangers in the fifth, there were none more deadly than the slug tribes, even to each other, and as long as he had lived, Zluth had never seen so many different tribes gathered in one place. It was almost unnatural, but the circumstances demanded that the tribes do something they very rarely did: put aside their enmity and fight together against a common foe.
+
+“Scouts from five different tribes have confirmed the invasion,” stated Ulliz, Krath’lath of the Bulg tribe. “Even the most suspicious among us has to concede that the assault on our stratum is real.”
+
+The leaders of the major tribes stood together, though not too close to each other, right at the edge of the falls. Behind them, the enormous stream of mucus, oozing its way down in freefall at several dozen metres per minute, made for an impressive sight.
+
+Arrayed in a loose semi-circle in front of them, the rest of the representatives looked up at their betters, listening intently, but seething internally.
+
+“I want to hear from those tribes,” burbled the leader of the Lirz, a truly corpulent slug named Mulzoz. Despite his size, and advanced age, there was something about him that spoke of immense power. The acid that boiled in his flesh must have been truly potent, Zluth mused.
+
+“Bring them forward,” the third major tribe leader, Chozth of the Thuuz, agreed.
+
+She stood out amongst the three leaders, being the youngest and smallest. Despite this, she had already built a fearsome reputation for ruthlessness and violence that had rippled through the gathered leaders the moment she had arrived.
+
+“Try not to die,” Goszi whispered as Zluth began to make his way forward.
+
+“You’ll die if I do,” Zluth whispered back, “I have a deal with Puzith.”
+
+Only then did Goszi realise that two of the surviving Suggoth guards had sidled up on either side of him. A thunderous expression came over the old slug, and Zluth knew the traitor had been hoping he’d perish in this gathering. Perhaps he’d even hoped to tip the balance by calling out just the wrong words at just the wrong moment.
+
+Pleased to have outwitted the old slug, Zluth chuckled to himself as he moved to the front, Puzith slithering along with him. Three other Krath’lath of minor tribes in the area moved along with them, arriving toward the front of the gathered Krath, but prevented from joining the three leaders who remained in a higher position.
+
+“I have questions,” burbled Mulzoz.
+
+“Then ask them,” Ulliz spat.
+
+“Which of you can confirm seeing all the races of the fourth participating with your own eyes?”
+
+Of the five, three raised one spindly arm, Zluth and Puzith included.
+
+“Which of you have seen the Mythic with your own eyes?”
+
+Now only two raised their arms, Zluth and Puzith.
+
+“Describe the creature to me,” the oversized Krath’lath demanded, his eyes glittering atop their fattened stalks.
+
+“An ant monster of considerable size,” Puzith answered first. “It is covered with a thick, purple shell, some sort of diamond or crystal, which is capable of deflecting very powerful blows.”
+
+Zluth was surprised to hear this. He hadn’t realised the Suggoth had gotten so close and managed to witness the creature firsthand. Of course, he didn’t believe for a second that Puzith herself had gone there, but who was going to call her a liar?
+
+“Anything else?” Mulzoz asked. He was chewing an unnamed substance, as he looked at them, his teeth audibly grinding against something incredibly hard.
+
+“The monster is capable of wielding a type of mana I have never seen or heard of,” Zluth said. “It can create a… hole, a sphere of darkness that sucks in and destroys everything around it. I’ve seen it use this magic against monsters, against toxic mucus, against rock. It annihilates everything it touches.”
+
+This statement caused quite a stir. A type of mana that a random Krath hadn’t heard of could be anything, but from the description, he was willing to bet that none of them had heard of it either.
+
+“What’s more, the monster seems adept at finding and trapping our kind. It can pin us to any surface using a method I do not understand.”
+
+“I can confirm this,” Puzith spoke up. “We Suggoth lost several scouts in just this way. They were slammed into the ceiling of the tunnel, unable to move at all.”
+
+“Were they taken?” Mulzoz queried.
+
+“Of course not. They were Krath.”
+
+“That is good.”
+
+The oversized Krath continued to chew as he pondered for a moment, then spoke.
+
+“I have received word that the monster has received The Call.”
+
+There was a ripple of discontent through the gathered Krath’lath. Even Ulliz and Chozth, the leaders of the other two major tribes, seemed irritated to hear this.
+
+“Has there been any word from the Maker?” Ulliz demanded.
+
+“As far as I am aware, the Maker yet sleeps,” Mulzoz replied.
+
+“Then what do we care for the schemes of the others?” Chozth spat, her eyes bulging red with anger. “We will annihilate this invasion and consume this ant in its entirety.”
+
+There were muttered snarls and angry hisses of approval from the gathered Krath at her words. This was the sort of thing that they wanted to hear.
+
+“All I will say is that we must be prepared to change course should the Maker awaken and direct us to a different path,” Mulzoz warned.
+
+“Should such a thing occur, we will of course listen,” Ulliz said impatiently, “but until that happens, we have an invasion to crush! We must discuss our plans going forward. Who will go to fight, and how will they do it?”
+
+To the surprise of no one, Chozth was the first to raise her arms.
+
+“I will go myself!” she raged, visibly quivering and popping with the force of her anger. “These invaders must be destroyed and devoured!”
+
+“Don’t underestimate them,” Mulzoz burbled in warning.
+
+Chozth turned and glared at the corpulent slug.
+
+“You want to tell me how to war? I underestimate no one,” she spat.
+
+Watching her glare at the other two Krath’lath, Zluth was left with no illusions as to whom she was referring to.

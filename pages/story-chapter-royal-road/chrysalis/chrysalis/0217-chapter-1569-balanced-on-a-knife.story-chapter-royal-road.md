@@ -1,0 +1,99 @@
+---
+id: 5c5e6e30-359c-55f8-832c-4c29e9383f08
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1569 - Balanced on a Knife"
+slug: 0217-chapter-1569-balanced-on-a-knife
+partOf: chrysalis
+position: 217
+ownLength: 1210
+unit: words
+ownProgress: 1210
+publishedAt: 2025-05-23
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2299011/chapter-1569-balanced-on-a-knife"
+royalRoadId: "2299011"
+markedReadAt: "2026-06-29T19:50:45.452Z"
+---
+
+News of the damaged channels reached Solant as she settled into the command post, though she didn’t expect to hear it from the Eldest.
+
+[How are you communicating with them? Are you really able to extend a mind-bridge that far into the fortress?]
+
+[Ahhh,] the Eldest says, evasively. [Sure. Let’s go with that. No, you cannot use me as a message relay.]
+
+[I wouldn’t dream of it,] Solant lied. [Thanks for letting me know about the issue. I will dispatch the build teams as quickly as possible.]
+
+A quick word to the messengers was enough to send several scouts running, and allowed Solant to turn her attention back to the Eldest.
+
+[You aren’t using a mind bridge to talk to me…] she said evenly.
+
+[It’s a new secret technique I invented.]
+
+[Can you explain it?]
+
+[It’s too complicated.]
+
+[I could ask Brilliant to investigate.]
+
+[I will not. I repeat. Will not! Be your relay station.]
+
+[My thoughts never went in such a direction,] Solant continued to lie.
+
+The Eldest could communicate with them without having to use a mind bridge? This was crucial information! What were the limitations? Range? Knowing the Eldest, it would be absurdly powerful, more so than she expected.
+
+[Just focus on the main issue,] the Eldest snapped. [Things seem to be falling apart in there! Has anyone checked on the wall?]
+
+[It’s happening as we speak.]
+
+[Gah. Monsters keep coming. Try and sort things out, I’ll be here on the platform if you need me.]
+
+[And if I need you to relay a message?]
+
+Silence.
+
+Clacking her mandibles thoughtfully, Solant moved to inspect the model of the fortress hanging in the centre of the command post. What had once been an expanding map of the myriad tunnels investigated by the Colony had now grown to include a detailed model of the fortress itself, bisected in several places to allow access to the interior. Right now, generals were crawling over it placing markers to indicate the sections of channel that were damaged.
+
+She’d hoped that the influx of mana from the vents would be manageable with what they’d put in place, the modeling had suggested as much, but reality often failed to live up to expectations. Victory was determined in planning and practice, this was an idiom that she lived by, and in this case she had been no less diligent.
+
+There were backup containers, release valves, and if all else failed, they could cease taking in mana from the platforms for a period of time, though that would hurt their accumulation of energy. Calm and collected as always, she directed traffic inside the command post, issuing orders and taking in information, calculating all angles in her logistical mind.
+
+It didn’t take long for the overall picture to emerge. Carvers were spread all over the fortress, inspecting the channels and looking for signs of stress and they found them. This was always a concern, the channels were built to handle huge amounts of mana, but even the slightest flaw in their construction could lead to severe problems.
+
+It seemed that the vents were outputting far more energy, at higher levels of concentration, than they had calculated, putting immense stress on the channel networks. Flaws were being exposed at a rapid pace, and the carvers were in a race against time, trying to fix them before they overloaded and blew up in their faces.
+
+After an hour, two more channels had burst and additional wuffer platforms had been brought online to try and deal with the excess energy. The reserve tanks were filling quickly, and Solant could feel the tension rising in the command post and amongst every ant she encountered.
+
+Projecting calm and control, she dealt with issues one at a time, making sure appropriate resources were appointed to deal with each of them, drawing on the extensive logistics network to provide what was needed in a timely manner.
+
+Then she found out about the wall.
+
+“The prisoner has escaped!” reported an exhausted scout who burst into the command post. “We couldn’t report since the tunnels were filled with noxious mana. Goszi the Krath has escaped through the hole in the outer wall!”
+
+Solant clacked her mandibles thoughtfully. Goszi had escaped? This was something she hadn’t anticipated. After all, what awaited him outside the fortress? A quick death, if he was lucky, or a slow, debilitating one if he was caught by his own people. It didn’t make sense for Goszi to escape. Of all the fates that awaited him, the kindest was living out the rest of his life inside his cell, and he was very, very aware of that.
+
+Something had changed, something unexpected had occurred. Solant did not like the unexpected.
+
+The world grew still around her as she pondered more deeply, trying to fit this new puzzle piece in with the rest and finding there was simply nowhere for it to go. When she imagined the campaign, it was always in this form, thousands of individual pieces, each representing an idea, an individual or collective, with their own strengths, weaknesses and unique shapes. When placed together just right, they fit harmoniously, creating spaces for other ideas to work alongside them, an expanding network of accomplishment.
+
+She had laboured long and hard to create the pieces necessary to make the puzzle work, and all that she had done since was adjust the plan, making small changes here and there to keep the pieces harmoniously aligned.
+
+Now, suddenly, there was something that didn’t fit. What could it be? What had changed?
+
+She homed in on the puzzle of Goszi, a selfish, elderly Krath. Cunning and ruthless, an extreme level of self-interest, even for a Krath. What could compel him to risk his life in this way? The more she considered the problem, the more worried she became. Slight changes weren’t enough to make the pieces fit. She began to imagine more and more outlandish scenarios, bending the pieces this way and that, warping them far out of shape as she considered various calamitous scenarios.
+
+The picture in her mind grew more and more disorganised, huge rents opening in what had been a harmonious whole. It grew worse and worse until….
+
+Click.
+
+Solant returned to herself and found the headquarters had grown still, all eyes on her as they waited for a response to this latest crisis. She clacked her mandibles again, a little vexed.
+
+“Get teams on the wall, we have to stop contamination at all costs. This is a priority even greater than the channels.”
+
+“What about the prisoner?”
+
+“The prisoner doesn’t matter. We don’t have the ability to go and get him anyway. Focus on what we can control, ignore everything we can’t. Get to it. Update the model, quickly.”
+
+She ordered, pushed and annoyed until the rest of the ants got moving, working hard to stay on top of the unfolding catastrophe. This was a dangerous moment for the Colony, more dangerous than anyone else realised. Indeed, it was possible that Solant would order a full and total retreat from the fifth in the next few hours.
+
+Yet… she didn’t think so.
+
+Solant didn’t lose. She didn’t care who she had to go up against, even an Ancient. She refused to lose.

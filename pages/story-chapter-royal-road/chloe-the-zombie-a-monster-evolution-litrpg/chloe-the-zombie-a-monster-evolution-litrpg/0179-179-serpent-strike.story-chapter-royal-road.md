@@ -1,0 +1,99 @@
+---
+id: 9d1ee156-d43f-56a8-ab9f-5dc223be5a35
+page-type-slug: story-chapter-royal-road
+title: "179: Serpent Strike"
+slug: 0179-179-serpent-strike
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 179
+ownLength: 1916
+unit: words
+publishedAt: 2026-07-17
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3689587/179-serpent-strike"
+royalRoadId: "3689587"
+---
+
+Oh boy, getting blasted straight through the stomach was not how Chloe had imagined this meeting starting. Sure, the hole had healed almost immediately, and sure, being a super zombie meant she could survive things that would reduce normal people to dust, but that didn't make it any less uncool. She hadn't even introduced herself yet!
+
+Chloe was so ready to throw down immediately, but then she remembered something important.  Before entering the Broken Halo, Z had very specifically told her to stay calm until she gave a signal. Chloe wasn't entirely sure why there needed to be a signal. The signal for fighting was usually somebody attacking you, and that part had already happened. But, she'd promised to behave, which meant she was currently forced to stand there while suppressing a growing urge to zap someone.
+
+Z appeared completely unbothered by the dozens of weapons aimed in their direction. She calmly looked toward the two patriarchs standing in the center of the hall. "We are looking for someone, tell us where he is, and we will leave."
+
+A snort escaped the Graves patriarch. "Oh yeah? And what makes you think we're even going to entertain that idea?"
+
+"I would like to assume that the people gathered here are reasonable. It would be rather unfortunate if that assumption proved incorrect."
+
+The Graves patriarch's expression darkened immediately. Several members of his family shifted their grips on their weapons, while the Bright Family members watched the exchange with growing interest.
+
+It genuinely looked like the Graves leader was about to launch another spear. But before he could, however, the Bright Family patriarch raised a hand. "Perhaps we should at least hear what our new guests have to say."
+
+The Graves patriarch slowly turned his head toward him. "Are you telling me what to do?"
+
+"I'm not," the Bright leader replied. "But—"
+
+"But what?" the Graves patriarch snapped. "You think that—"
+
+Chloe barely listened to the rest. At this point, she was far more interested in the rapidly escalating body language than the actual conversation. The Bright leader looked annoyed, and the Graves leader looked like he was one comment away from starting a war.
+
+Even Chloe could tell where this was heading. And considering her foresight was far from amazing, that was saying something. Whatever happened next was probably going to be super bad.
+
+Z gently nudged Chloe in the side and whispered. "Get ready."
+
+Chloe didn't need to be told twice. She had been ready ever since someone blasted a hole through her stomach.
+
+Almost immediately, she straightened slightly and began paying closer attention to the room around her. The tension that had been building since they entered the Broken Halo had finally reached its limit. Members of both the Bright Family and the Graves Family were no longer trying to hide their hostility. More and more weapons appeared as hands drifted toward holsters and sheaths. The two patriarchs were still arguing in the center of the hall, but it hardly seemed to matter anymore.
+
+And then, someone somewhere fired something.  Chloe never figured out who started things, but everything went to chaos soon after.
+
+A deafening crack echoed through the hall, followed almost instantly by a second shot and then a third as the fragile standoff finally shattered. Bolts of magic streaked across the room while panicked shouts and battle cries blended together. Gunfire flashed from every direction, illuminating the hall in bursts of light as spells exploded overhead and blasted chunks from the walls and ceiling. Within moments, members of the Bright Family and the Graves Family were going after each other like hungry hungry hippos, or uh, whatever other animal was appropriate.
+
+Anyway, this was the part where Chloe was supposed to remember the plan Z had spent all that time explaining earlier. Which was kind of unfortunate because Chloe had only been paying, like, seventy percent attention at best. Still, she remembered the important parts.
+
+The mission was to show everyone here that they meant business, establish dominance, and then grab either the Bright Family patriarch or the Graves patriarch. After that they were supposed to hold them for... hugs? Chloe blinked. Wait, that definitely wasn't right.
+
+Hostages, yeah, they were supposed to take hostages. That made way more sense, although Chloe still felt like aggressively hugging one of the patriarchs would've sent a pretty strong message too.
+
+Anyway, with the plan successfully remembered, Chloe immediately set out to execute it. Or at least she would've if the entire room hadn't already turned into a complete disaster.
+
+The moment the fighting started, the battlefield whole area split apart into dozens of smaller fights. Bright Family members crashed into Graves Family members. Spells streaked through the air. Somebody got launched through a table, somebody else got launched through a wall, and Chloe was pretty sure somebody was being used as a battering ram of some kind.
+
+"Chloe, we're splitting up!" Z said, dashing away.
+
+Before Chloe could ask what that meant, three armed fallen angels had already decided she looked like the easier target. One of them fired a glowing blue shot from some kind of magical rifle while another charged forward with a sword, and a third fallen angel appeared to be casting a spell.
+
+Chloe threw herself sideways as the rifle blast tore past her, missing by inches before exploding against a nearby pillar. The swordsman closed the distance almost immediately, hoping to capitalize on the distraction, only for Chloe to thrust out a hand and introduce his face to her zappy magic. Lightning erupted from her fingertips in a blinding flash, causing the fallen angel's entire body to seize up before he was launched backward through a table.
+
+Unfortunately, the third attacker had spent that entire time casting what have you. A cluster of glowing magic missiles streaked across the room toward Chloe, forcing her to dodge again as she twisted and ducked through the incoming barrage. She managed to avoid most of them, which would've been a lot more impressive if "most" wasn't doing so much heavy lifting. One projectile punched through her shoulder, another tore through her side, and a third slammed directly into her stomach, leaving several smoking holes straight through her body.
+
+Chloe stumbled backward and glanced down at the damage before looking back up again. The wounds were already closing. Flesh rapidly knitted itself back together while damaged tissue reformed beneath the skin, and within seconds the worst of the injuries had vanished entirely. Ah, that never gets old.
+
+Across the room, the fallen angel who'd cast the spell stared at her in horror as the realization slowly sank in that he'd just blasted several holes through her and failed to accomplish anything. Chloe couldn't help grinning at the expression on his face. "Yeah, I'm built different."
+
+Chloe responded by thrusting both hands toward her remaining attackers. Lightning exploded from her palms and raced across the floor, striking the caster and rifleman at the same time. The spellcaster dropped instantly, collapsing in a twitching heap before he'd even had time to scream, while the rifleman managed approximately two more seconds of consciousness before he, too, crumpled to the ground.
+
+Sadly, Chloe barely had time to enjoy her victory before something slammed into her shoulder from behind. An axe buried itself deep into her flesh, the force of the blow staggering her forward a step.
+
+She turned slowly and found herself staring at a Graves Family enforcer who looked very confident for someone who had just attacked an immortal undead monster. Chloe grabbed the handle of the axe and stared at him, then he stared back.
+
+He tried pulling the weapon free, but the axe didn't move. For a few awkward seconds, the two engaged in what could only be described as a tug-of-war, with the weapon still firmly lodged in Chloe's shoulder while both of them pulled from opposite ends.
+
+It was actually sort of fun for a while, but Chloe got bored after a while, so she punched him. The enforcer flew across the room, crashed through a table, bounced off a wall, and disappeared beneath a pile of expensive furniture.
+
+The axe remained exactly where it was. Chloe looked down at the weapon sticking out of her shoulder, shrugged, and continued fighting. Over the next few minutes she electrocuted several more people, got shot twice, stabbed once, and was blasted through a couch.
+
+Eventually, however, curiosity got the better of her. Z had been suspiciously calm since the battle started, and Chloe suddenly felt the need to see how her partner was doing. Climbing over broken tables and several unconscious fallen angels, she made her way toward the last place she'd seen Z.
+
+The space around Z looked less like a fight and more like a cautionary tale about why picking a fight with her was a spectacularly bad idea. Fallen angels littered the area around her, some unconscious, some groaning, and some still trying to figure out what had happened to them.. Several were trapped inside glowing magical restraints that looked far too complicated for Chloe to understand, while a group of spellcasters who had apparently tried attacking Z together were currently hanging upside down several feet above the ground.
+
+Meanwhile, Z just casually directed spells with small gestures while occasionally adjusting her glasses. Every now and then another fallen angel would charge her, convinced that they would somehow succeed where everyone else had failed. One particularly brave soul sprinted forward with a glowing sword raised overhead. Z flicked a finger, and the man immediately flew sideways through a wall before vanishing from sight. A couple of other guys and gals tried to take Z down after that, but they all didn't do much better.
+
+Chloe felt a little bad for the people they were fighting. Not much, obviously, but a little. With most of the random goons either unconscious, trapped, or running for their lives, she figured the next step was probably dealing with the Bright Family patriarch and the Graves Family patriarch. That had been the plan, after all.
+
+The only problem was that Chloe suddenly realized she hadn't actually seen either of them for a while. That seemed like the sort of detail she probably should've noticed sooner.
+
+Curious, she stood on her tiptoes and began scanning the battlefield. The bar was a disaster zone at this point, so it took her several seconds to spot them. When she finally did, her eyes widened.
+
+The two patriarchs weren't fighting each other anymore. Instead, both of them were locked in combat against a very familiar snake lady. The Bright Family leader hurled blasts of brilliant light that carved glowing holes through the floor and walls, while the Graves patriarch swung a massive burning axe. Between them was Ynett, effortlessly weaving around every attack while wearing the sort of grin that suggested she was having way too much fun.
+
+And she wasn't alone. Several cloaked figures moved alongside her, darting in and out of the fight like shadows. One launched spells from a distance. Another appeared behind the patriarchs just long enough to force them to defend themselves before disappearing again. Chloe stared at them for a moment, trying to figure out who they were. Friends? Probably not, minions felt like the more correct term since Ynett did have mind manipulation magic.
+
+More importantly though, Chloe wondered what in the world was Ynett doing here? And how was she not totally dead?

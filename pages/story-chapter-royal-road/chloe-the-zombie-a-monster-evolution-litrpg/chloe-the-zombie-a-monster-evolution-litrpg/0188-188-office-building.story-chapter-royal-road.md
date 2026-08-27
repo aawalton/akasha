@@ -1,0 +1,141 @@
+---
+id: 3e6755d2-79b3-5d16-8cbd-4a89e5c7f49f
+page-type-slug: story-chapter-royal-road
+title: "188: Office Building"
+slug: 0188-188-office-building
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 188
+ownLength: 1882
+unit: words
+publishedAt: 2026-08-14
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3813366/188-office-building"
+royalRoadId: "3813366"
+---
+
+Man, Chloe considered herself pretty smart. Like, really smart. Probably one of the smartest people she knew ever. But she had to reluctantly admit that Z was maybe just a tiny little bit smarter than her.
+
+The important part, however, was that Z had brought up a good point. Thinking back on it, Chloe suddenly realized that she hadn't gotten any experience from defeating the giant robot dinosaur. Actually, now that she really thought about it, she hadn't gotten any experience from defeating any of the robots down here either.
+
+"Y'know, now that I think about it, I don't think I've gotten any experience from fighting any of the robots," Chloe said out loud.
+
+"That is because none of these machines possess even the slightest hint of life essence," Z explained as she brushed some dust off her clothes. "The 'experience' you are familiar with is merely a simplified interpretation of absorbing fragments of life essence from defeated creatures."
+
+"And what exactly is a life essence?".
+
+Z looked as though she was about to answer. Then she suddenly paused before she glanced somewhere behind Chloe. "I shall explain another time, perhaps we should deal with them first."
+
+"Deal with who?"
+
+"Chloe… think."
+
+Well, of course Chloe knew how to think. So she immediately began thinking very hard about what she could possibly be forgetting. Let's see… She had all of her body parts again. Cloaky was safe and had apparently unlocked some terrifying hidden murder mode. Z was perfectly fine too, and the giant robot dinosaur had been turned into scrap metal. Everything seemed great. So what exactly was—
+
+"Oops."
+
+Liz and Percy were still lying where they'd been blasted earlier and probably needed some help. Honestly, it's been a very busy day. She had gotten blown into pieces, reunited with her body, rescued Cloaky, fought a giant robot dinosaur, and witnessed her cloak commit mechanical atrocities. Forgetting a few things here and there was completely understandable.
+
+Anyway, Chloe and Z made their way over to where Liz and Percy were still lying unconscious on the ground. Both of them looked a little battered, though thankfully not exploded, Since she conveniently happened to possess healing magic, Chloe decided to handle the situation personally. She crouched down beside them and gently booped each of them on the forehead with a finger, channeling healing magic as she did so. Light flowed into their bodies, healing their injuries almost instantly.
+
+Maybe she should become a doctor after all of this was over. People liked doctors, right? And she could heal people instantly. Surely that meant she could charge absurd amounts of money. Doctor Chloe would be the bestest healer in the world. She would probably have a giant office, fancy furniture, and maybe even those cool doctor's robes.
+
+Her very important daydream was interrupted when Liz and Percy finally woke up. Percy slowly pushed himself back onto his feet before turning toward Chloe and giving her a small nod. Chloe blinked at him for a moment before nodding back with a very serious expression. This was probably his way of saying thank you.
+
+Liz, on the other hand, was significantly more talkative. She looked around in confusion, blinking several times before asking, "Is it over?"
+
+"Yeah! Me and Z took care of everything." Chloe said proudly.
+
+Liz looked around at the devastated battlefield. Her eyes widened slightly before she let out a low whistle. "Dang... you two did good work."
+
+Chloe immediately puffed up with pride. They really had done a good job. Actually, considering everything she had gone through today, she had done an amazing job.
+
+Before Chloe could continue appreciating her own accomplishments, Z suddenly stepped forward. "Now that everyone is awake, we should move quickly before additional threats are sent our way."
+
+***
+
+After a lot of walking, Chloe, Z, Liz, and Percy eventually arrived inside a massive office lobby. Chloe stopped in the middle of the room and looked around to see what was up. This place had rows of desks, waiting areas, and glass walls everywhere. It was so clean and professional-looking that it almost felt like an entirely different world from the giant factory full of murderous robots they had just escaped.
+
+It was kinda hard to believe the two places were even connected. Then again, this was Divinity Inc. If there was one thing Chloe had learned so far, it was that these people apparently had an unlimited budget when it came to building stuff.
+
+Chloe was about to complain about how confusing this place was going to be to navigate when she spotted something convenient sitting right in the middle of the lobby. Oh hey, a map!
+
+She hurried over to the large floor plan mounted on the wall, silently thanking whichever genius had thought to put it there. Leaning in close, she carefully studied the diagram.
+
+According to the map, this building had originally been designed to have hundreds of floors, but, it looked like most of those floors weren't built yet. The map showed that only around ten floors were currently accessible, while the rest were either missing entirely or marked as still under construction.
+
+After another moment of staring at the map, Chloe scratched her head. "Sooo, any idea where Greg might be?"
+
+Liz stepped up beside Chloe and studied the floor plan as well, reading with a thoughtful expression. After a few moments, Liz pointed toward one of the lower floors. "I don't know where Greg is, but I think this place might give us a hint or two."
+
+Chloe leaned in closer to see what Liz was pointing at. The room was labeled Records Office.
+
+Percy glanced at the map before giving a small grunt. "Seems straightforward."
+
+"Getting there is going to be the challenging part," Z said as she stepped up. "However, I suppose we have little choice."
+
+Chloe looked between everyone before shrugging. "So that's the plan then? We just head down there?"
+
+Liz continued staring at the map. "Hold on, doesn't this all seem a little too easy?"
+
+Chloe tilted her head. "What do you mean?"
+
+"I mean… We're looking for information, and there's conveniently a room literally called 'Records Office.' Doesn't that seem a little suspicious?"
+
+"Or maybe Divinity Inc is just lazy and keeps using the same building plans over and over."
+
+"I'm being serious here."
+
+"So am I! If they're dumb enough to leave all their important records in a room called 'Records Office,' then that's their problem. We should absolutely take advantage of that."
+
+"Sure, but there's also been a surprising lack of security after that factory area, what if this is a trap?"
+
+"Well, maybe Divinity Inc. didn't want to pay for any more security and we're all gonna have an easy time."
+
+"While your logic is... certainly optimistic," Z said, "Liz has a point. I am also concerned that we may be walking directly into a trap."
+
+Chloe shrugged. "So what if we are? We've already survived a lot so far. Besides, we've got all four of us together now. As long as we stick together, we'll be fine."
+
+Percy let out another approving grunt before giving a firm nod. "I agree."
+
+Liz sighed, rubbing the bridge of her nose. "You know, neither you nor Percy are wrong. But I've still got a really bad feeling about this."
+
+"So do I," Z admitted. "But, if we wish to uncover the truth behind this facility, we have very few alternatives. Whatever answers we seek are likely waiting for us in those records."
+
+A smug smile immediately spread across Chloe's face. "So… we're going then?"
+
+Z sighed before nodding. "Yes, I suppose we are."
+
+With that settled, the group set off. The office building was eerily quiet compared to the factory they had just left behind. Gone were robots and explosions that had tried very hard to turn Chloe into a collection of unrelated body parts. Instead, they walked through rows of cubicles that looked like someone had simply stood up from work one day and never returned. Papers still sat on desks. Coffee mugs rested beside glowing computer monitors that somehow still had power after who-knew-how-long.
+
+In Chloe's opinion, this was all kind of creepy. Who even works in a place this big? There's, like, enough desks for a small country.
+
+That was somehow even creepier. Eventually they reached some elevators, their metal doors looking surprisingly untouched. Chloe eagerly pressed the call button, because that's what normal people did with elevators. But when nothing happened, she pressed it again, and still nothing happened. Huh, maybe I need to press it harder.
+
+She jabbed the button several more times with increasing enthusiasm. Nothing happened. "Hmm."
+
+She frowned before delivering one particularly determined poke that almost looked like she was trying to intimidate the button into working. Still nothing. "Well, seems like this thing is broken"
+
+Percy stared at her. "...Yes."
+
+Z walked over and briefly examined one of the elevator panels before placing a hand against the door. "The elevator shafts appear to have lost power. Even if we could force the doors open, using them would be unwise."
+
+Chloe slowly took a step away from the elevator. "Maybe we could find some stairs somewhere?"
+
+"A good idea."
+
+Finding the stairs thankfully proved much easier than navigating the rest of the building. Especially since there were these signs pointed toward the emergency exits, and after another minute of walking, Chloe happily pushed open the heavy stairwell door.
+
+The bad news was, somehow, someone was already there. .Standing in the middle of the stairs was a towering robot that looked over nine feet tall, its silver armor gleaming beneath the emergency lights. Unlike the bulky and sort of goofy looking robots they had fought before, this one looked... fancy. These shiny blue lines ran across its body, and an extravagant crimson cape flowed dramatically behind it despite there being absolutely no wind. Maybe this guy came equipped with fans attached to his back too or something like that.
+
+The robot raised all four of its arms. With four metallic clicks, four laser swords extended from its wrists. The glowing blades hummed as the robot spun each sword through the air with ridiculous flair before striking a dramatic pose. "Hmph, so these are the intruders who have caused such extraordinary destruction throughout this facility."
+
+One pair of arms folded behind its back while the other pair pointed two glowing swords directly toward the group. "I must commend your efforts. Eliminating the experimental unit was no small feat. So, allow me to introduce myself, I am Commander Sirius."
+
+He then made another flourish with all four laser swords. "Guardian of this sector. Master of the Quad-Blade Style. And, regrettably for you, the individual responsible for ending your delightful little adventure."
+
+Nobody said anything after Sirius's introduction. Z simply watched him in silence, while both Liz and Percy looked a little confused. But man, Chloe had only one thing in her mind when she saw the cool laser swords and the poses.
+
+"YOU ARE SO COOL!" Chloe said cheerfully.
+
+Commander Sirius blinked. Chloe practically bounced where she stood. "You've got FOUR ARMS! AND FOUR LASER SWORDS!"
+
+Commander Sirius tilted his head, probably not expecting Chloe's response. "I… .Thank you?"

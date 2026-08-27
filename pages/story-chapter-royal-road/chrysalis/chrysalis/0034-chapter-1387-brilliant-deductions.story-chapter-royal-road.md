@@ -1,0 +1,135 @@
+---
+id: 9cd4a12c-9a78-5772-891d-b00f0e183b15
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1387 - Brilliant Deductions"
+slug: 0034-chapter-1387-brilliant-deductions
+partOf: chrysalis
+position: 34
+ownLength: 1131
+unit: words
+ownProgress: 1131
+publishedAt: 2024-08-07
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1747753/chapter-1387-brilliant-deductions"
+royalRoadId: "1747753"
+markedReadAt: "2026-06-29T19:44:44.081Z"
+---
+
+“Oh, I don’t like this. I don’t like this at all,” Brilliant muttered.
+
+“What have you gotten us into this time?” Experimant groaned looking over her leader’s carapace.
+
+“Th-th-that… looks nasty,” Assistant agreed.
+
+Brilliant clacked her mandibles in irritation.
+
+“I’m not investigating this because I want to,” she told them. “The Eldest asked me to work out what the Church of the Path were doing in their fancy, secret rituals, and that’s what I’m doing!”
+
+“The Eldest did?” Experimant said. “Then why haven’t you finished yet?”
+
+“Because it’s difficult. Do you think just anyone can put together the pieces of an extremely complex ritual with only a few faded scraps to work with?”
+
+The little ant looked at her two trusted aides sideways.
+
+“There’s only one type of ant who can….”
+
+“Which type?” Assistant asked before Experimant could stop her.
+
+“One that’s BRILLIANT!” the little annoyance cackled, throwing back her head and flailing her front legs around.
+
+“O-Oh… I sh-should have known….”
+
+“Yes,” Experimant growled, “you should have.”
+
+She looked around the lab they were currently standing in. At the moment, it was filled with little else but Brilliant’s scratchings. Half-formed engravings, bits of slate with designs scrawled over them, several enchanting arrays, the purpose of which wasn’t at all clear.
+
+“Is there a reason you’ve pulled us from the projects we’re managing?” Experimant finally sighed. “My team was on the verge of making a breakthrough.”
+
+“Without me? I doubt it!” Brilliant cackled once more, causing Experimant to grind her mandibles. “I called you here because I need your help, and because I don’t want any other members of the team to work on this.”
+
+She gestured to the enchanting array she was working on with one antennae.
+
+“As you can see, this is ugly stuff, potentially dangerous. I don’t want any of our other work tainted by this… thing.”
+
+It was a first for the two followers to ever see their leader encounter knowledge that she seemed to find distasteful. Their own burgeoning sense of unease grew stronger.
+
+“Only the three of us are going to work on it,” she told them. “I want both of you here, full-time, to assist for the next week. Make sure your teams know what to do in your absence. Though they should barely notice.”
+
+The two ignored the jibe as they continued to stare at the array. It was… uncomfortable to look at it, for reasons they couldn’t quite understand.
+
+“What does this even do?” Experimant wondered.
+
+“Oh, I can tell you that,” Brilliant said offhandedly.
+
+“If you already know what it does, then what do you need us for?” Experimant demanded.
+
+“Because I need to know how it works!” Brilliant snapped back, uncharacteristically harsh. “It isn’t enough to be able to say what it does, that doesn’t give us a full understanding. I have to know HOW! It tells us so much information that we can’t afford to leave on the ground and not pick up! This thing is the work of our enemies, would you have us ignorant of their methods?!”
+
+“N-no. No, I wouldn’t,” Experiment stammered.
+
+“W-w-what d-does it d-do?” Assistant asked hesitantly.
+
+“It’s a monster distillery. Put a monster in one end, get distilled essence out the other.”
+
+That didn’t make much sense to either of the other two ants. They glanced at each other to confirm their mutual confusion, then turned back to Brilliant.
+
+“Can you… elaborate?” Experimant asked.
+
+“If I must,” Brilliant sighed. “When a monster is killed, what happens?”
+
+“They… die?”
+
+“Obviously they die! But there’s more, isn’t there?”
+
+“E-e-experience is granted to the person who l-l-landed the finishing b-b-blow.”
+
+“Precisely!” Brilliant declared. “In other words, something is taken from the monster and given to the slayer. Correct?”
+
+“Do we know that?” Experimant interjected. “Could the experience not come from the system itself? Is experience even a tangible thing and not just a number tracked by the system?”
+
+“It’s both,” Brilliant declared impatiently. “It is a number tracked by the system, but every individual on this planet touched by the system contains all the XP they’ve gained in their life.”
+
+She turned around and prodded both her team members in the head.
+
+“The important point is this. When a monster dies, does its slayer gain all of its experience?”
+
+That was a simple question.
+
+“No.”
+
+“So where does the rest go?”
+
+The question hung in the air, but neither Experimant nor Assistant could really grip it properly.
+
+“Before we can even attempt to answer that, we need a better understanding of what XP really is,” Experimant said, somewhat exasperated.
+
+From being in charge of her own research team to working directly under Brilliant again. She went from teacher to student so quickly her antennae were spinning.
+
+“Gah! Fine! Look, the system is not something that is only with us when we access it, right? It’s with us all the time, intertwined with us at a fundamental level.”
+
+“D-d-d-do we actually kn-kn-know that?” Assistant wondered.
+
+“Of course we know that. I proved it over… there somewhere,” Brilliant gestured vaguely toward a stack of materials, arrays, slates and paper.
+
+“When?”
+
+“Three days ago. Doesn’t matter. Focus. So experience, or XP is part of the system, and therefore bound up within us also. It’s like information written on a slate, and then the slate is weaved into our bodies, our minds and our souls and becomes part of us.”
+
+“D-d-d-do we kn-kn-know that?!” Assistant gasped, a little wild-eyed.
+
+“Yes,” Brilliant replied, fed up. “I proved it two days ago! Over there somewhere.”
+
+Once again, she gestured to another, entirely separate pile of materials.
+
+“Now, most of the XP we accumulate, which is threaded throughout our being, remember, goes back to the Dungeon when we die, in much the same way Biomass is absorbed if left alone. The process simply happens much quicker. Instantly, pretty much.”
+
+“When did you prove that?” Experimant asked.
+
+She wasn’t even surprised anymore, just tired.
+
+“Yesterday!” Brilliant declared. “Finally, we come to the important bit. What this array seeks to do is extract all of that XP, or at least, a lot more of that XP, from a monster. By placing a monster within the matrix, they refine it, sift out those information slates, convert them to some other form, and then consume it.”
+
+She stated it all so matter of factly, yet the sheer… horrific nature of what was described did not pass by either of her two followers.
+
+“So you’re saying they… melt down a monster and extract XP from it?” It was so comically evil, Experimant almost didn’t want to believe it. “How would that even work?”
+
+“Slowly,” Brilliant said, suddenly looking, of all things, sad. She looked at her two closest followers, all her usual enthusiasm burned away. “Slowly… and painfully.”

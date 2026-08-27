@@ -1,0 +1,97 @@
+---
+id: b4380d4e-4131-510a-a8ad-692ce21f3c6a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1429 - Breath of the Beast"
+slug: 0077-chapter-1429-breath-of-the-beast
+partOf: chrysalis
+position: 77
+ownLength: 975
+unit: words
+ownProgress: 975
+publishedAt: 2024-10-11
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1844305/chapter-1429-breath-of-the-beast"
+royalRoadId: "1844305"
+markedReadAt: "2026-06-29T19:46:14.468Z"
+---
+
+Sometimes it’s nice to have so many brains. Also, it’s occasionally useful when those brains are capable of thinking in many directions at once. As the scary wave comes racing towards me, my newly empowered ability to think divergently kicks into gear. In no time at all, I spin together a force shield and start to sink down into the rock, even as it raises up before my head to protect me.
+
+Can I make myself blast-proof in a few seconds? Of course not, but I can absolutely make things a little bit more stable!
+
+Only the lower few feet of my carapace are embedded into the stone when the blast hits. As much as I want to see it happen, my eyes are my weakest point, so I absolutely ensure they’re buried in rock when it arrives.
+
+With an audible THWUMP that hits deep and rattles all the way through my carapace, the wave washes over me and blasts back my antennae.
+
+Wait… what the heck?
+
+[Crinis, did you feel any of that?]
+
+[I did, Master.]
+
+[What do you think it was?]
+
+[It felt like… air?]
+
+[That’s what I think as well.]
+
+Feeling confused, I drop my shield and pull myself out of the rock, taking a good look around as I do so. Nothing has been destroyed as far as I can tell, but a lot of things have certainly been disturbed. It really does look like a singular, powerful blast of wind just came through. It was so dense and concentrated it looked like a literal shockwave.
+
+Who or what is out there generating enormous blasts of air that go through hundreds of kilometres of enormous tunnels?! That makes no sense!
+
+[Crinis,] I say, not for the first time, [I hate this place.]
+
+[I can understand why, Master.]
+
+The rules down here just don’t seem to make any sense. What’s going on?! What’s the system? Vents are spitting out mana, from where? Why? How? Now this stupid air-blast rolling through the tunnel is making me ask those questions all over again!
+
+Is it only going to happen once? Does it happen regularly?
+
+If only we’d managed to capture a Krath and get them to talk. Well, we don’t actually need them to talk, we can read information straight out of their minds if we get enough time….
+
+Which is probably why they refuse to be captured.
+
+I’ve little else to do but sit on the spot and wait for news, since I’m responsible for guarding this tunnel and can’t exactly leave until a literal army comes to replace me. I don’t have to wait long for news; only five minutes pass before a scout rushes up to me from deeper in the safe-zone.
+
+“Hello, Eldest. Command wants to know if that wave came through this tunnel as well?”
+
+“Sure did. Wait, so it hit everywhere?”
+
+“Yes,” the little scout confirms as she marks something down on her little pheromone tablet. “From both directions as well. This side of the safe-zone was hit all over, and so was the other side. Whatever it was, it rippled through every tunnel.”
+
+That’s… crazy, what the heck is going on around here?
+
+[Master, I sense something.]
+
+Crinis emerges from my shadow. A dark mass of tentacles around a roughly spherical core, she slithers away from me before plunging some of her limbs into her own darkness. I can feel them emerge, out in the toxic mana almost a hundred metres away.
+
+[The mana is thinning out there.]
+
+[Oh, snap? Really?]
+
+I can’t tell yet, but Crinis has a much finer mana-sense than I do, since she literally uses it to see.
+
+“Crinis says the mana level out there is starting to drop as well. You might want to report that to the headquarters.”
+
+“Really? That’s great news.”
+
+Putting it mildly. If the vents are actually stopping, that’s amazing news. Of course, I’d love to know why! Swear to goodness, I’m going to get Crinis to attack the next Krath I see and pluck a few secrets out of them. They have to know what’s going on around here if they’ve lived here for this long.
+
+“And can you ask them to send a battalion down here to replace me? If the mana level is shrinking, then I’ll be back out there soon enough.”
+
+“I’ll let them know. Good luck out there, Eldest.”
+
+The little scout gives me a quick salute before scurrying away, and I settle back in to watch the tunnel for a bit longer. I’m half expecting there to be a surge in monsters after the air-blast, but it doesn’t eventuate, and they continue to trickle in at a steady pace.
+
+Which gives me plenty of time to consider the slime and sludge-filled tunnel in front of me. After ruminating for a while, I begin to wonder if I’m just overthinking this whole mess.
+
+The more time I spend down here, the more the fifth feels like a living, breathing creature. So, I start to consider the possibility. What if it is?
+
+Maybe this whole tunnel complex is, in some way, alive? That would explain some things, maybe.
+
+I suppose the only way we’re going to find proof is if we get deep enough. Right now we’re barely scratching the surface, and we won’t be able to explore the depths for some time.
+
+After all, the major crux of the current plan is to construct an impregnable fortress that we can hole up in through the next wave, a secure launching point for the next phase of the invasion. In Solant’s mind, and I completely agree with her, there is no hope for the Colony down here without a completely impregnable safe-haven.
+
+Once it’s built, though, and once the next wave is over…
+
+Look out, beastie, I’ll be coming down there to get ya.

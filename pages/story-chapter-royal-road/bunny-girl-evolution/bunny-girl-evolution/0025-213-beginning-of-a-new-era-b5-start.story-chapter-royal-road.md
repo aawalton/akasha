@@ -1,0 +1,226 @@
+---
+id: 5083e8ad-3ce6-517e-ae20-eaad43edec93
+page-type-slug: story-chapter-royal-road
+title: "213 - Beginning of a New Era (B5 start)"
+partOf: bunny-girl-evolution
+position: 25
+ownLength: 3111
+unit: words
+publishedAt: 2026-08-08
+link: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution/chapter/3785767/213-beginning-of-a-new-era-b5-start"
+royalRoadId: "3785767"
+---
+
+Elise had drastically underestimated the danger of the abandoned city. When she first saw the eldritch hound, she expected it to be around 7th Tier, or maybe high 6th if it had an extremely rare Species. Whatever the case, a single monster such as that was well within her ability to handle.
+
+Knowing this, she had decided to test a little. There were no others around, and she could end the fight any time with {Power Word Kill}, so she might as well figure out the monsters’ full capabilities. While perhaps a wise plan, she severely underestimated it, and it had nearly gotten her killed.
+
+While it was sniffing, she wrapped its legs with roots and fired a {Mana Burst} at its face. The {Mana Burst} had done almost nothing, and it was able to tear itself free from the roots with nothing but the strength of its body. Immediately, it let out a screech so loud and grating she had to cover her ears, which was followed by echoing screeches in the distance.
+
+Knowing she no longer had the time to waste, she activated {Power Word Kill}, and while the Skill worked, it took significantly more aether than she thought it should have. The cost of the Skill was even more confusing when she got the System notification telling her what level the creature was.
+
+[ You have slain Abyssal Hound, Tier V, lvl 29 ]
+
+It was almost at the peak of 5th tier, but it was still only 5th tier, the same as her. First of all, she should have been able to see its level when she had used {Inspect} earlier, and second, it was way too powerful for its level. Something was very wrong with this place.
+
+She ran from the rest of the pack that soon arrived, and while she was never spotted due to {Don’t Look At Me, Peasants!}, the Skill only prevented her from being observed. It did nothing to cover her tracks. Once she realized she couldn’t run, she tried flying up to some of the hanging buildings, only to find that they were inhabited as well. The first one she entered had something reptilian inside. She didn’t bother sticking around to get a good look. Just that brief moment had {Don’t Look At Me, Peasants!} working in overdrive, burning through aether faster than she could produce it, and she didn’t want to find out how powerful a creature that could cause that was.
+
+Flying let her scent trail die out, at least, so she was able to take a short rest, but somehow, the hounds tracked her down not long after she stopped moving, and she was forced to move again. For hours and hours on end, she flew around the city, trying to get away from the hounds. Every time she thought she had shaken them off, they somehow found her once more.
+
+The only way she was able to get away was by fleeing deep into the center of the city, where at some point, she must have crossed into something else’s territory, because the hounds all stopped in the middle of the street, staring longingly down the street where she had disappeared. Anything that could frighten the hounds like that was just as much a danger to Elise, but at least for the time being, it wasn’t aware of her presence, so she was able to take a breather.
+
+Or so she thought.
+
+Just as she was starting to finally relax, she heard a deep, resonating booming sound coming from the center of the city. At that point, she decided she didn’t want to stick around and see what it was, so she promptly summoned the teleportation scroll that would take her to Charlotte’s house and tore it open.
+
+And that was how she had ended up sleeping on the surprisingly comfortable moss couch in Charlotte’s living room.
+
+When she woke up, Charlotte skittered off to make them another pot of tea, and while she waited for her spider friend to get back, Elise thought about what had happened in the abandoned city.
+
+Something is wrong with that place.
+
+Elise had spent the entire last half a year in and out of one of the largest and most powerful known spawn zones in the world, and yet it paled in comparison to the city. She had never even heard of such a place, nor had any clue how it could come into existence, and she had less of an idea why all the monsters were so powerful. It didn’t make any sense.
+
+The Abyssal Hounds’ bodies alone should have put them well into 6th Tier. Even if they had Mythical Species or something, it should have been a purely physical one. But instead, they not only had powerful bodies, but they had more mana and aether than most of the 7th Tier monsters she had seen at Ostra.
+
+“Elise!” said Charlotte, arriving with another tray. “Tea!”
+
+“Thank you, Charlotte,” said Elise, gratefully accepting a cup.
+
+The tea was the best Elise had ever had, though that wasn’t saying much, since she wasn’t really a tea person. She knew that the tea leaves had been created by Quel’Tyral with some creative nature magic, but she had no idea how. It wouldn’t be a bad idea to learn how to do that…
+
+She summoned the crystal given to her by Aya’Rhun, the Mage, turning it over and over in her hand as she sipped on her cup. She needed to get stronger, there was no doubt about that, and the way she needed to do it would have to involve forgoing the System. Being dependent on it not only limited her, but would ultimately make her weaker if she couldn’t break away from its bindings. She was currently almost entirely dependent on it, but with Aya’Rhun’s crystal, she could change that. She just needed time, and practice.
+
+“Elise,” said Charlotte.
+
+Elise looked up at Charlotte, who was doing her best to look proper as she sat on her custom chair. Her eight legs were folded up beside her in a way that almost looked dainty, and she held the wooden cup very delicately in her hands. Unfortunately, the effect was completely and utterly ruined by the plate of meat beneath her that her lower maw was currently feasting on.
+
+“Are you leaving soon?” asked Charlotte.
+
+Elise paused to think for a moment, then nodded.
+
+“Yes. I have to go back.”
+
+“But it’s dangerous.”
+
+“That’s why I have to go back.”
+
+Whatever was going on with that city, the teleportation scroll had taken her there, which meant it was the best place for her to grow stronger. She couldn’t say she disagreed, either. If just the 5th Tiers were already that powerful, she could only imagine what the rest of the cavern’s inhabitants were like. And if she honed her skills there to the point that she could traverse the city without being in danger…
+
+“I want to come,” said Charlotte.
+
+“No.”
+
+“Yes.”
+
+“No.”
+
+“Yes. Please?”
+
+“Still no.”
+
+“I’m strong!”
+
+“Not strong enough.”
+
+Charlotte pouted and took an angry sip of tea.
+
+“Have you been doing your soul exercises?” asked Elise, changing the subject to keep Charlotte from continuing the debate.
+
+“Yes.”
+
+“How are they going?”
+
+“Fine.”
+
+“Have you visited inside your soul yet?”
+
+“Yes.”
+
+“What was it like?”
+
+“I want to come.”
+
+Elise sighed.
+
+“Charlotte, I promise that–”
+
+“I protect you!” Charlotte declared.
+
+“You can’t.”
+
+“I can!”
+
+“Charlotte, I promise that I will come get you as soon as I can, but right now, it is too dangerous. The monsters there are strong. You might be able to kill a few of them, but there are a lot of them, and there’s no safe place to hide and rest. And you can’t hide as well as me.”
+
+“I can.”
+
+“Oh really?” said Elise, raising an eyebrow.
+
+She activated {Don’t Look At Me, Peasants!}, and Charlotte flinched, then started looking around the room. She stood up from her chair, and checked behind the couch Elise was an, then went all the way to the kitchen before Elise deactivated the Skill and called her back.
+
+“I’m here, Charlotte.”
+
+“How did you do that?” asked the arachne.
+
+“I told you, I’m good at hiding.”
+
+“Where did you hide?”
+
+“Right here. I was here the whole time. You just couldn’t see me.”
+
+Charlotte narrowed her eyes in suspicion.
+
+“Alright, how about this, then,” said Elise. “When you can figure out how I did that, you can come with me.”
+
+“Okay. Do it again.”
+
+Elise obliged, and once again, Charlotte lost track of her. She walked right up to Elise, towering over her above the couch and looking right over her shoulder. She even reached out, touching Elise’s leg by the couch’s armrest before pulling back, still unsure. Charlotte them seemed to decide that Elise must have moved, and turned around and started checking the other couch, at which point Elise once again deactivated the Skill.
+
+“Still here,” she said. “That time, you touched me and still didn’t notice I was here.”
+
+Charlotte furrowed her brow.
+
+“As I said, you’re not good enough at hiding. If you can’t do something like that yourself, you won’t be able to survive in the place I was just in. By the way, that’s a nice shirt you’re wearing. Did you make it yourself?”
+
+Charlotte did not look entirely convinced by Elise’s reasoning about the stealth, but she soon became too distracted talking about shirts to think about it anymore.
+
+Noted. Shirts are a better distraction than soul meditation.
+
+An hour passed quickly, as once Charlotte had been successfully distracted, it was easy to keep her distracted. From shirts, they moved on to actually talking about soul meditation. The way Charlotte described her soul was quite similar to how Elise remembered hers when she first started. Mostly empty with a lair cave floating in the void. Charlotte was making steady progress, though, having learned that making webs in her soul was quite easy, so she was now building a big web house there, as well as weaving herself some clothing.
+
+From souls, they moved on to talking about Charlotte’s new life aboveground. This topic lasted quite a while as Charlotte babbled on and on about all the new things she had seen since leaving the cave. She was proud that she had now gotten mostly used to the sun and its cycle, though she was still unsure about rain. She had only seen it once, and felt like it was wrong. Water wasn’t supposed to come from the sky like that.
+
+She was enjoying living in a forest, though, and all the new kinds of animals. Listening to her talk excitedly about how tasty the brains of the local deer monsters were was not the most comfortable experience, but Elise was glad that Charlotte seemed to be living well. Quel’Tyral and Irylax had picked this place for her because it was secluded spot right in the middle of three major spawn zones in the relatively uninhabited regions to the far southwest of the continent. They were unsure how Charlotte would take to it, since she had spent her entire life underground, but she seemed to be adjusting just fine.
+
+According to Charlotte, Tyral had told her it was because she was a fey, and fey were really good at dealing with forests. Whether that was actually true, or just something Tyral said to placebo Charlotte into adapting better, Elise couldn’t tell, but it was at least anecdotally true.
+
+While Charlotte talked, though, she found her mind slowly drifting back to her own situation. As much as she would have loved to just stay with Charlotte for a while and master at least the basics of controlling her soul, that wouldn’t be possible. The temporary marker placed by the teleportation scroll she had used would only last a few days. If she stuck around beyond that time, she would not be able to return to the underground city.
+
+On top of that, after this one, she only had five more scrolls left. After that, she would no longer be able to return to Charlotte’s house, so either she needed to decide to stay her permanently, or bring Charlotte with her by that time.
+
+It left her in a bit of a dangerous situation, but according to Samantha, the trap scrolls never brought their users to a place they couldn’t handle, so theoretically, she would be able to find a way to survive in the cave. It might not be easy, but it was very much possible.
+
+Her first objective would have to be finding a place to operate out of. Some building or offshoot cave that was either uninhabited, or only inhabited by weaker monsters that she could easily handle so that she could set up a base. A place where she could sleep, meditate, train, and do whatever else she needed in between hunting and exploration sessions.
+
+If she was able to set up one of those, and carve out a little territory for herself, then taking Charlotte down with her would no longer be out of the question. She was still very nervous about it, but Charlotte wasn’t exactly defenseless. A pack of Abyssal Hounds would be beyond her, but a single one, or something around its level, was well within her ability to handle. As long as they had a safe place to retreat to, Charlotte would probably be alright.
+
+Elise made a few more mental preparations, then devoted her attention back to Charlotte to continue the conversation. An hour or so later, Elise’s stomach began to rumble, and Charlotte left to fetch some meat. Unfortunately, Charlotte did not seem to have any qualms about eating raw meat, and did not know how to cook, or even how to clean and butcher her kills properly. She just handed Elise a raw deer leg while chomping down on another for herself.
+
+Elise thanked her, then promptly stood up and walked into the kitchen to find a way to cook it. Thankfully, Tyral had left a full set of kitchenware in the cabinets, where it was gathering dust. Elise brushed it off, set the leg on the counter and went to work.
+
+Technically, she didn’t actually need to do this. {Transformation} was a strange Skill, and whatever she ate in one form filled her up, regardless of how large her real form was. She could have theoretically just turned into an insect, ate a little piece of the meat, and then turned back, and she would have been fine. Or failing that, she could have transformed into some kind of carnivore and just eaten the deer leg raw like Charlotte was.
+
+But, she didn’t really want to do that. She wanted some real food, as she suspected she wouldn’t be getting much of it in the near future. And it also doubled as a lesson for Charlotte about how humans ate.
+
+Elise was no cook, but she was able to make a passable meal out of a sizable chunk of the deer meat, some salt from the cabinet, and some vegetables from the garden Tyral had planted in the back yard. Charlotte watched every step of the process, fascinated by every move Elise made, and constantly asking questions. Elise wished she knew more about cooking so she could have explained things better, since half the things she did, she only did because she had seen others doing it, and it seemed to work.
+
+The two spent the rest of the day together, with Elise answering hundreds of questions, and giving a few brief lessons on how to behave properly when Charlotte did something particularly feral. Elise stayed a day after that as well, this time taking the day to go hunting and fill up Astrid’s Star with some food reserves. She also showed Charlotte how to butcher a deer. Elise wasn’t exactly an expert on this, but she had picked up a few things here and there, and at least knew how to do it better than Charlotte’s method of wrapping it in web, and tearing off pieces when hungry.
+
+That night, Elise used dreamwalking to contact Sophie, only to find that their time zones were quite far off. It was the middle of the night for her, but it was morning for Sophie, and she was sitting on the couch in the living room with Nick and Bianca while a group of investigators swept the house. Elise managed to tell Sophie that she was alright, but one of the investigators started giving Sophie a funny look as Elise spoke, so she cut the connection as soon as she could.
+
+The rest of the night passed peacefully before it was finally time for Elise to head back underground. Charlotte grew a bit defiant again at that point, trying to convince Elise to take her along again, but Elise remained firm. Charlotte could not come. Not yet, at least.
+
+“I’ll be back in a week, though,” said Elise. “So it won’t be long.”
+
+“A week…”
+
+“Seven days,” Elise clarified. “So just keep practicing your soul techniques as much as you can, and see if you can figure out how to be stealthy. If you can be stealthy, I can take you down sooner.”
+
+Charlotte nodded.
+
+“I will be the stealthiest.”
+
+“I’m sure you will.”
+
+“And I will make you a shirt.”
+
+“You will?”
+
+“Yes. Shirts for friends.”
+
+“Well… Thank you. I would love to have a shirt made by you.”
+
+Charlotte beamed, then pulled Elise into a nearly rib-crushing hug.
+
+“Char– lotte–” Elise wheezed.
+
+“I will miss you,” said Charlotte.
+
+“Me. Too. Now. Please. Put. Me. Down.”
+
+Charlotte held on a little longer, then finally released Elise, who took a few unsteady steps back before righting herself.
+
+“When I come back, we’re going to have a lesson about appropriate force for hugs,” Elise said. “If I was any weaker, you could have killed me.”
+
+“R– really?”
+
+“Really. You need to be careful with your strength.”
+
+“Oh.”
+
+“But it’s okay. We can work on it next time. For now, goodbye, and good luck hunting.”
+
+Elise waved, and Charlotte waved back, and then Elise tore the scroll, trading the rising sun for the darkness of the abandoned city. Shortly after she appeared, the ground hummed as another booming sound came from the center of the city. Not wanting to find out what that was, Elise immediately flew away, out of the territory of whatever that thing was, and toward the edge of the cave.
+
+Now, where’s a good place to settle down…?

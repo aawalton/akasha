@@ -1,0 +1,91 @@
+---
+id: 1c6b1b4f-f60e-50c8-9b5c-7ebf1c86f9ae
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1660 - It Spread Like a Virus pt 7"
+slug: 0309-chapter-1660-it-spread-like-a-virus-pt-7
+partOf: chrysalis
+position: 309
+ownLength: 1202
+unit: words
+ownProgress: 1202
+publishedAt: 2025-10-07
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2657173/chapter-1660-it-spread-like-a-virus-pt-7"
+royalRoadId: "2657173"
+markedReadAt: "2026-06-29T19:53:41.752Z"
+---
+
+The Cult of the Hound live in fear of the being that they worship. Torra the Dread Dog is surrounded by such a blanketing aura of terror that there are only a handful of records of anyone even laying eyes on the Ancient.
+
+At least, laying eyes on them and then being able to speak of the event afterwards.
+
+Not the largest of the Ancients, nor the fastest, nevertheless the Cult does speak of the immense physical power the Ancient possesses. Fangs the size of trees, paws that drip with liquified screams, and a coat formed of wailing spirits. Torra is often described by the cultists as one of the deepest sleepers, among the last to wake. There have been several records of collective nightmares occurring across Pangera whenever the Dread Dog awakens, some sleepers drawn in to see something they would rather not.
+
+-           Excerpt from ‘Collective Wisdom of the Cults’ by Granin Lazus
+
+[What do you mean, ‘exclusive rights?!’]
+
+[I am certain you know what these terms mean, Satrap Umizan.]
+
+The monster, Diplomant, sat opposite of the Satrap and cleaned her antennae leisurely, unfussed by the wiles of the negotiators across the table.
+
+Umizan tried to gentle his tone.
+
+[Of course the Colony has the rights to monetise the game of Tunnel Ball; they invented it, after all. However, my proposal is to purchase those rights. I cannot imagine the Colony has any need for them, what would you even do with such a thing? By selling them to me, you will be able to unburden yourself of such a cumbersome property.]
+
+Eran, his wife, stomped on his foot and Umizan smiled through the pain. Perhaps he was moving too fast. But he had to. The brathians of his Conglomerate were amongst the first to be exposed to the Colony and therefore among the first to be exposed to the game. If it spread far, then there would be dozens of people banging on the Colony’s door, desperate to procure rights.
+
+They could run leagues, sponsor teams, fill stadiums, sell tickets! The duelling arenas in the Silver City printed rivers of gold every year, and nobody could get a slice of the pie. If he were able to secure the rights to the game itself, then the Brathian Island Conglomerate would be able to sell licences all around the fourth stratum and collect money without even having to do anything!
+
+[They aren’t for sale,] Diplomant said promptly. [You can, if you wish, purchase a local licence to run an official league here amongst your own people. As part of the agreement, you will gain access to umpire training from the official Colony academy, guidelines and marketing materials, along with access to the Colony-run inter-league competitions and World Cup.]
+
+She idly clacked her mandibles.
+
+[Of course, we have already registered our trademarks at the office of every major nation and empire in the fourth stratum and above. It’s only prudent.]
+
+Umizan felt as if he were about to start vomiting blood.
+
+The ants had already registered it everywhere and drawn up plans to exploit their intellectual property via licensing agreements?! That’s what he wanted to do! This was going to be huge. He could smell it.
+
+Eran picked up on his desperation and smoothly stepped in to cover for him, bringing her overwhelming powers of persuasion to bear.
+
+[Of course, we would never dream of impinging upon the rights of the Colony. You are our valued trading partners, after all.]
+
+That was a reminder to Umizan, and he blinked to show he had understood the message. Don’t forget how profitable a partner the Colony is already. Ruining their goodwill for another deal would be like stabbing one side of his face to heal the other.
+
+[Perhaps there is another way the Brathian Island Conglomerate can be of use in spreading your wonderful game,] she continued, pouring on the pressure. [We have proven to be wonderful partners and intermediaries, have we not? With us to negotiate on your behalf, you will be able to secure much better terms, and if we act as your liaisons, we will ensure that your trademark is enforced. So long as we are properly motivated, of course.]
+
+An interesting ploy. Umizan tapped the table with his middle finger to show he approved of her decision. Even if they couldn’t get the rights, if they were able to insert themselves as middlemen, then they could hugely profit nonetheless.
+
+[That won’t be necessary,] Diplomant replied. [We have a set fee structure, so there is no need to negotiate, which makes the need for intermediaries rather small.]
+
+A set fee structure? In all the depths of the azure lakes, why? They should be ripping people off left and right! They could charge a fortune! In fact, maybe they were…
+
+[Can we see the fees?] Eran asked, in lockstep with his own thinking.
+
+[Of course.]
+
+Another ant scuttled forward, the water-proof document held in their mandibles, which they placed on the table. Using a foreleg, Diplomant pushed it towards them.
+
+[Here are the fees. I’m sure you’ll agree they are more than reasonable.]
+
+Umizan restrained himself from snatching up the paper as he inspected it. After a second, he slapped the page back down. Reasonable? They were pitifully cheap. In fact, the Colony was even promising to invest resources and labour in helping defray the costs of establishing a league! They’d be taking a loss!
+
+So… so pitiful. It almost enraged him. They had the opportunity to roll in money! Why were they throwing it away?!
+
+[Those fees relate to establishing your league. The licence has a two-year duration, during which the Colony will support you in the ways detailed in the fee structure,] Diplomant said.
+
+Umizan raised a brow and Eran caught his intention immediately.
+
+[Two year duration?] she said. [And what happens after that?]
+
+The same ant returned with another sheet of paper that Diplomant slid over the table.
+
+[Since you are a trusted partner of the Colony, I suppose I can let you see this. These are the proposed fees for the second two-year licence agreement.]
+
+The Satrap glanced at the numbers, then threw back his head and laughed out loud. The fees would more than triple, and if he didn’t miss his guess, the third licence agreement would be even worse. The ants were all too happy to give the game away for nothing, at first. They would let the brathian Conglomerates establish their own leagues, and everyone else, even lose a staggering amount of money building stadiums and training grounds and taking on logistical burdens.
+
+In exchange, the game would spread like wildfire. Attracted by the cheap startup costs, people would race to monetise Tunnel Ball, along the guidelines the Colony had set. In two years, when it was popular and booming, the ants would return with a new agreement, very different from the first. What choice would anyone have? They had to sign it.
+
+Then the ants themselves would have exclusive rights to interleague competition, and this… world cup? The best teams from around Pangera competing in a single tournament? It would be… massive. It would be… lucrative.
+
+[You ants catch on quickly,] he chuckled.

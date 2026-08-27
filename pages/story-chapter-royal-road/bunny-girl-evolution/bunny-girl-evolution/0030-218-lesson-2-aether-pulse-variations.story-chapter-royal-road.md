@@ -1,0 +1,171 @@
+---
+id: 151c37f7-dbea-50f3-8057-8a98e55cc5db
+page-type-slug: story-chapter-royal-road
+title: "218 - Lesson 2: Aether Pulse Variations"
+slug: 0030-218-lesson-2-aether-pulse-variations
+partOf: bunny-girl-evolution
+position: 30
+ownLength: 3154
+unit: words
+publishedAt: 2026-08-25
+link: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution/chapter/3862084/218-lesson-2-aether-pulse-variations"
+royalRoadId: "3862084"
+---
+
+The whole way to the boiling river and back, Elise messed around with her new soul awareness, trying to figure out how she had acquired it and how it worked. The former, she had no clue. It happened, and it felt natural, and when she got back and tried to flip things around, controlling her body from her soul, it just felt wrong, and she couldn’t believe she had been doing this method for almost a month.
+
+As for how it worked, that was much simpler. It worked more or less exactly how she wanted to. She could control her soul form and the goings on of her soul while also moving around in the real world, letting her kind of multitask. It wasn’t true multitasking, in the sense that her soul form and body could act independently. It was more like how she could fold laundry while also holding a conversation, or listening to an audiobook. As long as the two things she was doing didn’t interfere, she could do them just fine.
+
+For example, she could do the soul equivalent of folding laundry, which was making laundry, conjuring a new nightgown out of soul essence, while also taking her {Mana Barrier} full of water and dumping it in the water basin on the bottom floor of the house. The water basin actually had a faucet above it, but it didn’t work, so she had to refill it manually from the boiling river. That had been nerve-wracking the first time, because she wasn’t sure if the river was toxic or something, but whatever was boiling the water, it wasn’t bad for changelings, and she could drink it just fine.
+
+Once she had drunk her fill, she returned to the raised stone platform in front of the trapped rat. The rat was asleep, having apparently gotten tired of struggling, and she had no intention of waking it up. Not yet, at least. She would probably do it incidentally anyways once she started practicing aether pulses again.
+
+For now, she just experimented, trying to get a feel for doing things the right way instead of the wrong way. It already felt better than it had before, but the more she messed around with it, the more she felt silly for ever using the first method in the first place. She knew she didn’t have much of a choice at the time, but this way felt so much more natural that she wondered how she even managed to start doing it the other way.
+
+I guess it’s just a product of learning things in the wrong order, I guess.
+
+She wondered if Irylax had any deeper purpose behind teaching her to do things the way she had, or if it was simply that she didn’t know either. The latter was more likely, given that Irylax was born under the System too, but she wasn’t entirely sure.
+
+Among the things she could now do much more easily, the most convenient of them was definitely connecting and disconnecting from the System while retaining her full awareness. Her old method had kind of worked, but even when she was using it, it was obviously inferior. Even if she could control and feel her body, it just wasn’t quite the same as actually having her mind in her body, and if she had ever gotten into a true life or death situation while doing that, it would have been bad.
+
+The second most convenient—and possibly the most important—was that she could set up her soul defenses without sitting down and meditating. She could casually walk around while also thickening the protective shell around her soul. She was pretty sure that she could weather the soul storm while moving if she really wanted to now.
+
+Third and finally, she could use aether pulses. She hadn’t actually meant to start practicing so soon, but while idly messing around and controlling her soul, she accidentally did one to the rat. Literally accidentally. It was so easy she barely had to think about it. She just found the connection, and sent a pulse. It definitely helped that she had already been practicing for multiple weeks now, and it wasn’t even that difficult to begin with, but now it was positively trivial. It was as easy as speaking.
+
+She did it a few more times, waking the rat up in the process, then kept doing it, testing it out as she moved around the room. She could run, she could jump, she could fly, she could attempt to do human dances in her changeling rabbit form, but no matter what, it never made the aether pulse any more difficult.
+
+Excited, she flew back to the rat, and sat down and started practicing the tougher variations. The simpler pulses involved things like sending repeated quick pulses, inordinately large ones, unnoticeably small ones, and other things like that, and she breezed through all of them in half an hour. The more complicated ones involved “spinning” the aether before she sent it. Except “spinning” wasn’t quite the right term, since aether wasn’t actually physical and couldn’t spin, so she was doing the aetheric equivalent of spinning it, which was difficult to wrap her head around.
+
+She managed to get it after two hours, but by the time she did, her enthusiasm had largely dampened. One step—possibly the biggest step—had been completed at last, but she still had many more to go before she could even cast her first System-free spell, let alone do anything actually useful.
+
+Well, back to the grindstone, I guess…
+
+Another week passed without much fanfare. She practiced aether pulses, she spruced up her new home with plants, and she checked in with Sophie and Charlotte as regularly as she could. Sophie was still under surveillance, and Elise was beginning to think something strange was going on. The surveillance seemed too extreme for a family that, officially, got tricked by a changeling.
+
+Charlotte was doing well, at least, and was always very excited whenever Elise dreamwalked to her. Elise really didn’t need to hear the gruesome details of every single one of her hunts, but she was glad Charlotte was happy, and she seemed to be making good progress on her soul work. As good as it could be, at least, with such a short attention span.
+
+Beyond that, Elise also messed around with using aether pulses for other things. Specifically, for replicating the System’s Skills. The first one she managed was {Charm}.
+
+{Charm} was actually an incredibly simple Skill. So simple, in fact, that when she first started trying, she realized she had already done it. One of the aether pulse exercises was about creating a sustained pulse, which more or less just strengthened the connection between her and her target. Elise had completed it and moved on without much thought, only realizing what it was when she later used {Charm} while focusing on her aether.
+
+She had thought that {Suggest} would be the next easiest, but that only ended up being half true. She was correct in thinking that {Suggest} was as easy as just doing an aether pulse with more specific thoughts involved, but she hadn’t realized how difficult it was to get the kind of precision that {Suggest} allowed for. She could send simple emotions, their effects evident as the rat or crawler or whatever she had captured that day grew angry or calm when she targeted it. She couldn’t send more complex thoughts, though, making this analog {Suggest} much closer to {Forced Feeling} than anything else.
+
+{Whisper} was even more difficult, to the point that she wondered if she would ever figure it out. The aetheric signals that it sent when she used it felt impossibly complex, at least compared to what she was doing now. It would be a long time before she was able to speak telepathically with anyone without the System’s help.
+
+Interestingly enough, as she broke up the monotony of aether pulse practice with Skill replication, she noticed some very interesting differences between what Aya’Rhun wanted her to do, and what her copycat Skills did. Aya’Rhun’s approach was very scientific, and completely detached from emotion. Elise was manually controlling the aether to do precisely what she wanted. Replicating {Suggest} or {Forced Feeling}, on the other hand, were purely emotional, and the only direct control that Elise had was how much aether she fed the attempt.
+
+It was not a distinction that Aya’Rhun’s crystal denoted, but Elise felt that it was important. That was the difference between magic and other aether Skills. Maybe. It was hard to tell, because she knew that things like healing and even her wings were also somehow aether-based, and those didn’t seem emotion-based, but then again, maybe they were actually secretly magical this whole time, and she just never knew.
+
+Regardless, she was progressing well. It was not easy, and was often quite boring, but it was slowly happening. She was getting better with aether, and she was getting better at defending herself from the soul pulses that came twice a day. She could even move around a little during them now. And she had skipped ahead a bit in Aya’Rhun’s crystal, and knew that the end was in sight. She would finally be working with actual mana soon. Just another week or two of aether pulses, and she would finally be able to start.
+
+She stretched out on the stone table, letting her back loosen up after hours of sitting, then used {Power Word Kill} on the captive rat in front of her. She had been doing this ever since she stayed out during one of the soul storms and saw one of her previous test subjects squealing in pain for a few seconds before finally dying. {Power Word Kill} was more humane, if only by a little.
+
+The next soul storm came and went, and Elise took it without suffering any damage whatsoever. She knew she needed to build up proper soul defenses eventually, but her soul shell was coming along very nicely, and that served just fine for now.
+
+She settled into bed on top of a pile of moss she had grown on an ancient stone bed frame on the top floor of the house, then did her customary weekly dreamwalking session before bed. She visited Charlotte, listening as Charlotte animatedly told her about how she had cut a deer in half with her acid earlier that day, and even showed her the back half of the corpse (she had already eaten much of the front). She also gave a brief update on her soul meditation progress, which wasn’t much, but was more than nothing. Elise gave her a few pokes with {Suggest} to help her practice with her soul shell, and while Charlotte’s was not very good, it existed. It would take a few months, but she would eventually be ready to join Elise in the caverns.
+
+After more than half an hour, Elise finally said goodbye, returning to her own body for a minute or so before sending her soul out to check in on Sophie. It was evening in Jelor, and Sophie was in bed reading, as she usually was at this time. Unlike usual, though, Elise didn’t sense anyone on the nearby roofs, keeping an eye on the house. She waited a full minute, expanding her senses as far as they would go in her dreamwalking state, but still, nothing.
+
+Finally!
+
+“Sophie!” she called out with {Whisper}.
+
+Sophie convulsed violently on the bed, accidentally slamming the book on her thumbs and looking around frantically. Her glowing yellow eyes found Elise standing near the bed almost immediately, and she broke out into a wide smile.
+
+“Snowberry!”
+
+She looked like she really wanted to give Elise a hug, and Elise wanted to hug her back, but sadly, dreamwalking could only go so far.
+
+“The surveillance is gone!” said Elise, syncing her mouth to the Skill. “I thought they would never leave.”
+
+“I know!” Sophie exclaimed.
+
+“Do you know why they stuck around so long? Did something happen? I thought Emmett would have had them leave by now.”
+
+Sophie’s face fell. “Did– did you not hear?”
+
+“Hear what?”
+
+“Emmett… is dead.”
+
+Elise’s heart dropped.
+
+“Dead?”
+
+“Yeah,” said Sophie sadly. “We went to his funeral a couple weeks ago. They wouldn’t let us see the body, so I thought he might have faked his death, but then I asked Theresa…”
+
+“Oh.”
+
+“Yeah…”
+
+Sophie stayed quiet for a few minutes, which Elise was grateful for. She needed the time to process what had happened. She knew that the battle against Firona would be dangerous. Emmett had shared his plan, and just based on how thoroughly he prepared and how many contingencies he had, she knew that Firona was beyond strong. But somehow, she had never really considered the possibility that Emmett would actually die. She thought that even if Firona somehow escaped, Emmett would be alright.
+
+She hadn’t known Emmett very well. She wasn’t even sure if she knew him at all, given how easily he could change his appearance. For all she knew, he had never been real in the first place. Just an illusion by some other hidden figure.
+
+But he was one of her teachers, and she had spent a lot of time with him, and in the end, he had died so she could escape. Logically, she knew that he had actually died trying to take out the ringleader of Ostra, but given that she was one of the last to see him alive, she felt almost as if she was somehow responsible for it.
+
+“Did they at least get Firona?” she asked.
+
+“No,” said Sophie, shaking her head. “The demon is still at large.”
+
+“Dammit!”
+
+So not only had he died, but he hadn’t even accomplished his goal. That meant that the only thing he succeeded at was saving Elise. It felt like a whole new burden had been placed on her shoulders.
+
+“But that’s not actually why they were still watching us,” said Sophie in an obvious attempt to change the subject. “You know the System update that happened a couple weeks ago.”
+
+Elise blinked. She had noticed the update, but it had barely registered. She already had all the new features, and while there were a few nice bug fixes—and new custom colors for the System interface—she wasn’t really interacting much with the System these dyas.
+
+“Yeah,” she said. “What about it?”
+
+“So the new Skill Recipe system actually makes it really easy to get the {Inspect} Skill, and one of the people investigating us got it, and he used it on me, and… Yeah.”
+
+“Oh. Yeah, that makes sense.”
+
+“And they were especially interested because apparently, Irylax helped found Ostra in the first place, so they asked me a bunch of questions about what I knew, and about where she was. I… probably shouldn’t have told them that she ascended. They were actually kinda scared until I said that, but as soon as they knew she wouldn’t be coming to kill them, they basically didn’t let me breathe. It took them all this time just to convince them that I actually don’t know anything.”
+
+“Yeah, I can imagine,” said Elise. “How’s everyone else doing? Also, wait, hasn’t the new semester started? Is there a new semester? Or did the Skill Recipes kinda ruin everything. Half the classes were just about getting new Skills, right?”
+
+“Half of them, yeah,” said Sophie. “But the rest are still going, and most of the Skill classes are still pretty useful. It’s just the super advanced ones that are pointless now. All the basic ones are super good, though, because now you can just learn a bunch of weak Skills and use them to craft stronger ones.”
+
+“I guess that makes sense. What classes are you taking, then?”
+
+Sophie’s expression fell again. “They put me in a bunch of special ones and barely let me pick.”
+
+“What? Why?”
+
+“Well, the real reason that the spy people stopped bothering us is that the king apparently heard about me and told them to knock it off. He actually came to visit us.”
+
+“He came personally?!”
+
+“Yeah, just a couple days ago. He brought some gifts and apologized for everything. He said a bunch of stuff about Jelor being proud to have someone like me, and that they would take every measure to ensure my future was bright and blah blah blah, and the next thing I knew, my class schedule was all messed up.”
+
+“What? And you can’t change it?”
+
+“Well…” Sophie fidgeted with her fingers. “Okay, it’s not actually that bad. I was just whining. Nick insisted that I needed friends my age, so I still go to the Academy in the mornings. It’s just the boring classes, but I still get to go there. And then all the rest of my classes are private tutoring sessions with field experts.”
+
+“Oh. Okay, so they’re really investing in you.”
+
+It made sense. Even if Sophie herself wasn’t remarkable, the Dragon’s Goddaughter Class was just about the most powerful Class in the world, as far as Elise was aware. Just the access to {Dragon Eyes}, {Dragon Heart}, and {Mana Manipulation} made it the best Class for mages by a long shot, so even if Sophie wasn’t particularly talented, as long as she leveled up, she would eventually be a true force of nature. The king himself personally visiting to apologize might have been a little far, but if he was smart, he’d want Sophie fully bought-in to Jelor.
+
+“Yeah,” said Sophie. “So I guess it’s not bad. They’re even letting me take more aether lessons too. It’s just not as fun as last semester…”
+
+“Yeah… Speaking of last semester, though, how’s everyone else? Other than the ones that aren’t there anymore.”
+
+“Wait, do you know about them?” asked Sophie, perking up. “Jessie, Samantha, and Helene all went missing. No one I know has been able to find them. I mean, Helene is probably just in hiding, but the Church of Light is freaking out about Jessie being gone.”
+
+“I don’t think I’m allowed to talk about that,” said Elise. “But she’s doing fine. I think. I haven’t heard from her lately, but she left voluntarily. And Samantha… She’s also fine…”
+
+“You don’t sound very sure.”
+
+“That’s because I’m not, but she also left voluntarily, and if she’s in danger, it’s on purpose.”
+
+“Okay,” said Sophie, giving a sigh of relief. “Oh yeah, Attalaya is gone too. Do you know–?”
+
+“She’s fine too. What about everyone else?”
+
+“Okay good. Well, everyone else is—” Sophie’s eyes widened, and she broke out into a mischievous grin. “Oh, I see what you’re doing. You’re just trying to get me to tell you about Cassian.”
+
+“No, that’s not–”
+
+“Well, don’t worry, ‘cause I’ll tell you. I’ll tell you everything. You’re never gonna believe this.”

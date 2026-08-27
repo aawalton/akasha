@@ -1,0 +1,77 @@
+---
+id: 5e01f3b0-0fac-56ff-96ea-7ab77932e6fe
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1453 - Frog (snake) in the Well"
+slug: 0101-chapter-1453-frog-snake-in-the-well
+partOf: chrysalis
+position: 101
+ownLength: 1104
+unit: words
+ownProgress: 1104
+publishedAt: 2024-11-14
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1902261/chapter-1453-frog-snake-in-the-well"
+royalRoadId: "1902261"
+markedReadAt: "2026-06-29T19:47:18.658Z"
+---
+
+You want to get into a spell-war with me, snake? Then prepare to be crushed! Literally!
+
+As well as figuratively!
+
+I keep snapping new shields into existence just as fast as they get eaten away, all the while building and weaving the dense mana necessary for the well. Naturally, the snake is just as capable of sensing mana as I am. Since it already detected my first bomb, it can tell that something big is coming its way. It too begins to weave, drawing out even more mana from within its massive body, but although it seems to have evolved along the path of a mage, the difference between us soon becomes apparent.
+
+You can’t whip together a spell as quickly as I can, you slippery serpent! Prepare to eat the force of an empowered gravity well!
+
+All the energy contained within the Altar rushes out in a great tide as the spell snaps into place. Able to manipulate the incredible force of the well with my will alone, I pour every ounce of power within it to crush the snake against the ground.
+
+Stone cracks, pillars crumple and the snake screeches in pain as it is smashed into the ground, its head pressed against the tunnel floor by the force.
+
+Gweheheheh! How do you like it, snake? You can’t steal this technique!
+
+Sensing its vulnerability and surprise, I choose to go aggressive and leap down towards the foe. It’s risky to get this close to a powerful enemy, but I have more cards up my carapace I can play if things go south.
+
+As I fall, I turn and unleash the full fury of my business conglomerate. The spray of potent acid covers the flattened snake and begins to eat away at it. I haven’t been using my acid much in the fifth because the creatures here practically swim in the stuff for fun. Most of them are covered in slime that protects them from it, or have flesh that is resistant.
+
+Despite all the investments I’ve poured into my acid producing capabilities, this is the worst possible stratum to use them in.
+
+As expected, the slime covering the snake begins to bubble and steam the moment my acid touches it, counteracting the burn before it even has a chance to start propagating itself.
+
+Damn this stratum! On top of everything else, they refuse to partake of the finest goods I can produce! It’s rude! Rude, I say!
+
+Pressed down by the power of the well, the snake continues to weave its mana as I plummet down to engage in close combat. Writhing and hissing in fury, it’s doing its best to try and move, but at best, it’s only able to slither a little bit. The time is right to apply the mandibles!
+
+My jaws flex as I draw closer to the beast, but I’m wary of whatever spell it’s cooking up, so I remain cautious even as I go in for the strike. The well is continuing to exert its power, causing the rock beneath the snake to shift and crack as it continues to be crushed.
+
+I land with tremendous force that my legs absorb, leaving me trembling for a moment as I regain my balance. This snake really is big. It must be a hundred metres long if it’s an inch, perhaps even more. Its body must be several metres thick at its thinnest to boot. This is a chonky boi, is what I’m saying. Despite its prowess with spells, there must be a formidable amount of muscle within that frame, there has to be.
+
+Right now, with the well in place, the creature is at my mercy, so I dash forward, jaws wide and ready.
+
+VOID CHOMP!
+
+I’d empower it if I could, but even with hundreds of thousands of ants within range, there isn’t enough energy flowing in to refill the Altar that quickly. Even so, the bite is a potent weapon in and of itself.
+
+My mandibles crunch home, the jaws of pure black energy slicing into the snake with ease. The slime coating is thick and sticky, so I’m lucky I didn’t bite into it with my physical mandibles, but then… I notice something strange.
+
+What’s going on with this snake? The response from the bite is… a little off.
+
+Sensing danger, I leap back and observe my opponent carefully, waiting to see just what the heck is going on.
+
+As I peer closely, the monster in front of me… looks like a snake. It might be covered in a layer of slime, but it has a clear pattern of scales, a snake-like head, long, curved fangs, and it even hisses! It’s hissing right now!
+
+So why oh why, when I chomped into it, does it look like I chomped straight into slug flesh?! There’s no scales! No meaty, fibrous muscles, just squishy slug flesh!
+
+Then something happens that sends me for a spin. The snake’s eyes burst outward, and for a moment, I think it might have succumbed to the pressure of the well, but then I see the stalks.
+
+The eyes extend atop their stalks, fighting against the well, trying not to be crushed into the ground, and the entire body of the snake begins to change. The scale pattern fades as its body puffs out, thickening slightly as it transforms from slick, serpentine grace to somewhat puffy slug body. Its body flattens down, pressed by the power of the well, but like this, it’s able to move a little more freely, reeling around to face me and hissing with fury.
+
+What do you mean, hiss?! You aren’t a snake! Well, it’s clearly part snake, a slug-snake!
+
+Yuck.
+
+It still has the fangs and snake-shaped head, but its body has become pale and squishy, the slime coating leaking out of it even thicker than before. My minds work furiously, pumping multiple forms of mana and preparing an array of spells as the creature continues to build up its spell, even as it tries to work its way towards me, hoping to draw nearer.
+
+You might be able to move better than before, but the well is still giving you plenty of trouble. There’s no chance you’ll be able to catch me, you disgusting thing! For now, eat Dragon’s Breath!
+
+I blast the monster with a jet of hot flame and it recoils from the searing heat, hissing furiously.
+
+In a final attempt to protect itself, the slug-snake whips its face around, directly into the path of the fire, and opens its mouth, launching another dense ball of potent venom directly into my face.

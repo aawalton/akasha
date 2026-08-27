@@ -1,0 +1,181 @@
+---
+id: 2de97480-c915-5730-b4f3-dde65e183fd4
+page-type-slug: story-chapter-royal-road
+title: "6 - Levels and More"
+slug: 0006-6-levels-and-more
+partOf: cat-girl-evolution
+position: 6
+ownLength: 1924
+unit: words
+publishedAt: 2025-08-17
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2525552/6-levels-and-more"
+royalRoadId: "2525552"
+---
+
+There are much fewer of them this time. I count only 10, and I don’t see the Named one anywhere. However, their weapons are a little better this time. Not by much, but I notice that the swordfish bone swords seem to be sharpened.
+
+I wait in the tree as they shuffle across the beach, each going in a different direction. It looks like they’re doing a sweep for survivors, so they’re all splitting up. Perfect! Easy food!
+
+They move in pairs, which is annoying, but I think I can handle them. And if not, I can definitely run away. They move about as fast as crippled old men.
+
+I single out one pair that looks particularly clumsy that’s heading straight to the center of the island, and once all the fishmen have disappeared into the trees, I climb down from my perch and start stalking them.
+
+I take great care to be as quiet as possible, but I honestly don’t think I need to. They’re so loud I can barely hear myself think, let alone my footsteps. There’s no way they can hear me. Their hearing doesn’t even seem to be good in the first place.
+
+I follow them until they’re right about at the dead center of the island, close to where Johnny died before I make my move. I can’t hear the other ones in the distance anymore, so hopefully, this should be far enough away that I can avoid reinforcements. I draw closer, just a couple meters away from the leftmost one, and when there comes a time when they split up, each going a different direction around a tree, I strike.
+
+Scratch!
+
+Blood sprays onto my face as my claws cut deep into the back of the fishman’s leg. The attack was strong enough that the foot is almost completely severed, which surprises me, but not enough that I fail my followup attack on the other leg. Before it can even cry out, it faceplants on the ground, its legs mutilated.
+
+I dart backwards into the underbrush and move sideways as the other one peers around to see what happened to its comrade. It makes a gurgling noise when it sees the blood and raises its sword, but it doesn’t spot me in time to do anything before I cut its ankles out from under it as well. With both of them grounded, it barely takes more than a minute for me to finish off both of them.
+
+[ You have defeated Ichthyoid, lvl 2! ]
+
+[ You have defeated Ichthyoid, lvl 3! Bonus experience for defeating an enemy above your level! ]
+
+[ Spatial House Cat, 2 → 3 ]
+
+[ +2 Power, +6 Finesse, +3 Resilience, +4 Memory, +5 Willpower, +5 Sensitivity ]
+
+A warmth flows through my body, and I instinctively stretch out, extending and retracting my claws. I feel good. And hungry.
+
+I rip off a sizable chunk of flesh from the nearest dead fishman and start chewing while I think about the fight. Well, it wasn’t really much of a “fight.” It was pretty one-sided. I can’t believe I was ever scared of these scrubs. I mean, if I actually fought them head-on, they might be trouble, but why would I do that? Too much work.
+
+The Scratch skill is really strong. Or at least, it feels really strong. It’s definitely a huge improvement over what I had to do the first time I fought one of these guys. I wonder how good it will be when I upgrade its Proficiency again. Will I be able to take their whole foot off with a single swipe?
+
+[ You’ll be able to do that if you just level up a few more times ]
+
+Really?
+
+[ Yes. Your stat growth is high compared to the average monster, and these ones are fighting outside of their natural habitat. It’s honestly not fair for them. ]
+
+But great for me! Let’s go get some levels!
+
+I pull the two corpses I just made into my Stomach and then run off toward where the nearest other pair of fishmen probably is. It doesn’t take long to find them. The island isn’t that big, and as I mentioned earlier, these guys don’t really do stealth.
+
+I take out their legs the same way I did the first pair, but rather than immediately finishing both of them off, I decide to try something different. I focus hard on one of them while ignoring the other, and once that one is dead, I turn my attention to the still crippled one who is gurgling for help. It tries to swing its sword at me, but misses badly. I don’t even have to dodge.
+
+It tries again, and this time, I Scratch its hand, making it drop it’s weapon. Then, I pick up the sword in my mouth and run a few feet away and set it down. It flops around a bit, trying to get to its knees, but I take a flying leap at it, scratching its face and knocking it back to the ground. Then, when it’s flailing around, I run around to its leg and sink my fangs into it.
+
+Into my Stomach you go!
+
+…
+
+Damn, I was really hoping that would work. I felt the skill try to activate, but the fishman is still here and squirming. Rats. I think I kind of instinctively knew it wouldn’t work on living creatures, which is why I hadn’t bothered to try it before, but it still kinda sucks. Oh well.
+
+I spend about thirty seconds finishing the fishman, and check the System notifications expectantly. Unfortunately, I don’t level up.
+
+[ Well, you can’t expect a level every fight. You’re probably close though. You’ll get it on the next one! ]
+
+And I do. The next pair of fishmen gives me yet another level! The one after doesn’t, but the last one does, and with all the fishmen dead, I stop for a second to admire my progress. I feel like I have way more control over my body, and my head feels much clearer. I feel like I’ve gotten smarter.
+
+[ No, Intelligence isn’t one of the stats. You have not gotten any smarter. Clearly ]
+
+Oh, ‘clearly’, huh? Alright, Abbdomen.
+
+[ That’s not even a name ]
+
+It is now. It’s your name. Now, shut up and show me my Royal Status Window!
+
+[ Name: Yona ]
+
+[ Age: 0 ]
+
+[ Species: Spatial House Cat. Tier: 0. Level: 5. ]
+
+[ Class: Locked ]
+
+[ Profession: Locked ]
+
+[ Titles: Second Lifer ]
+
+[ Traits: Cat-like Reflexes, Gluttony, Spatial Affinity ]
+
+[ Stats ]
+
+[ Power: 23 (+13) ]
+
+[ Finesse: 49 (+19) ]
+
+[ Resilience: 29 (+14) ]
+
+[ Memory: 36 (+16) ]
+
+[ Willpower: 42 (+17) ]
+
+[ Sensitivity: 42 (+17) ]
+
+[ Skills: Scratch, Stomach of the Glutton ]
+
+Beautiful! All my stats are over 20! And Finesse is almost at 50! Actually, it’s over 50 if I count the bonus!
+
+[ That’s not how the bonus works ]
+
+What?
+
+[ Those stats are already factored into the total shown. Your base Finesse is 30, and you get 19 bonus. It just shows the bonus so you know how much of each stat is bonus ]
+
+Awww. Lame. Well, it’s almost 50, which is still pretty good. One more level and it will be there! Are there any more fishmen around?
+
+I stop and listen. Nothing. Dangit.
+
+[ 3 levels in a single night is already very solid. Excellent work, Princess Yona ]
+
+Thank you, Abby! I guess that means it’s time for another nap.
+
+[ You just woke up ]
+
+And then I worked very hard to make a lot of progress. I deserve a break. And there’s no such thing as a bad time for a nap.
+
+I trot back to the middle of the island, ignoring Abbnormal’s protests and climb back up my favorite nap tree and start to settle in. However, right as I’m about to close my eyes, I hear a faint noise on the edge of my range of hearing. It’s splashing, just like when the fishmen first emerged.
+
+Hmmm, it’s clearer than before. I couldn’t have told exactly what it was when I just woke up. I guess that’s because my Sensitivity’s gone up. Cool!
+
+Unfortunately, I’m already settled in here, nice and cozy. They’re not very smart. I bet I can just lay here and they won’t notice me.
+
+[ I thought you wanted to level up ]
+
+Yeah, but I also want to nap.
+
+[ Leveling up more will make napping feel better ]
+
+How?
+
+[ Have you ever gone to bed after a hard day of exercise or physical labor? ]
+
+No.
+
+[ What? ]
+
+I’ve never gone to bed after a hard day of exercise or physical labor.
+
+[ …The only way that’s possible is if you’ve never had a hard day of exercise or physical labor ]
+
+Correct.
+
+[ …How? Were you actually just a cat in your past life? ]
+
+Stop trying to pry into my personal life. Anyway, I don’t see why I should get up. I already said I was going to nap, so I’m going to nap.
+
+I close my eyes so I can’t see Abbject’s messages and try to sleep, but the splashing from the beach has turned into footsteps, and the footsteps have gotten closer, and these ones sound different from the last fishmen. Their footsteps aren’t clumsy, and they actually sound like they’re attempting some stealth. That can’t be good.
+
+I yawn and stretch, then climb down from my spot in the tree and start stalking through the underbrush toward the source of the sounds. When I get close enough, I climb up into another tree to wait, and a few seconds later, my new friends appear.
+
+It’s a pair of them, and though they’re not quite like the Named monster, they are quite different from the other fishmen. These ones are eelmen. They have slimy skin long necks, and very toothy mouths, and they walk much better than the regular fishmen.
+
+[ Encheloid, lvl ?? ]
+
+Interesting. Eelmen. I bet they taste good. I’ve always liked eel.
+
+They walk past without seeing me, and once they’ve made it a few meters away, I silently climb back down and start getting closer. While they’re better than the fishmen, the eelmen are still no good at moving quietly, so what little noise I do make is covered up by their own footsteps.
+
+While I follow them, I keep my ears open for any others that might be near. There are definitely more of them on the island, and I can hear them stomping around in the distance, but none are close enough to come as reinforcements if this goes badly. Perfect!
+
+Just like with the fishmen, I creep closer until I’m just a meter or so behind them, and just like before, as soon as they are on opposite sides of a tree, I leap forward and strike!
+
+Scratch!
+
+My claws impact the eelman’s soft, slimy skin, but rather than tearing straight through, it squishes in, and only at the end of my swipe does the skin break, doing about as much damage as a thumbtack. I look up to see that its neck has twisted all the way around, and it is now looking down at me with dull black eyes and a mouth full of teeth as long as my paws.
+
+Uh oh.

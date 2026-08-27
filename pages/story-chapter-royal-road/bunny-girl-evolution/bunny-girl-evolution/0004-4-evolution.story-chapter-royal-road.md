@@ -1,0 +1,160 @@
+---
+id: a449f53d-5f46-50f5-9491-145d85f2f1bf
+page-type-slug: story-chapter-royal-road
+title: "4 - Evolution"
+partOf: bunny-girl-evolution
+position: 4
+ownLength: 2380
+unit: words
+ownProgress: 2380
+publishedAt: 2024-08-01
+link: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/1741068/4-evolution"
+royalRoadId: "1741068"
+markedReadAt: "2026-06-29T20:02:47.498Z"
+---
+
+The System was way overselling it when it said a mouse could break through the evolution membrane. A determined insect could break through it without issue. The second Elise’s teeth hit it, it burst, filling her mouth with a taste so foul she forgot about her broken foot attempting to flee. Blinded by the pain, she finished limping back to the entrance tunnel as the evolution pod drained. When it was about half-empty, she got the System notification
+
+[You have defeated Lesser Earth Wyrm lvl 25]
+
+[You have leveled up! 2 -> 10]
+
+[You have reached an evolution threshold! Excess exp will be disregarded.]
+
+[Agility + 8, Charisma + 24, Mana + 16, Mana Control + 16]
+
+[You have unlocked the skill {Dart}]
+
+[You have unlocked the skill {Sudden Growth}]
+
+[You are eligible for evolution! You have {7} options! You have 168 hours to select an option and begin your evolution before an option will be randomly selected for you and your evolution will start automatically]
+
+Elise had a lot of mixed feelings as she watched the Wyrm goop continue to pour out and drain into the river. On one hand, she had leveled up straight to her evolution threshold, and earned stat points and skills to compensate. On the other hand, it said that excess exp had been disregarded, which made her wonder exactly how much she had missed out on. The Earth Wyrm was only level 25, which surprised her, but after some clarification with the System, she learned that it was actually more like a level 70, since level reset at each evolution, and each successive evolution was five levels further than the last. A level 2 killing a level 70 was definitely worth more than just 8 levels.
+
+Her new skills were interesting, but nothing special. {Dart} was like {Leap}, but was for exclusively horizontal movement and had multiple charges, and {Sudden Growth} just made the plants around her grow at many times their normal rate for one second. That was great if she wanted some quick cover or food, but not much else. What she was really looking forward to was the evolution.
+
+System, what happens if I’m injured when I start evolution? She asked.
+
+“Evolution heals all wounds. Because your body is reformed from scratch at every evolution, injuries do not carry over.”
+
+Sweet! What are my evolution options?
+
+“You have 2 Common evolution options, 4 Uncommon evolution options, and 1 Rare evolution option. Your Common evolution options are: {Greater Rabbit}, and {Earth Rabbit}. Your Uncommon evolution options are: {Tunnel Rabbit}, {Demon Rabbit}, {Rabbit Assassin}, and {Rabbit Sorceress}. Your Rare evolution options are: {Young Rabbit Enchantress}.”
+
+What’s the difference between Common, Uncommon, and Rare?
+
+“When a creature evolves, they are offered classes from one of six rarities: Common, Uncommon, Rare, Epic, Legendary, and Mythical. The higher the rarity, the stronger the class. In the first evolution, a common Evolution will grant 10 stat points every level, an Uncommon class will grant 20, a Rare class will grant 30, an Epic class will grant 40, a Legendary will grant 50, and a Mythic will grant 60. Higher rarity evolutions also often come with unique and powerful skills that cannot be found in other classes.”
+
+Can you describe each one?
+
+“I’m sorry. I cannot answer that question.”
+
+What? Why not?
+
+“I’m sorry. I cannot answer that question.”
+
+You’re useless.
+
+“I’m sorry to hear you say that. Would you like to fill out a short feedback survey so that the developers can improve your future experiences?”
+
+Wait, can I really?
+
+“Yes! Here at !@#$%^&, we value customer service above all else!” Whatever name the System said reached Elise’s ears as a garbled, unintelligible mess. “We would love to hear your feedback on how we can enhance our products to improve customer experience and help you achieve your dreams! Are you interested?”
+
+Yes!
+
+Elise was certain that responding to the survey would do absolutely nothing for her, but having a space to air out her grievances to the supposed developers of the System was cathartic. Once she was done, she got down to the real business of contemplating her evolution. She wanted to pick quickly, because the pain in her paw was starting to increase, but she knew that a bad early choice could screw her over, so she took as much time as she could.
+
+{Demon Rabbit} was out for obvious reasons. She didn’t even know why it was offered and didn’t want to think too hard about it.
+
+So were {Greater Rabbit} and {Earth Rabbit}. Both sounded boring, and they were Common, so they would give her half or less stat points than the other classes would.
+
+She struck {Assassin Rabbit} off the list next. It seemed like it might be the strongest in terms of raw attack power, but the thought of killing more didn’t sit well with her. It hadn’t felt good the first time, and if she ever encountered something sapient that she wanted to defeat without killing, being stuck with only assassin skills would suck.
+
+The next to go was {Tunnel Rabbit}. It seemed like it might be the safest of her options, since going underground had thus far been a viable solution for survival, but she had never liked enclosed spaces, and didn’t want to spend her whole life living in them. Plus, after learning about evolution, she had small hope that she might eventually be able to evolve into something more human-like, and being a {Tunnel Rabbit} didn’t sound like the right path to take in that case.
+
+That left her with just two options, and if they had been both the same rarity, she would have taken {Rabbit Sorceress} without hesitation. {Young Rabbit Enchantress} sounded like a class focused on magically manipulating people and other creatures, and she wasn’t sure if she liked the sound of that. Being a sorceress was the weaker class by rarity, but it also felt less restrictive. She would have more options along that path, while as an enchantress, she would be more or less railroaded into a manipulator archetype.
+
+On the other hand though, she had turned down {Rabbit Assassin} specifically because she didn’t want to rely on killing, and if she was a {Young Rabbit Enchantress}, she would probably have lots of ways to get out of trouble without killing anything.
+
+She reasoned with herself back and forth until she was less sure of herself than she had ever been, but the pain in her paw was increasing, and the swelling was visible even under the fur, so she had to choose. She ultimately ended up throwing out her considerations and using the most objective way to decide: stat points.
+
+She chose to complete her evolution right there in that same chamber. If the Earth Wyrm had thought it was safe enough to perform evolution in, it was probably safe. The odds of some tiny rodent accidentally digging into the tunnel and finding her in the middle of her evolution and then deciding to kill her were astronomical.
+
+…
+
+She decided to do it in a somewhat hidden spot within the deflated Wyrm’s membrane, just in case. That way, even if something did find its way in, it wouldn’t see her immediately like she had the wyrm. And if it did, it might mistake her for a remaining section of the wyrm’s evolution pod and not do anything.
+
+The floor was sloped slightly down toward the river, so most of the goop had been washed away, but there was still a not insignificant amount pooled up in the remains of the pod. Elise tried to ignore its smell as she climbed into the hole that had been ripped open wide around her initial bite. She settled into the corner near where the black, webby stuff met the orange membrane of the original pod, and prompted the System.
+
+System, I’m ready to evolve.
+
+“Excellent. Which evolution path would you like to take?”
+
+{Young Rabbit Enchantress}.
+
+“A wonderful choice! Are you in a safe location? Remember, evolution is a very vulnerable process. If you are in a location that you do not think will be completely safe for the next 6 to 24 hours, it is highly recommended that you find such a place before initiating your evolution.”
+
+I am safe.
+
+“You have chosen to evolve from {Rabbit} to {Young Rabbit Enchantress}. Would you like to continue? Warning: responding ‘yes’ will start the evolution process, during which you will be unable to move or defend yourself. Are you sure that you want to evolve right now?”
+
+Yes.
+
+[Beginning Evolution]
+
+[Evolution Complete!]
+
+Wait what?
+
+Elise hadn’t even had time to blink after reading the first message, and now suddenly she was surrounded by orange and staring at a host of new notifications.
+
+[You have successfully completed your first evolution! +10 to all stats!]
+
+[Your new species is: {Young Rabbit Enchantress}. +15 Mana, +25 Mana Control, +10 Intelligence, +25 Willpower, +30 Charisma]
+
+Why again with the Charisma??
+
+[You have unlocked the skill {Mana Sense}]
+
+[You have unlocked the skill {Magic Missile}]
+
+[You have unlocked the skill {Suggestion}]
+
+[Nature Affinity detected! You have unlocked the bonus skill {Prehensile Vines}]
+
+She forced her way out of her pod where the remains of the wyrm had dried up, leaving behind a springy, gelatin-like layer under her feet. She looked over her body, and was both disappointed and relieved to find that nothing much had changed. All she noticed was that she had maybe grown an inch or two, and that her white fur was now as clean as if she had been just washed.
+
+She went out of the wyrm’s pod and marveled at how easy it was to move with her increased stats. It made her feel like she had been drunk up until then, stumbling around like a fool and moving at half the speed she could have.
+
+{Mana Sense} was a passive skill, and she noticed its effects immediately. The air in the cave was just as stale and still as it was before, but now there was a sensation that felt like a breeze tickling her brain. It was the flow of mana, and it seemed unaffected by the solid earth surrounding it.
+
+System, how long did my evolution take?
+
+“Your evolution took 3 hours 48 minutes and 56.286 seconds.”
+
+That wasn’t even close to what she thought it had taken. The earth wyrm had more time on its timer when she arrived, and it could have started long before then. It must have been because she was smaller, or because hers was a first evolution, or because her evolution hadn’t changed her body much at all. Regardless, she was now whole again, and stronger than ever, and ready to get back out of the dark cave and into the sunlight. Getting past the direwolf would still be a problem, but that was only if it was still there, but why would it be? It had been hours.
+
+…
+
+It was still there. She found the place she had dug in, and after carving a makeshift side tunnel so she could get back up, she started climbing back up to her burrow, only to freeze when she heard it breathing above her. It sounded like it was asleep, but it was most definitely directly on top of the hill.
+
+Why is it still there?! she thought.
+
+“I’m sorry, I don’t understand-”
+
+I wasn’t talking to you.
+
+She backed out again and returned to the wyrm tunnel. She could try to sneak past it, but why risk it? With four working legs, it had only taken a quarter of an hour to get back to that place, and since she had just gone through evolution, she felt fresh and full of energy. She had plenty of time to head the other direction down the wyrm’s tunnel, and if that failed, she could just find the highest point she could and dig herself back out.
+
+An hour later, she was starting to regret her decision. The wyrm had taken great care to make sure its evolution chamber was nowhere near any of its other tunnels or any entrances to the surface. She couldn’t fault it, because she would do the same in its situation, but it was really annoying for her. She amused herself by testing out her new {Dart} skill to move faster, which was fun and helpful, but also made her legs sore when she used it too many times, so she returned to normal hop-walking.
+
+Another hour later, she finally came across a fork. She took the path that she could hear running water down, and was rewarded with another chamber similar to the evolution one, but with more tunnels. There were also some glowing mushrooms growing around the underground river, and they smelled heavenly. She was not dumb enough to eat strange mushrooms, but she did salivate over their scent a bit as she passed by.
+
+She took the uppermost exit, hoping that it would lead her to the surface. The path spiraled upward for at least ten revolutions and dead-ended in a flat, circular chamber. Elise almost turned back around until she saw a root dangling from the ceiling. She looked closer and saw that most of the left side of the ceiling was lined with roots. Roots meant trees, and trees meant surface, so Elise started digging.
+
+A few feet later, and Elise finally felt the sunlight on her fur again. She was on a hill topped by a dry, ancient tree that overlooked the forest. She hopped over to the other side of the hill, and almost tripped in shock when she saw a log cabin in a valley down below. Depending on who lived there, she had either found herself the safest, or the most dangerous place in the whole area.
+
+As she realized that, she also realized that she had forgotten to check her surroundings before emerging. She was so caught up in getting out of the tunnel that she had forgotten how dangerous the surface was, and it was now biting her in the cotton-tailed rear, because something much bigger than her was staring at her from its perch in the tree branches above.
+
+Current stat sheet:

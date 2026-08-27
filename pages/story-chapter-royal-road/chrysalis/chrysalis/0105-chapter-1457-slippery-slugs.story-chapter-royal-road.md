@@ -1,0 +1,85 @@
+---
+id: a537faf2-d3ce-5199-a9a0-6df503293879
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1457 - Slippery Slugs"
+slug: 0105-chapter-1457-slippery-slugs
+partOf: chrysalis
+position: 105
+ownLength: 990
+unit: words
+ownProgress: 990
+publishedAt: 2024-11-20
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1913600/chapter-1457-slippery-slugs"
+royalRoadId: "1913600"
+markedReadAt: "2026-06-29T19:47:26.400Z"
+---
+
+Once I’ve got the all clear from the healers and assured Crinis that I’m not dead, nor have I been teleported to some distant, horrific part of the Dungeon, I’m free to go on my next errand!
+
+Namely: find some Krath and make them regret showing their slimy faces around the Colony! There’s several locations where Solant suspects the Krath might be gathering, each of them toward the deeper end of our spreading influence. Which only makes sense, why would they head closer to the fourth, where our influence is at its strongest?
+
+After my failure with the snake-slug, I’m keen to vent some frustration, but I’m wary that if I go overboard, I’m likely to regret it. The slugs are wily enemies, and I have little doubt they’d jump on any opening I give them, so I need to be cautious.
+
+I move through the tunnels with confidence, marvelling at the incredible work the Colony has done in such a short span of time. The logistics network that Solant painstakingly designed is paying dividends everywhere I look. There’s a constant flow of materials moving outward from the hubs that have been constructed along the vertical shafts that cut through the heart of the fortress to be.
+
+Ants, humans, and members of the various other races, recruited from their communities among the independent cities of the Dungeon, all work in harmony, an endless march of materials delivered to the hundreds of build teams swarming all over the occupied territory. I can already see dramatic change in the tunnels I go through.
+
+What was once rough, natural Dungeon has been converted into the smooth and wide tunnel structures that the Colony prefers. Roads, chambers, walls, defences, everything is being constructed at once, some parts way ahead, others lagging behind. Most important of all are the channels and wuffer platforms, each a feat of engineering that I certainly wouldn’t want to attempt to build.
+
+After saying hello to everyone I pass, I check in with the general in charge of the tunnel I plan to venture out into.
+
+“Hey there, general. Oh shoot, I didn’t expect to see you here, Victor!”
+
+The general waggles her antennae irritably.
+
+“And why would that be?”
+
+“I thought you were managing things up in the fourth.”
+
+“Sloan is up there at the moment and things are going fairly smoothly, so I’m here.”
+
+“Trade with the brathians is going smoothly? No trouble from the Silver City?”
+
+I almost ask about the Church of the Path, but manage to stop myself. Brilliant is looking into that mess. Which reminds me, I need to check in with her to see how things are going. I’ll make that a priority once I get back.
+
+“There haven’t been any major issues. The brathians have been busy smoothing everything over to the best of their abilities, and we are starting to receive payment for our efforts, which is gratifying.”
+
+“Good number of cores coming in?”
+
+“More than I expected,” the general concedes.
+
+I take that to mean it’s way more than she expected. A good thing, considering all the effort we went through to get our mandibles on those things.
+
+“Great stuff,” I say, pleased. “Well, Solant wants me to check out this tunnel and scope out any Krath activity. She said the scouts had reported some suspicious movements in this area.”
+
+The general clacks her mandibles thoughtfully.
+
+“I suppose it could be the Krath out there. The monsters have been moving oddly, different from their previous patterns.”
+
+“How so?”
+
+“We get less reckless charges than before, but enough to make it seem like nothing has changed.”
+
+“They could be massing newly spawned monsters somewhere nearby? Preparing for a massive wave of weaker creatures?”
+
+“Definitely possible. If you can sniff them out, I’ll be grateful, Eldest. Good luck.”
+
+“Thanks very much. Say hi to Sloan for me.”
+
+I bid farewell to the general and make my way deeper into the tunnel. There’s a full battalion of ants on guard at the edge of the safe-zone. Drilled in Solant’s formations and tactics, ten thousand of my siblings stand watch to make sure nothing encroaches on the territory claimed by the family.
+
+I wave to them and exchange words as I make my way through the ranks. It bothers me a bit that they still call me lazy as I’m heading out into the toxic area. I mean… really now.
+
+Once I clear the blue mana, the familiar sensation of eye melting and body invading takes place. It’s amazing what a person can get used to, given enough time and exposure.
+
+At first glance, this tunnel doesn’t appear all that different from the others. There’s the usual slime strands, each at least a metre thick, connecting the walls, floor and ceiling like a spider web made of snot, along with the thick carpets of moss and various other examples of stuff I really don’t like to see.
+
+I’m immediately on alert, but there doesn’t seem to be anything that immediately catches my attention. Of course, I wouldn’t expect the slugs to be that unsubtle. They didn’t exactly get their nefarious reputation for being obvious.
+
+Acting as though I have no care in the world, I execute my best ant-strut and begin to stride into the open tunnel. I blast the mucus and slime with Dragon’s Breath, clearing the way as I go, trying to look as though I’m on nothing but a regular investigation mission.
+
+All the while, my antennae are waggling. No matter how hard they try, there’s nothing the slugs can do to eliminate the gravitational waves they emit, and my antennae are sensitive enough to pick up even those tiny vibrations. Surprisingly, it doesn’t take that long for me to get my first readings.
+
+They’re staying well back, out of sight, hiding their mana signatures so well I don’t even get a sniff of them.
+
+Sneaky, sneaky. But not sneaky enough!

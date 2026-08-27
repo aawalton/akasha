@@ -1,0 +1,195 @@
+---
+id: 91e32f25-0d00-5469-8339-dfd958cb4dd8
+page-type-slug: story-chapter-royal-road
+title: "73: Secret Organization"
+slug: 0073-73-secret-organization
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 73
+ownLength: 1733
+unit: words
+publishedAt: 2025-11-21
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2780540/73-secret-organization"
+royalRoadId: "2780540"
+---
+
+Sabine stepped farther into the room. “This is one of the many hideouts used by Sol."
+
+“What’s a Sol?” Chloe asked.
+
+“Sol is a secret organization, whose main goal is to revive Solarius, the Sun God.”
+
+“Okay… but what's an organization?”
+
+“It’s a group of people who work together for the same purpose.”
+
+“Oh. So why isn’t it called Solarius then? If they want to revive Solarius, shouldn’t the group be named after him?”
+
+Sabine gave a light shrug. “I’ve wondered that myself. Perhaps Sol is easier to say.”
+
+Chloe nodded slowly. That made sense. “So… are you showing me this because you want me to… join this super secret Sol thing?”
+
+Sabine met Chloe’s eyes and gave a single nod. “That is exactly right.”
+
+Chloe felt really excited. Joining Sol actually sounded kind of amazing. She was already part of the Thieves Guild, sure, and that was cool and all, but Sol sounded fancy. Like it was meant for important people. And I’m definitely important.
+
+But then something clicked in her head. “Wait, I thought we were supposed to go find that Morikhan guy?”
+
+“We still are,” Sabine said, resting her hand on a stack of maps without even looking down. “But at the same time, I hope you’ll consider joining Sol. It would make things easier.”
+
+“Easier, how?” Chloe asked. She stepped over a toppled stack of books and tiptoed closer.
+
+“If you join, not much will change right away. You’ll still have your freedom. But I’ll be able to guide you more directly, help you grow faster, and eventually bring you up through the ranks of Sol. That comes with access to a lot of… interesting rewards."
+
+"Like what?"
+
+“Some examples include: rare items, forbidden tomes, and unique potions. But for someone like you... there’s something extra. Like brains, for example.”
+
+Chloe froze. Her fingers twitched, and something deep inside her perked up. “Wh—what kind of brains are we talking about here?”
+
+Sabine looked like she was holding back a smile. “We have brains from advanced mages, scholars, and even veteran adventurers or heroes. Of course, it depends on how high you rank. Sol has a lot of hideouts like this one, and some of them are much bigger than this little place.”
+
+Chloe almost drooled as she thought about all the brains she could get. Then reality caught up and she waved her hands wildly in front of her face. “Uh—no! Gross! Ew, I don’t like brains!"
+
+Sabine raised an eyebrow. “Really?”
+
+“Yeah! Brains are totally gross. Like, who even eats that? That would be crazy. And also maybe a little awesome. But no! I definitely don't like brains!”
+
+“Chloe, I know you’re a zombie.”
+
+Sabine didn’t sound judging or disgusted. She said it like a plain fact, the same way someone might say the sky was blue or bread was tasty. But Chloe still tensed, shoulders lifting a little.
+
+“How… did you know that?”
+
+"Did you forget I already found out you were an undead when we first met?"
+
+"Huh… I guess that did happen. But I could've totally been any other kind of undead! Like uh… uh…"
+
+“Chloe, that's not important, what matters is I want you to know that there is no need to pretend around me. I'm not going to treat you any differently just because you're a zombie."
+
+“Alright… but don’t tell anyone, okay? I don’t want people freaking out.”
+
+“I have no reason to tell anyone anything about you. I’m not here to make things hard for you. If anything, I want to make sure things get easier.”
+
+“Okay. Good. Cool. Great. So, wait. Are you trying to bribe me with brains?”
+
+Sabine smiled ever so slightly. “Is it working?”
+
+Chloe crossed her arms. “No.”
+
+Sabine raised a brow. Chloe caved immediately. “...maybe.”
+
+Chloe rested her hands on the edge of the table as Sabine spread out a big map, this one rougher and stained at the edges, marked with symbols Chloe didn’t recognize.
+
+Sabine tapped a spot with a stick. “Morikhan is imprisoned beneath the Luphian capital of Varkos. But the real challenge isn’t the city itself. It’s the dungeon under it.”
+
+Chloe tilted her head. “Okay, so we just bust in, grab the crazy sage, and bust out, right?”
+
+"That dungeon is older than the city above it. Much older. The Luphians built Varkos on top of ancient ruins that were already there long before their ancestors settled the region. The tunnels beneath the capital aren't even fully explored yet."
+
+“Well, that kinda sounds like a place where people get lost forever."
+
+“That's… not an incorrect way to put it,” Sabine said. “There are traps and sealed chambers down there that no one has managed to open in centuries. And the deeper you go, the stranger things get.”
+
+“Stranger how?”
+
+“Reality doesn’t always behave normally down there.”
+
+“Okay, that sounds awesome.”
+
+“No, it is not awesome Chloe, things will get very difficult for us down there. And that isn’t even the hardest part.”
+
+“It’s not?"
+
+“Yes, because first, we must actually reach the dungeon. And to do that, we need to deal with the city.”
+
+“The wolf-people city,” Chloe said, nodding. “Right. Easy. We just walk in and ask politely where the dungeon is.”
+
+Sabine gave her a flat look. “Varkos is not a city where you simply ask things. It is ruled by two major gangs.”
+
+“What’s a gang?”
+
+“A gang is a large group of people who work together outside of normal laws. They control territory using strength, money, and fear.”
+
+“So like a guild, but rude.”
+
+“Sure, let's go with that. Anyway, the two gangs that control the city are rivals, locked in a constant fight for power. One controls the streets above ground; the other controls the tunnels beneath it.”
+
+“The Ironfang Syndicate controls most of the surface, while the Black Maw holds the tunnels below. To reach Morikhan’s prison, we’ll need to go in either through the natural history museum above… or the sewers below. In either case, we’ll need help from one of the gangs.”
+
+“Can’t we just go around them?”
+
+“We could try. But we would die.”
+
+“Ah, that is a good reason.”
+
+Sabine nodded. “If we work with the Ironfang Syndicate, the Black Maw will consider us enemies. If we work with the Black Maw, the Ironfang Syndicate will not rest until they hunt us down. And if we try to stay neutral, both sides will crush us anyway.”
+
+Chloe stared at the map. "So basically, we pick who we want mad at us.”
+
+Sabine nodded once. “That is the simple version, yes.”
+
+Chloe drummed her fingers on the table. “Either way, this all sounds pretty fun!"
+
+Sabine gave her a patient look. “This will not be fun, Chloe. It will be dangerous and slow. Every choice we make in that city will have consequences.”
+
+“Good thing I like consequences.”
+
+Sabine sighed. “We'll leave tomorrow. But before that, I want to confirm something with you, Chloe."
+
+"Um, sure? What's up?"
+
+"I want to truly see how strong you've become."
+
+***
+
+Sabine led Chloe out of the hidden base and back through the jungle until they reached a wide clearing. Chloe looked around, arms crossed. “So… why are we here again?"
+
+“Just stand still for a moment.” Sabine said.
+
+Chloe blinked. “Why? What are you gonna—oh.” Wait. I know this. Sabine is gonna do the weird thing again with her eyes.
+
+Last time Sabine did this, it had not been fun. In fact, it was kinda weird. Chloe braced herself, planting her feet as she knew what was going to happen next.
+
+Sabine stepped closer, calm as ever. Her eyes shifted, brightening as a golden glow spread over them. She then looked at Chloe.
+
+The gross feeling washed over Chloe immediately. It was like slime crawling under her skin or bugs skittering down her spine. Her stomach twisted, her bones felt cold, and her brain buzzed in a way she did not approve of.
+
+“Ugh, I hate this part.” Chloe said out loud.
+
+Sabine didn’t respond. She just kept staring, that golden light pulsing faintly. Chloe clenched her teeth and tried not to fidget. Why does she have to look inside me like that?
+
+Then, just as suddenly as it started, it was over. Sabine blinked once and her eyes returned to normal. “You've changed a lot it seems."
+
+“So, are you ever gonna tell me why your eyes keep turning gold like that? Because that’s not normal I'm pretty sure." Chloe said.
+
+“Perhaps another time.”
+
+“That means no, doesn’t it.”
+
+Sabine didn’t bother answering Chloe’s complaint. Instead, she stepped back toward the center of the clearing. “Before we begin our mission, I want to know how much stronger you have become. It seems you have made a lot of progress.”
+
+Chloe’s mood flipped instantly. She smirked and puffed out her chest. “Oh, you have no idea. I’ve learned a lot of cool magic. I can use three elemental magics now. And healing magic. And other stuff. And maybe also some secret things. But I’m not telling you all of it of course."
+
+Sabine gave a small amused nod. “Good. Then let’s spar for a moment."
+
+Chloe cracked her knuckles, excited sparks running through her veins. “You’re on.”
+
+Sabine stood completely still, hands resting at her sides. “You may make the first move."
+
+Chloe grinned. “Don’t mind if I do.”
+
+She raised her hands and narrowed her eyes, focusing her blood magic on Sabine. She pictured red strings wrapping around the woman’s joints. Of course, Chloe didn't know if this would work, but hey, it was worth a shot.
+
+Then, all of a sudden, Sabine’s own fist snapped up and smacked her right in the face. Both of them froze.
+
+Chloe blinked a few times. “Oh. I did not think that was actually gonna work.”
+
+Sabine let out a small smile. “That was a good move. I suppose it’s my turn now.”
+
+A soft crackle of lightning sparked across Sabine’s arms. Chloe’s grin dropped. Wait. Wait, wait, wait, was I forgetting something? I was definitely forgetting something.
+
+Before Sabine did anything, Chloe threw her hands up in a panic. “Wait! Stop! Hold on!”
+
+Sabine lowered her hand just a little. “What’s wrong?”
+
+Chloe quickly reached into Cloaky, rummaged around, and yanked out a scroll. “There’s this brain I really, really need to eat first!”

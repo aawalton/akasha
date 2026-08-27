@@ -1,0 +1,56 @@
+---
+id: cd096ac1-7dc4-5435-bfda-03935263c03b
+page-type-slug: story-chapter-royal-road
+title: "NOT A CHAPTER - Temporary schedule shift"
+partOf: bunny-girl-evolution
+position: 47
+ownLength: 462
+unit: words
+publishedAt: 2026-03-14
+link: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3149678/not-a-chapter-temporary-schedule-shift"
+royalRoadId: "3149678"
+---
+
+Hello! You probably saw in the previous chapter (or maybe the one before that?) that I am currently on vacation in Japan, and that it is affecting my writing time. I had hoped that this wouldn't affect my writing schedule too much, but I underestimated a lot of aspects of travel, so I've been repeatedly having delays. With only 3 full days left here in Japan, and since I'm already behind by a couple days, I've decided that I'm just going to not worry about catching back up yet. I'm going to go full tourist for the next 3 days, die in transit on the 17th, and then get back to writing on the 18th.
+
+I would like to make clear that you guys will NOT be losing any chapters, and that by the end of the month (or the very beginning of next month), we will be caught back up with where we should have been had I not impulsively booked this vacation. When I get back, I'm just going to do 1 chapter per day (switching between Bunny Girl Evolution and Cat Girl Evolution) until I'm caught back up. Don't worry, this won't put any extra stress on me. I've actually already been doing 1 or more chapters per day, with those extra chapters just going to another story I'm prepping for launch. I'll just be putting that story on temporary hold while I catch back up, and then settling back into my normal routine.
+
+So, to reiterate, we will be caught back up by the beginning of April, for a net 0 loss of chapters. But for the next few days, there will be no chapters.
+
+My schedule when I get back will be:
+
+18th: write cat 119
+
+19th: post cat 119 and 100, write bunny 196
+
+20th: post bunny 196 and 180, write cat 120
+
+21st: post cat 120 and 101, write bunny 197
+
+22nd: post bunny 197 and 181, write cat 121
+
+23rd: post cat 121 and 102, write cat 122
+
+24th: post cat 122 and 103, write bunny 198
+
+25th: post bunny 198 and 182, write cat 123
+
+26th: post cat 123 and 104, write bunny 199
+
+27th: post bunny 199 and 183, write cat 124
+
+28th: post cat 124 and 105, write cat 125
+
+29th: post cat 125 and 106, write bunny 200
+
+30th: post bunny 200 and 184 (kinda caught up!), write cat 126
+
+31st: post cat 126 and 107 (kinda caught up!), write bunny 201
+
+(April) 1st: post bunny 201 and 185 (fully caught up!), write cat 127
+
+2nd: post cat 127 and 108 (fully caught up!)
+
+And then the normal Tuesday Saturday (for Bunny) and Sunday Wednesday Friday (for cat) from there on out.
+
+Sorry about the delays and thanks for reading!

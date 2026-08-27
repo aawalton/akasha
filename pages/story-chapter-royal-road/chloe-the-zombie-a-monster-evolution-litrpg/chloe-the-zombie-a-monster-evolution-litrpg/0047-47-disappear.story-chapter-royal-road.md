@@ -1,0 +1,209 @@
+---
+id: 7ae16e66-e0cf-5fa2-a251-8ba4ddd3ea33
+page-type-slug: story-chapter-royal-road
+title: "47: Disappear"
+slug: 0047-47-disappear
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 47
+ownLength: 2495
+unit: words
+publishedAt: 2025-10-07
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2658415/47-disappear"
+royalRoadId: "2658415"
+---
+
+Sabine was inside an underground chamber, standing on a circular platform. Across from her, on another platform, stood a familiar hooded man. This was Eight.
+
+She turned her head towards him. “Are we not rather early?”
+
+The man gave a shrug. “They should be starting any time now.”
+
+Before Sabine could speak again, the chamber stirred. In the centre of the stone floor, a pool of black liquid rippled into being, its surface shifting like ink.
+
+A woman stepped out from the pool of black liquid, her long blonde hair spilling over her shoulders. She wore a hooded cloak lined with rich gold.
+
+Sabine inclined her head politely as the woman emerged. “Tell me, have you brought those peanuts from Kelvane?”
+
+The woman exhaled a weary sigh before flicking her wrist. A small pouch materialised in her hand.
+
+She tossed it across the chamber. Sabine caught it before setting it lightly in her palm.
+
+“Sabine, one day you truly will go quite mad with these endless requests.” The woman in gold said.
+
+“Ivris, you know we are not permitted to use one another’s true names.”
+
+"That is only during missions, and this is very much not.”
+
+Before Sabine could answer, the hooded man spoke. “Enough, both of you. The meeting should be starting shortly.”
+
+Ivris clicked her tongue, though she said nothing further. She moved to stand upon one of the waiting circles.
+
+Sabine slipped the bag of peanuts into her pocket and folded her hands as the stone beneath her feet lit with pale lines. The platforms of the hooded man and Ivris followed, and then ten more circles blazed to life around the chamber.
+
+Each one projected a silver silhouette, no faces, no details, just ghostly outlines. Some stood upright, others leaned as though bored, yet every figure radiated weight. Although, four circles remained dark.
+
+One circle flared differently from the rest. Gold light washed across the chamber, cutting through the gloom. The silhouette within it straightened, its presence heavier than all the others combined.
+
+When he spoke, his voice cracked the air like thunder. “First, I thank you for gathering on such short notice. Sol has mobilised with unusual vigour, and so it is necessary we convene to inform one another. Sol is currently in a rather difficult position, for the elves have begun to move with uncharacteristic boldness."
+
+Across the chamber, one silver silhouette raised an arm. The golden one inclined his head. “Five. Speak.”
+
+The hand lowered. “It’s true. The elves are becoming a real problem. Their patrols reach past their borders now, hitting anything they feel like. Arrogant pests, always sticking their noses where they don’t belong. They’ve made our work a lot more of a hassle than it should be.”
+
+Eight gave a quiet snort. “Didn’t think the elves had it in them. Usually they’re so tangled up in their traditions they barely move at all… and now they suddenly decide to act? Interesting.”
+
+“Don’t confuse cowardice with restraint. The moment they work up some courage, their true colors show. They’d wipe us out in a heartbeat if they got the chance.”
+
+“You talk like every elf’s got it out for you. Take a breath, Five, rage doesn’t make much of a plan.”
+
+“Plan? What’s the point of planning when we’re dealing with elves? Better to just burn their forests and be done with it. Then we wouldn’t be wasting time even talking about this.”
+
+The golden one raised a hand. “Enough. Both your positions are noted."
+
+“Then we’d better act soon. Their interference is only going to get worse.” Five said.
+
+“Concerning indeed. But before we fixate on the elves, there is another matter that demands greater urgency.”
+
+Sabine’s lips curved faintly. “You mean the culling?”
+
+***
+
+She never really knew if she had a name. Maybe once, long ago, but if so it had slipped away like everything else. The only one she could remember for certain was the one that the odd girl had given her. The pale one with the white hair and the bright red eyes, who had looked at her and just called her… Wolfie.
+
+Yes, Wolfie. It had sounded strange at first, but it stuck. And in a way, it was comforting. At least someone had thought to name her, even if that someone was terrifying in her own right.
+
+For now, Wolfie ran as fast as her legs could carry her, snow crunching under every desperate stride. Her breath came ragged, though she tried to muffle them. Her ears twitched at every snap of a branch, every rustle in the dark behind her. She didn’t dare look back.
+
+Just keep moving. Keep running. If she stopped, they’d catch her.
+
+The path ended abruptly, with sheer cliffs rising on both sides. She spun, ears pinned flat to her skull. Pale snakes slipped from the shadows, hissing.
+
+Her stomach twisted. She knew these snakes were Ynett’s creatures.
+
+A shaky growl slipped out of Wolfie as she lunged at the closest snake. Her claws cut through the air, but the snakes snapped back to dodge. Another slid in close and she swung again, but they twisted around her attacks like it was nothing.
+
+Wolfie already knew that she wasn’t strong enough. These snakes weren’t even the real Ynett, just scraps of her power, and Wolfie still couldn’t handle them.
+
+Fangs sank into her side. She yelped, then another bite caught her leg. Then another.
+
+Her body shook as the venom spread, cold and heavy in her veins. She tried to fight, tried to shake them off, but her body just kept getting heavier.
+
+Wolfie's legs buckled, chest heaving. The pain wasn’t just the poison anymore. It was everything she never asked for. She hadn’t wanted this. She never asked to be some Champion of Chaos. She never asked to be bound to Ynett’s voice, her tricks, her commands.
+
+She was only ever a wolf. That was all.
+
+Her body sagged in the coils, vision blurring at the edges. The fear dulled, replaced by something heavier. Regret, maybe. Or just plain tiredness.
+
+She only wanted to lie down and curl up in the snow. But the venom dragged her further, pressing her into silence.
+
+And then all of a sudden, it all stopped. There was no more pain.
+
+Wolfie opened her eyes. She saw how the snakes were still coiled around her, but she couldn’t feel them anymore.
+
+She blinked at her hands. They were blurring, the edges fading into thin air. Her body shimmered, breaking apart piece by piece as she began to disappear.
+
+Wolfie didn’t know why she was disappearing, but it felt like the world itself had decided she’d run far enough. She wanted to cry, to howl, to scream that this wasn’t fair. That she wasn’t ready. But she had no mouth left to do it.
+
+Her thoughts spiraled. Maybe she was already gone. Maybe this was just what dying felt like, with no one to witness it. No one to care.
+
+"Wolf of the Rakshult Forest, listen to me."
+
+The voice echoed sharply in Wolfie’s mind. It wasn’t warm, but it wasn’t angry either, and somehow, that made it even harder to trust. She didn’t know who it belonged to, or why it felt so... aware.
+
+But what scared her most was that it knew the name of her forest. The only place that had ever felt like home.
+
+Hearing it now, spoken so clearly by a stranger, made her chest twist. It was like being seen through layers she didn’t even know she had.
+
+"If you wish to live, all you need to do is speak my name."
+
+As much as Wolfie wanted to listen to the voice, fear quickly consumed her. She couldn’t move. Couldn’t speak. Her mouth was gone. Her head, too, was already half faded. I... I can’t even talk. W-what is this? Who’s speaking to me?
+
+"You do not need to speak aloud. Think of my name and I will answer. That is the price for a second chance."
+
+Wolfie wanted to scream that she didn’t understand. She didn’t want to disappear. She didn’t want to die alone, unloved and forgotten. But who was this voice? Why now? Why her?
+
+"You already know my name. Search your soul and think of me, there isn't much time to spare."
+
+Despite the storm of fear curling through her fading mind, something inside her stirred. She didn’t understand what was happening, but she knew what she wanted.
+
+She wanted to live. Not for anyone else. Not as a servant or a thing to be used. She wanted to live for herself. To run where she chose. To be free.
+
+And somehow, in her final moments, she understood. There was only one path left, and it began with a name. Ishgria.
+
+***
+
+Administrator Z approached a pair of tall black doors. The sign above them read:  Redundancy Archives. Divinity Inc. prided itself on a veneer of subtlety, but there was little disguising what “redundancy” truly meant.
+
+The room inside was lined with rows of desks and shelves stacked high with sealed records. Behind the nearest counter slouched an angel in a gray uniform, hunched over his seat, tapping idly at a tablet.
+
+“Sixty-One,” Z said, stepping forward. “I require the most recent termination records. Include any additions following the last culling.”
+
+The young angel clicked his game shut with a sigh, swiveling in his chair to squint at her. “Seriously? You want me to pull the same files I just shoved into archives yesterday?”
+
+“Yes, that is, in fact, your responsibility.”
+
+Sixty-One groaned but slid off his chair anyway, grabbing a drink off the desk for a sip. “Yeah, yeah. You’re the boss.”
+
+Z’s gaze followed him as he shuffled toward the back. “Your attitude continues to impress."
+
+“What are you gonna do, write me up? Please. No one wants this job, so it’s not like they’ll replace me. Not worried about moving down the ladder when nobody else is climbing it.”
+
+“There are worse consequences than demotion, Sixty-One. Termination is always an option.”
+
+The angel only shrugged, snatching a ring of keys from the wall. “Don’t threaten me with a good time.”
+
+Z let his words hang for a moment, then folded her hands neatly behind her back. “If you wish to leave this department, I could draft an application for transfer. Should you demonstrate even a modest increase in professionalism, it may well succeed. You are still within your probationary period, after all.”
+
+Sixty-One froze mid-step, halfway through unlocking a side drawer. “Wait, you’d actually do that? For real?”
+
+Z inclined her head, voice calm and even. “Of course. I will send you a formal proposal by email later. Then you will not have to take me at my word alone.”
+
+For the first time, the young angel looked uncertain. His mouth opened as if to argue, but then he closed it again, shifting awkwardly. “Huh. You’re… not as bad as some of the others said.”
+
+"And what, precisely, have the others said about me?” Z asked.
+
+Sixty-One grinned and turned back toward the far end of the room. “Nice try, but I'm not falling for that.” He slipped the key into the tall double doors marked Termination Archive and pushed them open with a creak. “Come on. Let’s get this over with.”
+
+Z could have pressed, but she chose not to. Instead, she just followed.
+
+The archive stretched deep, filled with aisles of tall shelves rising on either side. Sixty-One walked briskly down the center.
+
+“And here we have the full catalogued index of all souls terminated under Divinity inc's purview. Organized first by classification, then by cycle, then by case severity."
+
+“And where, precisely, are the most recent records?” Z asked.
+
+Sixty-One stopped in his tracks, tapping his temple a few times with two fingers. “Right, right… recent cycle stuff… should be in Section Three, Row Seven, lower shelves. They always stick the newest entries down there before full indexing.”
+
+“Very well. Show me.”
+
+Sixty-One led her through the aisles again, and they soon stopped at a low shelf. He gestured lazily. “Here you go. Fresh off the presses, so to speak.”
+
+Z inclined her head. “Thank you. You may return to your desk.”
+
+“Sure thing, I’ll be up front if you need me again.”
+
+With that, Sixty-One turned and wandered back down the hall, hands shoved deep in his pockets. Z watched him go, wondering how someone like him had been hired at all. That, however, was a question for Divine Resources, and very much for another time.
+
+She let her fingers drift along the spines of the archive until they found the newest volume. Carefully, she lifted it free. It felt heavier than it should have, though she dismissed the thought and opened it.
+
+Inside, columns of names filled the pages. Z skimmed until her gaze stopped on one. Icariel.
+
+Z remembered how L had once said that Icariel’s champions might not last. At the time, Z thought his words were nothing more than one of his usual taunts, but seeing the consequences so plainly realized was very jarring.
+
+Icariel’s final champion was recorded as a timid beastkin girl from the northern reaches of Ishgria. To have someone so fragile as one’s last champion was almost a guarantee of termination.
+
+She closed the volume with care and returned it to the shelf. Z's hand reached higher, pulling down an older book.
+
+She flipped through its pages until she found the name she already expected. Just as L had said, Serapha had been erased. The first of their number to fall in this cycle of the Great Game.
+
+Z stood in silence, the book heavy in her hands. Terminations were nothing new; they had become routine across the long course of the Great Game. She had seen so many that numbness had come easier than grief.
+
+And yet, L’s words cut through that numbness, echoing sharp in her mind. “There was a time when we made the rules, Z. One day, I hope you remember that.”
+
+She replaced the record carefully, though the weight of it seemed to linger even after she let go. Serapha and Icariel were hardly the first. Each cycle of the Great Game claimed at least ten angels, often more. By now, the losses must have numbered in the hundreds. It was a figure she refused to calculate.
+
+For so long, Z had treated termination as immutable, an inevitability that could not be challenged. But not every angel had thought as she did.
+
+Z knew that L, along with a few others, still carried deep resentment toward the gods. Yet none dared to openly challenge them now. Only one angel ever had. The only one bold, or foolish, enough to fight back.
+
+In the past, Z had called her a fool. But now, she was no longer certain that defiance had been folly at all. Was I wrong… Ishgria?

@@ -1,0 +1,239 @@
+---
+id: eaf75c78-1cf4-53a2-8506-8845c68a3361
+page-type-slug: story-chapter-royal-road
+title: "74: Flying High"
+slug: 0074-74-flying-high
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 74
+ownLength: 2027
+unit: words
+publishedAt: 2025-11-23
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2786042/74-flying-high"
+royalRoadId: "2786042"
+---
+
+For a few seconds, Sabine just stared at Chloe with that unreadable expression of hers. Chloe tilted her head, confused by the look. What? It was a brain. A very important brain.
+
+Sabine eventually gave a slight tilt of her head. “What are you talking about?”
+
+Chloe clutched the scroll to her chest. “Okay, so! There’s this super special brain I got as a reward for helping Raenof with bringing him over to Vorraska. Anyway! I didn’t have time to snack on it earlier, and now feels like the perfect time for a brainy treat, right?”
+
+Sabine looked… amused. That was probably a good sign. “And what do you even get from eating brains, Chloe?”
+
+“Oh the usual, like skills and experience. Usually some fun memories too."
+
+Sabine nodded slowly. “Alright. Go ahead, then. I’ll wait until you’re done.”
+
+Chloe beamed. “Thanks!”
+
+She plopped down in the grass and unrolled the storage scroll. The air shimmered faintly as the spell activated, as a full-on earth mage corpse flopped onto the grass in front of her.
+
+Sabine, watching with mild curiosity, asked, “How exactly are you going to eat the brain?”
+
+“Oh, that’s easy. I’m just gonna crack the skull open and bite in. Do you want some? Because I’m definitely not sharing.”
+
+“No need. All the brains are yours. I was just curious.”
+
+“Cool, cool. Just makin’ sure. Gimme like... a few minutes.”
+
+Sabine stood silently nearby as Chloe got to work. There was a loud crack as she popped the top of the skull, followed by some deeply unpleasant squelching sounds.
+
+[Brain Consumed: Marcus Ruvin (Earth Mage Level 33)]
+
+[Experience Awarded]
+
+[You have leveled up! 1 >> 2]
+
+[Strength +12, Speed +10, Vitality +22, Magic +30, Resistance +8]
+
+[New Skill Acquired: Advanced Earth magic Affinity I]
+
+[New Skill Acquired: Advanced Earth magic Spell Mastery I]
+
+[1 Trait Point Awarded]
+
+Chloe sat back on the grass, licking some leftover brain goo from her fingers with a very satisfied hum. She felt amazing. Like someone had dumped a whole bucket of magic into her skull and stirred it around with a stick.
+
+The extra trait point was a nice bonus, though Chloe didn’t feel like spending it just yet. She was pretty sure she had three saved up by now, and for once, she wanted to wait a bit more before spending all the trait points. Maybe I’ll wait ‘til I have four. Then do a big upgrade all at once.
+
+Oh, and also, that was when the vision hit. Chloe saw the earth mage, standing in the middle of a wide stone circle. His arms were raised high as he hurled a massive boulder into the sky, like it weighed nothing. He looked very serious about it.
+
+Huh. I bet I could do that now too. Chloe thought.
+
+After the vision faded, Chloe got to her feet and brushed herself off, more out of habit than anything else. A little dirt never bothered her, since she came out of the dirt a whole lot of times back in the day. “Alright, Sabine! I’m ready now. Got a bunch of new stuff this time!"
+
+Sabine raised an eyebrow, then gestured toward the corpse lying on the grass. “And what are you planning to do with that?”
+
+Chloe looked at the body and shrugged. “Eh. Not much. I mean, I already scooped out the good part, so it’s kinda useless now.”
+
+“I suppose that makes sense. You are a zombie, after all. Still, I didn’t realize zombies could gain that much from eating brains.”
+
+“Wait, what do you mean?”
+
+“Most zombies gain very little from eating brains. Some bits of instinct, perhaps a little muscle memory at best. But you seem to gain quite a lot from eating brains. It's very impressive."
+
+Chloe puffed up with pride. “That’s probably because other zombies aren’t as smart as me. They just chew and groan and drool all over the place. I actually put the brain to use.”
+
+“That might be it. Makes me wonder what you’d become if you ever ate a dragon’s brain.”
+
+“Wait. Have you seen one before?!”
+
+Sabine shook her head. “No. But I’d very much like to.”
+
+“Okay, well, if you do see a dragon, you have to tell me.”
+
+“Of course. Though before that… shall we resume our little sparring session?”
+
+"Yup. I’m ready now. And this time, I’m totally gonna win.”
+
+Sabine stepped into position and lifted her chin slightly. “You’re welcome to try. But as usual, feel free to make the first move.”
+
+Chloe’s grin stretched wide. She was so gonna win this.
+
+She clapped her hands together, and a low tremor rumbled through the ground beneath her. With a deep, earthy crunch, two massive stone hands burst up from the dirt, one on each side of Sabine. They lunged inwards, ready to squish her flat.
+
+But before they could even graze her, Sabine vanished in a streak of lightning. A faint trail of crackling static hung in the air where she’d been.
+
+“How are your feet so zappy?!” Chloe yelled, spinning around. Okay. Yeah. Gonna be real hard to land a hit if she keeps zipping around like that.
+
+Sabine landed lightly a few paces away. Then, she lifted a hand and flicked her fingers.
+
+A bolt of lightning snapped toward Chloe like an angry snake. She yelped and dove out of the way, the blast charring the grass right where she’d been standing.
+
+She scrambled to her feet, narrowed her eyes, and figured it was time for another strategy. Blood magic had worked before, maybe it could work again.
+
+Chloe snapped her fingers and sent her blood magic pulsing forward. Sabine's limbs locked in place.
+
+“Gotcha!” she grinned.
+
+But Sabine didn’t even blink, even as spears of darkness erupted from her own shadow, aimed right back at her. Chloe watched them streak through the air.
+
+For a moment, she felt a jolt of triumph. Let’s see you dodge this!
+
+But just as the spears were about to hit, a surge of lightning exploded across Sabine’s body. The whole clearing lit up in a flash of crackling blue, and the shadow spears shattered on contact.
+
+Chloe’s jaw dropped. “Oh come on!”
+
+She had really thought that combo would work. Her blood and shadow magic combo should’ve been a guaranteed win move. But apparently not.
+
+Then she noticed something even weirder. Despite Chloe focusing hard on her blood magic, Sabine was still able to move. Slowly at first, but then faster. Way faster. Sparks crawled along her limbs, and her hair floated slightly, lifted by the charge building around her.
+
+“You’ve improved a lot, However…”
+
+Suddenly, Sabine vanished. Panic zipped through Chloe’s spine. Wait, what?! Where’d she—
+
+Before she could even turn, lightning slammed into her back. Chloe let out a squawk as her feet left the ground. She flew through the air and crashed headfirst into a tree. Leaves and twigs rained down on her in a soft, leafy insult to injury.
+
+She sat up, rubbing her face as sticks clung to her hair. “Ugh. Fighting you is too hard, Sabine…”
+
+Sabine walked over, her glow fading as the last of the lightning flickered out. “I’ve seen enough. I’m glad. You’ve grown much stronger.”
+
+Chloe blew a leaf off her nose. “Yeah… but I still lost.”
+
+“It’s fine, Chloe. I’m sure you’ll beat me one day.”
+
+“You think so?”
+
+“Of course. But it’ll take time.”
+
+Sabine reached down and gently brushed a leaf from Chloe’s hair. “Anyway, we should get going. Varkos is still far, and it’ll take days on foot.”
+
+Chloe perked right up and hopped to her feet. “Oh! That won’t be a problem. I can fly now!”
+
+“You can?”
+
+“Yup! Check this out."
+
+Chloe stepped forward with all the smug pride she could muster, puffed out her chest, and let her shadowy wings unfurl from her back. “Ta-da! Wings! Cool, right?”
+
+Sabine nodded, seemingly impressed. “That’s great. If that’s the case, we can just fly to Varkos, then.”
+
+"Wait. You can fly too?”
+
+"I can."
+
+Somehow, with no wings, Sabine lifted off the ground. She just gently hovered upward. She rose a few feet into the air, standing as if on invisible steps.
+
+“How’d you do that? You don’t even have wings!”
+
+“Most advanced mages don’t need them. They use mana to propel themselves through the air. Maybe your wings work differently?”
+
+Chloe scratched her head. Huh. So she’s just air-walking with magic juice?
+
+“I guess that makes sense? But hey, flying’s flying, right?”
+
+“Indeed,” Sabine said with a nod. “Come on. Let’s go.”
+
+Chloe leapt into the air, her wings flaring out behind her as she zoomed forward. But as usual, she immediately regretted everything.
+
+She shot past Sabine, flailing slightly as she tilted too far forward, then too far back, then spun sideways. “Whoa! Nope! Too fast, how do I—!”
+
+The trees below blurred. Her wings beat wildly as she tried to slow down, but she was more of a screaming blur than an elegant flier.
+
+Sabine glided up beside her with ease and caught her by the arm, gently pulling her to a stop mid-air. “Calm down, Chloe. Just relax."
+
+Chloe’s legs dangled as she floated awkwardly beside Sabine, her wings twitching. “Okay. So. Maybe I’m still kinda bad at flying.”
+
+“That’s alright. Let's start with hovering. Just focus on staying in one place.”
+
+“Hovering. Right. I can do that. Probably.”
+
+Chloe hovered awkwardly in the air. Her legs swung uselessly, her arms flailed for balance, and her wings twitched a lot.
+
+Sabine floated nearby, completely calm as Chloe wobbled like she was seconds away from flipping upside-down.
+
+“Alright, try to keep your mana flow steady and just focus on staying balanced.”
+
+Chloe adjusted her posture, and immediately tilted sideways. “Okay, well, my balance is apparently broken.”
+
+“You’re leaning too much with your arms.”
+
+“What am I supposed to do with them, then? I need them for flailing!”
+
+“Try to picture yourself just staying in the air. Don’t think about flying, just think about not moving. Keep your center still.”
+
+Sabine floated closer and placed her hands lightly on Chloe’s shoulders, adjusting her tilt. “Like this. Don’t flap your wings, just glide.”
+
+Chloe gave it a try. She hovered in place for about three whole seconds. Then she started spinning.
+
+“Whee… nope, nope, nope!” Chloe's wings flailed, caught a gust of air, and she tilted downwards again.
+
+Sabine caught her by the collar mid-fall. “Let's try again."
+
+Chloe floated back up with a tiny grumble, sulking. “Flying’s supposed to be cool. Right now it just feels like the sky is punching me.”
+
+“You’ll get the hang of it soon. I'm sure of it."
+
+"Hmm, if you say so."
+
+And, somehow, Chloe did get the hang of things. Sort of.
+
+After several more minutes of chaotic zigzags, nose-dives, mid-air panic twirls, and Chloe yelling things like “I’m doing it!” immediately followed by “No I’m not!”, she finally managed to hover in place.
+
+“Ohhhh, I think I get it now.” Chloe said.
+
+“Good,” Sabine replied, floating beside her. “Now try moving forward slowly.”
+
+Chloe narrowed her eyes and focused hard. She eased forward bit by bit, her wings flapping in controlled motions like she was sneaking through the sky. And it actually worked.
+
+“I’m doing it! Look at me! I’m flying like… like a majestic flying thing!”
+
+Sabine raised an eyebrow. “You mean like a bird?”
+
+“Ew, no. Birds are boring. I’m flying like a flying queen!"
+
+“You’re definitely something,” Sabine said, and Chloe took that as the highest compliment.
+
+After a few more loops, Chloe floated back beside Sabine with a triumphant grin plastered across her face. She could actually fly sort of properly now.
+
+Sabine nodded. “Much better. You’ve improved a lot in just a few minutes.”
+
+Chloe puffed up with pride. “Told you I’m a natural.”
+
+"Then let’s try flying all the way to Varkos.”
+
+“Oh yeah. Let’s go fly there and eat all the brains in the city.”
+
+"Chloe, we’re not going to kill everyone in the city. I trust you can control yourself, right?"
+
+“Relax, I am the bestest person to trust, like, ever."

@@ -1,0 +1,83 @@
+---
+id: 9f08a9b2-c11e-5569-95a5-6c43d3b499cb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1461 - Slithering In The Tunnels"
+slug: 0109-chapter-1461-slithering-in-the-tunnels
+partOf: chrysalis
+position: 109
+ownLength: 1056
+unit: words
+ownProgress: 1056
+publishedAt: 2024-11-27
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1926360/chapter-1461-slithering-in-the-tunnels"
+royalRoadId: "1926360"
+markedReadAt: "2026-06-29T19:47:33.950Z"
+---
+
+Zluth made his way through the cracks along with the rest of the scouts. He’d not expected to catch the giant ant, not truly, but even so, the dreadful creature had once again proven its might in evading capture.
+
+The others hadn’t believed him, not really. How it had grated on him, a Krath’lath of his own tribe, to be looked down on by the slugs of the Bulg and Lirz tribes, as if he couldn’t identify a deadly monster when he saw one. At least it had been satisfying to see the smug looks on their faces melt away as the giant insect had escaped their traps with ease.
+
+The pores along the tunnel walls were beginning to grow. Soon, they would help propel the slugs at much higher speeds through the cracks. Even now, Zluth and the other Krath were able to move quickly, compressed down to only a few inches high, accelerating faster and faster as they raced to rejoin the main force.
+
+Deep within the stone walls between the tunnels, where the heartbeat was faint and the mana a little less virulent, the Krath had hollowed out a temporary home. On the outskirts, Zluth encountered the guards, who watched him carefully as he began to expand back to his full size, their claws at the ready, acid ready to unleash.
+
+“Zluth, Krath’rath of the Slee, returning with the scouting party.”
+
+The largest leered at him, acid pooling between their needle-pointed teeth.
+
+“Little Slee,” he burbled, “you return alive? I’m surprised.”
+
+“I always return alive,” Zluth hissed, stalks extending to their greatest height, “but the same may not be said for you. I can see the ants consuming your flesh for Biomass now, guzzling your pathetic acid like water.”
+
+The larger Krath was incensed, popping and sizzling with the strength of the fury burning within.
+
+“You dare speak to the Thuuz like this?” he spat.
+
+“I speak to all fools this way, regardless of their tribe. Now get out of my way, dry-flesh.”
+
+Confident and unafraid, Zluth pushed forward, pressing the guards back. The insulted one warred with himself, eager to consume the upstart, but knowing he would be severely punished, perhaps eaten, if he did.
+
+Inside, the narrow tunnel opened up into a cavern that abounded with activity. If he were not aware of the truth, Zluth would have thought this was a booming slimeground, a thriving tribe of many Krath. Instead he saw it for what it truly was: a war camp, filled with politics and backbiting. As he slid past the newly planted moss fields, and heard the distant rumble of the blubbeasts being fed, it was easy to make out the divisions that ran through the gathered slugs.
+
+Tribe against tribe, there was little trust, little willingness to get along. The only reason these Krath were willing to remain in such close proximity at all was because of their common enemy. It was almost enough to make Zluth shake his head in despair. To think that he had been naive enough to think they would be a little more united in the face of such an affront.
+
+Every one of the Krath in the camp boiled with anger at the thought of the invaders, but that wasn’t enough to overcome their innate suspicion of each other.
+
+Truly, the most dangerous thing in the Dungeon for a Krath was their own kind. Chozth held court with the fiercest of her warriors in their own section of the cavern. They were wild, crazed slugs, deadly as any Zluth had ever seen. The Krath’lath of the Thuuz lived up to her reputation as a deadly fighter and aggressive warleader. Yet, she was more cautious than Zluth had believed she would be. In that, she showed the cunning of a true Krath.
+
+As Zluth approached their inner circle, Chozth looked up from the council of her closest allies, baring her teeth in a wicked smile.
+
+“Our scouts return, and I am most interested in what they have to say. Slaves were taken? Victims? What do you have for me, Krath’lath of the Slee?”
+
+She almost said it in a way that didn’t sound demeaning, but she was unable to suppress it entirely. Zluth looked at her, trying to read her motivations, see her inner thoughts. Chozth wasn’t that large for a Krath, smaller even than the Krath’lath of the Slee that Zluth had overthrown. Yet there was something about her. She was sleek, powerful, and exuded an air of danger about her, as if she were coiled to pounce at any moment with truly violent consequences.
+
+“We have surveyed the tunnels you requested and encountered many things, including the powerful ant monster who has crushed so many.”
+
+“Interesting. And it is dead or captured, I assume?”
+
+Her claws writhed with a deep hunger for news of conquest, and her eyes tilted into gleeful moons.
+
+Despite the danger, Zluth took a deep pleasure in reporting the opposite.
+
+“The monster proved more capable than the hunters expected. I’m afraid it evaded their attempts to capture it with ease.”
+
+Chozth moved faster than any Krath Zluth had ever seen. One moment she was distant, the next she was right in front of him, her claws poking and prodding at him as her eyes stared deep into his.
+
+“You were responsible for the hunt, Krath’lath Zluth. The failure of the expedition is yours to bear.”
+
+“Of course, I bear full responsibility for our successful reconnaissance," Zluth said smoothly, outwardly unafraid. “Though I query who is responsible when your hunters do not listen to my advice and alert their prey needlessly.”
+
+He could sense the acid burning within Chozth when she was this close to him, and it was potent. If he ate her, her flesh would melt a hole straight through him, he was sure of it.
+
+His mouth watered all the same.
+
+Silence hung heavy in the air, and Zluth, at one point, was convinced he would be devoured, but the moment passed, and he was not.
+
+“You criticise the hunters I provided you?”
+
+“Why don’t you talk to them yourself, and ask about their success?” Zluth suggested. “I warned them not to underestimate the foe, but they wouldn’t listen.”
+
+She considered him for a moment.
+
+“Then I will,” she burbled, and turned away from him.

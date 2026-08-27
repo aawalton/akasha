@@ -1,0 +1,123 @@
+---
+id: 46964b28-8255-566d-951a-04a1d1158449
+page-type-slug: story-chapter-royal-road
+title: "23 - Seafood Squadron"
+slug: 0023-23-seafood-squadron
+partOf: cat-girl-evolution
+position: 23
+ownLength: 2302
+unit: words
+publishedAt: 2025-09-14
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2599071/23-seafood-squadron"
+royalRoadId: "2599071"
+---
+
+As the seafood squadron approaches, I strategize. I do the best strategization. They don’t stand a chance against my strategy.
+
+[ That’s not- ]
+
+Shut it, Abbduction. My strategy is the best and I won’t hear otherwise.
+
+I just need them to get a bit closer. Just a few more seconds…
+
+One of the sharkdudes points forward toward the tree I’m in and they all start walking my way. That’s probably not good. But it’s not bad either. I have my strategy.
+
+They enter the range of Food Sense and start speeding up. Well, the octodudes and shark dudes do, at least. The jellywomen stop and hold up their staffs. Before each of them, a globe of water forms.
+
+[ That’s an attack spell! ]
+
+Yeah, I know, I’m not stupid. Watch this! Blink!
+
+Beams of high pressure water shoot from the floating orbs right as I teleport to the ground at the feet of the jellywomen. Immediately, I conjure my mana arms and jump between them, hitting them with a single finger Slice on each leg. Or at least that’s what I try to do. Instead of cutting into their legs though, bubbles of water appear around them, and while I pop them, they completely kill the momentum of my attack. My claws scrape past their legs weakly. Weakly is still enough to do a little bit of damage at least though. Their skin is really weak, and my mana claws are sharp enough to puncture it, even diminished as the attack is.
+
+I jump up to hit them in the head with another double claw strike, but the bubbles appear again, and again, I barely do any damage. By now, the octodudes and shark dudes have turned around and are almost here, so I turn and start running away. Fortunately, I’m still faster than them, despite being lower in level. I’m not sure whether it’s because of my Finesse being high, or because they’re sea creatures fighting on land, but they don’t really have a chance of catching up to me. The jellywomen especially don’t have a chance, and they’re actually falling behind the shark and octodudes.
+
+That gives me an idea.
+
+I intentionally slow down a bit, letting the melee attacker ones get closer to me. Right when one of the octodudes is about to catch up, I come to a hard stop and Blink backwards. This Blink leaves me right between two of the shark dudes, so I Blink again, then another time before I’m fully past the melee seafoodmen. There’s a pretty wide gap between them and the jellywomen, so I immediately sprint toward them.
+
+They prepare that same water jet attack, but with me facing them and so much tree cover to work with, I don’t even need to Blink to dodge. This is good because Blink was eating through my mana reserves. I choose one to target, and take a flying leap at her as soon as I get close enough. The defensive bubble appears again, but I pop it with my mana arm claws before landing on its face with my real claws and tearing it up with Slice. It has tentacles all over the back of its head like hair, but the front is pretty much just a smooth bulbous balloon, and it pops like the water bubbles when my claws touch it.
+
+The octodudes and shark dudes are still pretty far behind, so I turn and do the exact same thing to the second jellywoman. She doesn’t fare any better, and a second later, I’m standing on top of her unmoving form as the octodudes and shark dudes are closing in. I bite her deflated head to take her into my Stomach, then start running again, checking my System notifications as I do.
+
+[ You have defeated Medusoid, Tier 2, lvl 1! Bonus experience for defeating an enemy above your level! ]
+
+[ You have defeated Medusoid, Tier 2, lvl 1! Bonus experience for defeating an enemy above your level! ]
+
+[ Gluttonous Feral Fiery Spatial Devourer Thief House Cat, 7 → 8 ]
+
+[ +16 Power, +22 Finesse, +20 Resilience, +14 Memory, +14 Willpower, +14 Sensitivity ]
+
+[ Beginner Mana Vivitect, 3 → 4 ]
+
+[ +4 Power, +4 Finesse, +4 Resilience, +24 Memory, +24 Willpower, +20 Sensitivity ]
+
+Nice! Also, Medusoid? That’s a pretty cool name, actually. Better than Encheloid, or whatever the eel dudes are. Why are they all -oids anyway? What does it even mean? Is it another example of the System developers’ lazy naming sense?
+
+[ The developers- ]
+
+I don’t wanna hear it. I’m busy. Can’t you see that there are seafoodmen trying to kill me?
+
+Speaking of, I still haven’t used my super duper strategy yet. Maybe I won’t need to. But I really want to, so I’m gonna see if I can find an opening anyway.
+
+First though, I gotta do something about my mana. I can absorb my mana arms back into myself, so they don’t actually cost that much, but I still lose a bit whenever I move them around. And then Blink eats through my reserves really quickly, as does putting things in my Stomach. I still have a little more than half capacity, but if we take away the mana I need for my arms, I’m closer to a fifth or maybe a seventh. Maybe three sixteenths. Five thirty-seconds? Seven-
+
+[ If you’re waiting for me to comment on your increasingly specific fractions, here is my comment ]
+
+Thank you. Anyway, time for a quick mid-run snack.
+
+I use my mana arms to start scooping ambient mana into my mouth as I run. It’s not the most efficient tactic in the world, but after a couple minutes, I’m able to get about two Blinks worth of mana back, which is enough for another round of attacking. Time to implement my strategy.
+
+[ It’s not- ]
+
+Shut up!
+
+I’ve been keeping the seafoodmen close again while I run. Fortunately, they all seem to be pretty stupid. They’re just chasing me. If one of them decides to break off to get reinforcements, I might be in trouble, but they don’t. They’re just mindlessly chasing. This is still a tiny problem, because I’m a cat, and cats weren’t built for endurance, but I think I can finish this off kinda quickly if I go all out. Probably.
+
+I let them catch up a bit again, but this time when they get nice and close, I don’t stop to turn around. Instead, I take a flying leap forward before Blinking backward. I reappear right above the head of one of the octodudes, and since I was jumping forward when I teleported, my momentum keeps me going forward too quickly for it to react. I use my arms and my claws to tear its entire backside to shreds.
+
+Unlike last time I fought one of the octodudes, my stats are much higher now, and I don’t have much trouble penetrating the skin. My claws sink deep into its flesh, and Slice cuts even deeper, and when my full weight hits it, it falls to the ground, oozing blood. The others start to close in around me, so I jump forward and Blink again, appearing right above one of the shark dudes this time and repeat the process before running away again.
+
+I don’t get any kill notifications immediately, but after a few seconds of running, the octodude dies, and then a few more seconds later, the shark dude dies.
+
+Haha! See, Abby, I told you my strategy would work!
+
+[ “Teleport behind them and use Quadruple Slice™” isn’t a strategy. ]
+
+Yes it is.
+
+[ At best, it’s a tactic. What you’re doing right now, running away and picking them off one by one when they least expect is a strategy. Not that “strategy” you keep thinking about ]
+
+You’re just jealous.
+
+[ No, that’s just objectively not a strategy. A strategy is a plan of action to achieve a major or overall goal, such as hunting the entire seafood squadron. Your “Teleport behind them and use Quadruple Slice™” is a combination attack, or maybe a tactic. It is, by definition, not a strategy. ]
+
+Jealous.
+
+Anyway, my legs are kinda getting sore. I don’t want to run slow like this anymore.
+
+I put my foot on the gas and accelerate until the seafoodmen are out of sight, then I climb a tree to catch my breath and shovel some more mana into my mouth. I can hear them approaching, but now that I’ve killed almost half of them, I think I might be able to take them all out at once without any more running. That would be nice.
+
+The octodudes are the most dangerous. With their tentacles, they can attack from weird angles and from a lot of angles at once, so it’s harder to predict them. The shark dudes are big and strong, but they’re basically big, strong humans, so it’s easier to predict how they’ll move. I think that if I use my Blinks to take out the octodudes, I should be able to fight the shark dudes with just Cat-like Reflexes. Yeah, that should work.
+
+When they arrive under my tree, I’ve got about five Blinks’ worth of mana left. That should be enough. One Blink per octodude, and two for emergency use. I wait for them to get close enough that I can see what angle they’re coming from, then jump in the same direction before Blinking.
+
+I appear right behind the octodude, claws outstretched. I’ve known since I fought them the first time that the octodudes have pretty good senses and can tell when I’m using Blink, but unlike the big fishdude, they’re not quite fast enough to react in time when I Blink behind them. He tries to turn around to catch me, but with the momentum from my leap, my claws are halfway down his back before he moves much, and he falls to the ground.
+
+I repeat the same move with the next octodude, and kill him without any problems too. It’s only when I go for the third that my strategy fails me. Well, it doesn’t completely fail me, but I maybe got a little bit over-ambitious. I saw that that shark dude was pretty close to the octodude, but I figured I would be quick enough that he wouldn’t have time to react.
+
+I underestimated the shark dude. I manage to teleport behind the octodude and get my claws safely into his back, but before I can even complete the Slicing motion, I feel a sharp pain in my rear, and look back to see the shark dude’s teeth speckled with blood. My blood.
+
+Lauren reached Oakville close to sunrise. The town was completely deserted, having been evacuated in fear of the expansion of the Named monster’s territory. Lauren was pleased to find that not only was the town safe, but that the mana levels were barely beyond normal. There was no chance of dangerous monsters spawning. At least, not yet. And if the Named monster’s subordinates had been to the town, they left no signs. The town was pristine, though eerie due to its emptiness.
+
+She still checked the entire perimeter for signs of monster activity before relaxing, but after finding nothing, she gladly went to the inn and poured herself a tall mug of ale before helping herself to some of the food in the pantry. She was a bit tempted to start cooking something, but after spending so long on the road, she was far too exhausted to put any effort into cooking. She just ate some slightly stale bread and salted fish until she was full, then went upstairs to find a clean room to sleep in.
+
+She had left the horse untethered, free to leave once it had rested. She hoped it would before anything bad happened. It had been a good horse, but now that she had arrived at her destination, she couldn’t afford to be tied down. Keeping it safe and happy was more work than she could afford. She needed to scout the area, locate the Named monster, and figure out how to assassinate it.
+
+That would have to wait until the next night though. Ichthyoids were nocturnal, and it was almost morning. Plus, she was exhausted. She couldn’t work at 100% right now.
+
+She laid down in the slightly-too-firm bed, and as she drifted off to sleep, she couldn’t help but think back to the survivor testimony she had heard on her way. There had actually been about a dozen survivors from the fishing village, sent to evacuate by the village chief before the rest of the village had been wiped out. Among them was a plump woman whose name Lauren couldn’t remember.
+
+The reason she had stuck out as memorable wasn’t actually anything she had said. She had been fairly normal, begging Lauren to rescue, or at least avenge her husband and her cat. Rather, it was the way that the other survivors had reacted when she talked about the cat. None of them said anything to the plump woman’s face, but when she was gone, Lauren had overheard them theorizing that it was the cat that had caused the tragedy in the first place, and that they had known it was suspicious from the moment it first appeared.
+
+Lauren didn’t know exactly why she found that so memorable, but her intuition was usually more correct than not. There was something strange about the cat, though she wasn’t sure what that meant for her. As far as the villagers were aware, it was an ordinary cat, so it was either dead, or it had fled. Either way, Lauren would never see it. Right?

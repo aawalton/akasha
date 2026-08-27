@@ -1,0 +1,217 @@
+---
+id: 46b2e686-62d1-565c-a75c-2b1062cc5b4d
+page-type-slug: story-chapter-royal-road
+title: "88: The Trials of Chloe - I"
+slug: 0088-88-the-trials-of-chloe-i
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 88
+ownLength: 2400
+unit: words
+publishedAt: 2025-12-17
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2856106/88-the-trials-of-chloe-i"
+royalRoadId: "2856106"
+---
+
+Chloe blurted it out before she could think better of it. “I’m a zombie.”
+
+Morikhan stared at her for a moment. Then he let out a sharp exhale through his nose. “That much was obvious, I was going to scold you for being a fool… but now I see that you don’t even know what you are."
+
+“Hey, I said I’m a zombie. You know… undead, kinda squishy, very cool. What’s the problem?”
+
+“It no longer matters. Let’s skip to the point. What are you doing here, undead? Have you come to fight? Do you want to team up with the wolf girl over there and challenge me together?”
+
+“Um... maybe? I dunno if we can beat you though."
+
+Morikhan’s gaze lingered on Chloe for a moment longer than was comfortable. His massive head tilted slightly, eyes narrowing. “If nothing else, you’re certainly amusing.”
+
+Chloe blinked, unsure whether to take that as a compliment or not. “That’s... good, right?”
+
+Morikhan let out a slow exhale that might’ve been a laugh, or maybe just a wolfish version of you wish. “It’s enough to keep me from tearing you limb from limb. At least for now.”
+
+Yay? Chloe thought, forcing a smile.
+
+Morikhan’s gaze slid past her, settling on Sierra. “And you. Are you going to do anything foolish this time?”
+
+Sierra tensed, then stepped quietly behind Chloe, the movement small but full of meaning. Chloe could feel the faint warmth radiating from her back and hear the way Sierra’s breathing had gone shallow again, like she was trying not to draw attention to herself.
+
+Morikhan snorted. “I thought so.”
+
+The great wolf turned his huge body around and padded deeper into the dark. “Come. There are things I want to show you. Depending on how you react, I might even decide to let you leave.”
+
+Chloe hesitated. Just for a second. She stared at Morikhan’s back, then glanced over at Sierra. The wolf girl hadn’t moved. She looked stiff, ears twitching, shoulders drawn tight. Honestly, she didn’t look thrilled about any of this, and Chloe couldn’t really blame her.
+
+Still, Chloe figured that if she started panicking now, it’d only make things worse. Not just for her, but for Sierra too. Besides, I’ve been through worse. Probably.
+
+So, Chloe squared her shoulders, and started following Morikhan. Sierra fell in behind her a few steps later, moving with the kind of tension that said she was ready to run if anything went even slightly wrong.
+
+As they walked, Chloe’s thoughts drifted. Morikhan, supposedly, was one of those Wild Sage types Z had told her about ages ago. Except Sabine had also mentioned that his full title was Morikhan the Mad, which... felt less helpful.
+
+She squinted up at the back of the enormous wolf as he walked ahead, his thick moss-streaked fur shifting with every step. He didn’t look mad. Just very large and old, So, Chloe guessed that maybe “mad” didn’t mean angry after all. Maybe it just meant mysterious and a little extra. Still, Chloe had really thought it meant angry.
+
+Eventually, after walking for a really long time, the wolf stopped. They’d reached a circular room. The floor in the center held a massive glowing design, carved deep into the stone. Lines of greenish light pulsed gently through the runes, forming a complex pattern.
+
+Chloe stared at it, head tilted, her eyes wide with interest. No clue what it was, but it sure looked cool.
+
+She turned to Sierra. “Do you know what this thing is?”
+
+Sierra stepped closer and frowned. “It looks like... a magic circle.”
+
+“Huh. Neat. Why do you sound like that’s a problem?”
+
+Sierra didn’t get a chance to answer. Morikhan’s voice filled the chamber again. “Inside. Now.”
+
+There was no malice in his tone, but no room for argument either. Chloe shrugged, then hopped cheerfully into the circle, calling over her shoulder for Sierra to hurry up. The wolf-girl followed reluctantly, stepping over the lines like she half-expected the floor to bite.
+
+As soon as both of them were inside, a bright green light erupted from the floor, swallowing everything. Chloe shielded her eyes with both arms, but it didn’t help. The glow pressed into her vision until there was nothing else. Just light.
+
+Then, just as suddenly, the light vanished. When her eyes adjusted, Chloe found herself standing in a massive cavern. At least, she assumed it was a cavern, it stretched wider than any room she’d ever seen, with stone walls rising high into darkness. Strange metal pipes ran along the ceiling, hissing with steam. Glowing moss clung to the walls, bathing everything in sickly green light.
+
+And the people. There were so many ratfolk scurrying around that Chloe almost lost count. Some of them crawled on all fours, dragging crates that looked way too heavy for their tiny limbs, while others scribbled furiously onto scrolls like their lives depended on it. A bunch of them wore weird patchwork outfits, bits of robe, armor, string, whatever they could dig out of a dumpster probably.
+
+There were a few Luphians too. Not a lot, but enough to make the space feel even more intense. They lounged around like bosses, tossing orders without even blinking. Ratfolk rushed to obey, trembling the whole way.
+
+Chloe stared, completely still, her mouth slightly open as she tried to take it all in. This wasn’t just some spooky hallway anymore. It was a whole underground city or something. How did all of this even fit under the ground?
+
+She didn’t have long to think before Morikhan’s voice rolled in from behind. “Welcome, to the heart of the Black Maw.”
+
+Chloe looked up at the giant wolf. “Wait, you’re the boss of this whole Black Maw place?”
+
+"I am. And if I’m not mistaken, you arrived here with the leader of the Ironfang Syndicate. Did you not?”
+
+Chloe’s face twitched. That definitely didn’t sound like a good combo. She vaguely remembered Sabine saying something about the Black Maw and the Ironfang Syndicate being mortal enemies or whatever. “Uh, nope! Definitely not! I didn’t come here with anyone like that. Just, you know… regular traveling people. Nothing to see here.”
+
+“Does the name Scar ring a bell?”
+
+“Oh yeah! That guy! He seemed pretty cool—”
+
+Chloe shut her mouth halfway through the sentence. Morikhan didn’t laugh, but the pause he gave felt like one. “There you have it.”
+
+Chloe cringed. Ugh, Why did I say that out loud?
+
+Still, Morikhan didn’t sound angry. In fact, he sounded like this was all just a mild inconvenience. “I don’t particularly care who you associate with. If it wasn’t now, I would have found out eventually.”
+
+“Wait... aren’t the Black Maw and the Ironfang Syndicate, like, enemies or something?”
+
+“Many beneath me take the feud seriously. I do not.”
+
+“So what, you just let them fight it out?”
+
+“I find the conflict trivial. As long as the Syndicate doesn’t interfere with what matters to me, I see no reason to waste energy.”
+
+“Then… why’d you bring us here?”
+
+“Because I want to eat your soul.”
+
+Chloe let out a noise that could only be described as a startled squeak and dove behind Sierra like her life, her un-life depended on it. Unfortunately, Sierra had the exact same idea at the exact same time.
+
+With a synchronized yelp, the two spun in panicked circles, each trying to hide behind the other, tripping over each other. At one point, Chloe grabbed Sierra’s shoulders and tried to duck behind her again, only for Sierra to sidestep and swing Chloe around like a very confused undead shield.
+
+They finally collapsed into a tangled mess, bumping into a stone column with a loud bonk. Chloe popped her head up first, glaring as she hissed, “Hey, let me hide behind you!"
+
+Sierra, still crouched half-behind her, hissed right back. “You’re already dead! You can tank it!”
+
+“That’s not how this works!”
+
+“That’s exactly how this works!”
+
+Morikhan, who had been watching, finally spoke again. “I said I want to eat your soul. I never said I wished to do so as it is now.”
+
+Chloe froze in her half-crouch, then slowly peeled herself off Sierra. She brushed imaginary dust off her front, then looked up at the giant wolf, squinting. “Okay, gonna need you to explain that."
+
+“I am not interested in the soul of an undead,” he said, looking down on Chloe. “I want the other one. The one hiding beneath.”
+
+“What do you mean? Because I’m pretty sure I’m just me."
+
+“There is another presence inside you. I intend to draw it out.”
+
+“Okay, uh… let’s say that actually happens. You get your mystery soul, and… then what? Do we get to leave?”
+
+Morikhan’s tail flicked once. His voice was almost bored. “No.”
+
+Chloe narrowed her eyes. “But you said, depending on how I react, you might let me go.’”
+
+“I’ve changed my mind.”
+
+“Hey! You can’t do that!”
+
+“I can. I did.”
+
+“Rude!”
+
+Morikhan ignored her, because of course he did. “You will undergo a series of trials. Each one will push at the edges of what you are. If your other soul is strong enough, it will respond.”
+
+“And what if I say no? What if I say ‘nah, this sounds dumb, and also like it might hurt’? Then what?”
+
+Morikhan stepped closer as he lowered his enormous head. When his gaze met hers, Chloe realized, with growing horror, that just one of his eyes was about her entire size.
+
+“Then I will kill you. Both of you.”
+
+The words hit hard. The air itself seemed to freeze, pressing down like a physical weight. Chloe felt it in her bones, or, well, what was left of them.
+
+Sierra flinched beside her. The wolf girl took a small, shaky step back, her ears flattening tight against her head. Her hands trembled slightly, and her shoulders curled in as if she was trying to make herself even smaller.
+
+Chloe swallowed, or tried to. She didn’t exactly need to, but somehow the motion helped her think. Okay. Yep. That’s officially the scariest sentence I’ve heard all day.
+
+The worst part? He didn’t even sound angry about it. Just... honest.
+
+Chloe let out a nervous laugh and raised both hands. “Alright, alright! I’ll do your creepy soul trial thing or whatever. Just maybe don’t crush us before we even get started.”
+
+Morikhan gave the smallest nod, which somehow still managed to look condescending. “Good. Then your trials begin now.”
+
+Chloe glanced at Sierra, who still looked like she wanted to curl up in a corner and disappear. She nudged the wolf girl gently. “Hey. Worst case, we die. But, like… we still have a chance now, right?"
+
+Sierra didn’t react at all. She was still really scared, and Chloe couldn't blame her.
+
+Morikhan turned and walked off without another word, his thick tail swaying. Chloe had no choice but to follow. Sierra walked beside her, silent, her shoulders tense.
+
+As they passed through the halls, Chloe noticed the stares. Dozens of ratfolk peeked out from behind crates and tunnels, their beady eyes following her like she was some kind of fancy animal. Some scribbled things down on parchment. Others just whispered behind their paws.
+
+The Luphians were less subtle. A few leaned against walls with lazy grins, some raised brows, and that smug look people got right before they decided you weren’t worth the trouble, but maybe fun to watch explode.
+
+Chloe grinned at them and gave a little wave. “Sup.”
+
+She didn’t get a wave back. Rude.
+
+Eventually, Morikhan came to a stop before a massive circular stone door etched with faintly glowing lines. The symbols pulsed softly, casting greenish light. The whole thing looked ancient, and very, very evil.
+
+Morikhan’s head turned slightly, one glowing eye sliding toward them. His voice rumbled low, steady, and absolute. “The wolf girl stays.”
+
+Chloe blinked, processing for a second before her face scrunched up. “Wait, what? No. She’s coming too.”
+
+The giant wolf didn’t even bother looking at her again. “I wasn’t asking.”
+
+Chloe opened her mouth to argue harder, but Sierra gently touched her arm. “It’s okay, I’ll manage.”
+
+Chloe looked at her. “You sure?”
+
+Sierra gave her a small smile. “Just come back for me.”
+
+That hit harder than it should have. Chloe wasn’t really the crying type, but something about Sierra’s voice made her chest ache a little. She didn’t want to leave her behind, but...
+
+“Fine,” she muttered, shooting a glare at Morikhan’s giant furry behind. “But only because she said so.”
+
+Morikhan gave a lazy signal with his paw, and a few ratfolk scurried over to escort Sierra away. Chloe watched as they led her down another corridor, the wolf girl glancing back once with a weak smile. Chloe gave her a thumbs up and a grin she didn’t quite feel.
+
+She turned back toward the door. It was trial time.
+
+The doors groaned as they swung open, revealing a big room filled with soft green light. It wasn't bright, but it had that eerie, gentle glow that made everything feel just a little too calm.
+
+Chloe hesitated for a moment before stepping in. There wasn’t much inside, except for a big fancy mirror standing in the middle of the room.
+
+She eyed it suspiciously. It didn’t look cursed. But it was probably magical?
+
+“You will face the evil within,” Morikhan said from behind her. “This mirror will show you your deepest fears. The truths you try hardest to hide. You must confront them, or you will not pass.”
+
+Chloe gave a slow, awkward nod. “Cool, cool."
+
+She narrowed her eyes and stared into the glass. For a few seconds, it just showed her regular reflection. But then the surface shimmered like water, and the girl in the mirror didn’t quite match anymore.
+
+Her reflection smirked. It was still her same face, same boots, same perfect undead awesomeness. But this version stood with her arms folded and one eyebrow raised. There was a glint in her eye that screamed, "I know something you don’t."
+
+Even Leftie was there, perched on her shoulder like usual. Only this one somehow looked smug too, with his thumb cocked up like it was judging Chloe's life choices.
+
+“Oh hey, missed me?” Mirror Chloe purred.
+
+Chloe tilted her head. “Uh. Hi? Are you... me?”
+
+“I am. And so much more.”

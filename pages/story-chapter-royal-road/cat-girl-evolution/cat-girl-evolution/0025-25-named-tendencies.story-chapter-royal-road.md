@@ -1,0 +1,99 @@
+---
+id: 1bd66f9c-50ef-5192-bb9b-b3b4f05930dd
+page-type-slug: story-chapter-royal-road
+title: "25 - Named Tendencies"
+slug: 0025-25-named-tendencies
+partOf: cat-girl-evolution
+position: 25
+ownLength: 2185
+unit: words
+publishedAt: 2025-09-19
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2611933/25-named-tendencies"
+royalRoadId: "2611933"
+---
+
+When Lauren first saw the man, she was pleasantly surprised. She hadn’t expected to find any survivors in the area, so meeting one was pleasant. Before she called out to him though, she was wise enough to check his namecard, and the words died in her mouth.
+
+[ Skarn, Ruler of the Shore, lvl 3 ]
+
+So this is the Named monster, she thought. What is he doing out here alone during the day?
+
+The monster seemed just as surprised to see her as she was to see him. Whatever he was doing, he had evidently not been prepared for the arrival of a human. She had half a mind to attack him right there, but while he was lower level than her, he was also a Named monster, and based on his human form, likely a melee attacker. Her specialty was not head-on fighting, so it would be better if she could lower his guard and stab him in the back when he least expected it.
+
+Leader type Named were supposed to be intelligent, thinking more about the long term than the short term, and this one was no different. Any other Named would have attacked her on sight, but as she looked into his eyes, she could see him doing mental calculations on how best to handle the situation. She could work with that.
+
+“Hello, friend,” she said, trying not to let on that she knew what he was.
+
+Anyone experienced would never have fallen for that, as they would have known that she could see the namecard, but this was a monster no more than a month old, and she had caught it off guard. It wouldn’t be thinking clearly.
+
+“Hello,” he replied cautiously. “I didn’t expect to see another human around this area.”
+
+“I’m here on a mission,” she said. “A Named monster has appeared, and it’s my job to kill it. Unfortunately, I don’t have time to help survivors. If you head that way, you’ll find Oakville, and from there, you can grab some supplies and continue on to Riverfork. You should leave now. The monsters are nocturnal, so at least for now, you’ll be safe.”
+
+“A-alright,” said Skarn.
+
+He looked a little uncertain, but when Lauren turned to walk away, he did not follow. She was sure he was trying to figure out how best to make use of the information she had just told him. He would probably try to get back to his home base as quickly as possible and mount a defense to stop her. Of course, he would never get the chance.
+
+As soon as she was out of his sight, Lauren activated her stealth skills and slipped into the shadows as she doubled back toward him. As she suspected, he was swinging out and making a mad dash toward the village. Because of that, he was not at all prepared when she suddenly descended from above, slashing down with a red-hot blade.
+
+While unprepared, he had good reflexes and high stats, so he managed to bring up his arm to block her strike. It didn’t do much for him, unfortunately, and her blade cut through his arm like a hot knife through butter. The twisting of his body to move his arm, however, did allow him to partially avoid the blow. Her blade cut through his forearm, then into his shoulder, cleaving all the way through, and his arm fell to the ground in two pieces.
+
+A look of pain and fear flashed across his face, but he still leapt backward and got into a fighting stance as a trident appeared in his hand. Lauren did not engage though, and instead, darted back into the tree cover to re-enable her stealth skills. While she might have been able to kill the injured monster right then, she had seen how quickly it moved. That attack should have killed it, but it only injured it instead. Its stats were almost definitely higher than hers, so it was better to do what she specialized in than risk everything to take it out as quickly as possible.
+
+Unfortunately, this was a mistake. Shortly after she vanished again, the Named monster vanished as well. Lauren stayed on guard for a few seconds, then dropped her stealth and stared at the spot where the monster had just been.
+
+“Spatial mana…” she muttered.
+
+She walked over to where the pieces of his severed arm lay and found that it had changed. Without the influence of whatever skill granted the monster its human form, they had lost their disguise. Gone was the pale human skin and long, thin human fingers, and in its place was sleek gray scales and thick, webbed fingers, each nearly the size of Lauren’s forearm. She felt a chill run down her spine as she imagined what the actual monster itself must look like.
+
+She grabbed the arm and stashed it away in her spatial ring, then looked again toward the village with a frown. Her job had suddenly gotten a lot harder. Now, it knew she was coming. The only silver lining was that she now knew how strong it was, and she was sure she could handle it if she caught it unawares again. She just needed to find a way to infiltrate.
+
+Skarn’s Resilience was high enough that the stump of his arm was visibly healing, but a thin cloud of scarlet still billowed out into the water around him. He had been forced to use his Single-Use Homebond, and ended up back in his underwater palace. Once the adrenaline of the fight wore off, the pain of the injury came, and once he got used to that, mental clarity returned.
+
+He was in trouble. The humans had noticed him, and they had sent someone very powerful to slay him. He had been worried about this, which was why he had his subordinates slay all the other humans that had approached, but it seemed that letting those few from the village escape those weeks ago was having some consequences. For now, it seemed to be just the one human, but who knew how many more would come?
+
+He had two options: he could try to fight them all off and hold his Territory, or he could flee, and try to establish a new Territory somewhere else. The second option was safer, but he was reluctant to do it for a few reasons. First, there were consequences for abandoning his Territory. Not only would he lose the benefits that came with having a Territory, but he would be unable to claim a new Territory for an entire year. He would also lose the control he currently had over the subordinates within his Territory, meaning he would be alone.
+
+Second, why should he have to give up his Territory? He had claimed it for himself, and it was his. Besides, he thought it wasn’t impossible to defend it. That woman had been strong, but that he survived was a testament to the fact that she wasn’t actually much stronger than him, if she was stronger at all. He also could always retreat underwater, and the humans would have a hard time chasing after him.
+
+And finally, he wasn’t the only Named monster there. The System had made it abundantly clear that he was a special existence, as were all Named monsters. He might not be able to fight off all the humans on his own, but with Flarn? That evened the odds quite a bit.
+
+He glanced down at the stump of his arm, which had now stopped bleeding and had a thin layer of skin growing over it. The loss of his arm was painful and somewhat crippling, but it wasn’t debilitating. It would grow back eventually. Until then, he would just have to work around it.
+
+He sighed, then stood up from his throne. He hated to bother her so soon after giving her space and saying that she wouldn’t be bothered, but unfortunately it was an emergency. And it was an emergency that affected her too. She wouldn’t be able to live a peaceful Hermit life with humans invading. She would forgive him for bothering her again. Right?
+
+Well, whether she did or not, Skarn didn’t have a choice. Reluctantly, he swam out of his palace and toward the cave that he had reserved for her. He stopped just outside of it and leaned against the entrance.
+
+“Flarn!” he called in the gentlest voice he could manage.
+
+His voice would have sounded distorted to any humans, but he was not human, and neither was Flarn, so speech underwater was no problem. However, she still didn’t respond.
+
+She’s probably asleep, he thought.
+
+He paced outside the cave a few times, then gritted his teeth and stepped inside. It was too urgent not to wake her, unfortunately.
+
+The cave was deep, but simple, with only two paths, both leading to the same place. He swam down the wider path until he came to the main chambers at the bottom, then froze in place. She wasn’t there.
+
+“Flarn?” he called.
+
+Once again, there was no response. He swam around the entire cave, wondering if she had made a hidden side room or side tunnel, but everything was untouched. He did one final sweep as a last ditch effort, but when he once again found nothing, he pounded the wall of the cave in frustration. Flarn was gone.
+
+The life of a Named monster was a strange one. They spawned in as sapient beings with fully matured minds and unique personalities, yet they had no life experience. They had desires, but no history to drive those desires. No strong convictions beyond what their Named type came preprogrammed with. An odd middleground between the mindless monsters driven by instinct and the enlightened races driven by intellect.
+
+Flarn was no different. She was born with an intelligent mind and a strong desire to be alone, which was why she was so incredibly uncomfortable to be surrounded by hundreds, if not thousands of other monsters. Even worse was the other Named monster whose commands she was bound to follow.
+
+Ordinarily, a Hermit type Named monster would choose a territory—one much smaller than a Leader’s territory—and simply try to live in relative peace. Of course, they would judiciously slaughter anyone or anything that came too close, but if left alone, they would not cause any trouble. In fact, there were many known Named monsters who were Hermit types and whose Territories were simply considered off limits due to how dangerous and impractical raiding them would be.
+
+Flarn had never gotten the chance to be a proper Hermit. She had been under Skarn’s command from the moment she spawned, and she would remain so until either she became stronger than him, or he died. And as a mobile Leader, he would level up much more quickly than the stationary Hermit living at the center of his relatively safe Territory.
+
+That was unacceptable to her. At the very least, she wanted to live out on the edge of the Territory where she would have a chance of seeing some action. It was antithetical to the Hermit’s path to seek out conflict, but so was being subordinate to another.
+
+Ideally, she’d be able to leave the Territory entirely, but it looked like that wasn’t in the cards. As she swam away from the cave, the further she got, the harder it got to keep moving. When she reached the point where she felt she couldn’t go on much further, and then went to shore to find a place to stay. Unlike Skarn, she had yet to acquire a proper land form, so she would have preferred the water, but she feared that with most of Skarn’s subordinates being aquatic, her hunting options would be a bit more limited than on land. Then again, it was likely that no matter where she went, her options would be limited.
+
+Still, she decided to check the land first, and began walking through the woods around the outer edge of where she was allowed to move, searching for a cave or something that she could hide from the sun in. She had no luck with this, but as she moved, she did find something else. A creature nearby with enough mana that she could sense it from quite far away.
+
+She crept through the trees, ready to cast a spell at a moment’s notice, but when she saw the source of the mana, she paused. It was sitting in a tree, but it was not a bird. It was a small, furred creature with a pair of bright green eyes staring directly at her, unmoving.
+
+The cat! she thought.
+
+This was her first time seeing it, but in the few hours after she spawned, Skarn had mentioned it at least a dozen times. It was a thorn in his side, killing many of his subordinates and delaying the completion of his Leader Quests, whatever those were. If it was that powerful… wouldn’t it give her a lot of experience?

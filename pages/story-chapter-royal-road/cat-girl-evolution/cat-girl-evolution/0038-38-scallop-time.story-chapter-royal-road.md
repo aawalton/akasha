@@ -1,0 +1,195 @@
+---
+id: 2b65eddd-5b76-5f56-8ad4-2a0147d62bc1
+page-type-slug: story-chapter-royal-road
+title: "38 - Scallop Time?"
+slug: 0038-38-scallop-time
+partOf: cat-girl-evolution
+position: 38
+ownLength: 2355
+unit: words
+publishedAt: 2025-10-19
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2687941/38-scallop-time"
+royalRoadId: "2687941"
+---
+
+“I’m sorry, but we don’t have any scallops today,” says the waitress.
+
+“Why the fuck not?” I ask politely.
+
+She steps back nervously. “Th- the regular shipment didn’t come in last week. We ran out yesterday.”
+
+“Why didn’t it come in?”
+
+“I- I don’t know! I’ll go ask the manager!”
+
+The waitress scurries away as if she’s scared of me for some reason.
+
+“Yona, calm down,” says Lauren.
+
+“I am calm!” I say calmly.
+
+“Yona, calm down.”
+
+I am calm! I’m just angry that there aren’t any scallops! I waited so long for these!
+
+“You are, by definition, not calm.”
+
+Shut up, Ibbex.
+
+“I will say that this is unusual,” says Lauren. “I’ve been coming here for a couple years and they’ve never had supply issues like this.”
+
+“Somone is plotting against me.”
+
+“...Or, something’s happened to the supplier. I’m sure we’ll find out when the manager gets here.”
+
+A few seconds later, a skinny-fat middle aged man rushes over, wringing his hands and smiling in a way that makes it clear he’s trying his best to make us at ease.
+
+“Hello, ladies, I heard that there was a minor issue here.”
+
+“Yes,” I say. “Where are the scallops?”
+
+“Ah, yes, the scallops. I’m terribly sorry, but our regular supplier stopped contacting us recently. We are trying our best to regain contact with them, but we fear that something dreadful has happened. In the meantime, we are also seeking out other options, but suppliers of high quality scallops in the quantities we require are not common. We expect to have them available again by next month. If you’d like, I can write you down for a reservation where we will serve you a very fine meal at a discounted price.”
+
+“Next month?! Minion, when is next month?”
+
+“Please don’t call me that in public. And today is the third of the month.”
+
+“So I have to wait four weeks?!”
+
+“Yes.”
+
+“This is outrageous!”
+
+“I’m very sorry ma’am. We are doing our best to resolve this issue. We apologize for the inconvenience. Would you like me to make that reservation for you?”
+
+“Yes! But also, where is this supplier? I’m going to go get my scallops myself!”
+
+I stand up, and my stomach rumbles. I sit back down.
+
+“After we eat. Give me one of everything.”
+
+“E-everything, ma’am?”
+
+“Yes. Everything.”
+
+He glances at Lauren, who shrugs, then gives her own order.
+
+“I’ll take two salmons, two orders of mussels, and a sea bass.”
+
+“A-alright.”
+
+He turns to walk away, then pauses and turns back around.
+
+“Also, pardon my rudeness, but as this is a fine dining establishment, a few of the other customers were feeling… uncomfortable about your attire, and would like to politely request that you remove your head covering.”
+
+Lauren opens her mouth to say something, but I pull back my hood before she can. She told me specifically not to do this, but the hood is kind of uncomfortable on my ears and it’s also making me sweat a little, so screw her. She’s the minion, so she shouldn’t be giving orders to me.
+
+I don’t hear any gasps, because all the tables have privacy enchantments, but I do catch a few of the other guests doing it out of the corner of my eye. They’re probably wowed by my beautiful ears, as they should be. The manager is speechless as well. And he’s not moving.
+
+“I’m hungry,” I say, subtly hinting that he should go put our orders in.
+
+“R-right,” he says. “Your food will be out shortly. I once again apologize for any inconveniences.”
+
+Once he’s disappeared around a corner, I turn back to find that Lauren has her face in her hands for some reason. She’s so strange. Anyway, I just realized that I forgot to get the location of their supplier. I will have my scallops, one way or another, and there is no way I’m waiting a month.
+
+“Minion, we’re going scallop hunting when we’re done here,” I say.
+
+“What?”
+
+“We’re going to find out where the scallops are coming from, and we’re going to get them ourselves.”
+
+“Well, we have to see where the supplier is. If it’s too far away, it’ll be easier to just wait.”
+
+“Absolutely not! I have been waiting for… a while for these scallops. They’re my favorite seafood, and you told me they would be here and they’re not.”
+
+“How is that my fault?”
+
+“It’s not, but you are my minion so you are going to help me get scallops.”
+
+She sighs. “Fine, but you have to get your Adventurer’s License first.”
+
+“Why?”
+
+“You need a form of identification. As far as I know, you’re the only beastperson in the country, and you can’t just keep traveling as a cat and switching to this form for cities. Rumors will spread. People will notice. And you don’t have a shapeshifting Class, so you can’t explain it away that way.”
+
+“Well, can’t I just fake one?”
+
+“Maybe, but I’d need to do some research on what kind of Class would only have two forms.”
+
+“Then you do that.”
+
+“I will.”
+
+Actually, Abby, can you do that?
+
+“I only get access to the details of specific Classes, Species, and Professions that you have unlocked and ones that are public knowledge. Since you haven’t unlocked any shapeshifter Classes, I only have vague information on the fact that they exist and are rare.”
+
+Lame. Good thing I have a new minion to do this for me.
+
+“Yes…”
+
+“But also,” Lauren continues. “You still need a form of ID. An Adventurer’s license is the most widely recognized, and as long as you’re in good standing with the guild and have no warrants out for your arrest, you won’t have any trouble getting in anywhere. Plus, you need it to get your Quest rewards. Meaning all that money that you owe me for this meal.”
+
+“Oh yeah!”
+
+“It will be a little bit of a process, but it shouldn’t be too bad. You just need to demonstrate some abilities that align with your displayed Class, and do a couple test Dungeon runs to demonstrate your capabilities.”
+
+“Test Dungeon runs?”
+
+“You’ll enter a Dungeon with an evaluator, and they will watch you clear it. You’ll enter once solo, and once with a team after your solo abilities are determined. Before we do that though, we’ll need to go over your abilities in more detail and find a suitable disguise Class. There is zero chance of you passing as a Tier 2. I’m not even sure if you’d pass as a Tier 3. Fortunately, Classes start to get unique beyond Tier 3, so making something up will be possible, but we need to check some references to make sure that whatever we make up is possible.”
+
+“That sounds like a lot of work.”
+
+“We can get the librarian’s help. It shouldn’t take more than a few hours.”
+
+“And how long are those tests gonna take? I thought we were going to get scallops?”
+
+“Two days,” she says, holding up two fingers. “One for the solo test, and one for the team test. Usually, it would take longer, but I have some sway in the guild, so I can make them set it up faster.”
+
+“But still… That’s two whole days… Two days we could be using to look for scallops.”
+
+“Two very necessary days that will set up your disguise for the rest of your time here. By the way, some of the nicer restaurants in the bigger cities require a valid ID for entry, so if you ever want to eat food from a tier 5 or higher chef, you’ll need it.”
+
+“Ughhhh, fine.”
+
+A few minutes later, the food arrives, and unfortunately for my minion, it’s way better than her food. I guess she is an Adventurer first, chef second, but still, her cooking was the best I had ever had, and it’s still not even close to as good as this. I guess I’ll have to make her get better if she’s going to continue to be my minion though.
+
+This food though… Well, firstly, it’s obvious that they’re not using just any ordinary kind of fish. I can tell that it’s not quite as high quality as Flarn or Skarn meat, but it’s better than the fishdudes. On top of that, it’s all cooked perfectly with just the right amount of herbs and spices, and it’s all infused with mana that somehow tingles my tastebuds in all the best ways.
+
+One of everything turns out to be a little too much though. I didn’t know that was possible, but apparently, they took “everything” literally and made me every variation of each dish that they have on the menu. They had to bring out a big food cart because our table isn’t big enough for all fifty or so plates that we ordered. Their hard work is very appreciated though.
+
+Since I have to choose what to eat now and what to leave, I make sure to clean my plate of all the soupy dishes and dishes with lots of finely chopped pieces, and once I’m full, I put the leftover larger slabs of fish into my Stomach for later. One thing that’s really cool about it is that not only does my Stomach preserve the food perfectly as it is, but it was already being preserved when they brought it out. All the food is served on these really cool stasis plates that keep it frozen in time until I remove it from the plate. That means that every bite is the perfect temperature, and nothing gets overly soggy.
+
+Lauren taps out of her meal much earlier than me, and just watches as I continue eating, getting more and more amazed at my incredible eating techniques. When I finally finish, I catch her staring at my stomach—my perfectly slender and gorgeous stomach—with a very confused expression.
+
+“Minion, let’s go,” I say, standing up. “We need to save the scallops.”
+
+“Right,” she says standing up.
+
+“And leave them a good tip.”
+
+“I also need to ask where their supplier is.”
+
+“Yes. Do that. Then, let’s go to the Guild!”
+
+“The library first,” she corrects. “Then the guild.”
+
+“Whatever. Let’s go!”
+
+Guildmaster Pike stared at the letter in his hand with a frown. There was something strange happening in the world. The slaying of the Ichthyoid Named had come as excellent news, but he had just gotten a letter from a different Guild branch about yet another Named monster that had spawned. This was the seventh one in the past month or so. Named monsters weren’t exactly infrequent, but seven in a month was unheard of. What was even stranger was that so many of them seemed to resolve themselves. Even with the Ichthyioid, if Lauren’s words were to be believed, a passing beastperson had taken care of it.
+
+Despite the fact that all the Named monsters thus far had been dealt with without causing any national issues, somehow, things didn’t seem to be getting better. Only stranger.
+
+In the mountains to the north, an enormous wolf with powerful ice magic had spawned, but when the Adventurer’s Guild went to slay it, they found it already dead. They never found out what killed it, but ever since then, the weather at the peak of one of the mountains had become much worse than before, to the point that even early Platinums were struggling to bear it.
+
+In the swampy east, something similar happened with a Named alligator, but rather than its slayer going missing, he had been waiting for the adventurers. It was being kept under wraps to the public, but the slayer was a man of unknown origin who claimed to be the herald of a god, and he was currently being kept in comfortable, ignorant captivity while the Guild tried to figure out what to make of him.
+
+Similar scenes had played out at the sites of each of the other Named monsters, and now one of them seemed to have taken a turn for the worse. It was another coastal town, similar to the one destroyed by the Ichthyoids. A Named seabird spawned there, and killed dozens before being found dead on the beach with no obvious wounds. No sign of what had killed it was found. The Guild wrote it off as a mystery, and temporarily stationed a pair of high Golds to keep an eye out for what had killed it.
+
+For two weeks, they sent regular reports, but on the third, no report came. In fact, nothing seemed to be coming out of the town at all, and people were starting to notice. It was a prominent fishing town with a few notable exports, and when their regular shipments didn’t arrive, investigations began. Now, it was being declared as an emergency, and the letter that Guildmaster Pike had just received was a request for aid from any Adventurers high Gold or better.
+
+He set the letter down with a sigh, then looked up at the ceiling. Riverfork didn’t have many high Golds, and the ones it did have were constantly either out on long-term dives, or were trying to move to a city with stronger Dungeons so they could make the jump to Platinum. Lauren was in the latter group, but unfortunately for her, she was still around, unlike most of the others. It looked like he would have to rely on her again. Assuming she would even accept. But she probably had better things to do if she was partying with a beastperson who could singlehandedly slay two Named monsters, one of which was Tier 3.
+
+At least she wasn’t the only one available. According to her, the beastperson who had slain the Ichthyoid would be working with her in the future, and there were a couple other high Golds in the city. He couldn’t send them all, or else Riverfork would be undefended, but he could send about half.
+
+With another sigh, he reached into his desk and pulled out a blank piece of paper and started drafting up a Quest.

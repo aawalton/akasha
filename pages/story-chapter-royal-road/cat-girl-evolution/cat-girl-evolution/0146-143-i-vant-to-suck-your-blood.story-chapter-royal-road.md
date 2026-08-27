@@ -1,0 +1,319 @@
+---
+id: 8a0daf37-b1b0-5448-b1ae-6de04dd41d07
+page-type-slug: story-chapter-royal-road
+title: "143 - I Vant to Suck Your Blood"
+slug: 0146-143-i-vant-to-suck-your-blood
+partOf: cat-girl-evolution
+position: 146
+ownLength: 3135
+unit: words
+publishedAt: 2026-07-27
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3731286/143-i-vant-to-suck-your-blood"
+royalRoadId: "3731286"
+---
+
+I end up a little late for my second appointment of the night. Apparently, I’m getting used to the sound of the Timer Skill, and am developing some sort of resistance to it. It did not wake me up quite as fully as it should have.
+
+Also, I need to get ready. Royal Dignity might save me from bedhead and wrinkles in my clothes, but with so much paparazzi around trying to get a good look at me, there’s no way I’m wearing the same outfit for two outings in a row. That would just be silly.
+
+I spend a bit of time trying to choose an outfit, making sure to get opinions from both Lauren and the twins. Eventually, I settle on a nice, black dress that’ll go well with my new choker thing. It’s not so fancy that I’ll look out of place, but it’s nice enough to stand out.
+
+So, about half an hour after I was supposed to get there, I finally arrive at the Fruit Dragon where I’m supposed to meet Lacey. It’s surprisingly busy. Or maybe unsurprisingly, since there are so many extra people in town right now after the crisis. And when I enter, most of the heads turn to me. Since I took the time to dress up, I stand in the doorway for a few seconds, letting everyone get a good look while I look around and try to locate Lacey.
+
+Unfortunately, I fail to find her. Fortunately, I don’t actually need to, since after a few seconds, one of the tavern employees rushes over to my side.
+
+“Princess Yona?” asks a nervous-looking girl.
+
+“Yes, that’s me.”
+
+“The Guild Investigator requested that I bring you to her when you arrive. Please follow me.”
+
+She guides me through the crowded tavern to the back, where things are slightly quieter, and a few much wealthier people are sitting in semi-private booths. Actually, now that I’m paying attention, they might be fully private. I can’t hear a sound from any of them, and a couple have some kind of sight-obscuring illusion over them to keep people from seeing what’s inside.
+
+The booth I am shown is one with a sight-obscuring illusion, which explains why I couldn’t spot Lacey earlier, but once I step inside, I realize that I probably wouldn’t have spotted her even if she wasn’t obscured. She’s practically a completely different person from the one I saw earlier. First of all, she’s fully awake, and the eyebags are gone. Second, she’s swapped her guild investigator uniform out for a red dress that would make Chad blush if Lauren wore it, and her brown hair is fashionably poofy, making her look like an old-timey femme fatale.
+
+She’s leaning back against the cushions, with one arm out, and the other swirling a glass of red liquid that makes me do a double take when Food Sense sweeps over it. Despite its appearance, it is not wine. It’s human blood.
+
+“Can I get you anything to eat or drink?”
+
+“What kind of food do you have?”
+
+“Well–”
+
+“Actually, just bring me one of everything. And for drinks, just give me some water, and then some of whatever this place is best with.”
+
+“That would be our home-brewed mead, made with diluted maligar fruit,” says the attendant. “Are you sure you want one of everything?”
+
+“Yes. Everything.”
+
+“Then I will return shortly.”
+
+I nod, and she bows and leaves, and suddenly, I’m alone with Lacey.
+
+“That’s blood,” I say.
+
+“Yes,” she replies.
+
+“You’re a vampire.”
+
+“No, I just like the taste.”
+
+She takes a long sip, maintaining eye contact with me the whole time as if daring me to call her bluff.
+
+“Bullshit,” I say.
+
+“Believe what you want.”
+
+“Whose blood is it?”
+
+“A willing donor’s.”
+
+“Can I try some?”
+
+“What?”
+
+“Can I try some?”
+
+“…You want to drink the blood?”
+
+“Well, you said it tastes good, and that it came from a willing donor. Now I’m curious.”
+
+“No.”
+
+“Please?”
+
+“You show up half an hour late, don’t bother to apologize, and now you ask for some of my drink?”
+
+“I’m sorry for being late. I was taking a nap and overslept. Can I please have some blood?”
+
+“No. Do you have any idea how hard it is to get blood of this quality?”
+
+“No?”
+
+“Donating blood to strangers is very risky business. It’s outlawed around the kingdom, but if the wrong blood mage gets their hands on it, it can ruin the life of even the most powerful Adventurers. And the most powerful Adventurers are the ones most likely to have a target on their backs, and are therefore less likely to sell their blood. And even the ones who are willing to sell require absurd conditions on its use, and ask for astronomical prices. This one glass cost me more than a thousand gold, and that’s not even counting all the work I had to go through to convince the owner to sell.”
+
+“I’ll pay you back?”
+
+“No. Go find your own. And stop stalling. I do have important business to discuss with you.”
+
+“And that is…?”
+
+“The so-called Chosen One Competition.”
+
+“Ah, I see.”
+
+“It’s become clear that–”
+
+She pauses as the illusory barrier shimmers, and a moment later, the serving girl walks in, a glass mug full of amber liquid in one hand and a charcuterie board in the other. She sets both in front of me, then bows.
+
+“The rest of the food will be out shortly.”
+
+Lacey watches her leave, then speaks again.
+
+“You are paying for all this,” she says.
+
+“I know,” I say, stabbing a grape with one of my claws and popping it into my mouth.
+
+“I’ll wait until the rest has arrived to continue.”
+
+It takes about five minutes for it all to come out. I guess the chefs want to make sure the food gets to me as fresh as possible, because it all arrives one by one, instead of waiting to bring it out all at once. There are fried potato slices with cheese on top, bread rolls that remind me of pretzel, a few types of meat pies, and more. There’s actually quite a bit more than I thought there would be. They have to bring out a small folding table to fit the last of it. I also order a few more mugs of the mead, because it is delicious. The maligar fruit flavor is quite diluted, at least compared to the salsa, but it meshes perfectly with the other spices mixed in, and makes for a very pleasant experience.
+
+“So,” says Lacey after she confirms there’s no more coming. “The ‘Chosen One Competition.’”
+
+“Yeah,” I say, mouth full of cheese. “What about it?”
+
+“It’s become clear that it’s not something we can ignore. These… ‘Chosen One Candidates’ are not all dangerous, but when just one can erase a city, and multiple have done exactly that, we can’t afford to take any of them lightly.”
+
+“Are you guys gonna put more restrictions on me?”
+
+“Some were in favor of it, but Arianne rejected it. You have had many opportunities to cause trouble, but you have remained relatively benevolent, and you have resolved major incidents with two other candidates independently. We feel that there is no need to restrict you, and that doing so is more likely to produce the opposite of the intended effect.”
+
+“Smart.”
+
+“But, we would like to work with you. We want to curb any potential… incidents. And that starts with identifying and locating as many of these candidates as possible. The other candidate we have working with us recently informed us of something called the First Event, where they were able to see the names of other candidates as part of some kind of bounty system. Have you also had access to this?”
+
+“Yeah. But I’m already done with it. Joakim was my Target, and I killed him, so I already passed.”
+
+“But did you see the Names of any other candidates before that?”
+
+“Oh yeah.”
+
+“What were they?”
+
+“Uhhhh…”
+
+Abby!
+
+“Aryan, the Harem King, Daniel, the Island Dancer, and Aleksandr, Child of Winter.”
+
+I repeat the names to Lacey, who nods and takes another long sip of her blood. The blood smells good. Even over all the other smells coming from the table, I can pick it out, and it’s very strong. And there’s a lot of mana contained in it. Clearly, whoever donated it was very high level.
+
+I really want to try some.
+
+“We already knew about Aryan, but the other two Names are new. Thank you.”
+
+“What other Names do you have?”
+
+“It has been decided that we are not going to give out that information to the candidates, regardless of how friendly they are.”
+
+“Why not?”
+
+“Because this Chosen One Competition seems designed to create conflict, and at the level you and the others are by now, such conflict would be very destructive in populated areas. We understand it’s not possible to prevent every meeting, but we’re not going to facilitate it either.”
+
+“Fair enough.”
+
+I don’t actually care that much, anyway. Not if they didn’t know about Aleksandr, at least.
+
+“At the same time, we will not be interfering too heavily in the competition. We would rather not anger the gods too much. If we have valid justification, such as for a case like Joakim’s, or Joshua’s, we will step in, but otherwise, it will be up to you and the other candidates to handle things.”
+
+“Makes sense.”
+
+“If you have any other information–”
+
+She suddenly cuts off and her face twists into an expression of anger. Her glass suddenly, mysteriously became empty, while my mouth mysteriously became full. I was leaning back when I used Snatch, and since it’s one of the “of the Glutton” Skills, my mouth was a very valid location to Snatch it to.
+
+The flavor is surprisingly complex. There’s the normal, coppery base flavor, but it’s also got a rich, savory side to it, as well as some more subtle undertones. Most surprisingly, it’s got a bit of an electric kick. Literally. I can feel tiny, almost microscopic shocks that make my whole mouth pleasantly tingle.
+
+Before I can even swallow, my whole body suddenly freezes. I can feel her mana seeping into me, filling my veins and preventing me from moving. I try to resist, but to no avail, and even Snatch won’t get her mana out of my body.
+
+“You little–” she starts angrily, leaning forward with a hand out. “I’ve killed for less.”
+
+I don’t respond because I can’t.
+
+“If you do that again, I’m going to take your tongue. And don’t think you’ll be able to regrow it. Blood magic can do some nasty things to your ability to heal. Understand?”
+
+Her mana leaves my head. Allowing me to swallow the blood, and also nod in response. Then, the mana leaves me entirely and she leans back, summoning a crystal vial and a new glass from some kind of spatial storage and pouring it for herself. I massage my arms, suddenly very grateful for my ability to move them independently while she brings the new glass to her lips, still staring at me as if daring me to do it again.
+
+But I am not stupid. I have learned my lesson. I will not steal her blood again.
+
+It was worth it, though.
+
+“Sorry,” I say.
+
+“You owe me,” she said. “I already told you how hard it was to get that. And I won’t just accept a bit of gold for it.”
+
+“Can I pay you back with some of my blood?”
+
+She tilts her head and twirls her finger in her hair as she thinks.
+
+“I’m actually pretty delicious, I’ll have you know,” I add.
+
+“Give me a taste,” she says. “We’ll see if your blood is worth anything.”
+
+“Are you gonna bite my neck?”
+
+“No? Why would I do that?”
+
+“Isn’t that what vampires do?”
+
+“Just cut your arm and let some blood out into this.”
+
+She summons another glass and levitates it across the table toward me. I set it in front of me and extend a claw toward my wrist, but stop when she speaks again.
+
+“Are you sure about this? I am a master blood mage. I could ruin your life with this.”
+
+“…You raise a good point. I want a contract.”
+
+A scroll appears next to her and floats toward me. I grab it out of the air, and unfurl it to reveal a terrifyingly long legal document full of big words that I don’t want to think about.
+
+Abby, is this contract safe?
+
+“One moment… Yes. This is perhaps the single safest contract in the world. There are so many protections for the blood donor that it feels like a lawyer made this as satire, rather than for intended use. If she uses your blood for anything other than drinking, all the blood you donate will be destroyed, and she will die. And that includes giving the blood to someone else. Your blood is actually safer with her than in your own body.”
+
+Wow. Really? Are you sure?
+
+“Yes.”
+
+Sure enough that you think I should give her some?
+
+“Yes, especially if it helps you avoid a debt to her.”
+
+Alright. Bet.
+
+“Do you have a–?” I start, but before I finish, a pen is already floating over toward me.
+
+I sign the contract, then toss it back to her, and she signs it as well, and then I continue slitting my wrist to fill let some blood into the glass. Barely any gets out before my natural healing closes the wound, but she did ask for just a taste.
+
+As soon as the blood stops flowing, the glass floats back to her, and she goes full sommelier in her preparation to drink it. She takes a gentle sniff, then holds it up to the light to see the color. She swirls it around a few times, then takes another sniff. Only then does she take a sip, and it is the smallest of small sips. Barely any blood actually gets into her mouth before she pulls back, setting the glass down as she leans back and closes her eyes.
+
+For almost a full minute, she sits like that, absorbing the flavor, apparently, and then she goes back for a second, longer sip. She sits in silence for another minute, then drains the rest of the glass, looking at me.
+
+“Three bottles,” she says. “Three bottles and I’ll consider your debt repaid.”
+
+“Done.”
+
+“I’ll make it two if you gain some weight first.”
+
+“What?”
+
+“Based on the flavor of your blood, I think that higher fat content will enhance it.”
+
+“…Vampires are weird. But I can actually do that just right at the end of this meal.”
+
+“You have Adipose Reserves?”
+
+“Yeah.”
+
+“Perfect.”
+
+“Cool. So that’s settled, then?”
+
+“I wasn’t joking about taking your tongue. Don’t you dare try that again.”
+
+“Okay, okay. Also, can I have that glass. I wanna try some of my blood too.”
+
+She gives me a look as though it’s a strange request, but she sends the glass back over to me, and I repeat my wrist-slitting maneuver before taking a taste. I don’t go quite as far as her with testing the flavor, but I do take my time making sure I get a proper feel for the flavor. Unfortunately, I don’t taste quite as good as the other blood she had, but I’m still pretty dame delicious.
+
+I think I can use this. If I use some Yona Flesh™ and maybe some extra Yona Lard™ and then add some Yona Blood™, I think I could make some pretty tasty Yona Blood Sausages™.
+
+Abby, write that down!
+
+“If I could refuse, I would. It is done.”
+
+Excellent!
+
+“Now, back to the topic at hand…” says Lacey.
+
+She goes on to interrogate me about everything else I know about the Chosen One Competition, which isn’t actually much. I do expose Buttercup, though. I mean, she didn’t tell me not to, so it’s really her fault. If she didn’t want to get exposed she should have been such a… Well, it’s her fault.
+
+Lacey seems mildly disappointed, but not really surprised, and at the end, she just sighs.
+
+“Well, thank you for your cooperation,” she says. “Now, finish up so we can settle this debt.”
+
+“Yes, ma’am.”
+
+Half an hour later, most of the food on the tables is in my lowercase -s stomach, and the rest is in my extradimensional one, and contrary to my usual MO, I was not secretly siphoning off all the fat that built up from my eating. Instead, I let it sit there, getting slightly flabby so that the weird vampire can have her preferred blood flavor.
+
+When it’s time to fill the bottles, she produces an extremely suspicious looking device that’s supposed to stab into my leg and siphon my blood directly from my femoral artery into a bottle. She fills up her two, then I ask her to fill a third for me. The stingy vampire charges me for the bottle and the service, but it’s not too much, so I ask for two.
+
+Each bottle filled leaves me light-headed, but she has some kind of buffing Skill to help me replenish blood more quickly, so even after filling four bottles, by the time she’s done healing me, I feel totally fine.
+
+“Well, if that’s all, I guess I’m gonna head back,” I say.
+
+“Please do,” says Lacey.
+
+“Hey, that’s rude.”
+
+“So is stealing someone’s drink.”
+
+“Touché. Well, bye. See you later?”
+
+“Unless you cause trouble, no, we will not see each other again. Goodbye.”
+
+“Does that mean I’m allowed to leave the city? No more questions?”
+
+“No, you’re free to go. Now leave.”
+
+“Bye!”
+
+When I emerge from the booth, there are a few people waiting to talk to me, asking questions about what happened in the Dungeon. I actually stick around to bask in my popularity, answering a few random questions before teleporting away and heading back to the inn.
+
+When I get back, Chad is up and carving something from the Maligar wood, the twins are tinkering with something that might be the soul bond they’re trying to copy from Annie, and Lauren is asleep on the couch. Her book is still in her hand, and her hair is falling down over her face, and there’s a bit of drool hanging from her lip that Chad seems to find very distracting. There’s also a blanket on her that definitely wasn’t there when I left. She looks very cozy.
+
+…
+
+I shake her awake, making her start, and sit straight up, reaching for her knife.
+
+“Wha–? Yona? What’s going on?”
+
+“I vant to suck your blood!”

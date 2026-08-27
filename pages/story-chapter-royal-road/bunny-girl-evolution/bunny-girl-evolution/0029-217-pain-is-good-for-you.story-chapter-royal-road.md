@@ -1,0 +1,159 @@
+---
+id: f885fa08-865a-50f6-8374-d882d266d958
+page-type-slug: story-chapter-royal-road
+title: "217 - Pain is Good for You"
+slug: 0029-217-pain-is-good-for-you
+partOf: bunny-girl-evolution
+position: 29
+ownLength: 2574
+unit: words
+publishedAt: 2026-08-22
+link: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution/chapter/3846924/217-pain-is-good-for-you"
+royalRoadId: "3846924"
+---
+
+When Elise woke, she found herself wrapped in a cocoon of webbing with a shirt over it for some reason. Charlotte’s spider maw right beside her face, its acidic fangs just inches away from Elise’s skin, but she was too drowsy to be scared. She just blinked a few times, then looked further up to find Charlotte asleep, snoring lightly with her arms crossed and her head hanging down.
+
+Huh, so that’s how she sleeps, thought Elise.
+
+Her mind was still fuzzy, so she stared for a little bit until it started to clear and she became aware of a dull throbbing pain. It wasn’t crippling, and she didn’t know how to alleviate it, but it was there, like someone was hitting her very existence with a mallet. When she wasn’t paying attention, it felt like it was coming from somewhere behind her navel, but when she tried to focus and pinpoint the exact location, it seemed to move around, defying all attempts to assign a physical location to it. It didn’t hurt quite as much as it had when she teleported here, but it didn’t feel like it had recovered that much either.
+
+She focused harder on it, trying to sense anything other than the pain, to see if her risky experiment had worked. She… kind of could? There was definitely something there. She couldn’t make out any details, but it wasn’t just pain. The pain had a source, and she had a vague idea of what the source felt like. That was all.
+
+She was slightly disappointed, but much more relieved. She would have felt very stupid if she had nearly gotten herself killed, only for it to be a waste of time. It had given her a better idea of how to sense her soul from the outside, so it wasn’t pointless, though she definitely wouldn’t be going quite that far in the future.
+
+After a few more minutes of futilely fumbling around for her soul, she gave up, and instead entered soul meditation so she could get a better picture of the damage. From the inside, it didn’t look that bad. Everything was a little disheveled, but otherwise intact, and a little tidying would have everything looking good as new. When she went to the edge of her soul, though…
+
+Like before, the System web seemed to have provided much-needed support to keep her soul intact, but beyond the System web, the edges of her soul were ravaged. It was pockmarked with what looked like miniature craters, and a few long gashes. None of them made it all the way through, but a few of them had gotten about halfway through. And somewhat oddly, they weren’t concentrated in any one part of her soul. As she flew around the perimeter, the damage seemed to be fairly uniform all around. It didn’t really make sense, but souls didn’t really make sense in general sometimes, so she didn’t think too hard about it.
+
+All the damage was healing at a visible pace, with the craters and gashes filling back in as she watched, but it was a slow process. At the rate it was going, it would be at least another day before it was back to normal, and she suspected that she would be in pain that whole time.
+
+At least that gives me more time to try to sense my soul…
+
+She exited her soul, and now that she was more awake, she finally took a better look at her surroundings. She was in Charlotte’s bedroom on a bed of moss. The web she was wrapped in was snug, but not too tight, and it was soft and cool against her skin, like a silk blanket.
+
+Wait…
+
+Elise looked down at the oversized shirt covering the thread on her torso, and then looked to her right where she saw her usual clothes folded up in a neat pile. She sighed in exasperation, then slowly sat up. The thread unraveled around her, falling away as she willed herself not to be bound. Charlotte stirred when she moved, but did not wake up.
+
+Elise let the thread fall away as she got out of the moss bed and quickly put her clothes back on. Why Charlotte had taken them off, she didn’t know, but it was clearly nothing sinister. The webbing had definitely been doing something to her. Healing, maybe? It was still an odd experience.
+
+When she was fully clothed, she glanced at the window, only just then realizing that it was the middle of the night. What did that mean for how long she had been out? It was definitely daytime when she got there. How many hours had it been? How many days had it been?
+
+Will I be able to go back?
+
+She summoned the return scroll, tempted to tear it right there, just in case she was on the verge of running out of time. She ultimately put it back in Astrid’s Star, though. If it was night time, that meant it had been some increment of half a day. The return scroll anchor was supposed to last for a minimum of three, so even if it had been two and a half days, she had time, and if it had been three and a half or more, it was already too late.
+
+Also, judging by the pain in her soul, it couldn’t have been that long. Her soul had been in pain when she arrived, but it was mostly exhaustion and dizziness that knocked her out, rather than the pain. Her soul didn’t actually hurt that much less than before, and based on the rate it was healing, it had probably only been half a day or so. Unless her soul had been more damaged than she thought…
+
+The best way to find out was just to ask Charlotte, though, so after depositing the scroll, Elise walked back to her spider friend and gently shook her shoulder. Charlotte murmured something about shirts, but didn’t wake up, so Elise shook her harder and her head snapped up with a gasp.
+
+“Elise!” she exclaimed as soon as she saw who had woken her.
+
+Before Elise could react, she had been pulled into yet another crushing hug. She idly considered slipping away with her Rune of Fate, but decided to just let it play out. Charlotte was getting slightly better at hugs, and she was only suffocating a little bit now and her ribs didn’t feel like they were in danger.
+
+“Are you okay?” asked Charlottte, finally putting Elise back down after a good ten seconds.
+
+“Yes, much better,” said Elise.
+
+Charlotte beamed. “I use healer web!”
+
+“Ah, so the web did have healing magic.”
+
+“Yes!”
+
+“When did you learn to do that?”
+
+“Tyral says I always can, but I didn’t know. I have {Magic Web} Skill and I can make my web have healing magic.”
+
+“That’s very useful.”
+
+“Mhmm!” said Charlotte proudly.
+
+“How long have I been asleep?”
+
+“All day!”
+
+“A full day? Or just ever since you found me.”
+
+“Since I found you.”
+
+Elise nodded, relieved. So it hadn’t even been a day yet. That meant she had another day before she had to head back, which would give her soul time to recover. It would also give her a peaceful environment where she could try to sense it better while not needing to worry about attacks and further soul damage.
+
+“Are you really okay?” asked Charlotte. “You were pained, but I checked and you had no hurts.”
+
+“Injuries,” said Elise. “No injuries. And yes, it was a– a soul injury.”
+
+“A soul injury?”
+
+“It’s hard to explain. But that’s why you need to practice with your soul. If you don’t you’ll end up like that, or worse.”
+
+Charlotte nodded seriously. “Are you going back?”
+
+“Not yet,” said Elise. “Tomorrow night. Today, I’m just going to relax.”
+
+“Yay! Okay, I make food now!”
+
+She slipped past Elise, sprinting through the widened doorway to head to the kitchen. Elise giggled, then followed behind to join her in cooking up some venison. Charlotte had improved greatly as a chef in the past few weeks, though that wasn’t saying much, considering where she had started. Still, she was able to work smoothly with Elise to make two very passable steaks, which they took over to the dining table, along with a much larger plate of raw meat for Charlotte’s lower half.
+
+Eating with Charlotte was awkward to say the least, because while Charlotte was learning manners and how to eat properly above the table, Elise had to ignore the slurping and smacking sounds coming from below. She couldn’t even say anything about it like she could with Charlotte’s normal manners, since that wasn’t something she could help. Elise could give pointers on eating with her human arms and mouth, but the spider half was full monster.
+
+After eating, Elise spent a couple hours helping Charlotte with her speech, teaching her some new words, and helping to correct some of her grammar, and then after that, they spent most of the day meditating. Well, Elise did. Charlotte kept falling asleep.
+
+Elise didn’t make much progress in sensing her soul, though she was pleased to note that as the day went on, she could still feel it well, even as the pain faded. It was still only a vague sensation, but it was definitely there, and now that she knew what her soul currently looked like from the inside, she felt like she could kind of feel the damage. That might have just been her seeing what she wanted to see, though.
+
+Between meditation and napping sessions, she and Charlotte chatted, drank tea, and ate more food. Charlotte seemed motivated to learn how to control her soul better, but Elise could also tell that she didn’t quite have the attention span for prolonged meditation. She tried to give guidance as best she could, helping Charlotte master her own soul realm, but she could tell it was going to be a very long process to get her to the point where she could take the young spider into the caverns with her. A long process that would have to involve a lot of dreamwalking, if she wanted to keep helping Charlotte. Her scrolls were too limited for her to visit so often.
+
+When the sun set, and night came again, Charlotte did not try to convince Elise to take her along this time.
+
+“I’m gonna get strong,” she announced. “I will protect you.”
+
+“I’m sure you will,” said Elise, smiling at her. “I’ll visit you again soon, but invisibly. I’ll dreamwalk to you, so we’ll be able to talk, even if I can’t come back here myself.”
+
+Charlotte nodded excitedly. “I’m gonna learn to dreamwalk too.”
+
+“That would be nice,” said Elise. “Just keep practicing with your soul, and you’ll be able to do it soon too.”
+
+“Be safe, Elise.”
+
+“I will,” said Elise. “You be safe too.”
+
+“I will be the safer.”
+
+“Safest,” Elise corrected. “It’s been fun. I’ll see you soon.”
+
+“Bye-bye.”
+
+Elise waved at Charlotte, then summoned the return scroll and tore it in two, reappearing in the cavern a second later. She was in the basement inside her root shelter, right where she had been when she teleported out. It was much more cramped than it had been, since she had made it the right size for her base form to rest comfortably, and while her human form wasn’t that much bigger, it was not shaped properly for such a space.
+
+She promptly changed back to her base form, and hopped back out through the opening. When she emerged from the ancient house, there was an Abyssal Crawler waiting for her in the dried-up pond. It tried to attack her the second she appeared, but she froze it in place with a word, then wrapped it up with roots, suspending it aboveground.
+
+Well, at least I’ve got a training partner.
+
+A week passed quickly as Elise delved right back into her soul training. Between messing with the more advanced aether pulses, shoring up her defenses against the soul storms, and trying to get a proper sense for her soul, her days were as full as could be.
+
+She never tried to fully tank the soul storm again—she had learned her lesson the first time—but she did try her best to take the first few waves each time before going into her soul and defending against the rest. It hurt, and kept her in a constant state of mild pain and discomfort, but it was worth it, because it also kept her constantly passively aware of her soul, even when she wasn’t in meditation, and that seemed to help just as much as actively sensing her soul.
+
+She also started connecting to the System a bit more often, and using aether-based Skills while focusing on her soul so that she could get a sense of how it moved. That helped just as much as the constant pain, and felt way better, but even so, she still felt like she was missing something.
+
+According to everything she knew about souls, she felt like she should have been able to do more already. The mind moved the soul, and her mind was already connected quite closely. She had broken that barrier down long ago when Irylax was teaching her soul meditation. The connection already existed. She could sense her soul’s existence passively. There was just something else getting in the way for some reason.
+
+Eight days after she returned from Charlotte’s house, it finally clicked, and she almost didn’t notice.
+
+She had been practicing aether pulses again on a captive rat, but after a while, it just got boring. Her progress when it came to aether pulses was minimal, and it would remain that way until she figured out her soul sense properly. She practiced every day just to make sure she didn’t get rusty, but her heart wasn’t in it.
+
+She opened her eyes and stood up, extending her legs backward to do a long stretch, and at the same time, in her soul, her soul form remained perfectly still, as if it was asleep. She turned from her raised stone table, hopping down and heading toward the cave entrance. She was feeling thirsty, so she wanted to get some water from the boiling river with her {Mana Barrier}. At her mental command, her soul form started to move again, floating to the edge of her soul and latching onto the web before going back to its unconscious state.
+
+Then, right as she reached the wall of roots at the entrance of the cave, she froze.
+
+Wait a second…
+
+She focused on her soul form, feeling its unconscious state. She took control of it, making it do a pirouette midair, then do the splits, and all the while, she was still consciously in the outside world.
+
+I did it?
+
+Still in disbelief, she spent the next five minutes triple checking, but everything she tried confirmed it worked. She could sense her soul, both inside and out, without meditation.
+
+I did it!
+
+She literally jumped for joy, and made her soul form do the same, springing off the system web and spreading her arms. How it happened, she had no idea, but it had, and now she could finally move on with her soul lessons, and that was all that really mattered.

@@ -1,0 +1,179 @@
+---
+id: 1f3d97da-dfd8-5aa3-8efe-997699eb3bf3
+page-type-slug: story-chapter-royal-road
+title: "98 - Party Time!"
+slug: 0099-98-party-time
+partOf: cat-girl-evolution
+position: 99
+ownLength: 2596
+unit: words
+publishedAt: 2026-03-09
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3132039/98-party-time"
+royalRoadId: "3132039"
+---
+
+When I get back to the house, Lauren is in the middle of making something that she seems to need some intense focus for. So much focus, in fact, that she doesn’t notice when I jump up on the counter nearby to watch. She’s got a pot of soup cooking, and while it looks like she’s just stirring in slow circles, I can sense that there’s also a lot of very complex mana things happening inside. She’s very carefully controlling the mana levels in each and every ingredient, even as they get jostled around by the spoon, and somehow, the way she’s stirring makes it so that all the ingredients mix evenly.
+
+I watch, mesmerized, until she finishes, turning off the burner and stepping back with a satisfied smile. Then, I walk up and eat the pot, sending it straight into my Stomach. She looks first surprised, then angry, then exasperated, then defeated, and then she sighs.
+
+“Here to join me for some cooking?” she asks.
+
+“Nope!” I say. “Actually, I came to tell you that my Evolution finally finalized, so I can upgrade my Class properly now.”
+
+“Oh,” she says. “That’s great!”
+
+“Let’s go into a Dungeon.”
+
+“Okay, just let me get ready,” she says, brushing her hands on her apron. “Go get the others. There’s enough time left today to finish this up and then we should be able to leave for Maligar tomorrow.”
+
+“Hooray!”
+
+Chad and the twins are both busy with their Professions too when I get to them, but unlike Lauren, they don’t need to finish to stop. They each pretty much stop right where they are and start getting ready, and fifteen minutes later, we’re all out the door and on our way to the Guild.
+
+We register me with their Party, then head toward the outskirts of the city where our Dungeon of choice is located. Unlike the one on the beach, this one is actually properly housed, with a nice marble pavilion built around it, and the bottom of the entrance is at ground level instead of hovering in the air.
+
+Sadly, this Dungeon is probably also the least delicious of all the ones near Doralak. There are others that I would have rather gone to, but they’re too far away for us to finish up in just one night, and I’m not going back into that mussel Dungeon. So, we’re stuck with a lame bird Dungeon.
+
+Now, I’m not a particularly picky eater, but to me, poultry has always been a vastly inferior type of meat to just about anything else. I like a good chicken dish, but if you gave me the choice between a chicken dish, and a dish of just about any other kind of meat, I would choose the non-chicken option. And this Dungeon isn’t even proper poultry. It’s eagles. And as interested as I am to try eagle, my expectations are not high.
+
+The Dungeon is yet another tower Dungeon, though it’s not in a cave like the previous ones were. I know Abby said it was possible, but it’s still weird to be in something called a “Dungeon” and be able to see open sky all around. Unlike the other Tower Dungeons I’ve been in, this one has a series of floating islands with sketchy wooden bridges connecting them, rather than a series of rooms with tunnels connecting them. The principle is still the same, though.
+
+As we speedrun the first two floors, I realize that Abby was probably right about not wanting to make my personal Dungeon a Tower Dungeon. Even if these eagles were the best meat I’ve ever had—they’re not—this is just too much. With the first two Floors alone, we killed more than a hundred, and they’re all bigger than me.
+
+Their meat tastes fine. It’s way better than any mundane meat, but I’m afraid that my tastebuds have evolved to the point where mundane meat no longer satisfies me, and when I compare this meat to Menyar, or even just the regular boars, it just doesn’t compare. I’m sure it would taste fine cooked, too, but that’s all. Just fine.
+
+The disappointment of the meat, and the ease with which we clear the first two Floors makes the Dungeon a bit boring in the beginning, but starting on the third Floor, things get a bit more interesting. The eagles which were basically just strong and fast before suddenly gain wind magic, which makes everything way trickier, and when we encounter the first bunch, we finally have our first chance to fight together as a Party.
+
+We’ve discussed Party tactics quite a bit over the last month. And by that, I mean that Laruen has lectured me on Party tactics quite a bit over the last month. Regardless, I know roughly what I need to do, and we talked about how when my Species finally finished, we’d use that final Dungeon dive as a way to practice with that before heading on to Maligar. Lauren actually wanted to do a lot more practice with that, but I was impatient and shot her down. She fought back against getting shot down, and eventually, we agreed that we would see how this dive went, and if I did well enough, we could just go straight to Maligar.
+
+Naturally, I perform perfectly. It’s not really that hard. Chad is our frontline. He’s big, strong, durable, and has a taunt Skill that makes the enemies focus on him. His attack power isn’t the greatest, but it really doesn’t need to be. Just having A behind him makes his lack of attack power a non-issue, not to mention me and Lauren.
+
+Behind Chad, A uses her single-minded focus on offensive magic to absolutely decimate the eagles attacking Chad. She keeps her spells aimed more or less directly in front of her, doing her best to finish the ones that Chad wounds and stop the ones that try to pick him up and carry him off.
+
+Lauren mostly keeps to the shadowy sidelines, and in the chaos of battle, I barely actually notice her. Food Sense doesn’t work on shadows, and she moves quickly enough that it’s easy to miss her. The most obvious sign that she’s around is that occasionally, eagles will fall out of the sky with their heads cut off and the wound cauterized already.
+
+Like Lauren, I generally stick to the edges, teleporting around and cutting the eagles to pieces with my claws and sword. It’s actually harder than I expected, since the eagles all have wind magic, so wherever I go, I’m constantly being buffeted by powerful gusts, and there’s always a wind blade coming at me from somewhere that I have to dodge or block.
+
+Throughout all of this, B keeps her eye on the battle as a whole, placing barriers wherever they would be most useful. Whenever the eagles try to build up momentum for dive-bombing attacks on Chad, they find themselves crashing into barriers. One of them even died to a particularly strong barrier that both stopped it, and reflected the kinetic energy back, shattering its spine.
+
+The first flock of eagles we face is dead not even thirty seconds after the fight starts, and when Lauren emerges from the shadows, she gives me an approving nod. I give her a smirk in response. Did she really think that I, the Chosen One, would be so incompetent that I would mess up something so simple?
+
+Unfortunately, even after all the slaughter, I still haven’t gained even a single level, so we have to keep moving. The next island doesn’t grant me a level either, but the one after that does, bringing me to 29. The boss room of the Floor—which is just a bigger floating island—also gives me a level, though unfortunately, it’s in my Race. I guess that Infiltrator Quest must have put me pretty close to the threshold.
+
+As soon as we appear in the fourth Floor I can feel that this one is different. And by that, I mean that the air literally feels different. It’s all tingly, and it smells like it’s about to rain. When I turn to Lauren, I realize why, and immediately burst out in laughter. She stifles a laugh as well, and then a second later, she looks over at the twins, and can no longer hold it in. Chad joins in a moment later, and the twins do their best to keep straight faces, but I can tell their are amused too.
+
+All of our hair is sticking straight out due to what is apparently immense static electricity. Lauren has shoulder-length hair tied back in a ponytail, but the ponytail looks more like a black dandelion with the way the hair is sticking out everywhere. My own hair isn’t much longer, but it’s loose, and when I raise my hand to feel it, I can tell it basically looks like a thin afro right now. The twins, however, have their hair growing down almost to their waists, so with the static electricity, they look like silver peacocks.
+
+Unfortunately, the fun ends a few seconds later when B casts a spell that puts a mana mesh over each of our bodies, which kills the static electricity somehow. It’s almost skintight, but it’s intangible, and it doesn’t even feel that strong, but I guess it doesn’t need to be that strong to block a little static.
+
+With that settled, we take a look around, and notice that beyond the static electricity and the smell, there are a few more differences between this Floor and the previous ones. The other ones had blue skies, and a few clouds, but this one looks like it has a storm brewing on the horizon. Or maybe a miniature hurricane. In the distance, I can see a giant swirling mass of dark storm clouds, and it’s raining hard enough that I can’t see the islands beyond a certain point.
+
+“Damn, this sucks. I hate rain.”
+
+“It does look a little trickier than the other Floors,” says Lauren. “This looks like a lightning eagle Floor though I didn’t realize the storm would be this big.”
+
+“No, it’s definitely too big,” says A.
+
+“At least for the fourth Floor,” adds B.
+
+I narrow my eyes in the direction of the storm. I vaguely remember Lauren going over the basics of this Dungeon before we entered. The enemies are always eagles, and the first two Floors don’t have any elements, but every Floor after will have an element, and it’s randomized for each Party. This is clearly a lightning Floor, which is supposed to have a storm in the middle surrounding the boss, but I think A and B are right. That looks too big.
+
+“It’s probably the Dungeon targeting you again.”
+
+Why would it–? Ohhhh… Right…
+
+“Yeah, that’s really weird,” I say. “I wonder what could be causing it.”
+
+“Well, it’s not unheard of for a Dungeon to arbitrarily raise the difficulty for certain Parties,” says A.
+
+“Usually, that’s only done to Parties that it believes are trying to harm it, though,” says B. “Which I don’t believe we have given any indication that we are trying to do.”
+
+“I have heard about that,” says Lauren. “When I was at the Academy, I was told that you should never try to destroy a Dungeon, because it will try to destroy you back, and if you do manage to succeed, then every other Dungeon from then onward will also try to destroy you back. You get a Title or something for destroying a Dungeon.”
+
+“Yes, Dungeon Destroyer,” says A, nodding. “But I assume you don’t have it, correct?”
+
+“Right,” says Lauren.
+
+“And we don’t have it either,” says B.
+
+“I don’t,” says Chad.
+
+“And Yona hasn’t had an opportunity to earn it,” says Lauren. “I think.”
+
+She gives me a pointed look, which makes me laugh nervously.
+
+“Yona…” she says.
+
+“Okay, fine, I have it.”
+
+All four of the others sigh.
+
+“I assume you got it before we met?” asks Lauren.
+
+“No, I actually got it on the way to Ryantown.”
+
+“You what?”
+
+“It was a really weak Dungeon!” I say defensively. “And it was stupid! The core itself was acting as the boss monster! I had no choice!”
+
+“You found a wild Dungeon on the way to Ryantown?” asks A.
+
+“Yeah, it was hidden underground. It just had a bunch of Tier 0 rabbits and a Tier 1 flying rabbit. I already ate that one, but I still have some of the little ones. See?”
+
+I summon one of the small, white, horned rabbits from my Stomach to show them.
+
+“Interesting,” says B, rubbing her chin. “And you said that the core itself was acting as the boss monster?”
+
+“Yeah,” I say. “So even if I wanted to, I couldn’t have gotten out without destroying it.”
+
+“‘Even if you wanted to,’” Lauren repeats. “So you did want to destroy it?”
+
+“Well, yeah, I wanted to see what the Dungeon Core tasted like.”
+
+Lauren sighs, then walks over to me and puts a hand on my shoulder.
+
+“Yona, if you ever find something like that again, under no circumstances should you destroy it.”
+
+“Got it.”
+
+“I’m serious,” she says. “Even a weak Dungeon like that can be nurtured and grown. That could have become a city. I get that you had no choice that time, but no more eating Dungeon Cores.”
+
+“Alright, fine,” I say.
+
+Heheh, she doesn’t know that I can already eat a Dungeon Core whenever I want.
+
+“Gross.”
+
+“Anyway, we do have a problem on our hands,” says A.
+
+“Now we know that the Dungeon is after us, and that it has raised the difficulty of the Floor,” says B.
+
+“The previous Floors were easy, but we were still fighting Tier 4 monsters. And not only will these ones be stronger by default, but that boss monster will be tricky.”
+
+“We wouldn’t be surprised if it’s a Named Disaster.”
+
+“A Named Disaster?” I say.
+
+“That’s not a good thing, Yona,” says Lauren. “I know you were able to kill the one in the boar forest on your own, but this will be Tier 4, and each tier is exponentially more powerful than the last. Even though you yourself have evolved too, a Disaster going up a Tier is very different than you going up a Tier.”
+
+I think back to my own Disaster type Evolution options. Their stats were all absurd. Two or three times as many total stat points as the other types. And if this is an additional entire Tier more powerful than Menyar…
+
+Then again, Disasters are also stupid. And as much as I am indifferent to poultry, Tier 4 Named poultry is a whole other story. It should be fine.
+
+“I think we can take it.”
+
+“Well, we’ll have to,” says Lauren. “Because otherwise we’re stuck here.”
+
+“It’s not guaranteed to be a Named Disaster,” says A.
+
+“It could always just be an increase in the stage hazard,” adds B.
+
+“We just brought it up so that we could prepare for the worst.”
+
+“It’s most likely not, because that would be such an enormous jump in difficulty that even for a Dungeon angry about a Dungeon Destroyer Title, it borders on implausible.”
+
+“But we still need to prepare in case it is,” finishes Lauren.
+
+The others all nod, and for a few seconds, we’re all quiet. Then, I start walking toward the nearest bridge.
+
+“Well, no point in waiting around,” I say. “Let’s go kill us a Named monster.”

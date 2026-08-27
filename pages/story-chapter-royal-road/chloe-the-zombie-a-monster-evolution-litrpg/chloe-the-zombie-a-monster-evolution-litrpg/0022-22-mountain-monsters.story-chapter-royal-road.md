@@ -1,0 +1,161 @@
+---
+id: 56760c28-45b6-5e46-8607-bd312d54c446
+page-type-slug: story-chapter-royal-road
+title: "22: Mountain Monsters"
+slug: 0022-22-mountain-monsters
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 22
+ownLength: 2298
+unit: words
+publishedAt: 2025-09-02
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2568379/22-mountain-monsters"
+royalRoadId: "2568379"
+---
+
+Chloe had been climbing the Splitrock Mountains for a couple of days now. The sky had gone dark and bright and dark again more times than she cared to count. If nothing else, whoever named this place had nailed it.
+
+The whole mountain looked like someone had blown it up and then walked off without cleaning the mess. Massive stone slabs jutted out of the ground at all the wrong angles, and every step crunched on loose gravel that tried to kill her a little.
+
+And the wind? Total menace.
+
+It kept whipping her hair into her mouth and trying to shove her off the trail whenever she got too close to the edge. Which, if she was being honest, happened a lot.
+
+Still, the journey had been pretty quiet. No monsters, no bandits, not much of anything worthwhile really. Chloe also still had all her stuff, and a few wobbly extras, courtesy of Jim.
+
+She’d really wanted to take his legs too, but those stubborn things just wouldn’t fit in her bag. Even the hands had been tough to pack. First, they wouldn’t stop leaking, which was super inconsiderate, so she had to clean them up, wrap the arms, and then fold the fingers just to make everything fit.
+
+Chloe had thought about using the storage scroll for a second. It would’ve made everything way easier, until she remembered what Ray said about those things being single-use. So yeah, never mind. That little magic scroll was staying tucked away for something really important.
+
+Shame about the legs, though. She could’ve used them. Chloe will just have to be extra careful out here. At least nobody could keep her disarmed for long.
+
+Anyway, the real problem was finding Luther. That wasn’t going to be easy.
+
+All Chloe really knew was that he was somewhere near the top of the mountain, and the map she’d bought from that shopkeeper Ray recommended was a total scam. Sure, it showed where Splitrock Mountain was, but it didn’t say a single thing about actually climbing the thing. She was seriously starting to doubt if maps were even worth the coin. Either way, the climb was going to take a while.
+
+There was a good chance Luther would be long gone by the time she actually reached the top, but sitting around waiting for that scholar Baron Willy promised wasn't an option either. Climbing this mountain sounded way more fun. Besides, if luck was on her side, maybe she’d still catch Luther before he got away.
+
+Chloe kept walking, humming a tune that didn’t have a name and probably never would. The melody bounced along with her steps as the trail curved higher. She stopped when she spotted a strange rock near the edge of the path.
+
+It was dark gray with a shiny glint running through it. Tilting her head, she gave it a playful tap with the toe of her boot, then crouched for a better look. Maybe it was some kind of mountain crystal?
+
+Chloe poked it with a stick she’d found nearby. It didn’t explode, which was a little disappointing. Still, she crouched down and tried to pry the shiny bit loose with her fingers. Turned out, it was stuck a lot firmer than she expected. After a bit of tugging, scratching, and one half-hearted attempt to bite it free, she gave up and dusted off her hands.
+
+A few steps later, Chloe spotted a patch of moss clinging to the side of a cracked boulder. It was pale green with fuzzy orange tips, and looked suspiciously alive in a way plants shouldn’t. She reached out and gave it a little prod with her finger.
+
+Should I try eating this? Hmm, maybe not. Looks a bit weird now that I think about it.
+
+Further up the trail, her boot crunched down on something that wasn’t gravel. She looked down and frowned at the small, sun-bleached bone half-buried in the dust. It looked like a finger. Or maybe a toe.
+
+She crouched down again and plucked the shard from the dirt, holding it between two fingers. It looked pretty neat, shiny in a rough sort of way.
+
+Chloe was just about to keep moving when the sound hit her. A deep, distant BOOM rolled through the air, then another, heavier than the last. The ground gave the tiniest shiver under her boots, like the mountain itself was flinching. Whatever was making that noise wasn’t just angry, it sounded like something big enough to throw a tantrum with its entire body.
+
+She crouched low and followed the sound as the booming grew louder. It echoed across the cliffs in slow, bone-deep thuds, like someone was trying to crack the mountain in half with their face.
+
+Creeping around a massive boulder, she peeked over the edge of a wide basin carved into the rock. Her eyes widened.
+
+Two large beasts loomed in the center of the clearing. Each one was about the same size as Baron Willy's wagon.
+
+Except these creatures were packed with dense muscle, hidden beneath a hide that looked more like weathered stone than flesh. Cracks and jagged ridges ran across their bodies, with patches of moss clinging to the rough surfaces.
+
+From their broad skulls jutted a pair of massive horns, each one spiraling outward. Their edges shimmered faintly, with dull metallic streaks running along the curves.
+
+Thick, armored legs ended in hooves the size of boulders, each step pounding into the earth with a deep, resonant crack that sent tiny fractures racing through the rock. Their breaths came in slow, steaming bursts from flared nostrils.
+
+Chloe froze, eyes going wide with a mix of awe and fear. These had to be the Stonebreaker Goats Ray warned her about.
+
+Both Stonebreaker Goats stared each other down, hooves digging into the dirt. Then, with a bellowing roar, they charged.
+
+The impact shook the ground. Chloe flinched as a wave of dust exploded upward and pebbles jumped around her feet. The goats backed up, snorted, and slammed into each other again. Then again. And again.
+
+Around the clearing, smaller stone-skinned goats watched from the edges in absolute silence. A few stomped or tossed their heads, like they were cheering.
+
+Her face lit up as an idea sparked. She scrambled a little higher and plopped herself onto a flat rock, legs swinging as she grinned wide. This was peak entertainment.
+
+The battle below kept going, the two beasts circling, snorting, and crashing together with enough force to shake loose dust from the cliff walls. Finally, after one especially brutal smash, one of them stumbled, swayed, and let out a low, rumbling grunt. It turned and lumbered away in defeat.
+
+The winner raised its head high and let out a proud, echoing huff. Chloe clapped from her perch, grinning wide. That was sooo cool! If I had one of those guys, I could ride it straight through a wall. I’d name it Crumbles. Or maybe Mister Bashalot.
+
+But slowly, the victorious goat turned. So did another one. Then another. Their glowing eyes all angled upward… right toward her.
+
+Chloe blinked. “Wait. Are you guys... looking at me?”
+
+The goats didn’t move, just stared. But then Chloe felt something.
+
+A sound. A rumble from underneath her. She looked down. Uh oh.
+
+Chloe wasn’t sitting on a rock. She was sitting on something breathing.
+
+A low groan came from below, and the stone beneath her shifted slightly, rising just enough for her feet to lift off the ground. “Oh no no no no no—”
+
+The "rock" she’d been sitting on started to move, and a low little groan rose up from beneath her. A short, horned head peeked out from one side. Its legs stretched out, stubby and thick, and it blinked sleepily up at her with rocky little eyes.
+
+Chloe gasped. “OH MY GOSH. You’re so cute!”
+
+She immediately flopped onto her stomach and draped herself across the creature. “Hi there, little stony nugget! Look at your weird little goat face! You’re so chunky!”
+
+The Stonebreaker Goat gave a sleepy snort and shifted slightly under her weight. Chloe just giggled and scratched behind its horn. You’re officially my new favorite mountain thing.
+
+She gave it a few affectionate pats, completely oblivious to the tense silence hanging in the air. In a few seconds, somewhere behind her, one of the big goats stomped.
+
+Chloe looked up. The adult goats weren’t just staring anymore. They were walking towards her, and none of them looked happy.
+
+Their heads were lowered. And their eyes? Yeah, those weren’t admiration eyes. Those were murder eyes.
+
+Chloe blinked as the realization hit her. So, maybe this little one was their friend. Which meant the big scary goats probably thought she was squashing it, or worse, trying to hurt it.
+
+She slowly raised both hands and gave the nearest big goat an awkward smile, trying to look as non threatening as possible. “I was just petting the little guy, I swear!”
+
+Backing away from the baby goat, Chloe did her best impression of someone innocent and harmless. Unfortunately, the goats weren’t buying it. Their hooves slammed against the ground in warning, and then they charged.
+
+Chloe started to panic. Of course the big goats were charging. Why wouldn’t they?
+
+She spun on her heel and ran like her life depended on it. And to be fair, it kind of did.
+
+Behind her, the sound of hooves thundered across the stone, louder and closer by the second. She risked a glance over her shoulder, eyes wide with panic. The goats were gaining. Fast. Too fast.
+
+Seriously?! You’re not allowed to be fast! That’s not fair!
+
+Despite the fear clawing at her brain, Chloe’s eyes locked onto an opening between two massive rocks, a narrow crack in the stone, just wide enough for her to slip through. There! That’s a hole! Holes mean hiding!
+
+She didn’t slow down. Didn’t think. Just ran faster.
+
+Mid-sprint, Chloe yanked her backpack to her chest, hugging it tight as her boots pounded the ground. With a yell that was equal parts panic and exhilaration, she launched herself straight at the gap.
+
+The world tilted. The rock vanished under her feet. She dropped.
+
+Stone scraped past her shoulders as she tumbled down a smooth chute, twisting and turning through the dark. Dust flew into her face. Chloe's limbs flailed as her backpack slammed into her ribs.
+
+With a jarring thump, she hit bottom and landed in a heap, letting out a loud, undignified grunt. Whew, made it.
+
+She stayed put for a second, blinking up at the ceiling with dust in her hair and one boot twisted in a direction her foot definitely shouldn't have been.
+
+If there was ever a lesson to take from this, it was simple: sitting on mysterious vibrating rocks? Terrible choice. Especially when that rock had a whole bunch of big, angry friends.
+
+With a groan, Chloe pushed herself upright and gave herself a quick pat down. To her surprise, everything was still where it belonged. Backpack? Strapped on tight. Sword? Snug in its sheath. Daggers? Both accounted for. Storage scroll? Uncrumpled and safe. Best of all, Jim’s arms were still wrapped up nice and cozy inside her pack, right where she’d left them.
+
+She brushed the dust off her cloak and took in her surroundings. The chamber was quiet and dim, the only light coming from clusters of bluish crystals sprouting from the stone walls.
+
+Chloe was definitely in a cave, which felt like both a win and a kinda not. Bad news first: she had absolutely no clue how to get out. Not even a little. Good news? Luther was supposed to be hiding in some cave, so hey, maybe she was already close. That counted as progress, right?
+
+Now all she had to do was figure out where to—
+
+All of a sudden, a piercing shriek tore through the cavern, sharp enough to rattle her bones. Chloe froze, eyes wide as her stomach dropped. That sound was the absolute opposite of good.
+
+Her body locked up for half a second before survival instinct kicked in. She whipped her head toward the far end of the chamber, where a wide tunnel yawned like a waiting throat. Another shriek echoed out, even closer now.
+
+Without hesitation, Chloe grabbed her pack, yanked the straps tight across her chest, and dove behind the nearest rock pillar. Time to pretend to be a rock and hope things work out. Yeah. I'm a rock now. I'm a rock, I'm a rock. I'm a rock.
+
+Heavy claws scraped against stone. Then it stepped into view.
+
+The thing that emerged from the tunnel was truly monstrous. Bat-like wings clung to its sides, the membrane stretched thin and veined, pulsing faintly with each breath.
+
+It stood nearly twice the height of a grown man, its lanky, sinewed frame built more like a predator starved for too long. Its skin was a mottled, grayish-black, thin and leathery, stretched taut over the cords of muscle that rippled beneath. Every rib showed through, as if the creature’s own body hated the idea of softness.
+
+Its arms were too long, nearly reaching the ground even when standing fully upright. Each ended in hooked talons the length of a sword, curved like blades.
+
+The creature paused, nostrils flaring as it sniffed the air with short, sharp breaths. Its lip curled, exposing rows of sharp teeth. Then it took a step forward, talons scraping the ground.
+
+The creature paused near her hiding spot. Its nose flared again. It sniffed once. Twice. Then its head slowly turned her way.
+
+Alright. Think, Chloe. How do I deal with it? Do I fight it? Try to distract it then run away? Throw snacks? Wait… do I have snacks?

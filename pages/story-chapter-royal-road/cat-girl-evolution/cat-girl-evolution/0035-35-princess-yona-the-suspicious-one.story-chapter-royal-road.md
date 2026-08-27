@@ -1,0 +1,243 @@
+---
+id: 2d3de0a1-cf4a-5d8b-90f3-1de00d625ae4
+page-type-slug: story-chapter-royal-road
+title: "35 - Princess Yona, the Suspicious One"
+slug: 0035-35-princess-yona-the-suspicious-one
+partOf: cat-girl-evolution
+position: 35
+ownLength: 2600
+unit: words
+publishedAt: 2025-10-12
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2670099/35-princess-yona-the-suspicious-one"
+royalRoadId: "2670099"
+---
+
+Nothing about Yona made any sense. Her background, her Class, her Skills, her lack of Profession, her name, her appearance, her appetite… None of it. But Lauren was really struggling to figure out which part of it was a lie.
+
+After the namecard slip-up earlier, she had gotten Yona’s true Class name, and it was confusing. The Vivitect Class line was a well-known forbidden Class line, so Lauren knew that Wannabe Vivitect was only a Tier 2 Class. That meant that when Yona said she was Tier 3 earlier, she was lying. However, it also made her abilities make much less sense.
+
+No matter how Lauren thought about it, there was no way that Yona should have been able to slay two Named monsters. Her stats shouldn’t have been anywhere near high enough. There was the possibility that maybe the Soul Weapon had done most of the work, but after subtly observing the cat woman for a few hours now, Lauren was certain that wasn’t right. Yona’s stats were that high. It was obvious from her movements that her Finesse was well into the thousands, which shouldn’t have been possible with a Tier 2 Mage Class and no Profession.
+
+That left two options: either she was lying about not having a Profession, and actually had an incredibly high-level Profession, or her Species was powerful. The first option was unlikely, since she seemed genuinely interested in learning cooking, and Lauren didn’t see Yona as a very good liar. The other option was impossible, because Species wasn’t powerful enough to make up the difference between her Class’s theoretical stats and her actual stats.
+
+Of course, that was assuming she was one of the Enlightened Races.
+
+There was something that had been nagging at the back of Lauren’s mind ever since they first met though. When she was on her way to the village, she had come across some of the survivors. A plump woman among them had asked her to look for her pet, a black cat with green eyes named Yona. The other villagers thought this very same cat was cursed.
+
+Now, here Lauren was, travelling with a beastperson of the cat variety who had black hair and green eyes and was named Yona. Coincidence? It was seeming less and less likely.
+
+The question now was what the hell was Yona? Had she really been a cat before, or was that just a disguise? Was she a monster? Or just an Enlightened race with a high tier shapeshifting Class? Why was she here? If she was powerful, why didn’t she slay the Named monsters before they wiped out the village? If she wasn’t, how did she get so strong in such a short time? Was Yona a Named monster herself?
+
+Lauren glanced at Yona who was walking beside her, lightly humming. Yona was certainly naive enough to be a newly-evolved Named monster. But from their conversations, she also seemed to have too many memories to have been an ordinary cat just a few weeks prior. She talked about servants and being a princess and different kinds of food that she shouldn’t have had any way to know about as a cat.
+
+The longer she thought about it, the more impossible the idea seemed. There was no way Yona was a monster. There was a famous book about Named monsters written by an eccentric researcher who had found a few cooperative Hermit types to directly interview. It was universally true that monsters that evolved into Named monsters didn’t remember much from before. So if Yona had really been a cat a few weeks ago, she wouldn’t be able to bluff this well with her limited memories.
+
+That meant she was either an older Named monster, or an older Enlightened Race with a shapeshifting ability. If it was the latter, Lauren would need to figure out why. If it was the former, Lauren would need to find a way to eliminate her. But how would she do it? It wasn’t like she could just ask Yona, right?
+
+Lauren looked at Yona again. No, she could definitely just ask. Yona didn’t seem the subtle type at all. The only problem with that was if Yona said yes, she might kill Lauren to silence her, and Lauren was certain that she wasn’t strong enough to defeat Yona, and probably wasn’t fast enough to run away. Maybe she could bluff her way to safety though. Yona didn’t seem to have a clue how the world was supposed to work.
+
+They walked for another few minutes as Lauren mulled it over. If Yona was a Named monster, taking her to a populated area was way too risky. Who knew what kind of havoc she might wreak? Especially if she was a Disaster type. She clearly wasn’t a Leader and she probably wasn’t a Hermit, leaving Disaster as the only other option. Bringing one of those into a city would be… Well it would be a disaster. And Lauren did have one charge left in her emergency long distance communication device…
+
+If I die, it will be for a good cause, she thought with a sigh as she reached into her pocket to put her hand on the communication device and pre-loaded the message.
+
+She still hesitated for another minute before finally stopping. Yona walked a few meters further before she also stopped.
+
+“What is it?” asked Yona.
+
+“Before I say anything else, if I die, an emergency signal will be sent to the Adventurer’s Guild and it will contain a brief snapshot of my final moments.”
+
+It was a bluff, but it had a sliver of truth to it. Hopefully, Lauren would be fast enough to send the message if Yona did decide to attack.
+
+“Why are you telling me this?” Yona said, narrowing her eyes.
+
+“Yona… I know that you’re a Named monster.”
+
+Aw, man. Do I have to kill her now? I was really hoping for another underling.
+
+“Yes, killing her would be the wisest option. You can always pick a new disguise after waiting out the cooldown.”
+
+That’s annoying.
+
+“How’d you know?” I ask.
+
+“I didn’t until just now.”
+
+“Ah. Whoops. You got me.”
+
+“You have two options,” says Lauren. “One. Kill me, and make your existence known to the world. You’ll be hunted down and killed by Adventurers far stronger than me. Two. Surrender for capture. You’ll be taken in by the Mage’s Tower and researched. It might be painful, but you’ll at least get to live.”
+
+“Lauren, why’d you have to do this? We could have been friends.”
+
+“I can’t let a Disaster type Named monster into a populated area.”
+
+“Disaster type? I’m not a Disaster type. If I was a Disaster type, I’d be all like ‘Rah! Rah! I’m gonna eat everything!’ Do I look like a Disaster to you?”
+
+Abby, do I look like a Disaster?
+
+“To me and the other System workers, yes.”
+
+Shut up.
+
+“Then if you’re a Hermit, why don’t you go back to your home, and we can go our separate ways? Peaceful Hermits are let be.”
+
+“I’m not a Hermit though. I wouldn’t be with you if I was a Hermit.”
+
+Lauren looks confused.
+
+“You’re clearly not a Leader.”
+
+“Well, you got that one right.”
+
+“Then what are you?”
+
+Wait, I think I see a way that I can make this work. She’s clearly a reasonable person. Maybe if I tell her the truth, we can work this out.
+
+“What truth?”
+
+“Lauren, I have a secret,” I say. “A great big secret. Maybe the biggest secret ever. But for the sake of friendship, I’ll tell you.”
+
+“What is it?” she asks suspiciously.
+
+“I… am the Chosen One.”
+
+“What?”
+
+“I know it’s hard to believe, but I am. I used to be a human once. I was a princess! I had servants at my beck and call. They brought me whatever I wanted whenever I wanted it. Food, clothes, more servants, and… other princessly things. Then, my nasty brother decided he was jealous of my beauty and grace and poisoned my food. My beautiful Alaskan scallops! I was eating like normal, and then suddenly, I died.”
+
+I give a dramatic pause to let the tragedy sink in before continuing.
+
+“But, even in death, my radiance was obvious! The gods decided that I was too incredible to let die, so they brought me back to life! As a cat! And it was then that I realized that a cat is what I was always meant to be. I had a good life. Unlimited food, unlimited belly rubs, and unlimited naps!
+
+“Then, everything changed when the seafoodmen attacked.
+
+“They killed everyone. My new family, my neighbors, and even Old Man Jenson, who in retrospect was a pretty swell guy aside from his weird leg spasms that always seemed to happen when I was next to his feet. They trapped me on an island and forced me to fight and eat them. It was a… terrible and very difficult time for me. I had no choice but to kill and grow, lest they kill me in return.”
+
+Another dramatic pause.
+
+“Fortunately, the gods chose well!” I say, raising my fist to the air. “After all, the Chosen One would not fall so easily! I fought hard, and I grew, and I evolved, and eventually, I got my revenge.”
+
+I close my eyes and look down, as if giving a moment of silence, then open them and look her in the eyes. She looks speechless, no doubt moved by my story. Time to really drive the point home.
+
+“So, while yes, I may be a Named monster, I am also Princess Yona, the Chosen One. And I am definitely not a Disaster. That Evolution option sucked. It said it would give me ‘ever-growing hunger’ and that I would never be sated. Can you imagine that? The best part about eating a bunch is that full feeling afterwards when you need to lay down for a nap to help digest. I would lose out on that!
+
+“I am not a Disaster, and I’m definitely not gonna kill a bunch of people once I get to a town. I just want to live a comfy life with good food and lots of naps. Is that too much to ask for?”
+
+She still looks speechless. Perfect. Perhaps she will be so moved that she’ll pledge herself to me. That would solve all my issues.
+
+“I highly doubt that will happen.”
+
+Great! That means it will definitely happen now!
+
+“...Dammit, I shouldn’t have said that.”
+
+I wait a few more seconds, staring at Lauren before she finally speaks. Unfortunately, she doesn’t fall to her knees with tears in her eyes, but she doesn’t look scared of me anymore, which is an improvement, probably.
+
+“So let me get this straight,” she says. “You were a princess of an Enlightened Race, then the gods decided to reincarnate you as a cat, after which you fought and killed the Ichthyoids until you evolved into… whatever you are right now?”
+
+“A beautiful, dignified princess, yes,” I say. “Before I was tragically murdered by my brother.”
+
+“Right… And you were the princess of this Rush-uh place?”
+
+“I was from Russia, yes.”
+
+“And where is Russia?”
+
+“On another world.”
+
+“Another world?”
+
+“Well, I’m pretty sure there was no magic where I came from, so probably.”
+
+“I see.” She pauses. “And why should I believe you? How do I know you’re not a Disaster trying to convince me to bring you to the city?”
+
+“Well, I’m obviously not a Disaster.”
+
+“But you say you’re also not a Hermit or a Leader. So what are you then?”
+
+“An Infiltrator. Duh.”
+
+“A- an Infiltrator?”
+
+“Yeah. The other kind of Named monster. Did you not know about them?”
+
+“There’s a fourth type?”
+
+“Huh, I guess all the other Infiltrators must be really good at their jobs then.”
+
+“That’s… concerning,” said Lauren, rubbing her chin. “Still, why should I believe you?”
+
+Abby, is there any way to prove that I’m telling the truth?
+
+“Are you sure you want to? You’ve told her quite a bit. It would be safer to kill her.”
+
+She makes good food. I want to keep her.
+
+“There are other people who also make good food. Better food, even.”
+
+True… But Lauren is right here, and they are not. And if Lauren trusts me, then I can have an accomplice to help me. I don't even know how she figured me out–
+
+"I have a few guesses."
+
+–so she can help me hide. Besides, like you said, I can always just change my form later. If she betrays me, I kill her, run away, come back with a new form and a new name, and voila! Problem solved!
+
+“Well, if that’s what you want, you can just show her your Statu- your Royal Status Window.”
+
+All of it? Aren’t I supposed to hide Gluttony?
+
+“You can just show down to the Titles. That will also prove your reincarnation story.”
+
+“I will show you my Royal Status Window,” I tell Lauren.
+
+“Do it then,” she replies.
+
+Abby, how do I do it?
+
+“The same way you do anything else with the System. Mentally command it.”
+
+Right. Show Lauren my Royal Status Window, but only down to the Titles!
+
+[ Are you sure you would like to share your Status Window? Sharing your Status Window with those you don’t trust can have severe consequences. ]
+
+[ Yes ] [ No ]
+
+Yes. I’ll just kill her later if she’s not trustworthy.
+
+[ Currently sharing Status Window ]
+
+I look up to see Lauren staring blankly at the air in front of her. Looks like it’s working.
+
+[ Another user would like to view the details of your Species, Yona, the Gastronome. Grant permission? ]
+
+[ Yes ] [ No ]
+
+Y-
+
+“That would reveal your Gluttony Trait.”
+
+Just kidding. No.
+
+[ The other user’s request has been denied ]
+
+[ Another user would like to view the details of your Title, Second Lifer. Grant permission? ]
+
+[ Yes ] [ No ]
+
+Abby?
+
+“That one is safe.”
+
+Yes!
+
+Lauren looks over the invisible screens in front of her with a frown. She sends a few more information requests that I grant or deny as needed. The most important one ends up being the Named Title, which actually includes which type of Named I am so that I don’t have to show my Species. Then, she looks up at me with an expression of deep contemplation.
+
+“I don’t know of any Skills or Traits that let you fake a Status Window,” she starts slowly. “So let’s say I believe you. What now? What do you want? What are your goals? And what will you do with me?”
+
+“I already told you, I want to eat good food and nap a lot. And as for what I’m going to do with you… Well, now it’s my turn to give you two options! One: you agree to be my underling and make me food and teach me how to make food, and also help me not get caught by anyone. Two: you try to expose me and I kill you. Which is it gonna be?”
+
+Lauren looks down at the ground, thinking hard. Man, I hope she chooses right. Otherwise, I’ll have to wait a while to find a new personal chef.
+
+“By the way, I have a question for you.”
+
+Yes?
+
+“I don’t have access to specific details about your past life, so I have no way of knowing… but were you really a princess?”

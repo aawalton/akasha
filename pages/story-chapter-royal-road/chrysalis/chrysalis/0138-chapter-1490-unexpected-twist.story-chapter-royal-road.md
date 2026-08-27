@@ -1,0 +1,91 @@
+---
+id: c6bef29d-f249-51db-8d62-0baec2b838f0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1490 - Unexpected Twist"
+slug: 0138-chapter-1490-unexpected-twist
+partOf: chrysalis
+position: 138
+ownLength: 1051
+unit: words
+ownProgress: 1051
+publishedAt: 2025-01-21
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2021412/chapter-1490-unexpected-twist"
+royalRoadId: "2021412"
+markedReadAt: "2026-06-29T19:48:15.749Z"
+---
+
+Commander Chyron of the Abyssal Legion stomped away from the meeting with the infuriating ant, her mind awhirl. Morrelia hurried along in her superior's wake, wondering just what was bothering the woman so much.
+
+She didn’t get any answers until they’d made their way back to their outpost. Without a word, the Commander strode through the camp and into the command tent, taking off her helmet and sitting down with an irritated huff.
+
+Following into the tent were her two tribunes and the Legion Dungeon Seer, each with wary expressions on their faces as they wondered just what had put Chyron in such a poor mood.
+
+“Report,” she stated flatly and the Dungeon Seer stepped forward.
+
+He was a man of middling age, with the short cut hair and clean shaven face expected of a Legionary. Despite his Class as a specialist form of Mage, his frame was packed with lean muscle, as even Mages in the Legion were not exempt from the hard physical training.
+
+“Yes, Commander,” he saluted. “The inspection was carried out cleanly and without interference. It seems the ants don’t know how to interfere with the process, or aren’t trying.”
+
+“Just give me the number, Wallace,” Chyron grimaced. “I don't think they have any interest in trying to meddle with the process.”
+
+“The monster’s Level has risen to one hundred and seventy one,” Wallace reported.
+
+“It’s climbing rapidly,” Morrelia noted without inflection. “Fighting in the fifth has been providing a great deal of experience, it seems.”
+
+Joshen Aurelis, her fellow tribune, looked at her askance.
+
+“This is clearly an issue, Commander,” he said. “If the target reaches the next tier before descending to the next stratum, our task will become significantly more difficult.”
+
+Chyron eyed the three figures in the tent with her. All of them waited on her words, though Joshen appeared somewhat impatient. He was always that way, eager for promotion, eager for advancement, eager to prove himself. Every moment was an opportunity for that young man. It was good for the young ones to have ambition, but she found his constant push to elevate himself detracted from his performance more than elevated it. Duty for duty’s sake should be enough for a Legionary.
+
+“And what do you propose we do about it, Joshen?” she asked. “Attack the target in the middle of this enormous fortress while surrounded by hundreds of thousands, possibly millions of monstrous ants? Even if we were able to destroy the creature before we were attacked by the others, which I cannot guarantee, then our entire Legion would be annihilated. At a time like this, we need every man and woman available to fight against the Dungeon. I won’t sacrifice lives needlessly.”
+
+Chastened, Joshen nodded his understanding, though his expression firmed. Doubtless he was already thinking of a way to put himself forward again.
+
+“What are your thoughts?” Chyron asked Morrelia, turning toward her other tribune.
+
+The young woman considered her words for a moment, a habit Chyron had seen from her often when it came to the ants. Normally, she was decisive and forthright, unflinching in her views and advice. The Commander still wasn’t sure what made her so hesitant to give her first thought when discussing these monsters, but she continued to ponder the reason.
+
+“As you said, Commander,” Morrelia said slowly, “we can’t act now. Events have unfolded in such a way as to make completing our mission almost impossible. Without reinforcements or a fortuitous opportunity, it’s difficult to see how we could succeed and escape with our Legion intact.”
+
+“So what do you advise?” Chyron prompted.
+
+Morrelia took a breath, then spoke, and the Commander strongly suspected this was her initial thought coming to the surface.
+
+“I believe we may need to consider the possibility that the Colony will actually succeed,” she said.
+
+Joshen shot her an incredulous look and opened his mouth to speak but hesitated when he saw Chyron’s expression. The Commander sighed and turned to Wallace.
+
+“Thank you for your time, Wallace. You are dismissed.”
+
+“Yes, Commander,” the Mage replied, fist crashing to his chest in salute before he exited the tent.
+
+Once he was gone, Chyron spoke once more.
+
+“The ant let slip something during our… conversation. It seems that the ants have captured a Krath.”
+
+“That’s not possible,” Joshen stated immediately. “The Krath have never allowed themselves to be captured. Not in thousands of years.”
+
+This was true. It was difficult to even see a Krath if they didn’t want to be found. In all of their time in the fifth, the Legion had fought with the slug tribes many times, and had never taken a captive. In truth, the Legion hadn’t really been trying; they much preferred annihilation over capture, a policy the Krath were happy to oblige.
+
+“Do you think the ant was lying?” Chyron turned to Morrelia.
+
+Again, that slight hesitation.
+
+“I doubt it. Anthony… that is to say, the target, is almost incapable of convincingly lying. It’s more likely they let it slip unintentionally.”
+
+“You think the ants were trying to hide this information from us?”
+
+“Unlikely,” Morrelia shook her head. “I think they just didn’t think we needed to be told, since it doesn’t concern us.”
+
+Joshen looked incredulous.
+
+“Do you really believe that they captured a Krath? The very idea is nonsense.”
+
+“Normally, I would agree with you,” Chyron stated. “But for some reason, I think the ant might have told the truth. It’s possible these monsters have done something nobody else, in the history of Pangera, has ever done before. Actually found a Krath so cowardly they would allow themselves to be taken.”
+
+If true, it could change everything, or nothing. Catching a Krath was one thing, getting them to spill the secrets of the fifth was another. This could also impact the deal Chyron had struck with the ant leader Solant. If the ants had another source of information, then their deal with the Legion became less important.
+
+Chyron stood up and grabbed her helmet, placing it over her short-cut, iron-grey hair.
+
+“I’m going to speak to the ants,” she announced. “I wonder if they’ll let me see this miracle for myself. If they really have taken one, I can only imagine what they are doing to the creature to get it to talk.”

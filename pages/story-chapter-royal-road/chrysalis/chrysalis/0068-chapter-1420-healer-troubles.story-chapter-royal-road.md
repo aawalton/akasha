@@ -1,0 +1,111 @@
+---
+id: ba1f2898-3421-58a6-932f-f6369ef7d6e8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1420 - Healer Troubles"
+slug: 0068-chapter-1420-healer-troubles
+partOf: chrysalis
+position: 68
+ownLength: 1082
+unit: words
+ownProgress: 1082
+publishedAt: 2024-09-30
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1827139/chapter-1420-healer-troubles"
+royalRoadId: "1827139"
+markedReadAt: "2026-06-29T19:45:48.524Z"
+---
+
+I report back to Solant, and as always, she accepts the bad news with equanimity, as if she were expecting it all along.
+
+In any case, I’m happy enough to leave her and the rest of the boffins to work out what they want to do going forward. I mean, this is going to throw a serious wrench into our time frame, there’s no way around it. Continuing to expand will be more difficult than ever, due to the thickening toxicity around us, and more dangerous than ever, as a result of the vents creating deadly pockets of death right in the heart of our territory.
+
+I don’t envy the decision makers with this one, absolutely not. The worst part is, we can’t even determine what might have caused this to happen! Do the vents always do this? Is it a response to our presence in the area, or the cleansed mana we’re creating? Or is this a defence system the Krath created? All of these are possible, and we don’t have a way to determine which might be the true cause.
+
+The fifth stratum is such a mystery to everyone. Those who know the most about what’s going on down here are the least likely to share that knowledge with a group of monsters. Namely, the Legion. The Colony doesn’t really have a choice except to slam our heads into the fifth after taking all the precautions we can.
+
+“Try and stay still!” Mendant yells at me.
+
+“Huh? Oh, Mendant! I didn’t notice you were there. How’ve you been?”
+
+“How have I been? I’ve been trying to heal you for the last five minutes!”
+
+Not just Mendant, but a whole group of ten healers has been crawling on my carapace as I walk around.
+
+“Is it really necessary for me not to move?” I ask, exasperated. “Does it make a difference?”
+
+“It makes it easier to concentrate,” Mendant replies, snapping her mandibles irritably. “Now sit down!”
+
+“Fine…”
+
+It’s an odd sort of sensation, having a bunch of irritated medics crawling over my carapace, occasionally thwacking me with their mandibles. Do they not get enough sleep? How long are their shifts? Maybe the healers have a poor diet or something. They are persistently grumpy, it’s becoming the defining trait of the entire caste.
+
+“Give it to me straight, Mendant. How bad is it?” I ask, with more than a hint of sarcasm.
+
+“Bad,” she snaps, poking around at the base of my antennae.
+
+“Hey, that tickles!”
+
+“You’ve been regenerating yourself over and over again in such a short span of time. The wounds haven’t even healed the first time before more regeneration fluid is applied. Even for a monster, there are limits to how hard you can push your body.”
+
+“There are?” I say, surprised. “I thought I could just heal forever.”
+
+“Well, you can’t! Not without repercussions.”
+
+“Such as?”
+
+“Such as weakening the damaged areas of your body over time.”
+
+Oh no! Not my precious carapace!
+
+“You were worried about your carapace, weren’t you?”
+
+“Uh… maybe?”
+
+“How about the more delicate and sensitive parts of your body? Like your eyes and antennae?!”
+
+“Well, those too, obviously.”
+
+She crawls up to my head and starts poking my carapace right between my eyes.
+
+“Look, you don’t listen to us at the best of times, and this isn’t the best of times, but you had better pay attention. You need to give yourself time to heal properly. If you keep rapidly regenerating yourself like this, I believe it will cause problems down the line.”
+
+Well, that’s annoying.
+
+“How long is it going to take? In case you haven’t noticed, we have something of an emergency going on here, Mendant!”
+
+“You think it’s going to get better if you find yourself weakened? Don’t underestimate the effects of this place! You seem to be forgetting just how bad it is since you can survive out there for a while. Without regularly cleansing yourself of every single speck of toxin, you too would die. Give it half a day for your body to heal up, eat something, store up some Biomass. Only then should you go back out there.”
+
+This couldn’t have come at a worse time, but I’m not going to knock back the doctor's orders.
+
+“Alright then, Mendant. I’ll do as you say.”
+
+“... You will?” she asks suspiciously. “No argument? No tricks? No sneaky tactics?”
+
+I clack my mandibles in irritation.
+
+“No. Just how bad is the attitude you get from your regular patients?”
+
+“Terrible. They’re ants. Most of the time, they think taking time to heal themselves is being selfish, and they do everything they can to get out of it.”
+
+That might help explain why the healers are always so irritated.
+
+“I’ll try and spread the word. Everyone should listen to the healers when it comes to getting better. Not doing as you say is putting themselves and everyone else at risk.”
+
+“I would… appreciate that, Eldest.”
+
+For once, she doesn’t sound completely irritated, but even then, there is still a grumpy aura hovering over her that never seems to dissipate.
+
+I do as ordered and plonk myself down until the healers are done picking over my carapace, inspecting every inch and making sure I didn’t have a speck of toxic mana remaining. Only when I have the all clear do I get back up and start moving through the safe-zone once more. Of course, my mind-constructs have been constantly on the hunt for invading mana, but getting the all-clear from a full team of specialists is certainly a weight off my mind.
+
+With nothing much else to do, I go looking for the gang. I know the three of them are fine. We’ve been talking when we can, and they’ve been busy, helping the Colony and holding the defensive line, taking the pressure off of my siblings. Fortunately, they’ve managed to group together after several sections have been reconnected and I find them sitting together, resting and consuming Biomass.
+
+[Hey there, everyone! How are you—]
+
+I don’t get any further before Crinis glomps onto my carapace and vanishes into my shadow.
+
+[Ack! Dammit, Crinis! You can stay in the shadow, but no creeping inside my body. That’s an order!]
+
+[... Fine.]
+
+You mean you actually were going to do it?!
+
+She’s been getting more open and honest about her desires lately, which is a good thing compared to how she was before, but if I’m honest, it’s starting to scare me.

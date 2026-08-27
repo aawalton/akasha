@@ -1,0 +1,179 @@
+---
+id: 81827fd2-3f21-536d-a621-92b34513a791
+page-type-slug: story-chapter-royal-road
+title: "104 - Welcome to Maligar (B3 start)"
+slug: 0106-104-welcome-to-maligar-b3-start
+partOf: cat-girl-evolution
+position: 106
+ownLength: 2586
+unit: words
+publishedAt: 2026-03-26
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3194934/104-welcome-to-maligar-b3-start"
+royalRoadId: "3194934"
+---
+
+[ Welcome to Maligar ]
+
+[ Maligar was once a prosperous and wealthy city, but over the years, it fell to ruin, and its history was forgotten. This Dungeon serves to commemorate the city, allowing those of the present day to witness the city at its height, and to learn the cause of its downfall. May this Dungeon serve as a lesson to future generations to allow themselves to avoid repeating Maligar’s mistakes. ]
+
+[ Dungeon Challenge: Witness the end of Maligar ]
+
+[ Floor Challenge: Begin the downfall of Maligar ]
+
+“Huh, this Dungeon comes with flavor text,” I comment.
+
+“What?” asks Lauren.
+
+“Nothing.”
+
+I dismiss the yellow System notifications, and take a minute to observe my surroundings. We’re standing on a wide dirt road leading to a city in the distance. The city isn’t very big by Earth standards, but it’s probably a little bigger than Riverfork, and from this perspective, it looks pretty impressive. We’re up on a hill, so we can see over the walls and get a good look at the buildings within. The style of the buildings looks almost Byzantine, with lots of domed buildings featuring golden decorative toppers that I think are tree-shaped. The center of the city has an enormous castle with a glass dome the size of a football stadium in the center.
+
+Outside the walls, there are rolling hills covered in farmland, and in the distance behind the city, there’s a sprawling forest. As I look around, I begin to frown. For a few seconds, I get a strong feeling of déjà vu, like I should know this place, but I don’t. Then, it hits me.
+
+I was just here barely an hour ago. I was in the carriage, looking out the window from this same place, at the same area. Except then, the ground in front of me was a crater, and now, it’s a city.
+
+It looks like that ominous feeling I had earlier was correct. That was a man-made crater. A crater from an attack so powerful it obliterated a city. And that raises the question of what the hell happened here that someone felt the need to erase it from the map? I glance at the others, and they seem to have made the same connection, based on their grim expressions.
+
+“I had heard that this was a historical Dungeon, but…” starts Lauren. “Wow.”
+
+“What Tier do you need to be to make a crater that big?” I ask, glancing at the twins.
+
+“Late 8th for an offensive specialist like me,” says A. “I think.”
+
+“9th or 10th otherwise,” says B. “But even then, to displace so much earth…”
+
+“Do you think that’s the end of Maligar that the Dungeon mentions, or did that come after?” asks Lauren.
+
+“What else would it mean?” I ask.
+
+“The only times we’ve heard of destruction on this scale is when a Named Disaster grew too powerful to approach, and a Hero level Adventurer had to rain a powerful spell down from the sky,” says A.
+
+“If this was similar, the city was likely already long gone by the time it was turned into a crater.”
+
+“Ah, I see.” I look back at the city. “Then I guess the Disaster is probably that tree that Cecilia mentioned.”
+
+A and B glance at each other.
+
+“I don’t think she was supposed to have told us that,” says A.
+
+“Information on Maligar is generally kept under wraps, to avoid spoiling the experience,” says B.
+
+Lauren sighs and puts a hand to her face. “I’ve heard that this Dungeon’s challenge is supposed to be an interesting mystery. I hope that it’s more complex than just finding the culprit behind the city’s downfall.”
+
+“Well, on the bright side, that might mean we can get to the Delicacy sooner!” I say.
+
+“I guess…”
+
+The conversation dies for a few seconds, and in that time, a group of four people appears behind us.
+
+“If you’re going to gawk, don’t do it right in front of the entrance,” says one.
+
+Recognizing the voice, I turn to see my least favorite Adventurer in his stupid, shiny armor, flanked by his three primary color wizards. He looks exactly like I remember him from when he did his supply run to Ryantown. Hair so blonde it’s almost gold, and armor so polished I can see my own distorted reflection in it.
+
+“Oh, Kyle!” I say.
+
+“It’s Kai!” he snaps. “And it seems that I must apologize for my rudeness. I didn’t realize I was speaking to a princess.”
+
+He bows deeply, and when he stands up, I catch a hint of a smirk before he gestures to his wizards and they walk past us and continue further down the road.
+
+“The heck is that guy’s problem?” I ask as we watch them walk away.
+
+“He’s just like that,” says Lauren with a shrug. “I heard some rumors about him in Doralak. None of them were very good. He was one of the youngest to reach Platinum ever recorded, and he’s been showered with so much praise that he seems to think he’s the main character of the world.”
+
+“Wait, youngest?” I ask. “How old is he?”
+
+“Seventeen.”
+
+“Damn.”
+
+Good thing I didn’t say anything. I was about to start beefing with a kid. Then again, maybe I should have… Someone needs to teach him some manners.
+
+“Yeah, and I also heard he’s trying to earn an Epithet,” continues Lauren. “He keeps going around and calling himself the Silver Knight. And annoyingly enough, he might actually succeed, because rumors keep spreading about him, and the more famous he gets, the more likely he is to get an Epithet. Actually, there’s a secret movement amongst those he’s offended where they all refer to him as the ‘Silver Cunt’ and try to spread even more rumors so that when he finally does get his Epithet, it’s not the Silver Knight like he’s trying to make it.”
+
+I snort with laughter. “That’s hilarious. Would the System actually make it work like that?”
+
+“There are worse Epithets out there that came from similar incidents.”
+
+“Wait, what are they?”
+
+“There’s the Nude Brawler,” says A. “That’s the most famous one.”
+
+“I don’t think that’s as bad, but how did they earn that?” I ask.
+
+“He was a Mithril rank Adventurer, and he happened to be taking a bath when a Disaster showed up near his city,” says B.
+
+“He didn’t have time to get dressed, so he went out and fought it naked, and enough people saw and spread rumors and the fame combined with the feat earned him his epithet,” finishes A.
+
+“Ooh, unlucky,” I say. “But that doesn’t sound that similar to the Silver Cunt.”
+
+“Well…” says Lauren, clearly thinking hard. “I know there are a couple, but I can’t remember the exact Epithets off the top of my head.”
+
+“The Red Bitch,” says Chad.
+
+“Oh, right!” says Lauren. “Yes, that’s the one I was thinking of. Very similar situation to the Silver Knight–”
+
+“Silver Cunt,” I correct.
+
+“Whatever,” says Lauren. “She wanted to be known as the Red Witch, but she offended too many people, so when she finally earned her Epithet, it wasn’t what she wanted.”
+
+“So it is possible,” I say with a grin. “Can you change your Epithet after earning it?”
+
+“Yes, but it’s very difficult. Actually, the Red Bitch managed to do it. It’s a famous story, and her new Epithet is the reason that I didn’t remember her at first. After her earning her Epithet went so horribly wrong, she was bitter and angry about it for a while, which only made the rumors worse, but eventually she retreated into her manor and became a recluse for a few years. Supposedly, she reflected on her past actions, realizing that she had indeed been a bitch, and vowed to do better. In the years that she avoided the public eye, the rumors about her died down, and her renown faded quite a bit, and when she finally re-emerged, she worked hard to repair her public image, and later, she slew a Named Disaster in defense of a small village, and when those rumors spread, her Epithet changed from Red Bitch to Red Archmage.”
+
+“Very interesting,” I say. “So you’re saying that if the Silver Cunt rumors continue to spread, and he earns the Silver Cunt Epithet, it will serve as a powerful lesson, causing him to reflect on his attitude and become a better person?”
+
+“No, because that doesn’t happen most of the time,” replies Lauren. “It’s possible, but usually when people get negative Epithets, they either embrace them, or ignore them, and change nothing about themselves.”
+
+“But it could be a good way to teach him a lesson.”
+
+“Yes, but–”
+
+“Then it’s settled. For the purpose of educating and reforming this misguided young man, we shall now refer to him as the Silver Cunt.”
+
+Lauren hesitates a moment, then sighs. “Alright, fine. Anyway, he did have a point. We shouldn’t be standing in the middle of the road like this. We should get into the city and get some information. We should probably get an inn for the night, and then we can worry about finishing the Floor Quest tomorrow.”
+
+“I agree,” I say. “I’m hungry.”
+
+We set out down the road, following in the footsteps of the Silver Cunt, and it doesn’t take long to find the inn that claims to have the best meals in the city. I don’t know if that’s actually true, but the food is pretty damn good. Their signature dish is something similar to a shepherd’s pie, but the meat is apparently imported Tier 3 bison, and some of the spices are basically ancient versions of existing spices that only grow here in Maligar. It’s a truly unique dish, and truly delicious, and I eat so much my stomach feels like it’s about to burst.
+
+After dinner, before we head to bed for the night, we decide to take a walk around the city, both to gather information, and to just see the sights. It’s a very beautiful city, and a very clean one too. We ask one of the locals, and apparently, the Dungeon cleans up after itself. If you litter too much, the Dungeon will punish you by “reclaiming” your belongings, but for accidental litter and the occasional overflowing trash bin, the trash just slowly disappears, absorbed by the Dungeon to keep itself clean.
+
+The architecture is all just as impressive up close as it was from far away, and from here, I can see that the decorations on top of the domes definitely are trees. The city seems to have a thing for trees, actually. Every single street is lined with them, and every intersection has a big one growing in the middle. The trees come in all shapes and sizes, but most of them are fruit trees, which is great. They’re also free to grab, so as we walk, we pluck a few ripe ones to munch on.
+
+Eventually, our wandering brings us to the large central castle where apparently, no one actually lives. Instead, the structure is treated kind of like a museum, with the doors flung open and friendly guides waiting to sell us a tour. The price is reasonable enough, so we pay for it, and enjoy a leisurely walk around the building.
+
+The first part of the tour takes us all around the castle along the edges, to various bedrooms, offices, meeting rooms, ballrooms, and more. It’s all very interesting, but as it goes on, I start to get impatient, as the guide seems to be deliberately avoiding the center with the giant glass dome. The impatience is exacerbated by the fact that for some reason, Food Sense doesn’t reach within. Abby says it’s likely due to a rule the Dungeon set up, rather than the materials used, which probably indicates that the center chamber is important.
+
+Interestingly enough, her telling me how important the center chamber is doesn’t help me become any more patient.
+
+The reason for the tour avoiding the area only becomes clear near the end when the guide finally takes us near the main entrance to the center area. It’s a pair of double doors more than five meters tall, and they are shut and locked.
+
+“And this is the entrance to the Sanctuary,” she says. “In ancient times, this was both a holy place, and a place of relaxation. The city’s name, Maligar, actually comes from the name of the god they worshipped, Mali, the god of fruit-bearing trees. While only a minor deity, Mali highly favored the city, which is why there are so many trees all around.
+
+“The Sanctuary was usually reserved for only the most important people in the city, but once per year, during the Lunar Festival, the Sanctuary would be opened to the public. The lunar festival was a day of significance not just in Maligar, but in the entire nation, and it continues to be today. It is the one day each year when all three moons are aligned and equidistant from each other, and the Maligari believed that this night had significance to Mali as well.
+
+“The exact details of the rituals are too many to go over in such a short tour, but it all revolved around the Great Tree in the center of the Sanctuary. The Great Tree was believed to be a gift from Mali himself, and among its many wondrous properties, it possessed a lunar affinity. The mana within it was at its highest during the Lunar Festival, so its fruits were harvested and shared throughout the city.
+
+“Now, if you’ll follow me this way–”
+
+“Can we not go in?” I ask, interrupting her.
+
+“You’re welcome to try,” she replies with a smile. “But you’ll find that it is impossible to enter at night. If you wish to see the Sanctuary and the Great Tree, you’ll have to come back during the day.”
+
+“Hmmm…” I say, narrowing my eyes at her.
+
+After a few seconds of internal debate, I walk up to the doors and grab the handles and try to pull. Nothing happens. I call Chad and Lauren over to help, but despite pouring our mana into our Internal Mana Manipulation Skills, the doors don’t budge even a millimeter. Out of curiosity, I prepare a small Spatial Slice and try to cut through the door, but the mana disperses the second it comes into contact with the door, doing absolutely nothing. The twins then try some kind of artifact of theirs to unseal the door, but they fail as well, and with all our non-violent options exhausted, we give up and finish up the tour.
+
+“What are the odds that this Great Tree is the same tree monster at the top Floor?” I ask.
+
+“100%,” says A.
+
+“I can’t imagine it’s unrelated,” says B.
+
+“Whatever the case, it’s clearly related to this Floor’s Quest,” says Lauren. “I’m not sure how, but we’ll have to come back in the morning to see what’s inside and whether we can figure anything out.”
+
+“Agreed,” say the twins.
+
+“Yup,” I say. “But for now, bedtime!”
+
+I tilt my head back, letting out a wide yawn as we walk back toward our inn, but as I close my mouth, I pause for a moment, staring up at the sky. The three moons are directly overhead, forming a perfect triangle, just like they’re supposed to in the Lunar Festival.

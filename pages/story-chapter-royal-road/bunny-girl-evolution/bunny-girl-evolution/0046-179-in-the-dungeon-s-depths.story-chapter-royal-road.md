@@ -1,0 +1,166 @@
+---
+id: 594baee1-2fb1-53e3-b8ab-0452d9780ae8
+page-type-slug: story-chapter-royal-road
+title: "179 - In the Dungeon's Depths"
+partOf: bunny-girl-evolution
+position: 46
+ownLength: 3754
+unit: words
+publishedAt: 2026-03-10
+link: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3135822/179-in-the-dungeons-depths"
+royalRoadId: "3135822"
+---
+
+Telvir was in the lead position as usual, but his mind was largely focused behind him. He had felt the pressure to do well ever since he made the grand decision to give up his immortality, but he had never felt it more so than now. How could he not? He was currently running the risk of angering a dragon, after all.
+
+He still wasn’t completely sure that Eleanor was a dragon. The jury was out. Unlike her “sister,” she never seemed to use her {Dragon Eyes}, but if she was a dragon, she would easily be able to hide it, even from someone as sensitive as Telvir. Despite not seeing that, there were still plenty of other signs.
+
+For one, she had an enormous amount of aether, and was evidently confident enough that no one was observant enough to notice. Both the amount, and the arrogance to assume an elf wouldn’t notice matched what he would expect of a dragon. Telvir did not have {Aether Sense} himself, but he knew enough about it to see the signs, and more importantly, he had noticed some of the things she often secretly did while they were in the Dungeon.
+
+One of the first things that Telvir did when he got access to the System was evolve his {Mana Sense} Skill. It was a bit of a tedious process, but it was more than worth it. He was far more sensitive to mana than just about anyone, and his detection range was much further out, meaning that when Eleanor did… whatever she did to command the monsters in the distance, he noticed. They would be going about their normal activities, and then suddenly either freeze, or start moving toward them, depending on the group's circumstances. When they needed a break, the monsters would not move. When they needed more practice, they would approach. She didn’t do it all that often, and Telvir didn’t sense any deeper meaning behind her actions beyond convenience, but it was still worrying.
+
+Of course, those abilities were not something that only a dragon could do, but given everything else, he felt reasonably certain in his assumption. Her conspicuous disguise, her aloof attitude, the way she skirted talking about herself and her background, the complete and utter lack of worry about the Dungeon as a whole, and of course, her “sister” with {Dragon Eyes} to whom she often gave advice. It all fit together too well.
+
+And now, he had to judge that same “sister” and determine whether she was worthy of joining the Dungeon Competition team.
+
+The responsibility had fallen to him because while Sucri had already approved of Sophie’s abilities, the team still had to approve of her as well. Or rather, the team leader. And the team leader, Eleanor, had strong personal bias, so she had delegated the task to Telvir, as he was the second-in-command.
+
+He had not personally seen Sophie’s abilities. He knew that she had to have improved since that first meeting, but he had no idea how much, and he was worried it wouldn’t be enough. If she was powerful enough, there would be no problems. He could just approve her. But if she wasn’t, the best thing to do was reject her, and then, he risked angering her master. But if he approved her when she was too weak, he also risked angering her master, because she might be the type of master who wanted her disciple to earn her position through her own efforts, rather than through her master’s reputation.
+
+Why me? he whined internally.
+
+He was not the only elf who had chosen a Path recently, but he suspected that he was the only one who had wound up tangled with a renegade dragon so early. The only upside was that if he managed to deepen this relationship, it could potentially be a great boon for his future Class selections. He just had to hope that, if it came to it, he made the right decision.
+
+Their group currently consisted of the usual five, except the Ainar Lauri had been swapped for Sophie. Telvir had some sympathy for Lauri, since he was a decent fellow, but it was just unlucky that the Dungeon happened to be underground where his wings were more of a detriment than a boon. The silver level caverns gave him a bit more maneuverability, but he was still essentially handicapped, and while competent, he was still the team’s weakest link.
+
+Without him, Telvir was the only melee combatant. According to Sucri, though, in a club like Fighting with Nature, having any melee fighters was good, and with Telvir being an elf, they didn’t need much more. Sophie claimed that she could fight at melee range if needed, and had a more physical Class for her first two tiers, but stats from those two tiers paled in comparison to what appeared to be an almost perfect mage build for her latter two Classes. Telvier knew that dragons chose the stat distribution for their disciples, and it looked to him like Sophie had gotten all her stats in the mana and mental half, and almost nothing in the physical stats.
+
+Despite not being a melee fighter, though, she was very versatile. She said she was using mostly nature magic for training purposes, but the fact that she had {Mana Manipulation} at all opened the group up to a lot of possibilities that hadn’t existed before. If she joined, it would completely change the way they packed, because as long as she was around, they didn’t need anything to start fires, and they wouldn’t need to carry much water, and apparently, she was even somewhat trained in spatial magic, which could be used very creatively.
+
+She ended up slotting into their party in a similar position to where Lauri had been, right between Telvir on the front line and the other three in the back. She was technically more of a backline caster like the others, but unlike the others, she was only 4th Tier, so her range was shorter, and it was better if she was in the middle so she could react to anything and use her versatility as needed.
+
+Their first test appeared about ten minutes after entering the Dungeon. Telvir sensed them resting in a room up ahead, though he didn’t mention them immediately. He had been keeping his evolved {Mana Sense} a secret, and if possible, didn’t want Eleanor knowing he had it. When they got close enough that it was safe, he called out to the team, and they all got in battle formation.
+
+The enemies were a group of five giant, 4th tier spider monsters. They were not a great threat, but they were a bit difficult to handle for nature magic users, since their legs were difficult to grab with either roots or vines, and they were too big to be slowed by hastily-erected barriers. Of course, they had been dealing with these monsters for a couple weeks now, so they knew exactly how to handle them.
+
+When they reached the mouth of the room, wooden roots shot out of the ground, rising quickly until they reached the ceiling and started burrowing in. The spiders were already charging, but the roots thickened by the millisecond, and when the first reached the tunnel, it crashed into the wooden bars, and could not get past. One of the bars cracked, but they all held, and the crack healed over as the wood continued to thicken.
+
+As soon as the first spider crashed into the barrier, Telvir stepped forward and stabbed it directly in the face. The other four spiders reached them just a moment later, and within seconds, they perished. One more died to Telvir’s wooden blades, while the others died to spells from the mages behind him. Overall, it was a perfect fight. Quick, efficient, and without error.
+
+Telvir looked at the dead spiders and saw that one of them had been impaled from below by a spell that he recognized as a custom combination of {Impaling Roots} and {Vicious Bloom}. The root shot up from below, impaling the spider in the abdomen before spreading its roots further within, destroying the poor beast's internals. It was one of Eleanor’s favorite offensive nature spells, but he recognized that it had not been Eleanor who cast it this time.
+
+Well, that’s a good sign, he thought.
+
+It wasn’t much, but the fact that Sophie understood her role and was skilled enough to carry it out was good. An important facet of Dungeon exploration was mana conservation. While any one of them likely could have taken the entire group of spiders on their own, by working together, they could split the mana cost, and make the battle more efficient. Eleanor’s role had been to make the wooden barrier, not to kill, and Sophie’s role had been to kill and nothing else.
+
+Unfortunately, the lone battle was not enough to prove that she was a better fit than Lauri, but it was a good start, and it went a long way to relieving some of Telvir’s stress.
+
+They continued into the Dungeon, taking a route that Sucri planned for them that would take them deep enough to encounter semi-regular 5th tiers, which would pose enough of a threat for them to be able to see the full extent of Sophie’s abilities. Along the way they encountered multiple other groups of 4th tiers, all of which were dealt with easily. Sophie did not have much opportunity to show exceptionality, but she was consistently competent, and her teamwork had no issues.
+
+By the time they reached the 5th Tiers, most of Telvir’s stress was gone, as she was already performing just as well as Lauri, and her general utility made her a more attractive teammate. And by the time the battle with the 5th Tiers ended, his stress was gone. The battle took place in a room that was actually big enough that Lauri wouldn’t have been handicapped, but it didn’t matter. Sophie outperformed his wildest estimates of her prowess.
+
+With each tier, the difference between tiers grew wider, so the battle with the 5th tiers went very differently than the ones with the 4th tiers. They were essentially the same monsters, but stronger, faster, and with an extra trick or two. The main issue, though, was the power boost, as it meant that Eleanor’s barriers wouldn’t be strong enough to hold them off. She simply did not have the raw power to do it when it came to mana. That meant that the battle was actually a true battle, rather than an execution like the past ones had been.
+
+Sophie’s style had nature magic at its core, and it was all she needed to use until that point, but she was not restricting herself from other types. When the fight began, she stomped her foot, and the moisture from the air was siphoned out and used to turn the ground in front of Telvir smooth and icy. The charging spiders began to slide, and were forced to dig their claws through the ice into the stone beneath to stop themselves. They were far from incapacitated, but the momentum of their charge had been utterly destroyed, allowing their group to go on a counter-offensive, and none of them missed that opportunity.
+
+Telvir charged forward as his armor formed around him, and Eleanor began making a root barrier between the casters and the spiders. The other two fired {Vicious Bloom} and {Impaling Roots} at the temporarily halted spiders. Sophie had already melted the ice, so Telvir had no trouble approaching, and while the spiders were much tougher than their previous opponents had been, they were still nowhere near strong enough to resist their combined assault.
+
+For just the trick with the ice alone, Telvir was ready to give his approval to Sophie, but then she went above and beyond in the rest of the battle. Rather than focusing solely on killing, she continued to inconvenience the spiders, making them easier to kill for the others. Their claws that had dug into the stone suddenly found that the stone was holding them tighter than they would have thought, and vines crept up from the ground below to wrap up their legs. While Telvir, Hannah, and Frank, worked on killing their targets, Sophie worked on making them easier to kill. It wasn’t long before the entire group of 7 5th Tier monsters were dead at their feet.
+
+Previously, the role of debuffer had fallen to Eleanor, but without their second frontliner, the backliners were more exposed, so she had shifted to mostly defensive tactics, letting Sophie fill in for her. And despite being a substitute, in Telvir’s opinion, it was actually an upgrade. The versatility that came with true {Mana Manipulation} was unmatched, and even if Eleanor was more skilled and more subtle, Sophie was far more valuable in that role.
+
+And despite the fact that Lauri could have been effective in that environment, since the room’s ceiling was high, his presence was not at all missed. In fact, it was quite possibly better without him, as the casters only had to worry about one ally in front of them, and could attack from range more freely. As soon as the battle was over, Telvir turned back to where Sucri and Lauri were watching from a distance and walked toward them.
+
+“I’ve made my decision,” he said.
+
+“I see,” said Sucri.
+
+“Yeah, I was worried about that,” said Lauri with a deep sigh.
+
+“It’s not your fault,” said Telvir.
+
+“I know, but it’s still unfortunate. But it’s fine. I didn’t think I would even have a chance at this anyway, so being able to be on the team, even for a few weeks, was fun.”
+
+“The club has other useful programs, if you want combat experience,” said Sucri. “A few of our members visit the Jungle every other weekend, and you’d no doubt find that a more welcoming environment.”
+
+“Wait, really?” said Lauri, his face brightening. “Why didn’t you mention that before?”
+
+“Because teleporting our students to the Jungle is expensive, and it comes out of the club’s budget, so we have to be selective. I figured that being on the Dungeon Competition team would be enough, so I didn’t bring it up, but if you’re interested, we can start the application process.”
+
+“Yes, please,” said Lauri. “Being off the team sucks, but I never really liked being underground anyway.”
+
+“Then that’s settled.” Sucri turned her head up toward where the others were standing. “Congratulations, Sophie Gray, you are now officially a member of the rookie Dungeon Competition team!”
+
+There was a brief smattering of applause at Professor Sucri’s announcement, and Elise reached up to ruffle Sophie’s hair. Then she frowned.
+
+Why does she keep getting taller?
+
+She was pretty sure that just a few months ago, Sophie was barely taller than her, but she seemed to have grown two or three inches in that time alone, and she wasn’t slowing down. She suspected that Sophie was at or above five and a half feet tall, and based on her parents and Nick, Elise wouldn’t have been surprised if she kept going until she was close to six feet tall.
+
+This is unfair! she thought. She’s thirteen and a half! I was basically done growing taller when I was still twelve!
+
+She quickly donned her smile again when Sophie turned toward her with a wide smile and moist eyes. This wasn’t the place to be lamenting her height.
+
+“I did it!” said Sophie.
+
+“Congratulations!” replied Elise.
+
+Sophie pulled Elise into a firm hug for a moment, then let her go, laughing.
+
+“You’re all now free to do whatever you’d like,” said Sucri. “I’ll be returning, but you can go further, if you’d like.”
+
+“I’m good,” said Frank immediately. “Congrats and all, but I wanna get back home.”
+
+Elise didn’t disagree, but she shot him a quick glare for his attitude.
+
+“I’d like to return as well,” said Hannah. “I have an assessment coming up in one of my classes that I want to study for.”
+
+“I have no preference, but it seems that we will be returning,” said Telvir. “And Sophie, I offer you my sincere congratulations.”
+
+“Th– Thanks,” said Sophie, blushing.
+
+Wait, him too? thought Elise.
+
+“Then it seems that’s settled as well,” said Sucri. “Let’s all go together.”
+
+It wasn’t long before they emerged from the Dungeon, and Elise and Sophie said their goodbyes to the others. The whole way up, though, Elise had felt Telvir’s attention on her. He was in front of her, so he couldn’t look at her, but she had gotten somewhat of a sense of reading aether to gauge where a person’s attention was focused, and his was most definitely focused on her. It had been for most of their time in the Dungeon as well.
+
+Telvir confused Elise. He was clearly competent, and he had typical elven confidence, but when it came to her, he was borderline subservient. He was more stressed about Sophie’s success than Sophie herself was, and now that Sophie had succeeded, he was extremely relieved, and oddly enough, hopeful. As if he wanted something from Elise, now that Sophie had succeeded.
+
+She knew that he had some kind of strange misconception about her, and since he never brought it up, she had not had an opportunity to clear it, but now that she saw it affecting his feelings toward Sophie, she wondered if she should take the initiative to clear the air.
+
+…Nah.
+
+So far, the misunderstanding had been strange but beneficial to her, and if it made him invested in Sophie’s success, then it was beneficial for Sophie too. If he wanted the truth, he would approach her on his own. But he hadn’t, meaning he was comfortable with his assumptions.
+
+Shortly after returning home, Elise went back to her room, flopped onto her bed, and soon began soul meditation. As she worked on crafting her soul clothes, her mind drifted to her upcoming trip back to visit the dwarves. She had already sent them word that she was coming, and break started at the end of the week, so it was all settled, but she was nervous about what she would find there. Titania herself had wanted her to visit, and she still didn’t know why.
+
+While she thought of the possibilities, her mind wandered further until she was thinking about Maggie. It was not too much of a tangent, since she suspected everything was all tied to her rune of Fate, and Maggie was quite closely related to that, but there was another reason that Maggie was on her mind at the moment: Maggie was missing.
+
+She wasn’t completely missing, but according to Jessie, no one knew where she was. She had apparently left more than a month ago, saying she didn’t know when she would be back, and no one had heard anything since. She wasn’t dead, since the church had some way of knowing if she was, but it was as though she had completely vanished. Elise had wanted to ask about what happened before her reincarnation before she went to visit the dwarves, just so she would have as much information as possible, but it was looking like that wouldn’t happen, unfortunately.
+
+I wonder where she went…
+
+Deep below Jelor City, in the lowest reaches of the Dungeon, an enormous spider emerged from a nest of webs. It had lived in these caverns for decades now, killing anything that got too close, and carving out a territory that nearly every other monster in the vicinity had learned to avoid. It had just finished nursing its wounds from its recent battle, and was hungry and ready to hunt. And lucky for it, it could feel the vibrations through the earth of something approaching. It slipped into the shadows, its enormous body vanishing without a trace as it waited to ambush its unlucky meal.
+
+Soon, the figure rounded a corner, coming into view. It was a human, or at least it looked like one. The spider had only ever seen a couple others in its many years. The humans did not like to come this far down. But this one did, apparently, and it had come alone. It only had enough meat for a small snack, but the spider was more than happy to chance across a rare delicacy.
+
+The human continued to walk, seemingly oblivious to the danger around it, and when it passed by the enormous shadow on the wall, the spider burst out, moving faster than the eye could see, ready to bring its fangs down on its prey. Then, the human vanished, reappearing a few steps further down the tunnel, and the spider fell to the ground in two pieces, dead. Calmly, the human continued through the tunnel, cutting through thick webs with ease, barely even registering the monster that had created them.
+
+Soon, the human reached a large chamber on the opposite side of the spider’s territory, and it smiled. There were still signs of a great battle from not long ago, and on the far wall, she spotted a section of exposed bricks behind a piece of broken stone.
+
+“There you are,” it said.
+
+Just as calmly as it had killed the spider. It walked up toward the bricks, drawing its sword. Three impossibly quick slashes later, there was an entrance into the brick chamber, and the human’s smile widened as it saw what lay inside. A pitch black box, three feet across in every dimension, with a thin seam near the top where the lid was located. Then, it looked to the side, where it saw something unexpected. Another human.
+
+This one was wearing silver armor, and was polishing a greatsword that was already so smooth and clean that it shone like a mirror.
+
+“A guardian?” asked the first. “A paladin of light?”
+
+“No, and yes,” said the one on the ground, standing up. “I am a paladin of light, but I am not a guardian. You are more than free to take this, if you want it.”
+
+“Then why are you here?” asked the first, tilting its head to the side.
+
+“I was waiting for you,” replied the other. “I’d like to propose a deal.”
+
+“I usually don’t make deals with the pawns of the gods, but you’ve intrigued me. What kind of deal did you have in mind?”

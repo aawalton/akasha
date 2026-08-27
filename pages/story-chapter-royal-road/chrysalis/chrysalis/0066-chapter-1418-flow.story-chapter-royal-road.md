@@ -1,0 +1,77 @@
+---
+id: c1640b81-e616-55f8-b2a7-478f7c1d97e6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1418 - Flow"
+slug: 0066-chapter-1418-flow
+partOf: chrysalis
+position: 66
+ownLength: 1043
+unit: words
+ownProgress: 1043
+publishedAt: 2024-09-26
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1820697/chapter-1418-flow"
+royalRoadId: "1820697"
+markedReadAt: "2026-06-29T19:45:44.645Z"
+---
+
+Really. I mean really.
+
+“You want me to what?!”
+
+Solant clicks her mandibles irritably and my antennae twitch, but given our current crisis, I can’t exactly go thwacking the general in charge over the head. The command post is positively crawling with activity as orders are given out and reports come in constantly. It’s so crowded in there that Solant had to come out to speak to me since I won’t fit inside!
+
+“We have to know what is happening outside the zone of purified mana,” she explains to me with all the patience she can muster, which I appreciate. “If the vents are sucking in toxic mana from nearby and venting it into our safe-zone, then the mana outside will be thinner and we will be a little safer as we deal with this crisis. But if the vents nearby are also venting toxic mana…”
+
+“Then the mana nearby will thicken and begin to press in on us, shrinking the safe-zone.”
+
+Nards.
+
+“Alright then, I’ll get to it. Try to keep everything from falling apart while I’m out.”
+
+“Of course I will,” she replies with utmost confidence. “Who do you think I am?”
+
+An uppity little general… who I will not thwack… yet.
+
+Leaving the command post behind, I pick my way through the crowded tunnels. Despite everything that’s happening, the Colony is still racing forward with its plans. Construction is happening everywhere, even if the steady flow of supplies from above has been cut off. Soldiers race this way and that, responding to attacks on a case by case basis.
+
+Our organisation has taken a hit, every squad of twenty ants is operating on their own, apparently, but heck, we’re ants. It’s not possible for us to not coordinate. One squad lays down trails toward an ongoing attack, other squads decide to follow it and help out. The main point of difference is just how defensive everyone is being, and I can understand why. Not a single ant can be lost to the Krath, and this breakdown of order would be the perfect chance….
+
+Well, I have to trust that everyone can take care of themselves for a bit. If Solant is right about the vents we haven’t reached, then things are going to get worse before they get better.
+
+With a little luck, perhaps the nearby vents are sucking in mana and the area nearby will be a little less toxic and easier to deal with. Trying to think positive thoughts, I keep moving forward until I reach the multi-layer deep wall of ants guarding this section of tunnel from incursions.
+
+The border between the blue and the sickly yellow/brown of the fifth is always a sight to see. Two warring forms of energy, each trying to consume the other. There’s an audible fizz in the air, and my mana sense goes crazy every time I get close. Both types of mana are self replicating, making more of themselves even as they consume each other. Mana is destroyed and created at such a rapid rate, it’s like a constant static noise that presses into my senses.
+
+Nothing else for it but to stick my incredible, shiny self out into the muck and investigate.
+
+Going back out there… isn’t pleasant. We all know what it’s like. I’d rather stick my antennae into a human toilet than endure this, but for the family, I’ll do what needs to be done.
+
+Also, I get a smug sense of self-satisfaction from being able to survive in this environment. Stupid fifth, thinks it can slow me down? Hah! Try your best, fifth! I’m going to walk wherever I please! Up this wall? Don’t mind if I do! Upside down by those rocks over there? What’s going to stop me?
+
+Muahahahaha!
+
+Oh right, the vents.
+
+With a vague idea of what I’m looking for, I go exploring, but making any progress out here isn’t easy. Whenever a monster spots me, they go nuts, rushing at me immediately in a frenzy. Most aren’t that high a tier, but despite that, they are still born in such a mana rich environment that they have unique strengths which pose real danger to me.
+
+The best way to deal with them that I’ve found is to go all out and obliterate them as fully as possible. This could take the form of an empowered Void Chomp or Dragon’s Breath, right up to a weak-ish gravity bomb if the moment calls for it.
+
+All the while, I keep my mana sense attuned, my mind-constructs constantly working. Not only to purify myself of toxic influence, but trying to check every eddy in the thick toxic sludge that is the mana of the fifth. The further out I get from the safe-zone claimed by the Colony, the more my heart sinks in my thorax.
+
+I really don’t feel like it’s getting thinner out here. If anything….
+
+I eventually manage to find a vent. First I had to cut my way through a mucus waterfall, the gunk so dense and sticky it fell at a rate of about a metre an hour.
+
+Yuck!
+
+I void chomped it into oblivion, and on the other side, I was able to find exactly what I was looking for. The vent appears much as I remember the others I saw. A strange, half sponge, half rock sort of thing with many holes in it.
+
+And, most unfortunately, it is absolutely belching out toxic mana. The energy behind the mucus waterfall is so thick I can practically hear my carapace sizzle!
+
+If this is what life is like down here during a wave, then Solant was absolutely correct to assume we wouldn’t be able to survive down here while it was ongoing. We have to get that nest built, and quick!
+
+Annoyingly, I can’t even destroy this stupid thing. If I crunch it, or cover it over, will that just mean the mana will flow even thicker from the other vents? That would make the situation worse!
+
+Well, I have my answer for Solant. I need to hurry up and get back to the Colony.
+
+As I turn around and make my way home, one thought refuses to go away. Where the heck is all this mana coming from?

@@ -1,0 +1,83 @@
+---
+id: 53bd8261-d993-5dbc-bf6e-0cadc4609724
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1552 - The Slug Sensation"
+slug: 0200-chapter-1552-the-slug-sensation
+partOf: chrysalis
+position: 200
+ownLength: 951
+unit: words
+ownProgress: 951
+publishedAt: 2025-04-16
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2205674/chapter-1552-the-slug-sensation"
+royalRoadId: "2205674"
+markedReadAt: "2026-06-29T19:50:13.302Z"
+---
+
+Zluth knew he wasn’t the first to report the vision he’d experienced; one glance at the fervent activity within the temporary settlement convinced him of that. It was a little surprising. Theorazzn had said they would speak to others, but for one to already be amongst the Krath fighting the invasion was unlikely.
+
+No matter.
+
+It had never been his intention to return as a herald and elevate himself. This was more important than personal advancement now. Well, it was mostly more important than personal advancement. Zluth would still take what he was offered.
+
+It wasn’t easy to see the Krath’lath. Chozth was busy, and angry, if the volume of her voice was any indication. Her largest and most loyal followers blocked access to those trying to slide forward and curry favour, or beg for a position they didn’t deserve.
+
+Zluth was able to talk his way past, relatively simply. He was a scout, returning from his task, and under strict orders to report directly to the Krath’lath when he arrived. Even at the risk of disobeying Chozth’s direct orders, he was still held up, prodded and growled at before being allowed to pass, which just went to show how touchy the situation was in the settlement.
+
+Chozth was in the middle of screaming at two smaller Krath who cringed back from her, reeking of fear, which only seemed to anger the tribe leader further. In his opinion, she was only able to hold herself back from devouring both of them through sheer force of will, something they seemed to realise. When she was done, they thanked her obsequiously as they slid away, lucky to be alive.
+
+Which meant that the mighty war leader was in an even fouler mood when she turned and laid eyes on Zluth. As soon as she saw him, her eyes flared wide and her lips peeled back to reveal her fangs, an expression of intense hunger stealing over her features.
+
+All he could do was give thanks to Theorazzn as she approached, for he would have been unlikely to survive without the Ancient’s intervention.
+
+It was easy to forget just how powerful the Krath’lath of the Thuuz tribe was up close. She wasn’t the largest slug, but sleek and muscular. She moved with a grace and speed that made much larger Krath look clumsy and unthreatening. Before he could blink, she was looming over him, her overwhelmingly acrid breath burning his skin.
+
+“Our scout has returned, I see,” she purred. “Much to report? For your sake, I hope so. For my sake, I hope not.”
+
+Zluth held fast to his courage. He refused to wilt away in front of Chozth as the others had.
+
+That didn’t mean he wasn’t afraid. Far from it.
+
+“I have seen many things, including the ongoing fighting at the platform from as close as a Krath can get,” he told her.
+
+She eyed him like he was a fresh slice of meat.
+
+“And I have received a visitation from Theorazzn in my dreams,” he continued, “though it doesn’t seem like I’m the only one around here.”
+
+“You saw the Ancient?” Chozth demanded. “You?”
+
+Zluth did his best not to be offended.
+
+“I did,” he confirmed warily. “The Ancient said I was the first he had spoken to, though he would then go on to talk to many others.”
+
+“First?!” she roared, then glared at him. “What were the words of the Ancient? If you are lying, you will suffer a death worthy of legend among the tribes.”
+
+Careful not to mispeak, Zluth detailed exactly what he had seen during the strange dream, along with the sensations he’d felt being dragged away from his body. Chozth listened intently to the entire story, her mouth moving as if she were chewing over his words.
+
+“You aren’t lying,” she concluded with a furious glare. “I suppose that means you won’t be eaten today.”
+
+“Kind of you,” Zluth replied, outwardly calm.
+
+He thought about it for a moment.
+
+“You also received the vision, didn’t you?” he asked.
+
+“I did,” Chozth growled. “It is the honour of my life to have spoken with the Ancient. Theorazzn hasn’t spoken to the Krath in many centuries; anything they ask for must be delivered.”
+
+“Death to the big ant seems to be the easiest of the tasks, and I don’t think that will be all that easy. That awful beast has proven to be more powerful than we expected and has the support of its fellow skittering filth.”
+
+“At least we know where it is,” Chozth stated, “and it isn’t likely to move anytime soon. The other monster the Ancient mentioned, it could be anywhere. As for the singing… have you heard anything, scout?”
+
+“No,” Zluth replied bitterly. If he had, he would shout it at the top of his lungs. Then the glory would certainly fall on him, like rivers of golden mucus. He turned his eye-stalks back to the other Krath in the settlement.
+
+“What are your plans, Krath’sizz?” he asked, addressing her as the war leader.
+
+“We have been gifted with the words of the Ancient,” she hissed at him. “There is only one thing we can do. Whatever Theorazzn told us. I’m sending scouts to visit every tribe we can reach and a few that we can’t. Before the wave is done, we must have completed our tasks. Every Krath from every tribe must be marshalled for the effort or eaten alive.”
+
+Zluth nodded.
+
+“Send me to the furthest tribes,” he demanded, “no one other than me could reach them anyway.”
+
+Chozth eyed him, then bared her teeth approvingly.
+
+“Very well. I will send you to the Bulg. Leave as soon as you can.”

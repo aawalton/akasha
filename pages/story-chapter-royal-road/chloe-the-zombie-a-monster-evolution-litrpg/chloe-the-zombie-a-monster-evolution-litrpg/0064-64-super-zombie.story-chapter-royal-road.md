@@ -1,0 +1,199 @@
+---
+id: ed1fd134-340b-5da1-8cf0-3ea7ad082684
+page-type-slug: story-chapter-royal-road
+title: "64: Super Zombie"
+slug: 0064-64-super-zombie
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 64
+ownLength: 1915
+unit: words
+publishedAt: 2025-11-05
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2734666/64-super-zombie"
+royalRoadId: "2734666"
+---
+
+Explaining things had never really been Chloe’s strong suit. She was more of a do first, maybe explain later kind of girl.
+
+Honestly, it was times like this when she kind of, sort of, maybe missed Baron Willy a little bit. Because as much as he talked way too fancy for his own good, the guy was actually kinda okay at explaining things. Even if he was really boring most of the time.
+
+Eventually, Chloe gave up trying to make things sound normal. Words weren’t lining up right in her head, and explaining stuff wasn’t really her thing. She had a strong hunch that Raenof had already figured out she wasn’t human a long time ago anyway. Which meant she’d probably need way more practice if she wanted to keep her whole zombie deal a secret from regular people.
+
+Not that she planned to. If Raenof had a problem with her being a zombie, well, that sounded like a him problem.
+
+So instead of giving an explanation, Chloe just dumped everything out on the elf. Yes, she was a zombie. Obviously. But not just any zombie, she was a cool zombie. Also, she’d just evolved moments ago, and her evolution had been amazing.
+
+She’d gotten all sorts of new powers and upgrades. Her wings alone were worth bragging about, and she gave them a flap just to show off.
+
+Also, yeah. Chloe told Raenof that she ate brains. It was just part of the zombie package.
+
+“But don’t worry, I’m not gonna eat your brain.” Chloe said, trying her best to sound convincing.
+
+Raenof just stared at her. Then scratched the back of his head, looking like he didn’t know whether to laugh or run. “I really don’t know how to respond to any of that.”
+
+“All you need to know is that I’m, like, a super zombie now. And I’m gonna make sure you get wherever you need to go.”
+
+“Right… Well, I always figured you weren’t exactly human. Honestly thought you might be a vampire at first.”
+
+“Wait, what’s a vampire?”
+
+“I'll put it like this, they’re kind of like zombies, except instead of eating brains, vampires drink blood. Usually from people.”
+
+“Ew. Why?”
+
+“Vampires need blood to survive, so that's why."
+
+“But blood is so sticky! And it gets all over your face. You ever try wiping blood out of your eyebrows?"
+
+“Different undead, different appetites."
+
+“Wait. Are you saying I’m the weird one?”
+
+“I’m just saying, not everyone considers brains a delicacy.”
+
+“Well, they’re wrong. And anyone who thinks brains don’t taste good is weird. Sorry, but that includes you.” Chloe huffed and gave her wings a smug flap.
+
+Raenof held up both hands. “O...kay. Sure.”
+
+“I’m glad you agree.”
+
+Raenof glanced around the clearing then, his smile fading as he gestured to the mess of corpses scattered across the grass. “Well, as fun as this has been, maybe we should do something about all this.”
+
+“Oh, right! I should probably check on the brains. Y’know, to see if they’re still good.”
+
+Chloe took a step forward, already scanning for the nearest head that wasn’t too smashed in. She figured she might as well start collecting snacks sooner rather than later. But then her eyes landed on a shape slumped in the grass, not too far away.
+
+It was Mr. White. Her horse.
+
+All the happiness drained out of Chloe's face as she broke into a sprint. She dropped to her knees beside him, not even caring how much dirt she kicked up.
+
+Her hands moved on their own, gently lifting his big horse face. “C’mon, Mr. White. You can get up from this, right?”
+
+Unfortunately, Mr. White did not get up. His body just stayed put.
+
+Hold on. I’ve got healing magic now thanks to Z! That Greater Healing Touch thingy sounds pretty strong, that's gotta work, right?!
+
+Chloe shoved a hand against Mr.White's side, and green light flared from her fingertips. It sank into his body, spreading fast. Cuts closed. Bones shifted back into place. Even his fur looked cleaner. But he still didn’t move. Okay… maybe I didn’t do it right. Time to try again.
+
+She pressed both hands down this time. Another burst of healing magic pulsed out. But again, he stayed completely still.
+
+“Come on, Mr. White…” she muttered, her voice cracking just a little.
+
+She cast the spell again. And again.
+
+Mana drained from her body, but she didn’t care. All she wanted was for him to move again. But Mr. White never got up.
+
+Chloe stared down at him. Why isn’t it working?
+
+Eventually, Chloe heard footsteps behind her. Raenof knelt down without a word. He didn’t say anything at first, just stared at Mr. White for a while.
+
+Then, gently, he said, “Chloe… he’s gone.”
+
+She turned toward him. “But I healed him. Why won’t he wake up?”
+
+“Because healing magic can’t undo death. Once the soul leaves the body, it’s almost always permanent.”
+
+“Almost?”
+
+“There are rare ways to bring someone back. But none of them are common. And they’re never simple, or without consequences."
+
+Chloe looked down at Mr. White again. Brushing his mane. He still felt warm, but not the kind of warm that meant alive. It was just leftover heat. Like everything else about him was already starting to slip away.
+
+She didn’t know what to say. Or how she was supposed to feel. She hadn’t known Mr. White for that long, but that didn't reduce the sense of loss at all.
+
+“I liked him, and now he’s just… gone.” Chloe said.
+
+Raenof sat down beside her. “That’s what loss feels like. It hurts. And nothing really fills it.”
+
+“It’s dumb. I don’t like feeling this whole 'loss' thing."
+
+“No one does. But it means Mr. White mattered to you. That part isn’t dumb at all.”
+
+They sat in silence, long enough for Chloe’s head to start feeling too full. Then, with that calm, annoying Raenof timing of his, he tilted his head and said, “So… are you planning to eat all the brains lying around, or what?”
+
+Chloe blinked at him. “Huh?”
+
+She followed his gaze to the scattered bodies littering the grass and blinked again. “Oh. Uh… probably not. Except maybe Sett. He seemed strong, and maybe his brain is gonna be crunchy, which I like."
+
+“You… have preferences?”
+
+“Oh, totally! Strong people or monsters? Their brains are way better. And even better-er if they got magic. I don't really eat normal brains anymore though, they just kinda taste sad to me now."
+
+Raenof looked like he was about to make some dry comment, but then his ears twitched sharply. The elf looked really tense all of a sudden.
+
+“Chloe, we’re not alone.”
+
+“Huh?”
+
+Raenof stood tall, looking over the area with a focused look. “I sense multiple strong signatures heading this way.”
+
+Chloe didn’t say anything at first. But then she felt it too, a low rumble in the ground that quickly became more intense. She stood up beside him. “Yeah… I feel it now.”
+
+“I think we should probably run.” Raenof said.
+
+“Run? Why?”
+
+“Because those are Thunder Wolves.”
+
+Chloe narrowed her eyes and focused. And she eventually saw the Thunder Wolves properly.
+
+Each one was huge, with dark blue fur so thick it looked like storm clouds stitched together. Jagged horns jutted from their skulls, and lightning crackled between them, snapping and hissing as it crawled across their bodies.
+
+Their eyes glowed, and every step they took sent sparks racing through the grass. Chloe counted quickly: one, two, three… six. There were six giant zappy wolves, all heading straight for her and Raenof.
+
+“Ohh wow, they’re really big.” Chloe said.
+
+“They’re also very dangerous. We’re standing in a field covered in blood. It probably drew them here.”
+
+“Seriously? Blood? Brains are better, so I don't get why these wolfies care so much about some red stuff."
+
+Raenof shot her a look. “Chloe, you need to take this seriously. Thunder Wolves aren’t pushovers. Not even for you.”
+
+She gave him a smug grin. “Relax! I’ve got this. I’ve got, like, a whole collection of new tricks to try out. Just watch me.”
+
+Honestly, Chloe was excited to test all her shiny new powers, but this wasn’t just about showing off. She didn’t want those oversized dogs sniffing around Mr. White’s body.
+
+Raenof said they were drawn to blood. And so far, the only things soaked in blood around here were all the very dead people, and her very dead horse.
+
+She stepped forward and took off with a single powerful flap, shooting into the sky. The Thunder Wolves howled in response as lightning exploded from their horns, slicing through the air.
+
+Chloe’s eyes widened. Oh no.
+
+Dodging midair turned out to be really hard. She flailed, twisted and flapped around in every direction. But despite giving it her all, a bolt of lightning grazed her boot, another zipped past her hair, and then—
+
+CRACK.
+
+One lightning bolt hit her right arm. That arm turned to ash in the blink of an eye.
+
+“HEY! That was my good arm!” she shouted, spiraling out of control as she crashed back into the dirt.
+
+She stayed there for a second, groaning. Okay. I really need more flying practice in the future.
+
+The wolves were closing in fast, lightning still dancing across their fur. Chloe pushed herself up with her remaining hand, looking around in a panic.
+
+But then, something cool happened. Black tendrils slithered out from Chloe's shoulder socket, curling through the air. Flesh began knitting itself over the shadows, bone snapping into place, veins threading, and skin pulling tight. In just a few seconds, she had a brand new arm.
+
+Whoa. That was freaky. But also kinda awesome. This must be the full-body regeneration Z was talking about… I love it.
+
+She barely had time to admire her new limb before one of the Thunder Wolves lunged, its jaws opening wide. But Chloe, naturally, didn’t flinch.
+
+Her body flickered and vanished. The wolf snapped at empty air, skidding forward with a confused grunt.
+
+The others bristled, growling and sniffing the ground. They spun in circles, but Chloe had already walked right through them.
+
+Her body was light and floaty, like she weighed nothing. The world around her was pale and a little blurry, sounds muffled. But more importantly, the wolves couldn’t see or touch her at all.
+
+So this is Wraith Form? It’s like mega invisibility, except I can walk through stuff too. Maybe I'll call it Shadow-slipping? Wraith-ing? Ooh, Wraith-ing sounds cool. Or maybe not? Hmm, I'll decide later.
+
+She walked a few steps further, then shimmered back into view behind the pack. Heat pulsed in her palms as she drew in a lot of mana. Flames sparked between her fingers and swirled into a huge fireball, definitely her biggest yet.
+
+The wolves turned. Their eyes widened.
+
+“Surprise,” Chloe muttered, grinning wide as she hurled the super big fireball.
+
+One wolf dove aside. The others scattered too late. The fireball exploded midair, right in the middle of them.
+
+Flames ripped through the clearing, heat flashing bright enough to light the trees like midday. Smoke rolled out fast. Chloe raised an arm to shield her face, Cloaky snapping in the wind behind her.
+
+When the smoke thinned, one Thunder Wolf limped out, half-charred with tufts of fur missing. The rest stood tense and low, tails twitching as if rethinking all their life choices.
+
+That’s right. Fear me!

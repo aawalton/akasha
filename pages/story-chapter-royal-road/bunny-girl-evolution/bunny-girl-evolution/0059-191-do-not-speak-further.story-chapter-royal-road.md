@@ -1,0 +1,286 @@
+---
+id: 390e6f73-bec4-50ad-a966-389c31f8db28
+page-type-slug: story-chapter-royal-road
+title: "191 - Do Not Speak Further"
+partOf: bunny-girl-evolution
+position: 59
+ownLength: 3295
+unit: words
+publishedAt: 2026-04-21
+link: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3299618/191-do-not-speak-further"
+royalRoadId: "3299618"
+---
+
+When Elise, Sophie, and Jessie arrived at the designated Dungeon entrance, Attalaya was already waiting for them. She looked exactly the same as she usually did, with the exception of the gauntlets adorning her fists. They were not particularly fancy, but they looked heavy and sturdy, and they had thick spikes on the knuckles.
+
+“You are here,” said Attalaya.
+
+“Yes,” said Elise. “This is Jesse, by the way.”
+
+“A pleasure,” said Jessie, still in her disguise.
+
+Elise sensed more than a little bit of confusion from Attalaya as she sized Jessie up.
+
+“Likewise,” said the giantess, nodding before turning back to Elise. “Have you gotten your Platinum Dungeon Pass yet?”
+
+“...No,” said Elise. “I haven’t had the time.”
+
+Each level was more difficult to traverse than the previous, and even though Elise was more than capable of making the trip, she had not yet found three days to set aside and do it. She just had too many other things to do, and despite it being the only way to level, hunting monsters had somewhat taken a back seat on her list of priorities lately. Not to mention the fact that she could feel {Subtle Royalty} struggling as it was, and she didn’t want to make the Skill break permanently by leveling too much.
+
+“That is fine,” said Attalaya. “The Gold areas should be plenty.”
+
+Attalaya reached into her pocket and pulled out a Platinum Dungeon Pass, then turned toward the small building that housed the shaft leading downward. She flashed the pass to the attendant waiting inside, and asked for Gold, and the four of them were led to one of the half dozen magical lifts that would take them underground.
+
+The attendant did not ask anyone else for their passes. Elise and Sophie had both gotten their Gold Dungeon Passes at that point, but it didn’t really matter in this case. Due to the increasing disparity between tiers as they went up, it was generally assumed that a Platinum would not break a sweat in the gold areas, and could therefore take up to five others in with them if they wished to, even if they didn’t have a Pass at all, like Jessie.
+
+Neither Attalaya and Elise were natural talkers, Jessie didn’t want to say too much while in her disguise, and Sophie seemed to be feeling nervous, so the trip down to the Gold area was quiet, as was the entry into the Dungeon proper. Attalaya simply flashed her Pass to the guard, and he nodded and let them in. The silence continued until they were half a mile into the Dungeon, at which point Elise stopped and turned to Jessie.
+
+“We should be good now.”
+
+“Okay, good,” said Jessie, already morphing back to her normal form. “Ah, that feels so much better.”
+
+“What?” asked Attalaya.
+
+“I should reintroduce myself,” said Jessie, turning toward the giantess. “My name is Jessica Lux, and I am the Saintess of the Church of Light. You can still call me Jessie, though. I don’t really care about formalities.”
+
+Comprehension dawned on Attalaya’s face, and she nodded a few times.
+
+“I understand. That would explain why you possess some divinity.”
+
+“Pardon?”
+
+“I sense divinity from you. It is likely from Lucena.”
+
+“Ah, I see.”
+
+“You can sense that??” Jessie asked telepathically.
+
+“Apparently,” replied Elise.
+
+“Jessie is trustworthy,” said Elise out loud. “I know we’re here mostly because you want to see what I can do when I’m not holding back. She knows everything that I’m going to show here. And if you wanted to reveal anything, she wouldn’t be spilling any secrets.”
+
+“My lips are sealed,” said Jessie, making a zipping motion.
+
+“I see,” said Attalaya.
+
+“Also, I’m only trusting you with this because I know you’re not the type to talk, and it seems like you probably already know most of it.”
+
+“I have guesses. But I will not say anything to anyone about this without your express permission. I am not in the habit of betraying friends.”
+
+“Thank you. And I would do the same for you, if you told me anything you wanted kept secret.”
+
+Attalaya nodded.
+
+She does that a lot, Elise noted.
+
+“Let’s head further in,” said Attalaya. “Now that we are being more open, I am indeed quite curious to see what you can do.”
+
+They found their first monsters not long after. It was a group of Greater Steel Crawlers resting on a sloping wall like barnacles. Elise stepped inside first, with Attalaya right behind her. The Crawlers woke up when they got a few steps inside, but as they started charging forward, Elise unleashed her full aether and activated {Royal Presence}, bringing them to a halt. These 5th Tier monsters weren’t quite as subservient as the 4th Tiers and below, but her presence still confused them, and following up with a {Royal Decree} halted them in their tracks.
+
+With the monsters frozen, Elise turned back to look at Attalaya, who was watching them with her arms crossed. Her brow was furrowed, and Elise sensed a bit of surprise and nervousness from her. Still paying attention to Attalaya, Elise reached out toward the Crawlers with {Whisper} and then used {Power Word Kill}.
+
+[ You have slain Greater Steel Crawler, Tier V, lvl 4 ]
+
+…
+
+[ You have slain Greater Steel Crawler, Tier V, lvl 4 ]
+
+Elise sensed a complex wave of emotions pass through Attalaya’s mind. There was shock, confusion, a bit of fear, and finally, something that Elise hadn’t expected: hope.
+
+“You…” started the giantess. “You are Fated, aren’t you?”
+
+Attalaya had known her friend was powerful. Attalaya was quite strong herself, but her intuition told her that Eleanor could easily kill her if she wanted. But based on what she saw in class, she couldn’t see how. Eleanor had poor physical attributes, and her mana was nothing to speak of. She could still have been deadly with supreme skill, but she didn’t have that either. She was above average, but she still quite easily lost out to a good portion of mages that Attalaya had met.
+
+During their spar, she had gotten an inkling of it. That brief glimpse of Eleanor’s soul was enough to tell Attalaya where the tiny girl’s true strength lay, but even so, she still had not been expecting… this.
+
+Attalaya had figured out early on that Eleanor was using some kind of suppression Skill to hide the strength of her soul, but the full reveal of exactly how strong it was was shocking. Not as shocking as what she had done with it, though. Even if the Greater Steel Crawlers were weak, especially in their mental faculties, bringing them to a halt and killing them with nothing more than a thought was beyond anything Attalaya could have predicted.
+
+Immediately, a thousand possibilities raced through her head. Was Eleanor a dragon in disguise? That would make sense with Sophie’s eyes, but it also didn’t. Eleanor was not good enough with mana to be a dragon, unless she was an unparalleled actress. An ancient fey? But her soul felt too young. Some kind of secret project to create a living weapon? Her array of Skills was far too diverse and non-cohesive.
+
+As she crossed her ideas off one by one, suddenly, a memory from her childhood began to surface. Her parents had died when she was so young that she barely remembered them, and she was taken in by a passing warrior who thought she had potential. As it turned out he was the sole successor of an ancient Class Path that had a rule of only passing down its teaching to one single person. When she asked why, the only answer she got was “the gods willed it.”
+
+Her adoptive father was caring and kind, but also demanding, and she found herself training both her body and soul from the time she was old enough to walk. It was a hard life, but not an unpleasant one.
+
+The specific memory she recalled was from when she was fourteen, which was the age that her master deemed her old enough to learn the history of their Path. Attalaya had long had questions about some of the more questionable decisions she had been forced to make, and the answers were not at all what she expected. The “gods’ will” was not a benevolent command, but a threat. Her Path was not supposed to exist in the first place. And most importantly of all…
+
+“The founder of our Path still lives,” her master had said.
+
+“What?”
+
+“He is not dead. He has simply been sealed away, and forgotten by time.”
+
+“Then why haven’t you unsealed him?”
+
+“If I could, I would,” her master said with a sigh. “But only the Fated can unseal him. Do you remember the Fated?”
+
+“Yes.”
+
+“He was actually almost unsealed. Once. A few centuries ago, a powerful Fated found his seal and collected it, keeping it for themself. Yet for some unknown reason, they never unsealed it. Instead, they buried it in a place it will never be found.”
+
+“Why?”
+
+“I just said that the reason was unknown,” her master scolded. “If I knew the reason, I would have said it. But there was also a rumor that the seal was not truly hidden. Not for good, at least. Instead, it was simply put in a place where only the right Fated would find it, so that the founder could be unsealed at the right time.”
+
+“Where is it?”
+
+“If I knew that, I would have found it myself already!” said her master. “Did you put wax in your ears today?”
+
+“No. Sorry, Master.”
+
+“Ah, it’s fine,” he said with another sigh. “But if you ever find a Fated, keep them close. You never know if they’ll be the one to find the seal.”
+
+“Yes, Master.”
+
+As Attalaya stared at Elise, her mind raced further, trying to recall everything her master had told her about the Fated. They had strong souls. They had unusual abilities. They often had unusual personalities as well. They were tangled up in matters far beyond their means.
+
+Attalaya didn’t know much about the last point, but the others fit, and they fit better than any of the other theories she could think of. So, without thinking of the consequences, she asked.
+
+“You… You are Fated, aren’t you?”
+
+Eleanor glanced over at their other two companions, and Attalaya immediately knew she had made a mistake.
+
+“Apologies. I–”
+
+“Yes, I am,” said Eleanor.
+
+“I– what?”
+
+“I am Fated.”
+
+“And so am I,” said Jessie.
+
+“I’m not,” said Sophie.
+
+Attalaya needed a moment to process. Two Fated at once was not unheard of, but for them to be casual friends, and both standing right in front of her was a bit overwhelming. And it didn’t make sense. When there were multiple Fated, they were almost always at odds with each other. Not sharing secrets and raiding the Dungeon together.
+
+“You’re… both Fated?” asked Attalaya. “Are you aware what Fated means?”
+
+“That we have the rune of Fate?” asked Eleanor.
+
+“Y– Yes,” said Attalaya.
+
+“How did you know what that means?”
+
+Attalaya hesitated, not sure how much she should reveal. Her Path was not supposed to be known to the world. Despite his tremendous strength, her master remained hidden, so as not to draw the wrath of the gods. It had been drilled into her head from the moment she could speak that her Path was not to be mentioned to anyone under any circumstances. But how else could she explain any of what she had said?
+
+Fortunately, at that moment, she was spared from answering when the breath was knocked out of her lungs by the sudden descent of immense divine power. Eleanor and Sophie gasped and took a step backward as Jessie’s eyes began to glow with white light, and she floated into the air, her dress and hair billowing out behind her as if gravity could no longer affect her. Attalaya felt the divine power form a dome around the four of them, cutting them off from the rest of the world, and a moment later, Jessie began to speak, her voice layered as if multiple of her were speaking at once.
+
+“Seven there were, and seven there will be,
+
+But until the Fateful moment, there shall only be three.
+
+Words have power, and gods have more.
+
+Do not speak further.
+
+You cannot handle what is in store.”
+
+With that, the divine power began to fade, and Jessie slowly descended back to the ground. After a few seconds, there was no sign that it had ever been there in the first place, and Jessie was looking around, confused.
+
+“Did I just give a prophecy?” she asked.
+
+“Y– yes,” said Eleanor.
+
+“What did I say?”
+
+“...I think it’s best we don’t repeat it.”
+
+“I concur,” said Attalaya.
+
+“Yeah…” said Sophie.
+
+“Wait, what happened?” asked Jessie.
+
+“Lucena basically told us to shut up,” said Eleanor.
+
+“Oh.”
+
+“Anyway,” said Eleanor, spinning back to face Attalaya. “Shall we get back to hunting? Jessie said she wanted to see some crawlers explode, and those gauntlets look perfect for that!”
+
+Attalaya was still reeling from the reveals of the past minute, but after a few seconds of staring at her gauntlets, she was able to regain her bearings and nod.
+
+“Yes. They are. Let’s go.”
+
+Behind the false wall, Penelope had found everything she was hoping for. Probably. There was indeed a hidden vault, and it did indeed have stacks and stacks of papers with classified information. Unfortunately, those papers were written in code, and enchanted with both regular illusions, and mental magic so strong it made Penelope’s head hurt.
+
+She had stuffed them all into the spatial ring Otto provided to her, then passed them off to the twins when she got the chance, but they had yet to be decoded. They managed to send them off to Otto, but he replied with the unpleasant news that it would take quite a while to decode them. In the meantime, Penelope would have to finish up her one month contract as a laborer before returning in order to avoid suspicion.
+
+The tension of having the evidence, but not the answers was much worse than the tension of waiting to find the evidence. At least in the latter case, Penelope could do something about it. Now, all she could do was sit around and wait, and hope for the best.
+
+She was currently back underground again. She had not told the other laborers about the hidden vault, and instead used the secret passage as a way to take extra breaks, or avoid people she knew would give her new unpleasant tasks. She was in a doom spiral, thinking about all the worst possible things that could happen after the files were decoded, when she suddenly noticed that she wasn’t alone.
+
+She leapt to her feet, and turned to face the newcomer, then froze. It was the woman in black who had sent her on this journey in the first place. She looked exactly as Penelope remembered, with a black dress the covered her feet, black gloves covering her skin, and a black veil keeping her face hidden. Now that they were both standing, Penelope could see that the woman was not much shorter than she was, and beneath the lacy dress, her build looked somewhat powerful.
+
+“We meet again,” said the woman in a tone that made it clear she was smiling.
+
+“Who are you?” asked Penelope.
+
+“You’ve done well thus far,” said the woman. “Even better than I expected, actually. You were quite fast. Things might come to pass more quickly than I anticipated.”
+
+“What is your goal in all this?”
+
+“I simply want to bring the truth to light.”
+
+“Why not do it yourself? You seem to know it already.”
+
+“Ah, but it has to be you. It would not have the right effect if it was me.”
+
+“Why not?”
+
+“You’ll see. Eventually.”
+
+“Why not just tell me the truth now? Then it can be done even sooner.”
+
+“But I don’t want it done faster. I want it done right.”
+
+“But–”
+
+“This is non-negotiable,” said the woman, her tone suddenly stern. “I like you, but don’t test my patience. You are very replaceable.”
+
+Penelope wanted to speak more, but held her tongue. She could tell this woman was strong beyond what Penelope could imagine.
+
+“Good girl,” said the other woman. “Now, as for why I’m here, I’ve brought you a gift.”
+
+She flicked her sleeve, and a small glass vial of clear liquid slid into her hand, and she held it out to Penelope.
+
+“What is it?” asked Penelope, not moving to take it.
+
+“Poison,” said the other woman.
+
+“Why are you giving it to me?”
+
+“You’ll realize, in time. For now, just take it.”
+
+Penelope hesitated, then reached out and took the vial. It was no bigger than her thumb, and the liquid inside was not more than a few drops. It was sealed with wax over a cork, and though it felt entirely mundane to her senses, Penelope knew how poisons worked, and knew that the seal could not be so simple.
+
+“Don’t open that unless you are prepared to use it,” said the woman in black. “And when you are prepared to use it, hold it away from your face. One whiff and you will start to melt from the inside out.”
+
+Penelope suddenly felt nervous, and brought her other hand up to make sure she kept the vial stable.
+
+“Oh, you don’t need to worry about dropping it,” said the other woman with a light laugh. “It won’t break from something like that. I doubt anything you could do would leave a scratch. But it is quite valuable and important, so make sure not to lose it.”
+
+“Why–?” started Penelope.
+
+“When you do use it, don’t be alarmed if it doesn’t take effect immediately,” continued the woman, ignoring Penelope’s half-formed question. “It’s designed that way. It is colorless, tasteless, odorless, has no mana or aether signature, and it remains dormant in the body for up to an hour before fully activating. Once it does activate, however, even a dragon would struggle to survive it. So once again, do be careful.”
+
+“I have no intention of using this,” said Penelope.
+
+“I’m sure you don’t. Not yet. But when the opportunity presents itself, will you really be able to stop yourself?”
+
+“Yes.”
+
+“We’ll see.”
+
+“I don’t appreciate being used.”
+
+“Neither do I! We have so much in common! And don’t think of this as me using you. Think of it as a mutual partnership. We both want to uncover the truth, don’t we? We have the same goal. I just have a bit more information than you do.”
+
+“But–”
+
+“I really should be heading back now. I have people who will be missing me if I’m gone for too long. But this has been a lovely chat. Until next time!”
+
+Before Penelope could react the other woman vanished. There was no mana, and no sign of any kind of motion. She simply disappeared. It made Penelope wonder if she had ever really been there in the first place. But the vial in her hands was very much real, and she suspected its contents were too.
+
+For nearly a full minute, Penelope debated finding a place to bury it so that it would never be found. Then, she heard the sounds of workers in the distance, and one of them mentioned her by name. She had been gone for too long. She needed to get back.
+
+She took one last look at the vial, then with a grimace, slipped it into her spatial ring before heading back to work.

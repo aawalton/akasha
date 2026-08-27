@@ -1,0 +1,95 @@
+---
+id: 62e32999-95c8-55b3-9811-eae3b865d19f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1618 - Pierce the Heart"
+slug: 0267-chapter-1618-pierce-the-heart
+partOf: chrysalis
+position: 267
+ownLength: 950
+unit: words
+ownProgress: 950
+publishedAt: 2025-08-07
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2498298/chapter-1618-pierce-the-heart"
+royalRoadId: "2498298"
+markedReadAt: "2026-06-29T19:52:21.582Z"
+---
+
+It’s hard to get a sense of exactly what’s going on, so much of my energy is focused inwards. Pretty much all of it, in fact. The incredibly dense liquid mana is attacking any remaining doom-goo on my carapace, but it can’t do anything to help the toxin that’s already gotten in.
+
+Every ounce of my strength is diverted to containing the rampant spread of the infection. The stuff is like normal fifth stratum mana on fast-forward. Everything it touches is instantly devoured and repurposed, changed into more of itself. If it actually manages to touch my core… I think I’ll just instantly be dead.
+
+Or worse.
+
+As the amount of cleansed energy around me rises, I feel a presence by my side. More than one, in fact.
+
+“Get around the Eldest. What’s their condition?”
+
+“Protectant?”
+
+She ignores me, the gall of her!
+
+“That bad? Get ready. We’ll take all that we can.”
+
+“Take what? Hello? What the heck are you doing?”
+
+I don’t have the attention to spare, otherwise I’d dig into the Vestibule to see what these ants are up to. All twenty are nearby, I’m pretty sure at least, which means the area immediately around me has been fully cleansed.
+
+“Any chance a few of you are healers? I could use a little help.”
+
+“Of course we’re going to help you,” Protectant pats me on the head with one leg. “What did you think we were put here for?”
+
+All of a sudden, the internal strain is sharply reduced as a third of the infectious mana is sucked away from me. I clack my mandibles reflexively in shock, so relieved at the lessened burden.
+
+I redouble my efforts, trying to hold onto the ground that I’ve suddenly gained, but a sliver is spared to help me better take in my surroundings. As expected, the twenty defenders are there, arranged around me in a defensive formation, Protectant near my head. Sapphire blue liquid mana is still rocketing out of the vents as if a dam had burst, raining down and filling up the heart from within. Somewhere behind me, I can see a violent storm of smoke and froth rising up from the sludge pit as it reacts violently to every drop of cleansed energy that touches it.
+
+I don’t know what Solant has planned here, but I’m really starting to wonder if any amount of cleansed mana could fix that pool. If we threw a few wuffers in there, they’d be instantly turned to something awful.
+
+I go to thank my defenders for coming to the rescue, when I realise that they don’t look particularly good. Which gets me thinking. What happened to the mana that was taken out of me? Where did it go?
+
+“Protectant… tell me you didn’t.”
+
+“Didn’t what?” she says, right before she collapses.
+
+“Oh, you little idiot!” I yell, surging to my feet so I can stand over my defenders who are all falling over, one by one. “This stuff is way too dangerous for you to handle!”
+
+“So we should leave it… inside of you?” Protectant snaps. “Don’t be… foolish.”
+
+How did they even get it out of me? Having any effect on the energy inside of another creature should be impossible, or at least absurdly difficult. There’s no way they’re strong enough to pull off something like this.
+
+Unless… some of them had evolved and mutated for specifically this purpose. I’m sure there are organs, abilities and mutations that will assist in doing something like this. Dammit.
+
+“I need healers here!” I yell, filling the heart with my pheromones. “I need them NOW!”
+
+From within the tree root, a great darkness has been swelling. At my words, it finally spills out, running over the ground like a fluid until it wraps around my feet and surrounds the twenty struggling ants. Slowly, they sink into the ground, vanishing into the shadow.
+
+“Be careful,” I warn my unnamed siblings. “That infection is so contagious it’ll jump to you if you look at it.”
+
+Surrounded by darkness, Crinis begins to emerge from within my carapace, her tendrils extending to sense the air.
+
+[I knew I sensed something,] she says. [I just didn’t expect to see them here.]
+
+[Your little secret police force?]
+
+[...]
+
+[Well… they’re here.]
+
+I turn my attention above. I can tell the Krath are rallying up there. They won’t let us take the heart without a fight. This place is the literal and figurative centre of their entire society, at least for this section of the Dungeon. Losing it would be a never-before-seen disaster in the eyes of the slugs. They’re going to come back down here like rampaging demons.
+
+[Crinis. I get the feeling there’s going to be a fight soon.]
+
+[I won’t leave you, Master.]
+
+[Don’t worry about me. I can hold on now that they took a chunk of the infection away.]
+
+Well… for now, anyway.
+
+[It’s more important that we win. We have to hold this heart, Crinis. I can’t fight, so I need you to go in my place. Make them afraid, Crinis. I want the slugs to shiver at the mention of your name going forward.]
+
+She’s reluctant, I can see that much, but the chance to finally latch her tentacles onto the Krath? That’s an offer she can’t refuse.
+
+[I’ll make that FILTH wish they’d never touched you,] she vows.
+
+A stone-shattering roar echoes out of the tree root and fills the heart, reverberating off the walls. An apex predator has announced its presence, letting everyone know they should fall back or face his wrath.
+
+[Well, you better move quick,] I chuckle to Crinis. [Otherwise, your brother will get there ahead of you.]

@@ -1,0 +1,99 @@
+---
+id: b4645e92-77d0-5bec-8f63-a40bacd9f7b9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1599 - A Worthy Capture"
+slug: 0248-chapter-1599-a-worthy-capture
+partOf: chrysalis
+position: 248
+ownLength: 981
+unit: words
+ownProgress: 981
+publishedAt: 2025-07-04
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2407367/chapter-1599-a-worthy-capture"
+royalRoadId: "2407367"
+markedReadAt: "2026-06-29T19:51:44.953Z"
+---
+
+“He’s really gone.”
+
+“So… who goes up to report next time?”
+
+Bluzoth couldn’t help but roll her eyes atop her stalks as she listened to the other slugs mutter amongst themselves. They’d all watched as Zluth had leapt into the mucus, certain that he would fail and die. Now they eyed each other suspiciously, wondering how they could manoeuvre their way out of having to report this latest failure to the Krath’lath waiting above.
+
+Whichever slug landed that job was sure to be eaten, messily at that. Some of them would die even before having to make the report, desperate to force someone else into the role.
+
+“You shouldn’t write him off that quickly,” she advised them.
+
+Collectively, a dozen Krath looked at her as if she were mad. She might be old, but Bluzoth didn’t consider herself lost to the spores just yet. She gurgled and spat a wad of acid, wincing as the searing, acidic air burnt the inside of her mouth.
+
+“You need to learn which Krath to watch out for,” she warned them, then pointed down to the mucus sea. “Of the ones like him, ninety-nine out of a hundred die doing something stupid.”
+
+“Fits so far,” one of the others remarked in a snide tone.
+
+“But the one that survives rises far. Every powerful, exceptional Krath you’ve ever seen was like him once, a scheming, murderous scum-slug that was willing to bet on themself. If he comes out of there, he’s going to be a powerful Krath. Did you think about that?”
+
+The others shifted and didn’t answer, causing her to snort once more.
+
+“Exactly. You’ve pissed off someone who could hold your life in their grip in the near future. Stupid. This is why so many of us don’t live to an old age,” she grinned at them. “Too stupid to see the way the mucus is seeping.”
+
+“Even if he finds it,” the mouthy slug growled, “we can just leave him in there. He can’t get out without our help.”
+
+“You think so?” she wheezed a laugh then spat again. “Just what are you capable of on your own? Even if you manage to kill him, what then? Someone has to go and report the failure anyway. If anyone even breathes to Chozth that we could have found the target and let it go, we are all dead. Worse than dead.”
+
+The other Krath grimaced, realising just how trapped they were. Bluzoth grinned again. Educating the young was always a pleasure for her. At least, pointing out how stupid they were was. She called that education. They might see it another way.
+
+A hint of movement caught her eye and she swivelled a stalk to stare at the rope. It had been secured around a dense spike of rock on the wall, so it wasn’t going anywhere, but she could have sworn it had…
+
+There! Again, a little jump, definitely this time.
+
+“Hah!” she cackled, then spat again. “He’s still slithering around in there!”
+
+“It’s impossible,” the others muttered, but they couldn’t deny the evidence in front of their eyes. Something was moving the rope, little twitches and jumps. They stared at it for a few minutes, only for it to grow still again.
+
+Before anyone could declare Zluth had died, there came two solid pulls at the rope. Then again. Then again.
+
+“Well?” Bluzoth said as she eyed the others. “Are you going to pull him out?”
+
+“Why don’t you?” they demanded.
+
+“Because I’m too old!” she spat. “Get to work!”
+
+It wasn’t easy. The mucus was suckingly thick, refusing to release whatever had been tied on the other end of the elongated slime. It took so long, even Bluzoth was sure that Zluth was dead by the time the surface began to bulge as something rose to the surface.
+
+Holding onto the rope, steam rising from his burning flesh, Zluth stared up at the others, eyes blazing with triumph.
+
+“Hurry up!” he roared.
+
+At least, he tried to roar. Heavily injured and drained of energy, the best he could manage was a croak. To those hauling him up, it had the same effect as if his voice had cracked like thunder. They redoubled their efforts, and soon the thing he had found began to reveal itself: the prize.
+
+Completely wrapped in a protective coating formed of slime netting, the massive shape couldn’t be anything other than the ant. Unmoving, paralysed by the slime toxin, it was helpless, a prisoner. Zluth, grinned, baring his fangs.
+
+“Now does someone want to go up and report to Chozth?” he said.
+
+For some reason, there was no shortage of volunteers this time.
+
+By the time the Krath’lath came down herself, Zluth had managed to recover a little of his strength with Bluzoth’s help, but he was still in a bad way. He barely realised it when the mighty tribe leader loomed over him, only noticing she was there after she prodded him in the face.
+
+“You really dove in there and pulled out this thing?” she asked him.
+
+“Of course,” he said, trying to pull himself up but failing to do so. He coughed, burbled and spluttered for a moment. “Isn’t that what my messenger told you?”
+
+“Your messenger claimed to have done it all themself.”
+
+“Speaking of which, I don’t see them.”
+
+“You won’t.”
+
+Chozth turned her gaze to the mass of connected slime-nets, vaguely ant-shaped beneath the slick, green-brown surface.
+
+“Is it still alive?” she asked.
+
+“I think so.”
+
+With a cry of fury, Chozth leaped forward, only for her own guards to block her passage. With difficulty, she mastered herself once more.
+
+“Of course. The Ancient wants it turned. That will have to do. Let’s get it up to the others. Then we can transport it to the heart.”
+
+She smiled savagely.
+
+“I can’t wait to see the twisted nightmare it will become.”

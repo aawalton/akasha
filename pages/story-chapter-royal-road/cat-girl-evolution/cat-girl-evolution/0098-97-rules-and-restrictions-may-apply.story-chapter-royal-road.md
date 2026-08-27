@@ -1,0 +1,261 @@
+---
+id: 10de5f14-5b05-5fae-80c2-97dc7a4f2995
+page-type-slug: story-chapter-royal-road
+title: "97 - Rules and Restrictions May Apply"
+slug: 0098-97-rules-and-restrictions-may-apply
+partOf: cat-girl-evolution
+position: 98
+ownLength: 2914
+unit: words
+publishedAt: 2026-03-07
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3125819/97-rules-and-restrictions-may-apply"
+royalRoadId: "3125819"
+---
+
+“Okay, it’s not actually gone, but—”
+
+So you lied to me.
+
+“—but you still really need to see it.”
+
+You liar. You’re just as bad as her!
+
+“Wait, I didn’t lie! It is technically gone.”
+
+Technically doesn’t count and you know it. Evil Lying Bitch Box. Elbbow.
+
+“You should still really take a look.”
+
+Fine, but I’ll get you back for this. Maybe I’ll take away your Butler role and give it to Lauren.
+
+“Then she’ll know that you lied about not having any other roles available.”
+
+But I didn’t lie. There were no other roles available. Butler was taken. But maybe I want to make what we call in the business, an executive decision, and—
+
+“Wait, I’m sorry! Please don’t take it! I’m sorry!”
+
+I blink, taken aback. I like messing with Abby and all, but she’s never sounded that desperate before. I mean, obviously she loves being my minion, but I didn’t realize that she was so attached to the Butler role.
+
+Alright, but you’re on thin ice.
+
+“Thank you.”
+
+Now, let’s see what the big deal is. Royal Status Window!
+
+I scroll to the bottom of the status window where my Skills are listed and for a few seconds, I just stare. Stomach of the Glutton is indeed gone. It’s been replaced by something else.
+
+[ Dungeon of the Glutton: You consumed a Dungeon Core, sending it into your Stomach of the Glutton, and with a bit of divine intervention, it managed to merge with the Skill, forming a Dungeon within the extradimensional space of your Stomach. Your soul acts as the Dungeon Core, but as the Dungeon itself is inside you, you are not bound within it. The Dungeon and Stomach have a synergistic relationship. Rules and restrictions may apply. Compatible with other Gluttonous Abilities. Includes: Stomach of the Glutton ]
+
+What the heck?
+
+“I’ve never heard of anything like this. I didn’t know this was even possible.”
+
+No, that last part. “Rules and restrictions may apply.” That’s standard advertising language that basically means “this thing isn’t as awesome as we made it sound.”
+
+“...That’s true, but what rules and restrictions could it possibly have to make having a literal portable Dungeon not a good thing.”
+
+You just had to go and jinx it, didn’t you?
+
+“Come on, it can’t be that bad.”
+
+Abby, you said you had a database of Earth media, right? Go watch every single movie and TV show in it and then come back and try to tell me that what you just said isn’t the biggest red flag in existence. I mean, seriously, you couldn’t have set me up worse if you tried.
+
+“Oops.”
+
+Well, let’s see the damage.
+
+I focus inward to where I usually sense my Stomach, and while it still feels about the same as it used to, there’s also something weird and different about it. It’s like right on the edge of my Stomach, there’s a black void. It feels pretty similar to how Dungeon entrances feel to Food Sense, actually. Like it’s not edible, but is somehow in my Stomach anyway.
+
+I poke around at it with my Stomach sense, but I can’t really do anything to it. I sense that I should be able to take it out, but I decide not to do that for two reasons. First, I don’t know if I’ll be able to put it back in if I do that, and second, even if I could, I feel like putting a Dungeon on a roof of this nice old couple’s house is probably not a good idea. It’s not a very subtle place to put it, and it would probably be detected somehow.
+
+That does leave me with the problem of what to do with it still. No matter what I try, I can’t mess with it. I can’t go inside it, I can’t tell what’s in it, and I can’t put anything in it either. It feels like it’s kinda useless right now.
+
+“Check your Status Window.”
+
+My Royal Status Window. And why?
+
+“Well, first of all, you can see what your new species is called, and second, you have a new Title that I think will help.”
+
+Alright. Royal Status Window!
+
+[ Name: Yona ]
+
+[ Age: 0 ]
+
+[ Species: Princess Yona, the Blinking Gastronomic Hunter Thief Chef. Tier: 3. Level: 1. ]
+
+[ Class: Wannabe Vivitect. Tier: 2. Level: 28. ]
+
+[ Profession: Automated Cook. Tier: 2. Level: 2. ]
+
+[ Epithet: Winter (unavailable) ]
+
+[ Titles: Second Lifer, System Breaker II, Named, Taker of Names III, Dungeon Pioneer I, Dungeon Destroyer I, Princess, Renowned (unavailable), Dungeon Core ]
+
+[ Traits: Cat-like Reflexes, Gluttony, Extreme Spatial Affinity, Nimble, Fire Affinity, Custom Namecard, Royal Dignity, Royal Bearing, Traceless, Stealthy, Culinary Instincts, Gastronome ]
+
+[ Stats ]
+
+[ Power: 10127 (+7061) ]
+
+[ Finesse: 19031 (+13267) ]
+
+[ Resilience: 14332 (+9992) ]
+
+[ Memory: 14615 (+10189) ]
+
+[ Willpower: 14648 (+10212) ]
+
+[ Sensitivity: 18879 (+13161) ]
+
+[ Skills: Charged Spatial Slice, Dungeon of the Glutton, Devour of the Glutton, Multisnatch of the Glutton, Greater Blink, Fireball, External Mana Manipulation - Anatomical Constructs of the Glutton, Meditate of the Glutton, Perfect Disguise, Anatomical Analysis, Internal Mana Manipulation - Fleshbender, Timer, Compositional Culinary Analysis, Compressed Autonomous Mana Shield, Compressed Spiral Mana Burst, Mana Infusion, Auto-Cook, Appoint ]
+
+[ Soul Weapons: Gluttonous Greatsword, Terror Blade, Winter's Pistol (unavailable) ]
+
+[ Infiltrator Quest: Branch 1: Spend 30 days each with one member of an Enlightened Race using two different disguises without getting caught. Branch 2: Spend 60 days with Enlightened Races without being discovered. Reward: Racial Experience ]
+
+Hmmm, yeah, that Name is basically what I expected out of the System Developers. And what’s Dungeon Core do?
+
+[ Dungeon Core: You have consumed a Dungeon Core and fused with it, becoming the Dungeon Core yourself. Grants access to the Dungeon Core System. ]
+
+Woah, the Dungeon Core System? Abby, how do I get to that?
+
+“Just think ‘Dungeon Core Status Window.’”
+
+Royal Dungeon Core Status Window!
+
+Instantly my vision turns blue as an absolute monstrosity of an Annoying Blue Box appears in front of my face. There are so many words and options and lists and things that it’s almost overwhelming. I don’t even know what half these words mean.
+
+Abby, help!
+
+“Okay, so I have some good news for you: you don’t have to actually deal with all this.”
+
+Why not?
+
+“Because I can deal with it for you. You can just tell me what you want to do, and I’ll change the settings to make it happen.”
+
+Abby, have I ever told you that I love you?
+
+“N– No?”
+
+Well enjoy it, because I bet you’re gonna do something that makes me call you a bitch again soon. But right now, I love you.
+
+“That’s… Okay, nevermind. It doesn’t matter. The basic gist of all this is that you have extreme control over how your Dungeon is organized, what kind of monsters spawn, where they spawn, what the layout looks like, and things like that. All these settings and descriptions basically tell you what the Dungeon’s current status is, and let you change things.
+
+“You may notice that all the dials and things are set to 0 right now, and a lot of the other fields say things like ‘undefined’ or ‘null’ or ‘locked.’ That’s because your Dungeon hasn’t been fully initiated yet. Once you select what type of Dungeon you want to make, it will set all the values to defaults, and you can mess with them. Or you can tell me what to do, and I’ll mess with them.”
+
+Okay. I want a Field Dungeon.
+
+“Before I set that, you should look over the options carefully.”
+
+Why? I already know what I want. Just think about it. A perfect piece of land with a beach on one side, a mountain on the other, and a forest in between. Seafood in the water, land food in the forest, and fresh, clean ice in the mountains, plus whatever else lives there that’s tasty.
+
+“But you can have all that with any other Dungeon type too.”
+
+Huh?
+
+“Just because all the Tower Dungeons you’ve been in have been caves doesn’t mean they’re all caves. Remember the mussel Dungeon? There was a sky and land aboveground there.”
+
+Oh yeah… You’re right! But then what kind should I make?
+
+“I personally recommend against a Field Dungeon, as with a Field Dungeon, anyone who enters will be able to freely leave, and if you decide to use the Dungeon to imprison enemies or other dangerous creatures, that would not be ideal.”
+
+Oh, good point.
+
+“I think that either a Tower Dungeon or a Challenge Dungeon would be best, as you can have multiple Floors, and each Floor can have a different biome.”
+
+Woah, Abby, you’re really smart. Okay, which one is best?
+
+“Well, that depends. A Tower Dungeon would give you more food—”
+
+Okay, I want that one.
+
+“—but you already have so much that having more might not be that useful.”
+
+Oh, good point.
+
+“A Challenge Dungeon can have bigger floors, and they can be a bit more open-ended. And you can still have plenty of food there. In fact, it might be possible to have higher quality food in a Challenge Dungeon, if you set it up properly. And by you, I mean me.”
+
+It sounds like you want me to choose the Challenge Dungeon.
+
+“I also think it would be more fun for me to set up.”
+
+Aha! I knew it! But also, what do you mean by higher quality food?
+
+“Both Challenge Dungeons and Story Dungeons can have non-combat objectives for clearing the Floor, meaning that they have fewer restrictions on what kinds of monsters can be placed on each one. In a Tower Dungeon, all the monsters of a Floor must be within a certain level range, and each Floor can’t be too big of a step up from the previous one. With a Challenge Dungeon, on the other hand, you could have a low level Floor contain a Tier 5 Named Disaster as part of the setting, and set the challenge to something like ‘Find the red mushroom.’ In that case, the monster is not an obstacle, but a stage hazard, so it’s not bound by those restrictions.”
+
+Ooh, that sounds great!
+
+“Since the goal of those who enter wouldn’t be killing, there would be fewer monsters and therefore less meat than a Tower Dungeon, but if you work the rules correctly, you can have much higher quality meat on average by setting up powerful monsters as stage hazards.”
+
+Okay, I like that idea. Let’s do that then.
+
+“I agree, but just in case, are you absolutely certain? We can’t change this once we set it.”
+
+Yes, I’m sure. I think. Wait a second. Hold on. A while ago, didn’t you say that Dungeons usually only had the same type of monster as the Dungeon Core? Won’t this Dungeon just be full of cats then?
+
+“That’s only for unintelligent Dungeon Cores. The default spawn is always similar to the Dungeon Core, but we can unlock all kinds of monsters to put in here. And there are a few tricks to increasing the variety. Do you know what happens to monster corpses that don’t get collected in a Dungeon?”
+
+Nope!
+
+“The Dungeon absorbs them, and it can then use the bodies to reconstitute the monsters. Usually in Dungeons, this is used to make respawning its inhabitants cheaper, but for you…”
+
+I can feed it all the stuff in my Stomach!
+
+“Precisely.”
+
+Okay, this is perfect! Let’s do it!
+
+“Okay, I’m doing it now.”
+
+I watch the stupidly complicated status window shift before my eyes, hundreds of settings changing as the Dungeon Type gets set and the default settings apply.
+
+“You should be able to enter the Dungeon now. We can continue in there.”
+
+I focus on my Stomach again, and this time when I go to where the Dungeon is located, it’s much different. I give it a mental push, and then suddenly find myself getting sucked inside, and a moment later, I’m standing in a cube-shaped room made of gray stone. It’s about ten meters in every direction, and utterly featureless.
+
+This is pretty disappointing.
+
+“Well, we haven’t done anything with it yet. I just wanted to show you a few things, and explain a few more. First, I’m going to give you a quick tour of the kinds of environments we can make.”
+
+The gray cube warps like a trippy abstract painting, and then a few seconds later, instead of a cube, I’m standing in a grassy meadow. Food Sense tells me that the accessible space is only the same cube, but without that, I would never know. There’s grass beneath my feet, wind on my fur, and a sunset in the distance.
+
+The view shifts again, and a moment later, I’m standing on a beach at night under a sky full of countless stars. Then I’m in an uncomfortably hot desert with the sun feeling like it’s trying to burn a hole in my fur. Then I’m in a blizzard, knee deep in snow with icy winds battering my face. Then, I’m in a bedroom that looks a lot like my old bedroom in Lauren’s house. Then a busy street, then a bar, then a swamp, then a raft in the ocean, then a jungle, and it just keeps going and going and going.
+
+Part of me wants to tell Abby to stop because I get the point, but the other part of me wants to see what kind of crazy view she’s going to show me next. At some point, she even throws in a view that’s like a ship with a window showing outer space, and at another, I’m sitting on the roof of a skyscraper looking down over a cyberpunk city straight out of a videogame. Eventually, it returns to the boring gray cube, and I’m almost disappointed that I don’t get to see any more.
+
+“As you can see, we can do almost anything here. Once it’s set, we will have to wait a long time to be allowed to change anything, and making any drastic changes will be costly. I will gladly build this place without your supervision if you want me to, but if you have any preferences from what you just saw, say them now.”
+
+Hmmm… How many Floors can we make?
+
+“I was going to explain that in a bit, but I guess I’ll explain that right now. At the moment, we only have one Floor. If we want to make more, the Dungeon needs to gain experience, and to gain experience things need to be killed by the Dungeon. And what kinds of things we can spawn will also be limited by the Dungeon’s level.”
+
+Oh, that’s lame.
+
+“Yes, it’s unfortunate, but necessary. We’re also limited in size to this cube, or some other arrangement of this volume, but that one is easier to fix. It can expand by feeding it mana, and in that way we can knock out two birds with one stone by feeding it the mana-filled corpses in your Stomach.”
+
+Oh, that sounds great!
+
+“But we’re still limited to just the one Floor, and until you can get some living creatures in here so the Dungeon can kill them, we’ll stay limited to one Floor. So if you want anything specific for this first Floor, say it now, or else you’ll be stuck with whatever I come up with for a while.”
+
+Uhhhh, honestly, I have no idea. All those places looked pretty cool. No water, though, I guess. Or at least, not a water Dungeon like that stupid mussel Dungeon.
+
+“Got it. No water Floor. Anything else?”
+
+Nah, not that I can think of. Actually, can you make it spawn scallops?
+
+“I believe so, but I would need to make a somewhat significant part of the floor ocean to do so. And you’ll need to give me some scallops. I can make it a coastal biome, if you want.”
+
+Sure, that sounds good.
+
+“Alright. It’ll take me some time to set it up, and you don’t need to be here for it. It might be somewhat interesting to watch, but it will be long and boring.”
+
+Alright, I’ll get going, then. Now that my Evolution is stabilized, so I can finally go upgrade my Class!
+
+“Yes, go do that. I should hopefully be done by the time you finish. Before you go, toss in a bunch of monsters for the Dungeon to absorb. You should be able to just will them in from your Stomach.”
+
+Sounds good!
+
+I exit the Dungeon, which is as easy as a thought, and then I proceed to shove corpses into the Dungeon until Abby tells me that there’s no room for any more. It’ll take time for the Dungeon to absorb them, but once it does, it will expand in volume, and it will be able to hold more for the next feeding, and she’ll let me know when that happens.
+
+When I close all the Annoying Blue Boxes, I see Julie still laying down, looking at me with confusion. I consider laying back down to finish my nap, but decide against it. There’s a Delicacy waiting for me, and I’m finally not blocked from going to see it! Time to upgrade my Class, and then go to Maligar!

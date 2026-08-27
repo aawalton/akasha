@@ -1,0 +1,138 @@
+---
+id: 5c26f09f-a95e-55b0-a78c-50f80d65b742
+page-type-slug: story-chapter-royal-road
+title: "165 - A Bronze Dungeon Pass"
+partOf: bunny-girl-evolution
+position: 31
+ownLength: 3040
+unit: words
+ownProgress: 3040
+publishedAt: 2026-01-20
+link: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/2960406/165-a-bronze-dungeon-pass"
+royalRoadId: "2960406"
+markedReadAt: "2026-06-29T20:03:39.716Z"
+---
+
+Sucri’s evaluation of Elise’s skills went by surprisingly quickly. Elise thought it would have taken longer than it did, but apparently it was mostly a test of mindset, rather than ability. The upper floors of the Dungeon never had any monsters higher than Tier 3, so even if Elise was weak, she would have been fine if she kept a cool head, and apparently, Sucri saw enough to think that Elise would be fine.
+
+Actually, it seemed that despite not being all that close, she had been watching Elise’s performance in her “spar” against Telvir, and based on that, she had already gone through all the paperwork to get Elise certified before the evaluation even happened. They only spent half an hour in the underground caves before Sucri said she had seen enough and handed Elise a small bronze badge.
+
+“This is a Bronze Dungeon Pass,” she explained. “It’s the lowest level, but that’s all you can qualify for right now without a special exception. We could apply for one for you if you want, since from what I’ve seen, you’re easily at the silver level, and possibly in gold by now, but the approval process is long when you don’t have a big name backing you. Even I can’t fast track that.
+
+“For you, it will be much faster to just manually qualify for high ranks. It’s a fairly simple process. There are a few shafts around campus that go much deeper in, down to the higher tier spawn zones. If you’re able to traverse from one of the lower tier zones to the higher tier zone safely and exit in the shaft, your badge is automatically upgraded. You’re supposed to inform staff before attempting this, just in case you need a rescue, but it’s not too difficult. There are even some pre-mapped routes that prior students have figured out. If you’re in a rush, I recommend trying one of those, but otherwise, I think it’s more beneficial to try it on your own. There’s a lot to be learned by mapping your own route through the Dungeon.”
+
+Elise nodded as she spoke, examining the badge at the same time. It was not a very complex device, but it clearly had some magic circuitry within. Elise tried prodding it with her own mana the same way she would activate another enchanted device like her storage bag, but nothing happened. After a few seconds, she concluded that the magic circuit was probably just some kind of authenticity marker.
+
+The information Sucri gave about the Dungeon was mostly things that Elise had already heard, but hearing it so succinctly put by a professor definitely helped. She knew that the bronze badge was really only good for the uppermost levels, which weren’t useful to her at all, and if she wanted to fight tier 5 or higher monsters, she needed at least a silver badge. Gold would let her into the tier 6 zone, and platinum would give her unrestricted access to the entire Dungeon. It was extremely difficult to get such a badge though, and generally, only the most talented and powerful students had them. Elise felt that she could probably qualify for one if she went all out, or if she just used {Don’t Look At Me, Peasants!} to sneak her way down, but she worried that would reveal too much. For now, at least, gold would be enough for her.
+
+“Do you have any questions?” asked Sucri.
+
+“This badge is valid right now, right?” she asked.
+
+“Yes, it is,” confirmed Sucri. “It is fully authorized and validated, and it actually was before we even got here. You can use it to freely enter any of the bronze entrances around campus, or even outside of campus, though you will have to register your identity and general abilities with the Jelorian government if you want to do that. Fortunately, Archmage Jelor chose an excellent location, so unless you want to hunt something very specific, you should never need to go anywhere but the on-campus entrances.”
+
+“Alright,” said Elise, nodding.
+
+“Do you want to explore right now?” asked Sucri.
+
+“Well, I thought this would take longer, so I feel like going back home now would be kind of a waste. I’ve barely even done anything.”
+
+Sucri smiled. “You’re more than welcome to. I can stay to supervise if you want as well, since I also blocked off quite a bit more time than we used.”
+
+“It’s fine,” said Elise. “I’d like to look around on my own.”
+
+“Of course!” said Sucri. “Do you remember the way back?”
+
+“Yes.”
+
+They had only taken a couple turns, and this part of the Dungeon at least wasn’t very confusing.
+
+“Do you need anything? Water? Rations? Camping equipment?”
+
+“No, I should be fine,” said Elise. “I won’t be staying that long.”
+
+“It’s important to carry emergency provisions regardless of how long you intend to be here,” said Sucri sternly. “Even if you don’t think you’ll be here long. The Dungeon is an unpredictable place.”
+
+“I have some of my own,” said Elise, producing a bottle of water from her spatial pouch. “I always keep some on me, just in case.”
+
+“Wonderful!” said Sucri. “In that case, I’ll be off! Good luck, and have fun! And I recommend waiting to challenge for silver, at least for tonight. Even the shortest routes take a couple hours to traverse.”
+
+“Thank you,” said Elise.
+
+With that, Sucri left, and for the first time in over a month, Elise was finally able to go hunting monsters on her own. This high in the Dungeon, she would be getting essentially no experience, but at least for now, that was fine. She had more important things to do. Despite evolving recently, she had barely gotten to test out her new Skills in combat, and now that she was alone deep in a spawn zone, she finally had an opportunity to use her usual, less than legal methods.
+
+She waited until she was sure that Sucri was gone before turning to walk the other way, going deeper into the caves. The caves themselves were nothing too special, though they did bring back some memories from her time with the dwarves and drow. The resemblance wasn’t too striking, but it was impossible not to think of them as she went monster hunting underground for the first time in months.
+
+That reminds me, Titania said I should go visit the dwarves again, she thought.
+
+By using the teleportation network, she could do so as a day trip, but the fact that a goddess herself told her to do it made her think it might not be so simple. On the off chance that it would take her longer than a single day to deal with, she wanted to have that time available. Fortunately, in a little over a month, the University had a week-long break from class to celebrate Founding Day, which, as far as Elise could tell, was basically the 4th of July and Thanksgiving rolled into one. Everyone got a full week off to spend time with family and celebrate the founding of Jelor. It would be the perfect time to return to Greenwood.
+
+She made a mental note to herself to contact Dokkalfheimr and inform them that she was coming, and then turned her attention back to the Dungeon as she finally sensed a monster up ahead. It seemed to be a Cave Spider, which were a creepy, but weak species of 2nd Tier monsters. She had killed a dozen or so while with Sucri, and had more or less figured them out. Not that there was much to figure out, since as 2nd Tiers, they barely had any Skills.
+
+She deactivated {Subtle Royalty}, letting her aether spread out throughout the cave. It spread out like a wave, passing through the stone corridor and around a corner to where the spider had made its web. As soon as the aether washed over the spider, she sensed the spider perk up and start to creep in her direction. It walked along the ceiling until it reached the corner, then paused, staring directly at her.
+
+With her eyes, Elise could barely see it. She was carrying a magical light stone so she could see in the dark cave, but its light did not quite reach all the way to where the spider lay in ambush. However, even if she didn’t have {Aether Sense}, she would have noticed it, as it did nothing to hide its mana signature.
+
+Monster emotions, especially for low-tier monsters like this one, were very simple and one-note. As she got closer, {Sense Emotions} told her it was experiencing one thing, and one thing only: hunger. It was doing the aetheric equivalent of salivating as she drew near, even sometimes twitching in anticipation as her aether got thicker and thicker.
+
+Right when she sensed that it was close to pouncing, Elise stopped moving, staring at it from about ten feet away. The spider’s hunger was apparently so extreme that it didn’t even notice that it was now fully illuminated, or that it had been spotted. Elise watched it for a few seconds, then activated {Royal Presence}, curious to see what it would do.
+
+As soon as it activated, the spider’s aether went haywire for a few seconds before settling back down into something that Elise wasn’t sure that she had sensed before. It was similar to reverence or respect, but that wasn’t quite it. She had a few guesses, but since she couldn’t read its mind, they had to remain guesses.
+
+Still, she was very curious, especially since the hunger and hostility had completely evaporated. She took a step forward, then another, wondering if it would change its mind as the tasty meal that was her flesh drew nearer, but instead, the mysterious other emotion only intensified. Eventually, she got so close that she could reach out and touch it, and it still didn’t react.
+
+She had seen them from further away, and she had seen them up close after killing them, but seeing an intact one so close made her realize how extremely creepy it looked. Elise had never been the type to freak out over creepy crawlies, but she never liked them either, and seeing this spider certainly wasn’t helping.
+
+Its body was a little bit bigger than that of a cat’s, and including its legs it was close to four feet across. Its whole body was covered in thick hairs, and its massive fangs were pitch black and looked as sharp and narrow at the tips as sewing needles. It had eight eyes, all just as black as the fangs, and from this close, she could see her own warped reflection in them.
+
+She stared at it for a few seconds, then slowly reached her hand up toward it. It did not react, even when she put the hand right in front of its eyes, and when she worked up the courage to touch its head, its only reaction was a light quiver.
+
+Interesting, she thought.
+
+She wasn’t entirely sure what was going on, but she had a suspicion. She doubted that a Skill like {Royal Presence} would usually affect monsters like this, but unlike other royals, Elise was not human. She was a monster, and her princess-hood was related to her race, not her social status. This meant that not only humans, but also monsters viewed her as a princess, and a monster as weak as this spider was completely overwhelmed by her presence to the point that its mind had stopped working properly.
+
+She retreated back to where she was when she first activated the Skill, then disabled it, curious to see what would happen. As soon as the Skill vanished, the spider’s aether went into disarray again before settling back into intense hunger, and it went back to waiting for Elise to get close enough for it to pounce.
+
+This thing is… stupid, thought Elise.
+
+It might have been her own fault for overloading its brain with so much aether, but still, flipping from extreme hunger to extreme reverence, then right back to extreme hunger as soon as the Skill disappeared made her already low opinion of its intelligence drop even further. Did it not have a functioning memory? Did it not remember anything from when her presence Skill was active? Or was its memory simply overloaded by its hunger?
+
+To test this, she re-activated {Subtle Royalty}, lessening the aether content flooding the poor spider’s soul. She sensed its hunger slightly abate, but it still remained where it was, waiting for her to get near enough to attack. Elise sighed in disappointment. She didn’t even know why she was disappointed. She hadn’t even expected anything, but she almost felt sorry for how dumb the spider was. No wonder these monsters so rarely made it past Tier 2.
+
+It at least alleviated her conscience a bit to know that the creature she was using as a test subject was about as far from intelligence as it could possibly be.
+
+She re-disabled {Subtle Royalty} again, letting her aether loose, and this time, she also used {Charm} to strengthen the bond between her and the spider. Apparently, this was enough to push it over the edge, and it got impatient and started crawling across the roof toward her. Elise wasn’t quite ready to kill it yet, so she took the opportunity to move on to her next Skill to test: {Royal Decree}.
+
+“Stop,” she said.
+
+The spider stopped.
+
+“Back up,” she sent with {Whisper}.
+
+It started moving backward, then kept moving backward until she sent it another command to stop.
+
+“Climb down from the ceiling. Curl up into a ball. Jump up and down. Balance on one leg. Sit perfectly still.”
+
+Every single {Royal Decree} she sent was executed perfectly. She had expected as much, but it seemed that the spider was not even trying to resist. Or perhaps it was simply not able to. Elise remembered her own stats from back when she was a tier 2, and she knew that even if she didn’t have an absurd amount of aether, it likely wouldn’t have been able to resist. It was functionally her slave.
+
+She also believed that if she was a human princess, this would not have been possible at all. {Command} would work just fine on monsters, and {Royal Decree} was a derivative Skill of {Command}, but it was much more restrictive, and like {Royal Presence}, it wouldn’t be effective on monsters since they weren’t part of the same social hierarchy. However, because Titania had gone and made her a princess of monsters as well, it was just as effective on them as it would have been on humans.
+
+She sent the spider a few more commands, and as she watched it obey her every whim, she slowly began to realize exactly how incredible of a boon Titania had given her. She wasn’t sure if the fey goddess had even thought further ahead than “wouldn’t it be funny if I made Elise a princess,” but regardless, the gift was extremely powerful. Her royal Skills would usually not be effective on monsters at all, but now, they had possibly just become her most potent tools.
+
+It would take more testing for her to be certain, but if {Royal Decree} worked just as well on more powerful monsters, she would have nothing to worry about against anyone but the most powerful of foes.
+
+She glanced down at the spider, who was now clapping with its front legs. Now that it was on the ground, it looked much smaller and less scary, and with the ridiculous things she was making it do, it didn’t seem bad at all. In fact, it almost seemed cute.
+
+As soon as she thought that, she grimaced and looked closer. No matter how ridiculous it was acting now, it was about as far from “cute” as it could be. Besides, without {Royal Presence} active, she could sense that its mind was still entirely consumed by hunger. If not for the fact that it was bound by her Skill, it would be trying to eat her. It was definitely not cute.
+
+…Mostly.
+
+She made it do a few other things, mostly just to test the limits of what the spider was physically capable of, then she made it stay still as she prepared for the next stage of her testing. This stage made her feel a little bit icky, but it was necessary if she was to figure out the limits of her powers. Like when she was in the Jungle and testing her abilities on the monkeys, she didn’t really have a choice. She needed the answers.
+
+She stared at the definitely-not-cute monster for a few seconds, then closed her eyes and took a deep breath. She refused to even consider that she was hesitating because of the spider’s dubious appeal. Instead, she was worried. While she was reveling in her powers a bit, she was not ignorant to how terrifying she was becoming. As stupid as the spider was, she was pretty sure that a weaker human would be in the exact same situation as it if she chose to use {Royal Decree} on them. Ordinary people simply had no defense against the immense amount of aether that Elise could bring to bear.
+
+And if the next test was successful… Well, she might have become one of the most terrifying beings in the world, and she wasn’t sure if she was ready for that. She was pretty sure that the test would fail. She almost hoped that the test would fail. The book on mental Skills stated that it should be impossible to do what she was about to try to do. However, that book did not cover the Rune of Fate. It did not even cover aether, so she had no idea how a difference this stark would affect it. She was still pretty sure it would fail, but she was scared what would happen if it succeeded.
+
+She took another deep breath and opened her eyes, staring directly at the spider. Then, she crossed her fingers and activated {Royal Decree}.
+
+“Die.”

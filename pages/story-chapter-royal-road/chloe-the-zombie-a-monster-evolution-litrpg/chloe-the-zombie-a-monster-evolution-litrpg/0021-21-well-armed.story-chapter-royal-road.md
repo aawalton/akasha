@@ -1,0 +1,149 @@
+---
+id: 659e95ff-3a16-57e2-bca0-566feef77f55
+page-type-slug: story-chapter-royal-road
+title: "21: Well Armed"
+slug: 0021-21-well-armed
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 21
+ownLength: 1747
+unit: words
+publishedAt: 2025-09-01
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2565610/21-well-armed"
+royalRoadId: "2565610"
+---
+
+There was only one man Ray trusted. And the funny thing was, he was always easy to find.
+
+Ray walked the slums alone. The main streets stank of smoke and sweat, but the alleys carried something fouler. Damp stone, rotting timber, and that faint whisper of old blood. Didn’t bother him none of course. He’d walked darker roads than this.
+
+His steps slowed at an unassuming alleyway. This was the spot.
+
+Ray tipped his hat low against the anemic sunlight and slid inside. At the far end, hunched against the wall, was the same figure as always.
+
+A man with a beard wild enough to hide half his face. And in his hand dangled a bottle, gripped loose like it was the only thing tethering him to this world. To most, he was just another drunk lost in the gutter. But Ray knew better.
+
+He leaned his shoulder against the wall, arms folding easy across his chest. “Evenin’.”
+
+The man’s head lifted slowly. Still, he said nothing. Just extended one hand, palm open, silent as a knife in the dark.
+
+Ray sighed through his teeth. “Still playin’ that game, huh?”
+
+He reached into his coat, pulled out a fresh bottle, and tossed it over without a word. The man caught it clean, flicking the cork off with a neat twist of his thumb. He took a long, slow drink before setting the bottle down at his side. Only then did he finally speak. “Ah… considerably more agreeable. Now tell me, to what do I owe the pleasure, Guildmaster?”
+
+Ray let out a low chuckle, shaking his head as he tipped his hat back. “Now, you don’t gotta be so formal with me, friend.”
+
+The man swirled the bottle slowly, watching the amber liquid catch what little light filtered through the alley. “I only speak this way with you… and perhaps a handful of others. Consider it a privilege. Though, I must ask, how long do you intend to keep that accent?”
+
+“Heh. Truth be told, I’ve grown rather fond of it. There’s somethin’ downright satisfyin’ about the way this body rolls its words."
+
+“You do realize you sound absolutely ridiculous, don’t you? Knowing what your real voice is like makes this performance even more absurd.”
+
+“Maybe so. But I’m just havin’ a bit of fun. Ain’t no crime in that, is there?”
+
+“Perhaps not, though it does make me wonder how long this… act will amuse you.”
+
+“Guess we’ll find out when I get bored. But it ain’t today.”
+
+“Very well,” the man murmured, lifting the bottle for another swallow before his tone cooled into business. “Now, tell me, what brings you here today?”
+
+Ray pushed off the wall as he stepped closer. “Ain’t no need to play dumb. I know damn well you’re the one who sent that white-haired girl to my Guild.”
+
+“Then tell me, do you think she reminds you of her?” The man asked.
+
+“The resemblance is uncanny, to say the least. Wouldn’t surprise me if Chloe is actually her, or at least what’s left of her body.”
+
+“Ah, so her name is Chloe?”
+
+“Seems like it. Looks the spittin’ image of her, but personality? Nothin’ like the woman we knew.”
+
+“That sounds… about right. But you know as well as I do, the gods don’t set pieces on the board without reason. That girl wasn’t sent into the world without purpose.”
+
+“You know what that purpose is? ‘Cause I don’t see it. The gods bringin’ back her body in this way feels like an insult more than anything.”
+
+“I’m still stitching the pieces together, until then, keep your distance from Chloe. The last thing we need is the gods turning their eyes our way.”
+
+Ray gave a slow nod, tugging his hat a little lower over his brow. “Don’t you fret, I ain’t lookin’ to kick the hornet’s nest. I know damn well how the Great Game chews up folks who get reckless. That said, I reckon I’ll keep an eye on Chloe. Call it my own brand of curiosity.”
+
+The man’s eyes narrowed faintly. “If you’re set on watching something, I’d suggest Sol instead. They’ve been making more moves these last few months.”
+
+“I know. Truth be told, it’s gettin’ damn concerning, they've upped their recruitin’ like wildfire. I even heard they’ve been tryin’ to bring in goblins of all things.”
+
+“That is what makes Sol dangerous. They’ll take in anyone… or anything. And yet, their truest secrets remain buried. Even now, I’ve yet to identify every member of their inner circle. That bothers me more than I care to admit.”
+
+“Sol’s always been a mean piece of work. Ain’t no doubt ‘bout that.”
+
+"For now, the best we can do is watch, and be ready to take action when the time comes.”
+
+"And what about the champions? Anyone in that pack we oughta be watchin’ close?”
+
+“Well, there’s one in the north, colder than the winter and twice as patient."
+
+***
+
+Chloe stepped out of the Gilded Goose with a considerably lighter coin pouch. She liked getting all that stuff, really, she did, but the whole thing left her feeling strangely hollow.
+
+She glanced down at the new gear strapped to her. A sturdy backpack sat snug against her shoulders. A new sword hung from her belt, definitely cooler than the old one. A pair of daggers sat crossed at her hips, looking extremely stabby.
+
+More importantly, tucked in a little compartment of her backpack, was the storage scroll. Chloe got a map too, since the guy at the shop recommended it.
+
+Chloe had to admit, having all this new gear felt pretty great. Made her feel like an actual adventurer.
+
+Then she remembered what Baron Willy had said about getting arms. At the time, she didn't think much of what he said. But for once, maybe, he had a point.
+
+She’d lost her arms a few times before and stitched them right back on, no big deal. But what if one got totally destroyed? Gone forever? That would be a disaster.
+
+Which meant only one thing: Chloe needed spare arms. Backup limbs for those real bad days.
+
+In the next hour, Chloe strolled through Kelvane, talking to anyone who looked remotely helpful and asking the most reasonable question in the world: where could a girl get herself some spare arms? Real ones. For emergencies.
+
+Yet, people didn’t seem to get it. Every single one of them sent her to blacksmiths.
+
+A cheerful woman at a fruit cart told her to try “Bob’s Forge.” A nervous guard suggested the Iron Hall down by the river. And some grumpy guy shoved a pamphlet into her hands with a growled, “Best blades in the city.”
+
+Chloe had no issues with shiny pointy things. But unless one of those swords could sprout fingers and wave hello after she lost a limb, it was the opposite of helpful.
+
+She stopped at a stall and tried again. “Hey, I’m lookin’ for arms. Y’know, like backup ones. Just in case something rips off my originals.”
+
+The guy at the stall gave her a confused stare. “You mean… weapons?”
+
+Chloe flailed her hands in front of her. “No? Like, actual arms. With fingers and elbows and everything.”
+
+The man blinked. “Miss, are you alright?”
+
+Ugh. Why is this so hard?
+
+Chloe dragged her feet down the street, frustrated. It was like the whole city had some weird blind spot when it came to basic body part preparedness. She passed another shop window full of swords and shields and groaned. I don’t need more blades. I need limbs! What if some attack totally blasts off one of my arms?
+
+She tapped her chin and glanced around the street. Plenty of people were out and about, and most of them had two perfectly good arms. That was at least one extra per person, which sounded like a solid solution in Chloe’s mind. If she just took someone else’s arm, then her arm problem would be solved.
+
+But then again, humans tended to get all dramatic about things like that. Yanking limbs out in the open would definitely draw the wrong kind of attention, and Chloe wasn't in the mood to deal with crowds of angry humans.
+
+Chloe was racking her brain for a solution when it finally clicked, Happy Beard Guy! Of course. He’d been super helpful before as he helped her find the Guild. If anyone knew where to find easy spare arms, it had to be him.
+
+With a spin on her heel, Chloe strutted back toward the rougher part of Kelvane. The air grew smokier, and the people started looking a lot less friendly and a lot more stabby.
+
+But to her delight, Happy Beard Guy was still in the exact same spot where she’d left him. Same half-empty bottle clutched in his hand, same enormous smile buried somewhere in that glorious fluff of a beard. It was like he hadn’t moved a single muscle since their last chat.
+
+“Heyyy, beard guy!” Chloe called out.
+
+The man slowly blinked, one eye at a time, then squinted at her. A lazy grin tugged at his face as he drawled, “Haaaah… well if it ain’t Little Sparkle. Lookin’ shinier than ever, girlie.”
+
+“I know, right?”
+
+“Heh… knew you had the magic in ya. Knew it soon as I saw that bounce in yer step."
+
+Chloe stepped closer and leaned in. “Okay so, question. You know where a girl can get some arms? Like, not weapon-arms. Actual spare arms.”
+
+Happy Beard Man blinked slowly. “Ssspare... arms. Oh, now there’s a quest.”
+
+He looked off into the distance like he was thinking very hard. Or possibly falling asleep. Then he giggled to himself and waggled a finger in the air. “Y’know… ol’ Jim might not mind.”
+
+Happy Beard Man wobbled his hand toward a narrow alley tucked behind a stack of crates. “Yeah… back there. Jim’s always been the givin’ type.”
+
+“Oh wow, thanks!”
+
+Chloe jogged over to the alley, boots thumping cheerfully on the cobblestones. She peeked around the crates, squinting into the shadows. Yep. There he was. Jim. Very, very dead.
+
+So that’s Jim? Wonder if he was Beard Guy’s buddy or just some dude who wandered in and died for my convenience. Did he die for me? Aww. That’s, like… super nice.
+
+She crouched beside him, hands on her knees, and gave him a warm, approving nod. “Hey, thanks Jim. You’re a real swell guy, y’know that?”

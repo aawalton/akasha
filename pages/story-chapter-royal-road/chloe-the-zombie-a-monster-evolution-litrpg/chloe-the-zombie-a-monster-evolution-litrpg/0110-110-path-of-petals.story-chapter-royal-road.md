@@ -1,0 +1,145 @@
+---
+id: 104d0f05-75b0-5e05-868a-4c7d85b745e6
+page-type-slug: story-chapter-royal-road
+title: "110: Path of Petals"
+slug: 0110-110-path-of-petals
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 110
+ownLength: 2000
+unit: words
+publishedAt: 2026-02-06
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3018776/110-path-of-petals"
+royalRoadId: "3018776"
+---
+
+Chloe went through the doorway with one hand resting on Mr. White’s neck, just in case the place decided to do something funny the moment they crossed the threshold. The door creaked softly behind them, and the sound echoed in a way that made the space feel bigger than it looked.
+
+She paused, letting her eyes adjust, then leaned forward a little like she was inspecting a messy room she hadn’t agreed to clean. The next area was… weird.
+
+Flowers grew everywhere, pushing up through cracks in the floor and crawling along the walls. At first glance they were colorful, reds and purples and sickly blues, but none of them looked right. Their petals were curled like they’d been dried out instead of blooming. Some of them sagged low, drooping like they were tired of existing, while others stood too still, like they’d been frozen halfway through dying.
+
+Chloe wandered a few steps in, poking at one flower with her boot. It didn’t move much, just bent with a faint crunch that made her pull her foot back. “Okay, yeah, no,” she muttered to herself..
+
+These weren’t the nice, lively flowers she was used to seeing. These felt… corpsey, and that was coming from Chloe.
+
+Even still, it wasn't like she had much of a choice. If she wanted to get out, she had to explore the dungeon more.
+
+So Chloe moved carefully through the dungeon together with Mr. White. The strange, stiff flowers clawed their way up through cracks in the stone, but the room was eerily quiet. She tilted her head, squinting at the shadows that flickered along the walls. Usually, a place like this would have something. Monsters, traps, or at least some nasty little critters trying to nibble on her toes. But here? Nothing.
+
+“Hey,” she muttered, glancing at Mr. White. “Where are all the bad guys and the monsters and stuff?”
+
+Mr. White just snorted softly, blue flames flickering in what Chloe assumed was agreement. Even he didn’t seem to know what was going on.
+
+She wandered a few more steps, poking at a vine here, nudging a flower there, when suddenly Mr. White let out a small snort and dashed really fast. Chloe’s eyes widened.
+
+“Whoa! Hey! Wait for me!” she yelled, scrambling to keep up.
+
+Mr. White suddenly surged ahead, way faster than Chloe expected. She scrambled after him as fast as possible before stopping next to the skeletal horse. She didn’t even bother catching her breath, because, well, she didn’t need to. Instead, she squinted at what had made him stop so abruptly.
+
+It was just a wall. Solid stone with no door or obvious passage. Chloe tilted her head, confused. “Uh, what's going on here, do you—"
+
+Mr. White didn’t wait for her to finish. He leaned forward and pushed into the stone, and instead of smashing his skull into it, he slipped right through. The wall rippled like fog around him, swallowing his body until he vanished completely.
+
+Chloe froze, staring at the empty space. “What?”
+
+She stepped closer, reaching out with one hand like she half-expected Mr. White to pop back out. Her fingers hovered close from the stone, and she hesitated. Secret walls were definitely a thing here, apparently. And she wasn't sure if she trusted those kinds of walls.
+
+Still, Mr. White wouldn’t lead her somewhere bad. He was the best horse, and would the best horse ever lead her to anywhere bad? That just didn't make sense at all.
+
+Chloe pressed her lips together, then grinned. Wait for me Mr. White!
+
+She stepped forward, letting her hand pass into the wall as it turned soft and misty around her fingers. And just like that, Chloe walked straight through after him.
+
+The wall shimmered faintly as she pushed into it. There was a weird, tingling sensation, like the air itself was bending around her. Then, suddenly, she stumbled forward and landed on mossy ground as she saw a whole different world in front of her.
+
+It was a massive cave, but not the dark, slimy kind. Light filtered from somewhere above. Holes in the rock, maybe, Chloe guessed, and it pooled on the ground like shiny water.
+
+Flowers exploded in every direction, except these ones were nice to look at. They weren’t stiff or droopy like the dungeon flowers. These were vibrant and practically buzzing with energy. Chloe’s eyes glittered. “Whoa… this… this is nice.”
+
+She took a step forward, letting her fingers brush across petals that felt warm and soft. Chloe had to admit it was officially a pretty place, which only made it weirder that something this nice existed in the middle of a dungeon.
+
+Then, she stood up and spotted Mr. White nearby and waved to him. He answered with a soft snort before moving over to her side. Then, without warning, he nudged her sharply, tugging her forward. Chloe stumbled a little as she caught herself and followed him on instinct.
+
+“Alright, best buddy, lead the way,” she murmured, letting him pull her along.
+
+Chloe skidded to a stop when Mr. White slowed, coming to a gentle halt beside her. She squinted ahead and tilted her head, brushing a lock of hair out of her face. “Okay, what are you trying to show me, Mr.White?”
+
+In response, Mr. White gave a quiet huff and nudged her forward with his skull. Chloe followed his gaze, and then she heard it. Soft, broken sobbing echoed faintly through the cave. Her eyebrows shot up as she froze in place. “Huh, who’s crying in a place like this?”
+
+She stepped closer, eyes scanning the dim corners, until she spotted a figure crouched among the flowers. At first, she thought it was another fey, but this one didn't quite seem like a fey. Black feathers ran along her arms, long black hair fell across her shoulders, and she was dressed in a black dress that looked far too elegant for a dungeon. Chloe squinted. Seriously, what is a fancy black bird lady doing down here?
+
+The woman’s hands were pressed to her face, muffling her cries, and Chloe couldn’t tell why. She tilted her head, unsure, before crouching a little closer. “Hey? You okay? Why are you crying like that?”
+
+Chloe poked her gently on the shoulder. No response. The sobbing continued.
+
+Chloe frowned, tapping her chin. Hmm… okay, maybe she’s one of those dramatic types. I can work with that.
+
+She reached out and, without thinking too hard, gave her a firm shake. “Hey! Snap out of it!”
+
+The bird lady froze, then slowly turned toward her. Chloe’s grin faltered for a second as the woman’s sharp gaze locked onto her. Those eyes weren’t normal at all. They gleamed faintly, like light was trapped inside them, and it made Chloe’s skin prickle in a way she didn’t like.
+
+The lady was clearly avian, but there was something about her that felt heavier than that, like she was more than just some random person crying in a cave. Chloe stayed still, suddenly very aware that poking strangers in creepy dungeons might not have been her best idea. She braced herself, half expecting claws or magic or something painful to happen.
+
+The bird lady looked furious for a second, feathers bristling, and Chloe was pretty sure she had just made a terrible mistake. But instead of attacking, the woman hesitated.
+
+She blinked once, then again, like she was seeing something that didn’t make sense. And then, without warning, she stepped forward and wrapped Chloe in a tight hug.
+
+Chloe blinked, completely frozen. She was okay with hugs, but this one was different. The grip was desperate, almost shaking, like the woman was holding onto her for dear life. Chloe stiffened, unsure what to do with her arms, and glanced down at Mr. White for help. He just tilted his skull slightly and didn't do anything else. Really, Mr. White? Really?
+
+“Ishgria…” the woman whispered as she pressed into Chloe’s shoulder. “I can’t believe it’s you.”
+
+Chloe’s brain screeched to a halt. She gently leaned back a little as confusion fully took over. “What? My name’s Chloe. I’m Chloe, not Ishgria."
+
+The bird lady pulled back just enough to look at Chloe’s face, her hands still gripping Chloe’s shoulders like she was afraid she might vanish. Her voice came out fast and uneven as she started insisting again, talking over herself, saying that Chloe had to be Ishgria. The way she looked at her was desperate, hopeful, and a little unhinged, like she had been waiting for this moment for a very long time.
+
+Chloe shook her head, gently but firmly. “Nope. Sorry. Wrong girl. I’m definitely not Ishgria. I’m Chloe."
+
+The bird lady froze mid-sentence. She stared at Chloe for a long moment, eyes searching her face like she was finally seeing her properly. Then her shoulders slumped, and something in her expression softened. “You are indeed not Ishgria, I am sorry. It has been a very long time since I've seen anyone else."
+
+Chloe relaxed a bit when she noticed the change. The lady looked more present now, less lost. Her eyes still glowed, but the wild edge to them was gone, replaced with something sharper. “So, what were you doing down here, anyway? Crying in a flower cave is kind of weird”
+
+The bird lady let out a small, tired laugh. “I was weeping."
+
+“Isn’t that just another word for crying?”
+
+“It is. I was sad, and the reasons are complicated. But what matters is that even if you are not Ishgria, you are the next best thing.”
+
+“Hey, why can’t I be the best thing?”
+
+The bird lady actually smiled at that, a soft, sad curve of her lips. “Because you are clearly Ishgria’s daughter."
+
+Chloe blinked. Once. Twice. “Okay, hold on. Can you remind me what a daughter is again?”
+
+That made the lady tense up. Her feathers ruffled slightly, and her smile vanished. “You truly do not know?”
+
+Chloe shrugged. “I mean… isn’t a daughter just, like, some girl? A smaller one?”
+
+“Do you remember anything about your past?”
+
+“Yeah. I remember I’m a zombie. Duh."
+
+“Then it seems much has been taken from you.”
+
+“Taken? Like stolen? Because I don’t think anyone took my stuff. I would’ve noticed.”
+
+The bird lady was quiet for a moment, then straightened. “I believe I finally understand what I must do. Tell me, are you familiar with the Sages of the Wilds?”
+
+Chloe nodded eagerly. “Yeah! I met one. Morikhan. Big weird wolf guy. Thought he was a meanie at first, but he was actually kinda okay. Oh! Speaking of people I need to find, have you seen a lady named Maeve?”
+
+“I know where Maeve is. But she will not trust you alone. You will need to bring an elf with you.”
+
+“Ugh, Morikhan said the same thing. But okay, last question. Do you know where my friends are?”
+
+“They are here, in this dungeon as well. But you must hurry. If you delay too long, they may soon find danger.”
+
+That was all Chloe needed to hear.“Okay, yeah, nope, can’t have that. Thanks for the heads-up. And, uh… the hug. That was a lot.”
+
+Chloe swung herself back onto Mr. White and nudged him forward. “Alright, Mr. White, let’s move!”
+
+Mr. White snorted and took off at a brisk trot, hooves echoing against the stone as they charged down the path. Behind her, the bird lady was saying stuff that Chloe couldn't hear, probably just some goodbyes.
+
+Chloe smiled despite herself as she rode, feeling oddly lighter than before. Then, halfway down the tunnel, it hit her. She hadn’t actually thanked her properly.
+
+“Oh, wait," Chloe muttered, tugging on Mr. White’s reins. She twisted around in the saddle and looked back the way they’d come. “Hey! Bird lady! I meant to say thanks for real for helping and—”
+
+She stopped whatever she wanted to say. Because when she looked back, the flowery space was empty.

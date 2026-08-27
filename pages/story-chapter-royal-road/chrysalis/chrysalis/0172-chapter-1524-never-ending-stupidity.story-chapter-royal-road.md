@@ -1,0 +1,119 @@
+---
+id: 8a68c9d0-321c-58db-961b-4cdbb769e964
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1524 - Never Ending Stupidity"
+slug: 0172-chapter-1524-never-ending-stupidity
+partOf: chrysalis
+position: 172
+ownLength: 1212
+unit: words
+ownProgress: 1212
+publishedAt: 2025-03-10
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2116593/chapter-1524-never-ending-stupidity"
+royalRoadId: "2116593"
+markedReadAt: "2026-06-29T19:49:20.764Z"
+---
+
+“You really are a moron.”
+
+“Eldest… please. Don’t you think I feel bad enough already?”
+
+“About what? LIVING?! Tell me you’re upset that you survived, I dare you.”
+
+Leeroy, wisely for once, kept her scent to herself.
+
+I’m tempted to thwack her anyway.
+
+“Evolving in secret, trying to sneak yourself into a fight you couldn’t survive, giving the healers an absolute conniption, not to mention the resources you could have wasted! I don’t like to call my siblings selfish, Leeroy, but holy moly, you make it difficult!”
+
+“I’m not selfish!” she protests. “I just want to give my all to the Colony! Is it so wrong to want to devote your entire self to your family?”
+
+“Leeroy, we are far better served by your life than your death,” I say, exasperated. “You do so much for the family, you’re brave and strong, you and your followers fight so hard. All of that goes away if you go the great big Colony in the sky.”
+
+Leeroy looks confused for a moment.
+
+“There’s another Colony out there? We have to destroy them! I will gloriously sacrifice myself to ensure that we triumph as the superior ants!”
+
+“That’s not what I meant….”
+
+I sigh. This ant is beyond redemption. No matter how many times I try to set her straight, she can’t help but hold fast to her self-destructive philosophy. Somehow, in the process, she managed to turn the others who share her point of view into useful and productive members of the Colony. It’s a miracle, really.
+
+Leeroy now lies flat on the ground while numerous healers pick over her carapace, laughing to the point of losing their grip and falling off. All traces of the fungal growth are gone now, but I’m told it was quite the spectacular sight when it was in full bloom.
+
+Well, not like I need to see it in order to know what it does—that’s what Core Surgery is for.
+
+[Eternal Zombie Fungus: A powerful variant of cordyceps fungus, this semi-sentient growth will use its host to spread vitality-draining spores to their enemies. Upon reaching critically low health, the fungus will activate, taking control of the body and drawing in what it has spread to heal the host.]
+
+What makes this even more absurd is I’m pretty sure the spores from one Fungal host will work plenty well on another, since it’s the same species of fungus and the same species of host. Which means when more and more Immortals reach tier seven, they’ll be spreading the spores all over the place like crazy, making themselves even more unkillable.
+
+“I have no idea how you did it, Leeroy, but you managed to make yourself even more unkillable.”
+
+Unlike the Phoenix Flame Organ, which had a clearly defined weakness, the time it took to refill after being used, this fungus will just keep the ants going forever. They can’t even fall unconscious, the fungus will just take over and keep them fighting, and as long as they are inflicting damage, they’re spreading more spores, which will lead to more healing.
+
+Just thinking of how many spores they would spread on a frontal charge makes my head hurt; they’d be able to stick in the fight for hours. In fact, they would be forced to stick in the fight!
+
+“You’re going to force the other Immortals to choose this evolution, aren’t you, Eldest?”
+
+“Obviously. This evolution kicks thorax. Not a word from you about it either. You’ve done enough damage already.”
+
+Leeroy just sighs. I can see she’s feeling pretty emotionally defeated, but at this point, I have no idea what to do about it. Still, I don’t sympathise, this moron deserves to suffer if it means she has to stick around and help the family.
+
+Suffer forever, fool!
+
+“Well, now that I’m back, you can go and rest, along with the rest of the Immortals,” I tell her. “I’m sure the others will have a lot of questions about your new form, and Smithant will probably have a few things to say.”
+
+“Alright, Eldest.”
+
+There’s no fight left in this ant. Her glorious moment was snatched away, again. I’m sure it's temporary; nothing keeps these fools down for long. Leeroy and the rest of the Immortals will go back to scheming and fighting soon enough, I’ve no doubt.
+
+Here they come now. Filing past in depressed, ordered ranks, each one with a healer on their back, checking them for injuries and whispering mockery into their antennae.
+
+“You’ll live forever.”
+
+“Look at you, not a scratch. Not now, not ever.”
+
+“I’m so impressed,” one says, pretending sincerity. “You’re dedicated to eternal service to the Colony. Eternal. Eternal.”
+
+“I heard you the first time,” the poor Immortal complains.
+
+“Eternalllll,” the healer whispers, trailing off as she continues to check for injuries.
+
+Shaking my head, I turn away from the sorry sight and head back to the defeated looking ant in front of me.
+
+“You know what, Leeroy, you pretty much were dead out there, right?”
+
+She shifts, looking at me reproachfully.
+
+“Obviously not,” she mutters, “I’m right here, aren’t I?”
+
+“You are, but read through your species again. You pretty much died, and then the fungus took over and put you back together. That wasn’t you fighting there at the end, was it?”
+
+“Well… no, I suppose not,” she says, a little reluctantly.
+
+“If you ask me, you were dead,” I tell her, “dead as an ant-shaped doornail. The fungus zombified you and brought you back to life. So… in a way….”
+
+“In a way what?” she says, showing signs of life.
+
+“In a way… doesn’t this evolution… give you the opportunity to die for the Colony… many times? You can give up your life for the Colony in a glorious charge… then the fungus puts you back together so you can do it again. It’s not like you choose to come back, that’s outside of your power, but you do choose to gloriously fight and die.”
+
+“It… it isn’t the same!” she protests, but I can tell she’s thinking about it. A seed of thought has been planted in that thick, thick head of hers.
+
+Hopefully it will take root.
+
+“I’ll leave you be. Take it easy for a little while, Leeroy. I’ll see you later.”
+
+And back out to the platform I go.
+
+As ever, it’s complete mayhem out here, and it's only getting worse as the wave intensifies. Well, nothing else for it, back into the thick of it.
+
+My brains whip into gear as I start to draw deep on my gravitational mana, spinning it together and preparing to unleash a Gravity Well. While I’m at it, I start putting together a gravity mana construct. I’m going to be absolutely pumping out the gravity spells this time around. I need to get used to using my new magic, after all. We’ll see how the fifth likes getting blasted in the face with a singularity or five.
+
+I’m going to give the wave absolute heck until they force me to go back and sleep again.
+
+The Templars are already out here, waiting for me as I step to the centre of the platform.
+
+“Feeling rested, Eldest?” Emilia asks me.
+
+I poke her with an antenna.
+
+“Time for fighting.”

@@ -1,0 +1,253 @@
+---
+id: e1e4c021-cd3e-5b4c-b6c3-6481a6eac5df
+page-type-slug: story-chapter-royal-road
+title: "76: Primal Shenanigans"
+slug: 0076-76-primal-shenanigans
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 76
+ownLength: 2380
+unit: words
+publishedAt: 2025-11-26
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2794923/76-primal-shenanigans"
+royalRoadId: "2794923"
+---
+
+The bald Luphian's body began to change. His muscles stretched, his shoulders widened, and his arms looked like they were about to pop. Then his spine lengthened with a loud crack, and he rose taller and taller, until Chloe had to crane her neck just to keep him in view.
+
+Okay… how big is this guy gonna get? she thought, frowning.
+
+From the corner of her eye, she saw Sabine watching too. She looked just as curious as Chloe felt.
+
+The guy kept growing until his head bumped the ceiling with a heavy thud. He had to hunch forward, and even then, his back scraped against the beams.
+
+His limbs stretched unnaturally, long and thick, with sharp claws now curling from his fingers and toes. Even his face changed, more beast than Luphian now.
+
+And that bald head of his was gone, replaced with a wild mane of thick fur that spilled down his neck.When the last traces of glowing light faded from his body, the not-so-bald-anymore Luphian threw his head back and howled again.
+
+Everyone else in the restaurant decided it was the perfect time to leave. Chairs screeched across the floor, dishes clattered, and people tripped over each other trying to escape the very angry wolf guy.
+
+The massive Luphian didn’t care about the chaos. He growled low in his throat, then charged at Chloe and Sabine. Guess I should probably deal with that.
+
+She raised a hand as shadows curled around her fingers, then darted across the floor. Just as the wolfman got close enough to start breaking things, including her, spears of black shadow burst up beneath him.
+
+The spears stabbed through his legs, tore through his chest, and punched into his shoulders. All of him, really, except for the head. The brain’s the good part. Can’t go poking holes in that.
+
+The huge Luphian let out a choked roar and jolted to a stop. Muscles bulged as he tried to rip himself free, but the spears held him in place.
+
+Chloe casually planted a hand on her hip and tilted her head. “Okay, seriously… how is this guy not dead yet?”
+
+“Because the head’s still intact,” Sabine said.
+
+She raised her hand, and lightning began to spark across her fingers. The sparks twisted and shimmered as they stretched outward, then solidified into a glowing blade made entirely of crackling light.
+
+Then, Sabine stepped forward and swung once. The big wolfie’s head popped right off, flying through the air like it had somewhere else to be.
+
+His body slumped sideways against the wall with a heavy thud, dragging some of Chloe’s shadow spears down with it. Sabine caught the severed head mid-air.
+
+Chloe blinked. Then blinked again. “Dang. That was so cool.”
+
+“Thank you,” Sabine said casually.
+
+With a flick of her fingers, Chloe dismissed the spears, and they quickly vanished into thin air.“I really thought that guy would put up more of a fight.”
+
+Sabine glanced at her, then held out the head of the big Luphian. “Cheer up. Here.”
+
+Chloe stared at it for a second. Then her eyes lit up. “Wait. Is this for me?”
+
+“Of course.”
+
+Chloe gasped, took the head with both hands and cradled it. “Awww, thank you! You’re the best!”
+
+After that, she cracked open the skull and stuck her fingers into the soft, steaming mess inside. She scooped out a handful of brain and started munching happily.
+
+[Brain Consumed: Nodd (Luphian Punisher Level 27)]
+
+[Experience Awarded]
+
+As Chloe slurped up the last gooey bite of brain, her vision began to blur. She was a little disappointed that she didn't get any new skills this time. Then again, the Luphian hadn’t shown much beyond transforming. Maybe it had just been bad luck.
+
+Either way, the familiar fuzziness was already creeping in. It looked like another one of those post brain eating visions was coming.
+
+The world around her melted, and in its place appeared a dim, crumbling building, full of dust and gloom. She wasn’t herself anymore, as she was seeing through someone else’s eyes.
+
+In front of her, or more precisely, in front of the guy whose brain she’d just munched on, stood a much bigger Luphian. This one had thick gray fur, and a scar so massive it cut across his face from brow to jaw.
+
+Whoa. That’s a big scar. I'm gonna call him Scar.
+
+Nodd, the bald Luphian, was kneeling on the floor. “Please give me one more chance. I can make it right!”
+
+Scar just stared for a moment, then casually lifted one leg and kicked Nodd in the chest. The impact sent him flying backward, and he soon hit ground with a loud thud.
+
+And just like that, the vision faded. Chloe blinked back into the real world. “Huh.”
+
+Sabine glanced her way. “What is it?”
+
+“Hey,” Chloe said, licking a bit of brain off her finger. “Do you know any Luphians with, like, a really big scar across their whole face?”
+
+Sabine raised a brow. “No… I’m not familiar with anyone like that. Why?”
+
+“Just saw him after I ate the head.”
+
+“Hmm, that was probably their leader. The Ironfang boss.”
+
+“Oh. Cool. Guess we should avoid him then.”
+
+“Yes, we should. And speaking of, we should probably get out of here before anyone troublesome shows up."
+
+***
+
+Chloe and Sabine ended up under a wide stone bridge that arched over a muddy river. The place didn’t exactly scream “cozy,” but it was quiet, which was probably the point.
+
+She looked around. There was a pile of broken crates near one pillar, and something that might’ve been a boot sticking out of the mud.
+
+The river flowed slowly behind them,with little bits of trash drifting along the edge. Overhead, the underside of the bridge was covered in old carvings and weird scribbles, some looked like names, others just random shapes.
+
+Chloe stared at the doodles for a second longer before turning to Sabine. “Now that we’re here, what was up with that bald Luphian, anyway? Like, he got really huge and strong. But, not strong enough to beat me of course."
+
+“Some Luphians can shift into something called a primal form. Their strength, speed, and endurance all increase during the transformation.” Sabine explained.
+
+“Ooooh. Like a super angry version of themselves.”
+
+“Something like that. They tend to lose control when they change, because their primal form takes over their mind.”
+
+“Wait, how does that work? Like, is it magic? Or a curse?”
+
+“Nobody knows exactly. Some say it’s tied to their ancestry, some old instinct that still lives in their bloodline. Others think it’s linked to their mana. The more chaotic or unstable their magic, the easier it is for that side to break loose.”
+
+“So it’s like their inner wolf goes ‘RAWR’ and then takes over?”
+
+“In very basic terms, yes.”
+
+“Huh. So can they turn back, or is it like… once you go super fluffy, you’re stuck that way?”
+
+“They can shift back eventually. Assuming they survive long enough and don’t burn out their own body trying to kill everything around them.”
+
+“Okay, but what if you punched them in the face before they transformed? Would that stop it?”
+
+“No.”
+
+“What about during the transformation?”
+
+“Also no.”
+
+“What if you distracted them with snacks?"
+
+Sabine just gave her a look. Hmm, why is she looking at me like that?
+
+"Sabine, you okay?"
+
+She sighed, before shaking her head. "Nevermind, I'm fine."
+
+Chloe wandered a few steps away and picked up a stick someone had left near the riverbank. She poked at the mud thoughtfully. “Anyway, if baldie was one of the Ironfangs and he could turn into that, do you think the other ones can too?”
+
+“Possibly. Especially the leader. If he can command someone like Nodd, then he’s probably much stronger."
+
+“Guess that means we might’ve just made a really strong guy mad at us.”
+
+“There’s a chance we’ve made a lot of people mad. The Ironfangs aren’t exactly known for taking things lightly.”
+
+“Right, but hey, didn’t you say something about the Black Maw before? Aren’t they, like, the Ironfangs’ worst enemies or something?”
+
+“Yes. Why?”
+
+“Well, why don’t we just go find the Black Maw and see if they wanna help us out now that we got the Ironfang people mad."
+
+Sabine actually paused to think for a few seconds.  “That’s not a bad plan. Though I'm not sure if the Black Maw would be keen on helping us just because we angered the Ironfang Syndicate."
+
+Chloe was about to say something back. But before she could open her mouth, she heard a loud voice. “Well, well, well. Look what we found.”
+
+She turned around and saw a group of Ironfang guys standing at the top of the slope near the bridge. There were a lot more this time. Ten? Twelve?
+
+“Sabine… is this bad news?” Chloe asked.
+
+Sabine kept quiet at first, looking over the group as the Ironfangs started descending. Then, a faint smile curved on her lips. “Actually, I just got an idea.”
+
+One of the wolfy men started shouting. Something about payback and tearing them limb from limb. Chloe only caught every third word because, wow, that guy was really into yelling. Too bad yelling didn’t stop lightning.
+
+The moment the lead Ironfang guy made his move, Sabine stepped forward. Her whole body lit up, sparks crackling along her arms.
+
+Then Sabine raised her hand and fired a bolt of lightning. It slammed into the lead Ironfang with a really loud sound. He flew backward before the bolt even finished sizzling through him, but the lightning didn’t stop.
+
+The lightning bounced from one Ironfang to the next, each hit landing with a sharp, ZAP!  It leapt from body to body in a blur, way too fast to track.
+
+Sparks flew in every direction, clanging off metal and crackling across the air. Someone tried to scream, but the sound got swallowed by the chaos.
+
+When the light finally faded, most of the Ironfangs were down. Some twitched in the mud, others groaned softly, smoke curling off their armor and fur. A few didn’t move at all.
+
+Only one remained upright, wide-eyed and frozen in place like he was still trying to figure out what had just happened. Of course, this one tried to run away.
+
+Sabine turned and gave Chloe a glance. She smiled. Yay, it's my turn!
+
+She clapped her hands together, and the ground rumbled. A pair of rocky hands burst up from the dirt in front of the fleeing Ironfang, grabbed his ankles, and yanked him down. He faceplanted hard into the mud with a loud splat.
+
+The Luphian groaned and mumbled something into the dirt, his voice a mix of growls and gurgling. Chloe tilted her head, trying to make out the words, but whatever he was saying came out too muddy to bother with.
+
+Sabine stepped up beside her and gave her a nod. “You did good.”
+
+Chloe perked up at that. “Thanks, but what do we do with this one? Any reason you didn’t just zap him like the others?”
+
+"I want to ask him a few questions. And this is a good chance for you to learn how to interrogate."
+
+“What’s ‘interrogate’ mean?”
+
+“It means we ask him questions, and if he’s difficult, we make it hurt a little.”
+
+“Ohhh. That actually sounds kinda fun.”
+
+Sabine gave a small chuckle and motioned for her to follow. “Come on.”
+
+Together, they approached the Ironfang lying in the mud. Sabine reached down, grabbed him by the collar, and yanked him upright.
+
+With a shove, she forced him to sit. Then she crouched in front of him. “You’re going to cooperate, or else.”
+
+The Luphian’s ears flattened. He looked scared, but somehow still managed to bare his teeth and mutter something insulting under his breath. Chloe didn’t catch all of it, but she was pretty sure it involved Sabine’s mother and a goat.
+
+Sabine simply looked over her shoulder. “Chloe. Punch him.”
+
+“Where?”
+
+“Wherever.”
+
+Chloe shrugged, stepped forward, and punched the guy in the stomach. He let out a pained oof and doubled over, coughing hard. A spray of blood hit Chloe’s arm.
+
+She stared at it, nose wrinkling. Ew.
+
+Sabine gave her an approving nod. “Good job.”
+
+Chloe beamed, still wiping blood off her sleeve. “Thanks.”
+
+“Now,” Sabine said, turning back to the Luphian, “Ask him where the entrance to the dungeon is.”
+
+"Um, okay."
+
+Chloe poked the Luphian in the ribs. “Hey, do you know where the entrance to the dungeon is? It's a big one, right under this city I think."
+
+He groaned. “You’re insane.”
+
+“Thank you!” Chloe grinned proudly, then gave the Luphian a light bonk on the head with her knuckles. “Now tell me where the dungeon is.”
+
+The Luphian growled, bloodied and slumped, but still had enough pride to glare at her. Whatever insult he spat came out garbled, but he wasn’t planning to cooperate.
+
+Before Chloe could react, Sabine stepped forward and gently tapped the tip of his nose with one finger. A second later, his whole body lit up with a jolt of lightning that snapped through him with a sharp crack.
+
+He spasmed violently, eyes rolling back, only for Sabine to slap him across the face a heartbeat later. “Talk, or I’ll make sure you don’t know a moment of peace for the next three days.”
+
+The Luphian coughed. “Okay! Okay! There’s… there’s something under the city. We don’t know much. The old bosses called it ‘The Hollow.’ Real old stuff."
+
+Chloe watched the whole exchange, eyebrows raised. She couldn’t help but be impressed. Sabine barely broke a sweat and had this guy spilling secrets. I’ve really got a lot to learn.
+
+"Go on." Sabine said.
+
+“I don’t know how to get inside, I swear. But I’ve heard there’s an entrance somewhere near the old tannery. Nobody goes there now.”
+
+Sabine nodded, satisfied. “That’s enough.”
+
+Chloe tilted her head. “Wait, seriously? That’s it?”
+
+“It’s a solid lead, now we just need our Luphian friend here to take us to the location in question."
+
+Chloe gave the guy a long stare. “Alright then. You’re coming with us.”
+
+“What? No—why would I—”
+
+“You know the area. We don’t. Now move.” Sabine said flatly.

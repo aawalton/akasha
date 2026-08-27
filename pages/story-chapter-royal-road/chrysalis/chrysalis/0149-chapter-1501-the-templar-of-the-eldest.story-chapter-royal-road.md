@@ -1,0 +1,95 @@
+---
+id: e4c01253-7dce-548e-a483-34c32bc7c189
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1501 - The Templar of The Eldest"
+slug: 0149-chapter-1501-the-templar-of-the-eldest
+partOf: chrysalis
+position: 149
+ownLength: 965
+unit: words
+ownProgress: 965
+publishedAt: 2025-02-05
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2048437/chapter-1501-the-templar-of-the-eldest"
+royalRoadId: "2048437"
+markedReadAt: "2026-06-29T19:48:37.049Z"
+---
+
+The Colony has always been fascinated by the way the Class system interacts with their existence. The first new Class to come about as a direct result of the Colony was the Antmancer Class tree first unlocked by Beyn Naligic. Since that first breakthrough, there were numerous others, including the Antsistant Worker Tree, the Colony Militia Tree, and Ant Cavalry Tree.
+
+However, by far the most mysterious was the Templar, somehow linked to the Eldest via a mechanism not fully understood. Only a select few were ever offered this Class, and it’s believed that it only came about as a result of the Eldest’s particular Evolutionary path, as opposed to the normal mechanisms of the System.
+
+The Templars were in direct service to the Eldest, able to sense them wherever they were in the Dungeon. Although no ant was ever able to become a Templar, since it was a Class, which monsters cannot access, the Colony trusted them implicitly.
+
+That was possibly an error.
+
+-           Excerpt from ‘Evolutions Vs Classes. A study of the Colony’ by Xinci
+
+There are six Templars right now, one more statue having popped up in my Nave, and all of them are in attendance. They look like the training they received from the Torpor Police hasn’t done them any harm. They’re all looking cool, confident and in control.
+
+I wonder what that’s like?
+
+I gesture to the three younger kids, and they step toward me, looking cool as iced cucumbers.
+
+Welcome. Are you ready to contribute? I gesture to them.
+
+Of course, they gesture back.
+
+The three of them look so serious I almost want to clack my mandibles in laughter, but that would be rude. As if I’m going to throw these kids into the fight! That would be absurd. I don’t care how much training they’ve done with the Nameless Ones, they can’t be strong enough to battle down here in the fifth.
+
+No, they’re here to throw metaphorical rocks from a safe distance and get some levels so they can unlock new abilities. They have to be around me for that to happen, and hopefully the training they received is enough to keep them safe while they do it. If I think it’s getting too dangerous, I’ll be turfing them straight back to the fourth.
+
+I tell them as much, and the three seem downright offended!
+
+We are here to fight alongside you, Eldest, and make our brethren in the Sanctum of Sleep proud, one of the girls gestures to me.
+
+“I probably should have learned that arm wiggly talk,” Jern muses.
+
+Well, sadly he can’t learn it via osmosis, like I did. Sometimes it’s useful having the collective Will of the Colony flowing into me. I know what they know.
+
+And so you will, I promise them, but safely. Even the Nameless are worried for you.
+
+I use an antenna to point toward a rather innocuous shadow not far away. It wibbles a little bit, guiltily.
+
+The three children stare at it without changing their expression, but I can tell they’re a little upset.
+
+The Nameless believe in you, I assure them, as do I. But we also refuse to waste you. Such promising Nameless must not be lost uselessly. Forgive them.
+
+My explanation seems to placate them a little. I have to say, though, it’ll be nice when they learn pheromonal language. The sign language of the Sanctum is neat and all, but at my size, it’s a lot of work to move all six legs, my antennae and mandibles at the same time. Some of the poses are just straight up difficult! It’s not my fault I’m huge!
+
+“Ah, while you’re here, I should introduce you to some ants. Some useless, annoying ants. Get out here, Protectant.”
+
+…
+
+Nothing.
+
+“Get out here, dammit! You’ve been useless the whole time I’ve been down here, don’t you dare refuse to come out when I ask you to!”
+
+Begrudgingly, an ant appears on top of my head, looking annoyed.
+
+“Eldest. I would rather not expose myself where the Krath could see. We are supposed to protect you in secret.”
+
+“How are you supposed to defend me at all down here?” I scoff. “You can’t tolerate the toxic mana, so what are you going to do? Wave me goodbye if I get captured?”
+
+“We have the same temporary mana bubbles that Sarah and the Immortals are equipped with,” she snaps.
+
+Oh… oh!
+
+“So you actually could have come out to help me if I was in trouble. I didn’t think of that.”
+
+“You aren’t supposed to know about it. You aren’t supposed to think about us at all,” she points out snippily. “And who’s to say we haven’t been out there?”
+
+Well… I suppose it’s possible they were and I just wasn’t paying attention….
+
+[Anyway,] I announce to the gathered Templar using the Nave to speak to all of them at once. [I have twenty bodyguards that the Colony forced on me. They’re hidden pretty much all the time, but it’s important you know they’re around, since I’m going to ask them to help look after you too.]
+
+“Eldest…” Protectant protests, “we are supposed to be protecting you. We can’t do that and look after six humans at the same time!”
+
+“These are my templars, and they’re supposed to help defend me from… something. So I need them. You don’t have to protect them all the time. Just help them out if they’re in trouble. What’s wrong with that?”
+
+She thinks it over for a little while.
+
+“Fine,” she says, then vanishes on the spot.
+
+I wish she’d get off my head, though. I could check to see if she’s still there, but… I can’t be bothered.
+
+[Alright. Now I just need to be introduced to the newcomer.]

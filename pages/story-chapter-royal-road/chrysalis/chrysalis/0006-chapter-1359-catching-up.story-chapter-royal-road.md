@@ -1,0 +1,91 @@
+---
+id: 53806e90-723a-54a8-ac51-e6aebb1cdff4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1359 - Catching Up "
+slug: 0006-chapter-1359-catching-up
+partOf: chrysalis
+position: 6
+ownLength: 1003
+unit: words
+ownProgress: 1003
+publishedAt: 2024-06-21
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1686129/chapter-1359-catching-up"
+royalRoadId: "1686129"
+markedReadAt: "2026-06-29T19:43:50.854Z"
+---
+
+It’s been a long time since I’ve seen some of these ants, but it’s nice to see them again. Propellant and Coolant are here, and they have… most certainly changed.
+
+“Alright, I have to ask, what the heck happened to you guys?”
+
+The two mages both turn to face me, I think, it’s kind of difficult to tell due to the visual obstruction over there.
+
+“I’m not sure what you mean, Eldest,” Coolant replies smoothly.
+
+“Yeah, we’re the same as always!”
+
+I mean…
+
+“You have what appears to be a small volcano on your back, Propellant. The air around you is shimmering with heat! How in the heck can you tell me you haven’t changed?!”
+
+“Oh, you mean the evolution thing. I wanted to be more fiery. I was absolutely inspired when you made that mountain explode. I’d never even contemplated the existence of such a level of heat. I had to aspire to reach that level myself!”
+
+“I think what my hot-headed sibling is trying to say, is that we wanted to further specialise in our elements. When we evolved, we chose… rather extreme options.”
+
+“You think!? You’re half made of ice?! Between the two of you, you’re starting to make a localised weather system!”
+
+The extreme heat coming off Coolant is coming up against the freezing air rolling off Coolant and turning into mist. I mean, it's cool and all, but it's spreading around the room and becoming a bit of a pain.
+
+Of all the ants that I’ve seen reach the sixth tier, these two have certainly gone for the most outlandish choices. Most ants will stick fairly close to our base form, not really modifying it all that much. These two have not shied away from much more dramatic changes.
+
+“So, the idea of becoming some sort of generalist mages never occurred to either of you?”
+
+Coolant wiggles her antennae dismissively.
+
+“Eldest, we of course considered the myriad paths available to the mage ant, but decided that it was necessary for at least some of us to explore the limits of direct specialisation.”
+
+“Yeah! Also, I can blow up stuff incredibly well.”
+
+“Thank you, Propellant, very helpful. As I was saying, this was a choice we made in order to further the knowledge of the Colony as a whole.”
+
+“Right. And it had nothing to do with the fact that the two of you have increasingly identified with, even obsessed over, your chosen elements.”
+
+“Of course not.”
+
+Right. Very convincing. I’ll catch up with these two morons later, since they’re slated to be involved with the fifth exploration, given their mana expertise.
+
+Mendant and Frances are in attendance, of course, looking kind of irritated, as usual.
+
+“How are the healers travelling? Do you have all the support you need?”
+
+“To handle our current level of work? Sure. To cover an invasion into the most toxic and virulent place in the entire Dungeon? Obviously not.”
+
+Frances doesn’t hold back and hits us straight with the bad news.
+
+“You make a good point, we should get on that. Make note, everyone.”
+
+Yeesh, they’re so touchy. I swear, if they weren’t as busy, they’d just complain about being under-utilised. It’s impossible for them to be happy, I’m convinced.
+
+No matter how well we prepare, I expect the fifth is going to prove to be a greater challenge than we can possibly anticipate. There’s a reason that virulent mana has proven so intractable over the millennia. I’ve only been exposed to it in a limited fashion and I’m fully aware of just how poisonous it can be. Even the slightest slip, the tiniest bit of exposure, could lead to an ant receiving a lethal dose. Medical help is going to be critical to the success of the mission.
+
+The two core shapers, Bella and Ellie, are also here. They’ve been hard at work recently, coordinating with Solant and working on their wuffer design.
+
+“How is the core shaper effort working out regarding the fifth’s invasion?” I ask the pair. “You’ve done stellar work so far, and I expect it only got better while I was away.”
+
+The two are extremely pleased to receive compliments for their work, positively radiating pride as they reply.
+
+“We’ve been iterating on the design and think we’re ready for the next major test. You’ll be taking some of our best wuffers with you when you embark on your mission.”
+
+“Excellent. I look forward to seeing how well they perform.”
+
+They did a great job eliminating the goop before, but actually going into the fifth is going to be a completely different story. They won’t be cleaning puddles, or even pools of the stuff. They’re going to be completely submerged in it. If they can’t convert it quickly enough, they’ll be corrupted and die before they can even get started!
+
+Man, that would be rough. I certainly hope they’re up to the task. Without more to be said, I turn to the others and address the group as a whole.
+
+“I have to say, it’s wonderful to see you all together like this again. It’s been a long time, and I think I should say, you’ve done a wonderful job helping to lead our family into a bright and secure future.”
+
+They each clack their mandibles, some enthusiastically, some a little more subdued, as I give them a rare bit of praise.
+
+“We’ve gone through some difficult times, and we will go through more, but you’ve all done your part to help steer us in the right direction. I’m really grateful for everything you’ve done.”
+
+After all, I basically created this council of twenty so I didn’t have to make any decisions. That wasn’t solely out of a desire to avoid hard work, it was also because I recognised I wouldn’t have been any good at it. These ants have taken over the bulk of the work steering out of the trouble I habitually get us into. I’m grateful, deeply, and it’s only right that I let them know.

@@ -1,0 +1,109 @@
+---
+id: 4415089c-cc34-5d5f-bfae-3eb9a1fd3aff
+page-type-slug: story-chapter-royal-road
+title: "183: Going Down"
+slug: 0183-183-going-down
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 183
+ownLength: 1872
+unit: words
+publishedAt: 2026-07-27
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3732990/183-going-down"
+royalRoadId: "3732990"
+---
+
+So... maybe getting inside the Elevator hadn't been the greatest decision they'd ever made. Not that Chloe had realized that at first.
+
+She stepped inside without a second thought, glancing around the massive metal chamber while wondering if there'd be music or one of those little mirrors on the ceiling. Then Z walked in behind her, and she was fine.
+
+Percy and Liz followed together a second later, the giant doors rumbled shut behind them, and before Chloe could even ask if somebody was supposed to press another button or something, the entire Elevator started moving.
+
+"Oh!"
+
+Chloe's startled reaction was all the reaction they got. The floor suddenly dropped just enough to make Chloe's stomach try to escape through her throat before the whole thing shot downward at a speed that felt way too fast. Chloe instinctively grabbed the nearest handrail, mostly because she'd become very attached to the idea of remaining upright, while her hair bounced wildly from the sudden acceleration.
+
+Like... okay. Sure. They had pressed the button outside, she understood that part. Buttons generally made things happen. But a tiny bit of warning would've been nice. Maybe a little "Doors closing!" Or a countdown, anything besides the Elevator decided to just throw down.
+
+The Elevator went down so fast that Chloe didn't even have time to react. One moment they were standing there, and the next the entire world was turning into one giant blur. By the time the elevator finally slowed down, she was so dizzy she could barely tell which way was up anymore.
+
+Then the thing came to a sudden stop. Whoa!
+
+Chloe stumbled forward, her legs wobbling beneath her before she promptly tripped over something and hit the floor. For a few seconds, she blinked at the floor while her brain slowly attempted to remember how gravity worked.
+
+Okay, maybe she was a little dizzy, but she was fine. Chloe pushed herself back onto her feet and brushed herself off as though falling flat on her face had been entirely intentional. "Hey guys, how are—"
+
+She stopped and slowly looked up, only to realize that Z was hovering, Liz was hovering, and even Percy was floating too. All three of them had spread their wings during the ride down and avoided the whole "getting thrown around by the elevator" problem entirely, looking completely fine while Chloe had somehow ended up face-planting instead. Right, we can all fly.
+
+More importantly, Chloe also remembered that she could fly too. A long, painful silence followed as the realization slowly sank in, and Chloe suddenly felt a very strong urge to pretend the last thirty seconds had never happened.
+
+Z looked at her before asking in a perfectly calm voice, "Did you forget we can all fly?"
+
+"Uh... no!" Chloe blurted out. . "I was just, um, testing the floor. To make sure it was safe."
+
+There was another pause before Liz suddenly snorted, and then she started quietly laughing as she floated back down to the floor and tucked her wings away. The smug grin on her face practically screamed that she was going to remember this forever. A second later Percy landed beside his sister, and to Chloe's absolute horror, he was smirking too.
+
+Meanwhile, Z simply dropped onto the floor and folded her wings behind her back. Mercifully, she didn't comment further on Chloe's little accident. Instead, she stepped toward the massive elevator doors and lightly knocked on them with her knuckles. "I assume this thing is meant to open."
+
+Nothing happened, and so Liz crossed her arms. "Must be busted, we might have to break our way out of here."
+
+This was it, Chloe knew this was her chance! If she did something cool right now, everyone would completely forget about her embarrassing little floor-testing incident. "I got it!"
+
+Without waiting for objections, Chloe stepped forward and raised one hand. Lightning immediately began gathering around her arm with a loud crackling sound. The energy stretched outward, growing longer and thicker until it formed a blade of pure lightning extending from her hand. The weapon was nearly as tall as she was, its glowing edge humming loudly as stray sparks leaped across the metal walls around them.
+
+"Oh, that's cool," Percy muttered.
+
+"Aww, thanks! I made it myself."
+
+Chloe grinned from ear to ear as it already looked like people weren't gonna bring up her oopsie now that she was gonna do something cool. Feeling significantly better about herself, she put a bit more flair into her movements than was probably necessary and raised the enormous blade of lightning high above her head before swinging it at the elevator doors.
+
+The moment it struck, a deafening screech echoed throughout the elevator as metal practically screamed. The glowing blade cut through the doors far more easily than Chloe had expected, carving out a Chloe sized opening while molten metal dripped from the glowing edges and bright sparks sprayed everywhere like some kind of fireworks display. Honestly, it looked incredibly cool, and Chloe was definitely making a mental note to do this more often every time she faced some other cheeky metal doors in the future.
+
+For one glorious moment, Chloe stood there proudly. Then she lifted one foot and kicked the damaged doors as hard as she could. BOOM!
+
+The metal gave way immediately, the cut section crashing inward with an enormous noise before slamming onto the floor beyond. Chloe placed her hands on her hips and smiled smugly. "There!"
+
+Z walked past her and gave Chloe a light pat on the shoulder, telling her they should get moving. Chloe frowned a little at how calm she was being. They had just cut open a giant ancient elevator, traveled who-knew-how-far underground, and arrived in some mysterious place nobody seemed to know much about, yet Z was acting as though they had merely stepped off a bus. But as kinda sad as she was, Chloe couldn't exactly stand there forever, so after one last glance at the ruined elevator doors, she reluctantly followed after Z.
+
+The moment she stepped outside, Chloe was just stunned. Uncomfortable wasn't nearly a strong enough word for what she felt. She was terrified, spooked, and more than a little bamboozled.
+
+What Chloe saw was a massive industrial district. Big factories rose like steel mountains, their countless pipes and smokestacks disappearing into the ceiling. Metal walkways connected enormous buildings together, while gigantic machines rumbled somewhere in the distance.
+
+The strangest part, however, was that this place had clearly been taken over by Divinity Inc. Their logo was everywhere. Huge glowing signs displaying the company's symbol hung from buildings. Massive banners draped across factory walls. Even the metal containers stacked around the district had the familiar logo painted onto their sides. Some buildings even had giant electronic screens displaying advertisements for products Chloe had never seen before. It looked less like an abandoned industrial zone and more like someone had built an entire city for the company.
+
+As if that wasn't unsettling enough, robots were patrolling the streets. There weren't many of them, only a handful that Chloe could see, but that honestly made things even creepier. Some resembled tall metal soldiers carrying strange weapons, while others rolled across the ground on wheels, and of course there were a couple of those crab bots she saw before too.
+
+The only good news was that there didn't seem to be anyone else around. No angels or office people asking why four complete strangers had just crawled out of a giant elevator. There were only robots patrolling the area like this was perfectly normal, which was honestly both comforting and super creepy at the same time.
+
+Chloe slowly looked around the massive industrial district, then glanced back at the elevator behind them before turning back toward the endless sea of factories and Divinity Inc. logos. "I'm like... ninety percent sure we're somewhere we're really not supposed to be here."
+
+"You think?" Liz said with a snort as she stepped beside Chloe.
+
+Z slowly scanned their surroundings, seemingly trying to make sense of what she was seeing before finally turning back toward the others. "I am not entirely familiar with what to expect here. However, this appears to be some kind of industrial sector. Places like this do not operate on their own, which means there should be an administrative center somewhere beyond this area where management and logistical operations are handled. If we want answers, that would likely be the best place to start."
+
+That sounded reasonable enough to Chloe. Huge companies always had office buildings somewhere, right? There had to be some gigantic headquarters hidden in all this mess where people filled out paperwork. It was admittedly a little hard to imagine anyone doing office work in a place that looked like the setting of a supervillain movie, but she supposed every giant corporation needed accountants and managers too.
+
+"Okay, sure, but is there any reason these things aren't attacking us yet?" Chloe asked.
+
+Because seriously, that part was weird. They had broken into some secret underground district that was very obviously owned by Divinity Inc., and were currently standing in the middle of the street looking suspicious. Chloe wasn't exactly an expert on security systems, but she was pretty sure random intruders usually got shot at immediately.
+
+As though the world had been waiting for her to ask that exact question, a burst of loud static suddenly echoed throughout the entire district. Bzzzzzt.
+
+The noise made Chloe nearly jump out of her skin as it blared from hidden speakers somewhere overhead. Then a voice spoke. "That is an excellent question, and one I am more than happy to answer. All units, execute termination protocols."
+
+Every single robot in the district stopped moving. One after another, dozens upon dozens of glowing eyes were now staring directly at Chloe, Z, Liz, and Percy. Oh, wow.
+
+Chloe swallowed. "Well, that's probably bad."
+
+Beside her, Liz looked around at the suddenly very interested robots and slowly raised an eyebrow. "Okay... who was that?"
+
+Z let out a small sigh. "Administrator A, I will explain more later. For now, I believe preparing for combat would be the wiser course of action."
+
+"Already on it." Percy said.
+
+The words had barely left his mouth before he shot into the air with a powerful beat of his wings, moving so suddenly that Chloe nearly missed it entirely. One of the nearby spherical drones immediately reacted, its body turning toward him as though preparing to fire.
+
+It never got the chance. Percy twisted in midair and kicked the drone with enough force to make an actual cannon jealous. The machine flew away like a soccer ball.
+
+A moment later, it slammed directly into the head of a nearby humanoid droid with an explosive crash, tearing the larger machine off its feet as both robots crashed into the ground in a shower of sparks, twisted metal, and flying debris. For a single glorious second, Chloe simply stared.
+
+Then every robot in the district moved at once. Weapons began unfolding from metal limbs. Glowing barrels lit up one after another. Drones rose into the air as warning sirens suddenly blared throughout the industrial district.

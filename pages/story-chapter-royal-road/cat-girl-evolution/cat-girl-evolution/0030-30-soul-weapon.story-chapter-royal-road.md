@@ -1,0 +1,255 @@
+---
+id: ec23979e-7ed8-5bcd-adf0-5f3e2e15f4b8
+page-type-slug: story-chapter-royal-road
+title: "30 - Soul Weapon"
+slug: 0030-30-soul-weapon
+partOf: cat-girl-evolution
+position: 30
+ownLength: 3427
+unit: words
+publishedAt: 2025-10-01
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2642447/30-soul-weapon"
+royalRoadId: "2642447"
+---
+
+“Abby, why am I naked?” I say out loud.
+
+It’s nice to have human vocal cords. It would be nicer if I also had clothes.
+
+“Because you don’t have any clothes on.”
+
+“Yes. Where are my clothes?”
+
+“You don’t have any.”
+
+“Why not?”
+
+“Because you never took any? Where would you have gotten clothes?”
+
+“Well then, this disguise isn’t very perfect, is it? I can’t show myself to anyone like this!”
+
+I change back to my cat form. I can’t be running around the woods naked. People might think I’m crazy!
+
+“Yes, we couldn’t have that.”
+
+I need to find clothes! You think there are still some left in the village? Seafoodmen don’t wear clothes, so probably, right?
+
+“I wouldn’t know.”
+
+I’m gonna assume there are, because I’m going back to the village anyway, and it would make things easier if there are.
+
+“You do that.”
+
+I will. I’m pretty strong now. I bet that none of the seafoodmen would give me any trouble. I bet even the big fishdude would be helpless before me. I think it’s time for some hunting!
+
+“You’re forgetting something important.”
+
+What?
+
+“Your Profession. You can select it now.”
+
+Oh yeah! More free stats! What are my options?
+
+[ Profession options: ]
+
+[ Taste Tester ]
+
+[ Campfire Cook ]
+
+…
+
+Is that it?
+
+“Profession options are based on what you’ve done. Frankly, I’m surprised you even qualified for Campfire Cook after only having done it a couple times. Ordinarily, you’d apprentice under someone with a Profession that you want to unlock it for selection.”
+
+So I have to pick one of these?
+
+“You can always wait and try to unlock more. I personally would recommend that. Neither of these Professions are good, and now that you have a humanoid form, you should be able to acquire something actually worthwhile. Of course, if you want the stats, you’re welcome to select anyway, but both of these professions provide only 15 stat points total per level, and compared to your current thousands, that’s a drop in the bucket.”
+
+Damn. This sucks. Why didn’t you tell me this before? And why did you tell me to select if you knew the options would suck?
+
+“I would have tried to tell you, but I knew you wouldn’t listen. And I’m showing you now so that you will understand. I figured it was faster than explaining before having you check.”
+
+Well, I guess I’m waiting then. I don’t want to be stuck with something so lame.
+
+“I don’t know that any basic Profession will meet your standards of non-lameness, but you can certainly do better than these.”
+
+Yeah, definitely. I’m the Chosen One, after all.
+
+Well, since I can’t do that, guess it’s time for hunting!
+
+“There’s something else you’re forgetting.”
+
+Ugghhhhh, what is it now?
+
+“Your Soul Weapon.”
+
+My what?
+
+“Didn’t you read your Status Window? It-”
+
+My Royal Status Window.
+
+“Fine, your Royal Status Window. Check again. You have a new section for Soul Weapons, and you’ve unlocked one for evolving into a Named Monster.”
+
+[ Soul Weapons: Gluttonous Greatsword ]
+
+Oh! This is like the staff thing that Flarn had! And the Trident that the big fish guy has! What does it do? How do I use it?
+
+“You can look at the details by focusing on it. And you can summon it just by thinking about it. The knowledge of how to use it should be intuitive.”
+
+Sweet! Gluttonous Greatsword!
+
+[ Gluttonous Greatsword: Like its owner, this sword has gluttonous tendencies, and will drink in the blood and mana of that which it strikes. The user will get a portion, allowing them to regenerate both their body, and their mana reserves. Once per day, the user can use all mana stored within the Gluttonous Greatsword to empower a magical Skill. Once per day, the user can use all the blood within the Gluttonous Greatsword to heal their wounds and empower their bodies ]
+
+Woah! That seems really strong! Is Flarn’s staff that strong too?
+
+“Probably not quite as strong. Yours was clearly influenced by your Gluttony Trait, while Flarn had no such Traits. Still, now that I have access to Named monster sections of the System, I can confirm that all the Named monsters’ Soul Weapons are strong. And the reason you can’t use Flarn’s staff is that you are not bonded to it. If you bond to it, you might be able to use it, but you also may not be compatible. In fact, with your aversion to water, I fully expect you to be incompatible.”
+
+We’ll see about that.
+
+“Blergh!”
+
+I summon Flarn’s staff from my Stomach, only then realizing that somehow, it is edible. Is there anything I can’t eat now?
+
+“Doubtful.”
+
+Great. Well, let’s see if I can bond to this thing! Abby, how do I do it?
+
+“Without the Appraise Skill, it’s hard to know exactly, but if you are compatible, just touching it and thinking about bonding with it should be plenty.”
+
+Alright, staff. Bond with me!
+
+…
+
+It’s not working
+
+“Looks like you’re not compatible.”
+
+Impossible. Bond!
+
+“It’s not going to-”
+
+BOND!
+
+I try another dozen times, but no matter what I do, nothing happens, and no new Soul Weapon appears on my Royal Status Window. Dang, I guess I’m really not compatible.
+
+“Look on the bright side. Weapons like this are probably worth a lot of money. You’ll be rich if you can make it to an Enlightened city and sell it.”
+
+Yeah, I guess…
+
+“Money can be exchanged for goods and services. Think of all the food you could buy with that money.”
+
+You know, that’s a good point! Alright, stupid staff, I’ll save you for later. It’s time to check out my true Soul Weapon. Gluttonous Greatsword!
+
+There is a loud thunk as the sword appears in front of me. For a few seconds, I just stare at it, dumbfounded. It’s enormous! It’s way too big to be called a sword. It’s more like a huge hunk of metal. Can I even lift this?
+
+I conjure up my mana arms and reach down to grab the handle. It takes a bit of effort to find my balance, but after a couple seconds, I actually do manage to lift it somehow. It costs mana to hold something this heavy in my mana arms, but not so much that it’s a problem. Especially not now that my mana reserves are much bigger than they were before.
+
+I walk over to the nearest tree, still holding the sword, then bring it down in a diagonal arc. I don’t even use Slice, but the sword cuts cleanly all the way through the tree, sending it crashing to the ground. Wow, this thing is sharp. And a lot easier to use than I thought it would be.
+
+“It’s still your lowest stat, but your Power is almost 2000 now.”
+
+Huh, yeah, I guess you’re right. It’s still a little inconvenient though. I bet it will be easier to use in my catgirl form. Too bad I don’t have any clothes yet. I need to make it to the village. I think it’s hunting time!
+
+“Wait. One last thing.”
+
+Again? What now?
+
+“Your Infiltrator Quest.”
+
+Oh yeah! What was that again?
+
+[ Infiltrator Quest: Spend 5 days with other races without being discovered. Reward: Racial Experience Points ]
+
+Huh. Seems easy enough. I’ll keep that in mind. Anything else I’m forgetting before I go hunting?
+
+“Nope.”
+
+Alright, let’s go!
+
+Four hours later, I’m standing on top of a small pile of corpses. It’s getting close to sunset, so the seafoodmen aren’t quite active yet, but there are still a fair amount of them roaming around. Mostly octodudes sticking to trees and hiding while keeping watch. Unfortunately for them, Food Sense’s range has tripled, so I can spot them from pretty far away now. And between my newly tripled stats and Spatial Slice, it’s hard to believe I ever had trouble breaking their skin. One swipe is all I need to literally tear them to pieces.
+
+I wasn’t very careful with my first attack, and I wasn’t ready for the power, so I accidentally cut down a tree when I killed the first octodude, which attracted all the other ones to me. They’re all dead now, of course, and they smell tasty.
+
+I eat through a concerningly large amount of one of the ones on top before sucking them all into my Stomach. A nice, not-so-obvious benefit of the evolution is that my Stomach is way bigger now. Incomparably so. Abby says it’s because my Gluttony Trait upgraded twice. It’s really nice because now I never have to leave any food behind ever again. At least not for a while. Or maybe until I finish my seafoodmen massacre.
+
+As I noticed earlier, another nice benefit of the Evolution is that my mana pool is way bigger now. Like four times bigger. That means that from the original dozen or so Blinks I could do before, I can now do around 50. I didn’t do all 50 to test, but I did a couple as an experiment, and the expenditure tracks. I can also use Spatial Slice without worry. Not that I was worried before, but it does use mana now, so that might be a concern if I get into a really long fight.
+
+In addition to having more mana, I can also control it better. I think that has something to do with my Finesse getting so high. I can control my mana limbs much better, even when they’re away from my body, and with the addition of Spatial Slice, my detached limbs can now do some serious damage. I killed the last couple octodudes using just them without even moving from my spot.
+
+Basically, I’ve turned into a very dangerous kitty. Dangerous enough that I’m pretty sure I can safely walk into the village, and none of the seafoodmen will be able to stop me. The big question is whether it will be enough for Mr. Big Fish Dude.
+
+Well, no time like the present to find out! Mr. BFD, here I come.
+
+I continue onward toward the village. There are a few more seafoodmen roaming around, but I’m fast and deadly enough that most of them don’t even notice I’m there before they die. I make it to the edge without much trouble, and after looking between all the houses, I decide to go to Miss Jennie’s. She’s the closest to my human form in size.
+
+I run up to the window, which is closed now, and then use Blink to get inside. There are five fishmen sleeping on the floor, but all of them die without waking up. I put them in my Stomach before they can get too much blood everywhere, then head for the master bedroom. There are a few more fishmen in the bed that I take care of before turning to the closet.
+
+As I suspected, it’s mostly untouched. It looks like something probably went through it, but none of the clothes are damaged, so after double checking to make sure I’m alone, I close the closet door and activate Perfect Disguise.
+
+The first outfit I try has pants, because I figured that would be better, but there’s a slight problem with that: I have a tail. My options are either to lower the pants to let my tail out the top, or to shove my tail into my pants, and neither are ideal. It would be completely undignified to show that much of my rear, and I will not have my tail treated so poorly by shoving it into the pant leg.
+
+That means I have to go for a dress, and after trying on a few of them, I settle for a nice little white one with red flower patterns. It doesn’t fit me perfectly, but it’s close enough that it doesn’t really matter. I’m clothed now, and that’s all I care about. Now, for the real test: what happens when I switch back to cat form while wearing clothes?
+
+I test exactly that, and surprisingly, instead of being stuck inside the dress I was wearing, everything is fine. The dress is gone. When I switch back to catgirl form, the dress is still on. Perfect!
+
+“You could say it's a… Perfect Disguise.”
+
+Shut up.
+
+Well, now that I have some clothes finally, let’s see how this sword feels in my real hands.
+
+I walk back out into the bedroom, then summon my sword. It appears in my hands this time, rather than on the ground, and the sudden weight almost makes me fall over from the change in balance. However, as a cat, I still have Cat-Like Reflexes, so I catch myself. Then, I look closely at the sword again.
+
+It somehow seems even bigger now. It’s longer than I am tall, and not by a little, and the base of the sword right above the hilt is as wide as my waist. The whole thing is pitch black, but when I look closer, there are some almost invisible vein-looking patterns carved into it starting from the base and spreading all the way to the tip.
+
+It looks incredibly sharp, so I touch the edge to see how sharp. Surprisingly, it doesn’t cut me. In fact, it doesn’t seem capable of cutting me. It’s like I’m immune to it. That’s convenient. It would suck if I accidentally cut myself in half or something from swinging it wrong.
+
+The handle is wrapped in leather, or at least something leather-like. Interestingly enough, there are already grooves in it that fit my hands perfectly. That's weird. Then again, guess the sword was made for me.
+
+Carefully, so I don’t accidentally break anything in the house, I swing it around so that it’s resting on my shoulder. Much better! I can actually walk around almost normally like this! Now, time to test it out on some actual enemies.
+
+I walk out of the house, throwing the door open, startling one of the weaker sharkmen who looks like he just woke up. The sun is now setting, and all around, I can hear the bustle of activity as the seafoodmen wake up and start going about their business, whatever it is. The weak sharkman charges me, but I reach out with my left hand and cut him to ribbons with a casual Spatial Slice. These Tier 1 monsters are just too weak now.
+
+I see a few more seafoodmen nearby who notice the commotion, and they start moving toward me to attack. It’s only a few though. This won’t do. Now that I have clothes and power, it’s time for some good old fashioned slaughter.
+
+I take a deep breath, then shout as loudly as I can.
+
+“GOOOOOOOOOD MORNING SEAFOODMENNNNN!”
+
+It had been a long week filled with ups and downs for Skarn. Mostly downs. It had started with an up when he finally managed to chase the cat away, completing his Leader Quest and earning him some very nice rewards. Then, his Named subordinate turned out to be one who disliked him. Then the Dungeon Core had gone missing. Then the dangerous human had shown up. Then Flarn had gone missing. The only silver lining was that the mana concentration was almost triple what it had been before, but that was small comfort compared to everything else.
+
+He still could not find Flarn. His System Assistant assured him that she would not be able to leave the Territory, but he had no idea where she was hiding. If she was even still alive. He tried not to think about that possibility though. She was a Named like him, and wouldn’t die so easily. And as a Hermit, she was most likely hiding out somewhere where no one and nothing would bother her.
+
+Unfortunately, he really couldn’t afford to spare the manpower to put out a full search at the moment. For the past few days, he and the assassin human had been playing a dangerous game of cat and mouse where they kept taking turns being the cat. Skarn would try to lure her in, while she would try to lure him out. She seemed to want to kill him as soon as possible, but whenever he tried to retreat and ignore her, she would slaughter the subordinates of his that were staying on land. He couldn’t fall below a certain number aboveground, so he was forced to keep more than usual there, and sometimes even personally defend them.
+
+Skarn considered himself to be a pretty good strategist. After all, that’s what he was born to do. Managing large numbers of monsters and thinking of the big picture was his specialty. It was because of this that he knew that he was losing. The human seemed to be inexhaustible. She would attack at the most inconvenient hour for him, preventing him from being able to properly rest. If only he wasn’t required to keep his subordinates on land to hold his territory. If he could bring them all underwater, it wouldn’t be a problem.
+
+He hadn’t completely lost though. The cat had vanished. It hadn’t been seen in 6 days, at least. He assumed it had run away. While it seemed capable enough, it didn’t really have a good reason to stick around with Skarn taking over. That meant he was only fighting a war on one front.
+
+When nightfall came, he was just waking up from a nap after the human’s latest attack. And of course, he woke up to a report from one of his subordinates that his subordinates in the village were being killed again. With a bubbly sigh, he got up from his waterbed and swam up to the surface. As he did, his subordinates continued to die en masse. Much faster than they usually did when the assassin human attacked.
+
+He grimaced, wondering if reinforcements had finally arrived. If they had, he might have to abandon the shoreline. It wouldn’t be complete abandonment of his Territory, but he would still lose out on some of the benefits if that happened. Still, he needed to check it out for himself.
+
+He got to dry land and swapped back to his human form, summoning his Soul Weapon at the same time as he ran to the village. What he found there was… not what he expected. His subordinates lay in pieces all over the place. Some were still fighting, but he could tell that they stood no chance. They were dying in droves as a single figure stood in the middle of them, swinging around a sword bigger than she was.
+
+[ Princess Yona, the Chosen One ]
+
+One glance at the sword drinking in the mana and blood of everyone it hit was enough for Skarn to know that sending in his subordinates to tire her out wouldn't work, so he gave a command for them all to retreat. With no more enemies in her range, the woman turned to face him, a smile on her blood-splattered face.
+
+“Well, look who finally decided to show up!”
+
+When their eyes met, Skarn’s eyes widened. This was not reinforcements from the humans. He knew those eyes. That was no human. That was the cat. And it had evolved into a Named monster. He had spoken to his System Assistant enough to know that evolving into a Named monster was not an easy feat. It needed a great deed to trigger such an evolution. A great deed such as killing another Named monster.
+
+“Where is Flarn?” he growled.
+
+The cat responded by opening her mouth and vomiting. From her mouth, Flarn’s head emerged, severed cleanly, where it was caught by a spectral hand and held up so Skarn could see it clearly.
+
+“Right here!” she said, happily.
+
+Skarn was immediately blinded by rage. For just a moment, he no longer cared about his Territory as much. The cat, which had been a thorn in his side for so long, had now gone and killed Flarn. That was unacceptable.
+
+The cat had clearly gotten much stronger, but it was still only a Tier 2. Skarn was not only a full Tier higher, but had also managed to evolve his Class once more, and even unlocked a Profession. He would not go down easily. No, he would not go down at all. His Territory needed to be protected. Flarn needed to be avenged.
+
+Wordlessly, he twirled his trident and approached, ready to fight.

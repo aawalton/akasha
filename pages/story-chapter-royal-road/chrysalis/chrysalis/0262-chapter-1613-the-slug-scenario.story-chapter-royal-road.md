@@ -1,0 +1,61 @@
+---
+id: e2b2b475-af7a-5c43-adab-e3a6bf9b2756
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1613 - The Slug Scenario"
+slug: 0262-chapter-1613-the-slug-scenario
+partOf: chrysalis
+position: 262
+ownLength: 997
+unit: words
+ownProgress: 997
+publishedAt: 2025-07-31
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2480127/chapter-1613-the-slug-scenario"
+royalRoadId: "2480127"
+markedReadAt: "2026-06-29T19:52:11.916Z"
+---
+
+It was galling to Zluth to find just how extensive the hidden path network of the Gluzzgith tribe proved to be. All these hidden tunnels and connections which drove straight through the heart of the Dungeon!
+
+Revealing its existence to them was a great show of faith on behalf of the Krath’lath, Thulziss, but also a demonstration of power. He was letting them know that his mighty tribe had access to their territory whenever they’d wanted it, a chilling thought for the Lirz, Bulg and Thuuz.
+
+As for the Slee? It didn’t matter to Zluth if a slug like Thulziss could access their territory, the Gluzzgith could annihilate such a small tribe without even lifting a finger. What did he care?
+
+What he found so annoying was just how cunningly and expertly concealed the network was. He’d passed multiple entrances during recent months and hadn’t noticed a thing! For someone who prided himself on his ability to observe and scout within the fifth stratum, it was absolutely galling that something this size had been able to slip by him.
+
+Despite the sly and ingenious tunnel network, some modifications had to be made on the way. The enormous size of the insect monster required them to widen many of the entrances, and even if the secret passages were safer, they weren’t free of mucus or monsters, requiring the slugs to move carefully and fight their way through on occasion.
+
+Despite the challenges, the group was more than capable of dragging the captive monster all the way down, to what Zluth viewed as the very depths of the stratum, but could be nothing of the sort.
+
+Despite the danger of the journey, which was very real, even the Krath were not safe during a wave in the fifth, Zluth still found it impossible not to watch the unfolding attitudes of the powerful Krath’lath around him. The deeper they travelled, the more vicious and gleeful Chozth became. She had lost many warriors of her tribe to the ant monster, and its impending doom filled her with savage joy. She would often strike the ooze surrounding the creature, spitting and snarling.
+
+The others, including Zluth himself, left her to vent her anger. Chozth was, even in present company, a deadly and vicious fighter. There was no need to risk antagonising her and turning themselves into the target of her ire.
+
+With them were also Ulliz and Mulzoz, leaders of the Bulg and Lirz tribes. The two spent a lot of time together, whispering and scheming. Zluth had attempted to listen in on their discussions, but they were so secretive and cautious that he hadn’t been able to get close enough. It was obvious they were plotting a course of action, perhaps even a temporary truce between their two rival tribes, to strengthen their positions once the invasion had been defeated.
+
+Perhaps they were even trying to collude against the Gluzzgith, whose influence in these upper areas of the fifth had grown immensely. Zluth judged it unlikely, however. What reason would Thulziss have to fight over these territories, even if he easily could? No doubt he was worried about other powerful tribes in the depths. There was no such thing as a tribe of Krath that didn’t have rivals and enemies. The slug tribes fought and schemed amongst each other as naturally as they breathed.
+
+Zluth turned his gaze back to the giant ant, completely entrapped with ooze. Such a powerful monster brought down by the toxins, it was almost strange to be this close to it, after what he had seen it do.
+
+The other Krath’lath acted as if the invasion was already over, now that the ants had lost their best soldier. Yet the mission remained the same. The invasion needed to be completely crushed in order to send a message to those responsible in the higher layers of the Dungeon. The singing had to be extinguished, the creatures responsible subjected to the greatest horrors the slugs were capable of.
+
+And of course, the second monster they had been ordered to turn. Theorazzn had spoken and Zluth intended to see all of the tasks fulfilled. As he was ruminating over this, he felt something reverberate through the stone beneath his foot. Then again.
+
+The heart, they were getting close.
+
+Again he turned his eyes towards the ant monster. It wouldn’t be long now until it was turned. Once they had submerged it in the viscous slime of the Ancient, what would it look like when it emerged? He couldn’t deny he felt a little of Chozth’s glee at the prospect. He wanted to be there when they sent it back against the ants. Hopefully the fortress hadn’t been broken before then, so he could see the hideous monsters torn apart by the one they had counted on to protect them.
+
+It would be glorious.
+
+Thulziss slid back towards them and all eyes turned toward him.
+
+“Not far now until we enter the heart. We will wait here until more members of my tribe arrive to bind your eyes and bring you inside. I won’t allow any of you to see the hidden ways inside the Slimeground.”
+
+Many of the Krath’lath bristled at this. They weren’t used to this treatment, but Zluth had expected nothing less. Thulziss had no care if they liked him or not, they didn’t matter in his eyes. The security of the Slimeground came above all, especially around other Krath.
+
+“Will your people be able to drag the monster with them?” he asked. “We won’t be much help with our eyes covered.”
+
+Thulziss noted him with a slight nod, which was more than any of the others got.
+
+“I have sent for my warriors to drag the creature. Make sure none of you perform any unexpected movements. It’s dangerous to move blindfolded during a wave. Very dangerous.”
+
+An evil grin spread across the Krath’lath’s face and Zluth wondered which of them wouldn’t arrive within the heart alive.

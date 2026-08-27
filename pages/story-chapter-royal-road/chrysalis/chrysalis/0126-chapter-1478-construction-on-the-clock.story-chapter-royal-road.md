@@ -1,0 +1,91 @@
+---
+id: ce937288-14da-5677-8aa8-b87cc9388b24
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1478 - Construction On The Clock"
+slug: 0126-chapter-1478-construction-on-the-clock
+partOf: chrysalis
+position: 126
+ownLength: 1124
+unit: words
+ownProgress: 1124
+publishedAt: 2024-12-19
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1963652/chapter-1478-construction-on-the-clock"
+royalRoadId: "1963652"
+markedReadAt: "2026-06-29T19:48:05.986Z"
+---
+
+Tungstant wasn’t happy. Well, that wasn’t totally accurate, she was building, up to her antennae in a complex building project that was truly grand in scale, which she liked. What she didn’t like was being rushed, and she was certainly on the clock with this one.
+
+“Has Solant said anything?” she asked Cobalt as the two pored over the build maps in front of them.
+
+“Nothing,” her sister replied grumpily. “She’s just saying we should ‘continue to work to our timetable’.”
+
+“There’s a wave coming and the Krath are knocking on the gates every day! I’d almost feel better if she told us to rush.”
+
+“If she told us to rush, we’d just say no,” Cobalt noted wryly. “So why would she bother saying it?”
+
+“So I have a chance to tell her to mind her own business and feel better,” Tungstant replied.
+
+“We don’t need to feel better, we just need to get the job done. How much longer until the channels are complete?”
+
+“Phase one is done. Phase two is still a few days away.”
+
+“When did you hear that?” Cobalt asked.
+
+“Yesterday.”
+
+“And what about the core?”
+
+“The core has a long way to go,” Tungstant grumbled. “We’re still finding design and build issues everywhere. It’s impossible to say how long it’s going to take to finish the whole thing. This is the problem with having to build something we’ve never done before to a deadline!”
+
+“We knew about it going in,” Cobalt reassured her sister. “Let’s head down to the build site and check on progress. This place won’t fall apart in the next hour.”
+
+“Of course not. We built it better than that.”
+
+Even in the shelter of their workrooms, the central hub around which every build team in the entire fortress revolved, they weren’t completely insulated from the sounds of warfare. The fortress-to-be was under constant assault as the Krath tried to break through, and nobody could say which tunnel was going to be hit next, or if all of them were. As the two carvers entered one of the completed arterial tunnels, they found it filled with soldiers, generals, scouts, healers, core shapers, humans, golgari and every other type of individual who called the fortress home, moving at speed to attend to any of the hundred-thousand urgent tasks that had to be seen to.
+
+An endless flood of materials moved through the tunnels like blood through the veins of a living creature, pouring into the hundreds, thousands of build sites as teams worked around the clock. Alongside them was a constant ebb and flow of soldiers moving from one tunnel to the next, rotating in and out, throwing themselves into the never-ending fight.
+
+The tunnels had been built to handle this sort of traffic. The new design that Tunstant had created involved stacking multiple hollow chutes within each tunnel, essentially creating mini-tunnels that filled the space, creating more surface area and allowing different chutes to be devoted to different types of traffic.
+
+It worked well enough, but the interchanges had been a nightmare to construct, given how compact everything needed to be inside the fortress. Space was at a premium in the fifth, after all.
+
+Through the hordes of ants and other individuals, the two carvers moved inward, toward the very centre of the fortress. As they travelled, they both felt deep pain at the haphazard construction that they saw on the way. It wasn’t that the individual builds were poor quality, quite the opposite, everything had been made to the limit of what the Colony was currently capable of. No, what bothered them was how patchwork it was. Some sections were completely finished, others half-built, and some not even started yet, often right next to each other.
+
+However, one thing was consistently finished, and that was the mana channels and wuffer platforms. These were literally sparkling, finished, polished and washed down with formic acid to ensure cleanliness. Many of them weren’t connected yet, and wouldn’t be until the core was finished, but it was pleasing to see that at least here, the most demanding and complex factor of the project had been finished.
+
+The most complex, except for what they saw next.
+
+The core of the fortress was awash with ants, no less than a hundred individual build teams working on different sections of the vast cavern. Despite the numbers, it wasn’t difficult to find the ant they were looking for.
+
+“Antgineer, do you have a moment?”
+
+“Of course, I have all the time in the world. It’s not like I’m responsible for the most important project in the history of the Colony or anything,” the carver replied sarcastically.
+
+Tungstant and Cobalt let the attitude roll over them. They’d gotten used to it at this point. Despite the hostile response, the ant in question peeled herself away from the tables over which her teams had been conversing to join the two Council members.
+
+“We wanted to come in person to see how the project was progressing,” Cobalt explained. “Has there been much progress?”
+
+“Some,” Antgineer grunted, pointing in several directions with her antennae without bothering to turn around. “We’ve managed to solve the release problem, so I’m less worried about killing everyone in the fortress by mistake, which is a plus. The main problem continues to be our concerns about overlapping the tanks. Resonance could lead to a manifold rupture that would also kill everyone in the fortress.”
+
+“Don’t the designs we received from Brilliant have resonance mitigation built in?” Cobalt asked.
+
+“They do,” Antgineer replied sourly, “but they were designed for a system that is a million times smaller than this one. Forgive me if I’m not satisfied that they’ll be sufficient.”
+
+“What does Brilliant say?”
+
+The carver looked at the two of them as if they were insane.
+
+“Nothing useful. What did you expect?”
+
+Tungstant sighed. Brilliant, on some level, probably hoped the thing would explode. That’d be great data for her.
+
+“What we are building here, and what Brilliant has used in the past, are so different in scale they may as well not be the same thing. It’s like blocking a trickle of water with some dirt compared to a dam built across a mighty river. The idea is the same, stop the water from moving, but the methods required are totally different.”
+
+This wasn’t what Tungstant and Cobalt wanted to hear, but they trusted Antgineer enough to know she wasn’t saying anything uselessly.
+
+“Let us help,” Cobalt said. “We can assist in coming up with a working design.”
+
+The carver before them rubbed her antenna against her head and nodded.
+
+“That’d be helpful. We think we’re about ninety percent of the way there, but the last part is always the hardest.”

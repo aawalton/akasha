@@ -1,0 +1,77 @@
+---
+id: 91db1ecf-d5b3-5de9-be25-d57ccba69125
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1482 - Bear in There"
+slug: 0130-chapter-1482-bear-in-there
+partOf: chrysalis
+position: 130
+ownLength: 991
+unit: words
+ownProgress: 991
+publishedAt: 2025-01-08
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1997968/chapter-1482-bear-in-there"
+royalRoadId: "1997968"
+markedReadAt: "2026-06-29T19:56:33.642Z"
+---
+
+Sarah approached the boundary between the safe-zone and the native mana of the fifth with a deep sense of trepidation. From everything Anthony had said, she almost expected toxic, knife-faced fish to spring out of the ground beneath her paws the second she crossed the line.
+
+[The Krath have been very active in this area,] the general in charge, a little ant named Antvantage told her. [Don’t extend far beyond the safe-zone if you can avoid it. Just in case, we have emergency rescue teams on standby in case you get in trouble. You’ll be as safe as we can make you.]
+
+[Thank you,] Sarah said, her gratitude truly heartfelt. [I appreciate it. I’m a bit nervous, to tell you the truth.]
+
+The ant, so much smaller, almost comically smaller than the gigantic bear beside her, reached up with an antenna and patted the bear on the side.
+
+[It is dangerous, and the enemy is cunning. I won’t lie, you are taking on a great risk for the family, and we don’t take that lightly. Should something happen, we will do everything in our power to bring you home.]
+
+The giant bear nodded her head, touched by those words. Being welcomed into the Colony as part of the family was still something she was adjusting to, but for the first time in either of her lives, she felt as if there was a place she belonged, and that meant more to her than she could ever say.
+
+[Alright,] Sarah said, firming her resolve, [I’m going in.]
+
+[I’ll be there with you,] Odin said, stepping up beside her. [Don’t worry.]
+
+The two former humans strode forward, and as they passed through the visible border between the cleansed blue and the toxic greenish-yellow, they each became enveloped in a bubble of safety projected from the enchantments built into their armour.
+
+The armour itself was surprisingly comfortable for Sarah. Not that it was actually pleasant to wear, but it was far less restrictive than she’d expected. Overlapping metal plating ran down her back and flanks, along with further steel strapped to cover her belly. There was even segmented armour that covered her legs. It was heavy, of course, but she found she was more than strong enough to bear the burden.
+
+Stepping out into the fifth stratum for the first time, Sarah found it was even more unpleasant than Anthony had described. Thick ropes of slime and mucus connected the floor to the ceiling, some of them metres thick, and everything seemed to be covered in some variety of goop. With every step forward, the surface sizzled and hissed as her mana bubble burned away the corruption that coated everything.
+
+Before she could even acclimate to the terrible environment, the monsters were already upon her. Frothing, hissing, belching foam, mucus and clouds of toxic gas, they swarmed towards her.
+
+Rather than recoil, Sarah stepped forward. Her heart thumped once.
+
+She slashed out with one paw, her claws tearing a screaming gash through the air, jagged lines of red light streaking through the air and rendering the closest monsters apart.
+
+Her heart thumped again.
+
+Jaws open wide, Sarah lunged, teeth formed of red light extending from her own head to crunch down on the putrid, slime-dripping turtle in front of her.
+
+Her heart thumped again.
+
+Jets of acid blasted down from cracks in the ceiling, spraying across her armour and fur, causing steam to rise and her flesh to burn.
+
+Her heart beat harder.
+
+It was starting to flow now, she could feel it pounding through her veins, roaring in her core and igniting the red patches of fur along her body.
+
+Nets formed of slime shot down from the ceiling, and Sarah roared, drawing on the fury, blasting them away with the raw force of her anger.
+
+More monsters came, and she continued to hack and slash, her paws ripping jagged tears through the air and her enemies alike. With every felled opponent, acid and mucus splashed, parasites leapt towards her or some other nonsense occurred. Not even three minutes had passed, and already she was covered in burns, slashes and cuts as the hordes descended on her.
+
+Yet the pain only served to fuel her rage heart even further.
+
+No, it wasn’t a rage heart any more, it was a foundry, and her fury was the hammer as well as the forge. She stoked it, feeding on the pain to build the flames higher. The more fury she built, the more it coursed through her flesh and filtered into her fur, causing it to glow faintly with ominous red and black energy.
+
+She was in control. Sarah was in control. As she fought, she danced on the tip of the knife’s edge, building the fury higher and higher, but never so quickly that her grip on that anger slipped from her grasp. Covered in wounds, one of her eyes dissolving from an accurate blast of acidic slime, Sarah grinned a savage grin.
+
+With an audible FWOOSH, her fur ignited, her fury manifesting in an aura that swirled around her body like a flame. Her flesh sizzled and hissed as her wounds burned and began to close, her eye reforming in its socket.
+
+Now her anger had been made manifest. It would no longer hurt her, and she could use it to protect those she cared about.
+
+Her eyes shifted, turning completely red as she allowed her fury more control. No longer did the world seem filled with yellows, greens and browns, monsters and slime, mucus and acid. All she saw was moving shapes and red.
+
+Her roar rattled the stone walls of the tunnel, then she bounded forward clothed in fury.
+
+Nearby, Odin watched with narrowed eyes. As Sarah began to mow down all before her, despite the literal rain of acid and sludge from all directions, he nodded slowly, then faded into the background.
+
+This was something he was keen to see.

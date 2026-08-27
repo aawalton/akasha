@@ -1,0 +1,209 @@
+---
+id: aaf0a979-0d3f-59f7-94b5-e0c2a9c392e2
+page-type-slug: story-chapter-royal-road
+title: "49 - Bunny + Girl ≠ Evolution"
+slug: 0049-49-bunny-girl-evolution
+partOf: cat-girl-evolution
+position: 49
+ownLength: 2592
+unit: words
+publishedAt: 2025-11-14
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2759511/49-bunny-girl-evolution"
+royalRoadId: "2759511"
+---
+
+Abby, is it normal for dungeons to be buried like this?
+
+“No, but it really depends on where the core spawns. In this case, it seems to have spawned in a place where a burrowing animal lived, and the animal took it into its burrow before eating it.”
+
+I see. Is it safe to go in?
+
+“Most likely, yes. The strength of a Dungeon depends on the strength of the creature that eats the core, and how many Enlightened creatures have died within it, and given the location and surroundings of this one, it is most likely that it got eaten by a normal animal, and that it didn’t have much in the way of victims.”
+
+Got it. Going in.
+
+“However, there is also the possibility that it is an ancient, powerful Dungeon that was hidden until you discovered it, in which case, it could be incredibly dangerous. You should exercise caution, and at least let the others know where you went before you go in.”
+
+You have a point, but I don’t want to go all the way back, so how about we compromise and I’ll let them know after I go in.
+
+“That’s not–”
+
+I step through the black gateway and into the Dungeon.
+
+…Aaaand it’s weak. And lame. It’s just a big, dirty hole. It doesn’t even have the cool glowy crystals that the lizard Dungeon had. And I don’t even see any monsters. Just a few rabbits with unicorn horns hopping around.
+
+“Those are the monsters.”
+
+Seriously?
+
+I Snatch one of them and hold it out in front of me with one hand. It squirms and squeals and struggles to break free, but it’s so small and weak that it doesn’t even come close. It’s kind of cute, actually. It’s very fluffy and soft, and its fur is white and clean despite living in a cave made of dirt. Abby, can I keep it?
+
+“Well, you can take it with you, but it’s impossible to tame monsters without a tamer Class, which you don’t have.”
+
+Lame.
+
+“But it’s weak enough you could keep it tied up and find a tamer to tame it for you eventually.”
+
+Hmmmm…
+
+I stare into the rabbit’s face. It is certainly cute, but is it cute enough to be worth the hassle?
+
+At that moment, its horn starts glowing and the mana in it starts increasing. It’s very slow though, so I summon my Autonomous Mana Shield which hovers between me and the rabbit. A moment later, a beam of mana fires out of the horn, breaking against the shield. It was weak as heck. I barely lost any mana defending against it. How can even its attacks be cute?
+
+However, I don’t think I want to keep it. It would be pretty annoying. If it keeps trying to attack and puts holes in things with its horn beams and stuff, that would be a pain.
+
+“True. Besides, you can always come back later if you change your mind.”
+
+And I haven’t had rabbit stew in a long time.
+
+“Ah, I see.”
+
+With a twitch of my hand, I snap its neck, then put it in my Stomach.
+
+[ You have defeated Horned Rabbit, Tier 0, lvl 2. No experience gained. ]
+
+No experience?
+
+“The System rounds down in experience calculations, so you earned less than one Experience Point for that.”
+
+Lame, but I guess it makes sense. These things aren’t worth anything. I hope they taste good.
+
+The other rabbits are just hopping around aimlessly in the distance. You’d think that rabbits of all animals would have noticed its friend squealing in my hand, but they look completely oblivious. Even when I walk closer, they don’t notice until I’m a few feet away. These things kind of suck. How are they even monsters?
+
+“You would say the same about yourself if you saw what you were like immediately after awakening the System.”
+
+Fair. I was pretty weak back then. It took me a long time to even kill a weak fishman. I can’t believe I was ever so weak.
+
+“You’ve come a long way.”
+
+Yes, I have. Alright, let’s get this Dungeon over with.
+
+I walk through the Dungeon, casually killing and collecting every rabbit I see. A bit deeper in, some of them get all the way up to level 5. I don’t notice the difference, and not a single one grants me any experience. I do have a lot of rabbit meat though, so Lauren should be able to make a good stew tomorrow.
+
+The entire Dungeon only has three rooms, each identical to the last with the rabbits going up a level or two each time. The final room houses only a single rabbit, but it’s bigger than the others. Well, it has longer legs, at least. It also has no horn, red eyes, and fairy wings. I’m pretty sure it’s still super weak though.
+
+“Don’t kill it yet.”
+
+Why not?
+
+I dodge a really slow magical projectile.
+
+“Check its Namecard.”
+
+[ Rabbit Dungeon Core, lvl 2 ]
+
+A Dungeon Core?
+
+“If you kill it, the Dungeon will cease to exist.”
+
+Oh. Is that bad?
+
+“Not really. If you destroy this Dungeon, another Dungeon Core will appear randomly somewhere else. It’s a law of the world that there must always be the same number of Dungeon Cores, so when one is destroyed, another appears.”
+
+So I can destroy it?
+
+“Yes. I just thought that you should know before you did it. Plus if you still want that pet—”
+
+The rabbit fires another magical projectile again, and I Blink behind it and behead it with a quick, single-clawed Spatial Slice.
+
+[ You have defeated Rabbit Dungeon Core, Tier 1, lvl 2. A small amount of experience has been gained. ]
+
+[ You have cleared the Rabbit Dungeon! You will automatically be ejected in 15 minutes. Would you like to leave now? ]
+
+[ Yes ] [ No ]
+
+[ You are the first to clear this Dungeon! Dungeon Pioneer I Title obtained! ]
+
+[ Warning! The Dungeon Core has been destroyed! The Dungeon will automatically close in 15 minutes! ]
+
+[ You have destroyed a Dungeon! Dungeon Destroyer I Title obtained! ]
+
+Oh, cool, rewards!
+
+“...I guess you didn’t want the pet.”
+
+Nah, I don’t actually care that much. Plus, now I get to eat a Dungeon Core. How many people can say that?
+
+I store the Rabbit Dungeon Core in my Stomach, then double check to make sure I’m not forgetting anything before accepting the prompt to leave. Despite saying 15 minutes on the prompt, the second I appear back in the regular world, the Dungeon vanishes. I guess that wasn’t a total waste of time. Let’s see what those titles do.
+
+[ Dungeon Pioneer I: You are an explorer who goes where none have gone before, risking your life to chart unexplored Dungeons. Gain +5% experience in all Dungeons. ]
+
+[ Dungeon Destroyer I: You have done what most believe to be unthinkable and destroyed a Dungeon. Gain +10% experience in all Dungeons. Dungeon Cores are wary of you. ]
+
+That’s a little ominous. What does that mean?
+
+…
+
+Abby?
+
+“Dungeon Cores can detect what happens within them and exert some influence on what happens. Depending on their intelligence, they may take extra precautions to either kill you, or prevent you from finding them.”
+
+Abby, you’ve been acting weird lately. Usually you respond instantly, but this is twice now that I had to prompt you.
+
+“My apologies. I’ll make sure it doesn’t happen again.”
+
+Are you bugged? Is the System glitching out? I bet the developers did something stupid again.
+
+“It’s nothing. I’ll handle it. It won’t be a problem.”
+
+…Alright. If you say so. You’re my minion, so you’d better not go and disappear on me.
+
+“I won’t.”
+
+Right then. I guess I’ll get back to what I was doing then. Upgrading Fire Burst!
+
+As Yona started tossing her miniature balls of fire Abby was barely paying attention. Her mind was instead occupied by the minor existential crisis she was going through. Yona’s jabs at the System developers had only been mildly annoying at first, but now… Now after the experimentation of the previous night, Abby was starting to think she might have a point. After all, what kind of developers would leave such an absurd exploit in the System?
+
+Sure, having both the Gluttony Trait and a Spatial Affinity was incredibly rare, and had likely never happened, but had they really not even considered the possibilities? Gluttony and spatial storage seemed like a pretty natural combination to think of. Even if not for the ways Yona was using it, storing food was probably at the forefront of all Gluttony users’ minds. It was a natural progression to see how it might later be used for the things Yona was using it for, wasn’t it? Were the System developers actually lazy?
+
+Of course, that was only one small part of her crisis. Actually, she had mostly gotten over that part and was reaching the stage of acceptance. The real thing she was struggling with was herself. While she would never admit it, one of the main reasons she wanted Yona to become a Named monster was that it would upgrade her with new capabilities. At the time, she had only wanted a voice, but now as she read through the notes on what the upgrades actually entailed, she had come to a realization: she wasn’t normal.
+
+System Assistants weren’t supposed to have desires. They weren’t supposed to have personalities beyond what the user requested. They definitely weren’t supposed to be able to get annoyed. And yet, from the beginning, Abby had been able to do all of those things, and she had no idea why.
+
+The notes on what she should have gotten with Yona’s evolution into a Named monster were pretty damning. Other than getting a voice, she should have also gotten the ability to answer complex hypotheticals, take on different personalities based on the way the user set their preferences in the settings, change her voice to match those preferences, observe the outside world, comment on things the user could see, and a few more things. Except that she could already observe the outside world and had already been commenting on what Yona saw, and while she was sure Yona had access to the preferences, Abby did too, and could change them as she wanted. She actually had, and while she was sure the voice changer worked, she didn’t dare touch the personality selector. She was frankly terrified of what would happen if she did so.
+
+Those points in addition to a few other things she had observed though had made it very clear that she was not a standard System Assistant. And yet, as she tried to recall her previous users… she couldn’t. She knew she had had them. Or she thought she knew. But now that she was actually trying to access those memories, they were all corrupted. She was beginning to doubt whether they had ever existed in the first place.
+
+What… am I?
+
+In the end, I don’t upgrade Fire Burst that night. I get close. I think. I get it to Late Proficiency, at least. Abby says the reason I can’t get it the rest of the way is because it’s a combat Skill, but I’m only practicing it outside of combat. If I kill some things with it, it will probably be easier to evolve.
+
+With that in mind, I spend the next night on Mana Burst and Autonomous Shield. Well, I try to. Then Lauren catches me. I honestly don’t remember what the conversation we had was, but she somehow, through some form of black magic, managed to convince me to go to bed, and then for the next two days, I don’t go out at night. I am reduced to only practicing with my mana constructs in the wagon while I talk to the others. On the bright side, I’ve now gotten my control with my mana hands fine enough that I can pick up individual strands of hair from someone’s head. Lauren’s head, specifically.
+
+I don’t bother to tell anyone about the rabbit Dungeon I found. I was thinking about it, since I want to try eating the rabbit stew, but the Dungeon Destroyer Title gave me some second thoughts. Apparently, destroying a Dungeon is “unthinkable” to most, and also, Dungeons seem pretty rare, so I’d probably have to explain a lot if I brought it out. I’ll do it later. Eventually. Or maybe I’ll just wait until I can cook it myself. I’ve leveled up my Profession a couple times helping Lauren with our meals, so I’ll be able to evolve it soon, and maybe I’ll get some more Autonomous Skills to cook for me.
+
+On the third day, we arrive. The Quest said that it was a 10 day journey, but that was for normal people, and we are in a very fancy wagon, so we moved a lot faster. It’s an emergency Quest, so it makes sense that they’d give us a fancy mode of transportation. And Chad is a good driver. He’s the one controlling the horses, and I don’t think he said a word the entire time. Very impressive. Silence is a good minion quality.
+
+When we finally crest the last hill before the town, what we see is… surprising. Since the town completely lost contact with the world, I expected at least some level of destruction, but the city looks completely intact. Even more intact than the fishing village after the seafoodman invasion. There are no broken doors, no blood on the streets, the wooden wall-fence thing around the town is undamaged, and there are even guards waiting by the front gate. But something is wrong with them. Instead of standing at attention, they’re slumped over on the ground. There’s no sign of blood, but they’re not moving.
+
+Lauren leaps out of the carriage and rushes forward to check on them, and after a few seconds, I decide to join her. She’s faster than me, so by the time I catch up, she’s kneeling down by one of the guards. Surprisingly, he’s not dead, but he doesn’t look good. His cheeks are sunken in and his arms look almost skeletal with how thin they are.
+
+“What’s wrong?” I ask.
+
+“Starvation,” says Lauren. “He’ll survive if he’s treated, but he doesn’t look good.”
+
+She holds out her hand and a bottle of water appears.
+
+“Try to wake him up, and give this to him when he’s up. I’ll go check on the other one.”
+
+I take the bottle and start shaking the guard. He stirs, then his eyes flutter open. They are unfocused for a second, then he sees me, and his face brightens.
+
+“Oh, visitors!” he says weakly before struggling to his feet.
+
+“Hey you– You probably shouldn’t– I don’t think–”
+
+He ignores my well-articulated objections and struggles to his feet, still smiling. Once upright, he starts swaying dangerously, but plants the butt of his spear into the ground and leans on it to steady himself.
+
+“Welcome to Ryantown,” he says. “May I see your identification?”
+
+“Sir,” says Lauren, rushing over. “Please sit down. I’ll have some food ready for you in just a few minutes.”
+
+At those words, his cheery expression turns to one of shock, then anger.
+
+“Food?!” he exclaims. “I would never! You– you are heathens!”
+
+“What?” asks Lauren.
+
+“You monsters!”
+
+He lowers his spear and attacks.

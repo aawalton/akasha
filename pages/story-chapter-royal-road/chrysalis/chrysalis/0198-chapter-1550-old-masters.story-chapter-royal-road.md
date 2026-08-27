@@ -1,0 +1,69 @@
+---
+id: c7d1b644-0d35-5e89-b0d6-04b58f07a824
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1550 - Old Masters"
+slug: 0198-chapter-1550-old-masters
+partOf: chrysalis
+position: 198
+ownLength: 1005
+unit: words
+ownProgress: 1005
+publishedAt: 2025-04-14
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2199900/chapter-1550-old-masters"
+royalRoadId: "2199900"
+markedReadAt: "2026-06-29T19:50:09.325Z"
+---
+
+The art of Core Shaping is a delicate and profound one. Manipulating the energy encoded within every core requires great strength of will, force of mind, persistence and endurance, naturally, but the subtle craft of design is what separates the masters from the rest.
+
+For many, it is a long-abandoned practice, the costs simply not outweighing the benefits. Then there are the risks involved. Too many have poured their heart and soul into crafting and rearing a pet. Sweat and blood poured out to acquire the requisite cores, mental energy burned like fuel to manipulate and combine them, then time and patience to rear them. After all of that work, all of that effort, if that pet were to fall in combat, not only would it be a devastating loss of resources and effort, but also, potentially, the loss of a friend.
+
+Many of those who take on Pet Master or similar Classes reach a point after which they simply cannot go on, too many friends, allies, companions, lost along the journey. Some believe the correct method is to harden their heart towards one's pets, to view them as tools, to be used and discarded. Such men and women will never go far, unable to pour their passion and heart into the very allies they need to succeed.
+
+-           Excerpt from ‘On Pets’ by Duanold
+
+“We’ve been working on it, Solant, but there is only so much we can do with what we have,” Bella groaned.
+
+“There are so few cores available, and Core Shaping is a wasteful process to begin with,” Ellie agreed, also slumped over. “We’ve been as careful and deliberate as we know how, but there’s still a long way to go before we even have a viable design.”
+
+Solant nodded. This wasn’t outside her expectations. In fact, it was well within them.
+
+“Don’t worry, I know how difficult the task is. You’re doing well,” she said.
+
+Ever since the wuffer queens had been created, the number of available wuffers had quickly climbed, and the core shapers had been busy rearing them, managing the jelly blobs and ensuring they were happy and wibbling. Now that the required number of wuffers had been reached, the Core Shapers had finally been freed to return to other duties. Large numbers had reported to the platforms, using their pets to hold back the tide, but that wasn’t going to be enough in the long run.
+
+Solant meant to take advantage of the pets’ most powerful attribute: their adaptability. After all, there were limits to what the Colony could do to overcome their monstrous biology. One could invest in mutations and evolutions to try and adapt to the fifth, but even doing so right from tier one wouldn’t guarantee a soldier could actually endure the sheer toxicity of the environment down here.
+
+But the monsters born here certainly could. And they had cores. Cores could be turned into pets. Pets made from monsters native to the fifth, naturally, would be able to fight and live outside the safe-zone. Realistically, it was the only way for the Colony to recruit allies that could fill that role.
+
+However, getting their mandibles on native cores was hard, even during a wave when monster numbers were absurdly abundant. They didn’t have a farm down here; they were engaged in a life-or-death struggle every moment. Some cores were so inherently toxified that they half-melted when brought within the cleansed field, rendering them useless.
+
+The core shapers didn’t have enough materials to work with and would have to make do with what they could get. There wouldn’t be a chance for them to create a custom design based on commonly available cores because there was no guarantee they would ever see a second copy of any core put in front of them. That meant doing as much as they could to turn each and every one they saw into as viable a pet as possible.
+
+Solant also didn’t underestimate just how difficult this was for the core shapers to work on. These ants treated their pets like their own hatchlings, cared for them, cherished them. It hadn’t always been this way, but after battling with loyal allies for so long, Solant could understand it. Forcing them to make disposable weapons that they would never be able to take outside the fifth, and would be assured to die if the Colony were successful, was… hard for them.
+
+“I know this is far from an easy task, and I am not demanding immediate results,” she assured the two Council members. “Do your best, and I’m sure you will eventually produce something we can use.”
+
+“I feel like there’s something coming,” Bella said, sounding exhausted. “You may as well come out with it, Solant. Don’t spare our feelings, we can take it.”
+
+“There’s no criticism being levelled, no accusations or threats,” Solant stated. “Your caste has been instrumental in our success; the wuffers were an inspired creation, and you’ve worked just as hard as everyone else.”
+
+“But?” Ellie asked.
+
+“... But I thought you might welcome some help on a task as difficult as this one.”
+
+“Help?” Bella scoffed. “Who’s going to help us? The Eldest could, perhaps, but they are far better utilised elsewhere. You’ve found some outside mages to assist us? Experts in core shaping? I’m not sure we should trust anyone like that with the fate of the fortress on the line.”
+
+“Rest assured, I would only bring someone into a situation as delicate as this if they held our complete trust. There are no mages among the surface races I would ever allow to work with you. That doesn’t mean that none exist.”
+
+“Then… who?” Ellie wondered.
+
+Bella’s antennae stiffened.
+
+“You don’t mean?” she gasped.
+
+A powerful mental bridge snapped into place within the room, followed by an equally powerful mental voice.
+
+[Well, well, WELL! GOOD SHOW and WHAT FOR! I haven’t been this far down in the Dungeon for too long, I SAY! TOO LONG! How are my favourite students?]
+
+[Formo!]

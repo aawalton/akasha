@@ -1,0 +1,231 @@
+---
+id: f16ba96b-658b-5767-8316-08a00ae6c38e
+page-type-slug: story-chapter-royal-road
+title: "153 - Balloon Lady"
+slug: 0156-153-balloon-lady
+partOf: cat-girl-evolution
+position: 156
+ownLength: 2982
+unit: words
+publishedAt: 2026-08-24
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3857080/153-balloon-lady"
+royalRoadId: "3857080"
+---
+
+The meat pie is delicious. Abby tried to say something about not eating it because the fact that this lady is sitting here with an impossibly tasty meat pie is suspicious, but Abby is wrong. This lady is wonderful, and my new favorite person.
+
+“Your fur is so soft!” she exclaims, stroking my back as I savor the taste of the half a meat pie she gave me.
+
+“Yona, people don’t just give something like that to stray cats.”
+
+They do when the stray cat is as adorable as I am.
+
+“She’s clearly–”
+
+A cat lover, yes.
+
+“Yona–! Alright, fine, but don’t get mad when I say ‘I told you so’ later.”
+
+You can’t get mad when I say the same thing to you either.
+
+“Fine.”
+
+I finish my meat pie, then turn to look at her with wide eyes. Sadly she has finished her half of the meat pie, but just when I’m about to give up, she reaches into a spatial bag on her hip and pulls out a second one. I watch it, drooling as she holds it tantalizingly over my head.
+
+“Do you want more?” she asks.
+
+“Mraw!” I say, standing up on my hind legs to try to reach it.
+
+She lifts it up a little higher, just out of my reach.
+
+“That’s no way to ask for food,” she says playfully. “Are you trained? Why don’t you sit?”
+
+I sit immediately, still staring at the meat pie.
+
+“Paw?” she says, holding out her hand.
+
+I put my paw in her hand without taking my eyes off the meat pie.
+
+“Good girl!” she says, finally lowering the meat pie within reach.
+
+The second it’s close enough, I jump up and grab it, and then run to the other side of the bench to enjoy it. She slowly slides over next to me and starts petting me while I eat again.
+
+I still can’t get over how good these meat pies are. It’s definitely some kind of herb that’s making them so good, but I don’t know how to describe what it tastes like. It tastes… fresh? Green? It’s weird, but incredible, and I want more. I need to find out where she got them, but I can’t really ask while I’m in this form. I’ll have to find her again in my humanoid form and ask her then.
+
+She croons over me while I finish the second meat pie, and I turn to her, hoping for a third. Unfortunately she just sticks her lip out in an exaggerated pout and shakes her head.
+
+“Sorry, that was my last one,” she says, holding out her empty hand. “I’m all out.”
+
+I stare at her for a few seconds, then turn to leave. She calls after me, but I ignore her, sprinting through the brush back toward the root road so I can head back outside the city and transform. If I hurry back, I might be able to meet her again in beastwoman form and then I can ask her where she got them.
+
+“Ah, yes, what a brilliant plan.”
+
+Shut up.
+
+“The black-furred, green-eyed cat disappears, and ten minutes later, the black-haired, green-eyed cat person appears, asking about the snack that was fed to the cat that she has no way of knowing about.”
+
+Shut up.
+
+“Are you trying to get caught?”
+
+I’ll be careful. I already know what I’m gonna say.
+
+“And what is that?”
+
+“Hi, I’m Yona, nice to meet you. Something smells good here. Were you eating just now?” and then she’ll say “Yes” and I’ll ask her what she was eating and she’ll say “meat pies” and I’ll ask where she got them and then I’ll know!
+
+“…Okay, but what if she asks if you are the same as the cat she was just feeding?”
+
+I’ll say I’m not.
+
+“And if she doesn’t believe you?”
+
+She can’t prove anything.
+
+“But what if she tries, and follows you around until she sees you transform?”
+
+I’ll notice her before she can do that.
+
+“And if you don’t? If she watches from beyond your detection range?”
+
+I slow my pace down a bit to think. Now that the taste of the food is starting to fade from my mouth a bit, I see that Abby might kinda have a point. I don’t really know that lady, and it would definitely be really suspicious to directly approach her to ask about the meat pies right now. Still…
+
+Okay, new plan. I’ll go back to the Adventurer’s district to look at Quests, and if I just so happen to run into her, I’ll maybe try to see if I can move the conversation back to the meat pies.
+
+“Better, but it still might be suspicious. You need to make sure that you come across completely different from your cat form, and don’t even think about bringing up the meat pies first.”
+
+Fineeee…
+
+I reach the outskirts of the city, transform, then try not to look like I’m in a rush as I head back to the Adventurer’s district. I arrive probably half an hour after I left, and it’s well into the evening by this time. There are still plenty of people out and about and Parties returning from Quests, or leaving on long ones as I pass by, but it’s still a little quieter than it was when I was here last.
+
+I head straight for the guild hall, and spend some time looking over the Quests. As I theorized, the Quests here are much more lucrative than the ones in the other cities we’ve been to, but a lot of them are also weirdly specific. Like, for example, one of them asks for five Verdant Merboars no more than 2.8 meters in length and without any liver disease, and they must be chronally preserved within three minutes of death, and that’s not even the weirdest one there.
+
+There’s a half-elf-looking guy standing right next to me, so I turn to ask if he knows what’s up.
+
+“Elves,” he says simply. “That’s just how they are.”
+
+“I see,” I say, looking back at the board.
+
+None of the Quests really catch my eye. Some of the monster related ones look like a good way to earn a quick buck, especially for me. Spatial Slice is really good for making relatively undamaged corpses, and Food Sense would let me tell with pretty strong accuracy which monsters are diseased or not. Plus, Stomach of the Glutton is great for preservation, so there’s that too. I could probably run through a bunch of these monster Quests in a day while I wait for Lauren to get back, and make a few thousand gold without much trouble.
+
+But none of them are really lucrative. Like, a few thousand gold in a day is fantastic, I know, but it will only buy me a couple fancy things, and I want a lot of fancy things. I want a Quest that will give me so much gold that I can go on a shopping spree here without checking price tags. And there actually are a few Quests like that, with three even offering millions of gold for completion.
+
+These quests are, of course, impossible. One of the ones offering a million gold is asking for the fully intact corpse of a Hermit named Chippy, the Sonic Nutcracker, and the Quest details say that Chippy is an extremely territorial Tier 6 Hermit Named who has made a small region of the swamp basically uninhabitable. It’s a squirrel, apparently, and as its Name indicates, it has sonic powers that make it impossible for anyone below Tier 6 to even get close without getting their organs turned to mush. And the maniac who put the Quest up wants the corpse somehow “fully intact and undamaged.”
+
+The other three high-payout Quests are similarly difficult, so after taking one last look around to make sure I didn’t miss anything good, I shake my head in disappointment and leave.
+
+I wander around the district for a little while, checking out some of the restaurant menus and subtly walking by the park where the nice witch was earlier. Sadly, she is gone, and no matter where I go, I cannot sense her or her suspiciously inedible staff. I return to the inn mildly disappointed, and after a quick stop at the dining hall for a late-night snack, I go to bed.
+
+When I wake up the next morning, Chad and the twins are already hard at work in their rented-out workshop. They left a note with room service, who handed it to me as soon as I left my room. Alone with nothing else to do, I eat a huge breakfast, then head out into the city, wandering back toward the Adventurer’s district. I thought about doing it in cat form again, but if I do that, and then I run into the nice meat pie lady again, it will all be ruined. This way, at least, if I get lucky enough to run into her again, I’ll be able to talk.
+
+Being here in the daytime is different, but in a good way. There are actually food carts lined up around the main square in the district, and most of them are selling street food made primarily with meat. Adventurers love meat, apparently, and since we’re in a spawn zone, basically all the meat is high tier. It’s maybe not as good as the fine dining cuisine of some of the nicer restaurants around, but there’s something about sitting on a bench with a deep fried meat skewer that no amount of chef levels can truly match.
+
+I sit on that bench for a while, having bought a dozen meat skewers and stored them away to keep them fresh while I wait and listen. I am listening for two things, currently. The first is my official mission of trying to get more clues on the paladins’ plans so we can avoid them better. The second is my real mission of seeing if I can find the nice meat pie witch lady.
+
+Neither are successful sitting on that bench, though, so once I finish the twelfth meat skewer, I start making my way toward the guild hall again to do the same thing, and also see if maybe somehow, a good Quest appeared since I checked last night.
+
+When I’m about halfway across the square, though, my ears perk up suddenly as Food Sense’s range reaches the guild hall. There’s something in there that I can’t eat. Something staff-shaped.
+
+I speed up, and the closer I get, the more obvious it becomes. I’ve found her! She’s there! My meat pies!
+
+I throw the door open, making sure to appear composed as I enter, and then I immediately freeze. I was so distracted by my meat pies that I didn’t notice what else was happening inside.
+
+All around the main lobby area, Adventurers are huddled together in groups of two to for, whispering to each other, and all of them are looking in the same direction. Right in front of the quest board stands… a woman. Probably.
+
+Her appearance is such a mental flashbang that for a moment, I just stop in the doorway, staring. It’s just ridiculous, and there’s no way it’s natural. She has to have done something to herself.
+
+She looks like someone told her that men like hourglass figures, and she took that a bit too literally. Her waist is unhealthily thin, and her hips are disproportionately wide, and her chest… Well, if we were on Earth, I would have pitied her back, but she probably has enough stats to make it a non-issue. Her face looks like one of those celebrities who got scared of looking old so they decided to step into the uncanny valley instead. Her lips are too full, her cheekbones too prominent, and her skin looks weirdly smooth, despite Food Sense telling me she’s not actually wearing any makeup.
+
+If Food Sense wasn’t telling me that she was 100% real, I would have thought she was wearing a weird costume or was an inflatable doll or something. It’s just so absurd that it cannot be natural. And it probably isn’t. I mean, I know exactly how she could have done it to herself. My own Skills would let me do the same if I wanted. But why would she ever voluntarily choose to look like that? Even the weirdos on Earth never went this far. It’s like she took a custom video game character maker and turned up all the sliders that were supposed to make her “attractive” to the maximum without paying attention to how it actually made her look.
+
+Some of the people whispering are giggling, while a few have more lustful gazes, which doesn’t make any sense to me. Who the heck thinks that looks good? And who actually licks their lips when they’re looking? I wanna go slap that guy.
+
+The door opens behind me and someone bumps into me, and I realize that I have been frozen in the doorway for a few seconds too long. The person behind me apologizes, but I ignore her and move out of the way, heading toward the tables where my real target sits. I don’t look at her yet, both because I don’t want to appear suspicious, and I’m trying to tell if the balloon lady realizes people are staring. I think she might, but she doesn’t look embarrassed at all. In fact, I think she looks pleased.
+
+“What the hell is even that?”
+
+I wish I knew, Abby. I wish I knew.
+
+“Pretty crazy, huh.”
+
+I look to my right to see that, to my surprise, the witch with the meat pies has chosen to speak to me first. Or druid, I guess, according to her nametag. Not a witch. She currently does not have any meat pies, but I can smell a faint whiff of that herb from her, so I know that they’re not that far away.
+
+“Yeah,” I agree. “The world sure has all kinds of people.”
+
+“Indeed,” says the witch. “You’re Yona, right? The one from Maligar?”
+
+“That’s me,” I say with a smile.
+
+“Illiana,” she replies, holding out her hand. “I’m not really famous, but it’s nice to meet you.”
+
+“Nice to meet you too.”
+
+“What brings you to Dryadil?”
+
+“Oh, y’know,” I say with a shrug. “Just sightseeing on my way to Ocula. I wanted to get some of those Interspace Tree Frogs, but…”
+
+“Ah, yeah,” she said. “The prices have really skyrocketed since that Named took over their spawn region. I think I saw one going for 2,000 yesterday.”
+
+“2,000?”
+
+“Yep. And it sold too.”
+
+“Wow…”
+
+I think about my own bank account, which I don’t think even has 2,000 gold in it anymore. I can’t believe I’m so poor right now. Maybe I shouldn’t have fed all those corpses to my Dungeon. Algon would have sold for so much.
+
+“So, are you here for a Quest, then?”
+
+“I was thinking about it,” I say. “My Party members are busy for the next few days, and I’m a little short on gold at the moment.”
+
+“I’m in a very similar boat,” says Illiana. “I picked out a decent Quest already, but I was hoping to find a solid melee fighter to team up with here. I know we’ve just met, but I’ve heard enough about you to know that you’re pretty good. Would you be interested?”
+
+“Yona, be careful…”
+
+“Which Quest?” I ask.
+
+“17A,” says Illiana, pointing to the Quest board. “On the bottom, halfway to the left.”
+
+I quickly locate the Quest she’s pointing at and read through the details. It looks like it’s not too far away from here, so we can be done before Lauren gets back, and the difficulty isn’t marked as all that high either, but…
+
+“Cultists?” I say with a frown. “The reward doesn’t seem very high either.”
+
+“That’s only the posted reward,” said Illiana with a slight smile. “But it’s deceptive. Do you know what the best thing about cults is?”
+
+“What?”
+
+“They have money. Most Adventurers don’t realize that, which is why the Quest is still available, but the last Party to raid one of these cult gatherings came away 50,000 gold richer.”
+
+“50,000?!” I say, my eyes widening.
+
+“Shhh, not so loud,” she says.
+
+She leans in close to me to whisper in my ear and the herb smell gets stronger.
+
+“It’s not guaranteed, but if we get lucky, it will be a quicker and easier payout than anything else on the board.”
+
+“Yona, this is highly suspicious.”
+
+You don’t have to tell me twice. I learned my lesson about going on Quests with “fans” last time.
+
+“Why would you share it with me, then?” I ask.
+
+“As I said, I need a melee fighter,” she said. “Or just a combat specialist in general. I’m more of a supporter than a direct combatant. It’s hard for me to complete Quests without a Party, or at least a partner. And you happen to fit the requirement. Plus, it would be pretty cool to party with a hero, wouldn’t it?”
+
+I narrow my eyes further at her.
+
+“We can sign a contract, if you’d like,” she continues. “The Guild has some on hand for situations like this. I know we just met and you can’t trust me, but you can trust a contract, right?”
+
+Abby, can I trust a contract?
+
+“If it’s provided by the guild, most likely yes. But this is still very strange.”
+
+I agree… but 50,000 gold is a lot. Plus, meat pies.
+
+“If you accept, you’d better at least tell the twins where you’re going.”
+
+I will.
+
+“Alright,” I say. “As long as the contract looks good.”
+
+“Yay!” says Illiana, clapping her hands together. “This is going to be so fun!”

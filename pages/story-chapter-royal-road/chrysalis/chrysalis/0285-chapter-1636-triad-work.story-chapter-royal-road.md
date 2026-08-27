@@ -1,0 +1,85 @@
+---
+id: aa625b3f-92c7-56a3-aba1-d5475a5ecf95
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1636 - Triad Work"
+slug: 0285-chapter-1636-triad-work
+partOf: chrysalis
+position: 285
+ownLength: 972
+unit: words
+ownProgress: 972
+publishedAt: 2025-09-02
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2567083/chapter-1636-triad-work"
+royalRoadId: "2567083"
+markedReadAt: "2026-06-29T19:52:55.945Z"
+---
+
+Syssernix the Dark Spear is one of the more mysterious Ancients, a trait adopted by their Cult. The followers of the Dark Spear are almost impossible to find, a secretive organisation that operates primarily amongst the brathian, who surface for reasons known only to them before they vanish once more.
+
+What little is known is that Syssernix is a creature of shadow and water, suspected to have been born in the second stratum, which would make them perhaps the youngest of the Ancients. This does not, by any means, mean she is the weakest.
+
+In the far north, the Ridgeway canyon, a thousand-kilometre-long stretch of sheer walls, is assumed to have been formed by the passage of the Lewn River. Amongst the Cults, its formation is attributed to the Horn of Syssernix.
+
+-           Excerpt from ‘Collective Wisdom of the Cults’ by Granin Lazus
+
+As Anthony continued to eat, Granin watched carefully, judging his condition by the behaviour of the ants around him. It was a better indicator than asking him how he felt, after all. It had long been a pattern with him. Almost as if he felt a reflexive need to downplay his own suffering.
+
+There might be a reason behind such behaviour, but Granin wasn’t going to be able to get to the bottom of it in the next hour, so he ignored it, and watched.
+
+All the while, he conferred with his triad, and, intermittently, he spoke to the monster himself. It was admirable how well Anthony was holding up, though the strain was clearly taking its toll. More than that, Granin was carefully sensing for any sign of corruption in his thoughts, yet so far, he had felt none.
+
+[How much Biomass do you have now?] Granin asked.
+
+[Enough. Surely, enough. I’m fit to burst.]
+
+[That doesn’t mean anything to me. I need a number.]
+
+[Sheesh. Give me a second, I have other things on my mind. Can’t you just check my core and see the number anyway?]
+
+Granin raised a brow.
+
+[I can, with your permission. Are you happy for me to take a look at your core?]
+
+[Don’t you have to do that anyway?] he replied wearily. [I don’t have the headspace for trawling through mutation menus. Please, tell them to take the food away, I’m stuffed.]
+
+[I’ll tell them to take it away just as soon as I confirm how much Biomass you have stored up.]
+
+[Geh.]
+
+Placing his hands on the great monster, Granin let his consciousness slip inside and carefully access his core. As always, he marvelled at the tremendous flood of information that came pouring out. The information that all monsters contained was dense, intricate, and for the most part, irrelevant. From long experience, Granin knew that every single detail of a monster was contained within their core, down to the alignment of their muscles and ligaments, the exact dimensions of their digestive system.
+
+He allowed all of that to flow past him as he sought out the one piece of information that he needed. Thankfully, he knew where to look.
+
+After a quick glance, he withdrew his awareness and came back to himself.
+
+[Got what you need?] Anthony said.
+
+[I did. You’ve been stockpiling Biomass for a while now, haven’t you? Or have you just been putting off mutating because you couldn’t be bothered lifting the mental load?]
+
+There was a conspicuous and long silence from the massive ant.
+
+[I… wouldn’t phrase it that way,] Anthony said evasively. [I’ve been rather busy. Very busy! I haven’t had time to sit down and read through endless menus! We’ve been conquering the fifth and such out here.]
+
+[And you were lazy.]
+
+[... Maybe.]
+
+Granin grunted, but pushed his exasperation to the side. In his defence, Anthony had been busy. His presence on the platform had been near constant, and his downtime consumed with resting, healing and purging himself of corruption.
+
+[It’s fine, you have more than enough Biomass to finish the last of your mutations,] Granin sighed. [We can get to it immediately, if you’re willing.]
+
+[Fine, fine,] Anthony said, distracted and weary. [Let me know if you need help.]
+
+Granin turned to his triad and gestured for them to draw near. Corun and Torrina looked serious as they stepped forward, but their alacrity alerted him to the nervous energy they tried to mask.
+
+When they reached him, he spoke to them in a low voice.
+
+“We have his permission to finish his mutations and assist with the evolution,” he told them and watched as their eyes came alight. “Try to contain your excitement,” he warned them, then gave a very slight smile, “though I am also excited to help guide a possible Ancient. Now, link your thoughts with mine and we can begin.”
+
+Corrun and Torrina raised their hands and placed them on Granin’s shoulders, then closed their eyes and focused inward.
+
+Despite being one of them, Granin could not say why the golgari had such a natural predilection for the sharing of minds. Perhaps it was something that had developed over the centuries as they had huddled amongst the deep stone during the Rending. Or perhaps it was a defence mechanism they had developed in the old times before they learned to bond with the Second Skin. Whatever the reason, the sharing of minds had become a core part of golgari society, and the foundation of the triad system of teacher and students that they used today.
+
+Granin felt their thoughts flow into his own, and he opened his mind to them. When the process was complete, they were no longer Granin, Corun and Torrina, but a combination of the three, greater than the sum of their parts.
+
+As one, they extended their hands towards Anthony and let their minds be swept into the sea of information contained within his core.

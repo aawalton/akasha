@@ -1,0 +1,65 @@
+---
+id: 1b681d83-e2f1-58ad-b1fa-d4cb21a4affd
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1468 - Return of the Snake"
+slug: 0116-chapter-1468-return-of-the-snake
+partOf: chrysalis
+position: 116
+ownLength: 1009
+unit: words
+ownProgress: 1009
+publishedAt: 2024-12-05
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1940418/chapter-1468-return-of-the-snake"
+royalRoadId: "1940418"
+markedReadAt: "2026-06-29T19:47:47.320Z"
+---
+
+They’ve really gone all out this time. The tunnel is awash with monsters and a tide of mucus that is several inches thick just outside the blue zone. The slime is sizzling and fizzing where it comes into contact with the safe-zone as it’s immediately cleansed, but it burns away at the blue mana in the process.
+
+The ants are doing their best, of course, using various tactics to latch onto monsters and drag them to their doom, or strike them before they can get too close. Ten thousand ants, battling away along the kilometre-wide width of the tunnel. The local monsters attack with their usual, mindless fervour, throwing themselves into the mana, disgorging thick streams of sludge or releasing nasty parasites that try to latch onto the defenders before they are consumed by the purified mana.
+
+A horrific sight, but one that has become pretty commonplace during the invasion. The fifth doesn’t like to give ground, but we’re here anyway. The difference this time is the sheer scale of the attack, and the slugs actively providing support from the backlines.
+
+The moment I join the fight, I begin laying about me with my mandibles, taking the pressure off the ants behind me and crunching through a new opponent with every chomp. Of course, that isn’t all I intend to do, as my brains go to work churning through the massive amount of gravity mana required to create a well. Once it’s in place, I can flatten half the creatures here and put an end to this offensive in a single blow.
+
+I’m looking to do more than just that, though. Since the Krath have been kind enough to make an appearance, I’m hoping they might want to stick around a little while. Have a chat maybe.
+
+Gweheheheh.
+
+Naturally, as soon as I appear, the Krath turn on me as if they knew I was going to show up. To be fair, it was a safe bet. Streams of acid, globs of sludge and those weird living nets are fired at me from a variety of angles.
+
+I throw up shields to block the nets, only to have the acid melt straight through them, clearing the way for the nets to reach me. With impossible reaction speed, I roll to the side and throw out another set of shields, creating enough time and space for me to get clear of the danger.
+
+Sneaky slugs! They’re getting more creative in their attempts to capture me. Still haven’t given up, which is commendable, I guess.
+
+Good spirit, you lousy slugs, now accept your gift!
+
+Just before I can unleash the gravity well and empower it to bring the weight of their sins crushing down on the Krath, something catches my eye, and I’m not happy about it. Charging forward in a mad rage is a monster I know quite well, certainly one that I’ve encountered before. And it isn’t so much charging as it is slithering.
+
+Why are you even bothering to keep up this pretence? Stupid slug, you’re not fooling anyone!
+
+Unheeding of my relentless criticism, the slug-snake blasts forward, no intelligence at all in its eyes, which bothers me deeply. This was a smart monster, with human levels of smarts bouncing around in its sluggy noodle. What in the name of heck have the Krath done to turn it into this mindlessly rampaging thing?
+
+I’m wary of the danger, but regardless, there’s still only one course of action I need to undertake. The gravity well flickers into place as a colossal amount of energy floods out of me, mana and Will both. A moment later, the incredible gravitational power takes hold, slamming everything into the ground and crushing it without remorse.
+
+Gweheheh.
+
+It’s not as strong as I would have liked, since it has to cover such a massive area, but I’ve got a good chunk of the tunnel completely squashed, putting an end to the furious assault taking place at the edge of the blue mana field in an instant.
+
+Except… the slug-snake is still coming.
+
+At that moment, I realise just what the slugs are trying to do. They attacked across a wide field, covered the ground in slime and even put themselves on the line, encouraging me to release as large a gravitational field as I could.
+
+I only partially fell for the bait, thankfully. If the slug-snake hadn’t appeared, I might have been tempted to expand the field deeper into the tunnel to try and catch a few Krath, but I didn’t. Even with this demonstration of restraint, the field isn’t strong enough to prevent the huge snake from forcing its way forward.
+
+It’s not like it’s moving quickly, but it is still moving, snapping its fangs as it slowly reverts back to its true, sluggy form.
+
+Well, I have a few options here. The question is—aaaaand some of them are gone.
+
+Just when I start to wonder if I can shrink the field and concentrate it more, the Krath launch a second wave down the walls of the tunnel. Because of course they do. To cover both flanks, I’d need to extend the field even further, weakening it even more. If I do that, some of the monsters close to the ants might be able to pick themselves up and fight again, which would only add to the chaos.
+
+If there’s one thing I’ve found about the fifth stratum monsters that's especially annoying, it's their resistance to being compressed. The amount of force required to properly squash them using a gravity well is frankly wasteful. Thankfully, gravity bombs hit hard enough to deal with most of them, but the well is best implemented as crowd control rather than a fatal blow.
+
+Well, well, well, Krath, you’ve certainly put some work in this time. At least the well has forced them far enough away that they can’t annoy me with spells and acid anymore.
+
+I guess the only thing I can do is head off the snake-slug myself and prevent it from reaching the frontline.

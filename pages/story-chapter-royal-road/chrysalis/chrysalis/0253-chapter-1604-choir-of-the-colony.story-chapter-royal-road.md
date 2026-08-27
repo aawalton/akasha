@@ -1,0 +1,105 @@
+---
+id: 262fac86-3b91-5653-a702-61dc0f0569e0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1604 - Choir of the Colony"
+slug: 0253-chapter-1604-choir-of-the-colony
+partOf: chrysalis
+position: 253
+ownLength: 1219
+unit: words
+ownProgress: 1219
+publishedAt: 2025-07-11
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2425571/chapter-1604-choir-of-the-colony"
+royalRoadId: "2425571"
+markedReadAt: "2026-06-29T19:51:54.648Z"
+---
+
+There was a rising sense of urgency amongst the Brood Tenders. They worked as they always did, with a sense of calm and control. They were the most critical workers in the entire Colony, tasked with the greatest responsibility, to care for and raise the future generations. They were an unshakeable force whose cool and calm was impossible to rattle.
+
+Yet this situation was unlike anything Theresant had seen before.
+
+The young Chal would simply not stop singing.
+
+The Tenders had tried to distract them. It didn’t work.
+
+They’d encouraged them to sleep, to no avail.
+
+Offering them toys, or activities, or food, none of it had worked. Being so exhausted, they were beginning to droop and fall over, passing out as they became overwhelmed with fatigue.
+
+Theresant herself had led an effort to communicate with the hatchlings via performative dance, but the attempt had failed miserably, the young chal not even acknowledging their efforts.
+
+If the situation continued for much longer, the young ones might suffer permanent damage to their voices. Thinking of the stress and suffering her charges were enduring was enough to cause Theresant to grind her mandibles in frustration. This was entirely intolerable to the Brood Tenders! They had to do something.
+
+And yet, no matter what they tried, nothing worked. They were down to one, final idea, little as they believed in it.
+
+“We have no choice,” Theresant announced. “According to the Colony’s singular music expert, the chal are calling out to someone, hoping for a reply. If that’s the case, we will need to create that reply ourselves. Mozant!” she snapped.
+
+Alone in the corner, antennae gently swaying in the air as she ‘listened’ to the music, the ant jumped.
+
+“Wha? What?”
+
+“You must write a reply to the hatchlings. Quickly! We will find a way to perform it and hope that they are satisfied.”
+
+“M-me?!” Mozant said, aghast. “Write the music? I am unworthy!”
+
+“Who else can do it?” Theresant demanded, her normal calm, nurturing attitude fracturing in the heat of the moment. “The rest of us have only understood the basic elements of musical structure that we’ve taught to the young ones. None of us can write music. Only you can.”
+
+“B-but you don’t understand! Their song is such… such a thing of beauty! Anything I wrote would only sully it!”
+
+“It doesn’t have to be perfect, it only has to satisfy the hatchlings,” Theresant replied, impatient. “Or are you satisfied to watch as they sing themselves unconscious?”
+
+Despite her reservations, Mozant was still a Brood Tender; she could not bear to let the young suffer. Gritting her mandibles, she firmed her will.
+
+“Very well. I will try. Clear me a space. A space, I said! I must create!”
+
+So saying, Mozant swept back the shock of white ‘hair’ atop her head, causing it to fuzz up wildly as the writing materials of the Colony were summoned for her to begin.
+
+So began a nervous wait as the Brood Tenders continued to do all they could to ensure the hatchlings were comfortable while Mozant underwent her creative process.
+
+As it turned out, it was quite a process.
+
+“DISGUSTING! APPALLING! It makes me SICK!” she roared, throwing the piece she had been working to the side with a violent sweep of a foreleg. “No, no, no, no, no, no, no, NO! This isn’t right, not right at all!”
+
+She dragged her white hair through the elbow joints of her forelegs, a soothing and cleaning gesture as she continued to rant to herself.
+
+“If I come so crudely over the top of their own harmony, it will seem like dominance, a demand for submission and obedience. It should be a partnership, a joining of equals striving towards a common goal. So… so where do I harmonise? I could move an octave down, be a strong supporting influence… or perhaps sing a counter-harmony that interlaces with their own? How would that sound? How would it sound?!”
+
+Flailing wildly, Mozant rolled around on the ground, legs kicking and antennae flailing. Several Tenders moved to see if she was alright, but she pushed them all away.
+
+“No! Shut up! I think I have something!”
+
+Throwing herself back to her desk, she began to write a new song, using her scent gland to mark the special tablets used by the Colony.
+
+“Yes. YES. I can hear it. The notes are flowing out endlessly. It’s… it’s so beautiful!”
+
+In the back of her mind, Mozant made a note that she should add tear-ducts in her next evolution so she could weep with joy, as the humans did.
+
+Except… a few minutes later….
+
+“NO! It’s GARBAGE! How could I ever imagine that this was good?! It’s FILTH. DISGUSTING!”
+
+With another wild fling of her legs, she swept her work on the floor and tried to stomp on it, only to find she was too weak to destroy the reinforced stone with flimsy ant legs. Giving up, she once again flung herself on the floor, rolling and flailing until once again, inspiration struck!
+
+Desperate to break the cycle and make some progress, Theresant watched and waited. Mozant’s work was getting better, it took longer and longer for her to throw it away after each revision, but if they waited until she produced something she was actually happy with, the chal would have collapsed, or perhaps worse….
+
+The next time Mozant went to destroy her work, Theresant lunged and deftly snatched it out of the air with her mandibles. Turning swiftly, she passed it to another Brood Tender waiting at the door to the chamber.
+
+“Take it and get copies made! Prepare the singers!” she ordered, passing the tablet.
+
+Without hesitation, the Tender raced away, just quick enough to avoid Mozant’s diving lunge.
+
+“No! Nooooo! It’s sewerage! You hear me? RAW SEWERAGE! Singing it to the chal will be like pouring foul muck into their ears! Bring it back!”
+
+“We don’t have time,” Theresant snapped. “Get yourself together and go help prepare the singers. We’re doing this now.”
+
+Of course, the ants couldn’t perform the music, even if one of them wrote it. They had no way to vocalise, singing was entirely out of the question. Yet, they could put on the same charade they had been doing for weeks, pretending to sing as they taught music theory to the chal while others provided their voices to the act. This would be no different.
+
+To Theresant, stepping into the chamber was a painful experience. The song of the chal might not have made sense to her, she may not have ‘heard’ it as others might, but even so, she could feel its power. Despite their flagging strength, the little snails had pure, piercing voices, and their hope and sorrow rang in the air clear as a bell.
+
+Even more than their song, their tiny, wilting selves gave the Tenders who saw them great pain.
+
+This is going to work, Theresant thought to herself. This HAS to work.
+
+Reluctantly, Mozant took up her position before the gathered Brood Tenders, who had arranged themselves as a choir, facing the little snails.
+
+“Although it pains me,” she grumbled, “we don’t have time to rehearse. Try to follow my instructions while you pretend to sing so it looks more convincing. In five, four, three, two…”

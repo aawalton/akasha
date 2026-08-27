@@ -1,0 +1,264 @@
+---
+id: fd789291-8c88-5f82-af03-0de011cccafd
+page-type-slug: story-chapter-royal-road
+title: "157 - Rabbit vs Elf 1"
+partOf: bunny-girl-evolution
+position: 23
+ownLength: 3507
+unit: words
+ownProgress: 3507
+publishedAt: 2025-12-23
+link: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/2872411/157-rabbit-vs-elf-1"
+royalRoadId: "2872411"
+markedReadAt: "2026-06-29T20:03:24.305Z"
+---
+
+As the newbies set up around the dummies, the group of older students started roaring with laughter. Elise glanced over to see that some of the students were having a sculpting competition or something where they grew wood into different shapes. Unfortunately, she couldn’t see exactly what it was that was so funny, but she managed to catch a glimpse through the crowd of something that looked suspiciously like Daryl.
+
+Turning her attention back to the dummies, she watched as Shawn handed Telvir a small stone and started explaining roughly how things would work for the duel.
+
+“We don’t want either of you directly attacking each other, so we’ll be using this,” said Shawn. “There’s one of these for each of the dummies, and they’re set up to allow you to use your Skills on the dummies as if they were yourself. That way, if you have a wooden armor Skill like I do, you can still test it by activating it on the dummy, instead of yourself.”
+
+“This…” said Telvir. “Where did you get this artifact?”
+
+“The school has a bunch of ‘em,” replied Shawn with a shrug. “We rent them out for things like this all the time.”
+
+“Where does the school get them?”
+
+“I dunno. You can ask Sucri, probably. She might know.”
+
+“I will.”
+
+The whole time, the elf’s eyes never left the stone in his hand, and his emotions were a mix of awe, confusion, and… fear? Elise wasn’t sure what that was about, but she understood the first two. She could sense that there was an aetheric connection between the stone and the dummy in front of the elf, and as far as she was aware, its claimed function shouldn’t have been possible. The dummy was literally altering the functionality of a Skill. Even if all it was doing was changing the target…
+
+She was no expert on Skills, but modifying Skills like that shouldn’t have been possible at all, let alone in a simple dummy that a club could casually rent for a sparring game. She wasn’t an expert on artificery either, but if there was a craftsman who could create things like this… There were a lot of implications. She already knew that moving golems existed. What if there were golems that could be remotely piloted and could even use Skills without ever putting anyone in danger? Did Jelor secretly have something like that, or were these dummies relics from a bygone era, like her necklace, Astrid’s Star, which could do similarly impossible things.
+
+She had too little information to come up with a proper guess, but her mind immediately jumped to the possibility of an aetherborn. She could imagine the Rune of Fate customized to an artificer’s preferences allowing for the creation of something like this. From that thought, her mind immediately jumped to Archmage Anne Jelor. She was possibly the most famous historical figure of the era, having been powerful enough to singlehandedly found a nation, defeating entire armies on her own to protect her home. She had also been the founder of the University.
+
+Was she an aetherborn? she wondered.
+
+It was definitely a possibility. Having the added boon of a Rune of Fate would explain some of her feats, assuming they hadn’t been exaggerated over the years. Adding that to the fact that there were multiple stories of her crafting artifacts to assist her exploits, it was not out of the question at all that the dummies could have been created by her.
+
+While that was an interesting thought rabbithole, with no further evidence to help her, she dropped it and started on a new one: Telvir. He had immediately noticed the strangeness of the dummies, and asked about it. He was an elf, so it was hard to tell exactly what he knew, but Elise was curious if his line of thought was similar to hers. Not that she could really ask him, given the setting, but maybe if she earned his respect, he would prove to be a good source of information.
+
+“Are you both ready?” asked Daryl.
+
+Elise and Telvir both looked up from the stone simultaneously and nodded.
+
+“Great! Eleanor, do you have any nature magic defense?”
+
+“No,” she said. “I usually just dodge or… other things.”
+
+She hesitated to say she used {Suggest}, because while it was a common Skill, she didn’t know how common it was to use it the way she did.
+
+“Other things,” he said, raising an eyebrow. “Like what?”
+
+Elise hesitated again, but then decided she would just share it. If she was going to be strong enough to join the rookie Dungeon team, she needed access to at least some of her aether abilities.
+
+“Well, my Class path was a little weird…” she said. “But I have {Suggest}, so I use that to trick opponents.”
+
+Daryl looked confused, but from the opposite side of the pit, she sensed a flash of worry from Telvir. He clearly had a pretty good idea of what she meant.
+
+“What do you mean?” asked Daryl.
+
+“It’s kinda hard to explain. If someone attacked the dummy, I could demonstrate though.”
+
+“I’ll do it,” said Shawn, raising his hand as wood grew around it to form a thick club. “I just need to punch it or something?”
+
+“Yeah, that works,” said Elise. “You can do it whenever.”
+
+“Alright. I’m going now.”
+
+He wound up to punch, and just as he was about to thrust his hand forward, Elise used {Suggest}.
+
+It’s dodging to the left! she sent.
+
+She wasn’t sure how well it would work with an immobile dummy, since {Suggest} thoughts needed to be believable, but in the split second between when he had the thought and reacted to it, he had no time to properly process. Just as she hoped, his punch went wide left, and he paused with his armored fist still out, staring at it in confusion.
+
+“What?” he said. “How did you do that?”
+
+“Do what?” asked Sara. “You missed.”
+
+“No, I–” Shawn paused. “Here, you try it.”
+
+“Try what? Missing?”
+
+“Try to hit. Eleanor, do the thing again.”
+
+“Okay,” said Elise.
+
+Sara raised an eyebrow in suspicion. “Are you trying to prank me or something?”
+
+“See for yourself,” said Shawn. “Attack the dummy.”
+
+“Alright…” she said.
+
+A thick vine grew out of the ground, and began a horizontal swipe against the dummy. However, right at the beginning of its path, Elise used {Suggest} and the vine whizzed over the dummy’s head, almost swinging around to hit Daryl before Sara stopped it in its tracks.
+
+“What the heck?”
+
+The other students were all confused about what was going on, but none more than Sara. Elise had to hold back laughter, because she hadn’t expected “it’s flying up” to work so well when the target was a stone dummy. She also had to wonder if she had maybe gone too far. She wasn’t putting her utmost into her {Suggest}s, but she maybe wasn’t holding back as much as she should have been.
+
+“Told you so,” said Shawn.
+
+“That— But—” Sara stammered. “How did you do that?”
+
+“{Suggest},” said Elise.
+
+“You can’t do that with {Suggest},” protested Sara.
+
+“I just did.”
+
+“But— Where did you learn that?”
+
+“I’m not allowed to say.”
+
+Sara narrowed her eyes in suspicion. Elise had to admit it wasn’t the most elaborate lie, but she had almost definitely gone too far showing off her skills, so trying to play it off would only make it more suspicious. In that case, it was better to just blatantly say something like that than to come up with a lie that might unravel later.
+
+“Was that really just {Suggest}?” asked Shawn.
+
+“Yep.”
+
+“I didn’t know it could do that.”
+
+“Most people don’t.”
+
+“Wait, so you guys actually didn’t try to miss?” chimed in Daryl.
+
+“No, she made us do that.”
+
+Daryl stared at Elise. “No way. You’re pulling my leg.”
+
+Daryl tried an attack of his own on the dummy, and once again, Elise redirected it. Right after, Heath wanted to give it a try as well, and while at that point, it was clear it wasn’t a prank, all the newbies wanted to experience it as well, even Sophie, so Elise demonstrated on all of them as well. Each person who she made miss walked away dumbfounded, and with each one, Telvir’s expression grew more and more sour.
+
+“Well, it looks like you do have a very solid defensive option,” said Shawn. “Though if it fails, you’re kind of screwed.”
+
+“Yeah,” said Elise. “Which is why I usually try to finish battles quickly before they can attack me, and if I can’t do that, I also have this to dodge.”
+
+She used {Move} to demonstrate, dashing quickly to the side.
+
+“‘Usually’?” asked Shawn with a light smirk. “Then you’re experienced with combat?”
+
+“Hunting, more like,” Elise corrected.
+
+“I see,” said Shawn. “Well if you’re that experienced at hunting monsters, it looks like Fighting with Nature might have gotten another ace for the rookie competition. An elf and an experienced hunter… With just that alone, we might be able to take first in the rookie. Assuming you want to join.”
+
+“I’m not opposed,” said Elise. “But I’d need to hear more details first.”
+
+“Of course,” said Shawn.
+
+“But those details can wait,” boomed Daryl. “We have a sparring match to finish!”
+
+“Oh, yes,” said Shawn. “I’m excited to see what you’re capable of. Here’s your dummy, by the way.”
+
+He handed her a stone of her own, and Elise followed the aether thread to the dummy right in front of her.
+
+“Movement Skills technically work, but not very well, unfortunately. It’s the dummy’s biggest flaw. It will apply the Skill, but since it weighs so much more than you, the effect will be greatly reduced.”
+
+“I see,” said Elise.
+
+She was curious about how reduced it was, so she focused on using {Move} through the stone. It was very intuitive, and no sooner did she think about it did the dummy move. It went about a third the speed and distance that she usually went when using the Skill, but it was probably enough to avoid attacks, as long as the attacks weren’t too fast. And based on what she saw when she used {Inspect} on Telvir, she thought there was a good chance they wouldn’t be too fast.
+
+[ Knight of the Forgotten Grove, lvl 7 ]
+
+While the Class name sounded impressive, the fact that she could see the level meant that he was, at the very most, 5th tier. A 5th tier’s attacks would certainly be fast, but Elise was used to punching above her weight. Of course, Telvir’s Class was probably not inferior to her Species, and his class was built for this type of combat in a way that Elise wasn’t, but even so, Elise felt it wasn’t hopeless.
+
+“Are you both ready?” asked Daryl.
+
+Elise and Telvir nodded.
+
+“Then, since Eleanor has already shown us her defensive ability, I believe it’s only right that she gets to start on offense, so that we can see Telvir’s as well. Sound fair?”
+
+Elise and Telvir nodded again.
+
+“Excellent! Then let me explain the rules! You’ll be taking turns attacking and defending. The defender will have five seconds to prepare, and then the attacker will have five seconds to try and break through those defenses. The defender may not counterattack during the attacker’s turn, but they may take more active defensive measures, like dodging or repairing existing defenses. The dummies have damage sensors, so you’ll each get a little jolt of mana when your dummy is hit. The intensity will depend on the severity of the hit. And of course, we’ll also get that same data to keep track of who’s winning and losing. We’ll be doing three attacks each, so make sure you save your mana. Any questions?”
+
+Elise and Telvir shook their heads.
+
+“Then let’s start! Telvir, your time to prepare your defenses starts in 3! 2! 1! Begin!”
+
+Immediately, wood began to grow out of the stone dummy, encasing it completely. It looked very similar to Shawn’s own armor Skill, but the type of wood it used was completely different. It was much darker, and the grain seemed to glow gold. Elise didn’t recognize it at all, but the name of Telvir’s Class meant that probably no one would recognize it.
+
+The wood thickened, and small, leaf-covered branches grew out all over it, and when Daryl announced that it was time to stop, it looked like a standing gilly suit. Elise frowned as she saw it. Firepower was about as far from her specialty as it could have been, so if the wood was as strong as she worried it was, she might be useless against it. She couldn’t even use {Suggest} to help her this time, since she was attacking an inanimate dummy, not Telvir. Maybe if he was doing more active defense, but she could sense his absolute confidence and knew that he would not bother. Not in this first round, at least.
+
+“Eleanor, you may begin attacking in 3! 2! 1! Go!”
+
+Immediately, Elise used a modified version of {Ensnaring Roots} to wrap around the dummy’s legs, trying to crush them. At the same time, she cast {Vicious Bloom} with as much mana as she could at its chest, followed by two volleys of {Magic Missile} aimed straight at its head. She could have done more, but decided to stop there so as not to waste her mana. That alone had taken almost a quarter of her entire mana pool, and this was more of a probing round.
+
+None of her attacks were very effective. Her roots weren’t strong enough to do anything to the armored legs, at first, and only at the end did she hear the faintest of cracks. {Vicious Bloom} spread across its chest, but it wasn’t able to sink its roots into the armor, and in fact, when it tried, the vines started wilting. Good old reliable {Magic Missile} was actually the most effective, but Elise suspected that was only because she had practiced her accuracy enough that every single projectile hit almost the exact same spot. When the mana faded, the mask was chipped and cracked, but Telvir’s stone had not reacted.
+
+“Not bad,” said Daryl, nodding at the aftermath.
+
+“Firepower isn’t really my specialty,” said Elise apologetically.
+
+“No worries,” said Daryl. “Everyone has different roles. Telvir, your defenses were excellent.”
+
+“Of course,” said the elf.
+
+Telvir’s smug disdain was now visible on his face, evidently bolstered by the fact that Elise had not managed to pierce his defenses.
+
+“Eleanor, you have 30 seconds to think about your defenses. At the end, I’ll give a countdown, and you can begin setting up.”
+
+“I don’t have anything to set up,” said Elise. “I don’t have the mana pool for anything but active defense.”
+
+“Are you sure?”
+
+“Yes.”
+
+“Well, then Telvir, you still have your thirty seconds to plan your attack.”
+
+“I don’t need them either,” he said confidently.
+
+“Well, in that case, your time to attack begins in 3! 2! 1! Go!”
+
+Telvir darted forward, wood growing into sharp blades on the ends of his arms as he stabbed forward. He was faster than Elise expected, but not too fast for her to react to, so {Suggest} hit him in time to make his first attack miss.
+
+His next attack came immediately, and Elise barely got {Suggest} out in time to make that one miss as well. Frustration was visible on Telvir’s face as the next three attacks missed as well, but the sixth attack, he moved faster than Elise could {Suggest}, she was forced to {Move} instead. It wasn’t quite fast enough, and the wooden blade grazed the dummy’s arm, making Elise flinch as the stone in her hand shocked her.
+
+The next attack came even faster than the previous one, and this time, Telvir accounted for {Move}, and his blade sunk deep into the dummy’s throat. Elise almost dropped her stone when it shocked her from the hit.
+
+The elf still had almost two seconds left, but he pulled the blade out slowly with a smug smile and walked away. Behind him, the stone dummy seemed to partially liquify as the damage was repaired in seconds.
+
+“Round 2 goes to Telvir as well,” announced Daryl, earning a smattering of applause from the others.
+
+By this point, Elise knew that she had no chance of beating Telvir. Not at this game. In a real fight where she wasn’t holding back? She could do it. Not in this setting though.
+
+She had no intention of giving up though. The spar was ultimately meaningless, so while it did sting a little bit that she was going to lose, it didn’t matter. What she really wanted to do was wipe the arrogant expression off the elf’s face, and even if she couldn’t fully accomplish that, she wanted to at least put a dent in it.
+
+Telvir returned to his position behind his dummy, crossing his arms and standing with his legs slightly spread in a display of utter confidence.
+
+“Telvir, you have thirty seconds to plan your defenses,” said Daryl.
+
+Elise noticed that his voice sounded noticeably less excited than it had before. And while the others were still watching closely, there was no tension. Everyone present had gotten a pretty good idea of how the next few rounds would go. Elise took that as an added challenge. And if that wasn’t enough to motivate her, Telvir’s next words were.
+
+“I don’t need it,” he said. “Let’s just get this over with.”
+
+Elise shot him a glare as Daryl began counting down. During Telvir’s five seconds, he reinforced the armor, repairing the damage Elise had done and making it visibly thicker, but he did nothing else. He clearly thought he didn’t need to. And he was right. Elise’s next round of attacks consisted of a single modified {Ensnaring Roots}. This one was slightly different in that on top of trying to crush, it borrowed from {Vicious Bloom} and tried to dig into the armor, but it was just as ineffective.
+
+Seeing the pitiful display, Telvir scoffed.
+
+“Giving up?” he asked.
+
+“No,” said Elise. “I was just testing something.”
+
+It was an interesting problem for her, since for the first time, she actually had to use brute, magical force instead of falling back on her aether. She thought she had a solution though. Maybe. She was confident she could at least break through the armor on the next round, assuming that Telvir didn’t change anything significant, which she doubted he would.
+
+Just breaking the armor wouldn’t be enough though. He was clearly not trying very hard, and was holding back just as much as she did. If she spent all her effort just to barely crack his armor, that would only reinforce his superiority complex. She needed something stronger. A bigger statement. And she thought she had just the idea.
+
+The second round of attacks was a proof of concept. She was able to get the roots to penetrate the armor, but just like when she used {Vicious Bloom}, the roots wilted when they entered. She wasn’t completely sure how that worked, but she was fairly certain that the armor was absorbing the mana from her own attacks and weakening them. Even her {Magic Missile} was partially absorbed by the strange wood.
+
+However, there was one thing that Telvir wasn’t aware of, and that was the fact that she had {Nature Mana Manipulation}. She hadn’t worked with it as much as she should have, but she was familiar enough with it to have gotten it to level 70, so she knew how to work with it. And with it, she was not confined to the limitations of her more basic spell Skills. She could get creative. And she would.
+
+The second round of Telvir attacking went roughly the same as the first. Elise managed to fend him off for a little bit, though she had to get more creative with her {Suggest} to do it. In the end, though, he managed to stab it right in the throat again. That annoyed Elise, since she was sure she could have avoided him if he was attacking her instead of the remote-controlled dummy, and if she could fly.
+
+“Eleanor, do you need any time to prepare your attack?” asked Daryl once Telvir had returned to his position.
+
+“No, I think I’m ready.”
+
+“Remember that this is an exercise in creativity, so don’t be afraid to take your time and try something new. Winning and losing doesn’t matter. Just try your best, and maybe try something new with nature magic that you haven’t done before.”
+
+“Oh, I will,” said Elise. “And I’m ready. Let’s just get this over with.”
+
+Telvir’s eyes narrowed at Elise using his own words being used against him, and he sneered at her.
+
+“Then your final round of attacking begins in 3! 2! 1! Go!”

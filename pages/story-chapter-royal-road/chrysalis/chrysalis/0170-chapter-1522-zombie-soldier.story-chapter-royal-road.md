@@ -1,0 +1,85 @@
+---
+id: 6e06ee92-9541-51b3-bdd5-8dc311b2d97c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1522 - Zombie Soldier"
+slug: 0170-chapter-1522-zombie-soldier
+partOf: chrysalis
+position: 170
+ownLength: 1054
+unit: words
+ownProgress: 1054
+publishedAt: 2025-03-05
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2104477/chapter-1522-zombie-soldier"
+royalRoadId: "2104477"
+markedReadAt: "2026-06-29T19:49:16.926Z"
+---
+
+Leeroy had never felt stronger. Power coursed through her immense frame. Her musculature thrummed with energy, her mandibles gleamed with indescribable sharpness. Her carapace… had not been improved at all. Why would she bother spending her precious evolutionary energy on it, anyway? The Colony insisted on decking her out with increasingly more powerful armour, after all!
+
+Indeed, once Smithant had discovered her newly evolved form, Leeroy had been forced to sit and wait while she was measured, weighed, and a new suit of armour was painstakingly constructed, enchanted and fitted. All the while, the smith had muttered and mumbled in Leeroy’s ear, warning her not to do something stupid.
+
+Of course she wasn’t going to do something stupid! She was going to do the smartest and best thing it was possible for an ant to do! Sacrifice herself for the glory of the Colony! And now, in her powerful, tier seven form, fully armoured and with her sisters by her side, she felt she could achieve an end truly worthy of the Colony’s investment in her.
+
+“FORWARD, SISTERS!” she bellowed.
+
+“WE SEEK!”
+
+“DESTROY THE FILTH THAT ATTEMPTS TO DEFILE OUR PLATFORM! RAISE THE RELIQUARY HIGH! ADVANCE!”
+
+There was no glorious charge, no headlong assault into the breach, for that would be assured destruction, which was apparently not allowed. Instead, the Immortals marched out in their armoured glory onto the platform and pushed themselves to the front lines.
+
+The Colony was fighting a fully defensive war, which made heavy-assault troops of limited use, but while the Eldest was asleep, the Immortals would place themselves between their siblings and the danger that loomed all around. Indeed, they would put their bodies on the line to the point they were no longer able, finally freed from their burdens!
+
+Leeroy could feel her spirit fortified by the blessed presence of the reliquary, and she gladly pushed herself in front, right in the heart of the monster assault.
+
+What confronted her was a wall of mucus, sludge and vomit. It looked like heaven.
+
+“Get behind me!” she declared before throwing herself in front of a wave of slime being spewed forth by a worm-slug five metres wide. Despite being as resistant to acid and toxin as the Colony could make it, her armour still steamed under the onslaught, and some leaked through to burn into her carapace.
+
+Leeroy embraced the pain, welcomed it. The first tick of HP she lost sent a thrill running down her antennae. She was going to do it. Today was the day!
+
+Snapping her mandibles viciously, she gripped the worm and heaved, pulling it back into the cleansed mana before using her body to pin it down. The wretched creature writhed like an eel, but she held it firm, even while it disgorged acidic slime that sizzled and burned. When the monster had finally burned away, she turned to seek the next challenge, a fire burning in her heart.
+
+In her heart, but crucially not in her Phoenix Flame Organ! Normally, whenever she suffered, whenever she took damage, the cursed organ was there, filling up, gaining power, just waiting for her to finally collapse so it could release the pent up energy and bring her back from the brink.
+
+No, it had been completely replaced within her body; she was freed from that abysmal, cursed organ.
+
+Now she was a Fallen Zombie Soldier! No longer inflicted with the dreadful Phoenix Flame Organ, but blessed with the Eternal Zombie Fungus, whatever that was.
+
+It didn’t matter to her.
+
+A massive turtle monster reared up from the river of slime, mouth agape with six leech-like tongues spitting parasites everywhere.
+
+“I’ll get it!” cried every member of the Immortals in range.
+
+With her advantage in size and strength, it was Leeroy who got there first. She shouldered her siblings aside before leaping at the monster, trying to ram her face into its gaping maw. What better way to stop the parasite assault?
+
+Of course, that meant the wriggling worms tried to force their way into her head, but they were sadly rebuffed by her armour.
+
+“Too weak!” she cursed.
+
+Her head was too large to fit into the creature’s maw properly, so she withdrew and started chomping furiously at the beast. More Immortals joined the fray, throwing themselves bodily in harm’s way in order to drag the monster into the cleansed mana, where they could pin it down as it was purged.
+
+As soon as it stopped moving, Leeroy leapt to her feet.
+
+“THE SEARCH GOES ON, SISTERS!” she cried.
+
+“WE SEEK!”
+
+For hour after glorious hour, it continued. Leeroy threw herself at every enemy, no matter how wretched or foul. She shielded her siblings by putting her body in harm’s way time and time again, letting her armour and carapace be the bulwark between her sisters and harm.
+
+They forced healing on her, of course, which she begrudgingly endured, but even that wasn’t enough.
+
+Her muscles ached and tore. Her armour was melted, dented and rent. Her helmet was split. Her carapace was gouged and scratched. Her HP… was falling lower and lower.
+
+Many of her fellow Immortals had already been consumed by the cleansing fire. Dragged clear by the rest of the ants, they had arisen, fully rid of the toxic influence of the fifth and healed of all their injuries. Re-armoured, they were made to return to the fight fully fit and healthy, a dreadful state of affairs.
+
+Leeroy’s heart wept for them, even as she rejoiced for herself. It wouldn’t be long now. She was right on the edge. Soon, the healers would demand she retreat for healing, but not quite yet. They didn’t know she could no longer revive, and so they would allow her to stay in the fight, even as she grew weaker and weaker.
+
+This was her chance!
+
+All she needed… was the right fight.…
+
+A shattering roar split the air as a massive monster breached the surface of the slime river. Formed of slug-like flesh, it reared up and opened its maw wide, virulent slime dripping from every inch of its body. Row after row of serrated, needle-sharp fangs bristled within, along with a burst of dense, toxic gas. The creature lumbered forward, propelled on two tree-thick stumps it used for arms and its long tail.
+
+Leeroy… wept.

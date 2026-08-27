@@ -1,0 +1,163 @@
+---
+id: 37625102-8b3f-572e-9666-e33b78b3faa1
+page-type-slug: story-chapter-royal-road
+title: "95: Unsurprised Elf"
+slug: 0095-95-unsurprised-elf
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 95
+ownLength: 1986
+unit: words
+publishedAt: 2026-01-02
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2905284/95-unsurprised-elf"
+royalRoadId: "2905284"
+---
+
+Chloe felt so happy she thought her chest might actually burst. Mr. White was back.
+
+He might be a skeleton now, but at least he was a cool skeleton. She couldn’t stop touching him. Her hands moved all over his bony body, patting his ribs, tapping his legs, and poking the glowing flames just to see if they reacted, and the best part was how they didn’t burn her at all.
+
+His mane, now made of flickering blue fire instead of hair, flowed calmly when she stroked it. It felt weird and cozy at the same time.
+
+Chloe leaned into him with a wide grin, rubbing her cheek against the side of his skull. “You’re still the best horse ever,” she whispered, her voice warm and wobbly. Mr. White dipped his head down and pressed it lightly against her shoulder, and Chloe melted a little more inside.
+
+“It… um… it seems like you really like this horse,” Sierra said gently.
+
+Chloe’s head snapped towards the wolf girl. “Like him? I love him!”
+
+She grabbed Sierra’s wrist and tugged her closer with way more enthusiasm than necessary. “Come here! I should get you two to know each other."
+
+Sierra stumbled forward as she found herself standing right in front of a very tall, very on-fire skeleton horse. Mr. White lowered his head politely, the blue lights in his eye sockets glowing bright as if he were evaluating her.
+
+“Mr. White, this is Sierra! She’s nice and she didn’t die, which is pretty cool if you ask me.”
+
+Sierra blinked, unsure whether she was supposed to bow, shake a hoof, or run. She settled for an awkward wave. “H-hello, Mr. White…”
+
+Mr. White snorted, sending a soft puff of blue mist into the air. Chloe gasped. “He likes you! That means you’re cool enough to be friends with him. Mr. White doesn’t like just anyone, you know.”
+
+“I… see. He seems very… impressive.”
+
+“He’s the coolest horse ever. And now he’s even cooler because he’s all flamey."
+
+Sierra let out a soft laugh. “I can tell.”
+
+Chloe gave Mr. White one last proud pat on the leg before spinning back toward Sierra. “Okay! Now that we’ve got Mr. White back, I guess it’s time to go find that Joyful lady or whatever her name was. Maevey. Maeva. Maeve-something.”
+
+“Maeve the Joyful."
+
+“Yeah, that one. But hmm… we need an elf with us, don’t we?”
+
+“Morikhan said the same thing to me. Do you know any elves we can ask for help?”
+
+“Yep! I sure do!”
+
+Chloe turned toward Mr. White. “Hey, you remember Raenof, right?”
+
+Mr. White responded with a soft snort, the blue flames along his mane rippling forward. It absolutely felt like a yes.
+
+Chloe grinned smugly at Sierra. “See? He remembers!”
+
+Sierra blinked in confusion. “Um… Chloe? You didn’t ask him where Raenof is, though.”
+
+“Oh. Right. True. Mr. White! Do you know where Raenof is right now?”
+
+Mr. White stomped one flaming hoof, nodded his skeletal head, and gave another rumbling snort. Somehow, impossibly, it was a clear yes.
+
+“There! He knows!” Chloe said proudly.
+
+Sierra looked completely lost. Her ears drooped in bewilderment. “But… Chloe… how does he know that? He was… um… very dead. A few minutes ago.”
+
+“Well, Mr. White is just cool like that. Honestly, I think he’s even smarter now.”
+
+“I… see."
+
+“Anyway! Let’s go. We’ll hop on and follow Mr. White, and he’ll take us straight to Raenof."
+
+Sierra hesitated, her eyes drifting to Mr. White’s flaming spine. “Can we actually ride him? He’s on fire."
+
+“He wouldn’t burn us! He likes us! Look—”
+
+Chloe placed her hand on Mr. White’s ribcage. The bluish flames curled around her fingers, warm and soft. “See? Perfectly safe.”
+
+Sierra reached out slowly and touched one of the flames. Her ears shot up. “Oh… it really doesn’t hurt.”
+
+“Told you."
+
+“Then, okay. If you’re sure.”
+
+“I’m always sure!”
+
+Chloe climbed onto Mr. White’s back. The flames shifted around her like they were rearranging themselves to make space. Sierra climbed up behind her a little more carefully, gripping Chloe’s waist the moment she felt the horse’s bony frame tilt.
+
+Chloe leaned forward and patted Mr. White’s neck. “Alright, buddy! Take us to Raenof!”
+
+Mr. White tossed his flaming head and let out a deep, echoing snort. The blue flames around his mane flared brighter, and Chloe felt the ground rumble faintly under his hooves.
+
+***
+
+Raenof stretched out beneath the shade of an old willow tree, his hands folded behind his head and one leg crossed comfortably over the other. It had been a while since he’d last set foot in his homeland, and he had forgotten just how peaceful it truly was.
+
+The elf lands always had a way of quieting the mind, soft breezes drifting in from the lake, the gentle rustle of leaves above him. It was all so serene.
+
+A few silver fish broke the surface of the lake. Raenof watched them with the faintest smile tugging at his lips. He didn’t have anywhere to be for the moment, and that was rare enough to savor.
+
+A small wooden box sat beside him, a box he absolutely did not steal… probably. It had simply been lying around, unattended, in a place where unattended things tended to become his sooner or later. He hadn’t even bothered to open it yet; half the enjoyment came from imagining what it might contain. Maybe a nice trinket. Maybe a snack. Maybe another trinket. The possibilities were endless.
+
+His homeland, the Verdant Glades, was as tranquil as he remembered, peaceful, quiet, and unfortunately a little boring by his standards. Elven culture didn’t have much patience for thievery, which he found disappointing, although he’d never say so out loud. He understood the sentiment well enough. It just didn’t stop his fingers from wandering now and then.
+
+It had been a few months since his last job, and he was beginning to feel the familiar itching in his hands that told him he needed something to do. Traveling with that silly zombie girl, Chloe, was surprisingly enjoyable. She was chaotic, loud, but also: fun.
+
+Though Raenof wouldn’t go so far as to say he missed her, he couldn’t deny he missed the odd, ridiculous little adventures they stumbled into together. Traveling with Chloe had been chaotic, loud, and full of moments he absolutely should not have enjoyed… yet somehow did. He stretched lazily beneath the tree and decided that maybe it was time to take another job soon. Resting under trees wasn’t the worst way to spend his days, but it wasn’t the most productive either.
+
+For now, though, the evening air was pleasant. He felt content enough to linger just a little longer, letting the peaceful mood settle over him. However, that peaceful mood lasted precisely three more seconds.
+
+A hint of blue caught his eye, a sharp flame burning in the distance. Raenof straightened slightly, then stood up as he tried to get a clearer view. The flame pulsed again, brighter this time, and he narrowed his eyes.
+
+He stepped toward the edge of the lake, watching as the blue glow approached. Well… approach was an understatement. It was barreling toward him at a ridiculous speed.
+
+Within moments, it reached the lake and continued straight across the water, the flames gliding over the surface without disturbing it. Raenof blinked slowly, trying to piece together what he was looking at.
+
+As the shape grew clearer, his eyebrows lifted in mild disbelief. The blue flames came from a skeletal horse, one fully wreathed in bluish fire, and it was galloping toward him at full speed. The flames licked around its ribs and mane in ghostly wisps, making it look like a creature pulled straight out of the underworld.
+
+Normally, that would have been concerning. Undead monsters this high-tier usually meant more were following. But instead of reaching for a weapon or preparing a spell, Raenof simply smiled. Because now that the creature was close enough, he could see who was riding it.
+
+On the skeletal horse’s back sat a very cheerful zombie girl, practically glowing with joy as the blue flames swirled around her. Behind Chloe, clinging for dear life, was a Luphian girl that looked like she wanted to get off the horse as soon as possible.
+
+Raenof chuckled under his breath, shaking his head as he crossed his arms loosely. Of course it was her. Of course Chloe had somehow found a flaming skeletal horse. Of course she was riding it across a lake. He should have expected nothing less.
+
+He moved closer to the lake as the shape sped across the water, the blue flames growing brighter with every heartbeat. When the skeletal horse reached the shoreline and surged onto land, Raenof immediately stepped aside. Even from a distance, he could tell Chloe had absolutely no idea how to stop the thing.
+
+The flaming horse slammed its hooves into the dirt, skidding across the ground in a long, scraping arc. Blue sparks sprayed out behind it, burning into the grass as it fought to slow down.
+
+Chloe clung to its neck with gleeful excitement, while the poor Luphian girl behind her held on for dear life. Both of them were nearly thrown off as the horse came to a sharp, rattling stop.
+
+The Luphian girl immediately flopped off the horse and onto the ground. Chloe followed by rolling off the back of the horse and landing on her feet with a bright smile. She raised a hand to wave, cheerful as ever.
+
+Raenof blinked when he noticed another hand, detached, perched on Chloe’s shoulder, and waving at him with one finger. He would have been more alarmed if he didn’t already know she was a zombie. At this point, not much she did could surprise him anymore.
+
+He sighed as he approached them. “Chloe, what are you doing here?”
+
+Chloe bounced in place, pointing both her real hand and Leftie at him. “Raenof! Hi! Long time no see! Sooo, it’s a super long story, but the important thing is, I need an elf.”
+
+Raenof stared at her for a long moment, taking in the entire scene. The flaming skeletal horse pawed at the ground with blue fire curling around its hooves. The Luphian girl lay dazed in the grass, looking like she had just barely survived a natural disaster.
+
+And on Chloe’s shoulder, the detached hand gave him a cheerful little tap as if greeting him personally. In that instant, Raenof knew with absolute certainty that he was about to get pulled into something big.
+
+Even so, he couldn’t stop a smile forming. “Of course you do. Good thing I was feeling rather bored.”
+
+Chloe perked up instantly as if she suddenly remembered something very important. “Oh! Right! By the way, look! This is Mr. White! He’s back!”
+
+Raenof’s expression slipped into something between shock and disbelief as he looked between Chloe and the undead creature. He remembered Mr. White perfectly as a normal, living horse with fur, flesh, and no blue flames involved. The creature in front of him was… very much not that.
+
+“Did you revive him?” Raenof asked.
+
+Chloe puffed up proudly. “Yup! I sure did!”
+
+Raenof let out a breathy chuckle despite himself. He had only been gone a few months. How in the world had so much happened already?
+
+Before he could gather another thought, Chloe grabbed his hand with zero warning. “C’mon, Rae! I gotta introduce you to someone!”
+
+Raenof stumbled only a little before letting her lead him, amused and resigned in equal measure. She hauled him toward the flustered Luphian girl, who was just now getting to her feet with wobbling legs.
+
+“This is Wolfie! I mean, Sierra!” Chloe announced proudly.
+
+Sierra’s ears shot straight up in panic as she offered Raenof a shy, trembling wave. Raenof gave a polite nod in return. “A pleasure."

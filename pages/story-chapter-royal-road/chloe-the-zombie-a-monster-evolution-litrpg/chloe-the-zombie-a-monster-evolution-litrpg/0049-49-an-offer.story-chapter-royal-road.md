@@ -1,0 +1,215 @@
+---
+id: b317d6a3-8aa6-5eae-88db-acbf655ccc8f
+page-type-slug: story-chapter-royal-road
+title: "49: An Offer"
+slug: 0049-49-an-offer
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 49
+ownLength: 2075
+unit: words
+publishedAt: 2025-10-09
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2663584/49-an-offer"
+royalRoadId: "2663584"
+---
+
+Dragging Ynett’s body all the way back to Evergale definitely wasn’t Chloe’s idea of fun. She gave Cloaky one last tug, just in case it had changed its mind about taking in corpses. But she had no luck with that. Guess you're picky about what you eat, huh?
+
+Before she left the village, though, she made a quick stop to check on Wolfie. Not because she was worried or anything. She just wanted to brag about how she totally beat up Ynett.
+
+But Wolfie was nowhere to be found. The village was quiet, and when Chloe peeked into the nearby woods, there wasn’t even a bit of fur in sight. Maybe the wolf girl had wandered off to do whatever it was wolf girls usually did, probably.
+
+Chloe gave a shrug and carried on. She had a corpse to deliver.
+
+And wow, carrying a corpse was really annoying. Every few steps, Ynett’s boot snagged on a root or rock. Her white cloak liked to wrap around Chloe’s ankles too, which made things just that little bit harder. And don’t even get her started on the way the cracked skull kept leaking gross brain goop everywhere.
+
+She did try to be clever at first, and tied Ynett’s legs together and dragged her. That worked okay, until the body rolled sideways into a frozen puddle and Chloe slipped right in after it. Her butt ended up soaked and freezing.
+
+Luckily, Chloe never felt tired thanks to being a zombie, but the sheer hassle of dragging Ynett around was getting to her. By the time Evergale came into view, Ynett was flopping around in all the wrong directions.
+
+When Chloe reached the gates of the city, the guards at the gate didn’t even try to hide their stares. Chloe stomped past them, still dragging Ynett’s corpse.
+
+One of the guards opened his mouth, maybe to ask what she was doing, but Chloe shut it down quickly. “Don’t ask.”
+
+People on the street were staring just as much. Some even pointed. One lady dropped her whole fruit basket with a loud gasp. Chloe ignored them all, it's not like she cared what they thought anyway.
+
+Chloe walked straight for the Velvet Lantern. It still looked just as fancy as she remembered, with way too many girls lounging around outside. Most of them were dressed in frilly stuff that didn’t look very practical. Still the weirdest Thieves Guild ever.
+
+She shoved the doors open with her shoulder. The moment she stepped inside, everything screeched to a halt.
+
+A bunch of half-dressed ladies stared straight at her. One guy even dropped a tray of drinks.
+
+Chloe glanced around the room, then looked down at the corpse she was hauling. “What?”
+
+Nobody answered. They just kept staring.
+
+Finally, one of the women stepped forward. She was tall, had long glossy black hair, and wore something so sparkly it made Chloe squint. The lady’s voice came out cautious. “Um... what exactly are you doing?”
+
+“Turning in my bounty!” Chloe said, giving Ynett’s body a little nudge with her foot for emphasis.
+
+The woman let out a tiny squeak and immediately grabbed Chloe by the arm. “Just follow me. Now!"
+
+“Yeesh, alright, alright,” Chloe muttered as she let herself get pulled along.
+
+The two of them walked up a flight of stairs. Then another. Then another. And another. By the time they reached the top floor, Chloe was considering just tossing the body out a window and calling it a day. But that wouldn't complete her bounty.
+
+The woman finally stopped at a carved wooden door and gestured to it. “Go ahead.”
+
+“Don’t I need, like, the ring or whatever?” Chloe asked.
+
+The lady gave an awkward laugh. “Oops, sorry. May I see your hand?”
+
+Chloe dropped Ynett’s corpse and held out her remaining hand. The woman gently slipped a familiar silvery ring onto her finger.
+
+“You’re good to go,” the woman said, pushing the door open a bit wider. “Just... don’t break anything. And please return that ring before you leave the Velvet Lantern."
+
+“Pfft, relax. I’ll be fine. And I’ll give the ring back. Promise!” Chloe said as she scooped Ynett up and walked inside.
+
+The moment she went in, a thick wave of purple fog rolled over her boots. So, the usual.
+
+“Iris? You in here? I brought something!”
+
+There was a pause before an amused voice drifted out from somewhere in the haze. “I’m at my desk, Chloe. What brings you here today?”
+
+Chloe grinned and stomped deeper into the mist. “I brought Ynett back! You know, the White Witch? Super dead now.”
+
+“Oh? Let me see.”
+
+Chloe squinted ahead. “Um, where is your desk again?"
+
+There were at least three big shadowy shapes in the fog, all vaguely desk-like. She poked one. It was a bookshelf. She poked another and it hissed at her. Okay. Not a desk.
+
+“Just keep going straight from where you are,” Iris said with a chuckle.
+
+Chloe followed the sound until she finally bumped into the actual desk. She dropped Ynett nearby.
+
+Iris glanced down and raised a brow. “You didn’t have a storage scroll?”
+
+“Nope! But anyway, I did bring Ynett right? Here she is!"
+
+Iris shook her head, lips twitching like she was holding back a sigh. “Honestly…”
+
+She reached beneath the desk and pulled out a smooth and white mask. It was shaped like the face of a calm, pretty lady with her eyes closed and a faint smile.
+
+The moment Iris slipped the mask onto her face, the purple fog began to pull back, curling into the corners as if it didn’t want to be near Iris anymore. The mist that usually spilled from her mouth stopped too.
+
+With the mask in place, Iris’s voice came out just a tad clearer. “Step aside, please. I’d like to take a closer look.”
+
+Chloe nodded and stepped back as Iris leaned down, brushing her fingers gently along Ynett’s pale cheek. “This does seem… legitimate. How did you manage it?”
+
+“Oh, you know, the usual. First there was this big ice lizard. Then some villagers exploded at me, super rude, by the way. And then I defeated Ynett by, uh… headbutting her. A lot.”
+
+For a moment, Iris only stared. Then a laugh spilled out of her. “Hand me your guild tag. I’ll register the bounty. As always, payment will arrive after appraisal, though it shouldn’t take longer than a week.”
+
+Chloe unclipped the rectangular tag from the cord around her neck and handed it over. Iris held it carefully as the tag shimmered for a few seconds. When the light faded, she returned it to Chloe.
+
+[Guild Tag Updated]
+
+[C Rank Thieves Guild Member: Chloe >> B Rank Thieves Guild Member: Chloe]
+
+[Date of Joining: 10th of Thavriel, Year 842]
+
+[Original Branch: Kelvane]
+
+[Membership Status: Active]
+
+Bounties Completed:
+
+1. Luther Delius – C Rank
+
+2. Ynett the White Witch – B Rank
+
+“Wait, I ranked up?!” Chloe asked.
+
+“It’s only natural. You completed a B rank bounty after all.” Iris replied.
+
+Chloe grinned wide enough to show all her teeth as she clipped the tag back around her neck. “So does this mean I can take cooler bounties now that I’m B rank?”
+
+“You’ve always been free to take whichever bounty you wished. The rank marks are recommendations, not restrictions. Consider them friendly warnings, rather than rules.”
+
+“Ohhh. Okay, do you have more bounties for me then?”
+
+Iris gestured toward the door. “Down in the basement. That’s where we keep most of our proper operations. You’ll find what you’re looking for there.”
+
+“Sweet!"
+
+***
+
+The basement turned out to be a whole different world compared to the glittery floors above. Instead of velvet curtains, there were wooden beams and lanterns hung on hooks. A bounty board stretched across one wall, cluttered with papers tacked side by side.
+
+Chloe bounced on her toes as she scanned the guild hall. A few people sat at the tables, eating and drinking, while behind several desk workers scratched away at papers.
+
+None of it held her attention for long. Her eyes went straight to the bounty board, where fresh bounty posters were pinned up in neat rows. Yet Chloe’s grin slowly faded the more she read.
+
+The bounties this time around were… really lame. One of them was about eliminating Garret the Hen Thief, wanted for stealing chickens from three different farms. The reward was only a couple of silvers. Another was for hunting down Mira the Gossip, accused of spreading rumors that caused a bar fight. That one barely offered five silvers.
+
+Then there was Old Bram, who apparently needed disposing of because he kept yelling at the guards. Two silvers for that. Wow, none of these people look interesting.
+
+Even the C-rank bounties looked dull. Like, there was this guy called Gorm the Strong, wanted for smashing in faces all across Evergale.
+
+On paper he looked dangerous, but Chloe wasn’t impressed. He didn’t have magic, just fists, and fists weren’t nearly as fun as spells.
+
+After fighting a witch who blew up villagers and a giant ice lizard, this all felt like a massive step down. She leaned in closer, hoping one of the bounties would finally have something worth her time. But no, just more of the same boring scraps.
+
+Chloe wasn’t sure if Evergale’s guild was always this dull or if she had just shown up at a bad time. Either way, after all that trouble with exploding ice villagers, the Shivermaw, and Ynett, she deserved something exciting.
+
+Eventually, an idea popped into her head. Maybe Iris had a secret stash of the real jobs, the fun ones they didn’t let normal people see.
+
+Chloe dashed back upstairs, skipping two steps at a time before bursting into Iris’s office without knocking. The door slammed against the wall, and the familiar purple fog greeted her, curling through the air from the desk where Iris lounged maskless.
+
+“Iris!” Chloe announced proudly as she marched through the fog. “You got more bounties for me? The basement ones are suuuper boring.”
+
+Iris raised a brow, smoke slipping from her lips in a slow exhale. “Are you sure you looked through everything down there?”
+
+“Yep, nothing interesting was there.”
+
+“Mm. Not every bounty needs to be flashy, Chloe. Even the smaller ones are valuable. They pay well enough, and they show the guild you can be relied on.”
+
+“Meh. All that sounds kinda lame."
+
+“You are ambitious, and that is good. But ambition without patience is dangerous.”
+
+“Dangerous is fun. Bring me something spicy! I don’t wanna waste time on boring people.”
+
+Iris studied her for a moment, then let a sly smile spread across her face. “In that case, would you like to take on a mission instead?”
+
+Chloe tilted her head, ears twitching with curiosity. “What’s a mission?”
+
+“Think of it like this. Someone needs something done, and if you succeed, you’re rewarded.”
+
+“With brains?”
+
+“…No, you're more to be rewarded with gold or items.”
+
+Chloe slumped into the chair across from the desk, limbs hanging dramatically. “I don’t want some lame mission then. Might as well pick a boring bounty if all I get is dumb coins.”
+
+“Then tell me, Chloe. What is it you want, if not money or items?”
+
+“Brains of course!" Chloe said proudly.
+
+Iris blinked once. Slowly. “Are you serious?"
+
+Chloe’s grin faltered. Oops. Maybe I shouldn’t scream that I'm a zombie to the guild master like that.
+
+“I-I mean, yeah, brains are cool! They look neat, all squishy and stuff. I just like to uh, collect them?"
+
+A low laugh rolled from Iris’s throat. “Relax. We’ve had stranger members than you. Believe me.”
+
+Chloe’s shoulders sagged with relief, until her eyes narrowed suspiciously. “Wait. Are you calling me weird?”
+
+“Of course. You are anything but normal.”
+
+“Hey! I am totally normal. Everyone else is the weird one.”
+
+“Mm. If you say so. At any rate, perhaps you would be interested in a special mission. One with brains as your reward.”
+
+"Wait, did you say brains?”
+
+“Yes, I did.”
+
+“And… you’re not, like, tricking me, right? ‘Cause if the brain reward turns out fake, I’ll be super sad."
+
+“No tricks, Chloe. If you complete this mission, I can provide you with a fine selection.”
+
+“You mean… I get to pick the brain I want?”
+
+“Indeed. I'll provide you with some options, but what you choose will be up to you."

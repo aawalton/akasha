@@ -1,0 +1,107 @@
+---
+id: bb7f063b-cfa5-540b-9436-80e2ac32e690
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1568 - Burst Pipes"
+slug: 0216-chapter-1568-burst-pipes
+partOf: chrysalis
+position: 216
+ownLength: 931
+unit: words
+ownProgress: 931
+publishedAt: 2025-05-22
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2296570/chapter-1568-burst-pipes"
+royalRoadId: "2296570"
+markedReadAt: "2026-06-29T19:50:43.549Z"
+---
+
+“So how is the fortress handling the mana from the vents?”
+
+“BADLY, JERN! BADLY!” Tungstant roared as she continued to turn a valve with her mandibles.
+
+“Oh, I’ll help,” the human male said, stepping forward to grab it with his hands and twist.
+
+Although designed for ants, he did a good job of it. Clearly, he was getting quite strong doing whatever it was humans did to get stronger.
+
+“I need five more of these turned,” Tungstant snapped, making a quick decision. “Go down that way and shut off the first two you find, I’ll go this way.”
+
+Trusting him to get it done, she raced off down the access shaft and latched onto the first valve. She turned it desperately, wondering if they should have been oiled more often as she did so.
+
+The muscles in her head responsible for closing her mandibles strained hard as she gripped and turned as hard as she could. When it was done, she sprinted to the next, clamping her jaws around it and turning, desperately.
+
+The moment it slid shut, she could feel the change come over the channels above. Now that the damaged section was cut off, it would stop spewing corruption into the corridors. They’d been lucky so few ants had been in the area when it blew, otherwise it could have been disastrous.
+
+She raced back to the access hatch, only to find Jern climbing up ahead of her.
+
+“Sorry,” he replied, his pheromone speech soft and polite. “I’ll be out of the way in a second.”
+
+Despite not being an ant, he managed to scramble up the vertical wall quite well. Just what was the Eldest teaching these humans? Were they part ant now or something?
+
+By the time she reached the top, there was already a small crowd of carvers gathered, waiting for instructions and offering solutions.
+
+“No,” Tungstant declared, shaking her head at one suggestion, “we can’t go in there. We can just wait for the cleansed mana to eat up the corruption and then repair the damage. I need two teams to go activate the channels into the reserve tanks. Go, go, go! Fast!”
+
+Ten ants raced off to do the work while the rest peered into the sealed-off section of the tunnel nervously.
+
+“It’s fine,” Tungstant snapped. “Without more energy leaking from the channels, the leak won’t be able to overcome the surrounding cleansed mana. I need a team to go and find the core shapers. I don’t care what they’re doing, we need them to come and increase the capacity of the wuffer stations, now.”
+
+“Isn’t the excess being diverted into storage?” one carver asked.
+
+“And that storage has a capacity. What do you think is going to happen to this fortress if it actually fills up?”
+
+Another team ran off while Tungstant tried to collect her racing thoughts. Cobalt had rushed off to shut down the channels on the other side of the leak, hopefully that was done, but there could be further problems elsewhere in the channel network. If another bottleneck were to occur, they’d need to shut that off too, which would shunt more power to other, already strained channels. Did they need to turn off the intake from the platforms?
+
+Solant had said they could, but only as a last resort. That energy was needed, desperately.
+
+“The Eldest was just worried about the vents and I said I’d come and ask how they were going,” Jern said. “I suppose… bursting isn’t all that good. I’ll let them know.”
+
+Tungstant was jerked out of her thoughts and turned to look at the human.
+
+“What? No, no. Stick around, I might have a use for you.”
+
+The human tilted his head to the side for a second, as if listening to something, then shook his head.
+
+“Sorry, the Eldest is really worrying about something right now. I should go and check.”
+
+“The Eldest is worried? About what?”
+
+Was the Eldest able to sense the burst channels?
+
+“I suppose… I suppose I can ask. Give me a second.”
+
+Jern closed his eyes for a moment.
+
+“Apparently, someone launched a huge mucus bomb at the platform. The Eldest deflected it, but thinks it might have hit the fortress wall.”
+
+“Oh HECK!” Tungstant exclaimed, thoughts immediately racing. She did not need this right now.
+
+A huge wad of condensed fifth mana? It could be enough to break through the exterior, and if that happened…
+
+“You can communicate with the Eldest?” she demanded.
+
+Jern nodded, then shrugged.
+
+“I can get him to talk to me.”
+
+“Do it now, tell the Eldest to contact Solant and get the build teams moving. All of them. We need to monitor every channel in the fortress and we need to repair the exterior wall and we need it done an hour ago!”
+
+“That’s… that’s in the past,” Jern blinked.
+
+“Just do it!”
+
+The Templar closed his eyes again, and after a few seconds, winced.
+
+“The Eldest is yelling at me wondering what is going on,” he reported.
+
+“Just explain that there’s too much energy in the channels and it’s causing problems.”
+
+“What sort of problems?”
+
+“You want a technical explanation?”
+
+Jern shook his head.
+
+“I don’t.”
+
+After passing on that message, Tungstant met up with Cobalt and told her of the possible problem on the wall. By then, the build teams were already starting to assemble. Quickly, they crunched out a plan of attack and got everyone moving as quickly as they could, using Jern to communicate with Solant via the Eldest.
+
+This was going to be a long day.

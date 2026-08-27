@@ -1,0 +1,177 @@
+---
+id: 5883f29d-c160-5a9f-980d-98023573789b
+page-type-slug: story-chapter-royal-road
+title: "147 - Space Frogs"
+slug: 0150-147-space-frogs
+partOf: cat-girl-evolution
+position: 150
+ownLength: 2437
+unit: words
+publishedAt: 2026-08-10
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3794040/147-space-frogs"
+royalRoadId: "3794040"
+---
+
+“Yes, that’s me,” I say, sitting up a little straighter. “Do you need something?”
+
+“I just wanted to thank you for everything you’ve done,” he said. “What happened in Ryantown and Maligar were truly tragic, but it is thanks to you that they were stopped before they could get any worse.”
+
+“…You’re welcome?”
+
+The old guy chuckles as if I said something funny.
+
+“Well, that’s all I have to say for the moment. If you’re interested, though, I would love to invite you to have a talk. Call it recruitment if you’d like, but even if you have no interest in joining, I’m sure a conversation would prove enlightening. We’ve booked out the entire third floor. If you want to talk, just show this to anyone there, and they’ll bring you to me. Assuming I’m there. Your Party members are welcome too, of course.”
+
+I hold out my hand to accept the thing he’s handing me and take a look. It’s a small badge emblazoned with a silver, four-winged eagle.
+
+“I don’t want to interrupt your meal any longer, so I’ll be taking my leave. Have a good evening.”
+
+“You too.”
+
+He turns and walks away, leaving me very confused, and with a shiny new badge. I store the badge away and turn back to my minions, and find that they are staring at the man who just left.
+
+“Who was that?” I ask.
+
+“Wesley, Defender of Eryndell,” says Lauren.
+
+“Well, duh, but where is Eryndell, and who did he defend it from? I assume it was a famous incident, since he got an Epithet for it.”
+
+“I don’t know too much about it,” says Lauren. “I know Eryndell is in the north in the Cark Mountains somewhere, but I have no clue what happened.”
+
+“Probably a Named monster attack?” suggests A.
+
+“He looks old enough it could have been the war too,” says B.
+
+“The war?”
+
+“The third Elyrian Civil War,” says Lauren. “Elyria has always been a somewhat united nation, but there are frequent cultural clashes between the elves, dwarves, and humans, and it sometimes escalates into all-out war. The most recent was… sixty years ago?”
+
+“Fifty seven,” corrects Chad. “That’s when it started. It ended just fifty one years ago with the Treaty of Karryl. There were still a few skirmishes over the following years before tensions settled, though, and the last conflict caused by the war was only forty eight years ago.”
+
+“What he said,” says Lauren, nodding.
+
+“Chad, you’re a history guy?”
+
+“Not really. I just read about it sometimes.”
+
+“That means you read history books. That makes you a history guy.”
+
+“…I guess?”
+
+“Cool. I didn’t know that. Anyway, none of you guys know who that Wesley guy is?”
+
+The others shake their heads.
+
+“He must have gotten his Epithet before our time,” says A.
+
+“And if he’s a more local hero, it makes sense that we wouldn’t know about him way down south,” says B.
+
+“Especially if he hasn’t done anything particularly noteworthy since then.”
+
+“It is strange that someone from Eryndell is this far south, though.”
+
+“Especially to be in this particular place with such a large crowd.”
+
+“They look like warriors too.”
+
+“We should accept that invitation.”
+
+“If nothing else, it would be good to find out why he’s here.”
+
+“I guess…” I say. “But not tonight. Maybe later. I wanna try an elven bed. I bet they’re heavenly. Even better than the bed I stole from Fabio’s room in that inn.”
+
+“Yona, you probably shouldn’t talk about stealing beds from inns aloud when you’re in an inn,” says Lauren.
+
+“Hey, I paid for that! The only theft part was that I took it from Fabio’s room. I paid for it fair and square, though.”
+
+“Even then–”
+
+“Oh, hey, the food’s here!”
+
+The food is just as delicious as I hoped, though unfortunately, I end up needing to store most of it away. Usually, “one of everything” left me with some leftovers to nibble on for the next few days, but this time, it is actually just too much. The chefs are smart and prepare the food in rounds so they don’t overload the table, but by the third round, even I’m stuffed, and I have to just get the rest to go.
+
+That said, this might be my favorite restaurant I’ve been to in this world. I was expecting something like French food, with tiny portions of very good food perfected over thousands of variations. Instead, what we get is large portions of very good food perfected over thousands of variations. Each dish we ordered would be a filling meal for an ordinary person, and even for me, after ten I was starting to feel it. I ended up only finishing some and storing the rest away for later so I could make sure I got to taste as many things as possible.
+
+It makes sense, in retrospect, since this is an inn, and while it’s famous for its food, it also caters to more the Adventurer type than the businessman type, so they need to serve for people with big appetites. It makes sense that that’s where they’d focus their expertise. And I have to say, I am a huge fan of the decision in direction.
+
+Once we’re done, we all leave the restaurant, and are immediately met with another elven attendant, ready to guide us to our rooms. Since we apparently got a pretty hefty reward for resolving the Maligar incident (given to Lauren, since she’s the Party Leader on paper), we all get our own rooms, each of which are very fancy. In fact, they’re so fancy that my Food Sense can’t see inside them. There’s some kind of enchantment in the wood that blocks even Sin Traits, somehow. It’s a little claustrophobic inside my own room without being able to sense my surroundings like I usually can, but it’s also comfy knowing that I can’t really be spied on easily.
+
+“Pardon me, Miss, but one more thing,” says the attendant when I try to close the door behind her. “Taking the beds is strictly prohibited, even with compensation, and doing so will result in a 50 year ban. That ban will include a ban from the restaurant.”
+
+“…You guys were eavesdropping on us?”
+
+“One of our busboys overheard you and brought his concerns to the attention of the manager. I would recommend not discussing things so openly in the future, Miss.”
+
+“Sure, sure, whatever. I wasn’t gonna steal the bed anyway.”
+
+“Thank you, Miss.”
+
+After she leaves, I try to Blink directly to the bed, but sadly, it seems they have enchantments against teleportation here too, so I have to go through the tedious process of walking twenty steps instead. Those twenty steps are worth it, though, because the bed is so unbelievably comfortable that I fall asleep within seconds after laying down, and when I wake up the next morning, I feel more well-rested than I ever have.
+
+We eat in the restaurant again, this time opting for fewer dishes, and after a brief discussion we head straight for the third floor to meet with Wesley. Unfortunately, he his not there.
+
+“He should be back tomorrow evening,” says the man we talk to. “He’s out on business right now, but when he returns, I will inform him that you have stopped by. He is supposed to return shortly before sunset, so if you’d like, I can set up a dinner meeting for you? He said he wanted to treat you, so I’m sure he wouldn’t mind.”
+
+“He’s buying?” I ask.
+
+“Yes.”
+
+“We’re in. Tomorrow night, right?”
+
+“Yes. Just after sunset.”
+
+“Cool. Sounds good. Thanks.”
+
+“Have a good day.”
+
+Not meeting Wesley leaves the twins a little disappointed, but I honestly didn’t care that much, so it doesn’t bother me. Honestly, this actually works out better, because now we don’t have to delay what we really came here for. Frogs!
+
+I was never a huge frog fan back on Earth. I mean, they weren’t exactly common eating in Russia, and I had to go way out of my way to find some. It honestly wasn’t very impressive. I didn’t dislike it, but it wasn’t worth the trouble I went through to get it.
+
+This frog should prove much different. From what I’ve heard, the main reason it’s not a Delicacy is because its fame is mostly for its unique flavor, and some chefs argue it doesn’t have quite the same depth and richness as the rest of the Delicacies. And then there’s another chef faction that thinks those chefs lack refined taste buds, but that’s chef politics that I don’t really care for. Well, some of the drama I read about was kinda funny, but the actual debate is boring.
+
+Regardless, the frog is unique and uniquely delicious, and just based on the description of it, I can already guess why. They are one of very, very, very few creatures in the entire world that natural spawn with a Spatial Affinity. And based on the way Affinities affected blood flavor, I can imagine they would have a similar effect on meat flavor. Now that I think about it, that’s probably exactly why Algon, the Storm’s meat tasted so funky. His affinities were weird.
+
+The Interspace Tree Frogs are a unique race of naturally-spawning Tier 4 monsters who can teleport, and even make minor subspaces. The reason they’re so hard to get is that they live in these subspaces, usually hidden underwater in the roots of the trees of the swamp. This makes them exceedingly difficult for ordinary people to find, and their Tier combined with their ability to teleport makes them just as difficult to catch once found.
+
+But with Food Sense and Snatch, all that should be trivialized, not to mention my new Food Tracker Trait that got added to Gluttony. Finding and catching them will be a breeze. The only thing that’ll stop us from finishing this trip up in one go is that they don’t spawn too often, and they’re not that big. We’ll need at least a few days of hunting to fully stock up, but this first trip will serve as a good scouting experience.
+
+It takes four hours by high speed carriage to get to the section of the swamp where they live, and then two more hours of flying through the trees before we reach the section marked on the map as their habitat. And after that, it only takes fifteen minutes for us to find out first one.
+
+“Got one!” I say, Blinking a few trees over to where I sense a weird pocket of spatial distortion on one of the trees.
+
+I send a tentacle downward and into the water, extending it until it reaches the pocket and starts worming its way inside. Sadly, the frog is not home. If it was, it would have teleported out as soon as it saw the tentacle and started running away.
+
+“One second,” I say when the others arrive.
+
+I close my eyes and sniff the air, finding the various scents. The swamp actually doesn’t smell bad, but there are quite a few smells, and now that I’m actively focusing on my nose, it’s almost overwhelming. I quickly filter out most of the noise, zeroing in on the scents of living creatures. Food Tracker makes this surprisingly easy, and I’m able to tell that at least two dozen creatures have passed through here in the past twelve hours. About three smell froggy, and two smell similar to some of the other frogs I sensed on our way here. And that unfamiliar one…
+
+“I got it,” I say with a grin.
+
+The frog isn’t easy to track, since it usually teleports or swims, making its scent trail basically nonexistent, but it still gets out of the water every once in a while, and when it does, its scent is exposed.
+
+I Blink from tree to tree, following the faint trail as it gets stronger and stronger. As we follow, though, I notice there’s another scent mixed in. Something more serpentine. It looks like this frog was on the run when it left its home. And based on how long it ran, the thing chasing it was no ordinary monster.
+
+“Hurry!” I say. “It was running from something. We need to save it!”
+
+“Save it?” asks Lauren. “Aren’t we going to eat it?”
+
+“Yes, but if you were going to die, wouldn’t you rather die to an intelligent creature who could appreciate your flavor instead of a stupid snake?”
+
+“No, I can’t say I would.”
+
+“Well, you’re just weird. Now stop wasting time and let’s go!”
+
+The scent trail gets stronger and stronger, going from twelve hours old to six to two, and finally, we’re right on its tail. There were times when the frog seemed to stop and rest, and when the snake lost its trail as well, but the snake always caught up again, forcing the frog further and further away. This is one determined snake.
+
+Finally, after nearly an hour of tracking, the trail is so fresh I can practically taste the frog in the air. My mouth is watering, and my fingers are twitching in anticipation. Then, I finally see it.
+
+Squatting on a tree branch, my prey awaits. It’s smaller than I expected, probably not much bigger than my hand, and it’s almost completely green, like a waxy tree frog. It doesn’t notice me at first, so I grin, and mentally reach for Snatch. But before the Skill can activate, almost too fast for my eyes to see, a scaly hand reaches out from above, grabbing it.
+
+“No!” I shout.
+
+The frog croaks and struggles to get free, but the hand holds it in an iron grip as its owner slithers out of the tree above. The monster is mostly just a snake with arms, but when it lands in the water, it holds the top part of its body up and out, and I realize that it’s actually shaped kind of like a humanoid torso, and while its head is fully serpentine, it holds it at an angle that also looks vaguely human.
+
+But, vaguely human can describe a lot of monsters, and this one just now stole my food. I draw my sword, Blinking forward so I’m staring it in the eyes. The snake monster blinks in surprise, and then holds up both hands.
+
+“Wait, don’t attack!” it says in a posh, male voice. “I’m not a mindless monster or a maneater. Whatever it is, I’m sure we can talk it out.”

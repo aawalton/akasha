@@ -1,0 +1,83 @@
+---
+id: 8f803f0f-bb5b-58dc-a80f-01521b018738
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1619 - Invasion"
+slug: 0268-chapter-1619-invasion
+partOf: chrysalis
+position: 268
+ownLength: 1047
+unit: words
+ownProgress: 1047
+publishedAt: 2025-08-08
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2500895/chapter-1619-invasion"
+royalRoadId: "2500895"
+markedReadAt: "2026-06-29T19:52:23.360Z"
+---
+
+By the time Zluth reached the settlement of the Zissth along the roof of the heart, it was already a storm. The slugs could feel the tempest of mana at war in the chamber below and were already up in arms. Zluth found Zaluss, the scout and pet master who’d captured him on his first visit to the Zissth.
+
+“What’s going on down there?” he hissed from atop his hulking pet spider.
+
+All of the Krath were assembling, gathering their war-beasts and pets as well. They’d need everything they could summon to ensure they won the fight. Losing was not an option.
+
+“The heart has been invaded,” Zluth told him quickly. “They are filling it with contaminated mana, hoping to use the heart to spread it through this entire section of the Dungeon. If we don’t stop them, we’re all dead!”
+
+If it actually managed to fill the heart, it would soon start flooding the main artery tunnels, and from there spreading out to all the capillaries. As long as there was enough of it, and Zluth suspected the invaders would surely have enough, then there wouldn’t be anywhere to hide. The cleansed area would spread throughout this entire sector of the fifth until it ran into the border of the next. He already knew what would happen after that.
+
+The ants would come, with their disgusting jelly monsters. They’d pull the exact same trick again, soaking up the energy of the fifth, tainting it with their blue filth, then sending it straight back. Only this time, they’d have an enormous safe zone in which to operate, huge chunks of the fifth that were perfectly safe for them to move in.
+
+The very thought made him sick.
+
+“Where’s Soluzz?” the scout demanded. “Don’t tell me the Krath’lath died down there?”
+
+Before Zluth could offer a denial, a powerful voice burbled from behind them.
+
+“Your Krath’lath doesn’t die that easily.”
+
+Zluth froze in the act of saying Soluzz had been killed by the invaders and turned. Soluzz may have escaped, but he had paid a price. Down one side of his face, a deep, blue trench had been cut into his flesh, the path a drop of the blue liquid had travelled after landing on his head.
+
+One could only imagine what he’d had to do in order to survive such close contact with the purified energy.
+
+“Gather everyone and everything,” Soluzz burbled. “We are going to make them regret ever daring to imagine they could come to this heart.”
+
+The presence of their mighty Krath’lath further galvanised the slugs of the Zissth, and they rallied to defend their slimeground, as did the warrior slugs of the other tribes who had accompanied them on the journey down.
+
+With Soluzz in the lead, the combined might of the Zissth charged down the narrow and winding paths to the lower chamber. Blubbeasts, Cannon Snails and Vileslimes, ranks of them, along with hundreds of Krath warriors.
+
+Zluth hoped it would be enough.
+
+When he made it deep enough to see the lower end of the heart again, it was like a scene out of a nightmare. The blue liquid continued to fountain out of the vents, crystalline and clear, raining its filth down to the floor of the heart, already several feet deep.
+
+His eyes turned straight to the turning pit, and he saw a whirlpool had formed above it, noxious fumes and hissing corruption bubbling up from below. The giant ant was still down, collapsed in the liquid with shadows and darkness underneath.
+
+The tree root hadn’t grown much larger, but it was already dozens of metres thick. Who knew what could be contained within? There could be a million ants about to pour into the heart, as soon as the area was cleansed.
+
+Even so, what attracted his attention was something different.
+
+Atop the tree root, he could see three monsters.
+
+The giant ape was the first. Enormous, with arms thicker than Soluzz’ entire body, burning red eyes and electricity crackling along his black and white fur, the beast was an intimidating sight. When it stood tall and stretched its black wings wide, Zluth swore he could feel it staring at him.
+
+Beside it, a being of pure darkness writhed in a maelstrom of lashing tentacles. From within its ever-shifting form, he glimpsed gnashing mouths filled with nothing but hunger and malice. Already the creature was reaching for them, desperate to seize any Krath it could get.
+
+Beside them, a small form fluttered, an eye with tiny wings and stick-thin arms. Despite its frail appearance, Zluth could feel the force of the mind behind that eye as it turned towards the descending Krath. Beneath the hovering body, the air split as a horrifically wide mouth opened, black tongue lolling out from between its jagged and razor-sharp teeth.
+
+The ape roared and slammed his palms into his chest, urging the slugs to come down faster so he could destroy them.
+
+“There’s only three,” Zluth said to himself. “There’s no way they didn’t bring more.”
+
+The rest of the Krath, following the lead of their Krath’lath, either disregarded the possibility, or perhaps it didn’t matter. If there were more, then they would have to be defeated too. There was no other choice.
+
+They charged.
+
+Zluth went to go with them, but his caution saved the day. The darkness to his left seemed a little too dark, and he hesitated, for just a second.
+
+The net emerged like the snapping maw of a turtle. A thing of darkness and shadow, it burned and hissed when exposed to the mana of the fifth. Zluth shrank his body, compressing himself down to duck under the path of the net.
+
+After it had flown overhead, he rose to retaliate, only for the shadow to be gone, as if it had never been there. He’d been too slow.
+
+Except, not entirely. He was quick enough to see the slug closest to him being dragged into a pool of darkness, struggling and writhing to slip through the netting that dug into his flesh.
+
+An ant head emerged from the darkness and seized the Krath with its mandibles, pulling it in slowly, its eyes shining at Zluth, promising he would be next.
+
+Of course there would be more.

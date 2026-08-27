@@ -1,0 +1,65 @@
+---
+id: acb848f9-b58b-54dc-976d-ca49c35d5568
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1553 - Krath Muster"
+slug: 0201-chapter-1553-krath-muster
+partOf: chrysalis
+position: 201
+ownLength: 1190
+unit: words
+ownProgress: 1190
+publishedAt: 2025-04-17
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2208348/chapter-1553-krath-muster"
+royalRoadId: "2208348"
+markedReadAt: "2026-06-29T19:50:15.073Z"
+---
+
+So little is known about the Krath. We don’t know what they think of those not of the tribes other than that they hate us. If the legends are to be believed, and the fifth was not always as it is now, then how do the tribes feel about the transformation? Do they have a view of the being who changed their home into the toxic hellscape it now is? Surely the Krath, who are known all through the Dungeon for their viciousness and capacity to hold a grudge, would hold a special and intense hatred for the individual who wronged them so. Even if it were an Ancient.
+
+-           Excerpt from ‘Mysteries of the Fifth’ by Echo Irindal.
+
+The wilds of the fifth were always dangerous, but during a wave, everything was elevated to an absurd degree. The arterial tunnels were flowing with such concentrated mana that his slug flesh began to sizzle and hiss if he exposed himself for too long. Even the capillaries were highly active, with highly virulent and acidic mucus flowing from the walls while abundant parasites crawled everywhere, seeking soft flesh and unwary monsters to infest.
+
+Under these conditions, the Krath tribes would hunker down, find safe havens higher in the stratum and then launch their attacks on the fourth. This time, everything was different. Far from seeking refuge, Zluth was plunging deeper into the Dungeon, alone and unprotected against the many dangers, and he did so gladly.
+
+He paused, squashed flat against the wall of a tunnel, his eyes swivelling rapidly. He couldn’t remain still for long; the chance of him being found only went up if he stopped moving. There was a mucus river beneath him, collecting the goop from the walls and slowly flowing back towards the direction he’d come, but he knew better than to go inside. Too many monsters he couldn’t outrun could be found in the mucus; he needed to stick to the walls as best as he could.
+
+After a few seconds, he took a deep breath, sucking the toxic, acidic air into his body. It burned, but he embraced the pain, letting it drive him, fill his slug flesh with its poison. Every sense pushed to the limit, body aching and flesh sizzling, Zluth couldn’t remember the last time he’d felt so alive.
+
+He hadn’t had enough time to properly map out his path forward, but he couldn’t remain still any longer. He couldn’t see the predators closing in on his position, but he knew they were there. They were always there.
+
+Accelerating suddenly, he pushed hard, his foot gripping and sliding as quick as it could. There was a disturbance behind him as several worm-like appendages launched out of the mucus river and crunched into the wall where he’d been.
+
+Too slow.
+
+There was toxic mould on the left and it was currently blooming. Were he to run over it, his flesh would be embedded with spores that would soon sprout, spreading tendrils through his body and draining him of vitality. Even breathing would be deadly in this environment, so he pressed himself flatter, letting the wall mucus roll over and shield his body as he continued to race forward.
+
+He’d spotted sletherpods tucked into the folds of the rock up ahead, and he would need to move through their feeding zone to progress. Normally, the way to dodge these motionless predators was to find another tunnel, or to move through very patiently. Zluth had time for neither.
+
+He continued to race forward, reaching out with his mana senses, sweeping, searching for something he could use.
+
+In a heartbeat, he latched onto a target and dove for it, his body decompressing to release his many spindly-clawed limbs. A tiny creature sensed him coming and tried to dart from the wall, but he was too fast. In one movement, Zluth seized the geist-leech, gripping it just so to avoid letting it latch onto him, then flung it up into the air.
+
+The sletherpods, already pushing their needle-tipped tongues out of their hard-shelled, immobile bodies, switched targets, taken off guard by the sudden movements. Explosive hissing sounds filled the tunnel as the tongues were launched at impossible speeds, each attempting to spear the leech in mid air. Zluth only accelerated further, pushing to get through as quick as he could.
+
+BAM!
+
+An explosion of pain rocked Zluth to his core as he felt something pierce his flesh. He didn’t need to look to know what had happened. One sletherpod, more patient, or perhaps just slower than the rest, hadn’t gone for the bait and had targeted him instead.
+
+Zluth acted on instinct, knowing what he had to do to survive. He pressed his flesh tight around the wound, squeezing it as hard as he could before he lunged forward, stretching the tongue to its maximum length. It was agony, but he knew he couldn’t loosen its hold. Once a sletherpod had speared a large prey like a Krath, they would extend barbs from their tongue, hooking into the flesh and spreading a numbing poison. If he held on hard enough, the barbs wouldn’t be able to extend, and he would have a brief window of time.
+
+Almost immediately, the monster tried to reel him in, pulling hard as Zluth fought to escape, pitting the two in a desperate tug of war. The Krath was wily, varying the strength and timing of his lunges, trying to catch the sletherpod off guard while it continued to yank back.
+
+With everything to lose, Zluth gambled and hoped to the Ancient that he was right. When he felt the sletherpod was about to pull hard on its tongue, he let go, releasing the grip his flesh had around the wound.
+
+If he were wrong, the monster would seize the opportunity to extend its barbs and soon he would fall limp, completely numb, but awake, as he was slowly reeled in and held to be devoured at a later date.
+
+Theorazzn smiled on him. The sletherpod hauled back, and the spear-tipped tongue shot out of him with a wet ‘pop!’. Without missing a beat, Zluth was off, sliding, zigging and zagging until he found a slight fold in the rock wall that seemed uninhabited.
+
+He slid in and decompressed so he could inspect the wound.
+
+It wasn’t great, but it could have been much worse. None of his organs had been punctured, only meat and muscle. It would slow him down, make him less manoeuvrable, which was almost a death sentence, given where he was, but he couldn’t afford to hesitate.
+
+Reaching deep within himself, Zluth hawked up a thick wad of bubbling green ooze that immediately burned the inside of his mouth. He spat it out onto the wound and watched as the flesh sizzled, cauterising the hole. The scent of Krath blood was the sweetest dinner invitation in the fifth. He couldn’t allow a single drop to spill. Once the acid had run its course and the wound had melted closed, he tightened up the flesh once more, hissing softly against the pain.
+
+He was halfway to the Bulg tribe.

@@ -1,0 +1,115 @@
+---
+id: 1b0bc401-f8fe-561d-b0db-a5a13bb2cba5
+page-type-slug: story-chapter-royal-road
+title: "142: The Moon Beast"
+slug: 0142-142-the-moon-beast
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 142
+ownLength: 2174
+unit: words
+publishedAt: 2026-04-22
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3305284/142-the-moon-beast"
+royalRoadId: "3305284"
+---
+
+Chloe immediately spread her wings as the ground collapsed. Huge pieces of broken stone and shattered platforms tumbled downward around her while the rushing water poured into the enormous hole.
+
+She hovered in the air for a moment while staring down at the chaos. Uh oh.
+
+Most of the floor had already collapsed by now, leaving behind a massive open shaft where the chamber used to be. Dust and mist from the falling water drifted through the air while smaller pieces of stone continued tumbling down into the darkness below.
+
+Chloe leaned forward slightly while peering into the opening. Well, there's probably something important down there."
+
+She wasn’t completely thrilled about flying into a giant mysterious hole in the ground, but it seemed pretty obvious that the hidden path had to be somewhere below. So Chloe flapped her wings and slowly flew downward.
+
+She landed lightly on a rough stone floor. The area looked like some kind of underground cavern, with jagged rock walls and piles of rubble scattered everywhere. Large chunks of the puzzle room had crashed down here, forming heaps of cracked stone and dripping water across the cave floor.
+
+Honestly, this part was pretty much what Chloe expected. What she didn’t expect was the door.
+
+It was huge, made of thick slabs of ancient stone that looked like they had been sitting there forever without anyone bothering to clean them. The entire surface was covered in detailed carvings that formed a big image of some kind of monster rising under a crescent moon.
+
+At first glance, the creature was meant to look imposing. It stood tall beneath the moon, its body framed by carved lines that made it seem like it was radiating power. Around it, dozens of smaller figures were etched into the stone, all kneeling or bowing as if they were worshipping it.
+
+The creature had a broad chest and a thick tail curling behind it, with rows of sharp teeth carved into its mouth like it was supposed to look terrifying. At first glance, it almost worked, but the longer Chloe stared at it, the more something felt off, like the whole image wasn’t landing the way it was supposed to. She leaned slightly to the side while looking at it more carefully.
+
+The arms were long… maybe a bit too long, and the way they hung made them look less powerful and more like they were meant for swinging around. The tail curled in a way that felt oddly playful instead of threatening, and the face, despite the sharp teeth, had a strange shape that didn’t quite match the whole “ancient evil” vibe it was going for. Chloe squinted harder, focusing on the details one by one, and the more she looked, the more the image started to shift in her mind.
+
+Then it finally clicked. Chloe blinked once, then twice, as the realization hit her all at once. The long arms, the tail, the face, the posture… all of it suddenly made sense in the most ridiculous way possible. This wasn’t some mysterious ancient horror, it was just a giant monkey.
+
+But before she could keep judging the image of the giant monkey any further, the door suddenly began to move. A deep rumbling sound echoed through the cavern as the massive stone gate slowly slid open on its own.
+
+Chloe watched the gap widen before walking in. The space opened up into a wide hall supported by tall stone pillars that stretched all the way up to a high ceiling.
+
+What really stood out to Chloe, though, was the ground. Silver grass covered almost the entire floor, stretching out in every direction like some kind of glowing field. The thin blades swayed gently even though there was no wind at all in the chamber, and the soft silver light they gave off made the whole place look like a dreamlike grassland. It felt weirdly peaceful for a dungeon, which immediately made Chloe suspicious.
+
+At the center of the chamber stood a massive statue. Up close, it didn’t look nearly as goofy as the carving on the door. The statue towered over her, easily around twenty feet tall, which made it about as tall as a small building or like stacking a bunch of really tall people on top of each other until it got ridiculous.
+
+Chloe stared up at it while doing some very serious mental math. She was pretty sure she was around five foot six… probably. Which meant this thing was roughly the height of four of her stacked on top of each other, maybe even more. Either way, that was a whole lot of monkey.
+
+Up close, the details were much sharper. The teeth looked more dangerous, the eyes more intense, and the way it stood made it feel less like a funny carving and more like something that could actually move at any moment.  Okay, kinda spooky,but a monkey is still a monkey.
+
+There was no way she was going to lose to something like that. Chloe spread her wings and planted her feet firmly on the ground, striking what she thought was a very cool and intimidating pose while lifting her chin and staring straight at the giant monkey. “Alright, come on then, big guy.”
+
+For a moment, nothing happened. Then a sharp cracking sound broke the silence as thin fractures spread across the statue’s surface, running along its arms and chest like spiderwebs. Pieces of stone began to fall away, hitting the ground as the giant monkey came to life.
+
+Chloe’s eyes widened slightly as the outer layer of stone crumbled off, revealing what was underneath. The creature’s fur was silvery, giving it an almost ghostly shine. Its face was a deep blue contrasting with its bright red eyes.. Okay, that’s a little less goofy.
+
+The giant monkey shifted its weight, its massive body creaking as it fully came to life. It lifted its head slightly and let out a loud roar. “Ooh… OOH… AAH… AAH!”
+
+The sound was deep and heavy, shaking the air as the creature pounded its chest once with enough force to send a shock through the ground. Then it dropped forward onto its knuckles and charged at Chloe. For something that big, it moved way too fast.
+
+Chloe flew upward, lifting herself into the air just as the monkey closed the distance. As she rose, she tilted forward and opened her mouth before spitting a stream of corrosive acid straight toward the creature’s face.
+
+The attack flew fast, aimed directly at one of its glowing red eyes. But at the last second, the giant monkey jerked its head to the side. The acid missed, and instead of hitting the eye, the corrosive liquid splashed across the top of its head.. The acid ate at the surface slightly, but the monkey’s fur was far too dense and durable for it to do any real damage.
+
+Chloe hovered in the air, watching it for a second. Okay, that did basically nothing.
+
+The giant monkey suddenly pushed off the ground and dashed to the side, creating distance in an instant before reaching down and grabbing a large chunk of broken stone. Its hand closed around the rock as it crushed it.
+
+Then it threw the crushed rocks, which were more like rock bullets now. The giant monkey unleashed a rapid barrage, hurling them toward Chloe at high speed.
+
+Chloe reacted quickly, weaving through the air as she dodged the incoming barrage. She twisted her body to the side, ducked under one rock, and spun past another as they flew past her. But one of them caught her. The rock slammed into her lower body with a heavy impact. For a brief moment, everything went still.
+
+Then Chloe looked down, and saw that her lower half was torn clean off. It seemed that the force of the hit ripped through her midsection, and sent the bottom half of her body spinning away before it fell toward the ground below.
+
+Chloe blinked. Wow, super rude.
+
+Still in the air, she flapped her wings and began descending as if nothing had really happened. As she moved, dark, writhing tendrils of black ichor spilled from the torn edge of her upper body, stretching downward.
+
+At the same time, more tendrils rose from the fallen lower half. The two halves pulled toward each other. The tendrils twisted and wrapped together, reconnecting piece by piece as her body reformed. The process looked messy, but it worked as her form stitched itself back together in midair.
+
+While that was happening, the giant monkey let out another roar. Chloe glanced up just in time to see it standing still, its mouth open as a bright ball of white light began forming in front of it. The energy gathered rapidly, swirling and compressing into a glowing sphere that pulsed with dangerous intensity.
+
+Chloe narrowed her eyes slightly. Yeah, that’s definitely bad.
+
+Without wasting any time, her body blurred as she activated her Wraith Form to turn intangible just as the monkey locked onto her position. A split second later, the monkey fired.
+
+A massive beam of white energy shot forward from its mouth, tearing through the air with a deafening roar. The beam passed straight through Chloe’s intangible form without touching her, continuing onward until it slammed into the ground behind her.
+
+The impact was violent. Stone exploded outward as the beam carved a massive hole through the ground, blasting apart chunks of rock and sending debris flying in every direction.
+
+The beam kept going for a moment, tearing a line across the ground as the silver grass around it burned away in a wide path. Chloe drifted backward in her Wraith Form as the attack continued past her. Even without feeling it directly, she could tell that getting hit by that would’ve been very bad news. Yeah, okay, that’s not something I wanna tank.
+
+She quickly flew higher and farther back, putting more distance between herself and the giant monkey while the beam finally faded. The ground below was left scorched and torn apart, with a smoking trench cutting through the glowing field of silver grass.
+
+Once she was safely out of the way, Chloe dropped her Wraith Form and became solid again midair. Now it would be her turn to fire off a super mega death lazer of doom.
+
+She raised both hands in front of her as lightning began to gather. At first it was just small sparks, faint blue arcs snapping between her fingers. Then the energy grew stronger. The lightning thickened, crawling up her arms and wrapping around her shoulders as the air around her started to buzz. Bright streaks of electricity crackled outward, snapping in wild patterns while the glow around her intensified.
+
+The light reflected off the silver grass below, flickering across the ruined ground as the energy kept building. Eating Sabine’s brain and that thunder bird’s brain better pay off.
+
+The lightning surged even harder, gathering into a concentrated mass between her hands as it compressed into a blinding core of energy. Then Chloe thrust her hands forward, and a massive bolt of lightning exploded outward.
+
+The beam shot down toward the giant monkey in a roaring stream of bright blue energy, tearing through the air as it struck the creature head-on. The impact hit with a loud crack, lightning bursting across its body as the force of the attack pushed it backward.
+
+The giant monkey was lifted off its feet for a moment as the blast slammed into it, its body skidding across the ground as sparks of electricity crawled over its silver fur. The ground beneath it tore up as it was forced back, leaving a trail of scorched rocks and flattened grass behind it.
+
+Chloe hovered in the air with a proud grin, watching the giant monkey get blasted backward by her lightning. She felt pretty good about that attack. It had looked cool, it had sounded cool, and more importantly, it had actually worked. Unfortunately, that feeling of success didn’t last very long, because the giant monkey slowly pushed itself back up.
+
+Chunks of dirt slid off its body as it stood again. The scorched marks from the lightning were still there, but the creature didn’t look nearly as affected as Chloe had hoped.
+
+Then the monkey raised one hand to its face as a strange glow began forming around its head. Blue and white light swirled together, wrapping around its face like shifting mist before slowly hardening into something solid.
+
+The energy shaped itself into a sharp, detailed mask that fully covered the monkey’s face. It had a deep blue base with white patterns carved across it, forming the image of a scowling demon.
+
+Chloe stared at it and something about the mask made it clear this wasn’t just some random extra detail. The way the energy settled around it, the way the creature stood after putting it on, it all felt like things had just gotten more serious. Okay. Phase two, huh.

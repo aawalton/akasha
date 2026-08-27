@@ -1,0 +1,82 @@
+---
+id: 6fa4affc-ee19-5b29-9b51-8e27eacd36bc
+page-type-slug: story-chapter-royal-road
+title: "2 - Burrow"
+partOf: bunny-girl-evolution
+position: 2
+ownLength: 1778
+unit: words
+ownProgress: 1778
+publishedAt: 2024-08-01
+link: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/1741048/2-burrow"
+royalRoadId: "1741048"
+markedReadAt: "2026-06-29T20:02:43.767Z"
+---
+
+For the second time that day, Elise was cowering in a bush because of a bird. It wasn’t even that big of a bird. Not compared to what she was worried about seeing in a fantasy world. It was just a normal-sized hawk. Unfortunately, she was now an undersized rabbit, and apparently a very tasty one too, based on how the creatures of the forest had been acting around her.
+
+The hawk was no different from the snake or the slime. As soon as it caught wind of her, it dropped everything to hunt her down. At that moment, it was perched in a nearby tree, staring directly at her. She couldn’t even sneak away, because no matter how quietly she moved, she was a pure white rabbit in a forest with exactly zero white in it. She had tried leaving the area, but the hawk’s eyes stayed locked onto her, and since she was still near the cliff, the vegetation was too sparse for her to have cover as she went back towards the forest proper. She would get snatched up the second she got more than a foot from safety.
+
+The minutes ticked by and the hawk still didn’t move an inch from its perch, and its eyes hadn’t left her hiding spot. At this point, she was more worried about a snake or a slime approaching from the ground and forcing her to leave her hiding spot. She was getting thirsty too, and she had yet to come across a source of water. The longer she waited, the more dire her situation got, but the hawk refused to move.
+
+Her worst fears were confirmed when her ears started picking up sounds from further into the forest. Something landbound was approaching. Something big. On one hand, that might have been a blessing in disguise, since if it was big enough, it would be less interested in her, and could scare off the hawk. On the other hand, it could also be more dangerous, because a larger predator would be more likely to be a higher level, and therefore have a significant stat advantage over her.
+
+Her heart rate escalated as the footsteps drew closer. It was four-legged, and moving slowly, with leaves crunching and twigs snapping with almost every step it took, as if it wanted the whole forest to know it was coming. The hawk, not having her ears, did not notice them at first. It was still intent on getting a taste of rabbit meat.
+
+Elise kept her sight focused on the bird, so she could flee as soon as it left, but most of her attention had turned to footsteps as they got close enough that she could hear its breathing. Or rather, their breathing. It was not one four-legged creature, but two two-legged ones.
+
+Elise was no expert on the breathing sounds of different creatures, but as a former human, she felt qualified enough to say with reasonable confidence that both the approaching creatures were human. Her confidence only grew as the sounds got louder and she could hear the more subtle difference. It sounded like it was one man and one woman, and the woman was much smaller and lighter than the man.
+
+Her mind raced as she thought of what to do next. The hawk seemed to have finally noticed them, as its eyes were locked on something in the distance behind her now, and it was ruffling its feathers as it prepared to take flight, but now she wasn’t sure if running away was the best option. If they were human, she might be able to communicate with them. She could write in the dirt and explain her situation, and… then what?
+
+She wasn’t sure, but it was probably better than surviving alone in the woods as a helpless rabbit.
+
+When they finally came within view, the hawk was long gone. Elise had watched it fly away and dive down behind the cliff, but she only half-cared at that point. The humans were much more important.
+
+The man was tall and muscular, and had a full, light brown beard, and the girl looked like his daughter. She was no older than twelve, and thin and wiry, but she had the same hair color and facial structure. They were following the trail of barren dirt left behind the slime on its warpath. Elise wanted to jump out in front of them and get their attention as they walked by, but she stopped herself. It was all still too uncertain. If they didn’t listen to her– or worse, if they did, and decided to take advantage of her– she would be completely at their mercy.
+
+They followed the slime’s trail all the way to the edge of the cliff and peered below to look at the green splatter where the monster had landed. The man looked over first, then put a protective hand on his daughter as she leaned out much further than Elise would have been comfortable. Then, the daughter said something, and Elise’s heart sank. She couldn’t understand it.
+
+Of course they didn’t speak English. She wasn’t on Earth anymore. She had been thrown off by the System being presented to her in English, and hadn’t even considered the possibility that that was only for her benefit, and wasn’t the standard of the world.
+
+She might still have considered trying to communicate with them after that, as a desperate last ditch effort to save herself from needing to survive on her own, but when the man turned around to head back, she saw three rabbit corpses dangling from his belt, and her last ray of hope disappeared. Of course they were hunters. What else would they be doing so deep in the woods?
+
+She turned and bounded away without sparing a glance back.
+
+Despite her worries, it didn’t take her too long to find a water source. The longer she spent in her new body, the more accustomed she got to using her non-visual senses to avoid danger and find what she was looking for. She made wide circles around dangerous sounding footsteps, and areas that smelled too much like musk, and soon heard the distant babbling of a brook. After triple-checking to make sure there was nothing else around, she found a spot where the water was relatively calm and started drinking.
+
+Once she had drunk her fill, she took a good look at her reflection in the water. She had to admit that she was definitely a cute rabbit. Even after spending the day running for her life through the brush, her fur was still fluffy and bright, and the way her nose twitched as she sniffed the air was just adorable. The red eyes were a little ominous, but maybe that only added to the appeal. Still, it was strange how clean she looked.
+
+System! Help! she thought as she had a sudden realization.
+
+“Help? What seems to be the problem?”
+
+What does Charisma do again?
+
+“Charisma influences and is influenced by numerous factors, including, but not limited to, physical appearance, social sense, vocal quality, speech skills, and personality. As for what it does, the answer is too long to be explained under my character limit. In short, it is a measure of your ‘appeal’.”
+
+Appeal… she thought. What kind of appeal?
+
+“All kinds of appeal! Platonic, romantic, and sexual appeal are just three of-”
+
+And as prey?
+
+“Yes, having high Charisma can make you more appealing to predatory creatures, though this can vary depending on physical characteristics.”
+
+Elise sighed. Not only had she been reborn as a weak rabbit, she had been reborn as a weak rabbit with a target on her back. That at least explained why the snake, slime, and hawk had been so hell-bent on getting her. If that was the case, then she couldn’t afford to waste any time. She needed to get strong enough to either defend herself or find some other way to stay safe quickly. It was only due to luck she had survived until then.
+
+The first thing she needed was shelter. She knew rabbits were burrowers, which meant she would have to dig a hole somewhere, but finding the perfect spot turned out to be a challenge. She was tempted to do it close to the brook, but decided against it. Predators needed to drink water too. That was a good way to get sniffed out by something she would rather not get noticed by. But she couldn’t live too far away either.
+
+She eventually found a spot a few hundred yards away that was maybe not ideal, but was the best she would find before the sun set. Her paws were surprisingly good at digging, but it still took the better part of two hours to get her new home to a level she was comfortable with.
+
+She made her home in a small grassy knoll with an ancient oak at the top. She was a little surprised that no other rabbits had already made their holes there. The dirt was soft, and the grass was delicious, and she couldn’t smell or hear anything bigger than a mouse nearby. Just in case though, she made sure her hole had 3 exits in different parts of the knoll, in the event that an unwelcome guest tried to force its way in and she needed to get out.
+
+Once she was mostly sure she was safe for the night, she curled up into a ball and closed her eyes. She only had a second to think about how lonely it was before the exhaustion from the terrifying day took her off to the land of dreams.
+
+She awoke to the sound of loud sniffing coming from one of her exits. She stayed curled up in her ball for a few seconds, frozen in fear while the sniffing continued from the hole in front of her. She had been smart enough to curve the holes so that nothing could see in at her, but now she was half-regretting that choice because now she had to get much closer to whatever was making that noise to see what it was.
+
+She crept toward the entrance as softly as she could and poked her head around the corner just far enough to see the outside. Blocking almost her entire view was a canine snout with fangs half as long as her ears poking out between its lips. She almost ducked back immediately in fright, but she at least had the presence of mind to use {Inspect} first.
+
+[Greater Frost Direwolf, lvl ???]
+
+[Inspect has leveled up! Lvl 1 -> 9]

@@ -1,0 +1,113 @@
+---
+id: 285fec50-29bf-5532-ad7d-4243d564e0c0
+page-type-slug: story-chapter-royal-road
+title: "19 - Class Warfare"
+slug: 0019-19-class-warfare
+partOf: cat-girl-evolution
+position: 19
+ownLength: 1879
+unit: words
+publishedAt: 2025-09-05
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2575641/19-class-warfare"
+royalRoadId: "2575641"
+---
+
+The village doesn’t look quite like what I remember. The houses are all completely intact, but the windows and doors are no longer left open. It’s a very small change, but it makes the whole place look inhospitable and unwelcoming. I don’t like it at all. This isn’t my village.
+
+It’s day time, but surprisingly, there are still fish people moving around. Well, not the basic fish people. It’s mostly the eel people and the small shark people, and they’re occasionally running to and from the water, bringing random things that look like bones and seaweed to and from some of the houses. There are also a few places around the village where some of the trees have been knocked down.
+
+Based on the fact that they keep going in and out of the buildings carrying things like that, it’s probably safe to assume that there’s no one left there. No one I can save, at least. Even if there are still people there, it’s not like I’d be able to do anything for them right now. I can’t really take them with me while I run away.
+
+Guess I’ll just do some hunting instead.
+
+Based on all the eel and small shark people going in and out of the houses, I assume they probably have more of them inside. I’m stronger than all of them except for the big one, but can I really take on a whole town of them? Probably not.
+
+[ “Probably”? ]
+
+Shut up.
+
+Anyway, invading the town probably isn’t a good idea-
+
+[ “Probably”? ]
+
+I said shut up.
+
+Anyway, invading the town isn’t a good idea, so I need to find another way to level up. That means I’ll probably have to wait until night time when they’re all more active. They’ll probably send out some patrols that I can eat- I mean hunt for levels. In the meantime… Well, I guess I’ll take another nap.
+
+[ Seriously? ]
+
+Just kidding. I’m not tired yet. I’m gonna do some exploring. I haven’t actually looked around at this area much. Maybe I’ll find an open pit or something that I can use to trap and kill the big fishdude.
+
+[ With your luck, I wouldn’t be surprised if you did ]
+
+Three hours of exploring pass, and unfortunately, I do not find a big open pit in which to trap and kill the big fishdude. I was hoping I could sharpen some sticks or something and trick him into falling onto them, but I guess that plan is out. That would have made things easier, but I guess I have to find some other way to kill him. And I have to do it before I reach my next evolution, right, Abby?
+
+[ Not necessarily, but you’ll be eligible for the Named status upon reaching 2nd tier, so killing him before then would almost guarantee that you qualify ]
+
+I see. So I need to figure out how to kill him before I evolve. That might be tough. He’s way stronger than me right now.
+
+[ Well, you still have 14 levels before your next evolution, and your current species is frankly ridiculous, so you should bridge the stat gap somewhat by leveling up a bit. Also, you’ve hardly touched upon the combat capabilities of your Class. ]
+
+My Class has combat capabilities?
+
+[ All Classes have combat capabilities. Otherwise, what would differentiate them from Professions? ]
+
+I dunno. You’re the System expert.
+
+[ That was a rhetorical question, but the combat capabilities are what differentiate them from Professions. Regardless, I think you should look further into that. You’ve already found some synergy between your Class and Species Skills, and you’ve only just scratched the surface. ]
+
+Hmmm… Yeah, I guess you’re right. If I can use Slice with a mana claw, that means I can probably use Bite with a mana mouth. Does it have to be a cat mouth? Can it be a human mouth? Or a fish mouth? Wait… can I use Slice with human hands? The description doesn’t say anything about claws…
+
+I create one of my mana arms and make it scratch at the tree. Slice activates successfully!
+
+…But it’s not very strong. It’s even weaker than when I used it with the mana cat paw. What if I anchor it to myself first?
+
+Nope, still weak. Stronger than before, but still weak. Not anywhere near as good as my strikes with my claws. It’s gotta be related to the claws right? Can I give my human hands claws?
+
+I spend a minute or so modifying the hands and extending the nails into claws. It looks hideous, so I spend another five minutes making it look prettier. The more I practice these mana constructs, the more solid the mana looks. Maybe if I get even better with it, I’ll be able to change the color, and then I won’t even need that Named title to pretend to be human to eat restaurant food. I can just make a mana body.
+
+[ You might fool ordinary people at a glance, but anyone with a developed mana sense will detect you immediately if you try that. ]
+
+Thanks for ruining my fun theorizing.
+
+[ Anytime ]
+
+Well, it would still be cool to make them look real. Imagine if I could turn into a human, but then I make extra arms so I look like a four-armed human. Or a six-armed human! That would be pretty cool, huh.
+
+[ If you say so ]
+
+You have no imagination. It would be super cool. I’m gonna do that. But first, I need to make my human finger claws pretty.
+
+It takes another five minutes before I’m satisfied. My new arm looks mostly human, except the fingertips are now pointy. But not just any kind of pointy. They’ve got cat claws! Retractable ones! So they look like normal human hands at first, but then boom! Claws! I’m pretty sure this wouldn’t work at all anatomically, but screw science. This is magic!
+
+I scratch at the tree with my new human claw hand, and Slice works beautifully. Not quite as beautifully as it does with my actual claws, but beautifully enough to be useful. Now, I can do a quadruple Slice!
+
+I create my second arm and modify it to have claws too, then I take a flying leap at the tree, using Slice with both front paws and my claw arms. Splinters and pieces of bark fly everywhere as 18 deep cuts appear in the tree. Perfect! That can be my finisher! Or maybe my opener… If I drop on their face from above with a quadruple Slice, that would probably do a lot of damage.
+
+I update the blueprints for my arms to the clawed versions, then get started on the next new attack for my class: the bite.
+
+This one takes a bit longer to get right. I start with a cat head this time, rather than human. The reason is simple: I can’t make hair yet. No matter how pretty the face is, it will be bald and eyebrowless. I don’t want to ruin my once-beautiful face with baldness. If I’m going to make a mana head, it’s gonna be a blank, dummy head until I can make proper hair, and that would look really creepy if I added a mouth to it. So, I’ll just make a hairless cat head instead. Hairless cats can still be cute. Not as cute as a full-furred cat like me, but still cute.
+
+Half an hour later, I’m staring at a semi-transparent hairless cat head. It’s mostly anatomically correct, I think. Emma seems to take care of the finer details, so it should be right. I can make the jaw open and close properly, at least. Now, time for the real test.
+
+As expected, Bite works. It’s weaker than when used with my actual mouth, but it works. That’s only minor though compared to what I discover next: Stomach of the Glutton also works with this mana cat head. So I can send my mana cat head out and bite something ten feet away with it, and then pull it into my Stomach. I don't know if that’s how it’s supposed to work, but it’s nice. I’m also not sure if this is better or worse than Snatch of the Glutton (still don’t like that name), but it’s interesting. Maybe in the future, I’ll be able to make full mana animals and people and make them eat for me.
+
+Whatever the case, this is an interesting discovery. I’m sure I’ll find some use for it later.
+
+I try the same thing I did with the claws by making the head bigger and anchoring it to my own head to try to get more force out of it, but unfortunately, this time it doesn’t work. However, when I anchor the jaws to my jaws, that does increase the power. It also uses up both my Anchor Points, making it completely impractical, but if for some reason I ever find myself in a position where my legs are immobilized and I need to do a lot of damage to something just outside the range of my mouth, I’ll be able to use this.
+
+Anyway, Emma still hasn’t upgraded to Peak. This is stupid. Guess I need to find more things to make. I’ve already made human arms and legs, and a cat head and paws, so I’ve kind of exhausted my supply of useful parts from my two familiar forms. I could get a little silly with it and make the not-useful parts… But no, I want to kill the fish dude. I should focus on things that might actually be useful in combat.
+
+So, let’s look through the other things whose body parts I can copy. There’s the shark dude I just killed. His mouth might be good to copy. Actually, it’s probably a better thing to use for my super mana mouth bite than a cat head. And even better, it doesn’t have hair, so my greatest weakness won’t make it look ugly!
+
+There’s also the octopus tentacles! Hmmm… Actually, those sound really fun. I could be a cat with tentacles like in that one movie! Yeah, let’s do that!
+
+And what else can I do…? I don’t really have good references for anything else that might be useful. Maybe I could copy some ant mandibles or something? Those might be good to use with Bite.
+
+Ooh, maybe wings! I can catch a seagull and then make wings. Maybe I’ll be able to fly! Yeah, definitely doing that one!
+
+That should be enough to upgrade Emma, right? If I make all those things? Maybe I’ll do one more, just to be safe. I guess if I’m gonna catch I seagull, I could do the beak too. Maybe I could catch a different kind of bird for the talons, or-
+
+HOLY SHIT WHAT WAS THAT!?
+
+I Blink upward onto the nearest tree, then shoot up the branches. Something just appeared nearby. Food Sense alerted me. One second, there was nothing, and the next, there were three new creatures nearby. Did they teleport in? How? And more importantly, what the hell is a Karkinoid?

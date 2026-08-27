@@ -1,0 +1,93 @@
+---
+id: 5ced7272-087d-5e19-9b62-a6d6f5f401c8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1421 - The Walls are Closing In"
+slug: 0069-chapter-1421-the-walls-are-closing-in
+partOf: chrysalis
+position: 69
+ownLength: 1011
+unit: words
+ownProgress: 1011
+publishedAt: 2024-10-01
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1829088/chapter-1421-the-walls-are-closing-in"
+royalRoadId: "1829088"
+markedReadAt: "2026-06-29T19:45:50.505Z"
+---
+
+Despite all the work the Colony has put in, there are still several sections of our territory that have been cut off. I go and inspect a few of the vents myself, and the pipes are doing a good job syphoning the energy away and feeding it to the wuffers.
+
+The problem is, if the wuffers are happily munching away on the toxic energy from the vents, then they aren’t eating it from outside the safe-zone and expanding our turf. Naturally, this means our controlled area is starting to shrink.
+
+To make matters worse, the vents outside of our turf are thickening up the mana all around us, which is creating even more pressure on the wuffers and shrinking our controlled area even further. The Colony is scrambling to hold the line, but that line is constantly getting pushed in.
+
+[Tiny, Invidia, how have you two been doing? You’ve behaved yourself, Tiny?]
+
+[We havessss been doing wellsssss. My brother hassss been very safesssss.]
+
+Well, Invidia says so, but it isn’t like I miss the subtle thumbs up they give each other when they think I can’t see. I should probably clarify. Invidia gives a subtle thumbs up. Tiny gives a massive, broad grin as he clumsily tries to shield his hand with his body and waggles his brows.
+
+It’s clear that they aren’t being completely honest with me, but I can’t bring myself to criticise them after such a wholesome display.
+
+[How about you, Crinis? Everything been alright?]
+
+[Yes, Master! I’ve been provided enough Biomass to regenerate my Darkness Flesh, so I’m in top condition.]
+
+Well, that’s positive. It’s good to know that the three of them have been able to do their job and have been getting taken care of by the Colony. The real question we face is, what are we supposed to do now? We don’t have any direct orders for this situation, despite all the contingencies that Solant has built into our instructions.
+
+It’s frustrating, but there isn’t much we can do to help the safe-zone situation. The mages and carvers are doing all they can to work on and maintain the pipe-network, the wuffers are munching away on toxic mana as fast as they can, and we can’t influence the vents in any way.
+
+I’m not used to feeling this helpless to influence the fate of the Colony. It’s incredibly frustrating!
+
+[What’s bothering you, Master?] Crinis asks.
+
+[Huh? Is something showing on my face?]
+
+That can’t be right, I don’t really have a face!
+
+[You just seem a little… dispirited.]
+
+Well, that’s completely true. I am.
+
+[I’m just not sure what I can do to be useful right now. These stupid vents have put the Colony in a holding pattern, and I’m under doctor’s orders to stay in the safe-zone. There doesn’t seem to be anything positive I can do.]
+
+[If you can defend the tunnels, that will take pressure off the rest of your family and help them focus on their tasks. That’s helpful.]
+
+[Yeah,] I sigh. [That’s true, but it doesn’t improve our situation. Feels more like treading water.]
+
+[Sometimes you have to do what you can do and leave some responsibility to others, Master.]
+
+Hah! I’m the king of leaving responsibility to others. I created the Council specifically for that purpose! However, ever since I selected the Altar of Self, I’d expected I’d be able to push myself forward and solve problems for my family.
+
+[You’re right, Crinis,] I say, defeated. [There’s nothing to do but go defend the tunnels and hope our situation improves. Tiny, Invidia, are you two happy to keep working together?]
+
+The two exchange looks before I get an approving flex from Tiny. Not wanting to be left out, Invidia does his best to pose, but his arms are so stick-thin I can’t even tell if he has biceps, let alone if they’re flexed. He gets an approving nod from Tiny, so I suppose he’s doing something right.
+
+Wait, have those two practised this?!
+
+[Crinis, you’re with me. Let’s go take our frustrations out on some disgusting mucus monsters.]
+
+[Gladly!]
+
+She sounds way too excited to be doing this, but then again, Crinis has always been enthusiastic about two things: being around me, and killing monsters.
+
+With my loyal shadow once more hitching a ride in my shadow and hopefully not invading my carapace on the sly, I part ways with the dynamic duo and head out to find a vulnerable section of tunnel. Even now, there are still a few spots that have been cut off from the rest of the Colony, but with every minute that passes, they are getting closer to being reconnected. Thankfully, all they need to do is stay close to their wuffer nodes to ensure they have at least some area of protection.
+
+Antennae waggling, I read the various trails that have been put down until I find one that seems fairly urgent. I follow it until we reach an extremely wide section of tunnel with a thinner than usual battle line facing outwards. I can already tell that the safe-zone is shrinking here, since there are areas that have clearly been worked on by the carvers starting to erode under the influence of the toxic mana.
+
+“Go and reinforce another area,” I instruct the general in charge once I figure out where they are. “I’ll hold this down.”
+
+“Can you cover the entire tunnel yourself, Eldest?” the general asks. “This is particularly wide. I can leave a few hundred ants to help if you need.”
+
+“I’m not by myself,” I assure her, pointing an antenna down toward my shadow. “We’ll be fine.”
+
+“Right you are, Eldest. Work hard.”
+
+“Back at ya.”
+
+I plonk myself down in the middle of the tunnel and start weaving mana as the ants gather themselves to retreat and redeploy elsewhere.
+
+[Alright, Crinis, let’s take care of business here.]
+
+[Of course, Master!]
+
+It isn’t exactly what I was hoping for, but at least I’m helping. Lousy fifth stratum. You’re fighting back, but it isn’t going to be enough!

@@ -1,0 +1,163 @@
+---
+id: f1eec34a-3c2a-5960-84c0-68dac545885a
+page-type-slug: story-chapter-royal-road
+title: "48 - Spell Upgrades"
+slug: 0048-48-spell-upgrades
+partOf: cat-girl-evolution
+position: 48
+ownLength: 1984
+unit: words
+publishedAt: 2025-11-12
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2753836/48-spell-upgrades"
+royalRoadId: "2753836"
+---
+
+I let the catmobile stay outside for a little bit longer, then eat it again and try to sleep. But I can’t sleep. Now that I’ve done that, I’m really curious. I still have Flarn’s and B’s spells in my Stomach. Are they any use to me right now? What other spells can I eat? Can I have infinite mana if I just store a bunch of my own spells ahead of time? Or if I just store balls of concentrated mana that I can absorb back into my body at any time? The possibilities are endless!
+
+I wait patiently until I’m pretty sure that the others are asleep, then Blink away into the woods until I come back to the clearing. Immediately, I make a giant hand construct using half my mana. Then, I eat it, and that costs about a tenth of what I have left. Interesting. Eating Flarn’s bubble and B’s shield definitely cost me a lot more. So that means that eating my own mana costs less, which is very convenient.
+
+I spit the hand back out, and it costs another tenth of my mana. Okay, so I can’t do this infinitely. Not if I’m doing big attack spells where I spend all the mana at least. Except I can still cheese it into being functionally infinite.
+
+I eat the hand again, then summon some sharkdude to chow down and replenish my mana. Once I’m back to full, I stand back up and charge up another huge Spatial Slice. This time, rather than cutting a bunch of trees, I do it vertically, cutting into the ground for funsies. Unfortunately, it’s not quite as fun, since the attack is so thin that once the dirt and twigs on the surface settle, there’s basically no evidence that I ever attacked at all. That’s a little disappointing, but that’s not what I was testing anyway, so it doesn’t really matter.
+
+I re-summon the mana hand and absorb it back into my body, and just as I hoped, my mana is immediately back to full. I don’t even finish absorbing the hand, forcing me to leave some of my mana. Just hanging in the air. This is great! If I just store a bunch of constructs like this, I have basically infinite mana! Now, let’s see what else I can store.
+
+A few minutes later I have my answer, and the answer is beautiful. I can store basically anything. If I can make it, I can eat it. Spatial Slice? Yup! Ember? Of course! Mana Burst? Definitely! Mana Shield? Guess what? Also a yes!
+
+Unfortunately, only two of those things are really worth storing at the moment. My Mana Shield is weaker than my constructs, and my Mana Burst and Ember are so weak that even fully charged they can only destroy a single tree.
+
+“That’s plenty to damage a monster.”
+
+Yeah, I guess you’re right. It could be worth storing a couple. Though I should really upgrade both Skills. It should be pretty easy since they’re both weak Skills, right?
+
+“Correct. In fact, the Proficiency of all three Skills went up by a tier when you were experimenting.”
+
+Woah! Awesome! So shoving a bunch of mana into a spell is enough to become more Proficient in it, I guess. That means Ember’s Proficiency is High now, right?
+
+“Right.”
+
+Okay, I’ll do that one first. It should be the easiest to upgrade.
+
+“I recommend accuracy training. I believe that should get you the last bit you need.”
+
+Abby, you’re being unusually helpful tonight.
+
+“I’m always helpful.”
+
+Yeah, but you’re not being sarcastic.
+
+“I’m never sarcastic.”
+
+Ah, there it is. I was getting worried.
+
+“You were worried that I wasn’t being sarcastic? Does that mean that you want me to be sarcastic more?”
+
+I didn’t say that.
+
+“Ah, I see. I’ll try to refrain from being sarcastic ever again in the future.”
+
+Shut up, Obbligation.
+
+It only takes a few minutes to be able to upgrade Ember. Abby says it’s because I’m already fairly proficient with mana use in general, which is nice. I didn’t want to need to spend hours like I did for Scratch. Unfortunately, because I upgraded it so fast, I didn’t really do anything creative with it, so there are only three options for the upgrade, Fire Burst, Fire Arrow, and Greater Ember. Greater Ember is obviously stupid, and while Fire Arrow is tempting, since I already have Mana Burst to satisfy my explosive desires, Abby says Fire Burst leads directly into Fireball, so I have to pick it. I can probably ask A to teach me an arrow-like spell later.
+
+As soon as I have Fire Burst, I immediately start charging it, loading it with as much mana as I possibly can. It’s pretty similar to Mana Burst in that it’s basically just pure unstable fire mana, which also means it’s a little hard to keep under control. I can charge it up a lot more than I could with Ember though, and by the time it feels like I’m about to lose control, I’ve used a full twentieth of my mana pool. That doesn’t sound like a lot, but that twentieth is still more than my entire mana pool before my evolution, so it’s pretty strong.
+
+Rather than throwing it out so it can detonate, I conjure up a miniature head next to it and store it in my stomach. Then, I send the head way up into the sky and release the Fire Burst where it explodes in an almost blinding flash, sending a wave of heat to ruffle my clothes. Not detonating that in front of me was definitely a good idea. That was basically a fireball. I actually can’t wait to see what an actual Fireball would do if I fully charged it.
+
+“With your mana pool, I fear for the world.”
+
+The world has nothing to fear as long as I get my scallops.
+
+Anyway, now that I have that, I can charge up a bunch and store them away to have some fun surprises next time I need to fight. This will make clearing out a bunch of weak enemies way easier.
+
+I spend almost my entire mana pool making and storing another fifteen Fire Bursts, and in the process, I get Fire Burst up to Medium Proficiency. I bet Fireball wouldn’t even take me that long if I just grinded it out. But I’m getting a little sleepy. That’ll probably have to wait until tomorrow night. For now, I’ll just finish upgrading Mana Burst and Mana Shield, then I’ll go back to bed.
+
+Mana Burst is almost as quick to upgrade as Ember, once again owing to my immense expertise with mana, as Abby would say. The upgrade options though are just as lame, if not lamer. Honestly, they’re not even worth mentioning. I upgrade it into Spiral Mana Burst, which Abby says is the best one, then set it aside and move on to Mana Shield.
+
+This one is a little trickier, but when I finally get it… Well, the upgrade options are surprisingly interesting.
+
+[ Upgrades available for Mana Shield Skill: ]
+
+[ Greater Mana Shield: Conjure a durable shield made of mana ]
+
+[ Autonomous Mana Shield: Conjure a Mana Shield that will follow you and automatically move to block attacks ]
+
+[ Mana Shield Construct: Create a Mana Shield Construct, allowing for greater freedom of shape and form ]
+
+[ Shell Construct: Conjure a shell of mana ]
+
+Abby, which is best?
+
+…
+
+Abby?
+
+“Autonomous Mana Shield.”
+
+…Abby, you’re acting kind of weird right now.
+
+“What do you mean?”
+
+Well, usually you respond instantly, and then you try to explain the choice and I cut you off and select it quickly, and then you explain it anyway.
+
+“I’m pretty sure we’ve only done that once or twice.”
+
+Yeah, but you’re still acting weird.
+
+“Apologies. I was distracted.”
+
+Distracted by what?
+
+“...Nothing important. There was a response to the support ticket we made a while back about your species name.”
+
+Oh! Am I getting a fancy new title?
+
+“No.”
+
+Awwww.
+
+“Well, not yet. They said that no such Title exists, but that the developers liked the idea, and will look into implementing it.”
+
+Oh! Yay! How long will that take?
+
+“I have no idea.”
+
+Lame. Well, at least that’s better than just a “no.” Epic. Anyway, are you gonna explain why Autonomous Mana Shield is the best, or should I just pick it?
+
+“Well, it’s because–”
+
+I choose Autonomous Mana Shield!
+
+[ Mana Shield has been upgraded to Autonomous Mana Shield! ]
+
+[ Autonomous Mana Shield: Conjure a Mana Shield that will follow you and automatically move to block attacks. Proficiency: Early. Includes Skills: Mana Shield ]
+
+“–adding the Autonomous modifier is much more useful than anything else. The other two would likely merge into your Anatomical Constructs Skill in the future, strengthening it, and while that would be useful, it would be more useful if you did the same after pushing it along the Autonomous path a bit.”
+
+I see. That makes sense.
+
+“Of course it does.”
+
+Hey, don’t get cocky with me.
+
+“I would never.”
+
+Shut up, Obblong.
+
+I try to mess around with Autonomous Mana Shield, but unfortunately, without getting attacked, it doesn’t really do anything. It just hovers there. It follows right behind me when I move, which is cool, but it’s only cool for a few seconds before it gets old.
+
+Well, I guess it’s bedtime. Maybe I could stay up a bit longer and upgrade my Skills even further, but what’s the rush? I can just do it tomorrow. Plus, the longer I wait, the better the Skill upgrade options will be, according to Abby.
+
+“That’s only if you are actively using them and experimenting with them.”
+
+Well, then I’ll just actively use and experiment with them tomorrow. For now, sleepy time!
+
+I sneak back into my tent and go right to sleep. In the morning, I get rudely awoken by Lauren saying it’s time to leave, and then I Blink into the wagon and go right back to sleep. When I wake up, I’m sitting between the twins, who both have a hand on my head, rubbing my ears.
+
+The day passes by uneventfully, but the twins make sure to keep the conversation lively at least, and at night, I sneak back out to practice with Fire Burst some more. However, before I even get started, I notice something odd through Food Sense.
+
+Usually, I can sense basically everything around. The dirt, the rocks, the trees, the bugs, the little critters living in holes in the ground, and all that. However, this time, for some reason there’s a big blank spot in my senses. It’s underground about three meters down, and it’s the size of a doorway and almost as thin, and it doesn’t show up on my Food Sense at all. Just like Guildmaster Pike’s leg.
+
+Immediately, I start thinking of ways to dig down. I can sense a little critter hole leading down to it, but it’s not big enough for me to fit in. Well, not in this form. I think it might be doable in cat form, but it would be a tight squeeze, and I don’t want to get my fur all dirty and gross. There are worms down there too.
+
+Instead, I conjure up some big mana hands and start digging. The dirt at the top is pretty loose and easy, but it soon gets hard, so I have to break up the ground with some Spatial Slices. It takes a full half hour before the thing is exposed, and to my surprise, I recognize it. Unfortunately, it’s not wood, so I’m no closer to figuring out what Pike’s leg is made of than I was, but it is something else almost as interesting. It’s a Dungeon!

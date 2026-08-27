@@ -1,0 +1,97 @@
+---
+id: 316af0c9-077c-552f-b4df-b6e688c5a950
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1537 - The Moustache Song"
+slug: 0185-chapter-1537-the-moustache-song
+partOf: chrysalis
+position: 185
+ownLength: 1102
+unit: words
+ownProgress: 1102
+publishedAt: 2025-03-26
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2151178/chapter-1537-the-moustache-song"
+royalRoadId: "2151178"
+markedReadAt: "2026-06-29T19:49:45.116Z"
+---
+
+The newborn chal each sported a moustache made of fine, long hairs that drooped down from either side of their faces, just above their mouths. They weren’t particularly thick, just a few whiskers on either side, but Theresant was quick to notice that the specimen before her had several small fibres stuck to its moustache.
+
+This was unacceptable.
+
+She didn’t know anything about grooming molluscs, or facial hair, but it was clearly unacceptable to have the hatchlings sliding about the place while unclean! Not wanting to jump to conclusions, she slowly and carefully hunted about the space, looking for more of the chal, and noted the state of their cleanliness.
+
+Her sisters were, of course, mindful of the issue. The young snails had sparklingly clean shells, and their bodies appeared to be in wonderful condition, washed and sponged down at regular intervals. So why were the moustaches universally in need of cleaning?
+
+“It’s because they appear to be very sensitive about their moustaches,” one of the Tenders on duty told her softly. “Any time we try to interfere with them, even extremely gently, they withdraw into their shells. It’s been troubling us.”
+
+It didn’t make any sense. They were born with these fine facial hairs, but refused to let them be cleaned? Theresant was troubled. It seemed they would need to consult with an expert.
+
+And so the human, Isaac, was summoned, along with his partner, Cavalant.
+
+“I don’t know!” Isaac declared, wild-eyed. “Just because I have a moustache doesn’t mean I know how a snail wants to clean theirs!”
+
+“Any insight you give us will be valuable,” Theresant insisted. “I refuse to believe it is optimal for the hatchlings to be moving about with filthy hairs on their faces.”
+
+Isaac reached up and stroked his own, admittedly magnificent moustache. Oiled and waxed to perfection, it was his pride and joy. He had developed a full thirty-minute routine aimed at caring for the skin of his upper lip and ensuring the fullness and lustre of his facial hair was never less than optimal.
+
+“Well, the upper lip of a human can be quite sensitive, particularly near the nose. I imagine the… skin? Do snails have skin?”
+
+“Yes, they have a fleshy outer layer which would qualify as ‘skin’.”
+
+“R-right. So perhaps the area above their mouths is just very sensitive, like mine.”
+
+“Then how do we clean them?” Theresant muttered, exasperated.
+
+“Well… if you can’t pull a comb or something like it, through the hair, then perhaps soaking the hair? Or cleaning it while it floats?”
+
+“We will have to try something… thank you for your time.”
+
+A bewildered Isaac was ushered back to his duty while a team of Brood Tenders gathered together, determined to brainstorm a solution to the dire problem they faced. For long hours, they toiled over a series of diagrams and thinking tools. Fishbone diagrams. Word clouds. Mind Maps.
+
+After all of their efforts, one among them finally struck onto a potential solution.
+
+“Sisters!” she declared. “Perhaps we are looking at this problem from the wrong angle. This may not be a problem at all, but an opportunity.”
+
+Positive thinking, this was the sort of thing the Brood Tenders thrived on.
+
+“Elaborate,” Theresant said.
+
+“We know that in the past, the chal were capable of two things that nobody else has been able to replicate: their ability to manipulate things with their minds, and their strange singing powers. Correct?”
+
+There was a general consensus on these words. This was indeed the case. Theresant hadn’t even begun to consider how the curriculum would need to be designed to teach the young snails skills that nobody had seen for thousands of years.
+
+“We can’t devise a method to clean the whiskers of the hatchlings ourselves, so perhaps we should find a way to teach them to do it.”
+
+“You… want us to try and tap into their latent abilities to clean themselves? Hence teaching them… how to control their telekinesis whilst also grooming their faces?”
+
+“That’s right,” the Brood Tender nodded, cleaning her own antennae nervously as all the others focused on her.
+
+“It’s genius,” Theresant declared. “Get rid of all this rubbish. We start again!”
+
+She swept away all of the precious thinking tools they had toiled over and the group set to work once more. They quickly ran into difficulties. The Colony did not possess the ability to manipulate objects with their minds, and worse than that, they had no experience with any sort of music.
+
+In truth, they didn’t have ears! Instead, they interpreted sound via the vibrations captured by the fine hairs of their antennae. As for singing… they didn’t have vocal cords!
+
+None of these obstacles mattered in the face of the determination of the Brood Tenders. They would have a solution, no matter what.
+
+And so it was that Theresant, proud member of the Council and eldest of all the Brood Tenders (along with her dear sister), found herself amongst the young chal once more, with two long moustaches glued to her carapace.
+
+Every effort had been made to find a convincing fake, and eventually they were sourced from a rare species of Air Mammoth found in the fourth stratum. With just the right hue and airiness, they drooped down just below her mandibles, but above her mouth.
+
+The hatchlings, interestingly enough, noticed the difference immediately, turning their stalks towards her and watching as the hair fluttered gracefully along with her movements.
+
+It was going well… now for the next step!
+
+Theresant opened her mouth, and a single, pure note filled the room. In an instant, the chal retreated into their shells. Theresant panicked. Had something gone wrong? Were the hatchlings in pain?
+
+Before she could call a halt to the test, the snails began to emerge again. Slowly, they poked their heads out, eyes waving on their stalks, then a little further. They were listening. It was working!
+
+Now, of course, Theresant wasn’t making any sound herself. They had found a capable human singer in the fortress and were projecting her voice into the chamber, but the Tenders had decided the charade was worth proceeding with to limit the number of species the hatchlings were introduced to in the short term.
+
+And now, the final deception!
+
+Theresant raised her head slightly, and the note changed. Then, slowly, as if held aloft by magical winds (which was exactly what was happening), her glorious moustaches began to float up into the air, dancing in an invisible breeze.
+
+The little snails stared, transfixed.
+
+Then one of them opened its little mouth, and began to sing.

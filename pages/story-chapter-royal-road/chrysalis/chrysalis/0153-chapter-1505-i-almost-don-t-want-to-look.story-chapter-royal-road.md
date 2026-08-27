@@ -1,0 +1,97 @@
+---
+id: 5a149b70-1c1c-57ae-98bb-3064936beadf
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1505 - I Almost Don’t Want to Look"
+slug: 0153-chapter-1505-i-almost-don-t-want-to-look
+partOf: chrysalis
+position: 153
+ownLength: 931
+unit: words
+ownProgress: 931
+publishedAt: 2025-02-12
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2061796/chapter-1505-i-almost-dont-want-to-look"
+royalRoadId: "2061796"
+markedReadAt: "2026-06-29T19:48:44.556Z"
+---
+
+Alright, Jern and Alice have apparently been transformed into killing machines. Good, I guess? They’ll rack up levels and experience quickly, which is a benefit, and I don’t have to worry about them getting hurt. That’s fine. All positive.
+
+But what about the kids?
+
+Emelia, Trean and Allison are watching the growing chaos with neutral expressions, seemingly unmoved by what they’re seeing. I’m getting a bad feeling about this. What have the Nameless done with these kids? Surely, they aren’t as… killy… as the other two? Right?
+
+[Alright, you three. Do you feel like you can head in there and contribute without putting yourselves at too much risk?] I ask them.
+
+The three of them look about, carefully assessing their surroundings, then share a long, silent exchange of glances.
+
+[We’ll be fine,] Emelia says shortly.
+
+Ooookay. I guess I just… have to trust they know what they’re doing. I mean, the Nameless wouldn’t have let them out if they would be in danger… right?
+
+Let’s see.
+
+The three young people move together in eerie silence until they approach the back ranks of the battalions. Then they just… vanish.
+
+What the….
+
+For the next ten minutes, I’m treated to a horrifying, terrifying display that shakes me down to my claws. The three of them are everywhere and nowhere. They pop out of the shadows with perfect timing, slashing out with quick and deadly strikes before vanishing once more.
+
+It’s impossible to track them with my eyes. If I didn’t have the Vestibule and Nave, I would have no idea they were even out there. The monsters they defeat have no idea what happened, struck from blindspots, beneath them, behind them, to the side. Heck, I saw one of the three jump out from behind an ant’s leg. The leg. Even if it was a soldier, their legs aren’t that thick…. How do you hide behind that?!
+
+As the three of them return to me, I find myself in a sombre mood, reflecting on the tragedy of lost youth and staring wistfully into the distance.
+
+Did we do well, Eldest? Emelia asks me.
+
+[You did very well. Too well. I feel nothing but admiration and deep, profound sadness. Have a rest.]
+
+They look confused, but do as I asked and head off to join Jern and Alis, who give them high-fives and start chatting with them.
+
+Holy moly. The Nameless really taught kids how to do that? Well, I can’t put the blame entirely on them. I’ll have to have a word with Crinis when we catch up next. I’m fully aware she was involved in pushing them to this point.
+
+I wrestle with my own emotions for a moment. I mean, is it a bad thing that they can defend themselves? Of course not! But having such young death machines leaves an itchy feeling in my mandibles. Then again, I wasn’t that much older than them when I first arrived in the Dungeon.
+
+I was much wiser, though. Definitely.
+
+Bah! I’ll worry about it later. You can’t put spilled babies back in the bath. Which explains human hygiene standards.
+
+[Alright, Bert. You’re up. Show me what you can do; don’t become dead in the process.]
+
+I’m not going to be fooled this time. Bert might look like a harmless old man who mends pots and cleans things for a living, but he went through the same deadly training of death that the others did. There’s no way he hasn’t been turned into a killer-ninja-assassin. I’m ready this time!
+
+To my shock, he nods at my request, and draws his weapon solemnly.
+
+[Bert.]
+
+[Yes, Eldest?]
+
+[Is that a frying pan?]
+
+[It is,] he replies, flipping it once and catching the handle deftly.
+
+[Are you… going to cook something?]
+
+He scratches the back of his head and chuckles, embarrassed.
+
+[Ah, no. I wasn’t really comfortable using the weapons, so in the end I just trained to fight with this.]
+
+[With a frying pan.]
+
+[Yes.]
+
+Nope, I still won’t fall for it. I’m not going to stand here and say ‘there’s no way he can be deadly with a pan’, I refuse to allow myself to be suckered in like that.
+
+[Go forth, Bert.]
+
+And so, off he goes. At least he looks a little nervous as he walks towards the battle, which reassures me a bit. I mean, this guy is a self-described ‘tinker’; he’s never seen deadly monsters in his entire life! It’d be disturbing if he wasn’t at least a little put off.
+
+He walks up the ranks of ants and militia, excusing himself politely as he pushes through, offering bows and apologies to humans, ants and everyone else who needs to give way for him.
+
+Eventually, he gets close enough to the front and stops. He concentrates, reaches down into his own shadow, and pulls out a handful of some… white substance. He throws it all into the pan before taking a firm two-handed grip on the handle, setting his feet, and whipping it around his body.
+
+As if fired from a scattershot cannon, the white stuff… salt, I think, rockets out and smashes into the gathered monsters. Those with soft, slug-like flesh immediately collapse, hissing and frothing as their bodies begin to foam and bubble. Even some of the shelled creatures are struggling, salt wedged into the gaps in their armour, or even having penetrated it in a few instances.
+
+I watch the whole thing, bug-eyed.
+
+Clearly, none of the Templars are normal. It’s official.
+
+Bert smiles, nods in satisfaction, then reaches down into his shadow to grab more salt.

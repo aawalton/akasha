@@ -1,0 +1,129 @@
+---
+id: 2faf0db6-953e-58a0-89d6-12bf570cca25
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1663 -  It Spread Like a Virus pt 10"
+slug: 0312-chapter-1663-it-spread-like-a-virus-pt-10
+partOf: chrysalis
+position: 312
+ownLength: 1780
+unit: words
+ownProgress: 1780
+publishedAt: 2025-10-09
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2662322/chapter-1663-it-spread-like-a-virus-pt-10"
+royalRoadId: "2662322"
+markedReadAt: "2026-06-29T19:53:47.520Z"
+---
+
+Far to the west of the lands claimed by the golgari, over the sunken ocean and beyond the Burning Islands, the vast area known as the Somnos Jungle lies.
+
+Outside of the cults, there are few who remember the reason it is named so. The Legion, almost certainly, as they were the ones who named it, and perhaps the Walik tribes who live there still.
+
+This is the place where Lerrewyn surfaced. According to legend, it was barren when she arose, but that was something she was more than capable of fixing. The trees, ferns, vines and flowers of that jungle sleep now, but they remember their master, even thousands of years later, when the original plants the Ancient created have died and rotted away.
+
+When she wakes, the Jungle stirs to life, for it is part of her, even now.
+
+-           Excerpt from ‘Collective Wisdom of the Cults’ by Granin Lazus
+
+[You want me to… play… with this ball.]
+
+Rassan’tep looked doubtfully at the stone sphere, perhaps a metre in diameter, that the ants had rolled into his chamber. He had hoped to be given an opportunity to see the ant, Anthony, again, or at least to engage with the golgari, Granin. As a fellow cultist, he was eager to see the progress of the potential Ancient, but it was proving to be difficult.
+
+He shifted his weight, causing the golden jewelry that adorned his scaled limbs and back to chime most beautifully. Unknown to all but his Set’sulah, Ammon’sil, that particular chime was designed to signify confusion and wariness.
+
+Like the trusted, spirit-bonded servant he was, Ammon’sil gave no indication he had received the message, but stepped forward smoothly.
+
+[Rassan’tep is an honoured Elder among Ka’armodo. It is not suitable for one of his dignity to be… playing games in the dirt.]
+
+The ant before them nodded their head understandingly. It was interesting to see these monsters slowly begin to adopt the mannerisms of other races. Particularly these… diplomatic ants. They were capable of communicating emotion in even the simplest of gestures in a way a ka’armodo could understand.
+
+[We would not ask any ka’armodo, let alone an elder, to do something that lacked dignity. Other ka’armodo, including some elders, have participated before, some of them visiting the Colony, others who have decided to lie amongst us. The game we propose is a test of skill, reflexes, strategy, strength and endurance.]
+
+Rassan’tep shook himself ever so slightly, once again setting his adornments to chime slowly. His faithful Set’sulah understood his meaning.
+
+[Perhaps it would be polite to allow Rassan’tep to see the game in person before he was asked to commit to this favour for you.]
+
+Trying to get in the good graces of the Colony was certainly not as easy as it used to be, and they were very insistent on this… game. Just what had happened since he last met them in the third stratum?
+
+[Of course, we just happen to have a demonstration match underway nearby. Would you like to follow me?]
+
+With a sweeping gesture of the antennae, the ant seemed to politely suggest they ‘step this way’. When Rassan’tep unfolded his arms and began to move, the ant took that for the assent it was and turned to lead the way.
+
+Rassan’tep followed while exchanging mental communications with his servants at a rapid pace. None of them had heard of this game before, which seemed odd, seeing as how the Colony was so insistent on it.
+
+Determined not to be manipulated or taken advantage of, the ka’armodo resolved to be wary. As an elder, he had lived for centuries and refused to allow some ants who had only been alive a few years to get the better of him.
+
+Moving through the fortress, they eventually came to a wide expanse of a chamber, in which the center had been sunken into the ground. Indeed, there was a game already underway, the players engaged in this… Tunnel Ball, but there was something shocking that seized Rassen’tep’s attention.
+
+Both teams shared the same composition, a ka’armodo elder and their set’sulah attendants. To think there were already elders who had sacrificed their dignity for this… spectacle! Just what had the Colony offered them?
+
+Their guide turned back to face them.
+
+[Here. I invite you to watch. If you have any questions at all, I am happy to provide all the answers that you wish.]
+
+From their vantage point, it was easy to look down and see the details of the game. Rassan’tep turned to look over the rail, not entirely comfortable with what he was seeing.
+
+It appeared to be a contest of magic. The Set’sulah, anchored by their bonded ka’armodo master, were engaged in a battle of wills, flinging spells at each other while also shielding and throwing up barriers to defend their own side. At first, he wondered if the ball were being entirely ignored by both sides, but on closer inspection, he could see it was actually the entire focus of both teams.
+
+The barrage of spells was entirely designed to try and push the other team away from the sphere. One team was trying to advance, looking to create a wedge and drive into the foe’s formation, while the other sought to absorb the pressure and hold the line.
+
+[The play style adopted by your fellow ka’armodo has been most fascinating to us,] their host told them. [We ants play a more physical game, with charging, dashing and blocking being key elements of our strategy. On the other hand, teams formed of your people view it as an entirely mind-based exercise. I personally have seen several matches where neither side physically touched the ball.]
+
+Well, of course. What need was there to touch the ball? The ka’armodo prided themselves on their magical superiority. Moving it with force, or wind, or stone, or any of a dozen other types of mana would suffice.
+
+What Rassan’tep could see, and the ant couldn’t, was the interplay between the ka’armodo and Set’sulah on both sides. The manipulation of energy, the rapid blitz of thoughts travelling between them, the deep, spiritual bond that all servants shared with their masters, and vice versa. Both teams waxed and waned, ebbed and flowed, their minds working in perfect harmony to create a beautiful song of mana and will.
+
+Eventually, there was a breakthrough. A slight weakness in the defending team created an opening, and the attackers were quick to pounce. A pillar of stone speared out of the ground, punting the ball forward, while a surge of wind swept down from above, looking to divert the ball on a tricky angle and direct it to what Rassan’tep was told was the scoring zone, the enemy team’s wall.
+
+The defenders, cool under pressure, fell back rapidly while the attackers advanced, maintaining their finely tuned spiritual and mental harmony.
+
+Further exchanges of spells followed as the one side sought to destroy the ball, while the other both defended it and attempted to move it close to the wall. Ultimately, the defending team was not able to recover in time, and the attackers managed to slip the ball through their defenses and score.
+
+Both sides took a moment to collect themselves, then bowed to their opponents before walking back to their own sides. A dignified display, well-suited to the ka’armodo and their servants. Rassan’tep was pleased that at least they hadn’t forgotten their people entirely.
+
+For the next hour, they watched the match play out. Ammon’sil asked questions and made polite chatter with the ant guide, but Rassan’tep remained focused on the game. No matter how he thought of it, he simply couldn’t understand what his fellow elders were doing down there.
+
+When the game finally came to an end, one of the teams being declared the victor, both teams bowed once more, deeper this time, in a show of mutual respect.
+
+[Well, what did you think of it?] their guide asked them, cleaning her antennae gently.
+
+[I want to speak with them,] Rassan’tep announced suddenly, causing Ammon’sil to pause a moment, frowning.
+
+Meetings between ka’armodo were formal, arranged affairs. This sort of spontaneous meeting, between three elders no less, was rare, to say the least.
+
+[Of course you can,] the guide announced cheerfully. [I’ll let them know.]
+
+It didn’t take long to arrange, and soon Rassan’tep was down on the ground level, his servants around him, their posture and expressions carefully schooled lest they shame him and themselves before their peers. When the ritual greetings and pleasantries had been exchanged, he was finally able to address the other ka’armodo and ask them his burning question.
+
+[Why are you engaged in this activity?] he said. [What is it that motivates you to participate? I admit, it is not as… unseemly as I first thought when I heard of it, but I still don’t understand why elders such as yourselves would… play… such a game.]
+
+The other elders exchanged a brief glance before one turned toward him, folding her hands across her chest.
+
+[There are several answers I could give,] the one who had named herself Holon’tep stated, [but I will give that which is most relevant to me. To better perfect the union between master and servant, this ‘game’ provides an excellent test. Our bond is tempered when we apply heat, and outside of battle, sufficient challenge can be difficult to find. By engaging in this game, I find that my Set’sulah and I are able to hone and sharpen our connection, root out the weaknesses that lie within us all and improve ourselves.]
+
+The other ka’armodo nodded slightly, to indicate his profound agreement.
+
+Rassan’tep frowned.
+
+They wanted to improve their bond? There were hundreds of ways to do that, as ka’armodo had done ever since they had first joined themselves with the Set’sulah. How was this any better?
+
+[I do not believe it is necessary to engage in such a thing as this to hone the bond I share with my servants,] he said, a little stiffly.
+
+[You don’t want to play?] Holon’tep said. She flicked her eyes to his Set’sulah, causing Ammon’sil to stand straighter. [I can understand why.]
+
+Rassan’tep’s eye twitched.
+
+[What do you mean by that remark?] he invited her to explain.
+
+Holon’tep kept her expression and thoughts completely smooth.
+
+[It seems obvious that if we were to compete against each other, you would not emerge the victor.]
+
+She was saying he would lose? That he and his servants would lose?!
+
+He saw red.
+
+[Those,] he stated, eyes narrowing to an unseemly degree, [are fighting words.]
+
+Holon’tep smiled an ever-so-slightly too-broad smile.
+
+[When shall we play?] she challenged him.

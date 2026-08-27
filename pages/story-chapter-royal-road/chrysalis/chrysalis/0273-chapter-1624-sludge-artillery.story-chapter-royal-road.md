@@ -1,0 +1,75 @@
+---
+id: b4c92f21-2f99-5a2a-87d4-61b8df2a5b11
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1624 - Sludge Artillery"
+slug: 0273-chapter-1624-sludge-artillery
+partOf: chrysalis
+position: 273
+ownLength: 950
+unit: words
+ownProgress: 950
+publishedAt: 2025-08-15
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2519058/chapter-1624-sludge-artillery"
+royalRoadId: "2519058"
+markedReadAt: "2026-06-29T19:52:32.964Z"
+---
+
+If the ants kept flooding into the heart, then the fight was completely lost. Zluth had grasped the numbers the insects had brought to the fifth while scouting their cursed platform. Rank after rank emerged from within the walls, no matter how many were injured or forced to fall back.
+
+With so many Krath still at the fortress, they couldn’t hope to compete with a tenth of what the cursed insects could bring to bear. The invaders had to be stopped.
+
+Zluth twisted himself around, his eyes spinning atop their stalks. Darkness and shadows lurked all around him, any of which could be used by the axe-wielding human. Danger was everywhere, but standing still wasn’t any better. The only choice was to move, and he had a target in mind.
+
+He compressed his body flat against the wall and began to race as fast as he could, using camouflage to conceal himself and pulling the mana around him tight and close. He suspected his would-be hunter was still able to trace him, but there was no reason to make it any easier than he needed to.
+
+If the tribes were seeing any success in this fight so far, it was due to their cannon snails. Specially bred monsters who sucked in mucus and toxic mana before launching it in dense balls of power. Without a pool to feed them, the snail handlers were doing their best to guide the creatures towards the thick slime coating the walls of the heart so they could soak it up and fire it below, but they were being constantly hounded by the ants of darkness.
+
+Two antennae popped above his flattened body, Zluth zigged and zagged his way along the wall, angling towards the massive, bloated snails. The wound in his side ached fiercely, but he did his best to ignore it. If he allowed himself to be tricked again, it wouldn’t end with just this injury.
+
+The hunter was still around him now, he could feel it. The darkness around him waxed and waned, growing stronger and fading away like a living creature. At any moment, that wicked axe blade could emerge again, from any angle.
+
+This time, the scout was determined to see it coming.
+
+He almost didn’t.
+
+Every shadow around him darkened at once, leaving him surrounded. Staying still would mean certain death, so he continued his charge, pushing his foot to the limit to extract every ounce of speed he could. All the while, he watched, waiting for the axe to emerge, waiting to see which of the shadows contained the hunter.
+
+At the last second, he realised the answer: none of them.
+
+Zluth screeched to a halt, arresting his momentum so quickly he felt like his eyes almost fell off their stalks.
+
+THUNK!
+
+The axe smashed into the sludge-coated meat of the heart right in front of him. Whipping his eyes around, Zluth could see the hunter sinking into a shadow under a destroyed platform held up by strings of mucus. In seconds, he would come to retrieve his weapon; this was the only moment of safety the Krath was going to get.
+
+The slug launched himself forward, sliding around the oversized weapon, gathering speed, and then he leapt off the wall.
+
+For a dizzying, heart-pounding moment, he hung in the air looking down at the swelling pool of blue mana below. If he fell…
+
+He stretched forward, jaw open wide, and latched onto a mucus string. His spindly hands snapped shut around it as his bite severed the strand, sending him swinging out through the heart, angled towards the cannon snails.
+
+When he released his grip, he’d underestimated the speed he’d gained and hit the wall with tremendous force. Splatted against the heart, he was barely able to recover and grip the surface properly before the wall pulsed and threw him off.
+
+“Soluzz!” Zluth croaked, then expanded himself a little and tried again. “SOLUZZ!”
+
+The Krath’lath of the Zissth was directing his forces against the ants without much success. His powerful acid magic was barely enough to fend off the shadows and grasping limbs of the nightmare creature, but he wasn’t making any headway against the forces massing below. Boiling with anger and frustration, the leader turned at the sound of his voice, mouth agape and fangs glistening.
+
+Zluth pointed.
+
+“We have to use the cannon snails to destroy the tree! It’s our only chance!”
+
+No Krath’lath wanted to be told what to do, especially in their own slimeground, especially by an inferior, yet Soluzz hadn’t risen to his position by virtue of his strength alone. Even in the depths of his rage, there was a calculating and cunning light in his eyes. With one quick glance down, then another toward the struggling beast tamers, he made his decision.
+
+“Rally around me!” he bellowed. “Secure the snails!”
+
+As a crowd of Krath formed, Zluth was quick to force himself into their midst. Surrounded by slugs on all sides, he was surely safe from the hunter. If he emerged here, the Krath would welcome him gladly, with their fangs.
+
+“Is there a mucus source we can feed the snails?” Zluth demanded once he managed to draw close to Soluzz.
+
+“Be quiet!” the Krath’lath hissed. “Do you think I’m stupid?!”
+
+There was only one right answer to that. Zluth shook his head and slunk away, letting others press between them so he was no longer in Soluzz’ view.
+
+As long as the leader of the Sizzth knew what needed to be done, that was enough.
+
+“Chase away the shadows!” Soluzz bellowed, and Zluth hissed and spat along with the other slugs. That was an order he could certainly get behind.

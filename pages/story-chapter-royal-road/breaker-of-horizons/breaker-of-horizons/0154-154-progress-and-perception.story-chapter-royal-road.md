@@ -1,0 +1,109 @@
+---
+id: 0040dbdc-2ad4-5037-8903-a887d0888c98
+page-type-slug: story-chapter-royal-road
+title: "154. Progress and Perception"
+slug: 0154-154-progress-and-perception
+partOf: breaker-of-horizons
+position: 154
+ownLength: 2119
+unit: words
+publishedAt: 2021-11-22
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/792238/154-progress-and-perception"
+royalRoadId: "792238"
+---
+
+Caden's progress in scribing was nowhere near as fast as he had hoped. By the end of the week, he was barely able to successfully scribe half of the sequence for the preparatory space, and he still didn't understand enough about the glyphs involved in the sequences meant for the artefacts that would aid the creation of a wysana to even begin scribing them on paper. However, he consoled himself with the fact that he was at least able to quickly and safely unravel the glyphs whenever he failed to properly block them off from each other, and that after the first disastrous explosion, he had suffered no further mishaps.
+
+While his progress in glyph work was slow, he enjoyed a great deal more success in the arena. The Demiurge's evening "thaumaturgy torture sessions", as Caden had come to refer to them (much to Caldwell's delight) had progressed to the point where Caden was now made to defend himself against both Caldwell and his wysana.
+
+Caldwell had dialed the difficulty back from exotic military-grade sequences to ordinary shield-piercers on their first session with the wysana, but the sheer volume of attacks that Caden had to endure from two sources meant that he still got injured a great deal. However, the greatest difficulty lay in the fact that the wysana was manifesting its attacks much more subtly than Caldwell ever had. Caden found himself having to dip further into oblivion just to spot the wysana's manipulation of arcana, which slowed him down. Fortunately, having pain as a teacher meant that Caden was making great leaps in his progress, and by the last session of the week, the Demiurge had already started deploying detonators once again, with the wysana in the mix. He even managed a breakthrough — right at the end, when he was almost overwhelmed by the combined assault of detonators from both Caldwell and the wysana, Caden figured out how to apply something he had learned from scribing the glyphs to create a wysana.
+
+"Excellent work, Caden," Caldwell said at the end of their thaumaturgy session. As usual, Caden was perched on the tower in the middle of the arena while Caldwell stayed on the ground level. The wysana's presence in the ambient arcana hadn't been anchored to any specific point, but now that the session was over, Caden felt it consolidate in one place before fading from perception.
+
+The Demiurge tapped his staff, sending the usual wave of healing arcana flooding through Caden's body and wiping away the burns and bruises. Caden nodded mutely, his mind still foggy with mental exhaustion despite the physical restoration.
+
+"You've done a marvellous job of defending yourself this session, especially towards the end. Learning points?" Caldwell prompted gently, his voice amplified so that it still reached Caden on the tower.
+
+Caden allowed himself to collapse in a heap as he turned the question over in his head. "The wysana all must have a physical anchor," Caden managed to wheeze. "Yours is bound to your staff, isn't it?"
+
+Even though Caden was staring up at the arena ceiling and couldn't see Caldwell, he could hear the grin in the Demiurge's voice. "It is. How did you come to realise it, and how did that help you better defend yourself?"
+
+"The glyphs for the preparatory space to create a wysana," Caden replied softly, thumbing through them in his mind's eye. "Still don't know their names, but I've reached the point in the sequence where I think I know the... what's the word... the 'job' they're doing, the 'pattern' that they form in oblivion. They set the boundaries for a shape in oblivion, and then tie the things that occupy that space to an anchor in the physical world."
+
+"A fair summary," Caldwell conceded. "And how did you apply this knowledge in combat?"
+
+"It gives me a..." Caden paused, then tried to reconstruct the whole concept in his head when he realised he didn't quite have the whole framework clearly laid out in his mind. It was frustrating to have an instinctive understanding of something only to be lost when you were forced to give a clear explanation about the mechanics of it.
+
+"Start from what you know," Caldwell prompted again after about a minute. "Describe the steps."
+
+"When I unravelled sequences at the start, I used to wait for them to manifest first," Caden began slowly. "I relied on spotting the points of origin after they were created."
+
+"And then you got faster by...?"
+
+Caden latched on to the leading question. "By watching the person casting them. I realised if I was paying attention to your auric-ambient-flare in oblivion, I'd be able to get a hint of where you intended to put a point of origin even before you did it. Like seeing someone shift their weight before they throw a punch. That means I can react almost instantly if I know where the caster is. That's how I've been able to sort of keep up with unravelling when it was just you."
+
+Finally, he found a way to get his mental hands around exactly what he had been doing. He continued before Caldwell needed to prompt him again. "I couldn't do it against your wysana until I figured out where its core was anchored. I was back to reacting to points of origin only after they manifested. Once I realised the core was in your staff, I knew where to look, and it was then just a matter of keeping a figurative eye on you and your staff."
+
+"But there's still a difficulty, isn't there?" Caldwell asked. "Your ability to keep up with the wysana is not as finely-honed as your ability to keep up with another person. Why?"
+
+"It... uh... the wysana doesn't really have an auric-ambient-flare so I can't, uh, read where... uh, what it's..." Caden was struggling to find the right words again.
+
+When Caldwell next spoke, his voice came from right next to Caden instead of being amplified through the arena. Caden sat up with a jolt and saw Caldwell sitting on the edge of the tower with one leg dangling off the side. "What happens when you pay attention to an auric-ambient-flare?"
+
+"I'm reading the—"
+
+"No, in oblivion, you don't really read," Caldwell interrupted. "But since you mentioned reading, perhaps this will be useful analogy. When you really read, Caden, do you always sound the words out in your head one by one?"
+
+Caden blinked, then thought about it. "Sometimes. Actually, rarely."
+
+Caldwell nodded approvingly. "I thought not. You read very quickly, which is not usually possible if you are taking the time to subvocalise. Now, think about the difference. Think about what happens when you do read in your head word-by-word with a voice, and when you don't do it. What would you say changes?"
+
+That was a question that Caden had never been asked to contemplate before. He thought he knew the difference, but being asked to actually articulate that difference was proving difficult. "Uhm, the speed... because if I subvocalise, I'm slowing down my thoughts to match the speed at which I can, uh, imagine the sound. Somehow, imagining the sound of a word takes more time than just... just... seeing the word, and thinking about what it means without bothering with the sound."
+
+"Your focus shifts," Caldwell clarified. "When you subvocalise, your mind turns to sound, pitch, timbre, tone. Those are channels of information, but to consider them, you operate at the level and speed in which you usually encounter them. When you don't subvocalise, your mind shifts more fluidly and freely between concepts and images which are not habitually locked to the speed with which we produce and perceive speech."
+
+"I guess," Caden said, trying hard to follow along. "So... you're saying that by thinking of 'reading' auric-ambient-flares, I'm slowing myself down in a similar way?"
+
+"Consider the auric-ambient-flare," Caldwell said, wordlessly directing Caden's attention to the edge of oblivion. "You perceive emotion, the timbre of surface thoughts, sometimes even the direction of intent. What is the channel? Not words, surely."
+
+"It's... uhm, like body language. I read it," Caden said, then chewed his lip when he realised he was back to the concept of 'reading'.
+
+"Body language," Caldwell agreed, pointing an approving finger at Caden. "We say we 'read' body language, but that is analogous, is it not? You perceive a person is happy by the smile on their face, but do you consciously note each element as if you were reading words off a page, and talk yourself through a whole series of observations like a sentence before arriving at a conclusion?"
+
+"Uhm, no," Caden answered, because there was no other way to answer that question.
+
+"So how do you 'read' body language?"
+
+"You just look, and it makes sense?" Caden asked helplessly. "And that's what I'm supposed to do with auric-ambient-flares?"
+
+"After a fashion. You understood a bit about what you call the 'job' or the 'pattern' of the glyphs involved in producing a wysana. So in combat, you thought of the wysana in terms of that vague job or pattern you imagined. That is like reading word-by-word in your head. That is like seeing a smile, and slowly asking yourself what it means for someone to smile, before finally deciding that it means they are happy."
+
+"Okay," Caden said slowly, forcing himself to follow along this train of thought even though it was making his head feel terribly stretched. "Okay, so... I... uh... just look, and don't think?"
+
+"When you've been working with the glyphs and slowly applying your adapted parentheses before scribing the next one, are you looking at the glyphs when you figure out how to block their points of attachment?" Caldwell asked patiently.
+
+"Yeah, in oblivion," Caden answered, before pausing. "Oh. Nobody looks in oblivion. Looking is a physical thing. Well, in oblivion, I..."
+
+"Yes, we haven't quite got the vocabulary for it," Caldwell said, nodding emphatically. "So, in oblivion, you perceive things. You do so with your auric-ambient-flare. To be precise, just as you see with your eyes, you perceive things in oblivion at different levels with different facets or parts of your auric-ambient-flare. The next time we practice, do not throw your raw intellect at oblivion. Allow yourself to inhabit your auric-ambient-flare more fully, more naturally. Just as you can read without subvocalising, you can also perceive oblivion without mechanically identifying everything."
+
+Caldwell got up and slowly paced around Caden, keeping his balance as he walked along the edge. "So, let's return to our main branch of questioning. When you pay attention to an auric-ambient-flare, you perceive intention. Why does this not work with a wysana in the same way?"
+
+"Because I'm... perceiving... the wrong parts of it? Sort of like how I'm watching someone's feet when I'm actually trying to figure out what they're doing with their hands?" Caden supplied tentatively.
+
+"To use your analogy, you're looking for feet and hands when you're actually dealing with a snake," Caldwell said, smiling a little. "So you can tell when something is moving, and there is a general way to map intent over from one creature to another based on its movements, but the precision of your reading will be poorer because you are looking at the wrong markers."
+
+"Right," Caden nodded. "The wysana don't have an auric-ambient-flare, and I'm perceiving intent from you by paying attention to certain facets and elements of your auric-ambient-flare which just aren't there in a wysana. So... for me to get better at unravelling your wysana's attacks, I need to learn how to perceive them more accurately."
+
+"And," Caldwell continued cheerfully, "by happy coincidence, honing your ability to perceive them accurately is also what is key to finally creating a stable one for yourself, while learning how to create one is also instrumental in helping you perceive them accurately! Doesn't it all come together so nicely?"
+
+Caden gave a tired smile. The Demiurge's relentlessly energetic attitude made it difficult for Caden to slacken during their trainings, but it was quite emotionally draining to be constantly chivvied along by his buoyant manner.
+
+"You've earned your rest," Caldwell said, giving Caden a sharp jab in the side with the end of his staff. "Get to your dorm so you can have a proper recovery. We'll take a break tomorrow and discuss our arrangements for the next term."
+
+"The next term?" Caden asked blankly.
+
+Caldwell raised an eyebrow. "Yes. I see you've lost track of time a little. Our term break is almost over. Everyone's coming back in two days."
+
+"... Oh," Caden said softly.
+
+"Yes," Caldwell said, suddenly grave. "Plenty to settle, I imagine. Go rest. We'll talk more tomorrow."

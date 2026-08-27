@@ -1,0 +1,89 @@
+---
+id: 2a76250a-b44c-5c7b-89bb-f41a54be6d48
+page-type-slug: story-chapter-royal-road
+title: "150. Scaling Heights"
+slug: 0150-150-scaling-heights
+partOf: breaker-of-horizons
+position: 150
+ownLength: 1985
+unit: words
+publishedAt: 2021-11-08
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/782063/150-scaling-heights"
+royalRoadId: "782063"
+---
+
+Caden wasn't given any time to prepare at all. The Demiurge had attuned instantly to the ambient arcana and was already bringing sequences to fruition. The only thing Caden could muster before they took effect was a layered honeycomb dome to shield him against attacks from all directions.
+
+The space around Caldwell became weirdly distorted, as though it were an oil painting that had somehow become wet again and was now starting to run. The effect was contained to a sphere that encapsulated him, and Caden belatedly realised that this was the combination of several advanced protective sequences.
+
+"We're not using the arena shields?" Caden called, failing to keep a faint trace of panic out of his voice as he stared at this strange phenomenon, keenly aware of how even their choice of shields reflected the power difference between them.
+
+A little hole appeared in the wild distortion around the Demiurge so Caden could clearly see his face. Caldwell was smiling thinly, without any trace of his earlier levity. "You won't have any arena shields when you face an augera. Even a subconscious reliance on the arena shields will work against your development, so it's best to dispense with them. I'm not aiming to kill you, but I will have you know that if you don't manage to hold your own, you will get injured."
+
+Before Caden could protest, Caldwell raised his defences again. He was now just a blurry, coloured smear behind that distortion, which was so pronounced that Caden couldn't even tell whether the Demiurge was standing, sitting, or dancing a jig. Attempting to read any physical tells was a lost cause, and though Caden hardly expected Caldwell to be gesticulating wildly in combat, he was hoping that being able to watch the staff might clue him in to possible attacks, since Caldwell seemed to have to actually wave it around or tap it to get things done, from what he had observed so far.
+
+A steady rain of heavy arcanic bolts started to pound Caden's shields, coming from a single point of origin directly over Caldwell. It wasn't something terribly threatening by itself but it did slowly whittle away at the integrity of the barrier, which meant that Caden had to supply a constant stream of arcana to repair the damage. A lesser arcanist would be quickly drained by this and likely succumb to severe overdraw after a minute, but Caden had peered beyond the veil and he knew more about the nature of arcana itself. He dipped into the arcanic sea and, with a little concentration, found a state of equilibrium that allowed him to maintain the shield with barely any expenditure.
+
+But just as Caden found that delicate balance, he sensed a familiar sequence building — the military-grade shield-piercer. In the arcanic sea, he could read the tendril of intent linking Caldwell to the point of origin that had been placed right behind him. Caldwell's attunement to the ambient arcana in the entire arena meant he could spawn attacks from anywhere.
+
+There was almost no time for him to form any strategy because the sequence was building much more rapidly than Caden had ever seen, even from the enemy agents that had ambushed him on the road, and in the capital city. Instinctively, he bolstered his limbs with arcana and threw himself sideways into a roll, coming to an awkward stop on all fours. He had also managed to deftly modify his protective dome into a sphere that tracked him, which was fortunate, because the rain of heavy arcanic bolts swerved in mid-air and continued to pound on them.
+
+The shield-piercer flowered and lanced through the spot he had been in only a second ago. It smashed against the Demiurge's own shield but did nothing except send a cascade of colours running over it.
+
+"Good instinct. I see Kant has trained you well," Caldwell said, his voice echoing through the arena, amplified. "However, Kant's philosophy of combat will not serve you here. He is a skilled thaumaturgist who has fought many battles, but only against other arcanists. You must learn to face another class of beings, and against them, dodging is of no use."
+
+Caden found himself instantly surrounded by eight points of origin for eight shield-piercers. Panic seized him and, disregarding what Caldwell had just said, he brought his feet together and vaulted over the deadly crossfire. He barely managed to maintain his balance as he landed on one of the higher platforms.
+
+"No, Caden. Deal with the beams, don't dodge them," Caldwell's voice rang out, slightly disapproving.
+
+Caden bit back a curse and forced himself to think.
+
+There were no advanced shielding sequences that Caden knew of, and he was pretty sure that just pouring more arcana into the honeycomb barriers wouldn't help, because the shield-piecers were purposefully designed to break through them. He didn't have the augeric shell to call upon anymore, so he couldn't expect to simply be gifted with the knowledge of unknown sequences. He could only use what he already knew.
+
+More shield-piercers sprang into existence, their points of origin forming a sphere whose diameter was only a few inches more than his protective shield. Additionally, Caden could tell that the Demiurge had anchored them to his relative position, so that they would follow him even if he tried to dodge. He was well and truly trapped.
+
+Trapped. Like he had been in the clearing with Emilia.
+
+Caden seized a mote of inspiration that came with the memory and tried to focus on the totality of his auric-ambient-flare. Just as the Demiurge's sequences flowered, Caden's arms spasmed involuntarily as he tried to make use of his 'oblivion parts' to lift himself out of the plane of reality that the shield-piercers were working on. He felt a moment of sickening vertigo as he passed through oblivion, and he sensed the Demiurge's presence there as a dense knot that felt almost as formidable as a Fateweaver, before he landed back in the arena, panting slightly.
+
+The floor, platforms, walls and structures near him bore signs of damage from the array of shield-piercers, and a few of the ones that had hit the arena's shields left massive red craters, signalling fatal damage. Caden's own shields were gone since he hadn't managed to bring them with him into oblivion. But he was unscathed.
+
+"Oh shit, that actually worked," he gasped in relief.
+
+"Well done," Caldwell said, sounding pleased. "Not quite the lesson I wanted you to learn since you're in effect still dodging, but you have done something we were going to get to eventually — phasing. Phasing yourself is the beginning. In time, we'll progress to phasing your own sequences so they take effect on other dimensions. Take a moment to collect yourself. I still want you to deal with the beams directly. No dodging, whether physically or by phasing."
+
+Caden sat down heavily on the floor. With the Demiurge's restrictions, there was no need to be ready to move anyway, and he did his best thinking if he was in a comfortable position. He crossed his legs and tried to calm the hammering in his chest. Dipping into oblivion like that and narrowly avoiding a deadly crossfire of shield-piercers had been both terrifying and exhilarating.
+
+"He wants me to deal with the beams, but I don't know any advanced shielding sequences," Caden murmured softly to himself.
+
+"I don't expect you to use sequences. The ones you are capable of using now will not help you against the augera," Caldwell's disembodied voice echoed from the walls. "You have access to oblivion. Conventional sequences, even if they are military-grade, should be within your power to unravel."
+
+Caden's heart skipped a beat. The idea had occurred to him, but he had instinctively dismissed it because of what had happened the last time he had attempted to do something like that. "Unravel?" he asked, his mouth dry.
+
+"Yes. You know the theory, and you have bitter experience as a teacher. Now it is time to make progress," Caldwell said, his tone neutral.
+
+A single shield-piercer materialised just an arm's length in front of Caden, but this time it was modified to be bigger — the glowing core was expanding so much that the usual tiny lance of energy was shaping up to be closer to the size of Triss' beam, large enough to catch his whole torso in its circle.
+
+Caden hastily folded his mind so he could peer into oblivion, into the very essence of the sequences that were the foundation of the blossoming arcana. But he stopped short of throwing his will at them and trying to break the whole thing by brute force. He scanned the glyphs for one he recognised, but none of them looked like they were the key anchorpoints for the whole sequence, so breaking those glyphs likely wouldn't help in any way.
+
+Just before the sequence went off, Caden seized the handful of glyphs that he understood, that formed the universal core of almost every sequence — a point of origin — and shredded them with a burst of arcana in oblivion.
+
+With the unravelling of the sequence, the gathered arcana lost its cohesion and fell apart. However, there was still so much of it, and Caden's unravelling had come too late to completely stop the work of the glyphs in the sequence that were aimed at amplifying the original source of arcana. The wash of arcana was still substantial enough to throw Caden bodily against a nearby wall. He hit it hard, then sank back to the ground, feeling very bruised.
+
+The Demiurge's shoes squeaked a little on the marble floor, and his footsteps were punctuated by the smart, sharp clack of his staff. Caden looked up in time to see him coming around the wall without the shield of distortion. Caldwell smiled and offered a hand to Caden, who accepted it and got to his feet, wincing slightly.
+
+"Let's take a pause here," Caldwell said, tapping the staff once against the floor. Instantly, Caden felt his aching body relax, and the pain vanished.
+
+"Thanks," Caden said, surprised. He rolled his shoulders experimentally, marvelling at how limber and unhurt he felt.
+
+"You managed to unravel the sequence, but you were hurt anyway. What have you learned?" Caldwell asked, leaning casually against the wall.
+
+"I was too slow," Caden answered, thinking back. "I wasted time trying to find a viable weak spot. The glyphs that form the point of origin are the most foundational, but I realised that a bit too late. So the sequence had time to work a little."
+
+Caldwell nodded with approval. "So you see, with your capabilities, common arcanophany is easily dealt with. Anything that relies on the standard point-of-origin clause can be quickly and efficiently unravelled. Of course, there are more complex sequences in commercial and military use, but you will in time find other elegant means of dealing with them."
+
+Caden stared. "You mean... that's it? That's all it takes to unravel a sequence? Take out the point-of-origin clause?"
+
+Caldwell raised an eyebrow. "You make it sound so simple. You need to be able to read glyphs, which means only an arcanist can do this. Then, you need to know about the higher levels of arcanophany involving what you call the arcanic sea and oblivion. After that, you need quite a bit of skill and focus to quickly and effectively smash the sequence. The theory is simple. It is the practical use of that knowledge that is rather more important for you to master. You managed one sequence at almost point-blank range. We'll be scaling up from here."
+
+He pointed with the tip of his staff at the centre of the arena, where Caden had earlier used the arena's environmental controls to plant a tower. "Get up there," Caldwell said, "and we'll bring things up a notch."

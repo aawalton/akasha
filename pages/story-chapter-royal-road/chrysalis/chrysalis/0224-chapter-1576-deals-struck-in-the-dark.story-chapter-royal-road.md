@@ -1,0 +1,123 @@
+---
+id: 848570e6-c4ac-5a1a-9c0d-7fdb734354d0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1576 - Deals Struck in the Dark"
+slug: 0224-chapter-1576-deals-struck-in-the-dark
+partOf: chrysalis
+position: 224
+ownLength: 1223
+unit: words
+ownProgress: 1223
+publishedAt: 2025-06-03
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2326470/chapter-1576-deals-struck-in-the-dark"
+royalRoadId: "2326470"
+markedReadAt: "2026-06-29T19:50:58.798Z"
+---
+
+Commander Chyron felt better than she had in months. Dense mana pulsed through her body, reforged in baptism, infusing her muscles, electrifying her nerves, invigorating every cell.
+
+She moved better than she had in years, bonded to her armour, power flowing down her arm, into her sword and outwards, stabbing, slicing, cutting down the hated beasts of the fifth in swathes. All around her, the brave men and women of her Legion fought by her side. The shield wall was unbreakable. Their strength of will was indomitable.
+
+If only the Krath would attack and she could put some of those miserable slugs to the blade, then everything would be perfect.
+
+“Commander!” a voice roared above the savage din of battle. “You are required at the command tent!”
+
+Executing a vicious push followed by a mighty thrust, she, along with the rest of the line, obliterated the closest wave of monsters, giving them a moment of breathing room.
+
+“Withdrawing from the line!” she announced.
+
+The Legionaries to her left and right nodded, and she stepped back, allowing another to take her place. Step by step, she moved back through the disciplined lines of soldiers until she passed the final rank. Then and only then did she allow her shield to drop to her side.
+
+“What is it?” she demanded, trying not to sound too irritated. It wasn’t this poor Legionary’s fault that someone had called for her, yet she couldn’t help but feel annoyed.
+
+She was enjoying herself out there, damn it!
+
+The Legionary looked as if he were aware of her mood.
+
+“I apologise, Commander. The ant general has requested to speak with you. The Tribunes await you in the command tent.”
+
+Solant? Chyron turned her gaze to the battalion of reserves standing at the rear of the platform. So far, they’d only stepped forward to fight when the Legion had asked them to, covering changes in shifts, or allowing them to rest more soldiers. For a long time, Solant had been there, watching, studying, trying to learn all she could of the Legion’s capabilities and tactics, no doubt. The Commander had deliberately kept her methods simple and direct for the duration of their stay on the platform.
+
+Yet it appeared there had been other things that demanded the ant general’s attention, since she hadn’t been present for the last few days. Now she was coming back wanting to speak? Chyron smelled a hint of weakness in the air.
+
+Stepping into the command tent, she found Morrelia and Aurelis already waiting for her. The Berserker wore an openly disgruntled expression on her face, and judging by the ichor spattered over her armour, Chyron knew why.
+
+“Wipe that expression off your face, Tribune,” she snapped. “My officers are not to be throwing tantrums because they were dragged away from the fight. You’re here to lead, not indulge your most violent habits.”
+
+“Yes, Commander,” Morrelia said, snapping out a salute as her disgruntled look promptly vanished.
+
+“Good,” Chyron grunted, then turned her gaze on her second Tribune. “Are you so pleased to see your fellow officer rebuked? Why are you so happy, Joshen?”
+
+“I… am… I’m simply…”
+
+She let him flounder for a moment, her glare intensifying with each passing second.
+
+“The Legion isn’t interested in officers who lead because they want to, or because they think they deserve it,” she snapped, “we want officers who are the best damn people for the job. The best person for the job is not one who celebrates the mistakes of another officer. Am I clear?”
+
+“Crystal, Commander.”
+
+Having vented her temper on the officers, Chyron felt a moment of reflection. She was too old to be training such young tribunes, wasn’t she? Fighting was so much simpler, so much more direct. She would much rather be killing monsters than having meetings with them, that was for certain. Somehow, it had fallen to her to rear these pups, and that was what she was going to do.
+
+“I’m told the ants want to speak to me. Does anyone know what it’s about?”
+
+Unsurprisingly, Morrelia spoke up first.
+
+“I’m told they are here regarding information they want to acquire. Potentially sensitive information.”
+
+“Any specifics?”
+
+“I don’t have any, I’m afraid.”
+
+“What about you, Joshen?” she asked. “Managed to ferret anything out?”
+
+“Unfortunately not. Getting information out of insects is outside of my abilities, I’m afraid.”
+
+He was certainly less willing to engage with them than his fellow tribune, who was too willing to do so.
+
+“Alright. Let’s go meet them and see what they have to say.”
+
+Departing from the officers’ tent, the three walked to the rear of the platform, along with an honour guard, while the battle continued to rage around them. At the fore of the ten-thousand-strong reserve battalion, Solant waited with a cadre of her own favoured associates. Chyron recognised several, having seen them before, but couldn’t recall their names.
+
+These meetings were always standoffish. Neither side really trusted the other, which was exactly how Chyron liked it. She didn’t want to trust these ants, and she didn’t want them to trust her. That wasn’t how the Legion operated with monsters. If they weren’t openly hostile, then they would be one step removed. These ants would be eradicated eventually, either before or after they turned rabid, it didn’t matter.
+
+As future adversaries, she would treat them accordingly.
+
+After some back and forth, a mind bridge was eventually constructed between the general and herself, with monitors from both sides listening in.
+
+[You’ve been busy recently,] Chyron remarked without inflection.
+
+[The vents have opened, pouring mana into the fortress. We are dealing with it, but our infrastructure is being stretched,] Solant replied openly.
+
+[That sounds like quite the challenge,] Chyron replied, one brow raising. [I take it you have questions about the vents?]
+
+[No. We already have all the relevant details.]
+
+From that cursed slug, no doubt.
+
+[Then why are you here?] Chyron asked. [There isn’t much we can tell you that your pet Krath can’t.]
+
+[I disagree,] Solant replied, placid as ever. [There is one specific area in which your Legion may be able to enlighten us more than any Krath would. I wish to ask you about Theorazzn and the connection between the Ancient and the Krath.]
+
+Chyron stood still as she tapped a finger against her crossed forearm, thinking. They wanted to know about the Ancient? Why? What could they stand to gain?
+
+[Would you be willing to share why you seek this information?] she probed.
+
+[In exchange for a discount on the price,] Solant rebuffed.
+
+The Commander considered.
+
+[Agreed.]
+
+[We believe Theorazzn has been in contact with the Krath and is actively working against us,] Solant replied.
+
+The ants showed no reaction, but the mages standing behind Chyron shifted on their feet, shooting each other incredulous glances. She raised a hand and snapped her fingers, quashing their breach of discipline instantly.
+
+So, that bloated starfish was awake? Meddling as always.
+
+[There is a lot I can say on this matter,] Chyron revealed. [Due to our unique position in the fifth, we’ve had more interactions with Theorazzn than other Ancients throughout recent history.]
+
+[And?] Solant prompted.
+
+Chyon couldn’t keep the slight smile from her lips.
+
+[It’s going to cost you. Let’s talk about your Eldest. Just how attached are you to that particular ant?]

@@ -1,0 +1,186 @@
+---
+id: de550ff2-18b8-5764-9a79-5f199e40812c
+page-type-slug: story-chapter-royal-road
+title: "162 - Conviction of a Giantess"
+partOf: bunny-girl-evolution
+position: 28
+ownLength: 3452
+unit: words
+ownProgress: 3452
+publishedAt: 2026-01-10
+link: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/2929006/162-conviction-of-a-giantess"
+royalRoadId: "2929006"
+markedReadAt: "2026-06-29T20:03:34.043Z"
+---
+
+Unlike Sir Bartholemew, Dame Lindsay was a much more laid-back person. At least, when Professor Lance wasn’t directly observing her she was. While he was with the other two knights, she was leaning to one side and talking in an extremely casual tone, but the moment Lance arrived, she was stiff as a board and speaking formally.
+
+Like the defensive test, the offense test was very simple and quick. With so many students and so little time, it had to be. They were already cutting it close as they were.
+
+The offensive test covered the same categories as defense, roughly, with Power, reaction time, efficiency, and consistency, and on top of that, accuracy was added. There was a stone pillar with a crystal on top that looked identical to the one that Bartholomew had used, but rather than shooting missiles made of light at the students it shot targets made of pure mana into the air like clay pigeons. Some of them seemed to obey the laws of physics, flying in predictable arcs, while others would fly for a bit, then suddenly stop, or change direction. Some were larger, and some were smaller, and like the defensive test, they were completely random.
+
+Elise and Sophie were near the last in line, which meant that they got to see a very wide variety of offensive styles. Much more than they saw in the defensive test, at least. Although the class was Practical Magical Combat, pure mages were actually in the minority there. The class was open to anyone who used mana to fight, which included just about everyone. Fighting using only physical strength was incredibly rare, and even the warriors most specialized in pure physical combat still used at least some mana to augment their capabilities. With the way that Class evolutions granted flat amounts of Mana and Mana Control, it would have been a waste not to.
+
+Because of this, the class had fighters of all kinds, from armored knights and melee specialists like the confident young man from the defensive test and the taciturn giantess, to flighty rogue types who fought using speed, to archers firing bows, and there was even an artificer who fired some device that looked a bit like a magical musket. There were also dozens of different types of magic and elements used. One mage that caught Elise’s eye was a lightning mage whose attacks were so fast that the targets were all zapped the moment the stone pillar shot them out without a chance to get more than a foot away. The targets lit up according to the strength of the attack, and while his didn’t light up quite as much as some of the others, it was still above average. Those brief moments that he was being tested, the entire class knew that he was likely the most potent and competent offensive specialist there.
+
+When it came time for the giantess to take her turn, Elise, along with everyone else who paid attention to her defensive test, watched very closely. For melee specialist students, the targets were always shot generally toward the student to keep them from having to go chasing after them, but they were still swift and erratic enough that it was no easy task. Not for many of the students at least. It was no trouble for the giantess.
+
+With casual ease, she punched and kicked the seven targets as soon as they came her way. Despite the casual way she struck though, the targets all lit up just as much as they had for anyone else, if not more. Near the end of her round, Elise was worried she made a mistake when a target flew low and the giantess kicked it, the rotation of her body making it so that when the next target went high, it was almost behind her. However, without even hesitating, the giantess merely took another step forward and spun, delivering a devastating wheel kick and making the target flash so brightly it made Elise see spots.
+
+After her performance, the lightning mage was almost entirely forgotten as the students mentally crowned a new monarch. Elise herself was in doubled awe, as she could see the giantess’ class, and could not figure out how she was doing it. When Elise used {Inspect}, the result came back as simply “Warrior” with unknown level. Elise knew for a fact that Warrior was one of the most common 2nd Tier Classes, and that it had many upgrade paths, yet for some reason, this giantess had not upgraded it at all.
+
+With Classes, it was possible to keep the same Class during Class evolutions, resulting in the same stat splits, just with higher numbers. Of course, no one ever did that, because early Classes were usually Common or Uncommon, while branches or specializations were more likely to be better, but for some reason, this giantess had chosen to keep the Warrior Class. Based on her performance, Elise could tell there was zero chance that she wasn’t offered anything better, so there must have been something else going on, but it wasn’t like she could ask. Not without raising a bunch of questions about herself first. If she wanted answers, she would have to befriend the giantess first.
+
+Elise resolved to do exactly that before turning her attention back to the line in front of her, which was rapidly shrinking as her turn approached. Her turn did not come before Sophie’s though, and when Sophie went through her round, Elise had to refrain from wincing.
+
+Sophie was indeed skilled with mana, but whether it was in the cabin with her mother, or on the island with Irylax, she had never trained for combat. Her mana control was excellent, but she had only practiced for more mundane things, and when it was time for her to fight, she was, unfortunately, abysmal. It didn’t help that she had gotten {Mana Manipulation} so early, meaning that she had to manually learn any offensive spells she had to cast. Her imitation of {Magic Missile} was unstable, weak, slow, and inefficient, though to her credit, her aim was actually solid. When she finished, no one made fun of her, but Sophie was still downcast, and seemed to be wilting under their gazes.
+
+“Remember, everyone here has a five year headstart on you,” said Elise with {Whisper}. “Plus, the whole point of this class is to get better. Everyone starts somewhere.”
+
+Her words seemed to lift Sophie’s spirits a little bit, but not much, and unfortunately Elise didn’t have time to say more as she was up next.
+
+“Ranged or melee?” asked Dame Lindsay as Elise stepped forward.
+
+“Ranged.”
+
+The knight nodded, then put her hand on the pillar and injected a small amount of mana into it.
+
+“The test begins in three seconds.”
+
+Elise nodded, not looking at the knight anymore. Her eyes were firmly fixated on the crystal so that as soon as the first target emerged, she would be prepared.
+
+She got lucky on her first one, as the target was large and moving in an ordinary parabola, at least at the start. Whether it was set to change direction later, because it did not make it more than a few feet before the first round of {Magic Missile} hit it, followed by the rest of the volley. Each successive strike illuminated the target more and more, though it stopped getting brighter at only a little above the average for the class. That was fine with Elise though, as power wasn’t her main strength. While not as strong as the giantess or as swift as the lightning mage, every single one of her missiles had hit in the dead center of the target, or at least quite close.
+
+The second target was smaller and swifter, but it was not as fast as Elise’s {Magic Missile}, so it too was soon illuminated before vanishing. The third was fast, but also moving irregularly, first going up and to the right before suddenly making a sharp left turn. Elise’s first three missiles hit it on its way up, but the fourth and fifth missed entirely, and the sixth only hit the edge before Elise could finish accounting for the change of direction.
+
+She scowled as the next target came, this one moving in one direction. The fifth target was similarly simple, but the sixth was another tricky one, changing direction not once but twice, meaning that only half of the ten missiles in her volley actually struck it. Frustrated, Elise poured extra mana into the final volley, demolishing the last target and making it light up more than any of the previous ones. She saw Dame Lindsay nod in approval at that, but Elise didn’t feel particularly pleased.
+
+She had entered confidently, but the test had shown her that she had a glaring weakness. She was able to hit living targets who suddenly changed direction just fine… but that was because she was the one causing the sudden directional changes. When she could use {Suggest} to make a monster change its course, it was easy to react because she knew that the change was coming. When it was just a ball of mana without a mind of its own, not only was she going in blind, but she was so accustomed to being able to perfectly predict her targets’ movements that it took her a moment to consciously adjust. Even as enhanced as her mind’s processing was by her Intelligence stat, it had still taken her too long to correct.
+
+She tried not to make her disappointment too obvious as she walked up to Lindsay for her evaluation. However, when she took the paper, she was pleasantly surprised by the results.
+
+Power: 6
+
+Reaction Time: 7
+
+Efficiency: 9
+
+Consistency: 9
+
+Accuracy: 8
+
+Notes: Very practiced. Hunter background? Inaccuracy and reaction time likely due to inexperience with randomized target drill.
+
+Elise looked up in awe at the laid-back knight for having pinned her down so well, but Lindsay was already distracted with the next student. Elise still didn’t feel great about her performance, but seeing her evaluation was more than enough to drive the gloom away. When she returned to the spectating crowd, she quickly forgot about her own worries and worked on encouraging Sophie. By the time they left Dame Lindsay’s station, Sophie wasn’t quite back to her usual, cheerful self, but she was filled with determination, rather than shame.
+
+As they walked across the field, Elise and Sophie found themselves walking next to the giantess again. It was not intentional. It was simply that the other students seemed to want to avoid her, and Elise and Sophie wanted to avoid being swallowed by the crowd, so they drifted outward and ended up in their current position. With Sophie quiet and lost in thought, Elise had nothing better to do, so she introduced herself.
+
+“Hi, I’m Eleanor,” she said, looking up at the giantess. “Can I know your name?”
+
+“Attalaya,” replied the giantess, glancing down at Elise.
+
+“Nice to meet you,” said Elise. “This is my sister, Sophie, by the way.”
+
+“Hello,” said Sophie, looking up from her contemplation. “Nice to meet you.”
+
+Attalaya nodded in acknowledgement.
+
+“You did really well in those two tests,” said Elise. “You’re really strong.”
+
+“True strength cannot be determined by those tests.”
+
+“...I suppose,” said Elise.
+
+Despite her relatively harsh words, Elise barely sensed a trace of emotion from the other woman. There was a hint of disdain, but mostly, she simply didn’t care. She was apathetic to the tests.
+
+“How did you become so strong?” asked Sophie.
+
+“Hard work,” said Attalaya before locking eyes with Elise. “How did you become so strong?”
+
+“What do you mean?” asked Elise.
+
+The giantess stared at her for a few seconds, then looked back ahead.
+
+“If you don’t want to share, I won’t pry.”
+
+“Wait, hold on, what do you mean?”
+
+Elise was simultaneously confused and worried. Attalaya was not expressive, but every word she said carried a certain conviction with it. She did not just think Elise was strong. She knew Elise was strong. And while Elise wasn’t sure if she would call herself strong, she also knew exactly how much of an advantage her aether gave her, and how it could be used to defeat people far stronger than her. However, as far as she could tell, Attalaya had no way of knowing anything about that. She was just convinced that Elise was strong for some reason.
+
+“I have a Skill that evolved from {Danger Sense},” said Attalaya. “It passively informs me of threats in my vicinity. There are many students here that pose some danger to me, but none more than you. I am curious as to why.”
+
+Elise took a moment to look more closely at Attalaya’s aether. There was a bit more than she would have expected for a physical combatant, but not too out of the ordinary. It was also spreading out a bit more than normal, but that wasn’t unusual either. There were many students using aura Skills, or similar detection Skills or things like that around, so Elise hadn’t paid it much attention. Now knowing what it did, she suddenly worried how many others had similar Skills and had marked her as a person of interest without her even knowing. {Subtle Royalty} should have kept her from standing out too much, but it seemed that it wasn’t worth much against Attalaya’s own Skill.
+
+“Hunting,” Elise finally said. “I have hunted many monsters.”
+
+“I see,” said Attalaya, nodding. “Will you be participating in the Dungeon Competition?”
+
+“Hopefully the rookie one,” said Elise.
+
+“Me too!” said Sophie.
+
+“I will be participating as well,” said Attalaya. “I would like to compete with you in the event. I do not gamble, but I think that friendly competition is good for everyone involved. My ambition is to be the strongest, and the best way to become stronger is to compete with other strong people. What do you say?”
+
+She’s very straightforward, thought Elise.
+
+“Sure, why not?” said Elise with a shrug. “Are we competing on placement?”
+
+“Yes,” said Attalaya. “Any other metric would be too difficult to compare.”
+
+Elise nodded in agreement, then Sophie piped up.
+
+“Can I join too?”
+
+“Can you?” asked Attalaya, staring down the young half-elf
+
+Sophie wilted under her gaze, but then, to Elise’s surprise, she suddenly straightened back up as a spark appeared in her eyes.
+
+“Yes,” she said defiantly.
+
+Attalaya nodded in approval.
+
+“I look forward to it.”
+
+The conversation ended there because only a few seconds later, their group slowed down as they reached the last of the knights. Sir Stephen was a bit older than the other two, though still much younger than Professor Lance. While his posture was rigid, and his body looked powerful, his face reminded Elise of her uncle, one of the few relatives of hers that actually treated her well. He had the same short, well-trimmed beard, and though his face was placid, she could tell from the lines around his eyes that this was a man who smiled often.
+
+The device for the evasion test was identical to the one for the defense test. There was no difference in its function, only in how the students were to react to it.
+
+Unlike the other two though, Elise found this test somewhat less interesting. Many students performed poorly, and a few performed outstandingly, but somehow, none really stood out. Movement skills were rarely flashy, so all the successful students just looked like they were moving quickly, and the unsuccessful students looked clumsy. There were a few of note, but nothing that really caught her eye.
+
+She was surprised to see that Attalaya wasn’t actually at the top of the class this time. She was certainly agile, but it was the kind of agility that came from practice and quick reaction time, rather than the kind that came from raw stats. She was able to just barely avoid the smaller and quicker projectiles, but there were two larger, explosive ones that she failed to avoid entirely, simply because she could not move quickly enough.
+
+Sophie actually performed fairly well on this test. Elise attributed it to her experience as an Apprentice Mana Dancer. While it was not a combat Class, it made Sophie very adept at controlling her body, and her reaction time was definitely above average. She suffered from having relatively low Agility as well, so the explosive attacks still hit her, but she performed much better than any of the other pure mages, and many of the heavy warriors.
+
+Elise’s own attempt wasn’t much different. {Move} was certainly a powerful Skill, but it scaled with Agility, and since she was landbound at the moment, her mobility options were quite limited. She outperformed both Sophie and Attalaya, but even so, she still got clipped by one of the explosive rounds when {Move} didn’t quite take her far enough away. Her report card for the test wasn’t anything particularly surprising either.
+
+Speed: 4
+
+Reaction Time: 8
+
+Efficiency: 5
+
+Consistency: 5
+
+Notes: Calm reactions. Good judgment. Low stats. Sloppy movements. Avoid direct combat when possible.
+
+Elise was a bit surprised to see her Efficiency and Consistency so low, but then again, {Move} wasn’t really a Skill she excelled at. She had grinded it up to the level cap, but she hadn’t delved deeply into how it worked. No doubt there were ways to get better with it, but she hadn’t really thought too hard about it.
+
+The Skill aside though, once again, she was made aware of a weakness of hers. It was another facet of the same weakness, actually. When it came to fighting living opponents, she didn’t really need to dodge. She could just make the enemy miss. Inanimate attackers like this, though, were unfortunately immune to {Suggest}. Well, not entirely. She could sense that there was aether involved in how the pillars functioned, but it was still not a valid {Suggest} target. Perhaps when she evolved once more and got {Aether Manipulation}, even these would no longer pose any trouble to her.
+
+Until then though, she had a severe weakness against non-living enemies, and while they were rare, completely artificial monsters such as golems did exist, so even outside of simple tests like these, there were things that could give her a lot of trouble. And that wasn’t even mentioning the beings that were simply too powerful to be susceptible to her manipulation. Beings like Freddy, or Oberon, who could simply shrug off any of her attempts to distract them, or like Rayna, who could create mental defenses that even her absurd aether couldn’t break down.
+
+As an aether specialist, the solution to those issues for her was to simply get more powerful with her aether, but she didn’t want to neglect her other skills. They had served her well until this point, and would continue to do so, even if her main efforts were directed elsewhere. For that reason, as she returned to the changing room to switch her clothes back, she was extremely glad that she and Sophie had signed up for this class. With her evenings taken up by her soul practice, it was good to have a designated time of day when she could train her other abilities.
+
+Sophie was in a much better mood after the third test, and when they walked down the road away from the lecture hall, she was happily talking about how she was going to train super hard in the next few weeks. She wanted to both not embarrass herself at the next evaluation in Basic Magical Combat, and also to make sure she qualified for the rookie Dungeon Competition. Elise had not realized that Sophie was such a competitive person, but Attalaya’s words seemed to have lit a fire in her.
+
+Elise had to admit that even she was a bit inspired by Attalaya. The skill she had and the absolute confidence with which she wielded it was impressive, but more than that, something about her conviction resonated with Elise. Unlike herself, Attalaya was absolutely sure of who she wanted to be, and was putting everything she had into making that a reality. Elise envied her sense of purpose, and wanted to emulate it.
+
+Elise and Sophie walked down the road away from the building, and when Sophie made a right turn to head home, Elise made a left to head to the center of the campus.
+
+“Eleanor?” called Sophie, looking back in confusion.
+
+“Jessie is coming over tonight, remember?” she said. “She’s waiting for us by the fountain.”
+
+Sophie blinked, then smiled.
+
+“Oh yeah! Let’s go!”

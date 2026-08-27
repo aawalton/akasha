@@ -1,0 +1,97 @@
+---
+id: 6c5f5d29-f088-5a2c-9c6a-e22ed9161d10
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1595 - The Sizzling Spectacle"
+slug: 0243-chapter-1595-the-sizzling-spectacle
+partOf: chrysalis
+position: 243
+ownLength: 986
+unit: words
+ownProgress: 986
+publishedAt: 2025-06-30
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2395925/chapter-1595-the-sizzling-spectacle"
+royalRoadId: "2395925"
+markedReadAt: "2026-06-29T19:51:35.349Z"
+---
+
+You know… Gravity Compressed Diamond is really impressive stuff. It’s just so… so dense. Honestly, it might even give Tiny a run for his money.
+
+I leap into the giant ball of oncoming mucus and it immediately splats me back down again, which is unpleasant, I’m not going to lie.
+
+I half expected it to eat through my carapace in a matter of seconds, this is the fifth after all, but no! The diamond holds firm!
+
+Well, my diamond holds firm. The diamond coating on the platform isn’t doing nearly as well. Hurts like absolute heck, though. It’s like having a bath in the kind of acid you use to melt other acids. My antennae are really feeling it, delicate sensory organs that they are. After a few seconds, I don’t have antennae anymore.
+
+At least the Colony managed to work out how to use Bertram’s water gun by that time. After being blasted with high velocity water at close range, they’ve managed to wash off a lot of the goo, but it’s going to take a lot more than that to get all of it off me. At least the acidic mucus should have burned off a few of the nets.
+
+Ah, of course it hasn’t. Why would the Krath use non-mucus resistant net-ooze? In fact, it feels like they’re starting to reel me in. I can feel the ropes tightening, feel my carapace getting dragged across the floor.
+
+Fools! You think I’m done for? Hah!
+
+I spring to my feet, except that I don’t. Holy moly, my legs are in bad shape.
+
+The Krath plan doesn’t appear as if it’s over, either. Behind the mucus wave, they’ve sent another horde of monsters charging toward the platform. All sorts of beasts of various shapes and sizes, all desperate to throw themselves into the cleansed mana and destroy it.
+
+I can tell that the Colony is rallying. Barriers are going up, the scouts are firing coordinated acid barrages against the slugs above us and the oncoming horde. Mages have formed teams and are casting their best long-range spells, raining down terror with the help of Rathwyn and the others.
+
+The humans are in on the action as well. Chanting priests, with their ridiculous antennae-hoods, are chanting at the tops of their lungs while those around them leap into battle with fanatical fervour.
+
+You need to relax a little guys, no need to be so intense.
+
+I personally, am feeling quite mellow. A little sleepy even. Which is… weird… now that I think about it.
+
+Oh, these lousy nets are still on me! Give it a rest, would you! A few of them have finally oozed their way into my joints and have found an opening to deliver their venom. It’ll take ages to put me down, I’m rather large, after all, but it’ll work eventually.
+
+These dang slugs are working hard. I trigger my regeneration gland again, letting the ice-cold fluid flow throughout my body to help heal my wounds. Gah, this is rough.
+
+“Eldest! Are you alright?”
+
+Wow, the healers are sounding pretty upset. It’s not often they show such genuine concern. I should say something to reassure them.
+
+“I’m fine,” I say cheerily waving what remains of my rear left leg. “As if the fifth can cook up something strong enough to hurt me.”
+
+“You’re fine, are you?”
+
+“Of course!”
+
+“Then walk over here, you moron, so I can hit you!”
+
+The rest of the healers also chime in.
+
+“You blocked that mucus yourself! I saw you! Do you think we don’t have enough work or something?!”
+
+“Making life difficult for us healers, as usual!”
+
+“You never think of the little ant!”
+
+“Oi! I yell back, a little annoyed at this point. “I frequently think of the little ant! I give your caste more help than anyone else in the entire family!”
+
+They consider this for a moment.
+
+“It’s not enough!”
+
+“Yeah!”
+
+“Taking care of the rest of you is an impossible task!”
+
+I mean… they have a point there.
+
+“Your concerns are legitimate!” I yell back to them. “Let’s discuss this when I’m not being dragged away by evil slugs.”
+
+I feel like it’s a fair position to take. There are many, many ants wanting to rush toward me, I can tell that, but I continue to wave them off. Even touching this super mucus would probably put them down for the torpor that does not end. They blast me with the water again, which gets some mucus off me, but there is still a lot of it. Eventually, the cleansed mana will burn it away, but it's taking time. Time I don’t really have.
+
+I’ve still got tricks up my sleeve, of course. Or, I could just take a nap…
+
+No! No napping! Time for tricks.
+
+Acting as helpless as I can, I let the slugs continue to pull me toward the edge of the platform while the Colony braces for the charging monsters, ranks of brave heroes taking their place in the line.
+
+I wind back my mandibles.
+
+The Altar isn’t full by any means, but there’s some juice in there, enough to cause some problems, no doubt.
+
+Having my carapace scraping against the diamond coating of the platform isn’t all that pleasant, I have to admit, but I endure it, letting them slowly pull me forwards. Yes… this is your moment, you filthy slugs. Enjoy it! Savour it!
+
+When they finally get me to the edge, the ants continuing to keep their distance, I brace myself. It takes them a second to pull me up onto the lip of the wall around the outside of the platform, but they get it done. Thanks to a little manipulation with my legs, my face just happens to be pointing outwards toward the oncoming horde and the wall which the Krath are clinging to.
+
+Which is when I unleash my empowered Starcrusher chomp.

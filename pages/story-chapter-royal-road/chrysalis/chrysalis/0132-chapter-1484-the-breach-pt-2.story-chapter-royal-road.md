@@ -1,0 +1,61 @@
+---
+id: 9d6b9655-b0f6-5ee0-ab37-3602c0e566e3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1484 - The Breach pt 2"
+slug: 0132-chapter-1484-the-breach-pt-2
+partOf: chrysalis
+position: 132
+ownLength: 998
+unit: words
+ownProgress: 998
+publishedAt: 2025-01-10
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2001678/chapter-1484-the-breach-pt-2"
+royalRoadId: "2001678"
+markedReadAt: "2026-06-29T19:56:37.268Z"
+---
+
+The Krath reinforcements slithered forward, their bodies pressed flat to the rock, using every fold and crevice within the rock to conceal their presence. Changing the colour of his outer flesh to blend in, Zluth crept alongside them, drawing ever closer to the battle raging at the edge of the wall of blue mana.
+
+Once he was in position, alongside the other Krath’sizz, he grew still, his eyes barely raised atop their stalks, peering eagerly at the unfolding struggle.
+
+Monsters were hurling themselves into the blue energy, letting it consume them, but disgorging huge volumes of virulent mucus that sizzled and hissed, releasing dense toxic mana into the lines of the ants. The normally iron-straight, disciplined lines of the ants were broken in several places as pools of sludge slowly dissolved beside them. The non-monstrous invaders had been drawn back, likely so they could sacrifice the ants if things went poorly, ensuring their own escape.
+
+Zluth was determined they wouldn’t escape him. Not only would they drag ants away to the pools, but humans, golgari and Folk as well. Everyone would pay for daring to try and take that which rightfully belonged to the tribes!
+
+He was hungry. No, he was more than hungry, he was starving, but what he wanted was not sustenance. No, he hungered for suffering, the suffering of the invaders. He wanted it so badly his mouth watered and the acid flowing through his flesh boiled from the strength of his desire.
+
+So it was that Zluth, and all the other Krath gathered with him, waited with almost unbearable anticipation as the pressure continued to mount.
+
+Sluzzl led his attack from the front, or as close to the front as was reasonable. A significant pool of mucus had been built up close to the blue-mana zone, and the Krath continued to push it forward and add to it. Whenever it touched the barrier, it sizzled and hissed, releasing its corrupt energy and draining away the blue mana, but it never lasted long. To actually break through, they would need much more.
+
+Which was exactly what Chozth was about to deliver.
+
+The fighting at the front was already intense. Yet it was only a shadow of what was soon to come. It started with a rumble, a vibration that Zluth could detect through the rock beneath his foot. The monsters were coming.
+
+Judging by the frenzied reaction amongst the ants, they could also tell, but it was too late. Far too late.
+
+Zluth watched eagerly, waiting for the signal. It didn’t take long for Chozth to reveal herself, rising from her position in the centre of the ceiling.
+
+“GUGUGUGUGUGUGUG!” she laughed, uproarious and savage, her laughter reverberating through the tunnel.
+
+As one, the Krath rose from their hiding places and unleashed their magic.
+
+Zluth reached deep within himself, summoning the power of acid he had carefully cultivated all his life. Refined and purified over and over again, burning him from the inside out as his tolerance grew to accommodate its strength. It was exactly that strength he drew on now, concentrating the acid in his flesh, drawing deep on the toxic mana of the fifth stratum around him and flooding his body with its poison.
+
+His flesh swelled, acid and mana mixed, burning him from the inside out, but he embraced it, drawing in more and more. When the mix had become as potent as he could make it, Zluth began to weave. He wasn’t the most accomplished Krath mage, his acid wasn’t potent enough, and only after his promotion to Krath’lath had he gained access to the resources needed to practise, but he was learning quickly.
+
+When his weaving was finished, he pushed the power from his body in one explosive burst. A ball of dense mana formed in front of his face, swelling with the energy he expelled. When he was done, it blasted away from him, spraying a deadly rain of toxin in all directions.
+
+Dozens of Krath performed similar works of magic, unleashing their most potent techniques, sending their spells flying toward the wall of blue mana in front of them.
+
+Of course, nothing they produced compared to what Chozth unleashed. From her open mouth, a seemingly endless stream of lurid yellow slime poured, falling from the roof down the floor where it pooled, bubbling ominously. On and on she poured out more and more power, her acid so powerful the sizzling stink of it soon overwhelmed the entire tunnel. The larger the pool grew, the more it frothed and hissed. Zluth’s own magic had already penetrated the blue mana, clashing with the foreign energy as the constant spray of acid from the central ball was dissolved by the blue energy when Chozth ceased the stream of sludge.
+
+Even though she’d stopped, the now enormous pile of goop continued to grow. In fact, it grew even faster than before, spreading wide across the tunnel. Once it had reached a critical mass, the sludge rose suddenly, climbing ten metres high across a hundred-metre-wide span, then launched itself forward, a wave of dense slime that rolled over the tunnel floor, seemingly uncaring of anything that was in its way.
+
+Reacting quickly, the ants withdrew before it reached them, but they couldn’t prevent all the damage. The sludge rolled right into the middle of the blue wall, and punched a hole straight through it. Weakened by all the spells thrown at it, the front of the blue wall gave way before the wave, unable to consume it fast enough. In the gap created by the sludge, toxic mana flowed, filling it in and creating a wedge in the ant defences.
+
+Rumbling from further down the tunnel intensified as the monsters the Krath had painstakingly herded finally arrived. Like maddened beasts, they charged directly into the weak point Chozth had created.
+
+Grinning widely, Zluth and all his fellow Krath moved forward into the widening breach.
+
+There would be prisoners aplenty soon enough. He couldn’t wait.

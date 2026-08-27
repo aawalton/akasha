@@ -1,0 +1,77 @@
+---
+id: 331c4ccd-174a-5320-b5d6-932eeb8b18f9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1439 - The First Showdown"
+slug: 0087-chapter-1439-the-first-showdown
+partOf: chrysalis
+position: 87
+ownLength: 1045
+unit: words
+ownProgress: 1045
+publishedAt: 2024-10-25
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1867068/chapter-1439-the-first-showdown"
+royalRoadId: "1867068"
+markedReadAt: "2026-06-29T19:46:42.951Z"
+---
+
+So, like everywhere in the Dungeon, there are pockets that have been ‘claimed’ by the biggest and baddest monsters as their own personal hunting ground.
+
+It makes sense, really. The monsters who manage to survive long enough to form their cores, evolve a few times and get their Skills ranked up have a massive advantage over the fresh spawns. If they avoid the other monsters who managed to do the same, then they’ll have an easy, if slow, path to progress by preying on creatures weaker than themselves. Confrontations between the biggest and strongest monsters don’t make sense, there’s too much risk.
+
+This is only the case if they achieve sufficient levels of intelligence, which is probably why such powerful landlords were less common up in the first stratum. The monsters there just don’t get that intelligent, acting more like Tiny and throwing themselves into battle after battle. Eventually they’ll fall, or grow strong enough to descend deeper, where they fall anyway.
+
+That’s not the case here. Some monsters of the fifth are smart enough to survive, to avoid being infested with parasites, and to accumulate strength until they reach the point where they’re able to thrive. Too tough to be worth hunting for the Krath or other monsters, they carve out their own niche and battle to keep it, maintaining their existence by feasting on those who manage to grow strong enough to provide sustenance.
+
+Now that the Colony is pushing further and further into the fifth, we’ve started to brush up against the lands claimed by these creatures, and it falls to yours truly to go hunt them down.
+
+After twelve sweet hours of rest, letting my carapace heal naturally and ensuring there is no speck of corruption within me, I am once again ready to face the wild, untamed, and super, super toxic fifth stratum.
+
+It doesn’t take long for me to find what I need. The Colony has been employing more and more ants whose Skills and abilities align with Brilliant in some capacity. Mages with the ability to glean information from the Dungeon itself, which seems like some sort of witchcraft to me. It’s these ants who direct me down a curved tunnel that opens to another deep pool of literally steaming mucus which fills the entire cavern with a noxious mist.
+
+All in all, it’s a super pleasant environment, so it shouldn’t be too surprising that a giant turtle creature has decided to set up shop inside.
+
+I stand on the banks of the borderline lake, and, at first, I can’t even see the lousy creature.
+
+My mind constructs are spinning up, and I’m ready to unleash some serious pain, but I don’t know where to aim it. All I see is slime everywhere, with hills and bubbles of goop rising and falling on the surface. The corruption confuses my senses, as always, eating away at the mana and making everything hazy.
+
+There’s a big bad beasty in there somewhere, I just need to draw it out.
+
+Stealthily, I begin to gather my gravity mana. It’ll be hard for the monster to hide when this entire mucus puddle is sucked up into a black hole and crushed.
+
+However, it appears as if I’m not as sneaky as I thought I was. My antennae flare in warning and I fling myself to the side as something large comes flying out from beneath the surface and crunches down at the place I just occupied.
+
+What in the name of heck!?
+
+Before it can retreat beneath the surface, I whip together a spell and unleash it.
+
+Dragon’s Breath!
+
+The scorching hot fire ignites the air and raises the temperature to an inferno within an instant. The mucus starts to hiss and steam furiously as a monstrous bellow echoes out from within.
+
+That’s it, mister monster, come and say hello!
+
+Again, my antennae sense danger and I’m forced to fling myself to the side as something bursts out of the muck and crashes down like the jaws of a titan. At least this time, I’m able to properly see what it is!
+
+That’s an energy attack, just like my mandibles when I use void chomp, or Tiny’s fists. That wasn’t the monster at all, but the projection of its bite! The lousy thing still hasn’t shown itself at all!
+
+Well, I have a solution for that!
+
+Gravity Bomb!
+
+My most devastating spell howls into existence, aimed directly into the heart of the mucus pool, and I leap back to give it space to enact its terrifying work. However, something happens that truly shocks me.
+
+The entire pool of mucus begins to move. As if controlled by a single will, the unspeakable goop flows together before launching at the bomb, blasting upwards in a stream of concentrated foulness.
+
+The bomb instantly expands to its full size, causing the air to shriek in protest as it is sucked away and crushed, but even that is soon cut off. In a shocking scene, the mucus engulfs the bomb, more and more of the goop rising up to coat it just as fast as it can be consumed.
+
+Of course, there isn’t an endless supply of sludge, and from within the diminishing pool the form of my opponent begins to take shape.
+
+That wasn’t a mound or bubble in the middle of the pool, it was a shell. Glaring up at me with hateful eyes is the most foul turtle I’ve ever seen, a thick wave of mucus pulsing from its shell as it produces a swimming pool worth of the stuff every second. A wicked, razor-sharp jaw, like a snapping-turtle, juts forward from its head, exposing the source of those vicious bite attacks.
+
+With a whimper, my gravity bomb dies out, and the mucus is reclaimed by the monster, pulling the remainder back into its pool, where the hyper-condensed mush produced by the bomb falls heavily, drained of its mana.
+
+The monster huffs a mighty breath and snaps its jaws, the sound so loud it shatters the air as it rebounds off the distant walls.
+
+Oh, you think you’re taunting me, mister turtle? You think that was the most powerful bomb I’ve got? You are very mistaken.
+
+I’ve got plenty more in the tank. Have you?

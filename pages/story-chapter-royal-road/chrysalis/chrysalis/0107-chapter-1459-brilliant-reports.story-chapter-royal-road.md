@@ -1,0 +1,119 @@
+---
+id: b57a7827-2c5b-53b0-b823-056cf7e8cc62
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1459 - Brilliant Reports"
+slug: 0107-chapter-1459-brilliant-reports
+partOf: chrysalis
+position: 107
+ownLength: 1015
+unit: words
+ownProgress: 1015
+publishedAt: 2024-11-22
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1917170/chapter-1459-brilliant-reports"
+royalRoadId: "1917170"
+markedReadAt: "2026-06-29T19:47:30.106Z"
+---
+
+It seems the Krath are planning on being more cautious this time around. That’s honestly more what I expected from them, as opposed to their rather upfront and gung-ho approach we’ve witnessed till now.
+
+Everything we know about them says that the slug tribes are the wiliest, most frustrating and downright nasty creatures a person can fight in the Dungeon. I didn’t think I’d even see a Krath for ages, let alone have them charging at me almost as soon as we arrived.
+
+This feels more like what I expected. They’re going to poke and prod, try to work out what I can do, and devise a cunning plan to deal with me once and for all. It’s annoying, but I think I’ve learned enough for the moment to warrant heading back to report.
+
+Also, I’m missing the end of one of my legs.
+
+Having all six legs in operational condition is the bare minimum requirement for extensive investigation. It’s painful enough going out there without any open wounds.
+
+As the Krath retreat, so do I, and Victor is a little surprised to see me back so soon.
+
+“They’re out there,” I confirm, waggling my leg stump. “Tried to catch me with some sort of weird, living net-thing. It seems they’re quite keen to capture one of us.”
+
+“As if we’d let them,” she huffs.
+
+“There’s way more out there than I expected,” I warn her. “If the other tunnels are similar, then there’s a lot of Krath hanging around. I think they’re looking to do something major, soon.”
+
+“I’ll send word to Solant. We’ll be on the lookout.”
+
+Soon the scouts run off to deliver messages, and I watch as the attitude of the surrounding soldiers grows even more grave, if that were possible. Knowing that there’s a horde of maniacal slugs out there is one thing, knowing that they’re right on your doorstep is another. I have no doubt the Colony will be ready when the Krath finally decide to take on the safe-zone.
+
+Even though I was only out for a short period of time, the healers subject me to another vigorous examination and purification process. I swear they enjoy forcing me to sit and wait while they poke and prod at me. Eventually they give me the all clear after inspecting my leg for what I would consider to be way too long.
+
+When that’s all out of the way, I decide it’s time to call on Brilliant and see if she’s made any progress regarding our ‘friends’ over at the Church of the Path. Reaching out to her via the Nave, I prod her to see what she’s doing.
+
+[Hey, Brilliant. Got a second?]
+
+[What? No,] she grumbles. [I’ve got a hundred different research projects on the go.]
+
+[Is that really an issue?]
+
+[No, because I’m BRILLIANT!]
+
+[That’s what I assumed. Can you pop down to the fifth for a chat?]
+
+[Aren’t we talking now? Why do I have to go down there?]
+
+[It’s better to hold conversations in person.]
+
+[You want me to hop through dimensions for your convenience?]
+
+[Yes.]
+
+[... Fine.]
+
+It takes a surprisingly short amount of time for the little mage to appear. She pops into existence so quickly that I assume she was on the way from the moment I first reached out to her.
+
+I’m lying on the ground, getting some leg-regeneration time, and all of a sudden I have an ant on my back.
+
+“Working hard, I see,” Brilliant quips.
+
+“I had to bite my own leg off to escape a Krath trap. Give me a break.”
+
+“Sounds like things are going much as Solant expected then.”
+
+“Wait, she consulted you? I didn’t realise you’d spoken at all.”
+
+“Of course. I chat to Solant and Vibrant semi-regularly. Share perspectives, discuss differences of opinion and upcoming projects.”
+
+A champion chat club? I had no idea that existed. I suppose it’s a good thing; they have unique ways of looking at the Colony, and it certainly doesn’t hurt for them to cooperate with each other.
+
+“Putting that aside, I wanted to speak to you about the Church of the Path.”
+
+“I assumed as much.”
+
+“What have you learned?”
+
+She falls silent for a moment, unusual for Brilliant. Hesitance is the last thing I would ever expect from this braggadocious individual.
+
+“Do you really want to know, Senior?” she says, finally. “It’s… not good.”
+
+I don’t even know what to say about that.
+
+“They took one of our family, Brilliant. There is no way I’m ever going to let it go.”
+
+“I suppose that’s true,” she sighs. “I’ve been investigating this as you asked, and I believe I’ve learned what they want with us, and the process through which they achieve their goal.”
+
+“There’s a process? What the heck are they doing over there?”
+
+“The Church has some… interesting beliefs. I think you know some of it?”
+
+“The Dungeon and monsters were created to give the sapient races a way to ascend… or something.”
+
+“Right. However, the Church takes this view to the extreme. In their eyes, the Dungeon, and the monsters created within, are resources that only exist to empower the worthy.”
+
+“There are plenty of groups who try to exploit the Dungeon,” I shrug. “Just about everyone does it to some extent, even us.”
+
+If I’m being honest, the Colony has worked to exploit the Dungeon on an almost industrial scale.
+
+“It’s more than just the extreme nature of the attitude, it's the methods they choose to apply. This is where the Nectar comes into play.”
+
+“Nectar?”
+
+“It’s a highly prized liquid only available through the Church, as they alone know the method of its creation. Remarkable stuff, apparently. Just by drinking it, one can gain experience and levels.”
+
+“From a drink?!”
+
+That sounds outrageous, but even more than shock, I feel a sinking feeling develop deep in my core. I’m starting to see why Brilliant might have been reluctant to tell me about this.
+
+“Just spit it out. How do they make it, Brilliant? You know, don’t you?”
+
+“Of course, Eldest. I’m Brilliant.”

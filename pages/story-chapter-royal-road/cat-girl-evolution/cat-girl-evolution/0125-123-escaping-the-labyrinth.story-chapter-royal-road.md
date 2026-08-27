@@ -1,0 +1,221 @@
+---
+id: 4d3cf29b-380f-5c0b-a47d-ed2567d70578
+page-type-slug: story-chapter-royal-road
+title: "123 - Escaping the Labyrinth"
+slug: 0125-123-escaping-the-labyrinth
+partOf: cat-girl-evolution
+position: 125
+ownLength: 2102
+unit: words
+publishedAt: 2026-05-06
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3361215/123-escaping-the-labyrinth"
+royalRoadId: "3361215"
+---
+
+During the remainder of my shift on watch, I think about how best to handle the sudden twist of the First Event. On one hand, Joakim might be beyond my capability to deal with. Necromancers are supposed to be super dangerous, and he’s a Named monster with a Sin Trait to boot.
+
+On the other hand, I am Princess Yona. Also, if I kill him here and now, that means that I don’t have to deal with any of the other First Event nonsense. I can safely pursue my Delicacies in relative peace, at least until the Second Event starts. And I doubt that’ll be anytime soon. I bet there are plenty of Avatars whose Targets are on completely different continents. I probably have at least a year before it all wraps up.
+
+But will the others agree? And can I do it alone if they don’t? Maybe I can get A to give me a few of those beam attacks. I still have a few of her mana bombs stored up, but those are from before her Class Evolution, so I’m sure they’re quite a bit weaker than what she can make now. And if I can pre-charge some attacks that can instakill a Tier 4 Disaster, I’ll have this win in the bag. Probably.
+
+At the very least, I’m pretty sure that Joakim doesn’t have that much raw power. He’s a Leader type, so unlike Joshua, his stats aren’t going to be anything too insane, and he’s a Necromancer, meaning that most of his power is concentrated in his minions. Theoretically. Unless he’s a “necromancer” like in that one comic. Either way, though, he should be killable.
+
+Abby, what should I do?
+
+“I think we should kill him.”
+
+Huh? Really?
+
+“Yes.”
+
+I thought you’d be against taking risks.
+
+“I think in this case, the risk is smaller than it may seem. As far as I am aware, the reason that a necromancer is considered such a dire threat is their ability to propagate their power. Even without the Named Leader System, a necromancer can rapidly devour large swaths of land, spreading their influence and building a veritable army. Except that isn’t as much of an issue here. The fact that he hasn’t been found means that he can’t have taken too much land, so his army is relatively small, and you’re currently in his Dungeon. In the Dungeon in general, but especially on this Floor, he can’t even come close to bringing the full force of his army to bear.
+
+“Also, in a way, your abilities are a direct counter to his.”
+
+Really?
+
+“He can manipulate dead bodies. But do you remember what happened when you fought those manipulated dead bodies on the first Floor?”
+
+Oooh, you’re right! Alright, that settles it!
+
+When the others wake up, I immediately tell them my updated plan, and they don’t quite jump at it as enthusiastically as Abby and I did.
+
+“What caused this sudden change of mind?” asks Lauren, looking at me with suspicion. “Did you learn that the necromancer is actually a delicious Named monster or something?”
+
+“Well, that would be pretty cool, but no. I just want to save lives.”
+
+“Right…” says Lauren.
+
+“Also, remember how I told you guys about that Chosen One competition?”
+
+“Yeah?”
+
+“Well, basically, an event started, and I’m supposed to kill him.”
+
+“Ah, there it is,” says Lauren. “So this is part of that ‘Chosen One Competition’?”
+
+“Kind of. Mostly, though, if I kill him, I pass the event, and I don’t have to deal with it anymore. If I don’t, then someone else will be trying to kill me, and that’d be annoying. They might even be stronger than Joakim.”
+
+“Hmmm…” says Lauren.
+
+“Plus, I think we’ve got a pretty good shot,” I continue. “We should be enough to handle him, probably. I mean our abilities basically counter his. For example–”
+
+“Yona,” says A, interrupting me.
+
+“You probably shouldn’t explain that out loud,” says B, pointing to the ceiling.
+
+“...Oh, right,” I say.
+
+I forgot that he could be listening to us. There goes the element of surprise.
+
+“Oops,” I continue. “Well, Joakim, if you’re listening, fuck you, and we’re coming to kill you! Surrender and we’ll make it painless!”
+
+There is no response.
+
+“Well…” says Lauren after a few seconds. “If we’re doing this, and he now knows we’re doing this, we need to get moving, and double up on the caution. He already has at least one person after us. Who knows how many more he could send? And we’ll need to be extra cautious of ambushes now. Also, I’d like to put forward that I think this is a really big thing to suddenly decide, and that there’s a reason that necromancers are so feared and that we should consider leaving the Dungeon after this Floor so we can prepare better.”
+
+“It’s not a bad idea,” says A.
+
+“Is there any time limit on your Quest?” asks B.
+
+“No, but the sooner we do it, the better,” I say.
+
+“If we go back out, we might be able to get more information from the Maligar Dungeon Core.”
+
+“And it’s not like we would lose that much time.”
+
+“We would be able to complete the first Floor fairly quickly and get right back to where we are now.”
+
+“Though that would also depend on how long this Floor takes to complete.”
+
+“I guess we could decide when we get there,” I say. “We could also discuss strategy without being overheard.”
+
+“Exactly,” says Lauren. “So that settles it, then? If we complete the Floor quickly enough, we’ll go back out, talk to the Maligar Dungeon Core, strategize a bit, and then come back in?”
+
+“Sounds good,” I say.
+
+With that, we pack up our mini-camp, storing away our sleeping arrangements and Lauren’s cooking implements before setting out down the tunnel. We move slowly with Chad shielding the front, and B shielding the back. But surprisingly, we don’t encounter many issues. That shadow assassin from when we first entered never shows back up, and the only enemies we find are clearly designed for the Floor, since they’re pretty weak. There are some random traps, some of which contain weak monsters, a couple puzzle rooms, and one minotaur that’s actually kinda strong, but that’s it.
+
+At some point while we walk, Abby mentions that the Dungeon is technically ready to be used, but since we’re a little busy, I can’t check it out just yet. She is fine with that, since it gives her more time to tinker with it before I see it.
+
+After eight hours, we turn a corner to see sunlight streaming through the tunnel ahead of us. We move extremely cautiously, wary of last-minute attacks after being lulled into a false sense of security, but there’s still nothing. We reach the tunnel and emerge into a grassy plain without issue, and an Annoying Yellow Box announces our success.
+
+[ You have successfully escaped the Labyrinth and completed the Floor Challenge. Reward: Auto-map ]
+
+In our hands, parchment scrolls appear, and a simple inspect reveals that these maps are basically exactly what they seem. When you open them, they will start charting your current location, filling out as you travel. They’re reusable too, and can be reset at any point. A pretty nifty tool, actually, and they’ll probably make this Floor significantly easier when we come back.
+
+“Well, that was definitely quick,” comments Lauren. “Back to Maligar?”
+
+“Ye–” I start.
+
+“Wait,” says A.
+
+“Something’s strange,” says B.
+
+“What?” asks Lauren.
+
+“That was too easy,” says A.
+
+“Suspiciously easy,” agrees B.
+
+“Yes, I agree.”
+
+Hmmm, now that I think about it, that was kinda easy.
+
+“And what about the assassin?” continues A.
+
+“Why attack once when we arrive, but not while we traveled?”
+
+“Maybe they were hoping to get a lucky kill?” suggests Lauren. “And we were on high alert after their first attempt. They probably couldn’t find another opening.”
+
+“Maybe.”
+
+“But we don’t think so.”
+
+“There were times when we intentionally lowered our guard to lure them out.”
+
+“They should have attacked at some point if they were still around.”
+
+“You what?!” exclaims Lauren.
+
+“That’s not important right now.”
+
+“What’s important is that we’re pretty sure that the assassin wasn’t even here while we were moving through the labyrinth.”
+
+“But they were here while we were camping out.”
+
+“We sent a small magical probe down the tunnel during our shift.”
+
+“It was faint, but we did detect a presence.”
+
+“But they never appeared again after that.”
+
+“Maybe they gave up?” I suggest.
+
+“Or maybe, they were commanded to back off.”
+
+“But why?” asks Lauren.
+
+“The same reason they attacked in the first place,” says A.
+
+“They don’t want us getting to the next Floor,” says B.
+
+“When we planned to continue, they had the assassin waiting to slow us down and stop us.”
+
+“But as soon as we decided to leave the Dungeon after this Floor, they backed off.”
+
+Everyone goes quiet for a few seconds as they let that realization sink in.
+
+“I think we should go up,” I say.
+
+“We agree,” say the twins.
+
+“I don’t know…” says Lauren.
+
+“Every second we wait is a second they can spend preparing for us,” says A, already pre-charging mana in her hand.
+
+“Whatever we decide, we should do it right now,” says B, also pre-charging mana.
+
+“Shit,” says Lauren. “Shit, shit, shit.”
+
+She glances at Chad, who hesitates, then nods.
+
+“Alright, fuck it,” says Lauren. “Prepare for an ambush. We go up in ten seconds.”
+
+I summon my sword and imitate the twins, pre-charging an attack, and at the same time, I summon my tentacle maw and attach it to my back. Lauren’s ten seconds pass painfully slowly, and at the end, when the world turns dark, it’s almost a surprise.
+
+When we appear on the next Floor, we’re in what seems like a hospital room. Not a modern one, though. There are four beds and some magical machine-looking things that are probably to monitor vitals. There’s no one immediately attacking us, but we all still stay on high alert as we read the Floor Challenge and take in our surroundings.
+
+[ Floor Challenge: Escape the horde without getting infected ]
+
+As soon as I read the Quest, I start laughing out loud. The others give me a strange look, but a second later, Abby starts laughing with me. I now know exactly why they didn’t want us coming to this Floor. Outside this room, on the ground three stories below, there are zombies. Hundreds of them. Probably even thousands beyond the range of Food Sense. Thousands of zombies full of Dungeon essence.
+
+“Yona?” asks Lauren nervously.
+
+“There’s a–” I start, cracking up. “There’s a horde of zombies outside.”
+
+At that, the twins start chuckling too.
+
+“Nice going, Joakim!” I shout at the ceiling. “You dumbass! You screwed yourself over.”
+
+“So I did,” says a voice.
+
+We all turn toward the door as it opens, revealing a procession of humanoids, in the center of which is the necromancer himself. Immediately, I try to catch him by surprise and Snatch him, but he brushes my mana off with relative ease.
+
+“Well played,” he says. “I admit, I made a mistake. Unfortunately for you, so did you by underestimating me. I didn’t expect to–”
+
+I cut him off by releasing my Spatial Slice aimed right at him, through the big armored undead blocking my way. To my surprise, the big armored dude actually manages to block the attack. Not completely, but the little bit of mana that gets through only manages to cut into the armor a little bit, not even drawing blood.
+
+“I was talking!” says Joakim indignantly.
+
+“Don’t care,” I say.
+
+As I say that, I summon four mana arms anchored to myself, grab my four Party members, and Blink us outside right to the waiting horde of zombies. Joakim screams after us, and a moment later, he and his five undead burst out of the window to follow us, but they’re a little late. Outside the enclosed room, the twins have more space to maneuver, Lauren already disappeared into the shadows, and my flesh construct has already consumed two zombies, feeding me blood and mana.
+
+“You monster!” screams Joakim, firing a bolt of ugly purple mana at me.
+
+I simply Blink out of the way, letting the bolt explode against the ground where I just was, and as soon as I reappear, I immediately make the tentacles grab two more zombies and pull them into the shark maw.
+
+Time to feast.

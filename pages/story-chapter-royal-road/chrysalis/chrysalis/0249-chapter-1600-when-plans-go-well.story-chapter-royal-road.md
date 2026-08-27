@@ -1,0 +1,105 @@
+---
+id: a3581c00-8c00-5c46-b0d2-36d05f3bfe39
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1600 - When Plans Go Well"
+slug: 0249-chapter-1600-when-plans-go-well
+partOf: chrysalis
+position: 249
+ownLength: 1027
+unit: words
+ownProgress: 1027
+publishedAt: 2025-07-07
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2414898/chapter-1600-when-plans-go-well"
+royalRoadId: "2414898"
+markedReadAt: "2026-06-29T19:51:46.923Z"
+---
+
+[See? Everything’s fine.]
+
+[I fail to see how this is fine, Master!]
+
+[What do you mean? We aren’t going to die. In the next few minutes.]
+
+[That we know of!]
+
+[Look, I’m not saying it’s ideal, but it isn’t as bad as it could have been. There’s probably heaps of people out there who have it worse than us.]
+
+[You threw yourself into the fifth stratum during a wave!]
+
+[I mean… that’s… that’s true. On the other hand, we aren’t hungry. See? Could be worse!]
+
+[...]
+
+Now, I could consider that Crinis has fallen silent because she now agrees with my position and is reflecting on the relative merits of our current state, or she has given up on me entirely and is now trying to find her own way out of this mess. I choose to believe we are in agreement. It’s more fun that way.
+
+[Oooo, they’re moving us!]
+
+[THEY SHOULD GET THEIR FILTHY CLAWS OFF!]
+
+[Hey! Whoa! Do not extend your limbs out there. We have enough toxin problems to deal with as it is.]
+
+Currently, the two of us are nicely cocooned by the slime-nets of the Krath, which have expanded out and melded together to cover my entire carapace. Normally, that wouldn’t be a good thing, but it’s literally the only reason I was able to survive inside the mucus. The Krath have either engineered or bred these things to be incredibly resistant to the acidic and toxic influence of the fifth, which means very little is actually getting through to me.
+
+Makes perfect sense when you think about it. If they want their captives to survive long enough to be corrupted, they have to have a way of getting them to their evil goop pools alive. With all of my minds dedicated to breaking down invading mana, along with the enchanted equipment I got from Smithant, I’m actually doing alright, despite everything.
+
+The only problem is, I can’t break out of this slime covering. Not until I’m either much closer to the fortress, or I’ve recovered a heck of a lot more than I have right now.
+
+For the moment, the best course of action is just to go with the flow and keep a low profile. The problem is convincing Crinis of that.
+
+[LET ME OUT, I’LL TEAR THEM APART!]
+
+[Oookay. First, no. Second, you need to chill out, and before I forget, I order you to never use your weird tentacle things on my brain slash brains ever again.]
+
+[You were going to order me to go back to the fortress!]
+
+[Of course I was! I didn’t want you to get hurt! You know perfectly well that this environment is more dangerous for you than for any of the rest of us!]
+
+[But how else am I supposed to keep you safe?]
+
+She sounds so worried, so helpless, I can’t help but take pity on the poor little ball of infinite darkness and eternal despair.
+
+[Hey,] I tell her gently, [Sometimes I’m going to be in danger. You’ve just got to trust me. I’ve always made it out before, and I will again.]
+
+Except for that time I starved to death. No need to mention that.
+
+[You’ve almost died lots of times,] she points out, still sounding a bit teary.
+
+[Key word is almost. You really think I would ever let myself get killed? If I go, then you, Tiny and Invidia go as well. We can’t have that. I refuse.]
+
+I’m still determined to try and find a way to disconnect them from my own fate. There has to be a way to graduate them from being pets to being fully autonomous beings in the eyes of Gandalf again. Crinis would refuse for sure, but I’d much rather they choose to be my friends than have no option.
+
+A problem for another time. For now, I need to try and find a way out of this mess. Luckily, I have some fairly unique tools that can help. A little nervously, I reach into the Nave, but find nothing wrong with it. Hopefully, whatever situation caused the Templars to collapse has been resolved successfully. I should reach out to them soon, but for the time being, I contact someone else.
+
+[Hey, Solant, how’s things?]
+
+[Senior?] she asks, sounding as cool, calm and collected as always. [I’m surprised you can still reach out to me. This communication ability you have is extremely powerful.]
+
+[And completely unexploitable by you. Weird how that worked out. Anyways, I’m going to assume you haven’t sent anyone to rescue me?]
+
+[I have not.]
+
+Not even a moment of hesitation. Yeesh, I always knew she was ice-cold, but even in this scenario, she doesn’t even pause for a fraction of a second. That’s harsh. Well, it’s fine, she made the right choice, after all.
+
+[Good. Keep the others in line as best you can. I think the Krath are trying to lure us out of the fortress, which would be a disaster.]
+
+[I agree.]
+
+Now there’s an ever so minute pause.
+
+[Do you know what the Krath are going to do with you?] she asks.
+
+I presume that gap means she knows better than I do.
+
+[It doesn’t seem like they want to kill me, so I’m guessing that means they’re going to corrupt me instead.]
+
+[Indeed. I believe they will take you to the closest heart to achieve this.]
+
+[Huh. It’s going to take a while to move me all that way. Will the wave even last that long?]
+
+[It’s hard to say. The wave has already peaked, but we can’t know for sure how long it will last. If I had to guess, I would say it would be close.]
+
+Interesting… I could buy a lot of time just by sitting tight. If the wave ends before they get me to the heart, I can bust outta here and do a heck of a lot of damage. If it doesn’t… then I get to experience the bath of no return.
+
+I can’t say the idea fills me with glee.
+
+[I’ll sit tight for now,] I sigh. [Hold down the fort as best you can.]

@@ -1,0 +1,95 @@
+---
+id: 39f41731-1122-5026-a445-9dc84b178982
+page-type-slug: story-chapter-royal-road
+title: "26 - Flarn, the Bubble Witch"
+slug: 0026-26-flarn-the-bubble-witch
+partOf: cat-girl-evolution
+position: 26
+ownLength: 2265
+unit: words
+publishedAt: 2025-09-21
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2616950/26-flarn-the-bubble-witch"
+royalRoadId: "2616950"
+---
+
+When I wake up from my nap, it’s late in the afternoon. I do a nice big stretch, then have a nice big meal of eelman. The reason I choose eelman instead of something else is because I realized something the other day when I ate the crabman. Eel is also meant to be cooked. It tastes pretty good raw to me, but I need to try it the proper way too.
+
+It is, of course, delicious, as most seafood tends to be. I wish I had some eel sauce though. Maybe a bit of rice. That would be good. I should see if I can find some whenever I’m near civilization.
+
+I stretch again and prepare to practice with my mana a bit before nightfall when I go hunting when I hear rustling leaves in the distance. I leap up into my tree and wait, keeping an eye on the direction of the sounds and a— hmmm, I don’t know what to call it, but I keep track of Food Sense too.
+
+When it enters the range of my detection, I am confused. I have never encountered whatever this creature is before, so Food Sense is having trouble telling me exactly what it is. It is edible though, so that’s good to know. Then, a few seconds later, it comes into view and I see its namecard.
+
+[ Flarn, the Bubble Witch, lvl ?? ]
+
+…Abby, is that what I think it is?
+
+[ If you think it’s the Named monster we saw earlier, then yes, yes it is ]
+
+And killing it would let me evolve into a Named monster, right?
+
+[ Theoretically, yes. But it is a Named monster, so it will be dangerous ]
+
+It only has two question marks. Skarn had 3, right? Doesn’t that mean this one is weaker?
+
+[ Yes, that means it is a tier lower. ]
+
+Heck yeah! Let’s do this!
+
+For some reason, the monster hasn’t moved yet, but I’m not gonna complain. If she’s just gonna stand there, I don’t mind making the first move.
+
+She’s too far away for me to Blink onto her just yet, so I jump from my tree to the next closest one, then the one after. When I start moving, she starts moving too, raising a weird, coral-looking staff to conjure a bubble around her. It looks kinda similar to the ones that the jellywomen used, but based on the amount of mana, this one is way stronger.
+
+I go one tree further than I need to as she swirls her staff around, readying another spell. Here, I bamboozle her by turning around and jumping back the way I just came. A stream of extremely fast bubbles shreds the branch I was just standing on, but not only am I no longer standing there, I have Blinked away.
+
+I reappear behind her, falling straight toward her neck. In midair, I conjure my mana arms, anchor them to my shoulders, and Quadruple Slice downward. The attack gets completely stopped by the bubble shield, which would be more disheartening if I couldn’t sense the mana in it wavering. That attack wasn’t strong enough, but it also wasn’t weak enough that she could brush it off as nothing. Plus, she shouldn’t have infinite mana, so if I just keep doing that, she’ll eventually run out, and I’ll win. Well, minus the Blink, I guess, because otherwise, I’ll run out of mana too.
+
+Before I even landed the attack, she was already turning around to point her staff at me, apparently having sensed my mana. Another stream of bubbles shoots out, but I spring off her bubble shield toward a nearby tree as they sail past my half-regrown tail. The bubbles cut a hole through the branches behind and shoot high into the sky. They’re more like bullets than bubbles. I definitely shouldn’t get hit by them.
+
+From the tree, I jump to the ground to dodge another spell before jumping forward to do another Quadruple Slice. The shield trembles again, but still holds, and I’m forced to use Blink to avoid the next spell. That’s annoying. I was hoping that upgrading to Spatial Slice would make it stronger, but Abby did say it was mostly strong against physical barriers, and this bubble is clearly almost completely magic. I bet the big fish dude will have more trouble with it.
+
+Blink doesn’t use quite as big of a chunk of my mana as it did before, now that I’ve leveled up a few times, but I still can’t keep using it repeatedly like this. If I do, I’ll be the one to run out of mana first, not her. I bet she’s almost completely mana-focused, unlike me who has my stats split kind of evenly. Well, not so evenly anymore, now that my Class is leveled up some. But that’s beside the point.
+
+I need to conserve my mana, so rather than continuing to bounce around the trees, keeping myself constantly in midair and unable to change my trajectory, I change my strategy. I stick low to the ground, never getting more than a couple centimeters in the air. When the bubble spells come, I use Cat-Like Reflexes to dodge to the side.
+
+At the same time, I also start pouring a bit more of my mana into my arms, making them denser and more solid. I think this should increase their power a bit, and I test that theory with another attack a few seconds later. It still doesn’t break through the shield, but I think that the mana wavered more than before.
+
+Seeing that her strategy isn’t working, Flarn decides to switch things up as well. She raises her staff, and I prepare to dodge another stream of high-powered bubbles, but instead, she creates an array of larger, slower bubbles. In fact, they’re so slow that they’re hardly moving at all. They’re drifting around like- well, like bubbles.
+
+The problem is that I can still sense that they’re filled with a healthy amount of mana, so I doubt that touching them is a good idea. Experimentally, I pick up a rock and chuck it at one of the further ones. I miss wildly, but hit another next to it, and as soon as it’s hit, it detonates, setting off a chain reaction. My eyes widen as I Blink backward, but even moving ten meters back, I still feel the shockwave rustle my fur. That was dangerous.
+
+Still, it’s nothing I can’t handle, and that had to use a lot of mana.
+
+I move forward again as she starts conjuring more big bubbles. These ones feel different though. They have as much mana as the explosive ones, but it feels like a different kind of mana. I toss another rock at the nearest one, planning to teleport away when it explodes, but rather than an explosion, the rock enters the bubble without resistance, then bounces off the other side on the inside, landing at the bottom.
+
+As this happens, she waves her staff and the bubbles move until they’re surrounding her, acting as a second shield. They don’t completely cover her, but there are enough that there’s not really anywhere safe to attack. If I got sucked into the bubbles, I don’t think I would be able to teleport away. She’s seen me teleport, so she wouldn’t have made these if she thought that I could get out of them so easily.
+
+I stalk along the side, waiting for her to attack, but instead, she just watches and waits. I think my plan of depleting her mana is working. She doesn’t want to waste any more of it attacking me, so she’s waiting for me to come to her.
+
+I guess I could just sit here and hope she runs out of mana… but if those bubbles are anything like my mana arms, that’s not gonna be any time soon, if ever. My mana arms, once conjured, leak mana only a tiny bit faster than I regenerate it. They can last hours if I’m not moving them around too much. Her bubbles aren’t really doing anything but sit there, so I doubt they’re costing her too much mana to maintain, meaning she can wait like that for hours too. And that’s assuming she doesn’t have any mana regeneration Skills or Traits to help her top up.
+
+So, I need to find a way around this. I can’t get close without risking getting pulled into a bubble, and my only ranged attack is Ember, which is a fire attack, and against an obviously water type mage… Well, I guess I should at least try it.
+
+I open my mouth and launch the tiny fireball at the bubbles. It hits one of the trap bubbles and just like the rock, gets sucked inside. It makes a tiny explosion inside, making the bubble ripple, but it stays intact. The main defensive bubble is unaffected. So yeah, that’s not really a good plan. My only other ranged attacks would be throwing things, which clearly won’t work, or using mana constructs, but attacks with constructs not anchored to my body are all weak.
+
+Wait, hold on… There is one option… There’s one Skill I can use without issue at range using my constructs. I have no idea if it will work here… but it would be really cool if it did.
+
+I quickly conjure up my mana cat head and send it at one of the trap bubbles with its mouth open. Flarn watches the head get closer, wary, but not reacting. The mouth of the cat head hits the bubble, and I activate Stomach of the Glutton. I feel a bit of a tug, but after a split second, the bubble disappears.
+
+Flarn blinks in surprise, so I use her moment of confusion to dash forward and Quadruple Slice the section of her defensive bubble that’s now unguarded. Unfortunately, it still doesn’t break through. Well, it doesn’t matter. I think I have a way to beat this Named monster. I bet that eating that bubble cost me more mana than it cost her, but the attack I made after that tipped the exchange back in my favor. If I keep doing this, she should run out eventually. And if not… Well, I can always run away. She’s clearly not a movement specialist.
+
+The next time I try to eat one of her bubbles, she loads it with mana to resist the pull into my Stomach. I wrestle with her for control, before pulling it in. It cost a good chunk of my mana, but the same can be said of her, and then the attack I land on her shield right after costs her even more.
+
+After that, she absorbs all the smaller bubbles into her bubble shield, strengthening it while trying to hit me with more bubble streams. The battle goes on like this for a few minutes until finally, I break through her shield. Or at least, that’s how she tries to make it look. My 750 Sensitivity isn’t just for show, and I notice that she actually dispelled it instead.
+
+As I land after “breaking” the shield, I feel her mana coalescing around me, and it’s only thanks to Cat-Like Reflexes that I’m able to Blink out of the way of the bubble that forms where I just was. The bubble disappears just as quickly as it forms, and Flarn is already turning toward where I teleported to. I Blink away from another bubble, then another, and on the fourth one, I teleport straight into her.
+
+That move is a mistake. As soon as I’m within her range, the bubble shield reappears surrounding both of us as another bubble beam forces me away from the attack that I was trying to make. I retreat backward, standing right on the edge of her bubble, and as I do, a smaller, oval bubble shield appears around her, protecting her. It’s hard to read her expression because she’s still very fishy, but I’m pretty sure she’s smiling triumphantly. This can’t be good.
+
+I try to Blink outside of the bubble, but the Skill refuses to activate. I can still Blink within the confines of the bubble, but it’s not more than two meters across, meaning my space is very limited. I give up on Blink for the time being and dodge just by jumping around. The bubble beams are much harder to dodge in the enclosed space, and a few of them get dangerously close to hitting me. One of them even shaves some of the fur on my back almost down to the skin. Completely unacceptable, obviously, but there’s not much I can do about it.
+
+I dodge frantically for almost a full minute, trying to figure out what to do. Flarn doesn’t look like she’s running out of mana anytime soon, and I’m starting to get tired. My attacks can’t break her bubble, and I can’t leave. I think that my jaws might be stronger than my claws, so if I can get a solid Bite of the Glutton in, I might be able to break through, but she’s not giving me a chance. I can barely even land Slices with how much effort I have to expend just dodging.
+
+Why isn’t she running out of mana? She’s used, like, quadruple my entire mana capacity by now, and she doesn’t look like she’s slowing down. Where is she getting all this mana from?
+
+Is this how my second life is going to end?

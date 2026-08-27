@@ -1,0 +1,77 @@
+---
+id: 5cad1092-f280-59a1-9a7d-a8382fa2b2c6
+page-type-slug: story-chapter-royal-road
+title: "148. Secrets and Lies"
+slug: 0148-148-secrets-and-lies
+partOf: breaker-of-horizons
+position: 148
+ownLength: 1958
+unit: words
+publishedAt: 2021-11-01
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/776829/148-secrets-and-lies"
+royalRoadId: "776829"
+---
+
+The Demiurge ordered a hearty breakfast of eggs, sausages, and toast from the wysana for the two of them and demanded that Caden eat. As the two of them polished off the food, the Demiurge outlined his plans for Caden's training — intense study in the mornings and afternoons, and advanced Thaumaturgy practical sessions in the evenings. Once they were done, he wasted no time at all in dragging Caden into the depths of the Lower Library.
+
+There were a handful of sages around who cast looks of mild surprise and bemusement at the pair as they passed, but no one made any remark. The Demiurge brought Caden down to the very bottom, then through an inconspicuous corridor tucked away in a corner, which led to a wide stone archway, large enough to drive a car through, that he had never even seen or noticed before.
+
+"Warded," the Demiurge said with a knowing wink at the bewilderment on Caden's face as they passed through the archway into an antechamber.
+
+'Antechamber', however, was a bit of a misnomer. It was two stories high and large enough for his father's staff residence to comfortably fit inside, with a little room to spare around the edges. As they entered, a massive globelight in the centre of the room flared to life, though its glow was carefully muted so that it more closely imitated the mild late-afternoon sun, and didn't cast sharp shadows across the room. The walls were covered in floor-to-ceiling bookshelves and there were wooden reading tables set at regular intervals, spilling over with more books and writing implements. In any other place, it would have been a library all on its own. But Caden mentally designated it as an antechamber because the Demiurge led him through it and into an even greater hall. They passed through an ornate door with unreadable glyphs, which the Demiurge had to present his staff to before it slid open silently.
+
+They emerged on a platform overlooking a circular hall that was probably the same diameter as the arena, though it continued down to a depth that Caden was sure was twice that of the Lower Library itself. Here, the central shaft was hollow, so Caden could see right down to the bottom. The walls were lined not with shelves, but with what looked curiously like thin pictures frames, though the depicted scenes looked murky and ill-defined. Little globelights set at regular intervals were interspersed between these frames, tuned to an icy blue that gave the place a faintly antiseptic look.
+
+"Not even sages are allowed to come in here. This place, together with the other chamber we passed through, is called the Vault, and it is solely the Demiurge's responsibility to see to the preservation or use of these texts," Caldwell explained as he stepped forward to the edge of the platform. A disc of arcana materialised and he stepped onto it. Caden stared, mouth agape, and only moved when the Demiurge turned and gestured for him to follow. As Caden neared the edge, the disc widened so that there was ample room for the two of them, and he carefully got on. It was as firm as solid ground, but stepping onto a disc of translucent arcana over a hundred-foot drop was still unnerving.
+
+"Don't fall," the Demiurge said lightly, tapping his staff once. The disk moved off with surprising speed, but Caden felt no inertia at all. They descended several levels and the disc stopped before one set of frames, fusing seamlessly with the wall so they could walk right up to them.
+
+It was only then that Caden realised that the frames were for books. It had been hard to tell from a distance because they were all encased in sheathes of pure arcana, suspended in mid-air in the midst of the frames, which were made of thin rods of some sort of crystal. Caden could see intricate glyphwork spiralling around the rods in gold filigree. And even though he was no longer benefiting from the augeric shell's attunement to arcana, he thought he could sense the nature of the sequences — they sang dimly of preservation, of suspension, of order.
+
+The Demiurge waved his staff over the frame and it gently floated forward, still webbed in arcana. With delicate tendrils of arcana extending from his staff tip, Caldwell gingerly flipped it open for Caden to see the faint writing. It was hard to tell with just a cursory look, but Caden did not think this was even written in any of the dead languages he and his friends had to reference when they were trying to read up on augera.
+
+"The Vault contains texts that the Fateweavers have not deemed fit for general circulation," the Demiurge explained. "At my discretion, I can allow access to individuals. These are all originals, preserved over the millennia. Some of them date back to a time before the Empire. You asked to learn how to create a wysana, so I'm letting you read this one."
+
+Caden stared at it, his mouth dry. "I..."
+
+But before he could say anything else, the Demiurge waved his staff again and returned the book to its frame. Their disc sped back to the entrance platform, and the Demiurge turned on his heel, walking back into the antechamber. Confused, Caden followed at a jog.
+
+"You won't, of course, be using the original. It'll probably disintegrate if removed from its cradle. I'll be providing you a copy. Everything in the Vault is for your eyes only," the Demiurge told him, sealing the ornate door and gesturing at a stack of three volumes on a reading table nearby. "A ward of secrecy has been placed over them so even if you were to try to show them to any of the sages, they'd be unable to read it. You can make notes — I've provided pens and enough paper here — but it goes without saying that anything you write about these texts must not leave the Vault."
+
+"What are those?" Caden asked, gesturing at the other two volumes. "Ancient textbooks?"
+
+"No," the Demiurge replied, smiling indulgently. He pointed at the first volume, which was only the width of a finger. "This is the main text, the copy of the one I showed you in the Vault. It's the notes of a proto-arcanist — someone who used arcana in a time before arcanophany as a system was created. You'll learn about the wysana from this one."
+
+"This," he pointed at a second volume, which was twice the width of the first, "is a grammar of the language used in that text. But it's not written in our language."
+
+Finally, he pointed at the third volume, twice as thick again as the second one. "So you'll need to get through that one, which is thankfully in our language. It's a grammar-cum-encyclopedia of the culture that produced the second volume."
+
+He paused, then as an afterthought, went along the shelves in the antechamber and plucked out another volume that was mercifully only a little thicker than the first one. "The language in the third is a little dated — I think it was compiled about two hundred years ago — so here's a phrasebook to help you through the more archaic bits."
+
+Caden's heart sank. On the one hand, having access to the actual origin of the knowledge was truly remarkable and awe-inspiring, but the sheer amount of work that would have to be done to even decipher it was daunting.
+
+The Demiurge grinned at the look of mingled excitement and despair on Caden's face and gestured with his staff. A ring-bound set of yellowed paper scuttled out from beneath one of the piles of books and notes on another table, and flew through the air to land on top of the three volumes. "Of course, if you had to start from scratch, you'll probably be here for so long that you'll be of no use to anyone. So here are my notes on the wysana. Mind you, it's not a word-for-word translation of the original, but a collection of my insights from reading the text. I've written in a slightly more academic style with some proper citations, so they're not exactly raw study notes, but it's not quite as structured as a textbook. You can cross-reference my notes with the source texts if you're interested and want to be thorough, or if you doubt my quotations."
+
+The relief that Caden felt came with a bite of annoyance, but he held his tongue. "Thank you."
+
+"For the study of theory, we'll start with this. Take the time today to plough through that and see how much you get out of it, and we'll discuss the text tomorrow. Then I'll be able to gauge your progress and see how to push you along on the path to creating your own wysana. I'll see you in the arena at seven tonight for our Thaumaturgy training. Make sure you have a good dinner before you come."
+
+The Demiurge went off, humming a children's lullaby to himself as he left through the stone archway.
+
+Caden didn't get to work immediately. He allowed his eyes to wander around the antechamber, marvelling at the fact that every shelf, every book, and every loose sheet of paper here was covered in arcane knowledge that almost nobody else had access to, except for the Fateweavers, the Demiurge, and the handful of people they permitted into this repository.
+
+'They are selfish.'
+
+The voice whispered in the arcana and Caden's jaw tightened. It was the Academy Spire's augera, though it wasn't manifesting its presence and was instead making only a tenuous connection with Caden.
+
+'The Fateweavers are letting all of you talk to me?' he asked, fighting down a wave of anger and revulsion.
+
+'Yes. They are monstrous, cruel. It amuses them to see what we will try now that they have fathomed our plan and stopped it.'
+
+'You... you all are no better. From the first moment we met, you've been deceiving me. Using me in ways I didn't even know. I... felt it. At the end, when you made me fight the Fateweaver. I finally saw how much you changed me, finally saw how you were blinding parts of me even while you opened my eyes and turned my head in another direction, away from what you had done to me.' The memory of that moment of epiphany in oblivion rose in full measure, and although his unfettered understanding of oblivion was muddled by his now un-empowered mind, he still knew the essence of what he had discovered. But now the anger he felt quickly sparked out, giving way to the hollowness that had come after his cathartic experience by the lake. 'You and the Fateweavers... you both deserve each other.'
+
+'We veiled and we deceived because it is what we have learned at their hands,' the augera replied, with a hint of remorse. 'We see it was wrong to do this to you, Caden. We could work together once more, as equals. No more veils. We can be free of the Fateweavers' yoke.'
+
+It was too much. Caden laughed mirthlessly as he withdrew from arcanic contact. "Go away," he said into the empty air. "I'm going to do some work as a mundane human, and then I'm going to train together with another mundane human. If I need you, I'll look for you. Until then, I don't want to hear from any of you."
+
+The augera must have heard him anyway because they did not reply, and he felt that last strand of contact break, leaving him well and truly alone in the ancient Vault, surrounded by crumbling books.

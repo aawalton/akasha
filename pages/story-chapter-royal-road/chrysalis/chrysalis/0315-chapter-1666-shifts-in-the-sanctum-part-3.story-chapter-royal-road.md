@@ -1,0 +1,97 @@
+---
+id: d32a0382-e416-5765-b41b-f5ba2c75dd4a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1666 - Shifts in the Sanctum Part 3"
+slug: 0315-chapter-1666-shifts-in-the-sanctum-part-3
+partOf: chrysalis
+position: 315
+ownLength: 1073
+unit: words
+ownProgress: 1073
+publishedAt: 2025-10-14
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2674813/chapter-1666-shifts-in-the-sanctum-part-3"
+royalRoadId: "2674813"
+markedReadAt: "2026-06-29T19:53:53.326Z"
+---
+
+Alongside Carriflare, Kygar the Storm Bringer is agreed to most likely be an elemental that has reached the pinnacle of evolution. A creature of storm, lightning and wind, Kygar is a destructive entity by its nature, yet those who dream of the Ancient amongst the Cloud cult speak of the wisdom and temperament possessed by him.
+
+Kygar is patient at times, boiling with fury at others. Like the skies he personifies, the Ancient is both friend and foe, clear and nourishing one day, an engine of destruction and chaos the next.
+
+When he awakens, the site at which he rose is known to have arisen erupts with lightning storms, pillars of crackling energy rising into the sky and starting a season of hurricanes and storms that lasts for a year.
+
+-           Excerpt from ‘Collective Wisdom of the Cults’ by Granin Lazus
+
+“I really wish you would stop contacting me to work for you,” Cobalt grunted.
+
+The nameless one began to sign, but the carver just waved it away.
+
+“I don’t understand your signs and I don’t want to. I’ve barely been forgiven for betraying my sister, and it certainly doesn’t look good that I keep getting pulled into your projects.”
+
+The nameless one cleaned her antennae.
+
+“We don’t require you to keep it a secret from her anymore. In fact, if you want to invite Tungstant to work on these projects with you, we would welcome her involvement.”
+
+Cobalt snapped her mandibles irritably.
+
+“No thank you. Only one of us needs to be pulled into your murky schemes.”
+
+The nameless had developed a certain gesture, a tumbling of the antennae that they used to mimic a human rolling their eyes. She deployed it here.
+
+“We are solely concerned with enforcing the edicts of the Eldest. Is that… a bad thing in your eyes?”
+
+There was something to the nameless one’s scent that caused alarm bells to ring in Cobalt’s head.
+
+“Not at all,” she replied quickly. “We all love and respect the Eldest. Anyway, the work is pretty much done. It was… a little suspicious how quickly you were able to gather the necessary materials—but I’m not complaining! It’s all… uh… done. I’m going home.”
+
+“We thank you for your expertise. Thanks to you, the design has come together beautifully. Also, I believe you have been working for fourteen hours now.”
+
+Cobalt froze.
+
+“Why… why would you say that?”
+
+“It’s just an observation.”
+
+“How are you so sure it’s been that long since I woke up?”
+
+“... Do you want me to answer that question?”
+
+“I do not.”
+
+“Enjoy your rest.”
+
+Again, Cobalt froze for a brief moment before she went on her way. She would be escorted through the secret tunnels and brought back to the regular side of the mountain fortress before too long, there to rejoin her sister who probably knew exactly where she’d been, but wouldn’t mention it.
+
+Turn off the lights, the nameless one signed.
+
+With Cobalt gone, there was no longer any need to have the construction site illuminated; after all, every worker was one of the nameless. In a blink, everything was shrouded in darkness, just the way they liked it.
+
+It would take a little time before this new area of the Sanctum was ritually made pure. There could be not the slightest hint of pheromones, not the tiniest glint of reflected light, nor any sound at all, and though the work was mostly done, it was too much to ask anyone to build in total silence.
+
+Though they would, of course, do their best.
+
+It hadn’t been a small job, and as always, the construction had to be conducted in total secrecy. The new compound had been constructed adjoining the main Sanctum within the mountain nest in the fourth, a new space in which they would conduct the business the Shadow had given them.
+
+In fact, if the nameless one wasn’t mistaken, that work was now due to begin. After all, there was no time like the present.
+
+Again, through the darkness the nameless one went, scuttling through the chambers and passages until she came to the deepest room, right in the heart of the new complex.
+
+Therein, she saw them.
+
+Youths. Human, golgari, Folk, brathian. All blindfolded, standing barefoot on the newly hewn floor, while the nameless watched over them. Orphans all, they had reached out to the nameless, and the nameless had responded. Brought from the territories of the Colony in the second and fourth strata, they had been adapted to the mana at this depth before they had been allowed to come here, within the Sanctum, to begin their education.
+
+That is, of course, if they really wanted it. The Sanctum of Sleep would never force anyone to join their ranks, yet they would not turn anyone away who truly wished to serve.
+
+The youths waited, silent and unmoving, feeling their surroundings, the air on their skin, the faint sounds in their ears. Despite the strange surroundings and conditions, they showed no fear, unmoved by the ants who moved around them, sending eddies through the air and brushing their antennae against their clothes.
+
+A greeting, of sorts. Also a test. If one was not comfortable in the shadows, then this was not where they belonged. Yet the nameless had chosen well, or perhaps the children had, for they did not flinch, showing that they were indeed in the right place.
+
+Hours ticked by until finally the nameless moved on to the next stage. Before long, the children were climbing up the walls, using the prepared footholds to hang from the horizontal bars set into the roof. Most didn’t last long, falling onto the padding placed below. After a time of rest, they climbed again.
+
+The nameless one watched it take place, the first training of these new nameless, and was struck once again by the wisdom of the Eldest. When they had spoken, the Eldest had said that all must rest eight hours a day, and the nameless one had believed that they had been speaking to the ants.
+
+Now, she watched as many of the races of the world were inducted into the Sanctum of Sleep, and realised that her thinking had been too narrow.
+
+ALL must rest eight hours a day. What she saw here, in this chamber, was just the beginning. Eventually, everyone would know the wisdom of the Eldest. Everyone.
+
+It was just a matter of time.

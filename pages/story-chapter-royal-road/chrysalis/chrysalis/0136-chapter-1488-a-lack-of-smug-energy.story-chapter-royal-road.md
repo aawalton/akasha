@@ -1,0 +1,79 @@
+---
+id: 1e7ca1b8-57e5-5e4f-b8dc-7a2e3cded102
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1488 - A Lack of Smug Energy"
+slug: 0136-chapter-1488-a-lack-of-smug-energy
+partOf: chrysalis
+position: 136
+ownLength: 943
+unit: words
+ownProgress: 943
+publishedAt: 2025-01-21
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2021392/chapter-1488-a-lack-of-smug-energy"
+royalRoadId: "2021392"
+markedReadAt: "2026-06-29T19:56:44.837Z"
+---
+
+The ambush went well, but Solant doesn’t seem all that pleased. Not that she looks mad, she just looks… like Solant. Calm and cool, the little general sits amidst her swarm of generals, scouts, mages and other leaders at the heart of the command post, absorbing all the chaos with the equanimity of a monk.
+
+Of course, I’m happy to barge in and make a nuisance of myself, which I do.
+
+“Looking at you, I can’t even tell if we did well or not,” I say to Solant, resisting the urge to prod her with an antenna.
+
+Her plan came off without a hitch, baiting in the Krath using a week-long effort of subterfuge, allowing the line to appear to buckle without it ever really being the case. To my mind, that had been the really impressive thing. She orchestrated that front perfectly, playing the opponent like a cheap fiddle. Aggressions here, weakness there, making minute adjustments, hour by hour, day by day, until even the cunning Krath had been lead to believe that the opening was real.
+
+“We did very well, Senior,” she tells me calmly, “but we merely won the battle, not the war. There is a long road yet to travel before we can declare victory over the fifth.”
+
+“I mean, sure,” I reply, “but it’s still something worth celebrating, right? With this win, the pressure should come off us a little, which means the final stages of construction should go smoothly, which means we’ll beat the wave and lock this place up tighter than my fridge when my parents were home.”
+
+Solant waves her antennae a little uncertainly.
+
+“I… presume that means tight?”
+
+“Very.”
+
+“Your exuberance is pleasing, Senior, but I do not share your optimism. I believe the Krath, feeling vengeful, will redouble their efforts to break through. For all their faults, I do not believe the slug tribes are motivated by fear or cowardice, but hate. They will not be afraid to push back against us; rather, they will attack, filled with rage.”
+
+Well, that doesn’t sound ideal. I can’t help but sigh.
+
+“I was kind of hoping for a bit of a break from fighting out in the fifth. There’s only so many times I can tolerate having my eyes melt in my head.”
+
+“Soon, the inner workings of the fortress will be done, and the outer defences will be worked on. Day by day, it will become more and more difficult for the Krath to strike us in the tunnels.”
+
+“Not that they’ve been doing that good of a job so far,” I chuckle.
+
+Solant looks at me askance.
+
+“Perhaps it seems that way to you, but that isn’t the case. The Krath have nearly broken through on several fronts, and we have had to sally forth to prevent captives being taken no less than six times. Without this ruse, the Krath would have orchestrated a breach eventually, at great cost to us.”
+
+Uh… dang. I had no idea things were that rough! I suppose, on reflection, it makes a grim sort of sense. Even in the tunnel I was guarding, while I was there, the Immortals had to rush out to help prevent the loss of a captive. It isn’t that hard to believe that in the tunnels that don’t have me, or Tiny, Crinis, Vibrant or Invidia to help, they would struggle to hold off the slugs.
+
+Solant’s lack of smug energy is starting to make more sense. She’s pleased the attack went well, but at the same time knows she was forced into creating this victory by the cunning of our enemies.
+
+It’s a sobering thought.
+
+“Alright then, I won’t bother you any more. Good luck with everything, and let me know if I can help. More than I am already, I mean.”
+
+“I will, Senior,” she says, dipping her antennae in respect before turning back to the ever-evolving model and her swarm of advisors.
+
+I make my way out of the command post, being careful to step over the influx of messengers as I do. I’m at an awkward height at this stage, where ants can easily run beneath me, but can’t really reach high enough to climb over me. If they want to run over my back like they used to, they first have to latch onto my legs and climb up, which is awkward for everyone.
+
+The end result is that I have to move a little slowly lest I end up pinning some unfortunate mage to the ground with one leg.
+
+“Eldest,” Advant is there to greet me on my way out. “Good to see you.”
+
+“Let’s scuttle and talk, Advant. I assume you have something to tell me, and I’m headed to the medics to get checked out again.”
+
+The mighty Soldier, who is roughly half my size, falls in alongside me as I continue to carefully step down the tunnel.
+
+The main thoroughfares of the fortress are largely complete at this stage, which makes it a lot easier for me to get around, since they always ensure there’s a passage large enough for me to move through.
+
+“I wanted to catch up with you before you got too far, Eldest,” Advant says. “The Legion is demanding you submit yourself to another inspection.”
+
+“What? Already? What could possibly have changed between now and the last one?!”
+
+“I’m not sure, Eldest, but it is in line with the schedule. They aren’t asking for anything you didn’t already agree to.”
+
+Dangit.
+
+“I suppose I’ll have to show up, then,” I groan, clacking my mandibles in irritation. “Lousy Legion. Do they really think I don’t have anything better to do?”

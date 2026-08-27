@@ -1,0 +1,87 @@
+---
+id: a9a5210e-3774-501f-9ed6-9a4f451c2e02
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1460 - Revelations"
+slug: 0108-chapter-1460-revelations
+partOf: chrysalis
+position: 108
+ownLength: 1019
+unit: words
+ownProgress: 1019
+publishedAt: 2024-11-27
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1926356/chapter-1460-revelations"
+royalRoadId: "1926356"
+markedReadAt: "2026-06-29T19:47:32.021Z"
+---
+
+It was never possible for there to be peace between the Colony and the Church of the Path. How could there be? The Church was almost as virulently anti-monster as the Abyssal Legion, though for very different reasons.
+
+The Legion has always feared the Dungeon, believing that if it were left unchecked, the end result would be a repeat of the Rending, if not worse. For that reason they have sought to combat monsters, find new and better ways to destroy them.
+
+The Church looks upon monsters not as a threat, but as a gift. A sacred offering made for the betterment of the civilised races of Pangera. To them, it was nothing less than their sacred mission to destroy monsters and reap the XP provided. Any means that allowed them to reap a greater harvest was justified, and any obstacle to this purpose was unholy.
+
+Their wanton pillaging of the Dungeon, and unwillingness to engage with monsters as the severe threat that they are, was the primary reason the Church and the Legion were always at odds.
+
+-           From the writings of Alberton, Liria branch Legion Loremaster
+
+Well… I don’t know what I expected the Church to be doing with the monsters they captured, but this wasn’t it. I mean… I’ve seen and experienced some pretty nasty stuff since I was born into this world, but this is the first thing I’ve come across that I would describe as actually evil.
+
+Like… cartoon bad-guy sort of stuff.
+
+I almost can’t comprehend it. The thought of something so terrible happening to one of my sisters just doesn’t seem real. It’s not possible. My brains refuse to accept that I live in a world where that occurred.
+
+The idea that they are still out there, hoping to do this to more of us, is unacceptable. One is too many. It would be an unforgivable, irredeemable sin were it only to occur once. Any more than that, a single instance, and I will do something drastic, something severe, to ensure that it never happens again.
+
+Before I even realise it, a new resolve has taken shape within me. Once the Colony is done with the fifth, we will need to revisit this problem. A permanent solution must be found, and recompense must be extracted.
+
+But for now, there’s nothing that can be done. I’m sure the Church is going out trying to recruit others to their cause. If enough become interested, then I’m sure there would be a large-scale attack on the Colony. Were enough to join in, it’s possible they would be able to bring an end to us altogether, but we’ve already put a dint in those plans. My initiative to bring trade to the Colony was a massive success, and it’s unlikely the Silver City will be willing to launch a war of extinction against someone they do business with.
+
+Hopefully it’s enough for now. Later, we can look for something a little more permanent.
+
+With a great effort, I push all thoughts of the horrifying reality out of my mind. I don’t have any space to think about it right now; my mandibles are full dealing with our current problems, namely the army of Krath gathering right outside our territory.
+
+Not to mention the rest of the difficulties we face in conquering this stratum. There’s a lot to do!
+
+If I went to report to Solant now, I don’t doubt I’d be sent back out to scout more tunnels and get a better sense of how many slugs are out there. Which is fine, I’m happy to do that, once my leg grows back, of course, but first I want to go and check in with the best non-insect monsters in the entire Dungeon.
+
+I find Tiny, Crinis and Invidia all hanging out together, and I run up to greet them with a friendly wave of the antenna.
+
+[Hey, gang! How are you–]
+
+Ghost fist.
+
+[Hey! That’s just rude! What did I do to deserve the ghost fist treatment, huh? Why don’t you form the intent to punch yourself, you hands-happy ape?!]
+
+Far from put off by my tirade, the suggestion seems to spark interest from Tiny, and he begins to consider the possibilities carefully. He looks down at his fist, then brings it up to his own nose. Then he frowns, lowers his hand and tilts his head to the side, puzzled.
+
+Oh, has he finally found something he isn’t willing to punch?!
+
+[Master, your leg!] Crinis screeches before glomping onto my side and pouring into my shadow. [Who did this? WHO DID THIS?!]
+
+There is so much rage contained in her tone that even I’m taken aback.
+
+[Crinis, relax a second. I did it to myself, alright? You aren’t going to attack me, are you?]
+
+Please say no. Please say no!
+
+[O-of course not!]
+
+There was a moment of hesitation there, I swear it!
+
+[I was sent out to investigate some tunnels, and there were Krath out there. I wanted to talk to you about it before I get sent back out. There’s a lot of Krath gathering around the place, way more than we’ve seen before. The Colony is going to ask you to be on the frontline, I’m pretty sure, so be careful. The slugs are keen to capture anyone they can, and that includes you guys.]
+
+[If that filth try to touch you again, I–]
+
+[Crinis, I’m sure they will. In fact, it’s pretty much a guarantee. You have my full permission to do nasty things to them if you get the chance.]
+
+[Oh, I will.]
+
+[I believe it. Tiny…]
+
+The big ape is still looking at his fist, puzzled. I turn to Invidia.
+
+[Invidia, be a good friend to Tiny and try to help him not be abducted and turned into evil-Tiny. I really don’t want to have to deal with that if I don’t have to.]
+
+[I willsssss,] he says, eyes gleaming. He seems really happy for some reason, floating there gleefully, his little wings fluttering as he bobs about in the air.
+
+What the hey, I’m glad he’s happy.

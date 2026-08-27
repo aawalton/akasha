@@ -1,0 +1,100 @@
+---
+id: d142e24e-aa55-5b14-80a4-a42f7218c2f9
+page-type-slug: story-chapter-royal-road
+title: "168 - Skills and Soul Meditation"
+partOf: bunny-girl-evolution
+position: 34
+ownLength: 2592
+unit: words
+ownProgress: 2592
+publishedAt: 2026-01-31
+link: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/2997482/168-skills-and-soul-meditation"
+royalRoadId: "2997482"
+markedReadAt: "2026-06-29T20:03:45.486Z"
+---
+
+At first, Elise was excited to see three Skill Quests in her System notifications, but when she read what Skills they were for, her enthusiasm was dampened somewhat. She was still glad she had unlocked the Skills, but their names and effects were more than a little sinister.
+
+The first was a Skill she had not known existed, but by its name alone, she knew exactly how she had unlocked it.
+
+[ {Power Word Kill} (Skill Quest): Slay ten creatures with your words ]
+
+[ Progress: 10/10 ]
+
+[ You have completed the Skill Quest {Power Word Kill}! You have unlocked the skill {Power Word Kill}! ]
+
+[ Power Word Kill: Speak the True Name of the Rune of Death to a creature and impose your will upon them to activate the Rune ]
+
+While the effects looked more or less identical to what she had done by abusing the effects of {Royal Presence} and {Royal Decree}, the description was quite different, and that piqued her interest. She had been expecting a simple Skill that used aether to attempt to force the target to die, so the involvement of a rune surprised her. Was this method more or less efficient than her own? How powerful could her target be and have the rune still work? And how would she even use it? Did she need to know the True Name of the Rune of Death, or did the knowledge come with the Skill? Laying her bed alone, she had no way to test it, but she was now even more eager to get back to the Dungeon than she already had been.
+
+Another thing to ask the dwarves when I visit too, she thought.
+
+The second Skill was also somewhat expected, but it made Elise feel uneasy. Power Word Kill was indeed a sinister Skill, but funnily enough, she actually felt more comfortable with that Skill than {Royal Decree}. {Royal Decree} had great potential for abuse, and there were countless terrible things that could be done with it, but {Power Word Kill} only killed. It was no different from any other offensive Skill. It simply used aether instead of mana. The second Skill Quest was, unfortunately, not so.
+
+[ {Mind Control} (Skill Quest): Force a creature to harm itself 10 times. Force a creature to act in your own best interests against its will 10 times. Force a creature to attack another creature it does not consider to be an enemy against its will 10 times. Reach Tier 8 in your Class or Species ]
+
+[ Progress: 2/4 ]
+
+[ Reward: {Mind Control} Skill ]
+
+{Mind Control} was widely considered to be one of the most evil Skills in existence and was banned by all nations. Many horror stories featured it being used liberally to control people against their will. The book on harmful mental Skills Elise bought focused on {Mind Control} as the pinnacle of all of them. And now she knew how to unlock it for herself.
+
+She was relieved to see that there was such a strict level requirement on the Skill, as it meant that not just anyone could have it, but at the same time, that level requirement than anyone who had the Skill had to be 8th tier. She did not know if that applied to unique Classes or Species that could get it early, but regardless, even if the method to unlock the Skill Quest was made public knowledge, it would not be possible for most.
+
+She dismissed this Quest after looking it over for a moment, then moved onto the next one, which was somehow even more worrying than {Mind Control}.
+
+[ {False Deity’s Aura} (Skill Quest): Give commands to 1,000,000 creatures who view you as a deity ]
+
+[ Progress: 856/1,000,000 ]
+
+[ Reward: {False Deity’s Aura} Skill ]
+
+It made sense that such a Skill would be offered to her after what she had done, but it also confirmed that her {Royal Presence} Skill was potentially the most dangerous one she had. It didn’t just induce fanatical devotion in the monsters that beheld her. It made them worship her as a deity. For now it was limited to 3rd tier and below monsters, but who knew how that would grow in the future.
+
+Part of her did not even want to attempt completing this Skill Quest. Her ultimate goal was ascending and becoming a goddess, so she did not want anything proclaiming her as a false deity in her Status Window. At the same time, she was immensely curious what the Skill would do, especially when it had such a staggering requirement to be unlocked.
+
+It was an aura Skill, and aura Skills were different from presence Skills in scale. When used normally, and not with Elise’s enormous aether reserves, presence Skills had more subtle effects, changing the way others viewed the user, but did not induce any specific emotions. Whatever emotions the affected experienced were based on their own self. Someone who looked up to royalty would put the user higher in their mind, and someone who looked down would put them lower.
+
+Aura Skills, on the other hand, had very specific effects, inducing very specific emotions and ideas. They were more potent, but also more obvious and less aether-efficient. The most common types of auras were meant to be used in battle to intimidate opponents, or to inspire allies. The effects were not dependent on the affected, and applied universally to all.
+
+For an aura Skill to have the name {False Deity’s Aura} and be so difficult to unlock, Elise could only imagine what it would be able to do. Unfortunately, imagining and wondering was all she could do. She doubted she would ever tell anyone she had gotten this Skill Quest. If she ever got to talk to Titania again, she might, since the goddess probably already knew, but other than that, she really didn’t want anyone knowing she was even aware of the Skill’s existence.
+
+With a sigh, she sat back up. It had been a fairly exciting night and she had learned a lot, but there was nothing left to do, at least in regards to that. The one Skill she had successfully unlocked was not something she could test in the house, and the other two Quests wouldn’t be completed any time soon, so she was left with nothing to do but her usual routine.
+
+She crossed her legs and closed her eyes, entering her soul realm. She found it just how she left it: mostly nebulous fog with a single room floating in the center. The room was coming along well, and had turned from a frankensteined amalgamation of her past bedrooms into something much smoother. It was still anachronistic, with pieces of modern-looking furniture mixed in with the more medieval styles of the new world, but the dichotomy was intentional now, rather than a product of her poor, confused soul trying to make sense of the impossible.
+
+With her bedroom nearing completion, Elise would soon need to start thinking of what else to create within her soul realm. After her conversation with Rayna, she knew she had to create some kinds of soul defenses, and while those were important, in reality, they were still only a supplementary thing. Her soul would serve as the seed of her Domain in the future, and that was what would take up the majority of the space within.
+
+Her bedroom was a good start, but she had known from the start that it would never be an actual part of her Domain. She did not even know if it would remain a part of her soul. It had mostly been a practice project to get accustomed to manipulating the space within her soul, which was something she desperately needed. At first, she had barely been able to do anything, but just the night before, she had been able to change an entire wall of the room to be uniform, and she knew that her speed would only accelerate from there.
+
+There was still an important piece missing before she would be able to make her Domain though: rules. Irylax had mentioned them, and in a later conversation with the dragon, Elise learned that rules were the foundations of true Domains. It was because Domains could impose the rules of the soul on reality that they were so powerful. Otherwise, they would just give a terrain advantage, which would be strong, but not so overwhelmingly so that it could be considered the foundation of a 9th tier’s strength.
+
+Technically, she was not done with her room yet, but after the excitement of the Dungeon, she was not quite ready for the monotony of changing the color of her walls and the softness of her sheets, so she decided to try focusing on these rules instead. Following Irylax’s advice, she first tried to mess with gravity, which was one of the few rules that existed in her soul realm at the moment. Manipulating gravity was a difficult concept to grasp, and at first, she had no luck, but after half an hour or so of trying various mental exercises, something clicked, and suddenly, she was weightless.
+
+She gently pushed herself upward, floating to the ceiling, reveling in the sensation. She spent a few minutes playing around in the zero gravity environment before getting back to the task at hand. Returning to the bed, she re-flipped the same mental switch she had before, and a moment later, she was being pushed downward again.
+
+She was pleased that figuring that small thing out had been so easy, but she also knew that it was only the first and simplest of many. The gravity rule already existed. All she did was find the switch to turn it off and on. She had not even modified it. That would be much more difficult, not to mention creating her own rules.
+
+She thought back to the only two times she had ever been within a Domain. Both times, it had been Freddy’s Domain, first in the council between the dwarves and drow, and second in his office when he told her about aether. The room that made up his Domain seemed quite simple, but in retrospect, even just that small room was incredibly complex. And she had no doubt that the room was only a small part of his Domain.
+
+But just that one room alone had multiple rules that Elise could think of off the top of her head. First, it customized the table and chairs for whoever would be entering. Both times she entered, there were exactly enough chairs for each person and the table was exactly large enough for them all to fit comfortably. Not only that, but the chairs had been customized to the people, with the dwarves and drow getting chairs, while Elise got a higher stool to accommodate her rabbit form.
+
+The complexity in those rules alone was already astounding, but the true powerful rule in the room was even more so. The ability to force its occupants to only to tell the truth was a rule that Elise had no idea how to enforce. With her low level of control of her soul realm, she could comprehend gravity being a force that pushed objects down, or even a table shrinking or growing to fit the number of people. Somehow not only detecting lies, but stopping them before they could even be uttered was something else entirely.
+
+If that was even actually what it did.
+
+She had almost trusted Freddy. Once. She didn’t completely mistrust him now, but Rayna’s words given under the geas of {Fey Bargaining} were impossible to ignore. Freddy claimed it was impossible to lie in that room, but in retrospect, it was entirely possible that the rule was simply that no one could say anything he himself disapproved of, and he had just manipulated the conversation to make it appear that it prevented lies. She didn’t think that was likely, considering his passion for law and things like that, but it was a possibility to consider.
+
+Either way, she had a long way to go before she could create a true Domain, even within her soul, but she was glad to have made her first step forward.
+
+Over the next hour, she tried to alter the direction of gravity, and only kind of succeeded. It was not as simple as simply willing it to point a different direction. It was more like bending it slowly in the way she wanted, and in the end, she only managed to tilt the axis of gravity by a few degrees, giving her room a slight slope. It had taken so long to make the change noticeable that by the end, despite the fact that she had somewhat succeeded, she was bored and had no interest in pushing things further. Instead, she switched from working on the soul realm itself to working on her soul form.
+
+Like her room, her soul form was coming along nicely. At least, the general shape was. It was still pure white and featureless like a store mannequin, but her hands were mostly hand-shaped and her body had some contours to it. It would be an ongoing project to start making her features look correct and realistic, but with how much more quickly she was able to get things done now, she hoped it wouldn’t be too long.
+
+She spent the next hour or so working on refining her hands, making her fingers more slender and making the joints work like joints instead of the weird, flexible, gelatinous substance that her soul form was made of. She didn’t get all the way done, but she made good progress before she grew too sleepy to continue doing good work. When she exited her meditation, she saw that it was well past midnight. It wasn’t a big deal, since she didn’t need as much sleep as she used to, but it was still definitely time for bed, so she took a brief shower, changed into her base form, and fell asleep.
+
+The next few days passed uneventfully. Elise went back into the Dungeon, but didn’t make as much progress as she hoped. She tested {Power Word Kill} on a few tier 4 monsters, and while it did work, it drained her aether at an absurd rate when she didn’t start by using {Royal Presence} to soften her targets up. She also didn’t get any insight into the rune. Whenever she used the Skill, her mouth seemed to move on its own, uttering something profound that she could never remember afterward, no matter how much she focused on it. She would definitely need to ask the dwarves if she wanted to know more.
+
+Jessie came over both of the next two nights, enjoying the freedom that came from not being with the church, as well as comfortable clothing. Elise managed to get her measurements in class, and then passed them along to Bianca who went to a local tailor to get a few casual outfits made. Jessie happily paid using the money that apparently she had in spades. Elise didn’t know why the Church of Light was giving the Saintess so much money when they never let her leave, but she wasn’t going to complain.
+
+The weekend arrived quickly, and with it was Sophie and Elise’s second club meeting with Fighting with Nature. And in this meeting, Professor Sucri announced the preliminary lineups for the Dungeon Competition.

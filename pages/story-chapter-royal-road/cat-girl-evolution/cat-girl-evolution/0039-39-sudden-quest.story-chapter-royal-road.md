@@ -1,0 +1,177 @@
+---
+id: 57e1fd9f-4242-54be-90ec-62c37c928b7c
+page-type-slug: story-chapter-royal-road
+title: "39 - Sudden Quest"
+slug: 0039-39-sudden-quest
+partOf: cat-girl-evolution
+position: 39
+ownLength: 1925
+unit: words
+publishedAt: 2025-10-22
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2695447/39-sudden-quest"
+royalRoadId: "2695447"
+---
+
+The library is very big. And very boring. They don’t even have any computers with games on them. Only books. I end up grabbing a few books and pretending to read for a bit before taking a nap in the window alcove until Lauren wakes me up. Then, I go back to sleep for a bit, because she was just waking me up to ask if I had any elemental affinities, and some time later, as the sun is beginning to set, she wakes me up again for the last time and drags me off to a little study room with some privacy enchantments on it.
+
+“I think I’ve got it,” she says once the door is locked.
+
+I yawn.
+
+“What do you think of Beginner Spatial Mana Vivitect Warrior?”
+
+“I think that the System developers would have to be really lazy for that to be a plausible Class name.”
+
+“...You know, now that I think about it, you’re right. That is a pretty lazy name.”
+
+Ha! Told you so.
+
+“And I told you that the System developers are scientists, not linguists.”
+
+Cope.
+
+“But it is plausible,” Lauren continues. “And it somewhat explains how you simultaneously have mana vivitect abilities in addition to high physical stats. This wouldn’t allow for some of your Skills though, so if anyone ever asks, say you learned it from your father.”
+
+“Can I say my mother instead?”
+
+“Sure, I don’t care. As long as you say you learned it from someone else.”
+
+“Okay.”
+
+“And you should set your level to somewhere between four and eight, and keep your Taker of Names Title equipped. Yeah, that looks good. Alright, then, let’s go get you registered.”
+
+“Hooray,” I say enthusiastically.
+
+At this time of night, the guild building itself is much less busy, but the taverns lining the street are packed and noisy. And they smell kind of good. The whole street smells like grilled and smoked meat. If they’ve got some competent cooks in there, that sounds like it might be a good idea. I am getting hungry again…
+
+But scallops are more important, so we can save that for another time. Lauren got the location from the restaurant manager, so as soon as I get my license, we can leave. Tavern meat can wait until we get back.
+
+The inside of the building seems to be about half full. There are groups of Adventurers dressed in various forms of arms and armor. They’re all different people from earlier, but still, none of them have a bigger weapon than me. One big tanky-looking dude in heavy armor catches me staring at his greatsword, and he smiles and winks, but I scoff and look away. I’d take out my own sword to show it off, but it’s a little bit too crowded, and I don’t want to accidentally cut someone in half. That would probably make it difficult to get my license.
+
+“Hello and welcome,” says the receptionist when we approach the desk. “How can I help?”
+
+“We need to get her registered as an Adventurer,” says Lauren, pointing to me.
+
+“Of course,” says the receptionist, reaching under her desk. “If you’ll fill out the mandatory paperwork, I’ll file-”
+
+“Lauren!” a deep, booming voice cuts through the din of the guild, making all the conversation stop.
+
+The source of the voice is an old-ish man standing at the bottom of a staircase on the left side of the room. He’s not very tall, and a bit overweight, but he’s overweight in a “used to be a professional strongman” kind of way. He reminds me of Old Man Frederick with the way he carries himself, and also with the fact that one of his legs is made of wood. Unlike Old Man Frederick though, this man isn’t old enough to be frail yet. I’m pretty sure he’s the strongest person in this room. Maybe. Instinctually though, I know that fighting him would be difficult. Much more difficult than the fight with Skarn.
+
+“Guildmaster Pike,” says Lauren. “Is something wrong?”
+
+“Yes,” he says. “Another emergency quest.” Lauren sighs. “Come upstairs with me. And bring your friend.”
+
+“She’s not registered as an Adventurer yet.”
+
+“We’ll sort that out later,” he says. “Let’s go.”
+
+“Yes, sir.”
+
+He turns to walk up the stairs and we follow. As we move, I notice something very interesting. Despite the fact that his leg is made of wood, it doesn’t actually register with Food Sense, meaning it’s not edible somehow. I can literally eat Soul Weapons now. What the heck is that leg made of? Can I ask him? Is it safe to ask him?
+
+“What’s your leg made of?”
+
+He hesitates for an almost imperceptible amount of time before continuing up.
+
+“Wood,” he says.
+
+“Yeah, but what kind of wood?”
+
+“Oak.”
+
+I narrow my eyes and look at his leg. It certainly looks like normal oak wood, but it doesn’t show up on Food Sense, so he’s clearly lying. I wonder what it’s made of and why he needs to hide it. A mystery for another time, I guess.
+
+He leads us to the top floor, the fifth floor, and into a big office where there’s one other guy already waiting. He looks pretty handsome, with short black hair, a chiseled jaw, and arms as thick as my waist. He’s sitting on a little couch with really stiff posture, and when we walk in, he glances over and gives a curt nod. He looks like he’s trying to act stoic and confident, but unfortunately for him, it’s not working well on me. I can smell the sweat on his palms.
+
+“Chad,” says Lauren coolly.
+
+She is also trying to hide her emotions. They clearly have some history. Romantic history, perhaps?
+
+“Have a seat,” says Guildmaster Pike, gesturing to a small array of chairs and couches.
+
+I jump into a comfy looking armchair. It’s not quite as comfy as it looks, but it’s serviceable, so I shuffle around and find a good position laying on it sideways with my legs dangling over the edge. The other three give me a weird look, and Lauren looks like she wants to say something. Too bad. I understand first impressions better than her. If I do this at the first meeting, and no one stops me, I’ll be able to keep doing it everywhere. If I tried being all polite and proper, I’d have to wait until they got more comfortable with me to let loose.
+
+Lauren takes a seat on a couch opposite from Chad, while Pike takes an armchair across from me. He glares at me, as if expecting me to fix my posture or something, but I just start picking at my nails instead. You can’t cow me with a scary look, old man.
+
+After a few seconds, he gives up and pulls out a few papers from his pocket and uses mana to float one to each of us. I snatch mine out of the air and hold it in front of my face. Abby summarize this for me.
+
+“What?”
+
+You’re AI, right? Can’t you give me a summary of what this says?
+
+“Well, yes, but are you really going to offload basic reading onto me?”
+
+Yes.
+
+“There’s only like eight sentences, but whatever. It’s an emergency Quest. The task is to investigate the reason that the world has lost contract with Ryantown, a fishing town about ten days away from here. The reward is 500 gold for simply accepting, and further rewards will be decided based on achievements.”
+
+Ryantown. That sounds familiar… Wait! Isn’t that-!
+
+“Yes, yes it is.”
+
+Actually, I forgot. What is it?
+
+“It’s the town that supplies the Sea Lemon with its scallops!”
+
+Oh! So this Quest just takes us there? And we get free money for doing it?
+
+“It would seem so, yes.”
+
+“So–” starts Lauren after apparently having finished reading her Quest.
+
+“We accept!” I say.
+
+“Yona!”
+
+“What? It’s free money. And it’s in the place we were heading anyway. Why wouldn’t we take it?”
+
+“Yeah, but we have almost no details.”
+
+“Well, we can just get the details right now then.”
+
+“Usually, you ask for the details before accepting Quests.”
+
+“Oops.”
+
+“While I appreciate the enthusiasm, I have to agree with Lauren,” says Pike. “But it doesn’t matter. I’ll tell you the details now. Just be aware that this information is a privilege afforded to you high gold Adventurers—and Yona, who is the level of a Platinum—and should be handled with discretion. There is no gag order, but I believe you’ll understand what I mean when you hear it.
+
+“In the past 40 days, a total of seven Named monsters have spawned. This is unheard of, and highly concerning. One of those Named was thankfully killed by Yona here, which we are grateful for. Another of them appeared in Ryantown, and was killed by an unknown entity. Now, while the Named monster is dead, we have lost contact with Ryantown entirely, and after hearing Lauren’s report of the ichthyoids, I fear that there was a hidden second Named that is the cause of this.
+
+“An emergency summons for all available high Gold and higher Adventurers has been issued to investigate the incident, which is why you are here. Should you choose to accept, you will be rewarded as shown on the page, and if my gut is right and this is something bigger than a simple Named monster spawn, and you find evidence of that, then I will personally make sure you are rewarded handsomely.”
+
+“How handsomely?” I ask.
+
+“Very.”
+
+“As handsome as Chad?”
+
+Lauren coughs, and Chad tries to keep a straight face, but his neck and cheeks are turning red. Pike shows the smallest of smiles on the corner of his lip, but that disappears quickly.
+
+“Yes, as handsome as Chad,” he says with a straight face. “I won’t lie and say that this won’t be dangerous. Whatever happened there, it was able to subdue the two high Gold Adventurers that were already stationed there. However, with danger comes opportunity. I know that Lauren, Chad, both of you are on the verge of becoming Platinum. Not only could this provide the requisite experience points, but depending on what the issue is, it could even give you enough achievements to make your push to Mithril trivial.”
+
+Both Lauren and Chad sit up a little straighter, which I didn’t know was possible for Chad. He’s on the verge of bending over backward with how tall he’s trying to sit.
+
+“Any further questions?”
+
+Both Lauren and Chad hesitate a few seconds, then start shaking their heads, then Lauren stops and looks over at me.
+
+“What about Yona? She doesn’t have her license yet. She also hasn’t received her rewards for the first Named monsters.”
+
+“Yes, and she can’t receive them without her license,” says Pike, nodding. “I have a plan for that. The twins will also be joining you, but they can’t leave until tomorrow afternoon. So before then, we’re going to get her a license as quickly as we can. Tonight. I will be the evaluator. You two will be the test party. We’ll do them both in the same Dungeon back to back.”
+
+“Right now?” asks Lauren.
+
+“Yes,” he says, standing up. “We don’t have time to waste. I need you three ready to leave in less than 24 hours.”
+
+“We’re going into a Dungeon?” I ask.
+
+“Yes,” says Pike.
+
+“What kind of monsters will be there?”
+
+“Lizards.”
+
+“Okay.”
+
+I’ve never eaten lizard before. I wonder what it tastes like.

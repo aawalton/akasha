@@ -1,0 +1,159 @@
+---
+id: 8ce40c5e-6f62-5d5c-8eab-843537869e8c
+page-type-slug: story-chapter-royal-road
+title: "171: Special Shop"
+slug: 0171-171-special-shop
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 171
+ownLength: 2236
+unit: words
+publishedAt: 2026-06-29
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3607873/171-special-shop"
+royalRoadId: "3607873"
+---
+
+Eventually, after what felt like an endless journey through twisting tunnels, dark caverns, and underground pathways that seemed determined to go everywhere except where Chloe wanted them to go, Liz finally led both her and Z into something unexpected, but very cool. They were all now in an underground city!
+
+And by underground city, this was a real one. This wasn't some secret hideout with a handful of people living in it. This was an actual living, and probably, breathing city. And it was awesome.
+
+Chloe stood there for a moment just staring. Huge stone pillars rose from the ground like the trunks of ancient trees, supporting parts of the cavern ceiling while countless lights lit up the city below. Some glowed with electricity while others looked more like lanterns or magical crystals, creating a strange mixture of modern and old-fashioned lighting.
+
+Buildings filled nearly every available space. Some had clearly been carved directly into the cavern walls, while others had been constructed from stone, metal, and materials Chloe couldn't immediately identify. Walkways crossed overhead, connecting different sections of the city, while bridges stretched between massive stone platforms suspended above lower levels. And wow, this place was super busy.
+
+People filled the streets everywhere Chloe looked. Fallen angels moved through the crowds in large numbers, their dark wings making them easy to spot even from a distance. Some wore practical work clothes while others dressed in long coats, armor, robes, or outfits pretty fashionable.
+
+But fallen angels weren't the only people here. As Chloe's eyes wandered across the crowds, she started noticing all sorts of strange faces.There were large green-skinned people carrying crates that looked heavy enough to flatten a normal person. Orcs, probably.
+
+Then there were pale figures with sharp features and pointed ears moving through the crowds. Dark elves maybe? Chloe wasn't entirely sure, but they certainly looked close enough.
+
+Every now and then she spotted even stranger individuals. A few towering figures with skin that looked like solid stone lumbered through the streets carrying enormous loads on their backs. Chloe had absolutely no idea what those were, but they looked neat.
+
+Street vendors sold food from open stalls. Merchants shouted advertisements to passing customers. Groups of children ran through the crowds while exhausted adults tried and failed to keep up with them. People talked, laughed, argued, worked, and lived their lives just like they would in any other city.
+
+And then things somehow got even weirder. There were no cars, so most people walked, but some people traveled on horseback, but not on your normal every day kind of horse. These horsies looked mean, with dark coats, multiple glowing eyes, and enough muscle to make Chloe think twice about insulting one.
+
+Chloe stared, and then stared harder for a while. Wow, those horses are so cool. And now that I think about it, I also have a horse!
+
+A grin immediately spread across Chloe's face as an idea suddenly popped into her head. "Hold on guys, I gotta do something!"
+
+Before either Z or Liz could ask what she meant, Chloe reached down and gave Cloaky a few gentle pats. "Heya Cloaky, can you please let Mr. White out?"
+
+Because Cloaky was cool, the fabric immediately stirred at the request. Then the entire cloak began writhing and shifting with a life of its own. Black folds of fabric rippled across its surface while the material stretched outward, causing nearby pedestrians to quickly take a few steps back. Upon seeing this, Liz blinked in confusion while Z adjusted her glasses.
+
+The cloak continued expanding while something inside pushed against the shifting material, creating a large bulge that steadily grew larger and larger until it was far too big to reasonably fit inside a normal cloak. Well, Cloaky wasn't exactly a normal cloak, to be fair, he was the most special cloak ever.
+
+A moment later, a skeletal head emerged from the darkness. Then came a neck, soon followed by an entire undead horse.
+
+Bones clicked as the creature stepped free from the cloak's folds, revealing a magnificent skeletal horse whose bluish-white mane burned with ghostly fire. Its empty eye sockets glowed faintly as it took another step forward, carrying itself with grace and dignity.
+
+Several nearby pedestrians immediately stopped what they were doing. One dark elf became so distracted by the sight that he nearly walked directly into a pole. Even one of the scary multi-eyed horses from earlier seemed to pause and look vaguely confused.
+
+Mr. White, meanwhile, looked completely pleased with himself. The skeletal horse lifted his head proudly while the blue flames flowing from his mane made him look like some legendary undead steed that had just arrived to save the day. Considering the number of people staring, Chloe was pretty sure he knew exactly how dramatic his entrance had been and was thoroughly enjoying every second of the attention.
+
+Chloe's face immediately lit up. "Mr. White!"
+
+She ran over and wrapped both arms around his neck, and as always, the skeletal horse let out a happy snort. He immediately lowered his head to nuzzle against her shoulder. Despite being made entirely of bones and spooky fire, Mr. White somehow managed to feel incredibly affectionate.
+
+"Aww, I missed you too buddy."
+
+Mr. White responded by attempting to shove his entire skull into her face. The gesture was so aggressive and enthusiastic that Chloe nearly lost her balance. She laughed even harder and patted the side of his neck while the skeletal horse continued trying to occupy the exact same physical space she was standing in.
+
+Meanwhile, both Z and Liz were simply staring. Neither of them looked quite sure what they were supposed to say. Their expressions weren't exactly alarmed, but they did look kinda skeptical. To be fair, Chloe supposed that watching someone casually pull an undead horse out of a living cloak wasn't exactly an everyday experience.
+
+Eventually, Z was the first to speak up. "Chloe, may I ask you a question?"
+
+"Sure, Z, what's up?"
+
+"Is Mr. White named after the horse from that television show?"
+
+"What television show?"
+
+"I cannot remember the title, but I believe it was some kind of children's show."
+
+Chloe thought about it for a moment. "Hmm. Okay, so it's kinda complicated. When I was younger, I had this plushie that I named after the horse from that show, right?"
+
+"I see."
+
+"But also, I wasn't really myself when I met Mr. White. So when I found him, I kinda just named him Mr. White because... well, he's white. Does that make sense?".
+
+Z stared at her for several seconds before nodding. "Oddly enough, yes. I actually understand that. I am not entirely sure why I understand it, but I do."
+
+Meanwhile, Liz's attention had shifted elsewhere. Specifically, she was staring at Cloaky. More specifically, she was staring at the perfectly normal-sized cloak now hanging from Chloe's shoulders as if she had not just watched an entire horse emerge from inside it.
+
+"How exactly did your cloak fit a horse in there?" Liz asked.
+
+Chloe looked down at Cloaky. Then she looked back up at Liz. "Uh, magic."
+
+Liz considered that answer for a few seconds. But eventually, the fallen angel simply shrugged. "Guess that works, not sure what kind of answer I was expecting anyway."
+
+Honestly, Chloe appreciated that response. Most people usually asked a lot more questions after witnessing something like that, and those conversations tended to get surprisingly complicated. Sometimes it was nice when people simply accepted that magical nonsense existed and moved on with their lives.
+
+After giving Mr. White a few more well-deserved head pats, Chloe finally continued following Liz through the city. Mr. White happily trotted beside her while the three of them moved deeper into the streets. However, the farther they walked, the more things Chloe wanted to look at.
+
+A lot of stores displayed strange weapons of all sorts of shapes forged from colorful metals, racks of glowing crystals, and books written in languages Chloe couldn't even begin to recognize. One store appeared to specialize entirely in magical plants, while another seemed to be selling enchanted household items. There was even one guy enthusiastically trying to sell what appeared to be enchanted pet rocks. Or maybe they were just normal rocks, it wasn't too clear from a distance.
+
+But the more Chloe stared, she was pretty sure that those rocks were just normal rocks with painted faces and googly eyes. And somehow the vendor already had a ton of customers! She didn't really get the appeal of just some rocks, but hey, more power to the folks who like them.
+
+Eventually, while walking through the streets, Chloe spotted something and stopped in her tracks. Between two much larger buildings was a small shop that grabbed her intention intensely. The front windows were packed from top to bottom with colorful trinkets and curiosities, little glass animals sitting beside decorative masks while crystal wind chimes hung from the ceiling. There were also these strange charms, carved figurines, polished stones, keychains, jewelry, tiny sculptures, and dozens upon dozens of completely unnecessary, but very interesting looking knick knacks.
+
+Chloe could already tell this was exactly the sort of place where someone walked in intending to browse for two minutes, got distracted by something shiny, then somehow emerged three hours later carrying a bag full of things they absolutely did not need but were very happy to own. Back when she still lived in Heaven, she'd always enjoyed wandering through gift shops and curiosity stores whenever she got the chance because there was just something fun about looking through shelves full of random cool stuff.
+
+For all Chloe knew, she might never get another chance to browse a place like this again, which made walking past it feel super lame. "Hey, hey, hold on!"
+
+Both Z and Liz stopped and turned toward her.  Z shot this look at Chloe like she was super suspicious of her. "Do you need something, Chloe?"
+
+"I do need something," Chloe said very seriously.
+
+Z sighed. "What do you need?"
+
+Chloe pointed toward the shop. "To look at the stuff there of couse."
+
+There was a brief pause as both women followed her finger.
+
+"Oh," Liz said. "That place."
+
+"You know it?"
+
+"I've been there a few times."
+
+"Really?"
+
+"Oh yeah, they have some neat stuff. I bought a jar with a pickled finger from there a while back."
+
+Chloe's eyes widened. "That's so cool. Can we go take a look at some stuff there for a bit?"
+
+Liz glanced at the storefront, then back at Chloe and shrugged. "Sure. Why not?"
+
+Chloe immediately turned toward Z with an expectant look. The former administrator could only pinch the bridge of her nose. "A small detour wouldn't hurt, I suppose."
+
+"Yay!"
+
+Victorious, Chloe immediately changed direction and marched toward the shop before anyone could reconsider. The closer they got, the stranger the displays became. She spotted a glass eyeball sitting on a tiny velvet cushion, several jars filled with things she wasn't entirely sure had ever been alive, and what appeared to be a taxidermied fish wearing a tiny suit.
+
+Who even made this stuff? More importantly, who bought it? Actually, scratch that, she would probably buy it. Mom's credit card would've been really handy in times like this.
+
+Just before reaching the entrance, Chloe suddenly stopped as something important occurred to her. She turned around and looked at Mr. White, who had been happily following along behind them. Chloe walked over and gave his neck a few affectionate pats.
+
+"Mr. White, can you wait outside for a bit? I'll be right back."
+
+The horse let out a snort as if to say "yes". Then, Chloe pointed toward a nearby stone post standing beside the street. "Just stay near that pole over there, okay?"
+
+Mr. White followed her gesture, turning his head to inspect the post as though he were seriously considering the assignment. After a moment he looked back at Chloe, then gave a slow nod.
+
+"Good horse, and if you're in danger, make a lot of noise." Chloe said.
+
+Mr. White nodded again, and the horse looked almost offended by the implication that he wouldn't know how to cause a scene. Feeling happy, Chloe turned back toward the shop.
+
+"Okay, now we can go!"
+
+The three of them approached the entrance together before stepping through the front door. A small bell hanging above the doorway immediately rang.
+
+Shelves stretched from floor to ceiling, packed so tightly with curiosities and trinkets that Chloe couldn't imagine how anyone found anything. The entire place felt like somebody had collected several centuries worth of weirdness and crammed it into a single building. And Chloe loved it instantly.
+
+Before she could start exploring, however, a booming voice echoed through the store.
+
+"Customers!"
+
+A man practically burst into view from behind a shelf. The first thing Chloe noticed was his magnificent mustache. The thing curled dramatically at both ends like it belonged on a stage performer who spent three hours grooming it every morning. His dark coat was covered in decorative buttons, while several colorful rings glittered on his fingers.
+
+"Welcome, welcome, welcome!" he declared, throwing his arms wide. "A most wonderful day has just become even more wonderful! Allow me to introduce myself, I am Bosco! Merchant extraordinaire! Supplier of the strange, the mysterious, and occasionally the mildly alarming!"

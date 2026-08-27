@@ -1,0 +1,97 @@
+---
+id: 2ddea190-2544-5528-b02a-b3fbeaf91a0e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1592 - The Singing Won’t Stop"
+slug: 0240-chapter-1592-the-singing-won-t-stop
+partOf: chrysalis
+position: 240
+ownLength: 975
+unit: words
+ownProgress: 975
+publishedAt: 2025-06-25
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2383187/chapter-1592-the-singing-wont-stop"
+royalRoadId: "2383187"
+markedReadAt: "2026-06-29T19:51:29.251Z"
+---
+
+Theresant wasn’t sure what was happening. Brood Tenders ran everywhere outside the snailcare centre, checking readouts, consulting with experts. Musical experts were rushed in to listen and analyse, but none had any answers.
+
+The snails wouldn’t stop singing.
+
+Young as they were, as little as two months, the hatchlings were still weak, still growing quickly. These weren’t monsters, ready to fight for survival the moment they were born, and the Tenders were terrified of the cost this continuous exertion would have on the snails if they didn’t stop.
+
+“Are there any of their regular foods we haven’t offered them?” Theresant demanded.
+
+“We’ve tried all of them,” a Brood Tender replied. “They haven’t shown interest in eating at all!”
+
+Not eating! This was the worst possible sign.
+
+“Leave the food out there and observe closely,” Theresant ordered. “They’ll surely grow tired and want to eat soon. Is the chief singing instructor here?”
+
+“I am!” another Brood Tender scuttled forward.
+
+“Mozant, I’m glad you could come so quickly. I know you’ve been busy studying the musical form.”
+
+“It’s all about structure,” the increasingly eccentric ant replied, “I don’t even need to hear it anymore.”
+
+Theresant looked at her a little strangely. They… they were ants… technically they couldn’t hear, not like humans did. No ears, or ear drums to speak of, the members of the Colony interpreted vibrations using the fine hairs on their antennae and legs. Mozant had never been able to ‘hear’ music, not properly.
+
+It didn’t matter.
+
+“Well what can you make of this song the hatchlings insist on singing?” Theresant demanded. “Are you able to glean some meaning from it?”
+
+“Give me some space, some space dammit!” the ant cried. “I can’t work in these conditions! Let me listen!”
+
+Then she pressed herself against the two-way glass, antennae flat against the surface, picking up every tiny vibration emitted within the room. Theresant knew they had pushed to evolve Mozant to the fifth tier soon after her arrival in the hopes there would be some music or sound-related organs and mutations she could make use of.
+
+Other than the mane of long white hairs that ran down the back of the ant’s head, there wasn’t much visual difference between her and the other Brood Tenders, but her behaviour had certainly changed after the evolution. Studying music seemed dangerous for the mind….
+
+“Yes… yes, I see… Fortissimo! Such power in the Rhythm! The rumbling Bass! The falling Alto! The soaring Soprano! The Tenor in support, an unwavering pillar! Such harmony, such beautiful, beautiful harmony!”
+
+“What… what does any of that mean?” Theresant muttered.
+
+“I’ve had to invent new terminology in the study of sound,” Mozant roared in reply. “Now Silence! I’m listening!”
+
+The expert continued to mutter to herself, white hairs slowly standing up until Theresant was sure she could see them vibrating along with the sound from within the chamber. Other messengers came and went, more methods were tried to dissuade the chal from singing, but to no avail. The little snails had gathered together in the center of the chamber, all facing the same wall to the east and singing their little hearts out.
+
+Even as an ant, Theresant knew the sound was beautiful, moving, even. As young as they were, the snails were still capable of such profound vocal skills. Perhaps the curriculum the Tenders had created was working as intended?
+
+“I have it!” Mozant declared with a maniacal laugh. “Yes. YES! It speaks to me, such music. WHAT MUSIC!”
+
+“What? What have you learned?” Theresant demanded.
+
+The white-haired ant rounded on her, mandibles snapping with incredulity.
+
+“You don’t hear it? Listen to the timing signature, the urgent rise and fall of the harmony! Surely you can understand, they are speaking with the language of the soul!”
+
+Theresant raised a leg and slapped the ant across the face.
+
+“We don’t have time for your nonsense,” she said in a clipped scent, “the well-being of the young is at stake. You are a Brood Tender, not a musician. Focus.”
+
+Mozant staggered back, clutching at her head. Which didn’t make sense, Theresant’s legs were not made for striking, and as a being possessing an exo-skeleton, the musically inclined ant would barely have felt the blow at all.
+
+“Yes… yes, I’m sorry. I was seized by the passion of the music. I apologise.”
+
+Rising to her legs, Mozant straightened herself.
+
+“They are singing an exhortation of some kind, a plea, if you will. A leg extended in song to another, hoping they will come and meet them halfway.”
+
+“How can you be so sure?” Theresant asked.
+
+She could understand the plea, the emotion underlying the song could be interpreted, but the rest?
+
+“There are gaps in the melody. Listen for a moment, right… here!”
+
+Both ants extended their antennae, heads tilted slightly.
+
+“I’m… not sure I understand,” Theresant admitted. “I didn’t hear them sing much at all in that moment.”
+
+“Exactly! The song is structured in layers; at times, the chal rise, their plea coming to the forefront, and then at others, they retreat, waiting for another to come forward and fill the gap, to sing back to them and join the harmony. There are openings all throughout the song. Gaps in every register that would take another choir to fill, to match their rhythm and make the melody complete.”
+
+“But who are they singing to? Who are they waiting for?” Theresant demanded.
+
+“I can’t say,” Mozant replied, clicking her mandibles sadly. “Perhaps if they hear what they want to hear, they will stop singing, but perhaps not. This is all I can glean from the song with my current knowledge. I’m sorry I can’t do more.”
+
+Theresant pondered for a moment, eyes focused on the tiny snails continuing to sing without break.
+
+“No… there may be more you can do. Don’t leave just yet.”

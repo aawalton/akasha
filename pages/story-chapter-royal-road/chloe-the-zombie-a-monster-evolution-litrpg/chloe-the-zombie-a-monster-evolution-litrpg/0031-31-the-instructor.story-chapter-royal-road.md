@@ -1,0 +1,199 @@
+---
+id: e1dd90e0-932d-5c1c-be3a-3538e1e5a08a
+page-type-slug: story-chapter-royal-road
+title: "31: The Instructor"
+slug: 0031-31-the-instructor
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 31
+ownLength: 2364
+unit: words
+publishedAt: 2025-09-15
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2602307/31-the-instructor"
+royalRoadId: "2602307"
+---
+
+Chloe left the bank pretty happy. Although, she did have to walk for quite a while to get there.
+
+Apparently, there were no banks anywhere near the Thieves Guild. Which didn’t make sense at all. There were loads of people with guild tags over there, so surely they’d need banks too, right?
+
+She walked in the bank, and the lady at the front desk gave her one of those polite smiles. Then she hit her with the whole “How can I help you?” thing.
+
+Anyway, Chloe just plonked Baron Willy’s letter onto the counter and announced she wanted to turn it into coins. The lady blinked at her, then at the letter, then back at her, and suddenly went all extra polite.
+
+Next thing she knew, Miss Helpful was walking her through a bunch of tedious forms. Chloe even tried doodling on one, but apparently she wasn't supposed to do that.
+
+Everything was totally fine… until the lady pulled out some weird rock and zapped it at Chloe’s guild tag. Apparently, the rock could peek inside the tag and spill all the juicy details, like who it actually belonged to and other stuff like that.
+
+Anyway, the lady did her little sparkle trick, and suddenly her smile went all stiff. Then she leaned over to whisper at some guy who definitely looked like her boss. The serious type with the “I look at papers for fun” face.
+
+They did that sneaky talking thing where people pretend you can’t hear them. But Chloe totally could. She had pretty good ears.
+
+Still, Chloe got her money in the end. Apparently, it was all sitting in some fancy place called a bank account now, and she could take out however much she wanted whenever she felt like it.
+
+The bank people explained the whole thing to her, something about having this “account” tied to her guild tag. She could just flash her tag at any bank and they’d hand over coins from her stash. Even if it was a totally different bank! Chloe thought that was pretty cool.
+
+She didn’t feel like lugging around hundreds of coins, so she grabbed ten, stuffed them into a little pouch, and fed it to Cloaky for safekeeping.
+
+With that done, Chloe figured it was probably time to head back to Baron Willy’s place. Maybe that scholar she'd been waiting for had finally shown up.
+
+The walk back to Baron Willy’s estate took longer than she remembered. And by the time Chloe got there, two servants were standing near the entrance. The moment they spotted her, their faces lit up like she’d just brought them some fresh brains.
+
+Apparently, Chloe had been gone a long time. Long enough that the scholar had already been inside for almost a week now. And, according to the servants, the scholar was planning to leave soon, so they looked pretty relieved that Chloe had finally decided to come back.
+
+Before Chloe could say much, they ushered her through the gate and into the estate. Then the servants led her to the big fancy room where Baron Willy was waiting.
+
+Except, there was no scholar inside. Just the Baron sitting there, looking all important.
+
+“Hey, Baron Willy,” Chloe said, stepping inside. “Where’s that scholar?”
+
+The Baron’s head tilted slightly. “Where in the world did you go?”
+
+“Oh. Well, I went out, finished a bounty, and now I’m a C-rank member of the Thieves Guild.”
+
+Baron William stared at her, and then he started talking. A lot. “Miss Chloe, do you have the faintest notion of the risk you’ve placed upon my name? A gentleman’s reputation is not some trifling bauble to be tossed about in idle sport. My obligations are numerous and delicate, many of them cultivated over years of careful diplomacy. And now…”
+
+Chloe blinked at him. That was… a lot of words. And she was pretty sure half of them weren’t real.
+
+The Baron was still talking when a calm, firm voice cut through the air. “William, that will do, don’t you think?”
+
+He stopped and drew in a breath before lowering himself back into his chair. “My apologies, Lady Sabine.”
+
+Chloe perked up, grateful for whoever had just saved her from drowning in Baron Willy’s word soup. A woman strolled in through the doors.
+
+Her hair brushed her shoulders, all blonde and tidy. Her eyes were sharp and blue, the kind of blue that made Chloe think of the sky.
+
+Also, her clothes kinda looked like Z’s, boring. And she had this thing… a “jacket,” Chloe was pretty sure the merchant guy had called it. He’d tried to sell her one when she was buying that storage scroll, but she still didn’t get the point. It was like a cloak, but smaller? Sadder? Like a cloak that had given up halfway.
+
+Still, Chloe had to admit this lady’s jacket looked pretty cool. Even if she wasn’t wearing it. It was just draped over her shoulders like a cape, letting it hang there.
+
+Chloe gave the lady a smile. “Hi, Sabine. I’m Chloe.”
+
+Baron Willy’s head snapped toward her like she’d just insulted the king. “That’s Lady Sabine.”
+
+Chloe was about to ask why adding extra words mattered when Sabine let out a soft, amused chuckle. “Yes, I see she’s precisely as you described in your letter, William, possibly worse.”
+
+“Yes… that is simply how she is. I apologize for her being late—”
+
+“The apology ought to come from Chloe herself, don’t you think?”
+
+Chloe tilted her head, frowning slightly. “Why? What do I need to apologize for?”
+
+William’s mouth opened. She could see it, the start of another barrage of words were coming, and it was not going to be fun.
+
+Yet, before he could get past the first inhale, Sabine raised a hand. “William, really. We both know she won’t understand, even if you gave her the full lecture. I shall continue with Chloe alone for now. You may attend to other matters.”
+
+"Are you certain, Lady Sabine?"
+
+“Perfectly.”
+
+Baron Willy smoothed down his coat again, clearly not thrilled about the idea, but he didn’t argue. “Very well. Until later, Lady Sabine.”
+
+Then his gaze flicked to Chloe. “And you, do try not to cause trouble while I’m gone.”
+
+Chloe gave him her brightest, most innocent smile. “Of course.”
+
+William muttered something under his breath as he swept past her and out of the room, leaving just Chloe and Sabine in the big space.
+
+The door clicked shut behind Baron Willy, and for a moment the room felt strangely quiet. Then Sabine turned her attention to Chloe fully. “You’re an undead, aren’t you?”
+
+Chloe couldn't believe that she'd been figured out so fast. “What, how did you know?”
+
+Sabine’s lips curved into a knowing smile. “Just a feeling.”
+
+She strolled closer, the cape-like jacket shifting slightly with her steps. “According to William’s letter, you were apparently eager to learn magic. But somehow, I have my doubts.”
+
+Chloe shrugged. “Well, I’d like to learn magic. But the best way to do that is to eat someone’s brains! Speaking of which, I do plan on eating your brain, so could you just hold still for a few seconds?”
+
+“Oh, aren’t you simply adorable? How ever do you manage it?”
+
+“Thanks! I am adorable. But anyway, I’m going to eat your brain now."
+
+But before Chloe could get closer, Sabine lifted a hand. “Hold on, before you do that, why don’t we make this interesting?”
+
+“Interesting how?” Chloe asked.
+
+“Let's make this a challenge. We fight, and if you win, you can have my brain. But if I win, you’ll do exactly as I say for the rest of the day."
+
+Chloe's eyes narrowed as she actually stopped and thought about it. Like, really thought. Not the usual “should I eat this?” kind of thinking, but the deep, complicated kind where she had to squint a little.
+
+On one hand, Sabine felt… dangerous. The kind of dangerous that could turn Chloe to soup if she wasn’t careful. On the other hand… brains. And not just any brains, Sabine's brain was probably going to be really tasty and very magical.
+
+The more she weighed it up, the more all the boring “don’t fight her, she’ll kill you” reasons faded into the background. Chloe just couldn't resist wanting to eat what was likely going to be one of the better brains she's had.
+
+Chloe let out smug smile. “Alright. You’re on.”
+
+***
+
+Sabine led Chloe all the way to this huge body of water that stretched out under the sky. It had taken forever to get out of Kelvane, along twisty little paths, deep into a dense forest.
+
+Eventually, Chloe had given in and asked why they had to walk this far just to hit each other. Sabine explained that they needed somewhere they could both go all out, which was sort of fine by Chloe.
+
+The good news was that Chloe was eager to try out her new tricks against an actual opponent. She could already picture Sabine’s face when she pulled out something extra cool.
+
+The bad news? Sabine had that same glint in her eyes, the “this is going to be fun” look. This was great if you were the one doing the fun part, less great if you were the one being made fun of.
+
+Well at least one of us is going to have a great time. Chloe thought.
+
+“Whoever lands the first hit wins. That’s all.” Sabine said.
+
+“Okay. So… when do we start?”
+
+“You may start whenever you wish.”
+
+Chloe let out a smug grin. She wasn’t going to lose.
+
+She stilled, then turned herself invisible. Chloe ran to the side, weaving through the shadows until Sabine’s back was right there. Easy. One hit right between the shoulder blades, and she’d have her—
+
+Crack.
+
+The world split open in a blinding flash, so sharp and sudden it felt like the air itself had screamed. It burned weird shapes into Chloe’s vision, leaving her blinking at floating blobs of color. And then there was… whatever that was.
+
+A jagged, blue streak of light that cracked and hissed, tearing across the space where Sabine had stood. It left a stinging tang in the air, and little flickers of light still snapped and popped in the empty space.
+
+In the blink it took her to flinch, Sabine was gone.
+
+Chloe’s fist sliced through nothing. Her invisibility sputtered and faded, and she shimmered back into view mid-swing. “Huh? Where’d you—”
+
+“Over here.” Sabine’s voice came from behind.
+
+Chloe spun, still confused. “Okay, what just happened?"
+
+Sabine tilted her head, a faint smile tugging at her lips as if she couldn’t quite decide whether the question deserved praise or pity. “Lightning magic, my dear. Quicker than most can follow, and far less forgiving to those who don’t.”
+
+Chloe blinked, still seeing that jagged streak burned into her vision. “Lightning, huh? And you’re, like… really good at this zappy stuff?”
+
+“One of the best. But enough about me. Surely you can do more than vanish and hope for the best, right?”
+
+Chloe’s eyes narrowed. Alright, Miss Sparky, let’s see you dodge this.
+
+Time for a Cursed Rock Shot. The stone floated at her side, black energy crawling over its surface.
+
+It shook a bit before Chloe whipped her arm forward and sent it hurtling straight for Sabine’s chest. The projectile hissed through the air fast, only for Sabine to step aside easily to avoid the attack.
+
+Chloe’s grin thinned. Why was hitting this lady so hard?
+
+She dropped low and exploded into a sprint. Acid welled up in her throat before she spat a scalding stream toward her target.
+
+The ground where Sabine had been standing hissed violently, little curls of smoke rising from the scorched earth, emphasis on had. Now Sabine was three steps to the side, untouched, as though Chloe’s attack had been nothing more than a mild inconvenience.
+
+Still, Chloe didn't give up. She charged again, this time curling her fingers into a tight fist. The black tendrils under her skin writhed, then surged outward, propelling her hand forward with a vicious snap.
+
+The sudden burst of reach should have caught Sabine off guard, except the lady merely tilted her head, letting the strike carve past her cheek, so close it stirred the edge of her jacket without touching it. The tendrils recoiled, sinking back beneath Chloe’s skin as her arm returned to its normal position.
+
+Honestly, Chloe was starting to run out of tricks. She had lobbed her brand-new spell, Fireball, straight at Sabine, only to watch her sidestep it. Then came Bind Human.
+
+Chloe summoned dark chains that whipped up from the ground to ensnare her target, except Sabine simply vanished in a ripple of light before they could even brush her. And, of course, she reappeared behind Chloe, calm, and looking infuriatingly smug.
+
+Well, Chloe wasn’t done yet. Cloaky flared behind her, rippling and twisting like it could taste her frustration.
+
+Black tendrils exploded outward, splitting into dozens of snapping coils that tore through the air toward Sabine from every direction. For a moment, Chloe knew she had Sabine.
+
+Then Sabine moved. She didn’t just weave through the tendrils, she was cutting them down. Each time a tendril came within reach, lightning flared along her hands, and the shadowy tendrils split apart, dissolving into curling wisps of black.
+
+Chloe just stood there, staring. How was that even possible? She’d tried cutting her own tendrils with a sword before, and nothing really happened. But here was Sabine, casually chopping them up with her lightning hands.
+
+When the last of her tendrils got sliced up, Chloe yanked them back into Cloaky. Clearly, she was gonna need a different plan, preferably one that didn’t involve watching her attacks do absolutely nothing.
+
+Sabine, of course, looked like she was having the time of her life. Lightning curled and snapped between her fingers, restless like it couldn’t wait to be set loose. “I believe it’s about time I got an attack in… yes?”
+
+Chloe’s grin twitched, and a little knot of worry wriggled in her chest. This was probably the part where things got bad.

@@ -1,0 +1,137 @@
+---
+id: 1a3ec77e-d5e0-518b-b161-db09226943a0
+page-type-slug: story-chapter-royal-road
+title: "113: Through the Fog"
+slug: 0113-113-through-the-fog
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 113
+ownLength: 1994
+unit: words
+publishedAt: 2026-02-13
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3050327/113-through-the-fog"
+royalRoadId: "3050327"
+---
+
+Chloe thrust her arm forward and let the lightning go. The bolt tore free in a blinding flash, a screaming mass of energy that ripped through the fog.
+
+It slammed straight into the Fog Spewer’s head with a thunderous crack, the impact so violent it shook the entire chamber. Light flooded the room for a split second, burning away mist as the dragon’s skull took the hit head-on.
+
+The explosion was messy. Bone shattered outward in jagged chunks, cracked horns snapping clean off as lightning crawled through every fracture. Dead scales and flesh disintegrated into ash, and fog burst violently from the dragon’s neck.
+
+Chloe hovered closer as the last arcs of lightning fizzled out around her arm. She stared at the smoking stump where the dragon’s head had been. She was pretty sure that her awesome lightning attack must have done the trick.
+
+She waited out of habit. Any second now, a notification would pop up stating how she defeated the monster. But even after waiting a while, nothing happened. And that was bad news.
+
+Chloe hovered there for a moment longer, staring at the headless body. Fog kept pouring out of the ruined neck, and the corpse didn’t collapse the way a dead thing was supposed to. Instead, it slowly straightened up.
+
+Oh no, Chloe thought.
+
+So, somehow this big dumb zombie dragon was actually getting back up after her lightning blast. The fog around the body began to churn, pulling inward instead of spreading out, like it was being sucked back into the dragon's body.
+
+Chloe panicked as the mist gathered above the shattered stump where the head had been. It twisted and compressed,  until a skull started to take shape.
+
+Bone pushed outward from the fog with wet, grinding sounds that made her skin crawl. Horns curled back into place, longer and sharper than before, and dead scales crept across the surface like frost spreading over stone.
+
+Within seconds a full head had grown back where there should have been nothing. One glowing eye snapped open, bright and wrong, staring straight at her like this was all completely normal.
+
+How is that even fair? I'm like, so annoyed right now!
+
+The Fog Spewer rolled its neck once, fog leaking from between its teeth. “Few manage to damage me so thoroughly. You've done well, zombie girl."
+
+Chloe crossed her arms midair. “Yeah? Well, you’re a jerk.”
+
+The dragon ignored her completely. Fog began to coil around its body as it became really hard to see where it was going. Its massive form blurred at the edges, already half-gone. “I will let you go for now. But you will have to face me again if you truly want to leave this place."
+
+“For now?” Chloe snapped. “Hey, get back here. I’m not done with you!”
+
+She hurled a blast of fire after it out of pure spite. They passed straight through the dragon’s fading form, burning nothing but fog.  The Fog Spewer continued to dissolve until there was nothing left of it visible.
+
+Chloe was really frustrated, and she kicked the air like it might make her feel better. She wanted to scream, or punch a pillar, or chase the stupid dragon wherever it had gone and finish the job properly. But she knew that trying to find the jerk right now was probably a tall ask.
+
+So instead, Chloe focused on more important things, like Mr. White. She dropped to the ground and looked all around the chamber wildly. “Mr. White? Are you there?"
+
+Chloe broke into a run as she didn't hear a reply. Her eyes darted through the thinning mist, every shadow making her stomach twist. Until finally, she saw movement.
+
+Mr. White stepped out from between two cracked pillars, trotting toward her. And aside from a few new marks on his bones, he looked perfectly fine.
+
+Chloe didn’t slow down. She slammed into him at full speed, wrapping her arms tight around his bony neck as she squeezed as hard as she could. “Mr. White!”
+
+He let out a surprised snort, then stood still, letting her cling to him while his flames flared a little brighter. Mr. White was probably used to her hugs by this point.
+
+Anyway, after all that, Chloe climbed back up onto Mr. White and pointed toward the doorway the Fog Spewer had pointed to earlier. “Alright let’s go check out the spooky door.”
+
+Mr. White obliged right away, starting into a steady trot. His bones clacked softly beneath her as they moved, and Chloe leaned forward a little, frowning as she thought hard about what she was actually walking into.
+
+The Fog Spewer had said that behind the door was some place where death could be undone or something like that. Chloe wasn’t sure how much she believed that, and she didn’t want to trust anything that jerk dragon said. For all she knew, the doorway led to absolutely nothing important, or worse, somewhere even more annoying.
+
+Still, it wasn’t like she had many options. She didn’t see any other way out of this stupid place, aside from going back the way she came. But Chloe was a brave zombie, she wasn't going to back down just like that.  She’d already come this far, and she hated backtracking almost as much as she hated fog.
+
+By the time she and Mr. White reached the doorway, Chloe noticed that the doors were already open. They stood wide, dark inside, almost like they were trying really hard to look inviting. It felt less like a normal doorway and more like it was saying, come on in, it’s totally safe and not dangerous at all.
+
+Chloe looked down at Mr. White and tilted her head. “So, this door is bad news right?"
+
+Mr. White snorted softly, shifting his weight in a way that Chloe decided absolutely meant yes. She nodded and just said, "Yeah, I thought so."
+
+Chloe sighed, then looked up at the doorway anyway. “Okay, we’re going in. But if anything gets weird, you turn around and run."
+
+Mr. White snorted and stepped forward, trotting through the doorway. The space beyond opened into a long tunnel, its walls stretching on and on until they disappeared into darkness.
+
+Chloe squinted her eyes. Wow, that is a really long tunnel. Wonder how long it'll take for me to see the end of it?
+
+They kept going. And going. And going. The tunnel didn’t curve or change or do anything interesting at all. It was all really boring, and part of Chloe wished she was still fighting the Fog Spewer; at least then, she'd actually have some amount of fun.
+
+Chloe slumped a little, tapping her fingers against Mr. White's neck while her eyes slowly glazed over. "Hey buddy, could you go a little faster? No, actually, a lot faster?"
+
+Mr. White broke into a gallop, bones rattling louder as his pace sped up. Chloe perked up for about five seconds, waiting for literally anything to happen, but nothing did.
+
+The tunnel just kept stretching forward, exactly the same. They galloped for a while longer, and Chloe lost track of time completely. Her boredom reached new, impressive heights. She swung her legs a little, counted cracks in the walls, and briefly wondered if the tunnel was there just to waste her time.
+
+***
+
+Raenof had known the fey lands would be difficult. That much had been obvious from the start.
+
+Still, he had hoped that things wouldn't be this annoying. Getting lost over and over again, stumbling through twisting paths that refused to stay the same, and being forced to fight creatures he could only describe as flower trolls had turned the journey into something far more concerning as time dragged on.
+
+He exhaled slowly and turned his attention to Sierra. The beastkin girl had just finished off one of the trolls, its massive body swaying unsteadily before collapsing with a heavy thud.
+
+Sierra stood there for a moment, breathing hard, her claws slick with a strange fluid Raenof assumed was blood from the trolls. For all her shyness and nerves, she had proven herself again and again. Seeing her standing there eased something tight in Raenof’s chest.
+
+She was one of the few things that made him feel safer in this place. There was, unfortunately, someone who did the exact opposite. Raenof’s gaze shifted to Ynett, and he felt his shoulders tense without meaning to.
+
+The Ophian woman stood among the remains of three other trolls, their bodies frozen solid in ice. Shards pierced through flesh, holding the creatures in twisted, unnatural shapes. She hadn’t looked tired or strained at all. If anything, she looked bored.
+
+Raenof didn’t feel the same comfort looking at her. Ynett was hard to understand, and not in a good way.
+
+She was so powerful that he couldn’t tell why she was helping them or what she really wanted from him and Sierra. The fact that she had helped so far didn’t make that feeling go away.
+
+It made it worse. She had hurt Sierra before as well as Chloe too. So, the idea that she was only here out of kindness was impossible to believe. And yet, despite all of that, she hadn’t done anything to harm him or Sierra since they had been trapped together in this place.
+
+For now, Raenof pushed the unease aside. There was no use speculating when survival demanded focus. His priority was simple, even if the path to it wasn’t. All he needed to do was find Chloe, and then get all of them out of this dungeon in one piece.
+
+Raenof turned toward Sierra, keeping his voice calm and steady. "Have you noticed anything that might point us toward an exit?"
+
+Sierra startled slightly when he addressed her, then relaxed when she realized he wasn’t upset. After a moment, she closed her eyes and leaned forward a little, nose twitching as she sniffed the air.
+
+“I… um,” she began, then paused, sniffing again more carefully. “I think so. There’s something ahead that smells different.”
+
+“Different how?"
+
+Sierra frowned. “Not… like this,” she said softly, gesturing around them. “I don’t know how to say it, but it feels like there's something uneasy, undead actually, to be more accurate."
+
+Before Sierra could respond, Ynett spoke up. “I am impressed. Didn't really expect you to smell anything through all that troll flesh and rotten flowers.”
+
+Sierra flinched, her ears flattening as she shrank in on herself. Seeing this, Raenof knew that the wolf girl was incredibly uncomfortable.
+
+He turned slightly toward Ynett, shooting a cold look. "Please be careful with how you speak to her.”
+
+Ynett blinked, then laughed softly. “Oh, my apologies. I meant no harm.”
+
+Raenof didn’t answer that. He had learned that responding too much only encouraged her. Instead, he turned back to Sierra and gave her a reassuring nod. “We should keep moving. If your instincts say something is different ahead, then it is worth checking. But we need to stay careful, since any undead we run into here could be dangerous and very different from what we’ve seen so far.”
+
+They started walking again, moving carefully through the twisting paths. The ground was uneven, covered in crushed petals and frozen remains from the earlier fight. Raenof watched their surroundings closely as the plants slowly thinned and the air began to change. Sierra stayed close, sniffing the air now and then and guiding them with small gestures.
+
+Raenof matched her pace, slowing whenever she hesitated. Ynett followed behind.
+
+After a while, they entered a tunnel, and Raenof found himself squinting into the darkness ahead. Something moved there, something that didn’t belong. Bluish flames grew brighter as a skeletal horse trotted forward.
+
+Draped across its back like she couldn’t be bothered to sit properly was a zombie girl who looked deeply, completely bored. Raenof let out a chuckle. It seemed the undead presence Sierra had picked up on was just Chloe after all.

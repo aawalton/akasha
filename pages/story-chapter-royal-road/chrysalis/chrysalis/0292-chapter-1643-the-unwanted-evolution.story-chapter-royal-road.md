@@ -1,0 +1,79 @@
+---
+id: dc8127eb-d982-56e9-80d3-57fd5ed2c6e6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1643 - The Unwanted Evolution"
+slug: 0292-chapter-1643-the-unwanted-evolution
+partOf: chrysalis
+position: 292
+ownLength: 1283
+unit: words
+ownProgress: 1283
+publishedAt: 2025-09-11
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2591410/chapter-1643-the-unwanted-evolution"
+royalRoadId: "2591410"
+markedReadAt: "2026-06-29T19:53:09.329Z"
+---
+
+“Where are they going?” Theresant fretted.
+
+She constantly darted forward, then mastered herself and retreated a little, desperate to intervene and protect the chal but knowing they wouldn’t appreciate her interference.
+
+“Everything is fine,” Florence said, trying to soothe her sister. “They’re perfectly safe, the path has been cleared. They seem quite happy. What is there to worry about?”
+
+She wasn’t lying. The Brood Tenders had made extensive preparations, and the Colony had been only too happy to respond to their wishes. Wherever the little snails chose to go, the way forward was clear and unobstructed, the small column of hatchlings defended on all sides by an army of volunteers.
+
+“But where are they going? And why? I don’t like not knowing, they might be endangering themselves.”
+
+“What harm can they find within the Fortress?” Florence pointed out, quite reasonably. “Holding them back was more likely to be a problem than letting them go. They’re stubborn, as you know.”
+
+The snails did indeed seem quite happy, sliding along as a group, long moustaches trailing in the wind. Despite never moving through the fortress before, they seemed to know exactly where they wanted to be, as if guided by some unseen signal. Rather than worrying, Florence was quite keen to see just what had seized the little chal’s attention so thoroughly. She had heard that they were remarkable, powerful creatures. What was it they were planning to do?
+
+~~~
+
+Anthony’s fit, it seemed, was beginning to subside, and he was once again starting to focus on the internal battle against the infection, but tremendous damage had already been done.
+
+The triad were well aware of the danger. The pressure weighed heavily on their minds as they continued to forge ahead, consulting with the giant ant when they had to, but trying to distract him as little as possible. With such a vast amount of evolutionary energy available, the temptation was there to simply start splurging, buying expensive upgrades and reforging with the best available materials, but their trained instincts refused to allow them to be so profligate. They would make the best choices they could, working within their means and spending efficiently. Anthony deserved nothing less.
+
+Attention turned to the fusion. Of all the things this evolution granted Anthony, this was likely the best. Combining the array of organs he had purchased to make his acid a more viable weapon into a more formidable whole was one thing, but combined with the properties of Theorazzn’s mana, it would become truly deadly indeed.
+
+The new Fused Acid Complex would reset the purchased mutations, but that lost energy wasn’t lost, rather it was spent on improving the baseline performance of everything contained within. Incorporating the infection, the triad were pleased to see the gland had adopted the propagation power and durability of Theorazzn’s taint. Accentuated by what had once been the concentration gland, those properties were even further enhanced. Acid fired from this gland would be truly deadly, even without modifying it.
+
+To complete the package, the triad chose a new material well-suited to the purpose. They exceeded the budget provided by the fusion, but not by too much. Anthony would agree it was worth it in the end.
+
+The final product: Fused Acid Complex (Deleterium Shard). Even shards of deleterium were prohibitively expensive, but worth it in this case. The material was exceptional for the production of acids and toxins.
+
+Not for the first time, the triad were struck by just how much Anthony’s corpse would be worth to delvers. If anyone realised just how valuable his carapace was, he might be hunted even if he stayed within the Colony. They certainly weren’t going to advertise the fact, and hopefully no one else found out.
+
+After all, further reforging needed to be done to complete the evolution, making him even more valuable a prize.
+
+Anthony’s muscles, formed of plain organic fibres and cells, were no longer up to the strain of executing his enormously powerful Skills. A reforge of his musculature was, if anything, overdue. No monster could hope to reach the pinnacle of strength with such baseline components.
+
+The triad dared to dream, and inspected the price of world-infused flesh, only to flinch back. Truly, it was so costly they dared not lock it in, even if it were incredibly powerful. With his legs still to reforge, and possibly his brains, they couldn’t afford to blow the budget on something like this. The loss of the first evolution pained them even further, but they comforted themselves. Just because it was exceptional material didn’t mean world-infused flesh was the right one for Anthony.
+
+After all, there was no synergy there with the rest of his body.
+
+Although they didn’t fully understand the power of gravity, it permeated throughout Anthony’s form. Determined to find something that worked, the triad tore through the list, hunting for something they felt would land on the right key words and synergies. Eventually they found a material that suited their purpose.
+
+Neutron Fibre. Compressed in the heart of a star, stretched on the edge of the event horizon, these fibres are capable of enduring the fundamental forces of nature.
+
+Again, not fully understanding the reference, the triad were satisfied with the price, and selected this material. While they were at it, they made his tendons mutable. Without serious mutations, there was no way he would be able to keep his new muscles attached to his carapace.
+
+Hurriedly, they turned their attention to his legs.
+
+The legs were a curious body part for an ant type monster. They incorporated elements of many other segments of the body, yet still remained their own distinct classification. They were coated in the same carapace as the rest of the body, used the same sort of muscles, and yet, the internal structure, the claws, the five separate joints, the comb hairs, all of it combined to form something recognised by the System as distinct.
+
+As his body increased in size and his overall mass continued to climb, Anthony needed a serious boost to the power and strength of his legs.
+
+Again, the triad dove into the list of materials, seeking something that could withstand the immense strain that would be placed upon them, while suiting Anthony’s overall build and budget.
+
+Eventually, they settled on a candidate.
+
+Graviton Splinters. Forged in hypergravity environments, this material is capable of enduring immense pressure, yet is also strangely resistant to the forces of gravity.
+
+The evolution granted Anthony several unique organs, and the triad took it upon themselves to examine and place them within the body. The Everflow Well looked more like a ring than a well, empty on the inside. The more they examined it, the more they realised just how powerful such a thing could be. An endless source of power, it operated separately from the core, and, with mutations, would be capable of producing abundant amounts of energy. The only thing Anthony truly lacked was a source of infinite mana, since his physical strength, health, and fatigue could all be replenished by the Vestibule.
+
+The only drawback was the type of mana produced. The tainted energy would be exceptionally difficult to work with, hard to break down, hard to turn to any purpose other than the type of toxic spellwork the Krath themselves had adapted.
+
+Reluctantly, they placed it in the centre of his thorax, close to the core, and placed the new Infection Core in the centre of the ring. Without that new core, he wouldn’t be able to survive his new species, since the rest of his body wasn’t designed to tolerate such energies.
+
+With that task done, they turned themselves to the final steps.

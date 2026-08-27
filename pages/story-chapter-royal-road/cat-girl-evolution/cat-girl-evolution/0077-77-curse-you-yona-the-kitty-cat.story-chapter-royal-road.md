@@ -1,0 +1,119 @@
+---
+id: 325bb9e7-7315-5ee8-af83-00096fa70e5d
+page-type-slug: story-chapter-royal-road
+title: "77 - Curse You, Yona the Kitty Cat!"
+slug: 0077-77-curse-you-yona-the-kitty-cat
+partOf: cat-girl-evolution
+position: 77
+ownLength: 2068
+unit: words
+publishedAt: 2026-01-18
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2954221/77-curse-you-yona-the-kitty-cat"
+royalRoadId: "2954221"
+---
+
+I try to throw a Fireball at Annie’s body, but for some reason, my mana won’t work. I can still sense it, but it’s all messed up, and won’t move the way I want it to. The source seems to be the wound in my back. There’s a weird mana mixed in with my body that’s interfering with everything else.
+
+My whole body hurts as well, so all I can do is stand there as Annie picks up her head and puts it back on, followed by her leg. As soon as the severed head gets within a few centimeters of the neck, the flesh reaches out like it’s magnetized, reconnecting and stitching back together. The same happens with her leg, and in just a few seconds, Annie is all in one piece again, with the only sign she was ever injured being the blood all over her clothes.
+
+By now, it’s very clear what’s going on. Annie is the assassin, and she set all this up.
+
+“Why?” I ask.
+
+“It’s not personal,” she says, the bright and cheerful adventurer gone, replaced by a deadpan assassin with lifeless eyes. “I just can’t stand monsters masquerading as humans.”
+
+“Ha!” I scoff. “Look who’s talking. You’re not very human either, are you?”
+
+“I’m just as human as anyone else,” she says. “My body is just… different.”
+
+At that, I laugh out loud, sending waves of pain shooting through my body from the wound in my back.
+
+“Something funny?” she asks.
+
+“Are all the other Chosen One candidates delusional, or am I just unlucky?” I ask.
+
+“Delusional? No, I’m fully aware of what I am. The System may not consider me human anymore, but I am still me. I have my memories. My personality. My soul. Those are what make me human. Not the System’s rules.”
+
+“What makes me any different from you, then? I was human once too.”
+
+Now it’s her turn to scoff.
+
+“I knew you would say that,” she says. “It doesn’t matter what you try to say. I know what you really are. A Named monster with a Sin Trait playing pretend. That ends today though. The curse in your body is enough to kill a Tier 5. Even with all your advantages, you won’t be surviving.”
+
+I grimace. At the moment, it seems like she might be right. I can feel my body fighting the curse, but it’s losing. My mana is being eaten away, and while I’ve been trying to form constructs, they fall apart as quickly as I can erect them. I have some energy stored in my sword, but I only killed the three zombies, so it’s not much. Nowhere near enough to help me fight the curse.
+
+However, there’s one thing that Annie doesn’t seem to be aware of. Despite its power, and despite the fact that I can’t fight back against it… Food Sense is telling me that it’s edible.
+
+Abby, how much damage could I survive with that regeneration Attribute thingy I have?
+
+“Between that and your Resilience, you should be able to regrow lost limbs, and I wouldn’t be surprised if you could even survive being cut in half.”
+
+Perfect.
+
+“And what makes you think you’ll survive doing this?” I ask. “I can just—”
+
+Before I can even finish my sentence, I spring forward, launching myself at her using pure physical strength. I can feel my body being weakened by the curse, but it’s not so weak yet that I’m completely crippled. It’s hard as hell, and it hurts more than anything I’ve ever felt, but I can still fight, at least for now. And I don’t need mana to use Skills like Slice.
+
+Unfortunately, it wasn’t just her species that Annie was hiding. She doesn’t seem faster than me, even in my weakened state, but she’s fast enough to dodge my attack and not look too concerned about doing so. As she does, a familiar wooden scepter appears in her hands and points at me. My mind gets a bit foggy, but I shake it off and dart at her again. Not seeming surprised, she unsummons the scepter and steps backward, disappearing into the shadow of a tree, reappearing a dozen meters away.
+
+We play a short game of cat and mouse that lasts no more than a minute before I try diving at her again, only to stumble as my body shudders under the weight of the curse. The pain is almost blinding by this point, and my head is feeling woozy. Annie is sitting on a tree branch not far away, watching as my body slowly begins to break down.
+
+It’s almost time, but not quite. She still clearly has her guard up. I don’t think she’s stronger than me, and she doesn’t seem to think she is either. She has no interest in finishing me off herself. She’s happy to let the curse do the work. And right now, that’s a problem.
+
+What I’m planning to do is going to leave me pretty debilitated, at least for a little while. Even if she doesn’t finish me off herself during that time, she’ll have plenty of time to escape before I recover, and based on her track record, I doubt there would be any way to track her down. Whatever Skill she has to cover her tracks is much stronger than anything I can do to track her.
+
+I really only have one shot at this, and I need her guard down as low as possible before I attempt it. But at the same time, I’m running out of time. If I wait much longer, I won’t be able to focus well enough to pull it off. I guess that means it’s time for some theatrics.
+
+I give in to my weakening legs and collapse to one knee. I struggle to my feet, only to collapse again. I don’t actually have to do much acting for this part. It really fucking hurts, and it’s really hard to stand up. I could if I tried a little harder, but she doesn’t know that.
+
+“We could have been– friends,” I wheeze.
+
+“Could we?” asks Annie. “I have to admit, you’re good. Very good. If I didn’t know better, I might have been fooled. But I would never be friends with a monster.”
+
+“I’m not– a monster.”
+
+“And why should I believe you?”
+
+“I’m like you. I was– human too.”
+
+She shakes her head and hops down from her tree branch, stepping toward me. However, she still has her guard up somewhat, so she stops well outside my range.
+
+“I really hate creatures like you,” she says. “You pretend to be human, sneaking your way into our society, lying to everyone around you, and tricking us into thinking you’re just like us. Then, when our guard is down—when we least expect it—you tear it all down. All for a stupid fucking Quest. You don’t even have to do it. You just do it for more power.
+
+“How long did you plan on waiting to kill Lauren? A few days? A week? Or would you string her along a bit more until she put her full trust in you before betraying her. You don’t actually have that far to go. She seemed to actually trust you somewhat. I thought an experienced Adventurer like her would be more wary, but she actually thinks you used to be human.”
+
+“I wasn’t—” I start.
+
+“Shut up!” she says. “No more lies. Just lay there quietly and die in pain and know that you deserve worse.”
+
+Damn, she’s got a lot of pent-up resentment toward Infiltrators. A lot more than I thought she would have. Is she not one of the Chosen One candidates? If not, how did she find me?
+
+I guess it doesn’t really matter at this exact moment. I don’t think I’ve got any more time. Looks like I’ll have to do it now and hope it works.
+
+I double over, putting my hands on the ground and retch. I haven’t done this in a while, since usually I just make a construct head, but I can’t really do that right now, so this will have to do.
+
+While accessing the contents of my Stomach takes mana, it’s also an instantaneous process. It’s difficult, but it’s fast enough that the curse can’t stop it. From my mouth, I spit a large shark head that I stored a few days ago when I was messing with constructs. I have a bunch of different constructs in my Stomach, but only this one is the right body part and size for what I need to do.
+
+Before Annie can react, and before the curse can break the head down, I send it to my side and use Bite of the Glutton to tear off a huge chunk of flesh. I nearly pass out from the pain, but a moment later, my head begins to clear. The piece of my body that the shark head tore off was the part with the cursed wound. Its energy still lingers in my body, but without the main source, my mana is able to fight back easily.
+
+“No!” shouts Annie, lunging forward.
+
+With my mana back mostly under my control, I Blink away, reappearing 50 meters away in the forest. I’m not in good shape. I’m pretty sure I just ate my own liver and half my intestines, and the rest of my organs are spilling out. But my body is eradicating the last of the curse, and when I absorb the energy from the Gluttonous Greatsword, it vanishes entirely, and my body starts mending itself. Not fast enough to have me anywhere near fighting shape, but fast enough to keep me conscious and alive.
+
+In the distance, I sense Annie hesitating, not sure whether to chase or run away. After a moment, it seems she decides to flee, but unfortunately for her, that moment of hesitation cost her the fight. Before she can leave my range, I activate Snatch. She resists more strongly than anything else I’ve ever tried to Snatch, and it burns through my mana with worrying speed, but I simply summon another construct to replenish myself, and after three seconds of struggle, Annie is in front of me.
+
+I sense her mana gather for her to use the same shadow step teleportation ability she used before, but I Snatch that too, cancelling the Skill, and at the same time, I clutch my gaping wound with one hand and swing my sword with the other.
+
+She gathers more mana into her arms in an attempt to block, but the sword cuts through as if there’s no resistance, severing both hands, and then her neck. She attempts to stop her head from flying too far away with the stump of one of her arms, so that she can regenerate, but anticipating that, I lunge forward to stop her.
+
+Or rather, I fall forward. The wound in my side kind of destroyed most of my core muscles, so the momentum of the sword strike is too much for me to handle and I lose balance. It doesn’t matter though. The fall still takes me right as far as I need to go.
+
+I stumble into her body, my face hitting her thigh, mouth open wide. My teeth bite through her pants, sinking into her leg, and a moment later, her body vanishes. Her hands and head fall to the ground, landing with a sequence of dull thuds, and her head rolls a bit before coming up facing me, an expression of shock on her face. Then, the shock morphs into despair, then hysteria as she begins laughing.
+
+I have no idea how she’s making any sound without her lungs, but I don’t really have the mental bandwidth to care. I struggle to my feet, then use a construct to store both of Annie’s hands before they can crawl to her head and do whatever she was trying to do. Then, I dismiss my sword and limp toward her, a hand still on my side to keep my organs from spilling out.
+
+I pick up the still-laughing head by the hair, and hold it up near my face.
+
+“Kill me,” she says with a tired smile. “Just end it. Take the experience points. I know you want them.”
+
+“No,” I say. “Not until you answer a few questions.”

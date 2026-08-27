@@ -1,0 +1,77 @@
+---
+id: 83d96fc9-ad65-57a3-b4a7-795d9756f2d0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1594 - Sense of Danger"
+slug: 0242-chapter-1594-sense-of-danger
+partOf: chrysalis
+position: 242
+ownLength: 1045
+unit: words
+ownProgress: 1045
+publishedAt: 2025-06-27
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2388378/chapter-1594-sense-of-danger"
+royalRoadId: "2388378"
+markedReadAt: "2026-06-29T19:51:33.257Z"
+---
+
+Krath engineering? Who knew that was even a thing?! Thick ropes of sticky mucus zloop down from above with remarkable speed, latching onto the platform and trailing off towards my still-rotating gravity bomb. Some of them get sucked in and destroyed, but it isn’t long before my spell flickers out, allowing the slugs to connect the bones of their slime bridge.
+
+I watch it all with a rising sense of incredulity. They really think they can make something out of mucus to carry the weight of a literal sludge ocean?! There’s a freakin’ tidal wave a kilometre wide rushing towards us! There’s absolutely no way!
+
+I mean, ‘rushing’ is relative, it’s bright, virulent slime, not water. Even so, they don’t have that much time.
+
+Despite my doubts, a part of me is nervous. If they actually manage to build something that can hold the weight, even for just a minute or two… the wave of mucus would pour over the platform and bury us in metres-deep slime.
+
+More and more sludge pours down from above as the Krath continue to weave together a lattice that bridges the gap.
+
+Groaning at the absurdity of it, I begin to pull out the gravitational mana within my gland, weaving it with my exhausted brains while enduring a fresh wave of acid and nets being hurled in my direction. The mages, along with Rathwyn and his group, have started to return fire at the slugs hiding above, weaving long-range spells to try and smoke them out.
+
+It’s hard to tell, but it doesn’t seem to be having much effect so far. The Krath have clearly come prepared, working in the darkness up there to create little pockets of safety.
+
+This is so frustrating! I can’t go out there and get them, and I’m running low enough on gravitational mana that I can’t afford to waste any. After all, I have to have enough ready to throw out gravity bombs at short notice. Dipping below that amount, even for a few seconds, risks complete disaster!
+
+After I finish this spell, that’ll be all she wrote until I can build up my reserves a little bit. It won’t take long, but damn, they’re pushing me hard.
+
+I turn and look back toward the gathered forces of the Colony, doing their best to support me from a distance. Bertran and Alis are still down, battling away within the Nave against… something. That worries me; I hope they’re doing okay.
+
+Constant fire is exchanged between the Krath and Colony as the wave of sludge draws closer and the bridge continues to take shape. Any ants that step towards the edge to try and destroy it are immediately targeted, and I eventually wave them off. My spell will deal with the problem, they can just focus on other issues.
+
+Seeing the tidal wave up close, though… holy moly, that looks nasty.
+
+Wherever they brewed up this particular mass of goop, they added a few extra ingredients. It is bright orange, almost glowing in a radioactive sort of way, a thick haze of orange spores being pushed before the crest of the wave. Judging by the steaming and sizzling of the rocks lining the tunnel as the mucus passes over them, this stuff is potent beyond belief.
+
+As if the regular mucus wasn’t bad enough, they had to go and create a condensed hyper mucus. Wonderful.
+
+Looming far overhead and filling the entire, kilometre-wide width of the tunnel, the sheer mass of the stuff is intimidating as heck. This must be millions upon millions of litres.
+
+I look down again at the flimsy rope bridge the Krath have produced. There is a membrane linking the ropes together by now, but I can’t conceive of it being able to hold the thousands of tons worth of slime that will hit it in a few seconds. There’s just no way….
+
+But I can’t take that chance.
+
+My spell locks into place just before the torrent of mucus hits the bridge and a blast of disgusting orange spores slaps me in the face.
+
+A gravity well appears, covering the gap.
+
+Millions of litres of thick mucus hurl into the gap, hit the bridge… and immediately plunge through it, down into the darkness below. The ropes snap, the mucus membrane collapses instantly and the whole thing is dragged into the abyss by the mucus.
+
+I knew it! The Gravity Well was a complete waste!
+
+Lousy Krath, they’re probably up there laughing at me. We’ll see who has the last laugh.
+
+I turn off the gravity well, hoping to recover some of the mana, then turn my attention toward the lousy slugs sniggering above. They’re about to get what’s co—wha? My antennae ring like a bell and my legs are moving before my brain has even had a second to catch up.
+
+I can almost see it unfold in slow motion after that.
+
+There are Krath hidden in the mucus wave. I can see them in there, huddled together in little packs. Too late to notice them now, they’ve already worked their spell. A huge glob of mucus is already separating from the falling wave, launched upwards with some form of slug magic. I’ve turned around and I’m running back towards the gathered ants. It takes my mind a little while to catch up with my nerves, but I realise what’s happening.
+
+They aren’t aiming for me, because of course not. If they aimed for me, they would miss.
+
+They’re aiming for Bertram and Alis, and the thousands of ants gathered around them, who can’t get out of the way.
+
+My minds are spinning as fast as they can, but it’s difficult. What can I use? Force magic? Not enough time. Gravitation mana? Maybe change the trajectory of the shot? Not sure it would work fast enough.
+
+I reach my spot, right in front of my Templars, still unconscious on the ground, then turn to face the enemy.
+
+Brace for impact, Anthony. This one is going to suck.
+
+On the other side of the fortress, a ball of infinite darkness, immaterial flesh and endless malice feels a shiver run through her tentacles. In a second, she cuts all of her limbs and dives into her own shadow, vanishing from sight.

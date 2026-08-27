@@ -1,0 +1,263 @@
+---
+id: a4d41928-5a0b-5e6f-baa2-657107c368e1
+page-type-slug: story-chapter-royal-road
+title: "50 - Fanatical Devotion"
+slug: 0050-50-fanatical-devotion
+partOf: cat-girl-evolution
+position: 50
+ownLength: 2512
+unit: words
+publishedAt: 2025-11-16
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2765335/50-fanatical-devotion"
+royalRoadId: "2765335"
+---
+
+The guard starts charging his spear up with mana, but before he can actually strike with it, I Snatch the spear from him. He looks down at his empty hands, confused, and as he does, Lauren moves like a shadow, slipping behind him and putting him in a chokehold. A few seconds later, he’s unconscious again. Usually, that would only put him out for a few seconds, but he’s not waking up, so I think his body is so malnourished that it’s just accepting it.
+
+“What happened?” asks Chad, jumping out of the wagon as it arrives.
+
+“He attacked,” said Lauren, gesturing to the guard. “But it was strange. He’s starving, but when we mentioned food, he suddenly called us heathens and attacked.”
+
+“Heathens?” asks A, stepping out from the wagon. “A religious fanatic?”
+
+“The briefing didn’t say anything about religious fanatics,” says B.
+
+“The briefing didn’t say much of anything,” says Lauren. “But this is strange. And impossible. I was here a couple months ago on an escort Quest. There was no major religion, and I’ve never heard of one that encourages its followers to starve themselves.”
+
+“A cult?” asks Chad.
+
+“None of those either,” says Lauren, shaking her head. “This is all recent. Regardless of who did this, it’s not possible naturally, which leaves only one possibility.”
+
+“Mental magic,” says A.
+
+She and B both break their usual deadpan expressions to grimace in disgust.
+
+“Is that illegal?” I ask.
+
+“Very,” says Lauren. “And honestly, as much as I whine about illegal Classes, mental magic Classes are one group I’m glad are banned.”
+
+“Same,” says B. “So we’re dealing with some kind of cult using mental magic then?”
+
+“Seems like it,” says Lauren, frowning. “Let’s take these two and set up camp somewhere else. We’ll see if we can get any more information.”
+
+“Can’t we take a peek inside?” I ask.
+
+I can sense some people in there using Food Sense, and not all of them are alive.
+
+“It’s dangerous,” says Lauren. “Especially for me and Chad. Willpower isn’t one of our main stats. We don’t know what we’re dealing with. We’ll see what we can learn from these two, then make a plan. Whatever this is though, it’s strong enough to take over an entire town, including the two high Gold adventurers that were stationed here. One of those was a mage who should have had high Willpower.”
+
+“I guess…” I say, glancing at my Royal Status Window.
+
+Along the journey, I got a Profession level, and I completed my first Infiltrator Quest, which earned me a species level. The second Quest also got completed instantly (it was to get a false ID), giving me more experience, though it wasn’t enough for a second level. The third one will be a bit trickier, and the reward is different, so no more levels at least for now, but even so, my Willpower is sitting at exactly 6000 now. That should be enough to resist it, right?
+
+“Plus, with Gluttony, mental magic that tries to encourage you not to eat will be completely ineffective.”
+
+Really?
+
+“It’s not written out explicitly, but all Sin Skills provide immunity to any mental magic that would go against the Sin tendencies.”
+
+Oh, sweet!
+
+“I’m pretty sure I’d be fine,” I say.
+
+“She should be,” agrees A.
+
+“But it’s still better to wait,” says B. “A few hours won’t hurt.”
+
+“You should help Lauren with making some soup instead,” says A.
+
+I narrow my eyes at them. They know I have Gluttony, so they should know it won’t work on me.
+
+“They’re probably trying to take advantage of one of the other hidden effects of Sin Traits.”
+
+And what’s that?
+
+“It’s the reason Sin Traits are considered so dangerous. Beyond just making their users incredibly strong, they also have a subtle passive effect on their surroundings. Those who spend too much time around Sin Traits will start to take on the attributes of that Sin. You haven’t noticed because it’s been subtle, but the appetites of all your friends–”
+
+Minions.
+
+“The appetites of your minions have been growing.”
+
+Oh.
+
+“Just trust us,” says A telepathically. “This will help.”
+
+“The act of participating in making food may impart some of Gluttony’s effects on those that consume it, which might help counteract whatever spell those two men are under.”
+
+“Alright,” I say.
+
+“It should help you get some Profession experience too,” says Lauren. “Okay, Chad?”
+
+Chad nods, then bends down and picks up both unconscious men and carries them to the wagon. Not long after, we have both of them tied to trees a few kilometers from the town as Lauren and I stand over a pot of broth.
+
+“A bit more water,” Lauren instructs me. “They’re severely malnourished. If it’s too heavy, they’ll just vomit it right back up.”
+
+“Got it,” I say, pouring in some water from a bottle she had in her spatial storage.
+
+I should really add some water to my own storage. I’ll look into doing it soon. That could be important later.
+
+As I pour the water in and continue stirring, Lauren pulls something else from a different storage bag. It’s a vial of thick red liquid, similar to the mana potion that the twins used. I don’t ask, because I don’t want to demonstrate more ignorance, but I assume that’s a healing potion or something. It disappears into the broth, leaving no evidence it ever entered, but I can sense more mana within the broth than before.
+
+It only takes a few minutes before Lauren determines that the broth is ready, and we turn to feed it to our patients. Both woke up during transit, and both were put back to sleep, but they’re awake again now, and struggling feebly against their bindings. They’re also gagged because they kept shouting and calling us heathens, and that was annoying.
+
+As we approach, they struggle harder, and when we ungag one, he starts begging.
+
+“Please!” says one. “Don’t do this! I’m so close! Don’t do it!”
+
+“So close to what?” asks Lauren.
+
+“Freedom!” he says, his eyes wide and his lips trembling. “Freedom from my mortal shackles. Freedom from the cruelty of flesh! Freedom from the suffering I inflict on the world!”
+
+“Chad?” says Lauren.
+
+Chad reaches over and puts his hand on the man’s throat, clamping his fingers down on the arteries.
+
+“No, please! Please! Don’t– Don’t do–”
+
+His head lolls forward, unconscious, and the still-gagged man starts crying. Chad knocks him out as well while Lauren starts force-feeding the first. The way she does it shows she has experience force-feeding people soup, which is interesting. Is this how she got her Profession so high-leveled? By forcing people to taste her food?
+
+I sense the mana in the soup infuse the man’s body with mana, and I can see his complexion visibly improve. We do the same to the second, and then Lauren starts another pot, this one with thicker broth and more potion. We feed them each the new batch, and this time, I feel like I can almost see their bodies inflating. Lauren explains it as the healing potion taking advantage of the body’s natural healing process to rapidly distribute the calories or something. Whatever the case, they look way healthier now. Still not “healthy,” but they just look like unhealthy prisoners, not like victims of famine.
+
+This also has the side effect of their bodies being strong enough that they can stay awake on their own, so we have them both gagged again to stop the words. Despite my Gluttony Trait, they don’t seem to be any less devoted. Then again, I really didn’t do anything but stir. I didn’t even get another Profession level.
+
+One of the guards—not the one who tried to attack us earlier—is weeping profusely and wailing through his gag, while the other is sitting more calmly and staring at us with eyes full of anger. We ungag this second one because he seems less annoying, and as soon as we do, he tries to spit in my face. I slap him, knocking him out.
+
+“Yona!” says Lauren.
+
+“What?”
+
+“...Try not to kill him.”
+
+She uncorks a healing potion and pours it down his throat, and a second later, he’s awake again.
+
+“You monsters,” he spits. “Do you have any idea what you’ve done?”
+
+“We saved your lives,” says Lauren.
+
+“No, you prolonged our suffering,” he says. “We were so close!”
+
+“To death.”
+
+“Exactly!”
+
+“Why did you want to die?”
+
+“Why would we not?” His eyes grow unfocused and his anger suddenly fades. “Oh, I see. You are unenlightened. My anger was misplaced. I should be angry not at you, but at the world that made you this way.”
+
+“What are you talking about?” I ask. “Made us want to eat?”
+
+“That made you feel that the value of your own life outweighed the life of others.”
+
+“The heck is that supposed to mean?”
+
+“That soup you made. Do you know how many animals had to die for you to be able to have that?”
+
+“One?”
+
+“What about in your entire lives? How many creatures have died just so you could have a full belly? How much suffering has your life brought to the world?”
+
+Dang, he sounds like a vegan.
+
+“Can’t you just eat plants then?” I ask.
+
+“Eat plants?” he scoffs. “Did you know that plants feel pain too? Besides, they are the ultimate life form. They exist in harmony with the world. They feed on sunlight and water, never disturbing the lives of others.”
+
+“What about parasitic plants?”
+
+He stares at me.
+
+“Or invasive species?” I continue. “You ever heard of hogweed? That stuff is nasty.”
+
+“I– Well– That doesn’t matter! Is lettuce parasitic or invasive? Cabbage?”
+
+“Also, why should I care about animals suffering for my food? That’s just how the world works. And if you think I’m gonna stop eating fish because it hurts fish, you’re crazy. Actually, watch this.”
+
+I produce one of the stored entrees I’ve been saving from the Sea Lemon—a salmon fillet—hold it out in front of him, eat it in one bite, then lick my fingers. He stares at me like his brain is short-circuiting. It’s like he can’t comprehend that I would just eat right in front of him after he told me about the evils of eating. It’s kind of funny. Also, I haven’t even met them yet, but I really hate this cult. What the hell kind of cult convinces people that eating is bad? Eating is the greatest thing ever!
+
+“You–!” he sputters. “You heathen!”
+
+“Yep, I’m a heathen,” I say. “So, where’s your leader? They in town? Who are they?”
+
+“You do not deserve to–!” he starts. Then, he pauses and takes a deep breath to calm down. “No, I was also a doubter at first. Then, I met it.”
+
+“It?”
+
+“It,” he says, nodding. “It is… glorious. It has truly transcended the realm of the flesh and become the perfect being. It lives among us, yet it is not of this plane. Its actions do not affect the lives of others. Where it goes, there is only peace. And only through following its teachings can we reach the same state. It lives in the center of the town, and it will gladly speak to anyone. Perhaps if you speak to it, you will be enlightened as well.”
+
+“I see…”
+
+“Yes, go!” he says excitedly. “Speak with it, so that you too may be enlightened and we can achieve freedom together!”
+
+I glance over at Lauren. She’s frowning. So is Chad next to her. The twins are mostly expressionless, but their brows are furrowed.
+
+“What exactly is it?” asks A.
+
+“It is… divine!” says the man.
+
+“Yes, but what does it look like?” asks B. “Is it a human?”
+
+“No, it is more than human.”
+
+“Does it look human?”
+
+“Comparing it to our fleshy mortal prisons is an insult to its grace and beauty.”
+
+“Does it have a name?” asks Lauren.
+
+“My mortal mouth is unworthy to—”
+
+“Alright, I’m done,” I say, standing up. “This is annoying. I’m just going to take a look.”
+
+“Yona, you shouldn’t–” starts Lauren.
+
+“I’ll be fine,” I say. “I’ll just pop in and pop out. Maybe kill it really quick.”
+
+“You would dare to–!?”
+
+The man’s words are cut off by Chad clamping his hand down on the man’s mouth, then re-applying the gag.
+
+“She should be fine,” says A.
+
+“Yes, her Willpower is very high,” agrees B.
+
+“How high?” asks Lauren, suspiciously.
+
+“6000,” I say.
+
+Everyone’s eyes widen, though the twins quickly recover and turn to face Lauren.
+
+“Yes, as we said, she’ll be fine,” says A.
+
+“...Alright,” says Lauren. “But if you start feeling strange, leave immediately. Mental magic is notoriously insidious. Even with Willpower that high, it could still sneak its way in.”
+
+“Alright,” I say, waving her off. “I’ll be careful.”
+
+“And–”
+
+I Blink away, then keep Blinking until I’m well outside of earshot. Lauren isn’t a bad minion, but she does get kind of naggy and that’s annoying. It would be easier if I could just tell her that I have Gluttony, but I probably need her to sign a contract first. Until then, I’ll just have to deal with it.
+
+“Her warnings aren’t without merit.”
+
+Meh, you’re naggy too.
+
+“Willpower alone isn’t enough–”
+
+Yeah, but I have Gluttony.
+
+“Yes, but for other mental magic, it’s still valid.”
+
+And? This mental magic is just making people not want to eat, which I’m immune to.
+
+“Who says that’s all they have? That is certainly their main ability, but that would be like assuming that because you have spatial storage, you cannot teleport or attack using spatial mana. Those things are obviously not true, and it would be foolish to assume them.”
+
+…Okay, you have a point. Still, I should be fine, right?
+
+“Just be careful.”
+
+Alright, alright.
+
+I walk up to the now-unguarded gate, and study it for a few seconds. It seems to be made of magically reinforced wood. I don’t sense anything else though, so I Blink past it and into the town. It looks like a normal town, but the smell… I’m glad that increased Sensitivity lets me control my senses too so I can tune it out, because it is awful. I can sense the corpses around in the houses, but the wall and gate blocked out most of the smell. I forgot how bad old bodies smelled.
+
+I walk forward, keeping my senses peeled for any sign of anything, but other than the starving people and corpses in the building, I don’t sense anything amiss. Then, as I walk, something else that somehow missed my senses entirely walks across the street in front of me. It looks like an old man, but he’s translucent. His colors are all faded too, and even though he’s walking, his feet aren’t actually touching the ground. Is he a ghost?
+
+“Oh, a visitor?” he says, turning to face me with a smile. “Have you come to see the Great One?”

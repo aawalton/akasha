@@ -1,0 +1,121 @@
+---
+id: 4ca8ea67-9cf8-51e7-bb58-e312e0cf2d5b
+page-type-slug: story-chapter-royal-road
+title: "215 - Lesson 1: Directed Aether Pulse"
+slug: 0027-215-lesson-1-directed-aether-pulse
+partOf: bunny-girl-evolution
+position: 27
+ownLength: 2913
+unit: words
+publishedAt: 2026-08-15
+link: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution/chapter/3816620/215-lesson-1-directed-aether-pulse"
+royalRoadId: "3816620"
+---
+
+Elise’s soul was in disarray. The repeated hammering from whatever that pulsing had been took a toll, and it took her a full hour to get everything back in working order. The edges of her soul felt raw, and there was a low, throbbing pain in the back of her mind that just refused to go away, but all the various things that she had constructed were back in their places, and everything was more or less in working order.
+
+Of course, the System web was completely unharmed. In fact, it seemed to have somewhat protected her, helping her soul maintain its overall structure while it took its beating. She wondered if perhaps that was an intentional function of the System. It would make sense. The System was designed to weaken souls, but if they were too weak, they might collapse, so maybe it was designed to prop them up and protect them from total collapse.
+
+Regardless, despite the intensity of what had just happened, she was more or less back in business not long afterward, and nothing invaded her new cave home while she was incapacitated. While terrifying, it was still manageable, at least for now. But if that happened often, she might be in danger eventually.
+
+Maybe that’s why I’m here, though, she thought. Nothing better to train soul defenses than a terrifying, inexplicable force trying to destroy it.
+
+She bumped her soul defenses higher up on her mental to do list, then worked her way out of her hasty wooden shelter and back into the cave proper, then back out into the city. The resident monsters were moving about again, confirming that whatever it was was over, though as she flew around, she saw a few undamaged corpses. Recent spawns that hadn’t been able to weather the storm properly, probably. The monsters that had lived for longer probably knew how to handle it.
+
+It was probably also why all the monsters in the cavern were so absurdly powerful too, she realized. For their souls to take such a beating, they had to be strong, and that meant they would have more aether, and based on what she now knew about the relationship between aether and mana, it would explain their higher mana capacity too. It also made their strange Species names make more sense. The Abyssal modifier was probably necessary for the fresh spawns to even have a chance at survival.
+
+She double checked that there was nothing coming to invade her new home, then flew back, and started making preparations to make her takeover permanent, starting with boarding up the entrance. It took her a few recharges, and her activity drew the attention from a few curious weaker creatures, but thankfully, nothing as dangerous as the Abyssal Hounds approached while she was working, and she successfully grew a thick wall of roots blocking off the entire cave. The roots wouldn’t hold up against a concerted assault, but they would act as a solid deterrent.
+
+When she was done with that, she reached into Astrid’s Star and summoned a seed about the size of a grape. Despite its size, it was loaded with so much mana it felt dangerous just to hold it. Carefully, she carved a small hole in the ground just behind the roots and planted the seed, before reaching out with {Nature Mana Manipulation} and jumping out of the way.
+
+The ground rumbled as roots sprouted from the seed, digging further into the earth, and vines crept from the hole outward, extending across the entire entrance area, climbing both the earthen and wooden walls. From the vines, other plants of various types sprouted, including flowers, mushrooms, fruit, and in some places, just other kinds of vines.
+
+It was the chimera vine that she and Sophie had made for their final project in Defensive Gardening. She had been holding onto it when everything went down, and while it was technically not all hers, she hoped that Sophie would forgive her. Elise felt that she needed it more at the moment.
+
+The array of defensive plants was impressive, but unfortunately, they didn’t have much raw power. Due to Jelorian regulations, nature defenses were not allowed to use some of the more lethal options, so like the root wall, it was more of a deterrent than anything else. But any additional defenses were good in Elise’s eyes, and she would be able to strengthen it over time. She would need to find a water source, but she was actually not far from the boiling river, and while it would be risky, she could actually use the dome-shaped {Mana Barrier} upside down to carry large amounts of water from it to her cave. Maybe eventually, she could even set up some kind of magical water pump to move the water for her.
+
+With her defenses as good as she could manage at the moment, Elise returned to the house, killing the Abyssal Crawler that had spawned while she worked, and settled down on the stone platform so she could get to work. Half an hour later, she was clenching her fists in frustration.
+
+Aya’Rhun’s crystal was certainly an invaluable resource, and it was very thorough when it came to using mana, but it was annoyingly lacking in details when it came to the steps before she could reach that stage. In her earlier examination, she thought it would be enough, but now that she was actually trying to perform the steps, it seemed impossible.
+
+“What does she mean ‘practice directed aether pulses until proficient’?” she muttered. “What is a directed aether pulse?”
+
+She read ahead a few steps until she found a section talking about practicing with a partner, or at least a target. It was not for directed aether pulses, but she flipped back and forth between the two sections, cross-referencing a few others until she found what she tentatively assumed to be the answer. A directed aether pulse was simply a pulse of raw aether aimed at another person or monster or something. It was utterly harmless, and had no effect beyond strengthening the aetheric bond between the two, but it seemed like it was a good way to practice raw aether manipulation.
+
+I need a target.
+
+She stood up to leave the cave to find one, but at that moment, she felt a new aether signature appear in the dried-up pond just a few dozen feet away.
+
+Well, would you look at that?
+
+A minute later, she was sitting on the edge of a stone platform with an Abyssal Rat suspended in the air by wooden restraints in front of her. It was not at all happy to be where it was, but Elise held its limbs splayed out so it couldn’t harness its strength properly, and wrapped a blindfold around its eyes after it tried to do some kind of aether attack with its vision. It didn’t really affect her, but it seemed like it was supposed to be some kind of stun effect.
+
+“Sorry, Mr. Rat,” she said. “I’ll let you go when I’m done.”
+
+That did not help the rat calm down. If anything, the sound of her voice made it more frantic, and the tentacles in its mouth stretched out toward her, stopping a foot short when they reached the end of their range.
+
+Elise sighed, then closed her eyes and focused on feeling the aetheric connection between herself and the rat. She was not an expert at it, but she at least knew how to do it after her lessons with Irylax. It was easier on targets she knew well, but since she was right next to the rat, it wouldn’t be that big of a deal. It still took five minutes to filter out all the noise and all the other aetheric threads, but it was no trouble. It would have been faster if she used a Skill on it, but she wanted to do everything old school, not relying on the System for anything.
+
+So, now I just… send an aether pulse?
+
+She tried willing her aether to flow along the connection, but unsurprisingly, nothing happened. The next attempt was no more successful than the first, and neither was the third, or fourth, or the tenth, or the twentieth.
+
+It was obvious she needed a new angle, so she did a mental reset, then entered her soul before sensing for the aether threads again. Finding the thread between her and the rat was surprisingly much easier from her soul, but sadly, her attempts to send an aether pulse at it were not any more successful. She had really thought that would work, since in Quel’Khulan’s words, the soul controlled the aether, but what she was doing was clearly not enough.
+
+She disabled gravity in her soul and started idly floating around as she thought through her issue. The disabling gravity part was not strictly necessary, but she felt like she thought better when it was like this. Something about not being tied down. It was also mildly fun, which put her in a better mood, which was important, probably.
+
+“‘The mind moves the soul, the soul moves the aether, the aether moves the mana.’”
+
+She had gotten in the habit of talking aloud in her soul, because it seemed to help her think.
+
+She already had the first step complete. Not mastered, but she was actively influencing her soul with her mind at that exact moment, and she was pretty sure she was good enough at it to at least start on aether manipulation. But how?
+
+“‘The soul moves the aether,’” she repeated again. “Isn’t everything in here aether? So am I already doing it, then? But I need to get the aether out of my soul and into the thread. How do I manipulate aether outside my soul?”
+
+She floated around for a minute longer drifting over to the edge of her soul and lazily grabbing onto the System web. When she did, she was briefly reconnected to the System, and her {Sense Emotions} Skill activated, feeding her some of the anger and fear the rat was feeling. That made her uncomfortable, so she disconnected quickly, then paused.
+
+“Wait a second… I don’t need to wonder how to do this. The System can show me!”
+
+She grabbed onto the System again, and immediately activated {Whisper} counting upward into the rat’s head. She had lost her focus on the aetheric thread when she did this, but she quickly re-found it, never stopping her counting, and as soon as she saw it, she facepalmed.
+
+“I’m so dumb.”
+
+Whenever she activated aether skills from within her soul, she saw the aether in her soul moving. The ethereal mist that represented her aether would get worked up, doing… something. She had never been able to figure out exactly how it worked until now, and now that she had, she felt embarrassed at having missed something so obvious.
+
+“Well, at least I know what to do now.”
+
+Not being able to figure out what the aether in her soul was doing was just the other side of the coin to her not being able to figure out how to send aether along the connection. The answer to both mysteries was the same. She was just forgetting one crucial piece of information.
+
+Those aetheric threads she could sense? They were not connected to her body. They were connected to her soul. When the aether in her soul moved, it was entering those threads. She just hadn’t noticed, because she wasn’t actively sensing the threads. And she didn’t actually need to influence aether outside her body. She just needed to move the aether in her soul to the connection between her and the rat. It was so simple that she couldn’t help but laugh at herself.
+
+She disconnected from the System and once again located the aetheric thread that connected her to the rat. This time, instead of just finding the semi-physical representation of it, she also followed it to her own soul, finding where it connected. Interestingly enough, there actually wasn’t any specific spot where it was connected. Or at least, there didn’t have to be. By default, it was just stuck to the outside edge of her soul, but with barely a thought, she could move it wherever she wanted in her soul realm.
+
+She willed it to be right in front of her, and then willed it to become physical, reaching out and grabbing it. She then drew some of the aether from around, and pushed it into the thread, and outside her soul, she sensed a small pulse of aether travel along the thread.
+
+“Yes!”
+
+She repeated a few more times, each time increasing the amount of aether, and it worked perfectly every time. Her spirit was only dampened when she realized this relatively hands-on method was probably not what Aya’Rhun had in mind, but even then, it was only slightly. She had a starting point now, and that was more important than any of the other details.
+
+She didn’t know how long she spent in her soul after that, working on the process, but when she emerged, the rat had fallen asleep. She had noticed it gradually growing calmer as she continued to send aether pulses at it. Perhaps the fact that she wasn’t killing it combined with the increasingly strong aether connection had put its mind at ease. It no longer saw her as either predator or prey. Or maybe it had just worn itself out with all its struggling and squealing.
+
+Her progress in the directed aether pulse was very good, though. She had done away with the physical representation of the thread, and gradually worked toward adding the aether from further and further away. Eventually, something had clicked, and she was able to do it without even properly knowing where in her soul the thread was. She could still feel the thread, but she no longer needed a physical reference point to target it.
+
+It still wasn’t quite as good as she wanted to get, though. As nice as her progress was, only being able to control her aether—and by extension, her mana—while in soul meditation was not ideal. Her current solution of controlling her body from her soul worked for activating System things, but she could already tell that doing anything more complicated than just grabbing and releasing the System web would take more mental capacity than she had. She needed to get a proper sense of her soul, instead of this janky solution.
+
+She yawned, stepping back and stretching her back. That would have to be a problem for tomorrow, though. Today had been exciting enough, and there was no need to wear herself out. It didn’t feel like it had been that long since she woke up at Charlotte’s house, but she had no reference for time passing down here, and that soul pulse attack thing had taken a lot out of her.
+
+She had to deal with the Abyssal Rat first, though. She didn’t want to leave it strung up, she didn’t want to kill it, but she couldn’t let it roam free. She could try making a cage out of roots, but she wouldn’t be surprised if the rat could chew through that, and if she was asleep when it did, that would be very bad.
+
+Letting it go outside the cave was an option, but she was reluctant to do that, simply because of how monster spawns worked. Typically, they only appeared when a certain threshold for mana and aether density was met, and that threshold for aether density was actually inverted, meaning that the less aether there was in an area, the more likely it was for there to be a spawn. That meant that if she killed it, it would reduce the aether in the area, and make it possible for other things to spawn, and that would be even worse than it escaping.
+
+Ultimately, she decided to just risk a cage. She woke it up, and quickly seized control using {Royal Decree}, commanding it to go into the shallow, dried-up pond where it had spawned. It was still while she constructed a canopy of roots overhead, latticing them to prevent it from slipping out, and adding spikes to make them harder to chew through. She wasn’t sure if those would work against its tentacles, but it was better than nothing.
+
+With that, she released it, planning to observe it and see how it acted. Surprisingly, it was not aggressive. It was clearly wary of her, and not at all trusting, but it did not try to attack or escape, which was a huge improvement over earlier.
+
+Huh, she thought. Am I gonna have to name you too?
+
+She walked away slowly, but the rat still only eyed her warily. She didn’t trust it not to attempt an escape once she was gone, but for the time being, at least, it wasn’t overly aggressive.
+
+In the house, there were a few intact rooms that would have served as good bedrooms, but given the general lack of safety in the vicinity, Elise opted to sleep in the basement. Most of the root wall she made earlier was still up, so she just slipped back through the hole she made, sealed it up, and curled up to sleep.
+
+When she woke up, it was to the familiar pain of her soul being assaulted.

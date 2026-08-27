@@ -1,0 +1,163 @@
+---
+id: 31aaa279-1803-5617-ba0d-d1201fece08c
+page-type-slug: story-chapter-royal-road
+title: "122: Minutes to Midnight - II"
+slug: 0122-122-minutes-to-midnight-ii
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 122
+ownLength: 2144
+unit: words
+publishedAt: 2026-03-06
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3123117/122-minutes-to-midnight-ii"
+royalRoadId: "3123117"
+---
+
+The only times Chloe had seen a gun at that point was in video games. The real deal was a lot scarier than she could have ever imagined.
+
+Chloe froze so hard it felt like her body forgot how to move. The masked man stepped forward, the barrel of his gun aimed straight at her head.
+
+For a second, Chloe couldn’t even breathe right. She was going to get shot, and she was going to die.
+
+Until suddenly, a sharp gust of wind slammed into the gun from the side, hard enough to knock it off course. Chloe glanced to her right just in time to see Maeve unleash another wind blast from her palm.
+
+The barrel jerked away from Chloe’s hiding spot, and the shot cracked through the office anyway, punching into the wall with a violent pop. Bits of plaster and dust burst into the air, and Chloe flinched hard as the sound echoed through the room.
+
+When Chloe opened her eyes, she saw Maeve lunging at the man as he staggered back. He swung the gun like it was a club, trying to hit her with the metal, but Maeve ducked under it and grabbed his wrist. She twisted his arm sharply, forcing the gun downward.
+
+The man grunted and fought back hard. He jerked his elbow up and slammed it toward Maeve’s face. She dodged just in time to mitigate most of the damage, but the strike still clipped her cheek and knocked her head to the side.
+
+Maeve stumbled, and the masked man seized the opportunity for a counterattack. He shoved her back, ripping his arm free, and then kicked her in the side. Maeve hit the edge of a desk with a dull thud, papers and folders scattering across the floor.
+
+Chloe’s hands shook against the carpet. She wanted to run, scream. to do something, anything, but her body didn’t listen. She stayed where she was, frozen in fear.
+
+Maeve pushed herself up quickly, but the man didn’t give her room. He rushed her again, closing the distance fast.
+
+The man grabbed a stapler off a desk and threw it at her face. Maeve swatted it away, but it made her flinch, and the man took that moment to slam his shoulder into her chest.
+
+They both crashed into another desk together. After that, Maeve grabbed the man’s collar with one hand and tried to drive her knee into his stomach, but he blocked it with his leg and twisted her arm instead. Maeve’s breath hitched, just for a second, and Chloe saw the pain flash on her face before Maeve forced it down.
+
+Despite not being experienced in fighting, Chloe could tell that Maeve was losing ground. And if she didn't do anything then the man would end up winning.
+
+She couldn’t just sit there. And hide while Maeve got hurt for her sake. So despite her fears, Chloe forced her body to move.
+
+Chloe crawled backward slowly, keeping low so the man wouldn’t notice her. She looked around as she moved, tying to find anything that could help turn the tide of the fight.
+
+She saw a heavy office chair with metal legs. That would have to do for now.
+
+Chloe grabbed it with both hands and lifted it. It was heavier than she expected, and her arms strained immediately. She wasn't exactly a gym rat, as she normally preferred to spend her time just playing video games or reading comics online from dubious websites. So just lifting this chair really took a lot from her, but she tried her best.
+
+She stayed behind the desk, peeking around the edge. Maeve struggled with the masked man near the center of the room now, trying to keep him from grabbing his gun again. The man swung at Maeve, and she barely blocked it.
+
+She tightened her grip on the chair and waited while observing the fight. Just one good hit, and all of this would be over. She just needed to figure out the right moment to come in.
+
+Maeve was still fighting, but Chloe could see it getting worse. The masked man slammed Maeve back again, hard enough that her shoulder clipped the edge of a desk. Papers flew everywhere, and while Maeve tried to recover, but the man didn’t give her a second. He grabbed her by the arm and yanked her forward, then drove a punch into her stomach.
+
+The masked man lifted his arm again, aiming for Maeve’s head this time. Maeve raised her hands to block, but she was off balance. Her boots slid on scattered papers, and for one awful second she looked like she was going to go down.
+
+That was the moment Chloe decided to make her move. She surged forward as fast as she could, gripping the chair with both hands and swinging it with everything she had. The chair connected with the side of the man’s head with a loud crack.
+
+After the hit, the masked man staggered, but Chloe didn’t stop. She swung again, putting in more of her body into the swing. The chair slammed into him a second time, and this time he went down hard as his body hit the floor.
+
+Chloe stood there panting, eyes wide, the chair still raised like she didn’t know what else to do. For a second, the office was silent.
+
+Maeve slowly stood up. She looked at the unconscious man, then back at Chloe. “Miss Chloe… thank you.”
+
+Chloe’s arms finally gave out, and she let the chair drop with a heavy clunk. She turned to Maeve and rushed forward before she could overthink it, wrapping her arms around Maeve’s waist and squeezing tight. “Are you okay? “Like, actually okay. Don’t lie, because if you’re dying right now I’m going to freak out.”
+
+Maeve laughed and rested a hand on Chloe’s head, brushing over her hair. “I am fine, Miss Chloe."
+
+Chloe pulled back just enough to glare at her. “You sure?"
+
+"I'm sure, really."
+
+Maeve’s smile lingered, though it faded when she looked down at the masked man. She crouched beside him and searched his pockets quickly. Chloe stayed close, still shaky, watching just in case if somehow the guy woke up.
+
+Maeve found a small patch on the man’s jacket and showed it to Chloe. It had a simple symbol on it, with one word: Sol.
+
+Chloe squinted. “Sol?” Like the sun?”
+
+Maeve nodded. “Yes, they are a rogue mercenary group who are willing to take contracts that most would refuse.”
+
+"Hmm, right, I think I saw a video about them on my feed a while back. Didn't think much of it back then though."
+
+"Miss Chloe, isn't your feed mostly about video games and cute animals?"
+
+"Uuuh, no. And that's not important right now!"
+
+"Of course."
+
+"Anyway, who would pay these jerks to hurt Divinity Inc anyway?”
+
+Maeve actually laughed at that, soft and bitter. “A lot of people, probably. This company isn't exactly beloved."
+
+Chloe blinked. “Why? Like, why would anyone hate this place? It’s shiny and it has fancy vending machines.”
+
+Maeve glanced at her, and for a second there was something tired in her eyes. “Maybe it's best if we save that discussion for another time. For now, we still need to leave this floor.”
+
+Chloe nodded quickly, then pointed toward the windows on the far side of the office. “Okay, what if we just break the window and fly away?"
+
+"That could be an interesting option, but let's make sure it's safe to do so first."
+
+Chloe swallowed and followed as Maeve moved toward the window, carefully and quietly, stepping around fallen papers and scattered office junk. The glass wall ahead revealed the city outside.
+
+She leaned forward and peeked down, and her blood turned cold. The ground outside was crawling with masked men. There were way more of them than Chloe could count, and armored trucks were parked near the entrance, dark and heavy, looking completely wrong in front of such a fancy building.
+
+Chloe kept staring down through the glass, her hand still gripping Maeve’s sleeve like it was the only thing keeping her from floating away. The men below looked like ants from this height, but there were too many of them, and some of those trucks she was quite sure had machine guns mounted on them.
+
+Maeve followed Chloe’s gaze and nodded slowly. “There's more of them than I thought would be there.”
+
+Chloe swallowed. “So… we can’t just casually fly out, huh.”
+
+“We are high enough that we may be able to escape. If we fly quickly and keep our distance, they may not be able to aim properly.”
+
+"Wait, really?”
+
+“With a little bit of effort, it should be possible."
+
+Chloe’s first instinct was to nod and say yes. Escape sounded great, but she stopped getting excited too quickly, as something came up in her mind. “Maeve, are we really just going to leave Mom here?”
+
+Maeve didn’t answer right away. Her face tensed, and Chloe saw the struggle flash across it. “As much as I want to save Lady Ishgria, I must ensure that you are safe first.”
+
+Chloe stared at her. “But—”
+
+“Your mother would never forgive me if something happened to you. Believe me, Chloe, this is a difficult choice for me as well."
+
+Chloe’s mouth opened again as she was about to argue. And then the headache hit.
+
+It was sudden and crushing, like someone had come up and hit her own skull with a steel chair. Her knees went weak, and she moved back to grab hold of the edge of a desk just to keep herself steady.
+
+Her vision blurred instantly. The office lights, the dark carpet, Maeve’s face, all of it smeared together like wet paint. Chloe squeezed her eyes shut, but it didn’t help. The pain throbbed harder, and then the visions started to hit hard.
+
+Chloe saw herself and Maeve flying out of the building. She saw the wind tearing at her clothes, Maeve’s wings spread wide and steady. She saw them land somewhere far away, hidden behind buildings, both of them breathing hard .
+
+She saw how she and Maeve would eventually make it back home safely. Just in time for them to see the news on the TV.
+
+At first it was all a blur, but then the image sharpened like the world decided to be cruel on purpose, and Chloe finally understood what she was seeing. The words hit her like a punch to the gut. Ishgria Whiteheart, confirmed dead.
+
+Chloe felt her heart drop even deeper as the vision jumped again and dragged her somewhere else. She saw Maeve standing in a quiet room, staring at nothing like her mind had been shut off.
+
+Maeve didn’t speak, she barely even blinked, and the calm Maeve Chloe knew was just… gone. She looked hollow, like someone had scooped out everything inside her and left only the parts that still knew how to stand upright.
+
+Chloe saw herself trying everything. Talking fast, hugging Maeve tight, shaking her shoulders, begging Mave to snap out of it and come back. But no matter what happened, nothing changed. Maeve just kept slipping further away, little by little, until her eyes dulled.
+
+And at that moment, the visions ended. Chloe sucked in a sharp breath and blinked hard.
+
+Maeve was right in front of her now, close enough that Chloe could see the worry on her face, one hand hovering near Chloe’s shoulder. “Miss Chloe? Are you alright?”
+
+Chloe didn’t answer right away. She just stared at Maeve for a moment, her thoughts still spinning. She wasn’t sure if what she saw was real or just some messed up hallucination, but the more she replayed it in her head, the more it felt real.
+
+Chloe didn’t know much about magic. She didn’t even know if angels could suddenly see the future like that, but she had heard stories in class about how some angels could awaken powers out of nowhere. Was that what just happened to her?
+
+If it was, then she never wanted to see that future again. Not for herself. Not for Maeve. Not for Mom.
+
+“We’re not leaving,” she said.
+
+“Miss Chloe—”
+
+“No, we’re not going anywhere until we save Mom.”
+
+Maeve’s expression tightened. “It is too dangerous. I can take you out safely, and then come back to rescue your mother.”
+
+“And if you don’t make it back in time? If we leave and Mom gets hurt, you’re never going to forgive yourself. You’ll pretend you’re fine, but you won’t be. I know you won’t. So yeah, we’re not leaving, not until we find Mom and make sure she's okay."
+
+Maeve looked at Chloe for a long moment, eventually, she sighed and nodded slowly. “Okay, we will go and find your mother first."

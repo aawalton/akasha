@@ -1,0 +1,115 @@
+---
+id: 430aaac4-c42b-59b5-b3f9-c3279574619c
+page-type-slug: story-chapter-royal-road
+title: "176. Moments of Mischief"
+slug: 0176-176-moments-of-mischief
+partOf: breaker-of-horizons
+position: 176
+ownLength: 2138
+unit: words
+publishedAt: 2022-02-07
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/840578/176-moments-of-mischief"
+royalRoadId: "840578"
+---
+
+"What the hell was that?!" Kevan yelled, throwing his hands into the air in disbelief. It was quite a comical sight, since he was still stuck to a wall by Bertram's gel-like shield, with his feet slightly off the ground.
+
+Lynus was flat on his back some distance away since his path had been relatively clear, and the gel-shield shot hadn't carried him far enough to hit another structure. "What'd I miss?" he called out, craning his neck to try and see what was going on.
+
+"Oh, nothing," Bertram said loudly, stepping into the clearing and gesturing at the twins to unravel his own sequence. The gel loosened and faded away into nothingness. "Nothing except for an overly dramatic takedown of a ridiculously tough construct."
+
+The other four seniors emerged from wherever they had taken cover and were gathering around Caden, eyeing him with a mixture of disbelief and respect.
+
+Kevan bounded up to Caden, with Lynus trailing behind a little. "That was insane! I mean, geez, what?! Did you guys see that? I wasn't dreaming?" he looked around at the others.
+
+Caden didn't know what to make of this alarmingly enthusiastic Kevan. He had expected some sort of tension, maybe grudging respect, or even some sulking since he had essentially swooped in at the last moment and claimed the 'glory' of bringing down the hulking construct.
+
+"Very impressive," one of the third-years said quietly, nodding with approval. He had a slight figure and was almost a head and a half shorter than Kevan, with dark eyes and black hair in a combover. Despite his diminutive size, he exuded a sense of gravitas, and there was something about him that immediately gave Caden the impression that he was the de facto leader of this little group.
+
+"How did that work?" Kevan asked eagerly.
+
+"Not now!" Lynus snapped. The rest looked a little taken aback at his tone, but quickly fell into their gestalt positions when he jerked his head at the structure where Bertram and Caden had come from.
+
+They were not alone. More constructs had emerged from the opening, and although these were of the weaker variety, there were a lot of them. Caden counted seven at a glance, already slowly advancing on them and making way for more.
+
+'Status?' the third-year guy asked in the arcana, directing this at the members of his gestalt. He sounded tired and tense, but determined.
+
+'Still overdrawn,' the two second-years sent back.
+
+'Mostly recovered,' the third-year girl replied tersely.
+
+'We're still pretty fresh,' Kevan answered, speaking on behalf of his brother as well.
+
+'We need a better spot to hole up. We'll be overwhelmed out here,' the leader said, projecting a target structure to head for, on the uppermost tier.
+
+'What about Caden and the other guy?' Kevan asked.
+
+'Leave them,' came the leader's curt reply, along with a series of instructions for the members of the gestalt.
+
+Their gestalt-link communication was conducted at the speed of thought, but at this distance Caden could catch almost every word and impression. The leader was already pulling together a sequence with his fellow third-year, while Lynus sent a surge of arcana into the battery for the second-years to use so they could at least move more quickly with arcanic assistance.
+
+"Are we fighting or not, Henry?" Bertram asked, shooting a glance at the short third-year.
+
+Caden shot a surprised look at Bertram. Hadn't he heard them? But before he could remark on that, the whole group sprang into action. The third-years loosed their prepared sequence, which spawned dozens of auric-ambient-flare signatures all around the clearing, each paired with its own illusory image. Caden and Bertram were suddenly left in a small crowd of multiple copies of the group.
+
+The illusions looked solid and moved with surprising natural fluidity. A few leapt up onto walls or ran into buildings, but quickly became clear they weren't even partially autonomous and had simply been pre-programmed to follow those routes. The rest ran around randomly in zig-zag patterns, completely disregarding how close they came to the constructs. Some were even running straight into walls or stumbling over low obstacles, prematurely scattering the arcana that composed them. Still, it was a suitable diversion. Taking advantage of the general chaos, the whole group ran off.
+
+Caden saw the real Kevan throw weak arcanic bolts from the positions of several of these illusions, and he hesitated briefly with a backward glance at Caden and Betram before following the rest of his gestalt.
+
+"Damnit! Typical Henry!" Bertram swore and let loose another one of his scanning pulses, then slipped into the arcana to make contact with Caden. 'After them! It's the clearest path. We've got a boatload of incoming all around.'
+
+The constructs had been momentarily distracted by the illusory copies of the twins' group, but when they charged into the fray, they quickly scattered them into insubstantial wisps. More constructs were spilling out of the building, and others were coming over the rooftops from every direction, catching the remaining illusions. They were all now closing in on Caden and Bertram.
+
+Bertram ran, throwing out what looked like more gel-shot shields at the nearest constructs, but Caden noticed the core sequence had been altered slightly. Instead of staying where they struck and growing to envelop the target, the gel would quickly migrate down to the constructs' feet and rapidly spread across the floor, effectively anchoring them to the spot. The constructs were then forced to smash themselves free, which proved difficult given the nature of the substance and the way it was spread. It effectively put them out of the chase.
+
+Caden followed close behind, picking off the occasional construct that Bertram wasn't able to catch on time. His enhanced heavy arcanic bolts made short work of them with just one blow, so he reined himself in and only shot one bolt out every few seconds instead of sending out a barrage. He didn't want to advertise the full extent of his arcanic ability, especially now that he had already drawn a fair bit of attention to himself.
+
+'Are they all after us?' Caden wondered, feeling a little irritated. It felt like Kant was picking on him.
+
+'Not all. Sensed more, still going for other people,' Bertram answered, though he echoed Caden's annoyance. 'Kinda our fault though. Big fight right in the open. Nobody even tried to contain or even dampen their backwash. Plus, their stasis sequence thing, and whatever you did at the end there, those were pretty loud. Huge signatures.'
+
+By now, the twins' group had gotten to the structure. Mostly overdrawn as they were, the seniors left it to Kevan and Lynus to beat back the advancing constructs. Without a full battery to draw from, they succeeded only in delaying the constructs' advance, which meant that they left plenty of enemies in their wake as they darted inside. By the time Caden and Bertram had reached the structure, there were a enough constructs to delay their advance. They hastily darted past the front line while making decisive strikes against the closest ones, desperately pushing ahead.
+
+The entrance to the structure looked open, but Bertram stopped short just before crossing the threshold and he let out another curse. "Sealed. Damnit, Henry!"
+
+Caden came up just behind and threw up a domed barrier to enclose both of them. The constructs piled against it and started smashing against his barrier.
+
+'How long can you hold?' Bertram sent to Caden.
+
+'How long do you need?' he asked, fortifying the barrier with just enough arcana to barely hold the line. It seemed wise to play down the amount of arcana he could use now after such a stunning display earlier.
+
+Bertram didn't give a verbal response, but Caden caught the tenor of his thoughts through their gestalt link. Beneath the cursing and the irritation, there was a formidable intellect juggling possibilities and assessing the integrity of Henry's barrier, before a streak of smugness coloured everything. It was clear he didn't think very much of Henry's work.
+
+Caden fed a steady trickle of arcana to keep his barrier up even as the constructs continued to beat down on it. It cracked a little, but Caden judged it to be stable enough.
+
+He was momentarily distracted by Bertram working in the arcanic sea. His auric-ambient-flare was moving, but not in a way that Caden had ever seen before in others. It reminded him strongly of the way auric-ambient-flares moved in oblivion. A small portion of it actually plunged into Henry's barrier and picked apart the sequence at its core. It was a lot slower than how Caden worked in oblivion when snuffing out hostile sequences, but the principles were similar, and it was an extremely efficient use of arcana. In less than a minute, the barrier disintegrated, and Bertram ran in and dragged Caden after him. As soon as Caden was through, Bertram placed a palm on the wall and extended it to seal the opening.
+
+The structure wasn't that large to begin with, but it had been further split into smaller 'rooms' by partitions inside, which meant that the two of them were wedged almost shoulder-to-shoulder in a mini-corridor of sorts. Bertram sent out another scouting pulse. 'This chamber is empty. There's a passage on either side. They've gone through one to the adjacent structure and put up more barriers.'
+
+Caden checked his watch. They had perhaps three minutes left for the exercise.
+
+"We can hole up here," Caden said with a sigh.
+
+Bertram went further in to where there was a bit more room to stand. "We could," he answered, nodding thoughtfully. "Or we could get up to a bit of mischief."
+
+Caden raised an eyebrow. "Mischief?"
+
+Bertram grinned. "There's a bunch of constructs outside. Henry and his crew have holed up behind barriers and they think they're safe further inside. What d'you think might happen if I open the roof above them?"
+
+Caden couldn't help it. He was grinning too. "I can provide cover while you do that. But how will we stop the constructs from coming after us?"
+
+"We just run. Huge burst of speed. We'd only need to last maybe a minute before the time is up."
+
+"Alright," Caden said decisively. "Let's do it!"
+
+Immediately, Bertram slapped a palm on the nearest wall. A moment later, directly above him, a hole formed in the ceiling, large enough for a person to pass through. He brought up a barrier around himself and jumped through it, with Caden close behind, similarly sheathed in his own protective barrier.
+
+The constructs hadn't remained clustered around the door that Bertram had sealed. Caden saw them ranging along the exterior, trying to find another way inside. As soon as he and Bertram were out, though, they started scaling the sides of the structure to reach them. Caden sent a wave of low-level arcanic bolts to push back the incoming tide of constructs as Bertram led the way. By the time they stopped over another section of the roof, they were already almost surrounded.
+
+Caden raised a few barrier walls to manage the flow, then kept up a steady barrage of weaker arcanic bolts to buy Bertram some space. The third-year slapped both his palms on the ground. There was a greater delay than before, but after several seconds, a huge section of the roof melted back a little further away from where Caden and Bertram were. The constructs that were there fell straight through, and Caden heard cries of alarm from below.
+
+'That's our cue to scarper!' Bertram sent gleefully as he tapped into the battery.
+
+Caden caught a whiff of surprise as Bertram noticed it was still completely full, since he had expected Caden to have used up some of it in the defence. But there was no time for a remark, so Bertram simply pulled all the arcana out of it and made a spur-of-the-moment decision. Instead of launching both himself and Caden over the heads of the incoming horde, he rapidly spun a complex sequence that enveloped the two of them in a dense weave of arcana that lifted the two of them into the air. At his direction, they sailed over the reach of the constructs, narrowly dodging a few that leapt into the air to try and reach them.
+
+As they sped to the opposite end of the arena, Caden spared a backward glance. Henry and the rest were putting up a furious resistance, but they were still too drained from their earlier fight. Lynus and Kevan were the last to go down, and as soon as the whole group's arena shields registered fatal damage, the constructs turned and headed off for other targets. Across the field of battle, Henry locked eyes with Caden and shot him a predatory grin.

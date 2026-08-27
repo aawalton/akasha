@@ -1,0 +1,123 @@
+---
+id: d09c3dbf-978f-529a-aed6-187cacbe0aea
+page-type-slug: story-chapter-royal-road
+title: "178: Sellouts"
+slug: 0178-178-sellouts
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 178
+ownLength: 2190
+unit: words
+publishedAt: 2026-07-15
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3680721/178-sellouts"
+royalRoadId: "3680721"
+---
+
+Ynett had waited patiently for this opportunity ever since arriving on Tartarus. Patience had not come naturally to her, yet this world had forced caution upon her whether she liked it or not. From the moment she had entered the underground city, she quickly realized that this was not a place where reckless ambition was rewarded. Even the weakest of the fallen angels, as the locals called themselves, possessed enough power to pose a legitimate threat. More than once, Ynett had found herself retreating from encounters she normally would've dominated back when she was in the mortal realm. The experience had been humbling, even if it was unpleasant.
+
+While she remained confident in her own abilities, confidence was not the same as stupidity. Charging headfirst into an unfamiliar ecosystem filled with dangerous predators was an excellent way to become prey. Which was why she had spent her time observing.
+
+Today, however, Ynett's patience was going to be rewarded. The Bright Family and the Graves Family, the two dominant powers within the underground city, had finally reached a point where open conflict seemed inevitable. Whether the confrontation escalated into a full battle or remained a tense political standoff mattered little to Ynett. Violence created opportunities.
+
+Should blood be spilled tonight, Ynett intended to ensure none of it went to waste. Powerful fallen angels carried valuable equipment, magical artifacts, enchanted weapons, and resources that could accelerate her own growth considerably. Even if she could not challenge the leaders directly, she had no intention of ignoring the weaker members who might become isolated amidst the confusion. Such individuals often proved remarkably vulnerable when they believed the danger had already passed.
+
+Currently, Ynett observed the gathering from one of the Bar's upper maintenance levels, a narrow service platform hidden behind decorative latticework overlooking the main floor below. The position was cramped and uncomfortable, but it provided an excellent vantage point while remaining largely invisible to anyone beneath her. An invisibility spell concealed both her and the small group of elite minions accompanying her.
+
+The bar itself was enormous. Several floors of balconies overlooked a sprawling central hall filled with expensive furniture and elaborate decorations. Normally, Ynett suspected the establishment would've been bustling with wealthy patrons and loud conversation. Tonight, however, the atmosphere felt entirely different.
+
+The room had become a battlefield waiting for permission to begin. Members of the Bright Family occupied one side of the hall while the Graves Family held the other. Dozens upon dozens of fallen angels stood facing one another across the open floor. Ynett estimated somewhere between fifty and a hundred individuals were present on this level alone, with additional guards likely stationed elsewhere throughout the building.
+
+Every member of the Bright Family bore a white ring tattoo around their neck. Every member of the Graves Family carried an identical mark rendered in black.
+
+Given the sheer number of powerful individuals present, Ynett considered it something of a miracle that she and her minions had managed to secure such an advantageous hiding place at all. Not that she intended to waste it.
+
+Several of the fallen angels carried those strange technological weapons Ynett had seen throughout the city. Others rested their hands upon enchanted blades or holstered sidearms while maintaining expressions of practiced calm. Yet beneath those composed exteriors, Ynett could sense the nervous anticipation spreading through the hall.
+
+They were waiting for something, or perhaps someone. Either way, the confrontation had not yet reached its true beginning.
+
+Carefully, she extended her senses toward the snakes concealed beneath her robes. Tiny movements stirred within the folds of fabric draped around her arms as several serpents emerged from her sleeves. Their scales shimmered faintly before disappearing entirely beneath layers of invisibility magic. One by one, the snakes slithered away.
+
+They hugged walls and ceilings as they dispersed throughout the enormous hall. Their bodies flowed between decorative carvings, beneath balconies, and across support beams high above the gathered crowd. Invisible to the eye and nearly impossible to detect through mundane means, they became extensions of Ynett's awareness.
+
+As the first serpents reached their positions, new sounds filtered into Ynett's consciousness. Most of it proved useless, little more than the rustle of clothing, the scrape of chairs against polished stone, and the quiet murmurs of impatient onlookers. Then the atmosphere shifted.
+
+Heads turned toward the entrance, and even from her position high above the hall, Ynett could feel the tension that swept through the crowd. Two men had entered.
+
+The first wore white armor, etched with golden patterns. Beside him walked a second man clad in black armor of similar make, though his was trimmed with silver and deep crimson accents that gave it a far harsher appearance. Neither carried a visible weapon, yet neither appeared to need one. Their mere presence commanded the attention of the entire room, and as they walked, members of both families immediately rose to their feet.
+
+The Bright Family reacted first, placing fists against their chests as they saluted the man in white, while a second later the Graves Family mirrored the gesture toward the man in black. Ynett narrowed her eyes as she watched the pair advance toward the center of the hall.
+
+The two men walked toward the center of the hall in complete silence. When they finally stopped, a few paces separated them. Then wings unfurled, and brilliant white feathers spread from the back of the Bright Family leader. The Graves patriarch soon revealed a pair of black wings that seemed to drink in the surrounding illumination.
+
+Through the senses of her hidden serpents, Ynett listened carefully as the two men spoke to each other.
+
+"It appears this is truly the end, then," the Bright leader said. "After so much struggle and sacrifice, we are preparing to surrender what remains."
+
+The leader of the Graves Family let out a sharp laugh. "Surrender? That's a dramatic way of describing it."
+
+"What would you call it?"
+
+"A deal, because that's what this is."
+
+The Bright Family leader's expression hardened as he stared across the hall. "Divinity Incorporated will not stop with simple oversight. Once they take control of the city, every institution, every district, and every family will eventually answer to them."
+
+"And what's the alternative?" The Graves patriarch shot back. "Do you truly believe we can stand against the full strength of the company and win?"
+
+Silence settled between them for a few moments. Neither man looked away. Around them, dozens of fallen angels remained perfectly still, watching the exchange unfold. Then the Graves patriarch stepped forward, his black wings shifting as he spoke. "The future is coming whether we welcome it or not. I'd rather negotiate our place within it than die defending a past that no longer exists."
+
+The Bright leader lowered his gaze for a moment before looking back up. "You really are serious about this."
+
+"I can see where things are headed. The company isn't slowing down, and they're certainly not going away. I'm being generous enough to sit down at this table and make sure your family gets a place in the new order that's coming."
+
+"Hmph. The only reason you're extending that offer is because the company demanded both of our signatures for their contract."
+
+The Graves patriarch shrugged. "Call it whatever you want. Now, are we in agreement or not?"
+
+As the Bright leader fell silent, Ynett found herself trying to piece together everything she had heard so far. This encounter was nothing like the confrontation she had expected. If anything, it sounded as though the two families were preparing to surrender without a fight.
+
+She could hardly blame them. It had not been long since she first learned about this mysterious Divinity Incorporated, yet even the small amount she had uncovered had been unsettling. From what she understood, the organization possessed influence on a scale that bordered on absurdity. Much of what had happened to her back in the mortal realm could ultimately be traced back to their actions and decisions. Against a force like that, most people would choose survival over resistance.
+
+Unfortunately for Ynett, that also meant tonight was rapidly becoming useless. If the Brights and Graves simply signed their agreement and walked away, there would be no chaos, no wounded survivors, and no opportunities for her to quietly strengthen herself amidst the aftermath.
+
+Just as that irritating realization crossed Ynett's mind, she felt several of her serpents suddenly stiffen. The snakes hidden throughout the hall had detected something, or rather, a few someones.
+
+Ynett immediately turned her gaze toward the entrance. The doors opened once more, and two women stepped inside. One wore a black hooded cloak, and beside her walked another woman draped in a deep red cloak. They simply entered the hall and continued forward at an unhurried pace, as though they had wandered into an ordinary tavern.
+
+Fallen angels from both families shot to their feet, hands moving instinctively toward weapons. Chairs scraped loudly as armed men and women repositioned themselves. Within moments, dozens upon dozens of weapons were pointed directly at the two cloaked strangers. Even the patriarchs abandoned their discussion as they both looked to the entrance.
+
+From her hidden vantage point above the hall, Ynett watched the scene unfold with growing interest. What fascinated her most was not the reaction of the crowd, but the complete lack of reaction from the intruders themselves. Surrounded by enough firepower to wipe out a small army, neither woman seemed remotely concerned. They neither reached for weapons nor attempted to explain themselves. Instead, they simply stood there beneath the weight of countless hostile gazes, calm and motionless as statues.
+
+The Graves patriarch looked at them for several seconds before finally taking a step. "Oi, names, both of you."
+
+Neither of the cloaked women responded. They simply stood there beneath the weight of dozens of hostile stares. Several of the families enforcers exchanged uncertain glances, clearly unsure whether they were moments away from a negotiation or a massacre.
+
+Eventually, the woman in black broke the silence. "I would like to speak with a representative of either the Graves Family or the Bright Family."
+
+The Graves patriarch was visibly unimpressed. A look of irritation crossed his face as his black wings shifted behind him. "I think you've misunderstood the situation, I'm the one asking questions here."
+
+The woman did not react, and that only seemed to irritate him further. "If you're planning to waste my time, then you're going to pay for it."
+
+At those words, the woman in black finally turned her attention fully toward him. "I presume you are the leader of the Graves Family?"
+
+The patriarch's expression darkened. "That's enough."
+
+Dark mana surged around him as he raised a hand. Shadows gathered and condensed, forming a long black spear, the weapon crackled with power as he hurled it forward, sending it screaming across the hall toward the cloaked woman.
+
+The attack should have reached her almost instantly. Instead, the spear froze in midair less than an arm's length from her body.
+
+A murmur spread throughout the room as dozens of fallen angels stared in disbelief. The woman had not moved beyond raising a single hand. She hadn't even changed her posture, yet the weapon remained suspended before her, caught by some invisible force.
+
+Then the spear began to twist. The shaft bent in impossible directions while cracks spread across its surface. The once deadly weapon folded in on itself again and again, compressing into a tangled knot of mangled black metal before dropping harmlessly onto the floor with a dull clang.
+
+For the first time since entering the hall, the Graves patriarch looked genuinely shocked. But before anyone could react, the Bright Family leader moved.
+
+Unlike the Graves patriarch, he wasted no time on threats or warnings. Brilliant light erupted from his outstretched hand, gathering into a concentrated beam that tore through the air with blinding speed. The attack struck the woman in red squarely in the torso, blasting a hole clean through her stomach and sending her crashing backward onto the polished floor.
+
+The Graves patriarch barked out a short laugh. "Nice shot."
+
+The Bright leader didn't laugh. In fact, his expression grew even more serious as he continued staring at the fallen woman. "No, the red one's not dead."
+
+The words had barely left his mouth when the woman began to move. Slowly, she pushed herself back onto her feet while every eye in the room remained fixed on the massive wound in her abdomen. The hole should have been fatal. Instead, the flesh around the injury began to shift and knit itself back together.
+
+Even stranger was what happened to the cloak. The damaged fabric repaired itself before their eyes, threads weaving together until the tear disappeared entirely. Within seconds, there was no evidence that she'd ever been injured at all.
+
+The woman stood there as calmly as before, looking completely unharmed. Ynett felt a strange sensation settle in the pit of her stomach. As she watched the impossible regeneration unfold, an uncomfortable feeling of familiarity crept into her thoughts. She had seen something like this before.

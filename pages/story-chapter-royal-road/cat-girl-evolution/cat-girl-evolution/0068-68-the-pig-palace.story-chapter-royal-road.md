@@ -1,0 +1,281 @@
+---
+id: 13e6b429-17e9-5403-a275-b5de2b9bd3ef
+page-type-slug: story-chapter-royal-road
+title: "68 - The Pig Palace"
+slug: 0068-68-the-pig-palace
+partOf: cat-girl-evolution
+position: 68
+ownLength: 2840
+unit: words
+publishedAt: 2025-12-28
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2886700/68-the-pig-palace"
+royalRoadId: "2886700"
+---
+
+Catching the twins’ amusement, Lauren follows their gaze to my chest as well, and almost immediately snorts with laughter. I frown and fold my arms. I knew it. That bitch of a goddess wouldn’t have given me something so good without a drawback like this.
+
+“What does it say?” I ask.
+
+“You don’t know?” asks Lauren.
+
+“Obviously not, or I wouldn’t be asking.”
+
+“I’m not sure if it’s appropriate to—” starts Lauren.
+
+“It says ‘I am a bitch,’” says A.
+
+“A more literal translation would be ‘bitch me,’” adds B. “The top rune is ‘bitch’ and the bottom is ‘me,’ but when they’re on top of each other, the first applies to the second, so colloquially, it becomes ‘I am a bitch.’”
+
+“I see,” I say grumpily.
+
+Lauren looks a little worried about vulgarity for some reason, but she and the twins are both still very clearly amused by my necklace. Chad was confused at first, but after hearing A and B’s explanation, the corner of his lip is now slightly upturned.
+
+“Does everyone know what this says?”
+
+“Anyone who went to an academy and paid even a bit of attention in runescript class,” says A.
+
+“It’s one of the most basic classes,” adds B. “And It was tradition of the older students to pass down all the runes for swear words.”
+
+“And how many people is that?”
+
+“Not many people can afford an academy that teaches runescript, but among adventurers, and especially on mages, the rate is a lot higher,” says Lauren. “Maybe half of them?”
+
+“Probably closer to three quarters of mages,” corrects A.
+
+“But half of Adventurers sounds right,” says B. “Even if they’re uneducated, knowing at least some runes is important for Dungeon exploration.”
+
+“It is?”
+
+“Yeah, Dungeons are full of runes,” says Lauren. “If you know what to look for, there are lots of hidden secrets.”
+
+“Very interesting.”
+
+As interesting as it is though, this whole thing proves beyond a doubt that the goddess watching over me is indeed a bitch.
+
+You hear that, you bitch?! You’re a bitch!
+
+However, I am not a bitch.
+
+“Right.”
+
+Hey! I’m not a sensitive bitch, at least. Unlike the goddess, I can take a few jabs without getting my feelings hurt and resorting to petty revenge. In fact, this whole thing is actually pretty funny, because it shows how petty and immature the goddess is. In fact, it’s so funny that I’m going to keep wearing this and I will make sure I get a good use out of it to spite her. Let the fact that I keep wearing it be a testament to her own failures and inadequacies.
+
+Abby, you got all that on record, right?
+
+“Of course… But didn’t you just say that you weren’t going to resort to petty revenge?”
+
+This isn’t petty revenge. This is just me making sure that the goddess is informed of exactly how poorly her petty prank has gone. In fact, it actually backfired! Not only did I get a good item out of it, but it even made my minions laugh, and if my minions are laughing, that means that their job satisfaction is increasing, which is good for me.
+
+So ha! Take that, Goddess of Bitches. I bet that’s your divine domain! Bitches! You’re a bitch and all your followers are bitches just like you!
+
+“Yona, you’re only going to make things worse.”
+
+If this makes things worse, that just proves that the goddess is a sensitive bitch! If she truly wasn’t a sensitive bitch, then she would just ignore all this. After all, I’m just a cat. Just a little cat. And she’s a whole goddess. I can’t believe she’s letting little old me get under her skin. Only a bitch would let that happen.
+
+“Where did you get it?” asks A, tearing my thoughts away from the bitch in the sky.
+
+“Oh, it was a Dungeon reward.”
+
+“A Dungeon reward?” asks Lauren. “Didn’t you say you were going to the Boar Forest?”
+
+“Yeah, that’s where I got it.”
+
+“That one doesn’t give out rewards though.”
+
+“It does when a Field Boss spawns.”
+
+Everyone’s eyes widen.
+
+“A Field Boss?!” asks Lauren. “In the Boar Forest? And you killed it?”
+
+“Yup.”
+
+“But the Field Boss is supposed to be a Tier 3 Disaster!”
+
+“Yup. It was pretty stupid, though. It was durable, but that’s about it. Speaking of, do you think that this place will cook up some of the meat from it? I want to see what it’d taste like.”
+
+Lauren is speechless, but the twins recover from the revelation quite quickly and respond.
+
+“They definitely can, and would probably be happy to,” says A.
+
+“Cooking with rare ingredients is good for Profession levels,” adds B.
+
+“Great! How do I talk to the chef?”
+
+In response, A reaches toward the middle of the table where a little silver bell with a wooden handle sits. She rings it once, and immediately, the waiter who has been standing in a corner on the far side of the room rushes over to the table. A asks if we can talk to the head chef about preparing Tier 3 Named pork, and the waiter nods and rushes downstairs. I follow him downstairs with Food Sense as he heads all the way down to the basement where the kitchen and a few dozen cooks are preparing food. He stops next to the biggest one, who probably weighs close to 500 pounds, and after explaining our request, the rotund chef moves faster than a man his size should be able to sprint up the stairs to us.
+
+When he emerges, I immediately realize that I should give him my full trust when it comes to my food. Not only is he clearly a big eater, but he’s bald with bushy eyebrows and a magnificent handlebar mustache. There is possibly no man in the world more trustworthy for cooking large quantities of meat.
+
+“Did you say you had Tier 3 Named pork?” he asks.
+
+“Yes I do!” I say happily.
+
+“Is it the Field Boss of the Boar Forest Dungeon?”
+
+“Yep!”
+
+“Wonderful,” he says, looking incredibly excited. “I remember the last time it was defeated. I had my men carving it up for a week to get the meat into a proper state. I actually expanded my basement to accommodate it. I presume you have yet to butcher the meat?”
+
+“Correct.”
+
+“Excellent!” he says. “I will offer you the same deal I offered the last Adventurers who managed to defeat it. I and my employees will butcher the beast, turning the meat into something more easily handled, and in exchange, we will take three to five percent of the butchered meat, depending on the state of the corpse.”
+
+“Hmmmm,” I say.
+
+This is actually not a bad deal. Putting the head and body into my Stomach almost cost me my entire mana pool. I can’t really leave it in its current state. Three to five percent is a lot of meat… but I have a lot of meat.
+
+“I killed the boar in a single strike by beheading it,” I say. “It probably also has a little stab wound in its back, but it was healing it off when I killed it. The corpse is otherwise completely intact.”
+
+“If that’s true, then we will take three percent.” The chef nods excitedly, and the rolls of fat under his chin jiggle. “I had a deeper, larger basement excavated after the last time the Field Boss appeared, just for this occasion. I have a good contract lawyer that I know, so I can call them over, and we can sort this out tonight! And of course, once the butchering is done, I will prepare a magnificent feast for you with the meat.”
+
+“Sounds good,” I say, licking my lips.
+
+“Then please excuse me. And enjoy your meal. It should be out shortly.”
+
+My stomach is already growling again. I can’t wait. Three percent of the meat is a small price to pay for a meal cooked by a professional chef who specializes in pork.
+
+Wait, did he say our food would be out shortly?
+
+“Did you guys already order?”
+
+“Yes,” says Lauren, seemingly having recovered from the shock. “You were late, but we figured you wouldn’t mind. We ordered you one of everything.”
+
+“Ah, you know me so well, Minion. Speaking of minions…”
+
+The fat chef said he’s gonna call over a good contract lawyer. This is perfect! I can knock out the secrecy contract tonight too!
+
+“I’d like to offer you all an opportunity,” I continue. “You all can be my minions too! Of course, I am a generous employer, and will not treat you unfairly. Just ask Minion number one.”
+
+I gesture to Lauren, who looks a bit surprised, but speaks up after a couple seconds.
+
+“It’s… not as bad as it sounds.”
+
+“She’s just being modest. Being my minion is a fantastic opportunity. Not only do you get to spend more time with me, but you even get the opportunity to make my life better.”
+
+“She means she wants you to join her Adventurer Party,” says Lauren.
+
+“Hey!” I say. “It’s more than that. You also have to cook for me and not disturb my naps!”
+
+“And I do the cooking, and not disturbing your naps is relatively easy, so it’s basically just joining your Adventurer Party.”
+
+“Still not quite,” says A. “Yona is far stronger than any of us right now. Probably even more so after slaying that Named monster. Really, it’s more like being travel partners.”
+
+“Which is quite a good deal,” says B. “Protection from someone as powerful as her is hard to come by.”
+
+“Plus, she’s fun,” says A.
+
+“Yes,” says B.
+
+“Exactly!” I say. “So you want to be my minions?”
+
+“Sure,” they both say, shrugging.
+
+“Excellent! I just need you to sign a little contract of secrecy then.”
+
+“Just secrecy?” asks A.
+
+“Of course. A true princess does not need contracts to enforce loyalty.”
+
+“We can sign secrecy contracts,” says B.
+
+“Perfect! That just leaves you, Chad.”
+
+Chad seems quite bewildered by the whole conversation, and does not respond immediately when called out. He keeps glancing back and forth between me, Lauren, and the twins, with his eyes lingering on Lauren a bit longer than me or the twins.
+
+“By the way, I am a big fan of workplace romance,” I add.
+
+He hesitates a bit longer before replying.
+
+“I… need more time to think,” he says.
+
+“Sure,” I say. “You have until we leave, I guess. And that will be… Lauren, when are we leaving?”
+
+“As soon as I sell my house,” she says. “So a week or two. Assuming this assassin business is taken care of by then.”
+
+“Yes, so you have a week or two to decide,” I say, turning to Chad.
+
+He nods, then starts staring at Lauren, who pretends not to notice. Thankfully, the staring doesn’t get awkward, because a moment later, the food arrives, and I let my thoughts sink into blissful euphoria as I eat everything the Pig Palace has to offer. There’s bacon, ribs, pork chops, pork foot, pulled pork, braised pork, ham, and dozens of various pork dishes with so many different sauces and spices it’s hard to keep track of them.
+
+We all eat until our stomachs are about to burst, then I store the rest away, and for a bit, we all just recline and say nothing as we digest. Almost exactly when I feel like moving around a bit again, the fat chef reappears from the doorway, and behind him is a stern-looking woman in a black suit.
+
+“I hope you all enjoyed your meal,” he says, smiling. “Ma’am, you are still interested in the deal I proposed earlier, yes?”
+
+“Absolutely!” I say, jumping up. “Also, lawyer lady, can I have you whip up some other contracts afterward?”
+
+“Not for free,” she says.
+
+“Yeah, I can pay,” I say. “They should be pretty simple too.”
+
+“I charge by time, not complexity,” she says without a hint of emotion.
+
+“Alright, then it sounds like we should get going.”
+
+I follow the chef and lawyer downstairs below the kitchen to an absolutely enormous basement that’s as big as the entire aboveground section of the restaurant. There’s more than enough room for the boar, so I take it out, and immediately the chef starts running all around, examining every part of it. I even catch the emotionless lawyer’s eyes widening a bit when she sees it.
+
+After no more than a minute, the chef returns and happily tells the lawyer to write in 3%, and after asking Abby to make sure there are no traps in the contract, we both sign. The chef activates some enchantments in the basement that are supposed to help preserve the meat, then goes back to examine the boar’s body while I talk to the lawyer.
+
+“Secrecy?” she says. “Just that?”
+
+“Yeah,” I say. “I just want to make sure that I can share some secrets without worrying about them spilling the beans.”
+
+“Spilling the beans?”
+
+“It’s a saying where I come from. Anyway, can you do it?”
+
+“Of course,” she scoffs, as if insulted that I even had to ask. “How many?”
+
+“Four.”
+
+She snaps her fingers and four pieces of paper appear in her hand, which she gives to me.
+
+“These should suit your needs,” she says. “Though I must inform you that they are not infallible. They will enforce a compulsion on those who sign it to prevent them from disclosing certain information, but if their Willpower is high enough, the compulsion will be ineffective. It also will not hold up to torture.”
+
+“That’s fine. If they’re getting tortured, they should just give the information.”
+
+“You must also explicitly designate any information you don’t want shared as secret,” she continues. “If you fail to do this, it will not fall under the contract. Additionally, if you share ‘secret’ information that is actually widely known, it will not work.”
+
+“Alright. Is that all?”
+
+“Yes, unless you want anything else added.”
+
+“Nope!”
+
+“That will be fifty gold.”
+
+“I thought you charged by time.”
+
+“My time is very expensive.”
+
+The two of us have a staring contest for a bit until I sigh and relent. I hate dealing with lawyers. I forgot how much they suck. At least I’m rich now. I can afford some overpriced secrecy contracts. If I find out she scammed me though, I am going to sneak into her house and eat her bed while she’s sleeping on it.
+
+I clink my golden Adventurer’s badge against her own platinum badge with a set of scales on it, and when I mentally check my balance, it is fifty gold lighter. I don’t want to see her anymore, so without saying goodbye, I Blink back up to the top floor of the restaurant, still holding the contracts.
+
+“Got the contracts!” I say. “Anyone have a pen?”
+
+Lauren sighs, then with a groan, pushes herself to her feet. Her stomach is noticeably distended from all the food she ate, but it only seems to hinder her movement a little bit. She reaches into the bag at her hip and pulls out a quill and a small jar of ink, then finds a relatively clean spot on the table to set it out.
+
+It doesn’t take long for her and the twins to sign, and then, it’s only Chad left.
+
+“I guess—” I start.
+
+I stop when he gets to his feet as well, and slowly—almost like he’s fighting against some unseen force—he walks over and signs the last contract.
+
+Hooray! Four minions locked in!
+
+“Almost. They might change their minds when you tell them the truth.”
+
+Nah, it’ll be fine. I just need to show them my true form. Who can resist petting a cute lil kitty cat?
+
+“So are you going to share with them?” asks Lauren.
+
+“Here?” I say. “Are you crazy? No, let’s go outside the city first.”
+
+I know my Sensitivity is abnormally high, but I can basically eavesdrop on every conversation in a one kilometer radius if I want to. No way am I sharing sensitive information anywhere near other people.
+
+“Are you sure?” asks Lauren. “What about the assassin?”
+
+“If they’re smart, they won’t try to attack me while I’m awake. If they’re stupid, then we won’t have an assassin problem after this excursion. C’mon, let’s go.”
+
+The twins follow behind me immediately as I walk toward the stairs, and Lauren and Chad follow after a brief hesitation. We make it to the city gates, then leave along one of the main roads before turning into the forest and walking a few kilometers until we’re far enough away that the only sounds I hear are those of the wilderness.
+
+“Okay, so basically, the reason I had you sign those contracts is this.” I turn into my usual cat form in front of them. “I’m actually a Named monster, and I also have the Gluttony Trait.”

@@ -1,0 +1,245 @@
+---
+id: a6d0e621-2b7f-507b-a1a0-0731fc90d653
+page-type-slug: story-chapter-royal-road
+title: "64 - Minion Morning"
+slug: 0064-64-minion-morning
+partOf: cat-girl-evolution
+position: 64
+ownLength: 3462
+unit: words
+publishedAt: 2025-12-19
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2860774/64-minion-morning"
+royalRoadId: "2860774"
+---
+
+At first, Lauren thought that Yona’s habit of teleporting away the second she was done with a conversation was rude, but by now, she was used to it. When Yona disappeared after asking about the Boar Forest Dungeon, she just sighed, and went back to finishing off her meal. When she was done, she grabbed both hers and Yona’s plates and took them to the kitchen. Yona’s plate was more of a platter, really.
+
+As she washed the dishes, Lauren idly wondered about Yona’s appetite. With how little effort Yona expended doing anything, it was a miracle that she still appeared so fit and lithe with the quantities she ate. Lauren had a sizable appetite herself, but she worked off most of her calories. When they were walking back from Ryantown, she walked every step on her own two feet while Yona spent most of the journey reclining on a walking construct. She could only assume Yona’s inexplicable inability to gain weight was tied to the fact that her beastperson form wasn’t her base form, but only the gods knew how it truly worked.
+
+With the dishes done, Lauren looked around the house for a minute or so before deciding to leave. She was a little worried about the assassin, so she stayed on guard, but Yona’s complete lack of worry about them eased her mind a little. The assassin was certainly great at covering their tracks, but Yona didn’t seem to think they were all that, so Lauren subconsciously discounted them as well.
+
+She had four hours or so to kill before they were supposed to meet with the others, and after weeks of chaos, Lauren was ready for some peace and quiet. She could have done more work to start getting her house sold, but she wasn’t really in the mood. She was much more inclined to curl up on her couch and read, so that was exactly what her plan was.
+
+On her way back, she passed by a food stall selling hot pastries, and when she smelled them, her stomach rumbled. She looked down at it in confusion.
+
+What the heck? she thought. I just ate.
+
+The meal she had just eaten was about what she normally ate, and previously, that would keep her sated at least until lunch. In retrospect, it hadn’t felt quite as filling as usual though. Was her appetite growing? That was odd.
+
+After some deliberation, she caved in and decided to stop and buy a couple jelly-filled snacks. She still had plenty of time before they would be meeting for lunch, and she would rather spend it with a full stomach than not.
+
+As she finished the journey back to her own home, she almost completely forgot about the assassin. Her mind was instead stuck on Yona and her proclamation about making the others her minions. Lauren wasn’t particularly interested in being a minion, but if “being a minion” just meant adventuring with a powerful Party and also advancing her Profession by cooking for them, it actually wasn’t a bad deal. Assuming the others agreed. She didn’t know where Yona’s confidence about that came from, but even so, Lauren found herself daydreaming about how they might all fight together, conquering Platinum-tier Dungeons with ease and earning enough money to live comfortably for centuries.
+
+“Lauren.”
+
+Lauren looked up with a start to see a familiar face waiting just outside the wall surrounding her house. It was Luca, one of the Guild’s runners.
+
+“Luca? What are you doing here?”
+
+“Pike sent me to get you.”
+
+“He did? Why?”
+
+“I dunno. He said it was important though. And that you should come alone.”
+
+Lauren didn’t miss the subtle meaning behind those words. Usually, “come alone” might mean that she was learning classified information for her ears only, but there was only one person she would even consider bringing. The “alone” actually meant “without Yona.”
+
+“Understood,” she said. “Let me finish something up and I’ll be right over.”
+
+“He says it’s not an emergency, but it is urgent, so he wants to see you before noon,” said Luca.
+
+Lauren nodded. “Is there anything else?”
+
+“No, that’s all. Have a good day.”
+
+“You too.”
+
+Lauren frowned as she entered her house. Yona was suspicious, there was no doubt about that, and Lauren had fully expected the Guild to be curious. Until now, they didn’t really have the time to investigate, but now that things were relatively peaceful, they did. Not that Yona being targeted by an assassin was “peaceful,” but there were no emergency Quests tearing Lauren and Yona away from the city for weeks at a time, so Pike was able to be more active in his suspicion.
+
+Lauren did a few administrative things around her house, instructing her maids to clean up from the break-in, and to contact the necessary people to get her door and window fixed, but the whole time, in the back of her mind, she was thinking about the upcoming conversation with Pike. A few weeks ago, she would have considered selling Yona out. She doubted she would have gone through with it, but it would have been tempting. Now though… She didn’t fully believe Yona’s story about being reincarnated and the Chosen One, but it was obvious that she was not a normal monster, and also clearly not evil. It wouldn’t be right to betray her.
+
+At the same time, she couldn’t betray the Guild either. It wasn’t that she had any particular loyalty toward them, but she also knew that they were too powerful to go up against. They were an intercontinental organization headed by people powerful enough to squash her like a bug if she got in their way. Neglecting to inform the Guild while performing a private investigation of her own was one thing. Lying directly to the branch leader, or worse, the official Guild investigator was in an entirely different league. If she was going to hide Yona’s true nature from them, she had to be completely certain that she was willing to face the potential consequences.
+
+Fortunately, she doubted she would have to go so far at this point. It was most likely just some questions about Yona’s background and things like that, given the circumstances. Eventually, she would be forced to choose between the guild and Yona. But the time for that decision hadn’t come yet. For now, she would probably just be answering a few questions about Yona’s purported background, and how it might relate to the assassin.
+
+Lauren chided herself for not asking Yona why there was an assassin after her. The beastwoman hadn’t shared anything with Officer Franz, but some of that was definitely caution. She would be surprised if Yona actually had no idea why someone would be targeting her. That was something that she would have to ask later.
+
+As she walked back to the Guild hall, she mentally ran through options of things she could say to Pike when asked about Yona’s background. The safest option by far was just to say that Yona hadn’t shared anything, but Lauren wasn’t really the best at talking under pressure, so she came up with a long list of backup plans just in case too.
+
+When she got to Pike’s office, she was immediately thrown off by the first thing he said.
+
+“First thing’s first, a quick administrative thing: I need detailed reports from each of you on what happened in Ryantown. I’ll start with you.”
+
+Her plans completely forgotten, Lauren launched into a retelling of the story of what had happened. It didn’t take very long since Lauren wasn’t involved, but Pike was very interested in the state of the town guards, and exactly what preparations Yona had made before killing the Named monster. When she was in the middle of this though, he suddenly interrupted her.
+
+“She did what?”
+
+“She stored A’s spells,” repeated Lauren.
+
+“How?”
+
+“I’m… not sure,” said Lauren. “I think she has a powerful spatial storage artifact. It seems to have enormous capacity, and I wouldn’t be surprised if it had additional features like storing spells.”
+
+Lauren had been wondering the same, and while she didn’t know the answer, she had come up with a good explanation to give to Pike. Her real theory was that it was related to Yona’s abilities as a Named monster, but of course, she couldn’t say that, so a powerful artifact was the next best answer.
+
+“Do you understand how powerful one would need to be to create an artifact that stored spells like that?”
+
+“Yes,” said Lauren. “Which is why I think she is likely someone very important.”
+
+“Or, it’s no artifact,” said Pike.
+
+Ah, shit, thought Lauren.
+
+“Her Spatial Affinity is clearly very powerful,” he continued. “Almost too powerful. She has powerful attacks, storage, and even spatial sense, to the point that she completely saw through both Aaron’s stealth, and the assassin’s stealth. Given how strong she is, or rather, how strong she says she is, this seems like too much.”
+
+“Maybe…” said Lauren cautiously.
+
+She clenched her fists, sensing the conversation going somewhere dangerous.
+
+“Last night, I mentioned that the slayer of the Named monster in the eastern swamp was assassinated,” he said. “But there was one detail that I failed to mention.”
+
+“What was that?”
+
+“That man was not a man at all. He was a Named monster.”
+
+“Oh.”
+
+“Yes,” said Pike. “A mysterious figure suddenly appearing in a remote location and singlehandedly slaying a Named monster. No signs of their existence prior to this feat. A backstory of dubious veracity. Sound familiar?”
+
+Oh no, thought Lauren. Looks like I’ll have to make that decision right now.
+
+At precisely sunrise, the twins woke up at the exact same time. They went through their morning routines at the same time, almost perfectly mirroring each others’ movements as they washed up and got dressed. They both opted for slightly nicer clothes today. After weeks in travel clothes, it was good to look nice. Then, they went downstairs, arriving in the kitchen simultaneously and seeing each other for the first time that morning.
+
+“You copied me,” they both said, seeing each others’ clothes.
+
+Then, they doubled over, giggling.
+
+They had always found their synchronicity amusing, especially when it was accidental. It didn’t always happen, but having spent their entire lives together, they shared most of the same tastes and tendencies, so incidents like this were frequent. Their clothes were not quite identical, since A preferred sharper angles in her embroidered patterns, while B preferred circles and spirals, but their dresses were the same style and came from the same tailor and they had ordered them on the same day.
+
+They opened their own private cabinets in the kitchen, each grabbing a pre-made meal they bought from a local chef who specialized in putting his meals in stasis. It wasn’t quite as good as if they got it fresh from a chef of equivalent level, but it was extremely convenient, and it was much better than anything they could make themselves.
+
+They ate in silence, cleaning their plates. A few seconds after they finished, they frowned.
+
+“Are you still hungry?” asked A.
+
+“Are you?” responded B.
+
+“Yona’s Gluttony is strong.”
+
+“Yes.”
+
+“We should ask her for compensation for our rising food expenses.”
+
+“She wouldn’t agree to that.”
+
+“Not even for ear scratches?
+
+“Maybe.”
+
+“We’ll have to ask later today.”
+
+“Yes.”
+
+They both nodded, then grabbed a second pre-made meal, and started eating. Both of them got about halfway through before setting their utensils down.
+
+“We should have just split one,” said B.
+
+“Oh well.”
+
+Unfortunately, the pre-made meals could not go back into stasis, and they did not have any spatial storage bags that could do the same thing. Those kinds of spatial storage bags were incredibly expensive. They knew for a fact that Lauren’s had cost her almost an entire year of Adventuring profits, and the twins would need two of them. Plus, if they evolved their Professions again, they would probably be able to make their own before long, so it wasn’t entirely worth it.
+
+The unfortunate wasted food went into their trash can, and the twins made their way out of the kitchen and then downstairs into their basement, then down a secret trapdoor into a second, deeper basement. In the basement’s basement, they walked up to a vault door, pressing their hands to it and injecting mana. A moment later, the door popped open with a hiss, and they stepped inside, closing the door behind them.
+
+Within the vault was not riches, or treasures, but rather a surprisingly cozy room illuminated by mana crystals. One side was a blank wall, the opposite side had a couch, and the center of the room had a table with a crystal ball on it. The crystal ball was easily the most expensive item the twins owned, and it wasn’t close. The reason why was obvious as soon as they activated it.
+
+They sat down on the couch, then each put a hand on the ball, which lit up the moment it sensed their mana. The insides began swirling around rapidly, getting faster and faster with each second until they came to a perfect halt, and the orb shot light onto the far wall. The light was not a random spotlight, however, and was instead like a circular window to somewhere far away.
+
+“Hello, girls!” came a voice from the crystal ball. “How are you!”
+
+“Hello, Master,” said A and B.
+
+Through the window of light, another person could be seen. It was a slightly older woman who looked to be around thirty. Just like the twins, she had pale skin, silvery hair, and light gray eyes. However, her facial features looked completely different, to the point that it was obvious that any blood relation they might have had was distant, if it existed at all. The shared traits were not caused by blood, but rather by their Unattributed Mana Affinity.
+
+Unlike the twins though, her appearance was not clean and proper, and her posture was far from perfect. She was wearing nothing but a filthy apron covered in grease and other stains, her hair was a rat’s nest, and there were smudges on her cheeks, hands, bare arms, and every other bit of skin that was exposed. She had a pair of goggles on her forehead that looked like a metal monstrosity, but anyone with a trained eye would tell that the goggles were actually an artificing marvel that were complicated almost beyond comprehension.
+
+Behind her, the twins could see an expansive workshop littered with all kinds of knicknacks. From weapons to tools to vehicles, the workshop seemed to contain everything. On the table right next to their master, there was something that looked like a hip flask, except that the front panel had two layers, the first of which was sitting nearby, exposing an intricate array of carved patterns on the inside.
+
+“To what do I owe the pleasure?” she asked cheerfully.
+
+“We met someone,” said A.
+
+“Oooh, romance?” asked their master.
+
+“No,” said B. “She’s like you.”
+
+“Like me?”
+
+“She has a Sin Trait,” explained A.
+
+“Oh, fascinating.” The smile vanished from their master’s face, replaced by an expression of deep interest. “Which one? Tell me more.”
+
+“It’s Gluttony,” said A. “She’s a beastwoman of the house cat tribe, and she’s very strong.”
+
+“We think she can help us clear the Archmage’s Legacy,” said B.
+
+“Ah, this must be the mysterious Princess Yona.”
+
+“You’ve heard of her?” asked A in surprise.
+
+“Princess?” asked B.
+
+“Yes, Arianne was telling me about her at the last meeting,” said their master. “I had not heard that you two were involved though. Very interesting. Tell me everything. I want more juicy gossip for the next meeting.”
+
+“Well…” started A.
+
+The twins traded off talking as they went through the entire journey with Yona, telling their master everything they had learned and all the things that had happened. Their master was very interested, though in completely different things than Pike was. She only nodded when she heard that Yona could eat the twins’ spells, but asked multiple questions about how she liked her ears scratched. By the end, the smile had returned to her face, this time more eager than joyful.
+
+“Make sure you befriend her,” she said. “I want to meet her eventually.”
+
+“Yes, Master,” said the twins.
+
+“And it sounds like she’ll be perfect for the Archmage’s Legacy. I’m super excited to see what’s in there, so make sure you show me when you’re done.”
+
+“Yes, Master.”
+
+“And stop taking everything I say so seriously. You sound like slaves.”
+
+“We are deeply sorry, Master. Please don’t punish us.”
+
+“Haha, very funny. Anyway, it sounds like you two are gonna have fun soon. Keep me updated! I always love hearing what you’re up to.”
+
+“Yes, Master.”
+
+“Is there anything else you wanted to talk about?”
+
+“No, Master.”
+
+“Then it’s my turn now. Time to show you what I’ve been working on!”
+
+Four hours later, the twins left the vault to head to the meeting with Yona and the others.
+
+Chad lived alone. His house was just outside the Riverfork city walls on a large piece of private land. He had built his house himself, as well as all the furniture inside, and whenever he had free time, he was always making improvements and additions to it. After two years of constant work, its floor plan would likely give an architect a heart attack, but to Chad, it was perfect. Almost.
+
+In his workshop, he carved away at a plank, making sure it was perfect down to the micrometer so that it would join seamlessly with the rest. With every sliver of wood he carved off, he said a single word to himself.
+
+Idiot!
+
+Chad had never been good with words. In almost two weeks of travelling with Lauren, he had hardly said any to her. After how they parted ways all those months ago, he meant to say more. His words had clearly hurt her, and he felt bad. He wanted to apologize and make things right. Yet despite having plenty of opportunities to speak, just the two of them, for some reason, the words never came out. Now, they were back apart, and after lunch, their extended reunion would end, and they would go back to living their separate lives, possibly never seeing each other again.
+
+I need to say something, he told himself.
+
+This lunch meeting might be the last time they ever spoke. Lauren had been planning to move away for a while, even going so far as to search for buyers for her house, and while Chad wanted to do the same, he was more hesitant about it. He had no intention of selling his property, so he had a bit less work to do than her, but he still needed to prepare his house to be vacant for a while, and he had not even started. More than likely, he would end up waiting until after Lauren left, and only then would he get serious about moving. After she had time to settle in and maybe even find a new Party.
+
+No! he told himself. You’re going to say something today. At least talk to her before you make a decision like that.
+
+But what if she hates me? he replied to himself. She didn’t say anything to me either. She was clearly avoiding me. It’s better to just go our separate ways.
+
+He went back and forth with himself as he worked on his project, getting so lost in thought that he almost didn’t notice the time passing. It was only thanks to Timer Skill that Lauren had taught him in a Dungeon a year prior that he was jolted from his work. He barely had time to take a quick shower to get the sawdust out of his hair before he left, heading back into the city.
+
+Fortunately, all that time he spent thinking was enough to come to a decision. A small one, but it was better than nothing.
+
+I am going to talk to her after this lunch thing. No chickening out. No letting her walk away without a word. I’m going to apologize.
+
+The closer he got, the more nervous he got, but he had resolved himself. Nothing was going to stop him. Definitely not his own cowardice.
+
+As he got closer to the meeting place though, something else began to distract him: his stomach. It had been growling nonstop the entire journey, which was confusing. It was lunchtime, but he was usually only this hungry when he forgot to eat breakfast, and he definitely remembered eating breakfast. It was very strange.

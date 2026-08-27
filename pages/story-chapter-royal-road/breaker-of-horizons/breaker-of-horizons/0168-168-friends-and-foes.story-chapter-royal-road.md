@@ -1,0 +1,81 @@
+---
+id: 5cc3a59e-5da8-5017-aaa1-20bf4508a7ac
+page-type-slug: story-chapter-royal-road
+title: "168. Friends and Foes"
+slug: 0168-168-friends-and-foes
+partOf: breaker-of-horizons
+position: 168
+ownLength: 2115
+unit: words
+publishedAt: 2022-01-10
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/821787/168-friends-and-foes"
+royalRoadId: "821787"
+---
+
+Reeves spent around thirty minutes going through the new arrangements. Since the handful of professors in the Academy were not able to cater to the needs of the entire student population under the new accelerated Thaumaturgy specialisation, the Academy had brought in qualified thaumaturgists to serve as adjunct instructors to make up for the shortfall in staffing.
+
+However, even though everyone was going to be trained in thaumaturgy, there were two broad groups. The first group was the Primary Reserve, and would be made up of those who had finished the generalist three-year course would undergo more intensive training and, upon completion, be qualified as full thaumaturgists, considered on par with thaumaturgists that had completed the usual two-year specialisation.
+
+However, those still in the middle of the three-year generalist course would still have some classes to shore up their foundational knowledge in the other domains like glyphs, artefact creation and management, and healing. These would form the Secondary Reserve. Since those classes would eat into the amount of time that could be allotted to thaumaturgy training, they would only graduate with a provisional licence to serve as thaumaturgists during specified periods of crisis. Once the period of crisis was over, they would have to return to the Academy to go through a final assessment to be fully qualified as a thaumaturgist, or opt to go through the usual two-year specialisation course in another vocation.
+
+There was some murmuring from the seniors because it meant that first-year arcanists like those in Caden's cohort would be counted as 'fully qualified' on paper after just five terms of education in the Academy, in stark contrast with a properly-trained generalist who would have gone through at least twelve terms, and the specialists who would have completed twenty terms. But no one dared to interrupt Reeves. Privately, Caden felt that it signalled a certain level of desperation if the Empire was willing to push barely-qualified people into full wartime service. He wondered if the next cohort would be subjected to this as well, and be considered 'qualified' and join the Secondary Reserve after just four terms of training.
+
+There was another major change that Reeves outlined which directly affected how the Academy would run — the distinction between the cohorts in the Secondary Reserve would be abolished, and everyone would be reassigned into new groups with a roughly even distribution of people across the three cohorts within it. The rationale was that those who were more senior would be able to coach and assist their juniors, and the exposure to higher forms of arcanophanic practice would also help the juniors advance more quickly. Caden was torn between hoping to be in the same group as his once-friends and dreading that same possibility, but he put it out of his mind for now because Reeves hadn't distributed the schedules yet and there was no point fretting over it.
+
+Once the administrative issues were out of the way, Reeves covered the safety measures and expectations that would govern all the Academy students.
+
+"The duelling compound has served as the designated site for practice duels outside curriculum hours, but there is a need to find more venues to accommodate the increased number of people who will be studying thaumaturgy. As such, the duelling chambers now cannot be booked for private use until after 9pm. This includes weekends, because the duelling chambers have been pre-booked for specialised practice sessions with designated groups of students."
+
+There was a bit of noise over this, but everyone quietened as Reeves raised a hand. "To make up for this, many of the tutorial rooms have been refitted to serve as smaller duelling chambers that will be open for private booking whenever available. However, there are limits to the thaumaturgical practice that can be performed there."
+
+Reeves spent a lot of time going over a system of classification for what kind of practice was allowed inside the refitted tutorial rooms, and while some of it made sense to Caden, there were other terms of reference that he wasn't familiar with because it hadn't yet come up in his studies last term. The longer he spoke, the more agitated some of the seniors became, because it looked like the use of the refitted rooms was going to be quite restricted and they wouldn't be able to do a great deal inside them.
+
+"Some of this is likely still unclear, especially to those in the lower cohorts," Reeves said towards the end. "So for the first month, if you wish to make use of one of these refitted chambers, you are required to submit a plan of what you want to do and have it approved by one of the instructors before you will be given use of the room. Even then, you are to exercise caution and common sense — do not deviate from your approved plan, or attempt to push the boundaries of your skill while within these less-secure chambers. The principle to follow is that you are to use these refitted rooms only to practice principles which you are already familiar with. You must be responsible for your own safety, or we will be adding more names to the list of the fallen."
+
+The Demiurge's words were still clearly weighing on everyone's minds, and the elements of dissatisfaction dissipated with Reeves' reminder, though Caden thought there was still quite a bit of unhappiness.
+
+When it was finally time for the questions, there were a few that focused on the fact that there would be people 'graduating' after only five terms in the Academy. Some of that clearly stemmed from a sense of unfairness, but there were a few who came from the angle of being concerned for whether or not these minimally-trained arcanists would really be qualified for active service. Reeves answered them calmly, no matter how many times the same issue was brought up in slightly different terms, and the message was the same — the Empire had need, and they would have to make do with what they had, and while five terms did seem very short, the revised accelerated curriculum would make them passably competent. Some felt reassured or at least mollified, but Caden only felt more certain that the Empire had somehow been backed into a corner. His mind went back to the book he had read in the Vault, and he wondered at the other powers that were still out there in the world. Who, or what, had put the Empire in such a position? What did they want?
+
+In time, the flow of questions stopped, and Caden felt a new measure of respect for Reeves because he had handled them all, even the most heated or pointed, without losing his composure or being short with the questioners no matter how close they came to impertinence. And he had made a special effort to be as reassuring as he could. It was quite a different side to him that had not really surfaced in the last term, when he had put himself forward as an imposing figure of authority, wielding the threat of expulsion if they failed to resist his ensorcelment.
+
+The last item from the briefing was the distribution of the schedules. At a gesture from Reeves, the table on the stage was suddenly filled with neat stacks of folders, which immediately began to shoot forward, darting all across the hall and coming to land neatly in the laps of startled students. Caden sensed a shifting in oblivion as the folders materialised, and he realised that it was a familiar sensation. Every time the Demiurge's wysana had pulled clothes, or food, or drink out of thin air, it had done so with that same dipping into oblivion. But there was a crucial difference now — it didn't seem like Reeves had done the deed himself. His gesture had merely been a general activation, much like how a layperson might use an activation glyph to make use of a complex artefact. However, Caden hadn't been able to catch the exact source of the arcana that had made the folders appear.
+
+Caden was pulled away from his musing about whether or not Reeves was capable of operating in oblivion when he started looking over his schedule and the list of students he had been grouped with. He felt a terrible sinking sensation as he ran a finger down the names and spotted only two that he recognised — the twins. It looked like the rest were senior students, which struck him as a little oddly disproportionate. He and the twins were the only first-year arcanists in the group.
+
+"That concludes the briefing," Reeves said over the babble of noise as people compared schedules and called out to the people they recognised. "Have a good rest. The work starts tomorrow."
+
+People were already beginning to file out. Caden glanced towards the front where the six of his once-friends had huddled together and were poring over each others' schedules, and he had to fight the urge to join them.
+
+We're strangers now, he reminded himself. I should start thinking of them all that way. Even Devon.
+
+He swallowed a lump in his throat and joined the throng leaving the hall. Once outside, he drifted off to the side of the entrance and dithered there for a moment as he considered what to do now. Returning to the dorm meant seeing everyone else, and a possible confrontation. He knew he had to deal with that eventually, but he didn't quite feel up for it at the moment. Perhaps he ought to just wander the grounds, or go back to the Vault, and only return to the dorm once it was late and everyone was asleep? Then he'd probably only have to talk to Ambrose. He might even be able to avoid that if Ambrose was sleeping and he entered quietly enough, because Ambrose wasn't a light sleeper.
+
+"Hey," someone said, right behind him. "Caden, right?"
+
+Caden turned so quickly that he almost lost his balance and found himself looking up at a tall, broad-shouldered youth with short, dirty blonde hair and dark brown eyes. Even though it was a little chilly, he was wearing only a maroon T-shirt and dark jeans.
+
+"Yeah," he replied, feeling a little tension drain out of him. There was something in the guy's tone that had reminded him of Kevan, and it was a relief to see it wasn't him. "Can I help you?"
+
+"I'm Bertram," the senior answered, smiling warmly and extending a hand. "And actually, it's supposed to be the other way around."
+
+"Other way around?" Caden repeated, confused.
+
+Bertram nodded. "We're grouped together. I recognised your name in the list. You're the Top Scorer in your cohort. Well, this is my third year, and I've been Top Scorer in my cohort since I came in, so I thought I'd reach out to you since we'll be seeing more of each other. If you need anything, let me know."
+
+"Oh." Caden stood there awkwardly for a moment before his manners finally caught up with him. "Sorry, I mean, thanks for the offer, that's very kind of you."
+
+"No problem. Also, just a heads up if you don't already know, but watch out for the twins. Last term, they got in touch with some seniors and started on things ahead of your cohort, and they've gotten a bit of a reputation for being, uh, quite intense, to put it nicely," he said, glancing around.
+
+Caden's gave a wry grin. "Yeah, I know that firsthand."
+
+"You were in the same tutorial groups?" Bertram asked, grimacing in sympathy.
+
+"No, we were in the same—" Caden paused, then shook his head. "Uh, same cohort, so word got around."
+
+"Figures. Anyway, I'm off. See you in our first Thau session tomorrow. Sleep well, hydrate, and get a good breakfast in. I saw we got Kant, so he's gonna hit us hard out the gate if the past is any indicator." Bertram waved, took off at a trot, and joined a group of his friends as they headed towards the dormitories.
+
+Kant. Caden's stomach sank again as he realised he'd have another problem to grapple with, because according to the Demiurge, Kant was not on Caden's side, and he had retained his memories of the past term.
+
+Bertram had given good advice, but now Caden was definitely not in the mood to face the rest of his once-friends, especially the twins. He turned towards the library and started off.
+
+He was so distracted he didn't notice that his once-friends were just coming out of the entrance to the lecture hall, and twins were watching him go.

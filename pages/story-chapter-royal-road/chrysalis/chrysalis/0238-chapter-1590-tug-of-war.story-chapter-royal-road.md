@@ -1,0 +1,81 @@
+---
+id: 828c2325-7b22-5b6a-aab8-f14ccaf59913
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1590 - Tug of War"
+slug: 0238-chapter-1590-tug-of-war
+partOf: chrysalis
+position: 238
+ownLength: 1032
+unit: words
+ownProgress: 1032
+publishedAt: 2025-06-24
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2380731/chapter-1590-tug-of-war"
+royalRoadId: "2380731"
+markedReadAt: "2026-06-29T19:51:25.521Z"
+---
+
+More and more of the nets shoot down from above, each of them targeting Alis from a different angle. I can’t move, she isn’t able to defend herself in the slightest.
+
+Clever little slugs. You think if you stick a bunch of these to me, then I’ll just fall asleep and you can drag me away? Don’t be ridiculous.
+
+I lean back and swing my head in a wide arc, mandibles open wide. Snagging as many of the ropes between my jaws as I can, I loop them over and around my mandibles, hooking them tight. Then I pull.
+
+Come on, slugs. You think you’re stronger than a tier seven monster? Show me!
+
+As soon as all of my considerable bulk hauls back and tightens the lines, I can feel them give. They aren’t trying to pull me in yet, happy to give me all the slack I want until I fall asleep and can’t resist anymore. The ooze nets are still spreading over my carapace, seeking, trying to find an opening to spread their paralyzing toxins into my body.
+
+Good luck with that. Those openings exist, but they aren’t so easy to find, particularly not with the armour I’m wearing. I rear back and loop the ropes over my mandibles again and again. The moment I feel them go tight, I lean back, digging my claws into the ground, and pull.
+
+Some of the ropes go slack, while others tighten further. Oh ho! Some of you are willing to fight me on this, eh? Excellent.
+
+The Krath have tormented me and my family for so long, I’m delighted they’re willing to engage in some stress-relieving tug of war.
+
+“Someone come and get Alis!” I yell behind me.
+
+The healers are already scrambling towards me, along with Soldiers, generals, mages, scouts, priests, humans… everyone, basically.
+
+“Stay back!” I roar. “You’ll be targeted by the nets! Someone come and get Alis, that’s all I need!”
+
+The Templars are fighting against the invisible enemies within the Nave, protecting it from some sort of spiritual attack, which I suspect the Krath are not responsible for. If they could do that, they would have done it ages ago, surely. They may not be doing it themselves, but they know someone who can, or perhaps someone is putting their poisonous tentacles on the scale….
+
+I have to defend Alis, not just because I quite like her and don’t want her to get killed on my account, but because she is actively fighting off an attack on me right now! I need all the help I can get!
+
+In the end, a single healer rushes forward, dodging nets and sliding beneath protective shields woven by the mages. She manages to grab Alis and start dragging her back while I cover the two of them with my body. The ropes pull tight as I back up, but they don’t have nearly enough force to stop me.
+
+Slowly, inevitably, I walk back until Alis is safely in the hands of the reserves, then I move forward again. There is danger all across the platform, but so far, the Krath have only sent their nets my way. If they keep targeting me, that’s fine, I can deal with that. This makes it easier for me to keep everyone else safe.
+
+In the distance, the gravity bomb flickers out of existence, having torn the tunnel to shreds and absorbed both of the mucus Doom Spheres. If anything else is going to come our way, it’s going to be now. I keep my eyes open as my mind constructs whirl and churn, bending and twisting arcane energy into the complex shapes needed for my magic.
+
+These slugs still have no idea what I’m capable of.
+
+The ooze is still spreading out over my carapace, and they’ll reach my joints soon. If they find a way in, that’s going to be it. I need to work a little faster.
+
+Almost ready…
+
+As if sensing my pending counterattack, the slugs launch another of their own. From the darkness, jets of acid blast out. Not just one or two, but dozens, all converging on a single point.
+
+I curse, body moving before my brain even has time to process.
+
+I pull back onto my hind legs, exposing the underside of my carapace and letting the acid hit me in the chest, directing the spray down and away from the massed ranks behind me. Damn these Krath, they know exactly what they’re doing! That much acid would eat through any hastily erected shields in an instant. And they aren’t targeting me, they’re targeting anyone close enough for me to save.
+
+It’s certain now. They’re here for me.
+
+The acid burns, as acids tend to do. My carapace is unfathomably dense, formed of diamond compressed by levels of gravity I can’t even comprehend. It isn’t easy to burn through, so I don’t feel pain as the acid bubbles and hisses, turning the outer layer of my precious carapace to goop, but I don’t exactly enjoy the feeling either.
+
+Alright then, you lousy slugs. Let’s see if you like a taste of this!
+
+Minds straining to the edge of breaking, I unleash my spell and empower it with the remaining energy in the Altar.
+
+A gravity well, a field in which I can shift and mould the force of gravity to my own will. It’s large, covering a broad section of the wall from which the acid and nets have been coming.
+
+The spell snaps into place, a purple well manifesting, pulsing darkly.
+
+I could try and crush the Krath into the wall, it’s strong enough that it would work on some of them, I think. But they’ve seen that trick before. This time, something different.
+
+I manipulate the field to pull them away from the wall.
+
+The effect is immediate, and with wet sucking pops that I can hear from the platform, Krath are ripped from the wall. Yoinked into the air, they pass through the well and out the other side, flailing in the open space before they begin to arc down and fall toward the platform.
+
+I clack my mandibles in amusement.
+
+Come and say hello.

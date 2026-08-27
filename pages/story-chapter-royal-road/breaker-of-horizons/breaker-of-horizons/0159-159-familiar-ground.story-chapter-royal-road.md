@@ -1,0 +1,105 @@
+---
+id: 0334fecc-4e13-5766-8bd0-680df3a51ac5
+page-type-slug: story-chapter-royal-road
+title: "159. Familiar Ground"
+slug: 0159-159-familiar-ground
+partOf: breaker-of-horizons
+position: 159
+ownLength: 2205
+unit: words
+publishedAt: 2021-12-09
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/803268/159-familiar-ground"
+royalRoadId: "803268"
+---
+
+Waffles. The very mention of them brought Caden's mind back to the first time Devon had made them for the whole dorm. It was on the very same day when Caden had accidentally manifested a rudimentary wysana, his 'friend-in-the-arcana', and used it to ensorcel Ambrose and Jerric so strongly that the Demiurge had to step in and undo his work. Caden's actions had almost driven a rift between himself and the rest of the group, but Devon, the warm-skillful-bridge that he was, had made waffles that afternoon, and the Prophecy made use of that to smooth things over.
+
+"You, uh, don't have to if you don't want to," Devon said uncertainly.
+
+Caden's attention snapped back to the present. He realised he had been staring at the griddle with a pained expression.
+
+"Sorry, I was just... nevermind." He cleared his throat and tried to pretend there was nothing amiss. "I can make the batter from scratch if you've got the stuff we need."
+
+Devon's face was a little comical as two different emotions warred for prominence. He was clearly delighted at hearing that Caden could make waffles from scratch, but also worried or disturbed by that brief glimpse of Caden's internal anguish. He finally settled on a cautious sort of happiness.
+
+"That's great," he said, his smile a little gentler, less possessed of the almost-manic glee he had displayed earlier. "I've definitely got all the stuff we need, and more. Let me lay it out, then we can get started."
+
+Even though Caden could tell Devon was trying not to be too effervescent, it was clear he still couldn't help but move with a little spring in his step. This was classic Devon — cooking made him happy, and the prospect of having someone else in the dorm who apparently also knew how to cook was probably making his morning. Instead of unpacking the ingredients in the suitcase by hand, Devon was happily gesturing as he deftly sent streams of arcana around the various items. Packets of flour, salt, baking powder, and sugar flopped playfully onto the counter. A carton of a dozen eggs set itself down daintily, alongside sticks of butter.
+
+Devon turned his attention to the shelves and gestured broadly, almost like a conductor, and they all sprang open. He twirled his fingers playfully at the empty spaces, and measuring cups, mixing bowls, and other assorted kitchenware drifted lazily through the air to take their place in orderly stacks and rows.
+
+Finally, a stream of other ingredients wiggled towards the fridge and let themselves in. Caden saw various types of fruits, cartons of milk, yet more eggs, and even a whole chicken. When Devon was done, he turned back to Caden and flashed a wide grin, then seemed to realise that he had been rather showy. Caden couldn't help but let out a laugh, both at the expression on Devon's face, and also the way his barely suppressed glee had translated into the playful and impish movement of the kitchenware and ingredients. Devon's cheeks coloured a little as he gave a self-deprecating laugh. "Sorry, I'm not much good in Thaumaturgy, so this is about the only thing I can do to make myself feel like some epic arcanist."
+
+And that, too, was classic Devon — that apparent inability to recognise his own skill. Caden had to fight back the urge to remind him to stop doing that.
+
+"With that level of control, I'd be surprised if you're not one of the better thaumaturgists in your group," he said instead.
+
+"That's... uh, well, I guess." Devon ruffled his own hair absently, then gestured at the counter and tried to appear more authoritative. "Anyway, there's everything you need. Let's see what you can do!"
+
+Caden had never actually made the batter from scratch before, but he did remember Devon's tutorial, and it was a relatively straightforward affair. Plus, he had helped out enough in the past term to gain a decent level of proficiency when it came to food preparation. In fact, he was confident enough to decide that this was a good opportunity to take Devon's lead and have a bit of fun himself.
+
+Dipping into the arcanic sea was as easy as breathing to him now, and he was more than capable of managing multiple threads of arcanic manipulation after all the ruthless training at the hands of the Demiurge. It was wonderful to finally be able to apply all his power and skill to something other than destruction.
+
+He gave all the ingredients a once-over, running through the necessary proportions in his mind, and also scanned the open shelves to see where the various things he needed had been laid. Then, he coughed deliberately, as though to get someone's attention.
+
+Two mixing bowls snapped to attention, then marched through the air to land decisively in front of him. A moment later, a packet of flour zipped forward, opened itself along the top seam, and shook out enough of itself into one of the bowls before retreating. A clip darted forward and snapped itself smartly over the opening to seal the packet once more.
+
+At the same time, several eggs cracked themselves into the other bowl, and the shells sailed neatly into the bin. The sticks of butter segmented themselves, then formed a dancing circle over the bowl as they slowly melted, while the carton of milk floated above and poured out a little of its contents right through the centre. A small bottle of vanilla extract tipped out a teaspoonful of itself, and it hovered shyly at the edge of the bowl until all the butter was melted, before dipping itself into the mixture. When the mixture started swirling of its own accord, the teaspoon fought to extricate itself before it could be pulled under, and when it was clear, it flicked itself in irritation before retiring into the sink.
+
+Caden thought he heard a soft squeal. It was so faint he wasn't quite sure what it was. He glanced over at Devon, who was shaking his head in a mixture of delight and disbelief, his hands clasped over his mouth.
+
+"Oh Fates," Devon breathed. "This. Is. Epic."
+
+The swirling mixture finally spun itself clear of the bowl, rising into a delicate arc that sent it streaming into the other bowl with the flour. A fork launched itself into the fray and started furiously beating. Ordinarily, that kind of violent and unrestrained beating would have sent everything splashing all over the area, but any flying globules simply stopped before they got too far, then tossed themselves back into the bowl. When the fork was finally done, the batter was perfectly smooth, and not a drop had been spilt.
+
+"This isn't what I need," Caden said, nodding at the smooth griddle on the stove and grinning at Devon, whose mouth was agape.
+
+"It's double-sided," Devon replied, staring at Caden in awe as he flipped the metal plate without looking, revealing the waffle-patterend underside.
+
+"Oh, wait, I knew I forgot something. I didn't get it pre-heated!" Caden tutted in annoyance.
+
+That seemed to bring Devon back to his senses. He clicked his fingers and Caden felt a sudden warmth wafting from the metal plate even though he wasn't standing near the stove, and the stove wasn't even lit.
+
+"Thanks," Caden grinned. A ladle leapt into his outstretched hand and he dipped it into bowl.
+
+"WAIT!" Devon cried before Caden could put a dollop of batter into the waffle iron. He gestured hastily and a small chunk of butter hurled itself onto the iron, then spread itself evenly over the surface. "Okay, now you can pour. Tsk. Rookie mistake."
+
+They shared a laugh, and for a moment it was as if nothing had changed at all. How was it that Devon could still be so familiar, when he ought to regard Caden as a total stranger? But that, Caden supposed, was just how Devon was. He had been like that from the very first moment they had met.
+
+But this time, both he and Devon weren't being compelled by Prophecy to become friends with each other. A surge of warmth filled Caden's heart as he realised what that meant. This moment, right now, was something he could trust. Because he was {~?~}, and had started on the path to embracing this nebulous face aspect, the Fateweavers had no handle on him — they could not twist his threads directly, nor would they be able to latch Devon's threads on to his like some parasite. So much of their time spent together in the last term had been under the auspices of the Prophecy, with its influence pushing them together. But now, he and Devon were truly becoming friends of their own volition.
+
+Caden continued pumping out enough waffles for the both of them and they sat down to eat. Through it all, Devon kept the conversation light and breezy. Even so, Caden couldn't help but feel brief pangs as Devon unknowingly treaded over old ground, triggering his memories of the conversations they had had before. And where once Caden had felt a little guarded over the details of his personal life, he now readily supplied all the answers to almost all of Devon's questions, feeling a kind of eagerness for Devon to finally be 'caught up' with all the facts that he used to know. Where the questions ventured into deeper things, like his actual reason for wanting to study arcanophany, Caden elected to give surface responses that were not untrue, but which did not reveal the depth of his purpose.
+
+There was also the added challenge of having to be very careful about concealing, for now, how much he already knew about Devon. For every question Devon asked, Caden made sure to turn it back on him. Devon hesitated a little when the conversation turned to things involving his own family and his personal interests, but to Caden's surprise and delight, Devon seemed to reach some internal resolution and soon became almost as forthcoming as Caden, volunteering things that had once taken him a whole term to reveal. Their little bit of fun over preparing breakfast seemed to have drawn Devon out of his shell of secrecy, and he opened up to Caden in a way that he never had before.
+
+By the time they were done with breakfast, it seemed to Caden that they had managed to re-learn everything about each others' lives that did not involve the Prophecy.
+
+"Man, I can't wait for you to meet the others," Devon said, leaning back and giving a sigh of satisfaction as he set his plate aside. "I'm sure you'll get along great with them."
+
+"All of them?" Caden asked, unable to stop himself from raising an eyebrow as he thought of the twins.
+
+Devon pursed his lips and thought it over, then nodded. "Yeah, all of them," he said. "They've got a couple of rough edges, but I'd say the last term has sanded them down a bit. Plus, we, uh, spent quite a bit of time together over the break. I'd say you're meeting the best versions of everyone so far."
+
+Caden's heartbeat quickened. "You guys sound pretty close. You all spent the whole break together? Doing what?"
+
+The questions seemed to catch Devon by surprise. He sat up a little straighter. "Uh, well, they came over to my place. We, uh, talked about things. I mean, there's that whole conscription thing the Demiurge dumped on everyone at the end, right?"
+
+Caden nodded, not quite trusting himself to speak. He could tell Devon was ad-libbing.
+
+"So, uh... yeah, I thought maybe it was going to be the last time we saw each other. I mean, if anyone decided not to come back. So I asked everyone over so we could spend time together. And we ended up all deciding to come back after all, so that's a happy outcome!" Devon said, plastering a grin on his face.
+
+"That's nice," Caden said, forcing himself to return the smile. His face felt suddenly rubbery, like a mask. Was his smile too wide, too grotesque?
+
+"Looks like you decided to come back too," Devon continued, relaxing a little. Evidently, Caden's response was natural enough to convince him that the answer provided had been satisfactory. "What made you figure it was best to go with the conscription?"
+
+There were so many things Caden wanted to say. But once again, he schooled his expression and kept the turmoil from surfacing, and simply answered, "If I want to do what I want in the future, then I need to learn as much as I can now."
+
+"Deep," Devon said, looking impressed.
+
+"Yep." Caden got up and brought their plates to the sink just so he could avoid looking straight at Devon for the moment. "I'll wash up."
+
+"What d'you plan to do the rest of the day?" Devon asked.
+
+Meet everyone. Avoid everyone. I don't know anymore, Caden thought to himself. Instead, he said, "Uh, didn't have much planned."
+
+"Then let's go to the arena," Devon said, though he sounded a little more businesslike now. "I figure since we've got time, I can prep you before you meet the twins."

@@ -1,0 +1,297 @@
+---
+id: 3afe6ae7-311f-5193-8602-0e5f3d5d7cfe
+page-type-slug: story-chapter-royal-road
+title: "36 - Tearful Reunion"
+slug: 0036-36-tearful-reunion
+partOf: cat-girl-evolution
+position: 36
+ownLength: 2904
+unit: words
+publishedAt: 2025-10-15
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2677705/36-tearful-reunion"
+royalRoadId: "2677705"
+---
+
+Lauren wasn’t sure what to believe. Yona’s story was absolutely ridiculous… but Status Windows didn’t lie. She really had the Second Lifer Title, and her Named Title confirmed that she was, as she said, an Infiltrator and not a Disaster. Lauren had never heard of Infiltrator type Named monsters, but here Yona was, and if Infiltrators were actually a relatively common type… was it possible that they simply weren’t violent? Was that why the world was unaware of them?
+
+Lauren had heard stories about monsters masquerading as humans. Even among non-Named monsters, there were some that could do it. Doppelgangers, Skinwalkers, Changelings, and the like. There were a few Named monsters that had done it in the past too, but the researchers at the Mage Tower concluded that they were all Hermits. Were they wrong then? She had no idea what to think.
+
+Logically, the best option would be to send the communication signal right at that moment. It would be the safest. If Yona wasn’t telling the truth, and was actually just a bloodthirsty monster, getting word to the Guild could save countless lives. The only problem with that was that if Lauren did it, she would most certainly die. There was not an ounce of hesitation in Yona’s voice. She really would kill Lauren if she thought she was being betrayed. And the emergency communication device wasn’t designed to be subtle.
+
+Also, Lauren wanted to believe Yona. She couldn’t really say that she was good friends with the monster, but there was also no feeling of hate. Yona was spoiled and bratty and mildly annoying, but she was also strong, mostly reasonable, and ate Lauren’s food with such gusto it almost made Lauren want to put down her blades and live as a chef. It would also be a lie to say she wasn’t curious about why Yona had been reincarnated, and if she was telling the truth, what the gods were up to.
+
+She didn’t really want to be Yona’s underling… but as long as she was alive, she could always send the emergency communication later. There wasn’t much harm in becoming an “underling” if she didn’t become contractually obligated to do anything. Plus, if Yona really wasn’t dangerous, this would be best for everyone. If she sent the signal, not only would she die, but it was unlikely Yona wouldn’t be able to take at least a few more down with her before she was subdued. This was the path with the least bloodshed.
+
+And the one where I survive… she thought, somewhat guiltily.
+
+“Fine,” she said. “I’ll work under you. But if you try to kill anyone or do other monstrous things, I will not help you.”
+
+Minion acquired!
+
+“Great!” I say. “Well, first of all, now that you know I’m a monster, I’m going to turn back into a cat, and you’re going to carry me. You are not allowed to touch my paws. I can touch you with my paws, but you can’t touch my paws. Got it?”
+
+“I- I guess,” says Lauren, looking confused.
+
+“Great.”
+
+I turn into my cat form and jump into her arms. She catches me, cradling me in front of her.
+
+“Now, let’s go, Minion!”
+
+“Okay,” she says and starts walking.
+
+About a minute passes.
+
+“Wait, hold on, what the fuck?” I say. “Since when could I talk in this form?”
+
+“I- I don’t know?” says Lauren.
+
+“Since you evolved,” says Abby. “You just never tried until now.”
+
+“Woah! This makes things so much easier! Now I can just tell you what to do without changing back!”
+
+“...Great,” says Lauren.
+
+“Isn’t it?”
+
+We walk like this for about an hour, and I give orders to Lauren for a bit, then doze off. It’s nice to be carried by a human again. And Lauren is pretty comfy. This is much better than damaging my delicate legs with all that walking.
+
+“Your ‘delicate legs’ with 4000 Power and 4800 Resilience holding them up?”
+
+My beautiful, dainty, delicate legs.
+
+“By the way, you never answered my question.”
+
+What question?
+
+“Were you really a princess?”
+
+Of course I was a princess.
+
+“My database shows that the last princess of Russia died decades before you did.”
+
+I never said I was the princess of Russia.
+
+“But you said you were a princess, and that you were from Russia.”
+
+Yes.
+
+“Then how-?”
+
+Don’t worry about it.
+
+“Everything I learn about your past makes me both confused and concerned.”
+
+Good. Anyway…
+
+“Are we there yet?”
+
+“No.”
+
+“When will we be there?”
+
+“We have at least another hour.”
+
+“Can’t you go faster?”
+
+“Yes, but not for very long. I’m built for speed, not stamina.”
+
+“Will it get us there faster?”
+
+“...Yes.”
+
+“Then giddyup, Minion!”
+
+With a sigh, she speeds up, and in a few seconds, we’re moving faster than a car. Then about a minute later, she slows down, and a minute after that, she’s back to walking speed.
+
+“What the heck was that?”
+
+“I told you-” she says, panting. “I’m built- for speed- not stamina.”
+
+“That’s because you didn’t pace yourself! You totally could have gone further if you just started slower!”
+
+“Oops.”
+
+I look up to see her trying to resist smirking.
+
+“You did that on purpose!”
+
+“Did what?” she asks innocently.
+
+“Speed up again, but this time, just jog. No sprinting!”
+
+“I need a few minutes to catch my breath.”
+
+“Fine. But no more funny business!”
+
+A few minutes later, Lauren is jogging again, and I feel the wind on my fur as we move. Too much wind. Why am I bouncing so much?
+
+“Because the one who’s carrying you is running?”
+
+No, she’s definitely doing this on purpose. She doesn’t need to move her arms so much. She’s just trying to annoy me.
+
+“Or, it’s difficult to run with a cat in her arms.”
+
+Why are you taking her side?
+
+“I’m simply offering a reasonable alternative perspective.”
+
+Yeah, right.
+
+“Minion, stop bouncing me so much!”
+
+“What?” asks Lauren, not changing anything.
+
+“Stop bouncing me?”
+
+“You want me to stop running? Okay.”
+
+She slows back to a walk, and my ride becomes smooth again.
+
+“That’s not what I said!”
+
+“Oh, it wasn’t? My bad. What did you say?”
+
+“I said to stop bouncing me so much. You don’t need to move your arms so much!”
+
+“Oh, right. Well, it’s kind of hard not to bounce you while I’m running. If you want to not bounce, maybe we should just walk the rest of the way. It’s not that far. We’re less than an hour out now.”
+
+“No! I know you can run without bouncing me so much!”
+
+“Well, I’ll try my best.”
+
+She doesn’t try her best. Or at least, it doesn’t feel like it. I am bouncing less, but I am still bouncing and I don’t like it.
+
+“Fine, you win,” I say. “You can slow down.”
+
+“Okay,” says Lauren, slowing down.
+
+I’ll just take another nap. This sucks.
+
+“Perhaps-”
+
+Shut up. I’m going to sleep.
+
+I wake up after some time to Lauren shaking me.
+
+“What is it, Minion?”
+
+“We’re here. So no talking. Also, change your namecard to something innocuous like House Cat.”
+
+I quickly switch my namecard, then look down the road to see buildings in the distance. They look like they’re roughly the same style of buildings as were in the previous town, and they’re similar to the village. That is to say, they’re made of wood and pretty simple. It’s got some decently cozy vibes, or at least it would if there weren’t a bunch of tents set up all over the place too.
+
+“Refugees from the abandoned town,” says Lauren, apparently catching my gaze. “They’ll be gone soon, now that the Named monster problem is taken care of. I’m afraid that the fishing village is uninhabitable now though. The mana concentration is too high.”
+
+Why is that bad?
+
+“High mana concentration means high monster spawn rate, and for a village out in the middle of nowhere with no protection, that’s a death sentence.”
+
+Ah. Makes sense.
+
+“I’ll see if I can get a horse here. If I can, we’ll be able to make it to the next town before sunset. Otherwise, we’re staying here for the night. Unless you feel like sleeping outdoors.”
+
+I shake my head. I’ve had enough of the woods. I would rather have a bed. The scallops might have to wait a bit longer, but that is a sacrifice that I am willing to make.
+
+Lauren stops talking since we’re closer to town, and we walk through the miniature tent town on the way to the main buildings. At first, we just get a few curious looks, but soon a crowd forms around us with people all around asking about the status of the village and the Named monster. When Lauren announces that the Named monster has been taken care of, they give off a big cheer. How rude of her, taking credit for my achievements.
+
+The crowd gets bigger and bigger, making it harder and harder for us to pass. However, after a few minutes, the crowd suddenly parts ahead of us as another group arrives from the town. I’m enjoying some scritches from eagerly reaching hands at first, but when I look over to the newcomers, I freeze up.
+
+There were survivors?
+
+Before I have time to process, they’re on top of me, and I’m being taken out of Lauren’s arms and into a different, but familiar embrace. Looking up, I see the face, of Sally. She’s ugly crying, getting tears and snot in my fur. Gross. But she’s holding on too tightly for me to get out.
+
+“Her Power is too low-”
+
+Shut up. She’s holding on too tightly for me to get out. I try to wriggle away, but I just can’t escape. I have no choice but to stay here, despite my wishes.
+
+“Right…”
+
+After some more tears and more words, Lauren, Sally, and I get ushered further into town until we reach the town hall. There, we meet the mayor, who congratulates Lauren on her accomplishment. I glare at the adventurer, but fortunately for her, she’s smart enough not to take credit. Instead, she gives it to a mysterious beast person who was passing by. I can claim that achievement later if I want. That’s good. Maybe I can forgive her a bit. I still need to get back at her for her defiance on the trip over though.
+
+Sally stays hugging me tightly the whole time, and starts crying harder when Lauren explains that there were no other survivors. My fur is getting pretty wet. This is really annoying.
+
+“Then just-”
+
+Shut up.
+
+As the conversation turns to the future, Lauren mentions the possibility of acquiring a horse. The mayor shoots that idea down, saying that with all the chaos happening, all the horses in town are tired from being worked all day. We’ll have to wait until the morning until one of them is rested up again. That all sounds like a convenient excuse to me, but oh well. If I must, I will stay here and enjoy the warm embrace of a bed and a chef-cooked meal.
+
+We get a room at an inn near the town hall where Sally is staying too. It’s a pretty nice inn, and apparently, the stay for the survivors of the fishing village is paid for by the mayor himself. He seems like a pretty politically astute guy, because that is a really good PR move. He even had enough foresight to leave the best rooms unoccupied so that Lauren, and possibly the other adventurers coming to help, could stay there once they finished their job. If I ever need a politician in my pocket, I’ll need to keep this guy in mind. He’s good.
+
+Lauren gives me an odd look as we part, but unfortunately, Sally is just refusing to let go of me. I can’t get away. I guess Lauren will have to go see her room alone. How sad.
+
+While Lauren goes to put her stuff away Sally takes me to the lobby downstairs where the rest of the survivors are. I fall asleep in her arms at some point. I don’t know how long I’m out, but it’s comfy. Sally is very soft.
+
+After that, it’s dinnertime. Unfortunately for me, I am supposed to be an ordinary housecat, so they only give me an ordinary housecat sized serving of food. It’s not even fancy. It’s just raw fish. I mean, I like raw fish, but really?
+
+Later in the night, I have to sneakily teleport into Lauren’s room and eat some sharkman. When I finish, there is blood on the floor, and the whole room smells like fish. Oops.
+
+After dinner, we all relax some more, and somehow, Sally manages to sneak up on me and trap me again. That witch! She even kidnaps me back to her room for the night when it’s bedtime! The audacity!
+
+However, I can’t escape. I am forced to spend the night in her bed. It’s almost like old times. We’re just missing a person.
+
+Fortunately, all things come to an end, and my unfair torture ends in the morning. I manage to escape before she can stop me, Blinking up to Lauren’s room right as the adventurer is getting dressed.
+
+“Hey!” she exclaims.
+
+“Hi,” I say. “Ready to go?”
+
+“No?! Turn around!”
+
+“I’m just a cat. What’s so embarrassing?”
+
+“Turn around!”
+
+With a sigh, I do as she says. While I wait for her to finish, I notice that it still smells like fish in here. Excellent. Also, it’s really convenient that this room has noise cancelling enchantments around it. I wish hotels on Earth had things like that.
+
+“I’m done,” she says after a minute. “I just need to grab my things and we can leave. Are you ready? Say your goodbyes?”
+
+“Why would I say goodbyes?”
+
+“You’re really going to abandon her without saying anything?”
+
+“Yes.”
+
+“...You might not get a chance to talk to them for a while. If ever. I’m speaking from experience here, so-”
+
+“I’m fine. Let’s go. I want scallops!”
+
+When Sally awoke in the morning, her eyes were red and puffy. She had cried too much the previous day, both in joy and sorrow. She had already given both Yona and Henry up as lost, but even so, hearing directly from the adventurer that there were no survivors was heartbreaking. Almost as heartbreaking as Yona’s survival was miraculous.
+
+Sally had grown attached to the funky little cat. Yona had shown up out of nowhere one day, begging for food on their porch. She and Henry asked around the town if anyone was missing a cat, and even sent word to the nearest villages to see if she had wandered in from further away. The responses from them all had been the same. They could not recall ever seeing a cat that fit Yona’s description in recent memory.
+
+They thought she might have been feral, but she took to being a housecat so quickly, it was impossible to believe she hadn’t lived a comfortable life before. There were a few subtle rumors around the village about Yona’s mysterious appearance, but she quickly wormed her way into the village’s hearts with her antics, and became a local celebrity.
+
+When the ichthyoids attacked, the rumors returned in full force, no doubt fueled by Old Man Jenson’s ranting. Sally tried to defend her pet, and while no one was willing to push her very far, it was clear that they were still suspicious. Now, with Yona returning as the sole survivor, Sally knew that they would be even more suspicious of the cat, but she didn’t care. Yona had returned, and that was all that mattered.
+
+Or so she thought. However, when she woke up the morning after Yona’s return, she realized that wasn’t how it would be. When she sat up in her bed, she found Yona sitting up straight on the end of the bed with a staff in front of her that looked like it was made of coral. She looked Sally in the eyes with the same oddly intelligent eyes she had always had.
+
+“Y-Yona?” said Sally. “Did you bring that in? Where did you get it? You can’t steal-”
+
+“I killed them,” said Yona.
+
+“Wh-what?” said Sally, dumbfounded.
+
+“I killed them all. The fishmen, the eelmen, the sharkmen… They’re all dead. All the ones that came on land at least. And I killed the big one that commanded them all. I cut him in half and ate him.”
+
+“Y-Yona, what– Am I dreaming?”
+
+“This is for you.”
+
+A spectral hand appeared and grabbed the staff, moving it closer to Sally.
+
+“Thank you… for everything.”
+
+“Yona?”
+
+“And I’m sorry.”
+
+“Wait, what-”
+
+Before Sally could finish speaking, Yona vanished, leaving behind only a few stray strands of fur.
+
+“Yona!” Sally called, but there was no answer.
+
+She pinched herself, and it hurt, and she didn’t wake up. The staff was still there, and Yona was still gone. She reached out hesitantly, then grabbed the staff. It felt cold and hard in her hands. She had no idea what it was, or why Yona had given it to her, but she was beginning to understand one thing. Yona was gone. She wouldn’t be coming back. This was a parting gift.
+
+Sally was once again alone.

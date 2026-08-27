@@ -1,0 +1,311 @@
+---
+id: 6f018360-6644-559e-9b7f-f7ef7d91ce27
+page-type-slug: story-chapter-royal-road
+title: "100 - New Class"
+slug: 0102-100-new-class
+partOf: cat-girl-evolution
+position: 102
+ownLength: 2653
+unit: words
+publishedAt: 2026-03-19
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3168353/100-new-class"
+royalRoadId: "3168353"
+---
+
+[ Class Upgrade options: ]
+
+[ Beginner Vivitect ]
+
+[ Wannabe Space Vivitect ]
+
+[ Wannabe Fire Vivitect ]
+
+[ Beginner Mana Architect ]
+
+[ Wannabe Mana Golemancer ]
+
+[ Wannabe Flesh Golemancer ]
+
+[ Wannabe Necromancer ]
+
+[ Wannabe Shapeshifter ]
+
+[ Fleshy Horror ]
+
+[ Gluttonous Mana Vivitect ]
+
+[ Wannabe Gluttonous Vivitect ]
+
+Abby, which one is best?
+
+…
+
+Hey, don’t you sigh at me!
+
+“As I’ve said before—”
+
+Yeah, yeah, I know, but which one is best?
+
+“...In terms of stats, Wannabe Gluttonous Vivitect is the best, but your Class options are all so excellent that there’s only a 30 point difference between the highest and lowest Class.”
+
+Twenty is a lot.
+
+“Not relative to the more than 800 per level that each of them offer.”
+
+Oh, I see. So is Wannabe Gluttonous Vivitect the best, then?
+
+“Technically.”
+
+Do you think I should take it?
+
+“I think it would suit you.”
+
+You don’t sound very excited about it.
+
+“Well, I would prefer if you looked through all your options yourself instead of making a decision based on something like stat point totals.”
+
+But there are so many options. That sounds like it would take forever.
+
+“Okay, then eliminate the elemental options. They are actually terrible Classes, since you lack an elemental physique. And—”
+
+Elemental physique?
+
+“A Trait that lets you channel elemental mana internally. It doesn’t matter, since you don’t have it. Beginner Mana Architect is probably not what you want. It’s a step away from your current path, focusing on building larger mana structures. You probably earned it with your various construct vehicles and things like that. It is a very powerful Class, though, and offers a lot of utility.”
+
+Nah, I wanna have a better use for all my extra meat still.
+
+“You could just feed it to the Dungeon.”
+
+I could, but you’ve already put the idea in my head of controlling a bunch of fleshy tentacles, and I’ve always wanted to become an eldritch horror.
+
+“Have you really?”
+
+No, but that’s because I didn’t know it was an option. Plus, I’m already kind of going down the creepy route with being able to manipulate my own flesh and eat it and stuff, and I think it would be funny to keep going and become absolutely terrifying.
+
+“...Fair enough. In that case, you won’t want Wannabe Mana Golemancer either. It focuses on creating autonomous mana constructs, so you could conjure full mana cats or people, and give them basic instructions. A Wannabe, the instructions would be very limited, and so will the constructs, but it has a lot of evolution paths.”
+
+Interesting, but it sounds like Wannabe Flesh Golemancer would be better for that.
+
+“Indeed it would. It would be the same, but you would make the golems out of flesh.”
+
+Hmmmm… That’s actually a little tempting.
+
+“Then we’ll leave it on the short list. Moving on, I don’t expect you want Necromancer either.”
+
+Definitely not. Why am I even being offered it?
+
+“Well, you do have a large collection of dead bodies, and an intent to use mana to animate them.”
+
+Yeah, but that’s different.
+
+“The System is just offering you an alternate way to do it. Necromancer is quite similar to Flesh Golemancer, actually, and in some ways, better. It offers less freedom for the physical forms of your summons, but more variety in what they can do, and it also unlocks soul magic. If you trap the soul along with the body, your creations will be much more independent than any golem could be, and they would even be able to level up on their own.”
+
+Hmmm… Still, nah. Sounds too edgy.
+
+“You just said you wanted to be a terrifying eldritch horror. Is that not edgier? Or does my database have the wrong definition for ‘edgy’?”
+
+It’s only edgy when someone else does it. When I do it, it’s cool, not edgy.
+
+“That… Okay, whatever. I would have recommended eliminating it regardless. Seeing the Guild’s response to the existence of another Necromancer, there’s no point in adding unnecessary risk. I doubt that Arianne would continue to be so amenable to your situation if you start raising the dead.”
+
+True.
+
+“The next to eliminate would be Fleshy Horror.”
+
+Why? Doesn’t that kinda sound like what I wanted to do?
+
+“It would take you away from manipulating other flesh, focusing on manipulating your own to a greater degree. You wouldn’t be able to use the extra meat in your Stomach. Although that would free up more for the Dungeon while still accomplishing your goal of becoming an eldritch horror.”
+
+Oh, that’s a tough one. I’d still be limited to my own body mass though, right?
+
+“Yes, but with Adipose Reserves, that’s not as much of a limitation anymore.”
+
+Hmmm…
+
+“And future evolutions would allow you to compress your flesh so that you could look ordinary while carrying much more weight than someone your size should.”
+
+Well, this is awfully tempting.
+
+“It is also one of very few Classes that also provides a Trait, which usually only come from Race Evolutions, and are generally stronger than Skills.”
+
+Wait, why did you want to eliminate this one again? This sounds like it’s perfect!
+
+“Because that Trait is Horror, which cannot be removed, and would make you slowly lose your sanity and become a mindless monster.”
+
+Oh, you bitch. You were leading me on!
+
+“Teehee.”
+
+Don’t you “teehee” me!
+
+“The safe version of Fleshy Horror would be Wannabe Shapeshifter, but you sacrifice a lot of power for that one, and its Paths mostly lead to transforming into other creatures or people, which you can already do with Perfect Disguise, so I’d recommend eliminating it too. Unless you wanted to play the long game. By Tier 6 or 7, you should be able to perfectly replicate Fleshy Horror’s abilities without any of the drawbacks.”
+
+That’s really far away though.
+
+“Quite. And since you can already replicate most of its utility, I personally don’t see a point.”
+
+Okay, so that’s not an option either then. What else.
+
+“The last one to eliminate would then be Gluttonous Mana Vivitect. It would once again be a departure from your current path and goals, focusing more on mana constructs than fleshy ones.”
+
+Yup. What about the lame, boring, regular Beginner Vivitect?
+
+“It has the lowest stat totals of them all, but I think you should leave it on the short list, both as a baseline, and because it provides more flexibility than Wannabe Gluttonous Vivitect, despite both being generally the same Path.”
+
+Alright, so that leaves me with three options? Much more manageable. Show’ em!
+
+“You still need to use their actual names to bring up their descriptions.”
+
+Ughhh. Fine. Beginner Vivitect.
+
+[ Beginner Vivitect ]
+
+[ After practicing on your own flesh, you have finally reached the level where you will be able to work with flesh that is not yours. True vivitecture is well within your grasp, but you are still a novice, working to increase your skills and discover the wonders of your craft. ]
+
+[ Stats per level: +90 Power, +180 Finesse, +90 Resilience, +150 Memory, +180 Willpower, +120 Sensitivity ]
+
+[ Skills: Flesh Stitching ]
+
+[ Other: Morphs Internal Mana Manipulation - Fleshshaper, External Mana Manipulation - Anatomical Constructs of the Glutton, into Fleshshaped Constructs ]
+
+Abby what’s—
+
+“A Skill Morph?”
+
+Yeah.
+
+“A Skill Morph is different from a Skill Merge or Skill Evolution because it changes the Skill on a fundamental level, rather than just adding to it. This means that it will lose some capabilities. Notice that Fleshshaped Constructs does not have any Mana Manipulation anywhere. That means that it will only be usable for making Flesh constructs. It will not have the ordinary augmentation abilities of Internal Mana Manipulation or the external mana control of External Mana Manipulation.”
+
+Wait, that’s terrible! I’m gonna lose like half my abilities! And I just trained them so hard!
+
+“It’s actually not the worst.”
+
+How?
+
+“Because you can re-learn the Skills. Besides, you don’t suddenly lose the ability to manipulate your mana internally and externally when you lose the Skills. The Skills are just guides, not abilities themself. They guide your mana, but you can manually move your mana the same way. Think of it like when you learned those Skills from the twins. You didn’t have Mana Shield or Mana Burst, but you could still replicate them passably, which allowed you to unlock the Skill. You can still manipulate mana, even without the Skills. It’s just more tedious.”
+
+Are you sure?
+
+“Absolutely. And since you have your Party members—”
+
+Minions.
+
+“And since you have your minions with you, you can just re-learn the Skills from them. It shouldn’t take more than a few minutes, since you are already so accustomed to them. And then, in the future, you can even specialize your mana manipulation Skills in new ways. Perhaps you can learn Spatial Mana Manipulation, allowing you more freedom with space mana, or Explosive Mana Manipulation, making your mana more volatile.”
+
+Hmmm… That actually sounds really cool. And then can I just keep doing that in the future? Build up Skills, then morph them into something more specialized, then re-learn the base Skill and build it up a different way?
+
+“It’s possible, but Skill Morphs can only happen with Class or Profession Upgrades, and rarely with Species Evolutions. Though with Named monsters, it’s more frequent.”
+
+Interesting… Okay, that’s pretty nifty. I’ll have to think more about that.
+
+“Additionally, since you’ve already had both Skills previously, it shouldn’t take more than a few minutes to raise them right back up to Peak Proficiency and evolve them. You could re-learn and re-evolve them in less than an hour.”
+
+Very nice. Okay, I changed my mind, that’s not terrible.
+
+“Yes. And it would allow you an immediate path to doing what you want with your fleshy constructs. That said, it has the downside of switching from a more physical Class to something closer to a pure mage, meaning that not only will your Power continue to fall behind, but your Resilience will too. It also might not be the best idea at this exact moment, because it would drastically change your abilities right before a difficult fight.”
+
+That’s true, I guess. Alright then, what’s up next. Wannabe Flesh Golemancer!
+
+[ Wannabe Flesh Golemancer ]
+
+[ After practicing on your own flesh, you have realized that perhaps Vivitecture isn’t for you. The need to directly control your flesh is just too much burden, and you’d rather leave your mind free for other things. Luckily, you’ve stumbled across golemancy, and by combining it with your passion for the macabre, you’ve set foot upon a new path ]
+
+[ Stats per level: +60 Power, +150 Finesse, +60 Resilience, +220 Memory, +210 Willpower, +120 Sensitivity ]
+
+[ Skills: Flesh Stitching, Create Golem Core ]
+
+[ Other: Morphs Internal Mana Manipulation - Fleshshaper, External Mana Manipulation - Anatomical Constructs of the Glutton, into Fleshshaped Constructs ]
+
+Huh. So this is basically the same, but with that Golem Core Skill.
+
+“Yes, and a higher emphasis on the mental stats, and even less on the physical. The path for this would have you as more of a backline fighter controlling minions.”
+
+That doesn’t sound too bad.
+
+“Golemancy is also a rather intellectual pursuit. Golemancer as a Class is sometimes considered a pseudo-Profession, since much of the work for it happens outside of combat as you build golems to aid you in battle. And even with all your Gluttony cheats, you would never be able to use the Class’s full potential without putting in the work outside of combat.”
+
+Oh, good point. Yeah, that one’s out then. That leaves only one other option with Wannabe Gluttonous Vivitect.
+
+[ Wannabe Gluttonous Vivitect ]
+
+[ Your Gluttony has distracted you from your Path as a Vivitect, but it has also opened your eyes to further possibilities. By using your Gluttony as the cornerstone of your Path, you will be able to combine work and play, eating to increase your mastery of your craft. But you still have a long way to go before you can accomplish true Vivitecture ]
+
+[ Stats per level: +90 Power, +180 Finesse, +210 Resilience, +120 Memory, +120 Willpower, +120 Sensitivity ]
+
+[ Skills: - ]
+
+[ Other: Evolves Internal Mana Manipulation - Fleshshaper into Internal Mana Manipulation - Fleshshaper of the Glutton, Evolves Anatomical Analysis into Anatomical Analysis of the Glutton ]
+
+This seems kinda lame.
+
+“Well, it is functionally the exact same Class as your current one, just with Gluttony attached. Your next Class Evolution would likely take it to Beginner Gluttonous Vivitect, which you could also achieve through the ordinary Beginner Vivitect Class. This one has higher stats, but less utility, so since these are the only two options left, that’s your choice. Do you want the extra 1200 stats from Wannabe Gluttonous Vivitect, or the utility of Beginner Vivitect during the time between now and your next Class Upgrade?”
+
+Is there no way to get those stats back?
+
+“No, but by the time you reach Tier 4, a missing 1200 stats will be nothing. Even now, 1200 isn’t much for you.”
+
+But the numbers will still be smaller.
+
+“They will be, yes.”
+
+I don’t want the numbers to be smaller.
+
+“Then choose Wannabe Gluttonous Vivitect.”
+
+But I want to be able to do eldritch horror stuff.
+
+“Then choose Beginner Vivitect.”
+
+But then I lose the stats.
+
+“You can’t have both, so you need to pick one. I personally recommend that you choose Beginner Vivitect—”
+
+Okay, I choose Beginner Vivitect!
+
+[ You have selected the Beginner Vivitect class! Skills and Stat points have been assigned. Please refer to your Status Window for changes ]
+
+“–if you’re an idiot.”
+
+Ha! Not falling for that one again. Nice try!
+
+“The real reason is that the additional utility is worth far more than a few stat points that won’t even be worth much later. On top of that, by switching around your Skills, you’ll be able to build a much more versatile skillset, which may positively influence future Class Upgrades or Race Evolutions, or even Profession Upgrades. And the downsides of a switched skillset can be mitigated relatively easily, since most of your combat ability is tied up in Blink and Spatial Slice, and it shouldn’t be hard to make new fleshy head constructs for the other things.”
+
+Makes sense. Alright, now let’s see what I’ve got. Royal Status Window!
+
+[ Name: Yona ]
+
+[ Age: 0 ]
+
+[ Species: Princess Yona, the Blinking Gastronomic Hunter Thief Chef. Tier: 3. Level: 2. ]
+
+[ Class: Beginner Vivitect. Tier: 3. Level: 1. ]
+
+[ Profession: Automated Cook. Tier: 2. Level: 2. ]
+
+[ Epithet: Winter (unavailable) ]
+
+[ Titles: Second Lifer, System Breaker II, Named, Taker of Names III, Dungeon Pioneer I, Dungeon Destroyer I, Princess, Renowned (unavailable), Dungeon Core ]
+
+[ Traits: Cat-like Reflexes, Gluttony, Extreme Spatial Affinity, Nimble, Fire Affinity, Custom Namecard, Royal Dignity, Royal Bearing, Traceless, Stealthy, Culinary Instincts, Gastronome ]
+
+[ Stats ]
+
+[ Power: 10959 (+7641) ]
+
+[ Finesse: 20734 (+14454) ]
+
+[ Resilience: 15440 (+10764) ]
+
+[ Memory: 15770 (+10994) ]
+
+[ Willpower: 15902 (+11086) ]
+
+[ Sensitivity: 20252 (+14118) ]
+
+[ Skills: Charged Spatial Slice, Dungeon of the Glutton, Devour of the Glutton, Multisnatch of the Glutton, Greater Blink, Fireball, Fleshshaped Constructs of the Glutton, Meditate of the Glutton, Perfect Disguise, Anatomical Analysis, Timer, Compositional Culinary Analysis, Compressed Autonomous Mana Shield, Compressed Spiral Mana Burst, Mana Infusion, Auto-Cook, Appoint, Flesh Stitching ]
+
+[ Soul Weapons: Gluttonous Greatsword, Terror Blade, Winter's Pistol (unavailable) ]
+
+[ Infiltrator Quest: Branch 1: Spend 30 days each with one member of an Enlightened Race using two different disguises without getting caught. Branch 2: Spend 60 days with Enlightened Races without being discovered. Reward: Racial Experience ]
+
+Beautiful. Alright, now let’s go hunt a Named monster!

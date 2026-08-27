@@ -1,0 +1,93 @@
+---
+id: 7d367ef7-4d4c-50f5-b9fc-8e62e415a660
+page-type-slug: story-chapter-royal-road
+title: "173. Unexpected Exercise"
+slug: 0173-173-unexpected-exercise
+partOf: breaker-of-horizons
+position: 173
+ownLength: 2193
+unit: words
+publishedAt: 2022-01-27
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/832897/173-unexpected-exercise"
+royalRoadId: "832897"
+---
+
+Leyla's notes were begging to be read, but Caden couldn't spare any time to really delve into them if he wanted to get to the first class on time. He briefly considered trying to read while walking, but decided that he wasn't really in the proper frame of mind to get much out of that kind of hurried skimming anyway — his treacherous brain was repeatedly replaying the scene where Leyla had slid the notes across the table to him and he had simply stared dumbly at her instead of thanking her. A little red-faced, he carefully kept the notes in his bag and hurried off to the duelling compound for his first Thaumaturgy class.
+
+He made good time and managed to get there with a few minutes to spare. At a glance, it seemed like almost everyone had arrived early, and he was one of the last. Their class was in one of the medium-sized chambers that was still about half the area of the biggest one, so even though the class had only thirty people in total, there was more than enough space for everyone to spread out.
+
+It looked like people had already congregated into groups with those they were more familiar with. The twins were at the far end, furthest from the entrance and on the highest of the three tiers, together with two second-years and two third-years. Caden also spotted Bertram, who was surprisingly sitting alone a short distance from the twins' group, his nose buried in a book. This struck him as rather odd, because Caden was quite sure that he recognised some of the people here from the group Bertram had been walking with after the briefing the previous day.
+
+Marcus Kant was nowhere to be seen. Caden scanned the chamber nervously for him, but it looked like the thaumaturgist hadn't arrived yet. He didn't want to linger by the door if Kant was about to come in, so he went over to Bertram.
+
+"Hi Bertram," Caden said as he stepped up, glancing at the title in his hands — Thaumaturgical Glyph Arrays by Alyssa Nivordin. "Reading ahead?"
+
+Bertram looked up and grinned, patting the space next to him in invitation and shifting his things aside. "Hey Caden. Nope. Revising."
+
+Caden sat down and surveyed the class again and checked his watch. It was about three minutes to the start of the class, and it looked like everyone had arrived. They were just waiting on Kant now.
+
+"Know any of this stuff?" Bertram asked, tilting the book so Caden could see, and pointing at a diagram there.
+
+"No, I haven't studied any of this ye—" Caden began, before sitting up a little straighter. "Hey, wait, does this have something to do with making gestalt formations stronger?"
+
+"It does," Bertram said, nodding in approval before snapping the book shut. "Let me give you the two-minute version, 'cause I think we're gonna need it today."
+
+Bertram slid into the arcanic sea so seamlessly that Caden didn't even realise it until he started building a sequence. He had to stop himself from snapping the foundational glyphs out of reflex. Caden recognised the sequence — it was the same one he had started reading about just the night before in the Vault, and it looked like Bertram was making use of the cleaner, more modern version. However, there were alterations to it.
+
+"At the lowest level, you form a gestalt when you take a physical position relative to the other members," Bertram explained, drawing a diagram in mid-air with some arcana — a standard wedge formation with ten spots. "At higher levels, the gestalt can be formed conceptually if everyone shares the same mental framework when they link up. That's where second-year starts off. With me so far?"
+
+Caden nodded. "My group got Kant last term. He already got us working in gestalts outside of physical formations towards the end of the term."
+
+"Ah!" Bertram's grin widened. He overlaid the sequence from the book over the diagram of the gestalt formation. "Alright, then this should just make sense. This type of sequence is called a glyph array — although it can be scribed, it's designed primarily to be applied to mental frameworks of gestalts. In general, they direct and amplify the flow of arcana between gestalt members, making gestalts work more efficiently."
+
+"Do all the members need to know the array to—"
+
+"No, they don't," Bertram said, anticipating Caden's question. He seemed to be hurrying for some reason. "But to milk it for all its worth, they do need to know some set functions."
+
+Bertram highlighted several glyph clauses in the array and pointed at each in turn while he spoke. "This one takes arcana and stores it in something called a battery, for gestalt members to use at will. This one calls a steady feed from the battery, and you can adjust the flow. This one takes a fixed input and amplifies it by a specified factor using what's in the battery. Got it?"
+
+"Got it," Caden said, a little taken aback at his suddenly abrupt manner. "What—"
+
+All at once, the chamber went completely dark as every single globelight inside died, and the doors slammed shut. A few Minor Control Spheres came up as various people tried to get the globelights back on, but it looked like the chamber's controls weren't responding to anyone. There were a few surprised yelps and curses as some tried to conjure their own globelights, only for them to spark and die the instant they flashed into being.
+
+Caden was less perturbed because he had already half-dipped into oblivion and wasn't relying on physical sight to keep track of things. There were thirty auric-ambient-flares in the vicinity, including his own. Kant was still not in the chamber. But there was movement in the arcana — the chamber was spawning a combat space. The familiar, smooth, grey shapes were rising out of the floor and forming walls and structures approximating an urban environment, either appearing around people where they stood, or else lifting them into the air.
+
+Even the tiers meant for spectators were brought into the combat environment. Caden found his excellent view of the whole space being obscured as the walls and floor shifted around him, putting him in a little box, like the dead-end of a maze. Bertram was trapped in here as well, and the space suddenly felt cramped, inviting claustrophobia. There was only one exit available to them, unless they wanted to try climbing over the wall to reach the slender gap near the ceiling, which was barely wide enough for a person to squeeze through.
+
+The arcanic sea was alive with activity. A few personal barriers sprang up as people readied themselves for whatever this exercise was supposed to be, but a moment later everyone was enveloped in the arena's standard body shield with integrity markers. Caden heard someone yell, "Damnit, what is this shit? Why'd I get Kant?"
+
+"You'll be here for ten minutes," Kant's voice rang out, emanating from the walls, and Caden traced it to its source. He was just outside the door, making use of the chamber's controls. "Survive."
+
+Poised as he was in oblivion, Caden was ready to snap any hostile sequences out of existence the moment they spawned. But who were they supposed to defend themselves against? There were still only the thirty of them in the chamber, and no one was even taking a hostile stance. There had been no instructions for them to fight each other. Was Kant expecting them to just start spontaneously fighting if no stimuli presented itself? There was a little sparking of arcana as people finally managed to call up their personal globelights, but not much else happening.
+
+Caden and Bertram brought up small globelights with a more diffuse form so they wouldn't be blinding in such close quarters. Then there was more movement in the arcana, almost as if it was in response to the spawning of lights. It was very nearby — unfamiliar patterns with strange glypic origins that Caden didn't recognise. These were not ordinary combat sequences. They were exotic things, heavy and alien. It was impossible to identify what were most likely core glyphs or clauses. He dithered, confused and alarmed at how advanced these things were. They were far beyond what even the Demiurge had been throwing at him in their training sessions. What was Kant thinking?!
+
+But after a moment of blind panic, he had an epiphany. These were parts of the sequences etched into the black marble floor in golden glyphs — the glyphs that formed the foundations of the chamber itself. Kant was just using the chamber's functions to do something. And now that he was thinking a little more clearly, he realised that he was probably picking up how the chamber was conjuring things, even if he didn't exactly understand how it worked.
+
+"Move!" Bertram yelled, shoving Caden aside. A second later, something emerged from the outermost wall. A humanoid shape composed of the smooth, grey material of the arena environment pulled itself free and took a savage swipe at Caden that almost caught him in the face.
+
+He recovered quickly from the surprise and sent an amped-up version of the beam sequence towards its head. However, Caden was alarmed to see the beam didn't cut right through, although the impact did fling the construct against the wall it emerged from. Caden kept the beam steady, but the construct had gotten its feet under itself and was bracing against the beam. It was even getting into position to make a lunge.
+
+Bertram sent a flurry of heavy arcanic bolts smashing into it, flattening it comically against the wall for a moment, but it seemed only mildly inconvenienced, not damaged. As soon as it regained its balance, it came for them again.
+
+Caden sent arcana flooding through his limbs, bolstered the personal barrier he had overlaid on top of the arena body shields, and flung himself at the construct. "Get a gestalt with an array up!" he called to Bertram, struggling to hold his ground.
+
+Bertram was already halfway done before Caden had finished speaking. He immediately pulled Caden into a gestalt connection, though the array he had placed over it was different from the one he had just shown Caden since it was just for two people. But Caden recognised the three functions Bertram had explained earlier. The battery was rapidly filling up as Bertram supplied power.
+
+After about ten seconds, Caden judged that there was just enough. He wove a single heavy arcanic bolt that was as dense as all of Bertram's earlier barrage combined, then drained the battery to amplify it by a factor of two. The resulting bolt was so powerful that it made the hairs on his skin tingle when it manifested, and when it smashed against the construct, it sent it flying against the wall where it broke into several pieces, leaving a spiderweb of faint cracks in the grey material.
+
+"Nice one!" Bertram said appreciatively, giving Caden a jovial slap on his back. "Geez, not sure if you needed me though. How much arcana were you bolstering with to go toe-to-toe with it like that?"
+
+In lieu of a response, Caden simply sent a little reverberation through the gestalt to direct Bertram's attention to the battery. It was already at full capacity, having received an infusion from Caden. There was enough there to fuel three of those construct-shattering arcanic bolts without even drawing on the members of the gestalt.
+
+Bertram stared at him. "How?"
+
+"It's hard to explain now," Caden said, shuffling his feet uneasily. He had already stopped himself from using military-grade sequences even though he was quite sure they'd be able to completely obliterate the constructs, but seeing Bertram's reaction, he decided that he had better rein himself in a great deal more if he wanted to avoid drawing unwanted attention to the true extent of his present capabilities.
+
+"Right," Bertram said, shaking his head slightly. "Well, normally, I'd say the wisest thing to do would be to find a good spot and hunker down for ten minutes. But they can come out of the walls, and this is Kant we're dealing with, so I expect he'll have something up his sleeves to flush people out of entrenched positions."
+
+"So we keep moving," Caden suggested. "It's probably for the best anyway. We don't want to be locked down in one place if it isn't defensible."
+
+The sounds of battle were coming dimly through the walls, and Caden could sense the ebb and flow of arcana from sequences being fired all around. But some auric-ambient-flares were docile and weren't channeling any arcana at all. Caden surmised that those people had been defeated and were just waiting for the exercise to end.
+
+"Okay, let's go!" Bertram said cheerfully, taking the lead. Caden opened his mouth to object as Bertram went in the general direction of the twins' auric-ambient-flares, but he thought better of it and decided to follow along. It'd be interesting to see how the twins were in combat now.

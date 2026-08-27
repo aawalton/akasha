@@ -1,0 +1,178 @@
+---
+id: d9e032e3-9047-5ce5-b9f2-90ec804136eb
+page-type-slug: story-chapter-royal-road
+title: "180 - Elise Finds a Spider"
+partOf: bunny-girl-evolution
+position: 48
+ownLength: 4401
+unit: words
+publishedAt: 2026-03-20
+link: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3174317/180-elise-finds-a-spider"
+royalRoadId: "3174317"
+---
+
+Below Jelor University, there were four main “biomes” of the Dungeon: rats, bats, crawlers, and spiders. While no one knew exactly how the System and its spawn zones worked, it was a well known phenomenon that powerful monsters in a region would influence the spawn types of other monsters nearby. This was especially evident in the Dungeon where ancient monsters made their homes far below, spreading their influence upward.
+
+The rats were the weakest, but most numerous. They did not fight each other, instead traveling in hordes to overwhelm their targets. They occasionally posed dire threats to the unprepared, but were generally the easiest to deal with due to their individual weakness and overall predictability. For those wishing to power level combat Classes, they were the easiest targets.
+
+The bats were the most unusual. While weak near the surface, the bat caverns further down were usually avoided. The bats' caracasses were rarely useful, and their ability to fly combined with their sonic attacks made them difficult to handle for many. This issue has since compounded, as because they were not hunted, they were able to evolve further and in more varied ways than any of the other three biomes.
+
+The crawlers were the most attractive targets for those wishing to delve into the Dungeon. While the rock crawlers in the upper areas were weak, the varieties grew greater with depth, and the metallic ones were made of exceptionally pure material that was valued by many. The crawlers rarely got the opportunity to live more than a few months.
+
+The spiders were considered by the humanoids to be someone in-between the others. They were trickier to handle than the rats and crawlers, but not as much as the bats. Their bodies were more valuable than the bats and rats, but not as much as the crawlers. They lived longer and had more varied evolutions than the rats and crawlers, but not as much as the bats. But the spiders had one aspect that made them unique compared to the other four biomes, and even from the other biomes in the surrounding areas of the Dungeon: They were hierarchical.
+
+It was not uncommon for monsters to have an aversion to attacking their own kind, or even for them to travel in packs like a family. It was rare for more powerful members of a species to be able to issue unilateral commands to their lessers. And the entire spider biome was built upon such a hierarchy.
+
+In the far reaches of the spider biome, ancient spider matriarchs made their homes, rarely seen by even their own kind, let alone humans. While not as individually powerful as some of the others, they had a unique advantage over every other monster nearby in that they could command the other spiders. Even the other non-matriarch 8th tiers could not resist them. There were rumors that deeper down, there was even a 9th tier matriarch commanding the 8th tier ones, but no one had ever found any proof of that.
+
+While all the spiders in the area were beholden to the hierarchy, none of the lower-tier spiders enjoyed it. Not that most of them were mentally capable of enjoying anything, but if they had independence, they would gladly choose to escape. It was very rare that any got to make this choice down in the Dungeon where they were regularly hunted, but one lucky little monster had somehow managed it.
+
+It happened when the System automatically selected for it an acid-based evolution, rather than a venom-based one. It was still mindless at the time, but its acid allowed it to do what the other spiders could not and hunt crawlers. It made its nest at the edge of the crawlers’ territory, carving a cave for itself and ambushing the crawlers to sate its hunger. Two evolutions later, it was on the verge of sapience, and had come to hold a deep hatred for the hierarchy.
+
+Out at the edge of the crawler territory, it was rarely bothered by the other spiders, but occasionally, one would happen to pass by, and the renegade acid spider would be forced to “donate” its kills, or build the more powerful spider a web. It hated that. It hated it so much that when it reached its next evolution, its hatred pushed it to choose an Evolution for itself. An Evolution that would separate it from the other spiders entirely.
+
+No longer beholden to them at all, it moved further into crawler territory, using its acid to burrow through the rock, making a complex nest that the unintelligent crawlers could not navigate. It hunted, and ate its fill, and hunted, and ate its fill, and finally, after nearly four years of this, it was nearing its next Evolution.
+
+In the distance, it sensed the vibrations of a number of crawlers approaching. Creeping out from deep in its nest where it had been preparing an evolution chamber, it stealthy walked to the edge of its territory, waiting in the shadows for the crawlers to pass by. If it was lucky, this would be its final hunt before its Evolution. Before it would take the next step on its path to true independence.
+
+However, as the footsteps of the crawler drew nearer, the spider sensed something strange. Something familiar. Something it thought it had left behind. Authority. And it hated it.
+
+In the final week before her trip to visit the dwarves, Elise was quite productive. Specifically, she had made great progress in her leveling. Now that she finally had her Gold Dungeon Pass, she could start her hunts facing off against 5th and 6th tier monsters, and while her leveling speed was slower than it had been before her evolution, it was nothing to scoff at either. Five levels in two weeks did not feel like much, but at that rate, she could very well reach the next Evolution threshold by the end of the semester.
+
+Her Skills were coming along nicely as well. With her ordinary classes, all her mana-based Skills were getting regularly worked, and when she was alone in the Dungeon, she had free rein to use her aether Skills as she pleased. The only Skill that was falling behind was {Fairy Dust}, but she had recently found a way to level that up to. If she just used {Don’t Look At Me, Peasants!} while in the Dungeon, she could fly over monsters unnoticed, dropping dust on them to curse them before revealing herself so that she could engage them in battle. It was a little bit tedious, but it was effective, and it gave her the ability to freely experiment with curses in a way that she couldn’t do on the surface when using {Fey Bargaining}.
+
+Despite all her progress, however, there was still one thing that continued to elude her: taming. She knew it was possible, since she had seen many tamers around, both in her classes, and on the streets. She had thought she had what it took, since the way she dealt with monsters in the Dungeon proved that she could effectively accomplish the same things. She had even experimented enough to condition a monster to be subservient to her, even when {Royal Presence} wasn’t active. But somehow, that wasn’t enough for the System to provide her any Skill Quests relating to taming.
+
+At first, she wondered if she had hit some kind of Skill Quest limit. She did have a lot of them ongoing. But according to the System Assistant, there was no limit, so that wasn’t it. Next, she wondered if she was perhaps just getting spoiled. Skill Quests had once been something strange and mysterious to her, but now, they were commonplace. Half the University’s classes revolved around discovering and completing these Skill Quests. But she was trying something new, and forging her own path, so not discovering a Skill Quest immediately was probably to be expected.
+
+However, in one of her general classes, she happened to find herself seated next to a tamer, and asked him about taming Skill Quests. He happily shared everything he knew, and based on that knowledge, Elise was absolutely certain that she should have unlocked one by now. They shouldn’t have been this difficult. And yet, the System refused to grant her one.
+
+The reason she ultimately settled on was that it was just how her royalty Skills worked. The relationships they established weren’t of a master and a tamed beast. They were of absolute authority, and unquestioning subservience. She was not taming them so much as she was forcing them to submit. And while making monsters submit to a greater will was part of a tamer’s skillset, it was not done in the same way she was doing it.
+
+Still, she hadn’t given up. She had recently taken to exploring the areas with the crawlers, trying to find some kind of clue. She chose them because they had the weakest wills of all the monsters below the University, and also because she found out that they could freely manipulate the material of their shells to form a chair, which she could sit in while the crawler carried her through the caves.
+
+She was doing just that when up ahead, she sensed something strange. She was definitely deep in crawler territory, but what she sensed in front of her was unmistakably a spider. Curious, she tried to amplify {Royal Presence} so that she could get a closer look, but to her surprise, it didn’t work at all. For the first time ever, a monster in the Dungeon had an adverse reaction to it.
+
+Sensing its hatred and anger, she commanded the Mithril Crawler that she was riding to stop so she could observe it from a safe distance. It was waiting in a hidden cave for her to pass by, and she didn’t want to give it an opportunity to ambush her before she had the situation under control.
+
+Despite knowing that {Royal Presence} could cause this kind of reaction, Elise had not at all been expecting it to happen with a monster, so for a few seconds, she was too bewildered to do anything, and she and the spider entered a strange impasse. Then, she started running through her options of how to use the opportunity to gain the most. She had no idea when she would run into a monster like this again, and she had no intention of performing any tests on sapient creatures, so she couldn’t afford to waste it.
+
+After a few seconds, she settled on an initial direction for her testing. Monsters, or even people, who could resist the pull of {Royal Presence} were a weakness for her. Her primary method of hunting at the moment was commanding monsters to fight each other, or to hold still so that she could kill them. If that didn’t work, she was in a much tougher position. So, first, she wanted to test to see if she could overcome this.
+
+She used {Suggest} on the spider, sending it a strong sense of subservience. It was not an emotion she herself was used to, but she was so familiar with sensing it from the other monsters in the Dungeon that she thought she could do a passable imitation. And for a moment, it seemed to work. She felt the spider’s hatred and anger lessen for just a moment, but as soon as the effects of {Suggest} faded, its emotions increased. When she tried {Suggest} a second time, it was thoroughly rejected.
+
+It might work if I had more aether, she thought.
+
+But that wasn’t a method she wanted to keep relying on. Brute force was effective, but limited. If that was the only way she could find to overcome this weakness, eventually it would fail against someone with enough brute force to push back. She wanted to verify that was possible, though, so her next test used even more brute force.
+
+When {Forced Feeling} hit the spider, its emotions flipped, and for just a split second, she felt that it was under her control. She sent a quick {Royal Decree} for it to clack its fangs together to double check, and nodded in satisfaction when she heard the faint sound echoing from ahead. Then the Skill wore off, and its anger and hatred multiplied even further. She could sense it quivering, and saw a drop of liquid fall from the ceiling where it hid and start eating a hole in the ground.
+
+Acid…
+
+She had been wondering what a spider was doing so deep in crawler territory, but if it had such potent acid, it made much more sense. The crawlers were slow and dumb, and would be incredibly weak against a nimble, acid-wielding spider. It had chosen its home well.
+
+From there, Elise tried a few different variations of {Suggest}, trying to get a feel for why the spider was so resistant to authority, and how she could get around that resistance and command it anyway. She successfully manage to reduce its levels of anger and hatred with a few soothing thoughts, and reduced it even further when she disabled {Royal Presence} —though she kept an active {Royal Decree} to keep her Mithril Crawler under control—and in the process, she came to realize something very important.
+
+This… isn’t an ordinary monster.
+
+Most monsters had a very limited range of emotions. While they could get more intelligent as they evolved, that usually didn’t have much effect on their emotional intelligence. With the crawlers especially, even at 6th Tier, the only emotions they seemed to have were hunger, desperation, fear, and subservience, and the last only existed in Elise’s presence. This spider, on the other hand, not only had a much wider range of emotions, but the basic emotions were more complex too. They felt somehow deeper.
+
+Its actions spoke to its intelligence too. The hatred and rage she had felt earlier was more intense than almost anything she had ever felt, but it never abandoned its strategy. Another monster might have come out of its hole and charged her, but it retained enough reason to know that wasn’t its specialty, and instead it continued to wait in ambush.
+
+Suddenly, she felt bad about the experiments she was doing. This creature was clearly not yet sapient, but she felt that it could become so. Technically, all monsters had that potential, something she kept far from her mind when hunting, but this was the first one she had encountered that she actually felt was close to realizing that potential. Even if it was still a monster at the moment, performing such questionable experiments on it no longer felt right at all.
+
+But she still didn’t want to waste the opportunity, so she pivoted her goal. Instead of trying to bring it under control, she instead tried communicating with it. {Whisper} did nothing but confuse it, as it couldn’t understand her speech. Even when speaking in Fey, which seemed to be the base language for all sapient monsters, it had no effect. However, when she combined {Whisper} with {Suggest}, she began to make some progress.
+
+“Would you like to be friends?” she asked with a sense of camaraderie.
+
+The spider was still confused, but beneath the confusion, Elise sensed a hint of something else as well. Curiosity, perhaps?
+
+“Friends,” she sent again, picturing Jessie and the others from Aetheric Illusions.
+
+The spider’s hostility decreased, and its curiosity intensified.
+
+“Friends help each other,” she said, sending it the satisfaction of giving a gift, and the joy of receiving one.
+
+The spider’s hostility almost vanished as the curiosity became its primary emotion, and beneath that, a subtle sense of longing.
+
+“We could be friends,” she said, sending it the feeling of being together with a friend.
+
+She could feel the spider wavering. Its curiosity was overwhelming, and she heard its legs shift against the stones as if hesitating to descend.
+
+“Friends,” sent Elise one final time, with an even stronger {Suggest} than before.
+
+Finally, the monster emerged, first one leg, then a second, then its fangs and eyes, then the rest of its body. It was the size of a car, and it slowly lowered itself to the ground, hanging from a thread that looked far too thin to support its weight. When it landed on the ground, it stared at her, tilting its head to the side. Despite its size, its enormous fangs, and the acid dripping from its maw, the way it curiously looked to her was almost cute.
+
+[ Solitary Acid Weaver, lvl ??? ]
+
+“Hello,” Elise said.
+
+It tilted its head the other way, still confused. Elise summoned her wings and floated to the ground in front of her Mithril Crawler, just to make sure that the spider would not confuse who it was supposed to be friends with, then used {Suggest} again.
+
+“Let’s be friends.”
+
+The spider was still confused, not quite understanding what she meant, but it remained non-hostile. Mostly. After it descended, however, Elise sensed a new emotion. When it saw the Mithril Crawler, she sensed the unmistakable feeling of hunger, and the desire to kill that all monsters had. Sensing that, Elise had an idea. She floated to the side, and commanded the Mithril Crawler to step forward. The spider flinched, and drew itself back upward toward its hidden cave, but Elise called out to it.
+
+“It’s alright!” she said. “It’s a gift!”
+
+With those words, she sent the feeling of receiving a gift once again, and the spider slowed and came to a halt. The crawler stopped right beneath it on Elise’s command and remained their unmoving.
+
+“A gift,” Elise repeated, sending the same emotion.
+
+Slowly, the spider came back down until it was hovering just a few feet above the crawler. It was confused and suspicious, but it did not take long for its hunger to overcome those emotions, and in a single, ferocious motion, it dropped the rest of the way, sinking its acid-soaked fangs into the Mithril Crawler’s neck. Elise tried to keep control over the crawler, but the pain was too much for her {Royal Decree} to overcome. Fortunately, she didn’t actually need to do anything. Keeping it still in the beginning was more than enough for the spider to deal a critical blow, and just a few seconds later, the giant metal insect was dead, its head severed and half-melted.
+
+As the spider stood proudly on the corpse of its prey, Elise made sure to use {Suggest} one more time, making sure that it understood what she had done. Then, it did something that she didn’t expect. With a swift motion, it attached a web to the Mithril Crawler’s head, grabbed the web in its jaws, and carried it over to Elise, dropping it at her feet. As it approached, Elise tensed, ready to use {Move} if it tried to attack, but instead, it simply left the head and retreated before tilting its head again.
+
+“Th– thank you,” Elise said, picking the head up, and sending it a sense of gratitude.
+
+The spider was pleased with that reaction, and then turned back to the rest of the corpse and began attaching webs all around it so it could lift it up to its lair. Elise watched in awe as it turned its back to her, having evidently fully accepted Elise as its friend, or whatever the primitive equivalent was. Elise herself stowed the Mithril Crawler’s head away in her storage bag. Crawlers were valuable, and even if it was just a head, she would be able to sell it for a good price if she brought it back.
+
+When the spider got done bringing the rest of the body up to its lair, it descended back down, landing silently in front of Elise and pausing again. It no longer held any sense of hostility or hunger toward her, but it still seemed a bit confused, as if it wasn’t sure what to do with a friend. Elise, on the other hand, knew exactly what to do with it.
+
+When talking to the tamer, she had learned that the process for unlocking the most basic of tamer Skills, and starting along the path toward being a full-fledged tamer, was actually quite simple. She just had to take a hostile monster, and convince it that she was not an enemy, then give it a name. Until that moment, she had had no luck with the first step. It was generally a prolonged process that involved feeding the monster and conditioning it to understand that she was not its enemy, but rather, a source of good things. But in the Dungeon, monsters didn’t tend to survive long enough for her to complete that process, and though she had a few targets in mind in the deeper areas where students seldom went, it was still an ongoing process.
+
+Now, though, she had found a monster intelligent enough that she managed to complete the process in a day. All she had to do was come up with a good name. She thought about the other monsters she knew, and her mind immediately went to Jag. For a split second, she was tempted to name the spider “Spy” or “Weavy,” but she rejected that temptation as soon as it appeared. She was not going to give it a stupid name like that.
+
+Eventually, she settled on something she thought worked. It was not the most creative name, but she thought it was quite fitting for a friendly spider. She just hoped that the giant, acid-spitting version wouldn’t share its namesake’s ultimate fate. At least, not anytime soon.
+
+“Charlotte,” said Elise. “Your name is Charlotte.”
+
+[ You have discovered a hidden Skill Quest: {Tame} ]
+
+[ {Tame} (Skill Quest): Convince a monster that you are not hostile, and bestow a name upon it ]
+
+[ Progress: 2/2 ]
+
+[ You have completed the Skill Quest {Tame}! You have unlocked the skill {Tame}! ]
+
+[ Tame: When a creature reaches a certain level of affinity toward you, you may tame them. Tamed creatures can understand the intent behind the tamer’s words, and carry out the tamer’s commands. ]
+
+Elise smiled, but only for a moment, as she felt the spider’s emotions suddenly shift. From the general pleasantness of friendship, she felt something else seeping in. Discomfort. Restlessness. And a tiny seed of hatred.
+
+She was confused, but only for a moment. Then, she understood what was going on. How could she not? After all, as it turned out, the spider was a kindred spirit. All it wanted was freedom. Being tamed and obeying Elise’s commands was not freedom.
+
+She used {Suggest} once more, this time thinking back to the memory of when she had finally gotten out of her adoptive parents’ house. The feeling of being free of their thumbs, able to do whatever she pleased. When the spider received this emotion, it responded with a sense of longing so strong that it made Elise feel melancholy.
+
+“I’m sorry,” she said. “I’ll free you. Then we can go back to being friends.”
+
+It didn’t take long for her to figure out how to do exactly that. Undoing the taming was as simple as a thought, and Elise confirmed that it had been done when she sensed a bit of the aetheric bond between them fade away, and with it, the subtle negative emotions the spider was feeling.
+
+“There, all better,” she said with a smile.
+
+The spitter made an odd chittering sound with its mouth that made Elise’s smile widen.
+
+“Actually, I have an idea,” she said. “Hold still.”
+
+She flew up above the spider, which watched her with curiosity, then she started raining {Fairy Dust} down upon it. She had no idea if what she was trying would work, but as the dust fell, she tried to fill it with an evolutionary blessing. A blessing of luck that the spider would unlock some kind of sapient evolution option. She doubted such a thing would work, but there was no point in not trying it. And if it somehow did work, then she and the spider might be able to truly become friends.
+
+“I have to go now,” she said, flying back down in front of it. “I can’t stay down here for too long. But it was nice to meet you, Charlotte. I’ll come visit again.”
+
+The spider did not understand her words, but when Elise started to fly away, it did not chase after her. Elise floated backward, waving her arm at it, and just as she was about to turn around so she could see the tunnel she was about to enter, the spider raised one of its own legs and waved back. With a chuckle, Elise called out to it one more time, then disappeared back up the tunnel.
+
+While she would not have minded staying for longer, Elise actually did need to return. She had probably already been gone a bit too long, and was about to turn around and head back when she first encountered the spider. Technically, she did not have a bedtime, and on a normal Friday night, she probably would have stayed out later.
+
+This time, that was not an option. The next day was the start of the school’s fall break, meaning she had a week off, and she had already told the dwarves that she would be arriving in the morning. Given the fact that Titania deemed it important enough to personally tell Elise to go, Elise knew that the trip would not be simple, and the last thing she wanted was to be sleep deprived when she went.
+
+When she returned to the Gray’s house, she double checked both her spatial storage artifacts, making sure she had everything she could possibly need. Then, she fell into a deep, peaceful sleep.
+
+Back in the Dungeon, deep in the crawlers’ domain, Charlotte wrapped up her latest prey in an airtight cocoon of webbing. This would keep the Dungeon from reclaiming the body for at least half a year, and would also keep the body relatively preserved, and free of any form of rot or decay. Charlotte did not know if she would need it to last that long, but it was better to be safe than sorry. After all, evolving always made her hungry.

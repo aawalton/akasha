@@ -1,0 +1,67 @@
+---
+id: 3342ae72-515e-5953-aee4-acd5bb498025
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1451 - Snake Assault"
+slug: 0099-chapter-1451-snake-assault
+partOf: chrysalis
+position: 99
+ownLength: 1050
+unit: words
+ownProgress: 1050
+publishedAt: 2024-11-12
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1898508/chapter-1451-snake-assault"
+royalRoadId: "1898508"
+markedReadAt: "2026-06-29T19:47:14.849Z"
+---
+
+The problem with trying to get my mandibles on these newly spawning monsters, is that they’re rare and only just beginning to appear in these tunnels. There are plenty of areas within the safe-zone where they aren’t appearing yet, and when they do pop up, the Colony is, of course, dealing with the problem as soon as they can.
+
+What this means is that, even though I go looking for some monsters to chomp on, I can’t find any. Though I search high and low, every time I think I’ve come across something to chomp on, the Colony has already swept in and dealt with the matter.
+
+This level of efficiency is… good… I suppose… but now I have nothing to do except go and fight this stupid snake! Lousy Colony, being all super good at doing stuff all the time.
+
+All I can do is sigh, give my antennae a clean and head off to let Solant know I’m on the way. She gives me a nod, but I can tell she was already aware it was going to end up like this. Know-it-all.
+
+My suspicions are confirmed when I reach the lower levels of the safe-zone to find a medical team and a large battalion of ants ready to hold the line should the snake try and make it up into our territory.
+
+Hey, if the monster wants to ram itself headfirst into the purified mana, then I’m all for it, though I suppose we’d want to minimise the damage a creature this size would inflict should it get in there, even for a few moments.
+
+With a final wave of the antennae to the waiting ants, I head out into the toxic mana, making my way toward the vertical shaft I’d found previously.
+
+Things are much as I remember them from last time, with the exception of the centipedes. CURSED CREATURES. They are, blessedly, still nowhere to be found, not having returned since my last visit. Now that I’m here, I enter stealth mode, as much as a monster of my size can. I pull my mana in close and tight, sticking to the walls of the shaft and keeping to the shadows wherever I can, and all the while, my senses stay sharp and on the lookout for goop-snake.
+
+To my surprise, I find it doing pretty much the same thing as it was the last time I was here: lazily coiled about itself, basking in the slime and thick mana pooling at the bottom of the junction. I have to be careful, since fighting while on a vertical surface isn’t exactly my strong suit anymore. My Grip has been improving bit by bit, but it’s proving difficult to keep pace with my size.
+
+I might have to make my claws mutable in my next evolution, so I can be as mobile on odd surfaces as an ant should be.
+
+Though… I’m probably going to become pretty darn huge after my next evolution. I’m already larger than a bus, I’m like a full on truck. After the next one… I’m running out of vehicles to compare myself to. Do I have to upgrade to buildings?! If I keep evolving, am I going to get to the point I could look King Kong in the eye?!
+
+Best not to think about it.
+
+Instead, I’ll focus on my opponent for the day, this slippery, slime-coated, snake. Now that I look more carefully, it really is a rather large monster. Its body isn’t as wide as I am, but it’s so much longer that it probably outweighs me two to one, even with my gravity-compressed diamond. That’s a heck of a lot of Biomass, which nobody is going to be able to eat… such a shame.
+
+This snake must have massive amounts of Might. Getting grabbed by it will spell near instant doom, so I’ll need to be careful. Not to mention the slime coating that covers the creature. Doubtless it’s just as toxic as everything else around here, and probably helps it move quickly, now that I think about it. Strong and speedy, that’s the impression I get from this foe.
+
+Not to toot my own horn, but I’ve gotten pretty good at evaluating these big, territorial monsters after my recent experiences. The key is to make a careful examination of them before the fight to try and determine their strengths and weaknesses. The choices buried within the evolution system are endless, so it’s impossible to say exactly how a particular monster might function, but judging their general strategy isn’t that hard.
+
+Looking at this snake, my guess is that it uses that long body and slime mutation to move quickly and bind its foe, squeezing them and letting its toxins go to work. Nasty.
+
+To minimise the chances of that happening, I maintain a safe distance, doing everything I can to conceal my presence, and begin to work on a gravity bomb.
+
+This far from the Colony, I’m able to deploy a pretty strong one, even if I can’t go all out. With any luck, it’ll severely damage the snake and allow me to handle the rest of the fight with relative ease. Launching one from here, stuck to a vertical surface without any cover, is a recipe for self-squishing, however, so I take a little time to dig out a discreet little hidey-hole in the wall. Once I fire off the bomb, I can duck inside and dig in.
+
+Genius!
+
+Actually thinking ahead for a change? Who would have ever thought that would be the case? Not me!
+
+When the bomb is prepared, I open my mandibles and let it rip, empowering the spell as I do so. As usual, the devastating magic rips into existence, sucking in the air and stirring up a terrifying wind as it flies towards its target.
+
+HOOOOOOOOOOOOOWWWWWWWLLLLLL!
+
+Enjoy, snake. I’ll be back to check on you in a moment!
+
+Just before I crawl into the small opening I made and prepare to dig myself in, the snake moves, much faster than I expected.
+
+As the bomb hurtles towards its target, the snake does something I truly never expected to see. It rears up, opens its jaws obnoxiously wide, and unleashes a ball of massively condensed mana.
+
+Oh no you didn’t!

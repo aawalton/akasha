@@ -1,0 +1,240 @@
+---
+id: 37c00d74-fd58-54c3-9cc0-fa3e3f53f635
+page-type-slug: story-chapter-royal-road
+title: "183 - Wait, that's not a–!"
+partOf: bunny-girl-evolution
+position: 51
+ownLength: 4306
+unit: words
+publishedAt: 2026-03-27
+link: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3198667/183-wait-thats-not-a"
+royalRoadId: "3198667"
+---
+
+Once in the tunnel leading down underground, Elise shifted her form from dwarf to drow, feeling a bit disgruntled about how short she was. Her drow form was like someone had taken her human form, and just scaled it down to three quarters the size. Her already diminutive five foot two fell below four feet, and her hands got so small that gripping a sword hilt would have been difficult. She felt like a child, and the fact that the rest of the drow were barely any bigger was only small comfort.
+
+The drow welcomed her with open arms when she descended from above, and within two hours of her arrival, a feast was being held in her honor. She was pleased to see just about everything exactly as she left it, but at the same time, that also made her even more uneasy. The thought that Titania had simply wanted her to reconnect with her roots, or even that she was just playing a prank had crossed her mind more than once, but if that wasn’t the case, then whatever she was looking for being hidden only made it more ominous.
+
+Elise had a pleasant conversation with Salome and Naomi during the meal. The drow hunter had seemingly mellowed out since Elise left, seeming both more content, and less paranoid.
+
+“I think that Titania might have fixed something in my head,” she confided in Elise. “When you healed me. I never got my eye treated properly before. Might have been an infection or something. I haven’t had any… incidents… since then, and my head feels clearer.”
+
+During the meal, Salome also introduced Elise to the drow cave’s newest resident, a tiny, freshly-spawned pixie. She was small enough that even Elise’s drow hands were big enough that the little fey could sit comfortably on just one of them.
+
+“We’ve decided to name her Lyra,” said Salome. “She’s a sweet girl, though she’s still young. She can’t talk clearly yet, and she’s rather shy, but she’s friendly.”
+
+As she spoke, Lyra hid behind the old woman’s head, peering out at Elise with one eye filled with cautious curiosity. She had auburn hair and light green eyes, and though she looked like a miniature adult, her gaze and expression were unmistakably child-like. Elise kept an eye on the pixie throughout the meal, and when she finished eating, she turned into a pixie herself and flew over to greet her. Lyra stayed hidden behind Salome, but her eyes were full of wonder when she saw Elise transform, and she seemed like she wanted to come out and get a closer look.
+
+“Hi,” said Elise, smiling as she flew forward. “I’m Elise.”
+
+Lyra smiled nervously and hid further behind Salome, causing the old drow queen to chuckle.
+
+“It’s alright, Lyra,” she said. “Elise is a friend.”
+
+“F– friend?” asked the pixie.
+
+“Yes, a friend,” said Elise.
+
+“Friend,” repeated Lyra. “Friend… play?”
+
+“You want to play?”
+
+“Play!” said Lyra happily.
+
+“Okay, let’s play!” said Elise.
+
+“Play!”
+
+Elise spent the rest of the meal playing with Lyra, which in this case mostly meant following Lyra around while Lyra played. Lyra was not even a month old yet, so her idea of fun mostly consisted of exploration. They flew all over the area, under tables, into alcoves on the tree, and between branches. Lyra seemed to like when Elise chased her around, so Elise did exactly that, making the other fey giggle uncontrollably as she tried to stay in the lead.
+
+Lyra also had somehow already developed a mischievous streak, and occasionally would find an unsuspecting target to use {Fairy Dust} on, causing them to sneeze as she flew away, cackling.
+
+Oberon would be proud… thought Elise.
+
+Once Lyra was sufficiently tired, which took far longer than Elise would have predicted, Naomi led her to the edge of the cavern to where the dwarves had once lived. To Elise’s surprise, the dwarven cave was largely intact. She had expected the buildings to be razed to the ground by the drow earth mages so that they could grow a proper forest in its place, but instead, they had left the buildings intact, and instead grown plants in and around them. Despite the fact that the city had been occupied just months before, it now looked like it had been abandoned for centuries, with the wildlife growing up to reclaim it.
+
+The only part of the city that had been destroyed was a fountain in the very center, where there was now nothing but a fresh plot of dirt and a single sprout, not more than a foot tall.
+
+“Salome ordered that we leave the city intact so we don’t forget the past,” explained Naomi, answering Elise’s silent question. “And that there is the new Sister Tree. The Mother Tree produced a seed not long after you left. It will be a long time before it reaches the level of the old Sister Tree, but it’s already doing well. Can you feel it?”
+
+“Yeah…”
+
+While the effect was muted compared to the effects of the Mother Tree, the mana around the Sister Tree was noticeably denser than its surroundings too, and it had the same, dreamy feeling. For a minute, they stood in silence, lost in the Sister Tree’s mana. Then, Elise suddenly felt a gaze on her. She turned to face its source, but there was nothing there. She could tell that there was someone watching her, and she could roughly tell where they were, but before she could focus her senses any further, the gaze was gone.
+
+That’s odd, she thought.
+
+She had no time to consider it further because at that moment, Naomi turned to Elise, her golden eyes feeling even more piercing than usual.
+
+“You’re not here just for fun, are you,” she said.
+
+Elise temporarily banished the thoughts of the strange gaze from her mind. She had gotten the distinct sense that the gaze was not hostile, and she already had an inkling as to what it might be. It was not a pressing matter, unlike Naomi’s question. Or rather, statement. There was no hint of uncertainty in the other woman’s tone.
+
+“...No, not quite,” said Elise. “Titania actually told me to visit the dwarves. I was just going to visit you for fun on the side, but then the dwarves asked me to do something down here, and I think that something is what Titania was talking about.”
+
+“What did they want?” asked Naomi, narrowing her eyes.
+
+While she had mellowed out, she was definitely far from trusting the dwarves.
+
+“Their request wasn’t much,” said Elise. “They mentioned that over the years that you had stolen some things from them, and—”
+
+“Not as much as they took from us.”
+
+Elise sighed.
+
+“That’s not what this is about,” she said. “They said you could keep most of it. They’ve already written it off. There are just a couple artifacts that they would like to politely request. They say that they’re bloodline artifacts, and are totally useless to you, but will help them prove their legitimacy on the surface. They also mentioned that they’re willing to pay if they have to.”
+
+Elise had added that last part herself, but in a conversation later after the meal, Hallbjorn had given her permission to negotiate however she wanted, and she doubted he would be displeased if he had to spend a bit to get the items back.
+
+Naomi clearly didn’t trust the word of the dwarves, and she had no reason to give them anything, but she also didn’t want to go against Elise, so after a few seconds, Elise gave another push.
+
+“The war is over,” she said. “There is no more enmity. And even if you don’t want to have anything to do with them anymore, this is a small concession, and it would go a long way toward building goodwill and preventing any future conflict.”
+
+Naomi wavered a bit longer, then sighed.
+
+“Alright,” she said. “Follow me. The scouts were the ones who took it all, so I actually have access to the alcove where we keep it.”
+
+They returned through the tunnel to the main drow cave, and Naomi led Elise straight to the Mother Tree, where they stopped at an alcove about halfway up. This alcove was covered by cowhide curtains, like many were, and from the outside, Elise might have assumed it was just an ordinary residential alcove like most of the others. When Naomi pulled back the curtain, though, it was clear that it was not the case.
+
+The alcove was piled high with gold, gems, and various random artifacts, only vaguely sorted by category. Most of the coins were stacked up on the left side, though there were many scattered all over the ground as well. The gems and smaller pieces of jewelry were stacked in the back, once again with many having fallen off the pile and rolled around, and the right side had everything else. Weapons, armor, staffs, crowns, more extravagant jewelry, and more. And lucky for Elise, she spotted the bloodline relics almost immediately. They were resting on top of a table on the right side, sitting atop a small pile of expensive-looking fabrics.
+
+“They’re right over there,” said Elise. “The scepter and crown.”
+
+She started walking toward them, but she was so tunnel-visioned on the artifacts that she failed to notice a pair of loose coins in her path, and slipped and fell forward. By another strange coincidence, she did not have the presence of mind to activate her wings and stop her fall, instead stumbling forward and crashing into the pile of various items, sending many clattering.
+
+“Are you alright?” asked Naomi, rushing forward.
+
+“Yeah,” said Elise, blushing. “Just a little embarr—”
+
+As she spoke, she reached her hand out to the right corner of the table for support so she could get back to her feet, but as soon as her hand touched it, she suddenly understood why Titania had sent her there. She recognized the feel of the “table’s” material, and worse, she recognized the drain on her aether when she touched it. The “table” was no table at all. It was one of the black boxes. And before she could remove her hand, it drained half her aether before stopping.
+
+She leapt to her feet and stared at it with horror. For a moment, nothing happened. Then, she heard a faint hiss, and the lid of the box began to open.
+
+The young general’s conquest was nearing its end, and she was just a few steps away from becoming an empress. She had left much blood in her wake, and would only shed more in the coming weeks, but for today, the battle was over.
+
+As she walked back to her tent, her soldiers parted before her, their gazes filled with awe and fear. They had long since gotten used to the general’s abilities, but it had been a long time since she had been in a state like this. Drenched in blood from head to toe, with one arm reduced to a dripping stump, her skull partially caved in, and one of her intestines slipping out from a gash in her stomach, she looked every bit the part of a corpse, yet she still walked, her gait steady and gaze unwavering.
+
+She entered her tent without a word and promptly lost her poise, barely keeping herself from collapsing into a heap on the floor. As much as she would have loved to be the invincible, immortal war machine that both her allies and enemies believed her to be, the truth was far from it. Every wound was costly to heal. In battle, she only healed what she needed to in order to keep moving, and as high as her Fortitude had grown, that wasn’t much. As battered as she was, she had still taken the enemy general’s head and walked back to camp alive.
+
+The interior of her tent was warded against sound and any kind of scrying, so she let her silent facade falter, groaning in pain as she forced her organs back into her body and meditated on her normal recovery Skills to repair the damage. After an hour, the pain receded to a level that her pain resistance Skill could help her block it out, and she had recovered enough essence to use her special healing to at least get her skull back in the right shape. It wasn’t enough to heal the fractures, but with the bones set, her natural regeneration could take over. There was only one final problem, but that too was soon solved when another presence entered her tent.
+
+“Your arm, Your Highness.”
+
+The general looked up to see a young woman kneeling beside her, presenting a bloody arm atop fabric. It was her personal assistant, handmaid, and a powerful 7th tier assassin, and the only one in the camp that the general trusted with her life.
+
+“I’ll set it in place,” she said.
+
+“Thank you,” wheezed the general. “And I’m no Highness.”
+
+“You should be,” said the assassin, gently placing the arm in its rightful place. “You will be.”
+
+“But right now, I’m not.”
+
+The general glanced down at her arm, trying to ignore the uncomfortable feeling as her regeneration Skills began the re-attachment.
+
+“Here, drink this,” said her assistant, bringing a vial to the general’s lips.
+
+She drank gratefully, and breathed a long sigh of relief as the pain faded and the regeneration accelerated. A few minutes later, she could once again wiggle her fingers, and her skull had mostly fused back into one piece. Her abdomen was still damaged, but nowhere near as much as before, and her pain resistance was able to fully banish all thoughts of her injuries. She started to sit up, but her assistant placed a gentle hand on her shoulder, forcing her back down.
+
+“I’ll go draw a bath,” she said. “Just rest for now.”
+
+The general considered protesting, but ultimately decided against it, laying back and closing her eyes as she heard the sound of retreating footsteps. The moment her eyes closed, she was asleep and dreaming, and for what felt like the hundredth time, she saw visions.
+
+She saw a beautiful black-haired woman praying in a cathedral as soft silver light enveloped a man on his deathbed. She saw a woman made of wood laughing as she rode an enormous white wolf through a forest. She saw a young man in chains, smiling and humming to himself in an abandoned prison. She saw a man so ancient he looked almost like a mummy meditating on a mountaintop.
+
+The general had seen these people before, not once, but many times. Only recently had she finally managed to identify one of them, the Saintess of the Church of Light. The general did not know why the Saintess appeared in her dreams any more than she knew why the others did, but having identified her, she planned to visit Jelor as soon as she was able. Perhaps then, she would be able to get some answers. Answers that she wanted more than ever after seeing the following two visions.
+
+A young girl, no older than ten, stood before a crouching man with a kind smile on his face. She was filthy, and wearing nothing but rags, barefoot in the middle of a dense rainforest. She had long, unkempt black hair and startlingly violet eyes, and though her expression was full of apprehension, she tentatively reached out her hand to the crouching man, allowing him to take it and guide her away. But as they walked away, the girl suddenly turned her head back, looking directly at the general and winking.
+
+Before she could react, she was pulled to a new scene, staring at a young drow with silver-white hair and blood-red eyes. She did not recognize the drow, but she recognized the colors, and knew it was one of the others that she had been dreaming of. This one was among the most mysterious, never seeming to have the same form. Sometimes, she was a rabbit, other times a bird, sometimes a young woman, other times a child, and now, apparently, she was a drow. But she always had the same eyes.
+
+She stood in the midst of an overgrown city, staring at a glowing sprout with a golden-eyed drow at her side. Then, the red-eyed drow suddenly frowned.
+
+She saw a drow with silver-white hair and red eyes staring blankly at a sprout for a moment before turning to stare directly at the general. Unlike the little girl, the drow clearly had no clue what she was looking at, and squinted to try to get a better look, just a moment before the general was shaken awake by her assistant.
+
+She trudged to her bath, relaxed in the water as she was scrubbed clean, then collapsed into her bed, and all the while, her mind never left her dream. She had observed people in her dreams before, but this was the first time they had observed her back. She had no idea what any of it meant, and wanted more than ever to sail across the ocean and ask the Saintess what was going on.
+
+Unlike her dream on the floor of her tent, her dream from her bed was ordinary and nonsensical, giving her no further clues, and her tired morning mind managed to let the encounter slip away entirely, at least temporarily. She dragged herself out of bed, her wounds almost completely healed, leaving behind only scars. A few seconds later, her clothes ended up on the floor, and she found herself standing in front of her mirror, as had become a habit after each battle.
+
+Her body almost looked like it was made of patchwork skin with how many scars she had accumulated in the past few years. The one on her arm was among the worst she had, while the one on her gut was indistinguishable from the dozens of others. While her special healing left no trace, she only used that for the truly fatal wounds, meaning every single other one had left a more or less permanent mark.
+
+There actually was a way she could get rid of them all, and she had done it before. All she had to do was get beheaded and grow her body anew from the stump of her neck. Unfortunately, that would require her special healing, and healing that much would not be without cost.
+
+Ordinarily, that Skill consumed essence. Or aether, or divine power, or whatever the scholars she consulted wanted to call it—she preferred “essence” because it was simple. However, when the Skill ran out of essence to use, it did not simply stop working. It just started consuming something else: her lifespan.
+
+She had been born only nineteen years before, but looking at her face in the mirror, she would never have known it. The war had taken a heavy toll on her, and she looked closer to thirty now. Considering her Tier, she might have even looked this way at sixty.
+
+If this was her first life, she would have been more displeased with it. Even with her lifespan increasing with her Tier, losing so much of it was not a light toll. But this was not her first life. She had already grown old once. The face in the mirror was much closer to the one she was familiar with, even despite its scars. She had already lived the years she lost, so losing them was not a big deal.
+
+Instead, she put on a smile. It looked hollow to her, and she couldn’t help but recall the faces of the dying and dead she had left behind in her bloody rebellion. But she smiled nonetheless. As many had died due to her actions, if she had not acted it would have been worse. Many times worse.
+
+When she awoke back in time, she had originally wanted to try to politic her way to stopping the impending chaos. Her position as a bastard princess was not high, but it was high enough she had opportunities. Unfortunately, she soon proved incapable of navigating through the false smiles and white lies, and she knew she would never make it in time. Besides, she had more than enough justification to oust the emperor, and the size of her army was more than enough evidence that she was not alone in her desire.
+
+Still, I wish it could have been bloodless, she thought with a sigh.
+
+Almost as if in response to her request, she suddenly heard her assistant’s voice from outside her room.
+
+“Your Highness, I have news.”
+
+“Is it urgent?”
+
+“I do not believe it is… but I also believe it is something that you would be interested in addressing sooner than later.”
+
+“Give me one moment. I will be out shortly.”
+
+A half hour later, the general was in a clean, undamaged set of armor, and standing inside the second most secure tent in the camp. There were seven others present, one being her assistant, five being researchers, and one being an elated dwarf. The dwarf had been a slave under one of the great families she had overthrown who had insisted on joining her conquest, calling her a “Fated One” and saying that he would serve her with his life. She had not thought much of it at the time, but the fact that he was present was curious.
+
+The eight of them all stood around one single item—a pitch black, cube-shaped box—and listened as the dwarf talked excitedly about his discovery.
+
+“It has the rune!” he exclaimed. “Just like yours! It matches!”
+
+“What rune?” asked the general.
+
+“The Rune of Fate!” he exclaimed. “I’ve never seen anything like it! I did not believe it was possible to transcribe the Rune of Fate, but here it is! General, it was meant for you!”
+
+The general glanced between the dwarf and the box with a frown. They had taken it from the vault of another great family not long before, and she herself felt strangely drawn to it, but the researchers had not discovered anything from it. It was only when they brought the dwarven smith in as a consultant that they had discovered this… connection.
+
+“Explain further.”
+
+“I wish I could,” lamented the dwarf. “But that Rune is the only one visible. Whoever crafted this was truly a master. I’ve never seen anything like it. Even the great ancestors could not have made something like this. It’s almost— No, it is divine!”
+
+“Divine?”
+
+“Yes, nothing could have made this but the gods!”
+
+The general looked at the box again, then, almost as if drawn by an invisible force, reached out her hand toward it. She was just inches away when one of the researchers grabbed her wrist.
+
+“Apologies for my impudence,” he began.
+
+“No, it’s fine,” she said, pulling her hand back. “I don’t know what came over me.”
+
+“Do it again!” shouted the dwarf.
+
+They all looked at him, but he didn’t seem to register its rudeness.
+
+“The runes glowed when you brought your hand near,” he said. “They were resonating!”
+
+“I do not believe this is wise,” said one of the researchers.
+
+“The gods must have intended this!” said the dwarf. “Why else would they have left a rune of Fate on the surface if they did not want it to come into contact with a bearer of the rune?”
+
+Some of the researchers wavered, but the lead remained resolute.
+
+“No,” he said. “We were very explicitly warned of what would happen if this was to be opened.”
+
+“By an ancient scrap of paper written by a humanoid!” said the dwarf. “Who can confirm the truth? The runes are much more valid!”
+
+The bickering continued, and the general listened at first, but soon, she their voice became a dull droning as she stared at the box. It was calling to her. She knew it was calling to her. She knew that touching it was a great risk. But those thoughts all faded to the back of her mind as though she were in a dream.
+
+While the others were distracted, she took a step forward, and this time with no hesitation, she reached out and placed her hand on the box. The dwarf was the first to notice, his eyes widening in delight as he turned his eager attention to the box and her hand. Her assistant noticed next, and pulled the general back, but by then, it was too late. The vast majority of the essence she had recovered overnight vanished, and something had changed in the box. A moment later, there was a hiss of escaping air, and the lid of the box rose.
+
+The Collector frowned as, for the second time in twelve hours, he felt a ripple in the aether around the two dark boxes he kept deep in his vaults. This had happened once before, a couple years prior, and it had been ominous then, but now, it sent a shiver down his spine. Something big was happening, and with the second ripple, he knew one thing for certain: the boxes were connected, and they had been located.
+
+He was already in his manor when the second ripple occurred, at which point, he promptly went to find his children. Sasha was the first he found, her head resting on her original body as she walked through a room of headless corpses, examining them for damage after her latest “play.”
+
+“Father?” she asked when she saw him.
+
+“Sasha,” he said. “Gather your things and leave. Inform the others to do the same.”
+
+“What? Why?”
+
+“We will have company soon, and it may not be of the pleasant variety.”

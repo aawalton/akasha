@@ -1,0 +1,81 @@
+---
+id: eb087c2e-7ca5-51e0-9c79-7b7296cd5ef1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1480 - Backup"
+slug: 0128-chapter-1480-backup
+partOf: chrysalis
+position: 128
+ownLength: 1040
+unit: words
+ownProgress: 1040
+publishedAt: 2025-01-06
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1994287/chapter-1480-backup"
+royalRoadId: "1994287"
+markedReadAt: "2026-06-29T19:48:09.996Z"
+---
+
+I know I can’t exactly get tired, due to my rather unique set of circumstances, but I am getting tired. The Krath have been working their slimy backsides off, being pests in all the ways they can. The Colony is still holding the line, but the number of monsters reaching the safe-zone is getting higher with every passing day.
+
+With the building teams still working on the interior of the fortress, taking in thousands of tons of prepared materials from above and building everything just so, the outer layers of defence are still fairly minimal, leaving everything to Solant’s rigorously trained battalions.
+
+So far, it’s been enough, but Tiny, Crinis, Invidia, myself and even Vibrant have been run off our feet plugging in the gaps and taking as much of the load off the ants as possible. Well, Invidia and Crinis don’t have feet, but… you get the idea.
+
+The healers have been forcing me to take mandatory rest and detoxification breaks, but even if I’m sitting around not doing anything, the flood of Will pouring in through the Vestibule fills my head with the noise of a hundred different battlefields. It’s not easy to de-stress, is what I’m getting at. I need a real, actual nap, but there just isn’t the time. If I’m not out there taking the heat off my siblings, then the number of ants being taken to the hospitals to be cleansed of toxic mana starts to skyrocket.
+
+Right now, I’m sitting on my backside and trying to achieve a state of universal calm while a pack of irritated healers crawl over my carapace, poking and prodding at me. It’s not working, but I’m giving it a go. According to the latest estimates, we’re still almost two weeks away from being able to seal in the fortress and lock the slugs out for good, but with pressure from the Krath ramping up and the mana levels rising in the tunnels, it’s going to be touch and go right down to the wire.
+
+Which is why I’m so happy to see a semi-familiar face waddling over to me.
+
+[Sarah!] I cry out happily. [I’m so glad you’ve come down to suffer alongside me!]
+
+[Don’t say it like that,] she replies with a bear laugh, [I might just turn around and go back to the fourth!]
+
+The big bear has changed since the last time I saw her, now evolved to a mighty tier seven mythic monster, just like me. Whereas before she was a truck-sized rage-bear with a fearsome visage, she is now… more of that.
+
+She’s significantly bigger, to start with, larger even than I am. She upgraded from a large vehicle to a small building. This bear is hefty. Her shoulders and legs (arms?) are massive, absolutely packed with dense muscle, and I feel like she might even be stronger than Tiny. More than just her size, her entire appearance has become… even more sinister and dangerous-looking than before.
+
+Her fur has become entirely black, except for numerous streaks of bright red that slash across her body and seem to softly pulse with an angry, magma-esque light. It’s like she’s pumping liquid rage through her body and it shines through those patches of fur in particular. I get the strong impression that she reset her eyes and teeth as well, because they look… unpleasant. I have no idea what those claws made of, but I sure as heck don’t want to experience them. I guess the closest thing I can think of would be volcanic glass, but with that glowing rage-juice flowing through them. Her eyes blaze with unrestrained fury, like rubies made from crystalised anger.
+
+All in all, she looks dangerous as heck.
+
+[Nice to see you’ve taken on a much softer look,] I congratulate her.
+
+She swipes at me with a claw in jest. I still dodge.
+
+[Hey! You didn’t need to move, I wasn’t going to actually hit you,] she protests.
+
+[Sarah, my carapace is formed from diamond compressed in the heart of a black hole and your claws still give me the heeby jeebies. Please tell me you didn’t turn yourself into another Tiny and you spent some of your evolutionary energy in keeping yourself alive.]
+
+[Of course I did,] she says, a little defensive. [My evolution was certainly more… offensively focused, but I made sure to cover up the holes in my defence using some of the suggestions Mr. Granin gave me.]
+
+[Mister Granin? Don’t let him hear you say that.]
+
+She laughs.
+
+[I won’t.]
+
+All in all, despite her savage appearance, I’m getting a positive sense from Sarah. It seems like she’s in a good space, which makes it even more of a shame she’s come down here to suffer and fight against the Krath.
+
+[I assume the Colony is rigging you up some sort of armour or something?] I ask.
+
+If they give her the same sort of thing that the Immortals have, then she’ll become an absolute terror beyond the safe-zone–for small bursts of time, of course.
+
+[Yep. I’m supposed to head over there to get it all fitted, but I’d thought I’d drop in and say hello first.]
+
+[Very kind of you,] I say, dipping my antennae in acknowledgement. Then I look around. [That weirdo didn’t join you down here? I’m surprised. He’s been keen to hang around you for whatever reason.]
+
+[You mean Odin? He just needs some company. It’s hard to adjust to living here in Pangera, being a monster and all that.]
+
+[Uh… not really? I guess you weren’t reborn as an ant, so I see how it might have been harder.]
+
+At that moment, I see a lethal-looking form creep around from behind Sarah. Not really a demon, this thing looks more like a knife attached to some other knives then blended with a shadow. Creepy!
+
+[Hey, Odin… I assume that’s you.]
+
+[Sarah relayed some of your conversation to me,] he says, stalking forward until he’s right in front of me, staring me right in the eyes.
+
+Well, one eye, I’m too big for him to get to both of them.
+
+[She’s perfect!] he insists, eyes bulging as he holds my gaze. [A flawless engine of death and destruction!]
+
+This guy…

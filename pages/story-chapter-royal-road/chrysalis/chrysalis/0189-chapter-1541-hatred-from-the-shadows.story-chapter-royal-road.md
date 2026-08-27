@@ -1,0 +1,87 @@
+---
+id: 0bf219d2-758a-5289-9edb-0c44633a1c7b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1541 - Hatred from the Shadows"
+slug: 0189-chapter-1541-hatred-from-the-shadows
+partOf: chrysalis
+position: 189
+ownLength: 940
+unit: words
+ownProgress: 940
+publishedAt: 2025-04-01
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2164654/chapter-1541-hatred-from-the-shadows"
+royalRoadId: "2164654"
+markedReadAt: "2026-06-29T19:49:52.415Z"
+---
+
+Crinis hated the fifth stratum. She hated the native mana, she hated the native monsters, she hated the creepy atmosphere in the tunnels, she hated the sludge and slime everywhere and she hated the way it all ate into her flesh.
+
+But that wasn’t even the thing that she hated the most. The thing she hated the most was the way she was constantly, constantly being kept from her Master. Fight over here, Crinis, help over there, Crinis. Why couldn’t they ever be fighting in the same place?!
+
+Not that she blamed the Colony for this problem, nor did she blame her Master, not entirely. The cause of this problem, the reason for all her suffering, was the hideous monsters right in front her!
+
+[Suffer and die for all eternity!] she screamed, plunging her tentacles down into the mana-infused shadows beneath her.
+
+To her, lacking in eyes, she didn’t see the filth, corruption and sludge that oozed endlessly out of the fifth stratum and crept towards her platform in an unrelenting wave. Some might say that was better, but in her mind, it was infinitely worse. She didn’t perceive as others did; she perceived mana, and the mana of the fifth, was simply awful, and the creatures who lived in that filth were even worse—disgusting stains that blighted her vision and filled her with revulsion.
+
+With wicked glee, her tentacles emerged from the darkness in the tunnel, and Crinis set to plying her deadly work.
+
+Her mind was a network of thousands of connections, each one spanning a thousand limbs, and she orchestrated each one like a conductor. All of the targets were there, lit up in her mana-sight as clear as day, and like filth-seeking arrows, her limbs writhed through the air towards them.
+
+Being exposed to the toxic atmosphere of the fifth was bad enough, actually touching the monsters was an entirely different experience. The moment her limbs grasped the creatures, they began to sizzle and hiss as the acid and slime ate into her shadow flesh, breaking it down at tremendous speeds.
+
+But not fast enough to save them. Hundreds of times a second, her tentacles wrapped around a monster and began to twist. The teeth on the inside of the limbs ground and slashed and cut, rending her foes into pieces. Other limbs sought out the more powerful monsters and drove straight into their bodies, bypassing their physical form.
+
+Soul Seeker Cilia hunted inside their forms even as they melted away, sinking into their minds and letting Crinis set them against their own kind. The effect only lasted a few seconds before the tentacles were damaged beyond repair, but that was enough to cause devastating damage in the right circumstances.
+
+Grinding teeth in her three mouths, Crinis endured the burning of her flesh as she unleashed her fury upon the monsters of the fifth.
+
+However, it could only last so long. Not only was her flesh being annihilated, it was also being corrupted. Before the contamination could make its way back to her main body, she cut off the limbs herself, cursing savagely as so much of herself was cast away.
+
+It immediately began to regenerate, but it would take time and materials to rebuild what she had lost. For every minute she was actively fighting in the fifth, she needed three minutes to recover, and that ratio was only getting worse as the wave went on.
+
+[Well done,] the mage assistant the Colony had appointed to her said. [I have some gifts for you.]
+
+Several soldiers delivered plates laden with Biomass in front of her, using their mandibles to place them down on the platform.
+
+[Thanks, Santa,] Crinis sighed, reaching out as she expanded her form to reveal her mouths. Soon she was crunching away on the food, letting it burn away inside her and convert to more flesh for use against the monsters. [I appreciate this, as always.]
+
+[You’ve been very good to the Colony, so of course you get onto the list,] Santa said, clacking her mandibles happily.
+
+[What list?]
+
+[The priority supply list. Delivering Biomass for you is close to the top, I’ll have you know. Holding this platform would be twice as hard without you. The Colony is extremely grateful.]
+
+It was nice to be appreciated, but Crinis didn’t want to be appreciated, she wanted to be with her Master. The thought of him fighting on his own, without her there to keep him safe, was maddening. The thought of him vanishing and reappearing hundreds of kilometres away after being abducted in some absurd way filled her with terror! This was agonising!
+
+Her limbs writhed and twisted without her conscious control.
+
+Why didn’t he let her live inside his carapace?! That way, they would never be apart and she could make sure he was safe! They would basically be one lifeform, a perfect existence!
+
+[You’ve grabbed me again.]
+
+[Oh! Sorry….]
+
+Crinis released the mage that she’d unintentionally snatched up in her tentacles, placing her back down carefully.
+
+[How is… my Master doing?] she asked hesitantly.
+
+Nothing bad, nothing bad, nothing bad!
+
+[Very well! I enquired because I thought you would ask… again. The Eldest has been fighting hard on the platform, battling away and using their new abilities to devastating effect, so I’m told.]
+
+What a relief!
+
+[They were severely injured recently….]
+
+[WHAT?! WHO DARED TO DAMAGE MY MASTER?!]
+
+Rage. White hot rage.
+
+[It was self-inflicted.]
+
+The anger was snuffed out in an instant, replaced with equally intense frustration. Of course. Of course it was self-inflicted. Once more, her limbs twisted and curled.
+
+[Uh, Crinis? You’ve grabbed me again.]
+
+[Sorry, Santa.]

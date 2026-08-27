@@ -1,0 +1,89 @@
+---
+id: eb6721c9-0297-5858-a1aa-28ce635cc7b0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1466 - Pressure is Rising"
+slug: 0114-chapter-1466-pressure-is-rising
+partOf: chrysalis
+position: 114
+ownLength: 1022
+unit: words
+ownProgress: 1022
+publishedAt: 2024-12-04
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1938549/chapter-1466-pressure-is-rising"
+royalRoadId: "1938549"
+markedReadAt: "2026-06-29T19:47:43.520Z"
+---
+
+Zluth was frustrated.
+
+At first, everything had been going well. His promotion to Krath’sizz hadn’t gone without controversy, as he’d been promoted ahead of many worthy Krath from the larger tribes, but with the blessing of Chozth herself, who was going to argue? Certainly nobody who wanted to go on living, which turned out to be everyone.
+
+Assembling his war party had gone well, even his assassination of the ignorant guard had been carried out flawlessly, so what was it that vexed him?
+
+The ants. It was always the ants.
+
+Especially the big one. Zluth was beginning to think the enormous ant was taunting him. Every time he tried to get more aggressive, to push his war party forward and launch a more decisive strike, the cursed creature would appear, without fail. Fathomless purple carapace gleaming, it would rush out into the toxic mana of the fifth without fear, using its unique magic to flatten everything it could see into the ground, or into the roof, crushing all of his meticulous preparations with effortless ease.
+
+No sneaky angle, no feint, no aggressive lunge seemed to matter in the face of that overwhelming power.
+
+And whenever he tried to play it slow, keep the ants on their toes, try to bait a reaction, it was nowhere to be seen. A maddening state of affairs.
+
+“Was it really necessary to make me a part of this?” Goszi spat. “I’m not exactly what you would describe as the strongest warrior amongst the tribes.”
+
+“You have wisdom and experience on your side,” Zluth lied easily, “you’ll be invaluable to the war party.”
+
+“Shouldn’t you only include slugs you trust in your war party, you ungrateful Krath’sizz?”
+
+Despite his sour attitude, the old Krath couldn’t help but express a note of admiration when he used Zluth’s new title. He’d known the canny scout was a cut above the rest, but he didn’t think he’d manage to slide into Chozth’s good graces so quickly.
+
+Naturally, Zluth picked up on it, but didn’t react.
+
+“You’re here precisely because I don’t trust you. If I leave you to work your charm on the Slee, I’ll be out of my leadership position before I can flatten myself and dive in a hole.”
+
+Goszi burbled acerbically.
+
+“We’ve been over this. They don’t want a new leader. In fact, you’ve become a trusted war leader for Chozth. The tribe wouldn’t tolerate overthrowing you now.”
+
+“Nice try, old slug,” Zluth said wryly, “but I know you’re smarter than that. In fact, I know you’ve been dropping hints already. Saying I’m too busy to lead the Slee now, hoping to find someone a little more amenable to your… retirement plans.”
+
+The word tasted strange between Zluth’s fangs. This was quite a unique scenario Goszi had imagined for himself. It almost wasn’t… Krath. When a slug became old and useless, they were put to the filthiest and most dangerous jobs in the Slimeground, tending to the beasts, collecting the meat, and when they couldn’t do even that, then they were meat.
+
+Goszi slumped a little, as if feeling defeated at being caught out, but Zluth knew better. This old slug would never quit, that was how he’d lived this long.
+
+“You are exactly in the right place,” Zluth grinned maliciously. “Now do your work and speak some wisdom. How are we going to overcome this cursed enemy?”
+
+The old slug grimaced and spat, his acid bubbling and hissing on the tunnel floor. Still potent, for his age. He’d cultivated himself well over the years.
+
+“Your sneaky tricks not working well enough?” Goszi asked, knowing the answer. “If you’re coming to this pale shadow of a slug, then you must be getting desperate.”
+
+“Speak, Goszi, and say something of value,” Zluth warned him, baring his fangs. “I can lose two more of my party without incident.”
+
+Goszi’s eyes swivelled on their stalks, checking the tunnel around them. They were alone, for the moment, forward from the rest of the war party and hidden amongst the mosses, close to the ant base.
+
+Close being relative; Zluth remembered all too well how they were able to surge that cursed blue mana hundreds of metres down the tunnel.
+
+“So far, we’re relying on the wisdom of the tribes who dealt with invaders before. Harry and harass, make them tired, jumpy, probe for weakness. No matter how strong, or how disciplined they are, eventually they’ll break,” Goszi said. “But I’m not convinced it’s going to work this time.”
+
+“Why not?” Zluth demanded. “Chozth is leading this war effort, and she says this is the best way.”
+
+“That’s how we’ve done it before, she’s using tried and true Krath cunning. It’s just… this time, things might be… different.”
+
+“Different how?” Zluth growled, grinding his fangs together.
+
+“The ants,” Goszi replied quickly, “they aren’t getting tired.”
+
+“We haven’t been at this for long enough yet.”
+
+“Maybe, but I’m not convinced,” Gozsi said. “Have you been counting how often they change out their guards?”
+
+“Guards? You mean their armies?” Zluth spat. It wasn’t just a hundred or two hundred ant monsters protecting any single tunnel, but thousands and thousands. Ten thousand in this single tunnel alone, to be exact. “Every eight hours.”
+
+“And that schedule hasn’t changed. They aren’t getting faster, or slower, but sticking to the schedule. All the while, whatever they’re building back there is getting more and more complete. I’m just an old slug, but I don’t think they’re feeling the pinch just yet. We need to apply more pressure.”
+
+This wasn’t what Zluth wanted to hear. It was possible for them to push harder, but they’d need to range farther, wrangle more and more dangerous beasts from further away, move their scouting line forward to the edge of danger.
+
+The war party wouldn’t like it, but if they managed to be successful where the others had failed to show results, then there would be glory for all. It was worth a try.
+
+“You might have just persuaded me to make life much more dangerous for you, Goszi,” Zluth said.
+
+“Why don’t I feel any better, then?” the old Krath groaned.

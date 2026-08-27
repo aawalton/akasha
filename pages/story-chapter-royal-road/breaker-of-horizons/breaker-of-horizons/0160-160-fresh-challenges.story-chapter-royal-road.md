@@ -1,0 +1,125 @@
+---
+id: ec123150-bc96-5c42-88b9-55a91dbd4b38
+page-type-slug: story-chapter-royal-road
+title: "160. Fresh Challenges"
+slug: 0160-160-fresh-challenges
+partOf: breaker-of-horizons
+position: 160
+ownLength: 2230
+unit: words
+publishedAt: 2021-12-13
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/805572/160-fresh-challenges"
+royalRoadId: "805572"
+---
+
+For Caden, the walk to the arena felt considerably shorter now that he wasn't making the trip alone, even though he was aware of the veiled buildings. Finally reconnecting with one of his friends seemed to cast its own field of distortion over his perception of time, and Devon's cheerful manner eased a knot of tension in his chest that he only realised had been there because he could now mark its absence. As they walked, he explained why he thought it was necessary to 'prep' for meeting the twins by launching into a half-joking tirade against them, highlighting their competitive and combative nature.
+
+When they finally arrived at the compound, Caden suggested using one of the smaller duelling chambers since it was just the two of them.
+
+"Nope," Devon said firmly, penning their names into the ledger at the front desk and claiming the arena. "Trust me, we'll need the space."
+
+Caden couldn't help but feel a bit guilty as Devon led the way. Given how much more advanced Caden had been in thaumaturgy even before the private training with the Demiurge, he was quite certain that he was far beyond the twins' level, let alone Devon. But while he might have savoured that feeling of superiority over Lynus and Kevan, it felt a little wrong to be thinking that way about Devon, who was going out of his way to do what thought was something needful and helpful.
+
+Now that they were finally here at the arena, Caden was confronted with the fact that he had yet to decide how much he was going to let on about the true extent of his capabilities, not just to his friends, but also to the other people in the Academy during their classes. The knot of tension in his stomach came back in full measure.
+
+"Okay!" Devon clapped his hands together and flashed a cheery smile as he strode into the very centre of the arena and turned to face Caden. "I know we all passed Reeves' ensorcelment at the end of the term, but the twins have a way to amp it beyond what we were tested for, so you need to be ready for that."
+
+"Do we really have to do this? What if I just, uh, refused to duel them? I mean, they can't force me, right?" Caden pointed out.
+
+Devon looked a bit disappointed. "C'mon man. You're the Top Scorer. They're definitely gonna want to challenge you."
+
+"It's not a title I feel I absolutely have to defend," Caden said dryly.
+
+"Yeah, okay, fine, I'll be honest," Devon sighed, throwing his hands up in surrender. "I want to see them taken down a notch. Or, to put it more colourfully, I want to see you hand them their asses back on a platter."
+
+That got a laugh out of Caden. "Well, I'm not sure if I have a good argument against that. But if they're that good, who's to say I'll win?"
+
+"That's why we're doing this!" Devon answered, gesturing at the arena. "I'll prep you so you know what to expect. That way, they can't catch you by surprise with something you've never seen before. If it comes down to pure skill, I'm sure you can beat them."
+
+"And you know all their tricks?" Caden asked, raising an eyebrow.
+
+"Probably not," he admitted. "Still, even if they manage some kind of surprise, I'm sure you can beat them, right? Unless you're telling me you think they're better than you."
+
+Caden tutted and wagged a disapproving finger. "You're trying to bait me. You should know I'm not like the twins. I don't need to feel like I'm better than everyone."
+
+"Me? Bait you? Would I really be so manipulative?" Devon asked innocently. "But are you seriously telling me you're not even a little bit curious about what they're capable of?"
+
+Devon didn't know it, but Caden was indeed extremely curious about how the whole lot of them had changed in their short time apart. He had made a tremendous amount of progress himself under the Demiurge's tutelage, while they had presumably come into contact with a wild augera. What had the experience done to them? What insights had they come across that might have helped them elevate their understanding of the foundations of arcanophany?
+
+Devon took Caden's hesitation as acceptance. He pumped his fist and gestured to Caden to ready himself. "Okay, one amped-up ensorcelment coming!"
+
+"Wait!" Caden shouted, panicked.
+
+"What?" Devon asked, looking confused and concerned.
+
+Caden stared back, his eyes wide as he realised that he had just overlooked something very fundamental. He had actually only succeeded in guarding himself once against Reeves' ensorcelment before. Because after that, his father's orb had somehow perfectly protected him from ensorcelment, and after that, the augeric shell had taken its place. From then on, he had never practiced the ability to do it like the rest. But now the shell was gone.
+
+"Sorry. Rusty," Caden replied, his mind working feverishly as he tried to piece together what he needed to do. There was a sequence he had hastily clobbered together to protect himself from prophetic links back when he had only just been made aware of them, after the augera had momentarily broken their hold on him. It had the happy side-effect of making him completely immune to ensorcelment. Thankfully, it took him only a moment to recall how it worked — the glyphs for general auric arcana and general ambient arcana formed the core, defining his auric-ambient-flare. Then there was a clause with the glyph for prophetic links, defining the thing that needed to be purged.
+
+Relief washed over Caden as his now-expanded understanding of arcanophany came into play. Back then, he didn't understand how it all worked. But now he knew when he homebrewed that sequence, he had accidentally stumbled on a way to use glyphs to refer to the shape of an auric-ambient-flare. Since prophetic links were twisted and woven into the auric-ambient-flares of people, using a sequence like that to forcibly maintain the original shape of an auric-ambient-flare helped to defend it against outside influences. That was why Reeves' ensorcelment had completely failed to affect him while he had this rudimentary anti-prophecy sequence applied.
+
+Now that he really understood it, he realised he didn't need to bother with glyphs or sequences at all. He knew the shape of his auric-ambient-flare more intimately than he ever had before, and even how it expanded into the higher dimensions of oblivion. All he needed to do was anchor himself. For him, defending against ensorcelment was now nothing more complicated than simply keeping his balance against a strong wind.
+
+He calmed down considerably and nodded at Devon, who still looked a bit uncertain. "You sure you're alright? I mean, forget what I said earlier, we really don't have to do this if you don't want to."
+
+Caden grinned. "I'm good. Let's see this 'amped-up ensorcelment'."
+
+Devon hesitated for another moment, but once he saw Caden was truly ready, he nodded back. The light-hearted mood slowly ebbed, giving way to something more sombre as Devon focused.
+
+The ensorcelment, when it came, did indeed take Caden by surprise. Devon was reaching out with more than the ordinary use of arcana that came with conventional ensorcelment. Caden sensed a shifting in oblivion as his friend started working at a deeper level as well. There was an impulse to roll on the floor, suffused with the emotion of glee, coming thinly through oblivion, but still with greater clarity than anything in the arcanic sea.
+
+But it was still only a shallow use of oblivion. The ensorcelment was fundamentally the same, clumsily channeled on higher planes, not modified in any way to take advantage of the nature of oblivion.
+
+Caden calmed himself right down into his state of complete dispassion and flexed his auric-ambient-flare. The bands of ensorcelment had barely managed to wrap themselves around him to begin with, and with that small exertion, they fell apart completely.
+
+Devon stared as he lost his hold over the ensorcelment. "... wait, what?"
+
+"What?" Caden asked, tilting his head.
+
+"That... wait, what?" Devon repeated. "My ensorcelment. I mean, you didn't resist it. You... you stopped it?"
+
+Crap, Caden thought. He had instinctively unravelled the ensorcelment instead of anchoring himself to resist it. "... yeah. I mean, if you can stop something, or dodge it, why would you stand there and take it? Thaumaturgy 101."
+
+"But how?" Devon asked, still staring.
+
+Caden shuffled his feet. "How about we move on, and I save some surprises of my own for the twins?"
+
+Devon shot one last look of incredulity at Caden, then shook his head in disbelief as he brought up the arena's control sphere and turned his attention to it. He made use of the preset meant to approximate an urban environment, and Caden was mortified to see it spawn the last-used layout that the Demiurge had arranged for their previous training session. As far as Devon was concerned, however, this was just a non-descript, random urban environment.
+
+"Yeah," Devon said, misreading the expression on Caden's face. "They like to go big with their duels. So, they do large-scale stuff, and a lot of it tests mobility in actual combat. I'm not gonna be able to really do the same things they do, so instead of duelling you through the whole environment, I'm gonna take a high position, and I'll lay down some moving targets for you to take out while defending against some arcanic bolts."
+
+Caden coughed. "Actually, enough about the twins. What's your particular strength?"
+
+"My strength?" Devon asked blankly.
+
+"Yeah. I mean, you make everyone in the dorm sound like they're great at something. If the twins are the thaumaturgy pros, what's your area of specialty?"
+
+Devon bit his lip. "Cooking, I guess. That's all I'm good for."
+
+An involuntary snort escaped before Caden could stop himself. "C'mon, that's not true. You've got really good arcanic control — you showed that in the kitchen. And you can at least match the twins with your amped-up ensorcelment, right? You're equal to the rest in your own way. So, in the group, what's your—"
+
+This time, he managed to stop himself before he blurted out 'your role', "—talent?" he finished.
+
+Devon gave him a strange look, but he softened after a moment. "I guess out of everyone besides Ambrose, I've got the best arcanic control."
+
+Caden clicked his fingers. "That's what I thought. I mean, not many people can casually apply those skills and make the kitchenware dance."
+
+"But of course I've got nothing on the Top Scorer," Devon pointed out dryly.
+
+"Well, I mean, I've got to qualify for the spot somehow, don't I?" Caden grinned. "Anyway, let's forget about prepping me for the twins. If I absolutely have to duel them, I'll cross that bridge when I reach it. Why not you show me more of what you can do?"
+
+Devon seemed a little lost at first, but then he suddenly looked up with a gleam of excitement in his eyes. Before Caden could ask what he had in mind, Devon summoned the control orb and cleared the entire arena, then spawned a multitude of globelights that filled the whole space from floor to ceiling, arranged neatly in a honeycomb pattern. They were all tuned to the lowest setting so they weren't blinding, but it still bathed the area in a bright glow.
+
+"So, this is more about finesse and control rather than brute strength," Devon said, leaning around one of the globelights so he could re-establish eye contact with Caden. "These lights are written to change colour when you introduce your own arcana into the mix, but they're also so sensitive that they'll collapse if you flood them with too much arcana. The goal is to tune as many of them to a chosen colour within a time limit. You can overwrite the colour of an orb even if someone else has gotten to it, but you've got to bleed their arcana out of it first, or you'll pop it."
+
+"Is there a penalty for popping an orb?" Caden asked.
+
+"Yep. So it's not a viable tactic to just pop orbs to deny your opponent the chance to overtake it. Popped orbs take away from your total at the end. So the goal is really to turn orbs to your colour more quickly than your opponent."
+
+Caden nodded. "But in the case of contested orbs, if two people are trying to bleed an orb and introduce their own arcana at the same time, and the orb pops, how can we tell who popped it?"
+
+"Good question," Devon grinned. "I'll just say that the arena still counts the pop, but who it gets counted to depends on how it pops. I think you'll get it when we actually do it."
+
+This was, Caden realised, a very well-designed exercise. Brute force meant nothing here. This was the kind of arena battle that Devon would probably excel at, and in combat, this degree of control would mean a great deal when it came to overwriting sequences or even turning them back on their originators. In fact, there was even the possibility that Devon might be better than Caden on this particular field of battle.
+
+"Alright, let's do this," he said, returning Devon's excited grin.

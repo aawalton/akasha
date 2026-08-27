@@ -1,0 +1,388 @@
+---
+id: 7fba7ee4-fc09-5f60-849f-6cbd64642a45
+page-type-slug: story-chapter-royal-road
+title: "193 - Gloop and Shirt Friends"
+partOf: bunny-girl-evolution
+position: 61
+ownLength: 3920
+unit: words
+publishedAt: 2026-04-28
+link: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3327941/193-gloop-and-shirt-friends"
+royalRoadId: "3327941"
+---
+
+Elise thanked the guard for the clarification, then quickly walked around a corner and activated {Don’t Look At Me, Peasants!}. With her stealth assured, she returned to the entrance, and tried to puzzle out a way to get down. She could just walk right in, and they would ignore her, but she had no way to activate the lifts without their help, meaning she would only be able to go through the surface entrance, which wasn’t an option. Charlotte’s lair was deep in the Gold areas, and even at her top speed, Elise wouldn’t be able to make it there quickly at all if she started from the top.
+
+She paced back and forth, worrying, but after a few minutes, a solution presented itself in the form of a group of armored knights. They showed the Dungeon guards some kind of paper slip, and were promptly let inside and shown to a lift. Elise slipped in behind them and joined them on the lift. It was a little cramped, but she subtly pushed a couple of them out of her way to give herself some breathing room. Elise knew that they wouldn’t react to her touching them, but it still felt extremely strange to see them not react at all to being touched.
+
+The lift ride was long, and not exactly comfortable. The group of knights were clearly good friends who knew each other well, and they were in a good mood, so they were joking around the whole time, completely uncensored, and saying things that made Elise’s ears turn red. She was glad that her stealth was so effective, because she snorted with laughter once or twice when they said something particularly absurd.
+
+Once off the lift, the knights walked casually up toward the guard to show what Elise assumed was a permission slip, but she didn’t stop to watch, this time. She activated {Fey Wings} and flew right past them, zipping through the caverns as quickly as she could without losing control of her flight.
+
+As she traveled, she noticed that many of the tunnels were marked with glowing green and red lines. Some only had a single vertical green line, and others had both that, and the red line. It wasn’t hard to guess what they meant. Green meant it was currently being explored, and red meant it had already been explored, and they had found nothing.
+
+Elise’s heart rate rose as she flew further and further, each turn on the way to Charlotte’s lair marked green, then let out an enormous sigh of relief when she reached a fork and found that the correct path was still unmarked. She slowed down a bit at that point, though not too much, because she had no idea where the knights would be going, and didn’t want to assume she had time when she didn’t.
+
+Charlotte’s lair was quite deep in the Dungeon, but at the speed Elise was flying, she reached it in just under two hours. Fortunately, she was quite familiar with the route, as she had taken great care to memorize it the first time, and had briefly checked in on Charlotte’s progress a couple times in the past month. It had been a week since her last check-in, however, and it seemed that in the time she was gone, she had missed the end of the Evolution.
+
+Finally at her destination, Elise took a moment to {Power Word Kill} the roaming crawlers nearby before deactivating her stealth. She grimaced as that action was enough to give her a level, and she felt the strain on {Subtle Royalty} increase. She never thought she would be unhappy about gaining levels, but she really didn’t want to deal with school without {Subtle Royalty}. Her hair and eyes already got enough stares as it was, and even if she used the earrings to suppress it, they weren't exactly subtle either.
+
+This was not the time to be worrying about that, though, so once she verified that there were no more hostile monsters, she flew up toward the ceiling where Charlotte had carved out her home. {Aether Sense} detected only a single presence within, which didn’t bode well for Elise. If Charlotte had killed the missing student, that would be bad. She didn’t know how she would handle it if the monster that she had helped and tried to befriend caused that kind of tragedy.
+
+“Charlotte?” she called. “Charlotte, are you there?”
+
+There was no response.
+
+“Charlotte, I’m coming in. Please don’t attack me!”
+
+“Wait!” said a voice.
+
+Elise frowned. It was a male voice, and it was speaking Common. The student, then? She hadn’t asked for details about the student, so that seemed likely.
+
+“Who’s there?” continued the voice.
+
+Elise realized she had been calling in Fey, since that’s how she first spoke to Charlotte, so she switched to Common as she replied.
+
+“A friend,” she said. “Are you the missing student?”
+
+“Yes.” His words made Elise breathe a sigh of relief. “Are you here to rescue me?”
+
+“I am,” said Elise. “Are you in any danger right now? Will I be in danger if I enter?”
+
+“No, it should be safe,” said the voice. “I’m a bit injured, though.”
+
+“I’ll be right there!”
+
+Elise took a moment to shift her appearance, turning her hair blonde and her eyes blue, and changing the appearance of {Fey Wings} to be large and feathered like Ainar wings. It wouldn’t hold up to scrutiny if anyone actually watched her fly for more than a few seconds, but it would be good enough for now.
+
+With that settled, she flew up and into the mouth of the tunnel. The lair was not very complicated, fortunately. The vertical shaft rose for a few dozen feet before curving to be horizontal, at which point it split into three forks. The smell was horrid, and Elise saw glimpses of web cocoons filled with what she assumed was spoiled meat down one of the tunnels, but thankfully, the aether signature was down a different one that seemed relatively clean.
+
+For a moment, Elise wondered why there was no webbing covering the entrance to stop intruders like her from getting in, but the answer was obvious. The only monsters down here were crawlers. Crawlers couldn’t even get to the entrance. The only one who could possibly go in and out was Charlotte herself, and at that point, having a protective web would just be a hassle. It had been different back when she was evolving, and she had webbed off the entire tunnel, but now that she was out of the cocoon, there was no further need.
+
+She pushed those thoughts aside as she landed on the ground at the entrance to the chamber with the missing student and walked inside. The interior was quite spacious, but completely empty. The only things in there were herself and the other student. It was a young man, and he was wearing what Elise recognized as underclothes for armor. The armor that should have gone over it was nowhere to be seen.
+
+He looked generally unharmed, but when he entered, he groaned as he pushed himself to his feet, and clutched at his side as he limped forward to greet her.
+
+“Wilbur,” he said, holding out his hand.
+
+Elise had a brief moment of mental panic as she realized she forgot to come up with a false name, but recovered by the time she accepted his handshake. Then, she had a brief moment of confusion as she registered his name.
+
+“Laura,” she said. Sorry, Lauri. “And did you say Wilbur?”
+
+“Yeah. Something wrong?”
+
+“...It’s nothing. Are you injured?”
+
+“Just a couple broken ribs,” he said with a shrug. “Nothing a healer can’t fix up. Nothing my Fortitude can’t fix up in another week or so, even, but it’s painful right now.”
+
+“Did Charlotte do that?”
+
+“Oh, no, she saved me,” said Wilbur. “Kind of. She’s also the reason I was in danger in the first place. But not on purpose. Hold on, let me start from the beginning.”
+
+He briefly recounted the tale of how he had gotten where he was, from his ordinary hunt to the sudden horde of crawlers, ending with a glorious last stand where Charlotte appeared at the last moment to save his life. Afterward, she had taken him here, where he had been staying and recovering ever since.
+
+“She’s not a bad host, I guess,” he said. “She tries to keep me fed, at least. And she has a water source somewhere and keeps bringing me water-filled web orbs. I gotta say, though, the sleeping accommodations aren’t very comfortable. And the food she brings tends to be either raw, or raw and rotten. I would not recommend staying at the Charlotte Inn.”
+
+He chuckled at his joke, then winced in pain. Elise chuckled alongside him, but then frowned as she latched onto something else he had said.
+
+“Wait, did you say ‘she’?”
+
+Elise had also been thinking about Charlotte as female, but technically, a monster like that didn’t have a gender.
+
+“Yeah,” said Wilbur, frowning. “I mean, you know her, right? You knew her name. You know what she is.”
+
+“I actually gave her that name before she evolved. I have no idea what she evolved into.”
+
+“Oh. Well, she’s an Arachne, I’m pretty sure.”
+
+“An Arachne?”
+
+“Yeah, you know, the spider fey. Human on top, spider on the bottom. Like a centaur, but a spider.”
+
+“Ah, right,” said Elise.
+
+“I don’t think she’s part of that Ostra group, though,” said Wilbur, scratching his chin. “I guess it makes sense that she just evolved, actually. She’s pretty child-like. Well, in intelligence. Not so much in appearance, if you know what I mean.”
+
+“Yes, I think I get what you mean,” said Elise with an icy glare.
+
+Wilbur’s smile slowly melted.
+
+“Sorry. Anyway, though, I know you’re here to save me, but we should at least wait until she gets back. I think she’ll freak out if she gets here and I’m gone.”
+
+“Sure, that’s fine with me,” said Elise. “However…”
+
+“However?”
+
+“Technically, I’m not supposed to be here.”
+
+“You’re not?”
+
+“This section of the Dungeon is restricted and they’ve got knights scouring the place for you. I’d rather not let them know that I’m here.”
+
+Wilbur thought for a few seconds, then nodded.
+
+“Actually, I was thinking something similar. I know that Ostra group is a thing these days, but she’s still a monster, and I don’t know how the knights will react to her, or how she’ll react to them. I was kinda hoping I could just leave, and they’d never find out about her. I’d say I got lost or something. Then I’d try to find someone from that Ostra group to come help her before she causes another incident.”
+
+“Well…” said Elise. “You’re in luck. I’m with Ostra.”
+
+“Huh?”
+
+Elise shifted her appearance back to its default, showing off that she was a changeling, and Wilbur stepped back in surprise. Revealing herself like this was a little risky, but the disguise was mostly just a precaution, and she already planned on making him agree to a deal to leave, so having him keep her secret, or even just forget it, would be simple.
+
+When she shifted, Elise sensed a brief flash of fear, but it faded when she didn’t make any further moves, giving way to apprehension and curiosity.
+
+“Woah!”
+
+“I was keeping an eye on her because she had potential,” continued Elise. “I was checking in on her, but she finished her evolution in between check-ins, and then this happened. I came as quickly as I could to make sure she wasn’t getting into trouble, and to get you out safely if I could. Thankfully, it looks like we have just about the best-case scenario here. You’re fine, she’s friendly, and we can resolve this all pretty quietly. But I’m gonna need some assurances from you.”
+
+“S– Sure. By the way, can you just do that whenever you want? Like you can just change your appearance with a thought?”
+
+“To an extent,” said Elise. “It’s like a social skill, kinda. I can only use it a certain amount before it runs out of juice. But once I set a disguise, it can stay like that indefinitely. Anyway–”
+
+“Also, have we met before? You look familiar.”
+
+“I attend Jelor University in this form. But–”
+
+“Ohhh, that makes sense. Wait, hold on… Oh, I know where I’ve seen you! You’re in my Modern Language class! You’re always sleeping in the back! Well, you were. I haven’t seen you in a while. Did you switch to a new timeslot?”
+
+“I wasn’t sleeping, I was meditating. And I just stopped going to class. Anyway–”
+
+“Dang, I wish I could do that. My parents would kill me.”
+
+“Anyway!” Elise said loudly. “I need a few assurances from you.”
+
+“Right. Of course. What are they?”
+
+“Don’t tell anyone about Charlotte.”
+
+“Easy. Next?”
+
+“Don’t tell anyone about me.”
+
+“Also easy. What else?”
+
+“When you get out of here, forget that I was ever here, and forget this whole meeting.”
+
+“I’ll… try? Anything else?”
+
+“No, that’s all,” said Elise as the cool sensation of {Fey Bargaining} filled her chest.
+
+“Great! Anyway, I was actually just about to eat. Are you hungry?”
+
+“No, I ate dinner before I came down here.”
+
+“Suit yourself,” he said with a shrug. “More for me.”
+
+He limped back to the wall of the cave, slid down, and then a wooden tray appeared on his lap, followed by a bowl of what looked like gray paste. Elise squinted to get a closer look, and saw that there also seemed to be small black flecks and a few paste-covered nuts inside as well. A moment later, the smell reached her, and she almost recoiled as her nose was assaulted by mustard with a hint of fruit.
+
+“What is that?” she asked.
+
+“Gloop!” he said. “Family recipe. Wanna try it?”
+
+“Why does it smell like mustard?”
+
+“Ah, that’s the not-so-secret ingredient. Lots and lots of mustard powder.”
+
+“Why?”
+
+“Because it’s good for you,” he said proudly. “My family’s gloop recipe is the healthiest food in the world. It's been passed down for generations, endlessly refined and improved. Eat this twice a day, and you’ll never get sick, your mind will be more focused, and you’ll be able to max out your potential Fortitude. There are more than thirty different ingredients in this, all measured precisely and calculated perfectly to give you maximum health benefits.”
+
+“Does it taste good?”
+
+“It’s not so bad, once you get used to it. It’s better cold, though. This isn’t as fresh as I’d like it to be. My spatial storage’s preservation isn’t perfect.”
+
+“I see.”
+
+“So, wanna try some? I have a few extra servings. I always overpack for Dungeon runs. Good thing, too, because I do not want to eat that rotten bug meat that Charlotte seems to love.”
+
+I almost feel like the rotten bug meat would be more appetizing, thought Elise.
+
+“No, thanks,” said Elise.
+
+“It’s really good for you,” said Wilbur, holding up the bowl and giving her a look as if he thought the offer was tempting.
+
+“I’m good.”
+
+“Your loss,” said Wilbur with a shrug.
+
+The man proceeded to wolf down the entire bowl of sludge at an alarming speed, somehow not spilling any of it anywhere, then leaned back against the wall with a satisfied sigh. Though she felt bad about it, Elise couldn’t help but picture a pig eating slop. She normally wouldn’t have thought of something like that, but the man’s name was Wilbur, for heaven’s sake. How could she not picture a pig?
+
+They proceeded to chat for an hour or so about school and classes, and he was actually a good conversationalist. He did bring up his family’s gloop a few too many times for Elise’s taste, and she also occasionally got a whiff of mustard from his breath, but it was otherwise pleasant. She kept senses peeled for signs of approaching knights, but thankfully, nothing disturbed them, and close to the end of the hour, she sensed a powerful source of aether approaching. Elise immediately recognized it as Charlotte when it crawled up the ceiling of the larger cavern, then into the tunnel.
+
+“Wilbur!” called a woman’s voice.
+
+“Charlotte!” replied Wilbur. “There’s another of your friends here!”
+
+“Friends?”
+
+As she spoke, a head poked up from around the bend in the tunnel, revealing a woman with black hair and violet eyes. Elise smiled at first, but her smile quickly turned into an O of horror as the rest of Charlotte appeared and Elise realized the young monster was nude.
+
+“Friends!” shouted Charlotte, rushing forward.
+
+Elise shot a harsh glare at Wilbur, who at least had the decency to look ashamed before she suddenly found herself wrapped up in a very powerful hug.
+
+“Char– Lotte–” she said, barely able to get the word out.
+
+“Friends!” said Charlotte, her mouth right by Elise’s ear and her voice almost deafening.
+
+“Yes. Friends. Now. Please. Let. Me. Go.”
+
+Charlotte unfortunately didn’t seem to understand words too well, but she let Elise go anyway after a few seconds. The moment Elise was free, she looked back at Wilbur, who was now looking down at the ground.
+
+“Wilbur, turn around.”
+
+“I’m not look–”
+
+“Turn. Around.”
+
+“Yes, ma’am.”
+
+“Friends!” said Charlotte again.
+
+“Yes, friends,” said Elise, turning back to the spider girl with a smile. “Now, let’s get you a shirt.”
+
+A glance told her that Charlotte wouldn’t fit in any of Elise’s clothes, but fortunately, she had a spare set of clothes she kept for Jessie, and that would fit much better. She summoned it, and held it up so Charlotte could see it.
+
+“A gift?” asked Charlotte.
+
+“Yes, a gift! A shirt.”
+
+“Shirt,” repeated Charlotte.
+
+“Yes, a shirt.”
+
+“Yes, a shirt.”
+
+“Now, hold up your arms.”
+
+Charlotte tilted her head to the side, confused, so Elise demonstrated. Charlotte was still confused, but she mimicked Elise’s actions, and raised her arms.
+
+“Now, stay like that,” said Elise, floating up.
+
+It took a lot of coaxing, and a little bit of wrestling, but Elise eventually managed to get the shirt onto Charlotte’s body. The spider girl looked down with a frown, feeling the fabric with her fingers, so Elise took an opportunity to take a closer look at her new form. From the waist up, she looked almost completely human, aside from her teeth, which were sharp like a canine’s, for some reason. Below the waist, she had most of a spider body.
+
+There was no spider head, since that segment of the body morphed into the humanoid form halfway through, but for some reason, there was still a maw and a set of fangs. As Elise thought about it more, she realized it made sense, since eating enough food for the enormous spider body through the human mouth would be incredibly difficult, but she had to admit it looked a bit odd.
+
+She also took a moment to check her species, and saw that Wilbur had indeed made a correct guess.
+
+[ Solitary Acid Arachne, lvl ??? ]
+
+“Shirt?” asked Charlotte, pinching the fabric.
+
+“Shirt,” Elise confirmed. “You need to wear a shirt to make friends.”
+
+“Friends? Shirt?”
+
+“Yes. Shirt, friends.” Elise used {Suggest} to send the feeling of laughing with friends. “No shirt–” she lifted her own to expose her midriff to demonstrate. “–no friends.” She sent a feeling of loneliness.
+
+Charlotte looked incredibly sad when she felt that.
+
+“N– no friends?”
+
+“It’s okay,” assured Elise. “Because you have a shirt!”
+
+“Shirt?”
+
+“Yes! You have a shirt, so you can have friends. Shirt, friends.”
+
+“Shirt friends?”
+
+“Yes, shirt friends.”
+
+“Shirt friends!” said Charlotte before turning to Wilbur. “Wilbur! Shirt!”
+
+“You can turn back around now,” said Elise.
+
+Wilbur did so, hissing in pain, but he still smiled as he looked up at Charlotte.
+
+“Wow!” he said. “That’s a very nice shirt!”
+
+“Shirt!” repeated Charlotte happily. “Friends!”
+
+“Friends!” repeated Wilbur with just as much enthusiasm.
+
+At least he’s nice, thought Elise.
+
+“Alright, Charlotte,” she said. “Unfortunately, Wilbur is going to have to go home now.”
+
+“Wilbur?”
+
+“Yes. He need to leave.” Elise sent the feeling of slight disappointment at parting with a friend you wanted to spend more time with.
+
+“Leave?” asks Charlotte.
+
+“Yes. Wilbur has other friends–”
+
+“Friends?”
+
+“–that he needs to get back home to.”
+
+Charlotte did not seem to fully understand, but she knew that what Elise said was not pleasant.
+
+“Charlotte,” said Wilbur. “It’s been great, and I’m glad to be your friend, but I do need to get home now. I’ve been gone for too long.”
+
+“Wilbur?”
+
+“I have to go,” said Wilbur, pushing himself to his feet.
+
+“Wilbur hurt!” said Charlotte rushing forward to support him.
+
+“Yes, I’m hurt,” said Wilbur. “That’s why I need to go see a healer.”
+
+“Yes, a healer,” repeated Elise, sending the feeling of a wound being magically healed.
+
+“Healer,” said Charlotte, comprehension dawning on her. “Healer!”
+
+“Yes, a healer. He’s hurt, so he needs a healer.”
+
+Charlotte nodded in understanding.
+
+“Wilbur hurt. Wilbur healer.”
+
+“Yes, and to do that, he needs to leave.”
+
+Charlotte didn’t seem to understand that, but when Elise moved to pick Wilbur up and carry him out of the cave, Charlotte didn’t move to stop them. She followed them down to the main chamber, and then tried to follow them further as Elise continued to carry Wilbur further back up the tunnels.
+
+“No,” said Elise. “Stay here. I’ll be back. I need to take Wilbur to the healer.”
+
+“Wilbur healer?”
+
+“Yes. But you can’t come. It’s dangerous for you. Dangerous for Charlotte.”
+
+Elise sent a very light sense of fear, which made Charlotte shiver, but she seemed to understand well enough, and stopped trying to pursue them.
+
+Fortunately, it was not a long trip to find the knights. She sensed their aether after not even ten minutes of flying, and the moment she did, she set Wilbur down and made sure he could support his weight before pulling back.
+
+“There are some knights up ahead,” she said. “They can help you. I’m going to go back to Charlotte.”
+
+“Thank you,” he said. “Make sure she stays safe. She’s pretty naive.”
+
+“Yes, she is,” said Elise, frowning at him. “Did you really not have a spare shirt in your spatial storage?”
+
+“I did try to get her to wear one,” he said defensively. “But she tore it off because she didn’t like it. I didn’t think about the friend angle. That was smart.”
+
+Elise narrowed her eyes, but ultimately let it go. It wasn’t worth it, anyway.
+
+“Well, good luck getting home,” she said. “And thank you for being Charlotte’s friend. I’m glad she met someone like you, and not someone else.”
+
+“Me too,” said Wilbur, nodding. “Well, see you around.”
+
+“See you.”
+
+Elise soon returned to the chamber where Charlotte was waiting, wringing her hands in nervousness. Her face lit up when she saw Elise, but then fell when she saw that Wilbur wasn’t with her.
+
+“Wilbur?” she asked.
+
+“Wilbur is at the healer,” said Elise.
+
+“Oh,” said Charlotte, nodding in understanding. “Healer.”
+
+“Yes,” said Elise. “Now, it’s just us two. And I need to figure out what the heck I’m going to do with you.”
+
+Elise sighed, and Charlotte did the same. Then, Charlotte said something that Elise didn’t expect.
+
+“Shit!”
+
+Elise’s jaw dropped, then she scowled.
+
+Ah, that bastard.

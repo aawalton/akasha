@@ -1,0 +1,111 @@
+---
+id: ee820685-4617-5ae5-8c3b-5aa351f425fe
+page-type-slug: story-chapter-royal-road
+title: "152: Bloody Battle"
+slug: 0152-152-bloody-battle
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 152
+ownLength: 2124
+unit: words
+publishedAt: 2026-05-15
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3399725/152-bloody-battle"
+royalRoadId: "3399725"
+---
+
+Chloe was definitely a little bummed that Z had swooped in and completely stolen her kill, especially when she had been this close to leveling up, but after a moment, she decided to just drop it. It was what it was, and it wasn’t like that had been her only shot at getting stronger. There were going to be plenty more monsters ahead, and honestly, she couldn’t stay annoyed for long when Z looked like that. Because Z looked really apologetic.
+
+“Sorry again, I acted on instinct, and I didn’t realize you were planning to engage it yourself.” Z said sincerely.
+
+Chloe stared at her for a second, then huffed lightly and waved a hand. “It’s fiiine, there’s gonna be a big boss coming up anyway, so just make sure to let me land the finishing blow on that one, okay?”
+
+Z let out a small chuckle at that. “I think that’s a reasonable request."
+
+Chloe grinned as she gestured forward with a flick of her hand. “Alright, let’s keep moving then. This dungeon’s not gonna clear itself.”
+
+Z nodded and fell into step beside her, though she glanced over after a moment. “Do you know what we’re going to face next?”
+
+Chloe slowed just a little as she tried to think, her face shifting into that very obvious “thinking really hard” look. “Hmm, forgot the name, but I'm pretty sure the next boss is super themed around blood. Pretty sure it uses blood magic and all that creepy stuff.”
+
+“An opponent like that sounds quite dangerous. Do you have a plan for how we’re going to deal with it?”
+
+“Yeah, it’ll be easy, for me, at least. I don’t really have blood anymore, so all that blood magic stuff isk kinda useless against me.”
+
+Chloe tapped her chin before glancing back at Z. “For you, though… Yeah, it’s gonna be a little more complicated, but we can make this work."
+
+“I assumed as much, what kind of countermeasures are you suggesting?”
+
+Chloe scratched her cheek for a second, like she was figuring out how to explain it, then shrugged. “Okay, so, it’s probably gonna hurt a little, maybe a lot, but it'll totally be worth it! I promise!"
+
+***
+
+Morpheus loathed every moment he was forced to remain in this wretched dungeon, the very walls of the place a constant reminder of how far he had fallen. Were it not for the honeyed lies and silver-tongued manipulation of that insufferable angel, Ishgria, he would have never set foot in this place, let alone be bound to it. Regardless, if he was to be imprisoned, then he would at least make this place his domain, something worthy of his presence.
+
+He was the Flayed One after all, the Lord of Blood. And so despite being bound, he still had enough power to at least shape his own prison.
+
+His chamber was far more vibrant and expressive compared to the drab gray hall it once was. Statues lined the walls and filled the corners, each one made by expertly shaped flesh. Some of the flesh statues were frozen in poses of agony, while others seemed almost serene, their expressions eerily calm despite the unnatural way their bodies had been shaped.
+
+The chairs and tables in the hall were also constructed from interlocking bones and skulls. Even the throne at the center of the chamber rose from a mass of fused skeletal remains.
+
+Above it all, chandeliers made entirely of skulls hung from the ceiling, their hollow sockets glowing with steady, unnatural flames. The fire never flickered, casting a constant, eerie light that lit up the area.
+
+Morpheus was proud of his work in all its macabre glory. Thanks to his magic, despite not being able to physically leave his domain, he did manage to send out fragments of his power into the real world. And thanks to that, he managed to gather a group of fools to worship him and feed him flesh and blood.
+
+Of course, Morpheus hoped that one day, he wouldn't have to rely on the offerings of his followers. As there was nothing quite like feeling and tasting fresh blood with one's own senses.
+
+Every so often, challengers found their way to him, drawn in by the dungeon like moths to a flame, though time had long since lost its meaning in this place, and the last one… how long ago had that been? Days? Months? Years? It was difficult to tell.
+
+Regardless, what mattered was that they came at all. Fresh blood was necessary for his work, for his craft, for the delicate balance he maintained within this chamber. Fortunately for him, the doors to his chamber began to open. The stone doors parted with a slow, grinding sound, and Morpheus looked ahead as two figures stepped inside before the doors sealed shut once more.
+
+The first was a woman clad in a dark cloak, her face partially obscured. She moved with purpose and seemed to be very careful with her steps, and that alone told him more than enough. This one seemed like a veteran and was likely dangerous.
+
+Then his gaze shifted, and his expression darkened with immediate distaste as he took in the figure beside her, something that resembled a girl but carried none of the dignity of life, an undead thing, a crude imitation at best, likely some species of zombie judging by how convincingly human it appeared at a glance. Morpheus assumed she had to be a zombie because there was no blood in her, not a trace for him to sense or command. Although, what truly offended him was not what she lacked, but how she carried herself.
+
+There were many expressions Morpheus had come to expect from his challengers: weariness, bravery, fear, but never once had he seen one that looked genuinely happy. And yet, here stood a girl who was clearly undead, her presence carrying that unmistakable wrongness, and instead of the usual hollow emptiness or mindless hunger he associated with such creatures, she looked… cheerful. Her hood wasn't even pulled up, and there was an odd, lively energy about her that felt completely out of place in a chamber like his.
+
+She was smiling somehow, and Morpheus felt irritation rise almost instantly. What kind of creature walked into a place like this and looked happy about it? He'd wipe that smug smile out of the girl's face soon enough though, she'd learn the meaning of true fear.
+
+Morpheus stood up from his throne. Despite his growing bitterness, if these challengers had come this far, then they would at least be granted the courtesy of a proper welcome.
+
+“Welcome, challengers, you stand now within the domain of Morpheus, the sculptor of flesh, the sovereign of sanguine, the—”
+
+He stopped speaking because the two challengers suddenly vanished, and for a brief moment the silence that followed felt almost insulting, but Morpheus forced that irritation down and brought his thoughts back into order. Whatever trick they had used, whatever strange method allowed them to vanish so abruptly, it did not matter, because they had entered his domain, and that meant they could not escape him until he was dead, which of course wasn't going to happen.
+
+Although unexpected, the zombie girl struck first the moment she reappeared right in front of Morpheus and began a barrage of punches and kicks. Lightning wrapped around her limbs, each strike carrying explosive force as her speed was pushed even further by the energy around her.
+
+Morpheus avoided the first few strikes, slipping past them with minimal effort before raising an arm to block the next set of attacks. The impact echoed sharply, but his stance did not break, his body absorbing the force with ease.
+
+His body was far from ordinary. Every fiber of his musculature had been shaped and perfected through his control over blood, strengthened beyond natural limits, honed into something far more efficient than any mortal form.
+
+So Morpheus easily endured the zombie girl's barrage, and eventually, he found the opportunity to make a brutal counter attack. Morpheus twisted slightly, slipping past one of her kicks before driving his fist directly into her stomach with enough force to send a shock through the air. The force behind his punch launched her backward, her body tearing through one of the bone pillars behind her as it shattered on impact.
+
+Despite taking that hit head-on, it didn’t take the zombie girl long to stand back up. Morpheus narrowed his eyes slightly as he watched her brush the dust off herself, as if the impact had been nothing more than a mild inconvenience. There was barely any visible damage that should have followed a strike like that, and what little damage she did sustain quickly healed. He wasn’t entirely sure if zombies were supposed to be this durable, but judging by what he was seeing, this one was clearly not ordinary.
+
+But before Morpheus could make another move, he jumped back as a pillar of lightning crashed down from above. It slammed into the ground where he had been standing just a fraction of a second earlier, the impact exploding outward in a blinding flash of gold.
+
+Golden light was rather worrisome, as it meant that the lightning was likely divine in nature. That kind of energy was not something he could afford to ignore, not something he would allow to touch him if he could help it.
+
+It was about time he took things a bit more seriously, so Morpheus raised a hand as he began to channel his magic. Blood rose from everywhere at once, drawn from the soaked ground, and even from the seams of his grotesque statues, gathering in a dark, flowing mass.
+
+The liquid twisted and coiled as it rushed toward his palm, stretching and hardening into a blade of deep crimson. He closed his fingers around the hilt just as instinct took over.
+
+Morpheus turned sharply as he brought the blade up in an arc, catching the incoming strike from behind at the exact moment it would have landed. The clash rang out through the chamber as his blood-forged sword met a blade of pure light, the impact sending a brief shock through his arm before he steadied himself. The force pressed against him for only a moment before he adjusted, his stance settling as he redirected the pressure and then he turned fully to face his attacker.
+
+The hooded figure's weapon glowed with divine energy as she pressed forward. Morpheus would be more afraid were he a lesser being, but he still had many cards to play, one of which was quite effective indeed.
+
+His fingers twitched slightly, and her body twitched immediately. The hooded figure faltered mid-strike as her limbs stiffened against her will.
+
+Her posture collapsed under the pressure as she was forced downward, her knees striking the ground as her body trembled. The blood within her veins twisted and pulled in ways it was never meant to, turning against her as the pain followed.
+
+Morpheus’s smile widened at the sight. This was control in its purest form, this was power as it was meant to be, the absolute authority he held over something so fundamental that none should have been able to resist it. He allowed himself to enjoy his control over blood magic and over this foolish challenger, to savor the certainty of his inevitable victory
+
+At least, that was what he thought until he noticed a faint glimmer of gold slipping through the shadows of her hood. Light began to spill from beneath her hood, growing stronger as something within her stirred and pushed outward.
+
+Morpheus stepped back just as the air above her split open with a violent surge of energy. Golden lightning came crashing down and struck her directly, erupting in a blinding flash, and as the energy spread, Morpheus narrowed his eyes as he felt his control begin to slip.
+
+The lightning did seem to harm her at least somewhat, but that fact brought little comfort because the lightning also flowed through her body, threading through her veins in a way that burned through his influence and tore it apart piece by piece. The grip he had on her blood fell apart as the divine energy forced its way through, overriding him completely, and that was… deeply annoying.
+
+No matter, he would simply—
+
+“Hey, dummy, check this out!”
+
+Morpheus’s head snapped toward the source, feeling especially annoyed at the sheer disrespect of it, but the moment his eyes landed on her, he paused. The zombie girl stood a short distance away, her stance wide and steady, her arms raised as she held a mass of golden energy that churned between her palms.

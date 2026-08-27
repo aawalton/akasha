@@ -1,0 +1,157 @@
+---
+id: 510b72bf-c633-5896-a55b-4edae4bbed8b
+page-type-slug: story-chapter-royal-road
+title: "154 - People-Watcher"
+slug: 0157-154-people-watcher
+partOf: cat-girl-evolution
+position: 157
+ownLength: 2540
+unit: words
+publishedAt: 2026-08-26
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3866367/154-people-watcher"
+royalRoadId: "3866367"
+---
+
+The contract does look good, at least according to Abby, so half an hour after walking into the guild hall, I walk back out with Illiana at my side. I have yet to locate the meat pies, but the faint scent of the mystery herb remains, and I am hopeful that if I stick around long enough, she will bring them out. Maybe they’ll be a mid-Quest snack.
+
+Abby is still suspicious of Illiana, which is fair, I guess. The contract we just signed makes it basically impossible for her to have any kind of ill intentions, since it should prevent her from leading me into any kinds of traps or anything like that, but she does strike me as a little bit strange. But oh well. I can deal with a strange lady for a day if it means more of those meat pies.
+
+“So, are you from here?” I ask as we walk toward the edge of the city.
+
+“Oh, yes,” she replies. “Born and raised. I’ve never left.”
+
+“Never?”
+
+“I’ve never had a good reason to leave.”
+
+“Not even on vacation?”
+
+“I don’t really see much point in vacations. I have everything I need right here.”
+
+I look at her incredulously. I take back what I said earlier. She’s not “a little bit” strange. She’s insane.
+
+“But you’ve never wanted to see the world?” I ask.
+
+“You don’t need to leave Dryadil to see the world.”
+
+“…You don’t?”
+
+“My friends bring me memory crystals. I can experience the world from the comfort of my own home. No need to go through all the work of travel just to see something you’ll be bored of a few hours later.”
+
+I shake my head in disbelief as she continues speaking.
+
+“I think people are much more interesting to watch, and there are more than enough people to keep me occupied for ages.”
+
+“So you’re a people-watcher?”
+
+“Yes, I think so. I like that term. People-watcher.”
+
+“Is that why you wanted to come on this Quest with me?”
+
+“Perhaps,” she says with a mysterious smile.
+
+“I see…”
+
+“She is extremely suspicious.”
+
+Maybe. Or maybe she’s just weird. Or autistic. Do you have a problem with autistic people? Are you ableist or something?
+
+“Just be careful.”
+
+Yeah, yeah.
+
+“So, watched any interesting people lately?”
+
+That question carries us all the way to the city limits, and then some. Illiana has apparently seen quite a few interesting people lately. There’s the balloon lady, course, and then the paladins, but those are really only the surface. They’re new faces in town, but there are plenty of old faces too.
+
+There’s a woman who dreams of finding love in adventure, but goes through three men a month, because none of them can meet her absurd standards. She’s dated half the men in the city at this point, and some of them twice, but none of them have lasted longer than a month.
+
+There’s a man who insists that he’ll get his Epithet any day now, despite only being Tier 4 and having no great achievements to his name. He’s convinced that he’s got what it takes, and all he needs is an opportunity. He signed up to join the paladins in their assault, and claims he’ll be the one to take out Zorg, but Illiana says he’s more likely to hover at the back and fight just well enough to survive.
+
+There’s a pair of twins who are basically the opposite of A and B, constantly bickering and arguing while they work, and no one else wants to join a Party with them, because they make each other and everyone around them worse, but they also refuse to split up. Their Classes are not at all complementary, their teamwork is awful, and they’ve nearly died multiple times because they were arguing too loudly to notice monsters walking up on them, but any time anyone brings up perhaps working separately, they act like they were told to kill each other.
+
+Illiana goes on and on, talking about more than a dozen different people, all interesting in their own ways, and the longer she goes on, the more likely her story seems. I think she might actually just be a weirdo who really likes watching people. She knows too many weird details about too many people for this not to be something she does regularly. Abby suggests that maybe she’s an information broker or something like that, which I guess is possible, but if she is, I’m pretty sure she’s in the business because she enjoys it.
+
+As we get out of the city and start traversing the swamp, without even breaking her monologue about some old guy who keeps flirting with the guild receptionist, she waves her staff, and roots grow downward, twisting together to form a flat platform below her feet. I conjure a mana hand to float above the water on, but her wooden platform starts shooting vines out, latching onto the tree branches above to pull her forward.
+
+The craziest part is that she doesn’t swing at all. For a half second, I expected her to go swinging around like tarzan, but no, somehow, her movement is perfectly still. The vines extend and contract with impossible precision, pulling her forward at a steady pace without any movement up or down. I know I’ve seen the twins do some crazy stuff, especially with their artificery, but this one casual spell alone is easily the most impressive display of magic I’ve ever seen. And she barely even acknowledges it, continuing to tell me about the old guy’s latest attempt to woo the guild receptionist.
+
+With me reclining on my hand, and Illiana leaning back on the wooden chair that has since grown out of her platform, we travel through the swamp in what is perhaps the most relaxing rapid movement ever. I have to burn through a lot of mana to keep up with her, but I just summon some of the maligar fruit lassi we made in my Dungeon to replenish my reserves while we chat.
+
+Interestingly, her mode of travel doesn’t seem to use much mana at all. It all seems to be contained in her staff made of living wood, and most of the mana stays within it, even while the vines are growing and contracting. I guess that makes sense, though. Right now, I am forcibly shoving the mana hand that’s bearing my full weight through the air, holding it up by burning mana, while she is just manipulating what already exists. It’s similar to how adding wings to my hand helped it move on its own when I was flying under those floating islands. I’d experiment with that here too, but I feel like I’d embarrass myself, which I kind of don’t want to do now that I know how much of a gossip Illiana is. I’ll just hope she doesn’t notice how much mana I’m actually using to maintain this pace.
+
+“…doesn’t even know that–!” Illiana suddenly cuts off mid-sentence, turning to face ahead. “Ope, monsters ahead.”
+
+She starts to slow down, and I match her, focusing my senses ahead. We’ve passed by a few monsters and groups of monsters already, but none of them were aggressive or fast enough to attack us while we traveled. The fact that she’s stopping us now means that these aren’t ones we can easily go over, and are strong enough to pose a threat.
+
+I can’t sense them, though. Whatever they are, they’re out of the range of Food Sense, and I don’t even hear much. Maybe some distant splashing?
+
+“What are they?”
+
+“Verdant Merboars,” she says. “Eight of them, 500 meters ahead.”
+
+“How can you tell?”
+
+“I said I was a support mage, didn’t I?” she says with a smile. “Detection is my specialty, and you can’t hide from a druid in a swamp like this.”
+
+That’s… creepy. But also useful.
+
+“How dangerous are they?” I ask.
+
+“Not that dangerous, but they’re aggressive, and fast enough to get in the way. We can go around them, if you’d like. It’ll only be a slight detour.”
+
+I think for a second, then shake my head.
+
+“Nah, let’s go through. I wanna try some meat. I also wanna see what they look like.”
+
+“Alright, then,” she says, nodding. “I’m no good at offense, but I should be able to immobilize a few of them. The ones that don’t will try to jump out of the water at you, so be ready. Their hides are tough, but I’ve heard you have spatial magic, so that shouldn’t be an issue.”
+
+“Nope,” I say. “Let’s go.”
+
+We continue forward, and after a few more seconds, I finally sense them. The water isn’t too deep—probably only ten meters in the deepest parts—and the monsters in question are floating along the bottom. I can sense them with Food Sense before I see them, and they seem pretty weird. They’re kinda like manatees, but if manatees had boar faces and long tusks. They also have a lot more muscle than I would expect a manatee to have, as well as some plants and algae and stuff growing out of their skin.
+
+As we get close, they suddenly become a lot more active, all turning to face where we are. They can’t see us, and I would be surprised if they could hear us, so they must have something similar to whatever Illiana used to sense them. I notice them tensing up in the water, clearly ready to spring up and attack, but before we get in sight, the roots from the trees suddenly come alive, reaching out to seize them.
+
+The two largest manage to break through the roots, but the rest end up stuck, thrashing in the water, kicking up mud and turning the whole area into the murky mess. The two that managed to avoid the root trap swam around in a semicircle, though, and the moment I enter their line of sight, just like Illiana said they would, they leap out of the water, tusks aiming right for me.
+
+They’re green. I guess that should have been obvious from their name, but I was kind of expecting something more normal. But no, their skin and fur are green, and the plants growing out of the skin are also green. I get a good look at them as they fly toward me, then Blink out of the way.
+
+Sword already drawn, I swing it in a wide arc, while activating Spatial Slice, instantly beheading one. At the same time, I command my mana hand to move, and as the other boar flies through the empty space where I was just standing, the hand moves up to grab it out of the air. The hand is nowhere near strong enough to hold the merboar, and when it squirms, the construct breaks almost immediately, but that split second it was stopped in the air was enough for me to Blink over to it and behead it too.
+
+I focus back down at the ones in the water, and find that one of the remaining merboars, the weakest one, is already on the verge of death. The roots are digging into its body, piercing through its eyes and nearing its brain. A couple of the others are still thrashing to try and break free, but two of them have gotten out of the roots, and are now growing plants of their own.
+
+They leap out of the water, this time aiming for Illiana with vines growing out of their back. Illiana doesn’t seem worried, and twitches her staff. Sharp roots shoot out of the ground, intercepting the merboars midair. I expect to see them get impaled, but instead, they just kind of bounce off. I guess Illiana was right about their tough hides. I spot bloody wounds on their stomachs where the roots hit, but they don’t look particularly deep, and they’re still quite lively as they fall.
+
+I don’t give them a chance to hit the water, using Multi-Snatch to grab them both out of the air, depositing them right in front of me for a double beheading.
+
+The weak one dies a moment later, and another seems to be on the way, but the other two are on their way out of the root trap. Not wanting to waste any more time, I give Illiana a look, which she immediately understands. The roots let the two escaping ones go, and as soon as they’re free, I Snatch and kill them too. A few seconds later, the last ones die, and the swamp goes quiet.
+
+“That was great!” says Illiana, floating over on her suspended platform. “Spatial magic sure is nifty!”
+
+“Yep,” I say, sending construct heads into the water to grab all the corpses. “The nature magic was nice too.”
+
+“I wish it was stronger,” she says with a sigh. “It’s useful for traps and detection, but it’s hard for me to kill stronger monsters on my own.”
+
+I glance down at the merboar with roots growing into its skull, tearing its brain apart.
+
+“I dunno,” I say. “Seems pretty strong to me.”
+
+“Well, situationally,” she says with a shrug. “Not much raw power, though.”
+
+“Yeah, I guess… Wait, hold on.”
+
+I look closer at the roots she used, to trap the merboars. She pulled from four different trees to ensnare them, but one of those is an offshoot tree of Dryadil, which means it’s part of the dryad’s body.
+
+“You can use Dryadil for your magic?”
+
+“Oh, yes, of course,” says Illiana, nodding. “She doesn’t mind. It’s actually easier for druids to use her than other trees, a lot of the time.”
+
+“Huh. Interesting.”
+
+A few seconds later, we’re off again, flying through the forest while Illiana continues the story she was telling. It’s about a married couple who was dissatisfied with their relationship. Both of them wanted some more excitement, so they went to a local licensed vivitect to get some temporary alterations, and then they went to the same tavern and ended up right back together, not realizing who they were. They cheated on each other with each other without even knowing it. According to her, they still hadn’t realized it, and she was excited for the moment they finally did.
+
+She tells a few more over the next hour, and then close to noon, we finally near our destination. The Quest said that the cult activity was in some kind of ancient ruins, so I was expecting a bunch of half-submerged buildings or something, but instead, I am surprised to see something oddly familiar. I know for a fact that we went almost the exact opposite direction that Zorg is in, but the “ruins” we arrive at look just like his territory.
+
+The ground is all flat stone, with narrow waterways running in between, and while they are much fewer in number, there are some more landbound monsters relaxing on the flat stones, sunbathing in the one part of the swamp that the sun can properly reach.
+
+“We’re here!” says Illiana, lowering herself down onto the nearest stone as the vines and roots are pulled back into her staff. “The Southern Ahuitl Ruins!”

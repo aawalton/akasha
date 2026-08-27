@@ -1,0 +1,159 @@
+---
+id: fabe0f97-5bcb-53a1-9ab3-bb0cb20a07bd
+page-type-slug: story-chapter-royal-road
+title: "86: Remnants"
+slug: 0086-86-remnants
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 86
+ownLength: 1890
+unit: words
+publishedAt: 2025-12-14
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2847264/86-remnants"
+royalRoadId: "2847264"
+---
+
+When Chloe stepped through the hole in the ancient door, she expected something epic, maybe some floating magical stuff, or at least a creepy altar in the middle of the room. But instead, she was met with... emptiness.
+
+The space beyond was massive, stretching far in every direction, and surprisingly quiet. Rows of stone pillars lined the floor, each one towering high into the darkness above until they disappeared into the shadows. The ceiling was so far up, that she couldn’t even tell if there was one.
+
+Chloe walked a few more steps in and squinted, trying to make sense of it. “…Where are we?”
+
+Sierra stepped up beside her, nose twitching as she sniffed the air. “I have no idea. But it smells like the dead in here.”
+
+Chloe tilted her head and gave her a sideways look. “That’s probably just me.”
+
+Sierra didn’t even hesitate. “It’s really probably not this time. I know your scent.”
+
+Chloe stared at her. Then pointed at herself. “…Should I be flattered or creeped out?”
+
+Sierra didn’t answer Chloe’s comment. Instead, she just sighed and then stepped forward, scanning the vast, empty room with narrowed eyes. “We should figure out where we are first."
+
+Chloe pouted, then followed with a hop in her step. “Fine, fine."
+
+They walked in slow circles through the massive hall. The pillars were spaced out evenly, and Chloe peeked behind a few, expecting secret switches or spooky skeletons. But she didn't have much luck in that area. The place really looked abandoned. Some of the stones were cracked or chipped, but everything was eerily clean.
+
+“I’m gonna say it,” Chloe muttered as she peeked into yet another sad, empty corner. “This place sucks. It’s like someone built a dungeon and then forgot to add all the fun parts.”
+
+Sierra gave her a side‑eye. “You think ‘fun’ includes traps and monsters?”
+
+Chloe opened her mouth to answer, but then the air shifted. The sound that followed wasn’t much better. A deep growl crawled across the floor, low and guttural, like something big was clearing its throat. “Okay, that wasn’t me.”
+
+The ground near the far pillars darkened, shadows stretching out and pooling together. Then, these weird monsters began to rise, twisting and curling into sort of distorted, almost wolf-like shapes.
+
+A dozen red eyes flickered open, followed by rows of teeth, arranged in ways that made Chloe’s brain quietly protest. The creatures looked vaguely like wolves, if wolves had been designed by someone who had read the description once and decided to improvise halfway through. Their bodies were long and thin, their legs bent wrong, and their movements were all jerky and floaty.
+
+Sierra’s posture shifted instantly as her claws were coated in a shimmer of shadow. “Looks like we got company.”
+
+Chloe cracked her neck and rolled her shoulder. “Finally! Something to punch!”
+
+The first of the shadow wolves lunged, its mouth stretching wider than it should have been. Sierra moved before it could reach them.
+
+Her claws flashed once, slicing clean through its neck, and the creature collapsed into a splash of dark mist that drifted apart like smoke in the wind. Another wolf darted at Chloe, jaws snapping. She ducked low, kicked out to sweep its legs.
+
+It stumbled anyway, giving her just enough time to slam her fist straight into its face. The blow landed with a crunch, and the creature shattered into swirling fragments of mist.
+
+The rest came in waves. There were too many to count, darting between pillars and weaving through the darkness. Chloe and Sierra fell into a messy rhythm, slash, punch, dodge, repeat.
+
+By the time the last shadow wolf fizzled into mist, the silence that followed was way too loud. Chloe stood in the middle of the smoke trails, fists still half-raised, waiting for a notification, or specifically, several notifications to let her know what a great job she did. Maybe, if she got lucky, she'd get a level up too.
+
+But after standing around for a few minutes, nothing happened. Chloe glanced around, checking her screen just in case it was being shy. Still blank.
+
+“Huh, I didn’t get any notifications after beating up all those shadow wolfies.” She said out loud.
+
+Sierra looked over at her as she scanned the room. “Same here. Nothing popped up for me either. That probably means they weren’t real monsters. Just some kind of special illusion.”
+
+“But they felt real! My fist punched straight through one of them, and it definitely cracked like a real thing.”
+
+“Maybe, but this whole place feels weird. Maybe the illusions here aren’t made the normal way.”
+
+“Then where do you think they came from then? Like… what were they? Shadow ghost wolfies?”
+
+“If I had to guess… maybe some kind of ghost? A memory? I don’t know.”
+
+“A ghost of what though? Like… shadow wolfies that used to be real wolfies? Or people who got turned into wolfies?"
+
+“I just meant, you know… since we ran into those Luphian skeletons earlier, maybe this whole place is crawling with undead.”
+
+“So what you’re really saying is… those shadow wolfies were, like, angsty ghosts of other wolfies who died in battle?”
+
+“Uh… maybe? I guess? Anyway, enough about that. Let’s look around. Maybe there’s something here that'll actually tell us what this place is. If we’re lucky, it might lead us deeper into the ruins, and maybe even help us find Sabine and Scar.”
+
+“Kay, let's go!"
+
+With that settled, Chloe returned to her very serious, very important mission: stomping around and poking things that probably shouldn't be poked. Every now and then she kicked a pebble or gave a pillar a suspicious nudge, just in case it was secretly a lever or something cooler.
+
+Sierra followed a few steps behind, much quieter, eyes scanning the shadows with quiet focus. Her claws were still faintly shadowed, just in case. Where Chloe stomped and poked, Sierra watched and listened.
+
+Eventually, they reached a wall. Well, another wall. But this one had deep carvings etched into the surface.
+
+Chloe squinted up at the carvings. “Okay, this is definitely trying to say something.”
+
+Sierra stepped in close and brushed away a layer of dust with her sleeve. As the grit cleared, more of the carving came into view. It showed a massive creature, with its jaws open wide.
+
+The way it was drawn gave it a wild, almost feral energy. All around it were smaller shapes. Maybe people. Hard to tell. They looked like ants compared to the thing in the center.
+
+“This whole place…” Sierra murmured, eyes narrowing as she studied the images on the wall, “it feels like it was built for something big. Like it was meant to honor this thing.”
+
+“You think it’s, like… a giant rat?”
+
+“No. I was thinking more like… a wolf. A really, really big wolf.”
+
+“Mmm. I guess that makes more sense. But what if it is a rat, though? A really heroic one. With big dreams.”
+
+Sierra didn’t bother answering that. She just rolled her eyes and gave a small sigh. “Whatever. Anyway… what do you think we’re supposed to do now?”
+
+Chloe tapped her lips with a finger, expression suddenly very serious. She looked around the vast chamber. There were just a lot of stone pillars, shadows, and a whole lot of rock.
+
+Until eventually, something caught her eye. “Ooh! Shiny!”
+
+Sierra turned her head slowly. “I don’t see anything.”
+
+Chloe squinted and jabbed her finger harder. “Right there. Between those two big pillars. Something sparkled."
+
+Without waiting for confirmation, she took off at a brisk, almost bouncy pace. Not quite running. More like a determined skip.
+
+Sierra didn’t move at first. After a second sigh, she finally jogged after Chloe, muttering something under her breath that probably wasn't too important.
+
+Chloe bounded ahead, weaving between cracked pillars and piles of ancient rubble like she was on a treasure hunt. Cloaky fluttered behind her as she charged toward whatever had caught her eye.
+
+She didn’t slow down until something shimmered again near the far wall. Between two thick stone columns stood a huge iron gate, its bars blackened with age and twisted in places like something had clawed at it from both sides. But it wasn’t the gate itself that made her jaw drop.
+
+It was the glowing words floating just above it, etched in light and dancing faintly like heat off stone. Big, ominous, magical letters hovered above the cage door, glowing a soft but eerie white.
+
+“Abandon hope, all who enter here.” Chloe said, reading out loud.
+
+Sierra caught up a moment later, panting slightly as she stopped beside her. She followed Chloe’s gaze up to the floating words, her expression tightening. “That’s… not a great sign.”
+
+“Look at this thing! It’s got glowing words and stuff."
+
+“It also screams ‘do not open.’ I mean, come on, Chloe. If even the dungeon itself is warning us, maybe we should not go in there?”
+
+“Or maybe, there's something cool inside and we should totally go in."
+
+Sierra gave her the blankest stare she could manage. "Seriously?"
+
+“I mean, if you were hiding something cool and dangerous, wouldn’t you put a creepy warning on it to scare people off?”
+
+Sierra looked like she had a whole list of reasonable things she could’ve said, probably boring things. But halfway through trying to choose one, she gave up with a soft groan and muttered something under her breath. Chloe couldn’t hear the words exactly, but she was pretty sure it was something about how they shouldn't go in.
+
+Not that it mattered. Chloe had already turned toward the creepy cage door. With both hands, she grabbed the iron bars and gave them a dramatic shake, rattling them. Unfortunately, the door didn’t budge.
+
+Chloe huffed and took a step back. Then she cracked her knuckles one by one with flair, grinning to herself as she eyed the door. I am so not losing to some stupid door.
+
+With a mighty yell, Chloe threw herself at the door. It let out a deep, rusty groan but stayed stubbornly shut. She bounced off with a frustrated oof and immediately squared up for another round.
+
+The second slam was louder. The third came with a powerful kick. The hinges screamed, and one of the bars bent inward with a crunchy metallic squeal. Chloe followed up with one last, grunt and shoved herself through the gap she’d created.
+
+She popped out on the other side, victorious, though a little dusty. "Hurray!"
+
+Behind her, Sierra stood in silence for a long moment, staring at the bent cage door with the resigned expression of someone already mentally preparing a complaint report. Eventually, she sighed and slipped through after her.
+
+Anyway, the darkness here was really thick. Like, darker than dark, maybe advanced darkness?
+
+There weren’t any glowing runes or floating torches. Just cold stone, long shadows, and the heavy silence of a place that probably hadn’t seen visitors in a very long time.
+
+Chloe cupped her hands around her mouth without a second thought. “HELLOOOO? ANYONE IN HERE? WE BROKE YOUR DOOR!”
+
+Sierra reached toward her in alarm. “Chloe, no, get back—”
+
+Suddenly, from deep within the shadows, a voice stirred. It rolled out low and thunderous, echoing through the chamber. “Well now, what do we have here?”

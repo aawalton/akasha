@@ -1,0 +1,301 @@
+---
+id: 44fe8603-2624-556c-9438-2cf2cc308f59
+page-type-slug: story-chapter-royal-road
+title: "42 - Cooking Lesson"
+slug: 0042-42-cooking-lesson
+partOf: cat-girl-evolution
+position: 42
+ownLength: 2617
+unit: words
+publishedAt: 2025-10-29
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2713467/42-cooking-lesson"
+royalRoadId: "2713467"
+---
+
+Lauren’s “house” is a mansion. I now see that when I acted surprised that she had a house, that was truly the peak of ignorance. Apparently, Gold ranked Adventurers in places like this where Gold is one of the highest ranks live very well. Her house is almost as big as mine was in my first life, and it has a huge yard. Everything in it is nice, and she even has live-in maids.
+
+And of course, included in the house is a very large, very nice kitchen. There are a bunch of devices and appliances that I don’t recognize, but as Lauren explains them, I’m able to figure out their earth equivalents. The thing about this world is that magic inscriptions are much smaller and more hideable than electronic wires, and mana barriers can be invisible, so an ordinary-looking pot might actually be a pressure cooker, and a steel cage can be an oven. Another really cool thing about magic is that it’s not as bound to the laws of physics as other things, so the oven can actually heat the entire volume evenly instead of having heat sources all around. Because of that, I bet learning to use all these new fancy appliances would take just as long as learning how to cook.
+
+“What kind of food do you want to eat?” she asks after showing me around.
+
+“Meat,” I say immediately.
+
+“Yes, but what kind?”
+
+“Scallops.”
+
+“I don’t have any scallops.”
+
+“...What is your opinion on cooking the meat of human-shaped monsters?”
+
+“You mean the Ichthyoids.”
+
+“And the other seafoodmen.”
+
+“Some people have a problem with it…” she says. “But I personally don’t. They’re monsters. Just because they happen to be shaped vaguely like people doesn’t make them people.”
+
+“I completely agree,” I say, summoning an octodude from my Stomach. “Let’s eat this.”
+
+“Okay…” she says, looking down at the body. “But please don’t leave bloody corpses on my floor. Move it to the table and I’ll start cutting it up.”
+
+Lauren calls one of her maids in to clean up the mess I left on the floor as I transfer the octopus up to the table. She starts cutting it up, removing the beak, the eyes, and the organs, then cutting it up into more cookable pieces. She explains everything as she works, and most of it goes over my head, but she has me make a few of the cuts, and that’s kind of fun.
+
+“Right there,” she says, pointing to a place on the joint right at the base of one of the tentacles.
+
+“Okay,” I say, then I grab the knife and use Spatial Slice to make a nice, clean cut. The countertop gets cut a little bit too, but the cross section of the tentacle looks beautiful when I pull it away.
+
+“Like this?” I ask, holding it up for her.
+
+She stares at me.
+
+“Did I mess up?” I ask.
+
+“Don’t use spatial magic to cut if you can’t control it well enough not to cut my counter.”
+
+“Are you suggesting I can’t control my own Skill?”
+
+“Are you suggesting that you damaged my counter on purpose?”
+
+“...Oops?”
+
+Damn, she has a point. I should really work on controlling Spatial Slice a bit better.
+
+“Maybe you should tell her that.”
+
+No, that would be letting her win.
+
+“Well, then please don’t do that anymore,” says Lauren coldly. “Now, this tentacle is too big to fit in any of my pots, and even if I had a pot big enough, we wouldn’t want to put it all in at once. We’re going to want to cut it into segments that are about even in width. Try to pick the best places and make the cuts. And don’t damage my counter this time.”
+
+I look at the tentacle, studying it intently, then pick a spot that looks good near the narrow end and lower the knife. I activate Spatial Slice again, but this time, I don’t cut quickly. I just let the sharp spatial mana coat the blade as I bring it down very, very slowly. This works really well. I forgot how good Spatial mana is at cutting things.
+
+When I get the knife almost to the end of the tentacle, instead of going all the way into the stone counter, I raise the tentacle itself up a millimeter or so, letting the knife go all the way through without ever touching the counter. I was a tiny bit worried about messing that part up, but as it turns out, I had nothing to worry about. My Finesse is so high that it made the motion feel smooth and easy, and as precise as I was, I feel like it’s not even close to as precise as I could be. Actually, I could probably chop all the way through, stopping right at the counter without lifting the tentacle if I wanted to.
+
+I do exactly that with the next cut, and the one after that. Man, these stats are really cool. I should probably look more into how each of them affects me. I mean, I noticed how easy it was to keep my balance and move around before, but I never really did a whole lot of fine motor control stuff, so I didn’t realize the full extent of what Finesse was doing for me. And that Sensitivity stuff over by the Adventurer’s Guild was pretty crazy too.
+
+“It’s one of the downsides of leveling up so quickly,” says Abby. “You probably aren’t even aware of a quarter of what you can do with just your raw stats alone.”
+
+Yeah… Man, this world is cool! If only they had the internet.
+
+Lauren continues teaching me how to cook as we continue to prepare the octopus, though she handles some of the parts so she can use whatever cooking Skills she has to infuse the meat with mana. Well, more mana. Or different mana. It already has quite a bit naturally, but somehow, hers makes it taste better or something.
+
+It’s pretty interesting, but it also kinda sucks because it takes forever. By the time we finish, it’s been over an hour, and my stomach is growling like an angry dog. Almost as soon as the octopus comes off the grill, I take a big bite, ignoring the pain in my mouth. Despite the wait, it was worth it. This is delicious. But still…
+
+“Is cooking always so tedious?” I ask after eating enough octodude to feel kind of mostly full.
+
+“Tedious?” says Lauren. “I think it’s pretty interesting.”
+
+“I guess…” I say. “But it’s a lot of work. It’s more fun to just order someone else to make me food. Do I have to take a cooking Profession?”
+
+“...You’re the one that wanted me to teach you.”
+
+“Yeah, but isn’t there an eating profession? I have Taste Tester available. Maybe I should just take that.”
+
+“Taste Tester is more about testing foods to see if they’re edible. You get poison resistance Skills and things to make your digestive system more resilient. Its evolution options are pretty limited though. However, there are connoisseur Professions.
+
+“Okay, I want one of those instead.”
+
+“But they are evolutions of cooking Professions.”
+
+“What?! Why!? Shouldn’t they come from Taste Tester instead?”
+
+“I don’t know,” she says with a shrug. “Because the System says so. Professional Connoisseurs say that a cooking Profession is a required background to be able to properly judge food. I guess I kind of agree. I thought I knew a lot about food when I started cooking, but after, I realized how wrong I was.”
+
+“This sucks.”
+
+Abby, file a complaint with the System developers for me! Right now!
+
+“Okay, but it’s not going to do anything.”
+
+Do it anyway.
+
+“I said ‘okay,’ didn’t I?”
+
+I don’t like the tone of your voice, Ibberia.
+
+“Okay.”
+
+“If you’re annoyed by the cooking process though, there are other options beside connoisseurs though,” says Lauren. “Especially for you with your constructs. There are Professions that automate the cooking process using mana constructs. You’d be able to sit back and relax while your mana constructs do all the work. The food wouldn’t be quite as high quality as a by-hand chef Profession of the same level, at least at the lower tiers, but it will be better than anything you could cook without the Profession, and you can focus on increasing the quality with further tier ups.”
+
+“Minion, you’re a genius!” I exclaim. “That’s exactly what I want! How do I do that?”
+
+“Well, you’d still have to start with a regular cook Profession,” she says. “Or some variation. You could probably get there with Campfire Cook if you really wanted to.”
+
+“Heck no.”
+
+“Then you’ll want to wait until you have the regular Cook Profession. Actually, it should be available to you now. Tier 0 Professions are super easy to pick up, so just being taught by me should have been enough.”
+
+“Oh, I’ll check!”
+
+Abby, show me my Professions!
+
+[ Profession options: ]
+
+[ Taste Tester ]
+
+[ Campfire Cook ]
+
+[ Cook ]
+
+[ Manager ]
+
+Huh. What’s the Manager Profession? Where did that come from?
+
+“The Manager Profession deals with organizing people, generally. You probably got it by making Lauren your minion.”
+
+Ah, that makes sense. Sounds kinda lame though. Should I just take Cook? Cook sounds pretty lame too.
+
+“As I’ve said before, all Tier 0 Professions are going to be ‘lame.’ Cook is solid. There are other variations of it, like Campfire Cook, but none that are strictly better. Not unless you apprentice under a very accomplished cook, which would be difficult to do.”
+
+It would probably suck too. I don’t want to be called an idiot sandwich. I’m not an idiot sandwich. I’ll just take Cook. Give me Cook.
+
+[ Are you sure you wish to finalize your Profession Selection? Once finalized, you will not be able to change your Profession without divine interference ]
+
+Yes
+
+[ You have selected the Cook Profession! Skills and Stat points have been assigned. Please refer to your Status Window for changes ]
+
+Royal Status Window!
+
+[ Name: Yona ]
+
+[ Age: 0 ]
+
+[ Species: Yona, the Gastronome. Tier: 2. Level: 18. ]
+
+[ Class: Wannabe Vivitect. Tier: 2. Level: 2. ]
+
+[ Profession: Cook. Tier: 0. Level: 1. ]
+
+[ Titles: Second Lifer, System Breaker, Named, Taker of Names I ]
+
+[ Traits: Cat-like Reflexes, Gluttony, Spatial Affinity, Nimble, Fire Affinity, Custom Namecard ]
+
+[ Stats ]
+
+[ Power: 4102 (+2823) ]
+
+[ Finesse: 7264 (+4997) ]
+
+[ Resilience: 5011 (+3448) ]
+
+[ Memory: 5818 (+4003) ]
+
+[ Willpower: 5850 (+4025) ]
+
+[ Sensitivity: 7741 (+5325) ]
+
+[ Skills: Spatial Slice, Stomach of the Glutton, Bite of the Glutton, Snatch of the Glutton, Blink, Ember, External Mana Manipulation - Anatomical Constructs of the Glutton, Meditate of the Glutton, Perfect Disguise, Anatomical Analysis, Internal Mana Manipulation - Fleshbender, Timer, Culinary Analysis ]
+
+Hey look, my Power made it over 4000! And my Resilience is at 5000! And I’ve got new Skills. Timer and Culinary Analysis. Testing time. Timer!
+
+[ Set Timer: 00h00m00s ]
+
+Wow, that’s really basic. Pretty useful for cooking I guess. Alright, what about Culinary Analysis! Oh, I probably need food. Lauren didn’t finish her octodude. Culinary Analysis!
+
+A new window appears showing a few details about the dish. It’s nothing too fancy, and it’s not very useful, since I already know pretty much all the details, since I helped make it, but there’s an interesting feature at the bottom where it judges the overall quality of the food. This octodude is apparently of “Passable” quality. Very interesting. I wonder how it judges that? It tasted more than passable to me. Unless it judges based on the potential, given the ingredients. That would be very interesting. I’d love to try food that’s better than “Passable.”
+
+“Did you select?” asks Lauren. “You look like you’re using Culinary Analysis.”
+
+“Yeah,” I say.
+
+“It’s not super useful at its base level, but once you upgrade it, it gets good. I went with Critical Culinary Analysis, which tells me ways that my cooking failed, and then from there, I upgraded to Detailed Critical Culinary Analysis, which suggests ways to improve.”
+
+“Wow, the System is really bad at naming everything. What’s the next upgrade, Greater Detailed Critical Culinary Analysis?”
+
+“...That’s definitely one of the options,” Lauren concedes. “But I’m not quite there yet, and I probably won’t be for a while.”
+
+“I knew it,” I say. “If I was in charge of the System, the Skill names would be way better.”
+
+“Well, look on the bright side,” says Lauren. “This way, you always can tell how many times a Skill has been upgraded based on how many words it has before it. Critical Culinary Analysis has been upgraded once, Detailed Critical Culinary Analysis twice, and so on.”
+
+“Yeah!” says Abby. “Exactly!”
+
+“Or, they could just put a number next to the Skill to tell you,” I counter. “And come up with a better name.”
+
+“I suppose,” says Lauren. “But what else would you call Detailed Critical Culinary Analysis?”
+
+“Yes, what would you call it?”
+
+“I dunno. Eyes of the Chef?”
+
+“What kind of Skill name is that?” asks Lauren.
+
+“A cool one.”
+
+“Not really.”
+
+“It’s much cooler than the word salad that the actual Skill is called.”
+
+“That’s not a very high bar,” says Lauren.
+
+“Exactly!” I exclaim. “The names of Skills, Classes, Species… Everything here sucks! I’m going to make the developers change it all!”
+
+“As if you could.”
+
+Watch me!
+
+“Well, good luck with that,” says Lauren. “We should probably be getting to bed. Trust me on this, but you do not want to be sleep deprived around the twins.”
+
+“Who are the twins anyway?”
+
+“A pair of Gold ranked mages,” she says making a weird face. “They’re talented, young, and very, very strange.”
+
+“I see. Are they fun?”
+
+“Sometimes? But as I said, very strange.”
+
+“Would they make good minions?”
+
+“...What?”
+
+“Oh yeah, speaking of minions, what’s the deal with Chad? Are you two dating?”
+
+Lauren coughs, and her face turns red.
+
+“What? No! Never!”
+
+“Why not? He’s pretty handsome.”
+
+“Well, yeah. But no!”
+
+Her face is getting redder.
+
+“I think you mean not yet.”
+
+“No, never.”
+
+She looks like a tomato. And not an angry tomato. A very embarrassed tomato.
+
+“Not with that attitude.”
+
+“Yes, exactly.”
+
+“Anyway, he’s going to be my second minion.”
+
+“Why?”
+
+“I can’t separate him from you.”
+
+“Yes, you can.”
+
+“Anyway, I’m tired. I’m going to bed.”
+
+“Wait-!”
+
+She stops talking as I Blink through the ceiling up to one of the bedrooms. There are a couple in this house, and the biggest one has a really nice bed. However, I feel like if I take that one, Lauren might come barging in while I’m trying to sleep for some reason, so I take the second biggest one instead. The bed there is almost as nice, though it’s a little firmer, since it’s not broken in. I turn back into my cat form, then stop when I hear footsteps nearby. It’s one of the maids. I almost forgot about them.
+
+I wait a few minutes until Lauren heads to the biggest bedroom, then wait a few more minutes until she’s getting ready for her bath, then I Blink right next to her.
+
+“Hey,” I say.
+
+She jumps back, slamming into the wall with a thud.
+
+“Stop doing that!” she says.
+
+“Can you tell your maids not to go into my room without permission? I’m gonna be sleeping like this.”
+
+“Okay, I’ll tell them. Now get out!”
+
+“Bye. Sweet dreams. Dreams of Chad, probably.”
+
+“Get out!”

@@ -1,0 +1,119 @@
+---
+id: fd8e9b7b-7b98-58c4-a88e-d200749e065a
+page-type-slug: story-chapter-royal-road
+title: "115 - It's Always the Sin Traits"
+slug: 0117-115-its-always-the-sin-traits
+partOf: cat-girl-evolution
+position: 117
+ownLength: 2541
+unit: words
+publishedAt: 2026-04-17
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3284129/115-its-always-the-sin-traits"
+royalRoadId: "3284129"
+---
+
+The only person who had ever managed to kill Maligar, the Patient Mother Tree without poison was a holder of Wrath. His Wrath was at a later Stage than Maligar’s Patience, allowing him to resist its effects to a degree, and ultimately kill the tree. Even so, he nearly died of thirst in the process.
+
+Many others had tried, mostly out of stubborn pride. Some had been reckless enough to die of thirst trying to force their way in. Others had been wise enough to back away when they realized it was impossible. Some had tried to use magic to nullify or bypass the aura, but Spatial Affinities were rare, and spatial mana was notoriously dangerous. One wrong move and in the best case scenario, the entire attempt would fall apart, and the immediate surroundings would be destroyed. In the worst case scenario, the entire Floor could be ruined. Once, a foolish, but powerful mage had managed to create a spatial anomaly so powerful it damaged the Dungeon itself.
+
+A few others had taken more creative attempts. Light mages generally made the most progress, using light’s speed to fire powerful lasers at the tree, but very few could project lasers focused and powerful enough to deal real damage to the tree. A wind, gravity, and spatial mage had once worked together to accelerate a metal rod through an infinite portal in a vacuum and fire it at the tree, but their mana pools had run out before they could get the rod going fast enough to do serious damage to the tree.
+
+The Dungeon Core had seen many, many attempts over the years, almost all failures. He thought he had seen it all. But he had never seen something like this.
+
+He had witnessed plenty of Gluttons in his Dungeon. In fact, it was rare for him not to see at least one each year, with how famous the tree’s fruits had become. He knew that Gluttony allowed for the consumption of mana. He knew that Devour could allow for the breaking down of mana. But none had ever come into his Dungeon with the unique combination of tools that this Glutton had.
+
+Her first attempt was nothing special. While seeing her eat part of the tree’s aura was surprising, it did not mean much, in the long run. Even when she made an enormous construct head to eat a large portion of the aura, it was still nothing. Sure, she had managed to display immense power on the previous Floor, but the tree was too big. Even if she managed to make it to the tree, she wouldn’t be able to kill it.
+
+Then, the twins had gotten involved. While their ability to interfere with the aura was nearly negligible, their knowledge of magic far surpassed Yona’s, and they were able to give her tips to guide her in the right direction. Under their instruction, Yona created a specialized construct whose jaw unhinged like a snake to open wider than the head was tall, they were able to trigger the effects of Devour in a wide enough area, that as long as the head only moved forward, it could move freely.
+
+This still wouldn’t have been enough to kill the tree, but then, the twins did something that displayed further genius: they made a perfect mana shield, one that did not let even ambient mana through. It was a cylinder, and they attached it to the back of the head construct, extending it as the construct bore deeper into the tunnel. The entire Party then stepped inside, they closed off the back, and started tunneling inward.
+
+The entire time they travelled, Yona used the mana broken down by Devour to create things. She alternated between constructs and that spatial cutting Skill she had used on the previous Floor, only taking breaks occasionally to replenish her personal mana stores. Because the space was compressed around the tree, the mana was too, so in the time it took to reach the center of the tree, she had managed to create a full nineteen charged attacks and twenty highly compressed hand-shaped constructs.
+
+During this entire process, the Dungeon Core watched, dumbfounded. It looked absolutely ridiculous, and yet it worked. And the annoying cat made sure he knew it. Between attacks, she kept glancing back at the squirrel and sticking her tongue out at him. The Dungeon Core had already left the squirrel and was watching disembodied, but he got the message. And he couldn’t even disagree with it. She indeed was proving him wrong.
+
+When they reached the trunk of the tree, the construct latched on like a leech, and continued to bore into the tree itself, though at a much, much slower pace. Once it had gotten a meter or so in, the barrier twin extended the mana shield to the wood, forming a manatight seal, creating a small pocket of safety.
+
+Meanwhile, the other twin started charging an attack of her own. The rest of their Party got out of her way, letting her stand in the front, and after more than a full minute, she unleashed it. A beam of pure, concentrated mana almost a meter wide shot out, piercing halfway into the tree, creating a tunnel toward the center.
+
+A second such attack made the tunnel tall enough to walk down, and at that point, the group exited their mana cylinder, taking refuge within the tree and sealing the hole behind them. This had been the twins’ idea, who had correctly theorized that the aura Skill would not have any effect inside the body of the tree itself, so they were able to move freely, and the rest was history.
+
+It was still mostly Yona and the artillery twin doing all the work, but now that they were free of the tree’s aura, and because the tree was dormant, killing it was only a matter of time. Yona used her pre-charged attacks, and the artillery twin chugged mana potions like she was dying of thirst, and after a quarter of an hour, the two managed to deal enough damage to the tree’s trunk and roots that the Tree could no longer sustain itself and perished.
+
+With little time left before they were automatically ejected from the Dungeon, Yona wasted no time cutting off enormous pieces of wood and making them disappear into wherever she kept them. She managed to take nearly half the tree before her time ran out and her Party Leader was forced to accept the prompt to take them to the next Floor, and even once arriving on the next Floor, she had the audacity to complain about not getting more.
+
+The Dungeon Core would have been annoyed at how much essence he lost if he wasn’t so bewildered by the whole scene. In all his thousands of years, he had never seen anything quite like that. It was not glorious. It was not even that impressive. There was really only one thought going through his head.
+
+Why the hell does the System allow this combination of abilities to exist?
+
+He had been around long enough to see quite a few System updates, and it had been more than a millennium since the last infinite mana exploit had been patched. In fact, the System developers had quite proudly announced that there were no more, which was met with much rejoicing, as Kra’lek, the Endless had been a scourge on the world for far too long. And yet, right here was another one.
+
+It’s always the Sin Traits, he thought with a sigh.
+
+[ Floor 4 Instance 27489 has concluded. Erasing in 9:59 ]
+
+The Dungeon Core stared at the remains of the tree for a few seconds, then cancelled the instance’s erasure, instead archiving it. It would cost him even more essence to keep the instance instead of re-absorbing it, but he had plenty to spare.
+
+When we arrive on the 5th Floor, I close my eyes and look up at the sky, spreading my arms and basking in the joy of victory. The Dungeon Core hasn’t said anything for a while, but that’s probably just because he doesn’t want to admit that he was wrong. Only when Lauren asks what I’m doing do I finally open my eyes and take a look around. I ignore the System prompt in front of my face for a few seconds to take a look at my surroundings.
+
+As the Dungeon Core said, the Floor is messed up. The tree is gone. It’s already a crater here, and there’s a big, black Dungeon entrance sitting right at the center of it. Surrounding this Dungeon entrance are three humans and an elf, all standing with their arms crossed and blank faces. They almost look more like mannequins than people, which makes me assume that they’re homunculi, and not real people.
+
+Aside from that, there’s really nothing of note, and when I check the Annoying Yellow Box, that is broken too.
+
+[ Floor Challenge: Say the words “The Dungeon Core has no interest in feet.” ]
+
+I’m 99.9% sure that wasn’t the original Floor Challenge, and also, there’s no flavor Text or Dungeon Challenge.
+
+The Dungeon Core still doesn’t say anything, but that’s probably because there’s no need to. He already explained everything on the last Floor, and it’s pretty obvious where the evil Dungeon is. That only leaves one thing: checking my rewards! Since I didn’t have time to do that last time because I needed to eat the tree.
+
+[ You have defeated Maligar, the Patient Mother Tree (Evolving)! Bonus experience for defeating an enemy above your level! Reduced experience for defeating an enemy during Racial Evolution! ]
+
+Ah, that’s lame. Still, I got a couple levels.
+
+[ Princess Yona, the Blinking Gastronomic Hunter Thief Chef, lvl 5 → 7 ]
+
+[ +204 Power, +432 Finesse, +252 Resilience, +240 Memory, +240 Willpower, +432 Sensitivity ]
+
+[ Beginner Vivitect, lvl 4 → 6 ]
+
+[ +180 Power, +360 Finesse, +180 Resilience, +300 Memory, +360 Willpower, +240 Sensitivity ]
+
+[ Taker of Names IV → Taker of Names V ]
+
+A little disappointing, considering how powerful that thing was, but I guess it makes sense. I don’t think that killing it would have been possible if it wasn’t evolving. Or maybe it would have been? If it gets affected by its own aura too, then I guess it wouldn’t have been able to attack us while we traveled toward it. It probably would have been dangerous once we got into the tree, though. The twins did say that they would never have recommended that strategy if it was awake.
+
+Whatever. It doesn’t really matter, anyway. The main thing we got here was actually not the experience, but the Soul Weapon, the fruits, and the wood. Most of the wood went straight into my Dungeon, which Abby is very happy about, and the fruits are probably getting close to Delicacy-level, so I can’t wait to try them. The Soul Weapon, meanwhile, is actually really interesting.
+
+While I was gathering wood, the others searched for, and eventually found the Soul Weapon. I overheard the others as they talked, and watched as they messed with it, but it’s a very unique Soul Weapon. In its base form, it’s just a wooden sphere, but it’s got two main features, one of which allows it to grow and change shape. The other is to create a sphere around the user of that same compressed space that the Tree had. Like the tree, it also affects the user, but it has a much smaller range, and in a group battle, it would be an invaluable life-saving tool.
+
+Chad is the one who bonded with it. The twins gave it up because it’s clearly Nature-attributed, so they would be incompatible, I already have multiple Soul Weapons, and Lauren got the last one, so it was only fair that he got it. And it suits him very well.
+
+In its weapon form, it’s not any stronger than his sword, but it’s about the same strength as his shield, and unlike his shield, it can regenerate and change shape, so that’s where he slotted it in. It’s also lighter than his old shield, which makes it easier to move around, even if his Power made the previous one’s weight almost negligible.
+
+We talk for a bit, and I learn that the others also got about the same amount of levels as me, though only one Species level, since they’re humans, and that’s how that works, apparently. We double check that we have everything that we need, and then decide to rest for a while before entering the other Dungeon. It’s pretty clear that the situation isn’t quite urgent yet, and the Dungeon Core doesn’t object to this plan, so we start setting up camp and preparing food.
+
+The fruits of the Mother Tree were huge—each one is almost as big as I am—so I bring out only one, and Lauren and I cut it up and serve it out. As soon as I take a bite, I close my eyes and cover my ears to shut out the rest of the world around me and focus solely on the taste. I think that the Menyar pork dishes might have tasted a bit better, but this is easily the best fruit I’ve ever had, and it’s not close. I don’t even know how to describe it. Unlike many of the other dishes I’ve had in this world, it’s not at all complex. It’s an extremely simple flavor very similar to a mango, but it’s infinitely richer. It’s got a perfect balance of sweetness, and the exact right amount of juiciness, and every bite tastes just as good as the last.
+
+All five of us gorge ourselves on the fruit, and then go to sleep happy. It’s been a while since any of us slept, and the only potential danger here is from the other Dungeon, so we keep a watch rotation watching the entrance. Nothing happens, and in the morning, we wake up refreshed and ready to go.
+
+The four people standing around the other Dungeon entrance are indeed homunculi, and when we walk up to them, only one reacts, turning toward us. A gleam appears in his eye, and when he speaks, the voice is the same as the Dungeon Core’s.
+
+“Good luck,” he says. “Don’t be a hero. You don’t need to do much. The Tier 5 Party will handle the worst of it. Also, don’t forget to leave your disembodied friend here.”
+
+“Oh, right!” says Lauren, slinging her pack off her shoulder and pulling Annie out
+
+“I’ll take her,” says the homunculus, holding out his hands. “I’ll put her somewhere that–”
+
+At that moment, we all suddenly turn our heads as someone emerges from the Dungeon portal. It’s a young man with blond hair and blue eyes, and a jawline to rival Chad’s.
+
+“That’s–!” starts the homunculus.
+
+Before he can finish, the man takes a step backward, re-entering the Dungeon and disappearing.
+
+“–the necromancer!” finishes the homunculus.
+
+“Shit!” shouts Lauren. “Fucking shit!”
+
+“What–?” I start, but stop almost immediately.
+
+It’s obvious what she’s angry about. Annie is gone.

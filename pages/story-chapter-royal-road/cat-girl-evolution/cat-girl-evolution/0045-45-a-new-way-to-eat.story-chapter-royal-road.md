@@ -1,0 +1,183 @@
+---
+id: c580b1ff-70f1-547b-a598-4a9217e8a8f7
+page-type-slug: story-chapter-royal-road
+title: "45 - A New Way to Eat"
+slug: 0045-45-a-new-way-to-eat
+partOf: cat-girl-evolution
+position: 45
+ownLength: 3030
+unit: words
+publishedAt: 2025-11-05
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2733747/45-a-new-way-to-eat"
+royalRoadId: "2733747"
+---
+
+We stand on opposite sides of the clearing, and for a few seconds, none of us move. Then, A raises her staff and a projectile of volatile mana launches itself at me. I jump to the side to avoid it, but when it reaches where I just was, it explodes, and I’m forced to Blink to get out of the radius. When I reappear, another projectile is already on its way to me. I dodge that as well, and when I reappear, I see A and B rising into the air on a shield made by B.
+
+I Blink under another attack, then leap into the air, swinging my sword at them. A shoots at me again, but I Blink ahead of it, slamming my sword down on her with Spatial Slice. However, the sword gets stopped by a barrier that, until that point, was invisible. I could sense it, but it flashes with light as it blocks my blow, and I can now see clearly that it forms a full sphere around them, enclosing both twins and the platform they stand on. A doesn’t even blink at the sight of the sword coming down on her head, and calmly casts another spell.
+
+I Blink back to the ground, but this time, the spell she cast is different. It’s slower, but it’s also following me, and even when I Blink again, it changes its trajectory to seek me out. I Blink again, trying to figure out what to do about it, then notice something strange. My sword is glowing a tiny bit. It definitely wasn’t before. Did it eat some of the mana from the shield spell?
+
+The heat-seeking projectile approaches again, and this time, rather than dodging, I stab the tip of my sword into the ground and hide behind it as the attack crashes into it. Waves of mana fly past on either side of me, but the sword is wide enough that none of it actually hits me.
+
+I pick up my now-slightly-glowier sword and run to the side where another of the faster explosive projectiles hits the ground behind me. It’s weird that she didn’t use any of those while the heat-seeking one was chasing me, but maybe that’s because it wasn’t actually heat-seeking, and she was manually controlling it.
+
+I leap into the air, landing another sword strike on the barrier, but the barrier holds steady, and I am forced to Blink back to the ground again to avoid the next attack. A sends a few more attacks at me as I dodge around, studying my current situation. It’s not going too badly for me, but it’s not going well either. Them being up in the air makes all my attacks really predictable, and B’s shield is really strong. It reminds me a bit of the fight I had against Flarn. Except I don’t think I can break through the shield with Bite of the Glutton this time. Unlike Flarn, B has spent years casting shield spells, and that’s almost literally all she does. Her stats might be lower than mine, but her skill is much higher, and her barrier feels impenetrable.
+
+My best hope might be a battle of attrition. If I keep hitting the barrier, I’ll recover a little bit of mana from the sword while depleting theirs, and I can keep dodging. That’s a super lame way to win though, so I’m gonna try a few other things before I resort to that.
+
+I dodge another explosive projectile, then conjure a mana hand and give my sword to it. I send the hand and sword flying up toward A and B while I stay down below. A narrows her eyes, then chooses to ignore the sword and continue attacking me. She raises her staff and uses yet another new attack. Dozens of orbs of mana form in the air above her, and a second later, they begin shooting down at me, faster than any of the previous projectiles. I run as the mana bullets tear up the ground right behind me like machine gun fire. Meanwhile, I command my sword hand to use Spatial Slice on the twins. It doesn’t do much, but it does absorb more mana, which somehow gets transferred back to me, so I command it to attack again. And again. And again.
+
+Suddenly, A looks away from me and points her staff at the hand again. I take that moment to leap up into the air. An explosive projectile destroys my mana hand, sending a wave of energy crashing against the outside of B’s shield, but I ignore it, jumping upward with claws outstretched, raking against B’s shield. Since the single-point attacks with the sword weren’t doing much, I use all ten claws this time, hoping to maybe overload B’s mana capacity or something. That doesn’t work, but I do feel my mana and the shield’s mana clash, and a lot is dissipated.
+
+My sword falls to the ground without my mana hand to support it, and I’m about to dive for it when I have an idea. Rather than running to grab it manually, I just desummon it and resummon it. It vanishes, then reappears in my hand as I land. I grin up at them. They smile back, and then simultaneously, they produce blue vials from within their robes and start drinking.
+
+“Hey! Cheaters!”
+
+I jump up to attack again, but they basically ignore me, letting the shield tank my attack as they drain the mana potions and stow away the empty bottles.
+
+“Stop cheating!” I shout as I land again.
+
+They shrug.
+
+“No,” says A.
+
+“It’s really your fault for not being able to stop us,” says B.
+
+“Just do better,” says A.
+
+Okay, I changed my mind. The twins suck. They’re nasty cheaters. I would be winning if they didn’t do that. Now I’m running out of mana and they’re back to full.
+
+But there’s nothing I can do about it. My attacks aren’t strong enough to break through that shield. I’m sure that shield is taking all of B’s effort to maintain, which is why she hasn’t done anything else, but she also doesn’t need to do anything else. I just can’t do anything.
+
+“I think you’re under-utilizing your Class,” says Abby.
+
+What do you mean?
+
+“Your Class is very useful for combat, but you’re only using it to supplement your Species Skills and Traits. You should be more creative.”
+
+As I Blink away from another explosion, I realize that she’s right. Blink, Spatial Slice, Cat-Like Reflexes, my sword… They’re all from my Species. Meanwhile, the only thing I’ve used my Class for this fight is to try to hit them with the sword. That actually worked pretty well… but what else can I do with my Class?
+
+Another of the seeking projectiles starts flying at me, and this time, rather than using my sword to block, I try something new. I conjure a mana hand and launch it at the explosive orb. The hand isn’t very fast, but it’s highly maneuverable. Much more maneuverable than the orb, and after about a second, the hand hits the orb and it explodes harmlessly ten meters away from me.
+
+Abby, did you see that? I have a shield now!
+
+“Only for small, but volatile projectiles, but yes, it is good progress.”
+
+Stop being such a wet blanket, Obbituary. I can just make bigger things for bigger attacks. I ate the crabman, so I can probably make a crab shell. Oh, and I almost forgot that I need to find a bird so I can make wings! I bet that would make this fight way easier on me. It’s a shame that all the dishes Lauren cooks don’t count toward that for some reason.
+
+“That was a conscious balance decision by the System developers.”
+
+Still lame. Alright, after this fight, I’m going to find a bird. I also need to evolve Ember. And- Oh shit!
+
+I jump to the side just in time to avoid another explosive projectile. I got distracted. Abby, you distracted me!
+
+“You distracted yourself.”
+
+Shut up.
+
+I dodge another exploding projectile, and when the next one comes, I launch another mana hand at it. This one is one of the straight-line projectiles, which makes it easier to hit, but harder to time. I don’t get the hand quite far enough, and it explodes close enough to me that I have to Blink away. Conjuring the hands as a reaction is too slow for those attacks. I need them to be already made.
+
+As A charges up another spell, I conjure a half dozen mana hands and start orbiting them around me. When she fires her next projectile, I send a hand out to intercept it, forming a new one where it left. She doesn’t seem to like that, so she starts the machine gun attack up again, forcing me to run. I try to block one of them with a hand as I run, but the bullet disables the hand entirely, so there are way too many of them for it to be a good use of mana to intercept them all.
+
+Once the barrage stops, she immediately follows it up with another seeking projectile. I prepare to send another hand to intercept it, but then I have an idea. Hands aren’t the only things I can make. And I did some thing similar against Flarn…
+
+I Blink away, then conjure up a mana cat head and send it to intercept the projectile, mouth open wide. I try to pull it into my Stomach, but it explodes as soon as it makes contact with the cat head’s teeth, before I can even begin the process. That’s not going to work then. I need a bigger mouth.
+
+I dodge her next few attacks while slowly building a big sharkdude head next to me. It cost me a lot of mana, and since I’m not hitting anything with my sword right now, I’m not regenerating it very quickly at all, but I still have plenty left. My mana pool is pretty huge after all those levels Skarn gave me.
+
+Once the shark head is fully ready, I wait for her next explosive projectile attack, then send it out to intercept. If this works, I’ll have a new strategy I can use. If it doesn’t, I will have wasted a lot of mana.
+
+The projectile gets close to the shark head, then something unexpected happens. It blows up a meter before the shark mouth, destroying the construct, and from within the flash of violent mana, another projectile flies out, giving me almost no time to react. I Blink away, but not before some of the mana hits me, destroying my hand constructs and sending me stumbling as I reappear. The pin isn’t whining yet though, so I’m still in the fight. That was close.
+
+I look up to see A smiling at me. I scowl back. Then, I notice that there’s another seeking projectile circling around behind me. What’s up with her casting speed? Was she just messing around before? This is annoying. It’s much harder to time things now. But whatever. I just need to adjust. It’s not that dangerous yet.
+
+I teleport away again and start conjuring another shark head to catch the seeking projectile. Then, I have to teleport away again as a straight-line projectile lands where I just was. She can dual cast now? She was definitely just messing around before. Alright, I guess it’s time for me to get serious too then.
+
+“You weren’t–?”
+
+Shut up.
+
+The seeking projectile keeps moving toward me as explosions rain down from above. I glance up to see A chugging another mana potion. As I watch her cheating yet again, it occurs to me that the twins have actually been cheating the whole time. They tricked me into letting them turn this from a forest into an open space, a terrain that only benefits them. If we were in the forest, they wouldn’t be able to see me as easily, and the trees would interfere with all of A’s spells. They would be at a disadvantage here, but instead, they have a distinct advantage.
+
+I could run away into the still-standing trees to try to regain my advantage. That would make things easier. But that would also be admitting defeat. They’re tough, but they haven’t done anything I couldn’t handle, and I bet that if I can figure out this spell-eating thing, I can win. I might be able to eat their entire shield. I just need to get this projectile first.
+
+I conjure up another shark mouth as I dodge another explosion, then another, and when the third comes, I finally send it at the seeking projectile. I can sense a faint thread of mana from A to the projectile, and I can see her eyes narrow as the shark head goes to the projectile, but she doesn’t try to make it dodge. Instead, she conjures up a second one, apparently giving that one up as lost.
+
+Perfect!
+
+The seeking projectile enters the shark’s wide-open mouth, and just as it’s about to hit the back of the construct, it winks out of existence. I grin up at A as her eyes widen in confusion. Unlike against Flarn, eating that wasn’t even difficult. It was probably because A had already given up on the spell, but if it’s that easy, I bet I could totally steal the shield. I send the shark head after the new seeking projectile, and A blows it up before it can be eaten, but it doesn’t matter. By the time that happens, I’m already in midair and making a swarm of small mana shark heads around me.
+
+A starts up another machine gun spell, but I Blink to the other side of the shield, causing half her shots to go to waste as she slowly changes where it targets. Looks like getting in close is the weakness of that spell, since she can’t change where it’s aiming very easily. She makes another explosive projectile to fire at my face, but I just smile at her.
+
+B’s eyes widened as she felt a sudden mental tug. She resisted for as long as she could, but didn’t even last a second before her will was completely overpowered, and her shield blinked out of existence. She glanced back to see a tiny shark head made of mana on the edge of the range her shield had been covering.
+
+She tried to conjure another shield, but in such a short window of time, she couldn’t put much mana into it, and the beastwoman was already swinging her sword. The blade of spatial mana shattered her makeshift defenses, then crashed against her and her sister.
+
+At the same time, A unleashed her own attack straight into Yona’s face. Still mid-swing, she had no way to dodge, but moved her remaining constructs to attempt to intercept. The spell blew up in the midst of all three of them, and between that and the sword attack, A and B’s pins decided they had had enough. So did B’s platform, so the two of them started plummeting to the ground, their pins screaming the whole way.
+
+They slowed their fall with their mana, as any good mage could. Any good mage except Yona, apparently, who fell at full speed, landing with a thud, but looking completely unharmed. When A and B landed, they noticed that Yona’s pin was whining too, though not quite as loudly. Based on what they knew of the pins, that meant that Yona had taken less damage, meaning that she had won. However, the victor of the wager was the last thing on the twins’ minds.
+
+They pressed on their pins to disable the whining—a move mimicked immediately by Yona who seemed especially bothered by the noise—then started having a quick telepathic conversation.
+
+“How did she do that?” asked A.
+
+“I don’t know,” said B. “It was like my spell just stopped existing.”
+
+“Me too. That shouldn’t be possible, right?”
+
+“Even with Spatial magic, I don’t think it should be possible. The spells didn’t get teleported. They just vanished.”
+
+“Right. She’s suspicious.”
+
+“Yes. Her stats are too high. Her mana pool is insane, and her physical stats are probably better than Lauren or Chad’s.”
+
+“No, not better, but definitely around the same level.”
+
+“Maybe. It’s still suspicious.”
+
+“Yes. Mysterious origins. Too many stats. Impossible abilities…”
+
+They paused, then both spoke at once.
+
+“Just like Master.”
+
+“I won,” said Yona. “I hit first, so I win.”
+
+“...Do you think she’ll let us touch her ears if we convince her it was a draw?” asked A.
+
+“She seemed to want us to touch her ears. It’s worth a shot.”
+
+“It was a draw,” said A. “Yours hit first, but even if we had actually died, my spell would have gone off and killed you too.”
+
+“Doesn’t matter,” said Yona. “I hit first. I won.”
+
+The twins shared a glance.
+
+“Alright, you won,” said B.
+
+“Yup!” said Yona, her tail flicking happily.
+
+“But, we also won,” said A.
+
+“Hey, no!”
+
+“So how about this: since both sides won, both sides will fulfill their halves of the bet. We’ll teach you our spells, and you let us touch your ears and maybe scratch them a little and massage your scalp.”
+
+Yona opened her mouth to protest, then stopped, clearly thinking hard. Then, she crossed her arms over her chest and nodded.
+
+“Fine. I suppose I can concede that your last resort attack maybe pushed this pin to its limits. If we fought again, I would win though.”
+
+“Of course,” said A. “We used all our tricks on you.”
+
+“I think it wouldn’t be close the second time,” said B. “You completely figured us out.”
+
+“Exactly,” said Yona, nodding. “Also, I’m going to tell Lauren and Chad that I won.”
+
+“That’s fine,” said A.
+
+“Great! Alright, let’s go. I’m hungry.”
+
+Yona strutted away happily, and the twins shared another glance before following. No words were spoken, but each knew exactly what the other was thinking.
+
+She’s so easy.

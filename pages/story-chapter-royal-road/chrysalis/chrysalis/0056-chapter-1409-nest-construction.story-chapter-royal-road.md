@@ -1,0 +1,97 @@
+---
+id: 598e9b6f-d7b9-5057-9174-0bd99099137e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1409 - Nest Construction"
+slug: 0056-chapter-1409-nest-construction
+partOf: chrysalis
+position: 56
+ownLength: 1084
+unit: words
+ownProgress: 1084
+publishedAt: 2024-09-13
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1800729/chapter-1409-nest-construction"
+royalRoadId: "1800729"
+markedReadAt: "2026-06-29T19:45:25.450Z"
+---
+
+“MOVE, MOVE, MOVE!” Isaac roared, though he felt as if he needn’t have bothered.
+
+The targets of what his mother had lovingly called ‘motivational yelling’ were a squad full of human couriers, carrying supplies for the ant builders. Even before he’d opened his mouth, they were hauling backside just as quickly as they could, almost running with heavy burdens slung over their shoulders.
+
+Well, he was here to make sure the supplies moved according to schedule, and by the plops of the pious, that was exactly what he was going to do.
+
+“Rest when you’re dead! Drop off that gear and get back to the lifts! GO! GO!”
+
+Again, he needn’t have bothered. The men and women carefully dropped their burdens in the predetermined positions and then turned and sprinted back to the entrance, ready to collect the next load. Each and every one of them had a look of such focused determination on their face that Isaac was slightly taken aback. How many times had he seen such single-minded focus in anyone? Not many!
+
+Even scarier, was that he could easily understand what motivated them. Somehow, that tricky little general, Solant, had forged such an incredible sense of purpose in everyone taking part in this invasion without ever saying a word.
+
+She didn’t have to.
+
+The extensive drills, the manic attention to detail, the exhausting standards of perfection, all spoke of just how serious, just how consequential this mission was, better than any motivational speech could hope to. With the next load of materials came another squad of couriers, already loaded up, and they too began to sprint the moment their platform touched the ground.
+
+Deciding he didn’t need to worry about ensuring those ferrying supplies needed motivating in the short-term at least, Isaac turned his attention to his fellow ant riders.
+
+“Brindle! Make sure you aren’t obstructing the path! Keep your damn eyes peeled! Remember where we are, we could be knee deep in the plops in a second down here!”
+
+“Aye, captain!” the normally reticent ant-rider snapped back.
+
+He and his partner repositioned themselves slightly, ensuring they didn’t block access for the couriers and actively watching the walls and ceiling all around them.
+
+More supplies were rushed in, and soon a steady stream of smallish ants began to arrive, easily identifiable by their odd front legs and claws. These were the carvers, ready to begin the great work. Among them was a seldom sighted, though expected face: Tungstant, one of the leaders of the caste.
+
+She rushed forward along with the rest of her kind, each carrying pre-built components, ready to be slotted in with the rest for the mighty construction they were about to undertake.
+
+“Ready to build?” Isaac asked, attempting to inject some levity into the moment with a broad smile and a stroke of his fine moustache.
+
+“No,” Tungstant snapped back, her antennae practically vibrating with tension. “Trying to construct a completely sealed nest in an active warzone while surrounded by hostile, absurdly hazardous mana is completely impossible!”
+
+Holding his smile in place, Isaac absorbed the blast of pheromones as Cavalant shifted beneath him.
+
+I told you to keep your mouth shut around the carvers, her posture shift told him.
+
+Already the carvers were getting to work, a torrent of mana being summoned and driven into the tunnel rock around them. Holes were drilled, gleaming, enchanted beams were installed and then sealed in, plates with complex enchantment arrays were locked into place in a grid pattern, and then, finally, they got to work tunnelling down.
+
+As space opened up, the blue mana sank down into it, thickening and growing more dense as it went, the enchantments lighting up as they made contact with cleansing energy.
+
+“You seem awfully keen to get to work on a task you consider impossible,” Isaac observed, not willing to learn his lesson.
+
+“We’re the carvers of the Colony,” Tungstant snapped back, her eyes focused in every direction at once, supervising the work of all the members of her build team. “We do the impossible on a regular basis. Now be quiet and let me focus, this is difficult work.”
+
+Finally deciding to take that advice, Isaac and Cavalant took a few steps back and Isaac returned his attention to the tunnel. Here in the heart of the blue, they weren’t expected to see much trouble, but that didn’t mean it wouldn’t come anyway. In the distance, he could see Anthony taking a rest, purging himself of the corruption that had no doubt built up within his body after his last foray out into the gunk.
+
+For several minutes, the carver team, and others just like it, worked furiously, preparing for the next stage of the invasion/construction. Human and ant teams worked without pause, ferrying pre-made construction materials to the site in an endless stream as, little piece by little piece, the grand edifice began to take shape.
+
+“Breakthrough in two!” Tungstant announced suddenly, and her cry was echoed down the line of building teams.
+
+“Two here as well!”
+
+“Three minutes!”
+
+“Slackers! Two, here!”
+
+“One minute!”
+
+And, of course, just in time, wave after wave of troops arrived, along with accompanying packs of wuffers, along with more build teams carrying everything they needed to establish more purification plates.
+
+“Get ready, you lot!” Isaac called, using his voice this time. “We are going down in the second wave! Remember the plan!”
+
+With grim expressions, the ant cavalry gathered themselves behind the ranks of front line troops.
+
+“Breach!” Tunstant roared.
+
+“Breach!” from the next team over.
+
+“Breach!” a moment later from the rest.
+
+Slowly at first, then in a flood, the blue mana rushed down the tunnels and burst into whatever lay below. The lead teams gave it a moment to push back the toxic atmosphere, then plunged into the tunnels themselves.
+
+Isaac watched as thousands of ants raced down into the darkness, and could only shake his head. How could he possibly have imagined himself being in this position? Yet here he was all the same.
+
+“We are right in the plops now,” he muttered.
+
+When he thought of just how deep the plan called for him to go today, he had to brace to stop himself from shuddering. Gradually, the ranks in front cleared as the troops advanced below, and far too soon, it was his turn to advance.
+
+“Alright, lads and lasses,” he bellowed, “into the deep we go!”
+
+With a roar, both vocal and pheromonal, the ant cavalry charged into the depths.

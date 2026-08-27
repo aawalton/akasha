@@ -1,0 +1,139 @@
+---
+id: 571514c2-864a-5e79-b508-c54ef191151a
+page-type-slug: story-chapter-royal-road
+title: "81: Friends"
+slug: 0081-81-friends
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 81
+ownLength: 1731
+unit: words
+publishedAt: 2025-12-05
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2821353/81-friends"
+royalRoadId: "2821353"
+---
+
+Sierra felt… strange. Her body ached in dull, unfamiliar ways, as though she’d been asleep too long in a position that didn’t quite fit. The world around her was noisy in patches, quiet in others.
+
+She tried to sit up, but her limbs didn’t quite cooperate, so she stayed where she was and focused on breathing. The last thing she remembered was leaving Tartarus.
+
+Icariel had said there wasn’t much time left, that the Sages of the Wilds had to be dealt with before the damage became irreversible. He hadn’t explained what sort of damage, only that it was serious, and that the sages needed to be stopped at all costs.
+
+She’d found one of them, eventually. Morikhan. That had taken longer than she thought it would. He was... odd. Everything about him had felt wrong, like touching a tree that looked healthy but was rotten beneath the bark. She’d confronted him. Or tried to.
+
+After that, things got messy. Sierra remembered fear, then pain, and then nothing made sense. She could still feel the echo of a howl in her chest, like it had belonged to someone else. Or maybe that had been her. It was hard to tell.
+
+Now, though, there was a strange little sensation at her ear, like tiny teeth or fingers gently tapping against her skin. It wasn’t painful, just oddly persistent. Something small was definitely there, maybe poking, maybe tugging, or maybe even… nibbling. Slowly, she raised her hand and brushed her fingers over the spot, and they bumped into something.
+
+Sierra’s brows furrowed. Her mind still felt heavy, like it was full of fog, but her senses were beginning to come back. The air was warm, and somewhere nearby, faint crackles of static still hummed against the silence.
+
+She blinked a few times, her vision slowly sharpening. There were two people sitting not far away. One was a human woman with blonde hair. The other was a fellow beastkin who had gray fur. Sierra didn’t recognize either of them.
+
+Sierra tried to sit up, but her body refused to cooperate. Something was pressing down on her. Confused, she shifted slightly and blinked up, only to realize it wasn’t just something. It was someone.
+
+“Um… excuse me? Could you… please move?”
+
+A moment later, a voice chimed in, far too close to her ear. “Oh, okay!”
+
+***
+
+Chloe scooted off Wolfie with a small hop, brushing the dust off Cloaky as she did. Sabine had told her that eating Wolfie’s brain was probably a bad idea. Something about how Wolfie might actually be useful or something like that.
+
+And that maybe, just maybe, Chloe might enjoy having her around. She wasn’t completely convinced, but… maybe? She didn’t not like Wolfie. Actually, when she thought about it, she kinda sorta did like her.
+
+And honestly, Chloe was curious. Where did she even go after that whole Ynett thing anyway?
+
+Still, waiting for Wolfie to wake up had gotten really boring. So, Chloe had ended up nibbling at one of her ears. Not too hard or anything, just a few tiny curious bites. It was fluffy, okay? And soft. She’d just wanted to see what it felt like.
+
+But now Wolfie was awake and staring at her with the most confused look Chloe had ever seen. Her eyes were wide and shiny, blinking like she was trying to figure out which way was up. She sat up a little, squinting at Chloe, then spoke in a startled voice. “You’re… that girl. From the village.”
+
+She grinned. “Yep, that’s me! Chloe!”
+
+Wolfie kept staring at her like she’d just grown another head. Which, honestly, was fair. Chloe had just been nibbling her ear a second ago.
+
+Then, slowly, Wolfie sat up more properly. “If you’re here… does that mean you beat Ynett?”
+
+“Uh, yeah? Obviously. I totally beat her up. You should’ve seen it.”
+
+Honestly, Chloe still wasn’t exactly sure how she’d beaten Ynett. The memory felt fuzzy. She remembered fighting, sure—lots of yelling, fire, punching, probably some spinning, but then Ynett had just sorta… lost. And Chloe won!
+
+She figured that was the important part anyway. Details were overrated.
+
+Wolfie didn’t seem to question it, at least. She just gave this small, kind of shy smile. It was the softest thing Chloe had ever seen on a Wolfie's cute face.
+
+“Thank you,” Wolfie said softly, so quiet Chloe almost missed it.
+
+Chloe blinked, then flashed a smug grin. “Don’t sweat it, Wolfie."
+
+There was a small pause. Then Wolfie, or well, the girl who used to be a giant, shadowy monster, let out a tiny cough and glanced down like she was unsure about saying anything. “Um. My name’s not actually Wolfie. It’s… Sierra.”
+
+“Sierra? Like… see-air-a?”
+
+Sierra flinched like that pronunciation physically hurt her. She didn’t even get the chance to correct it before Sabine cut in from somewhere nearby. “It’s Sierra. Soft ‘S’, not ‘See-yair-a’ like you’re choking on it.”
+
+“Ohhh,” Chloe said, dragging it out. “Sssierra.”
+
+Sierra nodded, looking vaguely relieved. Chloe gave a pleased nod right back. “Cool. Still gonna call you Wolfie sometimes, though.”
+
+It just fits too well. And she’s still got the ears for it.
+
+Before Sierra could say anything, Scar pushed himself up from where he’d been leaning. He walked over slowly, eyeing the newly-human Wolfie like she was some puzzle he wasn’t sure how to solve. His eyes narrowed just a bit.
+
+“So,” he said, voice rough and low, “are you really the Ripper?”
+
+Sierra blinked at him, confused. “The… what?”
+
+“The Ripper. Y’know, the monster everyone’s been whisperin’ about. Big shadowy thing that’s been prowlin’ and killin' everybody 'round this area.”
+
+Sierra’s face went pale in an instant. Her ears pinned flat, and her shoulders tensed up like. She looked between Chloe and Scar like she hadn’t realized until now that she was completely surrounded. “W-who are you?”
+
+Scar just grinned and placed a hand on his chest. “Scar. Leader of the Ironfang Syndicate. Maybe you’ve heard of us.”
+
+That definitely didn’t help. If anything, Sierra looked even more spooked. Her hands curled into her lap, knuckles white, and Chloe could feel the nervous energy. Uh-oh. She’s gonna pass out or bolt or both.
+
+Scar must’ve caught the tension too, 'cause he raised a hand and took a small step back. “Easy, now. Ain’t here to slap chains on ya or nothin’. I’m just curious is all. That thing you turned into back there, what was that? I’ve seen primal forms before, sure, but yours? That was somethin’ else entirely, girlie.”
+
+Sierra stayed hunched over, hands clenched tight like she was trying to fold herself into something smaller. Chloe watched her carefully. This wasn’t the same Wolfie who’d tackled Scar and snarled like a murder storm. This one looked… sadder. Kinda lost.
+
+Chloe leaned in and nudged her lightly with an elbow. “Hey. You okay?”
+
+Sierra flicked a glance her way, still unsure. “I’m… fine. Thanks.”
+
+“Do you wanna talk?”
+
+Sierra shifted where she sat, ears twitchy, shoulders stiff like she was bracing for someone to yell at her. After a long stretch of quiet and a bit of fidgeting, she finally spoke. “I didn’t mean to lose control like that.”
+
+“Wait, but how’d you even go full crazy-Wolfie in the first place? Back at the village, you were like… normal-sized all the time." Chloe said.
+
+“It’s… a long story. But right now, I just really need to get back to dealing with Morikhan.”
+
+That name immediately made Sabine stir. She took a step closer. “And why do you seem so intent on dealing with him?”
+
+The way Sabine spoke was really different, to the point that even Chloe noticed it. The shift in tone, the way Sabine's eyes narrowed just slightly. Something felt tense now.
+
+Chloe sat up a little straighter, her grin shifting into a more thoughtful pout. Sabine didn’t usually talk like that unless she was aiming for something. Chloe thought Sabine was cool, but also kind of scary when she wanted to be.
+
+And if she really thought about it… kinda gross, too. Like that time Sabine’s eyes went all golden and weird on her. Which had happened twice by now.
+
+Sierra faltered. Her mouth opened, like she wanted to explain, then closed again. “I… I just need to find him. That’s all.”
+
+Sabine held her gaze for a second, then slowly let out a breath. “Well. That’s our goal too. So maybe we can work together.”
+
+She glanced toward Scar. “If he’s fine with it, of course.”
+
+Scar scratched the side of his head, eyeing Sierra like he couldn’t quite decide whether to pat her on the back or throw her in a cell. “Not gonna lie, I am a bit ticked ya killed a couple o’ my boys back when you were all primal.”
+
+Sierra flinched, her ears drooping low. Chloe was feeling a bit bad for her.
+
+“But,” he went on, lifting a hand with a shrug, “you also tore through a whole mess o’ Black Maw. So let’s just call it even. Long as you’re not gonna freak out again, I don’t mind you tagging along. Just, y’know, maybe give us a heads-up next time you're about to transform."
+
+Sierra nodded quickly. “I promise. I won’t be any trouble. I only went berserk because I was cornered and—”
+
+“Say no more,” Scar cut in with a grin. “We’ve all been there. Sometimes the primal form takes over, you smash through a few walls, maybe toss someone into a tree. Happens.”
+
+Chloe snorted. “Really?”
+
+Scar shrugged like it was the most normal thing in the world. “One time I woke up and my left arm was still metal, just swingin’ away and punchin’ a few guys. Didn’t even know what it was fightin’. Whole mess, that was. No judgment here.”
+
+Sierra’s shoulders finally started to ease up. She didn’t look ready to run anymore, which Chloe took as a win. The wolf girl still seemed nervous, sure, but a lot less twitchy than before.
+
+Chloe felt weirdly good about that. Not the usual kind of good, but the nice kind. Warm and quiet. She wasn’t totally sure what to call it. Whatever it was, it felt kinda nice. And nice meant fun. And hey, now that she had a group, surely beating up this Morikhan guy was gonna be easy.

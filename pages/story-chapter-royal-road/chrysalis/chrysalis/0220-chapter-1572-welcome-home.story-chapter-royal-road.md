@@ -1,0 +1,79 @@
+---
+id: df611b99-2ba1-5aa5-9ae6-4e9fff4cf8c7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1572 - Welcome Home"
+slug: 0220-chapter-1572-welcome-home
+partOf: chrysalis
+position: 220
+ownLength: 971
+unit: words
+ownProgress: 971
+publishedAt: 2025-05-28
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2310680/chapter-1572-welcome-home"
+royalRoadId: "2310680"
+markedReadAt: "2026-06-29T19:50:51.187Z"
+---
+
+Moving through the Dungeon during a wave wasn’t something Goszi ever expected he’d have to do again. It certainly wasn’t something he’d had to do since he was a much younger slug.
+
+His first problem had been getting off the fortress at all. Being able to access the outside wasn’t the same thing as being home free, oh no. The gap between the fortress wall and the rest of the fifth was substantial, much too far for a neat jump. He’d been forced to do something he really hadn’t wanted to, which was climb high up the wall, then throw himself off. With enough forward momentum, he was able to reach the other side… eventually.
+
+It wasn’t a journey that he liked to remember. If it weren’t for the thick layer of mucus coating the wall, he never would have survived. As it was, he nearly died. Not enough to keep a good Krath down. After climbing back up, he’d managed to find a likely crack in the wall and sneak away, making it deeper into the tunnels and further from the cursed ants and their delicious snacks.
+
+As much as he would like to credit his incredible wiles and experience, Goszi was just lucky. Incredibly lucky. After the third time a monster had simply stepped over him, not bothering to lean down and inspect his compressed and camouflaged form, he was beginning to think something strange was going on.
+
+After all, what were the odds that he’d been able to escape from the ants at all? Not good. Not good in the slightest. It felt as though someone or something was tipping the scales in Goszi’s favour, and he had some suspicions as to who.
+
+Was Theorazzn really able to influence events on the fifth stratum from all the way down, wherever it was that Ancients lived? If someone had asked him a few days ago, the old Krath would have said of course not. Now? He wasn’t so sure.
+
+Regardless, he was no longer quite so shocked when he managed to find the Krath outpost without being eaten a dozen times over.
+
+And, of course, Chozth was extremely pleased to see him.
+
+After being thrown down to the floor, much as he’d expected, it took a few moments to realise that the powerful Krath’lath, sliding towards him, mouth open and flesh sizzling, intended to eat him without a word being exchanged. If he was going to live, he was going to have to speak up for himself.
+
+“The singing,” he burbled, face still pressed into the ground. “I found the singing.”
+
+For a terrifying second, he thought that Chozth wasn’t going to stop. The red rage in her eyes was all-consuming, and he could feel the acrid sting of her breath on his skin before she finally paused.
+
+“The what?” she rasped, still too consumed by anger and hatred to process his words properly.
+
+“The Ancient commanded and Goszi has listened. I found the singing.”
+
+Her arms lashed out, painfully squishing him down to the rocky floor of the chamber as her loyal followers watched on.
+
+“And you’re a loyal servant of the Ancient, are you, Goszi? You’re barely a Krath.”
+
+“I am as I was born,” he forced out.
+
+“No,” she hissed, “you’re not. You weren’t born a traitor.”
+
+The acid in her burned so fiercely that her saliva, dripping down onto his skin, ate into him.
+
+To be a traitor amongst the Krath, who didn’t have much of a sense of loyalty, was almost an accomplishment in Goszi’s eyes. He’d betrayed the tribe of his birth, his siblings, betrayed many of his fellow Krath, time and time again, cheated, lied, stole and schemed to keep himself alive, as all of them did. He was unique in one regard only: he had betrayed the Krath as a whole. Betrayed what it meant to be Krath.
+
+There was only one thing the Krath hated more than each other: everything else.
+
+The old slug was starting to believe even the benediction of the Ancient may not be enough to save him anymore. Well, he’d lived a long life for a slug of the tribes. At least if he saw Theorazzn in the Decaying World, he would be able to say he did as he was asked.
+
+“The singing is coming from somewhere inside the fortress of the invaders,” he said. “I was locked in a cell and I could hear it day and night. Maddening, haunting, enraging. I would have done anything to get away from it.”
+
+“Inside the fortress? Inside the fortress?! You’re sure?”
+
+“Would an old slug like me have been able to make it back here if there wasn’t something important for me to say? I saw a vision of Theorazzn, of the Maker, and I knew the second I heard that song that it was… wrong.”
+
+“Who or what is doing the singing, traitor?” Chozth burbled so deep in her throat it sounded as if she were speaking from her stomach.
+
+“I don’t know,” he replied, then allowed himself to go limp on the stone floor. Immediately he was squashed down painfully flat. After a few moments, Chozth relented, withdrawing her limbs.
+
+“Go ahead then,” Goszi muttered. “Eat me and be done with it. I did what I set out to do.”
+
+“Sell us out to the enemy? Give away the secrets of the Krath to invaders? Was that what you set out to do?!”
+
+She spat on him.
+
+“You will be consumed, Goszi, but not by me. Your flesh and your acid belong to your tribe. When your Krath’lath returns, he will administer your final fate. Until then, we will throw you in a hole.”
+
+Goszi was roughly seized on both sides by large, overbearing slugs.
+
+“What time will you be serving tea?” he grinned.

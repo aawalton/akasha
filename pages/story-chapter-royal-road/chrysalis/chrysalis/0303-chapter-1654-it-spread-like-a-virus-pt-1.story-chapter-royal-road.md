@@ -1,0 +1,83 @@
+---
+id: 6f9714a8-1f31-5ad4-a8f4-73cdec1aa0d9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1654 - It Spread Like a Virus pt 1"
+slug: 0303-chapter-1654-it-spread-like-a-virus-pt-1
+partOf: chrysalis
+position: 303
+ownLength: 1192
+unit: words
+ownProgress: 1192
+publishedAt: 2025-09-26
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2629320/chapter-1654-it-spread-like-a-virus-pt-1"
+royalRoadId: "2629320"
+markedReadAt: "2026-06-29T19:53:30.246Z"
+---
+
+Grey looked at the long line stretching out from the arena ahead of him, then craned his neck to look behind. If his judgement was accurate, and as a Blademaster of the Folk, it was, he was very close to the midpoint.
+
+“This is absurd,” he huffed. “Why are so many people eager to witness this… game,” he almost spat the last word, as if it left a foul taste in his mouth. “The arena is a sacred place, reserved for the art of–OOF!”
+
+He grunted more in surprise than pain as White’s foot crashed down on top of his own. He looked at her, surprised, but she flicked her hair and turned away, ignoring his eyes. He looked down at the small flags she held tucked up her sleeves where she thought he wouldn’t see them.
+
+She was surprisingly enthusiastic about this event. As were many of the Folk, to be fair, if the line was anything to go by.
+
+Despite the jovial, almost festival-like atmosphere that suffused the crowd, with laughing children, boisterous men and cheerful women of the Folk all engaged in banter and fun, Grey’s mood continued to sour. Not even the pickled azure-sea-viper meat sold from a nearby stall brought a smile to his face, though he gnawed at it with vigour. The skewers were some of his favourite snacks, and immensely popular amongst the wolf-folk.
+
+When they finally reached the front of the line, he was stunned to see they were asked to provide tickets. For a moment he panicked, only for White to produce two paper talismans from within her sleeve and hand them over.
+
+Of course, his apprentice had invited him to this event, so it was reasonable for her to secure their entry, even though, as her master, it would normally be his responsibility.
+
+He folded his hands into his sleeves and nodded to cover his momentary embarrassment, ignoring the slight shaking of White’s shoulders as she laughed at him. Scowling, Grey stalked into the arena, only to find his apprentice had seized his sleeve. He turned to find her pointing to her left.
+
+He raised his brows and she wordlessly handed him the paper talismans, which he scanned instantly.
+
+“We have allocated seating?” he growled. “Whoever heard of such a thing?! I’m a master at the arena! I go where I please!”
+
+A foot flashed down towards his own, but this time he was ready with a smooth step to the side. He grinned wolfishly, only for the smile to fade when he saw White glaring at him.
+
+“Fine,” he huffed, “lead the way.”
+
+All smiles once more, White pulled him by the sleeve towards their designated seat. When he saw that someone had gone ahead and carved the seat numbers straight into the tiered stone, Grey nearly lost his temper again. This was the Fang Palace Arena! One of the largest and oldest in the entire city! Which fool had decided to hack into these sacred benches with a chisel? He would shave their fur and run them bare-skinned through the nearest market!
+
+Except… White was glaring at him again, so he settled down, but he wasn’t happy about it.
+
+At full capacity, well over twenty thousand of the Folk could cram into the Fang Palace, but that would usually only happen for high level duels between eighth and ninth swords. The only times he’d seen it completely full to bursting were for demonstration duels by blademasters. Yet, as he looked around, it seemed as if it was going to be completely packed for this event. Just what had been going on around Freehill?!
+
+White seemed increasingly excited, bouncing in her seat as the arena continued to fill, while Grey took the time to examine the modifications that had been made to the field. It wasn’t unusual for the terrain in the centre of the arena to be modified for battles, so that didn’t offend him, but neither did he really understand the rectangular pit that had been sunken into the ground.
+
+Just what on Pangera were they planning on doing? And why was it so popular?!
+
+It took another twenty minutes for the arena to fill as Grey grew increasingly impatient and White increasingly excited.
+
+Finally it seemed they were ready to begin when a sphere formed of some sort of magic appeared above the arena and a voice began to emerge from it.
+
+“Uh… hello! My name is Peter Wittle.”
+
+“And I am Commentant, broadcasting pheromone to audible sound waves through the miracle of magic, here to bring you this exciting event, the first of its type here in the wonderful city of Freehill.”
+
+“Ladies, gentlemen and non-gender-specific types of Folk, I know there’s a strong contingent of Frog-Folk in the audience, are you ready for some TUNNEL BALL?!”
+
+The crowd of Folk, normally reserved and dignified in public settings, roared with appreciation, even White clapping loudly as she stamped her feet and grinned, eyes alight with excitement.
+
+“We have some wonderful teams here who’ve really been tearing it up in the cultural exchange matches with the Colony and in the newly formed Freehill Amateur League. In a Tunnel Ball tradition, please make our teams welcome to the field.”
+
+“That’s right, Commentant, I’ve been so excited to see the Folk develop their own style and methods of play in the lead-up to this event, and these two teams have each proven they are the cream of the crop in the local scene right now. Our first team to enter, please show your appreciation for the SPIRIT BLOSSOMS!”
+
+Confused at what was happening, Grey looked to his student for guidance. Even though some members of the crowd were cheering uproariously in an uncouth display, she was merely clapping politely and with quiet grace. Grey nodded in satisfaction. Yes, this was how a proper Folk comported themselves in public. For a moment, he’d thought everyone had gone completely mad.
+
+A team of ten Folk wearing matching pink on white uniforms embroidered with blossoms along the sleeves entered the arena. In two rows of five, they conducted themselves as warriors should, with fierce light in their eyes, straight backs and square shoulders.
+
+Grey could practically feel the fighting spirit rising off them like steam, and he felt his interest pique, almost despite himself. Was there going to be a fight?
+
+Before that question could be answered, the voices rang out from the sphere once more.
+
+“A very skillful and determined group, the Spirit Blossoms. Teamwork and coordination are the hallmark of their play, and when we get right down to it, that’s what Tunnel Ball is all about.”
+
+“Many would agree with you, Peter, but others would say skill and power are the hallmarks of a great team, and our next group is certainly a perfect example of that! Please welcome to the Arena, our second team for the event, the FLOWING STONE!”
+
+Grey raised his hands to once again clap politely, only to recoil in shock as White leaped to her feet, flags in either hand.
+
+“COME ON, THE STONE! LETS GOOOOOOO!!!!” she roared in a guttural warcry.
+
+“White?!” Grey gasped.

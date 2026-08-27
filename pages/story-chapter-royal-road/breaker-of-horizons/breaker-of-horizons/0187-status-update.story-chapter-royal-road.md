@@ -1,0 +1,31 @@
+---
+id: 548db5a3-0bcb-5e22-b2e1-297f39f0aaed
+page-type-slug: story-chapter-royal-road
+title: "[STATUS UPDATE]"
+slug: 0187-status-update
+partOf: breaker-of-horizons
+position: 187
+ownLength: 336
+unit: words
+publishedAt: 2022-04-20
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/890362/status-update"
+royalRoadId: "890362"
+---
+
+Hello dear readers,
+
+I know this isn't the update I promised for 18 April, but I've got some news to share.
+
+The 4-week hiatus has helped me take a bit of a breather, but work is still taking up a fair bit of my time, and it looks like the next year or so is set to be increasingly busy. Together with the new responsibilities in my personal life, it means I won't be able to keep up with the update schedule I've had so far.
+
+This story (which has been the biggest writing project of my life) is something that is really precious to me, and I want to assure you all that I don't intend to abandon it. I've thought long and hard about how to continue writing sustainably while still honouring my other commitments, and I've decided that this twice-a-week, almost episodic nature of my updates is not the best way forward.
+
+I'm going to be shifting to a once-a-month update schedule, with much lengthier chapters so that the pacing and development is more even. I'm sure many of you have noticed that the narrative tends to get bogged down quite a bit in some story beats, and that's largely due to my initial choice to post in short excerpts. I'm hoping that this change will be good for me as a writer, and also present a better reading experience.
+
+I haven't been able to make as much progress as I had hoped in my 4-week break, so I have to ask for everyone's patience as the earliest update will only be at the end of May. Thereafter, I'll be aiming to put my updates on the last week of each month.
+
+I understand that some might be disappointed with this development, and I'm truly sorry. I hope you'll still enjoy the story as it unfolds in the months ahead.
+
+If you'd like to get in touch, do join the Discord channel or feel free to drop me a DM via RoyalRoad.
+
+Yours,Aefraga

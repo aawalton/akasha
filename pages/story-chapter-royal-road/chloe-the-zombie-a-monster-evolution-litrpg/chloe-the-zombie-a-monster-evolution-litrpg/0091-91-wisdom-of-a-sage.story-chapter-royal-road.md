@@ -1,0 +1,179 @@
+---
+id: dbc9a670-f632-5002-99a3-cf17ec85ea33
+page-type-slug: story-chapter-royal-road
+title: "91: Wisdom of a Sage"
+slug: 0091-91-wisdom-of-a-sage
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 91
+ownLength: 2077
+unit: words
+publishedAt: 2025-12-24
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2876425/91-wisdom-of-a-sage"
+royalRoadId: "2876425"
+---
+
+As the blast faded, the ringing in Chloe’s ears softened, replaced by the gentle patter of debris raining down across the arena. She groaned and pushed herself upright, brushing off dust and little chunks of rock that clung to her clothes. Her legs wobbled a bit, but she managed to stand.
+
+Ugh… did I actually blow her up this time? she thought, rubbing her eyes. Part of her hoped the answer was yes. The other part was already preparing for Ynett to pop out and attack her again.
+
+Chloe took a step forward, scanning the arena. The ground was cracked, scorched, and littered with broken stone. The impact had basically turned everything into a giant mess, but there was still no sign of Ynett.
+
+Chloe cupped her hands around her mouth. “Hey! Ynett! If you’re still alive, come out and fight me! Or, like, hiss at me!"
+
+Silence answered her. Not even an echo bothered to show up.
+
+She glanced at Leftie, still perched on her shoulder. He just wiggled his fingers in a very unhelpful “no clue” gesture.
+
+If Leftie didn’t sense anything, and she didn’t sense anything, and nothing had tried to stab her in the last ten seconds… then she was pretty sure Ynett was gone for good.
+
+As Chloe stood there, a deep rumble rolled across the arena. Shadows gathered at the far wall, curling inward like smoke pulled by an invisible force. She tensed up for a moment, ready to throw another spell, but the darkness shimmered and took shape instead.
+
+Morikhan stepped fully into view, his huge silhouette still outlined by the fading shadows. His bright eyes fixed on her with an almost approving glow. “Well done.”
+
+Chloe blinked at him, dust still clinging to her eyelashes. “Wait… so that means I actually won?”
+
+“You did. Though I am surprised. Even with all that effort, I still failed to draw out your other half.”
+
+“So, uh, what are you gonna do with me now?"
+
+Before he answered, everything around her seemed to shift. Morikhan’s presence swelled, pressing against her like a sudden weight on her chest. His eyes began to glow with an eerie, ancient light, and shadowy energy rolled off his body in thick waves. It spread outward like a living storm, curling around his paws and rising into jagged wisps that made the air feel heavy and cold.
+
+Chloe’s muscles went stiff as she instinctively raised her hands, ready to fight again even though her legs were still jelly from the explosion. “Umm, Morikhan? Are we… doing this now?”
+
+She braced herself, but just as quickly as the power surged, it faded. The shadows sank back into his fur, the glow in his eyes dimmed, and the crushing pressure lifted. “Relax. I have no intention of fighting you.”
+
+“You aren’t?”
+
+“No. I am not here to fight you. In fact, I intend to let you and your… friend leave soon. Certain circumstances have forced my hand.”
+
+“Wait, really? I can just go? Like… go go?"
+
+"Indeed."
+
+"But, why? I thought you were super serious about trapping me here before."
+
+“As I said, certain things have happened. Things that changed my mind.”
+
+Chloe puffed her cheeks. “Okay but like… are you sure I’m really, really allowed to leave? You’re not gonna surprise-attack me later, right?"
+
+Morikhan huffed through his nose, sounding extremely done with her. “Before you go, I wish to give you something.”
+
+Chloe instinctively stepped back as the massive wolf approached. “Uh, wait, what are you giving me?"
+
+“Relax,” he said, lowering his head. “Just hold still.”
+
+Chloe tried. She really did. Her shoulders still twitched when his enormous snout reached her. Then his nose gently tapped her forehead.
+
+Her eyes widened. The world around her twisted as the arena dissolved into swirling green. And before she could even yell properly, she found herself standing in a wide, sunlit forest.
+
+"Where… are we?" Chloe asked out loud.
+
+Morikhan stood beside her and flicked his snout forward. “Look.”
+
+Chloe turned, and her jaw nearly dropped. Standing in the clearing was a woman she recognized, the same one she had seen before. She looked almost exactly like Chloe, pretty enough to make Chloe feel a tiny bit jealous, even though they basically had the same face.
+
+But her eyes went straight to what the woman was holding. A baby wolf.
+
+Well… “baby” was pushing it. He was huge for something that was supposed to be small. A big, fluffy ball of white fur with mossy green streaks, blinking up at the woman with bright eyes.
+
+“Oh,” Chloe whispered as the pieces clicked together. No way.
+
+She turned to Morikhan, pointing at the fluffy beast. “Is that baby wolf you?”
+
+“It is,” Morikhan said, almost sounding proud.
+
+Chloe pressed both hands to her cheeks. “Oh my gosh, you were adorable! Like, extremely adorable! Why aren’t you still this cute?!”
+
+Morikhan snorted loudly. “That is not the purpose of this vision. I wanted you to see that I am not your enemy. Not truly. Testing you, yes. Hunting you, no.”
+
+The forest shimmered, leaves rippling like water. Then the vision faded, colors peeling away until the stone arena re-formed beneath Chloe’s feet.
+
+She blinked around, dizzy. “Okay, so if you’re not a bad guy, why are you spending your whole life down here with all the ratfolk? Like, no offense, but this place is not exactly cool.”
+
+“The ratfolk, and by extension, the Black Maw, are a means to an end. I am far from what some would call good. But I do not act without reason.”
+
+“A means to an end… what does that even mean?”
+
+Morikhan gave her a tired look, but even so, he still answered her. “A means to an end means using something or someone to reach a bigger goal. The thing itself is not important. Only what it helps you achieve.”
+
+He spoke slowly, and Chloe nodded along as if she absolutely got it. Okay, I think I got that.
+
+“So, what’s your real goal then?”
+
+“To revive Ishgria. Obviously. The Black Maw exists to help me locate one of Ishgria’s black boxes.”
+
+Chloe remembered that Ishgria had been the first queen or something like that. But more importantly, she was absolutely sure that she knew about this box.
+
+“Wait! I think I had one of those black boxes!”
+
+For the first time since she’d met him, Morikhan’s expression cracked. Pure shock flashed across his eyes. “You… had one? Where is it?”
+
+“Oh! Sabine has it."
+
+Morikhan froze. Then he inhaled very slowly, as if trying not to growl. “I see.”
+
+Chloe frowned at him. “Okay… why did you say ‘I see’ like it’s a bad thing that Sabine has it?”
+
+“Tell me, Chloe… do you know about Sol?”
+
+“Oh! Yeah, I do. Sabine told me about them. She even asked me to join a while back.”
+
+Morikhan’s entire body stiffened. His ears pinned back, his fur bristled, and his eyes narrowed into slits. He looked one twitch away from biting the nearest wall. “Did. You. Join?”
+
+Chloe yelped and threw her hands up. “No! I didn’t! Promise! I mean, okay, I was a tiny bit curious because they sounded kinda cool, but I didn’t join! I swear!”
+
+“Good. Under no circumstances should you ever join Sol.”
+
+“Why not? All they’re trying to do is revive… uh…” She tapped her chin, trying to remember. “That guy named Solarius, I think? Sabine said he’s important.”
+
+“Solarius is not ‘some guy.’ He was the Sun God. A being whose power scorched entire continents. And he came dangerously close to destroying the world.”
+
+***
+
+Sabine and Scar moved through the dim stone passageway. When they finally reached the end of the corridor, they came upon a pair of massive stone doors that partially collapsed, their heavy slabs cracked and shoved inward as though something powerful had forced its way through.
+
+Scar let out a low whistle as he took in the damage. “Looks like somethin’ big went down here.”
+
+Sabine crouched beside a broken fragment, running her fingertips across its surface with a clinical eye. “There was conflict."
+
+Scar rolled his eyes. “Duh, I figured that much. I meant what exactly happened? This… ain’t normal. Even for this place.”
+
+Sabine rose smoothly to her feet and stepped closer to the ruined entrance. Her gaze narrowed as she examined the scene more closely. Faint scorch marks streaked the floor, and thin traces of shadow mana clung to the stone like lingering smoke.
+
+Beneath it all, she felt something else, an unusual pulse that resembled divine magic, faint yet unmistakable. “Chloe was here, and by now, she has likely already encountered Morikhan.”
+
+“Morikhan… yeah, he’s the Black Maw boss last I remember. Then we better move fast. Either help her take him down or get there before he sweet-talks her into joinin’ his side."
+
+Sabine didn’t respond right away. Instead, she turned fully toward Scar. “From this point on, I will proceed alone.”
+
+“Aw, c’mon. We can go together. ‘Sides, I ain’t lettin’ you take all the—”
+
+Scar's words cut off in a sharp gasp as a blade of lightning burst from Sabine’s hand with a violent crack. The strike drove straight into his chest before he could even move, the impact sending him flying backward.
+
+He crashed into the wall with enough force to leave a deep imprint, his body slumping as smoke rose from the scorched hole burned clean through his clothing.
+
+Scar’s eyes widened in stunned confusion. He opened his mouth as though trying to speak, but no words came out.
+
+Sabine remained exactly where she stood. Her arm lowered slowly, fingers still flickering with small sparks as the last traces of lightning faded. “You misunderstand. This part of the journey is not meant for you.”
+
+Scar let out a low, rumbling growl as he pushed himself off the wall. “Y’know… I always figured somethin’ like this might happen someday. But I didn’t think you’d go for the cheap shot.”
+
+Sabine didn’t bother responding to Scar’s words. Her expression remained perfectly composed as she lifted her hand, allowing lightning to coil up her arm. The air around her sharpened with static as bright arcs danced between her fingers. With a flick of her wrist, she released the gathered power. A storm of lightning bolts erupted from her palm, roaring down the corridor in a blinding cascade of light.
+
+The force of the barrage shook the stone passageway. Dust burst from the ceiling in thick clouds, and jagged cracks spread across the floor beneath the assault. When the final echo of thunder rolled away, Sabine lowered her hand, certain she had ended the matter.
+
+But as the haze slowly thinned, a dark silhouette shifted within the drifting dust.
+
+Scar stepped forward, breathing hard, but still very much alive. Smoke curled from the burned patches across his fur, and scorch marks striped his arms and chest. Even so, he wiped blood from his mouth with the back of his hand. “I ain’t complicated. You try an’ kill me… then I’ll do the same right back.”
+
+Sabine lifted her hand again, gathering lightning with practiced precision, but she barely had time to react. Scar vanished.
+
+The stone beneath his feet shattered the moment he moved, leaving deep cracks splintering outward from where he stood. In the blink of an eye, he closed the distance between them, and Sabine’s pupils widened as she realized she hadn’t even finished drawing her spell.
+
+Scar punched Sabine in the stomach. Her breath left her in a sharp, pained gasp as her body flew backward, slamming into the far wall with enough force to make the entire chamber tremble. She slid down the stone, coughing violently as a thin line of blood trickled from her lips and dripped onto the floor.
+
+For a moment, she remained slumped, her hand pressed weakly against her ribs as she tried to steady her breathing. Her vision blurred at the edges, and she tasted iron on her tongue.
+
+Scar exhaled as he straightened his posture. “Let me show ya why I lead the Ironfangs."
+
+His stance shifted as he planted his feet, centering his weight. Muscles tightened beneath his skin as a faint glow began to spread through him, pulsing just beneath the surface. It traveled across his arms and down his legs in steady waves, illuminating the cracks in the stone beneath his feet with sharp flickers of light.

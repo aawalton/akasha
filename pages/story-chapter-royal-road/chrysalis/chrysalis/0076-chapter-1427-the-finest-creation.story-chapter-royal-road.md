@@ -1,0 +1,95 @@
+---
+id: e9c94b78-6a22-53c9-b34f-89845dc1bb1a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1427 - The Finest Creation"
+slug: 0076-chapter-1427-the-finest-creation
+partOf: chrysalis
+position: 76
+ownLength: 998
+unit: words
+ownProgress: 998
+publishedAt: 2024-10-10
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1842868/chapter-1427-the-finest-creation"
+royalRoadId: "1842868"
+markedReadAt: "2026-06-29T19:46:12.556Z"
+---
+
+Purifying the mana of the fifth was not an idea that hadn’t been tried before. In fact, there had been dozens of attempts, throughout the millennia. In fact, historical records indicated that the Folks had made an attempt using specifically designed pets to handle the process, but were eventually driven out by the Krath.
+
+So why did the ants believe they were going to be successful where others had failed?
+
+First, they were able to bring a level of labour and resources to the project that other empires or nations would struggle to match. Even for the Folk, invading the fifth required an enormous amount of wealth, and the constant drain of cores used to fuel their pets became too punishing to continue. The Colony did not, so to speak, use money. As long as they were bringing resources in, they were willing to expend them in the fifth. The number of cores they were willing to spend would be absurd to any other civilisation.
+
+Second, they had developed a rich and thorough community, an entire caste, devoted to the research and rearing of pets on a grand scale. Despite their youth, the Colony had progressed with incredible speed in this field, and were confident in their core engineering. The eventual result, the ‘wuffer’ class of monster, was wholly unique and extremely well designed.
+
+- Excerpt from ‘The Invasion’ by Alberton.
+
+Bella and Ellie were busy. Extremely busy. It was a good feeling, they liked being busy, feeling as though they were contributing, they were ants, after all.
+
+Before them, a pile of wuffers sat on their platform, joyfully wibbling and wobbling as the foul energy of the fifth was piped directly beneath them and filtered up through small gaps before being absorbed by the jelly-like creatures above.
+
+Except, mana wasn’t the only thing being absorbed by the wuffers at the moment.
+
+Ellie extended her antennae to tap one of the wuffers and read its core. A library of information smashed into her mind, but she was extremely practised at this, sorting through the deluge with ease to find what she was looking for.
+
+“This one has reached max level,” she announced, “quick, rotate them out to the top of the pile.”
+
+The controller of this particular wuffer hurriedly stepped forward and ordered her pet to move aside, which it did. They didn’t move very fast, the wuffers, jiggling their way forward with an ungainly backwards and forwards motion.
+
+“Wufwufwuf!” it wibbled happily, and the ant controller gave her pet a generous tickling with her antennae before encouraging the monster to rejoin the pile, but at the top. Another in need of levels took its place and soon they were back to operating at full efficiency again.
+
+“Are there any close to reaching the sixth tier?” Bella asked.
+
+“Not in this node,” Ellie shook her antennae. “How many more do we need?”
+
+“At least two, but it would be safer with three,” came the reply.
+
+“Safer, or better?”
+
+“Is there much of a difference?”
+
+“Not really.”
+
+The two turned back to look at the platform covered in adorable, wibbling blue jelly-monsters. The wuffers were performing up to expectations so far, but they had discovered something worrying recently which was forcing them to accelerate their plans.
+
+“When was the last time these were checked for stress?” she asked one of the nearby core-shapers.
+
+“Just a few hours ago,” came the reply.
+
+“Make sure you check every three hours,” Ellie warned. “The cases we’ve found accelerate quickly. It’s best to be on it as early as possible.”
+
+The core shaper nodded her antennae and turned back towards her charges with renewed focus as Bella shook her head.
+
+“Damn fifth,” she complained, “is there anything it won’t contaminate?”
+
+“It can even break down mana,” Ellie said, “we shouldn’t be surprised that even our wuffers aren’t immune.”
+
+As indeed they weren’t. It was necessary for the wuffers to be exposed to the mana of the fifth, indeed, that was their entire purpose, but nothing, it seemed, was immune from becoming degraded by exposure to that poison, not even the wuffers.
+
+If caught early enough,  they were able to solve the issue, but some wuffers had already needed to be taken off rotation in order for longer term healing to take place.
+
+It was inevitable that more wuffers would fall prey to the toxicity, slipping through the cracks, no matter how vigilant the core shapers were of their charges. That meant a more permanent resolution had to be found, and they already knew what it was.
+
+They would attempt something none in the Colony had ever attempted before: a fused evolution.
+
+Of course, they had planned for it, chosen this path amongst many for the progress of the wuffers. They were specifically designed to undergo this process, but even so, nerves were high between Bella and Ellie as the moment of truth drew closer.
+
+“Do you think we’ll really be able to do it?” Bella asked.
+
+“Of course!” Ellie retorted, trying to give herself confidence. “Our planning was meticulous!”
+
+“But we haven’t tested it….”
+
+“We couldn’t test it! Not without pushing the timeline of the invasion back until after the wave!”
+
+“How many are we aiming to combine?”
+
+“Five.”
+
+What they planned wasn’t an evolution, per se, but a fusion of living monsters. Normally something that wasn’t possible, but with certain types of monsters, it could happen. By combining five tier six wuffers, they wouldn’t create a tier seven, but something like a tier six and a half. Some of the energy contained in the cores would go to waste, which was a shame, but reaching a tier seven wuffer was unrealistic, particularly in the short term.
+
+This was why new wuffers were still being raised as fast as possible in the fourth, they wouldn’t be able to maintain the invasion if this fusion turned out to be a waste.
+
+But if it did…
+
+The first of the great wuffer queens would rise.

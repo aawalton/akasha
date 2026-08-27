@@ -1,0 +1,121 @@
+---
+id: 756a9299-7fad-5d26-861d-8dfa4bf0d9bd
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1647 - Deep in the Centre of the World"
+slug: 0296-chapter-1647-deep-in-the-centre-of-the-world
+partOf: chrysalis
+position: 296
+ownLength: 961
+unit: words
+ownProgress: 961
+publishedAt: 2025-09-17
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2606305/chapter-1647-deep-in-the-centre-of-the-world"
+royalRoadId: "2606305"
+markedReadAt: "2026-06-29T19:53:17.013Z"
+---
+
+Well, I’ve been on this ride before. Spinning like I’m going down a drain, only to sink so far and deep I can only imagine I’ve landed right in the middle of Pangera, right at the core.
+
+Of course, I have no way to confirm that, I’m just a disembodied consciousness along for the ride. How does that even work, by the way? Who is Gandalf, that he can just snap my mind out of my body whenever I evolve? Not that I mind, really. Our conversations are somewhat enlightening. Well, that’s not true, but I do like meeting new people, even if they don’t answer any of my questions.
+
+I have to say, this time around, I’m pretty happy to be out of my body. Holding back Theorazzn’s damned curse isn’t a good time, and after my horrifically shame-inducing itch explosion, the spread had gotten bad.
+
+I’ve worked so hard to hide my secret from the Colony, and now it’s been exposed for all to see! I’m so annoyed!!
+
+In fact, if I get an answer to anything, I need to know why I’m the only one who suffers from this damned itch! It isn’t fair, dammit! Gandalf must reveal this secret to me if it’s the last thing I do!
+
+[I must reveal… what, exactly?]
+
+Gandalf! You can’t sneak up on me like that! I’m just a disembodied mind, I have no way to know you’re coming!
+
+[You persist in calling me this name.]
+
+You aren’t going to tell me your real name, are you?
+
+[No, I am not.]
+
+There you are, then. Gandalf.
+
+[Fine. Now what are you complaining about?]
+
+The itch! The damned itch! Every time I mutate, it itches like crazy! I figured it made sense, since my cells were changing or whatever, but nobody else goes through it! Not even other reincarnated people! How is that fair?
+
+[Well… the Dungeon isn’t exactly designed to be fair.]
+
+Wait. You designed it? The whole Dungeon?
+
+[No. I did not.]
+
+Come on, I might be dead in a minute, you should give me at least one answer!
+
+[Oh, I don’t believe you are going to die, otherwise I would not have summoned you here. I have no interest in talking to those who have no immediate future.]
+
+Well, you might not know this, but I’ve got Theorazzn’s toxic goop infecting me. It’s not looking good. It certainly wasn’t when I left, anyway, and I can’t imagine it’s gotten better.
+
+[You will be surprised, I think, when you wake. Some grudges, it seems, are genetic. Even I had not imagined that something like this was possible. I can well imagine the fury of that irritating starfish when they learn of what has happened. How delightful.]
+
+Gandalf chuckles to themself, but I’m left confused.
+
+Starfish?
+
+[Theorazzn. If I were to describe the creature to you, they would be something of a cross between a crab and a starfish.]
+
+Oh… weird. I thought for sure they would be a slug.
+
+[Well… they are something of a slug as well.]
+
+That… that isn’t making much sense to me. How in the heck am I supposed to picture that?! Anyways, all of this is beside the point. Your cryptic talk of grudges and such is meaningless to me. The itch! I demand answers!
+
+[You are being particularly irritating this time.]
+
+I’ve had a bad day.
+
+[Considering the life you’ve lived, that must be some day.]
+
+Honestly… yes. Even for me, this one has been poor.
+
+[Only poor? That sounds more like you. Very well. I will take a look. Give me a moment.]
+
+I can’t really describe what it’s like to have your mind/soul picked up, turned upside down and shaken, but that’s exactly what happens to me in that moment. It’s a profoundly strange experience. Honestly, I recommend it. If anyone else from the Colony comes down here, I’ll get them to ask for it.
+
+[They don’t come here. Very few do.]
+
+I thought you spoke to everyone like me, at least? All of the reborn people?
+
+[I do, but only once for most of them. Before they reach another evolution, they either go completely insane or become uninteresting. You, on the other hand, continue to surprise me.]
+
+Well… that’s good, I suppose.
+
+[As for your… issue. I truly have never seen this before. You aren’t supposed to be able to feel the changes taking place at the cellular level. Nobody is. An organism doesn’t feel it when new cells are created, so how are you able to experience these changes?]
+
+I don’t know! Weren’t you going to tell me? You’re the wise wizard with the eyebrows of incredible expressiveness! Between the two of us, it’s obvious who has the answers.
+
+[I don’t… never mind. This is… interesting. I can only imagine that your soul is somehow embedded more deeply within your new body than is normally possible. Are you… sure you weren’t an ant in your previous life?]
+
+You know very well I was a human! I had hands! I had two legs! Which is an inferior number of legs, of that I’m fully aware, but two nonetheless!
+
+[I do know that,] Gandalf muses. [Fascinating. Even regular monsters aren’t so fully integrated with their bodies. I wonder how this could possibly have happened?]
+
+So… can you fix it?
+
+[Do you want me to?]
+
+Well, I won’t lose any sort of competitive advantage, will I? I mean, this isn’t the only reason I’m still alive or anything, is it?
+
+[If anything, I believe it’s a disadvantage, as your most recent mutation period has proven.]
+
+Great! Well, fix away! I’ll be glad to be rid of it.
+
+…
+
+…
+
+…
+
+You aren’t going to fix it, are you?
+
+[No.]
+
+WHY?!
+
+[Because it’s interesting.]

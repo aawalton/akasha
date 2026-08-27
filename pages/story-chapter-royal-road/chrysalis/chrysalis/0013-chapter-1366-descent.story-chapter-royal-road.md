@@ -1,0 +1,65 @@
+---
+id: 2f7383b6-96a9-5dab-b439-774bed4c5659
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1366 - Descent"
+slug: 0013-chapter-1366-descent
+partOf: chrysalis
+position: 13
+ownLength: 1109
+unit: words
+ownProgress: 1109
+publishedAt: 2024-07-02
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1701532/chapter-1366-descent"
+royalRoadId: "1701532"
+markedReadAt: "2026-06-29T19:44:04.109Z"
+---
+
+The wuffers go first. Well, that’s not entirely true, I go first, since I can survive down there, for a while at least, without any help. Once I plunge myself back into the goop, I don’t descend this time, but wait as the entire contingent of wuffers is lowered down the tunnel after me.
+
+All five hundred of them.
+
+All mooshed together, they don’t appear like separate monsters at all, but rather one big, blobby, ball of cheeriness as they wuff wuff away, perfectly content with the world. The moment they touch the mana of the fifth however, an arcane-chemical reaction takes place.
+
+The happy pets don’t change at all, but the mana around me certainly does. Like a pump is suddenly turned on, there is a massive whoosh of energy as the wuffers suck in a huge quantity of the poisoned mana. Clinging to the side of the tunnel, it’s like I’m inside a sewer and someone just flushed a whole mess straight into my face.
+
+It’s unpleasant, is what I’m saying.
+
+Once the creatures have taken in all they can, the flow settles down and things return to normal. I nervously wait to see if there’s any activity from below, but the monsters down there seem to be chilling for the time being. After about a minute, something changes. From above, the wuffers finish purifying the mana of the fifth, and release that cleaned energy above themselves.
+
+Then they descend a little and the process starts again.
+
+At least I’m not subjected to that massive influx like I was the first time, but rather a slow and steady descent as the wuffers form a solid mass, not allowing a single drop of corrupted energy to slip past them, and filling the tunnel with clean, pure energy for the ants to climb down in.
+
+Fortunately, forming a plug in the way they have has seemingly prevented the natives below from sensing what we’re up to for the time being, which is a good thing, since I have to fight them off by myself if they decide to come up here. I mean, things are bound to go straight to heck once we reach the opening, but for now, we descend peacefully.
+
+The rings are really helping take the edge off the pain of being in the fifth. Are they enough for me to sustain myself down here permanently? Nope. I’m still literally on fire, all over my body, being burned constantly by acid, which isn’t the best. I’m also still being invaded by toxic mana, which would devour me if I left it alone for mere minutes. But the rings are helping mitigate both problems, just enough that they become significantly more manageable.
+
+Planning and preparation, they actually do help!
+
+Bit by bit, we lower ourselves down, the five hundred strong blob of wuffers doing their work until we reach the lower end of the tunnel. I bring myself down into the chamber itself and perch on the roof, out of trouble’s way. Things are pretty much the same down here as they were when last I saw them, but I know that’s about to change.
+
+The second we unleash the converted mana into this larger arterial tunnel, things are going to go straight to heck. In preparation for that moment, we wait here for a while, the wuffers working away to build up a larger bank of ‘clean’ mana in the tunnel above.
+
+I feel a mind bridge connect to me.
+
+[We’re ready, Eldest. Prepare for descent.]
+
+[Got it.]
+
+Then the contact breaks and I spin up my minds, ready for battle. We have to be careful using mind bridges down here, every type of mana is vulnerable to corruption from the atmosphere in the fifth. I didn’t believe it when I heard it was so toxic we couldn’t even make a gate down there, but apparently Brilliant ran tests to confirm it. This mana is so virulent, every other form of energy it comes into contact with will become foul and no longer work, or worse. In the case of a mind bridge, the mana will seep into it, then trace the bridge straight back to your brain. Nasty stuff.
+
+A few seconds later, the wuffers break their tight formation, creating a gap in the middle as they squish themselves against the sides. Through the hole they’ve created, purified blue mana slowly falls down into the sludge of the fifth. Both forms of mana are thick and slow-moving, like syrup or molasses, but when they come into contact with each other, they fizz, each trying to eat into the other. As the blue mana spreads, it stretches thin, then pools down to the floor of the cavern where it begins to balloon and spread.
+
+And the monsters go crazy.
+
+As the mana comes down, so too, do the ants. In a constant stream, they drop through the gap to land in the growing cover of the purified energy, and then unleash their ferocity upon the local monsters. The creatures native to this stratum are in the process of going completely berserk. The moment they sense the ‘foreign’ energy seeping into their world, it’s as if a switch has flipped. Screams of terrifying rage echo off the tunnel walls as a flood of molluscs, crustaceans and other bizarre creatures come charging towards us, held back only by the rapidly increasing force of ants securing their position beneath the entrance tunnel.
+
+Well, them and myself, I suppose. I throw myself into the battle, jaws gnashing, mana churning as I use my mass and aggression to hold off as many of the beasts as I can. Void Chomp after Void Chomp is unleashed, carving huge chunks out of the largest and most threatening monsters who seek to assault my brethren.
+
+As soon as the pool of clean energy grows large enough, Tiny, Invidia and Crinis descend, adding their considerable firepower to the effort. In a moment, lightning fists, shadow tentacles and masterful explosive magic are helping to keep back the tide. Once the full five thousand ant brigade has made its way down, we are no longer content to hold; instead, we push out, claiming more space.
+
+Then, and only then, do the wuffers descend, settling into the centre of the formation, happily chuffing away as everything goes to heck around them.
+
+Soon enough, channels of toxic energy are dug out, sending a steady flow of corrupted mana towards the cheerful pets, who consume it, then expel pure mana back out, which in turn continues to spread, growing the ‘safe-zone’ in which we can operate.
+
+The purification has begun.

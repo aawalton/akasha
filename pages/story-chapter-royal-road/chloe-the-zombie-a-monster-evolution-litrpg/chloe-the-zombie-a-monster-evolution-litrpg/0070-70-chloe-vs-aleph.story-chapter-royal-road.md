@@ -1,0 +1,183 @@
+---
+id: 4c7980e7-88ab-5fd8-9799-727eaae800eb
+page-type-slug: story-chapter-royal-road
+title: "70: Chloe Vs Aleph"
+slug: 0070-70-chloe-vs-aleph
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 70
+ownLength: 2142
+unit: words
+publishedAt: 2025-11-16
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2766117/70-chloe-vs-aleph"
+royalRoadId: "2766117"
+---
+
+Seeing Aleph up close, Chloe was starting to rethink some of her choices. She’d been brave enough to charge up to Aleph earlier, but something about him stepping into the arena now felt... different.
+
+It felt like the entire arena shifted just to make room for him. Too bad she was already in it.
+
+Aleph walked confidently across the sand, and he looked even cooler with flames curling up his fists.  His eyes locked onto Chloe from across the ring.
+
+Soon, the announcer’s voice boomed across the arena. “Vorraska! What you are about to witness is a battle unlike any other tonight! In this special exhibition match, our fearless challenger, Chloe, has agreed to take on none other than our undefeated Guildmaster!”
+
+The crowd responded with curious murmurs, scattered laughter, and a few half-hearted cheers. Chloe squinted up at the stands and caught someone making a face at her. So rude.
+
+The announcer raised his voice. “But this isn’t a fight to the death, oh no! All she has to do… is survive!”
+
+More murmurs. A couple of guys whistled.
+
+“That’s right, folks! Three minutes on the clock. If she lasts, she walks away with her head held high! And best of all. We’re taking all bets tonight! Look out for our arena staff making their way through the stands!”
+
+When these "bets" were mentioned, the crowd roared to life, clapping and shouting. Chloe even heard someone yell, “Put me down for two minutes before she combusts!”
+
+Wow, super rude, she thought, waving casually at no one in particular.
+
+The announcer finally turned his focus back to the ring. “Guildmaster Aleph, are you ready?”
+
+Aleph didn’t move much. Just nodded once. “Ready.”
+
+“And challenger Chloe?”
+
+Chloe nodded. “Yep!”
+
+The crowd held its breath as the announcer raised one arm high. “Three… Two…”
+
+Aleph’s eyes never left her. It wasn’t even an angry stare, just focused. But it still made Chloe’s skin crawl a little. Why did he have to look at her like that? Like he already knew exactly how this was going to end.
+
+Okay, creepy stare. Not helping my confidence here.
+
+“...One… FIGHT!”
+
+The word had barely echoed before Aleph rushed toward Chloe. This is not good!
+
+Aleph’s fist crashed into her stomach hard. Heat bloomed through her torso, and the next thing she knew, the ground was gone. Sand blurred past her vision as her body flew through the air.
+
+Chloe hit the arena wall hard. The impact echoed with a bone-jarring thud as a cloud of dust and sand exploded around her. The stone shook beneath her weight before she landed in a heap at the base of the wall.
+
+For a moment, Chloe didn’t move. Then, from the middle of the dust cloud, she groaned.  “Okay... that was not cool.”
+
+The crowd reacted with a mix of gasps and oof noises. Even Aleph, still wreathed in flame, stood still a bit longer than expected. Like he hadn’t thought she wouldn't be able to get up.
+
+Chloe sat up with a wince, but was otherwise okay.  She blinked grit out of her eyes, locking her gaze on Aleph across the arena. “Jeez, you punch really hard."
+
+Aleph said nothing. Just watched her with that same unreadable expression.
+
+Chloe staggered to her feet, wobbling only slightly. “Well, too bad for you, I’m not going down that easy.”
+
+Aleph moved again, but this time, Chloe was ready. She slammed her foot down into the sand, pouring magic into the earth beneath her feet. The arena floor trembled in response, and a deep, cracking rumble rolled out.
+
+Come on, spikes. Do the thing.
+
+The ground split apart, and a row of stone pillars burst upward in rapid succession. Each spike tore through the sand, closing in around Aleph. He twisted between them way too easily though. His fire trailing behind like a streak of lightning.
+
+But then, one of the pillars clipped him hard across the ribs. For the first time since the match began, Aleph lost his footing and went flying. His body hit the ground with a satisfying crash that sent up a spray of sand.
+
+The crowd erupted. Shouts and cheers thundered across the arena, some in disbelief, some in delight. Chloe froze for half a second, eyes wide. Then she grinned. “Yes!"
+
+But she wasn't done yet. Frost curled around her fingers as she threw her arms forward, pulling in everything she could.
+
+A massive icicle began to form, almost as long as Chloe was tall. With a shout and a shove, she launched it toward Aleph, just as he started to push himself up.
+
+The ice struck him in the chest and detonated on impact. Frozen mist exploded outward in a swirling cloud of white and glittering shards. The blast sent Aleph skidding backward again, his form vanishing for a moment behind the fog.
+
+The crowd lost it. The cheering turned into a wave of gasps, yells, applause, and someone who very clearly screamed, “What just happened?!”
+
+Chloe stepped forward slowly, feeling really smug.  Look at me. Doing things and being cool.
+
+She narrowed her eyes at the shape crumpled in the sand. Aleph wasn’t moving much, though a faint curl of smoke still rose from his body.
+
+Then, to her surprise, he sat up, smiling. It wasn't a smug smile, Chloe was pretty familiar with what those looked like. Aleph's smile was subtle, relaxed, almost... happy?
+
+“Not bad,” he said, casually brushing off a layer of ice.
+
+Chloe’s grin widened. But her victory lasted all of two seconds.
+
+A soft hiss filled the air as Aleph's hair turned to fire. Flame raced up the strands, down his shoulders, and across his back. Heat poured off him in waves, the sand around him starting to glow.
+
+The crowd exploded into screams and cheers. Soon, the announcer’s voice boomed like thunder. “You saw it here, folks, Guildmaster Aleph has activated his Blaze Drive!”
+
+Chloe had no idea what this Blaze Drive was, but she could see that Aleph was getting a lot stronger, and a lot more smug looking. In other words, she knew she was going to be in for an even harder fight.
+
+With Aleph blazing hot, Chloe expected him to charge forward again. Maybe rush her down, punch her through another wall, repeat until she stopped moving.
+
+But instead, he jumped back. Sand scattered beneath his boots as he landed several strides away.
+
+His arms spread slightly, fire licking up his shoulders. Chloe tilted her head, wondering what he was trying to do as the heat in the air swelled. Wait. Why is he backing up? You’re supposed to come this way, not—
+
+Then she saw him inhale. His chest expanded, glowing brighter with every second, the air around him warping from the sheer heat.
+
+Chloe’s stomach dropped as she figured out what was going on. Nonono!
+
+She slapped both hands against the sand, magic surging from her fingertips into the ground. The arena floor trembled beneath her palms as she channeled her earth magic with increasing desperation.
+
+The moment Aleph exhaled, the world exploded into flame. A wave of fire tore across the arena, roaring loud enough to drown out the crowd.
+
+Chloe threw up the first earth wall just in time for it to disintegrate, the stone bursting apart like it was nothing. She flinched back and raised another, forcing the ground to rise again. The second wall cracked instantly, fractures glowing red before the whole thing collapsed in on itself.
+
+Her skin burned from the heat. She could barely tell where the ground ended and the flames began. The sand beneath her feet had turned glassy in spots.
+
+“Come on, come on, come on,” she muttered through gritted teeth. One more. Just one more.
+
+Luckily, the third wall came up just in time, thicker and denser than the others. She poured a lot more magic to make this one the sturdiest wall ever.
+
+The fire struck it head-on. The wall screamed under the pressure, glowing as heat bled through it. How long does this last?! Doesn't he need to breathe? Oh wait, what if he doesn't need to breathe?
+
+Chloe could see the stone begin to buckle under the weight of Aleph's flames. And then, suddenly, silence.
+
+The flames started to disappear, leaving the air heavy and hot. The light dimmed to a faint glow, and her final wall still stood, although just barely.
+
+Chloe's ears rang. Her vision swam in the heat, but she got the hang of things after a few seconds.
+
+Then she peeked out from behind her wall; and saw that Aleph was nowhere to be seen. Darn, where did he go?
+
+All of a sudden, something shifted above her. Chloe felt tense as she realized that she needed to move immediately.
+
+She threw herself backward just as a shape dropped from above. Aleph slammed into the ground where she’d been standing, the force of his landing sending sand flying in every direction.
+
+The arena sand cracked beneath his boots, the impact so hot and violent that patches of the sand instantly turned to glass. Chloe landed in a slide, boots scraping against the scorched sand.
+
+Aleph’s eyes locked on hers before he even stood fully upright. Then, he charged again.
+
+Flames wrapped around his arm, building at the shoulder, spiraling down to his clenched fist. Okay okay okay, nope!
+
+Chloe didn't think much. She dove straight into Wraith Form.
+
+Her body turned  invisible just as Aleph’s fist passed through her chest like she wasn’t even there. It was kind of funny seeing the guildmaster's reaction as his fist just went through the air.
+
+The entire crowd gasped. A few looked at each other, wondering what was going on exactly.
+
+Aleph straightened, staring at the spot where Chloe had just vanished. His eyes narrowed with visible surprise. Finally! It's time I get a good hit in for a change.
+
+But before he could react, Chloe reappeared behind him. She’d already pulled her fist back, winding up for one of the biggest punches she’d ever thrown. Ice scales crawled over her arm, thickening at her knuckles.
+
+Aleph turned just in time to see her grin. Chloe's fist collided with his jaw in a loud, cracking blow. The icy knuckles hit with extra crunch, and the force of the blow lifted him off his feet and sent him flying across the arena.
+
+He crashed into the sand, tumbling hard and fast. Chloe actually stumbled forward from the force of her own punch, blinking as she tried to regain her balance. She watched as Aleph skidded backward, coming dangerously close to the arena wall…
+
+But sadly, he didn’t hit it. At the last second, he dug his heels into the ground, which stopped his movement. The sand around him hissed as he exhaled, smoke curling from his shoulders.
+
+Aleph looked up and met her gaze. And he smiled. “You’ve done pretty well for a new fighter. But I’m going to end this show now."
+
+Chloe took an instinctive step back. Uh-oh.
+
+She raised her fists and focused her magic. The ice scales thickened and spread, crawling from her knuckles, up her arms, across her chest, her back, her legs.
+
+Chloe had no idea what Aleph was trying. But at the very least, she was going to try and protect herself as best she can.
+
+Sure, it's not like she was going to die if Aleph hit her. But she remembered what Raenof said about not using certain abilities. If the guildmaster decided to damage her a bit too much, she'd have no choice but to regenerate. And that would probably draw out a lot of not so good reactions from everybody.
+
+Firstly, Aleph raised his hand and hurled a fireball her way. Chloe countered without thinking, conjuring one of her own and flinging it forward.
+
+The two balls of flame collided mid-air with a violent crack, bursting apart in a shower of sparks. Another came, and another.
+
+Chloe kept hurling fireballs, matching Aleph shot for shot. Their spells collided in midair with sharp bursts of red and orange, each explosion lighting up the arena. The crowd held its breath, teetering between awe and panic, no longer sure who was actually winning.
+
+But then, Aleph lowered himself into a firm stance as he planted both hands on the ground. Chloe swallowed something down her throat. I dunno what he's doing, but I got a bad feeling.
+
+Chloe just knew that whatever he was winding up, it wasn’t going to be nice. Probably something on fire. Probably bad.
+
+She started backing up fast. Chloe's eyes stayed locked on him, watching carefully.
+
+But just as Aleph's body began to glow really bright, a sharp ding! echoed through the stadium. The announcer’s voice followed a moment later.
+
+“Three minutes have passed! That’s the match!”

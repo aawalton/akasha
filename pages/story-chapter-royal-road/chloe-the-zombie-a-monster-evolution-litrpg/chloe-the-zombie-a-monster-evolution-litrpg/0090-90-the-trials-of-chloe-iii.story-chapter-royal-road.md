@@ -1,0 +1,131 @@
+---
+id: 3a14e389-8fc1-5c04-b87a-0e93a7fc67aa
+page-type-slug: story-chapter-royal-road
+title: "90: The Trials of Chloe - III"
+slug: 0090-90-the-trials-of-chloe-iii
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 90
+ownLength: 1956
+unit: words
+publishedAt: 2025-12-22
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2870139/90-the-trials-of-chloe-iii"
+royalRoadId: "2870139"
+---
+
+The temperature dropped fast. Cold air slithered across the arena floor, biting at Chloe’s legs and swirling the dust into lazy little spirals. Honestly, she wasn’t surprised. Ice magic was kind of Ynett’s whole thing.
+
+She’d faced the witch before. And if there was one thing she remembered about fighting Ynett, it was the illusions. So many illusions.
+
+She crouched low and she thrust out a hand. A blast of fire roared from her palm and shot across the arena toward the pale figure in the distance. It cut a line through the frost-chilled air, striking true, except it didn’t.
+
+The fire passed right through Ynett’s chest, fizzling against the stone behind her. “Tch. Illusion number one,” Chloe muttered, already moving.
+
+She dashed to the right, picking up speed as she shaped ice into a jagged spear in her free hand. Another Ynett flickered into view at her flank. Chloe didn’t slow down. She hurled the ice straight through the Ynett's face, and it vanished in a burst of mist. That's two illusions.
+
+Movement again, this time behind her. Chloe spun and slammed her foot into the ground. The earth cracked with a deep thud, jagged pillars shooting up around her. One of them impaled the third Ynett, shattering her illusionary body in a burst of frost and sparks.
+
+Chloe fired off another fireball, the flames streaking across the ground in a bright arc. This time, Ynett actually reacted. With a spin and a sharp flick of her pale robes, she slipped out of the fire’s path and kept advancing, her eyes fixed on Chloe.
+
+Chloe’s shoulders tightened as she braced herself. Okay. That one’s probably real.
+
+She braced herself just as Ynett's palm flashed blue. Ice shot across the ground. Chloe yelped and leapt to the side, barely avoiding the trail of frost. Her boots skidded. She dropped into a crouch, conjuring another pillar of earth between them for cover.
+
+Meanwhile, Ynett raised a hand, and five more copies of her shimmered into being. Chloe groaned. “Oh come on, again?”
+
+Leftie twitched on her shoulder, pointing off to the left. Chloe took the hint, turned, and sent a wide arc of flame in that direction. Three illusions burst in one go.
+
+Still, one Ynett remained standing behind the others, her hand flickering with frost. Chloe narrowed her eyes, then grinned.
+
+She lunged forward, leaping off the cracked earth. With fire coiling around her fists and a chaotic battle screech, she slammed both hands into Ynett's chest, and felt resistance. Solid, real resistance.
+
+The impact sent them both skidding across the arena. Chloe rolled a few times before coming to a stop, then shoved herself up on one knee with a groan. Her head throbbed, but she was grinning anyway. She was finally making some progress, which was nice, because getting bullied by a fake witch would have been super embarrassing.
+
+Ynett recovered faster than she expected. The wind around her sharpened, swirling into ribbons of frost that clung to her robes. Chloe wiped a smear of dirt from her cheek. “Okay… just a bit more."
+
+Chloe lifted her hand and called up her blood magic. She twisted her fingers in a series of tight, snappy motions, as if she were trying to grab something inside Ynett and yank it around.
+
+For a moment, she felt the faintest hook of resistance, a tiny tug that made her hope she’d caught something. But the feeling slipped away almost instantly, leaving her magic grasping at nothing. It didn’t take long for her to realize the truth, her blood magic was completely useless against this version of Ynett.
+
+Maybe it was because this Ynett wasn’t actually real. Chloe narrowed her eyes, studying the witch’s expression.
+
+Ynett usually talked a lot. Like, a lot a lot. The real one would already be throwing shade, bragging about how much stronger she is, and trying to make Chloe feel bad. This one stayed silent the whole time. And the way she’d first appeared, formed from shadows, felt wrong.
+
+Chloe guessed Morikhan had created this version of Ynett for the trial. That probably explained why the illusion felt hollow the more she fought it. Unfortunately, its attacks felt very, very real, and Chloe still had to deal with that part.
+
+Ynett flicked her finger, sending several long spears of frost hurtling toward Chloe. She squeaked and dove aside, rolling across the dirt. Meanwhile, a spear buried itself in the ground exactly where her head had been a heartbeat earlier. I need a plan. And maybe a snack. Or both.
+
+She scrambled upright and shook the frost off her arms. Real or not, this Ynett could still stab, freeze, and otherwise ruin her day. And Chloe guessed she still needed to “kill” the projection if she wanted to pass the trial. Blood magic was out, which was frustrating, but she wasn’t out of tricks yet.
+
+Chloe spread her hands wide, and her shadow responded. It stretched across the arena floor, thinning and twisting until it looked far too alive. The darkness rippled in a deep shudder, then erupted upward as dozens of jagged shadow spears tore free from the ground, shooting toward Ynett in a vicious volley.
+
+The witch didn’t even twitch. Her body softened at the edges, then crumbled apart into drifting flakes of frost, dissolving before the spears reached her. The shadows ripped through nothing but cold air, slamming into the far wall with enough force to crack stone.
+
+Chloe groaned, letting her arms flop at her sides. “Oh come on!"
+
+She barely finished whining when a cold shock punched straight through her back. The impact jolted her forward like she’d been struck by a ballista bolt. Chloe’s eyes went wide, and she twisted her head just enough to see the problem.
+
+Ynett stood directly behind her. Because of course she did. The witch held a long, crystalline blade of ice, already shoved deep into Chloe’s spine.
+
+Chloe curled her lip into a snarl and planted her foot hard against the ground. With a loud growl, she shoved her heel backward and slammed it into Ynett’s stomach with all her undead strength. The impact made a satisfying thunk, and the witch staggered back several steps.
+
+She dropped to her knees as the sword slid out of her back with a wet, scraping noise that made her whole torso twitch. Black ichor spilled freely from the hole, dripping down her shirt in thick, sticky globs.
+
+Forcing herself upright, Chloe thrust both hands forward. Her shadow reacted instantly, roaring outward like a storm unleashed. Dozens upon dozens of spears formed at once, each one sharper, darker, and angrier than the last. They launched in a massive wave, tearing across the arena in a shrieking rush.
+
+The spears hit Ynett dead-on. They punched through her from every direction, pinning the witch to the ground with sickening, crunchy impacts. Shadow spikes jutted through her arms, her chest, her stomach, even her stupid pointy hat. For a moment, Ynett looked well and truly skewered.
+
+Chloe genuinely thought she had won. Victory felt so close she could almost taste it.
+
+But then Ynett’s pinned body flickered. A moment later, the form fizzled apart and melted into a swirl of pale mist, drifting away until nothing remained but the shadow spears trembling uselessly in the ground.
+
+Just another illusion. Of course it was.
+
+She stomped across the arena in a huff, even though her back still had a hole from the last impalement. Well, had. Halfway through her stomping, the wound sealed up, black ichor knitting together until her skin smoothed over like nothing happened.
+
+Ynett appeared again on the opposite side of the arena, quiet and spooky as ever. Chloe took the chance and launched herself forward, fists igniting with flame as she swung for Ynett’s head. The witch blurred out of existence. Chloe hit the air with a crack that sent dust flying. She spun around, tossed an ice spear, and followed with a rock shot, but every single attack tore through nothing but illusions.
+
+She finally threw her hands up feeling super frustrated. But then, Leftie tapped her neck insistently.
+
+“What?” Chloe grumbled, still glaring at the empty space where Ynett had vanished.
+
+Leftie jabbed a finger upward. Chloe blinked, then tilted her head back and squinted. A small black orb floated high above the arena, almost blending into the shadows. It pulsed faintly every time Ynett reappeared somewhere else. Almost like… it was following her.
+
+“Ohhhh… That’s probably important.” Chloe said out loud.
+
+The exact moment she had her big realization, something brutally sharp punched through her stomach from behind. A massive ice spike shoved straight out of her abdomen, lifting her slightly off the ground. Chloe stared down at it. “…Wow, uncool.”
+
+She still craned her neck back toward Leftie. “Thanks for pointing, buddy.”
+
+Leftie gave a smug little wiggle. Now Chloe had a plan. There was only one problem. Actually, a few problems. She was currently stuck on a giant ice spike, and she wasn’t sure how to get off.
+
+But then, out of nowhere, the shadows beneath her cloak thickened until two long, clawed hands of pure darkness pushed out from Cloaky’s hem. The hands wrapped around the ice spike stabbing through her torso, their fingers digging in with a gritty, scraping sound.
+
+“What the, Cloaky?!” she yelped, staring down as the shadow limbs flexed.
+
+The hands shoved hard, cracking the ice with a deep thunk. Chloe popped off the spike and dropped toward the floor, only for two more shadowy hands to sweep in and grab her midair. They caught her with surprising gentleness, cradling her almost proudly, as if Cloaky had been waiting forever to show off.
+
+Chloe’s jaw dropped. “Cloaky! This is so awesome!”
+
+One of the hands lifted itself and formed a clear thumbs-up. Feeling much better now, Chloe looked at Cloaky expectantly. “Okay, Cloaky, can you help me dodge while I blow up that orb?”
+
+One of the shadow hands give her a thumbs up. Chloe took that as a yes.
+
+A second later, Cloaky launched her sideways with inhuman speed. The motion yanked Chloe along so fast her stomach flipped, and just as a fresh barrage of thick ice spikes shredded the ground she had been hovering over, Cloaky twisted her upward.
+
+The cloak’s shadow limbs zigzagged, dipped, rolled, and slid her across the arena in a dizzying blur. Somehow, it all felt weirdly graceful. Meanwhile, smaller patches of shadow crawled across Chloe’s stomach and back, sealing new wounds and stitching torn flesh.
+
+Chloe pumped a fist. Best cloak ever.
+
+While Cloaky danced around the incoming ice attacks with surprising flair, Chloe drew power to her palms. First came fire, erupting in bright orange coils.
+
+Then she pulled ice around it, forming a glittering outer shell that hissed sharply from the heat trapped inside. Finally, she summoned rocks around the sphere until it looked like it was about to burst.
+
+“Behold! The super tri-elemental ball!” Chloe announced proudly.
+
+Cloaky spun her in midair, twisting her around until she had the perfect throwing angle, and Chloe didn’t waste the opportunity.
+
+She whipped her arm forward and hurled the unstable, swirling mass straight at the shadowy orb above. The two projectiles soon met.
+
+A massive explosion burst across the sky, blooming into a blinding mix of white and black light that swallowed everything for a moment. Chloe threw her arms over her face, but one of Cloaky’s shadow hands slid over her eyes first.
+
+The shockwave slammed downward a heartbeat later, ripping through the arena and shaking the stone under her feet hard enough to rattle her bones. Dust rained from the ceiling, and Chloe’s hair flew backward.

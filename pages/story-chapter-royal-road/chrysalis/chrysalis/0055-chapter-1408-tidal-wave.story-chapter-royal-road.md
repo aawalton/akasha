@@ -1,0 +1,69 @@
+---
+id: 6e1eae8f-1410-52b0-8672-3e6f57184899
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1408 - Tidal Wave"
+slug: 0055-chapter-1408-tidal-wave
+partOf: chrysalis
+position: 55
+ownLength: 1124
+unit: words
+ownProgress: 1124
+publishedAt: 2024-09-12
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1799420/chapter-1408-tidal-wave"
+royalRoadId: "1799420"
+markedReadAt: "2026-06-29T19:45:23.529Z"
+---
+
+Zluth had known the Krath would refuse to attack the giant ant, so he’d repositioned himself on the other side of the tunnel. He’d had to dodge several members of his own tribe on the way. The Krath’lath still had sway amongst the members of the Slee tribe, and he couldn’t be too careful.
+
+Still, it was necessary that he be able to truthfully claim he had done the task assigned to him. So he slithered down the tunnel, using his cunning and guile to evade the ants and his own kind in order to arrive at the other side of the invaders’ advance.
+
+He had expected the Krath’lath to fail in her assault. The Blubbeasts and various pets painstakingly raised by the tribe would go to waste, and perhaps some of the Krath would be caught in the mess as well.
+
+What he saw exceeded his expectations many-fold.
+
+The surge of blue mana had been so potent, so rapid, even he had almost been caught up in it. For a moment, the acid had congealed in his flesh as the blue menace had raced towards him. Only by squeezing himself back into the tunnel and fleeing did he manage to survive.
+
+When the corrupted mana retreated, he cautiously emerged once more, extending a tentative eye-stalk into the open to see what had transpired.
+
+It was a catastrophe. The gathered strength of the Slee had been obliterated in less than a minute. Amongst the carnage, he could see several of his fellow Krath, broken and burned by the toxic power spread by the invaders.
+
+Despite the catastrophic loss for his people, Zluth felt a surge of triumph. The Krath’lath, even if she had survived, was finished. He would need to rejoin the others soon to ensure he secured himself a taste of her despair. It would be easy, after that, to position himself as a potential replacement. If Goszi followed through on his intentions, then he had a good chance to seize that position.
+
+The blue mana had retreated after that disastrous surge. In fact, it had retreated further than where it had started. Clearly, that blast of mana had weakened the amassed energy, and now the ants worked to build it back up again. Confident in his analysis, Zluth crept out into the tunnel, sliding down the wall and onto the floor.
+
+It felt… so strange. The strands of thick mucus that should have hung from floor to ceiling… gone. The thick layer of slime that should carpet the tunnel floor… gone. Everywhere he looked, fungal blooms and gardens of mould that had been so poisonously vibrant only minutes ago now lay withered and dead, choked to death by the mana of the ants.
+
+The fury that thumped eternally within his slug flesh roared to new heights as he witnessed what the ants had planned for his home. They intended to kill everything, to change it. As he slithered over the lifeless tunnel floor, Zluth was repulsed by what he saw and felt. This must have happened in the past, there had been many attempts to tame the fifth, but he’d never beheld such an appalling scene with his own eyes.
+
+Deeper in the tunnel, the ants were regrouping themselves. Some of their pipework had been lost during the surge, but they had components ready to replace it. It was difficult for Zluth to see all the way back to the entrance; there was so much activity in the corrupted space that picking out individual details was almost impossible. It appeared as though the ants had already put in place a… ramp… or moving platform system to ferry things down from above. In fact, it was possible they had already taken steps to widen the entrance.
+
+Taking advantage of the space afforded by the ants’ momentary withdrawal, Zluth crept closer, keen to see just what was happening in the heart of the invasion. It wouldn’t be long until the blue had spread so far he’d never see it again until the monsters had been utterly defeated, so he had to seize this chance.
+
+Using all his guile, he slipped closer, though it was difficult given how barren and lifeless the tunnel had become. Eventually he managed to find a crack running along the roof of the tunnel, and he squeezed himself into it, travelling as quickly as he could.
+
+Once he judged he was close enough, he extended a single stalk and twisted it around to look in the right direction.
+
+In an instant, the acid froze in his veins, then heated to a roaring sizzle as the rage ignited within him.
+
+They had expanded the entrance. There were now two moving platforms ferrying things down to the tunnel floor from above, and it would soon be four as a swarm of ants worked to chisel the opening wider, but that wasn’t what outraged the Krath.
+
+There were humans coming down. Armed and armoured, they moved in concert with the ants, rushing out into the tunnel and forming up battle lines. Robed figures with bizarre appendages poking from their heads took positions amongst the ranks of insect monsters, their hands raised or heads bowed low.
+
+There were golgari there as well, and bruan’chii, and ka’armodo! As he watched, oblivious to the approaching wall of blue mana, Zluth’s mind churned. Just what was he witnessing?!
+
+All of these factions, aligned in purpose?!
+
+Of course! It all made sense now. The ants were not the leaders of this expedition, they were a creation, a tool, wielded by the sapient races from further up in the Dungeon against the fifth!
+
+This wasn’t some random monster invasion, this was a unified effort, an alliance of kingdoms, seeking to crush the fifth once and for all!
+
+Snapping back to himself, Zluth retreated along the crack, then forced himself out and began to race away.
+
+He had to catch up with the rest of the tribe. The Slee alone would not be enough to take on such an opponent! The Krath would need to unify for the first time in centuries!
+
+As he fled, he turned one stalk behind him for a final glimpse at what they faced. The reinforcements were endless. Every time one of the platforms came down, it was loaded with people, ants, and supplies. Unloaded in seconds, it would vanish back up into the tunnel, then reappear again seconds later with another full load.
+
+Before he escaped into one of the narrow off-shoot tunnels, he’d already lost sight of the entrance. The ants… no… the invaders… had already blocked his view with walls.
+
+It would take days… perhaps weeks to bring the tribes together. Just how established would the invasion become in that much time?

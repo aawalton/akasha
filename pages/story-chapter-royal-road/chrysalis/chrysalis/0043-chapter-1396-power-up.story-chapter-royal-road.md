@@ -1,0 +1,81 @@
+---
+id: 583f8eff-57ff-5df6-a909-a6f38d4f1691
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1396 - Power Up"
+slug: 0043-chapter-1396-power-up
+partOf: chrysalis
+position: 43
+ownLength: 983
+unit: words
+ownProgress: 983
+publishedAt: 2024-08-27
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1776045/chapter-1396-power-up"
+royalRoadId: "1776045"
+markedReadAt: "2026-06-29T19:45:00.675Z"
+---
+
+Well, if everyone else is winding up to go the distance, how can I do any less?
+
+“Solant, I know you’re busy, but can you get a message out? I want some hunting parties to rustle up some Biomass for me and the gang. It’s time for us to get mutating.”
+
+She nods slowly.
+
+“That would be wise. We need all four of you at your best. It may not be necessary for you to wait for hunts, there is a short-term Biomass storage kept on hand for The Queen, though she seldom uses it. I dare say it's fully stocked even now.”
+
+It’s a good lead, so I thank the little general and head back into the nest. It doesn’t take us long to track down the storage, and sure enough, it’s packed full of food, enough to make Tiny’s eyes light up.
+
+As evolved as we are, it’s not easy to rack up the Biomass now, we really need high tier food, and thankfully, that is exactly what the Colony has been providing to this storehouse. Only the best for Mother, naturally. Since she generally likes to hunt for her own sustenance, most of this is just sitting about until the ants stocking it give up, pass out the food, then go hunt for another batch.
+
+There’s a few soldiers waiting outside the storage when we arrive, and it isn’t all that difficult to persuade them to let us eat. I certainly don’t want to snatch food from Mother’s jaws, but that’s not what is happening here. No matter how well they stock this pantry, she isn’t coming.
+
+So the four of us settle in and get to chomping as the ants rush out to hunt down more food for us.
+
+[Remember, you need to mutate as much as you possibly can, and spend any Skill Points you’ve got stocked up if you can find something that looks worthwhile. This conflict is going to be hard, and we need to push ourselves as far as we can.
+
+[However, I don’t want you to take a bunch of mutations that are only applicable in the fifth. That will only weaken you in the long run. Get me?]
+
+[Yesssss.]
+
+[Yes, Master.]
+
+Thumbs up.
+
+[You could say something, Tiny. Hand gestures aren’t the only form of communication.]
+
+[Thumbs up.]
+
+[Alright there, wise guy. Settle down, you don’t want to hurt yourself.]
+
+Sheesh. Making him more intelligent is only making him more cheeky. That doesn’t mean I’ll stop. I’d rather him cheeky and alive than stupid and dead.
+
+With four massive monsters such as us tucking into the grub, we quickly start making a huge dent in it, but surprisingly quickly hunting parties arrive with more food for us, dumping it into the mix while we keep on chomping.
+
+As we eat, I multitask and start hitting up my menus. I’ve gained a reasonable chunk of Levels thanks to all the fighting, but it's a drop in the bucket compared to what I need for my next evolution. Level 52. I can accept that. It’s respectable. I’ve little doubt the experience will start raining down once we get into the fifth proper.
+
+Taking a look at my Skill levels, I can see that I’ve managed to reach the required ranks for both fusions that Granin had me working toward. So I might as well go ahead and purchase them.
+
+The first one was a combination of Coordination, Balance, Six-Legged Defensive Footwork, Predictive Thinking and Grace, all at rank four.
+
+It hasn’t been easy, but I got there in the end! A five skill fusion is always going to be a juicy one, and I was hoping to push these to rank five for an even more succulent fusion, but I just don’t have the time.
+
+Fusing them together costs me a whopping sixteen Skill Points, but as a result, I’m given a brand new Skill: Precognitive Agile Defence at rank four.
+
+Doing anything with Skills, particularly at this level, makes my brain feel like it’s been rinsed with warm water. Things feel… liquid-y inside my head. It’s not unpleasant, but I’m glad when it’s all done.
+
+I’ll have to get into a proper fight to test the effects of the Skill, and get a few more ranks in it as well, but according to Granin, it’s going to make me more agile, more balanced, faster on my feet, and more responsive to my existing precognitive abilities. All in all, a defensive boost that will help keep me one step ahead of the game.
+
+For the second fusion, I need to merge Concentration, Mana Weave and Divergent Thinking together with Meditation.
+
+Now this is a big one, taking some fundamental mana-handling Skills, along with Meditation, and sticking them all together to form Divergent Focus. This new Skill should, according to Granin, apply the benefits of Meditation and Concentration to each of my mind-constructs, instead of only to the brains handling them, multiplying the effect. In addition, it’ll improve the ability of each of them to weave mana. In order to properly utilise my plan to manipulate mana within my enemies, Granin believed this would be a necessary step. The fusion takes place at rank four, but… gweheheheheh… I managed to get them all to rank five.
+
+MUAHAHAHAHA!
+
+I’m too good! Too darn good, Granin! I mean, it’s not like it’s hard to grind Divergent Thinking, you just have one brain think about more than one thing at a time. As if I’ve never done that before!
+
+This one is going to cost me a whopping 20 Skill points, but I gladly spend it and eagerly wait to see the results.
+
+Manifold High-Focus, eh? Sounds good!
+
+I’ll need to test it to work out what it does, get some Levels and ranks, but I’m hopeful it’ll prove to be good!
+
+Now… I need to get to mutating.

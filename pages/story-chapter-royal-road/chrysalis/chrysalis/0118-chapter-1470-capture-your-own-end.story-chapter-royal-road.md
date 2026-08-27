@@ -1,0 +1,81 @@
+---
+id: 39387190-fd7a-5b8b-b060-042bd17dc3c6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1470 - Capture Your Own End"
+slug: 0118-chapter-1470-capture-your-own-end
+partOf: chrysalis
+position: 118
+ownLength: 1014
+unit: words
+ownProgress: 1014
+publishedAt: 2024-12-10
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1948978/chapter-1470-capture-your-own-end"
+royalRoadId: "1948978"
+markedReadAt: "2026-06-29T19:47:51.012Z"
+---
+
+I trust my sisters will be able to handle the attempts to capture their siblings and turn my attention to the Krath. If they think they can wreak this much havoc and get away without suffering the pain, then they have another thing coming.
+
+And that thing is me, beating them up.
+
+In an instant, I’m back out into the toxic mana hunting down the Krath who’ve been launching their slime ropes from positions of cover. I bunch my legs up beneath me and launch myself forward, jaws wide before I crunch down on a slimy outcrop of rock, obliterating it entirely.
+
+The rope which had been launched from this position is severed by my mandibles, but there’s no notification regarding the Krath, and I soon figure out why.
+
+Beneath the outcrop is a small crack, and I can already see something vanishing into the depths
+
+I blast it with a quick jet of Dragon’s Fire, but I still don’t get a notification, so it’s onto the next.
+
+Many of them are attacking from the roof, so I manipulate the gravity well to make me fall towards the ceiling where I land with a mighty crunch before rushing toward the nearest rope. In short succession, I rip through three different sites, and every time, the Krath have vanished into a crack in the stone, slithering away like the cowards they are.
+
+So this is how it's going to be, then? Fine!
+
+Rather than charge at the next hiding place, I just roast the heck out of it with Dragon’s Breath. After a few seconds, I cut off the flow and charge over, using my mandibles to shear deep into the rock, but again, the Krath who’d been hidden here has already escaped.
+
+It’s clear they don’t want to be anywhere near me and will go to great lengths to stay as far away as they can. I’m sure that whoever is in charge of the slug offensive in this tunnel has seen me work before. They’re so cautious about staying away from my gravity spells, making sure I don’t trap any of their people.
+
+This is just more evidence. They really are doing everything to avoid falling into my clutches.
+
+The ant lines are still in chaos as dozens of ropes are still trying to drag helpless ants out into the toxic area. It’s almost a race against time now. The blue mana will eventually dissolve the creepy cocoons that have formed around the captured ants, but if the victim is dragged out first…
+
+Filled with frustration and wrath, I unleash my anger in the form of a gravity bomb.
+
+Small, unempowered, it’s still enough to tear the section of tunnel roof I aimed at to shreds. Stone, miasma, slime and everything else within range is ripped to pieces by the ravenous void, and finally I get a notification from Gandalf, his gruff voice announcing the receipt of XP for slaying a Krath.
+
+Take that, slug! You can’t escape into the stone if that gets annihilated as well!
+
+With a winning strategy at last, I start to weave together more gravity bombs, pulling out more and more mana to pack into the hyper-condensed balls of power. Even now, I can only work on two at once, and my reserves of mana are quickly drained by the process. In the meantime, I keep snapping ropes with my jaws, and once the two spells are ready, I fire them off at the same time.
+
+They howl into existence and do their deadly work, though I don’t get any words from Gandalf this time. Seems like the slugs are being even more cautious now, fleeing the moment they hear me fire one.
+
+It doesn’t matter; most of the ropes have been cut through, and order is being restored amongst the Colony lines. The monsters who were only moments ago fighting viciously, hurling themselves into the safe-zone to spread slime, toxin and poison have been subdued. Only a few ants are still struggling to protect their sisters from being dragged away, and it looks like they’re going to succeed.
+
+I let the well fade away as I search for my next target. Carefully sensing with my antennae, I try to locate any Krath hiding nearby, hunting for those tiny eddies in the gravitational field that will give them away.
+
+Instead, I find something else, something I really didn’t want to see.
+
+Falling from the roof, I smash into the tunnel floor and set off running immediately. Where was it? There!
+
+I dive forward, mandibles wide before I slam them shut, just short of catching the cocoon before it slips into the crack and vanishes from view.
+
+Oh.
+
+No.
+
+You.
+
+DIDN’T!
+
+You miserable slugs think I’m going to let you drag away one of my siblings? Do you really believe I would ever let something like that happen again?!
+
+[We’ve lost a captive!] I bellow to Solant through the Nave. [Send the retrieval team immediately.]
+
+[Got it,] she replies tersely, and I cut the contact as I rear back, ripping mana out of my core and sending it down into the crack.
+
+Stone warps and shifts as if it had turned to putty as my power fills it, making it amenable to my will.
+
+I don’t care how fast you go, Krath, there’s no way you’re going to get away. I’ll chase you into the next stratum if I have to. Without waiting for the reinforcements to arrive, I throw myself into the widening tunnel, my jaws pumping as fast as I can move them. Slime, dirt, rock, it doesn’t matter, my mandibles, forged of the same gravity compressed diamond as my carapace, shear through it all without effort. More and more earth mana is formed within me, and I continue to spend it like water, shaping the tunnel, moulding the loose rock and widening the entrance as I go.
+
+Behind me, I hear the first wave of the recovery team announce their presence with a stunning wave of pheromones that fill even the tunnel I’m digging.
+
+“WE SEEK!”

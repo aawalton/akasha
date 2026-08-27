@@ -1,0 +1,173 @@
+---
+id: da0582ff-cfe8-58e6-b93a-29194a08d1ff
+page-type-slug: story-chapter-royal-road
+title: "34: Evergale"
+slug: 0034-34-evergale
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 34
+ownLength: 2077
+unit: words
+publishedAt: 2025-09-18
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2610213/34-evergale"
+royalRoadId: "2610213"
+---
+
+The road to Evergale was way calmer than Chloe had hoped. She’d expected bandits, maybe a monster or two, but nope. Just boring, peaceful nothingness. Which also meant no fresh brains.
+
+Things got so dull she briefly considered nibbling on Baron Willy's brain, until her imagination cursed her with the image of waking up one day talking exactly like him. But even if that wasn’t possible, probably, she still needed him.
+
+He was her only guide to Evergale, where she could finally hunt her bounty: Ynett the White Witch. Chloe remembered the name perfectly. Probably came with a very tasty brain.
+
+With nothing else to do, she tried that meditation thing Sabine suggested. Surprisingly, it worked better when there was nothing else for her to do, even if the carriage kept bouncing. By the time they came close to Evergale, both Chloe's Mana Sense and Mana Control had hit level eight.
+
+Chloe sat up front next to Baron Willy, who was holding the reins. The carriage had stopped in a long, crawling line of carts, wagons, and people on foot, all inching toward Evergale’s gates.
+
+Well, okay, it wasn’t that long compared to the line Chloe saw before outside of Kelvane, but still. Waiting was boring. And the worst part was that Baron Willy apparently couldn’t do his “I’m important” trick to skip ahead this time.
+
+She eyed him suspiciously. “Why can’t we just go in like when we were heading to Kelvane?"
+
+The Baron let out this long sigh. “Kelvane is a place where my name carries a certain… weight. Here in Evergale, however, I am not quite so celebrated. So, we must go through the proper channels.”
+
+“And the proper channels are…?”
+
+“Customs."
+
+“What’s a customs?”
+
+“It is the procedure by which the city examines all incoming goods, individuals, and documentation. They verify the legitimacy of imports, ensure no dangerous creatures or forbidden contraband are brought within the walls, identify counterfeit coinage, and uphold the standards required by the crown.”
+
+"What?"
+
+“In short, they check for dangerous things and anything suspicious before allowing entry.”
+
+Chloe gave him a once-over, looking at the thick fur coat draped around his shoulders. “So, are they gonna take that coat from you if it’s, like, super rare or whatever? Is that what this customs thing is about?”
+
+Baron Willy blinked, then frowned. “Certainly not. This coat is mine, purchased legally and entirely aboveboard. Though more importantly, how are you not cold?”
+
+Chloe looked around, and that’s when she noticed. Pretty much everyone else in line was bundled up in coats, cloaks, scarves, gloves, even the occasional hat that looked like a fluffy mushroom. Meanwhile, she was just sitting there in her usual getup. Huh. Guess it is a little chilly.
+
+She rubbed her arms but shrugged it off. “I don’t like wearing stuff that slows me down. Can’t fight if I’m wrapped up tight, right?”
+
+The Baron shook his head. “You are fortunate it is not yet winter. In a few months, you would be shivering yourself into an early grave dressed like that.”
+
+“Nah. I’d just eat someone who had a nice warm brain. Problem solved.”
+
+“What is this obsession you have with brains? I had assumed you were speaking figuratively before, but now I see I may have been mistaken.”
+
+“Nope. I just like brains.”
+
+“Is it… some sort of delicacy where you come from?”
+
+“Oh yeah, they’re really delicious. You should give one a try sometime."
+
+The Baron’s jaw twitched, and she could almost hear the lecture starting to form in his head. But he pressed his lips together, glanced forward, and decided not to say a word.
+
+They rolled forward a few feet as the line moved. Chloe glanced up at the gates, which were tall, grey, and very gate-y. Guards in thick armor stood at the entrance, stopping carts, poking at crates, and making people open their sacks.
+
+“So they’re gonna do that to us too? Look through all our stuff?”
+
+“That is correct. Although, I suspect our inspection won't take too long. I have prepared all the proper documents, and our cargo is minimal, and…"
+
+Chloe tuned out most of whatever Baron Willy was going on about. All she cared about was the part where he said it wouldn’t take too long.
+
+As the carriage inched closer, she kept sneaking glances at everyone’s clothes. Some of the coats looked heavy, sure, but others were fitted in a way that didn’t seem too bad. She could probably run in those if she absolutely had to.
+
+Eventually, their turn came. Two guards stepped up to the carriage. Neither of them smiled, or even blinked much. They just gave Baron Willy a curt nod before moving to check the carriage.
+
+One of them walked around back, lifting tarps, poking at crates. The other stayed by the Baron, asking for a lot of complicated stuff Chloe didn't care about.
+
+After a few minutes, one of the guards motioned for them to step down. “Pat down,” he said flatly.
+
+A lady guard approached Chloe. She had short hair, sharp eyes, and an expression that said she’d seen it all before and wasn’t impressed.
+
+Chloe froze for a second. “Uh… what’s—?”
+
+Baron William cut in. “Quite standard here in Evergale. They check for hidden weapons or contraband. Just stand still and keep quiet until they’re finished, it will make things much easier.”
+
+“Okay?” Chloe raised her arms as the guard stepped closer.
+
+The guard was quick at least, running her hands along Chloe’s sides, arms, and legs. Still, it felt… weird. Not bad, just kinda personal. Halfway through, the guard took Chloe’s sword and held it up, turning it over in her hands.
+
+Chloe’s mouth opened, because hey, that was her sword, but Baron Willy shot her this look, the kind that said don’t say a word. She clamped her mouth shut. Apparently, things would go smoother if she just played along, so fine. She’d listen… for now.
+
+Eventually, the guard returned the sword, sliding it back into place before stepping away. She gave a short nod. “Clear.”
+
+The Baron got his own pat down from the male guard, though his was a lot less thorough, probably because he looked fancy. Once everything was done, the guards waved them through.
+
+Chloe and Baron Willy rolled into Evergale proper, and wow, this place looked really tidy. The buildings were tall and skinny, with pointy roofs, and these things on top puffing thin smoke into the air. Although, there weren’t nearly as many people out here as in Kelvane; either that, or everyone was hiding inside.
+
+The carriage rattled down streets, weaving past merchants, guards, and a few kids chasing each other with sticks. Gradually, Baron Willy slowed the horses and pulled them up in front of a building.
+
+It was still pretty big, with tall windows and a carved wooden sign swinging above the door, but it was definitely much smaller than his ridiculous mansion back in Kelvane.
+
+Chloe leaned forward. “Alright, what’s this place?"
+
+The Baron straightened in his seat, “This is The Silver Stag. One of the finer inns in Evergale. I shall be staying here for several days until I secure an audience with my brother.”
+
+“So, are we both staying here?”
+
+“If you wish, I have budgeted enough for your accommodations as well. Consider it repayment for your assistance on the road.”
+
+"Thanks, but I’ll be fine. I’m not really planning to sit still anyway. Got stuff to do.”
+
+“Very well, but if you change your mind, I will be here. Do try not to cause an incident within your first hour.”
+
+Chloe ignored Baron William's words as she hopped down from the carriage. She waved as she backed away. “Okay, bye!”
+
+The Baron gave a small, almost weary wave in return before leading the horses deeper into the inn. Once he was out of sight, Chloe clapped her hands together. Right, Guild time.
+
+She started asking around, picking random people in the street. “Hey, you know where the local Guild is?”
+
+Most people gave her cautious looks, some muttered “don’t know,” and one guy just turned around and walked away. Rude, but whatever. After a few tries, she finally got an answer from an older woman selling these round things called potatoes.
+
+“You after the Guild? Follow this road, then turn left. It's the big stone building with banners out front. Can’t miss it.”
+
+“Finally! Thank you!”
+
+Chloe followed the directions until she spotted it, a sturdy stone building with thick wooden doors and two big banners hanging down. Sure enough, they had crossed swords, with smaller dagger images worked into the corners.
+
+She thought that this place looked way nicer than the guild in Kelvane. But maybe it was best to keep that to herself.
+
+Chloe was just about to head in when a couple of guys in leather armor strolled past and pushed the doors open without even knocking. She slipped in right behind them like she totally belonged there.
+
+Inside was a big, busy hall. People sat at tables talking to each other. Most wore armor or had weapons strapped to them, but a few were in long robes. One guy even had a pointy hat and a magic stick, which instantly reminded her of that pointy hat guy back in the dungeon. Wonder if this one’s brain would taste the same…
+
+Still, there were some differences. This place had an entire row of desks along one wall, with clerks scribbling notes, stamping papers, and shuffling stuff like they were running a bank instead of a Thieves Guild. Guess they like to switch things up sometimes.
+
+She wandered over to one of the desks, where a guy with neatly combed hair was sorting a stack of forms. “Hey, can I meet Iris?”
+
+The man froze, then slowly looked up at her. "I’m sorry… who?”
+
+“Iris. You know, the lady who runs the Thieves Guild here?"
+
+For a moment, he just blinked at her. His face went pink, and he cleared his throat a little too quickly. “I think you’ve got the wrong place. This isn’t the Thieves Guild. Madam Iris… she’s not in this line of work. You should probably try to go to the Velvet Lantern instead.”
+
+“The Velvet Lantern?"
+
+“It’s… a different kind of establishment. But you should be able to find her there.”
+
+“Cool. Can you point me to it?”
+
+“No, uh… I can’t. But if you head east from here and ask around, you’ll eventually find it.”
+
+Chloe shrugged. “Alright, thanks.”
+
+She spun around and strolled out without a second thought. As soon as she hit the street, she started asking random people for this Velvet Lantern place.
+
+The first guy she stopped turned bright red and bolted like she’d just threatened to rob him. The second, a woman carrying a loaf of bread, snorted and muttered something about “kids these days.”
+
+The third person she asked just laughed awkwardly and said she should “ask someone older.” Chloe tried asking a guard leaning next. But the guard just gave her a long look, then pretended to suddenly be very busy watching a wall.
+
+Chloe even tried asking this older lady bundled up in a scarf. But the lady chuckled and told her, “Sweetheart, you’re too young for that place,” before walking off.
+
+Weird. It’s just a building, right??
+
+Chloe kept asking around, and finally, an old man sitting on a crate pointed his cane toward a side street. “Keep going until you see the red lamps. Can’t miss it.”
+
+She followed his directions and ended up in a quieter part of the city. The air smelled a little sweet, a little strange, and the street was lined with lanterns hanging from wooden posts.
+
+The Velvet Lantern stood out instantly. The entire building was both tall and wide, painted red with shiny golden trim. Outside, there were a lot of girls who were all smiles.
+
+Some of the girls waved at people walking past. Others leaned in close to whisper to men in nice coats, making them laugh like they’d just been told the best joke in the world.
+
+The girls all wore thick coats, yet they still giggled and moved about just fine. Whoa, there are way more girls here than in the Kelvane Thieves Guild. And they’re all super smiley. Kinda weird… moving around in those coats has to be hard, so what’s got them so happy?

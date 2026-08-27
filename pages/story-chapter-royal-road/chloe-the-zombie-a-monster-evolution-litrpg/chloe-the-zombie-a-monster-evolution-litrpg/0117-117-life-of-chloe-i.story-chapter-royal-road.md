@@ -1,0 +1,175 @@
+---
+id: 002428a0-8c34-59b7-81c4-cbd29b3abcf1
+page-type-slug: story-chapter-royal-road
+title: "117: Life of Chloe - I"
+slug: 0117-117-life-of-chloe-i
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 117
+ownLength: 2217
+unit: words
+publishedAt: 2026-02-23
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3084044/117-life-of-chloe-i"
+royalRoadId: "3084044"
+---
+
+So, here was the situation as Chloe understood it. She was sitting face to face with Maeve. Raenof stood between them with his staff held tight, clearly nervous. Sierra and Mr. White stayed off to the side, watching closely.
+
+Chloe shifted where she sat, crossing her legs and trying not to look like she was staring too hard at Maeve. Sitting face to face with a powerful bird lady who might or might not be crazy was not how she’d expected her day to go. Still, she figured she’d handled worse before.
+
+Maeve turned her attention to Raenof. “I will instruct you in an ancient ritual, it is one that will allow Chloe to enter my mind.”
+
+Chloe’s eyebrows shot up. Wow, so this is really happening, huh?
+
+She didn’t say anything, but her thoughts immediately started bouncing around. Entering someone’s mind sounded messy. And very likely full of feelings, which she didn’t love dealing with.
+
+Chloe imagined what it would be like if someone decided to enter her mind of all things, and wondered what they would see? Then again, considering how smart and awesome she was, she was pretty sure that anybody who entered her mind would be impressed.
+
+Raenof tightened his grip on his staff. “Are you certain I am the one who must do this? Soul magic is not my area of expertise, and I'm afraid of what might happen if I don't perform as expected.”
+
+“It must be you,” Maeve said. “Only an elf can conduct this ritual. Your nature allows you to stand between realms without being torn apart by them.”
+
+“I… see. I admit, this is the first time I have ever heard of such a thing.”
+
+“That is not surprising, since this knowledge is kept by the high elves. You are not one of them, so you were likely never taught.”
+
+Chloe glanced at Raenof, then back at Maeve. That sounded important, and also terrifying.
+
+“And you cannot do it yourself?” Raenof asked.
+
+Maeve shook her head slowly. “Not alone. This is my mind we are dealing with, which obviously means that I am too close to it. I cannot guide and anchor the ritual at the same time.”
+
+“Um, Is this ritual dangerous?" Sierra suddenly asked.
+
+“There are risks, since Chloe will be entering a fragmented mind. If she loses herself, it will be difficult to pull her back.” Maeve explained.
+
+Chloe blinked, her smug expression slipping just a little. “Uh. Wait, does that mean I could, like… be gone for good if I mess up in your soul?”
+
+“Yes. If you die there, your soul will be destroyed. And that will be the end of you.”
+
+That hit harder than Chloe expected, and she went quiet for a moment. Dying or disappearing for good wasn’t something she’d really had to think about before.
+
+Ever since she had crawled out of that first dungeon, she had only gotten stronger. Strong enough that most dangers barely registered anymore. She couldn’t even remember the last time she had truly felt cornered, except for that fight with Ynett back in Evergale. This was different.
+
+Still, Chloe was no ordinary zombie. She was the strongest zombie there was.
+
+So, she straightened up quickly, forcing a smile. “Okay, but like, I’m really good at not staying dead. I regenerate super well, I can regrow limbs, and I’ve been blown up, smashed, stabbed, all kinds of stuff. I’ll be fine.”
+
+Maeve watched her in silence, eyes sharp and searching. Then she shook her head. “The version of you that enters my mind will not be the same as the one standing here now.”
+
+Chloe’s grin froze in place. “What do you mean, not the same? Like… smaller? Or squishier? Because I don’t like either of those.”
+
+“You will not enter as flesh or bone,, but instead, you will enter my mind as a soul. And the strength of a person’s soul does not always match their physical strength.”
+
+“Um… can you explain that in simpler words?”
+
+“In simple terms, just because you are strong physically does not mean your soul is strong. In some cases, the opposite is true.”
+
+“You mean I might actually be weaker when I enter your mind?”
+
+“To be blunt, yes.”
+
+“Can I just not do this then? I like moving around and doing stuff. Dying doesn’t really… you know, fit into that.”
+
+Maeve watched her for a moment, then spoke more softly. “I understand your concerns. But if you manage to restore and heal me, I promise I will make it worth your time.”
+
+Chloe’s eyes lit up immediately. “Oooh. Are you gonna give me some awesome reward?”
+
+“Actually, yes. If you come back out of this alive, I think you'll find that the effort will be worth it."
+
+That made Chloe stop and really think. Going into Maeve's soul was definitely dangerous. Like, actually dangerous. But Maeve was also really strong. Like, scary strong.
+
+Any reward she gave was probably going to be amazing. Also, Chloe had made it this far already. She’d survived a lot, so she was confident that she could survive whatever Maeve's soul had in store for her. And, honestly, Chloe believed she was awesome, so maybe her soul would be awesome too.
+
+“Fine. I’ll stick with the plan.” Chloe said.
+
+Maeve inclined her head. “If you are ready, then I believe we can start now.”
+
+“Sure, ready whenever.”
+
+"Good, then just remember that this is what you must do. When you're in my soul, you will have to try and find anything odd and correct it."
+
+"Huh? But that's like, so vague."
+
+"I know, but trust me, you will know when something is off when you see it. Just deal with whatever you see there, and you're set."
+
+"Hmm, alright, sounds easy."
+
+“One more thing. Whatever you see in my soul is not truly real. You may see things and feel things born from my memories, but they already happened. Nothing you do there will change the outcome. So be careful and…"
+
+Chloe listened for a bit. Then, somewhere around the middle of the explanation, her attention drifted off. Long speeches had never been her thing. Traveling with Baron Willy had trained her to tune out anybody who spoke for too long.
+
+After a moment, Maeve stopped and looked at her. “Chloe, did you understand all of that?”
+
+Chloe nodded immediately. “Yep.”
+
+Maeve turned away without arguing and focused on Raenof instead. She calmly told him where to stand, what symbols to draw, and which words to say. Most of it went straight over Chloe’s head, but she could tell it was important by how careful Raenof was being. He traced glowing symbols onto the stone floor with the tip of his staff, moving slowly and following every instruction the bird lady gave him.
+
+Sierra hovered close, wringing her hands. “Good luck, Chloe!"
+
+Mr. White snorted from the side, stamping one hoof like he was agreeing. Chloe grinned at them both and gave a lazy wave. “Thanks you two, but I’ll totally be fine."
+
+The markings finished glowing, and the air around them shifted. Chloe didn’t feel pain or anything like that. Instead, everything started to feel… heavy. Not in a bad way. More like sinking into a really soft bed.
+
+Chloe’s eyelids drooped before she could stop them. She thought about saying something cool, but the thought slipped away halfway through. The last thing she noticed was Maeve’s gaze on her.
+
+***
+
+Chloe had been sleeping extremely well. The kind of sleep you only got when your bed was ridiculously expensive, which it was. Anyway, everything was perfect right up until her alarm went off, completely disrespectful of the fact that it was a Monday.
+
+She groaned and fumbled for her phone without opening her eyes. Her thumb found the sensor out of habit, the screen unlocked, and she shut the alarm off in one annoyed swipe. Sweet silence returned, at least, until she heard a knock on the door.
+
+“Miss Chloe, if you’re awake, breakfast will be served in two hours. Your mother will be waiting.”
+
+Chloe flopped onto her back and stared up at the ceiling, feeling deeply betrayed by the very idea of responsibility. Still, the fact that Maeve had knocked instead of just barging in meant she was already being nice about it. Chloe knew Maeve was only checking on her this early because she took… a while, to get ready in the morning.
+
+“Got it, Maeve, thanks."
+
+“I’ll have the bath heated for you then, please don't be late."
+
+Chloe hadn’t been in a great mood earlier, but the promise of a warm bath helped. After lying in bed for longer than she probably should have, she finally stood up and shuffled across the floor until she found the light switch and flipped it on.
+
+The lights came on and Chloe blinked a few times, rubbing her eyes until everything stopped feeling weird. Once she could see properly, she wandered over to her shelves like she always did every morning. One shelf was packed with books, and another shelf was filled with all her favorite plushies.
+
+Her favorite plushies, of course, sat right in the middle. Puffy the Bird looked a little worn from being hugged so much, and next to it was Mr. White, the plush version of her favorite horse from that show she’d loved when she was five. He was missing a button eye, which honestly just made him cooler.
+
+Chloe reached out and patted Mr. White with her left hand. The plush was super soft, the good kind that felt expensive and comforting at the same time.
+
+After that, Chloe finally stepped into the open space in the middle of her room and stretched properly. Her shoulders rolled, her back cracked a little, and then her wings spread out slowly. Maeve was always telling her to stretch them every morning so they wouldn’t get stiff or weird later, and Chloe hated to admit it, but it actually helped.
+
+Once she felt better, Chloe tucked her wings back in and padded out of her room, still in her pajamas. She moved quickly down the hall to the bathroom and started brushing her teeth, staring at her reflection while her brain slowly woke up.
+
+She couldn’t help thinking about her dream, because it had to be the weirdest dream she's ever had. She’d been a zombie for some reason, running around on all kinds of adventures and fighting scary things. It was probably just because she’d been playing way too much Vegetables vs Undead again. But honestly, how could she not? That game was a classic.
+
+When she finished up, Chloe took a bath and took her sweet time with it. A girl like her deserved that much, at least.
+
+Afterward, she blow-dried her hair and went through her skincare routine. Chloe always knew she had great skin, and it took a lot of effort to keep it that way. There were a lot of products involved, but thankfully her mom always bought them for her. Because well, her mom was just cool like that.
+
+Once she was done, Chloe headed downstairs. She barely made it halfway before she was tackled by something big, fluffy, and very enthusiastic. Morikhan bounded up to her, tail wagging so hard his whole body wiggled.
+
+Technically he was still a pup, even if some weird genetic thing made him way bigger than normal. He was still adorable, though.
+
+Chloe laughed and dropped down to rub his belly. “Who’s a good boy,” she said smugly, and Morikhan wagged even harder.
+
+While she was busy playing with him, the lights in the room came fully on. Chloe squinted and looked up as her mom stepped into view, already looking put together and way too awake for the morning.
+
+"So, are you ready for breakfast, or do you need another ten minutes to wrestle the dog?”
+
+"Um, actually, Morikhan is a wolf, right?"
+
+"Bah, you know what I meant. So are you ready or not?"
+
+Chloe smiled and gave Morikhan one last belly rub before leaning in to smooch him on the head. “Totally ready,” she said as she stood up.
+
+Her mom was dressed in dark office clothes, the kind that meant she was going into work but didn’t care too much if something got spilled. That usually meant today's breakfast items could be more exotic, or maybe just more greasy, but either option sounded fun.
+
+“Try not to trip,” her mom said as she turned and headed toward the kitchen.
+
+“No promises,” Chloe said, already following after her at full speed.
+
+She got a little too excited and clipped the counter with her hip. A small trophy wobbled dangerously near the edge. Chloe yelped and grabbed it just in time, holding it against her chest for a second before looking down at it.
+
+“Whoa,” she muttered, reading the plaque. Congratulations, Ishgria Whiteheart, for becoming the #1 top performing employee at Divinity Inc.
+
+Chloe snorted and shook her head, then carefully set it back where it belonged. “You know, most people celebrate winning stuff like this.”
+
+Her mom laughed from the other room. “I did celebrate by bringing it home. Now come on, I want you to help me make breakfast."

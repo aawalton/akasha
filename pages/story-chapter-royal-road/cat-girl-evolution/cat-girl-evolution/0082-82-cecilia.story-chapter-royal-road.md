@@ -1,0 +1,247 @@
+---
+id: ee24d769-63e8-55de-be98-7a1bbc4cc2ff
+page-type-slug: story-chapter-royal-road
+title: "82 - Cecilia"
+slug: 0082-82-cecilia
+partOf: cat-girl-evolution
+position: 82
+ownLength: 2987
+unit: words
+publishedAt: 2026-01-30
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2993689/82-cecilia"
+royalRoadId: "2993689"
+---
+
+The looks on the twins’ faces are a little unnerving. The smiles themselves are actually pretty nice, but the fact that the only other time I’ve seen them smile was when they were blowing stuff up makes me mildly concerned. Still, I’m not gonna turn down a free tour of what’s clearly a super secret basement vault thingy.
+
+“Sure!” I say.
+
+“Just give us one minute,” says A.
+
+“The second basement technically doesn’t exist, and while it seems it’s impossible to hide from you, we don’t want her finding out exactly where it is, or what’s down there,” explains B, nodding to Annie.
+
+The twins walk over to a table and grab a polka dot blindfold, a pair of fluffy earmuffs, and a mouthguard, all of which are charged with more mana than I would be comfortable with any of those things being charged with. Annie calmly accepts all three, and after a few seconds, looks very odd.
+
+“She can’t see, hear, or use her mana sense now,” says A.
+
+“Ah, makes sense,” I say, nodding.
+
+But also, isn’t that a little messed up? I mean, I know Annie is an undead assassin and all, but I’m pretty sure sensory deprivation at this level is a form of torture…
+
+Oh well. A little torture builds character. That’s what my dad always said.
+
+“What?”
+
+“It’s right over here,” says B, walking toward a hidden trapdoor under one of the tables. “But I bet you already knew that.”
+
+“Yeah…” I say.
+
+The trapdoor is actually basically invisible. If I didn’t have Food Sense, I would have no idea it was there. Even knowing exactly where it is, I still can’t tell it’s there with any of my other senses. There’s no marking on the ground, no excess mana, and it’s only when she actually opens it that I can see the outline of it with my eyes.
+
+They lead me down into the secret basement toward the heavy vault door. When I get down, I realize that there’s not actually a visible locking mechanism, but I assume there must be a hidden one, because A and B both walk up and put their hands on the door for a few seconds before it opens up on its own. I sense them putting mana into the door, but whatever the door is made of still completely blocks not only Food Sense, but also my normal mana sense, so I have no idea what the mana did after it left their bodies.
+
+The interior of the vault is… not what I expected. Completely not what I expected. I thought it was gonna be something super valuable, or at least illegal, but it just looks like a weird lounge room. There’s a couch and a table, and even some hanging decorations on the walls for some reason. The only part of it that even looks mildly valuable is the crystal ball sitting on the middle of the table.
+
+The twins both walk inside, then turn around, flashing that same eerie smile.
+
+“Come on in,” they say at the same time.
+
+I feel almost like I’m walking into a horror movie, but I step inside anyway, and the door closes silently behind me. As soon as it does, I tense up. My Food Sense is basically gone. I didn’t think about it before walking in, but it makes sense that if I couldn’t sense through the walls from the outside, I can’t do it from the inside either. Still, it feels like I was just blinded. I can sense the twins, and everything in the room, but for all I know, an army could be gathering outside to kill me, and I would be none the wiser.
+
+On top of that, here in an enclosed space, if A decided to make one of her super bombs, I’m dead. I could try to stop it, but B’s shields are strong, and even if I eat them, she can keep making more. If they wanted to do a suicidal attack and finish me off, there wouldn’t be anything I could do. I could try to escape, but something tells me that if this strange metal isn’t edible, it’s probably not going to be easy to destroy either.
+
+“Have a seat,” the twins say, gesturing toward the small couch, still smiling.
+
+I gulp and tentatively move forward. I was not expecting anything like this, but it’s kind of scary. And I think they find that funny, which is why they keep smiling creepily like that. That thought comforts me a little, so I’m able to relax a tiny bit as I sit down, but I still flinch when they lean forward to put their hands on the crystal ball. They put some mana into it, and for a tense few seconds, the insides swirl faster and faster. My hair stands on end as the mana in it gets more and more potent, waiting for something to happen, and then all of a sudden, it stops, and I flinch again.
+
+Right as it stops, it starts shining a light on the far wall like a projector, and what looks like a live video feed of a woman appears. She’s in a lab that looks kinda like the twins’ lab upstairs, but way messier, and she’s working on something. I can’t see her face because it’s covered by a big welding mask-looking thing, but I can see her hair, which is the same pale silver as the twins’. She’s wearing nothing but a dirty apron, and her hands are almost black with grease, with similar stains all over her apron and body. There are strings of white light extending from her hands to something just off the edge of the feed, but whatever she’s working on, it’s generating some very bright light.
+
+“Girls, you’ll have to give me a moment. I’m almost done,” she says without looking over.
+
+“Sorry,” says A in my head. “This might take a little while.”
+
+“‘Almost’ for her could mean anywhere from a few seconds to an hour.”
+
+“An hour?!” I say out loud.
+
+At the sound of my voice, the woman pauses for a moment before continuing her work.
+
+“You’re not my girls,” she says, her tone dangerous.
+
+“We’re right here, Master,” says A.
+
+“This is Yona,” says B. “You said you wanted to meet her.”
+
+At the sound of my name, the woman pauses again. Then, with a flourish, she snaps her fingers and all the light vanishes. She swivels on her stool and flips up her mask to look at me, a wide smile on her face. She has the same silver eyes as the twins too, but her face is completely different. It’s a little older, but at the same time, younger. She’s clearly older than the twins, but something about the shape of her face and the expression she makes reminds me of a mischievous child, while the twins’ usual lack of outward emotion makes them feel older and more mature.
+
+“Yona!” she says cheerfully. “I’ve been wanting to meet you! You look different than I imagined.”
+
+“How did you imagine me?” I ask.
+
+“Hmmmm…” she says squinting. “More regal, I guess. I heard you were a princess.”
+
+“Who says a princess needs to act regal all the time? And also—” I straight up in my seat and turn my chin up a bit so that I’m looking down slightly. “How about now?”
+
+“Ah, there it is,” she says cheerfully. “I didn’t know that monsters had princesses, though.”
+
+“I didn’t either.”
+
+She bursts out into laughter.
+
+“That’s the correct response,” she says. “Full marks. Remember, as an Infiltrator, it’s important that you always call bluffs.”
+
+I glance over at the twins, who raise their hands.
+
+“We didn’t say anything,” says A.
+
+“We couldn’t have,” says B.
+
+“It’s true,” says the other woman. “You simply can’t hide what you are from me, Yona, the Gastronome.”
+
+Abby, how is she doing that?
+
+“She must be one of those people with a divine inspection Skill. You just got unlucky.”
+
+“Don’t worry, though,” the woman adds. “Your secret is safe with me! My best friend is an Infiltrator, actually, so I know how you guys roll. You’ve gotten yourself in a bit of a pickle though. You stood out too much and now you already have a Guild Investigator after you. Most Infiltrators don’t survive that when they’re this young.”
+
+“...Should I run away then?” I ask.
+
+“Nah, you’re fine,” she says, waving me off. “I’ll handle it for you. Don’t worry about it!”
+
+“Why?”
+
+“Because I think it’s fun,” she says with a shrug. “And you’re travelling with my apprentices, right? I think a little danger is good for development, but a Guild Investigator is just too much for them to handle right now. So don’t worry about a thing. I’ve got some connections.”
+
+“...Okay.”
+
+I don’t trust her at all. And it sounds like these Guild Investigator people might actually be kinda dangerous. Maybe I should just fake my death after all.
+
+“I believe that would be prudent.”
+
+“So, anyway, now that that’s covered, let’s get to the real fun stuff!” says the silver-haired woman. “You have Gluttony, right? What Stage?”
+
+“My mom told me not to answer personal questions from strangers.”
+
+She laughs loudly again.
+
+“Then let’s become something more than strangers. Come to think of it, I know a lot more about you than you know about me, so why don’t we flip it around. I have questions for you, but I’m sure you have questions for me too, so ask away! I’m happy to answer.”
+
+“What Sin Trait do you have?”
+
+“Pride,” she says proudly. “I am the greatest artificer in the world. And my Pride Trait evolved into True Pride some time ago.”
+
+“True Pride?”
+
+“Once your Sin Trait reaches the maximum Stage of 10, you can evolve it into a True Sin Trait. But there can only be one holder of a True Sin Trait at a time. Lucky for you, the last holder of True Gluttony disappeared a century ago, and they are probably dead by now, so you’ll be able to usurp it easily!”
+
+“What does a True Sin Trait do?”
+
+“Evolving from a Sin Trait to a True Sin Trait doesn’t grant you any more stat points, but it does grant you control over your Sin. And by that, I mean that you won’t be a walking disaster anymore. You can rein in your Trait so that it doesn’t affect everyone around you. You can also do the opposite and amplify it, and turn into even more of a walking disaster. There are a few other features too, but they’re all related to things that the System will censor me from saying, so for now, that’s it.”
+
+“The System censors information?”
+
+“Oh yeah. All the time. Well, all the time for me. Maybe that’s just because I know too much forbidden knowledge…” She strokes her chin, then shrugs. “I guess it doesn’t really matter. Got any more questions for me?”
+
+“What’s your name?”
+
+“C.”
+
+“You’re joking.”
+
+She laughs again.
+
+“You’re right,” she says. “I’m Cecilia. Yes, that’s the Cecilia. I’m sure you’ve heard of me.”
+
+“I have not.”
+
+“Well, you will,” she says confidently. “As I said, I’m the greatest artificer in the world.”
+
+“Did you make this vault?”
+
+“I did.”
+
+“What’s it made of?”
+
+“Enriched Adamantium, mostly, with a bit of mithril laced in to help with some of the stronger enchantments.”
+
+“Are the twins’ names really that long?”
+
+“Yes, their parents were wannabe poets,” she sighs.
+
+“What does that have to do with their names?”
+
+“Their names are runic sentences. Ridiculous ones too. I think that A is ‘The one who brings light to the world’ and B is ‘the one whose star burns eternal’ or something like that.”
+
+“Evermore,” says B. “Burns evermore.”
+
+“Right,” says Cecilia. “Either way, yes, those are actually their names.”
+
+“Huh.”
+
+I honestly thought that they just made those up on the spot.
+
+“It does seem like something they’d do.”
+
+I ask Cecilia a few more random questions about her location and stuff to see how much she’ll share, but then I make the mistake of asking her about one of her inventions, starting a quarter hour tangent about whatever she was working on when we called. Apparently it’s going to be some kind of device that is specifically designed to read the minds of mundane worms. The reason she is making such a device is that someone said she couldn’t, so she’s proving them wrong. The task has turned out more difficult than she anticipated for reasons that completely go over my head.
+
+The longer she talks, though, the less I think she’s going to betray me or anything. She seems to genuinely not care about the fact that I’m a monster or that I made A and B sign a contract, or that I could literally eat them if I wanted to. That doesn’t mean I trust her to actually handle the Guild Investigator, but I am a little less inclined to go full scorched earth. I would like to keep this identity, if I can. Making new identities is always a pain and a half.
+
+After her explanation of her worm mind reader, I ask her a bit about how she heard about me, and she mentions a social club, but refuses to say anything more. She says that she doesn’t care much about her own identity, but the others in the club do, so she’s not willing to answer any questions that could compromise them. I point out that she has already crossed that line by being so open about her own identity, and also saying that her best friend is an Infiltrator, but she just waves me off.
+
+“No one knows who my best friend is,” she says dismissively. “Despite all these questions I’m answering for you, I’m actually a very private person. In fact, I’m so private that most people don’t even know what I look like. They only know my name, a name that you will definitely hear soon. I’m honestly surprised you haven’t heard it already. Though I guess you are in some backwater city, so there probably aren’t many people who can afford my creations there.”
+
+“I guess,” I say.
+
+“So, are you done now?” she asks eagerly. “Is it my turn?”
+
+I think for a few seconds, then shrug. I don’t really want to give out any confidential information to strangers, but she basically already knows all my most dangerous secrets, and she did just tell me a lot about herself. Giving her too much is probably bad, but I don’t think it hurts to humor her.
+
+“Sure.”
+
+“Yay!” she says. “Alright, first, what stage is your Gluttony at?”
+
+“Six.”
+
+“Wow, already? Impressive! What was your first form? Your tier 0 species.”
+
+“I was a House Cat, but then I mutated into a Spatial House Cat.”
+
+“Fascinating,” she says, nodding. “So that must be how you understand the Enlightened world so well. What’s the craziest thing you’ve ever eaten?”
+
+“Uh… Well, I ate the body of an undead assassin while her head was still talking to me. Technically. I guess a more real answer would be that I ate an enchanted pot.”
+
+“Like a metal pot?”
+
+“Yeah. And a few rocks. Oh wait, I also took a bite of a Soul Weapon once too!”
+
+“That’s hilarious! Are you planning on eating more of those?”
+
+“I dunno,” I say. “They didn’t taste bad, but normal food still tastes better.”
+
+“I see, I see,” she says. “The last Gluttony Trait I met said the same. And I assume based on your Name and your appreciation for fine cuisine that you’re going to go after the Delicacies, right?”
+
+“Well, yeah, I wanna eat all the tasty food I can.”
+
+“Which one are you going for first?”
+
+“What?”
+
+“Which Delicacy are you going for first?”
+
+I narrow my eyes. I think I’m missing something. Why does it sound like she’s using “delicacy” as a proper noun? Does that mean that there are foods that are so tasty that they get proper nouns to refer to them.
+
+“Wait, what do you mean ‘Delicacy’?” I ask.
+
+“Like the Seven Delicacies,” she says. “Did you not know about them?”
+
+“N– No?” I say.
+
+“Oho, you’re in for a treat,” she says with a grin. “The Seven Delicacies are foods that world-renowned gastronomes like yourself have agreed are the most delicious things in existence. Most gastronomes take a pilgrimage to reach them all. Or at least, all the ones they can reach. Some of them are pretty dangerous, or are really far away. I’ve only had three of them myself, but the flavor was divine. There’s this one species of Tier 6 bison on the mainland with a Nature Affinity that live in a secluded valley and eat this one herb. The flavor of the herb infuses into their meat and it gives them an incredible flavor even unseasoned. And when a professional chef gets a hold of that meat and does their thing… Well, you get the idea.”
+
+I do indeed get the idea. The first time I ate Lauren’s cooking, I thought I was in heaven. Then, I had the food at the Sea Lemon and the Pig Palace. All of that was incredibly delicious, and it wasn’t even made using any kind of crazy high level ingredients. But a steak made of tier 6 bison alone sounds delicious, not to mention the fact that it’s apparently so delicious that it’s literally world famous…
+
+“You’re drooling,” says Cecilia.
+
+“You’re damn right I’m drooling,” I say, wiping my mouth. “Tell me about these Delicacies.”
+
+“With pleasure!” she says. “Actually, one of them isn’t even too far away from where you are right now. You might be able to go get it soon.”

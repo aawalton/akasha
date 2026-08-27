@@ -1,0 +1,183 @@
+---
+id: f248758d-340e-593f-9995-f0efe8cf0f57
+page-type-slug: story-chapter-royal-road
+title: "27 - Princess Yona, the Smartest Cat to Ever Live"
+slug: 0027-27-princess-yona-the-smartest-cat-to-ever-live
+partOf: cat-girl-evolution
+position: 27
+ownLength: 2403
+unit: words
+publishedAt: 2025-09-24
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2624408/27-princess-yona-the-smartest-cat-to-ever-live"
+royalRoadId: "2624408"
+---
+
+When the fight first began, Flarn thought she might have made a mistake. The cat was faster and stronger than she expected, and this was Flarn’s first ever battle. She knew that if she let a single attack from the cat hit her, it would be over. Her Resilience was next to nothing. Well, next to nothing for a Named at least, but that still wasn’t even close to enough to block the cat’s attacks.
+
+Then, her instincts took over. She had no battle experience, but her status as a Named monster came with a number of benefits, one of them being excellent combat instinct. And as a Hermit, her specialty was defensive battles. While the location wasn’t optimal, she decisively set her current location to be her Territory, granting her access to some of the System’s Named monster features. It would be a pain in the future, since she wouldn’t be able to change her Territory for at least a year, but she knew that this battle was life or death, so she had no choice.
+
+The main benefit she received from doing this was increased mana regeneration. As long as she was defending her Territory, it would be incredibly difficult for her to run out of mana, especially against a single opponent. If it was a horde, it might have been a different story, but with only a single cat? She was regenerating more than she spent.
+
+That didn’t mean that the fight was easy. The cat’s attacks were still quite strong, and if she let her guard down, her defenses might fail, and the cat kept pulling out new tricks and clever tactics to make it harder to defend. Still, the longer the battle went on though, the more comfortable Flarn got, until she was confident enough to make a risky play to lure the cat in.
+
+It worked better than she had hoped, and she now had the cat at her mercy. She could tell it was already getting fatigued. It was only a matter of time.
+
+Then, something unexpected happened. The cat teleported behind her, just as it had many times before, but as she turned, she felt another surge of mana, and when she was finally facing the other way, the cat was not visible. In its place was the corpse of a Selachoid. There was another surge of mana as an Octopoid appeared, then a pair of Encheloids, then another Selachoid. More monsters appeared one after another filling up the full space between the two bubbles and completely obscuring Flarn’s vision. She could still sense the cat’s mana moving around behind the bodies, but without being able to see it, her aim was off, and the attacks were weakened from forcing their way through the other bodies.
+
+The bodies filled up most of the space between the two defensive bubbles, but Flarn didn’t dare to drop either. The cat was still tired, and based on the mana that it just spent to fill the space with corpses, it was low on that as well. All she had to do was be patient and keep attacking.
+
+She missed the cat once again, and as she did, the cat vanished, teleporting away. She turned, trying to find where it had gone, and for just a moment, she lost it. It had spent almost every last drop of its mana, so its signature was harder to spot, and with all the corpses clouding her vision, she couldn’t rely on her sight. She finally located it when she felt something sharp impact her inner bubble.
+
+Got you! she thought, turning to face the source.
+
+Then, her bubble burst, and the corpses fell inward on top of her.
+
+What?!
+
+Before she could fully understand or react to what happened, she felt a sharp pain in her legs and fell backward. She raised her staff to try and resummon her defensive bubble, but with all the corpses directly on her, the Skill refused to activate. It required a clear area to work, and the bodies were interfering.
+
+Then she hit the ground and before she could try to cast another spell, she felt a sharp pain in her arm, and her staff fell to the ground. She looked to her side to see that her arm was still gripping the staff. The arm was just no longer connected to her body, having been severed at the elbow.
+
+She could still use magic without the staff, of course, but the staff made things faster, and without it, she had no hope of stopping the cat that was now standing on her chest. As she looked death in the eyes, her short and unfortunate life flashed before her eyes. All she wanted was to be free of Skarn. Was that so wrong?
+
+Then, another thought crossed her mind. Why had she even fought the cat in the first place? They didn’t need to fight, did they? They shared a common enemy. If she had helped the cat, maybe it could have killed Skarn and freed her. As she looked into the cat’s eyes, she noticed an intelligence within them. The same kind of intelligence that she and Skarn had.
+
+Maybe it could be reasoned with. Maybe she didn’t have to die.
+
+I stand on the Named monster’s chest trying to rein in my dizziness. I just spent all the mana I had and then some. I feel like I’m about to pass out from exhaustion, and it’s taking all my effort just to stay awake. I still have enough energy to finish her off though.
+
+“W-wait,” she says
+
+Yeah, not falling for that.
+
+I raise my paw with a single claw extended and swipe it across her neck, separating her head from her body. There is no Spatial mana involved in the Slice, but this Named monster has almost no physical defenses, and just like with her legs and arm, my Skill cuts through like a hot knife through butter.
+
+A few Annoying Blue Boxes appear, but my head hurts too much to read them. Instead, I bend down and take a bite out of her neck flesh. As I swallow the meat, I feel dense mana entering my body and start to be digested. The pressure in my head lessens just a bit, so I start eating more. Half in a trance, I eat a full kilogram of meat before my head starts to feel normal again. After that, I still don’t look at the Annoying Blue Boxes yet. Instead, I think about the fight.
+
+That was very dangerous. Fortunately for me, I am the Chosen One, and was able to find the solution. I figured out she was tracking me through my mana, so if I depleted my mana, it would be harder for her to find me. Plus, if I obscured her vision, she wouldn’t be able to see me either. It was still risky, because it left me half-defenseless, but I only needed a second or two to get my jaws on the shield, and I got that. It was a pretty ingenious plan, if I do say so myself. And I do say so myself.
+
+Then, I finally look at the Annoying Blue Boxes.
+
+[ You have defeated Flarn, the Bubble Witch, Tier 2, lvl 1! Bonus experience for defeating an enemy above your level! ]
+
+[ Gluttonous Feral Fiery Spatial Devourer Thief House Cat, 10 → 20 ]
+
+[ +160 Power, +220 Finesse, +200 Resilience, +140 Memory, +140 Willpower, +140 Sensitivity ]
+
+[ Beginner Mana Vivitect, 7 → 16 ]
+
+[ +36 Power, +36 Finesse, +36 Resilience, +216 Memory, +216 Willpower, +180 Sensitivity ]
+
+[ Title earned: Nameworthy ]
+
+[ You have reached an Evolution threshold! Would you like to initiate Evolution? ]
+
+Holy Stats, Batman!
+
+[ Wow, you actually did it ]
+
+As if there was ever any doubt I would fail.
+
+[ I never doubted you for a second, Your Highness. However, I must admit that I was nervous. It took all my willpower to refrain from talking during the battle and risking distracting you ]
+
+Oh, no wonder you were so quiet. Thanks for that, I guess. That would definitely have been annoying.
+
+[ Yes, I figured. Well, congratulations anyway. Here’s the Nameworthy Title description, if you’re curious, but it’s pretty much exactly what it sounds like ]
+
+[ Nameworthy: Proof that the System has deemed your deed worthy of official bestowal of a Name. Unlocks Named Evolution options at your next Evolution ]
+
+Dang, no stats.
+
+[ This Title will upgrade to Named when you choose a Named Evolution, and then it will grant stats. ]
+
+Right. Well, as much as I want to do that right now, I need to get all this food back in my Stomach first.
+
+I sit around and nibble on the Named monster while I wait for my mana to regenerate. I didn’t notice much when I was still too exhausted to think, but Flarn is delicious! Her meat is soft, but still a little dense, and while it looks like white fish, it’s much more flavorful. It’s got a flavor that almost reminds me of high grade wagyu, but seafood, if that makes sense. I think this pretty firmly takes the top spot among foods I’ve tried in this world. I might have to ration out her body to myself, or else I’ll be completely out of Flarn meat in a couple weeks. I’ll have to save it for special occasions. Though if the big fishdude is this good too, I’ll have a bit more…
+
+One by one, I gather the corpses back into my Stomach, starting with Flarn to make sure she stays as fresh as possible. I pause though when I get to her staff. I can tell that there’s a lot of mana in it still. Is this a magical item?
+
+I wave it around with one of my mana arms, but nothing happens.
+
+Wingardium Leviosa!
+
+Still nothing. Weird. Maybe it only works for her.
+
+I wonder where she got it. Now that I think about it, the big fish dude has that trident too. Do all Named monsters get cool weapons like this?
+
+[ Yes ]
+
+Cool! I wonder what mine will be!
+
+I put Flarn’s staff into my Stomach. Doing so costs a lot of mana, but not more than I can bear. Then, I move on to all the corpses I had to dump to survive the battle. They’re all back in place, I do a nice big stretch, then take a couple minutes to clean some of the blood out of my fur before trotting away. I’m still too close to the village to evolve, so I need to get further away.
+
+[ You’re learning! ]
+
+Shut up. I’m not an idiot. I’m probably the smartest cat to ever live.
+
+[ …Sure ]
+
+I don’t need your sass ruining my good mood right now. I unlocked my next Evolution! That means I’ll be getting stronger, and once I evolve, I’ll probably be able to kill the big fish dude and all his little henchmen! It’s gonna be so delicious!
+
+Also, where was Flarn getting all that mana? I feel like she definitely should have run out. Her stats didn’t even seem that high, but it was like she had infinite mana.
+
+[ I don’t know, but it likely had something to do with her status as a Named monster ]
+
+Will I have infinite mana too once I evolve?
+
+[ That depends on what you evolve into. Infinite mana, or at least rapid regeneration, and a defensive fighting style typically indicates a Hermit type Named, so it might be something exclusive to Hermits. ]
+
+Dang. Maybe I’ll have to be a Hermit if I get infinite mana.
+
+[ Hermits are usually tied to a specific location ]
+
+Ah. Maybe not then. I guess I’ll have to wait and see. Gotta go evolve now, and then I can kill the Big Fish Dude!
+
+[ Don’t get too arrogant just because you killed a newborn Named. Both you and Skarn have had much more time to grow than she had. You have to keep in mind that your Class is likely the main reason you were able to defeat Flarn. She had no Class yet, so she fought you purely with her Species capabilities. Skarn does have a Class, and will likely be working to improve it, so not only is he a full tier higher, he will have many more stats from his Class, and possibly even his Profession ]
+
+Right. Well, I’m sure I can still beat him. Especially once I get my Profession. I wonder what I should pick.
+
+[ Well, we’ll have to see what you qualify for first, but don’t get your hopes up. Like basic Classes, basic Professions are usually, in your words, “lame” ]
+
+Dang. Oh well. You said I can level Professions up without needing to go hunting though, right?
+
+[ Yes ]
+
+Well, there’s that, at least. Now, let’s find a place to get this thing started.
+
+I travel for hours until well after sunset when I find a nice little spot in a small valley with a hollow, but large and sturdy tree. I fortify the defenses a bit by grabbing a big boulder into my Stomach and placing it on top of the hole to keep other things from getting in. Then, I settle down into a comfortable position and mentally reach out to the System.
+
+[ You have reached an Evolution threshold! Would you like to initiate Evolution? ]
+
+Yes!
+
+Current stats:
+
+[ Name: Yona ]
+
+[ Age: 0 ]
+
+[ Species: Gluttonous Feral Fiery Spatial Devourer Thief House Cat. Tier: 1. Level: 20. ]
+
+[ Class: Beginner Mana Vivitect. Tier: 1. Level: 16. ]
+
+[ Profession: Locked ]
+
+[ Titles: Second Lifer, System Breaker, Nameworthy ]
+
+[ Traits: Cat-like Reflexes, Gluttony, Spatial Affinity, Nimble, Fire Affinity ]
+
+[ Stats ]
+
+[ Power: 812 (+366) ]
+
+[ Finesse: 1122 (+504) ]
+
+[ Resilience: 989 (+445) ]
+
+[ Memory: 1471 (+659) ]
+
+[ Willpower: 1489 (+667) ]
+
+[ Sensitivity: 1338 (+600) ]
+
+[ Skills: Spatial Slice, Stomach of the Glutton, Bite of the Glutton, Snatch of the Glutton, Blink, Ember, External Mana Manipulation - Anatomical Constructs of the Glutton, Meditate of the Glutton, Anatomical Blueprint, Phantom Limb Control, Anchor Point ]

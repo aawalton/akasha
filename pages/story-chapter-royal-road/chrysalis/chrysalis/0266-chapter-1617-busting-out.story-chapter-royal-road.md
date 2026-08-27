@@ -1,0 +1,89 @@
+---
+id: 60314a5c-72ec-5c9c-aa2d-ff3b15846f4e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1617 - Busting Out"
+slug: 0266-chapter-1617-busting-out
+partOf: chrysalis
+position: 266
+ownLength: 1031
+unit: words
+ownProgress: 1031
+publishedAt: 2025-08-06
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2495563/chapter-1617-busting-out"
+royalRoadId: "2495563"
+markedReadAt: "2026-06-29T19:52:19.631Z"
+---
+
+Something doesn’t feel right. Like, there’s layers to not feeling right. You put your foot into a wet sock, it doesn’t feel right, it’s icky and unpleasant. Coming home to a suspiciously quiet house and the door handle is broken? Feels really off. I now know that it’s likely to be debt-collectors, and they’re just doing their job, but the first time it happened… I got the heebie-jeebies.
+
+This experience I’m having right now? Blows those out of the water. Whatever is going on around here is deeply, deeply disturbing. Pump the brakes on this wild ride, I’m ready to get off.
+
+[Master? Do you feel that?]
+
+[Are you talking about you wriggling your tentacles around my organs or the disgusting, mind-shuddering nastiness hanging in the air?]
+
+[The… the second one.]
+
+Thought I didn’t notice, eh? Trying to be sneaky, huh? Unfortunately, I have more important things to focus on than chewing out my invasive associate.
+
+[I don’t know, but if you pressed me, I could probably hazard a guess.]
+
+[I think I have the same guess as you.]
+
+[Nards. That’s not good.]
+
+Obviously, we still can’t see out, still wrapped up in a protective layer of ooze as we are, but our mana senses have never been so attuned. I’ve gained a few levels, in fact, refining my ability and narrowing my focus so the Krath don’t notice me sniffing about. It hasn’t been easy, but I’ve been getting better at it! Crinis is still way better than I am….
+
+[That means we’ve arrived in the heart and they’re moving us towards the pool of doom-goop. We’re almost out of time. Has the lousy wave ended yet?!]
+
+[I… I don’t think so, Master.]
+
+Crinis sounds genuinely concerned. We might end up in the worst case scenario after all, breaking out of the ooze while the wave is still ongoing. It’s practically a death sentence, but I might not have a choice at this rate.
+
+Checking on my condition, I can see that I’ve managed to fully recover from the damage I’d experienced. Cleansed of corrupting mana and my body healed, I’m ready for action. I’d much rather that action not be within the heart during a wave, but beggars can’t be choosers.
+
+[Get ready to bust out if we have to, Crinis. Try extending your senses a little and I’ll do the same. If we have to go down fighting, we can take out as many of the Krath as we can on the way.]
+
+[I’ll make them regret ever laying hands on you, Master,] she says, rather evilly.
+
+I want to tell her to chill a little, but you know what? If anyone deserves the wrath of Crinis, it’s the Krath. Who am I to hold her back?
+
+Thanks to my tunnel sense, I can tell we are still being brought down lower, and the sense of wrongness is only getting stronger. The more I try to extend tiny little feelers of thought to check the general mana, the more frustrated my efforts are by the trace foulness emanating up from below. The soup of Theorazzn is so dang potent that my mana sense is getting thrown off. I do not want to take a dip in that.
+
+[Crinis, you getting anything?]
+
+[It’s really hard to tell. I think I can sense a large source of… darkness mana? But… I can’t be sure.]
+
+[Darkness mana? That doesn’t seem right. Could just be the interference from the goop. Alright, get ready to break free. I’ll hold out until the last possible moment, then I’ll give the word.]
+
+[Alright.]
+
+I really don’t like how this feels. I can’t even tell what the mana level is like right now. If the wave were to end, would I even know?! The closer we get to the pool, the worse my ability to sense gets! Do I just go now? Or do I wait?!
+
+Oh? Oh. I think I’m rolling now. Not in a ‘oh I’ve really started getting into my groove’, but more in a literal, ‘snowball down the side of a mountain’ type of rolling. I think they tipped me off the edge of something?
+
+Alright… this isn’t okay.
+
+[Master! I sense darkness! It’s coming closer!]
+
+[What?! I think… I think I sensed something else as well. There’s something crazy going on out there.]
+
+What the heck is happening?! I hesitate, again, for a moment. This rush of power I feel, is it even real? Is it a concentration of tainted mana? Am I about to jump out and instantly get whacked in the face with an extra toxic dose?!
+
+Then I land in the pool, and everything changes.
+
+In an instant, the ooze is burned away, and the pure, uncontaminated toxin of an Ancient comes into contact with my carapace.
+
+[Crinis, GET INSIDE MY CARAPACE NOW.]
+
+Unable to resist my direct command, she shrinks wholly within my body as the searing pain rolls over me and starts to penetrate my flesh in an instant. This is insane. This isn’t anything like the mana of the fifth, even during the wave. The mana of the fifth stratum is a pale imitation, a fake, barely even a shadow.
+
+THIS is the real deal, and it eats into me so fast I barely even realise it’s happening before it’s nearly reached my core.
+
+My brains slam into gear and put the brakes on the invasion. I’m barely even aware of my body scrambling to emerge from the pool, launching myself out of there, drawing on the power of the Altar to empower my Dash and get out as fast as possible.
+
+The moment I’m out, I shake vigorously, trying to get every drop, every toxic speck off of me. All of my sub-brains are dedicated to the internal war, which is rapidly getting out of control. The influence of this goop is insane! It copies itself so quickly and eats into everything it touches so rapidly. I can’t believe something this dangerous is even real!
+
+This is the power of an Ancient?
+
+Holding on for dear life, I almost cry out with joy as a surge of highly concentrated, purified mana washes over me.

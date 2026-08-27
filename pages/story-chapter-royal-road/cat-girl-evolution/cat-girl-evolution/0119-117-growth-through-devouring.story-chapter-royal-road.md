@@ -1,0 +1,205 @@
+---
+id: 637e0386-20b2-5766-94aa-cfdedf925a1e
+page-type-slug: story-chapter-royal-road
+title: "117 - Growth Through Devouring"
+slug: 0119-117-growth-through-devouring
+partOf: cat-girl-evolution
+position: 119
+ownLength: 3430
+unit: words
+publishedAt: 2026-04-22
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3303710/117-growth-through-devouring"
+royalRoadId: "3303710"
+---
+
+We enter the Dungeon almost immediately after Annie gets kidnapped. Lauren wants to take a bit of time, but the twins point out that if the necromancer took Annie just now, that means that he’s otherwise occupied, and we can be reasonably confident that either he won’t be waiting for us, or if he is, he at least won’t have Annie to assist him just yet. Knowing what I know about that cursed dagger of hers, I think this is a good plan, since I’m not sure the others could survive a stab from it if Annie gets back on her feet. Maybe they could, since they’re much higher level than I was at the time, but better not to risk it.
+
+The twins’ theory is proven at least partly correct when we enter, and are not immediately attacked. We stay on guard, but there’s no sign of the necromancer, Annie, or any other kind of ambush, so after a few seconds, we relax, take a look at the Annoying Yellow Box, and then look at our surroundings.
+
+[ Floor Challenge: Find the Sister’s doll ]
+
+The interior of the Dungeon is unexpected, but in retrospect, should have been completely expected. It’s a haunted house. A great, big, Victorian manor surrounded by creepy dead trees with a partially cloudy sky and a red full moon. There’s even a graveyard off to the side with uneven, broken gravestones and crows all over.
+
+We’re standing on top of a hill, and the house is at the bottom. The graveyard is on the right side, and there’s a big wheat field stretching out to the left dotted with misshapen scarecrows. The rooster-shaped weathervane on top of the house is broken and dangling, and the arrow happens to be pointing down directly at the front door. It’s a bit over the top, in my opinion, and it feels super cheesy, but I guess the others with their lack of horror experience don’t feel the same way.
+
+“This place is kinda creepy,” says Lauren casually.
+
+“We don’t like it either,” say the twins, looking visibly unsettled.
+
+I look over at them with an eyebrow raised. If they had seen what I’ve seen, they would be very excited for this place.
+
+“Well, no point in standing around,” I say. “The Sister’s doll is probably in the house, right?”
+
+“We should take a look around first, though,” says A.
+
+“Just in case,” says B.
+
+“I agree,” says Lauren. “Yona, you go that way, and we’ll–”
+
+“Absolutely not,” I say. “No splitting up.”
+
+“But it would be faster,” protests Lauren.
+
+“And what if the necromancer shows up when we’re all separated?”
+
+“I was going to take that into account. Chad and I work well as a pair. The twins can handle themselves. You should be fine on your own with your detection ability. And we can all move quickly enough that if the other groups are in trouble, we’ll be able to respond if anyone else is in danger.”
+
+“We still shouldn’t split up,” I say. “Trust me. In a place like this, splitting up always goes wrong.”
+
+“But–” starts Lauren.
+
+“Let’s just do what Yona says,” says A.
+
+“We would rather stick together too,” says B.
+
+I raise an eyebrow at the twins again. This is very interesting. Of all the people in the Party, I would have expected them to handle a horror setting the best. Especially after how they responded to seeing Annie’s severed, but still living head. I thought Lauren would be the one freaking out and clinging to Chad or something, but instead, the twins are barely keeping up their emotionless facade in the face of artificial horror creep. Maybe they’re more body horror people than supernatural horror people?
+
+“Alright, fine,” says Lauren. “But every second we waste doing this is another second the necromancer has to prepare.”
+
+“He’s already got plenty of time to prepare,” I say, waving her off. “It’s not like we’re going to be able to finish the Dungeon instantly and just find him. Plus, he’s been here for over a month now. A few minutes lost isn’t going to make a difference.”
+
+“Okay, whatever.”
+
+We start our exploration by turning around and walking away from the house. There’s a creepy, foggy forest on the back side of the hill, but the edge of the Dungeon is actually not too far in, and we only walk for a minute or so before it appears on Food Sense. Around the same time, a few enemies also appear on food sense. They remind me a bit of the ghosts of Ryantown, but these once have noticeably more mana, and are also obviously hostile.
+
+“Specters!” calls A.
+
+“Don’t let them touch you,” says B.
+
+The ghostly humanoids let out hollow wails and fly toward us, but they’re not actually that strong, and a single, mana-infused strike from any of us is enough to take them out. There are two dozen of them, but it doesn’t even take ten seconds before all of them are dead, and the forest goes quiet and still again.
+
+“Hmmm,” I say.
+
+“What is it?” asks Lauren.
+
+“Well, I’m supposed to be eating the bodies of the monsters to prevent the Dungeon from replenishing its essence, but it’s hard to do that when they don’t have bodies.”
+
+“Oh, true.”
+
+“I have an idea, though. I’m gonna go further into the forest. Don’t attack the specters.”
+
+“Okay,” she says, nodding, clearly having an idea of what I’m about to try.
+
+I take a few steps further in, and just as I hoped, more specters appear. Well, they don’t exactly “appear,” because they were already there, just floating aimlessly, but they notice me and start attacking. As they fly at me, I summon the same giant maw that we used to burrow into the tree’s aura and control it so that it catches the specters between its jaws. As soon as the first one passes through, Devour of the Glutton activates, and with a shriek, the specter disintegrates into Yona-aspected mana, which I pull toward myself.
+
+I have to Blink to avoid some of the specters, but I continue controlling the big mana mouth, having it eat the specters, and taking their absorbed mana to make a second and third mouth. My Blinking around draws the ire of even more, and before long, I have the entire forest of specters after me. And a few minutes after that, they’re all dead, and I’ve turned their mana into constructs and stored them away in my Stomach. Gluttony doesn’t send another System message, but I feel an odd, slightly foreign sense of satisfaction in the back of my mind.
+
+Abby, Gluttony isn’t going to take me over, right?
+
+“I do not believe it will.”
+
+You promise?
+
+“I can’t make a promise, but perhaps if you ask your goddess, she would be able to give you a stronger reassurance.”
+
+Hmmm… Okay, I’ll do that later.
+
+“I think that was pretty effective,” I say out loud as I Blink back to the Party.
+
+“Looks like it,” says Lauren. “Let’s keep moving.”
+
+From the forest, we circle around the edge of the Dungeon, eventually arriving at the wheat field. There, we are attacked by some pretty weak crow monster things. I do my same trick of Devouring them with constructs, but something odd happens when I do that. The mana gets devoured as usual, but what happens to their physical bodies is super freaky.
+
+It looks like they unravel, twisting and melting until there’s nothing left but some vaguely red mush, which then plops to the ground in gross little piles. I mean, maybe not that gross, since it is monster meat, but the way it got there is kinda gross, and I’d rather not eat something of that consistency.
+
+However, seeing that does give me an idea.
+
+Ever since I upgraded my Class, I’ve been experimenting with it on the side. Most of my experiments were food-related, mixing different kinds of meat to get unholy, but delicious pork fish poultry combinations. However, that’s still only a side functionality of the Class. The Class is supposed to be used for combat, not cooking, and I have basically not touched that side of things.
+
+Part of it is that I didn’t really have a good time to try it out. After that eagle Dungeon, we came straight here, and this Dungeon hasn’t exactly been conducive to testing my combat power. Another part, though, is that one of my main reasons for getting the Class kinda disappeared. I wanted a use for all that extra meat in my Stomach, and this Class seemed like a good one, but then I got the Dungeon, so now all that extra meat has a use, leaving me with a Class that doesn’t really feel much better than my old one.
+
+I mean, most of the benefits of this Class are kinda negated by other stuff I can do. The main thing is that the flesh constructs are significantly more mana-efficient than the mana ones. I borrow the base flesh’s properties for things like durability, I can regenerate the flesh with a bit of mana, and they don’t slowly bleed mana like the mana constructs do. I only need to expend mana to control them. Except I don’t need mana efficiency. I have functionally infinite mana.
+
+They’re also more durable than my mana constructs, especially when made with the flesh of powerful monsters, but again, I have infinite mana. I can just recreate the constructs if they break.
+
+There’s always the cool factor, at least. Physical tentacles are way cooler, and way creepier than mana tentacles, which is a huge upside. But it feels like a bit of a lackluster for a whole Class upgrade. But now that I see Devour at work, I think I might have been missing a whole, very fun aspect of the Class that perhaps only I can fully use: growing the constructs.
+
+When the next crow dives down at me, rather than eating it with the big mana head, I store that head away, and summon a flesh construct. This one is pretty basic—just a sharkman head with a tentacle tongue—but it should get the job done. As the crow draws near, I make the tentacle fly out like a chameleon tongue, grabbing the bird and drawing it into the sharkman’s maw. As soon as it enters the mouth, Devour activates, disintegrating the crow and turning it into nondescript meat paste.
+
+But this time, I don’t let it just plop to the ground.
+
+Back when Bite upgraded to Devour, Abby explained that Devour worked by taking things in and breaking them down into their base components, and that it’s generally used for regeneration, both of mana and of the body. When a mana construct devours the flesh, the flesh goes unused. When a flesh construct devours it, though, the flesh gets added to its own.
+
+I cackle as I command the Devoured meat to cycle back into the construct, making the flesh denser and slightly growing in size. I continue to cackle as I send the construct flying around the field, eating more crows, and growing even further. I even start growing a second tentacle when the mouth gets big enough. Unfortunately, there aren’t quite enough crows to do a whole lot, but I’m pleased with the progress, and have a bunch of ideas for more experiments.
+
+Lauren looks a little grossed out by the whole thing, but the twins actually seem to calm down, and get a bit fascinated by it.
+
+After the wheat field, we circle around behind the manor and over toward the graveyard side. The graveyard, predictably, has zombies, all of which are quite weak, and all of which I use to fuel my continued experiments. First, I try to use the devoured flesh to duplicate a construct, growing a second one out the back and splitting it off. This is somewhat successful, but apparently the zombie flesh to shark and octopus flesh conversion rate isn’t very high, and it takes a little while, and a fair amount of mana. The next experiment, however, is much more successful.
+
+I take the same sharktopus construct, and instead of having it fly around and eat things independent of me, I anchor it to my back. When it Devours the first zombie, rather than using the Devoured flesh to grow the construct, I try to funnel it into myself. Since I’m not wounded, it doesn’t help me heal anything, but something else happens that I was hoping for.
+
+My Gluttonous Greatsword’s description says that it absorbs the “blood and mana” from whatever it strikes, and uses that blood to heal me and also empower me. Well, that sounds an awful lot like Devour, and this experiment proves that the Devour Skill and the Gluttonous Greatsword’s abilities work the same way. The Devoured flesh doesn’t regenerate mine, nor does it make me bigger, but it does make me stronger. Temporarily, of course, but any boost is good, in my opinion. And I think here is where my new Class really shines.
+
+As fun as they are, the Devouring constructs still aren’t that much more useful than my mana ones, and I’m sure there are ways I could have empowered my mana constructs to match the benefits. But being able to power up my body like that? Devour through my own mouth would never be enough to get any kind of significant power boost. Devour through a much bigger mouth only kind of attached to me, though? Now that is powerful.
+
+Humming happily as the others give me odd looks, I finish wiping out the zombies, then continue wrapping around the edge of the Dungeon until we end up right back where we started.
+
+“Well, that was pretty fruitful,” I say. “And we confirmed that there’s no dolls or anything named ‘Sister’ outside the manor, so we can enter with confidence. And we even got to weaken the Dungeon a bit by eating all those monsters.”
+
+“Yeah…” says Lauren reluctantly.
+
+Although she had already lost, the existence of all those monsters was the final nail in the coffin for her argument about splitting up. If we had split up, we would have only done a third of the damage to the Dungeon that we did. Or maybe more, but the others would have had to pull out of their areas and wait for me, making us not save any time at all by splitting up. Either way, not splitting up turned out to be the best move. She looks a little grumpy about it, though, so I decide not to poke her any further.
+
+“Ready to head in, then?”
+
+The Dungeon Core waited nervously outside the nested Dungeon, still possessing the same homunculus as before. It had only been half an hour, and he knew that the others wouldn’t be back so soon, and he also knew that the necromancer likely wouldn’t be defeated until the Tier 5 Party arrived, but he still couldn’t help but bite his nails.
+
+Should I go ask the Tier 5s to hurry up? he wondered. No, there’s still plenty of time. They can finish their goals first. Rushing them might only make it worse.
+
+No sooner had he thought that did the nested Dungeon’s entrance ripple, and once more, the blond man stepped outside. This time, he had two blue cylinders as tall as him strapped to his back.
+
+“Hello, Maligar,” he said with a smile.
+
+“What do you want?” the Dungeon Core responded.
+
+“The same thing I’ve wanted for the past month,” said Joakim in a friendly tone. “But this time, I’m bringing an ultimatum. This is your last chance. Submit.”
+
+“No.”
+
+“The fate of all the innocent civilians is in your hands.”
+
+“Is that a threat?”
+
+“I wish it didn’t have to be.”
+
+“Still, no,” said the Dungeon Core. “Your days are numbered. You won’t be able to hide out in that Dungeon much longer. I’ve already–”
+
+“Who said I was hiding?” asked Joakim with a smile that suddenly turned cold. “I won’t ask again. The fate of the world is at stake, and you are standing in my way. Submit.”
+
+The Dungeon Core did not respond immediately. He glanced at the two blue cylinders. They were clearly mana batteries, and very dense ones at that. The sight of them made him nervous, but he wasn’t about to lose his home for a second time.
+
+“No.”
+
+“Then you leave me no choice. The Dungeon Core has no interest in feet.”
+
+“Wha—?”
+
+For a moment, the Dungeon Core was bewildered, forgetting what he had set the Floor Challenge to. In that moment, Joakim vanished, along with the mana batteries, and a split second later, reappeared back at the first Floor.
+
+Once there, he held out his hand, and five figures appeared. The Dungeon Core gasped as he recognized them as the first Party who had entered the nested Dungeon. Except they weren’t Adventurers anymore. They were undead, completely under Joakim’s control.
+
+As soon as they were out, they formed a semicircular enclosure around the entrance to the Dungeon, and a few seconds later, when a merchant appeared, they killed him.
+
+“No…” breathed the Dungeon Core.
+
+But he was powerless to stop what was happening. The System’s rules were absolute, and unless the Dungeon Core was willing to personally interfere using his own body, there was nothing he could do to stop it. And if he went there personally, he would certainly die.
+
+Joakim casually strode into the city of Maligar with the batteries on his back. He killed the guards at the gate with a casual flick of his wrist, impaling them with deathly purple mana bolts. The guards did not fall to the ground, though, instead wobbling before righting themselves, their eyes now hollow and soulless.
+
+The guards followed him into the city, where he began slaughtering left and right, raising each person as a member of his undead legion. The undead then went and gathered more of the living, which he killed and turned, spreading his influence like a plague throughout the city. The mana batteries on his back constantly replenished his stores, allowing him to continue his massacre without pause.
+
+“Stop!” cried the Dungeon Core, possessing a bird and flying toward Joakim “Stop! Please!”
+
+Joakim ignored the bird’s words, killing it and adding it to his army.
+
+“These deaths are on your hands,” said Joakim, expression grim. “Either show your true self, or silently witness the results of your inaction.”
+
+The Dungeon Core wavered, but could not bring himself to show Joakim his true form. He would have loved to say it was because he was thinking ahead. That he knew that if Joakim succeeded, his power would grow, and even more people would be put at risk. But that would have been a lie.
+
+He was scared. He didn’t want to die. He didn’t want to lose Maligar again. And in his selfish fear, he reasoned that ultimately, this would be fine. The people of Maligar had already died, but as long as the Dungeon remained, they would never truly be gone. If he submitted, Maligar would be lost forever, but if he held out, the Adventurers would eventually be able to defeat Joakim. He just had to be patient.
+
+But even despite this, a part of him retained self awareness. He knew he was being selfish. He knew that his indecisiveness had caused this. He knew that despite his words to Yona, he had already long since made the exact mistake his Dungeon was meant to warn against. But he still couldn’t move. He could only watch as the people of the first Floor were massacred to the last man. No one was spared. Women begged, children cried, but in the end, they all went silent.
+
+“This is your fault,” said Joakim, looking up at the sky. “This could have been avoided. I tried to do this the easy way, but you leave me no choice. If you won’t submit, this is the only way I can win.”
+
+The Dungeon Core didn’t respond, and only continued to watch as one by one, the undead citizens of Maligar disappeared, claimed by Joakim and stored away in whatever extradimensional space he kept his slaves in. Soon, the city was empty, and the mana batteries were drained, and in the center of it all was Joakim, looking up at the sky with tears streaming down his face.

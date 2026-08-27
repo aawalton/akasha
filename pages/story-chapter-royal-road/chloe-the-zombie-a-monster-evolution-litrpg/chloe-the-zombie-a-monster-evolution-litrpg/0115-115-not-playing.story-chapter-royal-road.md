@@ -1,0 +1,163 @@
+---
+id: 11a9cd1e-adc0-5f0a-acce-37eb20a34b16
+page-type-slug: story-chapter-royal-road
+title: "115: Not Playing"
+slug: 0115-115-not-playing
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 115
+ownLength: 1857
+unit: words
+publishedAt: 2026-02-18
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3068057/115-not-playing"
+royalRoadId: "3068057"
+---
+
+Chloe stared up at the Fog Spewer. She was absolutely not doing this death games thing. First of all, the fey watching were all having way too much fun. Second, and way more important, why would she run around playing its stupid games when she could just hit the rotting dragon again?
+
+“Yeah, no,” Chloe muttered.
+
+She manifested her wings and launched herself straight up before anyone could stop her. Gasps rippled through the arena as she flew fast and reckless, fist pulled back.
+
+She slammed her punch straight into the Fog Spewer’s chin. The impact cracked loud enough to echo through the arena. Scales dented inward, rotten flesh tore away, and fog burst out in a thick spray as the dragon’s head snapped back. A huge chunk of dead meat went flying, splattering across the floor below.
+
+Chloe hovered back after the punch, feeling proud of herself. I liked that a lot.
+
+Then the fog started moving again as the Fog Spewer regenerated. Bone reformed, scales crept back into place, and the damage was all reverted in seconds.
+
+The Fog Spewer let out a low, rumbling laugh. Its glowing eyes fixed on her, amused in a way that made her want to punch it again just on principle. “Do you truly believe that will be enough to kill me?”
+
+Chloe opened her mouth, already halfway to saying something when she felt that something was off. The fog around the dragon’s body slowed. Not much at first, but its movements got really stiff fast.
+
+Frost crept up its leg, thin and sharp, crawling over cracked scales and dead flesh in glittering lines. Ice spread fast after that, snapping over joints and locking them in place.
+
+Huh? Chloe thought, her grin slipping.
+
+Then she looked down, and that was when she saw Ynett. The snake lady stood right by the Fog Spewer’s foot, one hand resting casually against its scales. Frost kept spreading out from where she touched it racing up as it consumed the dragon's body. Ynett looked smug in a way that made Chloe feel both impressed and deeply annoyed.
+
+The Fog Spewer twisted its head towards Ynett, ice already climbing its neck. “What are you?"
+
+Ynett glanced up at it, eyes cool and bored. “Just someone who is bored. And I’ve seen quite enough from you, so you should get some rest."
+
+Ice surged harder at her words, snapping outward in a violent rush. The dragon strained against it, wings shuddering as frost sealed them in place.
+
+The Fog Spewer snarled. “This will not be the last of me.”
+
+Ynett nodded calmly. “I know, and I will be coming for your real body soon.”
+
+The dragon didn’t answer her. The last of its movement slowed as ice sealed its jaw shut, fog trapped behind frozen teeth. With a final rumble, the Fog Spewer froze completely.
+
+For half a second, the arena went dead silent. Then everything exploded into chaos.
+
+The fey crowd panicked all at once. Screaming, shouting, and other funny body parts shaking frantically as they scattered in every direction. Some vanished in flashes of light, others scrambled over platforms and vines, knocking each other aside in their rush to escape.
+
+Chloe slowly lowered herself back to the ground, staring around as the whole place fell apart. Wow, they really do not handle disappointment well.
+
+Raenof pulled Sierra close, shielding her as fey rushed past them. Sierra clutched his sleeve, eyes wide, ears flat against her head. Mr. White stamped beside Chloe, because he always looked out for her.
+
+Chloe glanced back up at the frozen dragon, then over at Ynett. “So you wanna maybe explain that part where this was apparently just a fake dragon body?”
+
+Ynett withdrew her hand, ice finally settling as she turned to face Chloe. “Later."
+
+“Of course. It’s always later.”
+
+While the last of the fey were still scrambling to escape, Chloe stretched her arms over her head and slowly turned in a circle, taking in the mess they’d left behind. Frozen fog, shattered ice, glowing cracks in the floor.
+
+“Okay,” she said, cracking her neck. “So the death games are canceled, the Fog Spewer is all frozen now, and all of the other fey ran away screaming. What do we do next?”
+
+“If that was not the Fog Spewer’s true body, then it is still active somewhere.” Raenof said.
+
+Ynett hummed thoughtfully. “Active is one word for it, but I believe 'Anchored' might be a more fitting description."
+
+Chloe narrowed her eyes. “You’re doing the thing again. The one where you know more than everyone else.”
+
+“Yes,” Ynett replied cheerfully. “I am.”
+
+Before anyone could argue, Ynett lifted one hand and flicked her wrist. The ground beneath their feet shuddered, then split apart. Chunks of rock lifted and slid aside, dragged away by invisible force until a deep hole opened at their feet.
+
+Chloe leaned over the edge and peered down. Thick, twisting roots filled the space below, tangled together and pulsing faintly with magic. They looked old and wrong, like they had been growing there long before the arena ever existed.
+
+“Ew, those roots look gross” Chloe said, wrinkling her nose.
+
+"While the Fog Spewer was rambling on about his death games, I looked through the ground and discovered this root network."
+
+“You can… see through the ground?”
+
+“Yes, it is quite the useful ability you see."
+
+“Uh-huh. And you’re only telling us this now because…?”
+
+"Because you finally asked the right questions.”
+
+Chloe made a face. “I really don’t like that answer.”
+
+Ynett gestured toward the roots. “If we follow the roots, they should lead us to the Fog Spewer’s real location. And with a bit of luck, maybe to Maeve as well.”
+
+Chloe glanced at Sierra, then back at Ynett. “You’re being way too helpful. I don’t trust that.”
+
+Sierra nodded quickly. “Me neither.”
+
+Ynett pressed a hand to her chest, mock offended. “Such suspicion. I am wounded.”
+
+Raenof stepped in before Chloe could say something she’d definitely enjoy saying. “Whether we trust her or not, this is still our best lead. And for now, we need to either get out of this place or find Maeve."
+
+Chloe groaned. “I hate it when you’re reasonable.”
+
+Raenof gave her a small, tired smile. “We will stay alert. But for now, we work together.”
+
+Ynett’s smile widened. “See? Sensible leadership.”
+
+Chloe pointed at her. “Don’t get comfy. I’m watching you.”
+
+“Oh, I hope so."
+
+Chloe looked back down at the roots. “Fine, we follow the evil magic roots and see where they go. If this turns into another trap, I’m blaming you.”
+
+Ynett inclined her head. “Naturally.”
+
+Mr. White snorted beside her, and Chloe patted his skull. “Alright, buddy, let’s go find the real dragon.”
+
+Led by Ynett, the group followed her as she apparently was able to see through the ground. Chloe wasn't sure how she could do that exactly, but one day if she managed to eat the snake lady's brain, she was going to find out for sure.
+
+Anyway, the roots led them down and down, twisting through ground until the air grew cold and heavy in Chloe’s chest. Water dripped somewhere out of sight, and the walls pressed in just enough to feel uncomfortable. It felt like the dungeon was trying very hard to pretend it wasn’t alive, which only made her trust it even less.
+
+Eventually, the roots spread apart and opened into a wide chamber carved deep into the ground. The Fog Spewer was already there.
+
+Chloe stopped as she took it in. The dragon looked smaller somehow, less grand than it had been in the arena. Fog still leaked from between its scales, but it felt weaker, like it didn’t quite have the same bite anymore. Its wings were tucked tight against its body, and when its glowing eyes landed on Ynett, something flickered across its face that Chloe really enjoyed seeing. Fear.
+
+“You look… worse,” Chloe said, tilting her head.
+
+The Fog Spewer shifted, its claws scraping against the floor with a sharp sound. “Before we continue, there is something I must ask.”
+
+Chloe groaned loudly, already annoyed. “Ugh. No.”
+
+The dragon ignored her. “What are your true names? Names hold power here, and if you speak them, we may yet come to an understanding.”
+
+“Wow, that’s really desperate. You’re doing the name thing now? We're not dumb you know."
+
+"Hmph, it was worth a shot."
+
+The dragon lunged. Fog exploded outward in a violent wave, slamming into the group hard enough to shake the ground.
+
+The chamber shook as the Fog Spewer charged forward, claws ripping deep gouges into the floor as it tried to crush them through sheer force. Chloe skidded back a step and reacted on instinct. Lightning tore from her hands, ripping straight through the fog and burning holes clean through the dragon’s body. She shot a few fireballs right after for good measure too.
+
+For a moment, it almost looked like it worked. However, the fog knit itself back together again, crawling over the wounds as fast as she could make them. The dragon snapped and swiped wildly. Then Ynett moved.
+
+She stepped forward and placed one hand against the ground. Frost surged outward in a blinding rush, racing across the stone and up the Fog Spewer’s legs faster than it could react. Ice sealed joints in place, crawled over its body, and locked its wings mid-motion with sharp, cracking sounds.
+
+The Fog Spewer roared, thrashing wildly as panic finally broke through. “No—!”
+
+Ynett lifted her hand slightly and closed her fingers, like she was pinching something small out of the air. Chloe barely had time to blink before the cold slammed down.
+
+Ice surged through the Fog Spewer all at once. Its body locked up mid-motion, frost crawling over scales and bone so fast it looked unreal. Then the whole thing froze solid. A moment later, it shattered.
+
+Ice cracked straight through the dragon’s body with a brutal, echoing sound, splitting it apart in a violent burst. Frozen fog, shattered bone, and broken scales exploded outward, slamming into the floor in big chunks.
+
+Chloe just stared as the frost settled and the debris stopped moving. Her gaze slid over to Ynett, who hadn’t even moved much.
+
+She squinted at the snake lady, a new thought creeping in. Just how strong was Ynett, anyway? Because that had looked way too easy, and Chloe didn’t like how impressive that was. And she just knew that she'd have to fight Ynett again eventually, so the fact that the snake lady was this strong now wasn't exactly a good sign.
+
+Still, as the last bits of fog cleared, something else came into view behind the shattered remains. A door.
+
+It stood alone in the stone wall. Chloe frowned at it as she could have sworn that It hadn’t been there before, like the Fog Spewer had been hiding it the whole time.
+
+Ynett walked toward the door, brushing ice from her sleeve. She stopped with one hand resting on the surface, then glanced back at the group. “Well? Are you all coming with me or not?”

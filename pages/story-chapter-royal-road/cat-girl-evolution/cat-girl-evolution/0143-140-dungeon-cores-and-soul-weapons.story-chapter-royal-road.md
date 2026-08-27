@@ -1,0 +1,315 @@
+---
+id: 53008a6f-3522-5176-be20-009263010b53
+page-type-slug: story-chapter-royal-road
+title: "140 - Dungeon Cores and Soul Weapons"
+slug: 0143-140-dungeon-cores-and-soul-weapons
+partOf: cat-girl-evolution
+position: 143
+ownLength: 2984
+unit: words
+publishedAt: 2026-07-20
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3700487/140-dungeon-cores-and-soul-weapons"
+royalRoadId: "3700487"
+---
+
+Did I eat it? I mean, he died in my stomach, so did his Soul Weapon pop out, but then get Devoured too? I didn’t sense that. Maybe it was really small?
+
+“No, that shouldn’t have happened… I think I know what might have happened, though. You said his soul is still trapped within your soul, right?”
+
+Yeah, but– Ohhhhh, I get it. So his Soul Weapon hasn’t dropped yet, then. I guess that makes sense? Joshua’s Soul Weapon appeared randomly outside after Gluttony ate his soul, so I guess the same will happen to Joakim’s whenever I finally can eat him. That’s annoying.
+
+Also, what about Andala’s?
+
+“Now that I think about it, Andala didn’t drop a Soul Weapon either. That may be because he is an undead, though. He was a Named monster before he died, so perhaps Joakim took his Soul Weapon before re-animating him, and his Soul Weapon is also trapped in your soul.”
+
+That’d be super annoying.
+
+“You can probably confirm with Fiona.”
+
+Good idea.
+
+I teleport to where Fiona is floating around and practicing her magic and ask her about Andala’s Soul Weapon. Sadly, the answer is just as we feared.
+
+“He tried giving it to a few of his undead to see if they could handle it,” she said. “But it didn’t suit any of us, so he just kept it for himself. I actually thought he had given it back to Andala, but Andala didn’t drop it, so he must have had it. Did you see it anywhere?”
+
+“No,” I say. “But I think I know where it is. Also, why would he have given it to Andala? It was a weapon, right? What’s a badger gonna do with a weapon?”
+
+Fiona raises an eyebrow at me.
+
+“I thought you were a monster.”
+
+“What’s that supposed to mean?”
+
+“When monsters have Soul Weapons, the weapons become parts of their body. Fangs and claws are the most common.”
+
+Abby, is this true?
+
+“Yes.”
+
+Why is mine a Greatsword instead of a claw or a tooth, then?
+
+“I have no idea.”
+
+Lame.
+
+“It’s probably something to do with your Sin Traits and your former identity as a human. Joshua’s wasn’t a body part either.”
+
+Oh yeah, you’re right.
+
+“I see,” I say aloud. “Anyway, you’re sure that Joakim had Andala’s Soul Weapon?”
+
+“Pretty sure,” said Fiona. “If Andala didn’t have it, I don’t know who else would have.”
+
+“Okay, thanks.”
+
+With that, I teleport back to the kitchen, where James and the other NPC cooks are making a bunch of meat pies, probably for the other castle staff. Lauren isn’t there, but when I use my Dungeon Sense to find her, I spot her talking with Chad in the castle gardens, so I decide to leave them alone for a bit.
+
+After a few minutes, I lay down for another nap, and when I wake up, I decide to go bother Lauren to get her help with some more cooking.
+
+We spend a couple more hours re-perfecting the recipe now that I have my new Skills. Thankfully, this doesn’t take long, since we already figured out the right ratios, and the only thing we now need to work out with the enhanced ingredients is how much extra maligar fruit we can add.
+
+With that figured out, we call in the NPC cooks to be our assistants as we prepare a huge batch of perfected maligar salsa, and most of the rest of Skarn and Flarn to make a bunch of tacos to share with everyone. Well, not everyone, and we won’t be sharing all of it. About half of it will just be going into my Stomach for me to eat at my leisure, and almost half of what doesn’t go there will go into my lowercase -s stomach when we eat.
+
+I have Abby go round everyone up, and soon, we’re all sitting around the royal dining hall with platters of tacos on the table before us. As it turns out, Chad is really bad at handling spicy food, much to the amusement of everyone else. The twins, on the other hand, don’t seem bothered by it at all. In fact, they barely even drink any water as they eat. It’s actually pretty impressive.
+
+The three undead siblings are kind of decent with it. They don’t die quite as much as Chad does, but they have to drink a lot of water, and quench the spice with bites of maligar fruit between tacos.
+
+The atmosphere is a little subdued at first, but once everyone gets eating, the mood livens up, and then it livens up even more when Abby breaks out some fancy booze. None of us can really get drunk easily, at this point, but the alcohol Abby conjures is strong enough to give a little buzz to some of the others, which helps the conversation go off.
+
+Even the undead siblings end up lightening up, with the older brother, Phillip, getting especially engaged in conversation. Specifically, he’s engaged in conversation with Abby, and more specifically, the conversation is about Dungeon design. Nerds.
+
+Once everyone has eaten their fill, I take all the leftovers and put them in my Stomach, and stick around for a while longer to hang out. After a while, though, things start to get quiet again as it becomes increasingly clear that everyone is nearing the end of their social batteries. Eventually, Lauren ends up falling asleep on the table, which everyone else takes as a cue to disperse.
+
+The next morning, I head back to the kitchen so we can work on our next Maligar fruit project, but before we can get properly started, we are interrupted by a knock on the door.
+
+“Come in,” I call after checking who it is
+
+The three undead siblings walk in, all with their heads down, looking very nervous. Behind them is Abby, which makes James and the other NPC chefs fall to one knee in her honor. I don’t need any of that right now, though, so I make Abby teleport them all out of the room for now.
+
+The siblings stop right in front of me, and Annie immediately prostrates herself on the ground, holding out a familiar wooden staff.
+
+“I am incredibly sorry for everything I’ve done,” she says. “And I am equally grateful for everything you’ve done for us. I also wanted to return this, since I stole it from you.”
+
+“Oh yeah,” I say, grabbing the staff.
+
+I definitely knew she had it, but it had just completely slipped my mind. I can’t believe she just had this the whole time we were traveling with her.
+
+“By the way what does it do?” I ask. “I was never able to bond with it.”
+
+“It grants access to some basic mental magic,” says Annie, still on the ground. “But it can’t be used for combat. It’s subtle, and only works on unaware, willing, or subdued targets.”
+
+“So that’s how you wiped Lauren’s memories?”
+
+“Yes.”
+
+“Interesting. Hey, Lauren, can you bond with this?”
+
+I hand the staff off to my minion, and she holds it for a few seconds before shaking her head.
+
+“Shame. Well, I’ll figure out what to do with this later. Anyway, was that all?”
+
+“They want to know what you plan to do with them,” says Abby from the back.
+
+“I dunno. I don’t plan to do anything. You guys can do whatever as long as you’re not bothering me.”
+
+“Phillip can’t. He’s stuck here.”
+
+“Right. Well, he can do whatever here.”
+
+“Can we hire him?” asks Abby.
+
+“What?”
+
+“He’s really good with Dungeons. Remember the haunted house floor? He designed that. Well, Joakim gave him some theme instruction, but he designed the puzzle. And he also designed the puzzle of the labyrinth Floor, which would have been good if you guys weren’t completely overleveled. I think he’d be a great help in designing your Dungeon too.”
+
+“I see…”
+
+Abby, you’re acting like a little girl who found a stray cat right now.
+
+“What?”
+
+Mom, can we pleeeease keep him, y’know?
+
+“It– I’m serious! He’d be a great help!”
+
+Sounds like someone has a crush.
+
+“I do not!”
+
+“I am willing to work,” said Phillip. “I actually enjoy this Dungeon design quite a bit. More than my last job, at least.”
+
+“Sure, why not,” I say. “I don’t care. And it’s not like I can kick you out. What are we gonna pay you, though?”
+
+“Well…” he says.
+
+“I was thinking maybe we could give him a Floor?” says Abby. “Just a simple one where he and his sisters can live. As long as it’s small, it’d still leave three complex Floors for you, or four simple ones.
+
+I look over at her, and she maintains eye contact for only a few seconds before quickly turning away. She’s fidgeting with her hands, and leaning to one side while her other leg twists nervously. I wasn’t paying attention at all to what she was talking to Phillip about, but it looks like she might have given him more assurances than she thinks she should have.
+
+I don’t actually care about giving them a Floor. I mean, I’ve got three or four other ones, according to Abby, and I don’t even know what I’m gonna do with them yet. I know what I want the next Floor to be, but beyond that, I was just gonna let Abby do whatever with it anyway. But seeing her like this is kinda funny. It makes me want to mess with her.
+
+“I dunno…” I say, hiding a smirk. “I had some ideas I wanted to do with those Floors.”
+
+“It’ll be a while before we can make any new Floors,” says Abby quickly. “Maybe Annie and Ellie can go find some monsters to feed to the Dungeon in the meantime to level it up one more time to make an extra Floor.”
+
+“Maybe. But what if I have a good idea for that Floor too?”
+
+“W– well, I think that Phillip would be worth a Floor anyway,” says Abby resolutely. “It would be small. It wouldn’t even cost much essence or mana. And I’d personally keep an eye on them to make sure they didn’t cause any trouble.”
+
+I hear a faint noise from beside me, and glance over to see Lauren doing an incredibly good job of maintaining a poker face. I’m pretty sure that noise just now was her exhaling through her nose out of amusement. I also think Phillip has seen what I’m doing as well, and has wisely chosen to remain silent and say nothing.
+
+“I still don’t know,” I say. “That’s a pretty big request. Are you sure he’s worth it?”
+
+“Yes!” says Abby. “You saw the haunted house Floor!”
+
+“Yeah, and I didn’t like it.”
+
+“W– well, you have to admit it was well-designed!”
+
+“Do I?”
+
+“Y– yes!” says Abby without much confidence.
+
+“Hmmm, I see. But how can you be sure they won’t cause trouble? They are ginger, after all.”
+
+“Because–! Wait…” Abby narrows her eyes. “Are you messing with me right now?”
+
+“She would never,” says Lauren.
+
+“You are,” says Abby, glaring at me. “So can he have the Floor?”
+
+“Yeah, sure, I don’t care,” I reply.
+
+“Asshole.”
+
+She turns away to stomp off, but at the same time, a ball of water appears above my head. I was expecting that, though, so at almost the exact same time, an umbrella appears above me, blocking the water and incidentally redirecting it at Lauren. I retaliate with a blob of water over her head, which she also deflects, but that water was just a distraction for the bucket of water I made appear below her foot. She doesn’t react in time, stepping right in and soaking her socks.
+
+She pauses for a moment, fuming, then decides to just disappear. Everyone else in the room is silent for a moment, then Phillip turns to me and bows deeply.
+
+“Thank you for your generosity,” he says. “I’ll make sure that I earn my place.”
+
+“Yes, thank you very much,” says Annie. “If there’s anything you want us to do, we’ll gladly do it.”
+
+“Sure, I’ll let you know,” I say. “But right now, it’s time to cook.”
+
+“Then we’ll get out of your way,” says Phillip with a smile. “Have fun.”
+
+I nod to him, then briefly make eye contact with the youngest, Elliora, and I smile and nod at her as well. She nods back, then spins around awkwardly to follow Phillip out. Annie is the last one out, having been on the ground until it was time to leave, but she gives me a grateful look as well.
+
+Once they’re gone, I teleport the chef and cooks back inside and summon another maligar fruit onto the counter.
+
+“Alright, let’s get to work.”
+
+*** 3 days later ***
+
+In the past thousand years, the Maligar Dungeon Core had only spoken to Adventurers four times. And in the past week, he had done it at least a dozen times, and on top of that had spoken to various government officials, private investigators, merchants, and more. The Maligar Disaster, as it was now being called, was national news, and without the one actually responsible for resolving it present, he was the only one who could provide any answers as to what had happened.
+
+He was in the middle of yet another meeting with the local Adventurer’s Guild branch leader when he suddenly sensed a presence in the instance that contained Yona’s Dungeon.
+
+“One moment please,” he said, interrupting the branch leader. “She’s just emerged. Maybe I can get her in for some answers.”
+
+With that, he switched to Yona’s instance, finding her standing just outside her Dungeon entrance, tapping her foot impatiently. The Dungeon Core let out a silent sigh, then spawned a squirrel to speak with her.
+
+“Perfect timing,” he started. “The–”
+
+“Can we have some more fruits?”
+
+“What?”
+
+“Unripe ones this time. We’re making chutney.”
+
+“…What?”
+
+“You said I could have as many fruits as I wanted, right? Well, I want some more, this time, unripe ones. At least five of them.”
+
+Did I really promise her as many as she wanted?
+
+“You can have them, but only if you hear what I have to say.”
+
+“That’s not the deal.”
+
+“Okay, I’ll get them for you, and then you hear what I have to say. Please?”
+
+“Fine.”
+
+He willed a few unripe fruits to detach, flying them over to the other Dungeon entrance for Yona to inspect. She looked over each for a few seconds, then nodded and sent out miniature mana constructs shaped like cat heads to bite down on them, making them disappear.
+
+“Okay, so what did you want to say?”
+
+“There are currently some very important people in Maligar,” he said. “Adventurer’s Guild Investigators, the mayor of the town outside the Dungeon, a royal inspector, and a few others. They want a firsthand account of what happened with Joakim. Would you mind coming to speak with them?”
+
+“Sure.”
+
+“Really?”
+
+“After I’m done here. We’re kind of in the middle of some very important cooking. And the twins are learning about soul bonds. And Chad is making some kind of crazy sculpture with the maligar tree wood. But we’ll wrap it up in…” she glanced down at her bare wrist for some reason. “Eleven days. We can answer questions then.”
+
+“But–”
+
+“Also, you’d better not show any of them this Dungeon. I’m pretty sure that I’m not supposed to be able to have a portable Dungeon, so if they find out, it’ll get annoying.
+
+“Anyway, thanks for the fruit. Bye!”
+
+*** 5 days later ***
+
+“Hey, Mr. Foot Freak!”
+
+“Are you ready to talk to–?”
+
+“No, we want more fruit.”
+
+“More?”
+
+“Yeah. Ripe ones this time. We’re making literal tons of sorbet.”
+
+“What is sorbet?”
+
+“Delicious. Now, more fruits, please?”
+
+The Dungeon Core gritted his teeth, but summoned a few more fruits for her, which she accepted with a simple nod.
+
+“Would you reconsider–?”
+
+“Thanks, bye!”
+
+*** 3 days later ***
+
+“More?”
+
+“More.”
+
+*** 3 days later ***
+
+The promised day arrived, and for the Maligar Dungeon Core, at least, it was anticlimactic. Yona and her party just stepped out of the Dungeon, and then the entry vanished behind them. That was all. There was no sound, or great pulse of mana, or complex spell. It just vanished.
+
+“Hey, Foot Freak, can we have a few more for the road?”
+
+I really don’t remember promising her this many…
+
+“Yes, but would you please stop calling me Foot Freak?”
+
+“Okay, Podophile.”
+
+The Dungeon core sighed. He might not have been the most competent, but he knew better than to try to argue back against someone like her. It was easiest to just give her what she wanted and be done with it.
+
+A full hundred fruits flew from the tree in the distance in a display that shocked even Yona. The Dungeon Core took great pleasure in the way her eyes widened as she saw the flock of giant fruits land in front of her, and he even thought he caught a bit of drool dripping from her lip.
+
+“Y’know, maybe you’re not so bad after all, Poddy,” she said as the construct heads began making the fruit disappear. “By the way, I don’t think you ever told us your actual name.”
+
+“It’s… Actually, I’d rather not. Poddy is fine.”
+
+“Why? Is it embarrassing?”
+
+“Well…”
+
+“It’s something worse than Foot Freak isn’t it.”
+
+“It’s something that unfortunately means something completely different in this language than it used to when it was given to me.”
+
+“Okay, now you have to tell me.”
+
+“No. I don’t. The others are waiting for you outside the Dungeon, and I told them to be expecting you. Have a good day. Goodbye.”
+
+“Wait!”
+
+But the Dungeon Core was already gone.

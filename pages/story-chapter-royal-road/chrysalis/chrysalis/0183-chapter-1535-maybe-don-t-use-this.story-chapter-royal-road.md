@@ -1,0 +1,87 @@
+---
+id: 23c31187-a4e4-5598-9fc4-fc14c3920443
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1535 - Maybe Don’t Use This"
+slug: 0183-chapter-1535-maybe-don-t-use-this
+partOf: chrysalis
+position: 183
+ownLength: 880
+unit: words
+ownProgress: 880
+publishedAt: 2025-03-24
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2146632/chapter-1535-maybe-dont-use-this"
+royalRoadId: "2146632"
+markedReadAt: "2026-06-29T19:49:41.254Z"
+---
+
+Alright, so, lessons have been learned.
+
+“You still haven’t learned your lesson!”
+
+I can tell the healer is attempting to give me a good thwacking, but they’re so small compared to me that I can barely feel the strikes from their antennae. To really cut through the carapace, you need the force of a mother’s love, after all, the thwacks of The Queen are not to be underestimated.
+
+“I have, I swear! This time I’ve really learned my lesson,” I try to assure them, but I don’t think the healer is listening. She’s worked up a full head of steam by this point and seems to be venting her stress.
+
+“No you haven’t! I refuse to believe it!”
+
+I’m still being healed, but all the while she’s whacking me on the back with her antennae. I think I’ll just let her work through her anger and keep my pheromones to myself for a bit.
+
+“Eldest, what happened here?”
+
+Advant skitters up to me, waggling her antennae in a frustrated manner. I’m pretty sure she already knows, but I’ll indulge her anyway.
+
+“Just a little experiment!” I quip, clacking my mandibles. “Rather successful, wouldn’t you say?”
+
+“The enemy was damaged, you didn’t destroy the platform and you managed to survive. This qualifies as a success where you’re concerned, Eldest,” she says.
+
+“That’s hurtful.”
+
+She shrugs her antennae, as if to say ‘what do you want me to do about it?’
+
+“Things could have been worse, so we can be thankful for that. Despite the power of the attack, you’ve really only bought the platform a few minutes of reprieve, so ultimately it’s not really worth it,” Advant points out.
+
+And she’s not wrong either. If I’d just stood about doing my normal thing, shooting gravity bombs, deploying gravity fields, using Dragon’s Breath and shooting acid, I’d have been in the fight for hours and hours on end, helping to hold the line. As it is, it’ll be an hour or two before I can start fighting again.
+
+“I wasn’t going to do it again,” I defend myself. “I think we can safely seal this ability away until I can actually tolerate it. On the other hand, I think it’s proven that I can use the carapace reinforcement to safely spam the normal Starcrusher chomp, so that’s a thing.”
+
+“I wouldn't say it needs to get completely sealed,” Advant says, prodding at my still-healing antennae. “Smithant has been wanting to talk to you for a while, and you aren’t good for much else at the moment, so you may as well take some time to go and see her. While you’re at it, why not ask if she can make a helmet that might protect you next time you try this?”
+
+“A helmet? Me?”
+
+I’m instantly opposed to the idea. I have the most magnificent, shiny and spectacular carapace in all of the Colony! Look at the deep lustre and subtle sparkle of my gravity compressed diamond! Is it as bright and glittery as normal diamond? No! It’s not gaudy and forward, but dignified and reserved, a mature beauty that captivates all who see it.
+
+I would never cover it up!
+
+“You want your eyes to keep on melting?”
+
+Well… no. I’m starting to worry that I’m getting too used to having my eyes melt, and that’s not something someone should ever get used to. Even now, fighting on the platform, it still happens fairly often. Since I use my body to cover other ants from acid and slime, I can’t help but get doused, which inevitably leads to more melting of the eyes.
+
+“You… may have a point,” I say begrudgingly. “I’ll talk to Smithant.”
+
+“Not until you’re fully healed, you won’t!” the healer declares, trying to slap me around some more.
+
+“Fine, fine. I’m not going anywhere.”
+
+I settle back down while the grumbling little ant finishes her work, only to be approached by the Templars, who gather around with somewhat ominous silence.
+
+“What’s wrong with you lot?” I ask. “You’re being oddly quiet. We didn’t fall into the Sanctum of Silence when I wasn’t looking, did we?”
+
+Jern scratches at his head, then jerks a thumb towards the devastation beyond the edge of the platform.
+
+“Still not a god?” he asks me abruptly.
+
+“Still not a god,” I tell him, resigned.
+
+As expected, he nods and holds his chin, surveying the damage and not listening to me at all.
+
+“We felt something. W-when you were hurt,” Alis stammers. “It… it wasn’t nice.”
+
+This is interesting.
+
+“You sensed something when my life was in danger?”
+
+They all nod and I dive into the Nave, scoping out the situation, but nothing seems to have changed in there. The golden statues continue to watch over the rest of the space… doing something, probably.
+
+“Look, it was a bit foolhardy of me. I was testing something out, and I won’t do it again, alright? No need to worry. For the most part, I’m totally fine. Can you guys do me a favour and help defend this platform while I heal up and talk to some people? I’ll be back in a few hours, I promise.”
+
+“Of course, Eldest,” Bertran says, giving me a comforting pat on the leg. “We’ll look after things here.”

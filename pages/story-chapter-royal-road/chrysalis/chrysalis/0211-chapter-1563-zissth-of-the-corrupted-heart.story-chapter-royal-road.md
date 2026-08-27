@@ -1,0 +1,91 @@
+---
+id: f25b3ae4-2cd3-52a1-b3d2-e1908dd3457d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1563 - Zissth of the Corrupted Heart"
+slug: 0211-chapter-1563-zissth-of-the-corrupted-heart
+partOf: chrysalis
+position: 211
+ownLength: 1090
+unit: words
+ownProgress: 1090
+publishedAt: 2025-05-01
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2245122/chapter-1563-zissth-of-the-corrupted-heart"
+royalRoadId: "2245122"
+markedReadAt: "2026-06-29T19:50:34.084Z"
+---
+
+The Dungeon Hearts of the fifth have been known to the Legion for centuries. They are one of the most closely guarded secrets of the Krath and, it is theorised, the source of the corruption that plagues the stratum.
+
+For the Hearts sit at the core of the fifth. All the tunnels, passages, shafts and spaces originate from them, and return to them. The mana flows through the entire stratum in an endless cycle, with these massive, beating organs providing the impetus. Every drop of mana in the fifth passes through these organs, and therefore would make the perfect place to taint the entire layer.
+
+With this knowledge, the Legion has attempted on several occasions to seize a heart, to study and understand it, perhaps even heal whatever ails it, but to no avail. There is no place in the fifth that is more defended, more difficult to assault, or more dangerous to draw near.
+
+The mana is thicker closer to the hearts, making survival that much harder, but more than that, the Krath tribes obsess over the hearts. Every passage is watched, every tiny sliver of tunnel guarded. Drawing close to a heart will pull an unprecedented horde of slugs, coldly furious and eager to harm.
+
+Every attempt to seize one of these key locations has failed at a significant cost. The Legion has decided, for the time being, it is not worth the effort to try again.
+
+-           Excerpt from ‘Records of the Legionem Abyssi Campaigns in the Deep’
+
+Suspended from the roof of the heart lay the Slimeground of the Zissth tribe, and it was immense. A sprawling web of mucus nets that had been built upon using rock and silk, it was unlike anything the Krath’lath of the Slee had ever seen before. Not only in its unusual construction, but its sheer size. He had heard of the ‘cities’ of the weaker races living on the fourth, but had never seen one himself. This, he imagined, was what one must be like.
+
+Layer after layer of structures, stretching from one side of the heart to the other. He didn’t know how it could be possible, but somehow they had managed to dampen the movement of the walls so the entire city didn’t shake apart with every beat of the heart. The whole thing was incredible to behold, and intimidating. For the first time, he felt as if he had seen the true extent of the power of his own race. The Krath tribes were far greater, far mightier than he had ever assumed.
+
+It was exhilarating. His ambition soared, burning in his flesh just as hot as the acid he cultivated there. A tribe could be this strong? This mighty? This numerous? If so, then he would have to have it for himself.
+
+These were bold thoughts to be thinking while being carried to the Krath’lath bound in spider web, unable to move, but Zluth felt no need to fool himself. He wanted to be great, and no matter the obstacles, he would overcome them.
+
+Right in the heart of the city, a solid ball of hardened slime and mucus formed the dwelling of the tribe leader. Unceremoniously, Zluth was brought within, and before he truly got his bearings, dumped on the floor.
+
+“What have you brought for me today, Zaluss?” a cold voice demanded.
+
+“A messenger who’s come a long way to see you, Krath’lath,” Zluth’s captor replied as his pet spider backed up.
+
+Zluth rolled over with some difficulty, then saw the largest slug he had ever laid eyes on resting upon a dais. Clearly old, from the colour of him, the leader of the Zissth was enormous, with a thick cloud of acrid air hanging around him. His acid must be so strong it beggared belief! How was his flesh able to withstand it?
+
+“A messenger? From which tribe?”
+
+“From the Bulg, though, as you can see, this one is not a Bulg.”
+
+The enormous slug frowned, then hawked and spat a wad of such potent mucus it had eaten itself away before it had even hit the floor.
+
+“Speak plainly, Zaluss,” the Krath’lath demanded, “I can’t be bothered with petty details.”
+
+“I could explain it myself,” Zluth dared to speak up, though when the glare of the massive Krath fell on him, he felt he may have made a mistake.
+
+“You have not been told to speak,” the Krath’lath rumbled, flesh starting to boil and sizzle as his rage ignited.
+
+“You may wish to let him speak for himself,” Zaluss suggested. “He claims to have come bearing a message from the Ancient.”
+
+It was difficult not to wilt under the glare of such a powerful slug, but Zluth held his nerve, barely, until the Krath’lath slowly relaxed.
+
+“The Ancient? Theorazzn has awoken, then? Good.”
+
+Gradually, the sizzling of his flesh subsided, and he turned his gaze back to Zluth.
+
+“Speak.”
+
+Zluth took a breath. Briefly, he considered asking to be untied, but he felt that might be asking for too much.
+
+“Theorazzn has spoken to a number of Krath in dreams and visions,” he explained, “myself included. He has tasked us with killing two monsters and halting the singing. I left the upper reaches of the stratum where we have been fighting off an invasion to deliver this message to the Bulg. When they couldn’t find a willing scout to come here, I volunteered.”
+
+He got the entire message out in a rush, worried he might be cut off, but once he had fallen silent, there was no reply. The Krath’lath simply watched him, eyes slowly bobbing from side to side as he thought to himself.
+
+Eventually, he opened his mouth to reveal the blackened, deadly fangs within.
+
+“The Ancient has tasks for us, and an invasion despoils our home. It seems much has been happening above without the Zissth being told. Zaluss.”
+
+“Krath’lath?”
+
+“Remind me to speak with Ulliz. It seems I must remind him of his… level.”
+
+Zaluss grinned evilly.
+
+“I will. And what of this one?”
+
+Zluth held his breath as the giant slug contemplated.
+
+“This one will live, for now,” he said finally. “Show our guest somewhere and gather my inner circle, there is a lot to do. On your way out, find Tizzith and tell her to prepare to open the vents.”
+
+“You want to open them again?” Zaluss said, surprised. “So soon?”
+
+“There are invaders in our lands,” the Krath’lath replied as if it were the most obvious thing in the world. “They must be repelled.”

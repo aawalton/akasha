@@ -1,0 +1,181 @@
+---
+id: 8b9a9c7c-8069-559c-b74b-32ff08287183
+page-type-slug: story-chapter-royal-road
+title: "107: Important Rules"
+slug: 0107-107-important-rules
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 107
+ownLength: 1866
+unit: words
+publishedAt: 2026-01-30
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2994958/107-important-rules"
+royalRoadId: "2994958"
+---
+
+The group moved deeper into the Sanctum of Dawn together, walking through the glowing meadow in quiet awe. No matter how far they went, the light never changed. It was like the whole place was stuck in the morning and had no intention of moving on.
+
+Chloe kicked at the grass as she walked, then looked around again. Glowing flowers dotted the hills, and tall stone pillars rose up randomly, for what purpose, she had no idea. Even still, everything felt calm. Too calm. It made her itch a little.
+
+She glanced over at Ynett, who was floating along beside them with her usual bored expression. “Okay, we’ve been walking for a bit now. You said earlier that there was more than meets the eye here or whatever, but everything looks normal so far.”
+
+Ynett opened her mouth to answer. Then she froze.
+
+Her eyes sharpened, and the air around her shifted just slightly. “Drop your disguises. Now.”
+
+“What. Why.” Chloe asked.
+
+"I sense fey nearby." Ynett said.
+
+Raenof seemed to panic. “Everyone, drop your disguises."
+
+Ynett’s disguise faded away fast, and her shape shifted until she was back to her real form. She still looked mostly human, but not completely. Long white hair fell down her back, and pale scales covered parts of her cheeks, arms, and legs. She wore loose white robes that flowed around her, and her serpentine eyes moved constantly as she watched the meadow carefully.
+
+Raenof moved quickly as he dismissed his own disguise and Sierra’s with practiced ease. Both vanished in a soft shimmer, vanishing into thin air as their normal clothes returned. Sierra swallowed hard, eyes darting around as she stayed close to him.
+
+Chloe hesitated for about half a second, then shrugged and pulled off her mask and feathery accessories. Cloaky shifted right away, swallowing up her disguise. Chloe still didn’t really get what the huge deal was with fey or whatever these guys were called, but if both Ynett and Raenof were suddenly agreeing on something, then that was probably bad news.
+
+“We’ll need to be careful moving forward,” Ynett said.
+
+Chloe squinted at her. “Okay, but why?.”
+
+“Because fey despise disguises worn by outsiders. To them, it’s a sign of deception. If we want to stay on their good side, we need to be honest about what we are.”
+
+“Wow. That seems kinda rude. What if I just like disguises.”
+
+“Then you should like not angering the fey more.”
+
+“Are they strong or something?”
+
+Ynett paused for a moment. “I’m not entirely sure how strong. But from what I’ve been able to research and hear over the years, individual fey are, on average, extremely powerful. They’re also very skilled with magic.”
+
+“Like. Fighty strong? Or explodey magic strong?"
+
+“Both."
+
+“Hmm, okay. What else?"
+
+“There are rules when dealing with the fae. You must always greet them politely. You must never give them your real name. You must never agree to deals with them unless they promise to do the deal in good faith. And you must never, under any circumstances, go somewhere with a fae unless they explicitly invite you and tell you exactly where they plan to take you."
+
+Chloe's eyes widened. “That’s… a lot.”
+
+Raenof nodded. “But she’s correct, us elves are taught about the fey from a young age. What Ynett is saying aligns with everything I know.”
+
+Chloe stared at him for a second, then slowly turned and pointed at Mr. White. “Okay, but what about him. He can’t exactly greet people politely or not give his name."
+
+Mr. White tilted his skull slightly. Ynett glanced at him, then shrugged. “Fey generally like animals, so he should be fine. But I’m not entirely sure how they’ll react to the undead.”
+
+"Eh, if anyone tries to hurt Mr. White, I'll totally punch them."
+
+"I'd really recommend against doing that. Fey are dangerous."
+
+"Well, I'm pretty dangerous too!"
+
+“Fey or not,” Raenof interrupted, “we should stay focused. We’re here to find Maeve, and the safest way to do that is to stick together.”
+
+Ynett nodded. “Agreed.”
+
+Sierra shifted closer to the group. “We should move soon, I can feel that someone’s moving nearby and getting closer."
+
+That got Chloe’s attention fast. “Ooo, okay."
+
+They started walking again, heading deeper into the Sanctum of Dawn. Mr. White clomped along at Chloe’s side, his skeletal hooves thudding quietly against the ground. Up ahead, Raenof and Ynett led the way, alert and focused, while Sierra stayed between them.
+
+But eventually, as they walked, a thin fog began to creep in. At first, it was barely noticeable, just a faint blur brushing against Chloe’s ankles. Then it thickened, sliding higher until it wrapped around their legs and waists.
+
+Chloe squinted and glanced around. “Hey, was this fog here before?”
+
+“No,” Raenof answered right away.
+
+Ynett slowed. “Stay close, the fog is thickening."
+
+Without thinking, Chloe reached out and grabbed onto Mr. White.. “You’re not allowed to wander off, I’d be sad. And also annoyed.”
+
+The fog thickened fast after that. Figures dissolved into white. Sierra’s shape blurred, then vanished entirely. Raenof’s voice sounded close for a second, then suddenly distant, like it was echoing from the wrong direction. Ynett muttered a curse as even she too vanished into the fog.
+
+“Um, hello?” Chloe called.
+
+No one answered. The fog swallowed everything.
+
+When the fog finally thinned, Chloe found herself standing alone in a patch of empty grass. No one else was around. Well. Almost no one. Mr. White was still there beside her at least.
+
+She felt a small knot of worry twist in her chest at being separated from the others. But it didn’t last long. Chloe was sure she’d find them again, and even if she didn’t right away, she wasn’t actually alone. “Good thing you’re with me, Mr. White."
+
+Mr. White leaned his skull down and gently bumped it against Chloe’s shoulder, like he was checking to make sure she was okay. The blue flames in his chest flickered a little brighter, warm instead of cold this time, and Chloe laughed softly. She reached up and patted his bony neck. “Thanks for trying to cheer me up, but I'm fine! So, let's get going and find the others.”
+
+Feeling way better already, Chloe turned in a slow circle, scanning the glowing grass and the soft fog drifting around her ankles. Everything looked the same in every direction, which was honestly kind of lame. Still, she picked a direction and started walking, keeping one hand on Mr. White so he didn’t accidentally wander off into a spooky fairy trap or whatever.
+
+They moved at an easy pace, side by side. Chloe kept talking as they walked, mostly to fill the quiet and also because silence felt like the kind of thing that let bad stuff sneak up on you. Mr. White’s hooves clomped softly, his blue flames casting cold light across the grass.
+
+The meadow slowly shifted around them as they went. The grass grew taller, brushing against Chloe’s legs, and the light felt thicker somehow, like it was pressing down just a little. That was when she noticed someone standing ahead.
+
+The figure looked like a man dressed in a very nice black suit, hands folded neatly in front of him. The weird part was the guy's head. It was a rabbit’s head, with long twitchy ears and shiny black eyes. Chloe had no idea what fey were actually supposed to look like, but she had a very strong feeling this rabbit guy counted.
+
+The rabbit-headed fey turned toward her smoothly. “Good morning. You seem… lost.”
+
+Chloe swallowed, then forced on a big, friendly smile. “Good morning to you too, and yeah. I’m just, uh. Taking a walk. Enjoying the grass. You know. Morning stuff.”
+
+The fey’s gaze shifted to Mr. White, and his ears perked up. “Oh, what a fascinating mount you have there.”
+
+Chloe puffed up a little with pride. She opened her mouth to introduce Mr. White, then stopped herself just in time as she remembered to not give real names to Fey. Her brain scrambled, grabbing the first thing it could. “This is Mr. Blue. He’s very well-behaved.”
+
+Mr. White snorted softly, blue flames flickering in his chest. The fey’s smile widened just a little, like that somehow pleased him.
+
+“And you?” the fey asked, turning his eyes back to Chloe. “What should I call you?”
+
+Chloe pointed at herself before she could overthink it. “Uh. My name is Zombie.”
+
+“Are you certain that is your name?”
+
+“Uh, yep. I'm Zombie the Zombie."
+
+The fey blinked once, then let out a light laugh. “Charming. A pleasure to meet you, Zombie.”
+
+Chloe relaxed just a tiny bit. She was doing great.
+
+The rabbit fey stepped closer to Mr. White and reached out a hand. Mr. White lowered his skull, letting the fey inspect him. Blue flames pulsed softly as the fey hummed, clearly impressed.
+
+“He carries old magic, I like him.” The fey said.
+
+Chloe beamed, puffing up with pride. “See? Everyone likes him.”
+
+The fey smiled, tilting his head in that weirdly polite way that made Chloe instantly suspicious. “Would you like to come with me?”
+
+Chloe blinked at him. Her brain immediately went into full panic mode. Don’t go! Don’t go! Don’t go!
+
+She shook her head, forcing a polite smile. “Uh, no thanks. I, uh… kind of like walking on my own.”
+
+The fey’s ears twitched, but he didn’t frown. “I could show you the way out of this place. You seem lost, after all.”
+
+“Well, thanks,” Chloe said, waving a hand. “But I think I’ll manage.”
+
+“But this place is full of danger, I can show you exactly where you need to go.”
+
+“And where do you plan on taking me exactly?”
+
+He gestured vaguely. “Wherever your heart desires.”
+
+“But… where though?”
+
+“Like I said, wherever you want to go."
+
+Chloe waved a hand again, stepping back slightly. “Well, no thanks. I think I know where I want to go.”
+
+“Do you? Where are you going?” the fey asked.
+
+“Places,” Chloe said confidently.
+
+“Places where?”
+
+“Um… it’s no big deal. Really. I’ll be fine. I can go wherever on my own."
+
+“I insist that you follow me. You need not fear anything with me.”
+
+Chloe’s eyes darted around, looking for a way out of this mess, as this fey was really starting to worry her a bit. “Uh, thanks? But I… um… I left my backpack somewhere. Yeah. My backpack! And it has all my very important zombie stuff. Super important.”
+
+The fey paused, tilting his head, ears flicking thoughtfully. After a moment, he nodded. “Then perhaps I can help you find your companions while you search for your lost backpack?”
+
+“Oh! You can do that? Really? How exactly are you planning to do that?”
+
+“I can sense them. I can guide you safely to your friends.”
+
+Chloe almost felt happy. The fey's offer sounded amazing. But, her gut twisted into that weird, slimy feeling she hated. She knew she couldn’t just trust this rabbit guy. He seemed polite enough, even nice, but talking to him made her feel uncomfortable. Like slime was creeping around inside her brain.

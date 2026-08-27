@@ -1,0 +1,253 @@
+---
+id: b0574f01-7663-5634-a8c7-5fc084d9ee37
+page-type-slug: story-chapter-royal-road
+title: "9 - !@#$%^&*() House Cat"
+slug: 0009-9-house-cat
+partOf: cat-girl-evolution
+position: 9
+ownLength: 2448
+unit: words
+publishedAt: 2025-08-17
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2525593/9-house-cat"
+royalRoadId: "2525593"
+---
+
+Before acknowledging the Annoying Blue Boxes, the first thing I do is inspect my own body. I feel mostly the same. No, actually, I feel way better. Like I could jump over this tree in a single leap.
+
+I try that, and surprisingly, I actually make it to some of the middle branches. Not quite over the whole thing, but still pretty high. My stats definitely went way up. Let’s see how high up.
+
+[ Name: Yona ]
+
+[ Age: 0 ]
+
+[ Species: !@#$%^&*() House Cat. Tier: 1. Level: 1. ]
+
+[ Class: --Select-- ]
+
+[ Profession: Locked ]
+
+[ Titles: Second Lifer, System Breaker ]
+
+[ Traits: Cat-like Reflexes, Gluttony, Spatial Affinity, Nimble, Fire Affinity ]
+
+[ Stats ]
+
+[ Power: 132 (+64) ]
+
+[ Finesse: 236 (+110) ]
+
+[ Resilience: 172 (+82) ]
+
+[ Memory: 157 (+75) ]
+
+[ Willpower: 175 (+83) ]
+
+[ Sensitivity: 175 (+83) ]
+
+[ Skills: Scratch, Stomach of the Glutton, Bite of the Glutton, Snatch of the Glutton, Blink, Ember ]
+
+Hmmm. That seems pretty high. I actually kinda forgot what they were at before though, so I’m not sure how much they went up.
+
+[ All of them have more than doubled. Some of them have more than tripled. Once again, WHAT DID YOU DO??? ]
+
+Oh, that’s a pretty big jump. Thanks, Abby. Anyway, I also have a cool new Title, System Breaker.
+
+[ System Breaker: Congratulations! You found a flaw in the System and have made the System Administrators aware of it. As a reward for being such a diligent and helpful System user, you get this cool title! +10% to all stats. ]
+
+Oh, so I guess that what I did in there wasn’t bad. I bet it was just Angry Red Box being a douchebag. He did say he was just a bottom-of-the-****ing-barrel wage slave, so he was probably wrong. After all, it was the System, which is basically his boss, that gave me this title, so it must be right. He was lying about me exploding. I am going to do it again next time.
+
+[ Exploding??? Princess Yona, I beseech you, please inform your humble servant what has transpired during your Species Evolution! ]
+
+Hmmm, well I guess since you’re asking so nicely, sure. Basically, there was a table with a bunch of fish on it, and I ate them all.
+
+[ All of them? How many were there? ]
+
+13.
+
+[ And it didn’t stop you after the first one? ]
+
+Well, I cut them all up and mixed them together, so I was eating them all with every bite.
+
+[ … ]
+
+[ You know what, I’m not even going to get mad about that. That’s actually hilarious. And it seems to have worked out for you, since you had some insane stat growth. Good job, Yona. ]
+
+Thank you! I told you I was smart!
+
+[ The smartest! ]
+
+Thanks, Abby! I like you much better than the Annoying Red Box. I’m gonna call him Arboliculous because it sounds dumb.
+
+[ I pity the man ]
+
+You shouldn’t. He told me I was going to explode. I actually believed him! When I started napping, I thought I wasn’t gonna wake up!
+
+[ Well, you actually could have exploded. The odds were low, but it was possible. I can’t believe he ran the combination function like that. It was highly irresponsible. ]
+
+I know, right?! He did it on purpose too! He ran it after telling me it was going to make me explode!
+
+[ Hmmm, I’ll have a word with management. For now, you should get back to your Royal Status Window ]
+
+Good idea! Let’s see, my class has changed from “Locked” to “--Select--.” I’ll come back to that later.
+
+What’s next… Traits! Cat-like Reflexes, I choose you!
+
+[ Cat-like Reflexes (Stage 2): You have the reflexes of a cat with excellent reflexes ]
+
+Lame! Gluttony, you’re up next!
+
+[ Gluttony (Stage 3): Your hunger will never be sated. No matter how much you consume, you will always want more. Includes Traits: Poison Resistance, Food Sense, Calorie Burner, Stuffed, Hungry, Strong Teeth, Iron Stomach ]
+
+[ Poison Resistance (Stage 3): You are resistant to all poisons ]
+
+[ Food Sense (Stage 3): You can sense nearby items that are edible, and you can sense what they are ]
+
+[ Calorie Burner (Stage 3): When injured or exhausted, you will heal faster at the expense of Satiety. Current Satiety: 6849118% ]
+
+[ Stuffed (Stage 3): You are a glutton who stuffs themselves silly. While beyond 100% Satiety, your stats are increased by 60%. Current Satiety: 6849118% ]
+
+[ Hungry (Stage 3): You are always hungry. While below 70% Satiety, your stats are increased by 60% ]
+
+[ Strong Teeth (Stage 2): Your teeth are stronger than usual, allowing you to chew tough meals without issue ]
+
+[ Iron Stomach (Stage 2): Your stomach is stronger than usual, allowing you to safely consume and digest things that would otherwise be inedible ]
+
+Hmmm, this one is actually a lot to unpack. It looks like Hungry from that one evolution got folded in. I don’t think I’ll ever be using it. Strong Teeth and Iron Stomach look fun. I guess that means I can eat more different things? My upgraded Food Sense is now telling me that the dirt is edible, so I guess so. Calorie Burner and Poison Resistance look pretty much the same, but slightly better. Stuffed got better. Cool.
+
+Now, Spatial Affinity, it’s your turn!
+
+[ Spatial Affinity (Stage 2): You are naturally inclined toward learning Spatial magic. Skills based on spatial magic will be easier to acquire, and easier to use. Will influence evolution options. ]
+
+Bo-ring! Now for the new ones! Nimble!
+
+[ Nimble (Stage 1): You have excellent control over your body, and can make delicate maneuvers with ease ]
+
+Wow, this a new record for most boring! Fire Affinity, go!
+
+[ Fire Affinity (Stage 1): You are naturally inclined toward learning Fire magic. Skills based on fire magic will be somewhat easier to acquire, and somewhat easier to use. May influence evolution options. ]
+
+I spoke too soon! This is just Spatial Affinity copy pasted, but with Fire. The implications are interesting though. Looking back, I guess I did have one fire option for my evolution.
+
+Moving on, it’s time for skills! Scratch!
+
+…didn’t change. Neither did Stomach of the Glutton. But, I got four new skills. Bite of the Glutton, show me what you’ve got!
+
+[ Bite of the Glutton: Your Gluttony is so powerful that it has caused your Bite skill to mutate. Bite down with increased force on edible items and creatures. Has no effect on inedible items and creatures. Compatible with other Gluttonous abilities ]
+
+I bet this will go well with my new Sharp Teeth and Iron Stomach Traits. Especially if they keep upgrading and more things become edible. Now, Snatch of the Glutton!
+
+[ Snatch of the Glutton: Your Gluttony is so powerful that it has caused your Snatch skill to mutate. Allows you to teleport edible items to you. Range drastically increased from ordinary Snatch. Compatible with other Gluttonous abilities. Proficiency: Early ]
+
+Hmmm, the name of this one sounds funny. I don’t really like it. But hey, this one has Proficiency! And it’s an awesome skill! Now I don’t even have to move to get food!
+
+Blink!
+
+[ Blink: Teleport a short distance. Proficiency: Early ]
+
+Shortest description yet, but sounds the best! Maybe I’ll be able to get off the island with this!
+
+[ Not likely. Blink is only for- ]
+
+Silence, ye of little faith! Watch me!
+
+I activate my new skill, trying to go as far as possible and move a grand total of about five meters onto a different tree branch. Hmmm, Maybe Abbacus was right.
+
+[ As I was saying, Blink is only for short range combat scenarios. It’s not useful for travel ]
+
+But what if I just keep blinking repeatedly and stay floating in the air?
+
+[ That wouldn’t work either. Blink only affects your position, not your momentum, so you would still be falling faster with every Blink, and whenever you finally did land, you would get hurt. Also, you don’t have enough mana to do more than a few dozen Blinks before running out ]
+
+What’s mana?
+
+[ It’s basically magical energy. Now that you have a skill that uses it, you can practice sensing it more effectively ]
+
+I see. If I upgrade Blink by raising its proficiency, will I be able to teleport off the island?
+
+[ Eventually… but Spatial skills are notoriously hard to upgrade, even with an upgraded Spatial Affinity. By the time you reach that level, the Ichthyoids will be long dead, and you’ll be so bored you might just choose to swim back anyway ]
+
+Never! I will upgrade Blink as much as I need to to teleport off the island!
+
+[ Good luck with that. ]
+
+Anyway, I still have one final skill to test out. Ember!
+
+[ Ember: Fire a small, burning ember ahead of you. Proficiency: Early ]
+
+I use Ember. My mouth unhinges instinctually, and from within, a small ball of fire shoots out. It flies far, fortunately not hitting any tree branches before landing on the ground. A few small flames appear on the ground for a moment, blackening the grass, but I guess it’s too moist for it to properly catch. That’s probably a good thing.
+
+[ I would recommend not burning the island down ]
+
+Yeah, yeah, whatever. I’m not an idiot. Anyway, that was all pretty fun. I got a bunch of new stuff, including a teleport and an attack spell. It’s like a mini fireball! I bet that’s gonna be really cool when I upgrade it.
+
+Now, I just need to figure out what I’ll be doing for the rest of the day. Besides eating, of course. Speaking of, it looks like that fish in the cabin wasn’t actually real, because I am starving.
+
+I jump down to the ground and feast on eelman flesh. I use my new Bite of the Glutton Skill, but it doesn’t seem to do much other than completely remove any resistance that the eel flesh has left. I guess I’ll need to find something truly tough to test it on.
+
+I glance up at a tree. Maybe…
+
+I Bite the tree. A good chunk of bark, and even a bit of the hard wood underneath comes off. It doesn’t actually taste bad. I chew and swallow, and it goes down easy. Interesting. Well, now I know I can eat trees if I want. I wonder if…
+
+Nope, can’t put trees into my Stomach of the Glutton. Yet. I will someday.
+
+I go back to my eelman and eat until I’m stuffed. Now I need to figure out what to do with the rest of the day. The food might not have been real, but the nap was, and I don’t feel tired at all. I guess I should try to upgrade one of my skills, but which one?
+
+[ Scratch is a Basic skill, and now that you’ve evolved, it should be quite easy to upgrade. Starting with that would be a good idea. ]
+
+Yeah, that sounds like a good idea. I do want to see what upgrading a skill is like.
+
+[ Before you do that though, there’s something very important you haven’t done yet. ]
+
+What?
+
+[ You need to choose your Class ]
+
+Oh yeah! Let’s do it!
+
+[ Error: Tier 1 Evolution unstable. Class selection is impossible at this time. Thank you for your patience as we work to resolve this issue. ]
+
+Noooo!
+
+The local Adventurer’s Guild in Oakville had never been a busy place, but Charlie couldn’t remember it ever being less busy than it was now. The monster spawns in the area were almost non-existent, and the only reason that the Guild had a branch there in the first place was the low-level Dungeon two kilometers outside of the town. It was good enough to get people to mid-Bronze, but that was about it. The only hope of reaching Silver tier without leaving was a lucky Named monster spawn, and those were few and far between.
+
+“Man, I’m booored,” whined Charlie, twirling an arrow in his hand.
+
+“Then work on your Profession,” said Fiona without looking up from her knitting.
+
+“I want to be an Adventurer, not a Chef!”
+
+“Then go on an adventure.”
+
+Charlie glanced over at the almost empty Quest board. There were only two requests. One was from farmer Hank, who believed goblins were stealing his crops, but he always believed goblins were stealing his crops, yet there were never any goblins. The other was from the local apothecary, Sara, who said that she heard some strange noises in the woods while out gathering herbs and hoped someone would investigate. Neither were promising. Neither would get Charlie to Silver.
+
+“Can’t a Named monster just spawn already?” he whined.
+
+“Every time you say that, the next Named spawn gets pushed back a week,” said Fiona, bending over to get a closer look at her work. “Just do something and stop whining. It’s getting annoying. Go help Mom with the store or something.”
+
+“We should just leave already. Go to the big city. Riverfork has four Dungeons around it! We’d reach Silver in no time!”
+
+“Mom said we can’t go until we reach Silver.”
+
+“C’mon, Fiona, we’re adults now! We don’t need Mom’s permission!”
+
+Fiona set her in-progress scarf down with a sigh and finally looked up at her brother.
+
+“Charlie-” she started.
+
+At that moment, the door flew open, and a man in the town guard’s uniform walked in. He marched up to the front desk and slammed his hand down, waking the snoring receptionist.
+
+“Huh?” said the bespectacled receptionist, rubbing the sleep out of her eyes. “What? Oh! Hendrick! What’s going on?”
+
+“A Named monster,” said the guard. “It wiped out Palm Village.”
+
+“W-wiped out?” asked the receptionist.
+
+“Only a dozen survivors. It’s a Leader type, and a smart one too. We need to kill it now before it expands its territory any further. Put up a Quest.”
+
+“A-alright!” said the receptionist, pulling out a piece of paper. “What other details do you know?”
+
+While the receptionist filled out the Quest form, Charlie leapt to his feet and looked at his sister, beaming.
+
+“You hear that, Fiona?”
+
+“Yep,” she said, standing up to join him. She tried to maintain a calm exterior, but the corner of her mouth crept upward in a smile. “Let’s pack up.”

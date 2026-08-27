@@ -1,0 +1,33 @@
+---
+id: 8143acdd-d5b7-5c87-a516-15336372ef38
+page-type-slug: story-chapter-royal-road
+title: "[A Knot in Fate's Weave]"
+slug: 0191-a-knot-in-fates-weave
+partOf: breaker-of-horizons
+position: 191
+ownLength: 591
+unit: words
+publishedAt: 2022-12-22
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/1069128/a-knot-in-fates-weave"
+royalRoadId: "1069128"
+---
+
+Hello dear readers,
+
+It is with a heavy heart that I am writing this post to let all of you know that I will not be able to continue the story in this form.
+
+When I started "Just a Bystander" about two years ago, I thought it would be quite manageable for me to keep pumping out short chapters at a steady pace. I used to write a lot in play-by-post RPGs on forums a long time ago, and this platform offered a way for me to begin writing in a more disciplined way that was familiar to me. For a time, it worked wonderfully. The relatively bite-sized nature of the writing meant that I could indeed punch out more of the story every time. And when your reviews and comments came flooding in, I found myself galvanised. I cannot express how invigorating, how powerful it is, to be supported by readers. The fact that there are people out there who enjoy reading what I have written has bouyed me through many a dark day, and I am glad to know that the stories that play out in my head have given other people some enjoyment and food for thought.
+
+But, as those who have followed since the beginning will know, real life has stepped in sometimes and disrupted my writing schedule. I am holding a full-time job with a pretty heavy volume of work, and I also have other personal responsibilities that call for my time and energy. Those disruptions in the past were difficult to plough through, but I recovered somewhat after each one and managed to get back to the writing table.
+
+However, it's been a few months now (and I really do apologise for the radio silence), and it has become clear that I cannot keep this up. To top it off, a more recent (but happy!) development also means that I will have less time in the future to commit to serialised writing.
+
+I feel... I feel really sad that I cannot continue writing in this way. Even though I have not always replied to comments (or spoken much on Discord), I do read every single comment and review, and I do take pleasure in knowing that there are people out there in the wide world who enjoy following Caden's story. There is so much more I feel I have left to share, and it pains me to know I may never get to read your reactions to the things that are yet to unfold, if I am ever able to get it all out of my head and onto a page. "Just a Bystander" has been my most cohesive attempt to write the novel that has been rattling around in my head since I was a child, and all of you have made this journey such a wonderful experience for me.
+
+There are no words to really express how much it means to me that you have been a part of this.
+
+I cannot promise a return to RoyalRoad, or even the proper completion of this story... but I want you all to know that this is not the end of my life as a writer. I am still going to try to finish this, perhaps as a 'proper' novel, or in some other way... and when that time comes, I would very much like to share it with all of you.
+
+If you'd like to keep in touch, do join the Discord and give me a holler from time to time.
+
+With fondest wishes,Aefraga

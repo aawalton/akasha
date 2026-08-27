@@ -1,0 +1,65 @@
+---
+id: 482320b0-9693-519f-9025-37a395a1e1f1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1364 - The Toxic World"
+slug: 0011-chapter-1364-the-toxic-world
+partOf: chrysalis
+position: 11
+ownLength: 1078
+unit: words
+ownProgress: 1078
+publishedAt: 2024-06-28
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1695776/chapter-1364-the-toxic-world"
+royalRoadId: "1695776"
+markedReadAt: "2026-06-29T19:44:00.292Z"
+---
+
+Rushing forward in one great leap, I plunge my entire body into the atmosphere of the fifth. Despite the thrill of exploration, of taking part in another adventure in the Dungeon, I can’t say this is a pleasant experience. If I were to liken to anything, it’s like sticking my head straight into a toilet.
+
+A toilet filled with acid.
+
+My entire body burns. My carapace is on fire, my antennae are frying away, the joints in my legs are in immediate pain. Worst of all are my eyes. They are immediately attacked, consumed by the toxins which never relent in their attack.
+
+Even more disturbing than the physical discomfort is the feeling I get from the mana. It’s invading my body constantly, those fingers of poison stretching inside, attempting to corrupt me from within. It’s… awful.
+
+Yep… this is absolutely awful. No wonder people consider this place an uninhabitable wasteland of death. It is an uninhabitable wasteland of death.
+
+I trigger my healing gland, welcoming the sensation of the icy cold healing fluid rushing throughout my frame, pushing back the damage caused by the environment of the fifth. At the same time, I put my brains to work, seizing the invading mana and purging it before it can do much damage or begin to propagate itself. With these measures in place, it still absolutely sucks to be here, and I probably couldn’t maintain it indefinitely. Putting aside how absurdly painful it is, without sufficient Will from the Vestibule, I’d eventually run out of healing to constantly repair myself.
+
+Forward, forward, forward! I press on, eager to break through to the end of this entrance and take a glimpse of the true fifth stratum. It really tests my grip, the walls are far slipperier down here than they were in the fourth, but I hold firm and manage not to fall.
+
+Luckily, considering the condition I’m in, I don’t see any monsters in the tunnel itself, which I’ll take as a win. After carefully scuttling down the wall for almost a hundred metres, it finally comes to an end and opens up into a wider cavern below.
+
+For the first time, I lay eyes on the fifth stratum, and all I can say is: it’s gross.
+
+Interestingly, the space is less like a chamber and more like an enormous tunnel. Hundreds of metres across, perhaps even a kilometre, and just as deep, it’s massive, on par with some of the largest I saw in the first and second. Filling that space is the most disgusting kind of ‘life’ that I think I’ve ever come across. Seeing it in all its glory, I get a clearer picture of what the terraforming slugs were trying to achieve when they invaded the fourth.
+
+There’s a river of virulent green mucus. Just… like… a river of it. I can’t even say it’s flowing… it looks more like it's seeping. Within that thick sludge, I can see eel-like creatures slithering over each other, covered in suckers and mouths rising up every now and again to breach the surface.
+
+Throughout the chamber I can see thick strands of slime, some connecting the ceiling to the floor, each emanating a visible aura of decay. Swathes of mould in bright, sickly colours carpet the surfaces, rippling as something within moves through them. Or perhaps the mould itself is moving? Monstrous mould would be the least shocking thing I’d expect to see down here.
+
+It takes me a little while to find the rest of the monsters. The air is filled with a thick haze of yellow-green… steam? Mist? The monsters themselves blend into the environment quite well, but as they move around, I start to pick them out.
+
+Creatures move amongst the sludge, blending in, eyeing each other as they survive within the toxic atmosphere. Weird, snail-like creatures with eye stalks piercing through their own shells slither here and there. A frog monster with an absurdly large maw prowls around, bright blue venom dripping from between its fangs. Fluttering here and there, surprisingly, are butterfly-looking creatures, each the size of a small horse, their wings blending in masterfully with the toxic air. It’s almost easier to see them from the mist they disturb as they fly as opposed to looking for their bodies.
+
+There’s many more monsters, but what catches my eye is instead the vents I see in places around the tunnel. Each looks different, but they all appear to be doing the exact same thing: spewing a dense cloud of toxic mana directly into the tunnel. As I watch them closer, I see that my first assumption wasn’t quite right. They are sucking in mana, and then expelling it, before repeating the process. When looking at the flow of energy throughout the whole tunnel, it's almost like the entire thing is breathing, a vast push and pull of mana that is cycling… somewhere?
+
+At this point, I can’t bear to be down here any more, and turn around. I trigger my healing gland for the second time as I climb upwards, and it does a decent job of battling against the acidity burning away at my body. Repelling the mana is taking far more of my mental energy than I expected, with almost half of my mind-constructs dedicated to the job. Since not even a single mote of the stuff can be allowed to exist within me, the minds have to work super hard scouring for every tiny trace of energy. If I was more sensitive to mana, it probably wouldn’t be as hard, but I’m lacking both a high enough rank mana sense, and any of the myriad organs that assist with detection.
+
+When I eventually break through the barrier back up into the fourth stratum, I almost gasp with relief.
+
+[Holy moly. It’s awful down there.]
+
+[Master! You’re hurt!]
+
+[Of course I’m hurt, just being down there is enough to hurt. You’re going to have to be very careful. I’m not sure how vulnerable your shadow body is going to be, but if the acid eats into it like it did my carapace, you’ll have a rough time.]
+
+“What was it like, Eldest?” Coolant asks me when I crest the exit of the tunnel again.
+
+“Bad,” I reply bluntly. “It’s going to be a heck of a job purifying that place. Impossible, many would say.”
+
+“What do you say?”
+
+I clack my mandibles.
+
+“I say, we can do it in a year.”

@@ -1,0 +1,157 @@
+---
+id: 234faea8-0418-5f00-85e9-9c5cc1b431c7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1549 - Plans and Plans and Plans"
+slug: 0197-chapter-1549-plans-and-plans-and-plans
+partOf: chrysalis
+position: 197
+ownLength: 1351
+unit: words
+ownProgress: 1351
+publishedAt: 2025-04-11
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2191681/chapter-1549-plans-and-plans-and-plans"
+royalRoadId: "2191681"
+markedReadAt: "2026-06-29T19:50:07.383Z"
+---
+
+“Everything has been unfolding according to my predictions,” Solant stated clearly.
+
+Leonidant turned away from the ongoing battle of the platform to look at her sibling and leader.
+
+“It always does,” she said, confused. “Why bother announcing it now?”
+
+“Because I predicted our position here would grow significantly worse, almost to the point of defeat.”
+
+Leonidant was shocked. The Colony was taking a beating for sure, but they were holding strong against the wave within the fifth stratum, a deed thought impossible by most of Pangera. Why was Solant saying they were going to be pushed to the brink?
+
+“Is it the Legion?” she demanded. “Are they going to betray us? Or will they be too weak to hold the platform?”
+
+Losing a single platform wouldn’t be the end of the fortress, but it would be a devastating blow. The natural mana of the fifth wasn’t just toxic, it was self-replicating, chewing up other forms of magical energy to reproduce itself. The cleansed mana created by the wuffers had the same property, but it was simply outgunned by the sheer volume and concentration of the competition. The fifth’s energy was able to chew through the cleansed energy faster than the reverse, and as it grew more condensed throughout the wave, the ratio only got worse. Losing an eighth of the input for the wuffers would be enough to push the fortress to the brink later on in the wave.
+
+Solant merely clacked her mandibles placidly.
+
+“Do the Legion look as though they are going to falter?”
+
+Maintaining their disciplined ranks, the Abyssal Legion continued to fight, just as they had for days on end, holding the line against the wave and obliterating the monsters that charged forward to challenge them. They had been steadfast and unyielding, as much as Leonidant hated to admit it.
+
+“No,” she said begrudgingly.
+
+“I agree with that assessment. No, the source of the problem lies in the escalation of the conflict.”
+
+“What escalation of the conflict?” Leonidant asked, confused.
+
+“The one that hasn’t happened yet,” Solant stated, sagely.
+
+Sometimes, even Leonidant had to wonder if her sister was being deliberately obtuse. Would it really hurt her to give a straight answer?
+
+“If the Eldest were here, you’d have a sore head right now.”
+
+Solant flinched, ever so slightly.
+
+“That was uncalled for,” she reproached her sister.
+
+“You have a habit of being more vague than you need to be,” Leonidant shrugged, unapologetic.
+
+“In this particular instance, I can’t be specific,” Solant said, a little snippily. “There are numerous factors that could lead to the escalation I predicted, and any of them, or all of them, could eventuate. Without access to the deeper Dungeon, there is no way for me to know.”
+
+“So, you’ve identified a number of factors that have the potential to intensify the battle around the fortress? What are they?”
+
+“I can give you the full list, if you like, or we can begin to enact our countermeasures. Which would you prefer?”
+
+“Countermeasures,” came the immediate reply.
+
+Leonidant trusted Solant implicitly. No matter what she said, she would only say if she was sure, if it served a purpose. She hadn’t revealed this problem until now, and there was a reason for that as well. The reasons could wait until later; action should be taken as soon as possible.
+
+“First, we need to speak to Brilliant. Everything hinges on the reservoir. If that doesn’t work, we will have to begin withdrawing from the fortress.”
+
+Indeed, the storage built right in the heart of the fortress was key to the entire strategy. Withoutit, there was no chance of success. If that were the case, there was no point remaining here. Withdrawal would be a catastrophic loss for the Colony, but not as much as staying and losing millions of ants and tens of thousands of allies.
+
+It took time to move from the platform to the very heart of the nest, and the two sisters didn’t speak at all as they skittered through the long tunnels. No words were necessary.
+
+Before they entered the central chamber itself, Leonidant could already feel a hum in the air that caused the fine hairs on her antennae to shiver. What was that?
+
+Solant moved directly to a crowded area swarming with ants, and sure enough, Brilliant was there, working feverishly.
+
+“Is it fixed?” Solant asked calmly.
+
+Brilliant hopped around and pointed an antennae directly at the little general.
+
+“Who do you think you’re talking to?” the mage cried. “Of course it’s fixed! I’m BRILLIANT! Not some half-baked inventor fresh out of the antcademy!”
+
+“Really?” Leonidant said, somewhat shocked. “It’s really fixed?”
+
+Brilliant flicked her antennae.
+
+“I don’t repeat myself,” she said.
+
+Then she began trembling on the spot.
+
+After a few moments, she became unable to control herself and unleashed an overwhelming burst of pheromones.
+
+“I’M BRILLIANT!” she roared, striking a victorious pose, two legs held up in the air.
+
+“You repeated yourself,” Solant pointed out.
+
+“Some things are worth repeating,” Brilliant said triumphantly.
+
+“How were you able to resolve the resonance issue?”
+
+“With difficulty,” came the reply.
+
+There was silence for a moment, then Brilliant slumped.
+
+“You really want me to explain it? That’s so boring.”
+
+“The superficial details, then,” Solant conceded.
+
+“Great!” Brilliant sprang back to life. “So, we did everything possible to contain the resonant energy between the holding tanks, right? Dampeners, anti-resonance wave fields, mana-wave padding, porous, energy-absorbing baffles, all of it, and it still didn’t work. The concentration of energy was just too much and even these measures weren’t enough to completely muffle the resonance. And, as you know, even a tiny, infinitesimal amount of resonance would be enough to destroy the entire facility, since it would only grow in intensity over time.”
+
+“Yes. Your solution?”
+
+“In essence, we shunted it into another dimension.”
+
+Leonidant boggled. They’d done what?
+
+“Excellent,” Solant said. “Is there any chance this will blow back onto us?”
+
+“It shouldn’t. In the end, the amount of resonance we’re shunting is tiny; the residue that remains after our exhaustive methods is almost unnoticeable and wouldn’t be a problem if it weren’t for the sheer volume of energy we’re trying to store. I explored the dimension as thoroughly as I safely could, and there didn’t seem to be any reason to think the shunted energy would be a problem.”
+
+“You’ve done well, Brilliant. Thank you,” Solant said, clacking her mandibles in satisfaction.
+
+“Did you really expect anything less?” Brilliant chortled, waving her antennae wildly.
+
+“I did not. Can we take a look at the reservoir?”
+
+“Go for it. Just don’t touch anything or move around too much. You might end up in another dimension.”
+
+“We’ll be careful.”
+
+Solant turned and wandered further into the chamber, Leonidant following close behind.
+
+“Are you sure this is safe?” Leonidant demanded.
+
+“No, but Brilliant seems confident.”
+
+“She’s not exactly… cautious.”
+
+“But she’s generally correct. Besides, a certain level of risk is acceptable in the pursuit of victory.”
+
+There it was, that sharp gleam in the general’s eyes. Sometimes, it was easy to forget that there was only one overriding goal in the eyes of Solant: total victory. Nothing was more important to her.
+
+Leonidant fell silent as they moved deeper within, her antennae vibrating more and more the closer they got. Finally, they reached the innermost chamber, the reservoir itself, and gazed within.
+
+Thousands and thousands of tanks, each partially filled with a glowing blue liquid covered the walls, rising up and falling below. The sheer concentration of mana here was enough to render any sort of mana sense completely useless. This energy was simply too potent, too dense, burning bright as a star.
+
+“Twenty percent full,” Solant noted.
+
+Only twenty percent? And it was this intense? What was it going to be like in here when the tanks were full?
+
+“The rate of filling should increase, since the reserves are fully stocked. As long as things proceed within tolerance, we will make it in time,” Solant said, satisfied.
+
+She turned to leave.
+
+“Come, we need to speak to the core shapers.”
+
+“What? Why?”
+
+“Reinforcements.”

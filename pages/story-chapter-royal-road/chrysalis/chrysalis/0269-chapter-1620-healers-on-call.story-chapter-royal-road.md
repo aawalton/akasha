@@ -1,0 +1,95 @@
+---
+id: 878e1a8b-eafb-549a-91fe-17fa3badbdb1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1620 - Healers On Call"
+slug: 0269-chapter-1620-healers-on-call
+partOf: chrysalis
+position: 269
+ownLength: 984
+unit: words
+ownProgress: 984
+publishedAt: 2025-08-11
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2508291/chapter-1620-healers-on-call"
+royalRoadId: "2508291"
+markedReadAt: "2026-06-29T19:52:25.329Z"
+---
+
+The healers were around me before I even knew that they were coming. After my twenty defenders were dragged into the tree root and, I presume, shuffled back to the fortress, they came back for me, grumbling all the while.
+
+“Having a nice nap, Eldest?”
+
+“You know this is a war zone, right?”
+
+“Serves you right for jumping off the platform.”
+
+Look, I’ll tolerate a lot from the healers, I know how badly they get overworked, and the futility of trying to keep ants from getting injured, but that’s a bit much.
+
+“Excuse me? ‘Jumped off the platform’? What sort of revisionist history is that?! I heroically and nobly fell from the platform.”
+
+“You’re really going to bother replying to that when you should be using all of your mental energy to keep yourself alive?”
+
+“You just expect us to do it for you, don’t you? Typical.”
+
+“Hey, I’m working very hard to keep myself alive!”
+
+“Then why isn't it working?”
+
+“Oh, I don’t know, maybe because the virulent toxin of a literal Ancient is eating through my insides?”
+
+“Sounds like you’re slacking.”
+
+Honestly, I would like to reply to that, but I do actually have to spend almost all of my energy on containing the slowly unfolding disaster within me. Protectant and the others really helped me by pulling some of it away, but even a single drop is enough to be dangerous, and I’ve still got way more than that inside me.
+
+To be honest, it’s awful. I can feel myself mutating inside. The mana isn’t just destroying, it’s changing me as it goes, twisting and warping everything it touches on its way through. I’ve already tried to flush the regeneration gland through my body, but it doesn’t attack the morphed tissue like it should, as if it recognises it as belonging to my body.
+
+“I… I could use a little help,” I tell the healers. I just don’t have the strength to argue with them.
+
+“What do you think we came here for?” one of them huffs, already poking and prodding at my carapace with her antennae. “Well, we came here for a few reasons, but you’re one of them.”
+
+If the heart keeps filling up at this pace, I’m going to be underwater soon, condensed liquid mana putting everything except my antennae below the surface. Just how much of this stuff did we make?!
+
+Overhead, the battle has been joined. I’m vaguely aware of it, but I truly can’t spare the energy to see how it's going. Tiny, Crinis and Invidia are there, I’m sure of it. They’ll take care of everything.
+
+I have to believe that.
+
+“Oh, what else did you come here for?” I ask the healers. “Complaining to me directly? You could have just sent me some mail.”
+
+“You think we don’t have anything better to do than complain to you?”
+
+This is a new scent. From the corner of my vision, I see a healer emerge, larger than the others.
+
+“Mendant? What are you doing here?”
+
+The healers around me are pouring in their energy, trying to arrest the spread of corruption. It helps, but the stuff is so damn durable. Trying to break it apart is like a thirty step process, and if you fail at one, the whole thing unravels and the mana reforms, as if I’d never touched it at all.
+
+It’s exhausting. Thankfully, I have enough ants around to refresh my mental energy, so I can keep going, but the same isn’t true for the healers.
+
+“Healing,” Mendant sighs. “You think this heart is going to survive shock therapy like this?”
+
+Huh?
+
+I turn my attention to the walls of the heart. Oh, I think I see what she’s talking about. The fifth may not have always been the toxic mess it is now, but the heart has been soaking in that corruption for… who knows how long. Wherever the blue liquid contacts, the flesh of the heart is… burning.
+
+On closer inspection, it looks as if the filth is being cleansed, but after so long, that doesn’t leave all that much behind. If nothing is done, the heart will be healed, purified, only to collapse shortly afterwards.
+
+“More work,” Mendant grumbles. “It’s not enough for us to heal the wounded, we have to heal the Dungeon as well? If this becomes a regular thing, I’m going to demand we double the number of healers in the next ten generations.”
+
+“I thought we let the hatchlings choose what they wanted to do?”
+
+“Oh… yes. Of course. Anyway, I’m busy.”
+
+Off she goes, with more and more healers emerging from the tree root. There are hundreds of them, maybe thousands in there, and they leap into action. Soon, the floor of the heart is a carpet of healers, pouring out their energy to repair the flesh even as it breaks apart, holding the beating pump of the fifth stratum together.
+
+“Wow. That’s really impressive. I don’t want to make too fine a point of it, but there are actual… you know… soldiers in that tree root, right? Not to diminish what you’re doing at all, but you know, isn’t there a battle going on up above us?”
+
+“As if we can’t take care of ourselves,” one of the healers climbing on my carapace snaps, slapping my carapace with an antenna. “Aren’t you a patient? Be quiet and let us do our work.”
+
+“I’m still doing most of the work here,” I point out, only to get another slap.
+
+“Not to worry. I’m fairly sure Brilliant has rounded up everyone she could,” another healer assures me. “Now shush.”
+
+Shush? I’ve been shushed by one of my own siblings? This is a low point. I’d be more upset if it weren’t for the all-consuming poison in my body. Well, the nameless are here, things can’t go too badly with them around.
+
+“WE SEEK!”
+
+Oh no…

@@ -1,0 +1,254 @@
+---
+id: a8cd063e-d0c4-5ee4-a120-1de3f9ea87a8
+page-type-slug: story-chapter-royal-road
+title: "163 - Chilling with the Saintess"
+partOf: bunny-girl-evolution
+position: 29
+ownLength: 3412
+unit: words
+ownProgress: 3412
+publishedAt: 2026-01-13
+link: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/2938108/163-chilling-with-the-saintess"
+royalRoadId: "2938108"
+markedReadAt: "2026-06-29T20:03:35.842Z"
+---
+
+When they reached the fountain, Sophie was surprised to see that Jessie had returned to her male disguise. Elise was not. Even in her male form, which seemed designed to be as plain and unremarkable as possible, she was already drawing more attention than Elise due to the raw, uncontrolled aether she constantly emitted. Walking around as a beautiful woman in a white dress must have been awful.
+
+Elise noticed Jesse before they even saw her, due to her aether, but Jessie noticed as soon as they entered her line of sight. She immediately got up from her seat on one of the benches surrounding the fountain and walked quickly toward them. At this time of day, there were still dozens of other students around, and many of their gazes followed Jessie as she walked away.
+
+“You guys ready?” said Jessie.
+
+“Yep,” said Elise. “We don’t live far.”
+
+“I know. I mean— Sorry, hold on.”
+
+She paused for a moment, then her voice resumed in Elise’s head.
+
+“The Church did a background check on you. Also, there are two guards hidden in the crowd that’ll be following us. They won’t do anything, and they won’t try to sneak in, but they will be keeping watch outside and they will be on standby in case anything happens. Sorry.”
+
+“It’s fine,” replied Elise. “I suspected something like that might happen. Don’t worry about it.”
+
+While they walked back to the house, talking out loud about more mundane subjects like their classes, Elise kept her senses open to find the church guards. In the square with the fountain, she couldn’t quite pick them out, but almost as soon as they left, she found them. They were both using stealth Skills, and she could not sense their mana at all, nor could she see them, but their aether was plain as day, and quite a bit higher than most of the students walking around, so it wasn’t hard to spot them.
+
+When they arrived at the Grays’ house, the guards split up, taking up positions on top of neighboring houses, situated so that between the two of them, they could see all four sides of the house and mark anyone entering or exiting. Elise was pleased when she sensed them stop completely, not trying to go any further. Not because she was worried about them getting in, but because she was worried about what kind of diplomatic trouble it would cause if Irylax did something to them because they got too close.
+
+Nick was in the entryway taking his shoes off when they got inside, and when he heard the trio of Elise, Sophie, and Jessie arrive, he turned to greet them with a smile.
+
+“Welcome—” He paused when he saw Jessie. “Welcome back. Who’s this?”
+
+Elise quickly closed the door behind them before giving Jessie a quick nod. Jessie reached over and touched an inconspicuous silver ring on her left hand and began to change. The process took about ten seconds total as Jessie’s body rippled and morphed into her true form. Her clothes also changed, extending and changing color as some seams vanished and others were added. Elise could sense a lot of aether hard at work in the process, and couldn’t help but wonder how it was at all possible. It was just like her own {Transformation}, but slower, and now that she saw it in slow motion like this, it looked incredibly complex.
+
+The whole time, Nick just stared, looking completely nonplussed. Bianca poked her head out of the kitchen near the end of the process, and she too looked confused. Even Sophie looked confused, though she had her {Dragon Eyes} activated, so she was probably confused for a different reason.
+
+“My name is Jessie,” said Jessie with a small curtsey. “A friend of Eleanor and Sophie. It’s nice to meet you.”
+
+“Yes, nice to meet you as well…” said Nick, still looking extremely confused. “What was that?”
+
+“She’s the Saintess of the Church of Light, so she has to disguise herself when she’s in public,” said Sophie.
+
+Nick and Bianca’s confusion deepened further at that statement, and Bianca was the first to recover.
+
+“We welcome you to our humble home, My Lady,” she said, curtseying deeply.
+
+“Ah, hold on,” said Jessie. “Pardon the cursing, but it gets the point across, so I’m gonna do it anyway. I don’t give two shits what anyone calls me, and Eleanor invited me over so I could relax and not have to worry about people treating me like I’m some kind of demigod. You don’t need to watch what you say around me, you don’t need to treat me with respect, and you definitely don’t need to call me ‘My Lady’ or any bullshit like that.”
+
+“I– I see,” said Bianca.
+
+There were a few seconds of silence, and then Nick spoke.
+
+“Well, that’s a relief, because I’ve had enough of saying ‘My Lady’ to last a lifetime.”
+
+All five of them chuckled at that, but Elise suspected that there was a bit of deeper meaning behind his words, based on how his emotions fluctuated when he said it.
+
+“Well, in that case, make yourself at home,” said Bianca. “Dinner will be ready in an hour or so. I hope you like steak.”
+
+“I love steak,” said Jessie. “Thank you very much for the hospitality.”
+
+“Of course! You’re welcome to come over any time.”
+
+“Why don’t you two give Jessie a quick house tour and then hang out for a bit,” said Nick. “Bianca and I will be in the kitchen getting dinner ready.”
+
+Elise and Sophie agreed before leading Jessie out of the entryway and into the kitchen. It was obvious that Nick and Bianca wanted to talk, and while Sophie didn’t seem to pick up on that, she was more than happy to show Jessie around. Elise let Sophie take the lead, since she seemed excited to show Jessie around. Jessie spent most of the tour quiet, only occasionally making polite comments as Sophie carried the conversation on her own, but when they reached the second floor, or more specifically, Elise’s bedroom, she found a gap in Sophie’s endless stream of words to say something of her own.
+
+“By the way, do you have any clothes I can borrow? All I’ve got are white dresses, and it’d be nice to wear something else, even if it’s only for a little while.”
+
+Elise usually spent her time in the clothes she got from the high-leveled changeling tailor, since it was more convenient to be able to change her outfit on a whim, but she still had plenty of other clothes in her closet. Unfortunately, she doubted any of them would fit Jessie. Jessie was almost half a foot taller than her, and had a very different body shape. Sophie was taller than Elise, and still growing, but she still wasn’t as tall as Jessie, and she was even slimmer than Elise. Bianca was taller than Elise, but not by much, so she was out as an option too, leaving only one person.
+
+“I don’t think any of my clothes would fit you,” she started. “Neither would Sophie or Bianca’s. There’s one more person who might have clothes you could borrow, but—”
+
+“Oh yeah!” exclaimed Sophie. “Let’s go ask!”
+
+“...Alright,” said Elise.
+
+From what she knew about Irylax, the dragon would never share her personal belongings, but there was a small chance she would say yes if it was Sophie who was asking. Sophie led the way to Irylax’s room with Elise following a couple steps behind. Jessie sensed Elise’s apprehension and fell a few steps back herself, though she wisely chose not to say anything. Sophie reached the door and knocked loudly, and a couple seconds later, the door swung wide open to reveal Irylax and her bedroom in their full glory.
+
+“What do you want?”
+
+In the time since returning from her exile on the island, Irylax had adopted a lifestyle that on Earth would have gotten people asking if she was depressed. She spent most of her days holed up in her room reading books and eating snacks. Her room was a mess, with dirty clothes and dishes everywhere, and empty packages of pastries from the shop down the street. Irylax herself didn’t look much better, wearing nothing but a ratty shirt and baggy pants, both with grease stains all over.
+
+Elise could understand her letting loose a bit and enjoying the amenities of civilization for a while after being stuck without them for centuries, but at this point, she was actually getting a little worried about the dragon. Not that she would ever voice that, since Irylax wouldn’t be happy, but she doubted that her current habits were healthy. However, as she observed Irylax’s current unkempt state, she noticed something odd. As a dragon, Irylax had always had enormous quantities of both aether and mana, but today, something seemed different.
+
+Has her aether… increased?
+
+“Can we borrow some of your clothes?” asked Sophie.
+
+“No,” said Irylax before closing the door.
+
+“Awww,” said Sophie.
+
+A moment later, the door swung open again.
+
+“Wait, are you the Saintess?” asked Irylax.
+
+“Y— yes, yes I am,” said Jessie. “I’m so sorry for bothering you.”
+
+Irylax didn’t respond, instead just staring Jessie down with her slitted yellow eyes. No one else dared to speak for almost a full minute, and a bead of sweat dripped down Jessie’s forehead.
+
+“Very interesting,” Irylax finally said. “Are you the one who wants my clothes?”
+
+“Well, I just–”
+
+“It’s a simple yes or no question.”
+
+“Y– Yes, but—”
+
+“Okay, I’ll let you borrow some,” said Irylax. “But I need to talk to you first. Alone.”
+
+Irylax waved a finger, and a wave of invisible mana passed through the hallway before surrounding Jessie and pulling her in. Jessie let out half a squeak of terror before the door slammed, completely cutting off all sound from within. Elise and Sophie waited nervously outside for close to ten minutes before the door opened and Jessie walked back out. This time, she was alone, and the door slammed behind her without Elise ever catching a glimpse of Irylax.
+
+She was also wearing a dress that was even fancier than the one that was now folded in her arms. It was pitch black this time, but Elise doubted it matched Jessie’s goal of relaxing. It looked more like she was about to go try to seduce a widower at a funeral.
+
+“What happened?” whispered Sophie.
+
+“I… I honestly have no idea,” said Jessie. “She just asked me some random questions, then told me to put this dress on. She said it suited me better than my other one. Then, she kicked me out.”
+
+“What kind of questions?” asked Sophie.
+
+Jessie glanced at Elise before responding.
+
+“Personal ones,” she said. “Anyway, I guess this is… better? It’s not white at least. Shall we finish the tour?”
+
+“I guess,” said Elise.
+
+All that was left on the floor was Sophie’s room and the empty guest room, so the tour ended fairly quickly after that, and the three returned downstairs to relax in the sitting room. The conversation turned back to school at this point, though it was, once again, Sophie carrying it. Sophie was very talkative. It wasn’t to the point that she talked over people or ignored what they said, but given the opportunity, she would probably be able to ramble for hours if no one stopped her. Elise would be the first to admit that she sometimes found this trait mildly annoying, but right now, she was glad for it, because it went a long way to cut through the awkward tension in the house.
+
+Dinner went peacefully, though Jessie got some odd looks from Nick and Bianca for her outfit. The odd looks stopped as soon as they learned it was Irylax’s idea though. Once that was cleared up, it didn’t take long for Sophie to once again break the ice and turn what might have been an awkward dinner into a lively one. Elise ended up learning quite a bit about Jessie, or at least about her life as the Saintess.
+
+The Church of Light was an organization that focused mainly on healing and charity. As the Saintess, Jessie spent most of her days, at least before school began, healing and blessing people. She had a blessing Skill somewhat similar to Elise’s {Fairy Dust}, except it was more powerful and could only bless. When she spoke of this, Jessie actually seemed quite content. She seemed to enjoy that part of being the Saintess, at least.
+
+The rest of it though, she spoke of with more annoyance. As one of, if not the most important figures in the Church, her health and security were taken very seriously. She was monitored around the clock, and her schedule was very rigid, with almost every minute of her day planned out. Even her “relaxation” was scheduled, which for some reason made it a lot less relaxing than it otherwise might have been.
+
+Elise wasn’t sure if it was wise for her to be sharing her gripes and complaints so freely like this, but once Sophie broke the ice, she seemed to completely settle in and let loose. It was understandable though. She had been stuck in the church like this for more than a year, and this was the first time she had gotten to vent.
+
+The conversation about her life as the Saintess made the dinner pass quickly, and it did a lot to ingratiate herself with Nick and Bianca. They were clearly nervous at first, but the uncensored nature of her rant helped them relax, and by the end, Nick was cursing as well as he talked about his own issues with the rigid church figures. Apparently, he had been dealing with them lately, and many of his experiences were not quite pleasant either.
+
+Once they had all eaten their fill, they returned to the sitting room and continued the conversation for an hour or so until it began to wind down. Or rather than winding down, it seemed that Jessie was intentionally not engaging as much to force it to wind down.
+
+“So, what are your plans for the rest of the night?” asked Bianca after a particularly long silence.
+
+“I should probably head back soon,” said Jessie. “I have permission to stay out as long as I want, but I shouldn’t push that too far.”
+
+“That’s fair,” said Bianca.
+
+“There’s something I need to talk to Snowberry about first though.”
+
+The use of Elise’s real name did not bother anyone present, as they had established quite early in the conversation that Jessie knew her name.
+
+“In private?” asked Nick.
+
+“Yes,” she said, nodding.
+
+“Then go ahead. Don’t let us keep you.”
+
+“Thank you.”
+
+Together, Elise and Jessie returned upstairs, stopping in Elise’s room and locking the door. Elise was a little embarrassed about the state of her room, since it wasn’t exactly clean, but compared to Irylax’s, it was nothing, so she didn’t feel too bad. Still, when Jessie’s eyes landed on the pile of empty dessert boxes next to her nightstand, she couldn’t help but look away in shame.
+
+“Okay, before I start the serious stuff, who the hell is Irylax?” asked Jessie.
+
+“A dragon,” replied Elise.
+
+“Ah. Okay. That tracks. Anyway, this {Rune of Fate thing}. We haven’t gotten much chance to talk, but you seem to know a lot more about it than I do. Is there anything else I should know about it?”
+
+“Well, I don’t really know everything either, but I definitely know a lot more than you, and yes, there is a lot you should know about it.”
+
+Elise started a long explanation that roughly covered everything she knew about the rune, from her initial bumbling about to the more active research, and the information she had received from her various sources. She mentioned that it was something she already had, rather than something that was granted, that runes existed before the System, and that everything the System did with it was just its attempts to notate it. She mentioned that it was still in a rudimentary form, and that it would morph and conform itself to the user’s soul eventually. Neither she nor Jessie had reached that state, but judging from the state of Jessie’s aether, she was much closer than Elise was. She even mentioned the black boxes, and how they were dangerous and reacted to the rune.
+
+Jessie paid close attention the entire time, nodding along with each new piece of information, and asking clarifying questions. When Elise finished, Jessie was silent, lost in thought for a few seconds before speaking again.
+
+“Well that’s… a lot to take in,” she said. “Do you think that everyone with the rune is… like us?”
+
+“I don’t know, but I’m beginning to think that might be true,” said Elise. “You’re the only other person with the rune that I know of, and you’re from Earth, so…”
+
+“You haven’t met any of the others yet?”
+
+“The others?”
+
+“From the prophecy.”
+
+“...What prophecy?”
+
+“Maggie’s prophecy.”
+
+“Maggie hasn’t given me any prophecies,” said Elise, thinking hard. “But actually, I think she did mention something about others. She kind of glossed over it, but I definitely remember her mentioning it.
+
+“That’s weird that she didn’t give you the prophecy,” said Jessie, frowning. “Actually, no it’s not. Now that I think about it, the Church kept that information restricted. She’s probably not allowed to tell you. I don’t really give a shit though, so here it goes:
+
+“Seven years. Seven souls. Seven gods. Seven more.
+
+Two in the south in the lands of yore
+
+Two in the east on opposite shores
+
+Two in the center; the last is no more
+
+Five years have passed. The sixth stretches on.
+
+When the seventh arrives, there shall come a new dawn.
+
+Like the wrath of the gods, descending upon
+
+An unsuspecting world.”
+
+“That’s… ominous,” said Elise. “Are you sure that’s talking about us?”
+
+“That’s what Maggie says.”
+
+“So there are seven of us. Or six… One is already dead?”
+
+“I think so,” said Jessie. “Though I have no idea who it was or where they were.”
+
+“Yeah…”
+
+Elise frowned deeply as she thought about that. There were seven holders of the Rune of Fate, and one was already dead. Perhaps if they had ended up in a situation like Elise’s, that was possible. Maybe they had just gotten unlucky. Of course, there was another possibility, and one that she was very worried to think about. Freddy.
+
+Should I tell Jessie? she wondered.
+
+“Actually, it makes sense that we haven’t met any others,” said Jessie, interrupting Elise’s thoughts. “The prophecy does say that we’re all spread out. I’m not a geography expert, but there are only three major continents on this world, so it’s not hard to think that the center, south, and east are those three continents. The other four aren’t even nearby.”
+
+“Yeah,” said Elise. “Well, the other three. The seventh hasn’t arrived yet, supposedly.”
+
+“Right,” said Jessie. “And they’re going to bring a new dawn, apparently… When do you think they’ll show up?”
+
+“I actually think I know the answer to that one,” said Elise. “Six months from now.”
+
+“Why then?”
+
+“Well, that’ll be about a year after I got here, and two years after you got here, and also, I talked to my goddess, and she said something big was gonna happen in six months.”
+
+“Ah,” said Jessie. “So, six months it is.”
+
+“Yeah…”
+
+“Well, shit. That sucks. That means I only have six months to do all the cool stuff before everything goes to shit.”
+
+“Better use your time wisely then,” said Elise.
+
+“I’m sorry, but I’m going to abuse your existence,” said Jessie. “I don’t mean to impose, but you’re my only way out.”
+
+“Not a problem with me,” said Elise. “I haven’t gotten to talk with someone else from Earth in ages.”
+
+“Same,” said Jessie. “By the way, this is a bit of a change in subject, but I was wondering. I have a lot of aether, and based on your explanation, that’s because of the Rune of Fate. How come you don’t have that much aether though?”
+
+“Ah, but I do. I just have a suppression Skill. You should try to get one, if you can. It’s super useful. Here, I’ll undo it so you can see.”

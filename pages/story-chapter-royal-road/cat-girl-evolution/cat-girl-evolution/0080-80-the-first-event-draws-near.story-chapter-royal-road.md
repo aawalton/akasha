@@ -1,0 +1,77 @@
+---
+id: 8a42964e-a6dd-5255-b855-7b63c67a6bdf
+page-type-slug: story-chapter-royal-road
+title: "80 - The First Event Draws Near"
+slug: 0080-80-the-first-event-draws-near
+partOf: cat-girl-evolution
+position: 80
+ownLength: 2018
+unit: words
+publishedAt: 2026-01-25
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2976853/80-the-first-event-draws-near"
+royalRoadId: "2976853"
+---
+
+Twenty one gods were gathered in the God of Games’ banquet hall in the divine realm. The one at the head of the table was the God of Games himself, while the other twenty were the participants in the sixth round of the game he had been fiddling with for millennia. The attention of all the gods present was drawn to a single screen at the far end of the table opposite the God of Games where a tense scene played out.
+
+Standing on a hill was a behemoth of the eldritch persuasion, a vaguely humanoid monstrosity that seemed to be made of tentacles and eyeballs. Many of its tentacles had been severed, and close to half its eyes were blinded, but it was still full of vitality. Around it were the remains of what was once a human settlement, with stone, wood, and corpses strewn all about. There was only one other living creature in the vicinity, a lone human warrior with blood pouring from her shut eyelids and leaving two long streaks down her face. Her armor was dented, and one of her arms hung limply at her side, but despite her disheveled state, her breathing was calm, and her bloody sword was steady in her hand.
+
+For a full minute, neither moved, simply facing each other as the dust from the ruined town settled. Then, in an instant, the monster’s tentacles shot forward, aiming to grab the woman and tear her apart. While she could not see, the woman seemed to be able to sense the tentacles just fine, and leaned to the side, dodging them by a hair as she raised her sword. The monster managed to move its tentacles out of the way, and they were only nicked instead of severed, and from there, the battle only grew more intense.
+
+The woman with the shut eyes danced around the battlefield, her red-dyed sword moving so fast it was almost invisible, and although the monster’s attacks seemed to come from all directions, they somehow never quite reached her. She slowly moved closer, severing one of its tentacles with each step as a smile played across her lips. The monster panicked, its attacks increasing in speed and frequency, but she somehow managed to avoid them all, stepping closer with each strike.
+
+One of the gods leaned forward in his seat, knuckles white as he clenched his fists and silently cheered the monster on. Despair filled his eyes as the woman got closer and closer, and for a moment, it seemed that she might actually be the victor. Then, disaster struck for her, and the god breathed a long sigh of relief.
+
+At such close range, the attacks had gotten too difficult to dodge and intercept, and when they all came at her at once, one of them managed to slip past her guard slamming into her side and sending her flying with a sickening crunch. She tumbled through the air like a ragdoll, slamming into the remains of a stone fountain and slumping to the ground. The god pumped his fist in excitement as the others around him let out sighs of disappointment.
+
+However, the next moment, their attitudes all shifted. The warrior’s body was broken. Her armor was caved in on the side, and although she struggled, her legs refused to move. Only her sword arm continued to obey her and with it, she barely managed to push herself onto her back, facing the monstrosity as it stepped toward her to deliver the final blow. While it looked like it was about to be the end for her, rather than despairing, her smile only grew wider.
+
+As the eldritch horror approached, she raised her sword one final time and it glowed white with the radiance of a dozen suns. Then, calmly, as though she was quieting an orchestra, she brought her arm down. An enormous arc of pure white followed the sword’s path, cutting through the monstrosity and half the town behind it. The monster fell to the ground in two pieces, its body unraveling into two unrecognizable piles of tentacles and eyes.
+
+The woman raised her sword to the sky victoriously. Then, she fell unconscious. She was in a dire state. Her entire torso was nearly liquified, her spine was broken, her left arm was hanging by a single tendon, and even the most powerful healer would never be able to restore her sight. And yet, she lived. Her heart beat, her one remaining lung kept breathing, and the smile remained on her face. And not too far away, a healer was rushing toward her.
+
+The god pounded his fist on the table once in anger, then let out a long sigh and leaned back.
+
+“And then there were twenty,” said the God of Games with a wide smile. “It seems that the preliminaries are over. It’s time for the real game to begin. All of you are now locked in to your Avatars. There are no more backups. If you Avatar dies, you lose, so make sure you treat them well.
+
+“Before I explain the first Event, I must first congratulate all of you on your performance so far. Not all of you took to the game immediately, but there have been some rather creative uses of your divine power allotments, and many that I did not expect. It has made this game even more interesting than I could have hoped for.”
+
+The deities all nodded and smiled. They liked being praised.
+
+“Now, as for the first Event, it will begin in three months. Many Avatars were in rather dire situations in the beginning, and some of them are still in dire situations. You have these three months to secure their futures. Send them on Quests, give them Blessings, make use of your followers… Do whatever you can to prepare, because when the First Event begins, you will want them to be as strong as possible. After all, by the end of the First Event, half of them will be dead.
+
+“In the past, I’ve tried some rather complex Events, but during those experiments, I discovered an important truth: oftentimes, the simpler the rules, the better. With simpler rules, both you and your Avatars can be more creative. So, this First Event is quite simple. It’s a bounty game.
+
+“In three months, each Avatar will be given a target whom they are supposed to kill. All Avatars will have exactly one target, and exactly one Avatar will be targeting them. To pass this first Event, your Avatar must defeat their target. This can be through killing them, or through forcing submission. Once their target is defeated, they will earn Event Rewards, and they will officially pass on to the Second Event.
+
+“To spice things up, I will be giving each of you three Target Tokens. You can spend these Target Tokens to switch either the Avatar that your Avatar is targeting, or you can switch who is targeting your Avatar. Switching your own Avatar’s Target is instantaneous, but switching who is targeting your Avatar takes three days to come into effect, and the god of that Avatar will be notified. If they wish, they will be able to spend one of their own Tokens to prevent the switch.
+
+“Should your Avatar’s Target perish before your Avatar kills them through natural causes or external forces, your Avatar will be considered victorious and will be rewarded. However, if two Avatars have the same Target, and one kills the Target first, the other will be randomly assigned a new Target, and they will not pass. They will still need to kill their Target.
+
+“The First Event will automatically end when only ten Avatars remain. This means that your Avatar can technically win by hiding and not participating, as long as their Target dies anyway. However, if they do this, they will lose out on the First Event rewards, and in doing so, they may find it difficult to compete in the Second Event.
+
+“Does that all make sense to everyone?”
+
+A few of the deities seemed lost in thought, but no one voiced any concerns, so the God of Games clapped his hands together happily.
+
+“In that case, I look forward to seeing how this all turns out. Good luck, and may the odds be ever against your opponents!”
+
+With that, he vanished in a puff of smoke, leaving the other twenty deities sitting in silence. One by one, they began to vanish as well, though a few stayed behind to talk, openly forming alliances, or issuing personal challenges. Some of these were legitimate, and some were ruses. Not all the deities were schemers, but all were taking the game seriously because while it was technically just a game, each had wagered a piece of their Divine Domain, and none wished to lose.
+
+One goddess in particular was especially fired up. She was the youngest of them all, and this was the first time she had ever been invited to participate in one of the God of Games’ grand arrangements. She had nearly given up in the beginning, thinking she had drawn the short straw with her Avatar, but despite not switching her Avatar out, she had somehow managed to work her way up to a comfortable fifth place.
+
+Once back in her own Divine Realm, she immediately turned her attention to her own Avatar, who was now interrogating a severed head. She watched the Avatar with a conflicted expression. Her Avatar was disrespectful, lazy, impossible to predict, and impossible to control. She took everything the goddess did for granted, and spent all her time whining and complaining and even going so far as to insult the goddess, rather than being grateful. In any other situation, the goddess would have simply smote her, but it was unfortunately not an option here. The Avatar was a thorn in her side, but she also had a decent chance of winning the game, and if she won the game, the young goddess would be able to claim a piece of 19 other gods’ Divine Domains, shooting her straight from the bottom tier of divinity to the beginnings of the upper tier. It was too good a reward to pass up, so as much as she hated it, she would have to work with the Avatar.
+
+Three months… she thought. Not much time at all.
+
+The boon that she had already granted that would activate upon her Avatar’s Tier 3 Evolution was a powerful one, but she was worried it would not be enough to turn the tides of the First Event. Not on its own, at least. She needed something else. And since she had spent so much of her divine power allotment on that first boon, her options for what else she could do in the next three months were very limited.
+
+She kept one eye on her Avatar’s antics while she scrolled through the Blessings section of the Divine System. There were many powerful Blessings she could grant, and most of them would indeed boost her Avatar’s power, but none of them were quite right. She wanted to empower her Avatar, but she also wanted to teach her a lesson about respect, and her friend and mentor had opened her eyes to the possibilities. Her first attempt had been an abject failure, as the Avatar didn’t seem overly bothered by the bitch necklace, but there were other similar methods she could use.
+
+Suddenly, she stopped scrolling, eyes focused on one of the final options in the list. A smirk slowly spread across her face.
+
+“Oh, she’s going to hate this one,” she muttered with a cackle.
+
+Immediately, she prepared a Quest with that Blessing as a reward. The Quest would not go into effect yet, as she did not have enough Divine Power yet, but it wouldn’t be long. It would activate with plenty of time before the First Event. She looked back at her Avatar, imagining the face she might make when she realized how the upcoming Blessing worked.
+
+“This is going to be good.”

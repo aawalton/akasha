@@ -1,0 +1,201 @@
+---
+id: 4675ef9b-d195-5bbc-aa42-0a5323ae62fe
+page-type-slug: story-chapter-royal-road
+title: "14: The Big Boss"
+slug: 0014-14-the-big-boss
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 14
+ownLength: 2117
+unit: words
+publishedAt: 2025-08-22
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2538820/14-the-big-boss"
+royalRoadId: "2538820"
+---
+
+The riders kicked their mounts forward. All four lunged at once.
+
+Chloe snapped her fingers. A chunk of stone formed in the air, then blasted forward with a sharp crack, slamming straight into the lead beast’s eye.
+
+The creature let out a high-pitched squeal, reared up, then flipped backward, sending its rider flying. Both hit the ground with a loud crunch.
+
+Before the dust could settle, Chloe spun to the left and ducked low as another rider galloped past. The goblin’s spear sliced through empty air, the rush of wind tugging at her cloak. She fired off another Rock Shot.
+
+This time, the spell hit the rider square in the skull. The goblin’s head cracked open, and his limp body slumped sideways off the saddle. The beast he had been riding kept running until it slammed into a wall
+
+Once it was stuck, Chloe fired a Rock Shot to finish the job. Then, she turned her focus to the remaining threats.
+
+The third rider charged straight at her. Chloe darted between broken pillars, weaving through the shadows to bait the charge. The beast barreled straight into one of the stone columns as she leapt aside, the impact sending cracks racing upward as dust rained from above.
+
+And Chloe was already moving, ready to take the opening. She cast Rock Shot from the cover of the settling cloud, and the blast struck the goblin in the chest, toppling him from his mount. The boar rammed into a wall, stunned.
+
+That left only one goblin rider. Chloe turned just in time to see the last goblin hurtling toward her, screeching loudly.
+
+She ducked low and rolled forward, the spear grazing her back. As the beast passed, she jumped up, grabbed the goblin’s ankle, and yanked hard. The rider yelped as he was pulled off his mount. Before he could hit the ground, Chloe twisted midair, her boot slamming into his stomach.
+
+The boar skidded to a halt, turned, then charged Chloe. She grinned. “Too slow.”
+
+With a sharp pivot, Chloe stepped aside and raised her sword. As the boar passed, she drove the blade into its neck. The beast bucked, gurgled, then collapsed in a heap.
+
+[You have killed: Goblin Rider (Level 8)]
+
+[...]
+
+[You have killed: Cave Boar (Level 9)]
+
+[Experience Awarded]
+
+[Skill Upgraded: Rock Shot VI >> Rock Shot VII]
+
+She gave one of the fallen goblins a kick, just to be sure. Maybe she’d eat their brains later… or maybe not. Goblins without magic tended to have really bad-tasting brains.
+
+Her eyes shifted toward the massive doors at the far end of the chamber. If the mystery goblin boss was hiding behind them, he’d better get ready, because Chloe was coming for his brain.
+
+Chloe pushed the doors hard, but nothing happened. She leaned into it, gave it a little kick. Still nothing. Then she glared at it like it had insulted her. Okay, fine. We’re doing this the hard way.
+
+She took a few steps back, cracked her neck, then charged forward and slammed both fists into the center seam. A deep boom echoed down the tunnel as the door groaned. Another hit, and the hinges shrieked. On the third slam, the doors flew open, crashing inward with a BANG.
+
+Finally, Chloe stepped in the newly opened room. It was dark, lit only by a couple of torches set into the walls, but she could still see everything.
+
+From the far shadows, several goblins stepped into view. These ones were bigger and armored from head to toe, each carrying a heavy axe or spear.
+
+Behind the group of goblins, a taller goblin emerged, easily a head higher than the others. He had a beard and wore long crimson robes, leaning slightly on a crooked staff.
+
+But what really made Chloe stare was his skin. Not green like the other goblins, but rather, ash-gray, almost white under the torchlight. He looked... old, really old. Wait. Is he even a goblin?
+
+“Heeeey... you’re weird,” Chloe said aloud, pointing at him with her sword.
+
+The figure smiled faintly and stepped forward. “Welcome, intruder, I’ve been expecting you.”
+
+The pale goblin, if he was even a goblin, lifted his staff and started talking. “Long have the goblins suffered under the heel of the humans, But now, our time has come. The world shall kneel—”
+
+Chloe couldn't be bothered to listen to the rest of what the pale goblin was saying. It wasn't that important anyway, something about goblins and humans and blah blah vengeance and then blah blah ruling the world.
+
+Her attention was already drifting to the four armored goblins standing nearby. Chloe raised a hand, and fired a Rock Shot.
+
+The lead guard had just enough time to raise his shield. Too bad it didn’t help.
+
+Chloe's Rock Shot blasted through the metal, slamming deep into his chest with a crack that echoed through the chamber. The goblin hit the ground, wheezing once before going still.
+
+The pale goblin’s eyes widened. “You wretched creature! How dare you?"
+
+Chloe felt great, giddy even. Watching that pale little goblin lose his mind was incredibly funny.
+
+In the meantime, the remaining three guards surged forward. But Chloe didn’t run. Instead, she lifted her hand and fired another Rock Shot, straight at the pale one this time.
+
+But he reacted surprisingly fast. A swirl of black energy burst from his staff, meeting her spell in midair. The two magics collided with a sharp hiss, scattering shards of rock across the area.
+
+“Pathetic, that trick won’t work on me.” The pale goblin said.
+
+Meanwhile, the goblin guards were on her. Chloe stepped back and readied her sword.
+
+The first one lunged with a heavy swing. She sidestepped, caught the blade on her own, and punched him square in the throat. His helmet clanged as he staggered back, gurgling.
+
+Another came at her from behind. She ducked low, slid between his legs, and drove her sword upward into his back. He shrieked, flailed, then dropped.
+
+Chloe ripped the blade free and turned with a wild grin. “Next!”
+
+The third one tried to bash her with a shield. She grabbed it instead, yanked him forward, and headbutted him so hard his helmet flew off. He hit the floor hard.
+
+The last goblin hesitated for a moment too long. Chloe dashed forward and kicked him in the chest. He sailed back, crashed into a large rock, and didn’t get up again.
+
+Just like that, all of the armored goblins were dead. Of course, Chloe never once doubted her own abilities.
+
+She turned her eyes to the pale goblin, catching the flicker of fear in his face before he smothered it beneath a forced sneer. “You’re strong, I’ll grant you that, but let’s see how you handle this!”
+
+He slammed the butt of his staff into the ground. Dark chains erupted from the stone around her, snapping tight around her limbs, chest, and throat.
+
+“Behold my greatest spell: Bind Human!” the goblin bellowed.
+
+Chloe’s limbs froze mid-step. The chains pulsed with dark light, magic grinding against her skin.
+
+With a slight flex of her muscles, the chains snapped apart with a loud pop. The goblin’s laughter stopped.
+
+“What?! How did you—”
+
+“Rock Shot.”
+
+Chloe’s hand snapped forward, hurling a chunk of stone across the chamber. The pale goblin barely raised his staff in time, dark magic flared, shattering the rock in a burst of sparks and dust.
+
+But Chloe was already running. The pale goblin snarled and stepped back, waving his staff wildly. “Morgrin! Get out and help me!"
+
+Chloe’s eyes narrowed, curious. This Morgrin thing didn’t sound friendly.
+
+As if on cue, the wall exploded. Stone and dust rained down as something massive tore through it, snorting, snarling, and very much not friendly. The creature towered over her, twice her height, all muscle and wrapped in fur. Glowing eyes. Teeth like daggers. And right in the center of its head was a giant horn. Oooh. So that's a Morgrin.
+
+She didn’t get another thought in before it charged. The impact hit hard.
+
+The horn punched straight through her side, and before Chloe could fully process what was happening, she was airborne. Her body smashed into the far wall with a sickening crack.
+
+Morgrin snorted, backing off with a heavy stomp and a shake of its ugly head. Chloe slid down the wall like a rag doll, leaving a long, dark smear behind her.
+
+The beast bellowed again, loud enough to rattle the stones. Across the room, the pale goblin raised his staff high, voice ringing with excitement. “Crush her! Tear her apart!”
+
+The beast snorted again, pawed at the ground, then charged. Chloe rolled aside just in time as threads of black energy stitched across her ribs mid-dodge.
+
+Fortunately, the beast smashed into the wall behind her. Chloe took the chance to get back on her feet, limping, eyes locked on the goblin. That staff...
+
+It pulsed with every order he gave. Chloe guessed that the pale goblin was somehow controlling the beast with it.
+
+Chloe darted left, barely ducking as the beast's horn sliced the air over her head. The beast spun mid-lunge, claws tearing up chunks of the floor. She rolled again, sprang up, and narrowed her eyes at the pale goblin.
+
+He raised the staff, ready to shout again—
+
+But Chloe was ready with a Rock Shot. The stone cracked through the air and struck the goblin’s hand with a wet crunch.
+
+He screamed as the staff clattered from his grip, spinning across the floor with a sharp clink. "No! You fool!"
+
+The big beast skidded mid-charge, reared up, and let out a confused, primal bellow. It twisted violently, eyes flicking between Chloe and its newly unarmed master.
+
+Then it roared again and slammed itself into the nearest wall. Chloe raised her hand again, firing another Rock Shot.
+
+The stone slammed into the goblin’s chest, sending him flying into a heap of broken candles and scattered bones. Chloe didn’t spare him another glance as she turned toward the beast, Morgrin, she was pretty sure that was its name.
+
+Morgrin stomped in circles, smashing anything in its path. With no magic tugging its brain, it was just a very angry, very stupid beast.
+
+Chloe sprinted toward the beast, conjuring another stone mid-stride and hurling it into its shoulder. The impact staggered it just enough.
+
+She vaulted up its side, boots finding rough purchase on its fur. Her sword gleamed in her grip. Alright, big boy. Time to go sleepy-bye.
+
+Chloe drove the blade down, right into the base of its skull. The beast roared, staggered, then buckled, and crashed to the ground with a thunderous thud.
+
+She yanked her sword free and turned to the pale goblin. He was still alive.
+
+Bloodied and trembling, he grabbed his staff with his remaining hand, eyes wild. “Stay back! Stay away from me!”
+
+Chloe ran at him anyway. Dark blasts erupted from the staff, tearing through the air, but none of them touched her. Maybe his aim was awful because he wasn't used to using his other hand for magic. Or maybe she was just that good. Either way, Chloe didn’t stop.
+
+She closed the gap and drove her boot square into his chest. The goblin flew backward, slammed into a jagged rock with a sickening crack, and dropped to the ground coughing up blood.
+
+She stepped over the rubble, grinning from ear to ear, all while the pale goblin was slumped against the stone, his eyes wide, filled with disbelief. “How did I lose? I... I was supposed to be chosen…”
+
+Chloe crouched beside him, tilting her head. “What do you mean?"
+
+He coughed wetly as his face twisted into a snarl. “As if I'd explain things to some idiot who only knows one spell.”
+
+Chloe took deep offense to the goblin’s words. So what if she only knew one spell? She won, didn’t she?
+
+Honestly, she loved Rock Shot for how simple and effective it has been so far. And really, was there any better way to finish off a goblin than by caving in its smug little face with a flying rock?
+
+[You have killed: Hobgoblin Guard (Level 10)]
+
+[...]
+
+[You have killed: Zarruk the Usurper (Hobgoblin Warlock Level 13)]
+
+[You have killed: Morgrin (Deep Cave Beast Level 12)]
+
+[Experience Awarded]
+
+[You have leveled up! 3 >> 5]
+
+[Strength +5, Speed +5 Vitality +9, Magic +15, Resistance +8]
+
+[Skill Upgraded: Unarmed Combat VIII >> Unarmed Combat IX]
+
+[Skill Upgraded: Swordsmanship VI >> Swordsmanship VII]
+
+[Skill Upgraded: Earth Magic Affinity II >> Earth Magic Affinity III]
+
+[Skill Upgraded: Rock Shot VII >> Rock Shot X]
+
+[Skill Upgraded: Magic Resistance I >> Magic Resistance II]

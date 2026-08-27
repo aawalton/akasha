@@ -1,0 +1,209 @@
+---
+id: e0189f16-7b53-5172-837f-49486b5858bb
+page-type-slug: story-chapter-royal-road
+title: "75 - Quests with Friends"
+slug: 0075-75-quests-with-friends
+partOf: cat-girl-evolution
+position: 75
+ownLength: 2146
+unit: words
+publishedAt: 2026-01-14
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2941271/75-quests-with-friends"
+royalRoadId: "2941271"
+---
+
+“Annie,” I say, walking toward her.
+
+She starts, then turns around and smiles when she sees me. She looks—and smells—a little bit hungover, but she’s in good spirits.
+
+“Yona!” she exclaims, turning to meet me.
+
+At the sound of my name, everyone inside who hadn’t already seen me looks over. A few of them start whispering about me. Most of it is good, flattering things, but some of the stuff is less so, and other stuff is straight-up rude. And gross.
+
+“We keep running into each other,” I say.
+
+“Lucky me!” says Annie. “What are you doing here?”
+
+“I’m bored and looking for a Quest,” I say.
+
+“Ooh, me too! Well, I’m not bored, but I am looking for a Quest! Also, guess what!”
+
+“What?”
+
+“I got promoted! I’m High Bronze now! And the evaluator said I did a really good job!”
+
+“Congratulations,” I say. “Wait, hold on. Was your evaluator Lauren.”
+
+“Yup! She was in your Party during the Ryantown Quest, right?”
+
+“Yes. She’s my minion.”
+
+“Cool! By the way…” She glances down nervously. “Did you have any particular Quests in mind? Or types of Quests?”
+
+“Nah, I was just gonna look around.”
+
+“Do you, I dunno, maybe wanna do one with me?” she asks, not able to make eye contact. “I mean, you don’t have to. We’re, like, three full ranks apart, and you probably don’t have the time. I just thought that since you said you were bored, maybe you’d be okay with doing a lower level Quest. But you probably don’t. I mean, we barely know each other, and…”
+
+The longer she talks, the quieter her voice gets and the redder her face gets. It’s kinda funny, but also, everyone around us is getting really quiet, which is probably making it worse. Poor girl.
+
+“Sure,” I say, interrupting her now almost inaudible mumbling.
+
+“Huh?” she says looking up. “Wait. Really?”
+
+“Yeah.” I shrug. “Like you said, I’m just here ‘cause I’m bored. I’ve also never done a Quest before, so might as well start small.”
+
+Her eyes almost seem to sparkle as her face lights up.
+
+“You mean it?” she asks.
+
+“I said it, didn’t I? Now which Quest did you want to do?”
+
+“Oh!” She spins around and practically lunges toward the wall behind her, slapping her hand down on one of the dozens of papers pinned to the wall. “Wait, I meant this one!”
+
+She moves her hand to a new one, and I begin reading the contents. Well, I make Abby do it. It’s a pretty simple Quest. Apparently, some farmer a couple kilometers from the city has had one of his cows go missing the other day, and suspects that there’s a roaming monster around. It’s marked as a Bronze Quest, though there’s this world’s equivalent of an asterisk, since the true rating is still unknown.
+
+Most importantly though is the reward. The farmer has offered a full wheel of homemade cheese as a reward, with an estimated value of twenty silver. That’s not very much, but homemade cheese catches my eye. I love cheese, and now that I think about it, I don’t think I’ve had any in this world yet. I guess cheese is more of an appetizer or snack food, and my snacks have been more than meal-sized lately.
+
+“Sounds good to me,” I say. “How do we accept it?”
+
+“We just need to take this paper up to the front desk, and they’ll register us as having accepted it. Then, we can go out and do it, and when we come back, we report what happened, and once they confirm the report, we get the reward. Since we’re not a pre-registered Party, we’ll both have to show our badges at the desk.”
+
+“And a pre-registered Party doesn’t have to do that?”
+
+“No,” she replies, shaking her head. “For those Parties, they can just send in one member on behalf of all of them.”
+
+“Huh.”
+
+I should do that with our Party. That would be convenient.
+
+“Well, no point in wasting time,” I say. “Let’s get going.”
+
+“Okay!”
+
+About an hour later, Annie and I are walking down the street just outside the city as we make our way to the farm. She’s still acting pretty nervous. I don’t think she expected me to say yes. Or maybe she did…
+
+I’ve been thinking this for a little while, but Annie is a little bit… strange. Not like she’s a weird person, but more that the circumstances around her are strange. Maybe not to the point of suspicion, but at least to the point of curiosity. Running into someone multiple times in the span of a few days isn’t too unusual, especially since we both live in the same area and have a similar profession, but something about this time feels a little strange.
+
+I think it’s related to Lauren not coming to the safehouse last night. Yesterday was the first day that Lauren did evaluations after the emergency Quest, meaning that if Annie got promoted by her, it had to have been yesterday. After evaluating Annie, Lauren was so tired that she didn’t remember heading to her house, and then this morning, she told me to go do a Quest if I was bored, and in the guild hall, I just happened to meet Annie.
+
+“I think you’re overreacting.”
+
+I did say it was completely plausible for it to be a coincidence. It’s just weird.
+
+“I guess… Still, from what I’ve observed, her behavior is quite consistent.”
+
+Yeah… And I’m pretty good at reading people, and I don’t think she’s doing anything suspicious. It’s just… Yeah, I dunno.
+
+Well, whatever. If it’s a problem, I’ll deal with it. Maybe she’s just an obsessive fan. I’ve dealt with stalkers before, so I know how to deal with that.
+
+“Or, she’s the assassin.”
+
+And I know how to deal with that too. Either way, no point in worrying too much now. I’ll just keep an eye on her and chill. And eat some cheese. Do you think the farmer guy has a warehouse full of cheese? Do you think he’ll notice if some of it goes missing?
+
+“Well, he did report a cow missing after only a day, so he seems like the type to keep track of inventory.”
+
+Damn, you’re right. That sucks.
+
+“You could just buy it instead of stealing it.”
+
+I could.
+
+Annie and I reach the farm a little less than an hour after leaving the city. At first, we don’t talk much. Annie is still acting nervous, and my mind is thinking of various cheese types and dishes. After a bit though, I get a little bored and decide to take a page out of the twins’ book and start asking her questions. Annie is completely caught off-guard by the first one about what color hair she would want if hers wasn’t orange, but she soon settles down and joins in the game. We spend the rest of the way going back and forth, asking increasingly random questions.
+
+When we arrive, we knock on the door of a rickety old wooden house, and a few seconds later, it opens to reveal a wiry middle-aged woman with a beak-like nose and mostly gray hair. She looks at us suspiciously, narrowing in on my ears and tail.
+
+“What are ya?” she asks.
+
+“Hello!” says Annie. “We’re from the Adventurer’s Guild. We got a Quest about missing cattle!”
+
+The woman tears her eyes away from me to glare at Annie.
+
+“Are ya now? Ya got yer badges then?”
+
+“Right here!” says Annie, pulling hers out.
+
+I pull mine out right after, and when the woman sees it, her eyes widen. She still clearly doesn’t trust us, but the sight of a gold badge is more than enough to stop any further questions.
+
+“I’ll go get Howard,” she says.
+
+She slams the door in our face, then walks back through the house to a room where I sense a man passed out next to a bottle of liquor. Secretly, I use Snatch to teleport a splash of it from the bottle right into my mouth, and then I almost gag. Even with my magically enhanced tastebuds, that stuff tastes foul. I’m pretty sure that was just straight alcohol. A bottle of 200 proof. No wonder that guys is snoring so loudly.
+
+The woman, who I presume to be his wife, smacks him a few times and shouts at him to wake up. It takes a full minute before his eyes even open, and another minute after that for him to sit up and get lucid enough to understand what’s going on. Then, to my surprise, the woman runs to the kitchen and grabs a small vial, which she practically forces down his throat. The moment he swallows it, he starts coughing, then stands up, perfectly steady. His voice becomes intelligible, and after a brief explanation from the woman, he greets us at the door.
+
+“Adventurers?” he asks. “Lemme see yer badges.”
+
+He checks our badges, and just like the woman did, his eyes widen when he sees my gold. He looks up at my face, then does a double take when he sees my ears. He opens his mouth to speak, but then glances back down at the gold badge and apparently changes his mind.
+
+“‘Right,” he says. “Ya know what yer doin’? I’ll show ya where ta start.”
+
+“Actually, I had a couple questions,” says Annie.
+
+“Ask on the way,” he says gruffly. “Let’s go.”
+
+He steps past us and down the porch before turning and walking the long way around the house. Annie hurries to follow with me a few steps behind her.
+
+“Sir, your request mentioned that you thought the culprit might have been a wandering monster,” asks Annie when she catches up. “What led you to believe that? Did you see any tracks?”
+
+“I didn’t see no tracks, but I saw blood,” says Howard. “Not much, mind you, but more’n enough ta make me suspicious. And the one missin’ is Big Gert, and Big Gert has never missed feedin’ time.”
+
+“Could it also have been bandits?” asks Annie.
+
+“I s’pose,” he replies with a shrug. “But there ain’t been bandits round these parts since my hair was as red as yers. There’ve been a few monsters though.”
+
+“I see,” says Annie, nodding. “Don’t worry about your cow, sir. We’ll make sure to find her if we can, and if we can’t, we’ll make sure we found out what happened to her.”
+
+“Aye,” he says. “By the way, what’s a Gold doin’ here? Babysittin’ a newbie?”
+
+“S– Something like that,” says Annie with a nervous chuckle.
+
+“I ain’t payin’ any extra,” he says.
+
+“That’s completely fine!” says Annie, raising her hands. “We don’t expect you to.”
+
+“Good.”
+
+“Hey, what kind of cheese do you make?” I ask.
+
+“What?” he asks, turning to me.
+
+“What kind of cheese? Is it a sharp cheese? Mild? Stinky?”
+
+“The hell are ya on about?” he asks. “Cheese is cheese, ain’t it?”
+
+I sigh. That’s not very promising. Hopefully his generic cheese is at least good.
+
+“Are ya one of them con-o-sewers?” he asks, raising an eyebrow.
+
+“I’d like to think I’m better than them,” I say.
+
+“Ya talk like one.”
+
+The tone of his voice makes it clear that those words are not a compliment.
+
+“Hmph,” I say. “Well, you talk like an idiot.”
+
+He shoots me a glance that’s filled with amusement.
+
+“I may be an idiot, but at least I ain’t makin’ up fancy words ta pretend I’m smart.”
+
+“I don’t need to pretend.”
+
+“Sure, if that’s what ya want ta think.”
+
+Abby, quick, give me a comeback!
+
+Abby does not give me a comeback. She just laughs at me. At least Annie has the sense to look a little bit upset at the farmer. Maybe I should make her my number one minion.
+
+The farmer and I don’t talk to each other the rest of the way to the scene of the crime, which we reach in about ten minutes. It’s right on the edge of a long wooden fence surrounding the property, and just as the farmer said, there’s blood on the ground. Only a few drops, but there’s a trail of them leading away from the fence into a grassy field toward a wooded region.
+
+“Well, here we are,” says the farmer. “I trust ya can take it from here?”
+
+“We’re on it, sir!” says Annie. “You don’t have to worry.”
+
+“Right then. Come stop by again when yer done.”
+
+“We will! Have a nice day!”
+
+The farmer waves her off as he turns to trudge back to his house leaving me and Annie alone. I watch him walk away until he disappears back into his house, then turn to Annie, who is already looking at me.
+
+“H– Hey, Yona,” she says.

@@ -1,0 +1,93 @@
+---
+id: 4b959a43-bf66-5c41-b43e-43bf604d820a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1598 - The Prize"
+slug: 0247-chapter-1598-the-prize
+partOf: chrysalis
+position: 247
+ownLength: 1265
+unit: words
+ownProgress: 1265
+publishedAt: 2025-07-03
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2404699/chapter-1598-the-prize"
+royalRoadId: "2404699"
+markedReadAt: "2026-06-29T19:51:43.018Z"
+---
+
+“Have you found it yet?” Chozth demanded.
+
+There were a dozen, valid, excuses that Zluth could make, but he knew that each and every one of them would get him killed. Instead, he simply said “no”, and waited.
+
+As expected, the powerful Krath boiled with raw fury, her eyes bulging atop their stalks and her flesh visibly popping with acidic detonations. Her lips pulled back to reveal her fangs, and Zluth knew he was on the verge of death, yet Chozth managed to master herself just in time.
+
+Her self-control was incredibly impressive, and rare for a slug of her station and appetite. If he’d had to report to anyone else, he’d have been on the run already, or worked harder to find someone else to report in his place. Thanks to Chozth, he could remain in charge, and take the credit he was rightfully due, while also surviving to the end of this mess.
+
+“That thing killed many of my strongest slugs,” Chozth forced out between her clenched fangs. “Do not lose it.”
+
+“We’re close,” he told her, feeling confident enough to speak, but only softly. “The mucus is thick and incredibly toxic, but we almost have it.”
+
+“Go. Don’t come back without it.”
+
+Not needing anything else to be said, Zluth turned around and dashed away. Any more time in the presence of the furious Krath’lath was a risk he wasn’t willing to take. All of the tribe leaders were furious. The plan had been well thought out, and executed well. Using the weakness of the ant, its unwillingness to sacrifice the lessers of its kind to ensure its own survival, had been key. What they hadn’t accounted for was the creature’s power. That final bite had punched straight through the Krath defences and devastated such a wide area that almost everyone had been caught in the blast.
+
+He shuddered to recall it. The blinding light, the force of the impact alone had been enough to blow his eye-stalks back, then came the fire…
+
+He shook his head. There was no need to dwell on it, the ant was either incapacitated or dead by now. All he needed to do was retrieve it.
+
+Moving carefully, Zluth began to make his way back down the narrow passage the scouts had carved to access the depths of this emptiness the ants had created. Despite himself, he couldn’t help but be impressed by what the invaders had made. Their fortress existed like an egg surrounded by a pocket of empty space. The construction itself wasn’t what drew his reluctant admiration, but the sheer scale of it. Despite moving as quickly as he could down the mucus-slick passage, it took hours to get to the right level.
+
+A vast reservoir of mucus had formed at the bottom of the ant fortress. It appeared as though they might have prepared for something like this to happen, given the space they had left available down here, along with the drainage they’d constructed, but like everyone who came here, they’d underestimated the fifth. The sheer acidity and volume of the mucus had eaten into the stone and collapsed several of the tunnels, blocking up the works. No longer draining as fast as it was filling, the underside of the invaders base was rapidly transforming into an ocean of deadly mucus.
+
+Floating somewhere in all of that, the ant would be found.
+
+When he returned to the rest of the scouts, huddling to the wall above the enormous, deadly slime, they gave him surprised and envious glances. It was clear they hadn’t expected to see him alive after reporting their failure. He grinned savagely at them.
+
+Underestimate me again and you’ll be food, he thought, satisfied as the worst of them turned away, unable to match his gaze.
+
+“Back again?” noted Bluzoth, an old slug.
+
+The younger, more ambitious ones were holding back, waiting to see the lay of the land before trying to make a potential grab for power. Bluzoth was too old to bother with it anymore. Resigned to her death, she was the exact opposite of Goszi. No longer scheming and squirming to stay alive, she just tried to do what was asked of her and get back to the slimeground to rest.
+
+As if to match her lack of fight, her body had shrivelled, leaving her as one of the thinnest and smallest Krath Zluth had ever seen. For all that, she was tenacious and intelligent, which was why he’d put her in charge in his absence.
+
+“I’m not easy to kill. Have we found it yet?”
+
+“Yes.”
+
+“You have?”
+
+“In a sense.”
+
+“Have you found it or not?” Zluth demanded.
+
+Bluzoth just sighed and pointed one of her thin hands towards a section of the vast mucus ocean.
+
+“We’ve been trying to find the location using our mana sense, but the mucus is making it impossible. For some reason, there’s an unusual amount of shadow energy down there. It’s not much, barely there, all things considered, but it's all we’ve been able to get so far.”
+
+“Has anyone gone in to check?”
+
+“No,” Bluzoth snorted, “without the direct threat of death hanging over their head, who would dare?”
+
+Zluth could only nod. That made sense. The mucus was incredibly dense, and highly potent. Just being out in the fifth during a wave was nightmarish, even to the Krath — Zluth’s own skin was sizzling from the concentrated energy in the air — but diving into that mess was almost certain death. Derisively, he looked at the other scouts, who all turned away, not wanting to draw his attention.
+
+They were certain he was going to pick one of them, force them to jump in and try and locate the target, and likely die in the attempt.
+
+Fools, all of them. Trying to live, when they should have been trying to ascend! The slug who managed to bring back the target would be celebrated by the Krath’lath and rewarded accordingly. Especially after what had happened at the platform. He was never going to give them this chance.
+
+If this slight lead was all they were going to get, then he was going to act on it.
+
+“Get me a slime, extend it out into a rope.”
+
+Bluzoth shook her head, but didn’t say anything. She’d probably expected this from him. She was smart.
+
+While they got what he needed, Zluth focused on himself. He’d been extremely successful in cultivating his internal acid lately. His repeated successes during this invasion had seen him consume several rewards, and he hadn’t let any of those gifts go to waste.
+
+As a result, he was capable of so much more than he was before.
+
+Combining his powerful internal acid with his mana, Zluth began to vomit up a dense mixture of slime on himself. It burned at first, sizzling onto his flesh until the two melted together. When Bluzoth returned, he’d almost finished coating himself in this protective layer. She handed him the rope, and he grasped it tight before retracting his hands as far into his own flesh as he could, then did the same with his eyes.
+
+Completely blind, he brought up more coating, covered himself, then waited for it to properly bond. Without saying anything, he leapt down into the mucus, trusting his more esoteric senses to guide him.
+
+The moment he was in, he could sense the acid burning into his coating. He didn’t have long before he would be melted into nothing.
+
+But Zluth had confidence, he was going to succeed. He was born to succeed.

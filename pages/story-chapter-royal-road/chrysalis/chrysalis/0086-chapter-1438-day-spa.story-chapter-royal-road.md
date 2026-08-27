@@ -1,0 +1,107 @@
+---
+id: 405d0568-ea03-588e-9f91-09f4c704c011
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1438 - Day Spa"
+slug: 0086-chapter-1438-day-spa
+partOf: chrysalis
+position: 86
+ownLength: 927
+unit: words
+ownProgress: 927
+publishedAt: 2024-10-24
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1865472/chapter-1438-day-spa"
+royalRoadId: "1865472"
+markedReadAt: "2026-06-29T19:46:38.940Z"
+---
+
+“Twelve hours before you go out again,” the healer scolded, “not a second sooner.”
+
+“I heard you the first time. AND the second time, alright? The third just feels insulting.”
+
+“We’ve been instructed to warn at least three times, since our patients are so determined to make their injuries worse.”
+
+“Hey, I’m not in the Immortals! You think I like having my eyeballs melted?”
+
+The healer looked at me suspiciously and clacked her mandibles in thought.
+
+“Maybe,” she said.
+
+“Now I am offended.”
+
+“I don’t care if you’re offended, only if you’re alive,” the healer said, hopping off my carapace and heading off to her next patient.
+
+Yeesh. They really are the grumpiest of all the castes in the Colony. Permanently peeved.
+
+I slowly pick myself up and give myself a quick check over. Of course, I don’t find anything wrong, since the healers have a much better sense for these things than I do. To be honest, I feel a lot better knowing that an expert has given me the all-clear. The mana of the fifth is just so insidious. I’m not a fan of walking around while trace amounts might still be inside me.
+
+[Master, welcome back!]
+
+[Hey, Crinis, how’s things?]
+
+The little ball of infinite nightmares slips out of the shadows and manifests herself into a little ball in front of me, wiggling her tentacles in greeting.
+
+[As good as they can be in this place,] she replies, full of cheer.
+
+[Yeah, I hear you. Things are tough down here. Any word from Tiny and Invidia?]
+
+[They’re still fighting in the tunnels, I believe. At least, Tiny is, and Invidia won’t leave without him.]
+
+Ah, I should have known. I reach out to the ape, who very much should have finished his rotation on the frontlines by now.
+
+[Hey, Tiny! If you’ve finished your shift, clock off and come find me. That’s an order! Sheesh!]
+
+Dammit, Tiny. I can only imagine how frustrating he finds the fighting down here, but even so, he won’t walk away from it if he has the chance to throw punches.
+
+[While he sulks and finishes up his shift, let’s head over to the headquarters. I need to talk to Solant and the others.]
+
+[Oh, did you find something while you were out, Master?]
+
+[Ah… yes. You know, it’s weird having to explain, I’m too used to having you around all the time. Normally, you would already know what I’d seen.]
+
+[Well… you could take me out there with you….]
+
+[You know I can’t, you silly little blob.] I poke her with my antenna and she wobbles pitifully. [I appreciate the thought, though. I’ll tell you what I saw on the way, let’s go.]
+
+I pop her up onto my back and get moving as I explain my adventure. She… isn’t happy about the Krath and their shenanigans. As I explain their tricks and aggression, she grows worryingly quiet. Dangerously quiet.
+
+I quickly move on.
+
+The command post, as usual, is extremely hectic, at least on the surface. There’s a ton of movement, as you would expect, and at first it looks insane, but to the trained ant observer, it’s clear where the lines of pheromones are. Just as things always are around Solant, there’s a profound method behind the madness.
+
+I, of course, ignore the entire system and literally walk all over it to get to the middle as quickly as possible.
+
+I’m not trying to be annoying, although I accept that might happen as a consequence. It’s just that I’m super busy! I’ve got a lot of stuff to do, and I can’t be standing around, incredibly bored, in lines for half an hour!
+
+What’s that? I have to stay outside of the poison mana for twelve hours? What a useless and unrelated thought. Away with you!
+
+“Hey, Solant. Here to report on the creature I saw.”
+
+The little general seems to have been fully prepared for my breach of protocol and is unperturbed. All the relevant ants have been gathered and are waiting for me to begin.
+
+“You had the healer tell you I was coming,” I guess.
+
+“It’s possible that you are more predictable than you think you are, Eldest,” Solant demurs.
+
+My antennae twitch. Little smart aleck.
+
+“Fine. Yes, it looks like a tier eight monster, possibly nine if the evolutions were quite weak. It wasn’t easy to get a sense of its core through the interference, but it was definitely strong.”
+
+“Stronger than yours?”
+
+“Hey now, that’s an insensitive thing to ask.”
+
+“But highly relevant, since you will be the one to fight it.”
+
+Well, I can’t argue with that.
+
+“Hard to say. It’s close, I think.”
+
+As we converse, other members of Solant’s group are busy recording things and discussing amongst themselves, moving things around on a little board they have between them all. These ants think way too much for me.
+
+“This isn’t the only powerful monster we’ve come across as we’ve expanded, but if your reading is accurate, then it is probably the strongest. Much like the fourth stratum, there appear to be areas where the oldest monsters have established a territory of sorts. Before we can safely expand into these zones, we will need you to take care of them, Eldest.”
+
+“Oh, great. I’m guessing I won’t be able to fight them anywhere near the blue mana?”
+
+“Unfortunately not. If we expand too close to them, they’ll be drawn out to investigate. We can’t risk that they will go berserk as the regular spawns do.”
+
+“Good news all around.”

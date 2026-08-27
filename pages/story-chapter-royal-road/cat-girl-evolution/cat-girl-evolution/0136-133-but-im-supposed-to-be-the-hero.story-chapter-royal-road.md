@@ -1,0 +1,133 @@
+---
+id: 7f979110-1389-5fda-882f-dfa58deb569c
+page-type-slug: story-chapter-royal-road
+title: "133 - But I’m Supposed to Be the Hero"
+slug: 0136-133-but-im-supposed-to-be-the-hero
+partOf: cat-girl-evolution
+position: 136
+ownLength: 2708
+unit: words
+publishedAt: 2026-06-29
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3606026/133-but-im-supposed-to-be-the-hero"
+royalRoadId: "3606026"
+---
+
+Joakim was destined for greatness from the moment he was born. Born to a stable family in a wealthy nation with the innate abilities that would have allowed him to do whatever he wanted with his life. However, society had other plans.
+
+In his early years, he was encouraged. He was put in advanced math courses. He was graded at a higher reading level than his peers. He was told he was “gifted.” But that was as far as the support went.
+
+Despite his gifts, he was never properly supported. He was supposed to be ahead of the other students, but they kept him in the same classes, doing the same homework. Sure, they told him he was smart when he aced all the tests, but that was it. His promising mind went unstimulated, and by university, he was just another student. No, he was worse than just another student. He had become a failure.
+
+Years and years of being the smartest in the classroom and never having to put effort in to ace his classes made him unable to put effort in when he finally needed to. All around him, others kept finding success, despite being lesser than him. The same assignments he couldn’t motivate himself to finish, they had no trouble doing. Even when they struggled to understand the lectures, or even skipped them entirely, relying on others to carry them through group assignments, they did better than him. He was drowning, and they were partying on a yacht.
+
+His friends stopped talking to him. His siblings, who had lived their lives in his shadow, suddenly began to surpass him. His parents expressed their disappointment, threatening to kick him out of the house when his grades got dangerously low.
+
+It was only late at night when he was reading an isekai web novel that he realized his problem. Or rather, his lack of one. It wasn't him that was the issue. It was society that had failed him. Seeing the protagonist of the novel constantly being presented with challenges to overcome, and being forced to stimulate his talents and grow, he realized that the thing he was missing was not any inherent talent or skill, or anything like that. It was simply opportunity. It was not he who had failed. It was society that had failed him.
+
+His younger siblings had those opportunities. They weren’t as smart as he was, but they had to measure up to him anyway, so they were constantly being pushed forward. Spurred onward. When they got to university, they were fully prepared to do what they needed to do to succeed. Meanwhile, Joakim dropped out entirely, resorting to food delivery to pay for rent in his parents’ basement.
+
+He became nearly nocturnal, sleeping during the day to avoid his parents, and reading novels and watching anime through the night. Every time he started a new show with the protagonist getting a new lease on life in a land of challenge and opportunity, he was filled with envy. Why couldn’t he experience something like that? Why couldn’t he have been born in an environment that would have cultivated his talents properly. If he had just been raised properly, he would no doubt have gone on to accomplish greatness.
+
+Then, one night, it happened. He was picking up food from a fast food joint in a shadier part of town when suddenly, he found himself in the middle of an armed robbery. A masked burglar armed with a gun walked in and began threatening the cashier. The cashier, a young girl who couldn’t have been much older than sixteen, panicked. She didn’t have access to the safe, and the manager was out on break. She started crying unable to properly explain, even as the robber got angrier and more threatening.
+
+Joakim saw this and knew his time had come. If there was any time to be a hero, it was now. A moment to make something out of his life. He could already see the headlines the next morning, hailing him as a hero. He just needed to take down the robber.
+
+No one else in the restaurant was going to do it. The only other two people present were too far away to do anything. If anyone was going to stop it, it had to be him.
+
+He steeled his resolve, and rushed forward, wrapping the robber up and falling forward. The gun went off once, causing the cashier to scream, but Joakim had knocked his aim off course, so the bullet did not hit anyone. Giddy with success, Joakim began reaching for the robber’s arms, preparing to lock them behind his back and subdue him. Then, there was a deafening bang, followed by three more. Joakim felt light-headed all of the sudden, and there was a sharp pain spreading all through his stomach, but he managed to wrestle the gun away from the robber, at which point the other patrons of the restaurant arrived to finish subduing him.
+
+Joakim died before he made it to the hospital, but he felt fulfilled. Society may have failed him, but in the end, he gave back. He would be remembered as a hero.
+
+Then, he woke up again, this time in a magical world with a magical System, with a magical body, and a message from the god saying he was their champion, and that he was to save the world from the others who had been reincarnated alongside him. He had been chosen for his unique traits. They had recognized his talents. He was finally going to get an opportunity. So what if his new body was that of a leech? He had freaking magic!
+
+He drained a few weaker monsters, leveling and growing until he grew powerful enough to slay the Disaster he had spawned with too. He learned magic at a pace his god called exceptionally fast, and while his starting point led him down the questionable path of necromancy, he planned to use it for good. And he did. He was going to keep doing it. He was going to be a hero, just like he was always destined to be.
+
+So why was he failing?
+
+He tried to teleport away from another fireball, beginning the Blink Skill, only to find that a small hill had risen up right where he wanted to appear. He had to rapidly change his target to higher up, but the slight delay meant his robes got singed, and it meant that his attackers had more time to react to his move.
+
+After the Dungeon was usurped, the rest of Yona’s party had emerged from the other Dungeon entrance and began assaulting him. It was taking everything he had just to stay away from their attacks, and that was not to mention that the very Dungeon itself seemed to be conspiring against him. The terrain was constantly shifting, interfering with his teleportation, bringing his enemies to places he didn’t expect, and more.
+
+That shouldn’t have been possible. Whoever was manipulating the Dungeon was doing so with the speed of a computer, changing dozens of different variables at once without issue. He knew it should have been impossible, and yet it was happening, and he didn’t even have the mental capacity to spare to think about how.
+
+As he dodged around, he racked his brains, trying to think of a way out. Things didn’t always go the way the hero planned, but the hero managed to make the most of it anyway. Even when all hope seemed lost, they still found a way out. He just needed to find that way.
+
+But he couldn’t.
+
+When he lost the Dungeon, his connection to Phillip and Ellie was cut. Without his creation being in control of the place, he was isolated in this Floor. And he couldn’t even complete the Floor Challenge to run away, because the Floor Challenge had been set to “hug the Dungeon Core.”
+
+Where the hell is the Dungeon Core?!? He thought frantically.
+
+Quests needed to be possible. The Quest couldn’t be set to that if the Dungeon Core wasn’t there. But no matter where he teleported, he never saw or sensed anything. There was only Yona, her Party, and Fiona, whose freedom he still didn’t understand.
+
+There has to be a way!
+
+He still had a few tricks up his sleeves, but none that he could enact while on the run. His whole Class was about preparation and command. His direct combat ability wasn’t terrible, but it wasn’t his strong suit either. Yet all his summons were gone. Horace had been captured shortly after the rest of Yona’s party re-emerged, and he was now out of reach to his senses as well.
+
+Maybe someone will come to save me, he thought. Maybe Phillip will find a way to break free of the other Dungeon Core. Maybe the goddess will send another of her champions to rescue me.
+
+The goddess who had been so talkative in the beginning of his time here had been oddly silent of late, but she couldn’t ignore this, could she? Her champion was in danger. One of the very same monsters he was brought here to defend the world against was about to slay him. Surely she would have to interfere. Maybe with a divine boon to power him up?
+
+Or maybe he would awaken some power hidden inside him. Some ancient bloodline that he didn’t even know he had. Memories buried deep within his soul of a past life. Even just a Skill upgrade to give him a power boost in an unexpected way.
+
+But no such divine boon ever came. No savior arrived in the Dungeon to turn the tides of the battle. No latent abilities revealed themselves. Joakim was running out of undead to drain for mana, and his enemies were learning to counter him better. His attacks were growing less effective, his dodging more and more precarious, and the terrain more and more unfamiliar.
+
+Then, he finally took a hit. He had been driven into a corner, surrounded by cliffs on all sides that had risen out of the ground just seconds before. He knew it was dangerous to be where he was, but with how persistent his assailants had been, this was the only safe place for that moment.
+
+Then, below him, the ground opened up, and a miniature sun of mana flew at him, glowing so brightly it was hard to look at it. He Blinked away, but as he vanished, the mana sphere detonated with a deafening boom, and the shockwave sent him flying forward, directly into Yona, who had her sword ready. He managed to Blink once more, to get out of the path of her sword, but she had clearly been expecting this, and when he disappeared, she did too, spinning rapidly and slamming him with the tentacles growing out of her back.
+
+The tentacles had only been growing throughout the fight as the Dungeon spawned dozens upon dozens of animals for her to consume and add to her flesh, and they were now more than a dozen meters long. Combined with her Power and the speed at which she had been spinning, the attack crushed his side and sent him flying across the ground.
+
+As he tumbled, he prepared to Blink away from whatever came next, but he hadn’t expected what came next to be a wall. He slammed at full speed into an invisible barrier created by the barrier twin, and the next thing he knew, there was a fireball flying toward his face.
+
+He Blinked to safety in time, but when he did, he found that his body—or rather, Fiona’s body—was decimated. Its skull had caved in from the impact, almost stabbing into his true body hidden within, its spine was broken in a dozen places, every rib on the left side of its body was crushed, and its arms and legs were in too many pieces to count. It could no longer control it, so the next time he teleported, he left the body behind, letting it fall to the ground, limp.
+
+His leech form had significantly less mana than its host body, but it was also much smaller and harder to hit, and it cost exponentially less mana to teleport. Even better, now that he had been reduced to it, it gave Joakim an idea.
+
+He had been inhabiting human bodies for so long that he forgot what he was at his core: a leech. He did not need to rely on any human forms, and he did not need to rely on his undead summons. He had gotten as far as he did with his basic leech abilities, and despite everything else, they were still strong.
+
+Taking over a hostile body was far different from taking over one he already had under his control, like Fiona’s, but he knew he could do it. He had to do it. This was the do or die moment. The climactic final maneuver. This was where the hero made their desperate hail mary, and was rewarded for it.
+
+He dodged around a few more times, avoiding spell after spell, and slash after slash. Yona appeared behind him, her assassin in front, Fiona and the twins moved around with the help of the Dungeon and fired spells at him, and whenever he was unfortunate enough to get near their tank, he was slowed by the aura effect of his Soul Weapon.
+
+Joakim weaved through it all, burning through his mana. He had a few more spare undead, but he acted like he didn’t. He tried to appear like he was on his last legs, getting tired and sloppy. Finally, as his mana reached its end, he landed on the ground, barely managing to roll out of the way of Yona’s sword as she brought it down on him. Seeing his pitiful state, she stopped for just a moment, opening her mouth to say something, and then he struck.
+
+Joakim was fast. Faster than a limbless leech had any right to be. His body coiled like a spring and launched itself directly into her mouth before she could even react. Reflexively, she tried to bite him in half with her teeth, but he was already too far in. He reached the roof of her mouth and started eating his way up to her brain, only to find that he couldn’t.
+
+What?
+
+He clamped down with his teeth, but it was like biting down on stone, and he barely even managed to leave a mark. The next thing he knew, he was holding on for dear life as a powerful suction tried to pull him further down her throat. He resisted as much as he could, but Yona was using Devour, and without any mana left to strengthen his body, he couldn’t resist. He barely held on for a second before he was pulled downward, his body torn apart as his mind went dark.
+
+“Uuuurp. Excuse me.”
+
+“That wasn’t very ladylike of you.”
+
+Shut up.
+
+“Is it over?” asks Lauren, materializing out of the shadows beside me.
+
+“One second,” I say, holding up my finger.
+
+I can feel Joakim getting digested in my stomach, but it’s taking a while, probably since he’s Tier 4. I have Devour working at full power, though, so I watch with Food Sense as his body gets more and more shredded and destroyed until finally, I receive the System notifications.
+
+[ You have defeated Joakim, the Envious Hero, Tier 4, lvl 7 ]
+
+[ Princess Yona, the Blinking Gastronomic Hunter Thief Chef, 7 → 11 ]
+
+[ +408 Power, +864 Finesse, +504 Resilience, +480 Memory, +480 Willpower, +864 Sensitivity ]
+
+[ Beginner Vivitect, 6 → 11 ]
+
+[ +450 Power, +900 Finesse, +450 Resilience, +750 Memory, +900 Willpower, +600 Sensitivity ]
+
+[ Congratulations! You’ve completed the First Event! You are no longer being Targeted! ]
+
+[ Avatar Quest completed! Reward claimable! ]
+
+[ Gluttony requires assistance ]
+
+“Yep, now it’s–” I start. “Wait, hold on.”
+
+Abby, am I hallucinating, or does that say–?
+
+Suddenly I get light headed, and the last thing I see before my vision goes dark is Lauren rushing forward to catch me.

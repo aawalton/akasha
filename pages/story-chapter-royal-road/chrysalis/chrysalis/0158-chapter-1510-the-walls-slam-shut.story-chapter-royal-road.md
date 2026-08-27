@@ -1,0 +1,89 @@
+---
+id: 651382ce-1738-5414-9006-912e46f6cc9e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1510 - The Walls Slam Shut"
+slug: 0158-chapter-1510-the-walls-slam-shut
+partOf: chrysalis
+position: 158
+ownLength: 928
+unit: words
+ownProgress: 928
+publishedAt: 2025-02-18
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2073705/chapter-1510-the-walls-slam-shut"
+royalRoadId: "2073705"
+markedReadAt: "2026-06-29T19:48:54.001Z"
+---
+
+By the time the carvers return to finish the defensive works on the platform, I am a wreck.
+
+And I don’t mean in the emotional sense. I mean, I am physically and mentally a wreck.
+
+Monster activity rose day by day, and the Krath egged it on, leading hordes and hordes of monsters to descend on us, taking pot shots and using their foul magic when they got the chance. I’ve been doused in acid and slime so many times I’m worried it’s starting to seep into my diamond carapace!
+
+Despite my best efforts, the platform has suffered significant damage. By the time the build teams return, massive chunks have been blasted out of the diamond coating and two of the intakes have been destroyed. I’ve done everything I could to take the heat off the battalions and keep the Templars safe, but the toxicity levels in the fifth have gotten so high I can no longer step into the mana for more than a minute at a time. That means I’m fighting on the front, trying to take as much punishment as I can to keep the others safe.
+
+It’s been… brutal.
+
+The other platforms, without the aid of my magnificent self, have suffered even worse. We managed to avoid losing any ants to capture, but injuries and even casualties have been high. When the walls and defensive embankments are finally done, I can’t help but collapse to the floor.
+
+I need a holiday.
+
+“Looks like you’ve been working hard, Eldest,” Tungstant says as she walks over.
+
+She’s been here managing the build teams for the past few days, and as I look over to her, my antennae go stiff with shock.
+
+“Holy moly, Tungstant! Are you alright?”
+
+“What are you talking about, Eldest? I’m completely fine.”
+
+So she says, but her carapace has gone grey! I swear I can see the spectre of death hanging over her shoulder. Back, you demon! Back!
+
+“You look like you’re barely hanging onto life! Your legs are shaking and your antennae are dragging on the ground! What the heck happened?!”
+
+“Oh… I’ve just been working hard along with the other builders. Don’t worry… we’ve been getting enough rest.”
+
+She’s practically a ghost! In fact, looking at all the builders as they make their way off the platform, every single one of them looks as if they are on the brink of falling straight into their own grave. I’ve never seen ants look so completely exhausted; it’s almost beyond belief.
+
+Seeing my concern, Tungstant waves me off with one leg.
+
+“Oh, it’s fine, Eldest. The fortress is just about finished now. A few final touches, and it’ll all be done.”
+
+A few final touches? On what, their gravestones?! This cannot be allowed to stand!
+
+“Get them!” I yell, pointing at Tungstant and several nearby work crews with my legs.
+
+The nearby soldiers, healers, carvers and generals all freeze, wondering who the heck I’m talking to.
+
+“Uh, Eldest?” Tungstant says, staggering to the side a little. “What are you…”
+
+Shadows begin to gather.
+
+“All of them,” I demand. “All of the build teams need the full treatment. If they keep working like this, they’re going to brick themselves into a wall or something.”
+
+Darkness crowds around the edges of my vision as the lights begin to grow dim.
+
+“Eldest, who are you talking to?” Tungstant remains pleasant, completely oblivious to the gathering danger. This is a sure sign of just how out of it she is.
+
+The world goes black, then blinks back to light in an instant. Tungstant and the rest of the build teams are gone, vanished without a trace. The surrounding ants and militia stare at the empty space left behind by the vanished ants, then turn their wide-eyed, haunted stares in my direction.
+
+“Oh, come on!” I say. “You could see how tired they were, same as I could. The fortress is pretty much finished, so we need them rested before the wave breaks.”
+
+They know I’m right, they’re just weirded out at hearing me tell the torpor police what to do. Bah. Who cares? If anything, maybe now they’ll listen a little more closely when I tell them to get enough rest.
+
+Speaking of rest, I think I need some too.
+
+With the platform repaired and properly defended, with walls and all the other defensive gizmos the mages and carvers cooked up, the battalions should be able to hold much better than before.
+
+“I’m heading out,” I announce to anyone who’s listening.
+
+I feel a tug on my consciousness, and realise that the Templars are coming along as well. Fine, I suppose. They’ve been fighting hard too.
+
+“Can someone make sure Tiny, Crinis and Invidia get a break as well. I’d like to talk to them,” I say as I wander off.
+
+The three of them are too far off for my pet communication to work, so I’ll have to rely on someone else passing the word. I leave the platform behind and head along the glittering, starry path, underlit by the thrumming mana channels that are feeding power straight into the fortress.
+
+The point where the platform reaches the shell of the fortress itself is barred by an enormous gate, crackling with power and looming over even my head. Speaking of my head, they carved it into the gate, of course. Damn Michaelangelant! I’ll catch that villain if it's the last thing I do!
+
+The gates swing ponderously open just enough to let me squeeze through, then crash shut behind me.
+
+The fortress is finally complete.

@@ -1,0 +1,119 @@
+---
+id: 973982d9-7228-58f2-a00f-e18698e9cc92
+page-type-slug: story-chapter-royal-road
+title: "130: Big Ticket Items"
+slug: 0130-130-big-ticket-items
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 130
+ownLength: 2019
+unit: words
+publishedAt: 2026-03-25
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3192364/130-big-ticket-items"
+royalRoadId: "3192364"
+---
+
+Chloe remembered having a lot of stuff back when she wasn’t a zombie yet. She couldn’t recall every little detail of that life, but she was pretty sure she had shelves stacked full of collectibles, as well as other trinkets from her favorite games and shows.
+
+All of that were things that didn’t look like much on their own, but meant everything to the right person. She knew, deep down, that collectors could turn even the most boring-looking object into something priceless if it hit the right nerve. Unfortunately, it seemed this compass was one of those things.
+
+The moment it was revealed, the room roared to life. Hands shot up everywhere as people raised their bidding sticks and started yelling out numbers. Apparently, this compass was a very big deal, and once again Chloe got the strong feeling she was missing some crucial piece of context that explained why everyone was losing their minds over it.
+
+“Two thousand gold.”
+
+“Twenty-five hundred.”
+
+“Three thousand!”
+
+Chloe looked around and saw people leaning forward in their seats like predators scenting blood, eyes sharp and unblinking as if the compass might try to escape if they looked away for even a second.
+
+The auctioneer barely let the bids breathe before snapping them back into the air, “Three thousand accepted. Do I hear three-five?” and the answer came instantly.
+
+“Three-five!”
+
+“Four thousand!”
+
+Across the hall, Iris raised her bidding stick, or uh, the "bidding focus", and Chloe caught the motion out of the corner of her eye which made her straighten a little. Because it was at that moment that she remembered that she was supposed to be helping and not just watching everybody do their thing, but watching people was just way too fun.
+
+The voices kept piling on as the bidding climbed higher and higher, numbers stacking so fast that Chloe’s brain started refusing to process them properly, until the bid reached seven thousand gold.
+
+A few rows away, Sierra’s bidding stick flicked up hesitantly. Sure enough, someone immediately jumped over her bid without hesitation, and Chloe winced a little. Yeah, Sierra was definitely going to need a lot more practice.
+
+Chloe stared at it all, half-stunned and half-amused, watching the madness roll on until her expression slowly shifted and a small frown crept in, because something weird suddenly clicked in her mind. She looked over the crowd again, picking up on the rhythm of the calls, the way people hesitated just long enough to mess with each other, and how some bidders went quiet only to strike at the worst possible moment, and out of nowhere she remembered sitting in front of a screen, half-asleep, mashing keys while yelling at strangers.
+
+She was a big gamer back then, and there was this one game she played a lot called RealmRaid Online, or RealmRend, or RuneRaid, honestly who cared, because the important part was the auction house and how it had absolutely destroyed her the first time she touched it. She lost a lot of money back then, both in game and in real life since she may or may not have used Mom's credit card to uh, make certain in game purchases. But anyway, that wasn't too important now.
+
+Because of that auction experience, even if it had only been in a game, Chloe actually got the hang of how this bidding thing worked. People always got greedy too fast or scared way too early, showing their limits without even realizing it, raising bids in careful little steps when they should have jumped.
+
+And somehow, very uncharacteristically, Chloe remembered the tricks. You waited out the loud ones, poked with small increases just to see who flinched, and never, ever bid with your feelings.
+
+“Ten thousand,” someone yelled confidently.
+
+Chloe didn’t move, didn’t even shift in her seat, letting the moment stretch while the auctioneer rolled the number across his tongue and called out, “Ten thousand gold offered. Do I hear ten-five, or perhaps a little more than that?”
+
+That was when Chloe lifted her stick for the first time the entire auction. “Ten-one,”
+
+After she said that, a few heads turned her way, quick glances that carried no real concern, no real respect, which was perfect. Chloe didn't need to do much, and she certainly didn't want to be perceived as a threat just yet.
+
+Someone jumped in immediately with another increase to the bid, “Eleven thousand."
+
+Chloe waited again, letting the others scrap it out, letting them think she was just nudging the numbers for fun while the bids kept climbing with “Thirteen,” then “Fourteen thousand!” then “Fifteen!”.
+
+She counted silently, eyes drifting over the crowd as she watched who rushed their numbers and who hesitated, who sounded strained and who sounded smug, noticing one particular avian bidder breathing harder now and some elves nearby going completely still.
+
+When the bid hit sixteen thousand, Chloe raised her bidding stick again. “Sixteen-two”
+
+Some other guy tried to challenge her. "Seventeen!"
+
+Chloe didn’t even pause, didn’t give him a second to recover “Seventeen-one”
+
+The room fell quiet so fast it felt like someone had snapped the sound right out of it, and the auctioneer’s gaze flicked toward her, surprise slipping through his practiced expression as he called, “Seventeen-one thousand. Any further bids?”
+
+After that, no one tried to challenge Chloe’s bid. Truth be told, she wasn’t entirely sure if she’d gotten the compass for anything close to a good price, but it wasn’t her money, so that really wasn’t her problem.
+
+Chloe leaned back in her seat, smug as hell, as the bell rang and the announcer declared, “Sold. The Astral Wayfinder Compass goes to the bidder at seventeen-one thousand gold.”
+
+For half a second she froze, then her grin spread wide. I still got it after all this time.
+
+Weirdly, once the compass was hauled away and the polite applause faded, the room didn’t calm down at all, and if anything it got louder, like the crowd had tasted blood and decided they wanted more. Chloe slouched in her seat with her legs stretched out, watching as the announcer barely finished clearing his throat before the next item appeared and suddenly everyone was back to raising their sticks.
+
+The second item was a crystal goblet that supposedly refilled itself with whatever drink the owner liked most, which meant wine or juice or maybe some other alcoholic beverage. The bids jumped so fast for this item Chloe almost laughed out loud, but stopped as the goblet sold for an amount that probably could’ve bought a small castle and maybe a cousin too.
+
+Luckily, this goblet and the next few items on the itinerary weren't stuff Chloe needed, so she was content to just watch. But still, it was kinda surreal to know that so much big money was being thrown around for the most ridiculous items. Like, it was one thing to do it in a game, but this is all real stuff.
+
+The next item up for grabs was a pair of boots that let you walk on walls, which made Chloe perk up as she imagined sprinting upside down across ceilings just to freak people out. She almost wanted to make a bid before she remembered Iris’s instructions and forced herself to behave.
+
+After that came a singing dagger that hummed near danger, a box of dice that always rolled dramatically, and a living carpet that bowed when stepped on, leaving Chloe unsure whether any of this was real or if the Exchange was just seeing how much nonsense rich people would pay for.
+
+At some point, Chloe noticed Iris lifting her bidding focus and smoothly outbidding two nobles and an avian matron without looking stressed at all, and of course the item was a pale mask shaped like a serene bird’s face with gold lines tracing the edges, while the description rambled on about ceremonial history and ancient vows that Chloe zoned out of halfway through because the important part was obvious. Iris liked masks, a lot.
+
+Chloe just hummed to herself for a while as the auction continued, until the announcer’s voice dropped lower and heavier, clearly trying very hard to sound important as he said, “And now, we come to one of our most exciting offerings.”
+
+She stopped humming as her head lifted and her focus snapped into place while attendants wheeled out a long velvet-covered stand, and the announcer spoke again, “Ladies and gentlemen, this here is the Blade of Fallen Dawn, a relic from the days of the Great Sundering."
+
+Before the cloth was pulled away, the room seemed to hold its breath, and when it finally fell aside Chloe found herself staring at a chipped, cracked sword that still looked like it had a lot to say. The blade was broken near the middle, as if it had been torn apart rather than cleanly snapped, with old runes etched along the metal that glowed faintly and then faded.
+
+Chloe knew she had to have that sword, partly because it was undeniably cool and partly because Iris had told her to, and those were both very good reasons. And so, the bidding for the sword began.
+
+As the bids rolled in, Chloe raised her rod without thinking too hard about it because the sword looked cool “Five thousand”
+
+A few heads turned and someone scoffed before another voice jumped past her with “Seven” and then another lady raised the bid again. “Eight thousand”
+
+Chloe shrugged and tossed in “Eight-five” mostly out of spite, and that was when she noticed them, a group a few rows down clustered in dark robes that didn’t fit the rich and fancy vibe at all, making Chloe squint.
+
+She knew this was not the kind of place where you could show up looking like you belonged to a cult. That made it even stranger when one robed figure raised their rod for “Ten thousand” and another followed right after, raising the bid to twelve thousand gold.
+
+Naturally, seeing all that made Chloe want it more, though before she could push again she noticed movement further up the rows as Raenof raised his bidding stick before saying “Fourteen thousand,”
+
+followed a moment later by Sierra whose voice was quiet but firm as she added “Fourteen-five."
+
+The robed figures hesitated then, leaning toward one another in a tense, whispered exchange Chloe couldn’t hear but could feel, until one finally said “Fifteen thousand,” and Raenof answered without even looking their way with “Sixteen,” Sierra lifting her rod again with fingers trembling just a little as she said “Sixteen-three."
+
+After that, one of the robed guys started to raise their rod before stopping while another barely shook their head, the silence stretching longer and longer until the bell rang and the auction was declared over. The Blade of Fallen Dawn was sold at sixteen-three thousand gold, seems like Sierra and Raenof were also pretty good at this bidding thing after all.
+
+Chloe buzzed with smug delight as she watched Raenof lower his rod with a tired exhale and Sierra sink back into her seat like she’d just survived something terrifying, and she beamed at them both from afar with a proud smile. That was when she noticed the robed group standing.
+
+They slipped out of their row and headed straight for one of the side exits, and Chloe was on her feet before her brain had any chance to catch up, already stepping out to follow the shady men. She made it two steps before she felt a look coming at her.
+
+Chloe glanced back and saw Iris a few rows away, staring at Chloe with a perfectly clear look that translated to "What are you doing?"  Chloe froze mid-stride, then slowly, carefully, sat back down like this was exactly what she had meant to do all along.
+
+She didn't really want to go against Iris, but Chloe couldn't help but wonder as her eyes flicked toward the exit where the robed figures had disappeared, then back to Iris, then back to the exit again. Did Iris seriously not notice those shady guys?

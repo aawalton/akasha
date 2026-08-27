@@ -1,0 +1,65 @@
+---
+id: b9014a06-66c0-589e-aa53-6e4ac0967a8e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1545 - Visions of Sickness"
+slug: 0193-chapter-1545-visions-of-sickness
+partOf: chrysalis
+position: 193
+ownLength: 945
+unit: words
+ownProgress: 945
+publishedAt: 2025-04-07
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2180503/chapter-1545-visions-of-sickness"
+royalRoadId: "2180503"
+markedReadAt: "2026-06-29T19:49:59.840Z"
+---
+
+Sleep, for a Krath, was not an overly restful affair. A lifetime of backstabbing, theft and a refusal to let one's guard down meant all Krath, to some extent, slept with one eye open.
+
+Literally.
+
+It wasn’t that hard, once you learned the trick. Most young slugs born in the tribes learned it before they’d lived their first year. Those who didn’t were far less likely to reach that milestone. Even away from his people and out in the Dungeon, Zluth was in no position to relax his guard. Many scouts had been taken by invasive parasites in their sleep, and he wasn’t about to allow himself to be counted among them.
+
+And yet, there was something… different… about his sleep. Wary, restless, Zluth knew better than to allow himself to sleep too deeply, his ingrained instincts would never allow it, but something was pulling at him, drawing him away. The longer he slept, the stronger the pull became. Soon, he felt as if he remained attached to his body by the tips of his fangs, relentlessly holding on as a distant force exerted greater and greater pressure on him, loosening his grip one tooth at a time.
+
+All at once, his hold was broken and Zluth was sent spinning away into the void. Terrified, he thrashed and failed, desperate to wake up, to reconnect to his sleeping body, but it was no use. The link between body and consciousness had been severed and he couldn’t get it back.
+
+Was he falling? Was he rising? It was difficult to tell. All he felt was the sense of a vast distance being traversed at unfathomable speeds. It didn’t make any sense. How was he travelling? How was he moving? He was asleep! This shouldn’t be possible!
+
+Then, he was still once more. Eagerly, he flailed, trying to find his body, but he couldn’t; it wasn’t here.
+
+Then, he felt as if his very soul had caught on fire.
+
+Zluth writhed in agony as he felt his mind come under assault from an absurdly potent acid. Even disembodied, he wasn’t spared from its relentless hunger, and he knew that in only a few more moments, it would melt his spirit to nothing.
+
+Except, that didn’t happen. He felt an enormous presence, so vast he hadn’t even realised it was there, turn and regard him. In that instant, he was seized by a mind so much greater than his own he couldn’t accurately judge the difference between them.
+
+Trembling in terror and rage, Zluth lashed out in anger, bewildered by what was taking place. It was just a dream, he told himself, there was no other rational explanation.
+
+And yet the pain had felt so real.
+
+The problem is that you cannot perceive, little slug. I will allow you to gaze on the place I have brought you.
+
+The voice was immense, and the Krath could do little but quiver as it rolled over him. A moment passed, and suddenly he could see.
+
+One glance at the virulent, acidic nightmare realm that surrounded him was all it took for Zluth to understand where he was, and who was speaking to him. Nowhere else in the Dungeon was so thick with mucus and acid that the air itself dripped toxic sludge. Nowhere else was so deadly that the mana itself was melted away, chewed up and spat out by the slime that clung to the walls. This was the Decaying World, and there was only one who ruled here.
+
+Zluth flung himself down in a metaphorical bow, genuflecting before the acidic one.
+
+Theorazzn chuckled.
+
+I wondered if your kind would recognise this place. It has been long since I last awoke, and memories are short. As much as I tried, I could never bring the fifth to be quite as… potent as my home.
+
+So saying, the great Ancient revealed itself, allowing Zluth to gaze upon its splendour. Theorazzn was not a slug, as the Krath were, but they didn’t revere the Ancient any less for it. Crab-like legs unfurled beneath a body that, more than anything else, resembled a sea-star, in the centre of which could be found the cavernous maw of the beast.
+
+All over the main body, tiny tendrils waved and danced as if they were underwater, each dripping with the most potent, the most toxic, and the most acidic slime to be found on all of Pangera. Even within the Decaying World, nothing could hope to be as virulent as Theorazzn.
+
+You are the first slumbering Krath I have brought here to speak with me, but you will not be the last. I will spread the news of my awakening, and issue a challenge to your people. The time of my ascension is drawing close, and if there is to be a twentieth, they must prove themselves worthy.
+
+Zluth wasn’t sure what the Ancient was referring to specifically, but there was one thing he did understand. Time of ascension? Would Theorazzn return to the fifth that he had remade in his own image? That would be a glorious, if deadly, event for the tribes.
+
+There are two monsters that I want the tribes to kill, or turn. Listen close and I will describe them to you.
+
+Zluth paid close attention as the Ancient spoke, the fury bubbling away within him the more he listened. The ant! The damned ant. A target of the Ancient itself. The other monster, he’d never seen, but he would report to the tribe dutifully.
+
+One final thing. I have heard something resonating in the fifth. Something that scratches and scrapes at my memory. There is singing. The singing must stop.

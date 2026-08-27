@@ -1,0 +1,97 @@
+---
+id: 9781b043-62ba-5912-b682-0443834720c2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1558 - Brilliant Reports"
+slug: 0206-chapter-1558-brilliant-reports
+partOf: chrysalis
+position: 206
+ownLength: 1029
+unit: words
+ownProgress: 1029
+publishedAt: 2025-04-24
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2226267/chapter-1558-brilliant-reports"
+royalRoadId: "2226267"
+markedReadAt: "2026-06-29T19:50:24.614Z"
+---
+
+Things were so… so peaceful in the labs right now. Assistant was beavering away on her projects, helping to train the new mages, and was displaying a level of confidence that Experimant hadn’t seen from her before. Even her stutter was getting better!
+
+Looking out over the lab, with no scorch marks, with no jagged lines carved out of the walls by lightning, she felt… she felt like she was home. She felt that she was at peace. The world was healing.
+
+Experimant herself had taken up a hobby, arranging small stone gardens using different coloured pebbles. She’d never felt so soothed as she had when moving the small rocks with her mandibles, smoothing and arranging to create intricate and pleasing patterns. Who knew that life could be so pleasurable, so fulfilling?
+
+And what had brought on the change? It was hard to say. Experimant couldn’t quite put her antenna on it, but something had shifted and brought everything into harmony. How wonderful. How wonderful to be alive!
+
+“I’m back!”
+
+Experimant jumped as a loud scent rang out through the lab. Who on Pangera was being so loud?
+
+“State your name,” she called irritably. “Just saying ‘I’m back’ doesn’t identify you.”
+
+And why would she turn around while she was in the middle of arranging her precious stones? The current design was a highly detailed image of the nest constructed on the fourth stratum. She’d been working on it for weeks, and now it was so close to completion.
+
+“Everyone knows my name,” the voice declared loudly as someone rushed closer, “and do you know why?”
+
+“No. I don’t,” Experimant huffed, carefully extending another stone with her mandibles.
+
+“Because I’m BRILLIANT!”
+
+“WHAT?!” Experimant staggered so hard she fell, face first, into her own stone garden, scattering the pebbles and destroying the image she had carefully cultivated.
+
+“You’ve got to train your Grip Skill,” Brilliant observed, shaking her head. “Now, get up and tell me how the research has been going while I was away! I’m sure you’ve achieved great things!”
+
+“You… you… you!” Experimant ground out, gathering herself up and turning around.
+
+Now she understood why things had been going so well! Now she realised why life had been so peaceful and enjoyable! It was all because this crazy ant hadn’t been present! Brilliant stood, looking back at her, bouncing from side to side with excitement, eyes twinkling with joy as she remained completely oblivious to the suffering of her closest aide.
+
+“Why did you come back?!” Experimant demanded.
+
+Brilliant tilted her head to one side, curious.
+
+“Because I finished my other task, of course. You think I wanted to be away from the labs? Rest your intelligent head, my dear Experimant! I would have much rather been here working on our projects, but what can I do when the Colony calls me? I must away! Now, come come, show me your progress! I can’t wait any longer!”
+
+The little ant dashed off, forcing Experimant to crawl out of the remnants of her peace of mind and follow after her.
+
+“Start here. I want the full tour!” Brilliant declared eagerly.
+
+Experimant, despite her crumbling mental state, was still drawn into the explanations. The lab had been functioning so smoothly while their leader was away, without any of the chaos or time-wasting that usually came from their work. Showing the mad-ant how much progress they could make while working properly was worth spoiling a garden or two.
+
+The two of them moved from project to project, examining the latest readings, inspecting the models, diagrams and functions they had created. Brilliant listened closely as Experimant chatted to the various project leads, asking them about their work and giving advice on how to proceed. She even felt her mood returning as Brilliant seemed to leak enthusiasm the longer the tour went on. She grew quieter and quieter, and although it didn’t reflect well on her, Experimant could acknowledge she felt a little better seeing the normally rambunctious ant brought down a peg.
+
+When it was all done and they had gone to every project currently being worked on in the facility, she turned to Brilliant, fully satisfied, and asked: “Well? What do you think?”
+
+Brilliant was quiet for a long moment, barely moving.
+
+“The progress you’ve made…” she mumbled.
+
+“Yes? The progress we made?” Experimant prodded her, waving her antennae happily.
+
+“... doesn’t exist!” Brilliant roared. “What the heck have you been doing while I was away?”
+
+“What do you mean?” Experimant spluttered. “We’ve made significant strides forward in a number of areas–”
+
+“Strides?! Strides?! Those are tiny little baby steps! Grubs take bigger strides than that, and they don’t have legs! Why hasn’t the acceleration array been tested at max capacity? What are the limits of our current methods?”
+
+“W-well, if we pushed our current designs that hard, they would be destroyed?”
+
+“So?!” Brilliant asked, exasperated.
+
+“Why should we destroy our designs that we’ve worked so hard on? If we incrementally–”
+
+“If you want incremental gains, then work incrementally. Do you really think the Colony has time for that? I want that thing dialed up to eleven, and if it doesn’t explode, dial it up to a hundred and eleven! I want data! I want numbers!”
+
+“Then we lose our work!”
+
+“And gain knowledge! We aren’t here to make demonstrations and prototypes, we are here to discover! If we can make a better one by breaking the one we have now, then why the heck wouldn’t we?!”
+
+Brilliant was so worked up she’d begun hopping again, but not with glee. She was furious.
+
+“The mana tanks are full! We can find a use for that much energy, surely? Where are the explosions? Where’s the danger?! This lab has become so safe and… and so… DULL! There needs to be lightning, Experimant! There needs to be deep, shuddering explosions! The Colony went to huge lengths to put blast shielding in all of the testing chambers, and it’s going to waste!”
+
+Experimant grew still.
+
+“Do you… do you want progress, or do you just want explosions?” she asked slowly.
+
+Brilliant threw her head back and laughed.
+
+“You can have both when you’re BRILLIANT!”

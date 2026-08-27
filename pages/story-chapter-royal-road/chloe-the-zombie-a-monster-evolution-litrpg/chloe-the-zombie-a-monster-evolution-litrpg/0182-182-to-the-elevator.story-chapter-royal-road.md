@@ -1,0 +1,105 @@
+---
+id: 6dd328e1-bf1f-55a6-8b02-14b2785c81c1
+page-type-slug: story-chapter-royal-road
+title: "182: To the Elevator"
+slug: 0182-182-to-the-elevator
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 182
+ownLength: 1872
+unit: words
+publishedAt: 2026-07-24
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3720153/182-to-the-elevator"
+royalRoadId: "3720153"
+---
+
+After everything that had happened with the Bright and Graves Families, things had somehow settled down without exploding into disaster, which Chloe personally considered a massive success. Ynett had seemingly kept her promise to guide Chloe and Z to the mysterious Elevator, but before they could leave, Z pointed out that they should probably track down Liz first, and maybe her brother too, in case either of them had learned something useful about Greg.
+
+It sounded like one of those responsible decisions that adults always made, kinda boring, but necessary. Ynett, meanwhile, shrugged and then casually told them to "find me when you're ready," handed Z a slip of paper with her phone number written on it, and wandered off as though she hadn't spent the last hour turning into snakes and casually admitting she was functionally immortal.
+
+The phone number honestly bothered Chloe more than the immortality. Because she was really surprised that Ynett had a phone.
+
+Somehow the creepy snake lady managed to ger her hands on a perfectly normal smartphone. Chloe wasn't entirely sure why that felt so wrong, but it did. If someone had asked her what Ynett kept in her pockets, she'd have guessed cursed talismans or maybe an angry cobra. A phone was just weird.
+
+Actually... now that she thought about it, Chloe could really use a new phone herself. Back when she still lived with Mom, she'd always gotten the newest model the moment it released. Sometimes Mom had even bought her two of the exact same phone just because Chloe couldn't decide which color looked prettier. Those had been the good old days. Now she didn't even have a phone anymore, life was honestly kind of unfair.
+
+Thankfully, Z called Liz instead, solving at least one problem without requiring Chloe to mourn her lost luxury lifestyle for too much longer. Liz answered and explained that she'd already found her brother. Better yet, they were both grabbing something to eat nearby, which meant Chloe and Z could meet them there before heading off to find Ynett again.
+
+The restaurant turned out to be a fast-food place called Mystery Eats, and Chloe knew she didn't trust it before they even reached the front door. The windows were so greasy she wasn't entirely convinced they were made of glass anymore, and someone had apparently attempted to fix a crack in one of them with duct tape. A suspicious puddle dripped steadily from an air-conditioning unit overhead, occasionally splashing customers.
+
+The inside somehow looked even worse. Half the tables leaned at dangerous angles because somebody had folded scraps of cardboard underneath the legs instead of fixing them properly. One of the employees casually wiped down a table using what looked suspiciously like the same rag they'd just used to clean the floor, while another guy stood behind the counter scratching his head with one hand and assembling burgers with the other.
+
+But the biggest crime against food safety was how Mystery Eats smelled like grilled meat... plus something Chloe couldn't quite identify. It wasn't necessarily bad, just... mysterious. There was an oddly sweet scent mixed together with grease, burnt onions, spices she couldn't recognize, and something that vaguely reminded her of a wet dog. Honestly, she wasn't entirely convinced the burgers were made from any kind of remotely recognizable meat.
+
+The really terrifying part was that nobody else seemed bothered. Liz happily bit into her burger without the slightest hint of concern, while her brother… Percy, Chloe was pretty sure his name was Percy, looked equally content as he demolished a basket of fries. Maybe Chloe was just overthinking things.
+
+Either way, she politely declined ordering anything. Once Liz and Percy had finished eating, Z finally called Ynett. A few minutes later, the group made their way across town until they arrived at an old abandoned bus stop where the snake lady was waiting.
+
+She smiled the moment they approached, looking entirely too cheerful. "So, will only the four of you be going to the Elevator?"
+
+"It'll just be the four of us," Z answered.
+
+Ynett's smile widened ever so slightly, as though she'd expected that answer. "Very well, if there are no other things any of you want to take care of, I believe we can go immediately."
+
+She had barely taken a single step before another voice stopped her. "Hold on, are we really trusting her? No offense, but she doesn't exactly have a great reputation."
+
+Chloe turned and saw Percy shooting a look to Ynett, though Liz didn't seem as bothered by contrast. "So what? We work with shady people from time to time… well, a lot of the time. What's the problem?"
+
+Percy looked between Ynett and Liz with an expression that suggested he was hoping someone would tell him this was all some sick joke. His eyebrows had climbed so high they looked ready to leave his forehead entirely. "I mean, it's her."
+
+Liz shrugged. "If she tries anything funny, we jump her."
+
+Chloe immediately raised her hand. "Uh... I'm pretty sure that's gonna be kinda difficult."
+
+"What?" Liz asked.
+
+Chloe lowered her hand, frowning a little. "I mean... I'm pretty sure she's supposed to be dead. Like, at least twice? Maybe three times? Definitely more than once. For example, I literally watched Sullivan chop her in half with that giant flaming axe, and she's totally fine now. So unless everyone's carrying around giant anti-snake spray that secretly kills immortal snake ladies, I don't think jumping her is gonna accomplish much."
+
+Nobody spoke for a moment. Then Ynett simply laughed, her smile widening ever so slightly. "I think you're all paying far too much attention to the small details."
+
+"The small details?" Chloe repeated. "Pretty sure refusing to stay dead is a really, really big detail."
+
+"Perspective is such a fascinating thing."
+
+Chloe narrowed her eyes as a thought she'd been sitting on suddenly clicked into place. She stepped closer, meeting Ynett's gaze with an almost smug look. "Are you seriously doing all this because you're scared of me?"
+
+Percy made a strange choking noise somewhere behind her. Liz looked between Chloe and Ynett, while even Z quietly watched without interrupting.
+
+Ynett considered the question for several seconds before shaking her head. "'Scared' is perhaps not the most accurate word. Cautious would be more appropriate. And in any case, I lose very little by escorting all of you to the Elevator. Whatever awaits you there will be your problem, not mine."
+
+Chloe puffed out her cheeks. "Wow."
+
+She wasn't entirely sure whether she'd just been complimented or threatened. Maybe both? Honestly, with Ynett, it was probably both.
+
+Before Chloe could think of a suitably clever response, Z stepped forward. "Then let us go."
+
+***
+
+Well, as it turned out, getting to this mysterious Elevator was way more complicated than Chloe had expected. She'd already assumed there'd be some secret entrance hidden behind a spooky bookshelf or something like that, because mysterious immortal snake ladies weren't exactly known for taking the front door, but things somehow managed to exceed even those expectations.
+
+First they'd climbed through the basement of an abandoned apartment building, then squeezed through a maintenance tunnel, climbed three different ladders for reasons Chloe still didn't understand, crossed a narrow catwalk suspended over what looked suspiciously like an underground reservoir, ducked through a ventilation shaft, doubled back through another tunnel because apparently the first one was "no longer viable," and somehow ended up crawling through an enormous water pipe. At one point Ynett had casually pushed aside what Chloe thought was an ordinary brick wall, revealing yet another hidden passage. Honestly, Chloe had completely lost track of where they even were about halfway through the journey. If someone told her they'd accidentally walked into another city by accident for a bit before coming back, she'd probably believe them.
+
+By the time Ynett finally instructed everyone to crawl through the last drainage pipe, Chloe was beginning to suspect the snake lady intentionally chose the most inconvenient route possible just because she thought it was funny. Then, after what felt like an entire lifetime of crawling on hands and knees, they finally emerged through the other end one by one, and Chloe immediately felt so relieved. She didn't really need to breathe anymore, but boy did she still not like being in the sewers.
+
+Seriously, sewers were disgusting. Chloe wasn't usually all that picky about getting dirty, but there were limits. The only remotely positive thing she'd managed to think about the whole experience was that the place reminded her of those funny rat people she'd run into with Raenof a good while back.
+
+Oh... wow. Chloe had been expecting an elevator, sure, but she definitely hadn't expected it to be this huge. The thing was seriously gigantic, stretching so high she couldn't even see the top, while the bottom disappeared into a giant hole. Massive pipes wrapped all around it and ran into the walls, the ceiling, and straight down into uh, wherever that went. Every now and then the whole thing let out this deep rumbling noise, followed by a loud hiss of steam.
+
+Ynett walked toward the towering structure without so much as glancing up at it. She stopped a few paces from the entrance before turning back toward the group with that same pleasant smile she'd somehow managed to wear. "This is the Elevator, and it is also where I will take my leave."
+
+Z inclined her head politely. "Thank you for escorting us this far. We appreciate your assistance."
+
+"There is no need to thank me, but I do wish all of you the best of luck."
+
+Before anyone could say another word, her body came apart. One moment Ynett was standing, and the next her entire body unraveled into a writhing heap of countless white snakes that spilled onto the ground. The mass scattered almost immediately, dozens upon dozens of serpents slithering in different directions before disappearing back into a drainage pipe.
+
+Chloe watched the final snake disappear into one of the pipes before slowly turning back toward everyone else, throwing her hands up in a helpless shrug. "Uh, do we just... go in the elevator and press the button or what?"
+
+Liz looked the towering machine up and down before shrugging herself. "I mean... I guess that's probably it."
+
+"Assuming the damn thing still works." Percy said.
+
+Z stepped forward without another word, his expression as calm as ever. "Only one way to find out."
+
+The four of them cautiously approached the massive entrance together, their footsteps echoing throughout the cavern as the Elevator loomed larger with every step. Up close, the thing looked even older than Chloe had first thought. The thick metal walls were covered in scratches, faded markings, and patches of rust that somehow hadn't managed to consume the machine despite what looked like a long time of neglect.
+
+Right next to the giant doors was this tiny little control panel that looked hilariously out of place compared to the massive machine it was attached to. Chloe leaned in for a better look, only to realize there was... one button. It had a little arrow carved into it that pointed down. That was it.

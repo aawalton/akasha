@@ -1,0 +1,89 @@
+---
+id: 32c6dd20-d0e1-57ca-a461-33bc0c0c41f1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1380 - Hidden Slugs, Crouching Snails"
+slug: 0027-chapter-1380-hidden-slugs-crouching-snails
+partOf: chrysalis
+position: 27
+ownLength: 1022
+unit: words
+ownProgress: 1022
+publishedAt: 2024-07-30
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1737514/chapter-1380-hidden-slugs-crouching-snails"
+royalRoadId: "1737514"
+markedReadAt: "2026-06-29T19:44:30.927Z"
+---
+
+The nature and origin of the Krath has been a matter of debate for many years within academic circles, yet it isn’t one that invites a scholar to delve too deeply.
+
+Secretive to the point of obsession and more elusive than word of the Ancients themselves, the slug tribes of the fifth are difficult to study. Not that there is no enthusiasm amongst academic circles to learn more about them, nor indeed a dearth of driving force among the various authorities of the fourth. With every wave, the Krath torment the lower tunnels and send their servants upward to spread poison and filth. Knowledge of their methods and techniques would greatly benefit all of us, yet no one is willing to attempt it.
+
+Not anymore.
+
+The Krath, living in the fifth, are almost impossible to reach as it is, yet expeditions have been made to try and secure this intelligence before. All of them failed. Not just failed, but were made an example of. As barbaric and cruel as they are, the Krath seem to hold a special place in their twisted hearts for those who try to learn their secrets.
+
+Expeditions were returned to the fourth, twisted and maimed beyond recognition. Sometimes, only pieces were recovered, left in the open for others to collect. Famously, a group from the Empire of Stone were recovered, minds almost completely gone from the horrors they had endured. The members clutched journals in their quivering hands, records that the Krath had forced them to keep detailing their own torture.
+
+As a result, we do not seek to learn the secrets of the Krath.
+
+Not anymore.
+
+-           Excerpt from ‘The Fifth and Beyond’ by Scholar Ralis
+
+“Oh nooooo, they got meeeeee.”
+
+The tentacles latched onto me writhe with glee as they forcefully attempt to yank me into the mucus river.
+
+Emphasis on “attempt”.
+
+Am I the strongest creature around, physically? No, of course not. I’m not the physically strongest in my own group of pets. Am I going to let myself get yoinked into a river by some fifth stratum slug? Absolutely not!
+
+I dig my claws into the ground, grit my mandibles and hold tight. Think you can get me to dunk my head into a river of snot?! You’re crazy! It ain't happening!
+
+Oh, they sure are hitting me with a heck of a lot of toxic mana, though. Yikes. Everywhere the slimy limbs touch me is flooding my body with the horrible stuff, so much so my mind constructs are struggling to break it all apart before it can begin to replicate.
+
+Still, I’m not in real danger. Any second now, this situation is going to change.
+
+Anyyyyyy second.
+
+[GET YOUR FILTHY CLAWS OFF OF MY MASTER!] Crinis screeches.
+
+In an instant, the tunnel around me is plunged into perfect darkness. I can’t see a thing, but I can certainly sense my loyal friend’s mana. As the light is chased away, she emerges from all around me, latching onto the monster who’s taken hold of me and devouring all of it she can reach.
+
+[Hey, Crinis! Don’t eat that stuff, the poison will get inside you!]
+
+[GET OUT HERE, TRASH! I MUST REND YOU APART FOR THIS INSULT!]
+
+Heedless of my warning, she plunges her own limbs into the river, a thousand of them, seeking and twisting through the thick sludge, seeking their target.
+
+I can only sigh to myself. She’s as dedicated as always, but seriously… she needs to look out for her own health a little more.
+
+[Invidia, can you make sure to detoxify Crinis as much as possible? She’s being a bit silly right now.]
+
+[I ssssshallll.]
+
+There’s a violent tussle in the water, a vigorous struggle, and then… Crinis employs her most deadly weapon.
+
+The moment she finds the creature, she homes in on its head and drives in her Soul Seeker Cillia with a cry of savage triumph. A moment later, the beast itself emerges from the river, howling in despair and flailing wildly as it tries to fight off the monster of darkness attacking it.
+
+I feel a bit sorry for the thing at this point, but it’s too late now. At least I get a good look at my would-be attacker. This monster clearly comes from a different evolutionary tree than most of what I’ve fought so far in the fifth. It doesn’t look slug or snail-like at all, rather a kind of mucous starfish, except with way more than five points. Crinis has driven her tentacles right into the centre of the beast, tormenting it while the monster thrashes about, flinging goop all over the place.
+
+[Crinis! Finish it off or let it go, but don’t let it get muck into the safe-zone! It’s going to mess up the formation.]
+
+Either she hears me, or she decides she’s had enough, and Crinis unleashes her pent up fury on her helpless prey, annihilating it in moments.
+
+[I’m… I’m sorry about that, Master. I appear to have let my emotions get the better of me.]
+
+Oi. It’s way too soon for you to make that apology and have it sound sincere. You clearly enjoyed that! Even though the toxins are currently eating you up from the inside, you still enjoyed it! I can tell!
+
+[Let’s get you back to the safe-zone,] I tell her. [You need to be cleansed before something bad happens.]
+
+And of course, as If I’d spoken it into being, something bad immediately happens.
+
+More goopy limbs burst forth from the river, seeking and writhing toward me. Warned by my antennae, I leap back. I might have let myself get caught the first time, but this looks a little more serious.
+
+Seconds later, the thick sludge of the river surges as a dozen of the same creepy starfish emerge, ring-shaped mouths gnashing on the lower side of their centre mass.
+
+Even more alarming, the first monster, which Crinis had… separated into fun-sized components… has begun pulling itself together, the pieces undulating together and merging into a congealing pile of goo.
+
+This… this seems a little too coordinated to be a random Dungeon attack, right?

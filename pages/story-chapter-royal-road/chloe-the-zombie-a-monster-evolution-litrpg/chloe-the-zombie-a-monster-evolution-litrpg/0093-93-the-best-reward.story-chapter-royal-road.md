@@ -1,0 +1,139 @@
+---
+id: cef065b9-5e5f-56dc-983d-e561dca8bed6
+page-type-slug: story-chapter-royal-road
+title: "93: The Best Reward"
+slug: 0093-93-the-best-reward
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 93
+ownLength: 1803
+unit: words
+publishedAt: 2025-12-29
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2890010/93-the-best-reward"
+royalRoadId: "2890010"
+---
+
+Chloe was not normally the strategizing type, but even she knew she had to go big for this one. She was a smart zombie after all, probably the smartest zombie in the whole world, which obviously meant she was good at planning too.
+
+“Okay. The plan. I need to blow up all three heads at the same time. But the big three-headed wolfie over there keeps trying to roast me, which makes the whole spear-throwing thing really hard.”
+
+She peeked around the statue she was hiding behind. The Cerberus was stomping in circles, sniffing the air like an angry hunting dog. One of its heads suddenly slammed into a wall hard enough to knock loose a shower of gravel, and Chloe jerked back with a wince.
+
+She looked down at Leftie. “But that’s where you come in.”
+
+Leftie tilted a little, as if waiting for her to explain more. Chloe leaned closer so only he could “hear.” “So… what if I drop you on its head? You land on whichever head looks easiest, and then you go crazy."
+
+Leftie gave a twitch that Chloe decided absolutely counted as a “yes.” Maybe even an eager yes. She grinned wide enough that her cheeks felt tight. “Knew I could count on you, buddy."
+
+Cerberus let out another low growl across the chamber. Chloe peeked out of her hiding spot again and spotted all three heads sweeping back and forth like giant, angry searchlights. Time to be sneaky. Super sneaky. The sneakiest.
+
+She crouched low, holding Leftie gently in both hands. “Alright, here’s the big moment. We go up, I drop you, you do your thing."
+
+Leftie made another twitch. Chloe decided that meant he believed in her. That felt nice.
+
+With another quick check to make sure Cerberus wasn’t looking her way, she shot into the air. Her wings unfurled behind her, and she flew upward until she hovered right over the raging beast. The middle head snapped at empty space just as Chloe passed. “Too slow!”
+
+The leftmost head jerked upward as if in response, jaws snapping shut just a bit too close. Chloe squeaked and swerved away.
+
+She steadied herself above the monster. All three heads were moving in different directions, looking especially angry.
+
+Chloe decided this was the best time to strike, and so she lifted Leftie high. “Alright, Leftie. Go be awesome!”
+
+Then she let go. Leftie dropped straight down and landed right between the middle and left heads. Immediately after, Leftie burst into action.
+
+He clawed at the middle head’s nose, poked one glowing eye, and even jabbed a thumb into its nostril because Leftie was apparently fearless and also just kind of cool like that. The head let out a furious howl and shook back and forth, tossing its snout around as if trying to get rid of Leftie.
+
+Chloe pumped a fist, feeling a rush of pride. “Get him, Leftie!”
+
+The rightmost head lunged first, snapping at Leftie but missing completely and slamming into the middle head instead. That set off a chain reaction as the middle head snapped back in anger and bumped into the left head, which snarled like it was offended by the entire situation.
+
+Chloe rushed to grab a spear from one of the statues and held it ready. "Okay, okay, this is it. C’mon, Leftie, keep it up!”
+
+But something changed. The whole monster froze all at once, all three heads turning in perfect, creepy unison. Their red eyes locked on a single target: Leftie.
+
+Chloe’s smile wilted. No….
+
+The left head shot forward first, and Leftie darted across its snout, scrambling for anything to grab. The middle head snapped right after, its jaws slamming shut just short of him. Leftie managed to hook onto a clump of fur, hanging there like a very desperate spider.
+
+Chloe dropped her spear and launched herself toward him. “Hang on! I’m coming!”
+
+Cerberus reared back, all three heads pulling in together as if they wanted to swallow Leftie in one big bite. Leftie clung with everything he had, but Chloe could see his grip sliding, his fingers peeling away one by one. No no no, don’t you dare fall!
+
+The beast struck, lunging with all three mouths. Chloe dove so fast her wings felt like they burned, scooping Leftie out of the air just before the jaws closed around him. The teeth clashed shut behind her with a massive crack that made her ears ring. She wobbled midair from the sheer force, hugging Leftie to her chest. “Leftie! You almost got eaten!”
+
+Leftie still managed to give her a thumbs up despite almost being swallowed whole. And that was one of the many things that made Chloe really appreciate him.
+
+But anyway, the Cerberus let out a furious roar that rattled through the whole chamber. Chloe swallowed hard and steadied her wings. The plan had kind of worked, in the sense that it did something, but it had also almost gotten her best hand devoured. It was definitely time to think of something else.
+
+Chloe held Leftie close until she finally trusted herself not to drop him. Once her hands stopped shaking, she carefully set him back on her shoulder, then gave him a soft pat with one finger. “Sorry, buddy. I’ll think of a better plan. Promise.”
+
+Leftie gave her a tiny wiggle, which she took as a forgiving gesture. He was cool like that, obviously.
+
+Cerberus prowled below her, all three heads snarling as it paced the chamber. Its claws carved deep lines into the stone, and waves of heat shimmered off its fur. Chloe hovered far above, rubbing her temples while her thoughts churned.
+
+The glowing spears hit hard, yet the regeneration made everything annoying unless she did it perfectly. While flying, Chloe looked up at the ceiling. Then she squinted at it. Slowly, she grinned as the idea slid neatly into place in her mind.
+
+Chloe flew higher and pressed both hands against the ceiling. Earth magic pulsed from her palms and formed stone spikes that pushed outward through old cracks. She shoved them deeper, weakening the whole section above Cerberus.
+
+The monster noticed her work and roared, sending a blast of fire toward her. Chloe darted to the side as the flames swept through the space she had been in moments earlier.
+
+She summoned her shadow spears, planting them firmly into the weakened stone clusters. Each spear dug in at a different angle, locking the fractures in place.
+
+Chloe pulled her fist back and charged it with fire magic. “Time for the Chloe Special!”
+
+Her punch hit the nearest embedded spear. The explosion tore through the ceiling with a deafening crack and released an avalanche of shattered stone. Cerberus looked up too late as the debris slammed down on all three heads. The monster staggered and dropped to one knee under the sudden weight.
+
+Chloe took the opening and swooped toward the statues. She grabbed two new glowing spears, one in each hand. The heat pouring off Cerberus was almost unbearable now, like someone had turned the whole room into a… really hot place. She tried to ignore it as she hurled the first spear at the leftmost head the moment it struggled free.
+
+The spear sliced through and detonated, blowing apart the entire head. Chloe followed up immediately by throwing the second spear into the rubble still covering the wolf’s back, cracking more stone and forcing the creature down again.
+
+She knew the left head took the longest to regenerate. If she kept hitting that part, she could stall its healing long enough to break the whole body.
+
+Chloe summoned a dozen shadow spears at once. Each one buzzed with dark energy that made her fingers tingle.
+
+She launched them all at the weakened Cerberus. They rained down in a streak of explosions, tearing through its body, ripping apart the remaining two heads.
+
+Cerberus let out a final, broken roar before its entire form shattered into scattered motes of red light that drifted across the chamber.
+
+Chloe hovered there, blinking at the empty spot where the monster had been. She waited for the pieces to re-form, but nothing moved. When the last shimmer faded, glowing text appeared in front of her.
+
+[You have killed: Cerberus (Level 50)]
+
+[Experience Awarded]
+
+[You have leveled up! 4 >> 6]
+
+[Strength +13, Speed +9, Vitality +14, Magic +37, Resistance +9]
+
+[Skill Upgraded: Shadow Spears I >> Shadow Spears II]
+
+Chloe floated there for a moment, still buzzing with excitement. Then she whooped and spun in the air while Leftie did a tiny wiggly dance on her shoulder.
+
+They had survived a giant three-headed wolf. They had leveled up. They were amazing. Obviously.
+
+The celebration lasted only until a terrible realization hit her. She stared at where Cerberus had died and felt her smile slowly fall apart. All three heads had exploded.
+
+Which meant there were no brains left. No brains at all.
+
+Chloe slumped as she hovered a few inches above the floor. No brain snacks… not even a little nibble… this is the saddest victory ever.
+
+However, her mourning was interrupted when Leftie suddenly sprang off her shoulder. He hit the floor with a soft smack and scuttled off with surprising speed. Chloe blinked, then yelped and flew after him. “Leftie! Where are you going? Come back!"
+
+Leftie ignored her and scampered across the cracked stone until he reached the very center of where Cerberus had collapsed. He stopped there, tapping excitedly at something on the ground.
+
+Chloe landed beside him and crouched down. “What did you… oh. Ohhh.”
+
+A black gem was half-buried in the dust, gleaming with a strange light. It practically hummed in her hand when she picked it up. The moment her fingers closed around it, new glowing system text drifted into view.
+
+[Dungeon Reward Acquired: Gem of Wighthood]
+
+[Description: Revives one fallen creature as a Wight (skeleton). The creature’s past potential determines its undead form and capabilities.]
+
+Chloe stared at the floating words. Then she stared at the gem. Then she went back to the words again, squinting like the text might magically change into something even better if she looked hard enough.
+
+“Revive… revive any creature…” she whispered.
+
+A rush of hope hit her so fast she almost fumbled the gem. Wait. Hold on. Revive? Like… revive revive? Does that mean I can revive Mr. White?
+
+There was one tiny downside. Mr. White would have to come back as a skeleton, which was kind of lame. Skeletons were super uncool. Everyone knew that. But Mr. White was cool, so maybe his coolness would cancel out the uncool skeleton part. And honestly, having him back at all was way better than not having him at all.
+
+She clutched the gem tighter. Mr. White, I’m totally bringing you back.

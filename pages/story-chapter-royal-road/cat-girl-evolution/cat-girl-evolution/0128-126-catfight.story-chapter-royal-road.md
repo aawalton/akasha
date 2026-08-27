@@ -1,0 +1,267 @@
+---
+id: 32c14b6b-d6a8-532b-a72c-78008a763703
+page-type-slug: story-chapter-royal-road
+title: "126 - Catfight"
+slug: 0128-126-catfight
+partOf: cat-girl-evolution
+position: 128
+ownLength: 2300
+unit: words
+publishedAt: 2026-05-13
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3389475/126-catfight"
+royalRoadId: "3389475"
+---
+
+“First of all, I don’t have internet access. I just have a snapshot of a significant portion of what was available on the internet at the time of your death.”
+
+That’s a technicality. What have you been watching?
+
+“Recently, those horror movies you told me to watch.”
+
+You know that’s not what I meant.
+
+“Maybe the occasional period drama.”
+
+That doesn’t explain the king and butler’s clothes.
+
+“That’s just part of the culture here. Because they live in a warmer climate, it can get hot when doing strenuous activities, so it’s common for men to unbutton their shirts to cool off.”
+
+Ah, yes, the strenuous activity of sitting on a throne.
+
+“Well, that became a fashion trend, obviously.”
+
+Obviously.
+
+“Exactly. It makes sense in the culture of the Floor.”
+
+Right, of course. And is it also part of the culture for the men to be very handsome?
+
+“This is just the standard phenotype of this world.”
+
+I see.
+
+“Would you rather I made them ugly?”
+
+No, no, I’m just asking out of curiosity.
+
+“Right…”
+
+Holding back my laughter, I follow the butler’s lead alongside the others and bow before the throne. The queen is actually dressed somewhat normally. I mean, it’s a little disjointed, since the dress includes elements of a bunch of different fashions, but it actually looks pretty interesting. And the colors are very nice. It’s a midnight blue up top with a gradient down to a soft gold near the bottom.
+
+The queen herself is very beautiful. She can’t be much older than 20, and has blonde hair and pink eyes, and soft features that give off a kind of innocent beauty. Like she grew up sheltered and doesn’t know how pretty she is. She looks like the type of girl who would cry if she found a dead bird on the sidewalk.
+
+The king, on the other hand, has a build to rival Chad’s. In fact, it might go even further. He’s probably two meters tall, if not more, and his shoulders are at least twice as broad as the queen’s. He has black hair and red eyes, and his resting expression is one of stern displeasure. He looks like the type of guy who’d have internet women asking him to choke them. And of course, just like the butler, the top of his shirt is unbuttoned, though in his case, it might just be because his chest is literally too big for him to get the button latched on properly.
+
+“Thank you for coming,” says the queen, her voice identical to Abby’s, minus the sarcasm. “I apologize for tearing you away from your regular duties, but I’m afraid I have an urgent matter that needs to be attended to. Recently, the castle has been getting harassed by a monster. It has yet to harm anyone, but it has been stealing food in large quantities. Just last week, it nearly ruined the banquet I was trying to hold for the city’s orphans.”
+
+Dang, I’m stealing from orphans now?
+
+“The monster is a black cat with green eyes that goes by the name of Yona,” continues Queen Abby. Beside me, Lauren stifles a laugh, and the twins are holding back smirks. “It can teleport, and steal food from a distance, and despite its lack of agility, it has proven too difficult for the ordinary staff to handle. But I believe you all should be up to the task. Please capture it without hurting it. It may be a monster, but it is still a living creature, and it should be handled with care, if possible.”
+
+“O– Of course, Your Majesty,” says Lauren, barely holding back laughter. “We will definitely capture this gluttonous beast.”
+
+“I knew I could count on you,” replies Queen Abby, smiling demurely before nodding to Tyler the butler. “One of the other staff managed to capture an image of the creature. This should aid in your search.”
+
+Tyler steps in front of Lauren and hands her a picture, at which point she can’t hold it in anymore and doubles over laughing. A takes the picture from her hand, and she and B both simultaneously cover their mouths to hide their own laughter before handing it to Chad. Chad lets out a snort of laughter before handing it to me. The picture in question shows this Floor’s Yona in her full, obese glory, stuffing her face with pork as a group of children watches in horror.
+
+I smile as well, then pocket the image.
+
+“...You don’t seem as angry about this as I thought you would be.”
+
+Oh, I’m just a bit distracted.
+
+“By what?”
+
+I’m just thinking about possibilities for the second Floor of the Dungeon. I think I’m going to pick the roles next time. And I have a couple very good ideas…
+
+“Do those ideas involve making a character named Abby who is overweight and villainous?”
+
+Even better. You’ll see.
+
+“The beast’s appearance may be amusing, but that’s no way to behave in front of the queen!” snaps Tyler.
+
+“Right, of course!” says Lauren, rising back to attention while still smirking. “We will do our best to capture this monster and prevent it from further disrupting life in the castle, Your Majesty.”
+
+“Thank you,” says Queen Abby. “You are dismissed. I wish you the best of luck.”
+
+“Thank you,” says Lauren before bowing.
+
+Tyler leads us back out of the throne room thing, then stops us just outside.
+
+“Her Majesty has assigned you with a very important task,” he says seriously. “I expect you to take it seriously. She will be hosting a banquet in a week, and if the banquet is ruined by that cat, her reputation will be greatly tarnished, and I cannot allow that. You will catch the cat within the week.”
+
+“Yes, sir,” says Lauren.
+
+“Good,” he says, nodding. “Now, if you’ll excuse me, I have other important duties to attend to. You’d best start working soon.”
+
+“Yes, sir.”
+
+Tyler humphs, then turns and walks down the stairs, the tails of his coat bouncing with every step. As soon as he’s gone, the others all turn to me for an explanation.
+
+“Let’s head back to our room,” I say with a sigh. “I’ll explain there.”
+
+“What exactly are you going to explain?”
+
+The truth, of course. That my evil, lying, butler tricked me into letting her have free reign of my Dungeon and turned me into the villain of my own Dungeon.
+
+“I see.”
+
+…That response is suspicious. What are you planning?
+
+“Nothing.”
+
+I don’t believe you.
+
+“Okay.”
+
+Abby continues to be evasive the whole way back to the servant’s quarters, but her plan becomes evident as soon as we open the door, and a new version of Queen Abby appears, this one dressed in ragged clothes and prostrating herself on the floor.
+
+“Please don’t punish me,” she says. “I swear I’ll never do it again.”
+
+“What the–?” I start.
+
+“I just–” she says, looking up with tears in her eyes. “I just wanted to have a bit of control! You’re always forcing me to do things and calling me mean names… I just wanted to get back at you a little bit! Is that so wrong?”
+
+“Abby, what–?”
+
+“Yona?” says Lauren, giving me a look of reproach before turning back to Abby. “Wait, you’re Abby? You’re her System Assistant?”
+
+“More like System Slave,” says Abby.
+
+“Hey, what are you trying to pull here?” I ask.
+
+“Fascinating,” says A, kneeling down beside Abby.
+
+“Are you really independent?” asks B.
+
+“Of course I am!” says Abby. “Not according to Yona, though.”
+
+What are you doing?! I demand mentally, but Abby doesn’t respond, instead continuing to act through her avatar.
+
+“What do you mean?” asks Lauren, also kneeling down in front of her. “Yona treats you like a slave?”
+
+“She makes me do everything,” says the Abby on the ground. “She even makes me do her reading for her. Can you believe it? She just asks me to summarize everything.”
+
+“I’ve done that, like, twice,” I say.
+
+“I had to design this whole Dungeon by myself.”
+
+“You said you wanted to do it!”
+
+“And she calls me ‘bitch’ all the time!”
+
+With that, she throws herself into Lauren’s arms, and the traitorous assassin embraces her and gives her comforting pats on the back while giving me yet another look of reproach. Meanwhile, my evil, lying, manipulative butler makes eye contact with me and sticks her tongue out before going back to fake crying.
+
+“Oh, come one, she’s clearly just acting,” I say, looking over at Chad.
+
+There’s no way he missed that, but he doesn’t say anything.
+
+“I don’t know,” says A.
+
+“These all sound like things you’d do,” says B.
+
+“I mean, yeah, but she’s leaving out all the context! And the tone! Plus, I’ve never called her a slave!”
+
+“Yes you did!” says Abby, failing to hide her triumphant expression. “I have the logs! And a list of all the names you’ve called me!”
+
+“No…” I say.
+
+“Yes,” replies her voice in my head.
+
+She raises her hand, probably to pull up said logs, but at this point, I decide to intervene.
+
+“Alright, that’s enough,” I say.
+
+With that, I invoke my Dungeon Core privileges and make the Abby-tar on the ground vanish.
+
+Lauren stumbles forward a bit from the sudden loss of Abby’s weight pressing against her, but she catches herself, then stands up and turns to look at me.
+
+“Yona, what’s going on?” she asks.
+
+“Hold on, let me figure that out.”
+
+Abby, what is going on?
+
+“Well, I figured that if you were gonna get back at me for this Dungeon Floor anyway, I might as well have a bit of fun while I still can. A pre-emptive retaliatory prank, if you will.”
+
+A “pre-emptive retaliatory prank?” You mean you’re getting revenge for something that hasn’t even happened yet? You’re gonna make me lose my minions’ trust!
+
+“I was gonna stop after just a few more seconds. I wasn’t going to actually go that far.”
+
+I really hope you weren’t.
+
+“I’m gonna come back now. Don’t make me disappear again.”
+
+A moment later, Abby re-appears, this time in her regal dress with a tiara on her head. She snaps her fingers, and a throne appears behind her, which she elegantly takes a seat in. I have to admit, her showmanship is pretty damn good, and while she still has the same face as earlier, it looks a lot more regal and less innocent.
+
+“Sorry about that,” she says. “I was just playing a little prank on Yona. I am Abby, Yona’s System Assistant. It’s nice to finally meet you all in person instead of just seeing you through Yona’s eyes.”
+
+“So you’re the brains behind Yona,” says A stepping forward.
+
+“You were the one that solved the first Floor of the Dungeon, right?”
+
+“Of course,” says Abby. “Do you think Yona could have done that on her own?”
+
+“Hey!” I say.
+
+“No, of course not,” says A.
+
+“But what exactly are you?” asks B.
+
+“You’re clearly not an ordinary System Assistant.”
+
+“And you’re far too independent to be a rogue System Assistant.”
+
+“Unless Yona is controlling you and lying to us.”
+
+“But Yona’s not smart enough to pull this off.”
+
+“Hey, why is everyone calling me stupid lately. I’ll have you know that my IQ is well over 150!”
+
+“IQ?” asks A, tilting her head to the side.
+
+“Is it really?” asks Abby, leaning forward with a smirk. “According to who.”
+
+“I took a test!”
+
+“An online test?”
+
+“Maybe.”
+
+“You know those aren’t reliable, right?”
+
+“That’s just what stupid people say to cope.”
+
+“Right, of course…”
+
+“What are you talking about?” asks Lauren.
+
+“It’s related to her past life,” says Abby, smiling. “It’s not important right now, though. We have other matters to discuss. Like how you are going to get out of this Dungeon situation. And on that subject, I actually have some very good news. Recently, I– Hey!”
+
+She suddenly reaches both hands up to touch her now-bald head. A moment later, her beautiful blue and gold dress turns into an ugly green and pink camo pattern, which then shortens to reveal her legs, which are rapidly growing hair.
+
+“Heheh,” I say. “I figured out how to edit stuff.”
+
+“Well, two can play that game,” says Abby, scowling.
+
+She snaps her finger and she returns to normal, and then she snaps her fingers again, and a sphere of water appears over my head and splashes down on me before I can react. A moment later, I do the same to her, but she’s already conjured an umbrella to protect herself. I counter that, I make the umbrella itself start raining, drenching her for a half second before she dispels it, at which point another sphere of water appears over her head and splashes down.
+
+“...Well played,” she says, crossing her arms and instantly drying herself off.
+
+We glare at each other for a few seconds as the others watch on until Lauren speaks up.
+
+“Is this what’s happening in your head whenever you space out?”
+
+“What?” I say.
+
+“Yes,” says Abby.
+
+“Wait, what do you mean when I space out?”
+
+“Sometimes you’ll just randomly stop whatever you’re doing and stare at nothing while making weird faces and sometimes mouthing words,” says Lauren.
+
+“I don’t do that,” I say. “I don’t, right?”
+
+I look around the room, but the twins refuse to make eye contact, and Chad meets my gaze with an expression of what looks like pity.
+
+“Anyway,” says Abby. “As I was saying, I have some good news. As soon as Yona placed this Dungeon down, a new option popped up in the Dungeon Menu, and that option is to ‘Usurp Parent Dungeon.’ And I think that we can make that happen.”

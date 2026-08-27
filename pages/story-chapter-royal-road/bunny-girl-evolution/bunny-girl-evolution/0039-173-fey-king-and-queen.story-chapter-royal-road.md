@@ -1,0 +1,204 @@
+---
+id: 19caacdb-36f8-50d6-8835-942683caff80
+page-type-slug: story-chapter-royal-road
+title: "173 - Fey King and Queen"
+partOf: bunny-girl-evolution
+position: 39
+ownLength: 3318
+unit: words
+ownProgress: 3318
+publishedAt: 2026-02-17
+link: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3062117/173-fey-king-and-queen"
+royalRoadId: "3062117"
+markedReadAt: "2026-06-29T20:03:55.159Z"
+---
+
+“Titania and I were a part of the same spawn wave, though we were not the same species. You may be interested to learn that while she spawned as a fey, I did not. I was a mindless squirrel. True story. I supposed you could say that you and I have some kinship in our origins.
+
+“Due to my species, I don’t remember much of my own early years, but I do have a few distinct memories. She befriended me, and the two of us worked hard to survive together. Back then, she was no taller than a finger, and she sometimes rode me into battle against the other forest animals. Since I was a tier lower than her, I evolved first, and then we completed our second evolutions together, at which point I finally evolved into a fey and gained sapience.
+
+“From then on, we were best friends. She loved to laugh, and taught me how to do it as well. At 3rd tier, we were at the peak of our weak little spawn zone. There were less than half a dozen monsters that could rival us, and it didn’t take long to reduce that number to 0. From there, we went out into the world, having fun, growing in strength and experience…”
+
+He went on to explain some of their adventures, from complex heists to high society infiltration and marriage fraud to acting as battlefield medics, and more. They had done it all, and always together. Oberon was an excellent storyteller, a fact aided by him summoning clones to re-enact particularly fun events, or to demonstrate what certain people from his past had looked like. Elise found herself laughing at his antics, but the amusement always faded quickly, tainted by the fact that she knew the story didn’t have a happy ending.
+
+“We were together for a thousand years,” said Oberon when he neared the end of the story. “Inseparable. Other companions came and went, but we were always together. We never went more than a month without seeing each other. We founded a kingdom together. This kingdom. We built it on top of the place where we spawned. We had those tunnels dug underground to carry out pranks.
+
+“And then, one day, I guess she decided she didn’t care anymore. She left. Ascended. Vanished.”
+
+Oberon idly levitated a cookie into his mouth and took a bite, lost in thought.
+
+“Why… didn’t you follow her?” asked Elise.
+
+“Why would I?” he countered. “I like it just fine down here. There’s nothing in the divine realm for me. And why should I follow Titania after she abandoned me? I’m not some lost puppy.”
+
+Elise frowned. Oberon was clearly bitter, and felt betrayed by Titania, but from what she had seen of Titania, she didn’t seem like she had abandoned him. In fact, she was just as confused why he stayed as he was about why she had ascended. There was some kind of miscommunication occurring. Or, there was something deeper that Titania had not mentioned to her. From the stories Oberon told, though, the two seemed far too close for things to have just fallen apart like that.
+
+“Titania said that the reason she ascended was that the two of you learned a truth about the world,” Elise said. “She said she doesn’t know why you stayed.”
+
+Oberon looked at her incredulously.
+
+“That’s why she did it?!” he scoffed. “She learned that and it made her want to ascend? I have never wanted to follow her less than I do now after learning that. And not knowing why I stayed? If that’s true, then she doesn’t know me as well as she should have.”
+
+He leaned back and took another bite of his cookie.
+
+“A thousand years…” he muttered. “And we didn’t know each other at all…”
+
+A silence fell over the room for almost a full minute before Elise spoke again.
+
+“What was the truth that you learned?”
+
+Oberon looked at her and raised an eyebrow.
+
+“Are you sure you want to know a fact that ended a thousand year friendship?”
+
+Elise hesitated, then nodded. “Yes.”
+
+“Well, it’s simple,” said Oberon. “Divinity is impossible.”
+
+“But isn’t Titania a goddess?”
+
+“Not the Titania I knew,” he said. “The System is cruel. It does not want us to ascend. The Divinity Quests it gives us are always one of two things: Impossible, or they require you to abandon yourself. Mine is the latter. I could ascend whenever I wanted to, but in doing so, I would be sacrificing a core part of myself, which I have no desire to do. What’s the point of attaining godhood if you lose yourself along the way?
+
+“And since Titania is a goddess, I can only assume that her Divinity Quest was of the latter variety, meaning she is not the fey I once knew. She never told me what her Divinity Quest was, but whatever it was, it wasn’t worth it. She must have lost her common sense to ascend. She never would have sent that message otherwise. Did she really think that would work?”
+
+“About her dying?”
+
+“Why would that make me want to ascend?” he asked. “She can die a thousand deaths for all I care. If she wanted to see me again, she should have just stayed.”
+
+His tone was nonchalant, but for the first time ever, Elise managed to catch a glimpse of his true emotions behind whatever aether suppression Skill he often used. It was brief, and weak, but filled with unmistakable anger and pain. Elise was no psychiatrist, but it was obvious to her that Titania’s apparent betrayal had hurt him a lot more than he liked to let on. The circumstances behind it still didn’t quite make sense though. Given what Oberon had told her, she didn’t understand why Titania would choose to ascend, nor did she know why she would choose not to explain anything to Oberon. Even if she disagreed with him and still wanted to ascend, she would have talked it through with him, right? Her conversations with Titania were brief, but she still got the impression that the fey goddess cared about Oberon.
+
+“I don’t get it,” she eventually said.
+
+“That makes two of us,” said Oberon, shrugging.
+
+“Did she not tell you anything before she ascended?”
+
+“No. One day, she was just… gone.”
+
+“Did you both talk about the truth you discovered beforehand? Did you have any idea she was going to ascend?”
+
+“...I knew she wanted to,” he admitted. “We did talk about it. We didn’t come to a conclusion though, so we decided to wait and figure it out later. I hadn’t received my Divinity Quest yet at the time, anyway, so I couldn’t have gone with her. I thought we were going to wait until I reached the peak of 9th tier before having another conversation. I guess she didn’t care enough, though.”
+
+“That still doesn’t make sense,” said Elise, frowning.
+
+“Don’t try to make sense of Titania,” said Oberon, waving her off. “Even before we learned the truth, she was never all that sensical.”
+
+“But still…” said Elise. “What exactly did you discuss? Why did she want to ascend, even after learning the truth?”
+
+“Something about throwing off the shackles of the System,” he said. “The System is a tool, but also a chain. The only way to escape it is divinity. That’s why it makes the Divinity Quests the way they are. For those that would be willing to lose anything to escape, it gives them impossible Quests. For those of us with stronger principles, it makes us give up those principles to ascend.”
+
+“So she wanted to escape the System?” asked Elise.
+
+“I guess,” he said. “And it’s understandable, I suppose. I will admit that I wouldn’t mind being free of it as well. But I would never do what she did. And I thought she wouldn’t either…”
+
+“I see…” she replied.
+
+She still felt like she was missing some pieces—namely what Titania’s Divinity Quest had been—but she thought she was getting a good understanding of the general picture. Titania believed that escaping the System was more important than whatever she had to lose to do it was. Oberon disagreed. As for why she had gone ahead and ascended without telling him, Elise could only assume it had something to do with the Divinity Quest. To find out what that was, though, she would need to talk to Titania again, and Titania had made it clear that wouldn’t be possible in the near future, so she was stuck at an impasse.
+
+She didn’t like the impasse. She completely understood Oberon’s position. She didn’t know what the System was trying to make him give up in order to ascend, but she suspected that she would be the same in his position. That made her worried about her ultimate goal of becoming a goddess, but she set that thought aside for the time being as she continued thinking about Oberon and Titania.
+
+A thousand years of friendship might have ended in an instant, but the feelings that came with it didn’t. Titania still longed for Oberon, and deep inside, Elise suspected Oberon felt the same about Titania. But her betrayal had ruined that relationship seemingly beyond repair. Elise wanted to believe that it could still be fixed. That Titania had a good reason for doing what she had done. And even if she didn’t, leaving everything unresolved like this felt unpleasant.
+
+What if Titania really did die without ever talking to Oberon again? Neither of them would ever get closure. The feelings would remain, and Oberon would never know the truth, whatever the truth might have been.
+
+“Have you not talked to her since she ascended?” Elise asked.
+
+“Once,” he said. “She visited me in my dream. Tried to tell me something. I ignored her and told her never to talk to me again. She hasn’t contacted me since. Not directly, at least.”
+
+“You… You didn’t even hear her out?”
+
+“Nope.”
+
+“Weren’t you curious?”
+
+“I was, which is why I didn’t listen. What if she had convinced me that she had a good reason?”
+
+“...Yeah. What if she had? Wouldn’t that be good? You could reconcile.”
+
+“Maybe,” he conceded. “But what about after that? I would trust her again. And she would have gotten away with it with no consequences. What if she did it again? What if she found another very good reason? Or what if she convinced me to follow her? To take after her and abandon myself for a little bit of extra power. No thanks.”
+
+“So you ignored her for a what if?” asked Elise. “You were so scared of reconciliation that you ignored her?”
+
+“Correct.”
+
+“But–! That’s–!” Elise sputtered. “You were friends for a thousand years, and you couldn’t give her a few minutes to try to explain herself?”
+
+“We were friends for a thousand years and she couldn’t take a few minutes to explain things to me beforehand. Why should I give her those minutes back now? She had her chance.”
+
+Elise opened her mouth to speak, but Oberon cut her off.
+
+“I think this topic has run its course. You can go tell Titania that I will not be joining her, and that I do not care if she dies, though she’s probably watching us right now and already knows. Anyway, you said you had other, more pleasant things to discuss, right? Let’s do that.”
+
+Elise didn’t want to move on, but there was a subtle undertone in his voice that made a chill run down her spine. She had to remind herself that the man in front of her was an ancient fey of unfathomable power, and even if she didn’t think he would seriously hurt her, there were other things he could do to make her day very unpleasant. She wanted answers, but pushing further now would only make it harder to get them.
+
+“I wanted to talk about aether and souls,” she finally said with a sigh. “I had a few questions about things like soul defenses and monster spawning and things like that.”
+
+“Ah, wonderful,” he said with a smile. “I happen to know a lot about those things.”
+
+The tension in the room soon faded as the conversation turned into a one-on-one lesson, and the mood became more upbeat. Oberon gave her a few small tips on soul defenses, as well as making laws for her soul and Domain. He also explained monster spawning in a little more detail for her. In short, no, even after gaining {Aether Manipulation}, she would not be able to spawn her own monsters. She could certainly spawn things known as “summons,” which looked and acted like monsters, but lacked souls. Souls could be manipulated, but not created, even by the most powerful of aether users.
+
+When Elise returned to Jelor City, she had just as many questions as when she had left, but she was still somewhat satisfied with the answers she had gotten. She was also worried, both about Oberon and Titania, and also about herself. The revelation that the System was a shackle for reaching divinity was a large one. Would it give her an impossible Quest, or one that she would have to lose herself to complete? Neither sounded good.
+
+But, it wasn’t a problem for the current her. There was nothing she could do about it. She would just have to overcome that obstacle when the time came.
+
+As she lay in bed, thinking about her conversation with Oberon, her mind started drifting to the other 9th tiers she knew of. What was Irylax’s Divinity Quest? Did dragons even have Divinity Quests? She had never had the courage to ask Irylax directly how things worked, but she knew some of the normal rules did not apply to dragons. Did that include the one on divinity?
+
+What about Rayna? What was she after? Elise didn’t know the vampire woman well enough, but it was now obvious that she wasn’t trustworthy. She was clever enough to trick the king of the fey himself. Elise wouldn’t have been surprised if all her help was just an act. Just like Freddy.
+
+As her mind turned to Freddy, she realized that despite knowing more about the ancient demon than ever, she only felt further from knowing his intent. The knowledge of his past, and of how Divinity Quests worked did nothing to alter the two possibilities she had in mind. Either he was a sinister psychopath, willing to do anything to achieve divinity, or he was doing his best to overcome the System’s limitations, aiming for those with the Rune of Fate to try to break past his Quest. She had a bit more insight into why he might have been targeting those with the Rune of Fate specifically, but where his motives and morality lay was still an utter mystery.
+
+She eventually shook herself from her thoughts, sitting up to enter soul meditation so she could try some of the tips and tricks that Oberon had given her. As usual, her skill in manipulating her soul was slowly increasing, but after her talk with Oberon, she seemed to have taken a small leap. He hadn’t actually given her anything specifically useful. Most of what he had done was just give her some affirmation on how things worked.
+
+For example, he confirmed that visualization and resolve were important, and simply by doing that, Elise became more confident, and therefore, her resolve strengthened. She still could not do much, but it was more than before.
+
+That night, she dreamed of a squirrel sitting on a throne carved from an acorn, a tiny Titania sitting on its shoulder and whispering in its ear. This was almost a direct scene from one of Oberon’s stories about their early days conquering the area that would later become Everspring. Seeing it rendered in her dreams made her laugh, but she woke up feeling sad.
+
+That day, Elise’s morning classes passed by uneventfully, and she expected Aetheric Illusions to be the same, since it was a lecture class and not a practical one, but as soon as she got inside, Jessie hit her with an absolute nuclear missile of a telepathic message.
+
+“Elise!” she said, practically vibrating with excitement. “My {Rune of Fate} changed last night!
+
+In the divine realm, Titania was known as one of the most cheerful goddesses, always smiling, and never taking anything too seriously. She was easy to befriend, mischievous, and all around a lively addition to any conversation.
+
+None of those traits were visible on her face as she watched over the conversation between Elise and Oberon. Her face was stony and emotionless, and her body was limp as she lay in a bed, staring up at the display hovering above her.
+
+Where did it all start to go wrong? she wondered.
+
+It wasn’t supposed to be like this. She and Oberon were supposed to be together. She thought he would follow her. He always had before, but this time, he had not. In fact, he had resolved himself never to follow her.
+
+Her Divinity Quest had been simple. Confusingly so. After what she and Oberon had learned, she was expecting something impossible, but hers was neither. All she had to do was choose to ascend.
+
+She didn’t mean to do it when she did. She had just been laying around, thinking about how she would like to be a goddess, and the System evidently deemed that was enough. Her resolve was her decision. She had chosen to ascend, so the System decided when. It was so simple. Too simple.
+
+And it was only after she ascended to godhood that she realized why. Her Divinity Quest wasn’t impossible, but it did force her to leave part of herself behind. That part was just not what she had expected. Unlike Oberon, she had no qualms with ascending. Becoming a goddess did not go against her principles. All it did was tear her from her other half. From Oberon.
+
+“You can go tell Titania that I will not be joining her, and that I do not care if she dies, though she’s—”
+
+Titania cut off the feed of the conversation. She couldn’t watch any longer. For a while, she just lay in her bed, staring blankly up at the starry sky of her divine realm. Then, she slowly turned her head to the side to look at the presence that had joined her just a moment prior.
+
+“Took you long enough,” she said.
+
+An enormous dark silhouette with slitted yellow eyes stared back at her from the empty field she had laid out a few days prior.
+
+“You are not resisting?” he rumbled.
+
+“What could I do against the dragon god?” asked Titania.
+
+“I am pleased that your intelligence was not just a rumor.”
+
+“I’m flattered,” she replied. “But is this really necessary? Does the great dragon god really need a hostage to threaten his newly ascended daughter?”
+
+“Of course,” he said. “She is my daughter, after all. I’m sure she’s preparing all kinds of things for me. If I am not forced to use you, I will be disappointed.”
+
+“Is it not cowardly to not only use a hostage, but to wait in ambush for a new goddess?”
+
+“Perhaps,” he said. “But if anyone can overcome this, it is my daughter.”
+
+“You have an odd idea of what it means to be a parent.”
+
+“So I’ve heard. Now, enough chatter. Are you going to make me carry you?”
+
+“You are here to capture me. I should at least make you do some work.”
+
+The dragon god chuckled, and Titania felt a gentle, but inexorable mass of mana wrap around her, lifting her off her bed.
+
+“I’ve prepared a lovely cage for you,” he said. “I hope you find it comfortable.”

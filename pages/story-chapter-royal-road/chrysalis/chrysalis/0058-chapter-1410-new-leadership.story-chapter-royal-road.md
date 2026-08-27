@@ -1,0 +1,89 @@
+---
+id: c30d899c-bcde-5db1-82da-79d94e314735
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1410 - New Leadership"
+slug: 0058-chapter-1410-new-leadership
+partOf: chrysalis
+position: 58
+ownLength: 1228
+unit: words
+ownProgress: 1228
+publishedAt: 2024-09-17
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1806969/chapter-1410-new-leadership"
+royalRoadId: "1806969"
+markedReadAt: "2026-06-29T19:45:29.272Z"
+---
+
+“There isn’t time! We need to abandon the Slimeground!”
+
+“Are you a traitor to the tribe? We fight!”
+
+Zluth could hear the heated argument even before he arrived. He’d pushed himself to the limit to race back through the twisted and narrow gaps between the tunnels, and even so, he’d barely returned ahead of the flood of deadly blue mana that had begun to fall deeper into the stratum.
+
+He burst into the opening, only a few hundred metres from the hidden entrance to the tribe's home, to find a large gathering of Krath, almost the entire Slee tribe, furiously arguing the next course of action. Surprisingly, the Krath’lath was still alive, swelled up to her largest size as she attempted to intimidate the others into submission.
+
+As he approached, he could smell the fear, rage and desperation in the air. It was a heady mix, and dangerous as well. This many of his people together, with this heightened atmosphere, could lead to the destruction of the tribe as they frenzied and destroyed each other until only a few remained.
+
+Although it was perilous, this was also a moment of opportunity. Boldly, he pushed himself into the middle of the gathering, a thick trail of slime left in his wake.
+
+“The ants are coming,” he announced loudly, causing eyes atop their stalks to turn towards him. “They’ve begun tunnelling directly down towards us, spreading the blue mana down as they go. It won’t be long until they reach this place.”
+
+“That’s impossible! There’s no way they could know where the Slimegrounds are hidden!” someone protested from nearby.
+
+“They don’t,” he replied confidently, “but it won’t matter. They are simply digging down over a wide area. Unless they stop before they reach us, they’ll be here in a matter of hours.”
+
+“You appear now. Where were you with this intelligence when our tribe fought the invaders directly?” the Krath’lath spat, acid bubbling from the surface of her flesh. “Our beasts were destroyed, our warriors poisoned, while this coward huddled in the crevices.”
+
+It was an attempt to turn the ire of the tribe away from herself and onto another target, but it was weak. She’d reminded them of the failed attack herself.
+
+Zluth drew himself up even taller, not retreating from her larger form in the slightest.
+
+“I was scouting, alone, as my Krath’lath had ordered. I’m surprised you have even shown your face here after the disaster you’ve caused. The Slee tribe has never been weaker than we are now, without our pets, with only immature and undeveloped Blubbeasts, and now forced to flee our Slimegrounds and face the wilds alone! You have brought the tribe to the brink of destruction!”
+
+The stench of rage and fear only intensified with his words, escalating the tension to the brink of disaster. The Krath’lath sensed it too, spreading her many, stick-thin clawed arms wide as she opened her maw to reveal her needle-pointed fangs. Several nearby Krath moved back from her, wary of her fury, but many others did not, which Zluth noted with glee. The fear of her was failing. The rest of the tribe knew exactly who was to blame for this latest failing.
+
+“My only mistake was in trusting the information my scouts had provided,” she hissed, slithering towards him, her eyes bulging red and full of menace. “Had we known the ants were capable of spreading their poison as they did, we would have succeeded in driving them back!”
+
+Again, she tried to deflect the blame. Someone would have to pay for the failure that had occurred today, and every slug in attendance knew it. With one eye, Zluth sought out Gozsi in the crowd, who caught his look and nodded slightly. He was ready.
+
+Acid burned like fire through Zluth’s body as he prepared himself. This was the moment; if he was successful here, he would become the leader of the Slee, but if he failed, he would be consumed instead. If Goszi was legitimate in his offer of support… he had a good chance.
+
+“This is why you are a failure, not only as Krath’lath, but as a Krath!” he roared, and the crowd hissed at his declaration.
+
+The Krath’lath surged forward, maw wide, but the tribe was there, throwing themselves on her and pulling her back. They wouldn’t allow her to simply devour the challenger to maintain her rule. It was the most devious and cunning Krath who led, not the strongest.
+
+“Why would you risk so much, an all-out attack, draining the strength of the Slee, when you knew so little? The ants moved quickly, and you panicked. Overconfident and uncautious, the opposite of a true Krath’lath!”
+
+“We are the masters of this domain!” she roared. “Would you have us sit to the side and allow them to invade? Take what is rightfully ours? You have proven yourself to be a coward over and over again!”
+
+“You call me a coward, when I have spent more time at the edge of the invasion than any other member of the tribe? How close were you? When the mana surged forward and our warriors were poisoned, where were you standing, Krath’lath?”
+
+He didn’t wait for her to reply, instead turning his attention to the surrounding Slee.
+
+“It’s a good thing I remained at my post, because I have learned the true extent of what we face! With a more wise and cunning leader, we could face the onslaught with our full strength, but instead we are diminished due to the rash, idiotic commands of this fool!”
+
+“What do you mean?” Gozsi demanded, sliding forward out of the crowd. “What do we face?”
+
+The Krath’lath remained pinned to the ground, thrashing and growling, unable to control her rage. Zluth felt a surge of triumph as he delivered the terrible truth.
+
+“Once the ants had fought off the tribe, their true masters began to descend into the fifth,” he spoke boldly. “Human soldiers and mages moved among them without fear.”
+
+The atmosphere amongst the gathered Krath instantly changed. A monstrous incursion had changed to an invasion by the humans? Was the Child Emperor behind this?
+
+That was much more serious.
+
+“But that’s not all,” Zluth continued, snatching their focus back to himself in an instant. “I saw golgari amongst them as well.”
+
+The Empire of Stone as well! The Krath hissed, fearful.
+
+“And ka’armodo, and Folk, and the bruan’chii!” he declared finally.
+
+There was silence as the Slee processed what they had heard. Had the entire world united against them? Would this be a war for the very survival of the fifth?
+
+Eyes, red with incandescent rage, turned toward the Krath’lath, still held down by fellow members of her tribe. In the face of such raw anger, even she was able to seize control of herself. Finally, Zluth saw it, the fear in her eyes.
+
+“I will lead us into the wilderness,” Zluth declared. “Only the gathered might of the tribes will be able to stand against this enemy. Gather what you can from the Slimegrounds, but we have only a short time before we leave.”
+
+Some of the Slee had already turned to race back into the hidden home of the tribe, whereas others waited, knowing what would come next.
+
+“Now let us dispose of this fool,” Zluth declared, teeth flashing in an evil grin.

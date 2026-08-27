@@ -1,0 +1,123 @@
+---
+id: 1add62b5-c475-5153-9dfe-0d94c33c95a6
+page-type-slug: story-chapter-royal-road
+title: "191: Person of Interest"
+slug: 0191-191-person-of-interest
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 191
+ownLength: 1826
+unit: words
+publishedAt: 2026-08-24
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3858801/191-person-of-interest"
+royalRoadId: "3858801"
+---
+
+By the time Chloe scrambled back to her feet, Z was already trading blows with Administrator A once again. This time, though, Z looked like she'd figured him out. Every punch and kick Administrator A threw was perfectly countered, and before long, she had forced him onto the defensive. Golden light gathered in her hand, forming a radiant sword. Then, Z drove the blade straight through Administrator A's chest.
+
+Hah! Looks Z's got this covered.
+
+Instead of looking relieved, Z's face suddenly went completely pale. Her eyes widened as she stared at Administrator A for a second before immediately snapping toward Chloe. "Move!"
+
+In the next instant, Z vanished. Chloe barely had enough time to blink before she suddenly found herself being scooped off the floor in a princess carry. "Hey!"
+
+The world became a blur as Z took off at full speed, sprinting through the office faster than Chloe had ever seen her move. Rows of servers flashed past in streaks of blinking lights while everything else became little more than colorful smears. Chloe opened her mouth to ask what in the world was happening, but before a single word could leave her lips, Z dove behind one of the massive server racks and thrust out a hand. A shimmering golden barrier sprang into existence around them just as an explosion erupted from the meeting room.
+
+A deafening roar tore through the facility as the shockwave slammed into the magical barrier, making the golden shield ripple violently. The lights flickered, and Chloe heard countless pieces of metal screaming apart as server racks toppled somewhere beyond their cover. Hot air and dust rushed around the edges of the barrier while chunks of shattered concrete and twisted steel hammered against it like a relentless hailstorm. Chloe instinctively buried her face against Z's shoulder as the entire office seemed to shake itself apart.
+
+It took some time before the deafening rumble finally died away. The dust hanging in the air slowly began to settle, revealing that Z's golden barrier was still standing, though faint ripples continued to travel across its surface from the force it had absorbed. Chloe carefully lifted her head from Z's shoulder and looked at the mess surrounding them.
+
+Several server towers had toppled over, leaning against the barrier at awkward angles, while chunks of concrete and enough miscellaneous debris to build a small junkyard had piled up around them. Looking back toward where the meeting room had been only made things worse, since the place looked like a total mess with rubble almost completely covering the entrance.
+
+Z exhaled before looking down at Chloe. "Are you alright?"
+
+Chloe blinked a couple more times, quickly patting herself down just to make sure all of her important body parts were still attached. Head? Check. Arms? Check. Legs? Also check. "Um... yeah, thanks, Z."
+
+Z gave a slight nod in return before surveying the surroundings. "Good. Now we simply need to find a way out of this."
+
+"Oh! I can help with that."
+
+She focused on activating her Eyes of Dominion. Invisible force surged outward, and the server towers groaned as they slid aside across the floor. Chunks of concrete, bent support beams, and countless smaller pieces of debris were shoved away alongside them, clearing a path within seconds. "Ta-da!"
+
+Once the way was clear, Z offered Chloe a hand and helped pull her back to her feet before allowing the golden barrier to dissolve. She looked toward the ruined meeting room for a long moment, looking thoughtful rather than relieved. "Administrator A is still alive."
+
+"Wait, but how?"
+
+"The individual I fought was merely a mechanical body. A remarkably sophisticated one... but not the real Administrator A."
+
+Chloe dusted herself off before looking over at Z. "Awww, so what do we do now?"
+
+"I suppose our best course of action is to find Percy and Liz. Hopefully they're holding up better than we are."
+
+"Yeah… knowing our luck so far, they've probably found another giant robot or something."
+
+***
+
+As Chloe and Z made their way toward the Records Office, Chloe couldn't help feeling a little uneasy. She kept telling herself Percy and Liz were probably fine, but after everything that had happened today, from giant robot dinosaurs to exploding fake administrators, she couldn't quite shake the feeling that something had probably gone horribly wrong while they were gone.
+
+But, when Chloe and Z finally reached the Records Office, they found Percy and Liz sitting among stacks of documents and files rather than piles of broken robots. Judging by the neatly organized papers spread across several desks, the two Fallen Angels had already finished searching through everything worth reading.
+
+Chloe felt relieved to know that nobody had exploded or gotten chopped into separate body parts this time. That was honestly a pretty big win by today's standards.
+
+Not long afterward, the four of them gathered around a small round table in the corner of the Records Office. Liz leaned back in her chair, resting one arm on the tabletop as she looked between Chloe and Z. "So, how'd things go for you two?"
+
+Chloe let out a dramatic sigh and slumped back in her chair. "Bad, we fought a fake robot version of Administrator A. The jerk then decided to blow up so… we couldn't get much else done after that."
+
+Z, seated beside her, adjusted her glasses before saying, "It could have gone worse."
+
+Chloe glanced sideways at her. "You know, somehow that doesn't make me feel any better."
+
+"Regardless of what transpired, Chloe and I still need to locate our allies. Administrator A neglected to mention where they were being held." Z said.
+
+"Actually, I think we've got that covered." Liz said.
+
+Chloe perked up. "Wait, really?"
+
+"Me and Percy managed to dig through a bunch of the company's records while you two were busy blowing things up. We couldn't find everything, but we did manage to narrow down where your friends are, and Greg too."
+
+Z adjusted her glasses. "Where?"
+
+Liz looked toward Percy, who gave his usual silent nod before reaching into a nearby folder and unfolding a large facility map across the table. The paper spread open with a soft rustle, revealing floor plans and labeled sections of the underground complex. Percy raised a finger and tapped a single location near the center of the map.
+
+Chloe leaned over the table until her face was practically hovering above it. The label read: Containment Area.
+
+"How do you know Greg's going to be there?" Chloe asked.
+
+Liz tapped a small stack of papers she'd pulled from the Records Office. "Transfer records. I found one for Greg a little while ago."
+
+She flipped to another page before sliding it toward the center of the table. "And these two were processed not long before yours. No names, but the timing lines up pretty well. I'm guessing they're your friends."
+
+"Sweet! So we just head over there, grab everybody, and get this whole thing over with." Chloe paused for a second before her smile turned slightly suspicious. "But, I'm like... ninety-nine percent sure that's exactly what Administrator A wants us to do. This has got to be a trap."
+
+"I agree," Z said with a nod. "If all four of us enter the Containment Area together, I suspect the exits will immediately seal behind us. We would effectively be trapping ourselves."
+
+"That's a pretty fair guess. So, do we actually have a plan?" Liz asked.
+
+"I believe I—"
+
+Z suddenly stopped speaking. And instead of finishing her sentence, she slowly looked upward.
+
+Chloe wasn't sure what Z was planning to do, but she soon saw golden light gathered around Z's fingertips, and without another word, she fired several narrow bolts of divine energy in completely different directions. The blasts struck seemingly empty sections of the ceiling and upper walls with sharp cracks of light.
+
+For about two seconds, absolutely nothing happened. Then, tiny devices no larger than Chloe's fist, tumbled onto the floor with metallic clatters, their cracked lenses still faintly glowing.
+
+Chloe exclaimed, pointing at one. "Cameras!"
+
+"They were concealed, Administrator A has almost certainly been observing us this entire time." Z said.
+
+After a brief glance around the room to ensure there weren't any more hidden cameras, Z returned her attention to the group. "Back to the plan, according to Divinity Inc.'s facility standards, every high-security containment floor should have its own independent power generator. If my assumption is correct, disabling that generator should release any electronic locks or containment systems on the floor. So, one of us should remain at the generator, ready to cut the power if the rest become trapped."
+
+***
+
+It had been a very long time since Ishgria had felt this tense. During her years as CEO of Divinity Inc., she had negotiated hostile takeovers, stared down board members who believed themselves untouchable, and made decisions that determined the fate of entire divisions without so much as breaking a sweat. Remaining calm under impossible circumstances had simply become second nature. Yet now, standing amidst the exhausted remnants of her team, she found that same composure being tested more severely than it had been in a long time.
+
+To say the situation had failed to develop in her favor would have been a remarkable understatement. She had managed to evacuate the majority of her personnel to relative safety, a success she would have gladly accepted under almost any other circumstances. Unfortunately, it had also bought Ymir a lot of time.
+
+Reports continued to arrive one after another, showing how Ymir's forces were advancing with alarming speed, systematically closing the distance as though every route of escape had already been calculated well in advance. It was a level of efficiency Ishgria knew all too well, because much of Divinity Inc.'s military doctrine had originally been developed under her own administration. Ymir had merely inherited the machine... and refined it.
+
+Thanks to intercepted camera feeds and carefully wiretapped data streams from Divinity Inc.'s internal servers, Ishgria at least knew one thing though, Chloe was still alive. Her daughter was moving throughout Tartarus, probably searching for her. The knowledge brought both relief and guilt in equal measure.
+
+Every instinct within Ishgria urged her to abandon everything and go to Chloe immediately. She wanted nothing more than to find her daughter, hold her close, and tell her that everything would be alright. But Ishgria couldn't just do that at the moment.
+
+The men and women who had escaped alongside her had entrusted their lives to her leadership. They looked to her not merely as a former CEO, but as the one person capable of getting them through what was coming. If she abandoned them now, they would almost certainly be overwhelmed long before Chloe ever found her.
+
+So she remained where she was, forcing herself to focus on the battle that lay ahead. Please stay safe, Chloe. Hold on just a little longer.

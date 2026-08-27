@@ -1,0 +1,117 @@
+---
+id: bdc77d16-397b-5071-8f41-1077fb014227
+page-type-slug: story-chapter-royal-road
+title: "183. A Business Arrangement"
+slug: 0183-183-a-business-arrangement
+partOf: breaker-of-horizons
+position: 183
+ownLength: 2016
+unit: words
+publishedAt: 2022-03-03
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/857077/183-a-business-arrangement"
+royalRoadId: "857077"
+---
+
+Bertram laughed heartily at Caden's reply as he ended the gestalt link. "I guess I deserved that."
+
+He seemed to be bearing Caden's reticence with good grace, but Caden wasn't quite ready to open up again. After the time he had to think during their walk over to the duelling compound, he had come to the realisation that while Bertram was pretty likeable, associating with him came with risks attached, and the payoff wasn't clear. It pained him to think in such mercenary terms, but Bertram himself had introduced that paradigm to their relationship with all his talk about cutting losses, and Caden thought it was prudent to really start thinking differently about how he associated with people in the Academy. After all, he was the only one completely free from prophetic links. Everyone else was an unwitting participant in the Fateweaver's webs, serving as potential levers of control that they could use to nudge him this way or that.
+
+He had the scanning pulse sequence now. And he had a bit more information about the state of the game board, as it were. Did he need any more from Bertram that would be worth their continued association, considering the risks?
+
+Bertram's laugh subsided as Caden continued to regard him in silence. He let out a sigh. "I know that look," he said with a rueful grin.
+
+"What look?" Caden asked, though he knew full well that Bertram had correctly guessed his thoughts. The question was more to buy time than anything else.
+
+"You're weighing my worth. Calculating the cost." Bertram spread his palms out in surrender. "So, what's the verdict? Do you want me to stick around?"
+
+Caden hesitated. He was actually quite impressed with Bertram's openness, and the brand of humility that enabled him to submit to this kind of 'judgement' from a mere first-year. Bertram obviously wasn't blinkered by an unfounded sense of superiority, and he had demonstrated a willingness to learn and exchange information as equals. On top of that, this was the first time Caden really felt like he was being treated truly as an equal that was liked. Ambrose as the Chosen One was, by his very nature, unable to view others as equals. Emilia was too aloof and clinical, even if she did respect his abilities. The twins always strove to bolster their ego, and were threatened by his superior arcanic ability. Jerric acknowledged Caden's capabilities, but their friendship was based more on professional respect rather than actual affinity because Jerric chose to be more reserved. And even Devon, whom Caden treasured the most, was at his core too scared of Caden to truly meet him at the same level.
+
+Bertram was the first to show unbridled enthusiasm and an eagerness to learn and be challenged, and offer knowledge, and even companionship of a sort, unhindered by ego or bitterness. And that, Caden mused, had its uses. He was no longer a close-knit part of the Six-Chained-Foundations. There was a need to fill. A large part of his rapid progress in the first term could be attributed to how everyone in the group had spurred each other on to greater heights. Now that he was cut off from the Chosen One's crucible, he needed to form his own if he wanted to consolidate his knowledge and expand his powers.
+
+"To be clear," he began slowly, "you're just asking to stick around? So we just meet up, study, swap notes, practice with each other... and you won't pester me about becoming your business partner, or press me for personal information any more?"
+
+"Well, I mean, if that's what you want," Bertram said. "But I'm totally open for further collaboration and exchange of information."
+
+"At what cost?" Caden asked, his eyes narrowing.
+
+Bertram flashed his all-too-familiar grin. "That depends on the ask, doesn't it? I'll tell you right off the bat that I am very interested in your ability to communicate through the arcana without a gestalt connection, and your ability to eavesdrop on the internal communications of a foreign gestalt."
+
+"And for information like that, what might I get in return?"
+
+Bertram pursed his lips as he thought it over for a moment. "I can give you a full run-down of the politics of the Academy."
+
+Caden frowned. "An advanced arcanophanic communication technique, in exchange for info on who likes whom, and who's gunning for the top job?" he asked skeptically. "Is that really a fair exchange?"
+
+"You're oversimplifying and undervaluing the info!" Bertram laughed and wagged a finger. "You'd make a great partner. But if you meant that question seriously, then it just goes to show how much you really do need that run-down."
+
+Was Bertram doing the opposite, and overstating the value of his information? Caden honestly didn't know enough to make that judgement, but he was leaning more towards believing Bertram's representation. However, he wasn't willing to give out such valuable information just yet. "What if I just want a partial picture? Some hints?"
+
+"You know, you're such a unique case that I'm willing to try something different," Bertram said, tilting his head. "From what I've seen, your arcanophanic ability is really far beyond a first-year. I don't know whether that's what attracted the Demiurge to you, or whether it's because you're favoured by the Demiurge."
+
+He paced a little, getting more serious. "But that doesn't matter. What matters is that you're really good. And I just want a chance to catch what I can by watching you or listening to you. So how about this — for every scrap of knowledge I get, I'll offer up what I believe is a fair amount of information. Now I know this means I end up being the one who gets to place the value on everything, and this makes the whole arrangement totally dumb in normal circumstances..."
+
+"Yeah, I'm not exactly a businessman and even I can see that," Caden interjected, shaking his head.
+
+"I know, but hear me out!" Bertram raised a placating hand. "We only have this arrangement for... let's say, a month. At the end of that month, regardless of how much I've managed to learn, I'll just give you the full run-down."
+
+"Why a month?" Caden asked, wondering if perhaps it was because by then the information would be useless, though he decided against openly questioning Bertram's sincerity.
+
+"Because that gives me a fair amount of time to make progress," Bertram answered. "But we can negotiate the duration if you want."
+
+"How about two weeks?"
+
+Bertram winced, then shrugged. "For two weeks, I'll explain the political game, but not the full state of the people in play."
+
+"You've already told me what the game is. Professors jockey for the Demiurge position, and that sometimes involves students," Caden pointed out.
+
+"Nope," Bertram shook his head. "That's the gist of it. You don't know the details of how it works."
+
+"I won't really need to if I don't intend to participate though," Caden pointed out.
+
+"That's true," Bertram conceded. "But unless I'm very much mistaken, you already are a participant, unless you intend to tell the Demiurge to bugger off and leave you alone. If you're in a middle of something this big, don't you think it'd be wiser to know the full picture?"
+
+Caden couldn't argue with that. He had spent all of the last term running from one crisis to the next, stumbling into ever-deepening mysteries. It would be such a relief to be able to get a handle on things for once. And if the Demiurge position was involved, then there was a good chance that it would involve a little of the Fateweavers' plans, given the nature of the position. This was potentially important information, not just at the Academy level, but at the Prophecy level.
+
+"Two weeks first, then," Caden said eventually. "And after that, we can revisit our arrangement."
+
+"Deal!" Bertram grinned and eagerly stuck out his hand. Caden hesitated and offered his, and winced as Bertram shook it enthusiastically.
+
+For the moment, Caden didn't have any little scraps of arcanophany he was ready to parcel out in exchange for information from Bertram, so he ignored Bertram's pleas for a continued session and suggested they both make their way to the next class ahead of time. They left the duelling compound and took a slow walk back to the smaller training rooms, and the conversation turned to Bertram's past.
+
+He was surprisingly forthcoming in his sharing, and happily gave Caden a brief synopsis of his life and family. He was born the third child of a relatively well-to-do family, and was the first to possess significant arcanophanic aptitude. Once that was identified, he was put in an arcanophanic preparatory school to develop his abilities, and he made it into the Academy with no problem at all. His father was a detective (much to Caden's surprise) and his mother was a businesswoman, though she lost her life in an accident when Bertram was only ten. His brother, the eldest of the three, was currently enlisted in the Imperial Army, and his sister was in her final year in engineering.
+
+"But then... why the smuggling?" Caden asked, bewildered. "Especially with your dad as a detective?"
+
+"Eh, it kinda just happened. I knew about this stuff because my dad's work sometimes involved illegal artefact trading, or leaks of classified sequences... and in my first year, I managed to catch someone in the act."
+
+"Like... intentionally?"
+
+"Fancied myself a detective like my dad," Bertram grinned. "That was the fun goal I set for myself. I wanted to gather enough evidence and hand it over to my dad. Be responsible for catching a smuggler from the inside."
+
+"And did you go through with it?"
+
+Bertram laughed. "Obviously not. The guy offered me a cut of all his business if I didn't snitch on him, and also said he'd 'introduce me to the industry'. And I just thought... why not?"
+
+"... Why not?" Caden echoed blankly.
+
+"Yeah, and one thing led to another, and here I am!" Bertram gestured dramatically. "Done pretty well, if I do say so myself."
+
+"But... your dad?"
+
+Bertram frowned. "You know, I'm beginning to think he might be on my trail, closing in from the outside. I've lost a few contacts and there are some things about how they were nabbed makes me think it was my dad that nailed them."
+
+Caden could only stare at him, bewildered by this utter lack of concern. He was beginning to wonder if Bertram was a sociopath.
+
+"Which is why I would really like a competent, intelligent partner," Bertram said, grinning once more as he turned to Caden. "So think about it, will you? Of course, this is assuming Leyla doesn't turn out to be the better candidate."
+
+That brought Caden up short, and a thought occurred to him, though he felt a little embarrassed by how egotistical it was. Still, he felt like he had to ask. "Does she still stand a chance? I mean, given what you know now about me."
+
+Bertram snorted. "You may be very advanced in terms of arcanophany, but there's more to this line of work than fancy frameworks or sharp sequences," he said, wagging a finger. "Don't underestimate Leyla. You'll regret it."
+
+"Why? Is she dangerous?"
+
+"She's a Top-Scorer, Caden," Bertram said darkly, and Caden couldn't tell if he was being dramatic or sincerely serious. "We're all dangerous."
+
+They were almost at the training room now and there were plenty of people around, so Caden didn't pursue the matter further. But Bertram's words did make him wonder about the extent of Leyla's capabilities. He was an outlier himself, perhaps largely thanks to Prophetic influence. But Bertram was clearly cut from a different cloth than the other ordinary arcanists too, and his exceptionalness wasn't so easily explained. If he respected Leyla's abilities enough to consider her a prospective partner too, what did that say about the flustered, helpful girl he had met?
+
+They were supposed to have lunch tomorrow. Suddenly, Caden found himself dreading that meeting a little.

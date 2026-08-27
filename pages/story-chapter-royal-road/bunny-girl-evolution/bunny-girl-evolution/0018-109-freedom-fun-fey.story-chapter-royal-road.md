@@ -1,0 +1,198 @@
+---
+id: bacf2a6d-5e29-586a-8eab-75c077fe753a
+page-type-slug: story-chapter-royal-road
+title: "109 - Freedom, Fun, Fey"
+partOf: bunny-girl-evolution
+position: 18
+ownLength: 3118
+unit: words
+ownProgress: 3118
+publishedAt: 2025-06-24
+link: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/2381070/109-freedom-fun-fey"
+royalRoadId: "2381070"
+markedReadAt: "2026-06-29T20:03:14.601Z"
+---
+
+Elise immediately perked up when she heard the title of the book, and she grabbed the catalog again and found the item. {Mind Control} sounded like it was a bit beyond what she wanted to do, but “and similar skills” sounded useful. She knew she was probably getting the best possible education on those skills from Oberon, but she also liked being able to do research on her own. It crossed her mind that Oberon had put these books in the auction himself, but the catalog said that it was a book with a long history that some famous mental skill users swore by, so that was enough for her. Even better, she already knew how it would fit in with her current persona.
+
+“150 from the gentleman in the red hat!” said the auctioneer. “Do I hear 160?”
+
+Elise took her paddle from the table and raised it. She had barely even begun the motion when the auctioneer noticed.
+
+“160 from the young lady on the balcony! Do I hear 170?”
+
+Elise felt a slight static shock from the paddle as her bid was acknowledged, and then another a moment later when someone outbid her. Two more bids went by almost instantly before Elise bid again. Three more raises followed before a deep voice rang out over the room.
+
+“500!”
+
+The speaker was a tall man on one of the highest balconies on the opposite side of the room. His proclamation was followed by whispers around the room as the auctioneer spoke.
+
+“500 from the gentleman in the balcony! Do I hear 510?”
+
+Elise raised her paddle.
+
+“600!” said the man opposite her almost immediately.
+
+Elise scowled. 600 gold was enough to feed an entire village for a year. Even bidding 510 had hurt her, and now this man was raising even higher. Could she really justify spending this much on a book that contained information she could probably already get from Oberon?
+
+Well, it’s not my money, she argued. I’m Lady Eliza Wagner.
+
+“600 going once! Going-!”
+
+“1000!” said Elise as loudly as she could without shouting.
+
+“1000 from the lady in the balcony!” said the auctioneer. “Do I hear 1010? Is anyone willing to raise the bid further? 1000 going once! Going twice! Sold! Congratulations to Lady Eliza Wagner! Now, the next item is…”
+
+Elise felt another buzz on her paddle as she leaned back in her share. Half of her was happy at having gotten the books, and the other half was nervous she had done something wrong. The man she had outbid was scowling at her from across the room, and after a few seconds, he leaned over to a servant standing at his side and said something. The servant nodded, then retreated into the shadows.
+
+Uh oh.
+
+“Mind Control?” asked Franz quietly, putting his arm around her and his hand on her hip. “Should I be concerned?”
+
+Elise shifted uncomfortably at his touch, and gently pushed his hand away, but still faked a smile.
+
+“It’s for my collection!” she said. “I’ve been looking for a good copy of this for a while.”
+
+“Well, what are you going to do with the other 9 copies?”
+
+He settled his hand on her shoulder, which Elise also found uncomfortable, but reluctantly let stay to not break her cover. Then, she smiled again as she answered.
+
+“Hide them. That way if the first one gets confiscated, I have backups.”
+
+Franz let out a hearty laugh that caused the people on the nearest balcony to look at him oddly before his face turned serious again.
+
+“Was offending Duke Larcombe intentional?”
+
+Elise glanced at the dark-haired man who was still shooting occasional glares her way.
+
+“No,” said Elise. “But it should be fine, right?”
+
+“Do you not know why he was so intent on getting those books?”
+
+Elise gulped. This felt like something she should have known, but she had never even heard the name Duke Larcombe before, let alone what he might need 10 books on mind control for. The possibilities she could think of weren’t good, but she could only shake her head and feign innocent ignorance.
+
+“No,” she said.
+
+“The Larcombe family works directly with the royal family to manage Jelor. They are a somewhat mysterious house, but it’s an open secret that they are the ones in charge of handling matters… in less public ways. Assassination, manipulation, espionage, and subterfuge. While I can’t say for certain what he wants with those books in particular for, there are only two possibilities I can think of. Either he needs them for his subordinates, or he wants to make sure that no copies are owned by anyone else.”
+
+I messed up, thought Elise.
+
+“He won’t try anything here,” said Franz, probably seeing the look on her face. “But he will likely try to buy the books off of you, or at least trade you for them.”
+
+Elise hoped that’s all the servant was coming to do. She wasn’t sure if she could handle an assassination attempt at the moment. Especially not from the most powerful nation’s most elite assassin squad. But that wasn’t going to happen. Oberon wouldn’t have set her up like that.
+
+…Right?
+
+The rest of the first half of the auction without much incident. Elise paid a bit more attention for this part, and read through the catalog. She even placed a few bids on things that looked useful, like powerful healing potions and mana-replenishing pills. She didn’t end up winning those items though, unfortunately. She had the money, but she felt it would be out-of-character for the reclusive, book-loving noble lady to spend so much money on items usually meant for knights and monster hunters and other combative professions.
+
+During this time, Franz occasionally got a bit adventurous with his hands, but she gently rebutted him every time while doing her best not to make her distaste too obvious. He relented when she resisted, but never for that long.
+
+The final two items in this half from the new continent were both live specimens. The first was a literal tyrannosaurus rex. It was chained up and sleeping on a cart the size of a semi truck, and it took four armored knights to get it out onto the stage for display. The auctioneer said it was a 6th tier monster, and it had no magical abilities, meaning its physical stats were incredibly high. The bidding for that rapidly climbed past 5,000, ending when a elderly woman on the ground floor raised the bid to 8,000, scaring off the rest of the competitors.
+
+“Why was the starting bid so low?” asked Elise.
+
+“A few reasons,” said Franz. “First was to build up anticipation for future items. Just think: if something this valuable started so low, imagine how valuable the final item must be. Second is that they were absolutely willing to part with it for that price. It is certainly a valuable specimen, but keeping such a monster contained is astronomically expensive. Especially since it does not use any mana-based skills. With monsters that rely on mana, you can slap a pair of mana-draining cuffs on them and they become harmless. With this? You need specially crafted restraints capable of withstanding what should be well over 2000 Strength, and that’s not even taking any sedatives into account. Every day they keep that thing here probably costs them dozens of gold or more. They want to be rid of it, even if they have to part with it at a low price.”
+
+The second monster was much smaller, and much friendlier-looking. It was even allowed to be awake, though it was kept in a glass cage. It looked like a cross between a puppy and centipede, but in the cutest way possible. It had a dozen legs and was coiled up like an odd snake, and its tail was wagging as it stomped around its cage, looking excitedly at all the people around.
+
+“This is a brand new, never-before-seen species fresh from Carsas,” said the auctioneer. “It’s only tier 2, and as you can see, it is quite docile. This species does not yet have a name, and the right to name it is included with its sale. Early experimentation has shown that this creature is rather intelligent, and very receptive to learning new commands. It would make an excellent and unique pet for anyone who desires it. Bidding starts at 1500!”
+
+The excitement for this creature was even greater than it was for the T-Rex. Someone decided to skip the formalities and directly raise the bid to 8,000, and it didn’t stop there. Elise bid on it once, debated trying to win it herself, but when the price climbed to 12,000, she decided to give up. She still didn’t know what she was supposed to be getting after the auction, so she needed to save her money, and at the end of the day, it was just a puppy. A very cute, very strange puppy, but still just a puppy.
+
+The final price for the puppy was 15,500, and it went to one of the groups in the top level of the balconies to the great jealousy of everyone else. The auctioneer then thanked all the attendants for the bidding so far, and dismissed them for a twenty minute intermission. The second that the dismissal happened, there was a knock on the door behind Elise and Franz.
+
+Elise was immediately on guard, and was prepared to attack or fly away if needed, while Franz walked up to the door.
+
+“Can I help you?” asked Franz.
+
+“May I please speak with Miss Eliza?” said another man’s voice.
+
+“About what?”
+
+“I was sent by Duke Larcombe. He wishes to negotiate for the sale of the copies of {Mind Control} and Other Similar Skills and How to Use Them.”
+
+Elise glanced back at the other balcony, where the dark-haired man was still staring at her. Then, she looked back toward the door where his servant was waiting on the other side.
+
+“Let him in,” she called to Franz.
+
+Elise stayed on guard, but she forced herself to relax a bit as a young man entered and bowed to her.
+
+“Ms. Wagner, I’ve come to bring an offer from Duke Larcombe. As far as the duke is aware, you have no use for the additional copies of the book. However, the Larcombe family does. Would you be willing to sell all but one?”
+
+“Yes,” she said. “I only need the one.”
+
+“Wonderful,” said the servant with a warm smile. “The duke would like to invite you to his balcony to discuss the price of the sale. Would you mind following me?”
+
+Elise glanced at Franz who nodded and smiled.
+
+“I have someone else I wanted to meet with during this intermission,” he said. “You’ll be in good hands with the duke. I’ll see you again in twenty minutes, dear.”
+
+“Alright. Bye, love.”
+
+Elise grimaced internally as she said that, but her acting seemed to be fine, since the servant didn’t react. Franz blew her a kiss, then slipped outside, his footsteps joining the dozens of others moving about. For a split second, Elise felt like she was making a mistake letting him go on his own, but by then, it was too late. When she and the servant made it to the hallway, he was long gone.
+
+I’ll cross that bridge when I get there.
+
+The duke’s balcony was much more lavish than the one Elise and Franz shared, and also much more… laid back than she expected. In the part that was exposed and visible to the rest of the room, there was a simple couch where the had been sitting, similar to Elise and Franz’s, but wider, but they had nearly a full suite behind that part. When she walked in the door, to her left, there was a round table where four armored guards were playing a game of cards, and to her right, there were three couches arranged in a U shape.
+
+The duke himself was sitting on one of these couches, much more relaxed than he had appeared in front of the crowd. His gaze was still as stern as ever, but given everything else happening in the room, Elise was beginning to think that maybe that was just his resting face, and he wasn’t actually angry with her.
+
+“So, I take it that you’re willing to sell the extra copies then?” he said as soon as she entered.
+
+“Yes,” said Elise.
+
+“I’ll buy them for what you paid for the full set,” he said. “That should be alright with you. I’d rather not waste time negotiating.”
+
+“Yes, that’s fine,” said Elise, a bit taken aback, but not so much that she forgot to activate {Fey Bargaining}.
+
+[ {Fey Bargaining} has leveled up! 44 -> 45 ]
+
+“I knew it,” said the duke, suddenly leaning forward. “You’re a changeling, aren’t you.”
+
+For the first time, he smiled, which only made him look more terrifying, but whether it was {Sense Emotions} working subconsciously, or merely that Elise had gotten a good read on him, she didn’t feel like she was in danger. In fact, he looked happier than anything.
+
+Oberon, what the hell are you planning?
+
+Oberon, king of the fey, had a very pleasant life. He had control of an entire country with which he could do whatever he wanted, he had friends all over the world that he could visit as he pleased, he had subordinates that he could mess with however much he wanted. Every day was filled with fun, and he wouldn’t trade his life for anything.
+
+It was for this reason that even four hundred years after getting it, his Divinity Quest still remained unfinished.
+
+[ Divinity Quest: Choose to ascend ]
+
+[ Reward: Ascend to godhood ]
+
+Whenever he heard Freddy or Rayna or the other Executives complaining about their own Divinity Quests he always kept quiet about his. Sometimes, he wanted to ask them why they were so set on reaching godhood, but he knew that they wouldn’t get it. They weren’t fey at all.
+
+As far as Oberon was concerned, there were 3 rules to being a fey. He called them the Three Fs. Freedom, Fun, and Fey. The last was redundant, which he found highly amusing, and refused to explain to anyone else. These principles were what motivated him in life, and while he would perhaps become more powerful with godhood, he would also lose a lot of his freedom, which was antithetical to his personal philosophy.
+
+On this particular day, his original was sitting in his office, idly flipping through books, trying to find something else fun to make the young rabbit fey do. He was rather proud of his current idea so far. Sending her to an auction with immense funding and no instructions was highly entertaining. He also hoped it would serve as a good lesson on the first of the three Fs.
+
+Based on the feedback from the on-site clone though, she was failing to understand the mission. She was certainly improving her roleplaying ability, but she was focusing too much on it. Oberon supposed it was partly his fault for emphasizing it so much in their most recent lesson, as it seemed to have overridden their first lesson on the Three Fs. He would have to talk to her about that afterward. Either way, she was still making progress, and he was looking forward to seeing what she did next.
+
+As he was opening a book on organized crime, he suddenly paused as he received a stream of feedback from one of his other clones. It was the “real” Eliza Wagner, and the one who had been catfishing Franz Luger up until then. The original plan with that was to make him fall in love on his vacation to Everspring, then pretend to get cursed and dismiss the clone, leaving behind only a single frog. It would have been funny to see how long the man cared for the frog thinking it was the cursed noblewoman. He would have to save that idea for later, but he didn’t regret it, as the current situation was just as good.
+
+Regardless, the original Eliza Wagner had just uncovered some interesting information about the man. Apparently, all the grand business deals he had set up over the past two years were beginning to fall through. If it was just one or two, Oberon wouldn’t have thought anything of it, but for all of them to begin to fail at the same time was too suspicious. As more information came in, he began to get a clearer picture of what was going on.
+
+Franz had spent two years setting up an intricate web of business deals that seemed separate, but were all actually quite interconnected, and every point of connection was controlled by him. Over those two years, he had worked hard to gain the trust of nobles across the continent and gain the favor of the public, while secretly digging out the foundations of every deal he made. Now, it was all collapsing in on itself, and hundreds of noble houses and wealthy businessmen were suddenly finding themselves with a lot less money than they thought they had. No one had tied it all back to Franz just yet, but it was only a matter of time.
+
+He would make a good fey, thought Oberon with a smile.
+
+He went back to flipping through the book before he stopped again.
+
+Wait! Elise!
+
+After a few seconds, he shrugged and went back to his book. What did it matter that the man she was with was a scammer? She was technically scamming him too. It might make things more interesting, actually.
+
+He flipped through the pages idly a bit more, then tuned back in to his on-site clone to see what was happening. He smiled as he saw Elise bidding on a strange creature from Carsas, then frowned when she gave up on it. She had been so close to indulging in her freedom, but in the end, held back. Such a shame. He frowned deeper when he saw the servant of Duke Larcombe arrive.
+
+That might not be good, he thought.
+
+Elise disappeared from that clone’s line of sight, likely to meet with the duke. Oberon’s clone almost followed, but got distracted by Franz Luger instead as it watched the man slip unnoticed into one of the servant’s tunnels.
+
+Hmm, this might get tricky, thought Oberon. Should I step in?
+
+He thought about it for all of two seconds before shrugging and returning his attention to his book.
+
+Nah. It’ll be fine.
+
+Probably.

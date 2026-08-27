@@ -1,0 +1,176 @@
+---
+id: 56ede1fd-5678-524b-ae0b-cf29048e3afb
+page-type-slug: story-chapter-royal-road
+title: "105 - Posing as Nobility (B3 start)"
+partOf: bunny-girl-evolution
+position: 14
+ownLength: 2610
+unit: words
+ownProgress: 2610
+publishedAt: 2025-06-10
+link: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/2343893/105-posing-as-nobility-b3-start"
+royalRoadId: "2343893"
+markedReadAt: "2026-06-29T20:03:06.891Z"
+---
+
+Despite having wholeheartedly agreed with Oberon that it was the best course of action, Elise was having some extreme regrets as she rode the carriage to her destination. Intellectually, she still acknowledged that what she was doing was necessary, and would be beneficial, but that was in no way able to block the embarrassment.
+
+She was currently wearing a “casual” dress that was still fancier than anything she had worn on Earth, her hair was dyed black, she had an illusion over her eyes to turn them green, and her form was aged down just a bit to around 18. It was all a part of his plan to both level up her {Fey Bargaining}, {Charm}, and {Suggest} Skills, and to improve Elise’s own lowercase s skills. Specifically her acting skills. So, the overall plan was that starting today, she would be shifting through different personas semi-frequently to get her experience from many different angles.
+
+This week, she was Lady Eliza Wagner of Bermark, a small nation on the west side of the continent, vacationing in Everspring where she would be “secretly” meeting with her paramour, a businessman from Vina. She was a true noble, raised from birth for excellence, and a bit conceited, but still rather innocent and naive at heart. Oberon had come up with this backstory, of course, and he had spent the better part of the morning telling her all about Bermark noble culture so she could play her part better. Now, she was on her way to a luxurious spa filled with other noble ladies, and her specific goal was to gossip with them and reveal the existence of her secret paramour. From there, she could take the story any direction she wanted, but the starting point had to be that.
+
+Her goal for the week was to grow close enough to at least one of the other noble ladies to learn a deep secret, and Oberon would be grading her based on how much the secret would sell for to an information broker. Elise initially had qualms about betraying someone’s trust like that, but Oberon had ultimately managed to convince her to go along with it anyway. He said something about how she was a changeling now, and this was how the world was for her, and that it would really be the noble lady’s fault for revealing such secrets to a stranger, and that it would be a valuable lesson for whoever’s secret she sold and a few other reasons she couldn’t remember off the top of her head. She wasn’t entirely convinced, but she couldn’t refute anything he said, and figured that she could at least start going along with it, and back out later if she changed her mind.
+
+As she worried about how she would pull off the act, the carriage suddenly ground to a halt, and she heard a voice from the front.
+
+“We’ve arrived, my lady.”
+
+The voice was Oberon’s, though he was disguised as a coachman, and though she knew he was probably laughing on the inside, when he helped her out of the carriage, he looked every bit the part of a perfect servant.
+
+“Thank you,” she said with as much haughtiness as she could as she stepped out.
+
+The carriage was parked in a driveway right in front of an elegant, but cozy building. The whole driveway was surrounded by flowers and greenery, with a small creek running through the edge, interrupted occasionally by small waterfalls to add some white noise. There were colorful birds in the trees singing pleasant songs and the sounds of the city outside were entirely blocked off, giving the whole place an ambience that seemed to put Elise’s mind at ease.
+
+There’s probably some magic involved in that feeling, actually, she thought.
+
+At the main entrance to the building, there were four women ranging from teen to late middle aged, smiling pleasantly and wearing white gowns.
+
+“Welcome, Lady Wagner,” said the eldest one. “Right this way.”
+
+Elise shared a glance with Oberon, who gave her an imperceptible nod.
+
+“I’ll be out in two hours, Sebastian,” said Elise, activating {Fey Bargaining}. “Don’t be late.”
+
+“Of course, my lady,” he replied with a bow.
+
+“Well done.”
+
+Elise followed the women into the building, and as she did, she noticed that they all had wax plugs in their ears. Oberon had mentioned that the spa had something to prevent the staff from overhearing their clients’ conversations, but she hadn’t expected it to be so obvious. Though as she thought about it more, she realized that being obvious was probably for the best, as it would make the clients feel more at ease.
+
+Elise was led through a small lobby area filled with cushy chairs where a few disgruntled noble-looking men sat around, probably waiting for their partners to finish up. On the opposite end of the lobby was a wide hallway lined with changing rooms, where Elise was given a bathrobe made of material so soft that she had to refrain from obsessively running her fingers over it while the servants were around.
+
+They brought her a cup of fruity tea that added to the overall sense of relaxation that the place gave her, then led her to another room with a massage table on it, and over the course of the next hour, Elise’s nervousness almost entirely dissolved. There wasn’t much to compete with, but the massage quickly took the top spot on the list of most pleasant things Elise had experienced. All four women worked on nearly every inch of her body, and though the younger two seemed to be in training, and their skills weren’t as high-level as the older ones, the variation only seemed to enhance the experience.
+
+Elise almost completely forgot she was supposed to be practicing {Fey Bargaining}. It wasn’t until ten minutes in that she first used it.
+
+“Could you get between my shoulderblades a bit more?” she asked the eldest servant with {Whisper}.
+
+The servant didn’t even flinch at the sudden mental communication, and her hands shifted upward to get the spot Elise indicated. She felt {Fey Bargaining} take hold, and smiled softly.
+
+“A little higher.”
+
+The hands moved slightly, and the skill activated again, this time accompanied by a message.
+
+[ {Fey Bargaining} has leveled up! 41 -> 42 ]
+
+Elise must have been already close to the next level-up, because it took the entire rest of the massage to earn her second level, but she was still very satisfied. None of the other women noticed a thing, and they all fulfilled her requests almost immediately, so none incurred the breach penalty. Not that it would have mattered, since for such small deals, Elise was able to set the penalty to be so light they barely qualified as curses. A sudden urge to sneeze or an itchy nose were her go-to penalties for these deals.
+
+After the massage, she was led into a courtyard that felt like a tropical paradise. It was large enough and filled with enough greenery that once she got ten steps in, she couldn’t see the walls of the building. The ground was stone covered in a springy green moss that somehow wasn’t slippery, and seemed to hug her feet with every step. She could hear the sound of a waterfall somewhere in the distance, and she saw a few colorful parrot-like birds flitting between the trees.
+
+She soon arrived at a small clearing filled with other silent servants and about a half dozen other clients. Elise was almost surprised when she saw them, having nearly forgotten what the actual purpose of her presence there was.
+
+Three of the noblewomen were having various ointments applied to their faces, while the other three were having their hands and feet treated. Though she had heard voices as she got closer, no one was talking anymore, all now eyeing Elise with varying degrees of subtlety. Elise was a little nervous that they would figure her out, but Oberon had assured her that none of them would have any proper identification skills, and at best they would have skills that granted a vague sense of a target’s position. Those skills were not as precise as {Inspect}, and Elise’s high Charisma would be enough to fool them into believing she truly was the noble lady she was pretending to be.
+
+Elise sat down in a comfortable chair right next to a woman who looked around forty years old and was receiving a pedicure. The spa employees immediately produced a jar of some kind of oil that they started gently applying to Elise’s face. She closed her eyes for the process, but she could still feel the gaze of the other noble women on her.
+
+“You look quite familiar,” said the woman to Elise’s right suddenly. “Were you at the Harvest Festival Ball in Jelor last year?”
+
+“I was unwell last year, but I did attend the year before,” said Elise, eyes still closed.
+
+She had no idea what the Harvest Festival Ball was, but she assumed she should have, so she just played along. She had been worried about how to start a conversation with them, and she wasn’t about to toss out the opportunity that had fallen into her lap.
+
+“Ah, I must have seen you there,” said the woman. “I am Viscountess Anne Fireheart. Forgive me, but I can’t recall your name at the moment.”
+
+“That’s alright,” said Elise. “I’m from Bermark. Lady Eliza Wagner. It’s an honor to formally meet you.”
+
+“Oh, no, I should be saying that to you.”
+
+“Oh, a Wagner?” said another voice from a bit further away. “Are you the youngest?”
+
+“The youngest of my siblings, yes. I have a few nieces and nephews now though who are younger.”
+
+Elise felt relieved that the conversation had turned to the backstory that she had so painstakingly memorized. Especially since Oberon had assured her there would be no way to call her bluff, since the Wagners were a changeling “family” who were intentionally mysterious and reclusive to allow other changelings a free noble identity to use as needed.
+
+“I see,” said the second voice. “I believe I’ve met one of your brothers. He was quite handsome. A shame he was already married.”
+
+“Well, it’s not like you would have had a chance, anyway,” said a third lady. “The Wagner’s are famously selective about their partners. They wouldn’t have selected a countryside baroness.”
+
+“Yes, well, a girl can dream,” said the second voice.
+
+There was a moment of silence before the first lady spoke again.
+
+“Anyway, since we have a newcomer, I suppose I’ll start my story over then,” said the first lady. “So a week ago I was in Jelor visiting my cousin Felicia…”
+
+Elise sat and enjoyed her facial while the other woman told a story about how she had caught her cousin’s husband having an affair with the butler’s son when she went for a late-night stroll through the garden to settle her stomach after a heavy meal. Another lady replied to that by tying it to some other rumors of the same man occasionally disappearing at balls, and from there, the conversation turned to other high society gossip.
+
+Elise had been worried about how she would get the other noble ladies to share their secrets with her, but now that she was here, she realized that it wouldn’t be hard at all. She was pretty sure that everything she had heard so far would fetch a decent price from an information broker. She heard about secret affairs, shady business deals, a certain noble who was trying to hide a terminal illness, the lost child of a duke turning up in a brothel, and more. None of it was personal secrets like Oberon told her to get, but with how freely the other women were gossiping, Elise had a feeling that even that wouldn’t be hard to get.
+
+However she wouldn’t be able to get it that day. She was very aware of the time limit on her transformation, and she was already down to less than half. She only had an hour left at the spa, and she had barely spoken to the other women. She needed to get a bit closer to them, and either invite them to do something with her, or get them to invite her somewhere with them. She also needed to tell them about her fake paramour at some point, or she would fail her mission for the day. There was no penalty for failure beyond disappointment, but Elise still didn’t want to risk it.
+
+She waited until there was a slight lull in the conversation, which took another ten minutes, then pounced on the opportunity.
+
+“How long are you all in Everspring for?” she asked.
+
+“Another week for us,” said an older woman whose name was Margaret.
+
+She was a viscountess in Jelor, and the mother of two of the younger women, Adeline and Natalie.
+
+“Two for us,” said the middle-aged woman next to Elise.
+
+Her name was Anne, and she was also there with her daughter, a 19 year old girl named Isabelle.
+
+“We’ll be returning in two days.”
+
+The final speaker was a woman who looked to be around 30, and though she had no one else with her there, apparently, her husband was one of the men waiting in the lobby.
+
+“What about you?” asked Margaret.
+
+“I’ll only be here for a week,” said Elise. “But I was wondering if you knew what the more interesting things to do in the city are. I’ve never been here.”
+
+“Did you not have your butler prepare you an itinerary?”
+
+Perfect, thought Elise.
+
+“Um,” she said, pretending to hesitate. “My butler… doesn’t know I’m here.”
+
+“Oh?” said Anne, sitting up a bit straighter and looking at Elise with newfound interest. “You came here alone?”
+
+“I brought a few servants,” said Elise defensively.
+
+“Tight-lipped ones, I presume?” asked Margaret with a smirk.
+
+“All Wagner servants are tight-lipped,” said Elise.
+
+“But not your butler?”
+
+Elise frowned and remained silent, but inside, she was elated. The conversation was going exactly how she hoped it would. She didn’t think her acting skills were all that, but apparently, they were enough to fool these noblewomen. At this rate, it wouldn’t be long before they pried the existence of her paramour from her, and then Elise would be able to share more of the backstory that Oberon had prepared for her.
+
+“So, what kind of man is he?” asked Adeline eagerly.
+
+“What are you talking about?” asked Elise, trying to appear nervous.
+
+“Oh, you don’t have to be so secretive with us,” said Natalie, leaning forward. “What happens in Everspring stays in Everspring.”
+
+“Well, I don’t know…”
+
+Elise made a show of being nervous and hesitant, letting the other women cajole her into spilling the gossip they seemed to love so much until finally, Elise relented.
+
+“Alright,” she said. “But you can’t spread it around or anything.”
+
+“Of course not!” said Anne, the others echoing her.
+
+[ {Fey Bargaining} has leveled up! 42 -> 43 ]
+
+Nice!
+
+“Well…” said Elise with a nice long pause. “His name is Franz Luger, and-”
+
+“Wait!” interrupted Isabelle. “The Franz Luger?!”
+
+He’s a real person?
+
+“Yes?” said Elise.
+
+The other ladies practically exploded with excited questions, and Elise heard none of them. The happiness she felt at her acting going as planned had crumbled, replaced by shock, and a bit of dread as her mind went into overdrive, thinking of how she would proceed from here. Amidst all the mental turmoil though, one thing was abundantly clear.
+
+Oberon had pranked her.

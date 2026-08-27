@@ -1,0 +1,201 @@
+---
+id: 1b0a4705-62bc-5343-80c4-af78aaf75cd6
+page-type-slug: story-chapter-royal-road
+title: "84 - Fleshbender"
+slug: 0084-84-fleshbender
+partOf: cat-girl-evolution
+position: 84
+ownLength: 2895
+unit: words
+publishedAt: 2026-02-04
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3010928/84-fleshbender"
+royalRoadId: "3010928"
+---
+
+I end up going to bed close to sunrise, and when I wake up in the early afternoon, I return to the twins’ house. They’re both busy working on individual projects when I arrive, so I have to entertain myself for a few minutes until they reach a stopping point. After expressing my concerns about Cecilia getting so caught up in her artificery that she forgets about the Guild Investigator, they promise to call her again that night and double-check that she remembers. They also offer to let me join the call again, but I decline. I don’t want to sit through hours of artifact presentations…
+
+With that settled, I head out for an exploration of the city’s restaurants, stopping for two lunches before heading to the Adventurer’s district and picking up some mana potions. With those in hand, I leave the city, teleporting a few kilometers away until I’m pretty safely right in the middle of nowhere in the woods.
+
+I don’t really trust Cecilia. I don’t mistrust her either, but I’m not just gonna rely on her to get me out of the potential trouble of the Guild Investigator, so I have to make my own preparations. First and foremost, I need to replenish my stock of mana constructs and explosive spells. I did a bit of that on the long journey back from Ryantown, but if someone as allegedly famous and powerful as Cecilia says that Guild Investigators are dangerous, I’m gonna want more than just a few backup mana pools.
+
+For almost an hour, I just generate constructs and explosive spells, burning through every single mana potion I just bought, as well as a few pieces of the mana-rich boar meat. It was an unfortunately expensive set of preparations. I used twenty mana potions, each of which cost twenty gold. I got a bulk discount, so they only cost me 350 total, but that’s still a lot to spend at once, even for me. Still, it was worth it, I think. I now have a full twenty max-strength Fireballs, fifteen max-strength Spatial Slices, fifty max-strength Spiral Mana Bursts, and enough mana hands to be able to keep me topped up long enough to summon all of them.
+
+In the process, I also make a few simple advancements in Spiral Mana Burst that push me to Middle Proficiency. Basically, I just make it spin faster, which for some reason also makes it move faster and more accurately. I guess it’s kinda like a bullet? A really big, violently explosive bullet?
+
+Interestingly enough, Spatial Slice has also gone up in Proficiency. I haven’t really been paying attention to it, but I noticed last night when looking through my Royal Status Window that it’s already at Late Proficiency. I guess using it both for cooking, and for massive, Named Disaster-beheading attacks really helps me meet that versatility requirement.
+
+Similarly, Blink has also quietly reached Late Proficiency. I kinda noticed that it cost a little less mana now, but I also kinda thought that was just because I keep leveling up, so my mana pool keeps increasing. I guess it turns out that it was both. I’m really curious what both of those Skills will turn into when they reach Peak Proficiency. They’re kinda the staples of my entire fighting style, so I’m actually looking forward to upgrading them.
+
+Once my Stomach is sufficiently full, I start to practice with precision with both Skills for a bit, but quickly get bored. I know that upgrading them will be useful, but I also feel like I’m not very close to that last Proficiency level. They’re both higher-tier Skills, and I think they only recently reached Late Proficiency, so getting them to Peak will take a while.
+
+Instead, my attention turns to another Skill that I want to upgrade: Internal Mana Manipulation. I just barely got it to Late Proficiency last time I messed with it, and under ordinary circumstances, it would take a lot of studying and practice, to get it to Peak. Fortunately for me, my circumstances are not ordinary, and I just had a breakthrough. And by breakthrough, I mean that I ate Annie, so Anatomical Analysis now has all the human data it needs to help me manipulate my own body better. Well, I’m technically not human, but I’m pretty sure that human anatomy is close enough to beastperson anatomy that it should work.
+
+I raise my hand and concentrate on extending my fingers, and just as I thought, it’s much easier and faster than it was before. Not only that, but it gives me a weirdly deep understanding of what’s actually happening with all the bones, muscles, and tendons. I don’t know what they’re called, but I know what they’re all doing, and what exactly is being lengthened and what’s being strengthened and whatnot. The only fuzzy area is around the tips of my fingers where my retractable claws are, which makes sense, since humans don’t have retractable claws.
+
+Hmmmm…
+
+Abby, would cutting off my own finger hurt?
+
+“Probably. Why do you ask?”
+
+Well, I’m just thinking… I can heal really fast now, right? I even healed my missing liver after I took a bite of myself. I bet I could heal a missing finger too, and pretty quickly as well. So, if I want a more detailed understanding of my claws, I could just eat my own finger, and then I’d be able to mess with my fingers better.
+
+“Well, that’s true… I don’t know if it’s advisable.”
+
+I bet if I did it with Spatial Slice, it would be a really clean cut. I might not even notice.
+
+“Yona…”
+
+I also didn’t really get to taste myself when I bit that curse out of my side. I’ve always been curious what I taste like. Probably pretty good, right? I mean, I am a Named monster.
+
+“I don’t–”
+
+I’m gonna do it.
+
+“Wait just—”
+
+I raise my other hand, and with a quick, smooth motion, I use a small Spatial Slice to sever my index finger, catching it out of the air before it can fall to the ground. For a moment, I don’t feel anything. Then, the pain hits me, and I double over and stick my stump in my mouth.
+
+Aaaghhhh, Abby, why did you let me do that?!
+
+“I didn’t—”
+
+That fucking hurts! Why did I do that? I’m not a fucking masochist!
+
+“I tried to warn you.”
+
+Well, you should have warned me harder! This sucks! This was totally not worth it! This—!
+
+Wait, hold on. The pain is already fading. And now that it is, this blood actually tastes pretty good. Hmmmm…
+
+I pull my finger stump out of my mouth and see that it has pretty much already stopped bleeding. Even as I watch, the blood scabs over, and new skin starts creeping its way along the edges.
+
+“Don’t waste this opportunity. Use Internal Mana Manipulation to help it regenerate faster.”
+
+Oh, good idea!
+
+I focus Internal Mana Manipulation on my missing finger, sending a ton of mana toward the injured area, and immediately, the healing rapidly accelerates. Fresh new skin forms over the scab, then the whole stump starts extending. It reaches the first joint, and I can feel a new bone forming beneath the skin and tendon, then it reaches the second joint, and soon, my claw starts reforming as well. The claw part is slower, since Fleshbender doesn’t know enough about it yet, but even so, the whole process takes less than ten seconds, and suddenly, I’m whole again.
+
+“Woah…” I say.
+
+I take a few seconds to admire my freshly regrown finger. It is a normal finger, unlike the rest of the abnormally long fingers on that hand, but it looks perfect. It feels perfect. It regenerated without issue, and it did it very quickly. Now that I think about it, even without using Fleshbender, the pain only lasted a few seconds before my body’s natural healing started fixing it.
+
+Hmmm…
+
+I glance down at my severed finger, which is still dripping blood. It’s one of the weird, elongated ones, which looks pretty uncanny. And now that I see it in my hand, I realize that a finger probably doesn’t make for a very good snack, even if it is Named monster meat. Oh well. Let’s see how I taste.
+
+I lift my finger up and bite it like a carrot. It crunches kinda like a carrot too. I chew it slowly, grinding the bone to small grains before swallowing. Then, I take another bite. Then another. On the sixth, all that’s left is the retractable claw part, so I pop the last bit into my mouth and savor the taste and texture. The claw is a lot harder than the bone, to the point that I have to strengthen my jaw to chew it comfortably, but I manage to get it all down.
+
+I… actually taste very good. I mean, that’s to be expected, because even before I became a named monster, I was a snack. But wow. And that was only a finger too. I wonder what my tastier cuts of meat would taste like. The tasty cuts are usually along the back on other animals, right? Or the legs.
+
+I glance down at my legs. My beautiful, sexy, succulent, meat-filled, mana-infused legs. My mouth waters.
+
+“I would like to point out that you are seriously considering severing and eating your own leg.”
+
+Yeah. And?
+
+“I just wanted to make sure you were aware how strange that is.”
+
+Hmmm, yeah, you’re right. It is very strange. However, Abby, I’ve got a question for you. If you found out that not only could you regenerate lost body parts in seconds, but that you were actually made of extremely delicious meat, would you not be tempted as well?
+
+“I have no idea how to answer that.”
+
+Exactly.
+
+You’re right though. I’ll hold off on eating my own leg. For now. Instead, let’s see what I got from eating my own finger.
+
+I raise my hand with the elongated fingers, and reduce their size back down to normal. Then, I extend them all again. Then, I lengthen the claws until they’re almost as long as the original finger size.
+
+Yeah, that definitely helped. My retractable claws are no longer fuzzy to Anatomical Analysis, and somehow, with the whole hand mapped out, everything gets even easier.
+
+“Or, more likely, it’s because you reached Peak Proficiency a few seconds ago.”
+
+Oh, that could explain it too! Also, nice! Upgrade Internal Mana Manipulation!
+
+[ Upgrades available for Internal Mana Manipulation - Fleshbender Skill: ]
+
+[ Internal Mana Manipulation - Fleshshaper: Manipulate mana to directly strengthen your body. Use mana within your body to completely alter the shape of your flesh. ]
+
+[ Internal Mana Manipulation - Greater Fleshbender: Manipulate mana to directly strengthen your body. Use mana within your body to partially alter the shape of your flesh with great efficacy. ]
+
+[ Greater Internal Mana Manipulation - Fleshbender: Manipulate mana to directly strengthen your body to a greater degree. Use mana within your body to partially alter the shape of your flesh. ]
+
+[ Greater Internal Mana Manipulation - Restoration: Manipulate mana to directly strengthen your body to a greater degree. Use mana to heal your body at an accelerated pace. ]
+
+Wow, those options say a lot of the same thing over and over again. Abby, which one is best?
+
+“If you still want to have your prior goal of manipulating the meat of the monsters in your Stomach, then either of the first two would take you closer to that goal. The third option would make you more directly powerful in combat, and the last one would make you heal more quickly.”
+
+Oh yeah, I did want to do that. That would be pretty cool. Plus, it would give me an actual use for all that lame Tier 0 fishman meat. If I keep hunting stronger meat, I’m never gonna get through the weaker stuff, so I might as well use it for that stuff. Okay, which of the two is best for that?
+
+“I believe that the first option, Fleshshaper—”
+
+I choose Fleshshaper!
+
+[ Internal Mana Manipulation - Fleshbender has been upgraded to Internal Mana Manipulation - Fleshshaper! ]
+
+[ Internal Mana Manipulation - Fleshshaper: Manipulate mana to directly strengthen your body. Use mana within your body to completely alter the shape of your flesh. Includes: Internal Mana Manipulation - Fleshbender ]
+
+“—would be the worse of the two.”
+
+Wait! Abby! You tricked me!
+
+“Just kidding. It’s the better option.”
+
+You bitch!
+
+“Maybe now you’ll listen to what I say instead of diving into things.”
+
+Maybe now I’ll dive into things even harder so that if you do try to trick me like that, you’ll end up regretting it.
+
+“That would be more of a loss for you than me.”
+
+Maybe, but I’d still do it.
+
+“That’s not very wise. Anyway, Fleshshaper is probably the weaker of the two options, but I think it’s the better one because you have a Class Upgrade coming up soon. I don’t see an easy way to let Internal Mana Manipulation affect flesh that’s not yours, but if you have Fleshshaper going into your Class Upgrade, then the System may offer you something along those lines. Especially with all the work you’ve put into your ordinary mana constructs.”
+
+Yeah, that makes sense. It’s not like I need too much more power right now, anyways.
+
+“You just need to make sure you train with Fleshshaper a bit before your Class Upgrade so that you can hopefully steer the Class further in that direction.”
+
+Got it.
+
+I do exactly that for a few hours after that conversation. Fleshshaper feels kinda weird compared to Fleshbender. With Fleshbender, I was basically just stretching my body out, but with Fleshshaper, it’s more like it’s turning into clay, and I’m molding it. When I first activate it, I actually accidentally turn my hand into a bloated ball of miscellaneous, vaguely hand-like parts, but thankfully, Anatomical Analysis saves me and lets me put it back together again.
+
+My lowercase -p proficiency with the new Skill is still really low, but I can already see it has a lot of potential. The most I can safely do right now is add an extra finger to my hand, but I can already see the possibilities as I go further down the route. I can have infinite meat! Without pain! I can just create an extra leg without any nerves, then cut it off and eat it. It will only cost me mana!
+
+“The flesh still has to come from somewhere. You’ll turn yourself into a skeleton creating entire legs from your own body.”
+
+Ah, right…
+
+Well, I guess I just have to get that Class Upgrade so I can use all that other flesh in my Stomach instead!
+
+Later that night, I head back to the twins, but they say they haven’t talked to Cecilia again yet, so I go to Lauren’s house to sleep, and come back in the morning. This time, they have some real news.
+
+“She says it’s already taken care of,” says A.
+
+“Apparently, there was nothing to worry about from the very beginning,” says B.
+
+“The Investigator was never going to actually go after you, even if you were a monster.”
+
+“What?” I ask. “Why not?”
+
+They both shrug.
+
+“I dunno,” says B. “She said it was a surprise.”
+
+“Well, that’s not very helpful.”
+
+“No, not really.”
+
+“But at least now we don’t have to worry!”
+
+“Yeah…”
+
+I say goodbye to them soon after and go about my day, preparing even more explosives and Spatial Slices. The day after passes similarly, and the day after that is when the Investigator is supposed to arrive. I tell Lauren that I’m going to the Guild to meet the Investigator, and that she shouldn’t follow, just in case things go south. Then, I leave, and instead of heading straight for the Guild, I go to A and B’s house.
+
+I was thinking about this over the past few days, but I figured out a way to more or less guarantee my safety. Cecilia gave her word that I would be safe. That means that I can use A and B as insurance. If she’s lying, that would mean they’re in danger too, so taking them with me should be safer than not. It’s a bit callous, but unless the Investigator is an idiot, it should be fine.
+
+However, my plans evaporate shortly after I arrive at their house, before I even have time to greet them and tell them why I’m there. As I’m about to knock on the door, two other people approach from the street. The hair on the back of my neck stands on end, as I recognize one of the gazes on my back as being incredibly dangerous. It doesn’t feel hostile. Yet. But even without being able to see them, just based on the way they look at me, I somehow know that even if I try to run away, I’ll never escape. My only hope is to not anger them in the first place.
+
+I turn around to see who it is, and when I see the figures walking toward me, I can’t help but gasp.

@@ -1,0 +1,161 @@
+---
+id: 50528f30-75f9-5331-ae2a-733cdd7d08a1
+page-type-slug: story-chapter-royal-road
+title: "29: Trial and Error"
+slug: 0029-29-trial-and-error
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 29
+ownLength: 2411
+unit: words
+publishedAt: 2025-09-11
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2592633/29-trial-and-error"
+royalRoadId: "2592633"
+---
+
+Chloe felt crazy good. Not just good, the kind of good where she could probably run around the cavern, climb a wall, and even punch through it. Every twitch of muscle felt sharper, smoother, like she’d been rebuilt out of something better than flesh.
+
+She stretched her arms overhead, only to pause mid-movement. Huh… wait a second.
+
+Her cloak, which had been its usual dusty brown, now hung in deep, inky folds that seemed to swallow the light. Pitch black, like it had been dipped straight into a shadow and forgotten there. When she moved, the fabric shifted almost too smoothly, like it wasn’t just cloth anymore.
+
+[You have successfully completed your second evolution!]
+
+[Your new Species is: Shadowstitched Revenant Zombie – Level 1]
+
+[+103 Strength, +95 Speed, +144 Vitality, +173 Magic, +102 Resistance]
+
+[Skill Upgraded: Mana Sense IV >> Mana Sense VII]
+
+[Skill Upgraded: Mana Control IV >> Mana Control VII]
+
+[Skill Upgraded: Earth Magic Affinity III >> Earth Magic Affinity VII]
+
+[Skill Upgraded: Dark Magic Affinity III >> Dark Magic Affinity VIII]
+
+[Skill Upgraded: Magic Resistance II >> Magic Resistance V]
+
+[Skill Evolved: Invisibility I >> Greater Invisibility I]
+
+[New Trait Acquired: Cloak of Old Night (Epic)]
+
+[New Trait Acquired: Umbral Effigy (Epic)]
+
+Chloe was baffled by what she saw. Whoa… whoa… WHOA.
+
+Her last evolution hadn’t even come close to this. The stat boosts alone filled her with a restless, coiled strength, like she could slam into a wall and leave a perfect Chloe shaped dent behind. Then came the flood of skill upgrades, one skill evolving entirely, and two brand-new traits on top of it all.
+
+It was so much, so fast, it almost didn’t feel real. That first evolution had been a pleasant step forward, a small but satisfying boost. But this felt like she’d been taken apart piece by piece, reforged, and rebuilt into something sharper and far more dangerous.
+
+Chloe stood there for a moment, just letting the feeling sink in. Everything about her felt sharper, faster, heavier in a good way. Even her magic thrummed in her chest, like it wanted to spill out just to see what it could do now.
+
+But the real fun was in the new stuff. Chloe mentally ticked down the list of new stuff she got.
+
+Chloe could barely keep the grin off her face. The rush in her veins was too much to sit still. Something had to be tested, and soon. She decided Greater Invisibility would be first.
+
+She focused on channeling the invisibility, expecting it to take ten seconds to fully cast like before. But instead, she just vanished. One second she was standing there, the next she was gone. Just here… then not.
+
+A sharp thrill shot through Chloe's chest. She sprang forward, weaving between broken slabs of rock. She spun a lazy circle just to see if she’d flicker back to visibility, but nothing broke her cover.
+
+Feeling bold, she stretched out her arm and channeled a Cursed Rock Shot into being. The chunk of dark rock tore across the cavern and smashed into the far wall, stone cracking under the hit. Still, she remained invisible, not even a hint of her cloak bleeding through.
+
+It wasn’t until roughly ten seconds later that the magic slipped away, her form snapping back into sight with a faint ripple. Chloe blinked, then immediately tried to vanish again, but nothing happened.
+
+She tried harder. Still nothing.
+
+Chloe threw in one more attempt for good measure. Instead of the spell working, she felt an annoying pull deep in her mind. A sense of refusal, like the skill itself was holding up a finger and telling her to wait.
+
+The rush of earlier excitement settled into something steadier as she took stock of what she’d learned. Greater invisibility was an instant vanish that lasted ten seconds, fully functional while invisible, but with a cooldown afterward. That was fine; she could work with that.
+
+Anyway, it was time to check out her traits next. First up was Cloak of Night.
+
+[Cloak of Old Night]
+
+A mantle formed from condensed dark energy. Enhances the wearer’s stealth capabilities and continuously repairs itself from all forms of damage. Possesses an extradimensional storage space capable of holding inanimate objects which are retrievable at will.
+
+Chloe let her fingers drift over the cloak’s new fabric, marveling at the way it seemed to swallow light whole. The texture was impossibly smooth, and it moved with a weightless swish that felt effortless to wear.
+
+More importantly, Chloe needed to see what the cloak could actually do when it came to storage. The idea of slipping things into her cloak and never having to lug them around was already amazing, but she had to figure out the limits. Non-living objects seemed obvious enough, but how much could the cloak actually hold?
+
+Chloe started simple, with a medium-sized rock. Pulling the cloak open, she pushed the stone inside.
+
+It vanished completely, swallowed in an instant by the dark folds. That alone was impressive, but when she reached in to retrieve it, she paused. The space inside didn’t feel like a cloak at all, it felt vast, far larger than it had any right to be. It was as if her arm were reaching into a room rather than a scrap of fabric.
+
+Eventually, Chloe's hands finally closed around the rock, and she pulled it free. It was exactly the same as when she’d put it in. Satisfied, she tossed it aside. That was only the first test.
+
+Chloe tested putting other stuff in the cloak, stuffing random rocks, scraps of debris, and even her old backpack inside. Each one sank away without a sound, vanishing into some hidden pocket beyond the reach of sight.
+
+No matter how much she stuffed into it, the cloak stayed weightless, draping over her shoulders like it didn’t have a care in the world. Yup, you’re definitely getting a name… Cloaky. Oh yeah, that’s perfect. You’re Cloaky now.
+
+Chloe eventually looked at Luther's charred corpse. At first, she’d been a little worried that some cave critters might’ve gotten to him. She totally forgot to stash the body before evolving.
+
+But to her surprise, it didn’t look like anything had touched him. Maybe he was just too burnt, or too crispy.
+
+Just as she was thinking that, a tiny cave rodent scurried up and started sniffing around the dead mage. Chloe stomped her foot, and the critter ran away into the shadows.
+
+With no other disturbances, she tugged Cloaky wide and tried to pull Luther in, but the fabric pushed back and refused to let the corpse inside. No matter how Chloe twisted, dragged, or angled him, the body refused to sink into the storage space. Apparently, Cloaky had standards, dead things weren’t on the allowed list.
+
+That’s when she remembered the storage scroll stuffed somewhere in her backpack. Dropping to one knee, Chloe pulled the bag out of Cloaky, set it down, and rummaged through the jumble until her fingers closed around the parchment. As she unrolled it, the merchant’s voice played in her head, going on about how to use it, with about ten extra minutes of trying to sell her a bunch of junk she couldn’t care less about.
+
+Just in case she needed it again, she stuffed the backpack back into Cloaky and turned her attention to the scroll. Pressing it against Luther’s body, she chanted "activate scroll!"
+
+Faint lines of magic traced over the charred flesh, weaving around him in threads of light until his form shimmered and dissolved into the parchment entirely.
+
+Once the scroll was safely stored, Chloe let her hands wander deeper into Cloaky’s folds. She wasn’t after anything in particular, just curious to see what might turn up.
+
+A stray thought drifted in about that white thing that Baron Willy had given her. He’d said to take it to some bank place to collect gold coins. She’d kept it tucked away before, but maybe Cloaky still had it.
+
+As soon as the thought crossed her mind, her fingertips bumped against something stiff. She pulled it out and, to her surprise, found what she was pretty sure was called a letter. The thing looked spotless, the seal still perfect, not a wrinkle in sight despite surviving grime, smoke, and the occasional fireball. Clearly, Cloaky knew how to keep valuables safe.
+
+She slid the letter back into the folds, watching it vanish without a trace. Nothing important from before had been lost.
+
+That left just one final thing on her list. It was time for Umbral Effigy to finally do something.
+
+[Umbral Effigy]
+
+Grants control over shadowy tendrils woven into the Revenant’s body. They can extend from the cloak or flesh to bind, pierce, or manipulate objects at range. The tendrils are exceptionally durable, resisting most physical and magical damage.
+
+Chloe’s eyes lit up as she read. Oh… oh, this is going to be fun.
+
+She raised her arm, curious to see just how far she could push this new trick. Black threads slithered out from her wrist. And then, pop, her whole arm shot forward.
+
+It tore through the air with a sharp hiss, trailing those glistening strands of shadow behind it. The detached limb smashed into the cavern wall with a deep thud, stone dust shaking loose from the impact. The force left a palm shaped dent in the rock before the threads tugged her arm back, sliding it neatly into place like nothing had happened. Wow! That was awesome!
+
+Wanting to see what the threads could do without the extra weight of her fist, Chloe flicked her wrists. Thin cords of living shadow spilled from her sleeves. With a quick snap, she lashed them at the wall. They struck with a solid crack, chipping the stone and kicking up a puff of grit, but the crater they left was smaller, the damage shallower. Still strong, but not as nasty as the full arm hit.
+
+The comparison lodged itself firmly in her mind. The threads alone were quick and precise, great for reaching or striking from awkward angles, but if she really wanted to hurt something, launching her arm with them gave the blow a lot more weight.
+
+Chloe gave the cords another experimental whip, watching them coil back into Cloaky’s sleeves like they’d never left. The whole thing felt wrong, but in the best possible way.
+
+Naturally, the next test had to be her head. Chloe reached up, felt the threads shift inside her neck, and popped it loose.
+
+The world tipped sideways as her head shot up. It stopped midair, turning in a slow arc that gave her a new view of the cavern from a much weirder angle. She reeled it back in soon, the threads pulling her head snug into place with a neat little click, like it had never left at all.
+
+That little stunt lit up another idea, just how strong were these threads? Chloe drew her sword, caught a single strand in front of her, and brought the blade down hard.
+
+The steel scraped along the cord with a sharp, clean sound… but there wasn’t so much as a cut to show for it. Yeah, whatever this was, it was definitely sticking around.
+
+Still, if steel couldn’t touch it, maybe magic could. Which, obviously, meant it was time to try out that fiery little prize she’d swiped from Luther’s brain: Fireball. And really, who else was she gonna test it on first but herself?
+
+Chloe tugged a length of shadowy thread from her sleeve and held it taut. Magic swelled in her chest, until it rushed into her palm and shaped itself into a tight, blazing sphere. A giddy laugh slipped free as she took aim.
+
+The fireball streaked forward and slammed into the thread in a burst of roaring flame. Heat flared, twisting and curling along its length, but instead of burning through, the cord drank it in. The fire sputtered, faded, and vanished without even leaving a mark.
+
+Chloe poked the cord once, then twice, half-expecting it to be hot. It was cool as a rock. Whatever she was made of now wasn’t just strong, it was ridiculous. And she was very okay with that.
+
+Retracting her hands, Chloe spun in place. The rush of power made her want to run laps around the cavern until she wore herself out. Instead, she hopped once more in place, then stopped. Okay, as much as I’d love to stay here and mess around, I should probably get out of here.
+
+The cavern stretched into twisting tunnels, most of them charred black from Luther’s fiery temper. There wasn’t an obvious exit anywhere. So she started walking.
+
+A few minutes in, she reached a dead end, turned around, and tried the opposite way, only to hit another wall of stone. Just her luck.
+
+On the third path, something a little less boring waited for Chloe: a cluster of strange, blue colored lizards crouched over a pile of glowing mushrooms. They froze when they noticed her, wide eyes reflecting the faint light. She smiled, which caused the lizard to run away for some reason. Rude, but okay.
+
+Further in, a troll was hunched over, gnawing on a rock as if it were the most normal thing in the world. The moment its gaze met hers, the rock slipped from its grip. It stared for a second, then spun and sprinted away so fast it nearly tripped over its own legs. Aw, come on! I didn’t even touch you. Why are you running? Yeesh.
+
+Another tunnel brought another sight, a mass of chittering, insect-like things crawling along the walls. As her shadow passed over them, the swarm scattered all at once, skittering into cracks and holes like they couldn’t get away fast enough.
+
+The pattern was way too obvious now, something about her was making everything in the cave decide it had better things to do than be anywhere near her. Weird, sure, but she wasn’t about to complain. Chloe wasn't in the mood for a fight, not until she left the cave at least.
+
+Yet, after what felt like forever of twisting tunnels and dead ends, she finally spotted a path that was brighter than the rest. The light was faint at first, just a soft glow tickling at the edges of her vision.
+
+Chloe picked up the pace. The glow swelled with every step, until the tunnel opened wide.

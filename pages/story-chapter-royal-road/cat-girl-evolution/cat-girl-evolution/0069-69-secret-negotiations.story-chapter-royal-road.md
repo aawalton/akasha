@@ -1,0 +1,271 @@
+---
+id: 428e862e-8e16-50a0-bd45-2f15738632cd
+page-type-slug: story-chapter-royal-road
+title: "69 - Secret Negotiations"
+slug: 0069-69-secret-negotiations
+partOf: cat-girl-evolution
+position: 69
+ownLength: 2547
+unit: words
+publishedAt: 2025-12-31
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2894743/69-secret-negotiations"
+royalRoadId: "2894743"
+---
+
+In the brief moment that the four humans are too stunned to speak, a certain annoying digital fiend takes the opportunity to criticize me.
+
+“I think that there were probably more tactful ways to reveal that.”
+
+Shut up. I know what I’m doing.
+
+Before Abby can respond, both Lauren and the twins speak at once.
+
+“You have Gluttony?!” says Lauren.
+
+“You’re a monster?!” say the twins.
+
+Chad looks completely frozen, like his mind has been overloaded and he has no idea what to say.
+
+“Yup!” I reply. “Also, this is secret, so it’s covered by the contract. You can’t tell anyone. And if you try, I might have to kill you, so please don’t do that.”
+
+“Wait, so you’re an Infiltrator?” asks A.
+
+“Ye– wait, how did you know? I thought that the humans didn’t know about those?”
+
+“It’s not public information, but it’s definitely known by the people that need to know,” explains B.
+
+“Wait, what?” asks Lauren. “How do you know then?”
+
+“Our master,” say the twins simultaneously.
+
+“Of course,” sighs Lauren. “And since you’re not trying to kill her, I guess you’re fine with it?”
+
+“Assuming she’s a peaceful Infiltrator, sure,” says A with a shrug. “Why not?”
+
+“Unlike the other three types of Named monsters, Infiltrators can progress without actually hurting anyone or interfering with any lives,” says B. “And the ones that don’t aren’t nearly as strong as other Named monsters, so they’re not usually that big of a threat.”
+
+“That’s why the public isn’t aware of them,” says A. “It would cause unnecessary panic and paranoia when Infiltrators are often peaceful and rarely that problematic.”
+
+“The ones that are dangerous though are very dangerous,” says B. “Have you ever heard of the Sun Cult Massacre?”
+
+“Y-yeah?” says Lauren.
+
+“That was an Infiltrator,” says A. “With a Virtue Trait. A party of Mithrils gave their lives to kill it.”
+
+“Hey, I don’t wanna start any cults,” I say. “I just wanna eat good food and nap whenever I want.”
+
+“If that’s true, then we have no problem with it,” says B.
+
+“Also, I wasn’t always a monster. I used to be human too, you know. In fact, I was a princess!”
+
+“You need to stop telling everyone you’re a princess.”
+
+What’s wrong with a princess calling herself a princess?
+
+“A princess?” asks A. “Of which kingdom?”
+
+“Russia.”
+
+“We’ve never heard of it,” says B.
+
+“That’s because it’s on another world. In fact, there’s something else I haven’t told you either. I… am the Chosen One.”
+
+Five seconds of silence pass before A speaks.
+
+“What does that mean?”
+
+“That means that I was chosen by the gods for my beauty, grace, and talent, and that I am destined for great things. In fact, I have a personal goddess assigned to watch my every move and reward me for things. She’s a bit of a bitch though. That’s why my necklace says what it says. I think it’s one of her hand-me-downs.”
+
+Suddenly, my ear starts itching for some reason, so I raise a paw to scratch at it.
+
+“But what were you chosen for?” asks B. “What do the gods want you to do?”
+
+“Whatever I want, of course.”
+
+“That… doesn’t make sense.”
+
+“Well, it’s true,” I say, licking my paw. “They just shoved me into a cat’s body and then left me alone. What else am I supposed to do?”
+
+“They didn’t leave you alone. They gave you me, and you ignored me and did whatever you wanted.”
+
+Potato, tomato.
+
+“Those aren’t the same.”
+
+Close enough.
+
+“So, you guys still wanna be my minions, right?”
+
+“Wait, hold on,” says Lauren. “What about Gluttony? You have Gluttony? Is that why I’ve been so hungry lately?”
+
+“Yeah?” I say, not sure.
+
+“Yes,” says A. “But it should be fine. At lower levels, Sin Traits don’t really have any long-term effects.”
+
+“What about at higher levels?” asks Lauren.
+
+“Well, if your Willpower is high enough it still won’t have any major effects,” says B. “But we shouldn’t have to worry about that for a while. Sin Traits need to be at least Stage 7 to have serious side effects.”
+
+“Mine is Stage 6,” I say.
+
+Both twins stare at me for a few seconds, then A speaks.
+
+“Okay, we’ll have to worry about it sooner than we thought, but it’s still not that big of a deal. We’ll just have bigger appetites, and be slightly more food-motivated than usual. That’s all.”
+
+“It will make it a little harder to stay in one place for too long though,” adds B. “Especially if that one place has higher population density.”
+
+“And we’ll have to be careful around powerful members of law enforcement.”
+
+“And probably powerful Adventurers too.”
+
+“But it’ll be fine.”
+
+“We’re in.”
+
+“Perfect!” I say. “Lauren’s already in too, which just leaves Chad. Whaddya say?”
+
+Chad looks troubled. He doesn’t look scared or angry though, so that’s probably a good thing. I doubt he’ll do anything stupid at least.
+
+“...I need some time to think,” he says after a few seconds.
+
+“Okay,” I reply. “You have until whenever we leave to decide. Since that’s done, I’m gonna head back to the safehouse. I think it’s time for a nice post-pork nap. Seeya!”
+
+“Wait!” says Lauren. “Let me come with you so I can get in.”
+
+“Okay.”
+
+“W– Wait!”
+
+We all turn to see Chad speaking uncharacteristically loudly. Is he gonna decide right now?
+
+“Yeah?” I ask.
+
+“Lauren,” he says. “Can I maybe talk to you for a minute? Alone?”
+
+Ooooh, it’s happening!
+
+“I’ll wait for you,” I say to Lauren, right before Blinking away.
+
+I hear Lauren stammering something in the distance, but she doesn’t get anything actually intelligible out before the twins say that they’re leaving too. Once I hear that they’re leaving, and that Chad and Lauren are staying behind, I continue Blinking until they’re well outside of earshot and continue on my way back to the safehouse.
+
+“You’re not going to eavesdrop on them?”
+
+What kind of creep do you think I am? Eavesdropping on my minions’ love life is impolite! Plus, it’s more fun to guess what’s happening. When you know everything, things get boring.
+
+“I suppose…”
+
+Anyway, that went way better than I was expecting.
+
+“I thought you said you knew what you were doing.”
+
+I did know what I was doing. I just thought I’d have to give my whole tragic backstory spiel again like I did for Lauren. I didn’t think that A and B would know what Infiltrators were and be cool with them. And since their Master has a Sin Trait, they know how they work well enough to convince the others. Not that they really needed convincing, I guess. Lauren is coming regardless, and I’m pretty sure Chad is gonna follow wherever Lauren goes.
+
+But yeah, pretty lucky that A and B are chill like that. Or maybe it’s not luck. Maybe I’m just that good at choosing minions. Yeah, that’s probably it. I am an expert on people, after all.
+
+“Of course, Your Highness.”
+
+That title was a lot more pleasant before you could speak and I could hear the dripping sarcasm.
+
+“My deepest apologies, Your Highness.”
+
+Shut up.
+
+I head back to the safehouse and munch on some fishman inside for a quarter hour or so until Lauren finally shows up looking a bit dazed.
+
+“Did you kiss?” I ask.
+
+“Wh– what? No!”
+
+“Awww.”
+
+“We just… talked for a bit,” she says, not making eye contact. “Also, Chad says he’ll join us, but he needs some time to get his house ready.”
+
+“Sure, whatever,” I say. “The more minions, the merrier. Not like we’re in a rush. I am totally fine with just chilling out for a couple weeks.”
+
+“Alright,” she says.
+
+She looks like she’s slowly coming back to her senses and returning to the normal, serious Lauren.
+
+“I’m going to go take care of some things at my house then. But I still want to sleep here. Just in case.”
+
+“Wait, why did you want to come back here if you were just gonna leave immediately?” I ask. “I could have been napping already.”
+
+“R– Right,” she says, suddenly standing up a bit straighter. “I have something to tell you.”
+
+“What is it?” I ask, raising an eyebrow.
+
+She gulps, and I notice that her fists are clenched and she looks a little bit scared. What could she be trying to tell me? Is she betraying me? Is she dying of cancer? Is she about to confess that despite her love for Chad, they’re actually siblings, and their love can never be?
+
+“I’m keeping an eye on you,” she finally says. “And if you do anything suspicious… I’m going to report you to the Guild!”
+
+“...Is that it?”
+
+“What?”
+
+“Isn’t that what you were already doing?”
+
+“Well, yes, but—”
+
+“What changed?”
+
+“...Pike asked me to keep an eye on you.”
+
+“He did?”
+
+“He’s suspicious of you. And his suspicions are… concerningly accurate. To an extent.”
+
+“How so?”
+
+“I shouldn’t say out loud here,” she says. “But when the investigator gets here, you need to be careful and watch yourself.”
+
+“Sounds good,” I say, walking over to her. “Thanks, minion.”
+
+I pat her on the head, and she freezes up.
+
+“Now get out of here so I can take a nap.”
+
+With that, I Blink upstairs to the bedroom I claimed and flop down onto one of the beds. Below, Lauren stands in place for a few seconds, then turns and walks away.
+
+“I’m beginning to think that the reason you teleport away at the end of conversations is because you don’t know how to say goodbye.”
+
+What’s that supposed to mean?
+
+“It means you're socially inept.”
+
+Shut up, Obbnoxious.
+
+I settle into bed and almost immediately fall asleep. I wake up when my stomach starts rumbling around dinnertime, then make myself a meal out of one of the boars I hunted earlier. My Profession reaches level seven in the process, which is cool, though the food isn’t anything special. I mean, it’s better than raw pork, but I overcooked it a little, unfortunately, so it’s not as good as it could have been. Even worse, Culinary Analysis tells me that the dish is of “Poor” quality. I think this Skill might be useless because that was completely obvious.
+
+I take another nap, but this one isn’t very long, and when I wake up, I’m wide awake. And a bit hungry. I munch on some fish while I wander around the safehouse, trying to think of things to do. I can’t really go into any more Dungeons. If I level up one more time and have to evolve, that’d be bad, at least for now until my assassin issue is dealt with. In that case, all I can really do is chill out. Maybe I’ll go exploring the city again. I never got to finish my city tour last time, after all.
+
+I finish checking the house out, and after finding nothing interesting, I shrug and head out. Just as I’m about to walk away, I realize that Lauren is supposed to be coming over at some point, so I leave a little note behind for her to find. I summon a mana hand, and on a cobblestone in front of the house, I carve “out exploring.” That should get the point across.
+
+The safe house is on the opposite side of the city from Lauren’s house, so I get to explore the area around the north fork instead of the south. Interestingly enough, there’s actually a pretty big difference. The south fork was pretty peaceful at this time, but up here in the north, the streets are very much alive. The nightlife is much more active here, and I can see taverns and hear live music all over the place. There are people smoking something that smells horrid while giggling with each other in the alleyways, and women wearing nothing but a few strings calling out to drunk men on the streets.
+
+Feels like home.
+
+I spend a little while just walking around and checking out what the city has to offer. There’s lots to see, but nothing particularly jumps out. Well, there was this one guy who tried to grab my tail, but then my fist accidentally bumped into his head and he fell over and his buddy had to rush him away, but that’s not important.
+
+As I keep walking, I soon come into what looks like a higher-class district. The nightlife is still active, but it’s more bougie, and there aren’t as many grifters on the streets. Or at least, they’re not dressed like obvious grifters anymore. I pause in front of a bar for a second, contemplating going inside. Unlike the ones further north, this one isn’t too loud, though it does look more expensive. Still, I’m curious what kind of drinks a fantasy world has.
+
+Before that though, I can smell something interesting up ahead. Something tasty.
+
+Another minute of walking later, I find the source. There’s a guy with a street cart selling some kind of fried pastry out of it. I see one couple walking away with one of them, and it looks a bit like fancy funnel cake. Nothing too special, but there’s a line of people fifty long extending from the cart, so it must be good. I’m not that hungry, but by the time I get to the front of the line, I’ll have more than enough room.
+
+I walk up to the back of the line, drawing a few curious glances, but oddly enough, not actually that much interest. I have seen some people sporting some pretty weird outfits though, so maybe they think I’m just wearing a costume.
+
+For about a minute, I’m at the back of the line, forced to salivate as I see people walk by with their fresh street snacks, not even bothering to share a bite with me. I almost Snatch some from one of them, but manage to hold myself back. Stealing food is wrong and evil. I am not wrong and evil, so I won’t.
+
+Another minute passes, and someone gets into line behind me. I don’t pay them any attention at first, because food is more important, but after a few seconds, they nervously poke me.
+
+“Yes?” I ask, looking at them.
+
+It’s a young woman. Or maybe a girl. She can’t be much older than eighteen, if that. She’s a ginger with some of the brightest hair I’ve ever seen, a freckle-filled face, and wide green eyes. Beneath her freckles, her cheeks are a bit pink, and I can smell a bit of alcohol on her breath. Despite her apparent age, from her namecard, it looks like she might be an Adventurer or something, since she’s showing off her Class instead of her Profession or Species, like most people tend to.
+
+[ Annalise, Shadow Rogue, lvl 7 ]
+
+“A– Are you Yona?” she asks nervously.
+
+“How did you know that?” I ask, narrowing my eyes.
+
+“I’m a big fan!” she says, her eyes lighting up. “I heard you killed three Named monsters on your own! I wanna be that strong someday! By the way, I'm Annie! It's an honor to meet you!”

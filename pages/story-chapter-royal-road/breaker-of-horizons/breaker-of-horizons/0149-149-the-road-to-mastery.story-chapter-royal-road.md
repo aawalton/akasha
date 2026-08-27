@@ -1,0 +1,115 @@
+---
+id: c341f0f1-c36e-55fe-8210-039534495208
+page-type-slug: story-chapter-royal-road
+title: "149. The Road to Mastery"
+slug: 0149-149-the-road-to-mastery
+partOf: breaker-of-horizons
+position: 149
+ownLength: 2241
+unit: words
+publishedAt: 2021-11-04
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/779107/149-the-road-to-mastery"
+royalRoadId: "779107"
+---
+
+It was with some difficulty that Caden turned his full attention to the materials that the Demiurge had laid out for him. The awe and wonder he had felt at seeing all this arcane knowledge on display had been soured by the Academy augera's intrusion. It reminded him painfully of his present situation, effectively exiled here in the Academy while his friends were being strung around by the Prophecy on the fringes of the Empire, pursued by unknown assailants and Nightwatchers alike as they all attempted to find and speak with a wild augera. And while he was technically free to go back to his family in Creyvlor, he did not dare to do so out of fear that his very nature might bring some kind of Fateweaver reprisal upon them.
+
+With a heavy sigh, he helped himself to some paper for note-taking, then started on the Demiurge's ring-bound notes. However, it quickly became clear that this was going to be a lot harder than he had anticipated. He hadn't expected to be able to easily understand the notes but even on the very first page, he encountered technical arcanophanic terms and concepts that he hadn't been introduced to yet, or had only heard of in passing before. There were so many gaps in his theoretical understanding of arcanophany that he wasn't yet able to extract any meaningful insights. Before he could get to the actual meat of the matter, he had to first equip himself with the requisite knowledge to properly understand what the Demiurge was writing about.
+
+The hours passed quickly as Caden studied what the Demiurge had written, slowly filling up pages and pages with his own notes and questions as he compiled the new terms of reference he was encountering and tried to link them with what he had already formally learned about arcanophany in the Academy, or what he had since experienced from the whirlwind of events involving the augera (both chained and wild), the wellspring-ocean-core, and the Fateweavers. He didn't realise it was time for lunch until he felt a little tendril of intent disturb the ambient arcana as the Demiurge's wysana made contact, surprising him a little.
+
+'I have been instructed to make sure you eat. Will you come up to the cafe, or do you wish me to bring something to you here?'
+
+'Oh!' He turned his attention to the small presence. 'Uhm... here, if it's convenient?'
+
+'Convenience is not a factor,' the wysana replied matter-of-factly. 'Do you want to eat here, or in the cafe?'
+
+'Uh... here, I suppose.'
+
+There was a brief perturbation in the arcana as the wysana manifested more of itself in the area. An invisible hand gently pushed aside some of the mass of books and writing implements on the table Caden was occupying, and as soon as there was enough space, a plate and some cutlery appeared as though they had been there all along, together with a cup of iced tea. Caden stared at the batter-fried fish, recognising it as one of the things he usually ordered from the cafe menu over the course of the semester.
+
+'Here is your meal. When you are done, put it aside and it will be cleared away.'
+
+The wysana's presence vanished before Caden could offer his thanks, leaving him to wonder afresh exactly how the wysana was accomplishing all this. How it had come to be so familiar with his preferences was the smallest of the mysteries. What disturbed and intrigued Caden the most was how it was effortlessly and casually teleporting itself and other things around. He ate quickly, hoping to get back to the study of its nature as soon as possible. After all, the answers were literally right there in the Demiurge's notes and the copy of the ancient text.
+
+When he was done, he briefly wondered how to make contact with it to get the plate and cup cleared away. But just as soon as he had set them aside to turn back to his notes, the wysana whisked the detritus away without even a whisper of its presence. It happened so quickly and unobtrusively that for a moment, Caden wondered if he had somehow misplaced the cutlery, plate, and cup, because it was gone as soon as he glanced away and back.
+
+'Uhm. Thank you,' he tentatively sent out into the arcana, but there was no reply.
+
+The afternoon passed in much the same way. As dense as the Demiurge's notes were, Caden found the challenge of trying to wring meaning out of them extremely stimulating and invigorating. He was still only midway through the notes but he had already produced a substantial number of pages of his own questions and observations. Before he knew it, the wysana was back, prompting him to eat a dinner of seared cod, mashed potatoes, and mixed greens. It simply appeared once again as soon as the wysana had cleared some space for it. Caden's heart skipped a beat.
+
+'Wait!' Caden called, staring at the food.
+
+'Yes?' the wysana asked, sounding detached.
+
+'This... it... it's not on the menu,' Caden answered slowly.
+
+'No, it is not. Is there a problem?'
+
+Caden swallowed a lump in his throat. 'This... a friend made this dish. Just two days ago. What's going on here?'
+
+'What is the problem?' A small note of confusion entered the wysana's tone. 'Do you not want to eat this?'
+
+'Where did you get this?' he demanded.
+
+'It was produced in the usual fashion with heat applied to raw ingredients,' came the smooth reply.
+
+'No! I mean, how did you know... why did you give me this?'
+
+'The idea is yours. Is this not acceptable?' It sounded mildly worried now.
+
+'The idea is mine? What does that mean?'
+
+'It is in your auric-ambient-flare, in a position where it is possible to read desires. It is a common space to reference when serving food, or drink, or other such needs. Why is this dish not satisfactory?'
+
+'It... nevermind. Thank you.'
+
+The wysana lingered for a moment, its presence radiating more confusion, but it accepted Caden's thanks and vanished once more.
+
+Caden ate slowly this time, savouring the taste of Devon's cooking. The wysana had recreated it perfectly. He had to fight down tears as he ate, and it became clear to him why the thought had been buried in his auric-ambient-flare for the wysana to read. This was the last meal he had shared with his friends. Of course it would be on his mind. The physical hunger he felt had mingled with a more profound kind of hunger — one that ached for companionship. When the Fateweaver had snatched him away from the trailer, it had taken more than just the augeric shell from him. It had also taken away his friends, wiped him clean out of their heads and turned him into nothing more than a passingly familiar face on the campus.
+
+What he wouldn't give now to be there with them, or have them here with him. Even Kevan, that insufferable prick. Caden laughed a little and gave a little incredulous snort at the realisation that even Kevan's presence would have been something of a balm to him right now, alone as he was in the Vault.
+
+When he was done, he pushed the plate aside. This time, when the wysana whisked it away in the blink of an eye, it lingered, a vague presence in the arcana. 'Is there anything else you need?'
+
+'No. The food was excellent. Thank you.'
+
+'The Demiurge will be waiting in the arena in half an hour. Be on time,' the wysana replied, and then it was gone. If it felt any appreciation for the thanks, it gave no sign.
+
+With a sigh, Caden tidied his notes and left them in a neat stack next to the materials he was referencing. There was just enough time for him to stop by the dorm. It was only when he went right up to his wardrobe that he remembered he had nothing else to change into, but it seemed that the wysana had preempted him once again. Instead of empty drawers, he found a set of clothes more suited for active movement — a set of black exercise pants and a long-sleeved dark blue top to go with it. There was even a new set of shoes. The whole ensemble reminded him dimly of Kevan's and Emilia's usual attire for Thaumaturgy practice.
+
+'Thanks,' Caden muttered into the arcana as he changed, more out of reflex than any real expectation that the wysana would hear. It somehow felt rude not to keep offering thanks, even if the wysana didn't seem to care about it.
+
+Even though the sun had set, it wasn't cold enough to necessitate a sweater, so Caden made his way over to the arena in his new attire. As a matter of habit, he stopped by the counter to check the ledger and dimly noted that the last person to book the arena was Reyes, one of the students that he shared Thaumaturgy and Advanced Glyphs classes with. He had been using it on the very last day before everyone had gone home for the break.
+
+Caden made it to the arena doors with five minutes to spare. It was still completely dark and empty, so he called up a Minor Control Sphere to turn on the lights. Then, since there was nothing to do but wait, he started playing around with the other available functions and conjured a vaguely urban environment, forming walls, platforms and ledges out of the sturdy greyish material that had featured in the big fight between Emilia and Ambrose.
+
+At the stroke of seven, the Demiurge came through the doors. He had swapped his imposing arcanist regalia for something much simpler and more practical — black knee-length shorts, a simple white T-shirt, and red trainers. The staff, however, was still in his hand, clashing terribly with the attire. Caden couldn't help but stare.
+
+"Yes?" Caldwell asked, raising an eyebrow.
+
+You're the Demiurge, he wanted to say. It somehow didn't seem decent for someone to be able to see the Demiurge's knees. He had seen the Demiurge in more casual clothing before, and he had looked like he might have passed as a senior student. But Caden had never seen him this casual before. It somehow seemed wrong, that someone who looked so ordinary and unassuming was in fact the foremost arcanist of the age.
+
+"Uh... nice shoes," was all he managed.
+
+Caldwell's eyebrow rose a little higher, as though he understood what was passing through Caden's mind. "Thanks. They're a lot more comfortable than the ones that come with the robes."
+
+Caden was finding it hard to look at the Demiurge, or to even think of him as the Demiurge. The term 'mundane human' that he had used when talking to the Academy augera earlier now floated to the front of his mind. "So, uh, I'm here to learn how to deal with a wild augera. Where do we start?"
+
+"With the basics," Caldwell answered lightly, smiling. "Well, not the bare basics. We'll start with ordinary combat as you know it, and work our way up to dealing with a wild augera."
+
+A knot of tension formed in Caden's stomach. Combat against Caldwell? Suddenly, even though Caldwell's bare knees were distractingly ordinary, Caden felt a brush of fear and danger.
+
+"The broad principles of what I'm going to teach you will be largely defensive in nature," Caldwell continued. "If or when you encounter an augera, you shouldn't be looking to engage it directly anyway. That's not the wisest way to deal with them. So, to put us in the right frame, we'll work through exercises that require you to defend more than attack. We'll work with just me against you, first. Then, as we progress, we'll add multiple sources of aggression. Finally, at the last stage of our training, you'll be fending off attacks from multiple sources, while also defending several additional designates across a wide area."
+
+"Is that even possible?" Caden asked. "I mean, going against multiple people alone is difficult enough. How can one arcanist hope to do that while also defending multiple people if they're not helping in a gestalt?
+
+Caldwell nodded. "It's difficult. Almost impossible. Certainly something that is at the very limits of human achievement. Make no mistake, I'm not expecting you to achieve any sort of mastery by the time the term starts. We can only lay the foundation for now. What you build on it in the future will be up to you."
+
+"And this will help against a wild augera?"
+
+"I could simply tell you 'yes'," Caldwell said, smiling. "But I hope you'll see the applications for yourself once we make some progress. In fact, I insist on it. At the end of each of our sessions, I want to hear how you think what we've done maps over into actual use against an augera, wild or otherwise."
+
+Caden nodded resolutely, feeling a thrill of excitement now at the prospect of applying himself and learning from a master.
+
+"Well then, you've provided a nice environment." Caldwell cracked his neck, then spun his staff in a wide arc around him before touching its tip to the ground in front of him. Instantly, all the arcana in the arena came alive with his intent. "Let's begin, shall we?"

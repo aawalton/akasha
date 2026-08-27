@@ -1,0 +1,81 @@
+---
+id: 35f99885-9727-5096-b1a1-08ac04d262a5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1377 - Tolly Goes Home"
+slug: 0024-chapter-1377-tolly-goes-home
+partOf: chrysalis
+position: 24
+ownLength: 1002
+unit: words
+ownProgress: 1002
+publishedAt: 2024-07-24
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1729736/chapter-1377-tolly-goes-home"
+royalRoadId: "1729736"
+markedReadAt: "2026-06-29T19:44:25.180Z"
+---
+
+Hello, dear readers! It has been some time, but I greet you once more from the pages of my tome, the record of my grand adventures!
+
+It is I, Travelling Tolly, and I continue my amazing journey in the lands of the Colony, the remarkable species of monsters who have captured imaginations and set tongues to wagging. As you are well aware, I can never resist a wagging tongue, and as such have made it my mission to thoroughly explore the lands claimed by these boneless creatures and bring my tale of excitement and endeavour to you!
+
+When last we left you, I had been a resident of the Demon city of Roklu and the grand nest which the Colony had made underneath. Such an incredible place, the architecture, the customs, the people!
+
+However, and I’m sure this is no secret to you, precious reader, the third stratum is not, shall we say, the most salubrious of locations.
+
+Oh! I have travelled in the most miserable swamps, the most explosive of volcanoes. Never forget, ‘twas I who plunged into the depths of the forbidden mountain of Krak’tooa in search of the Crystal Fountain, hidden within the subterranean jungle of death, Amagor!
+
+However, it’s no secret that your Tolly is getting on in her years. Breathing the smoke and ash all day long isn’t good for the lungs, reader. I assure you that my doctor has said so!
+
+So it was that after my gentle urging, my host, guide and dear friend, Emilia, was persuaded that we might take our travels down to a deeper layer of the Dungeon.
+
+“Are you sure, Ms Tolly?” she asked me, wide-eyed.
+
+The precious thing.
+
+“If you need me to, we can slow down the tour. It’s important you get enough rest. Eight hours of sleep a day is best.”
+
+“I am perfectly well rested, dear,” I assured her.
+
+“But there is still so much to see here in the third! The Tower forge of Smithant is here, which is said to reach fifty kilometres high! Also there is a monument raised not too far away to commemorate the Eldest’s triumph over the demons! Are you sure you don’t want to see them?”
+
+“I am quite sure,” I told her firmly. “I am certain the Colony has left wonders everywhere they’ve set down roots, and I am eager to witness their triumphs below.”
+
+One should always search for the correct framing, reader. It is the key to any discussion! At my gentle urging, Emilia agreed to speak to the representatives of the Colony, and we secured passage via one of the gates to the home of ant-kind within the fourth.
+
+I don’t mind saying that my heart fluttered upon learning our application had been approved, reader! The fourth stratum is, after all, my home!
+
+The moment we stepped through the gate, we left the darkness, smoke and ash behind, and entered a world of light, life and beauty. Ah, it soothed my soul to set foot once again into that vibrant place, and I was most keen to see what the Colony had made of themselves in this, the most densely occupied layer in all the Dungeon!
+
+Naturally, it was necessary to endure a period of mana acclimation before we travelled, reader, don’t think I didn’t take sensible precautions!
+
+(In fact, we weren’t allowed to travel without having done so. The Colony is quite strict on such things!)
+
+Stepping out and into the legendary mountain home of the ants, it was an exciting moment, reader! After all, who hasn’t heard tales of the great nest? My fellow old biddies and I have exchanged many a salacious rumour over cards, not that I believed any of it, of course, but it is fun to speculate!
+
+No, I wasn’t expecting to see any human sacrifice or such nonsense here, and indeed I did not.
+
+My first impression, which I took in most eagerly, I assure you, was one of prosperity. We stepped out of the gate and into the major gate reception of the ant mountain, and it was busy! We all know of the incredible mercantile efforts of the brathians in conjunction with the Colony, but seeing it firsthand, I was taken aback by the sheer scale of it!
+
+So many gates, with people and loaded carts and wagons going to and fro in a seemingly endless stream! The mana requirements for such an enterprise must have been absolutely absurd, and I could see huge arrays gathering the required energy all throughout the vast chamber we found ourselves in.
+
+It was quite a thrill, reader, to be amongst such to-ing and fro-ing. Such a scene wouldn’t have been out of place in the place I call home, the Silver City!
+
+My guards were perhaps a little more relaxed in this space, due to the sheer number of non-ants around, but I think it was rather foolish of them, considering there were still thousands and thousands of them! Directing traffic, inspecting cargo manifests, and performing all of the millions of administrative tasks that go into running a gate hub of this size were teams of ants, performing their roles with the efficiency and aplomb I’ve come to associate with their species.
+
+“Welcome,” Emilia greeted me, “to Lightnest, home of the Colony in the fourth stratum.”
+
+She seemed just as excited as me to be here, and I had to ask her.
+
+“Have you been here before, my dear?”
+
+She smiled at me, brilliantly.
+
+“Only once, when I was much younger, but it is a treasured memory of mine.”
+
+“And what about the Eldest? Would we be able to find this most august of ants somewhere within this nest?” I pressed her.
+
+Her smile slipped just a little.
+
+“I’m afraid not, Ms Tolly. The Eldest is presently very deep, and not available to speak to. I must apologise.”
+
+Well, that’s fine. You know as well as I do, dear reader, that I don’t give up on an exclusive so easily!

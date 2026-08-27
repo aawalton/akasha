@@ -1,0 +1,351 @@
+---
+id: cef1e767-5055-592b-9d3e-e1e5906f2132
+page-type-slug: story-chapter-royal-road
+title: "55: Bargaining"
+slug: 0055-55-bargaining
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 55
+ownLength: 3973
+unit: words
+publishedAt: 2025-10-20
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2691150/55-bargaining"
+royalRoadId: "2691150"
+---
+
+After what felt like waaaaay too long, Chloe finally made it to Rellstead. Oh, and Raenof was with her too, obviously, but that part didn’t matter nearly as much as the fact that she had made it and got just a little bit closer to finishing the mission.
+
+Their horses trotted slowly through the streets. The town wasn’t exactly big, but it had this cozy feel to it. People wandered between shops, chatting by carts and stalls, even a lot of kids were running around openly.
+
+But the thing that really grabbed Chloe's attention was the people. Well, the not normal people. There were humans, sure. But also a lot of not-humans.
+
+Folks with ears sticking out of their hair, tails swishing behind them. Some had big wolf-like features, kind like Wolfie, while others looked sleeker and cat-like, with twitchy tails and slitted eyes.
+
+She peeked over at Raenof. At some point before they walked into Rellstead, he’d done some glowy magic thing on himself to hide his pointy ears. Raenof looked just like a totally regular guy now.
+
+Honestly, she already thought he looked almost exactly like a normal to begin with, so the whole disguise felt kinda unnecessary. But when she asked about it, Raenof just said it was “just in case.”
+
+Anyway, she didn’t really care. There were more important things going on. “Hey, is there a reason why there’s a lotta wolf people and cat people here?"
+
+Instead of just answering like a normal person, Raenof pulled out his journal. "Hmm, let me make sure."
+
+He flipped through a few pages, read it for a bit, then tucked the book away before launching into an extensive explanation. Apparently, the proper name for all the wolf-eared, cat-tailed, fluffy types was beastkin.
+
+And there were even more kinds Chloe hadn’t seen yet, like bird people, who supposedly had wings and feathers. But Raenof said they didn’t like leaving their own territory much, so seeing one out here was pretty rare.
+
+Anyway, Rellstead had always had a big beastkin population. Something to do with it being close to their homeland.
+
+The town sat right on the edge of their territory, so over time, it turned into a shared space between beastkin and humans. Raenof went on about borders and politics and cultural exchange, but Chloe kind of tuned out halfway through.
+
+Most importantly, while beastkin was the official term, saying it out loud around them was considered kinda rude. Sure, it was the term most human kingdoms used, but the wolf and cat people themselves didn’t like it.
+
+As they rode slowly down the main street, Chloe leaned over toward Raenof. “So… do you know where the Thieves’ Guild is in this town?"
+
+“Not exactly.” Raenof said.
+
+“What? But you always know stuff.”
+
+“I know a lot. But that doesn’t mean I know everything.”
+
+Chloe let out a groan and threw her head back. Mr. White snorted underneath her, clearly feeling just as betrayed. “Ugh, fine. I guess we’ll just have to ask around.”
+
+Raenof nodded, then lifted a hand. “Before that, we should find a place to leave the horses.”
+
+“Why? Riding’s way more fun than walking.”
+
+“You can’t bring horses everywhere, Chloe. What if we need to go inside a building? Or through a narrow alley? Or a crowded street?”
+
+“Fine, I get it,” Chloe mumbled. Mr. White gave a swish of his tail like he wasn’t thrilled about it either.
+
+Chloe and Raenof rode through Rellstead’s streets, weaving past crowds and carts until they finally found a stable near a wide market square. While Raenof talked with the stable hand, Chloe slid off Mr. White’s saddle and gave him a few pats on the neck. “Don’t worry, I’ll come back for you.”
+
+Mr. White snorted like he didn’t believe her, so she kept patting him anyway. He deserved it.
+
+Raenof handed over some coins and turned back to her. “Alright, looks like the horses are taken care of. Now we can look for the Guild.”
+
+Chloe nodded and started scanning the crowd. The streets were filled with both humans and beastkin. One guy even had goat horns. I should ask Raenof about that later.
+
+Anyway, Chloe and Raenof started asking around for directions to the Thieves Guild. Their first decent lead came from a fruit seller with a twitchy cat tail and a jagged scar over one eye. The guy was clearly popular as he was chatting with at least six customers at once.
+
+Still, when Raenof asked politely, the man spared them a glance and leaned in. “Big building, west side. You’ll know it when you see it.”
+
+After answering, the cat man was already turning to haggle with someone else. Chloe opened her mouth to ask what kind of big building, or how far west exactly, but the guy was way too busy.
+
+She exchanged a look with Raenof, and they both silently agreed to keep asking around. Their next try was a tall woman with silvery hair standing outside a tailor’s shop. “The Thieves Guild? These days, it’s more food than thieving. Head west and you’ll spot it.”
+
+She even bent down slightly to compliment Chloe’s hair before waving them off. Chloe beamed after leaving the lady. “She was so nice. Like, really nice.”
+
+Raenof nodded. “She was. But let’s stay focused.”
+
+“I am focused,” Chloe said.
+
+Raenof didn’t say anything. Which probably meant he didn’t believe her. This annoyed Chloe, but she didn't say anything, figuring it was best just to move on.
+
+They got a few more vague directions after that, each one only kind of helpful. Eventually, after what felt like several wrong turns and way too many distractions, they found the Thieves Guild, probably?
+
+The building was huge, with wide windows that gave a perfect view inside. Chloe saw people sitting at cozy little tables while servers weaved between them, balancing a lot of trays filled with food and drinks.
+
+“Uuuh, Raenof? This doesn’t look like a Thieves’ Guild to me.”
+
+“You're right, this place looks like a restaurant.”
+
+“What's that?"
+
+“A place where people go to eat. You pay, and the people inside bring you food.”
+
+"Oh, okay."
+
+After hearing Raenof's explanation, Chloe finally looked at the gold plaque mounted just above the main entrance to the restaurant. It read, "The Thieves Guild: Where Every Meal Has a Story."
+
+Raenof read it too, then chuckled. “I can’t believe it. The Thieves’ Guild here is just... a restaurant.”
+
+Chloe leaned closer to the window. Inside, someone laughed while chewing on something buttery and perfect. “I… can't believe it either."
+
+“Come on. Let’s see if they have a table available, maybe the waiters will know about where the real Thieves Guild is." Raenof said.
+
+He held the door open and Chloe walked in first. Inside, most of the tables were already full.
+
+Everyone was eating, laughing, and generally having a great time. Only a few tables were left, and judging by how one of the waiters kept eyeing the door, even those wouldn’t last long.
+
+“I guess people really love their food,” Chloe muttered, elbowing Raenof.
+
+Before he could reply, a waiter approached. He was tall and thin, but with a thick mustache. “Welcome to The Thieves Guild. Table for two?"
+
+Raenof answered before Chloe could. “Yes please."
+
+They were seated by a window next to a rowdy group of beastkin who were locked in a very intense argument about dessert. The waiter handed over a couple of thin paper things Raenof said were called menus.
+
+Chloe gave hers a glance. It had lots of words and... more food words. Most of it meant nothing to her, but apparently restaurants needed these to function.
+
+The mustached waiter leaned in with a big smile. “Have you dined with us before?”
+
+Chloe shook her head. “Nope. But we were kinda hoping to, um... visit the actual Thieves Guild?”
+
+His smile widened, somehow. “Perfect! Then you’ll love our Blackout Special. Today’s soup is mystery-flavored. A customer favorite!”
+
+Raenof opened his mouth to say something, but the waiter vanished before he got the chance. Chloe leaned over the table. “Okay, so that guy was messing with us right?"
+
+“Not sure yet,” Raenof muttered, flipping open his menu. “But maybe we just play along.”
+
+“So we order food... until something happens?”
+
+“Exactly.”
+
+The waiter reappeared with two glasses of water and enough enthusiasm to power a windmill. “Have you decided? Might I recommend the Bandit Sandwich?”
+
+“Do any of the meals come with, like... a secret knock that will let us in to the real Thieves Guild?” Chloe asked, only half-joking.
+
+“Only the steak,” the waiter whispered, then winked and disappeared again.
+
+They ordered anyway. One dish became two. Then three, and a lot more after.
+
+First, it was a tray of sliced roast meat drizzled with something sweet and sticky. Then a bowl of stew with so much steam rising from it, Chloe couldn’t even see what was inside at first.
+
+Bread followed next, and a lot of them. Some of it round and crusty, some flat and oily, and one kind that was rolled up like a scroll. There was also something shiny and pickled that jiggled when poked, and a stack of grilled vegetables.
+
+By the fourth plate, Chloe realized two things. One: the waiter was absolutely dodging their questions. Two: nothing on this table had even a sliver of brain in it.
+
+She took a bite of some roasted whatever, chewed, and frowned. This thing sucks.
+
+Across the table, Raenof was picking carefully through a pile of greens, nibbling only at the vegetables and completely ignoring the meat dishes. Chloe was pretty sure he winced when the waiter brought out something called “Hunter’s Blood Sausage.”
+
+“Is it just me, or is none of this actually good?” Chloe asked out loud, poking at a chunk of meat.
+
+Raenof gave a tiny shrug. “It’s... elaborate.”
+
+They both kept trying to ask questions between bites, things like, “How do we meet someone from the actual guild?” and “Is there, like, a back room or secret handshake or whatever?”
+
+But every time they brought it up, the mustached waiter popped up out of nowhere and offered them something new. Unfortunately, Chloe and Raenof couldn’t seem to flag down any of the other servers. The rest of the staff just ignored them completely. So, they were stuck with Mustache Guy.
+
+And sure, they did think about just getting up and leaving. More than once, actually.
+
+But every time Chloe and Raenof tried to leave, the waiter somehow talked them into staying. He always had another dish to recommend, another “must-try” item they just couldn’t miss. Honestly, it was kind of terrifying.
+
+By the end of it, their table looked way too full. Chloe leaned back in her seat, arms crossed. “This has been a big waste of time.”
+
+“We may have overcommitted, yes."
+
+“You know, what if this place is just a normal restaurant?”
+
+Raenof pushed a bowl of untouched soup aside with a sigh. “It’s starting to seem that way.”
+
+“Then why call it The Thieves Guild? If it’s just food, call it something else."
+
+“Maybe the owners thought it was funny?”
+
+“I don’t get the joke. It’s not even a good joke. This whole place is confusing."
+
+Just as she stabbed a piece of mystery meat out of spite, the mustached waiter appeared again. Chloe didn’t even wait for him to speak. “No more jokes. Where’s the real Thieves Guild? I mean the actual thing. Bounties. Missions. Sneaky cloak people. That.”
+
+The waiter kept quiet for a few seconds. But he soon continued speaking with his usual overly cheery smile. “Have you tried the Shadowberry Tart? Lightly sweet, with a hint of—”
+
+Chloe dropped her forehead onto the table with a loud thunk. “I’m gonna scream.”
+
+Right then, another voice called from across the room. “Oh for goodness sake, stop squeezing the newbies.”
+
+Chloe looked up to see a woman in server’s clothes walking toward them. She had short gray hair, and a towel slung over one shoulder.
+
+The mustached waiter blinked nervously. “I was just making sure we got business. Nothing wrong with a little salesmanship.”
+
+“Go clean off table seven,” the lady said, flicking her hand. “And leave the poor things alone.”
+
+The mustached waiter let out the loudest sigh Chloe had ever heard. He even gave them a sad wave before shuffling off.
+
+Chloe watched him go, wide-eyed. “What just happened?"
+
+The older woman shook her head and turned back to them. She nodded toward a door tucked beside the bar. “Main operations are through there to the left of the bar. You’ll find stairs that go down.”
+
+Chloe blinked. “Seriously? That’s it? Just... behind the bar?”
+
+“That’s the one,” the woman said, offering a dry smile. “It’s an open secret. But we don’t want just anyone wandering in. You two looked like you had real business. So I stepped in.”
+
+Raenof stood up, adjusting his cloak as he prepared to go. “Thank you for your help. We'll be on our way then.”
+
+Chloe also turned to leave, but the woman raised a hand and pointed behind them. “You can head down, after you pay for all that food. Oh, and there’s a cleanup fee per plate you didn’t finish.”
+
+Chloe stared at the table. Then at the woman. Then at Raenof. “Okay but, like, how much do we have to pay?”
+
+"Eh, nothing too crazy. Don't worry about it."
+
+***
+
+There were many, many rules that angels were expected to follow. One of the most important, of course, was the strict prohibition against entering the mortal realm without formal authorization.
+
+But rules only held weight when someone was around to enforce them. And the real question was, who, exactly, had the authority to enforce anything on Z?
+
+In addition to her role as Administrator, Z was also technically the Senior Vice President of Operations, reporting directly to COO Agni.
+
+The only individuals who could realistically report her and expect their concerns to be taken seriously, were other administrators of similar standing. Someone like L, who served as the Senior Vice President of Finance in addition to his role of administrator.
+
+Fortunately, COO Agni had decided to help Z. He had called L and several other top administrators into a meeting. That left Z with a rare window of opportunity. Anyone who noticed her absence in the meantime would be of lower rank, and in Divinity Inc.’s rigid hierarchy, concerns raised from someone of a lower rank could be dismissed easily.
+
+So, with the other administrators distracted, Z entered the mortal realm. It wasn’t something she would normally do. But CEO Y’s latest announcement had changed her plans significantly.
+
+Now, cloaked in the guise of a peasant woman, she moved through a crowded marketplace. Her wings and uniform were gone, replaced by calloused hands and an uneven gait. No one looked twice, which was intentional.
+
+Z was here to find one man, and one man only. He shouldn't be that hard to find, there was only ever one real disguise he used. Even then, it barely qualified as effort.
+
+She walked past vendors shouting prices and children darting between stalls, but with each step, the noise thinned. Turning down a narrower street, the crowd faded behind her.
+
+The alley she entered was quiet, and littered with broken crates and shattered glass bottles. And there, at the far end, half-slumped against the wall, sat a man with a beard so wild it swallowed half his face. A bottle hung loosely from his hand, still half full. Z had no idea where he’d procured it, nor did she particularly care.
+
+She stepped forward, and immediately, the man lifted his head and set the bottle down beside him. He looked straight at her, like he’d known she was coming the moment she stepped foot in the city.
+
+Z tried her best to not let his gaze bother her. “It's been a while."
+
+The man didn’t answer, and instead, he took another drink. Like she wasn’t even there.
+
+“If you’re not willing to talk, you could at least say so. I’ll be on my way.” Z said, feeling annoyed.
+
+The man finally put his bottle down, again. “I don't mind talking for a short while. But, are you really in a position to be frustrated?”
+
+A few seconds passed before Z exhaled and gave a small nod. “I’ve been… going through a lot.”
+
+The man looked at her face, as if weighing the honesty of her words. “I can tell."
+
+Z leaned back against the wall, wrapping her shawl a little tighter around herself. It was part of the disguise, something she hadn’t given much thought to at first. But for some reason, the alley felt colder than it should have. “How’s the Thieves Guild doing?”
+
+“Business as usual."
+
+“You always say that. As if usual doesn’t involve dozens of forged permits, multiple spy networks, and at least one noble family getting blackmailed.”
+
+“Just for the record, blackmailing nobility is illegal in Ishgria.”
+
+“Yes, I’m aware. And yet you’re still very much the head of the Thieves Guild. I know most of your operations are technically legal these days, but surely not everything is above board.”
+
+“We have… an understanding with the authorities. Anything that isn’t strictly by the book has alternative channels of approval.”
+
+“Of course, alternative channels,” Z repeated, unimpressed.
+
+“I didn't make the rules,” the man said, shrugging. “We also operate under certain legal provisions. Royal exemptions. Special clauses. Very boring paperwork, I assure you.”
+
+"I still don’t understand how in the world you managed it. You took a gang of pickpockets and smugglers and somehow convinced the Ishgrian government that a guild filled with such lowlives would be a good idea."
+
+“Honestly, I didn’t do much. She was the one who started everything. The only soul I’ve ever known with a vision I could actually get behind.”
+
+“Right, the First Queen.”
+
+He nodded. “Back then, she needed order. I had networks, influence, and a bit of leverage.”
+
+“You had dirt on half the court,” Z said flatly.
+
+“I prefer to call it… actionable intelligence. Not that the court made their corruption hard to find."
+
+“How bad was it? It’s been a while since I reviewed Ishgrian history.”
+
+“Bribes weren't hidden at all if anyone bothered to look for even half a second. Military contracts sold to the highest bidder, or whoever brought the most wine. In those days, many nobles would even go so far as to sponsor bandit groups just to cut trade routes to their rivals."
+
+“That sounds… absurd.”
+
+“It was, but humans don’t work the way angels do. Maybe you'd know that if you spent more time with mortals."
+
+Z looked away for a moment. “It’s been a long time since I last spoke to a human.”
+
+The man let out a sigh. “Can’t say I enjoy it much myself. But, Ishgria saw things differently. So I learned to see things the way she did. Or at least, I tried.”
+
+There was a pause between them, but not an uncomfortable one. Eventually, Z spoke again.
+
+“What was the deal you made with her, exactly?”
+
+“I offered to clean things up. Turn my crew of thieves and crooks into a proper guild, make everything look respectable, and make sure our activities were always reported to the right authorities. In return, she gave us official recognition. As long as we paid our taxes, of course.”
+
+“Taxes or not, you do realize how ironic this all sounds, right? You lead the Thieves Guild, a legally registered organization that barely even steals anymore."
+
+The man shook his head. “This isn’t the first time someone’s brought it up. And at worst, we operate in legal gray zones. If we didn’t know how to walk that line, we wouldn’t still be here.”
+
+“Then why not just rebrand? Call it something more… accurate. At this point, you’re less a guild of thieves and more a firm of morally flexible mercenaries.”
+
+Something shifted in the man's expression. The humor faded, replaced by something heavier. “Because the guild was built by thieves. People who had to claw their way into relevance because no one else would give them a chance. That name... it’s a reminder of what the guild used to be. Of what I used to be. If we scrub it clean just to seem respectable, we'd be lying about where we got our start. And I’m not interested in rewriting history just to make it easier to swallow.”
+
+Z was quiet for a moment longer. Then, finally, she gave a small nod. “Fair.”
+
+Eventually, the man tilted his head and gave her a look. “Now then, why don’t we stop circling and get to the part where you tell me what you really came here for?”
+
+“Alright, I… need a favor.”
+
+“Of course you do. But before that, there’s a bit of business we ought to take care of first.”
+
+“What do you mean?”
+
+All of a sudden, the man’s voice became deeper for a few seconds. “Perdition Rite Number Six: Divine Spear.”
+
+A thunderous crack split the sky. Z looked up just in time to see it.
+
+She saw a spear of black energy tear down through the clouds and slam into the ground further down the alley, hitting something hidden with enough force to shake the stone under her feet.
+
+Z narrowed her eyes. Through the smoke and fading glow, she caught sight of feathers, glowing faint gold, still twitching. The spear had struck a bird, now pinned clean through the chest.
+
+“How long had that thing been watching?” she asked, turning back to the man.
+
+“Since the moment you stepped into the alley. You’ve gotten sloppy.”
+
+The black spear soon faded into nothing. The bird crumpled mid-air, its glow sputtering out.
+
+Z watched the last flicker fade with a blank expression. Then, finally, she turned back to him. “It’s been a very long time since I’ve stepped back out into the world.”
+
+The man gave a small nod, letting the silence stretch for a moment longer. “So, what do you want, really?”
+
+“I want your help. Because I want to fight back against the gods.”
+
+“You? Of all people? What brought on the sudden change of heart?”
+
+“Because this iteration of the Great Game… will be the last."
+
+Upon hearing this, the man looked genuinely surprised. "And you're sure of this?"
+
+"Yes."
+
+The man’s gaze lingered on her a moment longer, measuring the weight behind her words. Then, he said, “I understand why you came here. But what I don’t understand is what makes you think I’d work with you.”
+
+“I don’t know. I just figured… I’d try.”
+
+“Forget it. You’re not in the wrong for coming here. But I am not going to work with you, not after everything that has happened before."
+
+“Back then… I didn’t know what I was doing.”
+
+“Don’t give me that. You knew damn well what you were doing. You chose your side. Maybe you were just following orders. Maybe you even thought it was right. And I can understand that, but that doesn't mean I can forgive you. Honestly, just talking to you at this very moment is testing the limits of my patience."
+
+Z’s shoulders slumped, just slightly. “Apologies, I’ve… always felt so hopeless when it comes to this kind of thing."
+
+The man looked at her again, with a much colder gaze. “Then don’t come to me. If you really want to make a change, find someone else. I have my own plans, and they don’t involve you.”
+
+The moment he finished speaking, the man vanished in an instant. The space he left behind felt wrong somehow, like the air hadn’t caught up with the absence.

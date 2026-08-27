@@ -1,0 +1,69 @@
+---
+id: b14979a9-59bb-54c9-966e-51ffe4485de9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1609 - A Difficult Journey"
+slug: 0258-chapter-1609-a-difficult-journey
+partOf: chrysalis
+position: 258
+ownLength: 920
+unit: words
+ownProgress: 920
+publishedAt: 2025-07-18
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2444581/chapter-1609-a-difficult-journey"
+royalRoadId: "2444581"
+markedReadAt: "2026-06-29T19:52:04.250Z"
+---
+
+“We need to move faster,” Chozth demanded. “At this rate, it will take a week to reach the heart and give this invader what it deserves.”
+
+She followed her statement with a powerful strike to the side of the ooze cocoon that contained the giant ant. However, power was relative, and no Krath had ever considered their arms strong, sticklike as they were. Zluth doubted the monster within felt a thing.
+
+“We are at the peak of a wave,” Zluth hissed at her. “Moving through the Dungeon is dangerous enough even without dragging this giant sack around with us.”
+
+A noise grabbed his attention and he swivelled his eyes, flattening himself against the tunnel wall on reflex. After a few moments of careful examination, he resumed his normal size, confident that they were, for the time being, safe.
+
+Discontent with his lack of respect, Chozth glared at him, but was smart enough to know she should defer to the experienced scout at times like this. Zluth had successfully traversed sections of Dungeon that no other scout would even attempt in recent months. It would be foolish to argue with him.
+
+“Then how can we move faster? The less time we spend in the tunnels, the safer we will be.”
+
+Objectively true, yet there wasn’t much Zluth could do to fix the situation.
+
+“Have the ants pursued us into the tunnels?” he asked. “Mulzoz was going to watch them.”
+
+“Nothing so far,” Chozth spat angrily. “The ants are more cowardly than we thought.”
+
+“Or smarter. They may be willing to sacrifice this one in order to keep their invasion alive.”
+
+They hadn’t expected this. The Krath had been confident that the ants, who had shown they would go to extraordinary lengths to prevent even one of them from being taken, would stop at nothing to retrieve their leader. That the giant monster had preferred to let itself be taken rather than allow its allies to take on risk and help said all that needed to be said.
+
+“If they don’t come, their invasion is still over,” Chozth burbled gleefully. “Once this beast is turned, we can set it against its own kind. How will they react when their own champion returns to them, dripping with malice and hate?”
+
+Zluth also felt a surge of savage, hate-filled joy at the thought. The cursed ants and their invasion had gone on too long to be tolerated. It was time for them to feel the true terror of the Krath and fight against one of their own. He couldn’t wait to see what emerged from the primordial slime once the ant had been tossed in. A shambling horror, no doubt, its mind twisted and warped like all the others who had experienced Theorazzn’s touch.
+
+“What’s going on back here?” Thulziss growled as he slid around the corner. “We have a hundred warriors holding down this section of tunnel so we can plot our way forward, not hold conversations!”
+
+At the appearance of the massive, mighty Krath’lath, Zluth was careful to appear less threatening and defiant. Even the formidable Chozth was less vocal around the leader of the Gluzzgith, deferring to his authority. Ever since he had emerged with his tribe's warriors from the heart, Thulziss had been the leader of their assault by virtue of the strength of his tribe and his own power. No other slug was willing to stand against him, therefore, he was in charge, and he did not tolerate fools.
+
+“We are plotting our path,” Zluth said, “but this area is known to be treacherous. We could take a longer, safer route, but Krath’lath Chozth suggested we should move faster and spend less time exposed. We were weighing up our options.”
+
+The fact that he was even allowed to speak directly to Thulziss without having his head bitten off showed just how high Zluth had risen over the course of the invasion. When this was all dealt with and over, his tribe, the lowly Slee, would ascend high along with him. When he thought of the rewards that would come his way when all was said and done, the saliva hissed and bubbled in his mouth. New Slimegrounds, expanded territory, his pick of Krath to absorb into the tribe.
+
+He couldn’t wait, and all he had to do was make sure he didn’t lose the favour of the powerful tribe leaders around him now that he had it.
+
+If the ant monster was able to break down the fortress after it had been turned, then he would be hailed as the most cunning and vicious Krath who took part in this fight.
+
+Thulziss snarled and spat, eyes sweeping the tunnel atop their stalks.
+
+“We will go that way,” he said, pointing with one arm.
+
+Zluth turned to look down the tunnel, confused.
+
+“There? That… can I ask why?” he said, catching himself before he declared it a foolish idea.
+
+Thulziss grinned savagely.
+
+“The minor tribes are not told all the secrets of the Krath, since you lack the strength to defend them.”
+
+Zluth grew still, carefully not reacting as he felt the rage boiling off of Chozth. If she didn’t know this particular secret, did that mean Thulziss considered her Thuuz to be a ‘minor tribe’?
+
+“Every tribe has shortcuts cut into the stone,” Thulziss went on, not acknowledging the insult he had levied. “The Gluzzgith are no exception, even up here. We will still have to fight our way down, but it will be faster, and safer. Get moving.”

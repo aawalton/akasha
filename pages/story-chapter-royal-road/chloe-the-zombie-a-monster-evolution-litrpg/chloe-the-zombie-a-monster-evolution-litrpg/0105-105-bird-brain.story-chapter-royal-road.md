@@ -1,0 +1,147 @@
+---
+id: c0cea9d6-6b02-5221-99b0-e9abf13cd8ac
+page-type-slug: story-chapter-royal-road
+title: "105: Bird Brain"
+slug: 0105-105-bird-brain
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 105
+ownLength: 1970
+unit: words
+publishedAt: 2026-01-26
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2980985/105-bird-brain"
+royalRoadId: "2980985"
+---
+
+There was a sickening thwack as the shadowy spear struck home. The Thunder Bird let out an agonizing scream as it thrashed around. Its wings beat the ground and the air violently, sending up a massive cloud of dust and scattering all of Ynett’s ice spears everywhere.
+
+“Don’t let it get back up!” Chloe yelled, flying down. The big ice chicken was clearly close to dead, Now they just had to finish it before it got back up.
+
+Ynett, who was still overhead, didn't need to be told twice. She used her telekinesis to slam the creature's uninjured wing down onto the dirt, pinning it to the ground again. Sierra darted in next.
+
+Sierra used her shadow claws to slash across the bird’s talons, going for the joints and all the stringy stuff that made its claws move. Then Raenof decided to do something seriously flashy.
+
+He slammed the butt of his staff onto the ground, and a small glowing rock shot up from the dirt. He grabbed it, and as he flung it toward the bird’s remaining eye, the rock suddenly started to glow even brighter before exploding right in the bird’s face. It didn't seem to hurt the bird as much as it blinded it, making the creature shriek and thrash even harder.
+
+“It can’t see! Get the head!” Ynett yelled out, her voice echoing in Chloe's brain.
+
+This was Chloe’s cue. She focused all her shadowy magic right into her arm. Her limb stretched and warped immediately, no longer looking like a normal arm, but a terrifying mass of black, writhing tendrils. It zipped outward rapidly, going straight for the thunder bird's skull.
+
+THWACK!
+
+The shadowy, stretchy fist slammed into the side of the Thunder Bird’s head with a sickening impact. The whole giant creature just went completely limp. Its glowing blue feathers instantly went dull, and all the raging electricity just fizzled out, leaving it a huge, silent, defeated pile of bird. Chloe retracted her arm, feeling great that her punch actually did do the trick.
+
+[You have killed: Thunder Bird (Level 55)]
+
+[Experience has been distributed evenly among all participants involved in the kill.]
+
+[You have leveled up! 6 >> 8]
+
+[Strength +5, Speed +18, Vitality +6, Magic +34, Resistance +19]
+
+[1 Trait Point Awarded]
+
+Chloe was feeling totally awesome. Not only did she deliver the final blow, but she also snagged two whole levels just from hitting a dumb bird! She flew down from her victory hover and landed right next to the giant, dead Thunder Bird..
+
+But the levels weren't even the most important thing right now, obviously. The most important thing was the brain.
+
+Chloe stared at the massive, lifeless head. How exactly was she going to eat that brain? It must have been bigger than well, her.
+
+She imagined trying to crack open that thick skull, which was probably super tough and annoying. And even though she totally wanted to eat the brain right now, all that hard work just to open the skull would absolutely ruin the enjoyment a little bit. And what if she accidentally cracked the skull too hard? That could affect the taste.
+
+Speaking of taste, Chloe desperately wondered what the Thunder Bird’s brain would even be like. Would it be zappy, like a Thunder Wolf brain? Or would it have some totally different, exciting flavor altogether? She started thinking it might taste like pure, raw electricity, or maybe it tasted like magic, but way spicier. Chloe’s mouth started watering hard just imagining the possibilities.
+
+Chloe was completely lost in her epic brain-eating fantasy, staring intently at the bird’s colossal skull. She was so deep in thought that she didn't even notice the others approaching.
+
+Finally, she felt a gentle poke on her shoulder. “Chloe?” Raenof asked. "Are you alright?”
+
+“I'm fine!" Chloe declared, snapping out of her intense brain-snack visualization.
+
+"You sure?"
+
+"Yep, totally."
+
+Raenof signed, then gave a pointed glance at the gigantic, dead bird looming behind them. “The fight is over. We should conduct the ritual now, using the feather, so we can travel to the Sanctum of Dawn. Unless you have some other immediate plans we should be aware of?”
+
+Chloe smiled nervously, her eyes darting between Raenof’s serious face and the colossal, motionless skull of the Thunder Bird. She shifted her weight from one foot to the other. “Oh, me? No, no other plans! Well, I mean… maybe just one plan. One pretty big, brain-related plan.”
+
+Ynett, who had floated down to land beside the elf, didn’t even look at Chloe. “She wants to eat the Thunder Bird’s brain.”
+
+“NO! I do not!" Chloe replied instantly.
+
+She looked horrified that Ynett had called her out so quickly. Then Raenof just turned his eyes to stare directly at her. His expression didn't change, but it somehow conveyed a complete and utter lack of surprise.
+
+Chloe figured that was it. She lowered her arms and admitted with a defeated pout, “Okay, fine. I want to eat the brain. It's huge, and probably tastes really good too."
+
+Ynett’s lips curved into that annoying, smug smile. “Oh, I knew it! It’s simply adorable how predictable you are, Chloe. Did you honestly think we wouldn’t notice?"
+
+“Hey! I am not predictable!”
+
+“Right, of course. Since you are so focused on your culinary needs, and we have time now, we can all simply wait for you to finish your business first.”
+
+Chloe blinked. Wait, what? That was actually… considerate. She was totally surprised that the evil snake lady was actually being kind of nice. That didn't change the fact that Chloe still definitely didn't like her, so she just crossed her arms and let out a huge huff instead of saying thank you.
+
+Raenof sighed deeply, rubbing the bridge of his nose like he already had a headache just thinking about what was coming next. “I am not particularly in the mood to watch a Thunder Bird’s head be dismembered. Sierra, Mr. White, and I will move a bit down the path.”
+
+Sierra, who had been nervously eyeing the bird’s huge beak, nodded quickly and gave Chloe a timid, small smile. “Um, just let us know when you’re done, okay?”
+
+“Will do, Wolfie!” Chloe yelled after her.
+
+Mr. White snorted, letting out a puff of cold air, and Chloe just waved enthusiastically at the skeleton horse. Such a good, bony pal.
+
+Raenof sighed again and gently guided Sierra and Mr. White down the path. Ynett just let out a quick, dismissive snort before floating away after them. If nothing else, at least Ynett knew when a zombie gal needed some peace and quiet for her incredibly important, delicious, brain-eating privacy.
+
+So, with the entire annoying audience finally out of the way, Chloe turned back to the enormous, dead Thunder Bird and started to seriously think about the next steps.
+
+Chloe seriously needed to figure out this whole skull situation. She had to eat the brain, but she also couldn't risk smashing the whole thing into little pieces. That would ruin the presentation, and probably mix too much nasty, non-brain stuff into the real treat.
+
+She glared at the massive head, rubbing her chin thoughtfully. Her usual solution was just hitting things really hard, but that felt way too messy for a special meal like this. She needed something smart.
+
+Suddenly, an idea flashed into her brain. She would use her magic to do the hard work for her. The Thunder Bird was dead, but its head was probably still full of dead bird blood.
+
+Chloe channeled her Blood Magic, but she was gonna do something really cool with it. She didn't want the blood to come out; she wanted it to stay in the skull, but she wanted to make it expand, putting huge pressure on the inside of the thick bone. She pushed and pushed, and she heard a very satisfying, faint groaning sound come from the giant skull.
+
+But she wasn't done yet, because Chloe knew she needed to make that tough bone brittle. She quickly switched to ice magic, channeling a freezing cold chill and focusing it on the outer layer of the Thunder Bird’s skull. She kept the pressure from the blood magic pushing hard on the inside while the ice magic worked to make the bone weak and fragile from the outside. The skull’s surface actually turned a frosty white, and the groaning sound got much louder, followed by a chorus of tiny snaps.
+
+Then, the skull didn't just break, it actually split. A huge seam ran right down the middle, making a perfect, clean opening. Chloe threw her hands up in victory. Ha! I'm so smart when it comes to eating brains!
+
+The sight inside was glorious. The brain was huge, glistening, and looked absolutely pristine. It was a beautiful, light blue color, and it even had tiny little veins running through it that still crackled with faint, captured lightning juice. It was exactly as exciting as she had hoped.
+
+Chloe didn't waste another second. She plunged her head right into the perfect opening she had made and got to work. It was the most fantastic meal she had ever had.
+
+The texture was smooth and cool, and the flavor was unbelievable! It tasted exactly like pure lightning mixed with the most intensely sweet flavor ever. Every bite sent a satisfying, harmless ZAP through her undead teeth.
+
+She ate and ate and ate, having the absolute time of her life. She was totally buried inside the huge skull, happily stuffing her face, making loud slurping and chewing noises that she didn't bother to suppress. This was the reward for almost getting killed by a giant, zappy bird!
+
+Finally, with a loud, incredibly satisfying burp, Chloe pulled herself back out of the massive Thunder Bird skull. She was completely covered in bright blue, sticky brain juice, and she felt full, happy, and slightly dizzy from the sheer amount of delicious lightning energy she had just consumed.
+
+[Brain Consumed: Thunder Bird (Level 55)]
+
+[Experience Awarded]
+
+[You have leveled up! 8 >> 11]
+
+[Strength +16, Speed +16, Vitality +21, Magic +50, Resistance +20]
+
+[New Skill Acquired: Lightning Resistance VI]
+
+[Skill Upgraded: Lightning Affinity II >> Lightning Affinity VII]
+
+[Skill Upgraded: Lightning Blast I >> Lightning Blast VI]
+
+[New Trait Acquired: Lightning Heart (Epic)]
+
+A new trait? It had been forever since she snagged one of those cool permanent bonuses just from eating brains. Chloe frowned slightly, wondering what this new power was all about. It better be something useful.
+
+[Trait Acquired: Lightning Heart (Epic)]
+
+The acquired trait grants a passive boost to all lightning-based magic, resulting in increased efficacy and reduced mana expenditure. Additionally, this trait grants the ability to emit a powerful shock wave when the user is under extreme stress.
+
+Chloe was ecstatic! Zappy Affinity!
+
+That meant she was now extra good with lightning magic, which was awesome. This brain was definitely special.
+
+Anyway, now that she was all done with the important business, Chloe manifested her wings with a and flew right out of the Thunder Bird’s giant skull. She zoomed straight toward where she had last seen Ynett, Sierra, and Raenof.
+
+When she got close, she angled for a perfect landing ready to show off her newly improved zappy magic. But she stopped short, hovering a few feet above the ground, because the whole scene was totally weird.
+
+Everybody was sitting in a circle on the ground, and they were actually playing with... cards? Sierra was holding her hand close to her chest, looking incredibly nervous, while Raenof sighed and Ynett just smiled smugly across the small pile of leaves they were using as betting tokens. Even Mr. White was leaning his skull low, looking intently at the layout of the cards on the dirt. What in the world was happening?

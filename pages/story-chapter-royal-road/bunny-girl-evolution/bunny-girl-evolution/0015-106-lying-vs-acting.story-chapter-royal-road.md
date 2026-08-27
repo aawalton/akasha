@@ -1,0 +1,270 @@
+---
+id: 5b6ea28c-ec94-535f-8eca-1b635a397292
+page-type-slug: story-chapter-royal-road
+title: "106 - Lying vs Acting"
+partOf: bunny-girl-evolution
+position: 15
+ownLength: 3467
+unit: words
+ownProgress: 3467
+publishedAt: 2025-06-14
+link: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/2354912/106-lying-vs-acting"
+royalRoadId: "2354912"
+markedReadAt: "2026-06-29T20:03:08.817Z"
+---
+
+With her ever-growing repertoire of combat experience, Elise was much better at responding to unexpected situations… when they were violent. Her developing ability to react well to sudden changes did not extend to social interactions, and especially not ones like this one. She felt she had a decent handle on tense conversations with high stakes and hidden threats, but excited girl talk?
+
+This is probably exactly why Oberon did this, she thought. It’s a test.
+
+With the acknowledgement that her current situation was a test, she suddenly felt calmer. Tests were one thing she had always been good at in school. She much preferred them to group projects. She wasn’t a fan of surprise tests like this one, but a surprise test was still a test, and tests were designed to be passed.
+
+“Settle down,” said Margaret, her words carrying a subtle power that made the others listen. “Can’t you see she’s overwhelmed? Forgive me, Ms. Wagner, but my daughters can get rowdy sometimes.”
+
+“It’s fine,” said Elise with a smile.
+
+“I am curious myself though,” continued Margaret, unable to hide the eagerness in her eyes. “How did you end up meeting Mr. Luger. To my knowledge, he is quite… reclusive.”
+
+“A trait we both share,” agreed Elise, glad to be back to her prepared backstory. “I ran into him by chance at a bookstore. We reached for the same book at the same time, and well… the rest is history.”
+
+One of the younger girls squealed in excitement.
+
+“Is he really as handsome as the rumors say?”
+
+“More,” said Elise with a smirk.
+
+The girls asked a long stream of questions about the mysterious Mr. Luger, most of which were superficial enough that Elise was able to answer them in stride. Oberon had morphed into the man during their preparation, so she did actually know what he looked like, and how he sounded, and how big his hands were, and whatever other frivolous details the ladies were curious about. She was much less prepared for the way the conversation evolved from there.
+
+“What’s he like in bed?” asked Adeline.
+
+Elise was taken aback, and looked to Margaret to scold her daughter, but the older woman seemed just as interested in Elise’s answer, if not more so.
+
+“U-Um- Well-” stammered Elise.
+
+“When did you first do it?” asked Natalie.
+
+“W-we haven’t,” said Elise. “We haven’t done anything. We just meet. For food. And to talk about books.”
+
+“Aww,” said Adeline, disappointed. “Really? Nothing? You’ve kissed at least, right?”
+
+Elise almost denied that too, but realized that if she was coming out to the other side of the country in secret to meet the man, not even having kissed would be too much, so she nodded instead.
+
+“Is he good?”
+
+With the conversation away from the bedroom, Elise was able to regain her composure enough to survive the next round of interrogation, and she even managed to steer things back on track and get back on script.
+
+“So where is he right now?” asked Anne. “Is he in the waiting room? Maybe getting a massage of his own?”
+
+“He’s not here yet,” said Elise. “He will be arriving later tonight.”
+
+“Oh, so you’re getting ready?” said Adeline with a mischievous look.
+
+“I-I’m just here to relax a bit,” said Elise, blushing. “He is working out a business deal, and won’t be here until late tonight, so I have some time to kill.”
+
+“How late tonight?” asked Jeanette.
+
+Elise was slightly taken aback by the woman’s question. It wasn’t that it was an odd question, but rather because at that moment, Elise realized that the other woman hadn’t spoken once since the mention of Franz Luger. While the other five bombarded her with question after question, Jeanette silently observed.
+
+“Quite late,” said Elise. “Well after sunset.”
+
+“I see,” she replied. “Well, my husband is somewhat of a businessman himself. It will be a bit tight, since we’re short on time, but if you don’t mind, would you and Mr. Luger like to meet my husband and I for dinner tomorrow night? There’s a lovely Vinian restaurant by our inn, and we’d be happy to treat you.”
+
+“I’m not sure…” said Elise carefully.
+
+Getting invitations to engagements with the other noble ladies at the spa was one of her goals, but the dinner being contingent on her bringing the paramour that she had never met was a bit of a complication.
+
+“He’s very busy, generally,” she continued. “We’ll be spending time together, but he’ll still be doing business while he’s here, and I don’t know his schedule.” She chose her next words very carefully as she activated {Fey Bargaining}. “I’ll look into it and see what I can do.”
+
+“That would be lovely,” said Jeanette with a warm smile. “We’ll keep our evening open. We’re staying at the Winter Wonder Inn, and if you hear back, you can contact us there. Just have your servant ask for Countess Jeanette of Rymia.”
+
+“I’ll do that then,” said Elise, activating {Fey Bargaining} again.
+
+“Feel free to contact us as well,” said Margaret. “And even if you don’t bring Mr. Luger, I’m sure my daughters would love the company of someone else your age.”
+
+“Oh yes,” agreed Natalie. “But do try to bring Mr. Luger.”
+
+“Natalie,” warned her mother.
+
+“Us as well,” said Anne. “We’re all staying in the same inn as the Countess, so you can just ask for us as well.”
+
+“Gladly,” said Elise.
+
+The conversation turned to more trivial gossip, and though Elise didn’t learn any truly valuable secrets, when she left, she was quite satisfied with how she had done. There were a few hiccups, but she handled them well, and secured invitations to spend more time with the noblewomen, meaning she would have more chances to learn their secrets. She also earned another level in {Fey Bargaining} in the process, and three in {Sense Emotions}, though she still didn’t really know how the skill worked yet. She knew for a fact though that the other women were definitely feeling emotions.
+
+When she returned to the carriage, Oberon the coachmen was waiting for her, and when she stepped inside, she found that she wasn’t alone. Sitting opposite her was… Oberon again. Probably. The person looked like a young, nervous, freckled maid with orange hair tied up in pigtails, but when Elise used {Inspect}, as she did on instinct when encountering strangers, it came back as ???
+
+“That skill isn’t fair,” whined Oberon, still in the form of the maid. “Why do you even have it?”
+
+“Isn’t there a way to deceive it?” asked Elise.
+
+“There is, but I don’t have the skill for it,” he said, puffing out his cheeks in a pout. “My evolutions were focused on mana-based illusions and clones and tricking large groups of people, not hiding from high-tier information gathering skills. And it still doesn’t make sense that you have that skill. I’m going to have to have a word with Titania when I ascend.”
+
+“When will you ascend?”
+
+He shrugged. “Maybe tomorrow. Maybe in a thousand years. Who knows? But enough about me. How do you think you did back there?”
+
+“I think I did alright?” Elise replied. “I’m annoyed that you didn’t tell me that Franz Luger was a real person… but I understand why you did it. It was a test. It threw me for a loop, and I almost lost my composure, but I think I recovered well. I didn’t get any big secrets, but I got invitations to spend more time with them, so I’ll have more opportunities.”
+
+“I see,” he said. “And do you want to hear my assessment of your performance?”
+
+Elise wasn’t at all surprised that he knew what had happened within the spa. Either he was watching her while invisible, or he had snuck in as one of the servants.
+
+“Sure,” she said, a bit nervous.
+
+“It was abysmal. You failed.”
+
+“What?”
+
+“Sure, maybe you accomplished the objective goal, but you went about it in entirely the wrong way.”
+
+“I did exactly what you told me to!”
+
+“And right there is your problem,” he said, nodding.
+
+“Is this about the fey freedom stuff?” asked Elise. “Should I have gone off script then?”
+
+“It’s not about that, and the fact that you had a script is the problem.”
+
+“But you gave me the script!”
+
+“I gave you the character,” he said. “There was no script. You were right about Franz Luger being a test, and it was a test that you completely misunderstood. I wasn’t testing your ability to recover from surprise. I was testing your ability to stay in-character, and frankly, you failed before the test even started because you never were in character. You were just yourself with a script.
+
+“For a changeling, roleplay is an absolutely necessary skill, and roleplay is much, much more than just reading lines off a script. You don’t just need to know your story. You need to be your story. A person’s life can’t be fully summed up in a single lecture. You can include all the important bits, but there’s so much more that goes into a person than just that, and as the actor, you need to fill in the rest yourself.”
+
+Elise sat in silence as his words washed over her. She would have loved to refute him, but his words were correct. She had indeed failed the test, and quite badly. She was back in her changeling form by now as the carriage rolled through the streets, and her ears were folded back against her head.
+
+“Don’t feel too bad though,” said Oberon. “You may have failed miserably, but it wasn’t all bad. In fact, there are a lot of good things I want to say. First, excellent job using {Fey Bargaining}. There were a couple small places that you could have used it that you didn’t, but they were a bit hard-to-notice. We can go over them later in more detail. You got all the obvious spots though, and if you keep that up, you’ll have the skill capped in no time.
+
+“Besides that, you’re also an excellent liar. Much better than I expected. Lying and acting are very different skills, but they often go hand-in-hand, and you can substitute one for the other if needed, as you did just now. That’s the only reason your disguise didn’t fall apart entirely.”
+
+“What do you mean I’m a good liar?” asked Elise, frowning.
+
+“You’re a natural!” said Oberon with a wide smile. “You seem to have an instinctive understanding of how to deliver your lines in a way that’s not only convincing, but not over the top. You know how far to take each lie, and how to build on them to keep them from unraveling, and even how to redirect attention away from them to keep the web from getting too complex. Even when caught off-guard, your lies remained consistent and believable.”
+
+Elise’s frown deepened. She knew he was complimenting her, but being told she was a natural liar didn’t exactly feel good. She couldn’t really deny it either. Lying had been a necessary skill for her back on Earth with her adoptive family. It was impossible for her not to get good at it if she wanted to be able to exist in relative peace.
+
+“Lying is a very good skill to have for a fey,” he continued. “Especially if you want to level up {Fey Bargaining}. Wording subtle deals and lying are similar skills. However, it’s going to be a crutch for your acting ability. It will be harder for you to immerse yourself in your role when you know you can just lie your way through it with similar results. You’ll have to work extra hard to shift your mindset properly.”
+
+Elise nodded in agreement, not feeling very enthused about his feedback. Then, she shook her head and took a deep breath. Why was she feeling down about being good at lying? That didn’t make her a liar. It was just a skill that she used, and one that was necessary for her own survival. She generally tried to tell the truth when she could.
+
+“So, with that in mind, For the rest of the day, we’ll be doing some acting lessons,” said Oberon. “And then later tonight, you’ll try to put them into practice.”
+
+“Later tonight?”
+
+“Of course!” he said. “You have to meet your paramour when he arrives, don’t you?”
+
+Elise spent the rest of the afternoon with Oberon working on acting. Oberon said she had some talent for it, but she didn’t really feel like she did. The whole experience was quite humiliating. It didn’t help that he had made a dozen clones in many shapes and sizes to serve as her audience. Even knowing that they were all just him, having so many eyes on her made the process that much more embarrassing.
+
+Seeing that, Oberon decided to focus most of the training on getting over the embarrassment, which meant he had her doing even more embarrassing things and trying not to falter. This only made things worse now though, as since she was trying not to be embarrassed, getting embarrassed became embarrassing, creating an infinite feedback loop that only made everything worse. She made progress though, at least. By the end, while she still wasn’t comfortable in other roles, she could at least hide any outward signs of how inwardly mortified she felt. Mostly.
+
+She ate dinner with Oberon and the Grays, though since {Lesser Transformation} was still on cooldown, she had to eat as a rabbit, meaning she was stuck vegetarian. This really sucked, since she had to watch the others chow down on big, juicy steaks while she was eating leaves. The leaves were delicious still, of course, but having such nice steaks around and not being able to eat them sucked.
+
+After dinner, she had some free time, which she spent in the library with Sophie. Sophie sat on a small couch reading a book, and Elise laid in her lap, reading a book of her own that was resting on a cushion. She turned the pages with {Telekinesis}, which turned out to be excellent practice for finely controlling the skill, and in the two hours she was reading, she managed to earn two levels in the skill.
+
+At the end of the two hours, Sandra arrived to bring her back to Oberon’s office where she would be preparing to go out again to meet with the mysterious Franz Luger. When she arrived, she stopped halfway through the door when she saw what was inside. Oberon had split back into the king and jester–something he seemed to enjoy doing–and the clones were sitting facing each other, a veritable mountain of gold coins between them.
+
+“Ah, Elise, come in,” said the king.
+
+“Don’t be shy,” said the jester.
+
+“What’s that?” said Elise, stepping inside and closing the door behind her.
+
+“Props!” said the king.
+
+“Put them in your bracelet!” said the jester.
+
+Relieved that they were just props, Elise gladly hopped forward and started pulling the coins into her storage bracelet, but as she did so, she lifted one up with {Telekinesis} to look closer at it, and paused when she felt the weight of the metal.
+
+“These are real,” she said.
+
+“Yes!” said the king.
+
+“I thought you said they were props.”
+
+“They are!” said the jester. “To help you sell your act! Who ever heard of a poor Wagner?”
+
+“Not me,” said the king.
+
+“Right…” agreed Elise. “But will I be needing to use these tonight.”
+
+“Maybe,” said the jester with a smile. “That’s up for you to decide. You are Lady Wagner, yes?”
+
+“I guess. But this is a lot of gold. Is it really alright for me to take this?”
+
+“I own a country,” said the king.
+
+“This is nothing,” said the jester. “Pocket change.”
+
+“We’re just paying our fee to watch the show!”
+
+Elise was a bit skeptical, but resumed picking up the gold. She didn’t count each piece, since she was moving too quickly, but there had to be at least 20,000 of them. With what she knew about the value of gold, this was enough to buy a dozen castles. She could keep an entire town fed and clothed for decades with this much money.
+
+More important than the amount though was the implication that she might be needing it that night. She had thought she would just be going to greet Franz Luger, and possibly spend a bit of time with him. She didn’t know what her actual relationship with the man was supposed to be, and Oberon refused to share, saying it would “ruin the surprise,” but she was starting to get worried.
+
+“Why might I need this money tonight when I didn’t need it earlier?” she asked.
+
+“You’ll see,” said the king with a smile.
+
+“It’s a surprise.”
+
+“Remember to always stay in character though,” said the king.
+
+“Even if you need to spend all that money to do it.”
+
+Okay, now I’m really nervous, thought Elise.
+
+“How long until you’re off cooldown?” asked the king.
+
+“A couple minutes,” said Elise.
+
+“Excellent.”
+
+A few minutes later, Oberon created two more clones, and the four of him helped Elise to fiddle with her outfit, and even apply some makeup. She looked quite different from her earlier casual outfit, now wearing an eye-catching red dress with her hair done in a tight braid. Once the makeup was applied, Oberon brought out a mirror so she could see her new look.
+
+“I look like I’m about to order someone to be beheaded,” she commented immediately.
+
+The makeup and dress had transformed her from an innocent-looking girl to a mafia leader. She didn’t dislike the look though. It actually looked pretty cool.
+
+“Great!” said one of Oberon's newer clones. “Nice and intimidating.”
+
+“Why do I need to look intimidating though?” asked Elise.
+
+“You’ll see,” said the other new clone.
+
+“Now, transform back. We’ll head out soon, but you’ll want your full four hours.”
+
+Elise knew it was no use trying to pry more information out of him, so she just kept quiet and went along with what he said. While she waited for her transformation skill to be back off cooldown, she tried to mentally prepare herself for her role.
+
+I am Eliza Wagner, she told herself. I am a noblewoman.
+
+She wasn’t sure if it helped, but she repeated it like a mantra to herself while Oberon went through a few last-minute things and walked her out to her carriage. He was back in his maid and coachman forms, and when they got in the carriage, Elise had a sudden thought.
+
+“Are you Franz Luger?”
+
+“Hmm?” Oberon’s maid form asked. “Oh, no, he’s just someone I’ve had my eye on recently. He’s a very interesting man. I can’t wait for you to meet him.”
+
+Elise didn’t entirely believe him, but it didn’t really matter in the end, so she went back to mentally preparing herself.
+
+The carriage took her back to the teleportation circle where she and the Grays had first arrived, and when they arrived, she switched to her human form and stepped out. She felt the eyes of every single person around immediately fixate on her, and suppressed a nervous shudder as she tried to sink deeper into her character.
+
+I am Eliza Wagner. I am a noblewoman.
+
+She held her head high, not making eye contact with anyone around her, as though she saw them as beneath her. Which she did. She was a noblewoman after all. She didn’t consort with the riffraff.
+
+This feels ridiculous.
+
+She pushed the thought aside and maintained her poise, and about a minute later, the largest teleportation circle glowed, then flashed, and a man appeared. Elise almost smiled, but then had a different thought. She was a noblewoman who was out and about at ten in the evening waiting for her lover. Was she just going to fly into his arms like a little girl? She decided to maintain her haughty demeanor as he approached with a smile of his own.
+
+“Ah, my love, you’re here.”
+
+“You’re late,” said Elise.
+
+“Forgive me, my dear,” he said with an exaggerated frown. “You know how the Vinians can be. I came as soon as I could.”
+
+He approached, and took her hand and bowed down, kissing it. Elise used the opportunity to use {Inspect} on him, and almost let out an audible sigh when she saw what his class was.
+
+[ International Con Artist, lvl ??? ]
+
+Of course, she thought.
+
+“But you’re right, my dear,” he said, straightening up, and holding out his arm to her. “We don’t have time to be dallying. We have an auction to attend!”

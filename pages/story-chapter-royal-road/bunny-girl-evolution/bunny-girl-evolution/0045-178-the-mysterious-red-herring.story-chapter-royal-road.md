@@ -1,0 +1,130 @@
+---
+id: 5b7dc9f3-cf1d-5224-a9c9-4b3f4372d4b8
+page-type-slug: story-chapter-royal-road
+title: "178 - The Mysterious Red Herring"
+partOf: bunny-girl-evolution
+position: 45
+ownLength: 3538
+unit: words
+publishedAt: 2026-03-08
+link: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3128846/178-the-mysterious-red-herring"
+royalRoadId: "3128846"
+---
+
+“What’s your real name?” asked Elise immediately.
+
+“Ha!” said Samantha. “Well, hypothetically, if I was using a false name, that would be way too big of a secret for this little competition.”
+
+Elise had expected as much, but was hoping to glean some useful information. An answer from a non-answer. Unfortunately, it didn’t really help. She was still fairly certain that Samantha Kipper wasn’t her real name, but Samantha’s response didn’t really confirm it. And since knowing Samantha’s real name was now clearly off the table, she decided to change her line of questioning.
+
+“Are you from Jelor?” she asked.
+
+“That depends on your definition of ‘from,’” said Samantha with a smirk. “But no. I was not born here and I did not grow up here.”
+
+“I see.”
+
+“But it looks like you were trying to be safe,” she continued. “Because that wasn’t a secret at all. I’ll give you one more chance if you want a real secret. After that, no more questions, and we harvest the widows and move on.”
+
+Elise had indeed been playing things safe, and was surprised when she got a final chance, so she put her hand to her chin and thought hard. Unfortunately, she hadn’t actually looked into Samantha independently, so she didn’t know what would and wouldn’t constitute common knowledge or small secrets. All she had to go off was what she had witnessed personally. But that wasn’t to say that she had nothing.
+
+There were a lot of odd things about Samantha, starting from her appearance. The new world seemed to have a wider range of hair and eye colors than Earth did, but Elise had still never seen anyone with hair as red or eyes as silver as Samantha’s. It could very well be dye or illusion, but if so, it raised the question of why she chose such a conspicuous disguise. Did she have an Oberon in her corner too that set her up?
+
+Or did she just think that no matter how she looked, no one would be able to figure out who she was?
+
+Elise was inclined to believe the latter, especially based on the interaction with Emmett when she called his bluff about knowing her identity. If even Emmett didn’t know who she was, and she was confident that no one could, in which case the truth was both untraceable, and so outlandish that no one would ever be able to reasonably deduce it. And that also explained why she was voluntarily giving Elise another shot, even after she had thrown away her chance. Samantha was confident that no matter how many chances she gave, no one would ever guess correctly. And that narrowed things down a lot.
+
+The simplest and easiest answer was that she was some kind of non-human having fun. A changeling or a demon or a dragon disguising themself as a human to have fun. If that was the case, it would be possible for her to have appeared out of nowhere with no background for Emmett to trace. But that seemed too obvious. Even if that was the case, would their disguise really be good enough to completely fool Emmett? And was it really so outlandish that no one would ever guess it? After all, it was Elise’s first thought, and no doubt there would be others with similar suspicions.
+
+The next thing Elise’s mind jumped to was that she was also from Earth. Or at least, from somewhere outside of this world. That was something that very few would guess. Even with as many powerful people as Elise knew, only Maggie had ever brought up the existence of other worlds, and Maggie had a direct line to a goddess. The fact that something like that was even possible was not at all common knowledge.
+
+“You’re thinking hard about this one,” commented Samantha.
+
+“Well, I don’t want to waste my chance again,” replied Elise. “And it’s really hard to think of a question that will only give me a small secret.”
+
+“Hmmmm,” said Samantha. “That’s actually a really good point. I should have thought of that before I started the conversation. In that case, how about this: instead of asking a question, how about you just pick a topic, and I’ll give you a small secret on that topic.”
+
+“Okay,” said Elise. “Then race.”
+
+“Race?”
+
+“Yeah. Human, elf, dwarf… monster.”
+
+“Oh, I see. Well, in that case, I suppose I can tell you that my mother was humanoid, and that I was born. I am not a monster.”
+
+Not quite satisfied, but knowing she couldn't get more, Elise nodded, and the group then dispersed to begin collecting the fangs and venom sacs of the dead spiders. This process mostly involved Sophie and Helene cutting them down with ranged mana blades, Cassian and Leonidas catching them and beheading them, and Samantha taking a knife to do the more precise work of extracting the sacs. Elise didn’t actually have any way to help them out, so her thoughts ended up turning back to Samantha.
+
+The more she learned about the other girl, the more questions she had, and she was pretty sure that was exactly what Samantha wanted. The fact that Samantha even suggested the game in the first place when the odds were obviously not stacked in her favor meant she had done it knowing there was a chance she could lose, but she suggested it anyway. And not only did she not mind being singled out, she actually gave Elise extra chances to get a secret out of her. And while she had acted surprised, whatever artifact hid her aether prevented Elise from reading her emotions, so she had no idea if the surprise was genuine. It was possible that she knew that would happen, and wanted for Elise to win and ask.
+
+Or, she tossed the wager out as bait to see what we all could do.
+
+She almost facepalmed when she had that thought. That was almost definitely what Samantha was doing, and Elise had fallen for it hook, line, and sinker. She knew that Samantha was trying to find the true identities of everyone in the class, and she knew that her own skills were unique enough to narrow her down quite a bit, and she had still managed to talk herself into exposing them anyway. And in the end, all Samantha had to give up was an incredibly vague “secret” that really didn’t help Elise at all.
+
+“Never agree to a deal where you don’t set the terms yourself.”
+
+She heard Oberon’s words echo in her mind and let out a sigh. She was definitely getting complacent. In the end, the deal itself had been fine, and was a distraction from Samantha’s true goal, but Oberon had taught her about that kind of trickery as well. She should have seen that coming, but didn’t.
+
+On the bright side, she hadn’t lost much. She had already exposed herself to Cassian and Leonidas, and she figured that with how Aetheric Illusions was going, her classmates would end up with at least a few of her secrets. Being able to kill things she couldn’t see was a rather sinister ability, but she didn’t think it would give Samantha too many clues about her identity, and while it clearly made the others uncomfortable, she was fairly certain that she had earned enough of their trust that they wouldn’t go around talking about it. It still wasn’t ideal, but it wasn’t the end of the world.
+
+I need to be more careful in the future.
+
+She turned her attention to the ongoing dissection and harvesting for a few seconds before making eye contact with Samantha. The other girl smirked and winked at her before going back to her task, which set Elise’s mind working again. Even if the wager had been a trick to get Elise to expose her abilities, that didn’t mean it couldn’t also be an attempt to get people wondering about her. And Elise still believed her thoughts from earlier were valid. Samantha was absolutely confident that no one would figure out who she was, and enjoyed seeing people try anyway.
+
+She began coming up with theories, each more absurd than the last. Samantha was actually Oberon. She was Archmage Anne Jelor resurrected. She was one of the extinct, possibly mythological Celestials. She was a homunculus created in a lab, and had been lying about being born. She was another aetherborn, but from a different world than Earth. She was one of those tulpa things that Elise had learned about in a late-night internet rabbithole. She was Elise’s evil clone, hence the inverted coloration. She was a descended goddess.
+
+Yet despite how unlikely and ridiculous each of them were, given her confidence about never being figured out, Elise couldn’t completely rule out any of her wild guesses. If any of them ended up being true, she wouldn’t have been all that surprised.
+
+Another thought crossed her mind that almost made her snort in laughter.
+
+What if she’s completely mundane, and she knows she comes across as the opposite, and enjoys watching people dig into her “fake” backstory and fail to find the “truth”?
+
+She almost wanted to cross that possibility off her list, but as she thought that, she realized that ironically made it even more likely, so that got added to her list of ridiculous theories too.
+
+Maybe I should just risk using {Fey Bargaining} on her.
+
+She had been avoiding it, since she had no idea what Samantha was capable of, but at this point, it looked like Samantha was eventually going to find something out about her. All things considered, the fact that Elise was a fey was one of her least dangerous secrets. Especially since she was a changeling. Eleanor Gray could always disappear, and Elise could resurface elsewhere with a new face and name, and with Ostra’s help, it wouldn’t even be too hard. She would prefer not to lose this identity and her relatively comfortable life, but that would only happen if Samantha recognized the Skill, and if she then chose to out Elise for it.
+
+And I can just add secrecy to the bargain…
+
+The group soon began moving further into the Dungeon, and while most of them were casually chatting, Elise was formulating a plan. A plan to trick Samantha into a fey bargain and learn her secrets. One that, unfortunately, never had an opportunity to go into action.
+
+The rest of the Dungeon excursion went smoothly, for the most part. There were some hiccups caused by Cassian and Leonidas trying to compete with Samantha, but no one got hurt, and they easily killed the Venomous Cave Spider Brood Mother. Sophie managed to get the final blow with a well-placed earth magic projectile right into an open wound that Cassian made, and she was in high spirits the whole way back.
+
+The trophies they took from the monsters they killed were left in the room just outside the Dungeon entrance. The University had a system for making sure that Quests were recorded and rewarded properly, and for making sure that the Quest posters got what they requested, so they didn’t have to do much. They just put the venom sacs and fangs in a preservation box and went on their way. Once the materials were verified, they would be able to collect their monetary rewards from an office in the University dedicated to Dungeon Quests.
+
+The Quest Points from the University’s own Quests had actually already been rewarded. Elise had no idea how it had been set up, but somehow, the University Quests worked with the System itself, and as soon as a student received experience points for a kill, it would be recorded in the University’s system as well, and if the monster they killed was one they had a Quest for, they would receive Quest Points.
+
+It was quite late when they emerged, so the group didn’t stick around long to chat. They all wanted to get back and wash up before they had to go to bed, so after a round of quick goodbyes, they all went their separate ways.
+
+The next three weeks went by quickly. With her classes and club activities more or less finalized, Elise had a steady, consistent schedule. She spent her days on campus, and she alternated every free night she had between going into the Dungeon to hunt, and having a longer soul meditation session.
+
+She didn’t make much progress in terms of experience points in the first week, but a week after the Aetheric Illusions class Dungeon trip, she returned with just Cassian and Leonidas, and the three of them managed to push down to the Gold regions. Here, the monsters were all 5th tier or higher, with most being 6th, and occasionally, there would be a rare 7th. She still wasn’t leveling quickly relative to how she had in the past, but she did manage to get two more levels in that time. That was actually rather fast for someone of her level, but as powerful as she was, she was still technically punching up, so even if she was cheating a little bit with her overwhelming aether, she still got some extra experience whenever she killed something higher in level than her.
+
+Her soul made steady, noticeable progress as well. Her physical form was almost complete, and she likely would have completed it already if she hadn’t realized that she would now need clothes. Technically, it was extremely private because it was her own soul, but she had already ended up showing her soul form to three people—Maggie, Irylax, and Titania—and she doubted they would be the last. If she was going to show her form to others, she would rather it not be nude, so she left her soul form mannequin-like while she worked on figuring clothes out.
+
+Meanwhile, her progress on mastering gravity was excellent. She could not manipulate it instantly, but she could manipulate it freely. She had gotten the hang of rotation and intensity, and while it still took her a bit of time to make big changes, she could set gravity however she pleased. Because of that, she ended up reducing it to about a quarter what it usually was, because it was fun feeling almost weightless, but true zero gravity was difficult to maneuver in.
+
+With gravity somewhat mastered, she started thinking of other laws she could try to mess with, but she wasn’t too keen on messing with anything else. Electricity had always been her least favorite part of physics, and the part that she could never quite wrap her head around, so she didn’t want to mess with electromagnetism, and she couldn’t even conceive of what would happen if she started messing with other laws of physics, like inertia.
+
+When she finally managed to consult Irylax again, she was glad to learn that she actually wasn’t done with gravity yet, and still had a long way to go. She had learned how to alter a fundamental law of her soul realm, but she had not even started on what Irylax called “sub-laws” or “rules.” Basically, the next step in her training was adding conditions to the manipulation of gravity. For example, she could make it so that whenever a certain item in her soul realm was touched, gravity would turn off, and touching it again would turn it back on.
+
+There were countless things she could do with gravity alone using these kinds of tricks, so she had quite a bit to keep her occupied.
+
+In terms of her soul defenses, those were coming along much more slowly. She didn’t really know what she was doing, and she only really got a good chance to practice when Erin was at Aetheric Illusions. She was making progress, though. She now had a layer of denser soul matter—that’s what Elise had begun calling it—forming a soft shell around her soul. It was still permeable, and it did not block everything, but as she strengthened it, she noticed that the effects of Erin’s illusions become much less pronounced. At least until Erin realized what was happening and started putting extra aether into Elise’s illusions, at which point the shell was breached and became useless. Still, it was a start, and Elise was proud of how far she had come.
+
+Her efforts in mastering mana were going decently well, but without extracurricular time to devote to it, they were bearing much less fruit. She was steadily improving in both Practical Combat and Defensive Gardening, but had not made any breakthroughs. She did have a breakthrough in Intermediate Unattributed Spells, where she learned the trick behind making self-levitation efficient, but she hadn’t quite mastered it, and had yet to unlock the Skill. It was unfortunately not something she could really put into words for her deskmate Cassie, who needed the trick a lot more than Elise did, but Cassie managed to figure it out on her own just a couple days after Elise did. Despite their relatively smaller mana pools, both girls were now properly on track to unlock the Skill before the semester’s end.
+
+She befriended a few more people in each of her classes, mostly after they approached her, but her social life was also on a slight upswing. With her evenings so busy, she didn’t have much time to deepen those relationships outside of class, but it was good to have people she was friendly with.
+
+Elise and Jessie were quickly becoming close friends. They shared a deep secret, they were from the same home world, and they both had generally agreeable personalities, so it would have been strange if they didn’t. Elise was very happy to finally have a friend her age that she could share things with, though. The two shared whatever tidbits they managed to gather about both themselves, and any potential other aetherborn.
+
+Both agreed that Samantha was suspect, but given that Maggie’s prophecy only spoke of two on the continent, they couldn’t be sure. They did at least manage to pin down who they thought might have been the one that was “no more.” Three years before Jessie arrived in the world, the youngest princess had started acting strangely. She was only seven, and was previously unremarkable, but became precocious overnight. There were rumors that she had been replaced by a changeling, or possessed by a specter, and the king himself had her tested, but nothing turned up. About six months after she changed, however, she vanished, and had not been seen since.
+
+And as for Samantha, despite previously seeming to want to go into the Dungeon with Elise, just the two of them, that desire had vanished. Elise had poked her about it, but Samantha claimed that she was going to have a very busy few weeks, and unfortunately wouldn’t have time for another friendly Dungeon trip. She refused to say what she was busy with, of course, but it struck Elise as odd. No more odd than anything else Samantha did, but still odd.
+
+The biggest change during this time had actually been Sophie. She must have told Irylax about her experience in the Dungeon with Elise, because ever since then, Irylax had been working her to the bone to improve her combat ability. Elise was worried Sophie was being overworked, but she never once complained, and in fact seemed eager to repeatedly throw herself into danger, so Elise didn’t say anything. And under Irylax’s guidance, Sophie had turned from a timid teenager with no combat experience to about half of a fighting machine. She still had moments where her inexperience showed, but her mana efficiency and combat decision-making had improved drastically to the point where she was confident enough to challenge for a position on the Dungeon Competition team.
+
+So, the weekend three weeks after the Aetheric Illusions Dungeon Trip, Elise found herself back in the Dungeon with Sophie. However, this time, rather than it being just the two of them, or the Aetheric Illusions Class, it was the rest of the rookie Dungeon Competition team, with Professor Sucri following close behind. Sophie had managed to prove her individual abilities to Professor Sucri, but she had not yet proven that she would be better for the team than Frank was. And unfortunately for her, Frank managed to hear about what she was aiming for, and found a sudden surge of motivation.
+
+As much as Elise wanted her to, Professor Sucri could not just replace Frank with Sophie, especially when he had suddenly become motivated and was performing better than anyone on the team except Telvir. In fact, he was doing so well that Elise thought that he may have cemented his spot on the team permanently, and it was instead Lauri the Ainar who was on the chopping block.
+
+Regardless, while Sophie had improved, she still needed to prove her ability to work in a team, and more specifically, her ability to perform better with the team than someone who had the chemistry of four weeks of cooperation, and as many advantages as she had, that would still not be an easy task.

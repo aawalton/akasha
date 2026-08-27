@@ -1,0 +1,69 @@
+---
+id: 8463126c-a533-5ae1-86f3-31c693a8299c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1397 - Getting Into Gear"
+slug: 0044-chapter-1397-getting-into-gear
+partOf: chrysalis
+position: 44
+ownLength: 1042
+unit: words
+ownProgress: 1042
+publishedAt: 2024-08-28
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1777390/chapter-1397-getting-into-gear"
+royalRoadId: "1777390"
+markedReadAt: "2026-06-29T19:45:02.606Z"
+---
+
+Note: Going to retcon the Vestibule mutations, specifically the ones that allow him to turn Will into physical strength, since the altar allows him to do that, and he’s basically never used it.
+
+It’s been a long time since I went on a mutating spree, and if the food keeps coming, there’s going to be a lot that I can do. Without hesitation, I dive into the menu and start looking for organs to upgrade.
+
+There’s still a fair bit of work to be done to get myself fully mutated at +35 all around. My sensory organs, eyes and antennae, still need that final push to max out and it’s definitely worth investing in both. The +35 mutations have been stronger and more versatile than those that came before, so I’m sure they’ll prove exceptionally useful when applied to my senses.
+
+First, let’s take a look at my eyes.
+
+My eye mutations have been fairly pedestrian up to this point. They’ve been really useful, don’t get me wrong, but they’ve been very basic. In essence, all I’ve done is make my compound eyes really, really good. Each individual lens is capable of focusing, giving me incredible depth of vision, and my ability to track motion is excellent. The quality of each lens is also extremely good. Each of my eyes is comparable to a thousand human eyeballs, giving me incredible vision.
+
+But that’s it. There’s nothing fancy there, no crazy, weird mana-related stuff or spirit vision. I just have super good eyes.
+
+Which is great! Don’t get me wrong, I love it. Recalling back to the early days when I couldn’t see the tips of my own antennae when they weren’t moving sends shivers running through my carapace. I swore I’d improve my eyes until it became bearable, and I stuck to that promise. However, it’s time to look for some more esoteric and weird options.
+
+Largely because I’ll be cashing in my eyes for a reset next evolution anyway. I’m tired of having these massive weak points in the middle of my head. My eyeballs are becoming diamond, or something even harder. The amount of trouble I’ve had in fights due to enemies attacking my eyes is nuts. With future sight and my reflexes, I can get around it, but having to constantly change the angle of my head to dodge is a pain in the thorax!
+
+So, firm in the knowledge I can pick something weird without lasting consequences, I dive into the list looking for… interesting options.
+
+And I find them. Oh boy, do I find them.
+
+I’ve got no idea if these mutations have been here all along or only popped up now at +35, but my guess is on the latter.
+
+Do I want to see electrical energy? See thoughts?! How does that even work?! Future Sight is here too, which I’m fairly sure it wasn’t before. Antennae seem to get that early for some reason. Go, ants! Oh look, I could see intent. Which is different from thoughts. Somehow. I can see the dimensional weave if I want. Not sure what I’d do with it… but sure. I imagine Brilliant has that mutation, or something similar. There’s even mutations related specifically to the System, seeing ‘Dungeon Lines,’ whatever those are. This must be what Dungeon Seers do, or at least part of it.
+
+After flicking through the lists for half an hour, the ones that seem most relevant to me are: future sight, gravity sight, intent and mana. There are several flavours of each, and the mutations tend to do more than one thing at a time at this level, so even narrowing it down to this amount still leaves me with dozens of choices.
+
+For example:
+
+[Gravity Density Vision: Allows the eyes to visualise gravitational energy and sense the density of the material they are looking at.]
+
+Obviously, more gravity means more density, but this goes a step further, since anything I look at isn’t necessarily uniformly dense. With this, I could hunt down less dense spots in an opponent’s armour, for example. I’m also curious to see how it doubles up with my existing gravity sense on my antennae.
+
+The descriptions of ‘intent’ are even more esoteric than I’m used to with Gandalf.
+
+[Broad Spectrum Intent Sight: Allows the eyes to interpret various forms of intent.]
+
+Yeah, helpful. Thanks, Gandalf. What the heck does it mean?
+
+It’s possible this would be very useful. But how could I tell?! Looking at the other variations, I can sort of work it out. There's Sword Intent Sight, Axe Intent Sight, Blade Intent Sight, even Mandible Intent Sight. Clearly, it has something to do with weapon Skill activations. I think.
+
+After considering my options, I decide to throw caution to the wind and take the Broad Spectrum Intent Sight mutation. If it turns out to be useless, then I’ll be getting rid of it.
+
+Now, my antennae mutations I need to be much more careful with, since I would rather not reset these again unless I absolutely have to.
+
+Twilight Filament, the material my antennae are currently made from, provides incredible bang for the buck, according to Granin. Better materials exist, but are pricey. Again, my mutations in this department have been fairly pedestrian. Sense the future, sense gravity, do both of those things, but better than before. That’s pretty much it.
+
+And I’m not sure I want to go too far away from that formula, if I’m honest. It’s a working combo! The gravity sense has been very helpful in sensing things out and for assisting me wield my gravity mana, and the future sight has been integral at keeping me alive alongside my quick reactions.
+
+Not sure what I want to do, I flip through the menu as I continue to munch, hunting for something that stands out. Again, there are many variations of future sight and gravity sight in here at +35, and I eventually find one that looks interesting.
+
+[Prescient Ripple Antennae: Improve the antennae’s sense of the future and gravitational waves.]
+
+Now this… this could be good. I can already sense gravitational waves from the future, this mutation is covering both of the things I want my antennae to do! I’m a fan.

@@ -1,0 +1,181 @@
+---
+id: 82a1fa45-d6ca-54cb-9835-dc3711bc0684
+page-type-slug: story-chapter-royal-road
+title: "61: Undying"
+slug: 0061-61-undying
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 61
+ownLength: 2018
+unit: words
+publishedAt: 2025-10-31
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2719843/61-undying"
+royalRoadId: "2719843"
+---
+
+Chloe landed on the far bank of the river with a splash. She crouched low, straining her ears to listen for the faintest sounds.
+
+The blood mage had vanished among the trees, but he wasn’t gone. She could feel it. Somewhere ahead, he was trying to vanish into the dark.
+
+She pressed one hand to the dirt. A pulse ran through the ground, and she stilled. Her tremor sense swept outward, searching for a pattern. She ignored the animal movements, she was hunting for something upright, two-legged. Someone taking steps with fear.
+
+Then she felt some suspicious steps pressed into the dirt. It was slow, upright. A pattern that didn’t belong to anything wild. It was human.
+
+Chloe pivoted and she launched herself towards the source of the footsteps. Leaves whipped past her cheeks, branches scraped her arms, but she didn’t stop. The trees blurred in motion, her whole body twisting, leaping, and lunging from tree to tree.
+
+It didn't take long before she saw him. The blood mage stood in a clearing not far ahead.
+
+His back was turned. Chloe seized the opportunity.
+
+She exploded from the trees. Her mouth twisted into a grin, fangs bared, and she dove straight for his spine.
+
+The mage spun just in time, eyes wide. A bolt of blood burst from his palm with a crack of force. Chloe had no plans on getting hit by such an attack.
+
+She jerked sideways, one hand snapping out and grabbing a nearby trunk. Her momentum whipped her around it in a spiral as the blood streaked past her shoulder. It struck the trees behind her and exploded in a shower of bark and red mist.
+
+Chloe let go of the tree and launched back into the air, already twisting into her next strike. The opening was gone now. But she was just getting started.
+
+She launched back at him. Her right arm stretched long, black tendrils driving her fist forward. The mage ducked and rolled aside. Blood gathered in his hand again and he whipped another blood bolt at her.
+
+In response, Chloe hit the ground on all fours and darted around him. Her limbs extended and twisted in unnatural ways, weaving between the trees.
+
+She lunged again from behind, and punched at his back. He spun and blocked it with a shield of hardened blood, but her fist cracked it on impact, sending him stumbling.
+
+The mage roared and raised his arms. Blood spiraled around him, forming a sword. He swung at Chloe as she charged, but she ducked low and swept to the side, tearing at his legs. The sword missed.
+
+From her back, black tendrils exploded outward like spears, slicing through the air. The blood mage’s eyes went wide as he barely summoned a blood shield in time. The tendrils slammed into it hard, their ends splintering on contact. The shield cracked under the weight, blood splashing in every direction.
+
+The moment the shield faltered, Chloe surged forward. Her fists came down in a twin strike, one aimed for the head, the other for the gut. The blood mage caught the first, his arm shuddering from the impact, but he couldn’t stop the second.
+
+Her fist slammed into his ribs with a sickening crunch, forcing a gasp from his throat as blood burst from his lips. He stumbled back, wheezing.
+
+Threads of blood magic whipped around him, slicing wildly in every direction. He threw everything he had towards Chloe, desperate to drive her off. But she rarely ever got hit.
+
+She ducked under the man's blood whip, kicked off a tree, then launched herself into the air. Her fingers dug into bark and flung her to another trunk before she sprang again.
+
+The mage’s defenses soon fell apart. His counters turned sloppy. Sweat mixed with the blood on his skin, and his sword began to shake in his grip.
+
+With a gasp, he stepped back. The blood sword in his hands sagged as he tried to lift it again, but it wobbled. His knees bent slightly, as though they were forgetting how to hold him up.
+
+Chloe dropped from above and landed with a thud, one hand pressed to the ground. Her head tilted slightly, gaze locked onto his.
+
+She began to pace, creeping in a circle around him. The blood mage turned with her, one shaky step at a time. He kept the sword between them, even though it wouldn't really do much at this point.
+
+He didn’t speak. He didn’t plead. But the look in his eyes said everything.
+
+Chloe crouched low. Tendrils writhed beneath her skin, twitching eagerly. The blood mage would die soon.
+
+She lunged towards him for the finishing blow. But just before she struck, the man tilted his head slightly, and smiled.
+
+A sudden jolt of pain exploded through her gut. Something massive and red burst up from the earth and punched clean through her stomach. Her momentum stopped cold as the spike of blood impaled her and lifted her high into the air.
+
+Chloe's limbs went slack as she rose. Black ichor dripped from her mouth and fell in thick drops to the dirt below as her legs dangled.
+
+The mage looked up at her, pleased with himself. Like he thought it was over. But his smile soon faded.
+
+Chloe just stared down at him. Looks like he's got no more tricks left.
+
+Her right arm unraveled. Tendrils burst from her elbow, stretching her hand until it shot downward. The mage barely had time to react before her fingers closed around him.
+
+His eyes widened. “What is—”
+
+Chloe yanked him into the air, lifting him off the ground in one sharp pull. Her other hand snapped up. With a flick of her fingers, she manifested her Cursed Rock Shot. Eat this, jerk.
+
+The stone launched with a low hiss and slammed into the blood mage’s chest. The impact lit up with a flash of dark energy.
+
+He jerked violently as the blast sent him spiraling through the air. Chloe let him go, allowing the blood mage to tumble back down to the ground.
+
+Still hanging on the blood spike, Chloe rolled her neck. Her body shuddered once, then twisted. Tendrils burst from her sides and gripped the spike. With a loud, wet crack, she tore herself free.
+
+She dropped to the ground with a heavy thump, ichor trailing behind her. Chloe's gaze flicked up to the blood mage, who was trying to sit up. It was time to finish things.
+
+Chloe stepped forward. The blood mage was trying to crawl backward, but a tree soon stopped his efforts.
+
+With a trembling hand, he conjured a blood knife and threw it at her. Lame.
+
+The blood knife spun through the air and slammed into her throat. Chloe flinched, more out of surprise than pain. Her hand reached up, gripped the thing, and yanked it out.
+
+The black ichor that spilled down her chest sizzled for a moment before her skin began stitching itself back together. She tossed the knife aside and kept walking.
+
+Of course, the blood mage tried to cast more blood magic. But something was wrong. His body twisted in pain, fingers curling in on themselves. Blood dripped from his eyes like tears.
+
+Chloe slowed, watching him tremble. She didn’t know much about blood magic, but from the way his body spasmed, how his hands shook instead of casting, she figured he’d pushed too hard and was now suffering the consequences.
+
+She stopped just a few steps away. The mage looked up at her, face pale and streaked with blood. His mouth opened, shaking, barely able to form words. “Please… I surrender.”
+
+Chloe didn't like hearing the word surrender. She had only one plan for the blood mage.
+
+A chunk of rock shimmered into existence in Chloe's palm. As it pulsed with black energy, she aimed straight at his chest and fired.
+
+The rock tore through the air and hit him right in the heart. There was a flash of dark light, and then silence. The mage’s body jerked once, then collapsed.
+
+[You have killed: Caelus Wrenn (Disciple of the Flayed One Level 30)]
+
+[Experience Awarded]
+
+[You have leveled up! 13 >> 15]
+
+[Strength +20, Speed +12, Vitality +18, Magic +7, Resistance +5]
+
+[Skill Upgraded: Cursed Rock Shot VI >> Cursed Rock Shot VII]
+
+Chloe knelt beside the corpse, her expression still cold. With one hand, she gripped the man’s head. The other curled into a fist, then drove down with a sickening crunch as the man's skull cracked open.
+
+She scooped out his brain, and she devoured it in chunks. Normally, she would’ve paid attention to the texture, the flavor, maybe even savored it a little. But right now, everything tasted bad. She was really just eating the brain out of habit more than anything.
+
+[Brain Consumed: Caelus Wrenn (Disciple of the Flayed One Level 30)]
+
+[Experience Awarded]
+
+[You have leveled up! 15 >> 20]
+
+[Strength +28, Speed +30, Vitality +31, Magic +38, Resistance +28]
+
+[New Skill Acquired: Blood Magic Affinity IV]
+
+[New Skill Acquired: Blood Kinesis I]
+
+[New Skill Acquired: Blood Arsenal I]
+
+[1 Trait Point Awarded]
+
+Okay, well… Chloe actually did feel better after eating that brain. She’d been really angry just moments ago, but now, things felt more… manageable. The brain had been weirdly smooth and easy to chew. Ooh, that might’ve been the blood affinity doing work, maybe.
+
+She still felt sad, though. Mr. White was gone. Stupid blood mage.
+
+Still, she’d avenged him. So that counted for something, right?
+
+Chloe stood up, dusted herself off, then turned and walked away from the body without looking back. She wasn't in the mood to do more to the blood mage since his brain was now in her belly. She just wanted to check on Raenof. Hopefully, the elf would still be alive.
+
+After walking out of the forest and crossing the river again, she spotted him. Raenof was sitting under a tree, legs stretched out, hands resting lazily on his knees.
+
+His cloak was draped behind him like a blanket. The elf looked like someone who’d just finished a nice nap rather than almost died from internal blood explosions, or whatever it was the blood mage did to him.
+
+Chloe hurried over. “Hey, are you okay?"
+
+Raenof looked up and gave her a calm smile. “I’m fine. You look a little less bouncy than usual, though.”
+
+Chloe plopped down across from him, sitting cross-legged in the grass. “Well, I killed the blood mage. Did the whole cursed-rock-to-the-heart, and he ended up very dead. So that was good."
+
+“But?” Raenof asked, raising one eyebrow.
+
+“I dunno. It just… doesn’t feel that great. Usually after a fight like that, I’d be pretty happy. But now I just feel... bleh. I'm not sad, but I feel like I should be happy you know? But I'm also not really happy right now."
+
+“It’s because of Mr. White, right?”
+
+Chloe looked down at her hands, still stained with ichor and blood. “Yeah. I mean, I won. The stupid blood mage is dead. But I still feel like I lost.”
+
+Raenof nodded slowly. “Loss is like that. Doesn’t matter if you win the fight. Sometimes, something important still gets taken from you.”
+
+“Is that an elf thing?”
+
+“Not really. But I guess we deal with it a bit differently. I’m still young, by elven years, but I’ve seen trees grow, bloom, and die more times than I can count. Friends too. Even when you live long, you don’t stop feeling it. You just learn to carry your losses better."
+
+“But losing stuff you like sucks.”
+
+“Yeah. It does, even worse if you lose someone you care about. But the feeling means he mattered. That you cared. That’s not a bad thing, Chloe. It just hurts right now.”
+
+Chloe stared at him for a second, blinking. Then she opened her mouth. “Raenof, that’s actually really—”
+
+Until suddenly, something bright caught her eye. She squinted as something hovered at the edge of her vision. Her eyes widened as she focused on it.
+
+[Evolution is now available!]

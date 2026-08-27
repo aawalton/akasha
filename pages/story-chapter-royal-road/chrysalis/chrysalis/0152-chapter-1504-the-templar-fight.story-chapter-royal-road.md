@@ -1,0 +1,57 @@
+---
+id: fa7c8d06-0f11-5639-8ccd-1192173c3e22
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1504 - The Templar Fight"
+slug: 0152-chapter-1504-the-templar-fight
+partOf: chrysalis
+position: 152
+ownLength: 1085
+unit: words
+ownProgress: 1085
+publishedAt: 2025-02-07
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2052211/chapter-1504-the-templar-fight"
+royalRoadId: "2052211"
+markedReadAt: "2026-06-29T19:48:42.619Z"
+---
+
+As the hours tick by, the field of blue mana begins to shrink back, retreating slowly towards the fortress as the energy is better contained and directed. Along with closer proximity to the fifth’s natural environment comes the inevitable tide of monsters. I stand at the front, alongside the thousands of ants, militia and my few templars, watching as they throw themselves into the field of blue, using their bodies and all the goop they can stuff inside themselves to chew through the cleansed energy as fast as they can.
+
+It doesn’t take long for bubbling and hissing piles of slime to start running over the ground, evaporating into a nasty smog that hangs like a cloud until it’s finally burned away. With all of this action and no active pushback from the Colony, it doesn’t take long until the monsters are pushing right up against the edges of the platform, which is when we can finally get to action.
+
+The ants move into position well before the monsters are in range, the militia and priests moving alongside them like a well-oiled machine. Which they should be! After the hundreds of hours of drills and even more live combat, none of this is new to anyone. The only thing that’s different here is the scale.
+
+The platform is enormous by necessity, giving a large enough surface area for more intakes to the mana channels, but by design that means we will be all but surrounded when fighting out here. Monsters can come from our left, right or in front; only our business district is defended by the massive fortress wall behind us.
+
+Things are going to get hairy.
+
+As soon as monsters step into range, the battalions get busy. Firing projectiles at targets outside the safe-zone, using Skills that extend their range to slash at unsafe targets, using hooks and crooks and ropes and cannons to latch onto monsters and drag them closer, anything they can do to limit the damage to the structure and maximise it to their enemies.
+
+I watch as the fighting starts. I’m not really needed, not yet at least, which means I get to see as an important milestone takes place. All around us, the toxic mana of the fifth presses in until, finally, the first of the massive intakes shudders to life.
+
+Lacking any mechanical components, it isn’t as if great wheels or fans start to turn, or machinery begins to spin. The intakes are fancy bits of enchanting that draw in mana, specifically the toxic mana, and feed it into the channels. I think of them like energy vacuum cleaners.
+
+When the toxic energy finally gets close enough, the first of the intakes powers up for the first time, the enchantments activating and emitting bright light as the panels come to life. Slowly at first, then with increasing speed, the mana is sucked in and fed to the channels beneath us. I watch happily as the massive conduits receive energy for the first time, drawing it away and feeding it into the fortress, where it will be distributed to the various wuffer stations about the place.
+
+As time passes, the channels fill with more and more mana, a trickle turning into a stream, which will soon become a flood.
+
+But of course, by the time that happens, we will be completely surrounded by monsters and fighting a never-ending battle. Good times.
+
+[Alright, Templars. Obviously I don’t want anyone to get hurt, but if you get a chance, I want to see what you can do. I don’t really know what you guys are supposed to do, or are supposed to protect me from, but hopefully we can work it out here together. Alis and Jern, you’re first.]
+
+Alis doesn’t appear at all happy about this announcement, looking out into the surrounding Dungeon with apprehension. Jern, on the other hand, is as unruffled as a hospital bed sheet. He just hoists his axe onto his shoulder and walks forward like he’s on a Sunday stroll, Alis running to catch up with his longer strides.
+
+I watch with interest, though I make sure I’m in position to intervene should things go wrong. I don’t know what the deal is with these guys, but I certainly don’t want any of them to croak trying to help me out! With my new Dash Skill, I can cover absurd distances when empowering it, so I can make it over to them in a jiffy should the need arise.
+
+The organised ranks of the battalions part to allow them through with surprisingly little resistance. Perhaps people are already aware of who and what they are? It wouldn’t surprise me; I’m sure Beyn and his followers have been ranting and raving about them for a long time, and the Colony takes an interest in this sort of stuff.
+
+Alis is more of a magic-type person, but she also moves into this battle with a bared blade, some sort of short sword by the looks of it. I wonder how well they can use them? It’s not like the Torpor Police are expert fighters or anything, but I’m sure they were able to work something out so they can at least defend themselves.
+
+If they’re useful, that would be–HOLY MOLY!
+
+Before my thousand-lensed-eyes, the two of them flicker and disappear, then reappear on either side of a monster the ants had managed to drag into the safe-zone. Another flicker, and I can’t even tell… oh snap! They changed places, as if they dashed straight through the… they did! The head just fell off?! What the heck am I even looking at?!
+
+For the next ten minutes I watch as the two hop about the battlefield, dispensing sweet, inevitable justice to the monsters of the fifth. Jern is like a dervish, his axe always in motion, chopping, slicing, deflecting everything that comes his way. Alis deploys a more mixed style. Sometimes she unleashes powerful flames, other times she lashes out with her blade. The two of them slip from shadow to shadow, becoming almost impossible to track. Or they charge straight in, using the straightest line to move from enemy to enemy.
+
+As I watch it all unfold, I start to realise the full implications of what I might have done. If the Nameless can train someone to be a super-battle-ninja… then can’t they do the same for themselves?
+
+My heart goes out to the Colony. I’m sorry, my siblings. I didn’t realise what I was doing.

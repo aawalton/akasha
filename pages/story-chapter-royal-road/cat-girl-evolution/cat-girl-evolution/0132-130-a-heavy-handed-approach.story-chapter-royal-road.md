@@ -1,0 +1,141 @@
+---
+id: 60f50bb3-2a97-500a-815c-027a4aa5f88e
+page-type-slug: story-chapter-royal-road
+title: "130 - A Heavy-Handed Approach"
+slug: 0132-130-a-heavy-handed-approach
+partOf: cat-girl-evolution
+position: 132
+ownLength: 2746
+unit: words
+publishedAt: 2026-05-22
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3430534/130-a-heavy-handed-approach"
+royalRoadId: "3430534"
+---
+
+I take a deep breath and exit the Dungeon. Immediately, my body is assaulted by the extreme gravity of Andala’s aura, but this time, rather than letting it pull me back in, I teleport upward, letting the angry zombie badger fly past underneath me. Here, I encounter a minor issue. I did not teleport anywhere near as high as I meant to, and I am forced to teleport a dozen more times to get out of the range of his aura so I can breathe.
+
+Abby, can his gravity affect my teleportation?
+
+“Yes, his aura works on mana too. Your Blink started targeting higher, but the endpoint was pulled downward by his aura.”
+
+That’s stupid. How does that even work?
+
+“Is this really the time?”
+
+I want to give a snarky response, but I cannot because unfortunately, Abby is right. This really is not the time. Just like Fiona said he would, Andala follows me upward, flying at ridiculous speeds propelled by his gravity magic. Dodging him is easy enough with another Blink, but the main issue is that now that he’s up here, his aura is affecting me again.
+
+I Blink further across the sky, trying to get away, but after his miss, Andala manipulates himself in a big arc to slingshot himself straight at me. I almost don’t see it coming, and barely get out of the way before his claws can tear me in half.
+
+As he flies past for the second time, I reach out with Snatch, trying to see how far I have to go before I can actually move him, and for the first time ever, the Skill doesn’t even anchor properly. There is no battle of willpower and mana where he resists and I pull. It simply fails. It’s like I tried to Snatch an entire mountain.
+
+I start Blinking away again, and Andala repeats the same slingshot trick, launching himself at me at what has to be mach something. Even with my heightened Perception, it’s not easy to track him when he’s at full speed. And that gives me an idea.
+
+As he zooms past me for the third time, I Blink back toward the entrance to the Dungeon, positioning myself so that if he shoots at me again, he’ll just end up in the Dungeon. Just like before, he goes flying past at an absurd speed, and for a split second, it looks like he’s going to end up in the Dungeon.
+
+However, instead, he stops on a dime, going from faster than the speed of sound to completely still in an instant. I don’t even know how that’s possible, but it looks like it’s not super kind to his body. When he turns to face me again, his skin is all bunched up around his face, and his other eye has also popped out of its socket. His lack of working eyes doesn’t seem to deter him at all, though, and a second later, he’s zooming up into the air again to chase me.
+
+A minute follows of the world’s deadliest game of tag. He flies after me at ridiculous speeds, and I teleport out of the way just in time. I try to lure him into slamming into things, which sometimes works, but never seems to do much damage. The hospital is a pile of rubble now from the force of the impact combined with the ridiculous gravity, but Andala is mostly unharmed.
+
+On top of that, as the engagement goes on, either he starts to learn, or Joakim starts to control him, and he gets harder to avoid. Upon seeing that his rapid flight still isn’t fast enough to beat my teleportation, he switches tactics. He’s still ridiculously fast, at least when moving in a straight line, but he’s no longer out of control. By the time he reaches me, he’s moving slowly enough to sling gravity attacks at wherever I teleport to, forcing me to burn two Blinks to escape the onslaught, and leaving me with less time to prepare for when he circles back around.
+
+I try to fight back, of course, but there’s unfortunately not a whole lot I can do. His gravity affects my mana as much as it affects my body, and most of my attacks start to break down before they reach him. I left a few shallow cuts with Spatial Slice, but even when I drop the attacks out of my Stomach in the path of his charge, they don’t do much damage. His body is just too durable for even the Charged Spatial Slices to be effective. If I want to do real damage, I’ll need to charge up the Gluttonous Greatsword, but even then, I’m not sure if I could kill him. I’d only get one shot, and so far, Andala looks like he might be durable enough to survive that one shot.
+
+Lucky for me, I don’t actually need to kill him.
+
+I lure him around for a few more seconds until I get directly above him, and when he flies up, I point my sword straight downward and let go. Andala’s own gravity accelerates it down directly toward his head as he flies up at me and I Blink out of the way.
+
+The tip of the sword goes directly into his forehead, but when I’m about to activate the new feature that triggers rapid absorption, I stop myself. The sword barely went into his skull at all, and after not even a quarter second, he bats it away with his paw, sending it flying into the distance before charging at me again.
+
+Grimacing, I Blink out of the way again, and at the same time dismiss and re-summon the sword. It actually managed to absorb quite a bit, somehow, but it’s nowhere close to full. And I’m pretty sure it didn’t even get it embedded in his skull. I mean, I know that without me swinging it, the sword didn’t have much force behind it, but still, what the heck is he made of?
+
+“To handle the intense gravity at the center of his aura Trait, his body likely has to be very strong. I wouldn’t be surprised if Resilience is his highest Stat.”
+
+That’s so annoying.
+
+“At least you don’t have to kill him. As long as you can drain him, my hu– homunculi will take care of the rest.”
+
+Your what?
+
+“My homunculi.”
+
+No, you were definitely about to say something else.
+
+“No I wasn’t.”
+
+Yes you–
+
+“Look out!”
+
+I instinctively Blink out of the way, only to find that Andala wasn’t even that close, and that because I moved early, he had a chance to course-correct, forcing me to use an extra Blink to avoid him.
+
+Hey! Liar!
+
+“This really isn’t the time to be getting distracted, Yona.”
+
+You’re the one trying to distract me!
+
+“You need to pay attention. What if Joakim shows up?”
+
+I am paying attention!
+
+As if the universe favors Abby, Andala chooses that exact moment to try a new tactic and catch me off guard. He flies toward me as usual, but a little slower. I can’t really stay in his way, though, so I Blink out of the way as I’ve done hundreds of times now, and I prepare to Blink away from the impending gravity swipe that he always does, but it never comes.
+
+Instead, he uses a new Skill that basically turns him into the gravitational center of the vicinity, and suddenly instead of being pulled toward the ground, I’m being pulled toward him with the same intensity of his usual Aura. Only then does he use his gravity swipe attack, and I am barely able to Blink out of the way in time.
+
+“See?”
+
+Fine, we’ll continue this later. Don’t think I’m gonna forget!
+
+The game of tag continues for a few minutes longer. I’ve already had to refuel on mana four times, and I have to do it five more before things start to change. Andala repeatedly tries new tactics, and I repeatedly try to embed my sword into him and absorb his mana, but neither of us are very successful. Without directly swinging the sword, I can’t get the blade much deeper than his skin, and I can’t get close to him without his aura threatening to make me pass out.
+
+He also can’t reach me, though, since no matter how fast he is, and how many different ways he tries to manipulate gravity, I can always just teleport out of the way. Joakim never shows up either, but I think I know why. If his other undead aren’t immune to Andala’s aura, he won’t be immune either. Him showing up personally would just put him even more in danger, since there’s a chance I can kill him while Andala has us both incapacitated.
+
+In a way, that actually makes Andala a pretty terrible subordinate, which is probably why Joakim didn’t have him summoned from the start. He’s a last resort, natural disaster type monster. When he’s around, no one else can be.
+
+Right now, though, Joakim seems to have realized that chasing me around is futile. Andala has stopped attacking me. He’s just floating in the air a couple hundred meters away, staring me down.
+
+“Are you giving up already?!” I shout.
+
+In response, Andala turns and flies back toward the ground, settling down right where he was next to my Dungeon entrance and ignoring me.
+
+“I guess so.”
+
+I float down toward him, sitting on a mana hand until the gravity starts to get uncomfortable and the mana hand gets unstable. I think that Andala really did give up. And that’s kind of a big problem, because he’s not out of mana, I can’t Snatch him yet, and I can’t really damage him much. My sword is about half charge, but I don’t trust that to kill, or even seriously wound the badger, and I really only get one shot at this.
+
+So, I need to figure out how to stick the sword deep enough to activate the draining effect without also getting killed. I can’t get close enough to stab him directly without the gravity threatening to knock me out, and I can’t use constructs because the gravity makes them fall apart. The solution? I just need a longer arm.
+
+With a grin, I start summoning body parts from my Stomach. First, tentacles, which I anchor to my right shoulder and command to wrap around my actual arm to extend it further. Next, Menyar meat and Yona Lard™, which I fuse into the tentacles to lengthen them even further, and also add some bonus durability. Finally, a sharkman head, which I take apart and form into four mini-heads, and also reinforcing them with Menyar meat and Yona Lard™. They look a little strange, since the teeth are still the same size, but I don’t need them to look good. In fact, the stranger the better.
+
+I send the mini-shark head to the tips of the tentacles, which now extend a full ten meters past the end of my hand, then move the extended tentacle arm to grab the Gluttonous Greatsword, wrapping around the handle to make sure they have the best grip possible.
+
+The whole process takes five or so minutes, but during that time, Andala doesn’t move, and neither does Joakim do anything. If he’s watching, he’s apparently decided that my fleshshaping shenanigans are nothing to be concerned about. Either that, or he’s truly decided to give up, and just hopes Andala can stall for some time while I try to figure out how to kill him.
+
+Not that I’m complaining. This gives me plenty of time to line up my shot.
+
+I float over so that I’m directly above Andala, then float a little bit to the side so that when I hold out my extendacle arm, the sword is right above him. Then, I dismiss the mana hand and start falling toward him. As I fall, I start a slow rotation, spinning on my way down to hopefully give my swing even more momentum. I mistimed the spin slightly, but I planned for that. And by that, I mean Abby planned for that, and told me how to spin faster by pulling my long arm closer to myself.
+
+My speed accelerates rapidly as I fall, but for the moment, as I succumb to the gravity, I feel weightless. I can’t help but grin in exhilaration as I complete my spin and return to face the rapidly-approaching ground, my sword aimed at Andala’s immobile back. Right before the sword is about to make contact, I reinforce my body, and my extendacle arm with as much mana as I can and swing with all my might.
+
+Between the rotation, the gravity, and the strength I put into the swing, I finally manage to push past the badger’s natural defenses, burying the sword three quarters of the way into its back. And with the arm extending my reach, the gravity isn’t enough to knock me out. The impact with the ground knocks the wind out of me, and almost certainly gives me a concussion and breaks a few bones, but I retain just enough presence of mind to activate the Gluttonous Greatsword’s third ability.
+
+Andala screams in pain and rage, thrashing around, but it can’t even fight back properly. The mana it tries to gather to attack me is instead absorbed by the sword and siphoned back to me. And the stolen blood visibly weakens him, preventing him from pulling away. On top of that, at the same time that the sword starts absorbing, the four mini shark heads latch onto his fur and start Devouring their way into his flesh, and when they do, I finally learn why Andala was so durable.
+
+He’s dense. Every mouthful the mini-sharks consume gives me as much blood as consuming an entire elite zombie, and their progress is much slower than the badger’s size would indicate. He’s just extremely compact. He’s got as much mass as a badger ten times his size, all squeezed into one hypercompressed package. And all that mass is being transferred to me.
+
+The absorbed blood flows through the sword and into my body, and it’s so much and so rapid that it actually gives me the strength to stand, despite the gravity. My wounds from the landing are instantly healed, and my veins are bulging with strength like I’ve never felt before. And that same blood also flows into my extendacle arm, strengthening it and allowing it to handle the gravity so the shark heads can keep Devouring the badger.
+
+The absorption only lasts a few seconds, but with how compact everything about Andala is, those few seconds are more than enough to accomplish my goals. The badger’s mana is almost entirely drained, and it is now contained both within my sword and body. If it was alive, the blood drain would probably have been enough to kill it as well, as its body now looks almost mummified with how drained it is. If I attacked right now, I might be able to actually kill him.
+
+But I don’t. The Dungeon is more important.
+
+Instead, I use the drained blood to extend my tentacle arm even further as I back up toward the Dungeon entrance on the ground. I extend my other hand, lengthening that arm as well until my hand is over the entrance, and with a mighty display of Willpower, I Snatch Andala, teleporting him from where he’s laying to directly over the entrance.
+
+The sudden surge of gravity and loss of the influx of blood sends me to my knees in an instant, and causes blood to pour from my ears, but I manage to keep my consciousness, just barely. Andala does his absolute best to gather what little mana he has left to keep himself from falling into the Dungeon, but I Snatch his last bits of mana, and a moment later, the intense gravity vanishes as he falls into the Dungeon.
+
+“We’ve got him!”
+
+You’d better.
+
+I cycle my mana and the remaining blood I absorbed to restore my body to peak condition, and not a moment too soon, because as soon as I finish and stand back up, two more presences register on Food Sense, appearing not far away.
+
+“Impressive,” says Joakim in a voice that’s not his. “But your life ends here, villain. Prepare to die.”

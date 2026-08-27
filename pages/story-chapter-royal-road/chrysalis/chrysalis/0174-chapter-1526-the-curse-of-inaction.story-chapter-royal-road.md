@@ -1,0 +1,81 @@
+---
+id: ac60ffe7-632c-5bd1-bab5-882f98e97b93
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1526 - The Curse of Inaction"
+slug: 0174-chapter-1526-the-curse-of-inaction
+partOf: chrysalis
+position: 174
+ownLength: 1005
+unit: words
+ownProgress: 1005
+publishedAt: 2025-03-11
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2118642/chapter-1526-the-curse-of-inaction"
+royalRoadId: "2118642"
+markedReadAt: "2026-06-29T19:49:24.631Z"
+---
+
+Morrelia felt like she was going crazy, and it wasn’t just because of her current company.
+
+“Is everything alright?” Isaac asked, stroking his moustache with one hand as he tried to execute a graceful lean on the wall beside her.
+
+She could only roll her eyes at the display. No matter how she tried to communicate that this sort of behavior made her uncomfortable, Isaac didn’t seem to be capable of receiving the message. It wasn’t as if he was being deliberately annoying, or trying to get on her nerves, she genuinely thought he was just stupid.
+
+Which didn’t make him any less irritating.
+
+“I’m bored,” she stated.
+
+“Oh,” Isaac blinked.
+
+He stared, then blinked again, then panicked. He’d finally gotten Morrelia to go somewhere with him, and now she was bored? This was a disaster! All of his meticulous planning! Moustache preparation alone had taken five precious hours, time that could only be spared by cutting back on sleep.
+
+Severely sleep deprived he may be, but he looked fine, if he did say so himself.
+
+“Of course, this is just the mess, our next stop will be… much more entertaining!”
+
+All he had to do now was think about another possible destination… quick! She’d agreed to have a meal with him, so of course they were in the mess hall allocated to the militia, because where else were they going to eat in the fortress?
+
+Having said that, the food was quite good. Isaac hurriedly took his seat and began to divide up the cake he’d ordered for them. Someone had told the ants how to make cheesecake, and now they were experimenting. This particular offering was a triple-layered chocolate cheesecake with a particularly thick, crumbly/chewy base he just couldn’t get enough of.
+
+He passed Morrelia her slice, smiling with what he hoped was just the right amount of masculine bravado mixed with gentlemanly debonair. In the Legionary’s eyes, he looked incontinent.
+
+“Thank you,” she said, and took a bite, eyes widening at the burst of flavour.
+
+Why the heck were the ants so good at baking? It didn’t make any sense! Well… they did have quite the sweet tooth… not that they had teeth… but this was excessive.
+
+“I didn’t mean bored about being here,” she clarified, “I’m bored because we haven’t been allowed to do any fighting. The Colony has kept us wrapped up in wool since the wave started. Every day is drills and gear maintenance from morning till night, all the while everyone else in the fortress has been fighting monsters. You’ve been out there too, haven’t you, Isaac?”
+
+He was relieved to hear she wasn’t bored with his company, so relieved he felt weak at the knees, and yet…
+
+“I’ve been out there,” he said quietly, the flavour of the cake turning to ash in his mouth. He grimaced and put down his fork. “It’s… rough.”
+
+“I’ve been in the fifth before,” she told him, “I know what it’s like.”
+
+This was the reason he felt so attracted to her. Objectively speaking, Morrelia’s features may not have been the most appealing. There was a scar here, a blemish there. She was too square-jawed, her features set in a near perpetual scowl. And yet, her dark eyes burned with a courage that seemed truly bottomless. Was there anything in all of Pangera that could make her take a step back? Isaac didn’t think so. He couldn’t look into those eyes and not want to be near a fire that fierce, to try and enjoy a fraction of its heat.
+
+He’d been deployed to the platforms twice so far, and he’d be going again soon, once Cavalant had her legs back. Even the third during the height of the wave, with the endless frenzy of demons, the sky thick with smoke and ash, the temperature so hot the sweat evaporated from his skin the moment it formed, didn’t come close to the nightmare of the fifth.
+
+Isaac had never believed there was an afterlife, but if hell truly did exist for those who strayed from the Path, then it would look like the fifth during a wave.
+
+He nodded to himself.
+
+“I’ll tell you what,” he said, “once we finish eating here, I’ll see if I can pull a few strings and get you onto a platform, just for a bit. With a little luck, you might get to talk to Anthony, make your case.”
+
+A stupid idea. He was trying to court this woman, why was he offering her a glimpse of a toxic hellscape?
+
+Morrelia’s eyes brightened.
+
+“That’d be fantastic! Thank you.”
+
+It was worth taking Isaac up on his offer. She felt bad for resorting to this, but Commander Chyron was being stubborn, refusing to say anything regarding their deployment. Desperate times had called for desperate measures.
+
+It was almost insultingly easy for Isaac to bring her to Anthony’s platform. There were many checks and barriers on the way, not to mention several large, imposing gates, each emblazoned with the likeness of the Eldest, but they were waved through most of them with barely a glance. Was Isaac that highly ranked? He could just swan around the fortress with a Legionary and nobody cared, even if they walked right up to Anthony himself?
+
+Stepping through the final gate, Morrelia was confronted with the full scale of what the Colony was up against. The battle on the platform was nightmarish. Slime and mucus dripped from every surface tainted by the toxic mana, oozing together to form a slow-moving ocean of corruption that fell all around the platform itself.
+
+The slime was bad enough, but that ocean was teeming with monsters. Screams, cries, roars and bellows filled the air as the ants and their sapient allies held the line against seemingly impossible odds.
+
+In the centre of it all, a giant ant stood defiant.
+
+The moment she stepped through the gate, Morrelia felt a giant mind latch onto hers.
+
+[Where the heck have you been?] Anthony demanded. [Get down here!]

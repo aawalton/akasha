@@ -1,0 +1,73 @@
+---
+id: 0bad54ef-bf9e-5852-b92a-a22d3a657e1d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1560 - Rock Type"
+slug: 0208-chapter-1560-rock-type
+partOf: chrysalis
+position: 208
+ownLength: 948
+unit: words
+ownProgress: 948
+publishedAt: 2025-04-28
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2236513/chapter-1560-rock-type"
+royalRoadId: "2236513"
+markedReadAt: "2026-06-29T19:50:28.448Z"
+---
+
+This bad boy isn’t just large, he looks dense. I mean, it’s like a moving wall of minerals, which is fine—obviously, minerals are more dense than something like flesh or a carapace. That would be it if I were back on Earth, but that isn’t the case here. Rock can be more than just rock, it can be compressed, and with mana bending the rules of reality, even something like a diamond can be made harder and more pressurised.
+
+This guy isn’t just a rock type, he’s a condensed rock type. This guy has mass. My antennae are going crazy already, detecting such an unusually dense gravitational field coming from a single monster. This guy must weigh in the realm of a thousand tons, if not more.
+
+How’s that spell going? Not there yet. Uh… faster? Please?
+
+My mind constructs are working as hard as they can, and to be frank, my main mind is putting in quite the shift as well, but it’s a difficult spell, what can I say? Also, I haven’t cast it much, so the level of practice and expertise needed to just whip a Singularity together isn’t there yet.
+
+Thankfully, it doesn’t seem like our visitor is all that fast. Groaning and grinding away, it slowly continues to approach the platform. Furious that we’re here? Unlikely, but it’s not like I can let a monster of this size just waltz into the fortress. Weighing as much as he does, he might collapse the darn platform just by stepping on it!
+
+However, the closer the beast gets, the more I can see what’s really happening.
+
+This monster is grumbling and grinding because it’s in serious pain. Nothing can survive the corruption of the fifth, apparently not even sentient rock formations.
+
+It rolls, more than walks, towards us, sections of its body rotating like a Rubik’s cube to propel it forward, its body formed of a gleaming white, semi-transparent mineral with streaks of golden flecks through it. Quite beautiful to look at. At least, it would be, if it weren’t for the mucus, slime, and acid eating into the creature. The mana of the fifth has penetrated deep into its body, nearly to the core, dissolving it from the inside out and turning its colour from white to a sickly yellow-green.
+
+It isn’t hard to understand what’s happened here. This poor monster has been forced up out of the sixth stratum and is trying, desperately, to get to the fourth before succumbing to corruption.
+
+The creature isn’t coming towards us to attack, but to survive. The cleansed mana zone is the only thing that has a chance of saving it now. Unfortunately, I can’t afford to extend a face-hand to help them.
+
+Sorry, monster. You have my sympathy.
+
+“It’s getting closer. Eldest, are you able to deal with it?” a nearby general calls.
+
+“I hope so,” I reply. “I’m throwing my best spell at it. If that isn’t enough, we can try something else afterwards.”
+
+“Are… are we in danger?”
+
+“What? No! Well… maybe. Just give me a little space, alright?”
+
+“We can do that. Clear back from the Eldest! Boom protocol is in effect!”
+
+All the fighters, ants and humans alike, pull away from me, giving a clear fifty metres of space. As if that wasn’t enough, they start deploying sandbags, creating a temporary wall between me and them.
+
+Excuse me? Boom protocol?! They act like I’m the one who’s done the most damage to the platform! That isn’t true at all!
+
+Probably.
+
+Regardless, I need to deal with this problem. I’ve reached the final stage of the spell, the central structure is complete, all I need to do now is pump both spheres full of a truly unreasonable amount of gravitation mana.
+
+Moving such an absurd amount of energy is difficult. Moving it quickly is very hard. Moving it quickly and safely is even harder. Letting your mana slip out of control is always a bad idea, and with the equivalent of two Gravity Bombs floating over my head, things could get very ugly, very fast if my concentration slips.
+
+In the distance, the decaying monster from the sixth continues to wobble towards me, desperately striving to reach the only place of safety in the entire fifth. The grinding and groaning of the monster is growing louder and louder, to the point my mandibles are vibrating from the strength of it.
+
+Mana pours out of me, filling up the spell until the two spheres are crackling with condensed gravitational energy. When it's finally complete, the spell begins to activate. The two spheres of energy collapse in on each other, a decaying orbit that draws them closer and closer over time until at last they begin to fuse.
+
+Right over my head!
+
+In combining, an absurd amount of energy is released, focused into a beam that lances out into the tunnel, a solid bar of white light that tears through reality like a blade.
+
+I’m completely blinded by the spell, the light is simply too strong, but I can sense what happens. My aim is good, thankfully, and the monster is struck dead on. An unfathomably deep groan echoes through the tunnel, as if a mountain had a bellyache.
+
+When my vision clears, I can see that I struck the monster on its right side. Somehow, it’s still alive, but only just. The Singularity bored a hole straight through it, but since I missed the core, the wound wasn’t fatal.
+
+Holy heck, that’s some unbelievable endurance!
+
+Sadly, the strike took the last of the monster’s strength. It succumbs to the toxic environment a moment later, collapsing in on itself, overwhelmed by slime and toxin.

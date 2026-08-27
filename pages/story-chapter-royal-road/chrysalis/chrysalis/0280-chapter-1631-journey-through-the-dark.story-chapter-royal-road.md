@@ -1,0 +1,119 @@
+---
+id: 53c26aa9-5f85-5c8c-b761-d7be2bd1fef3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1631 - Journey Through the Dark"
+slug: 0280-chapter-1631-journey-through-the-dark
+partOf: chrysalis
+position: 280
+ownLength: 1012
+unit: words
+ownProgress: 1012
+publishedAt: 2025-08-26
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2548267/chapter-1631-journey-through-the-dark"
+royalRoadId: "2548267"
+markedReadAt: "2026-06-29T19:52:46.114Z"
+---
+
+I don’t like travelling with Brilliant. Her little… dimensional hops, or whatever she wants to call them, leave me feeling nauseous and headachy. Even trying to imagine how the process works is enough to make my brains throb. How did she even figure out how to do this?! There weren’t any ants in the Colony who had any knowledge of different dimensions, and now Brilliant is out there swimming through them like a particularly loud and annoying eel.
+
+“Are we there yet?” I groan.
+
+“No,” she tells me happily. “Two more hops before we arrive.”
+
+“How is the poison progressing, Eldest?” one of the healers asks me.
+
+We’re no longer pretending it isn’t progressing, eh? Well, it is, that’s for sure. Every cell of my body that is changed makes it that little bit harder to slow it down. I’m holding on as best I can, but my grip is starting to slip.
+
+More and more, I’m worried for Protectant and the others. Each of them took much less into themselves than I have, but are they able to hold it off as well as I can? If not… I dread to think of how they’re suffering.
+
+“Slowly, for now,” I tell her.
+
+For the time being, my thoughts haven’t been affected like they were before. I wasn’t a fan of that, to say the least.
+
+“Once we get you back to the fortress, there will be more we can do. Continue to hold it back as you have been.”
+
+“Of course, what else did you think I was going to do?”
+
+I was expecting to get a kick or two, but my carapace suffers no impacts from irritated healer feet. They must be distracted, which isn’t a good thing. They’re doing their best to keep my body in as good a condition as it can be, whilst also trying to manipulate the invasive mana within. She said they’ll be able to do more for me back at the fortress, but I’m genuinely not sure what that might be. If they have some tricks to help deal with a problem like this, they’re something I’ve never seen before.
+
+“Alright then, everybody aboard!” Brilliant laughs.
+
+“I’m not a ship…” I grumble.
+
+“In this instance, you technically sort of are,” she tells me.
+
+“Are you trying to make me feel better about the situation? If so, it isn’t working.”
+
+“I wasn’t,” she confirms, tapping me on the back. “I think everyone is here, good! Let’s go!”
+
+I brace myself and soon feel the weird twisting sensation that always precedes one of these ‘hops’. There’s a sickening, sucking feeling, and then darkness. Which isn’t too shocking, we’re hopping from patches of total darkness to other patches of total darkness, after all. There isn’t anything to see.
+
+“I don’t know what’s making me feel worse. The infection or these dimensional shenanigans.”
+
+“I’m pretty sure it's the infection. That doesn’t look pleasant at all.”
+
+I raise up an antenna to prod the little mad scientist.
+
+“You can see it?” I say.
+
+“Of course I can! I’m—”
+
+“Nope.”
+
+She huffs.
+
+“—able to see all the mana around me, even if it's hidden away inside something. You’d be amazed at how much energy is sneaking about, just beneath the surface.”
+
+“That’s kind of impressive. I assume you have some sort of organ for that?”
+
+“No, I’m just BRILLIANT!”
+
+She snuck that one past me, dangit.
+
+“Tell the truth. Organ?”
+
+“Yes, yes it is.”
+
+I knew it.
+
+“How many more do we have to go?” I groan.
+
+“Just the one more. Give me a few minutes and we’ll be ready to jump.”
+
+Not like I have a choice. The healers get back to work fussing over me, doing their best to help with the infection, and I do the same. We’re close to the fortress now, I can tell by the sheer volume of Will flooding through the Vestibule. It washes away my fatigue, refreshing my brains and easing the strain in my body. Which is important, because I am working my carapace-covered backside off.
+
+Soon I’ll be right back where I started, as if my protectors hadn’t ever taken a drop of the corruption out of me. The pace continues to grow, and despite all of my best efforts, I’m losing this battle. Perhaps with enough healers working on me, we’ll be able to overcome it? I don’t know. I suppose I’ll have to hope so.
+
+At this point, I don’t see that I have any other options but to trust the Colony can save me.
+
+“Alright, here we go!” Brilliant announces.
+
+I’m too tired to say anything anymore, I just brace as best I can and then… bam! As quick as a blink, my surroundings change from total darkness to a brightly lit and crowded chamber inside the fortress.
+
+There are dozens of healers around, and as soon as I appear, they leap at me, antennae prodding as they urgently confer with the few who made the trip with me. The pressure eases a fraction, and it's enough to almost make me sigh in relief.
+
+“Eldest, don’t rest! We need all of your effort to fight this,” one of them scolds me.
+
+“I’m working! Sheesh!”
+
+I don’t want to mutate into some horrific, contaminated monstrosity. I’m putting in my very best effort!
+
+A figure walks up to me, arms folded across a broad, stone-covered chest. I feel a mind reach out to mine and allow the bridge to connect.
+
+[Granin? What have they brought you here for?] I say. [Don’t you have to worry about mana sickness?]
+
+[All three of us are here,] he tells me, face creased with concern. [They thought we might be able to advise.]
+
+He looks me up and down slowly.
+
+[You look rubbish. Is it that bad?]
+
+[Gee, thanks, Granin. Nice to see you too. And, it's the contamination straight from Theorazzn’s back-end, so I suppose it isn’t wonderful.]
+
+[You’re understating that by a significant degree, aren’t you?]
+
+[... Maybe.]
+
+He groans and pinches the bridge of his nose.
+
+[This isn’t helpful, Anthony.]

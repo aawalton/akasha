@@ -1,0 +1,251 @@
+---
+id: 0e3cb08a-8eb8-54cf-924d-79b66f54ad9c
+page-type-slug: story-chapter-royal-road
+title: "99 - A Gift from the Dungeon"
+slug: 0100-99-a-gift-from-the-dungeon
+partOf: cat-girl-evolution
+position: 100
+ownLength: 3071
+unit: words
+publishedAt: 2026-03-12
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3142731/99-a-gift-from-the-dungeon"
+royalRoadId: "3142731"
+---
+
+Before we can get to the Named monster, we have to kill a few unnamed monsters along the way, and that’s much more difficult than on the previous Floors. Not only are the eagles higher in level, but lightning magic is apparently really, really hard to dodge. B’s weird mesh shields disperse the shock, but they apparently also make it easier to get hit. She says it’s a very good tradeoff, but that doesn’t mean it feels good.
+
+Even worse, the stupid birds have some kind of lightning aura Skill or something, and my sword is highly conductive, so every time I cut one of the stupid birds, I get shocked. It’s not until the second island that I find a good solution to this issue. By conjuring a pair of hollow mana arms just slightly bigger than my own arms, I can grab the sword and swing with the full weight of my stats without subjecting myself to direct electrocution. The stable mana arms are surprisingly good insulators.
+
+Lauren and Chad actually seem to have similar Skills to help them out. Lauren does something that seems to coat her arms in shadows, and Chad seems to have a water affinity, and wears what look like watery gloves. I thought that would have made it worse, but according to Abby, distilled water doesn’t actually conduct electricity, and conjured water is distilled by default, so he’s fine.
+
+The twins obviously don’t have a problem, since they’re ranged attackers. They just shield and shoot like usual. But the additional strain on B to maintain the insulation mesh shields means that her mana drains much more quickly, and Chad and Lauren are similar, so we have to rest between islands a lot more.
+
+I do not have this issue, of course, since my mana regenerates so quickly, so these rests are quite boring for me.
+
+“What do you think is down there?” I ask while gazing over the edge of an island.
+
+“Probably nothing,” says Lauren. “The Dungeon guide didn’t mention anything existing below the islands.”
+
+“Yeah, but what if it’s different now?” I ask. “Don’t Dungeons grow?”
+
+“They do, but they usually turn that growth upward. More Floors, you know?”
+
+“Yeah, but they clearly have some freedom to mess with the Floors, since they made this one different. Maybe the bottom is different too.”
+
+“I guess…” says Lauren, frowning. “But I don’t see why it would.”
+
+“Well, Tower Dungeons have to be fair, right? If that really is a Named Disaster in the middle of the storm, that’s a huge step up in difficulty to the point that it’s not fair. Maybe it also added something to make the Floor fair?”
+
+Lauren’s frown deepens. “I don’t think that’s how it works.”
+
+I know that’s how it works, since that’s what Abby told me, and she has official System information now that I’m a Dungeon Core, but I don’t really have a good way to explain that without revealing my new Skill. And I don’t think I’m ready to do that yet. As far as I know, this is unprecedented, and even if I mostly trust my Party members, I don’t have to share everything with them. Thankfully, A and B come to my rescue.
+
+“That is how it works, actually,” says A. “At least for Tower Dungeons.”
+
+“They are designed to have difficulty spikes within an accepted range, and as Yona said, if that is a Named Disaster, that’s almost certainly outside the accepted range,” says B.
+
+“It would have to give us a way to clear the Floor that’s within the accepted range.”
+
+“That can be vague, though, so we shouldn’t count on the Floor being easy. No one knows what kind of metrics Dungeons use, so ‘within the accepted range’ might still be quite hard, or it could be a method that would make it simple, but is unintuitive, and difficult to discover.”
+
+“Huh,” says Lauren. “I didn’t know that.”
+
+“It’s not very common knowledge.”
+
+“We only know because one of our master’s friends is a Dungeon Core.”
+
+Lauren blinks in bemusement, then shakes her head.
+
+“Is there anything in the world that your master doesn’t have as a friend?”
+
+“A man as handsome as Chad.”
+
+“Shut up,” says Lauren, blushing slightly.
+
+Chad turns his head away, a touch of pink on his cheeks as well.
+
+“Well, I’m gonna go down and look around a bit while you guys recover,” I say. “At the very least, I wanna know how far down the edge of the Dungeon is. And also what happens when I touch it. Because I was also wondering how it would even work if it was just a hard edge. No matter how high we are, falling won’t kill us at this level, so are people who fall just stuck down there until they starve to death?”
+
+“Usually in Dungeons like this, there’s some kind of spatial enchantment to take you back to the Floor’s starting point,” says Lauren.
+
+“Huh. Interesting. Well, I’m gonna go check it out. I’ll be back in a bit.”
+
+I conjure a mana hand and float downward, below the edge of the floating island and down deeper and deeper until my Food Sense reaches the edge of the Dungeon. Just as Lauren predicted, it’s just a flat edge. It looks like there are still layers and layers of clouds going on forever, but I know it’s just illusion.
+
+I descend until I’m right above the edge, and I notice that in addition to the edge, there’s also a layer of dense mana coating the edge. I bet that’s probably the enchantment Lauren was talking about. I’m tempted to touch it, but I don’t wanna go all the way back from the start, so I just sit there, observing it. I don’t really know what I’m doing, but I spend a minute or so trying to trace the flow of the enchantment to maybe replicate it or something like that, but Abby stops me.
+
+“Don’t bother. It’s impossible.”
+
+What do you mean?
+
+“One of the most important parts of artificery is hiding your designs. If you just sell your products unobstructed, any moderately skilled artificer could make a perfect copy and sell it too. And the System developers are the greatest artificers in existence, and the Dungeons are their masterpieces. They’re not just going to let you read the enchantments so easily.”
+
+That’s lame. Not only are they incompetent, but they’re also greedy.
+
+“You’re the greedy one. And even if you could read it, you wouldn’t have been able to do anything with it without the proper Skills.”
+
+I bet I could make it work.
+
+“I’d love to see you try.”
+
+…Nah, too much effort.
+
+With a sigh, I lay back on my giant hand, looking up at the islands high above that now look like little more than brown dots. This was a little bit of a disappointing detour. I was really hoping for something more interesting.
+
+I spend a few minutes yawning, still looking up at the sky. Even though I know that the dark clouds are the source of an extremely annoying storm, they look weirdly beautiful from way down here. The way the enormous stormcloud swirls around and sends dark tendrils out, contrasting with the blue sky and white clouds around it is very aesthetic. I wish I had a camera. And a computer. This would make a good desktop background.
+
+I lazily turn my head to the side, to get a better look at the stormcloud, but in the distance, right on the edge of my periphery, something else catches my eye. I turn my head further and squint into the distance. While up by the island level, the rain is too thick to see much past it, down here, it’s somehow lesser, and through the hazy curtain, I can just barely make out the green of another grassy island. Except that this island is down at my level, not up at the level of the other islands.
+
+That’s weird.
+
+I glance up toward where the others are still resting, then back at the island, then shrug. I’ve got time.
+
+I summon the Handmarine from my Stomach and command it to fly toward the low-altitude island. Then, frustrated by the speed, I add wings to it. I already had a few different kinds of wings available from random wild birds I killed and ate, but this time, I opt for the brand new eagle wings I just got from this Dungeon. I’m no expert on flight, but in this case, I don’t quite need to fly. I just fix the wings to the sides of the hand and make them stiff, then raise the handmarine up a bit and let it glide. It’s not perfect, and I have to make a few adjustments along the way for better balance, but by the time I get close to the island, I am moving much more efficiently, and a little bit faster.
+
+The little island is gloriously dry, since it is apparently situated directly under the main boss island, so I Blink out of the Handwing and put the construct in my Stomach as I advance toward the only notable feature on the island. The ground is flat and grassy, like many of the other islands, but in the very middle, there’s a table, and on the table is a giant, covered, silver platter. I conjure a big hand to lift the top off the platter, and then I gasp.
+
+In the middle of the platter is one of the most incredible-looking meals I’ve ever seen. It’s a whole roast pig that looks straight out of a movie, with crispy, perfectly cooked skin and an apple in its mouth. It’s steaming as though it’s fresh, and it smells heavenly. Better than even the food at the Pig Palace.
+
+“Yona, wait!”
+
+Ignoring Abby, I glance around to make sure there’s nothing else around, and that this isn’t a trap, and then I run up to the platter, and reach for one of the hind legs. The skin crackles as I pull, but the meat itself comes apart so easily it makes me shudder in anticipation. If the meat is already falling apart after just a light tug, I can only imagine how tender it will be.
+
+“Yona!”
+
+I raise the pig leg to my mouth and take a big bite. I can’t help but let out a small moan of pleasure. The meat almost literally melts in my mouth, and whatever they seasoned or marinated the dish in was perfect. I didn’t know pork could taste so good. Even the Menyar dish I had at the Pig Palace doesn’t compare. It’s a little spicy, a little sweet, and makes the pork taste even juicier than it already was.
+
+Before I know it, the entire leg is gone, even the bone, and the second is in my hand. Abby keeps trying to get me to stop, but I ignore her, continuing to savor the experience. Suddenly, I understand why Cecilia mentioned that most of the Delicacies and pseudo-Delicacies are in Dungeons. If a random Dungeon can make something like this on command, and make it perfectly every time, I can only imagine how good the actual Delicacies are. Maligar can’t come soon enough.
+
+Actually… Abby, can we make food like this in my Dungeon?
+
+“Yes, eventually, but Yona–!”
+
+Yay!
+
+“Yona! Please stop eating and listen for a minute.”
+
+Okay, after I eat a bit more.
+
+“NO!”
+
+I continue to devour the pig, eating everything down to the bones until my stomach is so full that it’s literally protruding and I feel more bloated than I’ve ever felt. More than half the pig is gone, but that means that almost half the pig is left for later!
+
+I put it into my Stomach, then turn to walk away, but for some reason, I sway and a moment later, I am somehow laying on the ground. I giggle at my own clumsiness, but don’t do anything to get back up, because the grass is surprisingly soft. The perfect place for a nap!
+
+“Yona!”
+
+“Abby!” I say aloud.
+
+“Yona, that food was poisoned!”
+
+“Silly Abby, I can’t get poisoned!”
+
+“Yes, you most definitely can. Look at yourself. You’re acting like you’re drunk.”
+
+“Nuh uh. When I get drunk, I get depressed, and I don’t feel sad at all!”
+
+“Okay, that’s not important, though. Think for a second. Why would they have an amazing, delicious, poisoned meal just sitting here below the island of the boss monster?”
+
+“As a secret snack?”
+
+“Okay, you need to sober up. Start cycling Internal Mana Manipulation.”
+
+“Nah. Don’t wanna. I’m gonna nap.”
+
+“Yona!”
+
+“Night night, Abby.”
+
+“Winter!”
+
+I tense up.
+
+“Why did you say that?”
+
+“Because I thought it would get your attention, and it looks like it worked. Now, cycle Internal Mana Manipulation. Flush out the toxins.”
+
+“But…”
+
+“Or else I’m going to call you Winter again.”
+
+“Okayyy. Fine”
+
+I start running the Skill, sending mana flowing through my body, and after a few seconds, my head starts to feel a bit clearer. Not totally clear, but clear enough that I now realize that I am acting strange. I cycle it more intensely, accelerating the mana flow until I am mostly thinking straight, then sit up, my expression blank.
+
+“Are you back?”
+
+Yeah, I’m back.
+
+“Okay, so just by the way, there was also a bit of mental magic happening there. Nothing crazy, but it made the dish seem extremely appealing to you.”
+
+Gross. I hate mental magic.
+
+“Most do. And unfortunately, Gluttony probably exacerbated the effect of this particular enchantment. But the main point is that there was a hidden poisoned dish beneath the boss monster island, and it was enchanted to be extremely appealing. Do you have any guesses about why?”
+
+I rack my brain, but there’s still a bit of fog from the poison remaining, and nothing comes to mind.
+
+“Remember how Dungeons are supposed to be fair? They can’t just suddenly spike in difficulty?”
+
+Oh… Oh! Oh, shit!
+
+“Yeah.”
+
+That dish was for the boss monster! We were supposed to poison it!
+
+“Exactly. Except now you’ve eaten half of it. And the poison was strong enough that it was able to break past your Poison Immunity Trait and your Resilience. Which means it was likely strong enough to kill almost any other normal monster. And if such a powerful poison was provided just to make the challenge more fair…”
+
+…Then the boss monster is strong enough to survive it too, and this dish was supposed to just debilitate it.
+
+“And the only way that’s possible…”
+
+…Is if the boss monster is a Named Disaster with insane stats.
+
+“So you’ve just eaten half the key to clearing this Floor safely.”
+
+More than half. And yeah, whoops. But it should be fine, right? I mean, I was down to fight it normally anyway.
+
+“I think you’re still underestimating how powerful a Tier 4 Named Disaster will be. With your stat bonuses, you’re the equivalent of a Tier 4 of an ordinary species, but a Named Disaster is a whole different story.”
+
+Yeah, but I’ve killed a Disaster a Tier above me before.
+
+“The gap between Tiers only grows wider the further you go.”
+
+I have my minions with me.
+
+“You’d better hope they’re enough.”
+
+They will be. And I still have some of the poison left.
+
+“Thankfully, you are still limited by the physical size of your stomach. Mostly. Even eating that much shouldn’t have been possible, and likely only worked because Adipose Reserves was converting the food to fat.”
+
+Oh no.
+
+I pinch my belly, and there’s a noticeable layer of flab that definitely wasn’t there before. I siphon it off and toss it into my Stomach in disgust, then hop to my feet.
+
+It’s not all bad. At least now, we basically confirmed that the boss is a Named Disaster, so we can prepare better.
+
+“That is the silver lining.”
+
+Yeah. Well, I don’t know how long I’ve been gone, but I should definitely head back before my minions start to worry.
+
+“Good plan.”
+
+I make it back to the minions a few minutes later, and they are indeed starting to worry. I explain to them what I found below the islands, and that only makes them worry more.
+
+“A real Disaster…” mutters Lauren.
+
+“Yup,” I say. “But hey. On the bright side, you guys might get the Taker of Names Title now!”
+
+“True…”
+
+I try to cheer them up, and it seems to work for the twins, kind of, but Chad and Lauren stay a bit grim as we move on to the next island. Over the course of the next few hours, we fight our way further into the storm, reaching the wall of rain and entering within. The fights here suck, and the rain seems to amplify the lightning, but we manage without any injuries, and in between battles, B is able to maintain a big umbrella shield indefinitely, while Chad can siphon the water off us, so it’s not all bad.
+
+Then, as we get closer and closer to the center of the island, and the features of the boss island start to come into view, it finally happens.
+
+[ Wannabe Vivitect, 29 → 30 ]
+
+[ You have reached a threshold! A Class Upgrade is available! ]
+
+There’s only one more island in between us and the boss monster, and while the storm only grows more intense, we can still see a bit of the island itself. It’s not much different from the others, aside from the size, but in the center, something huge and dark rises up. Even with my Sensitivity as high as it is, it’s hard to make out the details, but a particularly bright flash of lightning, I thought I saw something that looked like charred wood. There’s no sign of the monster itself, but we’ve all agreed already that the storm is probably the Disaster’s aura ability, so it’s definitely there somewhere.
+
+We sit down to rest, B shielding us from the wind, rain, and lightning. The others grab a quick bite and lay down to start recovering, while I grab a quicker bite and call out to Abby. It’s finally time to upgrade my Class. And after that, we’ve got a Named Disaster to kill.

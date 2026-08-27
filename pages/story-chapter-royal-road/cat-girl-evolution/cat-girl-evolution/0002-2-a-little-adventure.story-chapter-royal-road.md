@@ -1,0 +1,165 @@
+---
+id: a30956a2-f720-58db-9d0a-2bad6854602c
+page-type-slug: story-chapter-royal-road
+title: "2 - A Little Adventure"
+slug: 0002-2-a-little-adventure
+partOf: cat-girl-evolution
+position: 2
+ownLength: 2158
+unit: words
+publishedAt: 2025-08-17
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2525481/2-a-little-adventure"
+royalRoadId: "2525481"
+---
+
+As Johnny and the others prepare to disembark, I run up the gangplank and onto the deck of the ship.
+
+“Yona!” calls the wife behind me.
+
+One of the fishermen bends over to try and grab me, but I nimbly dodge and run to the mast and scramble up the pole. I don’t use my claws that often, but they are awfully convenient when I’m doing things like this. In no time at all, I’m up at the top of the sail.
+
+“Yona, get down!” calls the wife.
+
+“Mra!” I say.
+
+That’s cat for “no.”
+
+Johnny climbs up a rope ladder toward me, smiling, saying soft words to try to coax me down, but I hiss and bat at him with my claws out.
+
+“Let her stay,” says a deep voice, cutting through the commotion.
+
+The speaker is a man who is now the oldest active fisherman in the village, Old Man Frederick. He’s always been a bit of an enigma to me. He looks more like a pirate than a fisherman, with a wooden leg and an eyepatch, but he speaks like a noble and has a sword on his hip that, as far as I can tell, is very nice. It’s also the only sword I’ve seen in the village. I think he’s a retired knight or something.
+
+“Sir?” asked Johnny.
+
+“Yona’s a smart girl. She won’t get in our way. We don’t have time to get her down. We need to go.”
+
+“Yes, sir!”
+
+Johnny climbs back down and I relax a bit, trying to find a comfortable place to sit up here. The mast and the gaff–I think that’s what it’s called– are pretty thin, since the ship is relatively small, but I find somewhere stable enough near the middle where some thick ropes provide a bit more grip.
+
+About a minute later, the gangplank is raised, the ship is unmoored from the dock, and we push off. While observing the men getting ready, I noticed that most of them have spears. That’s a little concerning. I know that one kid mentioned monsters, but are they really going to be fighting monsters? Maybe I shouldn’t have come…
+
+[ Solving the mystery means more food ]
+
+I know…
+
+Well, too late for regrets. We’re already twenty meters from shore, and there is absolutely no way I am attempting to swim. I mean, I probably can, but like any proper cat, I hate water.
+
+We travel in silence punctuated only by Old Man Frederick occasionally barking orders. It’s a new moon, but the stars are bright, and there are four lanterns on the front, back, and either side of the ship, so visibility is still fine. Especially for me, since my night vision is pretty good. Still, it takes almost an hour before I see anything.
+
+Far in the distance ahead of us, there’s an island.
+
+“Mraw!”
+
+Land ho!
+
+No one understands me, but a little less than a minute later, Old Man Frederick shouts the same thing, and the men prepare to disembark. They all grip their spears tightly, their faces serious as they stare ahead.
+
+As we draw closer, and I’m able to make out more of the details, I notice that there’s another boat on the island shore. It’s the same boat that Henry always takes when he goes out fishing. But how did Old Man Frederick know it would be here? I bet this is part of that mystery thing.
+
+[ Maybe ]
+
+I knew it. I’m so smart. Well, now we know where he is, we can just bring him back, and then I’ll have food again. Problem solved! Hopefully…
+
+Yeah, no way. If that was all, Johnny and Frederick and the others wouldn’t look so nervous. Well, I’m just going to stay right here and-
+
+Suddenly, there’s a crash, and the entire boat shakes. I almost fall off my perch, snagging onto the sail to keep my balance.
+
+“We’re hit!” shouts Frederick.
+
+Before he can say anything else, there’s a second crash, and I fall off entirely. I barely manage to catch myself halfway down, and end up dangling from the sail. The men below are all gripping tightly to the rails of the ship. No one seems missing, but there’s something thrashing in the water.
+
+“Keep going forward!” shouts Frederick. “We need to make it to shore!”
+
+I regain my footing and crawl down the sail and drop onto the deck as the men start scrambling to their positions. Two go on either side of the sail and start fiddling with the ropes, four grab oars and start rowing, two hold their spears and stare at the water, two head below deck, and Frederick stabs his sword into the deck and closes his one good eye. I have no idea what he’s doing, but he looks pretty cool.
+
+I run up to him and sit in front of him, because I have a weird feeling that’s the safest place to be, and a moment later, one of the men who went below deck pops his head back up.
+
+“It’s bad, sir! There’s a hole the size of a wagon wheel on either side. We’re taking in water fast!”
+
+“Dammit,” mutters Frederick. “Faster! To shore!”
+
+The men with the oars redouble their efforts, and the ship accelerates toward the sandy beach ahead. A few seconds later, Frederick suddenly opens his eyes and looks to his left.
+
+“Incoming on starboard!”
+
+He lifts his sword and limps a few steps to the side. As he does, his sword begins to glow, and when he reaches the rails, he stabs forward, and a bright white spear of… something… shoots down into the water. The two men with their spears out stab down at the same place, and I hear thrashing in the water.
+
+“It’s hit!” shouts Frederick.
+
+I jump over to the side and just barely manage to catch a glimpse of what looks like a shark tail as dark liquid billows through the water. That’s scary. Also scary is whatever the heck Frederick just did. Was that magic? I mean, I’ve seen a bit of minor magic around here and there, but it was all little things, like starting fires for cooking, or floating utensils around to set the table. Whatever Frederick did was much more powerful. And it looks like he’s about to do it again.
+
+The ripples in the water vanish, then resurface a little way’s out and start accelerating toward the ship again, this time to the back of the ship. Frederick leaps off his good leg, flying across almost the entire length of the ship in a single bound and stabs down again at the shark as it’s about to hit the ship again. This time, I watch the light fly down into the water, striking the shark directly on top of its head. Its momentum carries it into the ship with another crash, but it stops moving after that, its brain pierced.
+
+“It’s dead!” announces Frederick. “To shore, quickly!”
+
+About three minutes later, we finally make it to shore, and the ship is noticeably lower in the water than it was when we started. The boat grinds to a halt in the sand below, still about fifteen meters away from dry land. The two rowboats on either side of the ship are lowered, and I jump down into one of them with Johnny and we row the rest of the way. As we move, I notice that the other boat also has quite a few holes in it. That’s probably why Henry and the others haven’t come back yet.
+
+Frederick gathers all the men on shore and makes them line up to give orders. No one is missing, but we’re all stranded here right now. On the beach, we can see clear signs that the other fishermen were here, but we also see blood on the sand and a half-buried broken spear.
+
+“We’re splitting up!” he shouts. “Move in pairs. If you encounter a monster of any kind, you are to immediately turn around and run and report back here to me. Do not engage. If you encounter the missing fishermen, first verify their condition and your surroundings. If possible, send two back to report. If not, send one. But our first priority is rescue and safety. I will not be losing any men on this island. Do you understand?”
+
+“Yes, sir!”
+
+“Now, move!”
+
+“Yes, sir!”
+
+The men start jogging away, each pair heading in a different direction, spears at the ready. I stay here with Old Man Frederick, who has his eyes closed and his sword stabbed into the sand. I think I’ll stay here. He’s definitely the strongest, so being next to him is also the safest.
+
+[ Come on, you’re so close! ]
+
+But I can just wait here and they’ll solve the mystery for me.
+
+[ None of them will make it in time ]
+
+What does that mean?
+
+…
+
+Hey, what does that mean?!
+
+Dammit. Nag me for weeks, then disappear when I need you most. Screw you too, annoying blue boxes. Fine, I’ll move! Happy now?
+
+…
+
+Screw you! I’ll figure it out myself.
+
+I start sniffing around the beach, hoping to pick something up. It mostly just smells like beach, so I head over to where the blood and broken spear are. Here, I pick up something else. Fish. A lot of fish. And mixed in are some more human scents, like sweat, leather, blood, and just the barest hint of fresh-baked bread.
+
+It’s Henry!
+
+I glance back at Frederick, who is still standing still with his eyes closed. I bet he can sense me. He was able to sense that shark somehow. I look at him for a second, then turn back to the sand and start following the scent. The fish remains almost overpowering, but I can still smell the people too, and I follow it through the sand into a wooded part of the island, and a little bit further until I arrive at a cave. The smell of blood is stronger here.
+
+I stalk forward, claws retracted so I make no noise. There’s a trail of blood leading down a narrow offshoot to the right. I follow it for a few dozen meters until I come across a horrific sight. It’s my primary food-bringer, and he’s bleeding a lot. He’s leaning against the wall of the cave and barely breathing. The other fisherman are scattered around him, dead, with a few other bodies I can’t identify as well.
+
+I run up to him and jump up, putting my paws on his shoulder.
+
+“Mrr?”
+
+His eyelids flutter open, and while at first, they’re out of focus, he eventually is able to turn his head to look at me.
+
+“Y-Yona?” he says, his voice faint. “Am I…?”
+
+He trails off, looking around the cave, then he blinks a few times, and the confusion in his eyes clears up a bit.
+
+“Dammit,” he wheezes. “Yona, you need… to go find help. There’s… a Named…” Blood trickles from his mouth. “A Named monster. You have to… go get someone… so I can… tell them…”
+
+[ Starter Quest complete! You’ve unlocked the complete System! Would you like a tour? ]
+
+Not now, Annoying Blue Boxes.
+
+A Named Monster? What does that mean? That sounds bad. Everyone here is dead. Henry has a big hole in his stomach. He won’t last long either.
+
+No, I can’t let him die. He’s my caretaker! Who will bring me food if he’s gone? He can’t die. He won’t die! I’m going to get Frederick! He’ll know what to do! If there’s magic that can kill sharks from three meters away, surely there’s magic that can fix holes in stomachs.
+
+“Mraw!” I say, and I nod at him, hoping he understands.
+
+I turn to run back out of the cave, but I freeze as I hear someone else enter. Or rather, something. The footsteps aren’t human. They sound wet, and the way they slap across the stone floor sounds unnatural. I jump to the side, clinging to the wall and peering my head around the corner, and a few seconds later, I see it. It looks almost human, but not quite. It’s got the right number of limbs, and its general body shape is the same, but all the details are wrong.
+
+It only has four fingers on each hand, and between each finger is webbing. Its feet are long and flat, and look more like diving flippers than human feet. Its head is more like a fish than a person, with two bulbous eyes on either side of its head, and a gaping mouth that looks big enough to fit all of me inside it. Its entire body looks scaly and slimy, like a fish’s.
+
+Above its head, there are words that look very similar to the annoying blue boxes.
+
+[ Ichthyoid, lvl ? ]

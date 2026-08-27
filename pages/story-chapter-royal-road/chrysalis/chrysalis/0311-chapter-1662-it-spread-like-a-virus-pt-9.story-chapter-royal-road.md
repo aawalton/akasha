@@ -1,0 +1,97 @@
+---
+id: cb5ae6ac-9a0b-5e36-b7f6-df115ffdb7f2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1662 -  It Spread Like a Virus pt 9"
+slug: 0311-chapter-1662-it-spread-like-a-virus-pt-9
+partOf: chrysalis
+position: 311
+ownLength: 1128
+unit: words
+ownProgress: 1128
+publishedAt: 2025-10-08
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2659670/chapter-1662-it-spread-like-a-virus-pt-9"
+royalRoadId: "2659670"
+markedReadAt: "2026-06-29T19:53:45.597Z"
+---
+
+Many have debated the exact meaning of the name attached to Yolesh the Ever Dying. Is the Ancient some form of undead? Is it a boast to state how Yolesh cannot truly die? Does it have another meaning altogether?
+
+Amongst the worshippers of Yolesh, there is no consensus, but there are a few prevalent views, the most common among them being that the aura of undeath that surrounds the Ancient is fuelled by its own life force. In that sense, Yolesh is always dying, burning its own life to maintain its power.
+
+Whether that means the Ancient is destined to die, or if it can replace what it loses, we can only guess.
+
+What is known, is where Yolesh surfaced during the Rending. The Valley of Eternal Mist is home to the undead to this day. No matter how many times they are killed, no matter how thoroughly, they still return. Perhaps an example of the true nature of Yolesh.
+
+-           Excerpt from ‘Collective Wisdom of the Cults’ by Granin Lazus
+
+The diplomats of the Colony had never imagined that their work would become so simple. The Folk were clamoring for teams to leave Anthome and tour their territories. Inquiries about visiting the home of Tunnel Ball had skyrocketed, with thousands expressing interest in seeing how the game was played by the creatures who’d created it. Cultural exchange and acceptance between the Colony and Folk, which had seemed so difficult at first, a project of decades, was accelerating by leaps and bounds every week.
+
+The brathian had also caught the bug. From the most recent reports, the Brathian Island Conglomerate was paying for ant coaches and teams, even putting up a hefty fee to recruit a team of carvers to demonstrate the official construction methods for their own builders. News of the game was spreading along the shipping routes, causing other conglomerates to reach out, desperate not to be left behind by their competition.
+
+It seemed like everywhere the Colony went, as long as Tunnel Ball was also there, they were welcomed with open arms. The conversations were easy, the compromises flowed smoothly, agreements were made, signed, sealed and delivered before the tea got cold.
+
+Diplomant could not have been more pleased. What they had assumed would take them ten years would be done before twelve months had passed. All because of a training exercise the farmers liked to watch.
+
+As she stood, looking over the edge of the flying ship rising above the shimmering sapphire waters of the fourth, she could only admit that her role was no longer to represent the Colony in international negotiations.
+
+No, everything had changed.
+
+Her role was to spread Tunnel Ball as far and as fast as an ant possibly could. If the locals were playing the game, then they would reach out to the Colony on their own. All the ants had to do was sit back and wait, sipping tea and eating cake.
+
+It was simple. She hired ships and sent out Folk, brathian, golgari, ka’armodo, even a few bruan'chii, who had learned the game while serving in the battalions. They would play demonstration games, teach children and adults, organise matches between the locals. Over a few weeks, they would build interest, develop a following for the game, and inevitably conversations would turn to perhaps creating a proper field, organising regular games.
+
+At this moment, the Colony would swoop in. You need a field? We will build it, free of charge. Would you like some training? Would you like to see an ant team play? Of course, we will happily sponsor your best team to tour the fourth stratum, we will do it every year!
+
+After a month or two, she would turn up with her fellow diplomats. How do you feel about trade? Would you like to recognise the Colony as an independent, free nation of sapient creatures?
+
+I’m afraid recognising our sovereignty and right to exist is a requirement of participation in the World Cup.
+
+Wonderful to have your agreement in this matter. Let us toast with a fine cup of loose-leaf tea and scones.
+
+It worked like one of the Silver City’s magical clocks, as predictable as the turning of gears and the swing of a pendulum. An unprecedented level of diplomatic success. Reports from the spies within the Church of the Path said the priests’ heads were spinning. Trying to unite the sapient races against the ants was almost impossible as the game opened doors left right and centre.
+
+Not that they didn’t have some success. They would need to be dealt with eventually, likely when the Eldest awoke. For now, Diplomant would, to borrow a human expression, make hay while the sun was shining.
+
+However, of all the races, kingdoms, fiefdoms, free cities and islands to which she had spread the game, there was one that caused her some level of concern. The reputation of these people was such that she wondered if they would even be interested in Tunnel Ball. On some level, she was almost more worried if they did take an interest.
+
+With a slight jolt, the flying ship bumped into the dock. The crew jumped about, yelling instructions, throwing ropes and tying things down, and soon enough it was time to alight. Along with her escorts, Diplomant skittered down the ramp, her eyes taking in the incredible view from the floating island in the sky.
+
+She’d asked, of course, whether or not the locals had taken to the game, but all she’d heard back was that she would have to ‘see it for herself’.
+
+It didn’t take long for her to see what her agent had meant.
+
+“Ey? Eyyyyyy?! Are you fair dinkum mate?! The ball was in!”
+
+“You wanna have a go, mate?! Caus’ I’ll go! I’m dyin’ ta go!”
+
+“Shut your pie holes, you drongos! Get your thick heads back in the game!”
+
+“Ey?”
+
+“Ey!”
+
+“... Fine.”
+
+Cheering erupted as play got back underway.
+
+“Come on, you good thing! Get ’em!”
+
+“Ball? BALLLLLLLLL!!!!”
+
+“Ump! Where’s the flamin’ call?!”
+
+“Hey! I’m the umpire, not you! Shut your flamin’ mouth!”
+
+“Oh? You wanna have a go, then?”
+
+“Eyyyy?”
+
+“Eyyyy!”
+
+Soon, two magpei, one in an official umpire's uniform, were grappling and fighting in the skies as play continued beneath them.
+
+Diplomant clacked her mandibles slowly, unsure if she should be pleased, or in despair. Everywhere she looked on the outskirts of this one small town, they were playing Tunnel Ball, or fighting about Tunnel Ball, or both at the same time.
+
+The magpei were legendary for their fiery tempers, impressive physical strength, shocking durability and recovery, and undying love for hitting each other.
+
+It was entirely possible they would dominate the world of Tunnel Ball. It was built for them.

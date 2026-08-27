@@ -1,0 +1,73 @@
+---
+id: 84e88c83-6698-5faa-b6bf-29fb231adc0e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1483 - The Breach"
+slug: 0131-chapter-1483-the-breach
+partOf: chrysalis
+position: 131
+ownLength: 1057
+unit: words
+ownProgress: 1057
+publishedAt: 2025-01-09
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1999855/chapter-1483-the-breach"
+royalRoadId: "1999855"
+markedReadAt: "2026-06-29T19:56:35.480Z"
+---
+
+How many of these monstrous killing machines were attached to this invasion?! Zluth could scarcely believe his eyes when, instead of the ant he’d expected, a giant bear had come waddling down the tunnel. At first, he’d seen it as a positive thing, especially so when the creature didn’t seem all that strong at first.
+
+He had been quickly disabused of that notion. The beast was now ripping through everything it could get its paws on faster than the monsters could reach it. Even worse, ever since that flickering, ominous aura had appeared, the bear's endurance seemed to have shot through the roof.
+
+“I’m not sure we’ll be able to achieve much here,” he muttered to himself.
+
+They’d been working to wear down the ant monster who regularly patrolled these tunnels. The creature seemed to have inexhaustible endurance, returning to the fight time and time again, no matter how battered it became or how much toxin it absorbed. It seemed they’d finally managed to wear the cursed monster down, but now it had been replaced by another formidable beast.
+
+A member of Zluth’s war party slid up beside him, whispering news.
+
+“The attack in Sluzzl’s tunnel appears to be going very well. Chozth has ordered us to concentrate our forces and join in the assault.”
+
+Although he wanted to protest, he knew it wouldn’t do any good. It wasn’t like they could just turn their attack into another tunnel. He had members of his war party working kilometres away, funnelling newly spawned creatures into this tunnel and others adjacent to it. Conditions right at the edge of the ants’ cursed blue mana were the result of days of preparation and herding from his war party. Chozth knew very well he couldn’t redirect his attack, she wanted him to abandon it and bring his war party to another tunnel.
+
+It was frustrating, but if he tried wriggling around her orders, he was going to be eaten for sure.
+
+“Gather the others,” he whispered back. “We’ll relocate in an hour.”
+
+That didn’t give them much time to gather the more distant members, but Zluth wasn’t willing to push his luck. Both Krath compressed themselves and began to slide away, gaining speed the further they got from the ants and the bear currently wreaking havoc on all it could touch.
+
+It wasn’t all bad. He hadn’t thought they were going to be all that successful already, and if Sluzzl was having some luck, Zluth would rather be there to garner some of the credit for himself. Pushing himself to a dangerous pace, he zipped through the tunnels, helping to round up his war party and gather them safely in their temporary hideout.
+
+“What’s happening?” Thossiz grumbled. “We were just starting to get somewhere.”
+
+“Chozth wants us in another tunnel to support the attack. You want to argue with her?” Zluth asked.
+
+“No. No, I don’t.”
+
+“Thought not. We’re going to race over there as fast as we can, so take a brief moment to get anything you need and rest. I don’t want to give Chozth an excuse to eat one of us for being slow.”
+
+Not one of the Krath was going to argue with that sentiment. Making a show by disciplining the regular slugs was a tried and true method among the tribes. In short order, the war party was sliding through their shortcuts, making good time.
+
+When they finally emerged into the tunnel Krath’sizz Sluzzl was in charge of, they found quite a few Krath had already gathered. When they were spotted, Zluth and his group were led directly into the hidden command post where they found Chozth herself.
+
+As soon as they entered, she turned her eyes toward Zluth, her amusement obvious as they curved into wicked moons.
+
+“You made… reasonable time,” she burbled. “Tell your war party to rest for a moment. We are coordinating.”
+
+Zluth quickly told his slugs to find a safe space to recover and rushed back to the crude table around which the other war leaders were gathered.
+
+“Krath’sizz Sluzzl has succeeded in pushing the ants holding this tunnel to the brink. There are notable weaknesses in the line, which we will look to exploit. We will look to punch through their wall of mana and chew away at their safety from the inside out. If we can reach and disable the platforms they fill with those abominable creatures who corrupt the fifth, all the better.”
+
+Chozth grinned wickedly.
+
+“The invaders have been more durable than we expected, but now they’ve started to crack. We’re going to show them what it looks like when the Krath go for the throat.”
+
+All of the gathered Krath’sizz felt a thrill go through their slug flesh at their leader’s naked, savage glee. That was right, this stratum belonged to the Krath! It was theirs by right, and the invaders would finally feel their wrath.
+
+Under the personal command of Chozth, the various war parties began to work in concert. They were spread far and wide, working throughout the tunnels to prepare for the assault to come while Sluzzl continued his push at the front.
+
+Zluth was pleasantly surprised by the lack of infighting and bickering amongst the various leaders, but he quickly came to realise why that was the case. Chozth was a dominating presence. She stalked through the tunnels like a vicious predator, her personal guard-slugs ever by her side. Being anywhere near her felt like having fangs wrapped around his neck. There was no illusion about what would result from the slightest insubordination.
+
+Thus, in a remarkably short amount of time, the attack was prepared, and Zluth found himself amongst dozens and dozens of Krath, slowly creeping toward the ant lines as their war parties carefully herded the deadly surprises they had prepared for the cursed invaders.
+
+Chozth herself accompanied the attack, taking personal command of the offensive. With so much at stake, Zluth was determined to prove himself and claim his share of the rewards should this offensive work.
+
+In the distance, he began to see the cursed, shimmering glow of the blue mana. Sluzzl did indeed have a promising offensive going, a horde of monsters pressed right against the blue mana wall with Krath support close behind. When he arrived, those ants were going to crack like a slime-withered shell.

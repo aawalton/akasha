@@ -1,0 +1,141 @@
+---
+id: ca8fd923-1480-55bf-bbd1-2ec1d7fc9547
+page-type-slug: story-chapter-royal-road
+title: "135: To Greater Things"
+slug: 0135-135-to-greater-things
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 135
+ownLength: 1924
+unit: words
+publishedAt: 2026-04-06
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3239140/135-to-greater-things"
+royalRoadId: "3239140"
+---
+
+[Brain Consumed: Sabine Averine (Storm Caller of Sol - Level 65)]
+
+[Experience Awarded]
+
+[You have leveled up! 15 >> 23]
+
+[Strength +30, Speed +120, Vitality +30, Magic +118, Resistance +30]
+
+[Skill Upgraded: Lightning Blast VIII >> Lightning Blast X]
+
+[New Skill Acquired: Lightning Mastery III]
+
+[New Skill Acquired: Power Surge I]
+
+[A Trait has been upgraded: Lightning Heart >> Lightning Soul]
+
+[3 Trait Points Awarded]
+
+The weirdest thing about eating Sabine’s brain was how completely normal it felt, which was honestly kind of concerning if Chloe really stopped to think about it, because back when she was still normal, there was absolutely no way she would’ve had the courage to even consider doing something like this.
+
+She was pretty sure eating brains was illegal, or at the very least extremely frowned upon back in her original home. The kind of thing that would get people staring at you in public while slowly backing away and maybe calling someone.
+
+But now it just felt like food, pretty good tasting food too. And Sabine’s brain was definitely a special one.
+
+Chloe grinned to herself as she wiped her mouth with the back of her hand as a rush of strength settled into her body. Sabine's brain gave her a pretty big boost after all, a full eight levels all at once, which honestly felt kind of ridiculous but also extremely satisfying. It made the whole situation feel very worth it, even if the method was, you know… a little questionable by normal standards.
+
+And on top of that, all of her lightning-related abilities had improved, which already felt pretty great, but even better, the trait she got from the Thunder Bird had apparently evolved too. She wasn’t totally sure just how strong she was now, but she was pretty confident she had reached a whole new level of zappy. Like, dangerously zappy, or at least, more dangerous than before.
+
+The weird thing about Sabine’s brain was that Chloe didn’t really get any useful memories from it. Normally when she ate someone’s brain, she’d get random flashbacks from their life popping into her head. But this time it didn’t work like that at all. Instead, she just kept seeing Sabine training her lightning magic on mountains and cliffs. It was kinda cool at first, sure, but after watching the exact same lightning practice loop inside her head again and again, it got really boring really fast.
+
+With that done, Chloe glanced back at Sabine’s body, what remained of it anyway, and thought about what to do next. Because just leaving her there didn’t feel quite right, even if Sabine had tried very hard to kill her earlier. She thought again to just burn the body and be done with it, but then she looked around the sewer and decided that was a terrible idea in hindsight.
+
+Burning a body in a closed underground space like this, with all the water and the already questionable sewer air, would probably make everything way worse, and Chloe really didn’t feel like dealing with that kind of smoke getting trapped down here. So instead, she crouched down and carefully picked up Sabine’s body, then stuffed it into Cloaky. This is definitely a normal thing that normal people do, totally reasonable, yep.
+
+With that handled, Chloe straightened up and stretched slightly before starting to walk through the sewer again. She needed to find Iris.
+
+But as she kept walking, glancing down one tunnel and then another, Chloe slowly started to realize something as she looked around. This place was big, stupid big. She wasn't even sure why a city full of bird people had sewers anyway, couldn't they just fly away and poop in the sky or something? Maybe somewhere further away from the city?
+
+But anyway, Chloe kept walking through the sewers despite how confusing everything was, because at this point she had fully accepted that she had absolutely no idea where she was going and was mostly just hoping she would eventually stumble into something important. She also kept running into rats.
+
+Chloe slowed slightly as one group scurried past her feet, then another darted along the wall, and then even more started pouring out from a side tunnel. She then started to notice that these rats were kind of moving around her.
+
+One rat paused near her boot, then quickly moved aside right as she stepped forward, while another climbed up a pipe and dropped down ahead of her, almost like it was staying just a step in front, and after a while Chloe started to notice a pattern, because instead of running away randomly, the rats were actually moving around her.
+
+“…Huh,” Chloe muttered, slowing down a little as she watched as a small group of rats split apart just before she walked through them. And at that moment, she thought of something. Wasn’t this like those princess movies?
+
+Chloe squinted slightly as she kept walking, because in those movies the animals actually listened and helped out properly, like they would sing or carry stuff or do something useful, but these rats weren’t really doing that. They weren’t attacking her or anything, which was nice, but they also weren’t exactly helping either, more like they were just curious and hanging around her for some reason. Close enough.
+
+As she kept moving forward, Chloe couldn’t help but think that it was a really good thing she didn’t have a sense of smell anymore, because normal Chloe would’ve absolutely passed out in a place like this without. She couldn’t actually smell anything now, but she could still kind of feel how gross the air was.
+
+Yeah, this place is nasty. Chloe thought.
+
+She kept going anyway, stepping through the shallow water as it rippled around her boots, and just as she was starting to wonder if she had completely lost her way, a loud explosion echoed through the tunnels, making the water tremble beneath her feet. Chloe froze for a brief moment, then her eyes lit up as the realization clicked, that was probably Iris. Because she couldn't really think of anyone else that could make that kind of explodey noise, and Iris did have that cool explosive smoke move before.
+
+So Chloe broke into a run, splashing through the water as she followed the sound, turning corners quickly and nearly slipping once before catching herself and pushing forward. Another blast echoed, louder this time, and Chloe picked up speed, rushing around the final corner before stopping as she got a good look at what was going on. “Whoa.”
+
+Iris stood there, completely still, faint trails of burning smoke drifting from her mouth as the air around her shimmered with heat, while across from her, the other guy was very, very done. His body was charred black and barely recognizable.
+
+Iris turned her head slightly and looked at Chloe. “Hello there, what took you so long?”
+
+“Excuse you, I was busy, I had this super epic fight against Sabine, and I almost died, like actually almost died,” Chloe said, puffing her cheeks slightly.
+
+“Mm, sure.”
+
+“Hey, I really did almost die, okay, that was a hard fight.”
+
+Iris chuckled. “I was just messing with you.”
+
+She then gestured casually toward the burnt body nearby. “Also, perhaps you can eat that one’s brain.”
+
+Chloe squinted at her for a moment, clearly suspicious, but she still walked over anyway because, well, a brain was a brain, and this guy had to be strong. Being a member of Sol did seem to require that you be both strong and at least kind of a jerk.
+
+She crouched down and reached toward the body, getting ready to crack the skull open, but then the body suddenly melted, collapsing into water that dissolved into a spreading puddle. Chloe froze. “…Huh?”
+
+She blinked a few times, then slowly looked back at Iris. “Do you know where his real body is?”
+
+Iris shook her head. “I did not think that one was a clone, that is… unfortunate.”
+
+Chloe looked back down at the puddle, her mouth flattening slightly, but then her eyes caught something sitting in the water. “Well, at least we got something,” she said as she reached down and picked up a small black box, lifting it up.
+
+She stood up and turned toward Iris, holding it out slightly. “This is the one we’re looking for, right?”
+
+“It is, you may keep it.”
+
+Chloe then decided to store the box inside Cloaky for safekeeping, which in her mind was the safest place for anything important. Then she paused as something clicked in her head, and she remembered that there was another one of these boxes that she had before.
+
+She looked back at Iris. "Uh, I think I should tell you that I gave Sabine one of these before."
+
+“Then she likely handed it over to Sol already,” Iris said. “Neither she nor the water mage brought one with them, which suggests the one you have is the auction piece.”
+
+Chloe frowned. "Sorry for giving the box away then."
+
+"It's alright, you didn't know the value of these boxes at the time. And I'm sure we can slowly gather up more of these boxes as we go."
+
+"That's good to know then, what are these boxes used for anyway?"
+
+"Each one contains a piece of divinity, and gathering all three will enable someone to gain access to unimaginable power."
+
+"Um… okay, and what's a divinity anyway? You make it sound like it's just some object, but it can't be that simple, right? I remember these boxes had something to do with Ishgria, I think." Chloe said.
+
+"Yes, they all contain pieces of Ishgria's divinity to be precise. It's hard to explain in detail, but for now, all you need to know is that these boxes are very important, and we'll need to gather all three eventually."
+
+"Does that mean we'll have to keep beating up Sol members?"
+
+"Not strictly, but since we know for certain that they have at least one more box, then yes, we will have to hunt down more and more Sol members in the future. Though even if they did not possess these boxes, we'd have to go after them anyway."
+
+"Right, 'cause they're jerks."
+
+"Exactly, for now though, we should regroup with your friends outside.”
+
+***
+
+Chloe followed after Iris as they made their way out of the maze of sewers. Until eventually the narrow tunnels opened up into a large drainage channel, and the sewer spilled out into a river.
+
+Murky water flowed ahead, carrying bits of debris along with it, while the walls sloped outward into a wide exit where the sewer met open air. They were finally outside, complete with trees, grass, insects, and other outside stuff.
+
+Chloe paused for a moment as she looked around, her eyes adjusting slightly to the open space after being underground for so long. It was still dark out, but not too dark. The sky had that faint, soft gray tint near the horizon, and it looked like morning wasn’t too far away anymore.
+
+“Okay, so,” Chloe said, looking around the riverbank, “we should probably find Sierra and Raenof too, right? Like, I’m pretty sure they’re not just gonna magically show up.”
+
+“I can help with that." Iris said
+
+Chloe blinked at Iris as her brain immediately jumped to a very specific idea. “Oh, what, do you have like, a special tracking smoke or something? Like you just go whoosh and suddenly you know where everyone is?”
+
+"Actually, yes."
+
+“Wait, seriously?”

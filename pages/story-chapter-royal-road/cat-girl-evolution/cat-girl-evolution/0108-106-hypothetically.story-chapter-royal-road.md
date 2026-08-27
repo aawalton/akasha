@@ -1,0 +1,205 @@
+---
+id: 85896cdc-aca8-5b55-b748-88b6c91193bc
+page-type-slug: story-chapter-royal-road
+title: "106 - Hypothetically..."
+slug: 0108-106-hypothetically
+partOf: cat-girl-evolution
+position: 108
+ownLength: 2728
+unit: words
+publishedAt: 2026-03-29
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3208075/106-hypothetically"
+royalRoadId: "3208075"
+---
+
+We spend the rest of the day wandering around, looking for clues, but it quickly becomes obvious that we’ve basically already found the main clue. The locals aren’t allowed to tell us how to complete the first Floor, but they are able to give us some information that only solidifies our hypothesis. For example, the lunar alignment is present every night, and the weather never changes. It’s like the city is just repeating the same day over and over again.
+
+With extra time to kill, we decide to take a trip outside the city, just out of curiosity to see how far the Dungeon goes. As it turns out, it goes quite far. More than twenty kilometers in every direction, and it’s not just empty space either. It’s a fully realized landscape, complete with flora, fauna mana, and everything else we could need. It also goes up very high. It’s not quite as tall as it is wide, but it’s tall enough that the clouds overhead are real, and not illusory like the ones in the distance.
+
+The only direction it doesn’t go very far is down. I barely have to dig down at all before Food Sense detects the void that is the edge of the Dungeon. Before I can Blink back out of the tunnel I’ve eaten with a giant mana head, a piece of loose dirt falls beside me and a tiny mole pops out.
+
+“You’re doing a very good job of appearing like you’re not trying to find and kill me,” it says.
+
+I cut it in half, and another one spawns right behind it, pushing the corpse out of the way to look at me again.
+
+“That’s really not helping your case,” it says.
+
+“If I was looking for you, why would I just dig down randomly in the middle of nowhere? Is this close to where you’re hiding? Is that why you’re suspicious?”
+
+“If it was, you would be dead,” it replies. “But testing the limits of a Dungeon is a classic tactic of Dungeon Destroyers.”
+
+“How many Dungeon Destroyers have you even met?”
+
+“Oh, you’d be surprised. Lots of terrorists who want to make a statement by destroying important Dungeons. And I am very important.”
+
+“I’m sure you are, but I’m not one of them.”
+
+“And I’m sure you’re not working with the other guy either, then.”
+
+“The other guy?”
+
+“You know, you’re a pretty good actress. Maybe you should try doing that instead of destroying Dungeons of historical importance.”
+
+I cut the mole in half again and a third one spawns.
+
+“Hypothetically–” it starts.
+
+I cut it in half and a fourth one spawns.
+
+“If you were to work with a co-conspirator–”
+
+That one mysteriously falls apart as well, and a fifth appears.
+
+“–what would that co-conspirator be like?”
+
+“I wouldn’t,” I say, killing the fifth. “Because I’m not trying to destroy the Dungeon.”
+
+“Yes, but hypothetically–” says a sixth.
+
+“–what would they be like?” finishes the seventh.
+
+“Is there really another Dungeon Destroyer here currently?” I ask, pausing with my claws raised.
+
+“Hypothetically, if there was, why would I tell you? What are you trying to do, get information out of me? Trying to meet up with them and plot together?”
+
+“Or maybe, I’m not trying to destroy you at all, and I actually want to kill the dumbass who’s trying to destroy one of the Seven Delicacies.”
+
+“And why–?” it starts.
+
+“Okay, listen here, you little shit,” I say, grabbing the mole by the neck and holding it up to my face. “I am here for food. I have Gluttony. I want to eat. Specifically, I want to eat good food, and you happen to have what is widely hailed as one of the best foods in the world. That is the only reason that I am here.
+
+“Now, with that in mind, hypothetically, assuming I am telling the truth, why would I want to destroy you? You have a perfectly good, renewable source of incredible food that I, the holder of Gluttony, would like to eat, and want to be able to eat again in the future. If I destroy you, that food disappears.
+
+“Now imagine how I might feel upon hearing that someone else actually is trying to destroy you. As annoying as you are, I don’t want you to be destroyed. In fact, I would happily work together with you to combat this threat. But imagine, if you will, that this annoying Dungeon Core is treating its greatest ally like another dangerous entity, and instead of ignoring them or even asking for their help, it is instead pestering them and making them hate it. In this hypothetical scenario, would your current actions be helpful at all?”
+
+The mole is silent for a few seconds, staring up at me with tiny, black eyes.
+
+“You raise a fair point,” it says.
+
+“Of course I do.”
+
+“However, that doesn’t mean that I should trust you,” it continues. “Especially when you continue to act so suspiciously. I would still be much more comfortable if you just left after completing this Floor. I can handle the other Dungeon Destroyer on my own.”
+
+“But you couldn’t if I joined them?”
+
+“No, I could handle you too, but it would be much more annoying.”
+
+“If you can deal with them so easily, why haven’t you dealt with them yet? And why haven’t you dealt with me yet?”
+
+“Well for you, it’s because I don’t actually think you’re going to destroy me. I’m just managing risks and trying to get you to leave, just in case. As for your hypothetical co-conspirator, hypothetically, what do you think would happen if someone created a Dungeon within a Dungeon?”
+
+“That’s possible?”
+
+“Hypothetically.”
+
+“Then, hypothetically, would you not want allies to enter this Dungeon and destroy it to guarantee your safety?”
+
+“Hypothetically, if I found allies which I deemed trustworthy, I would, but also hypothetically, why would I trust someone with the Dungeon Destroyer Title?”
+
+“Because I have Gluttony?”
+
+“That’s even less reason to trust you. So no, I will not be trusting you, thank you very much. I will instead continue to try to drive you away. By the way, could you take your shoes off? You look like you have lovely toes.”
+
+I kill the final mole, adding its corpse to the growing pile at my feet, then Blink upward until I’m back aboveground.
+
+“You were down there for a while,” says Lauren. “It must be deep.”
+
+“…Yeah, something like that.”
+
+“Huh? What’s that supposed to mean?”
+
+“Doesn’t matter. I’m bored of exploring. I wanna go to a place with no animals.”
+
+“Yona, what–?”
+
+“Let’s go see what other restaurants there are!”
+
+We return to the city, and spend the rest of the day continuing our wandering, stopping by a few restaurants and street stalls for snacks along the way. We finish our wandering with a bit of time to spare, so we head back to the inn so I can take a quick nap and the others can work on their professions. Before I fall asleep, though, I notice one of the little gold, tree-shaped dome toppers directly overhead on top of the inn. I scan to make sure no one is watching, then Blink out, cut it off with a quick Spatial Slice, then Blink back in. It’s heavy, and as far as Food Sense can tell, it’s made of pure gold.
+
+I slowly raise one hand up to the ceiling, middle finger out as I take a big bite from one of the golden branches. The gold tastes utterly bland, and with how strong my body is, the malleable metal squishes like gum between my teeth. A total waste of stomach space, but I do this to send a message, not for the flavor. I finish about half the tree before my stomach starts to feel extremely strange, and stow the rest of it away for later. Then, I roll over to start sleeping, and groan in pain as my stomach full of gold shifts in my torso and crushes my liver.
+
+“Fuuuuuuuuuuck,” I wheeze.
+
+“You did just eat almost twenty kilograms of gold.”
+
+Shut up.
+
+I slowly roll back onto my back, waiting for a few seconds as the pain fades. I can feel the gold slowly dissolving as my body digests it somehow, but for the time being, I am stuck with all this extra weight. I am forced to take a very uncomfortable nap flat on my back.
+
+When Lauren wakes me up, the gold is mostly digested, but there’s still a kilogram or two left, and it feels mildly uncomfortable. I ignore the sensation, trying not to let the annoying Dungeon Core know that my act of defiance backfired, but as we walk toward the Sanctuary, a nearby crow starts laughing while looking directly at me. I flip it off and proceed to ignore it.
+
+When we reach the Sanctuary, it’s about a quarter hour till sunset, and the doors are still open. I float up to the top so I can see out the dome, and right as the sun finishes disappearing behind the horizon, the doors suddenly slam shut. We are alone inside, with the Silver Cunt’s team having apparently not found the way to complete the Floor yet. Either that, or they have, and we’re way off, and they’re already gone. It doesn’t really matter, though.
+
+With the doors shut, and the moons rising, we first try to sacrifice a squirrel to the tree, but are met with the same reaction as before. The twins and Lauren both agree that it’s likely because it’s too soon, so I take another nap as we wait a bit later in the night. For this nap, surprisingly, no one needs to wake me. I wake up on my own as something strange begins to happen in the Sanctuary.
+
+The three moons have risen high enough that all are visible, filling the entire area with soft light. As they do, the mana nearby starts behaving strangely. It’s like an invisible gust has formed, and is mobilizing the mana all around the room. At first it’s minimal, but it slowly picks up, moving the mana more and more, and the mana density increases too. While the Great Tree doesn’t do anything on its own, it soon becomes obvious that the strange mana currents are related to it, as they all swirl around it.
+
+The birds and squirrels and other little critters also become more active, the birds flying circles around the Great Tree as if trying to catch the mana currents under their wings. The squirrels scurry toward the Great Tree and climb up and out onto the branches, reaching their tiny paws out like they’re trying to catch the mana in their hands. After a few minutes of this, the currents continue to intensify, and then, suddenly, one flies inward, straight into one of the fruits, infusing the fruit with mana.
+
+One by one, the rest of the fruits get hit by their own currents, with the birds and squirrels frantically flying all about, jumping in the way and trying to intercept the currents. Almost all of them fail, but one brave squirrel manages to leap off its branch at the exact right timing, falling between the mana current and its target fruit, and taking most of the mana for itself. It lands on the ground with a tiny thud, and for a moment, it doesn’t move. Then, as we all watch, its name card changes.
+
+[ Squirrel ]
+
+…
+
+[ Squirrel, lvl 1 ]
+
+“It Awakened,” whispers Lauren. “Yona, grab it.”
+
+I Snatch it, catching it in my hand, where it regains consciousness and tries to struggle away. Unfortunately for it, despite Awakening, its Stats didn’t go up much, if at all, so it has no chance.
+
+“It all makes sense now,” says A.
+
+“We need to sacrifice that one to the tree,” says B.
+
+Seeing my confusion, Lauren elaborates, “Plants Awaken by the blood of Awakened creatures.”
+
+“Ohhhh.”
+
+We all walk up to the protruding root as the last of the fruits are infused, and the mana finally settles down. With the mana settled, the Unawakened creatures settle back down, dispersing back to wherever they came from, and the night grows quiet again. I glance at each of the others, making sure they’re ready, then slam the poor, unfortunate rodent down onto the spike.
+
+This time, unlike the previous times, it does not fade or disappear. As we watch the squirrel’s struggling form, its body grows thinner and thinner until it’s little more than a desiccated husk. Some blood drips down the root, but most is nowhere to be seen, presumably absorbed by the root.
+
+The mana in the air suddenly shifts again, and we all take a step back as the tree shudders, first subtly, then violently. After nearly a full minute of gradually intensifying shaking, it suddenly falls still. However, in its stillness, there is still a change. Its mana is much denser than before, and more importantly, it’s moving. When I peer closer, I notice that the tree now has a Namecard.
+
+[ Sacred Mali Tree, lvl 1 ]
+
+At that moment, an Annoying Yellow Box appears in front of me, and from the gazes of the others, in front of them as well.
+
+[ You have Awakened the Sacred Mali Tree and completed the Floor Challenge! Reward: Maligar Pendant ]
+
+[ Waiting for Party Leader to select course of action… ]
+
+A small wooden pendant on a leather cord appears in my hand. When I inspect it, I see that it has the shape of the Great Tree—or I guess the Sacred Mali Tree now—carved into it. There’s a bit of mana inside in a really complex pattern, but I can’t tell what it does, so I ask the twins.
+
+“Authentication,” says A.
+
+“It’s just proof that it’s actually from Maligar, and not a fake knockoff,” adds B.
+
+“Lame,” I say, glancing back at the pendant, disappointed.
+
+“It’s a cool souvenir, though,” says Lauren. “There are a couple other intelligent Dungeons that give things like this, and there are people who like to collect them.”
+
+I lift the pendant up, then open my mouth, then pause. After a few seconds, I lower it back down with a frown. As annoying as the Dungeon Core is, it is kinda cool, and even if the Dungeon Core continues to be annoying, it does still have the Delicacy. I’ll just keep the pendant as a memory of the food, rather than the Core.
+
+I slip it into my Stomach, then turn to Lauren, the Party Leader. She doesn’t notice me, though, and instead stares at the tree.
+
+“What is it?” I ask.
+
+“I just wonder how Maligar got to the state it is currently in,” she says. “Even if they didn’t know the full extent of the danger of having an Awakened plant in the center of their city, the signs of danger would have appeared long before the city reached the point of needing to be leveled. Maligar only vanished three thousand years ago during the Age of Heroes. They should have been more than capable of taking care of the problem before it got that out of hand.”
+
+“The Age of Heroes?”
+
+“The time in history when the most Hero rank Adventurers were alive,” she says dismissively. “The world was more dangerous back then, and people were stronger. Platinums were as common as Silvers. They would have had Mithril Adventurers in spades. They shouldn’t have needed to go this far. It’s just… strange.”
+
+“Huh,” I say, looking at the tree.
+
+Even to me right now, it’s pretty obvious that the tree is a monster. Not only does it have a Namecard, but the mana moving inside it is not quite like the natural mana flow of an ordinary plant. It’s too dense, and too deliberate. Even if I didn’t have Food Sense, I would notice. So how did the Maligari not?
+
+“Well, there’s only one way to find out,” says A.
+
+“To the next Floor!” says B.
+
+“To the next Floor it is,” says Lauren with a shrug. “Is everyone ready?”
+
+After a brief chorus of affirmation, she nods, and a moment later, my vision turns dark as we advance to the second Floor.

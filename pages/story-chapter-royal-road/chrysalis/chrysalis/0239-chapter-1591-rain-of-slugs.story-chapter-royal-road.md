@@ -1,0 +1,81 @@
+---
+id: 3256b086-39b0-5dcf-8ba9-489ce6e1e167
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1591 - Rain of Slugs"
+slug: 0239-chapter-1591-rain-of-slugs
+partOf: chrysalis
+position: 239
+ownLength: 928
+unit: words
+ownProgress: 928
+publishedAt: 2025-06-24
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2380732/chapter-1591-rain-of-slugs"
+royalRoadId: "2380732"
+markedReadAt: "2026-06-29T19:51:27.295Z"
+---
+
+As the Krath reach the purified mana, they begin to sizzle and steam, just like my carapace is currently doing. Before they even touch the ground, each and every one of them plunges a hand onto their own flesh, puncturing some critical organ inside. They dissolve rapidly, to the extent that almost nothing survives to reach the platform.
+
+Lousy slugs! I was going to give them a good chomp! I deserve that! I’ve earned it!
+
+“Try and burn these nets off me!” I ask the ants still hesitantly waiting nearby.
+
+I know they want to help, they want to swarm and protect me, and part of me is tempted to let them, but I took the Altar of Self in my last evolution for exactly this reason. I’m strong enough, I can protect them.
+
+“Can you withstand the heat, Eldest?” one of the mages demands.
+
+“Don’t be silly!” I scoff. “Fire away!”
+
+Turns out having half a dozen flamethrowers levelled at you at the same time is a bit hotter than I thought it would be. YEEOUCH!
+
+Of course, I stoically maintain my facade. I’d rather cook a little bit than let these oozes knock me out, that’s for sure. For safety, I trigger my healing gland, letting the regenerative fluid run through my body and heal the damage I’ve been taking.
+
+I also dedicate a set of my subminds to seeking out and breaking down the invasive mana that is continually creeping into me. At the moment, it remains at safe levels, but it isn’t a problem I can ignore.
+
+There are still Krath on the wall, battling to hold on against the well that is forcing them to fall away from safety. I can imagine them tucked into holes and cracks in the stone, desperately trying to maintain their grip. Gweheheh.
+
+Unfortunately, Krath aren’t the only thing on the wall. There is also an absolute nose-load of mucus and slime. Thick clouds of the stuff now float overhead, pulled away from the wall and ready to fall onto the platform the moment I release the spell.
+
+That wouldn’t be ideal, obviously.
+
+With regret, I reverse the gravity well and it instantly flips, now crushing against the wall. The hanging mucus zooms like it was shot out of a cannon, slapping into the wall with a sharp, wet slap that resounds through the air. I wince. Anyone under that is going to be very unhappy.
+
+The fire has proven to be fairly ineffective against the nets, but it’s slowed them down at least. There’s a few things I could do to deal with them myself, but, for the moment, my energy is better spent making sure the platform is safe.
+
+They might have been caught off guard by my gravity well trick, but the Krath won’t give up with just that, I’m certain of it.
+
+My thoughts prove more accurate than I expected. I hadn’t noticed the brewing storm overhead, since I’d been so focused on all the other shenanigans going on. A dense, roiling cloud of green and dark yellow, hissing and steaming as stray drops of slime are consumed within.
+
+What the heck is this now?!
+
+Some of the slugs must have been posted higher up on the wall, above the area I covered with my well. When did they start working on this nasty thing?!
+
+My minds race. What can I do about this? Gravity bomb? I’ve been working on pumping out gravity mana at a constant pace, but I’m a little low right now. A bomb of decent strength will take time, probably too much time.
+
+Just as I’m hesitating, a mind bridge snaps into place, and a familiar voice rings in my mind.
+
+[We will take care of the cloud. You focus on the mucus wave,] Rathwyn snaps.
+
+What a relief! Those mages have shown they know what they’re doing. All I have to take care of is the mucus wave.
+
+Mucus wave?
+
+My eyes snap back to the tunnel only to see the oncoming tide of sludge. A bright and virulent orange, the slime fills the tunnel from bottom to top, thousands and thousands of tonnes of the stuff, moving much faster than slime should.
+
+Ah, heck! This again?!
+
+Goodness knows what sort of infernal plumbing the Krath do to create these stupid waves, but I wouldn’t want to be their tradesman.
+
+The moment I realise what’s going on, I leap forward and position myself at the front of the platform, well in front of the other ants. The only thing in my arsenal that can deal with this is a gravity bomb, a big one, and it’s not going to be ready fast enough for me to fire it safely.
+
+“Get back!” I yell to the others as they rush forward. “I’m launching a spell. It’s going to be dangerous!”
+
+They know exactly what that means. My minds are already churning, forcing mana out of my core and into the gravitational construct. With all the gravity magic I’ve been doing, my mana gland has restored a decent amount already, and I pull that out too, I need every last drop for this one.
+
+The wall of toxic sludge races towards me much faster than I’m comfortable with. My brains are screaming in my head, straining to the point I fear I’ll burst something. The mana has to move faster!
+
+The tidal wave of sludge looms over me, I open my mandibles, and I let the spell rip.
+
+The energy within the Altar drains to nothing.
+
+The air starts to scream.

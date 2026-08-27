@@ -1,0 +1,89 @@
+---
+id: 2ed6cdec-e828-5167-9367-441e17583a4f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1455 - Reporting Back"
+slug: 0103-chapter-1455-reporting-back
+partOf: chrysalis
+position: 103
+ownLength: 1052
+unit: words
+ownProgress: 1052
+publishedAt: 2024-11-18
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1910064/chapter-1455-reporting-back"
+royalRoadId: "1910064"
+markedReadAt: "2026-06-29T19:47:22.545Z"
+---
+
+I’m not used to having to come back to my family with news of failure, though it feels like it’s becoming more of a thing lately, and I’m not happy about it. I can’t wait until we crush this stratum in its entirety so I can run around smacking the slugs about with my antennae. Without the benefit of their toxic environment, they’ll be helpless before me, forced to bow down and bury their sluggy faces into the dirt!
+
+Whoa!
+
+Need to be careful, that felt like the dark one was beginning to rise up. I swear, this place is really bringing out the worst in me. Disgruntled and annoyed, I make my way up the tunnel and back into the safe-zone, welcomed by the large battalion of soldiers the Colony had put in place to defend it. They all pat me on the carapace with their antennae and I exchange jokes and yell at them when they say I’m slacking.
+
+They won’t advance without orders from Solant, so there’s no need to let them know how the fighting went.
+
+Solant, as usual, is an island of calm within a sea at storm.
+
+“It got away,” I announce without fanfare.
+
+Solant turns to look at me for a moment.
+
+“It got away?” she asks.
+
+“Well… there were… complications… but yes. The enemy shed a chunk of its body and escaped.”
+
+Stupid snake-slug! This is embarrassing! Next time I see you, I’ll bury you under the weight of a black hole so powerful it would have eaten that golgari mountain for breakfast!
+
+“So long as it has cleared out of the area, we can begin capture and decontamination. Construction of the fortress is the only thing that matters. Thank you, Eldest.”
+
+Wait… she isn’t mad? I’m a little surprised.
+
+“It’s fine, then? You predicted that I might fail?”
+
+“In what way did you fail?” the little general asks, turning back to consider her ever-expanding model. “You were tasked with removing the obstacle and it is gone. I fail to see the issue.”
+
+Well… that’s good, then!
+
+Seriously, though, I don’t know how they’re expanding this model, but every time I come back, it’s grown. As the Colony expands its controlled area and uncovers more tunnels, the model grows to reflect these new discoveries. Even the furthest edges, which haven’t been confirmed by our scouts but are guessed at by our dungeon seers and those with the finest tunnel senses, are here, constructed from a different coloured stone.
+
+I’ve never seen anyone working on it, but I highly doubt the Colony has managed to create an automated construction array that updates the model according to some sort of input. Even Brilliant wouldn’t be able to do that! I think…
+
+“Well, if we run into the monster again, make sure to let me know. I have a score to settle with that slug.”
+
+“A slug? I thought it was a snake?”
+
+“It’s both.”
+
+“Do you think it’s related to the Krath?” she asks, her scent unusually pointed.
+
+“I… don’t think so? Snails and slugs seem to be fairly common monster types down here. This particular beast has some snake-like traits, but definitely has a slug body. Unless it turns out to have been a pet they placed in that location, I don’t see how it could be related to the Krath. Why do you ask?”
+
+Solant turns to her precious model, tapping several locations with her antennae.
+
+“Scouts have reported suspicious activity in these locations.”
+
+Each is close to the edge of our claimed territory, but nowhere near the Legion, which is interesting.
+
+“Although I believe they are taking great pains to conceal themselves, there is little doubt the Krath are beginning to mass against us. This is about the time we expected them to arrive, but the delays mean our defences are not nearly as complete as we would have hoped.”
+
+“You want me to go out there and give them a scare?”
+
+Solant clacks her mandibles thoughtfully.
+
+“It may be worth your time… though you must be careful. I expect they will go to great lengths to try and secure prisoners to gain information or put them into their conversion pits. You are their highest priority target, I have no doubt of that, though they may judge it too difficult to take you alive.”
+
+“In which case, they’ll just try and put an end to me.”
+
+“Indeed.”
+
+“I almost wish they’d try. I can only imagine what Crinis would do to them….”
+
+The little general does not answer that, no doubt as frightened by the prospect as I am.
+
+“Alright then,” I say, “I’ll go out and see if I can poke the hornet’s nest. I’m interested to see how many came to say hello.”
+
+I turn away, leaving Solant to deal with the million different problems that constantly arise. The second I step away, a swarm of scouts, generals and mages descend on her, each looking for the solution to their own particular problem. Somehow, I’m not even out of the command centre before order has been restored and she is patiently resolving one issue after another.
+
+I hope the next champion born into the Colony proves to be as useful. Brilliant has made great contributions, of course, but has always been erratic, to say the least. Vibrant, the first champion, has done more for the Colony than most will ever know, running from one battlefield to the next at a pace none can match. I dare say she’s done more fighting than I have, without having taken on enemies of as high a level. I wouldn’t say she’s erratic, but she’s definitely… odd. Let’s leave it at that.
+
+For now, I need to get back out into the tunnels and see what the Krath are up to. I need a quick medical check-in first, and I should say hi to the gang before Crinis starts getting worried. After that, I’ll try and lure some slugs out into the open. I still haven’t given up on capturing one, but that’s gone down a little in priority. I’d hoped to learn from a Krath, take a bit of their fifth stratum expertise, but with the Legion here, we have an alternate source. I hope they’re sharing as much as they’re meant to be.

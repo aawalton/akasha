@@ -1,0 +1,121 @@
+---
+id: 16e2448d-429f-5fc5-9f37-dc211bc81431
+page-type-slug: story-chapter-royal-road
+title: "172: Impulse Buying"
+slug: 0172-172-impulse-buying
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 172
+ownLength: 1853
+unit: words
+publishedAt: 2026-07-01
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3617520/172-impulse-buying"
+royalRoadId: "3617520"
+---
+
+There was a part of Chloe that wondered if this Bosco guy might've been at least a little shady. The kind of shady where you somehow walked into a shop with a perfectly reasonable amount of money and walked out wondering why you suddenly owned twelve different versions of the same thing. Still, Chloe was pretty sure she'd never actually been scammed before.
+
+Well, okay, maybe there was that one time. She'd walked into a cosmetics store intending to buy a single bottle of moisturizer and somehow ended up leaving with several bags full of lotions, creams, beauty products, and enough makeup kits to supply a small army. To this day, she still wasn't entirely sure how it had happened. Mom had absolutely not been happy when she'd gotten home, and Chloe could still remember the look on her face.
+
+On the bright side, Mom had still paid for everything because she was the best. She had this double infinite platinum plus credit card, so Chloe could just swipe and buy pretty much anything under the sun. Those were good times… good times.
+
+Deciding that formalities were important, or at least important enough to spend three seconds on, she gave the extravagant shopkeeper an enthusiastic wave. "Hi! Mind if I just have a look around?"
+
+"My dear customer, not only may you look around, but I insist upon it! A curiosity shop without curious customers is merely a building filled with questionable inventory!"
+
+Bosco then smoothly pivoted toward Liz and Z, somehow managing to spin his coat in a way that looked entirely intentional. "And what about you two distinguished ladies? Would either of you care to browse my humble collection?"
+
+Z adjusted her glasses. "I suppose I can look around."
+
+Liz shrugged. "Sure."
+
+"Fantastic!" Bosco announced. "Please take your time! Wander wherever your hearts lead you! Discover something wonderful! And if you require assistance, I shall be available!"
+
+Before anyone could respond, the shopkeeper vanished behind a shelf with surprising speed for a man whose mustache appeared to have its own gravitational field. Z watched him disappear before turning her attention toward Chloe. "Do not spend too much time here."
+
+"It'll be fine. I'm literally just gonna have a quick look."
+
+Z gave Chloe this super skeptical look. Unfortunately for Z, Chloe was already walking away before she could continue the conversation.
+
+The moment she was free to explore, she practically dissolved into the shop. A few minutes later, while going through a particularly crowded section of the store, something finally caught her attention hard enough to stop her in place.
+
+Resting on a cushion near the edge of a shelf sat a tiny dragon statue carved from dark stone. The little creature couldn't have been more than six inches tall, yet somebody had sculpted an absurd amount of detail into it. Most importantly, however, the dragon was wearing a hat, a very big wizard hat. The thing was so comically oversized that it looked like it should have tipped the dragon over.
+
+Chloe immediately picked it up. Aww, this guy's such a cutie!
+
+As tempting as the dragon statue was, Chloe eventually managed to place the tiny wizard dragon back where it belonged. She had only been in the shop for a few minutes, and committing to the first cool thing she saw felt like a rookie mistake. There was an entire store full of weird treasures to investigate, and for all she knew there could be something even cooler hiding around the next shelf, so Chloe continued browsing. This turned out to be both the best and worst decision she'd made all day.
+
+Every few steps she found something else that captured her attention. One shelf contained a collection of tiny birds made from brass and silver. A few shelves later she discovered a crystal shaped like a fox that glowed faintly whenever she tilted it toward the light. Then there was a decorative dagger with a handle shaped like a dragon curling around the blade. Chloe spent several seconds pretending to point it at invisible villains before deciding she probably didn't need another sharp object in her life.
+
+Eventually, however, Chloe's wandering brought her to a display case near the back of the store, and the moment she saw what was sitting inside, everything else instantly stopped mattering. "Oh."
+
+There, resting upon a dark stand beneath a small lantern, was a mask. A very cool and pretty looking mask.
+
+It resembled one of those elegant opera masks she'd seen in old movies and fancy parties, the kind that made somebody look mysterious and sophisticated. The mask itself was a pristine white, while delicate crimson markings swept across its surface.
+
+Chloe carefully picked it up. She slowly turned it over, examining every curve and detail. And wow, this might actually be the coolest thing she'd seen so far, at least in her mind. Right as that thought crossed her mind, a familiar voice appeared beside her.
+
+"Ah."
+
+Chloe nearly jumped. Seriously, where did this guy come from?
+
+Bosco had somehow materialized at her side once again, moving with some sort of supernatural stealth. The merchant clasped his hands together and smiled. "An excellent choice."
+
+Chloe looked at the mask. Then at Bosco, and then back at the mask. "You think so?"
+
+"My dear customer. That particular item is one of the most fascinating pieces in my collection. Elegant, sophisticated, memorable, and more importantly… very special indeed."
+
+Chloe looked back down at the mask. "Special how?"
+
+"My dear customer," Bosco said, placing a hand dramatically over his chest, "you are currently holding a truly remarkable artifact. That mask has passed through many hands over the years, collecting stories wherever it traveled, but among its previous owners was none other than the legendary Lady Ishgria herself."
+
+"Huh, really?"
+
+"Indeed!"
+
+That didn't really sound right to Chloe, mostly because she was pretty sure Mom had never owned a mask like this. Granted, Mom did like to buy a lot of random stuff online sometimes, especially when she was more stressed, so it wasn't completely impossible for Mom to once own some random mask. But Chloe was pretty sure she would remember if Mom really did once own some exotic and somewhat creepy mask.
+
+The more she thought about it, the more suspicious Chloe became. "Okay, but how do you know it belonged to Lady Ishgria?"
+
+Bosco immediately clasped his hands together. "Ah! An excellent question! The answer is because the mask's history is well known."
+
+"What history are you talking about?" Chloe asked, turning the mask over in her hands.
+
+Bosco's smile somehow grew even wider, a feat Chloe would've considered physically impossible if she weren't witnessing it firsthand. The merchant straightened immediately, while one hand pressed against his chest while the other gestured toward the mask. "My dear customer, the history of that mask goes back for many years…"
+
+Oh boy, Chloe really wasn't that good with overly long and drawn out explanations. It was one of the few things that she remembered staying consistent between her current self and her "dumber" self, prior to her regaining her memories.
+
+A few seconds passed as her brain attempted to process what he'd just said. But Bosco didn't seem to mind as he finally concluded his speech or whatever. "And that's why this mask is a truly excellent product!"
+
+Chloe narrowed her eyes as she looked down at the mask again. It certainly sounded impressive. Honestly, it sounded extremely impressive. The only problem was that she was fairly certain Mom had never owned anything like this before. If somebody had asked Chloe to name things that belonged to Mom, a mysterious mask would've been near the top of the list.
+
+Of course, Mom owned a truly absurd amount of stuff and had a habit of buying random things on a whim. Chloe still remembered the ridiculously overpriced vacuum cleaner she'd bought one time, a supposedly revolutionary model that had broken down embarrassingly fast despite costing a small fortune.
+
+Mom had purchased it entirely because it was on sale, which was honestly the sort of logic only somebody with effectively unlimited money could get away with. Considering that, the more Chloe thought about it, the more she had to admit that it wasn't completely impossible. The mask had once been tossed into some collection at home and simply vanished to who knows where.
+
+But even though it was totally possible that Mom got this mask before, Chloe still wasn't convinced by the story Bosco was trying to sell her. She narrowed her eyes suspiciously as the realization finally settled in. "Listen, Bosco, you seem like a nice guy, but can I just get a straight answer about what this mask is?"
+
+Bosco placed a hand over his heart as though wounded. "My dear customer, I assure you that every word I spoke was true."
+
+"Uh… that's not my question though?"
+
+"Hmmm."
+
+For a moment, Bosco froze. Then something seemed to awaken behind his eyes, some ancient and deeply ingrained instinct possessed only by the most dangerous of merchants. It was honestly kinda scary.
+
+Bosco spun around and vanished behind a nearby shelf. A loud crash echoed from somewhere out of sight, followed by a heavy thump and the unmistakable sound of multiple objects being hurriedly shuffled around. Chloe heard what might have been a box falling over, followed by several more suspicious noises.
+
+Then, just as suddenly as he had disappeared, the merchant emerged from behind the shelf.  "My dear customer! Before you make your final decision!"
+
+Chloe looked up and immediately spotted the object Bosco was holding between two fingers. It took her approximately half a second to realize she was in danger. Dangling from a short silver chain was a tiny wooden horse keychain. The moment Chloe laid eyes on it, she felt a sudden and very alarming crack form in her determination.
+
+The little horse was absurdly cute. Somebody had carved it with remarkable attention to detail, giving it a fluffy-looking mane despite the fact it was made entirely from wood. Its tiny ears stood perked up, while its round button-like eyes gave it this perpetually derpy expression.
+
+The horse continued swinging gently back and forth. Chloe could practically hear it launching a direct assault on her self-control.
+
+However, she would not be manipulated by a tiny wooden horse. She was stronger than that. Smarter than that. And then Bosco gave the keychain another gentle swing.  "If you purchase the mask today, I shall include this charming equestrian companion absolutely free of charge!"
+
+Well, since he put it that way, the mask suddenly seemed much more appealing. Why did that horse keychance have to be so cute? It wasn't even magical as far as she could tell. It was just a tiny horse key chain, a tiny horse with a stupid little face. A tiny horse with a stupid little face that she desperately wanted.
+
+A few seconds later, Chloe had to admit defeat. "Fine, I'll take the mask and the horse keychain with it."
+
+"Ah, an excellent decision, my dear customer!"

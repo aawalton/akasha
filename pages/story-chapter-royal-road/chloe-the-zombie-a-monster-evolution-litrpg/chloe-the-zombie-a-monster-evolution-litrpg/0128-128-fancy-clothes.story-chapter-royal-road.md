@@ -1,0 +1,207 @@
+---
+id: b2de944d-4c92-5738-b5c2-a6d0a9ebc070
+page-type-slug: story-chapter-royal-road
+title: "128: Fancy Clothes"
+slug: 0128-128-fancy-clothes
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 128
+ownLength: 1859
+unit: words
+publishedAt: 2026-03-20
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3173534/128-fancy-clothes"
+royalRoadId: "3173534"
+---
+
+"It has been some time, Chloe, how have you been?” Iris asked.
+
+Chloe perked up right away. “Oh, I’ve been great,” she said, then stalled as her eyes drifted to the soft blue haze still curling through the room. “Wait. Uh. Is it okay that my friends are here since your smoke is kinda everywhere?"
+
+Iris exhaled as she answered, more smoke slipping from her lips. “Be at ease, as this is not my usual smoke. I am using a different mixture for now.”
+
+“Different how?”
+
+“This one is enhanced with magic and lacks the more invasive properties. Maintaining it isn't easy of course, but I can promise that this special smoke will not affect your companions negatively.”
+
+“Oh, that's good then."
+
+Raenof shifted beside her, frowning slightly. “If you’ll forgive me for asking, have we met before? You seem familiar.”
+
+Iris paused and studied him for a moment without saying a word. Then she lifted a hand and picked up her white mask. As soon as she slipped it on, the smoke in the room vanished.
+
+Raenof’s eyes widened. “Iris… it’s been a while.”
+
+Iris tilted her head in a small, polite nod. “It has indeed been some time.”
+
+Chloe blinked between them. “Wait, you know each other?”
+
+“I once hired the Guildmaster of Evergale to help find someone to escort me, remember?"
+
+Chloe pointed at herself without thinking. “Oh. That was me.”
+
+Raenof nodded as he glanced at Chloe. “Yes. That was you.”
+
+He then turned his gaze towards Iris. “Honestly, I did not expect to meet you in Aetherion of all places.”
+
+“Circumstances change, and I do have an important reason to be here."
+
+"Oh?"
+
+“I am here for an auction, and I would like Chloe's assistance, actually."
+
+"Huh, really?" Chloe asked.
+
+“Yes, though I would extend the same invitation to your companions as well.” Iris's gaze shifted to Raenof first, then slid to Sierra, lingering there just a bit longer.
+
+Sierra stiffened. “O-oh. I’m Sierra. Nice to meet you.”
+
+Iris’s eyes softened. “A pleasure, and I must say, you are quite the adorable little thing.”
+
+Sierra’s face went pink instantly. She ducked her head, hands twisting in her sleeves. “Th-thank you.”
+
+Chloe squinted at Iris. “Hey, don't make fun of her."
+
+"Please, I am only teasing her a little.”
+
+“Okay,” Chloe said, squinting harder, “but I’m watching you.”
+
+Iris smiled. “Of course.”
+
+Chloe relaxed a little and waved a hand. “Alright, fine. So what’s this auction, anyway?”
+
+Iris walked toward the window as she answered, gazing out at the city. “It will be held at the Gilded Exchange, a private auction hall meant for discreet clientele. Wealthy people from all over the continent will be attending."
+
+"Yeah, that already sounds super sketchy.”
+
+Iris shot Chloe a sideways look, her gaze sharp but thoughtful. “You’ve changed, Chloe.”
+
+“Huh?” Chloe said, blinking. “I don’t really feel that different.”
+
+“Never mind. I only require you to act as my bodyguard for the duration of the event, and maybe intervene if necessary.”
+
+Raenof raised a brow. “With respect, I find it difficult to believe that someone of your skill requires protection.”
+
+Iris glanced at him. “Everyone has blind spots, even me.”
+
+“Hey, I’m great at standing near people and hitting stuff if needed. And I am kind of curious about this auction, so I'm in.” Chloe then turned to Raenof. “You good?”
+
+Raenof hesitated for a moment, then nodded. “Going to such a place could be dangerous, but I must admit that I too, am curious. I will be joining."
+
+Chloe looked at Sierra next. “You too?”
+
+Sierra took a small breath before nodding. “I… I trust you."
+
+“Splendid, seems like everybody is on board” Iris said.
+
+She clapped her hands once, and three masks appeared floating beside her. One was white, one red, and one blue. They were smooth and mostly featureless, looking far less impressive than Iris's own mask.
+
+“These masks will adapt to your face once worn, and they are also enchanted with illusion magic to make everyone who looks at you perceive you as whatever is "normal" to them. Given recent events, subtlety will be useful.”
+
+Chloe snorted. “Hey, I could’ve totally gotten away from all those guards on my own.”
+
+“I do not doubt that,” Iris said. “However, your method would likely involve more destruction than necessary.”
+
+“…Okay, yeah. Fair.”
+
+Iris watched her for a moment, then gave a small nod. “Before the auction, there is one more matter to address.”
+
+She gestured toward Chloe, then to Raenof and Sierra. “You cannot attend an event like this dressed as you are now. The Gilded Spire Exchange has standards  you see."
+
+Chloe glanced down at herself and shrugged. “Wow. Rude. I look great.”
+
+“You look capable, but not appropriate. I'm getting all of you new clothes that are more appropriate for the occasion."
+
+***
+
+Iris did not waste time. One moment they were still in the hotel room, and the next they were being ushered into a black carriage waiting outside, polished so well Chloe could see her own face in the door if she squinted. The inside was really nice, with cushioned seats, soft lighting, and that expensive feel that meant rich people sat here a lot.
+
+Chloe flopped into a seat right away, stretching her legs out like the carriage belonged to her. Sierra sat beside her much more carefully, hands folded in her lap and clearly trying not to touch anything she didn’t have to. Raenof took the opposite seat, and turned toward the window as he watched the city slide past.
+
+After a short ride, the carriage slowed and came to a stop. Chloe leaned forward and peeked outside, then blinked. They had stopped in front of a store that looked less like a shop and more like a mansion that happened to have a lot of clothes inside.
+
+The building was tall with dark glass trimmed in gold. Mannequins stood behind the glass, dressed in fancy  outfits that looked way too cool for normal people.
+
+The chauffeur stepped down first and opened the door with a practiced bow. Iris exited smoothly, and Chloe hopped out after her. Sierra followed with a bit more care, and Raenof came last.
+
+Iris paused just long enough to tip the chauffeur, slipping him a coin that made his eyes widen before he quickly recovered. She gave a small nod, already finished with the exchange, then turned toward the shop.
+
+The moment they stepped inside, a man practically sparkled his way over to them. He wore a perfectly tailored suit in a warm cream color, fitted just right so his wings flared out behind him like they were part of the outfit instead of something extra.
+
+“Welcome, welcome!” the man said, spreading his hands wide. “You’ve come to the right place, I promise you that.”
+
+Iris inclined her head slightly. “Everyone, this is Rook, he's an old friend and the owner of this establishment.”
+
+Rook clasped his hands together. “An honor, as always, Madam Iris.”
+
+His eyes flicked over to Chloe, Sierra, and Raenof with open curiosity. “And friends too? Oh, this just keeps getting better.”
+
+Raenof inclined his head in a calm manner. Sierra gave a shy wave, while Chloe, on the other hand, grinned wide and waved both hands.
+
+Rook’s smile widened even more at that, and he began circling them like a predator whose only prey was good fashion.“Now then, you’re here for formalwear, yes? Something refined. Something striking. Something that says, ‘I belong at this place, and you should absolutely not underestimate me.’”
+
+Raenof cleared his throat, looking a little stiff under Rook’s intense gaze. “If you would be willing to assist me, then I would appreciate it.”
+
+“Willing? My dear sir, it would be my pleasure.”
+
+He gestured grandly and guided Raenof away toward another section of the store, already talking animatedly about colors, cuts, and “the importance of presence.” So basically, not too important stuff.
+
+Iris then turned to Chloe and Sierra. “I will handle you two personally."
+
+"Uh, what do you mean by that?"
+
+"Just trust me, and you will look fabulous in a few minutes."
+
+"Okay… but if I don't like the dress or whatever, then I'm not wearing it."
+
+What followed was absolute chaos, mostly centered around Chloe. Iris decided, very calmly and very firmly, that Chloe was going to try on a lot of outfits.
+
+The first dress was black and sleek. Chloe stepped out, took one look in the mirror, and crossed her arms. “Nope. I look like I’m about to fire someone or summon demons. Hard pass.”
+
+Iris tilted her head. “You look authoritative.”
+
+“I look like I hate people,” Chloe shot back.
+
+"Fine, let's try something else."
+
+The second dress had so many layers that Chloe nearly tripped coming out of the fitting room. She lifted the skirt and frowned. “Why do I feel like a fancy cake? If someone tries to eat me, I’m punching them.”
+
+“I personally think you look more than fine."
+
+“Well, thanks, but I think I can do better than looking like cake."
+
+The third dress was green. Chloe tugged at the fabric once and recoiled like it had personally offended her. “This one feels like it hates me. I hate it back.”
+
+"What does that even mean?"
+
+"I dunno, I just don't like this dress."
+
+Iris sighed, a long-suffering sigh. “You could have just led with that."
+
+While Chloe was being incredibly picky about every single dress, Sierra had the exact opposite experience. She wore whatever Iris handed her without a single complaint. Long sleeves, short sleeves, simple cuts, elegant ones.
+
+Sierra just nodded, changed, and stepped back out each time, her cheeks turning pink whenever Iris made an approving sound.
+
+“Oh. This one suits you,” Iris said at one point.
+
+“Really?” Sierra asked.
+
+“Yes.”
+
+"I'll wear this then, thank you!"
+
+Chloe watched all of that with a small pout on her face. How come Sierra got all the nice dresses while she kept getting the weird ones? Kinda rude, if you asked her.
+
+Eventually, Iris seemed to give up on handing Chloe outfits she clearly hated. She reached for one last dress instead, a deep red one, and held it up.“Try this.”
+
+This time, Chloe took it without comment, and disappeared into the fitting room. A moment later, she stepped out and froze.
+
+The dress fit perfectly. The red was rich and bold, and the fabric felt smooth and comfortable. It didn’t pinch or feel stiff. It just felt right.
+
+Chloe blinked at her reflection. “Whoa, this one actually looks nice on me.”
+
+Iris allowed herself a small, satisfied smile. “Yes. This one will do for you.”
+
+Soon, Raenof also came back, wearing  a brown suit with subtle gold details that matched his staff perfectly. He adjusted the sleeves once and nodded. “Rook chose this one for me, and I must admit that this is… surprisingly comfortable.”
+
+Rook beamed, stepping beside the elf. “It's only natural, I always do excellent work.”
+
+Iris looked at all of them. "Now that we are dressed properly, I believe it's about time we make our way to the exchange.”

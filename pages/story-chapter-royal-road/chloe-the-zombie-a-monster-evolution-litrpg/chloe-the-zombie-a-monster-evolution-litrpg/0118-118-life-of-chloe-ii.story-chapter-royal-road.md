@@ -1,0 +1,179 @@
+---
+id: 1836eaf1-4129-531c-b776-58b8eaf8da1d
+page-type-slug: story-chapter-royal-road
+title: "118: Life of Chloe - II"
+slug: 0118-118-life-of-chloe-ii
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 118
+ownLength: 1918
+unit: words
+publishedAt: 2026-02-25
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3091249/118-life-of-chloe-ii"
+royalRoadId: "3091249"
+---
+
+For breakfast today, Mom was making a big skillet of garlic butter eggs with toast and some fancy herbs. The kitchen already smelled really good, which helped a lot with feeling just a bit more energetic in the morning.
+
+Mom did most of the work as she cracked eggs, stirred pans, and kept an eye on everything at once. But, Chloe helped too, obviously.
+
+She grabbed a cutting board and started dicing vegetables, working through onions and bell peppers. She was actually pretty good with a knife since she really liked watching cooking videos online.
+
+“Careful,” mom said, not even looking over.
+
+“I am careful,” Chloe replied smugly.
+
+"Sure, sure."
+
+"Hey, you can trust me!"
+
+"And I do trust you sweetheart."
+
+Chloe stopped her chopping and glanced over at Mom, giving her a suspicious look. Mom just shrugged and kept cooking like nothing was wrong. Chloe huffed softly and went back to her work, deciding that whatever this was just wasn't worth pushing further.
+
+Before long, they finished cooking and started plating everything. Chloe carried dishes over to the table while Mom set things up neatly.
+
+Chloe knew Mom could easily have someone else make breakfast for them if she wanted. She did it sometimes. But whenever she had the chance, Mom preferred to cook together. It was one of the few quiet moments they got, since Mom was always busy with work.
+
+Luckily for Mom, Chloe liked her a lot. Talking during breakfast was something Chloe actually looked forward to, even if she sometimes pretended otherwise.
+
+They sat down and started eating, the food still warm and smelling great. Chloe took a big bite while Mom cut her toast neatly, then glanced up. “So, Chloe, how was school?”
+
+“It was fine,” Chloe said, which lasted maybe a second before she leaned forward and kept going. “Actually it was kinda good. We got our math quizzes back, and I think I did pretty okay.”
+
+“Oh? What score did you get?”
+
+Chloe hesitated. She looked down at her plate, shoulders pulling in a bit, suddenly very interested in her food. “Uuuuh, well, it’s… alright.”
+
+Mom smiled patiently. “Chloe, you can be honest with me. I won’t judge you, no matter what your score is.”
+
+Chloe stayed quiet for another beat, still putting on her best shy and unsure act. She’d actually practiced this kind of thing in drama class last week, so she figured now was a good time to put her new skill to use. This reveal was going to be awesome.
+
+She straightened up, smiling proudly like a switch had flipped. “I got an A!”
+
+Mom’s face lit up immediately. “That’s amazing! I knew you could do it.”
+
+“Yeah, Mr. Birch was like, ‘good job, Chloe,’” she said, rolling her eyes a little. “I mean, he could’ve said I did a totally awesome job, but whatever. I’ll take it.”
+
+“That sounds encouraging at least."
+
+“It’s his version of encouragement I guess. But, anyway, history was way better. We’re doing that unit on old empires, and Mrs. Kline let me talk about battle formations for, like, way too long. She didn’t stop me at all.”
+
+“I’m sure that was intentional.”
+
+Chloe thought about it while poking at her food. “Hmm, maybe yeah. She does know I’m a big Epoch of Conquest fan, so maybe that was her way of being nice.”
+
+Mom smiled at her. “Honestly, with how many games you play, I’m surprised your grades are as good as they are.”
+
+“Eh. School’s just no match for me.”
+
+Chloe took another bite of breakfast and kept talking without slowing down. “Lunch was normal. Jessica sat with me, and she brought those weird crackers again. You know, the ones that smell funny but taste good? I traded her my dessert for them.”
+
+“You always trade your dessert."
+
+“Because dessert is temporary, good snacks are forever.”
+
+Mom shook her head, still smiling. “And what about your other classes?”
+
+“English was boring, we’re reading that book where everyone is sad for no reason. But the teacher likes my essays, so that’s something. Also, gym was… gym. It was jut kinda fine."
+
+Mom listened quietly, watching Chloe with that soft, attentive look she always had. Chloe liked that look. It made talking feel easy.
+
+By the time Chloe finally slowed down, her plate was almost empty. She leaned back slightly in her chair, looking very pleased with herself. “So yeah, school’s been pretty good.”
+
+“I’m glad that you're happy."
+
+“I am,” Chloe said. Then she paused, tilting her head. “Hey, so how’s work been for you lately?”
+
+Mom opened her mouth to answer. Yet, before she could, Maeve showed up at the edge of the dining room, hands folded neatly in front of her. “Madam, I'm sorry to disturb breakfast, but your carpool has arrived.”
+
+Chloe groaned softly and slumped back in her chair. “Wow, rude timing.”
+
+Her mom let out a sigh as she stood, straightening her clothes. “We’ll talk later."
+
+“Yeaah… okay."
+
+As Mom moved away, Chloe’s excitement slowly drained. She hadn’t even let Mom talk and spent the whole breakfast rambling for way too long. She thought about how busy Mom always was, and how rare mornings like this actually were. Maybe she should’ve toned it down. Maybe she should’ve listened more.
+
+Chloe pushed her chair back, standing up. That's it, I'm gonna say sorry to her.
+
+But she didn’t get the chance to apologize. Mom leaned back in, pressed a gentle kiss to Chloe’s forehead, and pulled her into a warm hug. “I love you."
+
+Chloe hugged her back right away. “I love you too, Mom, and um, have fun at work!”
+
+Mom laughed softly and pulled back, kissing Chloe on the forehead one more time before heading toward the door. Chloe stood there and waved as she left, watching until she disappeared from sight.
+
+The moment barely had time to settle before Maeve cleared her throat politely. “With all due respect, Miss Chloe, you should begin changing into your uniform soon. I’ve prepared it for you in the living room.”
+
+Chloe groaned and slumped a little. “Right,... I'll change."
+
+She trudged off to change, dragging her feet just a bit out of principle. The uniform was laid out perfectly, of course. Everything was neat, pressed, and exactly where it should be. Chloe changed quickly, fixing a few things her own way so it didn’t feel too proper, then checked herself once in the mirror. She decided she looked great, because she seldom didn't look good anyway.
+
+A minute later, she walked back out to where Maeve was waiting and spread her arms slightly. “Kay, I'm ready!"
+
+Maeve smiled. “Excellent. I’ll drive you to school.”
+
+***
+
+Chloe sat in the front passenger seat while Maeve drove. Part of her really wanted to drive, but she didn't have her driver's license yet. That didn't stop some of her friends, to be fair, but Maeve was really strict about this stuff.
+
+Morning traffic was surprisingly light, which was nice, but also meant the ride was way too quiet for Chloe’s liking. She stared out the window for a bit, tapping her fingers against her bag, before deciding that silence was unacceptable. If nothing else, she could start a conversation.
+
+She glanced over at Maeve, who was focused on the road like always. “Hey, Maeve?”
+
+“Yes, Miss Chloe?”
+
+“Did you become a butler so you could wear pants instead of a skirt?”
+
+Maeve was quiet for a moment. Not the awkward kind of quiet, just the kind where Chloe could almost feel her processing the question. Then Maeve let out a pretty big laugh. “That is certainly one reason, if I'm being honest, pants are far more practical. Skirts are inconvenient when one must move quickly.”
+
+“I knew it,” Chloe said, pointing at Maeve. “See, Mom said it was about professionalism, but I always thought it was a secret pants agenda.”
+
+“Professionalism and comfort are not mutually exclusive.”
+
+"Uhuh, right, right."
+
+Maeve glanced at her for half a second “And what about you, Miss Chloe? Do you have a strong opinion on professional attire?”
+
+“Oh, absolutely,” Chloe said. “If I’m not comfy, I’m not learning. It's why, hypothetically, if I ever got stuck somewhere uncomfortable for a really long time, I'd want some really comfy clothes at least. Professional stuff usually sucks anyway."
+
+"Is that so? I think your teachers might disagree."
+
+“They’re wrong, and also, they're wrong.”
+
+"Well… the uniforms are there for a reason. And your mother did pay quite a fortune for them."
+
+“Hmm, fair I guess. Though I dunno how our uniforms really work with the wings and what not.. I feel kinda lucky I don’t rip them every week.”
+
+Maeve smiled again. “I repair them often.”
+
+Chloe gasped. “You do?”
+
+“Yes, because quite frankly, without my services, you wouldn't have any uniforms to wear at all."
+
+“That’s horrifying knowledge to have about my clothes,” Chloe said, then grinned. “But also very impressive.”
+
+The car slowed as they turned onto the familiar street. Chloe spotted the school gates ahead, wide and polished, with banners hanging proudly from the posts. She leaned forward a little in her seat as her brain shifted gears into school mode.
+
+Maeve guided the car into the drop-off lane and parked perfectly along the curb, like she always did. After turning off the engine, Maeve turned to Chloe."We've arrived."
+
+Chloe grabbed her bag and swung it over her shoulder, then pushed the door open. She paused halfway out, leaning back in just enough to grin at Maeve. “Thanks for the ride! And the pants' wisdom.”
+
+Maeve smiled, amused. “You’re welcome, Miss Chloe. Have a good day.”
+
+Chloe hopped out of the car and shut the door behind her, then adjusted her bag and started walking, already slipping into her usual school rhythm. She’d barely made it a few steps when something felt very, very wrong. She slowed and looked around, and noticed how nobody was wearing their uniform.
+
+Actually, a lot of people were in full cosplay. Like, commitment cosplay. Some students had gone all out with armor, cloaks, and props, while a few of the lazier ones clearly just threw on a bandana or a funny hat and called it a day. Still, everyone was dressed up in some way.
+
+Then, Chloe squinted. Up ahead stood a man in full cowboy gear. Hat, boots, belt, the whole thing.
+
+Chloe tilted her head. “Mr. Raymond?”
+
+The man turned around, a bright grin already on his face. He lifted a hand and waved. “Mornin’, Chloe, don’t tell me you forgot. Today’s costume day.”
+
+Chloe stared at him for a second, then looked down at herself. “…Oh no.”
+
+She froze in place, her brain scrambling as she tried to think fast. She needed a costume, and she needed one now. Luckily, there was a shop not too far from the school. If she hurried, she could probably get back to Maeve in time. Or, worst case, she could grab something after class and change then.
+
+Still, the real problem was what was she even going to dress up as? Her thoughts bounced all over the place, from cool to ridiculous to absolutely not. Costume Day was a pretty big deal, and Chloe really didn’t want to be the only person who showed up without wearing at least a simple costume.
+
+Maybe she could even dress up as something from her favorite show or video game. Hmm, maybe I could pull off a zombie look?

@@ -1,0 +1,237 @@
+---
+id: 18b84948-45a8-5e7a-b8bc-1717c1c659f8
+page-type-slug: story-chapter-royal-road
+title: "144 - Paparazzi Press Conference"
+slug: 0147-144-paparazzi-press-conference
+partOf: cat-girl-evolution
+position: 147
+ownLength: 2537
+unit: words
+publishedAt: 2026-07-29
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3740398/144-paparazzi-press-conference"
+royalRoadId: "3740398"
+---
+
+Sadly, Lauren does not let me suck her blood. After some coaxing, though, she does agree to put some in a bowl for me to try. It’s not quite as good as my blood, or the tingly blood that Lacey had, but it’s pretty good. It’s actually a little bit spicy, for some reason, which I guess might be related to her Fire Affinity. My blood had a little kick to it too.
+
+The twins then get curious and they both volunteer some of their blood, which is interesting. Their blood mostly just tastes like blood. I guess it might be the Unattributed Mana Affinity causing that, but their blood tastes the most blood-like, if that makes any sense. And despite their differences in skillset, their blood tastes almost identical.
+
+I think that means that the flavor of blood is based on Traits, in that case. So my blood is infused with both of my affinities, as well as the bunch of other Traits I have.
+
+Wait, did I expose all my Traits to Lacey when giving her my blood? Abby, is that bad?
+
+“The contract covered secrecy for any information gained from your blood, so unless she chooses to act on that information personally, you will be fine. Besides, your most dangerous Traits are already known to the Guild.”
+
+Okay, good. That’s good. Unless she decides to act personally.
+
+“I find that unlikely, but it is something to be careful of, I suppose.”
+
+Yeah. Anyway, on to the last blood donor!
+
+Chad gives up his blood without any struggle, and the flavor of his is an interesting contrast to all the others. It’s smooth, and warm, and oddly comforting. Kinda like hot cocoa. And if Chad is hot cocoa, Lauren is like whiskey, I’m a cocktail, and the twins are like cool spring water. Yeah, that works. Abby, should I be a poet?
+
+“No.”
+
+Shut up. I bet I’d be a better poet than you.
+
+“Alright then. Make a poem.”
+
+Right now?
+
+“Yes.”
+
+Hmmmm… Well, I’m not feeling very inspired right now. Maybe later.
+
+“Suuuure.”
+
+You can’t rush art.
+
+“You can if you’re good at it.”
+
+Shut up. What do you even know about art?
+
+“More than you.”
+
+That’s only ‘cause you have internet access.
+
+“It’s just–”
+
+Wahhh, it’s just a snapshot– shut up, nerd. It’s the same thing, and you know it.
+
+After emerging victorious from my debate with Abby, and finishing off the donated blood, I take a bit of time to explain what the meeting had been about. The others take it pretty neutrally. I mean, not much really happened, at least as far as they’re concerned. The Guild keeping tabs on all the Chosen One candidates isn’t exactly a surprise.
+
+The only important piece of news to them is that they’re free to leave the city. It’s honestly a little surprising to me, too, but I guess it makes sense. Even as big as this incident was, it’s not like we’re suspects, and the details of the incident are pretty cut and dry. Plus, with the Adventurer’s Guild—and probably the leadership of Elyria as well—aware of the Chosen One competition, any potential mystery about where Joakim could have come from is already solved. There’s nothing left to investigate, and no reason for us to continue being questioned.
+
+Well, at least as far as the people with actual power are concerned. Unfortunately, to the general public, who is much less informed, there are still plenty of questions to ask, and when we try to leave the city the next morning, they ask all the questions all at once. Our carriage can’t even move because of how many reporters are crowding around us, trying to ask us questions. There are so many that even the city guard isn’t enough to keep them back.
+
+And despite the fact that I know that Fabio is still here—I ate his bed last night—and so is Lacey, neither of them do anything to help us, for some reason. We’re left on our own, with nothing but the overwhelmed city guard to help us.
+
+“Should we maybe try to answer some of their questions?” I ask.
+
+“No, that’s a terrible idea,” says A.
+
+“The moment we open ourselves up to answering questions, they’ll never leave us alone,” says B.
+
+“Our master says that the best policy with annoying reporters is to ignore them.”
+
+“And if they’re too persistent, flashbang them and run away.”
+
+“What?” asks Lauren.
+
+“Huh,” I say. “I always thought the best way to get rid of them was to bribe them.”
+
+“Not when there are this many of them,” says A.
+
+“There are hundreds outside,” says B. “You can’t afford to bribe them all.”
+
+“But what are we supposed to do? They’re not really letting us leave.”
+
+“Wait?” suggests A.
+
+“Take a nap?” says B.
+
+“Hmmm…” I say. “I have a better idea. You guys get ready to drive forward. I’ll take care of this, and I’ll catch back up later.”
+
+“What–?” starts Lauren, but she stops, because I have already disappeared.
+
+As soon as the crowd around us sees me appear on top of our carriage, their voices get even louder than before, and press in even tighter around the carriage. Even as high as my Sensitivity is, I can barely make out what any of them are saying, since it all blends together. I ignore them all, instead holding my arms out, making motions indicating for them to quiet down.
+
+It takes almost a full minute, but eventually, they do all get the memo, and a silence falls over the crowded street. I leave them on edge, basking in the silence for almost another full minute, looking every single reporter in the eye, one at a time.
+
+“I’ll be taking questions in the city square in five minutes. Someone make me a podium, and maybe set up some chairs.”
+
+They all stare at me blankly, so I snap my fingers a few times.
+
+“Five minutes,” I say. “Unless you all want to hug each other like this and struggle to see me through the crowd the whole time.”
+
+That gets them all moving. A few of them try to ask me questions, but many more start dispersing, heading toward the city square. Some don’t seem to trust me, sticking around the carriage still, but enough leave that it can start moving forward, which was my main goal.
+
+“We can get going now,” says A’s voice in my ear. “We should be able to get up to top speed now.”
+
+I ignore her, though, instead conjuring a giant mana hand to use as a chair, and start floating in the direction of the reporters. The twins try asking me what I’m doing, but I have no way to communicate with them silently, so I just leave them hanging as I float through the city. After a few seconds, though, the carriage starts moving behind me, now free of the vast majority of the reporters. A few seem to want to stick around to talk to my more vulnerable Party members, but it’s nowhere near enough to stall the carriage any more.
+
+When I arrive at the city square, some kind earth mage has already made a raised podium sprout out of the ground. Meanwhile, dozens and dozens of other reporters have created chairs for themselves. There are earthen chairs, wooden ones, ice thrones, steel stools, and more, all arranged haphazardly around the podium. I can see the mayor nearby, hands on his head, trying to figure out what’s going on, and why all these reporters are ruining the city square, but he is unfortunately one man against a crowd of reporters waiting on a story. Luckily for him, he is a smart man, and decides to back off before they tear him apart, though I assume he’s going to bulldoze this whole area the moment we’re gone.
+
+I float down to the podium, landing on the raised platform, and immediately, the reporters start shouting their questions again. I am forced to once again use my new favorite hand gesture to get them all to be quiet, at which point I take a deep breath and start talking.
+
+“I will– woah! Someone added sound magic. I wasn’t expecting that.” A few of the reporters chuckle. “Alright, I’m going to be taking questions, but only one at a time. If you shout a question when it’s not your turn, I’m going to kick you out. Now, if you have a question, raise your hands.”
+
+Every single one of them raises their hand, so I browse for one that looks interesting.
+
+“You, blonde lady with the balloon lips,” I say, pointing to a woman in the front row.
+
+“Me?” she asks.
+
+“Yes. What’s your question?”
+
+“I’m Susan Bridges with the Elyrian Times.”
+
+“That’s not a question.”
+
+“Did you really defeat the necromancer, and–?”
+
+“Yes. Alright, next question. You! Little dude with the pencil mustache.”
+
+“Hans Franz, Daily Doralak. How did you defeat the necromancer?”
+
+“I’m just better. Now, the round gentleman with six chins.”
+
+“Wha–? I–?” he says.
+
+“Sorry, that was mean. You look very pleasant. Now, your question?”
+
+“M– Morton Raimi, Gastronome’s Digest. Is it true that you are currently trying to complete the Seven Delicacies Circuit?”
+
+“I’m not trying. I am completing the Seven Delicacies Circuit. Now, next question. You, the… Sorry, are you a dwarf? I haven’t been in this country long.”
+
+“Aye, that I am,” says a suspiciously close-shaven dwarf. “Bjorn Skandr, Weapons Weekly. Is your sword a Soul Weapon?”
+
+“Yes.”
+
+“What are–?”
+
+“Alright, now, the tall lady with the eyepatch—you look really cool, by the way—what’s your question?”
+
+“Thank you. Haley Monocle, Astrology Center. What is your birthday?”
+
+“Uhhhhh…”
+
+Abby, are the months the same in this world?
+
+“No, but you can just say the month in your native language and it will be automatically translated.”
+
+Huh?
+
+“Yeah, you have automatic translation. I’m not sure why. It’s not in your System anywhere, but you’ve had it since you woke up in this world.”
+
+Really?
+
+“Did you really think this entire world just happened to speak Russian?”
+
+…No.
+
+“Well, there you have it.”
+
+So I can just say the date, and they’ll understand it?
+
+“Yes.”
+
+Well, alright, then.
+
+“June 7th,” I say. “Next. You, the old guy in the back with the snazzy blue suit.”
+
+The second I call on him, I realize I made a mistake. I picked him because he stood out, but I now realize that one of the reasons he stands out is because the other reporters seem to be avoiding him, and there’s empty space all around.
+
+“Jeffrey Hefner, Exotic Beauties magazine,” he says. “What–?”
+
+“Just kidding!” I say. “I changed my mind. Not you! You, the ginger lady in the red dress, your turn.”
+
+“Jessica Lapin, Elyria Fashion. Who is your clothing designer?”
+
+“Before I answer that, are you going to write about how my fashion sucks, or how it’s great?”
+
+“Neither. I am not an opinion writer. I will simply report the facts.”
+
+I narrow my eyes at her in suspicion. That sounds like a trap. But, as they say in showbiz, all publicity is good publicity, so screw it.
+
+“All my clothes were made by a nice lady named Martha in Riverfork,” I say. “Now, next…”
+
+I pick a few more people from further back, but in doing this, the people up front seem to get noticeably disgruntled. I guess it’s because they want to ask about the incident in Maligar, while all the people in the back seem more interested in asking about me. I guess the reporters somehow naturally arranged themselves with the “serious” ones up front and the more fringe ones in the back? Very strange.
+
+As fun as it is to answer those kinds of questions, though, I do need to bring the topic back to Maligar, so after picking out a few of the wackier-looking reporters, I turn my attention back to the ones in front, most of whom are also more boring-looking, sadly.
+
+“Young guy with the boring hair,” I say pointing to a young guy with boring hair. “Your turn.”
+
+“John Smith, Weekly News. Is it true that the one responsible for the Maligar Massacre was an intelligent Named Leader?”
+
+“Yes. Now, you with the top hat.”
+
+“Oswald Osborne, The Enlightened General. When facing a necromancer of that power level, what tactics and strategies and tactics did you employ to deal with his summons while not losing track of their master?”
+
+“I lured them into a trap and then killed them all. Next!”
+
+I answer a few more random questions related to the incident, which I guess is being called the “Maligar Massacre” now, until finally, a kid who doesn’t look much older than 18 asks the question I’ve been waiting for.
+
+“Timothy Little, Maligar Daily. You’ve said that the Necromancer was a powerful Leader-type Named, yet you managed to defeat him despite your Party only reaching Platinum recently, and without having earned any Epithets. How was this possible?”
+
+Holding back a grin, I lean forward on the podium, looking him directly in the eye. The other reporters all hold their breath and lean inward as I let the silence build for a few seconds.
+
+“I would tell you not to do what you’re about to, but I know it won’t stop you.”
+
+Shut up. Stop distracting me.
+
+“It’s simple,” I finally say. “I’m the Chosen One.”
+
+And as soon as I say that, I Blink away, as far as I can go that’s also out of sight, which happens to be inside someone’s house. Fortunately, nobody’s home, so I don’t cause an incident before Blinking further into an alleyway. Once I’m far enough from the city square, I start Blinking straight upward, getting up to a couple kilometers in altitude in just a few seconds, and then, I implement cool new method of travel that I started messing with in the Dungeon.
+
+First, I create a dome-shaped Mana Shield, anchoring the top of it to my feet, and loading it with enough mana to protect me from a Fireball. Then, I send a cat head construct to drop a fireball right inside the dome. The resulting explosion sends me rocketing across the sky in the general direction that the carriage went toward. My aim was a little off, but it was close enough that the next Fireball is able to correct my trajectory, and one more after that has me plummeting to the ground right beside the carriage.
+
+I land on one knee with my fist on the ground, then casually stand up, brushing the dust off my clothes. I am unharmed, of course, since my Resilience is way too high for me to be affected by fall damage at this point. The magical carriage rolls right up beside me, and as it does, I stretch one arm out to the side, bend my knees, and lean back. Right as I lose my balance, I Blink right into the carriage, appearing right back in my seat with my arm around Lauren’s shoulder.
+
+“Hey,” I say.
+
+“Was that really necessary? You smell like smoke.”
+
+“It’s called aura.”
+
+“…Alright, then.”

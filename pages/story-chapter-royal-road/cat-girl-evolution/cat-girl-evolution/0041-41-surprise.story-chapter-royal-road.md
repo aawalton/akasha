@@ -1,0 +1,221 @@
+---
+id: 87012996-270a-58c3-9e07-e92c7529adad
+page-type-slug: story-chapter-royal-road
+title: "41 - Surprise!"
+slug: 0041-41-surprise
+partOf: cat-girl-evolution
+position: 41
+ownLength: 2115
+unit: words
+publishedAt: 2025-10-26
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2705498/41-surprise"
+royalRoadId: "2705498"
+---
+
+As they progressed through the fifth floor of the Dungeon, Guildmaster Pike grew steadily more nervous. The beastwoman was obviously… different… but she was clearly competent, and he hoped that would be enough. Now, he wasn’t so sure.
+
+Technically, she was passing the teamwork test with flying colors. Electing herself as leader was unorthodox, but picking someone to call the shots in a Dungeon was essential for smooth teamwork, so she got full points there. He might have had to dock points if she had screwed up navigation or decision-making in the solo test, but she had done that perfectly as well, so she qualified to be leader. Technically.
+
+Also technically, her teamwork was perfect. Part of Dungeon teamwork was understanding the party’s strengths and weaknesses, and choosing the right strategy and formation for each scenario. The problem with this was that both Lauren and Chad had somewhat outgrown this Dungeon, and could both solo the fifth floor, and Yona understood that completely. Rather than doing anything herself, she kept commanding them to take care of monsters. Once again, it was unorthodox, but it was also a very viable strategy to keep the team’s aces fresh in case of emergency.
+
+Even so, if this was a normal test, he likely would have failed her. Her teamwork was good… for an experienced Adventurer. But she was clearly new. Even if she was strong, she had not gotten strong by working with others in the Dungeon, and she was taking on a leader role that she was not qualified to take. However, if he failed her, he wouldn’t be able to send her to Ryantown, and given the nature of the emergency Quest, that wasn’t really an option either.
+
+He sighed as he watched her not-so-sneakily gobble up some kind of snack from her spatial storage while she watched Lauren assassinate yet another lizard. He didn’t have a choice but to pass her, but doing it like this left a bad taste in his mouth. He knew the test would be more of a formality, but he hadn’t expected her personality to be such a big potential issue. He couldn’t give her a license like this in good conscience. He would need to take things into his own hands.
+
+Chad finished off the last lizard in the room, and the trio moved onto the next room, Yona, commanding her “minions” to enter first. Inside, there were a half dozen large lizards, each on the same level of the boss monster from the fourth floor. As with the previous monster rooms, Yona sat back and watched as Lauren and Chad systematically eliminated each of them. Very occasionally, she would use a mana hand to slash at the lizards from the side, but most of the time, she just watched and snuck snacks.
+
+Pike put his hand on his sword as he watched her closely. She was hardly paying attention at all, more focused on trying to hide her food, and sneakily nab the corpses than she was on the actual battle. That wouldn’t do at all. Loot goblins never made it long. She needed to learn the lesson the hard way.
+
+He waited until she had both her hands occupied, one pointing at the next lizard she wanted Lauren and Chad to kill, and the other shoving something into her mouth, then he struck. He took a single step, mana flooding his legs, then launched toward her, drawing his sword. She didn’t seem to notice him at first, mouth full of some kind of meat. Then, as he drew near, her ear twitched, and before he reached her location, she vanished.
+
+He followed her mana to right behind him, and raised his sword, filling it with mana just in time to block her massive sword coming down from above. The force of the blow surprised him, and his heels dug into the ground as he slid back a foot from the impact.
+
+What the hell is her Power? he wondered.
+
+The next moment, she vanished again, reappearing behind him, and he was once again forced to flood his body and sword with mana to deflect her blow. When his eyes met hers, her demeanor had changed entirely. The laid-back, nonchalant beastwoman was gone, and in its place was an apex predator. Looking into her eyes reminded him of the one time he had fought against a Named monster. He resisted a shudder as he thought back to the encounter that had taken his leg.
+
+The next moment, she disappeared again, and this time, when she reappeared, Pike leapt back out of her reach, and sheathed his sword.
+
+“Well-” he started.
+
+Then, she darted forward, sword swinging wide at him. He jumped back out of reach again, raising his hand.
+
+“It was a test!” he exclaimed. “It’s over! I wasn’t attacking!”
+
+She stopped, still staring at him with the eyes of a predator.
+
+“A test?” she asked.
+
+“Yes. A test. I had no intention of hurting you.”
+
+She narrowed her eyes. “Why should I believe you?”
+
+At that moment, Lauren and Chad finished off the final lizard and ran over to stand between Yona and Pike.
+
+“What’s going on?” asked Lauren.
+
+“He attacked me,” said Yona.
+
+“Pike?” asked Lauren.
+
+“I felt that the test wasn’t enough,” explained Pike. “She didn’t appear to be taking it seriously. I wanted to make sure she was still aware of her surroundings. She was. The test is over.”
+
+Lauren nodded, then turned to the beastwoman. “Yona, calm down.”
+
+“He attacked me!”
+
+“I’m sorry,” said Pike. “It was a mistake.”
+
+“You bet it was,” she replied. “I want compensation!”
+
+“Compensation?”
+
+“You could have killed me!”
+
+“I was fully in control.”
+
+“For emotional damage!”
+
+“Emotional damage?”
+
+“Yeah!”
+
+Pike was about to retort when he caught Lauren’s eyes giving him a silent message to let it be.
+
+“Alright,” he said. “I will compensate you well as an apology. Additionally, as of now, you’ve passed the test. When we return, I will register you as a Gold ranked Adventurer. So we can finish up quickly here. No need to focus too much on teamwork. Let’s just clear the floor as quickly as possible.”
+
+“Yes, sir,” said Lauren and Chad.
+
+“Okay, cool, cuz it was getting kinda boring,” said Yona.
+
+It took another three lizard-filled rooms to reach the boss room, and in these ones, Yona actually contributed significantly. With her Spatial Affinity, she was perfectly suited to countering the mostly physical lizards, her sword cutting through their hides like a hot knife through butter. It was well within expectations, but Pike still found himself impressed. And in the back of his mind, he had subconsciously begun sizing her up. Could he defeat her? In his prime, most definitely, but now? It would be close. Well, that’s what he thought until they got to the boss room.
+
+By then, Yona had evidently gotten too bored to continue fighting normally. She told the others to stand back, summoned her sword, and then sliced once. As she sliced, the sword glowed intensely, then the glow vanished entirely as a curtain of black formed in the sword’s wake. The amount of mana contained in that one strike was immense. As much as his entire mana pool. The 5th floor boss was supposed to have quite the tough hide, making it a challenge for even experienced parties, but when Yona’s attack fell, it didn’t matter. Even if it hadn’t been spatial mana, it wouldn’t have mattered. The lizard didn’t stand a chance.
+
+Not five seconds after they entered the boss room, the System informed them that they had cleared it.
+
+“Well, that was disappointing,” commented Yona.
+
+Pike wanted to comment that even a high tier 4 monster would have had a hard time surviving that, but he held his tongue. She had more than proven herself. She was the real deal. And hopefully she would be enough to stop whatever was happening in Ryantown.
+
+“Well done,” he said. “We finished faster than I expected, so when we get back, you three make sure you get a good night’s sleep. As soon as the twins are ready, you’ll be leaving for Ryantown.”
+
+“Okay,” said Yona. “Let’s go. I wanna sleep.”
+
+Pike nodded, then accepted the System prompt to take them out. The world spun, and a moment later, they were back at the entrance. Or most of them were.
+
+“Where’s Yona?” asked Lauren.
+
+Abby, I thought you said Dungeons were good for experience. That only gave me 1 Class level!
+
+“Dungeons are also supposed to be challenges. You were punching down the entire time. A more appropriate Dungeon would have given you much more.”
+
+Lame. Lizard doesn’t even taste that good either. This was a huge waste of time.
+
+“But a necessary one.”
+
+I guess…
+
+By the way, why am I not outside yet?
+
+“I have no-”
+
+“Yona.”
+
+I look around, trying to find the source of the voice, but I don’t see anything. It is pitch black around, so I guess that makes sense.
+
+“Who are you?” I ask.
+
+“I am the one who saved your life.”
+
+“What?”
+
+“When you were on the island. I teleported you to the mainland.”
+
+“Oh! The Annoying Purple Box! You can talk too?”
+
+“I am a goddess,” she says, her voice booming. “I am not a System Assistant.”
+
+“Oh, so you’re the one who reincarnated me!”
+
+“Not exactly, but I was involved.”
+
+“Ah, so there were more gods involved,” I say, nodding. “That makes sense. I am the Chosen One, after all.”
+
+“You are not the Chosen One.”
+
+“Nah, I’m pretty sure I am.”
+
+“You are an avatar. A plaything of the gods. You are a piece on the board in the game we are playing.”
+
+“Nah, I don’t think you have that right.”
+
+“I helped set this game up.”
+
+“And?”
+
+“...It doesn’t matter. You are not the only one from your planet. 29 others were reincarnated with you. Of them, 20 were assigned to deities, as you were to me. While I had to spend much of my divine power to rescue you from your own foolishness, I have recovered some, and will now be able to sometimes communicate with you and grant you boons. And you will need those boons, as soon, you will be facing other contestants.”
+
+“Why are there so many others? You only need me.”
+
+“As I said, it’s a game. You are all competing against each other.”
+
+“Ah, so we’re trying to find out who the true Chosen One is. That makes sense.”
+
+“...Sure, that works. And now that you have completed your tutorial scenario, you will begin facing the other contestants, so you need to be prepared.”
+
+“And you’re gonna give me free stuff to help?”
+
+“No. Any boons I give you will be rewards for accomplishments. They will not be ‘free.’”
+
+“You’re lame.”
+
+“You’re greedy.”
+
+“You’re stingy.”
+
+“You’re– Nevermind. We don’t have time for this. I have to let you return soon. The main thing you need to know is that you are not alone in your situation, and you are far from the strongest. Don’t let your guard down. And also, I have a boon planned for you that will synergize well with your abilities, but you need to prove yourself first.”
+
+“Don’t wanna.”
+
+“The boon would allow you to have an increased supply of high quality food.”
+
+“How?”
+
+“You’ll see. Whatever you’re imagining though, it’s better.”
+
+“I’m imagining a Skill that just summons whatever I want to eat right in front of me without needing to go out and find it and collect it first.”
+
+“Okay, it’s not that good, but it’s almost as good.”
+
+“Really?”
+
+“Yes.”
+
+“I’m in. What do I need to do?”
+
+“You are about to face one of the strongest other candidates, I want you to defeat them, and I want you to do it convincingly.”
+
+“I can do that.”
+
+“It won’t be easy.”
+
+“I’ll do it anyway.”
+
+“I certainly hope so.”
+
+Suddenly, the darkness swirls and I reappear back on the hillside.
+
+“-Yona? Oh, there she is.”
+
+All three of the others are looking at me. Pike is looking at me very strangely. Is he going to attack again? I don’t like him. Should I kill him?
+
+“I would advise against that.”
+
+I kinda want to anyway. But meh. Too much work. If he attacks me again though, I’m definitely killing him. And then I’m gonna find out what the heck his leg is made of.
+
+“Alright, Yona,” says Lauren. “Let’s go. My house isn’t far.”
+
+Lauren’s house? I forgot about that! This is great! She’ll be able to cook for me properly now!
+
+“Great!” I say. “I’m hungry! Let’s go!”

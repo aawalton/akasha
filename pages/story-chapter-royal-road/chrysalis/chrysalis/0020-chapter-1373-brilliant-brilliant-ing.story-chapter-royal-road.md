@@ -1,0 +1,83 @@
+---
+id: f9a9fb4b-8c1c-5b5a-8972-b52458d1f3e4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1373 - Brilliant Brilliant-ing"
+slug: 0020-chapter-1373-brilliant-brilliant-ing
+partOf: chrysalis
+position: 20
+ownLength: 1011
+unit: words
+ownProgress: 1011
+publishedAt: 2024-07-18
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1721994/chapter-1373-brilliant-brilliant-ing"
+royalRoadId: "1721994"
+markedReadAt: "2026-06-29T19:44:17.539Z"
+---
+
+“Oh… oh, I don’t like the smell of that at all.”
+
+Her antennae waggled furiously as she tried to waft away the stink of whatever sorcery had been performed here. Whoever had performed it had gone to great lengths to scrub the signs away, but they hadn’t expected someone with her level of intelligence coming onto the scene.
+
+After all…
+
+“I’M BRILLIANT!” she declared to the empty room, then cackled gleefully.
+
+She had so many things to do, so many ideas, it had her head spinning most days, but the Eldest, her largest and most demanding Senior, had requested she complete this task personally, and so she would. She’d left her labs and gone to the third stratum, to the city of Roklu, in order to investigate the former Church of the Path facility here.
+
+As she looked around the chamber, her thousands of lenses each reflected the light differently, each looking at something the others weren’t. In just a few moments, she noticed something.
+
+“Interesting…” she murmured.
+
+It was a little irritating, having to adjust the position of her head in order to point the lenses in different directions, but after a few minutes of finicking, she managed to isolate what she’d been looking at. Her eyes were able to see almost everything at this point, each lens picking up on something different. Using her eyes to ‘see’ in the traditional sense was almost impossible now, she relied on mana sensing for that, but her eyes now acted as sensors, able to scan for thousands of blends of light, mana, energy and everything in between.
+
+“Trying to hide from me? I can see EVERYTHING!” she snapped her mandibles mockingly at nobody as she advanced further into the chamber, antennae sweeping through the space her eyes had identified.
+
+She almost tripped when one of her legs found the edge of the depression in the floor. She’d been so intent looking upward, she hadn’t even noticed the floor wasn’t flat. Such a terrible oversight! Luckily, no one had been present to witness her mistake.
+
+Not that she made mistakes.
+
+“Because I’m BRILLIANT!” she cackled once more.
+
+Judging by what was overhead… as well as this depression…
+
+She looped around it, casting her eyes across the floor, down into the depression, then back up into the air. She looped around it again. Then a third time.
+
+Finally, she sighed and began to work her own unique blend of mana. She had done everything possible to ensure that there wasn’t any speck of existence that was beyond her gaze. After all, secrets could be hidden anywhere, which meant she had to be able to hunt them everywhere. Not even dimensions were enough to hide something from her.
+
+Neither was time.
+
+Slowly, piece by piece, the enchantments that had been built into this room began to put themselves back together. Whoever had broken them had been thorough, extremely thorough. She pitied them. A little.
+
+It was a strain. Using this spell for even a few minutes was a strain, but for this, she needed to hold the cast for much, much longer. Yet, as the mystery began to unravel right before her eyes, Brilliant could only feel her heart begin to pound with the thrill of discovery. The answer was coming… she just… needed… to hold… a little… more!
+
+Eventually she collapsed, quivering onto the hard stone floor. She lay there for a while, recovering, letting her glands and core replenish their energies. When she was sufficiently recovered, she turned her gaze back to see what she had achieved.
+
+Glowing symbols, lines of power and currents of mana, ever so faint, almost ghostly, now hung over the depression and were engraved into the floor around it. Yet, not all of them.
+
+At best, she’d managed to recover a third of the complete enchantment, and even then, she felt there were elements missing. It was too long ago that this had been destroyed, but even so, her mandibles clacked gleefully as she absorbed every detail.
+
+This was a start. A great start! There was much here she didn’t understand, things she’d never seen before, which was exciting! If she saw something she didn’t know, it wouldn’t be long until she turned it into something she did know. After all, just who was she?
+
+The little ant continued to prance around the semi-sphere depression in the ground, examining each piece of the enchantment she’d managed to uncover with obsessive detail.
+
+“Yes… I see… I see!” she muttered (and occasionally shouted) to herself.
+
+“That would lead to… something. And that something would then… do something.”
+
+So much she didn’t know. What an incredible find this was! She would have to thank the Eldest at some point for this task. It was proving to be far more interesting than she’d imagined.
+
+“Gathering… storing… extracting… but how? Why?”
+
+She accelerated in her circling as her mind began to spin faster and faster, thoughts whirling and tumbling as she tried to fill in the many blanks, given the limited context she had. Sometimes it was easy, like slotting a single word into an otherwise complete sentence. Other times, it was like trying to write an entire paragraph when given only a single word. And the paragraph was in a different language.
+
+Eventually she stopped in place, eyes locked upwards. That was where the source was, that was obvious. The target of all this enchantment was firmly fixed on that point.
+
+And though they had removed the chains, it was still easy to see where they had been affixed to the roof, the fittings were still there, rings of iron embedded in the stone.
+
+Whatever they did here had also been done to a member of her family, and though she wasn’t exactly sure what it was… she was growing increasingly confident… that she didn’t like it.
+
+Foolish. Such a foolish thing they had done. So foolish to think they could get away with it. Moronic to think that she wouldn’t be able to find them.
+
+After all…
+
+“I’m Brilliant,” she whispered.

@@ -1,0 +1,189 @@
+---
+id: bf2ca36d-6e7d-5610-b9e6-423355925d1f
+page-type-slug: story-chapter-royal-road
+title: "96: Fabulous"
+slug: 0096-96-fabulous
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 96
+ownLength: 2079
+unit: words
+publishedAt: 2026-01-05
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2913913/96-fabulous"
+royalRoadId: "2913913"
+---
+
+Chloe wasted no time catching Raenof up on everything that had happened since they last saw each other. She told Raenof all about Sabine and how cool and scary she was. Then she explained how she somehow got invited to join Sol, though she still wasn’t really sure what they wanted with her.
+
+After that came the whole story about meeting Sierra, and how Morikhan turned out to be surprisingly okay for someone huge enough to step on a house. And, of course, she made sure to brag about how she got way stronger since the last time they traveled together.
+
+But her favorite part, obviously, was showing off Mr. White. She kept pointing at him every few sentences, making sure Raenof didn’t miss a single detail about how she revived him and how flamey and cool he looked now.
+
+Raenof just listened and nodded here and there as she talked. When she finally stopped, he smiled a little and said he was glad to see she was doing well, and also glad she didn’t join Sol.
+
+Chloe blinked at that. “Morikhan kinda said the same thing. Is Sol not very cool?”
+
+“That’s an understatement. But yes, it’s better if you don’t join them."
+
+Chloe frowned as she tried to process it. If both Morikhan and Raenof said Sol wasn’t cool, then… maybe Sol really was lame.
+
+Raenof adjusted his cloak and continued. “Anyway. Don’t worry about that too much. What we should focus on now is figuring out how to reach Maeve.”
+
+“Do you have a plan? Because it sounds like you have a plan.”
+
+“Hmm, I don’t have a plan exactly.”
+
+“Oh, really?"
+
+“But,” Raenof added, raising a finger, “I did have a concept of a plan. A very loose one.”
+
+Chloe’s eyes widened. Concepts were basically plans anyway, at least in her mind. “Sounds good to me!”
+
+“To get to Maeve, we’ll need to pass through Avian territory. The Holy City of Aetherion is probably our best bet. There’s just one small problem.”
+
+“What’s the problem?”
+
+“Avians are…” Raenof paused as if carefully picking the right word. “How should I say this… a rather zealous type.”
+
+"Um, what does 'zealous' mean?"
+
+“It means they’re very intense about their beliefs.”
+
+Chloe tilted her head. "Huh?"
+
+“Very passionate.”
+
+Chloe tilted her head even farther, trying hard to understand. She felt like she sort of got what Raenof was saying, but also… not really.
+
+“They take things extremely seriously,” Raenof continued.
+
+Her head drifted nearly sideways at this point, as if tilting it farther might magically make his explanation clearer. Raenof let out a long exhale through his nose, "Listen carefully. They’re really big on purity, holiness, divinity… all that. Which means they don’t take kindly to anything undead.”
+
+“Ohhh, I get it now. Guess we won't be welcomed since me and Mr. White are… y’know.”
+
+“Exactly, if we want to enter Aetherion without trouble, we’ll need to disguise ourselves. Or, more specifically, disguise you and Mr. White."
+
+Chloe tried to think of a solution. Her brain worked very hard for several seconds. As surely there had to be something. Then it hit her.
+
+“Oh!” she blurted out, throwing both hands in the air. “I think I have something! I remember this trait thingy I never used. It’s called… uh… Otherworldly Glamor!”
+
+Raenof raised an eyebrow, clearly unsure if she was joking. Chloe ignored that part and focused, pulling up the description in her head.
+
+[ Otherworldly Glamor ]
+
+When activated, this trait causes nearby sentient creatures to perceive the user as exceptionally beautiful and otherworldly. Provides a significant boost to charisma-related interactions and conceals all signs of undeath. The effect lasts for one hour and can be used once per day. This trait only alters how you are perceived and does not change your physical form.
+
+Chloe turned to Raenof with a proud smile. “I think this trait will really help me get into the holy city!”
+
+Raenof raised an eyebrow at her. “You do?”
+
+“Yup! It says I can make everyone see me as beautiful and stuff. Also, it hides the undead parts! And I get super charisma or something."
+
+“Chloe… are you sure this is safe?”
+
+“Totally!”
+
+Behind Chloe, Sierra raised a timid hand. “Um… Chloe? You’re already kind of noticeable. Won't this skill just make things worse?"
+
+Chloe spun around, nodding eagerly. “Right? So now I’ll be even more noticeable, but in a way where the holy city people will like me instead of trying to kill me.”
+
+Sierra opened her mouth as if she wanted to argue, then slowly closed it again. Raenof just gave a long, tired sigh. “Alright then, let’s see it.”
+
+Chloe clapped her hands together. The idea of being seen as “otherworldly beautiful” made her feel a bit smug. Alright… here goes nothing. Otherworldly Glamor, activate!
+
+At first, she felt absolutely nothing. No tingle, no sparkle, not even a breeze. She blinked and looked down at herself, wondering if she had messed it up somehow.
+
+Then, a glowy aura spread across her body, wrapping her in a warm, glimmering aura. The brightness shimmered gently, not too flashy, but just enough to look, well… kinda fancy.
+
+Chloe stared at the glow, confused. She still felt normal on the inside. She didn’t feel different or special or anything close to “otherworldly.” If anything, she just felt a little warmer.
+
+But Raenof and Sierra’s reactions were a completely different story. Both of them froze in place. Their eyes widened at the same time.
+
+Raenof’s mouth even dropped slightly. Meanwhile, Sierra’s ears shot straight up.
+
+Chloe blinked slowly. “Uh… what are you two looking at?”
+
+They didn’t answer right away. If anything, their stares only intensified, as if they were looking at something impossibly amazing. Except the only thing in their line of sight was… her.
+
+Chloe turned in a quick circle, checking behind herself. Nothing there. Just grass and maybe a confused bug. She touched her own face, then her hair, then patted her cheeks, just in case something weird had grown on her. Still nothing out of the ordinary, at least nothing she could feel.
+
+Sure, she had a shiny aura now, but she didn’t feel different at all. Not prettier, not cooler, not more divine. Just… Chloe.
+
+She waved at Raenof, leaning closer slightly. “Hey, you okay over there?”
+
+***
+
+Raenof had seen many strange things in his life, cursed relics, angry spirits, enchanted beasts that definitely should not have been enchanted. But nothing, absolutely nothing, prepared him for watching Chloe activate her skill.
+
+One moment she was just her normal self. The next moment, a soft radiance spilled around her like moonlight caught in water.
+
+It wasn’t overly bright or showy. It was subtle, almost gentle, but impossibly captivating. Her presence sharpened in a way he hadn’t known was possible. She looked… ethereal. Beautiful in a strange, otherworldly sense that tugged at the edges of his vision, urging him to stare a moment longer.
+
+The glamor didn’t just enhance her appearance. It pulled the eye toward her, wrapped attention around her like a spell he hadn’t prepared for. Even knowing she was undead didn’t matter. His mind tried, rather insistently, to tell him she was radiant.
+
+Raenof immediately hated how effective it was. Sierra beside him was worse off; her ears stood straight, her pupils dilated, her entire posture frozen like she had been struck by pure awe. The poor girl looked moments away from fainting or kneeling, possibly both.
+
+Raenof forced himself to blink and steady his thoughts. This was still Chloe, whatever she looked like right now, it was just due to the glamor, nothing more.
+
+Chloe blinked at him and waved, completely unaware of the impact she was having. “Hey, you okay over there?”
+
+Her voice broke the trance enough for him to gather himself, though he still felt the pull of the magic coiling around his perception. He exhaled slowly, giving himself a brief moment to compose his thoughts. “Yes, I’m quite… alright.”
+
+Chloe, unaware of the havoc she was causing, simply continued talking as if nothing unusual was happening. “So anyway, do you think this’ll really help us get into the holy city? ’Cause if not, I can try waving more or something.”
+
+Raenof winced, not from pain, but from the sheer force of the glamor twisting her every word into something enchanting. Her voice now carried a soft pull that wrapped around his thoughts like silk. Even her casual rambling sounded like some ancient elven poetry.
+
+Sierra wasn’t faring any better. Every time Chloe opened her mouth, the wolf girl’s ears twitched violently, and her eyes shimmered with a barely contained sense of awe.
+
+Chloe kept going, entirely oblivious. “And then after that, we can, oh! I had this idea earlier where maybe Mr. White could—”
+
+Raenof swallowed hard, forcing his mind not to melt into the glowy haze the glamor insisted on creating. Every word she spoke shook something in his focus. It was as if the glamor polished her sentences until they gleamed, then threw them at his face.
+
+He straightened his shoulders and braced himself. His mind felt like it was trying to walk through deep water, but he pushed against the effect anyway. “Chloe please. For the love of everything… deactivate the skill.”
+
+“Oh! You want me to turn it off?”
+
+“Yes, please.”
+
+“Right, okay!” Chloe chirped.
+
+She snapped her fingers even though snapping didn’t actually do anything. But the glamor shimmered, dimmed, and then faded all at once. The overwhelming presence evaporated in an instant. Chloe became Chloe again.
+
+Sierra collapsed forward a step, grabbing her own chest as if she’d just been released from holding her breath. “Oh… oh thank goodness…”
+
+Raenof let out a long breath of relief as well, rubbing his face with both hands. “That was far stronger than I expected.”
+
+"Really? I felt the same the whole time.” Chloe poked her cheek lightly, checking if anything had changed. “Did I look that different?”
+
+“Chloe. If you activate that again, please warn us first.” Raenof said.
+
+Sierra nodded vigorously behind him, still visibly shaken. Chloe smiled proudly, hands on her hips. “Okay! That means it works then!”
+
+“I think you should reserve Otherworldly Glamor for emergencies only.” Raenof said.
+
+Sierra nodded so fast her ears bounced. “Yes. Definitely. It was… um… a bit much.”
+
+Chloe puffed her cheeks in a pout. But she didn’t argue. “Kay, so then, how are we gonna disguise me and Mr. White?”
+
+“You can still pass for human fairly easily. Your skin tone is a bit pale, but many humans are pale. As long as you don’t detach anything in front of them, you should be fine. I can also find you different clothing if needed."
+
+Raenof then glanced at the flaming skeletal horse. “As for Mr. White, we will simply have to leave him outside the city.”
+
+Chloe frowned at that. Her shoulders drooped, and she looked at Mr. White with deep concern. “Yeah. I guess that makes sense. I don’t want him anywhere near jerks who might try to kill him.”
+
+The zombie girl walked up and hugged his bony muzzle. “Don’t worry, Mr. White. I’m gonna come back for you.”
+
+Mr. White lowered his head and nudged her gently, letting out a soft rumbling snort. The blue fire around his eyes pulsed warmly.
+
+Raenof watched the exchange with a calm smile. “He’ll be safe if we leave him in the outer woods, and in his current state, Mr. White should be strong enough that no wild animals could harm him."
+
+Chloe nodded firmly, giving Mr. White one last pat before stepping back. “Okay. Then it’s settled!”
+
+“If that is all, then I can show us the way. The sooner we start, the better.”
+
+***
+
+Deep within a stony chamber, a silence heavier than grief pressed against the air. There, Maeve wept, though no tears fell. She had cried so long and so fiercely that her sorrow had run dry, leaving only the hollow ache of a heart that had nothing left to give.
+
+And why wouldn’t she weep? The gods had won their cruel war ages ago.
+
+Isghria had fallen, her soul splintered and shattered. The divine game would grind on until the world’s last breath guttered out like a dying ember. And when that moment finally came, Maeve would weep no more. There would be no tears left, no prayers left, no hope left at all.

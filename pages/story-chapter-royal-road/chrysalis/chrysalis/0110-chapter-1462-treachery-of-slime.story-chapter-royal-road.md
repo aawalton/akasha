@@ -1,0 +1,87 @@
+---
+id: 9cf56077-9e19-5566-ba38-1f8caf71ae67
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1462 - Treachery of Slime"
+slug: 0110-chapter-1462-treachery-of-slime
+partOf: chrysalis
+position: 110
+ownLength: 1043
+unit: words
+ownProgress: 1043
+publishedAt: 2024-11-27
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1926363/chapter-1462-treachery-of-slime"
+royalRoadId: "1926363"
+markedReadAt: "2026-06-29T19:47:35.905Z"
+---
+
+It was difficult for the Colony and the Krath to understand each other. In fact, our nature and theirs were truly incompatible. They could not understand our unity, could not imagine living with our unconditional trust. Likewise, their suspicion and competitive instinct were incomprehensible to us. Bickering, infighting, betrayal and backstabbing, it was baffling to us that they managed to get anything done at all.
+
+It’s difficult to know for certain, but I can say with confidence that the Colony developed a level of respect for the Krath. Not for what they did, how they did it, or why, but for how effective they were at doing it. The Colony cares about getting things done, and the Krath were ruthless to a level we had never seen before, willing to sacrifice almost anything to achieve their aims.
+
+It was a lesson we learned well.
+
+-           From the personal notes of Historiant.
+
+Zluth was dismissed for a time, then recalled several hours later. He found a bloated, angry Chozth, sliding back and forth while her inside council watched fearfully.
+
+It wasn’t hard to determine what had occurred, and Zluth was quite pleased. Someone was always going to pay the price for failure, even a slight one, and it hadn’t been him. A victory.
+
+“It appears your assessment of the hunters was accurate,” Chozth burbled without preamble. “Even to the end, they blamed your cowardice for failing to capture the monster.”
+
+Zluth’s eye almost jumped from their stalks. His cowardice? The acid within his flesh began to hiss in response to his anger.
+
+“Why does anyone doubt the severity of what we face?” he hissed.
+
+They faced a force of unified species, an almost unheard of union of their greatest enemies, along with this species of… ants, who seemed so well engineered to tackle the climate of the fifth and take on the challenges of adapting the environment to suit the needs of the invaders. Along with the hideous, wobbly abominations who produced the blue mana, it was clear that the threat was severe.
+
+“I have to agree,” Chozth said, chewing furiously. “I have ordered that any who underestimate our foes are to report to the nearest blubbeast for immediate consumption.”
+
+“Do you believe anyone will do that?”
+
+“Of course not, but it makes them aware of the consequences,” Chozth growled. Then she eyed Zluth sideways.
+
+“We had another scouting team report, shortly after yours, from the other side of the invasion.”
+
+“Did they find something interesting?” he asked, interested.
+
+“A full Legion has taken up residence in some of the tunnels.”
+
+Zluth sucked in air as his flesh began to visibly writhe with the strength of his anger.
+
+“The Legion?” he hissed furiously. “Here in strength?!”
+
+“Yes, they are. Along with everyone else. This is something we’ve never seen before. There are no legends among the Thuuz that speak of anything like this incursion, and we have recorded many.”
+
+This was interesting, infuriating, but more than anything else: dangerous. Why was the renowned warleader Chozth confiding in him like this? He doubted she had overcome her innate distrust of outsiders to her tribe, or was suddenly convinced of his competence because he’d managed to have his underlings suffer the consequences of their mistakes.
+
+So why?
+
+His mind spun. What did she want? What was she going to ask him to do?
+
+“You want to elevate my role, don’t you?” he asked, turning to face the powerful Krath’lath head on.
+
+It was the only thing that made sense.
+
+She nodded, pleased. “I need more Krath who are willing to face up to the reality of our enemy. Half the Krath here think their anger and fury is enough, but that’s never been enough for us to win. We have to be cunning, ruthless, savage and merciless. That is how the Krath win. I want to take these invaders apart, piece by piece. I want it all to crumble as we hound them to their breaking point.”
+
+Zluth bared his fangs in an evil grin.
+
+“I am the Krath’lath you seek.”
+
+“Not just a Krath’lath any longer. You are a Krath’sizz, a war leader, under my direct command.”
+
+Zluth felt his flesh sizzle as a sense of triumph surged through him. This was what he’d wanted, a chance to lead, a chance to prove his worth. He wouldn’t be a minor player as the story of this invasion played out, but a pivotal piece. It would be Zluth who brought the enemies of the Krath tribes to heel and made them beg for mercy.
+
+Chozth waited, aware of the emotions surging through the young slug in front of her. He was promising, this one, but overly ambitious. It was yet to be seen whether that ambition was matched to real ability. There were signs, but if he failed, she could point to him as an example of the weakness infesting the smaller tribes and appoint more of her own slugs. If he succeeded, she would have a new, powerful tool at her disposal, one who owed her a favour.
+
+“I want you to pick out twenty Krath to act as your war party,” she instructed him. “Return to the tunnels, along with a scout group I will place under your command. I want you to pressure these interlopers. I want you to start to squeeze. We have to find weaknesses, we have to find holes, and we need to find them soon.
+
+“Look for patterns, look for anything predictable, look for anything we can exploit. Most of all, get me a prisoner. If we can preserve one, and put them in the slime, we will have everything we need to break them.”
+
+“I will get results,” he promised, still flushed with triumph. Then a sly thought occurred to him. “What are the expected casualty rates of these missions?”
+
+“I need every capable Krath ready and available to fight,” she growled. Then she laughed wickedly. “Gug gug gug! Incapable Krath are much more… dispensable.”
+
+“In that case, I have a few I would like as part of my war party,” Zluth grinned, thinking of the guard he had run into.
+
+He would be a successful leader, but vengeance was required of him, otherwise, he wouldn’t be Krath.

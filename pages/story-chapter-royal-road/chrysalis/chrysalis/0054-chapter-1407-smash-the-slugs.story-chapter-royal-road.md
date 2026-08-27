@@ -1,0 +1,95 @@
+---
+id: c7cac35a-e41a-5a2e-913f-f617d3a06200
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1407 - Smash the Slugs!"
+slug: 0054-chapter-1407-smash-the-slugs
+partOf: chrysalis
+position: 54
+ownLength: 1201
+unit: words
+ownProgress: 1201
+publishedAt: 2024-09-11
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1797743/chapter-1407-smash-the-slugs"
+royalRoadId: "1797743"
+markedReadAt: "2026-06-29T19:45:21.612Z"
+---
+
+The giant, bat-faced gorilla turned away from the small, slightly uneven section of dirt he’d been picturing himself punching and saw the first of the attacking monsters begin to charge. Excitement sparked in his belly, along with actual sparks, but it was a mild sort of interest at first. A few beasts, most of which would be blown apart by the friendly one before they even reached him, weren’t something to get too worked up over.
+
+But then, something amazing happened.
+
+More monsters emerged! Not only did they emerge, they charged! Right before Tiny’s widening eyes, a full assault materialised as if from nothing. He was so happy.
+
+Energy surged through his bulging limbs as lightning began to crackle all over his body, the pleasant tingling sensation it brought only further lifting his mood. Some of the beasts were massive, little more than huge mouths propelled by fat, crawly legs that belched yellow gas from vents along their bodies. Hitting them was going to be so satisfying!
+
+Filled with joy, Tiny pounded his open palms against his chest, beating out a war-rhythm as he bellowed his challenge at the horde.
+
+All around, the ants readied themselves for battle, the lines of little ones clearing space around Tiny’s feet and giving him room to punch in.
+
+BOOM!
+
+An explosion rocked the tunnel, blue flames belching outwards, dust, rock and mucus flying everywhere. Tiny leaned forward, concerned the friendly one had taken out one of the big monsters, but grinned when he realised they were fine.
+
+[I will leavesssss the fat onessss for you,] the friendly one declared, placing a mini-hand on Tiny’s impossibly broad shoulder.
+
+The big ape gave his little friend a thumbs up and extended a finger to rub him on his lid, at the top of his eye. Invidia had always been helpful, but since evolving, he was so… so nice! Such a good friend.
+
+Turning his attention back to the oncoming horde, Tiny hooted with joy as he judged the time had almost arrived. Drawing back one arm, he compressed the power of his lightning, then sent it blasting forward along with his fist.
+
+A bar of lightning arced through the air, sizzling with energy before it fell just short of his target, blasting the rock and sending dust flying.
+
+So close!
+
+Eagerly, he drew back for another try, but then paused, confusion and sadness welling up from within. The charge had stopped. But… but they were outside punching range… why would they stop?
+
+The huge mouth-beasts, and other, squishy-looking creatures rose up, and Tiny could sense the power they gathered. As one, the monsters leaned forward and unleashed blasts of thick goop which flew in a graceful arc toward the ants’ position.
+
+Tiny wrinkled his nose in disgust as the awful stuff flew towards him. He raised both hands and unleashed a blinding flurry of punches. The air warped in front of him for a brief moment, bent out of shape by the speed of his fists. Light exploded outwards as each of his blows launched a fist of light out of the safe-zone. His aim was unnerving, each punch connecting with a different blast of goop and annihilating its momentum, sending the stuff sizzling to the tunnel floor.
+
+Even then, there were so many globs that dozens still made it through and entered the safe-zone. The moment they contacted the blue mana, they popped and sizzled, the dense mana inside fighting to overcome the purified energy provided by the wuffers.
+
+All of this was greatly upsetting to Tiny. He wanted to punch, but the punching bags didn’t want to get close enough….
+
+No matter how much he wanted to leap out of the safe-zone, he knew he couldn’t. He’d been ordered to stay in the blue… which meant he couldn’t leave. Stupid orders….
+
+[Don’t even put a finger out there,] Crinis snapped at him. [You know what will happen to you.]
+
+Tiny rolled his eyes. She was too good at working out what he was thinking. He always wondered how she managed it.
+
+Just as he was growing more disgruntled at the situation, a ray of light shone through the darkness in the form of a little ant tapping him on the leg with her antenna.
+
+He looked down and felt the touch of the ant’s mind against his own.
+
+[We are going to perform the burst manoeuvre. You will have twenty seconds to perform an offensive assault.]
+
+Upon hearing this, Tiny frowned, thinking. The ant looked up at him patiently. Suddenly, the big ape blinked, smacking one fist into his open palm.
+
+The burst move! He remembered that one!
+
+Satisfied he knew what was happening, the little ant nodded and skittered away as Tiny began to limber up. This was going to be exciting! Clearly, his siblings had also been given the same message, as Crinis’ pesky warnings rang in his head shortly after the ant had left.
+
+[Remember, we don’t get much time! Very, very little. So don’t waste any of it with your silly flexing and posing.]
+
+Flexing and posing were not silly, they were dignified and sombre expressions of power and physique! However, Tiny was forced to agree that a quick attack was not the place for such a thing, so he signalled with a thumbs up.
+
+[I will givesssss you lighting laterssssss,] Invidia promised and Tiny gave him a broad grin.
+
+Truly, appropriate lighting, the odd fire and a climactic explosion were the perfect backing to complete a flex routine!
+
+Filled with good cheer and a building, wrathful energy, Tiny was bouncing on his feet and swinging at the air as the ants prepared their confusing, dizzying formation. With so many circles moving one way or another, Tiny found watching them made him feel a little sick, so he carefully averted his gaze as they began to march.
+
+Even if he wasn’t watching, he could feel it. The blue mana pulled back slightly, and more was pulled out from behind as the ants manipulated the energy, causing it to pulse back and forth.
+
+It was like waves, Tiny thought. They started small, but the ants, who were clever, could turn small waves into big ones, and big ones into a huge one.
+
+The enemy continued to launch their acid towards the ant lines, but Tiny and the ants just retreated further down the tunnel, letting the blue mana pack together even tighter.
+
+In only a few minutes, it was ready, and Tiny was covered in thick ribbons of lightning, his eyes burning red and fists pounding on the rock by the time the ants finally let it blast forward. In an instant, the blue mana exploded outwards, a dense wave of power that rolled over the poison of the fifth and blew it away.
+
+Like a shot, Tiny was off, bounding over the ground as a blur, his sister Crinis slipping through the shadows all around him and his brother (and good friend) Invidia flapping by his side.
+
+In moments, they had reached the enemy lines, who recoiled in fear from the surging blue energy, their lines dissolving into chaos.
+
+Tiny pulled back his fists.
+
+This was going to be FUN!

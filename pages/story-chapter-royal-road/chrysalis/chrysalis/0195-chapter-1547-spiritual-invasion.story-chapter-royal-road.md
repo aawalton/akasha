@@ -1,0 +1,95 @@
+---
+id: 99c49eff-77d4-5632-994b-51991920c962
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1547 - Spiritual Invasion"
+slug: 0195-chapter-1547-spiritual-invasion
+partOf: chrysalis
+position: 195
+ownLength: 1094
+unit: words
+ownProgress: 1094
+publishedAt: 2025-04-09
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2186320/chapter-1547-spiritual-invasion"
+royalRoadId: "2186320"
+markedReadAt: "2026-06-29T19:50:03.684Z"
+---
+
+For an hour, I flip between managing my body in the ‘real’ world, while ducking back into the Nave to see how the Templars are doing, holding off the… spirit… mites?
+
+Spirit mites sounds good.
+
+By the time it settles down and they can’t find any more of the damn things, they must have caught and destroyed hundreds. Hundreds! I pull back from the very front of the platform so we can talk, though I still use my sub-brains and acid to bombard the endless hordes with acid and magic.
+
+Thankfully, the Templar begin to stir as they return to their physical forms, and I call them over to me. They seem a little disconcerted by the events. Well, the kids don’t, they never seem to have much of an expression at all. The adults, though, they look somewhat disturbed, as if they don’t understand what just happened.
+
+Which is a shame, since I sure don’t.
+
+“What the heck went on there?” I ask them all. “I was minding my own business fighting, and you guys all collapsed! And I want to emphasise that it wasn’t my fault for thinking that nothing bad was going to happen. Why would I think that? It’s impossible that I would be that naive!”
+
+Smooth.
+
+They look at each other, Jern reaching up with one hand to scratch the back of his head.
+
+“I was fighting and then I had the sense I was really needed somewhere. So I went. Then I was inside that other place and there were those things all over the place, so I tried attacking them.”
+
+This description is… pretty basic, delivered in the straightforward, no-nonsense pheromone language I’ve come to expect from Jern. I look at the others and they just shrug and nod.
+
+“So you sensed that I was under attack?”
+
+“I… sort of?” Alis hedges. “I could feel that something was… wrong.”
+
+“It was like I’d left the house and then remembered I hadn’t properly doused the fire,” Bertran mused. “A real panic set in as I raced to get to the problem and fix it. I was so desperate, I jumped right out of my body without even knowing how I did it.”
+
+“Was it the same for you three?” I ask the youngin’s.
+
+Allison speaks up on behalf of the three this time. Looking at me directly, she says exactly what’s on her mind.
+
+“When did you last rest?” she asks.
+
+“Never mind that! We have more important things to be working out right this second. Sheesh!”
+
+“More important?” she demands, her eyes narrowing.
+
+“Oi! I’m out here saving lives, and unlike the others, my combat performance doesn’t dip that much when I don’t sleep. Up to a certain point, at any rate.”
+
+I do need to rest eventually. Emotional fatigue is a real thing, and I can end up feeling incredibly drained, even if my body and brains are fresh as daisies.
+
+“Now let's focus on examining the problem at hand. What happened to you three?”
+
+“We felt the attack and acted to protect you,” Allison replies, a little begrudgingly.
+
+“Well… can you explain how you knew what to do?”
+
+“No,” she shakes her head slightly, “we just knew.”
+
+Some sort of instinct imbued to them by the Class itself? Would have to be. I find it extremely frustrating that they were able to sense this attack and I was completely left in the dark. If I didn’t have the Templar to help me, would I even have known about it at all? Perhaps not until the damage caused by the spirit-mites became too great to ignore.
+
+“Perhaps the most important question I have… does anyone have any idea where those weird things came from? Who or what tried to attack me?”
+
+And how did they do it through the Vestibule? Nothing has ever gotten in before except for the pure and focused Will of the Colony! Along with a few other people’s Will….
+
+I’d rather not think about it.
+
+Each of the Templar shakes their head and tells me they have no idea how the invaders got in or who sent them. They felt the disturbance and went to defend the Nave; that’s as much as they know.
+
+“I did get notifications about a Skill improving while I was in there,” Jern notes at one point to nobody in particular. “The more this happens, the better we’ll get at it, I guess.”
+
+I mean… if the Class is supposed to be about protecting me from spiritual assault, then they would have a Skill related to it.
+
+“This is so irritating,” I say, snapping my mandibles. “Something finally happened regarding the Class, but we don’t know much more than we did before.”
+
+“Well, it’s not that bad,” Bertran says, patting me on the leg. “You know what the golden statues are for. We know what a spiritual attack can look like, and how the defense is done. It’s quite a lot when you think about it.”
+
+With his friendly manner and practical view on life, Bertran is hard to be grumpy around. The guy is just very positive and talks good sense. In this case, he isn’t wrong. I guess I’m mostly just annoyed that I don’t know who was attacking me, or how. If they did it once, they can do it again.
+
+“All right, well, for now it seems as though nothing else is going to happen, so you all can go and rest for a bit before you return to active duty.”
+
+They all start to protest… except the children who just glare at me. They really have taken on the mannerisms of the Nameless Ones. Talk, dammit! You’re kids, you should be talking!
+
+“We don’t know what happened, we don’t know if it will happen again and we don’t know what it took out of you. Get checked out by the healers, take a breather and then come back, alright?”
+
+“What about you, Anthony?” Jern asks in his usual, straightforward manner.
+
+“I didn’t do anything! I just sat around chomping my mandibles and waving my antennae. After sitting back here lobbing spells, I’m as rested as I can be. I need to get back to the front and do my job.”
+
+So saying, I bid them farewell and start striding back to my post. Without me there, the number of injuries suffered by the Colony has skyrocketed. I have to be there as often as I can to make a difference and save my siblings. That’s why I took this evolution, after all.

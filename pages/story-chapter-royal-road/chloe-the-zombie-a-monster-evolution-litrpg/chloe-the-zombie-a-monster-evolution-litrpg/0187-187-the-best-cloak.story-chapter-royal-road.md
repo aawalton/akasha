@@ -1,0 +1,109 @@
+---
+id: 7513805f-139d-5176-b027-248d3a8042ce
+page-type-slug: story-chapter-royal-road
+title: "187: The Best Cloak"
+slug: 0187-187-the-best-cloak
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 187
+ownLength: 2157
+unit: words
+publishedAt: 2026-08-10
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3795646/187-the-best-cloak"
+royalRoadId: "3795646"
+---
+
+Chloe was finally whole again, well, almost. Because currently, she was still missing something incredibly important. She twisted around to check her back, and her expression slowly changed from relief to horror.
+
+Cloaky was gone, not entirely gone, but mostly gone. There were still a few sad little scraps of black fabric hanging from her upper back, but the rest of him was nowhere to be seen.
+
+"Cloaky? Buddy?" Chloe asked out loud.
+
+The scraps did not respond, and her eyes widened. Cloaky wasn't just some ordinary cloak, he was also her friend. The brave little guy had literally saved her life before, so she wasn't going to let him down.
+
+An explosion exploded somewhere in the distance, but Chloe barely even registered it. Her cloak had been blown into pieces, and that was a true tragedy. An actual, genuine tragedy. She imagined little scraps of Cloaky scattered all across the battlefield, lying amongst burning wreckage and piles of broken robots after heroically sacrificing himself to protect her. The mental image was so heartbreakingly dramatic that she almost felt tears welling up, and if Cloaky really had gone out like that, then he deserved at least a cool statue somewhere.
+
+Straightening herself, she placed both hands on her hips and nodded. Alright, new mission.
+
+Chloe looked across the area to try and figure out where Cloaky might be. The Mecha T-Rex was still recovering from Z's punch, so that meant she still had some time. Z could handle herself for just a bit longer, probably.
+
+But not gonna lie, now that her head was attached to the rest of her body again, Chloe actually had to do things herself instead of ordering her Upper Body around. Sure, she was obviously the brains of the operation and therefore the most important part, but outsourcing all the difficult movement and decision-making had honestly been pretty nice while it lasted. Unfortunately, her body had now returned to being one complete Chloe again, which meant she had to get back to work.
+
+Chloe hopped over several pieces of burning debris and moved behind the remains of what were once metal containers. Standing in the middle of an active battlefield while a giant laser dinosaur existed was probably not the greatest idea anyway. Once she was reasonably certain she wasn't about to immediately explode, she closed her eyes and focused.
+
+Cloaky was magical, which meant she should be able to sense him with a little bit of effort. After several seconds of concentrating as hard as she could, she finally felt something. Aha! I think I finally got Cloaky's location.
+
+Her eyes snapped open as she sensed that Cloaky was nearby. A huge grin spread across her face as she immediately turned around, fully prepared to launch herself into rescue mode. At least, that was until she realized where Cloaky actually was.
+
+There was a giant pile of broken pipes, shattered metal, and chunks of crumbled wall sitting dangerously close to the Mecha T-Rex, and beneath all of that debris she could feel Cloaky's mana signature. Her poor little super shadow cloak was trapped.
+
+Naturally, Chloe assumed this would be easy enough since Z was currently beating the robot dinosaur up again. Then the Mecha T-Rex unleashed some kind of massive shockwave pulse.
+
+The air exploded outward. Z was thrown backward like she'd been hit by a train, crashing through several pieces of machinery before landing in a pile of debris where she proceeded to become temporarily static on the ground. Oof, looks like Z's gonna be out of it for a while.
+
+Slowly, Chloe turned her head toward the Mecha T-Rex, and almost as if it had been waiting for her to notice it, the gigantic machine turned its own head toward her in return and soon opened fire. Chloe burst into motion as lasers screamed through the air and missiles detonated while she desperately dashed toward the pile of debris hiding her loyal cloak. She really did try her best to dodge, she honestly did, but there were simply too many attacks coming from way too many guns, and every time she avoided one laser, three more seemed to take its place.
+
+One laser blasted straight through her hand. Another punched a hole through her stomach, and then a third took off one of her legs. Oh, and also this missile exploded nearby and sent her tumbling through the air. Honestly, this rescue mission was going significantly worse than she had hoped. But Chloe would never give up on Cloaky so easily, this much damage wasn't too bad since she'd be able to regenerate anyway.
+
+Shielding her head with her remaining arm, Chloe continued forward while allowing the less important parts of her body to absorb the attacks instead. By the time she finally got close enough to the Mecha T-Rex, she was hopping on one leg, missing a hand, had several holes through her torso, but she could still move!
+
+The giant robot dinosaur lowered its head and prepared another barrage. Unfortunately for it, Chloe had special eyes and telekinetic powers, so it was about time to show this guy who's boss. "Divine Push!"
+
+An invisible force slammed into the Mecha T-Rex. The gigantic machine suddenly lurched backward before crashing into a nearby wall hard. Ha! Success!
+
+Dark flesh began knitting itself back together as her regeneration finally got to work, patching the various holes scattered throughout her body. But she didn't have time to admire her handiwork. Cloaky needed saving.
+
+Still hopping awkwardly on one leg, Chloe scrambled toward the pile of debris and began throwing pieces aside with growing desperation. Pipes were tossed away first, followed by some chunks of metal beams, several robot parts, and a suspicious amount of concrete. Chunks of rubble went flying in every direction as she dug through the mess, until finally she saw it. "Cloaky!"
+
+A few sad strips of fabric poked out from beneath the debris, looking so pitiful that Chloe almost felt like crying. The moment she pulled away the remaining rubble, however, the cloak immediately sprang to life. Cloaky launched himself directly at her, wrapping around her back and happily reattaching himself to the missing portions of fabric as though he had never left.
+
+Chloe's eyes widened before an enormous grin spread across her face. "Cloaky! You survived!"
+
+By this point, most of her body had already regenerated. For some reason though, her left hand still stubbornly refused to grow back, leaving her with an awkward stump. Chloe stared at it for a few seconds before suddenly gasping as she remembered she did have a spare arm, or an arm to spare, whichever worked.
+
+Quickly reaching into the folds of Cloaky, she rummaged around for several seconds before finally finding what she was looking for. With a triumphant grin, she held it up a hand. Specifically, her spare left hand.
+
+"Hey, Leftie!" she greeted cheerfully.
+
+The detached hand immediately waved at her. Chloe smiled brightly. "Good to see you too."
+
+Without further ado, she stuck Leftie right back where he belonged. Flesh immediately spread outward and connected everything back together.
+
+Chloe flexed her fingers several times before placing both hands on her hips once more. Now fully restored, reunited with Cloaky, and once again in possession of all her limbs, it was time to give a certain robot dinosaur a beatdown.
+
+She turned her head and saw the Mecha T-Rex recovering from being slammed into the wall. Chunks of concrete and twisted metal slid off its body as it pushed itself back onto its feet, red lights flickering angrily beneath its armor. It let out another mechanical roar after that.
+
+Unfortunately for it, Z had recovered too. The former Administrator stood amidst the rubble, looking mostly unharmed despite everything that had happened. Her expression remained as calm and unimpressed as ever, though she looked slightly annoyed now. She glanced toward Chloe and then pointed toward the Mecha T-Rex's head.
+
+It didn't take a genius to figure out what Z wanted to communicate, so Chloe nodded. Without another word, she made a dash towards the robot dinosaur. Lightning crackled around her body as she dashed across the battlefield, leaping over burning debris and shattered pieces of machinery. The ground shook beneath her feet as the Mecha T-Rex noticed her approaching.
+
+Its glowing red eyes immediately locked onto her. Several weapon panels unfolded across its body with sharp metallic clicks. Laser cannons rotated But as the Mecha T-Rex prepared to fire, a streak of golden light suddenly shot across the battlefield.
+
+A bolt of divine energy slammed directly into the side of the robot dinosaur's head. The entire machine staggered violently. Its aim was thrown off as sparks erupted from several damaged weapon systems, and the charging lasers suddenly fired wildly into the ceiling instead. Nice one, Z!
+
+This was all the opening Chloe needed. She sprinted, closing the remaining distance in seconds before finally reaching the gigantic machine. Then something moved behind her, or rather something moved from behind her. Huh? Why do I feel kinda tingly…
+
+Cloaky suddenly went into action. Shadows poured out from the fabric, twisting and writhing in the air before rapidly taking shape. Countless shadowy arms burst forth from the cloak, and then even more followed after them. Chloe's eyes widened as the number kept increasing, each arm ending in sharp clawed fingers as they shot toward the Mecha T-Rex.
+
+Honestly, she had seen Cloaky do weird things before, but this felt different. The shadows almost seemed… angry as they surged forward, and for the first time in a while, Chloe found herself taking a step back as she watched what happened next.
+
+The robot dinosaur barely had time to react. The first arm ripped one of its laser cannons straight off, while the second tore away several thick armor plates as though they were made of paper. Then everything happened at once. Shadowy hands swarmed over the giant machine like a pack of starving monsters, tearing into it from every direction. Metal screamed and sparks erupted everywhere as weapons were ripped free and tossed aside, entire sections of armor were peeled open, and glowing cables were violently yanked from inside its body. One arm tore off its tail, another ripped away one of its legs, while several more forced open sections of its chest and reached inside to pull out mechanical parts that Chloe couldn't even begin to identify.
+
+The Mecha T-Rex let out a deafening electronic roar as explosions erupted all across its body, sparks and smoke pouring from the damage being inflicted upon it. Another shadowy arm punched straight through its chest, followed immediately by several more, and the gigantic machine began coming apart piece by piece under the relentless assault. Even Chloe found herself staring in stunned silence. Honestly... Cloaky seemed really pissed. The poor little guy had been blown apart, buried under rubble, and nearly left behind, and apparently he had taken that personally.
+
+To be completely fair, Chloe wasn't sure why Cloaky didn't just do this from the start. But maybe at the start of the fight, Cloaky was just blindsided by how strong the T-rex was and got cut up before he could do much. That part was probably, to some degree, Chloe's fault for not doing better. She'd have to do a better job at that in the future. Maybe I should take more martial arts classes when this is all over.
+
+Anyway, the T-rex's head was ripped free and thrown across the battlefield. One of its legs was violently torn off moments later, followed by another. Weapons were dismantled and scattered everywhere as the countless shadowy hands relentlessly tore the giant machine apart piece by piece. Armor plating was peeled open, cables were ripped from inside its body. Finally, with one last violent pull from dozens of shadowy arms at once, the remains of the Mecha T-Rex collapsed into a massive heap of scrap metal.
+
+Sparks crackled among the wreckage while bits of smoke slowly rose into the air. Then, one by one, the shadowy arms withdrew back into Cloaky. Chloe simply stared at the enormous pile of scrap. There was almost nothing left of the giant robot dinosaur. "Whoa."
+
+A long pause followed. Then Chloe slowly looked over her shoulder at Cloaky. "Remind me to never make you angry."
+
+"Good work, Chloe."
+
+She turned her head and saw Z walking up to her. Chloe didn't want to take all the credit though, so she pointed out the real MVP. "Oh, that was mostly on Cloaky though."
+
+Z just raised an eyebrow, but didn't say anything more for a while. She then just looked around, and then back to Chloe. "Right, well, have you noticed something after fighting all this time in Tartarus?"
+
+Chloe tilted her head. "What do you mean?"
+
+"You didn't get any experience or Levels from defeating that Mechanical Tyrannosaurus Rex, right?"

@@ -1,0 +1,81 @@
+---
+id: 4e57c95c-9564-5a7d-8777-1a18f81e7979
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1476 - Unthinkable"
+slug: 0124-chapter-1476-unthinkable
+partOf: chrysalis
+position: 124
+ownLength: 994
+unit: words
+ownProgress: 994
+publishedAt: 2024-12-17
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1960484/chapter-1476-unthinkable"
+royalRoadId: "1960484"
+markedReadAt: "2026-06-29T19:48:02.119Z"
+---
+
+“What do you mean?” Chozth demanded, her voice low and dangerous.
+
+All the Krath could sense the tension in the air, growing still and turning their stalks towards Zluth covertly. He knew what they were thinking, that he was about to become the powerful tribe-leader’s next meal.
+
+Not if he had anything to do with it.
+
+“We managed to capture and escape with an ant captive,” he explained smoothly, “but the ants pursued us using monsters equipped to fight outside of their safe-zone for a time. In the scramble, we lost the captive and one of the members of my warparty was captured.”
+
+“HOW WAS A KRATH CAPTURED?” the sleek Krath bellowed, flashing over and looming over Zluth in what seemed like an instant.
+
+Her eyes blazed red with wrath, and her flesh sizzled with the force of her rage. A potent acrid scent rose from the leader, and Zluth could feel his eyes begin to burn from her breath alone.
+
+“By being a coward who wants to preserve their own life over the primacy of the tribes,” he replied.
+
+She wanted to eat him, he could see it in her eyes, but she resisted the urge, through sheer iron will.
+
+“We will need to deal with this Goszi in the harshest possible way,” she announced, turning away from Zluth to address the rest of the gathered slugs. “He has betrayed his tribe, his war leader and the entirety of the Krath tribes!”
+
+Her declaration turned the burning anticipation of watching their leader devour a hapless victim into a bellowing rage toward the perpetrator of such an unthinkable action. Zluth breathed a quiet sigh of relief as the gathered Krath hissed, sizzled and spat while Chozth continued to give voice to her fury.
+
+“Only the deepest slime pits in the stratum are worthy to receive a scum-sucking slug like this! I promise an eternity of horror and suffering will fall on this traitor's head, and great rewards will go to the Krath who brings him to me!”
+
+Many of the gathered Krath’lath and Krath’sizz promised swift and vicious retribution would fall on Goszi, the gathering filled with the pop and sizzle of roiling acid within slug flesh. With a wave of her limbs, Chozth dismissed the gathering and turned back toward Zluth.
+
+“You have some explaining to do,” she hissed.
+
+When the others had departed, she dragged him close to the wall, away from those trying to listen in surreptitiously, and bared her fangs in his face.
+
+“I’m sure you’re aware just how close you came to being my meal. You may still, if you aren’t careful. Now, explain to me exactly what happened.”
+
+Somehow, Zluth felt that if he were to rely on his natural instinct and lie, he was sure to be consumed, so he did something that he seldom had cause to do: he told the truth.
+
+Chozth listened as he explained the various actions he’d taken in his tunnel, how the large ant had shown up to foil his attacks time and again, and the full extent of his conversation with Goszi. He went into detail, laying out the old slug’s observations and proposed strategy before finally detailing exactly how the attack had gone.
+
+He didn’t leave anything out. The capture of the ant, their escape into the pre-prepared tunnels, and the mad pursuit of the armoured ants who had thrown themselves into the fifth without fear or hesitation.
+
+Through it all, the powerful Krath’lath listened intently, never interrupting. When he was done, having told of his own desperate flight from the clutches of the massive ant, and Goszi’s own capture, and how he had followed the ants as they retreated, confirming that Goszi still lived with his own eyes, Chozth remained quiet for a time.
+
+“I can see why you kept the decrepit old slug by your side,” she allowed, “he’s a cunning and slippery thing. The attack you led has been the only one to actually manage to take an ant out of their cursed blue field. In doing so, you revealed just how aggressively they will pursue, and the means they will use to do so. This is valuable information.
+
+“However, the loss of Goszi could cost us dearly if he starts spilling secrets. There are none who know more about the fifth than us, and there is a great deal he could say that would harm the tribes. I’m sure you know what I’m talking about?”
+
+“I do,” Zluth confirmed.
+
+Who didn’t? The secrets of the fifth were among the first things a Krath would learn as they grew. The tribes couldn’t survive without such knowledge.
+
+“Do you believe he would be willing to betray his people to such an extent?” she asked intently.
+
+Zluth considered the question. He’d known what Goszi was like for a long time, but he’d never thought the old slug would be willing to be captured alive.
+
+“It’s possible,” he conceded. “Goszi has long been concerned with preserving his life in his old age, and this could be a way for him to do so. The whole reason he backed me as the next Krath’lath of the Slee was for a promise not to exile him from the tribe and securing his ‘retirement’.”
+
+Chozth looked as if she couldn’t decide between being confused or affronted at the idea.
+
+“What a strange creature,” she burbled. After a moment of consideration, she nodded to herself, confirming her thoughts.
+
+“We will need to ramp up the pressure across all fronts. Preparations are mostly complete, and we have more Krath arriving from distant tribes to help reinforce. Our only chance of getting to Goszi will be if the invaders are too distracted to focus properly on their prisoner.”
+
+She glared at Zluth.
+
+“You’ve escaped death today, but only barely. Show me results—if you want to continue to dodge it.”
+
+Zluth bared his needle-pointed fangs in a fierce grin.
+
+“Of course. That’s how it should be.”

@@ -1,0 +1,75 @@
+---
+id: 9a049fd3-9ccc-57eb-9a1e-f9efe6481599
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1546 - Eyes of the Ender"
+slug: 0194-chapter-1546-eyes-of-the-ender
+partOf: chrysalis
+position: 194
+ownLength: 982
+unit: words
+ownProgress: 982
+publishedAt: 2025-04-08
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2183548/chapter-1546-eyes-of-the-ender"
+royalRoadId: "2183548"
+markedReadAt: "2026-06-29T19:50:01.758Z"
+---
+
+Even unleashing the most powerful of my abilities, Gravity Bombs, Gravity Wells, Starcrusher chomps, dumping the entirety of the famed produce from my commercial district and unleashing empowered Dragon’s Breath, it’s still not enough to hold back the wave. I mean, of course it isn’t. I never really thought I’d be able to hold back an entire wave by myself, that would be absurd. It’s still frustrating. I’m a mighty tier seven mythic monster, dammit! Why is this still so hard?
+
+Despite my best efforts anchoring the middle of the line, the frothing, spitting, oozing monsters of the fifth still reach the platform. Ooze, slime, mucus and filth pour out onto the diamond-coated surface as the disciplined battalions of the Colony fight with all they have to hold back the tide. Despite my protection, there are still many soldiers and generals in the front lines getting doused in toxic ooze and forced to fall back to receive treatment.
+
+To be honest, nowhere on the platform is safe. With goop and slime flying everywhere, even the mages and scouts firing from the back of the formation can be hit. The ants do their very best to ensure their non-insect allies are kept out of harm's way, but it’s simply not possible to succeed all the time.
+
+Even when I am present, fighting hard, there are still injuries, thousands of them, every day. Some fall, never to stand up again. It’s tragic, and painful, and incredibly frustrating, but without me here, it would be so, so much worse.
+
+It’s a small comfort, but I’ll take what I can get.
+
+What’s making it so hard is how exposed the platform itself is. Jutting out from the fortress, no real, proper walls to protect the defenders, it’s like we’ve made life easy for the monsters attacking us on purpose. Which we have, kind of. Without us here to defend the intakes, they’d be destroyed in minutes.
+
+Every moment that passes, I can’t help but be aware of the tremendous amounts of power thundering through the channels beneath my legs. It’s an absurd volume of mana, all of it being funneled inside the fortress and fed to the waiting wuffers. Without that energy, the cleansed mana that keeps the platform safe for us to stand on would be overwhelmed in an instant.
+
+The grind is relentless, but this is the fate of everyone who tries to fight against the wave. Still, unless things take a significant turn for the worse, we should be able to hold out here for a long time yet.
+
+Wait?! I didn’t just jinx myself, did I? Surely not. It takes more than that to tempt the fates… right?
+
+After a minute passes, I start to relax again. I think I’m fine. May as well see what the Templar are up to, since they’ve come back down to join me. My loyal defenders have been hard at work, increasing their abilities and gaining Levels. All of them have unlocked some new Templar abilities, and some of them are closing in on the Level cap which will then give them a chance to advance the Class into something more powerful. Hopefully. I’m looking forward to seeing what comes of it.
+
+Now, where’s that big lad, Jern gotten to? I mean, I can sense his position, obviously, but I need to shift a little to get an eye on him. Oh, he seems to have collapsed on the ground. Well, the healers are moving him out of there, so hopefully everything is fine.
+
+What about Alis? She’s down here too, throwing fireballs about the last time I saw her.
+
+Aha. She has also collapsed. Wow, so weird. It’s kind of like someone put a massive jinx on the situation; how else could you explain this terrible string of bad luck?
+
+Hahahahaha. Well. It’s fine. Everything is fine.
+
+The kids are behind me somewhere, I’ll just turn around and see them working away, getting ready to yell at me for not sleeping enough—aaaaaaaand they collapsed too.
+
+DAMMIT.
+
+What the heck is happening to the Templar?
+
+Perhaps it goes to show how distracted I was, but it's only in this moment that I realise I can feel something weird going on in my Nave. Whipping my consciousness in there and trusting my body to the sub-brains, I look around the cavernous space connected to the Vestibule and try to see just what the heck is going on in here.
+
+When I look for the golden statues of the Templars, I don’t see them! Well, not at first. A moment later, I realise they’re still here, just not standing still in their usual places. Instead, they’re running all around the Nave! What the heck?!
+
+[What’s going on in here?] I demand, watching as the six of them run wildly through the space.
+
+[It’s an invasion!] Bertran announces. [You’re under attack!]
+
+I’m WHAT?!
+
+How can I be under attack and not even know it? Bewildered, I cast about, trying to work out what’s going as the Templars continue to run wild.
+
+[Got one!] Alis shouts in triumph.
+
+In her form as a golden warrior, she leaps forwards and snatches up something that I can’t see. The moment she lifts it, I realise she has a wriggling, writhing critter that looks like a cross between a slater and a crab in her grasp.
+
+She concentrates, and a golden light flashes, obliterating the creature completely. So wait… my Nave actually can be attacked? Then who or what is attacking me?!
+
+I’m still so confused!
+
+[Why are you using your hands?] I demand of Alis. [Can’t you burn them with fire?]
+
+[Our spells and abilities don’t seem to work here, wherever we are,] she replies, haring off to chase another intruder that I can’t see. [Don’t worry, we’ve got this!]
+
+I hope so, since I can’t do a dang thing about it!

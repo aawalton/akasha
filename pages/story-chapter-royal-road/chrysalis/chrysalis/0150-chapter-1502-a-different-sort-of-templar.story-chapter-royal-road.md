@@ -1,0 +1,109 @@
+---
+id: a188cbca-fcf7-5263-81b5-65e9cde6fb91
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1502 - A Different Sort of Templar"
+slug: 0150-chapter-1502-a-different-sort-of-templar
+partOf: chrysalis
+position: 150
+ownLength: 1079
+unit: words
+ownProgress: 1079
+publishedAt: 2025-02-05
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2048449/chapter-1502-a-different-sort-of-templar"
+royalRoadId: "2048449"
+markedReadAt: "2026-06-29T19:48:38.933Z"
+---
+
+Standing nearby is an odd-looking fellow. He’s a lot older than the others. Allison, Trean and Emilia are the youngest, and from what I gather, they’re about as young as a person can be and get a Class. I haven’t asked anyone exactly what age that is, and nobody has told me… so if I were to guess, they’re… fourteen? Twelve?
+
+I don’t know! It’s been ages since I was a human, I barely remember what I looked like back then!
+
+They’re young. Done.
+
+Alis and Jern are definitely older, fully grown, probably. Twenty… ish.
+
+But this guy, this guy is like… old. Proper old. Knee-pain old. If I were to guess….
+
+I don’t have to guess, dammit!
+
+[Hey. How old are you?] I ask him through the Nave.
+
+The old guy jumps and looks around, perplexed, then looks up at me and points a finger hesitantly.
+
+[Yes, it’s me talking,] I confirm. [Hi, I’m Anthony.]
+
+[Oh! Uh. You can hear this? My thoughts?]
+
+[Sort of. If you think an answer at me, I’ll get it.]
+
+[Oh. Well. It’s nice to meet you,] he executes a rustic sort of bow. Clearly unused to performing such an act. [My name is Bertran. Bertran Gerond. My friends call me Bert.]
+
+[Nice to meet you Bert! How old are you?]
+
+[Ah! Right. I’m fifty-two. Is… is that a problem?]
+
+He looks nervous and starts fiddling with his coat as he stares up at me. That coat looks like it’s just about as old as he is; I feel like it’s more patch than coat at this point.
+
+[Why would it be a problem? It’s totally fine, I was just curious. It’s getting hard for me to work out how old people are, and I was genuinely unsure with you. Thanks for filling me in.]
+
+[Ah… well, it’s not a problem. I mean, you’re welcome.]
+
+He gives me that weird bow again, and I poke him with an antenna, straightening him back up.
+
+[No need for that. Who even told you that was necessary? Was it Beyn?]
+
+[Who? Is that the priest? No, he didn’t tell me to do it. I just thought some sort of respectful… gesture, would be the done thing when meeting… you know.]
+
+[An ant? We don’t need anyone to bow at us.]
+
+[Well, no. I suppose you wouldn’t. But you in particular… aren’t just an ant, I suppose?]
+
+He seems to be hinting at something but is clearly unwilling to spell it out directly. I have to think for a minute before I realise what he’s getting at, then I slump over.
+
+[I’m not a god,] I declare flatly. [Did Jern get you onto that? Or Alis?]
+
+[Oh, well, they might have mentioned… a few things. I suppose.]
+
+He looks decidedly uncomfortable, so I don’t bother correcting him any further. I can’t control what people think… although… no. No, I don’t think any more thought down that particular line will be a positive experience for anyone. I cannot control what people think, so I’ll just have to leave these silly beliefs well enough alone.
+
+I mean, how do I even prove I’m not a god? Clearly, just saying that I’m not isn’t enough, and now I’m out of ideas! I push the topic to the side and focus on Bert.
+
+[Did you go through the training with the Nameless?] I ask him. [How did you find that?]
+
+He nods and starts signing at me.
+
+Quite difficult. Sorry… haven’t been… learning this for long.
+
+Not to mention it looks like your joints are causing you a bit of pain. Although, I’m super impressed he picked it up so quickly.
+
+[No need to use that. Just think at me, but feel free to keep learning it if you want. You can practice with the three young ones, they’re super fluent.]
+
+[I will, then, I suppose. It’s interesting learning new things.]
+
+Looking at him closely, which isn’t something I do with people much anymore, the details are all kind of fuzzy. To me, all humans pretty much look the same, with a few notable exceptions. Bert has a weathered face and scratchy-looking grey stubble over his cheeks and chin. He doesn't really look like someone who’s had an easy go of life.
+
+[What did you do before you found yourself a Templar, Bert?]
+
+He scratches at his cheek, looking a little bashful.
+
+[Well, not much. I was a sort of… tinker, I suppose. Fixing pots and pans, cleaning drains, repairing this and that, whatever needed doing, really. I wandered from town to town picking up whatever work I could. Found Renewal after the… thing… and started helping out around the Temple.
+
+[I was cleaning up one of the statues when I got the Class notification. Didn’t know what it was, so I asked one of the priests, and the poor fellow passed out on the ground in front of me. I went to find another priest to help them, and when I explained what happened…]
+
+[They passed out as well?]
+
+[Was quite upsetting at the time. I knocked out half a dozen members of the clergy before I found a lad shining shoes who ran off to find some healer ants. It took a while, but eventually they brought me down and the Nameless took me to the Sanctum.]
+
+With difficulty, he performed the eightfold genuflection.
+
+[When they were done with me, they sent me here.]
+
+Not exactly the path I would have expected, but then again, I have no idea what causes a person to become a Templar. Nor do I understand why they’re all human. Perhaps there isn’t a reason and it was just random chance? At least the others made a little more sense.
+
+The three kids were basically raised by the Nameless to be fanatically devoted and trained to an extraordinary level. They can do things most people simply can’t.
+
+Jern and Alis had a more normal upbringing, right up until they joined a crusade and fought their way through two strata and a dozen cities before being made Templars.
+
+Bert seems like a nice guy who was just minding his own business when the system picked him up and threw him into the Dungeon. I almost feel bad, but then it’s not like I did anything. This is all Gandalf’s fault!
+
+[Well, it’s nice to meet you, Bert,] I say, extending an antenna for him to shake. [How good are you at killing giant sludge monsters?]

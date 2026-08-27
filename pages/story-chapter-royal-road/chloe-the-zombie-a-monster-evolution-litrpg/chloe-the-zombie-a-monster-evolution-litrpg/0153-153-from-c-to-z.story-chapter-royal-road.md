@@ -1,0 +1,141 @@
+---
+id: bec3fc14-989f-5ec2-98e0-7359488cbd9c
+page-type-slug: story-chapter-royal-road
+title: "153: From C to Z"
+slug: 0153-153-from-c-to-z
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 153
+ownLength: 2048
+unit: words
+publishedAt: 2026-05-18
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3414002/153-from-c-to-z"
+royalRoadId: "3414002"
+---
+
+Oh yeah, Chloe was absolutely feeling herself. The power building between her hands made the air crackle, and it was soooo going to hurt. This was the kind of moment she lived for, standing there with way too much energy gathered in her palms and a very punchable enemy right in front of her.
+
+She was pretty sure the blood guy had called himself Morpheus or Morphey or something dramatic like that, but Chloe had already decided she was just going to call him Morphy because it was shorter. If someone chose a villain name with too many syllables, that was kind of their own fault.
+
+“Eat this, Morphy!”
+
+Chloe thrust both hands forward, and the mass of divine energy between her palms exploded outward in a roaring beam of golden light. The beam hit Morpheus head-on before he could fully react, swallowing him in a storm of raw divine power.
+
+Stone shattered beneath the beam’s path and dust blasted outward in every direction. When the light finally thinned enough for her to see again, a good chunk of Morphy was just… gone. His upper body had been blown apart from one side, flesh and bone erased in a ragged line where the blast had carved through him, leaving only smoking remains and dripping scraps still attached to what was left.
+
+“Ohhhh, that was nasty,” Chloe said, sounding very impressed with herself.
+
+Since Morphy was all torn to bits, Chloe then ran over to Z, who was still recovering from the blood-control nonsense, and grabbed her by the arm to help pull her upright. Chloe puffed her chest out immediately after, grinning so hard because of her sheer awesomeness.
+
+“Did you see that?” Chloe asked, gesturing wildly toward the half-destroyed villain. “I absolutely folded that guy."
+
+Z steadied herself, adjusting her glasses with one hand as she regained her footing, though her expression stayed far calmer than Chloe felt was appropriate for witnessing greatness.
+
+“You did alright,” Z admitted.
+
+“Alright?” Chloe repeated, scandalized. “That was art.”
+
+Z’s eyes shifted past her shoulder. “Chloe, I would recommend not celebrating yet.”
+
+Chloe turned to face Morphy, and uh, it did look like he was already regenerating. Dark red flesh crawled across the missing parts of his body like living wax, muscles knitting themselves back together while bone reformed beneath it with wet cracking sounds. And in a few seconds, Morphy was all patched up and looked ready for round two.
+
+“Oh, come on.” Chloe muttered.
+
+Morpheus straightened as the last of his shoulder and chest reformed, then rolled his neck with a sickening series of pops. He looked down at himself, then up at them, and slowly began to laugh. “You truly believed such a meager display would end me?” he said, voice echoing through the chamber. “I am Morpheus, master of blood, sovereign of the flesh, the architect of forms—
+
+“Boooooo!” Chloe yelled, cupping her hands around her mouth.
+
+“Boooo! Too long! Weird speech! Bad pacing!”
+
+Z closed her eyes for a second, and shook her head. Morpheus’s face, on the other hand, twitched. “You insolent little corpse—”
+
+With a furious snarl, Morpheus thrust both hands outward, and the pools of blood scattered across the chamber suddenly surged upward. Thick streams rushed together from every direction, twisting and combining into a massive crimson tide that rose higher and higher. The wave swelled above the arena floor, heavy and unnatural, before it came crashing toward Chloe and Z. If that thing reached them, it would bury them completely.
+
+Chloe did not need extra time to think about that. She grabbed Z by the wrist immediately. “We gotta go, now!”
+
+Z took one look at the incoming flood and nodded. “Then we should fly."
+
+“Great idea, wow, love that for us.”
+
+The blood tide slammed into the space where they had been standing just as both of them moved. Chloe manifested her wings in a burst of dark energy as she kicked off the ground hard enough to crack the stone beneath her feet. Beside her, Z’s own wings unfolded in a flare of radiant light, and they shot upward together.
+
+The wave thundered beneath them, smashing across the floor and spreading in every direction as blood rapidly filled the lower half of the chamber. Chloe beat her wings hard, dragging Z higher as the ceiling rushed closer above them. Blood splashed below, crashing against the walls and flooding the arena until the entire room looked like a nightmare ocean of red.
+
+“Okay!” Chloe shouted, glancing down with visible disgust. “This has to be one of the grossest things I've seen so far, and that's saying a lot!"
+
+“I have to agree that this is rather disgusting,” Z said, hovering beside Chloe.
+
+Below them, the sea of blood continued to churn and crash against the walls. Chloe and Z hovered near the ceiling as they searched for an opening, but the moment Chloe glanced downward again, she saw how Morphy was standing in the middle of all that blood, looking extra smug. Oh I don't like that face at all.
+
+Then, Morpheus spread his arms wide, and the massive tide beneath him bulged upward in two separate places, swelling fast as huge shapes pushed through. The chamber shook as the liquid rose higher and higher, stretching into long necks, broad skulls, and snapping jaws lined with jagged fangs. Wings unfurled from their sides in ragged sheets of dark red fluid, each flap sending sprays of blood through the air.
+
+Two enormous dragons made entirely of blood burst upward from the sea below, roaring so loudly the sound shook dust from the ceiling. Their eyes glowed inside hollow sockets, and their bodies twisted through the air with terrifying speed despite being formed from liquid.
+
+Chloe’s eyes widened. Uh oh!
+
+The first dragon lunged straight for them, jaws opening wide enough to swallow both her and Z in one bite, while the second coiled upward from the side, circling to cut off any easy escape.
+
+Much as Chloe wanted to help both herself and Z, surviving came first. She kicked backward hard, throwing herself out of the first blood dragon’s path, then thrust both hands forward as lightning burst around her arms.
+
+A huge, beautiful bolt of lightning blasted from her palms like a cannon shot. It slammed straight into the dragon’s face with a thunderous crack, blowing through its skull in a spray of boiling blood and shattered energy. The top half of the head simply vaporized in a flash of light.
+
+For a second, the rest of the dragon kept flying as if nothing had happened. Then its body lost shape all at once. The long neck folded inward, the wings melted apart in the middle of a beat, and the whole monster collapsed into a crashing wave of loose blood that rained down into the sea below. Thick red liquid splashed across the surface and vanished into the tide.
+
+Chloe smiled at the sight. Yay, that worked!
+
+She turned just in time to see how Z handled the second blood dragon rushing toward her. The creature looked like it was already going to swallow Z in just a few seconds.
+
+But Z just flew back a bit, then she raised a hand as golden lightning gathered around her fingers. A thick spear of divine lightning shot forward so quickly Chloe almost missed it. It struck the dragon in the chest, and the energy spread through the entire body at once. Branches of gold raced through its neck, wings, tail, and every drop of blood that held it together. Soon, the whole creature shone from within like a lantern made of glass.
+
+Then it exploded into steam and red mist. Chloe stared in silence, her mouth hanging slightly open. Wow. That was just... yeesh.
+
+If she was being honest, she did feel a little jealous at how awesome Z looked as she defeated that dragon. But then again, Z was probably way stronger than her anyway, on account of being an administrator and all that mysterious important nonsense. It would have been weird if Chloe had already been stronger.
+
+“Nice shot,” Chloe called out.
+
+“Thank you, but we are far from done here." Z said.
+
+With both dragons gone, Chloe hovered in place and looked around the chamber. She expected to see Morphy standing somewhere in the blood below, maybe preparing some smug speech, but he was not there.
+
+She spun in the air and pointed dramatically at the blood sea below. “Alright, Morphy! Show yourself!"
+
+Z shot a look at Chloe. "Morphy?"
+
+"Oh, the blood guy we're fighting is named Morpheus, I'm calling him Morphy for short though."
+
+"I… I see."
+
+"What? It's nice and convenient."
+
+Z just sighed. "Let's just focus on finding the man."
+
+Chloe and Z swept through the chamber, flying in above the dark sea of blood while searching for any sign of Morphy. Chloe darted ahead, then veered sharply to one side, checking corners, ledges, and the shadows between the massive bone pillars.
+
+“Alright, gross blood wizard,” she called as she flew, hands cupped around her mouth. “Come out so I can punch you!.”
+
+Z of course did her own fair share of searching, though she was a lot calmer and quieter about it. Anyway, Chloe dropped lower, skimming close to the blood sea until the thick red surface reflected her face back at her in warped ripples.
+
+“Ew,” she muttered, then rose again and drifted behind one of the largest pillars. She leaned around the side and called into the darkness. “Helloo? Creepy blood loser? You hiding back here?”
+
+She didn't really get a response, and Chloe was ready to just call it quits and maybe take a break for a while. That was, until Z’s voice cut through the air. “Chloe, watch out!”
+
+Chloe did not ask questions and just flew towards Z as fast as possible as the blood sea below churned violently. Columns of blood shot upward like spears fired from giant cannons. Thick streams tore free from the surface, dragging long ropes of red liquid behind them while more blood surged upward to feed the attack.
+
+“RUDE!” Chloe yelled.
+
+One surge tore past her face so close she felt the wet spray against her cheek. Another streaked by her shoulder and smashed into the pillar behind her hard enough to crack stone and shower the air with broken fragments. A third came straight for her chest.
+
+She threw out one hand and called her power without even thinking. Golden light burst outward in a curved shell just as the strike slammed into it.
+
+Her divine barrier blocked the blood surging at her. Each strike splashed across the glowing shield, hissed on contact, and slid away in steaming streaks. Chloe stared for half a second, then broke into a grin wide enough to be annoying. Whew, glad I had this.
+
+When Chloe glanced toward Z, she felt relieved. Z had raised her own divine barrier as well. Blood crashed against it and burst apart in every direction, scattering red spray through the air.
+
+More surges launched from below, faster now and rising in clusters. The chamber filled with whipping streams of blood that twisted through the air like living lashes. Chloe darted between them, flying in a path that looked stupid but somehow worked perfectly. Then, all at once, the attacks stopped.
+
+The last streams lost shape and fell away in wet splashes, raining back into the pool below. Chloe hovered in place, breathing hard and looking deeply offended by the entire experience. The blood sea had changed.
+
+Its surface had sunk several feet, the level dropping enough to expose dark stone ledges around the chamber walls. Vast amounts of blood were simply... gone.
+
+Chloe slowly looked up and remembered that this was the real part of the boss. The true, second stage of the fight.
+
+Morphy hung high above them near the ceiling. The missing blood had rebuilt him into something far larger and far worse. Massive wings of dripping crimson spread from his back. Curved horns rose from his skull, slick and jagged like carved bone. A long tail lashed behind him, barbed at the end and trailing droplets through the air. This was definitely going to be trouble.

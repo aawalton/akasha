@@ -1,0 +1,163 @@
+---
+id: 297d81e9-b5e4-5110-9324-bd497719728b
+page-type-slug: story-chapter-royal-road
+title: "157: Reflections"
+slug: 0157-157-reflections
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 157
+ownLength: 2147
+unit: words
+publishedAt: 2026-05-27
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3453643/157-reflections"
+royalRoadId: "3453643"
+---
+
+Now that she actually stopped to think about it, Chloe realized something kind of weird, and it made her squint a little as she stared at Z. Sure, Z had done those tiny little chuckles sometimes, the polite, barely-there kind, but a real laugh? That felt new, or maybe Chloe had just forgotten, which, okay, was also very possible.
+
+Z laughed for a few seconds longer before finally calming down. "You look surprised, Chloe."
+
+"Well duh, you're normally so serious you know?" Chloe said.
+
+“I am capable of laughter, yes. It is simply not something I do often.”
+
+“Uh-huh,” Chloe said, clearly not convinced, but also not that interested in pushing it further.
+
+Her attention already started drifting, because honestly, there were way more important things to worry about. Like the part where they might get tracked and obliterated or whatever. Her expression shifted as she pointed vaguely at the laptop. “Okay, but like, real question. You sending messages to Divinity Inc. from all the way down here? Is that gonna be a problem for us or not?"
+
+Z just tapped a few more keys on her laptop. “Of course I have already taken precautions.”
+
+"What kind of precautions?"
+
+“The connection is being routed through multiple layers, masked and disguised within system noise. Any attempt to trace it will lead nowhere meaningful.”
+
+Chloe stared at the screen for a second, then slowly leaned back. “Uh, so we're fine?"
+
+“In simpler terms,” Z continued, “no one will be able to track us through this method.”
+
+“Oh, nice."
+
+“Don't worry, I will ensure that your evolution is completed safely.”
+
+"Oh, nice."
+
+So it seemed like they weren’t about to get hunted down and deleted, and that was good enough for her. Chloe stretched a little to pass the time. Meanwhile, Z just kept typing, pausing every now and then for whatever reason.
+
+Then, without really looking up, Z spoke. “You should step back a little.”
+
+Chloe blinked. “Huh? Why?”
+
+“I am about to initiate your evolution."
+
+Chloe perked up instantly as she scrambled to her feet and shuffled back a few steps, maybe a bit more than necessary just in case things turned bad. “By the way, which insider did you even get to help you? Like, do I know them? Are they cool? Are they evil? Should I be worried?”
+
+Z finally glanced up. “You will likely see him soon enough.”
+
+"What? Can't you just tell me—"
+
+“Prepare yourself, we're going to begin in three… two… one…”
+
+Chloe braced herself immediately, shoulders tensing as she expected something big, like a beam of light crashing down on her or some glowing circle or at least a cool sound effect. Instead, everything just went black.
+
+[Evolution Confirmed]
+
+[Initiating Evolution Sequence]
+
+***
+
+Normally, whenever those evolution notifications showed up, Chloe would get pulled into that same weird, empty space. Then, after a second or two, she’d open her eyes and Z would already be ready to help her out with evolving. Of course with Z no longer being administrator, she wasn't sure what to expect now.
+
+When Chloe opened her eyes, everything dropped back into darkness just like before. There was no ground she could really see, just a quiet void stretching out forever in every direction. Nobody was there either, which, okay, was kind of expected, though a small part of her wondered if that mysterious “insider” was supposed to show up or something. Chloe tilted her head, slowly turning in place as she scanned the nothingness around her.
+
+“Helloooo?” she called out.
+
+Her voice echoed over and over, but nobody answered back. There was no Z, no floating notifications, no instructions, nothing. It was just her, standing in the middle of absolutely nowhere, left to figure things out on her own.
+
+Chloe shrugged to herself. Standing around doing nothing was boring, and if there was one thing she refused to do, it was be bored in a creepy void. So she started walking, although she didn’t really have a destination in mind, but it wasn’t like there were signs pointing anywhere, so she just picked a direction and went with it. After a while, though, something finally changed.
+
+A faint light appeared in the distance. Chloe perked up instantly, then broke into a quicker pace toward it. The closer she got, the clearer it became, a single beam of light shining down from above onto something below.
+
+“Oh?” she murmured, slowing just a bit as she squinted ahead.
+
+What she saw in front of her was this super realistic looking statue, except it was a statue of her from the looks of it. This version of her wore a deep purple cloak that draped over her shoulders, while black streaks ran down from its eyes, like thick, inky tears that never quite dried, giving it a creepy, almost unsettling look. And then there was the smile, wide and sharp, the kind that supervillains liked to show before unveiling their grand plan.
+
+That's actually pretty sick! Chloe thought to herself.
+
+On either side of it stood two massive figures, armored from head to toe. They looked like death knights, but way bigger and way more intense than the ones she’d seen before. Their armor was thicker, and the weapons they carried were just as over-the-top, huge blades that looked like they could cleave through anything like butter.
+
+Chloe slowly nodded to herself. Yeah, alright, I see the vibe.
+
+She guessed this had to be one of her evolution options, like a preview or something. Honestly, it looked cool. Probably came with a bunch of flashy powers too, and as if on cue, a notification popped up in front of her.
+
+[Necrolord Sovereign Zombie]
+
+Chloe stared at it for a second, waiting for more information to show up, but… nothing else came. Still, she could take a guess. It probably turned her into some kind of super zombie necromancer, bossing around undead armies and looking all cool and extra villainy while doing it.
+
+But she scratched her head as she thought about it. With her old memories back, the whole “full zombie overlord” thing didn’t really appeal as much as it might have before. Because well, she's not really evil, at least in her view. And while having some idiots to boss around seemed kinda nice, she wasn't really about that life, or uh, unlife.
+
+“Eh… pass,” she said with a shrug.
+
+With that, she turned away from the figure and headed back into the darkness. The weird thing was Chloe already made up her mind as to what evolution she wanted, but she supposed the System still required her to go through all the available options first.
+
+She wandered again, hands loosely at her sides, kicking lightly at nothing as she walked. The void stretched on forever, quiet and empty, but now that she’d seen one of those weird statue-things, she had a feeling there were more hiding out there somewhere. Sure enough, after a bit more walking, another faint glow started to bleed into view up ahead, softer this time.
+
+Alright, here's round two. Chloe thought as she rushed towards the light.
+
+Honestly, the light here felt different, like a dull beam that kind of blurred at the edges. When she got close enough, she squinted slightly as the shape beneath it came into focus.
+
+This version of Chloe wore a gray cloak that seemed to drift and curl like it wasn’t fully solid, the edges dissolving into thin wisps of mist that faded into the air around her. Her entire body looked like that of a ghost, and parts of her body flickered as if she could disappear at any second.
+
+Chloe leaned in a little, eyes widening. “Whoa…”
+
+There was something about this one that felt different.The way the mist shifted around her, the way the space itself seemed to bend just a little too easily, like she could grab things without even touching them. This version of her looked like it would be perfect for stealth.
+
+[Soulshatter Phantom Zombie]
+
+Chloe stared at the name, then back at the figure, then back at the name again. She had no idea where the 'Soulshatter' part of this evolution came from, but boy did it sound very cool.
+
+She paced a small circle around the statue. It was clear enough that this evolution was all sneaky, floaty, probably super hard to hit. Chloe was really tempted by this option, and she got really close to picking it.
+
+Her fingers twitched slightly at her side as she stared at that misty version of herself. But then, her expression tightened just a little as she leaned back, crossing her arms.
+
+"Nah," Chloe said. She’d already made up her mind.
+
+As cool as this evolution was, and it was really cool, she wasn’t going to change her choice now just because something shiny showed up. That would be lame. And Chloe was many things, but she was not lame.
+
+“Ugh, you’re so tempting though,” she added, pointing accusingly at the statue.
+
+Still, after one last long look, she turned away, forcing herself to walk back into the darkness. It was time to go for the real prize.
+
+Chloe walked for a while after that, hands shoved into her pockets as she kicked lightly at the empty ground that may or may not have even been there. Her mind kept drifting back to that last statue, the mist, the power, the way it just felt right… and she had to physically shake her head to stop herself from turning around.
+
+“Nope. Nope, we’re not doing that,” she muttered, dragging a hand down her face. “No take-backs."
+
+She took a few more steps forward until she saw another light. Except, this one was brighter.
+
+Not harsh like the first one, not hazy like the second, but something in between. Chloe’s eyes narrowed slightly as she stared at it from a distance.
+
+She approached more carefully this time. The closer she got, the more the light wrapped around her, warm but not entirely comforting, quite the opposite actually, she felt a little weirded out.
+
+And then she saw it, and this version of her hit different in a way she wasn’t ready for. A deep red cloak rested over its shoulders, rich and striking. And behind it were wings, real angelic wings, large and white and fully feathered. They spread outward, proud and steady, like something straight out of a storybook. Chloe just stood there staring at them like her brain had completely stalled out.
+
+But then her gaze drifted upward, and that was when things shifted. The eyes were golden, bright and shining, but not in a warm or comforting way. They gleamed with something sharp, something intense, like they could see straight through everything without even trying, and the longer Chloe looked, the more it felt like those eyes were looking right back at her. Something twisted faintly in her chest, not fear, but close enough that she couldn’t just brush it off. Okay, that’s a little scary.
+
+[Divine Harbinger Zombie]
+
+Her gaze drifted back to the wings again, and she couldn't help but feel this deep sense of yearning. This evolution still wasn’t exactly what she used to be, but it was closer to an angel than anything else she’d seen so far.
+
+Chloe took a small step forward, her gaze softening as she looked up at that version of herself again. “If I pick this… maybe… one day…”
+
+She trailed off, the rest of the thought fading before she could finish it, but she didn’t really need to say it out loud to understand what she meant. Even if this didn’t turn her back into a real angel, even if it was just an imitation, just something that looked the part without truly being it, it was still something she could hold onto, something that felt a little closer to who she used to be.
+
+And honestly, if she couldn’t be the real thing yet, then she could at least fake it really, really well. Yeah, I'm picking this one.
+
+The only problem was Chloe wasn’t really sure how she was supposed to pick her evolution this time. Uh… what do I do?
+
+But as she thought about it more, there was this small feeling in the back of her mind, like a quiet push telling her what to do. Touch it.
+
+Chloe blinked, then looked back at the figure. Alright, sure, why not.
+
+She stepped forward, slower than usual, and reached out. Her fingers brushed against the red cloak, and the moment she touched it, she felt a strange warmth spread through her hand.
+
+“Okay, that’s kinda—”
+
+Before she could finish, a bright light burst out from where she touched it. The glow spread instantly, flooding her vision and swallowing everything around her until there was nothing left but white.

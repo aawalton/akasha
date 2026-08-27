@@ -1,0 +1,73 @@
+---
+id: ff6090a3-47c4-55d9-806d-a32985b88e67
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1664 - Shifts in the Sanctum Part 1"
+slug: 0313-chapter-1664-shifts-in-the-sanctum-part-1
+partOf: chrysalis
+position: 313
+ownLength: 1023
+unit: words
+ownProgress: 1023
+publishedAt: 2025-10-10
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2664708/chapter-1664-shifts-in-the-sanctum-part-1"
+royalRoadId: "2664708"
+markedReadAt: "2026-06-29T19:53:49.430Z"
+---
+
+Legends say that Horgran the Butcher is sustained by slaughter, that the fields of death left in his wake are all that he needs to survive. The Hatchet Cult are… difficult to work with, even for a group accustomed to affiliating with the deranged and demented. Glorifying acts of butchery, they certainly know how to serve a good steak, obsessing over meat to an entirely unhealthy degree.
+
+The Ancient they deify has no such concern for the thing he cuts apart. Those who dream of Horgran are swept into a whirlwind of red-stained metal and hunks of flesh.
+
+The Iron Sands now stand in the place where the Ancient rose to the surface. Even now, blood still stains the ground there. Perhaps it always will.
+
+-           Excerpt from ‘Collective Wisdom of the Cults’ by Granin Lazus
+
+The nameless one looked down on her handiwork, pleased with the result. This carver had been working in a mine for three days straight. Obsessed with removing and sorting ores, she had evolved and mutated herself almost exclusively for this purpose. As a result, she had become able to smell rare minerals and her mandibles became excavation tools without peer, capable of shearing through stone and scooping out the precious metals within. She even had glands that modified her acid to attack stone and leave other minerals behind.
+
+Despite being so productive in her allotted shift, she had become addicted to unearthing metals, refusing to rest, ignoring food, driving herself to the point of exhaustion. Luckily the nameless had been able to seize her before it was too late.
+
+Now, the carver rested, tucked into an ant-shaped bed, covered by a knitted blanket with an image of the Eldest snoozing stitched into the middle. Her carapace gleamed from the wax and polish. Her antennae sparkled after being combed and treated, the fine hairs cleaned and treated to remove dirt and harmful oils, then nourished with a lotion of nameless design. Under one leg, the carver held a small toy version of Solant, the general looking cool and composed as always.
+
+After this, the carver would think twice before defying the will of the Eldest. The shame would burn within her for weeks, driving her back to the torpor chambers as regular as clockwork. Rested and clear-thinking, her work would improve, and perhaps she would eventually realise that the Eldest’s way was the correct way.
+
+Disturbing to think she hadn’t been able to appreciate such an obvious thing from the moment she was born. It was… almost heretical.
+
+Nevertheless, the nameless had finished her task and soon it would be her time to rest. First, she must report the completion of her work.
+
+Moving through tunnels of pure darkness, she ran with ease, following the twists and turns without a single misstep as she navigated her way through the Sanctum.
+
+When she eventually found her way to the antechamber, she approached the acolyte of duty.
+
+The Eldest rests, she signed.
+
+Eight hours a day, the acolyte signed back.
+
+They performed the eightfold genuflection with proper reverence before moving on to discuss the matter at hand.
+
+The sleepless stone miner is sleepless no more, the nameless reported, to which the acolyte nodded, pleased.
+
+This is pleasing to the Shadow. That one shows great promise and dedication, but must learn to follow the wisdom that has been placed in front of her. You have done well.
+
+The nameless one nodded, well satisfied with the completion of her task.
+
+Is there another duty for me to complete before I take my rest? she signed.
+
+There is a gathering of the nameless who have achieved your rank taking place in the seventh hour. I advise you to attend.
+
+A meeting? The nameless were a ruthlessly organised group and held rigorous meetings at the beginning of every shift, identifying targets, exposing areas of weakness and planning their future expansion. After all, as the Colony grew, so too did the demands on the Sanctum. However, something like this was most unusual, not least because rank was almost never brought up amongst them.
+
+I take it the Shadow has called this gathering? the nameless one signed.
+
+Indeed, the acolyte signed back.
+
+That would explain it. The Shadow rarely called for a gathering of the nameless, but when she did, it was always a portent of change. The last time this had happened was when the humans had been brought in for training.
+
+I will be there, she signed before turning away and scurrying out of the antechamber, making way for the next of the nameless to make her report.
+
+Back into the pitch black passages of the Sanctum she went, exchanging short, silent greetings with her sisters as she passed them. There were many within the passages today, but that was only to be expected. The fourth had grown extremely busy for the nameless as the Colony’s presence continued to grow in the stratum, requiring more and more of her sisters to relocate here to keep up with demand.
+
+Complacency grew quickly amongst her siblings, the nameless was sad to admit. If they were not diligent, then sleeplessness would spread throughout the nest like a disease. Despite her best attempts to focus on her duty, the nameless one couldn’t help but wonder what it was the Shadow had in store for them. As the founder of the order and most devoted follower of the Eldest, her word was law to the nameless, so whatever it was she asked, they would do. She had never steered them wrong, after all.
+
+Fortunately, the nameless did not have to wait long. With less than an hour before her own shift would end and she would go to rest, the meeting began. In a solemn room adjoining the grand resting chamber where the nameless took their torpor, a gathering of the oldest and most senior of the order took place.
+
+In the centre, a pool of shadow and darkness so complete as to be invisible even to the eyes of those who lived in shadow, yet as bright as a sun to their sense of darkness, the Shadow awaited.

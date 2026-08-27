@@ -1,0 +1,97 @@
+---
+id: c05fff88-238c-5b29-8a7c-3bbfacb640ed
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1382 - A Thought For Leeroy?"
+slug: 0029-chapter-1382-a-thought-for-leeroy
+partOf: chrysalis
+position: 29
+ownLength: 1037
+unit: words
+ownProgress: 1037
+publishedAt: 2024-07-31
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1738740/chapter-1382-a-thought-for-leeroy"
+royalRoadId: "1738740"
+markedReadAt: "2026-06-29T19:44:34.779Z"
+---
+
+These things seriously don’t want to become biomass so bad they’re going to reconstitute themselves from tiny chunks of goop?! How are they even alive?! I feel like I’m fighting the fifth stratum equivalent of Leeroy and the Immortals. Did this monster put all of its evolutionary points into cheating death?
+
+The individual blobs writhe and roll over the floor, leaving a sizzling trail of acid behind them as they go. My fellow ants are hesitant to engage, wary of spreading toxic mana throughout the safezone, whereas Tiny is enthusiastically smashing every bit of ooze he can see into ever smaller pieces. He doesn’t seem to be successful in actually finishing them off, though. No matter how small the pieces get, they start to pull themselves back together all the same.
+
+That doesn’t make any sense, there has to be a core in there somewhere. Well, I suppose there doesn’t have to be, but a monster that evolves without one is hardly going to be strong at all, no matter how far they go.
+
+Or perhaps cores can take a different form? I was offered an evolution that basically turned me into an insubstantial wisp of energy sort of thing. Where the heck would my core go in that body?
+
+I have to say, if we manage to find a way to finish these lousy things but don’t get a core out of it, I’m going to feel cheated.
+
+There are globs of these monsters all around me; in fact, some are even on me, having showered everywhere after my cataclysmic bite. The acid burns fiercely as they slowly crawl their way together, leaving slime trails on my precious carapace.
+
+I am having none of this!
+
+Time to spin up the omni-elemental construct! Soon enough, I have a powerful stream of water blasting myself clean and a roaring burst of fire attempting to cook the goop as they try to merge.
+
+Of course, it doesn’t work that well. The fifth seems to have known instinctively that burning everything here with fire would be most people’s reaction to seeing the place and has built in resistance accordingly. The more I attempt to burn the stuff, the less effective I’m sure it’s being. The outside of every chunk is being cooked, but inside? No effect, as if the slime hunks were sacrificing an outer layer to fireproof themselves.
+
+SERIOUSLY?! Just how resilient are these things? This is getting ridiculous.
+
+All around me, the goop piles are growing larger and larger as more of the masses pull themselves together. Limbs are starting to reappear, and soon enough, some of them will be whole again, as if I’d never hit them with an empowered void chomp at all.
+
+That’s the empowered VOID CHOMP! To think a monster exists who can just shrug it off as if it was nothing… I’m not happy about this, Gandalf! Someone is cheating the system! I call foul!
+
+Bah. There has to be a way to destroy these things, and I’m going to figure out what it is.
+
+I angle myself away from the Colony and the safe-zone, switching my regular fire to Dragon’s Breath.
+
+A superheated jet of almost-white fire blasts forward, instantly raising the temperature of the entire tunnel. Surely, this will cook those lousy chunks!
+
+This is more like exposing the monsters to a rocket engine than a flamethrower, a whole new scale of fire.
+
+And… it actually works! A bit.
+
+I manage to actually burn away some of the smaller pieces still wiggling their way back together, but the larger masses are able to resist. Even if I burn a third of them away, the inner core of slug-like flesh is protected.
+
+So frustrating!
+
+In another few seconds, some of them will be fully mobile again, and I haven’t worked out a solution. I suppose what I can do is make sure they aren’t a threat while we try to figure things out in the meantime.
+
+[Tiny, don’t worry about the little pieces, but when they get big enough, smash them apart again. I’ll try and figure out a way to finish them off.]
+
+[Fine…]
+
+Tiny has been happily rampaging away inside the purified mana, but he’s only made the problem worse, spreading toxic goo all over the place.
+
+We need to figure out a way to break these things down on a fundamental level….
+
+I could just bite them all into small pieces and burn them, but not everyone has access to dragon’s breath. In fact, only I do, so how is anyone else going to deal with them?
+
+I race around the battlefield, chomping away at every near-reformed monster. My mandibles slice through their bodies, but receive significant acid damage in return, which isn’t ideal. After cutting through a dozen of them and flinging the pieces apart, it’s going to take another minute or two for them to reform, but I can use that time to come up with a solution.
+
+[Invidia,] I ask desperately, [do you have any ideas on how to deal with these things?]
+
+The demon’s voice purrs in my mind, inordinately pleased.
+
+[Yesssssss, you can dependsssss on meee!]
+
+I mean… alright? I suppose I am at the moment….
+
+[They mussssst be dessstroyed by breaking apart their mana.]
+
+[That sounds completely exhausting. How long would that even take?!]
+
+Break them down, piece by piece, by attacking their mana? First of all, breaking apart the mana within a creature is hard. Second of all, fifth stratum mana is self-replicating. Could I even break one down faster than it repairs itself?!
+
+[There issss no need to breakssss them.]
+
+[Wait… You just said…]
+
+[There are creaturesssss here who sssspecialissse in doing thisss.]
+
+Is he… is he talking about the wuffers?
+
+[You want us to feed these monsters to the wuffers? Would that even work?]
+
+[It issss possssssible. It will be fasssster than doing it all mysssself.]
+
+That’s when I finally notice Invidia floating around inside the safe-zone, flapping his little wings every now and again to get a little more lift. Everywhere he goes, chunks are withering away and dying, but only the smallest ones. Even he is struggling to manage the larger pieces.
+
+[Alright, we’ll give it a go.]

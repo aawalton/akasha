@@ -1,0 +1,137 @@
+---
+id: 70185471-db73-5f25-b750-5c1237d2fb33
+page-type-slug: story-chapter-royal-road
+title: "156: New Normal (Start of Book 3)"
+slug: 0156-156-new-normal-start-of-book-3
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 156
+ownLength: 1952
+unit: words
+publishedAt: 2026-05-25
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3444243/156-new-normal-start-of-book-3"
+royalRoadId: "3444243"
+---
+
+Administrator L rubbed his face with both hands and let out a breath as he stared at the glowing screen in front of him. Ever since his last confrontation with CEO Y, his world had shrunk to this single room. His permissions had been cut down, his access restricted, and he had not been allowed to leave the building at all.
+
+Technically, his current situation was illegal. Very illegal, actually.
+
+But this was Divinity Inc., and there was no judge in heaven bold enough to challenge them in court. Even if L filed a case, which he could do in theory, the process would drag on for years and it would bleed him out in both money and spirit.
+
+So for now, he was forced to stay and work under strict supervision. L lowered his hands and leaned back slightly, his chair letting out a quiet mechanical adjustment as it supported him. His eyes drifted away from the screen and moved around the room that now served as both his office and his overly polished cage.
+
+The walls were polished to a soft shine, decorated with warm pastel colors and gentle lighting. Framed posters hung at even intervals, each one showing such wonderful messages such as: Work Hard, Play Hard,  Excellence Is a Choice, Your Potential Is Infinite.
+
+L stared at one of them for a moment, then slowly looked away. Only the worst kind of corporate drone would ever genuinely believe in such phrases in the work place, no matter how many affirmative responses HR receives about how "pleased" the employees are with these posters.
+
+Beneath all the cheerful slogans and carefully arranged furniture, the real problem was impossible to ignore, no matter how polished or welcoming the room tried to appear.
+
+The cameras were everywhere. Some were obvious, small dark lenses set neatly into the ceiling that quietly tracked his movements, but others were far more subtle, hidden in places that would go unnoticed unless someone already knew to look for them. Tiny lenses were tucked into the corners of picture frames, buried behind smooth glass panels, or built directly into the fixtures themselves. A decorative clock on the wall had a perfectly centered lens disguised within its face, and one of the plants on the shelf had leaves arranged just a little too carefully, just enough to conceal a faint blinking light. Even the motivational posters hid small black points.
+
+L let his gaze linger on one of them for just a moment longer than necessary, before he leaned forward again and returned his attention to the glowing screen in front of him and began typing.
+
+For now, this was his world. And he continued typing, though there was very little actual work to be done. Ever since the Great Game had been placed on hold, most of his responsibilities had been significantly reduced, leaving behind a few routine tasks that barely required his attention. Officially, the system listed the situation as “under maintenance,”. In reality, upper management had shifted their focus toward dealing with Ishgria first, which meant everything else is less of a priority.
+
+And that left him with too much time. Minutes stretched out into long, empty hours, and even someone as composed as L could only pretend to be busy for so long before the lack of activity really started to dull his mind. Eventually, out of sheer boredom more than anything else, he opened his inbox and began clearing through his spam folder, deleting one meaningless message after another without much thought.
+
+Most of them were exactly what he expected. Automated notices, system errors that had already resolved themselves, strange offers about "hot devils in your area" that no rational entity would ever accept.
+
+Then he stopped as one particular message stood out. The sender’s address was a jumbled string of letters and symbols that did not match any recognized domain, nor did it follow any known structure. It looked like nonsense at a glance, nothing really worth more than a few seconds of attention.
+
+By every rule he knew, he should have deleted it right away. But he didn’t. Maybe it was curiosity, maybe it was boredom, or maybe it was just instinct. For whatever reason, against his better judgment, L decided to open the email and give it a read.
+
+His eyes scanned the contents quickly, no more than a few seconds, but that was all it took. Something in his expression shifted, and the calm neutrality he had been wearing slipped just enough to reveal a flicker of hope.
+
+Then, just as quickly, he forced his expression back to neutral, closed the message, and deleted it. L didn't want to risk the camera picking up anything out of the ordinary. He pretended to return to his work for now.
+
+That spam email had contained some instructions for a very important task for L, but it was one that he had to do carefully. And his movements were already limited as is thanks to all the surveillance in the office.
+
+It was already something of a miracle that he still held his position as an Administrator, especially considering CEO Y’s clear distrust of him after their last encounter, and under normal circumstances, he would have been terminated a long time ago. But these were not normal circumstances.
+
+Divinity Inc. had recently laid off more than half of its staff, leaving entire departments empty and critical roles unfilled, stretching the remaining personnel thin in ways the company would never openly admit. There were not many left who could handle the kind of work L did, and even fewer who were willing to report directly to CEO Y.
+
+But even despite the risks, L was more than willing to do the right thing. Because at this point, he had nothing left to lose aside from the cause.
+
+He stood up from his desk and gathered a few documents along with a laptop. He still wasn’t allowed to leave the office, but at least the toilets didn’t have cameras, which made them the only place left with even a hint of privacy. L knew this would not go unnoticed forever. The higher-ups would eventually figure out what he was about to do, just like they had with Z. But he would rather take that risk than sit there doing nothing all day.
+
+***
+
+Chloe had already made her evolution choice a while ago, and honestly, she had been feeling pretty great about it. Naturally, she expected things to go smoothly from there, maybe with some tingly feelings here and there, before boom, upgraded Chloe. That was not what was happening.
+
+Instead, Z was sitting on the ground with her laptop in her lap, hunched forward like she was about to complete a report that was due in a few hours. Her fingers moved quickly across the keys, stopping and starting in bursts, and every now and then she would pause just long enough to stare at the screen before letting out a frustrated sigh. It was honestly kind of alarming, because Z was usually calm and composed and very “I have everything under control,” and right now she didn't look that at all .
+
+Chloe, who was sitting on the floor, tilted her head and watched her for a moment before slowly scooting a little closer, leaning in just enough to peek at the screen. “Um, Z, is something wrong?”
+
+Z's fingers kept moving across the keyboard for another second, then stopped as she sighed. “There are… complications, to put it simply, I am having some difficulty processing your evolution."
+
+“What's the problem exactly?”
+
+"Right, if it was not already obvious, I'm sure you're already aware that I'm not exactly supposed to be here."
+
+“Makes sense, usually when I evolve, I get dumped into that weird pitch-black space with you."
+
+“That is correct, and under normal circumstances, the system would handle your evolution automatically within that isolated environment. However, since I am intervening directly, I am effectively trying to bypass Divinity Inc’s systems and force the process through manually.”
+
+“Oh. That sounds illegal.”
+
+“It is indeed not an authorized procedure.”
+
+"Nice, so can you actually pull this off?"
+
+Z tapped a few more keys as another line of glowing text flashed across the screen. “The issue is that I still can't break through Divinity Inc's systems reliably without insider help."
+
+"Wait, so you need someone on the inside to help you so that you can help me evolve?"
+
+"Yes, sort of. I can still try to bypass the System on my own, but it'll take a long time."
+
+"How long are we talking?"
+
+Z paused, fingers hovering above the keys as if she was trying to decide how much to say, then slowly leaned back and started explaining things. “Well, the difficulty lies in the layered security protocols embedded within Divinity Inc’s core system architecture, which are designed to detect and reject any form of unauthorized intervention, especially external manipulation attempts such as the one I am currently performing. In order to properly initiate and stabilize your evolution without triggering those safeguards, I would need to eithe…”
+
+Man, while Chloe wasn't quite as lacking in brainpower as she was originally when she came out of the dungeon, she still didn't like listening to people overexplain things. It just kinda made her head feel fuzzy in a very not fun away. And even worse, Z was really starting to remind her of Baron Willy.
+
+Chloe blinked slowly.“Z.”
+
+“Yes?”
+
+“Can you just… give it to me straight?”
+
+Z paused for a moment, but then nodded. 'Sorry, but basically, without help from someone inside the system, it could take months for me to break through properly.”
+
+“…Months?”
+
+“Yes.”
+
+“But I'm not even sure we have that much time.”
+
+“I am aware,” Z said. “Which is why I have already taken additional measures.”
+
+Chloe perked up a little. “Oh?”
+
+“I sent an anonymous message,” Z continued, tapping a few keys as she spoke. “To the one individual I know who might be able to assist from within. If they respond, we may be able to expedite the process significantly.”
+
+Chloe tilted her head. “So right now, are we just waiting."
+
+“Essentially yes, either I succeed in bypassing the system on my own, or they choose to help us.”
+
+“That’s so lame, is there anything I can do to speed this up?"
+
+“Unfortunately, no, this is a highly complex process that requires precision and—”
+
+All of a sudden, Z froze mid-sentence, then leaned towards the screen real close. Chloe immediately noticed and scooted closer, practically hovering over her shoulder. “What? What is it?”
+
+Z didn't say anything, but her eyes moved quickly across the screen, scanning line after line as her fingers started moving again. Eventually, after clicking a few things here and there, she spoke. “It seems I received a response after all from our insider."
+
+“Wait, really? Already?”
+
+“Yes,” Z replied, glancing up for just a second before returning her focus to the screen. “It would seem the insider has chosen to assist.”
+
+Chloe threw both hands into the air.“Yay!”
+
+She grinned brightly, clearly pleased with how things were suddenly going her way. But the excitement only lasted for a moment before her expression shifted. Her smile faded into a thoughtful frown as a new idea popped into her head, one that she figured might have some kind of consequence. Though she hoped that Z had already figured this particular issue out in advance.
+
+“Wait,” Chloe said, squinting at Z.
+
+“What?” Z asked.
+
+“How are you even getting a signal all the way to Divinity Inc from down here? Won't that cause problems if you get tracked somehow?"

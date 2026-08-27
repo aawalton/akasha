@@ -1,0 +1,185 @@
+---
+id: f8806e7b-a00c-5a5b-8080-66efb7847d20
+page-type-slug: story-chapter-royal-road
+title: "170: Dark and Darker"
+slug: 0170-170-dark-and-darker
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 170
+ownLength: 2025
+unit: words
+publishedAt: 2026-06-26
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3594468/170-dark-and-darker"
+royalRoadId: "3594468"
+---
+
+Chloe wasn't really sure what she had expected when she complimented the goth lady's outfit. Maybe she had hoped it would somehow make things less awkward. She didn't have much of a plan beyond saying the first thing that popped into her head. But, judging by the fact that nobody had immediately attacked her afterward, she figured it had worked. Sort of.
+
+The goth angel looked past Chloe and toward the male fallen angel. "Percy, why did you attack these two?"
+
+The guy, apparently named Percy, slowly turned his head toward her. "They were intruding. That's a good enough reason."
+
+"No, it really isn't," the goth angel replied with a long sigh.
+
+"I was trying to protect us."
+
+"By starting a fight with people who might not necessarily be enemies in the first place?"
+
+"They might be working for Divinity Inc."
+
+"But neither of them are wearing uniforms, they might not be working for the company."
+
+"And if they were?"
+
+"We could've tried to confirm things first before doing anything drastic, you know that right?"
+
+Percy folded his arms while the goth angel pinched the bridge of her nose. The two immediately slipped into a back-and-forth argument. Percy kept insisting he had done the right thing, while the goth angel shot down every excuse he came up with. Neither of them sounded particularly surprised by the argument either. If anything, they sounded like two people continuing a conversation they had probably been having for years.
+
+Chloe glanced at Z, then back at the arguing angels. Then she slowly raised a hand. "Uh… we're still here, by the way."
+
+The argument stopped instantly. Both angels turned toward her at the same time. Chloe immediately regretted speaking.
+
+The way they stared at her made her feel like she'd accidentally interrupted a meeting she wasn't supposed to be in. She actually flinched a little under the combined weight of their attention. Thankfully, Z stepped forward before things could get any weirder.
+
+"Listen," Z said. "Both Chloe and I are willing to overlook what happened if the two of you are also willing to stop attacking us."
+
+"That's fine by me," the goth angel answered.
+
+Percy's expression soured so fast Chloe almost found it impressive. He looked like he wanted to argue. Actually, scratch that, he definitely wanted to argue. But after glancing at the goth angel, he merely folded his arms tighter and let out a disgruntled snort.
+
+Chloe watched the exchange for a moment before reaching what she felt was a very reasonable conclusion. Although Percy might have been bigger and significantly more punch-happy, it was painfully obvious who was actually in charge here.
+
+The goth angel looked between Chloe and Z before letting out a tired sigh. "Sorry about my brother, he's nice when he wants to be, promise."
+
+Oh, brother and sister actually explained a lot. Chloe never had siblings herself, but she'd known plenty of people who did. Looking at these two, she suddenly realized that being incredibly powerful fallen angels apparently didn't stop people from acting like siblings. Some things just stayed the same no matter how strong you got.
+
+"It's no biggie," Chloe said with a shrug. "I mean, I got roughed up a little, but I'm fine. Pretty sure Z is fine too."
+
+The moment she said Z's name, the atmosphere changed. Both Percy and the goth angel immediately turned their attention toward Z.
+
+Percy looked really scary, and Chloe got the distinct impression that he was only one bad answer away from trying to start Round Two. The goth angel wasn't nearly as aggressive, but she definitely looked more cautious now.
+
+"Who are you really?" she asked.
+
+Z remained perfectly calm, luckily. "My name is Zenaida, a former employee of Divinity Inc once known as Administrator Z."
+
+The goth angel narrowed her eyes. "Former employee? Did you get fired?"
+
+"Something like that. And I can promise you that the last thing I want is to go back and work there."
+
+Percy immediately looked toward his sister. "Liz, I don't trust this corpo slave."
+
+The goth angel, apparently named Liz, rubbed her forehead. "I don't completely trust her either, but think about it for a second. If she was actually here on behalf of Divinity Inc., wouldn't they have sent a proper entourage instead of..."
+
+Her gaze slowly shifted toward Chloe. Chloe blinked. Then she pointed at herself. "Instead of me?"
+
+Liz didn't answer, but Percy looked at Chloe too. "Hmph. Fair enough, I guess."
+
+For a moment, Chloe just stood there staring at both of them. First of all, they were both super rude. Second of all, what exactly was that supposed to mean? Sure, she'd gotten launched through a wall almost immediately, but that wasn't the point. The point was that she'd been there and contributed towards the fight a little. Just because her contribution had mostly involved becoming an extremely temporary piece of wall art didn't mean it suddenly stopped counting.
+
+Chloe crossed her arms and puffed out her cheeks. "You know, I feel like I'm being insulted right now."
+
+Liz let out a soft chuckle, clearly finding Chloe's reaction a lot funnier than she should have. "You're right,that was a little rude."
+
+"A little?" Chloe repeated.
+
+Liz's smile widened slightly before she turned towards her brother. "Percy, go cool off somewhere."
+
+Percy frowned immediately. "I'm fine."
+
+"Percy, come on.'
+
+The man grumbled something under his breath that Chloe couldn't quite make out, though she was pretty sure at least half the sentence consisted of complaints. He shot one last suspicious look toward Z, another toward Chloe, then turned and walked away down a side tunnel.
+
+Chloe watched him leave before looking at Liz. "Is he actually cooling off?"
+
+"Eh, probably not. But I'm sure he'll be fine after a while."
+
+That didn't sound especially reassuring, but Chloe decided to let it go. Sibling stuff wasn't her business anyway.
+
+Once Percy went away far enough, Liz turned her attention back toward them. "So, mind if I ask why are the two of you here here?"
+
+Chloe immediately pointed at herself. "I'm looking for my mom."
+
+"Is your Mom also a fallen angel?"
+
+Before Chloe could answer, Z spoke up. "To be specific, Chloe's mother is former Divinity Inc. CEO Ishgria. You might have heard of her."
+
+Liz's eyes widened. Then she slowly looked back toward Chloe. "No way, are you really Ishgria's daughter?"
+
+Chloe raised an eyebrow. "Duh. Why would I lie about that?"
+
+"Sorry. I didn't mean to assume otherwise."
+
+"Oh, no worries, I didn't want to accuse you of anything either. But yeah, I'm Ishgria's one and only daughter, and I really wanna figure out where she is now."
+
+"I… really don't want to not believe you, but I need to be cautious since Divinity Inc. has been active again around Tartarus not too long ago."
+
+"I get that, kinda hard not to notice how things have changed."
+
+"Yeah, things have been rough, but we owe a lot to your Mom. if it wasn't for her, neither me or Percy would have lasted this far. A lot of fallen angels owe her more than they can ever repay."
+
+After speaking with Liz more, Chloe felt pretty bad that she mentally judged fallen angels so harshly before. She'd never really met one up until now, and it turned out that they can be pretty normal people too.
+
+Soon, Liz continued speaking. "When everyone else treated us like criminals, monsters, or mistakes, Ishgria gave many of us opportunities that nobody else would, and for that we're all grateful to her."
+
+Chloe blinked a few times as she processed that. That sounded exactly like something her mom would do. Looking back on it, Chloe probably shouldn't have been surprised that a bunch of fallen angels apparently thought highly of her too.
+
+"If you really are her daughter," Liz said, "then I'm genuinely sorry for our rough greeting earlier."
+
+Chloe immediately waved a hand dismissively. "It's no big deal. What matters is whether you know where my mom is."
+
+The question caused Liz's faint smile to fade. "Unfortunately, no. I genuinely can't tell you where your Mom might be."
+
+Chloe's shoulders immediately drooped. "Oh."
+
+"But," Liz continued, "I do know someone who might. And if you're really Ishgria's daughter, then I think this someone will be very happy to help you."
+
+Chloe perked up so quickly it was almost embarrassing. "Really?"
+
+Liz nodded. "Yep, only problem is they're deeper underground."
+
+A grin immediately spread across Chloe's face. "Perfect. Let's go."
+
+For a moment, Liz simply stared at her. "What?"
+
+"You don't have any questions?"
+
+"You just said somebody might know where my mom is. That's basically all I needed to hear."
+
+For some reason, that seemed to amuse Liz. A small laugh escaped her before she shook her head and turned toward Z instead. "You okay with that?"
+
+Z gave a small nod. "I'll follow along."
+
+"Alrighty then."
+
+Without another word, Liz turned and began walking deeper ahead. "Stay close to me yea? Some of the paths ahead aren't exactly designed for walking,"
+
+"Uh, what does that mean?" Chloe asked.
+
+"You'll see." Liz said with a smirk.
+
+The deeper Liz led them underground, the more Chloe started to understand what she had meant about parts of the tunnel not being designed for walking. They got to the parts where large sections of the floor disappeared entirely, replaced by deep drops that vanished into darkness below. Other areas were covered by thick pools of black sludge that looked nasty.
+
+The stuff immediately made Chloe uncomfortable. Not because it looked dangerous, though it definitely did, but because it looked wrong. Sometimes small bubbles rose to the surface before silently bursting, releasing wisps of dark mist that quickly faded into the air.
+
+When Chloe had asked what exactly the sludge was, Liz had immediately given a very simple answer. "Dunno, but don't touch it."
+
+After hearing that answer, whenever the sludge blocked the path, Chloe and Z spread their wings and flew across. Liz had damaged wings, so she often chose a different approach instead. She simply walked on the walls or the ceiling, and that was pretty cool to see how an angel could adapt to not having wings. Chloe couldn't imagine not having wings, well okay she could imagine since she started off without wings as a basic zombie, but since getting the ability to fly she'd never trade that away for anything ever.
+
+Anyway, the three of them continued deeper into the underground passages, navigating collapsed walkways, crossing enormous gaps, and carefully avoiding patches of black sludge. But as they traveled, Z eventually drifted closer to Chloe.
+
+"How familiar are you with fallen angels, Chloe?" she asked quietly.
+
+The question caught Chloe by surprise. She glanced toward Z before lowering her voice as well."They don't seem that bad to me despite their reputation, what's up?"
+
+For a moment, Z didn't answer. Instead, she looked ahead toward Liz, who continued leading the way through the darkness.
+
+"Not all of them are going to be as reasonable as Liz, you should be careful."
+
+Chloe followed Z's gaze toward the fallen angel walking ahead of them. Liz certainly seemed reasonable enough. Honestly, she seemed pretty normal. Well, normal by the standards of somebody with damaged black wings living underground.
+
+Still, Chloe could tell that Z wasn't saying it just to be negative. "I'll make my judgment when I see more of them."
+
+Maybe Z was right, and maybe she wasn't. Either way, Chloe wasn't really interested in judging an entire group based on rumors she'd heard from other people. So far she'd met exactly two fallen angels. One had thrown her through a wall, which admittedly wasn't a great first impression, but he also seemed more grumpy than evil. The other had apologized for it afterward and was currently helping them search for her mom. That wasn't enough information for Chloe to make up her mind, so she'd wait.
+
+If the next fallen angel she met tried to throw her through another wall, then maybe she'd start seeing Z's point. Hopefully not, though.

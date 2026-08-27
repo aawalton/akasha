@@ -1,0 +1,55 @@
+---
+id: 2c33870b-f45c-5352-b42e-58fe72af2996
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1641 - Hope Within the Menu"
+slug: 0290-chapter-1641-hope-within-the-menu
+partOf: chrysalis
+position: 290
+ownLength: 1179
+unit: words
+ownProgress: 1179
+publishedAt: 2025-09-09
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2586106/chapter-1641-hope-within-the-menu"
+royalRoadId: "2586106"
+markedReadAt: "2026-06-29T19:53:05.494Z"
+---
+
+The triad moved on to the next option. Anthony had been presented with multiple Mythic evolution options at tier seven, and he had even more to select from this time. This was further confirmation to the theory that ants were being rewarded for reaching higher tiers, something that wasn’t expected of their species.
+
+Although, as soon as they examined the next evolution, they had doubts.
+
+[Mythic Evolution: Toxic Swarm. +50 to Cunning, +50 to Willpower, +200 to Might, +200 to Toughness. Every ant knows that strength lies in numbers. Embrace this principle through your form, not just your family. Your body will take the form of a swarm of self-replicating, virulently toxic, palm-sized ants. Your stats and core will be distributed across the first thousand ants. A Swarm Core will be granted for free. All-Toxin Replicant Engine will be granted for free.]
+
+The more the triad looked at the evolution, the more convinced they were that it would be powerful. This would surely absorb the energy that had infected Anthony, driving it into the Replicant Engine and allowing him to survive. A living swarm of creatures that self-replicated, each of them capable of delivering even a watered down version of Theorazzn’s toxin would be… absurdly powerful.
+
+With his organs and mutations still intact, although distributed across a thousand individuals, it wasn’t clear exactly how this strange body would function, but it seemed as if Anthony would retain almost all of his capabilities were he to make this selection, which was equally absurd.
+
+Despite warming to it, the triad knew from the outset that this was not an option that Anthony himself would condone. He had shown a strong negative reaction to any evolution that messed with his body too much. He didn’t want to be formless, nor did he want to be a giant, immobile brain, or even reset to an immobile god-grub. They doubted he would be interested in becoming a distributed swarm of creatures, even if it would be a strong choice.
+
+If they didn’t find another option that would help him survive, then this would have to be it, reservations or no.
+
+There were two more mythic options for Anthony to choose from; hopefully one of them would both carve a path to survival and be acceptable to the monster.
+
+[Mythic Evolution: Toxic Spring Colony Bulwark. +100 Cunning, +100 Willpower, +250 Might, +350 Toughness. Poison springs eternally within, an endless font of corruption that will nourish your core and annihilate your enemies. A creature of endurance and strength, allow your poison to bring your foes to their knees. Even the shadow of harm will become your strength. An Everflow Well of Corruption will be granted for free. Eyes will be reforged into Petrified Infection. An Infection Core will be granted for free. Regeneration Gland will be consumed and replaced with an Infectious Echo Network. Acid Gland, Acid Nozzle, Concentration Gland, Stimulation Gland will be fused, transforming them into a Fused Acid Complex.]
+
+[Mythic Evolution: Colony Contaminant Commander. +150 Cunning, +150 Willpower, +200 Might, +200 Toughness. You have received the Will of the Colony and used it to grow strong, now your own Will can become infectious. Your Brains and Coordination Cortex will be reforged with Ascendant Slime. You will be granted a Corruption Core for free. An Immaterium Spirit Leech will be granted for free. Acid Gland, Acid Nozzle, Concentration Gland, Stimulation Gland will be fused, transforming them into an Acidic Production District.]
+
+These were the final two options that Anthony would have at the Mythic tier. Fortunately, both appeared to be perfectly viable, not changing his body to a high degree and also utilising the powerful corruption placed inside his body, allowing him to survive.
+
+Two acceptable choices, that was more than they had dared hope for. With so much work on the evolution yet to be done, the triad pushed themselves into overdrive, dividing their attention and absorbing all the information about these two species that they could. They dove into the descriptions and menus, trying to learn all they could in as short a timespan as possible until they had all the details they needed at their fingertips.
+
+The Toxic Spring Colony Bulwark was an interesting selection. Defensive in nature, it was clearly designed to apply its damage over time, outlasting the opponent in an extended fight. Although he might not like it, Anthony was already perfectly poised to fight in such a manner, with the Vestibule giving him an enormous advantage in endurance so long as sufficient members of the Colony were nearby.
+
+The Everflow Well of Corruption played a key part in this strategy, essentially creating a self-replicating, inexhaustible supply of tainted mana for Anthony to utilise. Even better than a mana organ, it didn’t require any regular, unattributed mana from the core to function, it would simply overflow with tainted energy, forever. Eyes of Petrified Infection would not only remove the weakness in his carapace and replace it with a strong, hardy material, they would allow him to see the progress of infection within others, letting him know exactly how damaged they were internally by his toxic offence.
+
+Perhaps even more impressive, the Infectious Echo Network was an absurd organ that the triad had never even come across before. Losing the Regeneration Gland wasn’t nothing, especially since it synergised so well with Anthony’s Vestibule, but the final result would be even better than before. Rather than a single reserve that could be triggered to release healing fluid, the network was distributed about Anthony’s body, releasing healing where it was needed. What’s more, it had a snowballing effect, perhaps based on Theorazzn’s propagating mana. The more Anthony was attacked, the faster he would continue to heal as the Network gained speed, much like an infection would.
+
+Even more absurd, the attack didn’t need to cause any damage for the effect to trigger. Just the ‘potential’, the echo, was enough. With his precognitive capacity and reflexes, if Anthony were able to dodge enough attacks, the healing would begin to ramp up to ridiculous speeds even before he was actually hit.
+
+The Colony Contaminant Commander was also an interesting choice. Attacking at the spiritual level, rather than the physical, the Immaterium Leech could be used to inject infected Will directly into his enemies. The Corruption Core would siphon Will from the Vestibule and contaminate it, allowing it to be used as a weapon that would eat away at the souls of his foes.
+
+Despite the rather disgusting name, Ascendant Slime turned out to be a potent and evolutionarily expensive material. It would allow Anthony to survive attacks that pierced his brain, as the Slime was fully capable of reforming itself so long as it wasn’t too damaged. It also operated far more quickly than the regular neurons his brains were currently composed of.
+
+Neither option was really what Anthony would choose for himself, the triad was well aware, but no choice mattered if he didn’t survive the evolution process.
+
+It was down to these two; they would have to choose one of them.

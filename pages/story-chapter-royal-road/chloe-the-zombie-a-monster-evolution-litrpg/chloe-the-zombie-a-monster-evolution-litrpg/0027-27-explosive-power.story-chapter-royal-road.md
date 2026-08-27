@@ -1,0 +1,177 @@
+---
+id: d8a2d410-306e-5b4f-83c8-3a80e14c0016
+page-type-slug: story-chapter-royal-road
+title: "27: Explosive Power"
+slug: 0027-27-explosive-power
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 27
+ownLength: 2303
+unit: words
+publishedAt: 2025-09-09
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2587412/27-explosive-power"
+royalRoadId: "2587412"
+---
+
+Chloe yelped and ducked behind a pillar, only for a searing line of fire to cut straight through it like it wasn’t even there. Bits of molten rock splattered onto her boots, hissing as they slid off, and she bolted again, zigzagging between boulders like her life depended on it, which, at the moment, it kind of did.
+
+Every time she thought she’d lost him, another one of those burning death noodles sliced past, close enough to make her ears ring. She darted around another chunk of rock, skidding on loose ash.
+
+A flash of white heat hissed past, and the boulder she’d been heading for split clean in two. Luther’s shots weren’t just dangerous, they sliced through solid rock like it was paper, and Chloe was painfully aware that she was made of far more breakable things.
+
+One beam skimmed so close to her head that her ear rang. She hissed, dropped into a roll, smacked her shoulder hard against the ground, and bounced back into a run. Another blast slammed into the wall she’d just left, showering her in hot shards that stung wherever they hit.
+
+If she’d had lungs that worked, they’d have been burning. Her legs pumped, boots hammering the rock, but the next blast came in fast, and this one didn’t miss.
+
+Heat carved through the air, clean and merciless, and the world spun. Something cold and wrong dropped over her senses. For half a second, Chloe couldn't process what happened… then she saw the ground rushing at her face, saw the rest of her body still sprinting ahead without her, and it clicked. Ohhh no no no no—
+
+Her head hit the ground and rolled, vision flipping end over end until it stopped at a tilted angle. She could see her body skidding to a confused halt.
+
+Chloe shouted as loud as she could. "Body! Pick me up now!"
+
+Her legs stumbled, then turned. The headless body jogged back, swaying a little, hands out. She felt her own arms scoop her up, tucking her under one arm.
+
+“Good! Now run! Zigzag! Zigzag more!”
+
+Her body lurched back into motion, vaulting over a chunk of rubble. A fire beam hissed past where her torso had been a split second ago. The head under her arm, her head, yelped again.
+
+“Left! Now right! Jump! No, not into the wall!”
+
+It was weird. Chloe could feel her body listening, not just blundering around. Every sharp turn she yelled for, it took. Every crouch or leap happened exactly when she told it. It was almost impressive. If she wasn’t in mortal danger, she’d have been proud of herself.
+
+Another beam roared past, but it was slower this time. The heat didn’t feel as sharp, and the blast didn’t dig quite as deep into the rock. He’s getting tired! I think, maybe.
+
+Her body dove behind a jagged wall of stone, crouching low. Chloe twisted in her own arms as much as her angle allowed. Okay body, bring me up. Lemme see.
+
+Obediently, her arms lifted her head, just enough for her to peek over the rock. Luther wasn’t nearly as bright now. The searing flames were dimming, flickering in spots, and the beams that had once split rock like now spat little bursts of heat instead.
+
+A smile spread across Chloe’s face. Well, well, maybe-Luther… looks like you’re about to have a bad day.
+
+She slowly crept out of her hiding spot. Another beam whistled past, thin and barely gouging the floor.
+
+The closer she got, the more pathetic Luther looked. His glow was patchy, whole sections of light fading into dull cracks. The roaring fire around him had withered to a few weak threads.
+
+Now felt like a good time to go all in again. He was barely moving by now.
+
+First things first, though. Chloe's body lifted her head and set it back onto her neck. Black tendrils slithered out from the base of her skull, winding down into the scorched edges of her neck. They twisted and pulled tight, drawing head and body together until the seam sealed with a faint snap.
+
+She rolled her shoulders and tilted her head side to side, feeling the tendrils pull and settle. A sharp crack popped from her spine. This would have to do.
+
+Chloe strolled forward, this was going to be easy. She was almost within arm’s reach when his head jerked up.
+
+A sudden glow sparked in the cracks across his skin. Before she could react, a ball of fire burst into life between his hands and came screaming toward her.
+
+Chloe twisted hard, throwing herself into a sideways dive. The fireball tore past close enough to sear the edge of her cloak, the heat making her teeth clench. It slammed into the wall behind her and detonated, showering the cavern in shards of molten stone. She hit the ground, rolled, and came up crouching.
+
+Luther’s body flared, fire crawling back over his frame in jagged bursts. His skin cracked wider, spilling light, each step toward her made the air shimmer again, the heat prickling at her face.
+
+Chloe darted sideways as he hurled another fireball. It smashed into the ground where she’d been standing, the blast wave knocking her off balance. She caught herself with one hand and kept moving, weaving between broken stone pillars as bursts of flame streaked past.
+
+Every time she tried to close the gap, Luther would lash out with another volley of fireballs. The blasts weren’t as clean as before, but there were more of them, forcing her to keep moving or get roasted. Alright, fine. We’re doing this the annoying way.
+
+She ducked behind a collapsed section of wall. Luther’s fire rained down in erratic patterns, each blast scattering glowing fragments across the floor.
+
+When there was finally a pause, Chloe decided it was now or never and triggered her invisibility. It took ten seconds to kick in, which, in her opinion, was nine seconds too long for something that was supposed to be sneaky.
+
+She counted down in her head as the shimmer spread over her skin. Ten… nine… eight… please don’t throw anything right now… seven… six… five… four… almost there… three… two… one.
+
+The last flicker of her form faded away, leaving nothing but empty air where she stood. Chloe made no sound as she slipped between patches of rubble.
+
+Luther moved in sharp, twitching bursts, scanning the cavern with wild eyes. His head jerked from shadow to shadow, but his gaze passed right over her without so much as a twitch of recognition.
+
+Chloe circled around until she was coming in from the side. Luther was too busy glaring at empty air to notice her creeping closer. Perfect.
+
+She started pulling magic into her hand, shaping it into a Cursed Rock Shot, and the moment the spell began to form, her invisibility went all wobbly and peeled back as she began to reappear.
+
+The stone in her palm was wrapped in twisting coils of black energy. She leveled her arm, lined up the shot, and let it fly.
+
+The rock tore through the air, smacking him dead-center in the chest. The impact cracked right through his brittle body, and the dark energy burst outward, chewing through him from the inside. His fire choked out in an instant, the glow dying in one final flicker.
+
+[You have killed: Luther Delius (Pyromancer Level 21)]
+
+[Experience Awarded]
+
+[You have leveled up! 8 >> 9]
+
+[Strength +2, Speed +2, Vitality +5, Magic +10, Resistance +2]
+
+[Skill Upgraded: Cursed Rock Shot III >> Cursed Rock Shot IV]
+
+Chloe strolled up to what was left of him. Up close, he didn’t look much like a man anymore. More like someone had carved him out of coal. His features were still there if she squinted, but barely.
+
+Ray said the body needed to be “somewhat recognizable” for the bounty. And this is somewhat? Right?
+
+If the guild turned her away because crispy here looked more like burnt wood than a mage, Chloe was going to be annoyed. But really, it wasn’t her fault. He was the one who decided to turn himself into whatever this was.
+
+She crouched beside him, resting her chin on her hand. Since he was already in this sorry state, there really wasn’t much harm in taking a little nibble. As she leaned closer, the smell coming from Luther was bitter and smoky.
+
+But brains were brains, and Chloe was going to get rewarded for her hard work. She knelt beside the husk, chewing her lip as she sized up the best way to get inside without ruining him too much more than he already was.
+
+She hooked her fingers along the side of his skull and tapped a knuckle against it, then tried prying from a different angle. Bits of char flaked away, but the bone underneath held firm.
+
+Chloe worked slower, easing the cracks wider without snapping too much off. Every now and then she stopped just to make sure nothing collapsed.
+
+It took effort, but finally, the skull gave way with a sharp split. Chloe pulled it apart, and beneath the burnt edges was that rich, warm brain she craved.
+
+Chloe leaned in, peeling back the last brittle shards of bone to get at the prize. Even burnt, a brain was still a brain. And Luther’s would surely be something special. Maybe it was the way his skull had cracked just right, or maybe she was just really hungry.
+
+The first taste was smooth, deep, and just the right amount of salty. The faint smokiness only made it more delicious, the kind of flavor that begged her to keep going until nothing remained.
+
+[Brain Consumed: Luther Delius (Pyromancer Level 21)]
+
+[Experience Awarded]
+
+[You have leveled up! 9 >> 10]
+
+[Strength +2, Speed +5, Vitality +1, Magic +12, Resistance +1]
+
+[Skill Upgraded: Mana Sense III >> Mana Sense IV]
+
+[Skill Upgraded: Mana Control III >> Mana Control IV]
+
+[New Skill Acquired: Fire Affinity III]
+
+[New Skill Acquired: Fireball III]
+
+[New Skill Acquired: Fire Resistance II]
+
+The rush hit Chloe fast, surging like a hot tide up her spine. Then her vision flickered.
+
+She stood in a grand hall with tall windows and polished floors, surrounded by important looking people. They were shouting at Luther, who looked far less crispy but a lot angrier. Chloe couldn’t make out the words, but the wild hand gestures and sharp finger pointing made the meaning clear enough, he was being yelled at.
+
+One of them jabbed a finger toward the doors at the end of the hall, and the rest stepped aside. Luther’s face twisted with rage before he turned on his heel and stormed out. The scene shifted, and now he was in a cold, empty street, stomping through the snow until he stopped in front of a cluster of figures in dark cloaks.
+
+They wore a strange emblem stitched on their shoulders. It was a circle surrounded with squiggly lines. Chloe narrowed her eyes, trying to make sense of it. But she wasn't familiar with what the emblem was supposed to represent.
+
+The cloaked figures stayed silent, but one stepped forward and handed him a book. He took it with both hands, gripping it as if it were worth more than anything else in the world. Then the vision dissolved, and the cavern walls rushed back into place.
+
+Chloe scratched her head, puzzled by the whole thing. Luther had gone from being yelled at by fancy robe people to meeting up with the weird cloaked people, and she had no idea why.
+
+But her train of thought came to a halt when something far more exciting popped up in front of her. All that other boring stuff could wait, this was important.
+
+[Evolution is now available!]
+
+It had been a good while since her last evolution. Chloe wondered if she would see Z again. Maybe this time she’d be cool with getting her brain nibbled. Just a little bit.
+
+Chloe looked around, eager to find a spot where she could evolve safely. The cavern was a mess, with blackened walls, cracked floors, and molten rocks, thanks to Luther’s firestorm. Not exactly a nice place to be. And with how loud their fight had been, she figured it probably drew attention, so it was better to slip off and find somewhere else to hide in.
+
+She picked her way over the wreckage as she searched for somewhere she could disappear for a while. Every corner she checked was either scorched beyond belief or wide open enough for anyone to spot her. Not ideal.
+
+Eventually, off to the side, she caught sight of a tunnel so dark it practically begged her to sneak into it. She slipped inside and grinned when she saw plenty of big rocks to duck behind. The air was still, no hint of monsters lurking nearby.
+
+Quiet, hidden, and just dark enough to feel cozy. This would do perfectly.
+
+Chloe settled in behind a particularly big, jagged rock. She crossed her arms, tilted her head back, and told the System she was ready to evolve.
+
+[Are you sure you wish to begin the evolution process now? This process will leave you temporarily vulnerable for up to 168 hours.]
+
+Her eyes went wide. Wait, what?
+
+Last time she’d evolved, it hadn’t taken anywhere near that long. Something was definitely different, and she wanted to know why.
+
+[Each consecutive evolution requires more time as the changes become stronger and more complex. In other words, the more you evolve, the longer each evolution will take.]
+
+Chloe mulled that over, tapping her chin like she was deep in thought. That actually makes sense, guess there's no point in dragging it out then. Okay, System, it's time to evolve!
+
+[Evolution Confirmed.]
+
+[Initiating Evolution Sequence.]

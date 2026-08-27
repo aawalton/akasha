@@ -1,0 +1,259 @@
+---
+id: c299ad37-c1c3-5b5b-9cd4-5ca3f2239d2c
+page-type-slug: story-chapter-royal-road
+title: "6: Big Numbers"
+slug: 0006-6-big-numbers
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 6
+ownLength: 2558
+unit: words
+publishedAt: 2025-08-17
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2525539/6-big-numbers"
+royalRoadId: "2525539"
+---
+
+Chloe didn’t really get what happened. One second everything was fine, the next… darkness. Not the regular kind either. This was the scary, pitch-black kind where you can’t even see your own hands. Weird, I can usually see in the dark just fine.
+
+She took a step forward and waved her arms around, just in case the darkness was hiding something. “Hello? Anybody there? …Helloooo?”
+
+But she heard nothing back. Not even an echo.
+
+Chloe started walking anyway. The ground felt real enough, so that was something.
+
+She didn’t know how that happened, but whatever. Thinking too hard made her head hurt, so she just kept walking, until she smacked into someone.
+
+Eventually, she accidentally walked into someone and took a step back after. “Ow, hey, watch where you’re… standing?”
+
+The person in front of her looked like a regular human lady. At least, until Chloe spotted the huge white wings sticking out of her back.
+
+The rest of her was even weirder. She had on this… strange outfit, all neat and stiff, the kind that made Chloe wrinkle her nose. It looked like the kind of thing someone would wear if they wanted everyone to know they were boring.
+
+The winged lady had these shiny little circles stuck on her nose. She also looked super tired, with dark smudges under her eyes.
+
+Chloe wiggled her fingers in a lazy wave and grinned. “Hi! Nice wings. So, uh… you lost too?”
+
+The winged lady let out a long, tired sigh before speaking, “I am Administrator Z. You may call me Z. I am here to assist you in your first evolution.”
+
+Chloe blinked, then lit up like someone had handed her a free snack. “Oh, that’s cool and all… but I'm actually kinda hungry right now."
+
+“That should not even be possible. In this domain, your physical needs are—”
+
+Before the winged lady could finish,  Chloe lunged forward, jaws wide. But her teeth clacked shut on empty air as the lady flicked her wings once and glided backwards.
+
+She landed lightly a few paces away and fixed Chloe with a stare cold enough to freeze stone. “Why did you just attempt to attack me?”
+
+Chloe didn’t even hesitate, flashing a sheepish smile. “’Cause I’m hungry. And, uh… you look like you’ve got really good brains.”
+
+“And why, exactly, are you so desperate for brains?”
+
+“I dunno, I just really like brains. So, do you mind just standing still so I can eat yours?"
+
+“…Are you being serious?”
+
+“Of course! I’d never joke about brains."
+
+Suddenly, the air around Z shifted, and Chloe felt it before her brain caught up. Her body froze, and her smile slid clean off her face as a crushing weight filled the space between them. Heavy wasn’t even the word, this was sharp, slicing through her like claws made of air.
+
+She knew this feeling. The same one that hit right before adventurers were about to kill her. That cold, suffocating pressure that screamed one thing loud and clear: you’re about to die.
+
+Z didn’t even move. She just looked at Chloe with those tired eyes. “Do you still want to test my patience?”
+
+Chloe shook her head as fast as she could. “No thanks. I'm good! I promise!”
+
+The crushing weight vanished like it had never been there, leaving Chloe blinking and sucking in a sharp breath she didn’t need. Z’s voice returned, calm and flat, like nothing had happened.
+
+“Listen closely. As a Champion of Chaos, you hold privileges that ordinary monsters do not. One of these is direct assistance from an Administrator during evolution, such as now.”
+
+Chloe tilted her head, still rattled but trying to look cool. “Uh… okay. So what's gonna happen now?”
+
+“Normally, I would proceed immediately to the evolution process. However, protocol requires that I first brief you on the Great Game.”
+
+“Wait, what’s a protocol? And what’s this Great Game thing?”
+
+“Surely you recall the brief mention of the Great Game in your Champion of Chaos trait description. You do remember, correct?”
+
+“Uuuuh… yeah. Totally read that and remembered all of it."
+
+Z didn't look convinced at all. But she didn't press the topic any further. “Very well, to summarize: the Great Game is a competition devised by the gods for their amusement.”
+
+“Okay, cool, cool. But, what’s a god?” Chloe asked.
+
+“A god is a higher being, beyond mortality, governing aspects of existence itself. They shape the laws you live by, from the flow of mana to the nature of life and death. In simpler terms, they are entities infinitely greater than you, and the only reason you exist as you are is because one chose to intervene.”
+
+“Huh. So, gods are big boss monsters that make the rules?”
+
+“If that is the only way you can comprehend it… then yes. This time around, the gods have selected one hundred monsters as contestants, wagering on which will achieve their eighth evolution first and claim victory in the Great Game.
+
+With a casual wave of Z's hand, a glowing panel appeared in the air. A long list of names scrolled down its surface, none of which Chloe recognized, each with a number beside it.
+
+Z extended a finger and tapped the very bottom of the list.  “Every participant in the Great Game is ranked based on progress. You are here at the bottom."
+
+Chloe leaned in and spotted her name sitting snugly at number one hundred. “Whoa! Look at that, I’m number one hundred! That’s huge! I must be really good if my number’s that big.”
+
+For the first time, Z’s face cracked. The tiniest smirk appeared as she let out a snort. “Quite the opposite actually. Being ranked one hundred is very bad.”
+
+"Wait, what? How’s that bad? Isn’t the bigger number better?”
+
+Z’s fleeting smirk disappeared, replaced by her usual impassive expression. “No. This is a ranking system. Rank One is the highest, while Rank One Hundred represents the lowest possible standing.”
+
+“Ooooh, I get it now. Still not fair, though! I just got out of my dungeon. How am I supposed to be number one already?”
+
+“The gods do not care about fairness, only entertainment. But in any case, you should aim to leave the bottom ten as soon as possible.”
+
+“Why? Is something bad gonna happen if I stay at the bottom?”
+
+“Yes."
+
+“What kind of bad?”
+
+“I cannot explain any more to you. There are rules I must follow. And I have spoken enough.”
+
+Z flicked her wrist, dismissing the glowing list and making it disappear. “Now, let us proceed with your evolution.”
+
+Suddenly, the glowing text in front of her shifted, lines rearranging until a new screen appeared.
+
+[Displaying Available Evolution Options]
+
+[Berserker Zombie]
+
+A rare zombie born from warriors who died on the battlefield. Berserker Zombies are undead powerhouses, driven by rage and raw instinct. Their bodies are capable of taking significant damage while wielding almost any weapon with deadly skill. They are often found in war zones and are known for their terrifying resilience and brutality in combat.
+
+[Zombie Lord]
+
+Zombie Lords rise when a creature dies with immense will and magical potential, retaining not only awareness but power enough to command lesser undead. Dark magic flows through them like blood once did, and lesser zombies are drawn to serve them instinctively.
+
+Note: This is a final evolution. No further evolutions will be available after selection.
+
+[Shadowstitched Zombie]
+
+A rare mutation among the undead, Shadowstitched Zombies are bound together by threads of dark magic. These arcane stitches grant the ability to rapidly heal wounds, reattach severed limbs in the heat of battle, and even graft compatible parts from other bodies. Shadowstitched Zombies are most often found near sites of prolonged magical warfare, where ambient necrotic energy lingers in the soil and fuels their unnatural resilience.
+
+Chloe stared at the glowing options and raised a hand. “Can I… pick all of them?”
+
+“That is not how choosing works. Select one.” Z said sternly.
+
+“Eh, worth a shot,” Chloe muttered before looking back at the list.
+
+First up was Berserker Zombie. It sounded strong, built for raw power with a focus on weapon mastery. That definitely had its appeal. But charging in, screaming, and dying loudly didn’t feel like something Chloe wanted in the long term.
+
+Next was Zombie Lord. This one sounded fun. Commanding undead, raising little zombie minions, an entire shambling army at her beck and call. The thought alone was enough to bring a smile to her face. But it quickly faded as she read the note. No future evolutions. One massive spike of power, then nothing at all. Chloe knew herself well, and she'd get bored of being stuck with this evolution option if she picked it now.
+
+Finally, she checked the description for Shadowstitched Zombie. The more Chloe read, the wider her smile grew. Healing wounds, snapping limbs back into place mid-fight, that was practical. Chloe figured losing limbs was bound to happen if she kept fighting, but this evolution meant she’d never have to worry about it again. Then there was grafting. Extra arms, extra legs, spares from anyone unlucky enough to cross her path.
+
+Chloe didn’t need to think any longer. “I want that one, the Shadowstitched Zombie.”
+
+“Are you certain?” Z asked.
+
+“Yep. Totally sure.”
+
+“Very well.” Z closed her hand, and the glowing text faded into nothing. “I will begin the process shortly. Brace yourself.”
+
+“What’s a bra—?”
+
+The rest of the question never left Chloe's lips. A blinding light exploded around her, swallowing everything in sight.
+
+***
+
+Chloe awoke to find something small and feathery perched on her face. She thrashed wildly, smacking the air around her as the tiny creatures scattered in a flutter of wings and startled squeaks. Those flying thingies are lucky I'm not feeling hungry right now.
+
+Eventually, Chloe stood up, stretched her arms overhead, and let out a satisfied sigh that turned into a triumphant cackle. And that was when the notifications hit.
+
+[You have successfully completed your first evolution!]
+
+[Your new Species is: Shadowstitched Zombie - Level 1]
+
+[+10 Strength, +11 Speed, +13 Vitality, +25 Magic, +10 Resistance]
+
+[Skill Upgraded: Mana Sense I >> Mana Sense II]
+
+[Skill Upgraded: Mana Control I >> Mana Control II]
+
+[Skill Upgraded: Earth Magic Affinity I >> Earth Magic Affinity II]
+
+[New Skill Acquired: Dark Magic Affinity I]
+
+[New Trait Acquired: Stitched by Shadows (Rare)]
+
+Chloe felt incredible. Lighter. Stronger. Sharper.
+
+She spun in place, arms out wide, then dropped into a squat and sprang up again. There was no stiffness at all. Her body moved smoothly and easily. She paused, curious now, and glanced down to check if her looks had changed.
+
+But the moment she saw herself, disappointment set in. Really? That’s it?
+
+Chloe frowned and gave herself a quick pat-down: torso, arms, legs. Her skin felt firmer, less squishy, and definitely tougher. But otherwise, she looked more or less like her already fabulous self.
+
+Sure, she had picked the subtle evolution, but she’d expected at least a shadowy aura. Maybe some glowing veins. Something with more flair.
+
+Still, power was power. She was stronger, faster, better in just about every way, and that was what mattered.
+
+Then her eyes flicked back to the notifications, and she blinked. Level one again?
+
+[Displaying Status]
+
+Name: Chloe
+
+Species: Shadowstitched Zombie (I)
+
+Level: 1
+
+Strength: 32
+
+Speed: 28
+
+Vitality: 35
+
+Magic: 55
+
+Resistance: 28
+
+Traits:
+
+1. Champion of Chaos (Legendary)
+
+2. Brain Eater (Basic)
+
+3. Darkvision (Basic)
+
+4. Undead (Basic)
+
+5. Profane Regeneration (Uncommon)
+
+6. Mana Core (Uncommon)
+
+7. Stitched by Shadows (Rare)
+
+Chloe was back to level one, but all of her stats were higher. Way higher. Especially magic.
+
+She tapped her chin as she noticed the small “I” next to her species. That was new. It looked like each evolution reset her level, but not her overall strength. And that “I” probably marked how many times she’d evolved.
+
+So then, would she get to evolve again at level five? Or would it take more than that next time? Ten? Fifteen? Hard to say. Either way, it would be fine so long as each evolution kept getting better.
+
+Her grin widened as her eyes locked onto the biggest number on the sheet. Magic.
+
+Chloe’s magic stat was huge, and it pleased her more than she cared to admit. She hadn’t cast anything super exciting just yet, and she was itching to let loose with some bigger spells. Hopefully, something would give her the chance soon.
+
+She continued scanning the list, taking in each improvement with growing interest. Mana Sense II. Mana Control II. Earth Magic Affinity II. All solid upgrades. Then her eyes landed on something new: Dark Magic Affinity I.
+
+Chloe didn’t have any dark spells. Not that she could remember, anyway. But the affinity was there now. She guessed that it was probably tied to that new trait she’d gained during evolution.
+
+[Stitched by Shadows (Rare)]
+
+Your body is now held together by threads of dark magic. When injured or dismembered, shadowy tendrils instinctively emerge to seal wounds or retrieve lost limbs. These tendrils can also be directed to graft compatible limbs from other creatures onto your body. Grafted parts require a brief adjustment period before full assimilation.
+
+This trait cannot create or support additional limbs beyond your original anatomy. The effectiveness and efficiency of this trait scales with your Level and Magic stat.
+
+Chloe read the words, then smiled. She could stitch herself back together with shadows. Even attach extra limbs, so long as they matched enough with her current body plan. So, she guessed that any human arms and legs would be more or less fair game.
+
+But, maybe she didn’t need to start collecting spare limbs just yet. Best to save that sort of thing for an emergency. Either way, she had to know how it worked.
+
+Without another thought, she drew her shortsword and sliced clean through her wrist. Her severed hand hit the dirt with a soft, almost polite thump. There was no pain. Just a hollow absence where the limb had once been.
+
+Crouching low, Chloe locked her eyes on the stump. From the frayed edge of her flesh, fine threads of shadow began to unspool. The tendrils crept forward, groping across the ground.
+
+When they reached the hand, they paused just briefly before slipping around it. Her severed hand jerked and scraped across the grass, twitching feebly as though trying to crawl. The shadows carried it with surprising care, lifting it upright and pressing it against her wrist.
+
+The moment skin touched skin, the shadows plunged inward. They threaded themselves deep into muscle and bone, weaving through torn veins and shattered joints. Chloe watched as the strands tightened, then sank slowly beneath her skin, vanishing without a trace.
+
+Chloe's hand looked nearly perfect, the only sign of damage a few faint stitch marks. She lifted it to her face and curled each finger into a fist. The motion was completely smooth, like nothing had ever happened. This, Chloe could get used to.
+
+More importantly, now that she had evolved, a fierce sense of wonder had taken root in Chloe. There was a whole world out there, unexplored and packed with uneaten brains. She’d spent long enough rotting away in that dungeon. It was time to see what waited beyond.

@@ -1,0 +1,157 @@
+---
+id: 2678211a-80aa-56d2-b4d4-06685c8405e5
+page-type-slug: story-chapter-royal-road
+title: "76 - Found the Cow"
+slug: 0076-76-found-the-cow
+partOf: cat-girl-evolution
+position: 76
+ownLength: 2370
+unit: words
+publishedAt: 2026-01-16
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2947820/76-found-the-cow"
+royalRoadId: "2947820"
+---
+
+“Yeah?” I ask.
+
+“I know you’re here ‘cause you’re bored and want something to do… but if it’s not too much to ask, would you mind if I took the lead? I want to get to Silver as soon as possible, so I need all the experience I can get.”
+
+“Sure, I don’t care,” I say.
+
+I can already smell the blood, and the trail that leads away. I could probably find it in a few minutes if I really tried. But that wouldn’t be very interesting. I bet watching Annie struggle through the Quest would be more fun. Like a reality TV show.
+
+“Thank you,” she says happily.
+
+She then turns to the blood drops on the grass, and slowly starts following the trail. After about two minutes, I realize that this will not be quite as entertaining as I was hoping. Annie does not have my sense of smell, so she has to go by the visual signs, which are a bit harder to find. And watching her bent over, peering in between blades of grass isn’t actually very fun.
+
+“Hey, Annie,” I say.
+
+“Yeah?” she asks, standing up.
+
+“If you could forget any food dish so you could eat it for the first time again, what would you pick?”
+
+“Oooh, that’s a good one,” she says, putting a hand on her chin. “Maybe… Ah, no, nevermind. I think… Yeah! A few years ago, I had some really good scallops at a restaurant. I don’t know what they did with them, but I’ve never had something so good.”
+
+I smile widely.
+
+“Excellent choice.”
+
+“What about you? What would you forget?”
+
+Annie turns back to the blood trail, but the conversation continues as she tracks the missing cow all the way into the woods, and then another kilometer or so. It only stops when we reach a clearing where the blood trail stops, which seems to stump her. I can smell that there are two clear trails leading away from the clearing, but it takes her a minute to find both sets of footprints.
+
+“These… are human footprints,” she says, frowning. “So it was bandits. I thought it was strange that there was so little blood when it was supposed to be a beast.”
+
+“Yeah…”
+
+I don’t comment further, because I smelled that it was humans all the way back at the fence, and have been keeping quiet about it since then.
+
+“It’s weird that they go in two different directions though,” she continues. “And I don’t see any footsteps coming back. Maybe it was some intentional misdirection? Split the trail to slow down the trackers?”
+
+“Maybe.”
+
+“Hmmmm,” she says.
+
+Annie then glances up at the sun, which is about halfway down. It’s right in the middle of the afternoon, so we don’t have too many hours of sunlight left.
+
+“I know I said I wanted to take the lead, but I think we should split up here,” she says. “It’s getting a little late, and we can cover more distance this way.”
+
+“Sounds like a plan,” I say, nodding.
+
+“I– If you find them… could you wait to do anything until I get there?” she asks. “If you can? Just because I want some experience, so it would be—”
+
+“Yeah, sure, whatever,” I say, shrugging.
+
+It’s a little disappointing to lose my entertainment, but that’s fine. I didn’t care much about this Quest at first, but I’ve always been a sucker for a good mystery, and having to follow along at Annie’s pace is kind of excruciating, even with the twin-style question barrage I’m throwing at her. I decided to come with her because I was curious about her, and I thought that it was a weird coincidence that we kept running into each other, but at this point, that’s kinda lost its fun. It’ll be more fun if I can make something exciting happen.
+
+I’m also getting hungry, and I can sneak snacks better if she’s not around.
+
+“Then I’ll take this way,” she says, pointing down the route that I can smell the cow. “And you take the other. And we’ll meet back here in an hour to report our findings.”
+
+“Sounds good.”
+
+Annie nods. “Then… I’ll see you in a bit.”
+
+“See ya,” I say, waving before Blinking away along the path of the tracks.
+
+Before doing any more serious tracking, I stop for a quick snack, then continue down the trail. It looks like this was indeed the diversion trail, and it just leads away for a dozen kilometers or so before disappearing into a mound of freshly dug earth. Below the ground, I can sense the loose earth continue down about three meters or so before turning and heading off in the direction that the first trail was moving. Definitely a diversion trail, and it looks like they had an earth mage to help tunnel through the ground. I bet that would have worked on anyone who couldn’t sense the dirt below the ground.
+
+I follow along aboveground, floating on a giant mana hand while keeping an eye on the underground trail. After another few kilometers, the trail finally curves upward again, and emerges from the ground before the footsteps resume, heading deeper into the woods.
+
+Soon after, I arrive at a clearing, yawning. Then, I smile. It was getting a little boring, being able to follow them for so long, but finally, I’ve found something interesting. In the center of the clearing, where I assume they were going to load up the cow to transport it away, there is a smoldering fire pit, a shattered wooden wagon, a lot of frantic footsteps, and a strong smell of blood. There’s even a dead body. That can’t be good.
+
+I float down to get a closer look. It looks like whoever stole the cow got attacked by… something. I dunno, I’m not a tracker. There was definitely a fight though, and clearly one of them died and one of the wagons was destroyed. It also looks like they had two wagons, and one of them drove away with the cow, while the other survivors scattered and fled.
+
+I think for a moment, then grab the corpse and start following the trail of the wagon with the cow. Whoever these guys are, they’re probably not very strong if they have to resort to stealing cows. If Annie runs into any, she should be fine. And our Quest is to find out what happened to the cow, so the longer I wait to follow that trail, the further away the cow gets.
+
+As for why I grab the body… Well, I definitely don’t plan on eating it, but I think simply having it in my Stomach will activate my Traits and let me make better human-based constructs. Plus, it can make for good evidence if I preserve it. Or a good intimidation tool if I throw it at the bandits.
+
+I double check to make sure there’s not anything else weird around, then float after the wagon. My speed on my hands isn’t that fast, but it’s not too slow either. I could speed up by Blinking ahead and landing on hands instead, but that costs way more mana, and it’s harder to eat while doing that.
+
+Plus, as it turns out, I don’t really need the speed. The corpse was pretty fresh, so I figured they couldn’t have gotten too far, and it looks like I was right. Only a couple kilometers away, I finally spot it, and a few minutes later, I’m descending from above. There are three of them, one driving the wagon and two riding in the back next to the tied-up cow. They all look quite disheveled, but weirdly enough, they don’t look very panicked. I guess that first body was a couple hours old, so they’ve had time to calm down since whatever attacked them.
+
+Still, they look a little too calm… They’re barely even keeping watch. They’re all just staring blankly ahead. Very odd.
+
+None of them seem to notice me until I float down right in front of them, causing the driver to pull the reins of the horse and bring the whole wagon to a halt. As he does, I look closely at him, and see that more than just his attitude is off. His everything is off. In fact, he’s already dead.
+
+His eyes are glassy, and there’s a tear his shirt and he’s covered in blood. The other two jump off the back of the wagon and turn to face me, and see that they’re in similar situations. The one on the left has had his throat slit, and the woman on the right has dried blood leaving a trail from a gaping hole in her temple. Apparently, somehow, I was at the exact wrong angle as I flew, which prevented me from seeing any of this before I landed.
+
+“Are you guys zombies?” I ask.
+
+None of them respond. Instead, they just draw their weapons and slowly walk toward me.
+
+“I guess so.”
+
+Abby, do you think this is like those zombie movies? Are these guys patient zero, one, and two of an apocalyptic outbreak?
+
+“No, Zombies are a relatively common monster. Unlike the ones in Earth media, they cannot self-replicate unless they evolve into a stronger monster that can.”
+
+Lame.
+
+“Why would you want it to be the self-replicating kind?”
+
+Because otherwise, they’re just walking corpses, and that’s boring. Look at them, they’re not even strong. All their namecards just say “Zombified Bandit” and they’re moving about as fast as the eelmen.
+
+“Not everything can be exciting all the time.”
+
+Yeah, but if I’m gonna stop napping and do something, it should be worth doing, y’know? At least since they’re this weak, Annie shouldn’t have much trouble at least running away. Though it looks like the Quest is coming to an end now that I found the cow.
+
+“Not necessarily. Zombies can only exist outside of Dungeons in the case of either a Dungeon Break, or if there’s a necromancer.”
+
+Dungeon Break?
+
+“If a Field-type Dungeon goes too long without being cleared, the Dungeon won’t be able to contain them, and they’ll spill over into the world.”
+
+Ah. So that happened?
+
+“Unlikely, based on what we’ve seen of Riverfork. There’s no zombie Dungeon, and I doubt there would be an unaccounted-for zombie Dungeon so close by. It is most likely a necromancer.”
+
+Ah, right. Of course. I knew that. So after dealing with these guys we’ll have to find out where the necromancer controlling them is, and why he wants to steal a cow. And also I guess we should figure out who attacked them. But first…
+
+The zombies get within a few meters of me, raising their weapons to attack, so I Blink up into the sky, landing on a mana hand before floating away. I could have taken them all out easily, but they’re weak enough that Annie should be able to deal with them. Plus, she wanted to take the lead. I can show her the way, and she can do the work. Actually, she’s probably already on the trail. I was moving faster than her, but she can’t be that slow, right?
+
+I float back toward the clearing, ready to meet up with her, but when I’m about halfway back, I hear something far in the distance that makes my hair stand on end. It’s really faint, even with my high Sensitivity… but it sounds like Annie is screaming.
+
+I pick up the pace and start Blinking forward, covering much more ground. It only takes a few minutes to get back to the clearing. There’s no one here. I sniff around until I find the other trail leading from the farm, the one that Annie was following, and I start following that back too. It’s not long before I sense her. Kind of.
+
+I Blink into another clearing to find a horrific site. Annie is here, but she is dead. Very dead. Her head is sitting in a bush while her body is crumpled on the ground with one leg missing. No, not missing. It’s in the bush behind the head. And the ones who killed her are still here.
+
+There are three more zombies, but one is different. He looks just like the other bandits, but he has a lot more mana, and his Namecard says he’s a Zombified Experienced Bandit, which I guess must be one Tier up. He turns to look at me… and then falls to the ground in two pieces. Shortly after, the other two do as well. The veins on my sword glow a faint red as I stand in the now silent clearing with the four dead bodies staining the ground red.
+
+Shit.
+
+I must have overestimated her. She had kind of a competent vibe to her, so I thought she’d at least be able to run away. She was only Bronze, but I thought…
+
+Dammit.
+
+I walk over to her severed head, which is still staring blankly ahead, an expression of horror and fear on her face. Her eyes are wide open, but glazed over and unfocused. At least she didn’t seem to be in pain.
+
+I reach out and gently close her eyes and mouth, letting her expression take on something more peaceful. Then, I sense a flash of mana, and a moment later, there’s a sharp pain in my back.
+
+I turn around, and what I see stuns me almost as much as getting stabbed did. The one that stabbed me… is Annie. Or at least, her body. It’s standing on its one leg, both arms extended and holding the handle of a knife whose blade is buried in my back.
+
+“Wh– what?” I say, blood dribbling from my lip.
+
+I wrench myself free from the blade and Blink backward. The pain is almost blinding, but strangely, it’s not as debilitating as I would have expected. It hurts like hell, but I’m still lucid. I look at the body, which is now moving on its own again. And it’s not the only thing.
+
+In the bushes, Annie’s head has its eyes open again, and they’re staring right at me.

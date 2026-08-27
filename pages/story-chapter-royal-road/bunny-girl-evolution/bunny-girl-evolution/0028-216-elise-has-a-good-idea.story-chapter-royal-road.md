@@ -1,0 +1,91 @@
+---
+id: 5fc710c9-85aa-5e79-887c-4ec21553daa2
+page-type-slug: story-chapter-royal-road
+title: "216 - Elise Has a Good Idea"
+slug: 0028-216-elise-has-a-good-idea
+partOf: bunny-girl-evolution
+position: 28
+ownLength: 2284
+unit: words
+publishedAt: 2026-08-18
+link: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution/chapter/3828925/216-elise-has-a-good-idea"
+royalRoadId: "3828925"
+---
+
+Elise endured the pain of having her soul ravaged both better and worse than the first time. Better, because she had experienced it once before, and knew what to expect, and worse, because she was initially disoriented, and failed to defend herself for the first few waves. In the end her soul ended up in greater disarray than the first time, but she felt better about it afterward because of how much progress she had made in that brief time.
+
+I guess actively getting attacked is good for building defenses.
+
+Once she was certain it was over, and she had finished restoring her soul to its former state, she considered going back to sleep, but her mind was far too active at that point, and she felt well rested enough. It hadn’t been a full night’s sleep, but it was enough.
+
+She stretched out, then parted the roots, exiting her cove of safety and returning aboveground. Her mind was already racing ahead, thinking of what she would practice that day, but it stopped when she reached the dry pond where she had trapped the rat. The rat was dead. Its body was devoid of aether, and its mana was slowly dissipating into the atmosphere while its corpse broke down.
+
+Oh.
+
+She had not been attached to the rat, but she wasn’t happy to see it die either. It was evidently too weak to survive the soul pulses, which she probably should have seen coming, but it didn’t really matter if she had. Whether she knew it was coming or not, there wasn’t much she could do. Maybe she could give it some {Fairy Dust} to try to strengthen it, but would that be enough? {Fairy Dust} was useful, but not all that potent, and if it was weak enough to die from the soul pulses, would the dust even do anything?
+
+She sighed and turned away from the corpse and toward the entrance to her new cave home. It was fully intact and unharmed, meaning nothing had tried to get in while she slept. That was good, at least. She was beginning to think that perhaps this cave had been unoccupied, and after seeing the dead rat, she had an inkling as to why.
+
+Is the soul pulse stronger here than it is in other parts of the cave?
+
+It would have to be, since the Abyssal Rats were able to survive in other areas, from what she had seen. Unless hers had been particularly weak, but she was pretty sure that wasn’t the case. The monsters in the cave when she first arrived were also fresh spawns, so that would have to mean that whatever was originally in the cave had died.
+
+As for why the soul pulse was stronger there than elsewhere, there could only be one reason. It had to be the massive, gaping tunnel leading who-knew-where right beside it. It would also explain why there had been so few monsters in the vicinity in general. She had already planned to save exploration of that tunnel for after she got established, but now, she pushed that even further down on her to do list. Whatever was causing that soul pulse was so far beyond her capabilities she didn’t even want to think about it. That would have to be a project for a later time.
+
+On the bright side, this all meant that she had actually chosen the safest place in the entire underground city. Well, the safest, assuming she could defend her soul. As long as she could do that, she would be able to live comfortably in a place that most of the monsters tended to avoid. It was working so far, but she knew that souls weren’t designed to take that kind of beating endlessly, so she would have to up her game.
+
+Over the course of the next week—or at least what felt like a week, as it was hard to keep track of time—she slowly settled into a routine. She wasn’t completely confident in her home defenses just yet, or in her hypothesis about the soul pulses, so she remained vigilant, only growing lax near the end of the week as it became clear that there was nothing that would bother her as long as she kept to herself.
+
+She mapped out the soul pulse timings, and found that they seemed to come twice a day, but not at perfectly regular intervals. There was somewhat of a pattern to it, where there would be one longer break, close to fifteen or sixteen hours, and one shorter break, closer to eight or nine. Without a clock, though, it was impossible to tell how consistent it was. She tried dreamwalking to Charlotte to try to catch a glimpse of the sky or the clock that Tyral had installed in her house, but it was quite inconsistent, as Charlotte did not keep any kind of schedule, and was often out hunting or fast asleep at the strangest times.
+
+She also tried dreamwalking to Sophie a couple times, but every time she went, the other girl was under surveillance, so she didn’t risk any conversation. The Grays seemed to have relaxed a bit after everything, and Sophie knew that she was fine now, which was the most important part. Longer conversation could come later.
+
+When not dreamwalking or trying to track the pulse cycle, she spent the vast majority of her time in her soul. She did a little bit of physical exercise, just to break up the monotony and stretch her legs, but other than that, she mostly just sat on her butt.
+
+Her soul defenses progressed by leaps and bounds during this time, though only in the most rudimentary of ways. She could now simply block most of the foreign aether from the soul pulses when they came. The final dozen or so still managed to punch through anyway, but the force was significantly lessened, and she felt her soul was no longer in danger. She was still a long way from mastering soul defenses in the same way that Rayna had talked about, but having her basic ‘soul shell,’ as she called it, gave her some peace of mind.
+
+She had also discovered how to detect the soul pulses coming, like all the other creatures could, though that was purely by accident. She had been practicing ordinary aether manipulation in her soul when she suddenly felt something reach out and connect directly with her soul. It was like watching an aether thread form in real time, but it was so subtle it was something she would never have been able to tell without being in her soul when it began.
+
+That had also more or less confirmed that the other monsters of the ruined city had some form of soul awareness to be able to detect it. She suspected some kind of basic Skill called {Soul Sense} or something like that. Sadly, it wasn’t among the Skill Recipes, so she couldn’t cheat her way to getting it, but the fact that the monsters had it gave her hope about acquiring something similar on her own. She had no luck there yet, but she hoped she would see results soon.
+
+Very little progress was made on the contents of Aya’Rhun’s crystal. There were more drills beyond the soul pulse, each adding a new layer to the soul pulse, but they were significantly more complicated. Basic soul pulses were easy, but adding any level of complexity brought Elise right back to needing a physical representation of the aether thread to mess with it. Not to mention half of them ideally needed a willing partner, which the rats she kept kidnapping definitely weren’t.
+
+She also felt she might have been psychologically holding herself back a little bit, knowing she wasn’t doing things correctly. She was supposed to be able to do this without entering soul meditation, and she knew it, and that thought was always at the back of her mind when she practiced. How would she be doing this if she wasn’t in her soul? What did it even feel like to do it without entering soul meditation?
+
+She wrestled with the question for a while, as well as what to do about it, and ultimately came to one final, unpleasant conclusion. She needed to be more proactive. Sitting around and hoping that eventually she would just naturally figure out how to sense her soul properly wouldn’t work. She needed to actually do something. And as painful as it sounded, she thought she had an answer.
+
+The monsters of the cavern had some kind of soul sense. They also had strong enough souls to survive the soul pulses. Of course, at this point, these were simply abilities they spawned with, but had it been that way in the past? Or had one ability developed after the other? And if they had… she was pretty sure she knew how they did it.
+
+She could not sense her soul normally, but when the soul pulses came, she felt pain in her very being. She was usually in her soul, actively shoring up her defenses as they came, but that first night when they came in her sleep, she had still felt it. It hurt, but it was her soul that was hurting. If she just took the beating without being in her soul, maybe she could get a sense for her soul.
+
+The first time, she chickened out. The soul pulses came, and the first one was bearable, but by the third one, she was entering soul meditation to fix up her defenses.
+
+The second time, she spent an hour in her soul beforehand, working on her soul shell before exiting her soul for the pulses. When they first started, they were much more bearable, and she smiled as she focused on the sensation. It hurt, and it hurt in a place she had trouble detecting, but she could detect it. Kind of.
+
+The second pulse came, this one a little more painful, but with the increased pain came an increased sense of where that pain was. It quickly faded, just like the first one, but then the third pulse came right on its heels, and she felt it again.
+
+She endured seven more pulses before she doubled over, gasping. It hurt more than anything she had ever felt, but it was also working. She could sense her soul. She felt the waves crashing against her soul shell, cracking it and sending foreign aether shooting into her soul. It faded with the pain, but she was on the right track.
+
+The twelfth pulse came, and she arched her back, hissing in pain, but she still did not enter her soul yet. She mentally pushed through the pain, immersing herself in the brand new sense she was experiencing. It was new and interesting, and for three seconds, she explored what it was like to sense her soul from the outside instead of the inside.
+
+Then, the thirteenth came, and her vision went white. When it cleared, she found her head pressed tightly against the stone wall of her corner of safety, with her legs stiff and beginning to cramp. More worrying than her body’s position, however, was her soul.
+
+Uh oh.
+
+She barely had a second to react, entering soul meditation just as the next wave hit. Her soul form was flying wildly around her soul like a pinball, and every collision shook her and sent more pain shooting through her.  While rattled, she barely had the presence of mind to start building up her soul defenses again. They were shattered instantly when the next pulse hit, but they lessened the impact enough that she was able to somewhat recover, rebuilding them stronger the next time.
+
+She was in a precarious balance for a short while, building back her defenses stronger then before, only for an even stronger wave of aether to shatter them, but by the twentieth pulse, she had things somewhat under control. Her mind was foggy, and her soul form was still bouncing around wildly, but she was in deep focus, thinking of nothing but rebuilding her soul defenses every time they were shattered. She was in a trance, endlessly rebuilding and rebuilding until at finally, the next pulse never came.
+
+It’s… over? she thought.
+
+Her mind still felt cloudy, but she exited soul meditation, and shakily got to her feet. She felt dizzy and drained, but she was alive. And even better, she could sense her soul. She laughed aloud at her success until she noticed that what she currently sensed of her soul was not good, and that her consciousness was about to slip.
+
+Just a few minutes… No!
+
+She snapped back to wakefulness and quickly reached into Astrid’s Star for a scroll to take her back to Charlotte’s place. She needed rest, but she needed to not be in the cave while she rested. If she slept too long and the next pulse began while she wasn’t ready, she would end up in even worse shape.
+
+She staggered out of her shelter, switching to her human form so she could grab the scroll, then tore it, appearing outside Charlotte’s house. Charlotte was not home, likely out hunting. That was fine. Elise didn’t want to answer her questions at the moment.
+
+She pushed the door open, walking like a drunken sailor toward the couch. Her vision was swimming, and she could barely tell where she was going, but she eventually reached the couch, tripping over the armrest and falling face-first onto it.
+
+So soft… she thought as she finally let herself rest, and drifted off to sleep.

@@ -1,0 +1,95 @@
+---
+id: 27736a5d-57a5-5d7e-9c48-4e54aeae3b72
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1648 - Wizard Ways"
+slug: 0297-chapter-1648-wizard-ways
+partOf: chrysalis
+position: 297
+ownLength: 1020
+unit: words
+ownProgress: 1020
+publishedAt: 2025-09-18
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2608948/chapter-1648-wizard-ways"
+royalRoadId: "2608948"
+markedReadAt: "2026-06-29T19:53:18.929Z"
+---
+
+I think I hate you.
+
+[Oh, I am well accustomed to being hated. If anything, I find it an honour to be hated by you. This is the human who didn’t hate his family, no matter how poorly they treated him.]
+
+You never let that go, do you? My life wasn’t that remarkable. I had some hard times. Who doesn’t?
+
+[You-]
+
+I know how I died! Sheesh. Every time with this guy.
+
+[Perhaps we should shift the conversation. I’m interested to see how your evolution is going to turn out. The process to this point has been… fascinating.]
+
+Is that what you call it? I haven’t been a fan myself. I’d much rather be able to pick my own evolution than be boxed into a corner by a stupid Ancient.
+
+[I understand your point of view, but I don’t think you quite appreciate what an opportunity has landed in your lap. The mana of Theorazzn is quite unique, and far more powerful than a monster of your tier could ever dream of being exposed to. Having it incorporated into your body will have effects that you haven’t even guessed at.]
+
+Even if that’s true… I refuse to thank that slug… crab… fish thing.
+
+[By all means, pour as much scorn on the Ancient as you wish. I encourage it.]
+
+If Gandalf is telling me things are going to turn out better than I think, then maybe there’s hope for this evolution after all? When the golgari described the Colony Ascendant to me, I nearly bit my own antennae off in frustration. It sounded so good! I would have picked it for sure.
+
+[Yes, having your helpers manage your evolution was also a good choice. They are much better at it than you.]
+
+How rude! I’ve gotten this far, haven’t I? Clearly I’m doing something right.
+
+[Part of what makes you so amusing to track is how you have continued to survive, seemingly without having spent any time or thought on how you might best improve yourself. This approach is… rather unique among the monsters who have achieved the level of strength you have.]
+
+I feel like I’m being complimented and insulted at the same time. I’ve put thought in! A lot of thought!
+
+[Have you really?]
+
+Well… no. But I’ve listened to advice!
+
+[Luckily for you, that advice has been good. They have done a good job cleaning up many of the inefficiencies in your base design. I think you will feel the difference immediately when you awaken.]
+
+If I tell Granin and the others that their methods are Gandalf-approved, will that make them happy? I don’t suppose they’ll have any idea what the heck I’m talking about. He might be the voice of the System, but I’m not actually talking to the System, if that makes any sense. At any rate, the Gandalf I’m speaking to has been at pains to point out they aren’t the System itself.
+
+Unless you feel like clarifying exactly who you are, for a change?
+
+[I do not.]
+
+I figured. I swear, you can’t be happy unless you have some secrets stashed up your beard. Don’t you understand how freeing it can be to share your burdens?
+
+[Do you really think that will persuade me? I have said it before. If you wish to learn more, go deeper in the Dungeon. The only place where all truths can be known is the centre of this world.]
+
+It’s not like I have a choice, really, is it? The Call is going to drag me down there whether I like it or not.
+
+[Are you saying you wouldn’t descend without the Call? I find that hard to believe.]
+
+Can’t I just want to retire and tickle grubs? It’s an incredibly relaxing and fulfilling way to spend your time, I promise you. The grubs are adorable too, which doesn’t hurt.
+
+[I am not tempted.]
+
+You’re missing out. I don’t really think I would go down there if I wasn’t forced to. If I didn’t have the Call, I probably still would have wound up there, not because I wanted to, but because I would need to make sure my family wouldn’t be destroyed by those stupid Ancients. The only way I can do that is to be stronger than them, right?
+
+[That is certainly the easiest way.]
+
+If I had to guess, I’d say the Colony will eventually reach a point where they don’t need my protection anymore. Until then, I have to make sure nothing happens to them. If that means heading down there, then that’s what it means.
+
+[You didn’t always have this level of resolve.]
+
+Well, I suppose I’m changing bit by bit. I can’t expect to live this kind of life and come out the other side exactly the same now, can I?
+
+[I suppose not. Now, I sense that our time together is coming to an end. I look forward to our next meeting, if you survive that long. You are not the only one heading deeper, and the competition looks to be fierce this cycle. I wish you all the best.]
+
+Competition? For what? Never mind, I know you aren’t going to tell me. Nice talking to you, Gandalf. I suppose it’ll be a while before I get the chance to talk to you again. Although, if you could remove any options for my next evolution that turn me into a bodiless swarm, or energy, or whatever, I’d be grateful. Waste of a slot.
+
+[They are extremely powerful.]
+
+Who cares?! I want a body!
+
+Ah, my consciousness is fading. Well, returning is probably a more accurate term. Back to the body, back to the evolution. Time for a brief nap, then back into action. I’ll be glad to leave the whole fifth stratum behind me. Time for a new adventure.
+
+[This nap may not be brief,] Gandalf's voice reaches me faintly. [What’s happening to you is far from normal.]
+
+Wait… what’s happening to me? Gandalf? What the heck is going on?!
+
+But there’s no response. No matter how I thrash, my consciousness is forced into the darkness, and there I remain.

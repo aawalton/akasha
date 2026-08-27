@@ -1,0 +1,150 @@
+---
+id: 3bbf5f1f-a995-5460-8466-5ef8515ca528
+page-type-slug: story-chapter-royal-road
+title: "186 - End of the Break"
+partOf: bunny-girl-evolution
+position: 54
+ownLength: 3543
+unit: words
+publishedAt: 2026-04-04
+link: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3230126/186-end-of-the-break"
+royalRoadId: "3230126"
+---
+
+After leaving Quel’Khulan in the forest, Elise and Oberon didn’t spend much time chatting. They did not dare speak too much about what they had learned, and both of them had places to be now that the crisis had been averted. The last thing Oberon said before leaving was that he might know the location of more of the boxes, and that he would put out some feelers.
+
+Alone in the woods, Elise’s mind turned back to everything that she had just learned. More specifically, she thought about what Quel’Khulan had said about being able to control mana without Skills.
+
+“The mind moves the soul, the soul moves the aether, the aether moves the mana.”
+
+Her request to Quel-Khulan had been related to mana, but now that she had a bit more time to think, she realized that the aether part was something she might actually be able to accomplish on her own. With the promise of {Aether Manipulation} once she reached 6th Tier, Elise had hardly considered that she might be able to manipulate it already, even without the Skill. She knew that what she did within her soul affected her aether, just like what happened with aether affected her soul, but she had never connected the dots until the enormous paladin spelled it out for her. She could manipulate aether on her own. She didn’t need the Skill.
+
+The only problem was that she had yet to figure out how to control her soul without entering full soul meditation. She assumed it must have been possible, but once again, it was something she had never really tried.
+
+Sounds like I have a lot to work on when I get back…
+
+While she would have loved nothing more than to jump right into trying to figure things out, she had some unfinished business underground, and she didn’t just want to disappear into her bedroom for the rest of the break when she had come out to see her old friends. She checked {Aether Sense} to see if she could feel herself being watched, and when she detected nothing, she activated {Don’t Look At Me, Peasants!} and started flying back toward the drow tunnel.
+
+She took a slightly roundabout route to get there to make sure she didn’t run into Quel’Khulan again. It wasn’t that she was trying to avoid him, but their parting had indicated quite clearly that he wanted to be alone, so she made sure to give him a wide berth, circling around him to reach the entrance to the tunnel.
+
+Underground, she found chaos. The drow had evidently begun to wake up not long after she and Quel’Khulan left, and the sudden incapacitation of an entire city was not something to take lightly. Elise quickly regrouped with Naomi, who was in the center of the Mother Tree with Salome, and the three of them spent the next few hours getting everything back in order, and reassuring the rest of the drow that there was no emergency, and that everything was fine.
+
+With the city calmed down, Elise and Naomi returned to the alcove where the stolen treasures were kept, and Elise retrieved the scepter and crown for Hallborn, as well as the now-open black box. Now that Quel’Khulan was no longer sealed inside, it had no issue going into a spatial storage, and Elise wanted to study it more later. Or at least get Oberon to study it more later.
+
+She spent the rest of the day relaxing and unwinding, which was surprisingly easy. She would have expected that with the knowledge she now had, relaxation would be harder, but instead, knowing that she had likely fulfilled her quota of unexpected surprises for the week, it felt like a weight was lifted off her shoulders. She stayed somewhat wary, in case anything else happened, but she was fairly certain that the box was the reason Titania had sent her here, so now that she had opened it, all that was left was to finish her relaxing vacation.
+
+She spent the night with the drow, enjoying the comforting mana of the Mother Tree, and after a breakfast feast, she returned aboveground to deliver the crown and scepter to Hallbjorn. When she entered his office carrying them, his eyes nearly popped out of his head, and he scrambled out of his seat to take them from her.
+
+“You– you actually did it!” he said.
+
+“It was no trouble at all,” said Elise. “I just had to ask.”
+
+“I know how the drow are about fey…” he said. “But I still expected it to take longer.”
+
+“They had no use for them, and your people aren’t at war anymore. They weren’t happy to do it, but they had no good reason to reject the request.”
+
+“Did you have to promise them anything?”
+
+“No, they just let me take it. But it might be a good idea to send them back a gift as a show of goodwill.”
+
+“Yes, you’re right,” he said, stroking his beard. “And I think I have just the thing! I’ll be right back! Just wait here!”
+
+He rushed out of the room, leaving Elise alone with Jens, who was doing paperwork in a desk to the side. They made eye contact for a moment before Jens rolled his eyes and went back to his paperwork.
+
+Hallbjorn returned only a couple minutes later, crown on his head, scepter in one hand, and a smaller, more delicate crown in the other.
+
+“I should have sent this down with you the first time,” he said. “I wasn’t thinking clearly. If there had been any trouble getting our relics, this would have helped smooth it over.”
+
+“What is it?” asked Elise.
+
+“This is the crown of the drow queen,” said Hallborn. “Our people crafted it for the old queen back when we first arrived and were at peace. Then at some point, we took it back when we killed the queen. This would have been the perfect peace offering, and I almost completely forgot we had it.”
+
+He sighed. “If you don’t mind, could you bring this back when you go down next, and let the queen know that we thank her for her generosity, and that we want to return this as a show of gratitude.”
+
+“Of course,” replied Elise, accepting the crown.
+
+“Thank you!” said Hallbjorn. “I’m afraid that I’m quite busy today, and I have a diplomatic dinner to attend, so I can’t dine with you, but if there’s anything you need, just let someone know. Everyone is under orders to serve you to the best of their ability.”
+
+“I will,” said Elise.
+
+With her freedom for the day guaranteed, Elise returned to the room that had been prepared for her, and began trying to manipulate her soul without entering soul meditation. She did not have any luck, and couldn’t tell if that was because she was doing something wrong, or if she simply didn’t have enough control over her soul to make it work. Eventually, she grew frustrated, and just decided to do ordinary soul meditation, continuing her progress on building out her soul realm and soul shape.
+
+It had been surprisingly difficult, and Elise had needed to study sewing briefly to get it right, but she was finally almost done making clothes. Well, a tunic, at least. Proper clothes were still beyond her, but now that she could reliably make fabric, it wouldn’t be too long. And with the tunic, she would be able to put the finishing touches on her soul form’s appearance, and hopefully at that point, finalize her {Rune of Fate}.
+
+As she neared her goal, though, she was starting to have some doubts. As much as she was improving at soul control, her aether still felt too unruly for how close she was. It was significantly better than it had been before, but it was nowhere near as steady as Jessie’s when her rune morphed. While physically, her soul form looked almost right, there was clearly still a big part missing. She would have to ask someone about that either. Most likely Irylax, but she would prefer Maggie, on the off chance that Maggie had returned by the time Elise went home.
+
+She stopped her meditation around lunch time, and left the castle to find something to eat. The dwarven cuisine was unfortunately lacking compared to what she got in Jelor City, but found a cozy sandwich shop run by an old human couple that sated her well.
+
+After eating, she debated both continuing her meditation, and doing another walk around the city, but ruled both options out. She didn’t want to spend her vacation doing something she could do just as easily back in her bedroom at home, and she had seen plenty of the city already, and without someone else by her side, it just wasn’t that interesting. Instead, she decided to return to the drow for the rest of the day, delivering the crown, playing with Lyra and some of the drow children, and talking with Naomi and Salome.
+
+Later that evening, she decided to fly out over the underground forest and once more for old times’ sake, hunt some cows. While only a few months had passed since she left the cave, she had grown so much in that time that when she saw the Omivorous Cyclops Cows, she almost felt ashamed for ever fearing them. Even the Greater variants were still only Tier 4, and unbalanced Tier 4s at that.
+
+The cows were extremely unoptimized, in Elise’s opinion. Their eye beam used mana, and quite a bit of it, meaning they had to have a relatively high Mana stat, but having high Mana meant that its physical stats couldn’t be as high, so as long as anyone hunting them avoided the eye beam, it would be easier than hunting just an ordinary cow of the same tier.
+
+And even the eye beam itself wasn’t anything special. It was just a concentrated beam of mana, and now that Elise’s stats were higher, it appeared slow and inaccurate to her. It had to have been for the Tier 3 version of her to be able to dodge it so consistently, but seeing it from her current position, it seemed a bit silly. She easily killed a few of them and scared the rest off before floating the corpses back to the drow and turning in for the night.
+
+The rest of the vacation passed similarly. Elise spent time with the dwarves whenever Hallbjorn was available, and either meditated or stayed with the drow when he wasn’t. It was so peaceful that the bulk of the encounter with Quel’Khulan faded to the back of her mind, leaving her with only the thought of learning to manipulate aether through her soul. She did not make any progress on that front, unfortunately, but in her brief communications with Oberon, he assured her that it was more than possible, though he himself did not know how to do it. She would have to ask Irylax if she wanted proper help.
+
+Elise at this point was used to Oberon’s general ignorance on many matters relating to aether. At first, she was confused, since he was so old, and made such liberal use of aetheric Skills, but when she thought about it more, it made sense. Oberon was not the type to spend hours, days, weeks, or years practicing. He wasn’t the type to study and improve his Skills. He only cared about fun, and with his cloning ability, he had all the fun he needed to. He was vaguely aware of most aetheric techniques, and had practiced some of the more basic ones, but he had not bothered to learn the rest. His knowledge was great compared to the average person, but compared to the world’s other aether experts, he was at the bottom of the list.
+
+While he could offer her no help on that, he could, however, send her news of his search for the boxes. In short, he did find out where they were. Or rather, where they had been. Apparently, he had a friend who at one point owned two of them, but a mysterious woman that Elise assumed was the other freed celestial had retrieved it from him just a day after Quel’Khulan was freed.
+
+In the meantime, Quel’Khulan had not been seen anywhere else since the day he was freed, and Oberon had no idea where he was. He assumed that he had somehow regrouped with the Spy and found a place to lay low or prepare for whatever it was that they were going to do.
+
+Elise wondered if perhaps Quel’Khulan and the others were related to the upheaval that Titania had talked about. It would certainly make sense, given that she had also told Elise to come here and free the Paladin. And if they succeeded in their goal of eliminating the gods that created the System, and the System was changed or destroyed, that would certainly generate enormous amounts of chaos in the world. But she also had a feeling that she was missing something important, and she couldn’t figure out what it was.
+
+The break came to a quiet and happy end, and after promising both the dwarves and drow that she would return when she could, she took up the dancer disguise once more and teleported back to Jelor City. It was only Saturday when she returned, so she had all of Sunday to relax and laze about before school started again on Monday, and she spent that time well. She booked an appointment at an expensive massage parlor on Sunday morning, and spent the rest of the day enjoying the warmth in her body while she laid around and read.
+
+Monday morning was a disappointing return to reality, as her mandatory classes were just as boring as ever. While sitting through the gibberish that {Tongues} turned Modern Language into, she made the decision to simply stop coming to class. She wasn’t the only one, with the lecture hall only about three quarters as full as it had been on the first day, so her disappearance wouldn’t be noticed. Well, maybe it would be a little more noticed than the others, but it wouldn’t be odd.
+
+The boredom was broken almost immediately, though, when she got to Aetheric Illusions. While her meditation and work on her soul defenses hadn’t been particularly effective in the past weeks, it had been working, and it seemed that over the break, she had passed some kind of threshold. She could now see through Three’s mask.
+
+“‘Ey, Nellie!”
+
+Penelope scowled briefly before switching to a smile as she turned to face the one who had spoken. It was a somewhat overweight middle-aged man who was badly balding and needed to shower at least three times as often as he did. He was also Penelope’s boss, at the moment.
+
+“Yes, sir?” she asked.
+
+“The boys over there were strugglin’ with some’a the beams. Mind givin’ ‘em a hand?”
+
+“Sure thing, boss!”
+
+“Attagirl!” he said, clapping her on the shoulder before walking away.
+
+Penelope finished her snack and water, then stood up with a sigh and headed over toward where her boss had pointed. Ever since it had been discovered that her Strength was more than some of the laborer crews had combined, her boss had been running her ragged, sending her all across the site to help lift all the heaviest things around. If it wasn’t such good training, and if it didn’t help so much with the investigation, she might have cursed Otto for sticking her with such a role.
+
+Currently, she was undercover as an ordinary laborer, but through the recommendation of one of Otto’s contacts, she was on a highly unusual job, which was cleaning up the Blood Syndicate’s mess in the Jungle. A powerful earth or nature mage could likely have cleaned up the entire place in days, demolishing the buildings and leveling the ground, but that was not an option. While there was no doubt that the Blood Syndicate had fallen, they had been a scourge on the continent for decades, and their connections and crimes didn’t fully vanish. There was still much to uncover, and much to be investigated, so they were instead going slowly and methodically, clearing each building carefully and recovering whatever documents or items still remained for evidence.
+
+The reason that Penelope in particular was there was that Otto had heard a rumor that there was a secret vault somewhere in the site that was only accessible to the Lady herself. Kaia’s vague recollections of her time with the Syndicate confirmed that such a thing existed, and Otto’s network confirmed that nothing of the sort had been found yet. That meant that it was still hidden somewhere nearby, waiting to be found, and ideally, Penelope would be the one to find it.
+
+Maia and Kaia were in the vicinity as well, though neither of them had any cover stories. They were simply camping in the Jungle, and providing support whenever Penelope needed it. Maia had stolen a few things that the laborers uncovered, and Kaia was there in hopes that being at the site would jog her memory, and something would come to her. It hadn’t been all that effective, but she assured the other two that she would know something was important if she saw it.
+
+Penelope wasn’t so selfless as to say she wasn’t at least a little bitter about being stuck with the brunt of the work, but her job wasn’t something the other two could do, so she really had no choice. Besides, being the go-to person for lifting heavy objects let her get a very good idea of the state of the camp, and where things were located.
+
+She completed her boss’s task of helping the other workers lift some heavy wooden beams from a collapsed building, and was immediately assigned to moving some fallen rocks, after which they put her on wheelbarrow duty, carting tons of debris out of tunnels they were re-excavating. It was only close to sunset that she finally got assigned to a task in the area she thought was the most promising.
+
+It was right around the area that Kaia said the Lady lived, and the workers had uncovered a fairly extensive network of tunnels beneath it. Many of the tunnels contained living quarters for the vampires, but a few led to other places around the Syndicate headquarters. A lot of the tunnels had been collapsed in the raid, but they were slowly being dug out and re-opened. Penelope and the twins all agreed that if there was any such vault, it would be in this area.
+
+Her task in this area was, of course, lifting and moving some of the heavier stones out of the way. Penelope grumbled about the investigators’ poor planning and lack of earth mages as she worked, but she also kept an eye out for anything that could possibly lead to a hidden vault. There was one place in particular that she was mildly suspicious of, but hadn’t gotten a chance to look at closely. Not until now, at least.
+
+After she finished moving the debris, she was finally told to get some rest, and that she was done for the day, but on her way out, she took a slight detour, ending up alone in the tunnel system and faced what appeared to be a perfectly blank wall. There was nothing particularly special about this section of wall, but Penelope had the vague sense that it was odd. She had no idea why, but whenever she passed by it, she got the feeling there was more to it, and only after staring at it for a few minutes did she realize why: the airflow here was messed up.
+
+No, I’m just imagining things, she told herself.
+
+She sighed and turned to walk away, then stopped.
+
+Wait, hold on.
+
+She turned back to the wall, then reached out her hand to touch it. Her fingers passed right through the stone. Her eyes widened for a moment, but as she pulled her hand back, her face settled.
+
+I must be tired, she thought. Fingers can’t pass through walls.
+
+She turned to leave again, and again stopped, frowning.
+
+Something’s not right.
+
+For nearly ten minutes, she went back and forth, studying the wall, then dismissing it, then turning back to study it again. Each time, she stepped closer and closer to it, until finally, she got suspicious enough that she took a full step into the wall, then another taking her past it. As soon as she was through, the illusion was broken, and she realized what had happened.
+
+Dammit! She thought. How many times have I passed right by this stupid wall without even touching it? Shit!
+
+She cursed at the wall for a few seconds longer before turning her attention down the tunnel that had just been revealed. It looked identical to all the other ones, but the fact that it had been hidden meant it must have been important. And hidden and important sounded like exactly the kind of thing that Penelope was looking for.

@@ -1,0 +1,203 @@
+---
+id: 4d798906-f326-5916-80d4-882d6bd70f27
+page-type-slug: story-chapter-royal-road
+title: "36: Broken Minds"
+slug: 0036-36-broken-minds
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 36
+ownLength: 2284
+unit: words
+publishedAt: 2025-09-22
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2620153/36-broken-minds"
+royalRoadId: "2620153"
+---
+
+Chloe left the Velvet Lantern as fast as she could, though she had to hand back the shiny ring first. That part hurt.
+
+She liked the ring. It was sparkly, and sparkly things were neat. Still, she had no idea what it was even for, so maybe it was fine. Chloe only pouted a little as she gave it back.
+
+After asking around for directions, she walked to the town square. The place looked busy as ever, with townsfolk bundled up in these thick coats, lugging baskets, even shouting at other people at times.
+
+Chloe cupped her hands around her mouth and yelled, “Shrike! Hey, Shrike! You out here or what?”
+
+Heads turned everywhere. People stared like she’d just screamed free brains out loud. Some looked confused, others annoyed. Chloe only smiled back. What? Yelling makes things faster.
+
+For a moment, nothing happened. Then the door of a nearby building creaked open, and out came a man in a big, puffy white cloak, brushing crumbs off his gloves like he’d just finished stuffing his face.
+
+“What do you want with me?” he asked.
+
+Chloe bounced on her heels, pointing right at him. “Ooooh, so you’re Shrike?”
+
+He tugged his hood back just enough to show a sharp face and dark hair. “I am. And you are?”
+
+Chloe dug around inside Cloaky until her hand smacked something hard and shiny. She yanked it out and held it up like a prize. “I’m Chloe! Iris gave me this coin and said you’d help me find Ynett.”
+
+Shrike’s eyes narrowed the instant he saw it. He plucked the coin neatly from her fingers, turning it over slowly, like he was weighing every scratch on it. “You’re after Ynett, the White Witch?”
+
+“Mm-hm!”
+
+“I’ll need a little time to prepare. Just wait here. When I return, I’ll guide you to her location."
+
+“Cool! I’ll just hang out here then.” Chloe announced, plopping herself down on the nearest bench.
+
+The thing was icy against her legs, but she just kicked her feet and swung them around. Shrike melted back into the crowd.
+
+With nothing better to do, Chloe scooped up a handful of pebbles and started stacking them into a wobbly little tower on the bench beside her. It toppled over every few seconds, but honestly, that just made it more fun.
+
+She rebuilt it again and again, probably ten times or more since Shrike was taking forever, but hey, at least it kept her busy. She puffed out her cheeks, steadying the next rock, only for the whole thing to tumble down again.
+
+She was halfway through rebuilding for the eleventh time when a voice cut through the crowd. “Chloe, was it? I’m ready.”
+
+Her head snapped up, and her pebble tower collapsed all over again. Shrike stood there with a big backpack slung over his shoulders.
+
+“Neat, can we go now?” Chloe chirped, already hopping to her feet.
+
+“Of course. Just follow me.”
+
+Shrike walked ahead. Chloe skipped along behind.
+
+Then they rounded a corner, and Chloe’s eyes lit up. A big building loomed ahead, banners flapping proudly with swords and daggers stitched into the fabric.
+
+She jabbed a finger at it. “Oh hey, I know that place! What even is it actually? I kinda just went in before."
+
+Shrike glanced at her, then at the building. “That’s the Adventurers’ Guild."
+
+"Oooh, I thought it was the Thieves Guild the first time. Whoops.”
+
+A loud snort cut through the air. Then a man’s voice rang out, loud enough so everyone nearby could hear: “Ha! Always knew the Thieves Guild was full of dumb rejects.”
+
+Chloe’s head snapped around. By the steps of the guild building lounged a group of three guys and one girl. All four of them were smirking.
+
+Chloe planted her hands on her hips and asked out loud, “Alright, who said that?”
+
+Shrike slowed, throwing a glance over his shoulder. “Ignore them. Keep walking.”
+
+But Chloe wasn’t built for ignoring. She glared at the group, especially the tall guy in the middle, who was already chuckling harder. “What’s your problem, huh?”
+
+The tall guy smirked, rolling a shoulder in a lazy shrug. “The problem's simple. You’re just another Thieves Guild rat. Happens all the time, y’know? People who can’t cut it as real adventurers end up scurrying off to your little den of crooks just so they can pretend they matter.”
+
+The other two guys laughed. The girl leaned against the wall, smirking with her arms crossed, looking Chloe up and down.
+
+Chloe couldn’t believe what she was hearing. It wasn't like she ever thought adventurers were great, since they were the ones who kept killing her back when she was just a dungeon zombie.
+
+But wow. These particular jerks? They were practically begging to get punched in the teeth.
+
+She curled her fist tight, already itching to swing. But before she could take a step, Shrike’s hand brushed her shoulder. “Careful, they’re B-rank. Don’t pick a fight here.”
+
+Chloe puffed out her chest and pulled away with a huff. “I don’t care, nobody makes fun of me. Especially not ugly-face over there.”
+
+She stomped forward, but the tall guy’s backup moved in quickly. One had a spear, the other a pair of shiny daggers.
+
+“Aw, look at the little rat getting mad,” spear guy snickered.
+
+The girl lounging at the side laughed too. “Careful, boys, she might try to bite.”
+
+Chloe was just about to lunge at the spear guy’s dumb face when she heard the sound of boots clanking loudly. A group of armored people marched in, and they stopped right between Chloe and the adventurers.
+
+“What’s going on here?” one barked, hand resting on his longsword. The others looked around with hard eyes, and suddenly the whole place went quiet.
+
+Chloe threw a hand up, opening her mouth to tell the armored people that those adventurer jerks started it. But Shrike beat her to it. “Nothing, officers. We were just leaving.”
+
+Of course, the adventurers weren’t about to let things go. The tall guy stepped forward, throwing his hands up like he was the innocent one. “Actually, officer, it was them. The thief brat started shouting and tried to pick a fight. Can’t have rats like that disturbing the peace.”
+
+Chloe’s fists tightened. She was about to shout back when one of the officers sighed, sounding like he’d dealt with this nonsense a thousand times. “Break it up. All of you. Or else.”
+
+The adventurers exchanged glances, then backed off with smug little grins. “Yeah, yeah, fine,” the tall guy muttered, flashing Chloe one last look before sauntering away with his friends.
+
+Chloe glared into their backs until they vanished into the crowd. Shrike’s hand brushed her arm, tugging her toward a side street. “Come on, let's go."
+
+Once they were clear, Chloe yanked her arm free and stomped her foot. “Why’d you stop me? Did you even hear them? They were total meanies!”
+
+“If you fought them, you’d have made enemies of the Adventurers’ Guild. And when the law officers stepped in, you’d have been branded a troublemaker too. Not worth it.”
+
+“Law… what now?"
+
+“Law enforcement. They’re the guards and officers who keep order in the city. If you break the rules, they throw you in a cell, or in the worst case, a dungeon."
+
+Chloe didn’t like that last part about dungeons one bit. She might’ve been a dungeon zombie before, but that didn’t mean she wanted to get tossed into one against her will. If she was gonna explore a dungeon, it would be on her own terms. And if that meant not punching people in the face for now, then fine. But she wasn’t thrilled about it.
+
+She kicked a loose pebble down the street, sending it bouncing ahead. “But seriously, why are those adventurers such jerks? I mean, I already knew they were annoying, but that was like… extra annoying."
+
+Shrike adjusted his cloak as they walked. “Adventurers tend to think they’re better than the Thieves Guild. But the truth is, there are also a lot of dirtbag adventurers out there."
+
+“Exactly! That’s why I wanted to punch them!"
+
+“I get it, but you need to learn there’s a time and place for everything. If you want to hit someone, make sure it won’t drag half the city down on your head. And besides, we have more important things to focus on right now, don’t we?”
+
+Chloe puffed her cheeks out again, arms crossed. She mostly knew Shrike was right, but admitting it was the worst. “Hmph. Next time, I’m not holding back.”
+
+She stomped after him, Cloaky swishing dramatically at her heels until the street spilled out into an iron gate flanked by two guards.
+
+Shrike stepped up first, tugging his hood back just enough for them to see his face. He spoke real quietly, too low for her to catch, but one of the guards gave a nod and lifted his hand. The gate soon creaked open.
+
+Chloe leaned sideways, eyes wide as she looked through the gap. Do all gates make that spooky noise, or is this one, like, a special gate? Either way, she decided it was awesome.
+
+“Come on,” Shrike murmured, waving her through.
+
+Chloe skipped forward without hesitation, throwing both arms up in an exaggerated wave. “Thanks, gate guys!”
+
+***
+
+Several days later.
+
+The cave flickered with firelight. Shrike sat close to the bonfire he’d built, his big white cloak wrapped tight around him as he slowly turned a stick with some unfortunate critter roasting on it.
+
+Chloe, on the other hand, was squatting a few feet away, proudly holding up a rock. She tilted it back and forth, humming like she was appraising it for treasure.
+
+Finally, she tossed the rock aside and leaned toward Shrike. “Sooo, are we close to where Ynett is yet?”
+
+Shrike let out a long sigh. “If we set out tomorrow, we should reach the village where she was last seen by nightfall. That said, I have to say that I’m surprised you’re not freezing in that thin cloak. And I’ve noticed you haven’t eaten or drunk anything since we left Evergale.”
+
+“That’s because I’m not a human like you.”
+
+“Oh? Then what are you, if not human?”
+
+“Uhhh, I mean, I am human! Totally! I love doing human things. Like… eating food! And drinking water! Yep. Lots of water.”
+
+“Relax. Your secret’s safe with me. You’d be surprised how many people in the Guild aren’t exactly human either.”
+
+“Oh, well in that case, I’m a zombie.”
+
+Shrike’s eyes shot wide. He opened his mouth like he had something serious to say. But then, a faint sound echoed from deeper in the cave. A sharp scrape, like claws dragging across stone.
+
+Chloe’s head whipped toward the noise. “Uh, what was that?”
+
+Shrike stared into the darker parts of the cave, one hand sliding down to rest on his sword. “Most likely a cave bear. They wander into places like this sometimes. We can just scare it off.”
+
+But then another sound ripped through the dark. High pitched, shrill, and piercing, the kind of shriek that made the fire itself flicker. Chloe winced hard, slapping her hands over her ears. “Do bears sound like that?”
+
+Shrike drew his blade. “No.”
+
+Chloe’s grin snapped right back as she yanked her sword free with a little flourish. The fire popped and hissed, shadows stretching all weird and wobbly across the cave walls as that sound came again. Then shapes started sliding into view at the edge of the glow.
+
+At first, Chloe thought they were people. Pale skin, bony limbs, hunched backs. But when she squinted harder, she wasn't sure if they were humans after all.
+
+For one thing, these fellas were really skinny. Their ribs poked through their skin, faces sharp and hollow like someone stretched them wrong.
+
+Wait, wait, wait… they kinda look like zombies. But skinnier. And their flesh still looks fresh, not all gross and rotten like it’s supposed to. So… zombies, or not-zombies?
+
+The strange creatures dropped onto all fours with sickening cracks in their joints, their movements twitchy and wrong. Drool spilled from their mouths, dripping onto the ground.
+
+Chloe leaned closer to Shrike. “Sooo, those aren’t bears, right?"
+
+Shrike’s gaze didn’t leave the creatures. “No. Not even close.”
+
+The first creature lunged straight at Chloe and Shrike, jaws stretched wide. In response, she dashed forward and brought up her sword. One clean slice, and the thing’s head spun away, rolling across the ground with a wet clatter while the body staggered, twitched, and crumpled at her boots.
+
+Another screeched as it skittered around the fire toward Shrike. But he managed to cut it down in a vicious arc. The point drove straight through its chest, bursting out its back with a spray of blood.
+
+The creature shrieked once before collapsing in a limp heap. Shrike yanked his sword free, already sliding his stance, his cloak snapping as he turned toward the next.
+
+Two more came crawling for Chloe, low to the ground, all ribs, claws, and snapping teeth. The first launched itself at her.
+
+Chloe twisted aside, dragging her sword up in a strike that split its belly open before tearing up through its throat. Hot blood splattered her cheek as the thing folded with a choking rasp. The second was quicker, snapping at her ankles.
+
+However, Chloe’s boot came down hard, crunching its skull against the stone. It writhed, pinned under her heel, until she drove her blade straight down its chest.
+
+[You have killed: Mind Broken Villager (Level 10)]
+
+[You have killed: Mind Broken Villager (Level 9)]
+
+[You have killed: Mind Broken Villager (Level 9)]
+
+[Experience Awarded]

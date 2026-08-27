@@ -1,0 +1,65 @@
+---
+id: c134a4b7-dfd6-5358-adf9-a9c352468bd0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1518 - Snail Nursery"
+slug: 0166-chapter-1518-snail-nursery
+partOf: chrysalis
+position: 166
+ownLength: 1016
+unit: words
+ownProgress: 1016
+publishedAt: 2025-02-27
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2091840/chapter-1518-snail-nursery"
+royalRoadId: "2091840"
+markedReadAt: "2026-06-29T19:49:09.342Z"
+---
+
+The chal are a lost people, and knowledge of their society, their manner of speech, even their appearance, is long-abandoned knowledge. There is little use in clinging to the past on Pangera. Despite what the affluent people living in bejewelled cities within the fourth stratum may think, they are locked into an endless struggle to survive along with everyone else. There is never peace between the Dungeon and the sapient races, and the fall of the chal is just one example of the dreadful cost of failure.
+
+Tucked away in various places, it’s possible to find experts on the chal, those who have dedicated their lives to preserving what little remains of their once-mighty empire. If you were to ask them, they would describe the chal as wise, patient, peaceful and shockingly powerful. They were the first to raise a mighty empire in the fourth stratum, and then risked it all in a virtuous mission to rid the world of the blight that infested the fifth.
+
+Obviously, they failed.
+
+-           Excerpt from ‘Lost Peoples of the Dungeon’ by Lalo
+
+[A chal?] Coolant wondered. [I must confess, I don’t know all that much about them. Is this some sort of monster?]
+
+Rathwyn found himself barely able to speak. What he saw in front of his eyes simply couldn’t be. It was impossible! And yet… the snail was there, placid, calm, looking at them with a level of patience that seemed almost surreal for a creature who had only just been born.
+
+[Well… I can see you need a moment to collect yourselves,] Coolant observed, noting that one of the academics appeared to have passed out. [We’ll gather these little ones and take them to the sanctuary we prepared. You can come along if you like.]
+
+Another ant entered the chamber with a large, round dish gripped in its mandibles. Coolant and Propellant approached the basin from which more and more snails were emerging and for some reason, bowed. The snails turned their eyes toward the pair, then, without exception, bowed back.
+
+[I don’t know why, but they seem to like this gesture,] Coolant explained before using her antennae to prompt the baby snails onto the dish.
+
+Rathwyn watched the whole thing occur in a blank state, still unable to process. The implications were impossibly out of reach, no matter how many times he reached for them. He turned, recalling that Professor Englebert was well read on the subject of the chal, only to find him foaming at the mouth and vibrating as he stared blindly into space.
+
+With some difficulty, the mages of the Tower supported each other to walk behind the dish as they moved through several chambers similar to the one they just exited. All the while, the little snails remained calm, looking at everything happening around them with a sense of reserved curiosity.
+
+[If you know something about these little guys, it’ll be helpful for us,] Propellant said. [We don’t know enough to be able to teach them anything of their own history or culture. I hope you’ll be willing to share.]
+
+[O-of course,] Rathwyn managed, collecting a little of his usual aplomb. [I apologise for… my lack of clarity. We’re all just… rather surprised.]
+
+Putting it mildly!
+
+Finally they came into the room that the ants must have created to house the newly born snails. Considering it could only have been built over the last few days, they’d been remarkably thorough. It was larger than Rathwyn had expected, twenty metres square, and filled with all sorts of things that the Colony seemed to have assumed young molluscs would want. Pools of shallow water, leafy green and vibrant plants, along with surfaces of various textures that rose and fell, allowing the young chal to slide and climb all over the place if they so decided.
+
+The dish was placed down and the latest group of chal were introduced to the room, sliding off onto the floor. Curiously, whenever they met another snail who they hadn’t seen before, they bowed their little heads, a respectful gesture that seemed to be instinctual for them.
+
+A dozen ants of a variety that Rathwyn had never seen before moved through the room, carefully placing their legs as they interacted with the newborn children, cleaning them, urging them toward the food or picking pieces of detritus off the ground.
+
+[Brood Tenders,] Coolant answered his unspoken question. [Normally, you won’t ever see them outside one of the antcademies or a brood chamber, but we felt their expertise would be needed to properly care for the little ones. Some were brought here on short notice. Thankfully, the snails seem amenable to being cared for by ants.]
+
+[And what do you intend to do with these chal?] Nemis, or Kathy, to use her cover name, asked pointedly. [What reason do you have to care for them?]
+
+Coolant and Propellant looked confused by the question, turning a little toward each other and waggling their antennae in a confused manner.
+
+[Well, we have no plans at all. How could we? We had no idea what would come out of the eggs until a few days ago. It was by chance that we came across them in the first place. Since they have been born here in the fortress and in our care, we intend to look after and raise them as best we can. Why would we do any less?]
+
+[I think my associate is only concerned that the young chal are being cared for. Since you clearly have every intention of looking after them, that’s well,] Rathwyn broke in, staring hard at ‘Kathy’.
+
+Did she really think the Colony was planning on raising some mighty army of chal? There were a few dozen of the snails in this chamber, and they were barely hatched! To rebuild the chal empire to any sort of strength would be the work of hundreds of years!
+
+[Let us leave the young to their rest,] Rathwyn suggested, [and we can go somewhere else and tell you all that we know of the chal.]
+
+[That’d be great,] Propellant said.

@@ -1,0 +1,278 @@
+---
+id: 3329682f-ae00-5ac5-adb8-6d51e6174d4f
+page-type-slug: story-chapter-royal-road
+title: "161 - The Saintess Is Here"
+partOf: bunny-girl-evolution
+position: 27
+ownLength: 3462
+unit: words
+ownProgress: 3462
+publishedAt: 2026-01-06
+link: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/2916341/161-the-saintess-is-here"
+royalRoadId: "2916341"
+markedReadAt: "2026-06-29T20:03:32.247Z"
+---
+
+“Jessie!” said Elise.
+
+“Who are—?” started Samantha. “Wait, Jessie?!”
+
+“Yup!” said Jessie. “My full name is—”
+
+“Jessica Lux!” interrupted Samantha excitedly. “The Saintess of the church of Light.”
+
+“Y– Yeah,” said Jessie.
+
+“The Saintess?” said Helene, putting a hand to her chin. “You were in disguise before?”
+
+“Yeah,” said Jessie. “A bloody suffocating one too.”
+
+“How did you get permission to drop it?” asked Elise.
+
+“Well apparently, when I asked before and they said ‘no,’ they actually meant ‘wait for us to discuss it,’ and now they’ve discussed it, and they gave me the okay!”
+
+“It was that easy?”
+
+“I guess we were just impatient.”
+
+“Wait, Eleanor, you already knew?” asked Samantha.
+
+“Yeah, I found out last week.”
+
+Despite the fact that she had a massive advantage over Samantha when it came to finding Jessie in particular, she still felt a bit smug that she had managed to outdo her.
+
+“Damn,” said Samantha. “Right under my nose too. Well, it’s nice to officially meet you again, Jessica.”
+
+“You can call me Jessie,” said Jessie. “And it’s nice to meet you too. Sorry for tricking you.”
+
+“No problem,” said Samantha. “You’re not the only one in disguise here.”
+
+An awkward silence followed that statement before Jessie cleared her throat and gestured toward the trapdoor.
+
+“I guess we should go inside?” she said.
+
+“Sure,” said Elise.
+
+The four entered the musty basement, then the long hallway leading to the classroom where only Three and Emmet were. Three stared at them as they entered, and though her face was obscured, she was clearly confused. Emmet, on the other hand, didn’t look the least bit surprised.
+
+“Good afternoon,” he said.
+
+“H– hello, Professor Emmet,” said Jessie.
+
+“Hello, Jessie. Your true form suits you well.”
+
+“You already knew?”
+
+“Of course.”
+
+“How?”
+
+“Knowing things is my job.”
+
+“I– I see.”
+
+“Then do you know who I am?” asked Samantha.
+
+“Are you sure you want me to answer that question out loud?”
+
+“Yes.”
+
+“...No, I do not.”
+
+“I thought so,” said Samantha happily.
+
+Elise raised an eyebrow at her. The question of Samantha’s true identity had been at the back of her mind ever since finding out she wasn’t the Saintess, but the fact that even Emmet didn’t know added a new layer to the puzzle. Just by being a member of the Larcombe house, Emmet had vast resources at his disposal, and it was clear that his role, both in the family, and in the world, was not a small one. The fact that he didn’t know who Samantha was was interesting to say the least.
+
+That fact alone eliminated basically every single public figure in the world. Elise was fairly confident that anyone with a public presence would have been found out instantly, meaning that Samantha was a hidden figure. What that was though, she couldn’t even begin to guess. Especially not when Jessie was starting a telepathic conversation with her.
+
+“Hey, Elise.”
+
+“Yeah?”
+
+“Are you busy tonight?”
+
+“Not really.”
+
+“Can you invite me over? So we can talk? I’m allowed to be here at school, but if I want to go anywhere else, I have to be with you.”
+
+“Why?”
+
+“It’s that prophecy. I’m not allowed to tell you what the whole thing says, but basically, if I’m with you, I’m good to go basically anywhere.”
+
+“Alright. Then I officially invite you over to my place later after class.”
+
+“Great! What time does your last class end?”
+
+“Around five.”
+
+“Okay. I’ll wait for you by the central fountain.”
+
+“Sounds good.”
+
+No more than a second after they finished their conversation, the door opened again, and Cassian and Leonidas walked in. They were talking intently about some kind of technique, and didn’t notice anything amiss as they walked in and took their normal seats.
+
+“No, but that wouldn’t work,” said Cassian, setting his bag down in his chair. “It’s not possible. You’d need at least 2000 Strength to pull that off.”
+
+“Not necessarily,” said Leonidas. “Here, watch. If you turn your body like this, and then—”
+
+Leonidas paused mid-demonstration as his eyes finally passed over where Jessie was sitting.
+
+“Leo?” asked Cassian.
+
+“Yo, bro, turn around.”
+
+“What is—? Oh. Well, hello there. Who are you?”
+
+“I’m Jessie,” said Jessie.
+
+“Like the dude that normally sits there?” asked Leonidas.
+
+“Yes, that’s me. I was disguised before.”
+
+“Damn, Jessie. Where were you hiding all that—? Oof!”
+
+Leonidas doubled over as he received an elbow to the stomach from Cassian.
+
+“Sorry about that,” said Cassian.
+
+“Hey!” gasped Leo. “It’s a legitimate question!”
+
+“Yeah, but you could have phrased it better.”
+
+“It’s fine,” said Jessie, chortling. “I was using a transformation artifact, so it wasn’t an illusion.”
+
+“Technically, it was,” chimed Emmet. “But yes, it was a physical illusion, rather than a magical one.”
+
+“Wait, transformation?” asked Leonidas. “So you were, like, actually a dude? Does that—?”
+
+“Leo, stop,” said Cassian.
+
+“Am I not allowed to ask questions now?”
+
+“That’s a weird question.”
+
+“I was just gonna ask if she had a—”
+
+“Stop! See, that’s exactly what I mean. That’s a weird question.”
+
+“It is?”
+
+“Yes, I must agree that it’s not an appropriate question for the classroom,” said Emmet.
+
+“Ah, damn,” said Leo, scratching his head. “My bad. Sorry.”
+
+“It’s fine,” said Jessie, her face slightly red. “Also, since I’m re-introducing myself, I should mention that I’m the Saintess of the church of Light.”
+
+“No shit?” asked Cassian. “I mean— Uh… Pardon my language, my lady.”
+
+“I don’t give two fucks what kind of language you use.”
+
+Cassian blinked in surprise, then broke out into a grin. “Nice.”
+
+A moment later, Sophie arrived, and the whole song and dance began over again. Sophie was surprised to see Jessie, Jessie introduced herself, and as soon as she finished, Hugo Larcombe arrived and asked what was going on. Now that she was on her fourth re-introduction, Jessie was clearly regretting having chosen to do them all one by one, but fortunately, he was the last, and soon after Hugo arrived, the class began.
+
+Despite how it started, the class went on as usual without any odd changes. It ended quite normally too, since everyone had to get to their next classes and had no time to have any long conversations. Samantha, Elise, and Helene invited Jessie to grab lunch with them from then on, which Jessie happily accepted, and Sophie almost insisted on cutting class to join them until Elise used {Whisper} to tell her that Jessie would be coming over to their house later.
+
+The rest of the day passed quickly, though not without event. In Defensive Gardening, they finished up their unit on the tanglethorn, and to their surprise, they got to take the plants home with them afterward. Of course, that was not possible in their usual state, since they were now fully mature and each had vines more than twenty feet long, but Professor Sucri had a Skill that was either similar or identical to Daryl’s that was able to somehow return the plants to seeds.
+
+Something interesting about that Skill was that while it reduced the plants to seeds, they were still deemed “living” by the System, meaning that unlike normal seeds, they could not be put into spatial storage. Elise simply put hers into Astrid’s Star, which had no such restriction, but she tried studying the mana and aether first to see if she could unlock its secrets. Unfortunately, she didn’t know what she was looking for, and her senses weren’t quite honed enough, so all she could tell was that it had a lot of mana, and a moderate amount of aether.
+
+In Intermediate Unattributed Spells, Professor Dellinger thankfully didn’t talk to Elise personally again, but she thought she overheard something about a third public indecency incident while eavesdropping on a conversation with another student. Elise made a bit of progress in mastering the art of floating herself while her deskmate, Cassie, made none, and then the two parted ways for Basic Magical Combat.
+
+Just like the previous day’s class, the professor wanted to figure out all the students’ baselines. This time though, rather than physical fitness, he tested their technical skills. And because of that, the students were allowed to bring their weapons, armor, and other combat tools down to the field.
+
+“Today, we have a few helpers!” he said when the class finished changing and reached the track. “Class, say hello to Sir Stephen, Sir Bartholemew, and Dame Lindsay.”
+
+He gestured to a trio of armored knights standing at attention behind him, and the class gave a chorus of unenthusiastic greetings.
+
+“These three were some of my most promising trainees when I was still a knight,” he said. “And today, they’ll be evaluating you. We’ll be splitting up into three groups and rotating through. Each of you will be tested on your offense, defense, and dodging. Just like yesterday, you cannot fail these tests. They exist so that I can get a baseline for your skills so that I know how to train you properly.
+
+“Make sure you do your best though. Last year, I had some students intentionally perform poorly so that they could get through the class easily by making constant improvements. All of those students are retaking the class this semester. I will not tolerate cheating, or any other kind of funny business. You hear me?”
+
+“Yes, sir,” said the class, completely out of sync.
+
+“Good! Now, everyone get in a line so I can sort you out.”
+
+A few minutes later, the entire class had been split up between the three knights, and had spread out across the field. The professor merely rotated through the knights as he assigned each person in line, so Elise and Sophie made sure they were three apart when it came their turn so that they both started with the same knight. They ended up with Sir Bartholomew, a giant who towered over even the giantess that Elise and Sophie had half-befriended in the previous class. The very same giantess was in their group this time as well.
+
+As they followed the giant knight to the right side of the field, Elise noted that he had a tower shield on his back that was almost as tall as he was. And by being almost as tall as he was, it was more than two feet taller than Elise herself was. Even with her Stat-enhanced Strength, she questioned whether she’d be able to lift it. When they reached the edge of the field, the giant turned around and slung the shield off his back before thrusting it into the ground almost a foot deep.
+
+“I will be testing your defensive capabilities,” he said.
+
+He did not speak loudly, but his voice was so deep that it had no trouble carrying to the entire group.
+
+“We will be covering raw defensive power, reaction time, efficiency, and consistency,” he continued. “It is perfectly alright if your defensive power is lacking, as everyone has different specialties, but as your senior who has seen more battlefields than I would like, I encourage you to work hard on the other three.”
+
+He held a hand out, and stone tower about four feet high with a crystal on top appeared.
+
+“Sir Lance said he already showed you these devices yesterday but in case you need a refresher. This will fire attacks using light mana at you. These attacks cannot harm you. However, they will illuminate any mana or physical defenses that you use, and the color and intensity will be relative to the strength of your defenses. Weaknesses and strengths will both be highlighted so that they can be analyzed and improved on.
+
+“It will fire a total of seven projectiles of varying sizes and speeds. Each will have mana relative to their intended threat level, and you should block as if they were legitimate attacks. No dodging allowed. At the end, I will give you a score card based on your performance, rating each aspect of defense out of ten, and your scores will also be entered in Sir Lance’s notebook. Does anyone want to go first?”
+
+Immediately, a confident-looking man wearing a set of plate armor and a steel shield raised his hand. Sir Bartholemew nodded when he saw this, and beckoned the man forward.
+
+“Are your Skills dependent on your armor?” asked the knight.
+
+“Some of them are, yes, sir,” said the man.
+
+“Is the armor equipped with any defensive enchantments?”
+
+“Only durability, sir.”
+
+“I see,” said Bartholemew, nodding. “Then let’s not delay. Are you ready?”
+
+“Yes, sir.”
+
+The giant put a hand to the stone tower, and the crystal on the top blinked three times before firing a mana projectile at the young man. It looked just like a {Magic Missile}, but Elise could sense that it lacked substance. The young man easily blocked it with his shield, and it broke on the metal, turning the whole shield blue for a moment before fading. As soon as the first faded, a second projectile emerged, this one curving around to the side before slamming into the man.
+
+The young man turned quickly, catching the projectile on his shield, though this time, he reinforced the shield with a healthy amount of mana. Turning back to the device, he almost failed to block the next one, which was a small, swift projectile aimed at the base of his neck. He barely got the shield up in time, and this time, when the light flashed, there was a faint orange tint to it.
+
+As the next projectiles came, Elise noticed that all of them were aimed roughly for his center of mass. None were targeted at his head or limbs. It was convenient, as he didn’t have to go out of his way to block any attacks he would otherwise have dodged. Elise vaguely recalled the professor, Sir Lance, saying something about how they should never block if dodging was possible, so she assumed this was an intentional aspect of the drill.
+
+In the end, the young man blocked every single attack, and after being surprised on the first swift attack, the light was blue on every subsequent block, and he finished looking quite pleased with himself.
+
+“Well done,” said Bartholomew, scribbling something on a sheet of paper.
+
+The young man walked confidently up to the giant knight to receive his feedback, but when he received it he frowned.
+
+“Sir—?” he started.
+
+“I do not have time to give everyone individual feedback,” said Bartholomew. “I left you a couple comments. Refer to those for my feedback, and for anything else, think about your own performance. Now, who’s next?”
+
+Soon, the group entered a steady routine of taking the test, receiving feedback, and returning to the audience. Elise and Sophie were both about halfway down, and got to witness dozens of people go before them. Unfortunately, the device seemed to be truly randomized in terms of what kind of attacks it used. No two tests were the same, so Elise had no way to prepare for any specific attacks.
+
+She did get a few ideas on defense though, which was good because she had never actually tried defending before. She had only gotten {Mana Shield} a couple days ago, and before that, she simply dodged everything, as she did not have the ability to block. Originally, she simply planned on doing her best with the {Mana Shield} Skill she had barely practiced with, but one of the other students ahead of her gave her a good idea.
+
+She didn’t necessarily have to block every attack. She could also intercept them. The other student, clearly a pure mage, did this quite effectively, using {Magic Missile} to block two of the projectiles, making them explode into light before they got close to his body. However, this failed when an especially large projectile came his way, passing through his own projectile and crashing into his barely-protected chest. It was not the first time that they saw a red flash, but it was most definitely the brightest red flash.
+
+After that, he was more cautious, and while he still intercepted the weaker attacks, when a stronger one came, he made sure he had a magical shield at the ready. Seeing this performance, Elise got a few ideas of her own. Her {Mana Shield} was brand new, but {Magic Missile} was one of her staple spells, and she was quite good with it.
+
+When it came time for her to try defense, she did her best to imitate the other mage’s technique. The first projectile, unfortunately, was a powerful one that her spell passed through, so she had to try to block it with a hasty {Mana Shield}. The projectile flashed red, and now that she was closer, she saw that it looked almost like a heat map over her mana barrier, brighter in places where the shield was weaker.
+
+She barely had time to note this though before the next projectile was already on its way and she had to give her attention to it.
+
+In the end, her performance was… not quite as bad as she was worried it would be. She managed to intercept two of the projectiles, and got her shield between her and the rest of them. Her shields were not good, but she earned two levels in the Skill in the brief time she was using it, so the drill was definitely useful, and her final shield was noticeably better than the first. Her scorecard more or less confirmed her own thoughts, but she was pleasantly surprised that the giant rated her Reaction Time quite highly.
+
+Power: 4
+
+Reaction Time: 8
+
+Efficiency: 4
+
+Consistency: 4
+
+Notes: New Skill? No defensive experience. Low Physical Stats. Practice more. Avoid trying to block real attacks at all costs.
+
+The notes were succinct, but basically summed up Elise’s skills. Still, it stung a little to see her scores so low. And she suspected they would be even lower if her {Magic Missile} wasn’t so efficient and consistent.
+
+Sophie performed a bit better than Elise in some aspects, but worse in others. The poor girl had never been attacked before, so she froze up at the first projectile, barely getting a weak shield up in time. On the second, she overcorrected, and on the third, she overcorrected the overcorrection. She had somewhat settled in by the seventh, but then the test ended and she didn’t have time to improve further. Bartholomew rated her defensive power all the way at a six though, and her efficiency was higher than Elise’s, which Elise found mildly annoying. If she had time to practice with {Mana Shield} beforehand, her efficiency would have been significantly better. She did not make her annoyance known though, as Sophie was quite sad about the big fat 1 on her consistency, and didn’t need Elise’s own negative feelings too.
+
+Near the end of the defensive drill, it was time for the giantess to go, and to nearly everyone’s surprise, she did not react when the first projectile came. She just stood in front of it with her arms crossed, and only at the last second did her mana flare, flowing through her body to strengthen it. To everyone’s further surprise, when the projectile exploded, it flashed blue.
+
+For the entire drill, the giantess remained motionless, simply taking the blows with her body, only moving her mana near the end to strengthen wherever was getting hit, and every single projectile flashed blue, even the big one with more mana than any others Elise had seen. Her face remained expressionless the entire time, giving her an almost bored look, and it remained that way even after receiving her feedback.
+
+“Well done, everyone,” said Bartholomew. “Even those who scored poorly. Not everyone has the Skills or Stats to stand and block attacks. There is no shame in having a weakness, but it is important to be aware of what that weakness is so that you can make up for it in other ways. Now, we’re tight on time, so I won’t say any more. Your next station is Dame Lindsay’s, where your offensive capabilities will be tested. You are free to go.”
+
+He pointed toward the section of field closest to the classroom where they started. The female knight seemed to be giving some closing words to her group of students as well. As Elise’s group started walking toward her, the female knight’s group turned to head around to the knight on the opposite side of the field.
+
+As they approached, Elise was much more excited for this test. She had never tried defending, but had plenty of experience attacking. And now that she knew that she was being graded, she wanted to score as high as possible.

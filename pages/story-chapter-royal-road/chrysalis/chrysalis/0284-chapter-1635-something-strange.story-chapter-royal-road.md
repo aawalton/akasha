@@ -1,0 +1,69 @@
+---
+id: 1cd24829-7c49-5794-a288-97f7ef77e1bb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1635 - Something Strange"
+slug: 0284-chapter-1635-something-strange
+partOf: chrysalis
+position: 284
+ownLength: 969
+unit: words
+ownProgress: 969
+publishedAt: 2025-09-01
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2564236/chapter-1635-something-strange"
+royalRoadId: "2564236"
+markedReadAt: "2026-06-29T19:52:53.752Z"
+---
+
+Theorazzn is one of the few examples where an Ancient has left a persistent sign of their power that has lasted to the modern era. Followers of the Ancient’s cult are quick to point to the fifth stratum as evidence of Theorazzn’s might, claiming they were responsible for turning it into the toxic hazard it is today.
+
+Interestingly, there is some consensus amongst the cults laying the blame at the feat of this particular Ancient, supported by rumours that the Krath deify Theorazzn in some way.
+
+Regardless, extreme toxicity and corruption are the primary abilities attributed to Theorazzn of the Decaying World. Even being within a kilometre of the Ancient was said to cause almost instantaneous death to all but the most mighty of warriors due to the miasma exuding from the monster’s flesh. Getting any closer almost guaranteed a bad end, since you were now susceptible to a direct application of the Ancient’s slime, which polluted an entire stratum and persists after a thousand years.
+
+-           Excerpt from ‘Collective Wisdom of the Cults’ by Granin Lazus
+
+Theresant looked at the chal gathered around the door and wondered, not for the first time, just what the little hatchlings were thinking. At least they weren’t straining themselves like before, there was no risk of injury that she could see, but it was still unusual behavior.
+
+“Any movement?” Florence asked.
+
+“No movement,” Theresant sighed.
+
+It was nice to have her sister and fellow Council member here to help. After things had finally started to settle down here, she had come to see if there were any aspects of the new curriculum being developed for the snails that could be used to enhance the education program of the Colony’s own hatchlings.
+
+For over an hour now, every single baby chal within the Snailcare centre had been crowded around the door, silent and unmoving. It was as if something outside the room had captured their attention, but what and how the Brood Tenders had no idea!
+
+Even more puzzling, nothing like this had ever happened before. The hatchlings had been perfectly content with the activities and space inside the carefully controlled environment that had been provided for them. All of a sudden, it seemed as if they universally decided they wanted to leave. It was baffling!
+
+So far, the Tenders hadn’t interfered much, there wasn’t any danger that they could see, after all, but their small attempts to lure the snails back to other activities had completely failed. Without exception, every single one of them was focused on the exit to the exclusion of all else.
+
+“Should we… let them out?” Florence suggested.
+
+“What?” Theresant gasped. “The fortress still isn’t secure! There are sections still flooded with toxic mana! Absolutely not.”
+
+“Those sections are completely blocked off. I’m not suggesting we let them slide off unsupervised,” Florence tried to calm her sister, clacking her mandibles in amusement. “If they are sensing something outside the chamber, then it shouldn’t be far away, surely? After taking some precautions and ensuring the surroundings are safe, we can let them out and carefully supervise as they lead us to whatever has captivated them.”
+
+“I don’t see the need,” Theresant stubbornly refused. “There’s no reason to risk the hatchlings’ safety. Any minute now, they may grow bored and go back to playing and meditating.”
+
+“They’ve been staring at that door without moving for over an hour. Whatever is out there, they really want to see it.”
+
+Florence couldn’t help but laugh. The Brood Tenders were obsessively protective about the young, of course they were, but it seemed as though her sister was coddling the little snails even more than she did the grubs. Perhaps she was just sensitive, considering the recent singing trauma they had all experienced. That was perfectly understandable, but from her perspective, there was no harm in letting the snail hatchlings out so they could learn just what had seized their attention.
+
+“With preparation, there should be no risks at all. What do you say?”
+
+Theresant didn’t look happy. Her antennae swung in agitation as she ground her mandibles together. The little snails had only recently recovered after exhausting themselves singing! They’d slept for so long, and been so lethargic afterwards, the Tenders had been afraid to even start singing lessons again, in case their ‘vocal cords’, which were apparently a thing, had been damaged.
+
+Healers had been in multiple times to inspect them in the last day, under strict instructions to keep their complaining outside the room!
+
+Despite having been given a clean bill of health, she still wasn’t confident they were well. If this had happened in a few days’ time, perhaps she would have been more comfortable….
+
+“The possibility exists that we wait and wait, expecting them to go back to their normal routine, but they keep standing there, not eating or resting, and it becomes an emergency,” Florence pointed out. “If we act now, we can head off a potential problem.”
+
+Theresant’s mandibles snapped shut.
+
+That was a lot more convincing. The chal were stubborn, very much so. If they didn’t get what they wanted, they may well just stay there for days on end, driving the Tenders mad.
+
+“Fine,” she eventually muttered. “But you have to ensure their safety! I want the whole fortress on alert!”
+
+“Fine, fine,” Florence laughed. “I’ll be thorough. I don’t want anything happening to them either. Try to remember that.”
+
+The two put their heads together, discussing the best way to ensure the little snails would be safe, no matter where they went in the fortress, before Florence left to start putting their plan into motion. If all went well, it would be less than an hour before the door could be opened and the chal could be introduced to the rest of the fortress.

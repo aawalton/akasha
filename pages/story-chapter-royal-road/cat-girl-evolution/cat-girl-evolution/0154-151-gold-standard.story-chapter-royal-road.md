@@ -1,0 +1,185 @@
+---
+id: 127b3b99-5157-56ab-98a8-ced045143a4b
+page-type-slug: story-chapter-royal-road
+title: "151 - Gold Standard"
+slug: 0154-151-gold-standard
+partOf: cat-girl-evolution
+position: 154
+ownLength: 2405
+unit: words
+publishedAt: 2026-08-19
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3833228/151-gold-standard"
+royalRoadId: "3833228"
+---
+
+Lauren and I return to the inn basically broke. I really should have known that a city inhabited by long-lived artisans would be full of expensive stuff, but… Wow.
+
+We ended up buying a case of 6 bottles of wine for an astounding 2500 gold before heading over to the tailor’s district. Before we left the alcohol, though, I asked out of curiosity what kind of wine I’d need as someone with 30000 Resilience and Poison Immunity. The elf I asked told me that Poison Immunity basically multiplies my Resilience by 10 for each Stage it has when dealing with poisons. My Poison Immunity is now at stage 3, meaning that for the purpose of alcohol, my Resilience is an effective 900,000. We then checked the street for the 700,000 to 1,500,000 Resilience range, and found that every single bottle of alcohol in that range was upwards of 10,000 gold, even for the “cheap” stuff.
+
+So yeah. I’m poor.
+
+The tailor’s district wasn’t any better than the alcohol district. In fact, it was arguably worse, since we spent way more money there. We didn’t even mean to spend much. We just wanted a quick little wardrobe update, and I ended up spending so much that I only have 1000 gold left. That’s basically set for life for someone in a more remote village where they never get above Stage 2, but for me, that’s almost nothing.
+
+The issue with the clothes was that, just like the alcohol district is organized by Resilience, the tailors district is organized by Sensitivity. And instead of overdosing and dying if you try the wrong stuff, you just get sensory overload and go into a coma. Literally. I don’t even know how it’s possible.
+
+Anyway, as much as I love all the old clothes that I got back in Riverfork, I now can never go back. I have been tainted. I have seen heaven, and the earth looks oh so bland, and feels oh so rough on my delicate, royal skin. And even worse, I had to get everything adjusted for my tail, so it cost even more. If only I had never come here. Maybe then, I wouldn’t be so destitute.
+
+“You know, you didn’t have to get twenty–”
+
+Lauren came out a little bit better-off than I did, but not much. She didn’t buy as many new outfits, but she insisted on getting a gift for Chad. The twins too, but mostly Chad. And I may have given her a teensy bit of encouragement to just buy him all three shirts when she couldn’t decide which one he would look best in. I didn’t have any ulterior motives. I just wanted Chad to be happy. The fact that Lauren is now much more receptive to heisting both the frogs and Zorg’s gold is only a happy coincidence.
+
+We return to the inn wearing our new clothes—we couldn’t stand to put the old ones back on—and since it’s actually about an hour after the evening chef got here, we fetch the others and head straight down. The chef happily agrees to cook the frogs for us for the low, low price of 200 gold. Thankfully, Chad must sense me and Lauren’s poverty, and offers to pay for it all, so we hand over the money and the frogs, and then find a table to sit and wait.
+
+Lauren and the twins start talking about something or other, but as I sit around and munch on our appetizers, I start to think about the economy. Usually, I wouldn’t care about the economy, but today has really done a number on my sense of monetary value. I thought that a gold would be worth a lot. I mean, I’m pretty sure a single one of those gold coins would be worth over a thousand US dollars. And in the weaker villages and stuff, they were pretty valuable. I mean, there were houses for sale for just dozens of gold, and I’m pretty sure Lauren’s house cost a couple thousand. But here, a couple thousand gold doesn’t buy you a house. It buys you a bottle of wine. Or a nice dress. I wonder–
+
+“Yona!”
+
+I look over to see the others all staring at me.
+
+“Is Abby saying something?” asks Lauren.
+
+“Huh? Oh. No. She’s probably flirting with Phillip right now.”
+
+“Shut up.”
+
+“Yeah, that’s definitely what she’s doing.”
+
+“Oh,” says Lauren. “Then what were you thinking about?”
+
+“I was just wondering about gold,” I say. “It doesn’t seem to be all that valuable here. I mean, that wine we bought could have bought us a house somewhere else. And all that stuff we saw out there… Is there enough gold in the world to buy it all?”
+
+The others all glance at each other, then turn back to me.
+
+“Yona…” says Lauren.
+
+“Did you really think that a gold is made of gold?” asks A.
+
+“Yeah? Why wouldn’t I?”
+
+“Golds haven’t been made of gold since the Aureate Empire,” says B.
+
+“They were wiped out more than 10000 years ago.”
+
+“Golds have been made of just an alloy of other metals ever since.”
+
+“Are you serious?”
+
+“The gold standard system basically completely collapsed once people started regularly getting above Tier 4,” explains A.
+
+“Gold just stopped being valuable,” says B. “It was only valuable because people said it was valuable, while the real valuable things were items made by Tier 4 and above crafters.”
+
+“But the amount of gold couldn’t keep up with the rising prices of goods, so after the Aureate empire collapsed, the Erchosian emperor decided to just do away with real gold currency, and the current system was born.”
+
+“Also, houses are cheap.”
+
+“A skilled Tier 2 earth or nature mage can build a house in a few days.”
+
+“Even common comfort enchantments aren’t expensive anymore.”
+
+“The only things that change housing prices are location and security enchantments.”
+
+I stare at them for a few seconds, and then turn to Lauren.
+
+“Lauren, are they messing with me right now?”
+
+“No, they’re right.”
+
+I narrow my eyes at her. This is totally something the twins would lie about to prank me, and I can see Lauren doing the same. Sure, I can buy that houses are actually cheap to make here. I can also buy that luxury goods made by and for high tier people would really screw with the economy. It all sounds very plausible, which makes it very suspicious that the twins are telling me.
+
+“Chad,” I say, turning to my only truly trustworthy minion. “Are they messing with me?”
+
+“No,” he says. “It’s actually fascinating how the Erchosian empire built a brand new monetary system that survived for thousands of years. Emperor Erchos the first was truly a genius. In fact, the monetary system isn’t the only thing he created that we still use today…”
+
+Oh right. Chad is a history buff.
+
+Chad launches into a long pseudo-lecture about the legal and guild systems that this old emperor guy put in place, and how they’ve morphed and changed over the years while still staying fundamentally the same. It’s somewhat interesting, I guess, and it’s nice to hear Chad talk since he’s quiet so often. It also basically confirms that the twins were telling the truth
+
+But once Chad gets going about history, he basically never stops. He talks and talks and talks, and while Lauren seems to be very invested, I can’t help but zone out after a little while, and I’m 99% sure the twins are having a secret telepathic conversation. Fortunately, our savior arrives in the form of the chef and some servers carrying our frog dishes. He made three of them, all very different, and all very delicious-smelling.
+
+The first is frog legs. It looks like he just seasoned and roasted them, but they smell so heavenly that I know he had to have done more. The seasoning smells almost cajun, with an enticing spiciness to it.
+
+The second dish looks like little crostinis, with small pieces of lightly toasted bread with some kind of cream-cheese-like spread, roast frog meat, and some dried fruits that might be cherries. The chef explains that the meat comes from the frog’s back, right along the spine. Since the frogs aren’t very big, there isn’t much of it, which is why the meat couldn’t make its own dish, but it’s delicious as a garnish.
+
+The final dish is a stew made from the skin, the bones, the edible organs, and the rest of the meat. He sets that in a large pot in the center of the table, saying it’s not quite done yet, but it will be by the time we finish the other two dishes. He tells us that there’s some kind of magical reaction going on inside that’s turning the bones softer or something like that so we can eat those too, because it’s a waste not to eat the entire animal when it’s a Pseudo-Delicacy.
+
+I wholeheartedly agree with that philosophy, and before he even finishes explaining the dishes, I’m already digging in. With only three frogs, there were only six legs, but I get two, of course. It’s only fair, since I have the biggest appetite. I also get four of the twelve crostinis, and when it’s stew time, I’ll get a bigger portion of that.
+
+The frog legs are every bit as good as the maligar mango was. A very different kind of good, but I can say with confidence that this deserves to be in the same conversation. The flavor of the spatial mana-infused meat is very interesting. It’s almost like mint with the way it cools my mouth, but at the same time, it’s nothing like mint. It feels like instead of making my mouth feel cold, it feels like it sucks all the heat out. And when combined with the spicy, cajun-like seasoning, it meshes perfectly.
+
+The crostinis are interesting, since they take the inherent flavor of the frog meat and use it in a different way. The backstrap meat is slightly different from the leg meat. It tastes a bit more savory, and the spatial flavor is a little less pronounced, so when combined with the sweetness of the dried fruit and the boldness of the cheese, it’s another intriguing combination.
+
+The stew is both the best, and least interesting of the dishes. The spatial flavor is diluted by the broth and vegetables, but the meat flavor is richer, and when I crunch the bones in my mouth, it’s like eating crunchy crack. I could eat these frog bones all day and never get full. Maybe even literally.
+
+And then, the meal is over. The food is gone. Even with my double portions, it wasn’t much. There were only three frogs, so it makes sense, but the disappointment is visible on all of our faces as soon as we finish scraping our bowls clean.
+
+“I think we should do the frog heist,” says Lauren.
+
+The twins both look at me.
+
+“What?” I say.
+
+“We know you did something,” says A.
+
+“She’s way too eager,” says B.
+
+“I am not eager,” says Lauren. “I just… think that the reward is worth the risk is all.”
+
+The twins eye her suspiciously, then look back at me.
+
+“Also, I think we should expand our heist,” I say. “The frogs are a fantastic reward, as we all just learned, but I think we can do more. Zorg is a dictator, and he’s ruining the environment. He’s also clearly got the Greed Trait, so I bet he’s got a load of valuable stuff stashed away somewhere. He’s been trading with a bunch of people, after all. Plus, he only deals in cash, so he’s got a lot of gold stockpiled somewhere. I think it would be a waste to only go and steal the frogs. It’s not like he needs all that stuff. He’s about to die, after all.”
+
+The twins look over at Lauren as if waiting for her to object.
+
+“I wouldn’t say we necessarily have to expand the heist,” says Lauren. “But if we happen to have an opportunity to grab some other things, I don’t see why not…”
+
+“You definitely did something to her,” says A to me.
+
+“Why are you talking like Lauren can’t think for herself. Why am I the one you turn to when she makes an independent, adult decision?”
+
+“Because last night’s Lauren would never have agreed so easily.”
+
+“So spill, Lauren. What happened?”
+
+Lauren hesitates, glancing over at me, then sighs.
+
+“I spent most of my money. And there was still so much I couldn’t afford. You should have seen the wines they had. And the herbs, and the spices, and the clothes… And we didn’t even go to the smith district… It was all so expensive, and I don’t have an easy way to earn enough money to afford it all. I just thought that if we got some more from Zorg…”
+
+The twins both shake their heads in mock disappointment.
+
+“You should have chosen a more profitable Profession,” says A.
+
+“There’s so much competition in cooking,” says B.
+
+“Anyone can make food.”
+
+“Not anyone can make a metal sphere that does detailed scans of thirteen different kinds of mana.”
+
+“Specialized products earn way more.”
+
+“Supply and demand, Lauren.”
+
+“Supply and demand.”
+
+“Shut up,” says Lauren. “I guess that you two don’t want in, then? Fine, that’s just more for me and Yona.”
+
+“And Chad,” I say.
+
+“And Chad,” she says, nodding.
+
+“Hey, we never said that,” says A.
+
+“We already told you, we’re fine with either.”
+
+“Then it’s settled,” says Lauren. “We’re doing it.”
+
+“Fine with us,” say the twins, shrugging.
+
+“Excellent,” I say, rubbing my hands together. “Then let's talk details. And order some more food. I’m starving.”
+
+Mac crested a low mountain, and from the peak, he could finally see it. Dryadil. The Targeting System for the First Event was pinging him louder than ever, and he knew his Target had to be there.
+
+Zorg, you really picked the wrong place to set up shot, thought Mac. So much water. It’s practically my home turf.
+
+For the first time in a week, Altair saw land. Flying for a week straight didn’t actually strain him at all, but it sure as hell pissed him off.
+
+Piece of shit. Mac, you’re fucking dead meat for making me travel this far.

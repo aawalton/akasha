@@ -1,0 +1,174 @@
+---
+id: a5f33e55-f694-5889-8f29-181d362c1317
+page-type-slug: story-chapter-royal-road
+title: "172 - Tales From the Past"
+partOf: bunny-girl-evolution
+position: 38
+ownLength: 3572
+unit: words
+ownProgress: 3572
+publishedAt: 2026-02-14
+link: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3052805/172-tales-from-the-past"
+royalRoadId: "3052805"
+markedReadAt: "2026-06-29T20:03:53.230Z"
+---
+
+The moment Elise appeared in Everspring, she wandered around until she found a sufficiently abandoned alleyway, and quickly donned a disguise. She didn’t notice anyone watching her, something she had become adept at through {Aether Sense}, but she figured it would be better to be in disguise as she went to the castle, just in case someone saw her. It would be bad for her cover story if commoner Eleanor Gray was seen walking up to Everspring Castle and just being let in.
+
+For her disguise, she chose the same form that she had when she attended the previous Ostra meeting, that of a tall woman with dark hair, bright silver eyes, and an elegant black dress and hat. It was highly conspicuous, but that was fine. This woman did not exist anywhere, so it would be Oberon’s problem to handle if any weird rumors spread about the types of people visiting him.
+
+Actually, that could be fun, she thought. Increasingly ridiculous disguises every time I show up…
+
+With that in mind, she decided to disable {Subtle Royalty} as well before continuing on to the castle. As expected, without the suppression Skill, every eye turned her way, and a small smile played on her lips as she imagined the rumors that might spread because of her actions. A striking, mysterious woman appearing out of nowhere, privately visiting Oberon in his castle, then disappearing soon after wasn’t something that happened every day.
+
+She debated activating {Royal Presence} too, but felt that would be going too far. Especially since she was walking so openly through the city. The average person wouldn’t notice, but there were so many wealthy and powerful people in the city that the odds of her Skill reaching someone who recognized it were a little too high for her to be comfortable with. Not that it would be a huge deal, even if it did, but it was an unnecessary risk. Her high Charisma did plenty on its own.
+
+As she walked, she also reveled in the sense of having her aether unrestrained in public. It felt liberating, almost. {Subtle Royalty} wasn’t an uncomfortable Skill, but having it finally disabled like this felt to her soul like stretching after a long nap did to her body. There was a somewhat indescribable sense of relief and satisfaction that came with not needing to hide it.
+
+When she reached the castle, she estimated that she had passed by at least a thousand people, and no doubt left a lasting impression on all of them. She was greeted at the gate by a pair of changeling guards that found her highly suspicious, but relayed her request to meet with Oberon anyway. While she was unfamiliar and untrustworthy, she was also obviously too important to just turn away.
+
+A small crowd of passersby who had conspicuously slowed their pace had gathered by the time she was let in. Elise maintained a calm, and unbothered facade, but she saw them from the corner of her eyes, and she heard the vague sounds of distant whispers and murmurs. She wished that she had her rabbit ears so she could hear what they were saying, but unfortunately, all she could do was guess.
+
+It only took about five minutes for Oberon to arrive, or at least two of his clones. They wore the forms of two of his more frequent personas, a slack-faced butler and a nervous maid, and they greeted Elise with a deep bow.
+
+“What an unexpected surprise,” said Butleron. “His Majesty has been informed of your presence. Please follow me.”
+
+“Is that any way for a butler to treat an esteemed guest?” Elise said haughtily. “It seems that His Majesty’s hospitality has deteriorated of late if this is the level of his servants’ etiquette.”
+
+She sensed Oberon drop his aether suppression Skill momentarily to reveal a strong mixture of surprise and amusement, but his clones kept up their act perfectly. The maid’s eyes widened and she wringed her hands while the butler’s face paled and he bowed.
+
+“My deepest apologies, My Lady,” said the butler. “Please forgive this one’s incompetence. I did not wish offense. I was merely flustered by your sudden arrival and forgot myself.”
+
+“Hmph,” said Elise. “Well, I’m here on urgent business, so I will let things slide this time, but inform His Majesty that I expect a more appropriate welcome upon my next visit.”
+
+“Of course, My Lady,” said the butler, still bowing.
+
+“Good. Now, take me inside. I have another appointment later, and I won’t have your ineptitude making me late.”
+
+“Of course,” said the butler, straightening. “Right this way, My Lady.”
+
+Elise wished she could turn around and see the reactions of the people nearby, but she felt that would ruin the act, so she kept her eyes straight ahead, following the butler and maid inside. The moment the doors shut behind them, both Oberons merged into one, donning his usual appearance as he doubled over in laughter.. Elise dropped her persona as well to giggle alongside him.
+
+“That was excellently done,” said Oberon. “I’m sure my people will be utterly baffled. People will be talking about that for the next week.”
+
+Elise felt a bit disappointed that he had seen through her intentions so easily, but it was to be expected, as he was the ultimate prankster himself. Still, even if he knew she had done it, she had accomplished her goal, and she had likely caused at least a little inconvenience as he would have to explain himself to his closer subordinates.
+
+“I’m glad you enjoyed it,” she said, shifting back to her normal appearance.
+
+“So, what brings you here? It doesn’t seem to be urgent, since you’re playing pranks, but unannounced visits have an equal chance of being very pleasant, or very unpleasant.”
+
+“Well… I’m not sure which this will be, but I’m mostly just here to talk, since I haven’t been here in a while.”
+
+“A pleasant visit, then!” he said cheerfully, turning toward the hall. “I’ll prepare us some snacks, then, and we’ll head to my office!”
+
+“The topics might be a little heavy, though.”
+
+He hesitated for a split-second mid-turn, then resumed and started walking down the hall.
+
+“Then I’ll make sure the snacks are very sweet!”
+
+A few minutes later, the two were sitting across from each other in Oberon’s office, a vast array of sweet treats on the table between them.
+
+“So, did you have anything light to discuss, or is it all heavy?” asked Oberon, munching on a chocolate cookie.
+
+“There’s one lighter topic, but the rest is heavy… I think.”
+
+“Then let’s do all the heavy stuff first, so we can end on a high note. I think I already know what one of them is.”
+
+“Yeah…” said Elise.
+
+She took a bite out of a donut-like pastry as she thought of what to start with. The matter of Titania was likely what Oberon was thinking of, but Elise wasn’t sure if she wanted to broach the topic quite yet. She had a feeling that Oberon wouldn’t be able to say much more than Titania had, and it wasn’t immediately important to her either. There were more pressing matters that she wanted answers for first.
+
+“Do you… trust Freddy?” she asked.
+
+“I don’t trust anyone,” said Oberon with a shrug. “Trust is how you get betrayed. But if you want to know my feelings on Freddy specifically… I believe it’s best to give you some background.
+
+“Long ago, in the time before the System, there were no Demon Gods. However, there were Demon Kings. There were seven of them, each tied to one of the sins, Pride, Envy, Wrath, Gluttony, Greed, Lust, and Sloth. Sloth was the first to reach godhood. Some say it was even an accident. She just wanted to go somewhere that the others would not bother her and ended up ascending to avoid them.
+
+“Pride was second, of course. He was not about to be outdone by any of the others. Lust followed shortly after, chasing Pride’s tail, and Greed was next, hoping for power greater than anything he could get as a mortal. Wrath was always Greed’s enemy, so he was the fifth so they could continue their ongoing conflict. Gluttony took a long time to ascend, only finally doing it when her prey, one of the Zodiacs, ascended as well, and she followed for a taste of its flesh.
+
+“Envy tried her hardest to ascend, but as always, she was stuck chasing behind the others. She did not manage to find the secret to divine ascension before the arrival of the System. When the System arrived, she was immediately deemed as a peak 9th tier and given a Divinity Quest, which would allow her to ascend as soon as she completed it. However, rather than being glad at the opportunity, she was infuriated, as the Divinity Quest was impossible, as they tend to be.
+
+“She tried to find a way around it for centuries, but ultimately failed and perished. And the one who killed her was, of course, the next Demon King of Envy. The new Envy found himself in the same position as his predecessor, envious of the other Sins for their status, but unable to reach them. He too was killed and replaced, as was his successor, and the one after that. The fifth Demon King of Envy survived for a very long time, mostly by brutally killing any other demon who dared evolve into anything related to Envy. His brutality was his ultimate undoing, however, as he ended up angering the new Demon King of Wrath, and his reign came to an end.
+
+“For a few centuries, there was no Demon King of Envy. There were hardly any Envy demons, let alone ones powerful, intelligent, and motivated enough to rise to such heights. Then, a new one rose, this one far different from the last. Rather than a cruel and fearful leader, he was a benevolent one. He was still envious at his core, of course, but he also possessed an odd mixture of intelligence, charisma, and empathy that allowed him to gather a group of devoted and loyal followers who trusted him implicitly. He was even able to keep his Sin entirely under his control, something that very few other demons could do. Truly a peerless genius.”
+
+“And that was Freddy?” asked Elise.
+
+“No, that was Freddy’s predecessor,” said Oberon. “A pleasant fellow, though odd. He used to be one of my good friends. The three of us traveled around the humanoid lands, studying them and carrying out the most wonderful of pranks. Then, Titania ascended, and he disappeared, saying he would do the same. I do not know what happened to him. All I know is that a few decades later, Freddy appeared seemingly out of nowhere, already a fully-fledged Demon King of Envy, and that even today, there still is no Demon God of Envy.
+
+“So you wanted to know my thoughts on Freddy and whether I trust him? Well, my answer is that he is the Demon King of Envy. And that is all.”
+
+“...I see,” said Elise.
+
+She bowed her head, deep in thought. Oberon’s tale had been highly informative… but also utterly uninformative. The revelation that Freddy was the Demon King of Envy was important, but she didn’t know what it meant for her. She had a guess for why he might have been targeting holders of the Rune of Fate, if he was trying to ascend and become the Demon God of Envy, but that didn’t tell her anything about specifically what his goals were. Had he killed the other holders? Or had their deaths merely been accidents?
+
+She didn’t know what to think, but there were two distinct possibilities in her mind. The first, and the most unpleasant was that Freddy had approached these people, knowing they were holders of the Rune of Fate, and hoping that they could help him ascend, and that he had killed them during his attempts to overcome his mortal limits. The other was that he had approached them with honesty, forming a mutually beneficial relationship, and that their deaths had been unfortunate incidents, but not in any way intentional on Freddy’s side. She strongly hoped it was the latter, just because she did not want to believe that he was such a sinister character, but she could not deny the possibility of the former.
+
+Remembering Rayna’s warning about the secret of Freddy and the aetherborn, she did not ask Oberon about the previous aetherborn, but there was still at least one more question she wanted to ask.
+
+“Do you think that he—?” she started.
+
+“Killed the previous Demon King of Envy?” asked Oberon. “Frankly, I don’t know. Maybe he did. Maybe he didn’t. It doesn’t matter. The former Envy was not going to live much longer regardless. That attempt to ascend was going to be his last, no matter how it went. Whether Freddy killed him before or during his attempt, or whether he only reached his current level afterward is irrelevant.”
+
+“I see…”
+
+The two sat in silence for a few seconds. Oberon took a new cookie from the table and started eating it, a rare somber expression on his face.
+
+“Is that all for this topic? I don’t like conversations like this, so let’s move on, if we’re done.”
+
+Elise hesitated for a moment, then nodded. She had more she wanted to know about Freddy, of course, but she didn’t know what she could safely ask, nor what else Oberon would be willing to tell her. She would have to think more on her own before risking any more.
+
+“Then what about Rayna?” she asked. “What—?”
+
+“I’m going to stop you there,” he said, raising a hand. “In my entire life, the number of times I have been successfully tricked into a deal by anyone other than Titania is six. Rayna was responsible for two of them, one of them being a deal for secrecy. I cannot share anything you want to know about her.”
+
+“Oh,” said Elise.
+
+Despite the non-answer, she found his response was actually much more useful than his response about Freddy. She would have loved to ask about Rayna’s past as well, and maybe about her history with Irylax, but the most important thing for Elise was whether Rayna could be trusted, and Oberon’s simple non-answer had said all she needed to hear. It was a resounding “no.”
+
+She thought for a few more seconds, then sighed. Most of the rest of what she wanted to talk about was relatively lighter, like the matters of her soul, and her questions about aether and spawned monsters. The only really serious matter left, at least as far as Oberon was concerned, was Titania.
+
+“My next questions are about Titania,” she said.
+
+“I thought so,” he said with a sigh of his own. “Go ahead. What do you want to ask?”
+
+“I was wondering… could you tell me what your history with her is?”
+
+For a full minute, Oberon was silent as he ate his cookie. Then, he sighed, and slouched down in his seat a little.
+
+“I suppose,” he said. “It’s a bit of a long story, though, so make yourself comfortable.”
+
+Back at the Gray’s house, Irylax reclined on the couch, munching on a loaf of bread and leisurely flipping through the pages of a romance novel that she had bought from a bookshop down the street. Anyone who saw her would have assumed she was lazy, unmotivated, and had not a care in the world beyond the words she read and what would happen on the next page. In a sense it was true. At least about one part of her mind.
+
+Within her soul realm, it was a different story. While a small piece of her mind was focused on the book and the flavor of the bread, another was dreamwalking, watching her apprentice run through the drills she had been assigned. Irylax had been watching her performance in the wimpy spawn zone below the city, of course, and was disappointed. Trembling in fear before a mere Tier 3 Rock Crawler? That was unacceptable. Sophie was a dragon’s disciple now, and she could not be disgracing her master like that. And she would have to learn quickly as well…
+
+While that part of her mind analyzed Sophie’s weaknesses and thought of future lesson plans, a dozen more nearby were dreamwalking in other regions. One watched over her lair in the north, keeping tabs on the kobolds as they repaired and refurbished it. Another monitored the hidden temple of the dragon god, watching for signs of unusual activity. More still traveled the world, watching interesting events unfold, and making mental notes of important people and places.
+
+While those avatars observed the world, another meditated in a simple, enclosed garden. Floating around her scaly form, orbs of elemental mana hovered, constantly shifting in size, density, velocity, and volatility. Of course, none of it was actual mana, as it was all within her soul realm, but she had achieved such a mastery over her own soul that she could give the aether the properties of mana, practicing her mana control without ever touching the outside world.
+
+Another part of her mind was in human form, holding a sword before a replica of a straw dummy. It went through a series of motions, all slow, but purposeful, focusing on precision down to the smallest muscle, controlling everything as perfectly as possible.
+
+At the edge of her soul, in a void that seemed bottomless, three more avatars hovered around a complex web of aether that radiated an aura so sinister it would make even gods tremble. Each of them had their front claws outstretched, manipulating miniscule threads within the web, and a fourth avatar hovered above, watching closely and occasionally calling out instructions to the other three.
+
+Similar scenes played out in various locations within her soul, dozens of avatars hard at work, dreamwalking, training, fortifying her soul defenses, and researching aetheric attacks that could even harm gods.
+
+At the center of her soul, with nothing but empty space for a mile around, a single avatar floated. It was the most important one. The original. The “true” Irylax. This avatar held dominion over all the others, and kept tabs on their work, making sure that none went astray. Anyone who knew anything about soul constructs would assume that this was the most important role in her soul. After all, living soul constructs were among the riskiest things in existence, especially when they were copies of the original.
+
+Irylax, however, had mastered the art of creating copies. It hadn’t been easy, and nearly went horribly wrong, but she was careful, and had plenty of failsafes, and was able to make use of Oberon’s aether to activate them and purge the defective constructs, returning clarity to her mind and soul. Now, watching over the others was only a secondary task. The true role of this lone avatar was far more important than oversight.
+
+It was stifling the seed of divinity that was attempting to bloom inside her.
+
+Most did not even know that such a thing existed, and those that did would never have any reason to prevent it from taking effect. After all, who would turn down the opportunity to be a god?
+
+Unfortunately, Irylax had no choice. The moment she stepped into the divine realm, she would become a target, and she wasn’t powerful enough to handle that. Yet. But she was getting close.
+
+What she had shown Titania was much, much less than she was capable of. Much less than the quarter she told Titania she could do, as well. That spar had been more of a proof of concept than a full test. And she was glad that she had only gone as far as she did. Based on how much damage she had done to Titania with just her proof of concept, she most certainly would have killed her friend if she had gone much further.
+
+The most important thing she had gained from that spar, however, was not the proof that her abilities would work. It was the experience of interacting directly with divine aether. Divine aether was innately different from ordinary aether. It was purer, more potent, and had qualitative changes unique to each deity. Titania’s aether was light and playful, giving anyone who felt it the impression that it was whimsical and harmless. That was an insidious deception, of course, but it suited the goddess of the fey well.
+
+That particular aspect of her aether was interesting, but useless to Irylax. The other divine aspects, though… Currently, she was using what she had learned to modify both her defenses to better defend against divine enemies, and modifying her own offensive constructs to better handle her own divine aether once she finally ascended.
+
+In her current state, even if she wasn’t holding back, she would never be able to achieve her goals. Her goal—her father—was simply too powerful. Even amongst the gods, he was a singular existence. If she herself ascended, though, replacing her mortal aether with divine aether… Then, she might stand a chance.
+
+Soon… she thought, as she gazed into the divinity seed clashing against its restraints. I won’t be able to hold it back much longer…

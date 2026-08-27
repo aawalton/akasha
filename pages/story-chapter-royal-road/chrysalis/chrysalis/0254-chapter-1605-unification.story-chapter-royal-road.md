@@ -1,0 +1,109 @@
+---
+id: 8543f598-21de-5397-853e-7d863ca6a265
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1605 - Unification"
+slug: 0254-chapter-1605-unification
+partOf: chrysalis
+position: 254
+ownLength: 1592
+unit: words
+ownProgress: 1592
+publishedAt: 2025-07-14
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2433846/chapter-1605-unification"
+royalRoadId: "2433846"
+markedReadAt: "2026-06-29T19:51:56.568Z"
+---
+
+Mozant was unspeakably nervous. She had been designated as the Tender with the most musical mind, her work on the curriculum for the hatchlings being the best of any of the ants. As such, she had been chosen to evolve and expand her musical capacity, to take mutations and Skills that would expand her mastery of sound, something the Colony knew and cared little about.
+
+It had been… a liberating experience. Free to pursue this one subject to its limits, she had been able to unleash all of her passion, all of her drive and dedication toward music. She studied composition, she composed, she pestered the experts the Colony had summoned day and night.
+
+Her expertise had grown rapidly in a short time, and yet, she felt she was no closer to actually understanding it than she had been before.
+
+It was hard! It made no sense! Why did things sound good to some people, and not to others?! Sometimes the notes were mathematically pleasing, vibrations spaced at even distances along frequency spectrums to create chords, and harmonies. Other times, they were not, discordant notes sending shivers running along her carapace!
+
+She had developed a thousand strong opinions about music during the course of her learning, only to throw all of them away.
+
+And now, they were going to perform her work for the chal. Her disgusting, inferior work! To a musician, the chal were like creatures of light and magic. Even newly hatched, they were able to sing and weave harmonies with only the bare minimum of training. They were a race capable of literally changing the world with song, for goodness’ sake. She knew they were going to hate her work. Having it performed in front of them was like having nails scraping the inside of Mozant’s carapace.
+
+Intolerable!
+
+But she would tolerate it anyway, for the sake of the little ones.
+
+After counting down, it began. The ants arrayed in front of her were not performing, because of course they weren’t. Behind the arrayed ant choir stood a glass panel, opaque on this side, but quite see-through on the other. Beyond that stood the real choir, a gathering of humans, bruan’chii, the odd set’sulah and even a few magpei, the most gifted and well-trained musicians the Colony could find on short notice. It was to them that Mozant looked and directed her gestures.
+
+The chal continued to sing their little hearts out, a sorrowful melody that rose and fell along with their hopes. Despite their flagging energy, some of the snails quite literally flat on the ground, yet still they were singing, still hoping. She had heard it enough times to know it like the back of her mandibles. Each of the fine hairs sprouting from the top of her head was alive with the vibrations of their song. She could feel it, tickling at the edges of her brain.
+
+She raised her forelegs and, with a sweeping gesture, brought the choir in.
+
+Theresant and the others did a workable job with their miming, but more importantly, the real choir did well to follow her lead, their sound flowing through the panels open around the window and filtering into the snailcare centre.
+
+Softly at first, her song was light and delicate. A sprinkling of notes, a counterpoint that emphasised the sorrow and hope of the snail’s own song.
+
+Yes, you are alone and you do not want to be. I know that. Your sadness is my sadness, Mozant was trying to say.
+
+The chal did not react, continuing to sing as they had before. Mozant had half expected them to turn and vomit, purging themselves of their stomachs’ contents along with the horrid feeling of disgust her music no doubt caused them, but they did not. A good sign or not, she couldn’t say.
+
+She continued to sweep her forelegs, guiding and directing the singers who had been given almost no time to familiarise themselves with the music.
+
+It rose now, slowly, cautiously, interweaving itself with the snail song, a swelling wave that rose from beneath, supporting and strengthening. With a firm foundation, the soaring exhortation of the chal became even more powerful, more pure. It pierced Mozant in the heart, igniting her very spirit with fire and sending tingling waves coursing through her entire body.
+
+Yes! YES! It was working!
+
+With each moment that passed, she became more immersed in the music. The shame and disgust began to recede, replaced by an overflowing energy that she could not describe. Her movements became sharper and sharper, her hair whipping from side to side as she conducted the choir. She couldn’t see anymore, her brain simply paid no attention to visual information. What use was it? What was the point? She wanted to hear, wanted to feel.
+
+Now came the critical moment.
+
+With a sharp gesture, Mozant brought her legs low, cutting off the choir completely. Then, slowly, she raised them again, urging the singers to come with her, to rise to the occasion.
+
+She had told the chal that she understood their pain, that they were supported and loved, now she needed to tell them that they were not alone, that the partnership they sought was right in front of them all along.
+
+Desperate to continue their miming, the Brood Tenders were holding on as best they could, but they couldn’t sing, couldn’t understand the power of what Mozant was doing.
+
+For those behind the window, she knew they felt it the same way she did, and it shook her right to her core.
+
+Once more the choir rose up, no longer supporting the chal, no longer holding firm beneath their melody, but interweaving with it, filling in those gaps the snails had deliberately left open. They wanted someone to sing with them, someone to come and complete the music they had made.
+
+Mozant wanted to tell them we are here. The Colony is here, we will sing with you.
+
+It wasn’t perfect, there were mistakes, burrs in the song that stabbed Mozant deeply, but she pushed forward, refusing to let the blemishes bring her out of the haze she had found herself in. Surrounded by beautiful sounds, she felt her consciousness rise to a higher plane, into a world of sound and light.
+
+With growing confidence, the choir repeated the refrain, their own song dancing around that of the snails, rising when theirs fell, retreating when they rose. For every call, there was a response, for every question, there was an answer.
+
+As desperately as Mozant wanted to turn and look at the chal, she knew it was pointless, as she had abandoned her eyes. Only the sound mattered, only that.
+
+And… the chal… their song was changing.
+
+It was subtle, but slowly an evolution was taking place. It was growing… sadder.
+
+At first, Mozant was plunged into the depths of despair. Her music! Her awful, putrid music! It had wounded their ears and spirits! However, the more she listened, the more she realised this wasn’t the case. The chal were no longer asking as powerfully as before, their seeking questions had become muted as if they no longer expected a reply. Instead, their voices were filled with melancholy, minor notes in falling arpeggios spoke of a deep sadness the hatchlings felt, knowing they would never get the answer that they had hoped for.
+
+And yet, they had received an answer.
+
+As the questions fell away, the sadness gave way to acceptance. Effortlessly, the chal switched up their song in unison, a transition to a soft major key to support the higher registers still descending in minor. There was hope. There was a quiet joy. There was a letting go.
+
+And then, the sound cut off entirely.
+
+Shocked, Mozant froze, only to sweep her legs sharply a moment later, cutting off her own choir. Where moments ago there had been heart-rending song, now there hung a heavy silence, so profound it seemed as if all the sound in the world had been sucked away.
+
+Pulled out of her trance, Mozant swung around wildly to see the little snails, exhausted and pale, some trembling with fatigue, looking at her, at the other ants. Then, as if nothing had happened, they turned and began to slide away, curling into the beds the Tenders had placed nearby and retreating into their shells.
+
+Except for one.
+
+The little snail, clearly exhausted, slid toward Mozant slowly, and she stepped towards it, wanting to help.
+
+The little snail was crystal blue, with eyes that shone like stars, its shell the colour of a glittering rainbow. Its moustache of pure white was disheveled after its efforts, yet still provided an air of grace and wisdom to the young creature.
+
+Mozant leant down, reaching toward the hatchling. What did it want? What did it have to say?
+
+When it was close enough, the snail looked up and, after a pause, trilled a few short notes at the much larger ant. Then, slowly, painfully, it turned and began to slide to the beds where the others were already sleeping.
+
+Mozant, frozen in place, felt those notes rumble through her head like thunder.
+
+“Is it over? Mozant? Is everything alright?”
+
+Delighted that the chal were going to sleep, had finally stopped singing, Theresant rushed to her fellow Tender and shook her on the shoulder, finding her totally unresponsive.
+
+Only for the white-haired ant to fling herself on the ground, writhing and kicking.
+
+“Of course! It’s so obvious! My melody was such GARBAGE, and they knew it ALL ALONG!”

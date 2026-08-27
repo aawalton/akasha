@@ -1,0 +1,227 @@
+---
+id: 5a85f746-8a50-50e1-9c1a-1216f655bdaf
+page-type-slug: story-chapter-royal-road
+title: "108 - Dungeon Friend"
+slug: 0110-108-dungeon-friend
+partOf: cat-girl-evolution
+position: 110
+ownLength: 2108
+unit: words
+publishedAt: 2026-04-02
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3221361/108-dungeon-friend"
+royalRoadId: "3221361"
+---
+
+The cat doesn’t respond immediately. It just keeps looking out over the city. I’m tempted to kill it again, but something feels different this time, so I hold back. It takes almost a full minute before it finally speaks.
+
+“What do you think?”
+
+“What do you mean?”
+
+“Of Maligar as it was. Other than that it’s creepy.”
+
+“It’s… nice, I guess? Are you just here to reminisce?”
+
+“I was born not far from where we sit right now,” it says, ignoring me. “I’ve traveled the world, but no matter where I went, I never found anywhere that was quite like Maligar. When I returned and found it reduced to an empty crater, I wept for days.”
+
+He pauses.
+
+Abby, what am I supposed to do here?
+
+“Keep listening? If you want him to stop bothering you, humoring him is probably for the best.”
+
+Ughhh, fine.
+
+“While I wept, I received a divine message from Mali himself,” it continues. “He apologized for not being able to protect the city properly. He spoke of his regrets on how he could have handled things better. Of why he was unable to interfere no matter how bad things got. And ultimately, he gave me a Quest to find a Dungeon Core, with the reward being the restoration of Maligar.
+
+“I traveled far and wide, scouring this continent, the mainland, and the lands beyond, until one day, I happened upon a young Leader-type Named monster. I killed it, and took the Dungeon Core that it had yet to use, bringing it back here, and upon Mali’s request, I consumed it. As a Dungeon Core, I had a much closer connection to the divine, and Mali and I worked together to recreate Maligar down to the finest detail. Everything you see here—every building, person, animal, and tree—is recreated from the memories of Mali himself to be an exact replica of the original Maligar.
+
+“We left the first Floor empty and made the Quest simple intentionally. We wanted people to live there. We wanted to see the people in the streets, and hear the laughter of the children and see the fruits of the Sacred Mali Tree be eaten once more. And we succeeded. Despite being in a Dungeon, Maligar has once again become a thriving city full of life, and we managed to design a Challenge interesting enough that we have people coming from all over the continent to experience it.
+
+“And here on the second Floor, we can relive what the original Maligar was like. All the people from my childhood are here. My parents, my friends, my first love, the grumpy old man who lived next door, the kind baker who used to give me free bread… You may call it creepy, but if you had the opportunity to bring back your lost loved ones, would you not take it?”
+
+The faces of my mother and brother flash through my mind, but I shake my head.
+
+“No, I wouldn’t. Not like this, at least.”
+
+The Dungeon Core chuckles. “Then you are stronger than me. But you can understand my sentiment, yes?”
+
+“I can.”
+
+“Then you can understand why I am so wary of anyone with the Dungeon Destroyer Title. I couldn’t care less about my own life, but this–” The cat spreads its paws out in an oddly human gesture that encompasses the whole city. “I don’t want this to disappear. I don’t want Maligar to be destroyed again.
+
+“I’ve been watching you and your Party members. I don’t trust you… but I don’t think you’re the type to destroy the Dungeon, and I don’t think your companions are either.”
+
+“That’s what I’ve been trying to say.”
+
+“And I just explained why I didn’t believe it. But I’ve spoken with Mali again, and I’ve had a change of heart. Though it’s not because of you.
+
+“The purpose of the challenges of Maligar is to serve as a lesson, to try to teach people not to make the same mistakes that the people of Maligar made, but the people were not the only ones who made mistakes. Mali himself is guilty as well for not acting sooner. He thought that the problem would resolve itself, or that he could easily handle it, and by the time he realized that wasn’t true, it was too late. He could no longer salvage the city.
+
+“I don’t want to make that same mistake. Right now, Maligar is facing a crisis, and one that I don’t know if I can handle. A Named monster with the Dungeon Destroyer Title has placed a Dungeon on the fifth and final Floor of Maligar. If you want to know how Dungeons within Dungeons work, they don’t. Not properly, at least. A Dungeon Entrance is more powerful than the rules of the Dungeon it exists in, so I can’t interfere with it, and I can’t get rid of it. No matter how many times I reset the 5th Floor, it stays there.”
+
+“Can’t you destroy it from inside? Become a Dungeon Destroyer yourself?”
+
+“I can. My creations cannot. And going inside myself would be exceedingly foolish. Even if it wasn’t what the Named wanted, I am not that powerful on my own. I can’t guarantee my own life.”
+
+“And I am?”
+
+“You might be. Your Party is certainly much stronger than I am.”
+
+“What about the other Parties raiding the Dungeon?”
+
+“I am asking them for assistance as well.”
+
+“I see. So let me get this straight. You spent the past couple days being an annoying pervert to try to get me to leave, but now you’re asking for my help?”
+
+“You’ll be compensated.”
+
+“How?”
+
+“You came for the Delicacy, right? I’ll give that to you without forcing you to incur the same risks you would normally need in order to get it.”
+
+“Tempting, but if I can get it on my own already, that’s not much of a reward.”
+
+“There will be more. I’ll give you a special Dungeon reward. There is a Title that I can give you that you should find useful.”
+
+“You can give me a Title?”
+
+“Yes.”
+
+“What Title?”
+
+“Dungeon Friend. It’s similar to Dungeon Destroyer in that Dungeon Cores can sense it as soon as you enter, but it will have the opposite effect, making them more inclined to help. It boosts both experience, and Challenge rewards in all Dungeons.”
+
+“Hmmmm…”
+
+Abby, is that a good deal?
+
+“The Dungeon Friend Title is very rare, though it does have somewhat limited use, obviously. It is obviously only useful in Dungeons, and will only help in Dungeons where there are rewards beyond experience points and monster parts. Though on the other hand, having it might counteract the Dungeon Destroyer Title, keeping Dungeons from feeling overly threatened by you.”
+
+But doesn’t that mean that Dungeons will stop spawning Named monsters for me?
+
+“True, but you can disable most Titles, so if you want a Named monster, you can just disable and enter with Dungeon Destroyer.”
+
+Wait, can I disable Dungeon Destroyer?
+
+“You cannot. Not that one.”
+
+Damn.
+
+“But if you enable Dungeon Friend in Challenge and Story Dungeons and disable it in Field and Tower Dungeons, you should be able to get the best of both worlds, as Challenge and Story Dungeons will have more intelligent cores that won’t react as instinctively.”
+
+I see.
+
+“You’ll be entering many more Dungeons in the future on your search for the Delicacies, so it will probably be useful.”
+
+“Well, it’s not a bad reward,” I say aloud. “But I want some assurances.”
+
+“Like what?”
+
+“No more perving on me.”
+
+“I never was. I just said that to–”
+
+“Yeah. Sure. Right.”
+
+“I’m serious!”
+
+“Okay, foot freak. No more perving on me, or my Party members.”
+
+“I already wasn’t going to do that, but fine. Accepted.”
+
+“Out of curiosity, if I did show you my feet–”
+
+“I said accepted! Do you have anything else?”
+
+“No, seriously. Would you increase the rewards if I showed you my feet?”
+
+“No.”
+
+“Are you sure? I have pretty nice feet. Have you ever seen human toes with retractable claws?”
+
+“Do you think you’re the first beastwoman to come here?”
+
+“Aha! So you do look at peoples’ feet!”
+
+“Wait, no, that’s not–! It was out of academic interest!”
+
+“Now answer the question! Would you increase the rewards if I showed you my feet?”
+
+“N– no.”
+
+“You don’t sound very certain.”
+
+“It was just for academic purposes…” he says, trailing off.
+
+“Well, then for ‘academic purposes,’ would you increase the rewards if I showed you my feet?”
+
+“...I wouldn’t lower them.”
+
+“Ewww. Gross. Well, I’m not gonna do it, so don’t get your hopes up.”
+
+“I didn’t–!”
+
+“Hey, it’s way too late for you to backtrack now, buddy. But hey, it’s fine. I’m only judging you a little. I’m sure that thousands of years alone would make anyone… weird. But no feet-watching me or my Party.”
+
+“F– Fine!”
+
+“Not even Chad.”
+
+“Why would–?”
+
+“And I also want you to guarantee that I get the best fruit on the top Floor. The biggest, ripest, juiciest one you’ve got. I want the best version of the Delicacy.”
+
+“Okay, done.”
+
+“Actually, make that five fruits.”
+
+“They’re very large.”
+
+“Don’t care. I want five. Actually, ten. All the best, of course.”
+
+“Fine. Done.”
+
+“And a few more that are almost as good for the rest of my Party.”
+
+“Alright.”
+
+“Hmmm… I think that’s it.”
+
+“Then we have a deal. Once you get to the top Floor, I will guide you into the nested Dungeon. It shouldn’t take long. There’s already another Party getting ready to enter, so you’ll likely meet them inside.”
+
+“I see. Speaking of other Parties, how come I haven’t noticed them on this Floor.”
+
+“Floors two through five all have individual instances for each part. Well, not anymore for the fifth Floor, but this one and the next two have individual instances, so you will be alone with just your Party until you reach the fifth.”
+
+“Oh, I didn’t know that was possible.”
+
+“Many more things are possible with Dungeons than you would think.”
+
+“Interesting.”
+
+Abby, did you know that was possible?
+
+“Yes, but we don’t need to worry about it until our Dungeon levels up, so I didn’t bring it up. Also, by the way, the current Dungeon setup runs multiple instances.”
+
+Sounds good to me.
+
+“Well, if we have a deal, then I will leave,” says the Dungeon Core. “Make sure you finish quickly. I’m not sure how much time I have before things get truly dangerous, but I doubt that delaying long is a good idea.”
+
+“Can’t you just tell me how to complete all the Floors so I can get there faster?”
+
+“No. The Dungeon still has rules, and the situation is not yet dire enough that I want to break them. Besides, your abilities directly counter most of the challenges, so you should be able to finish quite quickly.”
+
+“Really?”
+
+“Yes. Good luck.”
+
+And with that, the other cat disappears from existence.
+
+After a few seconds, I turn my attention back to the conversation between the young couple far below, and thankfully, it seems to be coming to a close. Kind of. “Coming to a close” is a relative term when it comes to these types of conversations, but it does finally end fifteen minutes later as the girl says she needs to get back home before her mom yells at her. With her departure, I Blink down to a slightly closer spot so I can stalk the boy home and find out who his father is.
+
+His house isn’t far away, and turns out to be one of the biggest and best in the entire city, which I kind of expected. It’s also warded against eavesdropping, but thankfully, there doesn’t seem to be anything in this city that wards against Food Sense, so I’m able to follow the boy into the house, and then scour the place for his father. The father doesn’t seem to be home when I arrive, but he arrives about half an hour later in a carriage coming from the direction of the castle.
+
+I memorize the father’s face, then watch him long enough to see that he’s not really doing anything sinister in his house before leaving for the inn. It’s almost sunset, so I don’t really have the time or attention span to stay and wait around for something to happen.
+
+I arrive at about the same time as Lauren, and Chad and the twins arrive a few minutes later. We have a nice, big dinner first, then return to me and Lauren’s rooms to discuss our findings.

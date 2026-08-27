@@ -1,0 +1,289 @@
+---
+id: 5e219e25-c3fa-5afc-87cc-7e17a2a8bdbc
+page-type-slug: story-chapter-royal-road
+title: "69: Challenge"
+slug: 0069-69-challenge
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 69
+ownLength: 2197
+unit: words
+publishedAt: 2025-11-14
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2760529/69-challenge"
+royalRoadId: "2760529"
+---
+
+Aleph turned to face her, and Chloe lit up. Finally, Some actual progress.
+
+But before she could even think of what to say next, the two staffers from earlier rushed her again. One grabbed her arm, while the other reached for her shoulder.
+
+“Hey, knock it off,” Chloe said, twisting away. “Unless you wanna go flying again.”
+
+They didn’t listen. So she started shaking them off harder, ready to toss someone if she had to. Didn’t they learn the first time?
+
+Aleph raised a hand. “Let her go. She’s stronger than both of you.”
+
+The staffers paused, exchanged looks, then slowly backed off. They didn’t look happy about it, but they obeyed.
+
+Chloe dusted off her arms with a little flourish. “Thanks.”
+
+“I’m still not helping you.” Aleph said.
+
+“What? But I thought—”
+
+“Not unless you prove yourself.”
+
+“Okay… how do I do that?”
+
+“You last three minutes in a match with me. Then I’ll hear what you have to say.”
+
+"Um, are there any rules I gotta follow?"
+
+"All you have to do is survive the three minutes. But otherwise, you can do whatever you want. Use any weapon you want, any magic you want. Nothing's off limits."
+
+Chloe’s eyes widened. Then she smiled. “Okay, deal!”
+
+Her whole body buzzed with excitement. Three minutes? I can totally do that.
+
+“When’s the match?” she asked, practically bouncing.
+
+Aleph smirked. “I’ll make some adjustments to the schedule. We’ll fight in five hours.”
+
+“Alright, you better be ready. Because I’m holding you to that.”
+
+With a wave of his hand, Aleph turned and walked off. “Ask any staff member where the waiting room is when it’s close to match time.”
+
+The moment Aleph left, the rest of his staff rushed after him. Chloe watched them go, still feeling good about herself, until a familiar voice called out.
+
+Raenof jogged up to her. “Chloe. Tell me you’re not seriously going to fight the Guildmaster.”
+
+She gave him a bright smile. “Yep! Just gotta last three minutes.”
+
+"Chloe, this is crazy, Aleph isn't going to be an easy opponent. Far from it."
+
+“I don’t see what the big deal is. If I win, I’ll make sure you get to talk to Aleph too. He looks, like, super busy anyway. How else are we gonna get him to listen?”
+
+“You… unfortunately have a bit of a point. But at least let’s find somewhere quiet. Somewhere we can actually talk and come up with a strategy.”
+
+“I do have a strategy actually."
+
+“You do?”
+
+“Yup! I’ll hit him really hard. Oh! And I’ll use magic too of course."
+
+Raenof slowly closed his eyes. For a second, she thought he might’ve actually fallen asleep while standing. Then he turned and started walking. “You’re going to need to do a lot better than that. Come on, let's go."
+
+“Hey! It’s a solid plan!” she called after him, already trailing behind.
+
+"We’re going to find a café or something, and then we'll come up with a plan."
+
+“What’s a café?”
+
+“A place where people drink coffee."
+
+“Okay but then why not just call it a coffee place? Café sounds all… extra.”
+
+“Is that really important right now, Chloe?”
+
+“Guess not.”
+
+As they walked, the arena crowd thinned out behind them. Chloe still couldn’t get over the fact that she was gonna fight Aleph one on one. And all she had to do was not die for three minutes.
+
+Surviving didn't sound that hard to Chloe. After all, she had survived a lot ever since she left her dungeon.
+
+Anyaway, Chloe didn’t mind the idea of a café. And she was curious about this “coffee” stuff too.
+
+They turned a corner, and a sign with a steaming mug carved into it hung above a doorway. Raenof pointed. “Let's go there, sit down, and figure this out properly.”
+
+Chloe nodded. “Fine, fine. Strategy time."
+
+They stepped into the café, and Chloe immediately noticed it wasn’t the cozy kind of place she’d expected. This one had a definite arena fighter feel to it.
+
+The first thing Chloe noticed was the walls and how they were covered in old weapons. Rusted swords, chipped spears, even a massive axe that looked like it had seen way too many faces.
+
+A row of small round tables filled the room, each one surrounded by wooden chairs. The tables were shaped like shields, which was a fun touch.
+
+Chloe spotted a bunch of posters on the walls too, depicting fighters mid-pose. They had to be past champions from the arena. Probably. I wonder if I could get onto a poster like that one day? That would be pretty cool.
+
+Raenof led the way to a corner table by the window, and Chloe flopped into the seat across from him. She dropped her elbows on the table and laced her fingers together. "Okay, I'm ready."
+
+Before Raenof could respond, a Luphian waiter walked over to their table. He had slightly fluffy ears that twitched when he spoke. With a polite bow, he said, “Welcome. Would you like to order something?”
+
+Raenof didn’t even bother glancing at the menu. “Do you guys have a beers here?"
+
+"We actually do."
+
+"Then I'll take one."
+
+Chloe blinked. Beer?
+
+She had no clue what that was. Was it some kind of soup? Weird juice? And wasn’t this supposed to be a coffee place? Beer didn’t sound like coffee at all.
+
+But Chloe didn’t feel like asking. It wasn’t like she cared about food that wasn't brains anyway.
+
+“Same for me. I’ll have what he’s having,” Chloe said, trying to sound casual.
+
+The waiter smiled, gave another little bow, and left with a flick of his fluffy tail. “Right away. I’ll be back with your drinks shortly.”
+
+Once he was gone, Raenof leaned back in his chair and gave Chloe a concerned look.  “You know Aleph’s not going to be a joke, right? Surviving three minutes against him is going to be a serious challenge.”
+
+Chloe leaned back too, arms crossed. “I’m ready.”
+
+“I don’t know much about him but from that fight, I can already tell he's an amazing fighter. He’s fast. He hits hard. And he’s evidently very skilled with fire magic on top of all that too."
+
+Raenof paused a moment before adding, “Also, and I want you to really keep this in mind, that last fight we watched might not even be him going all out. If he was holding back… that’s worse.”
+
+Chloe rested her chin on her hand and thought about it. Okay, yeah. Aleph did look pretty strong. But I'm strong too, right? After my last evolution, I'm like, super strong.
+
+“I’ve handled tough enemies before. Like that creepy blood magic that tried to get you."
+
+“That’s true. But you won’t be able to use all your abilities against Aleph.”
+
+“Huh? Why not?”
+
+“You can’t use anything that might give away you’re a zombie, remember?”
+
+Chloe froze. Her eyes widened a little. “Oooh. Right. There are, like, so many people watching.”
+
+Raenof exhaled a bit. “That’s why we need to be careful. Strategize properly and make sure you only use the abilities that won’t give you away. If people find out the truth… they’re not going to take it well.”
+
+Chloe nodded. “Makes sense to me.”
+
+A moment later, the waiter returned with two tall glasses of something fizzy and gold and kind of suspicious-looking. Chloe eyed them like they might start glowing.
+
+“Here you are,” the waiter said with a smile, placing the drinks down. “Would you like anything else?”
+
+Raenof shook his head. “No thanks.”
+
+The waiter gave a quick nod and disappeared again, leaving Chloe to continue squinting at her drink. Meanwhile, Raenof took a sip of his and set it down with a sigh.
+
+“Does that beer taste good?” Chloe asked.
+
+Raenof shrugged. “Try it.”
+
+So Chloe did. She picked up the glass, took a curious sip, and then slowly set it back down. “Huh, tastes like… I dunno. It doesn’t really taste like anything to me.”
+
+“Alcohol doesn’t do anything to you?”
+
+“What’s alcohol?”
+
+Raenof chuckled. “Nevermind.”
+
+Chloe pouted a little, then slouched forward with her chin on her hands. “Okay, fine. Strategy time again.”
+
+“Let’s go through what you can do. Tell me your abilities, and I’ll say whether it’s safe to use or not.”
+
+“Got it. Ready when you are.”
+
+"Aright, let's start… now."
+
+“Okay. First up, I can use elemental magic.”
+
+“That’s fine. Plenty of people use that.”
+
+“Cool, cool. Uh… I can also use dark magic.”
+
+“That’s… probably okay. Just don’t do anything too intense like summoning shadow tentacles or whatever."
+
+"Eh, I can't do that anyway."
+
+"Good, now what's next?"
+
+"Okay. Next… I can turn invisible!”
+
+“That’s fine too. Would be quite useful actually."
+
+“Oh, also, I can regenerate from most injuries. Like, even full limbs now.”
+
+Raenof stared at her for a second. “Nope. Don’t do that.”
+
+“What? Why not?”
+
+“You’re supposed to be a normal person. Normal people don’t grow arms back in ten seconds. Just don’t get hit too much.”
+
+Chloe frowned. “Fine, but I'm not happy about it.”
+
+Raenof moved on. “Anything else?”
+
+“I can use divine magic.”
+
+“You what?" Raenof asked, looking very surprised.
+
+Chloe tilted her head. “I can use divine magic, is that a problem?”
+
+Raenof looked deeply concerned. “That’s something you should never use in front of people unless it’s an emergency. Divine magic is rare. It’s expected only from paladins, clerics, or priests.”
+
+“And what are those?”
+
+“Not important right now. My point is: no divine magic.”
+
+“Okay but what about blood magic?”
+
+“Also no."
+
+“Then what about my acid spit?”
+
+“What?”
+
+“I can spit acid.”
+
+Raenof took a long sip from his beer. “...Fine. Probably.”
+
+“Okay. But still no blood magic?”
+
+“No.”
+
+Chloe rolled her eyes. “Ugh. You’re no fun.”
+
+Raenof ignored that. “Anything else?”
+
+“Oh! I have a healing touch.”
+
+“Also no. Healing magic like that is usually reserved for specialized mages or clerics. You’ll stand out too much.”
+
+Chloe slumped again. “Ughhhh. All the cool stuff is banned.”
+
+“You’ll just have to make do somehow."
+
+***
+
+Night had fallen by the time Chloe was led to the waiting room. Raenof and a couple of arena staff had helped her find it earlier, though honestly, she could’ve just followed the signs herself. Or maybe not, she wasn't that good with directions.
+
+The room wasn’t anything fancy. There were a couple of benches, and a big metal gate on the far side that probably led to the arena. Chloe had been told this room usually held other fighters waiting for their turn, but since hers was the last match of the day, it was just her now.
+
+Chloe sat on the bench, legs swinging back and forth as she stared up at the ceiling. How long does it take to start a three-minute fight, anyway? It feels like I've been waiting here forever.
+
+Just when she was about to start humming, the door creaked open and one of the staff members stepped inside. “Chloe?”
+
+She jumped to her feet immediately. “That's me!”
+
+The staffer smiled politely and gestured for her to follow. Chloe fell into step behind him, practically bouncing with every step.
+
+“As a reminder,” the staffer said, glancing back at her, “your match will begin shortly. The objective is to survive three minutes against Guildmaster Aleph. After that, the announcer will call an end to the fight.”
+
+“Yup, got it,” Chloe said with a confident nod.
+
+The staffer came to a stop just before the big gate. He reached into his pouch and pulled out a scroll, then unrolled it and held out a quill. “Then please sign here, at the bottom.”
+
+Chloe blinked at the paper. “Uh. What is this?”
+
+“Standard waiver, just sign please."
+
+Chloe stared at the dotted line, then at the strange squiggly symbols already on the page. She didn’t recognize any of them, but the staffer was pointing very helpfully, so… it was probably fine.
+
+“Okay, sure,” she said, grabbing the quill. She scribbled something vaguely where he told her to.
+
+The staffer rolled the scroll back up with practiced ease. “Great. Good luck out there.”
+
+“Thanks!” Chloe chirped, giving him a big thumbs-up before turning toward the arena gates.
+
+She walked up to the gate and waited as the rumble of the crowd seeped through the heavy doors. The noise vibrated in her chest, making it hard not to smile.
+
+The gates groaned as they began to lift, chains rattling somewhere above. The roar of the crowd poured in like a wave, louder and louder as the announcer’s booming voice echoed across the arena.
+
+“Vorraska, welcome our daring newcomer… CHLOE!”
+
+Chloe stepped out onto the sand, blinking at how bright everything was. The crystals around the arena were glowing really bright, flooding the whole place in light. But more importantly, she was in the arena now. For real. And everyone was watching.
+
+She couldn't stop the huge grin spreading across her face. Chloe threw both arms in the air and gave a big wave to the crowd. Okay, this is actually kinda awesome.
+
+“And now. Prepare yourselves for the champion of champions… your Guildmaster… ALEPH!”

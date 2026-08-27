@@ -1,0 +1,189 @@
+---
+id: d4955966-7f83-51f9-b96e-357a85c6a428
+page-type-slug: story-chapter-royal-road
+title: "16 - Ruler of the Shore"
+slug: 0016-16-ruler-of-the-shore
+partOf: cat-girl-evolution
+position: 16
+ownLength: 2211
+unit: words
+publishedAt: 2025-08-28
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2554304/16-ruler-of-the-shore"
+royalRoadId: "2554304"
+---
+
+“Come out, little kitty!” shouts the not-man in a voice so deep I can feel it like the bass from some asshole playing rap music way too loud at a stoplight.
+
+He can talk???!?! Abby can monsters normally talk?
+
+[ It depends on their species, but for Named monsters, it’s more common than not ]
+
+So if I become a Named monster, does that mean I’ll be able to talk too? How do I become a Named monster?
+
+[ Named monsters can come into existence in one of two ways. The first is for them to spawn naturally, like this one most likely did. The second is for the monster to accomplish a great enough feat that the System recognizes it, and bestows a name upon them ]
+
+A great feat like killing another Named monster?
+
+[ Perhaps. I do not know the specific requirements. ]
+
+While Abby and I talk, Skarn walks up and down the beach, first away from me, then toward me. When he gets a bit closer, I am able to see the blue box over his head.
+
+[ Skarn, Trident Warrior, lvl ?? ]
+
+Well, that’s obviously fake. That is the name of the Named monster, but it’s missing the “Ruler of the Shallows” thingy and it’s also showing his Class, I think. It’s one less question mark than it was when I just saw his full name, but I’m pretty sure he’s gotten stronger since then.
+
+Even so, can I beat him? He’s alone for now. Trident Warrior doesn’t sound like a very strong Class to me either.
+
+[ It’s not. It’s a very basic upgrade to the standard Warrior class. ]
+
+Right, so even if he has a class now that’s Tier 1, it’s not a very strong class. The octodudes were also a higher Tier than me, and I could handle just one of them pretty easily.
+
+[ A normal Tier 2 monster and a Named Tier 2 monster are very different. The Named title alone grants a 100% increase to all stats, and on top of that, they usually have unique evolutions that are more powerful than standard ones. Whatever Tier a Named is, it’s actual power is usually equivalent to the Tier above it. ]
+
+Well, it’s the same for me though, right? I’m killing octodudes pretty easily, and they’re a full tier higher than me.
+
+[ Yes, but even so, they’re only Tier 2. The difference between Tiers only grows greater each Tier, so the Named is significantly stronger than any of the… “octodudes” ]
+
+“Strange cat!” shouted Skarn. “I challenge you to a duel. Come out and let us fight like true warriors! One versus one! Me versus you!”
+
+Hmmm. I’m going to do it.
+
+[ Don’t- ]
+
+Nah, I’m gonna do it. He’s alone right now. This is my best chance. Don’t try to stop me.
+
+[ I cannot follow that order. Please don’t- ]
+
+That’s too bad. I’m going.
+
+I ignore Abby’s protests as I climb down the tree and start stalking my way toward Skarn. He’s still on the sand, so I won’t be able to do a true ambush, but if I can get closer, I might be able to get the jump on him. Even though I am going to fight him, there’s no way in hell I’m going to just walk out and accept his challenge. That would be stupid, and I’m smart.
+
+Fortunately, it looks like his senses aren’t very good. Or I guess that would be his Sensitivity? Either way, he doesn’t notice me approaching, and keeps up his pacing. When he gets within five meters of me, I make my move. I start a Slice, then use Blink to appear right beside him. However, during the split second between when I mentally activate the Blink skill and when I disappear, his head whips around to look straight at me, and when I appear in front of him, his fist is already flying through the air toward where I am. I activate Blink again, and by the time I can actually disappear, his fist is brushing against my fur.
+
+I reappear on the sand with a small shiver, my back arched. That was dangerous. That was super dangerous. I almost just died.
+
+“There you are, strange cat,” says Skarn.
+
+There’s a drop of blood rolling down from his chin–the the only bit of my Slice that hit– but he doesn’t seem to care. He’s smiling like a maniac, and swinging his trident around so hard it’s creating gusts of wind.
+
+“You are weaker than I thought. Were you really able to kill so many of my subordinates with that frail body?”
+
+Frail?! I’ll show you frail!
+
+…But later!
+
+I Blink and he readies himself to attack again, but I go the opposite direction and start sprinting off into the woods.
+
+“Coward!” he shouts behind me, but he doesn’t chase.
+
+I run all the way back to my tree in the center of the island and climb back up, sitting in my branch. I can’t help but tremble a bit. That was scary. How did he react so quickly? He knew where I was Blinking before I even Blinked!
+
+[ He likely sensed the mana of the spell ]
+
+Seriously? You can do that?
+
+[ Of course. Blink isn’t a cheat or anything. ]
+
+Hmmm. I guess now that I think about it, the octodudes reacted weirdly quickly too. I guess that upgrading Blink’s Proficiency is probably how I would make it faster and harder to react to?
+
+[ Correct. Though I wouldn’t expect any significant progress any time soon. Even from you with your divine luck. Not only is it spatial magic, it’s already a fairly high-tier skill. You’ve had it for a week now and still haven’t even begun to grasp how to get it out of Early Proficiency ]
+
+Yeah, I guess…
+
+I pause and listen to Skarn shouting at me to come face him. Yeah, nah. Not doing that. Nope. Nuh uh. I’m going to keep running away until he goes away. There is no way I’m beating him right now. Why couldn’t he have just sent more subordinates? Just one little octodude. That’s all I need.
+
+[ I’m sure whining to me will make one appear. ]
+
+Shut it, Abbatha.
+
+With the lull in conversation, I turn my attention back to Skarn, who is somehow still shouting from the shore. He’s going to tear up his throat if he keeps doing that. That would be pretty funny.
+
+He keeps at it for a full half an hour before he apparently gives up. I brace myself for him to finally enter the woods and look for me, but instead, I hear splashing as he goes back into the water. Is he gone?
+
+[ You jinxed it ]
+
+I said shut it.
+
+Unfortunately, Abby is right. I did jinx it. Fortunately, I jinxed it in the best way possible. A minute later, I hear a lot more splashing as Skarn returns, and this time, it sounds like he’s brought friends.
+
+Haha! Take that, Abbrosia.
+
+[ I’ll have you know that I did it on purpose that time, because it seems that every time I say “that won’t happen” or something along those lines, it happens. It was intentional, and done in order to help you. ]
+
+Suuure it was. Anyway, it sounds like I can finally get those levels I’ve been needing!
+
+I wait in my tree as I hear dozens of footsteps crashing through the forest. Unlike the octodudes the other night, these ones aren’t being subtle or stealthy at all. They’re just charging through, probably hoping to flush me out. That’s fine with me. I’ll just wait for one to get close, then give them the ol’ Snatch ‘n’ Slice treatment, pick a class, and poof! Back to the mainland! Abby, you’d better be ready to help me pick a Class.
+
+[ I’m always ready ]
+
+I wait in my tree as the seafoodmen tear through the foliage, and as soon as the first one enters my range, I prepare to use Snatch on it. I hesitate for just a second when I see that it’s a new species of seafoodman, but then use Snatch anyway.
+
+The spell this time is even more difficult than it was against the octodudes. I feel the other creature resisting, and the spell almost fails before it suddenly appears before me. I Slice at it before I have time to fully take in what it is, but as my claws rake across its chest, I gasp slightly as I see what it is.
+
+[ Selachoid, lvl ?? ]
+
+It looks like a great white sharkman, and it’s the biggest, scariest seafoodman I’ve seen yet. As it falls, it tries to snap at me with its massive jaws and though it misses, its teeth sheer clean through a thick branch just below me, showing that its bite force is not something to be trifled with. Those teeth will cut me in half if they hit me.
+
+Fortunately, it doesn’t seem to be any tougher than the octodudes, and with only two arms that can only bend like normal human arms, it’s much easier to avoid its attacks. Its chest is already bleeding heavily from where I Sliced it, and though it looks pretty strong and fast, as long as it’s not as strong and fast as Skarn, I should be able to Blink behind it.
+
+And I do. My head feels a little foggy, and I can tell that my mana is almost depleted, but I have enough for this at least. I Blink behind him as he hits the ground and Slice at his shoulder, disabling his arm. I Slice the back of its leg as I hit the ground, then dart between its legs as it tries to turn around and Blink again so that I’m at head neck height and Slice again.
+
+This last Blink almost fully depletes my mana, and my vision goes black for a moment as I fall to the ground, but it’s worth it. With that Slice, it falls to the ground. It’s not dead yet, but it’s losing blood fast. I can sense the others rapidly approaching, but a few quick Slices finish it off, and I quickly take it into my Stomach, stumbling slightly from the overuse of mana before shooting off into the woods right as two more shark dudes burst through the trees.
+
+[ You have defeated Selachoid, Tier 2, lvl 4. Bonus experience awarded for defeating an opponent above your level! ]
+
+[ Mage, lvl 1 -> 10! Excess experience carried over into Species ]
+
+[ Gluttonous Feral Fiery Spatial Devourer Thief House Cat, lvl 5 -> 6 ]
+
+[ You have reached a Class Upgrade threshold! Would you like to initiate Class Upgrade? ]
+
+Yes! Abby!
+
+[ Class Upgrade options: ]
+
+[ Adept Mage ]
+
+[ Adept Construct Mage ]
+
+[ Adept Anatomical Construct Mage ]
+
+[ … ]
+
+The list extends for at least 12 options, and when I see how many there are, any thoughts I had about deciding for myself disappear. I don’t have time. The only thing keeping me ahead of these monsters is the fact that I am a land animal and they are not, so they have trouble navigating the trees.
+
+Abby, hurry up!
+
+[ Space magic, or constructs? ]
+
+Whichever one is best.
+
+[ They’re equally good. Now, space magic, or constructs. Quick! We don’t have time to dawdle! ]
+
+Ughhhh, fine. Both!
+
+[ That’s not an option! One or the other! ]
+
+I don’t wanna pick.
+
+[ That’s too bad! ]
+
+This is annoying. I mean, I appreciate being asked because I would be pretty annoyed if she picked the wrong one for me and I got stuck with it. That said, I actually have no idea what I want. They both sound good. Why can’t there be an option for both? Abby are you sure there isn’t an option for both?
+
+[ Pick Constructs if you want both then. The Class is called Beginner Mana Vivitect ]
+
+I choose Beginner Mana Vivi-whatever!
+
+[ Are you sure you wish to finalize your Class Selection? Once finalized, you will not be able to change your Class without divine interference ]
+
+Yes!
+
+[ You have selected the Beginner Mana Vivitect class! Skills and Stat points have been assigned. Please refer to your Status Window for changes ]
+
+[ Avatar Quest Complete! Initiating Teleport! ]
+
+I keep running, and just as I reach the opposite shore, I sense mana surrounding me, and then, suddenly, I’m somewhere else. I’m still on a shore, but clearly not the same one. I see it stretching on for kilometers in either direction, cliffs on one side, and if I’m seeing correctly, the little fishing village on the other. I can hear some splashing in the distance, but I quickly head away from the water and climb up the hill until I’m fairly certain I’m safe.
+
+That was close. Almost too close. But I made it. I’m off the island, and I’m safe.
+
+And now that I’m safe, it’s time to see what this new class is all about.

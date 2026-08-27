@@ -1,0 +1,198 @@
+---
+id: 4928d528-b6f1-5318-9db2-9f0ffdaae539
+page-type-slug: story-chapter-royal-road
+title: "60 - The Boss"
+partOf: bunny-girl-evolution
+position: 13
+ownLength: 2759
+unit: words
+ownProgress: 2759
+publishedAt: 2025-01-03
+link: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/1988731/60-the-boss"
+royalRoadId: "1988731"
+markedReadAt: "2026-06-29T20:03:04.958Z"
+---
+
+It didn’t take long to find the Shimmering Lotus. It was only a street away, and it stood out like a sore thumb to a hammer. It wasn’t huge, or extravagant, or noisy or anything like that. It didn’t need to be. It was just the only building on its street with a fresh coat of paint and a roof that didn’t seem to be in danger of caving in.
+
+However, while finding it had been easy, getting there wasn’t. Elise was running into the same problem she had when sneaking around Dokkalfheimr: bright white rabbits aren’t very good at stealth. She could be the sneakiest, stealthiest, most careful rabbit in the world, and if someone caught even a quick glimpse of her, it was over. She might be able to use {Suggest} to trick them into thinking they hadn’t seen her, but she had never tested that before, and didn’t want to count on it.
+
+So, instead, she relied on her ears. Fortunately, it seemed that in this part of town, anyone who lived there was either effectively nocturnal, or spent the whole day working, so there weren’t many people around, even within the houses. Still, the streets weren’t completely empty, so she spent longer than she would have liked to hiding behind trash in an alley, waiting for people to walk past so she could cross safely.
+
+When she arrived at the Shimmering Lotus, she quickly ran around the back until she saw somewhere she could hide. She could already hear what was happening inside fairly clearly–which thankfully wasn’t much–but she wanted a place where she could rest, and focus all her attention on listening. A place with no risk of being seen.
+
+It was actually a bit easier to find than she thought it would be.
+
+On the second floor on the back side of the building, facing another even taller building, there was a window with a planter box outside it, and wooden panel doors open at a 45 degree angle. Between the doors and the wall of the house, there was a space just big enough for a rabbit to sit. The roof had a bit of overhang, meaning she was protected not only from the sun, but from any prying eyes from above, meaning the only way she could possibly be spotted was if someone deliberately moved their perspective 20 feet in the air, and checked exactly where she was lying.
+
+It took a bit of maneuvering to actually get into the space, and she clipped her wing on the side of the building as she did so, but she gritted her teeth through the pain, and settled into her spot without being noticed.
+
+From the sounds she heard, the Shimmering Lotus didn’t seem to be open yet. At the very least, they weren’t doing any “business” there at that moment. There were at least a dozen people moving about inside, but the only real activity she heard was the sound of knives on cutting boards in the kitchen. In the room next to her window, she could hear the sound of a man loudly snoring, and the much softer breathing of a woman beside him.
+
+Is it the Boss? she wondered.
+
+She waited a few minutes, and when there was no sound of movement from inside, she was tempted to try to get a peek. Unfortunately, the door extended past the edge of the planter, so she would have to get off and fly, and if one of them happened to wake up right at that moment, or if someone walked under her in the alley, she would be spotted. She waited a few minutes, and then decided that she needed to check. She was out to gather information, and the most useful information she could get would be the Boss’s class and level. She double checked to make sure they were both still asleep, and that there was no one in the alleys, then leapt out from her spot and activated her wings so she could see inside
+
+[ Lesser Gang Boss, lvl 12 ]
+
+[ Brothel Owner, lvl 9 ]
+
+The man was about what she expected someone calling himself “the Boss” would look like. Most of him was covered by a blanket, but she could still see that he was tall, and broad-shouldered, and had arms as thick as Elise’s human form’s waist. He also had a huge gut, and a greasy brown mustache, and he was bald, and had a thin scar running along the top of his head. The woman beside him was slender, with black hair and thick eyebrows, and though she was lying on top of his arm, she was facing away from him, and seemed to be trying to stay as far from him as possible.
+
+Elise glanced quickly around their room before heading back to her hiding spot. The room looked large, but almost completely empty. There were some clothes on the floor, a desk on the left side, and a wardrobe on the right, but other than that, it was bare.
+
+It was odd that they were still asleep at this time of day. It was summer, and the sun would be setting within the next hour, but they were still fast asleep. They must not have gone to bed until close to noon. Either that, or they had indulged in some day drinking. Elise could detect a hint of alcohol in the air coming from within. Whatever the case, they were asleep, and the only conversations she could hear were uninteresting ones containing gossip about people she didn’t know, or prices of food that didn’t matter to her.
+
+So much for information gathering.
+
+She waited a few more minutes, hoping that the Boss would wake up, or that one of the other people in the building would say something interesting, but she had no luck. She was about to half-give up, and start looking for things to distract herself while she waited until she realized something that made her want to slap herself. She had {Suggest}. She could wake him up herself, and she didn’t even need to be able to see him. After realizing that, it only took her a second to figure out what the best way to accomplish that goal was.
+
+I’m falling! She sent.
+
+The man awoke with a start. Elise could hear the bed creak under the weight of his sudden movements, and the sound of the blanket being thrown off his body.
+
+“Hmmm?” said the woman sleepily.
+
+“It’s nothing,” said the man, not sounding much more awake.
+
+An assassin! Elise sent.
+
+The man flinched again, and a second later, she heard him getting out of bed, his heavy footsteps echoing on the wooden floor. He circled the room, then got down on his hands and knees, probably to check under the bed, before standing back up.
+
+“What’s going on?” asked the woman.
+
+“Just a weird dream,” he said. “What time is it?”
+
+“How should I know?”
+
+“I wasn’t asking you, bitch. I’m going downstairs.”
+
+Elise heard him put on his pants, then open the door and walk out without closing it behind him. The woman lay in bed for a few moments longer, then sighed heavily and did the same. Downstairs, Elise heard the man burp loudly, followed by the scooting of chair legs on wood.
+
+“A chicken!” he shouted.
+
+“Yes, Boss,” said a woman’s voice.
+
+“Hey, Boss, you’re up early,” said the voice of another man in the same room.
+
+“Had a weird dream,” said the Boss. “Felt like there was an assassin or something. Woke me up too much to go back to sleep.”
+
+“Ah, I hate those,” said the other man.
+
+“Report?” asked the Boss.
+
+“Yes, Boss. Nothing big happened today. Old Melvin had a bit of trouble remembering where he was keeping what he owed us, but we helped him find it.” The man cackled. “That junkie two streets down finally ODed.”
+
+“Good riddance.”
+
+“I heard that there was a bad storm up north, and it sunk a few ships, one of them carrying Grancian ale, so the price of that has gone up a bit.”
+
+“Fuck.”
+
+“Oh, and do you remember that knight chick that showed up yesterday?”
+
+“No. Who?”
+
+“Some knight chick from the capital showed up last night and got a room over at Agatha’s. We were a bit worried she was here for us, but she went into the forest this morning, and came back with a rabbit.”
+
+“A rabbit?”
+
+“Yeah, I dunno either. The real news though is that we saw her walkin’ around with Annie and Marco later, alongside this smokin’ hot chick.”
+
+“How hot?”
+
+“Boss, I think you’d love her. She had white hair and red eyes, and she was kinda short, but she had a really nice ass.”
+
+What?
+
+“Hmm,” said the Boss. “White hair? Was she old?”
+
+“Naw, it was weird. Joey told me about her and I didn’t believe him at first either, but I walked by while she was eating, and she looks young. Can’t be more than 25.”
+
+“Where is she now?”
+
+“Dunno,” said the other man. “I had a dude tailing her, and she even split off from the knight, but our guy lost her.”
+
+There was someone following me?
+
+Elise hadn’t noticed anyone. There were a few suspicious people around, but to her, walking alone through the impoverished streets, everyone had seemed suspicious. There were lots of people who stole looks at her while she was eating at the streetside restaurant, but there was no way of knowing which one had been this man.
+
+“Fucking incompetent,” said the Boss.
+
+“Yeah, I was pretty pissed too,” said the other man. “But with looks like that, she won’t be hard to track down again, so it’s no big deal. Anyway, white hair chick aside, the important part of that was that Marco and Annie were with the knight. She bought ‘em food and took ‘em to a bathhouse.”
+
+“So?” asked the Boss. “Who are Marco and Annie.”
+
+“Two of the urchins. You know, that giant kid and Sharon’s girl.”
+
+“The Oaf and the Fly?”
+
+“Yeah, them.”
+
+“Were they ratting on us?”
+
+“We didn’t wanna get too close to the knight, since she was on guard, so we didn’t hear what they were saying, but it didn’t look like it. I think the knight was just doin’ some charity work, you know? Feed the poor kids to feel good about herself.”
+
+“Are you sure?”
+
+“Annie’s smart. She knows better than that.”
+
+“True,” mused the Boss. “I haven’t had Sharon in a while. Maybe I’ll invite her up tonight.”
+
+“Yeah, maybe,” said the other man. “We should still keep an eye on ‘em though.”
+
+“Call Yuri over too.”
+
+“Yuri? You sure, Boss? He’ll be expensive.”
+
+“Take it out of the kids’ quota. If they can’t pay for him, double the quota until they do.”
+
+“You got it, Boss. I’ll go get him right now.”
+
+“Good work.”
+
+“Thanks, Boss.”
+
+“Chicken’s ready!” said the woman from before.
+
+“Took you long enough,” replied the Boss. “Tell Sharon to get down here too.”
+
+“Yes, Boss.”
+
+What followed were the sounds of eating and general small talk that Elise soon tuned out. She had certainly found the right place and the right people, and they were every bit as bad as she had assumed they were. So now what was the plan? Penelope sounded like she just wanted to storm in and beat the Boss up, and Elise didn’t entirely disagree, but was there a better way to handle it? Elise could see the Boss’s level, which meant he was a tier lower than both her and Penelope, and “Lesser Gang Boss” didn’t sound like it would be anything especially dangerous. This “Yuri” person though…
+
+Elise waited by the window for another hour as the sounds in the brothel got louder and more varied. There were a half dozen or so other men sleeping in various rooms who got up one by one, joined the Boss wherever he was, and started barking their own food orders. They were loud, rowdy, vulgar, and didn’t talk about anything important. Elise almost just tuned them out, but forced herself to keep paying attention, just in case they revealed something important. They didn’t, but it was worth it when Yuri finally arrived.
+
+The Boss and his men immediately got quiet when he arrived, and even after he had settled in, they were much more subdued than before. Yuri didn’t say much, so Elise couldn’t get a read on him, but whoever he was, the Boss’s men were scared of him. Unfortunately, there was no way to get inside to use {Inspect} on him, so she couldn’t figure out why yet. Hopefully, Marco and Annie would know.
+
+Aside from that, she had still gotten a fair amount of useful information. Annie’s mother worked at the Shimmering Lotus, and that was probably the reason that the girl was forced to meet the Boss’s quotas. She didn’t catch anything about Marco, but his situation probably wasn’t far off. Either way, she definitely wanted to help them, and the best way to do that would be to take care of the Boss. But what did “take care” mean?
+
+Beating him to a pulp would certainly be cathartic, but if that’s all they did, he would just go right back to doing what he was doing. In fact, Marco and Annie would probably suffer because of it. They were already being punished just for spending time with Penelope. Who knew what would happen to them if it was revealed that they did, in fact, rat on the gang? Getting him arrested might solve the problem, but Penelope seemed to believe that the law enforcement was corrupt, so it would be the same situation. He’d be in jail for a bit, and then sometime after they left, he’d be back out again. The only way to properly keep Marco and Annie safe was to do something permanent…
+
+Elise didn’t like the idea of that. If anyone deserved it, it was the Boss, but the thought of deliberately permanently maiming or killing someone didn’t sit right with her. But if the law enforcement was corrupt enough not to do anything, did they really have another choice? Maybe she could use {Fey Bargaining}.
+
+That aside, it wasn’t something she could decide on her own. She needed to talk to Penelope first. It was about time to head back anyways. {Lesser Transformation} would be off cooldown in about ten minutes, and it would probably take her at least that long to get somewhere that it would be safe to transform.
+
+She leapt down from her perch and crept through the alleys back toward the inn. The sun was setting, and the streets were busier than they had been when she first went out, so it took a bit longer to get back, but she made it without any trouble. She transformed in an empty alley near the inn, and walked inside. The group of homeless people were still there, and their numbers seemed to have grown to include a few more tradesmen, and one more [Pickpocket]. That made her a bit nervous, especially considering the conversation she had overheard at the brothel, but aside from some leering, none of them bothered her.
+
+The lady at the desk narrowed her eyes at Elise, but didn’t stop her from going upstairs. From inside Penelope’s room, Elise could hear the muffled sound of voices, and as she prepared to knock on the door, she even heard what sounded like Annie giggling. When she knocked though, all the noise stopped.
+
+“It’s me,” she called. “I’m back.”
+
+The door swung open, revealing Penelope standing just behind it with a wide smile. Annie and Marco peeked their heads out from behind her, also smiling. Elise was pleased to see that not only did they look clean, it seemed that Penelope had gotten them new clothes as well. They still looked malnourished, but now they at least looked comfortable.
+
+“Did you guys have fun?” said Elise, stepping inside and closing the door behind her.
+
+“Yeah!” said Marco.
+
+“A little,” said Annie. “Where did you go?”
+
+“Around,” said Elise, glancing at Penelope.
+
+The knight smiled for a moment more, then her face returned to its usual serious expression.
+
+“I’ll get ready,” she said.
+
+Elise nodded, then turned back to Marco and Annie. “I have a question for you two. Who is Yuri?”
+
+Annie’s face paled in fear.

@@ -1,0 +1,101 @@
+---
+id: 2f6edb99-1427-5b6e-bdf4-c02cc844537b
+page-type-slug: story-chapter-royal-road
+title: "133: Hand to Hand"
+slug: 0133-133-hand-to-hand
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 133
+ownLength: 1902
+unit: words
+publishedAt: 2026-04-01
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3218537/133-hand-to-hand"
+royalRoadId: "3218537"
+---
+
+Chloe pushed herself up slowly, her shoulders tense as she fixed her gaze on Sabine, who looked like she was in a lot of pain, and that was a start. Also, if there was one big takeaway from all of this, it was that Chloe definitely had a real shot at winning.
+
+Like an actual, no-joke chance, which felt pretty great considering how things started, and it meant she wasn’t just getting tossed around anymore because she was actually strong now. The only problem was figuring out how she was supposed to win.
+
+Sabine was way faster, and that part seriously sucked, but Chloe still had something going for her that her opponent didn't. In terms of durability, Chloe was pretty much second to none.
+
+Chloe was pretty sure she could take way more damage than Sabine ever could, because as long as her head stayed intact she would be totally fine, while everything else like her arms or chest didn’t really matter since she could just heal it off, whereas Sabine would probably start having a really bad day if she lost something important like, say, an arm.
+
+Well, at least that was what Chloe thought until Sabine vanished all of a sudden. She tensed instantly, but she was still too slow to react properly, because in the very next moment something slammed into her face and Sabine’s hand punched straight through her mouth and out the back of her head.
+
+Oh.
+
+That was definitely her brain area.
+
+Sabine had used her lightning to close the distance in an instant and then just shoved her hand straight through Chloe’s head like it was nothing, which, honestly, felt extremely rude. But somehow… she wasn't dead.
+
+She didn’t really understand how that worked, and she was pretty sure she should’ve been super dead right now, like extra dead, but nope, she was still here, still very much alive… well, alive-ish. Maybe it was because she’d long passed whatever counted as a normal zombie, or maybe Sabine had just missed the important parts of her brain somehow, wherever those even were at this point. But Either way, Chloe wasn’t done yet.
+
+And besides, Sabine had made a huge mistake, because Chloe could totally bite her arm off like this. And so, she snapped her jaw shut as hard as she possibly could.
+
+Sabine screamed, which Chloe immediately took as a very good sign, so of course she didn’t let go and instead bit down even harder, her teeth sinking deeper as she realized that her bite force was actually kind of insane, way stronger than she expected, almost like those crocodiles from those nature documentaries.
+
+A second later, Chloe was violently kicked away, her body tumbling across the ground, but she barely paid attention to that part because she still had Sabine’s hand in her mouth. Chloe blinked for a second before casually spitting it out to the side, because she wasn’t into that kind of snack, since arms were whatever and brains were the real prize.
+
+Across from her, Sabine staggered back while clutching the stump of her arm, her breathing uneven now as she hurriedly tried to wrap the wound with a piece of cloth, her usual calm composure clearly shaken for once.
+
+While Sabine was busy dealing with that, Chloe's head immediately began to repair itself as black ichor seeped out for a moment before the flesh pulled back together, sealing the wound quickly, though she did feel dizzy for a little bit. Honestly, it was incredible that she was still able stand after getting damaged like that.
+
+“Whoa… okay, that one’s new,” Chloe muttered, wobbling slightly as she tried to steady herself.
+
+Still, it didn’t take long for the dizziness to fade, her vision clearing as her balance steadied, and just like that she was back to full power. Now it was her turn to go on the attack.
+
+Soon, Sabine vanished again, though Chloe reacted faster this time, twisting her body just as a lightning-coated strike slammed into her side, the impact still sending her sliding across the slick stone floor as she caught herself and immediately pushed forward instead of back.
+
+Their bodies soon collided in a sharp exchange of blows, Sabine’s movements enhanced by lightning as her strikes came fast, while Chloe answered with heavier, less refined hits. Though she was sure that her punches had a lot more oomph to them in terms of raw punching power.
+
+Water splashed violently around their feet as they moved, their fight turning the sewer into a chaotic battlefield where every missed strike chipped the walls or shattered loose chunks of rock. Chloe leaned into the rhythm of it as she started to follow Sabine’s movements just a little better as the fight kept on going.
+
+As Sabine was jumping back, Chloe’s arm suddenly shot forward, stretching far past its normal length as it snapped toward Sabine like a spear, forcing her to shift mid-step, but Chloe didn’t stop there.
+
+Her other arm followed from a different angle, the limb bending unnaturally as black tendrils unraveled from within to extend its reach, snapping forward as it tried to catch Sabine from behind. Sabine reacted instantly, lightning bursting beneath her feet as she launched herself upward and kicked off the wall, her body twisting in midair before driving a kick down toward Chloe’s shoulder.
+
+Chloe took the hit head-on, the force slamming her slightly into the ground, but instead of backing off she grabbed for Sabine with an extending arm, her limb snapping outward again in a sudden attempt to catch her mid-recovery. Her fingers brushed Sabine’s leg, and that was good enough.
+
+She yanked hard, her arm retracting as it tried to drag Sabine off balance, and for a brief moment Sabine stumbled, her footing slipping.
+
+Chloe surged forward immediately, closing the gap with a heavy punch that slammed into Sabine’s guard and drove her back into the wall, the impact cracking the stone behind her as water splashed up around their legs.
+
+Sabine twisted at the last second, taking most of the force off the hit, but Chloe didn’t stop there and followed up right away with a kick to her stomach, then another punch, her attacks coming one after another and giving Sabine no time to fight back.
+
+Sabine was still fast, but the missing hand was starting to matter more now, her balance just a little off every time she moved suddenly, and Chloe noticed it. Her arm shot out again, stretching forward as it wrapped around Sabine’s wrist for a moment before tightening, trying to hold her in place.
+
+She almost had her, and that was when lightning exploded. Sabine’s body lit up as electricity burst out in all directions, forcing Chloe’s grip open as the shock ran up her stretched arm, breaking it apart and snapping it back to normal.
+
+Chloe stumbled back half a step, leaving just a tiny opening, and Sabine immediately stepped in close, thrusting her remaining hand forward as lightning gathered tightly around her arm, the energy compressing into a single point that crackled with violent intensity. Chloe barely had time to react before the attack hit.
+
+The blast slammed straight into her chest and detonated, lighting up the entire sewer as electricity surged through her body, the force throwing her backward through the shallow water. She skipped once across the flooded ground before crashing hard into the wall, the stone cracking on impact as the last sparks of lightning slowly faded into the air.
+
+For a moment, everything rang in Chloe’s head as she slumped against the cracked wall, her body twitching slightly while the last traces of lightning crawled across her skin, black ichor seeping from the impact point before slowly pulling back in as the damage began to close.
+
+Her vision flickered, but even that didn’t last long as her body stubbornly forced itself back into working order. She pushed herself off the wall as her wound healed back together until there was barely any sign she had just been blasted across the sewer.
+
+Across from her, Sabine stood up as well, but she didn’t look as calm as before. Her eyes stayed locked on Chloe.
+
+For a brief moment, neither of them moved, the shallow water around their feet rippling softly as droplets fell from above. Then, at the same time, they both stepped forward and sprinted.
+
+When they met in the middle, the impact of their clash echoed through the tunnel, sending water splashing outward as their bodies collided. Sabine struck first, her remaining hand snapping forward in a lightning coated punch as electricity surged along her arm, but Chloe tilted her head just enough for it to graze past, the stray current crackling across her cheek as she answered with a heavy swing.
+
+Chloe’s fist cut through the air as Sabine twisted just enough to avoid a direct hit, the punch grazing past her shoulder before slamming into the wall behind her. Sabine immediately stepped back in as her knee drove into Chloe’s side, followed by a sharp elbow aimed at her jaw.
+
+Getting hit like that made Chloe stagger slightly from the impact, but instead of pulling away, she pushed forward and swung back. And honestly all of this fighting felt pretty weird the more she thought about it.
+
+Chloe didn’t remember ever being this good at fighting like this, especially not hand to hand, because back when she was an angel, she had only gone to a few mixed martial arts classes and didn’t even stick around long enough to learn anything serious since it got boring.
+
+And yet, her body just moved as she fought Sabine. Chloe's arms came up at the right time, her weight shifted without thinking, and her strikes landed with more purpose than she remembered ever having, which made her pause for just a split second as a thought clicked into place.
+
+Chloe’s grin twitched as she threw another punch, realizing that everything she had eaten, all those pieces of people and monsters, had probably stacked together into this strange, instinctive fighting ability that she was now using without even trying. Granted, she’d probably had some vague instinct about the value of brains before, but she was pretty sure she had never thought about it this clearly.
+
+Sabine didn’t give her time to dwell on it, as lightning flared brighter around her body and she pressed forward again, her remaining hand striking out in a fast, relentless series of blows that forced Chloe to block and step back.
+
+Then, suddenly, Sabine changed her angle. She stepped in and drove a lightning-enhanced punch using her remaining hand straight through Chloe’s stomach as electricity crackled through the wound, the force pushing Chloe back slightly as the water around their feet rippled outward.
+
+Chloe’s body jerked from the hit, her eyes widening for a brief moment as she looked down. Darn, this again?
+
+Instead of pulling away, Chloe lunged forward, ignoring the arm still lodged in her body as she slammed her forehead straight into Sabine’s face. And this headbutt did a lot more damage than the first.
+
+Sabine’s head snapped back as blood spilled from her forehead, her balance breaking as she staggered, her body starting to tilt as she lost control for just a moment. As Sabine swayed from side to side, Chloe went in to finish the job.

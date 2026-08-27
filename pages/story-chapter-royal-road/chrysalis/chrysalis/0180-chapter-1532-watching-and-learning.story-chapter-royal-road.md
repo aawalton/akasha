@@ -1,0 +1,55 @@
+---
+id: e73ba14d-2abd-5986-9c8d-cbd76777ccba
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1532 - Watching and Learning"
+slug: 0180-chapter-1532-watching-and-learning
+partOf: chrysalis
+position: 180
+ownLength: 1013
+unit: words
+ownProgress: 1013
+publishedAt: 2025-03-19
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2135728/chapter-1532-watching-and-learning"
+royalRoadId: "2135728"
+markedReadAt: "2026-06-29T19:49:35.781Z"
+---
+
+I know the strength of the Colony, I know everything we can do individually, or as a well-trained and disciplined army. If I am also aware of what the enemy is capable of, then what do I have to fear? A single battle, a dozen, a hundred or a thousand, the outcome of all can be calculated and predicted. Knowledge and preparation are what win wars. That has always been my belief, and every experience has only reinforced it.
+
+-           Excerpt from ‘Words of Solant - Colony General’ by Historiant
+
+Peaceful and calm, Solant watched the unending rage of the fifth continue to boil and froth all around the platform. Reports from the front were one thing, but witnessing the neverending torrent of mucus and slime for herself was certainly an experience. Even more disturbing were the monsters who moved within and amongst the stuff, churning and oozing their way through the muck to attack the platform and hurl themselves into the cleansed mana.
+
+She stood in the middle of the reserve militia, observing the battle unfold with her keen eyes, seeing the actions of the Legion through her thousand lenses, each one focused on a different aspect of the fighting.
+
+“What do you think, general?” her sibling, Leonidant asked. “These Legion people seem to think a lot of themselves; I wonder if they deserve their reputation.”
+
+“We don’t underestimate our enemies,’ Solant stated evenly.
+
+“We don’t overestimate them either,” Leonidant countered. “If they aren’t dangerous, then I refuse to treat them as such. Appropriate force for appropriate demand, that’s your philosophy.”
+
+“Our philosophy,” Solant reprimanded, “and yes, I would say they are worthy of their reputation. Their infantry are holding much better than I was led to expect, given the accounts I read of the siege in the second stratum.”
+
+“The Legion defeated us in that siege, did they not?” Leonidant asked, confused.
+
+“Of course they did. We were saved only by the wave breaking when it did. Yet, there were numerous direct clashes between the Colony and the Legion, and I have studied all of the accounts of those interactions. Despite an overwhelming advantage in numbers, we were pushed back almost every time. However, if the ants of those battles were to face the Legionaries in front of us, I believe they would be soundly defeated.”
+
+“They’re that much stronger?” Leonidant asked doubtfully. “What’s the difference between the soldiers then and now?”
+
+The scout looked out towards the lines of the Legion, holding firm against the tide of monsters and sludge. It was impressive they could hold, but that wasn’t the main challenge of fighting against the wave. No, being able to push back the tide once or twice wasn’t the point, not at all. A hundred times? A thousand? Not for minutes, but for hours, days and weeks on end. That was the challenge of facing the wave in the fifth. She would reserve judgement until the real grind had set in, but it seemed Solant had already come to a decision.
+
+“They are well-drilled, experienced, and with clear lines of leadership. They respond actively to changes in conditions on the battlefield with flexible tactics and disciplined movement. All the qualities I look for in a well-led army, they possess.”
+
+It was hard to push back against that statement; they were disciplined, that much was obvious. The shield wall was well-formed, the individual soldiers standing shoulder to shoulder, braced and ready to act.
+
+“Let’s turn our attention to their equipment,” Solant went on. “In particular, their shields and armour. While their shield Skills are proving to be effective at keeping the acid and slime at bay, they aren’t perfect. I’ve seen four soldiers doused with a significant amount of mucus so far. Has anyone else seen how their armour fared?”
+
+“I haven’t seen it,” Leonidant stated, focusing back on the lines. How did Solant manage to pick out four individuals amongst the thousands fighting out there? What sort of mutations did she have?
+
+“There doesn’t appear to have been any damage at all,” Solant said calmly. “None of the four have removed themselves from the front line, and nobody seems to expect them to. I have no idea how they created such resistant armour. The very best that our smiths can produce isn’t nearly as capable of holding up against the acid and corruption of the fifth. If our carapaces could hold as well as that armour, our attrition rates for soldiers would be cut to a third or less.”
+
+That had been the greatest challenge faced by the Colony so far during the wave. The corrupted mana needed to be close enough to the platforms to be collected and funneled into the fortress, which meant letting the monsters get close. Preventing them from disgorging slime, mucus and parasites onto the front lines of the Colony had been impossible, even with the numerous tactics the Colony had tried to employ, such as extensive use of barrier magic, more mundane shields and armour or hit and run formations that gave the soldiers more flexibility.
+
+“Finally, they are strong. Their Skills are highly ranked, their stamina does not seem to be flagging and their offense is potent. What is making them so much stronger than the last time we fought against them? I don’t know. However, the evidence of their strength is right in front of us. The Legion are a formidable foe, and I don’t believe for one second they are showing all of their cards,” Solant stated. “There is more they can do, but they don’t want us to see, which is understandable. What we will be able to grasp here on the platform is the limits of their endurance. When the days turn to weeks, we will see just how long they can maintain this level of performance.”
+
+Having said her piece, Solant settled in to watch, her unblinking eyes seeing everything, missing nothing. All of the data funnelled into her analytical mind, and she began strategising and planning. After all, one never knew what the future might hold.

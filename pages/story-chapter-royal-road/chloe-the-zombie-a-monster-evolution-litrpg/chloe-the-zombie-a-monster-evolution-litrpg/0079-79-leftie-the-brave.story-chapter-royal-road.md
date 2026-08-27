@@ -1,0 +1,173 @@
+---
+id: 594647a6-ceaf-5d0b-a844-0f8dc7c6ec19
+page-type-slug: story-chapter-royal-road
+title: "79: Leftie the Brave"
+slug: 0079-79-leftie-the-brave
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 79
+ownLength: 2061
+unit: words
+publishedAt: 2025-12-01
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2809048/79-leftie-the-brave"
+royalRoadId: "2809048"
+---
+
+Sabine led the way with her usual serious expression, a soft, floating light drifting near her shoulder to light the path ahead. Scar followed after her at a more casual place.
+
+Chloe brought up the rear, as usual. She wasn’t really paying attention to where they were going, too busy dragging her fingers along the damp walls and poking at odd bits of moss or mystery gunk clinging to the cracks. At one point, she leaned sideways and shot Scar a curious look.
+
+“So, uh… what were those skellies even doing down here?”
+
+Scar glanced over his shoulder. “You mean the skeletons?”
+
+“Yep!”
+
+“They were beastkin. Ones who came down here tryin’ to prove something. Magic in this place just keeps ’em walkin’ even after they drop.”
+
+“Oh, so they’re, like… failed dungeon challengers?”
+
+“I mean, yeah. Pretty much.”
+
+“Hah! I knew it. Skeletons really are losers.”
+
+Up ahead, Sabine didn’t even bother turning around, but her voice carried back to them. “I’ve been in dungeons like this. The dead rise, over and over. Doesn’t matter how long they’ve been gone. It’s always quite morbid.”
+
+Scar just chuckled and shrugged. “They’ve been dead for ages. I say let ’em walk if they want. Ain’t hurtin’ anyone important.”
+
+Chloe nodded quickly. “Exactly! Skeletons are super boring anyway. All bones, no brains.”
+
+The trio walked. And walked. And walked. It stretched on for long enough that Chloe started humming just to break up the silence. Between Scar’s footsteps and Sabine’s breathing, the whole thing was getting stale.
+
+“Seriously, how is this tunnel still going? Did we loop back or something?” Chloe asked out loud.
+
+That was when it happened. A sharp click echoed from beneath Scar’s feet.
+
+He froze. “...Huh.”
+
+Before Chloe could blink, the air shimmered. A glowing wall of purple light burst into existence behind them, and another sealed off the way forward.
+
+Scar stared at it. “Well, that’s new.”
+
+Sabine turned towards Scar, glaring angrily. “You triggered a trap.”
+
+“I might’ve, yeah,” he said, scratching his head. “Didn’t mean to.”
+
+Chloe walked up and smacked her hand against the barrier. It hissed, burning hot against her skin, and she yanked it back. “Whew. Okay, yeah, this thing’s not playing around.”
+
+They all tried something to break the barrier. Sabine fired lightning at it, which just fizzled out across the surface. Chloe gave it a healthy dose of fire, but it barely even singed. Scar tried punching it with his metal arm repeatedly, but all that did was make the barrier hum louder, like it was annoyed.
+
+“Do you at least know how to break it?” Sabine asked, looking at Scar.
+
+He lifted both hands. “Nope. Last I heard, you’re supposed to wait it out. Couple hours, maybe a few days.”
+
+“Days? I am not spending the next three days trapped in this stupid place!" Chloe yelled.
+
+As Sabine muttered something about trying to melt the wall, Chloe started pacing along the edges of the room. She crouched low, peering at the base of the walls and brushing aside bits of dust and rubble with her sleeves. There had to be something that could get them out of this glowy trap.
+
+Then she heard it. A soft noise, right at floor level.
+
+Chloe’s ears perked up, and she whipped her head around just in time to spot a tiny rat poking its head out of a hole near the corner. The little thing wiggled its nose at her, blinked, then vanished back inside.
+
+Her eyes lit up. “Aha.”
+
+Sabine tilted her head slightly. “Chloe. What did you just find?”
+
+Grinning, Chloe jabbed a finger toward the base of the wall. “There’s a rat hole right there. Maybe it leads somewhere cool. Or terrible. Either way, it’s better than being stuck here.”
+
+Scar leaned forward, squinting at the hole. “That thing’s tiny. Ain’t no way anyone’s crawling through that.”
+
+“Obviously. That’s why I’ve got a plan.”
+
+Chloe conjured a blade of glimmering ice, raised it high, then casually sliced off her own left hand at the wrist. I'm so smart.
+
+Scar flinched so hard he nearly fell over. “What the actual—?!”
+
+Even Sabine blinked. “Chloe.”
+
+“It’s fiiine,” Chloe said, waving her stump around like it was no big deal. Black ichor dripped onto the stone. “Watch this.”
+
+The severed hand twitched once, then raised two fingers in a cheerful little salute. Chloe knelt beside the hole, cradling the hand. “Alright, Leftie. Go poke around, and if you find something useful, like, say, a barrier shut-off button, come right back. Got it?”
+
+Leftie gave an enthusiastic wiggle, then scuttled into the hole without hesitation. Standing up, Chloe dusted off her knees and beamed. “And now... we wait.”
+
+Sabine chuckled and sat down on the floor. “Very well.”
+
+Scar stared at the hole, then at Chloe, then back at the hole. “What… just happened?"
+
+***
+
+Leftie felt the immense weight of honor settle over him. Chloe, the greatest zombie to ever unlive, had chosen him for this mission. She could’ve picked Rightie, sure, but she didn’t. She picked him. And that made him the best hand ever.
+
+He scuttled through the tight passage, fingers crawling like tiny limbs. Despite lacking eyes, Leftie perceived his surroundings clearly. The space unfolded in shadowless greys, revealing cracks, pebbles, and creeping moss with crisp detail. He didn’t know how he could see like this, but if it meant he could serve Chloe better, then it didn’t matter.
+
+The tunnel sloped downward. The air grew damper. Then came the rats.
+
+Half a dozen rats clustered at the far end of the tunnel. Beady red eyes glinted in the dark. Yellowed teeth poked from twitching snouts. One bold rat sniffed the air, let out a sharp squeak, and lurched forward. The rest crept after it, hunched low and quivering.
+
+Leftie didn’t back away. Instead, he planted his palm firmly on the uneven ground. His wrist stump pressed into the dirt, anchoring him. Then he raised a single finger.
+
+A flicker of flame manifested at the tip. The fire started small, but quickly twisted into a thin swirling pillar of flame.
+
+The rats froze, their hackles rising. A second later, one of them squealed and ran. The others followed in a panic, scattering into the tunnels with shrill screeches and frantic scrabbling claws.
+
+Leftie held the flame for a moment longer, letting it crackle and spit. Then, with a flick, he snuffed it out. A faint trail of char still glowed at the tip of his finger.
+
+He turned and crawled onward, undaunted and alone, but not afraid. Because Chloe was counting on him. And no rat was going to stop him from completing the mission.
+
+Leftie scuttled forward with all the speed he could manage, every finger working in perfect rhythm. His mission was sacred: find a way to free Chloe from that dumb glowing barrier. And if he happened to help those other two she was traveling with… well, fine.
+
+The tunnel narrowed suddenly, forcing Leftie to flatten and wedge himself sideways through a thin crack in the stone. Bits of dust scraped along his joints, but he pressed through, emerging into a cramped chamber.
+
+The walls here were slick, too smooth for even his clever fingers to grip. Undeterred, Leftie tapped his knuckles against the floor, then raised two fingers. Magic rippled out as small chunks of rock jutted from the wall, forming a makeshift staircase.
+
+With a quick scuttle, he began his climb up, pausing only once to flick a burst of flame at a stubborn moss patch trying to gum up his wrist. It sizzled away with a satisfying hiss.
+
+After reaching the top, Leftie dropped down the far side, fingers hooking into cracks as he descended. He landed with a splash in a shallow puddle, immediately launching forward.
+
+A loose metal pipe jutted overhead. He hurled himself up and over it, conjuring a thin sheet of ice mid leap to hold his weight just long enough to redirect his momentum.
+
+Twisting through the air, he grabbed a vine growing from the ceiling and swung toward a hole in the wall. The gap wasn’t generous, but Leftie managed to wedge himself in.
+
+A few seconds later, he popped free from the other side, landing just beneath the rim of a wide, circular shaft carved directly into the stone. He pressed his fingers into the stone lip, and slowly inched upward to peek.
+
+The tunnel below opened into a wide chamber, lit in eerie green by strange flame-torches flickering along the walls. Two figures stood at the center, both Luphians cloaked in black with hoods drawn low over their furred ears. One carried a curved blade strapped across his back, while the other paced in circles, tail lashing with every step.
+
+But it wasn’t the pair that caught Leftie’s attention. It was their company. Ratfolk.
+
+Dozens of them scurried about the chamber, most weighed down by heavy iron chains. A few carried crates, while others dragged heaps of scrap and old gear. One flinched as the pacing beastkin barked a command, then scrambled to obey, tail low and twitching in fear.
+
+Another ratfolk dropped its burden as one of the Luphians shouted again, falling to its knees and pressing its snout to the dirt. The sound of rattling chains echoed faintly.
+
+As much as Leftie felt a bit bad for the Ratfolk, he had a mission to finish.
+
+Leftie moved down the wall slowly. He planted an icy grip into the stone and lowered himself one brick at a time, using frost to deaden the scuff of movement. Soon, he landed on the floor, and then slipped into a pile of old rubble near the edge of the tunnel. Once the Luphians and ratfolk were further ahead, he followed.
+
+The group moved through a crumbled corridor, past old banners and dead torches. Every few steps, someone looked back. Leftie froze in place each time, flattening himself into cracks, slipping under debris, or mimicking a busted chunk of wall.
+
+Luckily, no one noticed. He was very good at not being seen.
+
+But then, the ground shifted beneath Leftie. At first, it was only a subtle tremor, barely enough to dislodge dust from the ceiling. But then the whole tunnel gave a deep, groaning shudder, and the walls seemed to breathe.
+
+Chunks of debris tumbled loose as a second, heavier quake followed. Cracks raced across the floor. The ratfolk froze mid-step, chittering anxiously. The two Luphians stiffened, drawing their weapons.
+
+Soon, the wall behind them exploded. Shards of rock flew through the air, one slicing through a crate, another embedding itself in a ratfolk’s back. Screams erupted in every direction.
+
+From the swirling cloud of rubble emerged a massive wolf, but its fur shimmered with dark energy as if the shadows themselves were trying to crawl free of its skin. Black mist trailed off its back like smoke, and wherever it stepped, the stone cracked and rotted beneath its claws.
+
+The Luphians roared and charged. The first never even made contact.
+
+The wolf creature lunged and split the poor fool in two. Bones crunched. Blood painted the wall in a long arc.
+
+The second tried to stab it from behind, but the monster twisted, catching him in its teeth. With a bite, it snapped him like dry wood. The screams didn’t last long.
+
+Panic took the ratfolk. Some dropped their stuff and managed to flee into the tunnels. Others didn’t make it far before the creature’s shadows reached them. Everything the monster touched was devoured by rot and swallowed into black.
+
+Leftie huddled deep inside a narrow crack behind a broken pillar. He stayed still, as small as possible, not daring to twitch. The only strategy left was to survive.
+
+Below, the chamber had become a ruin. Blood pooled into broken tiles. Bones crunched under unseen weight. The green fire torches went out one by one, devoured by the creeping dark.
+
+Only the wolf remained, standing amid the wreckage. Leftie didn’t move, just hoping the wolf would leave.
+
+But then, the wolf began to turn its head slowly, deliberately. Its eyes swept past the fleeing ratfolk without a hint of interest. Then, they stopped.
+
+The beast’s gaze locked upward, unerring and cold, and Leftie felt every joint in his body go still. The monster was looking straight at him.

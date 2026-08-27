@@ -1,0 +1,121 @@
+---
+id: 86b7cc1a-40b2-56c9-831e-9272ea35ca6c
+page-type-slug: story-chapter-royal-road
+title: "10: Honor & Courage"
+slug: 0010-10-honor-courage
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 10
+ownLength: 1806
+unit: words
+publishedAt: 2025-08-18
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2528114/10-honor-courage"
+royalRoadId: "2528114"
+---
+
+After an exhausting stretch of trial, error, and more personal involvement than he cared to admit, William at last managed to get the girl properly dressed. Chloe… yes, that was her name, she now wore a traveler's cloak that concealed most of her oddities, a modest tunic and trousers that didn’t offend the eye, a sturdy pair of boots, and a half decent pair of gloves.
+
+In truth, William wasn’t entirely sure what to make of her. At first, he had felt an uneasy blend of fear and pity. One never truly knew what peasants were capable of, especially those who looked as though they’d been dragged backwards through a battlefield by a particularly vengeful mule.
+
+Chloe was no exception. She’d appeared disheveled, stitched together like a patchwork doll. Honestly, he never knew that peasants could be in such a sorry state. The poor girl probably had to stitch up her wounds instead of seeing a healer.
+
+And yet, as he spoke with her more, that unease turned gradually into curiosity. The girl seemed utterly unfamiliar with even the most basic aspects of the world. She didn’t know what a servant was. Or even a family of all things.
+
+What had become of the kingdom? Had the entire education system decayed so much in the last few decades? Were children now raised in utter ignorance, bereft of maps, tutors, or even basic curiosity? What cruel twist of fate had conspired to leave this girl so alarmingly uninformed?
+
+Still, William had to admit that the girl was at the very least inquisitive. There was a restless energy to her curiosity, a sort of wild, unfiltered hunger for knowledge that bordered on the pathological.
+
+Every mildly notable feature along the road turned into an interrogation. Apparently, Chloe hadn’t even known what birds were until he explained it. Then came the follow-up barrage: Why do birds flap like that? Does the sky ever end? Can she eat one?
+
+Under normal circumstances, William would never deign to explain mundane concepts to a peasant girl of all things. It was beneath him. Entirely beneath him.
+
+But alas, the road was long, and conversation was preferable to silence. If he was to endure this undignified march through the countryside, then he might as well elevate it with a touch of instruction. After all, was it not the duty of the nobility to uplift the ignorant? To guide the less fortunate towards enlightenment? He would simply consider it an act of charity.
+
+And just in time, too, because Chloe had just pointed up at the sky with a furrowed brow and said, “Hey, you said that puffy thing’s a cloud, right? So… how does it work? Like, does it float on air magic? Wait, can I touch one?”
+
+William cleared his throat and lifted his chin, adopting the tone of a seasoned lecturer addressing an audience of particularly slow-witted squirrels. “Clouds are formed from water vapor, yes, invisible water, which rises into the sky as the air below warms. As it ascends, it encounters cooler temperatures and condenses into droplets so small they remain suspended in the air, forming what we perceive as clouds."
+
+Chloe turned her head slowly to stare at him. “So, the sky is wet?”
+
+“In… in a manner of speaking, yes.”
+
+“Huh. Neat."
+
+These sorts of exchanges became almost routine. William, for his part, answered everything he could.
+
+However, the more William spoke with the peasant girl, the more unsettled he became. He already knew that Chloe wasn't your average peasant, but there was clearly something more to this girl.
+
+Most peasants, for instance, do not rip carriage doors clean off their hinges. Most peasants do not walk barefoot through blood-soaked dirt with a smile. And they most certainly do not leave behind entire corpses of bandits strewn about like discarded dolls.
+
+No, Chloe had to be something else entirely. He had mulled it over for hours now, quietly refining possible theories.
+
+She could be the lost scion of some forgotten bloodline, an ancient warrior clan whose legacy had been swallowed by time. Or perhaps… Chloe was something far more deliberate. Something artificial.
+
+William looked at the peasant girl again, watching as she crouched beside a mossy rock and poked it with intense curiosity. If one looked past the grime on her cheeks, the gleeful mischief in her eyes, she bore a strong resemblance to the First Queen of Ishgria.
+
+The First Queen carved Ishgria from a dozen feuding baronies and ruled unchallenged for decades. Legends claimed even dragons bowed to her command. Her strength had been the stuff of myth, her bloodline sacred… and, until now, thought extinct.
+
+William's thoughts wandered far. What if this girl wasn’t a peasant at all? What if she was the product of a terrible experiment? What if those damned mages in the capital had attempted something unspeakable, to recreate the blood of the First Queen?
+
+It wasn’t far-fetched. Not to William.
+
+The implications made his pulse quicken. Despite the indignity of being ambushed during what was supposed to be a discreet and uneventful departure from the city, it was becoming increasingly clear to William that he had, quite accidentally, stumbled upon a golden opportunity.
+
+Though William would never admit it aloud, his estate was far from being in an enviable financial state. Between the costly renovations to his manor and a series of ill-advised investments, his coffers had been left nearly dry.
+
+In truth, that was the very reason he had tried to cut costs on his little countryside vacation in the first place. He had reasoned that if he kept to the well-traveled routes, he could forego the expense of an escort. It was, in hindsight, a regrettable miscalculation.
+
+Still, that was beside the point now. Chloe might well prove the solution to his financial woes. If handled properly, she could buy him a second chance at prosperity.
+
+He clasped his hands behind his back and smiled to himself, watching as the girl tried to balance a stick on her nose. Once she escorted him back to Kelvane, everything else would fall into place. A simple petition to the Royal Mage Academy, or perhaps even Tower of Mages, and they would have no choice but to take notice.
+
+Returning her to the capital’s mages could earn him no small number of favors. And if he played his cards right, there was a fair chance he might even be compensated handsomely for his efforts.
+
+As fortune would have it, the girl seemed quite eager to speak with a scholar herself. What had begun as a quiet, poorly-timed escape might not have been such a disaster after all. In fact, it was beginning to look more and more like a rather profitable inconvenience.
+
+***
+
+After hours of walking, day had finally started to make way for evening. William could feel the fatigue settling into his limbs. He exhaled through his nose, gracefully, of course, and adjusted the fall of his hair with the practiced elegance of a man who had spent years making even exhaustion look composed.
+
+Beside him, the girl still walked with that same bizarre bounce in her step, as if the day’s march had been a pleasant little stroll. No sweat, no heavy breathing, no sign of wear at all.
+
+William looked toward the horizon. “It’s nearing evening, there should be a village not far from here. We’ll stop there for the night before continuing to Kelvane. I, for one, refuse to return home looking like I crawled through a hedge.”
+
+Chloe tilted her head toward him. “Why do we need to stop?"
+
+“Because I need rest, that’s why. Nobles do not simply trudge across the countryside like wandering goats. We have standards."
+
+“Oh, what’s a village?”
+
+“A village is a community, naturally. A structured gathering of domiciles, often centered around a common square, where the peasantry engage in local commerce, agricultural labor, and—”
+
+William stopped, mid-gesture, his arm wilting slightly. The exhaustion was really getting to him now. “Basically, it is a place where people live together.”
+
+Chloe scratched her head, then asked, “How do we find this village or whatever?”
+
+“There should be a river nearby. If we find the river, we need only follow it upstream. The village should be just ahead.”
+
+They walked for a while, and to Chloe’s surprise, William wasn’t talking nearly as much anymore. Not a single monologue. It was almost nice.
+
+Chloe was starting to enjoy the quiet when she stopped short, forcing William to stumble to a halt just behind her. "Oh wait, I see something!"
+
+William drew up just behind her, blinking against the sun’s dying light. “What did you see, precisely? Do be specific, as I would very much prefer not to… Chloe?”
+
+She was already gone. William groaned and pressed a hand to his brow. Of course she ran off.
+
+The Baron sighed and set off in the direction where he’d last seen Chloe. Unfortunately, it turned out to be more of a challenge than he’d expected. He wasn’t exactly the most athletic man, and to make things worse, it had been far too long since his last proper meal.
+
+He slowed to a stop beside a tree, trying to catch his breath without making it obvious. He refused to gasp, but even so, sweat had already started to gather on his brow. This girl was not normal. That much was becoming more obvious with every passing minute.
+
+No signs of fatigue after hours of walking... and the moment she saw something even mildly interesting, she’d taken off like a wild hare. Part of him wondered if Chloe quite literally lived under a rock all this time.
+
+After a few minutes of rest, William started walking again at a steadier pace. His earlier guess, that the girl was some experiment by the mages from the Capital, was starting to feel a lot less far-fetched. Maybe she was some kind of construct. A homunculus, even.
+
+The mages always claimed their research was “strictly controlled,” but everyone in court knew what that really meant. There had been incidents.
+
+One creature had reportedly grown extra limbs and flung itself through reinforced walls. Another had eaten its own handlers and escaped into the aqueducts. The city guard had to flood three tunnels just to trap it. All of it covered up, of course.
+
+And the things they made were always angry. Unstable. You couldn’t even talk to most of them. Half weren’t even truly alive, just weapons wrapped in skin. Useful on paper, terrifying in person.
+
+Still, whatever Chloe was, at least she wasn’t angry. Or hungry. Or both. For now, anyway.
+
+Eventually, the trees began to thin, and the soft sound of flowing water reached his ears. He spotted her at last, down by the riverbank poking at a floating corpse.

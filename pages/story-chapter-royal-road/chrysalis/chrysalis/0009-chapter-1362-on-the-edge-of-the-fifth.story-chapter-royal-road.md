@@ -1,0 +1,75 @@
+---
+id: e0763621-7d47-5af5-a149-3f11fb217fed
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1362 - On the Edge of the Fifth"
+slug: 0009-chapter-1362-on-the-edge-of-the-fifth
+partOf: chrysalis
+position: 9
+ownLength: 1050
+unit: words
+ownProgress: 1050
+publishedAt: 2024-06-26
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1693178/chapter-1362-on-the-edge-of-the-fifth"
+royalRoadId: "1693178"
+markedReadAt: "2026-06-29T19:43:56.458Z"
+---
+
+It’s always fun to watch my three loyal friends stretch their ‘legs’ after an evolution. They’ve grown immensely in power, as is befitting a monster moving from the sixth to seventh tier. Unleashing them upon the monsters in those tunnels is like putting a group of wolves against a field of mice.
+
+Despite their natural advantages, born with bodies that are stronger, faster, more mana-rich, these creatures do not have the advantage of maxed out, carefully considered evolutions.
+
+Tiny, of course, is the first and most enthusiastic of the three to throw himself into the fighting. The hulking brute has grown truly enormous now, so large he would make a normal gorilla look like a toy. Due to his sheer size (and mine), we have to stick to the bigger tunnels only, eschewing the smaller ones to avoid getting stuck. Whenever he comes across a monster, he bounds forward, knuckles pounding into the rock as he bellows his challenge. Some monsters are smart and run, slithering away to places he can’t reach, but the larger ones turn to fight, roaring back. They don’t last long. His fists lash out, not just with incredible power, but absurd speed. Left, left, right, left, right. BAM BAM BAM BAM BAM. A flurry of punches, a staccato burst of light as his Skills activate, and his opponent is already reeling. Disappointed, the big ape slumps his shoulders a little before his ears twitch and he rears back for a mighty uppercut that flings his opponent directly into the afterlife.
+
+And all the while, the lightning is crackling, rippling across his arms. Every time he punches, it blasts outwards, lightning bolts hammering into his target along with the fists of light.
+
+Compared to Tiny, Crinis and Invidia don’t get as much of an opportunity to shine, but they still contribute as we continue to make our way down through the tunnels. As a creature of pure shadow, Crinis can be… just about anywhere. Her ability to stretch and fold her body in on itself was creepy before, but now it’s risen to a whole new level. At tier six, she could fold her entire body down into a little ball, then erupt into a forest of tentacles, her three maws appearing from deep within the mass. It was a horrifying jumpscare that proved to be an effective hunting tactic, but now… now she doesn’t even need to physically be present.
+
+She’s a shadow.
+
+And if that weren’t scary enough, she eats light.
+
+When she enters a new tunnel, if she wishes, the light, despite its thickness, fades down to almost nothing. The tunnels fill with darkness, and Crinis is simply gone, her body spreading throughout the shadows. When the monsters begin to move, her tentacles strike. They lash out from the walls, from the floors, from the darkness, from the monsters' own shadows.
+
+Once her tentacles have grasped the target… well… we know what happens. I don’t need to describe it, right? We know. What I find most disturbing, is that the remaining Biomass, now neatly cut into bite sized sections, is pulled into the shadows, and I can hear her chewing.
+
+It’s… it’s an experience, alright.
+
+For his part, Invidia seems happy to relax, casting spells to support when he feels it's necessary, healing Tiny, exploding a few things and generally helping everyone out. I don’t know why, but it’s comforting having him around, and we enjoy a good chat as we make our way deeper and deeper, following the pheromone trails.
+
+And man, is it deep. The Colony has done their best to create a ‘highway’ system that more or less spirals downwards, but even so, it takes us almost a day before we reach the forward base. These tunnels are deep, way deeper than I thought they were, but eventually we arrive, a little worn out, a little wounded, ready for some rest and refreshment.
+
+The forward base isn’t anything to speak of at this stage, a nest in the early stages of construction, the entrance built into the tunnel wall with rudimentary defences in place around it. What it does have, is a garrison thirty thousand strong, along with some of the human troops and priests to fight alongside.
+
+The generals clearly felt it was dangerous enough here that they wanted every advantage, including the aura buff provided by the priests when we fight alongside the humans.
+
+This is a dangerous place to be, and I can already sense why.
+
+[You guys head into the fort and get some rest,] I tell Tiny, Crinis and Invidia. [I’ve got something I want to check out.]
+
+Tiny and Invidia are happy to go, but Crinis hesitates.
+
+[You won’t do anything silly, will you, Master?]
+
+[Hah! Don’t worry yourself. Look, you can come with me if you want. I was just—]
+
+[Thank you, I will.]
+
+[Aaaaaalright then. Sure. Come along.]
+
+Sheesh.
+
+The scent trails have been laid down many times, clearly indicating what I’m heading towards, but even without them, I would know. My mana sense is blaring warning signals, ringing the alarm in my head as it senses something unbelievably dangerous.
+
+And it isn’t far away, only a few hundred metres.
+
+Soon, I arrive, and look down at the entrance to the fifth stratum.
+
+There are less and less of these passages the deeper we go. For every five connections between the first and second, we only found one between the second and third. From the third to the fourth, that number cuts to another tenth. From the fourth to the fifth, we’ve only found this single passage.
+
+The floor slopes down sharply from all angles, creating a well thirty metres across that drops straight down for almost twenty metres, but then the thick life mana just… terminates. At that point, the tunnel is filled with a bubbling miasma, a toxic sludge so thick it’s almost a solid. I can see it creeping up the sides, little fingers of goop trying to latch onto the smooth walls of the well, as if the mana itself was trying to climb up into the fourth… as if it were alive.
+
+My senses are warning me that even a touch of this stuff will mean a painful death.
+
+Holy. Moly.
+
+This is going to be rough.

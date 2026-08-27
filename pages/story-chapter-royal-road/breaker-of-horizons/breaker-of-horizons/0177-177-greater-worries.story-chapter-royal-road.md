@@ -1,0 +1,119 @@
+---
+id: 928b5636-3ee6-5670-ac6a-72e25febf749
+page-type-slug: story-chapter-royal-road
+title: "177. Greater Worries"
+slug: 0177-177-greater-worries
+partOf: breaker-of-horizons
+position: 177
+ownLength: 2463
+unit: words
+publishedAt: 2022-02-10
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/842745/177-greater-worries"
+royalRoadId: "842745"
+---
+
+Bertram struggled to keep them in the air even with the arcana from the battery, but he managed to make every drop count by ruthlessly pruning portions of the flight sequence in an effort to conserve energy. The glyphs that ordinarily shielded a flier from windburn were the first to go, since there was no need for that sort of environmental protection in their situation. Next were the ones that somehow worked to reduce drag — they weren't going anywhere in a hurry, so maximising airtime was more important than speed. Last to go were the bits that kept them properly oriented to the ground and that gave them fine control over their movements. This sent them into an uncontrolled tumble through the air, which left Caden feeling nauseated.
+
+There was a swarm of constructs leaping across the rooftops and converging on their landing point. Caden didn't know whether this meant that there were no other 'survivors' left, or if Kant was deliberately targeting the two of them. They were almost at the upper tier on the far side of the arena, and by Caden's estimation they would land with seconds left on the timer. Through the gestalt link, Caden sensed that Bertram was overdrawn, so it was up to him to keep them safe.
+
+There was no time for subtlety. He didn't know the sequence for Bertram's gel-shot shield, so he worked with pure will and focus, ignoring the inefficiency since he had power to spare. Two gel-shots went out and splashed against the ground and grew rapidly, covering it with a cushion of arcana to break their fall. As soon as they fell into the waiting cushions, Caden hit Bertram with another one that sent him sprawling, away from the incoming tide of constructs.
+
+Caden was still stuck in his own gel-shot cushion when the first constructs leapt towards him. Fighting against the urge to simply mow them down with unbridled power, he instead hastily transmuted segments of his gel-shot shield into solid chunks and sent them hurtling outwards. It didn't do any meaningful damage, but it sent the first wave stumbling backwards into the constructs behind them, buying him a precious few seconds.
+
+It was enough. Before they could disentangle themselves, a golden chime sounded across the arena, and all of them went limp as the arena's globelights came back on. Caden let out a sigh of relief and watched as the structures, walls, and remaining constructs rapidly melted away, leaving only the black marble of the arena floor and its streaks of miniscle golden glyphs. Caden felt a wave of exhaustion and relief from Bertram before he slid out of their gestalt link.
+
+Their personal arena shields, however, were still up. Now that the whole arena was clear, Caden could see the other arcanists, their shields showing varying degrees of fatal damage. There was only one trio left standing apart from Caden and Bertram, made up of two third-years and a second-year who were all in much worse shape. It looked like they had been only seconds away from being completely overwhelmed.
+
+The arena was suddenly filled with the noises of relief or loud complaining.
+
+"... freaking crazy, first exercise..."
+
+"... Fates, shouldn't have come back for..."
+
+"... didn't work at all! How were we supposed to..."
+
+"... bloody big thing came straight for me and..."
+
+The double doors swung open and Marcus Kant strolled through them. But this was Marcus Kant as Caden had never seen him before. In the previous term, he had always been unkempt, dressed in T-shirts that were coloured more by dirt and stains than actual dye, and patchwork track pants that had been repaired so many times the original material could only be guessed at. But now, all that had been swapped for a black close-fitting long-sleeved top, and slim black pants that ended in a pair of black boots. The whole ensemble was laced with silver glyphs that were barely visible, tracing fine lines in shimmering patterns that only revealed themselves in brief flashes whenever he moved. His mane of tangled black hair, streaked with grey, had also been tamed and pulled back into a low ponytail.
+
+An uneasy silence fell as he made his way to the centre of the arena. The tread of his boots echoed, carrying a sort of menace even though it wasn't particularly loud or heavy. When he reached the centre, he stopped, standing tall and straight, without the usual air of insouciance. His eyes swept across the thirty students who were scattered across the space. Caden couldn't help but feel a faint shiver because in the arcana Kant's gaze brushed across his auric-ambient-flare with a barely-veiled sense of danger. He had to remind himself that even the Demiurge didn't think Kant was a match for him now. But seeing Kant up close now, like this, did make Caden wonder if perhaps the Demiurge had overestimated Caden's abilities.
+
+"Five isn't bad. Come, everyone," Kant said. A warm smile spread across his face, quite at odds with his earlier manner. Still, some of the tension bled out of the air. He gestured for all of them to join him on the arena floor, where thirty rudimentary chairs had materialised in what Caden had now come to think of as 'arena grey'.
+
+Caden found himself hanging back so he could take one of the seats at the rear. Bertram joined him without comment, half his attention on venting to cope with his overdraw. To Caden's dismay, Henry and his posse seemed to have the same idea. When they both noticed they were going for the same seat, Henry caught Caden's eye and gave him a small smile, then gestured with exaggerated magnanimity for Caden to take it.
+
+"To the victors go the spoils," he said softly, before moving off to sit in the row just ahead, on the side further away from Caden and Bertram, joined by the other members of his earlier gestalt.
+
+"Welcome back to the Academy," Kant said, standing in front of the assembled students, with his hands folded behind his back. "And to those who haven't had the misfortune of being in my classes so far, an especially warm welcome. You'll get used to the pain."
+
+There was a bit of chuckling from a few students. Bertram managed a half-snort, half-chortle.
+
+"If you're wondering whether the rest of our lessons this year will be like this," Kant continued, smiling slightly, "the answer is no. They will be worse."
+
+There were more laughs, though fewer, and also some quiet incredulous choking. Caden could almost hear the sound of people's hearts sinking.
+
+"Theory without practice is pointless, and doubly so in the context of the Empire's mobilisation for war," Kant said, his tone becoming a little more sombre. "Once a week, we will have a war game of sorts, like the one you have just endured. Two more sessions will be spent running drills. And to end each week, we'll have duels in various arrangements. At the end of each session, I expect intelligent reflection of your performance. So, let's get straight to it. What did you learn from today's exercise?"
+
+A few of the students looked around, clearly feeling alarmed and very out of their depth. But there was already one hand going up. It was Henry.
+
+"Yes?" Kant gestured at him.
+
+"How to use arcana efficiently in a gestalt," he answered softly.
+
+"Elaborate?"
+
+"Individuals wouldn't have lasted long. Even the lesser constructs were difficult to subdue or destroy. We needed to form gestalts," Henry went on calmly. "But even in a gestalt, we were forced to be extremely efficient with the arcana by using glyph arrays, or else we wouldn't have been able to make it to the end."
+
+Kant nodded in approval. "Glyph arrays are essential in higher levels of thaumaturgy. The gestalts that did not use them, or were unable to use them effectively, all fell in the first three minutes of today's exercise. Please prepare yourselves accordingly for future sessions. Now, what else?"
+
+Bertram raised a hand, and Kant nodded at him. "The importance of gathering intel. If you didn't have any way to survey the field of battle, you wouldn't be able to avoid the biggest threats, or get into an advantageous position."
+
+"Yes. There were only six people doing any sort of active, intentional scanning. The rest of you were relying on your general sense of the flow of arcana in the space, but the constructs are shielded and veiled against that kind of casual detection," Kant said. "First and second-years, get in touch with the third-years and learn the relevant sequences by next week. What else?"
+
+There was some murmuring, but no one else volunteered an answer.
+
+"Well, if there's nothing else, then it's time for me to give my assessment of how it all went," Kant said. He paused, looking at everyone one-by-one, his brow furrowed. "As individuals, some of you performed very well. But as a class, all of you have failed."
+
+"What do you mean?" Lynus demanded.
+
+The ambient arcana suddenly came alive as Kant seized control of it, and Caden almost fell out of his chair in surprise and alarm, but he reined himself in when he realised that Kant was just generating visual aids en masse. Swirling wisps of colour formed loops around each of their seats.
+
+"These were your gestalts," Kant said, indicating the coloured rings around them. Caden looked down and saw that he and Bertram were both ringed in sky blue. Henry and his group were in royal purple. Everywhere he looked, he saw mostly groups of three to six people.
+
+"What's wrong with our gestalts?" someone asked, confused.
+
+Kant gave a wry smile. "Why didn't you all form one gestalt?"
+
+An awkward silence met his words. After awhile, another person muttered, "Were we allowed?"
+
+"Your enemy will not tell you what you can or cannot do," Kant said sharply. "In battle, you ought to seize every advantage you have. If you have superior numbers at your disposal, capitalise on that. For our future sessions, please remember this. You are not here to learn recreational duelling. You are here to be trained for combat. Use anything and everything you can."
+
+There was some nodding from those who were familiar with Kant's methods, but a few people were complaining under their breaths about how this had been a rather unfair expectation. If Kant heard, he gave no indication. Instead, he moved on and started calling out specific people to demonstrate some of the things they had done, and then got the group to evaluate the sequences that had been deployed, and offer comments about whether those had been wise decisions, or whether they had been used effectively. There didn't seem to be any pattern to who Kant decided to call on, but Caden felt it was only a matter of time before the crosshairs fell on him.
+
+"Caden," Kant called finally, with only fifteen minutes left to the session. "You brought down the giant construct."
+
+There were exclamations of surprise and disbelief from those who hadn't been present when it happened. "Isn't he just a first-year?" someone whispered loudly.
+
+Under Kant's command, the wedged-armed construct formed next to him. It stood motionless, towering over everyone.
+
+"Please demonstrate," Kant said, gesturing.
+
+Caden hesitated. "I'm not sure if I can if it's not moving," he said. It wasn't strictly true, because he definitely had more than enough power to take it down alone, but at the time he had limited himself to using only what was generally reasonable for a first-year. And that meant that in the earlier engagement, he had taken advantage of the construct's own momentum when it had been charging towards him.
+
+Kant raised an eyebrow. "You want to fight it properly again?"
+
+"Er, no," Caden answered hastily. "I just, uh, need it to be charging forward at full speed. And I need a battery."
+
+Immediately, the construct started lumbering off toward the far end, away from the whole group. A huge sphere of arcana rapidly formed in the middle of the arena, floating above them. Caden took the cue and went to the opposite end. The blade of arcana materialised in his hand, drawing some appreciative noises from the watching crowd. When he attuned to the arena-prepared battery and was ready, he nodded.
+
+The arena shields sprang into existence around him and the construct charged forward. Caden propelled himself forward with a burst of arcana, bringing the blade to bear once more. Just before the moment of impact, the construct raised a wedge-like hand to intercept him. Caden was caught by surprise, but he twisted desperately out of the way and narrowly missed being struck head-on, and still managed to draw his sword through the centre of the construct. As before, the gathered arcana bled through the path traced in the air by his sword, sank through the construct's outer shell, and suffused the whole thing in a matter of seconds. Caden tore apart the channels of arcana feeding the sequences that powered it, and it collapsed in a heap a moment later.
+
+Bertram whooped and cheered, and he was joined by a few of the others, though the prevailing emotion was one of stunned surprise.
+
+"I'll give you all two minutes to figure it out," Kant announced. "If anyone can tell me how he did that, I'll give you a little present."
+
+Caden returned to his seat. As everyone fell into furious speculation with their friends, Kant walked around the cluster of chairs and came a little closer to where Henry sat, then looked down at him. "Leaving a rearguard behind to cover your retreat is a viable tactic, but you ought to weigh your options more carefully in the future," he said softly to Henry, though he clearly didn't mind if he was overheard. He even glanced up and gave Caden a small smile. "A rearguard isn't much use if it ends up following you and drawing more attention to your retreat, is it? I expect better from you in the future."
+
+Henry nodded, his face impassive. When Kant was gone, he turned to look at Caden again. It was unsettling not because there was any hostility or even dislike in his gaze. Instead, it felt like Henry was weighing exactly how much of a threat Caden might pose to him, and what to do about it.
+
+Caden fought down a wave of irritation and looked away. He had no intention of being pulled into some petty feud over one incident in a training exercise. There were Fateweavers to contend with, an assassin to uncover, and even freaking elves to learn about. He had bigger fish to fry.

@@ -1,0 +1,79 @@
+---
+id: 97f14eb0-b3ca-586b-903b-662d36206da3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1413 - I Know That Song"
+slug: 0061-chapter-1413-i-know-that-song
+partOf: chrysalis
+position: 61
+ownLength: 1042
+unit: words
+ownProgress: 1042
+publishedAt: 2024-09-19
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1809701/chapter-1413-i-know-that-song"
+royalRoadId: "1809701"
+markedReadAt: "2026-06-29T19:45:35.047Z"
+---
+
+The eggs weren’t destroyed! Whoo! Regardless of what I might think of the Krath (it isn’t good), I didn’t want to see a bunch of eggs get roasted by the purification process.
+
+They were definitely changed, though. No longer black, they were… lighter. Not quite white, more like a… a sombre sort of grey. Reaching out with my senses, I could tell that the life present within them was still there, if perhaps a little muted from what it had been before.
+
+When the rest of the Colony came down to join me, I was quick to point out to Solant, Tungstant and the others just what I’d found.
+
+“This is… unexpected,” Solant mused, for once not having foreseen the issue. “I would never have imagined that Krath, even unhatched, would be able to survive the purification process.”
+
+“More than that, they may not even be monsters,” I point out. “They were clearly farming and growing food down here. Mould and meat, it looks like.”
+
+Tungstant appears quite perturbed by this revelation.
+
+“If they aren’t monsters, how on Pangera were they able to survive down here? The fifth is… such a unique biome, I can’t imagine something being able to live here without specifically being born to this place.”
+
+Solant has an answer for that.
+
+“There are legends that the fifth wasn’t always like this. That it was corrupted by one of the Ancients. None of the stories agree on which one. Morribolg, perhaps, or Theorazzn. Perhaps even Yolesh. Only the sophos have a history of the Dungeon that goes back that far, and even they aren’t sure.”
+
+“Wait, you spoke to the sophos? About the fifth?” I break in.
+
+Solant flicks an antenna dismissively.
+
+“I sought out all information available about the fifth, from every source willing to speak to us. I have read thousands of pages, hundreds of texts, transcribed into pheromones, about this place. Preparation is not just the key to victory, it is the victory itself.”
+
+Yeah, yeah. Smarty legs.
+
+“As I was saying,” she continues, “it’s possible that the Krath were not always the way they are now. Perhaps they too, like the fifth, were changed into their current form… corrupted by the toxic energy that fills this place.”
+
+“If they weren’t always the slippery, slimy critters that they are now… what were they in the past?” I wonder.
+
+Solant turns her eyes down to the eggs, shimmering slightly in the clear fluid around them.
+
+“We might be the first in thousands of years to find out….”
+
+As much as I would have loved to keep speculating and chatting with my siblings, unfortunately, that isn’t my job down here in the fifth. My role is to hurl my body out into the toxic wastelands, fight off the disgusting and putrescent monsters that fill this terrible place, and act like the canary in the coalmine.
+
+A shiny, amazing, diamond-coated canary.
+
+So once the Krath village is secured, I am back out on the road, so to speak, exploring through the enormous, wide open tunnels, running just ahead of the cleansed area as it continues to expand downwards. It won’t be long until we hit the target depth set by Solant, and once we do, the construction will really begin. Until then, it’s my job to root out any big nasties and keep the pressure off the lead teams.
+
+As I use yet another Void Chomp to slash through a blubbering mass of goopy, stringy mess, it shudders and then explodes, sending invasive, parasitic little mites all over the place. I quickly incinerate myself, which isn’t fun, but you’d be amazed at what you can get used to. I’ve had to set fire to my own body over a dozen times already. Much like that egg monster, it seems like monsters that try to invade and break you down even after they’ve been defeated aren't all that uncommon down here.
+
+As the cleansing fire incinerates all the mites, who leap up at my carapace with all the enthusiasm of juvenile demons, I can’t help but sigh. Man, I’m really putting myself through a lot of punishment here. Not for the first time, I thank Gandalf for my precious Vestibule. Without the flood of energy pouring through, there’s no way I could survive out here.
+
+Although… that would mean I’d have to stay in the blue mana, and the Colony couldn’t send me out here like this. I prod one leg into my carapace suspiciously.
+
+Were you really a curse all along, Vestibule? Now, at this time, you choose to betray me?
+
+I’m knocked out of my reflection by a slight tingle in my antennae. It’s so faint I almost miss it, but I’m so hyper-sensitive out here that I refuse to allow even the tiniest hint of sensory information to escape my notice.
+
+The moment I try to chase that hint down, I’m immediately puzzled. What in the name of heck is that? For a while, I’m not even sure what sense is talking to me, but eventually I figure out it's my gravitation antennae mutation. There’s something producing very fine, very delicate vibrations. I’m almost tempted to dismiss it, but the more I think, waving my antennae back and forth, I can’t help but feel I’ve sensed this same feeling before.
+
+Like… a lot, but I’ve never really paid attention to it much, given how quiet it was compared to everything else.
+
+The more I quietly sit, ignoring the smoke coming off my eyeballs, the more confident I become. I’ve definitely felt that before, and I know exactly what it is.
+
+Sneaky, sneaky. Thought you could hide from me? Impossible! Determined, I begin to head toward the strange feeling, then hesitate. I have a mission, I’m on a timer. Do I really have the time to be chasing this down?
+
+After a moment, I throw my doubts aside. I have time, I’m ahead of schedule, and this could turn out to be important. I mean, it could turn out to be nothing at all, but it doesn’t hurt to try, right?
+
+Settled in my mind, I change my heading and start moving toward the unsettling yet familiar vibrations.
+
+You’re going to have to talk to me this time.

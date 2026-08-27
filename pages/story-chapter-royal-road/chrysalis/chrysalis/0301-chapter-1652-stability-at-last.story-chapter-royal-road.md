@@ -1,0 +1,65 @@
+---
+id: 8a19bb02-d646-5779-b76d-9531e526156a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1652 - Stability, At Last"
+slug: 0301-chapter-1652-stability-at-last
+partOf: chrysalis
+position: 301
+ownLength: 978
+unit: words
+ownProgress: 978
+publishedAt: 2025-09-24
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2624047/chapter-1652-stability-at-last"
+royalRoadId: "2624047"
+markedReadAt: "2026-06-29T19:53:26.600Z"
+---
+
+Life slowly returned to normal around the fortress. In fact, better than normal. ‘Normal’ had come to mean an endless battle against the fifth, against the toxin, the Krath, the mucus and monsters. ‘Normal’ meant hospitals filled with partially dissolved ants, or those suffering from parasites. It meant barracks filled with humans, golgari, Folk, all praying to the Great One that they would make it through their next shift on the platform.
+
+For a long time in the fortress, there had been no such thing as ‘normal’.
+
+As Solant walked along the tunnels, she could tell that there was a different feeling among her many sisters. Members of the Colony were always dedicated, unwavering, brave and willing to endure much for the benefit of the family, yet even they had been pushed to the brink by the horrors of the fifth. A good general was always mindful of the state of her soldiers, and Solant knew that they had suffered greatly. It would be some time before they were ready to be pushed that hard again.
+
+Yet now, the surrounding tunnels were being flushed with new mana, and the fifth was in the process of tearing itself apart. Every time the scouts went out, they found the cleansed mana spreading, the corruption retreating. New monsters were already spawning in the tunnels around the heart, growing stronger as they fought and battled with each other and the corrupted monsters around them.
+
+The ants had springs in their steps, a new lightness in all six legs. They had done the impossible and triumphed against the odds. They had fought so bitterly, many of them being healed and cleansed dozens of times over the course of the wave.
+
+Of course, it was victory that soothed the hearts and minds of those who had struggled, as Solant had always known it would.
+
+Stepping into the headquarters, Solant was pleased to see all of her nineteen closest siblings had gathered. Deep in preparation for the next stage of the conquest, they didn’t even notice her entry.
+
+“The gathering mechanisms will need to be totally redesigned,” Juliant declared. “If our experience here at the fortress has told us anything, it's that throughput controls are a must. Having the flow of mana be ‘on’ or ‘off’ is woefully inadequate.”
+
+“What are you proposing?” her fellow carver Subutant asked her sister.
+
+“I have a few sketches I’d like you to review, if possible.”
+
+“Of course.”
+
+“Mapping out the surrounding tunnels is our first priority,” Leonidant reminded them all. “If we don’t know the ground we’re fighting over, we have no chance of victory.”
+
+“The scouts are moving as quickly as they can,” Washingtant spoke up. “Our models of the surrounding tunnels are expanding by hundreds of kilometres every day, but most places are still dangerously contaminated, which is slowing us down.”
+
+“It will be weeks, if not months, before this area of the fifth has been fully cleansed,” Solant announced, joining their conversation. “There are vast reservoirs of concentrated mucus, entire lakes of it, along with other locations riddled with contamination. Even the vast amount of mana we have pumped into the heart already may not be enough to eliminate it all.”
+
+She reached the centre of the group and looked at the detailed model of the fifth they had surrounded. Indeed, as the scouts had said, it had expanded greatly since the last time she had looked at it. The Colony was pushing further and further out, taking advantage of the weakened state of the fifth. It wouldn't be long until they found the borders of the area affected by the heart they had conquered and entered a brand new territory.
+
+“In the meantime, we have a great deal of work to do. Our initial plans for the wider campaign need to be reviewed. I want reports on the effectiveness of every formation and tactic used on the field during the wave. I want the battalions back on the training ground in six days, and we need an updated suite of drills for them by then.”
+
+She clacked her mandibles thoughtfully.
+
+“Continue to experiment and prototype with your intake designs,” she told the two carvers, Juliant and Subutant. “Consult with Tungstant and get her input as well. The mana channels and wuffer platforms will also need review. The network is going to be much more distributed than it is now, which will come with many challenges.
+
+“We will need to speak with the core shapers as well. They have been working very successfully with Formo the Sophos and have viable designs to unleash into the corrupted zones. They will somehow have to balance that project along with massively scaling up our wuffer numbers.”
+
+It had taken everything the Colony had to create the fortress and succeed in this initial invasion. All of the resources of their combined territories had poured into the fifth to make this possible, but the war was only going to expand and grow more expensive from this point onward. They had to be ready.
+
+“I myself will go to the fourth and third to ensure that our supply chains and logistics are strengthened. The nests above have been scaling their capacity and production, but it will all be for naught if those materials can’t be brought to the front in a timely manner.
+
+“Finally, we mustn't forget the true enemy.”
+
+She clacked her mandibles coldly.
+
+“There are Krath nests still tucked away and hidden within the Colony’s territory. They must be rooted out. We cannot move forward and leave an enemy at our backs.
+
+“Remember. Our victory or defeat will be determined right here and now, in the planning stages. If we are prepared, we will win. Every decision is crucial. No guesswork. We must know ourselves, know the enemy, and know the terrain. If we do that, we cannot fail.”

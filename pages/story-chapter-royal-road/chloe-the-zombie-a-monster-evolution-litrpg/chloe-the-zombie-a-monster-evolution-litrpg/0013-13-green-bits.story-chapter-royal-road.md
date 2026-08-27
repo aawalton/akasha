@@ -1,0 +1,173 @@
+---
+id: ad06f56f-2409-5278-9f76-62e6d2a9a3fb
+page-type-slug: story-chapter-royal-road
+title: "13: Green Bits"
+slug: 0013-13-green-bits
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 13
+ownLength: 1949
+unit: words
+publishedAt: 2025-08-21
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2536137/13-green-bits"
+royalRoadId: "2536137"
+---
+
+Deep within the goblin lair, one rose above all others: Zarruk the Usurper. Ruling through cunning and ambition, it was a title he'd earned well
+
+Once a runt, beaten and exiled for defying the chief, Zarruk refused to go away quietly. He survived the wilds, ambushed human travelers, and offered their hearts to the Old Gods, beings he'd only heard of in whispers from elder goblins.
+
+To his astonishment, they answered, granting the once meek goblin forbidden knowledge. Zarruk returned and swiftly slew the chief, claiming leadership. Now the tribe feared him. He was no longer an ordinary goblin, he was a warlock. And it was time to strike.
+
+After years of preparation, Zarruk was ready. The humans of the nearby village were weak, while his army had only gotten stronger. He swore to break the humans, all so that he could finally enter the ranks of Sol.
+
+He turned toward the dark mirror embedded in the stone. Its surface rippled as a hooded figure emerged, cloaked in darkness. "Zarruk… if you are to join Sol, then you must first prove your worth."
+
+Zarruk straightened, a proud grin tugging at his lips. “I’ve already started a raid against a nearby village. My kind are there now, and have overwhelmed the human's defenses. Once all is done, I will personally choose the strongest humans and offer them to the gods myself.”
+
+“Truth be told… I doubt you will succeed.” The hooded figure said.
+
+Zarruk blinked. “What? No, no, I’ve spent years preparing for this. I studied their routines. Watched their hunters. They’re soft and complacent. My goblins will conquer those fools with ease."
+
+“We shall see.”
+
+The hooded figure vanished, and as he did, the dark mirror rippled before turning into a harmless puddle of water. Zarruk was about to let out a sigh when a shrill voice cut through the chamber.
+
+“B-Boss! Boss!”
+
+Zarruk spun around. “How dare you interrupt me, you sniveling grub!”
+
+A goblin stumbled into the chamber, panting, arms flailing. “Sorry boss! But... bad news! Real bad! The raid failed! The humans… they fight back! We lost many comrades!”
+
+Zarruk stared at him, unblinking. “Failed? Are you serious?"
+
+“Yes, yes! Just a few got out!" The goblin said frantically.
+
+Zarruk couldn't believe what he was hearing. He had watched that village for years. It had been a perfect target. A sure victory.
+
+He stepped forward, eyes narrowed to slits. “Exactly how was the army driven back?”
+
+“A human! A weird one! Woman, with white hair and red eyes! She’s strong, boss. Real scary!”
+
+“Have you seen her before? Was she part of the village?”
+
+“No! New one! Just showed up! She's coming here now! Straight to the lair!”
+
+"Wait. Are you telling me she fought off the entire raid alone?”
+
+“Yes! All by herself! Killed every goblin she saw! Didn’t even stop to breathe!”
+
+Zarruk’s jaw tightened. He stroked the hairs of his beard, pacing once. A single human doing that? It shouldn’t have been possible. Goblins might not be strong one-on-one, but a full raiding party was no joke. For one woman to cut through them alone…
+
+She had to be more than a mere fighter. Maybe an adventurer with a vendetta. Or worse, some goody two shoes hero who might be a bit too much for his current level.
+
+Regardless of who the mysterious woman was, Zarruk knew that he couldn't just stand by and do nothing. He turned to the goblin. “Tell the others to move quickly and intercept the intruder. That foolish human must die.”
+
+***
+
+The goblin lair wasn’t hard to find. Chloe just walked straight north from the village, and there it was. A wide, dark cave carved into the hillside.
+
+She stopped a few steps from the entrance. This had to be the place, Goblin central.
+
+Chloe lifted her foot to step forward, then froze mid motion as realization struck. She still had three trait points left to spend.
+
+[Displaying Available Traits for Purchase]
+
+[Each trait costs 1 Trait Point, unless stated otherwise.]
+
+1. Silent Steps (Basic – Cost: 0 Trait Points): Your steps are unnaturally light. You make less noise while moving, reducing the chance of being heard when walking or sneaking.
+
+2. Necrospark (Uncommon): When one of your limbs is severed or you take significant damage, your body releases a burst of necrotic energy in a short-radius aura, damaging nearby non-undead.
+
+3. Lingering Grasp (Uncommon): Detached limbs can now remain active for longer periods and function more effectively at range.If you encounter this tale on Amazon, note that it's taken without the author's consent. Report it.
+
+4. Ragged Momentum (Uncommon): Your body adapts to dismemberment with unsettling efficiency. For each limb currently detached or destroyed, your movement speed increases slightly. This effect stacks cumulatively, with greater speed gained as more limbs are lost.
+
+5. Lich's Mastery (Rare – Cost: 3 Trait Points): Enhances your affinity with undead-aspected magic. Spells related to Darkness, Earth, Curses, Rituals, and Decay level up faster and consume less mana to cast.
+
+Chloe stared at the glowing text, arms crossed. Ooooh… decisions, decisions.
+
+Silent Steps cost zero trait points apparently. Chloe's grin widened. Free stuff was always nice. And sneaky Chloe? That had a certain charm.
+
+She pictured it vividly, creeping up behind some dummy, leaning in all slow to whisper a soft, chilling “boo,” then sinking her teeth right into their brain before they even had time to scream. That sounded like fun. And hey, the trait was free.
+
+[Trait Purchased: Silent Steps]
+
+[Trait Points Remaining: 3]
+
+One trait down. Three points left to spend. Chloe eyed the next option with interest.
+
+Necrospark seemed alright. The idea of her exploding on impact was kind of funny, honestly. The catch was that it only triggered if she lost a limb or took a serious hit. Then again… that had happened a few times already.
+
+Next was Lingering Grasp. The thought of having better control over her severed limbs was… interesting. She wasn’t completely sold on it yet, but it definitely had potential.
+
+Then came Ragged Momentum. Now that one made her smile. It sounded a little silly, but maybe strong too, and it paired nicely with Lingering Grasp. Faster movement and more control over runaway limbs? Not bad.
+
+Her eyes finally landed on the last one: Lich’s Mastery, the only trait on the list that cost three points. Chloe hoped it would be worth the price, and thankfully, it didn’t disappoint.
+
+The trait made her better at some types of magic. Simple as that. And Chloe really liked magic.
+
+The cost was steep compared to the other available traits, but the payoff was tempting. Chloe wanted to get better at casting spells. Even if she only knew one spell at the moment, she knew that wouldn’t be the case forever.
+
+After a few more seconds of thought, she made her choice. More magic was just too good to pass up.
+
+[Trait Purchased: Lich's Mastery]
+
+[Trait Points Remaining: 0]
+
+With all that sorted, Chloe marched into the cave. The air instantly went all cold and clammy, sticking to her like gross cave sweat. She squinted into the dark and wondered how many goblins were actually hiding in here. Hopefully not a ton. Fighting them wasn’t hard, but they were still pretty annoying in large numbers.
+
+On the bright side, Chloe's steps were almost completely quiet now thanks to her fancy new trait. Even her cloak barely rustled.
+
+The more she walked, the more the place felt familiar. Actually, it looked just like that cave from the vision after she crunched the goblin shaman’s brain. It made sense, the magic goblin probably hung out here before wrecking the village.
+
+But soon, a faint click stopped her cold. Then came the whoosh, as a trio of darts shot out of a hole in the wall. One embedded in her side with a squelch. Another bounced off her ribs. The third lodged square in her neck.
+
+“Oh, come on,” she muttered, yanking the one in her neck free.
+
+The wound oozed black for a moment before the threads began stitching her back together. A few steps later, Chloe tripped a wire, and the ceiling trembled above her. A bundle of crude logs swung down, smacking her square in the chest and sending her flying back into a wall.
+
+Chloe stayed there for a moment, face twisted in annoyance. These goblins really did love their traps. Every step felt like walking through one big, stupid game designed just to irritate her.
+
+She sat up with a grunt, rolled her shoulders, and kept walking. The tunnel eventually widened, and Chloe caught voices, chattering goblin speech echoing ahead.
+
+Chloe pressed herself to the wall, then peeked around the bend. Five goblins stood in an open chamber, lit by torches wedged between rocks.
+
+Two carried axes, the others gripped spears. They barked at each other in sharp, snapping tones, completely unaware of her. This was it, her chance to strike.
+
+Chloe prepared her Rock Shot. A stone formed mid-air, then launched forward at rapid speed. It smashed straight through two goblins’ skulls with a wet crack, dropping them instantly.
+
+The remaining three screamed and whirled around. Chloe lunged before they could scatter.
+
+She ducked under a spear, slashed upward with her sword, and slashed the nearest goblin. Another jabbed at her side, but she twisted, let it graze her, then stomped on its foot and hacked down into its chest.
+
+The last one turned to run. But Chloe just hurled her sword straight through its back. It gurgled once, staggered, and collapsed in a heap of twitching limbs.
+
+Silence returned. Chloe smiled as she plucked her sword free from the body. Too easy.
+
+[You have killed: Goblin Marauder (Level 7)]
+
+[...]
+
+[You have killed: Goblin Marauder (Level 7)]
+
+[Experience Awarded]
+
+[Skill Upgraded: Rock Shot V >> Rock Shot VI]
+
+Chloe wandered deeper into the goblin lair. Every corner she turned, more goblins appeared, and every single one ended up dead, fast. Some tried to fight back, but it didn’t matter. They all fell the same way.
+
+And yet… something felt off. She had expected more.
+
+The place was massive, but she’d only run into maybe two dozen goblins so far. That couldn’t be right. Maybe most of them had gone out for the village raid earlier.
+
+Kicking aside a fallen goblin, Chloe kept moving. That was when she heard faint chanting, echoing from somewhere above.
+
+Then she saw it. A vast chamber stretched out before her, the ceiling lost in shadows far overhead. Crumbling pillars lined the space, and at the far end stood a pair of towering stone doors. They looked important, very important, and a part of her burned with curiosity. She wanted to know what was behind them.
+
+Chloe took a step forward, then froze. The stench hit her first. Hot, matted fur mixed with the sour stink of something rotten. Then came the growls.
+
+She glanced around and spotted movement. There were more goblins, but these ones were different. They rode beasts. Massive, low-slung creatures with thick legs, long flat snouts packed with tusks, and coarse black hair. Ropes of spit swung from their jaws, thick and steaming.
+
+The goblins on their backs wore jagged scraps of armor, gripping long spears and snarling loud enough to echo off the walls. Chloe had no idea how they managed to stop those beasts from eating them, but one thing was clear, these goblins meant business.
+
+The creatures stomped forward, foam dripping from their mouths as they pawed at the stone. She counted four of them, each carrying a goblin that looked far tougher than the runts she’d crushed earlier.

@@ -1,0 +1,105 @@
+---
+id: d5e1bd8c-8cb9-52d6-a713-db3dd2a55341
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1614 - Within the Heart"
+slug: 0263-chapter-1614-within-the-heart
+partOf: chrysalis
+position: 263
+ownLength: 1281
+unit: words
+ownProgress: 1281
+publishedAt: 2025-08-01
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2482657/chapter-1614-within-the-heart"
+royalRoadId: "2482657"
+markedReadAt: "2026-06-29T19:52:13.840Z"
+---
+
+Finally noticed I’ve been using the wrong names and tribe names for several of the Krath from the deeper locations. Shoutouts to big G for persistently letting me know.
+
+I’ve been saying Gluzzgith for the tribe who live in the heart, but its meant to be the Zissth, and their Krath’lath is Soluzz, who’ve I’ve been calling Thulziss.
+
+I’ll make the changes in past chapters, but going forward.
+
+Gluzzgith tribe -> Zissth tribe
+
+Thulziss (big powerful Krath’lath) -> Soluzz
+
+(Thulziss IS the Krath’lath of the Gluzzgith tribe, but they don’t live in the heart. This is a case of mistaken slug tribe).
+
+When the blindfold was removed, Zluth was relieved to see that he was, in fact, within the heart and not in some secretive kill-chamber about to be devoured by a blubbeast. Without being too obvious, he turned his stalks a little this way and that, trying to see who had not made it. What he saw caused him to become concerned once more.
+
+They were inside the Slimeground of the Zissth, to be sure, the great walls of the heart beating all around him. The floating structures, secured to the roof high above, in which the Krath lived were nearby, but he himself was on a platform with Chozth by his side and Soluzz, flanked by two large, powerful warrior slugs before him.
+
+“No need to worry,” the massive slug burbled, “I have no intention of killing you here.”
+
+He grinned, revealing his needle-pointed fangs.
+
+“Somewhere else, maybe.”
+
+That was as much of a joke as a Krath was capable of, but neither of the two laughed. Chozth bared her own fangs in a sign of vicious defiance.
+
+“What is it you want, Soluzz? We came here to see the will of the Ancient done. Not even you would interfere in that.”
+
+The huge slug held up his many arms in a placating gesture.
+
+“A little patience. To trap the prey, a true Krath knows they must be cunning and patient. A slug who can’t master their base instincts will soon die, don’t you agree?”
+
+This was a lesson that Zluth had drilled into himself relentlessly his entire life. Twice as much after he met Goszi. Striking with savagery was part of being Krath, but so was waiting for the right moment.
+
+“Do you mind if I ask which prey you have in mind?” he asked slyly.
+
+He didn’t think Soluzz was talking about the ants, or the invasion at all.
+
+“You may have noticed the other Krath’lath have been scheming amongst themselves, I know you have, Zluth of the Slee.”
+
+“I don’t care,” Chozth spat. “If they come for the Thuuz, we will rip them apart and devour them whole.”
+
+“It’s possible that you could,” Soluzz allowed, acknowledging the fearsome strength Chozth had cultivated, “but there is no need to take such risks. With my support, two promising Krath’lath like you could expand your territories and grow strong very quickly, wouldn’t you agree?”
+
+Now this was interesting, exactly the kind of offer Zluth had been looking for. All he needed was a chance for the Slee to supplant one of the larger tribes, and with the help of the mighty Zissth, anything was possible. With an agreement in place with Chozth as well, the Slee may well be able to take the place of a major tribe like the Bulg or Lirz!
+
+He would be remembered as a legendary Krath’lath among the Slee who had turned a weak and unknown tribe into a power in the region. And why stop there? The invasion was still ongoing, there would be many chances yet for Zluth to win greater glory. Slugs would fear and revere him, serve under him and join their fates with his.
+
+Chozth did not look convinced. She had much less to gain than he did, but Zluth desperately needed her to agree. She was much closer than the Zissth and in a better position to help him. All he needed was something she valued to gain her interest.
+
+“Of the Bulg and the Lirz…” he began, “... which one has the better Slimeground? I imagine the Thuuz could use a second home, just reward for the warriors they have sacrificed.”
+
+Chozth’s eyes flashed red. She knew exactly what he was offering.
+
+Join with me, and we will destroy both of your rival tribes, and you can take your pick of their territories.
+
+A tempting offer indeed, and one with a great reward.
+
+“Something for us to think about going forward,” Soluzz burbled. “For now, our task is not yet complete. But soon, it will be. That’s when the most cunning of Krath’lath will have already laid their plans.”
+
+Chozth and Zluth eyed each other. The large Krath spoke truly, it would be best to have made arrangements well in advance of the invasion being over. With the turning of the giant ant, that might not be far away.
+
+“Let us see to the monster,” Chozth hissed, “then I will be prepared to talk.”
+
+She spat the final word as if it stung her tongue like acid, which it may as well have. She was not a feared Krath’sizz because of her diplomacy. Even so, Zluth took it as a good sign. If she was willing to talk, then she was willing to be persuaded.
+
+The ascension of the Slee, and of Zluth, was close.
+
+“The others are waiting for us a little further down,” Soluzz said. “It’s a dangerous trip down to the sludge.”
+
+“Can’t we just throw the monster in from here?” Zluth wondered.
+
+They were at the very top of the beating heart right now, with the turning pool right at the bottom. Surely they couldn’t miss?
+
+“This pool is a little different than the tiny little puddles you have in your slimeground,” Soluzz gurgled dismissively. “This is the real thing, left by the Ancient himself. We will treat it as such.”
+
+Zluth couldn’t help but be a little intrigued. Was there really such a difference? If so, then he wanted to see it for himself.
+
+“Let’s get on with it,” Chozth spat. “I didn’t come all this way to delay. I want to see that ant twisted in the Ancient’s way. I want to see the horror that comes out of the pool with my own eyes.”
+
+Soluzz grinned, pleased with her vindictive savagery.
+
+“We will lead the way.”
+
+Thick ropes and webs of mucus connected the structures that made up the thriving and, frankly, enormous community of the Zissth tribe to the walls and ceiling of the heart itself. How they managed to keep still despite the constant pulsing of the giant heart was beyond Zluth. Some wonder of Krath magic, perhaps?
+
+Being surrounded by the rotten and slime-coated walls of the giant organ gave Zluth a strange sense of belonging. The mana flowed so dense and thick here, his eyes stung and his mouth was seared with pain every time he opened it. The Krath who endured these conditions since hatching and survived would be strong, with powerful internal acid and endurance. No wonder the heart was such a treasured slimeground.
+
+To get to the lower reaches of the heart was not simple, as Soluzz had said. They found the others waiting on a lower platform, with the ant still bound beside them. Mulzoz and Ulliz watched them distrustfully, but Zluth paid them no mind. Of course everyone was scheming against each other, they were Krath. What else could be expected?
+
+From there, they needed to move the enormous monster from platform to platform, lowering it with ropes as they descended deeper and deeper. Soon, the lower chamber was in sight.

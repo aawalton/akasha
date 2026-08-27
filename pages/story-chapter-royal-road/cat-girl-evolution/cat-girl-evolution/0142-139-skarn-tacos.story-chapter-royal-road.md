@@ -1,0 +1,163 @@
+---
+id: 2c5e3634-65f1-5b2b-a6cd-d8be44c46be4
+page-type-slug: story-chapter-royal-road
+title: "139 - Skarn Tacos"
+slug: 0142-139-skarn-tacos
+partOf: cat-girl-evolution
+position: 142
+ownLength: 2121
+unit: words
+publishedAt: 2026-07-17
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3687760/139-skarn-tacos"
+royalRoadId: "3687760"
+---
+
+“Finally,” I say, staring at our handiwork. “Skarn tacos.”
+
+They look pristine. And I mean pristine. We could not have made a better-looking food if we tried.
+
+For the Skarn meat, we ended up just lightly searing it. It’s more similar to tuna, so to avoid overdoing it, we left the inside barely done, and just gave the outside a nice crisp. The tortillas are, unfortunately, quite mundane. They’re still infused with as much mana as we could manage, but I’m afraid their flavor is going to go unnoticed. They will just exist to hold it all together.
+
+Since the salsa is so overpowering in flavor, we didn’t bother to put anything else on top. Lettuce, tomatoes, cheese, beans… They’d all just be lost in the other flavors. We could experiment with adding them for texture later, but for now, it’s just Skarn meat and salsa.
+
+James, Lauren, and I all reach out to grab the tacos simultaneously, each taking one and bringing it up to our faces. I share a glance with Lauren, then one with James, hesitating a bit as I do. Sharing a taco with a homunculus is weird. He looks like a normal person, and sometimes acts like one, but other times, it’s been really obvious that he’s a homunculus. Abby fleshed him out decently well, but asking him certain questions makes him bug out a bit. For example, Lauren asked him why all his Skills were basic, and he just stared blankly at her for a few seconds, then carried on as if she hadn’t said anything. It just feels really awkward, and puts kind of a weird vibe on what should be a glorious moment.
+
+But at the same time, I can’t just get rid of him because he was integral in making the salsa and tacos. That would just be rude. So, I guess this tasting will just have to be weird.
+
+“On three,” I say. “One, two, three.”
+
+I try to take a small bite, but for some reason, the entire taco ends up in my mouth in one bite. Oh well.
+
+The flavor is perfect. It’s rich, intense, diverse, and everything I hoped for. We had to buff up the Skarn meat quite a bit for it to be able to compete with the Delicacy, and even now, it loses out a little bit, but that’s fine. The salsa is the main feature here anyway.
+
+The salsa is… hard to describe. Once we managed to perfect the mana infusion aspect of it, we started experimenting with the actual ingredients, adjusting ratios, adding and subtracting, and a few more things. We added a few spices in that I’m pretty sure didn’t exist on Earth, and we doubled the habanero count, since the Maligar fruit has a weird way of neutralizing the spiciness, and made a few other micro-adjustments to balance everything out.
+
+We’ve made so many batches that I completely lost count. Apparently, coming up with a new recipe from scratch isn’t very easy. It’s great for my Profession level, though. I knew that working with high tier ingredients would help level me faster, but I’ve blown through basically all of Tier 2 in my Profession in a single cooking session. A single, two-day binge of a cooking session, but still.
+
+And despite how long it took, and how tedious it felt at times, now that we’ve reached the end and I’m tasting my Skarn tacos, I can say, with confidence, that it was all worth it. This is the best food I’ve ever had, bar none. Nothing else even comes close. Tacos weren’t even one of my favorite foods back on Earth, but the ingredients and the flavor balance, and the fact that I refrained from eating for the past three hours to make room make this an unforgettable experience.
+
+I savor the flavor in my mouth, enjoying the burning on my tongue until the flavor begins to fade, and then my hands tremble as I resist the urge to reach for another. We made plenty, and I would love to just shove taco after taco in my mouth, but there’s one more variety to try, so instead, I just salivate as I wait for Lauren and James to finish theirs.
+
+Next up are the Flarn tacos. Unfortunately, since Flarn was a tier below Skarn, her meat is not quite as good. We ended up having to dilute the maligar fruit in it to be able to taste her meat at all. That puts the Flarn tacos a tier below the Skarn tacos, but they’re still fantastic, and on par with all of the best of the other fantastic meals I’ve had since arriving in this world.
+
+Once I’m done tasting that, then I dive back into devouring Skarn tacos. After ten, my mouth is on fire, but I don’t care. Pain is nothing in the face of fine cuisine! Besides, if I just eat a bite of maligar fruit between tacos, it drastically reduces the effects, allowing me to continue eating more tacos without suffering as much.
+
+We made fifty Skarn tacos and fifteen Flarn tacos, and within an hour, they are all gone. Lauren and I ate them all, of course. Even if James deserved a taste test for helping, he’s a homunculus. There’s no way in hell I’m letting him eat any more of my precious Skarn meat. He tries, of course, but I just snap my fingers and banish him from the kitchen so Lauren and I can eat in peace.
+
+As soon as we finish, I use my Dungeon Sense to locate Queen Abby’s bed, teleport into it, and fall asleep. Abby tries to say some nonsense about how that’s her bed, and that I can’t just take it like that, but I ignore her and use it anyway.
+
+Two days without sleep isn’t actually much for me, at this point, since my Resilience is getting close to 30,000, but two days without naps just isn’t right. That’s not the way the world is supposed to work. And as delicious as the food was, and as worthwhile as the cooking session was, I need balance.
+
+Eight hours later, I wake up, and after stuffing my face with some leftover trial salsa and raw Menyar, I sit up in bed and finally bother dealing with the Annoying Blue Box that’s been blinking at me ever since we finished the last batch of salsa.
+
+[ You have reached a Profession Upgrade threshold! Would you like to upgrade your Profession? ]
+
+Yes!
+
+[ Profession Upgrade options: ]
+
+[ Experienced Automated Cook ]
+
+[ Automated Sous Chef ]
+
+[ Lazy Chef ]
+
+[ Automated Exotic Cook ]
+
+[ Lazy Exotic Sous Chef ]
+
+[ Exotic Chef ]
+
+[ Automated Seafood Cook ]
+
+[ Lazy Seafood Sous Chef ]
+
+[ Seafood Chef ]
+
+[ Automated Earth Cook ]
+
+[ Lazy Earth Sous Chef ]
+
+[ Earth Chef ]
+
+Abby, which one is–? Wait, does that say Earth?
+
+“Yes, those options involving Earth will give you benefits when making dishes from Earth.”
+
+Oh. Is that good?
+
+“It is if you primarily want to make dishes from Earth. But for you, the best of these would easily be one of the Exotic options.”
+
+Why?
+
+“It will give you benefits when making ‘exotic’ dishes, which includes any dish made with ingredients of a certain rarity, which is basically everything you eat, since it’s all Named monsters.”
+
+Oh! So which of them is best?
+
+“Automated Exotic Cook is best if you want to automate things. Exotic Chef is best for quality. Lazy Exotic Sous Chef is the midpoint.”
+
+I see. Hmmmm…
+
+After the conversation I had with Abby the other day, I’m a little less keen on going down the automation route. It seemed like a good idea at the time, but now that I have my Dungeon, it’s kinda unnecessary. Plus, if Lauren and Chad do get married and settle down and have thirteen children, all named some variation of Yona, she won’t have time to cook for me, and I’ll need to find a new cook before I can enjoy my Delicacy meals.
+
+That won’t do at all. What if I can’t find a suitable minion? What if I acquire the second Delicacy, but I have no one to prepare it for me? That would be a tragedy of the highest order.
+
+I should have learned my lessons from Earth better. In life, you can only rely on yourself. If I want to have delicious Dungeon Delicacies whenever I want, I will have to be the one to cook them. It will be difficult. I might even have to put in eff*rt. But that is a sacrifice I will have to make.
+
+I choose Exotic Chef!
+
+[ You have selected the Exotic Chef Profession! Skills and Stat points have been assigned. Please refer to your Status Window for changes ]
+
+Royal Status Window!
+
+[ Name: Yona ]
+
+[ Age: 0 ]
+
+[ Species: Princess Yona, the Blinking Gastronomic Hunter Thief Chef. Tier: 3. Level: 11. ]
+
+[ Class: Beginner Vivitect. Tier: 3. Level: 11. ]
+
+[ Profession: Exotic Chef. Tier: 3. Level: 1. ]
+
+[ Epithet: Winter (unavailable) ]
+
+[ Titles: Second Lifer, System Breaker II, Named, Taker of Names IV, Dungeon Pioneer I, Dungeon Destroyer II, Princess, Renowned (unavailable), Dungeon Core ]
+
+[ Traits: Cat-like Reflexes, Gluttony, Extreme Spatial Affinity, Nimble, Fire Affinity, Custom Namecard, Royal Dignity, Royal Bearing, Traceless, Stealthy, Culinary Instincts, Gastronome ]
+
+[ Stats ]
+
+[ Power: 20027 (+13961) ]
+
+[ Finesse: 39227 (+27343) ]
+
+[ Resilience: 27994 (+19514) ]
+
+[ Memory: 28475 (+19849) ]
+
+[ Willpower: 29696 (+20700) ]
+
+[ Sensitivity: 34719 (+24201) ]
+
+[ Skills: Charged Spatial Slice, Dungeon of the Glutton, Devour of the Glutton, Multisnatch of the Glutton, Greater Blink, Fireball, Fleshshaped Constructs of the Glutton, Meditate of the Glutton, Perfect Disguise, Anatomical Synthesis, Timer, Compositional Culinary Analysis, Compressed Autonomous Mana Shield, Compressed Spiral Mana Burst, Greater Detailed Mana Infusion, Auto-Mix, Appoint, Flesh Weaving, Recipe Book, Exotic Ingredient Analysis, Ingredient Enhancement, Chef's Tools ]
+
+[ Soul Weapons: Gluttonous Greatsword, Terror Blade, Winter's Pistol (unavailable) ]
+
+[ Infiltrator Quest: Branch 1: Spend 30 days each with one member of an Enlightened Race using two different disguises without getting caught (1/2 complete). Branch 2: Spend 60 days with Enlightened Races without being discovered (16 days remaining). Reward: Racial Experience ]
+
+I quickly scroll down to my Skills and see that I have four new ones: Recipe Book, Exotic Ingredient Analysis, Ingredient Enhancement, and Chef’s Tools. Recipe Book and Chef’s Tools are the basic Chef Skills.
+
+Recipe Book lets me record recipes, along with past cooking records, minor refinements, and other things like that, and it comes with a changelog as well. Abby is not very impressed with this Skill, since she says it’s basically just a souped up version of the System’s default note-taking feature.
+
+Chef’s Tools is actually pretty nice. The description is “A chef never blames his tools… because they always have them,” and it basically just lets me conjure tools out of nothing. It’s limited to mundane, inert things like knives, cutting boards, bowls, and things like that, so I can’t just make an oven out of nothing, but the other stuff is really nice. Especially since the quality of the tools is based on my Finesse, which is extremely high. Notably, I cannot use these tools as weapons, and the moment I try to, they will disappear, but that’s fine, since I have Soul Weapons, so I’m never really unarmed.
+
+Exotic Ingredient Analysis is basically what it sounds like. It’s an upgrade of the more basic Ingredient Analysis that Sous chefs apparently get, and lets me get extra info from analyzing ingredients that the System deems ‘exotic.’ A quick test with some random conjured veggies and my own stored meat confirms that all the Named monster meat I have counts as ‘exotic’, as do the maligar fruits.
+
+The last Skill, Ingredient Enhancement, is by far the best of the bunch. Those issues we were having with the other ingredients not being high enough quality? Yeah, those wouldn’t have been a problem if I had this Skill. Well, not as much of a problem, at least. Abby says that there are still inherent limits to how far I can enhance any ingredient, but it still would have made everything we just did a lot easier.
+
+With that in mind, I want to just teleport right back to the kitchen and try to make an even better batch of maligar salsa, but something else on my Royal Status Window distracts me for a moment.
+
+Abby, what happened to Joakim’s Soul Weapon?
+
+“That… is an excellent question.”

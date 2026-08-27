@@ -1,0 +1,63 @@
+---
+id: 3ae7e530-33b2-5a73-81b0-95836c6d5fd8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1485 - The Breach Pt 3"
+slug: 0133-chapter-1485-the-breach-pt-3
+partOf: chrysalis
+position: 133
+ownLength: 875
+unit: words
+ownProgress: 875
+publishedAt: 2025-01-15
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2010769/chapter-1485-the-breach-pt-3"
+royalRoadId: "2010769"
+markedReadAt: "2026-06-29T19:56:39.055Z"
+---
+
+A horde of monsters crashed into the ant lines, who were already engaged in a fighting retreat. The blue mana continued to be blown back by the concentrated power the Krath had created.
+
+There was a way in! Finally, the invaders were on the run!
+
+Zluth couldn’t restrain a gurgling bellow of glee as he and his fellow Krath’sizz charged forward, their war parties following in their wake. Many had Net Slimes stuck to their flesh, feeding off their acid, ready to be plucked loose and thrown at their targets, and there were so many targets.
+
+To slide past the outer defences of the invaders was an almost surreal feeling, and to see the ant lines crumble was intoxicating, causing his flesh to sizzle fiercely.
+
+“Go forward!” he roared.
+
+“Poison and torment!”
+
+“Meat for the pits!”
+
+“Feast on their bones!”
+
+The savage cries of the Krath rang out through the tunnel as they followed behind the charge of their herded monsters. Despite their savage glee, they were still members of the tribes, and maintained their cunning. Why would they risk battling at the head of the column when they had pawns to do that work for them?
+
+Zluth felt his internal acid bubbling and the heat of his rage rising to its pinnacle as he sought out targets for his nets. Who should he aim for first? Decisions, decisions!
+
+Before him, the chaos of the battlefield unfolded. The ants maintained their disciplined lines, holding off the horde of savage monsters, but were constantly falling back as the field of blue mana shrank. There were weaknesses everywhere, and even the non-ant combatants were becoming exposed. Zluth compressed his body and zig-zagged forward, eyes darting atop their stalks, trying to hunt his first prey.
+
+There!
+
+One of the strangely robed humans had charged to the front of the line, roaring and bellowing, bizarre attachments to the top of their hood flopping wildly. Zluth’s eyes curved wickedly as he pulled his first slime away with a wet, sucking noise. With his many, spindly arms, he began to swing it, building up momentum before he released it with unerring accuracy.
+
+The strange human was caught completely unawares, the net knocking them down to the ground with the force of the impact and immediately beginning to expand and cover them. Zluth watched, bemused, as the human continued to bellow and roar, waving the short stump of one arm, right up until the net finally wrapped over their mouth.
+
+All along the width of the tunnel, the Krath pushed forward, seeking out vulnerable targets and letting loose their nets. The ants reacted aggressively, finding those who had been netted and dragging them deeper into the blue mana, letting the poisonous energy destroy the nets over time. Yet, in the chaos of the fighting, it wasn’t possible to save them all.
+
+Zluth unleashed several of his nets, each one finding a target, but most of them were found and dragged to safety. He didn’t mind, he only needed to succeed once, and after watching carefully, he finally found one.
+
+Ironically, it was the first net he’d thrown. At first, the bizarre human had been moved to safety, but as the blue mana continued to be driven back, and the ant lines continued to withdraw, once again the human was at the very edge of the mana. And now, it was completely enveloped by Zluth’s still-living Slime.
+
+The Krath spat out a wad of sticky goop, moulded it in his claws, then flung it forward. It unspooled into a line, latching onto the slime with an unbreakable bond, then Zluth began to wind back his prize. Unnoticed, he dragged the netted human behind a rock and ensured the seal of the slime was tight and unbroken. If it was penetrated by toxic mana, the human would be dead long before he reached the pits, and that would be a waste.
+
+“The cursed blobs!’ Chozth roared. “I see them!”
+
+Zluth raised his head to see the great Krath’lath still attached to the roof of the tunnel, looking ahead as the blue wall pushed back further still. He raised his eyestalks high and indeed, he could see what she saw. In the distance, a glowing platform, covered in the awful, defiling blue monsters who fed on the natural energy of the fifth and pumped out poisonous filth sat, well within reach!
+
+“Leave your captures!” Chozth ordered. “Destroy the filth that taints our land!”
+
+The opportunity to strike such a dire blow to the invaders was a great one, but Zluth felt his natural Krath-born caution stir in warning. Was it really safe to push so deep into the enemy fortress? The platform was still hundreds of metres away, and the breach was far from going that deep. In fact, the blue mana seemed to be recovering, pushing back against the hole the Krath had blown into it.
+
+Yet, there was a chance. The wave of monsters the Krath had unleashed was yet to exhaust itself, and if the Krath’sizz drove their warriors forward, then the breach could be further widened. Destroying those platforms was the best and fastest way to stop this invasion in its tracks.
+
+Pushing his reluctance aside, Zluth ordered his warriors forward.

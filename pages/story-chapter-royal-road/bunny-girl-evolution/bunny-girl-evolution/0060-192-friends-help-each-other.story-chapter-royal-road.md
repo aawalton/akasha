@@ -1,0 +1,222 @@
+---
+id: 7c8f0625-6d48-50be-a72c-fb9c90955e29
+page-type-slug: story-chapter-royal-road
+title: "192 - Friends Help Each Other"
+partOf: bunny-girl-evolution
+position: 60
+ownLength: 3192
+unit: words
+publishedAt: 2026-04-25
+link: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3316383/192-friends-help-each-other"
+royalRoadId: "3316383"
+---
+
+Wilbur generally thought of himself as strong. Maybe not compared to the upper echelons at Jelor Academy, but he was more than strong enough to hold his own in a fight against anyone in his tier, and as long as he prepared correctly, he could consistently hunt monsters a tier above him as well. He was only in his second year, and though he wasn’t on any Dungeon Competition teams, he still did quite well for himself in the Dungeon. He was comfortable in most of the Gold areas, and regularly spent his evening hunting there.
+
+This evening originally wasn’t any different. He was just doing a routine hunt for crawlers. Even the first time he did this, he didn’t have any trouble. No matter how they evolved, all Crawlers were notoriously stupid, and they were weak to blunt weapons, something that Wilbur specialized in. Even alone, he could fight off half a dozen Greater Steel Crawlers on his own and come out of the fight without a scratch on him. Against a dozen, however, things got dangerous, and against two dozen?
+
+Why the hell are there so many of them?! he thought as he sprinted down the tunnel.
+
+Larger nests weren’t uncommon to find, but not in a room that size. There should have been less than half that amount, but for some reason, they were all bunched together like meat on a skewer, and they were quite restless when he arrived. As soon as they saw him, they all gave chase, forcing him to run.
+
+He had considered standing and fighting, now that he was in the tunnels, which limited how many of them could attack at once, but decided against it. Even if he only ever had to face three at once, it would be a huge burden on his stamina and mana reserves. He might have been able to win, but it would be costly and risky. It was better to just run until he either reached the exit, or ran into another party who could assist him.
+
+Or so he thought.
+
+He soon approached a fork that he had taken earlier. He knew the route like the back of his hand, but instead of turning right to get back, he skidded to a halt. There were more Greater Steel Crawlers emerging from the left, blocking his path.
+
+“No, no, no, no!” he muttered, glancing back at the horde behind him. “Help! Someone help!”
+
+His cries echoed against the stone walls, but the only response was the continued sound of heavy footsteps both in front of and behind him.
+
+This isn’t supposed to happen!
+
+While there was no greater power holding the monsters of the Dungeon in their places, they tended to be very territorial, rarely leaving their own hunting grounds if they could help it. The fact that these two groups had come so far down the tunnels meant that something was wrong. Wilbur thought back to the time near the beginning of the semester when there were anomalies with monster habitats, but he thought that had been resolved. Or at least, that it had ended.
+
+Such anomalies weren’t unheard of. In the deepest reaches of the Dungeon, miles below the city, there were ancient monsters rumored to be on the cusp of divinity. When they clashed, it sent ripples all the way to the upper levels, disturbing the habitats of all the monsters in the entire Dungeon. The anomaly earlier in the semester was presumed to be one such clash, and when the effects fizzled out, it was considered to completed. But clearly, there was another one happening here.
+
+Why me?! Wilbur wailed internally.
+
+He wasted a few more seconds in panicked paralysis before resuming his charge up the tunnel. The horde of Greater Steel Crawlers seemed to be fewer on that side, and it was the way toward the exit, anyway. If he had to break through one group, that one would be best.
+
+A few seconds later, his mace collided with the face of the first Greater Steel Crawler to reach him. The monster’s momentum stopped Wilbur in his tracks, but it also increased the force of his own strike, burying the metal weapon deep in the monster’s mineral skull. He heard the familiar tone of the System announcing his kill, but ignored it, as he was already swinging at the next one.
+
+With his momentum gone, he could no longer kill them in a single strike, but he was still able to down two more before the ones at his heels got close. And the whole time, he never stopped shouting.
+
+“Help!” He shattered a crawler’s leg. “Anyone! Help me!” Another crawler lost an eye to his mace. “Help!”
+
+A chaotic melee ensued, as Wilbur spun round and round, battering any crawler that dared to get too close. Against so many, he should have been pinned down, but the crawlers were stupid and clumsy, constantly running into each other, and there was enough upward clearance that if they did get dangerously close to crushing him, he could jump up and vault off their bodies and get to safety. He tried going all the way over the top to get to the exit, but they shifted too much, and when he almost lost his footing and fell, he decided to save leaping only for emergencies.
+
+He did not know how much time passed or how many monsters he killed, but as his arms grew heavy and his voice grew hoarse, the number of crawlers attacking him felt unchanged, and no one had come to his rescue.
+
+Is this how I die? he thought as he blocked a crawler’s lunge with his shield and felt something in his shoulder tweak.
+
+At that moment, however, something changed. He bashed another Crawler’s head in, and turned to face the next one, only to find that it was fleeing. He kept his guard up, turning all around to see his foes, but no matter which way he looked, he saw the same thing. The survivors were fleeing.
+
+Did I… win?
+
+He watched as the last of the Crawlers disappeared down the tunnel, and his surroundings grew quiet before finally letting himself relax. He collapsed to his hands and knees panting, but even so, he was laughing. He had won! Somehow, against all odds, he had survived. With the adrenaline fading, he his whole body was in pain, and he felt like he was about to pass out, but he was alive.
+
+“Help.”
+
+He turned his head suddenly at the sound of a voice behind him. It sounded like a woman, her voice soft and delicate.
+
+There was someone else here?
+
+“Hello?” he called. “Is someone else there?”
+
+“Hello. Friends?”
+
+“Yes, I’m a friend,” said Wilbur.
+
+At some point, the light source attached to his pauldron had fallen off, but he spotted it not far away, half hidden under a crawler leg. He crawled forward to grab it, then with a grunt, pushed himself to his feet and turned to face the direction of the voice. He did not see the speaker initially, but behind all the caracasses, he saw a hint of movement.
+
+At least she’s not dead.
+
+“Are you hurt?” he called.
+
+“Friends?” said the woman again.
+
+“Yes, friends,” said Wilber.
+
+“Would you like to be friends?”
+
+“Y– yes?”
+
+Wilbur had been navigating the corpses to get closer, but at that question, he stopped. Something wasn’t right. He hadn’t thought about it much before, but there was something weird about the way the woman was speaking. There was something off about the whole situation, actually.
+
+“Friends help each other,” said the woman.
+
+“Y– yes they do,” said Wilbur. “You don’t sound hurt. Would you mind standing up so I can see you?”
+
+The movement continued with no response for a moment. Then, from behind a collapsed crawler, he saw a woman’s torso rise up. It was facing away from him, and nude, for some reason, but it was clearly human, causing him to breathe a sigh of relief. He was about to speak again when the woman turned to him, and his words caught in his throat.
+
+I’m fucked, he thought.
+
+The woman before him wasn’t a woman at all. She had the upper body of one, but the lower body of a spider. Wilbur had not noticed until she turned and he saw it swing around behind her. She was holding the severed head of one of the crawlers, and when she saw Wilber, she smiled, revealing a mouth lined with sharp fangs.
+
+Suddenly, it all made sense. The reason that the crawlers had been acting strange, the reason they had fled, the reason her speech was so odd… She was a monster, and a powerful one too. One whose mere existence was disrupting the monsters’ habitat and causing them to flee at the sight of her.
+
+“Friends!” she said, holding out the severed head toward him. “A gift! Hello. Let’s be friends.”
+
+Friends?
+
+Wilber clenched his mace tightly, but didn’t make any movements. He wasn’t sure if he could have moved much, even if he wanted to. The exhaustion of the battle was getting to him, and his injuries were making it difficult to think clearly. All he knew was that the monster in front of him was stronger than anything he could handle, and that at the moment, it didn’t appear hostile.
+
+“Friends,” she said again.
+
+The spider woman approached, moving so quietly it was eerie until she was just a few feet in front of him. Wilbur tensed up, but still didn’t move, instead watching as she set the head down in front of him, then retreated backward.
+
+“Hello,” she said. “Friends. A gift. Friends help each other. Hello.”
+
+Wilbur looked up at the woman, then down at the head, then up at the woman, then down at the head again. He took a shaky step forward and picked up the head. He noticed that the metallic stone where it had once been attached to the rest of the body was partially melted, and a shiver ran down his spine as he wondered what kind of acid could do such a thing.
+
+“Th– thank you!”
+
+“Friends!” said the spider woman. “Charlotte! Charlotte! Your name is Charlotte!”
+
+“Ch– Charlotte?” asked Wilbur.
+
+“Charlotte!” repeated the spider woman cheerfully.
+
+She has a name?
+
+Suddenly, a thought crossed Wilbur’s mind. There was an organization of intelligent monsters, wasn’t there? And they were peaceful and attempting to negotiate with Jelor for a piece of land. Was she with them? Could she actually be friendly?
+
+Well, I’m screwed if she’s not, so might as well assume she is.
+
+“Thank you, Charlotte,” he said. “I’d like to be your friend.”
+
+“Friends!”
+
+“My name is Wilbur.”
+
+“Your name is Charlotte!”
+
+“No, my name is Wilbur. Wil. Bur.”
+
+“Wil. Bur.”
+
+“Yes, Wilbu– woah!”
+
+Wilbur had tried to take a step forward, but his leg caught on a fallen crawler, and he fell forward. He managed to catch himself before he faceplanted, but the action sent a wave of pain up his injured shoulder, and he gritted his teeth and let out a hiss.
+
+“Wilbuwoah!” said the spider woman.
+
+“N– no,” said Wilbur, struggling back to his feet. “It’s just–”
+
+Wilbur’s sentence was cut off once again when he tried to stand and his knee buckled, sending him tumbling back down.
+
+“Shit!” he muttered.
+
+I’m beat up worse than I thought.
+
+“Shit!” repeated Charlotte. “Wilbuwoah?”
+
+“It’s–” he started.
+
+“Help?” she asked, interrupting him. “Anyone?”
+
+“Huh?”
+
+“Help!”
+
+Wilbur struggled up again, but before he could even get his feet under him, he was suddenly lifted up off the ground, and found himself laying in Charlotte’s arms, his face only a foot from hers.
+
+“Friends help each other,” she said with a smile.
+
+Speechless, Wilbur could only watch as she used one of her legs to pick up the severed head she had given him and set it in his hands. Then, she turned toward the tunnel, and started walking.
+
+“Friends, friends, friends,” the Arachne said happily as they moved. “Wilbuwoah! Charlotte! Shit!”
+
+Wilbur wanted to correct her, but as they moved, he found that between the pain, the fatigue, and general confusion, his mind was starting to fade.
+
+It’s probably fine to pass out now, right?
+
+He let his eyes start to slide shut as his mind faded, but before he could fully fall asleep, he had one final moment of clarity.
+
+Wait, where is she taking me?
+
+A month had passed so quickly that Elise barely realized it happened. She didn’t understand how that worked when her days felt so long. She did so many things between rising and sleeping that each day felt like a year, yet the month had gone by in what felt like an instant. Looking back, though, she had made quite a bit of progress.
+
+Early in that month, she had reached level 8, and at that point realized she could no longer level further independently. {Subtle Royalty} was strained almost to its limit, and she could feel that leveling up a few more times would probably break the Skill permanently. She was working on a solution that involved just raw aether control, but she was far from that level, and couldn’t lose the Skill just yet. And she needed to save a couple levels of buffer for her mandatory Dungeon time with the Dungeon Competition team. Her earrings would be a good stopgap measure in case of emergency, but were a bit too ostentatious to explain away easily if she wanted to use them in the long term.
+
+Because of that, she had lost a large part of her incentive for going into the Dungeon, which freed up many of her nights for other things. Most of this new time was spent in her soul, but she also spent a bit of time socializing as well. The others in Aetheric Illusions had discovered that Jessie, Elise, and Sophie spent a lot of time hanging out together, and asked if they could join as well. Jessie and Sophie were more than happy with the additional company, and while it drained Elise’s social battery, she didn’t mind much.
+
+They didn’t want to put too much strain on Nick and Bianca to host, so they had started a sort of food club, where once or twice a week, they would pick a new restaurant around the city to eat at. Hugo and Three—or Theresa—never joined them, but besides them, the entire class was there. Even Emmett came with them once, though he had turned the meal into an additional lesson, pointing out all the aetheric illusions that the other restaurant patrons were using.
+
+Elise’s progress on controlling aether was nothing much, but with some guidance from Irylax, she had been able to work on a rudimentary suppression ability. The most she could do was reduce her apparent aether by about five percent, but it was better than nothing, and she was gradually improving.
+
+She had also finally managed to figure out localized rules, and created a very rudimentary Domain. It was nothing more than a room whose gravity was controlled by voice commands, but Elise was happy with it. There were improvements to be made, but Irylax said that she would soon be able to start working on a true Domain within another month if she kept up with this level of progress.
+
+Unfortunately, neither she nor Jessie had heard anything from Maggie recently, and neither had Elise been contacted by Quel’Khulan about opening more boxes or getting her those magic lessons she was promised. Luckily, neither of those things were urgent, but Elise was starting to get a little worried about Maggie.
+
+Another person she was getting worried about was Titania. She knew that gods typically didn’t respond to every prayer, but Titania had historically been good about responding to hers until not long ago. Now, it was total radio silence. Her {Rune of Fate} blessing still worked, which meant she wasn’t dead, but the fact that she wasn’t responding couldn’t have been good. She mentioned that to Oberon as well, but Oberon had insisted he didn’t care.
+
+In Intermediate Unattributed Spells, Elise had managed to complete both Skill Quests over the course of the month, and started working on the third and final one of the class, {Mana Barrier}. The only difference between it and {Mana Shield} was that its size and shape could be changed more freely, allowing for the creation of large walls, or domes, or even spheres around the caster. The process of unlocking it was simple as well, as they simply needed to make a square {Mana Shield} more than ten feet across. It was by far the easiest Skill Quest, which was why it had been saved for last. It was also the easiest to practice, as the shield could be maintained indefinitely with only a little mana bleed, and she could work for a long time without needing to recharge her mana pool.
+
+And she was doing exactly that as she walked through the campus toward the Dungeon entrance. It had been a while since she went in alone, but Attalaya had been pestering Elise to get to Platinum for a while, and since they had that Friday off for some kind of holiday, Elise decided to make the most of the long weekend. It would be a little annoying to need to spend her weekend in the Dungeon when she couldn’t even level up properly without risking {Subtle Royalty}, but she would want her Platinum Pass for the Dungeon Competition anyways, so she might as well get it.
+
+However, when she reached the lift that was supposed to bring her down to the domain of the Crawlers, she found that it had quite a few more guards than usual, and as she approached, she saw them turn away a group of three students.
+
+“What’s going on?” she asked as she walked up.
+
+“This entrance is off limits for the time being,” said the guard nearest to her. “There have been some monster anomalies, and three days ago, a student went missing.”
+
+“Monster anomalies?” asked Elise. “I thought those were over.”
+
+“So did we,” said the guard with a shrug. “This one seems to be more localized, though. The first one was something deep below that affected a huge portion of the Dungeon. This one is just right here, and we already have some early reports about what might be causing it. Apparently they had already noted the monster a while ago. Some unique spider Evolution that’s been preying on the Crawlers. They didn’t bother with it before because it avoided humans and wasn’t considered overly dangerous, but now, it’s finally evolved.”
+
+“Ah, I see. That’s a shame.”
+
+“Yeah, sorry. The other entrances are fine, though, so you should have plenty of time to get some hunting in, if you want.”
+
+“Yep, thanks.”
+
+Elise turned to walk away, but stopped after only two steps.
+
+“Wait, did you say a spider monster preying on the crawlers evolved?”
+
+“Yeah.”
+
+Oh no! thought Elise. Charlotte!

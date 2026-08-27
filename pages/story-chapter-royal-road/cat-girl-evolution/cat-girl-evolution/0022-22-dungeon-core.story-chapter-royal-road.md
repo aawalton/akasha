@@ -1,0 +1,149 @@
+---
+id: 3129a97a-84e1-59b8-8ee4-1328c1ed7f2e
+page-type-slug: story-chapter-royal-road
+title: "22 - Dungeon Core"
+slug: 0022-22-dungeon-core
+partOf: cat-girl-evolution
+position: 22
+ownLength: 2643
+unit: words
+publishedAt: 2025-09-11
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2591631/22-dungeon-core"
+royalRoadId: "2591631"
+---
+
+A Dungeon Core? Is that like those Dungeon things you were yapping about earlier?
+
+[ Yes. All Dungeons start as Dungeon Cores. They spawn randomly and can be found and activated. Most of the time, they are simply eaten by monsters. When they are eaten, the core fuses with the monster that consumed it, and the Dungeon proper is formed with that monster acting as its core. The exact details of the Dungeon will be determined by the nature of the monster that eats it, but Dungeons are always, without exception, stationary structures. You would never be able to leave this place again. ]
+
+Ah. Yeah, that would be bad. But still, it seems like a shame to just leave it lying around.
+
+I conjure a mana arm and pick up the core to take a closer look at it. I really want to put it in my mouth. It looks so smooth. I bet it would feel nice on my tongue.
+
+[ Don’t- ]
+
+Yeah, yeah, I know. But I don’t want to just leave it for someone else. I found it. It’s mine. Do you think if I put it in Stomach of the Glutton, it will trigger?
+
+[ …I actually have no idea. But you shouldn’t- ]
+
+I’m gonna try it.
+
+Abby protests more, but I ignore her as I put the orb in my mouth. That’s a little bit risky, but nothing happens, so I move it around in my mouth a bit and lick it a few times. It does indeed feel nice on my tongue. Then, I activate Stomach of the Glutton, and…
+
+Nothing weird happens. The Dungeon Core is in the extradimensional space, and that’s about it. I don’t get rooted to the spot. No structure spawns on top of me. Everything is normal.
+
+Now, was that an incredibly stupid thing to do? Yeah, probably. Mostly the rolling it around on my tongue part though. I was actually pretty confident that putting it into Stomach of the Glutton wouldn’t do anything. Stomach of the Glutton evolved from Inventory, and while it seems to affect my other food-related skills, it’s still separate from me, and shouldn’t trigger any weird fusion like what Abby was saying.
+
+Also, I’m pretty sure that the desire to eat it was caused by the core doing some weird mind magic mumbo jumbo, and that mind magic mumbo jumbo wanted me to swallow it. It did not want me to put it into Stomach of the Glutton. So basically, my decision was a very intelligent one backed entirely by logic and not at all driven by an intense and irresistible urge to put it in my mouth.
+
+Anyway, now that that’s out of the way, time to go see what my good ol’ buddy Big Fish Dude is up to.
+
+I continue on my arc spiraling back toward the village, but I once again find myself stopping. This time though, rather than Food Sense, it’s just my regular senses. I can hear footsteps stomping through the brush coming from the direction of the village. I climb a tree to wait, and a minute later, I spot a group of fishmen and eelmen. I wait another minute, but no stronger seafoodmen appear, so I run up to claim my free food.
+
+With my extra arms, higher stats, and Late Proficiency Slice, the “battle” doesn’t even last a minute. The eelman skin that used to give me a bit of trouble tears like paper under my claws, and when I use a single claw for the attack, it’s enough to instantly decapitate the fishmen. I don’t even bother to use any kind of stealth, instead just flying in like a whirlwind of blades, and they don’t even come close to hitting me.
+
+Unfortunately, the slaughter doesn’t grant me any levels. It makes sense, I guess, since I was punching down, but it’s still annoying. But oh well. I’m not gonna turn down free food.
+
+I nibble a few dozen times while depositing my seafood in my Stomach, then turn to keep going where I was going. I don’t get very far though before I hear even more sounds. They’re coming from in front, and behind, and I can hear more distant ones. What’s going on here? Why did they suddenly decide not to hide out in the village? I’m not complaining, but it’s kinda weird.
+
+Oh well. I’ll figure it out later. For now, it’s time for some hunting!
+
+After about an hour, for the first time ever, I’m getting full. And by that, I mean that my Stomach of the Glutton is getting full. I didn’t even know that was possible, but I just killed at least 100 seafoodmen, so I guess there is a limit after all. I might have to start dumping some of the less tasty ones to make room. I guess that’s fine though. I mean, I’d rather not, but a lot of the dudes I just killed were regular fishdudes, and I don’t need that many regular fishdudes.
+
+On the somewhat bright side, the slaughter did net me two species levels and two class levels. I guess there were enough Tier 1 monsters that it eventually added up. If I have to kill that many things to get just one level of each though, it’s gonna be a while before I get to the next tier.
+
+I’m honestly getting kinda tired. I can still hear more of the seafoodmen moving around in the distance, but is it even worth hunting them? Another hundred of them won’t even be as good as five of the octodudes or big shark dudes. I should try to find them. And maybe those jellyfishwomen too. Yeah, I’m done hunting the small fry. Let’s see if I can catch some… bigger fish.
+
+Heheh.
+
+I jump up into the nearest tree and start leaping from tree to tree, getting closer to the village. I pass over a couple groups of the weaker seafoodmen on the way, but ignore them. I think one or two of the groups spot me, but I’m gone before they can do anything about it. I reach the hill above the village a few minutes later, and stop to look down at what’s going on.
+
+All around the village, the stronger monsters are gathered. They look like they’re maintaining a perimeter, and they also look like they’re in squads. The squads aren’t uniform, but generally, it looks like two jellyfishwomen, four big sharkdudes, and four octodudes per group. Some of them have one or two more or less of any given variety, but they’re pretty much the same.
+
+While the groups are interesting and all, I soon find my gaze drawn to the beach, where a lot more of the seafoodmen are crowding around something. I can’t quite see what it is, but I can see the big fishdude back in his big fishdude form standing out above them all, and it looks like he’s talking to them. No, he’s talking to one of them. But I can’t see them between all the other fishmen.
+
+Come to think of it, it’s kinda weird that I can see them at all from this far away. I guess that having my Sensitivity so high is showing its benefits though. I definitely didn’t used to be able to see that far.
+
+The crowd of seafoodmen doesn’t seem to be parting, so I look around for a better vantage point, and spot a tree on a slightly raised section of hill, and run over there. As I run, I notice that there’s some blood on the ground. That’s weird.
+
+From the top of the tree, I can see a bit better over the crowd. There’s a small clearing in the center of the group, and the big fishdude is standing there talking to… a white fishwoman? Interesting. She looks very different from all the other fishdudes. More like a koi than a carp or cod or whatever the rest of them are. She’s got some flecks of color here and there on her scales too.
+
+[ Another Named ]
+
+Really? Two at once?
+
+[ Leader type Named can create more Named to serve under them ]
+
+How’s that work?
+
+[ I don’t know. It’s not part of the basic System that I have access to. But if you unlock the Named section of the System, I might find out. ]
+
+…
+
+I’ll keep that in mind. Also, how are you so sure she’s Named?
+
+[ Well, technically, she could just be a rare evolution of one of the other… seafoodmen… but I doubt it. They shouldn’t have been able to gather enough experience to evolve much, and they definitely shouldn’t have gotten enough unique experiences to unlock a rare or unique evolution. That leaves the possibility that she is a Named. ]
+
+Huh. I guess that makes sense. Well, that’s good for me, I guess. Hopefully she’s weaker than the big fishdude. I’ll be able to kill her and earn my own Named title that way.
+
+[ That’s a commendably positive outlook. ]
+
+Thank you!
+
+Wait, hold on, I was supposed to be ignoring you. Stop saying interesting things.
+
+[ Did you know that-? ]
+
+Nope, not reading the rest.
+
+…
+
+Okay, fine, but this is the last message.
+
+[ -that you are the prettiest, smartest cat in the world? No other cat can compare. Even amongst other pretty and smart monsters, you have no rivals. ]
+
+Hmmm. Alright, fine. Flatter me and I will stop ignoring you.
+
+[ Yes, Your Highness ]
+
+Much better. And you’d better keep it up. If you do, I might forgive you for lying to me.
+
+[ As you command, Your Highness ]
+
+Perfect!
+
+Alright, now that that’s taken care of, let’s see if I can find a way to kill the new Named fish girl.
+
+I sit in the tree and watch as the big fishdude says a few more things to the fish girl. She doesn’t seem to like him very much. She keeps turning away. It’s actually kinda funny to watch him walk in a circle around her trying to get her to face him. It’s also kinda sad. I guess that’s what he deserves though.
+
+After a few more minutes of this, I see the fish girl give him an interested side-eye. Actually, now that I think about it, all of her eyes are side eyes, since her eyes are on the sides of her head. Anyway, she gives him an interested look, and then lets him lead her across the beach toward the house where the village chief used to live. They enter, and I don’t see what happens afterward.
+
+I wait for a while and maybe doze off a bit until at some point, the big fishdude emerges alone, and back in human form. He doesn’t look too happy. He starts shouting things, and a minute later, the seafood squadrons I noted earlier start moving. Most of them fan out across the whole area outside the village, but I notice a slightly higher concentration in the direction that I was just in.
+
+This is great! Finally, some good hunting targets. I’m getting pretty tired, but I’ve got time for a quick hunt before I take a proper nap. Hopefully I can take on these squadrons. Dealing with a big group of the octodudes was tough on the island, but I’ve grown a lot since then. I’ve got my class now, and that came with a bunch of stats, and I also have my mana limbs and my Quadruple Slash™ so it’ll be way different this time. I just have to hope that the jellyfishwomen aren’t that dangerous.
+
+I take note of the most remote-looking seafood squadron, then start rushing off through the trees to wait for them in the direction they’re heading. Ten minutes later, I’m waiting in a tree as I hear them approaching. I think. There are still lots of the weak seafoodmen prowling around, but these footsteps sound different. There’s some weird squelching mixed in, which sounds an awful lot like the octodudes.
+
+I picked a spot with a decent-sized open space between my tree and where they’re approaching from, so I see them before they enter the range of my Food Sense. It’s a standard squadron, two jellies, four sharks, and four octodudes. The jellyfishwomen are doing something weird with the mana. I can kind of feel it from here. The others are looking around, mostly at the ground. That must mean they’re not looking for me. I wonder what they are looking for.
+
+[ The Dungeon Core, Your Highness ]
+
+Ah, yes, the Dungeon Core. I was just about to say that. Well, lucky for them, they found it! Kind of. And unlucky for them, I’m hungry.
+
+I wonder what jellyfish tastes like.
+
+Skarn was in a bad mood. He had gotten his Named subordinate as promised, but she was… difficult. Not in a bad way. It was his own fault, really. She was a Hermit type, so of course she was uncomfortable around so many other monsters. She preferred to be alone.
+
+Skarn sensed that he could order her to do things, but hesitated to use that power. Beyond the fact that she was the first other Named he had met, he also didn’t want her to hate him. She already seemed averse to him for some reason, and he didn’t want to make it worse. He wasn’t sure why he was so worried about how she felt, nor did he even stop to consider the question, but he acted on those feelings all the same.
+
+It had taken a lot of coaxing, but he had managed to at least convince her to head to the home he had claimed. He gave her the finest room, and told her to make herself comfortable and to call him if she needed anything.
+
+She didn’t respond, but she also hadn’t said a word since she spawned, so Skarn suspected that she didn’t know how to speak yet. That was understandable. It had taken him a little bit to realize he could.
+
+Once she was there, he began pacing. He had found the Named subordinate, so that was half his spawned rewards. The Dungeon Core was still missing, but with so many of his subordinates out looking, it was only a matter of time. There was only one slight problem: the cat.
+
+He had ordered all the tier 0s and tier 1s to go out looking, and while he had expected them to die easily, he hadn’t expected over 100 to die in an hour. All in the same region too, and he had a nagging feeling that that was the region the Dungeon Core had spawned. He was hesitant to send out his stronger subordinates in case they became prey, but he also wanted to find the Dungeon Core as quickly as possible. The sooner he did, the sooner he could start strengthening his territory in earnest.
+
+After some internal debate, he decided to send out his tier 2 squads. He had set them up to be versatile and cohesive as a group, so theoretically, the cat wouldn’t be able to take them out. If it somehow did though, he would just have to send out larger squads. Or possibly send out tier 3s, once they started spawning. Hopefully when they did, they would be capable of functioning on land. He was still mildly annoyed that a good portion of his tier 2s were water-locked.
+
+He walked out of the house and gave his orders to his subordinates, then re-entered and started pacing again. Now that that was settled, at least for now, he had a much more pressing matter: how would he get Flarn to warm up to him?

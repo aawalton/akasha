@@ -1,0 +1,95 @@
+---
+id: a6ba0965-8f56-5555-9338-f22eb9cf7755
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1587 - The View From on High"
+slug: 0235-chapter-1587-the-view-from-on-high
+partOf: chrysalis
+position: 235
+ownLength: 1002
+unit: words
+ownProgress: 1002
+publishedAt: 2025-06-18
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2365047/chapter-1587-the-view-from-on-high"
+royalRoadId: "2365047"
+markedReadAt: "2026-06-29T19:51:19.942Z"
+---
+
+After our tour of the docks and the facilities there, Emilia made a final offer that I simply couldn’t refuse, dear reader! It had been an invigorating day already, but there was so much more to see. The domain of the Colony in my home stratum is a wondrous and well-developed place, its grandeur and scenery are truly awesome to behold, and there is, so I’m told, no better way to behold them than from one of the two floating islands that orbit the mountain.
+
+“The Colony fought hard to obtain these two floating islands,” Emilia said, filling me in on their history as we ascended.
+
+Interestingly, the Colony uses specially trained and raised pets for the purpose of flying up to islands, so we found ourselves seated in a well-made and comfortable carriage that was carried upward by two enormous, sinuous dragon-type monsters. I was quite curious as to why there wasn’t a more mundane option. The Colony had been very deliberate with its transit methods, usually opting for higher throughput than something like this.
+
+I asked Emilia about it, and of course she was ready with an answer.
+
+“The two islands are not open to visitors,” she said. “I enquired about seeing them, and the Colony has allowed you to make the trip. They are mainly military outposts. For the defence of the mountain.”
+
+My two well-armed companions were less than pleased to hear this and objected most strenuously, but I was able to calm them before we landed. After all, it wouldn’t do to refuse the hospitality being extended by our hosts, would it?
+
+To think that the reputation of Travelling Tolly had even reached the antennae of the ants! They must have heard about this travelogue being written and had decided to throw open their doors! How thrilling, dear reader! Perhaps this heralded even greater access to come. Will I eventually meet The Queen, revered mother of the Colony, or even the Eldest? My hopes are up, I don’t mind telling you! Nothing gets the heart pumping like a good exclusive!
+
+When we landed upon the island, I sprang forth from our carriage, eyes agleam, ready to take in the sights and report them all to you, dear reader!
+
+Sadly, my expectations were somewhat betrayed. The islands themselves were fairly sizeable, but the surface on which we landed was sadly a little more… unadorned that what I’d come to expect from the Colony.
+
+They carve ants on everything! I was a little taken aback that there were none to be seen, none at all!
+
+“Almost all of the ants on this island are beneath us,” Emilia explained before I could even ask. “The tunnels and chambers below are much as you would expect to see. The surface of the islands is used to house and train the non-ant members of the battalions stationed here.”
+
+“Oh really!” I exclaimed.
+
+How interesting! Naturally, when I heard about these individuals, my desire to meet one ignited instantly. Emilia was initially reluctant, but my powers of persuasion are legendary across the Dungeon! Before long, we arrived at a square, undecorated building, so plain it almost looked like a box. The only interesting thing about it was the height of the roof, which was possibly twenty metres off the ground.
+
+Filled with questions, I stepped inside, and suddenly many of them were answered.
+
+Opening the door, I was hit with a wave of raucous sound that caused my two guards to half-draw their blades. Emilia threw a hand out and hissed a warning.
+
+“Don’t draw them! It’ll be much more dangerous.”
+
+Inside the room was a mass of feathers, tables and rippling arms.
+
+“Eyyyyy? EYYYYY! You wanna say that again, MATE?”
+
+“I’ll say it as many times as ya want, MATE!”
+
+“YEAH?!”
+
+“YEAH!”
+
+And just like that, a sharp fistfight broke out.
+
+This particular building was filled with magpei, well known for their cantankerous temper and ability to endure seemingly endless fistfights.
+
+The scene was repeated dozens of times around what appeared to be a barracks designed for the winged menace. My two guards were both looking grim, and Emilia was shaking her head, resigned.
+
+“I didn’t really want to bring you here,” she said. “We can leave before they notice us.”
+
+“Leave?” I say. “Whatever for? I haven’t gotten an interview yet!”
+
+“OI. Old bag standing in the doorway. You gonna close it or what? EY?”
+
+“Yeah! You got no manners? EYYYYY?”
+
+“Did ya parents raise you right? Or did ya grow up in a barn?!”
+
+Well, as you all know, I have the patience of a stone, dear reader. It was I, after all, who won the paint-staring competition of the remote, wind-island Folk!
+
+However, there are certain things that we, as civilised people, must not tolerate. Insults to my dear mother and father are, I’m afraid, well beyond the pale. Sometimes, it is necessary to teach manners! When the time comes, there is no other option but to roll up one’s sleeves and get the job done.
+
+Some time later, we were shown out the door.
+
+“I… I’m sorry for what I said about ya mum.”
+
+“And… and you wasn’t raised in a barn, but a nice house. I know that now…. Sorry.”
+
+“Oh, that’s quite alright, my dears. We all make mistakes in life!”
+
+“Yeah… I think… yeah. Have… have a nice day… Miss… ah… Tolly.”
+
+“Of course, you as well!”
+
+It was very nice of them to see us off at the door, and so politely! It goes to show that the light of civilisation will shine in even the darkest places with a little effort. All it takes is a chipper attitude and a little elbow grease!
+
+“Emilia,” I had to say, holding up my hand as I turned to my strangely subdued guide. “Is there any chance you could be a dear and get me a bucket of ice? My knuckles seem sore for some reason.”
+
+The curse of age, reader, it comes for us all.

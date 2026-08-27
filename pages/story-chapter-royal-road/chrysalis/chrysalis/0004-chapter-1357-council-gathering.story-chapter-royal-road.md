@@ -1,0 +1,95 @@
+---
+id: fec1ee1f-3d59-5fe2-a30c-e4789b2ff06a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1357 - Council Gathering"
+slug: 0004-chapter-1357-council-gathering
+partOf: chrysalis
+position: 4
+ownLength: 992
+unit: words
+ownProgress: 992
+publishedAt: 2024-06-19
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1683190/chapter-1357-council-gathering"
+royalRoadId: "1683190"
+markedReadAt: "2026-06-29T19:43:46.876Z"
+---
+
+“None of you were able to stop The Queen from moving down here? She wants to fight! Like… really fight!”
+
+“There’s not much we can do to stop her when she gets it in her mind to do something,” Theresant tells me. “She decided it would be better for the family if she fought more rather than prioritised laying eggs. Since she is one of the strongest fighters in the Colony, it’s difficult to say that she’s wrong.”
+
+“She probably isn’t wrong,” Advant replies, the big soldier clacking her mandibles morosely. “There’s a lot The Queen can offer in battle, and she knows it.”
+
+Each member of the Council sinks into their, now cushioned, ant seats. I don't know who’s out there designing ant furniture, but they’re definitely making serious improvements to their designs. I know it’s difficult, considering most of us are different sizes, even subtly different shapes, depending on mutations. The designer has solved this problem by using more flexible materials and including generous padding. Of course, my chair had to be built custom.
+
+“Ultimately, I guess it doesn’t matter,” I sigh. “Mother is going to do whatever she thinks is best for the family, regardless of what we have to say about it. What we need to do is try to figure out how we’re going to keep her alive.”
+
+Sloan and Victor briefly confer before reporting back to the group.
+
+“If she asks us where she would be best deployed, or consults with any of the generals coordinating the fighting, then we can influence where she goes and what she fights, but if she doesn’t…”
+
+“She absolutely won’t,” I tell them.
+
+“Well… then there isn’t much we can do in terms of picking her battles.”
+
+The Queen is old school. She’s not interested in any of this organised combat stuff. She’s going to wander around, following trails until she finds something to chomp. Wait…
+
+“Is there any chance we can control what scent trails she comes across? Remember, The Queen was fighting right back at the start of the Colony. She probably laid down most of the trails outside the first nest herself. That’s the way she’ll get to the frontline, by following the trails.”
+
+It’s the scouts, Burke and Wills, who chip in on this one.
+
+“Laying false trails will be difficult, Eldest,” Burke tells me.
+
+“There’s already a complex system of trails laid down in the tunnels below. It’s one of our main ways of organisation.”
+
+“You don’t have to change your system much. Just change the name of one of the more out of the way fronts to ‘most important’, or ‘situation dire’.”
+
+“... Do you really think she would fall for that?”
+
+“... Maybe?”
+
+“I feel like, if she was here, she would hit you with her antenna.”
+
+“Of course she would! I’ll take a few thwacks if it means keeping her alive!”
+
+The Queen is the founding member of this family, the very first one, and the only ant every single one of us can trace our lineage directly to. If she was lost, it would be like the heart of the Colony was cut out.
+
+I mean, mine also, but the Colony’s as well.
+
+“We can give it a try,” Wills sighs, “but I think our best bet is to simply reinforce whichever front she chooses to attend.”
+
+“We were always going to do that,” Victor says, almost offended. “We have a battalion set aside already, strictly for that purpose.”
+
+At that point, there isn’t much more to say about The Queen problem, as vexing as it is. I turn my attention to the next problem in front of me.
+
+“Aright. So, can anyone tell me why Vibrant is oscillating back and forth like that?”
+
+Ever since we arrived at this meeting, she’s been a blurry mess. It’s hard to even look at her directly since she seems to be shifting about thirty centimetres from side to side so quickly I can’t actually see her move.
+
+She actually says something to reply to me, but all I get is a mangled knot of scent. I can’t interpret it at all.
+
+“Did you say something, Vibrant? I didn’t get anything from that.”
+
+Again, a mess of scent that lasts probably twice as long as before, but it’s utterly uninterpretable.
+
+“Vibrant, you really have to slow it down. A lot.”
+
+After her last evolution, she probably landed on a mythic species that sped her up to an absurd degree. If I know her, and I do, she would have gone all in on anything that would help her go faster.
+
+“Can you understand me now, Senior?” she says finally.
+
+“Yes! Yes, that was perfect. You actually sound completely normal.”
+
+“I find if I have a quick nap-nap between words it seems to space things out better,” she explains.
+
+“Wait…. You’re taking a nap? In between words? You’re going into torpor?”
+
+“Yep-yep! It’s one of the organs I attached to my brain when I evolved. Going super fast can make you super tired, so micro-torpor sessions let me get more rest, then I go faster for longer! It’s great!”
+
+Of course, I doubt that was the only reason. This means she’s essentially free of the torpor police forever, since they’ll never be able to say she hasn’t been sleeping. She could be napping in between steps while she’s walking around.
+
+“So… is this weird… vibrating thing… is that also part of your evolution?”
+
+“Nope-nope! I’m just excited!”
+
+“Fine….” I guess my question has been answered. I was worried there was something wrong, but she’s alright, apparently. Time to move to the next topic, I suppose. “I was hoping to hear about how the family is doing around the place. It’s not like I can go up to the first or second anymore, but it would be great to hear about it. How are the antcademies going? How are the young generations handling things up there?”

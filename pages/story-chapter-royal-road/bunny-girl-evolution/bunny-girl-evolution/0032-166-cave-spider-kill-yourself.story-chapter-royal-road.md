@@ -1,0 +1,204 @@
+---
+id: 1b22c674-2dc3-5125-b287-2504ebd03d3d
+page-type-slug: story-chapter-royal-road
+title: "166 - Cave Spider, Kill Yourself"
+partOf: bunny-girl-evolution
+position: 32
+ownLength: 3528
+unit: words
+ownProgress: 3528
+publishedAt: 2026-01-24
+link: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/2973855/166-cave-spider-kill-yourself"
+royalRoadId: "2973855"
+markedReadAt: "2026-06-29T20:03:41.648Z"
+---
+
+Nothing happened.
+
+“Kill yourself,” she then said.
+
+Nothing happened again. She breathed a sigh of relief.
+
+She had read that {Command} and its derivative Skills could not be used to directly harm the target, but she had also half-expected {Rune of Fate} or the absurd aether difference to brute force their way past that restriction. The fact that it still existed was good.
+
+And disappointing.
+
+She grimaced at that thought, but then thought back to Maggie’s words about her soul shape and {Rune of Fate}. Being able to kill something with words was a terrifying power… and she also wanted it. She could deny it all she wanted, but her knee-jerk reaction to finding out it was impossible was disappointment, and that was telling. It said something about her, and while she didn’t entirely want to acknowledge it, she didn’t really have a choice. It was a part of her, and the better she knew herself, the better she would be able to guide her path in the future.
+
+Besides, it’s only a terrifying power if it’s in the wrong hands, she argued with herself. I just have to make sure that my hands aren’t wrong.
+
+The memories of what Emilia had done to the dwarves and drow still haunted her, but she wasn’t Emilia. She would never use this power on others like that. Even if she could make monsters kill themselves with her words… so what? It was a powerful tool, but it was just that: a tool. It wasn’t really any different from a sword, or a fireball. In the wrong hands, they could kill. In the right hands, they were a non-issue.
+
+She nodded to herself, pleased with the resolution she had come to. She wanted more power, which she had already known. In this case, it just clashed with her moral sensibilities. Or at least, it appeared to. In reality, her moral sensibilities negated any potential clash, since they would prevent her from misusing the power.
+
+With that settled, she turned back to the spider and continued her experimentation.
+
+“Climb up the wall. Spin three times. Climb onto the ceiling. Stop. Lift two legs. Put them back. Let go of the ceiling.”
+
+To her surprise, the spider actually did let go, falling down to the ground. She hadn’t expected it to work, since it was more or less directly harming the creature, but as it squirmed back to its feet, she realized that she was mistaken. It was a weak monster, but its Fortitude was still high enough that a fall from so low was harmless. It was not a pleasant command to obey, but it wasn’t quite directly harmful either.
+
+The fall did seem to knock a bit of sense into it though, and for a moment, it seemed to be preparing to attack.
+
+“Stop,” she said.
+
+Once again, it was under her control. She tried a few more minor experiments, testing the complexity of commands she could give it. Surprisingly, the complexity seemed more tied to her own intelligence than the spider’s. The ugly little critter’s hunger had not abated once, and she had barely sensed a hint of anything else during the entire experimentation, so she suspected it didn’t have the mental capacity for anything especially difficult, but despite this, she could give it very specific instructions and it would obey them flawlessly.
+
+She was confused at first, but it didn’t take long to figure out why. Even if the spider was stupid, {Royal Decree} wasn’t a direct mind manipulation Skill. It wasn’t a geas that the target had to obey. It was a forcible takeover where her aether directly controlled the target’s mind. And the aether connection was constant, not a one-time surge, so as it moved, it continued to draw from her.
+
+That was another mildly terrifying aspect of the Skill, but it was not unilaterally powerful. Against the poor spider which was not only low level, but didn’t even have a strong ego, she wasn’t using much aether. She could more or less control it indefinitely because she was recovering aether almost as fast as she was expending. Against a more powerful monster with a better ability to resist, she would have to use a lot more aether to overcome it, and she was sure that if the target was powerful enough, or had enough Willpower, they could probably shrug it off entirely, even if they didn’t have much aether. While the Skill was aether-based, control over one’s own mind was based on Willpower, so high Willpower could make up for lack of aether in cases like these.
+
+All that was to say that while {Command} and its relatives could take control over a mind, it was not cheap, and was much more likely to be resisted than something more subtle like {Suggest}.
+
+Satisfied with her findings, she called the spider back toward her and prepared to end things. She had gotten almost everything she needed out of the hideous arachnid, and it was time to end it. As it approached her, she once again noticed its overwhelming hunger and bloodthirst, and she thought back to the earlier experiment with {Royal Presence}.
+
+What was that emotion it was feeling? she wondered.
+
+She released it from {Royal Decree} and re-activated {Royal Presence}. After a moment of confusion, the hunger and bloodthirst vanished, replaced once again by that mysterious emotion. She studied it a bit more closely, trying to compare it to other emotions she had logged. It was similar to the love and admiration felt by the members of Ostra toward Freddy, but not quite the same. It was similar to the respect and almost worship that Sophie showed toward Irylax, but that still wasn’t quite it. It was somewhere between those, but at the same time, more extreme. Recalling something she read in the book about mental Skills, she activated {Royal Decree} again and spoke to it.
+
+“Jump up and down.”
+
+It obeyed, just as before, but oddly enough, she noticed that this time, it cost much less aether to control it. In fact, it almost cost no aether at all. She gave it a few more commands, and she found that with each of them, the same was true. While she was actually using more aether now that {Royal Presence} was active, {Royal Decree} barely used anything. Just a small spike when she sent the initial command, and after that the spider seemed to do everything of its own volition without her aether needing to move it.
+
+This was roughly as she expected. While the Skill cost a lot of aether on a resisting target, a target that wanted to do those things anyway was much cheaper to influence. Based on what she estimated of the spider’s current emotional state, it should have wanted to obey her, but the extent came as a surprise to her. It was almost fanatical. And with that, she returned to a previous experiment.
+
+“Cave spider,” she said slowly. “Kill yourself.”
+
+Immediately, the spider stood up tall on its back two legs, then folded inward to stab itself in the abdomen with its own fangs. Then, it did it again. And again. And again. It got a total of twelve stabs in before it shuddered and curled up into a ball, finally perishing as its internal organs spilled out on the cold stone floor.
+
+[ You have defeated Cave Spider, Tier II, lvl 2 ]
+
+The entire time, Elise was still, watching with an unreadable expression as it destroyed itself. She was reading its emotions as it died, and while it was feeling pain, the feeling was muted to an extreme, completely overwhelmed by the other emotion. An emotion that Elise could now identify with reasonable certainty.
+
+It was impossible to make a creature harm itself with {Command}. Even if the target wanted to harm themself, {Command} would still not be able to force them. However, there was one exception. If the target did not believe the harm to be harmful, it would work.
+
+The book had not gone over this exception in much detail, because if someone ever found a target who paradoxically believed that harming themself was not harmful, then they wouldn’t need {Command} to make them do it. Especially since most cases where this was even possible was in cult-like situation where long-term brainwashing had eroded the target’s common sense. Elise had bypassed that though, brute forcing her way into the spider’s mind until it treated her akin to a deity, forgoing its own life to serve her. That was what the mystery emotion was. Fanatical devotion.
+
+If she had been scared of the possibility of being able to kill with words before, the ability to brainwash with her mere presence was even more terrifying. She was sure it only worked on weak, mindless monsters like the spiders… for now. What would happen when she was stronger? When she leveled up to 9th tier, and her aether was truly off the charts? As much as {Royal Decree} was a powerful and dangerous Skill, it seemed that {Royal Presence} was the thing she would truly have to keep an eye on.
+
+She stared at the corpse of the monster she had just brainwashed into killing itself for almost a full minute before sighing and shaking her head. She had chosen this path, and as much as these abilities made her squirm, she was going to continue to walk it as far as it would take her. Because as much as her own powers scared her, the thought of anyone else being able to do the same to her was even more terrifying.
+
+She started to walk away, then paused, turned back, and summoned a patch of crushing roots to pulverize the corpse. While some monster parts could be sold, the cave spider was worth nothing to her, and she didn’t want to risk another student stumbling across it and seeing evidence of the spider having killed itself.
+
+She didn’t finish a moment too soon, because only a few seconds later, a pair of students entered the range of her aether sense. She followed them with her own senses until it became clear that they were heading her direction, then activated {Don’t Look At Me, Peasants!} and waited. She considered moving on before they arrived, but she wasn’t quite done in the Dungeon yet, and would rather follow behind until they reached a fork and then take whatever path they didn’t than try to stay ahead of them.
+
+However, her plans were ruined when the pair rounded the corner and she saw who they were.
+
+“Eleanor?” called one.
+
+“Oh, hey, Eleanor!” said the other.
+
+Elise sighed and deactivated her Skill. Of course it was her luck that she activated her Skill just moments before running into the two people in the entire campus that the Skill wouldn’t work on.
+
+“Hey, guys,” she said, stepping forward to meet Cassian and Leonidas.
+
+“Are you down here alone?” asked Cassian.
+
+“Yup,” said Elise. “It’s just me.”
+
+“Cool,” he said. “Are you pushing to get your silver badge too?”
+
+“Not right now,” said Elise, shaking her head. “I’m just looking around, seeing what it’s like. It’s my first time down here.”
+
+“Oh, nice,” he said. “We’re scouting the path down to one of the Silver checkpoints, so I figured that since you were here, you were probably doing the same. If you don’t have any other plans though, wanna join us? We’re not going all the way today, but we probably will either this weekend or next. We got a map from one of the seniors, so we mostly know the route. You can join us then, if you want. No pressure though if you’ve got other stuff to do.”
+
+Elise thought it over for a few seconds. She didn’t really have a curfew or anything, and she had already gotten most of the experimenting she wanted to do done. She still wanted to test how things like {Forced Feeling} worked now that she had evolved, but that didn’t need to happen right then. Besides, she doubted she would get very much practice against weak monsters like the Cave Spider. She needed to get to the deeper levels anyway.
+
+A small part of her wanted to reject them out of fear. From what she had seen neither Leonidas nor Cassian were the treacherous type, but if they did decide to betray her, they were both immune to just about everything she could do. In Basic Magical Combat, she had been made quite aware of what her limitations were without aether, and both Leonidas and Cassian were far beyond those limits.
+
+She brushed those thoughts aside as paranoia though. While she couldn’t directly affect them with her aether Skills, she could still passively read their aether with {Sense Emotions}, and neither were harboring any ill intent. Additionally, with the way the Dungeon was set up, there were multiple people who knew that they were all down there. If Elise disappeared, they would know who to blame. It would be supremely stupid to try something down here.
+
+“Sure,” she finally said. “I need to get down to the lower levels anyway. The stuff up here is too weak.”
+
+“I can see that,” said Cassian, glancing at the mutilated spider corpse behind her. “Well, the more the merrier! Let’s go!”
+
+“Hold on,” said Elise. “Mind if I test something really quick?”
+
+“Sure,” said Cassian. “What is it?”
+
+Elise activated {Royal Presence}. Neither of them reacted.
+
+“Do you feel anything?” she asked.
+
+“No,” said Cassian.
+
+“Are you doing something?” asked Leonidas.
+
+“I am,” confirmed Elise. “This… is actually convenient. I have an area of effect mental Skill, but both of you are immune so I can safely use it.”
+
+“Oh, that’s great!” said Cassian. “What’s it do?”
+
+“It’s just a presence Skill,” said Elise. “But it’s pretty strong. You guys are just scouting, right? Not looking to hunt monsters?”
+
+“Right.” Cassian nodded. “The ones up here aren’t really worth anything, so we’re trying to only fight when we have to.”
+
+“Perfect. I can use this Skill to keep all the monsters away from us then, and we can just focus on finding the path.”
+
+“Oh, that is perfect,” said Cassian. “We might be able to make it pretty far tonight then.”
+
+“Those little spiders are pretty annoying,” agreed Leonidas. “And the rats’ guts are sticky and hard to clean off my sword. If you can keep them off us, that’s great.”
+
+“No problem,” said Elise. “I’ll spook them, and you guys lead the way.”
+
+“Sounds like a plan,” said Cassian, smiling. “Let’s go.”
+
+The next two hours passed by fairly quickly as they navigated the twisting caves with the aid of a large map that Cassian pulled out whenever they reached a fork in the road. Elise did not keep {Royal Presence} going the whole time, or else she might have actually risked running out of aether, but with {Aether Sense} extending beyond her line of sight and passing through solid rock like it wasn’t there, she was able to detect monsters they were approaching from far out, and then use {Royal Decree} to send them away.
+
+The use of {Royal Presence} on the two warriors had been both a test and misdirection. She was pretty sure it wouldn’t work on them, but she wanted to make sure that they wouldn’t notice it either so that they wouldn’t know that her presence Skill didn’t do what it seemed. Ideally, they would think that she had some kind of fear-inducing Skill that made the monsters run away, rather than the much more sinister truth that she was mind controlling them through the walls.
+
+If they had any suspicions, they did not voice them. Instead, as they went further and further without encountering any monsters, the conversation turned light and casual. They told each other about their classes, and a little about their pasts. Cassian and Leonidas had apparently come from the same small village and were childhood friends. They both wanted to become adventurers, exploring dangerous lands and finding ancient treasures, so when they got old enough, they applied and got accepted into Jelor University. Elise was pretty sure they had skipped a couple important events in there, such as how they had gotten their mental immunity Skills, but they didn’t seem to want to share, so she didn’t press.
+
+Elise herself earned some sympathy points by giving them her fake backstory of growing up on the streets before being adopted by the Grays after her mother died. She also skipped quite a few details, and while Leonidas was a bit oblivious, Cassian caught her reluctance to share and helped change the topic of conversation.
+
+While Elise was taking classes that mostly focused on increasing her own personal power, Cassian and Leonidas were taking a surprisingly wide variety of subjects. Both were in Intermediate Magical Combat, having gotten a special exception to advance, but they were also taking a class on survival, a class on cartography, a class on cooking, and a class on taxonomy.  As Cassian explained it, an adventurer wasn’t very useful if they weren’t able to bring back information on where they had been and what they had seen, which made a lot of sense.
+
+They came across a few difficult spots where the rooms were simply too big for Elise to reach the other side before they entered, but in those cases, she just activated {Royal Presence}, freezing the monsters in their tracks before sending them fleeing with {Royal Decree}. Cassian and Leonidas didn’t seem to suspect a thing, and even praised the effectiveness of her fear aura.
+
+At the end of the hour, they reached a fork that had Cassian poring over the map for longer than usual.
+
+“What is it?” asked Elise.
+
+“I think that this is probably as far as we should go tonight,” he said. “We got here faster than I thought we would, but it’s still getting late, and this is a pretty important crossroad. If we go that way—” He pointed to the left cave. “—The silver checkpoint is still another twelve hours away. Of course, with you here, Eleanor, that’s probably more like eight, since we don’t have to waste any time fighting the monsters. But it’s basically a straight shot from there. There’s only one real path, and everything else is a dead end, and all the monsters are pretty weak.
+
+“If we go that way—” He pointed to the right. “—The checkpoint is only four hours away. However, there’s a big cave that regularly spawns as high as tier 4 monsters right in the way. According to the info I have, there are generally hundreds, if not a thousand monsters in that big cave, and while most of them are pretty weak, and we could probably take them, I don’t think any of us were planning on doing that tonight.”
+
+“Yeah, makes sense,” said Leonidas. “I’m cool with turning back. The sooner we get back, the sooner we can eat.”
+
+“Does that work for you, Eleanor?” asked Cassian.
+
+Elise pondered for a moment, then shook her head.
+
+“Those four hours include the time it takes to clear that one room, right?”
+
+“Pretty sure, yeah,” he said, looking closely at the map. “Without monsters, it doesn’t look like there’s more than two hours of cave between us and the checkpoint.”
+
+“So if we were able to clear the room quickly, wouldn’t it be faster to exit at the checkpoint?”
+
+“I guess…” he said. “But I didn’t really bring an extra change of clothes, so I’d rather not get all messy. We can do it next time.”
+
+“You won’t need to get messy,” said Elise. “I think I can do it on my own.”
+
+“You’re definitely strong,” said Cassian. “But that’s a big risk.”
+
+“I guess…” said Elise.
+
+She didn’t want to press the issue too hard, but the prospect of reaching the silver checkpoint so soon and being able to go deeper was too tempting. Especially since she was fairly certain that even with hundreds of monsters, she would be able to handle them just fine.
+
+“Can I at least go scout it out first?” she said. “I have a powerful stealth Skill. It doesn’t work on you guys, since it’s aether-based, but even at tier 4, none of those monsters will be able to detect me.”
+
+“Well…” started Cassian.
+
+“As you said, we got here pretty quickly,” Elise continued. “We’re not in a rush, right? We have a bit of time. I’ll come right back. I promise.”
+
+Cassian wavered for a few seconds, then shrugged.
+
+“I guess,” he said. “If you’re sure. Just try not to get into trouble.”
+
+“I’ll do my best,” said Elise.
+
+“Alright. It’s not too far from here. There’s only one more fork a little way up, and if you take the middle path, you’ll be there in a few minutes.”
+
+“Got it,” said Elise. “I’ll be right back.”
+
+“If you’re not back in thirty minutes, we’re coming in after you,” said Cassian.
+
+“Sounds good,” said Elise. “See you in a bit!”

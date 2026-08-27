@@ -1,0 +1,327 @@
+---
+id: 876a804f-cf5c-5259-ab7c-0cac5dbdd2ff
+page-type-slug: story-chapter-royal-road
+title: "52: Briefing"
+slug: 0052-52-briefing
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 52
+ownLength: 3125
+unit: words
+publishedAt: 2025-10-15
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2678488/52-briefing"
+royalRoadId: "2678488"
+---
+
+Everything had happened way too fast. Chloe was still trying to piece it all together.
+
+One moment, she was complaining about how boring all the bounties were, and the next, Iris was dangling a mission in front of her. The guildmaster offered a brain before the mission, and another one after completing the mission.
+
+And it wasn’t just any brain either. Chloe had been promised the brain of an earth mage, one whose powers she had seen up close. She might’ve gotten kinda beat up by that mage, but… she really didn’t want to think about that part too much.
+
+Somewhere along the way, she got introduced to Raenof the elf. Though, to Chloe, he just looked like a human who really liked the color green. Then he started asking her weird questions, told her to touch a magic stick, and next thing she knew, she was hired. Just like that.
+
+Chloe still had no clue why a weirdo like him needed someone to babysit him around. He didn’t look weak, and Iris had said elves were supposed to be really good with magic. So, why did he need an escort? And why did he come to the Thieves Guild to look for one?
+
+But soon, Chloe quickly dismissed her questions. What mattered was the reward at the end of all this. That delicious mage brain was waiting for her once the job was done, and there was no way she was gonna mess that up.
+
+A few more seconds passed with Raenof scribbling in his journal, while Chloe just stared at him. Eventually, he looked up and met her eyes.
+
+“Is staring at others normal in your culture?” he asked.
+
+Chloe shrugged. “Dunno. I’m just trying to figure out what’s up with you.”
+
+“And what exactly do you think is ‘up’ with me?”
+
+“You’ve got that 'I'm smarter than you face'. Like, you’ve been smuggling secret fruit or something.”
+
+“Secret… fruit?”
+
+“Well, whatever it is, you’ve got that look. Why are you even talking to the Thieves Guild, huh? You don't look like the kind of people that I usually find in the guild."
+
+“Does it matter?”
+
+“Kinda? I just feel like I’m missing something.”
+
+Raenof tapped his journal thoughtfully. “Maybe you are.”
+
+Chloe groaned. “You’re not even gonna try to answer?”
+
+"No thank you, I'm good. Though I admit, you’re more fun than I expected.”
+
+“Wait, was that a compliment?”
+
+“It might have been."
+
+“Aww, thanks."
+
+Raenof chuckled faintly, tapping his pen against the page again. “So… how did someone like you end up in the Thieves Guild, anyway?”
+
+Chloe perked up and propped her chin on her hands. “Oh! That’s easy. I just kept asking people for directions.”
+
+“That’s it?”
+
+“Yup. I wandered around Kelvane first, and eventually I asked this guy sitting by the road where the Guild was.”
+
+“And you just… listened to his directions?”
+
+“Mhm. He had a big bushy beard, a bottle in one hand, and seemed pretty happy.”
+
+“So, you took directions from a drunk homeless man.”
+
+“I dunno about homeless man, but the guy that gave me directions was Happy Beard Man. And he was very helpful.”
+
+Raenof stared at her for a second, then laughed and shook his head. “Well, I guess it’s hard to argue with results.”
+
+Chloe grinned smugly. “Right? I mean, here I am.”
+
+He tilted his head, studying her a little more closely this time. “Have you ever seen anyone else like you? Other humans with red eyes and white hair?”
+
+Chloe opened her mouth to say I’m not human, but the words caught on the tip of her tongue. She glanced away, scratched her cheek, then shrugged. “Nope. Pretty sure I’m the only one.”
+
+Raenof didn’t press her. He just nodded and leaned back slightly, folding his hands in his lap.
+
+Chloe tried not to squirm under the silence, but it was getting weirdly quiet again. Luckily, the door creaked open before she got too bored.
+
+Iris returned, carrying a small stack of papers and a bunch of other stuff. She walked over and set the stack neatly on the table between them. “I’ve brought the necessary paperwork. It won’t take long since everything here's just standard procedure."
+
+“Uh-huh. Cool." Chloe said.
+
+Iris slid a sheet in front of her and handed over a pen. Chloe held it, stared at the line she was supposed to sign, and then just scribbled a messy swirl that vaguely resembled her name. Raenof, of course, signed with nicer and more elegant handwriting.
+
+Once all the papers were signed, stamped, and stacked, Iris pulled out a map and spread it across the table. It had scribbled markings, dotted trails, and little notes like monsters here and avoid this location.
+
+“Now,” Iris began, tapping one finger on the map. “Your destination is Vorraska, a city in beastkin territory. I recommend heading east to Rellstead first, it’s a small border town. There’s a Thieves Guild branch there that can assist you from that point on.”
+
+“Help us how?” Chloe asked.
+
+“They’ll take you into Vorraska, which happens to also have a Thieves Guild branch. Which means you'll likely have to go through an alternative route.” Iris replied.
+
+"Okay… but why aren’t we allowed to go the normal way?"
+
+Iris turned her masked face toward Raenof. Her voice held just a touch of sarcasm. “That’s a good question, Raenof. Would you like to explain?”
+
+The elf offered a polite smile and folded his hands again. “Let’s just say, certain people might not be happy to see me. So it’s best if we go through less visible areas."
+
+Chloe gasped. “Ooooh. You’re wanted, aren’t you? Like, on posters and stuff? Do you have a bounty on you?"
+
+Raenof laughed lightly, but didn’t answer. Iris spoke instead. “The less you know, the better. Just get him there in one piece.”
+
+“Aww, okay."
+
+Iris gave a slow shrug. “Raenof, wait for us in the lobby. I need to speak with Chloe before you leave.”
+
+“Of course. I’ll be waiting.” Raenof said.
+
+With that, he turned and strode out of the room. Chloe watched him go, then leaned toward Iris the moment he was out of earshot. “Sooo… can I get my first free brain now?”
+
+Iris let out a sigh. “Follow me.”
+
+***
+
+Iris led Chloe back down into the laboratory, though this time they passed the glowy tubes and weird jars and took a turn into a smaller room off to the side. It definitely felt like a storage room. A creepy one.
+
+Chloe clapped her hands together. “Ooooh, is this where you keep all the brains?”
+
+“Yes. One of my storage chambers,” Iris replied as she came to a stop in front of a coffin tucked into the wall.
+
+She gripped the sides and slid it out. The lid popped open, revealing the body of a knight.
+
+His armor was shiny but scratched in places, and both his hands gripped a sword across his chest. Chloe leaned in, eyes gleaming. “That’s the guy, right? Gimme.”
+
+She reached for the head, but Iris raised a hand without even looking at her. “Wait.”
+
+“Wait?” Chloe echoed, hand still hovering mid-air.
+
+“I’ll remove the brain for you,” Iris said calmly, already pulling a tray of fancy metal pokey things to her side.
+
+Chloe frowned. “But I like cracking skulls. That’s the fun part.”
+
+“I’d prefer the head not look like it lost a bar fight. Just be patient.”
+
+Chloe groaned and flopped onto a nearby stool. “Fiiiine."
+
+She watched as Iris worked to open up the guy's skull. There was a little snip here, a click there, as Iris peeled back part of the skull like it was some weird treasure chest. Finally, she lifted the brain out, perfectly round and pink.
+
+“Here,” Iris said, offering the brain to Chloe. “Try not to drop it.”
+
+“Yay!"
+
+Chloe took the brain with both hands, gave it a little bounce, then bit in. It was squishy and warm, with a hint of iron and a strange... fancy flavor? There was even a little crunch near the back.
+
+[Brain Consumed: Sir Gawain of Vasturia (Human Knight Level 20)]
+
+[Experience Awarded]
+
+[New Skill Acquired: Horse Riding IV]
+
+[Skill Upgraded: Swordsmanship IX >> Swordsmanship X]
+
+[Skill Upgraded: Charm Resistance IV >> Charm Resistance V]
+
+As soon as Chloe swallowed the last bite of brain, the world went all fuzzy around the edges. Her eyes glazed over as that familiar, weird floaty feeling washed over her.
+
+Suddenly, she wasn’t in the lab anymore. Now she was standing in this super fancy place her brain insisted was called a garden. There were flowers and statues everywhere, and also this thing spouting out water that was apparently called a fountain.
+
+Right in the middle stood Sir Gawain, though he wasn’t wearing armor this time. Instead, he had on these nice clothes and a forced smile that said help me, I regret everything. Across from him was a woman in a giant red dress. She looked angry.
+
+Then another lady stormed in, wearing a blue colored dress. Also mad.
+
+Gawain glanced between the two of them, grinning nervously like maybe if he looked cheerful enough, they’d forget he existed. They didn’t.
+
+The yelling started fast. One of them even threw her gloves on the ground like she was challenging him to a fight.
+
+Chloe leaned in, totally absorbed. I have no idea what’s going on, but this looks fun!
+
+Gawain said something, and both women yelled even louder. Then, all of a sudden, the red-dressed lady one pulled a dagger out of nowhere, and stabbed him in the tummy.
+
+He gasped, stumbled back, and fell into a bush. The lady in blue shook her head and walked off in a huff. The stabby one wiped her blade on his cape, picked up her gloves like nothing happened, and left too.
+
+Then everything snapped back. The lab came into focus again, along with Iris standing nearby.
+
+Chloe stared at the knight's corpse for a second, then looked at Iris. “Okay, so... I think some weird lady murdered this knight?”
+
+Iris paused mid-cleanup, setting her tool down carefully. “What?”
+
+“So, there were two fancy ladies yelling at him, and then one of them shanked him. Right in the gut. Then he fell into a bush and kinda just… stayed there.”
+
+“What are you even talking about?”
+
+“Oh, I get these visions when I eat brains. Like little memory snackies.”
+
+“I see… and you’re saying Sir Gawain was stabbed by a woman?”
+
+“Yep, it was actually pretty funny."
+
+Iris stared at her, silent for a few long seconds, as if she was trying to figure out if Chloe was joking or just broken. Then, she let out a sigh and turned away, starting to clean up her tools again.
+
+“Anyway, since you’ll be gone for quite a while, I figured I’d need a more creative solution for your reward.”
+
+“Huh? What do you mean?”
+
+“It would be impractical for me to send the earth mage’s brain all the way to Vorraska after you’ve completed your mission, and just as impractical for you to return here once it’s done.”
+
+“Wait, are you saying you’re not gonna give it to me? But you promised!”
+
+“I said impractical, not impossible. Don't worry, I have a plan. Just wait here.”
+
+With that, she turned and disappeared into the hallway. Chloe waited for all of five seconds before her attention wandered. She spun back toward the open coffin and leaned over Sir Gawain’s very dead, very stiff body.
+
+She giggled as she poked at his chest. “Bet you weren’t expecting death from a dress lady.”
+
+She grabbed his hand and flopped it upward, then poked around at the knight’s face, squishing it into weird expressions. Not like she had anything better to do.
+
+By the time Iris returned, Chloe had one of Gawain’s arms pointing at the ceiling and had balanced two empty jars on his chest.
+
+Iris paused in the doorway, took one look at the scene, and didn’t even blink. “Done?”
+
+“Mostly,” Chloe said, springing back to her feet.
+
+Iris held out a thick scroll tied with a string. “Inside this is the preserved corpse of the earth mage I promised you."
+
+Chloe reached for it with both hands, eyes wide. “Ooooooh.”
+
+“But there’s a catch,” Iris added.
+
+“What is it?"
+
+“This scroll can only be unsealed by the Guildmaster of the Thieves Guild in Vorraska. No one else. Not even me.”
+
+Chloe stared at the scroll, then looked back up. “Wait. So you’re giving me this scroll, but I can’t open it?”
+
+“You’ll get your brain. But not until after you finish escorting Raenof and reach Vorraska. Oh, and before I forget, there’s also a gold reward that comes with this mission. It’s—”
+
+“Yeah, yeah, sure. Can I start the mission now?”
+
+Iris paused, letting out a slow sigh as her shoulders dropped just a touch. Her voice was flat, dry with sarcasm. “You’re incredibly lucky I find you at least somewhat adorable. Otherwise, I might’ve sealed you in a jar ages ago.”
+
+Chloe smiled, missing the tone entirely. “I am adorable! Thanks for noticing!”
+
+***
+
+There were few things that could make Administrator Z nervous. Performance reviews were one of them.
+
+Good news never came in meetings like these. The best she could hope for was that no one mentioned the words “efficiency” or “lean.” Those always spelled trouble.
+
+Z sat with her wings folded behind her. Nearly two dozen angels were seated around a wide circular table, each one of them an Administrator. Some wore robes, others blazers, but all wore the same polite dread reserved for meetings that might end careers. No one spoke.
+
+Even L, who usually couldn’t resist teasing Z, had gone quiet. He hadn’t even looked her way at all.
+
+The silence was thick enough to choke on. Then, finally, the wall-mounted screen blinked to life in a flash of light.
+
+A man made entirely out of flames appeared. This was COO Agni.
+
+Not so much a man as a living inferno. Yet somehow, the COO still managed to wear a tailored black suit and tie. Even the desk in front of him was fine.
+
+“Good morning, Administrators. You’ll be pleased to know the other C-suites will join remotely. The shareholder meeting starts right after this, so we’re on a tight schedule. Please be ready to be called up.”
+
+A few murmured acknowledgments circled the table. Z just nodded.
+
+“Now, onto the main point,” Agni said, folding his flaming hands on the desk. “With the most recent culling concluded, it’s time for a brief performance review.”
+
+The temperature in the room didn’t actually rise, but it felt like it did. Wings shifted. Chairs creaked.
+
+Z kept her expression perfectly neutral. She knew that her performance this time around was at least above average. So she knew that at least for now, she'd be safe for this particular performance review. Still, she could feel it. Something was… off.
+
+Onscreen, COO Agni leaned forward slightly. “Let’s begin with our top performers. First, Administrator 99. Excellent progress this quarter.”
+
+A polite round of applause circled the table, just enough to acknowledge the achievement without seeming overly impressed. Z joined in, clapping twice, then glanced across the table.
+
+Administrator 99 stood up, red hair contrasting against a crisp black suit. A plain, matte-black eyepatch covered her left eye. Her remaining eye flicked toward Z for half a second.
+
+But soon, Agni spoke again. “Compared to the previous Great Game, your division’s progress is commendable. I’m especially pleased with your lead champion; rising to chieftain of a Canid tribe is no small feat.”
+
+99 gave a curt nod. “Acknowledged, sir. I intend to further improve my standing by the next review.”
+
+“Very good. You may sit.”
+
+Administrator 99 sat down without a word. Agni moved on. “Next, Administrator Z.”
+
+Z stood up. She was pleasantly surprised to be in second place.
+
+“Your performance has been steady and dependable. While none of your champions are currently in the top ten, their growth trajectories remain strong and consistent. I commend your long term approach, Administrator.”
+
+Z placed a hand gently over her chest. “Thank you, sir. I will continue to strive for excellence and deliver sustainable results.”
+
+Agni inclined his head. “See that you do.”
+
+She allowed herself a small, quiet breath of relief as she sat down. Nothing unexpected had happened so far.
+
+But now came the real performance. Agni was about to announce the top performing administrator. “And finally, Administrator L.”
+
+L rose up slowly, offering a casual salute before adjusting his tie. He wore the ghost of a smile, his version of humility.
+
+“Administrator L currently leads the quarter’s rankings, with multiple champions in the top ten and rapid development across the board.” the COO said.
+
+L bowed, just enough to be polite, but no lower. "Thank you, sir."
+
+“However, one of your top champions has shown signs of regression. I suggest you not grow complacent.”
+
+“Of course not, sir. I’ll make the necessary adjustments.”
+
+L sat back down. But there was a flicker of tension in his eyes, whether it came from Agni’s parting warning or something else entirely, Z couldn’t say.
+
+Not that it mattered. The COO continued.
+
+“Now then, to be concise, there are currently two Administrators whose performance has been flagged as at risk. But out of respect for morale, I will not name names. You know who you are.”
+
+Z felt a few glances shift around the table. Everyone pretended not to notice who flinched.
+
+Agni pressed on. “This is your reminder to align with Divinity Inc.’s core vision and mission. We are here to drive divine engagement, foster meaningful mortal growth, and to—"
+
+Agni paused as he glanced at the wall TV. “It seems our CEO has an urgent message to deliver, I’ll yield the floor.”
+
+The image of the COO vanished, and the screen dimmed to black. Then, glowing letters appeared:
+
+[Incoming Call: CEO Y]
+
+“Hello, darlings! Apologies for the lack of video, I’m currently en route to dinner with one of our larger shareholders. You know how it is. Priorities, priorities.”
+
+Z stiffened instinctively. The CEO was almost never the bringer of good news.
+
+“And oh, COO Agni, you do know your official designation is ‘COO A,’ don’t you? Just a small reminder, branding consistency is the cornerstone of unity. We must modernize if we want to stay competitive."
+
+There were a few small smiles from the younger administrators. A few uncomfortable shifts from the older ones. Agni said nothing.
+
+Z sighed, internally, of course. She’s unbearable.
+
+“But let’s cut to the chase, shall we? This will be the final iteration of the Great Game.”

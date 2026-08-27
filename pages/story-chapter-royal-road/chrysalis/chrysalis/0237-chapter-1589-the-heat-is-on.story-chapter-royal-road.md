@@ -1,0 +1,85 @@
+---
+id: 9e2a2bae-5f76-5b89-829f-4cd967f3fb4e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1589 - The Heat Is On"
+slug: 0237-chapter-1589-the-heat-is-on
+partOf: chrysalis
+position: 237
+ownLength: 969
+unit: words
+ownProgress: 969
+publishedAt: 2025-06-20
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2370193/chapter-1589-the-heat-is-on"
+royalRoadId: "2370193"
+markedReadAt: "2026-06-29T19:51:23.605Z"
+---
+
+Another monster from the sixth arrived a few hours ago, which makes it the third one today. The mana level here in the fifth has probably reached its peak now, and it is deeply unpleasant.
+
+It’s a constant struggle for the wuffers to keep up, the blue mana is being consumed faster and faster by the more potent native energy, and they have to chew through that potent toxic stuff at ever increasing speeds. For now, the safe-zone is holding. For now.
+
+I know the vast bulk of the energy cleansed in the fortress is being siphoned off somewhere. Hopefully, whatever Solant needs it for proves worth the effort.
+
+“Be careful, Eldest!” a powerful scent next to me calls out.
+
+“I’m always careful!”
+
+“You’re currently melting!”
+
+“... It’s not that bad!”
+
+Alis throws her hands up before turning back to the oncoming onslaught and launching fire from her hands. I do indeed have acid on my back, steaming and burning, but my carapace isn’t that easy to get through. It’ll take more than a little acid to make me worry!
+
+No, the acid isn’t the problem, it's the corrupting energy contained within that is slowly leaking into my body. Yuck! Hate that stuff. After a few seconds, a huge volume of water splashes over my thorax, covering me in the deluge and washing off most of the offending acid.
+
+I turn slightly to see Bertran reloading his water cannon. The bearded man smiles and gives me a thumbs up that I do not return. And not just because I don’t have thumbs.
+
+I mean… yes, it certainly helps to get the acid off, and wash away the slop and slime that spills onto the platform. It’s useful, I know that, I just don’t enjoy being dunked in water all the time. Looking down at Alis, who now somewhat resembles a drowned rat, I think she understands how I feel.
+
+“You were too close,” I tell her helpfully.
+
+“Thanks,” she mutters. “Thanks a lot.”
+
+“You could stand further back if you want. You cast magic, you don’t need to be here.”
+
+“We’re here to help you,” she replies, just as stubborn as the rest of the Templars. “I can be more effective here, closer to you.”
+
+As they fight, the Templars have continued to gain Levels, growing stronger and levelling their Skills. The Class has empowered them in some odd ways. They get stronger when closer to me, for example. As fighters, all of them, even the youngins, have proven to be very capable. Jern swings his axe like it’s a part of him, and the light he can produce from that thing is deadly. Alis has been working on her fire magic, and it’s getting more and more impressive. She can’t hold a candle to Dragon’s Breath or to Invidia’s explosions, but she’s doing very well. Apparently, the bonuses they get from being a Templar are enough to overcome their relative lack of experience. I don’t know how human Classes work or anything, but it seems like Templar is a really good one.
+
+My nerves stiffen, and for a moment, I suspect something is coming, but I can’t see it. Playing fire across the oncoming waves of mucus, I look for danger… well, danger is everywhere… I look for excessive danger, but I don’t find anything.
+
+“Alis? Are you sensing something?” I ask her, a little confused.
+
+She’s about to answer me when her eyes roll up in her head and she collapses to the ground.
+
+What the heck?!
+
+I turn and the same has happened to Bertran, which can only mean one thing: spiritual attack! The Nave is under attack! Why? HOW!?
+
+My nerves scream again as my antennae twitch, a slight glimpse into the future sending impulses raging through my neurons. Two massive globs of mana are launched, simultaneously from deep within the tunnel.
+
+Dammit! No way that isn’t coordinated!
+
+My constructs spin up, pushing hard, straining to their bursting point as they try to rip out as much gravitational mana as they can. Condense it, pack it as tight and solid as I can until it starts to do the work itself, sucking in mana all on its own.
+
+I don’t bother splitting it. I only had one bomb ready to go, and creating a second from scratch wouldn’t leave me with enough time to launch it.
+
+Once the spell is ready, I open my mandibles wide and unleash the Doom Sphere….
+
+I mean, the name is growing on me.
+
+HOOOOOOOOWWWWWWLLLLLLLLL!!!!!
+
+Empowered by the Altar, the gravity bomb unleashes an air-shattering scream, like the dying wails of a god. The air is sucked in so fast it slices away sections of rock, or rips stones straight off the walls.
+
+The blobs of mucus and the gravity bomb meet halfway down the tunnel, and the bomb expands to consume them. It fills the tunnel with darkness, consuming unfathomable amounts of slime, thousands of monsters and still wants more.
+
+This is clearly some sort of planned attack. I’m not going to muck around, they can have a massive gravity bomb to chew on. If that doesn’t disrupt their plans, then nothing will.
+
+Again, my antennae twitch and my nerves burn with fire. I lunge to the left, just in time. Something wet and sticky slaps into my carapace a split-second before it would have hit Alis. I stand over her, as several more projectiles blast out from the wall to smack into my darkly gleaming exo-skeleton. I can feel them oozing and creeping over me already. I can see the lines that extend out into the darkness, connected to their invisible handlers out on the wall.
+
+The Krath have come. For me?!
+
+I clack my mandibles, amused. You think you can take me?
+
+Let’s see how that goes.

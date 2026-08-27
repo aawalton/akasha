@@ -1,0 +1,75 @@
+---
+id: c2726316-1fab-58d6-8559-72c6b3007ed2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1625 - A Nameless Way of War"
+slug: 0274-chapter-1625-a-nameless-way-of-war
+partOf: chrysalis
+position: 274
+ownLength: 971
+unit: words
+ownProgress: 971
+publishedAt: 2025-08-18
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2526600/chapter-1625-a-nameless-way-of-war"
+royalRoadId: "2526600"
+markedReadAt: "2026-06-29T19:52:34.888Z"
+---
+
+It is not the purpose or mission of the Nameless Ones to use their abilities to fight on behalf of the Colony.
+
+Formed by a cadre of dedicated, some would say fanatical, ants of all castes, with the guidance of the Shadow, their stated goal has always been to enforce the will of the Eldest upon those who insufficiently respect it. Within the Colony, there is no infraction more common than failing to abide by the regulations regarding rest.
+
+To ensure that the directives of the oldest amongst the ants are followed, they have developed a frankly quite astonishing network of infrastructure, spies and capabilities. Members of the Colony are regularly abducted, mid-sentence, vanishing into the shadows so quickly it appears as if they just disappeared, only to appear again the next day, well rested, polished, fed nutritious food and meticulously groomed.
+
+There have been few occasions when these remarkable capacities have been put to use in warfare. Though it should be noted that, when they are, it is to devastating effect.
+
+The Nameless One watched the fighting unfold from within the shadows. She couldn’t ‘see’, not exactly, but being connected to the mana-filled pools of darkness provided a window for her mind, and she saw everything.
+
+The Krath were canny fighters, cautious and calculating on the defence, but savage and decisive on the offence. Yet, having their own shadows turn against them had rattled the slugs. Not enough for them to make any major mistakes… yet… but the Nameless One could sense their fear, could scent it in the air, a sweet smell that only grew stronger with every slug dragged away into the darkness.
+
+The human appeared beside her, crouched down in the world of shadow, his axe at his side.
+
+Nameless One, he signed to her, it looks like they seek to destroy the root. The snail-monsters are being primed to fire.
+
+Indeed, she could see that this was true. The slugs had reinforced their tamed monster handlers and chased away the shadows. No longer harried by the darkness, the snails were being fed on the plentiful mucus still clinging to the walls of the heart, condensing it within their bodies. She judged they wouldn’t have nearly enough fuel to bring out the creatures’ full potential, but it was likely they would succeed in their intention.
+
+She signed as much to the human, and he frowned, puzzled.
+
+Shouldn’t we stop them? he signed.
+
+We do not need to win every fight in order to win the battle, she replied to him. They focus on the root, but it is not the thing that will bring victory.
+
+The human considered these words, extending his own senses throughout the shadows, trying to feel out the state of the field.
+
+The vents, he eventually signed.
+
+The Nameless One nodded, pleased.
+
+So long as the vents continue to pour out the cleansed mana, we will win. When the heart is filled with it, how can the Krath fight back? They cannot.
+
+The two of them watched as the slugs desperately fought to protect their snails while the shadows darkened around them. With every passing moment, the safe-zone within the heart expanded, bringing the guardians and the ants that little bit closer. Soon, there would be nowhere left for them in the lower chamber.
+
+The snails sucked in all the sludge they could reach, their shells glowing a bright orange colour as they condensed it down to pure fifth stratum mana. Watching from the shadows, the Nameless One and the human observed as the snails coordinated their assault, launching a sequence of deadly blasts that smashed into the root with tremendous force.
+
+Even within the shadow, the Nameless One was able to hear the furious rattling of the Mother Tree as her root burned and melted under the concentrated acid. Despite the efforts of the ants, they were unable to prevent the hollow root from collapsing. In order to prevent the spread of corruption, the Mother Tree was forced to cut it off from the rest of her network.
+
+No more ants would be able to enter the heart using that method, a small victory for the Krath, no doubt.
+
+Indeed, as the Nameless One watched, the slugs seemed to celebrate, revealing their fangs in savage grins as they moved to resume their assault. The scent of fear had become muted in the face of the Krath’s growing confidence. Perhaps they believed they would be able to defeat the number of ants currently in the heart, or perhaps having something finally go their way had gone to their heads.
+
+As the slugs spread out and took positions around the upper reaches of the chamber, the Nameless One clacked her mandibles with satisfaction.
+
+They found safety in numbers, but have so readily thrown it away, the Nameless One signed. It appears as though some lessons must be taught multiple times before they will properly sink in.
+
+The human nodded.
+
+I will go back to work, he replied, before slinking away into the darkness.
+
+There would be a lot of work for the Nameless Ones before this battle was done. Expanding her senses, she checked the strength of the shadow mana around her.
+
+The shadows were vulnerable to the mana of the fifth, and they wouldn’t be able to maintain this level of activity for much longer. However, there would be enough in reserve to do what needed to be done.
+
+Looking down, the Nameless One looked at the Eldest, bore witness to the titanic struggle going on within.
+
+It was time for her to become involved more directly. The Krath could not be allowed to spread themselves so thinly. Only when they were terrified and clumped would Solant be able to execute her plan.
+
+Silently, the Nameless One sank into the darkness and vanished.

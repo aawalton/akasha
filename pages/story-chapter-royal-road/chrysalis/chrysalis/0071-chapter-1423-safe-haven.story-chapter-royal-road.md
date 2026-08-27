@@ -1,0 +1,91 @@
+---
+id: 4f53b153-aa45-5f8c-b32a-efe9dffb1677
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1423 - Safe Haven"
+slug: 0071-chapter-1423-safe-haven
+partOf: chrysalis
+position: 71
+ownLength: 882
+unit: words
+ownProgress: 882
+publishedAt: 2024-10-03
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1832301/chapter-1423-safe-haven"
+royalRoadId: "1832301"
+markedReadAt: "2026-06-29T19:45:56.204Z"
+---
+
+How do the Krath regard each other? There’s a very simple answer to that question: we don’t know.
+
+As far as the Magio-Scholars of the Tower are aware, there has never been a successful capture and interrogation of a Krath. Not even a cursory mind reading, since such things are impossible to perform through the mana of the fifth, which degrades everything that attempts to move through it, even magic.
+
+As violent and as brutal as they are, we have to imagine that the Krath treat each other somewhat poorly. It’s difficult to imagine the Krath engaging in trade, for example, where trust and equivalent exchange are necessary for the practice to flourish.
+
+However, one truth must be considered above all others: in the most hostile environment in the Dungeon, the Krath not only survive, but thrive.
+
+Surely this wouldn’t be possible without some level of cooperation between them.
+
+-           Excerpt from ‘The Savage Tribes,” By Magio Scholar Erinus.
+
+“You were actually telling the truth,” Zluth grunted before spitting a dark glob of acid onto the stone floor. It sizzled pleasantly, emitting a thick, acrid smoke that tickled the Krath.
+
+“If you don’t tell the truth every now and again, no one will ever believe your lies,” Goszi said wisely, his eyes betraying his glee.
+
+“Are you that pleased, you old slug?” Zluth said.
+
+“Of course. I get to live, after all. Gugugugugugug!”
+
+Chortling away, Goszi moved away to claim a space for himself before the best homes could be taken.
+
+Despite the length of time the Slimeground had been unoccupied, it was in surprisingly good condition, no doubt due to the cunning location the Suggoth had chosen to build it. Despite being relatively in the open, the entrance had been woven into the fold of the tunnel so well it had been almost invisible, an opening only ten centimetres across, just enough for a full-sized adult Krath to squeeze through. Then, winding tunnels concealed the cavern within behind dozens of metres of thick rock.
+
+Even Zluth had to admit it was clever.
+
+“Krath’lath,” a voice called, and Zluth tried to conceal the moment it took to recognise they were speaking to him by turning slowly to face them, with dignity.
+
+“Trissith, what seems to be the problem?” he asked.
+
+A young Krath, but full of hunger and ambition, as all Krath should be, Trissith had been acting under him as part of the scouts.
+
+“The Slimeground appears to be secure, Krath’lath,” she reported, her voice bubbling savagely.
+
+“And what of the captives?”
+
+“They’ve been secured, as you instructed.”
+
+“Good. I want guards on rotation at the entrance; we can’t afford to be careless.”
+
+“Very well, Krath’lath.”
+
+“Where is Jozish?”
+
+“I am here, Krath’lath.”
+
+“Find the beast pits and try to take stock of the pittance we have left.”
+
+The beast tamer practically bubbled with the depths of her fury.
+
+“It will take years for us to replenish our stock,” she hissed. “We barely have anything left.”
+
+“Our previous leader was foolish in the extreme. Remember who it is that is trying to save us.”
+
+Jozish was a brutal and merciless Krath if ever there was one. She’d wrangle together whatever Blubbeasts and monsters the tribe had left and start from scratch.
+
+“We need meat. The beasts we have left are starved and weak, and our stockpiles are gone,” Jozish warned. “It’ll be days until we get any meaningful food out of them.”
+
+“Hunters have already been sent out to secure Biomass for the beasts, don’t worry about that. It won’t be long until you have something to feed them with.”
+
+“Our hunting grounds are lost too,” the surly beast tamer growled. “What are we even going to be able to get?”
+
+“Whatever the hunters bring back will have to do,” Zluth stated harshly. “Your job is to tend to the beasts, and I suggest you go do it.”
+
+Processing Biomass into useable food for the Krath was merely one responsibility of the Blubbeasts, but it was an important one. With their mould gardens gone, and no harvestable food left here in this Slimeground, the Slee would be hungry for the next while until they were able to reestablish themselves.
+
+Still fuming, Jozish slid away, visibly struggling to contain her rage. The former Krath’lath had used her size and strength to dominate unruly members of the tribe like the beast tamer. Zluth would have to find another way, but he had no doubt he would succeed.
+
+In the meantime, Zluth made his way over to the egg pond. Unused for many years, now it was filled with captured Krath, squashed down to the point they were barely able to fit beneath the slicing wires fitted above them. There were three down there, watchers assigned by the Suggoth tribe to keep tabs on their old home.
+
+“It’s unfortunate that you happened to be here when we arrived,” Zluth stated the obvious, “and it’s even more unfortunate that we only need one of you to send a message back to the Suggoth. A message of dire importance, regarding an invasion of the fifth.”
+
+Six eye stalks swivelled quickly, moving from each other, back to Zluth, then back to each other.
+
+“So,” the new Krath’lath of the Slee tribe grinned, “who’s it going to be?”

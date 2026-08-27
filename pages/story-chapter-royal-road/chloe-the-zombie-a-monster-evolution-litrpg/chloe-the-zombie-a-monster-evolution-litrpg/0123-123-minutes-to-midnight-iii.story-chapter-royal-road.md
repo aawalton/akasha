@@ -1,0 +1,133 @@
+---
+id: cba85031-22fc-59ea-b257-eb52db08cf05
+page-type-slug: story-chapter-royal-road
+title: "123: Minutes to Midnight - III"
+slug: 0123-123-minutes-to-midnight-iii
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 123
+ownLength: 1866
+unit: words
+publishedAt: 2026-03-09
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3133318/123-minutes-to-midnight-iii"
+royalRoadId: "3133318"
+---
+
+Chloe swallowed and forced herself to focus. “Okay, so, where do we even start? Because I’m gonna be honest, I don’t know how to do a rescue mission."
+
+“Lady Ishgria’s office is at the top floor, so it's best if we start looking for her there." Maeve said.
+
+That made enough sense to Chloe, since her Mom was like a super big shot in the company. So it made sense that she'd have an office at the top of the building, she just hoped that the masked men haven't found Mom yet. That would suck, a lot.
+
+"But how are we gonna get to the top though? The elevator's busted." Chloe asked.
+
+“Indeed, the elevators are not an option for us at the moment. So we will have to look for a different solution."
+
+“Yeah… I kinda figured. So do we just get out of this floor or?"
+
+"We should, and then we should go find the emergency stairs. No guarantees that it'll be safe, but it's a start."
+
+“Kay, I’ll stay behind you.”
+
+Maeve looked pleased at Chloe's answer. That made Chloe feel proud, as she felt that just maybe, her brain was becoming a little bit more aware.
+
+Soon, Chloe followed Maeve as she moved to the office door and cracked it open just enough to peek out. Chloe held her breath and leaned in slightly, watching Maeve’s face for any sign that something was wrong. After a few tense seconds, Maeve nodded to herself.
+
+The hallway was still dark since all of the overhead lights were completely dead, so the only thing keeping the place from being pitch black was the emergency lighting along the bottom of the walls.
+
+Some of the doors were slightly open, just a crack, and Chloe hated that. It made the whole floor feel like it was watching them. A few potted plants sat in the corners too, tall and green and harmless-looking, Which, to be fair, they probably were.
+
+Maeve lifted her hand and pointed down the hall. “I see the emergency stairs. They should still reach the upper floors.”
+
+Chloe nodded fast. “Got it.”
+
+They moved fast but careful, sticking close to the wall and keeping to the darker patches of the hallway. Chloe kept her eyes forward, but she still glanced into every glass meeting room they passed. Then Maeve stopped so suddenly Chloe almost ran into her.
+
+Maeve lifted a hand, and Chloe froze. A lot of footsteps were coming up ahead.
+
+Maeve pulled Chloe back into a narrow space between two tall cabinets near the wall. Chloe squeezed in beside her, heart pounding hard enough that she was convinced it could be heard from across the building. Maybe one day she'd be brave enough to not have this kind of problem, but today wasn't that day.
+
+Two masked men appeared at the end of the hallway, and Chloe’s blood ran cold. They were decked out in full black gear just like the guys before.
+
+Chloe didn’t move an inch. She wanted to, really badly, but she knew better. Right now, if she rushed in, she’d just get in the way and make Maeve’s job harder.
+
+Maeve waited until the first man drifted a little closer. Then she moved so fast Chloe almost didn’t process it. Maeve stepped out, lifted one hand, and a sharp burst of wind slammed into the man’s chest. He flew backward and hit the wall violently before crumpling to the floor.
+
+The second man spun toward Maeve instantly. Maeve flicked her wrist again, and the wind struck the gun sideways so hard it yanked the aim off target.
+
+The man tried to fix his aim, but Maeve was already on him. She grabbed his wrist, twisted hard, and the gun dropped to the floor. Before he could even gasp, Maeve struck again, fast and precise, and he folded to the floor.
+
+Chloe stared, wide-eyed, her mouth half open. She couldn’t even think of a joke, which honestly made the moment ten times scarier. Maeve was way too quick, way too clean, and she couldn't help but wonder where and how Mom recruited someone so good at fighting.
+
+Like, there was no way that Mom just asked Maeve, "Can you punch good?" during the interview, right? Chloe was thinking up all sorts of scenarios, until Maeve turned to face her. "Are you alright, Miss Chloe?"
+
+"Oh. I'm uh, good, don't worry."
+
+"You're doing great, just keep staying close to me, alright?"
+
+Chloe nodded. "Will do."
+
+They reached the emergency stairwell door a minute later. Maeve tested it first, then pushed it open carefully. The stairwell was dim, lit by small wall lights that made the metal railings gleam. But aside from looking creepy, so far, the coast was clear.
+
+Chloe looked up at the stairs stretching above them and felt her stomach sink. “That’s… a lot of stairs."
+
+“Yes, so we will have to start moving now." Maeve said, already climbing the stairs.
+
+Chloe followed right behind Maeve, forcing her steps to stay as quiet as possible even though the stairwell made every little sound echo. From down here, the stairs looked endless. She was good at a lot of things, but being athletic wasn't really one of them, so she'd really have to push her body to the limit.
+
+They climbed fast, passing landing after landing, the little signs on the wall flicking by in a blur. Chloe’s legs started to ache pretty quickly,but she shoved it down. She couldn’t afford to be slow today. She couldn’t afford to be anything except useful, even if being useful mostly meant keeping up with Maeve.
+
+Halfway up, Maeve stopped so suddenly Chloe almost bumped into her back. By this point, Chloe already knew what was up, a lot more masked guys were going to show up.
+
+Maeve pulled Chloe to the side and pressed her against the wall to keep her safe. The two masked men then appeared from the higher landing.
+
+They moved down the stairs with guns in their hands, scanning the stairwell like they owned it. Chloe watched them step closer, closer, closer, and she could feel the dread rising like cold water up her spine.
+
+Luckily Maeve was ready. The moment the guys were close enough, she made her move.
+
+Wind snapped through the stairwell like a whip, sharp and loud, and it slammed the first man sideways into the railing. His body hit metal with a painful clang, and he crumpled awkwardly like his bones forgot how to hold him up.
+
+The second man tried to swing his gun up toward Maeve, but Maeve was already rushing him. She grabbed his arm, twisted hard, and made the man drop his gun. Before the man could even shout, Maeve struck the man on the neck, and that was that.
+
+Chloe and Maeve kept climbing. By the time they reached the top floors, Chloe’s legs felt like noodles and her nerves were a mess. She kept going anyway, mostly out of pure stubbornness. Maeve pushed open the emergency door, and it creaked softly.
+
+Super cold air slid into the stairwell, and Chloe shivered. The hallway outside was brighter than the lower floors, but only barely.
+
+Chloe had expected the executive level to be the kind of place where everything was nice and people drank expensive coffee. Instead, it looked ruined, just like everything else they’d seen so far, and the moment her eyes adjusted she realized why. There were bodies everywhere.
+
+All of the bodies were of the masked men, their gear scattered across the hallway. Their gloves were stained dark, and their bodies were twisted in awful positions that made it look like they’d dropped dead on the spot. Some were slumped against the walls with their heads tilted at wrong angles, others were sprawled across the carpet like they’d been swatted out of the air.
+
+Chloe’s stomach lurched so hard she thought she might actually throw up. She slapped a hand over her mouth and stumbled back a step as her brain refusing to accept what it was seeing. Then the smell hit.
+
+“Nope,” Chloe whispered into her hand. “Nope, nope, nope.”
+
+Maeve turned instantly. She didn’t grab Chloe or shake her, she just stepped in until Chloe could feel her steady presence right there. “Miss Chloe, please look at me.”
+
+Chloe’s eyes flicked to her, panicked and unsteady. Maeve placed a firm hand on Chloe’s shoulder, grounding her in place. “Relax, you are safe right now.”
+
+After a few seconds, Chloe swallowed hard and forced herself not to fold in on herself, even though her hands were trembling. She hated feeling small and weak.
+
+“No matter what we see here, Lady Ishgria may still be close. We must keep moving.” Maeve said.
+
+“Yeah,” Chloe managed to say. “Yeah, okay.”
+
+With Maeve's help, Chloe managed to calm down and finally start walking again. She tried not to look too closely at the bodies, but it was impossible not to see them. The floor was scuffed, smeared in places, and bits of broken glass glittered near the edges like sharp dust. She even saw a fallen display panel had cracked across the wall, its screen frozen on some cheerful company message that felt completely out of place given the current situation.
+
+They passed a meeting room with its door half-open, and Chloe couldn’t stop herself from glancing inside. The long table was still perfectly set, the chairs pushed in neatly like someone had spent time making everything look nice. There were even untouched glasses sitting in a straight line, and a little bowl of expensive-looking candies that hadn’t been disturbed.
+
+The contrast made Chloe’s skin crawl. A hallway full of bodies, and right next to it was a room that looked way too nice.
+
+“Why is it so clean in there?” Chloe whispered.
+
+Maeve didn’t answer. She kept scanning the hallway, eyes moving constantly, checking corners and doors and stretches of darkness like she expected something to jump out.
+
+So, Chloe forced her legs to keep moving. She stepped over a dropped gun, careful not to touch it, then flinched when her shoe brushed something soft. Relax, Chloe, that was probably nothing, just keep moving.
+
+Chloe didn’t want to think about how weird or creepy everything was. She didn’t want to think about any of this. She just wanted to find Mom and leave.
+
+They turned a corner, and Chloe’s breath caught in her throat. At the far end of the hallway, someone was on the floor.
+
+Immediately, Chloe moved before her brain could catch up and stop her. She desperately sprinted down the hallway. Her vision blurred at the edges, and her chest felt like it was being squeezed tighter and tighter with every step.
+
+There were more corpses around her mom. A lot of the masked men were slumped against the walls, some sprawled across the carpet, and some lying far too close to Mom's feet like they’d been cut down before they could even understand what hit them. Chloe didn't know what happened to Mom, but for now, she didn't really care. There was only one thing that mattered to her right now.
+
+“Mom!”

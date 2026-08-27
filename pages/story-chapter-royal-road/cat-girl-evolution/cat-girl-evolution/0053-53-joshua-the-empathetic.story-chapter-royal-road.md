@@ -1,0 +1,85 @@
+---
+id: bcdea3bb-9db0-5749-80ff-cd054a516e56
+page-type-slug: story-chapter-royal-road
+title: "53 - Joshua, the Empathetic"
+slug: 0053-53-joshua-the-empathetic
+partOf: cat-girl-evolution
+position: 53
+ownLength: 2168
+unit: words
+publishedAt: 2025-11-23
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2785296/53-joshua-the-empathetic"
+royalRoadId: "2785296"
+---
+
+The first time Joshua remembered having a distaste for meat was 5th grade. His class went on a field trip to a local ranch where they learned about the process of raising cattle. He learned later in life that this was a somewhat unusual field trip, but in his little town of only a few thousand, it felt normal.
+
+He and the other kids got to meet some of the cows, petting them through the fence, and later, they even got to play with the calves. They reminded him of dogs, almost. Friendly, playful, energetic, and with a lot of personality. He would never forget the moment later in the day when he decided to sit down because he got tired, and one of the calves decided to take a nap right next to him, laying its head on his thigh.
+
+That night, his mom made chili for dinner using beef from the very same ranch that Joshua had just visited. He didn’t eat much that night. The little cow sleeping on his leg kept popping into his mind whenever he took a bite.
+
+Will we eat that one too someday? he wondered.
+
+His family wasn’t wealthy enough that he could afford to be a picky eater, so that was as far as it went at the time, but when he finally moved out and went to college and was able to choose his own diet, it wasn’t long before he stopped eating meat.
+
+At first, that was as far as it went. He didn’t eat meat, but he hung out with people who did. He joined a running club to stay in shape, he worked hard on his nutritional science degree, and mostly, he lived like a normal college student. Then, he had the bright idea to start uploading videos online.
+
+He didn’t intend for it to go very far at first. He had just seen some friends making videos and wanted to try his own. His first video “A day in the life of a vegan college student” was an experiment purely for fun. When it blew up, and he realized how much money there was to be made as a content creator, he dove all in and never looked back.
+
+His earliest videos were simply vlogs and diet tips and tricks, which performed well. He made enough money that he didn’t need to work, and was even able to purchase a house. The house he bought was on the outskirts of town and had acres of property, and he soon brought in a few pets. It wasn’t long after that that he practically had an entire farm living with him.
+
+He changed his channel’s name, and started pivoting his content toward “living in harmony with nature.” He lost many of his old viewers, but the new content frequently went viral, making him even more money than before. It also brought more hate.
+
+Between his isolated lifestyle, the nature of his channel’s content, and a desire to spite his haters, Joshua slowly began to lose touch with reality. The same old content never quite hit the same, so he always had to take things a step further in each new video. The friendly college student who simply wanted to live without hurting any animals was gone, and in his place was a bitter, delusional man cursing at a camera.
+
+Deep down, a part of him knew something had gone wrong. A part of him that only came out when he drank, which grew more and more frequent as the years went on. When his life ended after an ill-advised booze cruise landed him upside down in a ditch, a part of him was relieved.
+
+Then, he woke up again. Except there was a problem. He had woken up as a carnivore. A shark, no less. There were fish all around, but the thought of eating them made him feel sick, and when he tried to eat the seaweed, his new body couldn’t digest it. There was an annoying blue box telling him to solve a mystery, but he had no desire to do it. As far as he could tell, all it would earn him was an extended life in this horrible form, and that was the last thing he wanted.
+
+He drifted around aimlessly for a week, trying to find something he could eat guilt-free. Unfortunately, the things he discovered only made that more difficult. Deeper in the ocean, he found a seaweed monster. A quick conversation with the System told him that plants too could evolve, developing more advanced bodies that could eventually think and feel. This revelation sent him into a spiral of confusion about the new world. Even if he wasn’t a shark, was there anything he could eat?
+
+At the end of this week, he accidentally solved the mystery. He was drifting around the ocean aimlessly when he arrived at a rock near the shore and spotted a monstrous seagull, which constituted the completion of the Quest. His completion had somehow earned him a B grade on the Quest, giving him a slew of rewards. He received the traits Temperant and H4rm0n10u5, enough experience to instantly reach his first evolution, and most importantly, he unlocked a mutation.
+
+He didn’t care at first, but then the System told him it could solve his problem. He had earned a mutation for his species, and through that, he overcame his dilemma by forgoing his need to eat entirely. The Spectral mutation wasn’t what most people would take, but for Joshua, it was a lifeline. It allowed him to live without harming others. He only needed atmospheric mana, and if he ever walked again, he wouldn’t even harm the grass beneath his feet with his steps.
+
+He greatly enjoyed his newfound freedom. He still couldn’t really leave the ocean yet because for some reason, his species was still waterbound, but just being free of his bodily needs was more than enough for him.
+
+Then, he saw the seagull again. He was swimming near the bay one day, when he poked his head out of the water to witness it on the beach, killing a pair of armored men. Once dead, it made a terrible screech that sounded almost like a laugh, picked up the corpses, and dropped them on top of the town further in. The sight horrified and disgusted him. He didn’t want to see anything dead, let alone fellow humans.
+
+And even worse, the killing hadn’t even been justified. From what Joshua witnessed, the men were standing guard, and the seagull came in and killed them for no reason. It didn’t even eat them. While he didn’t like it, Joshua could accept a carnivore killing for food, but this? This wasn’t even killing for sport. This was just killing for fun. It was unnatural.
+
+He followed the seagull back to its rocky nest once it finished wreaking havoc on the town, and there, he used a Skill that he had hardly dared to look at before: Possess. The seagull was too strong for him to fully take over its body, but its mind was not strong enough to fully resist Joshua’s influence, and it had no recourse to get him out. There Joshua stayed for two full weeks, his Temperance Trait keeping it from attacking as he slowly whittled the seagull’s mind down until one day, it collapsed on the beach and died. This was how he earned his second evolution.
+
+When it came time to choose his second evolution, he was presented with a somewhat familiar assortment of foods. Despite the fact that he had no physical form anymore, most of the food remained physical, as a reminder that he technically still could eat. However, he had ascended past the need for physical sustenance, so all these options were ignored in favor of one that stood out above the others. Placed on a pedestal higher than the other meals was an orb of pure mana, and it came with a Species that appealed to him greatly.
+
+[ Joshua, the Temperant 4p05stl3 ]
+
+He didn’t need to think twice before consuming that one, and when he woke up, he was delighted to find that he had everything he wanted. He was stronger, he could go above land, and he could even take on a human appearance. His Temperance and H4rm0n10u5 Traits had been strengthened, and he even got a new one that was all he ever wanted.
+
+[ Aura of H4rm0n10u5 Temperance: You possess an aura that 4ll0w5 0th3r5 t0 und3r5t4nd th3 tru3 m34n1ng 0f y0ur w0rd5. Th0s3 wh0 h34r y0ur w0rd5 w1ll g41n th3 0pp0rtun1ty t0 und3rg0 th3 s4m3 3nl1ght3nm3nt th4t y0u h4v3 4nd 4sc3nd t0 y0ur st4t3 0f b31ng ]
+
+Immediately, he took on a human form and approached the town. To his delight, his Trait worked wonderfully. Everyone he spoke to perfectly understood his words. He told them about how he lived harmoniously with nature, and they expressed a desire to join him. It worked so well, in fact, that he practically started a new religion, which he thought was fitting, given the name of his new Species.
+
+There had been a few that resisted him. Some only for a short while, and some to the bitter end. They were evil. His Trait let him convey the true meaning of his words, meaning that those people had understood the meaning, and chose to reject it after. They were choosing to cause harm despite knowing they didn’t have to. They were not H4rm0n10u5.
+
+All of them were now gone, save for the few that held out in the small church that he could not approach. He did not know what they did to keep him out, but it was like an invisible barrier that even his intangible form could not pass through. It did not matter though. Most of the town had been converted, and once the last few joined him and the others, he would be able to set out and preach to the rest of the continent.
+
+Of course, there was one final obstacle: the mind reader.
+
+No… he thought as he meditated.
+
+He had initially believed her to be a mind reader because of what she said… but that was impossible. The way she had said it, and her expression of genuine surprise… If she was a mind reader, she was at a level where she should have already known everything he was capable of. To find his past life, and even find his memories of the hate comments in order to craft the perfect seemingly organic reaction… If she could do that, she would know everything.
+
+But if she couldn’t, that left only one possibility: she was actually from Earth. And the way she had called him “the annoying vegan influencer” meant that she wasn’t likely to be a fan of his.
+
+Where she had come from didn’t matter though. Aura of H4rm0n10u5 Temperance didn’t work on her. That meant she had no interest in seeing reason. Whether she was from Earth or not, she was a problem that he needed to get rid of. She had already slain some of his followers. He could not allow any more to die.
+
+When he finished replenishing his mana, he ascended back to the surface, then scanned the entire town with his mana sense. This sense was one that had been drastically amplified when he lost his corporeal form, so the entire town was under his purview, and in the entire town, he could not sense her. He could have gone out to look for her, but he had a feeling he didn’t need to. She would be back.
+
+His hunch was proven correct not long after. He was standing on what remained of the docks after their last confrontation when he sensed her enter the city limits. She went immediately to the church, and was there for a bit before continuing on her way toward him. He made sure to send a mental message to all his followers to clear a path for her, and aside from him, the docks were currently empty. He didn’t want any more to die for his sake.
+
+When she arrived, she was in the sky, standing on a translucent hand. Behind her, half a dozen more hands waited, each the size of a full grown adult, and another half dozen smaller constructs shaped like miniature cat heads hovered near her head. Her hood was pulled down, and in its place was a cat ear headband. No, they were twitching. They were real ears. She regarded him with an expression of pure disgust, but made no moves at first.
+
+Joshua wanted to attack immediately, but he was not a merciless man.
+
+“I will give you one more chance,” he said. “You have before you an opportunity to join me in harmony with nature. You never have to cause harm again. Should you reject, I will be forced to treat you as an enemy.”

@@ -1,0 +1,83 @@
+---
+id: 3491a0e3-20b1-5f7d-a5a6-aed3c6a37615
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1675 -  Shake Your Money Maker pt 5"
+slug: 0325-chapter-1675-shake-your-money-maker-pt-5
+partOf: chrysalis
+position: 325
+ownLength: 1178
+unit: words
+ownProgress: 1178
+publishedAt: 2025-10-27
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2707426/chapter-1675-shake-your-money-maker-pt-5"
+royalRoadId: "2707426"
+markedReadAt: "2026-06-29T19:54:12.601Z"
+---
+
+The first loss-making venture was a lemonade stand. Although the hatchling was indeed very diligent with what she dubbed ‘market research’, interviewing humans, observing the most walked paths in the city and in developing her product, there were several key failures.
+
+Primarily amongst them was that she had tested the drink, made with fresh lemons sourced from within the first stratum of the Dungeon, on other ants, rather than the actual group she wanted to sell to: humans. This was how she learned that ants have a much higher tolerance for sweetness than humans do.
+
+Indeed, the more sugar she packed into it, the more her testers wanted to drink. Super confident she was onto a hit, she poured money into hiring human labour to build her a lemonade stand and make an enormous supply of her special ‘Colony Approved Lemonade’.
+
+When the Brood Tenders asked her why she didn’t just use ants to do all the work, the hatchling dismissed the idea as ‘cheating’. She demanded that she make her money the same way everyone else in Renewal did.
+
+And so, the great launch occurred. There was indeed plenty of interest. Anything Colony related was bound to draw a crowd in Renewal, but after one sip, everyone either spat out the fresh drink, or barely managed to hold it in while smiling painfully.
+
+Business on the second day was… not so good.
+
+It was only after seeking out Jasper that she finally learned what the problem was, which left her with a vast supply of undrinkable lemonade. Of course, her siblings would love to get their mandibles on it, but they couldn’t pay for it! She needed to recoup her costs!
+
+Diluting the stuff, sharply dropping the price and relaunching as ‘NEW Colony Approved Lemonade’ was just barely enough to get the last of the stock out the door.
+
+Final losses: 15% of the initial investment. Not great, but it could have been worse.
+
+The hatchling wasn’t deterred. It was a learning experience! Quick thinking and savvy marketing had managed to steady the ship and avert complete disaster. Her next venture was sure to be a success.
+
+So the Brood Tenders watched and worried, unsure how to provide guidance, as the hatchling threw herself into preparations for her next business idea. More than once, they wondered if the little one should evolve, or purchase new Skills, since that would surely help, but they had no idea in which direction she should go. This was literally the first ant in the history of the Colony to engage in any of these practices!
+
+Wanting to forget the sting of her initial error, the hatchling decided to move away from the beverage industry and go in a new and bold direction.
+
+Thus was born: ‘Colony Construction’.
+
+This time she did agree to use ant labour, but insisted the carvers be paid the market rate in cores for their work.
+
+She’d done her research well, making sure to actually speak to her prospective clients before launching the business. Her siblings did a great deal of building work around the city. Large-scale projects such as the irrigation system, the new aqueduct and the Tunnel Ball stadium were all made by ants, and the people trusted and respected their work.
+
+Well, now through ‘Colony Construction’, you could hire the Colony to work on your own, private projects! Want a home you could rely on? Need a second floor added to your house? Perhaps an office, or stables, or barn, or anything! You need it, the Colony would build it.
+
+As it turned out, this business wasn’t without its challenges.
+
+First of all, she had to pay for materials, and most contracts didn’t pay for the entire job up front, which meant she was in the red until the work was completed. Second of all, there were a good number of trusted builders in the city already, people with good reputations and a solid list of clients, which made it difficult to break into the market. Thirdly, not everyone wanted to live in an anthill.
+
+Utterly bizarre.
+
+Nevertheless, interest in Colony Constructions was steady, and although it would take time, it seemed as though she would eventually break even with an eye to making profit in the long term.
+
+So long as there wasn’t a spike in the cost of cores, of course. Not wanting to cheat, she procured the cores at the market rate from the Delving Office in Renewal, sourced from human teams who worked in the Dungeon within Colony territory.
+
+Final Losses: Down 30% of initial investment, with a strong projection for long-term profits.
+
+Calling her second venture a tentative success, the hatchling was nevertheless faced with the reality that she was dangerously close to dipping below the fifty percent mark of her bank’s holdings. If she did, even for a second, the contracts would be voided and she would be forced to pay out everyone their full balance, plus a penalty fee.
+
+Such a failure was unconscionable! Success in business was built on trust, that was one of the bits of advice that Jasper had given her, and it made sense to the hatchling. People liked money, they wouldn’t hand it over if they didn’t trust you.
+
+In order to dig herself out of the hole, she would need another business idea, but first, she would have to raise the capital.
+
+Interestingly, the bank service she had created was proving to be quite popular. Every day there was a trickle of new deposits, and if she waited, it would eventually add up and give her the funds she needed.
+
+But that proved difficult for the hatchling. She felt a burning need inside her. She had to make moves, she had to make deals! There were profits out there, she could practically smell them. They were waiting for her, just begging for an enterprising ant to come along and pluck them up!
+
+Unable to wait any longer, she launched an aggressive advertising campaign for the bank.
+
+Targeting the outlying farmers, she went from small community to small community, farmhouse to farmhouse, extolling the virtues of her banking service and the peace of mind it could bring.
+
+A masterstroke!
+
+Farmers, as it turned out, were the perfect clients for her bank. After harvest time, they were rich, sitting on a large supply of coins that they needed to carefully hoard for the rest of the year. As it was one month after the harvest, every farmhold she spoke to was comparatively wealthy. If they gave her that money, not only was it safe, but they would earn interest on it, accruing a little extra that would go a long way when winter came.
+
+Coins rained into the hatchling’s little cashbox, so much so that she had to acquire a second, having it cleaned and inspected by the Tenders before she was allowed to place it next to the first.
+
+Overflowing with new capital funds, she eagerly sought out her next venture.
+
+This time for sure, it was going to be a hit!

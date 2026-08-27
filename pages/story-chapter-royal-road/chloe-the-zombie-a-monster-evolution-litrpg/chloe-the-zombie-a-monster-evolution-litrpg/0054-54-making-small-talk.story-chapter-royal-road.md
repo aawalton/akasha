@@ -1,0 +1,243 @@
+---
+id: 0301f962-09de-5d0d-81b9-09bc6972d504
+page-type-slug: story-chapter-royal-road
+title: "54: Making Small Talk"
+slug: 0054-54-making-small-talk
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 54
+ownLength: 2205
+unit: words
+publishedAt: 2025-10-19
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2688669/54-making-small-talk"
+royalRoadId: "2688669"
+---
+
+There was a part of Chloe, just a small one, that suspected she wasn’t very good at pretending she wasn’t a zombie. Sure, she was great at lots of things. But this was maybe not her strong suit.
+
+"I’m totally human! And, uh… I’m a queen.”
+
+There was a pause. Chloe's eyes narrowed slightly. “No, wait. I'm not a queen, but I wanna be one. That’d be pretty cool.”
+
+Raenof chuckled, not looking the least bit convinced. “Relax. I’m not here to judge what you are or aren’t. I’m just curious.”
+
+“Really?” Chloe narrowed her eyes a little.
+
+“Yep. Just want to get to know you better.”
+
+“And you wanna do that because...?”
+
+“Just feel like it, I guess.”
+
+“Right. Okay. Well, yeah, I’m human.” Chloe nodded, like saying it more confidently would make it truer. “So what’s with the whole ‘first queen’ thing anyway?”
+
+Raenof tapped a finger on his chin. “I meant Queen Ishgria the First. The original queen of Ishgria. In the old paintings I’ve seen, she looked a bit like you. Same red eyes, long white hair, pale skin…”
+
+Chloe blinked. Wait a second... that kinda sounds like that pretty lady I saw back when Ynett knocked me out. But eh, probably just a coincidence. Pretty neat though.
+
+“I have no idea who this queen is, but if she looks like me, she’s probably super pretty.”
+
+“She was known for her fairness and strong leadership. Though yes, her beauty was often praised as well.”
+
+“Well, do elves have a queen too?”
+
+“No, we don't have any monarchs. Instead, elves are governed by a conclave.”
+
+“A what now?”
+
+Raenof explained that a conclave was basically a big group of the oldest and wisest elves in a region. They got together, made decisions, and told the rest of the elves what to do. Each conclave had its own rules, and the elves living in that area had to follow them, whether they wanted to or not.
+
+Chloe nodded thoughtfully. “So... you ever think about joining this conclave thing?”
+
+Raenof laughed. “Don't think so. I’m only a hundred years old after all."
+
+Chloe blinked at him, then started counting on her fingers. After a few taps, she gave up with a frown and just pointed at him. “Wait, a hundred’s a pretty big number. Doesn’t that mean you’re, like, old? I don’t even know if humans live that long.”
+
+“Most humans live to be around seventy years old. But elves age differently. By our standards, I’m barely out of adolescence.”
+
+“What’s... adole-sense?”
+
+“Teenage years basically. Old enough to not be a kid, but not quite an adult either."
+
+“Ohhh. So do elves just stay looking young forever?”
+
+“Not really. We just age slower, so a hundred years isn’t much for an elf. I’ve got a few centuries left before anyone starts calling me old.”
+
+“Mmm. Must be nice."
+
+“Well, to be fair, Chloe. It’s not like you have to worry about aging either.”
+
+“Wh-what’s that supposed to mean?”
+
+“Oh, nothing. Just saying. You’ve got... a certain glow about you.”
+
+Chloe crossed her arms and looked away. “Uh, thanks.”
+
+Later on, Raenof poofed a wooden bowl into existence out of nowhere. Chloe leaned closer as he pulled out a small pouch and dumped some kind of crumbly bits into the bowl.
+
+She squinted. What are those things? Nuts? Dried leaves?
+
+The elf poured water over the whole thing and stirred it with a wooden spoon, smooshing it all together. The result was a sloshy, lumpy mess.
+
+“What are you doing?” Chloe asked, eyeing the bowl.
+
+“Just making some oatmeal,” Raenof said casually.
+
+“Oat-what?”
+
+“Oatmeal,” Raenof repeated. “It’s a warm, soft meal made from oats, a kind of grain. You soak or cook them in water or milk. It’s simple, filling, and easy to eat while traveling."
+
+Chloe tilted her head. “So... like squishy grain soup?”
+
+He chuckled. “Sort of.”
+
+When the elf finished stirring, he scooped up a spoonful and held it out to her. Chloe stared at it.
+
+She kinda got that Raenof was offering her the oat-whatever, but did she really want to put that in her mouth? It looked weird and gloopy.
+
+But also... Chloe was curious. So after a second of hesitation, she leaned in and took a cautious nibble.
+
+Her face immediately scrunched. It was warm, kinda creamy, but also weirdly bland and nutty and soggy all at once. "That stuff tasted sad."
+
+Raenof laughed. “It’s comfort food for me. Reminds me of home.”
+
+“Really? You eat that on purpose?”
+
+“Of course.”
+
+Elves are weird. Chloe thought, brushing her tongue against the roof of her mouth like that might erase the flavor. “Well, I guess everyone’s got their thing. Mine’s, uh... meat. Y’know, stuff with some actual flavor."
+
+“What kind of meat?”
+
+“Uh… the normal kind. Totally regular people meat. Wait, not people meat. Just meat that normal people like to eat, yeah."
+
+Raenof shot her a look again. But didn't say anything and continued to eat his oat soup.
+
+She smiled her most innocent smile and casually tossed a twig into the fire. “Sooo, is there any food you’ve never tried but really wanna?”
+
+Raenof stirred his oatmeal. “Hmm. I’ve always wanted to try honeycake from the Western Highlands. I hear it’s sweet, spongy, and melts in your mouth.”
+
+“That sounds way better than oat mush.”
+
+He chuckled again. “What about you? Is there anything you’ve always wanted to try?”
+
+Chloe knew there was only one food she really cared about. Brains.
+
+Her mouth nearly said it out loud. She managed to stop herself before it was too late. “Nothing comes to mind. I’m good.”
+
+“Really? No dream food? Not even a weird one?”
+
+“Nope. Nothing at all."
+
+Raenof didn’t look like he believed her, but at least he didn’t say anything. Instead, he gave the oatmeal another stir and glanced her way. "Well, if not food… is there anything else you want? Somewhere you wanna go? Something you’re looking for?”
+
+Chloe stared into the fire, frowning. The question made her brain feel itchy.
+
+I mean… tasty brains, obviously. That had always been the goal.
+
+First it was just “any brains,” but then she got picky. Magic ones were juicier. But still, that probably wasn’t what Raenof was asking about. Saying “I wanna munch on people’s brains” just didn't sound like a good idea.
+
+So she tried to think of something else. Something that wasn’t brains.
+
+Chloe's mind wandered until she remembered something Z had said. That whole “Best Game” thing. She was out of the bottom ten last she remembered, which was kind of a win. But what about becoming number one? That sounded way cooler.
+
+“Actually… I think I wanna be strong.” Chloe said.
+
+Raenof looked over, one brow slightly raised. “Strong?”
+
+“Yeah, like, super strong. Maybe even the strongest in the world.”
+
+“Oh? And what does that mean, exactly?”
+
+Chloe waved her hands around vaguely. “Y’know, like, I wanna be able to beat up anyone who picks a fight. Or chase down anyone who runs. Either one’s fine. I just don’t want people thinking they can mess with me.”
+
+Raenof took another bite of oatmeal and chewed. After swallowing, he nodded. “That’s certainly a goal.”
+
+“You’re totally making fun of me. Aren't you?"
+
+“I’m not.”
+
+“You are.”
+
+“I promise I’m not.”
+
+Chloe gave the elf a long, suspicious stare, then huffed and looked away, but not before a smile crept onto her face. Strongest in the world… yeah. That would be so cool.
+
+Eventually, Raenof finished his bowl of oat-mush and set it aside. Then he clapped his hands once, causing two small tents to pop into existence nearby.
+
+“There we go,” Raenof said. “Pick whichever one you like. There should be blankets inside.”
+
+Chloe pointed at the tents. “What are those for?”
+
+“Sleeping. What else would they be for?”
+
+“Oh. Right.”
+
+Chloe stared at the tents for a second longer. Sleeping wasn’t really her thing.
+
+But she did know that normal people needed to do it or they’d get all weird. So while she was traveling with Raenof, it probably made sense to pretend.
+
+“Okay then, I’ll, uh, go to sleep. Or whatever.”
+
+Just as she was about to crawl fully into the tent, Chloe paused and peeked her head back out. “Wait, what about the horses? Are they getting tents too?”
+
+Raenof looked up from where he was packing up his spoon. “I don’t have any horse tents, unfortunately. But it’s a good thing you reminded me.”
+
+He stood and walked over to his horse, placing a hand gently on her shoulder. A soft green glow shimmered across the horse’s body, then slowly faded away.
+
+Chloe’s eyes widened. “Ooooh. What was that?”
+
+Raenof made his way over to Mr. White next and repeated the same thing. Mr. White huffed as Raenof touched him, but didn’t move.
+
+“There,” Raenof said, dusting his hands. “That should help.”
+
+Chloe went out of the tent and walked over. “What was that? Did you just cast some kind of horse magic?”
+
+“In a manner of speaking. I gave them some minor buffs, one for stamina, and another for cold resistance. The buffs should help them rest better."
+
+“What are buffs?”
+
+Raenof chuckled, clearly amused. “I’d be happy to explain. But maybe tomorrow."
+
+***
+
+The next few days, or maybe weeks, sort of blurred together. Chloe wasn’t exactly keeping track. Time on the road got funny and weird like that.
+
+She and Raenof fell into the same routine over and over again. Ride during the day, set up camp in the evening, pretend to sleep while Raenof actually did, then do it all again the next day. Very normal. And very, very boring.
+
+Especially when Raenof was asleep. Those hours felt like they dragged on forever and ever. Chloe wasn’t great at sitting still, and there was only so much stick-poking and fire-watching she could do.
+
+Things only started getting a little interesting again when she suddenly remembered something Sabine had said to her. Back when they met, Sabine told her that if she got both her Mana Sense and Mana Control skills to level ten, she’d unlock some kind of super amazing epic skill.
+
+So Chloe threw herself back into meditating. Every night after Raenof fell asleep, she’d plop down, close her eyes, and try her best to feel her mana or whatever she was supposed to be doing.
+
+She’d done this before, back when she was traveling with Baron Willy. That time, she actually got results. Both Mana Control and Mana Sense went from level seven to eight before she even reached Evergale.
+
+But now? Nothing.
+
+Chloe had no idea what she was doing wrong. In fact, she was doing everything the same as before. So why wasn’t it working this time?
+
+Eventually, she asked Raenof for help, hoping maybe he had some hidden elf knowledge that could help. But all he said was, “Just keep doing what you’re doing. You’ll get there eventually.”
+
+Chloe had squinted at him. That was not the answer she’d been hoping for. Still, she kept meditating anyway. Because if she didn’t, she’d probably explode from boredom. And also because, deep down, she really wanted that cool skill Sabine told her about. Whatever it was.
+
+Despite her best efforts, Chloe didn’t get any skill level-ups. But hey, at least the meditation helped make the boring nights pass a little faster.
+
+She and Raenof were back on the road, riding side by side as their horses clopped along a dirt path. It twisted between stubby hills and some barren looking trees, the kind that probably lost their leaves because they felt sad.
+
+Chloe was half-zoning out again, letting her thoughts drift between random stuff like brains, soup, and what it’d feel like to ride a horse upside down. Her butt was sore, her back was stiff, and she was pretty sure if she had to spend one more day staring at trees, she’d bite something.
+
+But then, something in the distance caught her attention. Chloe blinked, leaned forward in her saddle, and squinted. Far ahead were a cluster of shapes, angular outlines that clearly weren’t natural. Pointed rooftops and chimney stacks broke the horizon, unmistakably the silhouette of a town.
+
+“Hey!” Chloe shouted, bouncing a bit in her saddle. “I think I see buildings! That’s gotta be Rellstead, right? That has to be it!”
+
+If horses could roll their eyes, Mr. White probably would’ve. But instead, he snorted and kept trotting forward like he already knew what was up.
+
+Raenof straightened in his saddle, standing a little in the stirrups. He shaded his eyes with one hand, then nodded. “You’re right. That should be Rellstead up ahead.”
+
+Chloe’s eyes lit up. Rellstead! Finally!
+
+That was the town Iris had told her to find. All she had to do now was get Raenof to the Thieves’ Guild, and then, they’d be taken to Vorraska. The mission would soon be over, and Chloe was going to get her special brain reward.
+
+She grinned and leaned low over Mr. White’s neck. “C’mon, buddy. Let’s goooo!”
+
+Mr. White neighed, then shot forward into a faster gallop with zero hesitation. Somewhere behind her, Raenof called out, “Chloe, wait up!”

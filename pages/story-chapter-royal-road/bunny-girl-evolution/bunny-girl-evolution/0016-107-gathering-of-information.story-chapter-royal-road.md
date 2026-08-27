@@ -1,0 +1,268 @@
+---
+id: 18b08a18-e27a-5c2c-87b6-e24e7ff698fd
+page-type-slug: story-chapter-royal-road
+title: "107 - Gathering of Information"
+partOf: bunny-girl-evolution
+position: 16
+ownLength: 3418
+unit: words
+ownProgress: 3418
+publishedAt: 2025-06-17
+link: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/2362311/107-gathering-of-information"
+royalRoadId: "2362311"
+markedReadAt: "2026-06-29T20:03:10.765Z"
+---
+
+While Elise was on her way to the auction, Nick finally had an opportunity to speak with their host. During the day, his time had been devoted to Elise and his “kingly duties”, whatever they were, so it was only now at night that Nick was granted an audience. He didn’t mind the wait though, as that gave him more time to spend with Sophie and Bianca, and what he wanted to talk about wasn’t of any immediate importance.
+
+After dinner, he had taken a walk around the city with his sister and fiancée, and returned just as the rabbit was leaving in a carriage. A maid with too much aether to be a mere maid was waiting to lead him to the king’s office, so he bid the girls farewell and followed the guide. The king was waiting for him, thankfully this time without the jester, though the almost nude dragon was there. Rose’s–or rather, Kaia’s– twin was also there, dressed in all black with her hair dyed the same and fidgeting with a hole in her dress.
+
+Nick hesitated a moment, then chose to sit with Maia. It felt a bit awkward, but it was better than sitting next to the dragon, even if he was officially under her protection. He was a little confused why they were here when he asked for a private audience, but he decided he’d wait to see what the king said before getting annoyed. And he was glad he did.
+
+“So, you’re probably wondering why the three of you are here together,” started the king. “The answer is efficiency. You all have the same question, and I don’t want to answer it three times.
+
+“Ordinarily, I wouldn’t be telling you two.” He pointed at Nick and Maia. “But I have to tell her.” He pointed at Irylax. “And she’s going to tell you anyway, so I figured I’d just tell all of you at once so you have the information firsthand, instead of whatever jumble you hear from her.”
+
+Irylax shot him a glare.
+
+“Before I tell you though, I need you to understand that this is highly classified information. And moreso, it is highly dangerous information. Merely knowing it will put you and your loved ones in danger. Well, Irylax, you’re probably not in much danger, but the other two will be, even with your protection. So, I’m going to give you two a chance to back away right now. You both came to ask the same thing. I think. I could be completely wrong, but I don’t think I am. If you want to remain ignorant and remain safe, leave now.”
+
+Neither Nick nor Maia moved.
+
+“Alright then. The question that I assume brings you all here is this: Where is the Lady? The one who more or less ran the Blood Syndicate. The one who turned Miss Kaia into a vampire, and the one who attempted to turn you and your fiancee. Am I correct?”
+
+Both Nick and Maia nodded.
+
+“Officially, she’s dead.”
+
+He paused for a moment to let that sink in.
+
+“And unofficially?” Nick prompted after a few seconds.
+
+“She’s alive and well, of course,” said the king. “But she is in hiding, and I doubt you’ll find her. Even you, Irylax.”
+
+“Hmph. I’ll find whoever I want to find.”
+
+“Right,” said the king. “Well, you two will most likely never find her. And if you do, you currently have no way of killing her. I have no way of killing her. Even Irylax would struggle. Of all the 9th tiers in the world, she may be the most difficult to put down. I know that both of you have thoughts of revenge, but I strongly suggest that you give up. Irylax, I can’t tell you what to do-”
+
+“Damn straight.”
+
+“-But I’m sure you’ll understand what I mean soon. Regardless, I’m not saying it’s impossible. However, you would both have to focus your class evolutions solely on hunting her down and push yourselves to reach 9th tier, and honestly, I think that would be pretty stupid. You both have families who are now safe. Throwing your lives away chasing revenge would be a fool’s errand.”
+
+He stopped talking again to allow Nick and Maia to have time to think. Nick knew that what the man said was reasonable. He knew perhaps more than anyone how strong the Lady was. Even with his skills designed specifically for hunting vampires, he would need to be well into 8th tier to even stand a chance of survival, let alone victory. And now that Bianca and Sophie were back, he simply couldn’t afford to spend all that time hunting her down.
+
+At the same time, the thought that she was alive and free gnawed at him. She was a monster who had ruined the lives of many people, and if no one did anything about her, she would continue to do so. Most people didn’t even know she existed. He was one of the only people both knowledgeable and with the potential to do anything about her, given his race. But he still couldn’t abandon his family to do anything about it.
+
+He could always try to get help from someone else, but there were only five 9th tier humans in all of Jelor, and he had no way of getting in direct contact with any of them. Any sloppy attempt to share information about the Lady could land him and his family in trouble. His best bet really was the dragon across from him, but as far as he could tell, the king of Corunia was almost as strong as the Lady, and if he thought that Irylax couldn’t kill the Lady, Nick wasn’t going to bet against him.
+
+“How do we know she won’t come after us anyway?” asked Maia.
+
+“Me,” said Irylax. “Well, I don’t know about you. I don’t really know who you are. But this kid is safe as long as I’m alive.”
+
+“She isn’t one to hold grudges,” said the king. “She won’t come after you.”
+
+There was more silence after that. Nick strangely trusted the man’s words. He knew he wasn’t being affected by any kind of skills, since no aether had been used, but from his experience with the Lady, he felt it made sense. She simply didn’t care enough.
+
+The problem of her survival still remained. As long as she was out there, people would be suffering. Except people were always suffering. She might have been a great evil, but even if Nick somehow managed to balance getting strong enough to defeat her with taking care of his family, would it be worth it? What if he devoted that time to his normal knight work, and saving people through that? He would probably save more people.
+
+After a bit more deliberation, he sighed and accepted that killing the Lady wasn’t feasible. Next to him, Maia still seemed to be seriously considering things. Nick had no idea what to think there. He had no idea what Kaia would think. It was entirely possible that the two of them would choose to devote their lives to killing the Lady.
+
+“Well, now that that’s out of the way, let’s move on to some more cheerful topics!” said the king, clapping. “What are your current plans after you leave here?”
+
+Nick glanced at Maia, who nodded to him, then spoke.
+
+“We’ll be going to Greenwood,” said Nick. “To host a funeral for our parents.”
+
+“Ah, I’m terribly sorry,” said the king. “That’s not a very happy topic. But what about after that?”
+
+“We’ll probably be heading back to Jelor City. Sophie will probably be going to Jelor Academy, and–”
+
+“No, she’ll be going to the University,” said Irylax.
+
+“What?” said Nick. “But she’s still too young.”
+
+“She’s my disciple. She won’t be held back for something as trivial as age.”
+
+“But she’ll be out of place,” argued Nick. “She won’t be able to make friends her age.”
+
+“So?” asked Irylax.
+
+“Irylax, why would it matter if she’s in the Academy or the University?” asked the king before Nick could respond.
+
+“She’s my disciple. She should be in the best place, of course.”
+
+“But the Academy isn’t any less prestigious than the University.”
+
+“It’s for children.”
+
+“Sophie is a child.”
+
+“A child who I have adopted. I won’t see her held back.”
+
+“Sending her to the Academy won’t be holding her back,” said the king. “In fact, you could argue that sending her to the University instead would hold her back.”
+
+“How?” asked Irylax.
+
+“Emotional development. It’s important that humans socialize with others around their age, or else they turn out weird.”
+
+“I spent my first century without any friends my age,” said Irylax. “I turned out fine.”
+
+“Of course, but you are a powerful dragon,” said the king. “Sophie is still a human.”
+
+“She already has a dragon heart.”
+
+“Ah, I thought she had an unusual amount of mana.”
+
+“Right. So she’ll be attending the University.”
+
+“A dragon heart doesn’t make her a dragon though. The Academy would be best.”
+
+“No. University.”
+
+The king heaved a sigh. “Well, we can figure this out later. For now-”
+
+“There’s nothing to figure out later,” said Irylax. “She’s going to the University, and that’s final.”
+
+“For now,” continued the king. “What I was going to ask was whether you have a place to stay there.”
+
+“Bianca and I were going to look for a house when we got there,” said Nick. “We haven’t really had much time to look around.”
+
+“Oh, that’s quite understandable,” said the king. “I was just going to make a suggestion. You plan to have Miss Snowberry live with you, correct?”
+
+“Yes?”
+
+“Well, then I hope you don’t mind if I make a suggestion for your accommodations.”
+
+“Not at all.”
+
+“Before I say any more, I’m going to need you all to swear secrecy though,” said the king. “What I’m about to say is classified information.”
+
+“...Alright,” said Nick, a bit wary.
+
+“I guess,” said Maia.
+
+Irylax said nothing.
+
+“When the new semester starts in three months, Snowberry will be attending the University undercover,” said the king. “And I will be in charge of preparing her new identity. In keeping with that, for the sake of her cover, I have an excellent idea for a place to settle down.”
+
+For the first minute or so that Elise was in the carriage with Franz Luger, neither of them said a word. Franz Luger continued to smile, looking around as the city passed by through the windows, and Elise tried to maintain a cautious, but confident demeanor. She had no idea how much this man knew about her, and she wasn’t going to reveal anything.
+
+Stop thinking like that, she chided herself.
+
+She almost shook her head to clear it, but remained still. She was still thinking like herself, but she wasn’t herself right now. She was Eliza Wagner. Eliza Wagner wasn’t a rabbit changeling trying to deceive the man across from her. She was a wealthy noble woman who was here to… do something.
+
+Why would Eliza Wagner be here? Her cover story was that she was Franz Luger’s lover, and clearly Franz was going along with it, but since she had never met the man before, the backstory Oberon had given her was not only fake, but it was a cover story. Something else was happening here.
+
+So, the real question was, why were Lady Eliza Wagner and Franz Luger pretending to be lovers to attend an auction when they had never met previously? How did they coordinate this? How much did each of them know about each other? What were they hoping to gain out of it?
+
+Elise made a mental list of all the information she knew was factual.
+
+First, Franz Luger was a con artist. This raised the question of whether Eliza was aware or not.
+
+Second, Oberon had set this whole thing up within 2 days. That meant that either this was a last-minute arrangement, or that there was another Eliza Wagner changeling who had set this all up and Elise was taking her place. As far as she knew, no one knew that Elise would be in Everspring before Irylax appeared, so it wasn’t possible that he had set it all up in advance. Unless this was always Freddy’s plan, and Irylax’s arrival there was just a happy coincidence.
+
+Third, Eliza was incredibly wealthy. The amount of gold in her storage device was, as far as Elise knew, more than most nobles made in a year. And Eliza had brought it to an auction. Either she was wealthy enough that this was just spare change to spend for fun, or she was after something in particular. Elise was inclined to bet on the latter.
+
+Fourth, Eliza wanted to look intimidating tonight. Elise wasn’t sure how that all tied in just yet.
+
+Fifth, Eliza wanted to pretend to be Franz’s lover for some reason. Whose idea was that? If it was her idea, why, and if it wasn’t, why did she agree to it? Did she get tricked into it, or was it a mutual agreement? What did either of them stand to gain from it? Based on what she heard from Oberon, Franz was a commoner, so perhaps the idea of a noblewoman from a renowned house hanging off his arm was appealing. Maybe he just hoped to con her out of some coin? If not, why Eliza? Was it happenstance, or was there something about the Wagner family in particular that he was after.
+
+And for Eliza, what did she want? Was she just a foolish young girl running away from home and playing dress-up with a famously handsome businessman? That was certainly what the ladies at the spa would be inclined to believe. But had Eliza been deceiving them there? Did she have a more intricate plan?
+
+It was about three minutes into the ride,and Elise’s head was filling with more and more questions when Franz finally spoke.
+
+“See something you like?” he asked, flashing a blindingly white smile.
+
+Elise had been caught staring.
+
+How would Eliza react?
+
+“Sorry,” she said, looking away and blushing.
+
+She tried to maintain a similar demeanor to what she had at the spa, that of a somewhat innocent young girl who ran away from home to play around on a secret vacation. The blush came surprisingly easy. She just willed herself to blush and she did. It must have been another feature of {Lesser Transformation}.
+
+“Oh, it’s quite alright,” he said with a light laugh. “I must say, you look even more beautiful than your portrait made you out to be.”
+
+“Thank you,” she said, still blushing. “You look handsome too.”
+
+“Thank you very much! By the way, I’ve been wondering for a while now. What is it that you’re after at the auction?”
+
+Okay, so Eliza- No, I am after something specific. And I haven’t told him.
+
+“It’s a secret,” said Elise.
+
+“Ah, but I’ll find out in a few hours, won’t I? What’s the harm in telling me now?”
+
+Elise thought for a moment. Obviously, she couldn’t tell him. She didn’t even know what was available at the auction, let alone what Eliza would want. But, this could be a good opportunity for her to get some of that information.
+
+“Why don’t you guess?” she said.
+
+“Ooh, I love guessing games,” he said. “Shall we add some more rules? Maybe a bit of stakes?”
+
+“What kind of stakes?” asked Elise suspiciously.
+
+“Just a small favor,” he said. “It’s just a silly game. No need to make a huge deal over it.”
+
+“Sure,” said Elise.
+
+“Excellent!” he said. “If I get it in 5 guesses, I win, but if I don’t, you win.”
+
+“Sounds good to me.”
+
+Elise would have liked to do more so she could get a better idea of the catalog, but she thought that might have been pushing it.
+
+“Then, for my first guess, I believe you’re after the portable library. I’ve heard you’re quite the reader.”
+
+Elise pondered for a moment whether that sounded right, but it didn’t particularly jump out at her, so she shook her head. It was good to know that Eliza was an avid reader though, and that there would be a “portable library” for sale at the auction. She could only assume it was some kind of storage device for books.
+
+“Well, then it must be the original copy of A Treatise on Mana and Spells.”
+
+“Wrong again,” said Elise.
+
+It sounded interesting, but not quite right.
+
+“Hmmmm,” he said, scratching his chin. “Interesting. Very interesting. I was sure it was one of those two. Let me think for a moment. Your main magical element is nature, right?”
+
+“Yes,” Elise confirmed.
+
+“Then it’s safe to assume that you at least have some kind of garden in which to keep your prized plants, but given that you live in a coastal country, it’s likely that certain plants won’t grow well there, meaning you require some kind of climate control. Now, given your family’s status, I’m sure that you already have all the climate control artifacts that you need. However, they aren’t free. The mana it costs to keep them running likely reduces the ambient mana in the air by quite a bit. Therefore, you would need something that is able to replenish that mana, or else your more delicate specimen would be unable to survive. These types of artifacts are incredibly rare though, and plants and monsters that do the same are even more so. So, my third guess is that you are after the Mana Musa seed.”
+
+Elise internally thanked Franz for building out her backstory for her like that before she responded.
+
+“No.”
+
+She and Oberon had briefly gone over the existence of Eliza’s garden, but hadn’t spent too much time on it, so Elise could only assume it wasn’t important enough for her to travel all this way just to improve it.
+
+“Damn,” he said. “Honestly, I’m struggling a bit to remember the rest of the catalogue. I really thought you were going for one of the first two. I suppose my next guess is that you’re here just for fun, and you’ll buy whatever catches your fancy. Or perhaps you’re here for something that’s not on the catalog?”
+
+“Are those your final two guesses?” asked Elise.
+
+“No. Forget the first. Are you here for something that’s not on the catalog? Perhaps a surprise item, or maybe something separate from the auction entirely?”
+
+Elise had some suspicion when Franz first brought up the idea, but hearing him guess it officially made her almost certain that was exactly what “Eliza” was after. It sounded like something Oberon would set up. Send her to an auction, only for her real target to be something completely different.
+
+“Correct,” she said with a smile. “I guess I owe you a favor now.”
+
+“Only a small one,” said Franz with a light laugh. “Perhaps I’ll use it for a dinner date.”
+
+He winked, and Elise made herself blush again.
+
+“I suppose that would count as a small favor,” she said. “I actually had a friend who wanted to meet with you. Her husband is a businessman, and was impressed with your work.”
+
+“Well, I supposed I could never turn down a business offer,” he said. “But I was hoping for something a bit more… private.”
+
+“...Maybe,” said Elise.
+
+She had no interest in the man, but she couldn’t see any reason to turn it down either. Plus she had already put on an act of finding him handsome, so she had to keep it up.
+
+“This may be a business relationship, but that doesn’t mean it has to be only business,” said Franz, winking again.
+
+“I’ll be in your care then,” she said.
+
+Gross, she thought.
+
+About a minute later, they finally arrived at their destination. Franz exited the carriage first, then helped Elise out, and she found herself staring at the entrance to a conspicuously nondescript building. If not for the two guards dressed in black, half-hidden in the shadows, Elise wouldn’t have spared it a second glance. Franz summoned a piece of paper from some hidden spatial storage item and showed it to one of the guards. The guard nodded, then the two opened the doors.
+
+“Shall we?” asked Franz, holding out his arm.
+
+“We shall,” said Elise, linking her elbow with his as they walked into the building.

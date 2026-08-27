@@ -1,0 +1,77 @@
+---
+id: 564ea555-ca1c-538f-8ec6-1d342c478a82
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1676 - Shake Your Money Maker pt 6"
+slug: 0326-chapter-1676-shake-your-money-maker-pt-6
+partOf: chrysalis
+position: 326
+ownLength: 1008
+unit: words
+ownProgress: 1008
+publishedAt: 2025-10-28
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2710457/chapter-1676-shake-your-money-maker-pt-6"
+royalRoadId: "2710457"
+markedReadAt: "2026-06-29T19:54:14.522Z"
+---
+
+The hatchling stared at the empty, wooden bottom of her money chest. How was it empty? This shouldn’t be possible… it wasn’t possible. She had predicted the market perfectly!
+
+There was a huge gap for artisanal ant carvings, there was literally nobody in Renewal making them! Those people loved ants, so naturally, wouldn’t they buy a lot of carvings of ants?
+
+No, her plan had been flawless, but she hadn’t accounted for the change in costs!
+
+The price of cores in Renewal had skyrocketed, thanks entirely to the demand she had created by operating her businesses and using them to pay her workers in the Colony!
+
+She’d taken a healthy number of orders, not as many as she’d hoped, but enough to make a decent profit, but had failed to lock in the necessary cores at the current market rate. When she went back to buy more, the price had almost doubled. Not only was she not making any money on the statues, she was actively losing money with every statue she sold!
+
+A complete and total disaster.
+
+Slumped in defeat, the hatchling lay flat, sprawled on the ground with her legs lying limply outstretched by her sides. The Tenders looked on with concern, worried how this setback might affect their little champion, and frustrated at their own inability to help.
+
+“What do we do?” they muttered amongst themselves. “Has she lost her seed capital?”
+
+“A good chunk of it,” Attendant replied in a hushed whisper of pheromones. “I think the Colony will have to step in and create coins to ensure she has enough in the bank to cover the deposits.”
+
+“A complete failure,” the hatchling groaned, hearing every word of it.
+
+“No, not a complete failure,” Attendant told her gently. “You have learned lessons and gained wisdom, have you not?”
+
+“I have failed my customers,” the hatchling refuted miserably. “I’ve taken their money and lost it thanks to my own incompetence. Maybe I wasn’t supposed to try and make wealth after all.…”
+
+“The Colony will cover the money,” Attendant tried to comfort the hatchling, but only seemed to make it worse.
+
+The expense was nothing to the family. They could churn out millions of these coins if they wanted to. They had the resources, the smelting facilities, skilled smiths and the technical know-how. Apparently, that was beside the point. The hatchling was not comforted and instead flopped even more vigorously, morose and despondent on the floor of the brood chamber.
+
+This was stunning to the Brood Tenders. They didn’t know much about champions, but all of those who’d been born to the family so far had been indefatigable, determined, single-minded almost to the point of fault. Of course, the Eldest had been involved in teaching all of them at one point or another, but it wasn’t likely they could get the hatchling down that deep in the Dungeon any time soon.
+
+Yet, the more they discussed amongst themselves, the more they came to agree that another teacher needed to be found for this new champion. In fact, they should not have delayed this long in the first place. As soon as the object of the champion’s focus had been revealed, they should have gracefully acknowledged they lacked the necessary skills and found someone better equipped to guide the little one.
+
+Attendant and the others reflected deeply on this failing. Word would be spread to the other Tenders to ensure this did not happen again. New text must be added to the Education Codex of Antkind.
+
+While watching over the unmoving, slumped form of the hatchling, they discussed every possible option they could think of, and ultimately agreed that there was really only one possible choice. A scout was sent running, racing to deliver a message down to the depths while Attendant approached the champion, prodding her in the side with one leg.
+
+“No more time for this moping,” she chided the hatchling. “You have made mistakes, and the family will step in to ensure nothing bad happens to the people who trusted you. Now, if you want to repay the family, then it’s time to stop making new businesses for a time and learn from someone with experience in this field. When they say you’re ready, you can start to try and make money again.”
+
+The hatchling’s antennae twitched.
+
+“There’s someone who can teach me?” she asked curiously. “Who would want to teach an ant how to make money?”
+
+~~~
+
+“When you said you had a student for me, this wasn’t quite what I expected,” Enid chuckled, taking a sip of her tea before leaning back with a sigh.
+
+Despite the best care and attention the Colony could afford to give her, the former mayor of Renewal was, in a word, old. Every week, she discovered a new ache or pain. Her back was sore, her knees hurt, her skin was paper-thin and bruised if she poked it, her hair was thinning and her eyesight wasn’t what it used to be.
+
+It felt as though all the vitality she had burned up while putting Renewal together had finally taken its toll. All she did these days was have high tea with The Queen and consult on logistics with the Colony. It was a comfortable existence, and the ants looked after her incredibly well. There were a few humans here in the fourth stratum for her to talk to as well, so she wasn’t really bored.
+
+But she lacked mental stimulation.
+
+When the Colony had come to speak to her about taking on an apprentice, she’d assumed some enterprising lad or lass from Renewal had caught their eye and had agreed after some thinking. It wouldn’t hurt to pass on her knowledge, after all.
+
+Only, it wasn’t a young man or woman who had come to learn from her, but a tiny, knee-high ant, who now lay flat, her head bowed low into the carpet.
+
+[Please, teach me well!] her piping little voice echoed in Enid’s mind.
+
+The old woman laughed.
+
+[I’ll do my best,] she said.

@@ -1,0 +1,228 @@
+---
+id: cf0e96f7-7b3e-5b00-a29a-3c87a7202381
+page-type-slug: story-chapter-royal-road
+title: "167 - As Her Highness Commands"
+partOf: bunny-girl-evolution
+position: 33
+ownLength: 3876
+unit: words
+ownProgress: 3876
+publishedAt: 2026-01-27
+link: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/2983504/167-as-her-highness-commands"
+royalRoadId: "2983504"
+markedReadAt: "2026-06-29T20:03:43.586Z"
+---
+
+Elise followed Cassian’s instructions, reaching the large cavern in just under ten minutes. She sensed it before she saw it though. Just as he described, it was absolutely teeming with monsters, and even just the close section that she could sense from the tunnel held dozens. All of them had absolutely pitiful amounts of aether, indicating that they were low level, but she also sensed some vaguely stronger monsters a bit further in.
+
+She paused just a little outside the cavern, hesitating to enter. Based on what she tried earlier, she was reasonably confident that even walking into a den with so many monsters, she would be fine. The poor Tier 2 spider was completely overwhelmed and wasn’t able to resist at all. She doubted that a tier 3 would be much better, and even if there were tier 4s in the cave, she would be surprised if they would be able to resist {Royal Presence} enough to put her in real danger.
+
+Despite these reassurances though, walking through the middle of literally hundreds of hostile monsters was still nerve-wracking. Especially in an enclosed space like this where she couldn’t simply fly up and out of their reach if things got too dangerous. She at least had {Don’t Look At Me, Peasants} to rely on if things got hairy, but as effective as that Skill was, it was still a lot scarier to walk past a monster than it was to fly above, far outside its reach.
+
+She only had a few minutes before she needed to head back though, so she took a deep breath, scolded herself for being a coward, activated {Royal Presence}, and stepped inside. For a moment, she held her breath. Then, she felt the chaotic aether of the nearby monsters as their minds had to comprehend what was going on.
+
+She saw many of the 2nd Tier Cave Spiders, and mixed among them were 3rd tier Venomous Cave Spiders. In the far corner of the room, she even saw a pair of larger spiders that were too far away to {Inspect}, but she was reasonably certain they were tier 4.
+
+In another section of the cave, a sea of rats was frozen, staring at her. Like the spiders, the majority were 2nd Tier Cave Rats, with some 3rd Tiers mixed in, and a few 4th tiers further back. Overhead, a colony of bats were hanging from the ceiling, staring at her with their large, pitch-black eyes. Not a single one of them moved, and from almost all of them, she sensed that same complete and utter devotion that she had felt from the cave spider.
+
+Only a few seemed to have some resistance, all of them being the 4th tiers, but that resistance only amounted to turning the fanatical devotion into extreme awe and reverence. Still more than enough to stop it from attacking her, and even enough for them to obey her commands without question, but she would have been surprised if it was enough to get them to kill themselves.
+
+With a confusing mix of disappointment and relief, she continued deeper into the cavern, drawing more and more monsters in. When she got near the center, her Skill no longer quite reached the entrance of the room where she started, but the monsters that had been there crept forward to follow her. It didn’t take long before every single monster in the room was under her spell, all staring at her, as if waiting for her to tell them what to do.
+
+Elise stood for a moment, somewhat in awe of what she was doing. Groups of monsters had always been her worst matchup, since with her old tactics, she had to keep close watch on everything happening. Manipulating one target was easy, but against a large group like this, she would have been in trouble. Now, it seemed it was the opposite. She had not gotten weak against single monsters, but she doubted there were many people who could walk through a cave of monsters untouched like this.
+
+I should have said I was a tamer instead of a mage, she thought with amusement.
+
+She watched for a few seconds longer, then sighed. While it was an incredible sight, keeping so many monsters enthralled with her presence Skill cost a lot of aether. Not enough that she was in danger yet, but she likely didn’t have more than a few minutes of this in her. And {Don’t Look At Me, Peasants!} cost almost as much aether to use, so if she wanted to try anything, she had to do it now.
+
+Her mind went back to one of the earliest tests she had tried on the little Cave Spider just a few hours before. Before she discovered the effects of {Royal Presence}, she had tried simply telling it to die, which hadn’t worked. But what if she tried it now? Sure, most creatures couldn’t die at will like they could kill themselves at will, but that wasn’t how {Royal Decree} worked. It was her own aether going into the monsters’ heads and making it do those things. And the heart was controlled by the brain. If she told them to die, and they did not believe that dying would be harmful to them, would they do it?
+
+There was only one way to find out.
+
+She inhaled deeply, then spoke loudly and clearly, her voice carrying across the entire room.
+
+“Die.”
+
+Immediately, her ears were assaulted with a wave of System notifications, and all around her, the monsters collapsed. The spiders’ legs folded like wire, and their bodies hit the ground with dull thuds. The rats went limp and keeled over to the side. The bats fell from the ceiling like rain, their bodies shattering on the ground. One of them landed only a few inches from where Elise stood, but she was in such awe at the spectacle that she did not even have the presence of mind to flinch.
+
+The only monsters who resisted her command were the 4th tiers that were scattered here and there among the crowd. Now that the others were dead, she could see that there were eighteen in total. Seven spiders, five rats, and six bats. None of them had unique species, and none looked or felt particularly strong. However, seeing as not a single one of them had obeyed her, Elise suspected that perhaps there was something special about the 4th tier Evolution for monsters that she wasn’t aware of. She didn’t feel like the simple stat increase from reaching that tier would have been enough to resist something that had killed even high level 3rd tiers.
+
+If she had to guess, it probably had something to do with intelligence, and for that reason, she doubted that she could use such a tactic on humans, but she didn’t have time to ponder that very deeply. While her experiment had worked better than she could have ever hoped for, it had also drained far more aether than she expected. The only reason she had not run out completely by now was that now that most of the monsters were dead, it cost far less to maintain {Royal Presence}. She still only had a few minutes of aether remaining, and she needed to finish up here before then.
+
+Besides, there were a few more things she wanted to try.
+
+Before her evolution, Elise had used {Forced Feeling} to instantly kill a 3rd tier eagle. However, while she tried it against 4th tier wolves later on in her hunt, she was never able to achieve the same result. Now that she had gone up an entire tier though, things might be different.
+
+FEAR! she sent to the nearest living spider.
+
+[ You have defeated Giant Venomous Cave Spider, Tier IV, lvl 6 ]
+
+Elise smiled, then checked her aether reserves. She was running low, but she had more than enough to finish off the rest, and she had to return to Leonidas and Cassian soon. Not more than a minute later, the last of the 4th Tiers were dead, and Elise was alone in the massive cavern. She looked with satisfaction at her handiwork, but after a few seconds, her satisfaction was marred by another feeling.
+
+I… am terrifying.
+
+She had just slain an entire cave of monsters with a single word and a few thoughts, and that statement wasn’t even much of an exaggeration. And even if she took that statement and more clearly explained how it happened, it wasn’t any less stunning. In fact, it might have been even more so. With her mere presence, she had brainwashed hundreds of monsters so thoroughly that they were willing to die on command, and the rest, she had literally scared to death by thinking hard in their general direction.
+
+It made her both proud and worried. She had heard it said that power corrupted. She did not want to be corrupted, but she did not want to give up her power either. Could she resist, or was she doomed to fail? What would happen if she did become corrupt?
+
+Weak, she told herself. I just have to not be corrupted.
+
+It wasn’t the most reassuring thought, but it was the best she had at the moment, and she really didn’t have time for another existential crisis here. The two warriors were waiting for her to return, and she didn’t want to worry them.
+
+She checked all her senses to make sure there was no one else around, then used {Fey Wings} to fly over the carpet of corpses she had created. She deactivated them as soon as she landed, worried that someone might see, then made to head back up the tunnel. However, she froze right as she was about to exit.
+
+Wait… she thought. How the heck am I going to explain this to Leonidas and Cassian?
+
+As the half an hour time limit he had given neared its end, Cassian began to get nervous. He didn’t know Eleanor well. In fact, he barely knew her at all. But he knew enough to know one thing: she was strong.
+
+Everyone in the Aetheric Illusions were strong in some way. He and Leonidas were likely among the most experienced combatants in the entire University, professors included, Hugo Larcombe was an unknown heir of one of the most secretive and feared noble houses in the country, Jessie was the damn Saintess, Three was… Well, Three was an interesting character. Samantha acted laid-back, but Cassian had seen the way she sized up everyone she met, and knew she was formidable as well. He couldn’t get a read on Helene, but he knew she was no simple noblewoman. Eleanor’s sister Sophie had eyes that made Cassian nervous whenever she looked at him. Oddly enough, Eleanor was the least impressive person in the class, and that fact alone made Cassian immediately certain that she was actually the most interesting.
+
+…At least, that’s the excuse he gave Leo when Leo called him out for talking about her too much. It was true that her unique appearance and allegedly ordinary background were intriguing, but his attention was most definitely on her at first because she was pretty. The rest of the interest came later.
+
+That aside, while he suspected she was strong based on the mere fact that she was in the Aetheric Illusions class, his suspicions were confirmed when they first met in the Dungeon and she called the monsters “too weak.” Such a statement from someone else might have been a boast, or an attempt to impress, but she had said it nonchalantly. It was just a fact. And a fact that was confirmed when her mere presence Skill was enough to scare off every single monster in their path.
+
+Cassian could do something similar. Many melee fighters, including him, got a Skill called {Warrior’s Aura} that was designed to intimidate foes and it could most definitely send weaker monsters running. However, it was a Skill that needed to be directed and filled with intent, and in most cases, doing so was not possible unless one had seen a lot of battle. And that wasn’t even mentioning the fact that she had maintained it for two hours without breaking a sweat. Cassian could barely keep his own Skill up for a few minutes.
+
+It was because of this strength that he worried about her. Strong people tended to overestimate themselves. While every monster in the enormous cavern was weak, fighting hundreds of them at once was not something that just anyone could do. Even if she could take each one out with a single strike, could she take ten of them out with a single strike? Twenty? While they were pressing in from all angles? And even if she could, how long could she keep it up? Cassian’s mana sense was better than most, and unless she was excellent at hiding her mana, she didn’t actually have that much of it. Certainly not enough to take on an entire cave full of monsters. He half-expected to see her fleeing up the tunnel any second, a horde of monsters on her tail.
+
+Instead though, what he saw was her returning calmly three minutes before her time was up, walking casually as if nothing had happened. Her clothes were just as neat and tidy as they had been before, her mana levels were identical to when she had left, and she didn’t look like she had exerted herself at all. He almost would have thought that she simply went to take a look, and then came back if not for the blood on her face.
+
+There were only a few drops, and they were small, but they were unmistakable. Whatever had happened, she had been in a battle, and she had made something bleed. And now she was smiling. Something about her smile with the blood splatters sent a slight chill down Cassian’s spine, but he didn’t let it show, and simply smiled at her as she approached.
+
+“You’re back,” he said.
+
+“You were right,” she said. “There were a lot of monsters in there.”
+
+“A few less now, though,” he joked.
+
+“Hmm?” she asked.
+
+Her tone was casual, but he saw her tense slightly at those words.
+
+“You have some blood on your cheek…” said Cassian.
+
+Her face froze, still stuck in a light smile as she reached to her face and touched her cheek. She smeared a couple of the drops around, then looked at her hand.
+
+“Yeah…” she sighed. “There are a few less now…”
+
+Cassian laughed loudly. So she had fought and didn’t want them to know, and also hadn’t noticed the blood on her cheek. It was cute, in a slightly morbid way.
+
+“So, how many did you kill?” asked Leo.
+
+Eleanor hesitated, and Cassian felt like he could almost see her going back and forth with herself. After a few seconds, she sighed.
+
+“I’ll tell you if you promise not to tell anyone.”
+
+“Sure,” said Leo.
+
+“You too, Cassian,” she said.
+
+“No sweat,” he replied, still smiling. “I’m no snitch.”
+
+After he gave his word, she visibly relaxed before speaking.
+
+“I killed them all. We can pass through that way safely now.”
+
+Cassian’s brain stopped working for a moment.
+
+“Sorry, what?” he asked.
+
+“I killed them all. They’re all dead.”
+
+“...Oh.”
+
+“Damn, Ellie,” said Leo. “You’re crazy.”
+
+“Ellie?”
+
+“Yeah. Short for Eleanor. Can I call you that?”
+
+Eleanor looked mildly amused.
+
+“Sure,” she said with a shrug. “I like it.”
+
+“Wait, you killed them all?” asked Cassian.
+
+“Yes,” she said. “So we can go straight down to the silver checkpoint. Right?”
+
+“Y– Yeah,” he replied.
+
+What!? he thought.
+
+He had expected her to say she lured a group out of the room and fought them quickly, but killing the entire room in the brief window of time that she had been gone was… ridiculous. The amount of power she would need to do that was immense, and to do it so quickly and so quietly that they didn’t notice… He needed to see it for himself.
+
+“Well, it’s getting late,” he said, recovering his composure somewhat. “So we should get going.”
+
+“Hell yeah, bro,” said Leo. “I’m getting hungry.”
+
+“I’m ready to go too,” said Eleanor.
+
+“Then let’s head down.”
+
+On the way down to the enormous cavern, the atmosphere somewhat returned to the casual, cheerful one they had before. Leonidas, at least, seemed like his usual self. Cassian knew it was a front though. Leo had no filter, and often spoke before he thought, which made him seem unintelligent, but in many ways, he was much smarter than Cassian. He certainly had better instincts, at least. He had definitely had the same thoughts about how impressive killing every single monster in the cavern was, and he was just hiding it better.
+
+However, even Leo couldn’t maintain his attitude when they saw the scene within the cavern. Cassian had been expecting carnage, based on the state of the first spider that Eleanor killed. Blood and body parts everywhere, painting the floor and walls red, dismembered corpses strewn about, bloody roots piercing everything they could reach… Things like that. What he saw instead was an eerie scene of hundreds of monsters gathered in a circle that were simply… dead. No wounds, no signs of struggle. If not for the fact that they weren’t breathing, he might have thought they were sleeping.
+
+Not all were completely unharmed, but he noticed that the only injured monsters were the bats, and they only looked like they had been injured falling from the ceiling. None of them looked like they had been directly attacked.
+
+What the hell happened in here? he thought.
+
+“There should be room around the edge,” said Eleanor. “So we can walk by without stepping on anything.”
+
+Cassian stared at her for a few seconds, then gulped.
+
+“R– Right,” he said. “Let’s get moving.”
+
+They walked in silence for a few seconds, then she spoke again.
+
+“I can only do this to weak monsters.”
+
+“Ah,” said Cassian, not sure how to respond.
+
+“And it won’t work on people,” she added quickly.
+
+“Right.”
+
+There were another few seconds of silence.
+
+“Please don’t tell anyone what you saw.”
+
+This last sentence was much quieter, and when Cassian looked over at her, she looked mortified.
+
+Cute, he immediately thought.
+
+Then, he mentally slapped himself. As cute as she looked, she had just killed hundreds of monsters in mere minutes, seemingly without even touching them or using any mana. That wasn’t cute. That was terrifying.
+
+…But she’s still cute.
+
+“I won’t tell anyone,” he finally said before nudging Leo.
+
+“Sure, I won’t either,” said Leo.
+
+Eleanor breathed a sigh of relief.
+
+The rest of the journey down to the silver checkpoint was much quieter. Both Cassian and Leo were a bit shellshocked and it was very clear that Eleanor didn’t want to talk about it. Cassian still had no idea what she could possibly have done to kill an entire room of monsters without even injuring them, but he almost didn’t want to know. He was scared of the truth.
+
+When they reached the checkpoints and were awarded their silver badges, he and Leo quickly bade her farewell and they went their separate ways. When they were sure that she was well outside of earshot, they both stopped and turned to each other.
+
+“Bro, what the fuck just happened?” asked Leo.
+
+“I wish I knew.”
+
+Elise speedwalked the whole way home, extremely embarrassed. Her original plan was just to tell them that she had gotten a look at the monsters, and that she agreed they would be too difficult to get past. Unfortunately, she had failed to notice that her bloodless slaughter hadn’t been quite as bloodless as she thought. That bat that landed next to her had shattered its skull, and apparently a few drops of blood splashed high enough to hit her face, and she didn’t notice.
+
+Of course, she still could have recovered from there, but with one cat out of the bag, she started debating the merits of letting the rest out too. Or at least some of the rest. She still wanted to get down to the silver checkpoint as soon as possible, and if she turned back then, she would have to wait at least another day, and probably more. Additionally, Cassian and Leonidas’ Skill had intrigued her, and she wanted to do another subtle test or two, if possible. Ultimately, she decided to attempt {Fey Bargaining}. If it went through, she would tell them the truth about how many she killed, and if their Skill blocked it, then she would lie, and they would just turn back.
+
+She was actually surprised when the Skill took hold, and now bound by her own deal, she had to tell them the truth. For a few minutes, she hoped it would be fine, but those hopes were dashed as soon as they reached the large chamber. The two of them never looked at her the same after that.
+
+I shouldn’t have done that.
+
+That phrase was one she had been saying on repeat for hours. She barely even remembered how she had tricked herself into thinking that was a good idea. It was something about how everyone in Aetheric Illusions would find out at least some parts of her abilities, and that it wasn’t a big deal. Clearly, though, her flustered mind was not to be trusted when making logical decisions, as evidenced by their attitudes afterward. The only silver lining was that she had managed to use {Fey Bargaining} to keep them quiet, but even then, she wasn’t sure if that would actually work. For all she knew, the Skill could only take hold, but the consequences of breaking the deal would be blocked by their defensive Skill.
+
+There was nothing she could do about it now though. She would just have to live with the consequences of her own foolishness. At least not all of those consequences were bad, though. After all, she had killed quite a few monsters, and that was worth something in the System's eyes.
+
+When she returned to the Grays’ house and got to her room, she flopped into her bed before finally pulling up her System interface and looking through all the notifications she had gotten. The vast majority were kill notifications, and annoyingly, only one was a leveling notification. Even as easy as it had been, she was a little annoyed that the entire cavern of monsters was only worth a single level. It was mostly understandable though, considering the levels of the monsters she killed.
+
+Alongside the kill notifications and the single level notification, there were also many Skill level-up notifications. {Royal Presence} had shot straight to level 27, {Royal Decree} had somehow gotten to 32, and {Forced Feeling} made it to 71. She suspected that those three Skills would continue to level rapidly if she spent more time in the Dungeon.
+
+The last type of notification, however, was one she hadn’t expected. Buried beneath the hundreds of kill notifications, Elise had unlocked, not one, not two, but three Skill Quests, and one was already completed.

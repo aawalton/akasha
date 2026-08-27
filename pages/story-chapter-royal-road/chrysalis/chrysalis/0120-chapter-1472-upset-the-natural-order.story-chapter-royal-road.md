@@ -1,0 +1,97 @@
+---
+id: 384bc1c9-7c85-5d1e-8ed2-4d47df37e3ed
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1472 - Upset the Natural Order"
+slug: 0120-chapter-1472-upset-the-natural-order
+partOf: chrysalis
+position: 120
+ownLength: 1099
+unit: words
+ownProgress: 1099
+publishedAt: 2024-12-11
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1950355/chapter-1472-upset-the-natural-order"
+royalRoadId: "1950355"
+markedReadAt: "2026-06-29T19:47:54.790Z"
+---
+
+“What is happening?!” Zluth raged.
+
+“How would I know?” Gozsi spat back. “I’ve never seen anything like this!”
+
+The ants behind them continued their charge, seemingly inexhaustible and unafraid.
+
+“This was your strategy Goszi!”
+
+“Oh, sorry, I didn’t know the ants were hiding an entire army of mana-shielded maniacs. Did you?!”
+
+“Of course not!”
+
+Zluth continued to slide as fast as he could, dragging the comatose, captured ant behind with Gozsi’s help. If the others hadn’t gotten into position in time…
+
+Aha! He saw the signal! Gugugugugug! A patch of moss ahead had been disturbed, the natural pattern altered slightly, the agreed upon sign.
+
+“Come on, Goszi, a burst up here and we should be in the clear. Get ready to dive for the slime river.”
+
+“Fine,” the old Krath wheezed.
+
+The moment they cleared the moss patch, Zluth’s waiting allies released the monsters they’d gathered, urging them into the path of the oncoming ants. It wasn’t that many, but it would delay their pursuers just enough for them to dive into the slime river and get some distance.
+
+Goszi and Zluth hauled their captive into the mucus-filled river and set off, gliding across the surface at a much faster pace than before. Filled with glee, Zluth looked over his shoulder to see how the ants were faring.
+
+He was just in time to see the ants blast through the monsters of the fifth as if they weren’t even there. When the leaders of the charge hit, the front rank of native beasts was blasted back as if they’d been slapped by a giant, then the rest were simply trampled as the ants marched right over the top of them. Monsters popped like goop balloons, sending toxic sludge and deadly parasites scrambling all over the attackers, but the ants carried on as if they simply didn’t care. Shielded by their protective bubbles of cursed blue energy, the invaders barely slowed down and now were right on his heels!
+
+Zluth was infuriated. Gozsi’s layered strategy had been just the right sort of cunning, and though it had required enormous amounts of preparation, it had worked. For the first time, the ants had been truly rattled. Even though the big one had appeared, Zluth had still managed to escape with a captive. If he got this ant back to Chozth, he’d be a hero. Perhaps he’d even receive another promotion.
+
+What he hadn’t expected was just how ferociously the ants would try to retrieve their lost member.
+
+“Dive! They won’t follow us!” he sizzled to Goszi.
+
+The old slug was too tired to reply and just nodded. The two slugs compressed their bodies down to slimy arrows and flung themselves into the mucus.
+
+BAM! BAM! BAM!
+
+Right behind him, the first of the metal-encased forms flung themselves into the river, their huge bodies displacing the sludge and sending it flowing over the banks.
+
+What in the…
+
+Zluth barely had time to think before more came, diving headfirst into the deadly sludge. They were using the previous ants as a launch pad, getting further into the river with each mindless jump.
+
+These ants weren’t right in the head!
+
+Acid boiled throughout his slug body as he battled against the rage. Would he really be forced to abandon the captive they’d worked so hard to get? Was it worth dying to secure this ant? No matter how fast he went, the armoured ants were gaining, each bizarre plunge bringing them closer and closer.
+
+With a cry of rage, he released his grip on the captive.
+
+“We’re running for it, Goszi!” he grated, acid leaking through his clenched fangs.
+
+The old slug just nodded and dove lower into the slime, soon followed by Zluth. If they could hug the bottom of the river, the ants shouldn’t be able to find them. No longer weighed down, Zluth could outpace them easily. With their goal achieved, he assumed the ants would abandon pursuit and return to safety.
+
+At first, it seemed like that was what was happening. The armoured ants stopped throwing themselves into the river and there were no further vibrations rippling through the mucus. Goszi was the first to notice the change.
+
+Zluth felt a relentless poking in his side, which had to be the elderly slug, and in frustration he surfaced to speak to him.
+
+“What?” he snarled.
+
+“The river,” Goszi croaked.
+
+“What about it?!”
+
+He noticed a moment later. The river was rising. Not that the mucus flow was increasing, swelling the river over its banks, no, the river was literally rising up to the ceiling.
+
+Zluth twisted an eye around desperately and it only took a second to find the giant ant. It had appeared like a ghost, out of nowhere, and now it was working its bizarre magic, turning up into down and down into up.
+
+“Move faster!” Zluth roared.
+
+He could use the thick mucus to push himself forward, but if he didn’t get far enough before he slammed into the ceiling then he’d be caught! He refused to let it happen, he’d already come this far, but Zluth wasn’t satisfied, his ambition burned just as fiercely as his acid. He would survive, he would come back, and he would destroy these ants and their masters.
+
+Push, push, push, push! Using his slug foot, Zluth forced every drop of momentum he possibly could; he squished his body down to almost nothing, reducing the surface area of his form as much as possible. Anything for a little more speed!
+
+The river of mucus rose up through the air, faster and faster as it accelerated toward the ceiling. Zluth felt a bizarre sense of weightlessness as the mucus rose all around him, lifting him up as the world inverted itself around him.
+
+It was difficult, it was so difficult to move, but he did. Moment by moment, inch by inch, Zluth kept moving forward until he popped out the end of the floating river and fell, flailing, down into the unlifted section of river beyond the range of the ant’s magic.
+
+He’d done it! Like an arrow, Zluth plunged deep into the mucus still on the ground and began racing away. He would put as much distance as he could between himself and that monster. The attack may have failed to secure a captive, but they’d been more successful at disrupting the ants than any other warparty so far. Gozsi had been right about his recommended shift in strategy.
+
+Zluth would have to ask him for more advice going forward….
+
+Then it came to him in a rush. Where was Goszi?!

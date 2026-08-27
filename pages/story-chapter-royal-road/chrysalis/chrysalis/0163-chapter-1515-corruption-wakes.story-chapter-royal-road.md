@@ -1,0 +1,85 @@
+---
+id: 92a9fbd8-b0e8-5550-8cbd-827636a5f914
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1515 - Corruption Wakes"
+slug: 0163-chapter-1515-corruption-wakes
+partOf: chrysalis
+position: 163
+ownLength: 976
+unit: words
+ownProgress: 976
+publishedAt: 2025-02-25
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2087994/chapter-1515-corruption-wakes"
+royalRoadId: "2087994"
+markedReadAt: "2026-06-29T19:49:03.535Z"
+---
+
+Deep in the Dungeon, where the mana boiled and billowed, so thick the pressure of it could crush a man to death, a creature stirred from its deep sleep.
+
+Tremors echoed out from the entity as its consciousness began to return. Flashes of sensation penetrated the dreams that still held its mind, great heat and slight discomfort after centuries without moving. In small increments, wakefulness returned, sleep relinquishing its grip.
+
+It was a difficult thing, to awaken from such depths, and the creature idly wondered, as it lazed in a state of half-awake, half-asleep, just how long the process had already taken.
+
+Months perhaps. Years, maybe. It didn’t matter. This process had repeated itself many times over already, and would repeat many times more, unless the twentieth was found and the prison was finally broken.
+
+Mana surged out from the core, an unfathomable torrent of power, and the creature sucked it in greedily. As the energy poured through its limbs, the creature rose steadily to consciousness, finally bursting through and opening its eyes.
+
+Theorazzn was awake.
+
+The Decaying World stirred alongside its master. A thick soup of toxin, poison, acid and decay, even mana itself was not immune from its corruption, the energy breaking apart, rotting, then reforming into something new. In this place, all things were remade in Theorazzn’s image.
+
+One by one, the Ancient stirred each of its limbs. Thick and powerful, each of the five arms flexed, drinking in the foulness that drenched them and using it to strengthen themselves. From beneath its massive body, ten legs unfolded and tested the ground, pushing Theorazzn up as its eyes extended atop long stalks.
+
+At once, a dominating aura swept through the Decaying World, sending the denizens of that place fleeing into their dens, using their cunning and skills to conceal themselves. These were the most toxic and poisonous monsters in the entire Dungeon, yet they knew what to do when the Ancient was awake: hide. For those who were caught by Theorazzn, only the most dreadful of fates awaited.
+
+Slowly at first, but with increasing speed, the Ancient extended its senses throughout its domain, trying to grasp what had changed over the passage of time. Hunger was there, deep within, a yawning void that would need to be filled, but that could wait, for the moment. First, the Ancient would listen, and learn.
+
+It didn’t take long until Theorazzn felt another consciousness reach out to its own, a tenuous connection that limited contact between the two vast minds.
+
+[You have awoken, Theorazzn?]
+
+Deep and bestial, the voice rattled like the dying sigh of an aged wolf.
+
+[Odren. How unusual for you to take a break from hunting.]
+
+Theorazzn skittered from side to side, feeling strength and power return with every passing second. The Father of Monsters growled, a flash of savage teeth snapping across their connection.
+
+[The hunt has gone well. This Cycle shows great promise.]
+
+For the first time in centuries, Theorazzn felt a trickle of interest. For Odren to say this much, the old monster must have caught something with real potential. Perhaps there was a chance for them after all? A way out of this cage.
+
+[Who else is awake?] Theorazzn asked.
+
+[Many. Tarriflyx awoke recently. Arconidem and Carriflare before that. Lerrewyn is awake, along with Braxxin and Kygar.]
+
+A pause.
+
+[Morribolg is stirring also,] Odren mused.
+
+Theorazzn hissed, an explosion of toxin dissolving everything around the Ancient for a moment, creating a void occupied only by itself. So, the old heap of filth was soon to wake?
+
+[Good,] Theorazzn stated, concealing any anger, [I have not spoken with Moribolg in some time.]
+
+[I wonder why…] Odren wondered, but Theorazzn could practically feel the fellow Ancient’s savage grin.
+
+[Many are stirring now,] Odren continued, [it won’t be long until we are all awake. Then we must choose.]
+
+The toxic Ancient shoved its irritation down and focused. It was a deadly mistake to lose concentration when speaking to its peers, and Theorazzn, cunning and wily, didn’t make such mistakes.
+
+[You seem unusually enthused. Are the prospects really so promising?]
+
+[There are two in the fifth as we speak,] Odren said. [Why not look and see for yourself?]
+
+The fifth? It had been long since Theorazzn had made its presence felt in that place. Unlike Arconidem, who obsessed over his subjects, Theorazzn did not care to dwell on what it achieved in the past.
+
+Yet… if it wanted to… it could.
+
+The two Ancients allowed the contact to fray until it finally broke. Others reached out to their newly awakened member, but Theorazzn rejected their advances. It wanted to think, and to feed.
+
+The mighty beast rose up on its legs and scuttled left and right, letting the ichor and mana flow through its body, working out the kinks from centuries of sleep. As it did so, Theorazzn extended its mind out into the surrounding tunnels. Poison, toxin and venom dripped from the air itself; every surface was in a constant state of being eaten away and regenerating. Nothing could survive here in the decaying world without being able to weather the most abominable conditions, but now that the master of this place had awoken, the danger would stir to even greater heights.
+
+With every step, Theorazzn sucked in the poison, drank it in as if it were crystal clear water. The mana tried to ravage its insides, to burn, to break down, to savage and destroy, but it couldn’t; instead, the Ancient took from it, drew nourishment and sustenance from the toxin, then returned it, breathing it out twice as potent as it had been before.
+
+The walls around it began to sizzle and dissolve into slurry while Theorazzn grinned, the circular mouth hidden in the center of its limbs baring its green fangs to the world.
+
+It was time to feast.

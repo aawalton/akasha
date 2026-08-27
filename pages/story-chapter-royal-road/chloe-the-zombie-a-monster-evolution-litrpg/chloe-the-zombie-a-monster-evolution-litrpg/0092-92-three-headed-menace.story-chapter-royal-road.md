@@ -1,0 +1,159 @@
+---
+id: acdc513d-ca10-5946-8c19-bb13daaf47b4
+page-type-slug: story-chapter-royal-road
+title: "92: Three Headed Menace"
+slug: 0092-92-three-headed-menace
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 92
+ownLength: 1949
+unit: words
+publishedAt: 2025-12-26
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2882018/92-three-headed-menace"
+royalRoadId: "2882018"
+---
+
+For reasons Chloe still didn’t fully understand, she was now riding on top of Morikhan. Yes, riding him. It felt absolutely unreal. Everything looked super high from up here, and she kept gripping his thick fur just to make sure she wouldn’t slide off.
+
+Part of her felt weirdly emotional, though. Riding him reminded her a little bit of Mr. White, and that memory tugged at her chest. I miss you, horse buddy.
+
+But honestly, riding a giant ancient wolf was so cool that it almost made up for the sad part. Almost. She leaned forward slightly. “So, uh… why am I on your back anyway? Did I win a prize or something?”
+
+Morikhan’s ears flicked back toward her as he spoke. “It is because we must cross that.”
+
+Chloe lifted her head and stared ahead. The hallway in front of them was long, but the floor was completely covered in a thick layer of black sludge. It wasn’t regular sludge either. This stuff bubbled and swirled all creepy like, and every few seconds a pocket of it burst with a soft hiss that made her hair stand on end. “Ew, that thing looks gross."
+
+Morikhan continued walking forward at a careful pace. “This sludge is corruptive to most mana. If you attempted to use any technique to walk over it, the corruption would eat through the spell and consume the mana directly.”
+
+“Oh. Yeah, that does sound kinda… bad. But I can fly, though.”
+
+Morikhan stopped walking. Chloe blinked. She didn’t see his expression from up here, but the sudden silence told her everything. Uh oh.
+
+“Morikhan?” she asked, leaning to the side a little. “You okay down there?”
+
+He inhaled very slowly. “If you can fly, then fly to the opposite end of the sludge and get off my back.”
+
+“You’re kicking me off already?! But I was having fun!”
+
+“Fly, now."
+
+Chloe pouted but released his fur anyway. “Fine, fine… but just so you know, you’re actually really comfy to sit on.”
+
+She pushed herself off Morikhan’s back and hovered for a moment before giving a small kick of her feet. Shadowy wings unfurled behind her, and she glided over the bubbling black sludge. The farther she went, the nastier the stuff looked. Ugh. Imagine falling in that.
+
+Chloe landed on the opposite platform and let her wings dissolve into wisps of shadow. Morikhan then pointed his snout past her shoulder. “Behind you are the doors that lead to the true boss of this dungeon.”
+
+“Wait, I thought you were the boss. Aren’t you the big wolf guy in charge?”
+
+“I control this dungeon, yes. But technically, I am not its official boss. The creature ahead is.”
+
+“So you’re not the boss?”
+
+“Technically speaking, no. But once you defeat the proper dungeon boss, you will be free to leave this place. And given how dungeon systems work, you will likely receive… some form of reward.”
+
+“Okay, I like rewards. So, uh… you’re not coming with me?”
+
+“No, a certain pest has become too irritating. I must deal with it before it escalates.”
+
+“A pest? Like… a bug? A ratfolk? Or, oh wait, is Scar a pest? Or Sabine? Or—”
+
+“It is not your concern. What is your concern, however, is what you intend to do after you leave this dungeon.”
+
+“Huh? After? I thought the plan was just… leave.”
+
+“Listen. You have already met me, so you might as well meet the others. Deep within Avian territory lives another sage of the wilds, Maeve the Joyful. Go find her and see what you can learn from her. Though you will need an elf along the way.”
+
+“What?”
+
+“Maeve will only trust you if you bring an elf. Now enough. I will be going.”
+
+He turned to leave, but Chloe threw up a hand. “Wait! Before you go, where’s Sierra?”
+
+Morikhan paused mid-step, his tail flicking once. “If you defeat the dungeon boss, you will see your little friend again."
+
+Chloe’s mouth opened to argue, complain, or maybe demand he stop being so cryptic, but the giant wolf didn’t give her the chance. He stepped forward, shadows curling around him, and vanished before she could say anything else.
+
+Chloe stared at the spot he’d disappeared from, pouting hard. Aww, that is so uncool.
+
+To be fair, she actually did want to meet the rest of the Sages of the Wilds, mostly because Z told her to and Z sounded super important when he said it. She still wasn’t totally sure what meeting them was supposed to do for her, maybe unlock secret zombie powers?
+
+The elf part would be tricky though. Where was she supposed to pick up an elf?
+
+Either way, standing here wasn’t going to solve anything. Chloe turned and walked toward the doors behind her, squinting as they came into view. They were big and very “boss room-ish,” which honestly made her a little excited.
+
+The stone doors were massive, heavy, and covered in all sorts of funny looking patterns. She had no idea what any of them meant, but they probably weren't that important. “Well, boss room time.”
+
+She pressed both hands against the doors and gave them a push. Inside was a massive chamber. In the center of the room stood a gigantic statue carved from dark stone. It was shaped like a wolf, actually no, three wolves. No, wait… one wolf with three heads?
+
+All three heads snarled outward, and its giant paws sat on a raised platform, claws carved sharp enough that Chloe didn’t feel like standing too close. At the base of the statue, words were etched into the stone.
+
+Chloe leaned forward, sounding out the letters as she read. “…Cer…ber…us? Cerberus?”
+
+The moment the name left her mouth, something heavy clanked behind her. She spun around just in time to see the massive stone doors slam shut.
+
+A low rumble vibrated through the floor. At first she thought it was just her imagination, but then it kept going, growing deeper and louder until small bits of dust drifted down from the ceiling. She turned back to the statue, and things were not looking good.
+
+Cracks of faint red light began to spread across the statue’s surface. The stone paws twitched first, claws scraping against the platform. Then one of the three heads shuddered, stone breaking apart as something beneath pushed forward.
+
+“Oh no no no,” Chloe whispered. I did not sign up for waking up giant three headed wolfies.
+
+The second head’s eyes lit with the same red glow, and the third gave a low, echoing growl that made stone split and crumble as the three heads lifted one by one, shaking off chunks of dust and rubble. The middle head opened its jaws wide, and a gust of hot breath washed over the room.
+
+The ground thumped as the creature stepped down from its pedestal. Each paw left cracks in the floor. Its body was massive, even bigger than Morikhan, covered in thick black fur.
+
+Chloe lifted a hand in a weak little wave. “Hi… big guy. Or, uh… big guys? You look… friendly?”
+
+Cerberus responded with a roar from all three heads at once. The sound slammed into her like a shockwave, rattling her bones and making her hair puff out.
+
+Chloe stared at the beast, her smile wilting. Okay. Yeah. That is not a friendly noise.
+
+The Cerberus lunged before she could say anything else. Chloe jumped into the air, summoning her shadowy wings. The massive claws scraped the stone where she’d stood, sending sparks flying. She flapped hard, wobbling in the air before stabilizing herself.
+
+“Hehe… nice try, three-face!” she yelled down.
+
+The middle head snapped upward, jaws opening with a deep rumble. A river of fire blasted out, bright orange and hot enough to heat her face even while she was flying. Chloe dodged sideways, wings flaring wide as she zipped across the chamber in a panic.
+
+She swung back around and fired a sharp ice spear straight into the rightmost head. It struck perfectly, freezing half the snout solid before she followed up with a flaming punch that shattered the whole thing, skull and all.
+
+Chloe pumped a fist. “Ha! Got one!”
+
+Unfortunately, the ruined stump shivered, then bubbled. Bone pushed through first, then muscle, then fur, all of it knitting together disturbingly fast until the head was completely whole again.
+
+Chloe’s grin slid right off her face. Okay. That’s not good.
+
+She switched tactics fast, using earth magic to summon stone spikes that slammed into the creature’s legs, knocking them sideways. Then, she rushed in and punched a head so hard she was pretty sure she made its brain jiggle a little. Each attack worked for a moment, carving off chunks of stone-flesh or snapping bones in half, but the monster healed almost instantly, undoing all her hard work.
+
+Dodging was the only thing she was actually winning at. She swooped, dipped, spun, and occasionally squeaked as Cerberus snapped its jaws or blasted fire in her direction. Her shadowy wings kept her faster than the creature’s bulky movements, but the creature just wouldn't give in.
+
+As she flew over the arena, something else caught her attention. Three additional statues stood along the edges of the chamber. Each one had a different shape, but all of them held long, glowing spears. The spears all shimmered with a strange, pulsing energy.
+
+Chloe’s eyes lit up. Ohhh, shiny.
+
+She dove toward one of the statues, landed beside it, and snatched the glowing spear right out of its hands. With a quick hop backwards, she took aim and hurled it at the middle head with every bit of strength she had.
+
+The weapon sliced clean through the skull, and the head exploded into a burst of shadowy wisps, leaving behind a smoldering stump. Chloe was a few seconds away from celebrating, until the head regenerated anyway.
+
+How??? Chloe wondered.
+
+Getting more frustrated by the second, she raced to grab another glowing spear and launched it straight at the rightmost head. The spear exploded and blew apart the entire skull. But just like before, the head grew back as if nothing had happened.
+
+Seriously?! What am I supposed to do? she groaned, flapping backward just as Cerberus roared again.
+
+At least there was one good thing. The statues kept producing more spears. Each time she pulled one free, another somehow manifested into existence. So she wasn’t going to run out anytime soon. That was… something.
+
+But the Cerberus was definitely getting angrier. Flames leaked between all three sets of teeth, and the heat in the room kept rising, making her wings feel heavier with each flap.
+
+Okay. Think. Big wolf. Three heads. Regenerates stupid fast. How do I make it stop? How do I—
+
+She froze midair as she noticed something. The heads didn’t regenerate evenly. The rightmost head snapped back almost immediately. The middle one took a bit longer.
+
+But the leftmost seemed like it lagged behind, like it had to try extra hard to catch up. Chloe guessed it took about five whole seconds longer than the others to fully regenerate.
+
+Chloe hovered higher and squinted down at the raging beast. “Huh… so one head’s the slowpoke.”
+
+A spark of excitement tugged her grin wider. What if I just… blow up all of them at the same time?
+
+It sounded reckless, maybe stupid, but also very cool. And honestly, those were her favorite kinds of ideas.
+
+She glanced to her shoulder and finally noticed Leftie still clinging there. He had somehow held on through all the flying, flipping, and fighting.
+
+Chloe blinked at him. “Hey, Leftie… think you can do me a big favor?”

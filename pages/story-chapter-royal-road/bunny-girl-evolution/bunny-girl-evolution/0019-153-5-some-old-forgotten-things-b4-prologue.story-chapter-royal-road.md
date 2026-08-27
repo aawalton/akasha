@@ -1,0 +1,78 @@
+---
+id: 29da6dfc-2bb3-5f9c-b336-e6037f4ec06b
+page-type-slug: story-chapter-royal-road
+title: "153.5 - Some Old Forgotten Things (B4 prologue)"
+partOf: bunny-girl-evolution
+position: 19
+ownLength: 1595
+unit: words
+ownProgress: 1595
+publishedAt: 2025-12-09
+link: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/2831958/1535-some-old-forgotten-things-b4-prologue"
+royalRoadId: "2831958"
+markedReadAt: "2026-06-29T20:03:16.619Z"
+---
+
+Deep in the caverns below Jelor City, two powerful monsters battled. Each was 8th tier, and while neither were sapient, both were clever in ways that ordinary beasts could not match, and they had a wide assortment of Skills. Their battle raged on for nearly an hour, with many ups and downs. At the end though, it was a spider the size of a house that ended up on the losing end. It had used up all its mana, and had little stamina, and its final moments were spent flying through the air before it crashed into the stone wall, dying instantly.
+
+The force of the impact shook the cavern, shattered the stone, and painting the entire area green and gray with spider guts. The victor of the fight trudged back out of the cavern, triumphantly roaring.
+
+About an hour later, another minor tremor shook the cavern, and a piece of cracked stone in the place where the spider hit fell to the ground, revealing a brick wall. The bricks had partially caved in from the impact as well, and not long after, they too fell away, revealing a small, sealed chamber. It was no larger than a closet, and only contained a single item: An impossibly smooth, pitch black box.
+
+In the continent to the east, a young general stood victorious over a pile of rubble that had been a castle just a few hours before. Her clothes were slashed and torn, her armor was broken and battered, and everything was covered in blood, but she did not have a single wound on her body. Only scars.
+
+In front of her, her subordinates were digging into the rubble, seeking out the vault hidden deep below the castle. She watched closely as the mages and warriors moved tons upon tons of broken stone out of the way, then began digging into the ground. What on earth could have been contained in the vault that these men would give their lives to protect? That they would fight like berserkers to their last breath to keep her and her people from acquiring.
+
+She had her answer shortly. The vault, despite its size, was nearly empty. All it contained a single, oddly smooth black box. It was a cube, about as high as her waist, and its only feature was a thin line marking where the lid began. On top of it, there was a single scroll with a warning written in an ancient, near-forgotten language.
+
+As she waited for her resident scholar to translate it, she found it difficult to tear her eyes away from it. She felt drawn to it, for some reason. She sensed that it was important. She wanted to touch it.
+
+She barely managed to restrain herself until her scholar arrived and read the contents of the scroll. It was not long, but the meaning was clear. The box contained an ancient calamity, sealed away so that it would never see the light of day again.
+
+With that knowledge, the general declared that the box was to be sealed within a crate, and that no one was to make direct contact with it. However, rather than burying it, or dumping it into the sea, she instead decided to bring it with her on her conquest. She was not sure why she did it, but she felt for some reason that it was important. And despite knowing what was supposed to be contained within, she still really, really wanted to touch it.
+
+The Collector walked down the hall, using his senses to peer within each of his many rooms, smiling as he passed a few of his favorite items. Then, he paused when he reached the end of the hallway, where one of his most secure vaults lay. Within it, there were only two identical black boxes. He frowned as he remembered the troubling information he had learned about them recently.
+
+A third had turned up after being found in one of the ancient ruins on Carsas. Even the Collector wasn’t old enough to remember a time when people had lived on Carsas, so the fact that one of these was found there was troubling, as it meant they were likely older than the System. Even more troubling though was what he heard about their reaction to the touch of a wielder of the Rune of Fate.
+
+As much as he was desperately curious to find out what was contained within them, he had not lived so long by being reckless. If even Oberon himself did not dare open them, he would not either. Unfortunately, that raised a slight issue. That very same terrifying object was now somewhere in the world, and wherever it was, Oberon refused to reveal its location.
+
+Robert Robertson was not one to lose face when it came to the business table. Many businessmen were talented at speaking, but none of them could compete with a world class con artist. He knew all the tricks in the book to turn the conversation the way he wanted. It had been a long time since someone left him at a loss for words. But how could he keep his composure in a situation like this?
+
+“P– Pardon?” he said, wiping a bead of sweat from his temple with a handkerchief.
+
+“I know you have it,” said the woman across from him, smiling sweetly. “I would like to purchase it, and I won’t take ‘no’ for an answer.”
+
+“Ma’am, I’m afraid I don’t know what you’re talking about.”
+
+“I’m afraid you do,” she said. “I will pay handsomely, of course. You would not be losing out.”
+
+Robert glanced down at the paper between them. It had a very simple drawing of a black cube, complete with dimensions, and looked eerily similar to an item in his possession. An item that had been gifted to him by a thousand-year-old demigod. An item that the very same demigod told him could be calamitously dangerous.
+
+I shouldn’t have kept it! he thought.
+
+He had considered getting rid of it many times, but every time, he held himself back. That thing had been purchased for 42,000 gold. If it turned out that it wasn’t calamitously dangerous, how much money could he make from reselling it?
+
+I’m a damn greedy idiot.
+
+He considered his options for a few moments, then sighed. Whoever this woman was, she was clearly dangerous. Selling her the box could be even more so, but that wouldn’t matter if he got on her bad side now and ended up dead.
+
+“Alright,” he finally said. “What are you offering?”
+
+The woman’s smile widened so much it looked unnatural, and a chill ran down Robert’s spine. He felt simultaneously that those words had saved his life, and that they were the worst mistake of his life.
+
+Shit! he thought. She’d better at least pay well. If I’m going to die, I’d better die rich!
+
+The Jelorian royal vault was the size of a mansion. Archmage Anne Jelor’s own personal wealth had been massive enough, and combined with the rest of the wealth that the royal family had managed to amass over the years, a simple vault wasn’t enough. And the items were too valuable to enter any kind of spatial storage. If the storage devices happened to get damaged, whatever they contained would be lost in the void for eternity, and they did not dare risk that.
+
+However, with the vault’s enormous size also came enormous security risks. There were security details surrounding the vault around the clock, and regular inspections took place to make sure that everything was as it had been before. Or at least, that’s how it was supposed to be.
+
+It had been more than a century since the last time the vault was robbed. The inspectors had long since gotten lazy, and most of the time, they did not bother to do a full, proper check.
+
+This time was somewhat different though. With the reveal of the existence of Ostra, Jelor had gone to great lengths to verify the identities and qualifications of all of their employees. The royal inspector had not been implicated in anything, but she had not gotten into her position by being a fool. She knew that half-assing her inspection this time could get her in trouble. So, for the first time in decades, the royal vault was getting a proper audit.
+
+Thankfully, almost everything was in its place. A few minor trinkets had vanished, but that could be attributed to embezzlement by previous inspectors. As the inspector walked through the vault, she took note of everything that was not as it should have been, and when she got to the far back corner of the vault, she paused to write something down. On the ledger, there was supposed to be a locked black box. The description said that it could not be opened and that its contents were unknown. However, rather than a sealed black box, she found an open one. Its lid was on the ground beside it and the box was empty.
+
+Strange, she thought. Why would the previous inspector steal its contents without putting the lid back on to make it look like it was still full?
+
+She thought for a few seconds, then shrugged. It wasn’t really her problem. It was still within the range of “acceptable losses,” so that was all that really mattered to her. She marked it down on her list and moved on as she finished her inspection, and the empty box soon slipped from her mind entirely.

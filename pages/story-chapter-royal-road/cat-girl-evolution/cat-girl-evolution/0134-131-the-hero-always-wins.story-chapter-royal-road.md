@@ -1,0 +1,157 @@
+---
+id: a2bb57d1-6772-591f-9cab-2e34c50fa5f5
+page-type-slug: story-chapter-royal-road
+title: "131 - The Hero Always Wins"
+slug: 0134-131-the-hero-always-wins
+partOf: cat-girl-evolution
+position: 134
+ownLength: 2284
+unit: words
+publishedAt: 2026-06-24
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3582982/131-the-hero-always-wins"
+royalRoadId: "3582982"
+---
+
+I turn to see Joakim wearing Fiona’s body, with another girl by his side. This girl looks young—no older than 16—and she has the same ginger hair and green eyes as Annie. Her face looks almost the same as well. There’s no doubt that’s Annie’s other sibling. And she’s crying. She doesn’t make a sound, but there are tears running down her cheeks as she stands nervously beside Joakim, waiting for someone to make a move.
+
+She’s wearing rags that barely cover her, and her entire body looks like it was cut into cross sections and stitched back together. And not stitched well. It was clearly a rush job, and all the stitches on her left arm are loose, making the whole thing dangle like an abominable accordion. Her entire body is suffused with way more mana than should fit in it, though not quite as much as a Disaster should have. It’s a bit strange, though, because it’s all distributed evenly, rather than bunched up near her navel like mana usually tends to be.
+
+[ Elliora, the Stitched ]
+
+“And you call me the villain,” I say. “Look what you did to her?”
+
+“Look what you did to yourself,” he replies.
+
+His voice is disconcerting. He’s using Fiona’s vocal cords, but after hearing the actual woman speak, the way he talks just sounds wrong. Even if I hadn’t witnessed what he did to take that body, I would know in an instant that this was some monster wearing her skin.
+
+“Andala is drained, but still durable, and his aura Trait makes things difficult. It may be a minute before we can finish him off.”
+
+Hurry up.
+
+“You don’t like it?” I say aloud, spreading my arms.
+
+One arm is still a mass of tentacles and teeth, and the other is disproportionately long and thin, to the point it almost touches the ground when hanging at my side. I’m sure that I do indeed look pretty monstrous right now, as opposed to him, who seems to have had time to change clothes and wash up. He opens Fiona’s mouth to respond, but before he can, I Blink behind him, and try to wrap him up with my tentacle arm.
+
+However, he has a Spatial Affinity as well, and before I can make contact, he disappears as well, leaving only Annie’s sister behind. She tries to jump out of the way, but on of my tentacles manages to snatch her left leg. Hoping to incapacitate her, I start wrapping her up to pull her in, but to my surprise, the stitches holding her leg together tear easily, and she gets away, the lower half of her leg still wrapped up. Momentarily baffled by the development, I don’t notice the way her lower leg swells with mana in my arm until its too late.
+
+A massive explosion shreds my tentacle arm and sends me flying backward, right into Joakim’s waiting arms. I only barely have the presence of mind to Blink out of the way of his purple mana bolt, but I don’t have time to take my momentum into account, and end up skidding across the ground a few dozen meters away.
+
+Joakim appears behind me again, firing another bolt, and I am forced to Blink again. When I reappear, I immediately begin restoring my tentacle arm, and also moving its anchor point to my back. I still have enough blood from draining Andala that it doesn’t cost me much, and a few Blinks later, I’m roughly back to perfect form. My other arm is back to its usual size too, letting me hold my sword properly.
+
+Seeing that the element of surprise has been lost, Joakim lets up on his attack, which gives me an opening. With our roles reversed, I chase him around the Dungeon Floor. Each of my attacks fails, but dodging them costs him mana, while I still have enough food and constructs to keep going for a while longer. If I can just keep him on the defensive for a while, I can whittle him down like I did with Andala.
+
+For a few seconds, this seems to work. I force him to Blink away a dozen times, only pausing for a split second to summon a hand construct to replenish my own stores. However, during that same second, he summons something from his own spatial storage. It’s an ordinary undead zombie type, but the second it appears, all its mana gets siphoned out, flowing into Joakim and replenishing his stores as it collapses to the ground.
+
+I immediately stop my attacks, scowling. Looks like he’s got an infinite mana glitch too. That means the attrition strategy is a bust.
+
+With neither of us able to catch the other, and no guarantee of winning a battle of attrition, we both pause to assess the stalemate. Joakim Blinks away a few more times, ultimately next to Elliora, whose foot has already begun to regrow. They’re standing in the middle of the crater that used to be the hospital, both at the ready for the continuation of the battle. I Blink as well, stopping about a hundred meters away from them with my Dungeon to my back.
+
+How much longer, Abby?
+
+“Still a ways’ to go. We’re waiting on A to finish charging her attack.”
+
+Mentally cursing, I turn my attention back to Joakim. He can’t kill me, but until the others join me, I can’t kill him either. And there’s still the matter of the cards he hasn’t played yet. I know he has a couple more powerful undead left. That shadow assassin that attacked us in the labyrinth Floor is still around somewhere, and while neither Fiona nor Annie knew too much, Fiona was pretty sure he had one other powerful undead stashed away somewhere. Neither are anywhere to be seen, and their absence bothers me.
+
+“You turned an innocent girl into a suicide bomber,” I call, trying to stall for time.
+
+“I wouldn’t have had to if you didn’t make me,” he replies.
+
+“I didn’t make you do anything. You did that all on your own.”
+
+“You forced my hand! If not for you, Elliora’s body would be normal. I would have restored her as close to as she was as before, just like I did for her siblings. But then you showed up. You’re trying to ruin everything! You’ve killed my mage, I’m sure Andala is about to die, and the gods only know what you’ve done with Annie. I bet you beheaded her again.”
+
+He turns to Elliora.
+
+“Did you know that Yona tortured your sister? She beheaded Annie, shackled her mana, and carried her around like a trophy for months. She was kept in a bag, left alone with her thoughts for days on end until they needed her for information. Death would have been a mercy, but they kept her alive instead, solely for their amusement. And now they plan to do it again.”
+
+I grit my teeth as Elliora’s face becomes shocked, before she starts glaring angrily at me, but I let him speak. If he wants to monologue, let him.
+
+“He’s lying,” I say. “We did that to protect her from him.”
+
+“Don’t believe a word she says, Ellie,” says Joakim. “Look at her. She’s a monster. She’ll say anything to sow doubt in your heart.”
+
+“Speaking from experience?”
+
+“I am not like you,” insists Joakim. “I am a hero. I am going to save this world. I was brought here for a reason. I–”
+
+“Was that reason to ‘kill thousands,’ in your words?”
+
+“I never wanted to kill anyone! I had no choice!”
+
+“I might believe it if it was one person. Maybe even a couple people, if they attacked you first. But thousands? Were thousands of people trying to kill you?”
+
+“Yes!”
+
+“And you never stopped to wonder why thousands of people might have wanted to kill you?”
+
+“They don’t understand! You don’t either. No one does.”
+
+“Maybe that’s because your reasoning makes no sense?”
+
+“Shut up!”
+
+“I bet you’re one of those people who likes to go on about how the ends justify the means. All those atrocities you’ve committed are completely okay because in the end, it will all work out.”
+
+“Of course they’re not okay!” he shouts. “I’ve done terrible things! Nothing can justify that. But I had no choice! I am the hero!”
+
+“Do you even hear yourself? You’re literally making the exact argument that you say you’re not. That you’re the hero, and that you’ll save the world, so therefore, you can do all kinds of terrible things, as long as you save the world in the end.”
+
+“I–”
+
+“Well, guess what, buddy. The ends can only justify the means if you reach them. And unfortunately for you, you really pissed me off, so that’s something you’re never going to do.”
+
+Abby?
+
+“Almost there. I thought you were supposed to be stalling, not antagonizing.”
+
+Shut up!
+
+I raise my sword, preparing for him to get angry and attack, but it doesn’t happen. He’s clearly seething, but instead of starting the fight again, he just takes a few deep breaths and smiles confidently.
+
+“Oh really?” he says. “Do you truly believe that?”
+
+“Yes.”
+
+“I see.”
+
+I frown. Something’s not right. Why is he smiling? Why is he so confident? Andala’s about to die, and once he does, the rest of my Party will join me. He’s done nothing to me so far. The surprise trick with Elliora didn’t work. So why is he so calm? And where are the rest of his undead?
+
+Oh.
+
+Oh no.
+
+Right as I realize what’s going on, he reaches over and grabs Elliora’s hair.
+
+“There’s something you failed to account for,” he says with an ecstatic smile. “The hero always wins!”
+
+With a single movement, he rips Elliora’s head off and Blinks away with it, leaving her body to collapse on the ground behind. As soon as the head and body are disconnected, the body begins to glow and swell, the mana within starts moving erratically. Knowing what’s about to happen, I try to Snatch it, but I fail. The mana is too chaotic, and my Skill can’t get a grip on it.
+
+Then, right before it explodes, a group of four appears in the air directly above it. I don’t even have time to see what they look like before Elliora’s body explodes, sending all four of them flying in different directions, burnt, mangled, and dismembered. I Blink four times in rapid succession, trying to escape the blast radius, but even so, I am forced to turn and use my fleshshaped appendage to bear the brunt of it.
+
+For the second time in the past few minutes, I end up skidding across the ground as the explosion sends me flying across the landscape. My clothes are in tatters, and my arms and legs are battered and burnt. As I groan and struggle to my feet, though, I feel a sudden surge of energy, and my body begins to heal and strengthen.
+
+[ You have slain Andala, the Heavy, Tier IV, lvl 17. Bonus experience for killing a target above your level. ]
+
+[ Princess Yona, the Blinking Gastronomic Hunter Thief Chef, 7 → 9 ]
+
+[ +204 Power, +432 Finesse, +252 Resilience, +240 Memory, +240 Willpower, +432 Sensitivity ]
+
+[ Beginner Vivitect, 6 → 9 ]
+
+[ +270 Power, +540 Finesse, +270 Resilience, +450 Memory, +540 Willpower, +360 Sensitivity ]
+
+The levels and stats help accelerate my healing and bring clarity to my mind, but it’s too little, too late. Abby’s silence speaks volumes, but if that isn’t enough, when the dust clears, I see a redheaded man slitting the throat of the remains of what might once have been a human.
+
+Abby, what’s the success chance now?
+
+“...6%.”
+
+Fuck.
+
+Just as I feared, Joakim had a plan. Those people that died just now were the Tier 5 party that Maligar said were coming to help. The people that Joakim's remaining undead were no doubt harrassing just now to help get the timing right. The people that were supposed to kill Joakim after we weakened the Dungeon. Instead, they’ve done the opposite, undoing all our hard work and dying pointless deaths. Even worse, as the redhead vanishes, Joakim appears in his place, and holds a hand over the corpse, sending mana into it. I Blink forward as fast as I can, but by the time I get in range, he’s already done. The corpse is wriggling again, its flesh healing rapidly as Joakim continues to pour mana into it.
+
+The rest of my Party emerges from my Dungeon, but I ignore them for the time being, teleporting over to Joakim to try to put a stop to what he’s doing. However, he completely ignores me, and when my sword comes down on what should be his head, it is instead blocked by a tall shield. Another undead has appeared, this one fully intact. It’s an older man, with gray hair and beard, and while he’s not particularly impressive-looking, he pushes enough mana into his shield that my sword only gets a dozen or so centimeters in before stopping.
+
+He then swings at me with his sword, and at the exact same time, another figure materializes from his shadow, aiming for my throat. I am forced to let go of my sword and Blink away out of range. I unsummon the sword and re-summon it in my hands as I regroup with the others, who are preparing for battle.
+
+“As I said, your life ends here,” calls Joakim. “That’s what you get for standing on the wrong side of the Hero.”

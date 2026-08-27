@@ -1,0 +1,111 @@
+---
+id: 3ed74e83-3d45-56e9-9f10-9833e22f6cda
+page-type-slug: story-chapter-royal-road
+title: "184: Experimental Unit"
+slug: 0184-184-experimental-unit
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 184
+ownLength: 1971
+unit: words
+publishedAt: 2026-07-31
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3751188/184-experimental-unit"
+royalRoadId: "3751188"
+---
+
+Administrator A harbored little expectations regarding the combat performance of the security units currently engaging the four intruders. Their projected survival rate of his robots and drones had been negligible from the moment visual confirmation of the targets had been obtained.
+
+However, neutralization had never been the primary objective. This operation existed solely as a data-gathering exercise. CEO Y had personally assigned him oversight regarding two high-priority individuals: the former CEO's daughter and the rogue Administrator formerly designated as Administrator Z. As such, any direct engagement without first obtaining sufficient combat metrics would have been rather risky, and if things went poorly, it might even reflect on his quarterly performance review.
+
+Seated in the central monitoring chamber, Administrator A observed the battlefield through multiple holographic displays. Countless camera feeds populated the screens before him, each presenting different angles of the industrial district below. Red icons representing security drones and autonomous combat platforms blinked out one after another as they were systematically dismantled.
+
+As expected, the former Administrator represented the greatest threat. Former Administrator Z was outperforming all other intruders by an overwhelming margin. Even more concerning was the fact that she appeared to be exerting only minimal effort. She displayed no significant use of advanced abilities, nor any indication that she had been forced to take the engagement seriously.
+
+Wherever she moved, company assets (the robots and drones) ceased to function. Her physical capabilities alone were sufficient to reduce combat units to twisted wreckage. She tore through formations with terrifying efficiency, dismantling robots with her bare hands as though they were made from cheap plastic. To be fair, some of the assets were indeed made from cheaper alloys due to cost efficiency measures, but that did not diminish Z's threat in his eyes.
+
+The identity of the second most dangerous individual proved considerably more unexpected. One of the Fallen Angels had emerged as a threat far exceeding initial projections.
+
+Administrator A had very few records regarding either fallen angel. In the absence of proper identification, provisional designations had already been assigned for the sake of operational clarity: FA-1 for the female Fallen Angel and FA-2 for the male.
+
+Of the two, FA-1 demonstrated substantially greater combat value. Initially, Administrator A had categorized her as a standard close-combat combatant. Subsequent observations had forced significant revisions to that assessment.
+
+The female possessed some form of highly irregular necromantic capability. Though, strictly speaking, "necromancy" was an inaccurate classification. Robots were not alive, so they could not be considered dead, but he couldn't think of anything else that would be a good term.
+
+After destroying a unit, FA-1 would utilize an unknown magical process to reconstruct the damaged machine, forcibly restoring operational capability before subordinating it to her command structure. More troubling still was the fact that the reanimated units exhibited performance levels exceeding their original specifications, meaning, their combat effectiveness rose noticeably.
+
+FA-2 also demonstrated respectable combat capabilities. His physical parameters exceeded those of standard angelic combatants, and his aerial maneuverability allowed him to eliminate security assets with reasonable efficiency. Nevertheless, his overall threat level remained manageable.
+
+The former CEO's daughter, however, was proving to be a considerably more perplexing variable. To describe her combat performance as disappointing would have been accurate.
+
+She displayed little discipline, minimal tactical awareness, and a frankly alarming disregard for her own safety. Throughout the engagement, she had been struck repeatedly by laser weapons, sustained numerous electrical discharges, and absorbed multiple anti-armor cannon impacts that should have severely compromised a target of her apparent durability. Yet she simply continued fighting.
+
+Administrator A replayed several recordings across adjacent monitors. One recording showed her being blasted through a wall by concentrated laser fire. Another captured her being engulfed by electrical arcs powerful enough to disable heavy machinery. A third showed an explosive shell detonating almost directly beside her. Each time, she emerged with little more than superficial damage and a mildly inconvenienced expression..
+
+Although her combat methodology lacked refinement and her situational awareness bordered on negligence, the former CEO's daughter's resilience was far beyond acceptable biological norms. Whether this was the result of inherited traits or an as-yet unidentified external factor remained uncertain.
+
+But, as matters presently stood, Administrator A assessed the former CEO's daughter as an individual who possessed considerable potential but lacked the experience and discipline necessary to fully utilize it. Once the current operation concluded, she would likely prove among the easier targets to neutralize during subsequent cleanup procedures. For the moment, however, sufficient data had been collected. It was now appropriate to proceed to the next phase of testing.
+
+Administrator A raised a hand, and several displays immediately shifted to reveal a sealed chamber deep within the industrial sector. Thick blast doors, covered in warning symbols and containment protocols, slowly began to unlock.
+
+Unlike the disposable assets currently littering the battlefield, this prototype had been specifically engineered for adaptive combat. Every movement, every ability, every observable weakness displayed by the intruders had already been recorded and integrated into its combat framework.
+
+Administrator A harbored no illusions regarding the prototype's projected performance. The Experimental Unit had never been designed as a victory condition but rather as an investment in future operational success, intended to generate additional combat data while inflicting attrition upon hostile assets and, ideally, permanently degrading the combat effectiveness of one or more targets. He continued to observe the monitors as the containment chamber slowly opened and the experimental asset prepared for deployment.
+
+"Deploy Experimental Unit KS-22"
+
+***
+
+Chloe was currently in the middle of reattaching her arm, which was super rude of the robots. Apparently, one of them had somehow gotten its metal hands on a giant laser sword, because of course it did. Why did robots always get the cool weapons? Like... seriously?
+
+But anyway, it wasn't exactly a huge problem. Chloe casually picked the detached arm up off the ground, brushed a few bits of metal and dust off it, and then shoved it back into place. Her body immediately got to work, dark flesh knitting itself together while strange black veins briefly spread across her skin before fading away. "There we go."
+
+She flexed her fingers a few times, opened and closed her hand, then gave her arm a satisfied nod. Ah, good as new!
+
+Feeling considerably better, Chloe looked around the battlefield. The industrial district had become a complete mess. Wrecked drones littered the streets, some still sparking while others burned with trails of smoke rising into the air. Several larger robots had been reduced to piles of scrap metal, while pieces of mechanical limbs were scattered absolutely everywhere. One robot guy had somehow ended up lodged halfway through a wall. But more important than all of that was the fact that everyone else seemed to be doing perfectly fine.
+
+Z had just finished up dismantling this one four handed robot with her bare hands. Eh, kinda expected from Z.
+
+Meanwhile, Liz had somehow assembled her own little mechanical army. A bunch of broken robots had been stitched back together through her weird magic and were now enthusiastically beating up their former friends. One of them was even using another robot as a club, which Chloe thought was pretty creative.
+
+Percy wasn't doing too badly either. The fallen angel zipped through the air with his wings spread wide, occasionally kicking a drone so hard that it disappeared into the wall. Okay... maybe they were handling things a little better than she was, but only a little.
+
+Chloe looked down at the robot head she'd accidentally ripped off earlier and then glanced toward the enormous pile of wreckage surrounding her. Yeah, I'm also doing pretty good.
+
+Sure, she'd gotten her arm cut off, been blasted through a wall, and maybe exploded once or twice, but all the robots around her were completely smashed anyway, so who was really keeping score here? Feeling smug again, Chloe planted her hands on her hips and felt like she was absolutely winning.
+
+Then Chloe noticed that everyone had suddenly turned to look in the same direction. Z had stopped in the middle of kicking away some metal scraps, while Liz's stitched-together mechanical minions awkwardly froze in place as their creator stared toward one of the larger factory buildings nearby. Even Percy had landed on the ground as he narrowed his eyes at something in the distance. Naturally, Chloe looked too.
+
+A metallic groan suddenly echoed as one of the enormous factory doors began sliding open. Thick clouds of steam poured out from the widening gap while warning lights flashed around the frame.
+
+Something really, really big was inside. Chloe could already see its shadow moving through the steam, and with each passing second the silhouette only seemed to become larger. A giant clawed foot emerged first.
+
+The entire ground shook, and then another foot followed. Then came a massive tail, thick armored legs, and finally the rest of the creature stepped into view. Chloe's eyes widened so much they almost hurt. It was a robot dinosaur, but not just any dino. It was a giant robot Tyrannosaurus Rex!
+
+The thing towered over every other machine in the district, its enormous metallic body covered in thick layers of armored plating that gleamed beneath the industrial lights. Red lights glowed beneath gaps in its armor, while steam continuously hissed from vents along its body. And then Chloe noticed the guns, and there were so many guns.
+
+There were laser cannons mounted along its back, more attached to its shoulders, and several hidden beneath folding armor panels along its sides. Smaller weapon systems protruded from its neck and tail, and Chloe was almost certain there were even guns attached to some of the bigger guns for absolutely no practical reason, but it did look very cool.
+
+Chloe could physically feel herself grinning. Sure, Divinity Inc. was creepy, evil, and constantly trying to kill her, but she had to be fair here. This thing was the coolest thing she had ever seen. It was a giant laser-shooting robot dinosaur. How was she supposed to not love that?
+
+"Guys, look at it!" She yelled out.
+
+Z slowly turned toward her with an utterly unimpressed expression. "We are looking at it."
+
+"But it's a robot dinosaur."
+
+"Yes, Chloe."
+
+"And it has lasers."
+
+"I can… see that, yes."
+
+Chloe pointed at the giant machine with increasing excitement. "It's a laser dinosaur!"
+
+Percy looked at her as though she had finally lost her mind. "Why do you sound happy about this? It's obviously here to kill us!"
+
+"I know!" Chloe exclaimed.
+
+The Mecha T-Rex suddenly lowered its body, and armored panels all across its frame unfolded one after another with sharp metallic clicks. To Chloe's delight, somehow even more guns emerged from inside the thing. Whoever had built this machine clearly understood what was important in life, hopefully it wasn't made by some underpaid intern though, that would kind of suck.
+
+When the T-Rex roared, the sound was incredible, a mixture of electronic screeching, grinding metal and something that genuinely sounded like an actual dinosaur. Chloe could only stare in awe. This thing was amazing. At the same time, every laser cannon mounted across its frame finished charging, causing the air to hum and the ground to vibrate as dozens upon dozens of glowing red barrels slowly turned toward them. Still amazing! But uh, probably have to blow it up first before it blows me and everyone else up.
+
+A huge grin spread across Chloe's face as lightning erupted around her body. Instead of fear, she could only feel excitement bubbling inside her chest. She had fought a lot of different foes before, but none of them had been a giant laser-shooting robot T-Rex. This was exactly the kind of thing she would have dreamed about when she was like, ten or maybe twelve.

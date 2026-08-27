@@ -1,0 +1,89 @@
+---
+id: d8c6f9cd-bea1-57b8-81d4-f03e655d9237
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1523 - Rise "
+slug: 0171-chapter-1523-rise
+partOf: chrysalis
+position: 171
+ownLength: 984
+unit: words
+ownProgress: 984
+publishedAt: 2025-03-06
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2106784/chapter-1523-rise"
+royalRoadId: "2106784"
+markedReadAt: "2026-06-29T19:49:18.854Z"
+---
+
+“I’ll be going, my sisters!” Leeroy declared as she charged forward, gaining momentum and preparing for her grand leap of destiny.
+
+The Immortals turned to watch, lumps in their throats and metaphorical tears in their eyes as they saw the first and most dedicated Immortal initiate her final fight. What a glorious sight. What a noble sacrifice. This was how it was always meant to be, here in the depths of the Dungeon, with the Colony in danger of being overwhelmed, THIS was how an Immortal was supposed to live, THIS was how they were supposed to end!
+
+As one, the armoured sisters bowed low, touching their mandibles to the diamond platform.
+
+“Seek no more, sister,” they called, gladness in their hearts.
+
+The rest of the militia watched the display, confused and not a little disturbed, as the platform was, in fact, not in any real danger of being overwhelmed, but they could sure use the help of the Immortals if they were willing to get up and fight.
+
+Instead, they watched as Leeroy gathered her strength and launched herself into battle, sailing through the air to crash straight into the monster’s chest. Immediately, she was overwhelmed by a wave of toxin so dense she couldn’t see through it, only to be showered in thick, acidic slime the moment she made contact.
+
+Even so, with the force of her charge behind it, the impact was shattering, sending the monster reeling as she latched on with her mandibles, biting deep into its slug flesh.
+
+The monster screeched and lifted its arms, trying to slam Leeroy, knock her loose and send her flying into the bottomless abyss around the platform. A futile effort. Leeroy endured the blows with joy, watching her HP tick down as the gas and acid wore into her defences more and more.
+
+She latched onto the monster with her legs, furiously biting as the slug began to tip forward, brought down by her sheer weight.
+
+“Damn it!” Leeroy cried as her legs touched the ground again. “Give me some more!”
+
+Her HP wasn’t falling fast enough. At this rate, the others might bring the monster down before she was able to gloriously sacrifice herself! She pulled her head away, tearing a massive chunk of slug-flesh away and causing the creature to bellow in rage.
+
+Seeing a chance, she leapt once more, throwing herself into its maw.
+
+“Bite me, dammit!” she raged, using her mandibles to savage the beast from the inside.
+
+There was a beat where time seemed to slow for Leeroy, as she felt the peril closing in around her, the shadow of death looking right over her shoulder.
+
+She had never been happier.
+
+Jaws crunched down, sending needle sharp teeth penetrating deep into her body. Armour crumpled, carapace cracked and organs were punctured, and Leeroy rejoiced.
+
+Her HP immediately plummeted and she celebrated by forcing herself deeper into the monster, tearing it apart from within using the last of her fading strength.
+
+Eventually, the entire monster fell over, collapsing face first onto the platform as the damage mounted. Leeroy felt it cease to struggle, a notification from the System ringing somewhere in the recesses of her mind. Cleansed mana continued to work on the beast, but Leeroy was blissfully unaware. All she could feel was her fading strength, all she knew was a deep and abiding joy.
+
+Her purpose was fulfilled. At long last, bathed in acid, her body filled with toxins and poison, she was finally at peace.
+
+“...For… for the Colony,” she breathed and the world went dark.
+
+~~~
+
+The Immortals watched, nervous and tense, as Leeroy fought to the bitter end. When the monster finally collapsed, breathing its last, they resisted the urge to cheer. It was too soon to say that their leader had achieved a glorious end; they had, after all, been cheated so many times before.
+
+The militia swarmed over the area while healers cursed and muttered amongst themselves, concerned that they had lost one of the pillars of the Colony. Every effort was being made, in the chaos of the never-ending fight, to retrieve the fallen Immortal.
+
+The rest of the armoured ants helped where they could, but their attention was still riveted on the unmoving figure still emerging from beneath the slug creature.
+
+Leeroy was unmoving. Her legs didn’t twitch, her carapace didn’t shift, and when her head was finally revealed, her antennae were still, flat on the ground.
+
+They dared, just for a moment, to believe.
+
+And yet, something was off, as the massive body of the tier seven soldier was dragged clear.
+
+From the dents in her carapace, something was beginning to emerge. Thin tendrils rose straight up, climbing higher and higher until they were metres tall.
+
+The healers demanded all stand back, fearing that some fifth stratum infestation had taken root within the soldier.
+
+Still, Leeroy didn’t move.
+
+At the tips of the long stalks, a fruiting bud blossomed, a ball of fungal growth that began to glow.
+
+In that moment, the air around the platform became suffused with soft light, revealing the entire space had been filled with spores, and more blooming from the monsters Leeroy had defeated every second. The drifting spots of light moved toward her, gathering into the tips of the stalks and filling it with light that began to travel down the stalk and suffuse the body of the fallen Immortal.
+
+Her legs began to twitch. Her antennae began to rise. The Immortals began to lose hope.
+
+Unfeeling, as if in a dream, Leeroy rose from the ground, her broken body slowly stitching itself together, and she went to force herself back into the fight.
+
+She did not feel. She did not think. She felt as if her entire being had detached from her body and now filled the whole platform.
+
+She had fallen, yet still, she had to fight.
+
+Truly, she was cursed.

@@ -1,0 +1,77 @@
+---
+id: ff44aa91-8f1d-5aed-bf88-f642e4126583
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1567 - Endless Song"
+slug: 0215-chapter-1567-endless-song
+partOf: chrysalis
+position: 215
+ownLength: 1035
+unit: words
+ownProgress: 1035
+publishedAt: 2025-05-21
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2294268/chapter-1567-endless-song"
+royalRoadId: "2294268"
+markedReadAt: "2026-06-29T19:50:41.774Z"
+---
+
+The sublime joy of tea and biscuits was one thing. In fact, Goszi had only grown in his appreciation for the things that so many Krath ignored completely. The ants had continued to work on making his cell more comfortable, despite his contemptuous insistence it wasn’t necessary.
+
+As a result, he now had a leaf-shaped hammock, as he was told it was called, that snugly fit his form and wrapped over to enclose him while he slept. Goszi had never felt so warm and safe, trapped in his own little soft cocoon, as he had while resting in that bed.
+
+Even the rug! The ants had taken his complaints about the surfaces within the cell being uncomfortable for his foot and gone on to make many, many iterations of carpet. It had been infuriating for him to wake up to another day just to find a new rug on the floor and a team of ants eagerly looking through the viewing window, hoping for feedback. At first, he’d lied to them, hoping they’d stop asking him, but found that lying to them only resulted in less comfortable rugs.
+
+And they wouldn’t go away until he tested them, so he was ultimately only punishing himself.
+
+Now the ants had invented a strange surface covered in soft, springy prongs, each of them very small, and when he slid over it, he felt as if the large muscle on the underside of his body was receiving a soothing massage. Incredible!
+
+He had to hand it to the ants, they really knew how to make a Krath comfortable in their retirement. He may be isolated in a cell, but to Goszi, this might as well have been paradise. He was fed better than he had ever been in his life, housed more comfortably than he could have imagined and even had surprisingly engaging things to occupy his mind, like playing mind-games with the invisible masterminds behind the invasion.
+
+He still hadn’t discovered their identity and had been unsuccessful at teasing out much about them. He’d learned that the ants had done a significant amount of trading with the brathians, but decided that the conglomerates wouldn’t have anything to do with an invasion of the fifth, there was no profit in it. Not that he was especially knowledgeable about the brathians, but their greed was so legendary, even the Krath knew about it.
+
+No, someone else was driving this invasion, and he was determined to find out who.
+
+Except, he was out of time.
+
+Under the observation of several mages, Goszi sipped his tea and gurbled with satisfaction as the hot liquid scalded his tongue in just the right way. If only there was a way to make it more acidic…
+
+Although he appeared completely domesticated, Goszi was anything but. His eyes, though they appeared languid and relaxed, studied every corner of the room in relentless sweeps, looking for even the slightest hint of weakness. As always, his mana sense was finely tuned, waiting for a moment when he might escape.
+
+And of course, he needed something to focus on at all times, something to occupy his thoughts in order to keep that harrowing noise at bay.
+
+The singing.
+
+The singing!
+
+He couldn’t hear it, he knew that, his cell was soundproof, but it didn’t seem to matter. He could feel it, somehow, the singing seemed to penetrate directly into his mind. And it never stopped.
+
+A saccharine sweet song that curdled his guts and set his acid to boiling. Every note engorged his eyes and caused him to grind his fangs. What was it? Who was responsible?! He hadn’t been this filled with mindless rage since he was a young slug. There was something very, very wrong with this song, something that offended his Krath sensibilities at their very core.
+
+No wonder Theorazzn wanted it to end.
+
+Drawing in a deep breath, he tried to push it out of his mind and focus on the delicious scone in front of him. The cream and jam had been done just the right way, and the native mana of the fifth around him had corrupted them, perfectly. Not much, just enough to curdle and foul the flavour so it more suited his palate.
+
+Delectable.
+
+His eyes flew open.
+
+To his mana sense, a huge mass of power had just descended from nowhere and slammed into the side of the fortress, not that far away. At least, he assumed it had struck the side of the fortress, it was stuck to something, after all.
+
+As he widened his senses to scan more carefully, something else caught his attention, a buildup of mana inside the fortress. He could always sense it, the neatly organised channels the ants had created to move the captured energy around, yet this was different, there was too much mana.
+
+Growing perfectly still, he closed his eyes again and sensed.
+
+Yes… Yesssss. There were problems at the outer wall, the blob was melting through. Inside the fortress, the danger point he’d identified was building and building, something was wrong. A clog in the system, a broken channel, whatever it was, a bottleneck had been created.
+
+If it wasn’t fixed soon…
+
+There was no tremor or shaking when the channel ruptured, yet Goszi still shivered. Raw, untamed energy of the fifth was pouring into the fortress nearby, filling up the tunnels and corridors. The ants watching him could sense it, he knew they could. They were nervous, cleaning their antennae and thwapping each other for comfort. Ah, they sealed the observation room. Yes, they would be safe there, since it was isolated from outside mana.
+
+Goszi stretched, feeling the life returning to his old flesh. Carefully, he bent down and rolled up the carpet, tucking it under several of his arms, then nodded gratefully to the mages. They really did good work, these ants.
+
+It was a shame he couldn’t stay, but Theorazzn had spoken.
+
+The singing must stop.
+
+The back wall of his cell began to hiss and sizzle as the mucus continued to eat its way through the hole, corrupting everything it touched.
+
+It was a shame he’d never be able to collect on his bet with Solant.

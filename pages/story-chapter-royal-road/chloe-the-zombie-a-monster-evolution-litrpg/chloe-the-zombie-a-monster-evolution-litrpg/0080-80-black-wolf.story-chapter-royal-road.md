@@ -1,0 +1,141 @@
+---
+id: 4aa3143c-dc6b-5a17-8421-414423f83153
+page-type-slug: story-chapter-royal-road
+title: "80: Black Wolf"
+slug: 0080-80-black-wolf
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 80
+ownLength: 1587
+unit: words
+publishedAt: 2025-12-03
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2815239/80-black-wolf"
+royalRoadId: "2815239"
+---
+
+They’d been sitting around for a while now. Sabine had sat herself against the wall, arms crossed and eyes half-lidded. Scar was lounging nearby, one leg stretched out and the other tapping impatiently. Chloe sat on the floor with her knees pulled up, lightly scratching shapes into the dust with her finger.
+
+Her left hand had already grown back, of course. Chloe flexed it a few times, watching how the fingers curled just right. She tilted her head, squinting at it suspiciously. But is it still Leftie?
+
+That was the real question. It looked like Leftie. Felt like Leftie. Wiggled just like Leftie used to. But was this the same Leftie that had bravely scuttled into a rat hole and went in the dark? Or… is this Leftie 2?
+
+That made things complicated. If this was a new Leftie, did she need to name it something else? Leftie the Second? New Leftie?
+
+She stared at it some more, turning it palm-up, then palm-down. Did her limbs remember things after being re-grown? Could Leftie even be replaced? What if this hand had totally different vibes?
+
+Chloe flopped her arm across her lap. Eh whatever, Leftie is Leftie.
+
+Scar looked over at her, one brow raised. “Hey, uh… if you don’t mind me askin’, what are you, exactly?”
+
+Chloe shrugged. “I'm a Zombie. Pretty sure it’s impossible to hide at this point. Kinda comes with the whole detachable limb package.”
+
+Scar gave a thoughtful grunt. “Huh. Makes sense.”
+
+Sabine opened one eye and raised an eyebrow. “You’re not bothered?”
+
+“By the zombie thing? Nah. Everybody’s a little weird if you’ve seen enough of the world.” Scar said, shrugging.
+
+Chloe sat up instantly, mouth open. “Excuse me?! Weird? I am a majestic and awesome zombie, thank you very much!”
+
+“Uh-huh,” Scar said, deadpan.
+
+Sabine didn’t bother hiding her smirk. “He probably didn’t mean it in a bad way.”
+
+“Exactly,” Scar added with a grin. “You’re the good kind of weird. The fun kind. Like a talking frog in a tavern, or a chicken that breathes fire.”
+
+“You’re lucky I think frogs are kinda cute."
+
+Chloe crossed her arms, already pulling the most dramatic pout she could muster, bottom lip out and everything. She was just about to launch into a full-on sulk, when she saw a thing at the corner of her eye. “Wait… I think I see something,”
+
+Tiny fingers clawed at the edge of the rat hole, dirt flinging in little puffs. With one last wiggle, Leftie crawled out of the hole successfully. Bits of grime clung to his joints, and his middle finger gave a little wave.
+
+Then, he flopped onto the floor and did a proud wiggle-spin.
+
+Chloe’s face lit up like a bonfire. “Leftie! You’re back!”
+
+Scar, who’d been mid-slouch, sat up straighter. “Wait. That thing actually came back?”
+
+Even Sabine turned her head. “What did it find?”
+
+Chloe crouched low, hands out and eyes wide with excitement. Leftie scrambled up into her palm as he settled proudly in her grasp. “Well? You got something good, buddy?”
+
+But instead of his usual confident salute, Leftie immediately launched into frantic motion. His fingers flailed in short, panicked jerks, pointing, spinning, scrambling in odd little gestures that made zero sense.
+
+Chloe blinked. “Um, what are you trying to say?"
+
+Sabine stepped closer, watching with a raised brow. “Is your hand… alright?”
+
+“Hmm, I think Leftie is trying to tell us he saw something bad. Like, really bad."
+
+Leftie slammed all five fingers down on her palm at once, then started wiggling frantically again. Chloe frowned. “Yup. Definitely something super bad."
+
+Before anyone could ask more, the ground gave a deep, low rumble. The kind that made your bones feel weird. Dust fell from the ceiling in a soft hiss.
+
+Scar stood up immediately. His ears twitched. "Get ready, I can feel it. There’s a primal beast nearby.”
+
+Sabine’s posture snapped tight, her eyes locking onto the wall like she expected it to explode. “Chloe. Move away from there. Now.”
+
+Chloe didn’t argue, not because she was scared or anything, obviously. But the wall with the rat hole was starting to vibrate a lot.  So, she scooped Leftie up and plopped him onto her shoulder with a pat. “Hang tight, buddy. We might have company.”
+
+The walls cracked with a thunderous snap, then shattered as the wall exploded outward in a storm of rubble and dust. Chloe stumbled back as bits of rock clanged off her shoulders. Through the smoke stepped something huge.
+
+It looked like a wolf, but this one was as tall as two people stacked together, maybe bigger, with black fur and smoky tendrils that curled off its back. Every step left deep claw marks seared into the stone.
+
+Chloe stared, wide-eyed. “Whoa. That’s not a normal wolfie."
+
+The creature threw its head back and howled. The sound was low, primal, and disturbing.
+
+In response, Scar's whole body shimmered, metal sweeping across his limbs in a wave until he was completely covered in metal. Meanwhile, lightning bloomed around Sabine in crackling arcs, dancing up her arms and sparking against the floor.
+
+While all of this unfolded, Chloe just… stared harder. There was something about the wolf. That snout. That shape. Wait. Have we met before?
+
+She squinted, trying to place it. The thought wouldn’t land, but it also wouldn’t go away. It clung to her, nagging, weirdly familiar and completely unhelpful. Still, there was at least one win in all this mess.
+
+The glowing barriers that had boxed them in earlier were gone. So, escape was now maybe possible. Of course, the new problem was a giant nightmare wolf between them and said escape.
+
+The creature snarled, crouching low. Its shadowy tendrils snapped around it.
+
+Scar didn’t wait for a plan or even a nod. He let out a roar and charged straight in. His fist slammed into the wolf’s side with a deafening crack.
+
+The wolf skidded, claws carving into stone as it slid. But it didn’t fall. Instead, it spun with terrifying speed and slammed into Scar with a shoulder check that sent him flying.
+
+Scar hit the wall hard. Stone split behind him.
+
+But to his credit, the guy didn’t stay down. Scar growled, shoved off the cracked wall, and staggered back into the fight like getting launched across the room was just mildly inconvenient.
+
+Sabine’s hands crackled, and lightning arced across the chamber. The bolt sliced into the wolf’s shoulder and sent a spray of dark smoke hissing into the air. The creature yelped, stumbling, but didn’t stop. If anything, it looked angrier.
+
+Chloe threw her hand forward, conjuring a blast of flame. The fire smacked the wolf in the face, but it didn’t do much. The thing barely noticed. Its glowing eyes locked onto her, and it lunged.
+
+Chloe yelped and dove out of the way, rolling across the floor. Nope!
+
+She popped back up and held out her arm, a weapon began to form, part ice, part shadow. The blade shimmered with frost, its edges swirling with a faint, dark mist. “Let’s see how you like getting stabbed.”
+
+She charged, leapt onto a broken slab of rubble, and hurled the weapon. It slammed into the wolf’s flank and actually stuck. The beast howled, whirling around again.
+
+Seizing the moment, Sabine ducked under a swipe of the wolf’s claws and sent another bolt of lightning crackling through the big wolf's chest. Scar tackled it from the side right after, grabbing the thing in a full-body grapple.
+
+“NOW!” Sabine shouted, charging in.
+
+Lightning wrapped around her arms like rope, and with a quick twist of her hands, the crackling strands lashed out and wrapped around the wolf’s limbs, tightening like shackles. The beast thrashed and roared, snapping wildly, but it was pinned for now.
+
+Chloe’s eyes lit up, wide and gleaming. “Oh, I’ve got just the thing.”
+
+She bolted forward like a kid rushing a buffet, flames swirling around her fists with each step. The heat pulsed up her arms, and she didn’t slow down as she leapt into the air.
+
+She spun once, then she came down hard, her fiery fist aimed right for the wolf’s skull. The impact landed with a thunderous boom.
+
+A shockwave of flame and force rippled outward, kicking up dust and sending loose stones skittering across the floor. The shadows clinging to the wolf’s body flared like they’d been slapped, then peeled away in smoking wisps.
+
+The wolf let out a guttural, pained growl and sagged. Its legs buckled, and its head slumped sideways against Scar’s grip, twitching once before going still.
+
+But then something weird started to happen. Like, really weird.
+
+As Chloe stepped back from the punch, the wolf began to glow. Not in a fiery, “oh no it’s exploding” way, but in a soft shimmer that made the shadows crawl away from it. Even Sabine and Scar eased off, both watching warily as the light grew brighter.
+
+Chloe squinted through the glow, one hand raised to shield her eyes. “Uh… guys? Is this supposed to happen?”
+
+No one answered. The wolf’s body began to shift, its massive frame rippling as the fur drew inward, bones twisting and reshaping. The glow pulsed once more, then dimmed, and where the monster had stood, a figure now knelt in its place. Smaller. Humanoid.
+
+When the light finally faded, Chloe froze. A beastkin girl was there, breathing shallowly, covered in soot and faint trails of black mist.
+
+Chloe’s mouth fell open as recognition hit her. “Wolfie?”

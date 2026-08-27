@@ -1,0 +1,187 @@
+---
+id: b3e75aa3-3610-543f-9d7b-61091100ac2e
+page-type-slug: story-chapter-royal-road
+title: "65 - A New Dungeon Type"
+slug: 0065-65-a-new-dungeon-type
+partOf: cat-girl-evolution
+position: 65
+ownLength: 3002
+unit: words
+publishedAt: 2025-12-21
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2866564/65-a-new-dungeon-type"
+royalRoadId: "2866564"
+---
+
+Just like Lauren said, the boar Dungeon is very easy to find. It’s not even a kilometer outside the city walls to the north, and there are a bunch of Adventurers going to and from it. Unlike the lizard Dungeon, this one is not set in the side of a hill. Instead, the entrance is an enormous hollow tree. It’s at least five meters across, and there’s a door-sized entry in the front through which you can see about half of the interior. The other half of the interior is blocked by a wall of pure blackness, just like the cave in the lizard Dungeon.
+
+There’s a bit of a line to get in, but it moves quickly, because all you need to do to be allowed in is show off your badge, and as long as it’s silver or better, you can go in. It only takes about a minute for me to reach the front of the line, and while I get some weird looks for my ears, when I flash my badge, they let me through with a nod. Then, something strange happens when I walk into the darkness.
+
+[ Welcome to the Boar Forest Dungeon. Which Instance would you like to enter? ]
+
+[ Instance 1. Difficulty: Easy. Current occupancy: 193 ]
+
+[ Instance 2. Difficulty: Easy. Current occupancy: 179 ]
+
+[ Instance 3. Difficulty: Easy. Current occupancy: 203 ]
+
+[ Instance 4. Difficulty: Medium. Current occupancy: 59 ]
+
+[ Instance 5. Difficulty: Medium. Current occupancy: 64 ]
+
+[ Instance 6. Difficulty: Medium. Current occupancy: 51 ]
+
+[ Instance 7. Difficulty: Hard. Current occupancy: 5 ]
+
+[ Instance 8. Difficulty: Hard. Current occupancy: 6 ]
+
+[ Instance 9. Difficulty: Hard. Current occupancy: 0 ]
+
+Abby, what’s going on?
+
+“This is a Field type Dungeon.”
+
+What does that mean?
+
+“Dungeons have a few different types. The two you’ve entered previously are Tower types, which have increasingly more difficult floors with bosses at the end. Whenever a person or Party enters, a new instance is started, and no other people or parties can enter that instance without permission from those inside.
+
+“Field Dungeons, on the other hand, have a set number of instances, and entrants share them. Rather than being caves with limited routes and set monster spawns, Fields are usually much larger areas filled with random monster spawns. Depending on how it’s organized, monsters could spawn truly randomly, or at set times.”
+
+I see. Alright, I choose Instance 9.
+
+As soon as I think that, the black void around me swirls, and a moment later, I’m standing in a forest. And not a weird, underground cave forest. A whole, real forest full of normal trees and birds and it even has a sky with a sun and clouds.
+
+[ Yona has entered ]
+
+Abby, how can there be a whole place like this in a Dungeon?
+
+“It’s all artificial. The sky isn’t real, and this is only a limited area. It should be quite large, but it’s not limitless.”
+
+Interesting. What other kinds of Dungeons are there?
+
+“Challenge Dungeons and Story Dungeons. Challenge Dungeons are similar to Tower Dungeons, except rather than having bosses, they have Challenges, which are similar to Quests. To move on to the next Floor, the entrant must complete the Challenge, rather than slaying a boss in a boss room. The floors are also often more similar to Field Dungeons than the typical Tower type.
+
+“Story Dungeons are the rarest type, and the strangest. In a Story Dungeon, the entrants are thrust into a scene and given roles. Like Challenge Dungeons, they are given a Challenge to complete, but unlike Challenge Dungeons, they have the restriction of being required to maintain their roles.”
+
+What happens if they don’t maintain their roles?
+
+“Unlike all other Dungeon types, Story Dungeons have inhabitants that can think for themselves. Or at least, they appear to be able to think for themselves. They are, at the very least, much more complex than the average monster. There are often characters that are beyond the entrants’ means to deal with, and breaking character can draw their ire. It’s dangerous to break character in a Story Dungeon.”
+
+Very interesting. So it’s like acting, but if you mess up, you die.
+
+“There’s more leeway than that, but essentially, yes.”
+
+Fascinating. Also, you’re being more helpful than usual. If you keep it up, I’ll call you Ubby. Useful Blue Box.
+
+“Please don’t. And this information is actually supposed to be restricted, but apparently, possessing a Dungeon Core has unlocked it. So don’t go around talking about this as if it’s common knowledge.”
+
+Got it. Actually, that reminded me. I almost forgot I had that Dungeon Core. Is there any way for me to control what kind of Dungeon it is? I think a Field Dungeon would be best if I want lots of food.
+
+“If the one that consumes the core is sapient, they can consciously control how the Dungeon forms, but if you feed it to something non-sapient, it will be random. Well, random among Tower, Field, and Challenge. Story Dungeons can only be created by sapient cores.”
+
+Dang, that sucks. Maybe I’ll find another Skarn though and then I can force them to eat it and make it a Field Dungeon.
+
+“That is certainly an option, though a cruel one.”
+
+If they’re like Skarn, then they deserve it. But anyway, this is basically just a big place full of monsters that I can kill?
+
+“Pretty much.”
+
+Sweet. I can already sense more food!
+
+My Food Sense has a pretty big range now, especially since Gluttony went up a stage. It’s at least two hundred meters, and lucky for me, there is a boar lying in some brush within that range.
+
+Before I go hunt it though, I take a bit of time to look around. This really does just feel like a normal forest. Aside from the massive wall of void behind me. It’s still there, and Abby confirms that I can just walk out of the Dungeon whenever I want. Otherwise though, everything seems pretty normal. There are normal birds flying around, bugs in the ground, squirrels and other critters in the trees, and more. If not for the fact that I came in through the portal thingy, I wouldn’t know I was in a Dungeon.
+
+I start walking casually in the direction of the boar I sense, still marveling in my surroundings. Abby, can the Dungeon set its own terrain?
+
+“Yes, if it’s sapient, the Dungeon master can choose the appearance of the Dungeon.”
+
+Perfect! I need to go find a Skarn so I can make him make me the perfect Dungeon. Just think about it. A beautiful lake surrounded by forest on one side, plains on the other. Fish in the water, cows in the plains, and I guess boars in the forest. Maybe some chickens or something around somewhere too. Maybe I can even have him make a cabin or something! I can sit on my porch in my personal Field Dungeon eating a magnificent monster meat meal made by my mana maids!
+
+“Mana maids?”
+
+Well, if my Profession is gonna be about cooking with mana constructs, then I can call those constructs maids if I want.
+
+“But you could also–”
+
+Shut up, I just wanted a word to finish the alliteration.
+
+I keep walking, and when I’m about twenty meters away from the boar, it suddenly stands up, bursting out of the brush and lets out an ear-piercing squeal before charging toward me. It’s about the size of a horse, and I can feel the ground rumbling with every step it takes. As it gets closer, I read its namecard before Blinking away.
+
+[ Greater Bristleboar, lvl ?? ]
+
+Ooh, it’s a Tier 3. Yummy! Fire Burst!
+
+A miniature fireball shoots out of my hand and hits it in the side as it tries to turn to where I teleported to. The fireball explodes when it makes contact with its fur, but doesn’t even leave a mark.
+
+Dang, that sucks. I guess it’s not a Tier 3 for nothing.
+
+I Blink away as it charges again, and while it tries to figure out where I went, I charge up another Fire Burst, this time shoving a bunch of mana into it. It doesn’t reach max capacity, but it’s much stronger than the first one, and this time, I fire it straight at the boar’s face as it charges at me. It turns its head slightly, and the ball hits right on its cheek before exploding.
+
+The explosion is much bigger this time, and it’s powerful enough that the force of it makes the boar stumble, but when the fire dissipates and the smoke clears, the boar is still standing there. It’s injured, with half of its face seared, and one of its eyes turned into goop, but it’s also very obviously nowhere close to dead. It lets out another terrible squeal, and I cover my ears to try to block out the noise. My high Sensitivity lets me somewhat control what I hear, but it can’t block out everything, and the boar is loud enough and at just the right pitch that it kind of gives me a headache.
+
+It lowers its head like it’s going to charge, so I prepare to Blink again, except this time, it doesn’t charge. Instead, all the fur on its back starts to stand on end, and a moment later, forms into needles and fires outward. My eyes widen, and I teleport backward away from the omnidirectional attack, but one of the needles still hits me in the thigh.
+
+“You bastard!” I shout at it.
+
+The needle doesn’t actually hurt much. It wasn’t very strong, so only the very tip of it managed to penetrate my Resilience-enhanced skin. What it did do, however, was put a hole in my brand new, custom skirt.
+
+“Why are you wearing a skirt in a Dungeon?”
+
+It’s called fashion, look it up.
+
+I tear the needle out of my thigh. And chuck it at the boar, which is already charging at me again. I was actually pretty decent with throwing knives back on Earth, and while this isn’t a knife, it’s similar enough that my Finesse takes over, and the needle flies more or less straight, and it’s almost on target. Rather than skewering the boar’s brain, it hits its back, but my Power is high enough that the needle was moving so fast it still penetrated its skin, making the boar squeal again.
+
+I Blink out of the way, and a moment later, the hunt resumes. I teleport away and throw a Fire Burst at it, it charges at me, and occasionally fires its needles. Learning my lesson from the first time, each time after that when it fires its needles, I make sure to Blink behind a tree so that I have cover and my skirt doesn’t get messed up anymore. It’s kind of an annoying fight since it’s too slow and stupid to hurt me, and my Fire Burst is too weak to do more than surface-level damage, but eventually, I’m able to whittle it down and exhaust it. It helps that I’m pretty sure Fire Burst reached Peak Proficiency mid-fight, so the final attack was strong enough to rattle its brain to mush.
+
+[ You have slain Greater Bristleboar, Tier III, lvl 5. Experience points allocated ]
+
+No levels, but eh. I wasn’t expecting levels. I already got the real prize. Fire Burst.
+
+[ Fire Burst: Shoot a projectile of concentrated fire mana that explodes on impact. Proficiency: Peak. Includes: Ember ]
+
+Beautiful! Upgrade Fire Burst!
+
+The Annoying Blue Box shows me a couple different options, but obviously, I choose Fireball. It’s not really even a competition. The description is a little lame, unfortunately, being identical to Fire Bursts with only the word “extremely” added before “concentrated,” but the effect is not lame. I immediately launch a fireball at a nearby tree and just as I hoped the default, uncharged spell is already almost as strong as a fully charged Fire Burst. And the fully charged version…
+
+As I charge up a full fireball with as much mana as I can, another boar enters the range of my Food Sense, probably drawn by the explosions and the sounds from the first battle. Smiling, I stow away the fully charged fireball with a conjured head, then run toward my new victim. It squeals when it sees me, then stops when a fully charged fireball explodes on its head.
+
+The explosion is deafening, and leaves my ears ringing, as well as a very large portion of the forest decimated. I am very glad that I decided to detonate that from far away, because that was almost as strong as A’s explosion. Well, “almost” is a relative term, but the circle of destroyed forest is more than half the size of her circle of destroyed forest, which is a lot more than Fire Burst or Mana Burst can do.
+
+And as for the boar… It’s dead. It also doesn’t have a head. Or most of its front legs. And the rest of it crashed into a tree, so it’s all broken and mushy. The meat is probably not the best anymore, but I store it anyways, and then go look for more victims.
+
+I float around the forest on a mana hand, raining hell on any boar unfortunate enough to exist in my range of detection. In the process, I fine tune my control of Fireball, figuring out exactly how much mana I need to add to kill a boar without ruining the body, and how far away I can safely stand. The answer to that second part is actually a lot closer than I thought it would be, but that’s only because my Resilience is so high that the shockwave does basically nothing to me, and I only really have to worry about the heat from the flames ruining my clothes.
+
+This experimentation is enough to push Fireball to Middle Proficiency, at which point I switch over to using Spatial Slice so I can get some better meat. Even the weaker fireballs still kind of liquified the boars’ innards, so a lot of the meat ended up ruined. I kill about twenty boars this way, storing them away to eat later, while also grabbing a leg to eat raw as I travel. It actually tastes pretty good raw, and it has a nice, high mana concentration, so eating it helps me recover so I can kill more and fly for longer.
+
+Right as I kill the twentieth, I glance at the Timer I set when I entered. I can’t miss the lunch meeting, so I made sure to give myself a reasonable time limit, and I now have ten minutes left of that time limit.
+
+I start floating back to the portal in the center, and as I do, another boar spawns right below me. I glance at the timer, then down at the boar, and shrug. I’ve got time, and I’m not gonna complain about more food.
+
+I float down, and kill it almost instantly. These boars were decent at resisting the fire, but they have no chance against Spatial Slice. That Skill is kind of overpowered. I guess Abby was right about spatial magic being strong.
+
+Before the boar’s body even finishes falling to the ground though, a new Annoying Yellow Box appears in front of me, blocking out the Annoying Blue Box of the kill notification.
+
+[ WARNING! Monster death requirement met. A Field Boss will spawn in 9:59. Slay it to earn bonus rewards! ]
+
+Abby, what’s this?
+
+“I didn’t mention it because it’s very rare and I figured it wouldn’t happen, but I guess I should have known it would, given your luck. In Field Dungeons, when enough monsters are killed in an Instance, it will spawn a Field Boss, which is much stronger than any of the other monsters in the Field. In fact, it’s so much stronger that entrants usually can’t take it down alone, and whole instances will need to work together to clear it.”
+
+I lick my lips.
+
+Sounds delicious.
+
+“I figured you say that. I should also warn you that in some Field Dungeons, the spawned Field Boss will be Named Disaster.”
+
+Even better! Sorry in advance, Lauren, Chad, twins, but I might be a little late!
+
+I float my hand right over to the center of the forest and then wait out the ten minutes until the Field Boss spawns. My own Timer goes off while I wait, so I just reset it for fifteen minutes in case I get distracted and forget. I might be a little bit late to meet the others, but I’m sure it’ll be fine. This is much more important anyway. I might finally have a chance to collect more Named monster meat!
+
+When the timer for the boss reaches zero, for a second, I’m worried that it’ll take a while to find the Field Boss. As it turns out, that was a dumb worry. As soon as the timer finishes, the field boss appears and lets out the biggest, most awful squeal ever. It echoes across the entire Dungeon, and when I turn to look at its source, I don’t even need my enhanced Sensitivity to see it.
+
+It’s enormous, at least twenty meters tall, and it towers over the treeline. When it takes a step, the ground shakes, and all the trees in its path are destroyed. Gleefully, I fly toward it, and when I get to right about the edge of my Food Sense’s range, I can see its namecard. I’ve never been able to see a Namecard from so far out, but I guess the range is based on the size of the monster. When I read it, my eyes light up.
+
+[ Menyar, Terror of the Forest, lvl ? ]
+
+Ohmygosh it’s perfect!

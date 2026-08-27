@@ -1,0 +1,79 @@
+---
+id: 624b32d4-1391-53d6-9191-ef7a65292488
+page-type-slug: story-chapter-royal-road
+title: "7: Walking"
+slug: 0007-7-walking
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 7
+ownLength: 1079
+unit: words
+publishedAt: 2025-08-17
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2525553/7-walking"
+royalRoadId: "2525553"
+---
+
+Chloe had been walking for a long time. She didn’t know how long exactly, not that she kept track. But the weird ceiling above had turned dark, then bright, then dark again. A lot.
+
+The forest stretched on without mercy, a never-ending sprawl of trees, roots, and silence. The ground shifted under her feet, sometimes soft with damp leaves, other times dry.
+
+Now and then, some twitchy creatures darted through the underbrush. Chloe barely spared them a glance. None of them had the right kind of brains that she wanted to eat. Really, only human brains or something comparable would be worth her time.
+
+But eventually, the trees thinned. And with one last step, Chloe stumbled out into something completely new. Her mouth fell open.
+
+All around her stretched open space. A flat, endless sprawl of green. The grass was short and soft-looking, rolling out in every direction. The sheer emptiness of it unsettled her.
+
+Where had everything gone? The tight corridors, the stone walls, the comforting dark? This place was too wide, too bright, too... exposed.
+
+She took a step forward, glancing left and right. The wind stirred the grass around her ankles in gentle sweeps. In the distance, faint shapes shifted. Some small. Some large. Maybe animals. Maybe people. Maybe both, or neither.
+
+Curiosity tugged at her, and she kept walking, eager to see how far the green would stretch. Time slipped past unnoticed as the landscape offered more of the same. Just grass, a few large rocks here and there, and nothing else.
+
+Compared to the dungeon, this new place felt dreadfully tame. Certainly too peaceful compared to what Chloe was used to.
+
+She was just about ready to flop down and start rolling through the grass out of sheer frustration when something shifted far ahead. Her eyes sharpened.
+
+A small herd of four-legged creatures grazed quietly in the distance. Tall and lean, all jittery limbs and vacant stares, with soft brown fur and strange little faces. Their ears flicked at every sound, and their wide eyes gave them an oddly knowing look.
+
+Chloe crouched behind a rock and stared at them, intrigued. They didn’t look like monsters, and they didn't look like a predatory animal either. Not with those twitchy legs and blank expressions. Maybe some kind of grass-sniffing animal. Weird little things.
+
+The creatures turned their heads toward her, and Chloe tensed, ready to spring if they made a move. But instead, they simply blinked, let out a few snorting noises, and bolted, vanishing into the sea of grass without a fight.
+
+Though a bit confused at what those creatures were, Chloe continued on walking. The wind tugged at her tattered cloak, and she briefly considered screaming just to hear something interesting.
+
+But further ahead, something finally broke the monotony. Oh! I think I see humans! Yes, yes, yes, I can finally get some quality brains.
+
+Chloe dropped low, creeping forward with a predator’s patience, looking at the figures ahead. There were a group of humans, circling something on the ground.
+
+Each wore patchy armor scuffed with dirt, and black markings crawled across their arms like inked chains. They didn’t look impressive, not by a long shot. From the way they moved, all sloppy and careless, they seemed easy enough to take down. Probably.
+
+At the center of the group was something that made her pause. A strange wooden structure, which looked bulky and clearly heavy, rested on four wooden circles, but it had toppled onto its side, splintered and cracked like it had been struck hard multiple times.
+
+In front of it stood two creatures unlike any she’d seen: massive, four-legged, and coated in glossy hair. Their heads were long, and their ears flicked nervously, just like the smaller animals she’d spotted before. But these looked like they could crush skulls without even trying.
+
+Leather straps bound them side by side to a strange wooden contraption, their broad frames tensed with slow, heavy breaths. They looked powerful, built to drag that hulking thing across the world without breaking stride. Questions crowded Chloe’s mind. Were these creatures dangerous? Did they bite? Could she ride one… or maybe both?
+
+The whole sight filled her with glee and curiosity. The humans were clearly guarding it, or maybe threatening it? She didn't really care either way.
+
+As Chloe crept closer, the figures ahead came into sharper view. The humans weren’t just standing around, they were rummaging. One after another, they reached into the wooden thing and pulled out various objects. Tossed carelessly into a growing pile on the grass.
+
+One of them stood slightly apart from the rest, murmuring softly to the two large beasts at his side, as if trying to soothe them. The others were busy rummaging through something large and wooden.
+
+The way they handled the objects all looked practiced, like they’d done this a hundred times before. That could only mean one thing: whatever was inside that big wooden thingy had to be valuable. Which also meant, if she killed them, the loot would be hers. And their juicy little brains? Just a lovely bonus.
+
+Chloe rose to her feet. It was time to make her entrance and get herself both some brains and a bit of loot.
+
+She lifted one hand, fingers splayed. A rock shimmered into existence in the air above her palm, hovering with a faint, eager tremble. Her eyes locked onto the nearest looter, and she drew a careful line from her fingertips to his chest. Not the head. No, she wanted that intact.
+
+Better to aim somewhere that didn’t ruin the good stuff. Which, in Chloe’s mind, meant anything that wasn’t the brain.
+
+With a flick of her wrist, the stone shot forward with a sharp hiss. It struck the man square in the chest. He staggered back, mouth falling open in a silent gasp. Blood sprayed in a wide arc as the rock tore clean through and punched out the other side.
+
+[You have killed: Zack Blacktooth (Human Bandit Level 7)]
+
+[Experience Awarded]
+
+The two massive four-legged creatures tethered to the wooden chest reared their heads with wild snorts, eyes wide with fear. They thrashed against the leather straps, hooves tearing at the ground as they tried to run.
+
+Meanwhile, the humans turned in unison, startled by both the creature's outburst and the corpse now crumpled in their midst. One of them, a scruffy brute with a thick beard, jabbed a finger towards her.
+
+“Oi, kill her!”

@@ -1,0 +1,69 @@
+---
+id: da78a64e-fe23-5403-989a-0c4ba2454cc0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1398 - More Mutating"
+slug: 0045-chapter-1398-more-mutating
+partOf: chrysalis
+position: 45
+ownLength: 1101
+unit: words
+ownProgress: 1101
+publishedAt: 2024-08-29
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1778935/chapter-1398-more-mutating"
+royalRoadId: "1778935"
+markedReadAt: "2026-06-29T19:45:04.511Z"
+---
+
+Just those two mutations are going to cost me one hundred and sixty five a piece. It’s so expensive to mutate at this tier… and it’s harder than ever to get a decent amount of Biomass! Those stomach mutations are a lifesaver, seriously.
+
+Moving on, I think it’s time to take a look at some other, key body parts that could use some powering up. First of all, the Vestibule.
+
+I’ve focused entirely on increasing the range so far, all the way to +30 and it really pulls in the Will, that’s for sure. At the +35 level, I have no idea what sort of options are going to show up, but I probably don’t need any more range? Surely there’ll be something interesting.
+
+I mean, all the Vestibule does is pull in Will, or receive Will, or whatever, and send it into my body, which gives a variety of effects. My remarkable endurance is due to the Vestibule, after all. The only thing it doesn’t help me regenerate is mana.
+
+Improving the range is amazing, but there has to be a limit. I mean, no matter how much I mutate it, it’ll never reach the second stratum from the fifth.
+
+Diving into the menus once again, I look around for anything that might prove useful. Despite its seemingly limited function, there’s still a lot of options for the Vestibule, and I take the time to read a selection to try and get a sense for what is possible.
+
+There’s a few options that take me by surprise, such as one which effectively lets me aim the vestibule? From the description, it seems to… direct the opening in order to extend the range even further? Right now, it doesn’t matter where a member of the Colony is relative to me, so long as they fall inside the area of the Vestibule’s effect, I’ll receive the Will they send me. With this mutation, I could point the Vestibule ‘up’, and only receive Will from ants above me. It sort of makes sense, since most of the Colony are generally above me in the Dungeon, but even if it doubled the range, I still don’t think it’s worth it.
+
+Another option lets me shut the Vestibule? I mean… why? If I think of the Vestibule as a gateway, this mutation lets me put a door on it? I really don’t see the benefit… but hey, it’s in the list, so it must have a purpose… probably.
+
+There’s one that puts some sort of… watchdog on the Vestibule? It says it defends it in the description, but again, from what? And how? This, along with the Templars showing up in the Nave, tells me that there’s a lot more to the Vestibule than I know. Clearly, it’s possible to interfere with the energy in a nefarious way, but I can’t imagine how that works.
+
+Eventually, I narrow down the options to a few I feel I can live with.
+
+The first is an Infusing Mutation that will improve the regeneration rate provided by the Vestibule. Faster fatigue reduction, stamina replenishment, organ refill… it hits a lot of boxes and makes the Vestibule better at what it does.
+
+It’ll also be extremely useful down in the fifth. The more I can regenerate, the longer I can stay in the toxic environment. With the number of ants heading down there, I’ll be able to refill my regeneration gland every few minutes. Gweheheheh.
+
+The other mutation that catches my eye allows the Vestibule to pull in Will faster… which is… interesting? I didn’t realise it had a speed or anything of the sort, but effectively, this will allow me to take in more Will over time from the same number of ants. This will also have the effect of improving my regeneration, but from a different angle. The Will isn’t used more efficiently, but there’s more of it. This mutation will also help refill the Altar faster, which is obviously a win.
+
+Come to think of it, these two would be excellent when fused together. If I reach +45 and combine them, my regeneration will skyrocket. Planning ahead! How fancy!
+
+For now, I choose the Accelerated Absorption mutation and move onto the Nave.
+
+So far, my Nave mutations have been focused on two things, increasing the number of ‘seats’ in there, though I’m not completely sure what that does, other than allow me to talk to them directly without any sort of mental link, and condensing the energy that flows through. Looking through the list of mutations now, I can see there’s a lot of new options, and a few that I don’t necessarily like.
+
+There’s one that makes those providing Will more susceptible to suggestions by the receiver. Uh… no? What the heck?! There’s another one that drains free will along with whatever Will is already being provided. Excuse me?! What the heck is going on here?! Just what is this organ for?
+
+It’s almost a relief when I find one I like.
+
+Empowering Nave, which allows me to direct the flow of Will to those with a place inside the Nave. It doesn’t help me out, but it will allow me to powerup anyone who’s inside the Nave, which should include the Templars as well, unless I miss my guess. This is a nice way to give something back to the Colony, which makes me happy. I took the Altar of Self so I could turn myself into the defender of my family, but there are plenty of others out there doing work for the Colony. This mutation lets me help them out, even just a bit.
+
+Lock it in!
+
+Finally, I turn my attention to the Altar.
+
+Again, two different mutations have been my focus so far: capacity, and cost reduction on Gravity-related abilities. The Altar holds more juice, and using it to empower my gravity spells costs less, both great choices, and I’m a big fan. However, at +35, we need something a little more show-stopping.
+
+I dive into the expanded list of options, hoping to find something that has a bit of punch. The Altar is already my trump card, turning me into a pseudo tier eight monster with my absurdly beefed up attacks. What could tip it over the edge? I’m hoping the more powerful mutation options at this tier will provide an answer.
+
+And they do.
+
+Impregnable, which allows me to directly empower my carapace. Gweheheheh. I’m going to be invincible!
+
+I confirm those mutations with glee, then immediately collapse as the fiery itch erupts all over my body.
+
+DAMMIT!

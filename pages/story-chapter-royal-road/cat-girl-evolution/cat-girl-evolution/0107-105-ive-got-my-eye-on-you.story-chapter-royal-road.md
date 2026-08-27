@@ -1,0 +1,195 @@
+---
+id: dac87490-adea-5d67-bb1a-6259e6ca67a5
+page-type-slug: story-chapter-royal-road
+title: "105 - I've Got My Eye On You"
+slug: 0107-105-ive-got-my-eye-on-you
+partOf: cat-girl-evolution
+position: 107
+ownLength: 2192
+unit: words
+publishedAt: 2026-03-28
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3202657/105-ive-got-my-eye-on-you"
+royalRoadId: "3202657"
+---
+
+When I point out the moons to the others, we all stop and stare up at them for a few seconds.
+
+“The Lunar Festival isn’t supposed to be for a few more months,” muses A.
+
+“And the locals don’t seem to be feeling very festive at the moment,” agrees B.
+
+“So the Dungeon doesn’t follow the outside’s flow of time,” says Lauren.
+
+“But what does it mean?” I ask.
+
+All three of them shrug.
+
+“It’s probably related to the challenge,” says Lauren. “Same as the Sanctuary and the Great Tree.”
+
+“It’s likely nothing urgent, though,” says A. “Otherwise, there would be more people trying to leave.”
+
+“And the first Floor’s challenge shouldn’t be difficult, since even civilians are able to complete it when they want to leave,” adds B.
+
+“Huh,” I say. “Yeah, that makes sense.”
+
+The people all around us are civilians, and while I still think that the Lunar Festival is related to completing the Challenge, the twins are right. If this was time sensitive, the locals would absolutely be lining up somewhere to complete the Challenge and leave. Or if they didn’t need to line up, they would have been disappearing from their homes. But I haven’t sensed anything like that during our exploration.
+
+I look up at the moons again, knowing they’re important, but I can’t think of anything helpful, so I just join the others as we head back to our inn for the night. The next morning, we have a sizable breakfast before heading right back to the castle in the center of the city. When we get there, we reject the offer for a tour, and instead head straight for the Sanctuary doors, which are now wide open. There is a pair of guards, but they just nod at us as we walk in, making no move to stop us.
+
+I have to admit that the Sanctuary is one of the most beautiful places I’ve ever seen. Most of it is taken up by a well-curated garden set up to look somewhat natural. There’s a small creek that forks, near the opposite side of the wall and runs along either side of the room before ending in miniature waterfalls that lead beneath the walls and away through the castle.
+
+There are trees placed seemingly at random all around, each bearing a different kind of fruit, as well as bushes covered in berries, and I can sense birds, squirrels, and other small critters living all around.
+
+The Great Tree sits right in the center of the enormous room, towering above everything else. It’s close to fifty meters tall, its upper branches reaching the base of the glass dome, and just as promised, the fruits it bears look like enormous, perfectly ripe mangos. I immediately Snatch one, and before Lauren can see what I’m doing and object, I expertly cut into the skin with Spatial Slice, peel it back, and take a big bite out of the meat.
+
+Juice dribbles down my chin as I chew, but I barely notice. The fruit is delicious. It doesn’t just look like a mango, but it tastes like one too, but somehow even better. It definitely helps that the fruit is infused with a pretty decent amount of mana. Probably as much as is usually in Tier 1 monster meat. That’s not actually that much, but compared to every other fruit I’ve head, it’s a huge step up.
+
+“Yona?” says Lauren, looking at me with an eyebrow raised.
+
+“What?” I say, mouth full of my second bite. “They said they eat these during the Lunar Festival, right? I’m sure I can eat one now too. Besides, this is a Dungeon, and it doesn’t seem to mind. It can just regrow the fruits, right?”
+
+“Yes, but we’re supposed to be investigating the history of the city, and this tree is supposed to be sacred.”
+
+“It definitely tastes sacred.”
+
+She sighs. “Just don’t go too far. Please.”
+
+“Alright,” I say with a shrug as I take a third bite.
+
+“Can you grab one for us?” says one of the twins in my head.
+
+I respond by Snatching two more and starting the peeling process on each before handing one to each twin. Then I Snatch two more and give them to Lauren and Chad. Lauren gives me a disapproving look, but still accepts the fruit before turning to continue deeper into the Sanctuary.
+
+There’s no one else here right now, so as we move, we slowly drift apart as we all go to investigate the area. The fact that the Dungeon locked us out of here at night more or less proves that the Sanctuary is related to the Challenge, so over breakfast, we all discussed how to go about clearing it, and we decided the best way to start would just be looking around.
+
+With Food Sense, I’m already more or less aware of everything here, and I’m pretty sure I’ve already found the clue we’re supposed to find here, but I don’t want to ruin the experience for the others, so I just start wandering the garden instead. The twins approach the tree, having a telepathic conversation while also casting a few small spells that I assume are analytical ones from their Professions. Meanwhile, Chad and Lauren mimic me and split off to different areas of the garden.
+
+I walk between the trees plucking an apple and something that looks like a banana with mana hands as I continue to enjoy the giant mango. While Food Sense gives me a pretty exact idea of where everything here is, it’s still only a general spatial sense, so seeing things with my eyes is still a fresh and fun experience. I take my time enjoying the sights, looking at all the unique fruit and occasionally floating myself up so I can look into bird’s nests and squirrel hollows. When I’m floating next to one of them, a squirrel pokes its head out, its nose twitching in the air.
+
+“Hey there, little guy,” I say.
+
+“Hey yourself,” it responds in a slightly nasally male voice.
+
+I blink in surprise.
+
+“What, never seen a talking squirrel before?” it asks. “Just messing with you. I’m not a talking squirrel. I’m the Dungeon Core. And I see that Title you’ve got. Try to destroy me and I can and will kill you. Sin Trait or not, you’re dead the second you even think about destroying me.”
+
+I blink in surprise again.
+
+“I wasn’t planning on it.”
+
+“Yeah, sure,” it says, clearly not believing me. “I’ve got my eye on you.”
+
+“Hey!” I say. “Just because I have the Title doesn’t mean I’m out to destroy Dungeons. I mean, do you really think I could be walking around freely if I was some kind of crazed Dungeon Destroyer?”
+
+“Yes,” it says. “You’re an Infiltrator. You could destroy them under a completely different identity and no one would know.”
+
+“Hmm, fair. But also, why would I destroy the home of one of the Seven Delicacies? That would be a crime against the culinary world.”
+
+“I dunno. Why did you destroy that other poor Dungeon?”
+
+“Because it was dumb and had the core itself acting as the boss monster?”
+
+“Well, if that’s true, that would explain things. Young cores sometimes have no other choice if they don’t have enough experience points to make stronger monsters.”
+
+“Yeah. So you can stop being suspicious of me.”
+
+“Hmm, let me think about it. No. There’s no way for me to know if you’re telling the truth, and it’s not like I’ve got anything better to do. I’ll be watching your every move.”
+
+“Even when I’m changing? Pervert.”
+
+“Especially when you’re changing,” the squirrel licks its lips. “If you want to avoid that, you can just leave. I won’t stop you. Alright, I’m gonna go now, bye.”
+
+The squirrel blinks, then looks at me in surprise before disappearing back into its hollow.
+
+Abby, how did he possess the Squirrel like that?
+
+“It’s somewhat costly, but Dungeon Masters can directly control aspects of their Dungeons if they want. I assume that’s what he was doing here. And it probably didn’t cost him much at all, given how ancient this Dungeon is, and how little it’s changed over time.”
+
+Oh, interesting. You’d better add a cat for me to possess in my Dungeon, then.
+
+“Yep, I already did that, actually.”
+
+Excellent. This is why I hired you as my Butler.
+
+“Your will is my command, Your Highness.”
+
+I glance around, and focus my Food Sense on the others, but none of them seem to have heard my conversation. All of them should have had more than enough Sensitivity, and I wasn’t exactly being quiet, but it looks like the Dungeon Master did more than just take over the squirrel. It doesn’t really matter though, so I just shrug and continue on my walk for another minute or so before I hear one of the twins’ voices in my head again.
+
+“We think we found something. Come back to the Great Tree.”
+
+I circle around slowly, reaching the Great Tree a few seconds after Lauren and Chad return to find the Twins standing on either side of an odd, protruding root on the back side of the tree. It’s unnaturally bent, and pointing upward out of the ground, and there’s dried blood on the tip of it. I actually hadn’t noticed the dried blood with Food Sense, but it makes sense with the other stuff I sensed.
+
+“This is clearly important,” says A.
+
+“The blood is at least eight hours old, meaning that it would have gotten on the root last night,” says B.
+
+“But the Sanctuary was closed last night, which means that either someone found a way in after hours…”
+
+“...Or the blood was deliberately left here by the Dungeon as a clue.”
+
+“Either way, it’s important, and we have a few theories as to why.”
+
+“Well, one, really. There are many reasons that there might be blood here, but only one that truly makes sense.”
+
+“Given the supposed time that the blood was left, and the fact that we know was the day of the moons’ alignment and the supposed day of the Lunar Festival, we can assume that something was impaled on this during the Lunar Festival.”
+
+“Basically, something was sacrificed to the tree during the Lunar Festival.”
+
+We all nod.
+
+“There are also bones buried between the roots over there,” I say, pointing to a patch of grassy soil that’s clearly looser than its surroundings.
+
+“So you think that the way to complete the first Floor’s Challenge is to sacrifice something to the tree?” asks Lauren.
+
+“During the lunar alignment, specifically,” says A.
+
+“Though we can definitely try it now,” says B.
+
+“Makes sense,” says Lauren, nodding.
+
+“It does, but how does this start the end of Maligar?” I ask.
+
+“Well, given that we already know that the final boss is a plant monster that produces mango-like fruits…” starts A.
+
+“It would make sense that these sacrifices Awakened the Great Tree,” finished B.
+
+“That’s possible?”
+
+“Yes,” say the twins at the same time as Lauren and Chad both nod.
+
+“Huh. I didn’t know that.”
+
+“It doesn’t happen often, but it’s a known phenomenon,” says Lauren. “I guess you don’t know, since you didn’t grow up here, but there’s a popular children’s story called Jack and the Beanstalk where a young boy named Jack accidentally Awakens a beanstalk plant that ultimately ends up killing his younger sister.”
+
+“That’s… dark,” I say.
+
+“But an effective lesson.”
+
+“I didn’t say it wasn’t.”
+
+“Do you think that maybe the reason that story is told everywhere is because of the lessons that Maligar teaches?” asks Lauren, turning to the twins.
+
+“Very possible,” said A.
+
+“It would definitely make sense,” agreed B.
+
+“But it feels a bit too simple for that to be the whole lesson of the Dungeon,” I say.
+
+“Also true,” says A.
+
+“But that’s clearly the lesson of this Floor,” says B.
+
+“Yeah…”
+
+“Well, Yona, why don’t you grab us a sacrifice,” says Lauren after a few seconds. “We can see if it works now, and if it doesn’t, we can figure out how to get in at night later.”
+
+“Alright,” I say.
+
+I use Food Sense to search the garden for the squirrel that the Dungeon Core spoke to me through, and Snatch it. It squirms in my hand, but being an ordinary, Unawakened beast, it has no hope of escape, and can only struggle helplessly as I impale it on the protruding root. It squirms for a moment more on the root, then goes limp. Not even a second later, it starts fading until it disappears, leaving no trace of itself behind. The dried blood looks exactly the same as it did before.
+
+“Well, that didn’t work,” I say.
+
+“That’s clearly not the intended way, but the fact that the Dungeon cleared it so quickly only proves that we’re on the right track,” says Lauren. “Since it wants to preserve the root in that state for other Adventurers to find.”
+
+“Guess that means we need to find a way in at night.”

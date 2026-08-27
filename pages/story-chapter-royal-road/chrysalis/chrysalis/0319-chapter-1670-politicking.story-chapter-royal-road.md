@@ -1,0 +1,109 @@
+---
+id: 2cb2f7df-eb15-521a-a720-6763753352cb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1670 - Politicking"
+slug: 0319-chapter-1670-politicking
+partOf: chrysalis
+position: 319
+ownLength: 1024
+unit: words
+ownProgress: 1024
+publishedAt: 2025-10-20
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2689781/chapter-1670-politicking"
+royalRoadId: "2689781"
+markedReadAt: "2026-06-29T19:54:01.016Z"
+---
+
+“We are worried about your future.”
+
+It was an odd day. Alice Erry had not expected to be seated across from a monster when she had woken up that morning, yet indeed, here she was. The room itself was opulent, which shouldn’t be too surprising, considering whose ship it was.
+
+Neutral ground, they’d said, since they were unwilling to meet within the Green Mountain itself. A smart decision. Within the confines of the city, they would be treated like the Dungeon spawn that they were.
+
+Was that carpet really woven from Amber Frost fibre? And who thought of putting a carpet in a ship?
+
+Surely the damp… she shook her head, it was no business of hers.
+
+Of all the irritating things in front of her that she had to deal with, by far the most was the… creature across the table from her.
+
+Positively hideous. Its carapace was a russet red, except for the rear section, which was pitch black, much like the beast’s multi-faceted eyes. With fine hairs sticking out of its antennae, the monster was often fidgeting, cleaning its antennae or using its middle or rear legs to scrape alongside its carapace in a disturbing display.
+
+The more she sat across from it, the less inclined Alice was to remain in the room.
+
+Her translator, a fiercely moustachio’d man named Inger, was staring at her, waiting for a reply he could communicate via mind bridge to his opposite on the other side of the table.
+
+And this was perhaps the most offensive thing of all.
+
+“You are worried about our future?” she said, restraining herself from fully expressing her incredulity. “I hardly see how our future is any of your business.”
+
+Was it a threat? Was this disgusting thing threatening her and her people?! The very thought that these monsters were allowed to roam free, sitting here at this table under the protection of a brathian conglomerate, no less. It was outrageous, and she couldn’t for the life of her think why the Legion hadn’t exterminated them long ago.
+
+Letting an ant colony live this long was without precedent. Everyone knew how devastating an outbreak of ant monsters could be. Everyone!
+
+“I see there is some confusion.”
+
+The translator beside her kept a running dialogue, speaking aloud as soon the words were sent into his head.
+
+“We do not mean to threaten you, but to ensure that the potential for harm to befall your city is not realised. If you continue to allow delving teams leaving your kingdom to infringe on our territory, the chance that something goes wrong will only increase.”
+
+How was that not a threat?
+
+“We are under no obligation to place restraints on the Delving Union. We don’t recognise your territory at all. I’m not sure why we are here talking to begin with.”
+
+She muttered the last sentence more out of frustration than anything else. No doubt the translator passed it along, but thankfully the ant didn’t say anything. They both knew why she was there, because the brathian had threatened to put a stranglehold on Green Mountain’s trade.
+
+How these monsters had that sort of leverage, she would dearly like to know.
+
+“You don’t have to recognise our territory, or us as a sapient species–”
+
+“Why would we recognise you? You're Dungeon born.”
+
+The ant hesitated for a moment.
+
+“... To be accurate, we are born from the Queens, not from the Dungeon.”
+
+Alice shrugged.
+
+“It’s the same thing to us.”
+
+“... Indeed. Well, as I was saying. We do not require these things from you, we simply wish for you to prevent delvers from travelling beyond the markers we will place in the tunnels.”
+
+“Why would we do that?” Alice asked, staring hard at the ant. “Because they are hunting you like monsters? That’s what delvers do.”
+
+Again, the ant cleaned her antennae, dragging them through her elbows in a truly discomfiting display. They were just so… hideous. Filled with disgust, Alice kept her face smooth. She was a trained diplomat, and even here, faced with this thing, she would act like it.
+
+“I will speak clearly,” the ant said finally. “Right now, the Eldest of our Colony is undergoing evolution, and we expect them to wake up imminently. If, at that time, they find out that delvers from your kingdom have successfully been hunting and killing their siblings, they will be very angry.”
+
+Alice folded her hands on the table.
+
+“So it’s threats after all. Not that I should expect better from monsters.”
+
+The ant shook its head in a strangely human motion.
+
+“I will repeat myself, this is not a threat, but a warning. We do not control the Eldest and would fail if we tried. Of course, we will not disavow their actions, and should it come to war, then we will fight. What we would like is to create conditions where that course of events does not come to pass.”
+
+“Conditions that conveniently favour you,” Alice pointed out. “Green Mountain will never bow to threats, and we will not change our policies based on coercion. The Delving Union has always been allowed to act within their charter, and that isn’t going to change. Are we done here?”
+
+“We will pay you,” the ant said.
+
+Taken by surprise, Alice Erry blinked, then smiled. Unable to get their way through bluster and threats, now the creatures wanted to pay them off?
+
+“We can’t be bought by monsters,” she declared firmly, her gaze hardening.
+
+The longer this meeting went on, the more contempt she had for these creatures.
+
+The ant rummaged in a little pouch slung on its side, using a foreleg to extract a document and then slide it gently across the table.
+
+“This is our offer.”
+
+Alice resisted the urge to roll her eyes as she picked it up and turned it over.
+
+Doubtless it was–....
+
+She coughed.
+
+“We hope that will be sufficient,” the translator said, trying to get a glimpse of the paper's contents.
+
+She hastily folded it and stuffed it in her pocket.
+
+“I will consult with my superiors,” she said with all the dignity she could muster.

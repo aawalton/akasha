@@ -1,0 +1,153 @@
+---
+id: aa894311-2968-569e-abd4-978ac7faab41
+page-type-slug: story-chapter-royal-road
+title: "58 - Dangerous Revelations (B1 End)"
+slug: 0058-58-dangerous-revelations-b1-end
+partOf: cat-girl-evolution
+position: 58
+ownLength: 2593
+unit: words
+publishedAt: 2025-12-05
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2820331/58-dangerous-revelations-b1-end"
+royalRoadId: "2820331"
+---
+
+Pike wasn’t sure what he expected when the Adventurers returned. In the wake of all the Named monsters appearing and knowing that they had lost contact with an entire town, he feared the worst. While he maintained an impartial and stern facade externally, inside, he was deeply concerned about the Adventurers working under him, and hated when any of them failed to return. When news reached the Guild that not only had the problem been taken care of, but that it had been taken care of with no additional casualties, he breathed a long sigh of relief in the privacy of his office.
+
+Long-distance communication was expensive, so when the communication confirming that the issue had been taken care of arrived, there was nothing but silence afterward. Pike became tense again as he was filled with worry. While the issue was allegedly taken care of, it was also allegedly a Named Disaster with brainwashing capabilities, so there was always the possibility that Lauren and her Party were compromised. And even if they weren’t, they had arrived at a town full of the dead and undead. Regardless of what happened, they likely wouldn’t come back the same as they had left.
+
+And yet here they were, looking largely unaffected. Pike felt that he had gotten good at reading people over the years, and his read on the five Adventurers before him was that they were… fine? They clearly weren’t unempathetic, or dismissive of what had happened, but whatever they had seen, they seemed to be largely over it. It was unexpected enough that Pike needed an answer, and his attention immediately settled upon the one person in the group he didn’t know.
+
+She was reclining in the armchair somehow even more disrespectfully than the first time, yawning so widely a tear formed in her eye. If anyone was the source of the unexpected calmness, it would have to be her. She was the only one he wasn’t able to get a read on, and despite her attitude, the others clearly deferred to her in some ways, and her absurd level of relaxedness seemed to spread to them somehow.
+
+And despite all her faults… she had slain the Named Disaster that slaughtered a town. Within twelve hours of her arrival. Without causing any casualties. Even if she had only done it for selfish reasons, she had saved lives. While he wasn’t ready to completely drop the suspicions he had of her, he was definitely at least willing to give her the benefit of the doubt.
+
+“Are you just gonna keep staring at me, or what?” she said, making him freeze as he realized he had yet to speak. “Just hurry up and give us the rewards. I wanna nap.”
+
+The benefit of the doubt might not last very long… he thought.
+
+“First, the debrief,” he said. “I only have the barest of details, but I still need to file an official report, so I need you to share everything you can.”
+
+“There was an evil ghost shark that brainwashed the town,” said the beastwoman. “He made them think that eating was evil, so they all starved themselves to death and turned into ghosts. I killed him. The end.”
+
+“What level was it?”
+
+“Uhhhh…” Yona paused as if listening to something. “Tier 2, level 28.”
+
+On the verge of the next evolution, thought Pike as a chill ran down his spine.
+
+“What other abilities did it have?”
+
+“I dunno,” she said with a shrug. “I mean, it was intangible and had a bunch of mana, but that was it. I killed it pretty quick though, so it didn’t have time to show anything else.”
+
+She didn’t make eye contact while she spoke. She hadn’t really been doing it before either, but she would still occasionally lock eyes with his. Now, she was deliberately avoiding his gaze.
+
+“Spectral monsters often have mental magic abilities, and this one clearly had some,” Pike said, narrowing his eyes. As he spoke, Yona’s tail stopped moving. “These abilities often include things like inducing terror, hallucinations, and pain, alongside brainwashing, hypnosis, and even… possession.”
+
+The moment he said the last word, her tail twitched, then froze again.
+
+“If he had any abilities like that, he didn’t use ‘em,” said Yona.
+
+Her voice was as laid-back as usual, but her usually active tail was unmoving, and she still refused to make eye contact with him. The tension in the room skyrocketed and the change didn’t go unnoticed by the others. Lauren’s eyes widened, and the twins glanced at each other, and Pike sensed the mana of a rapid telepathic conversation.
+
+“She’s not possessed,” said A before anyone could speak.
+
+“If she was, she wouldn’t have been able to enter the Ilvara church after the battle,” added B.
+
+The tension held for a moment longer, then faded. Lauren visibly relaxed, and Yona’s tail started moving again. It would indeed have been impossible for Yona to enter the church grounds if she was possessed. Not all deities had the power to reject the undead so utterly, but Ilvara was one of them. As the goddess of life, she was perhaps the deity for rejecting the undead. Of course, the twins could have been lying and been under the Named monster’s spell, but it was easily verifiable.
+
+“Then you won’t mind if we take a quick trip to the local Ilvara church after the debrief then, I assume?” asked Pike.
+
+“Of course not,” said Lauren. “Right, Yona?”
+
+“Yeah, whatever,” said Yona.
+
+“Thank you,” said Pike.
+
+He still was certain that something relating to possession had occurred, but if Yona wasn’t possessed, then there was no need to pry further. Whatever she had done to resist it wasn’t technically any of his business, no matter how curious he was.
+
+“And what of the undead?” he asked.
+
+Yona shrugged again. “I dunno. They weren’t around when I killed it, and I never saw them again after. The church said they probably all disappeared when he did.”
+
+“Do you know the death toll?”
+
+“...There were 512 survivors.”
+
+A silence fell over the room. Yona maintained her nonchalant facade, but the others all looked down at the ground. Pike could only imagine what it had been like. Ryantown originally had a population nearing 30,000, so only 512 surviving was nothing short of devastating.
+
+“I see,” he said after a few seconds. “Did you see any signs of potential future issues?”
+
+“There aren’t enough people left to collect and trade all the scallops.”
+
+“...I see. Any signs of other Named monsters?”
+
+“Nope.”
+
+Pike stared at her for a few seconds, then sighed. He didn’t have quite enough for a full report, but he had enough for a preliminary report, which was enough for now, and she clearly wasn’t in the mood to talk. He would need to talk to the others individually as well later anyway.
+
+“Well, then that’s that,” he said, standing up. “I have your badge in my pocket right now. Let’s head to the church, and I’ll give it to you the moment you step inside.”
+
+“What about the rewards?” she asked.
+
+“They’re included in the badge.”
+
+“Is it like a spatial storage?”
+
+“No, but your badge is tied to an account with the Adventurer’s Guild that contains all the funds from your rewards. You can pay for things using your badge without having to actually carry the coin on you, which many Adventurers prefer, as we often work in the order of hundreds to thousands of coins, and it’s tedious to count them all out individually.”
+
+“Oh, so it’s like a debit card!”
+
+“A what?”
+
+“Nothing. I get it. Okay, let’s go!”
+
+The trip to the church was as short and simple as Pike hoped. Yona and the others stepped inside, and nothing else happened. Pike handed Yona her badge, and that was that. He had to explain that he was not allowed to give her a Platinum badge, and that she would have to go to a city with a bigger Guild to get one, which disappointed her, but she was at least pleased to hear that he included a personal recommendation on her account. Not that she needed it. The first Named monsters were already enough to push her into Platinum, let alone singlehandedly slaying a Disaster on the verge of ascending to Tier 3.
+
+They parted ways there at the church, with the Adventurers returning to their homes, and Pike returning to the Guild. He had a lot on his mind as he made his way back to his office, and for a few minutes, he just sat in his office, staring up at the ceiling. Then, with a sigh, he reached for the stack of mail that he had been putting off sorting through. As a local guildmaster, he received information not only from the main Guild, but also from all the local guilds. Mostly it was quick reports and important bits of news that might concern him, but lately, he had been hearing a lot more from across the country. The sudden rash of Named monsters had been shaking up the Guild, so ordinarily minor reports were receiving a lot more scrutiny than usual, and needed to be reported in more detail.
+
+As he flipped through the pages of memos, most of them were relatively mundane, or were, in his opinion, overreactions of less experienced guildmasters, but when he was about halfway through the stack, one of the reports caught his eye. It was not marked as important or urgent, but it came from Elyria’s central Guild headquarters, and as he read through, he had a hunch that the news it brought was more important than it seemed.
+
+Just a few weeks earlier, he had read a report of one of the recent Named monsters in the eastern swamps being slain, and its slayer being taken in by the Guild after he claimed to be the herald of a god. While an interesting tidbit, nothing more had come of it, so it slipped Pike’s mind. Until now.
+
+According to the report, however, the man had not been a man at all. He had been a Named monster in disguise, somehow fooling all the Guild’s sensors. The fact that he was a Named monster, wasn’t the most concerning part of the report though. Rather, it was how the Guild found out.
+
+He was murdered. Assassinated right in the middle of a Guild in a city that was home to dozens of Platinums and even a few Mithrils. The Guild had a few clues on how it had been done, but all the trails went cold, and they still had no idea who had done it or why.
+
+It didn’t take long for Pike to connect the dots to his own local situation. Ryantown had been suffering from attacks from a Named seabird. The seabird died under mysterious circumstances, and not long after, another Named monster emerged, stronger and more dangerous than the first. In the mountains, the giant wolf was slain, and it seemed a freshly-spawned Hermit had taken up residence on the same mountaintop. Even Yona reported slaying two Named monsters near the fishing village. The other locations of the recent Named monsters had not reported anything of the kind… but four out of seven couldn’t be a coincidence.
+
+He was certain that the central headquarters had already drawn the same connection he had, but just in case, he drafted a quick message and sent it with his long-distance communicator. It was only supposed to be used for urgent matters, which this might not have been, but he would rather be safe than risk having the information arrive too late.
+
+Once sent, he checked the report again, this time looking at the date. The report had been written more than a week prior, and the death of the disguised monster happened multiple days prior to that. That would be before his report on Yona slaying two Named monsters reached the main headquarters, and before the existence of the Ryantown Disaster was confirmed. That meant that whoever had assassinated this Named monster somehow knew what he was before the Guild would have had any idea the Named monsters were spawning in pairs.
+
+It was possible that it was done by one of the Guild’s hidden assassins. While they didn’t exist, as far as the public was concerned, Pike had been around long enough to learn a thing or two. However, if it was, there was no reason for that to be left out of the official Guild report. They wouldn’t have called it an assassination, but it would have been listed as a Quest completed by an anonymous Guild member at least.
+
+Pike was too far removed from the central headquarters to make any real guesses, but he had his own hunches, and his hunches were right more often than not. And if this hunch was right, there was someone—or perhaps a group of someones—who knew a lot more about the recent Named monster spawns than the Guild did, and were acting on that information.
+
+His mind drifted back to Yona. The seemingly lazy beastwoman had appeared right as the Named monsters did, and had now slain three. Was she related to whoever assassinated the other Named monster.
+
+I’d be surprised if she wasn’t.
+
+He thought about it for a few more minutes, then wrote up another message and sent it with his urgent communicator. If both of his hunches were wrong or worthless, he might get in trouble for using the urgent message system twice without good reason, but if his hunches were right… Yona had information that the Guild would want.
+
+With the message sent, he went back to flipping through his reports, only to flinch as he felt a shock of mana. He fumbled for his communicator, then his eyes widened when he read the message he had received.
+
+Guildmaster Pike,
+
+Thank you for your timely information. Please try to ensure that the one called Yona does not leave your city. An Adventurer’s Guild investigator is on their way. ETA: 8 days. Thank you.
+
+Signed,
+
+Guild Intelligence Officer Zachary James.
+
+At the same time, a few miles away.
+
+Annie crested the hill before Riverfork with a smile. Finally, after more than a week of travel, she had made it.
+
+Riverfork was not the most impressive city she had seen, and she would even go as far as to call it small, but it looked much more pleasant than where she had come from. The weather difference was like night and day, and the wildlife…
+
+She shuddered as she thought back to the insects in the swamps. It had not been a pleasant experience at all, and she was more than happy that her Quest there had been quick and simple. Riverfork was a much nicer city in that respect, and she was looking forward to staying there. She had even heard that Riverfork was the region’s culinary capital, and after eating nothing but swamp food and travel rations recently, her mouth watered at the thought.
+
+Within her first few minutes in the city, she found a street stall selling meat skewers, and they immediately confirmed the rumors. The random street skewers were better than anything she had had recently, and if they were that good, she could only imagine what the actual restaurants would be like.
+
+It almost made her wish that her current Quest would be more difficult than the last, just so she could stay a bit longer.

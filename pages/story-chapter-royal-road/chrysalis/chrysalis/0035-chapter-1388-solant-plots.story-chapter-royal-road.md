@@ -1,0 +1,133 @@
+---
+id: bbb2029c-1151-547e-bc29-4d7dd751f889
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1388 - Solant Plots"
+slug: 0035-chapter-1388-solant-plots
+partOf: chrysalis
+position: 35
+ownLength: 1357
+unit: words
+ownProgress: 1357
+publishedAt: 2024-08-08
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1749153/chapter-1388-solant-plots"
+royalRoadId: "1749153"
+markedReadAt: "2026-06-29T19:44:45.989Z"
+---
+
+A whirlwind of activity, a frenzy of organisation, and at the centre of it all, Solant dwelt, the eye of the storm, a calm and steadying presence who brought order to the chaos.
+
+Washingtant rushed forward, a team of scouts behind her.
+
+“General, we have three detachments of scouts arriving in an hour. They need deployment instructions.”
+
+“Speak to Leonidant, she has the details.”
+
+“I will, General.”
+
+Subutant stepped forward, with messages from the core shapers working below.
+
+“Bella and Ellie send word that they have almost finalised the design for the Wuffers in tiers one to five. Soon, they’ll begin promoting a few candidates to tier six to see where the evolutions take them.”
+
+“Thank you, Subutant. Congratulate the core shapers on my behalf and remind them to expend rare cores on every evolution. The wuffers are the key to this campaign. Without them at their best, we will surely fail.”
+
+“I will do so immediately.”
+
+Off she went, and Solant turned to look down on the battalion running through their drills in the chamber she was overlooking. She turned all of her lenses toward the fighting, each individual movement highlighted, not even the smallest detail avoiding her attention.
+
+“Squads four through seven are a beat slow when turning. Have the battalion run through the entire drill another ten times. Even the slightest flaw will break the manoeuvre.”
+
+“Of course, General.”
+
+On to the next. Solant moved along the tunnel to the final drill chamber, speaking in turn to each messenger who rushed forward with another detail that needed to be sorted.
+
+Each of these issues was dealt with in the same calm, logical manner as those which had come before. Then she turned her gaze down to the practising battalion. For two long minutes, she watched, her attention never wavering, while all of those attending her waited in perfect silence.
+
+Ten thousand ants moved in perfect synchronisation beneath them, advancing, falling back, turning, swarming, rotating, each movement flowing flawlessly into the next. As perfectly choreographed as a dance, as flawlessly executed as a machine.
+
+“My congratulations to battalion two-thirty-six,” she said. “I see no errors at all. They are to be commended and rewarded.”
+
+She considered a moment.
+
+“They will be the first battalion sent below. They’ll perform an extra shift working alongside the construction crews.”
+
+The general in command saluted sharply.
+
+“Thank you, General!”
+
+Solant was normally extremely strict on work hours. She didn’t want to lose any of her soldiers, from the most low-ranked scout to the highest officer, for even a single day of enforced rest. Yet, occasionally, as a special reward, an extra shift could be worked here or there without the torpor police growing more active.
+
+Moderation was, as usual, the key.
+
+“I’m returning to the command post,” she announced. “Sumant, how much longer until the next rest period?”
+
+“One hour and six minutes, General.”
+
+“Perfect.”
+
+It wasn’t far from the drill chambers to the central command, but Solant was again occupied answering questions and directing traffic the entire way. She had delegated as much authority as she possibly could, but no matter how much she trusted the competence of her officers, there were still matters that needed the attention of the ant in charge.
+
+And there was no question who was in charge. Every part of this exercise had her scent upon it, down to the finest detail.
+
+She followed the scent trails, though she knew the way by heart, and soon stepped into the wide open central planning chamber. In the centre of the room, a large-scale model of the fifth stratum below drew the eye. There was only so much the scouts could sense while being trapped within the safe-zone, but with their high-rank tunnel sense, pathfinding and prediction fusion, coupled with several far-finding organs and mutations, they could detect an awful lot.
+
+As it was, they had a model that spread almost ten kilometres from the incursion site, though it was certainly not reliable at the outer reaches.
+
+Solant approached and considered it once again.
+
+The tangle of tunnels resembled nothing so much as a web of veins, like the circulatory system of a living, breathing creature. There was a certain flow and movement to the shape of the fifth that had been revealed so far. The mana, guided by the tunnels, always flowed in a certain direction as if by design.
+
+Even the rivers followed strict patterns, forming an internal cycle that ensured the filth was spread as evenly as possible.
+
+It was into this perfectly corrupt ecosystem that Solant intended to drive a wedge nice and deep. Whatever the enemy wanted, she would destroy; whatever they held dear, she would take away.
+
+All over the model, notations could be found, each indicating staging points, fortification to be constructed, the sites of future wuffer nodes, and to the side, a scale model of the grand nest that would be built within the fifth.
+
+Provided by Cobalt and Tungstant, the model had been sliced down the middle to provide a clear cross section, allowing the viewer to see every detail of the internal layout.
+
+This was already the seventh model, the previous six having been rejected by Solant and her team.
+
+“What do you think of this one, Juliant?”
+
+The carver twitched her antennae as she leaned closer to the detailed description provided on scent slate.
+
+“It’s better,” she grunted. “They finally seem to be understanding how serious we are about security. You can see the triple lock entrances and exits we demanded have been implemented here and here.”
+
+“Are they still worried about throughput?”
+
+“What do you think?”
+
+Solant sighed. The two oldest carvers were experts in constructing and designing fortifications and nests, literally the best in the Colony, but they hadn’t adequately adjusted their methods to suit the unique challenges of the fifth yet.
+
+The entrances as designed would choke the number of ants able to move in and out of the nest to an uncomfortable level. It would take hours to move hundreds of thousands of ants in and out, harming their capacity to rapid-deploy in response to emergencies happening nearby, that much was true.
+
+However…
+
+“We cannot compromise on security,” Solant stated calmly. “Even a speck of toxic mana entering the nest could be catastrophic, and every ant has to be counted in and out, every time, no exceptions.”
+
+“I know that, but you might have to go and talk to them again. I can see that they’re trying to accommodate us, but they’re still trying to find clever solutions which only serve to weaken the system overall. I want it so straightforward and simple that an aphid could figure it out. The error margin must be as close to zero as possible.”
+
+“Agreed. I’ll speak to them tomorrow. Someone schedule that for me.”
+
+“Of course, General.”
+
+A single ant going missing within the fifth was a catastrophe of unprecedented scale. There could never be a miss. If a Krath managed to abduct an ant from within the nest, similarly, that would be a disaster.
+
+Even if it weren't for the risk of Krath corrupting and enslaving ants, control over the nest would still need to be absolute. When the environment itself was a weapon, regulating it had to take priority, even if it meant great sacrifices in utility.
+
+“Where are we on logistics?” she demanded, and a ripple ran through every ant in the command post.
+
+It was the question she asked the most, and the one on which she was the most strict.
+
+In a moment, data slates had been placed in front of her, each filled with numbers and details in neat, scented rows. A few seconds later, more slates, with diagrams of the tunnel networks and staging nests that needed to be built.
+
+She pored over it for minutes, hunting down every detail, until finally she sighed deeply.
+
+Every ant nearby braced.
+
+“Not good enough,” she declared, “not even remotely. First, item seventy-six…”
+
+It would be another rough day for the logistics department.
+
+“Then we need to discuss the schedule for allied soldier integration.”
+
+A very rough day.

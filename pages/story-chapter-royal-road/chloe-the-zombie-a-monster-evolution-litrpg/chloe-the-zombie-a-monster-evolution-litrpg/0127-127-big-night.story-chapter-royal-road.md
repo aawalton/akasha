@@ -1,0 +1,149 @@
+---
+id: af8eeffd-522e-57e0-8604-afa74cb5d9d9
+page-type-slug: story-chapter-royal-road
+title: "127: Big Night"
+slug: 0127-127-big-night
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 127
+ownLength: 1818
+unit: words
+publishedAt: 2026-03-18
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3165806/127-big-night"
+royalRoadId: "3165806"
+---
+
+Luckily, nobody was around to see them pop out of nowhere. Chloe wasted no time and made sure to get everyone into the nearest shady alley, because she was sneaky like that. Sierra followed close behind, Raenof kept glancing around every so often, and Mr. White clopped along obediently even though a horse in an alley was definitely not the most subtle thing in the world.
+
+Once they were safely hidden in an alley that suspiciously smelled like someone had died in it a few days before, Chloe finally relaxed a little, although there was still one big problem.
+
+The good news was that they were back in Aetherion and not some shady flower dungeon. That part was great. The not-so-great part was figuring out how they were supposed to move around the city without getting caught, arrested, chased, or whatever awful thing inquisitors liked to do. Chloe pressed her back to the wall, arms crossed, forcing her brain to think of a plan. “Okay, I think I got a plan. Step one: don’t get caught, step two: don’t get stared at, and step three: don’t get arrested again. Thoughts?”
+
+“I do still have our disguises from before, it's nothing flashy, but they should pass well enough.” Raenof said.
+
+Sierra nodded. “I don't mind wearing disguises again."
+
+“Well I guess that settles that then right?" Chloe said.
+
+Raenof glanced past her, then slowly looked down the alley. His gaze landed on Mr. White, who was standing patiently. “That leaves… him.”
+
+Chloe looked Mr. White up and down, taking in the fact that he was very obviously a skeletal horse. “Yeah. That’s a problem.”
+
+Sierra winced. “I don’t think there’s a disguise strong enough to make a horse look… not like that.”
+
+Mr. White snorted softly, one hoof scraping the stone like he was mildly offended but understood. Chloe paced a few steps as she thought hard. "Wait, hold on. I have a really dumb idea.”
+
+Chloe pointed at Cloaky. “Hear me out, what if I just put Mr. White in here?”
+
+Raenof blinked at her, then at the cloak, then very slowly back at her face. “Can you even fit Mr. White inside your cloak? I understand that Cloaky is unusual, but it is still a cloak. And Mr. White is very much a large horse.”
+
+“I mean, I’ve never tried it before. And also, Cloaky’s gotten way better than he used to be. So I think it’s at least worth a shot.”
+
+Mr. White tilted his skull toward her, empty eye sockets somehow managing to look thoughtful. Then he let out a soft snort, and stamped one hoof against the ground.
+
+"I knew you'd understand best buddy!" Chloe said cheerfully.
+
+Sierra stared between the two of them. “Um, are you sure Cloaky is supposed to be able to do what you want it to?"
+
+“Cloaky isn’t ‘supposed’ to do anything,” Chloe said proudly, puffing up a little. “Cloaky does what Cloaky wants.”
+
+“…Right,” Raenof muttered.
+
+Chloe stepped closer to Mr. White and tugged Cloaky off her shoulders, the fabric sliding down into her hands. She spread it wide, holding it up. “Let’s do this.”
+
+As it turned out, trying to stuff a big horse into a Chloe sized cloak wasn't easy. Cloaky snagged on ribs and leg bones, getting tangled up in all sorts of weird spots in Mr. White's body. He shuffled awkwardly, scraping the ground as he tried to cooperate without stepping on anyone.
+
+Chloe tugged and adjusted, nearly losing her balance when the cloak slipped halfway out of her grip. Sierra reached out like she might catch Chloe if she fell. Raenof opened his mouth, probably to suggest they stop.
+
+“Plan B,” Chloe announced quickly, before either of them could talk her out of it.
+
+She closed her eyes and grabbed the edge of Cloaky with both hands. “Cloaky, could you like, please be helpful? It's kinda hard getting Mr. White inside of you.”
+
+For a moment, nothing happened. Chloe’s stomach twisted and she started to wonder if Cloaky was just being really moody. Then the shadows beneath Cloaky stirred.
+
+Darkness rippled across the inside of Cloaky, spreading outward as shadowy hands formed from the folds. Sierra gasped sharply, grabbing Chloe’s arm. Raenof went completely still, staring right at the cloak.
+
+The hands reached for Mr. White, wrapping around his legs and sides, guiding him forward. Mr. White didn’t resist. He stepped when they guided him, bones clicking softly as he allowed himself to be pulled into the dark.
+
+Cloaky expanded smoothly, swallowing Mr. White piece by piece until, with a soft ripple, the last of him vanished inside. The shadows withdrew, as Cloaky settled back into its usual shape like nothing strange had happened at all.
+
+“…Huh, that worked.” Chloe muttered.
+
+Raenof stared. “That should not have worked.”
+
+Sierra let out a shaky laugh. “I think your cloak likes him.”
+
+"Well duh, Mr.White is awesome, so I totally knew Cloaky would be nice with him."
+
+Chloe folded her arms and nodded to herself. “Anyway, since Mr. White is safely inside Cloaky, the next step is figuring out a way to sneak out of Aetherion. Maybe I could just fly us out?"
+
+“Even if you could manage to carry everyone, flying near the border would be risky. Aetherion has sky patrols, and they won't take kindly to us." Raenof said.
+
+Chloe squinted up at the dark sky above the rooftops. “I haven’t seen any bird people flying around.”
+
+“That is because you do not often look up, also, it is night. Patrols are fewer, but not nonexistent.”
+
+“Okay, fine. No dramatic flying escape. What’s the plan then?”
+
+“We could just try sneaking out, maybe find a place where there's a gap?" Sierra suggested.
+
+Raenof nodded. “That is reasonable. As long as we keep a low profile.”
+
+Chloe perked up again. “Low profile is my middle name. Well, not literally. But I can be sneaky.”
+
+"Right, but before we go, disguises first." Raenof said.
+
+***
+
+Now that Chloe was a zombie again, wearing a disguise felt weird. Like, really weird.
+
+She knew she was supposed to be an angel who had been wearing a zombie body before, and now she was a zombie wearing a disguise on top of that. It felt like a disguise inside another disguise. But she supposed that detail wasn't exactly too important to think about at the moment.
+
+Once Raenof and Sierra finished putting on their disguises too, they moved out of the alley. They stayed close to the walls, sticking to shadows and quieter streets where the lantern light didn’t quite reach.
+
+Chloe pulled her disguise tighter, making sure she stayed hidden. She still glanced around now and then, tense but not as bad as usual. That was the weird part. Normally she’d be buzzing with nerves, but this time she felt calmer. The memory of Maeve stayed with her, and whatever that soul-memory thing had been, it had clearly changed something.
+
+They slipped past empty plazas and quiet streets. Chloe jumped when a loose window shutter creaked nearby, her shoulders tensing hard, but she forced herself to keep moving. She could handle this. She really could. She’d survived dungeons, monsters, and way worse situations than sneaking through a city at night.
+
+Ahead, an old maintenance road ran along the inner wall, narrow and shadowed, looking just unused enough to be promising. Chloe felt a small spark of hope flicker in her chest as they approached it.
+
+Then,she heard a voice. “Halt.”
+
+Chloe froze as two guards stepped out from behind a stone archway. They didn't look like inquisitors, but that didn’t make Chloe feel better.
+
+“Identify yourselves." One of the guards said.
+
+Raenof stepped forward smoothly, giving a polite bow. “Apologies. We are travelers who seem to have lost our way.”
+
+The first guard’s gaze slid to Chloe, while the second guard circled them slowly. “And what’s under the cloak?”
+
+Chloe felt Cloaky shift slightly. “Uh, stuff?"
+
+The guard’s expression hardened. “Drop the disguises, all of them.”
+
+“And if we don’t?”
+
+“Then you will be detained.”
+
+The guards’ hands drifted closer to their weapons, and Chloe felt a big sense of danger crawl up her spine. Her fingers twitched, and for half a second she seriously considered punching her way out of the situation. She could drop the nearest guard, grab Sierra, yell at Raenof to run, and figure out the rest later. It was probably not the best plan, but it was still a plan.
+
+She shifted her weight forward, muscles tightening, wings itching under her disguise like they wanted in on the action. She could already picture the impact and the shocked look on the guard’s face. It was way too tempting.
+
+Until suddenly, a burst of glittering blue smoke exploded around them. It wrapped around Chloe’s legs and arms, cool against her skin, sparkling like someone had crushed starlight into mist and thrown it in her face.
+
+The guards shouted in alarm, but their voices quickly became muffled, like they were shouting from underwater. Sierra gasped and grabbed onto Chloe’s sleeve, and Raenof swore under his breath as he tried to keep his footing. Chloe just stood there, blinking through the haze, her brain lagging behind the situation.
+
+“What’s… happening?” she tried to say, but her voice felt swallowed before it even left her mouth.
+
+The smoke thickened, glowing brighter as it curled around them. It hummed faintly in her ears, not loud, but enough to make her teeth buzz. The ground under her feet started to feel wrong, like it wasn’t fully there anymore. Not falling exactly, but like the world had decided to slide sideways without asking first.
+
+Chloe’s stomach twisted, and instinctively she reached out, trying to grab onto something solid even though there was nothing to grab. Eventually though, the smoke thinned and drifted away in lazy curls.
+
+And by the time the last of the smoke cleared up, she realized she was standing in a totally different location. She, along with Raenof and Sierra, were no longer in the alley.
+
+Chloe found herself standing on thick, soft carpet that felt way too expensive to be real. The room around her was huge and fancy, with these really nice curtains and warm golden lights that made everything glow.
+
+Sierra stood right next to her, breathing fast and turning in a slow circle like she didn’t trust her eyes. Raenof was on Chloe’s other side, stiff and alert, clearly trying to decide if this was a safe place or a trap.
+
+Chloe was also trying to figure out what was going on, until she noticed the woman standing in front of them. The last curl of glittering blue smoke drifted from her lips as she exhaled, fading into the air. And as far as Chloe knew, there weren't that many people that could exhale special smoke like that from their mouth.
+
+“Iris?”

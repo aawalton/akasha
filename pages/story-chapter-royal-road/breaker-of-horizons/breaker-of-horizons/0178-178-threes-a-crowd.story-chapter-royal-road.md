@@ -1,0 +1,145 @@
+---
+id: 4f4e04d6-b019-5316-8a62-5593be958579
+page-type-slug: story-chapter-royal-road
+title: "178. Three's a Crowd"
+slug: 0178-178-threes-a-crowd
+partOf: breaker-of-horizons
+position: 178
+ownLength: 2401
+unit: words
+publishedAt: 2022-02-14
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/845507/178-threes-a-crowd"
+royalRoadId: "845507"
+---
+
+At the end of the two minutes, Kant called for any volunteers to offer a breakdown of what Caden had done. One of the two third-years who had lasted to the end, a short girl with blonde hair drawn up in a tight bun, stood up almost immediately, narrowly beating Henry and her fellow third-year gestalt member. Bertam looked like he had been about to volunteer as well, but seemed to reconsider at the last moment. Caden was a little surprised at their eagerness to answer.
+
+"Erika," Kant said, acknowledging her. The others sat back down.
+
+Instead of answering immediately, she turned to look thoughtfully at Caden. While she didn't sound uncertain, she spoke slowly, carefully laying out her train of thought. "He's only a first-year, so this was probably more about technique than raw power, especially because it looked like an entirely free-form use of arcana without sequences. Still, it was extremely efficient use of arcana. That points to some sort of excellent frameshift that did the heavy-lifting. With a good frameshift to direct the arcana, he could spend less attention focusing on how to direct it and concentrate on his arcanic-assisted movement."
+
+Caden blinked at her, quite startled by this precise assessment. She smiled a little at the look on his face, then continued. "The construct just fell over instead of being destroyed, so I think he's broken the sequences that keep it functioning. Somehow, his frameshift causes his blade to cut through sequences. But I think he doesn't have enough power to punch through the construct's outer shell, which is why he needed the construct to be charging at him."
+
+Kant nodded in approval. "Good breakdown. But no, his blade does not cut through sequences."
+
+Erika looked a little disappointed, but not surprised. "Yes, I wasn't really sure about that. But I'm right about how it's not a sequence, right?" she asked, glancing at Caden. Before Caden could respond, though, Kant snapped his fingers and everyone else but Caden turned to look at him. Caden stared, feeling suddenly cold. The effect had been almost exactly the same as the one he and Emilia had learned to produce by making use of their auric-ambient-flares in higher dimensions in order to almost effortlessly redirect a person's attention momentarily. Was Kant operating in oblivion? Caden hadn't been paying enough attention to be able to tell.
+
+If Kant noticed Caden's immunity to it, he gave no indication. The rest were none the wiser because he had covered the moment with the snap of his fingers. "I want more educated guesses. No confirmation yet," he said.
+
+Henry raised his hand and Kant nodded at him.
+
+"I think it's a frameshift too, not a specific sequence," he said, sounding more confident in his own assessment than Erika. "And the blade is the delivery system for that frameshift. It doesn't actually cut because there isn't a physical inscription to damage. The sequence is formed and anchored in the upper reaches of arcana. Even then, his arcanic blade doesn't actually attack the sequence there either, because if that were the case, he would simply attack it directly in the upper reaches of arcana without resorting to using physical analogues."
+
+Upper reaches? Caden frowned. It sounded like Henry had a very different way of explaining things like the arcanic sea. And now that he was thinking about it, he realised no one ever really used that term definitively. In the last term, it was Caden himself who had come up with the analogy after the diasterous encounter with the lake augera when the Demiurge had saved him and his friends, and they had all been using it ever since in their conversations with each other. And even the Demiurge, in their training session, had talked about "the higher levels of arcanophany involving what you call the arcanic sea and oblivion".
+
+"Go on," Kant prompted when Henry stopped. Caden quickly shelved that thought for later consideration so he could pay more attention to Henry's explanation.
+
+Henry turned to Caden, looking a little puzzled. He sounded less certain now. "A frameshift that could take down the construct from the inside. In theory, something like that could've been applied without requiring any attack on the physical body. So why the sword as a delivery system? It might be because he couldn't sense the construct's signature in the arcana since it is warded against casual detection, so his only angle of attack was the physical body. But if he's operating only at that level, then how does his frameshift, once delivered, destroy the sequence if its anchored in the upper reaches of arcana?"
+
+Henry frowned, then shrugged and turned to Kant. "I don't know," he said simply, then sat back down. Kant did not press him further, or even offer a remark at this sudden throwing in of the towel.
+
+After Henry's attempt, there were a few more from a couple of second-years, but it was all just variations of what Henry and Erika had already mentioned. By the close of the session, no one had a satisfactory explanation, and Kant did not offer one either.
+
+"This forms the foundation for our first exercise in our next session," he declared. "You'll all be expected to take down one of those constructs yourself. So come prepared."
+
+A second-year raised his hand tentatively. "Uhm, will it just be standing there, or do we have to, you know, fight it?"
+
+Kant grinned. "Oh, I think you know the answer."
+
+There were a few dark chuckles from those who had been in Kant's classes before. Most of the others greeted this news with looks of dismay, and they shuffled out looking thoroughly exhausted and defeated as Kant dismissed everyone and left, moving with great purpose and urgency. Caden had half a mind to follow him just to see where he was going in such a hurry, but he decided against getting into any more trouble for now.
+
+"Stumped everyone!" Bertram chuckled, elbowing Caden as they drifted out of the chamber. "This year's gonna be a lot more fun than I thought it'd be, even with all the changes!"
+
+"What are the upper reaches of arcana?" Caden asked, lowering his voice a little since he didn't want everyone else to hear as the whole crowd moved off in the same general direction, towards the exit of the duelling compound.
+
+Bertram shot him a surprised look. "You detected my scanning sequence, but you don't know what that is?"
+
+"I think I do," Caden answered. "But me and... I... think of it as the arcanic sea."
+
+"Arcanic sea," Bertram repeated thoughtfully, then nodded. "Yeah, that works. Is that what your year calls it?"
+
+"My year?" Caden shot him a confused look.
+
+"Your cohort. Does everyone call it that? Who came up with it?" Bertram asked.
+
+"Not the whole cohort, I think. Just me and a couple of friends. I came up with it," Caden answered. "I dunno what everyone else calls it."
+
+"You?" Bertram looked impressed. "Keen mind. Most people just latch on to existing ideas and frameworks. My own seniors talked about the 'upper reaches of arcana', and that kinda caught on. The picture that comes with it is sort of like a stream. The upper reaches are closer to the source, where things are purer or clearer, more powerful. The things formed there have a downstream effect. If you work in the lower reaches alone, the stuff you do has less of an impact on things working in the higher reaches."
+
+Caden was quite intrigued by this conception of arcana. "But this wasn't taught in a book or class or anything?"
+
+Bertram shook his head. "It's just a frameshift. The kind of stuff people talk and share about, but you don't write down because it's not supposed to be something immutable that you have to use. Your arcanic sea version proves it. You've worked just fine by thinking of it that way. Actually, maybe it's how you managed to catch my scanning sequence."
+
+Caden nodded slowly. That made sense. If Bertram's homebrew sequences were formed with the idea of arcana as a stream, then that downstream directionality was built into it. He might have designed his pulse sequence by placing it in the upper reaches, as far as he could go, expecting that anything 'downstream' wouldn't be able to detect it, so it wasn't as fully veiled as it could have been. But Caden's own arcanic sea picture, where depth was related to complexity, meant that it was still possible to spot something as long as you were 'looking' in that direction. And on top of that, Caden was also operating on oblivion, where his auric-ambient-flare wasn't even working with physical analogues, and was instead working with quasi-senses that didn't correlate with any corporeal experience.
+
+"Speaking of your scanning sequence, could you teach me that?" Caden asked.
+
+"I could," Bertram said, grinning.
+
+Caden picked up the sly tone and sighed as he rephrased. "Will you?"
+
+"I will not," Bertram answered, laughing a little. "Not directly. You imitated my gel-shot shields. I'm interested to see the process of how you re-created those. So let's make a deal, shall we? I'll use the scanning sequence as many times as you like, but you don't get to see the glyphs up close. And you let me watch how you reverse-engineer them."
+
+Caden nodded. "That sounds fair."
+
+"Alright. Now put your game-face on," Bertram said.
+
+"What? Why?"
+
+They were all out of the duelling compound now and the class of thirty was breaking up into smaller groups as everyone headed in different directions, since there was a half-hour break before the next lesson. Bertram jerked his head to direct Caden's attention. Henry, who had been walking some way ahead with the twins and the others in his gestalt, had peeled off from them and was now headed straight for the two of them.
+
+"Ah shit," Caden muttered under his breath.
+
+"Relax, he won't bite yet," Bertram said breezily. "He's just going to have a nice, friendly chat with you."
+
+Caden highly doubted that since the two of them had dropped a roof full of constructs on Henry, but he was almost within earshot, so Caden elected not to deliver a withering reply to Bertram.
+
+"We weren't properly introduced," Henry said, smiling slightly as he held out a hand to Caden. "Henry Laine."
+
+"Caden Dundale," he replied politely, returning the handshake. Henry's grip was firm, but not overbearingly tight.
+
+"We left you and Bert behind, but you two dropped an army of constructs on us, so let's call it even, shall we?" Henry asked, his smile widening a little.
+
+"Sure," Caden said. "No hard feelings."
+
+"Exactly. No hard feelings. And if you ever want a group to study with, feel free to look me up. That is, if Bert here doesn't take up too much of your time." He nodded, still smiling, at Bertram, who returned the gesture with a bland grin of his own. Henry lingered for a moment longer, then turned and left, waving a hand lazily as he went.
+
+"See? Just a nice, friendly chat," Bertram said in a falsely bright tone, watching him go.
+
+"How much trouble am I in, exactly?" Caden asked, sighing again.
+
+"Pfft. You'll be fine. He hates being one-upped, but he's not a thug. You're not in any real trouble."
+
+"You two seem like you've got a history," Caden remarked.
+
+"Yeah you could say that. He's good, and he hates that I'm better. He's spent the last two years trying to get the Top Scorer spot. I may or may not have taken a bit too much pleasure keeping it away from him." Bertram stretched lazily. "Anyway, I'm headed to the library to return my book and meet the second-year Top Scorer. You wanna come?"
+
+"You want me there?" Caden raised an eyebrow.
+
+"Wouldn't you like to check out the competition?" Bertram asked, grinning. "I actually wanna get both of you to fight at least once, just for me to see who's better."
+
+"I didn't say I was interested in being a part of this competition," Caden replied, a little irritated. "I mean, I don't want to be involved in some—"
+
+"Then don't think of it as that," Bertram cut in. "You're just meeting a second-year student, and if you want, we can make a little study group of our own. Unless you'd rather join Henry." He paused as something occurred to him. "Or you've got other friends. I mean, sorry, I kinda just assumed you didn't since you were sitting alone at the briefing yesterday."
+
+"I've got friends," Caden said testily. "Kind of. It's complicated."
+
+"Well, the nice thing about friends is you can make lots of them," Bertram said airily. "There's no cap on the number you're allowed to have. C'mon. Don't be some lonely, stuffy Top-Scorer with his head in books, all alone."
+
+"Yeah, instead, let's take three Top-Scorers so they can all have their heads in books together, because that's the model of an ordinary social life," Caden replied sarcastically.
+
+Bertram put on a wounded look. "Exactly. Will you be my friend, and come and meet my only other friend in the whole Academy?"
+
+"I think I'm beginning to see why Henry doesn't like you," Caden grumbled, but he turned towards the library and started walking.
+
+"That's the spirit!" Bertram fell into step beside him, humming tunelessly. When they got to the library, he sprang forward and opened the door for Caden with an exaggerated bow. "This way, sir, to a richer social life!"
+
+Caden rolled his eyes and went in, then waited for Bertram to lead the way since he had no idea where he was going to meet the second-year Top Scorer. Bertram strolled towards the cafe, beckoning for Caden to follow. He scanned the cafe, wondering if he'd see Devon or Jerric around here and if he could just slip off to join them if they were.
+
+"Over here!" Bertram called.
+
+Caden let out a sigh, still desperately hoping to see the other dormies as he headed to where Bertram was waving at him.
+
+Bertram drew up a seat for him and he sat heavily in it, but his breath hitched in his throat when he looked across the table at the third person who was already there.
+
+"Caden," Bertram said cheerfully, "meet Leyla. Leyla, Caden."

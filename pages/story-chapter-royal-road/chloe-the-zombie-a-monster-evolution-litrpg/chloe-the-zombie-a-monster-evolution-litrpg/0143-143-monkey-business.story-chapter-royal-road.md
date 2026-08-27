@@ -1,0 +1,85 @@
+---
+id: 480b8b2e-52ce-545a-8a02-7efd0f264ab4
+page-type-slug: story-chapter-royal-road
+title: "143: Monkey Business"
+slug: 0143-143-monkey-business
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 143
+ownLength: 1811
+unit: words
+publishedAt: 2026-04-24
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3313435/143-monkey-business"
+royalRoadId: "3313435"
+---
+
+Back when she was still in school, Chloe took world literature as an elective and she vaguely remembered reading this story called Journey to the West. There had been a monkey in it too, some super strong guy named Sun Wukong, and one of the things he used was a staff, or… well, a really long stick that could change its size whenever he wanted.
+
+The developers of the game clearly liked their mythology, so honestly, what Chloe saw didn't really surprise her. The giant monkey suddenly reached out, and a long red staff appeared in its hand like it had been pulled straight out of thin air. The staff was as nearly as long as the monkey itself. It looked heavy, solid, and very much like something that could ruin her day if it hit.
+
+To make things worse, the moment the staff appeared, the entire environment began to change. Tall trees suddenly grew up from the grass while the ceiling above slowly darkened and lost its solid shape. Before long, it was replaced entirely by a deep, star-filled night sky stretching overhead, dotted with countless small star-like lights. And right in the middle of it all hung a large, glowing moon.
+
+Chloe looked up for a moment, clearly impressed. She probably would have kept staring at it longer if the giant moon monkey hadn’t suddenly started moving again.
+
+The giant monkey dashed towards Chloe, gripping its massive red staff before swinging it upward in a wide, sweeping arc that cut through the air with a deep, heavy sound. Chloe barely had a moment to react before she pushed herself higher into the air as the attack passed just beneath her, the force of it strong enough to shake the space around her and send a rush of wind upward. Even without getting hit, she could feel how much power was behind that strike. This monkey is definitely faster than before.
+
+The monkey didn’t give her time to think about it for long, because it immediately changed its grip and spun the staff with surprising speed before thrusting it forward like a spear. The moment it did, the weapon suddenly extended, stretching far beyond its original length as it shot toward Chloe in an instant.
+
+She twisted her body to the side at the last second, narrowly avoiding the strike as the tip of the staff passed by her shoulder, before snapping back just as quickly as it had extended. The monkey followed up by chaining one attack into another as it swung, jabbed, and extended the weapon again and again.
+
+Chloe weaved through the air as the attacks came at her from all directions, dipping low, rising high, and twisting her body to slip past each strike while the staff carved through the space around her. The rhythm of the attacks made it obvious that the monkey wasn’t just swinging wildly anymore, and whatever that weird mask had done, it had clearly made the thing stronger, maybe even smarter too.
+
+But, Chloe wasn’t about to just keep dodging forever, so while slipping past another sweeping strike, she raised her hand and fired a blast of dark energy straight at the monkey’s chest, the shadowy force slamming into it with a dull impact before spreading briefly across its body. Unfortunately, the energy quickly faded, and the monkey barely reacted at all as it kept moving like nothing had happened.
+
+She immediately followed up by thrusting her hand downward, summoning earth spikes that erupted from the ground beneath the monkey, shooting upward with enough force to crack stone as they struck its legs and torso. The impact was heavy and loud, but the monkey simply pushed through it, shattering the spikes as it completely ignored the attack.
+
+Not willing to give up yet, Chloe snapped her fingers as cold mana surged outward, spreading quickly across the ground before climbing up the monkey’s legs in a thick layer of ice . The ice held and locked around its limbs for a few seconds, but then the monkey flexed its body, and the entire layer shattered almost instantly, breaking apart into fragments as it pushed ahead.
+
+At that point, Chloe was seriously starting to feel a little bummed that none of her attacks did any lasting damage to this oversized monkey. But of course, she wasn't gonna give up so easily.
+
+She switched tactics again, thrusting her hand forward as flames burst out in a focused blast that slammed straight into the monkey’s upper body, the fire spreading across its silver fur in a bright wave of heat. The flames burned strongly for a moment, flickering and roaring as they wrapped around its body, but just like everything else she had tried, it didn’t seem to do much. The monkey barely reacted at all, and Chloe just stared at it for a second with a flat expression. You’ve got to be kidding me.
+
+Before she could even think about changing tactics again, the monkey suddenly closed the distance, its massive body moving far faster than something that size had any right to. It swung its staff straight at her,
+
+The staff slammed into her midair with a heavy, crushing force that sent her flying backward instantly, her body shooting through the air before crashing straight through a tree with a loud crack. The trunk snapped under the force of the hit, but she didn’t stop there, continuing through another tree right after, and then another tree after that.
+
+She hit the ground hard and tumbled across the silver grass, rolling several times before finally skidding to a stop in a very undignified position, with her butt half raised awkwardly in the air.
+
+Chloe slowly pushed herself up and rubbed her butt out of pure instinct, even though she didn’t actually feel pain anymore, because at that point it was more about the emotional damage than anything physical. After that, she got back onto her feet and brushed herself off while glancing toward the giant monkey again, which was already turning to face her.
+
+She stared at the giant monkey as it turned toward her again. Okay… so hitting it normally doesn’t work. So I'll need to try something else, maybe attack it from the inside instead of the outside. Yeah! If I freeze it from the inside instead, that should totally work.
+
+In her head, the plan made perfect sense, which was already a very good sign by Chloe standards. If she could get one of her arms inside the monkey somehow and freeze it from the inside while also freezing it from the outside at the same time, that should make it brittle enough to break. Then all she had to do was hit it really hard and everything would fall apart.
+
+There was just one problem, the monkey still had its mask on. If she wanted her plan to work, she had to break that mask first.
+
+Was this plan perfect? No.
+
+Was it slightly questionable? Also yes.
+
+Was she still going to do it anyway? Obviously.
+
+Chloe flew up, feeling much more determined. The monkey didn’t give her time to stand around for long, because it suddenly bent its legs and launched itself into the air, rising quickly before bringing its staff down in a crushing overhead strike aimed directly at her position.
+
+She pushed off the ground and darted to the side as the staff slammed down where she had been standing just a moment earlier, the impact cracking the earth and flattening the silver grass in a wide circle.
+
+Before the monkey could follow up, Chloe shot upward into the air and raised her hand, releasing a burst of lightning that slammed into its side. The energy spread across its body in bright, crackling arcs, briefly lighting up its silver fur as she circled around it at high speed. “Hey, over here!”
+
+The big monkey turned sharply and swung its staff toward her, the weapon cutting through the air in a fast, sweeping strike that would have caught her mid-flight if she had slowed even a little.
+
+But Chloe didn’t. She dipped under the swing and immediately surged forward, closing the distance instead of backing away this time as lightning gathered rapidly around her arm. Bright blue energy crackled wildly along her skin, snapping and branching outward as it wrapped tightly around her fist. Alright… let’s see how tough that mask actually is.
+
+She pulled her arm back and then drove it forward with everything she had. Her lightning-coated fist slammed directly into the mask with a sharp, explosive crack, and the moment it connected, a shockwave burst outward from the point of impact, rattling the surrounding trees and sending loose debris scattering across the ground. Lightning surged across the surface of the mask in branching arcs, the energy digging into it as the force of the punch drove the monkey’s head backward.
+
+For the first time, the creature actually staggered. Its massive body shifted as it was pushed back a step, and thin cracks began to spread across the surface of the mask, faint lines of damage forming where her attack had landed.
+
+Chloe immediately pulled back, hovering in the air as her eyes locked onto the spreading cracks, watching them crawl across the mask like thin fractures in glass. The moment she saw them widen, an excited grin stretched across her face. Oh yeah… that’s damage.
+
+She snapped her wings open and beat them sharply, launching herself backward to create distance as lightning began gathering around her again. The energy wrapped tightly around her body and focusing along her leg as she leaned forward, the air around her buzzing violently with each pulse of power.
+
+Then, Chloe shot forward like a bolt of lightning, closing the distance as she prepared a lightning charged kick. The lightning condensed just before impact, growing blindingly bright as it wrapped her feet in a crackling arc of power.
+
+In a second, her foot slammed into the mask. A deafening crack rang through the area as a shockwave burst from the point of contact, blasting the nearby trees and sending debris flying in all directions. The lightning surged through the mask, crawling across its surface as the force of the blow drove straight through the monkey’s head.
+
+The mask cracked even more, with deep fractures spreading across its surface and breaking through the glowing patterns as pieces shifted and broke apart. The force of Chloe’s kick drove the giant monkey straight into the ground, its massive body slamming down with a heavy crash that shook the entire area.
+
+The ground split beneath it, forming a shallow crater where it landed, while the silver grass was flattened outward in a wide circle from the impact. Chloe pulled back and hovered above the impact site, watching closely as the dust began to clear.

@@ -1,0 +1,99 @@
+---
+id: 0c6612f2-ca18-5584-8276-30156b50ae62
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1581 - The Colony Strikes Back"
+slug: 0229-chapter-1581-the-colony-strikes-back
+partOf: chrysalis
+position: 229
+ownLength: 1053
+unit: words
+ownProgress: 1053
+publishedAt: 2025-06-10
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2344084/chapter-1581-the-colony-strikes-back"
+royalRoadId: "2344084"
+markedReadAt: "2026-06-29T19:51:08.420Z"
+---
+
+The number of troops on the platform just keeps going up. Even the front lines, which usually have a reasonable bit of space, are getting a bit squeezy. The number of mages and support troops back there is absurd. I don’t know how many battalions are on here, but it’s probably double what we had before. More ants, more humans and various other species, including more of the priests, we have ant cavalry, even some of the Immortals are here!
+
+Solant is really pushing all the pieces out onto the board, isn’t she? Sheesh.
+
+I knew things were getting rough, but this just goes to show how rough. With the Krath pressing, we don’t have just the wave to contend with now, but so much more.
+
+Well, I for one welcome the help, even if I can’t keep track of everyone on my own platform at once. Case in point, I don’t even notice the little creature next to me until it puts a hand on my leg.
+
+I look down and almost jump out of my carapace. I know that hunched over, bulbous forehead!
+
+[Formo!] I cry happily as the little sophos waves a claw up at me.
+
+[I SAY! You got large, MY BOY! VERY LARGE INDEED!]
+
+[I am indeed a magnificent specimen,] I say modestly.
+
+[And quite the shiny core you have! A tier seven mythic. I’m impressed, lad. You’ve done well!]
+
+[Yes, but what brings you down here? And out on the platform? It’s not safe here!]
+
+[PAH! Of course it’s not safe. It’s the fifth! Even so, I wouldn’t be here without a purpose. We are laying a little trap for the Krath.]
+
+[A trap? You? What’s going on?] A moment of inspiration sends a thought spinning through my head. [Wait… you managed to create fifth stratum pets?]
+
+Is it possible for a sightless creature to have a twinkle in its eye? No. No it isn’t, but there is a slight smile on the sophos’ face as he brings a single claw up before his lips.
+
+[Keep this hush-hush, I SAY! If you start trying to sense them, the slugs might be tipped off. Just wait and watch.]
+
+I mean… sure. I’m blasting out gravity magic, globs of lava, fire and unleashing the occasional chomp, as usual. Trying to hold off as much as possible without putting the rest of the platform at risk. I’ve learned my lesson. It’s not hard for me to look busy, because I am.
+
+[How long have you been here?] I ask Formo.
+
+It’s weird to see him. Last time I visited the sophos, I was already larger than them, but not this much larger. I tower over him to an absurd degree at this point, but I still feel a deep-seated respect. The first time I saw him, he loomed over me on top of the most powerful monster I’d ever seen up to that point: his worm pet.
+
+I expected to be smooshed, but he was quite helpful, and has been ever since.
+
+Right now, all he’s doing is… standing around. I know he’s probably directing pets with his thoughts, but for all intents and purposes, he might as well be asleep on his feet.
+
+[Are there any Krath out there right now?] he asks me.
+
+[Hard to say. They’re being more careful now that they know I can spot them if they take shortcuts.]
+
+[I think there are,] he says. [They can smell something wiffy.]
+
+[Who can?]
+
+No reply. Then, a few moments later, I spot something on the wall. It’s a rock, or at least, it looks like a rock, but last time I checked, rocks don’t wiggle. Before my eyes, the surface of the stone begins to shift and slide away, trying to remain hidden under the mucus.
+
+[I see it, should I attack?] I ask Formo.
+
+[What? There’s no point, BY JOVE! That nasty fellow is already done with.]
+
+It is? How?!
+
+The slug tries desperately to slide away, but I can see it growing slower and slower each passing second. Before long, it grows still, then gradually peels off the wall and begins to sink, carried away by the endless flow of mucus.
+
+[What did you do?!]
+
+Formo chuckles to himself.
+
+[There are so many deadly little creatures in this stratum. You don’t need to create a large and powerful pet to make something effective. This little chap is modified from a tiny core we snagged from a parasite. Only tier two, but with quite the deadly bite.]
+
+Another disturbance. This time, a mossy area of the wall is starting to undulate and writhe. Soon, a section starts to slide away as the Krath tries to return to its brethren, but again, it’s too late. Within a minute, another slug is slowly sinking down into the abyss.
+
+[Holy moly!]
+
+Formo nods.
+
+[This experiment is quite successful. I think we have a proof of concept. Yes, already they’re being more careful. I think they know what I’m up to. Canny little BLIGHTERS. Here, I’ll bring it back and you can see it.]
+
+See it? How?
+
+It takes a little while, but eventually he gets me to look down at the nearby mana channel coming from the nearest intake. If I look carefully into the concentrated mana, I can see a little wormy-snake looking thing no longer than a foot and no thicker than a pencil. It wiggles its tail at me before it changes colour, blending in with its surroundings and vanishing right before my eyes.
+
+[They’ll be on the lookout now,] Formo says, nodding to himself, [but that works in our favour as well. They’ll be more careful, knowing they aren’t safe out there on the wall.]
+
+[Amazing! I can’t believe you were able to get something so useful so quickly.]
+
+[Only possible here, I’m afraid,] he says, shaking his head. [The mutations and organs possessed by these little critters are incredibly deadly to something the size of a Krath. My little friend would have trouble handling your carapace,] he says, knocking me on the leg, [but with something so soft and squishy? PSHAW!]
+
+He turns back to the end of the platform.
+
+[I’d love to stay and chat, OLD BOY, but I must return to my work. Good luck out here. GOOD LUCK, I SAY!]

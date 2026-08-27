@@ -1,0 +1,87 @@
+---
+id: b73d86e5-ee31-5ca0-822c-293e828233fe
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1575 - Logistics of an Empire"
+slug: 0223-chapter-1575-logistics-of-an-empire
+partOf: chrysalis
+position: 223
+ownLength: 1016
+unit: words
+ownProgress: 1016
+publishedAt: 2025-06-03
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2326468/chapter-1575-logistics-of-an-empire"
+royalRoadId: "2326468"
+markedReadAt: "2026-06-29T19:50:56.852Z"
+---
+
+The production capacity of the Colony, along with its non-existent labour costs, could have annihilated all commerce within the Dungeon if not for the quick thinking of the Brathian Island Conglomerate.
+
+Fixed prices, controlled volumes, and putting a hard floor on what the ants could charge for their wares allowed the rest of the commercial interests to compete. Many attempted to have the Colony produce goods on their behalf, ship in raw goods to the vast workshops and foundries of the ants, make use of their labour, then extract maximum value by selling at market, but this sort of arrangement was never accepted. The Colony was happy to buy materials, and did, frequently and in vast quantities, but they would not work for others, only for the family.
+
+What many of the merchants and market-watchers in the fourth stratum didn’t fully appreciate was just how much material the Colony consumed for itself. They were not merely producers, with endless legions of crafts-ants, mines and harvesting operations, but a furious engine of consumption. Always building, always smithing, weaving, enchanting, carving, sculpting and everything else. There is never a time the ants are not involved in a grand, empire-scale project of some sort, and they pour their vast resources into these activities without a second thought for the cost.
+
+-           Excerpt from ‘Swarm Economics’ by Xinci.
+
+“We’re running out of components,” Tungstant announced.
+
+Solant nodded, well aware of the problem.
+
+“Yes, the stockpiles have almost entirely been drawn down. We never expected to need this many replacements for the channels. If we hadn’t overproduced by ten percent, we would have run out already.”
+
+“How much longer are they going to last?” the carver asked. “My teams are working around the clock, and they need those parts.”
+
+“I’ve had my logistics team working on the problem for the last few hours. The report is… thank you,” she said to the ant who slipped her a scent-marked tablet. Tracing her antenna through the lines of pheromones, she clacked her mandibles in satisfaction. “Five hours.”
+
+Tungstants’ antennae stood straight up in shock.
+
+“Five hours? That’s it?!”
+
+“For our current stockpile, yes. There are more in production.”
+
+“More of what? There’s a dozen different components needed for the mana channels.”
+
+“Everything.”
+
+The channels were indeed some of the finest work the Colony had ever produced, a handy bit of enchanting that kept the mana passing through entirely contained. Repelled from all sides, the toxicity never had a chance to come into contact with anything, removing the chance of contamination. This only failed, as it turned out, when the volume of mana running through was so vast that the enchantments were no longer strong enough to contain it. Any mistakes made when installing the extremely delicate panels created vulnerabilities that the massive throughput quickly exposed. Eating through even a sliver of the enchantments and sigils was enough to disconnect one panel from the next and create a bottleneck that quickly exploded.
+
+Ordering a large quantity of such highly engineered components wasn’t as simple as merely asking for them. It took time, precious materials, cores, delicate craftswork.
+
+“How long until the first shipment arrives?” Tungstant asked, resigned.
+
+She had no idea how, but it appeared she and Cobalt would have to hold the entire network together with their mandibles and willpower. Until the materials arrived, what choice did they have?
+
+“An hour ago,” Solant replied calmly.
+
+“Wh… How is that possible?” Tungstant asked, flabbergasted.
+
+Solant cleaned her antennae, unhurried.
+
+“Because the supply chains were put in place months ago, and every material required to construct this fortress has been stockpiling in the fourth’s staging grounds ever since we finished work.”
+
+“The deliveries didn’t stop?” Tungstant asked.
+
+“There is no reason for them to stop,” Solant replied, her demeanor hardening. “Is there a desperate need anywhere in the Colony for these resources? If we were to fail here, you understand just how great a loss that would be for our family, do you not? We must succeed. There is no other option. The forges and workshops are working around the clock to produce the materials you need. I promise, you won’t run out, no matter how much you need.”
+
+Tunstang remained stunned. Just thinking of the vast workforce required, the huge number of artisans dedicated to this one repair effort. Going beyond that, the forges and foundries smelting the metal, the mining ants harvesting and processing the raw materials. The immense effort of moving thousands of tons of ore through the Dungeon. Suddenly, she felt as if the entire family were behind her, as if all of her siblings had a leg to her back, pushing her forward.
+
+“I’ll get back to work. Are the panels being distributed?”
+
+“As we speak.”
+
+“Good. That’s good.”
+
+Solant watched as the carver turned and skittered away, a renewed sense of purpose and determination in her frame. For her part, she let her thoughts shift back to the problem at hand. The model in front of her filled her eyes, but Solant’s mind was, as always, filled with the puzzle.
+
+Pieces continued to slot into place as she leveraged the might of the Colony and the power of her mind. With millions of ants fighting single-mindedly for victory, there was almost no opponent she feared.
+
+And yet.
+
+Some of the pieces remained stubborn, refusing to slot in with the rest.
+
+The Krath. The Ancient. The toxin.
+
+They were more closely related than she thought, but she didn’t know how. If only she’d thought to ask Goszi about Theorazzn when she’d had the chance, but there had been other secrets she had needed to extract from him. Unless these issues were solved, it was difficult to guarantee victory; there were too many unpredictable elements in play.
+
+The situation was being pushed closer and closer to the line, but so far, Solant and the fortress remained on the right side of it. Regardless of what she had to do to keep them there, she would do it.
+
+She needed to talk to the Legion again. A bargain needed to be struck.

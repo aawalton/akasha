@@ -1,0 +1,237 @@
+---
+id: 7eaea74f-9fbd-5f10-9582-80056a39ef53
+page-type-slug: story-chapter-royal-road
+title: "72: Hello and Goodbye (Start of Book 2)"
+slug: 0072-72-hello-and-goodbye-start-of-book-2
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 72
+ownLength: 2075
+unit: words
+publishedAt: 2025-11-19
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2774786/72-hello-and-goodbye-start-of-book-2"
+royalRoadId: "2774786"
+---
+
+Chloe narrowed her eyes and stared at Sabine. Not just a normal stare, but the super intense kind. Sabine didn’t seem bothered. She lounged there calmly, smoke curling from her strange glowing tube-thing like she had all the time in the world.
+
+Since normal staring didn't work, Chloe leaned in a little closer. Then a little more. Then a little more.
+
+But despite how hard Chloe was staring, Sabine still said nothing, which only made Chloe more suspicious. She took two steps forward and planted herself right in front of Sabine, staring even harder.
+
+Finally, Sabine let out a soft laugh. “Chloe, what exactly are you doing?”
+
+Chloe crossed her arms and puffed her cheeks. “I’m just… checking something.”
+
+“And what would that be?”
+
+“I don’t believe you don’t know what’s inside that box. You totally know. I can feel it.”
+
+“Is that so?”
+
+Chloe leaned back at last, though her eyes stayed locked on Sabine. “Yeah, no. I still think you know what’s in the box. You just don’t wanna say it out loud.”
+
+“I admit, I also expected you to know. Unless you are simply acting to avoid revealing the truth.” Raenof said, also shooting a glance at Sabine.
+
+"Wait a minute, what's an 'acting' supposed to be?" Chloe asked.
+
+“Acting is when someone pretends to be something they’re not. Or pretend not to know something they do.” Sabine explained.
+
+“Oh. So lying,”
+
+“Not exactly. But close enough.”
+
+Sabine set her smoky stick-thing aside and met Raenof’s gaze. “To be clear, I’m not hiding anything. I truly don’t know what’s inside the box. But, I do intend to find out.”
+
+Chloe tilted her head. “Then can’t you just open it?”
+
+Sabine reached for the red box and tried the lid. It didn’t move. She pressed harder and even gave it a little twist and pulled, but nothing happened. “As you can see, it won’t open for me.”
+
+Raenof folded his arms. “Then what is your plan?”
+
+Sabine leaned back on the couch, looking between him and Chloe. “That entirely depends on what the two of you want to do next.”
+
+"What do you mean, depends on what we want to do?” Chloe asked.
+
+Sabine rested her elbow on the arm of the couch and laced her fingers together. “Exactly what I said. I will make you both an offer.”
+
+Chloe perked up. Offers usually meant rewards. And those rewards can sometimes even be brains.
+
+“I will pay you both quite generously, if you help me find a certain individual named Morikhan.” Sabine said.
+
+Raenof’s relaxed expression shifted for the first time. “Morikhan… as in one of the Sages of the Wilds? Morikhan the Mad?”
+
+Chloe raised a hand. “Wait, does that mean he’s always angry? Because being known for anger seems a weird thing to be famous for. Like, what did he do?"
+
+“No. Mad here does not mean angry. It means he's crazy and insane."
+
+“Oh. So he yells at people a lot?”
+
+“That is not what I said,” Raenof muttered.
+
+Sabine gave a small nod. “Morikhan is indeed unstable. But he’s also ancient and has traveled longer than most people have been alive. And with time comes knowledge.”
+
+Her gaze drifted to the sealed red box. “Knowledge I am very interested in.”
+
+Chloe leaned forward. “So you think this crazy guy knows how to open the box?”
+
+“I believe he is one of the few people who might. Since I am already here in Vorraska, I intend to use my time wisely and follow this lead.”
+
+“But there are other experts you could seek out instead of… him." Raenof pointed out.
+
+“Yes. But they are not who I am looking for. Besides, Morikhan and I have other matters to settle.”
+
+That made Raenof pause. But Chloe barely heard any of that as she remembered something big. Oh yeah, Z told me to find the Sages of the Wilds.
+
+Morikhan was apparently one of these important sages. And just from the way Sabine and Raenof were talking, Chloe figured that this crazy guy had to be pretty strong. And that meant he might have very, very delicious brains. And Sabine wants to find him too? Well, that’s pretty convenient.
+
+Chloe slapped her hand on the table. “I’ll totally help you find this Mad Morikhan guy.”
+
+“Excellent. You won’t regret this, Chloe.” Sabine said.
+
+“Oh, I never regret anything. Except that one time I tried out a magic  stick and it blew up in my face, but that was a learning experience.”
+
+Sabine nodded like that was completely normal to hear. Then she turned to Raenof. “And what about you?”
+
+Raenof stood still while he thought. He was just silent for a long time. But eventually, he spoke up. “I appreciate the offer. However, I must decline.”
+
+Chloe blinked and spun toward him. “Wait, what? Why?”
+
+“As much as I had fun… I still want to go home Chloe. Technically, my job here was done the moment I handed the box over to Sabine."
+
+“Are you certain about leaving?" Sabine asked.
+
+Raenof nodded. “I am.”
+
+"Then I suppose this is where we part ways."
+
+“That is fine, I was planning to return home after this mission anyway.”
+
+Raenof turned to Chloe, and for once, his expression softened in a way she wasn’t used to. “It seems this is goodbye. For now.”
+
+Chloe felt something twist in her chest. Not pain exactly since she didn’t really do pain, but something close to it. “Do you really have to go?”
+
+Before Raenof, Chloe's only experience with a travel buddy had been with Baron Willy. And while the baron got better eventually, he was kinda annoying for a while.
+
+But Raenof was never like that at all. He was actually pretty cool.  The elf taught her stuff, real stuff, like mana mastery. Talking and training with him had been fun. So yeah, she was kind of bummed he had to leave.
+
+“Chloe, I'm sure we will see each other again. Sooner or later.” Raenof said.
+
+That did make her feel a little better. She nodded, though a tiny stubborn part of her still didn’t like it. “Okay. Goodbye, Raenof.”
+
+“Farewell, Chloe. Try not to cause too much trouble.”
+
+She grinned wide. “No promises.”
+
+He actually laughed at that, then gave Sabine a polite bow before heading for the door. Things went quiet after that.
+
+Chloe stared at the door even though there was nothing to look at now. Goodbyes were strange. She never knew where to put them in her head. Chloe didn’t like them.
+
+Sabine picked up her glowing smoke-stick again and took a breath from it before breaking the quiet. “Do you know who he really is?”
+
+Chloe blinked. “Huh? Raenof is Raenof.”
+
+“I suppose that is one way to put it.”
+
+“Is there another way?”
+
+“There is. But I think it is better if you hear it from him someday, not from me.”
+
+“Why are you being so mysterious around me? Just say things like a normal person.”
+
+“Please, being normal is overrated.”
+
+Sabine rose from the couch and tapped ash into a tray before setting the smoke-stick aside. “In any case, we shouldn’t stay here. There are too many ears in Vorraska, and I don’t enjoy being watched.”
+
+Chloe’s eyebrows shot up. “We’re being watched?”
+
+“Always assume yes. But anyway, the point is we should go somewhere better. Somewhere quieter. Somewhere… cooler.”
+
+“Cooler? I like cool stuff.”
+
+“Then follow me.”
+
+***
+
+Sabine led Chloe out of Vorraska and into the thick jungle that wrapped around the city like a big green blanket. Strange birds shrieked from somewhere high above, and bugs kept flying way too close to Chloe’s face. Bugs are so gross.
+
+They walked for a long time. Maybe an hour. Maybe two. Maybe five hundred. Chloe couldn’t tell because time worked differently when there were too many trees, too many bugs, and not enough brains to eat.
+
+Speaking of brains, she still had that storage scroll from Iris, the one with the dead earth mage inside. Maybe I should sneak a bite later when Sabine isn’t looking. Yeah. Good plan.
+
+But right now, she was bored. “Hey Sabine, are we there yet?”
+
+“Not yet,” Sabine said calmly, brushing aside a hanging vine.
+
+A few minutes crawled by. “Are we there yet now?”
+
+Sabine didn’t even look back. She just smiled.
+
+Another five minutes. “How about now?”
+
+Still just a smile. No words.
+
+Chloe scowled at her back. She’s doing this on purpose. I can feel it. She thinks this is funny. Why are mysterious people always like this?
+
+But finally, Sabine slowed to a stop in a clearing. A massive boulder sat in the center, covered in moss and vines.
+
+“We’re here,” Sabine said.
+
+Chloe stared around, waiting for something more exciting to jump out. “Uh. Where’s the cool thing you wanted to show me?”
+
+Sabine nodded toward the boulder. “Inside.”
+
+Chloe stared at it harder. “Uh-huh. And you think both of us are going to fit inside that rock?”
+
+“The thing I want to show you is behind the rock, not inside it.”
+
+“Ohhhhh. Right, I knew that.”
+
+"Sure, I believe you."
+
+"You sure? Something about your voice kinda makes me feel all weird."
+
+"Relax, Chloe, you're just overthinking things."
+
+"Hmm, okay."
+
+Sabine raised her hands and gave a single, sharp clap. The sound cracked through the clearing, and the massive boulder trembled before slowly grinding aside. Moss and dirt crumbled away as it revealed a dark stone entrance hidden beneath.
+
+“Okay. That was pretty cool.” Chloe admitted.
+
+Sabine didn’t even pause to enjoy the reveal. She just stepped forward. “Come along.”
+
+Chloe hurried after her, glancing back just in time to see the boulder slide shut again with a heavy thud that echoed behind them. The jungle vanished, replaced by a cool underground air.
+
+Glowing red symbols were carved along the walls, faint and eerie, lighting the way just enough to see. Chloe reached out and brushed her fingers near one as they walked. The magic in it tingled against her skin. It was actually kind of ticklish. Hehe, I like these funny glowy words.
+
+“You know,” Sabine said casually, “you really shouldn’t follow people into dark and creepy tunnels. That’s how most terrible stories begin.”
+
+Chloe raised an eyebrow. “Aren’t we literally in a dark and creepy tunnel right now?”
+
+“Yes, we are."
+
+“And… I'm following you deeper into this creepy tunnel, like, right now."
+
+“You're right, but I’m here. So it’s fine.”
+
+Chloe narrowed her eyes. Pretty sure Sabine is messing with me again. Maybe it's best if I just kept quiet for now.
+
+The two eventually passed faded carvings and broken statues. Some carvings showed people holding weapons or chanting over strange circles. Others showed huge beasts with too many eyes or too many teeth.
+
+One even showed a man getting swallowed by something that might have been a frog but also maybe just a really angry… potato? Whatever it was, that one was her favorite.
+
+Eventually, Sabine stopped in front of a door made of steel. It had no handle or lock, just a flat surface marked with a single glowing symbol.
+
+She placed her palm against it. The door hissed open like it had been waiting just for her.
+
+“Go on,” she said, motioning Chloe inside.
+
+Chloe peeked in first just to make sure nothing inside was trying to surprise her, or kill her, or both. Then she shrugged and stepped through.
+
+The room on the other side made Chloe stop in her tracks. It was huge, lit by floating crystal lanterns. Maps covered tall boards along the walls, marked with red lines and circles and scribbled notes she couldn’t read.
+
+Tables were piled with scrolls, strange glowing stones, and sharp metal tools that definitely looked like they were used for fun stuff. Shelves held jars of weird liquids, bundles of dried herbs, bones, and things in boxes that rattled even though no one touched them.
+
+Oh, and there was a huge strange symbol painted across one wall. It looked like a circle with wiggly lines bursting out of it. Chloe had no idea what it was supposed to be, but it definitely looked important. And actually, it sort of looked like that symbol she saw in Luther's memories, right after she ate his brain.
+
+She slowly turned in a circle as she tried to take everything in. “Whoa, what is this place?”

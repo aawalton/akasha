@@ -1,0 +1,259 @@
+---
+id: 041b3021-a42d-5463-af14-d4671ea185ae
+page-type-slug: story-chapter-royal-road
+title: "57: The Bandaged Man"
+slug: 0057-57-the-bandaged-man
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 57
+ownLength: 2458
+unit: words
+publishedAt: 2025-10-24
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2701409/57-the-bandaged-man"
+royalRoadId: "2701409"
+---
+
+Something was definitely wrong with Raenof. The problem was figuring out what.
+
+But when Chloe glanced around the carnival, she spotted someone who just screamed trouble. A man stood wrapped in bandages from head to toe. A black cloak hung over him, hiding everything except the faint glow of red where his eyes should have been.
+
+Chloe jabbed a finger at him. “Hey! You! Stop doing whatever it is you’re doing!”
+
+He didn’t answer. Instead, his hands began moving in a way that felt all kinds of wrong. Then Raenof screamed.
+
+It was an awful sound that made Chloe’s stomach twist. Okay, this is definitely not good.
+
+She had planned to get Raenof to Vorraska in one piece and collect her special brain reward. There was no way she was letting some wrapped-up creep ruin that.
+
+Chloe conjured her Cursed Rock Shot. The stone shimmered with dark energy, and with a thought, she launched it straight at the bandaged man.
+
+The man twitched, his fingers starting up another round of creepy signs. Chloe had no idea what he was trying to pull, but it sure wasn’t stopping her attack.
+
+Soon, the rock slammed into his chest with a loud thump. Black and purple energy burst out from the impact, cracking across his cloak and tearing a strip of fabric clean away. He grunted, flying back before crashing into the ground.
+
+After that, Chloe snapped her right hand forward. In an instant, her hand tore free, squirming through the air as it shot straight toward the fallen man.
+
+Before he could react, Chloe's hand gripped his arm and dragged him close. Her other hand curled into a fist as ice scales spread across her knuckles.
+
+When the bandaged man was pulled right in front of her, Chloe drove her scaled fist straight into his face. The crunch that followed was nasty, and the man reeled back with a muffled grunt.
+
+But Chloe was far from done. She coated her free hand with ice scales too, after which, she punched the man again and again. Blow after blow landed, each one snapping his head back or knocking him sideways. The man tried to twist away, but she caught his wrist before he could escape.
+
+Frost spread from her fingers into his arm, locking his hand in place as she sneered. Nice try, but you’re not going anywhere!
+
+For a moment, Chloe was sure she had him. But then, something weird happened.
+
+The man's body collapsed into a rush of liquid, turning red as it spilled between her fingers. Blood gushed down in heavy streams, spilling onto the dirt.
+
+Chloe stared in disbelief, still clutching at the scraps left behind. When it was over, all that remained in her grasp were loose bandages and an empty cloak. She held them up with a frown.
+
+Okay… he didn’t turn invisible, right? I’d still be able to touch him if he did that. So what just happened? Is he even still around?
+
+Chloe stepped around the puddle of blood and crouched. Closing her eyes, she reached out with her tremor sense. The world shifted into faint ripples under her skin, every footstep from the fleeing crowd echoing in her mind.
+
+But none of the footsteps felt like they belonged to the bandaged man. In fact, she didn't even feel anyone remotely close to her.
+
+She switched to mana sense next, but still got nothing. No special blood magic mana core that she could feel. Just the boring little sparks of normal people and, of course, Raenof, who lit up way brighter than everyone else. Great. Super useful. Thanks, mana sense.
+
+Frustrated, Chloe let it go. Raenof came first.
+
+She threw away the last strip of bandage from her fingers and turned back toward him. He was still gasping like someone had just wrung his lungs dry.
+
+“Hey, Raenof, are you alive?” Chloe asked, approaching the elf.
+
+She didn't get an answer, which wasn't a great sign. So, Chloe crouched beside him and gave his shoulder a poke. Then another, and another, and another. “Helloooo? Are you okay?”
+
+That finally got a noise out of him. Raenof coughed and lifted his head. “I’m… fine.”
+
+"Uh, are you sure?"
+
+"We need to find somewhere… somewhere I can rest."
+
+“Like an inn?”
+
+“Yes…"
+
+“Cool. I can do that."
+
+Chloe carefully helped Raenof to his feet. He was heavier than she expected, and honestly, he was actually kind of a deadweight. Chloe grunted but managed to keep them both upright.
+
+“Alright,” she said, bracing him with one arm, “let’s go find a nice place where you can cough up blood in peace.”
+
+With some effort, Chloe dragged Raenof along and started asking around for directions to the nearest inn. A few nice people not only pointed the way but actually walked with them, probably because Raenof was still coughing up blood every now and then. That seemed to make folks nervous.
+
+Eventually, she made it to an inn and barged right inside. The place looked nice enough by her standards, so it should be fine for Raenof.
+
+A clerk blinked at her from behind the counter. “Uh… do you—”
+
+Chloe pulled Raenof up to the desk. “Hi! I need a room so this guy can rest and not die."
+
+The clerk blinked again, then noticed Raenof’s whole dying look. His eyes went wide. “Kiera! Get in here!”
+
+A door banged open, and a woman with her sleeves rolled up rushed out. “Oh dear, what happened to him?”
+
+“He, uh, got attacked. But he’s fine now. Probably. Maybe.” Chloe said, which was true enough.
+
+The woman immediately waved Chloe aside and called for help. Two more people appeared, and together they lifted Raenof off Chloe’s shoulder, carrying him upstairs.
+
+Chloe followed close behind. The inn staff eventually placed Raenof in a clean bed with clean pillows. The inn lady pressed a cloth to his forehead and muttered about fever, shock, and way too much blood loss. Another tucked a blanket around him, and the third lit a small lantern at his side.
+
+Chloe hovered near the door, wringing her hands just a little. He’s gonna be fine, right? Elves don’t die from mystery blood curses or whatever that was… right?
+
+After a bit, the inn lady turned toward her. “You can settle the payment when you check out, dear. He needs rest more than anything right now. And I've placed some water at the nightstand, you should give it to him when he wakes up."
+
+Chloe nodded. “Thanks. I got it.”
+
+Once the others left, Chloe crept to Raenof’s side and plopped onto a stool. Letting him sleep probably helped with healing.
+
+Then again, he had been talking back at the carnival, but now that he was in bed, he seemed worse. Wait. What if sleeping is bad for elves? Eh… I’ll just see what happens.
+
+She sat there, kicking her feet against the stool while keeping a close eye on his leafy face. His breathing was even, which was a huge step up. But still, he hadn’t moved or opened his eyes since he was taken to the inn.
+
+Leaning forward, she poked his cheek. Nothing. She poked harder. Still nothing.
+
+Chloe groaned and flopped back into the stool. She decided to give the elf some time to rest, but if he didn't budge after a while, she was definitely going to poke him.
+
+By the time Chloe saw the sun setting through the window, she was considering poking Raenof on the nose. Yet, at that moment, the elf's eyes cracked open.
+
+“You’re awake!” Chloe said.
+
+Raenof's gaze drifted toward her slowly. “I… yeah, guess I am."
+
+“How do you feel?”
+
+"Terrible, but I'll live."
+
+“So, uh, who was that bandaged guy back at the carnival? He looked like he really wanted to mess with you."
+
+"He's a—"
+
+Before he could finish speaking, Raenof coughed hard. His whole body tensed, and his hand gripped the blanket tight.
+
+Chloe immediately grabbed the mug of water and shoved it toward Raenof’s face. “Here. Drink this. The inn lady said that you're supposed to drink.”
+
+Raenof blinked at the mug, then at her, and somehow managed a soft chuckle. “Thanks.”
+
+He took a sip, then leaned back with a long exhale. “That bandaged man is dangerous. He knows blood magic, which is an incredibly rare and terrifying form of magic. If I had to guess, someone hired him to go after me.”
+
+“You mean someone paid a lot of money for a blood magic guy to get you?"
+
+“Exactly, and actually, did you manage to deal with him?”
+
+“I mean... kind of? I hit him a bunch, and it was going great until he did this thing where he turned into a puddle of blood. Sooo... I don’t think he’s dead.”
+
+“Unfortunate. We’ll need to stay alert in case he tries again.”
+
+“Oh yeah, I’m already planning to punch him extra hard next time. But seriously, what’d you even do to get someone like that sent after you?”
+
+“You see, there’s this famous auction house in the capital of Ishgria. I may have... acquired something from one of their more exclusive events.”
+
+Chloe narrowed her eyes. “Acquired?”
+
+Raenof smiled faintly. “Without permission.”
+
+“Ooooh. You stole something?”
+
+“Pretty much. They’ve sent bounty hunters after me before, though none quite like that bandaged man. I don’t know who he is exactly, but his abilities are deeply unsettling. And somehow, he’s the only one who has actually managed to track me across the kingdom.”
+
+“Hmmm. I don’t really know what an auction house is, but the people there must be super mad at you. What did you even steal to make them send that bandaged guy after you?”
+
+“Would you like to see it?”
+
+“Duh. Show me the shiny thing!”
+
+“Alright. But before I do, could you close the curtains?”
+
+“Curtains?”
+
+“Those floppy things near the window.”
+
+Chloe glanced over and spotted the fabric hanging down. Oooh, curtains. The ones here are a lot smaller than the ones in Baron Willy's house.
+
+But anyway, Chloe figured it made sense that whatever Raenof wanted to show her was important enough to keep private. She shuffled over to the window, closed the curtains, and came back to the elf. “Done!”
+
+“Good. Now I want you to promise you won’t tell anyone about what I’m about to show you.”
+
+“Kay.”
+
+“Chloe, that’s not a promise.”
+
+“I said okay? Isn’t that good enough?”
+
+“No. I want you to say it. Word for word: ‘I promise never to reveal the truth of what I’m about to see to anyone, no matter the reason, no matter the circumstance.’”
+
+“Uh… I promise never to reveal the truth about what I’m about to see to… uh… anyone, unless there’s a really good reason and wait, uh… no matter the situation? Circum-something? I promise not to blab about the shiny thing unless… no, not that either, ugh, you get the idea.”
+
+Raenof chuckled. “Good enough.”
+
+A sudden tingle buzzed in Chloe’s brain. Huh?
+
+[Contract Accepted]
+
+“Hey! What did you just do to me?” Chloe asked.
+
+“Relax. It just means you’ll keep your end of the deal. Don’t think about it too much.”
+
+Chloe opened her mouth to argue, but Raenof snapped his fingers. Out of nowhere, the shiniest black box Chloe had ever seen poofed into existence right on the bed. It glowed like it knew it was better than every other box in the world.
+
+Chloe gasped and leaned in until her nose was almost touching it. “Ooooh. Shiny.”
+
+Raenof held it up with both hands. “Took me a while to acquire, but… here it is.”
+
+Curious, Chloe poked the box a couple of times. Then she rubbed the side of the box for good measure. “What do you think’s inside? A cool weapon? A secret map? Another box?”
+
+Raenof shook his head. “No idea. I’ve never opened it.”
+
+“Wait. Seriously? You don’t know?”
+
+“Wasn’t part of the job. I was just hired to deliver it.”
+
+“To who?”
+
+“No clue, but I was given a tool you see. Something that will let me know if the person meant to take the box is nearby."
+
+That sounded extremely suspicious to Chloe. And also kinda lazy. “So you’re telling me… you grabbed this sparkly mystery cube and agreed to drag it all the way to some random town without even knowing who it’s for?”
+
+Raenof smiled faintly. “That’s about right.”
+
+“Why?”
+
+“The money was good. But also, I’ve always been curious. I like snooping. Getting involved in things I probably shouldn’t. Seeing things people don’t want seen, that kind of stuff."
+
+Raenof lifted the box again carefully. “There’s something exciting about touching what doesn’t belong to you. Like the world’s full of secrets, and I get to peel a corner away and peek inside.”
+
+“So you’ve just always been a thief?” Chloe asked.
+
+Raenof nodded without a hint of shame. “I don’t think I could stop even if I tried. I’ve stolen from nobles, bandits, and even other thieves. Although, I do try to leave common folk alone, they have enough to deal with as is."
+
+"Well, I'm not the biggest thief expert. But that's a lot of words for saying you like to steal stuff."
+
+“It’s selfish. I know that, but it would take a lot to happen for me to change my nature."
+
+Chloe actually did get where Raenof was coming from. It was kind of the same with her and brains. She liked eating them, and he clearly liked stealing things. Different activities, same energy.
+
+Then she noticed something funny. “Actually, Raenof, you might actually be the first guy I’ve met from the Thieves Guild who’s, you know… an actual thief.”
+
+"Technically speaking, I'm not actually part of the Thieves Guild. I'm just a client."
+
+"Well, you're still like, the only thief I know for sure who I met in the Thieves Guild. So there's that."
+
+Raenof chuckled. “Maybe the guild should review their hiring criteria. But then again, the Thieves Guild doesn’t do much thieving these days.”
+
+“Yeah, still can’t believe the one here is just a restaurant. But anyway, what are we doing next now that you’re better?”
+
+“I still need to rest a bit longer.”
+
+"Wait, again? You already had a rest.”
+
+“True, but I still need more time. Not everyone is so full of energy like you."
+
+“Fine… I'll wait for you I guess."
+
+“Chloe, tell you what, If you’re willing to wait, I can teach you a mana control technique once I’m better.”
+
+"Well, what kind of technique are you gonna teach me?"
+
+"That depends on you, but I promise you it'll at least be pretty cool."
+
+“Really? You mean it?"
+
+Raenof nodded. “I promise.”

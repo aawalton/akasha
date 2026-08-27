@@ -1,0 +1,131 @@
+---
+id: cdc53ef5-8590-5168-8b03-069bab0e6520
+page-type-slug: story-chapter-royal-road
+title: "111: Troll Trouble"
+slug: 0111-111-troll-trouble
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 111
+ownLength: 1946
+unit: words
+publishedAt: 2026-02-09
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3028842/111-troll-trouble"
+royalRoadId: "3028842"
+---
+
+Chloe wasn’t sure where the black-feathered bird lady had gone. One moment she’d been right there, all serious and mysterious, and the next she was just… gone. Which was kinda annoying and a little rude. Still, Chloe figured there wasn’t much she could do about it, so she shrugged and went back to doing stuff.
+
+Step one was getting out of this dungeon and finding her friends, plus Ynett. She climbed back onto Mr. White’s back, patting his bony neck as he started galloping forward like the absolute champ he was.
+
+For a little while, it almost felt easy, like the dungeon had decided to give up on being scary. Then, of course, it didn’t.
+
+Chloe pulled Mr. White to a stop just as the corridor ahead opened into a wider chamber. Something big moved in the gloom. Then another. Two huge shapes lumbered forward, scraping stone with thick feet.
+
+They looked like trolls. Big, bulky, ugly trolls. The kind she’d seen before, back when she had that whole bounty thing going on with Luther the fire guy. Except these were worse.
+
+Corpse-colored flowers were growing all over them, sprouting from cracked skin and twisted muscle. Petals hung limp and dark, and thick vines wrapped around their arms and torsos like they’d been stitched together by someone who really wasn't that good at the whole stitching thing.
+
+Chloe wrinkled her nose and leaned down to pat Mr. White’s skull. “Okay, yeah, no. Those guys are gross, and they’re blocking the hallway. Which is rude. Guess we're gonna have to beat them up.”
+
+Mr. White snorted softly, blue flames flickering in his eye sockets like he was very on board with this plan. The trolls let out low, grinding growls as they noticed her, their heavy feet thudding against the ground.
+
+One of the trolls lifted an arm, the vines on its body stretching and snapping as it moved. Chloe slid smoothly off Mr. White’s back and rolled her shoulders, cracking her neck as if she were about to stretch rather than fight. Thin arcs of lightning snapped into existence around her fingers, crackling and hissing in the air as she grinned. “Dunno who or what you guys are, but it’s zappy magic time.”
+
+She fired the first blast straight into the chest of the nearest troll. Lightning tore through rotten flesh and tangled flowers with a sharp, thunderous crack, punching a smoking hole clean through its torso. The creature staggered backward, roaring as bits of charred petals and ash rained onto the stone floor.
+
+Chloe was very happy that her lightning magic had gotten so much better. While she was only capable of tiny zaps before, now her zaps looked like it was about as good as Sabines! And wow, it turned out using zappy magic was pretty fun too.
+
+While she was being all excited and happy, the second troll charged, moving far faster than something that big had any right to. Chloe hopped back and flicked her hand again.
+
+Another bolt ripped through the air and slammed into its arm, blasting vines apart and leaving the limb hanging at a very wrong angle. The troll howled, swinging wildly as it smashed its remaining fist into the wall, though the attack seemed to hurt itself more than anything else.
+
+Chloe bounced lightly on her toes, clearly enjoying herself now. She was totally destroying these big dumb meanies.
+
+Her grin sharpened as she snapped her fingers. Last time she’d dealt with trolls, the normal ugly kind, fire had done the trick. And these ones looked even more flammable, what with all the dead plants, vines, and rotten growth tangled through their bodies like kindling.
+
+“Yeah,” she muttered as heat gathered in her palms. “I should probably use fire.”
+
+She slammed her hands forward, unleashing a roaring wave of flame that washed over both trolls at once. The flowers embedded in their bodies ignited instantly, burning bright and fast as the fire raced along vines and petals. The trolls screamed as the flames crawled over them, devouring plant matter and flesh alike. One stumbled, dropping heavily to its knees before collapsing.
+
+The other tried to keep going, arms flailing as chunks of flaming growth tore free and fell away. Chloe stepped closer and finished it with a focused fire blast straight through its chest. Fire tore out the other side in a burst of heat and sparks, and the troll collapsed into a heap.
+
+And just like that, Chloe had won. Hurray for zappy magic and fire magic. I’m so cool.
+
+[You have killed: Graveflower Troll (Level 45)]
+
+[You have killed: Graveflower Troll (Level 45)]
+
+[Experience Awarded]
+
+Chloe planted her hands on her hips and stared at the two burnt troll corpses. She looked very pleased with herself. That expression lasted right up until she leaned closer and squinted at their cracked, blackened heads. Hmm, I might’ve cooked these guys a little too hard.
+
+She poked one of the skulls with her boot. It made a dull thunk and rolled slightly, leaving a smear of ash across the stone floor. Chloe frowned harder, clearly treating this like a very serious problem. Okay, but like. Brains are on the inside. Inside stuff is usually fine. Probably.
+
+Mr. White stood nearby, watching in silence. Chloe shot him a look. “Don’t look at me like that. I gotta eat."
+
+Luckily, Mr. White didn’t seem to mind any of this. He just snorted softly, blue flames flickering in his eye sockets, and wandered a few steps away like he was politely giving her some privacy. Chloe appreciated that. With the coast clear, she crouched beside the first troll and raised her fist.
+
+There was a brief pause where she looked at the skull and seemed to consider doing this delicately. Maybe even politely. Then she shrugged and punched straight down.
+
+The skull cracked with a loud crunch, splitting apart way easier than it probably should have. She pried the skull open the rest of the way and leaned in, peering at the brain inside.
+
+It was darker than usual, streaked with strange plant fibers, and it smelled faintly of burnt flowers and damp earth. It was not the prettiest meal. And by “not the prettiest,” she meant it looked super gross. Still, maybe the taste could make up for the looks. She was a zombie, after all, and what kind of zombie didn’t eat brains when they were just… there like that.
+
+Well. Chloe would absolutely skip brains that tasted bad. But shh. She wasn’t being contradictory. She was just always right in the moment.
+
+With that decided, she didn’t hesitate. Chloe dug in and ate the brain quickly, chewing with a thoughtful expression. The taste made her pause halfway through. It wasn’t bad, exactly, but it was definitely weird. Earthy and smoky, with a faint tingle that buzzed back at her tongue.
+
+Overall, she'd probably not recommend this brain if she had any other zombie friends to share it with. Not like she'd share any brains she got anyway, those other zombies would have to get their own brains!
+
+Once she finished, she wiped her hands on the troll’s pants and moved on to the second one. This time she didn’t bother crouching. She just stomped down until the skull cracked open.
+
+The second brain tasted about the same. Weird but manageable, with a faint floral aftertaste that lingered longer than she liked. Chloe smacked her lips once, and concluded that these trolls should really take care of themselves more. Their brains were just kinda below average in terms of taste.
+
+[Brain Consumed: Graveflower Troll (Level 45)]
+
+[Brain Consumed: Graveflower Troll (Level 45)]
+
+[Experience Awarded]
+
+[Skill Upgraded: Charm Resistance VII >> Charm Resistance VIII]
+
+[New Trait Acquired: Fey Touched Strength (Uncommon)]
+
+Chloe stared at the glowing text for a few seconds as she read it slowly in her head. New trait stuff always was important.
+
+[Fey Touched Strength (Uncommon)]
+
+Your body has adapted to sustained exposure to fey energy. When facing fey creatures, your physical and magical attacks deal increased damage. While within fey-aligned territory, your magic also receives a modest increase in efficiency and overall effectiveness.
+
+Chloe tilted her head, squinting. “Huh.”
+
+She tapped the air where the text hovered, as if poking it might make it explain itself better. Nothing happened, of course, so she let her hand drop and thought her new trait over.
+
+The new trait meant she would hit harder against fey creatures, and hit harder again if she was fighting in a place soaked in fey magic. That wasn’t bad. It wasn’t amazing either, but it was solid enough, especially while she was still stuck in the Sanctum of Dawn for the foreseeable future.
+
+Still, power was power. She gave a small shrug, accepting it without overthinking, and decided that having it was better than not. Mr. White snorted softly, stepping closer. Chloe swung herself back onto his back and pointed forward. "Let’s keep going. Dungeon’s not gonna clear itself.”
+
+They moved deeper into the tunnels, and pretty quickly the dungeon decided it was done being polite. The flowers grew thicker, vines hanging from the ceiling and creeping across the floor like they were waiting for her to mess up. Chloe poked one suspiciously with her boot. It immediately snapped shut around her ankle.
+
+“Oh. Rude,” she said as the vine yanked her upside down.
+
+She dangled there for a moment, hair hanging toward the floor. “Okay, that one’s on me.”
+
+She burned her way out easily enough, dropping back onto her feet with a thud. Chloe brushed herself off like nothing happened and kept walking. A few steps later, the floor gave way slightly and thorny roots snapped around her waist, lifting her again. She was starting to think this dungeon was especially clingy to zombies for some reason.
+
+This time, the vines held tighter, tugging her backward toward a patch of snapping flowers with way too many teeth. Chloe twisted, trying to blast them, but more wrapped around her arms.
+
+She glanced at Mr. White. “Hey. Buddy. Little help?”
+
+Mr. White stepped forward and grabbed one of the vines in his teeth, yanking hard. Bones and all, he pulled like an absolute hero, dragging Chloe free with a wet tearing sound. She landed on her back, staring up at the ceiling.
+
+Chloe grinned. “See? Best horse.”
+
+Mr. White snorted proudly. Of course he knew he was the best.
+
+Unfortunately, as they kept exploring, the traps didn’t let up. Spore clouds made it so hard to see that Chloe and Mr. White kept hitting walls, vines whipped at her ankles, trying to trip her, and flowers spat sticky sap straight at her face. Chloe barreled through it all with a mix of brute force and spectacular stubbornness, sometimes setting things on fire, sometimes freezing them solid, and sometimes just punching her way through while loudly grumbling about how uncool the dungeon was being.
+
+By the time the tunnel finally opened up, she was a mess, coated in dirt, petals, and some suspiciously green goo that might have been sap or slime. She didn’t even bother looking down. It was fine. Totally fine.
+
+Anyway, she and Mr. White went into a massive chamber. Thick fog rolled across the floor, curling around the stone pillars like it had a mind of its own. She couldn’t make out the far walls at all, and the air felt heavy, quiet in a way that made her stomach tighten.
+
+Chloe leaned down, pressing close to Mr. White’s neck and lowering her voice. “Okay… yeah. Mr. White, take it slow yeah? I feel like something spooky is coming up."

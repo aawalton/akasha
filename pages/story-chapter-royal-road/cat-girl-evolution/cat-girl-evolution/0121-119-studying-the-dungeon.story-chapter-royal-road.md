@@ -1,0 +1,207 @@
+---
+id: 531b7025-dd9d-59e5-ae50-e3995c32ae47
+page-type-slug: story-chapter-royal-road
+title: "119 - Studying the Dungeon"
+slug: 0121-119-studying-the-dungeon
+partOf: cat-girl-evolution
+position: 121
+ownLength: 2434
+unit: words
+publishedAt: 2026-04-27
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3323595/119-studying-the-dungeon"
+royalRoadId: "3323595"
+---
+
+Not only is the hallway empty, there is no sign that our Party was even here. There are no footprints in the dust on the floor. Actually, there’s barely even any dust on the floor. This hallway looks much less abandoned than it used to. This is clearly not the original hallway.
+
+I am not stupid. I’ve watched a lot of horror movies. I know what happens to people who get curious and investigate too much. Obviously, my first instinct upon seeing the empty hallway is to turn around and go back exactly the way I came.
+
+However, the Dungeon has other plans. Before I can even close the door and back away, one of the doors on the opposite side of the hall opens, and out shuffles an ancient lady with blind, cloudy eyes. She’s coming from the third door—the sitting room—and walks right past me, less than a meter away, apparently not noticing my existence.
+
+To my senses, she seems human. She has an ordinary body and an ordinary amount of mana, and does not seem to be evil or undead or anything like that. I mean, she’s probably an artificial homunculus, given that this is a Dungeon, but it looks like she’s the NPC type of artificial homunculus, not the fake monster kind.
+
+She’s also old. Like, one foot in the grave old. Her breathing is shaky, her feet barely leave the ground, arthritis has practically fused her finger joints in place, and I can sense a couple tumors in her organs. She can’t have more than a year left to live. It’s honestly a miracle she’s even walking.
+
+As she walks past and enters the kitchen, my mind races on what to do. The safe thing to do is still turning around and trying to get back to the others. But this old lady’s existence changes things a bit. Clearly, these rooms are not static. They change. What if she’s not around next time we come back here? What if we can’t come back here, and she’s the best clue?
+
+“Plus, if you can’t come back here, then you probably can’t get back to the others.”
+
+Huh?
+
+“If you can’t get back, that would imply some kind of randomization is in effect, which would mean that any attempt to get back to the others would be just as likely to work as exploring further. And if it’s not randomized, then getting back should be extremely simple, so there’s no harm in exploring further.”
+
+Hmmmm… Abby, you’re acting very suspiciously right now.
+
+“What do you mean?”
+
+You only reinforce my bad ideas when you have ulterior motives. What’s your angle?
+
+“I’m being perfectly logical. Also, this Dungeon has a fascinating design. I’d like to see more. I’m artistically interested.”
+
+Also, you’re being way too calm. What happened to “your survival is my survival”? This whole Dungeon is horror themed, and this house is cosmic horror shit. Abby, you’re not supposed to mess around with cosmic horror shit.
+
+“This is just a Dungeon. Dungeons have to have some kind of logic to them. We just need to figure it out, which will be easier if you go follow that old lady.”
+
+Nuh uh. Abby, you need to use your super Earth database to go watch some horror movies. This is exactly how the nerd girl always dies. “Oh, but it has to be logical because of–” Shut up, nerd. This isn’t logic. This is movie logic, which means nerds like you always die.
+
+“But it’s a Dungeon, not a movie.”
+
+A Dungeon based on horror movies.
+
+“How can you be so sure of that?”
+
+Because the Dungeon master is from Earth, and this is all clearly Earth-inspired?
+
+“But–”
+
+Nope! I’m turning around.
+
+And with that, I do exactly as I say and march back through the dining room toward the kitchen. When I reach the kitchen door, I pause for a moment and frown. It’s still open. It shouldn’t be open, since the old lady opened the sitting room door, then the other kitchen door, but it’s still sitting ajar, just like I left it. And the old lady isn’t there. It’s still the same empty, dusty kitchen that I left. All our footprints are still right there in the dust too.
+
+I keep walking, retracing my old steps until I reach the other kitchen door, and then I fling that open. Or I try to. But the door is stuck. It won’t budge, no matter how hard I pull. I try as hard as I can for nearly a full minute, but it doesn’t work.
+
+“I don’t think it’s working.”
+
+Yeah no shit, Sherlock.
+
+“Looks like you’ll have to look into the old lady!”
+
+Don’t sound so cheerful about it.
+
+“Deepest apologies, Your Highness. It appears, to my great chagrin, that the most logical route forward is to investigate the elderly woman.”
+
+Just stop talking.
+
+“!”
+
+…What the heck was that noise? How did you even do that? Actually, wait. I don’t care. I’m going to look into the old lady now.
+
+I go back through the kitchen and dining room for a second time, and poke my head back out the still-ajar hallway door. There is nothing else in the hallway. Keeping my senses peeled, I walk toward the kitchen where the old lady went and carefully open the door. I wince as I hear the other kitchen door slam in the distance, but don’t have the mental capacity to spare toward it. There in front of me is the old lady, but she’s not quite the same as I remember.
+
+She looks younger. Not that much younger, but she looks like she’s just standing next to the grave, instead of being halfway in it. The arthritis hasn’t progressed as far, I can only sense one small tumor, and her eyes are only a little foggy, and based on the fact that she’s wearing glasses and looking around, she can still see at least a little bit.
+
+“Oh, there you are, dear!” she says with a wide, gap-toothed smile. “I was hoping you’d show up. I’m afraid my hands don’t work as well as they used to. Could you help me with this?”
+
+I glance down at her hands to see that she’s attempting to make tea. I think. She’s got a kettle of water boiling, and tin of tea leaves beside her, and she’s currently wrestling with a steel mesh cylinder contraption thing. It’s got a screw lid on the top, and the old lady can’t get it open to pour the tea leaves inside.
+
+“...Sure,” I say, stepping through the door and accepting the thing from her.
+
+I twist gently, and the lid comes off with ease, making the old lady smile and gesture for it back. Once she has it, she moves a shaky hand to grab two spoonfuls of tea leaves, dropping them into the mesh cylinder, then screwing the lid back on. Once it’s on, she flips out two little metal rods from the sides, then sets it in a waiting ceramic pitcher, then smiles up at me.
+
+“Thank you, dear,” she says. “Would you like to join me for a cup?”
+
+“Sure,” I reply.
+
+Maybe I’ll be able to get some information.
+
+“Wonderful!” she says cheerfully. “In that case, we’ll have some snacks too!”
+
+My ears perk up at the mention of snacks, and I immediately zero in on the cupboard right by my head that’s filled with biscuits and cookies. Without even waiting for her to ask me, I open it and grab three of the most appetizing tins.
+
+“Oh, you always know the best ones,” says the old lady with a chuckle. “Why don’t you take those into the sitting room? I’ll follow along once the tea’s done.”
+
+“Right…” I say, munching on a shortbread cookie. “The sitting room.”
+
+“Just past the kitchen, dear. It’s alright if you’re still getting used to things. Take all the time you need! I’m just glad to have you here. Ever since Harold passed, I’ve been so lonely.”
+
+“...No problem.”
+
+“Now head along. I can handle pouring the water on my own, at least! I’ll be right behind you.”
+
+I glance toward the door to the dining room. I can still sense the old dining room right now, but if I go, that will disappear too. The old lady will stay, at least, since I can leave both these doors open, but I will be even further from where I started.
+
+“You’ve already come this far. Just keep going.”
+
+You’re really not making this any easier.
+
+“I think I’m getting a good idea of how this Dungeon works. Just a few more clues and I think I’ll figure it out.”
+
+You’d better.
+
+Cookies in hand (and mouth), I open the door to the dining room, hearing the other door to the dining room slam, then I go past the giant table and open the door to the sitting room, hearing the other kitchen door slam, and I plop down into one of the couches, munching.
+
+Okay, Abby, what did you mean about having the Dungeon figured out?
+
+“Well, it’s got something to do with time.”
+
+Very helpful.
+
+“You didn’t let me finish. When you entered, the house was abandoned. Everything was covered in dust. But once you tried to enter the hallway through a different door, you entered a version of the hallway that wasn’t abandoned. There was still the old lady alive. And then when you entered the kitchen, she had gotten younger. I suspect if you keep traveling through the house, she will continue to get younger. And perhaps, if you go back far enough, you’ll reach a time when the Sister’s doll was here, and you’ll finish the Dungeon.”
+
+Oh. Wait, that’s super easy, then.
+
+“Yes, too easy, which is why I suspect I’m still missing something. I’m also not clear how the time traveling works. Because the old woman clearly got younger, and also wasn’t affected by the house in the same way that you were. I’m not clear on why that happened yet. Or why you couldn’t go back the way you came. If you weren’t waiting for the old lady, I’d say to try going back again to see if it’s a consistent rule, or if there was something special about the starting hallway. Not being able to go back would be unfortunate, but not the end of the world if you don’t need to do it.”
+
+True. In that case, is there any point in waiting for the old lady? I mean, she’s clearly programmed to think I’m some kind of helper or family friend or something. I’m not sure I could get any more information from talking to her than I can from exploring further forward or back. Maybe I could learn about the Sister, but if I find an even younger version of the old lady, the conversation would probably go a bit smoother.
+
+“Good point. In that case I’d suggest–”
+
+Abby suddenly stops talking as a door slams behind me. I whip my head around, peering through the door to the dining room and see that the door to the kitchen has shut. Then, I whip my head around the other way to see that the door to the hallway has cracked open. But there’s no one there. Or at least, no humans. Instead, peering out from the base of the door, not even half a meter up is a tiny fabric head with button eyes and a stitched smile. An eerie giggle echoes out from within it, and a moment later, the face disappears and the door closes again.
+
+I leap out of my seat, Blinking to the door and pulling it open, but when I do, the hallway is empty. There’s no sign of the doll.
+
+Shit.
+
+“...Well, at least now we know what it looks like.”
+
+Shut up.
+
+“It’s a pretty solid silver lining, all things considered. Plus, we now know why finding the doll is so difficult, even if the rules for traveling back in time through the house are simple.”
+
+Abby, we’re stuck in a cosmic horror house with a creepy, evil doll that knows its rules better than we do, and we have no idea where the others are. The only silver lining that would make this situation any better is knowing how to catch the thing.
+
+“Well, we’re one step closer to that than we were before. Before, we didn’t even know that we had to catch it.”
+
+I guess. But still, this sucks. I hate this Dungeon. This is stupid. Abby, you’d better not make my Dungeon anything like this.
+
+…
+
+Abby?
+
+“It’s actually a very well-designed Dungeon.”
+
+Abby!
+
+“Okay, fine! Not the first Floor, at least. But still, you have to admit, this Dungeon has beautiful design.”
+
+Maybe if you want to waste peoples’ time.
+
+“Have you considered that might be exactly what this Floor is for?”
+
+…Oh.
+
+“And even if not, it’s a great puzzle. And a great example of what’s possible if you’re clever with Dungeon-building tools. I’m not sure if the necromancer designed this himself, or if it was whatever he fed the Dungeon Core too, but either way, brilliant design. I’m taking notes.”
+
+Abby…
+
+“But I won’t add anything like this in yours without your permission!”
+
+You’d better not. When’s it gonna be ready, anyway?
+
+“It will be usable within a day or two, but it won’t be finished for a couple more weeks.”
+
+Hurry up.
+
+“I’m going as fast as I can. Now, let’s get back to studying this Dungeon! I want to know every last detail about how it works!”
+
+“How is the progress?” asked Joakim when he reached the final Floor of the Dungeon again.
+
+“It’s better…” said Phillip.
+
+“But…” prompted Joakim, hearing the hesitation in the Dungeon Core’s voice.
+
+“We’re losing essence.”
+
+“How?”
+
+“The cat is eating it.”
+
+“...What?”
+
+“Not right now. She’s stuck in the 1st Floor puzzle now. But she ate a lot already, and will probably eat more.”
+
+“…Dammit. Alright. I’ll figure something out. Keep up the good work.”
+
+Joakim smiled and patted Phillip on the back, but as he turned away, his expression was dark. It would take a lot of essence to get to the point where Phillip could consume Maligar. He couldn’t afford to be losing it like this. He had already planned to take care of the cat while she was stuck in the Dungeon, but now it was just more urgent.
+
+He absolutely could not let her reach the 3rd Floor.

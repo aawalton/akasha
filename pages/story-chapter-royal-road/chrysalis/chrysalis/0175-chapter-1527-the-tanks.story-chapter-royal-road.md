@@ -1,0 +1,73 @@
+---
+id: aff02694-7431-5870-b68b-a3b4fd6f56af
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1527 - The Tanks"
+slug: 0175-chapter-1527-the-tanks
+partOf: chrysalis
+position: 175
+ownLength: 863
+unit: words
+ownProgress: 863
+publishedAt: 2025-03-12
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2120823/chapter-1527-the-tanks"
+royalRoadId: "2120823"
+markedReadAt: "2026-06-29T19:49:26.457Z"
+---
+
+Brilliant was a busy ant, which was largely how she liked it. After her success with the portals, the Eldest had dumped a number of projects into her mandibles, including the investigation of the Church of the Path. All in all, it had kept her hopping around the Colony, solving mysteries and investigating unknowns.
+
+That was the sort of thing she enjoyed. What she didn’t like was fussing about with carvers on… engineering… ugh.
+
+“Everything seems to be working as intended,” Tungstant said.
+
+Brilliant turned to the left, then to the right… then threw her front legs up in frustration.
+
+“Then why am I here?!” she declared. “I was busy plumbing the mysteries of this world in my lab, and you dragged me down here to say everything is working perfectly!? Why? Tell me why. I have to know!”
+
+To her, this was such a waste of time it qualified as a mystery all on its own. Surely, no ant could possibly justify such a waste of time and resources. What was the motivation behind it? What could it possibly be?!
+
+“If you let me finish,” Tungstant huffed, “I was going to say that everything is working perfectly, so far. However, as the concentration of mana builds up in the tanks, we are starting to detect resonance between them. You asked us to call you if that happened.”
+
+Brilliant lowered her front legs and clasped them together in front of her mandibles.
+
+“Of course I did,” she said quietly, “because I’m BRILLIANT! I knew this would happen.”
+
+She rushed deeper into the wide chamber right in the heart of the fortress and began poking at the tanks, using her antennae to prod at the highly sensitive, heavily enchanted equipment.
+
+The chamber was circular and enormous, the outer ring filled with row after row of tanks, each containing just a trickle of a brightly glowing fluid: liquid mana.
+
+“I thought we might have gathered more by this point,” Brilliant noted, pressing her face against the glass tanks to examine the contents.
+
+“There are a few reasons for that,” Tungstant noted, trying to keep up with the mage. “We only recently amassed enough wuffers to operate all of the cleansing stations. The fortress is still only operating at seventy percent of its designed capacity. In addition, it’s taking more cleansed mana than expected to maintain the fortress against the natural energy of the fifth. The mana outside is highly concentrated, and we have to hold the walls at all costs.”
+
+“Of course you do,” Brilliant scoffed, then continued to poke and prod at each of the tanks. “If the fortress becomes contaminated, it’s over for all of us.”
+
+Tunstant sighed. She wasn’t wrong. Once the fortress became contaminated, that would be the chink in their carapace that the Krath would exploit. They might be laying low for the time being, but the Colony hadn’t forgotten that the slugs were out there, scheming and working to bring down the fortress. They couldn’t afford to show weakness.
+
+“This is bad,” Brilliant noted after apparently finishing her inspection.
+
+“Bad how?” Tungstant demanded. “I need specifics if we’re going to fix it.”
+
+“I don’t know yet!” Brilliant declared happily. “These tanks aren’t even five percent full, and yet, despite all the measures we took, they are still resonating with each other. I can’t even begin to describe just how much mana will be contained in this chamber when they’re all full, and the resonance effect is exponential, not linear. In short, things are going to get crazy in here if these fill up.”
+
+“Crazy how?” Tungstant demanded, exasperated.
+
+“You want me to predict something that has never happened before?! An explosion! A tear in the fabric of reality! Delicious cake raining from the sky! The entire fortress being torn out of existence! I don’t know!”
+
+She didn’t sound particularly upset by any of these prospects, either.
+
+“Look, there’s no need to worry,” she said.
+
+“How am I supposed to not worry?” Tungstant demanded. “You just told me this chamber could destroy the entire fortress. Why wouldn’t I worry?”
+
+“Because I’m BRILLIANT!” the mage declared, clacking her mandibles together for emphasis. “I’ll figure out the problem and come up with a potential solution for you to implement. It’s going to be fine.”
+
+It turned out to be an interesting puzzle here after all. They’d designed measures specifically for reducing the resonance between the tanks, going to great lengths to suppress energy vibrations, and yet, it was still happening. With a chamber this size, and all the mana it could contain… it would be the greatest concentration of energy the Colony had ever produced by a thousand times. The potential for explosive consequences was… tantalising.
+
+And the stakes were high. Solant’s entire strategy was built around the accumulation of power in this chamber. If it didn’t work, they were going to be in trouble.
+
+Brilliant clacked her mandibles happily.
+
+“I might have to bring some members of my team down here,” she told Tungstant. “This could prove to be quite difficult.”
+
+“I’ll prepare a separate chamber for you to work in,” the carver said. “I know your experiments can be… temperamental.”

@@ -1,0 +1,263 @@
+---
+id: 693e0c9c-7d46-5726-b9c0-2059857b79f5
+page-type-slug: story-chapter-royal-road
+title: "52 - Sneak Attack!"
+slug: 0052-52-sneak-attack
+partOf: cat-girl-evolution
+position: 52
+ownLength: 2575
+unit: words
+publishedAt: 2025-11-21
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2779574/52-sneak-attack"
+royalRoadId: "2779574"
+---
+
+As soon as I hear his voice, I recognize him.
+
+“Hey, wait,” I say. “You’re that annoying vegan influencer dude!”
+
+He blinks a few times, still smiling, then his face morphs into an expression of shock.
+
+“You’re from Earth?!” he exclaims.
+
+“Yeah, I’m from– Spatial Slice!”
+
+Before he can react, ten miniature cat heads appear around me, though only three start spitting spells. Apparently three is the limit for the number of things I can take from my Stomach at once. It still works fine though. I Blink backward, spitting my Spatial Slices in volleys, cutting through his translucent figure like claws through curtains. Spitting out all of the Spatial Slices I prepared costs me almost all my mana, so I summon a mana construct I had stored to replenish myself, then start dumping my explosive spells. Once they go off, I can no longer see what’s happening to him, and unfortunately, Food Sense doesn’t pick up ghosts, so I can’t tell if he’s dead.
+
+The ghosts around look on in awe and horror as the last of the explosions fades away. For a tense moment, no one moves. Then, I scowl. No System notification. I don’t see him, but I can sense a dense concentration of mana right where he was. The dock is gone, but he still floats there. He feels a lot weaker than he did before, but he’s definitely still alive.
+
+“Heathen!” shouts one of the ghosts near me.
+
+I glance around and see all the ghosts start to close in around me, their faces twisted into expressions of inhuman rage. I rake my hand to one side, Spatial Slicing through more than a dozen, then turn to do the same to the other side, but stop. The ghost nearest my claws looks like a ten year old girl.
+
+[ You have slain Shade, Tier 0, lvl 2. No experience gained. ]
+
+…
+
+[ You have slain Shade, Tier 0, lvl 3. No experience gained. ]
+
+I dismiss the dozen System notifications, then Blink upward, conjuring a mana hand to stand on out of reach of the ghosts. I then turn back to face the Great One. Joshua, the Temperant Idol. The annoying vegan influencer.
+
+It looks like he dispersed a bit from my attacks, and he’s reforming, but rather than returning to his human form, he’s becoming something else. Something much bigger.
+
+The ghosts below start floating up toward me, so I Blink upward a few more times. I’m running low on backup constructs to refuel, but not low enough that I’m in danger. Just low enough that there’s nothing I can do about the stupid big ghost.
+
+He finishes reforming, now an enormous shark at least the size of a megalodon, but it looks odd. Zombified almost. It looks like if a shark had anorexia, each of its cartilaginous bones pressing against its skin. Despite his size, he feels much weaker than he did before. Unfortunately, I don’t think there’s anything I can do to finish him off. I felt it when I attacked, but my Spatial Slices weren’t very effective for how much mana they contained. They cut through, destroying his mana, but that was it. The explosives that had less mana were just as effective.
+
+“I see how it is,” the ghost shark says in a low rumble. “You’re a mind reader. Well you won’t be getting anything else out of this mind, you agent of chaos!”
+
+He starts charging up some kind of attack, but I don’t stick around long enough to find out what it is. I’m not sure if it will be dangerous to me, but I don’t see a good reason to stay. I can’t kill him, and I don’t want to give him an opportunity to kill me.
+
+I keep Blinking through the sky, landing on mana hands as I make my way back to the church where I teleport back to the ground. When I land, Francis and Samuel are waiting outside. Samuel has hope in his eyes, but Francis is holding a shield and sword.
+
+“Did you get it?” asks Samuel.
+
+“No,” I say darkly.
+
+“Did it get you?” asks Francis, moving in front of Samuel.
+
+“What? Obviously not.”
+
+“Just because you’re alive doesn’t mean you’re safe,” said Francis. “There was another group of Adventurers that tried to take it out. They made it back here safely after failing, or at least that’s what we thought. Then, they poisoned the soup. They had turned into fanatics. Are you a fanatic?”
+
+I stare at him for a few seconds, then do the smart thing and decide not to argue. Instead, I summon one of the leftover plates I still have from the Sea Lemon and start eating. Once the food is gone, I spread my arms.
+
+“Does that answer your question?”
+
+“Yes…” he says, lowering his weapons. “Sorry. Just had to be safe.”
+
+“Whatever,” I say. “I didn’t kill him, but I got close. I’m pretty sure I know a way to do it. I just–”
+
+At that moment, I stop, hearing a noise in the distance. I turn to face the street, and a few seconds later, a wave of wailing ghosts appears, all rushing toward us. I get in a defensive stance, but Samuel and Francis just watch as the ghosts get closer and closer, then suddenly stop as though crashing into an invisible barrier. They no longer look human. Humanoid, yes, but their faces are grotesquely twisted in a way beyond what is humanly possible.
+
+The three of us watch the chaos and cacophony for a few seconds, then Francis sighs.
+
+“Let’s go inside!” he shouts over the sound.
+
+The three of us head inside, and though we can still hear the ghosts outside, they’re much more muted, and it is peaceful again.
+
+“Thank Ilvara you’re safe,” says Melinda as soon as we enter.
+
+“I’m going to kill it,” I say immediately. “I can do it. I know how.”
+
+“You do?” she asks.
+
+“Yes,” I reply. “I messed up this time, but it won’t happen again. I’ll need to leave the town, but I’ll be back. Until then… Do you have enough supplies to handle a few more people?”
+
+“Yes, plenty,” says Melinda. “Thankfully, supplies are one thing we have in abundance. The church always keeps a stockpile of food and fresh water to feed the needy, and we are not in danger of running out any time soon.”
+
+“Great. Do you have mana potions?”
+
+“Ah, I’m afraid not.”
+
+“I do,” says another voice.
+
+I look to see the archer woman approaching with a leather bag in her hand.
+
+“Is that from the mage?” asks Francis.
+
+“Yes,” she replies. “I looked through. There are a dozen high quality mana potions in here.”
+
+“Perfect,” I say. “And what mage?”
+
+“One of the Adventurers I mentioned outside,” Francis says.
+
+“Ah. I see. Are they dead?”
+
+“Unfortunately.”
+
+No one speaks after that, so I inspect the leather bag. It’s a spatial storage of some kind, and intuitively, I figure out how it works. Just focusing on it gives me a quick mental list of what’s contained within. Most of it is clothes. Nice clothes, I think. For a woman too. Those are mine now.
+
+More importantly though, as the archer said, there are a dozen mana potions, and when I pull one out, I can see that they’re the same kind as the ones that A and B used. Perfect.
+
+“Alright,” I say. “Make some room. I’m bringing more patients.”
+
+“What do you–?” starts Melinda.
+
+Her words are cut off when I Snatch one of the still-living people from a nearby house. They are unconscious, so they don’t resist, saving me quite a bit of mana. I catch the new person, a young man, and Francis quickly takes him from me, leaving me free to Snatch another.
+
+A little while later, I’ve Snatched all 58 of the remaining living people in the vicinity. It only took one mana potion near the end to do it. Now, they’re all laying on the ground getting force-fed soup. For some reason, despite all this, none of them wake up. In fact, none of the others are awake either.
+
+“Why are they all asleep?” I ask.
+
+“Sleeping draught in the soup,” says Melinda. “It’s the only thing that works.”
+
+“Makes sense. Alright, I don’t have any more time to waste. I’m heading out. It won’t be long before I’m back. I guarantee you that the Great One will be dead by morning.”
+
+“Even if he’s not, you have done plenty,” says Melinda. “The Great One will be dealt with one way or another, but if not for you, those whom you have just saved would undoubtedly have died.”
+
+“Maybe,” I say. “I’m still going to kill it.”
+
+“May Ilvara guide you,” says Melinda, bowing her head.
+
+“Good luck,” says Francis gruffly.
+
+“I’ll be back,” I say, and then make to Blink outside, but Melinda stops me.
+
+“Wait.”
+
+“What is it?” I ask.
+
+“Sorry, I just don’t believe I heard your name,” she says. “I’d like to know the name of the hero that saved these people.
+
+Huh. I guess I never did tell them. And she thinks I’m a hero, huh. Abby, what’s a good superhero name?
+
+“Don’t–”
+
+Actually, nevermind. I got it.
+
+“DON’T–!”
+
+“I am Princess Yona,” I say, removing my hood. “The Chosen One.”
+
+I wait a second to see their expressions of shock when I reveal my glorious ears and title, then Blink back outside.
+
+“Why did you do that?”
+
+Relax, Obbtuse, it’ll be fine.
+
+“You can’t be sure of that.”
+
+Listen, if something actually bad happens, I’ll just say it was a joke or something.
+
+Anyway, the ghosts have settled down. They’re no longer screaming, at least. They’re still crowded around the church though, leaving no path out. I don’t know what will happen if I touch them, or if I try to wade through them, but I’m not gonna find out.
+
+I repeat my Blink and mana hand trick. It’s like a poor man’s flight. I really need to get a pair of wings, but at least for now, my other anatomical constructs are hand-y
+
+“Why are you making puns in the middle of a tragedy?”
+
+Why aren’t you? Comedy is the best way to take the edge off. I can make puns, and also still hate that bastard and want to kill him for everything he’s done. He ruined my meals back on Earth, and now he’s ruining lives here.
+
+“Wait, you actually knew him? I thought that was a bluff.”
+
+No, I definitely recognize him. He was an annoying little shit. He was all over social media, and even though I specifically curated my feed to show me only cooking videos and funny memes and stuff, his stuff kept working its way in. I’d be watching a funny video while munching, and then suddenly, his annoying face would be on the camera telling me that I’m evil for eating meat. Every time that happened, I bought all my servants a steak dinner just to spite him.
+
+“Oh, I found him.”
+
+What?
+
+“I have a lot of Earth media in my database. His channel was called Harmonious Living, right?”
+
+Oh, I forgot about that. That sounds right, yeah. Are you watching?
+
+“I just watched a few of his videos. You’re right, he is annoying.”
+
+How did you already watch a few of his videos? It’s been like ten seconds.
+
+“I process faster than you. Also, he is annoying… but I don’t think he’s the kind of monster that would kill a town like this. If anything, the version of him I see in these videos would be horrified at his current self.”
+
+Yeah, it’s kinda weird, but what can you do? He’s clearly doing it. Nothing left to do but stop him.
+
+“I guess. How do you plan to kill him, by the way?”
+
+Well, the Spatial Slices didn’t work, but the explosives did. They just weren’t strong enough. If I want stronger explosives… Well, I happen to have a minion who is very good at that.
+
+When I reach the camp, it’s getting close to sunset. The others are all waiting around the fire in a set of Chad-brand chairs, but they all stand up when they see me descending.
+
+“What did you find?” asks Lauren.
+
+“A Disaster.”
+
+“A Named Disaster?”
+
+“Yes.”
+
+“Shit. What was its name? Did you find out its abilities?”
+
+“Joshua, the Temperant Idol, and he’s–”
+
+“Temperant!?” Lauren exclaims.
+
+Her eyes are almost bulging out of her head, and Chad, A, and B look equally surprised.
+
+“We need to call this in,” says Lauren. “This is beyond us. What were its abilities?”
+
+“That explains the starvation, at least,” says A grimly.
+
+“Temperance on a Named monster…” mutters B.
+
+“Temperance?” I ask.
+
+“One of the seven Virtues,” explains A.
+
+“The counterparts to the Sins,” says B.
+
+“Oh.”
+
+“The Virtue Traits are on the same level as the Sin Traits. It’s not unlikely that he has an absurd cheat or two like you do.”
+
+It doesn’t matter if he has a cheat though if I just bring more firepower.
+
+“Hopefully.”
+
+“Does that mean that… this–” Lauren gestures to the starving guards “–is just the monster’s aura Trait?”
+
+“Oh, shit…” says A.
+
+“Very possible,” says B.
+
+“Yona, did you see what other abilities it had?” asks Lauren.
+
+“Well, it’s a ghost,” I say. “There were some other survivors there. They said that physical attacks didn’t work on it. I didn’t see much else though. I don’t think it’s much of a fighter. It didn’t really do anything to me when I attacked.”
+
+“You fought it?!” asks Lauren. “Why?”
+
+“I thought I could kill it. I couldn’t, but I’m pretty sure I can do it if I go back again.”
+
+“You can?”
+
+“Yes, but I’m going to need some help.” I turn to A. “Remember that big explosion you used in the forest?”
+
+“Of course.”
+
+“I’m gonna need a bunch of those.”
+
+Joshua was back in his base form, floating at the bottom of the bay as he replenished his mana. He didn’t like his base form. It was the form of a carnivore. While he could take on a human appearance, it took effort to maintain, and whenever he did anything serious, he had to switch back. And now, it was time to do something serious.
+
+The fact that his abilities didn’t affect the strange mind reader could only mean one thing: she was evil. An agent of chaos. There was no other possibility. He didn’t like to believe that others couldn’t change, but the all powerful System had unfortunately proven beyond a doubt that it was impossible to get through to some people. It saddened him to have to take drastic measures, but where chaos appeared, he had to return things to their rightful state of peace and harmony.
+
+His mouth curled into a toothy grin as he felt his mana regeneration accelerate, and he pulled up the description of his favorite Trait. The one that the System had granted for his accomplishments in the Starter Quest. The one that proved that his path had been acknowledged as the correct one.
+
+[ H4rm0n10u5: You are so 4t 0n3 w1th n4tur3 that it influences your very being. Increase stats up to 50% depending on the level of your h4rm0ny ]
+
+I am one with nature, he thought happily.

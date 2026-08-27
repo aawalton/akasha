@@ -1,0 +1,107 @@
+---
+id: 281ee67b-8670-5a50-af06-7243b192f2a4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1529 - The Legion Takes the Stage"
+slug: 0177-chapter-1529-the-legion-takes-the-stage
+partOf: chrysalis
+position: 177
+ownLength: 1246
+unit: words
+ownProgress: 1246
+publishedAt: 2025-03-14
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2124989/chapter-1529-the-legion-takes-the-stage"
+royalRoadId: "2124989"
+markedReadAt: "2026-06-29T19:49:30.167Z"
+---
+
+[Where the heck have you been, Morrelia?] Anthony demanded when there was finally a small break in the fighting.
+
+The effects of the berserker rage still lingered in the form of a trembling in her limbs, but she welcomed the momentary weakness that came with the fading rage. Her mind was once again wholly her own, and Morrelia grinned up at the giant ant.
+
+[I’ve been sitting on my hands doing drills and cleaning gear.]
+
+[Seems like a bit of a waste,] he mentally snorted. [Didn’t you know there was a wave going on?]
+
+[Tell that to Solant, she’s the one who didn’t want us to go and fight.]
+
+[What?! What sort of waste is that? Hang on a second.]
+
+He clacks his gigantic, horse-sized mandibles a few times.
+
+[Yep, you guys are getting deployed. I figured something had to be up, no way she would waste resources.]
+
+Morrelia stared blankly for a moment, slipping her twin blades back into their sheaths.
+
+[What do you mean? We’re getting deployed now?]
+
+[Yep. Right now. All I had to do was put in a good word. Solant is always happy to take my suggestions, she’s a smart little hatchling, just needs a bit of guidance every now and again.]
+
+Somehow, she didn’t think that the relationship was quite as Anthony was imagining it. Nevertheless, she couldn’t sit around if her troops were going into battle.
+
+[I’d better get back there!] she said, preparing to turn and run back to the fortress. [Can you tell Isaac thanks for me? I didn’t get a chance to tell him myself before jumping into the fight.]
+
+[I’ll tell him, he’s over there somewhere with the militia.]
+
+She followed his pointed antenna for a moment and saw that Isaac was indeed out there, commanding the human militia in the thick of the battle, roaring and wielding his spear with skill and grace.
+
+[I always thought he was a bit of a coward,] she told Anthony. [Looks like I was wrong.]
+
+[A coward? Isaac? He’s too dumb to be a coward. Now get going. Tell your Commander she smells.]
+
+[I won’t.]
+
+[Spoilsport.]
+
+With barely a chance to wipe the acid off her armour, Morrelia was off. When she arrived back at the Legion camp, sweating from the exertion, she found the place in an uproar.
+
+In the midst of the ordered chaos, Commander Chyron stood, glaring at her with the heat of a Deep Lava Elemental.
+
+“Nice of you to join us, Tribune,” the old woman grated. “I hope you enjoyed your leave. It’s the last you’re going to get for quite some time.”
+
+“Yes, Commander. Of course, Commander,” Morrelia snapped out a quick salute for good measure, though she doubted it would help soothe Chyron’s temper.
+
+Still breathing heavily after her run, Morrelia threw herself into the camp, hunting down her officers and trying to get a handle on the situation. Joshen, despite being furiously busy himself, couldn’t help but take a moment to mock her.
+
+“You chose an interesting moment to have a meal with your gentleman friend.”
+
+“I was fighting on a platform alongside the target an hour ago. What have you achieved today?” she shot back.
+
+“Not pissing off the Commander,” he replied with a sly smile.
+
+As much as she would have liked to argue about that, he wasn’t wrong. Still, Morrelia didn’t consider her time wasted, and with her well-drilled and practised officers and soldiers, she was able to get everything moving as it should in relatively short order.
+
+Which was good, it wasn’t long until the Legion was marching through the fortress, their banners held high and supply wagons creaking along behind them. In a display of typical ant efficiency, the Colony had already blocked off a wide section of tunnel to allow the Legion smooth transit through the network.
+
+Well, they blocked off the ground level, the upper levels were still filled with ants.
+
+It was a strange and surreal moment for Morrelia. She was proud to be marching along with her Legion, but in the heart of the ant fortress, it felt strange to feel so… defensive. Her fellow soldiers moved as if they expected a surprise attack at any moment, watching every ant overhead with a cynical eye.
+
+For their part, the ants didn’t pay much mind to the marching Legionaries below. They had places to go and things to do, there wasn’t time to stand about gawking.
+
+When they arrived at their destination, things didn’t slow down. The troops needed to be billeted in their new chambers, and it was immediately suspicious just how well-prepared the accommodations were. If Anthony had only managed to persuade Solant to allow them to deploy a few hours ago, then why were there thousands of rooms and beds prepared so close to the platform?
+
+As she’d suspected, the ‘Eldest’ hadn’t been the one to deploy the Legion here; it had clearly been planned for a long time. She pointed this out to Chyron, who only nodded before ordering her back to her duties. After another half-hour of ensuring the gear was properly stowed and all the thousand small logistical tasks were properly dealt with, she was summoned back to the command tent to find all the officers in attendance.
+
+She shot Joshen a questioning glance, but he merely shrugged. Chyron, of course, picked up on the gesture.
+
+“I’ll tell you why you’re here, Tribune, since you’re the last to arrive,” she said.
+
+“Apologies, Commander,” Morrelia said, crashing her fist to her chest in a swift salute. “I was seeing to our arrangements in the barracks.”
+
+“We have a brief tactical meeting with the ant general in charge of this platform, along with the general in charge of our support militia. They should be here shortly.”
+
+The officers settled in around the table to discuss their upcoming assignment and possible formations to use on the platform. It was clear that they were hungering for the challenge, a chance to fight back against the Dungeon. They hadn’t braved the baptism and risked their lives to sit on their hands. The Legion wanted to fight.
+
+After some time had passed, an ant general scuttled in with a mage interpreter, escorted by Legionaries on their flanks. After some negotiation, it was arranged for a Legion mage to act as a relay, passing their words onto the officers, and the mental connections were made.
+
+[Despite your deployment, I’m still the ant in charge of overseeing this platform,” the general told them. “I don’t have any interest in messing with your tactics or telling you how to do your jobs, just like you have no interest in taking orders from a monster. I only have one demand: if you need help, ask for it. If I think you need help, but haven’t asked for it, I’ll provide it anyway. Can you live with that?]
+
+The ant general was the no-nonsense type, and Morrelia could see that Chyron appreciated the direct language, even if she didn’t like having to listen to a monster.
+
+They discussed other matters regarding the platform until the general saw herself out, satisfied they had come to an understanding. At that point, the general in charge of the reserve militia arrived.
+
+It wasn’t always easy to tell one ant apart from another, particularly when they belonged to the same caste. However, Morrelia was fairly certain she recognised this one.
+
+Solant?
+
+[Looking forward to working with you,] the little general stated.

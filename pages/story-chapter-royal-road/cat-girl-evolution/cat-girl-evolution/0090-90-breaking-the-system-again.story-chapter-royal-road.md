@@ -1,0 +1,205 @@
+---
+id: db21c9d4-1801-5084-9057-4f0f47309c6d
+page-type-slug: story-chapter-royal-road
+title: "90 - Breaking the System (again)"
+slug: 0090-90-breaking-the-system-again
+partOf: cat-girl-evolution
+position: 90
+ownLength: 2638
+unit: words
+publishedAt: 2026-02-18
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3066977/90-breaking-the-system-again"
+royalRoadId: "3066977"
+---
+
+To be honest, the options in the third hallway aren’t actually any better than the ones in the second. At least not stat-wise. I think they do suit me a little better than the ones in the other hallway, though. Kind of.
+
+The first one I spot is called Yona, the Gluttonous Gastronome. It looks like it’s more or less a direct upgrade of my current species, with roughly the same stat distribution, and a couple new Traits. Unfortunately, I don’t think I really need the Traits. One will make my stomach bigger so that I can eat more, and the other spatially expands the inside of my mouth and throat or something like that so I can eat more food at once. However, that just sounds like it’ll make me need to eat more, and as much as I like eating, that just sounds excessive. I eat plenty already, and I have Stomach of the Glutton to hold any extra.
+
+Also, the painting shows me being fat again.
+
+The next looks more appealing. It’s called Yona, the Gastronomic Hunter, and the description says that I would be someone who hunts delicious monsters in order to eat them. That’s basically exactly what my goal is, so it shoots right to the top of my shortlist. The Traits seem nice too. One is called Food Tracker, and allows me to easily pick up and trace the trail of anything edible—which is just about everything, thanks to Gluttony—and another is Gastronome’s Resolve, which gives me a passive stat boost whenever I’m fighting something I’m determined to eat. The third is called Gastronome’s Eye, and it supposedly lets me determine a target’s level of deliciousness.
+
+The next two are less appealing. Yona, the Devouring Gastronome is basically the same as Gluttonous Gastronome, but if I had to guess it’ll probably be weaker. Abby said Devourer was a strong Trait, but Gluttony is a Sin Trait, and tying my species to it would probably be more powerful than tying it to Devourer. Both those options are out, though. I don’t want to eat more food. Just better food. The next one that’s out is Yona, the Gastronomic Chef, which isn’t bad, but it’s just not as good as Yona, the Gastronomic Hunter.
+
+Yona, the Marine Gastronome is an interesting one. I’m not gonna pick it, but it’s interesting. Apparently, I’ve eaten enough seafood that the System thinks I might be interested in a species that will give me some Aquatic Traits so I can go hunting for food underwater. As usual, the System is stupid. The painting makes me look like a half-seal half-cat too, which is kinda weird.
+
+At the next painting, I stop and gape. It looks… perfect! Everything about it is perfect! From the image, to the description, to the stats, I can’t spot a single flaw! The painting shows me in full cat form sitting on a floating palanquin flanked by guards. There’s a tray of food in front of me that a servant lifts to my mouth as I sit there looking dignified and royal. And the description is everything I hoped for.
+
+[ Princess Yona, the Gastronome ]
+
+[ Once a humble house cat, Yona has managed to not only earn a Name, but she has even been recognized as a princess. She travels the world, looking for new, delicious foods while remaining dignified and royal. Named type: Infiltrator ]
+
+[ Evolution Bonus: +324 Power, +648 Finesse, +378 Resilience, +351 Memory, +351 Willpower, +648 Sensitivity ]
+
+[ Stats per level: +108 Power, +216 Finesse, +126 Resilience, +117 Memory, +117 Willpower, +216 Sensitivity ]
+
+[ Traits: Royal Dignity, Royal Bearing ]
+
+[ Skills: Appoint ]
+
+The Traits and Skills are awesome too! Royal Dignity keeps me from ever looking disheveled. No matter what I do, my hair, fur, and clothes will always correct themselves to looking good, and if someone tries to make me look bad, or take a peek at me when I’m not at my best, they’ll experience extreme bad luck. Royal Bearing makes all my movements appear elegant and royal, and apparently also subtly influences the people around me to make them see me as more royal and elegant.
+
+And Appoint… It’s basically the perfect Skill! It lets me give pseudo-Titles to my minions that grant them boons. The little description I can see doesn’t give many details, but if I had to guess, it would let me appoint Chad as a Knight, or something like that, and then he would be stronger. It actually sounds kinda like a Leader Skill to me, but the description says it’s still an Infiltrator, so that’s good enough for me!
+
+That option immediately bumps Yona, the Gastronomic Hunter out of the number one spot, but, of course, I don’t finalize my choice yet. I still have a few more options to check out, and an Annoying Red Box to mess with.
+
+Right next to Princess Yona, the Gastronome is Yona, the Gluttonous Conqueror. This one is not appealing at all, since not only is it a Leader type Species, but it also shows me being fat. However, the description is extremely intriguing.
+
+[ Yona, the Gluttonous Conqueror ]
+
+[ Once a humble house cat, Yona has managed to not only earn a Name, but she has grown in power to the point that entire settlements have fallen by her hand, all for the sake of eating its inhabitants. And they will not be the last. Her desire for conquest is as great as her gluttony, and she will not stop until she is sated. Named type: Leader]
+
+I don’t want to touch this Species with a ten foot pole, but the fact that the System considers me to have conquered multiple settlements is interesting. I guess if you count Skarn’s and Joshua’s territories as “settlements” it’s true. I did kill them and eat them and drive their people out. Technically.
+
+Of the remaining three options, only one really catches my interest. It’s Yona, the Lazy Gastronome, and while the Skills aren’t all that interesting, the Named type is Hermit, which is weird, because I feel like that goes against the word “Gastronome.” The description says something about moving my Territory around and lazing around in different places to eat food before packing up and leaving again. I have no idea how all that Hermit stuff works, though, and I don’t intend to pick it, so unfortunately, I guess I’ll never find out how it works.
+
+With all my options checked, I return to Princess Yona, the Gastronome and stare at the glory and majesty of the painting for a few seconds. Then, I call out to Annoying Red Box.
+
+“Hey, how do I choose which one I want?”
+
+[ Simply stand in front of it, and give its Name as a command to the System. It will prompt you for confirmation before sending you to the Trial. Are you ready to choose? ]
+
+“Not quite.”
+
+While I’m not ready to choose, I do experimentally give the command, just to make sure I’m not gonna screw anything up.
+
+[ You have selected Princess Yona, the Gastronome. Proceed to the Trial? ]
+
+[ Yes, I’m ready ] [ No, I need more time ]
+
+No, I need more time.
+
+Satisfied, I nod, then walk to the edge of the painting, putting my face in front of the picture frame. One thing I noticed immediately when I appeared in this space was that, while there is no mana, and none of my Skills work, my Traits don’t seem very affected. At least, Gluttony doesn’t. And more specifically, Food Sense. And while the white stone that the hall is made of isn’t edible, the paintings and frames are.
+
+Cautiously, I lean forward and take a bite of the picture frame. The wood is surprisingly soft and fragile, and I have no trouble taking a sizable chunk out. It tastes pretty good too. Some top quality wood. Then, I take a step back and give the command again. When it prompts me to proceed to the trial, I decline again. Then, I walk up and touch the canvas. Nothing happens.
+
+“Oh, you’re gonna be so mad,” I say aloud.
+
+[ Please don’t. ]
+
+“I’m gonna do it.”
+
+[ Wait, seriously, don’t! No one has ever done this before! We have no contingency for this! I have no idea what will happen to you! ]
+
+I pause on my way to the painting of Yona, the Gastronomic Hunter.
+
+“For real?”
+
+[ Yes! I’ll have to contact my boss, and he’ll probably have to take some emergency procedures, and this time, you might actually explode. ]
+
+I think for a bit, then bare my teeth in a smile.
+
+“Nah, I think I’ll be fine. You said this was unprecedented, right? That means someone will have to decide how to handle it, right? Well, you see, I’m actually the Chosen One, and while my personal goddess is a bitch, I’m pretty sure she wouldn’t be happy if I exploded. I’m also pretty sure she’s got enough power to interfere with the System, since she’s done it before. So I’ll be fine.”
+
+[ Are you really going to bet your life on that? ]
+
+“I’ve bet my life on less. But I can also reduce the risk. Hey, bitch goddess! Are you listening? If you make sure I survive, I promise to refer to you respectfully for an entire month! Maybe longer if you stop being a bitch! I’ll even tell my minions how great you are!”
+
+[ I don’t think that offer will work. ]
+
+“Shut up! Now, watch as I make history!”
+
+[ I’m going to tell my boss. ]
+
+That puts me in a bit of a time crunch, so I waste no time trotting up to Yona, the Gastronomic Hunter and start munching. It feels like a shame to destroy such a work of art, but not enough of a shame to stop me. The painting goes down quickly and easily, and I can feel I have plenty of room for more. And, even better, nothing bad happens! Well, I can no longer give the command to evolve into Yona, the Gastronomic Hunter, but that’s fine, since that wasn’t what I was gonna pick anyway.
+
+Next, I eat Yona, the Gastronomic Thief from over in the Historic Names section. I also grab Yona, the Wanderer while I’m at it, because why not? After these three, I do start to feel a little bit full, so I pick my next two more carefully. Yona, the Gastronomic Chef is next to go. It’s not totally my style, but it comes with a few interesting Traits that I think will help my Profession.
+
+I have no idea if I’ll actually get any of these Traits or Skills, but just in case it works something like my first Evolution, I want to make sure I only grab the best.
+
+I hesitate a bit before my next choice, then rush back to the Historic Names section to eat one called Yona, the Blinking Assassin. Almost the exact moment I finish eating it, an Annoying Red Box appears in front of me.
+
+[ STOP THAT RIGHT NOW!!! ]
+
+“Uh oh,” I say. “Big Boss is here.”
+
+I would have loved to eat one more, but it looks like I’m out of time. I sprint back to the custom Names section, skidding to a halt in front of Princess Yona, the Gastronome as the Annoying Red Boxes try to block my vision with commands and warnings, all in all caps. I ignore them, of course, instead mentally calling out the command to begin the Trial.
+
+Princess Yona, the Gastronome!
+
+[ NO! ]
+
+[ You have selected Princess Yona, the Gastronome. Proceed to the Trial? ]
+
+[ Yes, I’m ready ] [ No, I need more time ]
+
+[ STOP RIGHT THIS INSTANT!!! ]
+
+Yes, I’m ready.
+
+[ Initializing Trial… ]
+
+[ YOU ABSOLUTE MORON!!!!!! ]
+
+“You’re just mad you didn’t think of this sooner.”
+
+[ I’M MAD BECAUSE I HAVE AN ANGRY GODDESS BREATHING DOWN MY NECK AND YOU JUST BROKE THE EVOLUTION SYSTEM!!!!! ]
+
+“Well, that sounds like a you problem. Also, it doesn’t look that broken to—”
+
+[ Error. Unable to initialize Trial. Reattempting… (1 of 5) ]
+
+“Oh.”
+
+[ Error. Unable to initialize Trial. Reattempting… (2 of 5) ]
+
+[ Error. Unable to initialize Trial. Reattempting… (3 of 5) ]
+
+[ Error. Unable to initialize Trial. Reattempting… (4 of 5) ]
+
+[ Error. Unable to initialize Trial. Reattempting… (5 of 5) ]
+
+[ Error. Unable to Initialize Trial. Multiple points of interference detected. Contacting support… ]
+
+“Hmmmmm…”
+
+A minute passes in silence before finally, another Annoying Red Box appears.
+
+[ Hahahahahahahahah! You stupid cat! ]
+
+“What’s so funny? Also, which one are you? Are you the boss still?”
+
+[ No, I’m the original. But don’t worry, my boss is laughing at you too. ]
+
+“Why? What happened?”
+
+[ Well, this was unprecedented, so we had the whole department working, and just a second ago, we got a solution. It was actually simpler than expected. Do you remember your first Evolution when the other System Support Member used the Evolution combination function on you? ]
+
+“Uh, yeah? Do you think I’m stupid or something?”
+
+[ Well, luckily for you the function works on Named evolutions too. ]
+
+“Okay, so what’s the big deal? That sounds like good news. Great news, actually. Does that mean I get to combine all the Names I ate?”
+
+[ Not quite. The more powerful the Evolution, the higher chance of that function’s failure. And you just ate five Tier 3 Named Evolutions. You’re lucky you chose relatively compatible ones. The failure chance is only 67%. ]
+
+“Oh. That’s not good.”
+
+[ But do you know what the best part is? ]
+
+“What?”
+
+[ The combination of Names is only half the reason your Trial failed to initialize. The other half is that it was trying to initialize all five Trials at once. The fix to that, of course, is for us to manually select one of the Trials and have you take that. Now, if this was an ordinary bug, and not a deliberate attempt to make my life harder, I would just choose your Princess Yona, the Gastronome Trial like you wanted. However, I don’t really want to do you any favors right now. And lucky for me, this unprecedented situation has uncovered yet another bug in the System. Do you want to know what it is? ]
+
+I get a sinking feeling in my stomach as I read his words.
+
+“What?” I ask.
+
+[ I’m not limited to the Trials of the Names you ate. I can choose any of the Trials in this room. And you know, this whole thing started because I was a little curious about one of the Evolutions, and the System wouldn’t tell me anything about it. ]
+
+“Wait…”
+
+[ Don’t worry, this won’t affect your end species, assuming the combination succeeds. No matter which Trial you take, your final Species and Name were more or less set as soon as you accepted the prompt in front of Princess Yona, the Gastronome. The Trial doesn’t actually matter that much. Which is why I can make you take this with no negative repercussions. ]
+
+“No!” I shout. “Don’t do it!”
+
+[ Time to see what you and the System were so desperate to hide! ]
+
+“NO!”
+
+[ Initializing Trial… ]
+
+[ Trial initialized! You will now be taken to the Trial for Yona, Winter ]
+
+The world spins, then turns dark and I black out. When I wake up, I see something I never thought I would see again. My old bedroom. I’m back on Earth.

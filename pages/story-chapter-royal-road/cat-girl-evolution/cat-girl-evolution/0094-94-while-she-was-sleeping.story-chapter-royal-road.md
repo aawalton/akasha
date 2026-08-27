@@ -1,0 +1,119 @@
+---
+id: 988e7bbe-9981-5d17-9547-5f2da3f0d5dd
+page-type-slug: story-chapter-royal-road
+title: "94 - While She Was Sleeping"
+slug: 0094-94-while-she-was-sleeping
+partOf: cat-girl-evolution
+position: 94
+ownLength: 1982
+unit: words
+publishedAt: 2026-02-27
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3097233/94-while-she-was-sleeping"
+royalRoadId: "3097233"
+---
+
+Annie had never hated being undead more than now. She was a disembodied head, unable to do anything but think. And at the moment, her thoughts weren’t exactly fun to be alone with.
+
+The revelation that not only was Yona once a human, but that the other monster she had killed in Wormwood was too was… unpleasant. It also killed whatever goodwill she had remaining for her creator. After being killed and resurrected as a slave, there wasn’t much left, but her creator always spoke of a grander purpose and “necessary evils.” The gods had placed dangerous monsters all around the continent, and only her creator could stop them. They would atone for their sins when they finished their work, and Annie would be free to live her life alongside her siblings.
+
+Annie hated them, but a part of her wanted to believe. It helped that aside from her mandatory Quests, she generally had freedom, and that she still had her body, and that she could make it feel mostly normal. But Yona’s revelation had shattered that. Her creator was either a liar, or deeply delusional, and she wasn’t sure which was worse.
+
+But even worse than all that, her siblings’ lives were still in her creator’s hands. While she wanted to believe she would never kill an innocent again, if she was presented with a situation where her siblings would die if she didn’t… she wasn’t sure what she would choose, and she didn’t want to find out.
+
+Part of her was just tempted to bite her tongue and end it all. It would turn her body into a Revenant, but even a Revenant could not survive without a body for long, and the artificed restraints on her would keep it from causing any harm. But getting herself killed was leaving her siblings’ lives in her creator’s hands, and knowing what she knew now, she wasn’t willing to let that happen.
+
+Her life as a severed head did have a few bright spots, at least. Yona’s friends—or “minions,” as she called them—were generally good people, and while they didn’t trust her, they at least took pity on her. When they were not out training or Dungeon diving, they often kept her company. The twins asked her an endless amount of strange questions, Lauren awkwardly tried to start conversations about adventuring and assassin Skills, and Chad didn’t say anything, but he was a comforting presence beside her as he carved small figurines of various people, places, and more. Over the weeks since arriving in Doralak, he had produced a small army of them to brighten up the view of the table in the basement she had been set on. More recently, the group had taken to eating meals at the table with her, though seeing them eat such delicious food that she couldn’t have was almost as much punishment as their presence was pleasant.
+
+Even as they grew closer, though, there was still a barrier between them. Annie’s Quest had not disappeared. Her creator was still out there. If she got her body back, she would just have to go right back to trying to kill Yona. And everyone knew that, and held back from getting too close, just in case they had to kill each other later.
+
+On this particular day, Annie was trying to keep herself entertained while the others were gone by writing poetry. There wasn’t much else to do, and the house was sound-proofed well enough that she could speak out loud without fear of being heard. And speaking out loud and trying to think of rhymes kept her mind off other things.
+
+She was right in the middle of trying to come up with a word that rhymed with “glutton” when she suddenly froze mid-sentence, and a chill ran down what remained of her spine. If she could have turned her head northward, she would have, because at that moment, she sensed something that she hadn’t in months. It was the presence of her creator. And he wasn't that far away. Then, just as quickly as it appeared, it vanished again, but not before Annie received a System notification.
+
+[ You have lost access to a Quest ]
+
+[ A new Quest has been assigned ]
+
+Nervously, she opened her menu and grimaced when she saw what had happened. Her Quest to eliminate Yona was gone, which was good, but the Quest that had replaced it was ominous.
+
+[ Quest: Return to your creator. Reward: Enchanted dagger ]
+
+The fact that she was being recalled could only mean one of two things. Either her creator wanted her back to help him defend against the Adventurer’s Guild that was now after him, or they had realized that something had gone wrong, and were giving her one final chance to return and explain herself before he sent someone—or something—else to figure out what had happened to her, and help her finish her first Quest.
+
+It had been nearly a month since Yona left to evolve, and the four humans were in excellent moods. Most of the time. All four of them had been close to the same level when they left Riverfork, so with access to Platinum level Dungeons, they all reached their Class Upgrades around the same time. It had only taken them a week to get just that far, and with their newfound power to draw on, and their years of practice and experience, they were soon rocketing through Tier 4. In the three weeks since upgrading their Classes, they had each gained three more levels in their Classes.
+
+Unfortunately, as they traveled, Lauren noticed a sad truth: she was falling behind. She had thought that she would be comparable to Chad and the twins, but as they spent more time in Dungeons together, she realized that she had been mistaken. While she was working for the Guild, helping out weaker Adventurers and raking in money, they had been working on their Professions. Lauren had been working on her Profession too, of course, but the extra hours that the others put in made a big difference when it came to raw stats.
+
+Seeing this, Lauren felt regretful of how she had prioritized money over her own progression, and she also felt a twinge of jealousy toward Yona’s status as a monster.
+
+Unlike humans, monsters could raise their Race level independently of their Class and Profession. Generally, this meant that their Race levels would tend to outpace their Class and Profession levels.
+
+For humans, that was impossible. Their Race level was always either equal to their age, or equal to whatever the halfway point was between their Class and Profession, whichever was higher. For Adventurers, that was always the latter, which meant that Lauren’s dearth of Profession levels was a twofold problem, since it means she was missing out on Race levels as well. The three extra levels from Dungeon diving helped, but with her Profession stuck all the way down at level eight, her Race was still a long way from evolving.
+
+While humans didn’t gain quite as much for Race evolutions as monsters did, they were still extremely important milestones for them. Every single Race Evolution unlocked at least one more Trait, and Traits were extraordinarily valuable. Even the weakest Traits could fundamentally alter a person’s path, and the strongest ones could bridge even Tier gaps.
+
+So, while the twins talked excitedly about how they only had two more levels to go before getting their next Traits, Lauren was in the kitchen, cooking complex meal after complex meal, staying up late at night, and waking up early in the morning. She had spent a small fortune on ingredients already, and if not for the fact that Platinum Dungeons were very profitable, she would have been burning through her savings at an alarming rate.
+
+As she finished what felt like her hundredth steak and inspected it for any possible errors, she went to put it in her spatial storage artifact and realized that she had a problem: it was full. In the two years since she had gotten the artifact, this had never happened. She had nearly gone into debt buying one with as much storage space as possible, and she had somehow gone and filled it up.
+
+She looked at the freshly-cooked steak, and with a sigh, she went to the kitchen’s preservation cabinet and set the plate inside. It was not quite as fancy as her storage artifact, and had no spatial magic involved whatsoever, but it would get the job done. She just hoped that Yona got back before she filled that up too. Her appetite might have increased after meeting the gluttonous cat, but not to the point where it could keep up with her cooking.
+
+Where’s Yona when you need her? she whined internally.
+
+Almost as if in response to her question, she felt something that made her stiffen. She couldn’t describe exactly what it was, but she became suddenly aware of her own heartbeat, for just a split second, hearing a pounding in her ears, and the next second, she felt famished. As though she would collapse if she didn’t eat soon.
+
+She was confused, but the hunger didn’t fade, so she quickly retrieved her steak from the preservation cabinet and started wolfing it down. As she ate, she heard the sounds of hurried footsteps, and a moment later, the twins appeared from around the corner.
+
+“Did you feel that?” they asked simultaneously.
+
+“The sudden hunger?” asked Lauren. “Yeah.”
+
+“Then you know what it means, right?” asked A.
+
+Lauren thought for a second, then her jaw dropped as realization struck her.
+
+“Was that… Yona?”
+
+“Yes,” said B.
+
+“Her evolution must have finished.”
+
+“I can’t believe we let her do it in the city.”
+
+“How did we forget she was already at stage 6?”
+
+“Stage 6?” asked Lauren.
+
+“Her Gluttony Trait,” explained A. “Sin Traits go up at least one Stage with each Race Evolution.”
+
+“And they undergo a qualitative change at Stage 7, and they cause a ripple effect on the world around them when they do,” finished B.
+
+“Oh,” said Lauren. “That’s not good.”
+
+“Not at all,” said A.
+
+“But at least it wasn’t Lust,” said B.
+
+Lauren cringed in horror at what that might have meant for the city if it had been.
+
+“We might need to do some damage control so they don’t tie it back to her,” said A.
+
+“At the very least, we can’t have Yona be seen eating in public,” said B.
+
+“Right,” said Lauren. “They’d definitely clock her immediately.”
+
+“We’ll try to contact our master.”
+
+“She should be able to help cover things up.”
+
+“But in the meantime–”
+
+“Give us food.”
+
+Chad ate a block of wood. He did not know why he ate the block of wood, but he did. One moment, he had been carving the tip of it into a miniature boar, and the next, it was in his mouth, being chewed to splinters. It was only after he swallowed that he realized what he had done, at which point he froze in shock.
+
+He remembered feeling a wave of intense hunger, and he vaguely remembered something about wanting to eat pork, and that had led to him popping the wooden pig in his mouth. And the worst part? It actually hadn’t tasted bad. He was using a reinforced applewood, and it actually had a rather pleasant aroma in his mouth after he swallowed. He was still hungry, and he was almost tempted to take another bite, but he held himself back. After all, there was someone else there with him.
+
+Seemingly completely unaffected by the wave of hunger, the undead assassin’s head was staring up at him with an eyebrow raised. Chad made eye contact with her for a few seconds, then turned away in shame.
+
+“Please don’t tell anyone.”

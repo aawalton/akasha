@@ -1,0 +1,232 @@
+---
+id: b922e2e7-1567-5542-8b89-04235e5a2e9d
+page-type-slug: story-chapter-royal-road
+title: "169 - Preliminary Dungeon Competition Team"
+partOf: bunny-girl-evolution
+position: 35
+ownLength: 3933
+unit: words
+ownProgress: 3933
+publishedAt: 2026-02-03
+link: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3007667/169-preliminary-dungeon-competition-team"
+royalRoadId: "3007667"
+markedReadAt: "2026-06-29T20:03:47.425Z"
+---
+
+Unlike the first meeting in the empty classroom, this meeting took place on one of the University’s many training fields. There was no buffet this time, but there were snacks—fruits and pastries, mostly—and when Elise and Sophie arrived, most of the students were helping themselves.
+
+Shawn greeted them, as he had the first time, and went into a brief explanation of how regular club meetings worked. Since it was a club and not a class, it was fairly unstructured, and the regular meetings were mostly just gatherings where students could hang out and practice and show off whatever tricks they had learned during the week. It was slightly different for the Dungeon teams, but even they didn’t have much they were required to do during the regular meetings. Most of what they did happened outside of the regular meetings.
+
+“So just make some friends and have fun,” he finished with a smile. “It looks like a couple other new students are here, so I’ll go give them the same spiel I gave you. Enjoy the meeting!”
+
+They thanked him, then grabbed small plates of food, and turned to the rest of the group. On her own, Elise likely would have stayed to the side, observing the situation and either waiting for someone else to talk to her, or finding the most suitable place to insert herself. Sophie, on the other hand, being the extrovert that she was, dragged her over to a relatively rowdy group that was playing some kind of racing game where they tried to grow vines from one point to another before the others.
+
+Before Elise even knew it, Sophie had managed to talk them into participating in the next round. They both lost spectacularly, neither having the mana capacity or Skill Levels to compete with the older, more experienced students, but it was still fun. They ended up competing with each other instead, and Elise managed to get her vines further, but soon started to run out of mana, while Sophie’s {Dragon Heart} kept her going, making her the ultimate victor.
+
+Elise did not waste her entire mana pool on the game so she could have played again, but she didn’t want to completely drain herself, so she bowed out of the next round. While she watched the remaining participants continue, Sara, the tiny part-drow girl, approached her to give her a few tips on vine control. To Elise’s surprise, just hearing the information was enough to bump her {Nature Magic Manipulation} up a level. She assumed that she must have been extremely close to a level up, since that knowledge shouldn’t have been so strong, but it was interesting to note that leveling was technically possible without actually using the Skill.
+
+About half an hour after they arrived, most of the racers were taking a break to recover their mana, and chatting, and Elise and Sophie had become a focal point of one of the larger conversations, mostly for their Mana Manipulation Skills. Given Sophie’s elven lineage, and Elise’s backstory of having been adopted by the Grays, no one questioned how they had gotten those Skills, but they all wanted to know their Classes. Of course, neither of them could share their Classes, Sophie because it would expose Irylax, and Elise because she didn’t have one, but the other students didn’t quite get the hint, and had made a game of trying to guess.
+
+They were saved when Sucri stepped into the group, apologizing for the interruption before asking Sophie and Elise to follow her. The other students in the club looked mildly disappointed that they had not managed to get the truth, and Elise could only hope that they forgot about the subject later after she returned.
+
+I should probably figure out a fake Class to say I have, she thought idly as Sucri led them to an empty part of the field.
+
+Sucri left her and Sophie alone for a minute, but soon, they were joined by the elf, Telvir, then the Ainar and Saurin from the first meeting, and finally two people that Elise didn’t recognize, a human woman with, and a man who looked mostly human aside from his ever-so-slightly pointed ears. The woman was wearing a very practical outfit similar to what Elise wore when she needed to be physically active, except that it was also extremely clean and unwrinkled and looked to be made of expensive materials. She moved a bit stiffly and had a stern expression, giving Elise the impression that she was a sheltered noblewoman. The man was more laid-back, and was dressed casually, even going as far as to forgo shoes for some reason. Given that they both looked as confused as Sophie did, and that everyone else present was new to the club, Elise could only assume that they were new members as well.
+
+Sucri arrived only a couple seconds after the two unfamiliar faces, quickly drawing the attention of the whole group.
+
+“It’s a little bit early in the semester, but I want to make sure that we get started on this as soon as possible,” she began. “The Dungeon Competition is a great opportunity for anyone interested in any kind of profession that might involve fighting. And even if you’re not interested in a profession like that, it’s still a great experience, and you can learn many practical skills you might otherwise never get the opportunity to acquire. I also believe that we have a very good chance at winning this year.”
+
+She gave Elise and Telvir half a glance before continuing.
+
+“I’ve created a preliminary lineup for our rookie Dungeon Competition team. This is not finalized, and if your name is on the list, but you don’t want to participate, you are free to forgo your spot. These may also change depending on performance, so if you aren’t chosen and want to be, you can work hard to earn a slot. For now though, I’d like the following five to begin preparing to participate: Eleanor, Telvir, Lauri, Agatha, and Hannah.”
+
+Given her age and complete lack of combat experience, Elise had fully expected Sophie not to be chosen, but it seemed that the young half-elf was surprised and extremely disappointed by the decision. Elise sensed a strong wave of shock, followed by a few different kinds of grief before settling on despondence. When she glanced over, she saw that Sophie seemed just one more emotional blow away from crying.
+
+Elise was momentarily frozen, unsure what to do, but before she could come to a decision, the despondence started to fade, and was replaced instead by resolve. Sophie’s expression changed as well, going from sad to determined. Elise was once again frozen, and after a second or two, turned back to Sucri, pretending she hadn’t seen anything.
+
+That was a lot of emotions for five seconds.
+
+“The team won’t be officially finalized until four weeks from now,” said Sucri. “Until then, everything may change. However, for those of you on the preliminary team, I would like you to treat it as the final team, and work hard to get ready for the Dungeon Competition. That means following all the rules and doing all the mandatory training that the official teams need to do.
+
+“Once a week, you all will find a time to enter the Dungeon together. It should be just the five of you, and you should prepare thoroughly so that you can go as far as possible. Later in the semester, you will likely be taking days off to spend more time in the Dungeon. The University has special absence exceptions for teams participating in the Dungeon Competition, so you won’t need to worry about it interfering with your grades, though you may have to do some extra work to catch up on content that you miss.
+
+“Also once a week, you’ll be going into the Dungeon with me. This will be a much briefer excursion lasting no more than two hours or so, and during these, I will be watching you work, and coaching you on places where you can improve. I keep all my evenings free for this reason, and since you are all new students, you get to pick which day of the week you want to be coached. The older students have already cleared their evenings, so they will schedule their coaching sessions around yours.
+
+“The last duty you’ll have as a Dungeon Competition team is to attend these Saturday meetings and report any progress or issues that your team may be having. That shouldn’t take very long. Your leader just needs to speak with me for a few minutes, and it’s all good.
+
+“If you don’t think you can commit to this level of involvement, I ask that you step down from your position. Spending time in the Dungeon with your teammates is extremely important. I’ve watched many talented teams perform poorly due to lack of communication and teamwork. I’d rather not see it happen to one of my own teams.
+
+“For today, I’d like you to just familiarize yourselves with each other, pick a leader, and pick an evening this week to go into the Dungeon with me. You don’t need to go in on your own before then, though you can if you’d like to. I believe that almost all of you have your Bronze entry passes, and Elise and Telvir have already reached Silver, so they can each bring one passless person into the Bronze areas. For those of you without passes, you can also talk with me and we can find a time to go into the Dungeon so I can put you through the approval process.
+
+“Does anyone have any questions before I leave you to it?”
+
+The stiff human woman shot her hand into the air.
+
+“Yes, Hannah?” asked Sucri.
+
+“I heard that the Dungeon Competition lasts for five days. Will we be expected to go on five day excursions as well?”
+
+“No, but I encourage it. There’s a short break in classes about a month before the competition, and I try to get all the teams to go on practice runs during that time. In fact, many clubs do the same, and a few even compete, so you can treat it as a trial run for the real thing. That’s technically not mandatory, especially since many students prefer to spend the holiday home with family, but if possible, I would like you all to be in the Dungeon during that time.
+
+“Other than that, I encourage longer excursions if the team can find the time, but there are plenty of ways to practice for the competition without spending nearly a week underground.”
+
+“Thank you,” said Hannah, nodding and lowering her hand.
+
+The next question came from Agatha, the scaled Saurin.
+
+“Agatha?” said Sucri.
+
+“Ummm…” said Agatha nervously. “Can I drop out?”
+
+“Of course,” said Sucri. “Any particular reason?”
+
+“No… I just… It’s complicated.”
+
+“That’s perfectly fine,” said Sucri with a smile. “In that case, Frank, the slot is yours, if you want it.”
+
+“I will gladly take it,” said the newcomer with the slightly pointed ears.
+
+Elise felt Sophie’s hopes rise momentarily, only to be immediately dashed, and then used as fuel for her resolve, all in the span of a few seconds. Elise felt a little bad about the situation, but she was also proud of Sophie for not falling into despair. Sure, from Elise’s perspective, it made perfect sense not to put Sophie on the team, but to Sophie, it probably felt like she was being intentionally left out, especially now that Sucri had her in last place of the seven. At least in the past, Elise likely would have given up right there and assumed it wasn’t meant to be, but Sophie clearly still wanted to get onto the team, and was going to work hard to qualify.
+
+“Anyone else?” asked Sucri, looking around for more questions. “No? Well, if anyone has anything else, I’ll be right over there. Pick out your leader and the best day of the week to meet with me, and you can return to the regular club activities.”
+
+She walked away, and a few seconds later, Agatha left as well, head down in shame. Sophie hesitated for a few seconds, then she turned to leave as well, heading right back toward the lively group who were having some other kind of nature magic competition now. Elise smiled as she went, happy that she was using the disappointment as motivation, then turned to face the remaining four.
+
+“I think Eleanor should be the leader,” said Telvir immediately.
+
+The rest turned to him in surprise.
+
+“Why me?” asked Elise.
+
+“You’re the most experienced, and your abilities will have you closer to the backline where you can keep an eye on things,” he explained. “My abilities will have me in the vanguard, and I can’t keep an eye on everyone else from there without compromising my effectiveness.”
+
+The others nodded along with his explanation. They had likely been thinking that Telvir would be the leader, due to him being an elf, as had Elise, so his suggestion took them by surprise, but his explanation was reasonable. She even felt a few of them grow a small sense of respect for the elf, since he had given up the position that no one would have been willing to fight him for.
+
+Elise, however, was still confused. His reasoning was sound, but she knew that wasn’t the true reason he was giving her the spot. Beneath his calm expression and rational explanation, she sensed a strong sense of anxiety, fear, and respect toward her that she still didn’t understand. She wasn’t sure why he felt that way about her, but she was pretty sure it was some kind of misunderstanding.
+
+…Unless he had somehow figured out who she was. She didn’t know much about elven society, but given their lifespans, she wouldn’t have been surprised if they were much more familiar with and accepting of monsters than the other humanoids. That would explain why he hadn’t outed her, and if he knew the implications that came with her race, it would make sense that he was fearful. Even for elves, it wasn’t every day that they ran into the heir to a goddess.
+
+But if that was the case, how had he found out? He didn’t seem to think much of her until she used {Suggest} on him, and even then, he hadn’t dropped his arrogance until she used {Nature Mana Manipulation} against him.
+
+Did I show too many of my cards? she wondered.
+
+She thought about it a bit more, and it made a bit of sense. As an elf, he probably knew about aether, even if he couldn’t directly sense it. When she used {Suggest}, he had likely noticed how much aether she had, or at least gotten a hint of it, and that would have made him think she was some kind of mental magic specialist. However, showing off {Nature Mana Manipulation} right after raised a flag in his mind. It was too rare a Skill for a mind magic specialist of her level.
+
+Given that, he probably didn’t know exactly what she was, but she had definitely given too many hints, and there was no chance that he didn’t have some fairly accurate guesses. And even if he knew he wasn’t right, he was playing things safe. Elves were good at patience. Better to lose a meaningless leadership role now than to risk angering a fey of her caliber.
+
+That still left her with a dilemma. Did she want the position of leader? She tried to take Maggie’s advice and look at her immediate, gut reaction to the prospect, and unfortunately, it didn’t help, because her immediate reaction was that she both did and didn’t want the position. She did want it because she worried about someone unqualified getting it, but simultaneously, she didn’t want it because she wasn’t sure she was qualified and didn’t want the pressure.
+
+She thought back to when she had been in similar situations in the past during group projects in school. Back then, she had always chosen to defer responsibility. Sometimes it worked well, and someone ambitious and driven would take the lead and guide the group to a good grade. Other times, it was a disaster, and the most popular person got the role, regardless of their competence, and Elise would have to work three times as hard to pick up the slack in order to save her grade.
+
+This case was a bit different, but the same principles applied. If she accepted she would be stuck with the responsibility, but if she rejected, she risked being stuck under a bad leader. She deliberated for a few more seconds as the group stared at her, waiting for a response.
+
+“Alright, I’ll do it,” she finally said.
+
+The others nodded and smiled, and she felt a sense of equal relief and worry from Telvir. No one spoke for a few seconds before Elise realized that she had just accepted the leader role, and was now supposed to take charge.
+
+“Right, so what day works best for everyone?” she asked. “I’m free every evening.”
+
+“Me as well,” said Frank.
+
+“I have tutoring on Tuesdays and Thursdays,” said Hannah.
+
+“I have an astronomy class on Friday nights,” said Lauri.
+
+“I am also busy on Friday nights,” said Telvir.
+
+“That leaves Monday and Wednesday then,” said Elise. “I think it would be best to meet with Sucri on Wednesday and go on our own excursions on Mondays.”
+
+“Sounds good,” said Frank.
+
+“I agree,” said Hannah.
+
+Lauri and Telvir simply nodded.
+
+“Okay…” said Elise. “Then I guess we’re about done? Do we want to meet on Monday before our first session with Sucri?”
+
+“I personally think we should,” said Hannah, raising her hand for some reason. “I believe it is important that we all grow accustomed to each others’ abilities as soon as possible so that we can benefit more fully from Professor Sucri’s Wednesday coaching.”
+
+“I dunno,” said Frank. “I was kinda hoping that I’d be able to relax this Monday night.”
+
+Hannah turned to him, her expression somehow growing even more stern.
+
+“You just said that you were free every evening,” she said.
+
+“Well, not for much longer, it looks like,” he said with a lazy smile. “Can’t I enjoy my last free Monday?”
+
+“But–”
+
+“I agree that meeting on Monday is a good idea,” said Telvir, cutting through the budding argument.
+
+“Same,” said Lauri.
+
+The entire group turned toward Frank, who sighed.
+
+“Well, I guess if that’s what all of you want,” he said with a shrug.
+
+“Does seven o clock work for everyone?” asked Elise.
+
+The others gave words of affirmation, and Elise internally sighed with relief. The process had been much simpler than she was worried about.
+
+“Then we’ll meet at the central fountain at seven on Monday,” she said. “And I’ll let Professor Sucri know that we’ll be doing our coaching on Wednesday.”
+
+The others nodded, and soon after, the group broke up, heading back to the rest of the club members as Elise talked to Sucri. Sucri seemed happy to hear that they were going into the Dungeon on their own before meeting with her, and gave Elise a few tips on leadership before letting her go. Elise rejoined Sophie, who was using every last drop of her mana in an attempt to break through an older student’s wooden shield with thick wooden roots of her own. To her chagrin, she did not end up succeeding, but she did at least manage to crack the shield before she ran out of mana.
+
+Sophie stayed in that same odd, competitive mood the rest of the meeting, and with her draconic mana recharging more quickly than most, she was able to participate in many different activities that the students were doing. The ones that were competitions, she always lost, but Elise was pretty sure that her control over nature mana had noticeably improved by the time the club meeting officially ended, and the majority of the students started to leave.
+
+Sophie wanted to stay behind and keep practicing with the other, more driven students who were still present, but Elise reminded her that they had promised Nick and Bianca they’d be home for dinner, so Sophie reluctantly said her goodbyes, and the two left for home.
+
+Sophie was uncharacteristically quiet on the walk back, clearly deep in thought. Elise didn’t want to interrupt whatever she was thinking about, so she turned her attention outward, taking in the beautiful campus. They reached the Grays’ house without exchanging a word, and even dinner was strangely quiet, to the point that Nick seemed to be concerned.
+
+“Sophie, did something happen at the club meeting?” he asked.
+
+“Nothing,” muttered Sophie.
+
+“Are you sure? You’re acting a little down.”
+
+“Huh?” asked Sophie, blinking in surprise. “Oh. Sorry.”
+
+“What happened?”
+
+Sophie poked at her food, reluctant to answer, so after a few seconds, Nick turned to Elise with a raised eyebrow.
+
+“She didn’t get chosen for the rookie Dungeon Competition team,” Elise explained.
+
+Sophie’s frown deepened as a look of comprehension passed across Nick’s face.
+
+“Ah, I see,” he said. “Well, that’s not too bad. Not everyone gets to participate. There’s always next year.”
+
+Elise and Bianca both winced.
+
+“I wanna do it this year though,” grumped Sophie.
+
+“There’s still time,” said Elise. “If you work hard, you can still make the team. Plus, that Frank guy didn’t seem all that dedicated. He might drop out, in which case there’ll be a spot open.”
+
+“Yeah, but I don’t even have a Dungeon Pass,” she said. “And Sucri said I wasn’t ready for one yet. And there’s only a month until the teams are finalized. How can I prove to her that I’m ready if I can’t even go into the Dungeon?”
+
+“You don’t need to,” said Irylax. “Did you say the teacher’s name is Sucri? I’ll go talk some sense into her.”
+
+Sophie’s eyes widened in alarm, and she quickly raised her hands.
+
+“Wait, no!” she said. “I want to prove it to her on my own. I don’t want… to rely on you for everything.”
+
+Her words trailed off in the end, and a moment of silence fell across the table. Irylax looked at Sophie sternly, but Elise thought she sensed a hint of approval in the dragon’s eyes.
+
+“If that’s what you want,” Irylax finally said before turning back to her food.
+
+More silence followed as Elise thought back to something that Sucri had briefly mentioned when she was explaining the Dungeon team. Apparently, those with silver passes could take passless students into the Bronze areas. The Bronze areas weren’t really good for experience points, but for someone like Sophie who had never even seen a monster more dangerous than a slime, they were perfect.
+
+“I think I can take you into the Dungeon, Sophie.”
+
+“You can?” asked Nick.
+
+“I think so,” said Elise. “I got my Silver pass, so that should mean I can take her into the Bronze areas, right?”
+
+“Oh, I didn’t realize you were up to Silver already,” he said. “When did you get that?”
+
+“Wednesday,” she said. “But Sophie, what do you think?”
+
+The question was largely rhetorical, as the look on Sophie’s face was really all the answer she needed. Or at least, that’s what she thought when she asked it. However, Sophie still managed to surprise her with her response.
+
+“Can we go right now?”

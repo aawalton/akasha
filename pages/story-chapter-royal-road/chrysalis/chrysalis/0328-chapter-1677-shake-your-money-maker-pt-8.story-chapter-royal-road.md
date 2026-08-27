@@ -1,0 +1,85 @@
+---
+id: ec3e7916-590d-57d2-80b0-e74f7a191feb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1677 - Shake Your Money Maker pt 8"
+slug: 0328-chapter-1677-shake-your-money-maker-pt-8
+partOf: chrysalis
+position: 328
+ownLength: 985
+unit: words
+ownProgress: 985
+publishedAt: 2025-10-30
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2715748/chapter-1677-shake-your-money-maker-pt-8"
+royalRoadId: "2715748"
+markedReadAt: "2026-06-29T19:54:18.283Z"
+---
+
+[Persuasion, Negotiation and Empathy. These Skills will fuse at rank four and become the foundation on which all of your success will be built. We should also investigate ways you can become a better trader through evolution. There must be organs and mutations that will help. Keep in mind, we can’t cross the line. Skills and such are accepted as part of business, but mind-controlling pheromones are not.]
+
+The little ant nodded seriously.
+
+[The Brood Tenders have already been investigating organs and evolutions that will help me. They should be ready soon and I can take my first evolution in the next few days.]
+
+[Have you evolved at all?] Enid asked, looking down at the little ant.
+
+[I haven’t.]
+
+A hatchling was quite a small little thing, only coming up to the knee of a normal adult. Too small to be taken seriously. She rubbed at her chin. Perhaps that was a good thing? Appearing harmless was one way to get others to lower their guard, but could be counterproductive when trying to get a seat at the table.
+
+[Let’s try to put a cap on the size you are able to become,] she said after some thought. [No more than double your current frame.]
+
+That would make her the size of a newborn pony, waist high on an adult, roughly. Considering ants were much longer than they were tall, that would make her close to the same mass as a human woman. Not large enough to be threatening, and not so large as to lose the disarming nature of being small.
+
+[Now. Listen well while I speak with this shopkeeper. Have you been working on your perception of language?]
+
+[Yes!] the hatchling confirmed.
+
+[Good.]
+
+Working mind to mind was common, but not preferred amongst traders. The first mutation the hatchling had taken had attuned her antennae to the soundwaves of speech, which helped her discern what people were saying. She still had to learn the language to differentiate between the words, which was an ongoing process.
+
+Enid hobbled over to the storefront, leaning heavily on her walking stick. The healers treated her almost daily, which helped a great deal with the pain, but being old couldn’t be fixed. It was fine, most had it worse than she did in their retirement.
+
+Getting the hatchling out of the nest and out into the world to practise her Skills and learn hadn’t been easy. The Brood Tenders were extremely reluctant to let her out of their sights, but Enid had insisted, and they had eventually allowed it.
+
+“Hello, young man,” Enid said as she drew closer, peering down at the fresh fish on display as if her eyesight were significantly worse than it was. “Is this today’s catch?”
+
+“Welcome, grandmother,” the storekeeper said warmly. “Everything in these three trays is fresh off the boats today. Those two trays are yesterday's catch that has been cool stored overnight. Is there anything in particular you’re looking for?”
+
+Enid shot the hatchling a significant look, and the little ant nodded. She’d already known not all the fish were fresh, but the trader had been honest and answered openly.
+
+“What’s the discount for the old fish?” she asked, curling her lip a little. “Half price at least, surely?”
+
+She disparaged the goods and put in a preliminary offer, just using the barest hint of her Skill. If she went all out, the man would put his guard up, and she didn’t want that. There was an art to this sort of thing, and Enid found she had missed it.
+
+“Please, grandmother,” the storekeeper smiled, “why would I be paying so much for my expensive storeroom if I sell them at half-price? I even packed them with fresh ice this morning. A quarter off the full value is what I charge.”
+
+“A quarter?” Enid widened her eyes in shock. “So if this bream is a copper sovereign, then that one is a three copper?” She narrowed her eyes suspiciously. “Are you trying to take advantage of me, young man?”
+
+She raised her walking stick and waved it in a warning gesture and the shopkeeper held up both hands while laughing.
+
+“Of course not, grandmother, only trying to make an honest living. I’ll tell you what, if you want this bream,” he selected a large specimen and held it up for her to admire, “I believe I can let it go for two copper as celebration of this fortuitous meeting.”
+
+Enid smiled warmly.
+
+“Such a well spoken young man,” she said, reaching for her purse.
+
+As she paid, the shopkeeper wrapped the fish in fresh leaves that he packed with some crushed ice. The two chatted for a time, Enid asking about the market, the fishing customs of the area and business in general. When it was done, the two shook hands before walking away, the hatchling trailing after Enid, antennae waving.
+
+[How much of that did you get?]
+
+[Most of it… I think.]
+
+[And?]
+
+[You managed to negotiate down the price.]
+
+[Pshaw. That wasn’t the important bit. The important bit was after the sale.]
+
+[When… you talked about fishing?]
+
+[Building rapport, learning about the local trade, making connections,] Enid said, poking the little ant in the side with her walking stick. [What we are going to do for the next few months is have you engage in as many of those sorts of conversations as possible. You will talk and talk and talk and talk until you can make conversation with a beggar or a king just as easily. When you get used to it, we will start making small trades, then work our way up to some more significant business. Do you understand?]
+
+[You want me to use that thing?]
+
+[Of course! Mastering it will be one of your most important lessons. Now, that fellow is selling fruit. Let’s go buy a few apples and see what you can learn.]

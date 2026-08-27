@@ -1,0 +1,141 @@
+---
+id: 8fb587ab-adb7-55f9-b85c-7a9823ebd6b5
+page-type-slug: story-chapter-royal-road
+title: "163. Careful Steps"
+slug: 0163-163-careful-steps
+partOf: breaker-of-horizons
+position: 163
+ownLength: 2142
+unit: words
+publishedAt: 2021-12-23
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/811811/163-careful-steps"
+royalRoadId: "811811"
+---
+
+Caden had no idea how to even begin to deal with the situation. He stood frozen, staring at Devon in mute horror as he began to gently rock himself back and forth. The emotional spillage was spreading across the arcanic sea along with a stream of Devon's words, and even Caden's well-tuned senses struggled to clearly pick out what Devon was trying to tell him.
+
+'Also wanted... but not really... wanted to want... wanted to belong, wanted to prove... but not really mine...'
+
+And then there was the same output in oblivion, except it was coming from that splintered fragment of the wild augera. If Caden hadn't met the original wild augera before, he might not have even recognised the fragment for what it was. Most of it had been sewn into (or was it onto, or inside, or alongside?) Devon's auric-ambient-flare in a way that was almost seamless, so that Devon's own arcana swam through it as if it were truly a part of him. And yet it extended into oblivion in ways that a normal person's auric-ambient-flare did not, and in those higher, stranger dimensions, it retained more of its own original shape. And there, even though the words were the same, Caden had the distinct impression that the fragment was speaking of something very different.
+
+'Also wanted... but not really... wanted to want... wanted to belong, wanted to prove... but not really mine...'
+
+He felt like he was on the cusp of making a terribly important discovery, if only he could just speak with the fragment. But the fragment was also a part of Devon, who was having a breakdown and trying to share his pain. Caden found himself torn between two choices — comfort his friend, or engage with the fragment?
+
+"Dev—" His voice caught in his throat, and he decided to engage with Devon in the arcanic sea instead. 'Dev, do you trust me?'
+
+Devon didn't respond verbally. Instead, the storm of emotions and jumbled thoughts seemed to rage a little less as he considered the question, and a faint note of acceptance came through a moment later.
+
+Caden took that as an answer in the affirmative, so he continued. 'I... I don't know what I can do to help. But I want to try. For that to happen, I need to find out more. So I'm going to... I don't know how to explain what I'm going to do. But whatever happens, please, just trust me, and let me do it, alright?'
+
+Fear soured the the arcanic sea, but Devon reined it in and projected a sense of tense agreement.
+
+There was no point hesitating. Caden slipped into oblivion and directed his full attention at the fragment of the wild augera, focusing on the segments that extended beyond Devon's auric-ambient-flare. It was still merely reflecting Devon's thoughts. 'Drifting-pool-channel,' he called out.
+
+The fragment seemed to stiffen, and its repetition of Devon's thoughts paused. Caden felt, very faintly, the sense that something was focusing its attention on him, but then it faded away and the fragment became inert again, simply echoing Devon's thoughts in oblivion.
+
+Caden hesitated. The last time he had met this wild augera, it had told him that 'raw-boundless-tempest' was one aspect of a wild augera that spoke to its primordial power, and that it was dangerous to engage with a wild augera through that lens. That was when it had mentioned how wild augeras — and presumably even shackled ones — had many aspects to them, and that it was safer for mortals to engage with them as a drifting-pool-channel. However, whatever had happened to it, it seemed to be unable to respond to that name in its shattered, fragmented state. It made sense to try again with the other aspect, though it might be dangerous for Devon.
+
+But then, Caden reasoned, the wild augera had been whole back then. Perhaps now, in its fragmented state, its voice and presence wouldn't be so overwhelming.
+
+'Raw-boundless-tempest,' Caden called, as boldly as he dared. 'Please come. Settle. Listen.'
+
+This time, the effect was more pronounced. The fragment twisted itself sharply and the beam of intent that pierced Caden left him in no doubt that he had finally managed to get it to pay attention to him. Devon let out a small gasp of discomfort.
+
+Caden slipped half out of oblivion and into the arcanic sea. 'Are you alright?' Caden asked him, alarmed.
+
+'F-fine. What did—' Devon began.
+
+'—you call me?' the fragment finished, in oblivion, dragging Caden's attention back to it on higher planes.
+
+In the arcanic sea, Devon's thoughts suddenly dissolved into a senseless jumble. He stopped rocking and simply stared, slack-jawed, at Caden, his eyes filled with panic and confusion.
+
+In oblivion, Caden sensed the fragment asserting itself. A pulse ran through the entirety of Devon's auric-ambient-flare as it took stock of its present situation. 'Not... whole,' it rumbled. 'Not... not me. What did... you call me?'
+
+'Raw-boundless-tempest,' Caden repeated slowly. 'Once... once part of ocean-wellspring-core.'
+
+'Yes,' it said, and now Devon's mind was blended with it. 'That... was what... they wanted. Wanted me to connect... with the... core. Faintly. So they... took the raw. Shaped it... into this... into me. My body.'
+
+A stab of fear went through Caden. Was Devon possessed, like he had been? 'Into you? Or into Devon?'
+
+'The once warm-skillful-bridge. Me. Took me... boundless... now bound in flesh. Not... not tempest. Just... shaped... flesh... named Devon...'
+
+'Who did it? How did it happen?'
+
+'We did it. Ambrose. Me. Me. All... agreed.'
+
+It was hard to follow who he was really talking with. Sometimes, Devon's voice came to the front while the fragment echoed his words, and at other times, the reverse happened. 'You... the raw-boundless-tempest, you agreed to this?'
+
+'Wanted... to want. To prove. To belong.'
+
+'I don't understand. What did you want to prove? And do you mean you wanted to... to join the web of augera? The Fateweaver's web?'
+
+There was anguish now, bleeding out from the fragment, but also from Devon. It was a deep, emotional pain which came from roots that Caden did not have access to, but there was something strangely similar in the strain of pain that seemed to act as a sort of bond between both Devon and the fragment.
+
+'Wanted to prove rightness. Prove mortal and augera can co-exist. Prove fate and fateless can weave together as equals. But... but now broken. Broken.'
+
+The anguish turned into fathomless grief that reminded Caden of the utter void of sorrow and despair that the augera had once shown when the ocean-wellspring-core had turned away from them. It was almost too much to bear, but Caden steeled himself against the drowning tide and firmly anchored Devon as well. The fragmented wild augera, by extension, was kept from the worst of its own breakdown.
+
+'Broken-skillful-bridge,' he intoned, addressing both the fragment and the larger part of Devon's auric-ambient-flare. 'You are still here. You are both changed, but you are still here. I don't know what brought you together, but it was a choice made in unison, and so even though you were each broken apart, you are now united into a new whole. A new oneness. You see this. You sense this. You know this.'
+
+The distinction between Devon's mind and the fragment was rapidly blurring. Caden's attempts to address them as two separate entities were now failing to keep him connected, so he simply surrendered to the natural inclination as his mind now perceived them as one entity. 'You're... still you. Just changed. Just grown.'
+
+'Just... grown,' Devon whispered, his voice echoing in oblivion, free from any confusion now. Even though Caden could still sense the fragment as a feature distinctly unlike an ordinary person's auric-ambient-flare, it was somehow recognisably Devon. He was still the broken-skillful-bridge, but there was a kind of 'wholeness' to the aspects now that made them fit together more comfortably.
+
+Devon slowly got to his feet, staring across the arena as though only seeing it for the first time. When he finally turned to Caden again, his eyes were a little wet. "Thanks."
+
+Caden let out a breath he didn't know he had been holding. The relief that washed over him made him a little dizzy. "Glad I could help."
+
+But the look of gladness in Devon's eyes suddenly gave way to something sharper. "Now how the hell did you do that?"
+
+The relief vanished as quickly as it had come, leaving Caden even dizzier. He sucked in a breath and felt it lodge in his throat. "It's complicated," he choked out.
+
+"We've literally got all day. Who are you?" Devon asked, folding his arms.
+
+"I'm... I'm Caden?" he answered blankly. "First-year arcanist, Top Scorer—"
+
+"I don't mean that," Devon said, drying his eyes and drawing himself up. "What you did... this isn't Academy stuff. It's... it's Chosen One-level stuff. Prophecy stuff. Where'd you even learn to... to do things in higher levels, higher than the arcanic sea? Who are you?"
+
+"You said it yourself, I'm marked since I've been put in a dorm with you guys, " Caden answered defensively.
+
+"Uh huh. And I assumed it would mean that things would happen later that would expose you to all this madness. But it seems you've already got a handle on some of this nonsense, so you've got some explaining to do!" Devon shot back.
+
+"Well if I'm marked, what makes you think the Prophecy wasn't prepping me beforehand?" Caden countered.
+
+"Because there's supposed to be only five plus the Chosen One!" Devon blurted out. A moment later, he flushed as he realised he had accidentally let something slip.
+
+"Five?" Caden asked, feigning confusion.
+
+"Nevermind. Forget it. Fine, I won't pry since you obviously don't wanna say. And you helped me, and I'm grateful, but... but this is weird, and suspicious, and this would be a lot easier if you were a horrible person," Devon blustered.
+
+It was hard to keep a straight face, but Caden made a valiant effort. "What would be easier?"
+
+"Interrogating you!" Devon let out a huff. "Honestly, the fact that we get along so well even though we barely know each other is extra suspicious now, and I swear if you end up backstabbing me somehow, like, if you're an enemy spy or something, I'll... I'll..."
+
+Caden raised an eyebrow and waited.
+
+"... I'll... think of something suitably horrible for a traitor and a backstabber," Devon finished lamely.
+
+There was a witty retort Caden had ready, but it died in his throat as he considered Devon's words a little more seriously. The smile he had only half-successfully forced down now vanished, and he looked at Devon somewhat sombrely. "Dev, there's a lot going on with me that I don't even know how to start explaining. And I'm no Fateweaver, so I don't pretend to know what the future holds. But I do consider you a friend. A good friend. And I promise that I don't intend to ever do something that will end up hurting you, or any of my friends."
+
+Devon chewed his lip and sighed heavily. "Haven't you read enough books to know that statements like that just mean that you're probably gonna unintentionally hurt your friends at some future point in time? That's like... the whole classic dramatic irony thing."
+
+"Fair point. Let's hope for both our sakes that real life doesn't follow plot lines," Caden grinned, though he did feel a very real stab of fear at Devon's words. Given everything he knew, it was quite likely, after all.
+
+Devon sighed again and shook his head. "I'll comfort myself with the fact that if you cross me or anyone else in the dorm, you're probably set up for epic failure because of the Prophecy. Although... now that I've said that, I actually feel bad, because I doubt it'll end well for you. So please don't be the bad guy, because you're a nice guy, and it would be horrible."
+
+"Oh yeah? Would you cry?"
+
+Devon glared. "Probably. And wipe that smile of your face, it's not funny."
+
+"Sorry. I'm just happy," Caden said, trying to adopt a neutral expression.
+
+"Happy? This weird Prophecy-level crap makes you happy?"
+
+"No," Caden answered, turning his face away. "I'm just happy we're friends."
+
+Devon coughed in mild embarrassment. "Okay, shut up. All this Prophecy-level stuff has made me hungry again. Let's hit the cafe."
+
+"After you," Caden gestured. As Devon walked out of the arena and Caden closed the doors behind them, he sensed the lightest touch of a mind on his. It was a mind he had never heard or felt before, though he was at least certain it was another person, but it was gone before he could pin it down in oblivion.
+
+'You walk a fine line, {~?~}. Cosmos favour you.'

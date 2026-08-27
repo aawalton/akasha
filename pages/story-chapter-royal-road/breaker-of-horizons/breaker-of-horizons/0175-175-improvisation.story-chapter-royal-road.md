@@ -1,0 +1,103 @@
+---
+id: 9c4247fa-7388-537d-8c0d-e8927ca59e2b
+page-type-slug: story-chapter-royal-road
+title: "175. Improvisation"
+slug: 0175-175-improvisation
+partOf: breaker-of-horizons
+position: 175
+ownLength: 2395
+unit: words
+publishedAt: 2022-02-03
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/837745/175-improvisation"
+royalRoadId: "837745"
+---
+
+Before Caden could respond to Kevan, the giant construct leapt into action, hurtling towards the twins with frightening speed, its wedge-like arms aiming straight for their torsos.
+
+The brothers moved in perfect harmony, throwing themselves sideways in opposite directions and then rolling into a half-crouch. The air between them rippled as they stretched a web of arcana between them, and the construct barrelled right through it. The construct's momentum carried it into a nearby wall, wrapped in the sequence that the twins had used. It appeared to be straining against unseen bonds, but after just a second, Caden felt the sequence break and it emerged from the rubble completely unharmed, then leapt towards Kevan, who was closest.
+
+The other members of the twins' gestalt joined the fray, harrying the construct with a steady barrage of heavy arcanic bolts, each blow fortified with more power from their battery. Caden could sense the barrage coming from two of the members, the third-years, while the remaining two second-years poured their arcana into it to fuel the amplification. It was a simple but effective arrangement.
+
+The barrage wasn't powerful enough to do any meaningful damage, but it did help to unbalance the construct, buying the twins a few moments to reposition themselves.
+
+'What now?' Caden heard a second-year senior ask in the arcana.
+
+'Not enough arcana. Battery won't sustain it,' one of the third-years replied.
+
+'Need a proper circle,' Kevan replied tersely. 'Lynus, scribe. Add a self-fuelling clause. I'll run interference. Everyone else, support me.'
+
+Their communication was quick, clean and efficient, devoid of any emotional clutter, with the ideas and concepts flowing with perfect clarity, so that even as an eavesdropper Caden could catch their plan without any loss of detail.
+
+Kevan started darting around the space, narrowly avoiding the construct's wild swings as it chased after him. His arcanic-assisted movements were more fluid than Caden's, but it was barely enough to keep him out of harm's way. Caden was quite sure that if not for the destabilising barrage, Kevan would have been dealt a crushing blow long ago. Meanwhile, Lynus was taking advantage of the distraction and hastily burning glyphs into the ground, forming a ring. Caden was surprised to see the twins being given the responsibility of taking point on such an endeavour when there were seniors in the group.
+
+"Well, what now?" Bertram asked, raising an eyebrow. He was still inside the room with the damaged wall, and appeared ready to make a hasty retreat back into the rest of the urban sprawl. "It kinda looks like they're gonna bring it down."
+
+Caden retreated a few steps and crouched by the fallen wall near Bertram, ready to spring forward at a moment's notice. "Maybe. But I don't think so."
+
+"Oh?" Bertram sounded unconvinced but intrigued.
+
+"Whatever they're trying... I don't think it'll work," Caden murmured, more to himself than Bertram, as he tried to read the intent of the glyphs in the arcanic sea without resorting to using his oblivion-level senses.
+
+"You recognise that sequence?" Bertram asked, with a hint of disbelief and delight in his tone.
+
+Caden didn't answer. He wasn't paying enough attention to Bertram to offer a considered response, and his focus was mostly taken up by the tantalising song of the glyphs that Lynus was scribing into the floor. They sang of binding, of stability, of stillness. He recognised parts of the sequence — it reminded him of the time he had seen agents frozen in Devon's manor, when the Geldor Spire augera had temporarily given the young lord the power to put people in stasis. But Devon's handwork, with the help of the augera, had been precise and elegant, and the augera had given Devon the ability to use glyphs of unknown provenance. They were glyphs of immense complexity and power, carrying weight even in oblivion. Lynus' work now was a faint facsimile of that, using Special Set glyphs that Caden was passingly familiar with, and the arrangement, while neat, was still too inefficient. It was decent work, and quite ambitious, but Caden highly doubted this homebrew recreation would perform under stress.
+
+"When they fail," Caden said to Bertram, tensing slightly in readiness as he fixed his eyes on the construct, "I need you to get them out of danger."
+
+Caden was pleased to note that Bertram didn't waste time on superfluous discussion. He wordlessly placed himself in a more supportive stance within the gestalt, throwing a tertiary shield over Caden and linking it to the battery before preparing several sequences and holding them at the ready. Caden wasn't familiar with them, but a cursory glance in the arcanic sea told him enough of their function, and he adjusted his plan accordingly.
+
+Lynus was almost done with his circle of glyphs. His gestalt members were keeping a close eye on his progress, and just before he was done with the last glyph that would activate the sequence, the whole group acted in perfect harmony.
+
+One of the third-years poured everything he had into the barrage to buy Kevan a little space and promptly fell into a state of overdraw. Meanwhile, the other third-year pulled together a modified beam sequence, completely draining her own arcana as well, along with the battery. She held it in place without firing it, just long enough for the two second-years to pour all of their resources into her beam before she manifested it directly above the centre of the ring.
+
+By then, Kevan had made use of that last barrage's distraction to position himself just slightly off the centre of the ring. When the construct lunged for him again after recovering, it went right through the centre just in time to be smashed to the ground by the beam. The sheer density of arcana packed into it was enough to pin it in place, and some flecks of grey material frittered away at its extremities, but the damage was minor. Still, it gave Kevan plenty of time to hurl himself out of the ring, just as Lynus burnt the last glyph into the sequence and sent arcana flooding through it. The self-fuelling clause took over, drawing in immense amounts of ambient arcana, far more than what even six arcansts could safely feed.
+
+The beam's energy died out just as the sequence flared to life. Caden felt the change in the arcana as it took effect, bathing the area within the ring in such utter stillness that it almost felt like he was being forced to hold his breath just by examining it. Motes of dust hung in the air, frozen. The construct was caught, the sound of its wild thrashing suddenly silenced. There was a visible separation in the air as everything outside continued to move unhindered, while everything else within the ring was held in stasis. In the ensuing quiet, the sound of Kevan's heavy breathing was extra loud.
+
+"Good job Kev, Ly," the third-year guy called, panting a little himself as he visibly struggled to cope with the venting after such a violent overdraw.
+
+Kevan was bent over with his hands on his knees. He waved a tired hand in acknowledgement, then straightened up, turned, and shot a triumphant grin at Caden. "See? Taken."
+
+Behind him, the stasis field shuddered. A sound like splintering glass filled the air, and in the arcanic sea, the steady flow of arcana in the sequence twisted and thinned.
+
+"Kev!" Lynus shouted, alarmed.
+
+There were cries of surprise from the seniors, but they were still overdrawn and in no fit state to even pull together a basic barrier, let alone any other defensive sequences. Kevan turned and saw the construct lift one heavy wedge-like arm. The movement seemed to cost it a tremendous amount of effort, but as it extended its arm fully above itself and brought it back down with a resounding crash, the resulting blow to the ground shattered the arcanic field of stasis. The glyphs that Lynus had hastily etched were suddenly scorched out of the floor, turning into melted, barely-recognisable shapes. The construct seemed to be possessed with frenzied energy as it leapt through the air, straight for Kevan.
+
+Kevan threw himself to the side in desperation, but there wasn't enough time for him to get enough distance. The construct's outstretched arm was going to catch him full in the chest with the broad side of the wedge.
+
+Bertram's prepared sequence went off, smashing straight into Kevan and carrying him just beyond the reach of the construct. The wedge came within an inch of Kevan's side as he hurtled through the air, suddenly wrapped in a rapidly expanding field of arcana that grew over him like a gel. Kevan smashed into a wall, but the gel absorbed most of the impact. His arena shields registered a level of damage that would have left him badly bruised.
+
+The construct didn't waste time trying to chase after Kevan who had been brought out of its immediate reach. It pivoted and went straight for Lynus, who was slower to react than his brother. But once more, before the construct got to him, he was unceremoniously punted out of the way by another of Bertram's gel-shield shots.
+
+It turned once again to find the next closest target, but before it could move, Caden struck.
+
+He flashed across the entire length of the field of battle, catapulted forward by a concentrated burst of arcana that turned him into a human projectile. The spike-like shield he had enveloped himself in gave him ample protection as he smashed into its side. It gouged out a small chunk, but although the damage was mostly cosmetic, it succeeded in sending the construct flying into the structure which the seniors were perched on. They managed to pull together just enough arcana to leap clear, leaving the construct momentarily buried in rubble.
+
+'Standard attacks obviously don't work very well,' Bertram sent to Caden, sounding a little disappointed. 'You wasted the element of surprise on that?'
+
+'Process of elimination,' Caden replied shortly, deciding not to reveal that he had put in more than three of their battery's worth of arcana into that spike from his personal font. He hadn't expected to take it out with that one blow, but he was quite surprised that it had so little effect. Even though the construct was made out of the grey material of the arena, it was clearly much more resilient than the structures or the lesser humanoid constructs.
+
+Bertram floated the notion of retreat across their gestalt link, leaving it as an unspoken question. 'I hope you have something better.'
+
+In response, Caden simply steeled himself and enveloped himself in a denser shield. Bertram picked up the general flavour of his sequence and fortified him with a tertiary shield once again, this time geared more towards absorbing blunt impact than maintaining structural integrity while being used as a projectile.
+
+The construct dragged itself out of the debris and flung several chunks of it at Caden almost desultorily. It would have been easy to dodge aside, but he was quite aware of the twins and the seniors watching him from the sidelines, nursing their injuries. As a show of force, he simply stood there and poured more arcana into his barrier. The debris shattered against the protections, leaving clouds of dust hanging in the air. Bertram's tertiary barrier wavered and died out, but Caden's own held firm. After the final chunk had pulverised itself on his shields, Bertram hastily reconstituted his tertiary barrier.
+
+'Geez.' He sounded impressed. 'Sorry. Dropped the ball there. But damn, your shields are rock solid.'
+
+Caden grinned in appreciation, but he didn't waste time on conversation. He was already building arcana, but not for a specific sequence. Instead, he pulled together the concepts he knew with the glyphs he had worked with in the course of the past term.
+
+Arcanic bolts and beams were powerful, but they essentially relied on blunt force. They were designed to shatter and break, not to pierce. Somehow, the construct was able to damnpen the incoming blows. If he wanted to hurt it, he'd have to think of piercing through the outer shell. A military-grade shield-piercer would do the trick, but he had a homebrew in mind that would use only what he had been exposed to in the course of his normal studies at the Academy.
+
+The construct seemed to hesitate after seeing Caden shrug off the debris without any difficulty, but it quickly gathered itself and charged towards him. The arcana in Caden's hand sparked to life as he forced his will upon it, transmuting the coalesced energy into a form of his choosing.
+
+A translucent blade manifested in his hand, almost as long as the construct was tall. He rolled aside, bringing the blade up just as the construct sailed past him. His blade passed right through its outstretched arm and its torso, but for a moment it looked like nothing had happened. The construct turned and readied itself for another charge.
+
+Caden released his hold on the arcana he had in reserve. The energy he had amassed in a rudimentary secondary battery raced down the path traced in the air by his blade and made contact with the construct. Its outer shell scattered some of that energy, but Caden's sword had planted an immutable route for it to follow, and most of the arcana sank through the tough exterior and suffused the construct. Once inside, it traced every fibre of arcana that animated the thing from within, growing rapidly like a series of roots — something he had picked up from his duel with Devon just the day before.
+
+In a matter of seconds, his hold over the construct was absolute. He didn't understand the glyphs that animated it, but he had complete control of the flow. With a simple twist, the links cut themselves to ribbons and the lines of arcana that fed the glyphs withered from the inside out. Since there were no physical anchors, there was nothing to sustain the shape of the sequence once the feed of arcana was gone. The construct froze, then fell over with a deafening crash.
+
+"Whaaaaat?"
+
+Caden turned and saw Bertram staring at him with his mouth agape. He grinned and gave a cheerful wave to the third-year Top Scorer. "That was pretty fun, wasn't it?"

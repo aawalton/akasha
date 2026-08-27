@@ -1,0 +1,71 @@
+---
+id: fcb44976-8d84-5dc2-a578-814dd990c312
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1671 - Shake Your Money Maker"
+slug: 0320-chapter-1671-shake-your-money-maker
+partOf: chrysalis
+position: 320
+ownLength: 958
+unit: words
+ownProgress: 958
+publishedAt: 2025-10-21
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2692658/chapter-1671-shake-your-money-maker"
+royalRoadId: "2692658"
+markedReadAt: "2026-06-29T19:54:02.949Z"
+---
+
+Hatchlings worked their way through the Antcademies believing that the Eldest had a plan in mind for all of the castes. The soldiers were intended to fight on the frontlines, with the thickest carapaces and the strongest mandibles, serving as the swords and shields of the Colony. Generals were intended to be fighting support, the second line of defence, providing auras, tactical know-how and their own formidable fighting prowess. Scouts, naturally, had been designed to move quickly, see everything and engage in a hit-and-run fighting style using their acid and speed. Mages for magic. Queens for egg-laying. Brood Tenders for rearing the young. Core Shapers to research and utilise pets. Healers to keep everyone alive.
+
+Carvers? Well, carvers were intended to make things.
+
+Yet… what to do with a carver who never made anything?
+
+“Do you… feel like working with metal?” the poor Brood Tender asked the hatchling.
+
+The little thing considered for a long moment, showing that unusual level of intelligence and consideration that had caught the attention of the Tenders to start with, then shook her head.
+
+This was a champion, of that they were fairly certain, but so far… they hadn’t had that much of a problem with her. She was relatively quiet, obedient and studious. When they recalled the disastrous time they’d had with Brilliant, even as a grub, this seemed to be an incredibly easy-to-raise champion.
+
+In fact, they had only encountered one difficulty so far in raising her. She said she wanted to make things. That was fine, that was what carvers did all the time. The only problem was, they couldn’t seem to work out what it was that she wanted to make.
+
+“You could carve wood? Lots of things are made from wood,” another of the Brood Tenders suggested helpfully. She started listing things the Colony made from the mana infused and even mundane wood that they harvested, and the little ant listened carefully.
+
+Some of the other Tenders thought it would be an enormous shame to have a champion of the Colony spend their time making furniture, but who knew how these things worked? Every champion seemed to be obsessed with something. Presumably, it was simply a matter of presenting options to the hatchling until she found out what it was she wanted to do.
+
+“No,” the hatchling replied. “I don’t feel all that interested in wood.”
+
+On it went. The Tenders presented option after option, craft after craft, and the hatchling listened, observed, then refused. Convinced they weren’t being thorough enough, they decided to take her on a tour of the many workshops in the Colony.
+
+From the first stratum, they took her into the mines to see ore being harvested. They took her to the great refineries, where the ores were initially processed and sorted before being smelted in the vast furnace stacks. They followed the ingots as they were delivered to the great smithies, where the pounding of cherry red metal and the ringing of industrial hammers set their antennae to quivering.
+
+The hatchling wasn’t interested.
+
+They took her to the tea fields, showed her the tender care that was given the precious plants, showed her the elaborate methods of harvesting, drying and processing the leaves before they were stored, ready for transport. The milk-processing facilities, where milk was brought in from the Colony-run cattle farms, millions of gallons a month, to be processed into butter, cream and cheese. The bakeries, where biscuits, scones and cakes were created, dozens of tons a day, before being shipped out to every corner of the Colony.
+
+The hatchling was unmoved.
+
+Growing desperate, the Brood Tenders sought out every master craftsant in the Colony, hoping to find whatever it was that would spark the little one’s interest.
+
+Carpet weavers created intricate patterns from coloured threads, expertly interlacing them to create images and shapes that pleased the eye with their symmetry and beauty. Lace makers, endlessly tatting with pure white fabrics to make decorative pieces for clothing and furniture. They even found the single, solitary ‘fashion designer’ within the Colony, a very peculiar and unusual ant who attempted, in vain, to interest her siblings in clothes.
+
+Nothing seemed to interest the hatchling in the slightest.
+
+She watched it all, taking in the information, but there was no inspiration or spark taking hold.
+
+Increasingly frantic, the Brood Tenders did something they would normally never allow, and took the hatchling to the surface, outside of the safety of the tunnels. There, they hoped to show her the humans in the growing city of Renewal and see their strange habits, wondering if something, anything, would interest her.
+
+The humans of Renewal were well accustomed to having ants moving amongst them, but not Brood Tenders, never Brood Tenders, so the arrival of their small group brought far more attention than they had hoped. Indeed, they found it rather surprising the humans had even been able to tell what they were.
+
+Thankfully, the people remained at a respectful distance, allowing them to take the hatchling to see the various sights. They showed her the cathedral and the… strange, strange people within.
+
+They showed her the offices, where the mayor and others worked to help administer the town, documenting all sorts of things and making decisions for the betterment of all.
+
+Finally, on the verge of giving up, they showed her a cafe.
+
+The hatchling watched the humans ordering food. She watched them eating it, drinking their tea and other beverages. She watched them talk and laugh amongst each other.
+
+None of it was interesting.
+
+Then she watched as they walked to the counter, reached into the strange little pouches they kept, withdrew something shiny, and placed it in the owner's hands.
+
+What, she thought, was that?

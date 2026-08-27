@@ -1,0 +1,87 @@
+---
+id: 8d5f7c9c-8268-54ed-a0c1-34fba67bb4d8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1486 - The Breach Pt 4"
+slug: 0134-chapter-1486-the-breach-pt-4
+partOf: chrysalis
+position: 134
+ownLength: 933
+unit: words
+ownProgress: 933
+publishedAt: 2025-01-15
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2010773/chapter-1486-the-breach-pt-4"
+royalRoadId: "2010773"
+markedReadAt: "2026-06-29T19:56:40.979Z"
+---
+
+The Krath left their captives behind, safely secured within their living nets, and swarmed onward. The mass of monsters they had driven into their attackers was starting to run out of momentum, yet there was life in it still. Zluth watched carefully as he slid toward the defenders once more.
+
+Confident that the invaders were pressed and unable to strike back, more of his fellow Krath were taking risks, exposing themselves in ways they never would have normally.
+
+With a piercing clicking sound, he summoned his war party to him, waiting for them to gather before speaking.
+
+“Be careful as we advance,” he warned them. “Something doesn’t quite feel right.”
+
+He could see they were feeling just as high-spirited as the others, but at his warning, they narrowed their eyes and nodded, accepting his word. Cunning and self-preservation were deep-running instincts for the Krath, and his warning had poured cold water on an overly-exuberant and uncautious atmosphere.
+
+The more he slid forward, the more his feeling of disquiet grew. The ants were still engaged in a fighting retreat, and there had been dozens of captives taken, but there were precious few casualties. When he tried to examine the unfolding battle dispassionately, he realised that although it looked like the invaders were desperate, with multiple punctures in their battle line, those gaps weren’t widening as time passed.
+
+Finally, he watched Chozth. The leader of the Krath in this war effort continued to exhort her followers to push, to destroy the platform pumping out toxic mana, but she herself had not moved much at all. In fact, as Zluth slid onward with his war party, Chozth was growing further and further away, hurling blasts of acid and demanding more from her followers.
+
+“Something is wrong,” Zluth muttered. “Something is very wrong.”
+
+His mind churned even as he supported the battle, shooting slime and acid to assist the monsters still frenzying at the boundary of the blue mana. What was happening? What was the play? There was danger all around him, but he couldn’t tell where it was coming from.
+
+Was it the mana?
+
+The blue field of toxin was rallying against the influx of natural fifth stratum energy, but he couldn’t see any sign that the Krath were going to get cut off. Indeed, the blue energy was still retreating. If that wasn’t it… what could it be?
+
+The ants?
+
+Chozth had ensured that the tunnels and surrounding rock would be monitored for any tunnelling activity, and so far no slug had sounded an alarm. It shouldn’t be possible for them to be flanked unawares.
+
+Was it Chozth?
+
+Betrayal from within was a daily occurrence for the Krath tribes, but to throw her own war party into the jaws of their enemies during an invasion was unacceptable. If word spread that she had committed such an act, her own tribe would devour her the moment she returned to the Slimeground.
+
+Zluth turned his eyes back to watch the sleek, powerful leader, even as he continued to make a show of supporting the fight. Chozth appeared as savage and confident as ever, but still, she wasn’t moving up along with the rest of them.
+
+Either she was betraying them, or she also felt something was wrong, but was content to risk lesser Krath for the chance of a great victory.
+
+At that moment, Zluth decided to halt.
+
+“Wait,” he demanded of his war party, and the slugs slid to a halt.
+
+In front of them, the battle still raged, the platform and its cursed, unnatural beasts had drawn closer, but was still hundreds of metres away. The push hadn’t lost all its momentum, but it was certainly slowing.
+
+They weren’t going to make it.
+
+Zluth saw a hint of movement, and both of his eyes snapped to it. It was an ant, not even a full ant, just a leg, but he knew to what that leg belonged. Before the creature could even fully emerge from its place, buried in the ceiling of the tunnel, Zluth was off and moving.
+
+“Ambush!” he roared. “Fall back!”
+
+His own war party reacted quickly, trusting in Zluth’s judgement, but others were not so fast, losing critical seconds as they cast about in confusion. Gleeful aggression did not transition smoothly into panicked retreat, and many Krath were too lost in their bloodlust and rage to realise what was about to happen.
+
+That confusion scattered like moss in the wind as the giant ant fully revealed itself, clacking its mandibles in a steady, intimidating rhythm.
+
+Zluth raced across the ground, pushing his foot to its absolute limits. He knew what was about to come, and if he didn’t get far enough away, there would be no escape whatsoever.
+
+With an audible thwump, the strange field snapped into being, and everything in the tunnel became flattened, smashed into the floor with inevitable force.
+
+But not Zluth.
+
+He and his war party were clear, they’d covered enough distance! Yet the triumph that surged in his flesh was short-lived, as he saw what was waiting before him.
+
+“CHOZTH!” he roared.
+
+The leader turned her eyes on him.
+
+“LOOK!”
+
+She followed his arms and looked behind her, hesitating for a brief moment as she failed to see what had riled up her subordinate. Then she noticed.
+
+Slowly, but with increasing speed, roots were beginning to emerge from the walls of the tunnel. Not just the walls; the floor and ceiling as well. In a matter of minutes, they would seal off the path of retreat completely.
+
+“RETREAT!” Chozth bellowed. “FULL RETREAT!”
+
+It was a trap!

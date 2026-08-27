@@ -1,0 +1,83 @@
+---
+id: 91ac2099-6973-5fe7-966a-f60348d4cb84
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1432 - The Scent of Slug (bad)"
+slug: 0080-chapter-1432-the-scent-of-slug-bad
+partOf: chrysalis
+position: 80
+ownLength: 1119
+unit: words
+ownProgress: 1119
+publishedAt: 2024-10-16
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1852450/chapter-1432-the-scent-of-slug-bad"
+royalRoadId: "1852450"
+markedReadAt: "2026-06-29T19:46:22.372Z"
+---
+
+Well, well, well. I’ve been cleared by the docs, and the vents have fallen silent, which means it's time to get back down to the depths as the Colony continues to take territory.
+
+Yay.
+
+Back into the burn, baby! Ah, the sweet sensation of my eyes being melted by acid, how I missed it! No matter how I try to force cheeriness, it’s deeply unpleasant to be exposed to the toxic mana. It’s difficult to think of anything else while I’m out in it. I mean, it literally burns my entire body, on the outside at least. And of course, it’s constantly attempting to work in and melt me from the inside as well.
+
+Whatever the next stratum is, it cannot be as bad as this.
+
+Quick, touch wood! But there’s no wood! Dammit! Now I’m going to get down to the sixth and find out it’s basically like standing on the surface of the sun, or something. Or perhaps the temperature is just absolute zero in there and I won’t even be able to move.
+
+Come on, Anthony, think more positively! The fourth is such a nice, pleasant place to be, filled with life and light and sparkling water. Maybe the sixth will be filled with soft blankets that hug you!
+
+I can dream, dammit!
+
+I should probably focus. Despite leaning on my many minds and divergent thinking to monitor my surroundings, I do need to pay close attention. The monsters here are still a threat.
+
+There aren’t that many around me right now. This close to the purified mana produced by the wuffers, the native monsters were able to sense it and rushed upward to attack us a long time ago. New creatures are spawning, but even here, they’re weak enough that I can deal with them relatively easily.
+
+The monsters down here are… different from the monsters I’ve run into before. Fifth stratum monsters aren’t as directly strong as creatures from the fourth or even the more powerful demons from the third. They don’t move fast, or hit hard, or cut savagely, or attack with mana as relentlessly as the monsters from before. Instead, they’re… tricky. They do everything they can to spread their own particular brand of acid, or toxic slime, or putrid, contaminating filth, and let that do the bulk of the work for them.
+
+Then half of them seem almost designed to die. They explode in an eruption of goo that will kill even me if it touches me, then out of the goo come a thousand wiggling little worms that try to burrow into my carapace, or jump into a nearby patch of mould, just waiting for an unsuspecting monster to come nearby.
+
+I found a monster that literally attached itself to a wall and just fires a doom-spike of doom at anything that comes past. Without my precognitive abilities, I would have been spiked, and then no doubt digested from the inside out as it injected me full of awfulness.
+
+I guess what I’m trying to say is, the monsters here are just as bad as the environment. Zero stars. Do not recommend.
+
+Gah, where am I supposed to go, again? I mentally check in with Solant for a second using the Nave. I really need to use this thing more often, especially since it doesn’t seem to be affected by the corrupting nature of the fifth like regular mental communication.
+
+[Hey, Solant. How deep am I meant to go again?]
+
+[You asked me this exact question five minutes ago.]
+
+[Hey, it seems to me like that doesn’t answer my question. Kinda weird you would waste time saying that, since you’re so busy and all.]
+
+[I am busy. Extremely busy.]
+
+[Suuuure.]
+
+I know she’s busy.
+
+[Follow the tunnel down for three kilometres.]
+
+I can practically hear the mental sigh she is no doubt unleashing with all of her might. I cheerfully ignore it.
+
+[Right, three kilometres, gotcha.]
+
+The tunnel I’m in is just as comically huge as the ones I was in before, and it slopes down rather severely. Not that it’s a problem for me and my amazing claws, I can handle a puny slope like this!
+
+My destination confirmed, I head on down the tunnel, keeping my eye out for parasites, worms, slime, mucus and all the other pleasant things I have come to expect from this place.
+
+Solant’s plan for the initial invasion calls for us to push exactly twenty kilometres deep in order to construct the mega-base that will become our safe haven in this stratum. At the moment, we’ve only made it a little over half of that distance, so there’s a long way into the depths that I need to go.
+
+At least I know the Colony is busy descending right behind me. The wuffers are wuffing away, purifying mana, and my family is scrambling to catch up to the schedule.
+
+After all the setbacks we’ve had, and sneak attacks I’ve suffered, I’m on full alert as I proceed down the tunnel. The deeper we get, the thicker and more disgusting the mana becomes, which is reflected in the environment. There’s more strands of slime connecting the floor to the ceiling, more mould in all sorts of crazy colours, some offensively bright, others muted to the point they blend in with the rock. There’s mucus rivers, even mucus waterfalls that ooze down from above and vanish into gaps in the floor, seeping far below. And the mucus itself is getting worse! Thicker, more virulent, with creepy colours flecked through it. I swear sometimes it moves on its own.
+
+Yuck.
+
+Stepping around one particularly disgusting mucus pool, I get a tingle from my antennae, followed by the sight of something stabbing out at me from beneath the surface. Exploding into motion, I roll to one side, crushing rocks, mould patches and a worm, as it turns out. Yet, despite my forewarning, the attack I saw doesn’t eventuate.
+
+Or perhaps it did? There was a flicker, barely there….
+
+Suspicious, indeed.
+
+Well, this won’t do. Gathering my mana, I put my minds to work, and soon the pool is subjected to an enormous blaze of Dragon’s Breath. The temperature in the tunnel skyrockets as I unleash the scorching fire upon the mucus, which bubbles and churns in a frankly awful way.
+
+When all is said and done, I melt the pool to nothing. There were a few little bitey-looking eels in there, but I don’t think they were responsible for what I saw. On closer inspection, I do find something else that warrants my attention. A gap in the rock, very small, very narrow. Not much could fit inside that… but a certain species of squishable slug could.

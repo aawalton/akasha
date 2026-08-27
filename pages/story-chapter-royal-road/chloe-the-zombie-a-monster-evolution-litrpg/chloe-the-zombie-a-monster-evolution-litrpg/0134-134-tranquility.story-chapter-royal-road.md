@@ -1,0 +1,125 @@
+---
+id: 43f1421f-4020-5520-8e15-e1882f9dca01
+page-type-slug: story-chapter-royal-road
+title: "134: Tranquility"
+slug: 0134-134-tranquility
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 134
+ownLength: 1851
+unit: words
+publishedAt: 2026-04-03
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3227132/134-tranquility"
+royalRoadId: "3227132"
+---
+
+Chloe knew that she was so very close to winning. Sabine struggled to keep her balance, blood running down her face.
+
+But then, suddenly, Sabine’s body flared with lightning, the air around her snapping and hissing as electricity surged violently across her form, far stronger and more unstable than before. The shallow water at her feet began to ripple and churn as stray arcs of lightning struck the surface, sending sharp bursts of steam and tiny explosions outward.
+
+Chloe froze for just a fraction of a second, her brain lagging behind what her eyes were seeing as the sudden spike in power hit her all at once. She had no idea where Sabine got all this power from all of a sudden.
+
+In Chloe’s mind, there were only a few ways to explain Sabine’s sudden power spike. Either she had been holding back this entire time, or this was one of those last-minute, near-death boosts people sometimes got. Chloe really hoped it was the second one, because if it wasn’t, then yeah… she was in a lot of trouble.
+
+What made it worse was that Sabine smiled. The lightning around her twisted and pulled inward, gathering tightly where her missing arm had been. The energy kept compressing again and again until it finally took shape, forming a glowing arm made entirely of crackling electricity.
+
+And what made it even worse was that creating a limb made of lightning was so cool! Chloe would've admired it more too if it weren't for the fact that Sabine was totally going to pummel her to death with it.
+
+Sabine vanished in a burst of lightning that cracked like thunder inside the narrow tunnel, the sound slamming against the walls as a streak of white-blue light shot forward.
+
+Then Chloe felt something hit her. The impact slammed straight into her chest like a hammer, hitting with overwhelming force and driving her down into the ground as the stone beneath her cracked on contact, jagged fractures spreading outward while the shallow water exploded into a wide splash.
+
+The force shook through her entire body, her vision rattling as her back hit the floor hard, sending ripples across the flooded surface while loose debris shifted and slid around her. Before Chloe could even react, she was already pinned.
+
+Sabine stood over her, lightning raging as it snapped and lashed into the surroundings, striking the walls and ground in uneven bursts that left scorch marks and thin trails of smoke. The glowing arm of electricity was raised high above Chloe, crackling with so much power.
+
+Chloe squinted up at her, her grin slipping just a little as her thoughts scrambled in that familiar, slightly panicked way that meant things had gone very wrong, because getting her head smashed in right now would probably be a huge problem, a very permanent problem.
+
+She was preparing to cast [Divine Shield] to block the incoming attack, but Chloe also wasn't sure if her shield would even pop up in time considering Sabine's speed. But if there was even a small chance she could make it, then she'd take it.
+
+Sabine’s lightning flared brighter as her arm came down… until it suddenly stopped. Chloe blinked once, then twice, her brain taking a second to catch up as she realized she was still there, still intact, and very much not missing her head. “Huh?”
+
+She waited another second, just in case, before slowly opening her eyes wider, staring up at Sabine, who was still above her but no longer moving. “Umm, am I… not dead?”
+
+For a brief moment, there was no answer, just the faint crackle of electricity fading in the air as the last few sparks flickered weakly before disappearing. The lightning around Sabine dimmed, sputtered unevenly, and finally went out completely. The glowing arm collapsed into nothing as the energy dispersed, and just like that, Sabine’s body seemed to lose all strength as she dropped forward, landing right on top of Chloe.
+
+Chloe let out a soft wheeze as the weight hit her, her arms coming up on instinct while she blinked in confusion, her brain struggling to piece together what had just happened, because this was definitely not how she expected things to go.
+
+Sabine shifted weakly, looking like it took far more effort than it should have as she barely managed to lift her head enough to look at Chloe. “This is your win. I’m done… fighting.”
+
+Chloe blinked again, still lying there with Sabine on top of her. “Huh?”
+
+She was struggling to process that the fight was basically over, but then again, Chloe wasn't going to complain too much. She stared at Sabine for another second before awkwardly pushing her off and sitting up, water sloshing around her as she wriggled free. Grabbing Sabine by her remaining arm, Chloe dragged her across the ground and set her down on a slightly drier spot nearby.
+
+“Okay, hold on,” Chloe said as she brushed grime off her shoulder. “You’re actually giving up?"
+
+Sabine let out a quiet breath, her chest rising slowly as she stared up at the ceiling, her body looking completely drained now. “It’s not like I want to give up. But, let's just say that I'm all out of juice."
+
+“Yeah, but like, you totally could’ve just killed me back there, right? You had me pinned and everything, and I was like, super about to get my head smashed in.”
+
+“Even if I did, I doubt it would’ve worked. You would’ve survived somehow, so I figured… I might as well talk a little before it’s over.”
+
+Chloe stared at Sabine for a moment, because it wasn’t like she suddenly liked her or anything. Sabine had literally tried to kill her multiple times just now, which was very rude, but still… seeing her like this just felt off. “So like, do you have any last words or something? Anything you wanna say before, y’know… poof?”
+
+Sabine was quiet for a moment, then she let out a slow breath. “I wish I had done a lot of things differently.”
+
+"Like what?"
+
+"A lot, but most of all, I do somewhat regret joining Sol."
+
+"Eh? Then if you feel bad about it why did you join Sol in the first place?"
+
+"I'd tell you more if I wasn't dying, but… I'm about to go out here. So, instead, let me just tell you this."
+
+"I'm listening." Chloe said.
+
+Sabine let out a weak, unsteady breath, her chest rising just a little before slowly falling again, like even that small effort was starting to cost too much. Her eyes drifted toward Chloe, no longer sharp or guarded like before. as if whatever tension had been holding her together was finally slipping away. “You’re a good person… or, uh, zombie, Chloe. I hope things work out for you… in the future.”
+
+Her lips curved into a tired smile after that, something gentle and almost peaceful, so different from the cold expression she had worn throughout the fight that it felt strange to look at. Chloe just stared at her, as she really wasn't sure how to feel.
+
+Sabine’s breathing grew quieter with each passing second, her chest rising less and less as the pauses between each breath stretched longer, until it felt like the air itself had gone still around them. The sounds of the sewer returned slowly, the faint drip of water, the distant echo of movement, filling the silence.
+
+Her fingers twitched once, barely noticeable, and then went still. The faint smile remained, but everything else faded.
+
+“Sabine?” Chloe asked.
+
+Although she wasn't sure if Sabine was dead, the System soon confirmed things for her. In a morbid kind of way, it was kind of convenient for a situation like this.
+
+[You have killed: Sabine Averine (Storm Caller of Sol - Level 65)]
+
+[Experience Awarded]
+
+[You have leveled up! 11 >> 15]
+
+[Strength +10, Speed +90, Vitality +10, Magic +85, Resistance +10]
+
+[Skill Upgraded: Lightning Affinity VII >> Lightning Affinity X]
+
+[Skill Upgraded: Lightning Blast VI >> Lightning Blast VIII]
+
+[2 Trait Points Awarded]
+
+Chloe stared at Sabine’s body for a long moment, her thoughts moving a little slower than usual as everything finally started to settle, because… she had actually done it. She had beaten Sabine, just like that.
+
+It wasn’t like she felt crushed or guilty or anything, because yeah, Sabine had been trying very hard to kill her just a few minutes ago, so this was kind of expected, but there was this small, quiet thought in the back of her mind, wondering if things could’ve gone differently somehow, if there was a version of this where Sabine wasn’t part of Sol, where she wasn’t standing here like this at the end.
+
+A version where Sabine could’ve actually been her mentor. Chloe huffed softly and shook her head, like she was trying to push that thought away before it got too heavy, because yeah, that wasn’t how things turned out, and there wasn’t much point thinking about it now.
+
+But at the very least, she probably shouldn’t just leave Sabine here. Chloe pushed herself to her feet, water shifting under her boots as she stood over the still body, glancing around the damp, broken sewer with a slight frown.
+
+The place was cracked and scorched from their fight, bits of stone scattered around, and faint burn marks still lingering where Sabine’s lightning had struck. Definitely not the kind of place someone should be left behind in.
+
+Chloe was already thinking about burning the body so it wouldn’t just rot here, but before she did that, she paused, tilting her head as another thought popped into her mind. Probably should take a look at her stuff first, see if she has that black cube too.
+
+She crouched down again and started checking Sabine’s body, patting along her clothes and gear, her movements quick but curious as she looked for anything useful, especially that weird black box she was supposed to get. But there was nothing particularly interesting on Sabine.
+
+“Wow, okay, rude,” Chloe muttered, sitting back on her heels with a small pout.
+
+With that done, she looked back at Sabine, her expression softening just a little. "You were alright, I guess. You know, minus the whole trying to kill me thing. That part was kinda bad.”
+
+She paused for a second, then added, “I hope you end up somewhere better somehow.”
+
+For a moment, she just stayed there, looking at Sabine one last time before nodding to herself. Time to burn the body, pretty sure this is respectful in some cultures. Or at least, that's what I remember from watching that documentary about the Cliff People in… eh, whatever.
+
+Chloe lifted her hand slightly, already starting to gather fire, but then she froze as something very important hit her again.
+
+Sure, she was super smart now, but at the end of the day, she was still a zombie, and zombies got stronger by eating brains. And Sabine probably had one of the best brains she was going to get her hands on for a while.

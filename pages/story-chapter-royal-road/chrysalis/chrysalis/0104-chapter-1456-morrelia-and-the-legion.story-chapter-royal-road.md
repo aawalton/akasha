@@ -1,0 +1,125 @@
+---
+id: 4f39c730-6d03-5e8e-9c9a-12f7f2d7f133
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1456 - Morrelia and the Legion"
+slug: 0104-chapter-1456-morrelia-and-the-legion
+partOf: chrysalis
+position: 104
+ownLength: 1115
+unit: words
+ownProgress: 1115
+publishedAt: 2024-11-19
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1911803/chapter-1456-morrelia-and-the-legion"
+royalRoadId: "1911803"
+markedReadAt: "2026-06-29T19:47:24.467Z"
+---
+
+“I hate the fifth,” Morrelia groaned.
+
+“So you’ve said,” Joshen noted, “several times.”
+
+“Did you do officer training here, tribune?” she asked, peering at the surroundings with open dislike.
+
+She’d hoped never to come back here after the hellish officer course. Somewhere down here, perhaps thousands of kilometres away, the facility she’d stayed in was still there, a new batch of trainees being put through their paces, suffering just as she had suffered.
+
+“I did,” he replied. “I was part of the training group before you, I believe.”
+
+She turned to look at him. As usual, Joshen had taken some pains with his appearance, his golden hair and armour gleaming even here. How on Pangera he managed to find the time to bother with it was a mystery to her. Morrelia was busy from the moment she woke up to the moment she went to sleep. Only when on duty in the tunnel did she have time to think. When the monsters weren’t charging, there really wasn’t much to do except stand about and be ready for when they did.
+
+“How do you feel about this stratum?” she asked.
+
+“I hate it,” Joshen replied, his tone flat. “Does anyone like it? There aren’t any redeeming qualities to this place.”
+
+“And now you’re here again in the company of a million monster ants. How do you feel about that?”
+
+“Bad.”
+
+“That’s it?”
+
+“I think it communicates the necessary information.”
+
+“It’s a bit lacking in detail.”
+
+“What do you want me to say?” her fellow tribune sighed.
+
+The two of them stood side by side in the centre of the line, disciplined ranks of Legionaries lined up on either side. Before them, the slimy, mucus-filled haze of the fifth stratum stretched out across the entire width of the tunnel. For now, nothing stirred. The Colony had already crushed most of the monsters in the area, and they only had to deal with the newly spawned creatures.
+
+They were in the fifth… but…
+
+Morrelia looked around them at the comforting bubble of blue that enveloped them all.
+
+“I never thought it would be so boring here,” Morrelia complained.
+
+They were safe from the toxic atmosphere, and there weren’t many monsters to fight. This was supposed to be the most inhospitable and dreadful place in the entire Dungeon! What was with this peaceful environment?!
+
+“You’d rather it was more exciting?” Joshen asked, raising a brow.
+
+“No,” she replied definitively, “I’m just having trouble reconciling the image in my mind with my experience. I don’t feel any sense of danger. I almost wish something would happen to restore my sense of normality.”
+
+Joshen turned away from the tunnel before them to look back down the line. The Legion had completed work on their fortified camp the previous day, which had pleased the troops. Mages had to do the bulk of the work, but even the foot soldiers were required to put their backs into preparing the ground.
+
+Then he frowned, appearing to notice something unexpected.
+
+“How about that? Does that relieve you of your boredom?”
+
+Morrelia couldn’t imagine something behind them that would relieve her boredom. At least… nothing good came to mind. She could think of several things she most definitely didn’t want to see.
+
+Almost afraid to look, Morrelia turned her head, then snapped back to attention a moment later.
+
+“I need to leave my post for a moment.”
+
+Joshen frowned at her.
+
+“You can’t leave your post. What are you saying? The Commander would throw a fit.”
+
+“She doesn’t have to know!” Morrelia hissed.
+
+“But she would,” Joshen pointed out. “I would tell her. What’s gotten into you, are they really something we need to worry about? Are we under attack?”
+
+“You aren’t,” she muttered.
+
+For a moment, she actually considered making a run for it. If she went and hid amongst the rank and file, surely she would escape notice. Joshen would report her, and Chyron would chew her out, perhaps even put a note on her file, but it was possibly worth it!
+
+In the end, she was unwilling to let her fellow tribune get one over her so easily, not on account of that idiot. Whatever happened, she would deal with it. How bad could it get?
+
+A minute later, a Legionary approached the two officers with the message she’d been dreading.
+
+“Tribunes. Messengers have arrived from the Colony. They wish to speak with you directly. Do they have permission to approach?”
+
+“They do,” Joshen affirmed, quick to step into the authoritative role before Morrelia had the chance. “We’ll meet them here.”
+
+“Very well.”
+
+Morrelia didn’t bother to turn around and kept her eyes affixed on the tunnel, desperate for a tsunami of slime, an avalanche of mucus, a Krath invasion, something.
+
+The soldiers around her tensed, and she could hear the sound of ant legs crossing the stone as they approached. If only it was just ants, then she wouldn’t be worried.
+
+“Nice to meet you, tribunes,” a familiar voice said, “my name is Isaac Bird and I serve as captain of the ant cavalry. This is my partner, Cavalant.”
+
+Morrelia turned just as the ant in question finished giving them a friendly wave, expecting to see Isaac staring at her, as he usually did, only to be surprised. He wasn’t staring at her, he was staring at Joshen. And he didn’t look happy.
+
+Oh Dungeon. Please take me now.
+
+“And who might you be?” Isaac asked, sitting tall in his saddle and knuckling his moustache.
+
+“Tribune Joshen Aurelis. You may address me as Tribune, or Tribune Aurelis.”
+
+“We don’t much stand on ceremony in the Colony, A real man is more than just a title,” Isaac said.
+
+“In the Legion, we do. Address me correctly and I will show you the same courtesy, Captain Bird.”
+
+“If you insist, Tribune.”
+
+The two men continued to exchange level stares, and Morrelia desperately wished she could just slide out of the frame. For his part, Joshen appeared mildly confused and a little affronted, whereas Isaac was bordering on openly hostile.
+
+“Why are you here, Isaac?” she asked, partly to end this conversation as soon as possible, and partly to stop him glaring at a Legionary as if he wanted to punch them.
+
+Isaac turned to face her, and his stern glare melted into an oafish, wide-eyed look that she found particularly disturbing.
+
+“The Colony wanted someone to act as a liaison to your Legion and, of course, I volunteered.”
+
+“I bet you did.”
+
+“I’ll be posted here along with a few of my people for the next while. I’m sure we can have an effective partnership.”
+
+“Please direct all correspondence and enquiries to Tribune Joshen.”

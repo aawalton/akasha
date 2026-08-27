@@ -1,0 +1,134 @@
+---
+id: c8c01e47-7790-5497-87d4-b164e21e80a5
+page-type-slug: story-chapter-royal-road
+title: "154 - Taking Control of Things"
+partOf: bunny-girl-evolution
+position: 20
+ownLength: 3172
+unit: words
+ownProgress: 3172
+publishedAt: 2025-12-13
+link: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/2843816/154-taking-control-of-things"
+royalRoadId: "2843816"
+markedReadAt: "2026-06-29T20:03:18.535Z"
+---
+
+Elise barely remembered returning to her room. She was half in a daze after Rayna’s words, going in mental circles trying to figure out exactly what they meant. If the bargain worked how it should have, then everything Rayna said would have to be true, but if Oberon had taught her anything, it was to be careful of wording, and “responsible for” was just not very clear. Were their deaths intentional on his part, or did he make a mistake?
+
+Either way, it wasn’t a good sign. He was involved enough with each of them that Rayna could truthfully say he caused their deaths, and now he was getting involved with her. Once was an unfortunate accident, twice was suspicious, and thrice… Well, she didn’t really want to find out the hard way.
+
+At the same time, she had to wonder why Rayna even told her that. And why she wouldn’t elaborate. Elise had asked her what she meant, but Rayna said something vague about 9th tier politics and how Elise’s blood wasn’t valuable enough for the full explanation. It was reasonable enough that Elise couldn’t call Rayna out for hiding things, but convenient enough as an excuse that she was also pretty sure that Rayna was hiding something.
+
+If Rayna had actually told Elise out of a sense of concern for Elise’s safety, then whatever restrictions she was under must have been pretty strong, because Elise saw no reason to hide the details if that was the case. If she wasn’t sharing out of concern, then she was intentionally hiding details that would change Elise’s view of the information. Her first instinct was to think that perhaps Freddy was innocent, and that the full context would exonerate him, but a small thought in the back of her mind held her back from going all in on that theory.
+
+What if it’s worse?
+
+As much as she didn’t want to think about it, it was a distinct possibility. Rayna might have been trying to spare her feelings. Let her drift away from Freddy on her own before hitting her with the full truth about what he had done.
+
+No matter what was going on though, the situation was unpleasant. Either Rayna or Freddy was likely to become her enemy because of the secret that she now knew. Maybe both.
+
+She let out a long sigh and stared up at the ceiling. Whatever the case, her current situation didn’t change much though. If Freddy truly was her enemy, then changing her actions would only make him suspicious. If Rayna was her enemy… Well, all she needed to do was not summon her again. That wouldn’t guarantee that she wouldn’t return, but it sounded like Rayna wasn’t in the area at the moment, so there wasn’t much to do there.
+
+Elise thought about the date of the next Ostra meeting, and was pleased to realize that it was on a Saturday, which happened to be the same day that the Nature Magic club that Professor Sucri had told her and Sophie about met. She was already strongly considering joining, but if it could help her avoid Ostra for the time being, then she would gladly use it as an excuse.
+
+For now, she just needed to focus on herself. Her overall goals didn’t change with this information. It was more important to focus on the rest of what Rayna had said in regards to her soul defense.
+
+With that mind, she sat back up and entered soul meditation. She appeared where she usually did, right in the center of her soul realm in the bedroom, the only solid structure. It was looking much better than it had at first. Rather than being a poor Frankensteined amalgamation of modern Earth and the fantasy world, it was more of a smooth in-between state. She hadn’t fully decided on what she wanted her soul realm to look like, but for now, just to get accustomed to shaping things, she was working on at least making things cohesive.
+
+Her own soulshape was another ongoing project. She hadn’t started on the rest of her body, but her arms were starting to look almost human. They were generally the right shape, had the right number of joints, and she was even starting to develop visible fingers. Kind of. Her hands looked a bit more like small baseball mitts than real human hands, but they were getting there. In her last soul meditation session, she had decided she was going to work on getting rid of the webbing, but after her conversation with Rayna, she decided to postpone that temporarily.
+
+She had gotten accustomed to moving around in her soulspace, so she flew out of the developing bedroom into the nebulous void that made up the rest of her soulspace. There were bits and pieces of solid things floating around, but nothing complete, and nothing worth noting. She flew past it all, stopping at the edge of her soul before looking back to see that her bedroom now looked tiny.
+
+My soul realm is huge, she thought. I’m supposed to have complete control over this whole space?
+
+Given her present state of barely being able to repair cracks in the wall of her tiny bedroom, having full control over her entire soulspace felt like an insurmountable task. Especially reaching the state that Maggie’s soul had. She had an entire landscape there, complete with a sky and sun. Was her soulspace really that big? Or did it just appear that way?
+
+Looking around at her own soulspace, she couldn’t even conceive of how she would get it to that state. At the same time, she desperately wanted it. The talk with Rayna had not only been insightful, but it seemed to have awoken something inside her. It was as though acknowledging her desire for self control had amplified that desire.
+
+She was concerned for a moment that Rayna had done something to her mind, but after a few seconds of introspection and examining her soul, she brushed the thought aside. No, that desire was something she had always had. It was just that only now was she recognizing it and allowing it into her conscious mind.
+
+Control, she thought, turning back around and putting a hand to the edge of her soul.
+
+It felt… fleshy. Kind of. It certainly wasn’t solid, and it had a bit of give beneath her fingers like skin, but the further she pressed, the harder it was. Whatever the edges were made of, they were cushioned, slightly. They didn’t feel weak, but as she observed, she noticed that the fog in her soul—her aether—passed through it like it was porous. It was porous. Just not in a way she could directly sense. And its porousness went both ways.
+
+She only had a few vague ideas on how she could strengthen her soul, but she thought that sealing it up sounded like a solid first step. It was familiar as well, since it reminded her of her meditation to unlock her mana cores months before, just in reverse. There, she was trying to open the pores, and this time, she was trying to close them. How she would do that though…
+
+Don’t overthink it, she told herself.
+
+She recalled how she had started going about unlocking her mana cores the complete wrong way at first, focusing too much on smaller details and making everything more complicated than it needed to be. She wouldn’t have been surprised if it was the same here. She didn’t need to worry about how to make her soul less porous. She just needed to will it to be less so.
+
+So that was exactly what she did. Affecting her entire soul wasn’t something she was entirely confident in, but then again, she had done it just fine earlier when Erin was using her illusions. Sure, she was expelling foreign aether, not messing with her soul’s porosity, but they were close enough, right?
+
+She firmed her resolve and focused, and to her surprise, just a few seconds later, she saw the effects. And not only did she see them, they were actually quite strong. The flow of aether leaving her soul drastically reduced. It resumed in full force as soon as she let go of her hold on it, but she was able to regain control with almost no effort.
+
+Okay, that was easy, she thought. Now what?
+
+She was pleasantly surprised at how simple it had been, but she wasn’t sure where to go from there. She presumed that this effect would work similarly on aether trying to enter, or at the very least, she could achieve something similar. Unfortunately, she didn’t have any foreign aether trying to get in at the moment, so her practice was limited.
+
+She messed around with the aether in her soul for a bit longer before giving up on defensive work and returning to ordinary soul meditation. Rayna had mentioned that her classroom would be the best place to practice and experiment. Still, Elise felt bolstered by her experience, and though she might have been imagining it, she felt like her control over her own soul was already improving. At the very least, she made good progress on her soul form. The webbing wasn’t completely gone, and her fingers didn’t look completely human, but it was a lot of progress for a single session.
+
+When she exited her soul, many hours had passed, so after grabbing a quick bite to eat, she went to bed. The next day was uneventful. Aetheric Illusions that day was not a practical class, and was just more theory, so she didn’t have a chance to practice much. She did end up giving up on paying attention during Modern Language though and instead did some more soul meditation. {Tongues} was just completely screwing her over in the class, and she had no idea what was going on. She was a bit worried that would cause her to fail the course, but she frankly wasn’t willing to put in the effort to prevent that. While she wasn’t completely keen on it, she was sure she could cheat her way past the class if she needed to, and if not… Well, hopefully Titania was telling the truth, and it wouldn’t actually matter in the end.
+
+In defensive gardening, she and Sophie both told Sucri that they were going to attend the club meeting. Elise had briefly discussed it with Sophie, and while Sophie wanted to be a complete archmage, not just a nature mage, Irylax encouraged her to join the club, at least for the semester. She could always switch to a new element in the next semester, but spending some time with just one element for a bit would help her out in the long run.
+
+In Basic Unattributed Spells, Elise was once again reminded of the fact that she needed to complete the {Mana Shield} Skill Quest. The professor was treating her like an assistant and having her walk around the class, and as much as she enjoyed doing free labor, she actually didn’t, and wanted to learn more unattributed mana spells so she could unlock {Mana Manipulation}.
+
+That evening, she and Sophie once again failed to get {Mana Shield}, but Elise could tell that they were close. Finding the exact point where Sophie’s attacks were deemed “legitimate” by the System was tricky, but it was getting to the point that Elise’s concern about getting hit was legitimate. It wouldn’t be fatal, but it would definitely hurt her if she didn’t intercept the attacks properly. She was tempted to have Sophie just dial the power way up and deal with the consequences after if she needed to. She could always {Fairy Dust} her injuries away, and if it was too severe, she could use one of her divine aether charges while she still had them.
+
+Sophie was already struggling to increase her power though, since she was too worried about causing permanent damage, and Elise didn’t want to be responsible for any mental scarring if things went wrong. It was better to just take the slow and steady route, even if it might take a day or two longer.
+
+The day after was Friday, the last day of classes for the week, and it really felt like a Friday. Elise wasn’t sure if she imagined it, but even her mandatory classes felt more laid-back, and the professor for History of the System even let them out a few minutes early. In Aetheric Illusions, Erin was back, and they played a few more observation games with her before being let out early there too.
+
+Elise used the few extra minutes to talk to Jessie who unfortunately still hadn’t managed to earn more freedom from the church. Elise was starting to wonder if she should take a more active role in trying to help, but decided to give it another week. Titania said that Jessie would be able to do it herself, and Elise had enough other things on her mind.
+
+That evening, she and Sophie finally succeeded in completing the {Mana Shield} Skill Quest. It actually happened on only the fourth attempt, meaning that if they had just kept going a bit longer the previous day, they would have gotten it then. Elise was a little annoyed at that, since if she had unlocked it there, she would have been able to skip out on Basic Unattributed Spells, where she had almost run out of mana from demonstrating {Magic Missile} for the other students to help them out.
+
+She promptly went right back to campus and talked to the front office about switching out of the class. It was past sunset, but the office was open at all hours, thankfully, and even more thankfully, they didn’t need her to talk to the professor to confirm that she was ready to switch out. It was quite simple to demonstrate that she knew all three of the required spells, so they just switched her out right there. And even better, there was an Intermediate Unattributed Spells course that took place at the exact same time in the same area of campus, so her schedule was barely even changing.
+
+That night in her soul meditation, she got her arms to the point that she was having diminishing returns on her efforts, so she started on her legs instead, as well as furthering her progress on her bedroom. Now that a full two days had passed since her conversation with Rayna, she could tell that her control over her soul was definitely progressing. The bedroom in her soul was changing at a visible rate, and at least externally, her body was beginning to look close to whole.
+
+She also felt a lot more certain about her path. It wasn’t that she knew exactly what she wanted to do, but she knew that whatever she did, she would be focused on self control, and that resolve seemed to be enough to accelerate her progress on her soul form. At the rate she was moving, she expected that she might be able to finalize her form within the next month or two.
+
+The next morning, she enjoyed a nice long rest, sleeping in an hour and a half later than she usually did on school days, and having a lazy breakfast of something similar to french toast. It was a recipe that Bianca was still experimenting with, but Elise thought it tasted pretty damn good.
+
+She had a lazy day for the rest of the day, taking a break from her constant practice to read and talk with Sophie before they got ready to head to the Fighting with Nature club meeting in the mid-afternoon.
+
+“Hey, Sn– Eleanor,” said Sophie as they walked.
+
+“Yeah?”
+
+“Is fighting monsters scary?”
+
+Elise glanced at Sophie, who was fidgeting with her fingers, and realized that the other girl had never actually gone hunting. It felt strange that someone as high level as Sophie could have never hunted, but Elise reminded herself that unlike her, Sophie was a humanoid. She didn’t need to hunt to level.
+
+“It is at first,” said Elise. “But once you figure out what you’re doing, it gets way easier.”
+
+“Do you think the monsters in the Dungeon will be scary?”
+
+“Maybe?” said Elise. “I don’t know. I probably should have done more research on it, so I don’t know much about it. But I know that the ones on the upper levels are supposed to be weak, so they shouldn’t be a problem. You’re strong. You’ll be fine. And if you’re not fine, I’ll protect you. I’ve fought lots of monsters.”
+
+“How many?”
+
+“I don’t know,” said Elise, trying to think back and count. “A few hundred at least.”
+
+That didn’t actually sound like much for a 5th tier monster, but she had the benefit of cheating her way through a couple dozen levels by helping to kill monsters far above her own level.
+
+“When did it get easy?”
+
+“I think it depends on the monster,” said Elise. “Slimes were barely scary, even at the beginning. There were these cow things with ranged attacks that I fought that I took a while to figure out though. I had to hunt a few dozen before I got totally comfortable with how they worked. I think after that, it was easier overall. I was able to fight better and even when I was facing monsters for the first time, I could be more clear-headed. So a few dozen monsters in then?”
+
+“I see,” said Sophie, nodding seriously.
+
+Elise smiled and ruffled her hair.
+
+“You’ll be fine,” she said with {Whisper}. “Your teacher is literally a dragon. I doubt there’s anything in that Dungeon that can threaten you.”
+
+Sophie pushed Elise’s hand away, but smiled in response, and a few seconds later, she was back to her usual cheerful, energetic self, chattering away about random experiences in the classes that she took without Elise. When they reached the meeting place for the club, she was in the middle of telling Elise a story about a boy in one of her Academy classes who claimed to have met a dragon before, and was telling the class very authoritatively about what dragons were like while Sophie had to hold in her laughter.
+
+They were greeted at the door by an older student that Elise didn’t recognize. It was a thin young man with light brown hair and glasses. Elise thought he looked pretty handsome, but {Sense Emotions} told her that Sophie’s opinion of him was a bit more extreme.
+
+“Oh, you must be Eleanor and Sophie,” he said with a smile. “Professor Sucri said you would be here. Come on in. Make yourselves comfortable. My name is Shawn, by the way. Nice to meet you.”
+
+“N-nice to meet you!” said Sophie, her cheeks a bit pink.
+
+“Nice to meet you,” said Elise, holding back laughter as she grabbed Sophie’s hand and pulled her inside.

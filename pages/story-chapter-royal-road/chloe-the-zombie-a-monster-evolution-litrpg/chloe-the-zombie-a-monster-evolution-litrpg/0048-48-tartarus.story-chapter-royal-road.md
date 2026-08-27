@@ -1,0 +1,191 @@
+---
+id: 295098f3-87e1-58f8-9cc9-a513e1283fae
+page-type-slug: story-chapter-royal-road
+title: "48: Tartarus"
+slug: 0048-48-tartarus
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 48
+ownLength: 2180
+unit: words
+publishedAt: 2025-10-08
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2660953/48-tartarus"
+royalRoadId: "2660953"
+---
+
+Wolfie woke to the feeling of cold stone beneath her. As her eyes adjusted to the dim light, fear gripped her heart. She was in a cell.
+
+The walls were cracked and the floor littered with dust. Even the iron bars looked like they hadn’t been cleaned in years. She didn’t need to see much more to know exactly what kind of place this was. No… not again.
+
+This place reminded Wolfie of the days when she still tried to fight against Ynett. Back when she thought resistance might change something.
+
+But she quickly learned that Ynett was just too strong to defeat. So the White Witch locked her away, starved her, hurt her, broke her until there she just gave up.
+
+But something felt different this time. She wasn’t alone.
+
+Carefully, Wolfie lifted her head and peeked across the cell. That was when she saw a woman like no one she’d ever seen before.
+
+She was beautiful. Not just the normal kind of pretty, but the kind that made Wolfie’s chest feel tight. Her long white hair fell around her like snow, and her red eyes were really striking. There was something strange about her… something that made it really hard to look away.
+
+For a moment, Wolfie thought it might be that girl, the pale one with the red eyes who had called her “Wolfie” before. But no… this wasn’t her. She looked kind of similar, but she felt different.
+
+Wolfie didn’t know why, but just looking at this woman made her feel small. Not in a scary way. More like… she should bow her head or kneel or something. Which was silly, because the woman was chained up too.
+
+Thick metal cuffs held her wrists against the stone wall. Her ankles were locked in place too, with chains nailed into the floor. She wasn’t wearing much, just torn-up rags that barely covered her. But even with all that, she didn’t seem weak.
+
+Wolfie’s heart thudded faster when the woman looked right at her. Their eyes met.
+
+The woman raised her head and smiled. “Are you really comfortable being called ‘Wolfie’?”
+
+Wolfie flinched and scooted back without thinking, her ears flattening. “I… I don’t know. That name was given to me. By a girl. Um… someone who kind of looks like you, actually.”
+
+"You know, you don’t have to keep calling yourself ‘Wolfie’… unless you want to. You could choose your own name for a start."
+
+“I… I think I do want a better name. But shouldn’t we maybe not be talking about this here? I mean, isn’t someone going to come and, um… you know... do something?”
+
+“No one is coming. For better or worse, we’re forgotten down here. So let’s make good use of the quiet, shall we?”
+
+Wolfie still didn’t feel entirely at ease, but something about the way the woman spoke made it hard to keep panicking. She nodded and rubbed the back of her neck. "Okay, if you say so."
+
+“Now… what kind of name would you like?” The woman asked.
+
+“Um, I’ve never thought about it before. But if I could choose… I think I’d want a name that feels… strong. Like I could be someone who isn't so afraid all the time.”
+
+The woman smiled at that. “A name with strength, then. Let’s see…”
+
+She began listing a few names. Kaelith, Virelle, Thalira, and a lot more. Wolfie listened quietly to each one, eyes flicking toward the stone floor as she tried them silently in her mind.
+
+And then one of the names really pulled Wolfie in. Something about it just felt right. "Sierra… I think I like this name."
+
+The woman gave a small nod. “Sierra. Yes, I think that suits you.”
+
+Sierra didn’t know why, but hearing someone else say it made her chest feel tight. In a good way. She actually had a name now. A real one.
+
+She looked at the woman, still a little unsure. “What about you, Lady? What’s your name?”
+
+The woman’s smile grew just a bit, but she didn’t answer right away. Instead, she looked at Sierra with this strange expression, like she already knew what was coming. “You already know."
+
+“What do you mean? I don’t—”
+
+But then, Sierra stopped. The way the woman spoke was familiar. Too familiar.
+
+"Are you… Ishgria?"
+
+The woman didn’t flinch or look surprised. She just smiled, and gave a small nod. "I am."
+
+The name settled over Sierra deeply. She didn’t really understand why, but it made her knees feel weak. It was like something old and powerful had just touched her soul.
+
+“Now that you have a name, you need to listen closely. Time is short.” Ishgria explained.
+
+Sierra’s ears perked up. "Oh, but if we're short on time, then… why’d you make me pick a name first?”
+
+“Because names have power. And that’s all I’ll say about it.”
+
+Sierra opened her mouth, ready to ask more, but Ishgria moved on before she could. “What happens next is this, I’m going to send you to Tartarus.”
+
+Sierra’s stomach twisted. That word didn’t sound like a nice place. In fact, it sounded like the exact opposite.
+
+“There, a guide will find you. They’ll help you. And if you manage to leave Tartarus, then you’ll be allowed to return to the living world. Simple as that.”
+
+Sierra tried to speak, but the questions crashed into each other too fast. Tartarus? What even is that? Why me? How do I leave? Who’s the guide? What if I get lost? What if I fail? What if I die again?
+
+But Ishgria just gave her a small nod, almost like a goodbye. “Good luck, Sierra.”
+
+Sierra opened her mouth, but before she could say anything, everything changed. The cell was just… gone. The walls, the chains, even Ishgria vanished.
+
+She was now standing under a deep red sky, but there was no sun above her. Just clouds, slow and swirling, stained the color of dried blood. Everything around her glowed with a sickly light that made her skin crawl.
+
+The ground was cracked and dry. Yet, somehow, bone like trees grew in clusters nearby. They didn’t move at all, but something about the way they bent just looked all sorts of wrong.
+
+To her right, a river dragged itself through the earth. The smell hit Sierra's nose and she flinched. The river was made of blood.
+
+Sierra’s legs nearly gave out. Her hands curled at her sides, shaking, and her breath caught in her throat. Whatever this place was… it was terrifying.
+
+“Hey! Behind you!”
+
+Sierra spun around, fear gripping her chest. She was ready to see some monster crawling out of the blood river or hiding in the trees. But instead… it was a man.
+
+He looked way too calm for a place like this. His short blue hair was soft-looking, and his smile was calm and friendly, like he didn’t even notice how awful everything around them was.
+
+Sierra stared at his clothes. They were strange, all black with shiny silver buttons. His pants looked stiff, not made for running or any kind of outdoor activity, really. Nothing was dirty or bloody. It was all way too neat.
+
+But the weirdest thing was how the man had wings. Big, white ones stretched out from his back.
+
+Sierra stepped forward slowly. “W-who are you?”
+
+The man’s smile widened, warm and easy. “Name’s Icariel. What about you?”
+
+Sierra blinked a few times, still trying to catch up. “Hi… um, I’m Sierra.”
+
+“Well, hey there, Sierra. Nice to meet you. Really. I bet you’ve got a lot of questions right now."
+
+“I… yeah. I do. A lot, actually. Like… what even is this place? Why are you here? And, and—”
+
+Sierra's words tumbled over each other. Her ears were twitching nervously, and her hands kept tightening into little fists.
+
+Icariel raised a hand gently. “Relax, let’s take it one step at a time, yeah? No need to go into full panic mode just yet.”
+
+He turned slightly, motioning to the world around them. “First off, this place is Tartarus. It’s basically a place stuck between life and death. Not quite the living world, not quite the afterlife. And it only exists because of Ishgria.”
+
+“Wait… what do you mean? Ishgria made this place?” Sierra asked. She found it hard to believe that one woman could make a place like this.
+
+Icariel nodded. “That’s right. Tartarus was created during a very dark time in her life. The pain she carried, the despair, it shaped this whole place. Everything here reflects some part of that.”
+
+Sierra turned slowly in place, taking it all in again. The strange trees, the rivers of blood, the eerie wind that didn’t feel like it came from anywhere. The idea that it had all come from Ishgria… that this was part of her… it was overwhelming.
+
+“I… I don’t know what to say,” she murmured.
+
+“That’s okay. There’s a lot to take in, and I don’t expect you to understand it all right away. But before anything else, there’s something I want to do.”
+
+“What is it?”
+
+Icariel suddenly took a step forward and, much to Sierra's surprise, bowed his head. “I’d like to apologize to you."
+
+Sierra blinked in surprise as Icariel bowed before her. Her hands instinctively rose a little, as if to stop him, even though she wasn’t quite sure how. “W-wait, why? You don’t have to do that. I mean, you didn’t do anything to me."
+
+Icariel straightened up slowly, the smile on his face fading. “No, Sierra. I have plenty to apologize for. As my wings probably gave away, I’m an angel. My role was to watch over my assigned champions and help them grow stronger. You were one of those champions.”
+
+“What? But… I don’t remember ever seeing you even once. Back when I was in the forest, or even after that. I was always alone for the most part."
+
+“I know. That’s not how things were supposed to go.”
+
+"Sorry if I keep getting confused, but what are you saying?"
+
+Icariel paused for a moment, then glanced at her. “Do you know what gods are, Sierra?”
+
+“I’ve heard a little bit. Just that they’re really powerful beings, I guess. But I’ve never met one, and I don’t really know what they are.”
+
+“That’s good enough. What you need to know is that they’re cruel and sadistic. They created something called the Great Game. It’s a twisted contest where chosen champions like you are forced to compete in a brutal survival race. Only one’s meant to make it out in the end. Everybody else dies."
+
+Sierra’s ears drooped slightly. “That must be why I started to disappear back then, I wasn’t strong enough.”
+
+“And that was my fault. I refused to take part in the game, because I hated what the gods were doing to you all, so I walked away. I left my champions alone. I thought if I abandoned the game, it would send a message. But I was wrong.”
+
+Icariel sighed as his voice started to tremble slightly. “That’s why you never saw me. And I regret that more than I can say.”
+
+Sierra looked at him, quiet for a moment. She didn’t fully understand everything he was saying, but something in his eyes told her the guilt was real. "I don’t get all of it. But, I don’t think you’re a bad person, Icariel. So, I’ll believe you.”
+
+"Thank you, truly."
+
+Icariel then gave her a sheepish smile. “There’s still so much I want to tell you. But for now, we’ve got more urgent things to deal with. We need to get out of Tartarus. And by ‘we,’ I mean mostly you.”
+
+“Huh? What do you mean?”
+
+Without saying anything more, Icariel lifted a hand and waved it through her body. His fingers passed through her shoulder, and she shivered at the sensation.
+
+“My presence here is tied to you now, so I’m not really here in the full sense. If you manage to leave Tartarus, I’ll be pulled out along with you. But if you die again in this place. Then, let’s just say things will end very badly for both of us.”
+
+“Wh-what? How do we get out then?”
+
+“Tartarus is massive, so it’s not like there’s a clear path. But there are portals scattered around that lead back to the real world. We just have to find one.”
+
+Sierra looked down at her hands, trembling slightly. “But I’m not strong. I don’t know if I can ever get out of here, I don't—"
+
+Icariel crouched slightly to meet her eyes. “You’re stronger than you think, Sierra. The very fact that you were brought here means your soul had enough strength to survive.”
+
+"You mean that?”
+
+“I do. You weren’t my only champion. But you are the only one who made it here. That means something. The others weren’t strong enough to be saved. You were.”
+
+“That’s still really hard to believe. Sorry.”
+
+“Don't apologize, and don’t worry. This time, I’m with you all the way.”

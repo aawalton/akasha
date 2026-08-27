@@ -1,0 +1,208 @@
+---
+id: 62e75cfb-6597-562c-b4c3-cd7c3ec29510
+page-type-slug: story-chapter-royal-road
+title: "184 - Thinking Outside the Box"
+partOf: bunny-girl-evolution
+position: 52
+ownLength: 2978
+unit: words
+publishedAt: 2026-03-30
+link: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3209352/184-thinking-outside-the-box"
+royalRoadId: "3209352"
+---
+
+Elise scrambled to her feet and ran back to the opposite side of the alcove. Naomi looked at her in confusion, but was wise enough to back away from the box herself.
+
+“What’s going on?” asked Naomi.
+
+Elise was too panicked to respond. She had known there was more than one box, but here in the drow caverns was the last place she expected to find one. And when Oberon, the king of mischief and nonchalance himself, thought it was too dangerous to open, she listened.
+
+Should I run? If it’s that dangerous, would it even matter?
+
+Frozen in place, she neither responded to Naomi, nor ran, and instead just held her breath as the lid of the box slowly rose and slid off to the side. The treasures that had sat atop it fell to the ground with a clatter, and for a moment, there was silence. Then, a pair of armored hands gripped the edge of the box, and an armored man pulled himself out from within.
+
+The man was human, but so tall that the top of his helmet was just inches from the ceiling, and with his heavy armor, his shoulders were as broad as Elise was tall, at least in her drow form. Through the slits in his helmet, she could see a pair of piercing golden eyes, the edges of a curly blond beard poked out from beneath. He had a shield nearly as tall as he was strapped to his back, and longsword on his hip, and while Elise was no sword expert, even she thought that its design looked a bit strange. It was too wide, and the decorations on the hilt were like nothing she had ever seen.
+
+And if his appearance alone wasn’t enough to thoroughly intimidate her, his energy only made him a more terrifying existence. He had nearly as much aether as Irylax, and while his mana wasn’t comparable, he still had more than anyone else Elise had ever sensed. At least, more than anyone who wasn’t hiding their reserves. And when she tried to use {Inspect} on him, for the first time ever, the Skill completely failed.
+
+[ Error: Invalid Target ]
+
+While Naomi could not sense his aether or see the odd way he interacted with the System, she did not miss his mana, and drew her blades, taking up a defensive stance. Before she could get fully set up, however, the knight’s aether flared, and Elise was hit with a wave of oppressive aura so intense her knees began to tremble. Naomi collapsed entirely, falling unconscious, and Elise sensed the drow below fall unconscious as well. Then, as quickly as it came, it stopped, and the knight bent down to one knee and removed his helmet.
+
+“Sorry about that,” he said, his voice surprisingly soft. “I just needed to make sure I wouldn’t be watched.”
+
+He spoke in a language that Elise didn’t recognize. She understood him due to {Tongues}, but the words coming out of his mouth were foreign, unlike any she had heard, and had almost a musical lilt to them. His face without the helmet was disconcertingly innocent-looking. Beneath his large beard, he looked young, and he had a gentle smile, and though Elise couldn’t read his emotions for some reason, his expression was not hostile.
+
+“You must be the one who freed me, little one,” he continued, smiling at her. “From the bottom of my heart, I am grateful. If there is anything I can do to repay this favor, don’t hesitate to ask.”
+
+Elise hesitated a moment before speaking.
+
+“Who–? What are you?”
+
+“I am Quel’Khulan of Khavar, and I am a celestial, and a champion of the mortal races. Many know me as the Paladin.”
+
+“Why were you in the box?”
+
+“That is quite a long story,” he said. “And not one for mortal ears. I fear that knowing would put you in danger. Suffice to say that I was not sealed away because I am a danger to the world. Not this world, at least. I am a champion of the mortal races, not a calamity to them. I have no intention of hurting you or your friend, or anyone else who is undeserving.”
+
+“...And who is deserving?”
+
+“The ones who sealed me away, of course. But you need not worry about that. If all goes well, the world will never know that I was here. Now, would you mind coming a little closer. I swear on my life that I intend no harm. I merely have some questions that I’m hoping you may be able to answer.”
+
+Elise hesitated. “You swear?”
+
+“On my life,” he repeated with a nod. “Wait, be careful!”
+
+He suddenly dashed toward her, but it barely registered in Elise’s mind. She had used {Fey Bargaining} to ensure her safety, and when the Skill activated, the last of her aether was drained to form the bond, and her consciousness began to slip. Before she could hit the ground, the armored man caught her, his hand almost the size of her torso, and as her eyes closed, the last thing she saw was an enormous hand reaching down to touch her forehead.
+
+She didn’t know how long she was unconscious, but when she awoke again, she was greeted by the sight of the same hand retreating, followed by the concerned face of the bearded man. Elise was sitting in his hand, laying back against the cool metal armor of his arm. She froze in fear for a moment, but that reaction made the man chuckle.
+
+“You’re awake,” he said. “Securing safety is important, but not at the expense of your health. Not to this level, at least.”
+
+“S– sorry.”
+
+“There is nothing to apologize for. I’m no expert in healing, but luckily, you were just low on aether, so I gave you a bit of mine. You woke up as soon as your soul finished processing it.”
+
+“Th– thank you.”
+
+She started to sit up straight, and as she did, the knight suddenly moved his arm, lowering her back to the ground, and setting her gently on her feet. Even when she had disguised herself as a literal child, Elise had never felt like more of a child than she did in front of this man. When she infiltrated the orphanage, she still felt she had some measure of control, knowing she was more powerful than nearly everyone else present, and could leave at any time. Now, not only was she less than half the man’s height, but compared to his power, she very well might have been a child, and it wouldn’t matter.
+
+Yet, strangely enough, she didn’t feel threatened. Though nothing about him had really changed, now that she had gotten over his immense amount of aether, she thought that his presence had a kind of soothing quality. As though just by being near him, her safety was guaranteed. And even if logically, she was wary of that feeling as a product of his aether, she also knew that all his actions thus far agreed with that impression. She didn’t entirely drop her suspicion, but she was able to take a deep breath and calm down enough not to act like every word she said might cause her death.
+
+“Y– you said you had questions?”
+
+She silently cursed at not being able to keep her voice steady, but the armored man—Quel’Khulan—didn’t seem to mind.
+
+“Yes, a few,” he said. “Don’t worry if you can’t answer. I understand that this situation is unusual. Even if you refuse to answer entirely, I will not do anything to you.”
+
+Elise instinctually wanted to activate {Fey Bargaining} again, but after what had happened the first time, she had no desire to repeat the experience. Hopefully, the first bargain would keep her safe on the off chance that the man’s intentions weren’t as good as he claimed.
+
+“Okay,” she said, nodding. “Go ahead. I’ll answer as best as I can.”
+
+“Wonderful!” he said. “Then would you happen to know how long it has been since I was sealed? The world feels… very different.”
+
+“I don’t know exactly how long it’s been, but I heard some scholars say that it might have been more than 10,000 years.”
+
+“10,000,” he repeated, his smile fading. “That’s quite a long time. Are you certain?”
+
+“Th– that’s what I heard. The only thing we know is that the boxes were from before the System.”
+
+“The System?”
+
+“Yes it’s—”
+
+“Is that what this strange illusion is?” He gestured toward the empty air in front of him.
+
+“I think so,” said Elise. “Is it a partially transparent rectangle with words?”
+
+“Yes, that is exactly what it is. It is asking me to register. What does that mean?”
+
+“Register?” asked Elise.
+
+“Yes. It says ‘Welcome to the System! You currently have access to the free trial version. If you wish to access the full suite of System features, please register,’ and then it has two smaller rectangles below that say ‘Yes’ and ‘Maybe later.’”
+
+“I’ve… never heard of that before,” said Elise. “But maybe it’s because you were from the time before the System, so it doesn’t know how to handle you?”
+
+“Perhaps,” he said. “But I still do not know what it is. Why is it here? Why can I not get rid of it? What does it do?”
+
+“Well…”
+
+Elise launched into an explanation of what she knew about the System, from the basics of stats and levels to Skills and Classes and Evolutions. Every new feature she explained seemed to make Quel’Khulan more displeased, and by the time she finished, he was frowning deeply.
+
+“I see…” he said. “And what happens when someone reaches the level where they begin to strive for divinity?”
+
+“The System gives them a Divinity Quest,” explained Elise. “Except I’ve heard that the Quests aren’t fair. My teacher– he said that the Quests are either impossible, or they require you to abandon yourself. I don’t know what any specific Quests are, but I know a few who are struggling with them.”
+
+“Hmmm…” said Quel-Khulan. “I believe I understand now. That would explain the… strangeness.”
+
+“What strangeness?”
+
+He gave her a look as though he was a parent wondering whether to give a child a real answer or not. Indignant, Elise was on the verge of transforming into something less child-sized when he sighed and spoke.
+
+“The souls of the people around are far too weak. Yours excluded. That woman there–” He gestured toward Naomi. “Her body and soul are so misaligned I thought she was crippled. But nearly all the others below us are the same. Their souls are weak. Far too weak for their bodies. And yet they can still use mana. That woman was preparing a spell. That should not have been possible with a soul so weak, yet she did it as easily as she breathed.
+
+“And as for your so-called Divinity Quests… Well, I believe the reason for the difficulty is similar. Though I would need to know more to have a complete answer.”
+
+“So you’re saying that back in your time, people had more powerful souls?”
+
+“Indeed. That woman’s soul is what I would expect of a diligent youth, or perhaps a lazy young adult, but if I am not mistaken, she has lived more than fifty years. Even the laziest would not have lived so long without cultivating a more powerful soul.”
+
+Elise joined him in frowning as her mind raced to make the connections. Between this conversation now, and the conversation she had with Oberon a few weeks before, it wasn’t hard. In fact, Oberon had already told her the answer. Quel’Khulan’s words just put them in a new light.
+
+“The System is a tool, but also a chain,” Oberon had said. “The only way to escape it is divinity. That’s why it makes the Divinity Quests the way they are.”
+
+Her current conversation more or less confirmed that fact, but Quel’Khulan’s words added a new layer. The System didn’t just prevent people from reaching divinity. It prevented them from growing their souls.
+
+Elise had always found the lack of knowledge around aether and souls strange. Sure it was an extremely rare skill to have, but she did not fully understand the secrecy around it. Even when Professor Emmett had explained the risks of knowledge of aether being public, she thought his reasoning sounded flimsy, and even as he lectured, he sounded like he lacked conviction. But if the System itself was behind the suppression of information, that made for a much better explanation. How it prevented rebellious people from publishing information, she did not know, but it must have had a way.
+
+And the fact that what Elise did in her soul was unregulated by the System only lent credence to it. Sure, there were System-given Skills that affected the Soul, but from what Rayna told her, custom soul manipulation was far superior, if it was practiced properly.
+
+Wait… she thought.
+
+“You said that she shouldn’t have been able to cast spells with a soul that weak,” Elise suddenly said. “Does that mean that a powerful soul is usually required to learn magic?”
+
+“Of course,” said Quel’Khulan. “Without a powerful soul, how would you command the mana? The mind moves the soul, the soul moves the aether, the aether moves the mana. That is how it works. But this System has supplanted the natural order.”
+
+He looked disgusted as he spoke, and his voice was full of anger, but Elise wasn’t fazed by his sudden rise in emotion. In fact, she was feeling some of that very same disgust and anger. She had never been a big fan of the System, especially for the way it differentiated monsters and humanoids. Now, learning that the System had usurped the natural order of soul growth and magic, she wondered if perhaps it had done the same to monsters.
+
+“Back before you were sealed, could monsters increase their power without killing?” she asked.
+
+“Intelligent ones, yes,” he replied. “Why wouldn’t they? If they have intelligence, they can strengthen their own souls. Weak monsters had to absorb the aether of others to grow in strength, but the moment they crossed the threshold of required intelligence, they were no different from any other.”
+
+Elise scowled.
+
+“I see that that is not the case anymore,” said Quel’Khulan. “It seems the situation is far more dire than I feared.”
+
+Elise looked up at him in confusion, but before she could say anything, he looked down at her with a smile and spoke again.
+
+“Fret not, little one,” he said, ruffling her hair. “Because I am here. Fey, humans, elves, celestials… I am the champion of all the mortal races. I fight so that you do not have to. I defend you from injustice. And this System is most certainly an injustice. My brothers and sisters will see it the same way. You have nothing to worry about.”
+
+“You’re going to do something about the System?”
+
+“Perhaps not immediately, but yes. We will. In fact, if things are as I suspect, the System may be quite closely tied to us already.”
+
+“How?”
+
+“Nothing for you to concern yourself over,” he said with a calming smile. “Knowing would only put you in danger.”
+
+“Well, what if I want to be in danger?”
+
+“Don’t go looking for danger that you can’t handle,” he said. “If you really want to know, become stronger. Strong enough that even the gods cannot push you around.”
+
+“But–”
+
+“No,” he said. “I will not tell you, and that is final.”
+
+Elise bit back a retort. She was burning with curiosity, and she wanted answers, but she knew that this wasn’t an argument that she would be able to win. Instead, she sighed, and turned her mind back to an earlier part of the conversation.
+
+“Can you really use magic by controlling aether?” she asked.
+
+“Yes, you can. Once, it was the only way. It pains me to see that the art has been utterly lost.”
+
+“You said that for freeing you, I could ask for a favor, right?”
+
+“I did.”
+
+“Can you teach me how to do that?”
+
+“Hmmm…” he mused, stroking his beard. “I could certainly make an attempt, but I’m afraid I never had much talent for magic. I think you would be better off with my sister-in-arms teaching you. Aya’Rhun of Khavar, the Mage. Her knowledge of the magical arts is unrivaled.”
+
+“I only need to know the basics,” said Elise. “If I just know that, I can start to figure out the rest on my own.”
+
+“Perhaps…” he said, still stroking his beard. “But I would still like to find my brothers and sisters sooner than later, and with my teaching, it would not be a quick lesson. How about this? I swear on my life that I will arrange for you to learn this. Whether I am the one teaching you, or Aya is, you will learn. But I must find the others first. Much has changed since we were sealed. If they are free already, I must find what they know, and if they are not, then I must inform them. But regardless, I will make sure that you learn.”
+
+Elise wasn’t particularly happy with that answer, since it felt a bit like he was trying to weasel out of giving her the favor. At the same time, learning under the greatest mage of the pre-System era also sounded more appealing than learning under him.
+
+“So once you find her, you’ll ask her to teach me?” asked Elise.
+
+“Yes, I would.”
+
+“And she’s like you, right?”
+
+“All seven of us follow the same creed, yes.”
+
+“In that case, I might be able to help,” said Elise.
+
+“How so?”
+
+“I know how to find one of the other boxes.”

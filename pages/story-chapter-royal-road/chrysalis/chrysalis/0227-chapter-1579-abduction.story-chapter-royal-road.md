@@ -1,0 +1,69 @@
+---
+id: 2ed6ce12-59b2-5681-b8fa-df3b7bb410eb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1579 - Abduction"
+slug: 0227-chapter-1579-abduction
+partOf: chrysalis
+position: 227
+ownLength: 969
+unit: words
+ownProgress: 969
+publishedAt: 2025-06-06
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2333911/chapter-1579-abduction"
+royalRoadId: "2333911"
+markedReadAt: "2026-06-29T19:51:04.592Z"
+---
+
+When my brother came back to us, I knew better than to be happy. If anything, it plunged me into a deeper grief. My brother was no longer with us, the thing that shambled back to the camp wasn’t him. He would never have said those things, never have done those things.
+
+The creature that came back to us was a twisted portrait of the man I’d known all my life. Honour turned to treachery, integrity turned to deceit, purity turned into something foul and depraved.
+
+I killed the creature with my own two hands while it cursed, spewing forth the most vile, painful words I could imagine. It failed to spread its taint. For that at least, I am grateful.
+
+I will make the Krath pay for what they have done. There will be justice.
+
+-           Final message from Altharion, leader of the twenty-second expeditionary force, to his commanding officer.
+
+I leap forward with my mandibles snapping shut, but on their own, they aren’t sharp enough to cut through the sticky, pliable line connected to these living nets. I can’t exactly use Starcrusher either, it’d destroy half the platform!
+
+I spin up more Dragon’s Breath, concentrating the flame as dense as I can before I turn it onto the threads. Despite being resistant to flame, like all the mucus-covered nonsense out here, from this short range, they aren’t able to prevent my burning through them, but it takes too much time!
+
+Desperate ants and humans are trying to pull the victims as far into the safe-zone as they can, letting the cleansed mana eat through the nets, but they have to let go before the slimes can touch them. The paralytic effect on those things is no joke, and it wouldn’t be helpful to have hundreds of extra defenders lying around knocked out. Everyone is throwing themselves at the problem, trying to sever the lines, to pin down the captured targets who are already starting to vanish beneath the spreading slime netting as it encloses them.
+
+I can see the Krath now, no longer trying to hide themselves, hauling on their ropes, sneering down at us. There are so many that I can’t believe I didn’t notice them earlier, dozens, maybe a hundred, and not all of them have nets.
+
+“SHIELDS!” I roar.
+
+Not a moment too soon. Streams of potent acid are launched from the mouths of dozens of Krath using their weird variety of magic. Sizzling with potency, the acid streaks through the air as if fired from a firehose, preparing to rain down on the platform. Shields snap into place, only to be eaten through in moments, then the next set of shields forms beneath them.
+
+The Colony is almost never taken by surprise, not under Solant’s leadership, and they knew this could happen. Steel netting is produced from goodness knows where and thrown over the captured, initiating a tug of war between the Krath and my siblings as they try to pull in opposite directions.
+
+I know who’s going to win that war.
+
+Stronger, and with literally thousands of times the numbers, the ants are successful in dragging their people back, deeper into the platform. It won’t last forever, the slimes will chew through the steel mesh eventually, but for now, we can take it as a win.
+
+I run around the platform as fast as I can, using my Dragon’s Breath like a blowtorch, slicing through the lines as fast as I can.
+
+When I notice the Krath are going to launch another wave of acid, I curse and start pushing my sub-brains harder. The last barrage is still threatening to rain down on our heads, another blast will be too much for the shields to handle.
+
+With no time to waste, I turn my fire on the Krath themselves, and the slugs scatter.
+
+Right on time, a huge mucus bomb is launched at the platform.
+
+Dammit!
+
+Really? Now? You really know how to grind my mandibles, you dang slugs! I pour more power into the Gravity Bomb I’ve been slow-cooking, pumping it up as fast as I can before I launch it, packed full of the Altar’s blessing. Screaming out into the void, the mini-black hole smashes into its target and the two spells consume each other in an immense clash. The distraction was enough to let the Krath escape my fury, slithering into cracks in the stone and vanishing, letting their slime nets fall.
+
+I rush up and down the line, making sure that nobody was taken. Only when I’m completely confident that every individual is accounted for do I let myself relax. I’ll have to check soon and see if the other platforms have been hit. If anyone gets taken… I have no idea what I’ll do, but I’ll do something. What happened at the Silver City is never going to be allowed to repeat itself. My siblings will not be sacrificed.
+
+“You’re upset,” someone notes from beside me.
+
+Of course, it’s Jern. There are always one or two of the Templars hanging around me these days, and he’s the only one who feels the need to wander over and talk to me about how I’m feeling.
+
+“Yes, I’m upset,” I say, wishing I could roll my eyes. “I don’t want any of my siblings to be captured by the Krath. Is that strange?”
+
+There’s a bit of sarcasm injected into that question, I can admit.
+
+“No, it’s not strange,” Jern answers honestly, not noticing. He reaches up and pats me on the leg. “Don’t worry. If anyone gets taken, we’ll get them back.”
+
+There’s something strangely comforting in his straightforward manner. I have no idea what he thinks we could do to save anyone who was taken, but I’m supremely confident that Jern thinks he could work something out.

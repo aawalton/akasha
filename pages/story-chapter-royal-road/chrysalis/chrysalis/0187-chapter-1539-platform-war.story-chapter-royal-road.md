@@ -1,0 +1,65 @@
+---
+id: c2384a96-e82b-54c8-89e5-59b78978997e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1539 - Platform War"
+slug: 0187-chapter-1539-platform-war
+partOf: chrysalis
+position: 187
+ownLength: 879
+unit: words
+ownProgress: 879
+publishedAt: 2025-03-28
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2155735/chapter-1539-platform-war"
+royalRoadId: "2155735"
+markedReadAt: "2026-06-29T19:49:48.860Z"
+---
+
+As it turns out, reinforcing my carapace using the Altar is plenty enough to protect me during a regular Starcrusher. My antennae take a little bit of damage, which is unfortunate since they take quite a bit of time or effort to restore to full performance.
+
+They’re delicate, it can’t be helped.
+
+Still, even just using it normally, my new chomp attack takes a heck of a lot out of me. The drain on my body is immense, but the Will of the Colony pours into me, cleansing my fatigue and easing the stress on my musculature. Even so, I try not to use it too often. I feel like my mandibles are going to start developing cracks if I use it too much. The very thought of doing a Starcrusher combo fills me with terror. Not only would it do devastating damage to the enemy, it would likely result in my head exploding. Not a fan of that idea.
+
+Considering I’m able to unleash such absurd power with my mandibles now, I’m going to have to seriously consider reinforcing my noggin’ during my next evolution. Not in a small way either. Making my eyes less squishy is the first step, but there has to be something I can do beyond that to help the situation.
+
+Or perhaps I just need to get better at weaving shields so I can make one when I need it.
+
+The battle around the platform is as intense as ever, and I remain in my usual position, anchoring the centre of the line. With this endless war of attrition, the most important thing for me to do is manage my resources carefully. My fatigue is constantly being taken away, my healing gland being replenished and there is a steady inflow of mana here, so I can fight hard consistently, but not constantly.
+
+Draining too much mana puts me in an awkward position, as does using too much juice from the Altar.
+
+Finally, the only thing that really pushes me into needing a rest: mental fatigue. Well, mental fatigue, and the torpor police guilting me into it using literal children. I’m still mad about that.
+
+Empowered Dragon’s Breath is quite handy against the monsters of the fifth. They are strangely weak to fire, and also strong against it at the same time. They clearly don’t like it, but are usually covered in so much slime and goop that you can’t burn through it fast enough to damage them.
+
+Empowered Dragon’s Breath can burn through it well enough to do some real damage, but against the literal tidal wave of mucus coming my way, I have to pick my spots.
+
+“Eldest! Watch out on the left!”
+
+“No problem!”
+
+Nothing a little Gravity Well won’t fix!
+
+Empowered by the Altar, the field slams into place, crushing everything within to the ground. A literal mountain of ooze and monsters is caught in the zone, but it isn't enough to kill them. The monsters of the fifth are impressively resistant to being squished, even more so when they have a river of ooze beneath them. How they breathe in that stuff, I have no idea. However, the field does an excellent job of containing them, slowing their assault enough for the ants to cover any gaps.
+
+My gravity mana gland is constantly refilling, drawing on the residual energy from my own gravity spells to provide a steady trickle atop its own regeneration rate. Pouring out a full strength Gravity Well like this is enough to take half of it, so I’ll need to hold off for a while to make sure I’m not caught low on energy when I need it.
+
+“Eldest! They’re charging the left side!”
+
+Now the left side of the platform needs help. What the heck is going on over there? I dash as fast as I can to the action, leaving my previous post for a moment, and find dozens of ooze elementals rising up out of the sludge and pressing towards the platform. The ants are already tangling with them, but in seconds, that entire section is going to get covered in a wave of toxic slime belched out of the monsters. Too dangerous!
+
+“Get back!” I yell, opening my mandibles wide.
+
+Starcrusher!
+
+With a cataclysmic boom, my mandibles slam shut and evaporate the encroaching beasts. Of course, I reinforce my carapace with precious energy from the Altar to preserve myself, which works well enough to prevent major damage.
+
+“I’m heading back to my post!” I yell, and the ants don’t respond, leaping back into their own positions and reforming their defensive line.
+
+It’s relentless out here, and I don’t think I’ve ever fought against a wave from such an exposed position. Fighting in the fifth? It’s just nightmarish.
+
+As I continue to battle, I think of Tiny, Crinis, Invidia and Sarah out there, fighting on their own platforms, and I hope they’re alright. I’d love to check in with my friends, but there just isn’t time right now. The wave won’t let up, and neither can we.
+
+Even so, I feel a little sad. Thinking of my three closest companions in particular makes me miss them all the more.
+
+I just… I really… I really really hope Tiny isn’t doing anything stupid.

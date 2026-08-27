@@ -1,0 +1,224 @@
+---
+id: ccf94677-492b-5d9a-9849-f0258d3c661e
+page-type-slug: story-chapter-royal-road
+title: "181 - The Dwarves Are Fine"
+partOf: bunny-girl-evolution
+position: 49
+ownLength: 4170
+unit: words
+publishedAt: 2026-03-22
+link: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3179217/181-the-dwarves-are-fine"
+royalRoadId: "3179217"
+---
+
+Elise rose with the sun, double checked what she packed, bade farewell to the Grays, and left. She had considered inviting them to go with her, as she was certain that the dwarves would be more than happy to accommodate, but ultimately decided against it.
+
+Technically, there was no relationship between them and the dwarves at the moment. While the dwarves had settled quite close to where the Grays used to live, they had settled there months after the Grays were gone. And although the dwarves knew of a rabbit fey that assisted them in escaping the caverns, the Grays were not known to have any connection with this fey.
+
+Of course, Otto already had made the connection, but as he was working directly with Ostra, he was easy to keep quiet. And in the documents that Oberon had given Elise about her new identity, he had detailed exactly how he built her backstory, which included a few planted “witnesses” in Greenwood, and a few pieces of false information to brokers. At the moment, it would take a very dedicated investigator to tie the dwarves and Grays together in any provable capacity. And that illusion would be much more difficult to maintain if Elise and the Grays all went to stay with the dwarves over fall break.
+
+In fact, even Eleanor Gray on her own visiting the dwarves would raise suspicions, so officially, she was not even going. She would be spending her break as the shut-in homebody she was, reading, and sometimes going to visit the Dungeon for training. The “Eleanor” that would be visiting the Dungeon semi-regularly to maintain the cover would be one of Oberon’s clones, while Elise herself would don a new identity for her visit to Greenwood.
+
+When she left Everspring for the first time, Oberon gave her a sheet of enchanted paper, which she had used to keep in regular contact with him, and which she had used to organize her escapade. He would handle her cover story and her false identity, and in exchange, she would help him pull a prank on Irylax. Elise thought that hardly seemed fair, since she would be risking her life, and he would only have to do something he did all the time, but after he explained the prank, she decided to accept. It was simple enough that Irylax probably wouldn’t kill her, and it would be amusing.
+
+She left the Grays’ house through the tunnel in the basement, arriving at Ostra’s headquarters where Oberon was already waiting for her in one of the guest rooms. He showed her the disguise she had picked out for her, and she immediately regretted ever accepting his deal.
+
+“Absolutely not,” she said.
+
+“Why not?” he asked, his voice deep and gruff, as befitted his current appearance of an enormous, hairy man.
+
+“I told you no male disguises.”
+
+“What’s wrong with branching out a bit?”
+
+“I don’t want to.”
+
+“But it’s fun!”
+
+“I don’t want to.”
+
+“You’re really going to throw away all the hard work I did to—?”
+
+“Yes.”
+
+“Okay,” he said, reluctantly as he quite literally deflated and returned to a more ordinary size. “But I only have one other identity prepared.”
+
+“Is it female?”
+
+“Well, yes, but…”
+
+“But what?”
+
+“Are you sure you don’t–?”
+
+“Yes! I’m sure! Just show me the female disguise!”
+
+“Well, if you insist.”
+
+Oberon transformed again, and for a moment, Elise weighed the possibility of using the male identity instead. There were not many female disguises that Elise was uncomfortable with. From warty old women to high nobles to hunters to children, she had done just about everything during her training with Oberon. But even after all that, she never managed to shake her introverted tendencies, and still disliked roles where lots of eyes would be on her. And this new disguise seemed specifically designed to draw as many eyes as possible.
+
+“So, whaddya think?” asked Oberon, batting long eyelashes at her.
+
+His new form was that of an exotic dancer from the east. Elise had seen a few of them around here and there, and they were universally the most flamboyant, attention-seeking people in existence, always wearing flashy outfits and using body language that seemed specifically designed to draw every eye in the room.
+
+“This is Suji Hando, a talented, but troubled dancer,” said Oberon, mimicking the dancers’ exaggerated body language and hand gestures with eerie perfection. “She’s lived her whole life travelling from city to city—”
+
+“I’m gonna wear a different outfit,” interrupted Elise.
+
+“What?” said Oberon. “No! You can’t! It’s very important to her character! You see, her parents—”
+
+“I don’t care,” said Elise. “I don’t need to live as her. I just need a fake ID to take a teleporter.”
+
+“But depth of character is important! Don’t you remember our lessons? How can you use her ID without getting properly into character?”
+
+“Pretty easily.”
+
+Oberon, still in the guise of the dancer, put his hand to his head and collapsed to his knees as if fainting. The fall was very artful, like something Elise would expect from a stageplay, and tears streamed down the dancer’s face as if Oberon had just heard news of his child’s death.
+
+“I can’t believe my own disciple—”
+
+“So where’s her badge?” asked Elise, already changing her face and body to match Oberon’s example.
+
+“So heartless,” said Oberon, fanning his face. “I see how it is. I’m just a tool for you to use. A convenient way to get around without—”
+
+“You know, I never promised not to tell Irylax about the prank beforehand…”
+
+“The badge is right here!”
+
+Elise grabbed the gold metal circle from his outstretched arm, and nodded before moving on to adjust her clothes. Reluctantly, she did choose something a bit flashier than she usually preferred, though she didn’t go anywhere near as far as Oberon had. It would be enough to maintain her cover story as one of the dancers without being too embarrassing. As she did so, she ignored his pitiful act and lamenting words. She knew he didn’t mean any of them. He was just trying to guilt trip her into agreeing to the more exaggerated disguise because he thought it would be funny.
+
+“Are you sure that’s all you’re going to do?” asked Oberon when she finished. “The further you go, the less likely it is to be tied back to you. After all, who would expect, quiet, introverted, antisocial–”
+
+“Hey!”
+
+“–blunt, taciturn, reclusive, Eleanor Gray of being a flashy dancer?”
+
+“No one, and they won’t suspect her of being a slightly less flashy dancer either.”
+
+“Fine,” he said with a sigh. “You win. But I put a lot of effort into Suji’s backstory. You could at least listen to it instead of stomping on my hard work and throwing it out.”
+
+He started mumbling toward the end and avoiding eye contact, looking extremely hurt. Elise knew it was all an act, but even so, it was a perfect act, and she started to feel a bit bad.
+
+It couldn’t hurt to just hear him out… Right?
+
+Twenty minutes later, Oberon had somehow convinced her to change the outfit into something closer to his original one. Elise only realized how completely fooled she had been after he left and she set out for the teleporter. Somehow, he had written a backstory deep and compelling enough that Elise acknowledged that Suji would never wear something as subdued as she wanted to wear, and that something more would be more in-character. Elise still had lines she wouldn’t cross, but Oberon seemed to know exactly where they were, and pushed her until she was right up against them.
+
+Dammit, she thought, glaring at the butterfly fluttering beside her and taking great joy in her embarrassment.
+
+One and a half painful hours later, Elise appeared in Greenwood, and promptly went to the inn where she would allegedly be staying and switched out of the disguise. Oberon would be handling this identity’s cover story too, and he already had another clone stationed there to take over for her, but she did not stick around long enough to talk to him. She just switched to her default false form, that of the tall, black-haired, silver-eyed woman, activated {Don’t Look at Me, Peasants!}, and left.
+
+As she walked through the streets, she observed how her aether worked with the Skill. Unlike {Subtle Royalty}, which had been more strained than ever after her recent level-ups, {Don’t Look At Me, Peasants!} was thriving with the amplified aether. While the aether suppression Skill worked by literally suppressing her aether and keeping it contained to her body, the stealth Skill did the opposite, amplifying her connection to everyone around her so that her aether could infiltrate their minds and block her out of them entirely.
+
+She had been experimenting it both in public, and in the Dungeon over the past month, and after all the things she tried, she had come to the conclusion that she agreed with Emmett. This was definitely one of the more sinister aetheric illusion Skills. Most such Skills were sinister, but especially when combined with Elise’s aether, this one stood out among the rest. In the Dungeon, she had been able to literally walk up and slap monsters in the face, and they would still not know that she was there. If she actually attacked them with the intent to harm, the Skill would fail, but as long as she didn’t do that, she could quite literally do anything and no one would notice.
+
+On top of that, she had done enough tests that she could say with reasonable certainty that unlike {Royal Presence}, it worked just fine on people who didn’t hold the nobility or royal family in high regard.
+
+On her way to the forest, she passed by a street she knew led to Otto’s antique shop, and briefly considered stopping by to say hi to him and the twins. She hesitated for a few seconds at the intersection, then decided against it and kept moving. With a week to spend with the dwarves, she would no doubt have time to pop in, and even if she somehow found herself busy, she could just do it on the way back. Besides, the dwarves were expecting her, and the information broker wasn’t, so it would be rude to keep them waiting for something that would be just as much a surprise tomorrow as it would today.
+
+Greenwood was not a very large city, so it didn’t take her long to reach the outskirts and enter the forest. In the time that she had been gone, the narrow path through the forest had been widened into a full road, and there were wagons traveling between Greenwood and the budding dwarven city. Elise had been idly paying attention to the politics surrounding the emergence of the dwarves, and it seemed that everything had been settled rather peacefully.
+
+Oberon had talked about it with her at one point during their training, and he mentioned that the dwarves had Ostra to thank for the rapid resolution of their situation. A sovereign nation appearing on their border would normally have been a much bigger deal, but Ostra was a bigger deal than even that, so the relatively minor issue of Dokkalfheimr’s re-emergence was settled more quickly than it might have been.
+
+In the end, the dwarves had made out well. Since the forest was now higher-tier spawn zone, it was not safe for anyone to live there, and Jelor wasn’t losing out on much by letting the dwarves have it. The dwarves had to sign some deals not to encroach on territory that wasn’t theirs, and a few other things about tariffs and things like that, but overall, it was a good situation for them. Not a permanent one, but one that they could live in comfortably while they adjusted to the surface and figured out what to do in the future.
+
+While living in a spawn zone would have been difficult for most races, for the dwarves, it was trivial. Their expertise in runecraft gave them an unmatched level of control over the mana where they lived, so they could make the entire city safe from monster spawns, and their time underground had made their warriors more than strong enough to deal with the monsters beyond the walls. And with their mastery of earth magic, they had a fully-built, fully functional city just four months after emerging from the caverns below.
+
+Elise took her time getting to the castle, stopping here and there to take a look at the progress the dwarves had made. She was pleased to see that many of them were sporting reasonable tans already, the paleness of their underground life fading into memory, and there was hardly any hint of mushroom scent around. Occasionally, she spotted people sipping on the more familiar mushroom liquors and teas, but for the most part, they seemed to have happily transitioned to ordinary drinks.
+
+The castle itself looked quite similar to the one she remembered from underground, though it looked completely different now that it was out in the daylight. The castle underground had never quite looked gloomy, at least in her memory, but the new castle looked almost fairytale-like, carved of off-white stone with blue roof tiles and colorful flags and banners all around.
+
+Still under the cover of her stealth Skill, Elise activated {Fairy Wings} and flew casually over the castle wall into the courtyard. No alarms sounded, since her mana signature was already known and allowed by the castle, but she had no doubt been detected, so she found a shady place to appear, switched to her dwarf form, and waited patiently until a familiar face came to greet her.
+
+“Sindri!” she called to the axe-bearing guard.
+
+“Elise,” he said with a smile. “It’s been a long time.”
+
+“Too long,” said Elise embracing him in a friendly hug. “I should have visited sooner.”
+
+“It’s fine,” he said. “We’ve been busy, so it feels like it hasn’t been long at all.”
+
+They broke apart, and Sindri promptly started staring at Elise’s chest. Elise was about to raise her hands to cover herself when she remembered why a dwarf might have been staring there.
+
+“Your rune’s gotten brighter,” he commented.
+
+“Has it?”
+
+“Much brighter,” he said with a nod, before turning his gaze back to her face. “Well, let’s get going. Hallbjorn’s waiting. He cleared his schedule for the day.”
+
+“Great!” said Elise. “I can’t wait!”
+
+They started walking through the castle, and along the way Elise asked Sindri about what he had been up to. As the captain of the Royal Guards, his duties really hadn’t changed much when the dwarves transitioned to the surface. His job was still to guard the king. He had spent some time working with the ordinary guards to protect the city, but once their walls were built and the logistics of the guard rotations were figured out, he was back to business as usual guarding the king. And because of that, he had a lot of time to train, and had been doing exactly that. He wasn’t approaching his next Class evolution yet, but he was hard at work laying all the necessary foundations with his Skills.
+
+Despite the dwarves now being aboveground, it seemed that they had still maintained the practice of having the most important parts of the castle be downstairs, rather than up. The upper floors were mostly guest quarters or servants’ quarters, while the king’s personal chambers, office, library, and council room were all underground.
+
+Hallbjorn was waiting for them in his office, which had been organized almost identically to how Elise remembered it underground. He was sitting behind his desk, tapping his finger impatiently, but as soon as they entered, he leapt to his feet with a wide grin, and strode forward to greet Elise.
+
+“You’re here!” he said, giving her a powerful hug. “It’s been a while. How have you been?”
+
+“Good,” she said, her voice muffled as her face was half-pressed into his beard. “How about you?”
+
+“Never been better!” he said, releasing her. “And it’s all thanks to you! Here, come follow me! I want to show you something!”
+
+Hallbjorn rushed out of the room and down the hall like a kid on Christmas morning on his way to the tree. Elise had to speedwalk to keep up with him, and Sindri’s axes clanged against his armor as he jogged behind. Hallbjorn took them to a small circular room whose purpose Elise could not figure out until the door closed and the entire room began to rise. The magical elevator rose so high Elise wasn’t even sure if they were inside the castle anymore before it stopped and opened, revealing a larger circular room lined with windows, most of which were propped open.
+
+Hallbjorn dragged her to the nearest window, and outside, Elise saw the city of Dokkalfheimr. The city itself was an almost perfect circle, surrounded by walls thirty feet high and manned by armored guards. Most of the buildings in the city were made of stone in the standard dwarven way, but here and there, wooden buildings could be seen. These were much cruder than the stone ones, as dwarves did not have any proper carpenters, but the periodic wood added a cozy charm to the city, standing out against the monotonous grays.
+
+In the streets hundreds of dwarves moved around, going about their days. Some were driving wagons laden with goods, while others were walking hand-in-hand with children, enjoying a walk in the fresh morning air. She saw at least a dozen taverns, with dwarves enjoying drinks at tables on the streets or on the roofs, and a couple open markets where others sold their wares.
+
+The edges of the city, between the buildings and the walls, had been turned into farmland, and it seemed that Elise had arrived just in time for the harvest. Hundreds of dwarves were hard at work gathering their bounty from the golden fields and packaging it for storage and sale.
+
+For almost a full minute, she, Hallbjorn, and Sindri just stood in silence, taking in the sights and distant sounds before Hallbjorn finally spoke.
+
+“Beautiful, isn’t it?” he said quietly.
+
+“Yeah,” agreed Elise.
+
+“None of this would have been possible without you,” he said. “It’s all thanks to you that we were able to escape the caverns. Without you, we would still be down here. We would have died without ever seeing the sun.”
+
+“I–” started Elise, her voice cracking. “I’m glad I could help.”
+
+Seeing the city which had grown out of the forest hit her harder than she expected it to. More than once during her time underground, she had wondered whether she had made the right choice by staying. The dwarves and drow were all strangers to her, and she had her own worries. If she had just left them on that first day, she wouldn’t have gotten embroiled in their conflict, and she might have been able to find the Grays sooner, before they went through everything they did.
+
+But seeing this, it all felt worth it. If she hadn’t chosen to interfere, at best, the dwarves and drow would be stuck in their endless war, and at worst, Emilia would have manipulated them all into killing each other before finally evolving and leaving. Instead, not only were both races peacefully separated, but the dwarves had made the most of their freedom, building an entire city. The happy children, the laughter in the streets, the guards cheerful instead of silently paranoid, the tans on their once-pale skin, the bustling trade… It was all because of her. Because she had decided to stay.
+
+She wiped a tear from her eye as Hallbjorn patted her gently on the back.
+
+“I know you said you wanted to keep this visit secret,” he said. “But I had the chefs prepare us a small feast anyway. Why don’t we head down and we can catch up.”
+
+“S– sounds good,” said Elise. “No mushrooms, right?”
+
+“Ha!” said Hallbjorn. “No, no mushrooms. I’ve had enough mushrooms for a lifetime.”
+
+As promised, there were no mushrooms at the feast. There was plenty of meat though, as well as a wide assortment of vegetables and fruits from all over the world. Hallbjorn explained that they had been importing all sorts of foods, since they had never gotten a chance to try any, and were in the process of narrowing down what their favorites were so that they could establish more long-term trade deals and perhaps even plant some of their own.
+
+During the meal, she and Hallbjorn talked about everything they had done since they last saw each other. Elise told him about the assault on the Blood Syndicate, her time with Oberon, and most recently, her time at the University. Hallbjorn talked about the process of building up the city, and some of the difficulties they had encountered. Foreign envoys, scam artists posing as merchants, and a dangerous epidemic were just a few of them, and as he went on and on, Elise wondered if the city was really as peaceful as it seemed. But even as he talked about all sorts of unsavory characters and difficult choices, the smile never left his face, and everything had always seemed to work out in the end, so things were fine.
+
+Their conversation lasted far longer than the meal did, and for hours after they finished eating, they just stayed in the dining room, chatting all the way until they got hungry again, and Hallbjorn called for dinner. At dinner, they were joined by some of the other councilors, like Jens the old wizard, and Magnus, who seemed to have somehow put on even more weight, and even cranky old Josef, who refused to make eye contact with her, but at least didn’t openly insult her.
+
+By the end of this meal, the conversation had turned from the past to the future, as Hallbjorn talked about some of his plans for the city. Apparently, they were currently housing an envoy from Dvergheimr, the city where the rest of the dwarves had fled to, and they were negotiating with them to find some peaceful resolution. Obviously, the king from the direct line suddenly appearing after hundreds of years was not an ideal political situation, but so far, things were relatively peaceful. There was one problem, though.
+
+“They still say they can’t trust our story,” said Hallbjorn with a sigh. “That they don’t have enough proof. I’m sure they know very well that our story is true, but they don’t want any threat to their power, so unless we can prove beyond a doubt that I am the king of Dokkalfheimr, we’re at a slight disadvantage in negotiations. Of course, I don’t want to be a conqueror and take over a group that has been living fine without me for centuries, but I don’t want to be subservient to them either, so it’s put us in a bit of a tricky situation.”
+
+“Can you even prove that?” asked Elise, wondering how they would prove a direct blood tie to a man centuries dead.
+
+“We actually could,” said Hallbjorn. “There are bloodbound artifacts that will only work for the royal line. And we know that Dvergheimr has multiple of these. But obviously, they refuse to provide them to us.”
+
+“Do you not have any?” asked Elise. “You’re the rightful king, right?”
+
+“We did,” said Hallbjorn. “But the ghouls—sorry, drow—took them some two hundred years ago. We have no idea what they did with them. We tried to send them an inquiry, but they never responded. Actually, it’s quite convenient that you arrived when you did. You mentioned in your letter that you planned to visit them as well at some point, right?”
+
+“Yeah.”
+
+“This is just a request, but while you’re there, would you mind asking about that? They stole many things from us, and we’ve written most of it off as permanent losses, but if we could get those back, it would help us greatly. And for those artifacts specifically, they can’t even use them, since they will only work for me or my family, so it wouldn’t be a big loss. I know you’re just here for vacation, but—”
+
+“I’ll do it,” said Elise, cutting him off. “It doesn’t sound like much trouble at all, and I don’t even have to go out of my way to do it. Don’t worry about it.”
+
+“I knew I could count on you,” said Hallbjorn with a grin. “Don’t worry, I won’t ask you to do it for free.”
+
+“Oh, you don’t have to—”
+
+“I insist,” he said. “But don’t worry, I’ll make sure I don’t burden you with something too extravagant.”
+
+“Alright…” she said, raising an eyebrow. “I was going to pop down tomorrow anyway, so I’ll ask then.”
+
+“Excellent!” he said, raising a beer-filled mug. “To your good fortune!”

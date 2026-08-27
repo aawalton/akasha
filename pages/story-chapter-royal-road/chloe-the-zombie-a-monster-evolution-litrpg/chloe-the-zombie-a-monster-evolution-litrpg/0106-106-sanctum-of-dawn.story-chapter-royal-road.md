@@ -1,0 +1,153 @@
+---
+id: 70dcca79-43c3-50c0-9732-b32282ec85c9
+page-type-slug: story-chapter-royal-road
+title: "106: Sanctum of Dawn"
+slug: 0106-106-sanctum-of-dawn
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 106
+ownLength: 1906
+unit: words
+publishedAt: 2026-01-28
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2987915/106-sanctum-of-dawn"
+royalRoadId: "2987915"
+---
+
+Chloe drifted down slowly and landed just outside the circle, staring at all of them. Well. Not before cleaning herself up first.
+
+She shook herself hard, sending flecks of brain goo flying off in every direction. Most of it came off. Probably. It was kinda hard to tell, but she figured shaking a lot counted as cleaning. Whatever was left was just… extra bits. Anyway, after that very nice cleanup, she went back to staring.
+
+She knew what cards were. Obviously. She wasn’t stupid. People played games with them. They gambled, lied, and did sneaky stuff. That part made sense. What didn’t make sense was why everyone looked so serious about it, like the cards were about to decide the fate of the world or something.
+
+She leaned over Raenof’s shoulder, squinting at the cards. “What are you all doing?"
+
+“We’re playing a game, I thought it might help pass the time,” he said.
+
+“A game,” Chloe repeated, nodding slowly.
+
+Her eyes drifted to the sad little pile of leaves sitting in the middle of the circle. She frowned at them. “But why are you guys playing with leaves? Back in the Thieves’ Guild, I saw people play with coins. I think.”
+
+“Because none of us were willing to wager anything important,” Ynett said without even looking at Chloe. “Unlike you, some of us value our possessions.”
+
+“Wow. Rude. I value things.”
+
+“Like what? And your clothes don’t count.”
+
+“What?” Chloe clutched at her cloak instantly. “But Cloaky is so cool.”
+
+Ynett snorted. “I rest my case.”
+
+Chloe blinked. Then she frowned. She looked around the ground, then behind Ynett, then back at her. “Wait. Where is the case?”
+
+Ynett’s shoulders shook just a little as she let out a quiet chuckle. Chloe narrowed her eyes. “Hey. What’s so funny?”
+
+Sierra shifted where she sat and peeked at Chloe from behind her cards, looking like she wasn’t sure if she was allowed to speak. “Um, Raenof’s teaching us how to play, I’m still trying to remember which ones are good.”
+
+Chloe leaned closer to Sierra, peering at her hand like she was inspecting something very important. “Those ones look good since they’ve got fancy pictures.”
+
+Sierra squeaked and instantly yanked the cards closer to her chest. Raenof let out another long, tired sigh. “Chloe, you’re not supposed to look at other players’ hands.”
+
+“Oh.” Chloe straightened up right away. “Right."
+
+“Impressive. She actually has an idea of how to play." Ynett said.
+
+Chloe shot her a glare, then crouched down and poked one of the cards on the ground with her finger. “So how do you win? Do you just play the cards with the nicest pictures?"
+
+“No, there was a lot more to it than that. You see…” Raenof kept talking, calmly explaining the rules. As he went on, Chloe started to think he sounded a lot like Baron Willy. In other words, he sounded boring.
+
+She stopped listening almost immediately and turned toward Mr. White instead. “Hey, Mr. White, are you winning?"
+
+Mr. White didn’t answer. He just tilted his skull slightly and kept staring at the cards like he was silently counting them in his head.
+
+“That’s fair,” Chloe said, nodding.
+
+A moment later, probably when Raenof realized she hadn’t been listening at all, the elf stretched and pushed himself to his feet. He brushed the dirt from his robes and glanced around the group. “Since everyone seems finished, we should clean this up and start preparing to travel to the Sanctum of Dawn.”
+
+“Hey. I didn’t even get to play.”
+
+Raenof chuckled softly as he began gathering the cards. “Maybe another time.”
+
+Chloe watched him for a moment, then huffed under her breath. Another time had better be soon, because this whole card thing felt unfinished, and she really wanted to win at least once.
+
+Raenof finished gathering the cards and tucked them away. He motioned for everyone to stand, and just like that, card time was over.
+
+Chloe sighed and shuffled after them as they moved out from under the tree. Raenof stopped near a flat patch of ground and pulled out the book that he took from the archives. Ynett floated nearby already, her hands glowing faintly as she started tracing symbols in the air.
+
+Raenof flipped through his book until he found the page he wanted. “The ritual will open a gate to the Sanctum of Dawn. We’ll try using just the Thunder Bird’s feather for a start.”
+
+Ynett used her telekinesis to bring up the massive feather. It was longer than Chloe’s arm and still crackled faintly with leftover lightning, tiny sparks crawling along the barbs before fading away. “Ready when you are."
+
+Chloe and Sierra stepped back to watch over the whole thing. Sierra clasped her hands together tightly.
+
+But Chloe, on the other hand, leaned right up against Mr. White without a single worry. She reached up and started petting his neck, fingers brushing through bone warmed by the soft blue flames that burned inside him. He was comfortably warm in a way Chloe didn’t really have words for, so she just kept petting him.
+
+Then Raenof began to read. Chloe tried to listen at first. She really did. She made it through about ten seconds before her thoughts drifted away on their own.
+
+Instead, her attention slid over to Ynett. Glowing symbols bloomed in the air around Ynett’s hands as she worked the magic, twisting her fingers slowly and precisely. The symbols reacted instantly, lines of light sharpened and overlapped, their glow growing brighter with every small adjustment. Chloe got the strong feeling that Ynett was doing something very complicated and was enjoying every second of it.
+
+Then the magic spread. A warm golden glow burst to life in front of Raenof, forming a perfect circle on the ground. It washed over dirt and stone in smooth, glowing waves. It wasn’t blinding, but it was bright enough that Chloe had to squint and lift a hand.
+
+A strange, tingly sensation crept up her arms and along her spine, prickly but not unpleasant, like the magic was brushing past her on purpose just to say hi. Then the space in front of them shifted.
+
+The gate formed in a smooth, sudden rush of light. It stood tall and wide, made entirely of glowing gold energy that rippled gently. Raenof closed the book with a quiet thump. “Huh, I can't believe that was it."
+
+Sierra stepped forward carefully, peeking through the glowing opening. Her breath caught. “It’s… pretty,”
+
+Chloe leaned around her, eyes going wide. On the other side was a huge open meadow that just kept going and going. The grass glowed gold and green, moving softly like it was alive. The sky was all pink and orange, stuck in that perfect moment right before the sun showed up for real.
+
+“Whoa. It looks like morning got stuck,” Chloe said out loud, unable to stop herself.
+
+Raenof cleared his throat and glanced around the group. “Before we proceed, I want to make sure everyone is ready. Once we step through, there’s no guarantee we can go back anytime soon."
+
+Ynett crossed her arm. "I’m fine. If something goes wrong, we’ll deal with it.”
+
+“Wow. That’s very comforting.” Chloe snorted.
+
+"I think I’m ready,” Sierra said. “It’s just… really bright.”
+
+Raenof gave her a small, reassuring nod. “Stay close to us. The Sanctum should be stable, but caution is still wise.”
+
+Chloe, meanwhile, turned around and crouched in front of Mr. White. She placed both hands on his skull and looked him straight in the eye sockets. “Okay, Mr. White, are you ready to go in and maybe never return ever?"
+
+Mr. White snorted, a puff of cold blue air drifting past her face. Chloe grinned. “Cool. That’s a yes.”
+
+She straightened up and pointed at the gate, grinning. “Alright. Let’s go.”
+
+Raenof paused for a moment and took one last look around, making sure everyone was close and paying attention. When he seemed satisfied, he stepped forward and passed through the gate first. Ynett followed, and Sierra went next.
+
+Chloe lingered for half a second, then stepped through with Mr. White right beside her.
+
+The moment she crossed over, everything changed. The air felt lighter and warmer, wrapping around her like a soft blanket. Every breath smelled clean and fresh, full of flowers, grass, and magic doing whatever magic liked to do. It felt nice. Too nice, almost.
+
+The Sanctum of Dawn was enormous. Rolling hills stretched out in every direction, dotted with glowing flowers and tall stone pillars that hummed quietly, like they were breathing. The light never shifted. The sun hovered low on the horizon, stuck in that perfect dawn glow where everything looked beautiful and important and just a little unreal.
+
+Chloe slowly turned in a circle, taking it all in. A smug smile crept across her face as her excitement bubbled up again. Yeah. This place was definitely special.
+
+But weirdly, Ynett barely reacted at all. She hovered a little higher, eyes scanning the meadow like she was already bored. “Hm this place is adequate I suppose."
+
+Raenof stepped forward and took in the view, his expression softening just a little. “It’s quite nice, peaceful even."
+
+Sierra nodded quickly beside him, eyes shining as she looked around. “I like it, this place feels really warm."
+
+Chloe grinned, proud of the place like she’d made it herself. Then she looked back at Ynett, who was still wearing that same unimpressed face. “Okay, why are you being such a downer? This place is all warm and fuzzy."
+
+Ynett finally glanced at her, lips curling slightly. “Because places like this are never what they seem.”
+
+"And what's that mean?"
+
+“It means there is more here than meets the eye.”
+
+***
+
+Iris sat comfortably inside the gently swaying carriage, her posture relaxed despite the cramped space. She wore her white mask, of course. With company present, appearances had to be maintained.
+
+She looked across the small carriage cabin at the man in front of her and inclined her head politely. “Thank you for allowing me to ride in your carriage, Baron William. Your generosity is appreciated.”
+
+The Baron beamed, clearly pleased. “My dear masked companion, you need not express such gratitude. For you see, generosity has become something of a habit for me of late. Ever since that most fortuitous stroke of luck at the casino, I have found myself in possession of both surplus coin and an excess of goodwill. When fortune chooses a man so unexpectedly, it feels only natural to allow that good fortune to spill outward, touching others along the way. One might even say it would be impolite to do otherwise.”
+
+Iris resisted the urge to sigh and instead tilted her head, the carved smile of her mask never changing. “Of course. How very… fortunate.”
+
+“And speaking of fortune, I must confess that my anticipation for the upcoming auction at Aetherion has reached what one might call an almost unreasonable height. The mere thought of such rare and exquisite items gathered in one place is enough to set my heart racing.”
+
+The Baron chuckled to himself, clearly delighted. “Regardless, what of you, my enigmatic guest? what prize do you intend to pursue at this illustrious gathering? Surely someone of your… refined tastes has a particular acquisition in mind.”
+
+Iris’s lips curved beneath the mask. “I have a few items in mind."

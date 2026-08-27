@@ -1,0 +1,164 @@
+---
+id: 28f2deb1-422e-54f6-b0b3-ff224713e5cd
+page-type-slug: story-chapter-royal-road
+title: "171 - Sophie in the Dungeon"
+partOf: bunny-girl-evolution
+position: 37
+ownLength: 3419
+unit: words
+ownProgress: 3419
+publishedAt: 2026-02-10
+link: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3032219/171-sophie-in-the-dungeon"
+royalRoadId: "3032219"
+markedReadAt: "2026-06-29T20:03:51.280Z"
+---
+
+Stop being such a nervous idiot! Sophie mentally shouted at herself.
+
+She gritted her teeth as she crept through the dark tunnels. The only light came from dimly glowing veins of luminescent ore running along the walls, and an ordinary human would not have been able to see more than a few dozen feet ahead. Fortunately, Sophie was not an ordinary human. Perfect dark vision was one of the more mundane features of the {Dragon Eyes} Skill, but it was the feature that Sophie was most grateful for at the moment. It let her see very clearly down the tunnel, confirming that there were, in fact, no monsters with her.
+
+That didn’t stop her from being cautious. Overly cautious, perhaps, but Sophie was struggling with just fear and lack of confidence. In fact, she wasn’t actually struggling with that at all. Or at least, she didn’t need to be. That was what she was truly questioning.
+
+After her Class Evolution, she had changed, becoming more dragon-like. Well, that’s what she thought was happening. She suddenly had the ability to control her own emotions in a way that she hadn’t before, and could choose to fully experience them, or to push them to the back of her mind and forget about them. At any point, she could have just done that with her nervousness and fear and strode confidently through the tunnel, blasting monsters left and right… but she hesitated to do that.
+
+That ability wasn’t something she disliked. In fact, she found herself using it somewhat regularly whenever she was feeling down, or experiencing decision paralysis. Here, though, she hesitated. Muting her emotions was certainly useful, but Irylax had given her a warning about using it too much. Dragons had more control over their ordinary emotions than most, but that control was not omnipotent, and dragons who relied on that ability too much ended up highly unstable when their emotions overcame their control. There were many stories about draconic rampages, where entire cities had been wiped off the map because an immature dragon got overwhelmed by their emotions.
+
+Sophie was nowhere near that level of power, but she still worried what would happen in the future if she kept muting her negative emotions like that. And that was why she was reluctant to use it here. Sure, she would be more than capable of joining the Dungeon Team if she just gave in, but what if something happened later? What if she was in real danger later, and she became so overloaded by fear that she did something she regretted?
+
+She thought back to that moment in the cabin when she realized that her death was imminent. If she buried her fear down here in the Dungeon, what would happen if she encountered something like that again? Would she be unable to control herself and flee, leaving someone else behind? Would she be frozen, unable to defend herself?
+
+She didn’t want to find out, so she made a pact with herself that she would deal with the Dungeon on her own, and only rely on the draconic ability for times of true crisis… but now she actually had to deal with the Dungeon.
+
+The thought that she could just turn off her fear at any time hovered right at the edge of her subconscious, as if beckoning her to do it. She almost managed to convince herself too. She reasoned that the Dungeon was dangerous, and that if she somehow managed to get herself injured, or had to run away because she was too scared, she would be not only embarrassing herself, but that her performance would reflect poorly on Irylax too.
+
+But she never quite took the leap. She knew it would reflect even more poorly on Irylax if she was such a coward that she could only fight when she was abusing her draconic inheritance. What kind of disciple would that make her?
+
+So, she continued to creep forward, fighting back against her fear and anxiety with each step she took forward. She had made it quite far now, and was now well outside Snowberry’s range. She was completely alone, and had only herself to rely on.
+
+I can do this, she told herself.
+
+Right at that moment, her eyes widened as she finally saw something. At the far end of the tunnel, a monster appeared, rounding a corner not more than 100 feet away from her. It saw her almost immediately, and started scuttling toward her, its stony legs making an unnerving clacking sound against the ground. She panicked and froze for a moment, but quickly regained her bearings.
+
+This is it! she thought nervously.
+
+It was just a Rock Crawler. She had already killed two of them with Snowberry’s help. They were weak and stupid, and didn’t really pose a threat to anyone who saw them coming. However, unlike the Lesser Rock Crawlers, it was more than strong enough to break her body if it managed to get its mandibles on her, and because of that, she trembled in fear. For a moment, an image of the crushed skeletons of her parents that they had buried flashed in front of her mind, but she pushed it aside.
+
+With Snowberry, she did not have to worry about defense, and even with the 3rd tier Rock Crawlers, one volley of {Magic Missile} was enough to kill it, as long as she used it at full power. Here though, if she missed, she was in trouble, so rather than attacking first, she built a barrier. Since she was in the Fighting With Nature club, she had been practicing her nature magic the most in the recent days, and it was currently her most familiar element, so she used that for the barrier.
+
+Twenty feet ahead of her, thick roots sprouted from the ground, rising three feet into the air, which was about the same height as the rock crawler itself. Then, she started preparing a {Magic Missile}. When the spell was about half-formed, the Rock Crawler crashed into the wooden barrier, bending and breaking many of the roots… but not all of them.
+
+Sophie flinched when it hit, and nearly panicked, as it made it further than she expected it to. However, the barrier still held, and she was able to finish her spell without interruption. With the practice from Basic Magical Combat, and enough time to line up her shot while the rocky insect struggled to break free, her aim was true, and all the missiles hit right on its body. The first few cracked its shell, and the rest obliterated its innards. The System notification came almost instantly after the spell was cast.
+
+For a moment, she stood still, as if not believing that she had really done it. Then, she broke out into a wide grin. She had done it! And not only had she done it, it had been easy, just like it was supposed to be. She was scared, but she had been able to perform, if not well, then at least adequately. She could already see areas where she needed to improve, like the strength of her root barrier, and the speed at which she cast {Magic Missile}, but she could work with this.
+
+Happily, she walked up to the dead bug, dismissing the root wall and leaving only the broken stone and foul innards. She looked around for a few seconds, then bent down to pick up one of the rocks that had broken off the shell. All Rock Crawlers had roughly the same pattern on their shells, and more specifically, they all had a roughly oval-shaped plate right in between their eyes on their head. It was more durable than normal stone, so some crafters could use them in tools, but they were not quite strong enough to be valuable, so most people just left them. Sophie, however, pocketed this stone, not for any practical reason, but simply because she wanted to. She had overcome her fear, and she wanted a souvenir.
+
+She slipped it into her pocket, then gingerly stepped over the streams of mystery liquid leaking from the body and moved deeper down the tunnel, walking much more quickly than before.
+
+Fifteen minutes passed quickly, and in that time, Sophie killed three more Rock Crawlers. The second one, she killed the same way as the first, though without the flinching when the insect crashed into the wall. The third, she put the wall closer to herself, and managed to kill it before it reached the wall. The fourth, she didn’t even use a wall, simply killing it as it charged toward her.
+
+Her confidence had skyrocketed by this point, and while she remained cautious, her caution was no longer a product of her fear.
+
+I bet I could even take on multiple at once! she thought.
+
+A few minutes later, she regretted thinking that because that was exactly what she had to do. She had a moment where she froze in panic, but she recovered quickly, and the battle ended just a few seconds later. The same root wall and {Magic Missile} tactic worked just as well against two Rock Crawlers as it did against one, though she did waste a bit of mana reinforcing the roots. In her panicked mind, she had been worried that two striking at once would cause the wall to crumble. Her rational mind after the battle thought her panicked mind was stupid, because the rock crawlers struck in different locations, meaning they hit different roots that weren’t connected to each other, so the wall’s integrity was not compromised. She could have done a normal root wall and been fine.
+
+It could probably even hold out against three.
+
+No more than two minutes later, she got to test out that exact theory, and was proven correct. Three Rock Crawlers were no bigger of a threat than two, and were no better at destroying her root wall either.
+
+These guys are stupid, she thought with a giggle. Why do they keep running straight into the walls?
+
+Her {Dragon Heart} was constantly pumping, replenishing her mana almost as fast as she could use it, so she continued deeper, killing more and more Rock Crawlers. She did not gain any levels for killing them, as she was much stronger, but she did get a level in {Mana Manipulation} and two in {Magic Missile}.
+
+By the time another quarter hour had passed, Sophie no longer felt a single bit of fear when facing the Rock Crawlers. She no longer bothered to sneak through the tunnels, instead striding confidently, only stopping to kill the weaker monsters when they appeared.
+
+When she killed what she counted as the thirty-second, she paused for a moment. Her mana wasn’t getting low, but she was using more than she recovered still, so she was down to a little over half capacity. It was also getting late, and she was supposed to be back home by midnight. She also didn’t want to worry Snowberry too much.
+
+Wait, she’s probably already worried… she realized.
+
+It had been long enough that Sophie would be surprised if Snowberry hadn’t come to check on her. Hopefully, she saw all the corpses and realized that Sophie was fine, but still, she needed to get back soon.
+
+Well, maybe not right at this moment, she thought, looking ahead.
+
+Not too far away, the tunnel opened up into a room. She could see that the far wall of the room was quite a distance away, but she couldn’t make out many details. She knew that a room like that would have more than just a few monsters, and while she wasn’t absolutely confident, all she had seen down here was Rock Crawlers, and in the worst case scenario, she could always just run away.
+
+Just a little peek, she thought. Then I’ll turn right around.
+
+She walked past the bodies of the Rock Crawlers she had just killed and toward the room. As she did, some of her earlier fear returned, and she slowed her pace a little. Not to the point that she was barely moving, like she was earlier, but she reined in her confidence and quieted her footsteps as she got closer.
+
+When she reached the entrance to the room, she peered inside, then quickly pulled her head back out. Just as she thought, it was full of Rock Crawlers. At least a dozen of them, all resting in the corner to her right.
+
+Can I take on that many? she wondered.
+
+She thought hard for a few seconds, ultimately coming to the conclusion that she had no idea if she could or not. However, she was confident that she could survive. They were just ordinary Rock Crawlers, as far as she saw. She could make a reinforced root barrier and run away if she needed to. And if she didn’t need to, she could tell Snowberry that she killed a dozen at once.
+
+I’ll try it.
+
+She took a deep breath, then stepped out into the room, immediately growing a tall root barrier around her. She then started preparing a {Magic Missile}, but soon let the spell dissipate with a sigh.
+
+I’m stupid.
+
+She should have seen it when she poked her head in, but she was so caught up on the fact that there were a lot of them that she didn’t even think to look at their aether and mana. Or rather, their complete lack of both. They were already dead. And now that she was standing in the room, she could see that their deaths had not been peaceful. Their shells were all cracked, with a few completely shattered, and some even looked partially eaten.
+
+She shuddered, suddenly feeling a sense of danger. Rock Crawlers were not a threat, but something that could so thoroughly decimate this many of them might have been. She still hesitated before turning around, half-wanting to continue further and solve the mystery, but then, she heard a rumbling coming from one of the tunnels leading out of the room, and her decision was made for her.
+
+Nope! she thought. Time to go back!
+
+What the heck are they doing here?
+
+As Elise flew through the tunnels, following silently behind a small horde of 5th tier monsters, she was confused. There were not supposed to be 5th tiers this high in the Dungeon. The mana density was too low for them to spawn, and if at all possible, they would not ascend either, since they preferred the more mana-rich environment of the lower levels. The only reason that they would be there was if something had forced them out. It wasn’t unheard of for such a thing to happen, but usually, the University kept a close eye on the Dungeon. The fact that Elise and Sophie had not been informed of the danger before they entered meant that these monsters had only moved here very recently.
+
+She had noticed their existence while scouting ahead to make sure Sophie only ran into things she could handle. She hadn’t needed to do much thus far, as Sophie was making great progress, and the Rock Crawlers didn’t really spawn in big groups to begin with, but that changed when she arrived at the room full of corpses. She immediately knew that something was wrong, since the monsters had clearly not been killed by humans, meaning that there were stronger monsters around, and it didn’t take her too long to find them.
+
+They were nothing too threatening, at least to her. They were Greater Steel Crawlers, one of the more common evolutions of Rock Crawlers. They were durable, which made it difficult for her to kill them with mana, since she was lacking in firepower, but that was about all they had going for them.
+
+Once she found them, she followed them, hoping to see where they might have come from, but unfortunately, in the few minutes she had, she found nothing. They seemed to be wandering aimlessly, and while they left very obvious tracks that she could have followed down, she couldn’t just abandon Sophie to investigate, so after a few minutes, she returned.
+
+For some reason, though, the Crawlers were returning too. Around the time that Elise decided to return, she sensed the emotions of the Crawlers suddenly all shift to hunger, and they all started rushing back to the cave that Elise had found the dead Rock Crawlers in. At first, she was confused, but she soon concluded that they must have had some kind of tremor sense, and had sensed something nearby.
+
+They were faster than Elise expected, and there were enough of them that it took her a while to fly past the group and get ahead of them, just in time to prevent them from reaching the room where Elise sensed Sophie’s retreating aether.
+
+“Stop,” she commanded.
+
+{Royal Decree} only reached the first few Crawlers, who stopped on a dime, causing the ones behind to crash into them. Elise would have loved to experiment more with her abilities, now that she finally had a group of 5th tiers to work on, but she didn’t have time. She needed to catch back up with Sophie and get back home before midnight.
+
+Instead, she flew forward, activating {Royal Presence}, and commanding the entire group to stop moving. Once they had stopped, she used {Nature Mana Manipulation} to grow roots beneath them and dig in between the chinks in their shells, destroying their insides. It was rather gruesome, and it used almost her entire mana pool, but it was efficient. Under the pressure of her aether, they could not resist, simply standing there as the roots killed them.
+
+Elise took a moment to appreciate that she had gotten a level for her efforts, then re-activated {Don’t Look At Me, Peasants!} and flew back after Sophie. When she caught up, she scared the half-elf girl half to death by reappearing beside her, then the two of them returned to the surface. Sophie was shocked to learn that Elise had actually been down with her the whole time, and even seemed a bit down after learning that Elise had curated her encounters for her. Elise felt a little guilty, but pushed the feeling aside as she had more important matters to worry about, like informing the University that there were 5th tiers in a 3rd tier zone.
+
+However, when they reached the surface again, they found that someone else had already gotten the message there before them. And it was someone they knew.
+
+“Samantha?” asked Elise.
+
+“Oh, Eleanor, hey!” said Samantha, waving. “And Sophie! Bit of late night Dungeoneering, huh?”
+
+“Yep,” said Elise.
+
+“Did you guys run into those 5th tiers too?”
+
+“Wait, you too?” asked Elise.
+
+“Yeah,” said Samantha. “I was gonna push for Silver tonight, but then I ran into them and had to come right back out to let them know.”
+
+She nodded toward the University employee who was currently scribbling something on a piece of paper.
+
+“What about you guys?” she asked. “Sisterly bonding?”
+
+“Something like that,” replied Elise. “I was just showing Sophie how to hunt.”
+
+“Fun,” said Samantha. “Well, I should probably get going. Looks like I’m gonna have to re-plan my push to Silver, since this entrance is gonna be shut down for a while until they can figure out what’s going on. Have a good night!”
+
+“You too,” said Elise.
+
+“See you Monday,” said Sophie.
+
+As Samantha walked away, Elise noted that the other girl had a sword on her hip. She hadn’t expected that. She assumed that Samantha was more like her, focusing on magic or aether than melee combat. That threw her previous guesses about what Samantha’s Class might have been for a loop.
+
+“Excuse me, miss,” said the guild employee, drawing her attention away from the redhead. “You said you saw them too, right? Would you mind answering a few questions for me so I can add to my report?”
+
+“Sure.”
+
+Elise spent the next few minutes talking about the Greater Steel Crawlers, and helping the employee mark on the map where she had found them, then she and Sophie headed home.
+
+The next morning, Elise found herself at one of Jelor City’s teleportation stations buying a ticket to Everspring. She had been building up questions for Oberon ever since her talk with Titania, and now that she had a free weekend, it was finally time to pay him a visit.

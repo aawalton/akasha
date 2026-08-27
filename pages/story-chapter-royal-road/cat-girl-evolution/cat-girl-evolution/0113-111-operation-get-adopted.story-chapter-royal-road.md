@@ -1,0 +1,219 @@
+---
+id: d9ff0af1-506e-5225-9442-52ee911067a9
+page-type-slug: story-chapter-royal-road
+title: "111 - Operation Get Adopted"
+slug: 0113-111-operation-get-adopted
+partOf: cat-girl-evolution
+position: 113
+ownLength: 2674
+unit: words
+publishedAt: 2026-04-08
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3246656/111-operation-get-adopted"
+royalRoadId: "3246656"
+---
+
+We mistimed the start of the operation by almost two full hours. Two hours of boredom and discomfort. As it turns out, fat actually does a lot to make lying down comfortable, and with my adipose reserves drained to complete the starved stray look, lying down is very uncomfortable.
+
+And you know what the worst part is? This garden isn’t empty. I can’t even move around freely while I wait. There aren’t many people around, but they’re always coming and going, so I can’t exactly start snacking or practicing with mana, and since this garden belongs to the City Lord, I can’t really use magic in here anyway without triggering the wards. It also means I can’t wait outside and Blink in when the city lord’s daughter arrives. I can barely summon a few quick bites to keep my appetite sated.
+
+I can’t even go hang out in my Dungeon while I wait, because Abby says that doing so would create a mini Dungeon entrance where I currently sit, and not only would that be conspicuous, it would probably also make the pervert Dungeon Core angry. It’s actually a miracle that no one noticed when I used my private Dungeon the first time. I guess being on the roof in a relatively quiet part of town did a lot to help with that part, though I’m lucky that Julie didn’t follow me in.
+
+There’s always the option of just violently breaking in like I did at the end of the last Floor, and I suggested as much when we were planning this operation, but Lauren convinced me not to. While I would probably be able to get in, if I didn’t manage to find the truth and solve the Dungeon, it would make everything after that much harder. In fact, if I was too destructive, I could even destroy whatever evidence we’re supposed to find, making the Floor way more difficult than it needs to be. And as much as this boredom tempts me to ignore all that, I hold back the urge, at least for now. There may be time for that later on.
+
+So, for an agonizingly long time, I lay in a bush, watching gardeners tend to the plants and young, rich couples go on walks. It’s made even more agonizing by the fact that they’re all moving so damn slow. I thought it was just my impatience at first, but after observing multiple groups for a while, I realize it’s not just me. They’re actually moving slowly. They walk like they don’t have to be anywhere until next week, and spend multiple minutes on every single flower.
+
+The gardeners all seem to be perfectionists, taking way too long pruning each plant to make sure it remains not only perfectly healthy, but also aesthetically pleasing. I watch one of them go back and forth literally fifteen times while trimming the same branch of the same bush, each time making it not more than a couple millimeters shorter before backing up to check his work.
+
+Abby, there’s something weird going on here, right? Are they all high or something?
+
+“Perhaps it’s another effect of the fruits? A mild sedative and stimulant combination?”
+
+Hm, yeah, that makes sense, actually. I think. It’s still really weird, though.
+
+After a full two hours, I finally sense my target entering the garden. It’s an 11-year-old girl, just like the twins’ information said she would be, and she’s accompanied by a maidservant. The girl looks a little short for her age, and has her brown hair tied up in a simple braid. She’s a pretty girl, but her face is a bit marred by the same baggy eyes and pale complexion that plagues the whole city right now.
+
+Her maidservant isn’t doing much better, though she looks unbothered by it, her face a perfect mask of indifference. The maidservant is carrying a wooden case in one hand, and a basket in the other. The wooden case has parchment and charcoal, the tools of the girl’s hobby, while the basket has my first target: food.
+
+I watch them walk by from beneath the bush until they find a spot on a bench near a lilac shrub. The girl eagerly grabs the wooden case from the servant and gets to work, while the servant sits next to her, setting the basket down and silently watching the girl draw. I wait a minute or so for them to settle in, then I make my move.
+
+As quietly as I can, I circle around until I’m behind them. Then, I start to creep up, stalking them like a cat would stalk a mouse. Or a picnic basket.
+
+I jump up onto the bench without making a sound, and carefully walk toward the basket. Neither of them have noticed me at this point, so I put my front paws on the basket and start figuring out how to open it and get the goodies inside. It’s annoying, not being able to conjure hands, or even use strength beyond what an ordinary cat could have, but after a few seconds, I manage to hook a claw under the lid and pry it open.
+
+Very carefully, I open it up, getting a nice, long whiff of the cloth-wrapped pastries and fruits inside, and then something unexpected happens. The hinge creaks. The maid turns back to see what the sound is, and when she sees me, her eyes widen and she gasps.
+
+“Hey!” she says.
+
+I quickly grab one of the cloth-wrapped pastries in my mouth, then jump away, retreating all the way to a bush ten meters away. By this point, the girl has turned to see what the commotion is, just in time to see me disappear into the plants. Just as planned.
+
+“Aww, poor thing!” exclaims the girl. “Felia, did you see how thin it was?”
+
+“Yes, My Lady,” replied the maid. “It looked starved.”
+
+“Why did you scare it off?”
+
+“Forgive me, My Lady,” says the maid. “I was startled and acted without thinking.”
+
+“I hope you didn’t scare it off for good,” the girl pouts. “Help me find it again!”
+
+“Yes, My Lady.”
+
+They seem to have lost track of me, so I just stay where I am, unwrapping the pastry and beginning to eat it. I make sure to be a little noisy so they can find me more easily, but it still takes them a minute or so before they realize that I never left the bush I disappeared to.
+
+“My Lady, I believe I’ve found it,” says the maid as she peers at me from between the leaves.
+
+“Oh, where?” asks the girl, rushing over.
+
+I make sure to maintain my starved stray cover by backing away from where the maidservant is, but I don’t bolt. After a few seconds, the girl’s face appears beside the maid’s, and I take a few steps further back.
+
+“Back up, you’re scaring it!” says the girl loudly enough that if I was truly a scared stray, I would have bolted.
+
+“Apologies, My Lady,” says the servant, taking a step back.
+
+“Go fetch the basket!” says the girl. “It already finished the first roll, but it still looks hungry.”
+
+“Yes, My Lady.”
+
+“Hurry!”
+
+“Of course, My Lady.”
+
+With the maid rushing back toward the bench, the girl turns her full attention toward me, and smiles.
+
+“I’m not gonna hurt you,” she says. “If you come here, I can help! I’ll give you more food too.”
+
+I take another nervous step back, which takes all my willpower, because that roll did nothing but whet my appetite, and there’s nothing I’d love to do more than jump into her arms and let her feed me the entire contents of her picnic basket. I don’t think I’ve gone two waking hours without eating since I got Stomach of the Glutton. This is agony.
+
+Fortunately, the maid soon comes to my rescue, basket in tow, and the girl quickly reaches for another pastry, this one filled with cheese, and holds it out toward me.
+
+“C’mere!” she says softly. “Psst, psst, psst.”
+
+I freeze where I am and sniff the air. Even from here, the pastry smells heavenly.
+
+“It’s okay,” says the girl. “We’re not gonna hurt you.”
+
+With immense effort, I maintain a slow, cautious pace as I creep toward her, only moving faster when I get close enough to snatch the snack from her hand.
+
+“Good boy!”
+
+Boy?!
+
+I ignore the girl’s words and Abby’s laughter and start chowing down on my new snack. It’s on the ground now, so there’s a bit of dirt on it, but my Traits just make the dirt taste like special seasoning, so its fine.
+
+“Woah, slow down,” says the girl. “Don’t choke!”
+
+I continue to ignore her as I devour the rest of the cheesy bread and then look up expectantly for more.
+
+“You want more?” she asks.
+
+“Mra!”
+
+She reaches in and grabs another, this one filled with nuts, and sets it in front of me. As I eat, she reaches out and starts gently stroking my back. I tense up when she first touches me, then relax as she continues.
+
+“Awww…” she says.
+
+I should get a Oscar for this performance. Don’t you think, Abby?
+
+“I see that your time before unlocking the System was truly not wasted. You have absolutely mastered the art of scamming food out of humans.”
+
+It’s not scamming! I’m legitimately hungry!
+
+“And in possession of an infinite food source.”
+
+Shut up. This is important. It’s for the mission. And my acting skill is impeccable, and you know it.
+
+“Your skills in anything seem to drastically improve when there is food on the line.”
+
+Yeah? And?
+
+“You truly exemplify your Sin Trait.”
+
+And I’m proud to!
+
+I finish off the third bun, at which point the girl reaches out with her other hand to pick me up. Dangling from her hands by my shoulders, I stare her in the eyes. I’m still hungry, but I probably shouldn’t eat any more yet. Not from her, at least. I’ll need to find a good time to sneak some other snacks.
+
+“Oh, it’s a girl!”
+
+“Mraw!” Of course I am!
+
+“Yes, it would appear so, My Lady,” says the maid.
+
+Okay, you can stop looking.
+
+“We need to take her back with us,” says the girl resolutely.
+
+“Of course, My Lady. We should have the veterinarian examine her for diseases and ticks.”
+
+“Yes, and then we can put her with the others! I bet that Harko will love her! Maybe we can have some black kittens!”
+
+What?! Absolutely not!!
+
+“We’ll have to wait for her to get healthier first, My Lady,” says the maid. “But we can keep them in the same room, if you’d like.”
+
+“Oh, yes, that would be wonderful!”
+
+Hey, stop laughing, Abby!
+
+The girl then commands the maid to go collect her drawing equipment, and a minute later, the three of us are heading back out of the garden. The girl and maid don’t seem bothered at all about how short their outing was cut, and the girl instead is cooing over me and scratching behind my ears as we walk. Her technique isn’t perfect, but it’s passable, and I purr in her arms as we walk.
+
+When we arrive at the castle, and my Food Sense can reach inside, I notice a lot of the same weirdness I saw in the garden. Maids spending way too long making sure the clothes they’re hanging up to try are perfectly aligned, chefs cutting vegetables incredibly slowly so that they are all of uniform width, and more gardeners taking way too long to trim small plants… The drugs in those fruits must be weird.
+
+The appointment with the castle’s veterinarian is pleasantly quick, since I’m perfectly healthy, aside from being thin. He prescribes me a diet of lots of food, which is cool, and I am then taken to a new part of the castle where literal dozens of other animals live. The girl plays with me and gives me treats in a room full of other cats, including the black-furred Harko—who I hiss at to voice my dislike of him—and then, finally, she leaves, and I am alone with just a single caretaker who doesn’t have the attention span to keep track of all nine cats in the room. Time for the true infiltration to begin!
+
+While Yona put on a Oscar-deserving performance, the others were not sitting idle. The twins were not experts in botany or poisons, but artificers were nothing if not prepared, and they had the tools to perform at least a basic analysis of the fruits. It did not take long to conclude that they were indeed the source of the “plague.” They had a mild toxin in them that produced long-term symptoms, and based on their rudimentary analysis, if left untreated, it would kill. How exactly they could cure it, they weren’t sure, but they knew it was what was affecting the city.
+
+Well, most of what was affecting the city, at least.
+
+There was another problem, though: the attitudes of the Maligari. Despite the plague crippling the entire city, and even having killed hundreds so far, most didn’t seem too worried. Lauren reported that when she had gone out and asked random people if they were worried they wouldn’t be cured, the response had been an invariable “no.” They were all confident that as soon as it was possible, the city lord would start passing out the cure. The cure was already made, after all. They just needed to figure out how to scale up production. It was only a matter of time before the city was cured, so there wasn’t really even a problem. Nevermind all the poor folks who couldn’t afford panacea potion who were dead and dying.
+
+“It has to be a Disaster,” said Lauren while they waited in the inn. “It must have a lethargic aura across the whole town.”
+
+“No, if it was lethargy, we would have noticed,” said A.
+
+“Do you feel lethargic?” asked B.
+
+“No…” said Lauren. “Maybe it’s something in the fruits?”
+
+“Can’t be.”
+
+“The fruits don’t have any sedative, magical or otherwise.”
+
+“So then we’re back to the aura Skill,” said Lauren.
+
+“But it can’t be a Disaster.”
+
+“It has to be a Leader. Look at the mana concentration.”
+
+“But if it’s a leader, where are its followers?”
+
+“The city lord and his co-conspirators, probably.”
+
+“Almost definitely.”
+
+“It’s too passive to be a Leader, though,” said Lauren. “Leaders conquer. This is far too slow. It’s been more than a century since the Tree Awakened. Even with natural leveling, it would have evolved a decade ago. It’s just too slow and non-deliberate. It has to be a Hermit or a Disaster. And the aura Skill means it has to be a Disaster.”
+
+The twins frowned.
+
+“Maybe some kind of mental aura to prevent the people from acknowledging the tree’s obvious suspiciousness?” suggested A after a few seconds.
+
+“Or an aura that makes them worship it, so that they would never think to doubt it in the first place?”
+
+“But even so, that doesn’t explain how unbothered they are by the plague. Not when none of them have connected it to the tree.”
+
+There was another bout of silence before both twins shrugged.
+
+“We’ll just have to wait and see what Yona finds,” said A.
+
+“Yes, she’ll find the answer,” said B. “At least we’re not in a rush.”
+
+“If the situation with the Dungeon Core was urgent, it would have done more to assist us.”
+
+“The fact that it hasn’t means it’s not dire, and we can afford to take our time a bit.”
+
+“Yeah, there’s no rush…” Lauren agreed with a frown.
+
+But something still feels off…
+
+She half wanted to go back out and continue her investigation, but she decided against it.
+
+Yona’s got it handled, she thought. We can just wait until she gets back and then continue. There’s no need to be hasty.

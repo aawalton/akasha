@@ -1,0 +1,161 @@
+---
+id: 9c5a071f-3a0c-5787-9fb8-4d964f158e2a
+page-type-slug: story-chapter-royal-road
+title: "187a. Redrawing Lines"
+slug: 0189-187a-redrawing-lines
+partOf: breaker-of-horizons
+position: 189
+ownLength: 3566
+unit: words
+publishedAt: 2022-06-30
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/938751/187a-redrawing-lines"
+royalRoadId: "938751"
+---
+
+Caden wasn't sure how much time Ambrose spent in the shower. Time seemed to lose its meaning as he drifted alone in oblivion, and the 'longer' he stayed there, the more he felt the mental strain of the day slowly bleed into nothingness. He had spent so much time riding the threshold between oblivion and the arcanic sea that it felt wonderfully freeing to finally spend so much time there, completely unmoored from his physical body. On further reflection, he realised he hadn't actually spent that much time getting familiar with the sensation of simply being. All his prior forays into these unseen layers of reality had been with a specific intention, whether it was to parse glyphs at a deeper level or to extend the range of his arcanophanic senses.
+
+The longer he stayed here as a simple non-corporeal mote of consciousness, the less his mind seemed weighed down by the fog of tiredness that had come upon him at the end of a terribly long day. Was this what the Fateweavers enjoyed all the time? Perhaps that went some way to explaining their power — a clarity of thought unburdened by mortal weariness.
+
+Even as a detached portion of his mind mused over that, the bulk of his awareness cast itself across the memories of the day, and he allowed himself to simply drift through the various events. But in oblivion, they did not play out in his mind with the accompanying sights, sounds, and sensations. He felt them pass through his consciousness like...
+
+... and there his language failed. He had never experienced such a knowing before, of thinking back over events and not seeing, hearing, or sensing them, and simply knowing, as a pure abstraction, what had happened. It was both terrifying and exhilarating, for he recalled the events now without the bias of embodied perception, and he was realizing new things about the events that he had lived through, things he hadn't been aware of even in the moment of living them, and that meant—
+
+'Caden?'
+
+It was the Chosen-Blinded-Jailer. His presence loomed suddenly large in Caden's awareness, and the Fateweaver-like appendages extending from his auric-ambient-flare suddenly seemed uncomfortably close, even though Ambrose hadn't actually changed his stance.
+
+'Caden...' There was uncertainty, awe, and even fear in Ambrose's tentative mental contact. 'You're...'
+
+Ambrose hesitated, then lapsed into silence. Caden waited, his whole being having turned into a confused knot of irritation at being interrupted on the cusp of some startling realisation, while also being strung through with threads of wariness and distrust towards the Chosen-Blinded-Jailer.
+
+The silence stretched. There wasn't a smidgen of emotional slippage coming from Ambrose. His thoughts were inscrutable.
+
+'You can use the shower, now,' he finally sent, before he moved his consciousness firmly back into the physical world.
+
+Caden stayed in oblivion for a little longer, willing himself to calm down. He briefly entertained the thought of going back to thinking about his day and trying to re-create that sense of knowing what had passed, but now that his calm had been disturbed, he felt very keenly the tiredness of his body catching up with his mind, and it was disrupting his ability to really stay comfortably in oblivion.
+
+When he gently brought his awareness back into his body, all the clarity of disembodiment vanished, and the full scope of his weariness crashed back upon him. There was a throbbing headache now that he had to contend with, on top of the chaotic jumble of thoughts and concerns that had chased themselves around his mind prior to his retreat into oblivion.
+
+The others weren't in their spots, and he realised with a jolt that he hadn't even noted their departures. Kevan had presumably left to walk Emilia back to her dormitory, with Lynus accompanying them. Devon had already retired to his room, though Jerric was still diligently reading at the dining table. As for Ambrose, Caden could sense that he was in their shared room, his thoughts still inscrutable. As Caden stirred, Jerric looked up.
+
+"Fell asleep?" he asked, smiling slightly. "It's nice to know the Top Scorer is a human being with limits after all."
+
+There was so much Caden wanted to say in response to that, but none of it would have been appropriate given the fact that they were effectively strangers again, not friends who had bonded over shared adventures and trauma. He simply returned a wan smile and got up. "Yeah, time for me to call it a night."
+
+Caden couldn't avoid facing Ambrose since he needed to enter the room to get his things before he could shower, and he tried his best not to hesitate at the door. When he let himself in, Ambrose was slowly towelling his hair dry as he sat on the bed, and he didn't look up as Caden came in. Wordlessly, Caden took a towel and his change of clothes, and was almost out the door before Ambrose said, in a low voice, "I think we need to talk when you get back."
+
+"Sure," Caden answered as evenly as he could.
+
+It was tempting to simply stay in the shower. He sat on the floor and allowed the warm water to wash over him, and ever-so-slowly, the tension in his muscles melted away and the throbbing headache subsided. The relief here was more visceral than what oblivion offered, and the familiarity of these bodily sensations somehow made it all the more fulfilling in a way that his short respite in oblivion had not been.
+
+But he couldn't very well spend the night in the shower, and he couldn't reasonably avoid Ambrose forever. So with a sense of regret and a great deal of reluctance, Caden picked himself off the floor, showered properly, changed, and went back to the room.
+
+Ambrose was pacing nervously when Caden came in, but he stopped and sat at the edge of his bed and gestured for Caden to do the same. Caden hesitated because he couldn't help but feel a sense of impropriety that they were probably both about to discuss something of monumental importance while his hair wasn't properly dried.
+
+"I don't know where to start," Ambrose began, "so I'm just going to say it. Anyway, I think you already know, given what you said over dinner."
+
+Caden sighed heavily. "Yes, I think I know what you're going to say."
+
+"Do you still want me to say it?" Ambrose asked, trying to sound light-hearted and failing miserably.
+
+Caden really didn't want to have this conversation while his hair was still wet. It made it difficult to project the sense of poise, control, and power that he wanted when dealing with the Chosen One. But this was the moment he had been handed, so he resolved to make the best of it. Instead of answering immediately, he started casually towelling his hair with one hand while looking blandly at Ambrose. "If you want me to trust you, then you need to start being comfortable with saying the truth out loud, even if you think I might already know something."
+
+Ambrose raised an eyebrow but conceded with a slight grin. "Fine. You're right. I'm the Chosen One."
+
+Caden nodded grimly, and Ambrose's grin turned into a frown. He continued, "And this is not the first time you've found out, is it?"
+
+"What makes you think that?" Caden asked, still towelling his hair. He tried to strike a casual tone, but felt very keenly that he was failing just as miserably as Ambrose.
+
+Ambrose opened his mouth, paused, tried to start again, then paused again. Finally, he managed to mutter, "Things aren't adding up. I... normally I know what's happening, or what should happen. But since you've arrived, it's all been jumbled. But from what I have managed to... to read, well... like I said earlier, I know that somehow, we once trusted each other. Which means you once knew that I am the Chosen One, or... or the other way around, meaning I knew that... you knew..." He lapsed into confused silence.
+
+That, Caden supposed, was Ambrose trying to explain his sense of being able to read Prophecy as it unfolded. That was the sense of purpose that Ambrose had once told him about not long after they had met. And now that Caden was near, his very presence was obscuring or interfering with the threads of Prophecy once more.
+
+"You weren't so hung up about this before, when we were in the common room," Caden pointed out. "Why the sudden confrontation?"
+
+"Because of what you were doing," Ambrose answered, now with more certainty in his voice.
+
+"And what was that?" Caden asked. He stopped drying his hair, intent on hearing Ambrose's response.
+
+Ambrose looked at him strangely. "You were doing what I can do. What... what only I should be able to do. You were... reading. Reading the threads."
+
+That was it, Caden realised. The knowing of the events of the day as he reflected on them earlier — he hadn't merely been remembering things from his subjective point of view. He had been reading the very threads of reality as recorded by the web of Prophecy that the Fateweavers had woven over the entire Empire. It was past, present, and uncertain future, all bound up in the network of augera.
+
+His immediate impulse was to blurt out that Ambrose wasn't unique in that regard, because Caden had also just remembered that the Demiurge had demonstrated this same capability, but he was quick enough to quash that. It wasn't wise to share so much with the Chosen One, a fledging Fateweaver, when Caden wasn't yet certain of their present relationship with each other.
+
+"Who... what... how are you doing it?" Ambrose asked, his voice tense, when Caden didn't respond.
+
+Caden swallowed, thinking hard. Now that Ambrose had accidentally helped him to understand the significance of that moment in the common room, more important memories were bubbling to the surface, making connections with the present and fitting into place with terrible clarity. He swallowed again, and came to a resolution.
+
+"You helped me," Caden whispered.
+
+"What?" Ambrose's incredulity was matched only by his confusion.
+
+"You..." Caden swallowed once again, his throat terribly dry now, because the memories were tied together with terrible events. "We... were in danger. You had to teach me a sequence. You passed me the knowledge through the arcana, directly, from one auric-ambient-flare to another. A shield-piercing sequence."
+
+Ambrose's eyebrows rose even more, then came together in a deep frown as he processed the implications of this.
+
+"And... later, we... had to do more. So you even taught me how to do that — how to transfer knowledge in the same way," Caden continued softly.
+
+"I—what? But... but that means..." Ambrose got to his feet and started pacing again, almost in a state of panic.
+
+A terrible weight was pressing down on Caden, and he recognised it as the presence of the augera. They were straining against the most recent bonds that the Demiurge had placed on them that forbade them from making contact with him until he spoke to them first. If Ambrose sensed their presence, he gave no indication; he was still working himself into a state as he thought over what Caden had just said.
+
+'What?' Caden asked them tersely, pitching his contact very precisely and finely so that it slipped even under the notice of the Chosen-Blinded-Jailer.
+
+'Do not tell him,' the augera replied, but even though they were throwing the full force of their intent behind that desperate command, the Demiurge's edict blunted it to a tolerable level.
+
+But Caden was cannier now, and he thought he had the sense of how the Fateweavers' attention worked, especially now that he had spent some time in the presence of a fledging Fateweaver. Still, it was wiser to check. 'Why? Will the Fateweavers notice this?'
+
+'... Not likely,' the augera replied, their insistence waning. Caden even caught some resentment emanating from them as they considered the fact that they knew they wouldn't be able to lie to Caden through the arcana, since their intentions were unveilable.
+
+'Then let me work,' Caden replied, with a bite of impatience, but also a note of acknowledgement at their fear at this possibly going terribly wrong. They noted his conscious awareness of the potential peril, and conveyed back a sense of grudging respect and acceptance, before fading away.
+
+Ambrose was still pacing, and Caden let him continue for a few moments more before quietly coughing. "You alright?"
+
+The Chosen One froze, then turned to stare at Caden, his eyes wide. "Do you know what that means? That I shared that with you? The... the shape of knowing?"
+
+"Like you said... it means you trusted me, and I trusted you," Caden said quietly, looking down. What kind of question was that? Of course he knew. He had bared everything, everything — told Ambrose that he would dare to become an independent Fateweaver and then work together with him to break the chains of Prophecy, not just over his sister anymore, but over the entire Empire, so that no one, not even Ambrose himself, would have to be beholden to the Prophecy. So no one would ever have to be forced to potentially do something against their unfettered will. So people like Devon could go off and lead a quiet life and pursue their passions, like inventing ways to cook with arcanophany, instead of being swept up in Empire-shaking plots. So people like Jerric and Kevan could have happy, whole families that didn't need to suffer senseless tragedy just to shape a person's mind and disposition into a tool to be used in some grand scheme. So people like Lynus wouldn't have to conceive of a way to kill himself out of an irrational (or perhaps all-too-rational) fear of being maneuvered into killing his own beloved brother if Prophecy ever demanded it. So people like Emilia wouldn't be raised as sacrificial pawns to be plugged into an empty slot in a Prophecy just in case something went wrong.
+
+The wild panic in Ambrose's eyes was now giving way to a mixture of shock and disbelief. "And that wasn't the last thing, was it? Because..." he trailed off and gestured, apparently at a loss for words.
+
+Caden didn't know what else to say, either. His mind went back to the fear-filled morning and afternoon that had followed shortly after Ambrose's sharing of the shape of knowing, when Emilia had vanished at the hands of Prophecy, stolen away by the augera to be transformed in some eldritch way so she could serve the needs of the Prophecy. And Caden had thrown his first real wrench into the plans of the Fateweavers using the tool that Ambrose had given him. He had managed to venture into oblivion, pluck Emilia out from the middle of that augera-woven transformation sequence, and then voluntarily taken her place. That was when his sense of oblivion had been honed far beyond any other person in the Empire, putting him on par with the likes of the Demiurge and Ambrose and...
+
+... and the Fateweavers themselves. That was why he could read the threads of Prophecy if he slipped far enough into oblivion.
+
+He stared back at Ambrose in silence as the full weight of that realisation settled on his shoulders, and his conscious mind finally started processing these frantic connections that had just been made.
+
+"What were we doing?" Ambrose whispered finally. "And what happened?"
+
+"We were going to change the world," Caden managed to say, his throat dry. "And then a Fateweaver took me away from all of you."
+
+Ambrose sat heavily on the bed and buried his head in his hands. "We... we needed you."
+
+A cold hand wrapped around Caden's heart at the change in Ambrose's tone. "What do you mean?"
+
+"It's.. a bit of a blur. But now that you're here... again... I think I remember more of it. We were all going to look for a wild augera together, weren't we?"
+
+Caden nodded, but Ambrose still had his head down, so he spoke, his voice cracking a little. "Yes. To... to talk to it. To try and figure out what the wild augera wanted, or could do, about their chained brethren."
+
+"Yes," Ambrose murmured thickly, "that... makes more sense. Because when you... were taken... we continued looking. But... not to talk anymore. We didn't even remember wanting to do that. I... felt something had changed, that something was odd, but it faded and just became normal after awhile, except every now and then I'd think back and ask myself, why? And then it'd feel odd, but never for long, and I'd go on until the next moment of questioning..."
+
+There was a mounting horror in Caden's chest. "You found one," he said, his voice distant in his own ears. "What... what did you do with it?"
+
+Ambrose looked up, his face reflecting a little of the horror that Caden felt. "And it makes sense now. Because... because you took what was meant for Emilia. But the change had to be done, she was, she is, the 'bones that form your crown o'er mortal thrones', my crown... and the Prophecy made that happen... just through a different way... using what was already there, where we already were..."
+
+"What did you do?" Caden whispered, though he thought he already knew. He had seen a part of the aftermath firsthand, after all. The cries Devon, of the broken-skillful-bridge, seemed to echo from Caden's memory: 'Also wanted... but not really... wanted to want... wanted to belong, wanted to prove... but not really mine...'
+
+"We... I..." Ambrose buried his head in his hands again, and his breaths came in sobs. "Lured it. Trapped it. B-broke it. Into pieces. Then... Emilia came forward... and I... broke her, too. And the others. And I... put the core... in her... and the fragments... in the others..."
+
+Even through the notes of horror rising to a crescendo in Caden's mind, there was room for him to marvel at the sheer scale of what Ambrose was saying in a few sobbed words. This boy before him had stood before a primal force of arcana, when lesser minds would have fallen into gibbering madness just by being near such an entity, and faced the full weight of its unfettered fury. And then he had bested it and taken it apart piece by piece. This was arcanophany beyond compare. This was the sort of ancient power that belonged to the realm of stories and legends. It bore almost no resemblence to the household arcanophany that did mundane things like cooking their food or warming their homes, and it was hard to believe that they were even of the same field.
+
+"We needed you." Ambrose was crying in earnest now, almost folded in upon himself where he sat on the edge of his bed. His arms were wrapped around his own chest as though in a desperate attempt to hold himself together. "You could have stopped us. We needed you, we needed you..."
+
+Caden sat rooted to the spot. Hot tears were spilling down his own cheeks as he stared at the Chosen One, and even though he wanted to rise and comfort Ambrose, he was paralysed by his own grief at the state of things, and at the awful unfairness of it all. A Fateweaver had appeared and casually frozen time itself, then snatched him right out of the lives and minds of his friends and flung him halfway across the Empire. What could he have done?
+
+And now anger was boiling within him, because how dare they, how dare they, what gave them the right to twist their threads like this and mutilate his friends, turning their hearts and minds so far from their natural bent in order to fit the wretched pattern of Prophecy, and then allow him to come back to them and see how wretched and broken they were now.
+
+And that Fateweaver who had spoken with him... that ancient-distant-spider, portraying herself as such a wise, detached, benevolent being... was this what she oversaw, and willingly wrought? Did she see these threads and allow the threads to pass through the hands, and somehow justify this to herself? Did all of them brood over the lives of every living being in the Empire, willfully weaving misery and woe in the name of a greater good that only they claimed to be able to see, while they sat blind and unfeeling in the emptiness of oblivion?
+
+Caden finally leaped to his feet, fuelled by righteous fury. He was half-blinded by his own tears, but he managed to stumble over to Ambrose and drag him up to his feet as well. The Chosen One didn't really look the part at the moment, with his face marred by tears and snot, scrunched up in grief. The sight of it brought a choking laugh out of Caden, and Ambrose stared at him, startled and slightly scandalised.
+
+"I'm back," Caden said as he held Ambrose by the shoulders and shook him. "And we're not going to let them get away with this. They may have planned for the Six-Chained-Foundations. But there's seven of us, and I'm not going to let them have their way with the rest of you."

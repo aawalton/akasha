@@ -1,0 +1,237 @@
+---
+id: 6ce621e9-e1c8-5a1f-9de8-bebede59461a
+page-type-slug: story-chapter-royal-road
+title: "47 - How Mana Works"
+slug: 0047-47-how-mana-works
+partOf: cat-girl-evolution
+position: 47
+ownLength: 2878
+unit: words
+publishedAt: 2025-11-09
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2745177/47-how-mana-works"
+royalRoadId: "2745177"
+---
+
+“Since we made the bet over the duel first, we’ll start with the two Skills we promised to teach you,” says A.
+
+“Do you want to learn her Mana Burst, or my Mana Barrier?” asks B.
+
+“Mana Burst!” I say. “Wait no, Mana Barrier!”
+
+Mana Burst sounds cooler, so I should save it for last. Get the boring stuff out of the way first.
+
+“Okay,” replies B. “This one should be quite quick. And I’ll give you a quick lesson on mana before we start. Mana can take on many properties, and depending on the attribute of the mana, certain properties may be more difficult. The two most basic properties of mana are stability and volatility, and unattributed mana excels at both. Fire mana, however, excels at volatility, and it is very difficult to stabilize. It is the same with wind mana. Water mana struggles with both stability and volatility, but it has incredible flow and resilience. Lightning mana is incredibly volatile, incredibly unstable, and incredibly potent, but its flow is difficult to control, and it is not resilient. See what I mean?”
+
+“Yeah, makes sense.”
+
+“As you can probably guess, barrier mages like myself focus mainly on stability and resilience. You actually also focus on these properties with your constructs, though you include flexibility. Flexibility is actually something that can be integrated into barriers though later on, so that helps even more. Learning Mana Barrier should be very easy for you, since it’s more or less a mana construct that has the same properties as the ones you already use.”
+
+“Oh, so like this?”
+
+I use some of my mana to form a circle in the air. B watches, nodding as I compress more mana into it so that it becomes more and more solid.
+
+“Very good,” says B. “Now try to make it a bit more like this one.”
+
+She conjured her own miniature shield, and it is much thinner than mine. It’s as thin as a sheet of paper, but it has almost three times as much mana in it. I focus on my own, first flattening it. It’s a bit tricky to compress it, but I get it almost all the way there, then start amplifying the mana.
+
+“Now, rather than simply adding more mana and compressing it inward, try to focus on the mana’s potency instead,” says B. “It doesn’t quite make sense until you experience itself, but try not to think about it like you’re putting more mana in. Think more that you’re increasing the strength of the mana that’s already there.”
+
+“You’re right, that doesn’t make sense,” I say. “Isn’t that the same thing?”
+
+“No, but you’ll have to trust me, because it can’t be explained with words.”
+
+“Alright, fine.”
+
+I focus as she says, trying to strengthen my basic mana shield, but not pour more mana into it and compress it. It really doesn’t make sense. How is this supposed to work? Hers clearly just has more mana in it. Why won’t compressing more mana just strengthen it?
+
+“Think about it like a fire,” says B. “You don’t make it hotter by adding more firewood. You make it hotter by giving it air. It has plenty of firewood. Now just give it some air.”
+
+“That really doesn’t help either.”
+
+“Just keep trying. It’s like a mental switch. It’ll get flipped, and then you’ll wonder how you ever struggled with it in the first place.”
+
+“Okay.”
+
+I keep trying to amplify the mana, wondering the whole time how it’s even possible, and then suddenly, just as B said, the switch flips, and my shield gets stronger. At the same time, I hear a ding, and an Annoying Blue Box appears.
+
+[ You have learned the Skill Mana Barrier ]
+
+I check my stat sheet and open up the Skill to find that the Skill description is just as lazy.
+
+[ Mana Barrier: Make a barrier out of mana. Proficiency: Early ]
+
+“Congratulations,” says B. “You were very fast.”
+
+“Of course I was,” I say, nodding. “I’m basically a prodigy.”
+
+“Mana Barrier is a very versatile Skill, and you can go a lot of different ways with it. I didn’t use it as much as I normally do in our fight because I had to put my full efforts into supporting the main shield around us, but usually, I’m a bit more active about how I use it. Obviously, I can raise the two of us on a platform shield and protect us, but I can also conjure them away from myself, making our enemies run into them, or corralling them into the path of A’s spells. Those wouldn’t have really worked against you, since you can Blink, and you would be able to easily shatter those shields, but against a different enemy, that’s what I would have been doing.”
+
+“I see,” I say, nodding. “That makes sense.”
+
+I guess I’m just too special.
+
+“You were also doing something I do a lot later in the fight when you used your constructs to detonate A’s spells early. It’s a great way to counter powerful spells without using too much mana. It’s mostly ineffective against stable attacks like your Spatial Slice though, so be aware of that if you continue using that strategy.”
+
+“How do I tell the difference?”
+
+“Stable attacks hold their shape,” says A, chiming in now that we’re talking about her specialty. “Stable attacks won’t change in shape, and their mana signature won’t fluctuate as they travel. Volatile attacks will be more amorphous, and will give off mana almost randomly until they detonate.
+
+“I use both stable and volatile attacks, though mostly volatile. The barrage attack—the one that fires a couple dozen projectiles in rapid fire—is a stable spell. Each of those projectiles was just pure, condensed, potent mana, and the damage they did to the ground, or that they would have done to you, was 100% impact damage. Meanwhile, the explosive attacks were volatile, of course.”
+
+“So my Spatial Slice is a stable attack?”
+
+“Almost all Spatial Skills are stable,” says A, nodding. “When spatial mana gets volatile… Well, I’ve never seen it, but volatile spatial spells are forbidden, and according to our master, they are forbidden for a very good reason. I heard there’s a city on the mainland that got completely destroyed and turned into an uninhabitable wasteland due to a volatile spatial spell gone wrong. So I would recommend not experimenting with trying to make spatial mana volatile.”
+
+“Spatial mana can blow up a city?” I ask.
+
+“Less blow up and more… twist. Warp. Splice. I’ve never seen the place, but the rumors say that everything in the city was diced to pieces and mixed up. It’s basically a pile of rubble and bone now. You can’t even tell it was a city once. Everyone died.”
+
+“Cool…”
+
+“The caster was killed in this incident too.”
+
+“Ah, less cool… But still, that sounds really strong if you can control it.”
+
+“Yes, which is why some people try for it anyway,” says A, nodding. “Anyway though, making spatial mana volatile is probably beyond you at the moment anyway, so it’s not worth worrying about. For now, let’s focus on unattributed Mana.”
+
+“Okay,” I say.
+
+Abby, how do I get an unstable spatial spell?
+
+“I don’t know, but if you take your Class, Profession, or Species down the spatial route, you’ll likely see a path to get there.”
+
+Huh, I thought you were gonna try to talk me out of it.
+
+“You wouldn’t listen, so I would rather help you get a System-approved unstable spatial mana Skill than whatever you would try to concoct on your own.”
+
+Awww, I knew you cared about me.
+
+“As B said, unattributed mana is very good at both stability and volatility,” says A before Abby can reply. “Not as good as earth or fire for those properties, but better than most other attributes.”
+
+“Why don’t you guys use those attributes for your spells?” I ask.
+
+“We don’t have those affinities,” says A.
+
+“Really? Can’t you get them when you evolve?”
+
+“Unfortunately, no,” says B. “Not us, at least.”
+
+“But we have something better,” says A. “Unattributed Mana Affinity.”
+
+“That’s a thing?”
+
+“Yes,” says B. “And it’s the reason we can’t get other affinities. We don’t know why we have it, but we were born with it. It’s one of the rarest Traits, and while it limits us, it also makes us much more powerful at our respective specialties.”
+
+“So you guys are like the strongest unattributed mages?”
+
+“At our level, I would be surprised if there was anyone else as good as us.”
+
+“Not only do we have our own abilities, but we were taught by our master, who is likely one of the most powerful people in the country, if not the world.”
+
+“They’re that strong?”
+
+“Yes,” they both say.
+
+“Then what are you doing way out here? Lauren was telling me that this is the boring side of the country, since there are no high-level Dungeons, so no one is very strong.”
+
+“Our master says that humble origins are best,” says A.
+
+“By working our way up from the bottom, we will have a greater appreciation for the world,” says B.
+
+“And we’re not in a rush.”
+
+“Our master says that rushing through levels is a great way to end up as a tier 6 that can’t beat talented tier 4s.”
+
+“The longer you spend with one Class, the more you master it, and the better your odds of getting a better Class at your next upgrade.”
+
+“They’re right,” says Abby. “If you’re in too much of a rush, your Class options might be disappointing.”
+
+“Hmmm, that sounds like a good idea,” I say. “If you go slower, you have more time for good food and naps.”
+
+“That too,” says A. “Now, back to volatile mana though. Mana Burst will probably be harder for you than Mana Barrier, since your constructs and spatial Skills are all stable mana, and you’re not used to volatile mana.”
+
+“I have a Fire Affinity.”
+
+“You do?”
+
+I cast Ember from my hand, pointing it at the ground to our side. It explodes with a very pitiful puff.
+
+“I haven’t done much with it though. I need to upgrade that Skill.”
+
+“I see,” says A. “Well, that will make this much easier then. Mana Burst is just as simple as Mana Barrier. It’s basically just a ball of potent, volatile mana. You hold it together with your willpower, then fire it. In its base form, it has limited range, since it will destabilize and explode after a little while, but you can upgrade it pretty easily to mostly eliminate that weakness.”
+
+I conjure up a ball of my mana as she speaks, trying to figure out how to destabilize it. It’s basically a construct ball right now, so it’s ultra stable, and it’s a bit hard to work with though.
+
+“Adding volatility is similar to adding potency,” says A. “You won’t get it, and then it will click, and it will be easy. For now, think of the mana vibrating, and slowly try to increase the vibration.”
+
+I do as she says, but I also think back to that one time when I almost accidentally blew myself by turning a compressed ball of unattributed mana to the fire attribute. I think it’s a pretty similar process here, just without the fire.
+
+Less than a minute later, my theory proves correct as my ball of mana starts humming dangerously. It’s still quite weak though, so I put more mana into it, then increase the potency. When it reaches the point where I don’t think I can control it anymore, I toss it up into the sky where it explodes like a miniature firework. Then, I check the Annoying Blue Box and my brand new Skill.
+
+[ You have learned the Skill Mana Burst ]
+
+[ Mana Burst: Make a burst out of mana. Proficiency: Early ]
+
+Yup, the System is just as lazy as usual.
+
+“Good work,” says A. “That was much quicker than I expected.”
+
+“I think we have time for more,” agrees B, nodding.
+
+“Yes. Yona, you said earlier that you haven’t had your Class for long, right?”
+
+“Right,” I say.
+
+I decide not to let them know that I haven’t even had it for a week, and that I barely had Beginner Mana Vivitect for any longer. It would probably expose me.
+
+“We can tell,” says B.
+
+“And anyone with any deeper knowledge of Classes can too,” says A. “You are too inexperienced.”
+
+“You need to use your Class more,” says B. “For everything, really. You have a very versatile Class for it too, so you actually can use it for everything.”
+
+“Yes,” says A. “It’s tougher for me, since there’s only so much I can do with projectiles and explosions, but you can do basically everything with your mana constructs.”
+
+“Hey, yeah, you’re right…” I say, putting a hand to my chin.
+
+“We recommend using your constructs as much as possible,” says B. “Make yourself so familiar with them that you can use them like natural parts of your body.”
+
+“Yeah, that’s a good idea!” I say.
+
+This is a really good idea. I’ve always been annoyed about having to do silly menial tasks myself, but now I don’t have to! I can just make my mana constructs do it! Lauren mentioned doing the same for cooking, but what if I just did it for everything?
+
+With that in mind, I conjure up a pair of long, sexy mana legs, anchor them to my butt, then sit down. It’s a little unstable at first, but I manage to figure it out, and soon, I’m sitting in midair on my mana legs. Then, I try to take a step and almost fall over.
+
+This is too unsteady. Humans are too unsteady. Why would anyone be bipedal? Why would I default to bipedal?
+
+I reshape the human legs into cat legs, both front and back, then I make a big Mana Barrier and anchor the legs to the bottom of that. Then, I sit on top of the mana barrier. Much better!
+
+I look up to see A and B staring down at me, their expressions unreadable. Now that I look a little closer though, they’re both using a little bit of mana. It’s a really tiny amount, but they keep going back and forth. First one uses it, then the other.
+
+“Are you talking telepathically?”
+
+“No,” they both say without moving their mouths.
+
+“I see,” I say. “Anyway, want a ride?”
+
+“Yes.”
+
+I expand the barrier a little bit to make room, and they both get on behind me, each choosing an ear to rub. I did not give them permission this time, but it feels nice, so I don’t say anything as I start up the catmobile.
+
+It’s kind of unsteady at first, but since it’s a quadruped, it never threatens to fall over like a silly biped would. Once we’ve moved about fifty meters or so though, I have it under control, and the ride smooths out. My control improves the closer we get to the camp until the end when it’s about half as smooth as my normal cat walk. I bet with some more practice I could get it just as smooth. Maybe I’d even be able to nap while walking!
+
+“Automated spells are not easy. You would need a Class–”
+
+Shut up, Obbjector, you wet blanket. Let me fantasize.
+
+Lauren and Chad are already in their tents when we arrive, so A and B telepathically thank me, then quietly go to their own tents. I am about to get off as well when I remember their words. I should be using my constructs for everything. That means no more moving on my own. Only constructs.
+
+Or teleporting, I guess, because it’s kind of late and I’m tired and I’d rather just Blink instead of trying to figure out how to open the tent and all that without using my hands.
+
+I do exactly that, leaving the catmobile outside, and right as I’m about to dispel it and absorb my mana back into my body, I pause. It took me like a minute to make this. And I can’t register it as a Blueprint, apparently, because the Mana Barrier it’s made with isn’t an anatomical construct. Maybe if I replaced it with a crab shell or something, I could… but I have a better idea.
+
+Earlier, I ate B’s shield and A’s explosive projectile thing. Before that, I ate Flarn’s bubble. Clearly, I can eat other peoples’ spells, and a mental glance inside my Stomach shows that they’re all still there. Logically, that means I should be able to do that with my own spells, right?
+
+I conjure a mana cat head outside the tent and make it bite the catmobile. It gets pulled into my Stomach. I spit it back out. It reappears back on the ground. It’s apparently not under my control anymore, and starts to dissipate immediately, but I regain control before it’s lost more than a fifth of its mana.
+
+Interesting. Very interesting. I bet there are a lot of fun ways I could use this.

@@ -1,0 +1,67 @@
+---
+id: 75e1b1be-0147-50e3-9d7b-aee2cd102643
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1593 - Invasive Ooze"
+slug: 0241-chapter-1593-invasive-ooze
+partOf: chrysalis
+position: 241
+ownLength: 955
+unit: words
+ownProgress: 955
+publishedAt: 2025-06-26
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2385848/chapter-1593-invasive-ooze"
+royalRoadId: "2385848"
+markedReadAt: "2026-06-29T19:51:31.154Z"
+---
+
+These stupid net… ooze… things are super annoying! Fire won’t burn them off, and it seems as though the Krath have found a way to make them more resistant to the cleansed mana. They’re burning away, but so much slower than I would like!
+
+Every moment that passes, they spread themselves further over my carapace, feeling their way around and trying to find a weak spot where they start to apply their paralysing toxins. It’s unpleasant, to say the least.
+
+And that isn’t even the worst thing I have to deal with right now!
+
+In the distance, my gravity bomb is screaming, the air whipping past my face. It’s massive, blocking off a huge chunk of the tunnel and not allowing anything through, but it’s not going to be enough.
+
+The sheer mass of mucus and gunk coming down the tunnel is too much, it’ll deplete the gravity bomb before my spell can chew through it all. Even if the monsters and Krath can’t come down the tunnel to attack us, all they have to do is wait.
+
+My minds continue to burn as I push them as hard as I can, forming more gravitational mana in preparation for creating another bomb. I can’t think of anything else that could possibly hope to prevent that tidal wave from slopping onto the platform.
+
+The slugs on the wall continue to play their little games, throwing out blasts of acid and launching their nets. Most of them come my way, but every now and again, they target someone else, just to keep everyone on their toes.
+
+And of course, any time someone gets too close to me, a barrage of acid and nets comes raining down, forcing me to jump in front and take the blows head on. It’s clear what they want, to isolate me and slowly wear me down. My initial instincts were correct, they really are trying to capture me this time. Which means they want to drag me off and dunk me in their stupid slime. As if I could ever be anything other than a loyal ant!
+
+You’re talking nonsense, Krath!
+
+Again, I loop my mandibles around, catching as many of the ropes as I can, pulling them tight and yanking back with all my weight. Most of the ropes go slack immediately, and I loop them around again until they start to tighten. We aren’t playing this game again. Cut the ropes or come down here and say hello!
+
+I pull again, and as predicted, most of them drop away, but there are still a few holding on up there. Well done, doing better than I thought! Where the heck are they?
+
+I’ve been trying to find them, but the sneaky slugs are working further away than I’ve ever seen them, high up the wall in the darkness. With their mastery of stealth and trickery, it’s almost impossible to get an exact read on them, and with so much native mana between me and them, my spells won’t be as effective.
+
+Really been using their noggins before they came down this time. It still won’t be enough, but I don’t mind giving them credit. They worked hard.
+
+HOOOOOOWWWWLLLLLLLL!!!
+
+There hasn’t nearly been enough time for my Altar to refill a significant amount, but what is there, I pour into the bomb. It should be enough; after all, I’ve switched targets. My brains are gasping for air after straining their neurons to their limits handling so much mana in such a short period of time. Even with my Vestibule, it’ll take a little time before my brains are back at their best. I need some time for them to recover, so I let my constructs fall apart. A few minutes, and I can bring them back again.
+
+The bomb sails through the air, a deadly ball of slowly rotating gravitational mana. The tidal wave will break through the first bomb any second now, I can already see it flickering, on the verge of failure. This second won’t make a dent in all of that mucus, but it will still save the platform.
+
+After all, I aimed for the lip of the tunnel right in front of us.
+
+“BRACE YOURSELVES!” I roar.
+
+It’s not really necessary, the ants already know what’s about to happen and have reacted accordingly, helping their non-ant allies prepare. I dig my claws in, lower my body and hold on.
+
+The bomb expands and the pull of gravity is dreadful. With the amount of mass I have, my legs are barely able to withstand the pull it has on me. The void screams and rotates, consuming everything in front of and around it, insatiable in its appetite.
+
+Well, it’ll be filled with slime soon enough, the stuff doesn’t stop oozing out of the walls along with the monster spawns. Before then, it’ll achieve what I wanted, which is to chew through the rock.
+
+In the distance, the first bomb fades away, finally overwhelmed by the mucus. Beyond it, the tidal wave keeps coming, wall to wall mucus, floor to ceiling. How in the heck did they even store up this much?! Is there a hoover dam of mucus nearby or something?!
+
+No matter. With the lip of the tunnel being shredded by gravity, the distance between the platform and the tunnel is growing wider by the second. Their plan to overwhelm the platform won’t be successful, since all of that sludge is going to drop down into the darkness below.
+
+Gweheheheh!
+
+Then a surge of mana rings in my antennae and mucus netting blasts down from above. At first, my eyes can’t even believe what I’m seeing.
+
+The Krath are making some sort of bridge?! You cannot be serious!

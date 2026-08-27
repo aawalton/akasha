@@ -1,0 +1,223 @@
+---
+id: 2f0fc4a8-e5cf-56de-845c-b994ec7bc972
+page-type-slug: story-chapter-royal-road
+title: "149 - The Frog Dilemma"
+slug: 0152-149-the-frog-dilemma
+partOf: cat-girl-evolution
+position: 152
+ownLength: 2353
+unit: words
+publishedAt: 2026-08-14
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3811871/149-the-frog-dilemma"
+royalRoadId: "3811871"
+---
+
+“Yes,” I say. “Where are the frogs?”
+
+“Not so fast,” says Zorg, holding up a finger. “I’m happy to give you a down payment, but you need to agree to the deal first.”
+
+“What do you want?”
+
+“Well, you see, there’s a very dangerous monster gunnin’ for my life right now. If you were to take care of that monster, I would be most grateful.”
+
+“What kind of monster?”
+
+“I’m afraid I don’t know that. All I know is that it is dangerous, and it is hunting me.”
+
+Definitely the First Event, then.
+
+“Without a doubt.”
+
+“And you want us to risk our lives hunting down a monster of unknown type and ability for you to earn some frogs?” asks Lauren.
+
+“You’re the one who wanted frogs,” he says with a shrug. “I can pay in other ways. I’ve got gold, materials, pelts and skins, information… me.”
+
+He looks at me and winks. I don’t like this guy.
+
+“Is there anything else we can do to get those frogs?”
+
+“How many do you want?”
+
+“A lot.”
+
+“How many is a lot.”
+
+“At least 100.”
+
+“Ha!” he barks. “100? Well, I can sell you that many, if you want. Do you have 200,000 gold?”
+
+“200,000?!” exclaims Lauren. “You want two thousand gold for each one?! That’s absurd!”
+
+“Hey, I put a lot of work into gathering them,” he says, pointing at her. “It took months to find groups large enough to create their spawn hot zones, and if you want me to give you 100 at once, that could ruin it all. There might not be enough to maintain it. I’d have to go through all that again. Frankly, I’m giving you a discount here.”
+
+“That’s ridiculous!” says Lauren. “Do you know how much you could buy with that!”
+
+Zorg shrugs. “They’re good frogs. I’m still willing to give them if you kill that monster for me.”
+
+“Absolutely not,” I say.
+
+I’ve had enough of getting involved with these Chosen One candidates.
+
+“Well, then good luck finding some on your own. Unless you have something else to trade with me, you’re dismissed. I have business to do.”
+
+He reached his arms around each of his hags and squeezed, causing them to giggle. Disgusted, I turn around, and the others do the same, and Sebastien slithers ahead to guide us back out.
+
+“It’s a shame that the deal did not work out,” says Sebastien as he opens the front gates. “But if you change your mind, or you have something else of value, feel free to come back any time.”
+
+“We probably won’t,” I say. “But thanks, Sebastien. Your boss kinda sucks, but you’re a pretty solid butler.”
+
+“I am flattered.”
+
+“Alright, let’s go.”
+
+We quickly leave Zorg’s territory and start hunting for Interspace Tree Frogs again, but by time sunset rolls around, we have had no luck at all. We camp out in a makeshift house on stilts built by Chad, and then the next morning it’s right back to frog hunting.
+
+By the time we need to head back so we can meet with Wesley later, we have found a grand total of two frogs. Combined with the one we bought from Sebastien, that makes three. Two days of hunting for three frogs. At this rate, even if I completely blow off Fabio’s stupid party, it’ll take months to get as many frogs as I want.
+
+“We should go steal some frogs from Zorg,” I say as we head back toward the road.
+
+“What?” says Lauren. “We can’t do that.”
+
+“Why not?”
+
+“Yona, stealing is illegal.”
+
+“Well, he’s an asshole, and he’s also monopolizing on the frogs. I bet it’s his fault there are so few of them around.”
+
+“It’s very possible,” says A.
+
+“He mentioned making spawn hot zones,” says B.
+
+“He might have gone so far that the Interspace Tree Frogs spawn almost exclusively in them.”
+
+“It has happened before.”
+
+“Exactly,” I say. “He’s basically ruining the environment. And I doubt he’s supposed to be where he is. I bet if we told the Adventurer’s Guild about him, they’d send an extermination squad.”
+
+“That doesn’t mean we should just go stealing from him,” says Lauren. “He did go through a lot of effort to gather them.”
+
+“Effort that’s destroying the natural environment,” I say. “I can’t just sit by and watch his industrial crimes devastate such a beautiful piece of nature. Besides, you saw him, right. There is absolutely zero chance he’s clean. He’s definitely doing some shady stuff to conduct his ‘business.’”
+
+“That doesn’t mean we can just go steal from him. Besides can’t you just make some in your Dungeon?”
+
+Abby?
+
+“Kind of, but not really.”
+
+“Abby says no.”
+
+“Why not?”
+
+“The frogs are both high tier, and on a unique evolution path. Creating them is costly, even if it’s just as homunculi.”
+
+“Because it’s expensive, apparently. Same reason we couldn’t give James the chef any fancy Skills.”
+
+“But you can make them, right?”
+
+“Not very often.”
+
+“Abby says not very often.
+
+Lauren sighs.
+
+“What if we confirm that he’s doing some illegal stuff?” I ask. “Then can we steal from him?”
+
+“Well…” says Lauren, wavering. “Even so…”
+
+“What if he’s threatening those towns he’s trading with?” I ask. “I mean, he’s clearly pretty strong. He’s a Tier 4 Named monster with a Sin or Virtue Trait. And he’s probably gotten some random bullshit from his deity too. It’d be pretty easy for him to threaten a smaller town into submission. And in that case, we would have no choice but to report him to the Adventurer’s Guild, and then steal his frogs to ruin his businesses.”
+
+“That’s…” Lauren hesitates. “If that’s true, then I suppose we could maybe do some kind of frog stealing. But we’ll need to verify that first.”
+
+“Of course, of course,” I say, rubbing my hands together. “Tomorrow, we’ll go visit one of those little villages in that area, and when we find evidence of Zorg’s crimes… It’s frog heist time.”
+
+The carriage we hired was already waiting where we left it, so as soon as we make it back to the road, we’re off, heading right back to central Dryadil. We arrive about an hour before sunset, which gives us time for a quick bath before heading downstairs to the dining area to meet with Wesley.
+
+The second we arrive, one of the elven employees comes to greet us and guide us toward a private room in the back where Wesley is apparently already waiting. And not only was he waiting, he already had an array of food out on the table, all cold foods like cheeses and fruits that wouldn’t lose their appeal from sitting out for a little while.
+
+He had two others with him, one woman who looks about thirty or so, and like she has no sense of humor, and one man who looks forty and like a dad. According to their Namecards, they are Deborah and Shawn, both Paladins of Seria. I have no idea who Seria is, so that doesn’t mean much to me, but it seems to mean something to the others.
+
+“Oh, you are paladins of Seria?” asks Lauren.
+
+“No, we’re actually demon worshippers with fake Namecards,” says Shawn with a smile.
+
+“Yes, we are paladins of Seria,” says Wesley. “I didn’t realize that you didn’t know. I suppose it’s hard to tell when I don’t have my armor on and my Namecard doesn’t show my Class.” He chuckles. “Well, have a seat. No need to be awkward.”
+
+We all slide into our chairs, and I immediately reach for the nearest block of cheese to start my nibbling.
+
+“Seria is the goddess of commoners,” one of the twins tells me telepathically.
+
+“She and her paladins are generally well-regarded, because they act almost entirely out of charity, protecting the weak and serving their communities.”
+
+“Eryndell is the center of Serian paladin activity in Elyria.”
+
+I nod in acknowledgement while I eat my cheese and the others start to exchange introductions.
+
+“It’s a pleasure to formally meet you all,” says Wesley with a smile. “I’m Wesley, the leader of the Eryndell order of Serian paladins. This is my right hand man, Shawn, and our chief of logistics, Deborah.”
+
+“Heyo,” says Shawn. “Nice to meet you.”
+
+“Hello,” says Deborah, nodding.
+
+“Ammasherayalothonathara,” says A. “Artillery Mage and Artificer.”
+
+“Berthariklesionasthitara,” says B. “Barrier Mage and Artificer.”
+
+All five of us are quiet for a few seconds as the paladins try to process their names.
+
+“We just call them A and B,” says Lauren. “I’m Lauren, the on-paper Party leader. I am a rogue archetype.”
+
+“Chad,” says Chad. “Tank.”
+
+“And I am Princess Yona,” I say. “The brains of the party.”
+
+“She’s not,” say the twins and Lauren simultaneously.
+
+“Agree to disagree.”
+
+“Anyway, it’s nice to meet you as well,” says Lauren. “What brings you all the way down here from Eryndell?”
+
+Wesley glances at his two subordinates, then sighs.
+
+“I had planned to save that for later, but I suppose I should have seen that question coming. The reason I am here is the same reason that I have invited you to this dinner meeting. I’m afraid it’s quite serious, so I will try to wrap up quickly, so we can have an enjoyable rest of the night.
+
+“I’m sure that you have at least heard rumors, but there’s a lot of strange things happening in the world right now. Unusual numbers of Named monsters going around and massacring towns. Your Party has been unfortunate enough to be at the center of two such incidents. I said it the other night, but I will say it again. Thank you for what you’ve done. You might not have been able to save the dead, but many others owe their lives to your efforts.
+
+“Now, what I’m about to tell you is confidential. Most institutions are already aware, but it’s being kept quiet so as not to cause a panic. And as someone who’s seen quite a bit of panic in my time, I have to say that I agree with that decision completely, and I hope you will too.
+
+“These Named monsters, these destroyed towns… all of it is caused by a few of the more unscrupulous gods getting together to play a game using our world as the game board. The Named monsters were created by them, and are being used as pieces to move as they please, and gamble on.
+
+“Other gods, like Seria, have rightfully taken offense, and have mobilized their followers to put a stop to this. And that is why we are here. We were too far to stop what happened in Ryantown, and we failed to foresee the tragic Maligar Massacre, but this time we are ready. Seria has given us a prophecy. Very soon, three of these agents of chaos will meet here in Dryadil, and we plan to subdue or kill them all in one fell swoop.”
+
+I share a glance with Lauren, but before either of us can say anything, the twins start talking.
+
+“Are you certain?” asks A.
+
+“Positive,” says Wesley.
+
+“When will they arrive?” asks B.
+
+“One of them is already present, and we have located them. A Leader type making his home deep in the swamp. He has already subdued three small villages who are now paying him for ‘protection money.’ It was those villages that we were investigating over the past two days.”
+
+“So he’s exploiting the villages?” asks A.
+
+“Threatening them so that they will pay him money?” asks B.
+
+“Yes, without a doubt. Fortunately, he has yet to act on his threats, and the villages are relatively safe, for now. We chose not to interfere yet, only giving them some funds to help them pay their tribute until it is time to act. As for the other two, we are not sure where they are, but we know that they will be arriving this week, and they will all be converging on the same place. Since one is a Leader, it is safe to assume that they will be meeting on his territory, so we will be waiting until the right moment, at which point we will strike.
+
+“We are currently recruiting all the Platinum and higher Adventurer Parties in the city, who are willing, and we would love if you joined as well. I have no notion of how powerful our foes are, but the more of us there are, the less likely things are to go wrong. Of course, if you are not interested, or you have other obligations, you are more than welcome to reject the offer. With your background, you might have unique insight into the situation, but your absence will not decide the success or failure of the operation.”
+
+“We’ll have to discuss this before we can make a decision,” says Lauren quickly.
+
+“Of course,” says Wesley. “That is why I had originally intended to bring this up later, so that you could retire to your rooms and discuss. You don’t have to make a decision right now at all. I just wanted to get the explanation out of the way right now. Do you have any questions?”
+
+“Not yet…” says Lauren, looking around at each of us. “Maybe later, after we discuss.”
+
+“Wonderful,” says Wesley, clapping his hands. “Then in that case, let us enjoy the rest of this casual gathering.”
+
+The rest of the night is surprisingly pleasant. After the serious and worrying opening to the meeting, Wesley does a very good job of transitioning from business to pleasure, and manages to keep the conversation away from anything heavy for the entire rest of the night. At the end, when we part ways, he reminds us to think over his offer before bidding us good night, and once he’s gone, we all converge in Lauren’s room to talk.
+
+“I told you so,” I say, crossing my arms. “I told you Zorg was shady.”
+
+“I never disagreed,” says Lauren. “But yes, that is about as strong a confirmation as we could get.”
+
+“Then it’s decided. We’re doing a frog heist!”

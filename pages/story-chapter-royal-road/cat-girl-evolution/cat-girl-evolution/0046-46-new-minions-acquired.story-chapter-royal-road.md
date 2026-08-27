@@ -1,0 +1,283 @@
+---
+id: 0318ce76-bca9-514f-b175-db265788476d
+page-type-slug: story-chapter-royal-road
+title: "46 - New Minions Acquired!"
+slug: 0046-46-new-minions-acquired
+partOf: cat-girl-evolution
+position: 46
+ownLength: 2394
+unit: words
+publishedAt: 2025-11-07
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2739609/46-new-minions-acquired"
+royalRoadId: "2739609"
+---
+
+When we return to the campsite, Chad isn’t there, and Lauren isn’t making eye contact. I can sense Chad a little ways away gathering firewood or something, but it’s very suspicious. My food isn’t quite ready yet, but I can see a covered pot sitting on a fire, and it smells heavenly, so I suppose it’s acceptable. I am not a ruthless tyrant who cannot see that good food takes time.
+
+There are some freshly chopped logs in a circle around the fire—probably the work of Chad—and I sit down on one of them. Immediately, the twins walk up behind me and start touching my ears. I flinch, but they are very gentle, and they even start massaging my scalp, so I settle down and let them. It feels nice. They would make good minions. They’re hired!
+
+For a few seconds, I enjoy the head massage while Lauren stares at the three of us. I can’t see the twins’ faces, but it’s probably safe to assume they’re the same cold, expressionless faces as always. They don’t seem to change unless magic is involved.
+
+“What the hell happened?” asked Lauren.
+
+“I won,” I say.
+
+“She did,” says A.
+
+“We didn’t stand a chance,” says B.
+
+“Really?” asks Lauren. “And you lost a bet so now you have to give her a massage?”
+
+“Something like that,” says A.
+
+“I see…”
+
+“When will the food be ready?” I ask.
+
+“Just a few more minutes.”
+
+“Is it stew? It smells like stew.”
+
+“It’s stew,” says Lauren, nodding. “Lamb stew.”
+
+“Yum! Where’s Chad?”
+
+“Getting wood.”
+
+I glance down at the very large pile of firewood.
+
+“Right.”
+
+A moment passes where none of us speak.
+
+“So, do you three understand each other’s abilities better now?”
+
+“Yes,” the three of us say simultaneously.
+
+“That’s good…”
+
+We settle into silence again, and I close my eyes, enjoying the twins’ work. Then, A speaks next to me.
+
+“You haven’t had your Class for very long, have you?” she asks.
+
+I can tell from her tone that it’s not really a question.
+
+“No, not really,” I reply.
+
+“We could tell,” says B. “That fight should have ended sooner than it did.”
+
+“We really shouldn’t have stood a chance.”
+
+“You saying I’m not good at fighting?”
+
+“No, we’re saying that you’re inexperienced,” says A. “With mana in general, it looks like.”
+
+“So we have a proposal,” says B. “We promised to teach you our spells, but we also want to help you maximize the potential of your Class in general.”
+
+“In exchange… Well, we’ll tell you in private.”
+
+“...Maybe,” I say.
+
+This sounds suspicious. What do they want from me?
+
+“Excellent,” says B. “After we eat, we’ll head back to where we fought and talk a bit.”
+
+“We need to leave early in the morning,” says Lauren, frowning.
+
+“We won’t be gone long,” says A. “Only a few minutes.”
+
+“Besides, we can just sleep in the wagon if we get too tired,” says B.
+
+“Right, but don’t screw your sleep schedules,” says Lauren. “I don’t want you three to be nocturnal when we get to Ryantown.”
+
+“Okay, Mom,” say A and B.
+
+Lauren’s face flushes slightly, and at that moment, Chad returns, with two whole tree trunks under each arm. The branches have all been cut off, and the top and bottom were cut so they’re mostly uniform logs, so I assume that’s what took him so long. I don’t know why he needed them though.
+
+He stops and stares at me and the twins for a few seconds. The twins and I stare back. He glances at Lauren.
+
+“They lost a bet,” says Lauren.
+
+“Oh,” says Chad, nodding.
+
+Then, he turns away, setting the logs down as he produces an axe from his belt, which I think is a spatial storage. He completely ignores all of us as he sets to chopping the trees up. He moves at a crazy pace, and within a minute, all four logs are chopped into planks of varying lengths and thicknesses. Then, he puts the axe away and pulls out a hammer and a handful of nails. A minute later, he has a chair. Four minutes later, he has four more chairs. B reaches a gentle hand down to close my wide-open mouth.
+
+“Want a proper chair?” asks Chad, turning to Lauren.
+
+“Sure,” says Lauren, much more softly than she usually talks.
+
+Chad gives her the chair that looks like it was made of the best pieces of wood, then hands out the rest of the chairs, keeping the weirdest, most warped one for himself.
+
+“He has a carpenter Profession,” says A.
+
+“Yes, I can see that,” I say.
+
+That changes my evaluation of him as a minion a bit. These chairs aren’t the highest quality, but he made them so quickly that it doesn’t matter. I bet that if he had taken a bit more time, they’d be more comfortable, and if he had better materials, they’d be even more so. I was hoping he had, like, a massage Profession or something… but I think this is just as good. Maybe better. With Chad, I would never have to sleep in the rain. I could always have a bed.
+
+Though I guess I could probably do the same by just storing some shelter and a bed in my Stomach. But he can provide custom solutions. What if I’m climbing a high mountain to get magical eagle eggs or something and have to sleep on a cliffside, and there’s not enough room for whatever house I decide to store away? He could make a proper shelter there. If his compatibility with Lauren wasn’t already enough, his Profession is definitely enough to qualify him. He’s hired!
+
+A and B settle into chairs on either side of me, but they each keep one hand rubbing my ears. A moment later, Lauren leans in, then with her bare hand, takes the metal pot off the fire and opens it up, letting the delicious aroma spread across the entire campsite. I can barely stop my mouth from watering as she separates it into bowls and passes them out. The stew is as delicious as everything else she makes, and I have six bowls, almost twice as much as anyone else. Lauren and Chad are pretty big eaters though, and each get through four bowls. They really are a match made in heaven. I wonder why they’re so shy and embarrassed about it.
+
+After we eat, now that my stomach is comfortably full, I stand up, and A and B mimic me, and we turn to head back toward the clearing. I take a few steps, then pause and turn back.
+
+“Have fun, you two,” I call. “But not too much fun!”
+
+I turn around immediately so Lauren doesn’t have time to reply, but I can imagine that she’s blushing right now. Chad is probably blushing too.
+
+“Would their ship name be Chauren or Lad?”
+
+What?
+
+“My database says ‘ship names’ are common among people like yourself who see romance where there is none. ‘Shippers’ is what they are called, I believe.”
+
+Okay, first of all, I am not a shipper. Don’t associate me with those people. Second of all, what do you mean “where there is none”?? There is clearly romance there. And third, it would be Chauren. Lad is a real word, and it’s too short anyway. Chauren is easy to say, and it’s a good balance of the two starting names.
+
+“I see.”
+
+Anyway, what do you think A and B want from me?
+
+“I haven’t the faintest idea.”
+
+Lame.
+
+We reach the clearing after a minute or so, and for the first time, I notice how much damage we actually did. I mean, the first big explosion was already bad enough, but then A went and fired another hundred or so magic projectiles to tear up the ground even more. It looks like a World War 1 battlefield.
+
+The twins stop right in the middle of it, then turn to face me.
+
+“First of all, we ask that you don’t attack us until we finish speaking,” says A.
+
+“That’s not a good way to start,” I reply.
+
+“Yes, but it’s necessary,” says B.
+
+“...Alright. Fine. Go.”
+
+“We know you have the Gluttony Trait,” says A.
+
+How did they find out?
+
+“What makes you think that?”
+
+“You can do impossible things, your stats are too high, and you eat a lot,” says B.
+
+Oh, that’s how they found out. But what do I do now? Abby, should I kill them? I don’t really want to kill them.
+
+“You should probably hear them out first. They chose to say this in private, away from Lauren or Chad, so it looks like they don’t intend to expose you.”
+
+Good idea.
+
+“I see,” I say. “And?”
+
+“We won’t tell anyone,” says A. “We just wanted to let you know that you’re really bad at hiding it.”
+
+“That thing you did with my shield was super obvious,” says B. “You shouldn’t do that to anyone you don’t plan on killing.”
+
+“And you probably shouldn’t do it in front of anyone you want to trust you.”
+
+“Anyone with good senses will notice that you did something impossible.”
+
+“And you two aren’t bothered?”
+
+“We’ll give you a secret of our own so you know we won’t tell,” says A.
+
+“Our Master has a Sin Trait too,” says B. “We know roughly how they work.”
+
+Well that’s awfully convenient. Guess I don’t have to kill them!
+
+“You shouldn’t be so trusting.”
+
+You’re right.
+
+“How can I trust you?” I ask.
+
+“We’ll sign a contract of secrecy if you want,” says A.
+
+“We can find a good contract lawyer when we get back to Riverfork to help,” says B.
+
+“But until then, you’ll just have to trust us. But that will be easier after we tell you what we want you to do in exchange for us teaching you magic properly.”
+
+“Why?”
+
+“Because what we want is for you to go into a certain Dungeon with us,” says A. “And to do that, we all need to be Mithril, and that means that until then, you need to not get caught, which means you need to hide your Gluttony Trait better.”
+
+“Us telling you that we know is self-serving,” continues B. “By letting you know, you are now aware that you have a weakness that needs to be addressed. And if you address that weakness, we will all be able to safely progress through Platinum together so we can go to the Dungeon.”
+
+“But why do you want to go to this Dungeon with me?”
+
+“It’s a very famous Dungeon known as the Archmage’s Legacy,” says A.
+
+“A few hundred years ago, an Archmage stumbled upon a stray Dungeon Core. He studied it for decades, and at the end of his life, he posted a quest saying that he had discovered a new Dungeon, and that anyone who cleared it would win his Legacy.”
+
+“Except that he actually ate the Dungeon Core himself, becoming the Dungeon. It’s one of the most difficult Dungeons on the continent, and at the center of it is a completely impenetrable shield. No one has ever gotten past it.”
+
+“But, with you, we could.”
+
+“Whatever you did to make the shield disappear, if you did it there, we would get the archmage’s legacy.”
+
+“We would share it with you, of course.”
+
+“An Archmage is a tier 8 or higher mage, by the way. And a legacy of such a figure would include Skills and maybe even Classes. Especially if they were Dungeon rewards, which can sometimes break the usual rules of the System.”
+
+“So you want my help to cheese a Dungeon and get the rewards?”
+
+“Cheese?” asks A.
+
+“Complete something, but not in the intended way, and usually in a much easier way than should have been possible.”
+
+“Yes, exactly,” says B.
+
+“Mithril is a long way off though, isn’t it?”
+
+“Yes,” says A. “Which is why it is so important that your Sin Trait not get caught by anyone. The Archmage’s Legacy is a well-regulated Dungeon. You wouldn’t be able to get in if you were a known user of a Sin Trait."
+
+“I see,” I say. “But I dunno. I don’t want to promise something so far off.”
+
+“That’s fair,” says B, nodding.
+
+“By the way, what kind of monsters are in the Archmage’s Legacy?”
+
+“Golems.”
+
+“Oh. Dang, yeah, I’m not sure if I’m up for it.
+
+An archmage’s legacy sounds pretty cool, but that’s gonna be a long time from now, and I dunno if it will be worth it. Abby, will it be worth it?
+
+“For you? That depends on what path you take, but most likely not as much as it would help them. An archmage’s legacy would be more useful for someone studying magic professionally, while you merely use it as a tool.”
+
+Right. So it’s probably–
+
+“The Dungeon is located in Triore, which is known as the culinary capital of the nation,” says A.
+
+“There are multiple restaurants owned and run by tier 6 and 7 chefs,” says B.
+
+“Okay, I’m in.”
+
+“You can go to the city without waiting until you’re at Mithril.”
+
+Oh shit! You’re right!
+
+“Wait, maybe–” I start.
+
+“Some of the restaurants are exclusive to Mithril Adventurers and above, or those of similar status,” says A.
+
+“Okay, I’m in.”
+
+“Great!” says B. “You can’t take it back anymore. When we reach Mithril, we’re going to Triore and raiding the Archmage’s Legacy.”
+
+“Alright,” I say. “And you’re going to teach me magic and all your spells and keep all my secrets.”
+
+“Yes. And we can get a contract for the secrets once we get to town.”
+
+“Perfect!” I say.
+
+I can make Chad and Lauren sign those contracts too. Now that I think about it, why didn’t Lauren mention these contracts when we got to the city? That wasn’t very minion-like of her. Well, I’ll get revenge somehow, I guess. And make her sign. If I get Chad and the twins to sign though, I can tell them all I’m a monster, and then I can be in cat form when we travel.
+
+“I’m not sure that’s a good idea.”
+
+It’s a great idea.
+
+“So, are you ready to begin?” asks A.
+
+“Yes!”
+
+Time to learn how to make things go boom!

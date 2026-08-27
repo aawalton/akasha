@@ -1,0 +1,97 @@
+---
+id: 15e54463-bf61-54d2-825a-5b93d9cacd2b
+page-type-slug: story-chapter-royal-road
+title: "144: Under the Moon"
+slug: 0144-144-under-the-moon
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 144
+ownLength: 1956
+unit: words
+publishedAt: 2026-04-27
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3324943/144-under-the-moon"
+royalRoadId: "3324943"
+---
+
+The good news was that Chloe had managed to crack the monkey’s mask enough to expose most of its face, and she could clearly see its mouth now through the broken sections. The bad news showed up almost immediately after.
+
+As she watched, the broken pieces of the mask didn’t stay broken for long. Light began to gather again around its face, swirling like mist before pulling itself back together. The cracks slowly sealed, the missing pieces reformed, and the glowing patterns returned as if nothing had happened, rebuilding the mask right in front of her eyes.
+
+Chloe let out a quiet huff, clearly annoyed, but she didn’t lose that smug edge completely. At least now she knew what she had to do now.
+
+If the mask was going to keep coming back, then she just had to break it and act fast before it could fix itself again. Alright, so I just need to break the mask and then immediately stick my hand in its mouth.
+
+The moment Chloe finished settling on her plan, the giant monkey didn’t give her any time to breathe as it suddenly reared its head back, and a bright ball of white light began forming in front of its mask again. Even from a distance, Chloe could feel how much power was being packed into that attack.
+
+Chloe flew sideways and dropped low, weaving through the trees that had grown across the battlefield before quickly ducking behind a thick trunk just as the beam fired. The laser tore through the space where she had been a split second earlier, carving through everything in its path. Trees were sliced clean in half, their trunks splitting apart before crashing to the ground, while the beam continued forward and gouged a deep line into the ground.
+
+Even from behind cover, Chloe could feel the heat and force of it. The beam faded after a moment, leaving behind a trail of destruction with broken trees and scorched ground marking its path. Chloe peeked out from behind the tree, then immediately shot back up into the air, not giving the monkey time to set up another attack.
+
+This time, she raised her hand and summoned a cluster of shadowy spears out of thin air, the dark energy forming into jagged shapes that hovered for a brief moment before she flicked her wrist and sent them flying. The spears shot downward and struck around the monkey’s feet, hitting the ground in quick succession and disrupting the area beneath it.
+
+They didn’t do much damage, not really, but that wasn’t the point, because the sudden barrage around its legs threw off its footing. The giant monkey stumbled before it crashed down onto the ground with a heavy thud.
+
+Chloe took the chance and got a move on. While the monkey started pushing itself back up. She flew closer to the giant monkey's face, pulled her hands together and began gathering energy. Fire, ice, earth, lightning, and dark energy all swirled together, forming into a chaotic, glowing ball that pulsed with power.
+
+The moment the monkey lifted its head, Chloe thrust her hands forward, and the combined blast shot straight toward its face. A violent burst of mixed energy erupted across the monkey’s head, fire, ice, lightning, and dark energy all colliding at once as the force of the explosion sent it reeling backward. The mask cracked loudly under the pressure as it began breaking apart once again.
+
+After that, Chloe flew up close to the monkey’s face before it could recover, grabbing onto its jaw and forcing its mouth open while it was still disoriented from the blast. Alright, time for the weird part.
+
+Without hesitation, Chloe tore off her own left arm. There was a quick, messy pull as black ichor stretched and snapped, but she didn’t even flinch as she immediately shoved the detached arm straight into the monkey’s mouth.
+
+Then she kicked off and flew back. The monkey snapped its head forward as it started to recover, its hand already swinging the staff toward her, but Chloe twisted through the air and dodged the incoming strikes easily. Okay, okay, step one done.
+
+After that, Chloe circled around behind the monkey and stopped just behind its head. She reached out and pressed her remaining hand against the back of its skull, digging into the thick fur as she channeled her ice magic, hoping that her other detached arm would do its job as well.
+
+There was no guarantee that her arm inside the monkey would actually do what she wanted, but she had trusted her limbs to handle things on their own before, and somehow it had worked out every time. So honestly, she felt pretty confident that this plan of hers was going to work.
+
+Frost spread quickly from her palm, starting as a thin layer before thickening almost instantly as it crawled across the monkey’s fur and hardened into solid ice. The monkey roared and twisted its body, swinging one of its massive hands backward in an attempt to grab or crush her off its head.
+
+Chloe didn’t even bother dodging the normal way this time. She slipped into her Wraith Form just as the hand came down, her body turning intangible as the massive palm passed straight through her.
+
+Unfortunately, this meant that the monkey’s hand slammed directly into the frozen section of its own head, and the impact shattered the ice Chloe had just formed. The frost cracked apart under the force, breaking into fragments that scattered across its fur as her progress was undone just like that.
+
+Chloe drifted slightly to the side in her ghostly state, watching the frost break apart with a small pause, but she didn’t stay like that for long. She dropped out of her Wraith Form almost immediately and moved again without hesitation, flying up before landing right on top of the monkey’s head. Planting her feet firmly this time, she reached down once more and pressed her hand against the top of its skull.
+
+Cold surged outward again, stronger this time, and the frost spread faster and wider across the monkey’s head as thick layers of ice formed rapidly over its fur.
+
+The monkey tried to swat her again, lifting its arm and swinging back in the same motion as before, but this time the movement came out wrong in a way that was immediately noticeable. Instead of a powerful strike, its arm jerked mid-swing, and the sheer weight of its limb seemed harder for it to control.
+
+At the same time, the frost continued to spread, thickening rapidly across its head as ice crawled over the fur and hardened into dense layers that locked into place. Chloe leaned slightly to the side while keeping her hand pressed firmly down, looking down at one of its eyes as the freezing pushed deeper.
+
+That was when she saw it. Beneath the surface of its eye, a thin layer of frost had already formed, faint at first but unmistakable. It spread slowly from within, branching outward like tiny cracks of ice, dulling the glow of the giant monkey's eye.
+
+And that meant her left arm wasn’t just doing a good job, it was doing an amazing job. Chloe’s grin widened as she kept her remaining hand pressed firmly in place, letting the cold pour out as more ice spread across its head.
+
+The giant monkey’s movements slowed even more as the cold took hold of its core, its body losing coordination as its limbs started to lag behind its own movements. Within seconds, its head was completely encased in thick ice.  And, well, having your brain frozen generally made it hard to keep moving.
+
+So the giant monkey began to fall, its massive body tipping forward as its weight finally gave out and pulled it down toward the ground. Chloe pushed off immediately and flew upward, putting distance between herself and the collapsing monkey. Alright, time for the finishing move!
+
+She channeled lightning through her hand, far stronger than before, the energy crackling loudly as bright arcs snapped outward in every direction. Chloe gathered as much power as she could, compressing it tightly until it became unstable.
+
+Then she thrust her hand forward, and chains of lightning shot downward, slamming into the frozen head as the monkey fell, the energy tearing into the ice and blasting chunks of it apart on impact. The force punched through the outer layers and into the skull beneath, breaking away pieces of frozen flesh and bone.
+
+The head cracked further under the assault, fragments splitting and falling away as parts of the skull became visible beneath the shattered ice, while the lightning kept tearing through it. Chloe hovered above the scene, watching closely as the attack finished. She held back just enough, because as much as she wanted to completely destroy it, she also really wanted that brain later, and thankfully, the skull stayed intact just enough to keep that option open.
+
+Chloe didn’t rush in right away, even though every part of her really wanted to, and instead she hovered in the air for a few long seconds while watching the giant monkey’s body very carefully as it finally finished collapsing into the ground.
+
+She narrowed her eyes slightly, drifting a little lower but still keeping her distance, just in case the thing decided to suddenly get back up and reveal some ridiculous final phase where it grew three more heads or something equally annoying. Alright… don’t move… just stay down like a normal defeated boss please.
+
+Luckily, nothing happened, and she eventually saw the notification to confirm her kill.
+
+[You have killed: Lunar Devastator (Level 82)]
+
+[Experience Awarded]
+
+After the notification appeared, Chloe felt absolutely relieved as she drifted downward through the air and touched down beside the creature’s massive head. She leaned in slightly, tilting her head as if inspecting a suspiciously well-behaved corpse, clearly on the verge of going in for what she actually wanted, when something flickered at the edge of her vision.
+
+A faint glow began to gather above the monkey’s head. Chloe recoiled backward as her eyes widened and locked onto the forming light, every relaxed inch of her snapping right back into full alert mode like a switch had been flipped, and without even thinking about it she regenerated her missing arm on instinct, black ichor stretching outward in slick, writhing strands before knitting together into solid flesh. G
+
+The glow intensified anyway, drawing inward as it condensed into a single point, the light tightening and sharpening until it hovered above the corpse. Then, the light unfolded into something solid.
+
+Floating just above the fallen monkey’s head was an ornate disc, perfectly round like a miniature full moon. This was the moon piece, and Chloe knew what she had to do. She grabbed it immediately.
+
+The moment her fingers closed around the disc, the glow softened instantly, the light fading into something subdued as the object settled into a solid, tangible weight in her palm, light enough to handle easily but carrying a strange heaviness that suggested it was far more important than it looked. Gonna keep you safe and sound.
+
+She slipped the moon piece into Cloaky, patting the spot twice for good luck. And just like that, she was halfway through to getting access to the next floor.
+
+That meant she only needed the Sun Piece now, and once she had that, she could get off this floor. But before she left, there was something she wanted to do. Chloe licked her lips as she looked at a part of the monkey's exposed brain, there was no way she was leaving this place without eating all of that brainy goodness.

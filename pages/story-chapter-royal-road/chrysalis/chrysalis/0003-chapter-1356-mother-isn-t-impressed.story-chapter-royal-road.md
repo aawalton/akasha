@@ -1,0 +1,117 @@
+---
+id: d431ff96-f9f3-5e0c-bf95-f52a91a36fe4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1356 - Mother Isn’t Impressed"
+slug: 0003-chapter-1356-mother-isn-t-impressed
+partOf: chrysalis
+position: 3
+ownLength: 1035
+unit: words
+ownProgress: 1035
+publishedAt: 2024-06-18
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1681482/chapter-1356-mother-isnt-impressed"
+royalRoadId: "1681482"
+markedReadAt: "2026-06-29T19:43:44.915Z"
+---
+
+Dammit, Victor! You set me up for a thwacking! Why the heck wouldn't you tell me that The Queen was coming down here?! Despite being more evolved than her, those antennae still pack a serious wallop! How does it hurt this much?
+
+“Hello there, Mother! I wasn’t expecting to see you here.”
+
+She turns to look at me directly.
+
+“Then why are you here? Lazing about, avoiding work?”
+
+“Whoa! No! Not at all! Why would you jump to that conclusion?”
+
+Her antenna is poised, ready to strike, and I retreat, desperately trying to defend myself from her pointed accusation.
+
+“I was asked to come down here and meet someone, I was just saying I didn’t expect it to be you! They didn’t tell me who was coming, so I had no way to know!”
+
+Her antenna lowers, and I relax just a little.
+
+“Why are you here, Mother?”
+
+THWACK!
+
+“Should I not be here? Are you saying I’m not strong enough?”
+
+“No! Sheesh! I was just wondering why!”
+
+She’s so touchy today! Did Victor know she was grumpy in advance or something? Is that why I was sent here? I’ll get her back. Mark my words, I will get her back for this. Another flash of light, and lo and behold, the aphid queen arrives. It’s been a while since I’ve seen Aphy, and she’s certainly gotten bigger than before, but, relative to me, she’s smaller, so it isn’t easy to tell.
+
+At the appearance of her beloved pet, The Queen stops threatening me and turns to check on the little creature, fussing and clacking over her as she ensures the aphid has arrived safely. On one level, I’m even more surprised to see Aphy here. I had no idea there were plans to start aphid farms on the fourth, but then again, there may not be. Wherever The Queen went, her pet was sure to follow also.
+
+“Well mother, I’m glad to see Aphy made it alright. Uh. Do you have any idea where I’m supposed to take you? I wasn’t told.”
+
+The Queen turns back to look at me, her pet falling in by her side.
+
+“Really, child. Surely you can figure it out for yourself?”
+
+“Well, that depends, to be honest.”
+
+“Depends on what?”
+
+“Can I ask this question without getting my head bashed in with an antenna?”
+
+Mother clacks her mandibles disapprovingly, as if offended I would dare suggest such a thing.
+
+“Of course, child.”
+
+What do you mean, ‘of course’?! Do you not recall what happened here a moment ago?! Never mind.
+
+“If you tell me why you are here in the fourth, then I’ll have a much better time being able to take you where you are expected. Are you here for a tour, or a short term stay? Are you moving into this nest permanently?”
+
+“Permanently,” she replies.
+
+“Oh. That’s… interesting. I’m guessing you made this decision… yourself.”
+
+I very carefully ensure that I make a statement, and not a question. Mother’s antenna twitches once again as she sniffs something offensive in my words.
+
+“Am I not able to make decisions for myself, child?” she asks, dangerously.
+
+“Of course you can! Who could argue otherwise? It would be ridiculous to suggest that anyone other than yourself would decide where you should go.”
+
+Dammit! Who is running things up in the third? There’s supposed to be a complex web around The Queen, ensuring she stays happy and satisfied so she doesn’t do things like this. She’s going to get herself killed fighting some of the monsters down here!
+
+“Did you want to go for a hunt now, mother? Or would you prefer to go to your chambers?”
+
+There’s no way this nest wasn’t built with space for Queens. There’s going to be brood chambers and Queens’ quarters, fully furnished with a pot of hot tea kept on the table, just in case.
+
+“I’m a little tired after using the… gate. It was difficult to get the children to get out of my way. For some reason, there was constantly some pressing emergency that needed to use the gate. It went on for days.”
+
+She knows. She totally knows. There were no emergencies, that was the family desperately scrambling to delay and buy time to convince her to stay somewhere safer. No wonder she’s so grumpy. She’s been patiently enduring the shenanigans of her children who’ve been attempting to prevent her from doing what she wants without actually talking to her about it.
+
+I can’t help but sigh. It’s not like I don’t understand her frustration, but the same goes for us, the children! Is it so much to ask that your mother doesn’t recklessly throw herself into dangerous situations? Apparently, it is.
+
+“Well, let’s go and get you settled into your chambers. I’m pretty sure I know where they’ll be.”
+
+“Thank you, child. I appreciate your help.”
+
+Awww. Nothing like being thanked by The Queen to lift your spirits.
+
+“Not a problem. Not a problem at all.”
+
+With the Queen, and aphid queen, in tow, I make my way from the gate to the centre of the nest.
+
+“Well, why did you decide to move? Getting bored in the third?”
+
+Mother clacks her mandibles contemplatively.
+
+“As the family grows, I don’t need to lay eggs all that much anymore. There are many Queens now, each of them laying more eggs a day than I can. Of course, I still intend to produce more brood, but there is much I can do to help my children fight.”
+
+“Of course. I should have expected nothing less.”
+
+What else would she want to do but fight? That’s literally her second favourite thing to do! And she isn’t wrong about the Queens. There are as many as we need in the Colony. Our cup runneth over with Queens.
+
+The chances of talking The Queen out of throwing herself into the battle taking place in the tunnels below are basically nil at this point. How in the heck are we going to keep her alive? I need to talk to the Council about this.
+
+THWACK!
+
+“Oi! What was that for?”
+
+The Queen eyes me suspiciously.
+
+“I had a sense of something.”
+
+Sharp as ever.

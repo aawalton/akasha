@@ -1,0 +1,297 @@
+---
+id: 0b6f90b0-dbec-5984-aaaf-702c489bf038
+page-type-slug: story-chapter-royal-road
+title: "55 - The Aftermath"
+slug: 0055-55-the-aftermath
+partOf: cat-girl-evolution
+position: 55
+ownLength: 3825
+unit: words
+publishedAt: 2025-11-27
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2796948/55-the-aftermath"
+royalRoadId: "2796948"
+---
+
+Joshua didn’t expect that the agent of chaos would have come back with so much firepower. He was under the impression that she had hit him with everything she had the first time. Because of that, he hadn’t taken her seriously. Or at least, not as seriously as he should have.
+
+He didn’t know why he tried to use magic to fight against her. He had been able to do it against some of the other agents of chaos that attacked him, but clearly, he overestimated himself. Whatever attacks she was using were far beyond what he could handle.
+
+Her opening salvo nearly did him in. He was so dispersed he could feel his mind fading, and it was only through sheer force of will that he managed to re-form his body. When he saw the second round coming, he knew he didn’t have a choice. He activated Possess, the only offensive Skill he had proper experience using, setting her as the target. She never suspected it, and right before the attacks that would have killed him went off, he entered her mind.
+
+Within, he found pitch darkness.
+
+I should have expected as much from an agent of chaos, he thought.
+
+He started searching around for her subconscious. With the seagull, it had been simple. Its mindscape was simplistic, just being a rocky shore with a nest, and in the nest, the seagull’s subconscious rested. Here, it was a bit trickier, since there were no features, but it was fine. It wasn’t like he was short on time.
+
+He started swimming through the pitch darkness, focusing his senses outward, searching for any sign of anything. At first, he found nothing. Then, as he moved, he started to feel strange. There was a tingle in the back of his neck. It was almost as though there was someone watching him.
+
+He whipped around to check behind him, then froze. Above him was an enormous pair of green eyes. When he met their gaze he was filled with an abject fear beyond anything he had ever experienced. He wanted nothing more than to leave the mindscape right then and there, but when he tried, he found that he couldn’t.
+
+“Well, well, well, what do we have here?” said a voice that seemed to come from all around. “An intruder?”
+
+Joshua didn’t respond. He couldn’t. All he could do was wait.
+
+“Well, looks like you chose the wrong soul to enter, buddy,” said the voice. “Because you smell delicious.”
+
+Suddenly the eyes shrunk until they were smaller than his own, and then they floated toward him, and a moment later, the form of a small, black cat was revealed.
+
+[ Temperance (Stage 4) is trembling ]
+
+What?!
+
+“Wh– What are you?” he managed.
+
+“I am Gluttony,” it replied. “And I am Yona. Now, let’s see what you’re made of. Ooh, this looks good!”
+
+[ Trait Delusional has been lost ]
+
+As soon as the Trait vanished, their surroundings shifted. Instead of an abyss of black, Joshua was in a house. A mansion, more like. He was in a hallway covered by elegant carpet lined by thick wooden doors. The cat was still there, but it was on the ground now, chewing on something.
+
+Wait… he thought. “Delusional”?
+
+The fear he felt was replaced with dread and horror. He checked his Status Window, It was different from what he remembered. There was no Harmonious Trait. There was no mention of harmony at all. And his Species was different too. He was no Apostle. He was an Idol. And his aura Skill…
+
+[ Trait Aura of Delusional Temperance has been lost ]
+
+“Oh, that wasn’t half-bad either,” said the cat. “What else have you got?”
+
+One by one, his Traits vanished, but Joshua didn’t bother trying to resist it. With every lost Trait, he became less and less. His form flickered and shrank, and his presence grew weaker. It hurt him in his very soul, and he experienced unimaginable pain, but beneath the pain, his mind flashed back to his time after he got H4rm0n10u5, or rather, Delusional.
+
+His memories were not what he thought they were. His “followers” were no followers at all. They were brainwashed lunatics. And when they “ascended,” they had actually perished, and all that remained were fanatic shadows of themselves. And he had somehow thought that was good?!
+
+His mind flashed back to a time when he entered a home as a young girl was about to “ascend.” He stood at her bedside, an incorporeal hand pressed to hers, slowly draining the last of her life until she breathed her last and rose again as a shade, cheered on by Joshua and her emaciated parents.
+
+[ You have fr33d Human, Tier 0, lvl 0. No experience awarded ]
+
+He stared at the notification as the glitched word shimmered and righted itself
+
+[ You have defeated Human, Tier 0, lvl 0. No experience awarded ]
+
+In the pain-addled remains of his mind, more similar scenes played out and more notifications flashed by. Hundreds. Thousands. Some awarded experience and came with levels. Many didn’t. Too many. He hadn’t “freed” anyone.
+
+I’m… a monster.
+
+For a moment, he was angry at the System. Why had it given him such a Trait? It was the System’s fault!
+
+Then he thought a bit more and changed his mind. His impending death gave him a level of mental clarity he had never had before. He thought back to his time on Earth. Even then, he had been delusional. If not, the System would not have given him that Trait.
+
+And even if that wasn’t true, he still had plenty of opportunities to see his own faults. He had wanted to believe that he was special. That he was chosen by the universe to be something greater. Instead, he ignored the signs. Those people were clearly starving themselves to death. Even in his original muddled memories, that had been obvious. He had just willfully chosen to ignore it. To believe it was a sign that they were going to “ascend.”
+
+I am such a fool.
+
+“Now, for the main course!”
+
+The cat’s voice wormed its way into his mind, and he felt a great wrench as something was torn from his soul. Something vitally important. With it gone, he felt his existence faltering. He would not last more than a few seconds anymore.
+
+[ Trait Temperance has been lost ]
+
+“Oh, now that’s the good stuff!” the cat exclaimed. “Wow, that’s amazing! I am glad I saved that for last.”
+
+“Th–” started Joshua.
+
+“Huh? Trying to say something?”
+
+“Thank you.”
+
+His voice was faint, but his words were clear.
+
+“Why are you thanking me for eating you? You don’t even have Delusional anymore. Weirdo.”
+
+At those words, Joshua died.
+
+Abby, what just happened?
+
+“It would appear that your Gluttony Trait consumed him.”
+
+That’s possible?
+
+“Apparently.”
+
+Huh. That’s weird. But all’s well that ends well! That was almost as easy as I hoped it would be.
+
+“Yes, that monster truly was unsuited for combat.”
+
+Yeah, he was really bad at it.
+
+“But even so, I’m sure you can see what a danger something like him could pose if it did know how to fight. Imagine if he actually knew how to use all that mana.”
+
+Yeah… That would have been bad.
+
+“And if it is as you say and there are others like him around the world… Well, I doubt most of them will be as incompetent as him.”
+
+Yeah, you’re right. Damn, this sucks. And they’re gonna be hunting me too, aren’t they? Man, being the Chosen One is tough sometimes. Speaking of being the Chosen One, I believe I should have earned a reward from that.
+
+Oh, Ms. Goddess Lady!
+
+I wait a few seconds before a purple window appears in front of me.
+
+[ It has already been given. You will gain access to it upon your next evolution. ]
+
+Seriously?! You bitch!
+
+“Yona, I don’t think you should be calling a goddess a bitch.”
+
+Shut up, Obbscene. You’re supposed to be on my side here! She promised me something that would let me have an infinite supply of food if I beat Joshua!
+
+“This is the first I’m hearing of this promise, but if that’s the case, it’s likely something too powerful to be freely granted. Deities aren’t allowed to interfere with the mortal world as they please. The fact that this reward can only be accessed upon evolution means it will be quite strong, since otherwise, she would have just granted it to you outright.”
+
+Stop defending her! If that was the case, she should have told me about it instead of waiting until after I defeated him to tell me I wasn’t gonna get it yet!
+
+“Perhaps, but I expect that the reward will be good enough to be worth the wait.”
+
+It’d better be.
+
+Anyway, now that that’s done, I guess I should better head back. Now that he’s taken care of, I need to go let Lauren and the others know, so we can start rescuing the survivors.
+
+“Don’t forget his Soul Weapon.”
+
+Oh yeah! Where is it? Oh there it is! Woah, it’s not edible!
+
+I use a mana hand to grab the staff floating in the water, and then take a look at it. It’s made of wood that looks oddly similar to the wood that Guildmaster Pike’s leg is made of. Wait, is Pike’s leg a Soul Weapon? I guess that would explain why I can’t eat it. So, what exactly is this thing?
+
+[ Scepter of the Temperant Idol ]
+
+I see. Bind!
+
+Nothing happens.
+
+“I don’t think I need to explain why that didn’t work.”
+
+Yeah, I should have seen that coming. Anyway, I’ve wasted enough time. I need to head back.
+
+With the ghosts all gone, I don’t bother flying anymore. It’s slower than running for me, since my “flight” is just me floating my constructs around. I sprint toward the church, bursting inside before anyone has time to react. My sudden entrance makes everyone jump.
+
+“He’s dead!” I say, waving the scepter. “This is his Soul Weapon. You can all go out safely now to grab survivors. I’ll be right back! I’m gonna go get some more help.”
+
+I run right back out and start sprinting toward the edge of the city where Lauren and the others are camping. They’re all sitting around a fire when I get back, and Lauren is biting her nails, but they stand up as soon as I return.
+
+“Did you—?” starts Lauren.
+
+“Got it!” I say, pointing the scepter at her. “See? Soul Weapon! Now, let’s go! We’ve got survivors to rescue!”
+
+The rescue efforts go by fairly quickly. My Food Sense and Snatch trivialize the whole process, with B to fly me around and catch the people I summon on her shields, we’re able to canvas the entire town in just over an hour. Meanwhile, Lauren helps the head priest brew more stew while Chad works with Francis and the other church workers on the manual labor side of things.
+
+Overall, only about five hundred people survived, and most of them are in rough shape. One even dies as B and I try to transport them to safety. B cries. I try not to think about it. Other than that one though, all the survivors make it to shelter and are fed a serving of stew laced with healing potion to stabilize them, and about an hour after sunrise, our work is largely done. I still stand around stirring the stew in case there are lingering effects of Joshua’s aura that need to be washed away, but the first few people who woke up showed a promising lack of desire to continue starving themselves, so it’s probably fine.
+
+Everyone else is silent. I’ve kept the chairs Chad made that one night, and everyone is sitting in theirs, looking down at the ground with distant expressions and not talking. Since there’s no conversation going on, I decide it’s probably a good time to finally think seriously about my future.
+
+Joshua was fortunately weak, but there’s no guarantee that the other Chosen One candidates will be. And if we’re all competing to become the true Chosen One, I’ll definitely run into them at some point. I wonder if there’s a way to just forfeit the competition. It’s kinda lame. Why should I need to prove that I’m the Chosen One? It’s already an obvious fact. I’d rather just laze around and eat good food.
+
+“It’s worth a shot. You should try.”
+
+How?
+
+“I don’t know. This isn’t an official part of the System. The goddess seems to be able to hear your directed thoughts, so try thinking about it.”
+
+Hey goddess lady, I give up this competition thing.
+
+There is no response.
+
+“It’s possible she used up her divine power with your reward and can’t speak. It’s also possible she’s ignoring you.”
+
+That bitch.
+
+“You really shouldn’t be calling goddesses bitches.”
+
+Why not?
+
+“Most deities have followings here in the world somewhere, and depending on which goddess this is, those followers could make your life very difficult if she was annoyed enough.”
+
+Ah, I see. Yeah, that might get annoying. Fine. I will be polite. The politest. No one will be politer than me.
+
+Anyway, back to future stuff, if I can’t forfeit, that’ll be annoying. I’ll definitely need to be stronger. I mean, I was already planning to get stronger so I could eat stronger monsters, but now that I’ve faced Joshua, I know that I definitely need to be stronger or else I might die.
+
+I guess that means I’m gonna be heading to a bigger city after this, since I need to level up. I also need to get to my next Evolution to get whatever that bi— that wonderful goddess decided to give me.
+
+I also need to fix up my disguise, apparently, so I need to keep working on my constructs and stuff or else people are gonna get suspicious like the twins did. And I need to get Fireball too, of course. And I should probably look more seriously at Internal Mana Manipulation. And I need to upgrade my Profession.
+
+Damn, I’ve got a lot of things to do.
+
+“Good thing every single one of those things involves eating.”
+
+…Oh you, you’re—! Wait, upgrading fireball doesn’t involve eating.
+
+“Good thing all but one of those things involves eating.”
+
+Yeah. Man, Gluttony is the best Trait ever. It just ties everything to food. I can improve my constructs by eating, I can eat things I kill to level up, my Profession is about cooking food—and I bet I can tie that to Gluttony somehow later—and if all the other Chosen One candidates are Named monsters too… Well, that’s just more food for me! Hopefully the rest aren’t ghosts so I can actually taste them.
+
+“Didn’t all of them used to be people?”
+
+Yes. And?
+
+“Nevermind.”
+
+Yeah, that’s what I thought.
+
+So, I’ve got a lot of things to do, and most of that is eating. Once we’re done handling things here, I need to grab a bunch of scallops for the road, and also make Lauren cook them for me and also teach me how to cook them. Then, we need to go back to Riverfork so I can make my minions sign contracts. Then, we’re going to a bigger city with some bigger Dungeons so that we can all level up. And after that… Well, I guess eventually I need to go to that Dungeon with the twins, but other than that, I can do whatever I want.
+
+When I put it that way, this actually all sounds pretty easy! Just travel a bit, then relax while doing a bit of magic practice and a lot of eating. Sounds pretty simple.
+
+“As long as there are no weird complications, yep.”
+
+Abby!
+
+“What?”
+
+You jinxed it!
+
+“What?”
+
+You’re not supposed to say things like that! Now there are definitely going to be weird complications!
+
+“...Normally I’d say that’s just superstition, but the rest of my experience with you so far has indicated otherwise, sooo… Oops?”
+
+When the envoy from the mainland arrived, an assortment of some of the most powerful people in Elyria waited to greet them. The king himself was not present, but the crown prince was, sitting at the head of the meeting table. To his right sat the Royal Advisor, a wizened old archmage who looked so frail and kindly it was hard to believe he originally got famous as the Demon of the Battlefield. On his left was Duke Arnold Montague, who at 70 was still one of the most imposing figures in the room, measuring every bit of seven feet tall and shoulders at least three times as broad as everyone else in the room.
+
+Next to the advisor and the duke were the leaders of the dwarven and elven kingdoms. They were visibly disgruntled about not having seats at the head of the table, but neither dared voice their complaints. It was only due to the human king’s generosity that they were able to maintain their independence after the war half a century prior, and it was too soon to rock the boat.
+
+The next person down the table from the elven queen was a woman who looked completely out of place at the gathering. She was fairly short and slight of stature, and had a face so plain it was easy to gloss over her. Her clothes, a set of plain gray robes, did nothing to help her stand out. If not for her position near the head of the table, one might have assumed that she was a maid, or some ordinary passerby who had accidentally wandered into the wrong room.
+
+This woman was Arianne Fenn, the current head of the Elyrian branch of the Adventurer’s Guild, and arguably the most important person in the room. She was certainly one of the most powerful in terms of level. Many in the world dismissed the stories of her career as an Adventurer for being too far-fetched, but those at the table knew that every one of them was true. Despite her plain appearance and kind smile, very few were brave enough to make eye contact with her. The only one who sought it out was the Royal Advisor, whose eyes were filled with fiery ambition. He wanted to fight her. She simply smiled placidly at him in response.
+
+The rest of the room was filled with nobles, merchants, and guild leaders of various levels of importance, numbering twenty one in total. They all had some business with current negotiations with the mainland. On the surface, they were all working to establish a trade route and a mutually beneficial treaty regarding tariffs and maritime security, but beneath that, each person at the table had an agenda of their own. Arianne was no different.
+
+When the envoy walked in, she took note of each person entering, her eyes lingering on one in particular. Among the envoys, the chiefs of some of the more important beastperson tribes were there, and one in particular was the Felinid chief, Fabio. The Felinids were not the most powerful tribe, or the wealthiest, but Arianne was interested in them for a different reason.
+
+As the head of the Adventurer’s Guild, she was privy to rumors that many of the others at the table missed out on, including one that had piqued her interest. On the far west coast in the small city of Riverfork, a strange new Adventurer had registered recently. A new Adventurer being rated anywhere near Platinum at their first evaluation wasn’t common, but what really caught her attention was this woman’s race. It was a felinid beastwoman. On the west coast of Elyria. And she had apparently slain two Named monsters.
+
+Arianne almost laughed it off as a joke when she first read the report until she saw who had sent it. She wasn’t exactly close with Pike, but she knew him well enough to know that he wouldn’t have filed a frivolous report. The source and the content pushed the story up to the top of her list of interesting stories, and the recent news that the very same felinid had now taken out a third Named monster—and a Disaster, no less—pushed it to the forefront of her mind.
+
+The meeting passed surprisingly smoothly. Not all the details were sorted out, but they had gotten nearly everyone present to agree to a general baseline for the trade negotiations before adjourning. The rest of the small details and particulars would likely be sorted out behind closed doors over drinks over the course of the next few weeks.
+
+After the meeting, Arianne briefly met with the guildmasters from the mainland to set up a time to discuss the state of the world. Evidently, the unusual Named monster spawns were not a problem unique to Elyria, and it was concerning enough that a serious meeting needed to be had. One of the mainland guildmasters even brought up the idea of calling in the Founder. A couple of the others said it wasn’t necessary, but Arianne had a hunch that whatever was going on wouldn’t blow over so easily without the Founder’s intervention.
+
+Once she got that sorted out, she quickly rushed toward the door where the beastperson tribe leaders were preparing to leave.
+
+“Lord Fabio!” she called.
+
+The felinid man turned toward her, an expression of bewilderment on his face.
+
+“Ah, yes,” he said uncertainly. “Forgive me, but I do not recall your name.”
+
+“Arianne Fenn,” she said. “Guildmaster of the Elyrian Adventurer’s Guild.”
+
+“Ah, yes, my apologies. Did you have something you wished to discuss with me?”
+
+“Yes, yes I did,” said Arianne with a smile. “It’s not overly important, but I think that you might find it… interesting.”
+
+Fabio looked like a fish out of water. While an important man, he was not the kind of man that the guildmaster would normally have business with. He glanced at a few of the other tribe leaders, who shrugged. He hesitated a moment longer before speaking again.
+
+“Well, I suppose I can make time,” he said.
+
+“Are you free tonight?”
+
+“Tonight? Well…”
+
+“There’s a restaurant run by a 7th tier chef nearby. They make the most divine seafood I have ever had.”
+
+Fabio maintained an uninterested expression, but the twitching of his tail and the dilation of his pupils belied his underlying feelings.
+
+“Well, I was going to have a peaceful night in to recover from the journey…” he started. “But if you’re offering to treat me, I see no reason to refuse.”
+
+“Excellent!” said Arianne. “I have concluded my business here, and it seems that you have as well. Shall we?”
+
+She held out her arm, and Fabio gracefully locked his elbow with hers.
+
+“We shall.”

@@ -1,0 +1,103 @@
+---
+id: 18170128-6bbf-5a8f-84fd-5b7042c9d063
+page-type-slug: story-chapter-royal-road
+title: "190: Administrator A"
+slug: 0190-190-administrator-a
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 190
+ownLength: 1861
+unit: words
+publishedAt: 2026-08-21
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3843689/190-administrator-a"
+royalRoadId: "3843689"
+---
+
+Getting to Administrator A's office ended up being surprisingly easy, which honestly felt a little suspicious. Sure, the way there was guarded by the occasional robot, but none of them lasted very long. Chloe enthusiastically punted a few of them hard enough to send them flying into the walls, while Z casually erased the rest.
+
+Eventually, they reached the office itself. A pair of reinforced doors stood at the end of the corridor, already wide open. Chloe immediately narrowed her eyes, since that was definitely weird. Evil people never left ominous office doors open unless they wanted you to walk inside. It practically screamed 'I've prepared something incredibly evil in here.'
+
+But then again, they had come this far, and Sierra and Raenof needed to be rescued. Beside her, Z stared at the open doorway before speaking. "Stay alert, whatever awaits us beyond those doors is unlikely to be pleasant."
+
+Chloe nodded with complete confidence. "Don't worry. I'm always careful."
+
+Of course, Chloe being careful was something that was objectively true. Sure, she'd gotten blown apart a couple of times, lost limbs, and had been sent flying involuntarily a lot, but none of those things had happened because she wasn't careful. They had happened because she was fighting big mean jerks. There was an important difference there.
+
+Even so, Chloe couldn't help smiling a little. Z didn't have to remind her to be careful, but it was still nice that she did. She appreciated that the former Administrator was looking out for her, even if Chloe was already doing a fantastic job of looking out for herself.
+
+Chloe followed Z through the doorway, and almost immediately decided that calling this place an office was about the biggest understatement ever. The room beyond was absolutely enormous, stretching so far into the distance that she couldn't even see the far walls at first glance. Rows of massive server racks filled the place. Thick bundles of cables ran overhead and beneath transparent floor panels, weaving between the machines like veins going through some gigantic mechanical organism. Hundreds of computer terminals filled entire sections of the room, each displaying endless streams of numbers, graphs, and other information that Chloe couldn't quite make out.
+
+Elevated walkways crisscrossed high above the floor, connecting isolated platforms packed with even more equipment, while giant holographic displays floated in the air, continuously updating with information that Chloe couldn't even begin to understand. The whole place looked less like an office and more like a control center for taking over the entire world. What made it all so much creepier, though, was how empty it was. There weren't any workers or security guards, and not even a single robot was in this place.
+
+Chloe rubbed the back of her neck. She wasn't exactly scared, but this place still made her skin crawl a little. Everything was just... too quiet. Evil corporations were usually full of evil employees doing evil paperwork or whatever it was evil corporations did.
+
+Eventually, the maze of servers and machines gave way to another set of doors, which slid open with a mechanical hiss as Chloe and Z approached. Beyond lay what was unmistakably a meeting room... though this one was built on the sort of absurd scale only a company like Divinity Inc. could apparently justify.
+
+The circular room was easily large enough to fit a small house inside it, with polished floors so spotless they reflected the lights overhead. An enormous circular conference table dominated the center of the room, surrounded by dozens of expensive-looking chairs that were all perfectly aligned. One entire wall was occupied by a massive projector screen, currently displaying nothing more than the company's logo. The whole room looked ridiculously luxurious, almost intimidatingly so, yet just like every other part of this building, it was completely empty.  Well... almost.
+
+At the far end of the enormous conference table, one chair was occupied. A man sat there with one leg casually crossed over the other as though he'd been waiting for a routine business meeting. He looked surprisingly ordinary, which somehow made him even creepier.
+
+His short blue hair was neatly combed, and his pair of striking golden eyes calmly studied both Chloe and Z. He wore a black suit complete with a crisp white shirt and tie. The only thing that reminded Chloe of Z was the glasses, although his were rectangular while Z's frames were round.
+
+Unlike Z, there wasn't anything reassuring about this guy. Administrator A folded his hands atop the conference table and greeted them with the kind of smile that immediately made Chloe dislike him. "You two are right on time."
+
+"Tell me where Raenof and Sierra are!" Chloe shouted.
+
+Administrator A laughed like she'd asked the funniest question imaginable. "And why should I do that?"
+
+Chloe was getting real angry, since this guy sounded real smug. She'd only known him for about five seconds, and she already wanted to punch him through at least three walls. Maybe four if there were enough walls nearby. She took an instinctive step forward, already imagining all the wonderfully satisfying ways she could introduce Administrator A's face to the table.
+
+But then, Z tapped her on the back. "Calm down, he's attempting to provoke you into making a mistake."
+
+Chloe clenched her fists, but eventually said. "Yeah… okay."
+
+Dang it, Chloe hated admitting it, but Z was right. Administrator A hadn't seemed the slightest bit worried since they'd walked into the room. As unbelievably tempting as punching him still sounded, Chloe forced herself to calm down a little and reluctantly took a step away.
+
+It didn't make her any less annoyed, though. If anything, it just gave her more time to properly appreciate what an absolutely world-class jerk this guy was. Seriously, he wasn't just a jerk. He was the jerkiest jerk that had ever jerked.
+
+Z gave Chloe a small approving smile, clearly pleased that she'd managed to rein herself in. The expression disappeared almost immediately as she shifted her attention back toward Administrator A. "Speak your terms."
+
+"Of course, my terms are simple."
+
+Administrator A then looked at Chloe. "Turn yourself in to Divinity Inc. and your friends will be released."
+
+Chloe stared at Administrator A for exactly one second before deciding that his offer was absolutely crazy. Which was honestly saying something considering she'd fought a giant laser-shooting robot dinosaur and a four handed robot swordmaster not too long ago. Seriously, did this guy think she was just going to walk over and surrender because he asked nicely? She'd seen enough movies and shows to know exactly how this kind of scene always went down.
+
+The villain made some offer about sparing your friends if you gave yourself up, the hero accepted because they were feeling all noble and heroic, and then surprise! The villain betrayed them anyway because villains were usually allergic to keeping promises. It happened basically every time. Chloe wasn't about to fall for one of the oldest tricks in the evil guy handbook.
+
+"You really think I'm gonna trust an offer from you?" Chloe shot back, folding her arms with an unimpressed huff.
+
+Administrator A didn't appear offended in the slightest.  "The offer was merely a courtesy, and your refusal does not surprise me."
+
+Before Chloe could tell him exactly what she thought of his so-called courtesy, Z coughed and cleared her throat. "Tell us where our allies are, or I shall extract the truth from you through other means."
+
+"Former Administrator Z, surely out of all people, you remember company protocol. Employees are prohibited from divulging confidential corporate information."
+
+CLANG!
+
+The reinforced doors behind Chloe slammed shut with enough force to make the entire chamber shudder. Chloe instinctively glanced toward the exit before snapping her attention back to Administrator A. Well, this was just a matter of time I guess.
+
+Administrator A rose from his chair, casually smoothing the front of his suit as though the room hadn't just sealed itself shut. There wasn't the slightest hint of urgency in his movements, nor any visible weapon in his hands. Beside Chloe, Z subtly shifted her stance as golden mana gathered around her hands. Chloe bent her knees instinctively, tiny arcs of lightning dancing across her fingertips.
+
+Administrator A calmly reached down and grabbed his chair. For a split second, Chloe wondered what he was doing. In hindsight, she probably should've known he was about to throw that thing.
+
+The heavy office chair became a black blur as it rocketed across the conference room. Chloe immediately dropped into a crouch, the chair screaming through the space where her head had been a fraction of a second earlier before exploding against the wall behind her.
+
+By the time Chloe looked back up, the fight had already begun. Administrator A and Z had somehow crossed the entire room in the blink of an eye, meeting atop the conference table with a thunderous crash. Chloe could barely follow what she was seeing. Administrator A's movements were frighteningly precise, while Z answered each blow. Fists blurred through the air, their exchange so fast that Chloe saw little more than fleeting afterimages as shockwaves rattled the table beneath them.
+
+Then Administrator A suddenly shifted his footing. His body twisted with effortless precision, and his fist shot forward before Chloe could even properly register what had happened. It slammed squarely into Z's stomach, folding the former Administrator over before launching her completely off the conference table.
+
+Z flew across the room, crashing into the polished floor hard enough to send long cracks spiderwebbing beneath her as chairs skidded away in every direction. Chloe's eyes widened. Well... if Z was taking a little break, then that obviously meant it was her turn to tag in.
+
+"Heads up!" Chloe shouted, mostly because it sounded cool.
+
+Lightning burst around her body as she sprang onto the conference table and charged straight at Administrator A without the slightest hint of hesitation. She swung a punch with all the confidence in the world, already imagining how satisfying it was going to be when her fist connected with his face. But uh, her punch didn't exactly land as she hoped.
+
+Administrator A raised one hand and caught her punch. Chloe blinked. Uh, that's not good.
+
+That was maybe... slightly less ideal than she'd envisioned. Before she could even think about pulling her hand back, Administrator A gave her arm a sharp tug. The world instantly lurched sideways as her feet left the table, and suddenly she was airborne. For one very confusing moment, all Chloe could see was the ceiling spinning above her while the meeting room became a blur of lights, chairs, and expensive corporate furniture. Then—
+
+BOOM!
+
+Her back slammed into the wall hard enough to rattle the entire room. Chloe slowly slid down to the floor like a wet noodle before coming to an awkward stop. She stayed there for a couple of seconds, blinking at absolutely nothing while her brain attempted to catch up with the fact that she'd apparently just been thrown across a conference room by a guy in a business suit.
+
+Okay, so this guy is pretty strong.

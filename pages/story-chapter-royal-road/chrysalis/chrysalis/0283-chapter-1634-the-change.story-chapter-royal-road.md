@@ -1,0 +1,57 @@
+---
+id: 47ff34af-c173-5f2b-9000-aa8a370f85ab
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1634 - The Change"
+slug: 0283-chapter-1634-the-change
+partOf: chrysalis
+position: 283
+ownLength: 770
+unit: words
+ownProgress: 770
+publishedAt: 2025-08-29
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2556429/chapter-1634-the-change"
+royalRoadId: "2556429"
+markedReadAt: "2026-06-29T19:52:51.900Z"
+---
+
+As a member of the Cult of the Worm myself, I believe it is most appropriate to begin with what is known of Yarrum. There are, of course, many tales passed down within the cult regarding the feats the Eternal Worm achieved while on the surface, but it is difficult to know which have some basis in reality.
+
+Yarrum is said to have drunk an ocean, consuming all of the water and monsters who had dwelled within. This is a surprisingly common tale, to the point where some research was put into it. Within the cult in the modern era, it is mostly believed Yarrum did consume a large body of water, an inland sea south of what is now the Wave Sands.
+
+Generally, Yarrum is said to have truly immense physical strength to go with their size, skin so dense no weapon or magic can breach it, and a maw that can devour all that enters it. If the Eternal Worm has abilities beyond these, we do not know of them.
+
+- Excerpt from ‘Collective Wisdom of the Cults’ by Granin Lazus
+
+Once the decision had been made, events progressed quickly. The Colony leapt to action once Anthony had given his approval, rushing to secure cores and Biomass to feed to their Eldest, pushing him towards a perfect evolution.
+
+As if Granin would have settled for anything less. If they were going to do this, then they would do everything they could to ensure the evolution was as perfect as possible. He refused to watch Anthony’s future be cut short by this absurd happenstance. He refused.
+
+“Do they have a mythic core for him?” Corun asked as the three golgari consulted with each other. “Without the core, they would be crippling him.”
+
+“It’s being prepared as we speak,” Granin said.
+
+“Will he be strong enough to absorb it?” Torrina fretted. “He’s growing weaker by the minute.”
+
+“He doesn’t have a choice,” her teacher stated grimly. “He has to eat and has to take in that core. Once he’s ready, we will have to start immediately.”
+
+“I’m not sure about this,” Corun fretted. “Are we really the right ones to guide the evolution of a monster this powerful? An Ancient candidate? He has the Call! What if we make a mistake?”
+
+“What if he dies?” Torrina shot back. “I would rather make a mistake and save him than let him fall here.”
+
+“I would rather we save him and do it right,” Granin growled. “Stop doubting and centre your minds. If we are going to do this, then we are going to go in with level heads and clear thoughts.”
+
+A steady flow of ants came and went, dropping off Biomass that Anthony slowly consumed, stuffing himself absent-mindedly as he focused his energy within. There were more healers around him now, doing all that they could to hold back the toxin. Granin felt the passage of time as a painful drip. He stood, arms crossed, leaning against the wall with Corun and Torrina beside him, watching events unfold.
+
+“What I’m really worried about,” he said, “is if we need to make the mutation decisions as well. His mind is weak, we won’t be able to consult him much, if at all, and that gravity mana of his is becoming the focus of his build, but we still don’t understand it well enough to properly capitalise on it.”
+
+“That is a valid concern,” Torrina frowned. “We may have to speak to him, even if it distracts from holding off the toxin.”
+
+“As little as possible,” Granin warned. “If we distract him too much, then we may as well have him do it himself.”
+
+There was a disturbance to the side, and moments later a column of ants marched in, a soldier at their head, an enormous core clutched in her mandibles. In short order, it was placed in front of Anthony, who extended a single antenna to touch it.
+
+The moment they came in contact, a burst of energy erupted from the core, spiralling into the air in dense ribbons of light. It twisted and spun, swirling towards the massive ant and sinking within his carapace. Anthony shifted uncomfortably as his own core swelled within him, pushing into his organs and compressing everything within his carapace.
+
+Even as the core was absorbed, the great ant continued to eat, shovelling in the Biomass bite by bite.
+
+The moments ticked by and Granin grew more and more impatient. It felt like an eternity before the whole of the core was absorbed, watching Anthony grow more and more uncomfortable as he absorbed the energy.

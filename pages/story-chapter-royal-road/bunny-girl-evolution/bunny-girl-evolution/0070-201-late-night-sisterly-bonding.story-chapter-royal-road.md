@@ -1,0 +1,309 @@
+---
+id: 27920ffe-66c5-5558-ab98-eebf150159e8
+page-type-slug: story-chapter-royal-road
+title: "201 - Late Night Sisterly Bonding"
+slug: 0070-201-late-night-sisterly-bonding
+partOf: bunny-girl-evolution
+position: 70
+ownLength: 3886
+unit: words
+publishedAt: 2026-06-23
+link: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution/chapter/3578384/201-late-night-sisterly-bonding"
+royalRoadId: "3578384"
+---
+
+The day after their day off, Elise and Sophie spent most of their time with Professor Sucri and the Dungeon Competition team. They didn’t do anything overly strenuous, because they wanted to be in top form for the following day, but they still did some basic magical exercises, and spent a lot of time double checking their supplies and tactics.
+
+“I think we stand a very good chance of winning this year,” said Sucri excitedly as they rested between exercises. “This is our most talented team yet! If we lose, it will only be because the other teams somehow performed even better.”
+
+“Damn right we are,” said Frank confidently.
+
+His arrogance was moderately annoying, as usual, but Elise couldn’t help but agree. Having an elf on their team at all put them far ahead of just about anyone else. Elves taking Classes was exceedingly rare, and whenever they did, they became powerhouses. Telvir was already well into 6th tier, and easily the strongest combatant in their group, on top of being centuries old and having plenty of wisdom and experience to go along with his power.
+
+And even if they didn’t have him, they would have done just fine. There was Elise herself, and while she couldn’t show her full skills, just {Suggest} and {Aether Sense} alone were more than enough to give the entire team a leg up on the competition. Sophie was the disciple of a dragon with a mana pool bigger than Telvir’s and came with a level of versatility and utility that no other team would have. Frank, as frustrating as he was, was possibly the most talented person Elise had ever met, keeping up with everyone else’s progress while hardly even trying.
+
+Hannah was the least remarkable member of the team, but arguably the most important. The Dungeon Competition was not just a monster killing race. Killing monsters was an important part, and would probably account for half their score, but the other half of their score was almost entirely up to Hannah.
+
+While the Dungeon was generally used as a place for students to gain levels and combat experience, it was also a learning tool. The world was full of spawn zones ranging from the weak, tier 1 spawn zones that covered most of the habitable land, and rumored tier 9 zones in the deepest parts of the barely-explored wilderness. Every spawn zone was unique, posing its own set of both challenges and rewards, and anyone who wanted to work with them needed to understand how they worked and how to handle them.
+
+The Dungeon Competition tested these abilities, from supply preparation to route planning to cartography and more. And though Hannah was not the most powerful combatant, she was diligent and had an organizationally oriented mind that lent itself well to handling all these tasks. Elise was the leader of the group in name, but Hannah was the one making most of the decisions, at least when it came to the more mundane things.
+
+The day passed smoothly, and while Sucri tried her best to make sure that the exercises were light and that they stayed at ease, there was no avoiding the mounting tension. Hannah was especially worried, going over their supplies multiple times, and spending her breaks muttering to herself as she read through the Dungeon Encyclopedia to refresh herself on information about the monsters they might be facing.
+
+Unlike most other Dungeon activity, the Dungeon Competition was not limited to just the area beneath the University. The teams would be entering at various locations all around the city, and there were no guarantees of any specific kind of monster, so they would have to be prepared for anything. Sucri had told them it was impossible for them to prepare for everything, but that didn’t stop Hannah from trying her best. She had nearly the entire encyclopedia memorized, and Elise was fairly confident that no matter where they ended up, she would have a good idea about how to handle their foes.
+
+While none of the others were quite as stressed as her, her stress was somewhat contagious. Elise found it difficult to sit still, Sophie found it difficult to stop talking, and even Telvir and Frank seemed affected. Telvir had to be reminded multiple times not to overwork himself, and Frank was uncharacteristically diligent in his own exercises.
+
+The stress became even more evident at the end of the day when Sucri took them out for dinner and no one had much of an appetite. No one except Sophie, who seemed to have adopted her teacher’s eating habits, and ate more when stressed. Sucri did her best to try to keep everyone’s spirits up, but the conversation still remained subdued, and in the end, she just gave up and told everyone to go home and get some good rest.
+
+Getting good rest was not something Elise was good at even in the best of times, being a night owl, but she already knew it wouldn’t happen that night, so when she got home, she got to work being semi-productive. The first thing she did was use Samantha’s teleportation scrolls to visit Charlotte. The spider girl was holed up in a cave somewhere, but was overjoyed to see Elise. They spent almost an hour together, with Charlotte babbling about what she had learned, and at the end, Elise explained that she would be gone for a little while with the Dungeon Competition, but would visit again right afterward so they could plan things out better. Charlotte was plenty happy with that, and gave her a crushing hug before waving her goodbye.
+
+After getting back from the cave, Elise went straight to her room and entered soul meditation. She didn’t end up being very productive in her soul, since she still couldn’t quite focus, but something about being in her soul realm was soothing in a way that being in her bedroom couldn’t match.
+
+In the months since first learning soul meditation, Elise had made quite a bit of progress, and now had most of a house built within her soul. From the outside it looked like a complete house, but on the inside, some of the rooms were blank, and there were a few weird inconsistencies, since she had not planned properly and the spacing was a little off. She was still pretty happy with it.
+
+She was especially happy with the room next to her bedroom, which contained a hot tub. It was no more than a circular pit in a raised ground, but it had taken by far the longest of any of the rooms in the house. Figuring out how to create water and then how to heat it had taken the better part of a month of work. The end result was worth it, though, and it was especially fun when gravity was disabled.
+
+Elise spent nearly a full half hour just relaxing in a floating sphere of water, directing it to float out the massive window in the room to take a distorted tour of her soul. Since she didn’t need to breathe within her soul realm, she could stay underwater indefinitely, and there was something about floating around in a sphere of warm water that felt more magical than anything else she had done since waking up as a rabbit in this strange world.
+
+She spent a few hours bouncing between various projects in her soul, from making new clothes to filling out the empty rooms in her soul house to adding details to the meadow that currently served as her rudimentary Domain, but none of it really pulled her in the way it usually did. She had expected as much, though, and wasn’t too bothered.
+
+Sometime after midnight, she found herself back in her floating water sphere, relaxing and thinking about the future. After the Dungeon Competition, she would have to leave. Even without Irylax’s request, she would have done so anyway, since she needed to figure out how to suppress her aether once {Subtle Royalty} broke. She was still annoyed that she hadn’t gotten a Skill Quest for a better version like Oberon believed, but knowing what she knew now, she was glad she wouldn’t be relying on the System anymore.
+
+She still had yet to decide where she would go, though. Somewhere without people, at least until she got her aether under control, but what about after that? Would she just become a hermit in the woods as she mastered aether and mana? Maybe go back to Everspring and live with Oberon? Travel around in disguise and learn about the world? It would have to involve Charlotte, but she was pretty sure she could make any of those work if she really wanted to.
+
+I guess it depends on what that big chaotic thing Titania mentioned is, she thought.
+
+Her main theory was that it would be the Skill Recipes going live, since she knew that would make some big waves. A lot of the world’s existing infrastructure would somewhat collapse when that happened. Skills that were exclusive to just a few Classes would suddenly become available to the general public. Mages around the world would suddenly have access to {Mana Manipulation}, assuming they had been diligent in learning unattributed mana Skills. Classes would become significantly less restrictive in terms of what abilities their users could learn. She didn’t see it directly causing any major wars or anything, but she also could imagine a situation where that could be the end result.
+
+If that was all, she could more or less choose to do anything she wanted, once she got her aether under control. There wouldn’t be any rush on her end. And rushing would probably be to her detriment, anyways. She had been rushing for her entire first six months, and then she had to spend even more time with Oberon catching up to what she had missed. And now that she had experienced school life for a semester, she had realized that living a little wasn’t necessarily a bad thing. She had made friends and learned many things that she would never have had the chance to if she just holed up in Everspring and trained endlessly.
+
+There was one major thing holding her back from making any major plans, though. Ostra. Things seemed to be going well at the moment. As far as she could tell, their talks with Jelor and the other major nations of the continent were going smoothly, but she couldn’t help but feel something was off based on her conversation with Firona. Why did she need a protection bracelet? Was it really “just in case” or were they expecting some kind of attack? She didn’t want some kind of crisis, but if one was coming, she wanted to be prepared.
+
+Maybe–
+
+Suddenly, her meditation was interrupted as she heard a knock on the door in the real world. She exited her soul immediately and glanced up at the clock on the wall. It was nearly two in the morning. Frowning, she got out of bed and walked over to the door, and when she opened it, she found Sophie standing there with a pillow in her arms.
+
+“I can’t sleep,” she said.
+
+“Me neither,” said Elise.
+
+“Can I come in?”
+
+“Sure.”
+
+Elise stepped aside to let Sophie through, and the other girl immediately walked over and flopped onto the bed.
+
+“What are you doing?” asked Elise.
+
+“I wanna sleep here tonight,” said Sophie with a giggle. “We haven’t slept together since you were a rabbit.”
+
+“I guess…”
+
+“C’mon.”
+
+Sophie patted the bed beside her, and after a few seconds, she too walked over and lay down. As soon as she did, Sophie wriggled over and leaned her head on Elise’s shoulder.
+
+“Do you really think we’re gonna win?” she asked.
+
+“There’s a pretty good chance,” replied Elise. “Why, are you worried we won’t?”
+
+“No, I’m excited!” Sophie lied. “I heard that the grand prize is a trip to Carsas and a spot on one of the expedition teams.”
+
+“Oh? I haven’t been paying much attention to that stuff.”
+
+“Yeah. And it’s the same expedition that Leo and Cass are gonna be interning on.”
+
+Wait…
+
+“By the way, do you think Cassian is handsome?”
+
+Ah, there it is.
+
+“I never really thought about it,” said Elise.
+
+“Suuuure,” said Sophie, looking up at her with a smirk. “Think about it now, then.”
+
+“I dunno… I can’t really picture his face clearly right–”
+
+“Liar.”
+
+“What?”
+
+“You said you remembered every face you saw.”
+
+“Wh– when did I–?”
+
+“Three months ago at dinner,” said Sophie, raising her finger. “It was before Jessie started coming over, and Nick was talking about how he accidentally mixed up two of the new squires and you mentioned that. You said that you never forget a face, but that you’re sometimes bad with names.”
+
+“I don’t remember that…” said Elise.
+
+“Well, it happened,” said Sophie smugly. “So I know you can picture his face if you want to. Stop stalling and answer the question.”
+
+She raised her finger up and poked Elise in the cheek.
+
+“Alright, fine,” said Elise, swatting her finger away. “Sure. He’s handsome, I guess.”
+
+“He likes you, you know.”
+
+“Yes, as you so cruelly exposed at dinner the other night.”
+
+“It wasn’t cruel. I was being a wingman!”
+
+“Wingmen are usually more subtle.”
+
+“Bad ones, maybe.”
+
+Elise snorted with laughter, and Sophie giggled.
+
+“If he asked you out, would you say yes?”
+
+“...Probably not.”
+
+“Huh?” said Sophie, looking up. “Why not?”
+
+“I don’t really think I want to date anyone right now.”
+
+“Even if they’re nice and strong and handsome?”
+
+“Even then. There’s just… too much going on.”
+
+“Like that stuff with Samantha?”
+
+“Ye– Wait.”
+
+Elise looked down at Sophie, who was the picture of innocence on the outside, and on the inside was greedy and eager for Elise’s answer.
+
+“Clever girl,” said Elise, pinching Sophie’s nose.
+
+“Hey!” said Sophie, pushing her away.
+
+“You can’t fish for information out of me like that.”
+
+“It was worth a shot,” said Sophie, remorseless.
+
+“Whether Samantha is involved or not, I don’t really want to think about dating,” Elise continued. “Maybe eventually, but not now.”
+
+“Dang…”
+
+“What about you? Any of the boys at the academy catch your eye?”
+
+“No, they’re all weird and stupid.”
+
+“All of them?”
+
+“Well… Maybe not all of them.”
+
+“Aha!” said Elise triumphantly.
+
+Over the next few minutes, Elise managed to needle a very reluctant Sophie into parting with the information that maybe, there might have been a boy in her math class that she might not mind too much if he asked her on a date. Maybe. And Sophie also very reluctantly added that she might have possibly heard a rumor that maybe he liked her. Of course, all that was only potentially true, since Sophie refused to give any firm answers, but she was oddly passive about turning the conversation away for someone who was so reluctant to share any information.
+
+The conversation from there turned to Sophie’s plans for the next semester, which involved getting on the fast track to graduation from the Academy, and then probably taking a year off to do some work either with Nick or with Bianca. Either that, or exploring Carsas, something that both Nick and Bianca explicitly disapproved of, but that Sophie felt like bringing up anyway.
+
+“Do you want to be an explorer?” asked Elise.
+
+“Well, I was thinking it might be cool,” said Sophie evasively. “‘Cause, like, the Dungeon stuff is all pretty fun. And what other professions would I be able to use my magic at full power. I’m the goddaughter of a dragon, after all. I can’t just work somewhere I can’t use my magic properly. And exploring is always interesting, ‘cause it’s always new, so I don’t think I’d get bored. Even in the Dungeon when we already know what kinda monsters we’re gonna fight, it’s still pretty interesting.”
+
+“So, yes, then,” said Elise.
+
+“...Yeah.”
+
+“There’s nothing wrong with that.”
+
+“Yeah, I know, right?” said Sophie, suddenly animated. “But Nick keeps saying I’m too young.”
+
+“You are too young.”
+
+Sophie looked up at Elise with an expression of utter betrayal.
+
+“Sophie, you’re thirteen.”
+
+“Almost fourteen. And I’m stronger than most twenty year olds.”
+
+“But you’re still thirteen.”
+
+“So?”
+
+“Okay, think about it this way. What if Skitter decided to run away and go into the Dungeon? Would you be worried?”
+
+“Yeah, but what–?”
+
+“But Skitter is a Tier 2 monster. And a rare variety too. The monsters on the upper layers of the Dungeon won’t be any stronger than him. So why would you be worried?”
+
+“But he’s– he’s just a puppy!”
+
+“Exactly,”
+
+“I’m not a puppy!” said Sophie. “I’m thirteen. That’s basically an adult.”
+
+“I dunno, you kinda look like a puppy to me,” said Elise, ruffling Sophie’s hair.
+
+“Stop!” said Sophie, giggling while pushing Elise’s hand away.
+
+“I bet if you had a tail, it’d be wagging right now,” said Elise, moving her other hand to attack from a different angle. “By the way, did you ask Nick and Bianca what you would have to do for them to approve of you going off to do some exploring?”
+
+“...No.”
+
+“Why don’t you start with that, then? Maybe it’ll be easy. I bet he’ll give you some kind of goal that you can hit before you even graduate from the Academy. He won’t even realize how easy it is.”
+
+“Yeah, maybe…” said Sophie, pausing her fending off of Elise’s hands to think. “Yeah, that’s a good idea!”
+
+Sorry, Sophie, thought Elise, already planning to inform Nick of this conversation.
+
+It wasn’t that she didn’t approve of Sophie’s career choice. It was just that even if Sophie was almost fourteen, it was still way too early for her to be traveling across the world to fight monsters. Sophie could handle herself against just about anything at this point, but it felt like shipping a child off to war.
+
+Elise and Sophie chatted for a few minutes longer until Elise glanced up at the clock again and grimaced.
+
+“We should probably go to sleep,” she said. “We need to be up in less than four hours.”
+
+“It’s fine,” said Sophie with a shrug. “Irylax made me pull three all-nighters last week and I still aced all my tests.”
+
+“Three?!”
+
+“She said she wanted to get me up to an acceptable level before the Dungeon Competition. But I think maybe it was just that she wanted to teach me as much as she could before… You know…”
+
+“Ah, right. But still, we should at least try to sleep.”
+
+“Maybe…”
+
+“I hear that if you get bad sleep, you don’t grow as tall.”
+
+“Really?”
+
+“Yeah. Something about nourishment. It’s the same with foods.”
+
+“Hmmm…” said Sophie. “Okay, fine.”
+
+The two of them took a minute to settle in under the covers and say good night, but a few minutes later, Sophie spoke again.
+
+“I still can’t sleep.”
+
+“I can see that.”
+
+“But I’m honestly pretty tired.”
+
+“Have you tried holding still and staying quiet for more than two minutes?”
+
+“Shut up,” said Sophie, lightly shoving Elise under the covers.
+
+Elise smiled, but then an idea flashed across her mind. It was not something she would dare try while Irylax was still here, but now that the dragon was gone…
+
+She’d probably approve of this, right?
+
+Without another word, Elise activated {Suggest} at low power, sending Sophie peaceful, calming emotions. Sophie was still a bit restless, but as Elise slowly raised the power, she started to relax, and five minutes later, she was snoring. And the process made Elise herself sleepy, too.
+
+I wonder if I can use {Suggest} on myself, she thought idly before drifting off to sleep.
+
+The next morning, Elise felt strange. There was an odd, warm tension in her chest that just refused to go away. She chalked it up to stress and tried to ignore it as she and Sophie packed their things and ate breakfast, but the tension only seemed to grow as the day went on.
+
+It was still there and going stronger when they met with the Dungeon Competition team on campus, and was distracting by the time the proctors led them to their Dungeon entrance. Elise continued to try to ignore it, but it was getting harder and harder with every minute that passed.
+
+What’s going on? she wondered. Am I getting sick?
+
+Once they actually got into the Dungeon, it seemed to lessen. Or perhaps it was just that her mind was occupied by other things. Their entrance wasn’t far outside the University, but it was possibly the worst entrance for their group. This section of the Dungeon was filled with slimes, and while slimes were simple creatures with glaring weaknesses, none of those weaknesses were things that nature magic could easily exploit. And on top of that, the only valuable loot that slimes could give were the cores of higher-tier slimes, but they were extremely tedious to harvest intact, especially with nature magic.
+
+Luckily, Hannah’s studying paid off, and she knew the rough direction they had to go to get out of the slime area and into an area filled with worms and wyrms. The worms were not very useful, but the wyrms were similar to the crawlers in that their hides took on characteristics of various metals and rocks, making them valuable targets. They would be worth a lot of points in the competition.
+
+Elise didn’t want to be stuck in the slime area any more than anyone else did, so she made liberal use of her aetheric abilities to keep the slimes from crossing their paths, making their journey swift and smooth. However, the tension in her chest continued to mount, and just as they were sneaking past a room full of Tier 6 acid slimes, it reached a breaking point. There was a sudden pulse that seemed to come from her very soul, and she stumbled.
+
+“Eleanor?” asked Hannah. “Are you alright?”
+
+“I’m–” started Elise.
+
+She was cut off by another pulse that sent her down to one knee. This one was accompanied by a ripple in her aether, and the third pulse caused an even larger ripple. When the fourth hit, {Subtle Royalty} broke, and her aether was unleashed.
+
+What’s–?
+
+The fifth pulse sent a wave of heat through her whole body, and the sixth made her dizzy, and the seventh made her black out for a moment. The eighth brought her back to her senses, the ninth was much gentler than the previous ones, and the tenth and final pulse returned her mental clarity. Hannah was still kneeling beside her, frantically trying to figure out what was wrong, while the other three had formed a defensive semicircle to ward off the slimes that had been drawn by the aetheric pulses.
+
+“I’m– I’m back,” she said, struggling back to her feet. “I’m alright.”
+
+What the heck just–?
+
+Her silent question was cut off when she checked her System notifications.
+
+[ Error: {Subtle Royalty} has failed. The Skill has been damaged. Further use could damage the Skill further. Please wait 12 hours before using the Skill again. ]
+
+[ {Rune of Fate} has become {Run3 of F4te (Un5h4ckl3d)} ]
+
+…Oh.

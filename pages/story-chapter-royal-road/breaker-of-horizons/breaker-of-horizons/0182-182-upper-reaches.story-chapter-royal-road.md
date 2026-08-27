@@ -1,0 +1,139 @@
+---
+id: 4366108e-f4bc-561d-b316-e0c678b42988
+page-type-slug: story-chapter-royal-road
+title: "182. Upper Reaches"
+slug: 0182-182-upper-reaches
+partOf: breaker-of-horizons
+position: 182
+ownLength: 2135
+unit: words
+publishedAt: 2022-02-28
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/855003/182-upper-reaches"
+royalRoadId: "855003"
+---
+
+When they arrived at the duelling chambers, Bertram went up to the front desk to get the ledger. He flipped through it and let out a sigh. "Figures. All the proper chambers are fully booked already."
+
+At the mention of bookings, Caden remembered Reeves mentioning at the briefing that all the chambers weren't available for private bookings until after 9pm daily. He had been so preoccupied with recent developments that he had completely forgotten.
+
+"Wait, I just remembered we can't even get a chamber now," Caden said. "Why are we even here?"
+
+"Wasn't expecting to get one for immediate use. I was just hoping to nab a spot for later tonight so I could trade it away for something," Bertram answered, shrugging.
+
+"Then what are we here for?" Caden repeated, trying to rein his annoyance in.
+
+"For practice. We don't need a chamber. My pulse is non-hostile and approved for general use, but this is a good spot for you to try it out in a realistic setting." Bertram shut the ledger and sat on the desk, facing Caden. "Right, are you ready?"
+
+"We're doing it now, right here?" Caden looked around at the empty entrance hall. It was completely quiet now, but he felt very exposed.
+
+"Yeah, it's fine," Bertram said breezily. "The classes in the chambers will be in session for another hour at least. I checked the timetables."
+
+"And what if someone else comes by?"
+
+Bertram waved a hand dismissively. "We're just doing scanning sequences, nothing flashy. C'mon, stop stalling. Are you ready or not?"
+
+Caden let out a sigh as he stepped to the edge of oblivion. He had to pull in the borders of his consciousness so that he didn't get too distracted by the things he was picking up from the nearest duelling chambers since his ruthlessly-trained senses were honing in on the hostile sequences being flung about within them. It took him a moment to limit his little sphere of focus to just the entrance chamber.
+
+"Okay," he muttered. "Ready."
+
+Bertram didn't let out the pulse immediately. Instead, he slipped into the arcanic sea, or the 'upper reaches', as he called it. Now that Caden was aware of this alternative frameshift of arcana itself, he could trace Bertram's movements at that level with a little more informed awareness. Bertram's auric-ambient-flare moved in the arcanic sea in ways that Caden had never seen before, marshalling arcana into glyphs with novel effects.
+
+It was only a glimpse, but there were glyphs that Caden recognised from the Basic and Advanced Sets. However, the way Bertram was pulling them together, they somehow cast shadows in the sea, like pale imitations echoing the complexity of the oblivion-level glyphs that Caden had seen woven by the augera. He worked quickly, and the whole sequence disappeared from the arcanic sea almost as soon as he had spun it, though Caden still felt its arcana very faintly, as though veiled somehow.
+
+Then, quite unexpectedly, Caden felt a tug on his auric-ambient-flare — an invitation to join Bertram in a gestalt. Mystified, he accepted.
+
+'Alright, I'm about to set off a pulse,' Bertram sent.
+
+'Okay. But... why the gestalt?' Caden asked.
+
+'Huh?' Confusion drifted across their shared link.
+
+'Why do we need to gestalt?' Caden repeated.
+
+'Because it's easier to communicate and share concepts like this,' Bertram returned, his confusion growing with Caden's.
+
+'Yeah, I know but... is the gestalt necessary?'
+
+Their combined confusion, each echoing the other's, grew so pronounced that it temporarily overwhelmed their gestalt link, and Caden broke it off in irritation.
+
+'What was that about?' he asked in the arcana.
+
+Bertram didn't reply. After a moment, Caden felt the tug again, calling for a gestalt link. This time, before he joined the gestalt, he anchored himself appropriately so he wouldn't get caught in any backwash of thoughts or emotions.
+
+'I don't get why we need to gestalt,' Caden sent.
+
+'But this is how you get things across quickly, freshie,' Bertram replied, radiating irritation.
+
+Something occurred to Caden. There had been a moment in the arena when Henry's gestalt had communicated with each other and arranged to retreat and leave both Caden and Bertram behind to deal with the mass of constructs. They had 'spoken' without any fear of being overheard, and Bertram hadn't caught wind of their plan either.
+
+'Wait a second...' Caden turned to face Bertram, his eyes widening. 'You... and Henry... and the rest. You can only do this when you're gestalting?'
+
+'What?' Bertram was growing confused again. 'Do what?'
+
+'This!' Caden tapped his head. 'Like, share thoughts and ideas, and read intent through the arcana. You can only do this when you're in a gestalt?'
+
+'You mean you don't need to be in one?' Bertram's confusion was slowly giving way to a mixture of excitement, awe, and curiosity.
+
+Caden shook his head disbelievingly. It seemed like something so elementary that Caden had assumed everyone else was capable of doing it. But then it occurred to him that he had spent a whole term in the company of the Chosen One and Six-Chained-Foundations. In fact, he had even spent some time being one of the Six-Chained-Foundations. In that one term, Prophecy itself had sent them hurtling along paths of progression well beyond what was ordinary, and had exposed them to advanced arcanophany that even sages had little to no knowledge of. And now that he was really thinking about it, during the short time he spent home in the term break, his own mother had been surprised that he had spoken of this ability, though there hadn't been time for them to really discuss it.
+
+Bertram seemed barely able to contain his excitement, but after a moment he forced himself to settle down with remarkable mental discipline. 'If anything, this really proves you're big trouble,' he sent, only half-joking. 'So, if you can communicate through arcana without being in a gestalt, why haven't you been doing it?'
+
+'But I have,' Caden answered. 'Literally just now, after the gestalt first collapsed. But it didn't seem like you heard me.'
+
+'Oh man, oh man!' Bertram hopped off the table and paced excitedly. 'Wait, wait, we need to test if you can hear another gestalt even though you're not—'
+
+'I can,' Caden interrupted. 'I heard Henry's gestalt, heard them planning to ditch us when we were facing the constructs.'
+
+Bertram clutched at his hair. 'This is huge. This is a major tactical advantage. I mean—'
+
+'Am I still big trouble?' Caden asked wryly.
+
+'Big,' Bertram nodded. 'Huge. Massive trouble. But I'll be damned if this chance slips through my fingers. Let me stick with you, and I'll get you anything you need.'
+
+Bertram's transparency was quite endearing, in a way. But Caden wondered if he would be so quick to offer that kind of partnership if he knew that Caden's ability to communicate through the arcana wasn't unique. After all, Caden was pretty sure that Ambrose and the other Six-Chained-Foundations were capable of the same thing.
+
+Caden was about to blurt out this fact, but he stopped himself just in time. That kind of information couldn't be shared without leading to awkward questions about how Caden knew these things. If Bertram proved a trustworthy ally and friend, perhaps Caden would open up then. But not now.
+
+'Let's... let's just start with the scanning pulse, okay?' he asked wearily.
+
+'Right. Right!' Bertram still had his sequence primed, but it was invisible in the arcanic sea. Without waiting to confirm if Caden was ready, he set it off.
+
+Poised as he was in oblivion, Caden caught more of it this time. The individual glyphs still eluded his perception, but he could clearly follow their effects. The marshalled arcana spooled out across the arcanic sea, but instead of a single thread, it was like delicate weaves of silk, each layered on top of the other, each one designed to wrap itself around something. One was for auric-ambient-flares, another was for physical objects, and a third was for glyphs actively channeling arcana. He sensed the layers making contact with their immediate surroundings before travelling a little further into the nearest duelling chambers, where it gradually weakened and fell apart.
+
+'Layers,' Caden murmured to himself.
+
+'Wait, wait, how did you get that? What did you do? I don't even... your auric-ambient-flare isn't even stanced?' Bertram asked.
+
+'Stanced?' Caden considered the unfamiliar term.
+
+'Fates. You don't even know what stances are, and somehow you can assess my undetectable pulse sequence.' Bertram's reply was a little petulant.
+
+Caden felt a little sorry for Bertram, but he carefully shielded those thoughts and emotions so they wouldn't bleed through the gestalt link. Bertram had only asked to watch Caden as he tried to de-construct the pulse sequence — he hadn't asked for help, or a running commentary. If Bertram couldn't figure out Caden's methods, that was on him.
+
+'I can't replicate it yet,' Caden sent. 'One more time, please.'
+
+Bertram sent out another pulse and Caden tried to catch more of the glyphs this time, but the very nature of the sequence made it inscrutable in the arcana in almost the very instant it manifested. This time, though, Caden noticed something odd. Despite the fact that the layers were designed to make contact with things and wrap around them, they didn't get depleted or stopped by the first relevant thing they encountered. Somehow, the layers passed through things while still wrapping around them, doing two things at once. Watching it in the arcanic sea, it didn't make any sense.
+
+'Upper reaches,' he muttered, forcing himself to regard the arcana in a fundamentally different way. 'Again, please.'
+
+Bertram obliged, silently sending out another pulse, while Caden strained his arcanic senses. The arcanic sea was his primary lens, and so he wasn't able to completely abandon it at a moment's notice. But the very act of thinking about the different frames helped him to perceive how Bertram's 'upper reaches' frameshift worked in a fundamentally different way from the 'arcanic sea', affecting the nature of the sequences he utilised.
+
+And there it was. In the arcanic sea, Caden's sequences had a sense of corporality, and his perceptions were similarly affected. There were waves and currents and objects, and these all interacted or affected each other as opposing forces, either overwhelming and destroying the other, or else subsuming or surrounding it.
+
+But Bertram's 'upper reaches' frameshift, while also fundamentally based on something corporeal, had an ethereal quality baked into it that allowed arcana to flow through itself, or spin out of itself, or fall back into itself. Arcana could work in threads, in complementary streams, in patterns that were permeable. The frameshift took care of all these things.
+
+And, more importantly, the flow of arcana could be hidden if you went high enough in the upper reaches. Translated to the arcanic sea, it meant that Bertram's core glyphs were so subtly woven into the fabric of arcana that Caden perceived it as the sea itself, not a distinct pattern in the water.
+
+Now that he knew what he was looking for, it was easy to adapt. Poised on the edge of oblivion, all he had to do was turn his attention to where he now knew he had to look, and there the obfuscation was peeled back. Caden could see the glyphs now, which apparently also included some Special Set ones that he had yet to master. More importantly, he could now confirm that Bertram's glyphs, even the Basic and Advanced Set ones, were really possessed of some new quality.
+
+Somehow, apparently without meaning to, Bertram was scribing glyphs on the very edge of oblivion, which is why his pulse was 'undetectable'.
+
+Caden had all he needed now. He didn't know the exact function of some of the glyphs, but that was alright — he only had to accurately duplicate them for the whole sequence to work. He took a few moments to scribe it in the arcana, then a few more moments to check his work. Once he was satisfied, he set it off, taking special care to make sure that he was working on the same level as Bertram.
+
+The arcanic sea lit up like a beacon, but he could tell that the information was designed to flow directly back to him. Every surface touched by the layers of arcana in the ping painted themselves on his mind's eye, mapping out a clear picture of the environment, people, active sequences, and their distances and directions in relation to him.
+
+The biggest signature right next to him turned to face him, radiating incredulity.
+
+'That... that wasn't an imitation. That was my actual sequence. The whole thing,' Bertram sent, completely astonished. 'And I didn't even catch how you unpacked it. Fates. How?'
+
+'Partner-only information,' Caden replied dryly.

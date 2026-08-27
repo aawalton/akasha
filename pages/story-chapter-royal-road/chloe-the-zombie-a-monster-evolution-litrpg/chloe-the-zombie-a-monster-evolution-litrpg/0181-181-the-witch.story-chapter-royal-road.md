@@ -1,0 +1,139 @@
+---
+id: 8929b5fd-ba66-50d6-b2e2-8fb603c58f98
+page-type-slug: story-chapter-royal-road
+title: "181: The Witch"
+slug: 0181-181-the-witch
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 181
+ownLength: 1822
+unit: words
+publishedAt: 2026-07-22
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3711209/181-the-witch"
+royalRoadId: "3711209"
+---
+
+Compared to the completely insane fight she'd been in what... five minutes ago? Chloe wasn't exactly keeping track. This whole "stand apart and politely negotiate" thing felt painfully boring.
+
+Z had slipped into serious talking mode, and Chloe did her absolute best to pay attention, really she did, but after about thirty seconds her brain had wandered off on its own little adventure. She vaguely registered Z talking, then maybe Ynett said something too? Honestly, she couldn't remember.
+
+But, she wasn't completely hopeless. Every now and then something interesting floated into the discussion, and she'd tune back in long enough to piece together the important bits before drifting away again. Apparently Greg was a pretty big deal around here, occasionally acting as a neutral mediator whenever the Bright and Graves families wanted to settle disputes without immediately trying to kill each other. More importantly, Greg's last known destination had been somewhere called "the Elevator."
+
+At first Chloe had been confused. Why was everyone saying it like it was some legendary place? She'd been picturing an ordinary lift inside an office building.
+
+"Hardly anyone used the Elevator before, and now that Divinity Inc. has occupied a growing part of Tartarus, nobody has dared to even try." Amon, the Bright family Patriarch, explained.
+
+The moment Divinity Inc. entered the conversation, Chloe's wandering attention snapped back into place. Finally, they were talking about the really important stuff.
+
+"What exactly is this Elevator?" Z asked. "The way all of you speak of it makes it sound far more significant than an ordinary machine."
+
+Chloe nodded along, since that was exactly what she'd been wondering too. Whatever this Elevator was, it definitely wasn't just some fancy metal box that went up and down, or if it was, then at least it lead to somewhere really bad.
+
+Amon drew a breath before speaking. "The Elevator is—"
+
+"It's just a really big elevator that takes you to the lower levels," Sullivan interrupted.
+
+A vein twitched on Amon's forehead. "You possess an almost supernatural talent for reducing matters of strategic significance into the most laughably inadequate descriptions conceivable."
+
+Sullivan didn't look remotely offended. If anything, he seemed pleasantly entertained. "I mean… Am I wrong? You step inside, it goes down, it is what it is."
+
+"You are deliberately being insufferable."
+
+"Sure, but that doesn't change the fact that I'm right."
+
+For several long seconds, Amon simply glared at him. Sullivan smiled right back, looking entirely too pleased with himself. Neither man spoke another word.
+
+"And why was Greg making his way toward this Elevator in the first place?" Z asked out loud.
+
+Sullivan rubbed the back of his neck. "Beats me. Greg never exactly made a habit of explaining himself to us. One day he was here trying to stop another one of our arguments, the next he'd wandered off toward the Elevator, and nobody's seen him since. That's the whole story as far as I'm concerned."
+
+Amon let out a scoff. "I, on the other hand, know precisely why he went, but I fail to see how indulging your curiosity serves either my family or myself. You have already extracted enough information from us. Consider this conversation concluded."
+
+Wow, Chloe couldn't believe how unbelievably rude this guy was. Seriously, what was his problem?
+
+She shot a glance toward Z, and she really hoped that Z would hit Amon with a dose of humility. Instead, Z just inclined her head.
+
+"I understand, then we shall trouble you no further. Thank you for answering what you were willing to share."
+
+Chloe let out the tiniest, most disappointed sigh imaginable. Z probably gave out the best answer possible, but also a super boring one. Soon after, Chloe opened her mouth, fully intending to ask the much more important question of how they were supposed to find this mysterious Elevator if nobody was willing to tell them where it actually was.
+
+Before she could speak, however, Ynett casually stepped forward. "I could take the two of you there."
+
+Chloe immediately narrowed her eyes as Ynett smiled. That smile was bad news, meanwhile, Z looked completely unfazed, standing there with her usual impossible calm while Chloe silently wondered if she was the only person seeing the giant red flag.
+
+"If you genuinely wish to assist us, then we shall continue this discussion once we have left this place."
+
+Ynett just shrugged. "That works for me."
+
+Before anyone could move, Amon shot a disdainful look towards Ynett. "The other two are free to leave. You, however, are another matter entirely."
+
+Ynett turned toward him, blinking with exaggerated innocence. "Oh? Am I?"
+
+"You have interfered with my family's affairs for far too long. Give me one convincing reason why I should not end your life here and now."
+
+"Well, ignoring the small complication that I'm functionally immortal in more ways than one, and therefore a spectacular waste of everyone's time to kill. I could always offer you both a peace gesture."
+
+Ynett clasped her hands behind her back and leaned forward with an almost playful smile. "I'll heal every wounded member of both your families before I leave. Every single unfortunate soul who got caught in today's little misunderstanding. Think of it as my apology gift, and we can let bygones be bygones... what do you say?"
+
+Chloe's brain screeched to a halt. Did Ynett just casually admit she was functionally immortal?
+
+She had already come to terms with the fact that the snake woman simply refused to stay dead after getting chopped in half, exploding into a swarm of snakes, and even being reduced to dust, but actual immortality was on an entirely different level. That was just unfair.
+
+Amon's expression darkened as he stared at Ynett. "You expect me to believe that one act of kindness wipes away years of sabotage? You have manipulated my people, disrupted my operations, and now you stand before me, smiling as though all of that can simply be forgotten because you offered to heal a few wounds. I find that insulting."
+
+Ynett simply smiled back, looking completely unfazed by the hostility aimed at her. Before she could answer, Sullivan let out a tired sigh and casually rested his flaming axe across one shoulder. "Oh, just let her do it. Worst case, she tries something funny, and then the two of us kill her together. Seems simple enough to me."
+
+He glanced toward Ynett, his relaxed smile never quite leaving his face. "And if you're half as immortal as you claim, I'm sure you won't mind testing that theory."
+
+Amon's jaw clenched, and it was obvious he hated the idea, but after a long, frustrated exhale, he finally looked away. "Very well."
+
+***
+
+To Chloe's surprise, Ynett actually kept her word and the wounded angels inside the bar were healed by her strange snake magic as pale serpents slithered over broken bodies before melting back into flesh, leaving behind angels who looked more confused than injured. It was really creepy.
+
+Chloe still couldn't decide whether the snakes were healing people or just doing an excellent impression of it, but somehow everyone walked away alive. Even so, she couldn't shake the feeling that Ynett always had another trick hidden somewhere.
+
+Anyway, Chloe and Z headed outside first while Ynett remained inside, busy patching everyone up. Chloe kept stealing nervous glances toward the entrance every few seconds, while Z stood quietly beside her, looking about as concerned as someone waiting for bread to rise.
+
+"Z," Chloe finally asked, folding her arms, "how are you so calm about all of this? I feel like I'm missing something."
+
+"I know the Administrator who was assigned to Ynett, and do not forget that I also served as Divinity Inc.'s Head Administrator for many years. During that time, it was my responsibility to know the participants of the Great Game. I have watched Ynett's actions for a very long time."
+
+"Uh, the Great what now?"
+
+"The Great Game, it is a rather long story, one that is not especially important at the moment. What matters is that I have kept track of Ynett's progress for years, including each of the times she crossed paths with you."
+
+"Okay, If you know all that, then how can you possibly trust her?"
+
+"I trust her motives, not her character. Ynett has always desired greater power above all else, but she is not reckless. Since your last encounter, she has evolved once again and grown considerably stronger. Even so, she remains incapable of defeating Sullivan, Amon, or especially myself in a direct confrontation. Honestly, Chloe, I believe you could challenge her as well, though I suspect you would ultimately lose."
+
+Chloe frowned. "Wow, rude... but okay. So your entire plan is basically, 'she knows we can beat her up if she causes trouble,' and you're just hoping she'll behave?"
+
+"Essentially."
+
+"That still feels weird, if she's always after more power, then why is she helping us at all? What's in it for her?"
+
+"Because," a familiar voice answered before Z could speak, "I find this outcome to be the most entertaining."
+
+Chloe turned toward the entrance just as Ynett stepped out of the bar. The snake lady looked completely at ease, as though she hadn't just casually healed an entire battlefield full of angels she'd been fighting only minutes earlier. "And if there's one thing I've learned, it's that there are certain forces I'd much rather not antagonize."
+
+Chloe frowned. "What's antagonize mean again?"
+
+"It means to deliberately make someone your enemy," Z explained. "To provoke them unnecessarily or invite conflict where none is needed."
+
+"Exactly, I've found that life is considerably less painful when one avoids making enemies of certain... exceptional individuals." Ynett said.
+
+"You're talking about Z, right?" Chloe asked.
+
+Ynett's smile widened. "Yes, her too. But also, you, Chloe."
+
+She slowly walked over until she stood only a few steps away. "You see, Zombie Girl, our previous encounters have left quite the impression on me. Every single time our paths have crossed, I've approached with a plan, only for it to unravel in the most spectacular fashion imaginable, and somehow, you've always been at the center of it."
+
+"Really?" Chloe asked.
+
+"It's only been twice, but I'm keen on not repeating things a third time. Besides, I've started entertaining the possibility that the universe itself simply enjoys watching you get in my way, or perhaps it has decided that whenever I oppose you, something will inevitably happen to put me back in my place. Whatever the reason, I've concluded that continuing to stand in your path is... statistically unhealthy."
+
+Chloe slowly raised an eyebrow. "So you're seriously just going to help us?"
+
+"Yes, I shall help the two of you reach the Elevator. After that, however, I would very much appreciate it if our paths did not cross again for a long, long while."
+
+Ynett smiled at Chloe with almost exaggerated politeness. "For my own sake."

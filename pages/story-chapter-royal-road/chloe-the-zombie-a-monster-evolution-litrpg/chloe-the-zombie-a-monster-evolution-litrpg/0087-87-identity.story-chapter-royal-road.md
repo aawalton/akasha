@@ -1,0 +1,189 @@
+---
+id: ca336558-059f-5b73-ac10-432f1da6aa67
+page-type-slug: story-chapter-royal-road
+title: "87: Identity"
+slug: 0087-87-identity
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 87
+ownLength: 1963
+unit: words
+publishedAt: 2025-12-15
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2850082/87-identity"
+royalRoadId: "2850082"
+---
+
+Z stood quietly in the park, her clothes slightly wrinkled from the day’s heat and the weight of disappointment she refused to show. She slipped a coin into the vending machine, the metallic clink followed by a mechanical whir.
+
+A plastic-wrapped sandwich dropped into the tray with all the enthusiasm of a layoff notice. She crouched, took the package, and tore the plastic with her thumb.
+
+The sandwich inside looked barely edible; two slices of what was probably meant to resemble white bread, holding something that might have once aspired to be ham and cheese. A quick glance at the ingredients list confirmed her suspicions: this thing was, at best, fifty percent sandwich and fifty percent chemicals. Still, she was hungry, and food was food.
+
+As she chewed, Z adjusted her glasses and glanced around the park. A few younger angels lounged on the benches, chatting over steaming coffee cups. One of them laughed and playfully swatted another with a wing.
+
+Two other angels tossed a frisbee across the open lawn. And on the far side, a pair of uniformed field agents compared notes on a tablet.
+
+To them, it was just another quiet afternoon. As far as they were all concerned, the system worked.
+
+Then Z’s gaze shifted. An old angel was making his way along the path, one step at a time. His cane tapped gently against the stone walkway. His wings had been clipped, probably decades ago, by the look of it. The feathers never quite grew back correctly after something like that.
+
+Z’s brow furrowed. He’s one of the discarded ones. Not Divinity Inc, then, must’ve been a subsidiary. Maybe even a third-tier branch.
+
+Working directly under Divinity Inc was a rare privilege for angels. It came with pressure, yes, but also a degree of civility. The subsidiaries, though… those were a different matter. Farther from oversight. Farther from accountability. They carried the same logo, wrapped in layers of bureaucracy, but none of the restraint.
+
+I know what they did to you. And I’m sorry, she thought, watching the old angel shuffle slowly out of view.
+
+She took another bite of her sandwich. It tasted like cardboard. But she kept eating.
+
+Z sat back down on the bench, her half-eaten sandwich resting limply in her hand. She chewed slowly, eyes drifting across the park again, but her thoughts remained on the old angel. On clipped wings. On protocols and quiet cruelties.
+
+A sudden thump jolted her out of it. A rubbery ball bounced off the side of the vending machine and rolled to a stop beside her foot.
+
+Z blinked down at it. A moment later, a young angel came running after it, perhaps seven or eight. His brown hair stuck up at every angle, as if he'd just rolled out of bed and never quite stopped moving since.
+
+“S-sorry,” he mumbled, skidding to a halt.
+
+Z stared at him for a long second before bending down and picking up the ball. “It’s fine, here.”
+
+She held it out with one hand, still holding the sandwich in the other. The boy accepted the ball, but didn’t leave. He lingered awkwardly, bouncing it once between his hands.
+
+“Wanna play?” he asked.
+
+Z raised a brow. “Play?”
+
+“Just throwing it around! You can be on my team.”
+
+“I don’t think I’m exactly dressed for physical activity."
+
+“That’s okay. You don’t look that fast anyway.”
+
+Z blinked. “Excuse me?”
+
+The boy grinned. He’s baiting me. The little gremlin’s baiting me.
+
+Z sighed, glanced once more at the sandwich, and wrapped it up. “Fine. Ten minutes. If I sprain something, I’m suing you for negligence.”
+
+The boy beamed. “Deal!”
+
+She stood, brushed off her skirt, and followed him to the grassy clearing. A few other fledgling angels were already there, two tossing the ball back and forth, and a smaller one with a neon headband and a wide grin.
+
+All of them paused as Z approached, momentarily stunned by the sight of an adult angel entering their makeshift battlefield.
+
+“She’s with me,” the boy announced proudly, puffing out his chest.
+
+Z offered a curt nod. “Let’s get this over with.”
+
+To her surprise, it was… fun. The game had no consistent rules. Or rather, the rules changed every time someone dropped the ball, and often just because someone felt like changing them.
+
+There was shouting, frantic running, spontaneous declarations of victory. Z caught the ball, missed it, overthrew it, and stumbled once when the smallest kid fake-passed her and ran the other way.
+
+Her glasses nearly slid off. She let out a short, startled laugh.
+
+An actual laugh. She tried to remember the last time she’d done that.
+
+In the end, the children tired before she did. Z returned to the bench and sat down, brushing a few blades of grass from her lap. The boy plopped down beside her.
+
+“That was awesome,” he said.
+
+Z allowed herself a faint smile. “You’ve got stamina. I’ll give you that.”
+
+“My mom says I'm the fastest boy ever.”
+
+“Heh, charming.”
+
+They sat in companionable silence for a moment, watching the light shift as afternoon crept in. The sky above was beginning to mellow into soft golds.
+
+Z glanced at him sidelong. “Are your parents nearby? It's not very safe talking to strangers. I could’ve been anyone.”
+
+The boy shrugged. “Mom’s picking me up later. Dad works a lot, so I don’t see him much.”
+
+“Still. You shouldn’t talk to people you don’t know.”
+
+“But I know you now."
+
+She opened her mouth, closed it again, and exhaled. "I guess you're right."
+
+“You’re weird. Even when playing, it sort of looked like you’re tired all the time."
+
+Z laughed softly under her breath. “I am tired all the time. It's all thanks to my job you see."
+
+The boy tilted his head. “So don’t do that job anymore.”
+
+“That’s… actually the one thing I’ve already managed to do right.”
+
+“Cool. Then now you can do the thing you want to do, right."
+
+"Kid, it's not that simple."
+
+"But why not?"
+
+"Well, it's—"
+
+Suddenly The boy stood as he saw a familiar car pull up near the lot. “Sorry, but I gotta go, bye Miss Tired Angel!” he called, waving.
+
+“Bye,” she murmured.
+
+As he ran off, Z sat back against the bench. Do the thing I want to do, huh.
+
+She blinked once, then reached into her pocket and took out her smartphone. The interface shimmered to life with a faint chime as the system unlocked.
+
+She tapped the familiar blue halo icon, AngelGo, the most trusted ride-sharing service across the celestial realm. The app displayed a map of various districts, glowing softly like constellations.
+
+Z tapped a pinpoint deep within one of the older sectors, farther than most angels ever bothered to go.  Seconds later, a nearby driver accepted the request.
+
+Soon, a silver sedan pulled up to the park’s edge. Its windows were tinted, and the paint was scuffed, but it was clean and well-kept. The driver unlocked the doors with a quiet click. Z stepped inside, settling into the back seat.
+
+The driver in the front was older than most, slightly balding. He glanced at the rearview sigil and tilted his head. “Just to be sure, ma’am you did mean to go to the old bridge?"
+
+Z nodded. “Correct.”
+
+***
+
+Chloe didn’t normally get scared. Normally, she was all confidence and bravado, even when things got weird, or exploded.
+
+She'd been through a lot to get to this point. Fought off mountain beasties, a creepy snakey ice witch, Wolfie (Sierra), that blood magic guy, rat people, and a lot of other foes. But wow, she was really scared right now.
+
+Something in the air had changed. It wasn’t just the creepy silence or the darkness, it was the way the whole place suddenly felt... tight.
+
+Chloe didn’t have a heartbeat anymore, perks of being undead, but if she did, she was pretty sure it’d be thumping all weird and fluttery by now. She shifted her stance, suddenly way more aware of how empty the room felt.
+
+Her eyes flicked toward Sierra, and what she saw made her gut tighten. The wolf girl wasn’t shaking, but her shoulders were drawn in. And her ears were pinned back, twitching at every tiny sound.
+
+The confidence Sierra had been showing lately looked like it had been tucked away again. Just like that, she seemed smaller. Not physically, but in the way she held herself. It reminded Chloe a little too much of how she used to look back when she was still under Ynett’s thumb.
+
+Still, Chloe couldn’t really blame her. This place wasn’t exactly helping. The air felt like it had teeth.
+
+Then came the sound. A low groan of metal echoed through the chamber. Chloe turned back toward the cage gate she had bullied open not long ago. It was completely fixed, with no evidence of her glorious super zombie door-breaking.
+
+Did the door… fix itself? How?
+
+Before she could finish wrapping her brain around that, a voice cut through the air again. “You really shouldn’t turn your back on someone important.”
+
+Please don’t be breathing down my neck. Please don’t be breathing down my neck. Please don’t be—
+
+Chloe turned. And came face to face with Morikhan.
+
+For a moment, Chloe’s brain just... stopped. She’d seen him before from that weird, squishy memory-munch she got out of the rat wizard’s brain, but seeing Morikhan in person was a very different experience.
+
+Morikhan’s paws alone looked big enough to flatten a carriage. Or a tower. Or maybe a small village, depending on how hard he stomped. Chloe slowly tilted her head back to look up at him, every inch of her instincts screaming danger. She forced out a greeting anyway, her voice a little too high and not nearly as confident as she wanted it to sound.
+
+“Uh... hi.”
+
+Morikhan’s gaze flicked down toward her, glowing eyes gleaming like coals. He gave a low hum before shifting his attention to Sierra.
+
+His voice rolled through the chamber, deep enough to make the floor feel like it was vibrating. “And you... do you remember me, little wolf?”
+
+Sierra stiffened beside her. Chloe didn’t even need to look to know it, she felt it in the way Sierra was breathing fast. Even so, the wolf girl straightened her spine and lifted her chin. “We’ve… definitely never met before."
+
+Morikhan let out a low, rumbling laugh that rolled through the room like distant thunder. It wasn’t the friendly kind. It was the kind of laugh that made your skin itch. “No, I suppose you wouldn’t remember. You fought me once already, and your mind surrendered to instinct when you touched your primal form.”
+
+His glowing eyes narrowed slightly, lips curled into something that might’ve been a smile. Or a warning. “But it matters not.”
+
+Chloe stayed frozen in place. Her body hadn’t decided whether it wanted to run or play it cool, and for now, that meant staying perfectly still.
+
+Before she could figure out which way her feet were leaning, Morikhan turned his massive head toward her. “And you, I see that you carry two souls. One, I know well... undead. The other, however, is something I cannot name. So tell me, what are you?”
+
+Wait. Two souls? Is that normal? Do other people have that?
+
+Chloe wasn't really sure what to answer Morikhan. So she figured just playing it cool was the pay here. “Hi, I’m Chloe. And, um... it’s nice to meet you?”
+
+Morikhan didn’t move. But there was a shift in his posture, a slight tilt of the head, a breath that sounded more like a growl slipping through his teeth. “I didn’t ask who you were, girl. I asked what you were.”

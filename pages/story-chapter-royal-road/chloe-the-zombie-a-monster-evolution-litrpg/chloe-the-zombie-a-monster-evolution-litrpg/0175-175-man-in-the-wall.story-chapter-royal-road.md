@@ -1,0 +1,97 @@
+---
+id: 4c97b388-5765-5cef-920b-cf117e8f057d
+page-type-slug: story-chapter-royal-road
+title: "175: Man in the Wall"
+slug: 0175-175-man-in-the-wall
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 175
+ownLength: 2067
+unit: words
+publishedAt: 2026-07-08
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3649096/175-man-in-the-wall"
+royalRoadId: "3649096"
+---
+
+Okay, so Chloe did have to admit that she had killed Sabine. That whole mess had happened a while ago, but she still remembered it pretty clearly. The victory had felt good at the time because, well, Sabine had been trying very hard to kill her, and Chloe generally preferred not being killed.
+
+At the same time, though, Sabine hadn't been the worst person Chloe had ever met. She'd been dangerous and more than a little terrifying, but there had been moments where she'd almost seemed... normal. Which was probably why Chloe couldn't help feeling a tiny bit awkward now. Because people didn't usually introduce themselves by bringing up dead friends unless they were very upset about the whole situation.
+
+The more Chloe thought about it, the more certain she became that this robed water guy had probably known Sabine personally. Maybe they'd worked together before or something like that? Either way, if he was bringing her up now, then Chloe was probably sitting somewhere near the top of his list of people he'd like to violently remove from existence. Not that she was planning to let that happen of course, she still had a lot of stuff she wanted to do.
+
+Besides, she was becoming increasingly convinced that this entire underwater disaster was his fault. Chloe wasn't exactly a detective, but even she could connect those dots. If beating him fixed the flooding, then that would honestly solve a lot of problems all at once. Unfortunately, Sabine hadn't exactly been an easy fight.
+
+The woman had nearly killed her, and she'd been one of the strongest opponents Chloe had faced in a long time. If this guy was another member of Sol, then there was a very good chance he was just as dangerous, maybe even worse. Which was exactly why Chloe decided there was no point easing into the fight.
+
+If you were going to start a battle, you might as well start with something big and powerful. Chloe closed her eyes for a brief moment before opening them again.
+
+A flash of light flickered within as her Eyes of Dominion activated. Invisible telekinetic force erupted from her position without warning, blasting through the water. The flooded chamber shook as the pressure wave tore across the room, shoving aside massive amounts of water and creating a violent current in its wake. The robed man's eyes widened slightly as the force struck him in the chest.
+
+His body shot through the water at incredible speed, trailing swirling currents behind him as he was hurled across the chamber. Water exploded outward around him while he crashed through the submerged hallway before finally slamming into the wall hard enough to crack the concrete. The collision sent fractures spiderwebbing across the surface, while clouds of dust and debris billowed into the water.
+
+Chloe immediately followed up before he could recover. Dark energy gathered around her hand, condensing into the shape of a long spear. Then, she threw it.
+
+The spear ripped through the water like a missile. A trail of disturbed currents followed behind it as it crossed the chamber and struck the man directly in the stomach. The force of the impact drove him back against the already damaged wall, and the black spear punched through his body before embedding itself deep into the concrete behind him.
+
+Chloe initially felt pretty good about herself, but then, his body suddenly dissolved.  The man's entire form broke apart into a rushing torrent of water that flowed around the spear.
+
+Unfortunately, Chloe didn't get nearly as much time as she wanted to enjoy being right. The water around her suddenly shifted. One moment she was staring smugly at the spot where the water mage had dissolved, and the next every alarm bell in her head started ringing at once.
+
+Chloe spun around just in time to get punched directly in the face. The impact sent her shooting backward through the water. Currents exploded around her as she tumbled head over heels, completely losing her orientation for several seconds before she finally managed to stop herself.
+
+By the time she'd recovered, the man was already moving again. His body flowed through the water way too fast, almost as though he got some kind of boost just by being underwater. His robes drifted behind him while he surged forward in a blur, closing the distance before Chloe could properly react. Another punch crashed into her stomach, followed immediately by a kick that caught her in the side and sent her spinning away again.
+
+The deeper Chloe got into the fight, the more obvious it became that she was completely outmatched when it came to mobility while underwater. She felt less like fighting somebody underwater and more like fighting somebody on dry land while Chloe herself was stuck underwater.
+
+Several more exchanges followed in rapid succession as the man continued pressing the attack. Chloe managed to block some of the strikes, but even then she could feel how much force he was putting behind them. More than once she found herself wondering whether the guy was actually stronger than Sabine.
+
+Eventually the water mage lunged forward again, driving a fist directly toward her chest. This time Chloe reacted fast enough to catch his wrist before the strike landed. Immediately, a grin spread across her face. Finally!
+
+Lightning erupted from her body as electricity surged through the surrounding water and raced across the man's arm before spreading through the rest of his body. The entire flooded chamber lit up in flashes of blue-white light as crackling energy engulfed him from head to toe. For the briefest moment, Chloe thought she saw genuine surprise flash across his face.
+
+But just like last time, after Chloe's lightning attack, the man dissolved into ordinary water. Chloe was really hoping that the guy would reappear nearby so she could zap him again, but after a few seconds passed, that didn't seem all that likely.
+
+Chloe turned in a circle, scanning the dark hallways and distant rooms while trying to spot any sign of movement. Unfortunately, all she saw was just a whole lot of water, and then more water.
+
+And to make things worse, at some point during the fight, she'd lost her footing entirely. The repeated punches and kicks had knocked her away from the floor, and now she was floating in open water. Without her feet anchored to the ground, she had to swim, and Chloe wasn't the biggest fan of doing that.
+
+Of all the things she'd expected to become important today, her childhood swimming lessons had ranked extremely low on the list. Mom had always insisted that swimming was an important life skill. Most of those lessons consisted of Chloe complaining about getting wet, accidentally swallowing pool water, and wondering why anybody voluntarily chose to spend time submerged in a giant puddle. Now, however, she found herself reluctantly putting those old lessons to use.
+
+After several awkward moments of flailing, Chloe gradually settled into a more controlled rhythm and began swimming through the flooded floor. It still felt weird, but at least she was moving in the direction she wanted.
+
+As she moved deeper into the submerged complex, she spotted one of the side rooms branching off from the main hallway. The doorway stood open, revealing a room that looked like some kind of office or storage room. Overturned desks rested against the walls, filing cabinets lay scattered across the floor, and loose papers drifted lazily through the water. More importantly, it looked like the perfect place for somebody to hide. The feeling of danger lingering in the back of Chloe's mind hadn't gone away either. If anything, it had grown stronger since the water mage vanished.
+
+Which meant there was a very good chance he was still nearby. Watching. Waiting. And probably planning something incredibly annoying. With that thought in mind, Chloe cautiously swam toward the room.
+
+Chloe had barely resumed swimming before that familiar feeling returned. The moment her instincts started screaming, she immediately twisted her body and tried to turn toward the threat.
+
+A fist slammed into her side. The impact sent her tumbling through the water, spinning end over end as currents exploded around her. Before she could even figure out which way was up, the water mage appeared again, emerging from the surrounding water as though he'd always been there.
+
+Meanwhile, Chloe felt like she was trying to fight while trapped inside a giant bowl of soup. The man closed the distance instantly. A kick caught her in the stomach, followed up by a punch crashed into her shoulder. Then another strike hit her square in the chest.
+
+Every attack came from a different direction, and every time Chloe thought she was starting to follow his movements, he changed direction and attacked from somewhere else.
+
+This is so unfair! Chloe thought as she flailed through the water trying to catch him.
+
+The man, rudely, did not care. He lunged again, but this time Chloe was ready. She caught his wrist with both hands and immediately channeled lightning through her body.  The surrounding water flashed with light as crackling arcs raced across his arm and spread through the rest of his body.
+
+For a split second, his face tightened. Then his body dissolved. Once again, the man collapsed into ordinary water that scattered into the surrounding flood and disappeared. Chloe pointed triumphantly at the place where he'd vanished. See? That's what you get!
+
+The victory lasted approximately three seconds, which admittedly made it a lot less satisfying. Then, something slammed into the back of her head. Chloe let out a startled yelp as she shot forward through the water. Before she could recover, another blow struck her side.
+
+The water guy had returned to spite Chloe again. And somehow he'd become even more annoying.
+
+The fight quickly turned into an endless cycle of frustration. The water mage would appear out of nowhere, punch or kick Chloe several times, and then disappear the moment she managed to retaliate. Then he'd reappear somewhere else and do it all over again. It was like fighting an incredibly aggressive fish. An incredibly aggressive fish that knew martial arts, and also move faster than her.
+
+By now Chloe was getting genuinely irritated. Her hair was floating everywhere. Her clothes were soaked. She was being repeatedly punched by a man made entirely out of water.  The worst part was that she knew she could probably destroy him if she could just figure out where his main body was, or if he had some kind of weakness that she could exploit. The problem was figuring out water guy's weakness in his home turf was hard.
+
+The man kicked her in the ribs. At that point Chloe officially decided she'd had enough. If normal attacks weren't working, she'd just use enough power to erase the entire problem.
+
+Dark energy immediately began gathering around her body. The water around her trembled as destructive mana condensed into existence. Black wisps curled through the flooded chamber while Chloe focused on drawing more and more power together. The surrounding currents became unstable as the sheer amount of energy she was gathering began affecting the water itself.
+
+But suddenly, water surged toward her from every direction at once, and Chloe's eyes widened. Huge currents twisted around her body before slamming together with incredible force. In an instant, a massive sphere of water formed around her, completely enclosing her from every side.
+
+Chloe tried moving her arms and legs, but nothing happened.  The water inside the sphere flowed differently from the surrounding flood. Powerful currents pulled against one another in an intricate pattern, creating a prison that locked her in place from every direction at once. Every movement she attempted was countered by another current pushing against her. The harder she struggled, the more obvious it became that brute force wasn't going to work.
+
+The water guy then calmly manifested a short distance away and watched her struggle. His robes drifted gently around him while the stylized sun on his chest shimmered beneath the dim emergency lights. There was no anger on his face, though Chloe could swear that this guy was totally not happy to see her.
+
+Only certainty. The man slowly folded his hands behind his back and looked at Chloe through the prison of swirling water. "This is my victory, zombie girl."

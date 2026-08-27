@@ -1,0 +1,128 @@
+---
+id: 929158c7-8e84-5748-914f-f79aff491bf5
+page-type-slug: story-chapter-royal-road
+title: "182 - Compensation For Your Trouble"
+partOf: bunny-girl-evolution
+position: 50
+ownLength: 3183
+unit: words
+publishedAt: 2026-03-25
+link: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3191130/182-compensation-for-your-trouble"
+royalRoadId: "3191130"
+---
+
+Despite her promise, Elise did not visit the drow that night, or the next day, or even the day after that. While Hallbjorn said he was in a bit of a predicament without the relics, evidently it wasn’t time sensitive, since he had a lot of other things to show her before she went, and Elise had a couple reasons of her own. First was that since she didn’t know how to contact the drow, she had not told them she was coming, meaning that they were not waiting for her.
+
+Second was that Titania had told her to come visit the dwarves, and although she had a sneaking suspicion that the relics were related, she wanted to be absolutely certain before she got too sidetracked. And the third was related to the second in that whatever work she needed to do, she wanted to put it off a bit longer. She was on vacation, and didn’t want the entire vacation to be ruined by some catastrophe she had to clean up. The thought that a catastrophe had already happened with the drow did cross her mind, and she did briefly pop down to check on them, but when she saw that they all seemed happy and healthy, she left without making her presence known.
+
+With her mind mostly at ease after that brief trip, she was able to thoroughly enjoy her two free days in what Hallbjorn called “New Dokkalfheimr.” Hallbjorn had apparently taken to walking the streets in disguise, and he took her on an undercover tour of the city, giving extra attention to the new places and professions that had popped up since coming to the surface.
+
+“This is the city’s rising star,” he said as they stopped by one of the largest buildings. “The Solveig Emporium! Young Solveig ran the general store she inherited from her parents back underground, but now she’s gone and become the city’s wealthiest merchant! Apparently she was always a talented lass, but now that we finally have neighbors we can trade with, it’s her time to shine!”
+
+They never saw Solveig herself—though they could have if they wanted to blow their cover—but they did see many dwarves entering and leaving, as well as a few merchants of other races. The store itself wasn’t anything too special, in Elise’s opinion. At least, she had seen all the goods before, sans a few regional variants. But the fact that it existed in the city meant that Solveig had managed to secure supply contracts with outside merchants, and had used them to push her business to be the largest and busiest in the city. Elise didn’t know much about business, but she knew that accomplishing this much in just a few months was quite impressive.
+
+Next, they went to what Hallbjorn called the “smithing district,” which was a square section of the city that had been reserved exclusively for the dwarven blacksmiths and runesmiths. Elise only half-understood why they needed their own district until they entered the square and got past the sound-proofing enchantments.
+
+“Incredible, isn’t it?” asked Hallbjorn, shouting over the sound of constant hammering and grunting and clattering and all the other sounds made by the smiths. “They’ve been leveling like 1st tiers! We’ve never had such a wide variety of materials to work with! C’mere!”
+
+He led her into a relatively quieter building that looked to be a jeweler. The din of the outside still bled in, and Elise could hear some lighter hammering from the back room, but they could at least speak without shouting in there.
+
+“The Solveig Emporium may be the biggest shop in the city, but this is the wealthiest,” said Hallbjorn. “Apparently, Dokkalfheimr jewelry is all the rage in Jelorian high society these days. Some kind of fashion movement or something. You’d never believe what some of those nobles are willing to pay for runecrafted necklaces made by a genuine Dokkalfheimr goldsmith. Speaking of, I actually commissioned something for you.”
+
+“For me?” asked Elise. “You didn’t have to.”
+
+“Don’t worry about it,” said Hallbjorn, waving her off. “This is your payment for the favor I asked you last night. And don’t worry, I didn’t go overboard. It’s well-made, obviously, and the materials are expensive, but they’re still ordinary. Ordinary metal, ordinary gems. No priceless relics this time, heheh.”
+
+Elise was relieved that it was indeed a step down from his last gift to her, but hearing him talk about how it wasn’t a big deal immediately after explaining that this shop was the wealthiest in the city due to the prices of the jewelry still felt like it was excessive. Her worries vanished as soon as she saw what he had commissioned, though.
+
+The owner of the shop, a middle-aged female dwarf, evidently recognized the king, and guided them to the back without a word, and when Hallbjorn asked, he brought out a wooden box whose contents made Elise gasp when it was opened. It was not a single piece, but a set, complete with a necklace, earrings, brooch, and hairpin. Each was made of silver metal set with rubies almost the same shade as her eyes, and each piece was elegant, and even a bit extravagant, but not overdone. Elise had seen quite a bit of high society fashion in her time at Jelor University, and she couldn’t say she liked most of it, but she definitely did like this.
+
+I am doing them a service that only I can do, she reasoned. And it’s important enough that a little set of jewelry isn’t too expensive a price to pay…
+
+“I’m glad you like it,” said the shop owner, beaming. “One of my finest works, if I do say so myself. Earned me three levels on its own. Since this is a set for formal attire, I enchanted it with runes that are generally useful in formal settings, but you can mix and match the set depending on the effects you want. The necklace provides protection against social Skills and mental magic. The hairpin provides protection against poison. The left earring amplifies your own social Skills and Charisma, and the right mutes them. The enchantments on the earrings can be switched on and off at will, of course, while the other two are both permanent effects.”
+
+“I see,” said Elise, delicately running her fingers along the necklace. “Is there any limit on the earrings?”
+
+“Pardon?”
+
+“How much Charisma can they amplify or suppress, and if I go over, will they break?”
+
+The smith laughed out loud at that question.
+
+“Oh, you don’t have to worry about that,” she said with a chuckle. “Not until you get to 9th Tier at least, and probably not ever. They should be effective up to 15,000 Charisma. And if you do ever end up going beyond that the runes won’t break. They’ll just be less effective.”
+
+Elise nodded while trying to do the math in her head to figure out how long it would be until she reached that point. Oberon said that her aether would be the equivalent of more than 9,000 Charisma by the time she got to the peak of 5th Tier, and of course, that would only grow after her Evolution. She would have been surprised if she didn’t hit that 15,000 Charisma threshold sometimes in 6th tier, which really wasn’t that far off.
+
+And as she thought of how much her aether would grow when she got to 7th, 8th, and 9th Tier… 15,000 would be nowhere near enough. She wasn’t the best at math, but she was pretty sure that 100,000 wasn’t out of the question by the time she neared divinity.
+
+“This isn’t a commission request,” she said. “I’m just asking out of curiosity. What’s the maximum amount of Charisma you would be able to enchant something like this to amplify or suppress?”
+
+“Well, for something like that, 15,000 is probably right around my upper limit,” replied the smith, stroking her chin. “If I sacrificed some of the aesthetics for functionality, I might be able to get close to 20,000. That may change after my next Class Evolution, but for now, that’s about my limit.”
+
+“I see,” said Elise, nodding.
+
+“Why, are you planning to go beyond 15,000?”
+
+“Maybe.”
+
+“Hmmmm…” she said. “Well, you may be hard-pressed to find anything better, but I’ll keep that in mind for the future.”
+
+“Oh you don’t have to. I was just curious.”
+
+“No, it’s fine,” she said. “I’ve still got a long way to go, and if I want to continue catering to nobility, I’m going to be dealing with people with very high Charisma. Besides, you’ve gone and got me curious. I’d like to know what my limits are too. And if you do end up going over, they shouldn’t break. It will just work up to its limit, and any excess will be unaffected.
+
+“Anyway, would you like to try them on? I don’t often get to see my works on their intended targets.”
+
+“I was just going to ask if I could,” said Elise.
+
+She wanted to check the effectiveness of the earrings herself, so she was glad for the invitation from the shop owner.
+
+Like Hallbjorn, Elise was in disguise as well, her hair black and eyes brown to maintain her cover as Hallbjorn’s false identity’s daughter, but she let her pigment revert to their default silvery white and red as she gently lifted the necklace out of the box. The clasp was like a magical magnet, that came apart on command, but would not come undone unless she willed it to. The necklace itself rested comfortably around her neck, the chain automatically shortening to the proper size.
+
+As soon as it was on, she felt it begin feeding on almost negligible amounts of her own mana and aether as its enchantments came alive. The cool sensation of the metal on her neck and chest felt odd, but not unpleasant, and when the shop owner produced a mirror for her to see how she looked, she smiled.
+
+The hairpin was next, with the shopkeeper helping her tie her hair up to set it in. Then it was time for the earrings, and as Elise placed them on her ears, she was once again glad for the existence of magic. Piercings were not unheard of in this world, but they were not at all normal. Most earrings instead used a similar type of magic to the necklace’s clasp to hold onto the ears without piercing through. It had to siphon a bit of her mana to stay active, but the quality was excellent, so its enchantment was efficient enough that she barely noticed.
+
+She tried the right earring first, checking its suppression effect and was pleasantly surprised to find that it was significantly better than her own {Subtle Royalty}. It reduced the aether she emitted to almost nothing, and even when she disabled {Subtle Royalty}, it didn’t falter. In fact, she saw that it was very cleverly designed, so it borrowed her own aether to run the enchantment, meaning that it didn’t quite have to suppress everything, because much of it was being burned by the enchantment itself.
+
+Next, she tried the amplification enchantment, and that was similarly sound. It also burned some of her aether to activate, but its effect was more than worth the cost, as it seemed to double the amount of her aether that reached the people around her, in this case only the shopkeeper and Hallbjorn. Their eyes were already on her, so she couldn’t really draw their attention any more than she already was, but she did sense a subtle shift in their emotions as her amplified aether hit them.
+
+She was tempted to try activating {Subtle Royalty} while the earring’s effect was active, but after her experience with the Skill breaking before, she didn’t want to try it again. Especially not when she was in the middle of an undercover tour of the city. Maybe later, when she could reasonably be assured privacy for a few days in case the Skill needed more time to recover.
+
+“They’re perfect,” she finally said.
+
+“And they look fantastic too,” said the shopkeeper. “They suit you better than I thought they would.”
+
+“Yes, they look very good,” said Hallbjorn. “You always make great work, Griselda.”
+
+“It helps when I have a model like this,” she said with a smile.
+
+“Well, Elise, those are yours now,” said Hallbjorn. “And Griselda, we’ll get out of your way. I’m sure you’re overwhelmed by commissions.”
+
+“I can always make time for you, Your Majesty.”
+
+Hallbjorn nodded and smiled. “Good luck.”
+
+The next stop on their tour was the farmlands on the outskirts, where Hallbjorn told her about how the fields had been enchanted with runes to have much higher mana density in the soil, making for not only faster-growing plants, but also much higher quality ones. It was to the point where they were able to sell their excess harvest for quite a sum to Greenwood and a few other nearby cities and towns, and they were making a tidy profit.
+
+After that, they went to a brand new local brewery. Unlike the other places Elise had been shown, this one was not making a hefty profit, and was not all that popular, but Hallbjorn had high hopes. The owner had been the premier brewer of mushroom liquors when they lived underground, and he was constantly experimenting and improving, and claimed that he would have a beer to rival any other by the end of the year, which Hallbjorn was very excited for. The beer tasted foul at the moment, but Hallbjorn was subsidizing it, so the owners had no need to worry about money while they worked to perfect their brew.
+
+After that, they stopped for lunch at a new restaurant that had been founded by a pair of giants who recently moved into the city, and were now teaching dwarves how to cook properly now that their ingredients weren’t limited. While not quite welcomed at first, they had quickly become an integral part of the community, and nearly everyone was glad to have them around.
+
+They continued the tour after lunch, and Hallbjorn showed Elise dozens more places of note. Smaller merchant companies, businesses set up by outsiders who had moved in, and even a school staffed by talented teachers from all over the continent. Hallbjorn explained that Dokkalfheimr’s finances were extremely healthy after 400 years of mining with nowhere to spend their gold, so he had spared no expense in hiring teachers to make sure that the next generation of dwarves had all the skills they needed to make Dokkalfheimr a prosperous, and relatively independent nation. At the present, that was not something they could say, since they relied on outsiders for things like carpentry and many aspects of farming, and anything else that the dwarves could not practice underground, but it would not remain that way for long.
+
+Elise doubted that Hallbjorn had designed the tour with constant engagement in mind, and instead just picked out all the places he wanted to show off, but Elise found that she had enjoyed the tour quite a bit, and couldn’t remember any point where she had felt bored. Hallbjorn’s infectious enthusiasm definitely helped with that, but she still hadn’t expected an all-day guided tour to be as interesting as that.
+
+They had another delicious feast back at the castle before Elise retreated to the room they had prepared her for the night. The next day, Hallbjorn had to get back to work, as he had wasted two days in the middle of what was a very busy time for the city, but he assigned her a couple attendants and guards to make sure she had everything she needed. She spent this free day once again out in the city, though she moved at a more leisurely pace, and spent a bit more time in the recreational areas that Hallbjorn had mostly glossed over.
+
+A local theater had popped up, and there she watched a play about the tale of the fall of Dokkalfheimr, which was a surprisingly well-written tragedy focusing on King Asbjorn the Unwise’s daughter, and her ill-fated romance with the captain of the Dokkalfheimr knights. Elise had no idea if the tale carried any truth to it, but the backdrop of the foolish king sending his greatest warriors on a hopeless mission to slay a dragon made for some very emotional scenes between the two leads. Elise wasn’t ashamed to admit that she may have shed a tear or two.
+
+She ate at a different restaurant, this one run by one of the lizard-like Saurin, and then used {Don’t Look At Me, Peasants!} to sneak into the academy and get a look at what the school was like. She had almost forgotten how adorable dwarven children were during her time away, but after her trip to the school, she doubted she would ever forget again. Due to their stature, even the somewhat older dwarven children maintained a rather round, almost infantile appearance that made her want to poke their cheeks. The teachers seemed to think so as well, and were all smiles as they taught and played with the children, making Elise feel momentarily jealous of them.
+
+After her trip to the academy, she wandered the streets a bit longer before taking to the skies and flying out of the city to get a look at the forest. The first place she stopped was the warg’s den to see if it had somehow returned, but there was no sign of it. The snow was gone, and the little cave where the warg had once lived was now occupied by a pack of smaller direwolves.
+
+The cabin was just as she and the Grays had left it, still broken and home to a number of small critters who had moved into the nooks and crannies left by the absence of the humanoids.
+
+She flew around for a bit longer, before settling into a spot on the tallest hill in the region, where she relaxed, read a book, and watched the sunset before returning to the dwarven castle. While her sleep that night was restful, when she awoke in the morning, she found it difficult to drag herself out of bed. She had already told Hallbjorn of her plans to visit the drow, but after having spent enough time aboveground to know that there was nothing wrong with the dwarves, she knew that if there was anything serious going on, it was underground, and she didn’t want her peaceful vacation to end so soon.
+
+Still, after a quarter hour of turning over and trying to fall back asleep, she rolled out of bed with a sigh and prepared herself. She ate breakfast with the dwarves, double checked her equipment, and even ended up donning the earrings she had just gotten before saying her goodbyes and heading toward the spot where Emilia had died so she could find the hidden entrance to the drow cave.

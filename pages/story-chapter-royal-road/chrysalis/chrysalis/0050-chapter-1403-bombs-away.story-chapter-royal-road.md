@@ -1,0 +1,99 @@
+---
+id: b010fd31-5187-5032-9f91-002a76bfb869
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1403 - Bombs Away"
+slug: 0050-chapter-1403-bombs-away
+partOf: chrysalis
+position: 50
+ownLength: 1363
+unit: words
+ownProgress: 1363
+publishedAt: 2024-09-05
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1788909/chapter-1403-bombs-away"
+royalRoadId: "1788909"
+markedReadAt: "2026-06-29T19:45:13.967Z"
+---
+
+The Krath’lath couldn’t wait to see the ant melt into goop once the tide of red mucus arrived. Seeded with the incredibly potent red-rust moss, it was capable of dissolving even the Krath. The ant wouldn’t stand a chance.
+
+“Clack all you want!” she screamed down at it. “You’ll be soup soon enough!”
+
+And she would feed the muck to the Blubbeasts, letting them grow fat on the Biomass!
+
+The big ant couldn’t hear or understand her, but it paid no mind to the Krath who watched from beyond its reach, focusing all its attention toward the oncoming wave. The smaller ants continued to ignore the approaching disaster, rapidly establishing their platform as the blue mana continued to expand further and further.
+
+Already, some of the needle-eels had perished trying to fling themselves into the evil mana. The moment their elongated bodies touched it, they began to boil away, dissolving to nothing before they had gotten further than a few metres. It was disturbing to see, and it only strengthened the hate boiling within the Krath’lath. It was the enemy that was supposed to melt in this place, not the other way around!
+
+Her eyes turned back to the big ant as it opened its mandibles wide. She leaned forward, wondering what it hoped to do. Perhaps she would get a proper glimpse of the magic it had been using before?
+
+Gugugugug. If it wasn’t capable of eating away the regular mucus, how could it hope to match the weight of this oncoming wave?
+
+She saw the ant brace itself and mocked it in her heart. Then—
+
+HOOOOOOOOOOOOWWWWWWWWWWWWLLLLLLL!!!!
+
+Like a raging demon, the spell erupted from before the massive ant and screamed down the corridor. The Krath’lath was forced to use her foot to grip onto the stone platform tighter as the air around her was whipped away, pulled towards the orb of darkness even as it sped away.
+
+“What is THAT?!” she tried to roar, but the howling wind snatched the words straight out of her mouth.
+
+Down the tunnel, the darkness raced until it met the oncoming wave and vanished inside. Immediately, the horrific sound was cut off, and the Krath’lath felt a surge of contempt. That feeling rapidly vanished as chaos exploded down the length of the tunnel.
+
+The oncoming wave was immediately obliterated as a sphere of pure nothing expanded to fill the entire width of the tunnel. A ripple raced through the air, then blasted past the watching Krath, followed a second later by a raging wind that put the earlier gale to shame.
+
+As one, the Krath flattened themselves down, compressing their slug flesh to its most dense as they pressed their bodies against the stone. The drag of the screeching wind was one thing, but there was another, even more frightening pull that threatened to rip them from their perches and send them hurtling down the tunnel and into the void.
+
+Even the giant ant had vanished down into the thick mucus again, no doubt to anchor itself against the forces it had unleashed.
+
+On and on it went, the Krath’lath going so far as to fully retract her stalks lest they be ripped away by that invisible force. Which meant she was totally blind as the spell rampaged. Even if she couldn’t see, she could feel the impact of that dread magic. The stone groaned and shuddered beneath her, jumping and rocking as sections were torn away and consumed.
+
+When it finally ended, the gathered slugs slowly expanded themselves to see what had happened.
+
+What they saw… was ants.
+
+Hordes of them. Had they shielded themselves from the spell somehow? With rising anger, the Krath’lath watched as more and more of the creatures descended into the fifth stratum, pouring out of the vertical shaft and dropping down. The blue mana had spread much further than before, burning through the remaining mucus and reaching the tunnel floor. Ants swarmed over the exposed ground, already building, shaping, constructing, as other, larger monsters defended the expanding border of the blue mana in rows.
+
+Then the giant ant was there, looking up at them, those giant mandibles clacking ominously. It shouldn’t have known they were there, shouldn’t have been able to sense them at all….
+
+Had it heard her scream?
+
+“Move!” Zluth bellowed, darting away from the ledge, the old slug Goszi not far behind. The others were a beat slower, and the Krath’lath a beat slower still.
+
+She nearly paid for that hesitation with her life.
+
+The ledge shattered as giant mandibles formed of light sheared straight through the rock, barely missing the end of her body as she sprang away, launching her slug-flesh through the air and into the narrow exit. A loud, irritated clack resounded from behind her, and she extended her stalks to see the massive ant looking up at her. From behind the enormous creature, she could see the soft, wobbly monsters that Zluth had described being lowered down from above, ready to take their place and spread more of their poison through the fifth.
+
+With a hiss and a spattering of potent acid across the stone, she retreated down the narrow tunnel, compressing her body to squeeze through.
+
+On the other side, she found the rest of the Krath gathered, spitting with rage and burbling to each other in furious tones.
+
+“It won’t be long until their filthy mana fills up the tunnel and spills into this space,” Zluth declared, extending himself upward to be more visible to the others. “We can’t remain here for long.”
+
+“WHAT?!” the Krath’lath roared. “You want to leave? With invaders pushing into the tribe’s territory?”
+
+“Our first plan was a failure,” he said, then paused just for a moment so everyone could recall just whose plan that had been, “so we need a new one. There are too many of the filthy monsters for us to attack them haphazardly.”
+
+“If we retreat to the tribe now, who could say how much progress they will make before we return?” the Krath’lath demanded. “We need to take action now.”
+
+She could see the other slugs were swayed by both points of view, and that only made her angrier, but also more wary. Zluth… her guts still ached to consume the acid inside him, more potent than many in the tribe had realised. Was he making a power play? She bared her fangs almost against her will. Should she eat him now?
+
+“It is the Krath’lath who leads the tribe,” Goszi cut in, hawking a gob of mucus onto the floor which bubbled as it ate into the stone. “She will decide our next course of action.”
+
+The words of the old slug brought the attention back to her, but she was too surprised to respond immediately. Goszi had spoken for her? That was unusual for him…. What was his scheme?
+
+Her eyes narrowed; she had to think quickly.
+
+“We will marshal the forces of the tribe for an assault! We will hit them from multiple sides, but we must do everything we can to avoid that large ant.”
+
+Her flesh still crawled as she thought of the strength of its magic.
+
+“We unleash our crafted monsters, our Blubbeasts, and support them from the rear. We give these invaders a taste of true Krath might!”
+
+The others bared their fangs and hissed as they thought of crushing the insects. The Krath’lath turned her gaze toward Zluth.
+
+“We will need someone to keep a close eye on the enemy as we prepare. Zluth, stay as close to them as possible and watch. Do not return to the tribe; I will send someone to gather your report.”
+
+Zluth spat and nodded his stalks, showing no sign of fear, but she knew he must be trembling down to his foot. Her orders were practically a death sentence. He had to stay close to the ants until she sent someone to speak to him, but that slug would never come.
+
+She thought of the giant ant crushing a member of her tribe against the rock.
+
+A shame she wouldn’t get to feast on that potent acid, but a dead rival was a dead rival.

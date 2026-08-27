@@ -1,0 +1,229 @@
+---
+id: 4d78e841-ab40-5ef9-ab89-a9309120a06e
+page-type-slug: story-chapter-royal-road
+title: "28: Next Evolution"
+slug: 0028-28-next-evolution
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 28
+ownLength: 2220
+unit: words
+publishedAt: 2025-09-10
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2590009/28-next-evolution"
+royalRoadId: "2590009"
+---
+
+Chloe drifted in that same familiar black void again. Well… mostly familiar.
+
+The floating part was new. She twisted in midair just to check, then went for a full backflip because why not, giggling to herself the whole spin. The fun ended when a calm voice cut right through the emptiness.
+
+"Welcome back, Chloe, And congratulations on reaching your second evolution."
+
+Before Chloe could say anything, the floating sensation vanished. She gasped and dropped like a rock, smacking into the unseen floor. Groaning, she pushed herself upright, rubbing at her hip before looking up.
+
+In front of her was Z, looking exactly how she remembered. big white wings, neat boring outfit, shiny little nose circles, and a tired look on her face. Although, she seems to look a bit less tired now.
+
+Chloe smiled and started to wave. “Hey, Z! So, uh, if you’re not busy, can I—”
+
+“No,” Z said flatly, cutting her off. “You cannot eat my brains.”
+
+Chloe pouted, crossing her arms. “Okay… I guess.”
+
+The corner of Z’s mouth twitched into the tiniest smile. “Cheer up. You have come quite a long way since your first evolution.”
+
+“Really?”
+
+"Indeed."
+
+Z gave a small nod and raised her hand. Light bloomed between her fingers, unfolding into a long sheet of glowing text that shimmered faintly in the dark void.
+
+Names scrolled in neat, perfect rows. Her eyes flicked down the list as her finger traced the columns, stopping on a single line. “You are currently ranked seventy-seven out of the eighty-nine remaining Champions. Your rank will likely improve further after your next evolution.”
+
+“Wait… so I’m out of the bottom ten?”
+
+“That is correct.”
+
+“So does that mean I’m safe from, y’know, whatever bad thing is gonna happen?”
+
+"Yes. Congratulations on the achievement. However, continued safety will require that you maintain or improve your standing."
+
+"Makes sense, but hold on, why are there only eighty-nine Champions? I thought there were a hundred before.”
+
+“Some Champions of Chaos have already died, that's why."
+
+"Ohhh… well, guess that means I’m pretty good if I’ve survived this long.”
+
+“Yes, you have. But because this is your second evolution, there are a few things we must go through before we proceed.”
+
+Z reached into the void and pulled out… something. From Chloe’s perspective, it looked like a flat, glowing slab, about the size of a small book. She had no idea what it was, but Z held it like it was completely normal.
+
+The winged woman tapped it a few times with her fingers. Although Chloe wasn't sure why she was doing that.
+
+Suddenly, pain exploded behind Chloe’s eyes. She clutched her head and stumbled. “Ow! Ow, ow, ow! Why does my head feel like it’s trying to eat itself?”
+
+“It will pass shortly,” Z replied.
+
+It didn’t feel like it would. Chloe dropped to one knee, squeezing her temples until the throbbing started to fade. The pain ebbed away in slow waves, leaving her feeling all fuzzy and weird.
+
+[New Skill Acquired: Heresy I]
+
+The moment she read it, a single word burned through her mind like it had always been there. Ishgria.
+
+“Okay… what was that all about?” Chloe asked.
+
+Z tilted her head slightly. “Did you receive the skill notification?”
+
+“Yeah…?”
+
+“Wonderful. We can move on, then.”
+
+“Okay, but what’s a Heresy Skill supposed to be anyway? And why am I suddenly thinking about this… Ishgria thing?”
+
+“The Heresy Skill is a good thing. I cannot explain its nature to you. That is simply the rule.”
+
+“Uh-huh… and Ishgria?”
+
+“It is the name of the kingdom you are currently in. Nothing more.”
+
+Chloe kept staring, one hand still rubbing her temple. Yeah, sure. Totally normal. Just cram weird brain words in me and call it a day.
+
+Z’s gaze stayed fixed on Chloe. “Brace yourself. You will be receiving one more skill before we proceed.”
+
+“Huh, but why?”
+
+“It is a small perk for reaching this stage,”
+
+“Oh, cool. So I get to pick what I want then?”
+
+“No, you'll get what you get. It's protocol."
+
+“Boo, that sounds lame, why can't I pick?"
+
+Z didn't reply. Instead, she lifted the glowing slab again and tapped a few more times. Chloe’s brow furrowed as a faint, tingly sensation bloomed in the back of her head, like someone had just poured water directly into her brain. Then the words appeared.
+
+[New Skill Acquired: Charm Resistance I]
+
+Chloe squinted. “What’s a charm? Is it magic sparkle dust?”
+
+Z folded her arms, her wings shifting slightly. “It is a defensive measure. Charm magic can be used to manipulate your thoughts, alter your emotions, or compel actions you would not otherwise take. With resistance to it, you are less vulnerable to such effects.”
+
+“Yeah, I still don’t get it. Can you explain it again?” Chloe asked.
+
+Z closed her eyes for a moment, exhaling through her nose. “You will understand its usefulness eventually. For now, it is time to choose your next evolution.”
+
+"Oh, okay."
+
+Chloe’s eyes lit up as glowing panels of text drifted into view, each one lined up neatly. She leaned forward, ready to see what the system has got for her this time.
+
+[Dread Howler Zombie]
+
+Known for their piercing, unnatural wails, Dread Howler Zombies use sonic vibrations to disorient enemies and disrupt spellcasting. While physically durable, their strength lies in overwhelming bursts of sound.
+
+[Fleshspike Zombie]
+
+This variant grows hardened bone spikes beneath its skin, which can be extended for use in close range combat. Fleshspike Zombies are dangerous in tight quarters, using their spikes to pierce armor and block incoming strikes.
+
+[Mirewalker Zombie]
+
+Adapted for swamp and marsh environments, Swamp Walker Zombies can move effortlessly through water and mud. They possess enhanced grip and balance, allowing them to fight well in unstable terrain. While not as resilient as some other variants, their agility in rough environments makes them tricky opponents.
+
+[Shadowstitched Revenant]
+
+A rare and feared evolution of the Shadowstitched Zombie, the Shadowstitched Revenant is a creature woven entirely from threads of living shadow. These dark tendrils can reattach severed limbs in an instant, lash out to strike from impossible angles, or coil tight around prey.
+
+Shadowstitched Revenants are whispered of as hunters that step from the void itself. One such revenant was said to draw an entire arsenal of weapons from the folds of its cloak to defeat an army by itself. Whether truth or myth, one thing is certain. Few have seen a Shadowstitched Revenant and lived to tell the story.
+
+Chloe eyed the first one, the Dread Howler Zombie, and snorted. So basically a loud zombie. I’m already loud enough as it is, honestly.
+
+The Fleshspike Zombie got a wince. Looks dangerous… for me. Pretty sure I’d stab myself before I even got to the enemy.
+
+Then came the Mirewalker Zombie. She wrinkled her nose. Ew. Soggy zombie. Hard pass.
+
+But when Chloe saw the Shadowstitched Revenant, she leaned in. The more she read, the wider her grin got.
+
+This one wasn’t just better than the first three, it was on a whole other level. Tendrils, shadow weapons, and legend about pulling an entire arsenal from its cloak to wipe out an army. It had pretty much everything Chloe could want, and honestly, she was more surprised that it was this good compared to the others.
+
+“Wait a minute, why does this one sound way better than all the rest? Like… by a lot.”
+
+“It is not uncommon for there to be imbalanced options. Be grateful the standout option is exceptionally good rather than exceptionally bad.”
+
+Chloe squinted at the name. “Hold on, why isn’t this one called a zombie? I like being a zombie.”
+
+Z let out a long sigh. “Revenants are still a classification of undead, Chloe. For all intents and purposes, you will remain a zombie, with your… dietary habits included.”
+
+“That’s not the same thing and you know it. What if I forget I’m a zombie? I’ll check my status one day and be like, ‘Oh, I’m a revenant now.’ Which is totally not a zombie."
+
+“I… fine. Then what if I do this?”
+
+[Administrator Edit Completed]
+
+[Shadowstitched Revenant has become >> Shadowstitched Revenant Zombie]
+
+Chloe’s eyes lit up. “Oh, that’s way better, actually. Guess my choice is obvious then."
+
+Z rolled her eyes, as if she couldn't believe that this was all it took. “Unbelievable. I can't… you know what, never mind. I’ll process your evolution shortly, please stand still.”
+
+Chloe opened her mouth to try and say "okay", but the words never made it out. The void around her flared without warning, a blinding white light bursting upward in a sudden, searing wave. It wrapped around her, swallowing her whole before she could even blink.
+
+***
+
+Z stood quietly in the center of the elevator. Her mind lingered on her recent encounter with Chloe. She had followed her orders, that much was certain, yet she could not ignore the question of whether she had intervened more than was necessary. Still, the circumstances had offered little room for alternatives.
+
+The elevator slowed to a stop, the doors parting with a muted chime. Z stepped forward and went to her assigned cubicle.
+
+Yet her path to the cubicle came to an abrupt halt as another angel stepped directly into her way. He was tall, with long black hair that framed his admittedly handsome features, handsome enough to almost distract from the fact that he was an insufferable nuisance. A smug grin tugged at his lips, but it never reached his eyes. Those eyes held a calculating gleam, the kind that belonged to someone who believed he was always two steps ahead.
+
+Z stopped walking. "What are you doing, L?”
+
+L spread his arms wide in exaggerated innocence, his smile tilting further. “What, I can’t check on the status of the company’s top performer? Is that really such a bad thing?”
+
+Z stepped forward and pushed him aside with a firm hand. “You’re getting in the way of my work.”
+
+He took a step back, still smiling. “You don’t even like your job, Z. So why pretend you care?”
+
+“Leave. Before I alert management.”
+
+L raised his hands in a show of surrender. “Alright, alright, calm down. I’m just here to let you know something.”
+
+"What?"
+
+"I know about that little stunt you pulled for one of the champions under your wing. Makes me wonder… what will management think if they find out?”
+
+Z didn’t so much as blink at his words. For a moment, silence stretched between them.
+
+Then, slowly, she smiled. That alone was enough to make L’s smug expression twitch. “I’ve been working here since before you even earned your wings. I know exactly what I’m doing.”
+
+L narrowed his eyes,. “Sure you do. But maybe I could… make sure this stays between us. For a price.”
+
+“Blackmail? How quaint. Section Twelve, Paragraph Four of the Code states that any administrator found engaging in coercive influence toward another is to be suspended indefinitely pending review.”
+
+“I’m just saying, if management hears you’ve been bending the rules—”
+
+“Section Three explicitly grants senior administrators full discretionary authority over all matters concerning the maintenance of their assigned champions’ progress, provided such actions are approved by at least one board member. You are well aware of my tenure here. That authority falls to me by default.”
+
+“You… you think you’ve got an answer for everything, huh?”
+
+“That’s because I do. And unlike you, I’m not new enough to mistake ambition for competence.”
+
+His jaw tightened, the easy curve of his grin straining at the edges. Even without a change in her own expression, Z could see that her composure was starting to chip away at his.
+
+L straightened, then leaned back with casual ease, as though the entire exchange had been meaningless to him. “Fine, let’s talk about something more interesting instead."
+
+The grin returned to L’s face, wider now. “One of my champions will be crushing your little zombie girl. Their paths will cross sooner than you think.”
+
+“You mean the serpent woman?”
+
+“Her species is properly classified as Ophian. But if you prefer informal labels, by all means.”
+
+Z’s eyes narrowed behind her glasses. She was already familiar with the champion in question, one of L’s favorites, ranked fiftieth among the remaining Champions of Chaos. Comfortably in the middle of the standings, but well above Chloe’s current rank. A fact he no doubt took pride in, and one he was all too eager to emphasize.
+
+“Oh, you believe I’m bluffing? My champion has already reached her third evolution. When your pet zombie strays into her domain, she will not stand a chance.”
+
+Of course, Z remained unmoved by such a claim. L could dress his words however he pleased, but the careful vagueness in his phrasing was impossible to miss. Still, it was likely true that his champion held at least some influence in the north of Ishgria.
+
+Z saw little reason for Chloe to venture there, but strange turns were not unheard of, and the possibility could not be dismissed entirely.
+
+Regardless, her composure did not waver. “And why are you so confident in that outcome?”
+
+“Because I’ve seen my champion's work. Your zombie girl won’t even have time to realize she’s lost.”
+
+“Oh? We’ll see about that.”

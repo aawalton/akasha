@@ -1,0 +1,209 @@
+---
+id: c87a90b7-09d8-54ed-9c0a-12f2f1efc271
+page-type-slug: story-chapter-royal-road
+title: "82: Tag Team"
+slug: 0082-82-tag-team
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 82
+ownLength: 2311
+unit: words
+publishedAt: 2025-12-07
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2827209/82-tag-team"
+royalRoadId: "2827209"
+---
+
+The dungeon really wasn’t all that bad. A few skeletons tried to get in the way again, but they weren’t much of a problem. Sabine zapped half of them before they even got close, and Scar cleaned up the rest with some good ol’ punches.
+
+Seriously, what were a bunch of wobbly bones gonna do? Spook us into tripping over ourselves?
+
+So, the party kept moving. Sabine and Scar took the lead. Meanwhile, Chloe hung back with Wolfie… or uh, Sierra. She reminded herself of that for the fifth time.
+
+She drifted a little closer to Sierra as they walked. Perfect time for a chat.
+
+Chloe turned with a grin. “Sooo, where’d you even go after the whole Ynett thing? I did try to look for you, y’know."
+
+Sierra looked caught off guard for a second. She blinked, then glanced away. “I… a lot happened."
+
+“You gonna tell me?” Chloe asked, nudging Sierra with her elbow.
+
+Sierra didn’t look at her. “Not now. Maybe… another time.”
+
+“Aww, what? But come onnn, I wanna know."
+
+“Chloe, I’m sorry. I… I don’t want to talk about it.”
+
+“Fine, fine. Kinda lame of you though.”
+
+Chloe meant it playfully, mostly, but still felt a tiny stab of disappointment. She might not have been the best at emotional stuff, but she was curious. And Sierra had been through something. She could feel it in the way she held herself. Whatever. She’ll talk when she’s ready… or when I bug her enough later.
+
+That was when she finally noticed something that had totally slipped past her earlier, Sierra’s outfit was way different now. Back in the village, she’d been wearing basically scraps.
+
+But now? Now she had on a sleek, black cloak that actually looked... kinda cool. Not Cloaky-level cool, of course. Obviously Cloaky’s the best cloak. But still.
+
+Curious, Chloe tilted her head and nudged a little closer. “Hey, where’d you get the new clothes?”
+
+Sierra blinked, then looked down at her cloak like she’d forgotten she was wearing it. She fumbled for an answer, ears twitching. “It’s… um. Also a long story.”
+
+Chloe puffed out her cheeks, annoyed. That made two “long stories” now and still zero actual answers. “Seriously? Are you just collecting long stories at this point?”
+
+Sierra didn’t answer right away. She just glanced at Chloe with this soft, apologetic look and mumbled, “I’ll explain everything once we’re out of the dungeon. Promise.”
+
+Chloe narrowed her eyes, squinting in suspicion. She wasn’t totally buying it, but she did like the word promise, so that helped a little. “Fiiine. But I will remember this. And so will Cloaky. We’re both keeping score.”
+
+They kept walking after that. Chloe had mostly stopped sulking about the whole mysterious long story thing. Mostly. Her brain had gone back to its usual business: poking at random thoughts, imagining how cool it’d be if the dungeon walls lit up in different colors, and other interesting stuff.
+
+Then something small and tappy started brushing her shoulder. Sierra’s voice piped up, hesitant. “Um… what’s your hand doing?”
+
+Chloe looked over, beaming. Leftie was perched proudly on her shoulder, tapping one of his fingers against the edge of Sierra’s cloak. She gave him a gentle pat with her other hand. “Oh, that? That’s Leftie, my hand. Wanna hold him?”
+
+Sierra stared a little too long. Her eyes widened like she wasn’t sure if Chloe was joking or very, very serious. “No. I—I’m good. Thank you.”
+
+“You sure? He’s warm and wiggly.”
+
+“Really. I’m fine.”
+
+Chloe let out a theatrical groan and patted Leftie again. “Your loss. He’s great company."
+
+Leftie gave a smug little wave with all five fingers, then flopped back onto her shoulder. Up ahead, Scar’s voice echoed. “Oi, eyes open. Could be more traps ‘round here. Last thing we need’s another barrier lockin’ us in.”
+
+Sabine let out a dry snort without even looking back. “You mean like last time? When you set off the trap?”
+
+“That was one time. And it ain’t happenin’ again.”
+
+Right on cue, his boot landed on something with a soft click. Everyone froze.
+
+A strange whirring noise began to build around them. Then came a high-pitched hum as the walls lit up—sudden and blinding—like someone had set off a dungeon-sized lantern spell.
+
+Sabine let out the most exhausted sound Chloe had ever heard. Scar just blinked and muttered, “Whoops.”
+
+Chloe squinted as everything around them lit up super bright. “Okay but like… why is everything so shiny?”
+
+Sierra didn’t say anything. She just moved a little closer behind Chloe, her ears flattening low as the blinding light got even stronger. Then came the flash, a full-body zap of white that swallowed everything.
+
+When the light finally faded, Chloe found herself somewhere completely different. She blinked hard, trying to clear her vision. The walls here looked older, cracked, mossy, like the place had been left to rot.
+
+And more importantly, something was missing. Well. Two somethings. Sabine and Scar were nowhere in sight.
+
+“Uh-oh,” Chloe muttered, turning in a slow circle.
+
+Sierra was still beside her, looking just as dazed. “Where… are we?”
+
+Chloe rubbed at her eyes with the back of her hand, not that it helped much. She glanced down the unfamiliar hallway, then looked back at Sierra. “Well, looks like it’s just you and me now.”
+
+Sierra looked a little spooked at first. Her ears twitched sharply, and her eyes went wide as she took a cautious step back. But after a few long seconds, she pulled herself together. Her shoulders straightened, her jaw tightened, and the shaking stopped.
+
+Chloe watched the whole thing play out and gave her the biggest, brightest smile she could manage. “You good?”
+
+Sierra blinked once. “I… think I’m okay.”
+
+“Kay. Let’s keep movin’ then.”
+
+The hallway ahead looked nothing like the ones before. The stone here was damp and slick, and there were mushrooms. So many mushrooms.
+
+Big, fat ones squished against the walls. Some glowed faintly in soft blues and greens, while others pulsed like they were breathing, which was sort of funny, in Chloe’s opinion.
+
+The deeper they went, the weirder it got. Thick fungal veins crisscrossed the walls and floor. And the air? Wet, sticky, and humid in a way that made Chloe really glad she didn’t need to breathe.
+
+They stepped into a larger chamber and stopped dead. There, squatting in the middle of the room, was something. A giant toad-thing, swollen and covered in bulbous mushrooms.
+
+It looked like someone had taken a regular frog, pumped it full of swamp juice, and rolled it through some really suspicious magic. Every so often, it let out a slow huff, releasing a yellowish cloud of something gross into the air.
+
+Sierra winced and covered her mouth. “It smells awful.”
+
+Chloe, thankfully, didn’t smell anything. Perks of being very undead. “I got this.”
+
+Raising one hand, she summoned a small flame to her palm. With a flick, she sent the fireball flying straight at the toad’s ugly face.
+
+The creature startled and flailed backward. It was very clear that fire was not on its list of favorite things.
+
+Chloe snapped her fingers, and more fireballs spun into existence. She hurled them one after another, driving the creature back. It tried to turn, tried to flop away, but Chloe wasn’t having it.
+
+She slammed her hand to the ground and let her shadow twist outward. Spears of black mist surged up from beneath the toad, impaling it in a sharp crunch. It let out one last gurgling croak before slumping.
+
+[You have killed: Myconid Dread Toad (Level 30)]
+
+[Experience Awarded]
+
+Chloe blew on her fingers, then turned, ready to flash a smug little smirk at Sierra and maybe toss in a, “Did you see that?”
+
+But she stopped short. Sierra wasn’t just standing there, she was fighting. A whole group of those weird, lumpy mushroom people had swarmed her. Their faces were all squishy, and their limbs bent in ways that probably weren’t appropriate. And Sierra was shredding them.
+
+One got too close, and she grabbed it by the arm, yanked it toward her, and tore the whole thing clean off. Another came at her from behind, but the wolf girl spun on her heel, claws flashing. The thing’s head barely had time to tilt before it was no longer attached.
+
+By the time Chloe jogged over, the last of the fungus freaks was already hitting the ground in about four separate pieces. Chloe gave a low whistle. “Whoa. You were kinda cool just now.”
+
+Sierra was still panting, her claws dripping with squishy mushroom gunk. She looked a little dazed, but otherwise fine. After a while, she glanced over at Chloe with a sheepish look, ears low. “I, um… sometimes lose control when I fight. It just kind of… happens.”
+
+“Yeah? That’s so cool.” Chloe said.
+
+“No, I mean, it’s really not a good thing.”
+
+“But you fought super good! So how is that not good?”
+
+Sierra opened her mouth, like she was about to explain why it actually was bad, but nothing came out. She just stood there, quietly processing whatever Chloe had just said.
+
+Chloe gave a smug little nod, arms crossed. Yup. I'm totally right.
+
+Before Sierra could recover enough to argue, the ground beneath them gave a low, suspicious rumble. Chloe glanced down, frowning hard. “That’s never a good sign.”
+
+Sure enough, from the shadows ahead, several more of those gross mushroom toads flopped into view, except this time, they weren’t alone. Each one had a ratfolk rider strapped to its back. The rats wore patchy bits of armor and clutched crude little spears, their beady eyes gleaming as they let out squeaky war cries.
+
+One of the toads let out a disgusting sound and spat a thick cloud of yellow mist into the air. Chloe gagged instinctively, not that she could breathe, but still. Ew ew ew.
+
+Immediately, Chloe threw a fireball straight at one of the toad cavalry. The blast hit dead-on, and the thing popped in a cloud of spores and flame. Sierra got the message, and launched forward like a missile, tearing one of the rats off its mount and sending the rest into panic.
+
+The fight didn’t even last a full minute. The toads were all quickly set on fire. And the rats couldn’t dodge Sierra's attacks at all.
+
+Chloe stabbed one of the frogs right through its face with a shadow spear. The rider squeaked in alarm, but Chloe spun around and booted him off with a satisfied grin.
+
+[You have killed: Myconid Dread Toad (Level 30)]
+
+[You have killed: Myconid Dread Toad (Level 33)]
+
+[...]
+
+[You have killed: Ratfolk Toad Rider (Level 29)]
+
+[You have killed: Ratfolk Toad Rider (Level 29)]
+
+[Experience Awarded]
+
+When the last one dropped, the room fell quiet again. Chloe looked at the scattered bodies and tilted her head. “Huh. Wonder if their brains are any good?”
+
+She crouched by one of the fallen toads, peering at its slightly squishy head with suspicion. Looks slimy. It probably tastes soggy.
+
+Leftie, still resting on her shoulder, gave a very unenthusiastic twitch. “Yeah, you’re right buddy. That’s a no.”
+
+She stood and turned to check on Wolfie. “You alright?”
+
+Sierra calmly pulled her claw out of a ratfolk’s stomach and wiped it off on the guy’s cloak. “I’m fine.”
+
+Chloe gave her a thumbs-up. “Cool."
+
+She looked around at the mushroomy battlefield and frowned. “Y’know, I thought this place was supposed to be like… a dungeon for Wolfies. So, what’s up with the rats?”
+
+Sierra shrugged, still catching her breath. “As far as I know, the Black Maw works with the Ratfolk. They sort of run the dungeon together.”
+
+"Really? So, uh... how many ratfolk do you think are down here, anyway?”
+
+“No idea. Could be dozens. Could be hundreds. Honestly, I’d rather not stick around to find out. Also… this smell is really starting to get to me.”
+
+“Yeah, okay, fair point,” Chloe said with a nod. “Let’s get movin’. We do still gotta find Scar and Sabine, or at least find a way outta here before this place decides to turn into our forever home."
+
+With a little twirl, Chloe strutted forward into the next tunnel, which was also lined with glowing mushrooms and patches of squishy floor that made gross little sounds underfoot. Sierra followed behind her, not too far back.
+
+Honestly? It was kinda nice. Just the two of them. Dungeon crawling. Bonding. Stepping over suspicious fungus together. They kept going for a while, until Chloe suddenly stopped and held up a hand.
+
+“Wait,” she whispered, lowering her voice. “I hear something. Maybe we should hide.”
+
+Before she could even start looking for a spot, she noticed Sierra had already crouched behind a big mushroom covered boulder nearby. Aw what? She hid without me!
+
+Despite the frustration, Chloe quickly ducked behind a bigger mushroom nearby and gently shoved Leftie into her hood to keep him from wiggling around too much. The last thing she needed was her own hand giving away their position.
+
+From around the corner, the sound of footsteps echoed. She heard faint squeaky voices mixed with the clink of metal. Chloe leaned forward slightly, peeking past her mushroom.
+
+A small group of ratfolk came into view. Most of them looked the same as the others, armed with stubby little blades and wearing mismatched scraps of armor.
+
+But one figure in the middle stood out. He was the biggest ratfolk Chloe had ever seen. He carried a long staff that glowed faintly at the tip, and he even had flowy robes like he was some kind of wizard.
+
+Chloe narrowed her eyes. She could feel the magic coming off him. Definitely not just some random rat with a stick. Alright. If any rat here’s got brains worth eating, it’s probably that one.

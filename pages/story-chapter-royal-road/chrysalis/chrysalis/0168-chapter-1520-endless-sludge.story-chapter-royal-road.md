@@ -1,0 +1,111 @@
+---
+id: 85cb3fd4-dbd0-52a7-93e6-13860155bdb0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1520 - Endless Sludge"
+slug: 0168-chapter-1520-endless-sludge
+partOf: chrysalis
+position: 168
+ownLength: 1138
+unit: words
+ownProgress: 1138
+publishedAt: 2025-03-03
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2099783/chapter-1520-endless-sludge"
+royalRoadId: "2099783"
+markedReadAt: "2026-06-29T19:49:13.147Z"
+---
+
+I knew it was going to get bad, but sheesh, things are getting ridiculous out here.
+
+The platform has been under constant assault since the wave broke, which is fine, that much was expected. What I didn’t expect was just how disgusting the fifth was going to get. The tunnel leading toward the platform I’m defending has turned into a kilometre-wide river of sludge and mucus. The walls are literally dripping with snot and slime that seeps together into a slow-moving torrent of goop. Since the platform and the rest of the fortress is disconnected from the tunnel by an empty gap, all of it just flows down and falls into the absurdly deep gap that runs the entire height of the fortress.
+
+There must be an absolute ocean of the stuff forming down there. I hope the Colony constructed some sort of emergency overflow valve down there or something. I’m worried that if things keep going, it’ll pile up until this platform is ‘underwater’!
+
+Now, I’m not affected by the mucus directly. It isn’t flying up and slapping me in the face, at least not yet. Does it contribute to the absurdly toxic atmosphere in here? Sure, but I don’t have to fight it!
+
+However, this disgusting, noxious river of sludge seems to drive the monsters spawning around here into an absolute frenzy. It’s teeming with creepy slugs, crabs, weird sucker-fish things and plenty other things besides, all of them leaping out of the goop at the platform spewing out filth and trying to bite me.
+
+It’s just… so icky.
+
+Naturally, I don’t get much chance to rest, but thankfully, I don’t need one. I never venture out into the toxic mana anymore, remaining on the platform with the rest of the Colony and militia, using my abilities as best I can to help stem the tide.
+
+Chomp!
+
+“Attack on the left. Watch out!”
+
+Chomp!
+
+“Swarm incoming! Be careful of the parasites!”
+
+Gravity Bomb!
+
+HOOOOWWWWWWWWWLLLLL!!!
+
+I hate the parasites.
+
+“Eldest!”
+
+Cho–whoa! That’s not for chomping!
+
+“Bertran? What the heck are you sneaking up on me for!? There’s a battle going on!”
+
+I concentrate, gather up the mana and fire off another gravity bomb. There isn’t much energy in it, but I empower it to provide the kick it needs to be effective. Considering just how dense the sludge and slime is out there, even gravity bombs aren’t super effective. They consume literal tons of slime over a few seconds and peter out. To create one large enough to do serious damage, I’d be risking the integrity of the platform itself.
+
+At least I can still lob them at dense packs of monsters before they get too close. With a few seconds of breathing room, I turn my attention back to the templar.
+
+“Is everything alright? Is there a problem? Have we run out of salt?”
+
+Bertran’s salt bombs have been way more effective than I thought they would be. The man has a remarkable talent for making the most out of not much. He even designed the salt lobbers we’ve started using. The carvers were miffed about the ‘inelegance’ of the design, but couldn’t argue with its effectiveness.
+
+“No, nothing of the sort,” the older man replied, ducking his head in an awkward sort of half-bow half-nod thing that I’ve asked him not to do several times already. “The general wanted to speak to you and… uh… the other templar were hoping you’d have a… break.”
+
+It isn’t hard for me to sense the other templar, and when I focus in that direction, I see the other five sitting down, looking intently in this direction. The kids too… cowards! They sent Bertran to try and get me to rest because they didn’t have the guts. Bah!
+
+Wait a second.
+
+“Is the general also going to ask me to take a break?” I demand.
+
+“Maybe?” Bertran hedges, but I can tell he’s just trying to avoid saying yes.
+
+He, along with the other new Templar have learned how to use pheromonal language as part of their ‘Class’, which seems busted to me. I have to evolve and grow new organs to do stuff like that? You just get it when you level up? I get basically nothing when I level up!
+
+Then again, they can’t evolve, which kind of sucks.
+
+The constant fighting has spurred on their growth, and most of them are close to advancing their base ‘Templar’ Class into something fancier. What that will turn out to be, none of us have any idea.
+
+“Look, I’ve explained this a dozen times already, I don’t need to rest! I’m specifically built not to need it, and I’m needed here!”
+
+Just because I’ve been fighting for five days straight… that’s nothing! This is going to go on for weeks!
+
+“I know that, Anthony, I know it!” Bertran says holding up his hands in a soothing gesture, “But the kids are getting quite insistent on it. I think they’re worried about you.”
+
+Wait… the kids?
+
+I look over at them again, and quickly double take. They don’t look so much ‘worried’ as they do… ‘super annoyed’. Why are they glaring at me like that?
+
+As I watch, a shadow seems to rise up behind them. The light blends with the darkness, revealing just enough of the ant concealed within that they can sign a message to me.
+
+Don’t. Make. Us. Do it.
+
+My rage is instantly ignited.
+
+Come. Get. Some.
+
+I gesture back furiously.
+
+You think you can put me to sleep! Tuck me in and read me a night-night story! I’m the one who insisted on the sleep schedule in the first place! Then it was Crinis who went and got a few enthusiastic ants and proceeded to take things way too far!
+
+Wait… why are the kids marching towards me? Wait… did they not realise I was gesturing to the nameless one behind them? Do they think that message was for them!?
+
+They look so determined as well! Emelia is practically cracking her knuckles! Am I really going to have to fight them?
+
+“Fine!” I yell, exasperated. “Fine. You win. I’ll take a nap. Sheesh. You people are impossible.”
+
+I turn around and fire off one last Gravity Bomb, then watch with satisfaction as it consumes the filth before winking out of existence.
+
+Emelia, Trean and Allison are still looking at me distrustfully, and I can’t help but rough up their hair with the tip of an antenna.
+
+“I’m going, alright? I’m going!” I tell them. “I’ll meet with the general first, then I’ll go to sleep. You win.”
+
+They appear satisfied, but still insist on walking with me to go see the general. I’m halfway to the resting chamber inside the fortress before I realise that the nameless one may have cunningly set me up.
+
+Dammit!

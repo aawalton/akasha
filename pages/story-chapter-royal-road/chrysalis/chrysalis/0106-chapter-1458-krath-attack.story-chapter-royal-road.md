@@ -1,0 +1,75 @@
+---
+id: e3d7fba9-3719-5d5b-8529-0d6f82c2ed15
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1458 - Krath Attack"
+slug: 0106-chapter-1458-krath-attack
+partOf: chrysalis
+position: 106
+ownLength: 1053
+unit: words
+ownProgress: 1053
+publishedAt: 2024-11-21
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1915461/chapter-1458-krath-attack"
+royalRoadId: "1915461"
+markedReadAt: "2026-06-29T19:47:28.318Z"
+---
+
+Hmm. As pleased as I was to find the first signs of the Krath, it soon becomes apparent that something different is going on here. There’s too many of them. I haven’t even been here that long and I’ve found dozens of them! That’s too many!
+
+They couldn’t have known I was going to come here, so they must have been here all along, right? Just what the heck is going on?
+
+I briefly consider turning around and heading straight back to Victor for a report. I doubt she expected to find that there would be such a large number of Krath lurking on the outskirts of the Colony’s territory. It’s enough that even I’m starting to feel vaguely threatened.
+
+And if there’s this many here in this tunnel, there may be an equal number in others. Solant was right, as usual. I don’t know if I’d call several hundred Krath an army, but it’s more than we’ve faced up to this point. They’ve finally gotten themselves organised and decided to come and fight us for real.
+
+It’s worrying, but also a little exciting! If I can smack them around hard enough, perhaps they’ll turn around and leave the Colony alone for a bit.
+
+Well, I shouldn’t get ahead of myself. I need to see what I can see before I make grandiose plans.
+
+As I move deeper into the tunnel, maintaining my confident, six-legged stride, my senses remain on alert. I’m certain they’re going to pull something, there’s no way they just let me wander through without trying something… is there?
+
+After fifteen minutes of burning, strutting and chomping on the stray monsters who do show up, I’m starting to think they may just prefer to keep themselves hidden.
+
+Which is, of course, the exact moment they decide to spring their trap.
+
+I have no idea how they managed to conceal the slime netting, I can literally see in every direction at once (almost), including directly over my head. I still didn’t notice the darn thing until it started to fall on me!
+
+Naturally, I spring into action the moment I notice it. My nervous system is like greased lightning and my legs are firing before my brain has even realised why.
+
+I sprint to the left, and I almost manage to clear the net. The lousy thing spreads out wider as it drops, compelled by some form of slug chicanery, and manages to clip my middle leg on the right side of the body, sticking tight.
+
+Of course, I try to shake it off immediately, but no luck, whatever goop they made it with isn't coming off that easily.
+
+I detect a rumble in the distance and soon spot a horde of monsters turning the corner up ahead. These must be the newly spawned monsters they’ve corralled over the last few days. Bah! Do they really think a bunch of weak monsters like this will be enough?
+
+My brains spin and I begin to weave together a gravity bomb, then I notice the net is behaving a little oddly.
+
+The lousy thing is alive.
+
+Only a small part of it managed to grab onto my leg, but the rest of the slime is actively gathering up and pulling itself towards me. The section that did manage to get ahold of me is literally crawling up my leg, strengthening its hold.
+
+With no time to think, I spin together more Dragon’s Breath and let it rip, roasting my own leg in the process. It’s difficult to tell at first, but after I let the flame rip for five seconds, I check, and of course they’ve made the lousy thing fire resistant. It’s fairly roasted, don’t get me wrong, but it’s still alive, somehow, weakly squirming its way further up my leg.
+
+I can’t afford to be caught out here, so I do the only thing I can and bite the end of my leg off with a quick chomp. The moment I shear through the leg, I leap away, lest the lousy thing manage to get ahold of me again.
+
+I’ve got a weak gravity bomb ready, so I empower it with the Altar and let it rip, flinging it down the tunnel toward the oncoming monsters. It howls to life and I find the screaming wind a little comforting as I start to whip another one together, along with some shields and more fire.
+
+I can still sense the Krath out there, lots of them. They aren’t far away, but are keeping well out of sight and beyond my range. Perhaps they learned from their earlier, more aggressive attempts to mess with me? Shame.
+
+The first of the monsters runs headfirst into the approaching bomb, and it expands, consuming the creature immediately. However, the tunnel is wide, and there’s no reason for all of them to funnel into the bomb, many of them making it around the zone from which they couldn’t escape the pull.
+
+As they get closer, however, they all home in towards me, that same ravenous anger in them that I see in every monster of the fifth. When they get close enough, but not too close, I let the second bomb go and watch as they charge headlong into it.
+
+Which is the moment the Krath strike.
+
+From a dozen different points along the roof, more nets are fired as if they were launched out of a cannon. They cover a wide area, not just covering me, but the area around me for dozens of metres.
+
+It seems they really want to capture me! Well, too bad, suckers!
+
+The shields are already in place and the nets make a wet slap sound as they make contact and wrap themselves around the invisible barriers. Of course, I anticipate they’ll melt through those shields in no time, and I’m running before they’ve even hit the shields.
+
+Trying to catch me in your sentient nets of doom, eh? You’ll have to try a little harder, you stupid slugs! Gweheheheheh.
+
+I expect them to try again, to extend themselves and have another crack, but they don’t. Seeing that their attempt has been thwarted, all the Krath I sense begin to pull away, sliding through the narrow cracks in the stone between tunnels, growing more distant by the second.
+
+Well… that’s disappointing.

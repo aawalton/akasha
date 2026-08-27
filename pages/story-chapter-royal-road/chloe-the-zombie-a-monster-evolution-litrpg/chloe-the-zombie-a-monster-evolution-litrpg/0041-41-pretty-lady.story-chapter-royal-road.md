@@ -1,0 +1,217 @@
+---
+id: 959300f0-181a-551d-8b16-b341cb45faac
+page-type-slug: story-chapter-royal-road
+title: "41: Pretty Lady"
+slug: 0041-41-pretty-lady
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 41
+ownLength: 2212
+unit: words
+publishedAt: 2025-09-29
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2638035/41-pretty-lady"
+royalRoadId: "2638035"
+---
+
+Chloe stared at Ynett, her face twisting through about three different emotions at once: confused, mad, and a little freaked out. Nothing she threw at this lady worked. Her attacks weren’t landing at all, no matter how many times she tried.
+
+“Okay, seriously, how are you doing that? You keep popping back up all perfect like I didn’t just smash you into a wall.”
+
+“Everybody has their secrets, don’t they?”
+
+“Then why aren’t you trying to hit me back? You’re just standing there, letting me swing like an idiot. What’s your deal?”
+
+“Because I don’t want to fight you, I only wish to talk.”
+
+“Talk? With me?”
+
+“Yes, I would like to know you. Tell me about yourself. What do you desire most? What are your dreams?"
+
+Chloe snorted and waved her sword around in a loose circle. “Lady, I just tried to kill you in at least three different ways, and you’re asking about dreams? That’s super weird. What even is a dream anyway?"
+
+Ynett’s lips curved, calm as ever. “A dream is the thing inside you that pulls you forward. It’s hope, hunger, purpose. Everyone has one, even if they don’t realize it. Something they chase, even when it feels impossible.”
+
+Chloe tilted her head, brows scrunching like she was trying really hard to follow along. “So it’s, like… something you want really, really bad?”
+
+“Yes, something that defines you.”
+
+“Oh, that's easy then. I wanna eat all the brains in the world! Well… not all of them. Just the yummy ones."
+
+Ynett nodded. “A bold goal. I admire that honesty. Myself? I don’t crave much. My dream is simply to survive.”
+
+“That’s it?”
+
+“It is. I wish to endure, without hurting anyone if it can be helped.”
+
+For a second, Chloe’s sword dipped just a little. But then her brain twitched with that spark of suspicion, the kind that always showed up when something smelled wrong. “Wait a sec. What about Wolfie? And all the villagers? What’d you do to them?”
+
+“Wolfie?” Ynett asked, tilting her head.
+
+“Uh, yeah. Fluffy tail, pointy ears, black fur?"
+
+“Ah. Yes. That one. She and the others in that village suffer from a condition. A sickness of the spirit. It corrupts their instincts and drives them into endless aggression. Left unchecked, they would tear each other apart. I only used my magic to soothe what they could not control. Especially the wolf girl.”
+
+Half the words went right over Chloe's head, but she caught the gist. Ynett was basically saying she turned the villagers into mindless husks for their own good. And apparently, the same excuse applied to Wolfie.
+
+Chloe had seen the kill notifications with her own two eyes. Those villagers weren’t “soothed.” They were broken. And broken wasn’t good.
+
+“Oh yeah? Then how come Wolfie tried to chew my face off the first time we met?”
+
+“My spell must have faded, which caused her to slip back into her natural state for a moment. But believe me, I did everything I could to keep her safe from herself.”
+
+Something cold twisted in Chloe’s gut. The words sounded sweet, but they dripped with something slimy underneath. It made her skin crawl.
+
+She shook her head hard. “Nope. Don’t like that. Don’t like you. You sound all soft and nice, but it’s… ugh, gross.”
+
+Ynett didn’t so much as blink. She only smiled. “I’m not your enemy."
+
+Chloe opened her mouth to laugh in her face, but then pain screeched through her skull. Her vision wobbled, the whole cave spinning sideways. She staggered, clutching her head.
+
+[Charm effect successfully resisted]
+
+Chloe gasped, eyes going wide. Did she seriously just try to mind control me? Ohhh, no. Not happening.
+
+She lunged as her sword stabbed straight for Ynett’s chest. Except… the blade slid right through.
+
+Chloe yanked back and swung again, harder this time, an overhead slash meant to split her in two. But this went as well as the first attack.
+
+“Fine! Burn, then!”
+
+Fire emerged in Chloe’s palm, and she threw it straight at Ynett, dead center. But the fireball just whooshed right through her and splattered uselessly against the ground. Oh, come on! She’s like… not even real! How am I supposed to hit someone who can't be hit?
+
+Ynett finally moved, only to sigh. Her eyes locked on Chloe’s, and everything inside her froze. “It’s a shame, but I have to do this.”
+
+Chloe tried to spit something back, but her voice caught in her throat. Her body refused to listen, rooted under that gaze. Her grip slackened, sword clattering against the floor as her knees buckled.
+
+Then the weight of sleep pressed down on her, dragging at her limbs. Chloe fought it as best she could, but the drowsiness didn’t care. It curled around her, swallowing her whole.
+
+***
+
+Chloe blinked and realized she was standing in the middle of a black void. Just endless darkness.
+
+It reminded her way too much of that weird place she always ended up whenever she evolved. “Z? Hellooo? Are you there?”
+
+No answer. Which was weird. Normally, Z popped up right away in places like this, being all mysterious and bossy.
+
+The idea of being stuck there forever made Chloe’s chest squeeze uncomfortably. She tried to laugh it off, brushing the thought aside with that same smug energy that always carried her through.
+
+But suddenly, Chloe's head throbbed faintly, an annoying reminder of her fight with Ynett. She didn’t know how Ynett dumped her here, but she knew it couldn't have been anyone else. Which meant she had to find a way out, preferably as fast as possible.
+
+First things first, Chloe needed to figure out how big this space actually was. She lifted her hand until a fireball bloomed in her palm. With a quick flick, she hurled it into the dark.
+
+The flame streaked out, shrinking fast. Chloe tilted her head, squinting.
+
+The fireball was still going. And going. And going. Until it was just this sad little orange dot, then poof. Gone. Not exactly the reassuring kind of result.
+
+So she walked. And walked. And walked. Forever, probably. Hard to tell when the view was just dark, dark, and hey, more dark.
+
+Chloe dragged her boots through the void. Until her nose smacked into something solid.
+
+“Ow! What the—” Chloe stumbled back, clutching her face.
+
+Her eyes narrowed at the offender. A door. Just… a normal, boring door, standing tall in the middle of all the creepy nothing.
+
+She blinked at it. Tilted her head left. Tilted it right. Pretty sure that wasn’t there a second ago. Unless she went blind for a bit. Which may or may not have happened.
+
+But still, it was the only interesting thing she’d seen so far. Alright, mystery door. Show me what you got.
+
+Chloe yanked the handle and swung the door wide. Her head popped in first as she looked around.
+
+Beyond the door wasn’t more boring black, but some kind of weird room. Rough stone walls pressed in tight, looking all gloomy, and a row of crooked, rusty bars split off one side.
+
+Chloe wrinkled her nose. She’d never seen anything like it before, but wow, it looked boring. Just a rock box with no color, and no snacks.
+
+Still… it was different. And different meant interesting. Interesting meant fun. And fun meant Chloe was going in.
+
+Chloe strutted inside like she owned the place. First thing she did was jab a finger at the wall, then shuffle over to one of the bars and give it a good rattle. The clang echoed loud, and the metal felt flimsy in her grip. Honestly, she had no clue what the bars were even for.
+
+She was just about to flop onto the floor to figure out her next move, when something stopped her cold. A cough.
+
+Chloe’s head whipped around so fast Cloaky nearly flew right off her shoulders. Her eyes went wide, then even wider.
+
+A woman was slumped in the corner. And not just any woman, the prettiest woman Chloe had ever seen in her entire un-life.
+
+The lady had long white hair, pale skin just like Chloe’s, and eyes that glowed faint red in the dark, also just like hers. Wait. Is that… me? But prettier?
+
+For once, Chloe’s grin slipped clean off her face. Something strange tugged at her chest, and it wasn’t hunger or smugness. She wanted to help this lady. Like if she saved this woman, maybe she’d be saving herself too.
+
+Chloe crept closer, crouching low. She waved a hand in front of the woman’s face. “Uh… hey. You okay?”
+
+The woman stirred as she lifted her gaze. She looked so weak, like she shouldn’t even be able to breathe. But when her eyes landed on Chloe, something shifted.
+
+The pretty lady smiled, “Hello, Chloe.”
+
+Chloe's hand stayed stuck mid-wave. “You know my name? How??”
+
+The woman gave a soft laugh, though it cracked in the middle like her throat was full of dust. “That doesn’t matter. What matters is, do you want to get out of here?”
+
+“Uh, duh. Who wants to live in a big dumb box forever? That sounds lame.”
+
+She tilted her head, frowning at the chains pinning the woman to the wall. “But like, no offense lady, you don’t look very… uh, free. You sure you can help me when you’re all locked up like that?”
+
+“Perhaps. But maybe you could try to break these chains.”
+
+“Ohhh, okay! That, I can do.”
+
+Chloe bounced to her feet, fists raised. “Don’t worry, I got this."
+
+She smashed her sword down onto the nearest chain. Sparks flew, but the iron didn’t even crack.
+
+Chloe snarled, stomping her foot. She hurled a fireball, blasting the cuffs in a blaze. Smoke hissed and filled the room. But when it cleared, the chains still remained untouched.
+
+“What the—?!”
+
+She pulled at them with both hands, braced her foot against the wall, and tugged hard. But the chains didn’t even rattle.
+
+Chloe flopped backward into the ground. “Ughhh. Why won't these dumb chains wiggle even just a little?!”
+
+"It's fine, thank you for trying. I cannot leave this place anyway,” the pretty lady said.
+
+Chloe sat up fast, hair falling into her face. “What? Why not?"
+
+“It’s a long story. But enough about me. Tell me, Chloe… what have you done before coming here?”
+
+“Ohhh, well actually, a lot happened.”
+
+And just like that, Chloe launched into her story. She told the woman about waking up in the dungeon, all hungry and confused. How she met Baron William, and then how she joined the Thieves Guild, and how she got her first bounty.
+
+And of course, Chloe talked about Wolfie, her fluffy tail, and how their fight was kinda fun. Then finally, she told the woman about Ynett, how nothing she threw at her worked, and how gross her words felt.
+
+Chloe realized she’d been talking nonstop. But for some reason, talking to this lady felt really good.
+
+The woman’s red eyes softened, her voice warm and gentle. “You’ve done so much, Chloe. I’m proud of you.”
+
+Chloe blinked, caught off guard. “Hehe, thanks. But uh… are you really sure you can’t leave this place? Like, really really sure?”
+
+The woman only shook her head. “I cannot. But you can.”
+
+“Okay, so… do I have to, like, do a thing? Smash a rock? Bite something?”
+
+“No. All you need to do, is listen to my story.”
+
+That actually made Chloe pause. She plopped down in front of the lady, chin on her knees, grinning with that restless gleam in her eyes. “Ooooh, story time? Okay, sure."
+
+So the woman began. And honestly, it was a really cool story.
+
+She told Chloe how, way back in the super old days, there were these ridiculously powerful guys and girls called gods. And they got together one day, and went, “Hey, let’s make a world and fill it with stuff.”
+
+So they did. The gods made the world, people, monsters, everything. But then the story turned weird.
+
+The pretty lady said that after a while, the gods got bored. So, instead of whatever gods did for fun, they invented something huge. Something called the Great Game.
+
+Chloe’s ears perked up at that. Z had mentioned the same thing before.
+
+The woman explained that the Great Game was actually really bad for the world. She didn’t say why, though. Only that Chloe would have to figure that out on her own.
+
+Chloe puffed her cheeks, arms crossing tight. “Aww, come on. You can’t just drop ‘Great Game bad’ and then go all mysterious about it!"
+
+The woman’s only answer was a soft smile. “You’ll understand in time.”
+
+“Oh, okay. Well… the story was super cool and all, but you still didn’t answer my question. How do I get outta here?”
+
+“Like this.”
+
+Before Chloe could say anything, her eyes went huge as the whole world melted into blinding white, stretching forever in every direction. And right there in the middle of all that light, a little notification popped up into her vision, hanging around just long enough to make her squint at it.
+
+[Skill Upgraded: Heresy I >> Heresy II]
+
+[Skill Upgraded: Charm Resistance I >> Charm Resistance II]

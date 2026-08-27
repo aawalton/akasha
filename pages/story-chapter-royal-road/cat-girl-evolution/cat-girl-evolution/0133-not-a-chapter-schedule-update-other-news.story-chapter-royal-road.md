@@ -1,0 +1,31 @@
+---
+id: e5ad0214-b55b-5222-be5d-c0c72745f932
+page-type-slug: story-chapter-royal-road
+title: "(NOT A CHAPTER) Schedule update + other news"
+slug: 0133-not-a-chapter-schedule-update-other-news
+partOf: cat-girl-evolution
+position: 133
+ownLength: 783
+unit: words
+publishedAt: 2026-06-13
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3535253/not-a-chapter-schedule-update-other-news"
+royalRoadId: "3535253"
+---
+
+I am home now. The vacation was quite busy, and I have some admin business stuff to take care of, so I'll just be taking the next week and a half off to settle things and relax, and I'll resume chapters when the Patreon billing naturally unpauses on the 23rd. I'll be going immediately back into my usual schedule, so that means Bunny Girl Evolution (BGE) on the 23rd, Cat Girl Evolution (CGE) on the 24th, off day on the 25th, etc...
+
+I will be going on a much shorter break in July for LitRPG Con. That one will be at most 5 days. It might not be a break at all, depending on how busy I end up. LitRPG Con is pretty close to where I live, so there won't be any jet lag, and I'm not an official guest or anything, so it'll be a pretty casual event for me. Then either late July or early August, I will be moving, so I will need a bit more time off, but at this point, it's looking like that'll only be a few days. I don't really have a whole lot of things, so the moving process won't take long.
+
+In terms of story updates, I do have some somewhat exciting news. First of all, BGE 4 almost has a release date for Amazon, and the audiobook for BGE 3 also almost has a release date. BGE 3 audio should be releasing either at the end of July or the beginning of August, and BGE 4 ebook will be releasing exactly 1 week after that. Obviously, B4 will need to stub at that time, but by then, it will be fully available here on RR, at least for a couple weeks. I will have the epub up for sale on my Patreon as usual soon.
+
+I also finally got the cover back for B4, and you can see it if you scroll down a bit. As you can probably tell, it's a different artist from the first three covers. The old artist was no longer available, and their style of doing humans and faces wasn't exactly what I wanted for a cover like this anyway. For any BGE readers here, you can also see that this scene in the cover is mostly canon. It's just the ears that aren't, but I made a business decision to include them, just so that anyone who doesn't know the series can see the cover and go "yup, that's a bunny girl" instead of going "Huh, where's the bunny girl?"
+
+Cat Girl Evolution 1 will also be releasing on ebook and audio sometime later this year. I'm pretty sure I've mentioned this before, but the earliest date will be august. The audio is once again with SoundBooth Theater with an official cast that's still TBA, but I will share it as soon as I can. The latest it will release is this November or December, so regardless of anything else, the audiobook will be out in 2026, and it will also be stubbing then, so read it now while you still can!
+
+I don't know how many of you read Too Stubborn to Die, but our audiobook for book 2 should be releasing either at the end of June, or beginning of July, and then B3 ebook releases on August 2.
+
+Lastly, I have another co-write coming out this summer sometime. This should interest you guys more than my other co-write, Too Stubborn to Die did, though it's still quite different. The title is 'Max Level Vampire Rebuilds the Demon Kingdom', and before you groan about another max level character story, this one is very different from any others you've seen. You see, my co-author is very interested in things like industrialism and geopolitics, so when we say this story is "kingdom building" we mean kingdom building. It's not a story where the main character can just handwave all her problems away. She can handwave some of them, but she still has to deal with relationships, business, politics, and all that. We have about 70k words written right now, and will be launching after we get another 6 or so chapters done, which should take a few more weeks. I'm not sure the exact release date, but I'll be making a big announcement post when it finally launches.
+
+I have a lot of releases in the next couple months...
+
+That's about it from me. I'll be around on Discord if you want to poke me for any reason, but this is it from me on Royal Road or Patreon until my break is over. Thanks for reading, and I will see you all in 10 days!

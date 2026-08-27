@@ -1,0 +1,87 @@
+---
+id: dda75148-b695-5d5b-ae44-261f80b96e72
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1551 - Skills of the Sophos"
+slug: 0199-chapter-1551-skills-of-the-sophos
+partOf: chrysalis
+position: 199
+ownLength: 1025
+unit: words
+ownProgress: 1025
+publishedAt: 2025-04-15
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2202878/chapter-1551-skills-of-the-sophos"
+royalRoadId: "2202878"
+markedReadAt: "2026-06-29T19:50:11.243Z"
+---
+
+The sophos named Formo looked much the same as most of his kind. He had a large, bulbous, eyeless head that almost seemed too heavy for his wiry body, causing him to lean forward and hunch his shoulders. His long, thin arms were tipped with three-fingered, clawed hands and he wore little more than a toga made of some sort of thin cloth. Despite his small stature, likely waist-high for an adult human, he had a commanding presence, and there was no denying the force of his mind that filled the room and dominated the bridge that formed between them.
+
+[Master Formo! You’ve been down in the fifth before?] Bella gasped.
+
+[The fifth? GODS, NO! This BLASTED place is awful. Awful! I have, however, been to the fourth. Cores crafted by my people are sold in local markets, and we come down to collect payment every now and again.]
+
+[Will you be alright with the mana saturation?] Ellie wondered, only to get slapped on the head by her sister. [Wha–?] she started angrily, only to realise her mistake and gasp. [I’m so sorry, Master Formo!]
+
+[It’s no problem, NO PROBLEM AT ALL, I SAY! Indeed, the few naturally born sophos aren’t allowed this deep in case they end up monsterised like the rest of us, BY JOVE!]
+
+Relieved that the poor monster hadn’t taken offense, Bella and Ellie were quick to invite their old teacher inside to enjoy a cup of tea and a scone.
+
+[Such a delicious treat! You ants have come a long way!] He chortled, happily munching away and licking the cream from his fingers.
+
+[If you don’t mind,] started Solant, who was still with them, [I believe one of our best… investigative mages… wanted to interview you about the process that turned your people into monsters. Would that be alright?]
+
+The two core shapers froze, but Formo merely waved the question away.
+
+[I will have to decline. It’s not something we sophos like to dwell on, and it isn’t something we understand. I myself was spawned only seventy years ago, so it isn’t like I have insight from the time of the Rending.]
+
+[As far as we in the Colony know, yours are the only people in the history of Pangera to ever become monsters via exposure to mana,] Solant continued. [It feels like a phenomenon that should be understood.]
+
+[There’s no point,] Formo dismissed the question again. [When my people were lost, the mana concentration in the Dungeon was BLOODY HIGH! BLOODY HIGH, I SAY! These were the years leading up to the Cataclysm; the mana level hasn’t gotten even close to that height ever since. Even these latest waves are little puddles in comparison. My people lived underground and were the first to find the Dungeon. Those sophos were exposed to absurd levels of mana for years. Who can say what that would do to a living being? At any rate, it’s IMPOSSIBLE to try and study a phenomenon you can’t reproduce. Unless you want to monsterise people?]
+
+[I don’t, but Brilliant probably would,] Solant said.
+
+[Well that’s a TERRIBLE IDEA! Tell that Brilliant to JOG ON and find something else to work on.]
+
+[I will. Then, I will leave you to your work. Thank you for the tea.]
+
+The little general made her exit and left the core shapers with their old teacher. Formo took another sip of his tea, holding the cup with two hands as he carefully brought it up to his mouth.
+
+[Ahhhh. DELICIOUS, BY JOVE! Now, how is that Anthony fellow travelling? It’s been some time since I’ve seen him.]
+
+[The… Eldest? The Eldest is fine,] Ellie replied, a little surprised. [Much bigger now than they were before. Tier seven these days.]
+
+[Tier seven already? That’s quite a high tier. Mythic?]
+
+[Ah, yes.]
+
+[Excellent. EXCELLENT, I SAY! Making a lot of progress. I would like to speak to him again if I get the chance. For now, let us examine your problem. Do you have any cores I can look at?]
+
+[Of course we do,] Bella said, jumping from her chair to grab a core with her mandibles and bring it back to the table. [I can’t tell you how grateful we are that you’ve come to help us, Formo. This is a really difficult problem.]
+
+[Well, now, it’s not an issue. We sophos have been talking about whether or not we should take a more active role in the Dungeon. Our place is… not overly secure. We are, after all, monsters, most of us anyway. To me and my like-minded fellows, the Colony is a natural fit for us. Consider my presence here as… an outreach effort.
+
+[Not to mention, I happen to like you CHAPS!]
+
+[We’re… all female,] Ellie said.
+
+[We’re all monsters here,] Formo dismissed, waving a hand, [being a splendid chap has nothing to do with reproduction, otherwise ninety percent of the sophos wouldn’t be splendid chaps, and that’s impossible.]
+
+He pushed his cup away and reached out for the core, which was placed in his palm. There was a heavy silence for a brief moment, then Formo dropped the core and pulled back, as if repulsed.
+
+[Holy STONES, that thing is an AWFUL BLIGHTER! BY JOVE!]
+
+He wiped his hand on the table as Bella and Ellie rushed forward.
+
+[Are you alright, Formo?] they cried.
+
+[I’m fine,] he said, mind still dripping with distaste. [Faugh! The monsters down here are deplorable. Even worse, that core has been warped.]
+
+[Warped? What do you mean?] Bella asked.
+
+[I’m guessing that bringing it inside this… clean mana zone was what did the damage. A quarter of the information in the core is useless.]
+
+Another significant challenge of working with the toxic monsters of the fifth. Nothing, not even their cores, was free of corruption, which meant they were damaged by the clean mana just like everything else.
+
+[How else are we supposed to work with them?] Ellia wondered. [We were trying to work around the damage. Is that not possible?]
+
+[No. At least, not properly. We need to examine these cores in their natural, undamaged state. TALLY HO! We seek the exterior!]

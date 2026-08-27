@@ -1,0 +1,111 @@
+---
+id: 98616335-4ca0-567b-9b43-2f27b144ae90
+page-type-slug: story-chapter-royal-road
+title: "185. Malleable Tools"
+slug: 0185-185-malleable-tools
+partOf: breaker-of-horizons
+position: 185
+ownLength: 2066
+unit: words
+publishedAt: 2022-03-14
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/864513/185-malleable-tools"
+royalRoadId: "864513"
+---
+
+Despite the air of gentleness that Professor Ward exuded, he proved to be quite an incisive and demanding educator. Once the ten minutes were up, he wasted no time in calling on the youngest students to offer their thoughts on the workings of the sequence and its limitations. Kevan stumbled through a rough explanation of how the sequence was designed to really only be effective on injuries that affected the topmost layer of the skin, but ran out of steam when Ward pressed him on the specifics of how he had come to that conclusion.
+
+Lynus was next, and he fared a little better by pointing to the glyph of pattern replication and explaining that the sequence likely only duplicated a designated the topmost layer of healthy skin. But when asked to explain why the sequence didn't simply designate the deeper layers, he couldn't come up with a theory.
+
+"Who is the third-year in your group? Henry, is it?" Ward asked softly, turning to him. "Was that all you could tell them in ten minutes?"
+
+Henry stiffened, then nodded mutely.
+
+"Mm. I suppose it was sufficient for a rudimentary introduction," Ward mumbled, before rounding on Caden. "Has your third-year partner prepared you better? Are you able to add anything else to the discussion?"
+
+"For the sequence to designate more complex patterns for duplication, it needs more arcana," Caden answered slowly. "But if you increase the arcanic load, you also need the sequence to have additional clauses that bolster the body so it can bear the strain of that level of alteration. As it stands, the bolstering clauses are too weak to handle anything more than the current volume of arcana."
+
+For the first time, Ward's frown seemed to lighten a little. "And suppose we add those clauses. Would that enable this sequence to work on lacerations and puncture wounds?"
+
+Caden hesitated as he tried to give an answer that wouldn't reveal the fact that he had experience with higher order healing sequences. "I... don't think so. You might be able to patch superficial cuts by just replicating a bit of skin, but for worse injuries, there's too much complexity involved. I mean, it doesn't make sense for me to just duplicate a cross-section of someone's arm from one centimetre down. It wouldn't fit. I need to fix the original wound, not cover it up."
+
+Ward favoured Caden with a wrinkled smile, and nodded approvingly at Bertram. "A good student, and a good teacher. A potent combination. Mark this well, everyone. You would all do well to learn the material to such a degree that you are able to concisely pass the knowledge on to another. It is a mark of mastery if you are able to clearly explain that which is complex in nature."
+
+Ward then proceeded to outline what Bertram had already told Caden, though the information he provided was put in a conceptual framework that made it easy for everyone to follow, and Caden found himself appreciating how Ward had an extremely organised mind.
+
+"In summary, healing sequences are made up of two primary segments. The first describes the mechanics of restoration and the second describes the mechanics of fortifying the body to endure the trauma that accompanies said restoration." Ward gestured at the puppet on the slab before him. "And for today, we will make sure you are familiar with the principles by practicing upon non-living material."
+
+A knife coalesced on the slab and Ward used it to make several small cuts along the puppet's arm. Caden was a little disturbed to see how life-like the puppet's wounds were as it started bleeding, and he had to look closely to assure himself that it wasn't an actual body there on the slab.
+
+"If you do not frame the sequence properly in your mind with the accompanying principles, your attempted healing will have various unwelcome effects," Ward said to the class at large before turning back to the puppet. A moment later, the cuts sealed themselves, but then puppet's 'tissue' started growing outwards, forming undulating folds of 'skin' that continued flowing like some cancerous fountain.
+
+"Too much focus on the restorative segment and your sequence replicates without restraint, leading to unwanted growth. But if you lean too much in the other direction and over-fortify, then the restoration won't happen," Ward explained. With the help of the chamber's controls, he eliminated the excess material in a blaze of arcanic fire and restored the puppet to its pristine condition.
+
+"Also, if you fail to properly manage both segments, the mass of arcana could run out of control." He made several more cuts on the puppet, then gestured again at it. This time, as the wounds started to heal, raw arcana poured forth from the gashes like worms erupting from some dark crevice. The tendrils burned away the material, and a moment later, the puppet had nothing but a charred stump where its wounded arm had been.
+
+"That's it for the demonstration. It is now your turn to get some hands-on experience!" A number of puppets materialised before each group of students, along with a set of knives and rough stones, and Ward gestured for them to help themselves. "Use the tools provided to inflict surface trauma, and then use the sequences to reverse the damage," he instructed. "I will give you all half an hour to acquaint yourselves with the sequence, and then we shall see how much you have managed to understand after actually making use of it."
+
+There were mixed results in the class, even among the second and third-year students. Henry appeared to have no problem with it, but the twins both struggled to keep the sequence from wildly replicating the puppet's skin. Caden erred on the side of over-fortifying, but after a few minutes he managed to shift his focus just enough for the whole sequence to work in a balanced manner.
+
+"Is there a difference for cuts and grazes?" he wondered aloud, as Bertram performed a perfunctory healing to satisfy Ward, who was passing by as he went from group to group to check on their progress.
+
+"Try, and then share your conclusions later," Ward said, jabbing a finger pointedly at the stones.
+
+The abrasions left behind by the stone were less disturbing to look at, and at first Caden assumed it would be much easier to deal with them than with the cuts, but he was surprised to see that his healing sequence wasn't cleanly restoring the damaged surface. Instead, there was a little bit of unwanted growth, so the patch of restored skin became bumpy instead of being perfectly smooth. He frowned at it, thinking.
+
+"It's the same sequence," he muttered to himself. "And I have the same intent to restore."
+
+Bertram nodded but kept quiet, and Caden was a bit relieved to see that Bertram wasn't intently watching his every move now. He seemed to be a bit preoccupied with what Henry was doing. Caden glanced over and saw Henry jabbing his finger at the puppet while he addressed the twins. It looked like he was scolding them, which struck Caden as extremely odd, especially since the two of them seemed to be taking it without even a hint of irritation.
+
+He turned his attention back to the problem at hand, deciding that he would leave Bertram to poke his nose in the affairs of others.
+
+The answer, when he finally got it, was simplicity itself. He had been focused on replicating the unspoiled tissue, but he hadn't thought much about the target site. That meant the replication was layered over the damaged pattern. All he had to do was tweak his mental picture a little, and the grazes were erased as if they were never there.
+
+Special Set glyphs really were something else. They were so sensitive to the focus and the intention of the user that they almost seemed to have a life of their own, intelligently adjusting to enact the will of the arcanist. Almost absently, Caden found himself reaching out to the augera, trusting in the Demiurge's latest binding to keep them at bay if he decided to end the conversation.
+
+'How closely are you all tied to the Special Set glyphs?' he asked.
+
+'We are woven-shackled-stream,' the Academy augera replied, its voice a mere whisper compared to the usual intensity of arcanic contact. 'The fabric itself. All glyphs woven into us, us into glyphs. Basic Set at fringes, edges. Special Set and other greater etchings... closer to essence. Descriptions of our nature. Shadows of our light.'
+
+Caden let out a deep sigh as he was forcefully reminded of the gap in comprehension between humans and the augera. But he did at least manage to understand that the augera were essential to the proper functioning of the glyphs, even though he didn't understand the exact nature of how they were joined together. But he was quite sure that they weren't consciously directing how each glyph worked whenever it was used. It seemed like the glyphs were simply harnessing their nature.
+
+'Correct. Streams — flowing where the channel is etched,' the augera sent.
+
+'And how or where are these channels etched? How are the glyphs even made?' Caden pressed.
+
+But before he could get an answer, he noticed Bertram eyeing him, and he broke off contact with the augera. "Yes?" he asked testily.
+
+"You need to practice your poker face," Bertram said, smiling blandly. "It'll help you navigate Academy politics a lot more easily."
+
+"I didn't think I had to be that guarded when around someone who's supposed to be an ally," Caden replied irritably.
+
+"This won't put me in a good light, but you'd do well to be careful of those closest to you. The smart ones will make sure they get close first before they make their move against you." Bertram drew closer and sketched the glyph of corporeal substance in the air between them. "Anyway, you've got the hang of the sequence, so instead of staring off into space, or whatever it is you were doing, you wanna use the leftover time and pull ahead of the others?"
+
+Caden looked up at him, becoming aware for the first time how menacing Bertram could be if he wanted to. He had the height advantage over most people in the room, even Kevan, and his build gave him an imposing physical presence. It was perhaps a mark of his charisma that he managed to make himself appear so genial and affable.
+
+"Alright," Caden answered slowly. "What do you have in mind?"
+
+"Just talking about this," Bertram said, nodding at the glyph. "You've used it in a sequence now. What do you think of it?"
+
+"Meaning?"
+
+"I mean exactly that. What do you think of it?"
+
+"That's a very broad question," Caden pointed out.
+
+"It is. So start wherever you like," Bertram shrugged.
+
+"It's... versatile?" Caden ventured. "We're using it in a sequence that's supposed to heal flesh, but we're currently healing a dummy, which isn't actually made of flesh. So it probably works on anything corporeal."
+
+Bertram nodded. "And how is it used in this sequence?"
+
+"It's, uh..." Caden looked back at a copy of it so he could see its structure. "It's just used to sort of give a reference for what corporeal substance to replicate."
+
+"Mmhmm. Can you imagine any other uses for it?"
+
+He didn't need Bertram's prompting, because as soon as he thought about the fact that it was merely used as a reference in this sequence, his mind starting throwing out the other possibilities if he were to use it in a sequence to set conditions. In fact, he had just realised that Bertram's scanning pulse sequence actually made use of it in order to cause the arcana to pass through solid objects and then mark the points of contact, and still go on to mark other things.
+
+And there were other ideas, too. Could he simply provide a pre-set reference and put it into the targeting clause of a combat sequence like the shield-piercer? That might enable it to completely bypass arcanic shields since they'd be keyed to only have an impact on corporeal substances. It seemed too easy, but the idea was begging to be tested.
+
+Bertram gave a satisfied nod and a grin at the look on Caden's face.
+
+"Yeah, this is where it gets fun."

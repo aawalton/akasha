@@ -1,0 +1,105 @@
+---
+id: 1e0d5ea6-4f37-58ae-a210-d79f33358bba
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1384 - Rethinking"
+slug: 0031-chapter-1384-rethinking
+partOf: chrysalis
+position: 31
+ownLength: 1067
+unit: words
+ownProgress: 1067
+publishedAt: 2024-08-02
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1741264/chapter-1384-rethinking"
+royalRoadId: "1741264"
+markedReadAt: "2026-06-29T19:44:38.599Z"
+---
+
+Things were not meant to have gone this way.
+
+Zluth compressed himself a little as he slid to the side, carefully not looking at the gruesome scene taking place nearby. Though, try as he might, there was nothing he could do about the sound.
+
+CRUNCH. CRUNCH. SLURP.
+
+All Zluth really cared about in the moment was that it wasn’t him who’d been on the chopping block. When the Krath’lath was done with her grisly task, she gurgled grotesquely as she absorbed the flesh of her consumed tribesmates.
+
+“Failure is not acceptable,” she said when she had finished. Then turned her stalks toward Zluth, who froze in place for a moment.
+
+“Of course not, Krath’lath. The three urudesh who proposed this assault were clearly inferior, a blight upon our tribe.”
+
+“We are indeed stronger for having removed such weakness,” the Krath’lath agreed, her eyes burning into his. “As the one responsible for the health of our tribe, I only wonder if I have removed all of the failures.”
+
+She was still hungry? Zluth fought with himself to maintain his calm.
+
+“In what way have I failed?” he declared confidently. “I was the one who found the intruders. I was the one who escaped their notice and brought word of their impure mana back to the tribe.”
+
+Burning red eyes atop dozens of stalks turned toward the Krath’lath, who visibly gnashed her teeth. Her body was visibly shuddering in pain as she digested those she had consumed, absorbing their potent acid and using it to refine her own. Punishing weakness was accepted, welcomed, celebrated, within the tribe. Wanton slaughter was… at times forgivable, but not when it would impact the tribe.
+
+A weak tribe would become food for their rivals. Literally.
+
+“Very well,” she declared finally, before she released a particularly noxious cloud of gas. The very air seemed to sizzle with the potency of it, and Zluth felt his own guts roil at the scent.
+
+The current Krath’lath had been in her post for some time, and feasted on many of her fellow Krath. She had clearly refined a powerful acid indeed, and he hungered to add it to his own.
+
+But this was not the time; his position was not strong enough to warrant a challenge.
+
+“We must come to a decision on how to best torture these invaders,” the Krath’lath declared, grinding her jagged teeth. “Speak, and I shall decide our path.”
+
+It wasn’t lost on any of them that it was she who’d accepted the proposal of the three, now consumed, Krath who had proposed using their pets to assault the invaders via the river. They’d been confident, and their pets were based on a strong design. Zluth was still surprised it hadn’t worked. Not only hadn’t worked. Had empowered the enemy.
+
+“We must be careful not to aid our enemies any further,” Zluth proposed. “We have learned they are capable of strengthening their… filth-makers,” he spat.
+
+A glob of iridescent green slime sizzled into the rock beside him.
+
+“... by using our creatures. Every time we assault them with pets or proxies and fail, they will grow stronger.”
+
+“I did not ask what we should not do,” the Krath’lath turned her bulging eyes toward him again.
+
+She really had it in for him for some reason. Zluth felt the stirring of both fear and rage coiling in his slug-flesh. This was a dangerous moment, but also one with great potential. Fortunately, someone else spoke up to distract attention away from him.
+
+“Our first priority should be to capture one of our enemies alive,” burbled Zassin. “Once we toxify them in the sludge pits, we will know everything needed to deal with them.”
+
+Attention turned back to Zluth, and he held firm under their gaze. As the only Krath to lay eyes on the invaders directly, it was natural that he would be called on to comment.
+
+“It would be extremely difficult. The enemy remains inside their field of corrupted mana at all times. Even entering it will cause harm to us. Only one ant emerges from their blue filth.”
+
+“We capture that one, then,” the Krath’lath declared.
+
+“That ant is easily tier seven, possibly eight.”
+
+Having her words challenged in this way was too much for the Krath’lath. Despite her disgustingly distended flesh, she launched herself toward Zluth, mouth gaping and thick gastric juices leaking from between her teeth.
+
+It took four others to tackle and hold her down until the rage had passed. When she had regained control of herself, she growled low until they released her and she pulled herself upright once more.
+
+Losing oneself to the rage was a common enough occurrence, so nobody looked at her the worse for the loss of control.
+
+Discussions amongst the Krath were always… spirited.
+
+“A tier seven or eight…” she muttered.
+
+Zluth paused for a beat to be sure she didn’t intend to speak any more before he continued.
+
+“Who is possibly a mythic. I wasn’t able to get a precise reading of the monster’s core, but it was very strong.”
+
+“A tier seven, possibly mythic, ant,” Goszi said. “Something odd is happening here.”
+
+The other present Krath agreed. Too many unexpected occurrences were taking place. An invasion, by monsters, ant monsters at that, and such highly evolved ones? They’d even designed pets to refine the fifth’s mana.
+
+“We must observe and learn more,” the Krath’lath declared. “We will continue to hound them by directing natural spawns in their direction as we scout.”
+
+A sensible decision, but Zluth knew exactly what was going to come next.
+
+“Zluth, you have had some success scouting these creatures. You will take the lead.”
+
+Her eyes bulged red once again as they rotated on their stalks to face him. He did not flinch.
+
+“Of course,” he burbled. “I will not fail the tribe. How many Krath will come with me?”
+
+The tribe leader considered for a moment.
+
+“I will give you four scouts. Use them well. Ensure you return before the breeding season. I wish to have further discussions with you at that time.”
+
+Zluth’s eyes wilted on his stalks for a moment as he realised what she was saying. That was a dangerous experience for a male Krath, and not one he felt the Krath’lath intended to let him survive.
+
+He would have to make sure he ‘missed’ this appointment.
+
+“Of course, Krath’lath. I will depart shortly.”

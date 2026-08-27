@@ -1,0 +1,91 @@
+---
+id: b749da1e-9b13-5b08-8fc8-c26f0ce3b19d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1577 - Information Exchange"
+slug: 0225-chapter-1577-information-exchange
+partOf: chrysalis
+position: 225
+ownLength: 1021
+unit: words
+ownProgress: 1021
+publishedAt: 2025-06-04
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2328708/chapter-1577-information-exchange"
+royalRoadId: "2328708"
+markedReadAt: "2026-06-29T19:51:00.721Z"
+---
+
+It took time to agree to terms. As it turned out, the ants were very attached to their ‘Eldest’. Even the slightest concession was weighed like gold, and yet Chyron felt that she was getting the best possible deal, since no ant other than Solant would even think to agree to a trade like this.
+
+[Now,] the little general said, still as calm and unruffled as ever, [what do you have to share with us?]
+
+[Are you willing to share this information with your mages?] Chyron asked, gesturing to the ants who were maintaining and monitoring the mind bridge.
+
+[Of course.]
+
+Did these ants hide anything from each other at all? Probably not. Some of what Chyron knew was classified, but it would be unacceptable to speak directly to the monsters without mage protection. The Legionaries would have to be sworn to secrecy later.
+
+[Theorazzn. The Maker of Mucus, as the Krath refer to it. The slugs believe that the Ancient was the one who corrupted the fifth stratum, the one who essentially created them, by turning whatever the fifth was before into… whatever this is.]
+
+She jerked a thumb over her shoulder to the rampaging war of mucus and slime going on behind her.
+
+[Was Theorazzn responsible for this transformation?]
+
+[As far as the Legion is concerned, yes. We know the filthy beast likes to interfere here, much as Arconidem does in the third. Although we can’t prove it, we believe that, yes, Theorazzn is responsible.]
+
+Solant clacked her mandibles thoughtfully, pondering this new information.
+
+[And how do the Krath feel about their… creator?]
+
+Chyron crossed her arms, shifting her weight to the other foot.
+
+[It’s difficult to say. Until very recently, there weren’t many who managed to actually have a conversation with a Krath. As far as we can tell, they are devoted to the creature. Zealously.]
+
+[If Theorazzn asks them to do something, then they will?]
+
+[To the best of their ability. They do not defy the Maker of Mucus.]
+
+Even when they were told to assault Legion strongholds…. Perhaps especially then.
+
+[Let us be a little more open with each other, Commander,] Solant said, a gleam in her multi-faceted eye. [We know about the hearts. We know about the cycle. We know about the vents. We know about the arterial, capillary and venula tunnels. We know about the bleed and we know about the Krath Virals.]
+
+Chyron’s expression didn’t shift, but she was still surprised. Some of that she’d told them herself, but the rest must have come from Goszi. How had they gotten him to talk? It was unthinkable!
+
+[So what do you want to know?] Chyron asked.
+
+[I want to know what Theorazzn did to the fifth. How was this place transformed into what it is now?]
+
+The Commander nodded, still tapping away with her finger as she considered. This wasn’t widely known, even within the Legion, who had spent more time in the fifth than anyone else. Even so, she deemed it worth sharing.
+
+[There have been several wars between the Legion and the Krath,] she began, [drawn out, bloody affairs. Gruelling warfare, down here, as you know. In the year 1733, we managed to assault a heart for the first time. As far as we know, those were the first non-Krath to set foot inside one in the history of Pangera.]
+
+[An impressive feat,] Solant said.
+
+It might have sounded trite coming from someone else, but the general did not give compliments that were not sincere. Chyron tipped her head to acknowledge her words.
+
+[Records from that battle are all we have regarding the inside of a heart. You know how they function?]
+
+[Sucking in mana from the upper tunnels, then pumping it back out again. Creating the cycle, a grand flow of mana through vast swathes of the fifth.]
+
+[The Legionaries who fought in that battle reported seeing pools of a substance so foul and toxic, even the vapours coming from it were enough to eat through their armour. Even using mana sense on it was enough for it to begin infecting someone’s mind. The Legion fighting that day were taken by surprise at the sheer virulence of the stuff, causing them to have to fall back, ultimately abandoning the assault.]
+
+[You believe Theorazzn created these pools?]
+
+[We do,] the Commander confirmed. [In order to corrupt the fifth, that filthy monster went to each heart in the entire stratum and puked up a toxin so potent, so pungent, that it still exists, just as potent now, thousands of years later. Over a period of decades, it would have corrupted the mana inside the hearts, which spread it out across the entire stratum. It’s this… substance, that the Krath use to corrupt and turn individuals into debased and warped versions of themselves, turning them against their own allies. Most tribes have a sliver of it within a slime pool inside their home caverns. Some suspect that’s what happened to the Krath themselves.]
+
+[We know how the Krath came to be,] Solant said, almost absent-mindedly, considering what she’d been told.
+
+Chyron raised a brow. They did? If true, that was an interesting titbit. She’d love to know their theory, and how they came by it.
+
+[Is that enough?] Chyron asked. [Any more questions? Keep in mind, the Legion are the only ones on Pangera who could confirm that for you, other than the Krath themselves.]
+
+[Goszi has been reluctant to share such details,] Solant replied smoothly. [No, I believe I have everything that I need. Thank you, Commander. I hope your battle here continues to be fruitful for you and your soldiers.]
+
+[Let us know if the fortress is on the brink of collapse,] Chyron said dryly. [We’d like to know before the corruption takes us.]
+
+[Of course.]
+
+And with that, they were done. Solant and her entourage turned and left, leaving Chyron watching, and thinking.
+
+“How did it go?” Morrelia asked, barely concealing her impatience. “What did you get in exchange?”
+
+“More than you might expect,” Chyron replied. “Come on, back to the lines. Gold is only good when it’s in your pocket.”

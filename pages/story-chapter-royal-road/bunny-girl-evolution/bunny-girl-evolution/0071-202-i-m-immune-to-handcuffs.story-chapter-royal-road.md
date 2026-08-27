@@ -1,0 +1,207 @@
+---
+id: 44a72c99-057f-56bc-b537-5a89d2710987
+page-type-slug: story-chapter-royal-road
+title: "202 - I'm Immune to Handcuffs??"
+slug: 0071-202-i-m-immune-to-handcuffs
+partOf: bunny-girl-evolution
+position: 71
+ownLength: 3253
+unit: words
+publishedAt: 2026-06-27
+link: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution/chapter/3597787/202-im-immune-to-handcuffs"
+royalRoadId: "3597787"
+---
+
+“Are you sure you’re alright?” asked Hannah, still supporting Elise.
+
+“Y– yeah,” said Elise. “I’m fine.”
+
+She felt better than fine, actually. Everything felt right. She had never really noticed the sense of wrongness in her soul before, beyond the obvious erratic aether, but now that her soul had righted itself, she didn’t know how she ever lived with herself before. Even just thinking back to a few minutes prior made her skin crawl.
+
+Beyond that, the next most noticeable change was with how she sensed aether. It felt different, but also better. She felt more in tune with both her own aether, and the aether of others. Like it had turned from a power she was borrowing to one she was born with. And it felt good.
+
+She turned to the slimes currently assaulting the rest of the team as Telvir, Sophie, and Frank fended them off. With how her aether felt, she really wanted to test her aetheric methods, but she was limited to {Suggest}, which unfortunately wasn’t all that effective on slimes, so instead she settled for mana for now. She would have more opportunity to test her aether later, and she was really looking forward to it.
+
+She raised a hand and called on {Mana Burst} to send an explosive projectile into the center of the mass of slime and hopefully burst a couple. She felt her mana flicker for a moment, but then it failed, and nothing happened.
+
+What? she thought. {Mana Burst}!
+
+It didn’t even flicker that time.
+
+{Magic Missile}! {Vicious Bloom}! {Ensnaring Roots}!
+
+She ran through her list of spells, both that she had learned in Skill form, and that she had come up with using {Nature Mana Manipulation}, but none of them worked.
+
+Status Window. Status Window! System, help!
+
+But no matter what she tried, there was no response. It was like she had been cut off from the System entirely. Panic rose in her chest as she mentally screamed at the System, all to no avail.
+
+“No, no, no, no…” she muttered.
+
+“What’s wrong?” asked Hannah.
+
+“It’s–” started Elise before stopping herself.
+
+How am I supposed to explain this?
+
+“I’m not alright,” she said. “I– I can’t do anything right now. We should leave. I need somewhere quiet.”
+
+“Alright,” said Hannah, nodding before turning to the others. “Prepare to retreat!”
+
+“Retreat?” asked Frank, looking back in confusion.
+
+“Understood!” said Telvir. “Sophie, back up and prepare to make an earthen wall. Frank, help me hold them off.”
+
+The slimes were not particularly dangerous entities, as long as they were paying attention, but these particular slimes were a bit too durable and too great in number for them to want to kill with one of their teammates crippled. It would be easiest to retreat, and luckily, they had prepared this exact maneuver.
+
+Sophie disengaged from the battle up front, stepping five paces back and kneeling to the ground as she filled it with her mana. Her mana infused the ground and walls in a partial ring around the narrowest part of the tunnel, and once she had finished priming her spell, she called the final retreat. Frank and Telvier disengaged simultaneously, using their movement Skills to back up as quickly as possible, and the moment they made it far enough back, Sophie released her spell, causing a two-foot-thick wall of stone to rise up between them and the slimes. The caverns this deep were far too big for her to block off the entire passageway, but luckily, acid slimes couldn’t climb. They could eventually melt through the wall, but by the time they did, the team would be long gone.
+
+As they ran, Elise tried dozens of different ways to interact with the System, but none bore any fruit. She tried praying to Titania, but the goddess was either ignoring her, or still indisposed. The only magical thing she could do was access Astrid’s Star. For that, at least, she was grateful, since it let her summon the earrings she had gotten from Hallbjorn and suppress her unrestrained aether.
+
+Did I really get cut off from the System? she wondered.
+
+The text looked strange, but it clearly said {Rune of Fate} had evolved into {Rune of Fate (Unshackled)}. Did that mean that she had been unshackled from the System? That was probably what caused the text corruption. Under different circumstances, she might have welcomed that, but not here. Not now.
+
+No, wait, that can’t be right, she realized. Even if they were messed up, I still saw those notifications. If I was truly cut off, they wouldn’t have gone through at all.
+
+As she ran, the panic continued to fade, allowing her to think more logically, but even so, she couldn’t figure out exactly what had happened. She knew that her {Rune of Fate} had evolved, and that its evolution had somehow affected her ability to interface with the System, but as for how, why and whether it did anything else, she couldn’t begin to guess. And there was only one way she could think of to find out. She needed to enter soul meditation.
+
+After a quarter hour of running, they located a suitable area—a part of a tunnel that bulged out a bit, providing them a place to stop and rest out of the way of the main path without compromising their awareness or cornering themselves.
+
+“Eleanor, what happened back there?” asked Telvir.
+
+She could tell from the sharpness of his gaze that he knew more than he let on, but she wasn’t just going to reveal herself. She had thought of a suitable excuse already anyway.
+
+“I’ve been cursed,” she said.
+
+“Cursed?!” exclaimed Hannah. “How? By who?”
+
+“It’s… complicated.”
+
+“How complicated?” asked Frank. “Are we going to be attacked?”
+
+“No, probably not,” said Elise. “Not by anything unusual. I think it’s just an attempt to sabotage us.”
+
+“Who would do that?” asked Hannah.
+
+“…The Granes,” she said. “Specifically Liam.”
+
+Sorry, Liam, she thought. But also, not really. Screw you.
+
+“Wait, are you the one that embarrassed him in that duel a while back?” asked Frank.
+
+“Yeah…”
+
+“Haha!” he said. “Well, yeah, that explains it.”
+
+“Are you going to be alright?” asked Sophie.
+
+“I’ll be fine,” said Elise. “Just a little magically crippled.”
+
+“That’s not good,” said Telvir. “We can make do without you, but we won’t be as efficient.”
+
+“I know,” said Elise. “I think there might be a way to fix it. I just need some time to meditate for a bit.”
+
+“You can meditate a curse away?” asked Frank.
+
+“Maybe,” said Elise evasively. “It’s complicated. Just give me a bit of time. I can at least get a better assessment of how bad it is.”
+
+If the others got too suspicious, she would reveal that she was a princess, and claim that her meditation technique was a secret of the Corunian royal line, but until she had to, she would remain vague. Even if Telvir was looking at her strangely. Well, more strangely than usual. He clearly knew something. But until he said it out loud, she would just ignore it, as usual.
+
+“Alright,” said Telvir, narrowing his eyes. “How long will you be?”
+
+“I’m not sure,” said Elise. “It should only be a few minutes for an initial assessment. I’ll let you know after I finish that.”
+
+“Alright,” he said, nodding. “We’ll stand guard.”
+
+“Thank you.”
+
+The other four formed up in a semicircle around her as she crossed her legs and slowed her breathing. A moment later, she was inside her soul, and what she saw was not at all what she had expected.
+
+“What the…?”
+
+All the things she had built in her soul were still present, just as she had left them, but there were other things she hadn’t built as well. And the fog had faded from the edge of her soul, revealing what looked like an enormous spiderweb surrounding the entire space. It was impossibly complex, with millions and millions of threads and nodes, but it also looked oddly… dead? She didn’t know how to describe it, but it somehow looked lifeless, and she could sense that there was something slightly wrong with it.
+
+She also recognized it for what it was immediately.
+
+“Is that the System?” she wondered out loud as she floated toward it.
+
+When she reached the nearest thread, her suspicions were all but confirmed. Upon closer inspection, each “thread” was made up of hundreds of smaller “threads”, each of which was just a sequence of 1s and 0s. She peered closer, and for a moment tried to count a few of them to get an estimate, but quickly gave up. This thread alone probably had millions of the digits, and with millions of threads and nodes, there was no way she was going to get an exact estimate. All she knew was that it was immense.
+
+She floated around, studying the web for a minute or so, but she could make neither heads nor tails of it, so she did the only logical thing: she touched it. The moment her hand made contact, the whole web came to life. The digits began flying past, the threads constantly in motion, feeding information to the nodes which then sent more information to other nodes. Threads appeared and disappeared seemingly at random, and the larger threads grew and shrunk as the information load passing through each waxed and waned.
+
+She took her hand off, and it all grinded to a halt once more, then placed her hand back on it and watched it start moving again. This time, she gave the mental command to pull up her status window, and to her relief, it worked. Her stats appeared, just as she remembered them, and all her Skills were present and accounted for, save for {Rune of Fate}, which of course had changed, and {Subtle Royalty}, which was grayed out on account of it being broken.
+
+She double checked that everything looked right, then focused in on her newly upgraded Skill, pulling up its description.
+
+[ {Rune of Fate (Unshackled)}: A rune spawned by the user’s natural traits that indicates their latent ability to channel and control aether. This Skill has evolved to match the user’s soul. The user now cannot be bound against their will. Grants the following Skill Quests: {Aether Sense}, {Aether Manipulation}, {Aether Absorption}. ]
+
+At last, the remainder of the glitched text was gone. Unfortunately, that was about where the good news ended. The description was vague and unhelpful. Clearly, the System counted as being a binding, which made some sense, but that couldn’t be all the Skill did. Otherwise, it would have just said it unbound her from the System.
+
+Would she be free of the consequences of breaking her fey bargains? Or did those count as her being willingly bound? Would she be immune to restraining Skills? Would she be immune to handcuffs? What would immunity to handcuffs even look like? How far did the Skill extend?
+
+I’m going to need to experiment with this. A lot.
+
+But unfortunately, now was not the time. She barely had any more answers than when she had entered, but the present moment was quite possibly the worst time to spend hours in her soul, pondering her Skill. And there was no chance of getting any alone time to experiment in the Dungeon.
+
+Well, maybe I can sneak away when it’s my turn on watch… she thought. Or Sophie’s would be better. I wouldn’t want to leave them undefended.
+
+For now, though, she had a vague solution to her issue. As long as her soul form was touching the System web, it seemed she wouldn’t have an issue accessing System features, which was enough for the Dungeon. She took her arm and hooked it around the binary thread to make sure she stayed connected, then exited soul meditation. Once she was out, she checked her connection to the System and sighed with relief when she was able to view her Status Window. She could even use her Skills, briefly testing {Telekinesis} on a small pebble nearby.
+
+“How is it?” asked Telvir, noticing her return.
+
+“I’m good to go,” she replied. “Resolved the issue. It shouldn’t be a problem.”
+
+Telvir eyed her with naked suspicion, but it was Frank who spoke up first.
+
+“Huh, so I guess you can meditate curses away,” he said. “Good to know.”
+
+“Not exactly…” started Elise. “Actually, kinda, yeah.”
+
+As long as it’s soul meditation…
+
+“Are you sure it won’t be a problem?” asked Telvir.
+
+“Fairly certain,” said Elise. “But it wouldn’t hurt to take things slow.”
+
+“Then let’s do that,” he said. “We’ll slow our pace. If you start feeling strange again, we stop.”
+
+“Sounds good. Everyone get ready to move out.”
+
+They started moving down the tunnel again, albeit at a much slower pace than Elise would have preferred. Every time they ran into monsters, Telvir made them stop so Elise could check to make sure she was alright. She would go into soul meditation whenever they did this, and every time, her soul form was exactly where she left it, clinging to the System web so she could maintain access.
+
+It took six hours of travel this way to get out of the slime zone and into the worm zone. The accelerated as they went further and Elise showed no signs of lingering symptoms, but the atmosphere was still subdued the whole way until they stopped and made camp for the night. The others were clearly suspicious of Elise’s curse explanation, Telvir most of all, and Elise was caught up in her own head, trying to get a feel for the differences between the her before and the her now.
+
+She had not lost any of her combat power from before, but using her Skills now felt weird. They had always been borrowed power, but now they felt even more like that. It felt unnatural, like she was breaking the natural order of things, which she technically was. She could still wield the power just as effectively as before, but she could tell that it was limited. It felt wrong. Like her power was being bound to someone else’s rules.
+
+Is that what Unshackled means? Is that why it blocks the System?
+
+If it considered even Skills to be things that “bound” her, that was both worrying and promising. If her own Skills now couldn’t affect her without her permission, how could the Skills of others? She didn’t know if it would affect physical Skills, but the possibility of being immune to any kind of mental manipulation was exciting.
+
+The other main discovery she made was in regards to leveling up and experience. Or rather, what leveling and experience actually was. Before, she had never really felt it. She knew that when she killed something, she absorbed something from it, and that strengthened her soul, but she had never actually felt it until now.
+
+It was somewhat similar to aether, and in fact might have been a variety of it, but not one she could easily trace. She couldn’t even really detect it. She could only feel it trickling into her soul whenever they killed a monster, and she could feel her soul grow stronger at the same time. She frankly wasn’t even sure if it did come from the monster she killed. After all, if it did, why would it be affected by the difficulty of a battle? There was something more going on that she didn’t fully understand.
+
+Unfortunately, that was about as far as she got in her experimentation as they moved. There wasn’t much else she could test. Not with the others keeping an eye on her, at least. But that could not last forever.
+
+That night, they used their usual watch rotation, with Hannah on watch first, and Sophie on watch at the end. Elise was second, and Telvir and Frank took the third and fourth, since they claimed to need the least sleep. Or at least, they could fall asleep more or less at will, while Sophie and Hannah tended to struggle.
+
+Elise had a brief telepathic conversation with Sophie to explain her plan, and after getting confirmation, went through the night as usual. She dozed off while waiting for her shift, stayed up to watch the camp, went to bed, and was woken up two hours before breakfast time by Sophie gently shaking her shoulder. Elise sat up, checked quickly to make sure the others were asleep, then activated {Don’t Look At Me, Peasants!} and snuck off.
+
+The first thing she did when she got far enough away was test whether her new trait worked on physical restraints. She used {Nature Mana Manipulation} to grow some roots at her feet, trapping her in place, then tried to walk way. To her surprise, it worked. She did not expend any mana, but she did feel a bit of her aether drain as the roots seem to move of their own accord, loosening and getting out of her way as she stepped out from their restraints.
+
+I am immune to handcuffs! she thought excitedly.
+
+She didn’t fully understand how it worked, but she was glad it did. She also didn’t know when she would ever use such a power, but that was fine. She didn’t plan on getting captured, but no one did, usually. It would be a great ability to have in a pinch.
+
+What she was much more interested in is how it would interact with the System. She wasn’t bound by the System anymore, but she could still make use of it. Could she modify Skills, then? Maybe not now, but in the future, probably. And what would happen with evolutions? Quel’Khulan had mentioned something about how monsters evolved when their souls progressed in tier, but she had no idea how that worked. She would love to consult Quel’Tyral, but it sounded like that would be somewhat difficult, given how they had to stay away from everyone.
+
+Hold on… she thought. Does Unshackled mean that the System can’t put a bounty on me either?
+
+She got briefly excited, but soon deflated. It was entirely possible, and even likely that that was the case, but how would she test it? What if it didn’t work? She would be royally screwed if that were the case. It was still best that she reached a level where almost nothing could truly endanger her anymore before she decided to mess with that. As strong as her new power seemed, she didn’t fully trust it against the full might of the System, or the ones behind it.
+
+As she theorized, she continued walking deeper into the tunnels until she located an aether signature on her periphery. It felt like a wyrm, and it seemed to be asleep. That was perfect for her, as one of the things she wanted to do right then was get a feel for how leveling actually worked. If she could figure out how to empower her soul without fighting and killing, that would be a huge leap forward. Perhaps if she got good enough, she could eventually teach Jag!
+
+Before she could even get close to the wyrm, though, another aether signature appeared from behind her. She tensed and turned around, preparing to defend herself, but after a second or two, she realized she recognized the aether signature. It was Telvir.
+
+“Eleanor,” he said when he caught up. “If that’s even your real name. We need to talk.”

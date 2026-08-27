@@ -1,0 +1,81 @@
+---
+id: fe89dafd-80ef-553f-afa1-c63256bb8a4d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1638 - Mutation Suite pt 2"
+slug: 0287-chapter-1638-mutation-suite-pt-2
+partOf: chrysalis
+position: 287
+ownLength: 1520
+unit: words
+ownProgress: 1520
+publishedAt: 2025-09-04
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2572645/chapter-1638-mutation-suite-pt-2"
+royalRoadId: "2572645"
+markedReadAt: "2026-06-29T19:52:59.656Z"
+---
+
+Carriflare, for some reason, has many stories and legends passed down amongst their followers. Either the Kindling Cult of the Hell Flame is more creative than the rest of us, or the Ancient did indeed interact with their forebears more than their peers.
+
+Whatever the reason, Carriflare’s power isn’t difficult to conceptualize: it burns. An entity of living flame, the Ancient is possibly an elemental, born of the fourth stratum, that has evolved to the very pinnacle of what is possible. According to the Cultists, all things burn in the presence of Carriflare, even that which has no form. When pushed to explain, they will tell tales of when the Ancient burned time itself, though for what purpose, they are less forthcoming.
+
+Regardless, it is widely believed that Carriflare is fully capable of burning mana itself, making them invulnerable to almost any form of magical attack. The devastating offensive potential of such a flame does not need to be stated here.
+
+-           Excerpt from ‘Collective Wisdom of the Cults’ by Granin Lazus
+
+With the brains dealt with, the triad turned their collective attention to the next organ they needed to handle. Anthony’s musculature was fully mutable, and had been almost exclusively mutated to enhance its ‘burst’ potential. He was able to unleash extremely explosive power from his muscles in very short spans, making the crunching impact of his bites truly punishing. It also meant his dashes and dodges were extremely rapid, which synergised beautifully well with his foresight, making him a truly elusive target, despite his size.
+
+The triad considered his body and realised Anthony had likely never realised he was suffering innumerable tear and strain injuries as a result of his musculature. His tendons weren’t mutable and couldn’t stand up to the explosive release of energy, leading to numerous tears, and his muscles themselves showed signs of wear from repeated healing. His ability to flush his body with regeneration fluid at a steady rate thanks to the Vestibule had allowed him to largely ignore the problem, along with the healing the strange organ provided as well.
+
+In truth, his musculature could do with a reset, and his tendons definitely needed to be made mutable, regardless of other decisions, but for now, they sought out a mutation that would help emphasise Anthony’s strengths. The triad was loath to lean any further into explosive power, not without something to compensate for the damage that was done, so they avoided the mutations that worked solely to improve that aspect of the muscle.
+
+After debating back and forth about the merits of several options, they narrowed the choices to two.
+
+Histone-Veined. An interesting mutation that would inject an area of muscle under tension with a compound that would harden and toughen the fibres, allowing them, for a short time, to withstand far greater punishment and unleash even greater kinetic energy. This option killed two birds with one stone, preventing injury and increasing power.
+
+Regen-Fluid. Parts of the triad wanted to approach the problem from another angle. If Anthony was going to injure himself unleashing tremendous power, why not select a mutation that would simply recover the damage as efficiently as possible? This would allow him to further push himself, unleash greater strength, and the damage wouldn’t matter.
+
+This mutation manipulated the muscle tissue and liquified it the moment it was damaged, repairing torn cells and reforming them in fractions of a second. Combined with Anthony’s Vestibule whisking away fatigue, this would allow him to fully utilise the options he’d selected so far and operate at peak strength for longer.
+
+Ultimately, they chose Histone-Veined, but resolved to try and reset his muscles if the budget would allow. His eyes and legs would be first, but there might be room for more depending on evolution choices.
+
+The Sub-Neural Network was an interesting addition to Anthony’s suite of organs. If he’d known he could make his own nervous system mutable, he might have done so rather than add an additional nervous system to his body. Making his actual nervous system mutable and then aiming for a fusion down the line could be an effective choice, depending on the options presented.
+
+As it was, the sub-neural network acted as a bypass of sorts, sending information rocketing back to the brain far faster than his own nerves could hope to achieve thanks to his mutations. With his recent mutations, his legs could dodge without the stimuli even reaching his brain, enhancing his reaction speed even further.
+
+If the triad were honest, it was one area where Anthony had actually managed to properly coordinate his mutations and organs, giving him an enormous defensive advantage.
+
+They carefully examined the list of +35 mutations, looking for something that would continue to apply the strengths that Anthony had applied to it. Reacting quickly was immensely useful, though it would grow more difficult as he continued to grow larger. His gated subneural network helped to combat that, but it could only do so much.
+
+Ultimately they found an option they were happy to settle on.
+
+Cortex-Infused. A useful upgrade to the Coordinating mutation that placed bundles of nerves along the network, allowing it to act without direct influence of the main brain. This mutation took it ever further, enhancing the processing power of the nerve bundles, allowing them to do more, reacting better and faster without having to wait for an actual brain’s processing. In essence, this single mutation was like placing six small sub-brains in Anthony’s legs without having to pay any evolutionary energy for the privilege. Combined with his brain mutations, his mental processing would receive a massive boost from all this streamlining.
+
+The Regeneration Gland was an important organ for any monster to have. The fluid that was generated within was a strange concoction that Shapers had studied for generations. It was believed the liquid closely resembled the ‘living mana’ that most monsters were born from—not quite raw energy, not quite living tissue, but something in between.
+
+Pumped through the body, it would rapidly transform into cells to repair damage to any part of the body. Sadly, it didn’t work so well in non-monsters. There had been secretive experiments conducted all over the world, with horrifying results.
+
+What worked for monsters was clearly not intended to work for mortals.
+
+After his initial mutation, which increased the speed at which the fluid would regrow his limbs, Anthony had dedicated every subsequent mutation to increasing the speed at which the gland refilled. Combined with the benefits of his Vestibule, Anthony was able to refill the gland with almost hilarious rapidity, but he had never mutated to increase the capacity or efficacy of the regeneration fluid itself. This made the triad’s job particularly easy. After all, to maximise the benefit of the rapid refill pace, any mutation that improved those two aspects would have an enormous impact on the potency of his regeneration gland.
+
+After investigating, they selected a mutation that worked similarly to the brain mutation they had looked at earlier.
+
+Gravitation-Well.
+
+Although it would cost Anthony more of his gravitational mana, and it wasn’t cheap either, this single mutation would have the largest impact on both capacity and quality. Able to hold much more regeneration fluid, and concentrating the fluid itself, Anthony would receive close to double the healing every time he triggered the gland. With the rapid refill mutations and Vestibule, he would still be able to use it with absurd frequency as well. He was effectively invincible against slowly accumulated damage at this point; only significant strikes that inflicted major injuries would be enough to worry him, and not for long.
+
+Which left the immensely important Gravity Mana Gland itself. Reset and formed of Resonant Well Stone, a material that seemed specifically tuned to mana of this type, Anthony had so far mutated the organ to +15, increasing his capacity at each step.
+
+This made sense, since his spells appeared to need vast quantities of the stuff. The Resonant Well Stone not only empowered those spells but increased the regeneration speed of the organ, which helped him have mana available more often, but it would certainly help to improve the regeneration speed.
+
+The triad improved capacity again at +20, then refill speed at +25, then opted to emphasise the refill speed.
+
+This would help Anthony have more mana available more often, but the +35 was the big ticket item, and again, there were many options that would work. Increasing the density of the mana was always valuable, and further increases to capacity wouldn’t go far astray either. Ultimately they found one that seemed like it would be… rather interesting.
+
+Field-Feast.
+
+It wasn’t easy for the triad to understand, and they had to disturb Anthony briefly for a quick word, but he seemed to approve, which was positive.
+
+Ultimately, the mutation would allow the organ to draw on gravity fields that were affecting Anthony, bleeding off some of their power and turning it into more mana. According to Anthony, that meant he could effectively make himself lighter, reducing the grip the planet itself had on him.
+
+They locked it in.

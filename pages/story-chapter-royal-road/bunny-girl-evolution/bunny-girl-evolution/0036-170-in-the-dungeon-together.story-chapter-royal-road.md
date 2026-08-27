@@ -1,0 +1,146 @@
+---
+id: 12ff35f0-ce4e-5b5e-bb88-abd4a1b04c2f
+page-type-slug: story-chapter-royal-road
+title: "170 - In the Dungeon Together"
+partOf: bunny-girl-evolution
+position: 36
+ownLength: 2863
+unit: words
+ownProgress: 2863
+publishedAt: 2026-02-07
+link: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3021298/170-in-the-dungeon-together"
+royalRoadId: "3021298"
+markedReadAt: "2026-06-29T20:03:49.353Z"
+---
+
+Sophie’s question demolished Elise’s plans for the night, but she didn’t mind too much. Taking Sophie down into the Dungeon was no trouble at all, and in fact, she thought it was a very good idea. In the Bronze areas, Elise could easily protect her from any threat, and getting Sophie some practical experience in combat was important. Especially given Titania’s warning. She wanted Sophie to at least be able to defend herself when whatever calamity was coming arrived.
+
+Irylax thought it was a good idea too, saying no disciple of hers should be unable to defend herself, and while Nick was a bit hesitant, he ultimately agreed it was a good idea too. While he was worried about his sister’s wellbeing, he of all people understood the importance of making sure she could defend herself in the case of unforeseen circumstances. If Sophie had been put in the same position as either him or Bianca, she likely would have died.
+
+With permission from both people who mattered, Sophie’s energy immediately returned, and she scarfed down the rest of her meal before sprinting upstairs to prepare her clothes. Nick, Bianca, and Elise shared a round of stifled laughter at her sudden attitude turnaround, then Elise quickly finished her own food and got ready. Her preparations were basically already done, since she was wearing the changeling outfit as usual, and her spatial storage was still set, so almost immediately after Sophie returned, they left.
+
+On the way there, Sophie was filled with more nervous energy than Elise had ever seen, and almost ran out of breath with how much she was talking. She talked about the lessons she had learned in class, and the private lessons that Irylax gave her at night, and all the different attack and defense spells she had been practicing, and her mana capacity, and basically just spewing her anxious stream of consciousness nonstop. Elise listened calmly with an amused smile, picking out the useful bits of information to get somewhat of a grasp on Sophie’s abilities. She already had a decent understanding of her raw output and mana capacity from Practical Combat class, but with {Mana Manipulation}, her magic was so incredibly versatile that it was good to get a rundown on exactly what she could do.
+
+As soon as they reached the Dungeon entry point, Sophie stopped speaking entirely and began nervously walking a half step behind Elise as though she was trying to hide from the gazes of the older students. Elise thought this was a little funny, since Sophie was already at least an inch taller and seemed to be in the middle of a major growth spurt, so hiding behind Elise wasn’t very effective.
+
+The staff member at the Dungeon entrance gave Elise’s silver Dungeon Pass a cursory glance, then nodded and gestured inside.
+
+“Make sure you don’t go into the silver zones,” he said with a yawn.
+
+“Got it,” said Elise.
+
+Once they got passed the entrance, Sophie let out a sigh of relief, as if she somehow didn’t believe she’d be allowed in, and then after the sigh, she grew somehow more tense. This close to the Dungeon entrance, there would be almost no monsters, and any that were there would be fresh spawns with no experience, but she jumped at every sound, even flinching at the echo of her own footsteps.
+
+“Relax,” said Elise. “We’ll take things slow.”
+
+“O– Okay,” Sophie replied, not relaxing.
+
+“Wanna know a secret?” asked Elise using {Whisper}.
+
+Sophie looked over at her in confusion, then nodded.
+
+“I can control the monsters in this area.”
+
+“What?” asked Sophie.
+
+“I’ll show you when we find one. I can literally control the monsters here. I can make sure they don’t attack you until you’re ready.”
+
+“Really?”
+
+“Really. Actually, we’re coming up on one right now. I’ll show you.”
+
+They were still fairly close to the entrance, and there were other students within who had cleared out some of the monsters, but right at the edge of her senses, Elise had sensed the mana and aether coalesce into a monster. It was actually a very interesting experience, since the last time she had witnessed a monster spawn, she had neither mana nor aether sense, and had not really thought about it. Now she was curious how it all worked. Why did monsters just pop into existence instead of breeding? Why were humanoids different? It didn’t really matter, but she had a sudden urge to explore the Dungeon more thoroughly and try to find more fresh spawns to observe.
+
+If I got {Mana Manipulation} and {Aether Manipulation} would I be able to create monsters? she suddenly wondered.
+
+It sounded crazy, but aether seemed to make up the soul, while mana was used to create the body. No doubt it was much more complicated than she was imagining, especially if she had to build all the biological systems from scratch, but was it technically possible? That would be a question she’d have to save for Oberon. Thinking of him reminded her that she wanted to talk to him again. She had sent him a message via Ostra telling him about what Titania said, but she had not spoken to him in person since she left Everspring.
+
+Maybe I’ll take a day trip up there tomorrow.
+
+She didn’t consider that idea any more though, because by the time she thought it, she and Sophie were already coming up on the fresh spawn. They had entered a different part of the Dungeon than Elise had been in last time, so the monsters were different as well. Rather than spiders rats, and bats, this area had more elemental beasts, and the one before them was something called a Lesser Rock Crawler. It looked like a beetle made of rock, and was about the size of a roomba. It’s only threatening feature was a pair of pincers on its front, but given that it was only a Tier 2 beast, Elise wouldn’t have been surprised if it couldn’t even do serious damage to her own weak body.
+
+Despite its weakness, as soon as Sophie saw it, she froze up, and Elise could sense her mana start to move. She was glad that Sophie was at least doing something, but it was clear at this point that just throwing her into the deep end was a bad idea, so she raised a hand to calm her.
+
+“Stop,” she said.
+
+The word had two purposes. The first was to keep Sophie from doing anything, and the second was to give a {Royal Decree} to the monster. Sophie did not fully release her mana, but she stopped whatever spell she had been preparing, looking at Elise as though waiting for her instruction. The Lesser Rock Crawler, meanwhile, stopped dead in its tracks about a dozen yards away, staring at them with twitching, rocky antennae.
+
+“See?” she said to Sophie. “Nothing to worry about. I can keep them from attacking you indefinitely.”
+
+Sophie stared at the frozen rock bug in disbelief, then looked back at Elise with a nervous smile.
+
+“Are you ready?” asked Elise. “I’m going to release it. This monster has a bit of a tough hide, since it’s made of rock, but it’s still only Tier 2. A simple {Magic Missile} should be more than enough to kill it.”
+
+“Wait, hold on,” said Sophie, taking in a deep breath.
+
+“You can take your time,” said Elise. “But don’t take too much. It’s not going to get any easier if you wait longer. And if this was a real fight, you wouldn’t be able to wait at all.”
+
+“Okay,” she said, nodding seriously.
+
+Sophie closed her eyes for a few seconds as she took a deep breath in, and when she opened them, she looked much more focused. Elise could still sense her nervousness, but she could also sense her resolve, and nodded in approval.
+
+“I’m ready,” said Sophie.
+
+Without waiting, Elise released the rock bug from her control. Sophie’s eyes widened slightly, clearly not having expected Elise to release it so quickly, but she reacted well, summoning a volley of mana projectiles and launching them at the bug. The first one missed, striking the ground in front of it, but the second hit right on its back, cracking its shell, and the third shattered it, killing it. The fourth and fifth hit the falling corpse, breaking it into more pieces, and once the spell had run its course, the Lesser Rock Crawler was nothing but a pile of broken rocks and bug guts.
+
+“That…” started Sophie. “...Was easy?”
+
+“All the monsters in this area are incredibly weak,” said Elise with a smile. “You have a full two Tiers on that little guy. It wasn’t even a fair fight.”
+
+Sophie nodded, still looking at the dead bug. She seemed lost in thought for a few seconds, then shook herself out of it, and looked back at Elise.
+
+“Alright. Let’s do more.”
+
+For the next half hour, they made their way through the Dungeon, Elise picking up on monsters with her {Aether Sense} and Sophie killing them. The second bug they found, Elise used {Royal Decree} to stop it and let Sophie prepare, but every monster after that, she let it rush forward unhindered, making Sophie deal with it on her own. The half-elf girl was still rather nervous for the first few, but by the time they killed their tenth Lesser Rock Crawler, the nervousness was almost completely gone, replaced by tentative confidence. She wasn’t quite at the point of complete comfort, but she had finally gotten it into her head that the monsters were not strong, and if she was proactive, they were even less of a threat.
+
+As they walked, Elise kept a close eye on the paths they took, trying to lead them as far from other students as possible. It was customary in the Dungeon to bring chalk to mark the walls when going hunting to keep other students from following too closely, so whenever they arrived at a fork in the tunnels, they tried to choose the path without chalk. That was sometimes impossible in the beginning, but the further they went, the less chalk there was, and by the time the half hour ended, they had reached a part of the Dungeon that they were mostly confident was unoccupied.
+
+With no one else around, they were able to talk a little bit more openly, and as they walked between fights, Elise explained some of her own tactics while hunting. She would not consider herself an expert, but as she talked, she was surprised at how much she had actually learned thus far, and how much she had to teach Sophie. Her method of hunting wasn’t necessarily the same one that Sophie would use, but her early habit of carefully studying her targets and mapping out their movements so she could use {Suggest} better had given her some excellent observational habits that she was happy to pass along to Sophie.
+
+Sophie had her own base set of knowledge from the few times she had gone hunting with her father. Their “hunting” was mostly for tier 1 animals like rabbits and deer, which were not at all dangerous, but many of the general principles still applied, so Sophie was able to pick things up fairly quickly.
+
+By the time another hour passed, Sophie had more or less settled into a rhythm. They were still in the uppermost levels of the Dungeon, so the only monsters they found were Tier 2, with the very occasional Tier 3, so there was never any real danger. Elise had basically stopped participating entirely, not even informing Sophie of approaching monsters, and letting her hone her reactions and instincts.
+
+They soon stumbled across a fork in the cave where one tunnel descended down into a deeper layer of the Dungeon, at which point they both paused. Both of them wanted to descend further, but while Sophie was thinking they would just be doing more of the same, Elise had a different idea. Even if they went deeper, the strongest monsters they could possibly find would be early 4th tiers. Sophie was an early 4th tier herself, but unlike the random monsters that spawned in the Dungeon, she was a half-elf, and benefited from having a Legendary Class since 2nd tier, and a Mythic Class now. While she was technically at the same Tier as them, stat-wise, she was essentially a 5th tier compared to them, and that wasn’t even counting all the powerful magical abilities she had that they didn’t. Using the same hunting method a layer down might have a brief adjustment period, but it wouldn’t be long before Sophie no longer benefited from that either.
+
+Therefore, Elise proposed something else.
+
+“Why don’t you try going down alone,” she said.
+
+Sophie looked at her, wide-eyed.
+
+“Wh– what do you mean?”
+
+“What do you think I mean? When you’re with me, you know you have someone to rely on. You relax your guard. You know that even if you fail, I’ll be right here to stop anything bad from happening. But that’s not how it is in the real world. Even with teammates in the Dungeon Competition, your teammates won’t always be able to have your back. There will be things you need to take care of on your own with no guarantee of safety. Traveling like this is good for getting you used to it, but you’re not getting any proper hunting experience this way.”
+
+“B– but I don’t have a Dungeon Pass,” said Sophie. “And aren’t the monsters stronger down there?”
+
+“They are, but you’re still way stronger than them. If we do what we have been doing, you won’t really learn much. It’ll be a little stressful at first, but you’ll get used to it after a few minutes, and then you won’t gain much more. You still won’t have any real hunting experience.”
+
+“I don’t know…” said Sophie nervously.
+
+“You want to join the Dungeon Competition, right?”
+
+Sophie nodded.
+
+“Well, you only have a couple weeks to prove that you’re ready. And before that, you need to prove to Professor Sucri that you’re ready to have your own Dungeon Pass. And to do that, you need to be able to hunt on your own.”
+
+Sophie looked like she was wavering, but not quite there yet, so after a few seconds, Elise gave her one final push.
+
+“You’re the disciple of a dragon. You should be able to handle just this much, right? Dragons have nothing to fear from a few rocky bugs.”
+
+After a few more seconds of hesitation, Sophie finally nodded.
+
+“You’re right,” she said. “I– I need to be able to do it on my own. I’ll– I’ll do it. I’m gonna do it!”
+
+She spoke the last sentence with more confidence, but it seemed like it was more to reassure herself than anything else. Elise gave her an encouraging smile, and nodded toward the tunnel.
+
+“Don’t worry,” she said. “I’ll be right here. If things get too dangerous, or you don’t think you can go on, just run right back. I’ll be ready to protect you.”
+
+“O– okay.”
+
+Sophie turned and hesitantly started walking. She glanced back at Elise a few times to make sure that she was being serious, so it took much longer than it should have, but eventually, she disappeared from sight. As soon as she did, Elise immediately activated {Don’t Look At Me, Peasants!} and flew down the tunnel afterward. She had talked about the importance of independence, but never for a moment did she actually intend on letting her adopted sister brave the Dungeon alone. The experience would be important for her, but Elise didn’t want to put her in actual danger.
+
+Soon, she caught up to Sophie, who had her {Dragon Eyes} activated, and was moving very cautiously, triple-checking every corner. Even with her {Dragon Eyes} though, she never looked at Elise. She had figured this would be the case, since regardless of whether Sophie could see aether, {Don’t Look At Me, Peasants!} was a mental Skill that prevented Sophie from acknowledging Elise’s existence, not a Skill that literally hid her presence. Regardless of Sophie’s observational Skill, she would not be able to see Elise. Which was perfect for what Elise wanted.
+
+Sophie’s slow pace, however, soon proved to be a problem. There were no monsters nearby, and at the rate they were going, they might not ever run into one. Elise waited for a quarter hour or so, hoping something would change, but nothing did, so she decided to take matters into her own hands. She made sure that there was nothing in the immediate vicinity, then used {Fey Wings} to shoot off deeper into the tunnel in search of a proper opponent for Sophie. It didn’t take too long to find one, a simple Rock Crawler, the evolved version of the little stone beetle, and once she located it, she started using {Royal Decree} to force it in the right direction. A minute later, she released it, just as it entered Sophie’s line of sight.

@@ -1,0 +1,245 @@
+---
+id: 2e1465e5-d15c-5fe3-b679-4c9d271fc1e9
+page-type-slug: story-chapter-royal-road
+title: "33: A Not so Small Favor"
+slug: 0033-33-a-not-so-small-favor
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 33
+ownLength: 2387
+unit: words
+publishedAt: 2025-09-17
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2607639/33-a-not-so-small-favor"
+royalRoadId: "2607639"
+---
+
+Chloe and Baron Willy sat across from each other. For some reason, the Baron looked even more nervous than usual. He cleared his throat, folding his hands. “I wonder if I might inquire as to your willingness to lend your considerable talents to a matter of both personal and professional significance. One which, I must confess, holds the potential to secure not only my own financial stability, but also the continued livelihood of my loyal staff.”
+
+Chloe blinked at him. “Uh… what?”
+
+The Baron cleared his throat. “As you are aware, my present circumstances leave much to be desired in terms of liquid capital. My resources remain… regrettably diminished. However, my brother, currently residing in the northern city of Evergale, has cultivated a most prosperous enterprise in the sale of luxury fur coats. It is my hope to negotiate with him, to temporarily assume stewardship of the family business in exchange for a reasonable salary, thus ensuring I can maintain my obligations to my employees and household.”
+
+Chloe tilted her head. "What?"
+
+He sighed, just a little, and finally switched to plain speech. “I need to travel north to see my brother… and I want you to protect me on the way.”
+
+“Okay, but what’s a brother?”
+
+Baron William froze, staring at her. His mouth opened. Closed. Opened again. “A… brother is a male sibling. He's also my friend, if that helps."
+
+“Ohhh,” Chloe said, nodding like it all made sense now. “Okay.”
+
+Baron William leaned forward slightly. “So, Chloe… will you help me?”
+
+“Hmm, nah.” Chloe said.
+
+“May I ask why not?”
+
+“Because, I don’t see what’s in it for me.”
+
+“Well, if you assist me in reaching Evergale, I can arrange for payment. Not immediately, of course, but—”
+
+“Yeah, see, I don’t like that ‘eventually’ part. And besides, I don’t really care about gold.”
+
+The Baron gave her that look. Then, he launched into this whole thing about the importance of travel safety, the glory of the great northern city, and how her help would be “mutually advantageous.” Chloe caught maybe three words before her brain wandered off to imagine a dragon wearing a fur coat.
+
+“I just need your help to get there,” he was saying when she tuned back in. “Once we arrive, you may do whatever you wish.”
+
+“Yeah, no, I’d rather stay here and do bounties. Y’know, fun stuff.”
+
+“Surely there are worthy targets in Evergale as well? Or at the very least, could you not attempt to find some?”
+
+“Okay, but why are you so desperate for me to come along? Can’t you just hire someone else?”
+
+Baron William paused, then exhaled heavily.  “The unfortunate truth is that I simply cannot afford competent guards with my current means. I know the road to Evergale well enough, but even by carriage the journey will take weeks. And after my last… unpleasant encounter with bandits, I have no wish to tempt fate again. You are far stronger than any guard I could hire, which is why I am asking you to at least consider accompanying me. And rest assured, should matters proceed as I hope, I will see you properly compensated for your services.”
+
+Chloe drummed her fingers against the chair, thinking it over. I mean, Baron Willy's been decent enough so far. Annoying, sure, but decent. And he did get me that scholar like he promised… even if she didn't end up as a brain snack.
+
+“Fine, I’ll help you. But only on one condition, ” Chloe said.
+
+William’s shoulders loosened. “And the condition?”
+
+“Only if I can find a good bounty for someone in Evergale. No bounty, no trip.”
+
+“That is… fair enough."
+
+“Good. I’m off then. If I find something cool, I’ll let you know. But if I don’t, well… you’re gonna have to drag someone else along for your trip.”
+
+Baron William just stared at her for a long moment. “…Yes. Of course.”
+
+Chloe bounced out of Baron Willy’s room with a little skip in her step. She’d gotten him to agree to her terms, which in her book meant she’d basically won the conversation. And winning always felt good.
+
+She zipped out of the estate, darting through Kelvane’s streets at a pace that earned her a few startled looks, until she finally burst into the Thieves Guild. It was its usual noisy self.  Roxy, the bartender, glanced up when the door creaked.
+
+“Hi, Roxy!” Chloe called, waving.
+
+Roxy gave her a small wave back before sliding a mug to some guy with more beard than face. She looked busy, so Chloe made a beeline for the bounty board and looked at what was available.
+
+Chloe skimmed fast, looking for any bounties that looked interesting. But she came up short this time around.
+
+All she found were scraps. Some pickpocket causing trouble in the market. A smuggler who liked hiding in the sewers. And… a merchant who did… merchant stuff? Chloe wasn’t even sure why that one had a bounty.
+
+She rolled her eyes so hard she was amazed they didn’t fall out, almost giving herself a headache in the process. Ugh. Where’s the fun?
+
+With an exaggerated sigh that probably turned a few heads, she spun on her heel and headed upstairs to Ray’s office. If anyone had something worth her time, it’d be him.
+
+She pushed the door open without knocking. Ray sat behind his desk, boots propped up, hat tilted low enough to shadow his eyes. When he saw her, his mouth twitched into a smile. “Ain’t you a sight. What brings you up here today?”
+
+Chloe shut the door and strolled in. “Got anything interesting? Because all the bounties downstairs are boring. I need something good.”
+
+“And what’s ‘good’ to you?”
+
+“Something dangerous. Or mysterious. Or, y’know… with someone who looks like they're really good at magic."
+
+Ray leaned back in his chair, one hand tapping thoughtfully at his jaw. “Since you’re sittin’ at C rank, I reckon I can show you some of the more… selective work. Not the kind we hand out to greenhorns.”
+
+Chloe dropped into the chair in front of his desk. “Ooh, secret bounties? Show me!”
+
+He smirked, reached into a drawer, and pulled out a small stack of folded posters. “Alright, here you go. Have a look. Can’t promise they’re all gems. Might be better than the junk downstairs, might not. I ain’t sorted through ’em yet.”
+
+Ignoring Ray, Chloe snatched them up without hesitation, flipping open the first sheet.
+
+Wanted: Grig Talltooth
+
+Minimum Recommended Rank: C
+
+Reward: 200 gold
+
+Description: Infamous street bruiser and self-proclaimed “Champion of the Alleys.” Wields a pair of clubs and picks fights purely for his own amusement. His bite is said to be strong enough to crush through metal.
+
+Wanted: Marla Veyne
+
+Minimum Recommended Rank: C
+
+Reward: 220 gold
+
+Description:  Once a traveling dancer, now a skilled combatant who uses charm to distract her targets. Wields enchanted daggers with precision, capable of striking before opponents can react. Her quick footwork and concealed magical blades have proven fatal to those who try to pursue her.
+
+Wanted: Ynett the White Witch
+
+Minimum Recommended Rank: B
+
+Reward: 500 gold
+
+Description: Highly charismatic and dangerous magic user. Leads a fanatical cult entrenched in northern Ishgria. Approach with caution.
+
+Chloe squinted at the poster. “Huh. This Ynett lady’s got way fewer words on her than the others. What gives?”
+
+Ray adjusted his hat and gave a small chuckle. “Ain’t that. Truth is, we don’t got much on her. Even that sketch there? More guesswork than fact.”
+
+“So why don’t they have intel on her? She super good at hiding or something?”
+
+“That’s one way to put it. Hard to find, hard to track… usually means trouble."
+
+“Okay. This Ynett person sounds interesting.”
+
+“Chloe, I'm warnin' ya, Ynett is no joke. Even seasoned bounty hunters think twice before goin’ after her."
+
+“Yeah, but that just makes her sound even cooler! I bet her brains taste amazing.”
+
+Ray gave her a long, slow stare before shaking his head. “You ever stop to think about how you sound sometimes?”
+
+“Nope,” Chloe said.
+
+Ray just shook his head again, muttering something under his breath before rummaging through a set of drawers. Papers rustled as he sifted through them, pulling out a few and scanning them before tossing them aside. Finally, he paused on one sheet.
+
+“Y’know, from the reports we’ve got, Ynett has even managed to convince a few members of the Thieves Guild to join her little cult. And yeah, that includes people who were goin’ after her bounty.”
+
+“Wait, what? How does she do that? Like… convince people to do stuff for her?” Chloe asked.
+
+“If I had to guess… she’s probably got access to charm magic.”
+
+“Charm magic?”
+
+“It's rare stuff. Most folks’ll never touch it in their lifetime. The spread and use of it’s been banned in most countries, but, it doesn’t mean there ain’t people out there still usin’ it.”
+
+"Okay, but like, what is charm magic?"
+
+"Well, reckon it’s the kinda magic that messes with a fella’s head. Gets folks doin’ things they wouldn’t rightly do on their own. I just call it mind control magic, plain an’ simple. Takes a real advanced spellcaster  to pull it off, too. Like I said, usin’ it, or even studyin’ it, gets outlawed most everywhere. So if this Ynett gal’s usin’ charm magic, she ain’t no ordinary witch."
+
+Chloe bobbed her head so fast she nearly bounced out of her seat. “Yeah yeah! And I’m sooo gonna get her, just you watch!”
+
+Ray held up a hand. “Now hold your horses. You oughta prepare first. What if she turns that charm magic on you and next thing I hear, you’re wearin’ strange robes and preachin’ her gospel?”
+
+Indeed, that would be pretty bad. Chloe didn’t exactly feel like doing stuff for someone else forever. But then a thought popped into her head. Wait…
+
+“Oh! I’m fine! I’ve got a Charm Resistance skill actually."
+
+“You do? How in the blazes did you pick up somethin’ like that?”
+
+“It’s a secret."
+
+Ray narrowed his eyes. “Right. So you figure that’s enough to keep you safe?”
+
+“Yup! Means I can go after her without worrying, right?”
+
+“Well, she’s still got plenty of other magic up her sleeve. But… I get the feelin’ there’s no talkin’ you out of this one."
+
+"Yeah… I really wanna go."Ray rubbed the back of his neck with a slow sigh. “Reckon you oughta head to Evergale first. Guild’s got a branch there, run by a friend o’ mine, name’s Iris. She’ll know more ’bout Ynett than I ever will. I’ll give you a letter so she knows you’re one of ours, save you the trouble of havin’ to prove it.”
+
+"Kay, thanks, Ray!"
+
+It looked like Chloe was heading to Evergale after all. Which also meant being stuck with Baron Willy. Still, if putting up with him was the price of admission… fine. It would be a small price to pay for a delicious brain.
+
+***
+
+The carriage rocked gently as it rolled over the uneven road. Inside, Sabine sat with one leg crossed over the other, a small paper packet of roasted peanuts balanced neatly in her hand. She cracked one open with a twist of her fingers, popped the kernel into her mouth, and let the shell fall back into the packet.
+
+Across from her, a hooded man sat perfectly still, his hands folded in his lap. Sabine extended the packet toward him. “Peanut?”
+
+The man inclined his head just enough to be polite. “No, thank you.”
+
+“Are you quite sure? They’re rather nice.”
+
+"Did you forget I was allergic to peanuts?"
+
+"Well, that's news to me."
+
+She shrugged lightly, taking another for herself. The warm, salty crunch filled the brief silence until the man finally spoke again.
+
+“So,  how was your little errand?” The man asked.
+
+Sabine allowed herself the faintest smile, brushing a stray flake of shell from her lap. “It was productive. In fact, I even came face to face with a Champion of Chaos.”
+
+“Oh? And what is this champion like?”
+
+Sabine cracked another peanut between her fingers, the shell breaking with a quiet snap. “Oh, she’s… lively. Smug, loud, and far too confident for her own good. A little air-headed, perhaps. But undeniably entertaining.”
+
+The man let out a short, amused breath. “How did a champion like that even survive this long?”
+
+“In her defense, she is far stronger than she appears. She casts without chant or medium, which is rare enough. And her resilience is… impressive. I struck her with a shock that would have killed most, and she merely swayed on her feet while feeling dizzy.”
+
+“You’ve taken a liking to her, haven't you?"
+
+“I simply find her adorable, that’s all.”
+
+The man gave a low chuckle. “Don’t get too attached.”
+
+“I won’t,” Sabine replied, brushing another fleck of peanut skin from her hand.
+
+The man’s eyes lingered on her for a moment before he spoke again. “Do you think this champion might be worth… inducting into Sol?”
+
+Sabine gave a small shake of her head. “Not yet. She could make a decent mid rank member in time, but she’s still a far cry from being anywhere near the inner circle.”
+
+“You’re actually considering her for that level?”
+
+“Only if the right conditions are met. As she is now, Chloe is far too weak.”
+
+“Chloe?”
+
+“That’s her name. And interestingly enough, she bears a strong resemblance to the first queen, if you can believe it.”
+
+The man let out a short snort. “You say that about anyone with white hair and red eyes.”
+
+“How many people with white hair and red eyes do you actually know?”
+
+“Touché. But anyway, I must inform you that Four has finished her preparations.”
+
+Sabine’s gaze sharpened just slightly. “How long until we leave Ishgria?”
+
+“At our current pace, around a week or two to reach the border, assuming we don’t stop too much.”
+
+“In that case, I’m glad that I took extended leave for the semester. Otherwise, I’d never get to do things like this.”
+
+The man gave a short snort. “It's been a while since I set foot in beastkin territory.”
+
+Sabine chuckled, leaning back against the seat. “Then I suppose we’re going to ruffle some feathers. Perhaps quite literally.”

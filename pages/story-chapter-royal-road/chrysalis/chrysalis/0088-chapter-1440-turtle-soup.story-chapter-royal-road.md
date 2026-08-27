@@ -1,0 +1,71 @@
+---
+id: f1bac8ed-819d-576f-9bed-a7525690af25
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1440 - Turtle Soup"
+slug: 0088-chapter-1440-turtle-soup
+partOf: chrysalis
+position: 88
+ownLength: 1151
+unit: words
+ownProgress: 1151
+publishedAt: 2024-10-28
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1871701/chapter-1440-turtle-soup"
+royalRoadId: "1871701"
+markedReadAt: "2026-06-29T19:46:44.868Z"
+---
+
+So, a giant turtle wants to throw down with me? Hah! It’s nothing but a snack in my eyes. Though… it’s a pretty darn big snack.
+
+Now that it isn’t covered by the goop, I can get a better sense of its core, and it’s definitely weaker than mine. This is a tier seven monster who didn’t manage to max out its core at some point along the line, or didn’t push the limits as far as it could have. I have the advantage in evolutionary energy, but that doesn’t mean everything.
+
+This monster has clearly invested much more heavily in its body than I have. The turtle is significantly bigger than me, perhaps double my mass, with that broad shell covering its bulk. Looking carefully, that shell looks like it’s where the bulk of the evolution power has gone. It’s clearly made of an advanced material native to the fifth, the whole thing reeks of the fifth’s unique mana, but more than that, the pulsating holes in the shell tell the real story of the monster’s strengths.
+
+There are perhaps a dozen openings in the shell, and from each of them spews an endless stream of thick goop, coating the shell and running in slow rivulets off the edge and onto the ground. This was the source of the pool all along, created by the turtle. Since it can seemingly control the sludge at will, it's a defensive tool, a useful method of concealment, and a weapon all at the same time.
+
+Confronted by a shiny, heroic challenger, the turtle gathers up the remaining sludge, ready to try and pummel me with it. Well, I’m not about to sit around and let that happen. My mind constructs churn, preparing a host of spells as I position myself carefully, ready to spring in any direction.
+
+First thing to do is try and neutralise the goop. If the turtle is going to use it as a weapon, then getting rid of it seems like a good place to start. The sludge is rising up off the ground now, collecting into an enormous ball the beast is gathering over itself, so that makes an obvious target.
+
+I unleash a stream of Dragon’s Breath, aiming to superheat the slime and burn away as much as I can, but my opponent responds quickly.
+
+Blinded by my own fire, I don’t see the attack coming, and I have to say, without my antennae, I might’ve already been in a bad way in this fight.
+
+I cut off the flame and throw myself into a roll to the right, just in time to avoid another chomp. Ethereal jaws of dark yellow energy smash shut beside me, and I retaliate in kind.
+
+You wanna bite? I’ll show you how to bite!
+
+EMPOWERED VOID CHOMP!
+
+Two mandibles formed of pure darkness form, extending a dozen metres beyond my own as I lunge forward. A screaming void forms between those jaws, dragging everything inward with incredible force as the mandibles slam shut. There’s a colossal impact and everything in front of me goes dark, my vision totally covered by debris, dust and rock.
+
+There’s so much moving I’m actually taken by surprise when a blast of goop swerves around and slams into my flank. I’m sent sprawling onto my side, but I’m not injured. The impact is strong, but with the carapace and plating that I’m packing, it’s not nearly enough to cause any sort of injury to me.
+
+But I don’t think that’s the point. Instead of stopping, the goop keeps pressing, trying to force its way through the gaps at my joints and burn the precious ant within.
+
+Well, we aren’t allowing that to happen….
+
+With all my minds working in concert, I unleash two spells at once. First, an empowered gravity domain flickers into being, covering an enormous space, hundreds of metres in diameter.
+
+Second, an enormous burst of mana flashes before being turned into an avalanche of mud. The target? Me! Buried in my own mud, the stuff instantly hardens, turning into a prison of dense stone faster than a giant turtle can blink.
+
+While this has the unfortunate effect of trapping me, it also cuts off the tide of sludge trying to land on my head, which is convenient while I deal with the slime which managed to get onto me.
+
+Over a few seconds, I manage to shred the goop apart with my mind while the turtle slams more and more of the mucus down on my stone prison. When it finally breaks through, I am, of course, no longer there, having tunnelled out with a combination of earth mana and my mighty face-hands.
+
+Didn’t see that coming, did you, turtle-brain?
+
+I burst out of the ground thirty metres away, and before I even get my feet settled, another searing jet of Dragon's Breath is unleashed. Screeching in rage, the monster turns to face me, and I get a chance to see the chunk missing out of its shell. Looks like my void chomp managed to land after all, but I missed my target. Instead of landing a bite on the beast’s head, I hit the shell right on the shoulder, which doesn’t seem to have hurt it much.
+
+Beneath the empowered gravity domain, the monster is pressed down by the sheer weight of its own bulk, and controlling the mucus, which is unpleasantly dense, isn’t as easy as before. In comparison, I’m as light as a dancer and ready to roll!
+
+I keep the blast of fire going as I circle around the turtle. It tries to retaliate by sending waves of slime at me, but I’m able to keep ahead of them without too much trouble. As long as I’m careful, I can avoid them easily, and if I keep an appropriate distance, I don’t have to fear the turtle's incredibly painful-looking jaws.
+
+What are you going to do now, turtle? There’s like a million ants within range of my Vestibule, all providing a trickle of Will which rapidly turns into a torrent. I’m full of beans. I’m fresh. I can do this all day!
+
+The only thing I can’t do with the Vestibule is turn that gathered Will into mana, but I’ve got a heck of a lot of that in store as well.
+
+We may not be able to use the Biomass of the monsters we defeat down here in the fifth, but the cores are another thing entirely. I’ve been fighting monsters for days and days down here, and I haven’t been letting those cores go to waste.
+
+What I have an incredible abundance of, is gravity mana. The domain draws out a constant stream, but I have oodles more, and using the stuff always gives me a portion back, making my use of it ever more cost efficient.
+
+I guess what I’m saying is, it’s time for bombs.

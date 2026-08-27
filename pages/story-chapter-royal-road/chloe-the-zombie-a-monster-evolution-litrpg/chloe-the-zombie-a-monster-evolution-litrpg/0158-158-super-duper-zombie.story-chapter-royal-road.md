@@ -1,0 +1,183 @@
+---
+id: 86ba9e58-22a9-54db-8fa2-d1cc0fa5327d
+page-type-slug: story-chapter-royal-road
+title: "158: Super Duper Zombie"
+slug: 0158-158-super-duper-zombie
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 158
+ownLength: 1916
+unit: words
+publishedAt: 2026-05-29
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3465213/158-super-duper-zombie"
+royalRoadId: "3465213"
+---
+
+[You have successfully completed your fourth evolution!]
+
+[Your new Species is: Divine Harbinger Zombie – Level 1]
+
+[+1495 Strength, +1502 Speed, +1495 Vitality, +1504 Magic, +1503 Resistance]
+
+That post-evolution glow hit hard, and Chloe loved it. It wrapped around her like a warm spotlight, filling her chest with this bright, buzzing feeling. And of course, if anyone was meant to feel special right now, it was obviously her. Like, objectively.
+
+As her vision slowly cleared, the blinding light faded away and the world came back into focus. The first thing she noticed was how Cloaky was all changed up. The fabric was now a deep, rich red, and it looked more smooth too.
+
+Chloe immediately reached up and patted her cloak, running her fingers over the fabric. “Oooh, look at you,. You’re really fancy now, Cloaky.”
+
+The red fabric felt nice under her touch, heavier than before but in a good way, like it actually meant something now instead of just being there for style points. Cloaky didn’t respond, which, okay, rude, but Chloe just nodded to herself anyway.
+
+She dropped her hand and flexed her fingers next, then her arms, rolling her shoulders with a growing grin as that new energy pulsed through her body again. Oooh yeah, this is the good stuff.
+
+Z was still nearby, of course. But somehow, she had a pair of sunglasses on now, which definitely hadn’t been there before, and Chloe immediately noticed because of course she did.
+
+“Hey, where did you get those?” Chloe asked.
+
+Z didn’t even react like it was a weird question. She just calmly reached up, slid the sunglasses off in one smooth motion, and let them disappear into thin air like it was the most normal thing in the world. “Magic, now, how do you feel?”
+
+“I feel great, duh. This is easily my best upgrade so far.”
+
+“Excellent, and have you reviewed all of your new abilities yet?”
+
+"Oh. Right. That’s a thing.” She scratched the side of her head, then waved a hand in front of her. “I mean, no, but I can do that now, just give me a second.”
+
+[Shadow Wings (Epic) has become Angelic Wings (Legendary)]
+
+[Eyes of Dominion (Legendary) has become True Eyes of Dominion (???)]
+
+[New Trait Acquired: Divine Physiology (Legendary)]
+
+Chloe’s eyes widened as she read through them. “Whoa, okay, that’s a lot. Legendary this, legendary that, and some weird question mark thingies."
+
+Z didn’t even look surprised. “Continue reviewing.”
+
+Chloe blinked at her, then huffed lightly. “Alright, fine,” she muttered, turning her attention back to the floating notifications. More lines flickered into view as she scrolled through them.
+
+[Several skills have been consolidated, would you like to see your revised skill page?]
+
+“Uh,” Chloe said, then shrugged. “Sure?”
+
+[Combat Skills]1. Unarmed Combat X2. Martial Weapon Mastery I
+
+[Utility Skills]1. Thieving VIII2. Tremor Sense III3. Horse Riding IV
+
+[Magic Skills]1. Acid Resistance III2. Acidic Spit III3. Blaze Armor I4. Blood Magic Mastery I5. Charm Resistance VIII6. Divine Magic Mastery I7. Divine Magic Resistance I8. Divine Pull I9. Divine Push I10. Greater Healing Touch I11. Power Surge I12. Quad-Elemental Mastery I13. Quad-Elemental Resistance I14. Transcendent Mana Mastery I15. Wraithlord Arcane Mastery I
+
+[???]1. Heresy VI2. Prescience I
+
+Chloe stared at the list for a few seconds, then she let out a low whistle. “Okay, my skills got super consolidated, huh?”
+
+“You may thank me for that,” Z said. “Skill consolidation not only improves organization, it also increases overall skill efficiency and potency.”
+
+“Wait, really? Thanks Z!"
+
+"You are very much welcome, Chloe."
+
+"Hm, actually, while we're talking about skills. Can you help me with something real quick."
+
+Z glanced at her. “What do you mean?”
+
+Chloe walked right up to Z until she was only inches away. “Heresy and Prescience. Do you know what those two skills work exactly?"
+
+Z’s eyes widened, just a little. It was almost easy to miss, but it was there. “I suppose it was inevitable, given your current trajectory, it was only a matter of time before you acquired them.”
+
+“Uh… okay, that sounded kinda ominous. What do they do?”
+
+Z closed her laptop with a soft click, then dismissed it into the air as it faded away, standing up as she brushed off her clothes. “Heresy indicates that you are beginning to perceive truths about this world and about heaven that are not meant to be widely known. As your understanding deepens, the skill will develop naturally.”
+
+“Okay, but like… what happens if I max it out?”
+
+Z gave a small shrug. “I have no idea. I have never seen anyone reach that point before.”
+
+“That’s not reassuring,” Chloe muttered.
+
+"I understand, but there's really not much that I know about this skill unfortunately."
+
+“Alright, what about this Prescience then?"
+
+“Prescience generally refers to the ability to perceive future events. However, from what I understand, the activation conditions vary between individuals. It is not a uniform ability.”
+
+“So… wait, does that mean I can’t just, like, use it whenever I want?”
+
+"Yes."
+
+Chloe made a face, her nose scrunching up a little as she crossed her arms. “Man, that’s kinda lame, what’s the point of seeing the future if I can’t just turn it on whenever I want? That’s like having snacks but only being allowed to eat them on Tuesdays.”
+
+“Even so, it is still a valuable ability,” Z said. “You should consider it an advantage. I am certain you will find a way to make it useful in the future.”
+
+“You actually mean that?”
+
+“I do."
+
+Chloe stared at her for a second, then her expression softened into a satisfied smile. “Huh. Alright then, guess I’ll figure it out and make it busted somehow.”
+
+She clapped her hands together lightly, her energy snapping right back into place. “Well anyway, we should get going, right? There’s a whole dungeon waiting for me to absolutely destroy.”
+
+“Wait,” Z said, raising a hand slightly. “Before we proceed, have you reviewed the effects of your Divine Physiology trait?”
+
+Chloe paused mid-step, then glanced back. “Oh, yeah, I got that one. That reminds me, what does it actually do?”
+
+“In simple terms, it will significantly enhance your overall physical capabilities and magical prowess, however, to fully observe its effects, you would need to sustain some degree of damage.”
+
+“Okay… can you be more specific than that?”
+
+“I could display the full description for you.”
+
+Chloe immediately waved her hands. “Nope, never mind, I’m good. am not in the mood for more reading right now, so I'll just find out the fun way.”
+
+Z let out a sigh. “Very well. Then let us proceed.”
+
+Chloe turned forward again, scanning the area before her gaze dropped to the massive hole in the ground nearby. She stepped closer to the edge and peeked down, squinting. “You know, in the game, you weren’t actually supposed to go down this way. Like, this wasn’t an official route or anything.”
+
+Z moved to stand beside her, looking down. “Would that present any issues if we proceed regardless?”
+
+“I mean, no idea. But the next floor’s literally right there, so why not? We could probably skip a bunch of annoying stuff if we just drop in.”
+
+“I have no objections, provided you are able to navigate once we arrive.”
+
+“Oh, I can totally do that,” Chloe said without, already stepping closer to the edge. “We should just go.”
+
+Chloe squinted down into the darkness below. It stretched deeper than it first looked, the light from above fading quickly into shadow, but instead of feeling nervous, she just felt excited. And then, she finally jumped.
+
+The drop came fast at first, the air rushing past her as the darkness swallowed her whole, but instead of panicking, Chloe just laughed, the sound echoing faintly as she spread her arms out like she was enjoying one of those rides that bring you up and down at amusement parks.
+
+A second later, something shifted behind her back, and her new wings unfolded. Large, white, and feathered, they spread wide and caught the air effortlessly. Whoa! These new wings feel really nice to use, I'm kinda all tingly right now.
+
+Chloe giggled, her fall slowing into a smooth, gentle glide as she adjusted midair. She was going to be fighting an angry dragon soon after all, so having a bit of fun until then felt completely fair in her eyes. Above her, Z followed, although she descended far more calmly, her movement controlled and steady as she floated down alongside Chloe.
+
+They continued descending together, the darkness slowly giving way as the bottom came into view. The ground below was uneven and scattered with shapes that became clearer the closer they got, and when Chloe finally touched down lightly, her feet barely making a sound, she folded her wings back with a small, satisfied hum.
+
+Z landed beside her soon after, dismissing her own wings. Chloe took a step forward, then another, looking around the area. The place was… messy, although that was probably a major understatement.
+
+Bones were scattered everywhere, not just a few here and there, some half-buried in the ground while others lay out in the open. There were weapons too, rusted blades, shattered shields, bits of armor still clinging to what remained of the people who had once worn them. It didn’t take much to figure out what had happened here.
+
+“Yikes,” Chloe muttered as she stepped around a skull, nudging it lightly with her foot.
+
+Beyond the remains, the walls and pillars around them were covered in carvings, large, detailed images of dragons. Some showed them soaring through the sky, others depicted them crushing armies beneath their claws.
+
+Z glanced around briefly before turning to Chloe. “Where exactly are we?”
+
+“Hmm, this is probably the area right before the dragon’s lair.” Chloe said.
+
+“Is there a specific method required to proceed from here?”
+
+“Oh, no, nothing fancy like that,” Chloe said, waving a hand dismissively. She turned and pointed ahead, where a massive pair of doors stood at the far end of the chamber.
+
+They were hard to miss once you looked properly. Tall and heavy, carved from dark stone, with the image of wide, sweeping dragon wings painted across both sides, the design stretching from top to bottom.
+
+“We just go through those,” Chloe said, already starting to walk toward them. “That’s the entrance.”
+
+Z stepped in beside her as they moved, her eyes briefly scanning the doors before shifting back to Chloe. “Then tell me,what exactly are we about to face? Any notable abilities I should be aware of?”
+
+Chloe hummed as she thought about it. “I mean… it’s a dragon. So, you know, the usual stuff. Big, strong, probably way too durable, flies around, breath attack pretty standard. But, it does have one thing that’s kinda annoying.”
+
+“What is it?”
+
+"Well, it's actually pretty good at necromancy. Like, I'm talking about bringing back high level undead during the fight."
+
+"I see, do you think we will have trouble facing this dragon then?"
+
+"Hmmm, nah, probably not. At least, that's if the dragon is the same as I remember. "
+
+"Wait, is there a chance that the dragon might behave differently then?"
+
+"Yeah, so there's this mechanic where there's a 1% chance when you encounter the dragon, that it'll spawn in as its two headed version instead. And boy, that one is a lot stronger than the normal version, but I'm sure we'll just face the normal dragon."

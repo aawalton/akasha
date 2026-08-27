@@ -1,0 +1,128 @@
+---
+id: e625cc6a-517a-57ac-89a1-315847ed389a
+page-type-slug: story-chapter-royal-road
+title: "158 - Revealing the Dragon's Power"
+partOf: bunny-girl-evolution
+position: 24
+ownLength: 3201
+unit: words
+ownProgress: 3201
+publishedAt: 2025-12-27
+link: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/2884102/158-revealing-the-dragons-power"
+royalRoadId: "2884102"
+markedReadAt: "2026-06-29T20:03:26.219Z"
+---
+
+As the giant counted down until the final round of the silly game, Telvir’s mind was wandering. So far, the club meeting had been exactly what he expected, and what he expected was boredom. It was a necessary use of his time, since interacting with the most powerful nature mages of his generation would improve his Class offerings, but that didn’t make it any less boring.
+
+He had nothing against any of the people there. It was just that playing games with children wasn’t what he would call the most entertaining and productive use of the now-limited time he had. Even if he had to do it for his Class, he would rather be back at his home and practicing.
+
+It wasn’t 100% boredom, at least. The president of the club was quite impressive, and there were a few other people of interest. He wouldn’t have expected one of the forerunners of nature magic to be a giant, but despite his boisterous personality, he was actually quite erudite when he was being serious. Telvir wouldn’t have minded having a longer conversation with the man.
+
+There had only been three real surprises. First was the young half-elf girl. He was confused at first why someone so young was allowed to attend the club meeting until he caught her eyes flashing yellow. It was the unmistakable sign of {Dragon Eyes} being used. Her demeanor indicated that she obviously wasn’t a dragon herself, but a half dragon or a Dragon’s Disciple were not out of the question.
+
+The second was the dummies. That the school was even in possession of such artifacts was outside his expectations, and the fact they lent them out so easily was mind-blowing. He could only assume that the dummies had been so thoroughly studied that it was deemed safe, or else he couldn’t imagine anyone who understood their value doing that.
+
+The final surprise was the woman across from him who had been with the half elf girl the whole time. Despite her eye-catching appearance, he hadn’t really thought much of her earlier, since his attention was focused on the half elf. When she mentioned she had {Suggest}, it caught his attention, and when she demonstrated what it could do, he realized he might have overlooked someone important. Very few people recognized {Suggest}’s combat potential, and those who did were often formidable opponents. And her proficiency with it was clearly more than ordinary. To be able to so easily divert the attacks of the leaders of the club indicated the level of experience and mastery of one who had used it many times in actual combat.
+
+His suspicions were only confirmed during the first round of their match when her mental jabs stabbed through his mental defenses so easily. He tried to resist, but it was no use. She simply had too much aether. Fortunately, he was not an idiot, and she seemed to only have the one trick, or at least she was only willing to use that one trick. He could and did work around that, and thankfully, her nature magic was nothing special.
+
+What her Class was, he couldn’t even begin to guess, but it was clear after the first match that this woman was an aether specialist, not a mana specialist. That raised a whole host of questions in his mind, but he set them aside for later. He had no way to answer them, and elves had nothing if not patience. He had plenty of time to find the answers later.
+
+“...Begin!”
+
+As Daryl announced the beginning of the final round, Telvir refocused on the match, watching as the white-haired woman made her final attempt to break through his defenses. Just like the first two times, she used a root spell. He had recognized both spells that she used before as {Ensnaring Roots} and its upgrade, {Invasive Roots}, both of which were fairly basic spells. The only other nature spell he saw her use was {Vicious Bloom), which was also basic. From that, he became certain that she was simply an aether specialist, and the only reason she had any nature magic was that she had a {Nature Affinity}. It was odd, but not overly concerning.
+
+She’s probably just going to spend the rest of her mana pool trying to brute force her way through my armor, he thought as he watched the roots climb and begin digging in.
+
+He let his attention wander for a split second, but then his eyes widened as something brought him back. The roots were digging into the armor just as before, but this time, they weren’t getting absorbed. And it wasn’t that she was just pouring too much mana for his armor to absorb. The absorption simply wasn’t working.
+
+He watched in horror as the roots ripped into the armor and started digging into the dummy itself. As he felt the jolt from the stone, he started pouring his mana in, trying to reinforce the armor, but it was no use. Now, not only was the absorption not working, but it was actually working in reverse, with his own mana flowing into the roots and empowering them.
+
+When the five seconds were over, he had completely and utterly lost control of the situation, and the other woman’s roots had dug deep into the dummies. If that had been him in the armor and not a dummy, he would have been dead many times over, his insides replaced by plant matter.
+
+Immediately, he knew what had happened. He had been tricked. Toyed with. She had {Nature Mana Manipulation}. There was no other explanation for her complete control over the mana in the roots.
+
+In just a split second, adding that to the information he already had, he understood exactly what was going on. And frankly, he should have seen it sooner. An odd woman with too much aether, a Mana Manipulation Skill, and traveling with a Dragon’s Disciple? Obviously, she was a dragon.
+
+When Elise saw her plan work, she was overjoyed. She wasn’t entirely sure if it would, since she had never competed against another person for control over mana before, but it was easier than she expected. {Nature Mana Manipulation} evidently trumped ordinary nature Skills when it came to mana control, which she should have expected. All she had to do to keep the armor from draining her mana was… not let it. She just willed her own mana to stay inside her roots, and that was all she needed. At the end, she had tried to absorb the armor’s mana back, and though there was a lot of resistance, surprisingly, it actually worked, giving her a crushing victory.
+
+Her joy was short-lived though, as it was soon replaced by confusion when she sensed Telvir’s emotions. His disdain and arrogance had done a complete 180, turning into awe, respect, and fear. Elise had expected it to lessen, but this was too much. Clearly, he had some kind of misunderstanding. Whatever it was though, she couldn’t even begin to guess.
+
+The final round of their spar was unexpected as well. Elise didn’t do anything especially different. She only refined the suggestions she had been using in the first two rounds. Despite this, Telvir was shaken up enough that he didn’t manage to hit her dummy before his time was up. He didn’t seem to care much though, as he was too caught up in whatever false impression he was under.
+
+“Thank you for the match,” he said at the end, bowing deeply.
+
+“Yes, thank you,” said Elise, bowing back and trying not to let her confusion show.
+
+“An excellent first match,” said Shawn, clapping.
+
+He didn’t seem to notice Telvir’s sudden change in attitude, though Daryl clearly did, and was now looking at Telvir in confusion. The rest didn’t notice either, and when Elise returned to her original spot, Sophie silently congratulated her before they both turned back to Shawn.
+
+“Now, who wants to go next?”
+
+For the next fifteen minutes or so, the other students sparred. Sophie proved to be easily the least experienced nature mage, though she happily displayed her possession of {Mana Manipulation} during her offensive turn. It was a bit against the spirit of the spar, but Elise had to admit it was a little funny seeing the Ainar despair as he watched his wall of vines get incinerated by a wave of fire.
+
+With all of the newbies’ mana drained the older students took some time to do some “sparring” of their own. Theirs were clearly non-competitive though, and were designed more to show off each specialty’s capabilities, and both the strengths and weaknesses of each strategy. They also didn’t follow the rules, giving as much time as was needed to each person.
+
+The first matchup was between Sara and Heath. Sara defended using vines to move her dummy around and block attacks while Heath ran around the edge of the pit, casting a variety of Skills and even using some items like throwable explosives. Unfortunately, this really wasn’t the best stage for him to show off, nor was Sara the best opponent, because most of his nature magic grew from the ground, and was quickly choked out by Sara’s vines. Still, she was generous enough to let some of his attacks work so he could show off what he was capable of.
+
+When it was his turn to defend, Elise was pleasantly surprised to see that, like her, the format of the test wasn’t really good for him. He was an agile defender, not a staunch tank, so needing to keep an immobile dummy safe was difficult for him, especially against someone like Sara. Overall, it was a really bad matchup for him, and Shawn said as much as he commentated on the contest.
+
+Next up were Shawn and Daryl, though it took Daryl a full ten minutes to set up, so in the meantime, Heath and Sara gave a brief explanation on what did and didn’t work. In short, against a stronger nature mage, Heath’s own nature magic was largely useless, since it was supplementary to him. Similarly, he preferred dodging to blocking, so confined spaces were bad for him. Meanwhile, Sara’s abilities were limited, but versatile, allowing her something akin to a domain where she had complete control. Overpowering her while she had mana was incredibly difficult.
+
+Once Daryl was set up, the entire match between him and Shawn was a defensive one. Daryl never got an opportunity to attack because attacking was not something he was proficient at. However, his defensive capabilities were quite impressive. His style seemed to be basically Professor Sucri’s Defensive Gardening class, but on steroids. He had taken over the entire pit with plants, and while Elise recognized one as a variety of tanglethorn, the rest were foreign to her.
+
+The entire demonstration there was Shawn in full armor trying various angles of attack while Daryl stood with his arms crossed, watching his plants keep the dummy safe. When Shawn tried running up, his feet ended up wrapped up by the Tanglethorn. When he tried leaping over, he incurred the wrath of a few plants that shot projectiles. One of them even seemed to be using {Vicious Bloom}, covering Shawn’s armor in angry vines trying to dig their way in. When he extended his sword arm out to stab from a distance, a short willow-like tree growing near the dummy wrapped the sword up in its branches and snapped it clean off.
+
+The whole time, Daryl didn’t spend a single bit of mana. He hadn’t seemed to use much when he was setting up either, which confused Elise until she watched more closely as he took his setup down after the demonstration. Each of the plants he grew somehow started shrinking back until they were just seeds, which then flew into his hand.
+
+“This is the biggest benefit to my path,” Daryl explained. “These are pre-grown seeds. And by that, I mean that these are mature plants that have been compressed back into seeds. It’s easily the most powerful Skill my Class provides. It’s not all powerful since, as you saw, it took a while for them to grow back to full size, but as I level up and evolve my Class, the Skill will evolve too, and I will be able to carry around mature plants in my pocket and have them grow to full size in seconds.”
+
+The final demonstration was Heath against Shawn, and this time, they didn’t bother using the dummies. Both of them were mobile fighters, so neither would be able to fully show what they were capable of using dummies. It was still very clearly a practice spar though, and nothing serious. They each took turns attacking and defending, and it was obvious that both were holding back.
+
+Despite them not going at full force, Elise got the impression that the two were roughly evenly matched. Shawn had more raw power in both offense and defense, but Heath had a seemingly infinite number of ways to slow him down, trip him up, and pepper him to win by attrition. The spar did not end with a conclusive victor, but in Elise’s opinion, it would ultimately come down to terrain. If Heath had cover, he would win, while if he didn’t, he wouldn’t be able to keep Shawn at bay long enough to whittle his mana down.
+
+After that demonstration, Shawn asked the newbies if they had any questions. Elise didn’t have any in particular, but apparently, Sophie did, as did all the other newbies except Telvir. Elise and the elf remained silent while the others talked, and the whole time, Elise kept getting distracted by the elf’s emotions. He was clearly stealing glances at her, and each time, his gaze was filled with fear and reverence.
+
+Elise racked her brain trying to figure out what he could possibly thinking. She could only assume it had something to do with her having {Nature Mana Manipulation}, since that was really the only thing that changed, but she didn’t know why that would make his attitude do such a complete 180. He must have thought she was someone much more important than she actually was, but who that was, she didn’t know.
+
+She also wasn’t sure if she wanted to correct his misconception. She much preferred this to his disdain from earlier. If he thought that she was someone important, that was really his problem, not hers. He could ask if he was curious. If not, he at least wouldn’t be rude to her.
+
+Satisfied, she turned her attention back to the Q&A session, which was coming to a close. Most of the questions were about how to tell which style suited a person best. The rest were Sophie asking Shawn how he learned how to do what he did. Elise had a feeling that she already knew what style Sophie would try to learn.
+
+After the questions ended, their group rejoined the main group for a few more games. Most of the games were only tangentially related to nature magic and reminded Elise of games that teachers would set up for the students during school events or retreats. She didn’t get too involved, but she did have a bit of fun.
+
+While the games were going on, Shawn took over as the leader of the group, and one by one, Sucri pulled the newbies aside for some one on one conversations. Elise assumed that she was asking about whether they wanted to join the club or not, so she had a brief conversation with Sophie where they both agreed that they wanted to join. When Elise’s turn came, her assumption was proven more or less correct. Sucri did indeed ask how she enjoyed the meeting and whether she wanted to join, but she had a few other things to talk about afterward.
+
+“Do you have time this Wednesday evening?” asked Sucri.
+
+“Yeah,” said Elise. “I thought the next meeting wasn’t until Saturday though.”
+
+“It’s not,” she said, nodding. “But remember how I mentioned that I could have you in the Dungeon by this week if you joined? I’m making good on that promise.”
+
+“Oh!” said Elise happily. “Yeah, I have time.”
+
+“Great! You need staff approval to enter the Dungeon, and since I run one of the clubs that participates in the Dungeon competition, I have the authority to give you that approval. Of course, I need to see you in action first though, so on Wednesday, I’ll take you into the Dungeon and supervise you on the highest Floor. The monsters are weak there, so they shouldn’t pose any issue, and assuming you perform well, you can have your Dungeon permit by Friday.”
+
+“That sounds great!”
+
+“Perfect!” said Sucri. “How does 8 o’clock sound? It’s a bit late, but we won’t need much time. It shouldn’t be more than an hour or two.”
+
+“Sounds good to me,” said Elise.
+
+“Then I will see you then. Make sure you eat first though. Or don’t, if you’re squeamish. But it’s best to enter the Dungeon on at least a partially full stomach.”
+
+“Alright.”
+
+“I’m looking forward to working with you this semester! Let’s see if we can take first place in the rookie competition!”
+
+“Okay!”
+
+Elise returned to the group and joined in a few more games before Sucri announced the end of the official part of the meeting. About half the club members left almost immediately, while the rest stayed to hang out and chat. Elise and Sophie stayed behind for a bit longer, but since they didn’t really know anyone there very well, they left about half an hour later.
+
+The rest of the weekend, Elise made minor progress on all her goals, but nothing of note, which was mildly disappointing. Her progress in her soul realm was accelerating, it wasn’t all disappointment, but she didn’t achieve anything noteworthy. Still, she had a lot to look forward to for the week now that she had finally gotten out of the awful Basic Unattributed Spells class and had the prospect of further leveling on the horizon.
+
+The first day back at classes was pleasantly boring with nothing particularly important happening. It was another lecture day in Aetheric Illusions, so she unfortunately didn’t get to practice her soul defenses more, but she did get to talk to Jessie, who lamented that she still hadn’t figured out how to get permission from the church to have some more freedom. Elise gave her some encouragement, and also wondered if perhaps there was still something she needed to do on her end, despite Titania’s reassurance.
+
+The whole way to her new Intermediate Unattributed Spells class, she ran through possibilities in her mind of what would happen if she revealed herself as the white rabbit to the church, but all thoughts of that were quickly wiped away when she entered the classroom and saw a familiar face. An unpleasantly familiar face. It was Liam Grane, the young noble from registration day who had tried cutting in line and threatening Sophie. And he looked just as happy to see her as she was to see him.

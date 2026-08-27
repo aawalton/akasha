@@ -1,0 +1,107 @@
+---
+id: 975e7d29-4168-5573-be88-a9345bb0d5ef
+page-type-slug: story-chapter-royal-road
+title: "140: Smashing Time"
+slug: 0140-140-smashing-time
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 140
+ownLength: 2031
+unit: words
+publishedAt: 2026-04-17
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3285572/140-smashing-time"
+royalRoadId: "3285572"
+---
+
+Chloe had a few different tricks in her arsenal that might have worked here. She had elemental magic, and she even had a couple of creative ways to blow things up if she felt like it. But none of those options felt nearly as satisfying as just crushing a skull with her own hands.
+
+Back when she was dealing with all those annoying skeletons before, the fastest way to get to the brains had always been to break the skull open first. Chloe paused for a moment as that thought rolled around in her head. Were skulls basically just convenient brain containers?
+
+She stared off into space for a second, very proud of this groundbreaking discovery. It felt like the kind of realization that should come with dramatic music and maybe a glowing notification.
+
+Anyway, Chloe shook her head and refocused on the actual problem in front of her. Since eating Sabine’s brain, her lightning magic had gotten way stronger than before. She hadn’t actually tested the new zappy power since that moment though, so she wasn’t completely sure how strong it had become.
+
+That being said, this seemed like a perfect opportunity to try it out. If it worked, great. If it didn’t… well, she could always go back to smashing skulls the traditional way, which she was also extremely good at. Either way, Chloe was feeling pretty confident about her chances.
+
+Chloe waited patiently until all the death knights were no longer all facing the same direction. One of them turned to stare down the opposite hallway, another looked toward a broken wall, and the others shifted their attention around as if they were slowly patrolling the area. When they were finally distracted enough, she decided it was the perfect moment to make her move.
+
+In the blink of an eye, Chloe launched herself forward. She dashed out from behind the pillar, crossing the entire corridor in an instant. The death knights barely had time to react before she appeared right in the middle of them all.
+
+Chloe grinned widely as strands of lightning spread across her skin. The air filled with a sharp buzzing sound while bright blue arcs snapped between her fingers, shoulders, and feet. Then she clapped her hands together.
+
+A violent burst of lightning exploded outward from her body. Blinding flashes of lightning erupted in every direction as a roaring shockwave tore through the chamber, sending bolts of electricity lashing across the floor and up the surrounding pillars. Naturally, the blast hit the death knights at point blank range.
+
+One of them was launched straight backward as the lightning struck its armor, the metal glowing bright for an instant before the massive skeleton slammed through the pillar. Another death knight spun through the air as the shockwave caught it from the side, its sword flying out of its hand before the guy crashed through a cluster of broken ruins.
+
+Two more were blasted off their feet entirely, tumbling across the floor while lightning crawled across their armor. One of them smashed into the wall with a loud crunch that shook dust loose from the ceiling, while the other skidded across the stone ground and smashed through a row of cracked pillars that collapsed in a cloud of rubble.
+
+The last two death knights were thrown in opposite directions by the blast. One slammed hard into a far wall. The other crashed into a huge root that had grown through the ruins, snapping part of it with a loud crack.
+
+Chloe slowly lowered her hands while sparks still crackled across her fingers. She looked around at the scattered death knights, pieces of rubble and broken stone spread across the floor where they had crashed. Honestly, she felt amazing.
+
+The rush of power still buzzed through her body, and Chloe couldn’t help but smile as wide as she could. That had been way more fun than she expected, and for a moment she felt incredibly proud of how cool that whole lightning explosion had looked. Unfortunately, the moment didn’t last very long.
+
+The death knights slowly started to move again. One by one, the massive skeleton warriors pushed themselves upright, their blue eye flames flickering as their bones creaked back into place. And now that she took some time to look, the armored bone boys didn't look like they took much damage at all.
+
+It looked like Chloe would need to put in some extra effort if she actually wanted to take these guys down. That huge lightning blast sent them flying everywhere, which had been very cool, but clearly it wasn’t enough to finish the job. Since that didn’t work, she decided it was time to try something a little more direct. She was going to introduce these skeletons to her fists and feet.
+
+Chloe let lightning spread across her body again. Then she dashed toward the nearest death knight.
+
+The massive skeleton reacted immediately, pulling its enormous greatsword free from the ground and swinging the weapon down toward her with crushing force. The blade cut through the air with a heavy whoosh that would have split a normal person in half.
+
+Chloe slipped past it like it was moving in slow motion. Her lightning-amped body was simply too fast for the lumbering giant, and she leaned to the side and slid past the falling blade with ease, the sword crashing into the floor instead.
+
+As she moved inside its reach, Chloe pulled back her arm and threw a punch straight at the death knight’s skull. Her fist slammed directly into the center of its face with a loud crack. The impact knocked the giant skeleton backward several steps, its armored boots grinding against the stone floor as it struggled to keep its balance. But the skull didn’t crack.
+
+Chloe blinked at it in mild disbelief while pulling her hand back. Before she could think about that too much, she suddenly had to jerk her head to the side as another death knight rushed in from her left. The second skeleton swung its massive sword in a wide arc that tore through the air where her head had been a split second earlier.
+
+She hopped back lightly to avoid the blade, sliding across the floor as the giant weapon slammed into the ground again. She dodged the next swing just as easily, weaving around the heavy attacks while the towering skeleton tried to crush her with brute force. But man, all of this dodging was getting a little annoying.
+
+More of the death knights were already moving toward her, their heavy armor clanking as they closed in from different directions. Chloe backed away while dodging another massive swing, her mind already racing as she tried to think of a better way to deal with them.
+
+Then an idea popped into her head. She knew some ice magic, right? So what if she froze part of a death knight first and then smashed it with a really strong attack? If the bone was frozen solid, it should be way easier to break.
+
+First thing she needed was some space. One of the death knights charged forward and brought its sword down again, the massive blade cutting straight toward her chest. Instead of dodging this time, Chloe let the weapon pass directly through her body as she shifted into her Wraith Form.
+
+The death knight stumbled slightly as its attack met no resistance, clearly confused by what had just happened. Chloe grinned to herself while drifting silently past the group of skeletons. Silly skellies.
+
+Still invisible, Chloe slipped between them and moved toward one death knight that had been knocked farther away from the others. The giant skeleton had just finished pushing itself back to its feet, standing slightly apart from the rest of the group. It was the perfect opportunity to land a surprise attack.
+
+Chloe stepped behind the death knight and reached out with a hand. The moment her hand touched the back of the skeleton's skull, she dropped out of her Wraith Form. Frost exploded outward from her palm as she poured ice magic directly into the bone. A thick layer of freezing crystal spread rapidly across the back of the skull, crawling over the surface and locking the bone in a shell of ice.
+
+Step one was done, it was time for step two. Chloe pulled her arm back and gathered power into her fist.
+
+Dark energy swirled around her hand, and at the same time, she channeled her lightning magic too. The two energies mixed together, wrapping around her fist in crackling arcs of deep purple lightning that buzzed loudly in the air.
+
+Chloe drove the glowing purple punch straight into the frozen skull. The impact exploded with a sharp crack as the ice shattered instantly.
+
+The frozen bone underneath split apart from the force of the blow. Pieces of shattered bone and frost burst outward as Chloe’s punch blasted through the back of the death knight’s head.
+
+The giant skeleton stiffened as purple lightning surged through its body. Soon, the death knight collapsed into a heap of broken bones and clattering armor. Its massive greatsword slipped from its hand and crashed loudly onto the floor.
+
+Chloe wasn't sure if that really made the death knight stay dead, at least not until she saw the following glorious notification.
+
+[You have killed: Death Knight Level 60)]
+
+The remaining death knights quickly turned toward Chloe after their ally collapsed. Their armor rattled as they moved, and several of them raised their massive swords at the same time and rushed her, clearly deciding that surrounding her all at once was the best plan. Chloe, however, had already decided she didn’t feel like dealing with that.
+
+Just before the first sword could reach her, her body faded again as she slipped back into her Wraith Form. Her figure blurred into a dark, ghostly shape, and the several massive swords passed straight through her body like they cut through fog.
+
+For the next few moments, the death knights kept trying. One sword came down from above, another swept across the ground, and a third stabbed forward in a clumsy attempt to pin her in place. Every single strike went straight through her ghostly form. The spooky skeleton knights looked increasingly confused as their blades met no resistance, their attacks whistling through the air while Chloe calmly slipped through them.
+
+While the death knights struggled to understand what was happening, Chloe quietly drifted away from the group and looked around for her next target. One of the skeletons had moved slightly farther from the others while trying to circle her, leaving a small gap between it and the rest of the group.
+
+That was good enough, so Chloe moved behind the isolated death knight and did her thing. The moment her hand touched the back of its helmet, she dropped out of her Wraith Form and became solid again.
+
+“Boop,” she said cheerfully.
+
+At the same time, frost spread instantly across the death knight’s skull, freezing the bone beneath the helmet as a layer of ice formed over the back of its head. The skeleton barely had time to react.
+
+Chloe pulled her arm back, this time gathering even more power into her fist. Dark energy swirled around her hand again while lightning crawled up her arm as she did her purple lightning trick again. Because hey, it worked so well the first time right?
+
+Her glowing fist slammed straight into the frozen skull with a loud crack. The ice shattered instantly, and the bone underneath shattered from the impact.
+
+Purple lightning burst outward from the strike, racing through the death knight’s body and lighting up the gaps in its armor. For a moment the giant skeleton stood stiff and unmoving as the energy surged through it. Then the blue fire inside its eye sockets flickered violently before going dark.
+
+[You have killed: Death Knight Level 60)]
+
+That was two knights down, and there were just four more to go! Chloe was pretty sure this part was actually supposed to be pretty challenging, but she supposed she was just too good for this level of enemy by this point.

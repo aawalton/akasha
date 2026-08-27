@@ -1,0 +1,71 @@
+---
+id: be61112a-7a95-5222-a0ff-7e28bc415da3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1653 - Speed. I am Speed"
+slug: 0302-chapter-1653-speed-i-am-speed
+partOf: chrysalis
+position: 302
+ownLength: 1002
+unit: words
+ownProgress: 1002
+publishedAt: 2025-09-25
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2626928/chapter-1653-speed-i-am-speed"
+royalRoadId: "2626928"
+markedReadAt: "2026-06-29T19:53:28.468Z"
+---
+
+Vibrant raced along the tunnels, laughing brightly as she sliced through the monster who tried to reach out and grasp her, only to be left flailing in her wake.
+
+“Too slow! Too slow!” she cried joyfully, running literal circles around them as they tried to harm her in any way.
+
+Yet they were always too slow. To her eyes, they moved in slow motion, their mucus blasts trailing through the air so gradually she could have carved faces in them before dodging out of the way. Still, this was exciting! New monsters to fight, new tunnels to run down, new things to see! After being cooped up in the fortress for so long, Vibrant had been bouncing off, and through, the walls. To be able to stretch her legs at last was such a relief!
+
+She snapped her mandibles wide open as blades of light emerged from their tips. Not bothering to bite, she raced around her foes, cutting through them with sheer speed and sharpness. When the last of the monsters fell, she allowed her jaws to close, the light fading along with them.
+
+It took a lot of energy to fight like this, and she was starting to feel a little tired, though her reserves would rapidly fill. Her brain was also on fire after processing at such high speeds.
+
+What a pain. She wanted to go fast all the time! In fact, she wanted to go even faster than this! It would be a looong time before she was able to evolve again, but Vibrant could hardly wait. There were so many problems she needed to fix! So much more speed to attain!
+
+Standing still for a while allowed her to recover her strength more rapidly, but it was boooring, so she indulged in a rapid series of micro-naps. Each was only a few hundredths of a second long, but helped to cool her brains, and, more importantly, pass the time.
+
+It was six whole seconds before the first of her followers caught up to her.
+
+“Vvvvvvvviiiiiiibrrrrrraaaaaaaaaannnnnnntttttt………………… YYYyyyyyyyyoooooooooouuuuuuuuuuuuu neeeeeeeeeeedddddd tttttttooooooooo ssssssssssslllllllllllooooooowwwwwwwwww dddddddddoooooooowwwwwwnnnnnnnnnnnnn!”
+
+Ugh. It was worse than talking to the Eldest. How did anyone manage to live their life so slowly?
+
+“Nope-nope!” she said. “I suppose I could slow down, but I really want to run more after being holed up for so long, don’t you? We have so much ground to cover, and we can only be out here for a certain amount of time, so we should be going as quick-quick as we can!”
+
+The carvers had told her, multiple times, very slowly, that the protection they had provided her and her followers against corruption would only last for an hour. After that time, the mana within would be drained and they would be exposed to the toxins of the fifth.
+
+Apparently, those toxins were so fast that Vibrant couldn’t run away from them. Somehow, she doubted that, but apparently she wasn’t allowed to try. It was a shame, she really didn’t think anything could catch her, but she was excited to see if something could. If so, that was proof she could get quicker.
+
+Oh, her follower was talking again. A few naps might make it bearable.
+
+“Wwweeeeee cccaaannn’tttttt kkkeeepppp uuupppp wwwiiittthhhh yyyoouuuu.”
+
+Vibrant laughed. Of course they couldn’t! They’d never been able to keep up with her, but they tried their best, which was extremely nice of them. Usually things worked out better this way. She would get to fight all the strongest things and take care of them before anyone else was able to show up. She had fun and everyone was safe!
+
+“Do your best-best!” she chirped, her brain spinning up again as renewed strength surged through her carapace and into her legs.
+
+She tensed, and then she was off! A literal blur as she accelerated so quickly the wind was sucked into a vacuum behind her.
+
+Of course, she didn’t try to run at top speed straight away. Leg injuries were the worst, and she’d broken several before someone had told her she needed to build up her speed over time, rather than try to hit it the second she started moving.
+
+That didn’t seem right to her, but the frequency of her broken legs did go down a lot, so she was forced to accept it was probably correct. For now.
+
+Wind blasted along the smooth, aerodynamic curves of her carapace, the folds and grooves supposedly doing something with the air to make her faster. She had so many mutations centered on speed now it was hard to keep track of what all of them did. The grumpy stone-person had taken her through it all step by step, but she’d forgotten most of it since then. Some things created upward lift as she ran, making her lighter and lighter the faster she got, others caused the wind to press in on her sides, helping her steer without relying totally on the strength of her legs, which struggled to handle the overwhelming forces being applied to them.
+
+Then, of course was the single spell Vibrant had ever been bothered to learn. She’d never bothered before, but the stone-man had told her it would be a very useful idea that would help her go faster, so she’d struggled hard to master it.
+
+A tiny, diamond-shaped force field, projected two metres in front of her face. It was reeeaaaallly hard to hold it there as she ran, but it helped break the wind before she hit it with her face, and that had made a big difference.
+
+She picked up more and more speed as she continued to accelerate, her legs moving in a blur. Vibrant blasted through the wide tunnel, zooming left then right and she swerved around the rocks and monsters until she felt that momentary pressure… then….
+
+BOOOOMMMMMM!
+
+A resounding shockwave exploded from around her carapace and Vibrant laughed joyously.
+
+There was so much more ground to cover, and so little time!
+
+Pushing herself harder, she continued to pick up speed.

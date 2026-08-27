@@ -1,0 +1,371 @@
+---
+id: 2afd1baf-5230-5781-9f57-f7e27efa1d43
+page-type-slug: story-chapter-royal-road
+title: "53: Horsing Around"
+slug: 0053-53-horsing-around
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 53
+ownLength: 3109
+unit: words
+publishedAt: 2025-10-17
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2683664/53-horsing-around"
+royalRoadId: "2683664"
+---
+
+Something had been bugging Chloe for a while now. They were supposed to go to Vorraska, but how were they supposed to actually get there?
+
+She glanced sideways at Raenof, who walked beside her. “Hey, uh… do you actually know how to get there?”
+
+“Did you already forget the directions Iris gave us?”
+
+“What directions? All she did was point at a map.”
+
+Raenof chuckled. “Don’t worry. I’ve done the research, so I know the way there. We’ll need horses, though. It’s a long trip, and this way we’ll get there much faster.”
+
+“Wait, are we gonna ride on the horses this time, or make them pull us in one of those wooden box cart thingies again?”
+
+“On horseback. We won’t need to bring much with us since I have a dimensional storage skill.”
+
+“A what now?”
+
+“It’s a type of magic skill. Basically, dimensional storage lets you store things in a pocket space, somewhere outside the normal world. You can pull stuff in and out when you need it.”
+
+Chloe pointed at her cloak. “Oh! I think I’ve got one of those!"
+
+“You mean… your cloak?” Raenof asked.
+
+“His name is Cloaky, and he’s super useful.”
+
+“How, uh… does your Cloaky work?”
+
+"Just watch me."
+
+Chloe crouched down and scooped up a random rock from the side of the road. She lifted the edge of Cloaky and shoved the rock underneath. As usual, the rock vanished straight into the cloak. “See? He eats everything.”
+
+Raenof raised a brow. “Fascinating. This is the first time I’ve seen a dimensional storage skill tied to a cloak.”
+
+“I don’t know where it all goes, but Cloaky always makes room. Except for corpses, apparently. He’s picky like that.”
+
+“That’s actually fairly normal. Most dimensional storage skills won’t accept corpses, unless the skill or item is specifically built to handle them.”
+
+“Wait, really? Why not?”
+
+“No one’s completely sure. Some scholars believe it's because dead bodies are considered sacred objects. Something about them still being connected to the world in a spiritual sense. But personally, I think that’s just nonsense.”
+
+“Well, anyway, I’d love to upgrade Cloaky someday. He’s been good to me, but it’s annoying if he can't take in corpses forever.”
+
+“Maybe during our travels, we’ll find something for your cloak. Or at the very least, we could get you a separate dimensional storage item, just for corpses. You never know what we might find.”
+
+“Nice. So, uh, what now?”
+
+“We go get our horses, remember?”
+
+"Right, right."
+
+Chloe had never actually ridden a horse before, so she was pretty curious to see what it would be like. Luckily for her, that knight brain Iris let her eat had come with a horse riding skill. That would certainly come in handy.
+
+Despite not being from Ishgria, Raenof seemed to know his way around Evergale way too well. Chloe noticed it while they were walking through town, he barely ever stopped to check signs or anything. So, naturally, she asked questions.
+
+When she did, the elf explained that he'd been in Evergale for almost a month already, and he liked to "catalogue" the places he explored. Which basically meant he liked writing stuff down. Kinda boring if you ask me, but I guess elves are different like that.
+
+Eventually, they reached the stables. Which, according to Raenof, was the place where people kept horses.
+
+The stables weren’t anything fancy, but they had a roof, piles of weird yellow stringy stuff that looked like dead grass, and a bunch of horses standing around doing horse things. Chloe immediately pressed herself against the nearest wooden fence as she spotted a huge brown horse.
+
+“I want that one!" Chloe said.
+
+“But we haven’t even seen the other options yet.” Raenof said.
+
+“I know. But look at it.”
+
+"Well, I just think that—"
+
+Before he could say anything else, a young woman stepped out from behind one of the stalls. She wore a thick wool vest and had the tired but polite look of someone who had dealt with far too many people.
+
+“Welcome to the Evergale stables, I’m the stable hand here. You two looking to buy?”
+
+Chloe tilted her head. “Wait. What’s a stable hand? I mean, I see you have two hands, yeah, but you're not a hand."
+
+The woman blinked, clearly not sure how to respond. Luckily, Raenof stepped in just in time. “It just means she works here. Helps take care of the horses, maintains the stables, that sort of thing.”
+
+“Ohhh. Okay."
+
+The stable hand gave her a look halfway between confused and slightly offended. “So, are you two looking to buy or not?”
+
+Raenof nodded. “Yes. We’ll need two, ideally something with stamina.”
+
+“Then you’ll want one of our local breeds. Evergale stock’s a bit pricier, but they’re built for mountain travel, and they don’t get tired as easily.”
+
+As they walked down the row, Raenof started to ask weird questions. “Would you say horses play a significant role in Evergale’s local culture?”
+
+The stable hand blinked. “Uh… I mean… people ride them, so… yeah?”
+
+“And are they used more for transport, trade, or ceremonial purposes?”
+
+“Mostly transport. And farming. Weddings sometimes, I guess?”
+
+“Fascinating,” Raenof said, flipping open his journal and jotting something down.
+
+“Would you happen to know when Evergale first domesticated horses?”
+
+“I uh… don’t know the answer to that.”
+
+“No worries. Perhaps someone else does.”
+
+The stable hand gave him a look like she was trying very hard not to sigh, then cleared her throat and picked up the pace. Chloe leaned toward Raenof as they walked. “You’re totally asking too many questions. She’s gonna run if you keep going.”
+
+Raenof glanced at her, amused. “I think it’s fine.”
+
+“Mmhm. Famous last words before we get kicked out of the horse shop.”
+
+“They’re called stables, Chloe.”
+
+“Yeah, yeah, whatever."
+
+Despite Chloe and Raenof's bickering, the stable hand led them to an open area where several horses stood. “These are some of our best, feel free to take a look and see if there's any suit your needs."
+
+Chloe walked straight up to a large white horse. He sniffed her hair, then snorted right in her face, blowing her bangs upward.
+
+“She’s perfect." Chloe said.
+
+“That’s a stallion,” the stable hand corrected.
+
+“Oh? So not a horse?”
+
+“No… a stallion is a horse. Just a male one. You don’t get out much, do you?”
+
+“Hey! I totally go outside and stuff."
+
+“She does,” Raenof added. “Just not to places where horses exist apparently."
+
+“Exactly!” Chloe said, missing the sarcasm entirely.
+
+“Right… Well anyway, it’s rare for him to warm up to someone so quickly. If you want him, now’s your chance.”
+
+Chloe turned back to the stallion, who was still staring at her. “I do like him. His name is Mr. White now.”
+
+The stallion huffed again. Chloe took that as a sign of approval.
+
+Raenof, on the other hand, picked a normal looking brown horse. “This one seems reliable, I'll take her."
+
+The stable hand glanced between the two of them with a polite smile. “Are you happy with your choices?”
+
+Chloe was practically hanging off Mr. White’s neck at this point, so her answer was obvious. Raenof just nodded.
+
+“You can pay me here or at the counter, whichever you prefer.” The stable hand said.
+
+“Here's fine, how much for both?” Raenof asked.
+
+She pointed at his mare. “That one’s five gold.”
+
+Then her eyes flicked over to Mr White. “And this one’ll be ten.”
+
+“Wait, why’s mine more expensive?” Chloe asked.
+
+“Stallions are harder to train. Especially this one. He’s got a strong frame, better bloodline, the whole package deal.”
+
+Chloe nodded, even though most of it flew right over her head. All I heard was that Mr. White is really good at being a horse. Sounds about right.
+
+Raenof pulled out a pouch of gold from wherever he kept all his mystery stuff and handed over his share. Chloe dug into Cloaky and did the same, pulling out her own pouch.
+
+After the money changed hands, the stable hand helped them get situated. She adjusted the saddles, gave them some quick pointers, and made sure neither horse was about to throw a fit.
+
+Mr. White stood proudly, like he already knew he was special. Chloe climbed up without much trouble, surprisingly steady thanks to that horse-riding skill she got from brain snacking.
+
+Raenof mounted his horse too. Not nearly as flashy as Mr. White, but he looked comfortable enough.
+
+With everything sorted, the stable hand gave them a wave. “Safe travels, and take care of those horses.”
+
+“We will!" Chloe said cheerfully.
+
+She and Raenof rode out of the stables and back onto the streets of Evergale. The city looked a little different now that they had horses, like it was smaller somehow.
+
+They hadn’t gone far when Raenof glanced over. “Are you sure you’re not forgetting anything? We won’t be coming back to Evergale for a while.”
+
+Chloe scrunched up her face, thinking. “Hmm… nope. Don’t think so.”
+
+Raenof reached into the air like he was pulling something from a pocket that didn’t exist. When his hand came back down, he was holding a small silvery ring.
+
+Chloe’s eyes widened. “Wait a minute! That’s the ring I always have to wear before going into Iris’s office! How did you get that?!”
+
+“That’s a secret.”
+
+"So, you took it from me when I wasn't looking?"
+
+“I borrowed it. Anyway, we should stop by the Velvet Lantern and drop it off before you forget again.”
+
+“Fine, whatever."
+
+Raenof tucked the ring back into his weird invisible storage. “Now, anything else you’re forgetting?”
+
+Chloe squinted, thinking harder this time. She tapped her chin. Hmm… what else… Oh right. Baron Willy.
+
+She had originally come to Evergale tagging along with him. Baron Willy had business here after all, something about his brother too.
+
+Chloe remembered him talking a lot in the carriage, and she remembered zoning out about halfway through. It all sounded really boring, and anyway, she figured the Baron was probably fine. He could take care of himself.
+
+She shook her head. “Nope. I’m good to go.”
+
+***
+
+Riding a horse was way more fun than Chloe expected. She’d never ridden one before, but guiding Mr. White around felt weirdly natural. Like her body already knew what to do, even if her brain was mostly just screaming: Wheeeeee!
+
+Mr. White gave a powerful snort and picked up speed, which only made Chloe laugh harder. She had no idea if she was doing anything correctly, but she was definitely having the time of her unlife.
+
+Raenof rode a little ways behind, his horse trotting along at a slightly slower. “You’re enjoying yourself, I take it?”
+
+“Obviously!” Chloe shouted back over the wind. “Why didn’t anyone tell me that riding horses was this fun?”
+
+“It makes me wonder… Have you really gone through life without doing all these very basic things?”
+
+“Excuse you, I have tons of experience.”
+
+“Oh? What, exactly?”
+
+Chloe got Mr. White to slow down so she could talk better. “I’m really good at walking through dungeons and caves. Also good at fighting monsters and beating people up, y’know. Important stuff.”
+
+Raenof slowed down his horse a bit more too. “Yes… Iris did mention something along those lines. Seems she was right.”
+
+“Wait, what did she say about me?”
+
+“That’s confidential.”
+
+"And what's that mean?"
+
+“It means I’m not allowed to tell you.”
+
+“Who said that?”
+
+“Iris.”
+
+“Well, she’s not here. So, you could tell me.”
+
+“I could, but I won’t.”
+
+“Is it something weird? It’s definitely something weird, isn’t it?"
+
+Raenof chuckled softly and adjusted his reins. “She didn’t say that.”
+
+“Then what did she say?” Chloe asked again, riding up alongside him now and staring at his face.
+
+Raenof kept his eyes ahead. “Still confidential.”
+
+Chloe groaned and slumped forward against Mr. White’s neck. “This is so unfair. You’re lucky I have to keep you alive for this mission."
+
+Raenof smiled. “Good to know."
+
+Chloe pouted, then poked him in the shoulder with one finger. “I’m gonna find out what she said eventually, y’know.”
+
+“I look forward to seeing how you try.”
+
+The road stretched on, and Chloe was still riding on happily. Raenof followed behind for the most part. But eventually, he got his horsey to move faster until he was next to Chloe.
+
+“Chloe, hear me out." Raenof said.
+
+She twisted in her saddle. “Yeah?”
+
+“We should probably take a break soon.”
+
+“Wait, what? But I’m not tired.”
+
+“It’s not about us.”
+
+Raenof tilted his head toward the sky. The sun was beginning to dip below the tree line. “We’ve been riding for quite a while now, and the horses need rest too.”
+
+Chloe looked down at Mr. White, who was still galloping fast. He didn’t look tired to her. Still… she did notice his ears twitching a little more.
+
+"Do they really need a break?” Chloe asked.
+
+“If they’re too tired, they won’t run as fast,” Raenof said.
+
+"Why didn't you say so? I want Mr. White to keep going fast."
+
+“Come on then. I think I saw a good spot up ahead.”
+
+She followed him off the main road, down a smaller path that wove through a cluster of trees. Eventually, the trail curved around what looked like a shallow dip in the land.
+
+At the center of the clearing was a frozen lake. Bits of snow dusted the top, and the surrounding trees gave the area just enough cover to feel cozy.
+
+Raenof brought his horse to a stop near the edge of the lake and dismounted. “This should do.”
+
+Chloe slid off Mr. White with much less grace, landing with a crunch and immediately sinking into the snow.
+
+“Ooooh. This place is pretty,” she said, walking out onto the frozen lake before Raenof could say anything. “You think it’ll crack if I jump on it?”
+
+“I think you shouldn’t test it,” Raenof replied.
+
+She squinted down at the ice, tapped it with her toe, then reluctantly stepped back onto solid ground. “Fine. No jumping. But only because Mr. White might freak out.”
+
+Raenof glanced over at the horses. “Actually… they’ll probably need water too.”
+
+“They can drink snow, right?"
+
+“Water would be better, do you have fire magic?”
+
+“Pffft, of course I do."
+
+“Then could you throw a fireball or something at the lake? Not too much, just enough to melt the top layer.”
+
+"Sure, I can do that."
+
+Chloe pointed both hands at the frozen lake and squinted hard, focusing. Heat bubbled up in her palms, warm and tingly, and in the next second, a small fireball sparked to life between her fingers.
+
+Of course, she chucked it straight at the ice. The fireball hit and quickly melted a hole through the frozen surface. Steam curled up in little wisps as the water sizzled, and soon, the flames flickered out as they sank beneath the surface of the water.
+
+Raenof, standing nearby, gave a small nod. “Perfect. That should be enough for the horses.”
+
+She turned to Mr. White and pointed at the melted spot. “Hey Mr. White! There's water now. Go drink and stuff.”
+
+To her surprise, Mr. White actually obeyed. He walked up to the edge of the ice and started lapping at the water. Raenof’s horse joined in a moment later.
+
+Meanwhile, Raenof raised his staff again. With a shimmer of green light, he tapped it once against the snowy ground. Magic rippled outward in a pulse, washing over the white and replacing it with a soft patch of grass, dotted with little flowers and even a mossy stone or two.
+
+Chloe’s eyes widened. “Whoa.”
+
+Raenof stepped back, looking mildly pleased. “That should keep them occupied.”
+
+Chloe wandered over and crouched beside the new grass, poking gently at a tiny pink flower near the edge. It wiggled slightly under her finger.
+
+“This is plant magic, right?” she asked.
+
+“It’s nature magic, all elves learn it growing up as is tradition.”
+
+“Really? All of you?”
+
+“Yes. It’s part of our culture. We learn to nurture the land as children.”
+
+“Okay, see, this is the kinda elf stuff I didn’t know. I just thought you were fancy humans with pointy ears.”
+
+“There’s a little more to it than that.”
+
+Chloe plopped onto the grass patch. “Okay, well now I wanna know more. Tell me all the elf secrets. Is your blood green? Do you talk to animals a lot?”
+
+Raenof laughed. “I can tell you more, but maybe we should get a campfire going first. I’ll take care of the rest of the setup.”
+
+Chloe sprang to her feet. “Fire? You got it."
+
+She had never really set up a “proper” camp before. But now that she was officially on a mission with an elf and had horses to look after, it felt like she had to at least try to do it right.
+
+Thankfully, having magic made everything easier. She cleared a patch of snow with a few small fireballs. A few spots ended up a little too crispy, and she might’ve accidentally melted part of her boot for a second, but it was all good in the end.
+
+Raenof, of course, was way more graceful about it. With a flick of his staff, he summoned a few more soft patches of grass to make the original patch bigger.
+
+Chloe gave it an experimental poke. “Okay, wow, this grass is really soft."
+
+Raenof just smiled. “You’re welcome to use it.”
+
+"Oh, thanks!"
+
+They worked in a sort of quiet rhythm after that. Chloe got the campfire going with Raenof instructing her on what not to do. At the same time, the elf casually poofed foods and other stuff into existence. One moment his hands were empty, and the next, he was holding a bundle of dried food and some wooden utensils. The horses, meanwhile, had wandered a little to the side and were happily munching away on the grassy patch Raenof had summoned earlier.
+
+Once everything was done, Chloe leaned back on her elbows, watching the horses as the fire crackled beside her. “This is kinda nice."
+
+Raenof was sitting nearby, stirring a pot filled with soup. “Chloe, do you mind if I ask you a few questions?”
+
+She threw a stick into the fire. “Pfft. You just did.”
+
+"You know what I meant."
+
+“Yeah, yeah, go ahead.”
+
+Raenof just kinda stared at her for a moment, and that made Chloe’s smile twitch. It wasn’t a bad stare, but it had that weird weight behind it. “Are you… in any way related to the First Queen? And are you even human?"

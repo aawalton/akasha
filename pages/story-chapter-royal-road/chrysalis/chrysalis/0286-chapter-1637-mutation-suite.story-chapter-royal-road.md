@@ -1,0 +1,197 @@
+---
+id: 1a2022e6-b4f6-5ed7-8cc7-c738fa5e77d2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1637 - Mutation Suite"
+slug: 0286-chapter-1637-mutation-suite
+partOf: chrysalis
+position: 286
+ownLength: 1965
+unit: words
+ownProgress: 1965
+publishedAt: 2025-09-03
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2569852/chapter-1637-mutation-suite"
+royalRoadId: "2569852"
+markedReadAt: "2026-06-29T19:52:57.732Z"
+---
+
+One of the most deeply contested grudges amongst the Cults is held between the followers of Theorazzn and Morribolg of the Fetid Earth.
+
+Perhaps this reflects the long-held myth that the two Ancients themselves are bitter rivals who competed over the fifth stratum, trying to find who would succeed in the race to paint it in their own image.
+
+Morribolg is said to be a creature of water, earth and death, a unique combination that came to be known as ‘Fetid Earth’. Without a solid form, the Ancient is a vast mass of mud with incredible strength and endurance. More than this, anyone touched by Morribolg, legend has it, is doomed to die, unable to escape, the life being sucked from them every passing second.
+
+The location Morribolg is believed to have surfaced during the Rending has not recovered to this day, a seeping wasteland of death and destruction referred to as ‘Never Swamp’ by the locals.
+
+-           Excerpt from ‘Collective Wisdom of the Cults’ by Granin Lazus
+
+As always, there was the initial rush as all that was contained within Anthony’s core washed over them. The combined minds of Granin, Torrina and Corun were far more powerful than any of them were alone, and they parsed it almost as fast as it came in. After a few moments, they were able to piece together the full breadth of Anthony’s status.
+
+Name: Anthony
+
+Level: 320 (Mythic) (VII)
+
+Might: 380
+
+Toughness: 342
+
+Cunning: 228
+
+Will: 195
+
+HP: 684/684
+
+MP: 2300/2300
+
+Skills:
+
+General:
+
+Grandmaster Excavation (V) Level 10; Master Grip (IV) Level 40; Expert Stealth (III) Level 20; Tunnel Compendium (V) Level 11; Diamond Mind (V) Level 80;  Grandmaster Stamina (V) Level 46; Unseen Dash (VI) Level 32; Expert Efficient Movement (III) Level 20; Master Observance (IV) Level 40; Manifold High-Focus (V) Level 80;
+
+Mana:
+
+Advanced Mana Craft (VI) Level 84; Condensed Mana (V) Level 80; Grand Finer External Mana Manipulation (V) Level 80; Mana Hoarder (V) Level 63; Multi-Layered Mind Magic Affinity (VI) Level 46; Extended Directed Mana Sensing (V) Level 80; Master Healing Magic Affinity (IV) Level 40; Advanced Omni-Elemental Affinity (VI) Level 121; Master Mana Masking (IV) Level 32; Wood Magic Affinity (I) Level 1; Metal Magic Affinity (I) Level 1; Lightning Magic Affinity (I) Level 1; Master Force Magic Affinity (IV) Level 40; Master Barrier Magic Affinity (IV) Level 40; Grandmaster Gravity Magic Affinity (V) Level 80; Expert Mana Dismantling (III) Level 20
+
+Pet:
+
+Far-Flung Pet Communication (IV) Level 38; Core Crafting (IV) Level 20; Pet Growth Speed (I) Level 5;
+
+Defensive:
+
+Divine Exo-Skeleton Defence (VI) Level 111; Flicker Dodge (VI) Level 93; Grandmaster Endure (V) Level 80; Expert Mandible Parry (III) Level 20; Precognitive Agile Defence (IV) Level 40;
+
+Offensive:
+
+Pinpoint Acid Shot (VI) Level 82; Grandmaster Precise Shooting (V) Level 16; Starcrusher (VII) Level 57; Master Chomp Combo (IV) Level 20; Spear Charge (III) Level 20;
+
+Mutations:
+
+Senses:
+
+Broad Intent Focal Compound Eyes +35; Prescient Ripple Antennae +35 (Twilight Filament);
+
+Defence:
+
+Horizon Intensifying Compression Carapace (Gravity-Compressed Diamond) +35; Regenerating Amp Displacer Inner Carapace Plating (Boson Agitating Crystal Flesh) +35;
+
+Physical:
+
+Fortified Absorption Legs +30; Vicious Injecting Mandibles (Gravity-Compressed Diamond) +30; Hastened Potent Regeneration Gland +30; Widespread Stinking Pheromone Gland +30; Expanding Discerning Compression Stomach +35; Coiling Hyper-Twitch Musculature +30; Distributed Instantaneous Sub-Neural Network +30;
+
+Acid:
+
+Hyper-Thick Spreading Mana-Feasting Bind Acid Gland +35; Flexi Hyper Pressurised Scattershot Acid Nozzle +30; Enriching Draining Acid Concentration Gland +30; Viscous Enfeebling Acid Stimulation Gland +30;
+
+Mental:
+
+Steadfast Coordination Cortex +30; Crushing Gravity Well Main Brain +30; Mind Mana Mastery Sub-Brain +30; Mind Mana Mastery Sub-Brain +30; Mind Mana Mastery Sub-Brain +30;
+
+Mana:
+
+Vast Gravity Magic Gland (Resonant Well Stone)+15; Accelerated Might Infusing Collective Will Vestibule +35 (Soul Crystal); Grand Empowering Communal Spirit Nave (Soul Crystal) +35; Vast Impregnable Starborn Altar of Self +35 (Soul Crystal);
+
+Species: Perfect Paragon
+
+Skill points: 171 +325 - (skill fusions).
+
+Biomass: 3120
+
+None of the three had worked on a monster this powerful, nor one this evolved, and it was difficult to grasp it all. Anthony’s status was… a mess, especially compared to the carefully pruned and developed Skills of the monsters the Shapers crafted within the Cult of the Worm. They were trying to create lean perfection, but this was a true beast of the Dungeon, fighting for survival and figuring it all out as they went.
+
+And it was this less streamlined and organised monster who had thrived, where the carefully designed creatures had utterly failed. There was a lesson in that.
+
+However… there was one detail that immediately infuriated the golgari.
+
+[Anthony,] they growled in unison. [Why on Pangera do you have so many maxed Skills?!]
+
+So many of them!? One or two was acceptable, but how long had it been since this moron had checked his status?! The progress wasn’t stored if he didn’t rank up his Skills, it was simply lost!
+
+[Yell at me another time, Granin… and… company. This is hard. Get on with… that thing you were doing.]
+
+[We were going to finalise your mutations.]
+
+[Right. I… feel vaguely worried about that for some reason… but I can’t quite grab it. It’s fine. Ask if you have questions, otherwise try not to mess anything up.]
+
+[There’s a lot of mutations to be done. We will need your input on a few of them.]
+
+[Fine, fine.]
+
+Wanting to work quickly, the triad scanned through the relevant information, concentrating on what needed to be done.
+
+There were fifteen organs in total that needed upgrading at a final cost of almost three thousand Biomass. Some of those were important mutations, with the +35 options able to unlock powerful new possibilities for Anthony, while others could be relatively ignored, since the body parts were likely to be reset or fused in the upcoming evolution. The triad organised the mutations into those two groups so they could prioritise their efforts.
+
+Important mutations:
+
+Coordination Cortex.
+
+Main Brain.
+
+Sub-Brains, of which there were three.
+
+Sub-Neural Network.
+
+Musculature
+
+Mandibles
+
+Regeneration Gland
+
+Gravity Mana Gland
+
+Resets and Fusions:
+
+Legs.
+
+Acid Nozzle.
+
+Acid Concentration Gland.
+
+Acid Stimulation Gland.
+
+The three minds consulted and agreed that the final four organs would be best served with a fusion and reset. Anthony had attempted to make his acid more potent by purchasing several cheap body parts and mutations to increase its power and flexibility, but with the toxic mana within him, this was the perfect opportunity to try and fuse these organs together with his acid gland to create something far more powerful.
+
+His legs were also due for a reset. If he got much larger, they wouldn’t be able to hold him up properly, and besides, his earlier mutation selections weren’t as viable as they could be.
+
+The triad settled on some generic options for these organs that played to the strengths they already had without wasting more time than they had to. They would be reset to nothing soon anyway, so there was no need to spend too long on them.
+
+After considering for a moment, the triad decided to work on the brains first and dove in.
+
+The sub-brains were dedicated to maintaining Anthony’s host of mind constructs, and indeed were doing so right now. Specialised in handling mind mana, they were able to craft far more mind constructs than they could without this mutation, but there was a loss of efficiency here.
+
+Anthony had enabled himself to create a large number of mind constructs, but those constructs still needed to utilise parts of the physical brain in order to do their work. Further increasing the sub-brains’ specialisation in mind mana wouldn’t help, but increasing the cognitive capacity of the brains would. Significantly.
+
+Three minds unified into one raced through the list of possible mutations, looking for candidates that suited their needs.
+
+In all honesty, Anthony’s brains could use a reset, reforging them with a more powerful material than simple fleshy neurons, but with a list of other body parts likely to need resetting, it would have to wait.
+
+After some time, they narrowed their options down to three:
+
+Webbed Sub-Brain. This option would utilise mind mana, which the brain was constantly handling anyway, to stimulate added connections within the brain itself, essentially forming new neural links out of mana to make the brain matter more efficient.
+
+Condensed Sub-Brain. This mutation would draw on Gravitational mana, which they didn’t understand but knew was present throughout Anthony’s body, to draw the brain inward and compress it, pushing the cells closer together, shortening the links between them and increasing processing speed.
+
+Interwoven Sub-Brain. Less specific to Anthony, but well regarded in the Shaper literature, this mutation would serve two functions: linking the sub-brains together, and weaving greater connections between the neurons.
+
+Ultimately, they selected the Webbed Sub-Brain. With a constant supply of mind mana, the brains would become twenty to thirty percent more efficient as the connections formed. Since Anthony supplied it already, there was nothing but upsides here. Adding brain mass to each of the sub-minds was also a far more attractive prospect with this mutation in place, allowing the benefits to compound.
+
+For Anthony’s main brain, similar decisions had to be made. He had specialised this brain in two simple fields: condensing mana and handling gravitational mana. Little wonder his ‘gravity bombs’ were so effective.
+
+Much like his sub-brains, he hadn’t given any thought to mutations that would enable his brain to work more efficiently in general. At this point, reinforcing the aspect he had already mutated would have diminishing returns. It was time to increase the effectiveness of the brain as a whole.
+
+The Condensed option they had already explored was a strong contender here, as it would synergise well with the brain's intended purpose: handling gravity mana. To be sure it was the best mutation, they thoroughly examined the list and found another tempting prospect.
+
+Will-Forged Main Brain. The triad weren’t overly familiar with the power of Will that Anthony absorbed through the Vestibule. They only knew what Anthony had told them about it and what they could glean from his core. However, this option seemed very viable.
+
+Utilising the power of Will, it would work to increase the processing speed of the brain, running the cells hotter than they should, but sweeping the waste away and preventing the neurons from burning out using that mysterious Will energy. It was something Anthony had in abundance already, so long as the Colony was somewhere nearby, and according to their calculations, would provide a greater boost than the other mutations they looked at.
+
+They locked it in and turned to the coordination cortex.
+
+This was where Anthony had placed the responsibility of increasing the efficiency of his brains. The coordination cortex worked to distribute tasks across the four brains and reduce the strain on each, ensuring they were each fully utilised and able to work harder for longer.
+
+The triad dove into the list of options, looking for something that would provide the power boost Anthony would need. Mutations for the cortex were somewhat limited in scope, the organ could only do so much, but they were able to find one they liked.
+
+Event-Horizon Coordination Cortex. Drawing on the power of Gravity Mana, this mutation would, somehow, dilate time within the cortex itself, allowing for what appeared to be lightning-fast processing. It was expensive in terms of mana draw, but Anthony was more than capable of providing the power necessary, and would even recoup a percentage of the cost via his Resonant Well Stone Gravity Mana Gland.
+
+This balanced approach to the use of Anthony’s resources appealed to the triad. None of the brains would draw a detrimental amount of mind mana, gravity mana, or Will, and they made use of distinct, readily available energy sources.
+
+They locked it in and moved on.

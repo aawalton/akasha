@@ -1,0 +1,97 @@
+---
+id: 86c4426a-43c7-5b90-96cd-cf7f0da8bdb3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1436 - Quite the Feat"
+slug: 0084-chapter-1436-quite-the-feat
+partOf: chrysalis
+position: 84
+ownLength: 957
+unit: words
+ownProgress: 957
+publishedAt: 2024-10-22
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1862421/chapter-1436-quite-the-feat"
+royalRoadId: "1862421"
+markedReadAt: "2026-06-29T19:46:32.730Z"
+---
+
+It took far too long for anyone to recognise just what the ants had achieved in the fifth stratum. Specifically in regards to the fortress, or nest, they constructed.
+
+Building a secure base within the fifth had been done before, many times, over the centuries. Almost every attempt to cleanse the fifth, or merely secure territory within it, had created a base, or fort, of some sort or another during their stay. Indeed, the Legion is rumoured to maintain a facility there to this day, though they deny any such claims.
+
+However, the Colony created something unlike anything that had been created before. The manner of its construction was unique. The scale of the project was unique. Most crucially, the function was wholly original.
+
+Not only did the fortress act as a nest, a fortified position to protect those within and a safe environment that warded off the toxic mana of that place, but it was perhaps the first mana factory ever produced.
+
+The ant fortress was designed to act like a beating heart, an endless engine that cycled in filth and pumped out pure, refined mana. Simple in principle, fiendishly difficult in practice.
+
+It is nothing short of a miracle of engineering and enchanting.
+
+-           Excerpt from ‘Insect Expertise’ by Rathwyn Werilos
+
+“No! Don’t put that there!”
+
+CLANG.
+
+The human worker turned when they heard the voice call out to them, only to trip and cause the four men to drop their burden on the spot.
+
+Which, of course, just so happened to be above an incredibly sensitive component of a mana channel, bending the metal out of shape.
+
+Isaac resisted the urge to slap himself in the forehead. It wasn’t the workers’ fault, he shouldn’t have called out like that. Nor could he blame them for being so confused as to the proper destination for those beams. Things had become incredibly chaotic once the expansion had restarted. Construction projects that had been frozen during the vent activity were restarted, even while other projects that had been picked up to fill the time were still ongoing.
+
+“Sorry about that, lads,” he said to the incredibly guilty-looking workers. They were looking about themselves, as if wondering when an ant was going to leap out and bite their legs off. “Those beams need to go to the next drop-off point, which is about two hundred metres down that way.”
+
+He pointed, and the men thanked him gratefully before they bent down and picked up their supplies once more. Only when they were well off down the tunnel did he say anything to Cavalant, upon whom he was still mounted.
+
+“I’m surprised the carvers didn’t rush over the second they heard the metal drop. It’s not like it was quiet.”
+
+“They wanted to,” she replied, using her antennae to direct his attention. Sure enough, waiting in the wings were several teams of ants, grinding their mandibles anxiously. As soon as the human workers had made it far enough away, they rushed over and inspected the metal.
+
+“How is it?” one carver asked.
+
+“It’s gone. We need to lift out this whole section and have it replaced.”
+
+“Any chance they can fix it at the forward fabrication workshop?”
+
+“Maybe. Worth taking it to them for a look, but we can’t wait for that. Someone get word to the depot and request a new component. What’s the section number?”
+
+“It’s… carver dash six, eight, eleven.”
+
+Isaac listened from the side, extremely chagrined.
+
+“Wait, the channel was ruined from that drop? I’m so sorry!”
+
+He’d never seen them made, but he knew just how much work went into each of these channels. The ants only used their best metals, and each one was heavily enchanted. Even above each of those, the channels were extremely well formed, an incredible piece of smithery. Each one was handmade, after all. Well, not handmade. Mandible made?
+
+The carvers turned to face him, confused.
+
+“Sorry? For what?” they asked him.
+
+Before Isaac could try and explain, Cavalant stepped in for him.
+
+“I can answer this. It’s a human behaviour, they will apologise for accidents that they cause, even unintentionally.”
+
+Isaac looked down at his partner.
+
+“Isn’t that normal?” he demanded.
+
+“Of course it isn’t,” she refuted.
+
+The carvers seemed to agree with her.
+
+“You made a mistake. Don’t apologise for mistakes.”
+
+“Indeed, apologising makes it seem as if you did something wrong. Mistakes are natural, they will happen, we strive to minimise them, but plan for them to happen. There are spares of every component of the fortress for exactly this reason.”
+
+“See?” Cavalant said. “You’re the weird one.”
+
+Well… plops. This was just one of those instances where normal human behaviour didn’t mesh with the way ants thought about things.
+
+“Well, let's get out of their way and make sure nothing else gets dropped in places it shouldn’t,” he suggested and Cavalant clacked her mandibles in agreement.
+
+The two moved further into the tunnel, leaving the carvers to their business. The work crew had managed to deliver their burden, without destroying anything else on the way, and were headed back towards the lifts, ready to collect their next load.
+
+Isaac kept a wary eye on them, but couldn’t help but notice his thoughts wander, which they did more and more often the longer he was down in the fifth.
+
+He wondered, though he tried not to, what Morrelia was up to. Was she still there, in the fourth stratum, above him? What was she doing? Was she working with the Legion, trying to find a way to kill Anthony? Or perhaps, just perhaps, she was thinking of the dashing ant-knight, with the stunning moustache?
+
+“Hey, stop daydreaming up there,” Cavalant snapped. “We’ve got work to do.”

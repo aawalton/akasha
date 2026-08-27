@@ -1,0 +1,89 @@
+---
+id: fa6822b9-9562-5726-9390-200dbb948183
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1585 - Forward Facing Colony"
+slug: 0233-chapter-1585-forward-facing-colony
+partOf: chrysalis
+position: 233
+ownLength: 1181
+unit: words
+ownProgress: 1181
+publishedAt: 2025-06-16
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2360313/chapter-1585-forward-facing-colony"
+royalRoadId: "2360313"
+markedReadAt: "2026-06-29T19:51:16.157Z"
+---
+
+Hello, dear readers, it is I, Tolly, at your service once again, ready to regale you with tales of my trials and tribulations amongst the collective crafts of the Colony!
+
+I have to say, it has been wonderful to return to my home in the Dungeon, the wonderful fourth stratum. Full of life and light, I think my knees and hips are feeling better than they have in years!
+
+Though I still harbour a suspicion that the wonderful mattress the ants have generously given to me (I’ll let them know about their donation soon, I’m sure they won’t mind) may be responsible.
+
+After a few days, myself and the jolly fellows acting as my bodyguards had fully acclimated and were ready, filled with vim and vigour, to attack the days ahead! Of course, we were currently occupying the legendary anthill, the mountain filled from top to bottom with ant monsters, a trading hub and hive of activity (pardon the reference, there are certainly no bees here!) known all over the fourth!
+
+Despite its generally benign reputation and the prevalence of Colony-produced goods across the Dungeon, there were surprisingly few tourists or visitors here! I was shocked when my dear guide, Emilia, informs me that almost all of the non-humans I saw striding the halls and occupying the guest rooms around us were merchants.
+
+“But that seems highly curious!” I declared as we dangled our feet in the provided swimming pool within our suite. “Why wouldn’t travellers come here to shop and buy things for themselves at a cheaper price? And it isn’t like the hospitality of your ant-friends is poor, far from it! I know many, many old biddies who would love to come and stay for a few days, maybe even a week! And they’d spend good money to do so!”
+
+In my eyes, I could see a flourishing tourist industry emerging, thousands of people from the Silver City hopping on a cruise to pop in and visit the Colony, see the sights, taste the cakes and spend some gold! Despite my grand visions, Emilia simply smiled and shook her head.
+
+“There are a few reasons why that hasn’t happened, and likely won’t happen,” she let me down gently. “There are many trade regulations put in place to prevent anyone from buying directly from the Colony; all sales must go through intermediaries, no matter how small.”
+
+“Why?”
+
+“Because the Colony doesn’t really understand money, even now.”
+
+I found this difficult to believe, dear reader. They’ve built so many wondrous things, achieved so much across the Dungeon in such a short span of time, and yet I was supposed to believe they can’t grasp basic economics!
+
+As ever, Emilia, the wonderful volunteer tour guide, could read the doubt on my face. She really is quite the capable girl. I’m half a mind to ask her to be my secretary going forward, readers. She is truly an amazing individual!
+
+“Why don’t you come and see for yourself?” she invited me.
+
+Now, I am never one to turn down an invitation to see something interesting, as you all know. It’s in my name!
+
+So it was that we took a brief jaunt through the wonderfully lit and accommodating walking tunnels of the Colony to what Emilia described as the ‘trading floor’.
+
+The closer we got, the more dense the foot traffic became, and I found all sorts of individuals roaming about, from all parts of the Dungeon, even the odd sophos! When we came to the floor itself, it was hard for me to grasp the sheer scale of it at first!
+
+It was enormous! A grand chamber, with a high-vaulted ceiling, enormous pillars, each carved to depict ants hard at work at various crafts. It was so vast, I felt like a reasonably sized town would fit inside this one space!
+
+And the noise! The hustle and bustle is intoxicating to me, as well you all know! There were thousands upon thousands of people down there, creating a bubbling, fizzing chatter that filled the air and sang in my ears. The feel of the place was exciting! All the vim and vigour of a spring market, with a hint of a harder edge, like a brathian who owes you a favour.
+
+Emelia had to lean close to my ear so that I could hear what she was saying as we took a ‘lift’ down to the trading floor itself.
+
+“This is where merchants and trade organisations come to make their deals with the Colony. Because the volume of goods and services moving through here is so high, it’s difficult even for the Colony to keep tabs on demand day to day. Merchants devised this automated system that tracks every trade and order being made in real time, adjusting the prices accordingly.”
+
+“What?” I said, aghast. “The prices are determined automatically?”
+
+My guide could only shrug, her dimples showing as she smiled at me.
+
+“The Colony doesn’t like haggling, and they hate the idea of unfair exchange. The automated system removes both elements.”
+
+We had to step carefully indeed on the trading floor. There were humans/ka’armodo/golgari/folk and even bruan’chii running around like their backsides were on fire, waving pieces of paper and shouting until they were red in the face!
+
+At first I had no idea what they were doing, but then I saw the ants working at their desks. With little green-shaded caps on, they sat in large banks of desks situated around the room, legs flicking every which way as they took pieces of paper, buy-orders, I’m told, counted money, received or paid out coin or cores, all the while punching away at a strange-looking enchanted slab to their side.
+
+Overhead, a constant ticking sound could be heard as boards shifted and changed, numbers and letters flying all over the place as the name of everything under the surface seemed to pop up, with a price, for half a second, only to vanish a second later as the board changed and another two dozen items were presented.
+
+“This seems like chaos!” I declared.
+
+This wasn’t like the usual neat and orderly solutions the ants seemed to prefer. Far too much shouting and sweaty people in robes yelling at each other.
+
+“Personally, I think the Colony agrees with you!” Emelia shouted in my ear, trying to be heard over the din, “but they always try to give people what they want. The visiting merchants, particularly the brathians, seem to love it here. Look over there!”
+
+She pointed me to the side.
+
+Against one of the columns were a group of ants, these wearing a different sort of hat to help identify them, sitting comfortably in chairs under a sign that said ‘hagglers welcome.’
+
+“I thought the Colony hated haggling!” I demanded.
+
+“They do! But some traders just don’t feel comfortable agreeing on a price if they haven’t argued about it first!”
+
+“Does the haggling even change the prices? I thought they were automatic?”
+
+Emelia shook her head.
+
+“It doesn’t, but their satisfaction levels go up.”
+
+Again, all she could do was shrug.

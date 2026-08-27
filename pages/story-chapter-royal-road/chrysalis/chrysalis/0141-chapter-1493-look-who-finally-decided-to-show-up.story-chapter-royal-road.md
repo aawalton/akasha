@@ -1,0 +1,63 @@
+---
+id: 693e4c15-08c9-5147-9fa2-4050641a74f9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1493 - Look Who Finally Decided to Show Up"
+slug: 0141-chapter-1493-look-who-finally-decided-to-show-up
+partOf: chrysalis
+position: 141
+ownLength: 880
+unit: words
+ownProgress: 880
+publishedAt: 2025-01-23
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2024852/chapter-1493-look-who-finally-decided-to-show"
+royalRoadId: "2024852"
+markedReadAt: "2026-06-29T19:48:21.585Z"
+---
+
+[About time you got involved,] I rant, prodding at the roots of the Mother Tree with my antennae.
+
+The roots quiver and slide around each other, creating a menacing hissing sound, but I’m not intimidated.
+
+[You want to threaten me? Down here? I don’t think so!] I roar, prodding at the fibrous plant matter more aggressively. [You said you’d turn up ages ago, and only now you follow through? Do you have any idea how hard I’ve had to work in these tunnels? It’s been outrageous!]
+
+The roots turn towards me and start to waggle rudely, which causes my mandibles to twitch. Just before I can start pruning this mannerless hedge, I’m interrupted by a gathering of the bruan’chii approaching their mother with warmth and love in their eyes.
+
+Honestly, what has she done to deserve such treatment? As far as I can see, the offspring are far more agreeable than the parent. Something no ant would ever dare to claim about themselves.
+
+The smaller, regular bruan’chii are so little to me now I have to be careful not to squish them as I move over to allow them the space to gather around their mother. The blue mana has extended out to this point in the tunnel now, finally letting the tree-ish people through to welcome their parent.
+
+I mean, regular bruan’chii are around the same size as a person, perhaps a little bigger, but I’m too huge at this point for that to matter. The Grove Keepers, on the other hand, are significantly larger than a person and can still look me in the eyes, though I outmass them to a hilarious degree. Much more tree-like than their smaller brethren, the Grove Keepers are chunky, with thick, wooden limbs covered in leafy vines and deep, green or brown eyes that seem to hold a deeper wisdom that can only be found by being made of wood or something.
+
+As if wood is as awesome as diamond! Just nonsense.
+
+There are two of the huge Keepers here with the group, and one approaches me, holding up a hand in welcome. I feel their mind reach out to mine, and I accept the bridge, allowing it to snap into place.
+
+[Greetings to you, great ant,] they say in a deep, slow voice.
+
+[Hey there. Nice to see you. Hope everything has been… not as unpleasant as it could be while you’ve been down here.]
+
+The bruan’chii didn’t have to show up to support our invasion of the fifth, but they did, even though the Mother Tree hadn’t been keen on the idea. They’ve been very helpful across the base, chipping in on the front lines, helping the medical teams, and carrying truly ridiculous quantities of building materials.
+
+The Grove Keeper meets my eyes with a slight smile on his wooden face.
+
+[We have been well, but it is wonderful to be in the presence of the Mother once more. She is the light that brings warmth to our spirits.]
+
+If I’m not wrong, they probably mean that in some literal way. I don’t know much about the bruan’chii, but I do know that they’re all connected in some way, to each other and to the tree.
+
+[Well, let her know that we’re grateful she’s here,] I say grumpily. [I know she didn’t really want to expose herself in the fifth more than she had to.]
+
+Bringing attention to the fact that she’s here at all is something she wanted to avoid. Her real body is down here, after all, and the Legion in particular would be very interested to get their hands on that little bit of information. Or the Krath.
+
+[I believe Mother understands that the battle for the fifth is… important… to us… for her… and for all of us who live in the Dungeon.]
+
+The Grove Keeper has a slow, methodical way of speaking, but their mental voices are quite pleasant to listen to. Somehow they’re soothing, like rich soil or vibrant growth.
+
+I’m a bit sceptical that the Mother Tree is quite as invested as the Keeper thinks they are, but hey, who am I to know the ways of their parent better than them? The best possible way to get her to stick around and help more is to make sure the bruan’chii remain involved in the invasion, which I will certainly endeavour to do, all the way to the end.
+
+Gweheheheh.
+
+I wave goodbye to the Keeper and watch as they trundle off to commune with the Mother Tree. As a group, the bruan’chii seem very happy to be closer to her, lots of big smiles and all that. It almost makes me wish we could bring the Queen down here to cheer everyone up, but I know that would end in disaster. There would be no way to keep her from the front line, and if one of the Colony were kidnapped, she would charge off into the unknown without hesitation.
+
+Well, that’s enough mucking around. We’ve won a glorious victory here for the family, which hopefully means we have a little breathing room. It might be time for me to go and spend some Skill Points and see if there’s anything I can spend my Biomass on.
+
+Not that I have much….

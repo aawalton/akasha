@@ -1,0 +1,87 @@
+---
+id: 2b00bffe-681c-538a-abbb-190d1722d410
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1674 - Shake Your Money Maker pt 4"
+slug: 0324-chapter-1674-shake-your-money-maker-pt-4
+partOf: chrysalis
+position: 324
+ownLength: 852
+unit: words
+ownProgress: 852
+publishedAt: 2025-10-24
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2700090/chapter-1674-shake-your-money-maker-pt-4"
+royalRoadId: "2700090"
+markedReadAt: "2026-06-29T19:54:10.678Z"
+---
+
+Of all the champions born to the Colony, it would be difficult to say which was the most disruptive. Solant is obviously a strong contender, reshaping the way the family approached war and instilling a… particular focus and drive towards victory that hadn’t existed before.
+
+In her own way, Merchant was exceptionally influential to the fate of the family. For good or for ill, she forever changed the relationship between the Colony and wealth, and how we interacted with the outside world. This came with many benefits, yet also many drawbacks, entangling us in ways we did not expect, and that were difficult to cut loose when the time came.
+
+-           Excerpt from the private notes of Historiant.
+
+The Brood Tenders had no idea what to make of this situation. The hatchling was showing interest in something. That was good! But they had no idea what it was or how it worked. That was bad!
+
+How could they help guide the new champion and give her advice if she was already doing something they didn’t understand? The simple answer was, they couldn’t! Yet it was their role and purpose to help rear and guide the young, so they did their best to understand it.
+
+Inside the brood chamber, surrounded by eggs and larvae, the hatchling had asked the soldiers to place a box for her, and then asked the Tenders to make sure the larvae didn’t eat it. Which they would, if given half a chance. They would eat anything.
+
+Obviously, the Brood Tenders had insisted the box and all its contents be given a thorough inspection and acid wash to ensure it was properly clean before reluctantly agreeing. They didn’t want to put up barriers for the new champion so early in her development, but they weren’t really comfortable with anything being brought into the brood chamber.
+
+“So can you try and explain this to us again?” Attendant, the chief Brood Tender in charge of the new champion asked.
+
+“It’s so simple,” the hatchling said. “I’ve created a store that holds money for people.”
+
+“They just… give you money?” she said.
+
+Attendant didn’t really understand the idea of money in the first place, but she knew it was some human thing and they seemed rather obsessed with it.
+
+“I’ll give it back to them,” the hatchling said. “They are giving it to me for safety. The humans are worried someone is going to steal their money, so they give it to me, and I will store it here in the nest. Now they don’t have to worry anymore.”
+
+Well, it would certainly be difficult to go into a Brood Chamber and take anything out of there without thousands upon thousands of ants hunting you down. You had to get past those ants to get in there in the first place.
+
+“But don’t you also pay them for giving you money?”
+
+“Yes,” the hatchling nodded, “an interest payment.”
+
+“Interest in what?”
+
+“Money.”
+
+“I… I see.”
+
+This was all rather confusing, but she was desperate to be supportive.
+
+“It’s all very clever,” she assured the little hatchling. “But don’t you want to make money?”
+
+“Of course,” the little hatchling nodded eagerly. She had been overjoyed to find something she wanted to make. Money, as it turned out. How this would be useful to the Colony, Attendant had no idea. If only the Eldest were able to come up and speak to the little one, perhaps they might be able to make some sense of it.
+
+“So how are you making money if you are giving it away?”
+
+“Two ways,” the hatchling said, ticking them off on her antennae. “First, the fees give me an influx of coins I can use to cover the interest payments. Most people won’t be able to save enough money to completely eradicate the fees, so I will earn money from those accounts each year. The second way,” she said confidently, “is by using this money to make more money,” she tapped the box for emphasis.
+
+“Isn’t that other people’s money?” Attendant said. “How are you going to spend it when it isn’t yours?”
+
+“It was part of the contract they signed when creating their account. I’m allowed to allocate up to fifty percent of their funds for investing.”
+
+This was just… so confusing.
+
+“And they’re… fine with that?”
+
+“The deposits are also fully guaranteed by the Colony, so there isn’t really any risk to them.”
+
+“What does that mean?”
+
+The little hatchling looked away.
+
+“It means the Colony will pay them back if I make a mistake and lose their money…”
+
+That… didn’t seem good.
+
+“Are you going to lose their money?” Attendant asked, suspiciously.
+
+“Of… of course not!” the hatchling said. “I’ll be very careful with it. It’s just like the human Jasper said to me yesterday, ‘sometimes you have to spend money to make money’. Now I have some money,” she tapped the chest again, “so I can start spending it to make more!”
+
+“And you’re sure nothing will go wrong?”
+
+“I’m very sure,” the little hatchling declared, nodding for emphasis. “Nothing can possibly go wrong.”

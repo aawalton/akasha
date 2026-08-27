@@ -1,0 +1,95 @@
+---
+id: d2d9bc5d-381b-5cda-a96a-2fa8ae8b4261
+page-type-slug: story-chapter-royal-road
+title: "153. Writing Woes"
+slug: 0153-153-writing-woes
+partOf: breaker-of-horizons
+position: 153
+ownLength: 2129
+unit: words
+publishedAt: 2021-11-18
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/789526/153-writing-woes"
+royalRoadId: "789526"
+---
+
+In artificing, it was common for experiments with glyph sequences to be done on paper first. If anything went wrong, the resulting burst of arcana would likely disintegrate the paper along with the scribed glyphs, thus destroying the anchor of the sequence. The arcana of the glyphs might linger for awhile longer even after the physical anchors were destroyed, but it was a generally simple safety measure in dealing with runaway sequences — make sure your physical anchors are weak. It was for that very reason that lasting sequences tended to be scribed using metals or gems, which could hold up under more strain and safely channel more arcana without falling apart.
+
+However, the moment Caden scribed the first glyph, he knew this general principle was not going to help much. Most of the Basic and Advanced Sets were simple and could be scribed with nothing more than a writing implement and a small application of arcana, but the glyphs the Demiurge had given to him for the creation of the wysana were like the ones Caden had seen in the forest clearing with Emilia, when the augera themselves had scribed a circle of glyphs in oblivion that were meant to transform a person to fulfil the inscrutable purposes of the Prophecy. So even as he scribed with the stylus and ink, he was applying arcana in oblivion. That meant that if anything went wrong, destroying the paper on which the glyphs were scribed might not have much of an effect at all. The glyphs would still endure in oblivion.
+
+"If I have to scribe with arcana in oblivion while I'm using ink here... doesn't that mean I can just do away with the ink and work on oblivion alone?" Caden wondered aloud, staring at the finish glyph. It was disconcerting to see that he had just produced something that felt so alien. His eyes were not focusing on it properly, and it was only with his arcanic senses and the careful folding of his mind that he could see the glyph for the multi-dimensional thing that it was.
+
+"A very good question," Caldwell said, his voice a little distorted through the protective cube. He made that vague "go and try" gesture.
+
+Filled with sudden apprehension, Caden hesitated, but decided that it ought to be safe enough. The glyph, as he understood it, was simply meant to reference something else. In his mind, it was like a signpost to a specific part of the caster's auric-ambient-flare, though he wasn't yet sure exactly what part the glyph was supposed to point to. Still, before he tried scribing it in oblivion alone, he briefly rehearsed what he would do if it started gathering arcana. Unravelling it was clearly the answer, but he had never really done it to an oblivion glyph before, so he took a bit of time to figure out how the standard unravelling would theoretically map over onto a oblivion glyph. When he was ready, took a deep breath, folded his mind to look more carefully into oblivion, and gingerly scribed the glyph with pure arcana alone.
+
+As soon as Caden was done and he relaxed, the glyph lost cohesion and fell apart with a faint whisper of fading arcana.
+
+"It doesn't work?" Caden blurted, surprised.
+
+"Why did you expect it to work?" Caldwell asked conversationally.
+
+"I've seen—" Caden hesitated, unsure of how much he wanted to share with the Demiurge.
+
+"You've seen the augera scribe glyphs in oblivion alone," Caldwell finished.
+
+"How did you know that?" Caden asked sharply.
+
+With a wry smile, Caldwell gestured again. This time, Caden's attention was drawn to the dimensions of oblivion, where the Demiurge was pointing as a cluster of lines that Caden understood to be excerpts of his own past. "They're there for the reading, Caden. I told you, the Fateweavers leave these things lying around. In time, if you apply yourself properly, you'll be able to read all sorts of things too."
+
+"So you'll always have the advantage over me, because you know what I've done, and you can even read what I was thinking at the point the decision was made?" Caden's eyes narrowed as he finally made a connection, and he berated himself for not realising this earlier. "That's how you seem to know what people are thinking. You're not reading minds, not exactly. You're reading the spool of Fate."
+
+"Advantage over you? Aren't we past hostilities at this point?" Caldwell sighed, sounding a little disappointed. "If it comforts you, Caden, then you'll be pleased to know that it only worked on you up till the point the Fateweaver disentangled you from the augera. Since then, your {~?~} nature has been unfettered, and without the augera piggy-backing on you and serving as a point of contact, your so-called 'fate' is inscrutable. As far as I can tell, even the Fateweavers cannot read you any more."
+
+There were so many conflicting emotions running through Caden that he had to turn away from Caldwell to force himself to remain calm. He knew that his life was laid bare before the Fateweavers, but it was still something that he didn't always register on a visceral level until moments like these. After a few moments, the prevailing emotion that helped him centre himself was one of relief — the Demiurge had confirmed what the Fateweaver herself had revealed when she divested him of the augera's protection and simultaneously freed him from their manipulation; the fact that his {~?~} aspect was something that Fateweavers couldn't touch, and because of that, they had to 'work around it'.
+
+"Right," Caden said tersely, turning back to Caldwell. "Yes. I've seen glyphs scribed in oblivion before, with no physical anchors. So if the augera could do it, then what just happened? Why couldn't I do it?"
+
+"Why do conventional glyphs fall apart?" Caldwell prompted, taking his cue from Caden and acting as though nothing had interrupted their session.
+
+"Because their physical anchors are destroyed, and the arcana tied to it dissipates," Caden supplied.
+
+"And from that observation, what do you deduce about the nature of glyphs in general, regardless of whether they are conventional ones, or of the more esoteric sort like these?" Caldwell asked, tilting his head slightly.
+
+Caden frowned. "The arcana must be tied to an anchor. Conventional glyphs use physical anchors. So... the more esoteric glyphs have anchors in higher dimensions?"
+
+"But you've just tried scribing a glyph in oblivion alone and it did not work," Caldwell pointed out. "What is missing?"
+
+"I scribed with arcana... but I didn't have a proper anchor in oblivion?" Caden asked tentatively. "But... how do I..."
+
+A rock. The answer came to Caden with a jolt. Back when he had been in the clearing with Emilia, there was a point when the augera had directed their attention to a deep layer in oblivion. As mortals, their minds could not understand the totality of it and had so supplied the impression of a rock — because that was what they associated with things that were foundational. However, in the same breath, the augera had pointed out that it was not the foundational, fundamental layer of reality, and it was only 'a deep layer. The deepest we see'. That made sense, seeing as how Caden knew the wellspring-ocean-core was an even more eldritch being that operated or existed in an even higher, more complex state than the augera.
+
+Caden's head was starting to hurt a little from considering all that, but he came away from the memory with one important realisation — in oblivion, he had only ever been channeling arcana in the usual way. He had never before worked to directly alter the layers of reality that lay outside a mortal's ordinary perception.
+
+If he understood all this correctly, then it meant that if he wanted to scribe glyphs in oblivion alone and have them be stable, he needed to use the segments of his auric-ambient-flare to 'write' in oblivion, much in the same way he wrote with his hands and with a stylus and ink in the physical world. He needed to directly interact with those other layers of reality, and anchor his glyphs there instead of in the physical world.
+
+But what would he write on? What was there? In a space where physicality meant nothing, what did it mean to leave a 'physical' anchor? And furthermore, what was he supposed to write with? Was he supposed to use his auric-ambient-flare like some clumsy finger, or was there a way to fashion some sort of oblivion-stylus with oblivion-ink?
+
+"Can you scribe glyphs in oblivion alone?" Caden asked Caldwell, his brow furrowed as he considered the problem.
+
+Caldwell merely smiled enigmatically, which Caden took as a 'yes'. Even though Caldwell probably wasn't going to give a straight answer, it was worth asking, if only to voice out the problem so he could better think about it. "How do you anchor a glyph in higher dimensions if you don't know what those dimensions are exactly? And what do you use 'there'?"
+
+"You're thinking with the dimensions you're familiar with," Caldwell noted. "When you phased earlier, you already noted how distance does not have the same meaning in oblivion. Why do you think you'd need analogues of physical implements to properly anchor a glyph in oblivion?"
+
+"Okay, so I don't need an oblivion-pen. But... what am I scribing with? Just my auric-ambient-flare? And what am I scribing on?"
+
+"Both good questions," Caldwell said approvingly. "Keep them in mind as you continue to work with the physical anchors for now. I'm sure you'll get some insight in due course."
+
+That was a frustrating non-answer, but Caden knew better than to press further. The Demiurge's pedagogy hadn't failed so far, so Caden tried to exercise some patience as he turned the problem over in his head.
+
+Now that the first glyph was scribed, he had to put together a sort of parentheses that would still work on the parts of the glyph that protruded into oblivion. He drew the parentheses on paper around the glyph and applied enough arcana to form the usual blocker, then sat back to watch how it interacted with the glyph.
+
+He was pleased to see his earlier theory confirmed — the ordinary parentheses did nothing to stop the glyph from forming further connections at all. After all, most of it was working on the higher dimensions of oblivion, and the paper and arcanic anchor in the physical world were really just little tethers to the greater whole. The normal parentheses were like tying a string around someone's big toe and expecting it to hold them in place.
+
+Extending the parentheses to work in oblivion required manual work. Caden shored up the arcanic component and brought it into oblivion, then slowly teased it into the right 'shapes' where it would interfere with what he thought were this particular glyph's connection points. It took him several minutes to get it to take the right form, and he spent just as much time again triple-checking his work to make sure it was sound.
+
+"I think I've insulated it enough," Caden said, rubbing his temples as he nursed a slight headache from the mental effort. "But how do I know for sure?"
+
+"You start with the next glyph and watch for any connections," Caldwell answered cheerfully. "Mind you shield yourself against any backwash if you've missed a spot and end up having to unravel it."
+
+Caden took in a deep, steadying breath, sheathed himself in a protective layer of arcana, then started on the second glyph. Now that he knew what he was doing, the process was a little smoother. As his stylus traced the physical anchor for the glyph, he dipped only a bit of himself into oblivion to supply the arcana to finish it in the higher dimensions.
+
+As soon as the second glyph was done, he sensed a connection being made and his attention snapped to an anchor-point in the first glyph that he hadn't adequately blocked. Belatedly, he realised he hadn't yet planned how to safely unravel the second glyph, so he tried to unravel the first instead, but was slowed by his own adapted parentheses. In his haste, his unravelling provided a spark of arcana that fuelled the unfinished clause.
+
+The resultant explosion threw him against the wall of the Demiurge's protective cube. His own protections cushioned him from the worst of the damage, but he still felt slightly bruised as he slid to the ground. The rest of the paper in the cube that hadn't been disintegrated by the blast was slowly burning up.
+
+"Right!" Caldwell clapped his hands together, and the flames went out. "Let's review what went wrong, then have another go."

@@ -1,0 +1,169 @@
+---
+id: 928103ff-3e4b-5188-bc52-bcfee7831196
+page-type-slug: story-chapter-royal-road
+title: "94.5 - A New Life (Sally Interlude 1)"
+slug: 0095-945-a-new-life-sally-interlude-1
+partOf: cat-girl-evolution
+position: 95
+ownLength: 2514
+unit: words
+publishedAt: 2026-02-28
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3101059/945-a-new-life-sally-interlude-1"
+royalRoadId: "3101059"
+---
+
+It had been two months since she had been forced to flee her home, and Sally was living the life of a wanderer. The fishing village was uninhabitable, and a rift had formed between her and the last survivors, so she had no more reason to stay. Besides, she had always wondered what the rest of the world was like. She had been born and raised in the little village, but Henry had only moved there later after his grandfather, a traveling merchant, decided it was time to retire, moving out to the coast with his only living relative.
+
+Henry had always told her stories about his trips to other parts of the continent, and they always fascinated her. They had talked about leaving one day. As a fisherman and a baker, their skills weren’t exactly in high demand in the rest of the world, but as long as they stuck to the waterways, they could at least survive. It wouldn’t be the most luxurious life, but it had all sounded so romantic.
+
+On her own, it was a bit tougher, but the kingdom of Elyria had a sizable relief fund for disaster survivors, so she had more than enough to get by for a year or so of wandering before she decided to settle down. Nothing particularly noteworthy had happened thus far, but it had been peaceful. She hitched rides with merchants and slept in inns, enjoying the feeling of freedom while doing her best not to let the loneliness get to her. She still cried herself to sleep sometimes, and when there was wine around, she drank a bit more than she should have, but she was doing alright.
+
+She had not made it too far from her starting point, but she was quite far inland, deep in Elyria’s fertile farmlands. All around, she could see countless shades of yellow and green, with snow-capped mountains to the east and the edge of a blue lake to the west. She was not used to the scenery, and as she traveled, she often spent most of the day sitting on the back of one of the merchant wagons doing nothing but taking in the sights and sounds.
+
+The caravan she was with at the moment was on its way to Briarton, a city not much bigger than Riverfork, but the journey in total was a week long, and they were only on the fourth day. Each night, they had stayed in a different village, each smaller than the last as they got further from the major cities they lay between, and this fourth village was the smallest one yet. It reminded Sally a bit of her own hometown, though rather than fishing, the town's trade seemed to be farming.
+
+The town only had a single inn, but Sally never made it quite that far. She had originally meant to. She got off the wagon at the entrance to the village, telling the merchants that she wanted to take a short walk to stretch her legs and take in the scenery, and that she would be at the inn later. However, as she took her leisurely walk through the town, she was suddenly stopped by a firm hand on her shoulder. She flinched and turned around and found that the one who had stopped her was an unassuming gray-haired woman. Or at least, she appeared unassuming until Sally checked her Namecard.
+
+[ Margaret, the Earthmover, lvl ??? ]
+
+Ordinarily, one had to choose between displaying their Race, Class, or Profession on their Namecard. However, a rare few people could earn a fourth option: an Epithet. It was the Enlightened equivalent to a monster’s Name, and anyone who could earn an Epithet was bound to be powerful. Sally had only ever heard of people with Epithets, and never in her life would she have expected to meet one in a small town like this.
+
+“Young lady,” said Margaret. “Where did you get that staff?”
+
+“M– my staff?” stammered Sally.
+
+She glanced back over her shoulder and saw that the cloth she had wrapped around Yona’s gift had come undone, revealing the coral staff underneath.
+
+“It was a gift!” she said quickly. “From– from a family member.”
+
+The older woman narrowed her eyes.
+
+“Do you know what it is?”
+
+Sally did not. All she knew was that it was a lot more durable than it looked, and that it was a final gift from the cat that was more than just a cat. She had been carrying it around as a keepsake, not sure what to do with it. Nervously, she shook her head, which caused the older woman to sigh.
+
+“That, young lady, is a Soul Weapon.”
+
+Soul Weapons were rare to the point that they could become the foundation of entire dynasties. A Soul Weapon would grow with its wielder, and even if it was weak now, the coral staff that she was carrying was something that many would kill for. When she realized that she had been almost openly carrying such a valuable item around, it almost felt like her heart had stopped. If she hadn’t been wise enough to wrap it up…
+
+“Can you bond it to yourself?” asked Margaret.
+
+“H– how do I do that?”
+
+“Put your hand on it, and give the mental command ‘Bond.’”
+
+“O- Okay.”
+
+Sally fumbled with the straps on her pack until she freed the staff, then unwrapped it and gave the command. She felt a warmth flood through her, and suddenly, she felt she had a mental connection to the staff before her. In front of her, the older woman breathed a sigh of relief.
+
+“Good,” she said. “That’s good. You should now be able to store it in your soul, where it will be safe.”
+
+“How do I–?”
+
+Before she could even finish asking the question, the staff vanished, seeming to have understood her intentions.
+
+“Oh…”
+
+“Keep it in your soul whenever possible,” said Margaret. “No one will be able to take it from you now, but if the wrong person finds out you have it, they might try to force you to give it to them. Having a Soul Weapon is very dangerous for those not powerful enough to hold onto them.”
+
+“I– I understand! Thank you!”
+
+“Good,” said Margaret, nodding.
+
+The older woman took a step back, then looked Sally up and down and gave her a warm smile.
+
+“Did you arrive with the merchants?”
+
+“Yes. But I’m not one of them. I’m just traveling with them.”
+
+“Well, welcome to Roswyn. It’s not much, but it’s cozy, and the people are good.”
+
+“Th– thank you.”
+
+“You look like someone with an interesting story. If you don’t have any specific plans, would you like to join my family and I for dinner tonight? The food will be better than what they serve at the inn, and I may be biased, but I think the company is better too.”
+
+Sally internally debated for a moment, and as she did, her stomach grumbled. She blushed, but the older woman’s smile only widened.
+
+“There’ll be more than enough food,” she said. “And I’ll be able to give you some more advice on caring for your Soul Weapon.”
+
+“Y– you’ve already done plenty…” said Sally.
+
+“Nonsense!” said Margaret. “If anything, I haven’t done enough! Come and join us. We’ll take care of you.”
+
+Sally was worried about imposing on such an important person and her family time, but she had never been the best at saying no.
+
+“I– I need to tell the merchants first.”
+
+“No problem!” said Margaret. “We need to go by the inn to get to my place anyway. Let’s walk together.”
+
+Along the way to Margaret’s house, Sally found her gaze wandering to the houses and other buildings around her. They weren’t outlandish or anything, but as soon as she arrived at the city, they had struck her as slightly strange, and now that she was looking closer, she understood why. They were all carved from single pieces of stone. At least their base frames were. Most had embellishments and decorations all around, but the base structures were all seamless stone. And though Sally’s mana sense was not very honed, she was fairly certain that the stone houses were a lot denser in mana than they should have been.
+
+Seeing this, her gaze turned back to the older woman walking beside her. Margaret’s stern and serious attitude had disappeared when the Soul Weapon did, and she was now cheerfully calling to the villagers, exchanging greetings and banter with all of them. None of them seemed at all affected by the Epithet on her Namecard, instead treating her like just another villager. But seeing the houses, Sally knew that could not have been the case.
+
+She built the entire village herself…
+
+Margaret’s house was much larger than the rest of the houses in the village, but when Sally entered, she realized that it was not because of opulence. It simply needed to be that large, because Margaret’s family is enormous.
+
+“Add another table setting!” Margaret announced when she entered. “This is Sally. She arrived with the merchants earlier, and she’ll be joining us for dinner tonight.”
+
+Following that, every resident of the house crowded around them, and one by one, Margaret introduced Sally to all of them. In total, there were eighteen people in the house. There was Margaret, her husband, Peter, two of her children and their spouses, six grandchildren, the youngest of whom was a year younger than Sally herself, two of the grandchildren’s spouses, and two great grandchildren. It was almost overwhelmingly chaotic inside, but Margaret looked like the happiest person in the world as she introduced them all.
+
+After things settled down a bit, Sally found herself sitting at an extremely long stone table beside Margaret’s husband Peter, feeling awkward. All around, the other family members were working to get dinner ready, either preparing food, taking care of the kids, or setting the table, and Sally felt extremely out of place.
+
+“Pretty crazy in here, huh,” said Peter with a smile.
+
+“Y– yeah,” agreed Sally.
+
+“It’s only like this around dinner,” he said. “During the day, the kids are getting tutored, and the adults are out working, and at night, the kids are in bed, and the adults are reading, or having a calm chat, or out on a night walk. These moments can get annoying, but it makes the quiet ones later so much more pleasant.”
+
+“Mmm.”
+
+Sally wasn’t sure how to respond, so she let the conversation die for a few seconds until Peter started speaking again.
+
+“You feel like you’re intruding on our lives, don’t you?”
+
+“Wh– what?” asked Sally. “No, I didn’t mean–”
+
+“It’s fine,” he chuckled. “And you don’t have to worry about it. Maggie does this all the time. She goes on walks around the village whenever merchants are arriving, and if she spots someone interesting in the caravan, she grabs them and brings them here for dinner so she can talk to them. She used to be an Adventurer—and a damn good one—and while she retired willingly, I think she still misses it. The travel, the excitement, the unique people… She’s got a family and a village to care for, but she always gets her fix by inviting people like you over for dinner. So don’t worry about it. You’re not intruding at all. In fact, just by being here, you’re helping.”
+
+“Oh.”
+
+Sally still felt out-of-place, but Peter’s words helped, and she was able to settled down and relax a bit. Dinner arrived not long after in the form of a whole roast pig, a few fresh-baked rolls, and some potato-based sides. When Margaret arrived, Peter slid over, making room for her between himself and Sally for her to sit. Once everyone started eating, Sally’s worries vanished further, as she realized that most of the people there didn’t actually care that much about her. They weren’t ignoring her, but even as she and Margaret talked, they had their own conversations on the other side of the table, only tuning in to what Sally was saying occasionally.
+
+Margaret asked Sally about how she had come to arrive at Roswyn, and while she was reluctant at first, Sally eventually revealed the full story. She talked about her life in the fishing village, her husband, and briefly mentioned Yona before talking about the disaster that forced her to leave. She started crying when she talked about the harrowing night when she and the other villagers had fled, and the morning after when she learned that only ten had made it out.
+
+When she reached the point that she had to stop speaking, Margaret pulled her into a hug, and for a minute or so, Sally just cried as Margaret gently rubbed her back. When Sally calmed down, she felt embarrassed, but she also felt lighter, as if a small weight had been lifted off her shoulders.
+
+“S– sorry,” she said with a nervous smile. “I didn’t mean to–”
+
+“You don’t need to apologize,” said Margaret. “I understand.”
+
+“Th– thank you…”
+
+Aside from the kids and their parents, the rest of the table was quiet, and looking at Sally with expressions of pity. The happy and energetic mood of the dinner had been thoroughly spoiled, but it didn’t stay that way for long.
+
+“Well, I think you’re pretty amazing,” said one of Margaret’s grandsons. “You’re stronger than me, at least. If I went through something like that, I’d probably be drowning in alcohol in some tavern right now.”
+
+“You’d be doing that anyway if grandma didn’t keep you here,” called his sister.
+
+“Hey!” he said.
+
+The rest of the family chuckled, and just like that, the conversation returned. Sally’s eyes were red, but soon, she joined in, and the whole room was filled with voices and laughter once again. The talking continued well after everyone had eaten their fill, until eventually, the same grandson who had broken the silence stood up with a smile.
+
+“Who’s ready for some wine?!” he asked.
+
+There was a chorus of cheers, and he gleefully disappeared around a corner into the kitchen, returning a moment later with a metal cart containing four wine bottles and enough cups for all of them. Clearly, wine was something that they all enjoyed. He pushed the cart around the table, stopping at each adult and pouring them a cup before moving on.
+
+“Would you like some too?” he asked when he reached Sally.
+
+“Yes, pl–” she started.
+
+“No,” said a voice next to her.
+
+Sally turned in surprise to see that it was Margaret’s daughter who had spoken. The one that Margaret had introduced as the town’s chief healer. The rest of the table gave her questioning glances as well, but her gaze remained stern and focused on Sally.
+
+“You shouldn’t be drinking in your condition,” she explained.
+
+“My condition?” asked Sally.
+
+“Oh,” said the healer, her gaze softening. “You didn’t know. Well, this is an awkward way to find out, but you’re three months pregnant.”

@@ -1,0 +1,151 @@
+---
+id: 25d5244c-100b-5867-a53f-747f03321acc
+page-type-slug: story-chapter-royal-road
+title: "25: Double Whammy"
+slug: 0025-25-double-whammy
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 25
+ownLength: 2006
+unit: words
+publishedAt: 2025-09-05
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2576650/25-double-whammy"
+royalRoadId: "2576650"
+---
+
+Chloe licked the last smear of brain off her fingers, savoring the taste. Her new arms still felt a bit stiff, but they moved smooth enough. She gave her fingers a wiggle, then stretched both arms wide just to admire the fact that they were attached again.
+
+On the other hand, the vision she got from the Terror Wing’s brain had been a total letdown. Mostly just the thing lurking around, waiting for prey. Boring stuff.
+
+Shaking it off, she turned her attention to the glowing system text floating in the air. Acid Resistance. Acidic Spit. Invisibility. All that from one brain? Chloe was practically drooling at the thought of trying everything out.
+
+First on the list: acid spit. Chloe crouched near a rock, puffed out her cheeks, and let out a sharp exhale. Nothing.
+
+She frowned, cheeks ballooning again as she blew harder. Still nothing.
+
+“Seriously?” she muttered, smacking her lips before sticking out her tongue for a quick inspection. No luck. So she went all in, making an exaggerated hrrrk sound. Still not a single drop.
+
+If acid spit wasn’t just about spitting, maybe it needed attitude, like spit with feelings. Angry spit.
+
+Chloe planted her hands on her hips and focused hard on imagining the nastiest spit ever created. Something hot and weird bubbled in the back of her throat, making her gag, then pffft!
+
+A small glob of green goo slid out and splattered onto the stone at her feet, sizzling on contact. Disgust twisted into delight as her eyes lit up. She could chew through a door with this stuff.
+
+Chloe spat again, putting her whole dramatic flair into it. The blob smacked into a nearby boulder with a wet splat, hissing loud as it chewed a smoking hole straight through the rock. Acid spit was officially her new favorite trick. This stuff was gonna come in handy.
+
+Next on the list: invisibility. Alright, magic juice, make me disappear!
+
+But despite trying to turn invisible, nothing happened. Chloe stared down at herself with a pout, muttering, “Uh… hello? Invisible mode? Activate?”
+
+She tried everything, waving her arms around, squeezing her eyes shut, even chanting “stealth” in her head over and over. And then, against all odds, something actually happened.
+
+It took a while, but a ripple spread across her skin. Chloe froze, watching as her fingers blurred before melting out of sight. Her arms followed, then her chest, her legs, piece by piece until the space where her body should’ve been was nothing but empty air.
+
+The sound that tore out of her next could only be described as a victorious squeal. She flailed her arms in wild excitement, or at least, where her arms used to be. She couldn’t see a thing, but she could feel everything, the weight, the movement, the solid presence of herself hidden under this perfect, glorious invisibility.
+
+Chloe wandered around the cavern, giggling like a maniac. She tiptoed, then drew her sword, curious. “Wonder if this stays invisible too—”
+
+The second she swung it, her body popped back into view with a shimmer. “Oh, come on!”
+
+It took Chloe ten seconds to become invisible again. After that she tried to swing her sword in a wide arc. Just like before, the effect shattered the instant the blade moved, her form snapping back into view. She threw her head back in exaggerated despair, arms loose at her sides like the world had betrayed her.
+
+More tests followed. Running broke the invisibility. Jumping broke it. Casting magic shattered it in an instant, the second a cursed stone flickered to life, the invisibility fizzled out. Even spitting acid ended it, which left her laughing when she reappeared mid spit.
+
+By the time Chloe finished experimenting, the rules were clear. The invisibility held for about a minute if she stayed perfectly still and did absolutely nothing. The second she tried anything useful, it dropped immediately. And when it broke, she had to wait a couple of seconds before being able to activate it again.
+
+Chloe wiped her hands on her cloak, smiling wide despite the limitations. Her invisibility wasn’t perfect, but she was sure she'd be able to improve it over time.
+
+Afterwards, Chloe wandered deeper into the cave with a bounce in her step, arms swinging like she didn’t have a care in the world. The tunnels narrowed and twisted before dipping downward, the air cooling with every step.
+
+The cave sprawled out in eerie silence, broken only by the occasional drip of water echoing from somewhere far ahead. Chloe kept moving at a steady pace. Somewhere ahead was her target. Somewhere inside these twisting halls was Luther, and with each step, she was certain she was closing in.
+
+She kept going until something broke the silence, a heavy thud. Then another. Footsteps, big ones, coming fast. Ooooh, company.
+
+The sound grew louder until something barreled out of the darkness. It was huge.
+
+A mountain of pale gray flesh crouched under the low ceiling. Its legs were thick as tree trunks, its arms so long they dragged across the stone, ending in thick claws. Knobby lumps bulged beneath its stretched skin, like someone had jammed rocks under the surface. Its jaw jutted out sharp and crooked, ropes of drool swinging from its mouth as it breathed.
+
+Chloe had heard adventurers talk about creatures like this before. Troll. Big, mean, and very difficult to kill.
+
+The troll roared before charging at Chloe. That alone would’ve been enough to get her attention, but then she saw the flames.
+
+Somehow, the troll's entire back was on fire. Chloe blinked hard. Why was it on fire? Was that normal? No way that was normal.
+
+The troll thundered closer, each step rattling loose stones from the cavern walls. Chloe planted her feet, ready for the inevitable attack that was coming her way. But it never came.
+
+The troll barreled past her, its claws gouging trenches into the stone as it surged forward. Heat blasted off its burning back in shimmering waves, the fire crawling hungrily along its spine and spilling sparks across the ground.
+
+It didn’t swing. It didn’t even glance her way. The troll kept running and ignored Chloe entirely.
+
+Chloe froze, stunned. Why hadn’t that troll fought her? And why had it shown up already on fire?
+
+She didn’t have to wonder for long. Two blazing shapes glowed in the distance, bright and furious.
+
+They towered at least twice her size, their bodies nothing but living fire wrapped tight around cores of molten stone that pulsed like beating hearts. Heat poured off them in rolling waves, warping the air until everything shimmered. Where heads should’ve been were yawning maws of flame, snapping and snarling as embers spat from their bodies with every step.
+
+The closer they came, the worse it got. Sparks spat from their bodies with every heavy step, each ember hissing out against the stone. Their fists were the size of Chloe's head, dripping with fire.
+
+And then Chloe saw it. Right in the center of each blazing body was a massive, glowing orb of molten light. It pulsed slow and heavy, like a heart too big for its chest. If she had to guess, that was their core, the thing keeping these things alive.
+
+Chloe narrowed her eyes, grinning despite the prickling burn crawling over her skin. They needed names, Big Burny and Hothead. Proper introductions before the carnage.
+
+Magic throbbed in her palm, twisting into a jagged stone wreathed in violet energy. The projectile shrieked through the shimmering air before slamming into Big Burny’s chest.
+
+Black mist exploded outward in a violent bloom, making its flames gutter low for a breath. Chloe smiled, triumphant, right before the fire roared back, eating the darkness like it was nothing.
+
+“Fine,” she muttered, conjuring another Rock.
+
+The second shot tore into Hothead’s torso, bursting in another cloud of dark smoke. Again, nothing lasting. The fire only flared wilder, like it was mocking her for trying.
+
+Chloe ran sideways just as a molten fist hammered the earth where she’d stood. The impact shook the cavern, shoving her off balance, but Chloe rolled with it, skidding across loose grit as shards clattered around her.
+
+Another cursed rock burned into her hand mid motion. She flung it, sending it crashing into Big Burny’s shoulder. The explosion of mist earned her another flicker of dimmed flames, only for the beast to shrug it off like dust.
+
+Chloe felt frustrated, these fiery thingies weren’t just strong. They could take a lot of hits too.
+
+A roar ripped through the chamber, loud enough to rattle the stone. Hothead lunged, its molten fist arcing high, dribbling glowing slag that hissed where it struck the floor.
+
+Chloe dove beneath the swing, cloak brushing a wave of heat that scorched the edge to curling black. She hit the ground hard, and rolled clear as another strike hammered down where she’d been.
+
+The fire creatures moved as one. Heat clawed at her from every side, blistering the skin along her arms as she stumbled back.
+
+Chloe spun and bolted for the far wall, tucking behind a cluster of jagged boulders. A fiery fist smashed into the stone above her head. She crouched low, pressing her back against the rock.
+
+She needed time, and invisibility could get her exactly that. Chloe clamped her jaw tight and willed her body to still. No twitching. No flinching. Not even a toe wiggle. If this didn’t work, she was going to be an extra crispy zombie.
+
+Unfortunately for Chloe, Big Burny and Hothead found her before she could vanish. The first one swung, its molten fist slicing through the air with a hiss sharp enough to cut bone.
+
+Chloe rolled hard as heat clawed at her cloak. She came up in a crouch, teeth bared, and hurled a Cursed Rock Shot straight into its chest.
+
+The strike landed with a crack. Black mist boiled against the flames, choking and twisting, dimming them for a second, before they flared back brighter, hotter.
+
+Another swing tore for her skull. Chloe ducked low and spat.
+
+Acid hissed through the air, spattering across Big Burny’s leg. Flames stuttered as molten rock blistered, sloughing away.
+
+Chloe spat again. And again.
+
+Her throat burned raw as green acid sizzled deep into glowing flesh. Fire peeled away in ribbons, and one massive arm sagged, cracking along its molten seams.
+
+She didn’t stop. Chloe lunged closer, summoning another cursed stone Rock Shot and aimed it into the creature’s core. The blast shook the chamber as it became covered in smoke.
+
+When it cleared, Big Burny was on the ground and cooling down, its flames coughing out into nothing as its body hardened into brittle gray stone.
+
+Hothead gave her no time to rest. It charged, the ground trembling beneath every step.
+
+Chloe threw herself sideways, boots skidding hard across the scorched stone as heat clawed at her back. She hit the ground, rolled through grit and ash, and came up with a hiss tearing from her throat.
+
+Acid flew from her mouth, sizzling through the air before splattering against Hothead's… head. A shower of sparks burst as fire peeled back.
+
+Chloe snarled through the smoke, fingers curling as dark magic throbbed to life in her palm. A jagged stone shimmered into being, wreathed in dark energy.
+
+She hurled it into the glowing orb pulsing in the creature’s chest. The explosion cracked the chamber.
+
+Black mist erupted in a storm of twisted shadows as the elemental convulsed, fire spewing wild in a desperate surge. Its core split, glowing veins crawling outward before bursting.
+
+Chloe spat again, throat tearing raw as the glob of acid streaked across the glowing cracks. Hothead wailed, its scream jagged as shattering stone, and its body detonated in a final, furious blast of fire. Flames vomited from its chest before collapsing inward, and the towering mass crashed to the ground beside its twin.
+
+[You have killed: Fire Elemental (Level 17)]
+
+[You have killed: Fire Elemental (Level 17)]
+
+[Experience Awarded]

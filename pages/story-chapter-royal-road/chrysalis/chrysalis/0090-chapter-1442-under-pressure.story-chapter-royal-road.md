@@ -1,0 +1,83 @@
+---
+id: d6989642-362d-5a71-9625-712fe165502a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1442 - Under Pressure"
+slug: 0090-chapter-1442-under-pressure
+partOf: chrysalis
+position: 90
+ownLength: 968
+unit: words
+ownProgress: 968
+publishedAt: 2024-10-30
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1874805/chapter-1442-under-pressure"
+royalRoadId: "1874805"
+markedReadAt: "2026-06-29T19:46:51.131Z"
+---
+
+The core shapers are absolutely delighted to get their greedy little mandibles on the core I bring back. Investigating the nature and capabilities of the fifth stratum monsters is incredibly important, especially the more highly evolved ones. Bella acted like I handed her the greatest treasure in the world when I dumped the core into her mandibles.
+
+“Hey. The turtle wasn’t that impressive. For a tier seven? Barely passable.”
+
+“Not all of the wild grown monsters are as smart as you, Eldest,” she replies without even looking at me. “Most of them have less than impressive evolutions, let alone the sorts of powers that you have.”
+
+Well… I mean… I am impressive. And shiny, in my own uniquely purple way.
+
+She rushes away, ready to study the thing, and I’m immediately beset by a very unimpressed-looking Mendant.
+
+“Think you’re all that?” she huffs, somehow reading the smug tilt to my antennae. “You ain’t nothing without us to keep you alive.”
+
+That is very true.
+
+“None of us are anything without the Colony behind us,” I agree. “Without the family, I’m not anywhere near as strong.”
+
+Which is both metaphorically and literally true. The Vestibule is transferring the Will, the… I don’t know… energy of the Colony, straight into me, but also, without the others, without my family, how could I possibly have made it this far? There’s no chance, absolutely none, and I have zero doubt about that.
+
+“Good that you appreciate it,” Mendant snaps, already climbing over my carapace and poking at me with her sensitive antennae.
+
+Without anything to do, I flop down on the spot and patiently wait as the medic does her work. Of course, it’s never just one healer who shows up to handle my ‘checkups,’ and soon I’m crawling with five of them, prodding away.
+
+It takes an hour before they’re satisfied there’s no remaining toxicity within me, and by that time, Invidia, Tiny and Crinis have arrived, along with the general herself.
+
+[Hey, Invidia. I know the healers are awesome, but can you have a look, just for my peace of mind?]
+
+His eye glitters brilliantly, and even without his mouth manifesting, I can still feel the smile.
+
+[Of coursssse,] he practically purrs. [You can countsssss on me.]
+
+No need to be weird about it. Ever since he evolved, he’s way too happy when he’s asked to help, and I have no idea why. But hey, whatever, I’m happy he’s happy.
+
+“How did your battle with the beast go?” Solant asks, wasting no time, as usual. In fact, I’m starting to feel confident she has an actual allergy to wasted time. If there’s an inefficiency anywhere near her, she starts to twitch, I’ve seen it. Nothing huge, her antennae mostly, a leg here or there, but it’s there, everytime.
+
+Just to test my theory, I delay my response just a little, and sure enough, the twitch is there. It starts in her antennae, but as I continue to wait, it spreads to her forelegs. It’s so slight, I’m not sure anyone else has noticed. I don’t want to push my luck too far, after all, wasting the time of this particular ant is, in fact, a really bad idea. She’s only running an entire invasion of the most dangerous place in the Dungeon (that we know of), with millions of lives in her mandibles.
+
+“It was fine,” I say quickly, feeling guilty. “The monster was unusually durable, but targets further away from the Colony and the construction sites can be dealt with using… more efficient methods.”
+
+“Going further out also exposes you to more corruption, which decreases the amount of time you can fight, and increases the risk of major contamination. There’s only so far the Colony is willing to expose you to danger.”
+
+Guh. This is rapidly becoming a sticking point lately.
+
+“It’s never been a problem before. I’ve put myself on the line for the family time and time again. Gladly!”
+
+“As the family grows more capable, there are more things that we can achieve without you, which means we can afford to save you for those tasks only you can do.”
+
+“Bah. There’s no need to be so precious about it. I’m here to take on the most dangerous tasks faced by the family. That’s what I want. Load me up.”
+
+Solant considers me for a moment and I start to get uneasy.
+
+The Colony has been more than willing to throw me at the front of this invasion, because they don’t really have a choice, but more and more I feel like they’re starting to look at me like they do The Queen. I have to emphasise, I do not want that. Not at all. It would drive me even more nuts than it does The Queen, and I would be completely aware of all their schemes to keep me out of danger via the Vestibule, making the entire effort a complete waste of time.
+
+“You put me in the position I occupy because I don’t operate like the others,” Solent stated. “Because you needed someone who was willing to do things differently.”
+
+She waits for an answer, but I’m not sure what she’s after, so I just nod.
+
+“I want you to trust me. As long as you cooperate, I promise I will utilise your strength in the correct way.”
+
+Well, I sure as heck don’t want to have to consider the grand plan. If I tried to cram everything Solant has been working on into my head, it would explode. I feel fine with her calling the shots, of course I do. I just have to confirm one thing first.
+
+“You don’t hold a grudge about our tunnel ball match, do you?”
+
+Her antennae flick derisively.
+
+“Of course I do. I always will.”
+
+Well, nards.

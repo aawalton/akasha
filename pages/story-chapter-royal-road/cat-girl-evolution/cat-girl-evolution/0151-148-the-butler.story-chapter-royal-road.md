@@ -1,0 +1,281 @@
+---
+id: 929edb98-575f-5318-8f9d-6f29c15f486b
+page-type-slug: story-chapter-royal-road
+title: "148 - The Butler"
+slug: 0151-148-the-butler
+partOf: cat-girl-evolution
+position: 151
+ownLength: 2823
+unit: words
+publishedAt: 2026-08-12
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3803046/148-the-butler"
+royalRoadId: "3803046"
+---
+
+I stay my sword, and peer at the snake man’s Namecard.
+
+[ Sebastien, the Swamp Butler, lvl 28 ]
+
+Hey, Abby, you see that? Now that is a proper butler name.
+
+“Shut up. And that is the most stereotypical butler name ever. I think that Tyler is much more creative, and–”
+
+Nah, you can’t name a butler Tyler. That decision alone has lost all right to criticize other names.
+
+“I want that frog,” I say, pointing my sword at the snake man’s hand.
+
+“I will gladly sell it to you,” says Sebastien. “But surely you can recognize that I am the one who went through the trouble of catching it, and that is worth some compensation, yes?”
+
+I narrow my eyes at him, but his reasoning is sound. It’s not how I wanted to get the frog, but this is fine.
+
+“Okay. How much do you want?”
+
+“500 gold.”
+
+“500?!”
+
+“I spent a long time catching this.”
+
+“He did, and it’s a rare delicacy.”
+
+“Hmph. Fine.”
+
+At that moment, Lauren finally catches up to me, stopping in a branch beside me with her weapons drawn.
+
+“What’s going on?”
+
+“He wants to sell us the frog.”
+
+“Sell it to us? For what?”
+
+“500 gold.”
+
+“Huh. Fair, I guess.”
+
+“Yona, what’s going on?” asks A, floating in on B’s shield.
+
+“That snake monster wants to sell the frog to us for 500 gold.”
+
+“Oh, well, I suppose that’s fair,” says B.
+
+“He was the one who caught it,” says A, nodding.
+
+“Thank you,” says Sebastien.
+
+A second later, Chad arrives, surfing the water on a board made of ice. He looks at me, then over at the snake man, then back at me, and before he can ask, Lauren speaks.
+
+“We’re buying the frog for 500 gold.”
+
+Chad blinks in surprise, then nods.
+
+“I’m glad we could come to an agreement,” says Sebastien. “And I hope this doesn’t come as a surprise to you, but as a monster living in the swamp, I don’t have a badge or a bank account, so it will have to be in cash.”
+
+We all turn to Lauren, who is the only one who actually carries physical gold coins. She rolls her eyes, then reaches into her spatial bag and pulls out five leather bags, each with one hundred coins. I conjure a giant mana hand to take the bags over to him, and he grabs two of them, feeling their weight before nodding and reaching back to put them into a bag strapped to his back. Then, he sends a jolt of mana into the frog’s brain to kill it, and places it on the hand.
+
+“A pleasure doing business with you all,” says Sebastien, bowing.
+
+“Yeah…” I say, examining the frog.
+
+It’s definitely the right species, and it smells fabulous… but it’s way smaller than I thought it would be. I mean, I knew it wouldn’t be big, but now that I’m holding it, it’s barely bigger than my hand. Even if it’s the best thing I’ve ever had, what am I supposed to do with such a small portion? I can’t even share this with my minions.
+
+“Say, Sebastien, why were you hunting this thing?” I ask.
+
+“Well, because my master wanted it.”
+
+“Will he be okay with you selling it like this?”
+
+“Of course. He much prefers gold to delicacies.”
+
+“Is he also a Named monster?”
+
+“He takes offense to the term ‘monster,’ but he is a Named, yes.”
+
+“I didn’t hear about any known Named living in this area,” says Lauren. “Are you fresh spawns.”
+
+“Indeed we are,” says Sebastien. “I myself only came into being five months ago, and my Master has not been here for much longer than that. But I assure you, we are quite benevolent. In fact, we have already established trade deals with some other local villages, and those villages are quite happy with our work thus far.”
+
+“I see…” she says.
+
+“Anyway,” I say. “You don’t seem to be that good at hunting these. I mean, based on the scent trails, it took you a really long time to catch this one.”
+
+“Yona, that was kinda rude,” says A.
+
+“Sorry, I just meant that you don’t seem to be the right person for the job.”
+
+“It’s alright,” says Sebastien with a chuckle. “I admit that I am not exactly a hunter. However, that just now was also deliberately a slow hunt. I was hoping that the frog would lead me to others, as they tend to group up when they spawn together, and even when they don’t, they have a way of sensing each others’ burrows. Sadly, this one was quite solitary, but at least I know I don’t have to search this region for more armies.”
+
+“Armies?”
+
+“A group of frogs is called an army, yes.”
+
+Abby, is that true?
+
+“Yes, yes it is.”
+
+Wild.
+
+“Wait, you said ‘more’ armies. Does that mean you know where to find groups of these things?”
+
+“Yes, but before you ask, I cannot share their locations. Curating them has taken considerable time and effort, and they are currently an excellent source of income for us. If you are interested in purchasing more, however, we would be amenable to that. And they would be at a lower price than that one if you bought in bulk. Or if you have anything to barter, we would be open to that as well.”
+
+I glance down at the frog in my hand, then back at the snake man. It’s a little bit of an anticlimactic end to the adventure, but this actually works out for the best. Catching a bunch of these little guys would be a pain in my royal ass, and if we can just buy a bunch and move on, that would be better, even if it does burn through our money. We’re rich!
+
+“Okay,” I say. “Let’s do that. We’ll buy.”
+
+“We don’t have that much gold on us, though,” says Lauren quickly. “We’ll have to go back to central Dryadil if you want it in cash.”
+
+“Of course, of course,” says Sebastien nodding. “Though, you are Adventurers, yes?”
+
+“We are.”
+
+“There might be something you can do to help us that doesn’t require any gold on your part. You see, we have a mounting issue with a dangerous monster trying to kill my master, and would pay handsomely for its elimination. Handsomely enough to be worth quite a few Interspace Tree Frogs.”
+
+“Like a hundred?” I ask.
+
+“Perhaps.”
+
+“How dangerous?” asks Lauren. “We are not weak, but we won’t agree to something like that without more details.”
+
+“Oh, I understand completely,” says Sebastien, bobbing his head. “Frankly, I don’t know too many details myself, and I am in no position to be able to make such negotiations without permission. I was merely suggesting it. If you wish, I can take you to meet my master, and he can tell you more.”
+
+“Sure, that sounds–” I start.
+
+“We need to discuss amongst ourselves first,” says Lauren loudly, cutting me off.
+
+“Take all the time you need.”
+
+B immediately erects a soundproof barrier around us opaque enough to block Sebastien from view, then nods to Lauren.
+
+“Okay, this is definitely another one of Yona’s Chosen One candidates, right?”
+
+“Absolutely,” say the twins.
+
+“Wait, really?” I ask.
+
+“A newly-spawned Named monster who appeared at the same time you did, and one who immediately resorted to trading with nearby towns instead of trying to attack?” says Lauren. “Absolutely. A natural Hermit might be similarly peaceful, but it would under no circumstances go out of its way to start trading with nearby towns. It has to be one of the Chosen One candidates.”
+
+“I guess that makes sense,” I say. “So then are we not going to meet him?”
+
+“I didn’t say that. I just mean that we have to be careful.”
+
+“All of the Chosen One Candidates we’ve encountered so far have been highly dangerous,” says A.
+
+“This could all be a trap to lure you in.”
+
+“There’s no way,” I argue. “The snake was chasing the frog since way before we even knew we were gonna come out here. They couldn’t have predicted that unless they can see the future.”
+
+“Maybe this specific meeting isn’t a trap, but it wouldn’t be difficult to predict you would come here,” says A.
+
+“You didn’t really make your intentions secret, and this specific area is where a known Pseudo-Delicacy is located,” says B.
+
+“While this was just a lucky meeting, they could still intend to kill us.”
+
+“Or they could be lying about their benevolence, and they’re planning to kill us for unrelated reasons.”
+
+“Yeah, but I already finished the First Event. He’s not Targeting me, so he shouldn’t want to kill me.”
+
+“Well, the competition is to find the one true Chosen One, right?”
+
+“Even if you passed the First Event, if this one is opportunistic, killing you would still be to his benefit.”
+
+“Damn, you’ve got a point… But I really want those frogs.”
+
+“I agree that we should take caution,” says Lauren. “But I also think that we should go meet with him.”
+
+“You do?” say the twins.
+
+“Well, think about it. No matter what happens there, we have Yona’s Dungeon. We can run away there if things get dangerous. And if we turn down this meeting, and try hunting the frogs on our own, we’ll either waste a lot of time, or we’ll come into conflict with them anyway. At least this way, we can prepare. And if it turns out there’s no special danger, then we’ll have our Pseudo-Delicacies much more easily than anything else.”
+
+The twins rub their chins in sync, then nod at the same time.
+
+“That makes sense,” they say together.
+
+“I like this plan,” I say. “Let’s do it.”
+
+“Okay, but we have to be prepared,” says Lauren. “Weapons, spells, shields, Dungeon, all ready to use at a moment’s notice.”
+
+“Right,” we all say.
+
+“Good. Then we can drop the barrier.”
+
+The shield vanishes, and Sebastien is standing right where he was before. Actually, is it still ‘standing’ when he doesn’t have legs? Abby?
+
+“I have no idea. I’d say yes, since he’s holding himself upright.”
+
+I see.
+
+Anyway, he’s still standing there, waiting patiently for us to be done and respond.
+
+“We’ll do it,” says Lauren. “We’ll meet your master.”
+
+“Wonderful!” says Sebastien. “It’s not too far from here. If you’ll follow me, I will guide you. Oh, and one thing. No matter what you do, do not call attention to his Name.”
+
+“Why?” I ask.
+
+“Because he is currently sensitive about it. It would put him in a bad mood, and that would sour the negotiations.”
+
+“Fair enough.”
+
+“Now, let us go.”
+
+Sebastian slithers through the water of the swamp with ease only matched by Chad on his ice surfboard, while Lauren, the twins, and I follow on one of B’s shields, floating silently between the trees. We encounter quite a few monsters, but they all give us a wide berth. Only the most foolish try to challenge us, and are promptly killed and thrown into my Stomach.
+
+It takes an hour, during which I take a brief nap, but we soon arrive at a section of the swamp noticeably different from the others. Rather than patches of mud between large sections of tree-spotted water, the mud is now stone, and is sold enough to stand on. Streams of water flow through all the stone, none narrower than a meter, but there are stone bridges periodically, allowing for complete dry traversal of the land.
+
+In this area, there are many monsters, but unlike before, they neither run or attack. They just watch silently as we pass by, apparently calmed by the presence of Sebastien. When I look at them, though, I start to get a little suspicious. Almost all the monsters are vaguely humanoid.
+
+There are crocodilian people, frog people, a few serpent people like Sebastien, and various others. A few even look like humans, though they’re all beautiful young women, and there’s a kind of emptiness in their eyes that looks really creepy. Aside from them, it all reminds me of Skarn and his fishmen. The possibility had crossed all our minds, but seeing all of these, I am now fairly certain that this other Chosen One candidate is a Leader type. And if that’s the case, that is very not good. This could turn into an extermination mission very quickly.
+
+“Don’t be too hasty to make that judgement. Perhaps there is a variety of peaceful Leader, like there is for Infiltrators.”
+
+Is that a thing?
+
+“I would know if you had chosen to become a Leader. As it stands, it’s only a hypothesis. But the mana concentration in this area is the same as the rest of the swamp, which is a point in its favor.”
+
+Huh. Yeah, I guess you’re right. Also, damn, I really need to learn some kind of telepathy Skill so I can tell these things to the others.
+
+“Yes. If only you had weeks of travel with nothing to do during which you could have learned such a Skill.”
+
+Shut up.
+
+“You brought this issue upon yourself entirely of your own will.”
+
+Yeah, yeah, whatever. I’ll do it later.
+
+Sebastien leads us through the stony area full of humanoid monsters until we reach a section that’s walled off from the rest, and vaguely castle-shaped. It’s not a very fancy castle, and the construction is very crude, but it’s huge, and pretty clear that’s what the creator was going for. Sebastian stops at the main gates, and turns back to us while bowing.
+
+“If you’ll give me just one moment. I must inform him that you have arrived.”
+
+We nod in response, and he slips in through a side door. I track him with Food Sense as he slithers deep into the castle and beyond my range. He reappears a few minutes later, slithering back, but this time instead of coming through the side door, the main gates open with an awful, ear-splitting scratching sound as the stone doors scrape against the stone ground.
+
+“The king will see you now,” says Sebastien.
+
+“The king should fix his doors,” I mutter.
+
+“He is currently searching for a proper earth mage to redo his castle,” says Sebastien congenially.
+
+“Good.”
+
+As we walk toward what I assume is the throne room, it becomes clear that it is not just the exterior of the castle, but the interior that needs work too. The floor plan frankly makes no sense. It’s mostly just empty space with a few random rooms here and there. There seems to have been absolutely no forethought put into this place’s design. I bet even I could have done better than this if I wanted to.
+
+Despite all the empty space around, the throne room is somehow the biggest room in the castle. It’s almost the size of a football field, with a ceiling twenty meters high and supported by dozens of misshapen stone pillars. The pillars form a kind of corridor leading up to the throne itself, but they’re not perfectly aligned, and it really bothers me.
+
+The throne is the only thing here that actually looks kind of good, but it’s also kind of ruined by the one sitting on it. Not that he’s ugly or anything—he’s actually pretty handsome—but just his general vibe and demeanor suck. He’s huge, well over two meters, wearing nothing but a toga with an open front to show off his muscular, hairy chest. He’s got a really annoying, smug smirk on his face, and the throne is raised so that he can look down on all of us.
+
+On either side of him, pressed up against the armrests of the throne is a buxom woman wearing so little fabric they’re barely covered. Their name cards both show them as Greater Swamp Hags, which is the Greater version of the empty-eyed women outside, though these ones look slightly more lively.
+
+[ Zorg, Pseudo-Dragon of the Swamp, lvl ? ]
+
+Huh. Well, I guess that explains why he’s touchy about the name. But why is that in his Name? If he’s a pseudo-dragon, shouldn’t that just be part of his underlying species?
+
+“For evolved Dragons, as opposed to natural-born ones, their status as a Dragon must be tied to their Name, because without a Name, it is impossible to evolve into a true Dragon.”
+
+I see. Well, Abby, I bet you’re probably enjoying this. I bet you have some pirate dude on the first Floor of the Dungeon that looks just like this. Right?
+
+“No, I do not.”
+
+Is that because you didn’t want one, or because the Floor isn’t big enough for a full pirate gang?
+
+“No comment.”
+
+“Welcome to my humble home!” booms the man on the throne. “I heard you wanted to make a deal with me for some frogs.”

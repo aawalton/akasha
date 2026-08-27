@@ -1,0 +1,85 @@
+---
+id: b944eae4-c277-5db3-bfc1-8134c5cace54
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1586 - Ant-venturing"
+slug: 0234-chapter-1586-ant-venturing
+partOf: chrysalis
+position: 234
+ownLength: 1032
+unit: words
+ownProgress: 1032
+publishedAt: 2025-06-17
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2362475/chapter-1586-ant-venturing"
+royalRoadId: "2362475"
+markedReadAt: "2026-06-29T19:51:18.100Z"
+---
+
+Well, I have to say, after an hour or two spent on the trading floor, I was exhausted, reader. Me! Need I remind you, I was described as the indefatigable Tolly in my day!
+
+And as long as I can jolly well put one foot in front of the other, it remains my day!
+
+It was all very thrilling, reader, and I must say, the temptation to grab my ‘kerchief, wave it vigorously in the air and yell ‘SELL!’ was hard to resist.
+
+After watching all those people go mad trying to make a deal, I am ashamed to say I needed a sit-down and a cup of tea in a cool shaded area.
+
+Naturally, the Colony provided many such locations, and Emelia was able to guide me to one without too much difficulty. The girl was a lifesaver! No matter where we need to go, she always gets us there and there was always room for us. Remarkable.
+
+“Is all of this really necessary?” I couldn’t help but ask, waving a hand toward the crowded floor, not far away from us. “Surely, there is a better way.”
+
+At least we could converse in a normal tone of voice now.
+
+“As I understand it, this system largely developed after the implementation of the automatically updating price-boards,” she explained. “With real-time price changes, it became possible to grab items the moment they began to dip in value. Since the Colony allows a merchant to sell contracts, they can make an order to purchase a hundred tons of Colony-grown wheat a year in advance, and if the price of wheat happens to go up, they can sell that contract to someone else for a profit without having to transport the goods or handle the sales. Many of the merchants in there don’t handle goods at all, but contracts.”
+
+I couldn’t help but stare.
+
+“What does the Colony get out of people exchanging contracts?”
+
+She smirkd. The little minx actually smirkd!
+
+“Brokerage fees,” she replied with overwhelming smug energy.
+
+“And you’re telling me the Colony doesn’t understand money?”
+
+“They understand economics very well,” she assured me, “but they don’t understand money. The Colony is an entirely cashless society.”
+
+“Then what happens to the tremendous profits generated here?” I said, exasperated.
+
+“The Colony pours it into various projects. Most of it goes into rearing future generations. A good chunk is used to import things the Colony can’t source within our own lands. Constructing nests, city development, paying for monster removal, lots of things.”
+
+“The Colony needs others to fight monsters for them?” I asked skeptically.
+
+Many people question many things about the Colony, but their success as a fighting force is not one of them. Having weathered numerous waves since their arrival in the Dungeon as a new species, across multiple strata, they are clearly capable.
+
+“Why don’t we go there next?” Emilia offered, and of course, I accepted.
+
+Off we went, wandering to the outside of the mountain to take in the wonderful sights and sounds that the Colony had created there. I have to say, it was more remarkable than I imagined. I could spend many a page gushing about the gardens, the dappled woods, the chuckling streams and vibrant life the ants had cultivated on the side of their mountain.
+
+I don’t know why, but I expected it to be more austere, more utilitarian, but I couldn’t have been further from the truth. Art abounds wherever the Colony goes, reader, and it was wondrous to see.
+
+Close to the shoreline, but a small distance from the flourishing port, Emelia guided me to a large building with a domed roof. On either side, mighty soldier ants had been depicted in glittering stone. They gave off an indomitable and powerful feeling. Dear reader, believe me when I say that when viewed correctly, they truly have a noble and dignified visage.
+
+Although, when I looked close, I saw both soldiers were carrying smaller ants, healers, Emelia told me. Those two looked less dignified and more… surly. If not downright irritated.
+
+Inside the building, the craftsmanship of the ants was once again on display. Glittering light filtered through the windows to play across the intricate carvings, the magnificent tiled floor and the gleaming columns holding up the roof. All around the room, ants sat on their unique chairs while non-ants milled in groups or perused the many boards with organised rows of paper posted on them.
+
+“This is where the Colony commissions outsiders to undertake monster suppression missions,” Emelia said with a broad gesture. “As you can see, it isn’t exactly rare.”
+
+I could see that it wasn’t! There were so many enterprising and strong-looking young men and women that I’m honestly quite shocked I hadn’t heard about this practice before! As I looked around admiringly, I spied something that caught my eye. Surprised, I looked a little closer to confirm I did see what I thought I saw.
+
+I tapped Emelia on the shoulder and pointed.
+
+“My dear, why is there a truly hideous-looking centipede sculpture there?”
+
+I certainly hadn’t seen any other artwork within the Colony that depicted a non-ant insect of any kind. I could immediately see that this piece wasn’t intended to be… complimentary. I knew the creature was supposed to be a centipede by its form, but it had been depicted as twisted, diabolical and ghastly. Ugly in the extreme, weak and decrepit, it was shown as pathetic and evil.
+
+What I’m saying, reader, is that the ant who carved this REALLY doesn’t like centipedes.
+
+“Oh, that,” Emelia said brightly. “The Colony has an active bounty on centipede monsters. If you bring the core here, the Colony will double its value. The statue marks the dropoff location. See the desk over there?”
+
+“Double it? That’s generous! What sort of centipedes is the Colony wanting hunted?”
+
+“All of them,” Emilia smiled.
+
+“I… see. And how many of these bounties do they pay out each year?”
+
+“All of them,” Emilia repeated, her eyes tightening, but her smile not budging an inch. “There is no limit to the type or number of centipede bounties the Colony will pay. In any stratum of the Dungeon. Ever.”

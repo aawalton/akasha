@@ -1,0 +1,83 @@
+---
+id: 800518de-d600-5cab-a5aa-055dd4800957
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1393 - Within the Sanctum part 3"
+slug: 0040-chapter-1393-within-the-sanctum-part-3
+partOf: chrysalis
+position: 40
+ownLength: 1205
+unit: words
+ownProgress: 1205
+publishedAt: 2024-08-15
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1758967/chapter-1393-within-the-sanctum-part-3"
+royalRoadId: "1758967"
+markedReadAt: "2026-06-29T19:44:55.326Z"
+---
+
+The Nameless who had been Emelia allowed her senses to roam across the room, taking in every possible spectrum of sensory input. Like a hawk, she watched, like an owl she listened, like an ant, she scented.
+
+There was nothing, of course. The Nameless were not so careless as to allow the slightest hint of their presence to escape. Controlling body temperature was just one of the tricks they had learned under the guidance of the Sanctum, and holding themselves so still they did not shift the air was a rudimentary exercise.
+
+She moved slowly, in the way of the Nameless. Not even the air stirred at her passing, nor the dust on the stone floor.
+
+Even so, she was detected.
+
+A blur from her right, shadow morphing into a leg that arced down from behind her head. Emelia twisted her body and used her forearm to deflect the blow, then leapt backwards to gain space. This was a gamble, after all, she still didn’t know where the other combatant was hidden.
+
+As it turned out, she had lost that bet. No sooner did her feet touch the floor than a hand darted out from the darkness, latching onto her leg and pulling.
+
+More limbs extended from the shadow, trying to wrap around her leg and bring her to the ground, but Emilia was quick; snapping out with both fists, she struck multiple times in quick succession. The first hand slackened around her calf, numbed by the pressure point strikes, and she freed herself, spinning away from the first attacker, who had attempted a low-risk strike as he approached.
+
+All three were exposed now. Even in the perfect darkness, they were totally aware of each other. They felt the movement of the air, the resonance of the slightest sound, even their sense of smell strained to its limits to track the movements of the others.
+
+The three-way stalemate ended quickly. From her left came the first attack, and Emelia danced backwards, drawing the assailant in front of her to pursue. They were too wise to fall for such a shallow ploy, and restrained themselves, stepping quietly as each of the three tried to position one of the others in the middle.
+
+Again, they did not wait for long; the moment the slightest opening was sensed, the battle resumed. Short, sharp exchanges followed, but none of the three was able to find a significant advantage.
+
+“Break,” the command came from nowhere, but everywhere at the same time, and the three sprang away from each other and waited.
+
+The shadows gathered and resolved themselves into an ant, the Nameless One, who watched them calmly, but did not speak. The three continued to wait, and the darkness shifted once more. Immediately, they could sense a presence gathering in the chamber around them, an endless hunger, a fathomless rage, filling the space. The darkness itself was watching them.
+
+All three bowed low as they felt the presence focus upon them. A moment later, it reached out to their minds.
+
+[You are doing well.]
+
+The three Nameless felt gladness well in their hearts at this praise. To hear such affirmation from the Shadow herself was… beyond words. Thin tendrils began to extend from the walls, lines of darkness that reached out to caress their faces.
+
+[You have become connected to Him, and you must prove yourselves worthy of it. Doing well is not enough. You must be perfect, or as close to it as you can be. I do not want to ask of you more than you can give, but to achieve this standard, you must pull out all of your ability.]
+
+Each of the Nameless nodded; they were ready, more than ready. Whatever the Shadow demanded, they would give. From the wall, the weapons rack was revealed, and each of the Nameless walked forward to take their armaments of choice.
+
+Emelia did not favour any of the larger or longer weapons. She took two short daggers, their blades curved wickedly. They were agile and nimble, easy to conceal and perfect for the feint-heavy style she had grown to favour.
+
+The Shadow gave them time to set themselves, and then she began. Tentacles extended, materialising out of the darkness, hundreds of them. Emelia breathed deep, pushing her instincts to their limit, and beyond. When the attacks came, they arrived in a flurry. Slivers of pure darkness shot toward her from a dozen angles, too many to block all of them at once.
+
+She moved, a perfect step that avoided half the strikes, for the rest… her daggers darted left and right, slithering through the air with precision and speed beyond human comprehension. Beaten back, the tendrils pulled back, only to strike again.
+
+Each of the three engaged in their own battle, trying to defend against the relentless attacks of the Shadow. No matter how many they cut, blocked or dodged, there were always more, seeking difficult angles, shooting through the weak points in their defence and forcing them into an ever more desperate defence.
+
+[Do you think this is enough?] the Shadow demanded. [Do you really believe you can stand against me alone?]
+
+Emelia felt her heart quaver as more, and more, and more tendrils of darkness manifested in the room around her. There must have been hundreds, perhaps thousands, far too many for her to defend against. As if to taunt the Nameless, the tendrils bobbed and waved like blades of long grass in a non-existent breeze. The Shadow was demonstrating her total control over this forest of darkness.
+
+Then they surged forwards.
+
+There was nothing left to do but rely on the instinct the Nameless had honed from the moment they’d begun their training, and Emilia’s was screaming that there was only one way out.
+
+Her fellow Nameless must have felt the same way, for as she leapt toward them, they leapt toward her, and they found themselves back to back against the wall of darkness pressing in all around them.
+
+As though they had practised in advance, as though it had been their intended strategy all along, the three moved in perfect sync. They deflected, blocked, and dodged as a unit. When the tendrils darted toward one, the others would cover. If one couldn’t recover in time, the others shielded them. No matter what the Shadow sent toward them, they moved together, and triumphed together.
+
+Of course, this was the lesson all along.
+
+The three Nameless stood panting, drained of strength, but triumphant, a sense of accomplishment suffusing their beings.
+
+[Good,] the Shadow said, sounding pleased. [Alone, you are weak, and you will never be able to be of service to Him. Together… you may well serve a purpose. We will continue with this training. Until you are able to fight as well as possible alone, and together, we will train.]
+
+The three Nameless bowed low in acceptance.
+
+The Nameless One watched the three humans acknowledge the Shadow, then felt that powerful mind reach out to her directly.
+
+[It may be worth training all of the Nameless for combat,] the Shadow said. [We must be able to defend ourselves, and deliver our wisdom more forcefully, where required.]
+
+The Nameless One nodded. There was wisdom in this.

@@ -1,0 +1,181 @@
+---
+id: 2a85d539-d412-53bd-9233-0906fe2dbace
+page-type-slug: story-chapter-royal-road
+title: "128 - Gluttony Wants Joakim"
+slug: 0130-128-gluttony-wants-joakim
+partOf: cat-girl-evolution
+position: 130
+ownLength: 2364
+unit: words
+publishedAt: 2026-05-18
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3412565/128-gluttony-wants-joakim"
+royalRoadId: "3412565"
+---
+
+Fiona had come to the conclusion that earning Sin Traits was entirely up to the gods, because if it was through fair assignment, she would have earned Wrath already. She had watched Joakim kill her family, raise them as undead, then gotten killed herself and also raised as an undead. She was reduced to a disembodied soul, then shoved forcefully back into her body as an act of “kindness” and forced to lie to the Adventurer’s Guild about what happened to her and everyone else in her hometown. And if that wasn’t enough, he had then made her lure the rest of her Party out so they could be killed and raised too. And Joakim had the audacity to raise them as mindless undead, letting their souls dissipate into wherever souls went when they died. And she had been seething for every moment of all of it.
+
+She had felt her fair share of despair in her time as his thrall, but the despair was always burnt away by the anger she felt whenever Joakim talked about the “greater good” and how he would “save the world” and all that bullshit. What greater good? Save the world from what? If he wanted to save the world, he should just off himself and save everyone else the trouble.
+
+She had actually told him as much, among other things, and had been mute ever since, by his command. She couldn’t speak even if she wanted to. And that only made her angrier. She had prayed to every god she knew to grant her Wrath and let her break free of his control, but thus far, had no luck.
+
+At least it’ll end now, she thought, drifting lazily about the bedroom where she had suddenly been thrust.
+
+She didn’t know where she was, or how she got there, but she knew that she was now separated from Joakim. That, at least, was a relief, even if the thought of him inhabiting her body sickened her to her core. Her ultimate death would be far away from him where he could screw it up. And maybe her Party members would finally get some peace.
+
+She looked down at the mindless husks that had once been her teammates, then turned away in disgust. They would have hated this just as much as she did. Destroying what they had become would be a mercy.
+
+As she turned away, though, her gaze settled on Annie, who was beginning to regrow her spine from the stump of her neck. At one point, Fiona had hated Annie. She hated the way the other girl went along with Joakim’s plans, assisting him in his horrific deeds, but at this point, she only felt pity. The poor girl arguably had it worse than she did. At least Fiona had closure. Her teammates were dead. They wouldn’t come back. But Annie kept getting strung along, and even if Joakim had been telling the truth about bringing her siblings back, now they were all under his control.
+
+I would rather they just died, if I were in her shoes.
+
+As Fiona waited for something to happen in their room, she idly considered going out to explore, but decided against it. What was the point? Maybe in the past it would have been fun. At this point, if it didn’t kill Joakim or herself, she didn’t care. Something would happen eventually, and she would react.
+
+And something did happen, eventually. Just as Fiona started wishing she was able to sleep, someone else appeared in the room with them. It was Yona, the cat, and Joakim’s target for them for the past few days. And the moment Yona appeared, Fiona attacked.
+
+It wasn’t that she wanted to. She just didn’t have a choice. Her final command from Joakim was to “kill Yona and her companions at all costs,” which meant that as suicidal as it was, she had to attack. She hadn’t even fully recovered her mana yet, and she knew the attacks were futile, but it didn’t matter. She had no choice. Just one more thing to be angry at Joakim for.
+
+“Hello, my–” started Yona before immediately vanishing as not only Fiona, but the other three mindless undead all attacked at once.
+
+Fiona didn’t sense any mana involved in either her appearance or her disappearance. It was strange, and would have been concerning if Fiona hadn’t already resolved herself to die. She just hoped the cat would come back soon and finish the job.
+
+She didn’t have to wait long. A moment later, the building they were staying in vanished, and the undead fell a half dozen meters to the ground. None of them were harmed by such a small fall, but they were caught off-guard and off-balance and were unable to react when Yona reappeared, this time in her humanoid form, swinging her massive sword. Matthew, who had once been their Party’s frontline defender, managed to raise his shield in time, partially blocking the strike, but the other two were not so lucky.
+
+Dolores and Peter both fell to the ground in two pieces, and while their undead flesh still wriggled and tried to rejoin, their bottom halves both disappeared, reappearing next to Yona where they were consumed by the horrid eldritch maw growing out of her back.
+
+Fiona was not idle during this, and she fired two explosive projectiles at where Yona stood, but the cat Blinked out of range, appearing behind Fiona with her sword raised.
+
+Finally, said Fiona, closing her eyes.
+
+But the end didn’t come quite yet. The spatial mana tore through her incorporeal form, reducing her mana to nearly nothing, but leaving her just barely alive. Or at least, as live as one could be while being a disembodied, reanimated soul.
+
+She had no mana left to cast spells, but her directive still remained in place. She still had to try to kill Yona at all costs, and unfortunately, there was still one thing left she was able to do.
+
+I hope you have high Willpower, she thought, activating Possess and flying directly into the cat’s soul.
+
+She had never used this Skill before, since until now, she had been bound to her own body, but as a Wraith variant, it was a Skill inherent to her race, and it came to her as naturally as walking. Finding Yona’s soul was easy, and entering it even more so, as the cat had no defenses in place to prevent it.
+
+Upon entering the soul, she found herself in a grand manor. It was in an unfamiliar style, but it didn’t take a genius to be able to tell that the edifice belonged to someone wealthy. Yona, presumably. She was a princess, after all. Fiona had thought the beastpeople tribes of the mainland were a bit more primitive, or at least primal in their decorative sense, but then again, she had never been, so perhaps that was just prejudice.
+
+Now, where is her core…
+
+“Another one?” said a voice from behind her.
+
+Speak of the devil.
+
+Fiona turned around to see Yona in her cat form walking toward her casually. She looked like an ordinary cat, but when they locked eyes, Fiona was filled with a sense of dread so intense it momentarily overcame her compulsion to kill. Rather than attacking immediately, she instead floated in place, frozen in fear.
+
+I shouldn’t have come here.
+
+She knew it was a ridiculous thought to have, given that she had no choice, but even so, she still regretted not trying anything else. Why couldn’t she have just died to the first attack? Why couldn’t she have spent more mana in her own attack to make sure she wouldn’t survive?
+
+“You don’t smell as good as the other one,” said Yona, sounding disappointed. “But you’ve got something interesting going on. Let’s see what it is.”
+
+The cat opened its mouth, and within it, all Fiona saw behind its pitch black void. She felt a powerful suction, then a terrible pain as a piece of her very soul was torn off and pulled into the cat’s mouth. She screamed in agony, momentarily blinded by it before the pain dissipated just as quickly as it had come, and she found herself looking at a System window.
+
+[ Soulbond (Joakim) has been lost ]
+
+Her eyes widened as she looked back and forth between the message and the cat. She couldn’t believe her eyes, but she also couldn’t feel her connection to Joakim anymore. And she had screamed. She shouldn’t have been able to do that. Joakim had commanded her to be silent.
+
+“Not bad,” said the cat, licking its lips thoughtfully. “Pretty interesting. Now, what else have you got…?”
+
+“Wait!” shouted Fiona. “Please! I’ll leave!”
+
+“Leave?” said the cat, lips stretching into an unnatural grin. “Now, why would I let you do that? A meal delivered itself directly to me, and you want me to let it go?”
+
+Fiona tried to cancel her Skill, but while she felt Possess deactivate, she remained trapped.
+
+“Did you really think you could just dive into a Glutton’s mouth and then go back out as you please?” asked the cat, stepping closer.
+
+“Wait! Please! I didn’t want to come here! I was forced!”
+
+“I don’t really care.”
+
+“Just let me get revenge!” shouted Fiona, floating backward in a panic. “Just let me kill Joakim! I’ll come right back! I swear!”
+
+That made the cat pause. “Joakim?”
+
+“Yes! Joakim! I just want to kill him! I’ve already lost everything to him. If I can just get revenge, I don’t mind giving my life as well.”
+
+“Hmmmm…” said Yona. “I do want to kill Joakim.”
+
+“We can work together!”
+
+“But you know what I’d rather do?”
+
+“Please!”
+
+“Eat him.”
+
+“...What?”
+
+“I want to eat Joakim. He smells delicious. Can you help me eat him?”
+
+Fiona was dumbstruck for a moment before her mind got working properly. Yona eating Joakim would mean that Fiona wouldn’t kill him. She really wanted to be the one to do the deed… but as long as he was dead, did it really matter? And if she was the reason he ended up dead, that would basically be the same. Also…
+
+“Can you make it hurt?” she asked. “For him, I mean. Like you did for me just now. Take everything from him. Tear his soul to pieces and make him suffer.”
+
+“Of course,” said Yona. “Then we have an agreement?”
+
+“Yes. Let me out, and I will help you consume Joakim.”
+
+“Deal,” said the cat, flashing another unnerving grin. “Now, get out of here.”
+
+The next thing she knew, Fiona was back outside of Yona’s soul, faint and nearly empty of mana, but still alive. It seemed that while she was in Yona’s soul, the battle outside had finished. It had been a destructive one, leaving craters and broken buildings all over, but in the end, Yona stood victorious. Not alone, though. Beside her was a tall man with long silver hair, the most gorgeous face Fiona had ever seen, and long robes that were open in front, showing off his chest all the way down to his waist.
+
+Annie was also there, spared from the fight by virtue of being physically incapable of fighting. She had been reduced to a severed head again, her healed flesh nowhere to be seen, but she didn’t seem to mind at all. In fact, she seemed relieved. Fiona was relieved as well to see that she had survived.
+
+“Don’t attack!” shouted Fiona, raising her hands in surrender before either Yona or the silver-haired man could finish her off. “I’m free now. I’ll help you with Joakim.”
+
+The silver-haired man started casting a spell anyway, but Yona raised a hand to stop him.
+
+“Alright,” she said. “But you’re gonna need to come with me.”
+
+While switching between instances on my own is as quick as a thought, moving others between instances is not so simple. Which is good, because that gives me plenty of time to process whatever the fuck just happened.
+
+First of all, Abby, how many hot guys did you give yourself?
+
+“No comment.”
+
+I mean, seriously. You’ve got the king, the butler, and now this mage dude? I bet you’ve got a hot knight captain and a mob boss somewhere here too. Probably a slave too, as part of an illegal human trafficking ring that you can rescue and earn his trust and affection.
+
+“H– How did you–?”
+
+I know how these things work. I see your goal here. You’re trying to give Queen Abby a reverse harem!
+
+“No! This nation is strictly monogamous!”
+
+So Queen Abby just keeps all this eye candy around for no reason, then?
+
+“Th– they just happen to be the most competent people! This kingdom is a meritocracy!”
+
+Right…
+
+Anyway, that aside, what the hell is this?
+
+[ Gluttony wants Joakim ]
+
+“Probably yet another thing you need to ask Arianne or Cecilia about.”
+
+Yeah, but… Since when could I do that? That ghost lady tried to possess me, and instead of getting eaten like Joshua, Gluttony freed her and spat her back out so she could help me eat Joakim? I can free people from mind control? Can I free Annie too?
+
+“We’ll have to ask the wraith what exactly happened. I’d imagine it’s not entirely off the table, though. That would solve a lot of issues.”
+
+It would…
+
+“But it won’t change much about the plan. And we should do the next step as soon as we can. Those kills only brought us to 6%. We’re going to need more, and we’re going to need it before Joakim can make any more progress. We need Andala.”
+
+Right. How much longer is–?
+
+“Aand, done.”
+
+Oh.
+
+“Second Floor is created. I am now moving Annie and Fiona there, and I will then move them back to your Party’s instance of Floor 1. This’ll set us back on the second Floor for a little, but not that much. I can do most of the design work while it’s disabled anyways.”
+
+Cool. I guess it’s time for step 2 of Amp.
+
+“Amp?”
+
+Abby’s Master Plan.
+
+“Oh yeah.”

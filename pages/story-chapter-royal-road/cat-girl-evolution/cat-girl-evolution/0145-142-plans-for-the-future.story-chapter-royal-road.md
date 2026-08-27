@@ -1,0 +1,273 @@
+---
+id: 675fdce7-2964-5957-9546-3f56c5003f93
+page-type-slug: story-chapter-royal-road
+title: "142 - Plans for the Future"
+slug: 0145-142-plans-for-the-future
+partOf: cat-girl-evolution
+position: 145
+ownLength: 2965
+unit: words
+publishedAt: 2026-07-24
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3717945/142-plans-for-the-future"
+royalRoadId: "3717945"
+---
+
+I want to like Fabio. I mean, I’ve only met him twice, but both times, he’s taken me out to eat some very delicious food. This time, it’s a soup restaurant that makes some kind of potato soup that tastes like my mouth is getting the best, warmest hug ever. And last time, he even made me a princess.
+
+Unfortunately, as the saying goes, “beware strangers bearing gifts,” and now that might be coming back to bite me.
+
+“So, what kind of evil scheme are you trying to involve me in,” I ask, after finishing my eighth bowl of soup.
+
+“It’s not evil, and it’s barely a scheme.”
+
+“A likely story. Besides, I didn’t even do anything. I don’t see how that’s my fault.”
+
+“I was told by Arianne that you knew that Vivitect was an illegal Class, and yet you took it anyway.”
+
+“…Well, yeah, but so what? Laws don’t apply if you’re rich or high in social status, and I’m a princess who is currently in possession of a hundred maligar fruits. Plus, it worked out fine in the end, didn’t it?”
+
+“Only because Arianne and I meddled.”
+
+“And? I bet it was one of you guys who told the kingdom anyway. ‘Cause I know my minions wouldn’t betray me, and no one else knows I have the Vivitect Class.”
+
+“Except the undead that saw you using it that you let leave the Dungeon without extracting any kind of oath about it.”
+
+“Ah, dammit. Those snitches! I save their lives and they turn around and rat me out?”
+
+“For what it’s worth, they didn’t share everything. I wasn’t here at the time, but from what I heard, the assassin didn’t know it was the Vivitect class that let you do what you were doing, and only realized his mistake afterward. And neither of them shared that you were a monster or that you had Gluttony, though I don’t know whether they knew those things either.”
+
+“Still, that’s annoying. But so what? That’s his fault, not mine. I’m not gonna let you exploit me just ‘cause someone else blabbed.”
+
+“I’m not exploiting you. I’m asking, in good faith, for a favor, while also reminding you that our collaboration is a mutual one, and that I have already done you quite a large favor.”
+
+“Those are some fancy words for exploitation.” I lean forward, pointing at him from across the table. “Listen, buddy, I may not look like it, but I’ve dealt with plenty of business partners trying ‘good faith negotiations’ and I know what you’re trying to do here. You did that work of your own volition without telling me first, and now you’re trying to pressure me into doing something in return. Sure, I might owe you a favor, but I’m the one who decides when I fulfill that. You don’t get to just come in here and say ‘you have to do what I say now because I helped you earlier.’ That’s not how this works.”
+
+Fabio’s tail twitches behind him as he stares back at me, then he flashes a toothy grin.
+
+“Alright, fair enough,” he says. “I guess I didn’t fully understand what kind of person you were when I came here.”
+
+“I don’t appreciate it when people try to make me do things.”
+
+“For the record, I wasn’t trying to exploit you. The favor that I hope you will do for me is actually related to the talk you just had with the Royal Inspector. And I think you’re going to want to do it anyway.”
+
+“And why is that?”
+
+“Because you’ll be able to eat food made by some of the best chefs in the kingdom.”
+
+“I’m listening.”
+
+“To get your permit for your Class, you’ll need to go to one of three locations that is legally able to give out said permits. One of those places is Ocula, the capital of Elyria, which is where I am currently staying, and where I am conducting business. One potential client that I am currently speaking with is a former adventurer and has expressed interest in meeting you after hearing about your exploits. He is hosting a banquet in three months, and I believe that if you attend that as my partner, and assist me in wooing him over, I will be able to close a very favorable deal.”
+
+“So you want me to go to a fancy banquet with you and talk to some old adventurer dude?”
+
+“More or less, yes.”
+
+“…That’s a much smaller favor than I was expecting. You could have just led with that and I probably would have said yes, instead of trying to exploit me.”
+
+“I will keep that in mind for the future. And yes, as you can see, it’s really not much trouble for you at all. It’s somewhere that you already need to go, it will have excellent food, and you hardly need to do any actual work. You just need to be cordial and polite, and indulge the old man in a bit of conversation.”
+
+“That sounds like my kind of job.”
+
+“And if you do it, I will consider your debt to me paid in full.”
+
+“Alright, that–”
+
+I stop myself, then narrow my eyes at him. Something’s not right. I just told him that I would have done this for free, but he’s insisting on paying me anyway. That means that he either is trying to make up for his earlier exploitation attempt… or he’s hiding something.
+
+“What is it?” he asks.
+
+“You’re hiding something. This is too easy. If something sounds too good to be true, it usually is. What’s the catch?”
+
+“Just because it sounds too good to be true doesn’t mean it is. I’m just trying to make up for my earlier mistake.”
+
+“Okay, now I know there’s a catch. No one ever says that unless there’s a catch.”
+
+“…He wants to introduce you to his grandsons to entertain potential marriage talks.”
+
+“I knew it!”
+
+“Which I was about to inform you of.”
+
+“Sure you were.”
+
+“And I don’t expect you to even pretend to be interested.”
+
+“Good. Because I won’t.”
+
+“In fact, I told him exactly that. I told him that you would never accept, but he’s a stubborn old man who won’t believe it until he sees it. I believe he thinks I’m trying to save you for someone else, and our business partnership won’t be able to move much further forward until he’s laid those suspicions to rest.”
+
+“Okay, so you want me to reject his grandson.”
+
+“Grandsons. He has three of them. And I don’t just want you to reject them. I want you to openly oppose me, and reject them so thoroughly that the old man has no choice but to believe that I have no influence over you whatsoever so that he’ll give up.”
+
+“And why weren’t you going to tell me about this before?”
+
+“I was.”
+
+I give him a blank look for a few seconds until the corner of his lip twitches.
+
+“But even if I wasn’t, you would have done exactly that anyway, so informing you wasn’t a top priority. And if I had happened to forget, it might potentially have been entertaining for this to be a surprise to you.”
+
+“Damn, he’s right. I kinda like this guy.”
+
+Shut up.
+
+“Also, if you went in without the preconception that you were going to reject them, one of them might have actually earned your favor, which would have worked out even better for me.”
+
+“So you were trying to use me.”
+
+“Yes. Is that not what our entire relationship is about? You’re using my name to move about freely, and I’m using yours to do business.”
+
+“I guess, but I still don’t like it.”
+
+“That’s life. You may not like it, but I have a tribe to feed. I don’t enjoy using people, but if I have to choose between using you like this and improving my tribe’s standing, and not using you, I will choose the former every time.”
+
+“Yeah, yeah, I get it. Whatever. Fine, I’ll do the stupid banquet thing. There are definitely going to be really good chefs catering for it, right?”
+
+“Absolutely. The host is a bit of a gourmet himself, and owns many restaurants around the Ocula, and he’ll be using some of his best chefs for the event.”
+
+“Good. Alright, then I’ll do it.”
+
+“Excellent! The banquet is just under three months from now, on the night of the Lunar Festival. Just come to Ocula and ask for the Sunset House. That’s where I’m staying.”
+
+“Alright.”
+
+“Do you have any other questions?”
+
+“I might, later.”
+
+“Well, I’ll be staying just a few floors up from here, and I’ll be here for two more days, so you can come find me if you do. Otherwise, I have a few other things to take care of tonight, so I’ll be taking my leave.”
+
+“Wait,” I say, raising my hand.
+
+“Yes?”
+
+“I want eight more bowls of soup.”
+
+“I’ll let the waiter know on my way out. And feel free to order more. It’s all on my tab.”
+
+“I will.”
+
+“Have a good night.”
+
+I spend two more hours at the restaurant, ordering enough food to hopefully put a serious dent in Fabio’s bank account. Though it probably won’t actually affect him much. He knows I have Gluttony, so he probably planned for this.
+
+He’s so annoying. Why does he have to be so rational? I can’t even get that mad at him because I’d probably do the same in his shoes. I need to think of a way to get back at him. Maybe I’ll publicly embarrass him at the banquet somehow. But how do I do that without embarrassing myself too?
+
+“You could just go with your original bed-eating idea.”
+
+Oh, yeah! I should totally do that! Good idea!
+
+I focus Food Sense on where Fabio currently is. Just as he said, he’s a few floors up in a private suite, and he’s currently writing something on a piece of paper. I guess he wasn’t lying about having work to do tonight. But yeah, if he’s just right there, I can totally eat his bed. I’ll need to compensate the inn afterward, but it’ll be fine. Probably.
+
+With that, I exit the inn restaurant heading back toward the inn where everyone else is staying. There’s a small crowd of people waiting for me outside, hoping to get an interview or something, so I stop for a second to give them something to look at, then Blink away to a shady alley to continue on my way. It doesn’t take long to reach our inn, since it’s in this same, relatively nice region of the city, and when I get there, I just Blink straight into our suite, surprising Lauren, who is reading on the couch in the common room.
+
+“You’re back,” she says. “How’d it go?”
+
+“Fabio is annoying. Also, I have to go to a banquet in the capital on the Lunar Festival.”
+
+“Hmmm…” says Lauren. “That should work. We might need to spend a little bit of extra time there, since we’re currently on pace to get there in two months, but that’s fine. There’s lots to do in the capital.”
+
+“Have you been there?”
+
+“Of course. It’s where I went to the Academy.”
+
+“Oh. Huh. I kinda forgot you were a rich girl.”
+
+“I’m not a rich girl. My parents were just… financially responsible.”
+
+“Right, and mine just owned a business,” I say, rolling my eyes.
+
+“I thought you said you were a princess.”
+
+“A kingdom can be a business.”
+
+“That’s a strange definition of ‘business.’”
+
+“Anyway, I’ve gotta do that when we’re in the capital, and then after that, it’s on to the next Delicacy!”
+
+“…Right.”
+
+I raise my eyebrow at the hesitation in her voice.
+
+“Something wrong?”
+
+“No, nothing,” she says, not making eye contact.
+
+“Are you sure?”
+
+“It’s fine. It’s not important. I’ll tell you if something comes up.”
+
+“Well, if you say so. Also, we have a pseudo-Delicacy to hit on the way to the capital, right?”
+
+“Yes, which might delay us a bit, but probably not. It’s not really much of a detour, and it’s supposed to be pretty easy to get.”
+
+“Cool. What was it again? Frogs?”
+
+“Frogs,” Lauren says, nodding. “They’re deep in a spawn zone, and usually hard to find, but with your Food Sense, it shouldn’t be an issue.”
+
+“Sweet! Sounds good. Alright, I’m gonna go take a quick nap before my next appointment with the weird Guild Investigator. Seeya later.”
+
+“Sir, a letter has arrived from your grandfather.”
+
+“From Grandpa? Give it here.”
+
+Kai grabbed the letter from Larry, and hurried to open it. Grandpa rarely wrote to him, and whenever he did, it was always for something interesting. He eagerly tore into it, and read through its contents, his expression morphing into a confused frown.
+
+Marriage candidate? He wondered.
+
+His grandfather was a very successful businessman, and preferred his descendants for profitable ties, but this was the first time that Kai had been involved in any of those efforts. He wasn’t particularly happy, but the description in the letter had intrigued him. Supposedly, the woman Grandpa had found was a powerful Adventurer herself, and even more renowned than Kai was. Grandpa refused to give her identity, saying he wanted it to be a surprise, but he assured Kai that it would be interesting.
+
+Could it be Verity? No, I thought she was engaged…
+
+Kai mentally ran down his list of famous Adventurer women around his age that Grandpa might have been trying to set him up with. There were a few valid candidates, but none that he could guess with any level of certainty. Regardless of who it was, though, it wasn’t necessarily a bad idea. An Adventurer partner more famous than him could bolster his efforts toward earning his Epithet. He had lost his chance with Maligar, but if the other Adventurer woman meshed well with him, it would help him a lot.
+
+I guess I can hear them out. The Lunar Festival, huh. Well, I was heading that way anyways…
+
+“Bring me another!”
+
+“Of course, Your Majesty!”
+
+King Zorg watched as his serpentine assistant slithered away to fetch him another of the delectable frogs.
+
+“This is the life!” he said, leaning back in his hot tub, and putting his arms around the two swamp hags on either side.
+
+Contrary to their names, the swamp hags were actually very attractive, and were more than willing to live under Zorg’s rule. As they should have been, of course. Zorg might have been a greedy bastard, but he was a greedy bastard who knew how to take care of his people.
+
+A minute later, the butler returned with another roasted frog on a skewer. Zorg’s mouth watered as the scent hit him, and he had to refrain from chomping down on the whole thing in one bite. Good things were meant to be savored.
+
+“Ungh,” he moaned as he bit down on one of the legs.
+
+Being reborn in this world had come as a surprise to him, and an unpleasant one at first, but by this point, Zorg knew that it was not a curse, but a blessing. Sure, his business partner might have betrayed him, but he had learned his lesson, and now had a second chance to do it all again. Despite the fact that his new empire was starting in a swamp, he was already doing quite well for himself. Being a monster wasn’t even that big of a drawback. There were plenty of humans who were more than willing to trade with him, and his Greed Trait made his deals binding enough that he didn’t have to worry about being exposed.
+
+The First Event business threw a minor wrench into his plans, but his deity had assured him that it would be fine. His Target was quite far away, but the one targeting him was drawing nearer, and was well within Zorg’s ability to handle. He would be able to pass the First Event without interrupting his business dealings, and finally be able to get the ‘pseudo’ out of his Name.
+
+“Sir, if I may.”
+
+Zorg turned to give his butler an icy glare before nodding.
+
+“Should you really be eating so many of those?”
+
+“They’re mine. Why shouldn’t I?”
+
+“Well, it’s just that Metztli–”
+
+“What about her?” Zorg snapped.
+
+“I’m just concerned this may have a… sub-optimal effect on your business partnership.”
+
+“Bah,” said Zorg. “It was always going to be temporary. Getting tangled up in the long term with people like that is never a good idea. Who cares what that crazy bitch thinks? Why does she even need so many of them anyway?”
+
+“Well–”
+
+“Besides, this is basic economics. Supply and demand. Right now, there’s a lot of demand. If I just decrease the supply–” he took another bite of the frog. “–the price goes up. You understand?”
+
+He gave his butler a toothy grin, frog meat stuck between his teeth. The butler hesitated a moment, then nodded.
+
+“Yes… I believe I understand.”
+
+“Good,” said Zorg. “You know what, why don’t you treat yourself to one too. In fact, get one for everyone. This round’s on me!”
+
+A cheer went up from Zorg’s other Named subordinates, who were lounging around nearby. The cheering was cacophonous, an equal mixture of human-sounding voices, and animalistic screeches and roars. His subordinates were an odd bunch, and some of them were somehow even less pleasant to look at than his old goons back on Earth. But they were his odd bunch, and as he watched them revel in the flavor of the frogs, he smiled.
+
+Yeah, he thought. This is definitely the life.

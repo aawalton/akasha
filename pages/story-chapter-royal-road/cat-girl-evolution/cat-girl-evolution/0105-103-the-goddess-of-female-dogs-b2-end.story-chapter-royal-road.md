@@ -1,0 +1,255 @@
+---
+id: 9e4a5de8-b978-552e-b1f3-7ca11df98640
+page-type-slug: story-chapter-royal-road
+title: "103 - The Goddess of Female Dogs (B2 end)"
+slug: 0105-103-the-goddess-of-female-dogs-b2-end
+partOf: cat-girl-evolution
+position: 105
+ownLength: 2520
+unit: words
+publishedAt: 2026-03-24
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3186721/103-the-goddess-of-female-dogs-b2-end"
+royalRoadId: "3186721"
+---
+
+“Well, I don’t care,” says the goddess. “We’re having a talk.”
+
+“Don’t wanna.”
+
+“You don’t have a choice.”
+
+Abby, how do I leave?
+
+“The goddess lets you go. Just hear her out. She did give you the Dungeon.”
+
+“Yes, listen to your System Assistant.”
+
+“Silence, foul beast!”
+
+“Yona, you’re only making things worse.”
+
+“...Fine. I guess since you did give me the Dungeon. The Dungeon that I can’t use, and that needs a month to set up.”
+
+I hear the sound of someone taking a large deep breath before the goddess speaks again.
+
+“I was going to offer a chance of reconciliation,” she says. “A chance to leave the past in the past and use this as a fresh start to our relationship. That is still on the table, but not if you continue to act… like this.”
+
+This time, it’s my turn to take a deep breath. Her tone is incredibly condescending, but if she really wants to reconcile, being petty and bitchy is a bad idea. That would be proving her right. I’m not the petty one, after all. That’s her.
+
+“Alright, fine,” I say.
+
+“Good,” she says. “I’m glad you could see reason. Now, we don’t have much more time here, so I will be brief. Do you remember the game I told you about last time we talked?”
+
+“The Chosen One competition?”
+
+“It’s not–!” She sighs. “Yes, the Chosen One competition. I told you before that there were originally 30 of you. That number has since been reduced to 20, which means that, for me, there are no retries. Of course, for you there were never any retries, but now that we’re out of backups, I am more… invested… in you than I was before. Which is why I deemed it beneficial to repair our relationship so that we can come to a mutually beneficial arrangement for respectful cooperation.”
+
+“Okay…” I say. “So you want to make a deal?”
+
+“Gods typically do not make ‘deals’ with mortals, but for the sake of this game, I can make an exception.”
+
+I clench my fists, my claws stabbing into my palms, then unclench, letting the small wounds heal over. She’s really not making this thing easy. But I’m not petty. I’m not gonna blow up the deal just because she’s being a condescending bitch.
+
+“Okay, what do you want?”
+
+“I want three things. First, I want you to stop calling me a bitch.”
+
+“Well, maybe you should stop acting like—” I stop myself. “Sorry, my bad. I’ll stop as long as you don’t do anything bitchy.”
+
+“And what would ‘anything bitchy’ include?”
+
+“Oh, I dunno, maybe something like giving me a necklace that says ‘I’m a bitch’ on it? Or yelling at me for not wanting to risk my life in a death game when I literally just died a few months ago. Or lying to me about rewards and when I’ll get them. Or pretending to reconcile, only to use it to catch me off-guard with petty revenge later.”
+
+There is a suspicious amount of silence before she finally responds.
+
+“I– I see,” she says. “Then the second thing I want is for you to take the competition more seriously. Your life is at stake, after all. Stubbornly refusing to acknowledge its existence is only hurting yourself.”
+
+…Damn, that’s good reasoning.
+
+“Alright, but I barely even know anything about it.”
+
+“That’s because until now, we were in the earliest stages. You can think of it like a tutorial. But in a few days, the real competition will begin, and things will get more serious. As part of the game, every single avatar was given a Sin or Virtue Trait, and thus far, all the surviving avatars have evolved into Named monsters. You are in the stronger half, but while perhaps not comparable in strength, the others are more than comparable in potential. All are threats. If you run into the wrong one, you will be at risk, and there is a very good chance that you will die.”
+
+“Oh.”
+
+“Which brings me to my third request. In a few days, the First Event will begin. I cannot share the details, but it will be dangerous. It is possible to ignore the event and survive, but if you do, you will be in an even worse position for the Second Event. And after the Second Event, there will be a Third Event, and so on until there is only one Avatar left. Each Event will be more dangerous than the last, and you will die if you are not ready. So, my third request is that you pass the First Event.”
+
+“...That’s it?”
+
+“It won’t be easy, mortal.”
+
+“Yeah, but there’s no twist or anything?”
+
+“I want you to succeed in the Quest. Why would I add a twist?”
+
+“I dunno. Seems like something you’d do.”
+
+“Unlike you, I am not a petty bitch who will make your life more difficult to my own detriment.”
+
+Don’t blow up, don't blow up, don't blow up, don’t blow up.
+
+“Okay, is that all, then?” I say through clenched teeth.
+
+“That was three things, yes.”
+
+“Then I have some conditions of my own.”
+
+“That’s not how this works.”
+
+“Oh, is it not? I guess you and I must have different definitions of what a ‘deal’ means.”
+
+“You are already being compensated. I have an excellent reward prepared for you.”
+
+“That’s not how business works. You can’t just one-sidedly decide the conditions.”
+
+“I am a goddess.”
+
+“And you need me, so I have conditions of my own as well. First–”
+
+“You can’t–”
+
+“FIRST,” I shout. “Your name. And your face.”
+
+“Ha!” she says. “You would make demands of a goddess?”
+
+“Yes. I would. What, are you too embarrassed to show yourself? Maybe you really are jealous of–”
+
+“Fine!” she says. “You want to gaze upon the form of a goddess? So be it. You will eat your words. But list your other conditions first.”
+
+…Wait, can I actually eat words now? Abby, write that down!
+
+“Done.”
+
+“Second, I want some guarantees about the reward. ‘Cause I don’t want another bitch necklace.”
+
+“Fine. What kind of guarantees do you want?”
+
+“I want it to be useful, I want it not to call me a bitch, I want it not to be embarrassing, and I want it to be something that I will like.”
+
+“The last two conditions are too nebulous. Half the things you do are embarrassing, but you don’t seem to mind, and how can I know whether you will like it or not before you get it?”
+
+“...Fair. Then it can’t be anything that you would be embarrassed to have or use, and it can’t be something that you know I won’t like.”
+
+“And why should I agree to that?”
+
+“‘Cause otherwise, I might ignore that first condition you gave to me. And maybe the second too.”
+
+“Fine, then. But only on the condition that you keep my first two conditions.”
+
+“Great. And lastly… Actually, that’s it. I wanted three things to match you, but I couldn’t think of a third thing that you would actually agree to. So yeah, that’s it.”
+
+“Good, because we are running out of time. You agree with my conditions then?”
+
+“As long as you agree to mine. And you still haven’t shown yourself.”
+
+“That is because your mortal mind would not be able to handle my presence. But fine, I shall use our final moments in this space to tell you my true name and show you my true form. I am a goddess of a noble warrior race from the mainland, the Canids. And my true form is–”
+
+“Wait, wait, wait, hold on,” I say, waving my hand. “That’s not your name, that’s your title. What’s your name?”
+
+“...Buttercup.”
+
+“What?”
+
+“My name is Buttercup.”
+
+“Your name is Buttercup?”
+
+“Yes. Problem?”
+
+“...No.”
+
+Did she say she was the goddess of the Canids? What’s a Canid. Sounds familiar…
+
+“Then witness my true form, and afterward, remember that you asked for this.”
+
+A second later, the pitch black nothingness lights up, and in front of me is a figure that I have to admit is incredibly majestic. She’s close to two meters tall, wearing tastefully extravagant armor. It’s decorated with swirling gold filigree and adorned with a few emblems, but not so much that it’s ostentatious and impractical. She’s tanned with black hair and green eyes, just like me, and she’s got an annoying, smug smirk on her face. She also has a pair of ears jutting out the top of her head that look extremely similar to German Shepherd ears, and behind her I catch a glimpse of a wagging tail.
+
+Then, my eyes pop, and I go blind.
+
+Before I can even react to my eyes exploding, I feel the air around me shift, and my ears are filled with the sounds of people.
+
+“Oh, Yona, there you–” starts Lauren. “What happened?!”
+
+She rushes over to me and puts her hand on my back as I double over in pain.
+
+“Are you alright?” she asks, half-panicked.
+
+The pain occupies most of my mind for a second or so before it fades as my eyeballs begin to regenerate. With the pain gone, I stand up, smiling as blood runs down my cheeks.
+
+“I am doing fantastic,” I say, putting my hand on her shoulder. “C’mon, let’s go.”
+
+Abby!
+
+“Yes, I saw. Please don’t–”
+
+I can’t believe it! She’s actually the goddess of–
+
+“Don’t!”
+
+–female dogs! Holy shit! Holy. Shit. That is hilarious.
+
+“Technically she’s the goddess of all canids, male and female.”
+
+Potato, tomato.
+
+“But yes, the irony is quite amusing.”
+
+That was totally worth losing my eyes. And her name is Buttercup too! This is the greatest day of my life!
+
+“You realize that she can hear all the thoughts that you direct at me, right?”
+
+So? I’m not breaking any of the conditions she set. And who else am I gonna talk to about this? It’s not like I can go explain all this to the others.
+
+“You could just keep it to yourself.”
+
+Sharing is caring. Things are funnier when you share them with someone else.
+
+“Just be careful. Don’t piss her off after you just reconciled.”
+
+Yeah, yeah, whatever. I’ll stop. But I still can’t believe it. What are the odds?
+
+Lauren, Chad, and the twins wisely don’t say anything as we head out of the building and back toward our rental house. And the walk back gives me plenty of time for my eyes to regenerate, at which point I see that I have two new purple boxes waiting for me.
+
+[ That’s what happens when you gaze upon the true form of a goddess, mortal ]
+
+[ Avatar Quest: Pass the First Event. Reward: Divine Boon ]
+
+Smiling, I dismiss the notifications, and walk the rest of the way back with a bounce in my step.
+
+As soon as we return, the others ask me what happened, and Lauren’s brain seems to break when I tell her that I looked at a goddess. The twins are stunned for a moment too, but they recover more quickly, and Chad is just as silent as usual.
+
+We all get cleaned up, and have a final, celebratory meal before bed, and the next morning, we set out for Maligar. The journey is pretty short, especially for me, since I spend most of it napping, and we arrive close to sunset. I am asleep as we draw near, so Lauren wakes me up, and practically pulls me over to the window of the carriage so I can have a look at what’s waiting for us out there.
+
+Maligar looks… odd. It’s Dungeon City, meaning that most of the city is within the Dungeon itself, but there’s also plenty outside of it. The black tear in space is visible even from kilometers away, both due to my Sensitivity, and due to the fact that it’s at least twenty meters tall. All around it, there are buildings, forming a town probably about the same size as Ryantown. It’s not at all small. But that’s not the part that’s odd.
+
+The odd part is that the entire thing is built right at the center of an enormous crater. The crater is filled with farmland and lined with trees, but there’s no mistaking what it is. It’s almost perfectly circular, and it sticks out like a sore thumb compared to the rolling hills all around. The path leading in is actually carved into the rim of the crater to make for a gentler descent than the crater’s edge would otherwise give.
+
+From the look of it, it’s clearly been a very long time since whatever made this crater happened, but it still gives me a somewhat ominous feeling. It kinda reminds me of that one anime movie with the body swapping and the comet. It’s like seeing the town built right in what is clearly an impact crater is foreshadowing of something to come.
+
+It also makes me get a little weirdly introspective. Back on Earth, this crater would probably have been made by a meteorite, but here? It’s entirely possible that this is manmade. One, single, devastating spell powerful enough to atomize everything in a ten kilometer radius. As powerful as I am now, I am far from being able to do something like that… but I’m also only Tier 3. How powerful will I be at Tier 10? Or even just Tier 5? Will I be able to do something like this? Are there people alive who could do something like this? The thought is both exciting and terrifying.
+
+From the rim of the crater, it doesn’t take long to get into the town itself, and even less time to get to the entrance to the Dungeon. We step out of the Carriage, and Lauren taps her Adventurer badge on the driver’s own badge—a Transportation Guild badge, apparently—and we wave him off to turn to the Dungeon. At this time of night, things aren’t too busy, but we still see people periodically entering and exiting the portal. There are a couple guards, but they’re yawning and clearly not taking their duty too seriously.
+
+It feels weird seeing civilians entering a Dungeon portal like it’s nothing. I’m so used to seeing only people in armor and robes that seeing a young woman carrying a toddler walk through feels like a fever dream.
+
+“Ready?” asks Lauren, looking over at the rest of us.
+
+We all nod, and she turns back to the portal.
+
+“Right, then. Let’s go.”
+
+Delicacy, here I come!
+
+“Did it work, hun?” asked the goddess, floating beside her canine friend.
+
+“Is… Is Buttercup really that weird of a name?”
+
+“Oh, no, of course not, hun!” she said, patting her friend’s head. “It’s a great name! A great name for a great goddess!”
+
+“Really?”
+
+“Of course! Now, did it work? Did she agree?”
+
+“Yeah…” said Buttercup. “Yeah, she did. She asked for some conditions… but they won’t interfere.”
+
+“Attagirl!” said the other goddess, ruffling Buttercup’s hair. “Good job! I can’t wait to see how she reacts.”

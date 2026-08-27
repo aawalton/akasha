@@ -1,0 +1,123 @@
+---
+id: 4a10b1f8-ffcf-52a1-a84e-f8976d2c81f1
+page-type-slug: story-chapter-royal-road
+title: "159: Two Headed Dragon"
+slug: 0159-159-two-headed-dragon
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 159
+ownLength: 2067
+unit: words
+publishedAt: 2026-05-31
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3473938/159-two-headed-dragon"
+royalRoadId: "3473938"
+---
+
+Back when Chloe had still been playing Everreal Quest, this fight had not been easy, and she could still remember how many times she’d gotten absolutely wrecked before finally figuring it out. The first time alone had taken her a couple of tries, and by the time she’d replayed the game for, like, the tenth run or something, she’d ended up facing that stupid two-headed version of the dragon, and that one had been a nightmare. She still remembered sitting there, staring at the screen like, are you kidding me right now, while getting blasted into oblivion over and over again. Good times.
+
+Now, though, she was here for real, and she did feel a little more nervous. Chloe and Z entered a huge chamber that was bigger than even the previous area had offered, but what stood out the most was how… empty it felt. There were no remains of past challengers littering the ground like before. Just a wide open space, and an eerie kind of silence that pressed in from all sides.
+
+Chloe glanced around, her eyes narrowing slightly. If I remember things right, the in-game lore compendium mentioned something about how the dragon like to eat all of its challengers. Better make sure neither me or Z are next.
+
+Behind them, the doors slammed shut. Z immediately tensed as she scanned the room, searching for any sign of movement. “Chloe, where is the dragon?”
+
+Chloe didn’t even look worried. If anything, she looked like she already knew exactly what was about to happen. “Z, I need you to spread your wings and follow me. Like, now.”
+
+She spread her wings wide, giving them a quick flap before pushing off the ground. Chloe shot upward almost immediately as she angled toward the ceiling. These new wings were definitely fancy and easier to maneuver with, there was a lightness to her now, like the air just sort of listened to her.
+
+Z followed right after, her own wings forming with controlled precision as she lifted off the ground smoothly. She didn’t ask questions, and instead just trusted Chloe. They had barely made it a few feet up when the air shifted.
+
+A heavy sound tore through the chamber, and then—
+
+BOOM.
+
+Something crashed down right where they had been standing just moments ago, the impact shaking the chamber hard enough that Chloe felt it even from above. She twisted midair, and then immediately groaned. “Oh, come on!”
+
+Of course it had to be this version. Down below them stood the dragon, the two headed one.
+
+It was massive, easily filling a huge part of the chamber, wrapped in thick black scales ate up what little light there was. And its two heads snarled as they lifted up high, their glowing eyes locking onto Chloe and Z at the exact same time.
+
+Chloe stared at it for a second, her expression caught somewhere between impressed and deeply annoyed. Really? Out of all the times, now I get the two-headed one?
+
+Both heads shifted slightly, and Chloe forgot to move for a little bit. Because, okay, she had to admit it. This two headed dragon was really cool, very cool in fact.
+
+“Chloe, focus!” Z called out sharply from nearby.
+
+“Oh, right!” Chloe snapped back immediately, blinking as she shook herself out of it.
+
+The glow inside the dragon’s throats suddenly flared brighter. Both heads opened their jaws wide, and the attack came soon after.
+
+Black fire burst out from both mouths at once, pouring in a violent torrent that filled the air in seconds. It wasn’t normal fire, this was super evil fire. The color alone made that obvious, a deep, suffocating black that seemed to eat the light around it instead of giving any off. The flames felt wrong, like they carried some deep corruption inside them, and the dragon was more than happy to spread all of that corruption around.
+
+Chloe forced herself to fly to the side, tilting sharply as she pushed away from the blast. The flames roared past where she had just been, close enough that she felt the heat brush against her, and that was something considering how she didn't really feel pain and such anymore ever since becoming a zombie. So, that kinda told her that these flames were absolutely dangerous, if that wasn't clear enough already.
+
+Across from her, Z moved at the same time, breaking in the opposite direction as she avoided the second stream of fire. The dragon adjusted quickly, both heads shifting as the twin breaths split apart, trying to track each of them separately, but they were just fast enough to stay ahead.
+
+Chloe spun midair, pushing herself higher and farther away as she steadied her wings again. If she was going to fight this thing, she might as well try out her new abilities.
+
+So after waiting for the dragon's flames to die out, Chloe eventually flew a little closer to the dragon and focused hard as she hovered in place. Kay, time to see if this is gonna work like how I want it to.
+
+After a few seconds, Chloe opened her eyes again and pulled in as much magic as she could. The air around her seemed to tighten for a moment before she pushed, and an invisible force slammed down onto the dragon’s necks. Both heads were slammed downward at the same time as an intense pressure crushed against them, forcing them lower and dragging them toward the ground.
+
+Normally, Chloe would’ve celebrated, or at least said something smug, but right now she was too focused on holding both of the dragon's heads down. The dragon struggled beneath it, its massive body twisting and shifting as it tried to break free, and Chloe immediately felt the strain run through her, and every second made it harder to keep control.
+
+“Uh, Z!” she called out, her voice tightening slightly. “Can you deal with it?!”
+
+Z glanced at her midair, already adjusting her position as she prepared to move in. “Do you want me to kill it?”
+
+Chloe opened her mouth, ready to say something like save the final hit for me, because obviously she deserved that, but the pressure she was holding started to slip just a little as the dragon pushed back harder. “Actually, yeah, just go for it! Please!”
+
+Z moved straight toward the dragon after that. There was a faint smile on her face, and it made Chloe pause for just a second as she held the pressure in place. Yeah yeah, I get it.
+
+But anyway, golden lightning began to gather in Z’s hand, crackling and tightening into a dense, focused mass of energy that wrapped around her fingers. Chloe was sure that the dragon should go down with just one hit from Z.
+
+Z didn’t slow down as she reached the dragon, the golden lightning in her hand growing brighter and tighter until it looked like a blade made of pure energy, and in one motion, she swung her hand.
+
+Chloe let go of her magic the second Z’s strike landed, her focus snapping away as she watched, wide-eyed and way too excited, while Z's glowing hand sliced straight through the dragon like it was nothing, cutting clean through scale, muscle, and bone like a hot knife through butter.
+
+Both halves of the dragon tore away from each other before everything went eerily still for just a second, and then the lightning exploded. Whoa.
+
+Golden energy burst outward in a wild surge, crackling as it ripped through both halves of the dragon, arcs of electricity jumping off in every direction, slamming into the floor and lashing up into the ceiling in branching streaks that lit the entire chamber. Sparks scattered everywhere, flickering through the air, and Chloe couldn’t help but feel excited as she watched it all unfold like the coolest thing she’d ever seen. She'd seen a lot of cool things to be fair, but this was definitely up there.
+
+The dragon’s body convulsed as the lightning tore through it again and again before finally going still, the glow fading just as fast as it had come. Z pulled back as she flew up to Chloe’s side like nothing special had just happened. “I have defeated the dragon."
+
+Chloe grinned as she gave a quick nod. “Nice. Now we just gotta deal with the next stage.”
+
+Z raised an eyebrow. “Next stage?”
+
+Chloe pointed down toward the dragon’s body. “Uh-huh. This is just the first stage of the fight, there's still the second stage we have to deal with. And that one's gonna happen aaanytime now."
+
+Z turned her head just as the corpse of the dragon moved, and it felt wrong in a way that made the air itself grow heavy. Dark energy began to seep out from the split halves, like black smoke leaking from cracks in reality, but then it spread faster, crawling over the dragon’s body and quickly consumed it.
+
+The dragon’s skin rapidly peeled away in long strips as if something invisible was ripping it apart from the inside. Flesh followed, breaking down in chunks as the dark energy devoured it, pulling it apart piece by piece like it was stripping the creature down to its core.
+
+The two halves began to shift then, dragged toward each other by that same unnatural force. Bones scraped against the ground with a harsh, grinding sound, and then they started to connect. Ribs locked together as the spine reformed, both halves forcing themselves into one again.
+
+When the process finally finished, what stood there wasn’t the same dragon anymore, and Chloe could feel that difference immediately as the thing rose up. The way it moved was wrong, stiff yet powerful, like something dead forcing itself to act alive, and honestly, Chloe should’ve been at least a little freaked out by that.
+
+But instead, her eyes lit up. Because despite being a skeleton, she had to admit that the dragon did become objectively cooler this way.
+
+The skeletal dragon stretched both of its long necks upward as if it was showing itself off, the empty sockets in its eyes burning faintly with that same dark energy, and the sound of its bones rattling somehow just added to the whole vibe. And right there in the center of its ribcage, where there should’ve been flesh and organs and all that normal stuff, there was nothing but a massive black crystal.
+
+Then both heads threw themselves back and roared, a deep, echoing sound that came out hollow and distorted. Of course, Chloe had seen this entire song and dance before, so she wasn't quite as shocked as she could've been.
+
+Z did look somewhat disturbed by this, but that was fair since she only saw the dragon do this for the first time ever. But anyway, Chloe knew that she needed to get Z back with the mission of slaying that dragon.
+
+And so, she grabbed Z by the shoulder and smiled. "Soooo, Z, ready for round two?"
+
+Z slowly turned her head toward Chloe. “That depends, will there be any more surprises after this?”
+
+“Eh, nothing too unexpected, it's an undead dragon that's gonna do undead dragon things yanno?"
+
+“Chloe… I have never fought this creature before.”
+
+“Right, right,” Chloe said quickly, nodding like she totally understood, even if she didn’t really feel the concern. Then she pointed downward. “Just, uh, take a look at the ground for starters.”
+
+Z followed her gesture, and Chloe did the same, both of them looking down just as the floor beneath them began to shift. Small cracks spread across the stone, thin lines that crept outward like something was pushing up from below. Then the ground shattered.
+
+Bony hands burst through the surface, clawing their way up, followed by armored arms and then full bodies dragging themselves free. One after another, skeletal figures rose from the ground as they pulled themselves upright.
+
+These weren’t just normal skeletons either. They were heavily armored, clad in worn but still imposing gear, some carrying large bows already strung with dark arrows, while others held staffs that flickered faintly with eerie magic. More and more of them emerged, filling the once-empty chamber with the sound of scraping bone and shifting armor.
+
+“See?” Chloe said, gesturing at the growing army below. “Nothing too bad.”
+
+Z sighed. "This is going to take a while."

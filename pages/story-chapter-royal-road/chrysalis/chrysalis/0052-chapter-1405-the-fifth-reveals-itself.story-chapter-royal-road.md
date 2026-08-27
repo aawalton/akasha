@@ -1,0 +1,85 @@
+---
+id: ff2fe9ba-923b-5969-98df-71ad3144dbfc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1405 - The Fifth Reveals Itself"
+slug: 0052-chapter-1405-the-fifth-reveals-itself
+partOf: chrysalis
+position: 52
+ownLength: 1042
+unit: words
+ownProgress: 1042
+publishedAt: 2024-09-10
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1796354/chapter-1405-the-fifth-reveals-itself"
+royalRoadId: "1796354"
+markedReadAt: "2026-06-29T19:45:17.771Z"
+---
+
+Things have been going well so far. As expected, the Krath had something waiting for us, but the Colony had trusted that I’d be able to deal with whatever they conjured up. I feel like the amount of faith they put in me has only gotten higher after word of the incident at Greystone had gotten around.
+
+Our evil, maniacal opponents will have cooked up something truly despicable, but the Eldest will take care of us, we can just carry on as normal!
+
+I mean… it worked out, sure. I’m just glad the slugs hadn’t managed to think up something I couldn’t throw an empowered gravity bomb at. Thankfully, most of the problems posed by the Dungeon can be solved by a black hole.
+
+Whoa there! Stop that line of thinking! It’s exactly those sorts of thoughts that get me in trouble when I start flinging around super powerful bombs all willy-nilly and nearly get myself compacted!
+
+Yes, Anthony, most things can be destroyed by a black hole, including yourself!
+
+[Hey Tiny, I’m going to the south side now. You and Invidia need to head to the north. Alright?]
+
+I get a thumbs up and ghost fist for my trouble.
+
+[Dammit, Tiny! Try and keep your intent under control!]
+
+Believe it or not, ghost fist.
+
+I sigh and turn around. It’s not like there’s anything he can do about it now. As far as I know, Tiny’s been flinging his intent at everyone and everything since the day I met him. I don’t even have a full understanding of what intent actually is.
+
+If I were to try and phrase it, I’d say it’s something like halfway between a thought and an action. Just thinking about chomping isn’t enough to fire out intent, you need to visualise it, have the feeling and willingness of chomping, then it’ll happen.
+
+Tiny is just so obsessed with hitting things that it’s basically all he does. Is he actually going to hit that ant? Absolutely not! Does he imagine doing it? How would the punch feel snapping through the air? Does he picture where he would aim, just what would happen as his fist impacted the chitin?
+
+Yes. Yes he does. And he does the same thing for rocks, water, strong gusts of air and everything else you can think of. If I were to hazard a guess, I’d say that’s probably why his punching Skills have been rocketing up in Levels. Seeing him in a fight is even more bizarre with this new mutation. Tiny is so good at firing off his intent, and can do it so quickly, that he flings out four ghost fists for every real punch! What’s more, to any monster sensitive enough, they can sense them! I’ve seen monsters flinching away or dodging punches that aren’t actually there and I would never have believed it if I hadn’t seen it myself.
+
+“Eldest, nice of you to join us at this late hour.”
+
+I look down at Brendant who is busy leading the charge here to the south, confused. Realisation hits me a moment later when I notice the enchanted time-keeper she has attached to one of her front legs.
+
+“How late am I? A few seconds?”
+
+She clicks her mandibles irritably.
+
+“Six.”
+
+“Oh no! Six seconds! The entire plan is going to unravel now, dammit.”
+
+I took a little extra time to berate Tiny and now here I am, getting berated. Brendant is in no mood for my flippant attitude.
+
+“The plan that Solant has concocted requires precise timing, and we are getting further behind thanks to me having to explain this.”
+
+She flicks her mandibles at me as if to say come on, Eldest… and I am suitably chastened. I begin to stride forward.
+
+“Alright then, let’s get moving.”
+
+Without hesitation, I plunge through the expanding wall of blue mana and into the poisonous atmosphere of the fifth. This is a dangerous part of the plan. Well… all of the plan is dangerous, we’re invading the most inhospitable environment in the Dungeon, but this is a tricky bit. We’re building and fortifying as we go, but we don’t have completely reliable data of what the terrain is like out here. We’re already pushing into an area that we haven’t reached before.
+
+Up ahead lies a large tunnel junction where the mucus river will follow a split down to a lower level, and as we approach, I can hear the screams and roars of many monsters getting a whiff of our invading blue mana.
+
+This is what I’m here for, after all. There are many combat-ready and capable ants here, but things will progress faster and safer if I handle as many crazed monsters hurling themselves at our expanding safezone as possible.
+
+As I take up my position, there’s already a monster running towards us with murder in its eyes.
+
+Well… I wouldn’t say eyes. Or… running.
+
+I’m looking at it directly, and even I’m surprised. It’s an egg. Well, it looks like an egg at least. A giant, sickly yellow egg is rolling towards me, but as it moves, I can see sections of the shell cracking open to reveal a writhing mass of grasping hands within.
+
+Why does every monster in this stratum have to be so weird?! In the fourth, I might have had to fight dragons, but I’d rather that than bite into this stupid egg thing!
+
+With a feeling of resignation, I charge through the muck of the fifth to take on the monster before it gets too close to the advancing line of ants. Rather than latch on with my mandibles, I launch a blast of roaring Dragon’s Breath toward the advancing egg.
+
+Sadly, it doesn’t seem to have much of an effect. The egg continues to roll toward me, several segments of the shell glowing hot and smoking. In fact, it speeds up, heading straight at me!
+
+Geh. Guess I don’t have a choice. I pull back my mandibles ready to bite, but just as I lunge forward, the egg explodes!
+
+Yellow goop and grasping hands fly into the air, and at the same moment, I feel something stir up ahead. There’s gravitational waves from many sources approaching.
+
+“It’s an attack!” I roar.

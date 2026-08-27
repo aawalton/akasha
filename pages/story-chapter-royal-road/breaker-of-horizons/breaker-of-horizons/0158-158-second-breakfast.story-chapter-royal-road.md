@@ -1,0 +1,101 @@
+---
+id: c5a0d859-e762-52d4-a3d4-73cd924761af
+page-type-slug: story-chapter-royal-road
+title: "158. Second Breakfast"
+slug: 0158-158-second-breakfast
+partOf: breaker-of-horizons
+position: 158
+ownLength: 1963
+unit: words
+publishedAt: 2021-12-06
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/801635/158-second-breakfast"
+royalRoadId: "801635"
+---
+
+Caden sensed Caldwell's wysana disengaging itself from his staff and shifting into higher planes, likely managing the necessary arrangements to facilitate Caden's transfer back into the same dormitory as the Six-Chained-Foundations.
+
+But breakfast with the Demiurge did not end there, and instead extended past the usual allotment of time as Caldwell moved swiftly on to other matters. He gave Caden a comprehensive briefing about what he could expect in his interactions with the staff and students of the Academy that he had interacted with in the past term. Since he hadn't shared any classes with any of the Six-Chained-Foundations except for Emilia, there were relatively fewer disruptions. His acquaintances would retain almost all of their memories of their interactions with him as long as it did not involve his friendship with the six. Emilia would retain relevant memories that were formed in their shared classes, but nothing else beyond that.
+
+Caldwell took special care to mention Kant and Reeves. Caden was told they had been allowed to retain their memories and would be personally briefed about the present state of affairs. When he pressed for an explanation, Caldwell simply said that the Fateweavers had apparently decided it was not necessary to alter their memories, and had given him the task of explaining the situation to them.
+
+"But are they a danger to me? Especially Kant?" Caden asked, a little panicked. "He basically asked the twins to kill me!"
+
+"You'll need to watch out for Kant," Caldwell said gravely. "As it stands, he isn't allowed to do anything against you directly, so you don't have to worry about being assassinated by his hand. But he's certainly not on your side. Reeves, on the other hand, is very much against any action being taken against you. You could say he has a bit more of a conscience. I don't know why the Fateweavers have left things this way, but at the present, I think it works to your favour because having both of them in play means they'll mitigate each other. Even so, it pays to be vigilant."
+
+Caldwell allowed himself a small smile as he took another sip of coffee. "And if it does come to it, I'd love to see Kant try to take you down. If it's any comfort to you, I wouldn't bet any money on him succeeding."
+
+The fact that Caldwell thought Caden would be able to hold his own against Kant was comforting, but also somehow a little disappointing. Kant had seemed so fiendishly proficient, possessed of deadly competence. Caden had made extraordinary progress in a short amount of time... but was that all it took to exceed Kant's capabilities? Was conventional Thaumaturgy really such a shallow pool?
+
+"Then there's the matter of your father."
+
+That snapped Caden's attention right back to the present moment.
+
+"Your previous actions have caused the minor prophecy involving your sister to be subsumed under the auspices of the Major Prophecy involving Ambrose. I imagine the Fateweavers would have found it almost impossible to untangle that knot even if they wanted to. Consequently, your father remembers everything. I will note, however, that if you consult your father for advice about your present course of action, he will be compelled by the workings of Prophecy to favour the protection of the network of augera." Caldwell let out a long sigh. "If you speak with your father, take care what topics of conversation you cover. I would personally advise not speaking to him at all, even to consult him for academic matters in his capacity as professor... but that will be your decision to make."
+
+Caden couldn't think around the pounding of blood in his ears. He felt like there ought to be a lot of questions he should ask the Demiurge about this particular situation, but he was busy fighting back tears. Caldwell looked away and quietly sipped his coffee, giving Caden a moment to compose himself before he continued.
+
+"That brings me to the last order of business. The arrangement we have will need to change since I won't be as free once the term starts. You'll have to occupy yourself with the accelerated curriculum that everyone will be going through for most days. But on the weekends, and perhaps evenings, if you can stomach it, we can work as we have been. Also, after providing you what you need for today, my wysana will not be available to you for the rest of the semester."
+
+Caden nodded, not quite trusting himself to speak.
+
+"Would you like the rest of the day to yourself?" Caldwell asked, his voice surprisingly gentle.
+
+"No," Caden answered firmly, clearing his throat. "Let's get to work."
+
+It turned out to be a bit of a mistake to throw himself into work as a distraction. The afternoon felt particularly unfruitful since he wasn't able to focus enough on isolating each glyph while scribing, and he spent more time recovering from accidents. Caldwell did not step in to assist any more than he normally did, and continued to deliver incisive questions to help guide Caden into some realisation, but the answers came with a great deal more difficulty as he continued to dwell on the things the Demiurge had revealed.
+
+The evening Thaumaturgy training was, surprisingly, less of a waste. Sinking into his state of dispassion to better ride the divide between oblivion and the arcanic sea helped him gain some distance from the inner turmoil, and tearing apart sequences provided some catharsis. The Demiurge, of course, did not hold back, and this latest session featured everything from military-grade arcanic bolts to the cell-disintengrating sequence, which caught Caden several times since he was defending himself against both Caldwell and his wysana. But whenever he got hit, the pain only served to ground him firmly in the moment, and he relished the feeling of being bloodied. The physical pain helped him ignore the ache in his heart.
+
+And then it was all over. The day was nothing more than a haze of pain, of discomfort, of feeling stretched beyond his capacity, but it served its purpose; he was too tired to think much by the end of it. He went back to the 'new' dorm — the one that the Demiurge had replaced the damaged building with, which had an identical layout to the original one — and found everything he needed had already been placed into the room he would soon share with Ambrose once more. The cupboards were stocked with enough sets of clothes.
+
+After he showered, he was asleep almost before he even hit the bed.
+
+Despite his exhaustion, he woke relatively refreshed at seven. He lay in bed awhile, trying to figure out what to do for the rest of the day. There was no way of knowing exactly when the rest of his once-friends would get in. The first day of the term only had one scheduled event, which was a briefing to be held in the Nivordin Hall at six in the evening. Most of the travel arrangements that could be made from the neighbouring city would get students to the Academy at three in the afternoon, but people with their own private transportation could get in at any time they liked. Jerric, the twins, and Emilia would probably be coming in with the general mass at three, but Ambrose and Devon might arrive at any time. He wasn't sure whether he wanted to be there in the dormitory when they did turn up.
+
+"There's no point trying to avoid them," he said to his own reflection in the bathroom mirror after he was done washing up. "The whole point in moving back in is because I wanted to see them again."
+
+And, as if to test his resolve, he heard the dormitory door open. He stared down at his watch. It was only half past seven. The person most likely to be early out of the whole bunch...
+
+"What?! Who got here earlier than me? Jerric, is that you?" Devon called out.
+
+"Nope!" Caden shouted back, gripping the sink tightly.
+
+From the sound of it, Devon had been bringing in a few pieces of luggage. But at Caden's reply, he stopped. "Wait, have I got the right place?" he heard Devon ask himself uncertainly. "Uhm, who's that?"
+
+Finally, Caden found the will to tear himself away from the sink. He stepped out of the bathroom and into the common room, trying his best to appear casual. There Devon was, standing with one suitcase in hand. Two were already across the threshold, and Caden spied another three still just outside. "Hey," he said, forcing a smile. "New dormmate. You're Devon, right?"
+
+"Oh!" Devon's uncertainty gave way to a look of huge surprise. "Caden?!"
+
+Caden's eyes widened and his heart skipped a beat. "Y-yeah. You know me?"
+
+"You're... the Top Scorer!" Devon dropped his suitcase and gestured wildly, then came forward and eagerly shook Caden's hand before abruptly letting go and withdrawing, looking a little embarrassed. "Sorry, I mean, I know about you, I've heard lots from Emilia, she's in the same tutorial group as you. I mean, you know that, I'm just saying that's how I know, because she's told me all about you. I mean, not all. But... uh, yeah. Maybe I should stop talking now."
+
+"No, it's fine," Caden said, the smile on his face now less forced, though it was accompanied with a pang in his heart. "Uh, it's kinda hard to believe Emilia's been singing my praises, though."
+
+"I mean, you know her," Devon said, grinning. "She just says it like it is. But that just means that when she acknowledges someone's good, it means that person is really good."
+
+"Yeah. You need help with that?" Caden asked, gesturing at the suitcases.
+
+"Oh." Devon looked a little uncertain. "You know, actually... I don't know why I'm doing this by hand. Kinda habitual. I'll manage."
+
+He gestured politely for Caden to back up a little, then turned his attention to his suitcases. Caden sensed him deftly shaping arcana without using any sequences, and all six suitcases floated across the length of the common space. One of them peeled off and deposited itself in the kitchen area. Another shift in the arcana accompanied the unlocking of the door to the room that Devon and Jerric shared as Devon made use of his key to the Panoply ward. Caden was only now just realising that Caldwell's wysana had apparently seamlessly transferred it over to this building without triggering any of its alarms or defences. The remaining five suitcases filed in, and the door closed itself behind them and locked itself once more with an audible click.
+
+"Nice," Caden said appreciatively. "No glyphs, just pure arcanic manipulation."
+
+"You could tell?" Devon asked, looking a little surprised, but also pleased. But there was also a little shadow over that satisfaction. "Yeah, that came with lots of... uh, effort."
+
+"You mean practice?" Caden asked.
+
+"Practice. Yeah," Devon said, awkwardly scratching the back of his neck. "Anyway, have you had breakfast yet?"
+
+Caden shook his head.
+
+"You're in for a treat, then!" Devon grinned as he went over to the kitchen area and started pulling out cooking paraphernalia from the suitcase there. "In this dorm, we eat well. Sit down and I'll whip something up."
+
+"I can help," Caden said, stepping up to the counter.
+
+"Oh, you cook too?" Devon asked, looking pleased.
+
+"Not particularly well," Caden answered, smiling a little. "But I had a good teacher, and I know enough not to be a nuisance."
+
+"I'll be the judge of that," Devon said, pretending to look severe. He pulled out a griddle from the suitcase and slid it over to Caden. "Let's see if you can do waffles."

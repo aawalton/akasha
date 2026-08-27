@@ -1,0 +1,255 @@
+---
+id: 23b89318-b99f-5a68-8e80-87471c03b364
+page-type-slug: story-chapter-royal-road
+title: "198 - Super Secret Secret Party"
+slug: 0066-198-super-secret-secret-party
+partOf: bunny-girl-evolution
+position: 66
+ownLength: 3286
+unit: words
+publishedAt: 2026-05-16
+link: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution/chapter/3402655/198-super-secret-secret-party"
+royalRoadId: "3402655"
+---
+
+“Huh,” said Samantha, leaning back in her chair and rubbing her chin. “I guess I was pretty off there. Hmmm…”
+
+No one else spoke, instead watching Samantha intensely. She was the most mysterious in the class, and now she was obligated to share something about herself by the rules of her own game. None of the others wanted to miss even the slightest movement.
+
+Elise was slightly bewildered about how Samantha could have come to the conclusion that she was Oberon, but she set that question aside for the time being. She didn’t want to miss anything either, especially since she could only trust her eyes here. Samantha’s aether was subdued and her emotions were hidden as usual, so whatever she was feeling, Elise had no way of knowing beyond ordinary observation.
+
+Samantha took her sweet time deliberating on what to share, and once or twice, Elise swore she caught a hint of a smile on the corner of her lip, as if she was enjoying the building tension. When she finally spoke, Elise was beginning to wonder if she had gotten her guess wrong on purpose for this exact reason.
+
+“I…” she said slowly. “...Am a celestial.”
+
+Everyone else at the table gasped, but after that, Elise gasped even louder. No one seemed to pay her much attention, as they were suddenly filled with questions for Samantha about whether she was telling the truth, and whether there was a secret clan of celestials living in hiding somewhere, and more. But Elise, after taking a moment, realized that she might have been a bit stupid.
+
+She had all the clues to have figured this out herself, and she had had those clues for well over a month now. She was strangely competent. Her silver eyes were too bright, even for someone of elven blood. Emmett himself couldn’t figure out who she was. She had perfect control over her aether. And even just now, she had shared that she wasn’t 9th Tier. That part was debatable, since Elise had no doubts she was around that level, but if she had never leveled up through the System, she technically had not progressed through the tiers. There was also a chance that she had some shenanigans going on similar to Elise’s age where the System displayed one thing while the reality was different.
+
+Most importantly, though, she had met Quel’Khulan and Quel’Tyral. They had explicitly told her about the Spy. She knew there was another unsealed celestial running around. And yet somehow, she had never made the connection between that and Samantha. It explained everything so perfectly that she felt like a massive idiot for not seeing it sooner.
+
+“Alright, enough, enough,” said Samantha holding her hands up as if to physically stop the tide of questions. “Revealing all that would be more secrets, wouldn’t it? Why don’t we continue the game, and see if you can get me on anything else?”
+
+Elise was more than certain that they would be getting absolutely nothing else out of Samantha, but she didn’t protest the suggestion. Samantha had briefly undone part of her aether suppression, allowing Elise to sense her amusement, more or less confirming that she had guessed wrong about Elise on purpose. Why she had suddenly chosen to reveal herself, Elise didn’t know, but she suspected she would soon.
+
+No one else raised any complaints either, so a few seconds later, it was Elise’s turn.
+
+“Helene is a changeling,” she said.
+
+That set off another round of gasps, one from Helene herself, but Elise knew she wasn’t actually offended. She was quite clearly resolved to reveal herself in order to unmask Samantha, so being unmasked herself wasn’t a big deal. Plus, it let Elise have a little bit of petty revenge for the trick she pulled with her name.
+
+It wasn’t entirely unexpected either, as half the group seemed to already know. Both the Larcombes knew, of course, since the Wagners being a changeling family was a relatively poorly-kept secret, and of course, Samantha and Elise already knew, and Sophie and Jessie by proximity. That left only Cassian and Leonidas to be shocked, but even so, they didn’t seem that surprised.
+
+They went around the table once more, with no huge surprises. Sophie tried to imitate Helene and guess at Samantha's age, but failed, and in her panic, ended up revealing that she was apprenticed to a dragon instead. And of course, everyone else already knew that, since Jessie had shared it in the last round, so she had to go a step further and reveal that she was actually Irylax’s goddaughter.
+
+Jessie asked if she could skip her turn, since she didn’t know any secrets she would be willing to reveal, and Samantha revealed a new rule to the game she had forgotten to mention earlier. If someone didn’t expose someone else’s secret, they wouldn’t be forced to expose one of their own either.
+
+Cassian and Leonidas immediately copied her, as they didn’t know much and couldn’t reveal their own secrets, and Hugo and Theresa both made stabs at Samantha as well. Hugo tried to guess her tier, this time guessing 8th, and ended up revealing his rank in the Jelorian spy network as payment. Theresa actually got her guess right, saying that Samantha was currently not disguising her appearance.
+
+When it was time for Helene to go again, she narrowed her eyes at Samantha for a few seconds before turning to Elise.
+
+“Eleanor knows Samantha’s true identity.”
+
+Elise’s eyes widened, and she glanced over at Samantha, who seemed mildly impressed.
+
+“Correct,” said Samantha.
+
+Now, it was Elise’s turn to be bombarded with questions, the others having evidently decided that she was a much easier target than Samantha. Elise didn’t answer any of them, because she had a dozen questions of her own, most revolving around the safety of revealing Samantha’s identity. Revealing it in any meaningful capacity would require revealing some other information that Quel’Khulan made very clear was dangerous to even know about.
+
+Elise glanced at Samantha, who seemed completely unbothered by the proceedings, but Elise got the subtle sense that Samantha was ready to spring into action at a moment’s notice.
+
+Is she testing me? Elise wondered.
+
+After a few seconds, she decided to play it safe and not reveal anything, and another minute later, she had successfully deflected the barrage of questions, and the table settled back down, allowing Samantha to take her turn.
+
+“Theresa is actually a set of triplets all pretending to be the same person,” she said casually.
+
+“...Guilty,” said Theresa with a light smirk.
+
+“Oh, so that’s why you called yourself Three,” said Helene.
+
+“Wait, then why aren’t your sisters here?”
+
+“Sister and brother, actually,” said Theresa. “And it’s because strangely enough, in the entire class, I’m the only one that actually interacted with any of you, and I was the one who happened to be on duty when each of you identified me. So, they didn’t really feel comfortable coming, since they hadn’t really ever spoken to you.”
+
+“Ah, I see,” said Sophie. “You should have brought them anyway. It would have been fun.”
+
+“Maybe next time.”
+
+“Wait, then why did you stop wearing the disguise and just start coming yourself, then?” asked Elise. “Wasn’t there being three of you also part of the test?”
+
+“It was the second layer of the test, but that one had a time limit,” said Theresa. “Cassian and Leonidas figured it out pretty quickly, and I think Samantha probably knew the whole time, but the rest of you had to figure it out before everyone saw through the mask, or else you missed out.”
+
+“Ah, I see,” said Elise. “Wait a second. Sophie, haven’t you been able to see through the mask the whole time?”
+
+“Uhhhhh…” said Sophie.
+
+“You didn’t notice that one of them was a guy?”
+
+“I just thought she was doing her makeup differently!”
+
+Sophie’s face reddened as the rest of the table chuckled, but she soon joined in with the laughter. Once that died down, though, the table went eerily silent again as everyone stared at Elise expectantly.
+
+“Well…” she started. “Revealing Samantha’s identity would end poorly. For all of us.”
+
+“Correct,” said Samantha.
+
+“And it’s not because she’s threatening us,” said Elise quickly as she sensed the mood at the table rapidly shifting. “It’s just… There are some secrets that are best left secret.”
+
+“Why?” asked Helene, not looking particularly pleased. “Can you at least tell us why it’s dangerous?”
+
+“...No, I don’t think so,” said Elise after a few seconds. “I think that even knowing why it’s dangerous is dangerous.”
+
+She glanced at Samantha for confirmation, but the other woman just shrugged.
+
+“I’m not entirely sure if it is, but better safe than sorry.”
+
+Helene scowled, and Jessie shifted uncomfortably.
+
+“I have an inkling of what it might be related to,” said Hugo solemnly. “And I agree. It’s best if we just leave it at that. But if you take Advanced Aether Studies in a couple semesters, you might learn a little bit of why.”
+
+“Oh, I see,” said Theresa, her eyes widening as she nodded. “Yes, I think I see why, too.”
+
+“I doubt it,” said Samantha. “But you two are probably thinking of something similar. Either way…”
+
+“Right,” said Theresa. “We understand.”
+
+“...Fine,” said Helene grumpily. “I’ll drop it.”
+
+During the next round of secrets, the mood at the table was much more subdued than it had been, and with the mystery of Samantha’s identity off the table, the game lost most of its stakes. Most everything that the students were willing or able to reveal had already been revealed, and there were no other secrets worth risking their own deeper secrets for. The rest of the round passed with all but Helene and Samantha giving up their turns, and the one after, the game ended because everyone decided they were done. In that second to final round, Helene had revealed that Elise was a changeling, and Samantha threw everyone a bone and revealed her own age, which was eighty-two, but those reveals didn’t have quite the impact that earlier ones did.
+
+The gathering ended not long after, with the mood never quite recovering, but before Elise could leave, she felt a hand on her shoulder. When she looked back, she saw that Samantha was looking at her with a solemn expression.
+
+“Would you mind staying a bit longer?”
+
+Elise hesitated, then nodded. She had an idea of what Samantha might have wanted. There were very few reasons for her to have chosen that moment to reveal herself. And her suspicions were more or less confirmed when she stopped Jessie as well.
+
+“Sn– Eleanor?” asked Sophie, pausing on her way to the door.
+
+“Go home without me,” said Elise. “I think I might be a little while.”
+
+“Can I stay?”
+
+“No,” replied Samantha. “Go. This is not for your ears.”
+
+“But–!”
+
+“Go,” said Elise. “I’ll see you at home.”
+
+“Are– Are you sure?”
+
+“She’ll be back soon,” said Samantha. “This won’t take long.”
+
+“Promise?”
+
+“I swear on my life.”
+
+“...Alright.”
+
+“C’mon, Sophie,” said Leonidas, putting a hand on the half-elf girl’s shoulder. “We’ll walk you home.”
+
+“See you later, Sophie,” said Elise.
+
+“...See you later.”
+
+Elise had not shared a word of her conversation with Quel’Khulan with anyone around her for fear of causing System-related consequences, but even so, Sophie could sense the gravity of what was happening, and was reluctant to leave. She allowed herself to be steered out of the room by Leonidas and Cassian, but until the moment the door closed, she was constantly looking back at Elise.
+
+“It’s completely safe,” sent Elise with {Whisper}. “I’ll be home soon. I promise.”
+
+With that hopefully handled, Elise turned back around to face Samantha and Jessie.
+
+“Jessie,” said Samantha. “Do you want to leave the church?”
+
+“Yes,” replied Jessie immediately.
+
+“Even if it means not being able to go back?”
+
+“Ever?”
+
+“Maybe.”
+
+“...Would I still be able to heal people?”
+
+“Yes, but not in the same way.”
+
+“What do you mean?”
+
+“You would be living on the run, unable to settle down or stay in one place.”
+
+“That sounds pretty fun, actually.”
+
+“It can be,” said Samantha. “But it’s an exhausting lifestyle. And not always the most fulfilling.”
+
+“…Do I have to decide right now?”
+
+“Yes.”
+
+Jessie frowned, looking at the ground as she thought deeply. A few seconds later, she looked back up at Samantha, an expression of resolve on her face.
+
+“I’ll do it.”
+
+“Are you sure?”
+
+“Yes.”
+
+“Good. Now both of you, grab my arms.”
+
+Samantha produced a piece of parchment from her robes that Elise recognized as a teleportation scroll.
+
+“Not going to ask me?” asked Elise as she walked up to take Samantha’s arm.
+
+“You’re already well past the point of no return,” said Samantha with a light smile. “Are you both ready?”
+
+Elise and Jessie nodded, each holding onto one of Samantha’s arms, and Samantha tore the scroll, causing the world to spin for a moment before righting itself. When her vision cleared, Elise saw that they were in a cave, and one she was fairly certain existed within the Dungeon somewhere. It was not one she had ever been to, though, and for good reason, as it seemed to be completely sealed off from the outside.
+
+The cave was spacious, about the size of a house, and while it was mostly empty, it was not completely so, and it was not unoccupied either. In the center of the cave, there were four identical black boxes, each the same as the one that had contained Quel’Khulan. They were arranged in a square, and standing around them were nine figures, seven of which Elise recognized.
+
+There was Quel’Khulan, back in his full armor and towering over those nearby, and beside him was Quel’Tyral, wearing a forest green cloak with a tall bow slung across his back. Next to him was Charlotte, who was wearing the same shirt that Elise had given her, though now not filthy and full of holes. The spider girl waved cheerfully when she saw Elise, but surprisingly, restrained herself from rushing forward.
+
+Next to Charlotte was Maggie, dressed in her full armor as well, and leaning against her sword, which was stabbed into the ground. She smiled and nodded at Elise and Jessie, but did not give any kind of greeting. Beside her was Erin, undisguised with all her tails out. Her fur was standing on end, and she looked incredibly nervous and out of place.
+
+Attalaya stood beside Erin, also looking out of place, but mostly confused, rather than nervous, and her confusion only grew when she saw Elise and Jessie. The one beside her was another giant, this one a full head taller, and for some reason, not wearing a shirt. He looked relatively young, but had a streak of gray in his bushy beard that belied his age. He stood unflinching with his arms crossed over his chest, barely acknowledging Elise’s arrival. She could only assume that person was Attalaya’s mysterious master.
+
+The last two were people that Elise had never met before. One she recognized from the newspapers as the Immortal Empress Wei Lan. Oddly enough, Wei Lan seemed to recognize Elise too. The final person was a complete stranger to Elise, but at the same time, he looked oddly familiar. It was a young eastern man dressed in rags and chains with unkempt hair and a lazy smile. He smiled and winked at Elise and Jessie, but just like the rest, he didn’t say a word.
+
+“I hope you all weren’t waiting long,” said Samantha, stepping forward.
+
+“Not at all,” said Wei Lan. “Are these the other two?”
+
+“Yes,” said Samantha. “Elise Burrow and Jessica Lux. Elise, Jessie, meet Wei Lan and Feng Yan, two other Fated. Or aetherborn. Whichever you prefer.”
+
+“Nice to meet you,” said Elise, with Jessie echoing her.
+
+“It is an honor,” said Wei Lan, bowing her head slightly. “I have actually seen you before. In my dreams. But you looked different. You were disguised as a drow.”
+
+“Oh, that was you?” Elise asked, recalling the feeling of being watched from when she was in the drow caverns. “I think I noticed you. And I’ve seen you as well in my dreams.”
+
+“Me too,” said Jessie. “It’s an honor to finally see you in person, Empress.”
+
+“The honor is mine, Saintess. And please ignore this one.” Wei Lan gestured toward Feng Yan. “There is a reason he is in chains.”
+
+“A few, actually,” said Feng Yan with a smirk.
+
+Wei Lan glanced at him with an expression of utter revulsion, then looked back toward Samantha.
+
+“I presume you want us to open these?”
+
+“Yes,” said Samantha. “But first, a few more introductions. All you in here are holders of the world’s greatest secret. Perhaps you cannot trust each other, but you have a certain bond that you’ll find is both strong and dangerous. It is best that you know at least a little about each other.”
+
+Samantha proceeded to go around the room, introducing each person in turn. Quel’Khulan and Quel’Tyral were, of course, the Paladin and the Hunter, two of the most powerful warriors of the past. Charlotte was Charlotte, and also Quel’Tyral’s protege. Maggie was the last remaining Paladin of Light, and apparently instrumental in getting the gathering set up, having sought out Samantha herself. Attalaya and her master, Atlas, were the legacy of the Warrior, who was sealed in one of the boxes before them. Wei Lan was the empress in the east, and her nickname was not just for show, as she could recover from any injury with her {Rune of Fate}.
+
+And finally, Feng Yan was the younger brother of a previous emperor in the east, and one of the most heinous criminals to ever live. Countless innocents had died at his hands in his quest for divine power, and the only reason he had not been executed was due to his bloodline, and the fact that in the end, he had been crippled, and rendered unable to harm anyone ever again. Why he had been returned to his youth was anyone’s guess, but the youthening had thankfully not uncrippled him, and he was, for the present, as weak as an Unawakened child.
+
+Samantha introduced herself simply as the Spy, and did not share her true name before moving on.
+
+“In the very near future, the world is going to change, and all of your lives will be affected,” she said. “How, exactly, I cannot say, but you may find yourselves the enemy of the world, and through no fault of your own.”
+
+“Well, for the rest of you, maybe,” said Feng Yan, ignoring the glare this earned him from Samantha.
+
+“For now, there is still a chance you escape retaliation,” she continued. “Which is why I will not reveal too much. But if not, we will do our utmost to aid you and keep you safe. Myself, Khulan, Tyral, and the others that are still sealed. Should that happen, we will be able to tell you the full truth, both about ourselves, and the world you live in. For now, it is enough that you simply meet, and witness what is about to happen.
+
+“I know that many of us, myself included, have other matters to attend to, so I will not keep you much longer. Elise. Jessie. Lan. Yan. Choose a box and stand beside it.”
+
+The four of them stepped forward, somewhat nervously on Elise and Jessie’s side, then glanced toward Samantha for further instructions.
+
+“Now… touch the boxes. It’s time to meet the rest of our comrades.”

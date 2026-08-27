@@ -1,0 +1,77 @@
+---
+id: 7feb7e04-f8ca-5d02-abef-3ae4722c5f4f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1554 - Heat on the Platform"
+slug: 0202-chapter-1554-heat-on-the-platform
+partOf: chrysalis
+position: 202
+ownLength: 948
+unit: words
+ownProgress: 948
+publishedAt: 2025-04-18
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2210839/chapter-1554-heat-on-the-platform"
+royalRoadId: "2210839"
+markedReadAt: "2026-06-29T19:50:17.000Z"
+---
+
+Burn, baby, burn! Disco inferno, now burn, baby, burn!
+
+Such a catchy groove it’s hard not to wiggle my capital investment portfolio as I launch a steady stream of Dragon’s Breath from between my mandibles. The fire roars out with all the intensity of a jet engine, blasting everything in sight and filling the air with a crackling, searing heat. The air close to the platform, that is. The air beyond the safe zone is as wet as a snotty-sneeze from a monster formed of nothing but noses. And it has a cold.
+
+Despite the incredible power contained in the stream of fire, into which I’m pouring mana, along with the energy of the Altar, it’s hard to burn through the overwhelming wetness that we’re confronted with.
+
+Well, it’ll have to do for the moment, since I’m running rather low on gravity mana and I’m currently stepping back a little from the front in order to let my carapace heal a bit. Getting exposed to goop at a fairly constant rate, along with collateral damage from repeated use of the Starcrusher, has put a bit of a dent in my shiny carapace, so I need a little break. Not just to keep myself fighting fit and ready to go, but to ensure that the healers don’t knock me out, drag me into a hospital bed and tie me down until I’m fully healed.
+
+Honestly, I feel like the healers are eyeing me aggressively these days. I wouldn’t put an abduction past them. Not exactly sure how they’d do it, but I won’t ever underestimate what the members of my family can do. I’m deliberately not looking into the Vestibule to see what they’re thinking because, quite frankly, I’m scared to find out.
+
+The healers are intense.
+
+And they aren’t the only ones.
+
+“How are you feeling?” Bertran asks. “Not asking for any specific reason. Just checking in, you know? You always want to beat the pan back into shape before you fire it.”
+
+“Did the healers put you up to this?”
+
+“Believe it or not, they didn’t.”
+
+“Could you step back a little? I am blasting superheated fire out of my face-zone right now.”
+
+“Ah, right.”
+
+There’s a slight poke at my back leg, and I turn a little, playing the flame over a different undulating wave of mucus to see three smaller humans staring at me seriously. They don’t say anything, but they stare, menacingly.
+
+“No, I’m not going to rest. I will soon, but not yet.”
+
+I’m putting all six of my feet down on this one. Taking a break from the platform would put an insane amount of pressure on the battalions. I’m certain the ants would hold, but at what cost? I intend to save up my energy to unleash a mighty blast of gravity-based magic right before I go for a nap, which will hopefully keep the nastiness back from the platform for at least ten minutes. I hope.
+
+Allison, Trean and Emilia don’t seem all that pleased with my decision, but there’s nothing they can do about it. The torpor police haven’t shown up lately, and the three of them certainly can’t take me down on their own.
+
+If it weren’t childish and beneath the dignity of the Eldest, I’d stick my tongue out at them. Also, I don’t really have a tongue.
+
+Ever since the Nave was attacked, the Templars have been even more attentive than they were before. They’re hovering around so much they might put Protectant and her siblings out of a job!
+
+I haven’t been mothered this much since I last saw Mother. If they had antennae, I’d start to feel genuinely threatened.
+
+“Just relax a little, all of you,” I tell them. “Yes, this is dangerous. Deadly, even. Yes, I was attacked by some mysterious force that knocked you guys out on the spot and forced you to do battle in a semi-spiritual plane of existence that is housed, somehow, within my body. But it’s fine! Everything is going about as well as it can. I’ll get healing and rest, I promise.”
+
+There’s a heavy silence for a moment, well, as heavy a silence one can get in a battlefield, before Bertran speaks again.
+
+“You aren’t very good at reassuring us,” he says, scratching his head.
+
+“Gah! Since when was it my job to make you feel better about worrying about me? How does that even make sense?”
+
+“If you don’t like it, you shouldn’t have become a god.”
+
+A new scent chips into the pheromone conversation as Jern steps up beside me, Alis by his side. The matter-of-fact way he made the statement, along with the completely bland expression on his face, makes it hard for me to summon the energy to refute his ridiculous claim. No matter what I say, he’s going to keep on believing it.
+
+“You’re really annoying sometimes, Jern, anyone ever told you that?” I say, almost clacking my mandibles in irritation, only to realise at the last second I’m still blasting a mega-powered flamethrower out of my face.
+
+“Alis tells me that every day,” he shrugs, which earns him an elbow in the guts from her.
+
+“That’s mainly because she’s had a crush on you for years and you’ve never realised,” I reply.
+
+Jern’s eyes go wide and Alis blushes furiously. Bertran coughs, but the three kids just keep glaring at me.
+
+Ha! Take that, Jern. Now you’ve got something else to think about other than annoying me. I win!
+
+All I have to do now is make it to my next break, then I can collect the armour Smithant promised me. I’m looking forward to seeing what she cooked up.

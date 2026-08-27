@@ -1,0 +1,85 @@
+---
+id: d90dc9bd-bb2e-5d18-9534-bc8deeb3807d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1639 - Precious Secrets"
+slug: 0288-chapter-1639-precious-secrets
+partOf: chrysalis
+position: 288
+ownLength: 997
+unit: words
+ownProgress: 997
+publishedAt: 2025-09-05
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2575255/chapter-1639-precious-secrets"
+royalRoadId: "2575255"
+markedReadAt: "2026-06-29T19:53:01.511Z"
+---
+
+It isn’t uncommon for members of the various Cults to debate the merits and strengths of the Ancients as monsters, though with an obvious and significant bias towards their own deity. When debating who is the physically strongest of the Ancients, Rigorite and Yarrum are usually the two names that are first raised.
+
+Although Rigorite, formed of living metal, is not thought to nearly approach the size of the Eternal Worm, the Ancient is nonetheless massive, a breaker of mountains whose charge is as irresistible as the turning of Pangera.
+
+Steel Cultists tell tales of Rigorite’s gleaming presence, and the deadly blade formed from the Ancient’s head and running up its back. Despite their massive size, the blade of Rigorite is said to be so sharp it can cut air.
+
+-           Excerpt from ‘Collective Wisdom of the Cults’ by Granin Lazus
+
+Satisfied with their work so far, the triad moved onto the final mutation: the mandibles.
+
+Anthony’s mandibles were critically important, his primary weapon and literally the first thing his opponents had to face when they approached him. More importantly, he needed to ensure he remained physically capable of battle. There were many ways to get around mana-based attacks, and according to legends, some of the most powerful monsters in the Dungeon were close to fully immune. If he couldn’t deal strong physical damage to his opponents, then Anthony would find himself face to face with enemies he could never hope to defeat.
+
+Fortunately, he had cultivated powerful pets who would be able to help him, but that wasn’t always enough. Crinis, Tiny and Invidia would never be stronger than Anthony himself, and helping them to progress was going to become prohibitively more expensive over the upcoming tiers. He had to be able to do it himself.
+
+Which meant his mandible mutation was all the more important. So far, he had taken the savage mutation three times, which increased the size of the mandibles and changed their shape, making them sharper, with longer ‘teeth’ giving them more penetrating and gripping power. For his next three mutations, Anthony had chosen to explore the ability to inject his opponents with gravity mana. An interesting power that he hadn’t been able to explore much in the fifth. Getting up close and personal with fifth stratum monsters was seldom the best approach, after all, and for the mutation to work, he had to physically bite something, not just hit it with his chomping Skill.
+
+Once he actually got to grips with his opponent, injecting them with gravity mana should allow Anthony to overcome many foes, allowing him to manipulate them from within. Even a monster immune to external mana attacks wasn’t safe from energy inside of them.
+
+The triad consulted and decided that the best way for Anthony to improve his combat proficiency was to further enable his mandibles to deal strong physical damage. They had to be sharper and deadlier, which would have the benefit of enabling them to crack through defences, facilitating mana injection.
+
+They searched through the long list until they narrowed down their options, debating and discussing the merits and drawbacks of each.
+
+Ultimately, they settled on one.
+
+Vorpal. This mutation sharpened and hardened all edges and cutting surfaces to only a few microns. Further iterations on this mutation would have the potential to create mono-filmament edges.
+
+Such a powerful enhancement would also have a dramatic effect on the strength of the Skills he used with his mandibles, which would be something to behold. Although the triad hadn’t seen the Starcrusher at work, they had spoken to many who had. A potent weapon indeed. It would be their responsibility to ensure that the giant ant could properly utilise it, and the rank eight version, after his next evolution.
+
+[Alright, I think we are done,] they said to Anthony, speaking as a collective.
+
+[Huh? What about my pheromone gland?]
+
+The triad had made the pheromones produce a pleasant smell in the area which calmed and soothed those who smelled it. They figured anyone around Anthony could do with a little help staying calm.
+
+[We took care of it,] they told him.
+
+[Alright then, go ahead. Seriously, though, I can’t help but feel like I’m forgetting something…]
+
+[No matter. These mutations will significantly aid your cognitive power, which will help you hold off the toxin inside you. We should proceed immediately.]
+
+[I get it, I get it. Go on then.]
+
+All three golgari nodded in unison, then confirmed the mutations. In that instant, Anthony’s antennae spiked upwards.
+
+[Wait! I remember now! NooooooOOOOOOOOOO! SHABAKABAZZIFLAP!!!! THE ITCH!!!!!!]
+
+To the shock of everyone in the chamber, the ant leapt up, crashed into the ceiling, only to begin flailing wildly in midair. Anthony landed heavily, with an enormous crash, legs kicking while everyone scrambled to move away from him.
+
+[What is happening?!] the triad demanded.
+
+[My body is mutating! It itches like CRAZY! GAHHHHHHHHHHHHHH!]
+
+It itches? It wasn’t supposed to itch! No monster they’d ever seen reacted in this way to mutating.
+
+[Hold still! You have to focus on protecting yourself from the toxin!] the triad urged him, but Anthony seemed unable to listen.
+
+[My secret shame,] he groaned as he continued to writhe and kick. [I HATE THIISSSSSS!!!!]
+
+The healers flung themselves back onto Anthony, doing all they could to stop the progression of the toxin while the triad extended their awareness into Anthony once more. The poison of Theorazzn was spreading quickly, too quickly.
+
+[How long does this itch go on?] they demanded. [Quickly!]
+
+[My brains are like a fire that’s on fire while within another fire! My muscles! My FACE! GAH!]
+
+We have to start the evolution right away, the triad thought grimly. There was a chance the evolution process would help slow the spread as the toxic energy was consumed by whatever new species they chose.
+
+Acting as one, all three stepped forward and placed their hands against the wildly swinging body of the giant ant.
+
+Begin managed evolution.

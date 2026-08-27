@@ -1,0 +1,83 @@
+---
+id: 62d4e09e-42f8-5bd1-8741-406fcc835eb2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1608 - Too Smart to be Called Cunning"
+slug: 0257-chapter-1608-too-smart-to-be-called-cunning
+partOf: chrysalis
+position: 257
+ownLength: 884
+unit: words
+ownProgress: 884
+publishedAt: 2025-07-17
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2441635/chapter-1608-too-smart-to-be-called-cunning"
+royalRoadId: "2441635"
+markedReadAt: "2026-06-29T19:52:02.378Z"
+---
+
+It wasn’t always easy being the smartest person in the room. Yet, Brilliant wasn’t just the smartest person in the room, she was the smartest person anywhere.
+
+What a burden she bore upon her carapace.
+
+Surely there were people, or monsters, out there with higher Cunning than she had, of course there were. In fact, one could be found not far away, her Senior’s brainy pet demon had more mind-matter than she possessed by a large margin.
+
+And yet… did that make Invidia smarter than her? Clearly not, since she was the one named Brilliant.
+
+No, her inexhaustible mental faculties were dedicated to something other than weaving mana and casting spells, she had no time for that sort of nonsense. Her brain was wholly consumed with the knowing of things. Secrets she would ferret out, puzzles she would solve and mysteries she would de-mystify.
+
+Right now, there was a particular puzzle she was working on, and it was proving to be rather tricky.
+
+“I’ve told you already, we can’t go out into the mana of the fifth,” Assistant groaned. “We’ll melt into a puddle in five minutes.”
+
+“Bah! Can’t is not a word I’m interested in unless there is hard data. And explosions! You know very well we aren’t planning on travelling by mundane means, so don’t bother me with your useless prattle! I don’t intend to expose us to the contaminating energy of the fifth for more than a split second!”
+
+Assistant clacked her mandibles in frustration and tried to keep her temper. Brilliant was being unreasonable again, which was perfectly normal for her, but being shifted from one impossible project to another in a short span of time had done nothing good for Assistant's state of mind. Of course, they should do everything they could to save the Eldest, that was their duty, but plucking them out of danger using an alternate dimension?
+
+“We don’t understand how those dimensions interact with our own well enough to try and move something as powerful as the Eldest through it,” she said, sensibly. “Nor how to get in and out of it. You can do it, thanks to your evolutions and such, but we can’t.”
+
+In fact, Assistant had no idea how Brilliant managed to hop from one dimension to the next. She had some ability that let her perceive them, an organ or mutation, but as for the actual jumping about? It was a mystery to everyone.
+
+“That’s what the experiments are for!” Brilliant declared, sweeping her leg in a grand gesture around the lab.
+
+“D-d-d-did you call me?” Experimant asked from behind a nearby desk.
+
+“No, don’t worry!” Brilliant declared cheerfully, turning back to her instruments.
+
+“Yes, you said you want to check dimensions for stability, but how are we supposed to do that? We haven’t created the methodology! We’re starting from scratch and we have to be ready in… hours!”
+
+“That, my dear sibling, is why I am creating… this!” Brilliant declared, turning around and waving a design document in the air with great vigor. “Once we make it, we should be able to determine the relative stability of a given dimension at a particular point in space and time. With that, we can work out which will be our best path to move through the fifth without entering the fifth! It’s BRILLIANT!”
+
+“You have the design?”
+
+“I do!”
+
+“How long is it going to take you to build it?” Assistant asked.
+
+Brilliant waved away her concerns.
+
+“I can’t be bothered with such details. I never make them myself.”
+
+“There’s no way it’ll be ready in time!” Assistant screeched, dragging her antennae through her elbow joints so hard it felt like they were going to be pulled out from the root.
+
+“I-I-I-It’s r-r-ready,” Experimant said, creeping out from behind her table to place the device in front of Brilliant.
+
+“Ah, many thanks, Experimant!” she beamed, with a happy clack of her mandibles. “I’m glad I gave those plans to you yesterday. Right, where were we?”
+
+Assistant, somehow, managed to gloss over that.
+
+“We still don’t have a safe path through,” she insisted. “We know the mana from the fifth bleeds into everything that it touches, and that includes other mana and dimensions! How are we supposed to find a dimension that is stable enough and doesn’t suffer from the mana bleed so badly we get infected with it?!”
+
+To her shock and horror, the entire lab plunged into complete darkness in an instant. Such a deep and penetrating shadow could only mean one thing….
+
+Assistant threw herself on the ground.
+
+“I went for torpor yesterday! Take Brilliant, not me! She hasn’t rested in forever, she’s guilty!”
+
+She laid there, covering her carapace with her legs and waiting for the inevitable wave of drowsiness to come over her. Yet, as the moments ticked over, it didn’t come.
+
+“I take regular naps, I’ll have you know,” Brilliant huffed from nearby.
+
+The darkness slowly receded to reveal a single, small ant, no different than any other, standing in the middle of the lab, looking at them. Assistant feared her deeply.
+
+“I am the Nameless One,” the ant told them. “I believe I know of a way to get you where you want to go.”
+
+“Shadow dimension?” Brilliant mused, clacking her mandibles. “That just might work.”

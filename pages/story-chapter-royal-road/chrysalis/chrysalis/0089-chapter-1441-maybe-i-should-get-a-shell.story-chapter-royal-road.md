@@ -1,0 +1,83 @@
+---
+id: e340431b-c582-5d3a-94cf-c460251c7074
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1441 - Maybe I Should Get a Shell"
+slug: 0089-chapter-1441-maybe-i-should-get-a-shell
+partOf: chrysalis
+position: 89
+ownLength: 1187
+unit: words
+ownProgress: 1187
+publishedAt: 2024-10-29
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1873233/chapter-1441-maybe-i-should-get-a-shell"
+royalRoadId: "1873233"
+markedReadAt: "2026-06-29T19:46:49.043Z"
+---
+
+I mean, really now. How hard can it be to destroy one nasty turtle? Pretty darn hard, as it turns out!
+
+I send bomb after bomb at the lousy thing. Obviously they aren’t large ones, or overly empowered. The Colony is close enough that if I were to unleash my full strength, they, the fortress currently under construction, and most definitely myself, would be in serious trouble. There’s no need to risk my own life in order to destroy this turtle, but wearing it down is taking forever.
+
+The first problem is the endless amount of slime it produces. The stuff is dense and packed full of mana, so it soaks up a huge amount of power from the gravity bombs. However, I can produce black holes faster than this stupid turtle can make its dumb sludge, so I can get through the defensive layer, but the turtle won’t let me target its soft underside, always turning its shell to take the hit.
+
+And the shell is tough. I don’t know if it's mana resistant or just absurdly dense, but it eats up punishment. Or is this turtle just healing really quickly? I’m not sure, but it’s a massive pain in the thorax!
+
+From its position in the centre of its now non-existent pool, the shelled fiend glares at me hatefully. For whatever reason, it still hasn’t tried to charge me, but every time I get close, them jaws start snapping, without fail.
+
+So we enter this standoff, where it sits there brooding, pumping out sludge from the holes in its shell, and I just throw bombs at it along with a myriad of other spells, trying to wear the lousy thing down.
+
+After all, in a battle of attrition, I’m guaranteed to win!
+
+Once I’ve thrown my tenth fun-sized gravity bomb, the turtle’s patience finally cracks. Despite being under the weight of the gravity domain, the lumbering beast picks itself up and finally decides to make its move.
+
+I’m half expecting the monster to have some hideous slug-like lower body, but thankfully it has the regular four legs that anyone would expect to see. I’m almost relieved.
+
+Under the weight of its massive bulk, I’m not sure what this turtle is going to do, so I watch carefully to see what its next move is going to be. A charge? A headlong assault? A desperate last minute bite combo?!
+
+I’m sure this monster has more up its sleeve than what it’s shown so far. The whole reason I’m being so cautious is because I expect more from it. I have the advantage as long as I’m wearing it down, a long battle plays heavily into my favour, so why take the risk and run in headlong?
+
+Now, turtle, show me something new!
+
+After the massive creature levers itself to its feet, it turns to face me, its head finally extending further out from its shell.
+
+And then an absolute flood of mucus bursts out.
+
+MORE MUCUS?! Come on, you damn creature, enough with the mucus already!
+
+Except this isn’t what I think it is. At first it appears as though a flood of goop is pouring out from beneath the rim of the shell, but that impression quickly changes as the sludge takes shape and resolves into a dozen tentacle-like limbs. Each one is round and lacking identifying shapes, but they’re large.
+
+The monster takes a heavy step forward, then another. When I don’t back away, it snaps its massive jaws in warning before its goopy limbs lash out towards me.
+
+Now these are not sluggish like the turtle itself, but super, super quick. With the advantage of my antennae and enhanced reflexes, I’m able to dance away from almost all of the blows, but catch a glancing hit on one of my legs.
+
+That’s when I realise that these limbs hold another trick. Where it touches my leg, the lousy thing sticks. As soon as it notices the contact, the turtle pulls back, trying to drag me up into the air and closer to it, even as more of the tentacles slash towards me.
+
+Well, this isn’t ideal.
+
+Making a snap decision, I do something I’m not overly happy about and bite my own leg off. It’s not pleasant, I’m not a fan, but it’s the only way I can think of to ensure that I can leap out of the way and avoid getting caught completely.
+
+Limbs formed of potent mucus, each as large as a tree trunk, slam into the ground beside me as I somewhat awkwardly leap to the side. Alright, turtle, this is how you want to play, is it? I guess we’re going all in.
+
+I brace my legs before I use an empowered dash to explode forward. The world is a blur in my eyes as I almost teleport past the slashing limbs and arrive right in front of the beast. My jaws are primed, ready to bite down on the turtle that looms overhead.
+
+Before it can even turn to face me, my jaws are beginning to close.
+
+EMPOWERED VOID CHOMP!
+
+Jaws formed of black light scream into reality, along with the yawning void just metres in front of my face. There’s nothing the turtle can do to escape, but it reacts faster than I expect, rotating its body and presenting its thick shell towards my mandibles.
+
+The jaws close with absurd concussive force. It sounds less like a bite than it does a bomb detonation. I can feel the shell crunching between my actual, physical mandibles, that’s how close I was.
+
+Just in case of incoming limbs, I leap to the side, but there's no attack incoming, at least not immediately. When the dust settles, I can see what my bite did to the turtle, and it ain't pretty.
+
+The monster is injured, heavily so, but still kicking, still glaring at me with those eyes filled with rage. Just like everything else in the fifth, it seems to possess that same irrational hatred towards anything not born to this nightmarish place. However, it seems more in control, more calculating, in its response.
+
+The turtle staggers to one side before raising up its remaining limbs, ready to attack once more.
+
+Come on, you lousy thing! Just how much more punishment can you possibly take?!
+
+It turns out, quite a bit, but eventually I stand triumphant over the Biomass of the defeated local overlord. Take that, you lousy turtle! Thought you could face up to me? The Eldest of the Colony!? Hah! Absolutely dreaming!
+
+All in all, this was a successful first run. The generals, namely Solant, were feeling cautious, as always, and wanted to put me up against the weakest of the local boss monsters first. As instructed, I played the fight as cautiously as I could, trying to investigate and draw out as much intelligence as possible.
+
+It went… alright. For now, I need to pull the core out, and get my shiny backside back to the Colony. I’m not tired, because… I’m me… but I am injured and filled with toxic mana. I need a break.

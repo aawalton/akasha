@@ -1,0 +1,138 @@
+---
+id: caf8195d-db36-58c3-95fa-2f725c2754f4
+page-type-slug: story-chapter-royal-road
+title: "195 - Two Weeks to Go"
+partOf: bunny-girl-evolution
+position: 63
+ownLength: 2736
+unit: words
+publishedAt: 2026-05-05
+link: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3356858/195-two-weeks-to-go"
+royalRoadId: "3356858"
+---
+
+It was two weeks before the Dungeon Competition, and Elise had completely given up on attending Jelor University the next semester. Regardless of what happened between then and the next semester, she would, at the very least, need a new identity. She had leveled up once more, and she could tell that {Subtle Royalty} was going to break at the next level, which would likely occur during the Dungeon Competition, and she didn’t have a backup even close to ready. The earrings she got from Hallbjorn would make for a decent emergency solution, but they weren’t exactly casual wear, and she would rather be able to handle things on her own. And as funny as she knew Oberon would find it, she didn’t really want to attend school as a princess. If she was going to come back, it would be with a new name and face, and only after she had gotten her aether under control.
+
+Because of this, she had stopped attending her morning classes. It wasn’t that they were bad, or anything. She just had more important things to do than sit in a lecture hall and learn about things that frankly didn’t really matter to her. She used to think that the Basics of Mana was a useful course, but after meeting Quel’Khulan, that had changed. It still was decent for covering the effects of mana, but it said nothing of the causes of those effects. Or in other words, it didn’t talk about aether. And without knowing the underlying cause, the class was missing a fundamental component that would make it all make sense, and was therefore just guesswork and theory.
+
+She would most definitely fail the final exams of all her morning classes, if she bothered to take them, but she didn’t care at this point. No matter what, she would either have to retake those classes, or find a way to skip them, so whether she passed or not didn’t matter in the slightest.
+
+On top of that, she had managed to get through all of Intermediate Unattributed Spells already. She completed {Mana Burst} and {Mana Barrier} Skill Quests almost back to back, and now was exempt from attending class for the rest of the semester. She still showed up every other day to talk with Cassie and help her out, and to enjoy Liam’s terrified glances, but that freed up even more time.
+
+She essentially only had one real class left, with that being Defensive Gardening. Basic Magical Combat was still there, too, but it didn’t feel like much of a class. More like just social training. And the final exam would be extremely informal too. All they had to do was the same drills they had done on the first practical day, testing their offense, defense, and evasion, and show that they had improved, which Elise definitely had. {Mana Burst} unlocked a new level of raw power for her, and her basic combat skills had grown by leaps and bounds, so she had nothing to worry about there.
+
+Technically, she wouldn’t need to worry, even if she hadn’t improved, since she wasn’t going to keep this identity, but passing a class with flying colors still felt good, even if the grade was ultimately meaningless.
+
+Most of the extra time she got by skipping classes was spent in her soul. She did not spend absolutely all that time doing strict training, but she tried to make sure she was growing in skill within her soul. For example, she had created a few additional rooms attached to her bedroom. One was just a hallway, but she had tried her best to decorate it with some vague recollections of Earth paintings. And the other was a closet, which she had slowly begun filling with additional outfits, so she wasn’t limited to just her simple white tunic. Making these rooms hadn’t felt much like training, since it was something she wanted to do and enjoyed doing, but it still helped her get better at manipulating her soul realm all the same.
+
+When she wasn’t in her soul realm or in class, she was usually in the Dungeon with the rest of the team. The closer the Dungeon Competition got, the more time they spent in the Dungeon, and just then, they had finished a whole, five-day practice run. That five-day monster hunting spree was the main reason that Elise had gained a level, and also why she was so certain she would level again in the official competition.
+
+Fortunately, for the next two weeks, there wouldn’t be any danger of suddenly leveling up again. The reason they had done the full trial run so early was so that the students could focus and finish up their classes before the Dungeon Competition began at the end of the final exam period. That meant that over the next two weeks, she and the rest of the group would only be doing the bare minimum level of practice, leaving her free to do… whatever she wanted.
+
+As they all left the Dungeon at the end of the practice run, Elise was in a good mood, and was looking forward to a nice warm bath and a week of relaxation. The others were much less relaxed, all having actual final exams to worry about. Even the ever-confident Telvir and the annoyingly nonchalant Frank seemed a bit stressed. Of course, that didn’t stop Frank from being himself.
+
+“Hey, you guys wanna grab a meal and some drinks?” he asked. “Celebrate a successful run?”
+
+Elise raised an eyebrow at him.
+
+“Hey, I’m serious,” he said. “We’re doing well. We’ve got finals coming up. A nice meal and a few drinks would do a lot to take the edge off. I think we’ve earned it. Besides, when’s the last time we did any team bonding.”
+
+“All our time spent in the Dungeon is ‘team bonding,’” said Telvir grumpily.
+
+“Sure, but that’s different,” said Frank. “Hey, you guys don’t even have to drink. Just a meal. I’ll buy?”
+
+Elise wasn’t too fond of Frank, but she couldn’t deny that he had a point. And as much as she wanted to take a bath, a hot meal also sounded heavenly.
+
+“I think that Frank makes a valid point,” said Hannah. “I read a book about workplace sociology recently—a fascinating read, by the way—and it discussed the different types of bonding that co-workers could experience. Working together creates one type of bond, and working with the same people for an extended period of time can create closeness, but a single meal together can accomplish just as much as months of co-working, in the right circumstances. One of the examples used was a study done of scribes working for…”
+
+She trailed off as Frank let out a long sigh.
+
+“Sorry,” she said, looking slightly embarrassed. “Regardless, I believe that sharing a meal would be beneficial for our teamwork. Also, I’m hungry.”
+
+“Me too,” said Sophie, nodding.
+
+“Sure, why not,” said Elise with a shrug. “Telvir?”
+
+“…I suppose I wouldn’t mind some food.”
+
+“Great!” said Frank. “I know a great place. Follow me!”
+
+Despite the coaxing they had needed to agree, there was a palpable shift in the mood as they followed Frank off campus toward one of the wealthier area of Jelor City. Frank talked about some of the food, and Sophie, as always, added to the energy level, and soon, the whole group was visibly excited to eat. The further they went, the more Elise became certain it was a good idea. In the end, Frank was right. They had earned it.
+
+The Fighting with Nature team had come a long way since the first few weeks of the semester. Telvir had already been strong, but he had still managed to massively improve over the months. He had leveled up nearly twice as fast as the others, even managing to upgrade his Class and learn new Skills to help him.
+
+Hannah was still a bit rigid in her thinking, but she was extremely consistent and reliable. She wasn’t the best at responding to unexpected situations, but she was skilled and good at following orders.
+
+Frank was still a lazy bastard, but he was a lazy bastard who knew where the line was and made sure to stay just on the right side of it. And, as annoying as he was, he was talented enough to make that work. He only ever did the bare minimum of work to keep up with the rest of them, but he did keep up, and he at least wasn’t a detriment to the team.
+
+Sophie had grown more than anyone else. Compared to the trembling girl who couldn’t even face a Tier 3 Rock Crawler properly, she was almost unrecognizable. And in more ways than one. Training personally with Irylax was obviously an enormous help to her growth in power, but she had also grown even taller, and though she still looked young, she had lost most of her baby fat, and looked much more mature.
+
+And annoyingly, Elise was only up to her nose now when in her default form. At home, she often made herself taller to taunt Sophie, but she was beginning to wonder if perhaps Sophie was now growing even taller out of spite.
+
+“Maybe soon, people will start to think I’m the older sister,” said Sophie smugly, catching Elise’s slightly jealous expression.
+
+As she spoke, she tilted her head up so she could look down at Elise even more.
+
+“Wait, you’re not the older sister?” asked Frank with an exaggerated expression of shock.
+
+“Shut up,” said Elise with a smile.
+
+“I will not,” said Frank. “Also, we’re almost there. It’s just right around the corn– Oh, shoot, we lost Hannah.”
+
+Elise turned and looked back to see that Hannah had stopped about fifty feet back, and was buying something at a street stall. The rest of the group stopped and waited for her to catch up, and when she did, she was carrying a newspaper and barely paying attention to her surroundings as she read through the front page.
+
+“Watcha got there?” asked Frank, stepping to the side to peer at the headline. “‘Immortal Empress Wei Lan to negotiate with Jelor.’ Huh. Who’s that?”
+
+“The new empress in the east,” said Hannah, not looking up. “You know about the rebellion, right?”
+
+“Uh, vaguely.”
+
+“Wei Lan was the daughter of one of the emperor’s concubines, and she started a rebellion, waging war across the country and eventually killing the emperor and becoming the empress herself. All at age eighteen, too. And after the war ended a few weeks ago, she’s already managed to pacify most of the continent, proving herself to be a capable ruler on top of a capable general. Accomplishing so much at such a young age makes her one of the most impressive people not just in the world, but in all of history.”
+
+“She doesn’t look eighteen,” said Frank.
+
+“Spending years on the battlefield tends to have that effect,” commented Telvir, who had also moved to look at the paper.
+
+“Yeah, but she looks, like, thirty,” argued Frank. “She’s even got some gray hairs.”
+
+“Some women get gray hair in their early 20s,” said Hannah.
+
+“But look at her face,” said Frank. “Ellie, c’mere, I’m not crazy, right?”
+
+Frank gestured toward Elise, who walked with Sophie to get a better look. The front page of the paper was almost entirely taken up by this one story, with a full color picture of the Immortal Empress herself making up most of it. She was seated on a throne, and dressed in so many opulent fabrics and jewelry that it was hard to make out anything beside her face. The face that did show, though, did look much older than eighteen. Elise knew that physical and mental stress could make the body age, but she also knew that leveling up tended to increase lifespan, so looking so old after no doubt leveling rapidly on the battlefield was a bit odd.
+
+“I guess…” she said tentatively.
+
+“See?” said Frank.
+
+“Why is she called ‘the Immortal Empress’?” asked Sophie.
+
+“They say she can’t die,” said Hannah. “That as long as she is on the battlefield, her army can’t lose, because the enemies could never kill her. One story even said she was beheaded, but rather than dying, she simply caught her head, reattached it, and kept fighting. I certainly don’t believe those stories, but it’s true that she survived nearly two years of combat relatively unscathed.”
+
+Elise nodded along, but personally, she actually was inclined to believe the tales about Wei Lan’s immortality. She and Jessie had spent quite a few hours trying to puzzle out who the other aetherborn were, and Wei Lan had been at the top of their list since the moment they heard about her. And the Rune of Fate’s evolution could certainly explain her seeming immortality. Maybe the exact stories were exaggerated, but some kind of extreme self-healing ability wasn’t out of the question.
+
+“Why’s she coming here, though?” asked Frank. “I mean, it seems like she’s got enough to worry about on her own without adding foreign affairs to the mix.”
+
+“Hold on, I’m still reading…” said Hannah, rapidly scanning through the article. “It says… she wants to re-open some of the trade routes that were closed during the war… And that she also wants to meet with the leaders of Ostra… And it looks like there’s a few other more specific things she wants, but the main things are trade routes and Ostra.”
+
+“Well, I guess that’s important…” said Frank.
+
+“Yes, very,” agreed Hannah. “If she wants to get her nation back on its feet, establishing and maintaining trade is of utmost importance. And given the unprecedented nature of Ostra’s existence and their ongoing negotiations with the humanoid nations, it would be unwise to ignore them. I personally think it is a very smart move.”
+
+“You seem to like her.”
+
+“I find her admirable. She saw her father’s tyrannical rule, and decided to stop it, personally fighting on the frontlines to protect her people, and despite the length of the campaign, she managed to win the war with minimal civilian casualties, and most of those casualties were due to her father’s abhorrent tactics, not her own. I would love to meet her some day, if possible. I’ll have to ask Father if there’s any way I can sit in on some of the negotiations.”
+
+“Well… Good luck with that, I guess,” said Frank. “In the meantime–”
+
+“Oh no, wait!” said Hannah. “She’ll be arriving right before the Dungeon Competition! And they’re going to delay the peace summit to include her! We’re all going to miss it.”
+
+“Oh no…” said Frank, not sounding very distressed. “Anyway, I’m still hungry. Let’s go.”
+
+They resumed their journey to the restaurant, albeit at a slower pace, as Hannah was still reading the article and lagging behind. Elise was slightly distracted as well, since the talk about Ostra had reminded her that she hadn’t actually been back since before the semester started. Avoiding Ostra had been largely intentional, but she didn’t want to avoid it too much. It was mostly Freddy and Rayna she was worried about, but she doubted they would do anything to her at the meeting. Plus, Jag was back, so that was one more reason to go.
+
+I’ll go to the one next week, she decided. I should probably check on how the negotiations with the humanoid nations are going anyway.
+
+The rest of the evening was comfortably pleasant. Elise had been a bit worried about eating at a nice restaurant while still in their Dungeon clothes, but the place that Frank brought them to felt more like a Texas barbecue pit than anything fancy. The prices were still very fancy, but with Frank paying, she didn’t need to worry about that. She wondered how he could afford it, when as far as she was aware, he wasn’t a noble, nor was he part of any notable merchant family, but she didn’t really care enough to pry.
+
+After they ate, Elise enjoyed a long, warm bath, then read a book until she was too tired to keep her eyes open any longer. The rest of the week passed quickly and peacefully, and before long, Saturday arrived, and with it, the time for the Ostra meeting.

@@ -1,0 +1,165 @@
+---
+id: 1407a8f7-6e0f-50a8-a8cb-d3e62d8f56e5
+page-type-slug: story-chapter-royal-road
+title: "10 - A Strange, but Fortuitous Encounter"
+slug: 0010-10-a-strange-but-fortuitous-encounter
+partOf: cat-girl-evolution
+position: 10
+ownLength: 2524
+unit: words
+publishedAt: 2025-08-17
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2525620/10-a-strange-but-fortuitous-encounter"
+royalRoadId: "2525620"
+---
+
+[ I guess there are consequences for your actions after all ]
+
+Shut up, Abblution.
+
+[ How do you know that word? ]
+
+I am smart. Anyway, how do I fix this? I want a Class. I don’t even know what a Class does, but I want it.
+
+[ You just have to wait. On the bright side, you’ll probably have a real Species name instead of !@#$%^&*() House Cat whenever it does get resolved. Plus, you get so many stat points for your new species that you probably won’t even feel the lack of a Class ]
+
+I kinda like the !@#$%^&*() House Cat though. This sucks. I guess I have no choice. Time to see if I can cut down a tree with Scratch now. Hiyah!
+
+Hmmm, nope. It’s definitely deeper than last time, but it’s still pretty disappointing, to be honest. I mean, a few centimeters deep into solid living wood is nothing to scoff at, but with my stats more than tripling, I expected more.
+
+[ Only some of them more than tripled, though Power was one of those. And your Scratches are now more than three times deeper. That’s pretty proportional ]
+
+I guess… Alright, now how do I upgrade it? Tell me what to do.
+
+[ As I explained before, I have no idea. Figure it out yourself. Have another bout of sudden enlightenment or something ]
+
+You’re lame.
+
+[ Not as lame as Arboliculous ]
+
+True. Well, I guess I do have to figure this out myself. Alright, so consistency, precision, versatility. I guess I didn’t actually do that much versatility last time. Actually, I did! While I was evolving! I used Scratch to cut up food! Actually, now that I think about it, I wasn’t using Scratch. I was just using my claws normally. But I bet I could do the same thing with Scratch to meet the versatility requirement!
+
+“Blergh!”
+
+A fishman appears on the ground in front of me. This is one that I haven’t actually started eating yet, so aside from the bloody cuts all over his body, he’s mostly intact, and that’s exactly what I need.
+
+I extend a single claw, and then do a careful, weak Scratch down the center of its stomach, cutting it open. Hmmm, the inside of the fishman looks kinda weird. I was expecting something more like human guts, but this just looks like a fish with a few extra organs.
+
+[ How do you know the difference? ]
+
+I’m smart. Anyway, the inside is different than I imagined, but whatever. I roll it over onto its back and then make another cut along its spine. Time to make some fillets.
+
+Scratch isn’t actually the best tool for the job, and my cuts of meat end up being a little bit sloppy, but they come off alright. Like with the organs, the meat on the sides is a lot more fish-like than human-like, and both fillets look, smell, and taste much more like fish than human.
+
+[ I am beginning to get concerned ]
+
+Don’t worry about it.
+
+The meat on the legs and arms is a bit weird to dismantle. The meat is still fishy, but it’s anatomically a lot more human. I don’t really know what I’m doing with this meat, so I basically just strip it from the bones as cleanly as I can. Last left is the head, but I don’t know how to butcher that, so I just cut it off and store it away. I store away the cuts of meat I just made as well, leaving behind only a mostly bare skeleton and some internal organs, then check Scratch.
+
+It’s still at Late. This is stupid. Was that not the most creative, precise, and consistent possible use of the skill? That deserves an upgrade! Do I need to do it again?
+
+“Blergh!”
+
+I butcher another fishman, and check Scratch again. Still nothing.
+
+“Blech!”
+
+I start to butcher an eelman this time, but right as I’m making the spinal cut I hear a noise in the distance. It’s faint–so faint that I don’t think I would have been able to hear it before my evolution, but it’s definitely there. It’s a distant splashing, not quite the same as when the fishmen or eelmen came to shore, but it’s not just the waves either.
+
+I take a bite of the eelman, then deposit the rest of him in my storage and run toward the edge of the island I hear the sound from. Strangely enough, this sound is coming from the opposite side of the island from the mainland, which is also the opposite of where the fishmen usually surface. It turns out that the noise is still just fishmen though, as usual. A different kind of fishmen, but still fishmen.
+
+These ones look more like sharks than fish, but not like normal sharks. Well, not like great white sharks, at least. They’re very thin, and their noses are very round. Above each of their heads, it says [Squaloid, lvl ?]. Only a single question mark, unlike the eelmen, so these guys are probably pretty weak. Still, maybe this is what I need to upgrade Scratch. To use it in combat more.
+
+I’m gonna try something different this time. My stats are all super high now, so I bet I don’t even have to use any kind of guerilla tactics to take them out. There are only two of them too, so I think I can take them head on this time. Especially now that I have Blink.
+
+Rather than waiting in the trees for them to come further in, this time, I approach them. One of them spots me almost instantly, and points and hiss-gurgles at me, and the two raise their swords and start running forward. They seem to be even more adept at moving around on land than the eelmen, each step steady and with their swords gripped firmly in their hands.
+
+I run forward to meet them with a hiss of my own. When we’re about ten meters apart, they raise their swords above their heads to swing downward, and I take the opportunity to test out the use of Blink in combat. I try teleporting just to the left of the left most one so I can swipe at him with Scratch, but I guess I misjudged the timing, and I end up slightly behind. I managed to just barely tag him with Scratch, drawing a single red line on his shoulder before landing in the sand.
+
+They skid to a halt behind me as I run forward to put a bit more distance between us, and then we charge again. This time, they’re more ready for my Blink, but so am I. I am lower this time, right by the thigh of the one I Scratched the first time. He swings his sword down to hit me midair, but since I went lower than he was expecting, the swing sails overhead as I Scratch his leg. The timing isn’t perfect, but I’m able to get all four claws on his leg this time, and my attack leaves four deep cuts that start bleeding profusely.
+
+The second sharkman turns to stab at me while I’m on the ground, but I just use Blink again to get away. This skill is pretty dang useful, but Abby also did say I can’t use it infinitely. I should probably finish this fight sooner than later. The one I Scratched is limping, and neither of them are as tough as the eelmen. Well, I bet the eelmen wouldn’t be too tough either, now that my stats are higher.
+
+The next time I clash with the sharkmen, I bamboozle them by not using Blink, and instead, I just Scratch at the injured one’s leg again. I almost get stabbed in the process. But Cat-like Reflexes saves me, and I’m able to Blink away. My newest attack hit the sharkman’s ankle, and I only used a single claw, so it cut almost clean through. His friend takes one step toward me, and I Blink again, doing the same to his ankle.
+
+I guess old habits die hard, because both of them are now on the ground with disabled legs. Maybe I should try finding a new strategy, but at the same time, why bother? This one works just fine.
+
+I jump around the two sharkmen, avoiding their attacks with ease and using Scratch with brutal efficiency to fully disable, then kill them. As I switch between single claw and full paw attacks, something clicks in my mind about the Skill. I was so focused on individual use cases that I didn’t really think about how to use both at once, or at least switch between the two. It’s fairly simple– full paw for maximum damage, single claw for deep cuts– but after making the realization, it feels like something settles in my mind, and my attacks get noticeably stronger.
+
+[ You have defeated Squaloid, Tier 1, lvl 3! Bonus experience for defeating an enemy above your level! ]
+
+[ You have defeated Squaloid, Tier 1, lvl 2! Bonus experience for defeating an enemy above your level! ]
+
+No level up? Disappointing.
+
+[ Experience is calculated based on difference in Level, Stats, Skills, and Traits, and while they were higher level than you, you easily outdo them in all three other categories. You may find it somewhat difficult to level up further against opponents at this level. ]
+
+Dang, that’s annoying. But at least I upgraded Scratch! I think.
+
+[ Scratch: Use your claws to unleash a scratching attack. Proficiency: Peak (Upgrades Available) ]
+
+Yes! Alright, Abbalone, how do I upgrade the skill?
+
+[ Just think about upgrading the skill, and a menu should pop up ]
+
+Upgrade Scratch!
+
+[ Upgrades available for Scratch Skill: ]
+
+[ Slice: Make deep, precise cuts ]
+
+[ Paw Strike: Make a strike with your whole paw, dealing both bludgeoning and slashing damage ]
+
+[ Fiery Scratch: Add the power of fire to your claws, burning your opponents as you scratch them ]
+
+Ooh, fire! Won’t that burn my paws though?
+
+[ For a short while. At least until you develop the Fire Resistance Trait ]
+
+Ouch. No thanks then. Abby, which of the other two is best? And why is there no Spatial Scratch option?
+
+[ Spatial Magic is very difficult, so it’s not surprising that you don’t have an option for it. I doubt there’s a Spatial variation for a basic skill like Scratch, and if there is, you haven’t familiarized yourself with Spatial magic enough to qualify for it. I believe if you did want to add Spatial magic to this skill, you would want to choose the Slice upgrade. There should be a Spatial upgrade to that one once you level that to Peak Proficiency. It’s also the one I’d recommend for you in particular, as it would benefit more from Finesse, which is your highest stat, while Paw Strike would benefit more from Power, which is your lowest stat. ]
+
+Works for me! I choose Slice!
+
+[ Scratch has been upgraded to Slice! ]
+
+[ Slice: Make thin, precise cuts. Proficiency: Early. Includes Skills: Scratch ]
+
+I immediately turn and use my new skill on the dead sharkman. As promised, each of my claws now makes much deeper, thinner cuts. They’re so thin, in fact, that when I’m done scratching, the skin sticks back together, and it’s hard to tell that the cuts even exist at all. When I pull it with my paws, it comes apart easily, showing deep inside the bodies. Awesome! Also, I wonder how shark tastes.
+
+I take a bite out of the nearest one’s back. It’s good! It’s hard to describe exactly what it’s like, but it’s similar to a chewier fish. Definitely a good addition to my food storage. Yoink!
+
+With both sharkmen stored safely in my Stomach, I take a minute or so to lick off my paws, then start heading back inland. The sun is starting to set, so there will probably be more fishmen and eelmen and sharkmen active soon.
+
+It’s weird that these two showed up so early. And alone too. And on the opposite side of the island from usual. Huh.
+
+Well, I guess they’re just dumb. I’m gonna head back to my tree and see if I can get a quick nap in before tonight’s invasion starts.
+
+As I near my tree though, I start to slow down. There’s something wrong here. Something smells fishy. Literally. I mean, I know I’ve killed and butchered a lot of fishmen and their relatives here, but this smells different. It’s not quite the same as any of the other seafood– I mean sea monsters I’ve killed, and it’s fresh.
+
+I move forward as quietly as possible, keeping my eyes and ears peeled for anything suspicious. Nothing jumps out at me, but with every step I take, the sense of unease grows.
+
+“Mraw!” I shout.
+
+Show yourself!
+
+Nothing responds. I take a few more steps forward, then freeze. That tree doesn’t look right. It’s too wide. No, it looks like it’s got a growth on the side of it. And a few trees down, that one too! What is it?
+
+I take two steps forward toward the nearest one, then stop again. It looks just like tree. It has the same color and texture, but now that I’m a bit closer, I can see some separation. Without taking my eyes of it, I feel around for a small rock, then kick it forward. When it hits the weird growth, it sinks in just a bit, then bounces off, as if the growth is made of rubber. Huh.
+
+I glance up to see that at the top of the growth, an eye has appeared. An eye with a horizontal, rectangular pupil.
+
+[ Octopoid, lvl ?? ]
+
+Oh my gosh! I love octopus! It’s my third favorite seafood!
+
+As the goddess watched her Avatar fool around, completely oblivious to the situation she was in, she felt conflicted. On one hand, her Avatar had managed to somehow acquire one of the best Tier 1 Species she had ever seen, and showed a lot of potential. On the other, watching her was an infuriating experience, as she had no sense of danger or urgency.
+
+The goddess had a tough decision to make. While she had previously said she would decide whether to actually try with her current Avatar after seeing her Evolution, the manner in which the Avatar had gotten that Evolution was absurd and not replicable in the long term. And her inability to decide things without the help of her System Assistant didn’t bode well for her Path.
+
+The goddess closed her eyes and rubbed her temples, then threw her hands up in exasperation.
+
+“You know what?” she said aloud. “Screw it! We’re doing this! All in on the cat! I’m giving her my full support! Let’s see what other crazy things she can luck herself into.
+
+“...As soon as she gets out of this tentacley mess.”

@@ -1,0 +1,166 @@
+---
+id: c01bacd6-19f2-5f48-9fc1-7169ac554c9d
+page-type-slug: story-chapter-royal-road
+title: "56 - The Funeral"
+partOf: bunny-girl-evolution
+position: 9
+ownLength: 3198
+unit: words
+ownProgress: 3198
+publishedAt: 2024-12-20
+link: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/1965107/56-the-funeral"
+royalRoadId: "1965107"
+markedReadAt: "2026-06-29T20:02:57.210Z"
+---
+
+Dwarven funerals are joyous occasions. They are full of drinking, laughter, good food, good company, and most importantly, more drinking. It’s considered an offense to the dead if the guests wake up the day after and remember what happened. Greta’s was no different.
+
+After she passed, a mortician used a preservation skill on her body, and she was kept in a stone coffin until it was time for the funeral. It took two more days for the dwarves to complete their exodus, and another three until the whole group had comfortable shelters. A full acre of the forest had been chopped down to make room for the rough dirt huts that the geomancers shaped out of the ground.
+
+On the day of the funeral, the entire tribe attended. Not all of them knew Greta–in fact, most of them didn’t–but no self-respecting dwarf would pass up an opportunity to drink themselves into a coma. There had been some debate about where to bury her, but in the end, they decided that there would be no better place than right there, where the dwarves finally escaped the underground, and where she breathed her last.
+
+The preparations though turned out to be unexpectedly difficult. The funeral preparations themselves weren’t, but the other things that needed to be done, such as building shelters and finding food, were. The dwarves, having spent their whole lives underground, knew almost nothing about how to survive on the surface. Most of them had enough sense to not do anything stupid, but Elise was constantly finding herself surprised at some of the things she had to teach them. For example: sunburns.
+
+The dwarves knew that the sun could cause burns. They had records of that at least. However, none of them knew how long it took, or how much exposure was required. Some were terrified to spend more than a few seconds outside, while others were out sunbathing all day. And if teaching them how all that worked wasn't hard enough, convincing them they could get sunburnt even while there were clouds out was nearly impossible. It wasn’t a huge deal, since healing magic could negate even the worst burns, but it was still exasperating.
+
+Despite those little hiccups though, the dwarves were handling it all quite well still. While they had no experience aboveground, they were a fully functional city while in the cave, and that infrastructure didn’t vanish when they moved. They had to adapt to a new environment, yes, but it was otherwise fine.
+
+When the day of the funeral finally arrived, nearly the entire population of Dokkalfheimr gathered around the tunnel where they had emerged at midmorning. It was still a gaping pit for the time being, but in a week, once the dwarves were certain they had nothing left to get from underground, the drow planned to collapse it and start reclaiming the old city.
+
+The trees in the area surrounding the hole had been felled and used to make temporary shelters, leaving a very convenient open space for the gathering. Greta’s final resting place would be nearby. Not quite close enough that it could get caught up in the fallout of the tunnel collapse, but only a stone’s throw away.
+
+There were stone tables lined all around the clearing. Hallbjorn originally wanted to make them out of wood, but since the only dwarf with a [Carpenter] class was a 12 year old boy who had just unlocked his System aboveground, that was not feasible. Not when they had to be making houses at the same time. Stone tables were much easier and faster, since they already had hundreds of stoneworkers with the classes and skills to make it happen.
+
+Greta’s coffin was brought out in a slow procession, then lowered into a pre-made hole. The entire city was silent for a full minute, then a [Geomancer] filled the hole with dirt, and the dwarves got to drinking.
+
+It was a bizarre experience for Elise. It felt like it all happened too fast. No one stood up to say any words about her. No one brought flowers. Only Kristofer cried. To most of the people in attendance, it was just an excuse to drink. Elise didn’t partake in the drinking, but she did sit at the table with Hallbjorn and ate with him while he drank.
+
+“I’m gonna miss her,” he said, slamming his fourth cup of mushroom ale down on the table. “I never thought I’d say that.”
+
+“Well, now you’ve said it seven times,” said Elise.
+
+“When I was younger, I hated her,” continued Hallbjorn, ignoring her. “She would whip my arse whenever I tried to skip class, and then she’d tell my mom, and she’d whip my arse too. I always used to wonder why anyone kept her around. She was rude and cranky, and didn’t give a shit about respect, but somehow, she was the royal tutor.
+
+“Now, to be fair, I was a little shit. I probably deserved more than what I got from her. But damn, if I didn’t hate it at the time.”
+
+“...She never had to ‘whip my arse,’” said Elise with a small smile as she took a bite of venison.
+
+“She never told me to whip your arse either,” said Hallbjorn, holding out his cup so a servant could refill it. “But you did actually show up to your classes, and you paid attention to what she said, so that makes sense.”
+
+“Yeah…”
+
+Though she was bantering with Hallbjorn a bit, Elise still felt awkward. Hallbjorn seemed to be genuinely having a good time, with not a hint of sorrow. She supposed it was just the dwarven culture but she still couldn’t get over the weirdness. This was supposed to be a funeral.
+
+“Hallbjorn?” she said.
+
+“Hmm?” he responded, his mouth full of meat.
+
+“Do you mind if I pay my respects to Greta? In my own way?”
+
+Hallbjorn swallowed. “How so?”
+
+“I just want to plant a few flowers on her resting place.”
+
+“That sounds nice. Be my guest.”
+
+Elise wiped her mouth with a napkin, then stood up and walked over toward the small mound of loose dirt covering the stone coffin. She had never before tried what she was about to do, but she was confident it would work. She activated her wings–which somehow appeared outside of her clothes, rather than attached directly to her back– and sprinkled a bit of {Fairy Dust} on the ground. Then, she used {Sudden Growth}, and a small bed of flowers appeared. The flowers themselves were nothing special, but Elise was pleased with the effect.
+
+She heard a few murmurs from the nearest tables, but at this point, the dwarves had become accustomed enough to her and her ways that no one openly commented. She returned to the table with Hallbjorn where she stayed for another half hour before excusing herself entirely. By that point, the king was so drunk, he could barely understand her words, but the slurred speech he managed to get out sounded like approval, so she took it as such.
+
+Once she was out of the clearing, she reverted back to her Changeling form and flew up into the air. Below, the dwarves were all still having a merry time, though many of them had passed out. It was only noon, so they would all be back up to continue the celebration that night, as was apparently customary at dwarven funerals. Elise planned to come back for that, but for now, she wanted some time alone.
+
+She flew away for a bit until the dwarves were out of sight, then stopped, hovering in midair. Where did she want to go? She could go back to the drow, but it felt wrong to hang out with the drow on the day of Greta’s funeral. It also felt wrong to go hunting. Or to do training.
+
+I don’t want to do anything right now, do I, she thought.
+
+It was a waste of time, but she knew that doing anything productive on what was supposed to be a day of mourning for her would feel wrong. However, she also knew that she wasn’t going to be able to “mourn” properly either. It had been days since Greta’s death, and she had gotten satisfying closure. That left her with two options: she could either return to the funeral and join in the drinking, or she could lay around and do nothing.
+
+She had gotten drunk a couple times in college and thereafter decided she disliked it enough to not want to do it again. Plus, she had already transformed back into her base form, and she didn’t really want to experiment with how it would handle alcohol. That left her with only one choice.
+
+I wish I had a book to read.
+
+She hovered for a few seconds, lingering on that thought until she realized with a start that she did actually have a book to read. In fact, she had multiple books taken from Sophie’s room all stored conveniently in Astrid’s Star hanging on her neck. She looked around for a good place to stop, ultimately settling on the base of a tree atop a cliff, where she set down and summoned the book. It took a bit of maneuvering to figure out how to get {Telekinesis} to work with the book pages, but when she did, she grinned and dove in.
+
+The book she picked was the one that Sophie had been reading to her the night before the warg attack. They were halfway through, and though Elise didn’t understand everything, she found herself getting invested. It was a story of a runaway princess with a talent for acrobatics and a runaway dragon hatchling in human form with a penchant for accidental destruction going on an adventure to defeat a swamp witch. It was a bit cheesy, but Elise thought the writing was solid, and the plot was entertaining enough to keep her entertained for the entire duration of the story.
+
+It was mid-afternoon by the time she finished, so she put that book away and got out a new one. It was the first one that Sophie had read to her, and the one that she hardly understood any of, as that had been when she didn’t know the language even a little bit. It was a story a bit similar to the first one, though this time the runaway princess was an elf, and her companion was a human knight, and the villain was a dwarf.
+
+Elise enjoyed this one less, not because of the dwarf villain, but because it followed the same basic plotline that the first one had, and the story beats were too predictable. When she finished, she checked the covers of both and saw that they were indeed written by the same author.
+
+She was tempted to pull a third book out, but the sun was setting, which would make it harder to read, and that also meant that the dwarves would be waking up again, if they weren’t awake already. Also, her cooldown on {Lesser Transformation} was over, so she could rejoin them.
+
+When she returned, most of the dwarves were already awake, half holding their heads as healers walked around curing the effects of the hangovers so that the dwarves could get back to drinking. Hallbjorn was already cured, and was enjoying another drink when Elise landed beside him and transformed back into a dwarf.
+
+“Oh, you’re back!” he said. “Where have you been?”
+
+“I was reading,” said Elise. “Have you been sleeping?”
+
+“Aye,” he said. “And now I’m ready for round 2!”
+
+He shouted that last part, earning him some cheers from around.
+
+“You want a drink?”
+
+Elise glanced at his cup and wrinkled her nose. “No, thanks.”
+
+“Just here for the food, eh?” he said with a grin. “It’ll be out soon. The cooks just woke up.”
+
+“Yeah…”
+
+Hallbjorn turned to talk to someone else who was walking by, leaving Elise with nothing to do. All around her, dwarves were drinking, and laughing and singing, and there she was, not feeling in the mood to party at all. It was like there was an invisible wall in between her and everyone else, and it almost felt suffocating. Even the few times people talked to her, it felt like they were talking through a phone, not face to face. It was uncomfortable to the point that as soon as the food arrived, she stuffed her face and excused herself.
+
+This time, she just went straight back to the drow cave. The dwarves would be up for hours still, but for her, the funeral was over. She paid her respects. She participated in the dwarven customs. It was not satisfying, nor did it give her any additional closure, but it was over, and she could move on.
+
+The next day, she would finalize her preparations to leave for Jelor, and the morning after, she would leave. She had already confirmed her departure with both dwarves and drow, and she didn’t keep any of her possessions outside of Astrid’s Star, so there was nothing to pack. Barring something urgent needing her attention, there would be no complications. She did a bit of mana meditation, which had become part of her nightly routine, and then curled up in her alcove and fell asleep.
+
+In her dreams, she was on a beach. The sun was high overhead, and there was a gentle breeze, and the waves were little more than gentle lumps in the water. On either side of her, the coast curved around and disappeared behind a line of trees, and when she turned to look behind her, she found herself facing a dense jungle. Behind the jungle, she could just barely make out a small mountain peak with what looked like some old ruins atop it.
+
+She turned back to the water, fully expecting to find Titania there, as was customary when her dreams were so vivid, but instead, all she saw was the ocean. She turned a few more times, each time expecting something to change, but nothing did.
+
+Am I even dreaming right now? Did I get randomly teleported somewhere?
+
+She took a few steps to the side, feeling the sand on her paws, and then stopped when she realized that she didn’t have Astrid’s Star. What if she did get teleported somewhere, and now she was stranded on an island without her most important possession? Who had done it? Why? Why her?
+
+She took a few more steps, then stopped again as a chill ran down her spine, and she was filled with a sense of immense danger, greater than anything she had felt near the warg, or even Freddy. She blinked, and when her eyes opened, her field of view was filled entirely with a great, baleful, yellow eye.
+
+Then, she woke with a start, back in the Mother Tree, the chain still around her neck.
+
+What was that? She thought, panicking
+
+It was only a dream, but she was certain that the yellow eye was dangerous, even to her sleeping self. Whatever it was, she didn’t want to go back.
+
+Elise crept to the edge of her alcove and looked out at the cavern. The fruits were just starting to light up, meaning that it was near sunrise. She stretched her body out, her legs shaking so much she almost fell over.
+
+It was just a dream, she assured herself.
+
+It didn’t work well, but she tried to push the feelings aside. It was going to be a busy day, and she didn’t have time to linger on the dream. Most of the dwarves would be asleep well into the day, so she decided to say her goodbyes to the drow first. She spent some time with Naomi in her changeling form, then switched to her drow form for the going away feast that Salome had prepared for her. The food was delicious, and the company was good, but Elise made sure not to stay too long, so that {Lesser Transformation} would be off cooldown as soon as possible.
+
+When she left the drow, it was midmorning, which meant most of the dwarves were still sleeping off the celebration of the night before. Hallbjorn, however, was already awake and doing work, as were about half of the Councilors. They had set up a makeshift City Hall that was really little more than a wooden roof held up by stone pillars.
+
+“Hallbjorn,” Elise called as she flew in.
+
+“Elise?” he said, looking up from his desk. “Oh. Right. Today’s the day, isn’t it.”
+
+“Yes,” she said. “Thank you for everything.”
+
+“Of course,” he said. “And thank you as well. Without you, we wouldn’t be here.”
+
+“Mmm.”
+
+Elise still hadn’t figured out how to best reply to his constant thanks.
+
+“Well, you already know, but I’m not very long-winded,” said Hallbjorn. “I wish you the best of luck in your journey. You’re always welcome to come back whenever you’d like.”
+
+“And I wish you the best of luck with getting Dokkalfheimr back up and running.”
+
+He nodded. “Then, until we meet next.”
+
+“Until then,” agreed Elise.
+
+She flew back out, feeling a bit awkward about how the conversation had gone. Was that it? Was she done now? It felt anticlimactic, but at the same time, she was relieved. A long, drawn out tearful goodbye would have been even more uncomfortable. Regardless, it was all over now. She was leaving, and it was time to look forward to the future.
+
+She knew where Jelor was, but getting there wouldn’t be as simple as just flying there. It had been for Emilia, but she was much faster and stronger, and had stealth skills that Elise didn’t. There were predators in the air that Elise had no way of dealing with, and almost every single city in the world had powerful defensive spells and well-trained guards specifically to prevent monsters like her from just flying in. Her journey would be much slower, and would have to be much closer to the ground.
+
+Before she even started though, she had to go check on the cabin one last time. She had been going there semi-regularly since the first visit to see if anything had changed. So far, nothing had, and she didn’t expect anything to, but it was a small detour, and on the off-chance that someone had visited, or was visiting, there was a good chance it would clue her in on where exactly the Grays had gone and how they were doing.
+
+When she arrived at the cabin, it was just as it was the last few times. She looked around for a few minutes, just to make sure, then said a silent goodbye before flying away, this time heading northwest. However, just before she made it to the edge, a glint in the woods below caught her eye. It took her a few seconds to spot it again and confirm she wasn’t just seeing things, but when she did, it was undeniable. It was an armored human, and they were swinging a sword around as they fought a pack of wolves.

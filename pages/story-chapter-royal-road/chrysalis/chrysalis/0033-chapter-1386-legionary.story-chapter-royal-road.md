@@ -1,0 +1,121 @@
+---
+id: b9f2538c-a6a9-5832-98b5-795142bc3a4a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1386 - Legionary"
+slug: 0033-chapter-1386-legionary
+partOf: chrysalis
+position: 33
+ownLength: 1221
+unit: words
+ownProgress: 1221
+publishedAt: 2024-08-06
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1746556/chapter-1386-legionary"
+royalRoadId: "1746556"
+markedReadAt: "2026-06-29T19:44:42.239Z"
+---
+
+It’s difficult to believe they were so successful.”
+
+“You call that successful? Weren’t they supposed to conquer the fifth?”
+
+“You know very well that it was just an exploratory mission.”
+
+“Being able to survive down there for a few days is not nearly the same thing as making a safe path through to the sixth. If it were that easy, the Legion would have done it a thousand years ago!”
+
+Marcus and Greyson argued back and forth as Morrelia sat and listened to both sides of the argument. They’d returned to their lodgings in the forward operating base, which had grown even larger and more elaborate in the time they’d been away.
+
+More and more ants were arriving every hour. Every time she stepped out to survey the surroundings, their numbers had increased. Mostly carvers, but soldiers, mages, scouts and core shapers with their teams of pets also came down in a steady stream.
+
+She’d seen the Colony at work before, of course, but this was on an entirely different scale. Over time, it became clear what was happening out there.
+
+The ants were preparing a staging ground. The core shapers dispersed into the surrounding tunnels, hunting down monsters while the rest got to work defending and shaping the area. Although only the bare bones of it had taken shape, she could already get a glimpse of just how large the planned invasion force was going to be.
+
+“Enough,” she announced, cutting off Greyson and Marcus. “Both of you are correct. It is impressive what the ants have done here. Making any headway at all into the fifth is a challenge many fail to meet. It likely wouldn’t be possible at all without the resilience of the tier seven ant, our target.”
+
+She turned to Greyson.
+
+“At the same time, it is far from a sufficient show of strength to suggest they’ll be successful at breaching the fifth. Let alone cleansing it, as they’ve declared they will. What we need to consider is just how many resources the ants are going to devote to this project? That will give us a stronger sense of their chances of success.”
+
+The Legionary leaned back and sighed.
+
+“Do you really think they even have a chance?” Greyson said. “I’m not convinced and I think the Commander will agree.”
+
+“You’re underestimating them,” Marcus interjected quietly. “We should never be in the position where we underestimate our foes, Greyson.”
+
+“There’s an easy way to solve this,” Morrelia said. “I’ll get permission for us to go up to the nest to see their preparations for myself.”
+
+Both Legionaries weren’t happy to hear that.
+
+“Are you sure, Tribune?” Greyson sputtered. “We were only asked to investigate the ants’ operations in the fifth, and we’ve gone well beyond that mandate already.”
+
+“As he said, Tribune,” Marcus followed, “we can’t ensure our safety in the nest at all. How are we to ensure our reports even make it back to the commander?”
+
+Morrelia rolled her eyes.
+
+“If the ants wanted us dead, why wouldn’t they just kill us down in the fifth? Be logical. If we want to make a complete report to Commander Chyron, then this is the next step. I’ll be back soon. Pack your bags.”
+
+So saying, she strode out to find Anthony. He was, as expected, lounging about, apparently bickering with the ants passing him by, judging by the irritated waving of his antennae.
+
+When he saw her coming, a mind bridge soon followed.
+
+[What are they saying that’s got you all riled up?] she asked him.
+
+[They’re accusing me of being lazy! Me! As if they have any idea how hard I had to work down there in the muck! Absolute nonsense.]
+
+As she watched, he prodded an ant passing by directly with one antenna, but the much, much smaller ant seemed to brush him off, clacking her mandibles in a teasing way.
+
+[You probably get more respect from the Legionaries,] Anthony sighed, [being an officer and all that. Must be nice.]
+
+[I’m not sure I’d go that far…]
+
+The Legion was an extremely well disciplined fighting force, but there was a reason for that. Insubordinate soldiers were treated… firmly.
+
+[I came with a request,] she stated, getting down to business.
+
+[Another one? How many favours am I supposed to do for an organisation that wants me dead, Morrelia? This is getting ridiculous.]
+
+She winced despite herself.
+
+[I know. I just want complete information so I can report to my commander. To be honest, the more I can say the Colony is likely to succeed, the more she’ll feel restraint will be the best path. A little exploratory mission into the fifth over a few days is nice, but it isn’t enough.]
+
+[So you want to head up and see the troops being prepared for the campaign, eh?] Anthony mused as he rubbed his head. He sighed. [It’s a bit of a risk for us, though. We’d be revealing exactly how many ants we plan to commit to the fifth, which could prompt the Legion to attack our nests.]
+
+[As far as I know, there are no plans for any such attack.]
+
+[But they wouldn’t necessarily tell you if there were, right?]
+
+[...Right,] she reluctantly agreed.
+
+Anthony considered it for a moment in silence.
+
+[Alright, fine. You have my permission. I don’t trust the Legion, because why would I, but I do trust you. Head on up there and take a look, then go report to your commander. We’re serious about this. The fifth won’t have ever seen anything like it.]
+
+[I hope you’re right,] she said, heart heavy in her chest.
+
+With permission from the Eldest, the rest flowed naturally. In short order, Morrelia, Greyson and Marcus were given an express trip up the Colony’s expanding tunnel network into the deepest caverns beneath the nest.
+
+There, they were escorted around by a little ant who called herself ‘Solant’ via the mage who connected them, along with a sizable guard.
+
+They were led to a training ground where ten thousand ants were running through drills and practices, much like she would see in a Legionary parade ground.
+
+Then another area just like it. Then another. And another. Another. Another. Another. Another. Another. More and more until she was no longer sure just how many they’d been through. They were shown vast forges that filled entire caverns, an army of ants hammering away at the metal, producing specialised equipment, armour, rings, weapons. Room after room of enchanters hard at work, chests full of cores coming in a constant stream to fuel their endeavours.
+
+[Soon we will ramp up to full preparations,] the mage passed along the words of Solant.
+
+Morrelia boggled.
+
+[This isn’t full?]
+
+The little ant clacked her mandibles derisively, eyes glittering.
+
+[Solant says… this is only half of the required material to complete phase one.]
+
+[Phase one…]
+
+[She says… the fifth is a dangerous place, and it does not like to be invaded. Didn’t you know?]
+
+When they descended back to the lower tunnels, Morrelia reported to Anthony that they were done, and he waved them off as the three members of the Abyssal Legion returned to their troops, minds spinning with what they had seen.
+
+In all three of them, a seed of thought had taken root.
+
+What if they really did it?

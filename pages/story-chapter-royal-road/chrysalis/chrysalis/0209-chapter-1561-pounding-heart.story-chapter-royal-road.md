@@ -1,0 +1,65 @@
+---
+id: 86402bba-0ade-597b-ad0b-3a2f7a74b12f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1561 - Pounding Heart"
+slug: 0209-chapter-1561-pounding-heart
+partOf: chrysalis
+position: 209
+ownLength: 1059
+unit: words
+ownProgress: 1059
+publishedAt: 2025-04-29
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2239556/chapter-1561-pounding-heart"
+royalRoadId: "2239556"
+markedReadAt: "2026-06-29T19:50:30.350Z"
+---
+
+Zluth had never felt anything like this before. He knew about the hearts, every Krath knew about the hearts. They could feel the vibrations anywhere in the fifth, could determine the flow of mana through the arterial tunnels by the pulse of its movement, but he had never been this close to one before. Not remotely.
+
+The pounding rhythm was all-consuming. The mana rushing past was so dense it was visible to the naked eye, with every pulse. The walls vibrated from the strength of it. His entire body was attuned to it.
+
+A certain reverence had overtaken the Krath as he drew nearer to it, a deep respect ingrained into his slug-flesh rising up within him. This was one of the beating hearts of the fifth, one of the core components of the entire level of the Dungeon and the source of Theorazzn’s greatest miracle.
+
+Zluth hunkered down amongst some fungal blooms that he felt almost certain weren’t going to eat him in the short term. He’d seen them tear apart a chubby toad monster he couldn’t identify not long ago, and so he hoped that they weren’t able to take in more food. It was a risk he had to take, since there wasn’t anywhere else safe in this tunnel for him to rest.
+
+Battered and torn from the journey, he was barely holding on. The journey had gone wrong almost as soon as he’d left, unfamiliar tunnels and incomplete instructions combining to put him in dangerous situations again and again. He was also confident that the Bulg had withheld the locations of many safe-holes and shortcuts, unwilling to part with their secrets even now. That was fine. Zluth wouldn’t forget.
+
+Despite all the setbacks, the numerous times he’d almost been eaten, having to survive on his wits and instincts alone, he had almost made it. The Slimeground of the Zissth tribe was located directly adjacent to the heart, and he was rapidly closing in on that location.
+
+The issue was…
+
+With the mana so dense and so vibrant, so exceptionally virulent and toxic this close to the heart, the monsters and plant life were equally deadly. Even Zluth, a Krath scout, had to retract his eyes every few seconds in order to protect them from the acidity in the air. A Krath.
+
+In front of him, wild mould spores the size of Krath eggs drifted through the air in dense clouds. Most of the monsters were clever, avoiding them, or using their sticky spit or bile to catch them out of the air before moving through, but others weren’t so careful. Even in the last few minutes, the scout had witnessed several newborn monsters come into contact with the spores. Once contact had been made, the spores would grow into their victim, seizing control and using them to spread the spores ever further.
+
+He wasn’t sure when this particular mould had bloomed here, but he didn’t think it was long ago. With so many monsters spawning, the spores would claim more creatures before long, accelerating the spread. He couldn’t afford to wait for long; delaying would result in certain death.
+
+Trying to chart his path, Zluth concentrated, summoning the last of his energy. It had been foolhardy to volunteer for this mission. Actually succeeding would be something of a miracle. But if he did, his name would spread far and wide as a loyal servant of Theorazzn, a dedicated slug who was cunning and quick enough to travel where others refused to slide.
+
+Another breath, another. The air of the fifth, rich with mana, burned and sizzled in his body, invigorating him and empowering the acid in his flesh. He was ready.
+
+Zluth burst into motion, accelerating hard as he raced away, leaving tendrils of fungal growth, just starting to extend out of the tunnel wall, behind. Once he’d reached top speed, he flattened down, compressing his body down and banking left. Slipping onto the surface of the flowing mucus, he glided forwards like a flat stone sent skipping over the surface.
+
+Just above him, drifting spores covered so much space, seemingly harmless. He knew they could be sent floating in any direction by a stray wind or the pounding of the heart. The Ancient smiled on him, and he slipped beneath the first spores without trouble, but that was only the beginning.
+
+Monsters were everywhere, fighting each other, crouching in defensive positions, trying to hold their ground and avoid battling, while others had already succumbed to the spores and were actively moving them around. It was inevitable he was seen, several creatures turning towards him, snarling, catching his scent.
+
+He ignored them. Getting through as quickly as possible was the goal, and getting caught up by a monster, even for a few seconds, could prove fatal.
+
+Skipping off the mucus for the final time, his foot found solid rock once again, and he expanded his body out to push as hard as he could. Speed. More speed!
+
+With his eyes starting to bubble, he retracted them for a fraction of a second, then expanded them again, only to find a monster had stepped into his path.
+
+Thoughts racing, Zluth acted quickly.
+
+Summoning a wad of acidic phlegm, he leapt off the rock wall and into the air. Aiming carefully, he spat the mucus, right on target, then landed again, racing to the left.
+
+His spit struck a floating spore, sending it catapulting through the air to smack into the offending monster.
+
+Shrieking with rage and terror, the beast started swiping desperately at itself, trying to remove the offending spore. The shock of movement and noise was like a detonation within the tunnel, causing a flurry of activity. Monsters charged at each other, the spore-infected creatures rushing to join in. Through the chaos, Zluth slid, darting left and right as he dodged trouble, the pounding of the heart growing louder and louder.
+
+The tunnel branched ahead, and he would have to make a blind decision as to which one to follow. He didn’t know exactly where the Zissth would be, no tribe advertised the location of their Slimeground, he would just have to survive long enough for them to find him.
+
+Left!
+
+He turned hard, but before he even got the chance to inspect the tunnel, the ground dropped away beneath him, and he was falling.

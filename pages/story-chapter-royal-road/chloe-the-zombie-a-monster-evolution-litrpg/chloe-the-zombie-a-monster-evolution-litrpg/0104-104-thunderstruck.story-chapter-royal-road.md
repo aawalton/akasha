@@ -1,0 +1,125 @@
+---
+id: 8f5b804c-ecaa-54a2-a5fa-8410a49cf15a
+page-type-slug: story-chapter-royal-road
+title: "104: Thunderstruck"
+slug: 0104-104-thunderstruck
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 104
+ownLength: 1899
+unit: words
+publishedAt: 2026-01-23
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2971338/104-thunderstruck"
+royalRoadId: "2971338"
+---
+
+Ynett, who was still just floating there like she was bored out of her mind, finally moved. Her hands flicked upward, and a bunch of sharp ice shards exploded from her fingertips.
+
+They whistled through the air and slammed into the Thunder Bird’s face. It screeched, but not in pain, more like, “Hey, stop that!”
+
+The ice shards shattered against its glowing blue feathers, turning into a cloud of sparkly mist. Chloe actually thought it looked kind of pretty, which was a weird thing to notice when you were currently being eaten.
+
+“Seriously? Ice? That’s all you got?” Chloe yelled, her voice muffled by the bird’s beak.
+
+But Ynett just gave her a tiny, irritating smile, like she knew something Chloe didn’t. Then her eyes got that weird, faraway look, and suddenly, the Thunder Bird let out another surprised squawk.
+
+Its beak, which had been clamped around Chloe, loosened. Not because it wanted to, but because it looked like something was pulling its upper and lower jaw apart. Chloe guessed that it was probably the work of Ynett’s telekinesis.
+
+“Freedom!” Chloe shrieked, wiggling with all her might.
+
+The bird’s jaws were still huge, but with them forced apart like that, she finally slipped free. Chloe tumbled out of its grasp, flapping her arms wildly.
+
+Everything spun for a second, and she almost smacked straight into something, but she managed to catch herself just in time. She beat her wings a few times, trying to get her bearings, and then shot Ynett a glare. “You could’ve done that sooner, you know!”
+
+Ynett just shrugged. “Perhaps. But it was rather funny watching you struggle."
+
+Chloe rolled her eyes so hard she thought they might pop out. Typical Ynett. Still, she had to admit, the telekinesis thing was pretty cool.
+
+She spread her wings wide, feeling the wind rush beneath them. “Okay, do you have a plan on how we can beat that bird?"
+
+Ynett’s lips parted, probably to say something incredibly smug and annoying, when suddenly, a blinding flash of light exploded around her. A massive surge of lightning erupted from the Thunder Bird, connecting directly with Ynett’s chest. The air crackled, and Ynett, for the first time ever, actually looked surprised. She let out a sharp gasp as she just fell.
+
+Chloe could barely stop the laughter bubbling up inside her when Ynett got zapped like that. It served the meanie right for just floating there and watching her struggle to avoid becoming bird food. She was actually having a great time reveling in Ynett’s misfortune.
+
+But, before Chloe could even finish congratulating herself, the whole world lit up again, only this time the light was aimed straight at her. Another bolt of lightning, just as thick and angry as the one that had nailed Ynett, struck Chloe in the back.
+
+The good news was that being a zombie meant she didn't feel any actual pain. The super bad news was that her wings suddenly locked up, her muscles totally seized, and she tumbled right out of the sky.
+
+She plunged downward, the wind screaming past her ears. The ground was getting way too close, and panic finally kicked in as Chloe frantically forced her paralyzed wings to obey.
+
+They gave a weak, pathetic flutter, then beat harder, and she managed to slow her terrifying descent. She pulled out of the dive just a few feet above the rocks. She risked a quick peek over at Ynett and saw the disguised snake lady was also flying low, looking genuinely shocked.
+
+“You okay down there, Miss Perfectly Calm?” Chloe yelled, trying to sound super sarcastic, even though her whole body was still tingling and vibrating.
+
+Ynett, who was still looking slightly fried, shot her a look that was more annoyed than usual. “A minor inconvenience. Though I believe we both drastically underestimated the Thunder Bird."
+
+“Yeah, no kidding!” Chloe snapped back.
+
+The Thunder Bird shrieked again, sounding seriously insulted. It was circling right above them in a total rage, and its huge, mean eyes were absolutely glowing. Chloe knew they had maybe a few seconds before it tried to turn them into crispy snacks again.
+
+“Okay, Ynett, I don’t like you, you don't like me, whatever, but we’re going to have to actually work together now,” Chloe blurted out.
+
+Ynett let out a quick, annoyed snort. “I can deal a significant blow to the creature, but I'll need a proper distraction to set it up.”
+
+Chloe was absolutely ready to argue for Ynett to be the distraction and for her to be the one to deal the killing blow, but then she saw the Thunder Bird. It was done with the circle game and was diving straight toward her and Ynett, talons first. With that immediate threat looming, Chloe decided to stop arguing and be a team player for once.
+
+She zoomed straight up at the creature, flying high and fast. She narrowly dodged the Thunder Bird’s massive talons as they swept past her head. She didn’t completely escape, though.
+
+The creature’s enormous wing caught her along the way, delivering a huge, heavy swat that simultaneously zapped her with raw electricity. She tumbled and spun violently through the air.
+
+But Chloe held on, feeling her body already starting to regenerate from the blow. As soon as she stabilized her flight, she saw the Thunder Bird open its huge beak, charging up what looked like a super-sized lightning blast. That looked absolutely terrifying..
+
+“Nope!” Chloe shouted.
+
+She quickly channeled her magic, focusing hard on conjuring her Divine Shield. She braced herself, holding the shimmering barrier out in front of her just as the massive, crackling bolt of lightning unleashed. Her Divine Shield held strong, absorbing the full force of the attack, but Chloe was sent soaring backward.
+
+But eventually, she managed to stop her uncontrolled flight with a few wing beats, feeling totally awesome. She shot a triumphant glance at Ynett, who was still hovering nearby,.
+
+“My turn,” Ynett said.
+
+Her eyes got that weird, faraway look again, and her hands lifted. This time, it wasn’t just the bird’s beak. It looked like the entire Thunder Bird was suddenly caught in an invisible, giant hand. Its huge, glowing blue body started to twist and contort in the air, like someone was twisting it inside out. It shrieked out a desperate sound that was way less menacing now.
+
+Even Chloe had to admit that Ynett’s telekinesis was seriously impressive, even if it was coming from such an annoying person. The bird struggled, its massive wings flapping wildly, but for a few glorious seconds, it looked like Ynett might actually crush the stupid thing right out of the sky.
+
+But then, with a thunderous CRACK, the bird’s body snapped back into shape. It glowed with furious, crackling energy, and Chloe could practically feel its sheer, pure rage. It had broken free, and it looked even angrier than before.
+
+The Thunder Bird let out a furious, ear-splitting screech and unleashed a massive bolt of lightning, aiming straight for Ynett. She snapped out of her telekinesis trance just in time, performing a quick dodge that made her look like a blur. The lightning bolt blasted past where she’d been a moment before, leaving a smoking trail in the air.
+
+The Thunder Bird circled, faster now, its eyes locked onto both of them, ready to double-zap their butts. They flew around, dodging its swoops and blasts. Chloe tried throwing more fireballs and shadow spears, but they didn't really do much. Ynett kept trying to use her telekinesis, but the bird seemed to have learned its lesson, breaking free almost instantly whenever she tried to squeeze it.
+
+Then, Ynett suddenly banked hard and zoomed away. Not toward the Thunder Bird, but away from it. Like, running away!
+
+“Hey! Where are you going?!” Chloe shrieked, instantly going to chase after Ynett.
+
+She just knew Ynett would pull some sneaky move like this. The Thunder Bird, of course, was not picky about its targets and followed Chloe and Ynett.
+
+Chloe kept flapping, pushing her wings as hard as they would go, still yelling at Ynett to explain herself. What in the world was she trying to do? Was she just ditching Chloe to deal with the angry bird alone? That sounded like something Ynett would totally do.
+
+But then, as they got closer to the ground, Chloe’s brain finally put two and two together. Ynett was flying straight toward Raenof and Sierra.
+
+“Oh no no no no no!” Chloe yelled, horrified.
+
+Raenof and Sierra were awesome, but they weren't really meant for taking on big, strong, flying, zappy birds. And Mr. White was a good horse, but he couldn't exactly fight a Thunder Bird!
+
+But then, as Ynett closed the distance, Chloe saw something weird happen. Sierra suddenly looked dead serious. Her hands clenched, and dark, shadowy energy began to swirl around her claws.
+
+Raenof, standing in front of Mr.White, actually readied his staff, like he was ready to fight. Chloe wondered if these three planned something without her?
+
+Her question was answered almost immediately. Ynett zipped past Raenof and Sierra, who were now standing their ground. And then, before Chloe could even fully process it, Sierra jumped.
+
+She leaped straight at the Thunder Bird, which had swooped a little too low. Sierra was a blur of shadowy claws and fur, slashing across one of the Thunder Bird’s wings. The bird let out a pained shriek and actually tumbled out of the air, rolling across the ground in a cloud of dust.
+
+Before it could even properly regain its balance, Raenof slammed his staff onto the ground. With a grunt, he conjured a big rock that burst upward, hitting the Thunder Bird and stopping its rolling. It wasn't the biggest rock Chloe had ever seen, she was positive she could make a way bigger one, but hey, it helped!
+
+With the Thunder Bird stunned and on the ground, Chloe suddenly heard Ynett’s voice in her head. It was like she was whispering right into her brain. “Finish it, Chloe. Now.”
+
+“Whoa! How are you in my head? Get out of my head, you weirdo!” Chloe yelled out loud.
+
+“Less talking, more finishing, you airhead! I will continue to deal damage. Just get it done!” Ynett’s mental voice snapped back.
+
+Chloe yanked her head around and saw Ynett was already getting to work. She was hovering above the furious bird, raining down a terrifying barrage of ice spears that sliced through the air. The shimmering, razor-sharp ice hammered the Thunder Bird, impaling its massive body in multiple places.
+
+Even with all that, the creature definitely did not look done for. Actually, it looked like the attack had just made it totally unglued. It thrashed violently, its huge frame pulsating with even more furious, crackling energy.
+
+Despite the chaos, Chloe knew exactly what her job was supposed to be now. The bird was distracted and pinned down by her friends and Ynett's ice, and its defenses were probably focused on the ground.
+
+This was her perfect window to get the job done. She channeled her magic, focusing all her dark energy, and conjured a deadly shadow spear. She flew up fast to get the absolute best angle, making sure she wouldn't miss. Then, she threw the spear with every ounce of strength she had, aiming it straight for the Thunder Bird's eye.

@@ -1,0 +1,131 @@
+---
+id: ed269a98-fb39-5a75-abcd-d894b3789563
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1534 - Location of the Detonation"
+slug: 0182-chapter-1534-location-of-the-detonation
+partOf: chrysalis
+position: 182
+ownLength: 1021
+unit: words
+ownProgress: 1021
+publishedAt: 2025-03-21
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2140302/chapter-1534-location-of-the-detonation"
+royalRoadId: "2140302"
+markedReadAt: "2026-06-29T19:49:39.345Z"
+---
+
+Extending outwards from either side of my head, two massive mandibles of darkest light form. They stretch so far to my left and right they cover half the front of the platform.
+
+As usual, my stamina drops precipitously, but then I start to panic about just how much energy remains in the Altar. There’s millions of ants in the fortress at this time, not to mention all those at the very depths of the fourth, all within range of the Vestibule. With so many providing their will, the Altar is refilling quickly, but will it be enough? It’s not like I have long!
+
+The soldiers to my left and right shrink back from the chomp, expectedly so, and I realise I really should have told them what I was going to do. Wait, they’re pulling back in such a neat and organised fashion… did… did Solant include plans in her formations for this sort of thing? I bet she did! Dammit, I’m not that predictable!
+
+No matter how much I wish it wasn’t the case, a spark of light flares between my mandibles, and I can’t help but flinch back.
+
+No.
+
+Nonononono. Not yet!
+
+Regardless of my wishes, the light takes shape, forming a sphere that begins to expand. Already, I can feel it crackling with suppressed power, and it’s going to get a heck of a lot bigger than this.
+
+Come on… it’s going to be fine. I’m sure of it.
+
+“Good luck, Eldest!” the ants tell me from their new positions, well back from the danger zone.
+
+“You can do it!”
+
+“Work hard!”
+
+“If you injure yourself, I’ll poke you in the eye, idiot.”
+
+That last one had to be a healer.
+
+“Oi! Who do you think I’m doing this for?” I yell back.
+
+The monsters of the fifth are surging forward now that the front line has pulled back, but in truth, I can’t see them at all. The sphere of light continues to grow, rotating slowly, the glare it emits blinding me completely.
+
+It grows, and grows, and when I start praying by the mighty beard of Gandalf himself that it stops, it doesn’t. If the original Starcrusher produced a sphere the size of a beachball, this one is more like a room.
+
+With my claws dug into the platform, I can barely resist the drag effect from the mini-star, even though it isn’t aimed at me. I can only imagine the nightmarish scene in front of me as the torrent of monsters and mucus filling the tunnel is sucked towards my face.
+
+Then, with ponderous, creeping finality, my mandibles begin to close, the enormous jaws of darkness closing alongside them.
+
+Fearful, I check the Altar, and shudder at the pitiful-seeming amount of energy inside. Come on now, a normal Starcrusher is enough to cause me serious problems, this thing is going to leave me a smoking wreck! I need more energy than this! I need it full, preferably!
+
+For the first time, I wish the torrent of Will flooding through me would flood just a little more rapidly.
+
+I resolve to empower my carapace at the last possible moment, and then realise that moment is rapidly approaching. Too rapidly!
+
+The jaws swing shut with inevitable force, everything they touch is caught and dragged with them, pulled towards the star which is already beginning to crack.
+
+At this moment, I angle my head and concentrate, forcing the energy emerging from the sphere away from me, directing it outwards and away. It’s not a foolproof method, but it works enough that it's certainly worth doing on the odd chance it saves my head from exploding.
+
+The screaming of the monsters, the piercing din of battle, none of it means anything to me, the only sound I can hear is the shattering of the star.
+
+With the finality of a guillotine, my mandibles slam shut.
+
+Broken beyond repair, leaking shafts of searing light, the star collapses on itself. Then breaks.
+
+I pour every drop of energy within the Altar into my carapace, which starts to hum with resonating energy.
+
+The world is consumed by light, then by darkness.
+
+Uh…
+
+… Hello?
+
+Did… did I die? Again!? Come on, man! I knew I was going to get myself killed at some point, but I really thought it was going to be a gravity bomb, not a freakin’ chomp attack!
+
+I was still secretly hoping there might be elf girls somewhere in this Dungeon! My secret desire kept locked away deep within my heart! Or maybe elf ants would be better?
+
+How would an elf ant even look? Pointy antennae? How does that make sense… we already have pointy antennae.
+
+“... can you… catch… scent?”
+
+Huh?
+
+“Yes? Is this ground control?”
+
+“No… moron… foolish… waste… brainless… kick… head!”
+
+Hmm….
+
+Now that I think about it, I am in a great deal of pain.
+
+Like… ouch!
+
+I startle back to awareness, sensation from my body returning with agonising rapidity. Everything hurts, especially my head.
+
+“I can’t see!” I exclaim.
+
+“You don’t have any eyes!” someone grumps at me.
+
+“Huh, I can understand you better now.”
+
+“That’s because your antennae are growing back.”
+
+“Oh.”
+
+I trigger the regeneration gland and almost sigh with relief as the cold liquid sloshes through my system, repairing my internal injuries and helping piece me back together.
+
+“How’d the chomp attack go? Was it effective?” I ask.
+
+“You can see for yourself in a minute,” the healer grumbles. “I’m working on your eyes.”
+
+Come to think of it, the light is returning gradually. For the next few minutes, my eyesight slowly returns, and over that time, I wonder why the heck I’m not hearing any fighting.
+
+When my sight returns, I no longer need to wonder.
+
+The tunnel.
+
+The slow-moving tidal wave of mucus.
+
+The endless horde of monsters.
+
+They’re all gone.
+
+Well… not gone, just… not as close anymore.
+
+In front of me lies a scene of utter devastation, a massive spherical chunk carved out of the rock. Even now, hunks of molten stone drip and sizzle around the edges of where the explosion was.
+
+Holy moly.

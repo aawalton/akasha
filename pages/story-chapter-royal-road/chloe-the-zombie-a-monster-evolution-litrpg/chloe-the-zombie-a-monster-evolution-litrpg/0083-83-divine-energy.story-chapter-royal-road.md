@@ -1,0 +1,181 @@
+---
+id: 98f9e997-921f-5729-9905-f370b41b4b79
+page-type-slug: story-chapter-royal-road
+title: "83: Divine Energy"
+slug: 0083-83-divine-energy
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 83
+ownLength: 1878
+unit: words
+publishedAt: 2025-12-08
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2829899/83-divine-energy"
+royalRoadId: "2829899"
+---
+
+Administrator L sat behind a desk that had long since vanished beneath towering stacks of reports, appeals, and an endless stream of bureaucratic nonsense. It was far more than any one person should have been expected to handle but, unfortunately, he hadn’t been given a choice.
+
+Since Z’s forced resignation, nearly every piece of administrative work tied to the Great Game had landed squarely on his plate. The volume alone was overwhelming, but that wasn’t the part that bothered him most. No, the worst part was the silence.
+
+There was no one left to trade remarks with, no one to poke at when the days stretched too long. Without Z’s presence, the office felt lifeless.
+
+He still spoke with the other administrators, of course. Cordial, even warm, with some. But none of them sparked that same sharp curiosity. None of them knew which of his smiles were real and which were just for show.
+
+He and Z had history, long before Divinity Inc ever sent them contracts. Still, there was work to do.
+
+And Z had left him with one final request before she stepped down: keep an eye on Chloe. The clumsy zombie girl had been under Z’s personal surveillance prior to her resignation, but L had quietly redirected Chloe’s file to his own queue. No point leaving her in the hands of some junior administrator who’d file incident reports every time she does something unpredictable.
+
+For now, he checked his computer and brought up Chloe’s current logs. She had made impressive progress since last update. Now adventuring with a known member of Sol, and not one, but two Luphian individuals who had successfully accessed their primal forms.
+
+Though, it seemed Chloe had recently been separated from both the Sol operative and one of the Luphians. It was a mildly concerning outcome.
+
+L wasn’t particularly worried. The zombie girl had a knack for persevering through danger. She would manage, for now, at least.
+
+After that, he closed the report and stood up from the desk. There was one more thing he needed to do: step outside the office and make a call with his personal phone.
+
+***
+
+Once the last of the ratfolk patrol had passed, Chloe crept out from behind her mushroom stalk. She stretched her legs a bit, then waved a hand towards Sierra.
+
+“We're safe now,” she whispered.
+
+Sierra peeked out cautiously, ears flicking as she scanned the tunnel. Once she was sure the way was safe, she stepped out and let out a quiet sigh of relief. Her shoulders dropped like she’d been holding her breath that whole time.
+
+Chloe glanced in the direction the rats had gone. “So, uh, you know who those guys were?"
+
+Sierra nodded, still keeping her voice low. “They’re with the Black Maw.”
+
+“Wait, really? I thought the Black Maw was all Wolfies. Like a big angry wolf club.”
+
+“They mostly are, but the ratfolk work with them. I don’t know all the details, but they’ve been allied for a long time."
+
+Chloe raised an eyebrow and gave Sierra a look like she wasn’t totally buying it. But Leftie, still perched comfortably on her shoulder, gave a subtle little wiggle, his version of a nod.
+
+She glanced at him sideways before turning to face Wolfie again. “Really? Guess that checks out.”
+
+Sierra gave a slight shrug. “Either way… we should avoid that wizard. The tall one. With the staff.”
+
+“The one with the glowy robe and the big pointy stick?”
+
+“Yeah. That one. He’s… the reason I lost control before. Back when I first transformed.”
+
+“Wait, really?”
+
+“He’s just really good with dark magic. He’s got attacks that can turn rocks into dust in seconds. And he can make these… appendage things out of the shadows. It’s really gross the more I think about it.”
+
+“But you’ve got dark magic too, right? I kinda noticed it when you went all big wolfie.”
+
+“I do. But his magic is different. Stronger. Way stronger.”
+
+“Oooooh. That means we definitely need to find him.”
+
+“Chloe, no. That’s not what I—”
+
+“No, listen! If he’s super strong and all smart with magic, then that means he knows stuff. Big secret stuff. Like where Sabine and Scar got poofed to! Or maybe even where that Morikhan guy is hiding!”
+
+“Chloe—”
+
+“Plus!” Chloe raised a finger triumphantly. “If he’s using dark magic better than you, I can take it after we beat him up."
+
+“That’s not… how magic works.”
+
+"Well, it does for me. Just watch what happens after we beat him up."
+
+"Seriously?"
+
+"Yep."
+
+Sierra paused for a second, like she had something to say, then didn’t. She stood there for a moment, uncertain, ears drooping a little. But eventually, she let out a breath and spoke. "Well, uh… anyway. I still think this is a bad idea. He’s dangerous, Chloe. Last time we fought, he didn’t even flinch when I transformed. Just kept casting spells like I didn’t matter."
+
+“That just means you get to go extra bitey next time. It'll be great. I believe in you.”
+
+Sierra stared at her, looking very much like someone who was reconsidering all her life choices. She opened her mouth, closed it again, then let out a long, defeated sigh. “You’re really not going to let this go, are you?”
+
+“Nope!” Chloe beamed.
+
+After a bit more convincing, Sierra reluctantly followed as they pushed deeper into the dungeon, toward weird mushroom smells, and one very doomed rat wizard. I’m so gonna eat his brain.
+
+They moved quickly, darting through the tunnels. The ratfolk had a bit of a head start, but they weren’t exactly quiet. Still, they were fast enough that Chloe and Sierra had to slow down when they reached an intersection.
+
+“Okay,” Chloe whispered, throwing her arms out. “Sniff time. Can you smell where they went?”
+
+Sierra wrinkled her nose, ears folding back. “Ugh… I can try.”
+
+She gave the air a few tentative sniffs, then immediately flinched and shook her head. “Nope. Too much stink."
+
+Chloe pouted. “Lame.”
+
+She turned to Leftie, who was still clinging onto her shoulder. “You wanna try buddy?"
+
+Leftie raised two fingers, paused, then slowly shook them side to side in what looked like a "no thanks".
+
+“Double lame,” Chloe muttered, crossing her arms. “Guess I’ll just do it myself, then.”
+
+Chloe shut her eyes and focused. She stilled her thoughts and let her mana sense unfurl.
+
+Almost right away, she could feel blips of mana scattered through the dungeon, weak and squishy like slimes. These were probably ratfolk, and their mana cores were totally unimpressive.
+
+But one… one was different. It didn’t flare like a normal strong core.
+
+Instead, it pressed against her senses like a wet towel dipped in super sticky slime. It felt wrong in the kind of way that made her nose itch, even though her nose didn’t actually work like that anymore. That had to be the rat wizard.
+
+Chloe opened her eyes. “Got ‘em.”
+
+Sierra blinked. “Wait, seriously?”
+
+“Yup,” Chloe chirped, pointing down the left tunnel. “Big nasty mana blob that way."
+
+“Uh, I don’t know if we should follow that.”
+
+“We should definitely follow that.”
+
+And because Chloe was already skipping down the hallway, Sierra sighed and followed, muttering something under her breath. Probably not important.
+
+The tunnel sloped downward, twisting as they went. Soon, faint squeaks and chattering echoed off the walls again, ratfolk voices. Chloe raised a hand for Sierra to stop and crouched behind a cluster of glowing mushrooms, peeking out from the side.
+
+The tunnel opened up into a wide, round chamber that looked way too fancy for something buried underground. The ceiling arched high above, covered in twisted roots and glowing fungus, and at the far end stood two massive stone doors. They were huge, really huge.
+
+Chloe figured it would take at least four of her laid end to end just to cover how wide it was. Probably more if she stretched first.
+
+And there he was. Right in front of the giant stone doors, staff in hand and reeking evil energy, stood Tall Robey himself, the ratfolk wizard. The air around him practically buzzed with bad vibes.
+
+Chloe’s eyes lit up. “Ohoho. There’s our guy.”
+
+She popped out from behind her cover with a skip in her step. Sierra, on the other hand, crept out slowly. The moment they stepped into the open, the rat wizard’s head snapped toward them.
+
+His eyes glowed a sickly yellow, and the smirk curling on his snout made Chloe's fingers twitch with the urge to slap it off. “Well, well. Back already, little beast? And you’ve brought a friend. How... quaint.”
+
+Sierra stiffened beside her, claws flexing. Chloe didn’t miss the way her ears flattened or how she hunched in like she expected to get knocked flat again. That wouldn’t do.
+
+So Chloe casually stepped forward and parked herself right in front of Sierra. “Hiya, I’m Chloe!”
+
+The wizard tilted his head. “Charming, but I have no time for trivial distractions.”
+
+“Rude,” Chloe muttered, folding her arms. “And also, wrong. We’ve got so many questions and you’re gonna answer all of them. Like, what’s this place? And also—”
+
+But the rat wizard exhaled a long sigh, and started twirling his staff. Shadows peeled off the ground, slithering up his arms and coiling like they couldn’t wait to ruin someone’s day.
+
+He pointed the staff straight at them. “Be silenced.”
+
+The shadows burst forward, folding and twisting until they shaped themselves into a pulsing mass of darkness. It wasn’t just a spell, it also looked kind of alive.
+
+The thing churned and seethed, its surface rippling with shifting faces and gaping mouths that opened and vanished just as fast. Rows of jagged teeth flickered in and out of existence, and somewhere deep inside, something watched them back.
+
+Chloe immediately reached for Sierra’s arm. “We are so out of here.”
+
+Except her legs didn’t move. A cold pressure squeezed around her ankles, tight and sticky, like something was hugging her too hard. She looked down and groaned. “Oh come on.”
+
+Tendrils of shadow had slithered up her legs. Sierra wasn’t faring much better, she was snarling and struggling, but her feet were stuck to the ground by more of the same inky nonsense.
+
+The ratfolk wizard chuckled darkly. “See you two in the underworld."
+
+Chloe’s brain scrambled for a solution for her current situation. In a few seconds, she thought super hard, maybe harder than she had in most of her unlife.
+
+Then something bubbled up in the back of her thoughts. A skill she hadn’t touched yet. Divine Barrier. She didn’t know how it worked, exactly, but she could feel the skill calling out to her. Like she was meant to use it at this moment.
+
+As the dark orb of evilness got really close, Chloe raised her hand. A brilliant light flared from her palm, fast and blinding.
+
+It spread outward in a snap, blooming into a glowing dome around her and Sierra. The moment it finished forming, the horrible dark ball smashed into it, and cracked like it had hit a brick wall.
+
+Chloe stared. “Wow."
+
+The light burned like sunshine. The ratfolk all shrieked, covering their eyes. Even Tall Robey stumbled back. “What… is that?!”

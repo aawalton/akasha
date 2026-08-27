@@ -1,0 +1,83 @@
+---
+id: 735cf69a-85b9-51f8-a8e3-03365da4305c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1495 - More Chomp is More Fun"
+slug: 0143-chapter-1495-more-chomp-is-more-fun
+partOf: chrysalis
+position: 143
+ownLength: 1079
+unit: words
+ownProgress: 1079
+publishedAt: 2025-01-28
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2035051/chapter-1495-more-chomp-is-more-fun"
+royalRoadId: "2035051"
+markedReadAt: "2026-06-29T19:48:25.489Z"
+---
+
+After spending an hour burning mental energy trying to figure out just how this new spell form works, I give up for the time being. Well, sort of. The nice thing about having multiple brains is that I can have the others continue the work while the main mind gets on with other business.
+
+Gweheheheh. Yes, sub-brains, work hard for me!
+
+I know I’m technically laughing at myself, but it still feels like I’m passing off the work to someone else, which is always a lovely feeling.
+
+Reading through my extensive list of Skills, I have to wonder, how long have these things been maxed out? I’m going to say… not long. I’m not basing that on anything, but if Granin were to ask, I’ll make sure to tell him I’ve been diligently monitoring my status sheet as a good Ancient prospect should.
+
+The next big Skill I take a look at is, of course, Void Chomp.
+
+It finally reached level ONE-HUNDRED AND SIXTY! Which is a heck of a lot of levels. Turns out smushing all these fifth stratum monsters between my mandibles has paid off after all! Void Chomp is one of my most potent Skills right now, a rank six physical attack that, when empowered, absolutely detonates anything but the strongest monsters. I’m super excited to see what it turns into at rank seven!
+
+In fact, I’m so excited that I upgrade it immediately, spending the Skill Point and confirming the purchase with Gandalf.
+
+Void Chomp (VI) -> Starcrusher (VII)
+
+Uh, what? Starcrusher? Excuse me? That sounds super deadly! I mean, Starcrusher? It crushes stars? What will happen if I empower it?
+
+As the knowledge of the new Skill trickles into my brain, I wait eagerly, my mandibles quivering in anticipation. I need this Skill to be amazing since I’ll be using it for a long time, a full three-hundred and twenty levels until it reaches rank eight, but I certainly don’t want to be improving this any further until I evolve. Granin warned me that my Skills shouldn’t outpace my evolutions, lest they become stronger than my body can handle.
+
+The moment I’m finished learning the rank seven ability, my mandibles fly open, but right on the verge of activating it, I look around at the newly completed cavern that I’m occupying. Right now… it’s probably not a good idea to let it rip here in the fortress, which hasn’t even been finished yet. If I use it and blow up a few rooms, the carvers are going to be… a little upset. I can wait. I can hold it.
+
+Probably.
+
+For now, let’s distract myself and look for more Skills that I can upgrade, and there’s a ton of them:
+
+Tunnel Compass (IV) -> Tunnel Compendium (V)
+
+Master Stamina (IV) -> Grandmaster Stamina (V)
+
+Layered Mind Magic Affinity (V) -> Multi-Layered Mind Magic Affinity (VI)
+
+Guided Acid Shot (V) -> Pinpoint Acid Shot (VI)
+
+Expert Chomp Combo (III) -> Master Chomp Combo (IV)
+
+Grandmaster Dodge (V) -> Flicker Dodge (VI)
+
+Flash Dash (V) -> Unseen Dash (VI)
+
+There’s a lot going on there, and much of it is to my fundamental capabilities. More stamina is always nice, better mind magic is certainly welcome, hopefully it improves the quality of my mind constructs, more accurate acid, faster dashing. All good stuff.
+
+Sadly, neither of the two new fusions are ready to rank up yet. Manifold High-Focus is rank five and still has a ways to go, but Precognitive Agile Defense is only rank four and is very close, just a few more levels and it’ll be ready to advance.
+
+I confirm the purchases and settle in as a wave of warm trickling sensations flows over my mind. I don’t think I’ll ever get used to learning this way, but I’ll never say it isn’t convenient as heck. All I have to do is sit on my backside for a while and new knowledge just flows into my brain. With so many higher rank upgrades, it takes a bit of time for the process to finish, time I spend continuing to pick over my new gravity spell. It’s so absurdly complicated that I’m sure it’ll take days or even weeks for me to fully iron it out, then practise the spell form to the point I can put it together in battle conditions.
+
+However, other things, like my new starcrusher bite, or better dashes, are relatively straightforward. I should be able to use them pretty much straight away. Filled with anticipation at the havoc I’ll soon be causing, I pick myself up and start heading out to my usual frontline tunnels. Sarah has been holding down the fort for a while, giving me more rest and freeing up my time to participate in Solant’s trap, but she’ll need a break herself by this time. Hopefully she and Odin haven’t had too bad of an experience. Fighting in the fifth is deeply unpleasant at the best of times, but both of them specialise in up-close fighting, which means they’ve had to deal with all of the slime and ooze without any chance of getting away from it.
+
+Making my way through the tunnels, I come to the area I usually defend, and it doesn’t take long for me to find Sarah lying down and being tended by a team of healers who are crawling over her, prodding and poking with their antennae as they treat her extensive injuries.
+
+[Holy heck, Sarah! What is going on with you?]
+
+The massive bear lifts her head, much to the irritation of the ant sitting on top of it.
+
+[Hey, Anthony,] she greets me wearily. [I just got back from the tunnels. You weren’t kidding when you said how rough it is out there. It’s absolutely disgusting.]
+
+[Did you get much trouble from the Krath?] I ask her.
+
+[No, not really,] she says. [I think they were still trying to get used to me, but I’m happy for a break, if I’m honest.]
+
+[Absolutely. I just unlocked a bunch of new Skills and I’m keen to test them out! You can rest and recuperate for a couple of days. I’ve got this.]
+
+[A bunch of Skills?] she asks me quizzically. [Don’t you rank them up as soon as you max them? How are a group of them all reaching max level at the same time?]
+
+[Of course I do!] I laugh, unconvincingly. [I’m always on top of things!]
+
+Then I run.

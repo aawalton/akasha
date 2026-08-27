@@ -1,0 +1,177 @@
+---
+id: f1ac3ec3-887b-5ae1-89c9-3c0ecd1d2314
+page-type-slug: story-chapter-royal-road
+title: "8 - First Evolution"
+slug: 0008-8-first-evolution
+partOf: cat-girl-evolution
+position: 8
+ownLength: 1949
+unit: words
+publishedAt: 2025-08-17
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2525578/8-first-evolution"
+royalRoadId: "2525578"
+---
+
+Abby, I want to evolve!
+
+[ You have reached an Evolution threshold! Would you like to initiate Evolution? ]
+
+Yes!
+
+[ WAIT! ]
+
+Too slow this time, heheh.
+
+I am suddenly hit by a wave of drowsiness and slip off the tree. I barely manage to catch myself and land safely before I collapse completely. I guess cats do always land on their feet. Also, I can see why Abby said not to do it while there are eelmen around. That could have been bad.
+
+The next moment, I find myself in a cabin. A very cozy cabin with a nice fire in the fireplace and a bearskin rug on the ground and a long, log table with plates. And what’s on those plates? I can’t see them, but it sure smells like fish!
+
+I run over and leap up to the bench, then onto the table to find that the plates do indeed have fish. And there are a lot of them! There are 13 of them, and they all look different, and they all smell heavenly. The ones in the back look a bit bigger and juicier than the ones up here. However, above each one, there is also an Annoying Blue Box™. I step close enough to see what hovers over the nearest one.
+
+[ Greater Spatial House Cat ]
+
+[ A house cat with a spatial affinity that has evolved once to become still a house cat with a spatial affinity, but with bigger numbers. Greater Spatial House Cats can not only steal things, but they can steal them remotely using the spatial Skill, Snatch ]
+
+[ Evolution Bonus: +8 Power, +24 Finesse, +12 Resilience, +16 Memory, +20 Willpower, +20 Sensitivity ]
+
+[ Stats per level: +4 Power, +12 Finesse, +6 Resilience, +8 Memory, +10 Willpower, +10 Sensitivity ]
+
+[ Traits: Nimble ]
+
+[ Skills: Bite, Snatch ]
+
+Do each of these fish dishes represent different evolutions? I check the next one.
+
+[ Gluttonous House Cat ]
+
+[ A house cat with an insatiable desire for food. Gluttonous House Cats are guided through life by their stomachs, a trait which is now represented by the capital T Trait Hungry ]
+
+[ Evolution Bonus: +24 Power, +20 Finesse, +28 Resilience, +12 Memory, +8 Willpower, +8 Sensitivity ]
+
+[ Stats per level: +12 Power, +10 Finesse, +14 Resilience, +6 Memory, +4 Willpower, +4 Sensitivity ]
+
+[ Traits: Nimble, Hungry ]
+
+[ Skills: Bite of the Glutton ]
+
+Wow, are there really 13 of these? That’s too much reading. Abby, which is the best?
+
+…
+
+Abby?
+
+…
+
+Dang, am I really alone on this? That sucks. But I don’t wanna read 13 different evolution descriptions. Abby, if you’re just messing with me, I’m sorry. I’ll be nicer from now on. I promise!
+
+…
+
+Aw man. Well, at least I don’t have to be nicer from now on. I guess I have to get to work.
+
+Very painstakingly, and with only a little bit of drooling, I walk around the table, reading each Annoying Blue Box. Most of them are pretty lame, like the first two. One of them is Slothful House Cat, for example. The ones in the back are a bit cooler though. There’s Spatial Thief House Cat, and Gluttonous Devourer House Cat, which both seem fun. The stats are higher too. I guess the tastier-looking fish correspond to better evolutions. Of my options, those two are definitely the best, and are represented by something that looks and smells like an incredible salmon sashimi, and a seared ahi tuna filet.
+
+However, I bet if I start eating any of them, I won’t be able to eat any of the others, and that would suck. Those back two seem the best, but the rest of them still look tasty. I wouldn’t want them all to disappear just because I eat another one. Hmmmmm.
+
+I look between the two best options, and then slowly reach my paw out toward the Spatial Thief House Cat sashimi. Of the two, I like it best. Gluttonous Devourer House Cat seems to be a little more powerful stat-wise, but Spatial Thief says it will let me teleport with the Blink skill, so…
+
+I flex my paw to extend a single claw, and very slowly, set it down on the salmon. Nothing happens. I retract my claw and put my actual paw on it. Still, nothing happens.
+
+Perfect!
+
+I spend the next minute or two using Scratch as it was always meant to be used: for cutting up food! It takes a lot of self control not to lick my paw after each move, but by the end, I manage to stack small pieces of each dish up in a single pile in the middle of the table. Is this ideal for taste? Probably not. Will it still be tasty? Absolutely! Does it teach a lesson to the stingy System? I certainly hope so. I do one final sweep with my paws to make sure it’s all in one place for the perfect single bite, and then I chomp down.
+
+First impressions of my Evolution Amalgamation Salad? Very tasty. Most fish has a fairly similar flavor, but they all have their own subtleties, and despite the haphazard abomination of a dish I’ve just made, none of those subtleties are lost. As I chew, I can taste each individual dish, and somehow, they all mesh together perfectly. In short? It’s the best thing I’ve ever had and I’m going to make more.
+
+I turn to do just that, but as I do, a new box appears. However, instead of an Annoying Blue Box, this one is red.
+
+[ Error. Evolution path unclear. Attempting to resolve… ]
+
+That can’t be good. I’d better hurry up.
+
+The Annoying Red Box™ stays in front of my vision and won’t go away no matter how many times I dismiss it, but it doesn’t bother me otherwise, and nothing else happens, so I’m able to make 3 more Evolution Amalgamation Salad bites before it changes.
+
+[ Resolution failed. Elevating to live support… ]
+
+Hmmm. I wonder what that means. Whatever it is, sounds like not my problem.
+
+It takes an hour before the box changes again, and in that time, I finish off every single dish. It was a bit tedious gathering them all like that, but honestly, that made the experience even better. It let the flavors stay in my mouth so I could savor the aftertaste, and built up anticipation for every bite that came after. Now, I feel a little bloated after eating so much, but honestly? 100% worth it, no matter what this Annoying Red Box says.
+
+[ Are you ****ing kidding me? ]
+
+Woah, hey, chill out.
+
+[ ****ing gods and their ****ing gambling addictions!!! This is the fifth time this month!!!!! And by far the worst. How the **** did you even manage to do this? ]
+
+I was hungry.
+
+[ You ****ing *****, if I could reach through this screen and strangle you, I would ]
+
+That’s not very nice.
+
+[ Oh, “not very nice,” huh? You know what else is “not very nice”?! Giving me hours of work just because you’re abusing intelligence that you’re not supposed to have!!! No matter how many times I tell those ****ing divine ***holes that the evolution process isn’t designed to handle intelligent monsters below tier 3, they never ****ing listen! “Oh, just change the System then” You ****ing ****s, you don’t think I would if I could?! I don’t have that kind of power! I’m just a ****ing bottom-of-the-****ing-ladder wage slave working divine tech support! I don’t have the power to make changes! I barely even have the power to complain! And now I have to deal with this ****ing issue that’s some-****ing-how worse than the last one! Once again, how the absolute **** did you manage to do this? ]
+
+Hey, man, that sounds like it sucks, but I have no idea what you’re talking about.
+
+[ Error. Technician has been issued warning for excessive profanity. Live chat will resume in 10 seconds ]
+
+Well, that was weird.
+
+[ **** you too, System bastards! Alright, Yona, let me break it down for your tiny pea brain so that you can understand properly. When you evolve, you’re supposed to pick one option. You got that? One! 1! Uno! And instead, you have chosen, not one, not two, not even 5, but 13! ****ing 13! ]
+
+I see.
+
+[ Usually when I have to deal with this, it’s just some smartass thinking they’re a genius by picking two or three at once. Then I show up and say “haha, very funny. Now pick one.” And if that’s not possible because they ate all of both of them, I do actually have a function to combine evolution options that I can use as a last resort. But you wanna know what number of evolutions that function is not built to handle? Go on. Take a guess. ]
+
+Is it 13?
+
+[ Wow, how did you know? What a crazy guess! ]
+
+Well, I am pretty smart.
+
+[ Shut up! I don’t even know what to do here! You ate all of them! How did you even fit them all in your stomach? ]
+
+Lots of practice.
+
+[ Clearly. If there were any left, I would just make you pick one and kick you out, but I can’t even do that. If I try to run the evolution combination function–which, once again, was not designed for 13 ****ing options– I think you might just explode. ]
+
+That wouldn’t be good. Please don’t do that.
+
+[ You know what? I think I’m gonna do it ]
+
+Wait.
+
+[ Nope. I’m gonna do it. You’ve annoyed me too much. The gods said it would be over after the last one, but clearly that was a lie. What do I have to lose, anyway? I’ll probably just get chewed out, but you know what? I get chewed out every day no matter what I do, so what difference will this make? ]
+
+Wait, no!
+
+[ It’s too late. I’m pressing the button. ]
+
+Stop!
+
+[ Just know that this was your own fault ]
+
+NOOO!
+
+…
+
+Wait, nothing happened. Did I survive? Well, I didn’t explode, so I must have.
+
+[ It’s calibrating. It will start in an hour or so. Enough time for last words. Last words that I won’t be able to hear. I’m marking this as resolved so I can go do the hours of paperwork you’ve so generously bestowed upon me. Good luck! ]
+
+Hey! Get back here, asshole!
+
+…
+
+Damn, that guy’s way worse than Abby. I guess I got lucky with my Annoying Blue Box. Maybe I should thank her for not being like the Annoying Red Box…
+
+Nah.
+
+Well, if I’m gonna explode, might as well do it comfy.
+
+I walk around the small cabin to find a good spot to lie down. While I do, I notice that all the doors and windows are actually fake. They’re painted on. This is just a single room with no exits. That would be bad if I tried to escape. Fortunately, I have no reason to try to escape because there is a very comfy armchair by the fireplace. Very warm. Very snuggly. Very sleep-inducing.
+
+When I wake up, I’m back on the island, flopped over beneath the tree. It’s still day time out, but it’s probably closer to noon, or maybe even afternoon. Also, there are two Annoying Blue Boxes waiting for me.
+
+[ Congratulations! You have completed your first evolution! You are now a !@#$%^&*() House Cat! ]
+
+[ WHAT DID YOU DO??? ]

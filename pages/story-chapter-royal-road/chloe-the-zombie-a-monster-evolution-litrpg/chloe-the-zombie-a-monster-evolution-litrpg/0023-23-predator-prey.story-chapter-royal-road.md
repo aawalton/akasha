@@ -1,0 +1,183 @@
+---
+id: 11786e0b-2585-52c8-9c2f-20dced2bf4f0
+page-type-slug: story-chapter-royal-road
+title: "23: Predator & Prey"
+slug: 0023-23-predator-prey
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 23
+ownLength: 2295
+unit: words
+publishedAt: 2025-09-03
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2571267/23-predator-prey"
+royalRoadId: "2571267"
+---
+
+The creature curled its lip again, flashing another row of jagged teeth as it sniffed the air near her hiding spot. It stepped forward, then again, tapping against the stone repeatedly.
+
+Chloe stayed perfectly still, her back pressed flat against the cold pillar. I'm a rock. I'm a rock. I'm a rock.
+
+The creature stopped right in front of her. Its nostrils flared wide. One sniff. Then another, louder this time. The sound made her want to scream, or cackle. Maybe both. My flesh is cold and chewy anyway. Would not recommend eating me!
+
+Its head twitched to the side in a jerky motion. Then… nothing.
+
+It let out an exhale through its teeth, flicked an ear, before slinking off into the dark. Chloe didn’t move for ten whole seconds. Once she was really sure that the monster was gone, she peeled herself off the pillar.
+
+She checked her pack while easing away from the pillar. This was no place to hang around.
+
+Chloe crept forward, one careful step at a time. The passage twisted and squeezed like it wanted her gone, and the ceiling dipped low enough to bash her head if she didn’t pay attention. After what felt like forever in a hunched shuffle, the sound hit her.
+
+Skittering. Quick and sharp, crawling straight into her nerves. Because of course this cave couldn’t just stay peaceful.
+
+She spun just in time to see it drop from the ceiling, a hulking spider that hit the stone floor with a wet thud that made her stomach twist. Its body was the size of a wagon wheel, bloated and glistening in places where the bristly black hairs thinned, revealing patches of sickly gray flesh stretched too tight. Eight legs splayed out, ending in hooked claws that scraped across the ground.
+
+Its cluster of eyes caught the faint blue glow from the cave crystal.  Fangs jutted from its face, dripping with thick venom that oozed down in ropes before hissing when it touched the stone.
+
+The spider let out a screech that was high-pitched, sharp enough to rattle her teeth. Then, with terrifying speed, it lunged and went straight for her.
+
+Of course, Chloe had no plans on becoming spider food. If this thing wanted trouble, it was about to get a whole heap of it. Time to introduce Spidey to Cursed Rock Shot.
+
+Chloe funneled her will into the spell, feeling the raw surge of power hum through her fingertips she conjured her rock. It zipped through the air, wrapped in tendrils of dark energy.
+
+The impact was brutal. The spider’s body erupted in a wet, concussive blast, spraying ropes of black ichor across the cavern walls.
+
+[You have killed: Giant Cave Spider (Level 13)]
+
+[Experience Awarded]
+
+Another skittering hiss echoed from the left. Two more spiders crawled out of a crack in the wall. Chloe dodged left, rolled behind a boulder, and conjured two Cursed Rock Shots back to back.
+
+[You have killed: Giant Cave Spider (Level 12)]
+
+[You have killed: Giant Cave Spider (Level 12)]
+
+[Experience Awarded]
+
+She dropped low just in time as a fourth spider plummeted from the ledge above, hitting the ground with a loud crunch that split the stone beneath it into jagged cracks. Dust and shards flew as the creature’s legs splayed out, claws gouging deep grooves in the floor.
+
+Dark energy coiled at her fingertips as Chloe conjured another Cursed Rock Shot, the stone rising with a throbbing hum and jagged edges pulsing with violet light. With a flick of her wrist, she sent it hurtling wide, the projectile smashing harmlessly against a ceiling rock.
+
+The spider twitched toward the noise as it reared up in confusion. Perfect.
+
+While it was distracted, a second stone shimmered into her other hand. Chloe hurled it with a snap of her fingers, the air cracking as it flew forward. The impact struck dead center in the creature’s swollen abdomen.
+
+The spider’s body ruptured in a violent blast of black mist and fragments of shattered chitin. Its twitching legs crumpled as ichor splattered across the cavern floor.
+
+[You have killed: Giant Cave Spider (Level 13)]
+
+[Experience Awarded]
+
+She wiped a smear of foul goo off her cheek and squinted into the darkness. There was still one more spider out there. She could feel it.
+
+Sure enough, the biggest spider yet crept from the shadows, scraping against stone with a grating hiss. It was massive, easily twice the size of the others. The thing let out a shriek that split the cavern air and then lunged forward.
+
+Chloe eased back a step, tilting her head with a slow, lazy grin curling her lips. It really thought it stood a chance. How adorable.
+
+The moment it was about to get close to her, Chloe fired a Cursed Rock Shot at the giant spider's eyes. Despite being bigger than its friends, this new spider wasn't that much more durable.
+
+[You have killed: Giant Cave Spider Alpha (Level 15)]
+
+[Experience Awarded]
+
+[Skill Upgraded: Cursed Rock Shot I >> Cursed Rock Shot II]
+
+Chunks of stone and spider bits littered the chamber. Chloe strolled up to the twitching corpse with all the ceremony of someone approaching a buffet table.
+
+She tapped her chin and tilted her head at the massive creature’s remains. Okay, but like… where even is the brain? Do spiders have those?
+
+She knelt beside the crumpled head, poking through the mess with her fingers. Chitin cracked under her touch as she dug around, pulling aside mandibles, peeling back carapace, scooping through the sludgy parts.
+
+Finally, she found something soft. Lumpy. Pulsing faintly with leftover heat. “Hah! Found you, maybe-brain."
+
+It was disappointingly small for such a massive creature. Chloe squinted at the little lump, pinching it between two fingers. All that screeching and flailing for this tiny thing? Honestly, it felt like a letdown.
+
+Still, she brought it closer and gave it a cautious sniff. Then another, just to be sure. The smell wasn’t exactly promising, sharp and bitter in a way that made her nose wrinkle. It was probably going to taste awful. But hey, she’d never had spider brains before. Might as well try it once.
+
+Chloe popped it into her mouth and chewed. Not bad, actually. Kinda earthy and gritty, but it tastes okay. I was expecting worse.
+
+Reinvigorated by the mild surprise of “acceptable spider brain”, Chloe made her way around the room, crouching beside each of the twitching corpses she’d left behind. One by one, she cracked open their heads and gave each brain a tentative taste test. They all tasted… fine.
+
+[Brain Consumed: Giant Cave Spider Alpha (Level 15)]
+
+[...]
+
+[Brain Consumed: Giant Cave Spider (Level 12)]
+
+[Brain Consumed: Giant Cave Spider (Level 13)]
+
+[Experience Awarded]
+
+[You have leveled up! 6 >> 7]
+
+[Strength +5, Speed +3, Vitality +5, Magic +7, Resistance +1]
+
+[New Skill Acquired: Tremor Sense III]
+
+As the last bite slid down, power surged through her veins, and the cavern spun. A rush of images slammed into her mind, spiders scattering into cracks as a figure in red robes strode through, heat rolling off him in waves that made them shiver. Then it was gone as darkness swallowed everything.
+
+Chloe blinked and found herself back in the cave. If that vision was right, Luther was close, which was good to know.
+
+She stretched her arms overhead, gave her wrists a little shake, and let the warm glow of post-brain victory soak in. A wet squelch came from under her boots as she shifted her weight, prompting a wrinkle of her nose.
+
+Chloe was covered in spider guts. Maybe eating slower would’ve helped make things less messy, but it was probably too late for that now.
+
+Yet, her thoughts suddenly went back to the earlier notification. Tremor Sense sounded cool, but what did it actually do?
+
+Suddenly, Chloe felt a twitch on the ground that pulled her focus, and before her brain caught up, her head snapped toward the source. A cave lizard perched on a nearby rock, blinking its beady eyes before darting away with a flick of its tail.
+
+It seemed that she’d felt it through the ground, like it had left a wiggly little trail just for her. So this is Tremor Sense? Heh, this is going to come in useful for sure.
+
+Even as the cave lizard vanished, she could still sense the fading pulse it left behind. Curious, she closed her eyes and tuned in deeper.
+
+The effect hit instantly, Chloe sensed soft scuttles, heavy trudges, distant tremors, vibrations from above and below. Something scurried across the ceiling. Another dragged itself through a tight crack in the wall. A dozen more creatures shifted in the dark without making a sound.
+
+Oh no. Oh no no no. There’s so much stuff down here. Why are there so many legs? Ew. Ew. EW. Is that a whole spider nest I’m feeling? I was so much happier not knowing!
+
+She staggered back, nearly tripping over a rock, and rubbed her temples hard, as if she could scrub the sensations out. Chloe mentally promised herself to be more careful with using Tremor Sense. It was incredible, but it needed a filter before her senses were overloaded.
+
+Still, with it guiding her around trouble, she could move faster and safer than before. Chloe dusted off her cloak, adjusted her pack, and strode forward with more bounce in her step.
+
+Every few steps, she paused to listen through the stone. When something big and sluggish shifted behind a bend, she took another route. When something fast and twitchy darted ahead, she stepped aside and let it pass. She could’ve gone looking for fights to pile up experience, but this wasn’t about eating her way through the local food chain, it was about finding Luther.
+
+If he had mana, Mana Sense should pick him up. Stopping in a wider stretch of tunnel, she let Tremor Sense fade and switched to Mana Sense.
+
+The world turned colder, emptier, her awareness sharpening like a blade as she reached for that telltale spark. Any second now… nothing. Her brow creased. If Luther was such a big shiny magic guy, why couldn’t she feel him?
+
+She ground her teeth and tried running both senses at once. For a second, it felt like it might actually work, then her knees gave out. She caught herself against the wall, lip curling in disgust. That was bad. Very bad. Feels like my insides are trying to crawl out through my eyeballs. Probably best to use either tremor sense or mana sense, not both at the same time.
+
+She cycled them again. Tremor Sense on, then off. After that she tried Mana Sense too.
+
+Eventually, she caught it: a sharp, buzzing feeling right at the edge of her range. It had weight to it, rich and dangerous, the kind of mana that promised something important.
+
+Just to be sure, Chloe switched back to Tremor Sense. Something was walking. If it had been Luther, the pattern would’ve matched human footsteps. But instead, the earth shook.
+
+The vibrations rolled through her bones, each one pressing deep enough to make the ground quiver. Whatever it was, it was big. And it was definitely not human.
+
+Her first instinct was to avoid the mana signature. A big scary mana signature probably meant danger.
+
+But the longer Chloe stood there, the more her grin stretched. Whatever was up ahead was packed with magic, and in her mind, that almost always meant one thing: high quality, melt-in-your-mouth brains. Luther might have been the main goal, sure, but this wasn’t the kind of snack you just walked past. Opportunities like this didn’t come along every day, and she’d have been a fool to waste it.
+
+Chloe headed straight for it. The deeper she went, the louder it became.
+
+The tunnel squeezed tight, then widened into a cavernous chamber. Chloe slowed at the threshold. Near the center, something moved. A hulking shape prowled across the stone.
+
+Chloe recognized this creature. That was the same monster that had sniffed her when she first tumbled into this cave. Only now, it looked even bigger all of a sudden. She wasn't sure if that was just her seeing things.
+
+Her fingers twitched toward the hilt at her hip. For half a second, doubt slithered in. Was she ready for this?
+
+But then Chloe remembered her recent level up. She was stronger now, surely that meant she could fight this big bat monster.
+
+Chloe dropped low and slid along the chamber’s edge, melting into the shadows like she owned them. The creature prowled near the center, muscles twitching under its hide. It still hadn’t noticed her, and honestly, that was exactly how she liked it.
+
+Her steps were very light, barely making even the slightest sound. Then she remembered something, some trait she barely ever thought about. Oh right. Silent Steps. Forgot I even had that. Guess I’m sneakier than I thought.
+
+She crept closer. One good shot, and she could end it clean. Her fingers lifted, and with a flick, she conjured a Cursed Rock Shot.
+
+Chloe aimed for the base of the monster's skull and flicked the stone forward. It flew fast and true.
+
+But just before it struck, the creature’s head snapped to the side. The spell smashed harmlessly against the stone wall, scattering dark sparks in every direction.
+
+Chloe’s eyes widened. The creature turned toward her with a guttural snarl, nostrils flaring, ears twitching. Well, I'm pretty sure it's angry now.
+
+But just before Chloe was able to prepare another attack. The monster crouched low, and vanished.
+
+Chloe blinked hard, then stared at the empty space in front of her. Wait. What. No, no, no. That’s cheating. You can’t just go invisible like that!

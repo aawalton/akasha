@@ -1,0 +1,227 @@
+---
+id: 86c1b335-f118-5db3-a9c5-a3ced6533bfa
+page-type-slug: story-chapter-royal-road
+title: "56: Odd Behavior"
+slug: 0056-56-odd-behavior
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 56
+ownLength: 1969
+unit: words
+publishedAt: 2025-10-22
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2696429/56-odd-behavior"
+royalRoadId: "2696429"
+---
+
+In the end, the food hadn’t cost nearly as much as Chloe thought it would. The final total came out to just three gold coins. Apparently, that was still considered a lot, but Chloe had way more than that stuffed somewhere inside Cloaky, so she didn’t really care.
+
+She started rummaging through Cloaky as she took out her coin pouch. But before she could toss the pouch on the table, Raenof held up a hand. “I’ve got it."
+
+"You sure?”
+
+“It’s fine.”
+
+“Kay.”
+
+Chloe wasn't sure why Raenof insisted on paying, but she didn't complain. That just meant less effort for her.
+
+After the bill was settled, she and Raenof made their way toward the door the lady server had pointed out earlier. It was tucked beside the bar, partially hidden in the wall. Very suspicious looking, Chloe approved.
+
+They walked behind it and descended a staircase. At the bottom, they pushed open another door and stepped straight into what Chloe considered a proper thieves’ guild.
+
+The room was wide and a little smoky. On one side stood a bar, crowded with humans and beastkin. The rest of the space was filled with round tables and way too many loud voices talking over each other. There was even a big ol’ bounty board near the back wall.
+
+The whole place reminded Chloe of the guild hall back in Kelvane. “Okay. This is definitely the right place.”
+
+Raenof glanced around and gave a small nod. "Seems like it. Let’s hope someone here can get us to Vorraska."
+
+"I'm on it!"
+
+Chloe marched straight to the bar, where the bartender was deep in the middle of some chaos. He had cat ears sticking out from his black hair, and a sleek tail that twitched as he poured drinks.
+
+She plopped her arms on the bar and gave him her best smile. “Hey! Quick question, do you know anyone who can take people to Vorraska?”
+
+The bartender slid a mug down the counter to someone else, then turned her way with one brow raised. “Vorraska, huh? You’ll wanna talk to Sett. He’s at the back.”
+
+“Sett?”
+
+“He always wears a dark brown cloak and a scarf. Can’t miss him.”
+
+“Oh, okay, thanks!” Chloe chirped.
+
+The bartender was already turning away to help someone else, but gave her a silent nod in return. Meanwhile, Chloe turned and scanned the room.
+
+In the corner, near some barrels, sat a cat guy hunched over his drink. He wore a beat-up looking cloak and a scarf that had definitely seen better days. Most of his face was covered, but his slitted eyes peeked over the mug like he was judging everyone. Oh, and obviously, he had cat ears too.
+
+She made her way back to Raenof. "Hey, I think I found our guy!"
+
+“You found someone who can take us to Vorraska?" Raenof asked.
+
+“Yup."
+
+Chloe gave him a smug grin and pointed to the mysterious looking cat guy. “See that cat guy? He's named Sett and he’s apparently the one we wanna talk to. We should try and ask him."
+
+Raenof gave a small, amused smile. “Lead the way then."
+
+Chloe nodded, then approached the guy in the brown cloak. Raenof followed just behind her.
+
+Sett didn’t look up as they reached his table. He just sipped whatever was in his chipped mug and kept those sharp cat eyes half-lidded, like he’d already judged them and decided they weren’t worth moving for.
+
+Chloe didn’t let that stop her. “Heya, are you Sett?”
+
+The cat man glanced up. “Depends who’s askin’.”
+
+“Chloe,” she said, plopping herself into the chair across from him. “And this is my buddy. We need someone to take us to Vorraska.”
+
+Sett leaned back a little. His scarf shifted as he talked, but it still covered most of his face. “To Vorraska, huh? Sure, I can get you there.”
+
+“Great! So when do we leave?”
+
+"I can get you there… for the right price.”
+
+“Okay. How much?”
+
+Sett gave them a long pause. He even squinted slightly, like he was trying to figure out how many coins they had. Until finally, he spoke again. “Sixty gold. Each.”
+
+"Wait, isn't that like, a lot?"
+
+“That is a lot, honestly it's outrageous.” Raenof added on.
+
+Sett shrugged, entirely unbothered. “Going to Vorraska is gonna be a dangerous trip. You’re payin’ for my expertise to guarantee your safety, so I think my price is more than fair."
+
+“Your expertise is worth five gold at most.” Raenof said.
+
+“C’mon now. I’m doin’ you a favor just by listenin’.”
+
+“Three silver.”
+
+“You tryin’ to rob me?”
+
+“You’re already trying to rob us.”
+
+Chloe watched Raenof and Sett go back and forth, slightly impressed. Wow, this whole arguing about prices seems kinda fun. I wonder what this is called?
+
+“Five silver a head. But that’s my lowest price. Take it or leave it.” Sett finally said.
+
+Raenof nodded. “Deal.”
+
+Chloe threw her hands up. “Cool! So we’re good, right? Can we go now?”
+
+Sett snorted. “Not quite.”
+
+“Why not?”
+
+“I ain’t leavin’ ‘til I’ve got a full group. Three more people minimum. Ain’t worth the trip otherwise.”
+
+“But we paid!”
+
+“You paid early, sweetheart. Doesn’t change my schedule.”
+
+Raenof narrowed his eyes. “That wasn’t part of the agreement.”
+
+Sett shrugged. “You got your price. I got my rules, just come back here in a few days. Positive I'll find at least a couple of other travelers by then."
+
+***
+
+With nothing else to do and no real plan until Sett actually decided to do his job, Chloe and Raenof ended up wandering around Rellstead. Boredom set in fast.
+
+Chloe kicked a pebble down the cobbled road, watching it bounce between the wheels of a passing wagon. “Sooo... any idea what we’re supposed to do while we wait?”
+
+Raenof shrugged. “We could always explore what Rellstead has to offer. Maybe we could relax and take in the local scenery.”
+
+“But that sounds boring. I don’t wanna look at walls and people and trees. Let’s find something cool."
+
+“Not everything has to be exciting, you know. Sometimes, it’s nice to slow down and see how a town breathes.”
+
+“But I don’t care about that. And towns don’t breathe, silly.”
+
+“Chloe… that was a metaphor. I didn’t mean it literally.”
+
+“Sure you didn’t, I totally believe you.”
+
+Raenof let out a sigh. “Think about it, you might find that walking around a new town is more fun than you think. There's still a lot we don't know about Rellstead."
+
+“Sure, but what could some town have that's actually interesting?"
+
+“Tell you what, come with me for a bit. Give it an hour. If you're bored out of your skull by the end, then we’ll do something you pick.”
+
+“Anything I want?”
+
+“Within reason.”
+
+“Ugh, fine.”
+
+Deep down, Chloe wasn’t actually that against the idea of wandering around. Raenof sort of had a point. Maybe there was something fun she hadn’t seen yet. Not that she’d ever admit that out loud. Why let him be smug about it?
+
+So, she followed him as he led her around town, pointing out random stuff that was even a little bit interesting. There was a flower shop, a snack stand selling rats on a stick, and even a guy who juggled knives like it was no big deal. Kinda neat, but Chloe wasn't impressed yet.
+
+But eventually, Raenof brought her somewhere actually cool. The new place had bright colorful flags all strung up between wooden poles. A bunch of equally colorful stalls were scattered around the area too. Chloe could hear shouting, laughing, and something that definitely sounded like a goat screaming.
+
+“Ooooh! What is that?” Chloe asked, pointing to the really colorful place.
+
+Raenof followed her gaze. “Looks like a traveling carnival.”
+
+“A what now?”
+
+“It’s like a moving festival. There's a lot of stuff inside like games, food, and performances. They usually stop by towns for a few days, then move on."
+
+“Oh, that actually doesn’t sound boring! Let’s check it out!”
+
+Chloe was already halfway down the road when Raenof called out behind her. “Hold on. You should know that it usually costs a few coins to play things at a carnival.”
+
+Chloe skidded to a stop and spun back toward him. “Seriously? How many coins?”
+
+“Not many,” Raenof said as he caught up. “Most stalls just ask for copper, maybe a silver or two for the better prizes. Do you have anything on you?”
+
+“Uh… I think I only got gold coins? How am I supposed to get the other ones?”
+
+“We could stop by the bank first—”
+
+“Boooring, that sounds like the opposite of fun. I wanna do stuff now.”
+
+Raenoef sighed, then reached into his cloak and pulled out a small pouch. “Alright, alright. Here, you can use some of my spare change.”
+
+Chloe grabbed the pouch with a huge smile. “Thanks a lot!"
+
+Before he could say anything else, she ran off with zero hesitation. Carnival, here I come!
+
+“Chloe! Please slow down,” Raenof called after Chloe, but she was already approaching her first stall.
+
+The carnival was awesome. Chloe ran from one stall to the next, as Raenof tried his best to keep up.
+
+One thing Chloe figured out real fast, was that most carnival games came with prizes. Some had pretty cool ones too. So obviously, that meant she was gonna try her absolute best to win all of the prizes. Even Raenof seemed pretty interested in some of the stuff on display.
+
+Their first stop was a can-toss game. Chloe missed every throw and immediately felt like the cans were cheating.
+
+However, Raenof knocked them down in one go. He won this funky looking bracelet, which the elf seemed happy about. In contrast, Chloe didn't find the item to be particularly interesting. So, she didn't feel too bad about losing the game.
+
+Next, they passed fire-breathers, puppet shows, and even a guy who failed to make a rabbit disappear. He got bitten for his trouble. Chloe clapped the loudest.
+
+But after that, Chloe and Raenof visited a stall that had the game she wanted to win. It was a massive ring-toss booth, with a sign that proudly said: WIN THE BIG ONE! There were a lot of prizes lined up on a shelf, but there was only one she cared about: a giant plush horse.
+
+“I want that one,” Chloe said, pointing at the animal.
+
+Raenof followed her finger. “The horse?”
+
+“Obviously.”
+
+The game sounded easy enough, just toss a few rings onto a bunch of bottles. But things didn't turn out so great for Chloe. She had a lot of bad throws, with her fourth one hitting some guy right in the face.
+
+“Awww, why is this game so hard?” Chloe groaned out loud.
+
+Raenof had just opened his mouth, probably about to give her some elf wisdom, when he suddenly stopped. His head turned slightly, looking towards the crowd.
+
+“Raenof? What are you looking at?” Chloe asked.
+
+“We need to go. Now.” Raenof said.
+
+“What? Why? I haven’t won the horse yet—”
+
+But he wasn’t listening. Raenof's breathing became shallow and weird. Then, right in front of her, he dropped to his knees.
+
+Chloe took a step forward. “Are you... tired or something?”
+
+The elf's hands hit the dirt. A second later, he coughed up blood. A lot of blood.
+
+Gasps echoed from the people nearby. The small crowd that had gathered to watch the game began to run away.
+
+But all Chloe could do was stare at the elf, confused. Obviously, she wasn't exactly an elf expert. But she was pretty sure that elves weren't supposed to cough up blood and drop to their knees in the middle of the day. That just didn't seem right. What's got Raenof acting all weird?

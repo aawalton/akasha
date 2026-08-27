@@ -1,0 +1,91 @@
+---
+id: dfb567c5-58c0-5cbc-9cd0-16bf370e897f
+page-type-slug: story-chapter-royal-road
+title: "171. Weary Wariness"
+slug: 0171-171-weary-wariness
+partOf: breaker-of-horizons
+position: 171
+ownLength: 2244
+unit: words
+publishedAt: 2022-01-20
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/828481/171-weary-wariness"
+royalRoadId: "828481"
+---
+
+The Lower Library was still haunted by seniors tucked away in various corners, and they paid Caden no mind as he made his way out. The sage at the reception had managed to tame the crowd and it was now somewhat thinned, having turned from a messy mob into a vaguely-ordered line as the juniors came forward to put their names in the ledger and register for the test that would grant them access.
+
+Because the scene was less chaotic, Caden's exit did not go unnoticed. A few curious looks were thrown his way as he emerged from the warded archway leading to the rest of the Lower Library. Thankfully, everyone seemed to have been cowed into silence by the sage and no one left the line to engage with Caden, so he managed to leave without causing a scene.
+
+The shadowy silhouette of the Spire loomed over the grounds, but perhaps because of the Demiurge's latest binding, Caden didn't feel the sense of being watched by unseen eyes. Grateful for this reprieve, Caden turned his back to it and slowly made his way to the dormitory. His steps were sluggish and even though he was rather mentally exhausted from the day's events, he couldn't stop himself from rehearsing in his mind for the first full encounter with the whole group of his once-friends.
+
+The way things were likely to play out probably hinged on whether Devon had shared everything he learned from their morning encounter. If Devon spilled the beans about Caden having the intention to learn how to unmake prophecies, then the twins would likely be hostile. He thought Jerric and Ambrose might be a little more on the fence and just lean slightly towards suspicion, but it then occurred to him that he ought not to be projecting their possible response based on how they had behaved towards him over the past term, because now that he was effectively a total stranger to them they had no reason to think charitably towards him at all. So that meant it was possible, even probable, that everyone would be hostile if Devon clued them in on Caden's personal stand on prophecies.
+
+The best case scenario would be if Devon kept the info to himself for now. The twins would likely be cordial or completely aloof. Jerric would make small talk just to be polite. And Ambrose would probably be very reticent and shy, and give him plenty of space.
+
+He finally got to the dorm and steeled himself. There was no point dithering at the doorstep and trying to plan for every eventuality, and no good would come of putting off the moment of confrontation. He had already made the decision to be here when the Demiurge presented him with the option of staying in the dorm or moving out, so it was time to really commit. He sucked in a fortifying lungful of the cold night air and made his way up.
+
+It was a testament to the effectiveness of the Demiurge's training that even in his state of general weariness, Caden was still capable of partially dipping into oblivion just to be extra safe. After all, he had been attacked in the dorm, and he was now walking into a potential minefield with the Six-Chained-Foundations who were the direct subjects of the Fateweavers' Major Prophecy. It made sense to be on guard.
+
+He hesitated briefly with his hand on the doorknob. There was no stirring in the arcanic sea or oblivion to indicate that anything was amiss. He heard familiar voices, but the conversation was muted by the door so all he could catch was the general cadence — relaxed and breezy.
+
+The doorknob creaked a little under the tightness of his grip as he turned it and let himself in.
+
+It was a scene so familiar that for a moment it felt like nothing had changed. Kevan was lounging on the couch, taking up more space than was necessary, while Lynus occupied what was left. Jerric was in the remaining seat around the low table, a book held loosely in his hand with his attention temporarily diverted by the earlier conversation. Devon was at the dining table with his back to the counter, occupying the seat in the middle, with Ambrose seated across him.
+
+But it was the small details that suddenly jumped out and reminded Caden, very forcefully, that things were not the same. The seat he normally occupied, next to Devon and furthest away from the couch, was tucked firmly against the table instead of being partially-drawn like the rest of the seats. Even though he had sat in it that morning, someone (presumably Jerric) had pushed it back in, and no one had made use of it since then. And Ambrose was also in the 'wrong' spot, because he normally sat across Caden.
+
+Even the reaction to Caden's entrance drove him how these were not really his friends, at least not in their minds. Devon gave him a wary nod of acknowledgement instead of his usual warm smile. Jerric normally offered a gentle bob of his head and a half-grin, but now all Caden got was a look of curiosity. He got no bland pursing of the lips from Kevan, or slight lifting of the eyebrows from Lynus. Instead, the twins fixed him with the measuring looks they reserved for strangers they were sizing up.
+
+And while Ambrose had never really been the most expressive person, Caden had learned to read the microexpressions that signalled recognition, or the slight smile that mostly only showed itself through the crinkle in his eyes. But now Ambrose didn't even meet his eyes — his gaze darted quickly in Caden's general direction and moved on just as swiftly, like a startled deer.
+
+"Hi," Caden heard himself say, his voice impossibly distant even to his own ears. "I'm... I've moved in. Got the last spot. Name's Caden."
+
+"We know," Kevan said evenly, still with that evaluative look in his eyes. He didn't shift from his position at all. "Dev mentioned that Ambrose finally has to share his room."
+
+There was a pause, but an instant before the moment became awkward, Jerric got up and came forward to offer a hand in greeting, and Caden shook it gratefully. "Welcome to the dorm," he said, and finally that half-grin appeared. "I'm Jerric. That guy's Kevan. The other one's Lynus. The two of them like to compete to see who can be the bigger pain. Last term it was mostly Kevan who won, but this term I think I've got my money on Ly."
+
+Kevan laughed while Lynus shot both of them a sour look along with the middle finger. "You've already met Devon," Jerric continued, turning towards the dining table and pretending not to have seen. "That leaves Ambrose, who you'll be rooming with. He's, uh... well, you'll get used to him."
+
+Ambrose gave a pained smile at Jerric, still avoiding Caden's eyes. "That doesn't make me sound good."
+
+Jerric shrugged, but somehow Caden felt the casualness seemed a little forced, like he was trying to cover the moment with the usual level of familiarity they shared and failing to really make it genuine. "He's weird," Jerric supplied, giving Caden a sympathetic smile. "Sometimes shy. Then suddenly intense. Like I said, you'll get used to him."
+
+"I'm sure I will," Caden said. He didn't have to fake his awkwardness at all because even though the banter and their general manner were familiar to him, he didn't feel like he could fit into the casual pattern of interaction they shared with each other.
+
+No one said anything and the moment stretched. In the normal course of things, Devon might have swooped in at that point to steer the conversation, but he appeared to be taking a leaf out of Ambrose's book and was now avoiding Caden's eyes.
+
+"Well... I'm beat, so... I think I'll just get an early night. Catch you guys in the morning," Caden said quietly. That got some noises of general acknowledgement from the rest, and he seized the moment and retreated into his room, got what he needed, and retreated into the shower. He cleaned up as quickly as he could and then hurried back into the room.
+
+The others had resumed their conversation, which appeared to be mostly about their expectations and worries about the term. A part of Caden yearned to join in, but by that point he was mostly too emotionally drained to seriously entertain the idea of putting himself though more awkwardness and heartache by planting himself at the kitchen table next to Devon, so he threw himself into bed and forced himself to empty his mind.
+
+Sleep did not come easily. The voices of the others drifted in and out of his awareness and his tired mind stumbled blearily through the fragments of their conversation, occasionally slipping into vague memories or fragile dreams before meandering back to the fringes of consciousness. He wasn't sure how long they stayed up, but it felt like it was well past midnight the voices died down and were replaced instead with the distant sound of running water, and then, eventually, silence. He half-registered Ambrose coming into the room, moving as quietly as possible, then crawling into bed and pulling the covers over himself.
+
+He almost fell properly asleep, until Ambrose plunged into oblivion.
+
+Caden was instantly awake and he instinctively dived in too, because Ambrose's sudden entrance had felt extremely sharp and purposeful, and the general sense of it reminded Caden on a very visceral level of the attack he had suffered in an identical bed. His auric-ambient-flare tensed into readiness and his mind swept across the area, ready to unravel hostile sequences or phase him out of harm's way.
+
+'I thought so.'
+
+It was Ambrose's mind, which had turned into a pinpoint of pure focus with no emotional slippage at all. His auric-ambient-flare was inscrutable to Caden even in oblivion, offering no insight into his thoughts or present mood. More horrifyingly, while it was still recognisably the Chosen-Blinded-Jailer, the shape was definitely different. He had limbs now, stretching spider-like across the planes of oblivion, not as well-formed or ineffably powerful as a Fateweaver, but definitely of the same nature.
+
+Caden readied himself for an imminent attack and tried to draw all of his own emotional slippage in, and while he managed to veil his thoughts to some extent, it was not as perfect as Ambrose's veil. 'What did you think?' Caden asked, his thoughts slightly coloured with a mix of fear and defiance.
+
+'I suspected you were different,' Ambrose answered evenly. 'Your auric-ambient-flare is... well, poised, I guess. Balanced. Very stable. I guess it's because you've been here, in oblivion. You've stepped in higher planes, and it changes the way you move through the world.'
+
+The alien shape of Ambrose's auric-ambient-flare was obvious, and it didn't appear as though he was trying to hide it anyway, so Caden decided to just come right out and ask. 'And what happened to yours? Those legs. What are they?'
+
+Ambrose didn't answer immediately, and his control over himself was so absolute that Caden couldn't tell if it was hesitation, or careful consideration, or some other thing that delayed the response. When Ambrose finally replied, his tone was still calm and even. 'You'll probably know eventually, if you don't already know, but I'm not comfortable talking about it yet. There are things about you I want to know too, but obviously I don't expect you to bare your soul just because I asked. Let's just get to know each other in the normal way first. And then if this stuff comes up again... well... then we'll cross that bridge when we get to it. How's that sound?'
+
+Caden watched the limbs with a mounting sense of trepidation, especially when he noticed how they were positioned in a way that seemed to match the pattern of the Fateweaver he had met — they were touching other points in time and space, anchoring Ambrose in ways that Caden didn't understand at all. How far along was he on the path to being a Fateweaver? Was he, even now, forming knots in an attempt to catch Caden? It would probably be futile, but it still felt like he was being carefully maneuvered into a position to be attacked.
+
+'That's reasonable,' Caden answered slowly. 'But I also know enough about these higher planes to know that you might be trying something beyond my ability to perceive. How do I know that you're not going to catch me off-guard with something?'
+
+For the first time, Caden caught a little bit of slippage. Ambrose seemed taken aback, and a little indignant. 'Because I'm not that kind of guy. You can trust me.'
+
+Caden managed to stop himself from blurting out 'Can I?' although he wasn't entirely successful in veiling every smidgeon of suspicion. 'I guess I'll have to take your word for it,' he replied, resigned.
+
+Ambrose intentionally dropped more of the veil so that Caden could read the sense of gratefulness and optimism in his auric-ambient-flare. Then, without another word, he dropped out of oblivion. Caden lingered for a moment longer, then followed suit.
+
+"Goodnight, Caden," Ambrose said softly, before turning over to his usual sleeping position.
+
+"... Night," Caden answered, beating back a wave of nostalgia. When sleep finally came for his exhausted mind, he surrendered gratefully.

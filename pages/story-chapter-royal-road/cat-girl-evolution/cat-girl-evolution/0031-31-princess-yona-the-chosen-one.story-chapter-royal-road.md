@@ -1,0 +1,173 @@
+---
+id: 492f52af-2566-5072-832b-42ccdbb71b3e
+page-type-slug: story-chapter-royal-road
+title: "31 - Princess Yona, the Chosen One"
+slug: 0031-31-princess-yona-the-chosen-one
+partOf: cat-girl-evolution
+position: 31
+ownLength: 2414
+unit: words
+publishedAt: 2025-10-03
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2647650/31-princess-yona-the-chosen-one"
+royalRoadId: "2647650"
+---
+
+I’ve been fighting for a little while now, but I feel great! This sword is awesome! All my mana gets replenished by killing things, and all my fatigue gets washed away by the blood it absorbs, or however that works. I don’t think it makes total sense, but whatever.
+
+The sword looks awesome now too. Before, there were just really thin vein-looking things running along the blades, but now they’re all dark red and glowing, and every time I get another kill, they glow more. I haven’t used any of the charges to supercharge my attacks or healing yet either, which I really want to do. I was saving them for Skarn, so now that he’s here, I’ll finally have a chance!
+
+Not immediately though. He doesn’t deserve to die so quickly.
+
+“You look angry,” I call as he approaches. “Something wrong?”
+
+He doesn’t answer, and just keeps walking forward, brandishing his trident. I lift the severed head up and take a bite out of the neck. He loses whatever calm he had left and charges forward, moving so quickly he turns into a blur. Unfortunately for him, as fast as he is, I’m just as fast.
+
+I store Flarn’s head in my Stomach and Blink out of the way as he thrusts his trident forward, sending out a wave of mana that demolishes the wall of a house ten meters behind where I was standing. I definitely shouldn’t get hit by that.
+
+He turns to face me, preparing to charge again, but I swing my sword and Blink again, appearing right above him, swinging down. He raises his trident to my attack, and the two weapons collide with a thunderous boom that sends a shockwave outward. The force of the collision numbs my arms and vibrates my body. He seems unfazed. His Power is much higher than mine.
+
+He twists his Trident, threatening to tear my weapon from my hands, I Blink away, reappearing on the beach behind him. We both turn to face each other, and for a moment, neither of us move. Then, he speaks.
+
+“You killed Flarn.”
+
+“And ate her,” I agree.
+
+“You will die now,” he says with a scowl.
+
+“Oh, did you care about her or something?”
+
+He charges and I teleport away again.
+
+“Angry that she’s dead?”
+
+I avoid another attack.
+
+“You know, I cared about some things too.”
+
+I blink behind him, swinging my sword horizontally. He blocks again, but it’s at an awkward angle, and he is forced to take a step to the side to fully absorb the attack.
+
+“I had a good life,” I say, as our weapons are stuck in a deadlock.
+
+He twists his trident again, trying to disarm me, but I’m prepared this time. I resist just long enough for him to put his full effort in, and then, instead of blinking away, I unsummon the sword. He loses his balance slightly, and in that brief split second, I step in and use Spatial Slice. I sense a wave of mana rush through his body as his size increases and his skin becomes covered in scales. He raises an arm to defend, and my claws hit his scales just as he finishes transforming. While they easily cut through the flesh, they can’t quite make it through the bone.
+
+He turns to thrust his trident at me again, so I blink out of the way, leaving him bleeding on the sand.
+
+“I had a nice house,” I say, resummoning my sword as he looks down at his wound. “It always smelled like bread.”
+
+He shakes his arm, sending blood flying everywhere, then charges me again. I duck under the thrust, swinging upward. With impossible speed, he manages to pull his trident back and once again intercepts my attack.
+
+“I had an unlimited supply of fish. And not even the kind that looks like you!”
+
+He tries to disarm me, and I try the same trick as last time, but he’s ready for it. As my sword disappears, his trident does too, and it reappears in his other hand, stabbing toward me as I attack. I Blink out of the way, but just a split second late, and it stabs a half centimeter into my stomach.
+
+As I reappear on the sand, it’s my turn to look down at my wound. It’s not deep and it’s already healing, but it hurts. I don’t like that. Not at all.
+
+“I had a neighbor who would always give me milk,” I say, glaring at him.
+
+He charges again, and again, I choose not to Blink away. I have more mana now, but Blinking in this form costs more mana than doing so in my cat form. And while I’m getting a small trickle from my sword, the regeneration isn’t enough for a sustained battle. Not without doing some more damage, but it looks like the Big Fish Dude sent all the seafoodmen away.
+
+My sword hits his Trident again, and before he can try to disarm me again, I pull it away and swing again. At the same time, I conjure a mana hand disconnected from my body and send it at his leg. It doesn’t have much mana in it, so he chooses to ignore it, probably thinking he can tank the attack. Unfortunately for him, it’s not an attack.
+
+As our weapons clash, my mana hand reaches his ankle and pulls hard to the side. He’s strong, and quite heavy, but that’s it. He’s got nothing anchoring him to the ground. My mana hand lifts and pulls getting his foot off the ground and forcing him to spread his legs. With his balance lost, his trident falters, and I use the opportunity to extract my sword and swing it at his unprotected flank.
+
+He surges with mana again, and just as my sword is about to hit, it all coalesces in his scales and his whole body turns gold. My sword hits him cleanly, but barely gets more than a centimeter in. I was even using Spatial Slice.
+
+And his defenses aren’t the only thing that got improved. As this happens, my mana hand suddenly dissipates, and he plants his leg firmly back on the ground. With his newfound stability, he strikes at me with his trident, faster than ever before. Once again, my Blink is too late, and his trident makes it halfway through my stomach before I can get out of the way.
+
+I’m pretty sure that hit some important things. I’m sure that Calorie Burner will heal me up eventually, but this fucking hurts. I’m not waiting for that. Gluttony Sword, heal me!
+
+A surge of energy enters my body, as the red fades from the sword’s veins, leaving only glowing white. In a blink, my stomach is healed. Not only that, but I can still feel the energy within, coursing through my veins. It’s dissipating quickly, but it feels like I just took a dozen doses of super soldier serum. Looks like we’re both getting a buff this fight.
+
+“I had-” I start again.
+
+“Shut up!” he yells, charging.
+
+His scales are still gold, and he’s still faster, but now I’m faster too. I dodge again. And strike back.
+
+“I-” I try to say again.
+
+“I. Said. Shut. Up!”
+
+With every word, he strikes harder and harder, but with my empowered body, I’m able to avoid them all, and this combo seems to exhaust some of his energy letting me go on the offensive.
+
+“No!” I say. “You don’t get to say that! I had the perfect life! Shelter! Water! Unlimited food! Entertainment!”
+
+It’s my turn to strike with every word, and every time I do, he takes a step back. Both our body empowerment effects are dissipating, but his is going out faster. He’s struggling to keep up.
+
+“I had a family!” I say. “One that actually cared about me! And you took it all!”
+
+I deliver a powerful overhand attack that makes his knees quiver.
+
+“And now you’re mad about a stupid fish girl? Nuh uh! No way!”
+
+I ready for another strike, but he does something unexpected. He runs. He just turns around and flees.
+
+I chase after him, but a horde of seafoodmen emerges from the water to block my path. I Blink forward, but it’s not quite far enough. I end up surrounded by seafoodmen, and I’m forced to kill them before they can reach me. Mana and blood flow into the sword as a single strike kills dozens, but that small delay was enough for the Big Fish Dude to reach the edge of the water and stab his trident into it.
+
+The second the weapon hits, I sense a dangerous level of mana leave his body through the weapon and enter the water. The water seems to start boiling around him, and begins rising up in tendrils. I’m not sure exactly what he’s doing, but based on the amount of mana, it’s some kind of ultimate move that I don’t want to be on the receiving end of.
+
+“No you don’t!” I shout.
+
+Snatch!
+
+For a full second, our wills wrestle with each other as he resists the teleportation. I have to swing my sword again to stop the incoming seafoodmen. Then, his will breaks first, and he reappears in front of me. Behind him, the mana dissipates and the water settles back down. Time to use my sword’s other charge.
+
+I start up a Spatial Slice and will the mana from the sword to empower the Skill. The white veins turn black and the mana gathers around the sword. I swing down at the Big Fish Dude who has given up on fleeing. He turns to face me, raising his trident as his scales turn golden again. I didn’t think he had another charge of that left in him, but it doesn’t matter, it won’t be enough.
+
+My attack comes down, and it leaves a trail of inky blackness behind as it slices down, into the trident and through it. Into the Big Fish Dude and through him. Into the sand and through it. Into the water and through it. Like a two dimensional plane, the blackness hangs there for a moment, then vanishes.
+
+After that, for a second, nothing happens. Did it fail?
+
+Then, the sand shifts. The water splashes. One of the prongs of the trident falls to the ground. The Big Fish Dude falls to the ground in two pieces, an impossibly clean cut going from his left shoulder to his right hip.
+
+He tries to push himself up, but with his body no longer in one piece, he only succeeds in rolling the top part of his body over with his one still-attached arm. His heart is cut in half, and blood is pouring from his body. The light in his eyes fading fast. Before he dies, I walk up so that I’m standing right above him so he can see me.
+
+“I’m going to eat you,” I say. “And I’m going to enjoy it.”
+
+Then, he dies.
+
+[ You have defeated Skarn, Ruler of the Shore, Tier 3, lvl 4. Bonus experience for defeating an enemy above your level! ]
+
+[ Title earned: Taker of Names I ]
+
+[ Yona, the Gastronome, 1 → 18 ]
+
+[ +612 Power, +1224 Finesse, +714 Resilience, +663 Memory, +663 Willpower, +1224 Sensitivity ]
+
+[ Beginner Mana Vivitect, 16 → 20 ]
+
+[ +16 Power, +16 Finesse, +16 Resilience, +96 Memory, +96 Willpower, +80 Sensitivity ]
+
+[ You have reached a Class Upgrade threshold! Would you like to initiate Class Upgrade? ]
+
+“Well done.”
+
+Thanks.
+
+“...Do you want to talk about it?”
+
+What, my Class Upgrade?
+
+“Nevermind.”
+
+Well, I can’t do it now anyway. Too many seafoodmen around. I believe that I promised to kill them all, didn’t I?
+
+“That you did.”
+
+Well, then let’s get to it.
+
+Lauren had sent for reinforcements shortly after her first encounter with the Named monster. She tried to find its base, and while she sort of did, she also found that it was half underwater, and underwater was not her specialty. She used one of her rare, expensive, emergency communication artifacts to send a quick message back to the Guild, then started doing some guerilla warfare.
+
+It was known that Leader type Named monsters relied on their subordinates to advance. Or at least, to become higher-level threats. She couldn’t defeat the Named monster by taking out its subordinates, but she could keep its overall threat level down until more qualified help arrived. She tried to keep it on its toes, going in and out at odd times, killing as many weaker monsters as she could, and slipping away when the Named monster itself arrived with its entourage.
+
+She was on a nearby hill preparing for another such raid when she suddenly felt an immense surge of mana from the direction of the village. She had once gone to a demonstration put on by an Adventurer approaching High Platinum, and he had shown off one of his signature skills. It was the strongest Skill she had ever witnessed, and from what she could tell, this surge was from something at a similar level.
+
+Did the reinforcements arrive already? she wondered.
+
+She rushed toward the village, arriving within a few minutes, and what she found was not at all what she expected. She had expected mass destruction, or at least evidence of a large attack, but there was nothing. There was evidence of combat, certainly, with blood covering half the village, and many of the houses showing signs of damage, but strangely enough, there were no corpses.
+
+She activated all her stealth Skills and crept forward. The entire village was the same way. Blood and damage everywhere, but no bodies. She couldn’t sense any monsters nearby either. However, she could sense a powerful mana source from down by the beach. She continued moving forward, darting from house to house to stay hidden until she made it to the edge of the village, and there she saw it.
+
+In the middle of the blood-covered sand, a single woman stood. Somewhat short, with shoulder length black hair, bright green eyes that seemed to glow in the moonlight, and a sword bigger than she was resting on her shoulder. She also had a pair of obviously feline ears on her head, and a twitching tail poking out from beneath her bloodstained dress.
+
+A beastperson? thought Lauren. Impossible.

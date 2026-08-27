@@ -1,0 +1,119 @@
+---
+id: 5a3945c2-21a0-5d3f-825d-988d13360ea5
+page-type-slug: story-chapter-royal-road
+title: "181. Stranger Danger"
+slug: 0181-181-stranger-danger
+partOf: breaker-of-horizons
+position: 181
+ownLength: 2115
+unit: words
+publishedAt: 2022-02-24
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/852296/181-stranger-danger"
+royalRoadId: "852296"
+---
+
+Caden was sorely tempted to tell Bertram to cut his losses. After all, there was more than enough on his plate at the moment, and he didn't need or want the additional baggage that came with dabbling in arcanophanic contraband. It was admittedly helpful to have a senior to rely on for some things, but if it was just a matter of weighing who he could learn more form, then he had a much better offer from the augera — they were apparently willing and able to 'gift' him any knowledge he wanted.
+
+But he bit his tongue. Bertram had shown quite a bit of faith and goodwill so far, and even if his motivations were a little mercenary or self-serving in nature, he was at least scrupulously transparent about it. Plus, despite the illicit nature of his business, he seemed benevolent at his core, and there was a quality of trustworthiness about him. Furthermore, Bertram had rightly pointed out that he had already shown great trust and vulnerability that Caden hadn't yet earned. It seemed only right to reciprocate.
+
+He opened his mouth to say something to that effect, but Bertram cut in first and pointed his fork at Caden again. "You know, forget what I said. If you're about to tell me stuff just because I've told you stuff, then I don't want to hear it."
+
+"What?" Caden asked, bewildered.
+
+"Yep. Something just occurred to me. So let me put this out there." He took a deliberate sip of water. "You tell me the name of which professor is helping you, and I'll still hang around so you can benefit from my company. We'll also leave the possibility of working together on the table. But I'll never press you for personal information ever again."
+
+Caden frowned. "Why do you even assume a professor is helping me?"
+
+Bertram looked like he was trying very hard not to roll his eyes. He gave a bland smile. "C'mon. It's kinda obvious. Even I had help. As a matter of fact, I'm still getting help."
+
+"From which professor?" Caden's curiosity was getting the better of him. He only realised after the question escaped his lips how unfair it was of him to ask that question expecting an answer given the circumstances. But if Bertram felt any irritation or indignance, he didn't show it. Instead, he shrugged and replied, "Reeves."
+
+The ease with which he gave out this information did surprise Caden. "Okay, so let's say I really am getting help from a professor. Why does it matter who it is? Why is that the most important piece of information, to the point where you're willing to forfeit any other answers you might get from me?" he asked.
+
+"The simple answer is that it involves staff politics, and that affects my business," Bertram replied simply. "As for the more complex answer... well, that's for business partners. So, to sum up, these are your choices. You can tell me nothing, and I'll take this as the regrettable conclusion to our collaboration. Or you can just tell me the name of the professor who's helping you, and I'll never press you for personal information, but I'll still be open to collaboration. What's it gonna be?"
+
+Caden didn't reply at once. Instead, he got started on his food, since he had barely touched it so far, whereas Bertram was already more than halfway done with his own meal. And as he chewed, he thought it over. Bertram continued eating as well, apparently happy to wait for him to consider all the angles.
+
+In the end, Caden couldn't really find a compelling reason to not tell Bertram that he was receiving lessons from the Demiurge. It seemed a small price to pay for Bertram's continued presence, and it also came with the promise that he wouldn't have to actually answer any more personal questions.
+
+"If I tell you," he said at last, "you really won't ask me any more personal questions?'
+
+"That's not what I said," Bertram clarified with a grin. "I said I wouldn't press you for personal information, but I reserve the right to just ask nicely, once, and then leave it up to you to decide whether you want to answer. And if you don't, that's completely fine."
+
+Caden gave a wry smile. "Alright, that's fair. I'm getting private lessons from the Demiurge."
+
+This was the first time Caden saw Bertram completely nonplussed. He froze, then blinked a few times before shaking his head slowly in disbelief. "Okay. I mean, I didn't think it'd be your own father, because from what I know he's not the sort, but... uh... I definitely didn't expect it to be the Demiurge."
+
+"What do you mean my father's not the sort?" Caden asked, curious.
+
+"Well, he doesn't have time to play the political game or play favourites with students when he's so busy with his pet project," Bertram answered casually. "You know, the one with those spheres of his."
+
+At the mention of the spheres, Caden felt suddenly cold, but he forced himself to match Bertram's casualness. "I don't get it. What does playing favourites with students have to do with staff politics?"
+
+"Again, partner-only information," Bertram smiled. "Anyway, he's kinda like Celwyn. He's got certain principles. So even though it looks like he's a lot more free nowadays, I don't think he's interested in ever getting tangled up with the politics."
+
+"A lot more free?" Caden echoed, swallowing the lump in his throat.
+
+Bertram nodded. "Yeah. That orb project... I thought it had real potential. Had buyers lined up, but he wasn't interested in ever selling. And now it looks like he's finally abandoned the whole endeavour."
+
+"What do you know about it?" Caden asked, trying to ignore the pounding of his heart.
+
+"I was actually hoping you could tell me," Bertram said, regarding him seriously. "But then again, I figured that there's probably a simple explanation for why it didn't work out. The Prophecy won, didn't it? It got him in the end. Froze him out of his efforts to circumvent prophetic threads."
+
+"What's going on here?" Caden demanded. He didn't remember springing up from his seat, but he found himself suddenly looking down at Bertram, with blood pounding in his ears. "How... how do you know that?"
+
+"Partner-only information," Bertram repeated, this time looking very solemn.
+
+"Are you with the Fateweavers?" Caden asked, stretching his senses out to their fullest extent as he balanced on the edge of oblivion. Bertram, the clever-potent-needle, seemed to be confined to the level of the arcanic sea, and he didn't exhibit any of the oblivion-level capabilities that Ambrose had so clearly shown. Still, Caden felt threatened because Bertram somehow knew far more than he had any right to about the prophetic orbs.
+
+Bertram raised an eyebrow. "Is that a serious question?"
+
+"It is," Caden hissed. "Answer me!"
+
+"Probably not in the way you're thinking," Bertram said softly, regarding Caden with a little worry now. He sighed heavily. "Fates, you're not just trouble, you're big trouble, aren't you? Maybe I really should cut my losses."
+
+"No, you're not going anywhere until you tell me how you and Reeves know about my father's work, the Prophecy, and how you're both connected to it," Caden said, placing his hands on the table and leaning forward.
+
+Now, Bertram finally looked a little irritated. "You're not even the Chosen One. Why do you get to make demands of me?"
+
+"Because you're talking about my father's work. And what makes you so sure I'm not the Chosen One?" Caden challenged.
+
+"Because it's Ambrose, not you," Bertram shot back, a little anger creeping into his tone. But then he reined himself in and shook his head. "You've got no idea what's going on here. Sit down, freshie, before you hurt yourself."
+
+The words were condescending, but Bertram sounded a little sad, and the strangeness of the whole situation gave Caden pause. He slowly sat down, breathing hard.
+
+"So the Demiurge is helping you." Bertram sighed. "From where I'm standing, that means you're marked for something huge. Professors don't usually tutor anyone privately. There's a... well, not a game exactly... but there's a thing that they get involved in, and a part of that requires getting students involved too. Whichever professor wins this 'game' basically gets to decide who the next Demiurge is. Now that's a big deal by itself, but the main prize is not really about the prestige or power. Well, it is about power, but not in the usual sense. It's mostly to do with the little-known fact that the Demiurge has access to the Fateweavers. That kind of closeness is a privilege, and also immensely useful, as you can imagine."
+
+This was all news to Caden. He had assumed that the role of Demiurge was something that was decided solely by the Fateweavers, or perhaps by the Demiurge's own election, so he wasn't sure if he believed Bertram entirely. But some of what he said did match with certain facts that Caden had learned over the course of the past term. Kant and Reeves definitely had some sort of tie with the Fateweavers that marked them out from the rest of the professors, because they had both been spared from the memory alteration involving Caden. Also, the Demiurge himself had shared that he was essentially meant to serve as some sort of third-party check and balance on the Fateweaver's virtually limitless freedom and power.
+
+"Did you sabotage my father's orbs in any way?" Caden asked through gritted teeth.
+
+"Were you listening? Of course not. I had buyers lined up," Bertram answered, looking genuinely offended.
+
+"But when he refused to sell... did you do it as revenge? Or as part of this 'game'? Did Reeves or someone else put you up to it?"
+
+"You'll want to check your facts before you go around making unfounded accusations," Bertram said coldly. "Because as far as my intel goes, the last person to have a functioning orb was you. And then somehow, shortly after he gave his only other working orb to you, all of his orbs died. Oh, he kept them floating all over with him, and he's still got them with him today. But they're not working anymore. Or at least not performing their intended function, which is to shield a person from prophetic links."
+
+"How do you or Reeves know all this?" Caden demanded.
+
+"Parter-only in—"
+
+"Partner-only information, yes, I know," Caden snapped, exasperated. He got to his feet again and paced agitatedly in the sliver of space they had near the table within the privacy barrier.
+
+"Look," Bertram sighed. "I know how this looks. I'm sitting here dishing out secrets about you and your father, and you've only just met me yesterday. But you can trust me when I say I'm not here as your enemy. Now, if you haven't lied to me about the Demiurge being the guy who's teaching you privately, then I think we can make this work, because from what I figure, he and Reeves aren't... well, they aren't outright enemies at least. I'll be honest, though, the idea is becoming less and less appealing to me, because frankly, this seems like it's going to be a lot more trouble than it's worth."
+
+"Oh yeah? Then why are you even bothering? Why aren't you cutting your losses?"
+
+Bertram rolled his eyes. "Because you've got an I'm-a-kicked-puppy sort of look and I feel sorry for you, alright?"
+
+"You're doing this because you feel sorry for me?" Caden didn't know whether to feel indignant or not.
+
+"It's a contributing factor," Bertram muttered, looking away for a moment. "But then there's also the undeniable excitement of getting involved in big stuff with a big potential payoff. Though, as I said, I'm seriously weighing the cons here."
+
+"Well weigh them more, then," Caden ground out. He turned to leave, but before he crossed the privacy barrier, Bertram got up and stopped him with a hand on his shoulder.
+
+"Sorry, you don't get to tell me what to do," he said firmly. "I'll do my own risk-assessment, thanks. And as part of that risk-assessment, I say we get some work done. You get to see my scanning pulse sequence, and I get to watch you work as you de-construct it. You still up for that?"
+
+As much as Caden wanted to say no, he was genuinely interested in parsing Bertram's sequence and picking up a new sequence to add to his arsenal. He gave a curt nod, then led the way to the duelling chambers, with Bertram following in his wake.
+
+This time, though, they walked in complete silence.

@@ -1,0 +1,224 @@
+---
+id: 08e17cd0-b01a-5561-aad6-c8ef1094fa19
+page-type-slug: story-chapter-royal-road
+title: "174 - Saintess' {Rune of Fate}"
+partOf: bunny-girl-evolution
+position: 41
+ownLength: 3538
+unit: words
+ownProgress: 3538
+publishedAt: 2026-02-21
+link: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3076983/174-saintess-rune-of-fate"
+royalRoadId: "3076983"
+markedReadAt: "2026-06-29T20:03:58.913Z"
+---
+
+“Changed? What do you mean?” responded Elise quickly.
+
+“It’s not {Rune of Fate} anymore! It’s Divine Restoration, and then in parentheses, (Rune of Fate)! And it doesn’t have any of that weird glitched text anymore!”
+
+Elise took a moment to process her words. She had been expecting Jessie to finalize her own {Rune of Fate} sometime soon, so this hadn’t come out of nowhere. It really threw a wrench into her boring day, and she needed a few seconds to re-adjust, but once she did, she started to get excited. “Divine Restoration” sounded like exactly the kind of Skill that would be able to heal Jag.
+
+“That’s great!” replied Elise. “Ah, but you can’t come over tonight.”
+
+“Why not?”
+
+“I have to go into the Dungeon with my club.”
+
+“Oooh, sounds like fun! Can I still come over tomorrow, though?”
+
+“Of course!”
+
+“Also, can we go into the Dungeon this week sometime? I’ve never seen a real monster before!”
+
+“Sure,” said Elise. “Can you get your own Dungeon Pass?”
+
+“Not a chance. Not if you’re not with me.”
+
+“We’ll be limited to the uppermost regions then, but it should be fine,” replied Elise.
+
+“Yay!”
+
+“It probably won’t be as exciting as you expect,” said Elise. “The monsters up that high aren’t very strong or interesting, and some of them are actually pretty gross.”
+
+“I grew up in Australia.”
+
+“Oh. Right. Well, we should still see if we can get you a Dungeon Pass so you can go into the deeper regions. I haven’t been down that far, but the caverns are way bigger and more diverse when you go deeper, and the monsters are more interesting.”
+
+“Sounds like a plan! So your place tomorrow and Dungeon Wednesday?”
+
+“I’m busy on Wednesday too,” said Elise. “More club stuff. But I should be good on Thursday. I think. I’ll need to double check, but I don’t see why not.”
+
+“Hooray!”
+
+Class started soon after, and they could no longer continue their conversation, but Elise was in high spirits, and was hopeful that she could get Jag healed sooner rather than later. Jessie hadn’t given any details on her new Skill, but there was plenty of time for that in the future. For now, Elise tried to pay attention to Emmett’s lecture as he talked about some history behind different uses of cosmetic aetheric illusions.
+
+Aetheric Illusions had started off with a bang as Emmett dumped classified secrets on the students left and right, followed immediately by Erin making them question reality, but ever since then, it had been rather bland. Rather than covering the kinds of illusions that Erin had shown off on the first practical lesson, Emmett and the kitsune were mostly covering much simpler, more common illusions. They both promised they would get more extreme later, but they wanted to make sure that the students had a solid foundation before they pushed them too hard.
+
+Elise didn’t mind this, because the lectures were always interesting, and always gave her ideas on how to use her own abilities, but she was still a little disappointed. The types of illusions Erin used were now weak enough that they didn’t even penetrate Elise’s natural aether, meaning she couldn’t work toward unlocking {Soul Defense}. She had resolved that next class, she would explicitly ask Erin to try harder for her, but for now, she was stalled.
+
+The cosmetic illusions were interesting though, at least. According to Emmet, beauty was not entirely subjective, but with aether, a faint sense of attractiveness could be achieved without great physical appeal. There were a number of ways this was accomplished by various Skills, but generally, the main method was to cause the target to look closer at specific features and subtly influence them into finding them attractive. For example, in the case of more upstanding professions, it might have been the eyes or lips or hair, while in the case of the red light district, it would be… other body parts.
+
+Could I do something like that with {Suggest}? Elise wondered.
+
+She let her mind wander as she thought about it for a minute or so, ultimately concluding that, yes, it should have been possible. Though it would require some very precise and clever uses of the Skill. It would be similar to how she used it in combat, conveying general emotions, rather than words. It would also have to be far more precise. Her current combat use was crude and focused on overwhelming her target’s subconscious rather than making sure they felt any specific emotion. Making a target only subtle feel attraction, let alone for a specific part of her body would be an extreme exercise in control.
+
+And a great way to level up {Suggest}...
+
+{Suggest} was a staple Skill for her, so it was near the top of her priority list for Skills to level, and subtle control like this would likely do wonders for it. It would probably make her combat use more efficient too, if she could master the art of invoking specific emotions. She might even get a new Skill out of it. Using {Suggest} to mimic a cosmetic illusion probably went far enough beyond {Suggest}’s intended use that it would earn her a Skill Quest. At least, it seemed like that should have been the case.
+
+Finding targets that she was willing to test on would be a little harder, but she could just go to a tavern in disguise if she needed to. It would be a little bit annoying to go out of her way like that, but she really didn’t want to test it on anyone she actually knew.
+
+The lecture ended a few minutes early, with Emmett getting through his material more quickly than he anticipated. As soon as he dismissed them, Elise turned her attention back to Jessie, but before she could say anything, two voices called her name.
+
+“Eleanor!”
+
+She turned to see both Samantha and Cassian looking at each other in surprise.
+
+“You can go first,” said Cassian.
+
+“Oh, alright,” said Samantha. “Hey, Eleanor, I managed to get my silver Dungeon Pass yesterday. Wanna go in together sometime this week?”
+
+“Oh, I was actually gonna ask the same thing,” said Cassian. “Class Dungeon trip?”
+
+“Ooh!” said Leonidas. “That sounds fun!”
+
+“Can I come?” asked Sophie.
+
+“Of course!” said Cassian. “You’re in the class, aren’t you?”
+
+“Sure,” said Elise.
+
+She wanted to go hunting on her own, but if she was with her Aetheric Illusions classmates, she would be able to let loose a bit more than she would with her future Fighting With Nature clubmates. Besides, it sounded like fun. They wouldn’t be able to go anywhere too deep, and she knew at least that she, Cassian, and Leonidas were more than enough to handle anything in the Silver regions, so it would be a casual trip.
+
+“Oh, Eleanor and I were gonna go Thursday night!” said Jessie. “Maybe we could all go together?”
+
+Elise looked at the Saintess and raised an eyebrow, but Jessie seemed very excited. She had been cooped up in the church for over a year, so an outing with friends, even if it was to a place like the Dungeon, probably sounded like heaven.
+
+“Yeah!” agreed Cassian.
+
+“Yo, Hugo!” called Leonidas. “Three. Helene. You wanna come?”
+
+“I’ll come,” said Helene. “I already have a gold Dungeon Pass, so I can bring passless people in the silver regions.”
+
+The entire group turned to her in slightly shocked silence as she smiled coyly.
+
+“I have plans,” said Hugo before turning to leave.
+
+Three seemed to hesitate for a few seconds before she too shook her head.
+
+“I shouldn’t,” she said.
+
+“C’mon, it’ll be fun!” said Leonidas.
+
+“...Maybe next time.”
+
+She nodded apologetically, then she turned to leave as well. Leonidas shrugged and turned back to the rest of the group with a wide grin.
+
+“Well, six is plenty!” he said. “Thursday night?”
+
+The entire group nodded and gave confirmation that the timing worked for them, then parted ways. Elise was pretty happy with how the discussion had gone, but as they all left, she noticed that Samantha seemed a little… disappointed? Whatever aether suppression Skill or artifact she had blocked Elise from being able to sense her emotions, and Samantha’s face didn’t show it, but somehow, Elise got the subtle sense that the conversation hadn’t gone quite how she planned.
+
+Did she want to go with me alone? she wondered.
+
+She never got a chance to ask, unfortunately, as she had to head to her next class. In Defensive Gardening, they continued their unit on the magical moss they were working with that produced hallucinogenic spores when touched. On its own, this did not do much, but it was a very persistent organism, and it could grow on almost anything, so they combined well with many other defensive plants, including the tanglethorn.
+
+The moss was also very resilient and easy to grow, so most of the unit was spent working on avoiding its effects, rather than caring for it. Poor Arthur in the back of the class earned his second strike on Sucri’s shitlist when he accidentally tore a hole in his mask while goofing off and inhaled some of the spores. She had cured him of the effects quickly, but not before he embarrassed himself by trying to hit on one of the wooden poles that the moss was growing on.
+
+After class, Sophie went up to Professor Sucri and asked if Sucri would take her into the Dungeon so she could earn her Bronze pass. Sucri didn’t look very keen on the idea at first, but when Sophie explained that she had gone into the Dungeon with Elise and that she had been killing 3rd Tier monsters on her own, she was intrigued.
+
+“What do you think?” asked Sucri, turning to Elise.
+
+“I think she’s ready for a Bronze Dungeon Pass,” said Elise.
+
+“Hmmm…” said Sucri. Then, she shrugged. “Alright. Are you free tonight?”
+
+“Yes!” said Sophie excitedly. “So soon?”
+
+“I have every other evening this week booked out,” said Sucri. “But if tonight works for you, we can do a quick evaluation. I’ll have the paperwork ready. Does eight o’ clock sound good to you?”
+
+“Yep!” said Sophie.
+
+“Then we’ll meet at the southwest Dungeon entrance at eight,” said Sucri with a smile. “See you then!”
+
+“See ya!” said Sophie.
+
+Intermediate Unattributed Spells was just as uneventful as ever. The students made progress on learning {Levitate}, and that was about it. Liam Grane made some snide remarks about commoners just loud enough for Elise to hear, and then proceeded to accidentally fall on his rear for his next two attempts at levitation. Elise herself wasn’t much better, having not yet figured out how to keep herself stable while in the air, but she was improving. {Telekinesis} had been leveling steadily, and it was efficient enough that she could hold herself up for about a minute, as long as she didn’t mind slowly rotating. Stability was taking longer to figure out, but she felt that once she got it, {Telekinesis} would take a leap in levels, and her efficiency would improve.
+
+Cassie had made great strides as well and could now hold herself up too. It was only for a few seconds before her mana pool gave out, but compared to where she started when she and Elise first met, it was a great improvement. Elise also learned in this class that Cassie seemed to have no trouble at all keeping herself stable, so the two of them grew closer as they exchanged tips on how to improve in their weak areas.
+
+In Basic Magical Combat, Elise and Attalaya continued to build a silent, introverted camaraderie, while Sophie attempted to form a much louder, more extroverted one. Attalaya didn’t seem to mind, fortunately, and the three often found themselves near each other, each working on their own specialties when it came to combat.
+
+That night, Elise’s expedition into the Dungeon with the preliminary Dungeon Competition team was surprisingly boring. They stuck to the Bronze areas focusing more on getting a feel for each other’s abilities than actually hunting. Telvir and Elise mostly held back and let the others work. Their slots were more or less guaranteed, so they were more concerned with how the others would do.
+
+The human woman, Hannah, seemed the closest to a lock for the third slot. She was not that powerful, but she was cool-headed, driven, and more than willing to accept advice and criticism from Telvir when he noticed some things she could have been doing better. She acted a bit robotic, but overall seemed like a good person who wouldn’t cause any problems.
+
+The other two were… less competent. Lauri the Ainar was not very strong, and the setting didn’t really help him. As an Ainar, he had racial Skills that dealt with his wings, and many of his combat techniques were dependent on being able to move swiftly… which wasn’t possible in the tight corridors of the Dungeon. At least, not in the Bronze areas. The deeper one went, the wider the caves got, so he would likely be more effective in the Silver and beyond regions, but for now, his display was less than impressive.
+
+Elise did note, however, that he would fit well into the team. She and Hannah were both more backline casters, focusing purely on mana, and while Telvir was an excellent melee fighter, he alone couldn’t hold the line for four other people. Lauri would be able to provide crucial frontline support if he could find a way to use his abilities effectively underground.
+
+The last member, Frank, was easily Elise’s least favorite of the bunch. She hadn’t been too keen on him from the beginning due to his lazy attitude at the club meeting, and it looked like that attitude extended to the Dungeon as well. It was unfortunate, because he was arguably the most talented of the bunch. He was a backline caster like Elise and Hannah, but he manipulated his spells with an ease that neither of them could match, and he had good instincts and a great sense of timing. He just didn’t really care, and spent the whole time yawning and asking if they were done yet.
+
+By the end, the other four were not too pleased with his attitude, but they also recognized that they couldn’t really kick him out of the group either. His power wasn’t great at the moment, likely because he was still low level due to lack of practice, but he was significantly more effective than both Hannah and Lauri at the moment. Of course, as the leader, Elise had the final say on everything, and while she would have loved to replace him with Sophie, Sophie simply wasn’t quite at that level up.
+
+She can get there within the month though, she thought. And then I can kick Frank off the team.
+
+When she returned home from the expedition, Sophie excitedly told her that Sucri was getting her Bronze Dungeon Pass ready, and that she would be able to go into the Dungeon on her own now. Elise congratulated her, and gave her some encouragement, telling her about the unpleasant experience with Frank in the Dungeon. That got Sophie even more fired up than before, and she excitedly ran out into the backyard to practice her nature magic.
+
+“I’m gonna get strong enough to kick his lazy bum!” she shouted as she left.
+
+Elise giggled, then decided to join her, as she needed to work on her own nature magic, since she would be dependent on it during club activities. Elise drained her mana pool three times before Sophie drained hers once, and by then, more than an hour had passed, so the two went back inside for the night.
+
+The next day, classes went roughly the same. It was another lecture day in Aetheric Illusions, unfortunately, but Emmett let them out early again, and the six who sat at the front excitedly talked about going into the Dungeon on Thursday. Samantha joined them in their enthusiasm, showing no hint of disappointment, and it wasn’t until Elise was already in Defensive Gardening that she remembered she had meant to ask Samantha about that.
+
+Guess I’ll have to ask tomorrow.
+
+In Defensive Gardening, they wrapped up their unit on the hallucinogenic moss, and this time, they didn’t get to take it home. It was a controlled substance, and they needed a special license to be allowed to own it. Plus, in terms of defense, it was not like the tanglethorn where they could train it not to harm them. If the spores went off, they would affect everyone in the area who didn’t take any countermeasures.
+
+Intermediate Unattributed Spells and Basic Magical Combat were the same as the day before. Elise and Liam continued their silent feud, and she and Attalya continued their silent friendship. Elise briefly considered testing her theory about {Suggest} mimicking cosmetic illusions on Liam, inspired in no small part by Oberon’s plan to seduce Franz Luger, aka Robert Robertson, but she soon scolded herself. As much as she felt he deserved it, she wouldn’t allow herself to play with anyone’s emotions like that just to get some petty revenge. Probably. The memory of him ordering his guards to knock Sophie’s teeth out made her resolve waver, and she felt that he still needed to be taught a lesson after that.
+
+After her last class got out, she and Sophie met with Jessie by the fountain again. As usual, she had gathered a small crowd of secret admirers due to her aether, but it seemed that the perception that Jessie’s male form was together with Elise was enough to keep them all at a distance. Elise was fairly certain that if not for her, Jessie would have been asked out by a few girls already.
+
+At the Grays’ house, Jessie changed into her base form and a new set of clothes and completely let loose, as she had gotten used to doing. She and Nick had formed a bond as well, and he had gotten into the habit of pouring her a glass of whiskey and ranting together with her about their higher-ups. Bianca didn’t seem all that comfortable with this, and always made sure to cling to Nick’s arm as they talked. Elise knew that neither Nick nor Jessie saw each other in that way at all, but she could completely understand Bianca’s feelings, given how Jessie looked.
+
+After dinner, the five of them—Irylax remained upstairs in her room—spent some time in the sitting room, reading and chatting until Elise got too impatient to wait any longer, and she and Jessie went upstairs to her room.
+
+“So, your friend,” prompted Jessie. “You want me to try and heal him now, right?”
+
+“Please?” asked Elise.
+
+“Of course!” said Jessie. “Though I don’t know how far we’ll get. My Skill is strong, but I can’t use it for very long. It converts my regular aether into divine aether, which is super costly.”
+
+“That’s fine,” said Elise. “As long as we make some progress.”
+
+“Sure. You said you had him in stasis, right?”
+
+“Yes, but before I bring him out, I should warn you that he’s not human.”
+
+“Oh,” said Jessie. “Well, what is he?”
+
+“He’s… a Jagaur.”
+
+“A jaguar?”
+
+“No, a Jagaur. It’s kinda like a centaur, except he has the lower body of a jaguar and the upper body of another jaguar.”
+
+“...Doesn’t that just make him a jaguar?”
+
+“No. He has six legs. And he’s shaped like a centaur. Like imagine a centaur, but replace the horse body with a jaguar body. Then replace the human upper body with a second jaguar body. So he’s got six legs, but the top ones don’t usually touch the ground, so he uses the top ones as arms. Except they’re still just regular jaguar legs, so they don’t work as arms.”
+
+“That sounds… really adorable actually.”
+
+“...It is,” Elise admitted. “But he’s pretty big, and his teeth are very sharp, so I figured I’d warn you. He’s a really nice guy though, so you don’t have to worry about him attacking you.”
+
+“Works for me,” said Jessie with a shrug.
+
+“Alright, I’m going to take him out then,” said Elise. “I need to channel divine aether from my goddess first though, just in case your Skill doesn’t work quite right. I can at least keep him alive if I do that.”
+
+“Sounds good.”
+
+As Elise sent her silent prayer to Titania, she briefly worried that there would be no answer, because Titania might have already died. That thought died quickly as she felt her body flooded with divine aether, proving that at least Titania was still alive, since her automated prayer response was working.
+
+Immediately, Elise summoned her wings and started using {Fairy Dust}, then summoned Jag from Astrid’s Star. As soon as he hit the ground, Jessie’s eyes widened in shock, and Elise felt a strong wave of horror and worry from her as she fell to her knees and placed her hand on Jag’s body.
+
+That can’t be good, thought Elise.

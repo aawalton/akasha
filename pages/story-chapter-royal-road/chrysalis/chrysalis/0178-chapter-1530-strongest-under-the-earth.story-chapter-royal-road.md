@@ -1,0 +1,115 @@
+---
+id: 6938e064-054c-500d-8e3b-54128cf17a23
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1530 - Strongest Under the Earth"
+slug: 0178-chapter-1530-strongest-under-the-earth
+partOf: chrysalis
+position: 178
+ownLength: 1058
+unit: words
+ownProgress: 1058
+publishedAt: 2025-03-17
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2131254/chapter-1530-strongest-under-the-earth"
+royalRoadId: "2131254"
+markedReadAt: "2026-06-29T19:49:32.068Z"
+---
+
+“Who are we?” Chyron bellowed.
+
+“THE LEGIONEM ABYSSI!” the soldiers roared back.
+
+“Who are we?” she demanded again, her voice effortlessly rising above the thunderous march of armoured feet on stone.
+
+“THE SHIELD AGAINST THE DARKNESS!”
+
+“Who are we?”
+
+“THE SWORD OF CIVILISATION!”
+
+“Who are we?”
+
+“THE LEGIONEM ABYSSI!”
+
+“What do you fear?”
+
+“NOTHING!”
+
+“To whom do you bow?”
+
+“NO ONE!”
+
+“FOR HOW LONG WILL YOU FIGHT!?” the Commander roared, her voice crashing like thunder.
+
+“FOREVERMORE!”
+
+“WHO ARE WE?”
+
+“THE FIFTY SECOND LEGION!”
+
+“THE FIFTY SECOND LEGION!”
+
+“THE FIFTY SECOND LEGION!”
+
+With every cry, the soldiers holding the banners lifted them proudly into the air, while the regular troops crashed their fists into their chest plates, causing the deep ring of abyssal steel to shake the walls.
+
+The ants had opened the gate wide enough for the Legion to march through in a column ten wide, and even as she exhorted her soldiers and set their blood to pumping, she was running her experienced eye over the platform the moment she stepped through.
+
+It wasn’t the first time she’d seen the fifth during a wave, but even so… this was something different. The intensity of the mana was absurdly high, and they hadn’t even reached the halfway mark of the wave. Above and below, the outer wall of the fortress formed a sheer barrier, rising into the darkness overhead and disappearing into the void below. The sheer emptiness of that gap between the fortress and the rest of the fifth was mind-bending to look at, but she didn’t pay it much mind.
+
+No, what caught her eye was the platform itself.
+
+As the Legion marched through the gate and over the bridge, their feet slamming down in perfect unison, she studied every aspect of the platform. Running through the channels beneath, an awesome amount of mana hummed, racing like a raging torrent through the conduits and into the fortress itself. All around the platform, the ants were already engaged in heavy fighting, alongside their militia.
+
+The fighting was brutal. On the front lines, ants were deluged with acid, slime and mucus as they fought with their mandibles, ripping and tearing into the endless tide of monsters that threatened to smash through their lines at any moment. It was easy to see what the main strategy was. They wanted to use their most powerful weapon, the cleansed mana, to its greatest effect, dragging the monsters into the blue-zone and allowing it to break the corrupted creatures of the fifth apart.
+
+An obvious downside was that this allowed the enemy to get much too close. The monsters of the fifth were all too happy to be dragged forward, allowing them to discharge mucus, parasites and filth all over the platform. The support were doing their best, launching powerful barrages of acid and complex artillery spells into the oncoming horde, but it was never enough to hold back the tide.
+
+Chyron rolled her shoulders and felt the old bones in her neck crack and pop. It had been too long since she’d had the chance to really attack the filth of the fifth. This would be a good day.
+
+She turned her back on the chaos and watched as her soldiers marched into formation, pretty as a parade ground. Their armour and weapons gleamed; the banners of the fifty second were spotless, proudly displaying the Iron Mountain and crossed swords that had been the symbol of this Legion for over two thousand years.
+
+Her officers formed up around her as the last of the troops came through the gate. Once they had taken their places and relieved the ants from their positions, those gates would slam shut, cutting them off from the rest of the fortress.
+
+She couldn’t wait. Sometimes it was better when things were less complicated.
+
+“Remember the plan,” she told her officers. “No need to make things fancy. Box formation, three deep. Mage batteries to call their own targets. Rotate on my command and keep the lines tight. Make sure the centurions are keeping a close eye on their people. It’s easy to draw too deep when the fighting is intense. If we lose anyone to overload, I’m holding you responsible.”
+
+She glared at them, but they held her gaze and nodded, determined not to let their comrades down. She’d been worried when they’d foisted such young officers onto her, particularly Joshen and Morrelia as Tribunes, but so far they had proven to be promising steel, just as she’d been told.
+
+Now it was time to put them in the fire and see their real qualities.
+
+She turned her gaze back over the disciplined ranks of her Legion. It was impossible for her heart not to swell with pride at the sight. The greatest honour of her life was to command men and women like these.
+
+She raised her voice once more.
+
+“WHO ARE YOU?” she roared.
+
+“THE LEGIONEM ABYSSI!”
+
+“THE ENEMY IS BEFORE YOU!”
+
+“KILL! KILL! KILL!”
+
+“NO MERCY FOR MONSTERS!”
+
+“KILL! KILL! KILL!”
+
+“WHO ARE YOU?!”
+
+“THE STRONGEST UNDER THE EARTH!”
+
+“SHOW ME!”
+
+Chyron drew her blade and held it high as she turned and marched at the head of the column. Every moment, the sound of fighting drew louder, the stench of mucus and sizzling flesh stronger and stronger. Behind her, troops organised themselves with each step, shifting into formation, organising their ranks. Centurions moved swiftly amongst the troops, hunting for any flaw in their movement, but none was found.
+
+With her left arm, the Commander hefted her shield, while in her right she gripped her demon blade tight. The Incus pattern armour sat heavily on her shoulders, but with the mana burning through her body flowing into the metal, it was a part of her, and she accepted it.
+
+As soon as she was in range, Chyron levelled out her blade, drew in a sharp breath, then lunged into a furious, flawless stabbing motion.
+
+She was still a hundred metres short of the conflict, her blade didn’t come anywhere near touching a monster, but it didn’t have to.
+
+From the tip of her weapon, a beam of light surged, spearing through the darkness like judgement. The light clashed into a crab-like beast and pierced straight through it, breaking apart the shell like it wasn’t there.
+
+“KILL!” she roared.
+
+“KILL! KILL! KILL!” her soldiers replied.

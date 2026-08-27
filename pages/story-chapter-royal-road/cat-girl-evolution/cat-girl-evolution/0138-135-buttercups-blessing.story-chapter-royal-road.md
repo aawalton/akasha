@@ -1,0 +1,195 @@
+---
+id: 84a88850-54ff-5403-a56e-c7a8e7061bee
+page-type-slug: story-chapter-royal-road
+title: "135 - Buttercup's Blessing"
+slug: 0138-135-buttercups-blessing
+partOf: cat-girl-evolution
+position: 138
+ownLength: 2597
+unit: words
+publishedAt: 2026-07-03
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3625292/135-buttercups-blessing"
+royalRoadId: "3625292"
+---
+
+Dealing with three of the undead are easy. Sebastian, the tanky one, wants to go home, and so does Horace, the shadow Assassin. They are basically just like Annie, in that they’re Named wraiths bound to their own revenant corpses. They can live relatively normal lives.
+
+Fiona wants to stay, at least for now. I have her mangled body in my Stomach currently, and the twins want to try to reverse engineer Annie’s soul seal so they can put Fiona back in her body as well. And if that fails, they’ll bring the matter up with Cecilia. If the master crafter isn’t able to do it, she’ll at least know someone else who can. So until that’s sorted out, Fiona is with us.
+
+The three siblings are a bit of a different matter. Annie is relatively free to do whatever she wants, but brother and sister aren’t. Phillip is no longer under Joakim’s control, but he’s still a Dungeon Core, and unfortunately, there’s no way for him to give up that position. Even if I consume his Dungeon, he’ll just become a subcore to me. How exactly that works, I actually have no idea, but Abby says it’ll be impossible for him to leave the Dungeon.
+
+And then the youngest of the three, Elliora, is stuck as a living weapon, and a poorly-made one at that. Apparently in necromancy, there’s some kind of “finalization” process when making a creation, and unfortunately, her finalized state is one where her left arm isn’t quite as well-connected as it should be. It’s actually pretty gross to look at, and Ellie is super self conscious about it.
+
+On the bright side, those problems really aren’t at all time sensitive, now that Joakim is dead. Nothing’s really time sensitive right now, actually. Especially when there are still two weeks before I can pick up my Dungeon, so we can’t leave anyway. So, as soon as the issues with the surviving undead are squared away, I immediately conjure a comfy bed and bedroom for myself and turn my attention to more exciting matters. Rewards!
+
+Killing Joakim gave me a lot of good stuff. The levels were just the tip of the iceberg. In the process of the final battle, I managed to get two Skills to Peak Proficiency, I completed the First Event, and I even finished that Avatar Quest that Buttercup gave me. I didn’t have time to look at them with all the undead taking my attention, but now that we’ve squared away most everything else, I finally have time to take a closer look.
+
+Of course, we have to save the best for last, so starting with the Skill Upgrades, I look at the two Abby has informed me are now at Peak Proficiency. The first, surprisingly, is Anatomical Analysis. I honestly never even really considered how this Skill might upgrade. It was just kinda there making things easier in the background, and I didn’t think about it too much. That’s probably why the upgrade options are so lame.
+
+[ Upgrades available for Anatomical Analysis Skill: ]
+
+[ Greater Anatomical Analysis: Analyze anatomical objects with a greater degree of accuracy ]
+
+[ Anatomical Synthesis: Combine gathered anatomical information to infer other anatomical information and potential anatomical combinations. ]
+
+[ Anatomical Analysis of the Glutton: Analyze anatomical objects that you consume ]
+
+I don’t even consider Greater Anatomical Analysis, and Anatomical Analysis of the Glutton is out because the Skill already synergizes well enough with Gluttony on its own without being tied to it. That leaves me with just Anatomical Synthesis, which is fine, because it looks like the best option anyway. I’ll definitely be messing with it later.
+
+The second Skill that reached Peak Proficiency is Flesh Stitching. That one has similarly lame upgrade options, and I ultimately choose the upgrade into Flesh Weaving at Abby’s suggestion. It looks like it will basically be more of the same, but better. Flesh Stitching let me connect flesh from two different sources together, and even do a little bit of combination when combined with Fleshshaped Constructs, but Flesh Weaving will allow me to tie them much more closely. Like, I’ll be able to weave certain properties from one piece of flesh into another. I think. That’s what Abby says, at least. It’s another thing I’ll have to mess with later.
+
+Once I finish those Skill Upgrades, I move on to the next notification, which is the one about finishing the First Event.
+
+[ Congratulations! You’ve completed the First Event! You are no longer being Targeted! ]
+
+[ Retrieving Start Quest performance data… ]
+
+[ Data retrieval complete! ]
+
+[ First Event Completion Grade: S ]
+
+I should have gotten SS grade.
+
+[ Completion rewards: Treasure Map (I) ]
+
+[ Performance Rewards: Readjusted Divinity Allotment, Trait Selector Token (Epic), Treasure Map Upgrade (IV) ]
+
+Abby, what does any of this mean?
+
+“Readjusted Divinity Allotment likely correlates to your connection to the canid goddess. Remember how she had to spend her divinity to give you Quests and Rewards? Now she might be able to give you better Quests and Better Rewards.”
+
+Oh, hey, that’s pretty good.
+
+“She also might be able to talk to you more.”
+
+Eh.
+
+[ That’s right. Messages like this no longer count against my Divinity Allotment. ]
+
+Oh no.
+
+[ But only to a point. The first five each month are free. After that, I have to spend Divinity again. ]
+
+…And you wasted two of those five messages just to tell me that?
+
+[ Yes. You’ve completed the First Event already. I don’t expect the others to be done for at least a few months. It might even be more than a year. Either way, there will likely not be anything urgent to send you, so why not waste them? I’ll leave the last two in case something comes up, but just know that I’ll be speaking with you more frequently, and I will be able to do so even if I spend all my Divinity on another Quest. ]
+
+Huh. Fair enough, I guess.
+
+Alright, Abby, what about the rest of the rewards?
+
+“The Trait Selector Token is extremely valuable. Especially at Epic Rarity.”
+
+Is Epic good?
+
+“It’s the third best Rarity. But don’t let that fool you. The highest Rarity is Mythic, and the Traits in that category would basically just be the Sin and Virtue Traits. Then Legendary would be the Traits just below them that are nearly as powerful. I don’t have any examples, since you don’t have a Legendary token, but just know that those Traits are also highly limited, and that the ones in the Epic tier are still very strong. And the fact that you can choose any of them is an extremely valuable boon.”
+
+I see. Do you think I would have gotten a Legendary or Mythic on if I got an SS grade?
+
+“I have no idea. These events and Avatar Quests have nothing to do with the regular System and I have no idea how they work.”
+
+Lame. Okay, what’s the last reward?
+
+“That one is… Well, you should just try to access it.”
+
+How?
+
+“The same as anything else in the System. Just think it.”
+
+Treasure Map Upgrade.
+
+[ Would you like to apply Treasure Map Upgrade (IV) to Treasure Map (I) ]
+
+Yes!
+
+[ Treasure Map Upgrade (IV) successfully applied! Treasure Map (I) has become Treasure Map (IV). Would you like to access Treasure Map (IV)?
+
+Yes!
+
+[ Treasure Map (IV) is currently unavailable. Please try again once the Second Event has begun. ]
+
+No! You bitch! Why would you ask me if I want to access it if I’m not allowed to? Why taunt me like that?
+
+“Well, at least we know what the Treasure Map is for, now. The Second Event seems like it’s going to be some kind of Treasure Hunt.”
+
+Lame. But I guess that means I can ignore the Chosen One Competition for a while. No Second Event until the First Event ends, and then if it’s a Treasure Hunt, that means I won’t have to hunt anyone, and no one will be hunting me, so I can just ignore it and go look for more Delicacies!
+
+“That’s one way to look at it. Or, you can use the advantage you won in this Event to do even better in the next Event so you can win the competition more easily.”
+
+I don’t need to do that. I’m the Chosen One. You saw what just happened when we fought Joakim.
+
+“You just got lucky.”
+
+No, I have plot armor.
+
+“No.”
+
+Yes.
+
+“I don’t want to have this argument, but it’s worth considering participating.”
+
+Eh, I’ll figure it out later. For now, back to rewards! Last, but not least, we have the reward from the goddess of female dogs herself!
+
+[ Avatar Quest Completed! Reward claimable! ]
+
+[ Reward: Choker of the Canid Queen ]
+
+I narrow my eyes at the Annoying Purple Box, then, with a thought, I claim the reward. It appears right in front of me, landing on the bed with a soft thump. I continue to eye it as I switch to cat girl form and pick it up to inspect it.
+
+It looks… fine. Good, in fact. It’s woven with some kind of black thread that’s softer than silk, the pattern is tasteful and not ostentatious, and the clasp in front is a simple silver pendant with what looks like a fang and a couple runes imprinted into it. It’s also completely inedible, somehow. I focus closer on it, pulling up the System description to read through it.
+
+[ Choker of the Canid Queen: A choker made to be worn by the warrior queen of the Canids. Wearing this will automatically incur favor with canids, and will make canine monsters less hostile toward you. Provides wearer user with +10% to all stats, Mental Immunity (Stage 3), Commanding Presence (Stage 4), and Buttercup’s Blessing at will. ]
+
+Hmmmm… Abby, this is very suspicious. What do you think will happen if I put this on and activate this Buttercup’s Blessing?
+
+“Why are you asking me? Just do it.”
+
+Yeah, but I feel like I’m being tricked here.
+
+“Didn’t you two make a truce where she promised to make sure the reward was good?”
+
+Yeah, but this reward seems pretty underwhelming compared to the Dungeon of the Glutton, which means that Buttercup’s Blessing must be extremely strong, but what if it’s strong in a way that I don’t like?
+
+“Well, Mental Immunity is a powerful Trait, and Commanding Presence is situationally very useful. It will help quite a bit with your aura farming obsession. Percent stat boosts are incredibly rare in items, and aren’t common in Traits and Titles either. It might not be much compared to what you already have, but that’s still nearly 5000 more stat points total for you. And the Dungeon of the Glutton was more of a transmutation of things you already had, rather than an entire reward in itself.”
+
+Yeah, but can’t she transmute more things I already have to give me a second Dungeon or something?
+
+“I think you’re being very greedy here. You should just put it on and see what it does. No point in delaying.”
+
+…I guess you’re right.
+
+I tentatively raise the choker, undoing the clasp and wrapping it around my neck. It’s a little loose at first, but as soon as the clasp is done, it tightens until it fits perfectly, and when it does, I feel the rush of all the bonus stats arriving. I guess that’s pretty strong. I can also feel the two Traits that it says it provides, and surprisingly, it seems I can choose whether or not to activate them. Neither of them seem to do anything here in this enclosed room, but I leave them both on, at least for now.
+
+I can also feel the option to activate Buttercup’s Blessing, but I hesitate a bit before finally using it. As soon as I do, I feel my body changing. I grow taller, and my muscles grow denser. My ears get longer, and slightly furrier, and my tail grows heavy. I can also feel an incredible amount of power all throughout my body that goes way beyond that simple 10% stat boost, and an Annoying Purple Box appears to tell me about it.
+
+[ Buttercup’s Blessing active. All stats increased by 100% for 4:59 (Cooldown: 72 hours) ]
+
+The stats are pretty good, but I’m also pretty sure I hate this ability. I conjure a mirror to double check, and it confirms my suspicions. I am no longer a cat girl. I am a dog girl. Or maybe a wolf girl? My beautiful feline ears have extended into scruffy canine ones, and my delightfully delicate cat tail has become the shaggy appendage of a dog.
+
+I’ve gotta say, though, I still look pretty good. Of course, that’s to be expected, but it’s still interesting. The added height and musculature kinda ruins my elegant princess appearance, but it definitely completes the warrior queen look.
+
+I smile, showing off my now-much-longer canines, then scowl when I notice my tail wagging behind me. It quickly settles down, but it’s still annoying not to have proper control over it. How can the canids live like this? It must be endless torture.
+
+“I’m getting the impression that you don’t like dogs.”
+
+It’s not that I don’t like them. It’s just that they’re inferior to cats.
+
+“I don’t think that the canid goddess is going to like that statement.”
+
+I don’t care. I–
+
+At that moment, the door to the room suddenly opens and Lauren and the twins walk in.
+
+“Yona, what–?” starts Lauren, before stopping and gaping.
+
+The twins don’t stop at all, instead rushing toward me, and before I can react, they reach up and start scratching my ears, making my tail start wagging.
+
+“S– Stop!” I say, squirming, but they don’t.
+
+At that moment, I notice Abby leaning against the door frame looking extremely smug. In response to that, I try turning back to my cat form, but instead of being a cat, I end up as a black wolf, which causes the ear scratches to intensify. Only after a few seconds of this do I finally realize that I can just end Buttercup’s Blessing early, turning back into a cat properly. The ear scratches don’t stop there either, but at least now, I can maintain my dignity.
+
+I allow the twins to continue scratching my ears while Lauren has a quick conversation with Abby about what “urgent” means, then we all split up again. I start trying to use the Trait Selector Token, but there are such a huge number of options that it’s overwhelming, so I set Abby to the task of sorting through them to find the good ones, then lay down for a nap.
+
+When I wake up, I leave the room to find that Abby has conjured rooms for everyone else too, where they are all resting while we wait to do stuff. We continue to relax for a little while until everyone is up and moving again, and Lauren brings up that we still haven’t gone out to talk to the Maligar Dungeon Core about the situation yet. We discuss it briefly over a quick meal, and when we finish eating, we all prepare to exit Phillip’s Dungeon and go back to Maligar.
+
+And now that Joakim is gone, I think I can finally get my mouth on the Delicacy.

@@ -1,0 +1,99 @@
+---
+id: 48ec747f-09c0-5202-b478-5faa8a86de09
+page-type-slug: story-chapter-royal-road
+title: "147. A New Compact"
+slug: 0147-147-a-new-compact
+partOf: breaker-of-horizons
+position: 147
+ownLength: 2077
+unit: words
+publishedAt: 2021-09-27
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/757564/147-a-new-compact"
+royalRoadId: "757564"
+---
+
+The wysana had been right — trying to find his old dorm in the unveiled Academy was difficult, and if it hadn't been for the Minor Query mote he would have lost his way several times. Finally arriving at his dorm was a jarring experience, because the familiar sight of the building's facade was not set against the backdrop he remembered. It didn't help that all the lights were out since no other students were on campus.
+
+The common area was dark, so Caden sent out a trickle of arcana to connect with the globelights set into the walls and ceiling. A memory came, unbidden, at the sight of the table — Devon, leaning forward and asking, "What score?"
+
+Caden froze at the threshold, the emptiness of the dorm rhyming with the hole in his heart. As his eyes swept across the furniture, a pang of loneliness accompanied each little recollection. The smell of pancakes. The sound of dishes being washed. Sitting around the table with everyone else. Jerric seated alone in a chair, lit only by moonlight. The door to Devon's room closing firmly in Kevan's face.
+
+With a great effort of will, Caden stepped into the empty dorm, still half-expecting to hear sounds of his friends moving about. He managed to get as far as the table before he collapsed almost involuntarily into a chair, with hot tears spilling from his eyes.
+
+Several minutes passed as he remained slumped in his seat. He made no move to wipe the tears away. There was no one to see them anyway. This moment of grief was his to sit in alone. There would be time for industry later. For now, it seemed only right to properly mourn what had been taken away from him.
+
+He had intended to sort out all the things he had just written down, and then lay out all the considerations for whether or not he ought to go home with his father the next morning, but now that he was here the thought of mustering the strength to do all of that was too daunting. Caden settled for dragging himself to the bathroom to freshen up. He would have liked a shower, but he had no other clothes.
+
+"A set of clothes has been procured for you," the wysana said, its voice echoing slightly in the empty dorm, seeming to emanate from the walls and through the arcana. "They are in your room."
+
+Caden was too emotionally drained to be surprised. He wondered if the wysana was following him, or if it was supposed to 'service' the entire campus, but he filed that query away for another time. "Thanks," he mumbled, not bothering to make proper contact through the arcana to make sure it heard him. As promised, when he checked his room, he found two sets of clothes — one for the night, and something fresh for him to change into the next day. They weren't any of his own clothes, but they were remarkably similar to the kind of things he normally wore, right down to the design and colour scheme.
+
+It was like the coffee in the cafe. The wysana knew his preferences. More questions came to mind. Where had the clothes come from? He had just been teleported halfway across the Empire, but that was at the hands of a Fateweaver. It was too much to believe that the wysana were casually teleporting things as mundane as clothes around the campus. But if not teleportation, then were they spun out of pure arcana? If so, how were their forms stabilised so they didn't vanish like other conjurations?
+
+Too many questions for a weary mind. He put them aside as he got into the shower and allowed the warm water to wash all the tension away. Perhaps it was just as well that there was no one else in the dorm. There was no bathroom schedule to obey. He could spend as much time as he wanted in here, and no one would hurry him.
+
+When he finally emerged an hour later, he felt more relaxed, though the weight in his chest hadn't entirely gone away. He changed into a clean set of clothes, then opened the notebook.
+
+There was too much to really satisfactorily parse in one night, but he went over everything anyway just so he could see the whole body of information again with a more critical eye, after the initial shock of revelation. He penned in a few more general questions and flagged other things for further review and investigation, and even though he wasn't actively trying to think about avenues of experimentation and inquiry, he was already putting down half-formed plans and possibilities.
+
+But many of those things required access to the library, or to the facilities in the Academy. If he went home with his father the next morning, he very much doubted that his father's workshop would serve.
+
+The longer he thought about it, the more it seemed like the most reasonable course of action would be for him to stay in the Academy. He would have the time and space to figure out the extent of his abilities and his knowledge now that he had been forcibly divested of the augeric shell. More importantly, he would be far away from his family. The Fateweaver's ominous pronouncement weighed heavily on his mind — The other Fateweavers and I will just have to work around that, though it'll be less annoying now that we know you exist. Now that they knew of his existence as a {~?~}, he didn't want to unwittingly reveal bits of knowledge to his family that would draw the Fateweavers down on them.
+
+The resolution formed like a bitter pill in his throat. His heart ached for family, but there was a colder, firmer core in him that wanted to do everything possible in order to unravel this knot of problems so that he could gain the power to secure his family once and for all.
+
+In fact, that cold core was crystalising around a realisation that made him grin. By the Fateweaver's own admission, somehow, by virtue of him being {~?~}, the Fateweavers not only weren't able to control him with their prophetic links, but they also weren't able to simply erase him from existence. For reasons he did not yet know, their hands were tied. Otherwise, he was sure they would have removed him already instead of subjecting themselves to the inconvenience of working around him.
+
+Ancient-distant-spiders, he mused. I wonder if they're too emotionally distant to appreciate how dangerous it is for them to push people this far.
+
+There was a vindictive sharpness in that thought that somehow comforted Caden in his loneliness. He closed the notebook and went to bed, possessed of cold purpose. He needed to sleep, because in the morning, he would take the first steps on his own road to power.
+
+At 8 in the morning, Caden sat himself down in the library cafe at the same table he and the Demiurge had occupied the night before. A few seconds later, even though Caden was very sure no one had been within sight when he had gone through the library's doors, the Demiurge walked in. Caldwell was dressed in his formal arcanist's robes and was carrying the staff, but when he saw Caden he gave a cheerful wave with his free hand and somehow managed to look friendly and welcoming despite the imposing outfit.
+
+"The wysana told me you'll be staying," he said, smiling brightly as he settled himself down facing Caden.
+
+"Only if I can access all the facilities normally available during term time," Caden clarified. "Otherwise, there's no point."
+
+Caldwell raised an eyebrow as he gestured at the counter. Caden was momentarily distracted as the wysana's presence coalesced and two cups materialised there, rapidly filling with coffee. "Of course," Caldwell said, now in a less cavalier tone. "No one else is around, so you have the run of the place. You won't even have to book the arena if you want to use it. Just go right ahead."
+
+"What about the library?" Caden asked, throwing another glance at the two cups as they floated over.
+
+"If you're taking books out, just fill in the borrowing ledger by yourself," Caldwell answered, plucking his cup from mid-air and taking a sip. When Caden failed to receive his own cup, it set itself down gently on the table, though there was a faint whiff of irritation from the wysana before it faded from perception.
+
+"What about the Lower Library?"
+
+Caldwell waved a hand dismissively. "I'll give you full access. I gather you know your way around already, but some sages are still around if you really need help. However, try not to bother them unless you really need to."
+
+"There's one more thing," Caden said, pausing to take a sip of coffee. "Can I receive some training from you?"
+
+Caldwell's eyebrows rose again, but something gave Caden the impression that the Demiurge wasn't really that surprised. He gave Caden a measuring look. "What kind of training?"
+
+"I want to learn how to create a wysana. And also how to stand toe-to-toe with a wild augera like you did at the lake."
+
+Silence. The Demiurge slowly lifted his cup, took a sip, and placed it back on the table, his eyes fixed on Caden the entire time.
+
+"There will be a price," he said finally, all levity gone.
+
+"What kind of price?" Caden asked, surprised. He hadn't actually expected the Demiurge to agree so readily.
+
+"I may need your help with something, and when the time comes, and I call this favour in, I need you to give me that help without delay and without argument," Caldwell answered, his face impassive.
+
+"What kind of help?" Caden pressed. "If this ends up binding me to—"
+
+"I can promise that it will not put your family or your six friends in danger, and it is definitely not in service to what I know of the Fateweavers' plans. Beyond that, there is nothing else I will say. Do you still want me to teach you if those are my terms?"
+
+"Will it involve hurting other people, then?"
+
+Caldwell's lips thinned. "You will have to make your choice based on what I have already said. I will reveal nothing more about the nature of the help I may ask for. You are, of course, free to refuse, but those are the terms if you want lessons with me."
+
+"If I agree, you won't withhold any knowledge pertaining to what I've asked for? You'll really teach me everything about how to create a wysana, and how to deal with a wild augera?"
+
+The Demiurge nodded. "Nothing will be withheld. Whether you have the aptitude is another thing entirely. But if it reassures you, it is my professional opinion that you will likely be able to learn all I have to teach."
+
+"... how do I know you're not lying just so you can make use of me?" Caden asked. Once, he might have been too in awe of the Demiurge to dare ask such a question, but that was before he met an actual Fateweaver, or spoke with an eldritch being that even the augera held in reverence.
+
+Caldwell smiled a little sadly. "Because we all use each other in some way, Caden. After all, I could turn the question back on you. If you say yes, how do I know you will be true to your word? Might you not simply be using me for the knowledge I can give you? You might say I have the shorter end of the stick here, because you will be enriched by the learning I have to give long before I call in my due, and if you renege then, I will be poorer for it and have gained nothing. But if it reassures you, then know this — you are {~?~}, and therefore by virtue of who and what you are, crossing you would be very, very unwise. I am many things, but I hope you do not think me unwise."
+
+That, Caden supposed, was as straight an answer he could hope to get out of the Demiurge. It wasn't entirely reassuring, but it was enough. He nodded and held out a hand. "Deal."
+
+"I look forward to working with you, Caden," the Demiurge said, smiling as they shook hands.

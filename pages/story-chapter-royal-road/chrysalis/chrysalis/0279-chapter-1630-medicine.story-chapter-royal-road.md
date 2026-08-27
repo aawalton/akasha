@@ -1,0 +1,93 @@
+---
+id: ac5af779-c20c-57f1-be88-78b3ef2a4f8a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1630 - Medicine"
+slug: 0279-chapter-1630-medicine
+partOf: chrysalis
+position: 279
+ownLength: 1155
+unit: words
+ownProgress: 1155
+publishedAt: 2025-08-25
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2545188/chapter-1630-medicine"
+royalRoadId: "2545188"
+markedReadAt: "2026-06-29T19:52:44.329Z"
+---
+
+Solant watched as the last of the Krath resistance was swept from the field. They’d lasted longer than she’d expected, a testament to how tenacious they were as enemies. She had a respect for the slug tribes. As enemies, they were everything the little general could ask for: cunning, vicious, willing to sacrifice in order to achieve victory, canny in the ways they utilised their advantages.
+
+Their defeat in this campaign was simply a matter of planning. Solant had prepared for this outcome from the very beginning. With the power of initiative, the Krath had been forced to react, always on the back foot. So long as they hadn’t succeeded in cracking the fortress, then the Colony was assured of victory.
+
+It came close, closer than she’d thought it would, but thanks to the heroics of the battalions, the sacrifice of many of her siblings, and the unrelenting will of the Eldest, they had held firm. Now it was time to reap the reward.
+
+“I suppose you think the work is done,” Mendant snapped as she walked up to the general. “Did you forget we still need to heal this massive thing?”
+
+“Of course not,” Solant replied calmly, patting the irascible healer on the carapace with her antenna. “I’m well aware of the work that still needs to be done, have no fear. You will be given all the time and support you need.”
+
+Mendant huffed, not appeased in the slightest.
+
+“Oh? You’re going to give us more time, are you? I expect you’ll shut down the mana flowing down from above, then. Wouldn’t want the heart to fill up too quickly now.”
+
+Solant clacked her mandibles with regret.
+
+“Sadly, I do not believe we are able to shut off the flow once it has begun. Needless to say, the faster we can fill the heart and have it start to spread our concentrated, cleansed mana, the better.”
+
+The healer shook her head, disgusted.
+
+“Typical,” she said before walking away, muttering to herself. When she reached a group of healers busy working on a section of wall, Solant could see them discuss amongst themselves for a moment before the entire group turned to stare at her.
+
+“You should be careful not to get injured any time soon,” Leonidant advised her.
+
+“I think you might be right,” Solant agreed.
+
+Of course, they could shut off the flow from above, but she wasn’t wrong in saying it was important to fill the heart as fast as possible. If they let the cleansed mana trickle in and slowly dissipate, it would be eaten up by the fifth in no time at all. Only by pumping out highly concentrated energy would they be able to achieve their aim: a full conversion of this entire section of Dungeon.
+
+Which meant the healers would need to make sure the entire heart didn’t fall apart over the next hour or so—a daunting task, to say the least.
+
+“They’ve been doing a good job so far,” Leonidant pointed out. “Look at the floor.”
+
+Indeed, the lower reaches of the heart had been fully healed already. Where once it had been a yellow-grey, slime-covered mass of pallid flesh, now it was a hale and hearty red, beating stronger than before.
+
+Of course, there were still the holes that the Mother Tree had punctured through the walls that needed to be closed over, but hopefully they wouldn’t pose too much of a problem. Solant put the healers from her mind and turned her attention to another issue.
+
+The whirlpool down below was still there, the cleansed liquid mana reacting violently to the sludge left behind by Theorazzn. She hadn’t expected it to succumb quickly, but it was lasting much longer than expected, which meant it was consuming more mana than she’d allowed for.
+
+At least it was finally starting to go down. It would take a few hours, she guessed, but eventually the pool would be eradicated entirely, no longer able to corrupt the heart from within.
+
+“We’ll have to add that to calculations for the next one,” Solant noted aloud.
+
+Leonidant followed her gaze and nodded.
+
+“Hard to imagine what sort of creature could create such a thing, or have it last so long.”
+
+“I don’t think we will have to imagine for too long,” Solant said.
+
+Leonidant looked to her sister, expecting her to elaborate, but Solant said nothing, instead looking up to the roof of the upper chamber. It was up there that the Krath had made their homes, and it was still quite contaminated.
+
+“Let’s take a look,” she said, and began to climb.
+
+“Should we be going up there?” the scout questioned, ever cautious.
+
+“We have protection against the mana.”
+
+“But what if there are still Krath up there?”
+
+“There aren’t,” Solant replied confidently. “Have no fear and come.”
+
+For a slug to remain in the face of imminent death would be antithetical to every behavior they had displayed so far. If any Krath had refused to go down to the battle, then they were long gone by now. As the two ants climbed, shielded from contamination by Smithant's works, Solant’s confidence was proven to be well founded.
+
+Despite the large size of the settlement, with hundreds and hundreds of dwellings, along with large feeding pits and mould farms, they found not a single soul.
+
+“There is a great deal we need to improve for our next assault,” Solant mused. “Knowing how the slugs form their settlements within the heart is important knowledge. If we can start to fill from the top, we could avoid having to fight altogether.”
+
+“Are you assuming that every heart-settlement is the same? We have no evidence of that,” Leonidant cautioned.
+
+“A valid point,” Solant conceded. “However, I think the strategy still has merit. Something to think about after scouting and construction plans have been laid out.”
+
+As the two ants moved through the eerily empty settlement, Solant continued to muse and expound upon her strategy going forward. There was a great deal to do, so much that Leonidant's head was spinning. Indeed, the tunnels needed to be mapped, the borders of this new safe-zone marked, scouting done into the surrounding territories, defences built, mana intakes and channels constructed, wuffers to be bred, new targets to be designated.
+
+It was clear that Solant had been considering the next steps for a long time, possibly from the very beginning.
+
+The two found their way into a particularly elaborate chamber, right in the heart of the structures. As they moved inside on a whim, Leonidant noticed a distant pool, built low to the ground. When they drew closer, she saw it was filled with pearls, glistening beneath the surface of the shallow liquid. Originally grimy and yellowish, already the pearls had become flecked with motes of shimmering blue.
+
+“Looks like we need to contact the Brood Tenders,” Solant said, clacking her mandibles. “They’ll be pleased, I think.”

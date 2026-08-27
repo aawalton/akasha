@@ -1,0 +1,87 @@
+---
+id: 1d3c768e-2f68-59d7-b5d8-513052abd325
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1517 - Unthinkable Occurrence"
+slug: 0165-chapter-1517-unthinkable-occurrence
+partOf: chrysalis
+position: 165
+ownLength: 1045
+unit: words
+ownProgress: 1045
+publishedAt: 2025-02-26
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2089825/chapter-1517-unthinkable-occurrence"
+royalRoadId: "2089825"
+markedReadAt: "2026-06-29T19:49:07.360Z"
+---
+
+“It’s remarkable what they’ve achieved here,” Rathwyn said to his colleagues. “Not just the scale of the construction, but the speed! To think this has all been done in such a small amount of time is incredible!”
+
+He and his fellow researchers were sitting in their joint lounge. The Colony had put them into a set of adjoining suites, giving each their own sleeping quarters but with shared living space. Considering where they were, the quality of the lodgings was well in excess of what they had expected.
+
+“The productivity of their society is astonishing,” his colleague Meritious stated. “I’d be fascinated to know just how their economy functions. Though, I’m not sure if it could be described that way, since they don’t have currency.”
+
+“Please,” Horatio groaned, “let us not be drawn in by economics,” he nearly spat the word out, as if it left a foul taste in his mouth. “We are here to advance real academia. The wave has begun, and we are perhaps the first academics to study the fifth stratum under these conditions. It’s unprecedented.”
+
+“Don’t forget why you are really here,” a voice stated coldly from by the wall. The officer of the Golden City, Nemis, stared at the mages with a hard gaze. “You are here to assess the capabilities of the Colony and determine the likely success of this venture. The Child Emperor has allowed you to come here, so make sure you achieve the goals that were set for you.”
+
+The academics fell silent, except for Rathwyn, who made a soothing gesture.
+
+“Of course we are aware of our mission, how could we not be? The Child Emperor’s wishes are our priority, naturally! However, it was also agreed with the Tower that we would be able to conduct our own research. Please forgive our enthusiasm, but don’t think for a moment we have forgotten our purpose.”
+
+Nemis grunted disbelievingly then returned to watching over the group. It was uncomfortable, having an agent of the crown in the room as they discussed, and it took some time for the conversation to resume its flow.
+
+Shortly after, there came a knock at the door. Rathwyn rose to answer and found a strange pair of ants waiting outside the door.
+
+One radiated cold, the other immense heat. Various features about them told of just how dedicated they were to their respective elements, such as the ice-rimmed antennae on the one, or the literal volcano-shaped carapace rising on the back of the other.
+
+[Greetings,] the ice-mage said. [My name is Coolant, and this is my sibling, Propellant. We have come to ask if you and your fellow academics might be of some assistance. We have found something in the fifth that you may wish to take a look at.]
+
+[Oh?] Rathwyn asked. [What might that be?]
+
+[It’s difficult to explain,] Propellant said. [You should come and take a look for yourself.]
+
+It wasn’t hard to convince the academics. The prospect of new knowledge was something they found almost irresistible, after all. Despite Nemin’s glares and muttered complaints, the group happily bundled off through the tunnels, discussing amongst themselves and conversing with the two elemental ant mages.
+
+After an hour, they eventually made their way to a small chamber deep in the heart of the nest. At one end, a relatively small basin had been shaped out of the wall, and it contained some form of glowing liquid.
+
+[What we want you to see is inside the basin,] Coolant urged them.
+
+Rathwyn nodded and led the way forward. The basin was around waist height for him, and he bent down to peer into the liquid, seeing naught but some fist-sized spheres resting within. Each of them was a light blue colour, though that could just be the water, and if he wasn’t mistaken, there was some movement inside them?
+
+[What are we looking at?] he asked.
+
+[Krath eggs,] Propellant replied.
+
+“Holy Jiminies of the Child Emperor!” Rathwyn cried, jumping back.
+
+“W-what is it?” Meritious asked, hesitating to approach the basin herself.
+
+“They said they captured Krath eggs!”
+
+“That’s impossible!”
+
+[To clarify,] Coolant broke into Rathwyn’s thoughts, [these used to be Krath eggs. We found them during the expansion, but they were… changed somewhat, when we brought them within the cleansed mana. Honestly, we didn’t expect them to survive, but they have. These aren’t all we found, but they are the closest batch to… ah, it’s starting.]
+
+[What is starting?] Rathwyn asked, mind spinning at the implications of what he’d heard.
+
+Krath eggs? Actual Krath eggs? Cleansed somehow?! So what was growing inside them, then? Then his thoughts clicked.
+
+“They’re about to hatch!” he cried, and his companions leapt back in horror, worried a Krath was about to leap out of the basin and devour them.
+
+[It’s quite safe,] Coolant assured them. [Look closely. I hope you might be able to explain what you see.]
+
+His companions hesitated, so Rathwyn swallowed, steeled his nerve, and walked closer to the basin, once again bending down to look more closely. There was movement, more and more, the eggs were vibrating slightly, rocking and back and forth as something inside tried to get out. His mind was filled with terrifying visions of vicious slugs leaping out of the pool and latching onto his face, but he firmed his resolve. If his hosts said it was safe, then it must be.
+
+With a sudden pop pop pop, several of the eggs fell open at once, releasing shards and clouding the water, making it difficult to see.
+
+Rathwyn rose, still looking down as he waited, filled with trepidation, for something to emerge. Soon, something did.
+
+It was a snail, complete with a tiny, glittering shell. Its colour was soft, an almost pinkish blue, and its tiny eyes shone like jewels on the tips of its stalks, while two long moustaches drooped down from either side of its face. The newborn snail peered up at them curiously, but remained silent.
+
+The academics, as one, fell flat on their backsides.
+
+“Th.. th… th…” Rathwyn wheezed.
+
+[These are the same as the others,] Coolant observed. [We’ve built a creche of sorts for them, but we don’t know what they are.]
+
+“That’s a chal!” the mage uttered, filled with stunned disbelief.

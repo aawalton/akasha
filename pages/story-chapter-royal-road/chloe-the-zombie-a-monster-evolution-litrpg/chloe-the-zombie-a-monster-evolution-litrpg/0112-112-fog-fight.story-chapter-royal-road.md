@@ -1,0 +1,127 @@
+---
+id: f70ff882-1044-52ea-9af5-f11547d734da
+page-type-slug: story-chapter-royal-road
+title: "112: Fog Fight"
+slug: 0112-112-fog-fight
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 112
+ownLength: 1902
+unit: words
+publishedAt: 2026-02-11
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3036604/112-fog-fight"
+royalRoadId: "3036604"
+---
+
+The fog curled low around Mr. White’s legs, thick and cold, and it kept brushing against Chloe’s boots like it wanted attention. She squinted ahead, leaning forward in her saddle. “Okay, this is the kind of fog where something huge is definitely waiting to scare me.”
+
+Mr. White slowed his steps without being told, bones clacking softly as he moved. Chloe patted his neck in approval. Smart horse. Best horse.
+
+Oh yeah, there were big pillars here too. Chloe could tell they were massive, but the fog swallowed the ceiling completely, so for all she knew they went on forever.
+
+She rode Mr. White around for a bit, squinting into the mist like that might magically make it behave. Eventually, she hopped off his back and decided to walk instead.
+
+The fog swallowed her fingers almost instantly. Chloe frowned at that, wiggling them a little before pulling her hand back. She didn’t like it, but whatever. Fog was dumb like that.
+
+She was so busy complaining to herself that she didn’t notice the shape ahead of her at all. Not until she walked straight into it. Her forehead smacked into something solid and extremely uncooperative, and she stumbled back.
+
+“Ow,” Chloe said, more offended than hurt. She rubbed her forehead and glared into what she thought was probably a wall.
+
+Then the fog shifted. Something huge moved in front of her, and the mist peeled back just enough for Chloe to finally see it properly. She froze in place, her mouth slowly falling open as the shape stopped being “probably a wall” and became something very big and very much not a wall.
+
+It was a dragon. A big one.
+
+It had a long neck, wide wings folded tight against its body, and horns curling back from a skull that showed way too much bone. Except instead of shiny scales and majestic vibes, this thing looked dead. It had a lot of rotten flesh dangling out of exposed bone and other bits Chloe couldn't quite make out. To be accurate, it looked more like a zombie dragon than a dragon dragon, if that made sense.
+
+Its scales were cracked and dull, with entire patches missing. Bones showed through in places, and wisps of fog leaked out from between its ribs all the time. One eye glowed faintly while the other looked cloudy and wrong, staring past her like it had seen a lot of terrible things and got bored halfway through.
+
+Chloe stared at it in silence for a few seconds, her brain doing absolutely nothing useful. Then, very helpfully, her thoughts went somewhere extremely important. Could she be a zombie dragon one day?
+
+The idea was exciting. Big wings. She was just starting to picture herself dramatically landing on top of a tower when she remembered, oh yeah, the giant undead dragon in front of her might eat her first. Probably best to shelve that thought for later.
+
+The dragon’s jaw slowly opened. Fog poured out in a thick wave, spilling across the floor and curling around Chloe’s legs. The dragon lowered its massive head toward her, bones creaking softly as it moved. “I am the Fog Spewer, and you have wandered far, zombie girl."
+
+Chloe blinked, then straightened up. She planted her hands on her hips, because obviously. “Okay, first of all, wow. Second of all, you scared me, and that’s kinda rude.”
+
+The Fog Spewer tilted its head slightly, fog drifting from its jaws. “What is your name?”
+
+Chloe’s smug expression faltered just a bit. She wasn't sure if dragons counted as fey, but she didn't want to take chances and remembered to not give out her real name.
+
+She thought about it for a second, then shrugged. Chloe wasn’t her real name anyway, apparently, so that was probably fine.
+
+“I’m Chloe,” she said easily. Then she jerked her thumb over her shoulder. “And that’s Mr. White. He’s my horse.”
+
+Mr. White snorted softly on cue. The Fog Spewer regarded them both in silence, the fog around its skull slowly thickening as it watched. “Greetings, Chloe. You search for others, do you not? Friends who came before you.”
+
+Chloe puffed up a little at being greeted properly. She crossed her arms, chin lifting. “Yeah, I am, most of them anyway."
+
+“Then I am sorry. You are too late.”
+
+“Huh?”
+
+“The dungeon claimed them, and their bodies are beyond this chamber. It is a cruel fate, but one you might yet fix.”
+
+Chloe’s smug grin slipped just a bit. She stared into the fog. Dead? That didn’t sound right at all.
+
+Her friends were pretty tough. Raenof was good at running, Sierra was a solid fighter, and Ynett was stupidly strong. Even though Chloe didn’t really like the snake lady, it was still hard to believe that Ynett of all people would just die like that.
+
+“That’s… dumb. They wouldn’t just die. I wasn’t even gone that long.”
+
+“Time moves strangely here. But there is hope beyond that room,” the Fog Spewer said, tilting its head toward a dark opening behind it, “lies a place where death may be undone. Step inside, and I will return them to you.”
+
+The fog around the doorway swirled invitingly. Chloe felt a tug in her chest, like something was gently pulling her forward. If she just walked in, it could all be fixed. No more searching. No more dungeon. No more worrying.
+
+She took a step without really thinking about it. But Mr. White stamped a hoof hard against the ground.
+
+The sharp clack echoed through the chamber, snapping through Chloe’s thoughts. She jolted, blinking rapidly as the fog around her head thinned just enough for her to realize what she was doing.
+
+“Huh. Wait,” she muttered, looking down at her feet. She was way closer to the doorway than she remembered moving. That was weird.
+
+Mr. White moved in front of her, bones clattering as he shoved his skull gently against her chest. He snorted again, louder this time. Chloe stumbled back a step. “Okay, okay, that felt wrong. Super wrong.”
+
+The Fog Spewer’s expression shifted, its calm voice darkening. “Do you not wish to see them again?”
+
+“Yeah, I do. But you’re lying.” She said, pointing at the dragon. “I think you did something to my brain, and that's just not cool!"
+
+The Fog Spewer let out a low, rumbling sound that might have been a laugh. The mist thickened, rolling faster across the floor as its wings spread wide. “Then be lost."
+
+The zombie dragon lunged. Fog blasted forward in a crushing wave, slamming into Chloe and shoving her back a few steps. She dug her heels in, growling under her breath as she flung her hands forward. Lightning cracked through the mist, tearing a bright line straight into the dragon’s chest. The spell hit, blasting a chunk of rotten flesh away.
+
+The Fog Spewer roared, fog pouring from its mouth as it swiped at her with one massive claw. Chloe barely ducked in time, heat flashing up her arms as she slammed a burst of fire into the ground. Flames spread outward in a wide arc, burning through the mist.
+
+Mr. White charged in beside her without hesitation. Chloe barely had time to register it before he reared back and opened his jaw. Blue fire poured out in a roaring stream, slamming straight into the dragon’s side. The flames burned hotter than she expected, biting into dead scales and forcing the Fog Spewer to recoil.
+
+Chloe stared for half a second. “Wait. You can do that?”
+
+Mr. White snorted loudly, like that should have been obvious, and charged again. As if Chloe needed more reasons to believe that he was the bestest horse ever.
+
+The fight turned messy fast. The fog twisted and thickened, rising into solid walls and dropping away into sudden pits that tried to herd her where the dragon wanted.
+
+Chloe tore through it anyway, blasting paths open with fire that scorched the stone black and lightning that split the mist with thunderous cracks. She hurled ice spears too, watching them punch into dead scales and exposed bone before shattering in bursts of frost that left spiderweb cracks across the dragon’s body.
+
+The Fog Spewer fought back just as hard. Its claws smashed into the floor and pillars, ripping stone apart and sending chunks skidding across the chamber. Every wingbeat slammed into Chloe, shockwaves of fog knocking her off balance and scraping her across the floor.
+
+When it opened its mouth, fog poured out again. Chloe ground her teeth and burned it away again and again, fire roaring from her hands until the mist pulled back.
+
+At the same time, Mr. White charged straight through the fog as he smashed into the dragon’s legs and chest. Then the Fog Spewer roared, louder and angrier than before.
+
+Its tail came out of nowhere, a massive blur cutting through the mist faster than Chloe could track. She barely had time to shout Mr. White’s name before the tail slammed into his side. The impact echoed through the chamber, a brutal crack of bone against overwhelming force, and Mr. White’s body twisted midair and went flying. His blue flames flickered wildly as he was hurled into the fog, then vanished completely as the mist swallowed him whole.
+
+Chloe froze for a split second. Her hands clenched so tight sparks burst from her fingers, fire surging up her arms without her even meaning to. That jerk was going to pay.
+
+However, she barely had time to react before the Fog Spewer swiped at her with a massive claw. She braced herself out of instinct, but she never actually had to move.
+
+Shadowy hands burst out from Cloaky instead. They grabbed her around the waist and shoulders and yanked her sideways, hard enough that she let out a surprised yelp as the claw smashed into the stone where she had just been standing. Rock exploded into chunks, shards skittering across the floor as the dragon’s talons carved deep gouges into the pillar.
+
+“Oh,” Chloe said, blinking. “Right. You can do that.”
+
+The shadows didn’t wait for her approval. They flung her upward, and Chloe leaned into it without thinking, power surging through her back as her wings snapped into existence.
+
+She shot into the air, fog tearing apart around her as she flew. Chloe weaved between the pillars, laughing as the Fog Spewer snapped and clawed at her. As mad as she was that the jerk dragon hurt Mr. White, she just had a feeling that he wouldn't go down that easily. So until Mr. White could get back to his feet, she'd have to deal with the dragon alone.
+
+Its attacks slammed into stone again and again, crushing pillars and filling the air with dust and debris, but Chloe was already gone each time, darting and twisting through gaps.
+
+“Too slow,” she muttered smugly, turning hard around another column.
+
+She threw one hand forward, and several shadowy spears formed in rapid succession, long and jagged. She hurled them straight at the dragon, watching as they tore through the fog and slammed into its body with brutal force. Each impact punched into cracked scales and exposed bone.
+
+At the same time, Chloe pulled her other hand back, teeth clenched as lightning gathered fast. Power crackled violently around her arm, bright arcs snapping and hissing as the charge grew larger and hotter.

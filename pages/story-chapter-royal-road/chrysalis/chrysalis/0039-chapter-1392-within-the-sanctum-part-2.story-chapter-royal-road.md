@@ -1,0 +1,113 @@
+---
+id: f823f6c6-10b4-5d85-a75f-9e32d4a1b998
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1392 - Within the Sanctum part 2"
+slug: 0039-chapter-1392-within-the-sanctum-part-2
+partOf: chrysalis
+position: 39
+ownLength: 1208
+unit: words
+ownProgress: 1208
+publishedAt: 2024-08-14
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1757217/chapter-1392-within-the-sanctum-part-2"
+royalRoadId: "1757217"
+markedReadAt: "2026-06-29T19:44:53.527Z"
+---
+
+Jern opened his eyes, though he wondered, not for the first time, why. It wasn’t as if he could see anything. He hadn’t seen anything in… days? Weeks? Months? Who could say? It was almost impossible to keep track of time here, and he’d stopped trying long ago.
+
+He felt something brush against his senses, so he rose from his bed and emerged into the training hall. The Nameless One was waiting for him, as always, silent and still.
+
+If he were to try and explain how he knew she was there, he would struggle to find the words. He just… did. Perhaps it was a faint scent, or warmth… or perhaps he could feel the changes in the shadows where she stood.
+
+Or maybe she wasn’t there at all and he was just imagining it.
+
+“Climb.”
+
+The instruction was given, short and direct, as always. Knowing what he was expected to do, he climbed. The walls were fairly smooth in the training room, but he’d learned how to seek the minute handholds that revealed themselves along the natural grain of the rock. When he reached the top, he knew, of course, that he wasn’t done, and shifted his hands to the ceiling, seeking purchase.
+
+Slowly, he firmed his grip, fingers tensing as he made his way out from the wall and into the centre of the ceiling. He had to bring his legs up and use his toes to find additional holds before too long, his fingers simply weren’t enough to hold his weight.
+
+Once he’d reached the middle, he held, and waited, and waited, and waited. His arms burned, his fingers screamed, but he held, patient as a stone. Time passed, or didn’t, who could say?
+
+Then: “Drop.”
+
+So he did, landing lightly on his feet. While he had a chance, he shook himself out, trying to relieve the sting in his muscles for whatever came next.
+
+“You have endured our training… better than expected.”
+
+More words? This was unusual. The Nameless One almost never spoke more than what it took for him to understand his task. Should he reply? He may as well….
+
+“Good?” he replied, turning the word into a question with an inflection in the scent.
+
+The Nameless One waited, but he didn’t have anything else to say. He felt her shrug, then turn to the side.
+
+The weapons were there. He hadn’t noticed when they’d been brought in, while he was on the roof at some point…. It was always the same: a rack with a variety of choices, never the exact same mix.
+
+“Choose.”
+
+Walking with complete confidence in the dark, he walked toward the rack and paused, letting his senses dwell on each choice.
+
+The sword was here… except it wasn’t the same one as before. This was heavier… and perhaps a little longer than the last one. A mace, simple and crude, some kind of… hammer? Next to that was… ah.
+
+He reached out and grasped the hilt of the axe, raising it with one arm and resting it on his shoulder. Heavy and sturdy, he felt more comfortable with it in his grip, a steadying and familiar presence.
+
+“You choose the axe again.”
+
+“I didn’t pick it last time,” he defended himself.
+
+He was never allowed to choose the same weapon twice in a row.
+
+“It is an advantage to be familiar with a range of weaponry,” the Nameless One pointed out.
+
+Jern considered that. It was true… but…
+
+“I like this one the best,” he said, patting his hand against the haft.
+
+The Nameless One listened, but whatever she thought of his answer, she did not share. That was their way, Jern had learned. Whichever ant was instructing him, they only shared what they were sure of. He liked it. When they spoke, he knew to pay attention.
+
+“You may begin. Remember, do not use any active abilities.”
+
+Were he to do so, blade light would be produced. He didn’t know why, but no light was allowed in this place, so he wasn’t allowed to use it.
+
+With a deep breath, he steadied himself, took the axe in both hands, and prepared his mind.
+
+Something flickered on the edge of his awareness, small, moving fast. Without thinking, he lashed out, a lightning quick two-handed swing, splitting the object straight down the middle.
+
+The next was already in the air and he moved swiftly into another strike, controlling the flow of momentum with an expert touch. Another target shattered, another in the air.
+
+Strike after strike, on and on it went. Sweat poured down his body, his muscles ached all over, from his shoulders and neck down to his toes, but still it didn’t end.
+
+There was a kind of peace that could be found in these moments. Jern wasn’t afraid of physical discomfort, he was accustomed to hard physical labour, yet the mental side was what he enjoyed the most. Single minded, no thoughts, no wavering, perfect focus. Nothing existed except the target, nothing mattered except the perfect flow of his limbs, shifting from one strike seamlessly to the next.
+
+Something descended from above!
+
+A change disrupted Jern’s focus and he frowned. He was partway through a swing, but if he didn’t adjust, whatever was falling from above would strike him.
+
+His hands slid along the haft, his posture changed and he brought his head down and his arms up. The object smashed into the haft of the axe with tremendous force, but he held firm, then adjusted again, shoving it to the side.
+
+Another target, another swing, but now there were more strikes mixed in, forcing him to adjust and block.
+
+If he was hit, he would fail. If he didn’t strike, he would also fail. The Nameless One was tricky as well. Sometimes he would need to extend for a strike, only for an attack to come from the worst possible angle at the worst possible moment, forcing him to scramble to defend himself.
+
+Once he was off balance, the following strikes became twice as hard and he had to work to regain equilibrium.
+
+Soon, he learned to be suspicious of any strike that was a little too far away, or at a little too much of a poor angle. He could get them, but if he were attacked, the disruption to his flow would be tremendous.
+
+The nature of the game changed.
+
+When could he strike safely? How far could he extend while still defending himself? How should he shift his feet to maximise opportunities in those rare moments he had time to freely adjust his position?
+
+The longer it went on, the more Jern realised he had to think several steps ahead, consider what may come as a result of any particular movement, and then after that…
+
+It was hard.
+
+Eventually, he’d thought so much that he didn’t need to think at all anymore; he simply moved, correctly.
+
+“Stop.”
+
+He paused, letting the axe head grind into the floor beneath him as he leaned on the haft, panting. He was exhausted, mentally and physically, but he felt… good.
+
+“This is a promising start,” the Nameless One declared. “You may use the axe for every session going forward.”
+
+Jern grinned. He liked the axe.

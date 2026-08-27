@@ -1,0 +1,117 @@
+---
+id: 18427e3c-ec57-5906-8e1e-25ecfbe13297
+page-type-slug: story-chapter-royal-road
+title: "157. Weighty Choices"
+slug: 0157-157-weighty-choices
+partOf: breaker-of-horizons
+position: 157
+ownLength: 2603
+unit: words
+publishedAt: 2021-12-02
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/798770/157-weighty-choices"
+royalRoadId: "798770"
+---
+
+The rest of the night passed in relative peace. Caldwell refused to answer any further questions and gently but firmly directed Caden to sleep in another dormitory building, and since Caden had no personal effects to speak of besides his watch, he simply walked out the front door and called up a Minor Query to get a wisp to lead him to the nearest available room.
+
+Caldwell had made it abundantly clear that they wouldn't be exchanging any more words until their meeting later that morning, so the only thing he could do now was try and get some sleep ahead of that meeting. He started off after the wisp, wondering idly how the Demiurge was going to repair the damage done to the building before the rest of the students arrived the following day. But just as the thought crossed his mind, he sensed a huge shifting in oblivion, and the entire building was veiled in the same manner as the rest of the hidden buildings in the Academy. Next to it, a previously-veiled dormitory was shifted back into the ordinary field of perception. The design of the dormitories was functionally identical, which meant that the average Academy student would probably never even realise that the building had been replaced.
+
+As he followed the wisp, Caden's mind couldn't help but dwell on the matters at hand. The casual veiling of a whole building was a mark of just how much was hidden from not only the general population, but even full-fledged arcanists. By the twins' account of encountering Kant and Reeves in one of the unused structures, it was clear that some of the staff knew about the buildings, but Caden was quite sure his father didn't. And if the existence of the Vault was anything to go by, it was clear that even sages actively involved in arcanophanic research didn't know about some very important things right under their noses. It was becoming clear to Caden that the whole Empire was built on layers and layers of secrets. The Fateweavers were stringing everyone along, but Caldwell was also clearly playing his own game. And what of the Emperor? Where did the nebulous head of the Empire fit into this convoluted puzzle of competing wills?
+
+And as if that weren't a big enough headache, Caden now had to really think about these enemy agents. Until now, he had only ever really thought of them as some sort of faceless 'other'. But who were they, really? Where did they come from? He tried to wrack his brain for some knowledge about the geography around the Empire but came up with a dismally incomplete picture. Somehow, he hadn't really learned much about life outside the Empire in all his years of education.
+
+Of course, it was obvious now in hindsight why that was the case. The Fateweavers had made it so, by a combination of social engineering and actual arcanophany applied in the field of prophecy. It just wasn't something anyone really seemed to be bothered about in the Empire. All Caden could recall with any certainty was that the Aiestan Empire itself served as a very important supplier of arcanophanic artefacts that powered much of the modern world, and that the nations that worked closely with the Empire prospered greatly, while those that were more belligerent did not enjoy as much progress.
+
+The only major power that Caden could name was Sedhah, which shared a border with the Empire. His vague grasp of history told him that Aiesta and Sedhah had a complicated past, interspersed with patches of happy cooperation and bitter rivalry. But he hadn't kept up with current affairs, and so now that he was actually considering the matter, he had no idea why Sedhahn agents had attacked him and his convoy on the way to Creyvlor, nor why they were apparently trying to kill the Chosen One.
+
+Caden sighed in frustration as he reached the dormitory building that Caldwell had newly assigned him to. If he wanted to try and get his attackers on his side, he had to figure out their motivations. If they were Sedhahn, that meant brushing up on the present state of affairs between the nations. And even if the attackers weren't Sedhahn, he knew he had better get a better handle on international politics so he would have at least some background no matter who they turned out to be.
+
+The new dormitory's layout was different, so Caden was saved from his ruminations since he had to pay more attention to his surroundings. The wisp led him to a room with a single bed and then winked out of existence. Caden found that fresh clothes had already been laid out for him on the bed, and that the cupboards were filled with the same things he had been wearing over the past week, all somehow created by Caldwell's wysana. Caden forced himself to take only a brief shower to wash the dust and debris off himself, then changed and got into bed, determined to catch some sleep.
+
+Sleep came quickly to his weary mind, but it was filled with uneasy dreams once more. He found himself constantly running through shadowy scenes that reminded him of Geldor, always pursued by faceless assailants. They directed deadly sequences at him while he unravelled as many as he could, but those that he missed ended up killing innocent passersby. A horrible anger seized him, and he started lashing out at the assailants, obliterating scores of them only to see them replaced by even more, as though disgorged from some hellish portal.
+
+And then for some reason, Ambrose was there in his dreams; no longer the slightly withdrawn youth with hunched shoulders, he was now standing tall, surveying the chaotic battle conducted in realms beyond the senses.
+
+"Help me, Ambrose!" Caden called, feverishly unravelling hostile sequences in order to buy himself some time.
+
+Ambrose turned to look at Caden. In that moment it was clear he was no longer quite the same person that he had once been roommates with. It was the Chosen-Sighted-Jailer who turned to him and smiled sadly, and something in that smile echoed the terrible power of a Fateweaver.
+
+Caden gasped and fell out of bed.
+
+Sunlight was streaming in through the windows since he had forgotten to draw the curtains when he had fallen, exhausted, into bed the night before. He lay on the floor for a moment, panting hard and drenched in cold sweat.
+
+The dream had been extraordinarily vivid. He could remember the horror of the people dying, whether innocents or assailants; the red-hot fury that burned in his veins; and even that final lingering smile from Ambrose that made him feel like he had been standing in the presence of a Fateweaver.
+
+Surely it was just a dream? It could hardly be some working of Prophecy since he was {~?~}, and apparently effectively untouchable now. Caden picked himself up and went through his morning routine of freshening up, trying to put the dream out of his mind by telling himself it was just the natural consequence of being dog-tired, coupled with having too many worries rattling about inside his head. And also having an overactive imagination.
+
+He had a meeting with the Demiurge to get to. It was a mark of how preoccupied he was that the thought hardly brought out any trepidation. It wasn't until he was in front of the library building that Caden remembered what he was supposed to be discussing with the Demiurge, and only then did he start feeling worried now about what to actually say.
+
+Caldwell was already there, seated at their usual table. He was back in his casual wear, swapping the formidable Demiurge robes for his usual white T-shirt and black pants, though the staff, as ever, balanced itself within arm's reach. As Caden sat down, he noticed Caldwell's empty cup filling up with coffee from the bottom up.
+
+"Breakfast?" Caldwell asked brightly, gesturing at the table. A stack of syrupy toast was on a plate in the centre, and the crumbs on Caldwell's own plate showed he had already started on them.
+
+"I'll... yeah, sure, thanks," Caden mumbled. He didn't bother placing an order since he knew Caldwell's wysana would just give him something he'd be happy with.
+
+The next instant, the empty plate in front of Caden was filled with an egg-and-ham sandwich. A cup of coffee also appeared by his right hand.
+
+This time, Caden sensed a bit more of how the wysana accomplished all this. It wasn't veiling and unveiling things. But it was definitely making use of the higher planes of oblivion somehow.
+
+"We'll need to make this a work breakfast, I'm afraid," Caldwell said, helping himself to more toast from the pile. "I've got to check the Academy's security and make sure we don't get any more unwanted visitors."
+
+"How did they get in the first time?" Caden asked, hoping to get some insight into how much the Demiurge knew.
+
+"They targeted you," Caldwell answered around a mouthful of toast. "Ordinarily, the network of augera provides every citizen of the Empire some fundamental protection against outsiders. You, however, were excluded from that after the Fateweavers deposited you here. So it's a gap in the defences."
+
+That was exactly what the augera had told Caden the night before, and he had been hoping that the Demiurge wouldn't know about it. He tried to match Caldwell's casual manner and began eating as well. "Did the augera tell you that?"
+
+"No," Caldwell smiled and winked. "I'm clever enough to work things out without their help. Actually, I worked it out despite their attempts to stop me from figuring it out. I gather they'd rather I not know about this gap, because they think I'll report it to the Fateweavers. So once I got past their interference and figured it out, I had myself a nice chat with them and assured them that I'm not going to say a word about this gap. For now."
+
+Caden couldn't help but stare. "You're not going to tell the Fateweavers that there's a hole in the Empire's defences, and that it could end up bringing the whole Empire down?" he clarified.
+
+Caldwell nodded. "Like I said last night, either the Empire is properly preserved or properly destroyed. Right now, I think it could go either way, so I'm happy to leave the gap unreported."
+
+"But then why do you need to check the security?" Caden asked, confused.
+
+"Just because I'm not reporting it doesn't mean I'm not going to do something about it," Caldwell said, frowning a little. "I don't want you dead, you know. So I'm setting some contingencies in place since the augera network isn't going to bother saving you anymore. Mind you, I can't promise you'll actually be safe, but at the very least, I don't want to be caught with my pants down like last night. I didn't even know something had happened until you called my wysana."
+
+Caden chewed in silence as he mulled over this new information, but before he could really properly digest it, the Demiurge continued, "So, to our actual business this morning. After the attack last night, I shifted you into a new dormitory, which you will have noticed is a single-room occupancy. If you stay there, you'll have new dormmates who will share the common space with you."
+
+"And if I don't want to stay there?"
+
+Caldwell pursed his lips. "Well, that's what we can talk about. The Fateweavers did not... how shall I put it... they did not write someone else into your spot. Ambrose will only recall rooming alone, and the things you helped your friends to accomplish, their memories will attribute to either themselves or their own joint efforts. And it seems the Fateweavers are happy to leave that arrangement as it is, so in theory, your old bed... well, it's still available."
+
+Caden's heart beat a little faster. "You mean I can stay with them."
+
+"You could," Caldwell said slowly. "But they wouldn't remember you. You'd be the new roommate who is finally taking that empty bed in Ambrose's room."
+
+"The Fateweavers would allow it?"
+
+Caldwell grinned impishly. "Their permission is not something you need. When you decide things, they'll be forced to work around you."
+
+"Does that mean my friends would be in danger if I room with them?"
+
+"Honestly, it's hard to say. There are a lot of things that are possible. The Fateweavers might use them against you in active ways. They might use them to try to win you over to their side. They might not bother using them, and instead make use of other subtler methods. I will note that regardless of where you stay, you'd still need to watch out for their machinations. In my estimation, being in another dormitory will not be any more dangerous, or any safer, than rooming with your friends."
+
+"Then..." Caden weighed the matter carefully. "This choice... is more about my own peace of mind. It's more about whether I want to know, first-hand, what's happening to my friends, or if I want them out of sight and out of mind."
+
+Caldwell nodded grimly. "Yes, it does boil down to just that."
+
+"What would you do?" Caden asked.
+
+Instead of responding immediately, Caldwell took a deliberate sip from his cup. He seemed suddenly older somehow, as though weighed down by a count of years beyond his actual age. "I never had a choice like that. But I imagine if I did... I would have wanted to be with my friends, whatever happened."
+
+Caden thought about what the augera had told him, and how they were offering him what seemed like unlimited access to knowledge, if only he would avoid contact with the Six-Chained-Foundations. The optimal choice, it seemed, was to take up that offer, and stay far away. He'd be able to consolidate his power and get knowledge straight from the tap, without going through the arduous process of training and learning with the Demiurge. And he'd also minimise the danger that might come with being in close proximity with the Fateweavers' main pieces in the Prophecy.
+
+And yet...
+
+Perhaps the Demiurge's methods, while brutal, were still best. Perhaps knowledge ought not to just be 'gifted'. What did the augera know of earned power? They were eldritch beings with different considerations from what they called 'mere mortals'. Their way might be quicker, but not necessarily better. And now that they were being utterly honest because it suited their agenda, it was clear that they only cared about his well-being insofar as their interests aligned with his. It was to their benefit if he became more powerful and knowledgable in a shorter timeframe, but it was not necessarily what was best for him.
+
+And he also thought about his dreams. About how happy he had felt facing mortal peril with his friends by his side. About how he had felt looking at Ambrose as the Chosen-Sighted-Jailer, not really out of fear of his roommate, but out of fear for him, as he wondered what terrible things had happened to make Ambrose smile so sadly.
+
+Caden swallowed the lump in his throat. "Then... then that's what I want. I want to move back in with them."
+
+The staff leapt into Caldwell's hand as he set down his cup and reached out to it. "Are you sure?" he asked, his tone suddenly ominously authoritative.
+
+"Yes," Caden said, steeling himself.
+
+"Then let it be so," Caldwell declared, tapping his staff gently on the floor.

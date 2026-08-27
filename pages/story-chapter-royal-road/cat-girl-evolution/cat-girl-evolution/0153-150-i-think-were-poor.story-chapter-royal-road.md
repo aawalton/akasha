@@ -1,0 +1,191 @@
+---
+id: 1345c2b0-0adc-5ee4-a2ec-15ed5d167fa5
+page-type-slug: story-chapter-royal-road
+title: "150 - I Think We're Poor"
+slug: 0153-150-i-think-were-poor
+partOf: cat-girl-evolution
+position: 153
+ownLength: 2172
+unit: words
+publishedAt: 2026-08-17
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3824294/150-i-think-were-poor"
+royalRoadId: "3824294"
+---
+
+“A frog heist?! Did you miss the whole part where he said he was hunting down people like you?”
+
+“Yeah, but–”
+
+“Yona, he’s a Tier 6 with an Epithet. He could kill us all without breaking a sweat.”
+
+“Well, we just have to make sure we don’t get caught, then.”
+
+“The safest option is to just leave.”
+
+“I’m not leaving without my frogs. Besides, if he wanted to kill me, he would have done it just now.”
+
+“He probably doesn’t know you’re one of the targets.”
+
+“Then let’s just keep it that way. What’s the big deal? It’s not like I’m gonna go start massacring innocents in front of him. As long as he doesn’t have some special way to tell, he won’t know. And if he does have something like that, or he was too dangerous for us to handle, I’m sure that my lovely, beautiful, intelligent goddess would warn me now that she can speak to me freely.”
+
+The response arrives almost instantly.
+
+[ He doesn’t, but it’s still not a good idea. ]
+
+“She said it’s fine.”
+
+“She did not,” says Lauren.
+
+I gasp loudly. “You dare presume to know the will of a deity?!”
+
+Lauren sputters for a few seconds, not sure how to respond while the twins purse their lips to keep from smiling too much.
+
+“Just kidding,” I say. “She just said he doesn’t have a way to find out, so as long as we don’t give him any reason to suspect me, we’re good! So, frog heist?”
+
+Lauren narrows her eyes suspiciously.
+
+“C’mon, would I really lie about something like that?”
+
+“Yes,” say the twins and Abby simultaneously.
+
+“Hey, that’s not fair,” I say, crossing my arms. “I mean, maybe I’d lie a little, but I’m not suicidal. I wouldn’t say something’s safe when it’s not and then dive headfirst into it. And definitely not when I’m putting you guys in danger too. I mean, this is probably gonna be dangerous no matter what, but in my opinion, the risk is worth the reward.
+
+“Besides, it’s not like we’re going to actually confront the paladins, right? We might not even see them again. We can just be quick. In and out. Three day heist. Easy.”
+
+Lauren still seems uncertain, so I look to the twins. They both shrug.
+
+“A frog heist sounds fun,” says A.
+
+“But also dangerous, given who’s involved,” says B.
+
+“We’re fine with going.”
+
+“But we’re also fine with not going.”
+
+After that supremely unhelpful answer, they shrug and give me apologetic looks, so I turn to Chad. He is stoic as always, though, and doesn’t show any preference either way. He’s been getting closer to Lauren too lately, so he’ll probably just go along with whatever she says.
+
+So, I turn my attention back to her.
+
+“Alright, I’ve got an idea. Why don’t we find a good recipe, and then cook up the frogs we caught, and then after we eat them, we can decide if we want to frog heist or not. That way, we can tell if it’s actually worth it. Maybe they don’t even taste that good.”
+
+“I suppose that’s not a bad idea…” says Lauren.
+
+“Great!” I said. “Okay, then, tomorrow, we find a frog recipe, make the frogs, eat them, and then decide.”
+
+“I think we should look for a chef who knows how to make them instead,” says Lauren. “Finding a good recipe will be difficult and expensive. Any chef with a recipe for an ingredient this rare and valuable isn’t going to want to part with it easily. It’s easier to just hire a chef.”
+
+“Or that,” I say.
+
+“The inn’s chef probably knows how to do it,” suggests A.
+
+“It would be shocking if he didn’t,” says B.
+
+“It’s settled, then,” I say.
+
+“We still need to figure out how to respond to Wesley, though,” says Lauren. “I think that we have to turn him down no matter what, right?”
+
+“Yeah, probably.”
+
+“Okay, then… I guess we’ll just say he seems to have things under control, and that we have somewhere we need to be soon?”
+
+“We should tell him I’m a criminal, too,” I say. “Maybe he won’t want to work with someone with an illegal Class.”
+
+“I doubt he cares, but it’s as good an excuse as any, since you do need to get to Ocula for that. That works. And in that case… I think everything’s settled? Unless there’s something I missed?”
+
+The twins shake their heads, and I can’t think of anything, so a second later, we all say our good nights and split off into our separate rooms. I sleep very well, dreaming of delicious deep fried frog legs, and wake up right at dawn to join the others in the dining hall for breakfast, and to ask the chef if he can make us frogs. Unfortunately, while we are able to get one of the employees to talk to the chef, he says he’s only ever worked with them once. We need to wait until this afternoon for the evening chef to clock in, because he actually has experience with them. He said that the evening chef would be open to it, though, so that’s good, at least.
+
+We eat in the dining hall, and Wesley arrives while we’re finishing up. Lauren takes charge of telling him we can’t join him, and he accepts our decision with grace, politely thanking us for taking the time to consider, and saying that if we change our minds, we’re always welcome to join up anyways. He seems like a pretty chill guy.
+
+With half a day of waiting ahead of us, the twins retreat right back into their room to do nerd stuff, and Chad goes back to his room to work on his secret wood carving project that I definitely haven’t been spying on, and Lauren and I decide to go shopping. Even not counting the frogs, there are a lot of good ingredients here we can buy to use for later. There are spices and herbs that neither of us have ever seen before, and centuries-old elves selling specific types of plants that they spent multiple lifetimes selectively breeding to perfection.
+
+I spend literally half my money in the food market area. No joke. Half. There’s just so much stuff, and it all smells so amazing that I can’t help myself. I think I bought, like, ten different types of cinnamon. I don’t even like cinnamon that much.
+
+And then, we reach the alcohol…
+
+I should have known that a city of elves would have some crazy aged beverages, but I didn’t realize how crazy they’d be. They have a whole district dedicated to alcohol, and the streets in the district are organized by Resilience. They have alcohol for weak people who are practically Earth human level, all the way up to alcohol for Tier 8s with Resilience well into the millions. I’m pretty sure that even I, with my Poison Immunity, could get drunk here.
+
+Lauren and I stick to the mid-upper level streets for people with Resilience in the 20,000 to 100,000 range. That seems like a ridiculously wide range to me, but given how stats scale, I’m pretty sure that I’ll be in the next stat range by the time I get halfway through my next Tier.
+
+It actually helps put things into perspective a bit, as I realize how wide the gap between me and the higher Tiers still is. Not that the Maligar Dungeon didn’t already kinda do that, showing us the destruction that an upper Tier could cause, but something about seeing it just casually integrated into society makes it hit home harder. I feel so strong right now, but I actually still have so far to go.
+
+Along each street, the shops are split by alcohol type, and they have just about everything, but the city seems to specialize in anything aged in barrels. Except instead of barrels, they just use nature magic to make holes in the dryad’s tree itself, and age it right there with the living wood. I think it’s a little more complicated than that, and they have some kind of magical shields in place to prevent contaminants from getting in and alcohol from getting out, and most of them also seem to do regular barrel aging (also with dryad wood) afterward, but it’s really weird. And really expensive.
+
+“Wow!” I say, holding an empty sampler cup in front of a whiskey seller. “How much is this?”
+
+“That bottle of Green Leaf you just sampled is 500 gold, but we also have higher end varieties,” says the silver-haired elf woman behind the booth. “Our Yellow Leaf, aged for four in the tree and thirty in the barrel is 800 gold per bottle, and the Red Leaf, aged for six and forty is 1200. Buying by the half dozen gives you a 10% discount!”
+
+“Ah, I see,” I say, nodding as if I am seriously considering it. “That sounds perfectly reasonable. I’m going to have a look around before I come to any final decisions, though.”
+
+“Of course,” says the woman. “Take your time.”
+
+I turn away, and Lauren does the same, and we walk all the way over into the wine section before turning to each other at the same time.
+
+“Lauren, I think we’re poor,” I say.
+
+“Yona, we need more money,” she says.
+
+“I think we both know what needs to happen,” I say.
+
+“No.”
+
+“Zorg bragged about having a bunch of gold.”
+
+“It’s risky.”
+
+“It’s not any more risky than a frog heist.”
+
+“We haven’t even agreed to do that.”
+
+“Okay, but Lauren, think about it for a second,” I say. “Even if the frogs aren’t good, we need to go get them anyway. Do you remember how much we paid for even one frog? That little hoppy bastard is worth an entire bottle of the ridiculous whiskey! And the croc bastard has hundreds. Think of how much money that is! Not to mention all the gold he probably has stashed away.”
+
+“That gold belongs to the villages he extorted.”
+
+“Not all of it. He says he was doing business too. We can skim some off the top.”
+
+“Can’t we just sell that big Named eagle? Algon?”
+
+“I fed most of him to my Dungeon.”
+
+“Well… What about the Menyar in the Dungeon?”
+
+“I guess we could try to sell him…” I say. “But I’ve got– hold on.”
+
+Abby, how much of our Dungeon essence is tied up in Menyar?
+
+“Almost all of our initial essence, and Phillip and I are using the rest to build out your second and third Floors.”
+
+And what happens if we kill Menyar and take all his meat outside the Dungeon?
+
+“We would lose a lot of essence, but it wouldn’t be–”
+
+“Okay, Abby says that Menyar is too valuable to lose right now. The Dungeon doesn’t have enough essence.”
+
+“That’s not– Okay, you know what, nevermind. I want to see the frog heist too.”
+
+“Well…” says Lauren, trying to come up with some other reason to disagree.
+
+“Just picture it,” I say. “You and Chad on the beach. He’s shirtless, of course, and–”
+
+“Yona!” says Lauren, her face turning red.
+
+“Wait, hear me out. You and Chad on the beach, enjoying a fancy meal of Maligar habanero salsa on Named fish tacos. You reach over, and beside you is a bottle of Red– no, Gold Leaf. The stuff on the top shelf that’s so expensive the nice elf lady didn’t even bother to tell us the price. You pour yourself a glass, but you get distracted by Chad’s perfect pecs and splash a bit on the table. Hundreds of gold, gone with one mistake, but you don’t care. Why don’t you care? Because you’re rich. Because you stole hundreds of fancy frogs from an evil crocodile, and sold them in the capital where they’re harder to get for a ridiculous amount of money.
+
+“And the best part is that you don’t feel any guilt over this, because that crocodile is a cruel dictator, and by stealing his frogs, we are actually helping to save the world. Just think about it. It’s a Named Leader, a danger to everyone, but you can help stop him from expanding his influence by stealing his frogs. It’s for the good of the world, Lauren.”
+
+“Okay, okay, stop,” she says, waving her hand. “I get it. But it’s still dangerous.”
+
+Got her.
+
+“We’ll be careful,” I say. “As careful as possible. Not a scratch on us.”
+
+She wavers a moment longer, then sighs. “Alright.”
+
+“Yes!”
+
+“I will seriously consider it!” she says loudly. “I’m not agreeing to anything yet.”
+
+“Yeah you are. You know you want to.”
+
+“We have to weigh the risks!”
+
+“Sure, sure. Alright, now let’s pick out a nice bottle of wine to enjoy with our frog later, and move on. I’m gonna go bankrupt if we stay here any longer, and I still want to go clothes shopping.”

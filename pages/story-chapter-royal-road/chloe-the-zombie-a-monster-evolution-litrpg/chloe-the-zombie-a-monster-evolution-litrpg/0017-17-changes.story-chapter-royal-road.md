@@ -1,0 +1,171 @@
+---
+id: 48a5dc52-5fd8-5a39-9edc-50fe3d54eb0e
+page-type-slug: story-chapter-royal-road
+title: "17: Changes"
+slug: 0017-17-changes
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 17
+ownLength: 2158
+unit: words
+publishedAt: 2025-08-26
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2549628/17-changes"
+royalRoadId: "2549628"
+---
+
+An angel’s first and foremost duty was to serve the gods. That was the foundation etched into their being from the moment they first earned their wings. Some found solace in it, others sought glory in the endless work, and a rare few, like Z, made the mistake of being very good at it.
+
+Z had been Employee of the Month for a thousand years running. The gods rewarded her the only way they knew how. With more work, piled higher and higher until even she struggled to keep pace.
+
+Oh, and the cherry on top? Z wasn’t even her real name.
+
+The CEO, in their infinite wisdom, decided every angel needed a “young and refreshing” name, something “cool and hip.” Naturally, that meant a company wide rebranding.
+
+Z counted herself among the lucky ones; she got to keep her name as a single letter. Others weren’t so fortunate. Some were stripped of their identities entirely and reassigned numbers. And the truly cursed? They had to keep their names, but swap out letters for numbers, because nothing says modern quite like turning “Gabrielle” into G4BR13LL3.
+
+People often wondered why Z stayed, given how openly she despised her job, she never bothered to hide it. The truth? She was bound by a contract forged by the gods themselves. Breaking it wouldn’t just cost her the job. It would cost her everything.
+
+Perhaps that was why she no longer remembered what rest felt like. A century? Two? Paperwork dulled the centuries better than wine ever could, not that she drank. The gods had little tolerance for angels indulging in mortal comforts.
+
+Z was frustrated, exhausted, resentful even, but defiance? That was not a luxury afforded to those bound by divine decree. So Z did what she always did. She adjusted her spectacles, tucked her wings neatly behind her chair, and stared at her computer.
+
+Her cubicle was a coffin of beige walls, lined with neat stacks of paper that multiplied whenever she dared blink. A small plaque hung on the wall, as if mocking her devotion: Divinity Inc: Where eternity meets excellence.
+
+Z loathed that plaque. It encapsulated everything wrong with eternity: endless responsibility dressed in sanctity and branding.
+
+The shrill chime of her desk phone broke the monotony. Z reached for the receiver. “Administrator Z speaking."
+
+She listened in silence as the briefing rolled on, it was more of the usual. Z was asked to make yet another report on the progress of the Great Game. “Understood. Always an honor to serve, my la—” The voice on the other end cracked like a whip, and Z flinched.
+
+She clenched her teeth, forcing down a growl as her jaw tightened. After a few seconds, she finally spoke again. “My apologies, CEO Y.”
+
+The line clicked dead. Z replaced the receiver and allowed herself the smallest exhalation, one that trembled at the edge of a sigh. Her attention drifted back to the screen as she reopened the report.
+
+Columns of names and fates filled her screen. The Great Game had already claimed nine champions, slightly higher than the last iteration at this stage, but still within acceptable margins. That number would climb, as it always did.
+
+Against her better judgment, Z scrolled deeper into the rankings. Just a glance, she told herself.
+
+She was a hardworking angel with barely a shred of free time. So, peeking at the progress of the Great Game for her own amusement was one of the few ways Z could have a bit of fun. The report could wait.
+
+The top three champions had changed compared to the last time Z checked. In first place was the serpent who had clawed her way into becoming a gorgon.
+
+In second place was a fish that had grown legs, a merman now, wide-eyed and gasping at the strangeness of land. Apparently this one hadn't planned on going onto land, but once an evolution was chosen, it could not be reversed.
+
+In third place was a squid, who had since evolved into a psychic kraken. Z hoped this one wouldn't make it onto land anytime soon, the reports she'd have to make if it did were… nevermind.
+
+With the top three champions done, another curiosity tagged in Z's mind. She wondered how the bottom ranked monsters were doing.
+
+She scrolled straight to the bottom of the list. Last she checked, a certain zombie girl had been rotting down there, and Z was curious, had she survived or finally died?
+
+To her surprise, the name wasn’t there. In fact, it took a bit of scrolling before she found it. Chloe was ranked eighty out of the ninety one champions still clinging to the Great Game.
+
+Z allowed herself a thin, amused smile. Eighty was higher than she expected, and it was enough to keep Chloe out of the bottom ten. If things kept trending this way, the little corpse might actually survive the next cull. Stranger things had happened before.
+
+Her fingers stilled for a moment before moving again, opening the full profile. Z skimmed the data with the detached efficiency of habit, and then paused.
+
+Apparently, Chloe had… made a friend? And not just anyone, a human noble, of all things. On top of that, she’d even helped save an entire village from a goblin attack.
+
+The smallest sound escaped Z's throat, a breath of laughter so thin it could have been mistaken for a sigh. Well, aren't you just full of surprises?
+
+For the first time in a long while, Z felt the stirrings of something she’d nearly forgotten, curiosity unshackled from obligation. She wondered how far this anomaly could run, how high it might climb before the gods noticed and took more interest.
+
+And for reasons she chose not to examine too closely, Z found herself hoping Chloe ran faster than the gods could reach. Good luck, zombie girl.
+
+***
+
+It's been a while since Chloe and Baron William left the village. Maybe a few days? Maybe more? Chloe had totally lost track.
+
+Time got all weird when you were stuck in a wagon with nothing to do. Point was, she’d been riding with Baron Willy on the way to Kelvane.
+
+Surprisingly, the Baron actually knew how to handle those giant beast-things pulling the wagon. Horses, Chloe believed they were called.
+
+The villagers were pretty reluctant to give up their horses at first. Then Baron William flashed a few shiny coins, and suddenly they couldn’t stop grinning. Weird, apparently those little discs could make people do things? Kinda like how she spent trait points for new tricks. Different game, same rules.
+
+Regardless, most of the time, Chloe just sprawled in the back of the wagon. She occasionally flicked pebbles at birds for entertainment, because there wasn't much to do.
+
+So eventually, Chloe asked questions. Lots of questions.
+
+Mostly about human stuff, like why they built houses instead of just living in caves, why they wore socks under shoes, and what soup actually was (because it felt like hot water that gave up halfway through being food). She also wanted to know why humans lied so much, why their hair fell out when they got old, and why they got so fussy about clothes.
+
+At first, William answered with his usual noble flair. But as the days dragged on, his replies grew shorter, his posture slouched more, and he started staring off into the horizon like a man who regretted every decision that brought him here.
+
+Still, he kept talking. Maybe because there wasn’t much else to do. Or maybe, he was starting to enjoy their weird little conversations.
+
+“So, if I take a bath with soap, and then I smell like flowers… does that mean flowers are actually made of soap?” Chloe asked.
+
+“No. Soap is made of fat and ash. Flowers are… well, flowers.” William explained.
+
+“Huh. I still think flowers are suspicious. Too colorful. Too smug.”
+
+"I… sure."
+
+Eventually, Chloe spotted something weird on the horizon. At first, it looked like a lump. A really big lump. Bigger than any hill she’d seen so far. It was all jagged edges and towering shapes, sitting way too still to be natural.
+
+“What’s that?” she asked, elbowing Baron Willy, who looked about three seconds away from passing out.
+
+He blinked, rubbed his eyes, then followed her gaze. When he saw it, a flicker of recognition lit his face. “Ah. It seems we’ve arrived after all. That would be Kelvane.”
+
+So that's Kelvane? Wow, it looks pretty big.
+
+Chloe leaned forward, eyes wide as the wagon rolled closer to the city gates. Now that she was actually looking for it, she started spotting all the things Baron Willy had rambled on about during the trip.
+
+Big stone towers jutted into the sky, and thick walls wrapped around the entire city like a colossal stone shell. The whole place looked like it had grown in every direction at once and just kept going. For a moment, Chloe couldn’t help but be impressed, somehow, humans had built all that. That was… actually pretty impressive.
+
+She shot William a grin, like a kid who just found something shiny. “Are all cities like this?"
+
+He chuckled softly. “Kelvane is a respectable city by Ishgrian standards. Not the largest, perhaps, but prosperous and orderly enough to hold its own.”
+
+“Wait, what’s an Ishgria? Is that, like, a type of food?”
+
+William blinked, clearly thrown. “No… Ishgria is the kingdom we’re currently in. I'm quite sure that I've told you this before."
+
+“And the capital? Is that, like, the queen's house or something?”
+
+“The capital is the largest and most important city in the kingdom. It’s where the royal family resides, along with the high courts. It's the heart of Ishgria, politically and culturally.”
+
+She gave a long, slow nod. “So… queen's house, but with extra steps.”
+
+William exhaled through his nose, but didn’t argue. Chloe grinned. Looks like I'm right!
+
+As the wagon rolled closer, Chloe noticed something strange up ahead. A long, winding line of wagons and carts stretched from the city gate all the way down the road. Dozens of humans stood around, some pacing, others slumped in boredom. A few leaned against their wagons like they’d been waiting for a really long time.
+
+Chloe pointed with a lazy finger. “Why are all those people just standing there? Is it some kind of weird human ritual?”
+
+Baron William chuckled, adjusting the reins. “That’s the inspection queue. Anyone transporting goods into Kelvane must undergo a routine check by the city guard. It helps prevent smuggling, taxation fraud, and other unsavory things.”
+
+“So, do we have to wait behind all those people to get into the city?”
+
+“Actually, no. You’ll be pleased to know that we won’t be waiting in line.”
+
+“Oh?”
+
+“Please, you are traveling with a man of noble standing. We don’t wait in lines.”
+
+As they neared the gates, two armored guards stepped forward and crossed their swords in front of the wagon. They looked like the kind of men who hadn’t laughed in years. Yeesh. Who stole all of their happiness?
+
+The moment they recognized Baron William, everything changed. One of them snapped to attention while the other lowered his blade in a rush.
+
+“Baron William?! We thought you’d been taken!”
+
+“There were rumors, My Lord. Some feared that you were kidnapped, maybe worse.”
+
+“I hadn’t planned on arriving like this. We were ambushed on the road by bandits. If not for this young adventurer’s timely intervention I likely wouldn’t be standing here.”
+
+William gestured toward the wagon, where Chloe was still lounging like she had all the time in the world, casually chewing on something she’d fished out of her coat pocket. Noticing that people were talking about her, she perked up and gave a lazy little wave.
+
+The guards turned to her, eyes widening as they took her in. One of them straightened, the other stiffened.
+
+“You fought off the bandits?”
+
+“Yep! Did it all by myself.”
+
+The guards exchanged a quick glance, clearly unsure whether to be impressed or intimidated. They nodded stiffly and stepped aside, lifting their swords in a formal salute.
+
+“Welcome to Kelvane, my lord. And you too, adventurer.”
+
+Chloe sat up straighter, a smirk curling at the edges of her lips as she soaked in the moment. That’s right. Bow before your zombie queen. Who’s also, apparently, an adventurer now I guess? Not sure how that works.
+
+As they passed through the gates and into the city, Chloe took in the chaos. People crammed into every corner, squeezed between buildings that looked like they'd been stacked in a hurry. Everything moved. Everything shouted. And everything smelled.
+
+People bustled between narrow streets, arms full of bread, fruits, and other stuff Chloe didn't recognize. There was even a guy juggling knives while standing on a barrel.
+
+It really did feel like another world. Chloe wasn't sure if she was meant for places like this.

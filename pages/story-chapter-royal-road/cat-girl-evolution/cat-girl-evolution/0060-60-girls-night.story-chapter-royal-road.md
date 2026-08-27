@@ -1,0 +1,223 @@
+---
+id: ed5d97ab-4f45-535f-8be6-81d05fa20b99
+page-type-slug: story-chapter-royal-road
+title: "60 - Girls' Night"
+slug: 0060-60-girls-night
+partOf: cat-girl-evolution
+position: 60
+ownLength: 2359
+unit: words
+publishedAt: 2025-12-10
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2834843/60-girls-night"
+royalRoadId: "2834843"
+---
+
+The entire city, as its name would suggest, is set on a river fork. The river runs in from the east, splits right in the center of the city, and exits through two big brick archways and the two branches continue onward toward the ocean. Most of the commercial stuff is right along the riverside, with the fork in the center being the hub for business. Lauren’s house is just a bit south of the southernmost offshoot, so I Blink a few times to get to the water, then walk on the street that runs alongside it.
+
+It’s pretty nice out tonight, I think. That might just be my Resilience talking, but it’s not too warm or too cold, and there’s a nice breeze. The river is surprisingly clean, and nothing smells like garbage, and there are even some people playing in the water. It’s pretty nice.
+
+I wander around for a bit, moving at a leisurely pace, since I’m not really looking for anything. I get a lot of stares, probably for my glorious ears and tail, but despite all the attention I draw, no one stops me. I pop by a few food stalls that smell good. One of them sells these lamb skewers that are smothered in a slightly sweet, super savory sauce that is so good it makes even the wooden skewer taste good.
+
+Eventually, I come across a shop with a dress on the sign. I glance down at my own clothes, which are the dead mage from Ryantown’s, and don’t fit perfectly, and then back at the shop. I have money now in the form of a badge-shaped debit card, and I haven’t been on a shopping spree in months. I see no reason to hold back!
+
+I push the door open which makes a little bell ding, and immediately, a short, middle-aged woman comes rushing over with a smile on her face. Her namecard says her name is Martha and that she has some stupid System developer-created Profession with like 4 descriptors followed by “Tailor.”
+
+“How can I help you today, miss?”
+
+I see her glance at my ears and tail, but her face doesn’t change.
+
+“Clothes!” I say.
+
+“That’s my specialty!” she replies. “Are you looking for anything in particular, or just here to browse?”
+
+I look around the room at what’s available. It reminds me a lot of a modern store, except with fewer of everything, and there don’t seem to be different sizes. All the shirts and pants and dresses and whatnot are exactly the same size. I guess that means there’s some magic shenanigans going on here so she can resize them as needed.
+
+As a result of the low quantity, there’s a pretty big variety of everything though, from formal-looking dresses to travel clothes. Some of the pants look pretty nice, but there’s a minor problem.
+
+“Do you have any pants designed for people with tails?”
+
+I flick my tail up from under my skirt to demonstrate. She blinks in surprise, but doesn’t miss a beat, responding immediately.
+
+“I don’t have anything ready-made, but I can whip something custom up if you’re willing to pay a bit extra!”
+
+I pull out my golden badge and show it to her.
+
+“I can pay plenty!”
+
+Her smile visibly widens, and she turns toward the back of the shop.
+
+“Right this way!” she says. “I can help you in the back!”
+
+It only takes a couple minutes for her to figure out how to work around my tail, and set me up with a bunch of underwear and a couple ordinary pairs of pants. With that, I’m more or less set on what I need, but then she says some very dangerous words.
+
+“If you have the time, I have some outfits that I think would look wonderful on you.”
+
+An hour and a half later, I have agreed to purchase more than twenty outfits and show no signs of stopping.
+
+“Incredible!” says Martha, clapping as I walk out of the fitting room in an elegant black dress that she added a custom tail hole to.
+
+Beside her, her daughter Mary also applauds. The daughter looks about my age, and she came downstairs shortly after I arrived so she could man the shop while her mom was helping me. Of course, the shop isn’t busy enough to need her constant attention, so she’s spent most of the time with us.
+
+“Is there anything you don’t look good in?” says the older woman.
+
+“Nope!” I say happily.
+
+Martha is a good person. I know this because only good people can truly appreciate beauty, and there is no other word that goes better with me than “beauty.”
+
+“Gluttony.”
+
+Shut up.
+
+“You were snacking in the dressing room.”
+
+Okay?? And???
+
+Anyway, Martha is a great person. So is Mary. They’re both great people.
+
+“Mary, could you go start closing up,” says Martha leaning over to Mary.
+
+Mary nods, and gets up to go do something near the front.
+
+Seeing this, I, being a great person as well, decide it’s probably time to leave. Great people don’t make other great people work after closing time. Besides, I have enough clothes, and there’s someone waiting for me outside.
+
+“I’ll take them all!” I say. “And I should be wrapping this up.”
+
+“Oh, it’s perfectly alright,” says Martha, graciously trying to maintain hospitality. “If you want to stay, we don’t mind at all.”
+
+“Oh, no, I really should be going,” I say. “I’ve got other things to do tonight.”
+
+“In that case, let me tally you up really quick!” says Martha.
+
+She walks over to the table where we put all the clothes I tried on and pulls out a piece of paper. She goes through the clothes one by one, writing each one down on the paper as she mutters to herself. As she does, I notice that I have agreed to purchase quite a few things. I have no idea how much any of it costs. It should be fine though, right?
+
+It takes a full minute for Martha to finish, at which point she turns back to me with a very wide smile.
+
+“The total for all the clothes unmodified would run you 23 gold,” she says. “Modified, that would be 34 gold and 50 silver, but given that you are buying in such bulk, I’ll waive the modification fee, so 23 gold is your total!”
+
+I blink a few times. That’s it?
+
+“Each of the meat skewers you bought was 5 copper, and there are 1000 copper in a gold, so you are purchasing 4,600 meat skewers worth of clothes.”
+
+Yeah… But I have like 5000 gold from completing those Quests, don’t I?
+
+“Just because you have a lot doesn’t mean this is cheap.”
+
+Shut up, Obblivious. This is just what it’s like to be rich.
+
+“Sounds good!” I say, holding out my badge.
+
+She holds out a gold badge of her own, clicking it against mine. Hers has a needle and thread on it though, while mine has a sword and shield. There’s a little flash of mana between them, and then she pulls hers back.
+
+“Would you like to take them with you now? If not, we can have them delivered at a time of your choosing, free of charge.”
+
+“I’ll take them now,” I say.
+
+I walk over and conjure a tiny head in my hand out of her sight and press down on the stack of clothes. They all start rapidly disappearing, being pulled into my Stomach, and soon they’re all gone. I consider changing out of this dress, but decide against it. It’s a little uppity for the setting, but I haven’t gotten to dress up in a while, so it’s a nice change of pace.
+
+“It was a pleasure doing business with you,” says Martha when I finish. “Come back any time!”
+
+“I will!” I say.
+
+I head out of the store and turn to the right where I see Lauren leaning back against the wall with her arms crossed.
+
+“You’re done?” she asks, pushing herself off the wall and stepping forward.
+
+“I told you that pose looked cool.”
+
+“I don’t know what you’re talking about,” she says, blushing. “Are you done with what you wanted to do?”
+
+“Heck no,” I say. “This was just a detour. I still need to explore more.”
+
+“Well, I’m glad you got some more clothes.”
+
+“Me too. My tail can finally be free!”
+
+I flick it around to demonstrate its freedom, drawing the eyes of a few passersby.
+
+“And I can finally have those clothes you borrowed back,” she nods. “Was there anything else you needed to get while you were out?”
+
+“I dunno. I was just gonna wander around and buy whatever I felt like.”
+
+“If we go a little further north, there’s a little shop that gets imports from all over. I like to get exotic spices there.”
+
+“Let’s go there!”
+
+“Alright, then follow me.”
+
+Lauren guides me through the city, telling me about a couple of the places we pass by. There’s an innocuous little building near the water that’s apparently a really delicious pastry shop owned by the most adorable old couple. They’re closed right now, but I’ll definitely have to check it out later.
+
+There’s also this plant nursery a bit further down that’s owned by an elf. It’s also closed for the night, but I definitely have to see that. I want to see that even more than I want to eat those pastries. I can’t believe I’ve been in a fantasy world for almost two months and still haven’t met any elves or dwarves or goblins or orcs or anything like that. I mean, I saw a couple when I was in that other town, but only for a couple seconds.
+
+After hearing about that shop, I ask Lauren if there are any dwarves around, and she says that they actually have their own district, and we take a quick detour away from the river to a part of the city that looks like someone cut it out of a steampunk world and dropped it here. All the buildings have metal plating, and half of them are spewing smoke and steam from massive chimneys. Even this late at night, I can still hear hammering all around, and when we walk through the streets, we’re among the tallest there.
+
+“Lauren!” calls one of the dwarves. “Need repairs?”
+
+He looks exactly like I imagine a fantasy dwarf should. Short, broad, and with a beard that hangs down to his knees. He’s got thick, bushy eyebrows that give him a permanent angry look, but his cheeks are red and he’s holding a big tankard of something that smells like beer, but with 50% alcohol content.
+
+“Not today,” says Lauren. “Just showing Yona around. Yona, this is Foundri, the smith who makes and maintains all my weapons.
+
+“Your name is Foundri?”
+
+The dwarf laughs loudly, sloshing a bit of his drink.
+
+“Aye,” he says when he calms down. “My dad had a good sense-a humor didn’t he? Least I can do is live up to the name. I’m the best blacksmith in town, so if you need anything, make sure you come to me first.”
+
+“Yona, do you need any weapons?” asks Lauren
+
+“Yes,” I say immediately.
+
+I don’t, actually, but why would I pass up a chance to see a dwarven workshop and buy dwarven weapons?
+
+Unfortunately, as it turns out, dwarven workshops are hot as heck, and they’re also kinda crowded and messy. I do end up buying a spear, a sword, and a few smaller knives, just for fun, but we don’t stay for too long.
+
+“Are all dwarves blacksmiths?” I ask as we leave the dwarven district.
+
+“Not all of them, but a lot of them, yeah,” she says. “Dwarves have a few racial Traits like Heat Resistance and Metal Affinity that make them really good at it. They also get bonus Finesse and Resilience from their Species levels. Since they have so many natural advantages when it comes to metalworking, smithing is just part of their culture, which is why cities usually try to get them to live together, because no one wants to live next to a dwarven smith.”
+
+I focus my ears behind us where dozens of dwarves are still hammering away.
+
+“Yeah, that makes sense,” I say. “Is there an elven district too?”
+
+“No, elves prefer to stick to their homeland. They generally disapprove of what humans and dwarves do to the world, preferring to live in forests with living homes.”
+
+“Living homes?”
+
+“Houses formed of living trees using nature magic.”
+
+“Are they also vegetarian?”
+
+“No. Why would they be vegetarian?”
+
+“I dunno. I just feel like if any people were vegetarian, it would be the elves.”
+
+“No, actually, they eat a lot of meat. In fact, some of the best chefs in the country are elves, since they’re so good with nature magic that they usually have the best of the best when it comes to herbs and spices.”
+
+“Oooh,” I say. “Are there any elf chefs here?”
+
+“Not in this city, no. There aren’t many elves at all on this side of the country.”
+
+“Interesting. If we go to a bigger city, will there be elf chefs?”
+
+“Probably.”
+
+“We should go to a bigger city.”
+
+“That’s my plan. You mentioned you wanted to do that too?”
+
+“Yep! I want to level up and eat stronger monsters!”
+
+“Fair enough,” she says. “I was actually in the process of getting my house ready to sell so I could move when I got those emergency Quests. It shouldn’t take more than a week or two now that things have calmed down.”
+
+“Great! Let’s go then!”
+
+I’m not really in a huge rush. A week or two to laze around before getting back to business. This sounds perfect!
+
+“Sounds like a plan. Now let’s—”
+
+She pauses midsentence and fumbles for something in her pocket. A moment later, she pulls out a small crystal that’s blinking red.
+
+“Shit!” she says. “We need to head back!”
+
+“What happened?”
+
+“Someone broke into my house!”

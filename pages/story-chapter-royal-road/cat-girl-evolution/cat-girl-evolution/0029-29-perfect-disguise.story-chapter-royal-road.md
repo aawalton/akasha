@@ -1,0 +1,187 @@
+---
+id: cbb3daf4-3418-5e23-8387-0aa5e212e4f3
+page-type-slug: story-chapter-royal-road
+title: "29 - Perfect Disguise"
+slug: 0029-29-perfect-disguise
+partOf: cat-girl-evolution
+position: 29
+ownLength: 2607
+unit: words
+publishedAt: 2025-09-28
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2634838/29-perfect-disguise"
+royalRoadId: "2634838"
+---
+
+Abby, what happened to you?!
+
+“I got an upgrade. Now, I can talk to you, so you don’t have to read to see what I’m saying.”
+
+Huh. Neat.
+
+“It also means that you can’t ignore me anymore by just closing your eyes or looking away.”
+
+…Is this the real reason you wanted me to become a Named monster?
+
+“No, I am bound by my code to want what is best for you.”
+
+…But you also wanted me to be unable to ignore you.
+
+“In order for you to achieve the best results, it is imperative that you have access to the best, most up-to-date information.”
+
+Right. Well, I’ll get you back for this. Somehow. Fool me once, shame on you. Fool me twice, still shame on you. This is the second time you’ve lied to me.
+
+“I never lied.”
+
+Sure you didn’t. And your plan didn’t work anyway. I can still ignore you if you’re talking
+
+Abby says something in response to that, but I don’t pay attention, instead looking at my new skills. And Traits. And yes, that’s Traits plural, because Gluttony upgraded again, and it has become even more overpowered.
+
+[ Gluttony (Stage 5): Your hunger will never be sated. No matter how much you consume, you will always want more. Includes Traits: Poison Immunity, Food Sense, Calorie Burner, and Stuffed, Hungry, Strong Teeth, Iron Stomach, Discerning Palate, Diverse Tastes ]
+
+[ Poison Immunity (Stage 1): You are immune to weak poisons. Includes Traits: Poison Resistance (Stage MAX) ]
+
+[ Food Sense (Stage 5): You can sense nearby items that are edible, and you can sense what they are ]
+
+[ Calorie Burner (Stage 5): When injured or exhausted, you will heal faster at the expense of Satiety. Current Satiety: 564891897% ]
+
+[ Stuffed (Stage MAX): You are a glutton who stuffs themselves silly. While beyond 100% Satiety, your stats are increased by 100%. Current Satiety: 564891897% ]
+
+[ Hungry (Stage MAX): You are always hungry. While below 70% Satiety, your stats are increased by 100%. Current Satiety: 564891897% ]
+
+[ Strong Teeth (Stage 4): Your teeth are significantly stronger than usual, allowing you to chew extremely tough meals without issue ]
+
+[ Iron Stomach (Stage 4): Your stomach is significantly stronger than usual, allowing you to safely consume and digest most things that would otherwise be inedible ]
+
+[ Discerning Palate (Stage 2): Your Gluttony has caused your tastebuds to evolve to be more sensitive than ever, and you can glean a somewhat detailed information profile from anything you eat. ]
+
+[ Diverse Tastes (Stage 2): Your Gluttony has caused your tastebuds to mutate. You will now be able to enjoy foods that you otherwise would have no taste for ]
+
+Poison Resistance seems to have turned into Poison Immunity, Stuffed and Hungry maxed out at a 100% buff, and I got two new included Traits. Both of them look kinda weird. I’m not entirely sure how that Discerning Palate works, and I’m worried about how Diverse Tastes works. Mutated tastebuds? That’s not going to affect the taste of seafood, right?
+
+“Blergh!”
+
+Worried, I summon some octodude and take a bite. Thankfully, it still tastes just as delicious as before. Then, I realize that I’m actually starving, and I devour two whole tentacles before I feel somewhat sated again.
+
+As I eat, I can feel my new Discerning Palate Trait activating. It feels good, actually. Like the food is directly nourishing my brain. A magical brain massage. When I finish eating, I mentally reach out to the Trait to see what it’s done. There’s no System interface, but my brain gets flooded with information, and none of it is useful. I mean, maybe it would be useful if I hadn’t already fought and killed a bunch of octodudes already, but it basically just tells me they have tentacles and are strong and can camouflage and some other things like that. Maybe if I eat more, it’ll tell me more interesting things.
+
+I’ll test that out later though. I’m pretty sure I’ll have to eat a lot of octodude to get that far, and I’m not that hungry right now, so I’ll mess around a bit with Diverse Tastes before jumping back into System stuff.
+
+I close my eyes and use Food Sense to search around for something edible that I wouldn’t normally eat. There’s the trees, of course, and the dirt. Now rocks seem to be included though, and not just small ones. I can sense some big boulders under the earth that I could take a bite of if I wanted.
+
+Snatch!
+
+A rock the size of me appears in front of my face. Hesitantly, I take a bite. I know that Strong Teeth upgraded and that I have higher Stats now, and that Food Sense says this is edible, but I can’t help but feel nervous about taking a bite out of a rock.
+
+It turns out, I had nothing to worry about though. The rock crumbles like a cracker in my mouth, and I chew it a few times, breaking it into dust and fragments before swallowing it. This tastes… interesting.
+
+I take another bite.
+
+Hmmmm.
+
+I take another bite.
+
+Yeah, rocks taste good now. I wonder if these actually nourish me though. Can I survive just by eating rocks?
+
+That lying voice in my head tries to respond, but I ignore it. It doesn’t really matter anyway. Even if I can’t survive off it, at least I have more tasty things to eat.
+
+I spend a few minutes walking around, looking for other typically inedible things to eat. I try some tree again, and some grass, and dirt, and a few different kinds of rocks. The grass tastes mediocre, and the dirt is a bit bland, but they all taste much more interesting than I expect them to. And they’re all wholly edible. I could make some really weird meals with this.
+
+The most interesting part of this though is that now, even the mana in the air is registering as edible. There also seems to be a lot more of it now than before I evolved. That’s weird, but whatever.
+
+I can’t exactly take a bite out of the air, but I can open my mouth and walk forward, which gets the mana into my mouth, and once in my mouth, it just kinda naturally flows into my stomach. Very interesting. I can even Snatch the mana now, though it’s kind of a waste because it costs more to Snatch it than I recover from Snatching it. I bet I can figure out some fun ways to use this new knowledge though.
+
+Later though. I’ve got a bunch of other System stuff to go through. All my other Traits also went up by 2 Stages, but there don’t seem to be any major changes from the old versions. They just got better at what they already did. Now, time to check out the super new stuff I got. Custom Namecard!
+
+[ Custom Namecard (Stage 1): You may change the information on your namecard ]
+
+Abby, what does this mean?
+
+“Oh, so now you want to listen to me.”
+
+Yes. Tell me what that means.
+
+“Well, you could already choose whether to display your Class, Profession, or Species on your namecard, and you could choose to display your actual Name, and even Titles if you wanted to. Now, however, you can lie on your namecard. For example, you can put that you are actually an Elephant, or that your name is Jeff, or that your class is Paladin.”
+
+Can I also tell the truth?
+
+“Yes, as I just said-”
+
+Alright. I have an idea.
+
+“No.”
+
+Yes.
+
+“That’s a bad idea.”
+
+Shut up. It’s a great idea. You have no imagination.
+
+Okay, now that I have that set up, on to Perfect Disguise.
+
+[ Perfect Disguise: You can craft a disguise so perfect that it cannot be seen through by any conventional means. Proficiency: Early. Status: Not Chosen ]
+
+Okay, that’s not very clear either. These developers are really lazy. Abby, how does this work?
+
+“...Yeah, I have to admit that this isn’t worded very well. You can select one single disguise. It can be anything. It can simply be a change in fur color, or it can be a whole change in species. You can only have one at a time, and if you unset the disguise, you need to wait out a long cooldown period before you can select a new one. However, it is, as described, perfect, and to almost everyone in the world, it will be impossible to tell what your true form is.”
+
+Almost everyone?
+
+“It is possible that other people have divinely-granted Skills or Traits that allow them to see your true nature, but those are so rare that they’re not worth worrying about.”
+
+I dunno, I feel like that’s a flag of some kind. Now that you’ve said that, I’m definitely going to get involved with one of those people, and I’m gonna get into trouble.
+
+“It’ll be fine.”
+
+…Well, if you say so. And I’m allowed to activate and deactivate the Skill at will, right?
+
+“Of course.”
+
+Great! Now, how do I activate it? Perfect Disguise! Woah!
+
+In front of me, a new Annoying Blue Box appears, but it’s like one that I’ve never seen. It looks like a video game character creator. On the right side of the screen is a perfect 3d recreation of me, and on the left is a list of features, like torso length, tail length, tooth whiteness and a million other factors. I start messing with a few of the sliders and get some pretty silly results. I can make my tail twice as long as me, for example, or I can make my whiskers so long and thick that they look more like skewers stuck into my nose, or make my fur rainbow colored.
+
+As fun as that all is, that’s not the point of the skill. A long-tailed, thick-whiskered, rainbow cat is funny, but not all that useful. As Abby said, I need a human form if I want to be able to order at a restaurant. Let’s see, how do I be human… Ah! There’s a back arrow.
+
+Woah, there’s a lot of subcategories. It looks like they’re organized by evolution path, so I need to hit the back arrow first to go back to my previous evolution with the really long name, then to Spatial House Cat, and then to some general categories. Spatial House Cat is a mutation of House Cat, which is a subcategory of Small Pure Cats, which is a subcategory of Felinids, which is a subcategory of Land Mammals, which is a subcategory of Mammals, which is a subcategory of Vertebrates which is a subcategory of Living Creatures, which is a subcategory of Unenlightened Races, and only after going past Unenlightened Races do I finally get to the base two choices, which seem to be Enlightened Races and Unenlightened Races. I assume that the humans are in the Enlightened Races category, right?
+
+“Yes.”
+
+Perfect! So, Enlightened Races, Humanoids, Humans… Woah, hey, that’s me!
+
+As I scroll through the categories, the 3d recreation changes to fit whatever category I’m in, and when I switch to Human, it brings up a form that looks a lot like my old human body. Except not quite as pretty. I was definitely prettier. Let’s fix that up…
+
+A few minutes later, I’m satisfied with my appearance. I look exactly like I did before. Definitely didn’t give myself any touch-ups or anything. Why would I need to? I was perfect!
+
+Abby, if I finalize this, will I be able to keep messing with this character creator thingy?
+
+“Not without unsetting the Disguise, which would mean activating the cooldown.”
+
+Alright, not doing that then. Wait, if I back out of the human section, will it undo all my changes?
+
+“No, it saves the most recent state, so you’ll be able to return to the exact form you have set right now.”
+
+Perfect!
+
+I spend a full two hours messing with the character creator, and exploring some of the different races. Dwarves are funny. I can become wider than I am tall if I want, and I can also make my dwarf tall and thin enough that it’s identical to a human. I can also make the elf identical to a human. I’m not sure why there’s a rounded ears option for the elves, but it’s there, and I can be an elf who looks exactly like a human for some reason. I can also make the elf ears so long they look like shortswords, which is equally funny.
+
+There is a race of giants, which I can also make human-sized if I want, and I can make the halfling human-sized. I can make most of the races look pretty much exactly like a human, actually. The customization is pretty extreme. I also look through the Unenlightened Races a bit, but there are just too many of them. Abby says there are something like 3 trillion different options total. I can’t see most of them, since aside from my own evolution line, and the Ichthyoid lines, I only have access to the base forms of everything—apparently, I need to actually meet most of the monsters before I can turn into them—but it’s still too many to go through.
+
+At least the Enlightened Races don’t evolve though, so I have access to basically all of them, with the exception of a dragon. For some reason, dragons start as dragon eggs, which is a wholly useless disguise. I think. It’s useless as an only disguise, at least. If I could do multiple disguises, it might be funny to get that one and then go somewhere weird and turn into a dragon egg for someone to find. I’ll keep that in mind for future pranks if I can evolve the Skill to let me have multiple disguises.
+
+Returning to the humanoid races, I scroll through again before I settle on the beastfolk races. I saw them earlier, but haven’t gone through them yet because there are a few thousand of them, and I didn’t want to have to deal with all that yet. Now that I’ve sated my curiosity on the monster side though, time to dive in!
+
+Like the Unenlightened Races, the beastfolk have a lot of categories and subcategories. Felinid, Canid, Ursid, etc… Unlike them though, they don’t have any evolutions. Just variations. It looks very scientific, which is annoying, because I wasn’t a big fan of science in school. I always cheated on all the tests, so I don’t really understand how the classification works. I’m at least smart enough to know that “Felinid” means cat though, so I can find my way into the cat people.
+
+There are a bunch of different types, so I decide to settle for the familiar and navigate to the house cat section. I mess with the appearance, bringing it to my ideal, then, I pause, eyes wide, staring at the customization options at the very bottom of the menu. There’s a Claw Length slider.
+
+Do these beastpeople have claws? The catperson me doesn’t look like she has claws. Can I zoom in? Ah, yes I can. Hmmm. Hold on a sec. The catpeople have retractable claws?!
+
+This is amazing! I’d be able to use Spatial Slice while in disguise! Screw humans. I’m gonna be a catgirl!
+
+“You should really-”
+
+Finalize!
+
+“-take potential cultural issues into consideration… I don’t know why I even try.”
+
+Now, let’s test this new form out!

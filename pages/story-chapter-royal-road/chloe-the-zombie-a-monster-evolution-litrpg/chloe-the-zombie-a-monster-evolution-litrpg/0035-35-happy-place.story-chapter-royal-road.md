@@ -1,0 +1,171 @@
+---
+id: 7120b743-f93a-5f39-8f6b-541d4f3c71a8
+page-type-slug: story-chapter-royal-road
+title: "35: Happy Place"
+slug: 0035-35-happy-place
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 35
+ownLength: 2014
+unit: words
+publishedAt: 2025-09-19
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2612890/35-happy-place"
+royalRoadId: "2612890"
+---
+
+Chloe had never seen a place like the Velvet Lantern before. It was sorta fancy, kinda like Baron Willy’s place, but also sort of not?
+
+This place had a lot of red colored stuff everywhere and way more girls than guys. The girls were all giggling and the guys kept giving them coins for some reason. Chloe wasn’t sure why, but hey, maybe it was some weird human thing she didn't understand yet. Either way, she still couldn’t believe this was supposed to be a Thieves Guild.
+
+But, Chloe decided she had better things to worry about than how fancy the place looked. All that red was nice, sure, but it wasn’t brains or bounties. At the far end of the room sat a desk with a lady behind it, neat and proper, like one of those clerks Chloe had heard about. So, Chloe made a straight beeline for her.
+
+The woman smiled as Chloe got closer. “Looking for work, dear?”
+
+“No thanks, that sounds boring."
+
+"Are you sure? With a face like yours, you’d be very popular with the customers.”
+
+Chloe blinked. Popular? The word made her feel all fuzzy inside. She loved being popular, who wouldn’t? But Chloe knew she needed to focus on more important stuff at the moment.
+
+So, she puffed out her cheeks, dug into Cloaky with both hands, and yanked out Ray’s letter. “I’m actually here to see Iris, oh, and Ray told me to give this letter to her."
+
+The woman took the letter, but didn’t even bother opening it. Instead, her eyes lingered on the little blob of red pressed on the front. Chloe tilted her head, confused. To her, it was nothing but a lumpy little smear, yet the woman studied it like it actually meant something. Humans sure had the strangest hobbies.
+
+Whatever the reason, the woman gave a little nod and slid the letter back into Chloe’s hand. “Very well. Follow me, dear."
+
+Chloe bounced after her as she headed toward a staircase. The second floor had doors lined neatly down the hall, some with soft laughter or muffled voices drifting through. Chloe slowed, curious, and leaned her head toward one of the doors. What’s going on in there? It sounds… fun? Maybe?
+
+The woman caught her wandering and tugged gently at Chloe’s wrist. “Not now, dear.”
+
+“Aww, come on, just one peek?”
+
+“No. We can’t disturb the customers under any circumstance.”
+
+“Hmph, fiiine.” Chloe puffed her cheeks in an exaggerated pout but let herself get dragged along anyway.
+
+By the time they reached the top floor, things were way quieter. The woman stopped at a tall door, knocked twice, and then pushed it open.
+
+At last, Chloe was about to meet this Iris lady she had heard so much about. Her hand was already reaching for the handle when the woman caught her wrist.
+
+“Wait,” the woman said.
+
+She pulled open a little drawer by the door and took out a silver ring. “Before you go in, you’ll need to wear this.”
+
+Chloe plucked it right out of her hand, holding it up close to her face. “Ooooh, shiny! What’s this shiny thingy for?”
+
+“It is a ring of air purification. You must wear it before stepping inside. It is necessary… because of Madam Iris’s condition.”
+
+“Condition?”
+
+Chloe turned the ring over in her hand, still not really understanding how something shiny was supposed to help with a condition. But it was harmless enough, and shiny was nice, so she didn’t mind. She slid it onto her thumb, only for it to wobble loose right away.
+
+She gave her hand a small shake. “Huh. Doesn’t fit.”
+
+The woman sighed as she gently took Chloe’s hand, slipped the ring off her thumb, and guided it onto her middle finger instead. There it sat snug and cool against her skin. “There. Keep it on while you’re inside. Return it when you are finished with Madam Iris.”
+
+“Kay,” Chloe said, grinning as she wiggled her fingers.
+
+The woman gave her a nod, then turned away. Chloe admired how the ring sparkled for a few seconds, before finally opening the door.
+
+The moment the door creaked open, a thick purple fog oozed out. Strangely, it didn’t drift into the hallway, it clung to the room, sealed in place like some invisible wall was holding it back. Chloe stepped inside, and the air pressed heavy against her. Her vision shrank until she couldn’t see more than a few steps ahead.
+
+Behind her, the door slammed shut with a sharp click. Chloe spun around, hands up. “Hey! I didn’t close that!”
+
+She fumbled for the handle, but it was gone, or maybe just swallowed whole by the purple fog. Her cheeks puffed as she stomped forward. “Iris, are you here? It’s me, Chloe!”
+
+No answer came at first. Then a voice spoke, cutting through the fog as if it came from everywhere at once. “Just keep walking forward.”
+
+Oh hey, so this Iris lady is in there. Chloe thought with a smug grin.
+
+Chloe marched straight ahead, arms swinging. The purple fog curled thick around her legs, swirling higher the deeper she went. Yet, just when she thought she was about to smack into a wall, the haze thinned, and a shape slowly sharpened in front of her.
+
+A desk emerged first, mostly covered up by the fog, and behind it sat a woman. Chloe’s brain immediately went whoa.
+
+Her skin was this deep, dark blue, and her hair was pale blond, almost glowing against the haze. But it was her eyes that really drew Chloe’s attention. They were bright amber, staring straight through her like she was an open book. Whoa… she looks cool.
+
+Chloe tilted her head, trying to squint past the fog to see more. Whatever outfit the woman had on was completely swallowed by the purple haze, which was kinda rude because Chloe really wanted to know what the lady was wearing.
+
+Then the woman opened her mouth, and Chloe instantly forgot about clothes anyway. A thick spill of purple mist curled out with her breath, winding through the air. Chloe’s eyes sparkled. Okay, that’s even cooler.
+
+“Hi! I’m Chloe!” she said brightly, giving a big wave with her right hand.
+
+The woman’s lips curved, and a soft chuckle slipped out, releasing another puff of purple fog. “Hello, Chloe. You may simply call me Iris.”
+
+“Ohhh, nice to meet you! So, uh, what is this place anyway? Ray told me the Guild has a branch here, but it doesn’t look anything like the Thieves Guild back in Kelvane."
+
+“Evergale is… different. The Guild receives far fewer missions and bounties here than in Kelvane. I had to create additional operations to keep our coffers filled. This place serves both as cover and as income."
+
+“Okay, but like… what do people here actually do if they’re not running missions and stuff? And also, why are there sooo many girls here compared to guys? Back in Kelvane, there were barely any. Is that, like, an Evergale thing?”
+
+Iris gave a quiet snort. “So many questions, but instead of that, do you have something for me? Maybe from Ray?"
+
+Chloe’s eyes widened as it clicked. She bobbed her head fast enough to make Cloaky bounce. “Oh, right."
+
+Chloe dug into Cloaky, pulled out the letter Ray had given her, and held it up. “Ray said you could help me track down this witch lady, Ynett. Said you’d know stuff.”
+
+Iris raised an eyebrow and shot a look at Chloe. Still, she reached out and took the letter.
+
+She opened the letter and read it. Meanwhile, Chloe rocked back and forth on her feet while she waited, trying not to hum out loud. Ugh, this reading thing takes way too long.
+
+Finally, Iris set the letter aside on her desk. Purple fog slipped from her lips as she exhaled, swirling in the space between them. “If Ray is vouching for you, then I will help. But tell me, do you really understand what you’re walking into?”
+
+Chloe puffed out her cheeks and waved a hand. “I just know that Ynett is dangerous. But I’m still totally gonna beat her up.”
+
+“Why are you so confident?”
+
+“Because I just know I’ll win."
+
+“But why do you believe that?"
+
+That gave Chloe pause. Her grin slipped a little as she tapped her chin. Hmm, guess I never really thought about why I feel good about my chances at winning. But does it really matter?
+
+“Well… I just think I’m really strong, y’know? So I’ll win.” Chloe said proudly.
+
+Iris shook her head. “There are some enemies you cannot simply charge at. Some require caution. Ynett is one of them.”
+
+She reached into a drawer and pulled out a folded sheet of paper, setting it down in front of Chloe. Curious, Chloe snatched it up and flipped it open.
+
+Inside was a list written in cramped, messy lines. A couple of names ran down the page, and next to each one was a little letter, most were marked with a “C,” a few with a “B.” Chloe squinted at them, then noticed something that made her frown. Every single name had been scratched out with a hard line.
+
+“What’s this?” Chloe asked, tilting the page as though it might suddenly make more sense upside down.
+
+“That is the list of guild members we lost to Ynett. Eight in total. Her bounty originally required only C-rank members, but after she killed so many, it was raised to B. And if she continues as she has, I would not be surprised to see her marked as an A-rank threat before long.”
+
+"Cool, that means this Ynett lady is super strong, right?"
+
+“You really shouldn’t take this so lightly. From the reports we’ve gathered, Ynett’s mind control magic is powerful enough to turn people into fanatics. And on top of that, she’s said to be quite skilled with ice magic as well.”
+
+“Go ooon…” Chloe leaned forward, her grin stretching wider as her excitement started bubbling over.
+
+The fog thickened as Iris sighed again. “Listen, her followers are fanatical. They will throw themselves against anything and anyone at her command. She has defeated groups of people trying to take her down."
+
+“Then I’ll just beat up the followers first! Easy peasy.”
+
+“After hearing all this, do you still want to go after Ynett?”
+
+“Yep.” Chloe replied.
+
+Iris shook her head, a low chuckle slipping out with another puff of purple fog. “Ray did mention in the letter that you were… special.”
+
+“He’s right. I am very special. The most specialest!”
+
+“Chloe, Specialest isn’t a word.”
+
+“Aww, it isn’t?” It really should be a word. Sounds way better than just special.
+
+“Maybe ‘specialist’ fits you better. I heard your last bounty was that rogue mage, Luther. If you keep chasing jobs like that, the title kinda makes sense.”
+
+“Ooooh, yeah, I like that! I’ll be the most special specialist ever!”
+
+Iris shook her head, then reached into her desk and produced a silver coin. The shine was dulled by age, but the carved face on it caught Chloe’s attention. Unlike the other coins she’d seen with some boring bearded guy stamped on them, this one had a lady instead.
+
+“Take this,” Iris said, pressing it into Chloe’s palm. "One of our scouts can guide you to Ynett’s last known location, a village to the far north of Evergale. Show him this, and he’ll know I sent you.”
+
+Chloe turned the coin over between her fingers, squinting. “Wait, who’s this pretty lady on the coin?"
+
+Iris gave a small laugh. “That was me. From better times.”
+
+Chloe’s grin lit up even brighter. “No way! You’re on money? That’s so cool!” I’ve never met someone who was money before. Does that make her rich?
+
+“Never mind that. You must hurry, the scout's name is Shrike. He prefers not to stay in one place long, but at this hour, you’ll likely find him near the town square.”
+
+Chloe snapped her fingers, tucking the coin into Cloaky. “Got it, thanks!"

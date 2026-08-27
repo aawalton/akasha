@@ -1,0 +1,77 @@
+---
+id: 3bbe06b8-0bc2-5973-b82b-bfe47e432dea
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1395 - Tickle Time is Over"
+slug: 0042-chapter-1395-tickle-time-is-over
+partOf: chrysalis
+position: 42
+ownLength: 1114
+unit: words
+ownProgress: 1114
+publishedAt: 2024-08-27
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1776043/chapter-1395-tickle-time-is-over"
+royalRoadId: "1776043"
+markedReadAt: "2026-06-29T19:44:58.906Z"
+---
+
+After my brilliant ruse with The Queen, Tiny, Crinis, Invidia and I manage to sneak into the brood chamber and spend some quality time entertaining the grubs.
+
+Ah, it soothes my soul to see the little things rolling around, wiggling with excitement, trying to escape my tickling antennae. The biggest ones, pumped full of Biomass and almost ready to spin their cocoons, are the most fun to tease. So bloated they can barely move themselves, Tiny and I take turns rolling them back and forth while they chitter their little mandibles happily. Invidia hasn’t really done this much before, but even he seems to have a good time, fluttering about the brood chamber on his little wings and landing on the grubs with his tiny hands. When they try to rear up and nibble on him, he deftly flies to the next, leaving them chasing after him.
+
+Crinis is, of course, a favourite with the grubs. Able to tickle, roll and spin hundreds of young at the same time, she has to be careful not to overstimulate the little things.
+
+All of this is, of course, watched over by the ever-present Brood Tenders, who clack their mandibles happily and spread their warm, calming pheromones through the chamber, bringing a sense of peace and comfort to all of us.
+
+Ah, this really is a slice of heaven, it must be.
+
+Alas, all good things must come to an end. When all the little grubs are tickled out and ready to nap, it’s time for us to move on. I say goodbye to the Tenders, who shoo us out before turning back to tuck their charges in, and the gang and I find ourselves out in the tunnels, with no immediate purpose.
+
+I do, however, feel greatly rejuvenated. A weight has been lifted from me, my spirit has been cleansed and my mind is refreshed. It’s just impossible to get bogged down and worried about all the things going on in Pangera while surrounded by such innocent little creatures.
+
+[What are we going to do now, Master?] Crinis asks, latching onto my carapace once more.
+
+Well, it’s a valid question. Realistically, it’s time to go and spend some Skill points and Biomass. I haven’t mutated in ages, and I’ve gone well beyond the targets Granin set for me regarding the fusions he wanted me to take. One of the advantages of so many minds is the ability to grind really, really hard, and I’ve been in combat an awful lot lately. There’s no better time or place to get levels than a good fight, and to be honest, I probably should have done less grinding and more poison mana cleansing while I was down there, but hey, I’ll take the gains.
+
+Biomass isn’t quite as stocked as I would have liked, considering there’s basically nothing to eat down in the fifth. I might have to lean on the Colony a little and ask them to feed me. They’ll do it happily, but I try not to ask if I don’t absolutely have to.
+
+With the invasion of the fifth coming up, I feel like it’s probably a good time to ask for some help to get as strong as I possibly can, which means maxing out my mutations.
+
+However, before I can get to that…
+
+There’s something going on in the Vestibule. The number of ants in the fourth is constantly swelling as more and more join us through the gate. Our territory in the third has reached its limit for the time being, as the deeper we go through the layers of that burning wasteland, the fewer unclaimed pillars we find. That means the numbers available to shore up our position here are rapidly growing, so I’m used to a steady increase in the flow of Will through the Vestibule.
+
+What I’m not used to is what I’m sensing now….
+
+What the heck are all these people doing in here?!
+
+[There’s something I want us to go and look at, Crinis, if that’s alright with you.]
+
+So saying, I lead the gang toward the Gate and arrive to find… of all things… humans, golgari, folk, the odd ka’armodo, marching through in neat ranks and being directed further into the nest by ant attendants.
+
+To my surprise, Solant is present, going over slates filled with numbers and conversing with other generals.
+
+I skitter over and loom over their conversation, causing them to cut off short.
+
+“Solant, what am I seeing here?” I ask.
+
+Technically, I could find out through the Vestibule, but it’s much more polite to ask, right? I can’t be wandering around just… knowing things all the time.
+
+“Our allies are arriving to help with conquering the fifth, Eldest,” she says calmly, as if it’s obvious.
+
+“You want to send these people down into the fifth?” I say, aghast. “They’ll be food for the slugs down there! Do they even know what they’re getting into?”
+
+“Of course they do, they’re all volunteers,” she replies.
+
+All of them? All of these people? There’s thousands and thousands of them! Where the heck have they all come from?
+
+Wait… are those demons I’m seeing? What is happening?!
+
+“We’ve neglected these people for too long, and the benefits of fighting alongside them and the human ant-priests are too strong to be ignored,” Solant states, as if it’s all perfectly obvious. “We are taking on a challenge so great that I refuse to leave any possible advantage behind. Every ounce of our strength is going to be leveraged for this task.”
+
+“But where are they all coming from?”
+
+Since when has the Colony been able to muster up a fighting force like this? I’ve fought alongside the refugees from Renewal many times, but there’s only so many of those.
+
+“Allied cities that have fallen under the Colony’s influence, for the most part. Others have come to join us after hearing about our mission, still others have been sent from friendly parties. The Folk have sent several thousand of their people, as have the brathians. The bruan’chii are sending several Grove Keepers to help spread the Mother Tree’s roots in the captured territory. Some demons, mostly those with conquering or exploration-based obsessions, have leapt at the opportunity to come. Even the Magpei sent a few people. It will be difficult to merge them into our existing battalions, but the process has already begun. There’s nothing we can’t account for with proper preparation and planning.”
+
+Holy moly. When I put Solant in charge, I knew she’d pull out all the stops and do things no other ant general was willing to do, but even I didn’t think she’d go this far.

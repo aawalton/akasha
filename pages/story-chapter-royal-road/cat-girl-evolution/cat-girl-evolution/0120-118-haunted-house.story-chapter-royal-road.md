@@ -1,0 +1,177 @@
+---
+id: 0e492557-57e9-55d7-88b5-4e1709457827
+page-type-slug: story-chapter-royal-road
+title: "118 - Haunted House"
+slug: 0120-118-haunted-house
+partOf: cat-girl-evolution
+position: 120
+ownLength: 2250
+unit: words
+publishedAt: 2026-04-24
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3312072/118-haunted-house"
+royalRoadId: "3312072"
+---
+
+The interior of the very clearly haunted house is… odd. I immediately know that something is off when we walk up and I can’t sense what’s inside the house. It’s like the whole thing is just void, like the edge of the Dungeon. For a few seconds, I wonder if maybe the house is just a prop, and if we somehow missed the doll when exploring, but as soon as we open the door, the interior changes. Partially.
+
+A single hallway suddenly appears out of thin air. It’s lined with doors, but the doors don’t lead anywhere. At least, they don’t feel like they lead anywhere. But then again, neither did the front door until we opened it. Even weirder, when we step into the hallway, everything outside the hallway seems to vanish. Even though the edges of the house should be well within the range of my Food Sense, I can’t sense them. I can only sense what’s in the hallway, and what’s in my line of sight outside the open front door.
+
+I pull everyone back out of the house immediately. Clearly, there’s some dungeon space wonkiness going on, and I don’t want to be trapped in the house just yet. Instead, we do another sweep of the surrounding areas, just to make sure we didn’t miss anything. We do find one crow and two specters that we missed, but that’s it. No doll, and no hints about who this “sister” is.
+
+Only when we’re absolutely certain it’s the only route forward do we re-enter the house, though we leave the front door propped open with one of Chad’s spare blocks of wood, just in case. The others don’t have quite the same apprehension as I do, since they don’t have Food Sense, but they listen to me anyway, and we all move forward with caution.
+
+The first door on the left leads to a kitchen. Once again, it pops into existence the moment the door is opened. The kitchen has one other exit—another closed door with nothing behind it, of course—and nothing else of note. It seems to be a perfectly ordinary kitchen. A little dated, both for Earth, and this world, but nothing crazy.
+
+We open the other door in the kitchen, and almost immediately, all of us jump as we hear a slam and a clatter. We rush back to the hallway with our weapons drawn, but there’s no one there. The source of the sound is obvious, at least. The front door shut, cutting us off from the outside, and the clatter was the block of wood being pushed inside.
+
+“Shit,” I say, stepping toward the door, and pushing it open.
+
+Surprisingly, it opens just fine, and when it does, the outside reappears, looking and feeling exactly the same as it did before. As I do, though, we hear another slam, and a brief inspection shows that the door in the kitchen has now shut.
+
+“So, only two open doors at once, I guess,” says Lauren.
+
+“We should make sure that’s true,” says A.
+
+“Yona, hold the door,” says B. “Chad, go try to open the kitchen door again.”
+
+I brace myself against the door, preparing to put the full force of my stats into keeping it open, but it all ends up being useless. As soon as Chad opens the other door, I get thrown back as if my stats don’t even matter, and the door slams shut. And when I open the front door again, the exact same thing happens to Chad. We try a few more times, but no matter how we brace ourselves, or what we try to do, it’s impossible to keep the doors open. We also try to just destroy the doors, but the doors seem to be indestructible, just like the doors to the Sanctuary on Maligar’s first Floor, so that idea falls through, too.
+
+“Well, at least this will keep us from splitting up,” Lauren jokes.
+
+No one laughs.
+
+From there, we spend a few minutes mapping out where each door leads. The first door on the left leads to the kitchen, of course, and the second leads to the dining room. Chad notes that the door from the kitchen also leads to the dining room. The third door on the left looks like some kind of tea room with a low table and some couches, and the fourth leads to a staircase going up to the second floor. On the right side, the first door is a closet, the second is a library, the third is another sitting room of some kind, and the fourth is the veranda overlooking the back yard. From the veranda, my Food Sense once again starts working, extending to its full range outside.
+
+Notably, there seem to be doors connecting every room, with the exception of the closet. Just like the door between the kitchen and the dining room, there’s also a door between the dining room and the tea room, and the tea room and the staircase, and so on.
+
+Up the staircase, there’s another hallway with seven other doors. Four lead to bedrooms, two lead to bathrooms, and the last leads to a closet. Just as with the lower floor, each room has doors leading to each of the adjacent rooms, even the bathrooms, which seems like a bit of a strange design choice, but whatever.
+
+Everything in the house is covered by a thick layer of dust. The floor, the tables, the chairs, the beds, the shelves… Every step creates a small cloud that makes me want to sneeze. And there’s no sign of any dolls. One of the bedrooms does look like it might belong to this “Sister” person, though.
+
+Beneath the dust, the quilt is white and decorated with stitched hearts, and all the books on the bookshelf to the side look like children’s books and romance books. There’s even a dollhouse in the corner, but unfortunately, there’s no sign of the doll that’s supposed to inhabit it.
+
+There’s something off about the whole room, though. It’s way too neat and organized, and even though it’s clearly been abandoned for a while, it doesn’t look like it was used much even before then. The bed is made perfectly, and not a single item is out of place. Even all the picture frames on the desk are arranged with perfect symmetry. When I point this out, though, Lauren shrugs.
+
+“Whoever lived here probably moved out before the house was abandoned,” she says. “My parents did the same thing to my old room. Cleaned it up and made it look nice, just in case I came home to visit and wanted to sleep in my old room again. That’s what this looks like to me, at least.”
+
+She walks over to the desk and starts dusting off some of the picture frames. The pictures underneath show a steady progression in age from left to right, going from infant to young adult.
+
+“See?” she says, pointing to them. “If this is the Sister’s room, it’s probably after she moved out.”
+
+“Where’s her doll, then?” I ask.
+
+“Maybe she took it with her?”
+
+“Then how are we supposed to find it?”
+
+“...Good question. Maybe we missed it, and it’s outside somewhere?”
+
+“I doubt it,” I say.
+
+“It’s almost definitely here in the house somewhere,” says A.
+
+“It’s a puzzle,” says B. “And we have to solve it.”
+
+“We already have clues. The house has rules.”
+
+“No more than two doors open at once.”
+
+“Every room is connected to the ones beside it, even when it doesn’t make sense from a design standpoint.”
+
+“The interior of the house isn’t connected to the rest of the Floor properly.”
+
+“And it’s not connected to itself properly, either.”
+
+“There’s some kind of trick to it that we need to figure out.”
+
+“That makes sense…” I say. “But what did you have in mind?”
+
+“We need to find out what happens when one of us gets separated from the others.”
+
+“So you want us to split up?” I ask.
+
+“Not necessarily.”
+
+“Just get on the other side of a door and close it.”
+
+“Maybe travel a room or two over and then come right back.”
+
+“It should be safe, based on what we’ve seen so far.”
+
+“I don’t like it,” I say.
+
+“It’s the logical next step.”
+
+“We need to figure out all the rules if we want to solve the puzzle.”
+
+I frown, but Lauren and Chad both nod. A minute later, we’re all back down at the bottom floor of the house, with me in the kitchen and the other four in the hallway. I was elected for the role because I am the most independent of the group. A and B are dependent on each other, and Lauren and Chad are both specialized in skillset, while I can generally do alright in any circumstance. If we happen to get separated for the remainder of the Dungeon Floor, it would be best if I was the one stuck alone.
+
+It makes sense logically, but I still don’t like the idea of splitting up. Not when the Dungeon owner is clearly from Earth and a fan of horror tropes. But the twins are right. We need to figure this out.
+
+I nod to the twins, and they nod back, and then I close the door. To Food Sense, the kitchen and I are stranded in the middle of an enormous, blank space. I’m not usually claustrophobic, but something about the feeling of being alone in such a space makes my chest feel tight. Thankfully, when I open the door again, the hallway reappears, just as before, and the rest of the Party is still there.
+
+“Good,” says A.
+
+“The rooms don’t seem to be randomized,” says B.
+
+“You can come back once you go somewhere.”
+
+“Which means that there’s a pattern to how it works.
+
+“And if there’s a pattern, we can map it out.”
+
+“Now, Yona, go into the dining room from there. Let’s see what happens if we get a room apart. We’ll close both doors, then wait ten seconds, then open them again.”
+
+“Alright.”
+
+I head to the dining room, and we do exactly that. My chest feels tight again as the dining room gets isolated in space, but after the ten seconds are up, when the door opens, the twins are still there behind the other door.
+
+“Even better,” says A.
+
+“Now, try to go back from the dining room to the hallway.”
+
+“We need to see what happens when we’re a full two rooms apart.
+
+“We’ll leave the doors open, though this one will probably close when you open the hallway door.”
+
+“...Okay.”
+
+The success of the previous two experiments dispelled some of my previous apprehension, but it doesn’t make this house any less creepy. I feel kinda bad about making fun of the twins for being nervous earlier. This place is creepy as hell. Also, why aren’t they creeped out anymore? As soon as they decided this was a puzzle, they stopped being scared and turned excited again. This is unfair.
+
+“Karma’s a bitch.”
+
+You’re a bitch.
+
+“By the way, this Dungeon is very interesting to watch. I never even considered making something like this. I’ll have to take notes.”
+
+Are you making my Dungeon creepy too?
+
+“No, I’m just commenting on the creative use of the Dungeon rules. It’s very clever. Your Dungeon is much happier.”
+
+Okay, good. By the way, when will it be done?
+
+“It should be functional in a day or two. But I’ll need another couple weeks to work on the fine details. It will technically be usable then, though. The rest of the changes will be minor enough they won’t trigger the change cooldown. I’d still recommend waiting until I finish the whole thing to use it, though.”
+
+Lame. But fine.
+
+“Yona?” says Lauren’s voice from the hall. “You alright?”
+
+I look down to see that I have stopped with my hand on the handle of the door from the dining room to the hallway.
+
+“You're stalling.”
+
+Shut up.
+
+“I’m fine,” I call back. “I’m going into the hallway now.”
+
+I take a deep breath, then turn the handle and pull. As soon as I do, I hear the slam of the kitchen door, and then… nothing. My heart rate starts to climb as I realize what Food Sense is telling me, but I don’t fully accept it until I poke my head through the now-open door.
+
+The hallway is empty. The others are gone.
+
+One by one, undead appeared from Joakim’s storage, and one by one, they were released from his control and devoured by the ravenous crows in the wheat field. None of the undead made from the denizens of Maligar were very powerful, but the essence they provided to his Dungeon was invaluable.
+
+Their deaths were regrettable, but they were objectively the best way to handle his situation. Their continued existence within the bottom Floor provided Maligar with a constant, passive source of mana, so taking them deprived the great Dungeon of resources. And their essence was now going to feed Joakim’s own Dungeon, which was essential if he was going to usurp Maligar.
+
+He raised a hand, summoning an undead child, and noticed that his arm was trembling. He moved his other arm to stabilize it, and looked away from the carnage before him.
+
+Sacrifices are necessary, he told himself. Even the greatest heroes can’t save everyone.

@@ -1,0 +1,85 @@
+---
+id: 39e70303-65fa-5916-bce3-10773a9200c4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1573 - The Cascade"
+slug: 0221-chapter-1573-the-cascade
+partOf: chrysalis
+position: 221
+ownLength: 1031
+unit: words
+ownProgress: 1031
+publishedAt: 2025-05-29
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2313124/chapter-1573-the-cascade"
+royalRoadId: "2313124"
+markedReadAt: "2026-06-29T19:50:53.171Z"
+---
+
+Another burst channel. Another one. How many would fail? Cobalt ground her mandibles in frustration, staring at the energy flowing in front of her. There wasn’t the slightest variation or tremor, the enhancements were functioning perfectly. Or did she only think that was the case? There had been sections approved by carvers that had failed. Two, to be exact. Even the tiniest flaw was enough to send the energy awry, to degrade the system and make it vulnerable to failure under high loads.
+
+Not for the first time, she was grateful for the pace at which Solant had allowed them to work on the fortress. If they’d forged ahead as rapidly as she’d thought they should have… doubtless the entire fortress would be lost now.
+
+“Show me the map,” she demanded, and one of her team was quick to oblige, placing a thin, hardened stone tablet down on the ground in front of her.
+
+On the stone, the channel network for this area of the fortress was marked, with all failures, stress points and checked sections clearly indicated. The new burst channel was a fresh mark on the page and a fresh thorn in her carapace. Luckily, the carvers had sensed it coming and shut off almost all the flow before it finally ruptured, otherwise the damage would have been catastrophic. No sections of the fortress had been cut off from the rest at this stage, but it was getting close. Already, moving from one place to the next was becoming difficult. Further breaks would only complicate the map further, and cut off more tunnels. They would be cleaned up eventually, of course, but that took time, and the fortress was still under siege. Any internal failures made defending the platforms that much harder.
+
+“Here,” she said, drawing the attention of her team. “These four sections have been checked. We’ll throttle the channels here, here and here, and allow the bulk to move through those four channels. The lighter load should keep the others operational while we get this segment repaired.”
+
+“That’s a lot of energy to focus on so few channels, senior,” one of her team members spoke up. “How long will they be able to tolerate that much mana?”
+
+“Not long,” she affirmed. “Which means we need to get the repair done quickly. If all goes well, then we can clear every issue on this map in a few hours.”
+
+The ants nodded, determined to get the work done, before they dispersed. After having constructed this fortress, the work teams on duty were the best of the best, they knew what they were about. As long as they were all on the same page, there wasn’t any issue they couldn’t tackle effectively.
+
+“Looks like things are as challenging down here as I’d heard,” Solant said.
+
+Cobalt turned to see her younger sibling crawling down the tunnel, a fraction of her usual entourage with her.
+
+“What are you doing here? Isn’t this an emergency?” she snapped.
+
+Solant only nodded.
+
+“It is. However, there are limitations to speaking through messengers. That goes for you sending word to me, and for me sending it back to you. It’s important that we meet directly every now and again.”
+
+“You think I have time to talk? We’re busy here!”
+
+“Which is why I came to you,” Solant said reasonably. “Go about your tasks as we converse, I won’t take much of your time.”
+
+Trying to argue Solant out of getting what she wanted was a futile exercise, Cobalt knew it well, so she simply cleaned her antennae, turned and marched down the corridor, the smaller ant trailing in her wake.
+
+“The rate of failures is higher than you expected. Is that fair to say?” Solant asked.
+
+“It is,” Cobalt snapped, grinding her mandibles. These mistakes were on the carvers, on her and Tungstant, they were responsible for getting this done right the first time.
+
+“Personally, I expected more. You and your teams are to be commended,” Solant said, perfectly seriously.
+
+If she were speaking to a human, Cobalt might have thought the remark was sarcastic, but from an ant, it was completely sincere.
+
+“If things keep failing at this rate, the fortress is going to fall. But you already know that, don’t you?”
+
+“I believe you are wrong,” Solant replied. “If the failure rate was increased by a third, it would be close. As it is, we can still get ahead of the damage before it’s too late.”
+
+“Too late for what?”
+
+“The cascade. One failure leading to another leading to another leading to another.”
+
+“If there’s even the slightest chance of that happening,” Cobalt said, working her mandibles and forelegs as she began to sort through components, organising them for the repairs ahead, “then shouldn’t we shut off the intake?”
+
+“We can’t,” Solant shook her head. “No matter what happens, we can never shut off the intakes. Not if we want to succeed.”
+
+“That isn’t what you told me before,” Cobalt said, confused. “You said we could, as a last resort.”
+
+“The situation has changed.”
+
+“Changed how?”
+
+“For the worse,” Solant said simply. “If we don’t convert every drop of energy we can get, then it isn’t going to be enough. We will fail and be forced back up to the fourth stratum, if we survive.”
+
+“The system is barely holding together, Solant. If the pressure continues to rise…”
+
+Solant nodded, able to fill in the blanks herself.
+
+“Make sure you and your teams get some rest when you can, Cobalt,” the little general told her. “You’ll be busy from now on, I believe.”
+
+The carver didn’t need to think hard to work out what she meant. They couldn’t shut off the intakes, the amount of mana flowing into the system was only going to grow over time. If the vents didn’t shut off, and who could say when and if they would, then they would be chasing down errors in the channel network from now until the wave was over. As long as they were able to stay ahead of the curve, then they could avoid a catastrophic cascade. If not, then they were all dead.
+
+“I’ll get to work,” she said.

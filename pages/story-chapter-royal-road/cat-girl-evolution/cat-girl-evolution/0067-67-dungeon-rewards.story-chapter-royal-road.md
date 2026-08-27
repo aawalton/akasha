@@ -1,0 +1,249 @@
+---
+id: 94606e31-80f1-51ed-b60a-f188b12b0dca
+page-type-slug: story-chapter-royal-road
+title: "67 - Dungeon Rewards"
+slug: 0067-67-dungeon-rewards
+partOf: cat-girl-evolution
+position: 67
+ownLength: 2561
+unit: words
+publishedAt: 2025-12-26
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2881087/67-dungeon-rewards"
+royalRoadId: "2881087"
+---
+
+“M– My apologies,” says the woman in the lead, bowing deeply.
+
+Heheh, they’re all trembling. This is funny.
+
+“Yeah, whatever,” I say. “You need something, or are you just here to say hi?”
+
+“I– I just–” she stutters. “I wanted to know your name.”
+
+“Don’t–”
+
+“You can call me Princess Yona.”
+
+“Dammit.”
+
+“Th– thank you very much, P– Your Highness.”
+
+“For what?” I ask.
+
+While waiting for her to respond, I notice a big splotch of blood on the back of my hand. It smells kinda sweet. I lick it. It tastes sweet too.
+
+“F– For slaying the Floor Boss,” she says, then gulps.
+
+“Oh yeah. You’re welcome.”
+
+They don’t seem to know how to respond to that. I kind of want to mess with them a little bit, but at the same time, I want them to go away. I still have a little bit of time left of this super strength, and I kinda want to mess around with it, and then I’ve gotta check out everything I got from killing that big piggy.
+
+The woman in front opens her mouth to say something, but before she can speak, I cut her off.
+
+“Anyway, I gotta go. I have a lunch appointment. Seeya later. Live long and prosper.”
+
+I give them a hand sign, then Blink as far away as I possibly can, then do it again so that I put some good distance between us. The physical strength and stuff I got is rapidly diminishing, but I still have quite a bit of it. I crouch down and do a full powered jump, which sends me flying fifty meters into the air. Being this high up would normally be concerning, but as I fall, I somehow know that it’s not enough to even leave a scratch on me. Maybe there’s no height that could put a scratch on me anymore. Terminal velocity isn’t even that high.
+
+I land in a crouch, smiling at how easy it feels. I hold out my arms, enjoying the power coursing through them, and as I do, I notice that it feels somewhat familiar. And not just because I’ve used this aspect of the sword before. It feels a lot like when I use Internal Mana Manipulation. Not quite exactly, but I also feel like I can control it somewhat.
+
+I try to focus it down toward my legs and surprisingly, it works super well. I then do the same with Internal Mana Manipulation, loading my legs up to the point that they feel like they’re going to burst before springing upward again. I reach almost 100 meters this time, and the whole leap takes so long that the energy from the sword is gone by the time I hit the ground again. My legs handle the landing just fine though. My skirt flies up, exposing my legs, but fortunately, the other Adventurer Party is not in line of sight, so it doesn’t really matter.
+
+That was pretty cool though. I’ve barely messed with Internal Mana Manipulation since I got it, but I probably should. I know vaguely how to use it, but increasing my strength like that would probably be useful in the future. Eventually. I’m pretty sure both Chad and Lauren use it, so I can just get them to teach me.
+
+Anyway, time to finally check those pesky System notifications I got for killing the boar.
+
+[ You have slain Menyar, Terror of the Forest, Tier 3, lvl 1. Bonus experience for defeating an enemy above your level! ]
+
+[ Yona, the Gastronome leveled up! 25 → 29 ]
+
+[ +144 Power, +288 Finesse, +168 Resilience, +156 Memory, +156 Willpower, +288 Sensitivity ]
+
+[ Wannabe Vivitect leveled up! 15 → 27 ]
+
+[ +360 Power, +720 Finesse, +720 Resilience, +480 Memory, +480 Willpower, +480 Sensitivity ]
+
+[ Taker of Names II has become Taker of Names III ]
+
+[ Congratulations! The Floor Boss has been defeated! Your contribution: 100%. Calculating rewards. Please do not leave the Dungeon until your rewards have been calculated. ]
+
+Bonus experience?! I only got four Species levels!
+
+“It gets exponentially more difficult to level up as your level goes up. Plus, you made a lot of progress on your Class, so your experience distribution was skewed more toward it than your Species.”
+
+Lame.
+
+“But probably for the best. If you had reached level 30, you would have needed to evolve, and based on how long the last evolution took, it could incapacitate you for an entire month.”
+
+Oh, that would be bad.
+
+“Yes, especially with an assassin after you.”
+
+But couldn’t I just say no to the prompt asking me if I want to initiate Evolution?
+
+“You could. For a time. However, waiting too long to evolve can have detrimental effects on your body.”
+
+Such as?
+
+“Pain, weakness, dizziness, nausea, migraines, soreness, stiffness, and in extreme cases, explosion.”
+
+Explosion?!
+
+“Yes. Think of experience points like water and your body like a balloon. When you reach a certain point, the balloon can’t hold any more without popping. The Evolution threshold is right before that point of popping, but if you don’t evolve immediately, you will continue to slowly gather experience until your body explodes.”
+
+Ah, I don’t want to explode.
+
+“Most don’t.”
+
+So it’s good that I didn’t get that much experience, even though this guy was higher level than Joshua.
+
+“Joshua also had a Sin Trait, increasing his Stats further, so I would not be surprised if his Stats were higher than the boar’s. On top of that, the boar was not a particularly dangerous Disaster.”
+
+Yeah, whatever. Alright, time to check out how my Stats are doing. Royal Status Window!
+
+[ Name: Yona ]
+
+[ Age: 0 ]
+
+[ Species: Yona, the Gastronome. Tier: 2. Level: 29. ]
+
+[ Class: Wannabe Vivitect. Tier: 2. Level: 27. ]
+
+[ Profession: Cook. Tier: 0. Level: 6. ]
+
+[ Titles: Second Lifer, System Breaker, Named, Taker of Names III, Dungeon Pioneer I, Dungeon Destroyer I ]
+
+[ Traits: Cat-like Reflexes, Gluttony, Spatial Affinity, Nimble, Fire Affinity, Custom Namecard ]
+
+[ Stats ]
+
+[ Power: 7786 (+5356) ]
+
+[ Finesse: 14614 (+10050) ]
+
+[ Resilience: 11306 (+7776) ]
+
+[ Memory: 10518 (+7234) ]
+
+[ Willpower: 10550 (+7256) ]
+
+[ Sensitivity: 13571 (+9333) ]
+
+[ Skills: Spatial Slice, Stomach of the Glutton, Bite of the Glutton, Snatch of the Glutton, Blink, Fireball, External Mana Manipulation - Anatomical Constructs of the Glutton, Meditate of the Glutton, Perfect Disguise, Anatomical Analysis, Internal Mana Manipulation - Fleshbender, Timer, Culinary Analysis, Autonomous Mana Shield, Spiral Mana Burst ]
+
+[ Soul Weapons: Gluttonous Greatsword ]
+
+[ Infiltrator Quest: Branch 1: Spend 30 days with Enlightened Races without being discovered. Branch 2: Kill a member of an Enlightened Race without getting caught. Reward: Perfect Disguise Proficiency up. ]
+
+Only one to go before they’re all over 10,000! Power is kind of falling behind. It’s really falling behind. I’m so weak.
+
+“You’re— You know what, I’m not even going to bother this time. Your Power is fine.”
+
+I suppose even the greatest of people must have a weakness. In my case, it will be literal weakness.
+
+“Truly a tragedy.”
+
+Truly.
+
+Well, that’s cool. I also got a buttload of meat. I can’t believe that boar took up so much space in my Stomach. I’m, like, almost halfway full now. Crazy. The boar was only ten times taller than the regular boars, but it’s taken up a thousand times more space.
+
+“That math checks out.”
+
+How?
+
+“10 times the height, 10 times the length, 10 times the width. That comes out to 1000 times the volume.”
+
+Huh. I think that makes sense. I wish I paid more attention in math class. Actually, nah, who am I kidding. Math is dumb.
+
+Well, two more things to check before I can go to dinner. Well, one thing to check, and one thing to wait for. When the boar died, one of his tusks fell out and turned into a short sword. It is edible, so I put it in my Stomach before the other random Adventurers showed up, and I didn’t have time to look at it. Let’s see what it is.
+
+I use a conjured cat head to spit the dagger back out and then I grab it by the handle. It’s a pretty interesting-looking weapon. It’s clearly made out of a tusk, but it’s clearly not the boar’s tusk, since it’s only a meter long or so. The handle is wrapped in leather, but I’m pretty sure it’s pig leather, not cow leather. It’s curved and has a blade only one side, and it looks really sharp.
+
+Bond!
+
+[ You have successfully bonded Terror Blade to your soul! ]
+
+Woah, it actually worked this time! Let’s see what it does!
+
+[ Terror Blade: When activated, this blade emits an aura of terror ]
+
+Woah, that’s nice and simple. And I guess it’s probably pretty useful. Though it’s definitely not better than my sword, and I can’t really use both at once. Wait, yes I can. I can just use mana hands! Does that work? Can I use both?
+
+I conjure a pair of mana hands and give them the Terror Blade. Then, I summon the Gluttonous Greatsword. Then, I activate the Terror Blade’s enchantment and immediately, my mana starts draining. It drains directly from me rather than the mana hands, which is a little weird, but highly convenient. I can just fly this around my enemies while fighting normally. Or even better, I can anchor the hands to my back and just have the sword be active while I’m fighting normally.
+
+This is great! I finally got another Soul Weapon I can actually use!
+
+“Just be careful, because the description says nothing about differentiating enemies from allies.”
+
+Oh, good point. I can’t use it when I have minions around.
+
+“It’s possible that when in a Party, it won’t affect them, but it’s still important to keep in mind.”
+
+Yep.
+
+I dismiss the Gluttonous Greatsword after the successful experiment, and I’m about to do the same for the Terror Blade when something stops me. I was able to put it into my Stomach before, which means it’s edible. Even after bonding with it, it still registers as edible with Food Sense.
+
+Hey, Abby, Soul Weapons regenerate when damaged, right?
+
+“Yes. Wait, what are you—?”
+
+Great!
+
+"No!"
+
+Yes!
+
+I lift the blade up and try to take a bite out of the blunt side. My sharp canines sink in pretty well, but the rest of my teeth have a bit of trouble. Fortunately, I have Internal Mana Manipulation on the brain, so I just reinforce my jaw with mana and bite down harder until my teeth shut with a satisfying crunch. I leave my jaw empowered as I chew, closing my eyes so I can focus on the flavor.
+
+It’s a little weird. It’s definitely not bad. A little salty. I don’t think it’s great for a meal on its own, but I can see it being used as a good topping. Maybe it would be good in a soup. It’s got a pretty interesting flavor that I think would pair well with pork.
+
+I look back down at the blade, which now has a semicircular chunk missing from the back of it, then decide not to take another bite. It’s not really that tasty, so I don’t care enough. Abby, how long will this take to recover?
+
+“...A week at most. Most likely a couple days. And it has to stay in your soulspace to heal. If you leave it out, it won’t recover.”
+
+Got it.
+
+I dismiss the weapon, then summon a piece of raw boar to munch on while I wait for the rewards to finish calculating. It’s a bit bloody, but I’m already covered in blood from that epic final attack, so I need to wash up anyway. I just need these rewards so I can leave.
+
+…
+
+So, Abby, when do you think those rewards are gonna finish calculating?
+
+“Usually, it would be almost instantaneous. The fact that it’s taking time is odd. Especially for a Dungeon like this that is likely old. Floor Bosses appear periodically, so it should have the rewards pre-calculated. Either the Dungeon Master is changing things up, or someone is interfering.”
+
+Ah, I bet it’s that bitch of a goddess again.
+
+“Yona, the fact that you’re calling her a bitch might be exactly why she’s doing this. Dungeons are one of the few places were deities have weaker restrictions on what they’re allowed to do, so she might have been waiting for you to come in here so she could mess with you.”
+
+Oh.
+
+“Yeah, so—”
+
+Well, that sounds like a her problem. I got called a bitch all the time back on Earth and I never did anything like this. If she can’t handle it, she’s just mentally weak.
+
+“Yona, please…”
+
+I’m not gonna stop until she proves she’s not a— Oh, hey, it’s done!
+
+[ Rewards calculated! Your contribution: 100%. Reward: Amulet of Mental Protection ]
+
+As the yellow box appears, a necklace appears in front of me, hovering in the air. I reach out and grab it to inspect it. It’s pretty simple, with just a thin silver chain and a pendant at the end. The pendant is a silver oval inscribed with something I can’t read and inlaid with emeralds around the edge. It actually looks rather nice. Understated, but not ugly, and the color matches my eyes.
+
+When I inspect it more closely a description pops up too.
+
+[ Amulet of Mental Protection: This amulet provides the wearer with strong resistance to external mental magic, scaling with the wearer’s Willpower ]
+
+Huh. This is surprisingly good. And practical. I bet if I was wearing this, the boar’s aura effect wouldn’t have done much to me. This is suspicious. Abby, what does the inscription say?
+
+“I don’t know.”
+
+Lame. Well, for now, I guess I’ll wear it and assume that this is a gesture from the goddess to seem un-bitchlike. If that’s the case, then I guess I was wrong about her. Not that I really believe that, but hey, it doesn’t hurt to be optimistic. And it’s not like I’ll figure it out just standing here. Plus, I don't have time. I’ve got a lunch appointment. Time to go make some people into minions!
+
+An hour later, I’m freshly bathed and wearing new, hole-free clothes and walking into the Pig Palace. I’m a little late, but that’s fine, because the main character always arrives late. Lauren, Chad, and the twins are already sitting at a private table on the third floor of the restaurant. The twins look as passive as they normally do, while Chad looks oddly nervous, and Lauren looks lost in thought. Very interesting. She wasn’t like that this morning. I wonder what happens this time.
+
+“I have arrived,” I announce, sitting down in the empty seat they left for me.
+
+“Welco—” starts A.
+
+She cuts off as her eyes go to my chest where my new necklace is hanging. Then, for the very first time when combat isn’t involved, I see a hint of emotion on the twins' faces. And that emotion is amusement. I look up toward the ceiling where I assume the goddess is watching me from.
+
+That bitch.

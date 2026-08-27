@@ -1,0 +1,109 @@
+---
+id: 9ea981cc-3a54-5711-a2d3-8dd3b5f2cd19
+page-type-slug: story-chapter-royal-road
+title: "169. Testing Limits"
+slug: 0169-169-testing-limits
+partOf: breaker-of-horizons
+position: 169
+ownLength: 2213
+unit: words
+publishedAt: 2022-01-14
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/824320/169-testing-limits"
+royalRoadId: "824320"
+---
+
+Although Caden hadn't really expected to be the only one headed to the library right after the briefing, he was a little surprised to see that there was actually a fair number of students making their way there ahead of him.
+
+It was clear that these students had something specific in mind because almost none of them stayed in the Upper Library. Slightly mystified, he followed the general throng into the Lower Library and found a little crowd forming at the reception desk. The sage addressing people's needs there looked like he was barely managing to keep a lid on his irritation. Mystified, Caden drew closer.
+
+Caden realised that most of them had to be in the cohort just above his because he didn't recognise any of the faces of those in the crowd. There were older students coming into the Lower Library, but those were avoiding the crowd around the reception and passing through the warded threshold without any problem, so those were likely in Bertram's cohort or above, and had clearly already been granted access by default for being in their third year or beyond.
+
+"No," the sage was saying, clearly struggling to project an air of calm. "I cannot simply hand out dispensations for Lower Library access, even under present circumstances. The process of application still stands, even under present circumstances."
+
+"Isn't there some way to accelerate the process?" one of the students asked.
+
+"As it stands, no, and especially not now that there are so many of you! Leave your name in the ledger and we will schedule you for the tests. You should be able to gain access within a week if you pass."
+
+He tried to slip by so he could get to the Vault but was stopped by a gentle hand on his shoulder. It was a girl with hazel eyes and dark brown hair in a ponytail, wrapped cosily in a white jumper.
+
+"You're a first-year, aren't you? And you have access?" she asked softly, leaning in closer. She was just a shade taller than him.
+
+"Uh, yeah," Caden answered just as softly, uncomfortably aware of how they probably could still be heard if anyone was paying attention. It didn't help that his personal space was also being violated.
+
+"Can you sneak me a book?"
+
+"I— what?"
+
+"It's 'Thaumaturgical Glyph Arrays' by Alyssa Nivordin. Please?"
+
+This was definitely not a conversation he wanted to have within earshot of a mob of students who were currently not allowed to access texts in the Lower Library. There wasn't any place nearby for them to retreat to, and she wasn't allowed past the warded gateway, so he lowered his voice even further. "The books can't be taken over the threshold."
+
+He turned to go, but she caught his wrist. "Wait," she whispered frantically. "Then, please, can you just look through it and help me find something?"
+
+A few curious looks were being thrown their way. Caden felt his stomach twist a little at the very real possibility of being mobbed, and he instinctively dipped into oblivion to perform the trick that diverted a person's attention. Everyone who had been looking somewhere else found their eyes darting back towards the sage at the reception, while the sage himself blinked down at himself just once with a slight frown before continuing to field questions. The girl was also momentarily distracted, but quickly turned back to him as soon as he spoke.
+
+"Not now," he answered shortly, feeling mildly irritated at himself for losing control like that. "You can meet me tomorrow morning in the cafe, half an hour before first class, and pass me a proper note of what you want."
+
+He didn't wait for any acknowledgement before twisting out of her grip and darting past the warded threshold. A few people probably saw him enter, but since none of them could follow, he didn't have to worry about any of them just yet. He desperately hoped no one managed to get a good look at him, or he might end up getting more odd requests from desperate second-years. He made a mental note to never allow any of his fellow cohort-mates to find out that he could access the Lower Library.
+
+The few seniors who had access were clearly here with a purpose as well. They were prowling through the shelves like sharks, pouncing on specific titles and rushing to find a space to sit, where they then pored over their chosen texts while furiously making notes.
+
+Overcome with curiosity, he drifted closer to one of the study tables where there were three seniors, each absorbed in their own studies. He didn't wanted to disturb them, so he just snuck a look at the titles of a small pile of books in the centre.
+
+There it was. Thaumaturgical Glyph Arrays by Alyssa Nivordin, right at the bottom, under other titles like A Survey of Thaumaturgical Artefacts and Thaumaturgy and Glyph Theory.
+
+Now his interest was piqued. He went through the shelves and found another copy of Alyssa Nivordin's text, but decided against hunkering down right there in the Lower Library. He took it right into the Vault and sat down where he had been only hours ago.
+
+As soon as he opened it, it was immediately clear that the text wasn't a recent one, which he had already suspected because of the Nivordin name. The first page was a brief note by a sage explaining that this was an updated version of a much earlier text dating back to a time when the Empire was still ruled by the Nivordin line. The present Emperor was from the Deverryn line, which had been in power for the last three hundred years.
+
+The sage who had transcribed the text had apparently decided to include a version re-written in the modern parlance. The transcription of the original was on the left side, with the sage's re-written version on the facing page.
+
+There was no page of contents because apparently that was not how people wrote things in Alyssa's time so there was no way for Caden to get a good idea of what the entire book contained, so he simply flipped through the pages at random.
+
+He stopped at a page with a clear diagram of a sequence, meant to be scribed in three dimensions. It was quite fascinating to see how people in the ancient Empire had written their sequences, because modern arcanophany had established standards to make things a lot clearer. Alyssa's diagram, while not conforming to those standards, was nonetheless possible to follow, although it required a bit more work to decipher. The sage had reproduced her diagram, but also included a modernised version.
+
+Caden recognised a lot of glyphs from the Basic and Advanced Sets, but it was clear that they only formed the supporting framework for whatever this sequence was supposed to be. Their core made use of glyphs that Caden had yet to learn. He skimmed the surrounding pages for some idea of what its function was, and found a section that caught his attention.
+
+... two-fold purpose: reinforcing the structure and amplifying the effects of a gestalt formation. The underpinning principles make use of corresponding arrays scribed into Spire foundations and establish a link with the font of arcana they supply...
+
+He skimmed that section, then found himself backtracking to get additional context. At first he was excited about the possibility of finding out more about how Spires worked because Alyssa's explanation of the principles about the sequence went into some detail about how it interfaced with the Spire, but after some time, he realised that Alyssa was writing about the Spires without really understanding that they had chained augera at the core. Her explanations of the glyph sequence made reference to the Spires as massive artefacts, which was true, but at one point she digressed and wrote a short paragraph marvelling at the complexity of the Spire's foundational sequences and wondering how her sequence was able to latch on to it even though she didn't fully understand the underpinning principles.
+
+There was a lot more technical language, and Caden suspected that if he did take the time to unpack the text a bit more he might actually get something useful he could apply, but that was a project for another time. He closed the book and leaned back in his chair, allowing his eyes to roam across the shelves of the Vault.
+
+There was an air of timelessness there that Caden hadn't really paid attention to before, because the work he was usually engaged in while inside demanded so much of him. But now that he was in there with the primary intention of just letting time pass, it presented to himself so strongly that he realised for the first time that it had to involve some form of arcanophany. But why, he wondered, did it only really register now when he wasn't busily engaged in something?
+
+The Spire augera made its presence known to him as a gentle warmth at the edge of his perception. 'Shapes,' it intoned. 'Shapes of auric-ambient-flare triggers sequences.'
+
+Caden was too curious to mind the augera's somewhat unwanted intrusion. 'Shapes, as in... a person's mindset? The state of mind they're in? Sequences can be triggered just based on that?'
+
+'Yes. Some special sequences instruct the web. The web observes, assesses, then acts in accordance. Vault is ancient weaving, many special sequences.'
+
+As reluctant as Caden was to rely on the augera for information, he was finding this immensely useful. Their largely concept-based communication meant he was probably still not fully catching their meaning, but it was nice to have immediate answers. In fact, for the first time since the offer to simply have the augera 'gift' to him any 'shapes of knowing' was made to him, Caden was sorely tempted to accept it.
+
+'Ready to accept?' the augera asked, its presence drifting closer, growing more intense.
+
+'What do you get out of it?' Caden returned sharply, shying away from it.
+
+The augera seemed a little stung by this withdrawal. 'A stronger unchosen-sighted-{~?~} is thorn in ancient-distant-spiders' plans. A thorn can make a tiny rip in the web. A tiny rip can turn into a great tear. A great tear can become a complete unravelling. Mortal. Caden. Our minds are vast and alien to you, but our desire is plain: freedom.'
+
+'Yes, I get that. But that just makes me a tool.'
+
+'You will be stronger. Is this not a good thing?'
+
+There was so much that Caden wanted to say, but all his reservations hung over him like a terrible shadow, too hard to fully phrase in the heat of the moment. After all that had transpired, his instinct was to reject anything the augera had to offer, but he could not deny the clear advantages he would get if he aligned himself with them again.
+
+'One gift,' the augera suggested, after waiting for a moment. 'Take one gift, one shape of knowing. See if the arrangement pleases you. Then take more as you wish.'
+
+'That's exactly how addictions start,' Caden replied with a laugh. 'Do you even hear yourself?'
+
+The augera's frustration washed out across the arcana, forcing Caden to firmly anchor himself or risk having his mind battered by its emotions. The reaction was so great that Caden was sure he had struck a nerve, so to speak, because by now the augera learned to do a relatively good job of moderating their responses and protecting him from any backwash.
+
+'I do not. Geldor-woven-shackled-stream speaks better with mortals, but distance is now too great for it to speak softly, so it is Academy-woven-shackled-stream that must parlay. My shape of knowing mortal minds is simpler, further from subtle. I do not perceive your fears, your tiny anxieties, your scattered distrust. What do you want, Caden? WHAT FURTHER REASSURANCES DO YOU WANT, MORTAL?'
+
+Its anger and frustration was growing more intense, and Caden's anchor was rapidly falling apart. He wanted to run, but there was nowhere to go. In desperation, he flung himself into oblivion and tried to remember what it felt like to fight a Fateweaver in this nebulous space-that-was-not-space, tried to use some of the tricks that the augera themselves had made him perform so he could evade the Fateweaver's attacks. His auric-ambient-flare stretched and twisted itself into fantastical shapes. There was something about pulling things apart, about shunting things sideways, about hurling himself into the unknown...
+
+'No, stop,' the augera boomed, its presence a lot clearer in oblivion, its emotions stronger and more overwhelming. There was even a strain of fear and panic now, soaring over the anger and frustration. But Caden found that somehow, in oblivion, it was easier now to think around, or over, or under the overpowering streams of its consciousness. 'Stop. I am sorry.'
+
+Caden had no idea what had brought on this change. He drew the borders of his auric-ambient-flare back into their original shape, then gently brought his consciousness back to the physical realm.
+
+The Demiurge burst through the doors and into the Vault as soon as Caden opened his eyes. "What do you think you're doing?" he thundered, his voice echoing in the Vault and through the arcana.

@@ -1,0 +1,73 @@
+---
+id: f9fad535-b532-5951-aade-3b3453c314c5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1497 - Well Now"
+slug: 0145-chapter-1497-well-now
+partOf: chrysalis
+position: 145
+ownLength: 1114
+unit: words
+ownProgress: 1114
+publishedAt: 2025-01-29
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2035355/chapter-1497-well-now"
+royalRoadId: "2035355"
+markedReadAt: "2026-06-29T19:48:29.475Z"
+---
+
+Just as monsters experience exponential growth as they evolve and reach higher tiers, so too do Skills become stronger and stronger as they reach higher ranks.
+
+A tier seven Skill isn’t necessarily twice as strong as a tier six; exactly how much a particular Skill will progress in a single rank-up can vary from Skill to Skill. Mana Affinity Skills are a perfect example, sometimes only improving efficiency and ability, which is certainly welcome, but other ranks will provide new spells, which can be extremely powerful.
+
+Passive Skills scale greatly as they increase in rank, but active Skills certainly benefit the most from the increase. Naturally, the higher in rank the Skills go, the greater the improvement. Rank nine and ten Skills are considered almost legendary, so rarely are they seen, but should they be achieved, they would doubtlessly be strong enough to shake the world.
+
+-           Excerpt from ‘On Monsters’ by Granin
+
+Well… that certainly was a thing. The scene of the bite is absolutely devastated, a smoking blast zone with no sign of the hapless snail monster left. I knew the bite would be powerful, but I certainly didn’t expect this! Once I realised just how much stamina was drained out of me for the attack, I had a feeling it was going to be devastating, but the final result is surprising even for me.
+
+Unempowered, the bite was still enough to quite literally blow me away. Knowing what I know now, I could better brace myself and hold my ground, but if I actually infused the ability with the Altar? Looking at the wisps of smoke rising from the crater, I’m not sure I’d even survive my own Skill.
+
+Still, it’s nice to have it in the back of the carapace in case of an emergency. If I really need to, I can use it to ensure mutual destruction. Although… with my Altar mutation that increases my defences, I might be able to live? If I use barrier magic as well… maybe?
+
+It’s probably not worth testing.
+
+As fun as it is to test the Starcrusher, I still have a job to do while I’m out here, so I pick myself up and get to fighting. With so many ants around, my stamina refills at an absurd rate, so I run around chomping (without using my new Skill) and blasting monsters with fire while I ponder what to do next. It’s way too early to try using my new spell in combat, that’ll take a long time to decode, but in the meantime, I can get used to my new dash Skill. Minimising those embarrassing circumstances where I buried myself in solid rock would certainly be welcome.
+
+Just to be safe, I push out a little farther from the safe-zone to make it a little more difficult to see what I’m doing. There’s no need to make a spectacle of myself, after all.
+
+Once I judge I’m too far away to see, I brace my legs, face a direction with plenty of spare room, and let it rip.
+
+By ‘it,’ I mean Unseen Dash.
+
+Once again a copious amount of stamina is drained away as the Skill is used, and the next moment, I’m in another place.
+
+Holy moly! That was fast. However… that’s not all there was to the Skill. There’s something else….
+
+Unsure as to what I just experienced, I flex my legs and try again. The use of the Skill is so fast, it really is just a blink of an eye, for a creature with eyelids. One moment I’m on the verge of dashing, and the next I’ve already dashed, as if the time between didn’t occur… and yet… there’s this strange feeling, a certainty that I’m not using the Skill right.
+
+Antennae waving in agitation, I continue to experiment, dashing around the place, trying to get a sense for the range I can travel and how much strain it places on my legs (a lot). The leg issue is really becoming something that needs to be addressed. Vibrant has put a lot of evolutionary energy and Biomass into her legs, just so she can handle her absurd speed. I went in a different direction with mine, but I’m starting to realise that they are going to need more attention in my next evolution. Ant legs are thin, spindly things, and although I’ve bulked mine up considerably to handle my huge mass, when I start teleporting around with insane speeds, the strain is a little more than they can take.
+
+The more I use Unseen Dash, the more I identify the source of the wrongness. Right before I dash, that precise instant, the feeling I’m doing the wrong thing flashes up in my mind, but I’m not sure exactly what I’m supposed to do to correct it. Has the knowledge not properly settled in my mind yet? This is annoying….
+
+To try and solve the mystery, I begin to experiment. Dashing rapidly, one after another doesn’t get me anywhere but into a wall.
+
+Ahem!
+
+I try to dash sideways, backwards, into the air, whatever I can think of, but none of it works.
+
+Finally, I attempt the only thing I haven’t tried, I try to dash during a dash.
+
+And I can.
+
+I brace my legs, choose a direction, and dash, and at the same time, in that split moment right as I push off with explosive force and my stamina drains, I do it again. The muscles in my legs scream in pain and rock flies as I crush the ground beneath me with the force, but the end result is that halfway through my extremely quick dash, I dash again.
+
+It’s like changing the direction of a teleport halfway through.
+
+The Unseen Dash.
+
+It’s probably possible to chain these dashes together, one after another after another, without completing any of them. That would literally turn me into an ‘unseen’ monster, zipping around too fast to be seen, yet it would probably rip the legs straight out of my body if I tried it for any more than three dashes in a row.
+
+Thinking about what will happen if I run into monsters who can do that sort of thing, I’m especially glad I have my precognitive abilities. Without them, how in the heck is anyone supposed to fight something like this?!
+
+I suppose I could ask Vibrant, she would know her own weaknesses better than anyone. Although that conversation would be incredibly tiring….
+
+For now, I’m going to hang around here, fight monsters and try to get the hang of this. First, I’ll trigger my healing gland again. My legs have rather severe muscular damage.

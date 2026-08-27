@@ -1,0 +1,125 @@
+---
+id: 7dc9cfa4-445a-526d-b7f8-250605bb2600
+page-type-slug: story-chapter-royal-road
+title: "173: Missing Man"
+slug: 0173-173-missing-man
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 173
+ownLength: 2125
+unit: words
+publishedAt: 2026-07-03
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3627186/173-missing-man"
+royalRoadId: "3627186"
+---
+
+So, Z had been kind enough to pay for Chloe's completely reasonable and absolutely justified purchase. Sure, Z had seemed a little reluctant at first, but after being exposed to Chloe's natural charisma, and undeniable awesomeness, she'd eventually given in. At least, that was the version of events Chloe preferred. The fact that she'd mostly just asked Z if she could help pay for it and then kept looking increasingly hopeful until Z caved was totally not relevant to the discussion.
+
+Liz had bought a few random knick-knacks of her own as well, though Chloe honestly had no idea how she'd paid for them. Chloe hadn't asked, mostly because she'd been too busy admiring her new mask and her tiny horse keychain.
+
+After carefully storing both treasures inside Cloaky for safekeeping, Chloe happily followed along as Liz led her and Z deeper into the underground city. There was a lot to look at down here, and that was becoming a serious problem.
+
+Every few minutes Chloe would spot something cool enough to completely derail her attention. At one point she found a stall selling glass fish that swam around inside floating bubbles of water. Then there was a stand full of glowing mushrooms growing inside decorative crystal jars, which Chloe was at least seventy percent certain she needed in her life.
+
+But every single time Chloe even slowed down near something interesting, Z would gently place both hands on her shoulders and say, "No." And when Z said "No" in that tone, that meant it was time to move on.
+
+After leaving the shop, Chloe made sure to convince Mr. White to hide inside Cloaky again. Apparently, Liz was taking her and Z to this important building, and while Chloe was pretty confident Mr. White could take care of himself, she still didn't feel great about leaving him wandering around the underground city alone for an extended period of time. Mr. White would have his time again in the future.
+
+So, after a bit of encouragement, Mr. White went back into Cloaky, where he could stay safe and comfortable for the time being. With that taken care of, Chloe followed after Liz as the fallen angel led them away from the busier parts of the underground city and toward a large building. The closer they got, the more Chloe found herself squinting at it. Maybe it was just her, but that building looked super suspicious.
+
+It was this big metal thing with steel walls and an enormous reinforced door slapped onto the front. The kind of place that looked like it would belong to some super secret organization. Or a secret organization pretending not to be a secret organization, if that made sense.
+
+The longer Chloe stared at it, the more questions started piling up inside her head. After about five seconds, she finally gave up trying to keep them there.
+
+Chloe pointed at the building. "Who exactly are we meeting again?"
+
+"Oh, I'm taking you two to see Greg." Liz answered.
+
+"And Greg is?"
+
+"A great guy, just wait until you meet him."
+
+That answer somehow felt only slightly more reassuring. By the time they reached the entrance, Chloe had become approximately forty percent convinced they were about to walk into either a secret criminal headquarters or an underground cult.
+
+Liz raised a hand and knocked firmly against the steel door. Chloe fully expected a little metal viewing slit to slide open, revealing a pair of suspicious eyes. Then some gravelly voice would probably demand a password or ask who sent them. Maybe there'd be a secret handshake involved.
+
+Instead, the entire door slid open, just like that. The door had apparently just been unlocked. Beside her, Z frowned. "Is that supposed to happen?"
+
+Liz looked visibly uncomfortable. "Uh… no."
+
+"So we are totally not going down there, right?" Chloe asked.
+
+Between the giant metal building, the suspiciously unlocked entrance, and the fact that something had apparently gone wrong enough to make Liz nervous, Chloe felt like they were walking straight into the opening scene of a horror movie. The vibes were just not great around this place.
+
+"There is obviously something weird going on in there, like, a lot weird." Chloe said.
+
+"Well, I really need to check on Greg, but if you and Z want to stay out of it, that's fine. I won't blame you." Liz said.
+
+Oof, Liz's words actually made Chloe feel really conflicted, and maybe this Greg guy was pretty important after all. And in times like this, she figured it was best to ask someone smarter, and so Chloe glanced over at Z. "What do you think?"
+
+Z looked toward the open door. Her gaze lingered there for several seconds before she looked back at Liz and then at Chloe. "I believe there is merit in staying out of this situation. However, we are not exactly in a position where we have an abundance of leads. If Liz's acquaintance can provide us with information or assistance, then investigating may prove worthwhile despite the risks."
+
+Well, Z did make some good points. Chloe looked back at Liz and spent a moment trying to get a better read on her. Z had warned her before that not every fallen angel could be trusted, and Chloe hadn't forgotten that. But honestly? Liz seemed pretty cool.
+
+Sure, she'd dragged them into an underground city full of weird people, suspicious merchants, and whatever this building was supposed to be, but she hadn't actually done anything that made Chloe think she was a bad person. If anything, Liz had been pretty helpful, and now she looked genuinely worried about this Greg guy.
+
+More importantly, whenever Chloe tried to get a feel for Liz, nothing felt wrong. Liz just felt... nice. Maybe that wasn't the most scientific way to judge somebody, but Chloe had always trusted her instincts. Sometimes her instincts led her toward buying adorable horse themed merchandise she absolutely didn't need. But they were still pretty good instincts.
+
+After a few more seconds of thinking, Chloe finally nodded. "Okay, me and Z are coming with you."
+
+Liz seemed happy after hearing that. "Thanks."
+
+Without wasting any more time, Liz turned and headed through the open doorway. After exchanging one last look with Z, Chloe followed after her, hoping very much that they weren't about to discover why the giant creepy building had suddenly been left unlocked.
+
+When they first entered the building, everything looked surprisingly normal. Well, normal by the standards of a giant shady underground building. The first hall had these thick pipes running along the ceiling. There were stacks of wooden crates pushed into corners, a few abandoned tool carts, and a lot of exposed ventilation ducts.
+
+Also notable were the small patches of water collected across the floor, reflecting the overhead lights as they walked past. At first, Chloe didn't think much of it. Buildings got leaks even in the best of times of course, like that time when she accidentally caused the toilet to overflow back home. Chloe didn't want to think about that memory too much though.
+
+Anyway, Chloe simply followed after Liz and Z while trying not to stare too obviously at every dark corner they passed. The building remained strangely quiet, and in a very bad way.
+
+The deeper they went, the more the silence started to bother Chloe. Combined with the puddles scattered across the floor, it felt like something was missing. Chloe couldn't quite put her finger on what it was, but the entire building felt strangely abandoned, as if everybody had suddenly gotten up and left in a hurry. Or even worse, that maybe some people got taken out of this place in a short amount of time.
+
+By the time they reached a staircase, Chloe found herself slowing to a stop. And when she looked down, she saw how the lower floor was partially submerged, with water covering the steps near the bottom and stretching into the corridor beyond. Ugh, gross.
+
+Chloe stared down at it for a few seconds before looking toward Liz. "Do we really have to go down there?"
+
+Liz followed her gaze and shrugged. "Guess so. Just get ready to get wet."
+
+That was not the answer Chloe had been hoping for. She turned toward Z in search of support, only to discover that Z had apparently already accepted her fate.
+
+Actually, Z was already making her way down the staircase after Liz as though walking into mysterious floodwater. Traitor, hmph.
+
+In the end, Chloe still followed after them, mostly just because she didn't want to be left behind all alone. She didn't mind getting dirty, and she didn't even mind exploring suspicious underground buildings. Getting drenched, however, was a completely different problem.
+
+At first the water only covered their feet, but by the time Chloe, Z, and Liz reached the bottom, it had risen all the way to Chloe's wrists. Every step sent cold water sloshing around Chloe as she trudged forward through the flooded hallway, while damp strands of hair kept sticking themselves to her face no matter how many times she brushed them aside. She really hoped Cloaky didn't mind getting drenched, because it would be pretty awkward if Cloaky decided to just run off.
+
+This was exactly the sort of thing nobody ever mentioned when talking about adventures. People always talked about discovering treasure and defeating monsters. Nobody talked about spending half the journey soaked in cold water while your hair slowly transformed into a damp mess.
+
+"This is ridiculous," Chloe complained as she pushed another wet lock of hair behind her ear. "My hair is getting soaked and my clothes are soaked too."
+
+Neither Z or Liz acknowledged Chloe's complaints though. Z just adjusted her glasses before looking toward Liz. Unlike Chloe, she seemed far more interested in figuring out why the building was flooding than complaining about it. "What do you think caused all this? I doubt this much water was caused only due to a lack of maintenance."
+
+Liz looked increasingly uncomfortable as she glanced around at the water surrounding them. "Been here plenty of times before, and I've never seen anything even remotely like this. Greg works down here all the time, and as far as I know, this place has never flooded before."
+
+"Then is all this water because of a ruptured pipe, perhaps? Some kind of malfunction?"
+
+"I honestly don't know," Liz admitted. "If I had to guess, I'd say something has gone seriously wrong somewhere below us, but that's really all I've got."
+
+That answer wasn't exactly reassuring. As they continued deeper into the building, Chloe found herself paying closer attention to their surroundings. The further they went, the stranger the place felt. The hallways were completely devoid of stuff, like, you'd expect there to be floating chairs or other random junk that's lifted up by the water. But, nope, there just really wasn't much of anything down here. Wonder if this place got looted too?
+
+The three continued through the flooded corridor until they eventually reached another staircase leading downward. By now, the water was already annoyingly high, and Chloe wasn't thrilled at the idea of heading even deeper into whatever underground disaster this was turning into.
+
+Still, nobody suggested turning back. So down they went.
+
+When they reached the next floor, Chloe, Z, and Liz immediately stopped. A vast expanse of dark water stretched out before them, swallowing the entire floor beneath what looked less like a flooded building and more like an underground lake. The surface reflected the emergency lights hanging overhead, creating countless shimmering ripples that danced across the darkness.
+
+As far as Chloe could tell, the floor simply didn't exist anymore. Nothing remained except water. An absolutely ridiculous amount of water.
+
+Chloe stared out across the submerged chamber, her brain trying to process how something like this was even possible. In the end, she could only state the obvious. "Okay, wow, that's a lot of water."
+
+Z tensed further. "More importantly, I sense a dangerous presence far below this water."
+
+Water and danger didn't seem like a great combination of things to put together. Chloe used to watch a lot of those cave diving videos online, and boy were they scary. Some guy and his buddies would go into some underwater cave called the Devil's Spine or something like that and at least one of them would never come back. And while there was no cave in a building like this, that didn't make Chloe feel much better.
+
+"Z, what else can you tell us about the dangerous presence?" Chloe asked, looking towards Z.
+
+"That this presence is not coming from an angel, I can confidently say at least that much."

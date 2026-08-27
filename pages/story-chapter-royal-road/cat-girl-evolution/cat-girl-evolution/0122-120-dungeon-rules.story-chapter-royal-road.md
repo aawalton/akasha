@@ -1,0 +1,227 @@
+---
+id: ec42a093-7421-5519-b80c-2d798764d67c
+page-type-slug: story-chapter-royal-road
+title: "120 - Dungeon Rules"
+slug: 0122-120-dungeon-rules
+partOf: cat-girl-evolution
+position: 122
+ownLength: 2725
+unit: words
+publishedAt: 2026-04-29
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3331951/120-dungeon-rules"
+royalRoadId: "3331951"
+---
+
+I turn to head backwards, following Abby’s suggestion to see if I’m blocked from doing it again, but Abby stops me before I can leave the tea room.
+
+What is it?
+
+“Leave a mark. So if you do end up changing which point in time you’re at in the house, you can tell if you’ve been here before. Also, so if the others end up here, they can see that you’ve been here too.”
+
+Oh, good idea.
+
+I walk over to the table and extend one claw, carving “Yona was here” into the table. It’s a bit sloppy, but penmanship was never my fortitude, even when using an actual pen. You’d think with Finesse as high as mine that it’d be neat anyway, but I guess that’s not how it works. My motions were still very steady and precise. They were just steadily and precisely sloppy.
+
+With that settled, I head back through the open door to the dining room, then open the door to the kitchen. There is no resistance, and it opens easily, proving that going backward is possible. Which means that there was something different going on with that kitchen door earlier. Time to figure out what it is.
+
+“Did you need something dear?” asks the old lady, glancing back at me.
+
+“No, I just dropped something and I’m retracing my steps.”
+
+“Oh, I’ll help–”
+
+“It’s fine,” I say. “You just tend to the tea. I’m sure I’ll find it on my own.”
+
+“Oh, alright. But call if you need anything.”
+
+“I will.”
+
+I open the door to the kitchen, hearing the door to the tea room slam behind me, then go right back into the dining room, and then the kitchen again.
+
+“Huh?” I say.
+
+The old lady is still here. Or rather, the first old lady is here. The blind, half-dead one. And deaf too, since she didn’t hear me say “huh.” She’s holding a cup of water in an extremely shaky hand and trying to drink. Water spills down her raggedy shirt, but she barely seems to notice, emptying the cup before reaching toward the sink to fill another cup.
+
+Instinctually, I want to go help her, since she’s clearly struggling, but if she’s blind and deaf, communication will be difficult, and as pitiful as she looks, she’s just an NPC. I can learn more by just observing her.
+
+She finishes her second cup, leaving behind a small puddle on the floor, then sets the empty cup down next to the sink, which is filled with dirty—some even moldy—dishes. The smell in this room is unpleasant, to say the least, so I just breathe through my mouth as I watch her turn and start shuffling back out of the room.
+
+Just like before, when she opens the kitchen door, the other two open doors both remain open. I don’t even need Abby’s urging to follow her through it.
+
+As soon as I step through, I hear one of the doors behind me slam, and the same thing happens when I follow her through the next door, which leads into the sitting room by the library. But, notably, she doesn’t change in age. She stays the same old, nearly dead lady, and the house looks like it all belongs to this time frame too. A little dusty, but not abandoned.
+
+The sitting room looks quite different from the original, dusty one that we saw when we first entered the house. The big couch is shoved way back against the wall, and in its place is a very well-cushioned bed with unkempt sheets. And it is to this bed that the old lady goes, struggling with the sheets for a while before closing her eyes and falling asleep.
+
+Okay, Abby, Ms. Dungeon Nerd. What just happened?
+
+“Well, it would appear that we can somewhat confirm two rules.”
+
+And those are…?
+
+“First is that going back the way you came results in going back in time. Second is that the NPCs do not travel in time, and that by following them, you can traverse the house without traversing time.”
+
+Okay. But why couldn’t I go backward to the original hallway? And why is this version of the old lady here now when she wasn’t there before?
+
+“As for those, I can’t be sure, but I do have a theory. Two for the hallway, and one for the old lady, but the one for the old lady makes me think that the hallway has the same cause. For the hallway, it’s either that you’re not allowed to go back to the original timeline, or that it has to do with the others.”
+
+The others?
+
+“Your minions.”
+
+Yeah, I know who they are. I was just wondering what you meant by that.
+
+“There may have been some kind of interference. For example, maybe they opened the kitchen door after you were gone for a bit too long, and because they had it open in their instance, you couldn’t open it in yours.”
+
+But shouldn’t them opening the door have just led them to me?
+
+“Maybe. There’s still clearly more we’re missing. Maybe two groups can’t be in the same timeline at once? Because you were in one timeline, when they opened the door, they went back to a different one. Maybe that’s also why you saw a different version of the old lady the second time. Because the first version was with the others.”
+
+I guess that makes sense. So we’re stuck separated then?
+
+“No. That shouldn’t be true. If that was true, catching the doll would be impossible. The doll seems to be bound to the same rules you are, since when it opened the door, the kitchen door closed, but if it’s impossible to get to the new timeline that it is currently in, then the Quest is impossible.
+
+“If I had to guess, I would assume that catching the doll requires using the NPCs. Since you can avoid some of the rules of the house using them, catching the doll probably requires you to use the NPCs to reach it somehow.”
+
+Wow. That sounds like a massive pain in the butt. How the heck are we supposed to even know which time the doll is in? What if it just kept running and now it’s like 50 years in the past? We’d never find it. This would take forever. At that point, I might as well just wander randomly and hope I get lucky.
+
+“Right, which is why that’s probably not true. The Dungeon is too well-designed for it to be a game of chance. The doll likely has some restrictions on it. In fact, there may be restrictions on your movements too that we just haven’t found yet. For now, we need to do more research. I suggest leaving another note here and then heading back the way you came. Let’s see if we can get back to the original hallway.”
+
+Alright.
+
+I carve another message into the floor, this time taking a tiny bit more time to focus on my handwriting. It marginally improves, but it still bothers me slightly that it can be so bad when my Finesse is almost 30000. A princess’s handwriting didn’t matter on Earth when I could just type, but here, it’s different. This just won’t do.
+
+“Add a 2 so the others know the order you moved in somewhat.”
+
+Frowning, I take a few extra seconds with this final mark, then smile at the result. It’s not absolutely perfect, but it’s much better. I’ll need to work on this over the next few messages.
+
+I leave the room, heading back into the hallway, then the kitchen. Abby has me follow my original route, going then from the kitchen to the dining room, and then to the hallway, and then I immediately head back and go through the kitchen and back into the hallway from there. This time, I’m finally back in the original hallway, complete with all our footprints in the dust.
+
+“So, the first hallway is definitely not off-limits, which means it was almost certainly interference from the others causing the issues the first time.”
+
+So, you’re saying that because the others got impatient and opened the door, we are now permanently separated.
+
+“Not permanently. There should be a way to meet back up. And I have an idea about how.”
+
+How?
+
+“Well, to put it simply, you need to go past them in time, use an NPC to offset your route, then go backward until you reach their timeline.”
+
+Offset my route?
+
+“Travel further in the house without traveling further through time. That way, your route backward through the house will have you in different times than the one forward did.”
+
+…
+
+“I see you’re still confused. I’ll try to make it make sense. So just now, when you followed the old lady, you ended up in that timeline’s version of the hallway and the sitting room. But if you hadn’t followed her, then opening the door yourself should have led you to the original hallway. Theoretically. Though it got a little messed up due to the interference of the others.
+
+“But basically, you followed the same route, but ended up in a different timeline. And since clearly, you can’t go forward in time and end up in the same timeline as the others, the only way to meet with them is to go backward. I suspect it’s the same to catch the doll. If it’s not possible, then there’s some other rule we’re missing, but given the information we have, it’s a reasonable theory.”
+
+…You know what, I’m gonna let you do the thinking. You tell me where to go and I’ll go.
+
+“Works for me. Now, let’s try to map out some of the timeline. We should be able to find the others if we do. Let’s leave some notes here for them, and then go back through the kitchen-dining room-hallway circuit twice more. Let’s see if we can get back to the old lady who’s making tea.”
+
+“So…” started Lauren. “You’re saying that because I got worried and opened that door, we’re separated from Yona?”
+
+“Probably,” said A.
+
+“Almost definitely,” said B.
+
+“Shit,” said Lauren. “Sorry.”
+
+“It should be fine,” said A in a tone that wasn’t comforting at all.
+
+“We just need to solve the Dungeon, and we can all reunite on the next Floor.”
+
+“And we need to do it before Yona.”
+
+“Yes, we definitely need to catch the doll before Yona does.”
+
+They both glanced down at the coffee table where the words “Yona was here 9. Doll was here too. Doll went to kitchen. I am going to the library.” were carved.
+
+They had discussed as they moved, but Yona was making too much progress. She had left a few notes about how the Dungeon worked in the original hallway. Notes that had made them all quite confused at how Yona could possibly have figured it all out on her own when, as far as they were aware, she had no inclination toward puzzles.
+
+Lauren had wondered if maybe she was actually telling the truth when she bragged about being a genius, but the twins insisted otherwise. They claimed she was cheating somehow.
+
+“Yona’s not this smart,” they had said.
+
+Lauren knew that Yona wasn’t as dumb as she sometimes pretended to be, but she couldn’t help but agree with the twins’ assessment, which left them all with a very puzzling question. One that could wait, though, as Yona’s surprising competence had stoked a fire in the twins. They were Yona’s Appointed Advisors, and the designated brains of the group, and being outshown by the lazy cat was doing a number on their egos.
+
+“We think we’ve figured it out,” said A.
+
+“Or at least, we understand enough of the rules that we know how to catch the doll,” said B.
+
+“But we’ll need to use Yona.”
+
+“We need to figure out exactly where she is, and then make sure that we go somewhere completely different.”
+
+“The doll’s movements are restricted based on ours, so if we know where and when Yona is, and we know where and when we are, we can trap it in both time and space and capture it.”
+
+“Since Yona went to the library, and the doll went to the kitchen, we should go do the veranda-drawing room circuit three times, then on the fourth, grab Harold to help us offset by one, then backtrack on circuit and go to the library.”
+
+Lauren blinked a few times trying to process before giving up.
+
+“Okay, sounds good.” She glanced over at Chad, who was frowning at the writing on the table. “Chad? Did you notice something?”
+
+“Uhhh…” he said. “Yona’s handwriting is getting better.”
+
+“Oh, you’re right,” said A, looking at the writing again.
+
+“Interesting,” said B. “But not important.
+
+“Let’s go.”
+
+“We need to find it first.”
+
+This wasn’t the first time Annie found herself looking at her own dead body, but that didn’t mean she found it any less unpleasant. She had originally been raised as a Wraith, and only later did Joakim bind her to her body, but now, she was once again unbound, and it felt strange. It was better than being trapped in a severed head, since she at least had a body this time, albeit incorporeal, and she could move around freely, but she much preferred having flesh.
+
+“Don’t worry, it won’t be long,” said Joakim, catching her longing gaze as he worked on the corpse. “Just making some adjustments. I can put you in a substitute body, if you’d prefer.”
+
+“No,” said Annie immediately. “Thank you.”
+
+“Suit yourself,” said Joakim with a shrug before turning back to continue whatever he was doing to reinforce the flesh. “I’m sorry I couldn’t be working on your sister right now instead. I’d love to, but it seems that time is of the essence. If that cat reaches the 3rd Floor, we could lose everything, so I’ll need you and the others in top form to stop her before then.”
+
+Annie grimaced at the thought of killing Yona and the others, but Joakim’s casual mention of her sister was enough of a silent threat to keep her from protesting. She had no desire to kill innocents, but if not killing them made her sister’s death permanent… She was almost glad that she had no choice but to obey Joakim, because between killing innocents, or letting her sister die, she didn’t know what choice she would ultimately make without it.
+
+“This might take another hour,” Joakim added. “So you can go spend some time with your brother while you wait, if you’d like.”
+
+“...Alright.”
+
+As much as she loathed the monster, his idea was a good one. Phillip had always been intelligent and levelheaded. He might have a better idea on what to do.
+
+She found him in the office of the manor that he had claimed for his own, staring blankly at a wall. She knew that he was likely just looking at the Dungeon Status Window, but the way he sat perfectly still and unmoving made Annie shudder as she remembered his former dead appearance.
+
+“Oh, you’re here,” he said, turning to her before she even made a sound. “Perfect.”
+
+“Phillip…”
+
+“I’m sure whatever you have to say is important, but first, I need to give you something while Joakim is distracted. You have a dimensional storage Skill, right?”
+
+“A small one.”
+
+Most Assassin-based Classes got one to help store hidden weapons.
+
+“Perfect. Take this. Quickly.”
+
+He held out his hand and a glass vial appeared in it. Annie reached out and took it, stowing it away as soon as her ghostly hand touched its surface.
+
+“What is it?”
+
+“Potion of Unshackling.”
+
+Annie’s eyes widened.
+
+“A temporary one,” Phillip continued. “It won’t work for more than a few seconds. But if he ever makes you do something truly horrible…”
+
+“I understand,” said Annie.
+
+“Now, what was it that you wanted to say?”
+
+Annie frowned, mind racing as she thought of the possibilities of what she could do with the potion.
+
+“…Nevermind. I think I figured it out.”
+
+“You sure?”
+
+“Yeah. What have you been working on? Designing a new Floor?”
+
+“Oh yeah!” he said, eyes lighting up with excitement. “This might be my best one yet.”

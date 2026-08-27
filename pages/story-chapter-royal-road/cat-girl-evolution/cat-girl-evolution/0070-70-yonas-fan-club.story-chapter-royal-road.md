@@ -1,0 +1,287 @@
+---
+id: c82dff2f-b1bf-523f-9343-0f23f6222e09
+page-type-slug: story-chapter-royal-road
+title: "70 - Yona's Fan Club"
+slug: 0070-70-yonas-fan-club
+partOf: cat-girl-evolution
+position: 70
+ownLength: 2751
+unit: words
+publishedAt: 2026-01-02
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2900563/70-yonas-fan-club"
+royalRoadId: "2900563"
+---
+
+Abby, you hear that? I’ve got fans!
+
+“One fan.”
+
+So far.
+
+“Nice to meet you too,” I say, smiling. “Are you an Adventurer too?”
+
+“Yes!” she says. “But I’m only Bronze right now, heheh. I’ve got a long way to go.”
+
+“You’ll get there eventually.”
+
+“I hope so! By the way, I’ve been wondering. What kinda fighting style do you use? ‘Cause your Class is pretty unique, and I heard some people saying you were a mage, but some other people were saying that you fight with a sword.”
+
+“I use the kind of fighting style that wins. Sometimes that’s with my sword, and sometimes that’s with magic.”
+
+“Is it true that you can use Spatial Magic?”
+
+I hold out my hand and then use Snatch to steal the dagger from her waist. It’s surprisingly difficult for some reason, but I don’t let the effort show on my face.
+
+“Woah!” she says, eyes sparkling. “Was that Snatch?”
+
+“It was. How did you know that?”
+
+“Didn’t you know? It’s a famous Skill! It’s one of the first Skills a rogue with a Spatial Affinity gets. But how did you get it? It doesn’t look like you took a Rogue path.”
+
+“It’s a secret.”
+
+“Ah, I see,” she says. “How did you kill those Named monsters? I heard that the first ones were ichthyoids. Did you go underwater to kill them, or did you lure them out? What kind of abilities did they have? What kind of soul weapons did they have? What–?”
+
+“Woah, hey, slow down a sec,” I interrupt.
+
+“Sorry,” she says sheepishly.
+
+“I’ll tell you what happened…”
+
+I begin a long, completely true tale of my adventures on the fishman shore. I lie about how I got there and how I got off the island, but I tell everything else exactly as it happened with zero embellishments whatsoever. Abby tries to talk to me and downplay my achievements a few times, but I ignore her and continue on, telling the story exactly how it happened. By the time I finish, we’re almost at the front of the line, and Annie looks like she’s over the moon in awe. It’s a good feeling being able to give such a positive experience to a young girl like her.
+
+“How old are you?”
+
+18.
+
+“You’re lying.”
+
+Prove it.
+
+“You said before that the twins are younger than you, and they’re 21.”
+
+Did I? I don’t remember that.
+
+“You definitely—”
+
+Stop trying to gaslight me. I don’t have time for your mind tricks. I’ve got funnel cake to buy.
+
+At the front of the line, I can get a better look at the pastries, as well as the menu. There are only four options, but they all sound delicious. They have the basic kind with just whipped cream, one with chocolate, one with some kind of red jelly on it, and one with an orange glaze. I only meant to get one, since I just ate not too long ago… But oh well! I’m rich!
+
+“Would you like a plate carrier with that?” asks the nice man at the stand.
+
+“A plate carrier?”
+
+“Yes,” he says, reaching below the counter and pulling out a wooden contraption.
+
+At first, it just looks like four wooden circles between two wooden rails. Useful, I guess, but it’s basically just a wide, oddly specific platter. However, after setting it down on the counter, he flicks a little switch on one end, then lifts that end up, and the next moment, the four wooden circles are now stacked vertically with space between each one and a handle on top. My jaw drops as he lowers it back down into the flat version, then back up to the stacked version a couple times to demonstrate.
+
+“You can easily carry all four, and when you’re ready to eat, you can spread it out and make each one accessible.”
+
+“I’ll take it!” I say.
+
+A minute later, I have my fancy plate carrier, and four steaming plates of the funnel cake-like pastry. I think that the plate carrier might have been kind of expensive, but who cares? I’m rich! The four pastries together weren’t even a gold. How expensive could the carrier be?
+
+“Bye, Annie,” I say as I walk away to find a comfy bench.
+
+It doesn’t take long to find a good spot. The riverbank has rest spots all over, and since this seems to be the bougie district, the place I spot is really nice. There are lots of couples out on dates walking by the riverside or making out on benches, but only about half the benches are occupied, so I find an empty one and switch my plate carrier to tray mode and take a look at my treasures.
+
+They look and smell just as good as I hoped they would. They also look quite greasy. Rather than covering my delicate fingers in grease, I conjure a pair of mana arms and attach them to my shoulders and use them to eat.
+
+I start with the plain one. It’s delicious. It’s sweet, and light, and has just the right amount of oil, and it melts on my tongue. The whipped cream is also fantastic, and interestingly enough it seems to have a bit of cinnamon and nutmeg in it. I didn’t notice that before, but now that I know it’s there, the smell is pretty obvious.
+
+I try a bite of each of the other three in turn after that, and each is fantastic. The red jelly is some kind of fruit I’ve never had before, but it tastes a little bit like raspberry. Not quite the same, but similar. And on all three of the specialty ones, the chef or baker or whatever that guy was put the exact right amount of flavoring on, and spread it out perfectly. Each bite has enough that it can be easily tasted, but not so much that it’s overpowering. Even better, the fancy plate carrier I got even seems to have an enchantment on it to keep them warm, so there’s no danger of them cooling down.
+
+Before I even know it, all four are gone, and my stomach feels bloated. I think I’ve found my food limit. I probably shouldn’t have gotten all four. I was already pretty full from earlier, and now I’m extra full. And a little sleepy. And this bench is awfully comfy for a wooden park bench.
+
+“Don’t do it.”
+
+I’ll just do it for a little bit.
+
+“You have an assassin after you.”
+
+Relax, they won’t do anything in public.
+
+“Are you really going to bet your life on that?”
+
+Yes. Good night.
+
+I curl up on the bench and almost immediately fall asleep. I set a Timer just before I do, but before it can go off, I wake up on my own. Well, not quite on my own. I wake up when I hear a set of footsteps approaching my location and stopping right in front of me. I crack an eye open to see that my Timer still has six more minutes left on it, so I close my eyes and try to ignore them.
+
+They don’t say anything at first. It seems to be a woman. Relatively thin, not too tall, and with weapons on a belt on her hips. She doesn’t move, but I can hear her breathing softly above me.
+
+What is she doing? Is she going to grab my tail?
+
+“Have you considered that perhaps this is the assassin?”
+
+I have, yes, and if it is, I’ll just cut her in half when she tries something. Oh, look, there she goes!
+
+She reaches out to me, and I prepare to Blink and Spatial Slice, but rather than attacking, she just moves slowly and presses gently on my shoulder. I try to ignore her, but she presses harder, so I finally crack my eye open and see that the woman is a police officer. She looks super tired too. Very sleep deprived.
+
+“What?” I ask.
+
+“Miss, you’re not allowed to sleep here,” she says.
+
+“Okay? And?”
+
+“I’m going to have to ask you to go home. No matter how much you drank, loitering is prohibited. If you don’t get up yourself, I’m going to have to arrest you.”
+
+“Ughhh, fine,” I say, sitting up. “And for the record, I haven’t had anything to drink yet. I was just taking a nap.”
+
+“Uh huh,” she says, clearly not buying it. “By the way, are you Yona?”
+
+“That’s me!”
+
+Hey, Abby, look! That’s two fans!
+
+“Cool,” says the policewoman. “Alright, have a good night. Try not to fall asleep anywhere in public again.”
+
+“Okay.”
+
+With that, she walks away.
+
+“Quite the fan.”
+
+Not all fans are like Annie, Abby. Some of them are more low-key like her. But I’m being recognized! I’m basically a celebrity now.
+
+“Is that a good thing?”
+
+Depends. Maybe I should let it be known that I like getting food gifts from fans.
+
+“And risk being poisoned?”
+
+I have Poison Immunity, remember?
+
+“Only at Stage 1.”
+
+For now. I think it’s a pretty great idea though. Think of all the different foods I could get just by walking down the street!
+
+“I think that you’re being quite optimistic.”
+
+And I think you’re being pessimistic.
+
+Anyway, despite being cut short, that nap really did the trick. I was able to digest enough food that my stomach feels like it has a bit of room in it now. This is the perfect time to try out those fantasy cocktails.
+
+I walk back out of this little park area and back onto the street. The bar is only a couple buildings away, so I get there pretty quickly. Inside, it’s pretty chill. There’s a little band in the corner playing something that sounds like jazz, and there are rich-looking people all over having quiet conversations. It’s about half full, though the bar itself is a little more packed. Fortunately, there’s an open seat near the far side, and it’s right next to a familiar head of bright orange hair.
+
+“Annie!” I say loudly as I walk over toward her.
+
+A few of the other people in here give me dirty looks, so I give them dirty looks back as I make my way toward her. She looks up at me, first in confusion, then in excitement. Her cheeks are a little pink, and she’s got two empty glasses next to each other, proving that she’s already been here for a bit.
+
+“Yona!” she says, a bit quieter than I did. “What are you doing here?”
+
+“I came for a drink, obviously,” I say, sitting down next to her.
+
+“Haha, yeah, silly me.”
+
+“Welcome, Miss,” says the bartender, sidling over. “What can I get for you?”
+
+The bartender is a middle-aged man with glasses and a well-trimmed handlebar mustache. A very bartender-looking guy. If I saw him on the street, I would assume that he is a bartender, even without knowing that he is one.
+
+“What do you have?” I ask.
+
+“Quite a lot,” he says. “Do you have any particular type of drink you’re interested in?”
+
+“What kind of cocktails do you have?”
+
+“We have all the standards, as well as a few house specials. Would you like to hear them?”
+
+“Yes, please!”
+
+He goes down a list of ten house cocktails, each of which sounds great, and half of which use ingredients I’ve never heard of, so of course, I order one of everything.
+
+“Miss, if I may make a recommendation, I believe it best to try them one at a time, if your palate is refined. The ice content within the drink makes a big difference, and I believe that ordering them all at once would cause the last ones you drink to be subpar.”
+
+“Well, you’re the expert,” I say. “One of everything, but bring them out one at a time!”
+
+“Certainly. I’ll start with the Riverfork Rush, if that’s alright with you.”
+
+“Sounds good to me!”
+
+As the bartender turns away to make my drink, I turn back to Annie, who I can tell has been eagerly awaiting my attention. Immediately, she asks me to talk about the story of the other Named monster I killed, the ghost shark. I do lie a bit on this one, saying that I used a powerful Fireball instead of storing spells, since I’m pretty sure I’m not supposed to be able to do that. I also cut out a lot of the details of all the dead children and things like that, since it doesn’t feel like an appropriate topic for a relaxing bar.
+
+As I finish up the story, the old man sitting to my other side jumps into the conversation, and soon we have a nice little dialogue going. Annie spends most of the time praising me and asking me to regale her, while the old man chimes in with helpful insights and occasionally an anecdote from his own days as an Adventurer.
+
+After an hour or so, though, he has to leave, and the conversation doesn’t quite recover. I don’t really have enough stories to last this whole time, so I’m out of things to say, and Annie has been drinking the whole time, and she is a little out of it now. I have also been drinking this whole time, but it seems that Poison Immunity works on alcohol, so I am completely unbuzzed. That’s not only fine, but actually great, because getting drunk is my least favorite part of drinking. It does make me feel a little left out as I can’t join Annie in drunkenness.
+
+“Hey Yona,” she says after a minute or so of silence.
+
+Her tone is different from before. The bright bubbliness is gone, and now she actually looks kinda sad.
+
+“Yeah?” I say.
+
+“Have you ever lost someone?”
+
+“What?”
+
+“Like when you were Adventuring. Have you ever lost a Party member?”
+
+“Nope. I’m basically a perfect Adventurer.”
+
+“Ha,” she says, taking another sip of her drink. “I wish I was like you.”
+
+Oh dang. This is about to get depressing. Time to skedaddle.
+
+“Wow, it’s getting late,” I say.
+
+“Yona, if someone said that they could bring back your dead loved ones, would you take their offer?”
+
+“No, because that sounds like a scam,” I say. “Anyway, I—”
+
+“But what if it wasn’t a scam? What if you knew they could do it? You saw them do it?”
+
+“I'd still assume it was a scam.”
+
+“But what if it wasn’t? Just humor me. Please?”
+
+“...I dunno. Then it’d be possible?”
+
+“Would you take the offer?”
+
+“...Depends on what they ask me to do. Annie, are you part of a cult or something?”
+
+“No…” she says. “I was just curious. It’s nothing. Sorry.”
+
+“...Okay. Well, I’m gonna head out. It was nice meeting you.”
+
+“Thanks for wasting your time on me,” she replies.
+
+“...Hey, bartender.”
+
+The bartender is in front of me a moment later, and I pay and leave. Annie is still there swirling her glass when I leave. That was kinda weird. Oh well. It seems to be approaching bedtime anyway, so I guess I’ll head back. I wonder how long Lauren’s been waiting.
+
+When I return, Lauren is doing her new favorite pose against the wall of the safehouse. She’s wearing a yellow dress, so the effect is kinda ruined by the bright colors, but I like the spirit of it.
+
+“Hey, Lauren!”
+
+“Oh, you’re here.”
+
+“How long were you waiting?”
+
+“Not long. Maybe five minutes.”
+
+“Dang.”
+
+“Were you hoping I would wait longer?”
+
+“Well, I thought it’d be kinda funny if you had been.”
+
+“How unfortunate for you. Let’s head inside.”
+
+“Okay.”
+
+We head inside, and as soon as we get in, we split up and head to our rooms. I lay in my bed for a bit while Lauren gets ready to sleep herself, and right as she’s about to get in bed, I Blink in front of her.
+
+“What the—!” she starts. “Stop doing that!”
+
+“Hey, Lauren, I think there might be a weird cult in the city.”
+
+“What?”
+
+“Yeah, they might be offering to resurrect dead people or something like that.”
+
+“What? Where did you hear this?”
+
+“Somewhere. Anyway, g’night.”
+
+I Blink back up to my bed, and below I hear Lauren make a frustrated noise before flopping down into her own bed. I guess sketchy cults aren’t an urgent matter. Whatever. Doesn’t really matter to me. Sleep is more important.

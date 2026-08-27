@@ -1,0 +1,75 @@
+---
+id: 482fe9b6-0b6c-57e4-87df-0f8c7b95d363
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1542 - Power of Friendship"
+slug: 0190-chapter-1542-power-of-friendship
+partOf: chrysalis
+position: 190
+ownLength: 1038
+unit: words
+ownProgress: 1038
+publishedAt: 2025-04-02
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2167300/chapter-1542-power-of-friendship"
+royalRoadId: "2167300"
+markedReadAt: "2026-06-29T19:49:54.189Z"
+---
+
+Invidia could see it. Even better, he could taste it. Addictive, delicious, it was a languid, warm flavour that rolled over the demon’s tongue and sent shivers of joy running down his thin, spindly arms.
+
+He hadn’t even known such a delicate flavour could exist, so much more complex, with so much more depth than what he had gotten accustomed to before. Now, he couldn’t imagine living without it. He was captured. He was enslaved. He was obsessed.
+
+[Thanks for your help, Invidia. I really appreciate you providing those shields. Saved my bacon out there,] said the human mage.
+
+Invidia grinned broadly.
+
+[We thank you for your assistance, guardian,] the ant general said, after Invidia had volunteered to provide artillery support. [The Colony appreciates your efforts.]
+
+The little demon licked his lips with joy.
+
+[Cheers, Invidia. I’ve been trying to get my hands on a glow-silver necklace like this for ages. My girlfriend is going to love it! Thanks, mate.]
+
+Invidia chuckled evilly.
+
+Yes. Yesssssssss. They counted on him. They depended on him! He was their ally, their dependable aid, their comrade. Their friend.
+
+He floated in the centre of the platform, his prodigious brain working overtime, twisting mana into detonations, shields, healing energy, all while lending a sympathetic ear to their worries and concerns. He was a font of sage advice, a shoulder to cry on, and a close confidant to one and all.
+
+It was… delicious.
+
+This particular day was progressing much like any other. The monsters of the fifth were disgusting, slimy things, vastly inferior to demon-kind, in his opinion, and he had no qualms about blasting them to oblivion whenever he could. No doubt, his master would be exceptionally pleased with his performance. Already, he could sense the gratitude rising from the battalions around him like a thick, tasty cloud.
+
+Against the wave, he had noticed just how difficult it was to work any sort of magic due to the corrupting properties of the native mana. Usually, he would have no problems reaching out and manipulating his mana at range to form the detonations that were the signature spell of the gas and fire combination. It was a technique that required extreme levels of external mana control, along with unwavering mental fortitude, which were things that Invidia possessed in abundance.
+
+However, extending mana out into the natural environment was not conducive to successful spellcasting in the fifth. The native mana ate away at his own, corrupting and consuming it the moment he pushed it out beyond the safety of the platform. The longer the wave went on, the more virulent it became, forcing the demon to expend more mana, to exercise even finer control, and to find closer targets.
+
+Another pack of creatures advanced from within the filth, and Invidia watched and waited. The ants were already reacting, preparing for their arrival and looking to engage as the monsters drew closer. The demon bided his time. He knew exactly, down to the centimetre, how far he could extend his magic. Managing the strain on his mind and the mana in his core were two of the major challenges.
+
+The second they stepped over that line, Invidia pounced. Energy surged out of him and he seized the threads of power, his mind-constructs buzzing like a swarm of bees as they wove and twisted the mana as it travelled towards the target. Heedless of the danger, the monsters charged, dripping with malice and slime towards the front line, preparing to disgorge their bile and mucus onto the platform.
+
+The second his mana exited the safe-zone, Invidia could feel it start to degrade as it was consumed and converted. That was fine, he’d adapted to this. He’d extended double the number of threads he would normally need for this spell. As he continued to weave, he discarded those that were too damaged, deftly seizing on his spares, re-working sections of the spell at incredible speed. In less than a second, he had it ready and triggered the magic.
+
+BOOM!
+
+An explosion rocked the chamber, sending shockwaves through the air. Sadly, much of the explosive power was absorbed by the wall of slime that oozed constantly from the tunnel walls. However, he’d been on target, and the spell had flattened the approaching monsters to the ground, damaging and stunning them in place long enough for the ants and their allies to pounce. Several monsters were seized and dragged into the cleansed mana, others were bombarded with spells and acid until they were no more.
+
+But one of them regrouped, lurched forward, and compressed its body, as if summoning energy.
+
+Not goodssss, Invidia thought to himself, preparing to spin together a shield. His friends couldn’t be hurt. It wasn’t allowed!
+
+Except they weren’t the target. The monster, with one final burst of strength, unleashed a stream of mucus, thick and lurid green, deep into the platform, directly at the little demon.
+
+Caught unprepared, he switched gears at the last second, whipping a shield to catch the slime before it could hit him. The glimmering barrier snapped into place just in time. The ooze slapped into it wetly, chewing through the barrier even as it was consumed by the cleansed mana. Yet, he’d misjudged.
+
+The mucus was so thick that the tail end, falling short of the shield, didn’t break off from the main mass, but instead swung beneath the shield like a vine, swinging straight for his head. All Invidia could do was hold up his stick-thin arms in a vain attempt at defending himself as he braced for the inevitable.
+
+Only for the inevitable to fail to materialise. When the little demon lowered his arms, he found a human soldier, shield braced and Skills active, protecting him from the errant sludge. This… this human had leapt into danger to save him. He recognised him. This was the human he’d procured the necklace for. Burton.
+
+Invidia was confused. Baffled. He reached out with a mind construct and felt it snap into place. Before he could even form the question, the young man looked over his shoulder at him.
+
+[Hey there, Invidia. You alright?]
+
+[I amssss unharmed. I thankssss you,] Invidia replied.
+
+Burton grinned.
+
+[No worries. What are friends for?]

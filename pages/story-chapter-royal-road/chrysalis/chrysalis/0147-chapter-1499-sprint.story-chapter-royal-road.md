@@ -1,0 +1,77 @@
+---
+id: 5dd8554e-f41f-543d-afdb-6d33f514d8b6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1499 - Sprint"
+slug: 0147-chapter-1499-sprint
+partOf: chrysalis
+position: 147
+ownLength: 1104
+unit: words
+ownProgress: 1104
+publishedAt: 2025-01-31
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2038998/chapter-1499-sprint"
+royalRoadId: "2038998"
+markedReadAt: "2026-06-29T19:48:33.189Z"
+---
+
+Holy moly, the fifth is no longer mucking around. Mana levels continue to rise, and I have to say, if I thought the fifth was unpleasant before, it’s completely awful now. As the toxic mana grows more dense, everything that makes it world-renowned garbage gets upgraded in the worst possible way. It invades my body more effectively, seeping into me faster than before and doing more damage when it does. Not to mention it replicates itself faster and is harder to break down.
+
+Fun-fun in the sun-sun.
+
+Then, to top it all off, the acidic effect is much, much stronger, which means my carapace is constantly steaming and my eyeballs are melting with upsetting rapidity. I mean… really! I spent so much time working on my eyes, getting them to the point where they would be useful, and now I spend my time wandering around with eyeball sludge dripping down my face since the lousy things can’t hold together for more than a few seconds.
+
+Naturally, this makes me effectively blind while I’m out fighting in the tunnels, which is less than ideal. Oddly enough, I can still be fairly effective thanks to the combination of mutations that I have.
+
+I sense danger from my right, my future-sight antennae tingling in warning, so I leap back and unleash the Starcrusher.
+
+BOOM!
+
+I can’t see what happens, but I don’t sense danger anymore, so I’m assuming it was dealt with. Several of my mind-constructs are conducting constant sweeps, maintaining my external mana sense to identify monsters before they can reach me. They confirm there’s nothing nearby, so I keep moving.
+
+I don’t want to move too far from the safety of the Colony, though not because I’m unable to see properly. After all, with my upgraded Tunnel Mapping Skill, I have a precise bead on my location at all times. I can see how far I am from the cleansed mana zone down to the centimetre.
+
+Surprisingly, there’s one other mutation that has proven to be useful. Even if my eyes are in a constant state of disrepair, I can still ‘see’ intent coming towards me. Just like my foresight antennae, it allows me to know something is coming just before it happens, helping me get out of the way or snuff out the threat before it becomes too large of a problem, even if it’s not quite as clear as it would normally be.
+
+It’s been days since I upgraded my Skills, and since then, I’ve been back on rotation out in the tunnels pretty much constantly. If I’m not fighting, then I’m being treated after coming in, getting some rest and then heading back out again.
+
+The attacks on the fortress have intensified beyond the point I thought was possible. If someone told me the wave had already started, I would have believed them. More Krath have arrived, pushing their numbers higher than they were before we caught so many, and they have been busy. Our Dungeon Seers are reporting the Krath have been manipulating the tunnels to create spawn points all around the fortress, about a kilometre or two away. It’s hard for us to reach them, but the monsters that spawn are almost guaranteed to get close enough to sense the Colony and charge in, enraged.
+
+In addition, the increased monster numbers means more Biomass, experience and cores have been added to the local ecosystem. That means more evolved monsters coming our way with better mutations and higher levels.
+
+I’m not a fan.
+
+[Come back, Eldest. We’re ready to seal up the tunnel.]
+
+[Ok.]
+
+Just for fun, and not because I hate this place, I fire off a gravity bomb, gaining no small measure of satisfaction from the shrieking howl of wind as it flies off and detonates a safe distance away. Take that!
+
+Having extracted my petty vengeance, I retreat back to the safe-zone, sagging with relief as I finally stop melting. I trigger my healing gland again as a team of healers grumpily climb onto my carapace, smacking me with their antennae until I give in and flop down onto the ground.
+
+“Fine! Fine! You win.”
+
+“We’re healing you,” one grumbles.
+
+“The patient should sit still and be quiet.”
+
+“You don’t even have eyeballs; you lack more than one common sense.”
+
+“Oi, that was unnecessary,” I complain, but they pay me no mind.
+
+“How is it out there, Eldest?” Tungstant asks me.
+
+If there’s anyone who looks more rough than I do, then it’s Tungstant and Cobalt. They’ve been getting rest, but it doesn’t seem to help them much. The two are so run down they look like ant-shaped puddles, oozing from one place to the next.
+
+“It’s bad,” I tell her, not bothering to try and conceal it. “The wave is close. Spawn rates are getting out of control. The Krath are being sneakier, but they don’t have to do as much as before. As long as they point all these monsters towards us, the work is done.”
+
+“The upper third of the fortress is finished, at least,” she tells me. “With your help, we’ve been able to close off the last few tunnels much more rapidly. I’m hoping our pace will accelerate over the next week rather than slow down.”
+
+“You and me both.”
+
+With me inside, the build teams set to work on the final touches. The wall of the fortress is being formed a hundred metres within the edge of the safe-zone, which keeps the builders relatively safe. Having said that, already there are monsters pressing against the blue mana, disgorging rivers of sludge and trying to eat away at it.
+
+Like the polished professionals they are, the build teams work as a harmonious whole. The giant frames have already been established and connected to those above and below. Enchanted plates of steel have been carefully set in place, and the ants have worn away the stone. The tunnel now features a twenty metre-wide-chasm, the final links of which they now break away. With the tunnel and fortress now severed, the earth mages move into place and begin to complete the final stonework. Gradually, all the rock they’ve prepared flows over the frames, moving like mud, then hardening. In only ten minutes, the kilometre-wide tunnel has been completely sealed.
+
+“Another one done,” I note to Tungstant.
+
+It’s not completely done, though. The earth mages will spend another two days working on the outer shell, adding more layers of rock, hardening and compressing them. Eventually the shell will be an incredibly dense, self-regenerating wall of impenetrable stone, cut off from the wider Dungeon. Hopefully, it’s enough.

@@ -1,0 +1,219 @@
+---
+id: 50d3f5b7-a5e6-58de-bc63-aac72e19b078
+page-type-slug: story-chapter-royal-road
+title: "51 - Ryantown"
+slug: 0051-51-ryantown
+partOf: cat-girl-evolution
+position: 51
+ownLength: 2762
+unit: words
+publishedAt: 2025-11-19
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2773843/51-ryantown"
+royalRoadId: "2773843"
+---
+
+[ Herald of the Great One, lvl 3 ]
+
+Abby, that’s a ghost, right?
+
+“It certainly seems that way.”
+
+“Hey, are you a ghost?” I call.
+
+“Well, I certainly appear to be one right now, yes,” says the man jovially. “But no, I am no ghost. I have simply shed my mortal form, ascending to a higher plane. You can do the same, if you wish.”
+
+“What kinds of foods do ghosts eat?”
+
+“Food?! Oh, heavens no. We don’t eat food. Why else would we shed our mortal forms if not to forgo the great sin of consumption?”
+
+Abby, I don’t like this guy.
+
+“He’s not to blame. It’s–”
+
+Yeah, I meant the Great One thing. This guy’s totally a ghost and he doesn’t even know it, and he thinks it’s a good thing. He can’t even eat anymore and he’s happy about it. It’s… disgusting.
+
+“I agree.”
+
+“I see,” I say, nodding. “Can I meet this Great One of yours then?”
+
+“Oh, it is not mine, but I would be happy to take you to meet it!” says the ghost. “It is difficult for mortals to comprehend its greatness without witnessing it firsthand. Why, my own daughter believed it to be some kind of monster until she met it. A monster!” He laughs. “Can you believe it?”
+
+“I’m not sure…”
+
+“Well, let’s go!” he says. “No point in waiting!”
+
+Abby, I’m gonna kill this Great One thing.
+
+“Almost definitely the best course of action. Whatever is doing this is a monster in more ways than one.”
+
+I follow the ghost, who chatters away as we walk through the city. All around us, I sense the bodies of people dead and dying. A couple more ghosts join us on our journey, and they all start chattering about the Great One’s greatness. I stay silent.
+
+As we get nearer to the town center, suddenly, the movements of a living person enter the range of my Food Sense. This is strange because most of the living people that I sense aren’t moving. Like the guards out front, they’re all too malnourished. They’re just laying around, drifting in and out of consciousness. This one moves nimbly though, as if they have somehow avoided whatever mental magic plagues the rest of the town.
+
+At first, I worry that it’s one of my minions, but after a few seconds, I realize it can’t be. It’s too stealthy to be Chad or one of the twins, and it’s too slow to be Lauren, meaning it must be someone new.
+
+I slow my pace, forcing the ghosts to slow as well while this new person gets close. Soon, they’re right ahead of us, hiding in the shadows of an alleyway. When we reach the alley, I don’t see anything, but I suddenly come to a stop and drop to one knee.
+
+“I need to tie my shoe,” I say.
+
+“What?” asks the first ghost I met, staring down at my very tied laces.
+
+At that moment, a projectile of pure mana flies out from the alleyway. I tense up, ready to dodge, but it’s not aimed at me. It hits the ghost that spoke, and he begins dissipating into nothingness. The others gasp, but they don’t have time to react before a half dozen more projectiles are fired, and they too dissipate. A few seconds later, I am alone in the street, and the person in the alleyway disables their stealth Skills.
+
+“Quick, follow me!”
+
+It’s a boy, no older than sixteen, and he beckons toward me frantically. I follow silently, and he leads me through the town. We stop and hide quite often to avoid the eyes of other ghosts, and we move quietly to avoid alerting the few living people that remain in their houses until we reach a stone church-like building with a statue of an angelic woman atop it. There are no ghosts around the building, and when we arrive, the boy stands up straight and starts moving normally.
+
+“We’re safe now,” he said. “Let’s go inside.”
+
+Inside, I find that the building is indeed a church. Just past a small lobby area, there is a large chapel. All the benches are lined up on the side of the room though, and the entire floor is taken up by blankets and unconscious people. In the far back of the room, right below another statue of the same angelic woman, there’s a giant metal cauldron with a small fire beneath, and I can smell soup even from all the way over here.
+
+There are only about a dozen people who are awake here, all but two of them wearing robes that look like they used to be white, and they go around with bowls of soup, gently ladling it into the mouths of the unconscious. The other two are dressed more like adventurers, complete with weapons and armor, and they are doing the same. The boy next to me is also dressed somewhat like an adventurer, though a makeshift one. His clothes are raggedy, and he has two daggers that even I can tell are poor quality.
+
+“Welcome,” says an elderly robed woman, setting down their soup and approaching with a smile. “Thank you for rescuing another, Samuel.”
+
+[ Melinda, Priestess of Ilvara, lvl ??? ]
+
+“She was walking right into the center like an idiot,” says the boy.
+
+“Samuel!” Melinda scolds, rapping him on the top of his head with her knuckle. “Please forgive him. He was never taught manners, and all those ghosts you saw… Well, they were people once.”
+
+“What’s the point of manners when the town’s like this?” mutters Samuel, earning him another smack to the head, making him cover his forehead with his hands.
+
+“It’s fine,” I say. “How are you all safe?”
+
+“By the grace of Ilvara,” says Melinda. “The undead cannot enter sacred grounds. And no grounds in the city are more sacred than Ilvara’s church.”
+
+“Then the Great One is undead too?”
+
+“Yes,” she says. “A very powerful one.”
+
+“A Disaster,” says one of the Adventurers, setting his soup down to join us. “A Named Disaster.”
+
+The speaker is an enormous man dressed in heavy plate armor, but despite his size, he moves gracefully, barely making a sound as he steps.
+
+[ Francis, Nimble Defender, lvl 26 ]
+
+“A Disaster?” I ask. “How can you tell?”
+
+“It’s obvious. It’s a Named monster with an aura effect. Anyone who gets near it immediately is influenced by its aura, feeling a strong desire to worship it and forgo eating.”
+
+“I see,” I say.
+
+“I’m Francis,” he says, holding his hand out. “High Gold Adventurer. Frontline tank. I was sent here to guard against whatever killed the first Named monster, but I can’t do shit about a ghost with my Class. That over there is Elaine, also High Gold. Backline ranger.” The other adventurer, an exhausted-looking woman, waves, then goes back to feeding the person in front of her. “We’re both specialized in physical damage and defense, so ghosts are the one type of enemy we’re not equipped to handle, and of fucking course that’s the one enemy we have to deal with here.”
+
+“You have done plenty,” says Melinda. “It is only because of you that we were able to save so many.”
+
+Francis scoffs. “‘Save’ is a strong word. Delaying the inevitable is more like it.”
+
+“Ilvara’s grace will see us through.”
+
+“Ilvara’s grace won’t do shit unless she sends us a Platinum ranked caster. Anything else is useless.”
+
+“...I am a Platinum ranked caster,” I say.
+
+“You’re shitting me,” says Francis.
+
+“I’m not,” I say, pulling out my Gold ranked badge, and the note signed by Pike that says I’m at Platinum level. “And I’m here to kill that thing.”
+
+Francis grabs both, briefly glancing at the badge before reading through the note. His eyes widen, then narrow as he reads through a second time.
+
+“I didn’t know that there were any Platinums in Riverfork,” he says, eyeing me suspiciously. “In fact, I’ve been to Riverfork a few times, and I don’t remember any Adventurers that looked like you.”
+
+“Francis,” says the robed woman in a warning tone. “Please forgive him as well. He has a good heart. He’s simply tired. We all are.”
+
+“No, something’s funny,” says Francis. “You’re not from Riverfork.”
+
+“You’re right,” I agree. “I’m not. I was just passing through. But that doesn’t matter. I’m here now, and I’m going to kill the Great One.”
+
+He stares at me for a few seconds.
+
+“Lady, you’d be a lot less suspicious-looking if you took off your hood,” says Samuel next to me.
+
+The robed woman tries to knock on his forehead again, but his hands are in the way.
+
+Right, I forgot I had my hood on. And my tail is hidden under my cloak. I’m not sure if taking my hood off will make me any less suspicious. Also, why is he even suspicious of me right now anyway? He clearly needs my help. Ungrateful prick.
+
+“There’s no need if you’re uncomfortable with it,” says the robed woman. “It is enough that you are here. And if you believe that you are capable of slaying the Great One, you have our full support.”
+
+She smiles and speaks warmly, but for some reason, it feels like there’s a bit of warning in her tone that keeps both Francis and Samuel from speaking. That’s fine with me. Samuel’s a kid, so he’s supposed to be snarky, but Francis is being annoying.
+
+Anyway, now I know that this Named monster is a Disaster, which is useful. If it’s anything like my Disaster evolution option, it’s going to have some pretty insane stats too. It’s also a ghost, meaning only magic will work. That will make things tricky. But not impossible. Especially if its main power is mental magic that won’t work very well on me.
+
+“That might not be its only ability.”
+
+That’ll be the only ability it uses at first though. And it sounds like it will just let me walk up to it as long as I’m peaceful about it. I can go up to it, pretend I’m under its spell, then attack. I have a bunch of charged up Skills stored… but I should probably get a few more.
+
+“I need to do some preparation,” I say. “How far does Ilvana’s protection extend?”
+
+“Twenty meters in all directions from the center of the church,” says the robed woman. “The street outside is safe. And before you go, take this.”
+
+She reaches toward her neck and removes a necklace that had been hiding under her robes. It’s a simple silver chain, and at the bottom, it has a symbol made of three interlocking rings hanging from it. I can sense a bit of mana inside it, but not much.
+
+“It is a holy artifact,” she explains. “It will protect you from some of the effects of the Great One. It will not provide complete protection, but it will slow the effects, hopefully long enough for you to do what needs to be done.”
+
+I accept it, putting it on.
+
+“Thank you,” I say. “But I don’t think I’ll need it much. The Great One’s magic won’t work very well on me.”
+
+“Arrogance is the downfall of many,” says Melinda.
+
+“This isn’t arrogance. Just trust me. I’m going outside now. I recommend staying out of my way, just in case I mess up my preparations.”
+
+“May your path be blessed,” she replies with a smile. “I await the good news of your return.”
+
+Francis looks like he wants to say something, but stops himself. Meanwhile, Samuel has already trudged away and is sitting against the wall with his head between his knees. I nod to Melinda, then turn and walk back outside. Once outside, I summon my sword, and start charging up a Spatial Slice with it held overhead.
+
+Abby, I’ve seen a lot of really bad things in my life, but I think this takes the cake.
+
+“...I cannot recall anything worse.”
+
+This Great One thing… The goddess said it was a human like me once.
+
+“The goddess?”
+
+…Did I forget to tell you about that?
+
+“It would seem so.”
+
+Well, basically, on my way back from that Dungeon in Riverfork, this goddess lady stopped me and told me that I was one of thirty people competing to be the Chosen One, and she said that the thing here was another of them. All of the Chosen One candidates were humans from my world. So whatever’s doing this is a human.
+
+“I see…”
+
+Do you think all the other Chosen One candidates are like this one? You saw what was in there, right?
+
+“I certainly hope not. I am no expert on psychology, but from the data I have, the people capable of doing something like this are not common.”
+
+You’d be surprised.
+
+“...Well, there’s no point in worrying about the others now. You can’t afford to get distracted.”
+
+You’re right.
+
+I finish storing the second Spatial Slice in my Stomach, then pull out one of the mana constructs I stored in there while we were traveling to replenish my mana before I start making more Spatial Slices. Francis peeks out as I work, but decides to go back inside instead of saying anything.
+
+I repeat until I have ten Spatial Slices stored, all mid-swing so as soon as I release them, they’ll fly forward and cut through whatever’s in front of them before dissipating. I also have some Fire Bursts and Spiral Mana Bursts in there from prior experimenting. That should be enough to level a forest. If that’s not enough… I think I’ll need to go ask A to help. If it can survive those explosive projectiles too, then it’s simply not meant to happen.
+
+Once I have them stored, I start walking back toward the center of the city. I run into a ghost after not too long, but when I tell them I want to meet the Great One, they happily lead me there.
+
+Apparently, the Great One is not actually at the center of the city. He’s on the far side, near the docks. The closer we get, the more ghosts there are, and they’re all gathered around one particular dock that’s so crowded that I can’t see what’s at the end. I can only assume that it must be the Great One.
+
+While we move, my mind is almost completely focused on killing the Great One until we get close enough to the water that my Food Sense extends into it, and I sense something that distracts me. Sea scallops. And not just any sea scallops. Manaborn sea scallops. I almost forgot the original reason I came here until I saw that.
+
+As I walk, in spite of everything else around me, my mouth waters. Manaborn sea scallops sound heavenly. I need Lauren to cook me some. I can already picture the pan-seared perfection.
+
+“Stay focused.”
+
+I know. I will. I’m just looking ahead. Don’t you think they’ll make a perfect victory meal?
+
+“You need to achieve victory first, so don’t get distracted.”
+
+Yeah, yeah, I know.
+
+The ghosts part as I walk to the dock and onto the wooden planks. They step out onto the open air above the water, hovering there, watching me go by with elated smiles. The ghosts come in all shapes and sizes, from children to the elderly, and all of them, without exception, are labeled as Herald of the Great One. Seeing one ghostly girl who doesn’t look older than four, I almost start running. Children shouldn’t die young. They definitely shouldn’t starve to death.
+
+Ahead of me, the ghosts part until only a single one stands in front of me at the end of the dock. All the ghosts around are made of mana, but this one at the end is made of so much mana that it almost seems impossible. It’s as dense as the mana in my Spatial Slice, but it’s in the shape of a person. A human man. He’s middle-aged, scrawny, has a terrible goatee, and his face looks oddly familiar. Familiarity is unimportant though. This is clearly the one who called himself the Great One, and if his mana level wasn’t enough proof, his namecard certainly is.
+
+[ Joshua, the Temperant Idol, lvl 28 ]
+
+“Yona,” he says with a soft smile as he reaches his hand out. “What a beautiful name. Would you like to join me on the path to true harmony with the world?”

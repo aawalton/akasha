@@ -1,0 +1,195 @@
+---
+id: bb56c8e9-db01-5eba-94ca-96fb8efefc50
+page-type-slug: story-chapter-royal-road
+title: "9: Weird Human"
+slug: 0009-9-weird-human
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 9
+ownLength: 2608
+unit: words
+publishedAt: 2025-08-17
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2525616/9-weird-human"
+royalRoadId: "2525616"
+---
+
+Chloe glanced over her shoulder at the bulky wooden thing, the one squatting on four fat wooden circles. It hadn’t moved before. But now, it was starting to move around quite a lot.
+
+"Someone help me! I demand immediate aid!"
+
+The voice was muffled, but human. No doubt about it.
+
+Chloe’s grin widened. So someone was alive in there. Human too, from the sound of it. That meant free brains!
+
+She circled the strange wooden structure as her eyes scanned every angle. Up close, the thing looked even stranger, patched with metal loops, uneven seams, and little metal thingies she didn’t recognize.
+
+Then she spotted a small, stubby thing sticking out of what seemed like a door. Smooth in the middle, curved just enough for fingers to wrap around it. It looked like it was meant to be pulled or twisted. What if I just pull on that really, really hard?
+
+She grasped the handle with both hands and yanked as hard as possible. But the handle didn't budge. Oh come on, this thing is so annoying.
+
+Chloe braced her feet against the wooden frame and gave the stubby thing a savage pull. With a loud crack, the wood gave way. The whole door snapped loose, exploding into splinters as Chloe flung it behind her. It hit the ground with a heavy thud.
+
+Finally, she entered the strange wooden structure. Hunched in a corner was an odd looking man.
+
+The man's hair was golden and glossy, like he’d never slept on a rock in his life. It fell in neat, shoulder-length waves. But his clothes? His clothes were... something else.
+
+She had no idea what he was wearing. The long coat thing was covered in shiny bits and stitched with fussy little patterns. Around his neck was some frilly scrap of fabric, bunched up like it was strangling him on purpose. He wore polished boots that had definitely never seen mud, and some weird cloth tied around his middle, just completely ridiculous. What am I even looking at? Why would a human dress like that? These clothes don't look like they'd help him fight.
+
+The strange man didn’t look like an adventurer. Not even a little.
+
+Soon, he spotted Chloe and straightened stiffly, as if trying to compose himself despite being hunched in a corner. “Are you just going to stand there? Aren’t you going to help me?”
+
+Chloe blinked at him, unimpressed. “Why should I?”
+
+“Because I am William Alaric Thelonious Everhart, rightful Baron of Kelvane. Surely even a peasant girl such as yourself has heard something of my name. It would be most uncouth, not to mention improbable, for one to grow to your apparent age in this kingdom without at least some passing knowledge of who I am.”
+
+Chloe stared at him as he finished rattling off what had to be the longest name she’d ever heard. He spoke with the kind of pompous flair that suggested every word was supposed to mean something important, but to her, they meant absolutely nothing. She didn't even know what a Baron was supposed to mean.
+
+She couldn't help but wonder why was he talking so much? It seemed rather suspicious.
+
+This Baron person spoke far too many words, far too quickly. Maybe it was a trap. A spell, even. Perhaps the plan was to bore her to death, to drown her in a flood of meaningless syllables until her brain simply gave out.
+
+Part of Chloe figured she could skip the mystery altogether and simply eat his brain. But before she could act on the thought, the Baron spoke again.
+
+“Listen closely. If you assist in securing my freedom and ensure my safe return to Kelvane, I shall reward you with one hundred gold, as well as whatever else your heart may desire, within reason.”
+
+Chloe remembered the last time she’d sunk her teeth into a wizard’s brain back in the dungeon. His brain was easily one of the best she’d ever tasted. “Oh! Can I have brains? Especially magic brains?"
+
+The Baron paused, confused for just a breath, then smiled in a way he probably thought was charming. “Certainly! I can acquire for you the finest minds in the entire kingdom. Scholars of impeccable unmatched intellect, why, some of them speak multiple languages and—”
+
+“Okay… but is this scholar person good at magic?”
+
+“Ah, you require a scholar skilled in magic? But of course, an entirely reasonable request, and might I add, a delightfully refined one. You’ll be pleased to know that Ishgria is home to the Royal Mage Academy, an institution so venerable that families across the continent send their children to study there. And just beside it stands the Tower of Mages, a place so renowned its reputation speaks for itself. Now, whether you desire someone from the academy, or from the tower...”
+
+Chloe blinked. Once. Then again, slower. “Wait, wait. I don’t know what you’re saying. At all. What even is an Ishgria?”
+
+The Baron stared at her, completely shocked. “You… you don’t know? Why, Ishgria is this kingdom, our kingdom! Ruled by His Radiant Majesty, King Gustav the Second, descended directly from Queen Ishgria the First, the…"
+
+Chloe stared at him, her expression frozen somewhere between disbelief and quiet suffering. She wondered how it was possible that the Baron was still talking? Did he not need to breathe? She was pretty sure humans needed to breathe.
+
+She had considered cutting him off several times, but honestly? It didn’t seem worth the effort. The man clearly loved the sound of his own voice. If he hadn’t dangled the promise of a reward in front of her, she’d have punched him in the face ages ago. But no, now she had to play nice, because unfortunately, he might actually be useful.
+
+So Chloe endured it. All she needed was a little patience, this was all for the magic brains, after all.
+
+So maybe helping the Baron wasn’t such a bad idea. If this scholar’s brain had even half the flavor she was imagining, the whole trip would be more than worth it.
+
+Eventually, finally, the Baron’s voice slowed, then stopped altogether. It was as if he had only just realized he’d been rambling to a girl who hadn’t blinked in several minutes.
+
+He cleared his throat, and looked at Chloe expectantly. “Ahem. Now then... are you not going to free me?”
+
+“I was getting to that,” she said, waving a hand like she was shooing a fly.
+
+“Hurry, then, this position is terribly undignified, and I fear my circulation is at risk.”
+
+"Calm down, I'm on it."
+
+Chloe went out of the strange wooden structure, humming to herself as she picked her way through the aftermath. The ground was littered with weapons from the bandits she’d cheerfully dismembered earlier. She grabbed a sword before strutting back inside with it slung over her shoulder.
+
+With a few enthusiastic swings and probably more force than necessary, she hacked through the ropes holding the fancy man. He yelped once, but she pretended not to hear it.
+
+Once freed, he stepped out of the wooden structure like it offended him to have been inside it. Chloe followed, brushing some dirt off her sleeve before giving him a sharp grin. “So… can I get that reward now?"
+
+“Obviously, I cannot reward you now. As I clearly stated before, the reward shall be granted once we reach my estate in Kelvane. That was our agreement.” The Baron said.
+
+“Huh? What's a Kelvane?”
+
+“Have you… have you been living under a rock?”
+
+Chloe shrugged. “This is the first time I’ve been outside.”
+
+The Baron looked her up and down like he’d just noticed her for the first time. “Yes… yes, I see it now. That sickly pallor, those, what are those? Stitches?”
+
+He leaned in slightly, examining her. “Of course! You must be recovering from a truly diabolical medical condition. It must have kept you confined mostly indoors your entire life until now.”
+
+“Well, actually I—” Chloe tried to speak, but the Baron or whatever just waved a hand in her face.
+
+“Please, spare me the details. I am afraid the whole truth would be too much for my delicate stomach. I’ve had some problems with indigestion lately. Besides, I can already guess your story. It is written in your posture, your complexion, your utterly tragic sense of attire, no offense. Of course, I know how hard it is to find good tailors in the outer provinces."
+
+He nodded to himself like he’d solved a mystery. “That said, I must confess I am most curious, how, precisely, does your mysterious medical affliction allow you to fight at all? Your strength must be some fluke of fate. Perhaps your condition unlocked a latent reservoir of power somehow? Why, the scholars at the Royal Mage Academy would weep to observe you!”
+
+He stepped in a slow circle around her, stroking his chin as he continued without pause. “And how in the world did you manage to dispatch all of those bandits all on your own? Was it pure instinct? Divine intervention? Sheer brute force? Or perhaps… yes, perhaps, you are a vessel of some forgotten power, a tragic heroine wrenched from obscurity by circumstance!”
+
+Chloe tilted her head, confused. “They weren’t that strong. Why’re you surprised?”
+
+That made the fancy man pause. He paced a few steps, then circled back to her, looking her up and down again. “Nevermind then, why don't you tell me your name?”
+
+She puffed out her chest a little. “It’s Chloe.”
+
+“Just Chloe? No family name?”
+
+“What’s a family?”
+
+William gasped loudly. “No family? No parents? Fighting to survive without guidance or comfort, forced to grow strong in the dark, afflicted by a cruel and monstrous ailment that kept you from the light of day… yes… yes, how utterly tragic. You, scraping by in the shadows, denied the soft embrace of a mother, the stern wisdom of a father, forging your own path like a sword tempered in sorrow, gods, it’s the perfect origin story. The bards will…"
+
+Chloe watched the human with narrowed eyes. He was still talking for who knows how long. She caught most of the words, sure, but the meaning? Not so much. Okay, he’s saying stuff. Important-sounding stuff. Maybe about me?
+
+She stared at him as he dramatically clasped his hands behind his back. This is definitely the weirdest human I’ve ever met.
+
+After a while, the fancy man finally stopped, and Chloe asked, “So… are you done talking?”
+
+The Baron gave a slow nod. “For now, yes. But we must make haste. The longer we linger here, the greater the risk of further attack, bandits, beasts, or worse. But you absolutely cannot come dressed like that."
+
+Chloe blinked, then looked down at herself. Her tattered shirt was bloodstained, one sleeve completely gone. The other was halfway ripped and crusty with bandit bits. In other words, a completely normal look for a zombie.
+
+She looked back up at him. “What’s wrong with my clothes?”
+
+“It’s undignified. Disgraceful. Disastrous. That outfit would scandalize a scarecrow.” the Baron said.
+
+“Scandalize? Dunno what that means, but it sounds fun.”
+
+William ignored her. “Fortunately, the carriage you found me in was one of my servant wagons. There should be some spare garments inside. Unless the bandits have looted through it already, you may find something that fits. Feel free to… repurpose what you need.”
+
+“Wait, what’s a servant?”
+
+“People who work for me. You know, fetch things, clean things, open doors, that sort of business.”
+
+“Oh, so I’m your servant, right? Since I’m helping you?”
+
+“Heavens, no! You lack a contract, a uniform, and any semblance of training or discipline, no offense, of course. Also, the very idea—”
+
+William stopped himself and sighed. “Never mind. Just check that heap the bandits were pawing through. Surely there’s something in there that will fit you.”
+
+With a gentle push on Chloe's back, he herded her toward a pile of belongings half-buried in trampled grass. There was a lot of stuff there, mostly weird items that she had no idea how to use, but also some clothes.
+
+She crouched and started rummaging with both hands. Let’s see… too small, too frilly, too boring, way too many buttons, oh wait, this one’s shiny. Shiny is good.
+
+Behind her, the Baron was muttering again, something about how he shouldn’t have done his “discreet getaway,” whatever that was supposed to mean. And then he said something about how he should have brought more people with swords and shields to guard him. She stopped listening after that though. His words were long, and her interest was short.
+
+Chloe eventually pulled a brown hooded cloak from the mess. She threw it over her shoulders, the hood drooping a little too far over her eyes. It smelled like dry grass, but it swished nicely when she turned, so she counted that as a win.
+
+“I’m done,” she announced, spinning to face him with a grin.
+
+William blinked, then gave a pained sigh and shook his head. “You cannot possibly believe that’s sufficient.”
+
+“Why not? I like it.”
+
+“You need more than just a cloak, go get some proper garments beneath it. Then you'll need some boots, and gloves after that. Yes, gloves, absolutely essential. Elbow-length, perhaps."
+
+“Do I really need all that?
+
+“Listen, while I… admire your striking appearance, others may not share my open-mindedness. In fact, they might scream. Or faint. Or reach for a weapon. It would be best, for everyone’s sake, if you covered more of yourself. Entirely, if possible. Think of it not as hiding, but rather, cultivating mystique. Enigma is always more fashionable than raw terror.”
+
+Again, the Baron said a lot of words that she didn't fully understand. But Chloe got the gist more or less.
+
+She knew humans liked to stab monsters on sight. Pretty standard behavior, really. If they saw her as she actually looked, they’d probably try to kill her. So yeah, disguising herself made sense. What didn’t make sense was why Baron Willy here hadn’t tried to gut her the moment she showed up.
+
+Maybe he was just really weird. Maybe he just had really bad instincts. Either way, she didn't really care.
+
+Chloe turned back to the pile and started digging again. She found a stiff-looking tunic, a pair of dark trousers that didn’t smell too bad, and a single boot that she waved at William until he pointed her toward the matching one. She held up the clothes, satisfied, and then reached for her shirt.
+
+William turned bright red and spun around. “What are you doing?!”
+
+She blinked. “Changing.”
+
+“Not here! You’re in the presence of a noble! You cannot simply disrobe in front of me like some wild creature from the woods!”
+
+“Why not?”
+
+“Because, you are expected to behave with a certain level of refinement. Even if your unfortunate peasant upbringing has failed to instill it.”
+
+"Refined." Now that was a weird word. This human sure had a lot of those. Chloe wondered if refined meant clean? Or stiff? Or maybe something else entirely?
+
+She wasn’t sure. And honestly, she didn’t get why he talked like that. Did he think those fancy words made him smarter? Or harder to kill? Because they didn’t.
+
+Chloe didn’t really get why the fancy man was making a big deal out of her changing clothes, but if he was going to keep making a fuss, then maybe, maybe, she should just go behind the carriage to avoid more drama.
+
+With a grumble, she snatched up the bundle of clothes and stomped off. Humans are so weird.

@@ -1,0 +1,79 @@
+---
+id: 475bf32b-23e5-5efb-a97a-24c5ab0be88d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1414 - Sneaky Spirit"
+slug: 0062-chapter-1414-sneaky-spirit
+partOf: chrysalis
+position: 62
+ownLength: 1030
+unit: words
+ownProgress: 1030
+publishedAt: 2024-09-20
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1811074/chapter-1414-sneaky-spirit"
+royalRoadId: "1811074"
+markedReadAt: "2026-06-29T19:45:36.979Z"
+---
+
+I’m going to be honest, it takes me a while to find out where those vibrations are coming from. Too long, if you want to be strict about the clock, which I should be. Once I start chasing down that tingle, it becomes almost impossible to ignore.
+
+It’s tricky to get at it. The source seems to be moving? At the same time, it isn’t. Something fishy is most definitely going on, but as long as I keep moving forward, as long as the sense in my antennae keeps getting stronger, then I know I’m moving in the right direction.
+
+The fifth has a weird layout. The first stratum was a mess of tangled little tunnels, some small, some large, which intersected and branched off each other just as often as they came together in huge caverns. So far, the fifth is similar in the sense that it's just tunnels, but these are all massive. The smallest I’ve seen was the first, one kilometre across, and the largest is the one I’m currently in, possibly as many as three across.
+
+They are huge.
+
+And in each and every one of them, there’s a… flow, a sense of movement, of motion. The mana, thick, toxic and dangerous as it is, never stops moving, like it’s a living, breathing thing.
+
+At times, especially like now, when I’m exploring off on my own, there’s a strange sense of being inside an enormous living creature. As large as I am, I feel like a germ, invading the body of another organism.
+
+It’s unsettling, to say the least.
+
+I push all of that to the back of my mind as I keep trying to sniff out the sneaky little so-and-so who’s tickled my senses. I double back a few times, confused, and eventually find myself staring at the side of a tunnel that I’ve walked past three separate times, scratching at my head.
+
+Everything my antennae are telling me says that what I’m looking for is right in front of me. Yet, there’s nothing there. My eyes, my mana sense, smell, everything is telling me that this is just a chunk of rock, exactly the same as every other chunk of rock, and that behind it is nothing, except for more rock.
+
+And yet. AND YET.
+
+There’s tiny, little, waves. The slightest of gravitational disturbances, tickling and aggravating at the edge of my awareness, like the finest roots dangling from the end of a vegetable just pulled out of the dark earth.
+
+Stupid tree. I know you’re in there!
+
+Unsure how to proceed, I decide to take a simple approach, and open my mandibles wide so I can begin charging a truly potent Void Chomp.
+
+After a few seconds, the rock… morphs into… not rock, and then just peels back, parting like water to create a narrow tunnel. I close my mandibles with a soft snip and then walk forward. The tunnel is just wide enough for me to enter, but I have to fold up my legs as tight to my body as they’ll go. It's uncomfortable, but I suppose that’s the point.
+
+After a while, I find the source of the maddening sensation, and just as I suspected, it’s roots. Feeling smug, I reach out to them with my mind.
+
+[Found your own little hidey hole down here, huh? How long have you been living in the fifth?]
+
+For a minute, there’s nothing but silence. The Mother Tree has never spoken to me directly. To be honest, I don’t even know if she can. The roots trailing down from above writhe angrily, a huge mass of them, as thin as hair, until eventually, they twist into a shape.
+
+It’s a woman’s face.
+
+Then a mind reaches out to touch mine.
+
+[Why are you here?]
+
+Her voice is kind of scratchy and thin, as if she hasn’t had to speak to anyone, even using mind magic, for a very long time. I don’t know how she speaks to her children, but it’s probably through an even more intimate method than mind to mind. Soul to soul, maybe?
+
+She’s clearly not happy to see me here. Even with a face formed of roots, she’s scowling at me.
+
+[Got a little sense of your presence, so I thought I’d come and say hi,] I say, radiating smug energy.
+
+The vines twist in irritated knots before reforming to the face.
+
+[How did you find me?] she demands. [This place should be impossible to find.]
+
+I don’t answer that, because of course I don’t. Instead, I ask the question that I want answered.
+
+[Do you actually live here? In the fifth? That massive tree above isn’t your real body, is it? You’ve got sneaky little roots all over the place, sucking up mana, but this is different; you’re actually here, somewhere.]
+
+I don’t think this is her real body, here in front of me, this random tangle of roots, but for whatever reason, she felt much more present. She definitely wasn’t that far away, relatively speaking.
+
+[I am not going to tell you that,] she hisses in my mind. [Stay away from me.]
+
+The more I think about it, the more it makes sense. Of course she’s down here. Where else is she going to access a rich source of mana that nobody else is going to miss? She sends her taproots out into the third, into the second, maybe even the first, and I’m sure they pull in their fair share, but down here? The mana here might be disastrous to come into contact with, but the Colony has proven it can be made safe. By drawing in and purifying the energy of the fifth, she has a rich and ready source of power.
+
+The two problems are, it would cost energy to gain energy down here, so her process must keep her ahead of the curve, and secondly, she would have to avoid detection. If the Krath found out what she was doing, they would lose their minds.
+
+[Oh no,] I grin, [I think we’re going to have a long conversation. After all, you can help us out with what we’re doing. It affects you too.]

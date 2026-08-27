@@ -1,0 +1,235 @@
+---
+id: b258b4b8-1e75-50f5-bb67-5e029d415eee
+page-type-slug: story-chapter-royal-road
+title: "71: Surprise Reunion (End of Book 1)"
+slug: 0071-71-surprise-reunion-end-of-book-1
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 71
+ownLength: 2011
+unit: words
+publishedAt: 2025-11-17
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2768855/71-surprise-reunion-end-of-book-1"
+royalRoadId: "2768855"
+---
+
+After surviving that match with Aleph. Chloe had gotten a little too popular a little too fast. And at first, it was great.
+
+People were clapping, cheering, and yelling her name. Chloe soaked it in like sunshine. But then more people started showing up, like, a lot more.
+
+Some wanted to talk. Others wanted to give her stuff. And a couple of them kept using weird words like "exposure" and “sponsorship deal,” which sounded more like something gross than rewards. What even is a sponsorship anyway?
+
+It got overwhelming real quick. So, instead of dealing with the crowd all day, Chloe just walked straight up to Aleph and said, “Can we talk somewhere quiet? Oh, and I have an elf that's coming with me too.”
+
+She honestly expected him to be grumpy after losing. But weirdly, he was a lot nicer now. Aleph had nodded and offered to take them to his "lounge."
+
+Chloe didn’t know what a lounge was supposed to be, but if it meant fewer people shouting her name, she was in. As it turned out, the lounge was really nice.
+
+She was now sitting on an expensive looking chair. There was a carpet too, which was really soft. More notably though, the walls were covered in… Aleph.
+
+There were posters, banners, and fancy paintings. A row of tiny Aleph figurines posing on a shelf. And a bunch of other stuff too. Why is there a pillow with his abs on it? Who made that? Wait. Does Aleph sleep with it? Does that mean he sleeps with himself? Hmm, questions for later.
+
+Chloe tried not to stare, but it was hard when three different paintings of Aleph’s face were making eye contact with her at once.
+
+Aleph, naturally, looked like he owned the place. Which, okay, he probably did.
+
+He was sprawled across a thing he called a “couch." It had gold trim and cushions and took up way more space than one person needed. He lounged back with a drink in one hand, some sparkly fizzy thing in a glass bottle.
+
+Raenof sat nearby, calm as ever, like he’d been training to sit on fancy chairs all his life. The elf didn’t seem fazed at all by the mountain of Aleph-themed stuff surrounding them.
+
+Eventually, Aleph broke the silence. “You did well out there.”
+
+Chloe blinked, then flashed him a grin. “Thanks. Honestly? I didn’t think I’d make it.”
+
+“So, Chloe. Where exactly are you from?”
+
+“Me? Oh, I’m from a… place.”
+
+“A place?"
+
+“Yep. With, uh… weather. And buildings. Super place-y.”
+
+Aleph snorted, clearly amused. “Right. You’re trying to be mysterious.”
+
+Chloe grinned wider. “Totally.”
+
+Thanks to Raenof, she'd actually been trying really hard to be mysterious lately. On the way here, the elf had gently pointed out that answering basic questions like how spawning in a dungeon wasn't how people normally came to be.
+
+So now Chloe had a new rule: be vague but sound confident. And if all else fails, just smile and hope the problem goes away.
+
+“Mysterious background. Respectable choice. Keeps things interesting.” Aleph said.
+
+Chloe rested her chin in her hand, smirking. “Exactly. Can’t let you know everything about me.”
+
+Raenof glanced over with what might’ve been the faintest hint of amusement, but didn’t say anything. Aleph took another sip of his sparkly drink, then turned toward Raenof. “What’s the elf doing here again?”
+
+Chloe perked up. “Oh! That’s actually why I wanted to talk to you in the first place. I was on a mission to bring Raenof from Evergale to Vorraska. And now that I’ve done that, I wanna collect my reward.”
+
+Aleph raised an eyebrow. “Iris did send something a while back... mentioned your whole mission more or less.”
+
+He looked over at Raenof. “Your name’s Raenof... Thalorien, right?”
+
+The elf nodded smoothly. “That’s right.”
+
+“Do you have one of Iris’s tokens?”
+
+Raenof reached into his cloak and pulled out a small coin, holding it between two fingers. “Will this do?”
+
+Aleph took the coin, gave it a quick look, then slipped it into his coat pocket. “That works.”
+
+Then he turned back to Chloe. “Guild tag?”
+
+Chloe scrambled a bit and tugged the rectangular charm from the chain around her neck. “Here!”
+
+She handed it over, eyes wide with curiosity as Aleph fiddled with it. The tag lit up with a faint glow, pulsing softly.
+
+After a few seconds, the glow faded. Aleph tossed the tag back to her with casual ease. Chloe caught it and slipped it around her neck again. As she did, a series of familiar notifications shimmered into view.
+
+[Guild Tag Updated]
+
+[B Rank Thieves Guild Member: Chloe]
+
+[Date of Joining: 10th of Thavriel, Year 842]
+
+[Original Branch: Kelvane]
+
+[Membership Status: Active]
+
+Bounties Completed:
+
+1. Luther Delius – C Rank
+
+2. Ynett the White Witch – B Rank
+
+Missions Completed:
+
+1. Escort Raenof Thalorien – C Rank
+
+“Alright. I’ll transfer your gold to your bank account in a bit. Anything else you need help with?”
+
+“Actually, yes,” Chloe said, brightening.
+
+She reached into Cloaky with both hands, digging around until her arms vanished in the fabric. After some shuffling and a muffled clunk from somewhere inside, she finally pulled out the storage scroll Iris had given her. “Iris said only the Guildmaster of Vorraska can open this. Which is you. Sooo. Can you open it? Please?”
+
+Aleph held out his hand. “Sure thing.”
+
+Chloe handed it over and bounced a little while she watched. Aleph looked it over, then bit his thumb.
+
+She wrinkled her nose. Is he trying to eat his thumb? But then why take such a small bite?
+
+Aleph ignored her expression and pressed his bloody thumb against the scroll. It glowed and made a low humming sound. Then the glow faded, and he handed it back like it was no big deal.
+
+“There. It’s unlocked now. Open it whenever.”
+
+Chloe held the scroll close with both hands. “Thanks! I’ve been really wanting to see what’s ins—”
+
+Then she remembered. Oh. Right. There’s a corpse in here.
+
+Her smile froze, and she slowly fed the scroll back into Cloaky. I'll open the scroll later.
+
+Aleph raised an eyebrow but didn’t comment. “That everything?”
+
+“Nope,” Chloe said quickly, jerking a thumb toward Raenof. “Actually, Raenof here wanted to ask you something.”
+
+Aleph turned his attention to the elf. Raenof nodded and reached into his cloak, pulling out a strange little round thing. It was a metal disk with a tiny arrow inside that spun slowly under a piece of glass.
+
+Chloe leaned in, squinting. “Is that some kind of tiny plate?”
+
+Raenof ignored her questions and held it out to Aleph. “It’s a tracker which points to my client. But I was hoping you might have a better idea of who that client actually is.”
+
+Aleph took the weird object and studied it with mild suspicion. The arrow spun lazily before settling in one direction.
+
+“No idea what this thing is,” he said, handing it back. “But a VIP guest came through earlier this week. She mentioned she was expecting an elf.”
+
+“Do you know where she is now?”
+
+“I’ll get one of the staff to guide you, she might still be in one of the lounges."
+
+Chloe shot her hand up. “Can I come too? I wanna meet her!”
+
+Raenof gave her a small, resigned smile. “You did escort me all this way. I suppose it’s only fair.”
+
+***
+
+A staff member led Chloe and Raenof through a pair of oversized double doors and down a very shiny hallway. The floor tiles sparkled, and the wall-lanterns glowed with golden light that made everything feel way fancier than necessary.
+
+The staff guy walked like he was on a mission, never once checking if they were actually keeping up. Chloe and Raenof trailed after him.
+
+Eventually, the staff stopped in front of a tall door with shiny gold letters that spelled out: VIP Lounge.
+
+Chloe tilted her head, reading the sign. “So this is the veep room, huh?”
+
+Raenof glanced at her. “It’s pronounced Vee-Eye-Pee.”
+
+“Wait, seriously?”
+
+“It stands for Very Important Person.”
+
+“Ohhh. I thought it was just, like... veep. Y’know. Like beep, but fancier.”
+
+Raenof said nothing, but Chloe could feel that he was judging her somehow. Vee-Eye-Pee still sounds weird. Veep is way better.
+
+Meanwhile, the staff member knocked once on the door, then leaned in slightly. “Apologies, ma’am. There’s some guests here to see you. A girl and an elf."
+
+A voice responded from inside. “You may enter.”
+
+The staff opened the door and stepped aside, gesturing for them to go in. Chloe stepped in first, with Raenof right behind her.
+
+The room was definitely fancy, though not quite Aleph fancy. She was just about to check out the shiny furniture and ridiculous curtains when she saw someone familiar.
+
+A woman sat comfortably on a low couch, legs crossed, with blonde hair. Draped over her shoulders was a jacket, sort of hanging there like a cape.
+
+But what really caught Chloe off guard was the strange stick-thing in the woman’s hand. It was long, with a tiny bowl at one end that glowed faintly.
+
+Smoke curled out of it in lazy, swirly ribbons. The woman brought it to her lips, took a puff, then let the smoke trail out like it was nothing. Is that a weird cup?
+
+Chloe squinted harder. A stick cup? A… smoke tube? Why is it glowing?!
+
+She couldn’t figure it out, but she did recognize the woman. Her eyes went wide as she pointed. “Sabine?!”
+
+The woman turned, smiling with clear amusement. “Well, hello there, Chloe, I didn’t expect to see you here."
+
+Chloe marched right up to Sabine, planting herself beside the couch. “Okay, but like, what are you doing here?”
+
+Sabine took another graceful puff from her weird glowing tube-stick-thing and gave Chloe a look that was somewhere between amused and mysterious. “I’m waiting for a delivery.”
+
+That got Chloe’s attention. "Oh? Is it the thing Raenof is bringing?"
+
+"Possibly."
+
+Sabine’s gaze slid over to Raenof. “And if I’m not mistaken… you’re the one bringing it?”
+
+“You’re the client?” Raenof asked.
+
+“You’re welcome to check.”
+
+Raenof reached into his cloak and pulled out that same tracker thing. The moment it was in his hand, the thing glowed really bright, like, super bright.
+
+Chloe leaned over, squinting. “Wait, what’s it doing? Is it broken? Is she gonna explode?”
+
+Raenof tucked the device away again. “It means she’s the client.”
+
+Sabine gave him a nod, then turned her head slightly towards the staff member still hovering by the door. “Would you mind giving us some privacy?”
+
+The guy gave a bow and immediately went away. The door shut behind him with a soft click.
+
+Raenof stepped forward to Sabine. “Have you prepared the payment?”
+
+"I have." Sabine said, snapping her fingers.
+
+A big bag appeared out of thin air and landed with a jingle on the table in front of her.  Raenof picked up the bag and opened it. Chloe, of course, leaned over to peek in. Inside were a lot of shiny coins, way more than she usually saw in one place.
+
+Raenof seemed satisfied and nodded. “Shall I deliver the box now? Or would you prefer we ask Chloe to wait outside?”
+
+Chloe gasped. “Excuse me?! I’m right here!"
+
+Sabine waved a hand. “She can stay.”
+
+“Thank you,” Chloe huffed, crossing her arms.
+
+With no further complaints, Raenof held out one hand. Light swirled around his fingers, and with a soft pop, a fancy black box appeared in his grip. It was the same one he showed Chloe after he was attacked by that blood mage the first time.
+
+The elf handed it to Sabine with both hands. She examined it with clear interest. “Well done, I’ve been trying to get this for quite a while. Not easy, I assure you.”
+
+“What’s in it?” Chloe asked out loud.
+
+Sabine paused. Her expression didn’t change, but her answer was... not what Chloe expected. “I don’t actually know either. Not for certain anyway."

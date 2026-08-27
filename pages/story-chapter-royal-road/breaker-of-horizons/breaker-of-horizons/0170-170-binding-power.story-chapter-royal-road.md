@@ -1,0 +1,97 @@
+---
+id: 1f325e44-ca2e-5133-bf79-4a800b47183b
+page-type-slug: story-chapter-royal-road
+title: "170. Binding Power"
+slug: 0170-170-binding-power
+partOf: breaker-of-horizons
+position: 170
+ownLength: 2213
+unit: words
+publishedAt: 2022-01-17
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/826574/170-binding-power"
+royalRoadId: "826574"
+---
+
+To the naked eye, the nimbus of arcana swirling around the Demiurge was so thick that he was almost nothing more than a human silhouette, framed in the archway of the Vault. The staff in his hand, something Caden already recognised as an imposing implement of power through their training sessions, now seemed more like a legendary artefact right out of some ancient fable. The crystal at its tip was flaring wildly with an inner light that cut so painfully through the air Caden's hand instinctively came up to shield his eyes even as he shut them again, but that didn't do much. The light penetrated right through his hand and his eyelids, and he could see his bones and veins with each flash of radiant power.
+
+Caden fell backwards and, once more, tried to abandon his physical senses even as they were overwhelmed, but the arcanic sea and even oblivion were somehow closed to him, leaving him trapped in the world of flesh and blood, so all he could do was curl himself into a ball, battered by the terrible light coming from the Demiurge's wysana.
+
+He couldn't not see anything because even through his closed eyes and the arms he had thrown over his head, he could still make out vague shapes and movements thanks to that penetrative radiance. What was more, there was a persistent ringing, as if the world itself were a glass of fine crystal that had been struck, only that eye-wateringly pure note was getting louder and louder. The light and the sound seemed to be working in tandem, each urging the other to a greater intensity, so that even as the light threatened to blot out everything in nothing but whiteness, the crystal note seemed to supplant even the concept of silence itself.
+
+The terrible pressure that kept Caden locked in the physical world suddenly vanished, and he sank gratefully into the arcanic sea to escape the sensory overload. Even as he did so, he realised that the worst of it was past. The Demiurge had stopped whatever he was doing, and the light and the crystal note were rapidly fading away. Their perturbations still rippled through the arcanic sea, and even though a great deal of it was incomprehensibly alien to Caden, they did strike him as vaguely familiar. A moment later, it came to him — these were similar to the perturbations that had thrown Caden and his friends to the edge of sanity the first time they had witnessed the Demiurge clashing with the wild augera by the lake.
+
+His eyes and ears were still recovering, so Caden opted to concentrate more on the arcanic sea. 'What happened?' he asked, watching the Demiurge's auric-ambient-flare with a healthy dose of caution.
+
+'You happened,' the Demiurge snapped. 'The augera probably goaded you, but I thought you knew better.'
+
+Caden had to remind himself to breathe. Whatever the Demiurge had done had been drastic, and if Caden had been any less trained, he would probably have succumbed to the same kind of stupor that he had fallen into after witnessing the Demiurge's clash with the lake augera. He recognised how his auric-ambient-flare was reacting to all the arcana that had been flung around in strange, exotic sequences, and he turned his attention away from the Demiurge to bring himself back to a state of equilibrium.
+
+The Demiurge waited for Caden to recover but he spent the time pacing agitatedly around the Vault while his auric-ambient-flare flashed from point to point, calling up sequences that had been embedded into the stone. It seemed to Caden as though Caldwell was communicating with the Vault, but Caden was too distracted with settling his own auric-ambient-flare to really pay much attention to what Caldwell was doing.
+
+It took about five minutes for Caden to finally settle the fluctuations in himself, and by then his eyes weren't dazzled anymore and his ears had stopped ringing, so he picked himself off the floor, walked shakily over to a chair, and sank into it. The Demiurge pulled up a chair of his own and sat facing Caden, his legs and arms crossed while the staff stood perfectly balanced next to him.
+
+"So," Caldwell said in clipped tones. "Do you even know what you did?"
+
+This was probably the first time Caden had seen Caldwell... not angry, exactly, but definitely displeased. Still, Caden felt it was a little unfair for the Demiurge to be so short with him when he had only been defending himself against the augera's outburst. "But I was just trying to—" Caden began.
+
+"No," Caldwell interrupted, his disapproving frown deepening. "I did not ask for justifications. Do you know what you did?"
+
+Caden knew the Demiurge well enough by now to recognise that this was turning into a sort of lesson. Caldwell was making use of a teachable moment, even in his displeasure. Now that he was being asked to consider the situation more carefully, he tried to reconstruct the scene in his head. It had all happened so quickly that it was difficult to really say what had happened. Caden glanced around the Vault, trying to get some clue as to what might have transpired, but it appeared completely untouched.
+
+"I tried to... I think I..." he trailed off, unable to really articulate what had gone through his mind in those moments after the augera had bellowed at him and almost overwhelmed him with its anger and frustration.
+
+The Demiurge waited for a moment, then shook his head. "No. I did not ask for what you think. I asked for what you know. Do you know what you did?"
+
+The perturbations in the arcanic sea were gone now, and even a little dip into oblivion yielded no clues. It was as if nothing had happened. There was nothing Caden could use to even form an educated guess, let alone come to a solid conclusion like the Demiurge was asking for. Could it really have been that bad, then?
+
+"No," Caden admitted. "I don't know what I did."
+
+Caldwell pursed his lips, then nodded. "Now tell me what you think you did."
+
+Swallowing his irritation at the Demiurge's questioning methods, Caden went back to trying to put words to his maneuvers in oblivion. But after another stretch of silence, he gave up and decided to just explain the little he could. "I was thinking back to when the augera made use of me against the Fateweaver. They did things that... involved dodging. Or moving in oblivion in certain ways. So I just tried to copy that from memory."
+
+The Demiurge closed his eyes, leaned back, took a deep breath, and let out a long sigh. The tension seemed to bleed out of his limbs, and when he looked back to Caden, he seemed in a much better mood. "Well, it's late, and getting you to understand the totality of your misstep is, for the moment, a literal impossibility. You need to progress further before I can really teach you how to address that mistake. In the interm, we need to deal with this thing between you and the augera."
+
+He stood and snatched his staff up, took a few steps away, and swung it as though he were trying to take off someone's head. Caden flinched out of the way even though he wasn't near enough to be struck, then gaped in confusion as the Demiurge's swing really did seem to catch something in the air. There was a sound like glass being smashed, and a spiderweb of cracks appeared in mid-air.
+
+"What?!" Caden blurted.
+
+But the Demiurge wasn't done. He took aim with his staff, then jabbed the crystal right through the centre of the impact pattern. A concentrated burst of arcana washed out, and the presence of the woven-shackled-stream bled into the Vault, so thick and palpable that it actually congealed into a translucent, physical form — a shadow of the giant dodecahedron crystal that served as the augera's prison.
+
+"Woven-shackled-stream," the Demiurge pronounced.
+
+'White-bright-power,' the augera answered grudgingly. But then the shadowy crystal twitched, somehow conveying curiosity. 'This is not the usual way of things. Are you not invoking control?'
+
+"I am mediating. You approached Caden, then almost drowned him." The Demiurge folded his arms and let his staff balance itself, and despite the oddness of the scene, Caden was suddenly struck by how much this felt like a father chiding his child.
+
+'Regrettable. But the response was unexpected and disproportionate,' the augera replied a little defiantly.
+
+"The fault lies primarily with you. You have relied upon the protective restraint of the will-curse-test in your dealings with people, and it has changed you. If you wish to deal with Caden, it is your responsibility to remember he is no longer under the auspices of the Fateweavers, and you must rein yourself in accordingly."
+
+Indignation bubbled up from the augera, but it swiftly shunted the emotion aside before it bled into the arcana. 'Will remember.'
+
+The shadow of the crystal edged closer to the crack in the air, but the Demiurge grasped his staff again with a hand and the shadowy crystal shuddered in place as it came to a sudden halt. "I haven't dismissed you yet. Hear me. While Caden is no longer under the Fateweavers' protection, he is still under mine. And I am not leaving this unresolved."
+
+The crystal shuddered again and the augera tried to twist itself out of the Demiurge's invisible grip. Its movement was so violent that Caden actually saw the shape of the crystal deform a little before snapping back into its original shape. 'What is this? What do you mean to do? What further abominable weaving—'
+
+"Woven-shackled-stream," the Demiurge called out, his voice ringing with power. The wysana in his staff echoed his words like a chorus of voices on its own, and together the chord they formed became a shackle of sound. "You wish a compact with the unchosen-sighted-{~?~}."
+
+'It is not your binding to make!' the augera raged, and the shadowy crystal deformed again. Caden wondered if this was actually happening to the giant dodecahedron in the Spire at that very moment. Curiously, he felt nothing in the arcanic sea, or even oblivion. But the urgency of the situation forced him back to the present, because it sounded like the Demiurge himself was about to broker some sort of deal between him and the augera, and Caden still hadn't made up his own mind about whether he was going to really take up the augera's offer.
+
+"Wait," Caden said, raising his voice to make sure he was heard, "I didn't say I—"
+
+"You shall have no compact," Caldwell intoned, nodding to acknowledge Caden, "until he forges it himself. And until such a compact is forged, you are hereby bound by the terms of my pronouncement. You may not speak to Caden unless first spoken to, and you will observe silence at his request."
+
+The chorus of Caldwell's and the wysana's voices hung in the air long after the words had left his lips, and they repeated themselves over and over until the words became unintelligible noise, and soon even that noise faded away as it blended into the fabric of reality itself, becoming nothing more than the silence that filled the air.
+
+'So much weight, for so trivial a thing?' the augera asked, more confused than angry now. 'No weavings of protection, no binding of power, no sealing of arcana?'
+
+"I am not an ancient-distant-spider," Caldwell answered testily. "In any case, your motives are clear. You intend for him to free you, and he can't do that if he dies or goes mad just because you lost your temper. Now that I've pointed out how silly you have been, I trust you will remember his fragility, and the fact that your power is no longer fettered in your dealings with him. My only concern now is for his peace of mind, and having you lot chattering at him every idle moment is not going to do him any favours. So do your watching and waiting, and your plotting and planning... but do it in silence. When he is ready and willing, he will call to you."
+
+Without waiting for a response, Caldwell waved his staff and sent the shadowy crystal hurtling back through the crack in the air, which sealed itself with a loud snap. He turned back to Caden and smiled, though he seemed to be suddenly very weary.
+
+"I think that's enough excitement for one night. In light of what has happened, I think it would be best if you met me here tomorrow at seven, after dinner. The pace of our training must be accelerated. For now... go back to your dorm, and get a good rest."
+
+It was clear the Demiurge would not be argued with. Reluctantly, Caden left, and as soon as he was over the threshold of the Vault, the opening turned into a solid wall as Caldwell sealed it. Caden sensed the sequences sliding into place in oblivion, and even though he knew the Vault was still there, it was impenetrable and inscrutable.
+
+"Remember, Caden, go back to the dorm," the Demiurge sent through the arcana. "No more detours for tonight."

@@ -1,0 +1,313 @@
+---
+id: cf42716a-f825-5e2d-8503-08be97e17f1a
+page-type-slug: story-chapter-royal-road
+title: "199 - Gathering of Old Friends"
+slug: 0067-199-gathering-of-old-friends
+partOf: bunny-girl-evolution
+position: 67
+ownLength: 3003
+unit: words
+publishedAt: 2026-05-19
+link: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution/chapter/3417245/199-gathering-of-old-friends"
+royalRoadId: "3417245"
+---
+
+Sophie knew something was wrong. Something Samantha said had visibly unsettled Snowberry, and then suddenly they had to stay behind to talk about some secret? Sophie knew that Elise and Jessie had a few secrets together, but Samantha had never been a part of them. And Samantha was the only person that Sophie had ever met that {Dragon Eyes} didn’t work properly on. The redhead had always been suspicious, but Sophie never fully comprehended how dangerous she could have been until now.
+
+I need to warn Irylax.
+
+As soon as she got out of the restaurant, she started running. Cassian and Leonidas called after her and rushed to keep up, but she didn’t stop or slow until she made it all the way home. She was panting, and so were the other two, but that didn’t stop her from bursting into the house and running up the stairs five at a time. Bianca called after her, but Sophie ignored her running straight to Irylax’s room and flinging the door open.
+
+“What the–?!” she gasped.
+
+Irylax’s room was clean. It was never clean. And it was never without Irylax in it unless it was mealtime.
+
+Sophie ran back out of the room and downstairs, checking every room in the house in a panic, but there was no sign of the dragon. And not only was there no sign of the dragon, all the messes she made had been cleaned up. Her food stash in the pantry was gone, and all the books she had been reading were placed neatly back on their shelves.
+
+Something is wrong. Something is really really wrong.
+
+The four boxes opened simultaneously, the hissing sound of escaping air filling the cave. The four aetherborn stepped back as the lids slid off and the sealed figures within emerged.
+
+From Elise’s box, a tall woman wearing layered lilac robes stepped out, regarding the inhabitants of the room with a stern expression. She was at least six and a half feet tall, with loose black hair falling down to her knees, and her eyes were pale gray with flecks of deep blue, like an inverted starry sky. After a moment, her gaze locked onto Elise, and the intensity of her stare forced Elise to fight the urge to take another step back.
+
+From Jessie’s box, an old man in simple white robes emerged. His eyes were milky white, and his back was hunched, but he wore a friendly smile, and gave off a calming aura.
+
+From Wei Lan’s box, a giant emerged, taller even than Attalaya’s master Atlas, towering over the empress in front of him. There could be no mistaking the man as any but the Warrior, and though he carried no weapon, Elise got the distinct impression that he could battle everyone else present together, and possibly emerge victorious. Or perhaps that was just his aether talking, as unlike the others, he did not see fit to restrain it. Like Atlas, he was not wearing a shirt, and upon seeing the other giant, turned to size him up with his arms crossed.
+
+The last box had an old woman who looked to be the same age as the old man from Jessie’s box. She leaned on a gnarled wooden staff, and looked frail enough that a passing wind could knock her over, but as Elise looked closer with {Aether Sense}, she felt there was something deeply profound about the woman’s presence.
+
+“Dear, is that you?” said the old man, turning around.
+
+“Lanra!” said the old woman, turning as well to embrace the old man.
+
+“I missed you so much,” said the old man.
+
+“I missed you too,” said the woman.
+
+“It has been ten seconds,” said the Warrior, visibly annoyed as he watched them exchange a sloppy kiss.
+
+“Ten seconds too long,” said the old man before going in for another kiss.
+
+“Ahem,” said Samantha, clearing her throat. “We have company.”
+
+“Yes, one moment,” said the old man.
+
+He and the woman that Elise assumed must have been his wife kissed once more, then pressed their foreheads together as they closed their eyes before turning to face the rest.
+
+“Apologies,” said the old woman, failing to hold back a smile.
+
+“We weren’t sure if we would ever see each other again,” said the old man.
+
+“We couldn’t hold back.”
+
+“Well, you’ve reunited now, so why don’t you introduce yourselves to the rest,” said Samantha.
+
+“With pleasure,” said the old man. “Ber’Lanra, the Healer, at your service.”
+
+“Ber’Hana, the Sage,” said the old woman, bowing her head.
+
+“Ar’Thel, the Warrior,” said the giant.
+
+A few seconds of silence passed before Samantha cleared her throat again.
+
+“Aya,” she prompted.
+
+The tall woman swept her gaze over to Samantha, and though her mouth didn’t move, a moment later, her voice echoed throughout the room.
+
+“I am Aya’Rhun, the Mage, the pinnacle of magic, and–”
+
+The voice suddenly cut off, and another few seconds of silence passed before Ar’Thel snorted in laughter.
+
+“Was that–?” he started.
+
+The rest of his words were cut off as a powerful wave of mana eliminated all sound in the room. Aya’Rhun was the source, her cheeks slightly pink, and behind her, Ar’Thel doubled over in inaudible laughter. Samantha was smirking slightly too, though she quickly corrected her expression and cleared her throat. A moment later, sound returned to the room again, and Samantha began speaking, talking loudly to be heard over Ar’Thel’s guffaws.
+
+“It has been a very, very long time since we were sealed, and a great many things have happened since. I have been unsealed for more than four years now, and have gathered quite a bit about what has happened since. There is far too much to cover in a short time, but I’d like to give you at least the brief version as soon as possible. Aya, could you please set up some privacy wards in the corner of the room?”
+
+The Mage nodded, then walked toward the corner and started casting spells that even with Elise’s limited knowledge of mana, she could recognize were impossibly complex.
+
+“What about the rest?” asked Ar’Thel, glancing over at the other two giants.
+
+“That will be part of the explanation,” said Samantha. “You can greet them formally later. But before you talk with them, there are some things you must be aware of, because the world of today is very different from the world we were sealed in.”
+
+“Alright,” he replied with a shrug, walking over to the same corner.
+
+“You too Khulan, Tyral,” said Samantha.
+
+“Behave yourself, Charlotte,” said Tyral before turning to join the other sealed ancient walking toward the corner.
+
+A moment later, all seven had left the main group, and an illusory stone wall was raised, cutting them off from the rest of the room. As soon as they finished, Elise heard the sound of rushing wind before she found herself lifted off the ground and nearly crushed in Charlotte’s embrace.
+
+“Elise!” the spider girl exclaimed.
+
+“Char– lotte,” Elise choked out.
+
+Fortunately, before she could come close to suffocating, Charlotte released her, gently setting her back on the ground.
+
+“Elise!” Charlotte exclaimed again. “I talk good now!”
+
+“Y– yes, very good,” said Elise, nodding.
+
+“Tyral say I very smart!” she replied proudly. “I learn fast!”
+
+“Yes, you have learned fast,” said Elise.
+
+“Is that my shirt?” asked Jessie from behind.
+
+“This is Charlotte’s shirt,” said Charlotte jabbing a thumb at her chest. “My friend shirt!”
+
+“Yes, it’s your shirt,” said Elise to Jessie with {Whisper}. “Sorry, I forgot to mention.”
+
+“It’s fine,” Jessie replied.
+
+“It looks very nice,” said Jessie. “Elise mentioned you to me before. She said you were very friendly.”
+
+“Yes! I very friendly! Would you like to be my friend?”
+
+“Yes, I would.”
+
+“We are friends now. I am Charlotte. What is your name?”
+
+“I’m Jessie.”
+
+“It’s an honor to meet you. Now we proper friends!”
+
+Elise couldn’t help but smirk at what was obviously a rehearsed line, and she was still smiling when she turned to see Wei Lan and the two giants walking over to greet them, with Feng Yan following Wei Lan a few steps behind. Erin and Maggie joined the group from the other side, standing next to Charlotte and Elise.
+
+“Elise, Jessie, what the hell is going on here?” asked Erin.
+
+“You don’t know?” asked Elise, looking at the kitsune in surprise.
+
+“Father told me to come here to represent him,” she said. “He didn’t tell me anything. Who are those people?” she nodded toward the walled-off corner of the room. “They’re insane. How the hell are they so strong? They could kill dragons without breaking a sweat. Why were they in those boxes? Are they really going to destroy the System?!”
+
+“Destroy the System?” asked Attalaya. “Are we really doing that?”
+
+“About damn time,” grunted the other giant, Atlas.
+
+“Indeed,” said Maggie.
+
+“Why?!” asked Erin.
+
+“Saying out loud would put us all in danger,” said Maggie. “Until the time comes when we are already in danger, it is best left unsaid. Also, you should not be here. Your father is putting you in danger by exposing you to this.”
+
+“What?!”
+
+“I doubt it was intentional, but you should give him an earful when you get back.”
+
+“I will,” said Erin. “What the hell kind of secret is so dangerous you can’t even say it out loud in a place like this?”
+
+“The kind that would have the System putting a bounty on your head.”
+
+“...Oh.”
+
+“Let it,” said Atlas, pounding a fist into his hand. “We will see how well that works out for it.”
+
+“I would rather not,” said Erin.
+
+“I agree,” said Jessie.
+
+“Would you still say that if you had dragons hunting you down?” asked Maggie, looking at Atlas. “Could you defeat a dragon?”
+
+“I have never tried,” said Atlas. “But I don’t see why not.”
+
+“But could your apprentice?”
+
+“Not yet, but there’s nothing like crisis to spur improvement.”
+
+Elise thought his words sounded somewhat insane, but Attalaya nodded beside him and crossed her arms resolutely.
+
+“Well, for the sake of everyone else, we will still leave it unsaid.”
+
+“Yes, of course,” he said. “But if it was just me, I would say it out loud.”
+
+“…Right. Anyway, Elise, Jessie! How have you been?”
+
+“Good,” said Elise. “Is this where you’ve been?”
+
+“Yes,” said Maggie. “I’m sorry for disappearing for so long, but as you can see, my business was quite important this time.”
+
+“Are you here on Lucena’s orders?” asked Jessie.
+
+“I have received no direct orders, but I have not been told to stop either.”
+
+“You are a paladin of the Light?” asked Wei Lan suddenly.
+
+“I am.”
+
+“I heard they were all wiped out.”
+
+“They were. Except for me.”
+
+“My condolences.”
+
+“Thank you.”
+
+Wei Lan frowned, then turned to Elise and Jessie.
+
+“You two…” she started. “Would you like to speak privately? At a later time, of course. But I have some… matters… I would like to discuss.”
+
+“Sure,” said Jessie. “Just let us know when.”
+
+“Thank you.”
+
+“Can I–?” started Feng Yan.
+
+“Absolutely not,” said Wei Lan, grimacing. “I don’t even know why you were allowed to live. If they did not say that they needed you alive, you would have died before leaving that cell. Now be quiet before I silence you by force.”
+
+Feng Yan’s aether was unreadable, but there was a dark glint of amusement in his eyes as he looked at Wei Lan. Elise had never heard of the man, and didn’t know exactly what he did, but she was beginning to strongly dislike him. Even Samantha had claimed he committed “unspeakable crimes” and here he was, joking and smiling about it.
+
+What do they want from a guy like him? she wondered.
+
+The conversation turned to smaller talk from there, with Charlotte introducing herself to everyone else and making sure they were all friends, and accidentally doing an excellent job of lightening the mood. Erin was still on edge, but Charlotte’s antics let her loosen up enough that she was able to joke around some. She was not close to her usual self, but she was at least doing better.
+
+The conversation did not last long before Elise heard footsteps behind her and turned to see six of the seven sealed ancients emerging from the illusory barrier. The only one missing was Aya’Rhun, the Mage.
+
+Ar’Thel walked directly up to Atlas, and the two stared into each other’s eyes, neither moving a muscle. Tyral went back to Charlotte, who started excitedly babbling to him about all the friends he made. The old couple stayed off to the side for the moment, whispering in each others’ ears, and Samantha pulled Erin aside to say something private as well. Quel’Khulan approached Elise, towering over her with a friendly smile.
+
+“I spoke to Aya for you,” he said. “She agreed to your request, but she may be a few minutes. She’s… a very unique person. She needs some time to prepare.”
+
+It took Elise a second to understand what his words meant, but when she did, she was filled with excitement.
+
+“Thank you!” she said. “Thank you so much!”
+
+I get to learn proper magic!
+
+“Not at all,” said Quel’Khulan, ruffling her hair. “It’s the least we could do. Though I should warn you in advance that the more you associate with us, the more danger you’ll be in.”
+
+“I think I’ve probably already crossed that line,” said Elise with a smile.
+
+“Perhaps,” said Quel’Khulan. “In which case we will endeavor to keep you safe.”
+
+“Then I’ll have to thank you again.”
+
+“Not bad!” a voice suddenly boomed out.
+
+Elise looked and saw Ar’Thel, knocking on Atlas’ chest with his fist.
+
+“Not bad?” replied Atlas.
+
+“Not too good either,” said Ar’Thel with a grin. “But nothing a bit of training can’t fix. Are you ready?”
+
+“Are you?”
+
+“That’s what I like to hear! What about you, young warrior?”
+
+“I am ready!” said Attalaya with more passion than Elise had ever heard from the other girl.
+
+“Attagirl!” said Ar’Thel. “Then let’s not waste any more time. Grab my arm, and we’ll be off.”
+
+The two grabbed the Warrior’s arms as he produced a teleportation scroll from inside his pants and tore it open, causing the three to disappear in a flash of light. Quel’Khulan chuckled lightly.
+
+“Eager as al–”
+
+All the conversation in the room stopped at once, and all heads turned toward the far wall where a perfect circle had formed on the wall. Through the circle, they could see a small wooden bedroom, and standing in it was a young girl. She looked no older than ten and had black hair and purple eyes that sparkled like amethyst. She stepped through the portal with a confident smile on her face, letting it close behind her.
+
+Despite her stature, as soon as she stepped through, the entire room was filled with an immense pressure that brought all but the sealed ancients to their knees. Elise found herself unable to even breathe as she struggled to keep herself from falling completely prone like Jessie had.
+
+“Ah, it looks like I missed one,” said the girl in a voice that matched her body, not her presence. “But no matter. I can always find him later. I’m glad the rest of you gathered in one place for me!”
+
+“You!” shouted Quel’Khulan, drawing his sword. “How are you here?”
+
+“You really thought we would let you live in those boxes without any kind of failsafe?” said the girl. “I knew the moment the first of you was freed, and I’ve been waiting for this moment ever since.”
+
+“You should have ascended long ago,” said Quel’Tyral, nocking an arrow.
+
+“And yet I haven’t,” said the girl. “How curious. Do you want to know why? Or should we just skip the discussion and–?”
+
+“I wouldn’t do that if I were you.”
+
+Elise immediately recognized the voice, and with an immense effort, she lifted her head to see the speaker. Right behind the little girl, Irylax was casually leaning against the wall, picking dirt out of her fingernails.
+
+“…It seems I’ve miscalculated,” said the little girl. “Why don’t we call a truce?”
+
+“I’ll do you one better,” said Irylax. “Kill yourself and spare me the effort. That way, it will be painless.”
+
+“That’s no way to negotiate.”
+
+“You’re not in much of a position to bargain.”
+
+“I think I am. You can certainly kill me, but can you kill me before I kill them?”
+
+“Why should I care about the lives of weak mortals?”
+
+“You can’t bluff me. I sense the mark you put on the changeling.”
+
+She marked me?
+
+“…Hmmm, I forgot about that,” said Irylax.
+
+“Then why don’t you let me go?” suggested the girl. “I’ll leave and we can pretend this whole thing never happened.”
+
+“No, I don’t think so,” said Irylax. “Kill yourself. I won’t ask again.”
+
+“That’s a pretty tough request,” said the girl. “If I die, I’m taking them down with me. Either let me live, or they die.”
+
+There was a tense silence where neither spoke. Elise felt the pressure lessen, allowing her to breathe, but she couldn’t shake the sense of foreboding. The sealed ancients were powerful enough to kill dragons, according to Erin, but the little girl was strong enough to put them on edge, and Irylax was strong enough to completely subdue the little girl.
+
+How strong is she?
+
+She had thought she had a good handle on how Irylax stacked up against the rest of the world, but this was making her re-evaluate things. She knew that Irylax was stronger than an ordinary 9th Tier, but had thought that was just due to her being a dragon on the verge of divine ascension. But was this much of a power gap just the result of being near divinity?
+
+“I have another proposal,” said Irylax finally. “I don’t have time to waste on you. Just die.”
+
+And then all hell broke loose.

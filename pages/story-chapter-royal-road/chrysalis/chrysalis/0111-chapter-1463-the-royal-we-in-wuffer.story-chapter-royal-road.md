@@ -1,0 +1,99 @@
+---
+id: 36639c33-782a-557d-b97d-d435ec11f86d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1463 - The Royal We in Wuffer"
+slug: 0111-chapter-1463-the-royal-we-in-wuffer
+partOf: chrysalis
+position: 111
+ownLength: 1056
+unit: words
+ownProgress: 1056
+publishedAt: 2024-11-28
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1928050/chapter-1463-the-royal-we-in-wuffer"
+royalRoadId: "1928050"
+markedReadAt: "2026-06-29T19:47:37.810Z"
+---
+
+Bella and Ellie looked at each other, then back to their creation, antennae waggling with concern.
+
+“Were we successful?” Bella said.
+
+“I’m… not sure,” Ellie replied.
+
+In front of them, the wuffer continued to wobble, and wiffle, happily, chuffing away as it consumed the toxic mana being pumped directly below it.
+
+“The core has fused correctly?”
+
+“It appears so….”
+
+“Did you check the core yet?”
+
+“I thought you were going to do it?”
+
+“Gah!”
+
+They both rushed forward, antennae extended to touch the large monster, but before they could get there, the creature became suffused with soft, blue light.
+
+“It’s going to blow, run for it!’ Bella cried, prompting her and her sister to scramble around and dive for cover.
+
+“What went wrong?” Ellie wailed. “I thought it went perfectly!”
+
+“Don’t look at me, I thought it was flawless,” Bella gasped as they crouched together behind some rocks.
+
+Yet, the detonation they were expecting didn’t arrive. After a few long moments of awkward waiting, they climbed out from behind their cover, just a little, to see what was happening. What they saw left them shocked and amazed.
+
+The wuffer had swollen up to twice its previous size, the light spreading to encompass its entire body and filling the chamber in which they were working. At the same time, the creature seemed to be pulling in the ambient mana around them, along with drawing in a huge volume of toxin through the pipes.
+
+“Wait a second…” Ellie whispered. “I think…”
+
+All at once, the wuffer gave a cheerful ‘wuffwuffuwuff!’ and split, straight down the middle, creating two equally sized wuffers, each puffing happily away on the platform.
+
+The two core shapers stared at it for a moment, then at each other.
+
+“Success!” Ellie cried.
+
+“It actually worked!” Bella cheered.
+
+Excited, the two ants rushed out of their cover and up to the two wuffers, checking both with their antennae and core inspection Skills.
+
+They had indeed succeeded. The test subject had changed to become the first of the wuffer queens, able to collect mana within itself and then split to create a new wuffer. The ‘copy’ or ‘offspring’ of the queen wasn’t the same as it was, a queen, but rather a regular wuffer, albeit at tier five.
+
+To reproduce in this manner required an absurd amount of mana, but since wuffers were soaking up an endless ocean of potent mana anyway, they had energy to burn. There were a few drawbacks to the process. Mana that went into creating a new wuffer wasn’t spent making safe, cleansed blue mana, and it wasn’t possible to do it very often. Despite these shortcomings, the process would allow them to accelerate the creation of new wuffers considerably and save the Colony a lot of resources in the process.
+
+Content with her place in life, the newly formed wuffer queen looked down at the two celebrating ants with equanimity. Through the openings beneath her in the platform, a steady stream of mana was provided, and she gladly absorbed it, taking the toxic energy into herself and cycling it throughout her body. It passed through the network of complex, jelly-like organs that filtered and purified the poison from the energy and allowed it to emerge as clean, pure mana.
+
+The process brought quiet joy to the queen, who wiggled on the platform and chuffed to herself cheerfully as she continued to absorb and refine.
+
+Oblivious to the quiet happiness of their creation, Ellie and Bella were already in deep discussion about their next steps.
+
+“How many Queens do we need to make?” Ellie wondered.
+
+“It all depends on the rate of expansion. We know the number Solant requested to maintain the fortress, but we should definitely aim to overshoot that mark.”
+
+“Having more wuffers than we need won’t hurt at all,” Ellie agreed. “It might be less efficient, but I’m sure Solant would rather have too many than too little.”
+
+“Not enough would be absolutely disastrous,” Bella shuddered. “We should report our success to Solant and make sure the resources we need to produce the next queens are going to be provided quickly.”
+
+“Good idea.”
+
+The two core shapers were under no illusions as to how important their work was to the overall invasion. To describe the wuffers as critical to the process was a severe understatement. None of what they aimed to achieve, or had achieved so far, would have been possible without the blobby pets doing their work, and as such, the core shapers had been afforded generous allotments of resources.
+
+But for them to reach the required totals, that flow would have to continue.
+
+Solant, of course, didn’t show much of a reaction one way or the other when told the good news.
+
+“A success on the first attempt? Good, that will save us some time. Leonidant, can you bring me the master timetable?”
+
+The little general began to fuss over the inscribed document with her antenna, crossing out lines here and there, marking new ones in places.
+
+“Well, we intend to create another three queens in order to meet demand,” Ellie said, wondering if the general was still paying attention. “When can we expect the necessary cores to be delivered?”
+
+“They’re already on the way,” Solant confirmed. “I had budgeted for three attempts to produce the first queen. Not that I doubted your skills, of course, but it would have been foolish to assume things would go well. That means enough cores to produce the second and third queen should arrive any moment. I will send an order up to the logistics stations to release enough for the fourth, and they should arrive in your work chambers within a day at the most.”
+
+“There’s no guarantee we succeed with the next few attempts,” Bella pointed out quickly. “Just because we were able to form a queen the first time doesn’t make us perfect. It may be wise to budget for another six attempts to produce the required three queens.”
+
+Solant eyed the two core shapers while Ellie nodded vigorously.
+
+“We’ll dig that tunnel when we come to it,” the general said smoothly, placing down the timetable next to the enormous model of the fifth stratum’s tunnels. “For now, make do with what you have and return if there is a need for further allotments.”
+
+“Dang,” Ellie cursed.

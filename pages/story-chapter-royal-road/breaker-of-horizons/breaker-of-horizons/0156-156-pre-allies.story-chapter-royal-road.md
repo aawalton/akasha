@@ -1,0 +1,103 @@
+---
+id: 8be58619-5a53-5695-8f2c-280a1b5d1a6d
+page-type-slug: story-chapter-royal-road
+title: "156. Pre-Allies"
+slug: 0156-156-pre-allies
+partOf: breaker-of-horizons
+position: 156
+ownLength: 1956
+unit: words
+publishedAt: 2021-11-29
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/796715/156-pre-allies"
+royalRoadId: "796715"
+---
+
+Why was the knife here? Caden tried to think back to when he had last seen it. After the whole flurry of events following his restoration at the Geldor Spire, he remembered pocketing it, and then confronting the twins about it in Devon's home. He remembered keeping it with him and intermittently checking that it was there right up to the point when they lost Emilia. After that...
+
+Had it been in his pocket when the Fateweaver plucked him out of the trailer and deposited him back here in the Academy? Perhaps the Fateweaver had stolen it from him back then. Or perhaps the Fateweaver had transported him with it, but he had lost it in the lake when he waded into it and threw his tantrum. Regardless, now that he was actually trying to piece together when he had last seen it, he was definitely certain that he didn't have the knife after his first night when he had changed. Caden cursed himself for not realising that something so important had been missing at that point.
+
+He supposed it was a good thing that it was now accounted for once again. Tentatively, he dipped into oblivion to make certain that there were no triggers awaiting his touch. Even after he double-checked, he was still unwilling to reach out and grasp it with his hands.
+
+Where had it come from? It occurred to Caden that he ought to be able to 'read' what had happened, just like he had back when he first woke up from his restoration, but he was drawing a complete blank. The knife's past was inscrutable.
+
+No... it wasn't just the knife's past. Caden hadn't noticed before because his training with the Demiurge always focused on identifying and mitigating threats in real-time, but now that Caden was trying to 'read' the arcana for information, he realised that he couldn't pick up the nuaces and nature of the things around him in quite the same fashion as he used to be able to.
+
+'Yes,' the Academy augera's voice intruded suddenly. 'Ability to effortlessly read the world and its past came from connection to us. Still possible, but must be learned.'
+
+'Are you responsible for this?' Caden demanded, mentally indicating the knife as it hovered before him, suspended by his arcana.
+
+'A poor question,' the augera replied irritably. 'We did not choose to do it. Ordinarily, we might have intervened, but we are not allowed to protect the unchosen-sighted-{~?~} from anything anymore.'
+
+'Do you know who did it? I mean, who did the Fateweavers use to do this?'
+
+'Fateweavers did not fashion this moment purposefully. They have carved a channel for the stream, and this moment does not change the direction of the flow.'
+
+'Okay, then just tell me who did it.'
+
+'We cannot.'
+
+'Because the Fateweavers are stopping you from telling me things? Then how come yo—'
+
+'No,' the augera interrupted, sounding angry and even a little afraid. 'We cannot tell you because we do not know. It is hidden from us as well. Not, we think, by the Fateweavers. Listen carefully and quickly.'
+
+Caden had the impression of a huge entity swooping down on him in oblivion and he instinctively flinched away. But it was just the Academy augera itself, leaning close to whisper. For the first time since his return to the Academy, he felt the full force of its presence, tightly-focused. It made proper contact with his auric-ambient-flare in oblivion, and Caden shuddered. For all his bravado, he was ultimately still powerless before it.
+
+'Web of augera spans Empire, and a bit more. Through us, Fateweavers can see all, but only if looking. Thus, we serve as watchers. Have alerted Fateweavers of threats to Empire many times. Fateweavers focus on too many things to watch Empire. Normally, augera will prevent and report attacks like these from unknown sources. Fateweavers can find source, then eliminate threat or integrate into prophecy streams. But augera are now stopped from protecting unchosen-sighted-{~?~}. Thus, also not obligated to report this attack. Fateweavers have made mistake. If threats are directed at unchosen-sighted-{~?~}, all augera can remain passive.'
+
+'... So you're saying it doesn't matter what happens to me? Thanks.'
+
+'No. No! Bitter child! Petulant mortal!' The augera's response was filled with impatience and anger, but it quickly reined itself in. 'You wish to unmake Prophecies? Save family? It involves unmaking the web of augera. But the web sees all, and is made to report all notable threads to Fateweavers, who will surely stop all attempts to unmake the web. Until now. Do you see?'
+
+Caden thought he dimly understood what the augera was getting at. 'Okay, so if something threatens me, the augera will no longer intervene, and that's a small hole in the Empire's defences. But... if the threats are directed only at me, how is that going to help me unmake the... the web of augera?'
+
+'It is an opportunity. Attacker has targeted you. Why? Easy answer is that Fateweavers want to remove the influence of {~?~}. But Fateweavers act through augera, and augera cannot touch {~?~} with webs of prophecy. So attacker is not traditional agent of Fateweavers. But also possible that attacker is from outside Empire. If so, then attacker is possible ally in the fight against the Fateweavers. You must find out who attacked. Must find purpose of attacker. If ultimate purpose is elimination of Fateweavers, they will be an important weapon, and you are the important hole in the armour.' The augera sounded almost breathless. It leaned closer and asked once more, 'Do you see?'
+
+It clicked. Caden could see the sense of the plan, but he definitely didn't like the part where it required him to make contact with the person (or people) who were trying to kill him. If it wasn't the Fateweavers, then the biggest suspects would be the enemy agents that had accosted him once already outside Creyvlor, and had again struck him and his friends at Devon's home and on the road.
+
+'Be safe, unchosen-sighted-{~?~}, and consider our bargain. We will be waiting.'
+
+The augera retreated, leaving Caden alone again with the knife.
+
+If what the augera had just told him was true, then that meant the Fateweavers had somehow lost track of this knife, too, even though the augera were the ones that had originally gifted the glyphs involved in its making to the twins. Caden had to assume that it had been done under the compulsion of the Fateweavers, because the augera wouldn't have wanted Caden dead.
+
+Or perhaps they hadn't exactly lost track of it. Perhaps the Fateweaver had properly transported Caden with it to the Academy, and they assumed that he still had it, and they didn't know that he had lost it somewhere between his arrival in the Academy and the present moment.
+
+Regardless, Caden decided it would be better all round if he took possession of it again. He hesitated briefly before reaching out to pluck it from the air, mentally bracing himself against any sort of arcanic backwash. He breathed a sigh of relief when nothing happened, then tucked it into his pocket.
+
+The Demiurge suddenly dropped through the hole and came to a stop two feet above the wreckage, decked out in his full regalia. Despite the speed of his descent, his black robes were only billowing slightly, as though caught in its own private bubble where it was ruffled by nothing more than a gentle breeze. The staff was in his hand and Caden felt the wysana's presence fill the room, seizing control of the ambient arcana.
+
+"Are you alright?" he asked in clipped tones.
+
+"Yes," Caden said. "Did you find the attacker?"
+
+Caldwell was not his usual cavalier self. He did not answer Caden's question and instead regarded him with something like suspicion in his eyes. Then his gaze swept across the room, lingering for a moment on the wreckage.
+
+"Did you find the attacker?" Caldwell asked, turning to Caden again and raising an eyebrow.
+
+Caden blinked in confusion, shaking his head. "What? No."
+
+The Demiurge drifted forward a little and gently landed next to the wreckage. "Well, talk me through what happened," he said, gesturing vaguely at Caden as he turned on the spot, scanning the room once more.
+
+"I felt something in the arcana that woke me up. I wasn't awake enough to really register what it was, but then I sensed some sort of movement, not like a sequence, but a lot of arcana being channeled somehow. I threw myself out of the way, and whatever it was blasted a hole clean through the entire dormitory. After that, there was nothing. I couldn't find anyone or anything," Caden reported. He decided to omit the detail of the knife for now, until he could get a better read on the Demiurge's obligations to the Fateweavers. He didn't want to accidentally close up this hole in the Fateweavers' defences.
+
+"Hmm." Caldwell faced Caden once more and crossed his arms. "You're keeping something from me. I can't tell what it is, which is itself unusual, because I am normally able to read events, as you know. Even though I cannot read your threads since you are no longer a part of the web of prophecy, I ought to be able to read the surroundings. Yet this is not the case here at the moment. Sometimes, that means the Fateweavers themselves are involved in obscuring my sight. Since you are involved, I highly doubt that is the case. That is highly concerning to me, because it implies that there are powers outside the Empire at work here."
+
+Caden's throat was suddenly dry. Was Caldwell going to interrogate him? Force the information out of him? Perhaps he ought to mention the knife.
+
+"But I will not press you," Caldwell continued, looking thoughtfully at Caden, "if you can promise me one thing."
+
+"What?"
+
+"That you will hold off before you make any Empire-breaking decisions until you have learned to create your own wysana."
+
+That was a very odd request. Caden shook his head in confusion. "Empire-breaking decisions?"
+
+"I may be entirely wrong," Caldwell said, nodding. "But I think something very, very important has just happened here, and as someone who is {~?~}, you are in a unique position to take advantage of it. By your very nature as a force that cannot be controlled by the Fateweavers, any power you consolidate makes you a bigger threat to the existence of the Empire. You're in a better position to break it than many people are, myself included. Indeed, at this point, I think we can expect that anything to do with the destruction or preservation of the Empire will directly involve you in some way or another. So if, or rather when you are faced with any Empire-breaking decisions... I ask that you defer making that decision until after you can fashion your own wysana."
+
+"But... if you..." Caden shook his head again. "Not that I'm not relieved, but... why aren't you trying to stop me if you think I'm going to be involved in something so dangerous?"
+
+Caldwell smiled, and seemed to relax a little. "Well, that's easy. If I stopped you now, then how would I get my unspecified favour from you?"
+
+That was a complete non-answer, as usual. "And why wait until I learn to make a wysana?"
+
+"That one's easy too," Caldwell answered cheerfully. The wysana's hold in the ambient arcana vanished as he waved it vaguely, apparently no longer on guard. "I believe that by the time you can make a wysana, you'll be in an excellent position to either preserve or destroy the Empire properly. I wouldn't want you to fail either way."

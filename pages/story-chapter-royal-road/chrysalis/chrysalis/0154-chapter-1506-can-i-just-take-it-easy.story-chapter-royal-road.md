@@ -1,0 +1,57 @@
+---
+id: 8726751d-a775-56cb-9cde-4ceeebca190d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1506 - Can I… Just Take It Easy?"
+slug: 0154-chapter-1506-can-i-just-take-it-easy
+partOf: chrysalis
+position: 154
+ownLength: 999
+unit: words
+ownProgress: 999
+publishedAt: 2025-02-12
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2061800/chapter-1506-can-i-just-take-it-easy"
+royalRoadId: "2061800"
+markedReadAt: "2026-06-29T19:48:46.467Z"
+---
+
+I sit and watch the battle develop over the next few hours. The Templars continue to rotate, ten minutes on, twenty minutes off, and they prove to be effective and deadly each and every time. They don’t have the ability to affect the battle on a large scale, not yet at least. If I was out there, I could be dropping gravity bombs or fields, using Dragon’s Breath to torch huge swathes of the field, or employing my Starcrusher chomp attack to annihilate chunks of monsters at a time.
+
+None of them have Skills at a high enough rank to do anything like that. There just hasn’t been the time. What they do have, however, is truly impeccable training.
+
+It’s making me appreciate all over again the lectures that Granin always gives me. Ranting about how Skill ranks and skill aren’t necessarily the same thing. Sure, earning a new rank in… axe… or whatever, will give you shiny new abilities, make you swing harder and faster, but to truly master a weapon, you need timing, grace, experience and knowledge. You need relentless practice to make the movements second nature, ingrained in your muscle memory. You need to learn the limits of your body and push beyond them. Only then can you truly be called a master.
+
+Going even beyond that, the Folk train to push themselves even further. Having the ability to send a wave of sword-light is nice and all, but if you can’t control it, bend it to your will and turn it into some sort of ten point lotus falcon stars of the dragon moon lily attack, then they think you’re a chump.
+
+Because you are.
+
+So while they aren’t able to win the battle by themselves, they are super efficient and effective at what they do. Jern moves like the axe is part of himself, he doesn’t even need to look at his target, doesn’t need to see a strike in order to block it. His footwork is impeccable, the full weight of his body is behind every swing and the axe just doesn’t stop moving. Left to right, up then down, it traces glittering arcs in the air as Jern wields it perfectly within himself.
+
+All of them are like that. They never take on a challenge they can’t handle, they never forget to leave themselves a way out and they don’t bother to strike if they can’t contribute. Every time they engage, it’s in a decisive manner, ending the fight, or tipping it heavily in the favour of the defenders, then they vanish.
+
+They may not be winning battles by themselves, but I’m pretty sure the levels are going to come quickly. They amass plenty of last hits, which is a good thing. Sure, the ants and militia need them too, but these Templars need to level up so we can get a better idea of what they do!
+
+Still, the defenders are holding on well, and with the Templars helping out, there doesn’t seem to be much for me to do. Which is nice! And here was me expecting to be out in the toxic area having to fight until my carapace started to melt.
+
+Just when I’m busy patting myself on the back and settling in for some intense, heavy-duty relaxation, a deep roar resounds from further down the tunnel. It’s faint, still a fair distance away, but I know better than to hope the creature is heading somewhere else.
+
+With a weary sigh, I pick myself up and start wandering forward, closer to the edge of the blue mana. The monsters are coming thick and fast now, but the Colony and its allies are holding strong. With all the kinks worked out of the system, they’re experts at fighting on the border between safety and toxic nightmare.
+
+Despite their calm competence, I can tell they were at least a little rattled by the roar they heard. It was no ordinary monster that let that roar loose. It was big, and coming up from below.
+
+Which is a bad sign. If powerful monsters are already being dislodged from their hidey holes deeper in the Dungeon, when the wave hasn’t even started yet, then we might be in for a bad time.
+
+As I step over the ranks, placing my legs carefully to make sure I don’t step on anything I shouldn’t, several of the humans and golgari mixed amongst the ranks reach out with their hands, trying to touch me as I move past. I mean… sure… why not, I suppose. Seems a little rude, but they’re here fighting alongside the Colony, so I can’t get too mad.
+
+Once I reach the front, I settle in and get ready to see what comes, sending a blast of Dragon’s Breath out every now and again.
+
+The roar resounds again, closer this time, of course.
+
+The slime along the walls ripples and sways, and I can feel the pressure blowing against the sensitive fibres of my antennae. Whatever this is, it’s a big boy. Thankfully, I may have just the thing to deal with a monster like this.
+
+It’s been a few days since I improved my Skills, and all that time, my sub-brains have been churning away, decoding and practicing the new spell form I was granted from my Gravity Magic Affinity. It’s still a bit rough, which is putting it mildly, but I think I can knock together a cast. Whatever this big monster is, I think it seems like just the sort of thing to test my new spell on.
+
+“You might want to give me a little space,” I warn the ants around me. “I’ve got a new trick, and I get the feeling it’ll be a bit… disruptive.”
+
+Ten seconds later and the nearest ants are over a hundred metres away, giving me my own wide section of the platform to defend.
+
+Well, it’s fine. I can hold this while I try to stitch together the lousy spell.

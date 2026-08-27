@@ -1,0 +1,85 @@
+---
+id: 421827b0-b2d6-5e34-b9cb-50b5d56ab544
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1658 - It Spread Like a Virus pt 5"
+slug: 0307-chapter-1658-it-spread-like-a-virus-pt-5
+partOf: chrysalis
+position: 307
+ownLength: 1264
+unit: words
+ownProgress: 1264
+publishedAt: 2025-10-02
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2644864/chapter-1658-it-spread-like-a-virus-pt-5"
+royalRoadId: "2644864"
+markedReadAt: "2026-06-29T19:53:37.923Z"
+---
+
+Of all the Ancients, it is perhaps Arconidem who is the most widely believed to actually exist, outside of the cults. The third stratum is a blighted place, filled with demons under the influence of the Demon God, making it easy to imagine some creature is down below, manipulating it all.
+
+The Cult of the Red Truth was one of the few that spawned from an actual conversation with the Ancient when he rose to the surface, which makes him one of the Ancients we know the most about.
+
+Arconidem is well known amongst his followers as a master of magic and weaver of spells. Despite his colossal size and remarkable strength, it is with his mind that the Ancient does most of his damage. Cultists tell of his disintegration spells, capable of destroying anything in their path, or the ‘Wind of Annihilation’ that broke down a mountain.
+
+-           Excerpt from ‘Collective Wisdom of the Cults’ by Granin Lazus
+
+We aren’t religious, as a people.
+
+That was what Grey had told Anthony when the ant had first spoken of this game to him, and the blademaster was now reminded of how the monster had replied.
+
+Yet.
+
+At the time, he had simply dismissed the words of the ant. Yet now, he wondered if perhaps he had not given the monster the consideration his statement had warranted.
+
+“BOOOOOOO!!!!” Grey shouted. “Your ball manipulations are for cowards!”
+
+“DECEPTIONS ARE FOR THE WEAK!” White bellowed, her usual demure demeanor nowhere to be found.
+
+“Tensions are really heating up around the arena, Commentant. A lot of ill feeling towards the tactics employed by the representative team from the Colony. Do you think the crowd will have a negative impact on the Red Blitz’s performance going forward?”
+
+“Unlikely, Peter. This is a tier one team of professionals brought in from Anthome for this game, and they are as focused as Smithant at the forge. Despite the local crowd’s distaste for the tactic, manipulating the ball is a perfectly valid strategy, and always has been. Indeed, the winners of the Mandible Cup in the last season, the Carapace Mirage, were masters of illusory methods and baffled their opponents.”
+
+Grey thumped back into his seat with a huff, his emotions fully in sync with White who sat next to him. The two of them had gone to many matches together since his first thrilling experience of the Flowing Stone against the Spirit Blossoms, and it had turned into something of a ritual for them, an activity that brought them closer as Master and Pupil. The more he saw of the game, the more Grey liked it. The strategic and tactical depth, the demands on both physical capability, endurance and skillful execution, the split-second decision making, the thorough preparation.
+
+The enthusiastic roar of the crowd also helped to get the blood pumping.
+
+Yet never before had he witnessed something as low and underhanded as what was taking place on the field right now.
+
+The ants had created two balls!
+
+Well, one of them was a hollow shell designed to mimic the reinforced stone the monster team had placed around the real ball, they hadn’t actually had two balls on the field at the same time. But it was the principle of the thing!
+
+Where was the honour in such a… base deception?
+
+“It’s time for the Flowing Stone to step up on offence once more. The scores are 4-2 as we reach the midpoint of the second half. The Stone will have two more attempts on offence after this one, and they’ll need to score in all three and keep the Blitz scoreless in order to pull off an upset win. What do you think their chances are, Commentant?”
+
+“Slim.”
+
+The ant sounded so smug about it too.
+
+“The Blitz have been very effective on offence, and though they aren’t a renowned defensive team, they’ve been able to contain their opponents reasonably well. It’ll be difficult for the Flowing Stone to score, and even harder for them to keep a clean sheet from this point forward.”
+
+Encouraging chants and cheers broke out around the stadium as the Folk willed their team to victory, yet it didn’t appear as if their hopes would be answered.
+
+“Claw is trying to get through, but another crunching slam holds him in his tracks. That’s a tier five Soldier he’s grappling with, and she is strong, people, have no doubt. They grapple in the front lines, sword against mandible, jockeying for position, but they just aren’t getting the penetration they need. The Blitz holds firm on the midline, and if we don’t get some traction soon…”
+
+“Yes, Peter, it looks like the Blitz are starting to break down their opponents’ formation. We see the dashing runs, the in and out as the scouts look to break through and make a play on the ball. There’s a delicate cut and thrust here, go too deep and you may just create an opening to let the opponent score.
+
+“The backlines are clashing hard, spells against swooping sword-light, and I would have to give the edge here to the Stone, but is it going to matter?”
+
+Grey tried to will his fellow Folk to victory, but his blademaster eyes weren’t deceived. He could see the cracks forming in the lines. The monsters were fast and highly skilled. Once they moved in to grapple, it was hard for the Folk to keep them away, and if they managed to latch on, they were able to shift and manipulate the balance of their foes, not trying to score a decisive victory, but to create a momentary opportunity. If a single one of the Folk slipped, lost their footing or was tackled to the ground, another ant would shoot into the opening as if they’d known it was going to be there all along.
+
+As he watched, it happened again. One of the ants gained the upper hand on the right flank of the Stone formation, and in a flash the Folk were crumbling. The front line shoved hard, keeping the strong trio occupied while nimble ants sliced into the backfield, hunting for the ball.
+
+Despite heroic efforts from the Folk, they were unable to keep the grasping mandibles from cracking the ball, and Grey slumped back in his seat, disappointed. There would be no glorious triumph over the Colony today, as many had hoped. Even a draw seemed unlikely.
+
+The human commentator was doing his best to be diplomatic, but it only put Grey in a worse mood.
+
+“As in all things, experience matters. The Blitz have played hundreds of high-stakes games in front of huge crowds, they are comfortable playing Tunnel Ball in these demanding situations, and it can be seen in their execution. They’ve been clean with the ball and decisive without it. The Flowing Stone have improved rapidly, truly amazing progress in such a short amount of time, but they’ll need to play more games before they can match up to the more experienced teams from the Colony.”
+
+It was true, experience mattered. Grey wasn’t blind, he could see the fumbles, the missteps and momentary lapses in coordination. Every little mistake was pounced on by the ants, using a small opening to create a bigger one, pushing their opponents until they cracked.
+
+He growled. Just because he understood it didn’t mean he liked it. The dignity of the Folk was at stake! They were warriors renowned throughout the Dungeon!
+
+“Maybe we should try and form a team of blademasters,” he grumbled to himself.
+
+White turned to him, eyes shining.

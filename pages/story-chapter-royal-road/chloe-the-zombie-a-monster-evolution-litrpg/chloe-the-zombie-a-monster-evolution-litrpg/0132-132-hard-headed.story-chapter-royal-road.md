@@ -1,0 +1,119 @@
+---
+id: 74cc5d59-9924-5772-a0da-fcfb512c87f6
+page-type-slug: story-chapter-royal-road
+title: "132: Hard Headed"
+slug: 0132-132-hard-headed
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 132
+ownLength: 1850
+unit: words
+publishedAt: 2026-03-30
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3210786/132-hard-headed"
+royalRoadId: "3210786"
+---
+
+To Chloe, Sabine had always been just sort of alright. They hadn’t exactly been best friends or anything like that, but Sabine had seemed cool enough the few times they met before.
+
+There was that one time at the gathering where Sabine had done that weird trick and somehow convinced Chloe that her own nose had disappeared. Chloe remembered panicking until she realized that it had just been some trick.
+
+After that, Chloe didn’t see Sabine again for a long time, not until she was looking for Morikhan. After digging around for the big wolf though, she didn't really figure out what happened to Sabine or where she went.
+
+However, Chloe knew Sol wasn’t just “kind of bad.” Sol was the worst kind of bad. This was, after all, the same organization that sent masked guys to go after Mom. If Sabine was working with Sol, or worse, actually part of it, then that meant that she wasn't just “alright” anymore.
+
+Chloe couldn't hold back her questions anymore. “Sabine… what are you doing here?”
+
+Sabine didn’t answer, and before Chloe could press her again the space beside Sabine suddenly exploded upward as water surged from the sewer channel in a towering spiral.
+
+Chloe jumped back on instinct as the pillar of water curled and tightened in on itself, spinning faster and faster until it reshaped into the outline of a cloaked man who stepped forward from the water. “I’ll deal with the Guildmaster. Nine, proceed as planned.”
+
+Chloe stared at the man, then at Sabine, then back at him again, her brain snagging hard on that single word like it refused to move past it. Why was Sabine being called Nine?
+
+Sabine inclined her head slightly. “Understood, Eight.”
+
+Chloe’s thoughts scrambled as she tried to line the numbers up in her head, because apparently they weren’t using names anymore, and she couldn’t decide if that was dramatic or just deeply annoying. Did Sol hate dealing with names or something? Were they ranking themselves like this was some kind of leaderboard? Was it a secret code system? Or did they just collectively forget how names worked?
+
+And if Sabine was Nine, why had she never used that before when talking to Chloe? Was this new? Did she get promoted? Demoted? Was there paperwork involved? There were way too many questions, and Chloe hated not having answers.
+
+But suddenly,  Iris shoved her back. “This is not the time to daydream."
+
+Iris drew in a breath, and when she exhaled, thick black smoke poured from her mouth, spilling across the stone floor and climbing the walls. The cloud of smoke quickly expanded and swallowed most of the area.
+
+Chloe stared as the smoke thickened, rolling and folding in on itself, until it felt like the entire space had been wrapped in something alive and waiting. Then, Iris lifted her hand and formed a small spark of flame at her fingertips before she hurled it straight into the thickest part of the smoke cloud.
+
+Fiery explosions burst outward in violent flashes, each blast feeding into the next in a brutal chain reaction. Ash and flame churned together in wild waves, slamming into the walls and ceiling as the ground trembled beneath Chloe’s feet.
+
+When the worst of the blasts started to fade, Iris turned toward Chloe. “My spell will not hold them for long, so here's the plan. I will handle the man, and you will handle the woman.”
+
+Chloe blinked, still staring at the burning smoke. “Uh, okay, but… aren’t they just gonna be dead after an attack like that?”
+
+“Unfortunately not, these kinds of people do not go down that easily.”
+
+With that, Iris stepped forward into the thick of the smoke and fire. It happened so fast that Chloe still couldn't follow what was happening until a few seconds later.
+
+The explosions rolled and cracked for a few more seconds before the smoke began to thin, the heavy black cloud slowly breaking apart and vanished into the air. When the last of the haze cleared, Chloe realized she was alone in this part of the sewer. Well, not exactly, as she was left to deal with Sabine.
+
+“Okay,” Chloe started, raising her hands slightly. “So maybe we can talk—"
+
+In an instant, Sabine's entire body flashed as lightning burst across her skin, bright veins of white-blue light racing over her arms and down her legs. Seeing Sabine coat herself in lightning armor, Chloe reluctantly accepted that there was no talking out of this situation.
+
+Chloe wasn't a violent person at heart, but her time as a zombie had really dulled her fear of violence. And if Sabine wanted a fight, then Chloe was going to make sure she wasn't going to go down easy.
+
+Lightning snapped through the chamber, and before Chloe could fully react, Sabine vanished in a streak of white light and reappeared in front of her. Then, Chloe felt something punch straight through her chest.
+
+When she looked down, she saw how Sabine’s right hand was buried through her torso, lightning arcing wildly from the wound. The force had driven Chloe back a step as sparks snapped and around them.
+
+“You should just give up.” Sabine said coldly.
+
+Chloe stared at her for half a second, and then smiled. “Hard pass.”
+
+She lunged forward instead of back, grabbing Sabine by the shoulders before the other woman could pull away, and slammed her forehead forward with every bit of strength she had. The headbutt landed with a sickening crack, though  Chloe didn’t even flinch.
+
+Being a zombie wasn't ideal, but it did come with certain benefits. A big one was that she didn't really feel pain, and her head was rather sturdy after all those evolutions. Also, she was pretty sure that Sabine’s very human skull probably did not enjoy getting hit real hard.
+
+Sabine staggered backward, lightning flickering unevenly as she yanked her hand free from Chloe’s chest. The hole in Chloe’s torso smoked faintly but didn’t bleed, black ichor seeping lazily before the flesh began to heal and close rapidly.
+
+While Sabine was still dazed, shadows gathered around Chloe’s arm and formed into a spear. Chloe stepped forward and thrust it straight at Sabine’s chest.
+
+But Sabine moved at the last second, vanishing in a loud crack of lightning and dodging the strike by inches before reappearing several steps back. She slid across the ground, streaks of lightning trailing behind her.
+
+Maybe a long time ago, Chloe would've struggled to figure out how she'd come up with an attack that could keep up with someone as fast as Sabine. But unfortunately for her, Chloe had something special up her sleeve, something zappy.
+
+Chloe fired a powerful bolt of lightning from her palm, and it came out far brighter and heavier than she expected. The blast was thick and violent, ripping through the air and lighting up the entire sewer in a blinding flash as it slammed toward Sabine with enough force to shake the walls.
+
+For a split second, Chloe almost laughed in surprise, as she knew that her [Lightning Heart] must have kicked in. After defeating the Thunder Bird, her lightning magic seemed to have improved quite significantly, which made defeating that big dumb thunder chicken feel a lot more worth it.
+
+However, Sabine managed to cross her arms and twist her body at the last second, lightning flaring around her like a shield as she deflected the worst of the blast. Even so, Chloe’s strike pushed her back step by step, boots grinding against stone floor as she grit her teeth.
+
+Chloe wasn't too surprised to see that though, as Sabine's whole deal was dealing with lightning magic. Really, all she wanted was for Sabine to have to stay still for a while so she could pull out her next move.
+
+She stopped the lightning abruptly and immediately started to channel blood magic. Sabine straightened at first, but then her body jerked strangely, muscles twitching out of sync. Her lightning cloak flickered unevenly, then stuttered before fading entirely as her  knees hit the ground with a dull thud.
+
+It wasn’t flashy like lightning, and Chloe hadn’t practiced it nearly as much, but blood magic didn’t need to be pretty to work. She only needed a moment of control to do some major work.
+
+Bet you didn't see this coming! Chloe thought to herself proudly.
+
+While Sabine knelt, struggling against the unnatural pull in her veins, Chloe gathered dark energy in her free hand. The shadows thickened and condensed into a crackling sphere of corrupted energy.
+
+There was a very small part of Chloe that looked at Sabine and felt a twinge of sympathy, but more parts of her did not. Not only was Sabine working for the same organization that hurt her mom, Chloe's zombie self also kinda wanted to have a little nibble at the lightning mage's brain.
+
+Because obviously, Sabine's brain had to be something special, right? With that though, Chloe hurled the dark energy blast forward.
+
+The blast shot straight through the air, humming as it rushed toward Sabine. For a second, Chloe thought it was over.
+
+Then Sabine’s eyes flashed bright blue. Lightning burst out from her body, forming a tight ball of light that suddenly exploded outward in a huge shockwave. The ring of electricity tore through Chloe’s dark spell before it could hit and slammed into her.
+
+The impact lifted Chloe off her feet and threw her across the chamber, her vision turning completely white as thunder roared in her ears and everything disappeared in blinding light. As this was happening, Chloe wondered to herself if maybe she should start panicking more.
+
+Out of the enemies she'd faced before, Chloe still hated Ynett a lot more than she did Sabine. But even so, she knew that she had to go all out for this fight, because if Sabine broke her head somehow, the fight was probably going to be over.
+
+***
+
+Sabine knew that Chloe was powerful, having reviewed the girl’s stats several times, yet the abstract certainty of numbers was a pale and almost insulting substitute for the visceral reality of witnessing that strength unleashed first hand.
+
+By habit, Sabine almost always went for the chest in battle, because the heart was the quickest and most reliable way to end a humanoid, and over the years she had refined that instinct to near flawless perfection.  Unfortunately, that well-practiced instinct proved useless against Chloe, whose inhuman durability made such methods meaningless.
+
+She felt no personal hatred toward Chloe. Yet the creature stood in her way now, and anything that blocked her path, however adorable it might appear, was meant to be removed.
+
+Sabine also reminded herself that this so-called adorable creature could survive having her chest pierced without inconvenience and could use both dark and blood magic. This was a realization that forced Sabine to admit that victory was going to be difficult to achieve.
+
+But at the end of the day, Chloe was still a zombie. And zombies, without exception, stopped functioning once their heads were properly crushed.

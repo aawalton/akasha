@@ -1,0 +1,79 @@
+---
+id: b61afe6e-0af2-5250-9954-170c79440663
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1657 - It Spread Like a Virus pt 4"
+slug: 0306-chapter-1657-it-spread-like-a-virus-pt-4
+partOf: chrysalis
+position: 306
+ownLength: 1128
+unit: words
+ownProgress: 1128
+publishedAt: 2025-10-01
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2642012/chapter-1657-it-spread-like-a-virus-pt-4"
+royalRoadId: "2642012"
+markedReadAt: "2026-06-29T19:53:36.013Z"
+---
+
+Were there a competition for the Ancient who is the most feared, there are several contenders that all of the cults would agree on, one of them being Tarriflyx the Hunger. Cultists of the Endless Feast tell hushed tales of those who have dreamed of the Ancient, so consumed with a bottomless, sucking hunger that they awaken to find they have gnawed on their own flesh to sate the craving.
+
+More mouth than monster, legends tell of Tarriflyx’s hunger being a palpable thing, an aura that drives all who come close to it to succumb to a mindless frenzy of consumption. For this reason, none who approached the Ancient ever survived, and those unfortunate enough to be nearby when it rose to the surface were unable to carry tales of the beast.
+
+All our information regarding the Hunger comes from dreams, and they are dreaded, not welcomed.
+
+-           Excerpt from ‘Collective Wisdom of the Cults’ by Granin Lazus
+
+“A stunning display of skill, grit and ability here today, Commentant! This game has come right down to the wire, neither side willing to give an inch. Scores are tied at 4-4 and it is the Stone’s final offensive possession. Are we about to see a tough-fought draw, or a glorious last-gasp victory?”
+
+“I know which one the supporters of the Flowing Stone are hoping to see, Peter. This has been a wonderful contest that’s shown the Folk have developed a real feel for the tactics and hard-hitting execution required to play this game. Will there be any last second adjustments to the formation of either team?
+
+“It seems as if the Blossoms are sticking to the same look, but the Stone are changing things up! From the looks of it, they’ve formed a very dense centre.”
+
+“An interesting switchup at the last possible moment. Will it be enough to carry them in this possession? The referee signals the start of play, and the swords are out!”
+
+Once again the light flashed as the players executed their Skills. Grey watched, his eyes seeing all as the two sides clashed. The contest had gone on long, and there was real fatigue weighing down the limbs of the combatants. Legs were heavy, shoulders burned, wrists ached. Executing the demanding sword Skills of the Folk in that condition was more than difficult. Controlling and manipulating the sword light required focus, flawless technique and a powerful will. Summoning any of those three while exhausted and on the brink of collapse, let alone all three, was the mark of a true warrior.
+
+As expected, the execution of abilities was clumsy, the light didn’t dance and weave as it had in the opening rounds. Instead, it was a slow, gruelling battle as both teams smashed into each other again and again, relying on spirit and grit more than skill and polish.
+
+“The Blossoms are struggling to break through as the Stone seem to be employing a modified brick strategy! They’re holding firm and pushing forward with nothing but dogged determination!”
+
+“Determination is not only for the dog-Folk, Peter.”
+
+“I apologise if that was culturally insensitive! The trio of Claw, Thick-Hide and Spots are holding firm in the middle. Look at the grit! Look at the power! They’re exhausted, folks, make no mistake!”
+
+Indeed, it was looking less like a duel and more like a battlefield. Pushed to the limits of their strength, the two sides were barely able to conjure meaningful light at all, and the front lines had devolved into a brutal, up-close sword fight. Every time the Stone took a step forward, some of the crowd would cheer and scream. Every time the Blossoms pushed them back, the same would occur.
+
+The ball was barely moving, and the audience could not have been louder, all desperately urging their side to summon just a tiny bit more energy.
+
+“The Blossoms are trying to make strikes on the ball, but the defense is holding strong! The centre is gaining ground, and they’ve pushed over the midline! Anything could happen from here!”
+
+At that moment, Spring, captain of the Blossoms, made a decision, one that Grey agreed with. Despite their superior teamwork and mobility, the Blossoms were in a losing position. The raw strength of the Stone was more of a factor this deep in the match, and it was proving impossible to hold the line. Her team had given their all, but Spring knew they wouldn’t be able to hold much longer. She had no choice but to try and break the ball.
+
+Leaping high, her blade flashing in the sun, Spring made a final, dazzling play.
+
+Grey was on the edge of his seat as the crowd roared, his heart thumping in his chest as the blades clashed. It would all come down to these final moments, and he didn’t want to miss a thing.
+
+Spring, by far the best player on her team, danced like a true blademaster, hovering on the edge of life and death as her enemies closed in around her. Her sword never stopped moving, the light she summoned still under control despite the obvious exhaustion that plagued her.
+
+The Flowing Stone didn’t panic; they’d had to have known such a move was coming. In a bold move, their hard-hitting trio held their positions, dominating the centre and pushing forward faster now that Spring wasn’t in place to anchor their opposing line.
+
+It was down to the rest of the team to defend the ball, and they swarmed over Spring, not giving her the room she needed to move.
+
+Even so, she held them off. The ball carrier fought defensively, always shifting, but her blade sought him out time and time again.
+
+Eventually, someone had to make a mistake, and it was the ball carrier who slipped up first. The ground wasn’t stable, and as they turned to avoid a striking blade, their heel was misplaced, causing them to fall.
+
+Spring pounced on the opportunity, her blade lashing out in an instant, and the entire audience held their breath as they watched the stroke fall.
+
+Light sprang from the sword’s edge, curling outward to strike at the ball. White covered her eyes in despair, but Grey knew better. All eyes turned to the umpire, but they made no call, their flags staying down.
+
+There hadn’t been enough force to break the ball; it was marked, but still in one piece.
+
+Realising his lucky escape, the ball carrier surged to his feet and lunged toward the wall, the entire crowd erupting in a frenzied roar.
+
+“Go!”
+
+“THE BALL, UMPIRE!”
+
+“COME ONNNNN!!!”
+
+The last outburst was from White, and she screamed her lungs out as the Stone ball carrier executed a final, stumbling dash and slammed awkwardly into the wall, ball in hand.

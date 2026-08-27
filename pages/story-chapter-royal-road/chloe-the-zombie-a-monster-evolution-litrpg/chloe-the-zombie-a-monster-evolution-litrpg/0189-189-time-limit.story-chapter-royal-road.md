@@ -1,0 +1,115 @@
+---
+id: ae30cff2-852d-5585-bac0-4e4636bdd206
+page-type-slug: story-chapter-royal-road
+title: "189: Time Limit"
+slug: 0189-189-time-limit
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 189
+ownLength: 1947
+unit: words
+publishedAt: 2026-08-17
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3825948/189-time-limit"
+royalRoadId: "3825948"
+---
+
+Chloe was expecting the coolest fight ever. Commander Sirius had four arms, and also four laser swords, oh, and a cape too. He had introduced himself like he was some epic final boss. Everything about him screamed that this was going to be an absolutely legendary battle.
+
+In Chloe's imagination, there would probably be this incredible sword fight where the four glowing blades spun around so fast they became circles of death, Z would have to get serious for once, Percy would fly around kicking things, Liz would summon an army of undead robots again, and Chloe herself would do something equally awesome involving lightning, and maybe punching somebody through a wall. It was totally going to be amazing.
+
+Back to reality, Commander Sirius lowered into a fighting stance, all four laser swords spinning around him. Sparks danced through the air as the humming weapons crossed one another, his cape billowing while he confidently pointed every glowing blade toward the group. "I hope you have prepared yourselves, for none have ever survived—"
+
+Z disappeared before the robot commander could finish speaking, and Chloe blinked in confusion. The former administrator was already in front of Commander Sirius. The robot barely had enough time to react before Z caught one of his swinging wrists, twisted it, and effortlessly plucked the laser sword right out of his hand as though taking candy from a baby.
+
+"Excuse me?" Commander Sirius exclaimed.
+
+"Z, that's rude!" Chloe agreed.
+
+Unfortunately for Commander Sirius... Z was far from wrapping up. Without any visible sign of remorse whatsoever, she casually swung his own laser sword once. The glowing blade flashed through the air before one metallic arm dropped onto the floor. Commander Sirius froze where he stood, and before he could even begin to react, Z swung again. FWISH.
+
+A second arm separated cleanly from his body and crashed down beside the first, leaving the robot standing there in complete silence. Commander Sirius slowly lowered his head and looked at one stump. Then he turned to inspect the other. Finally, he looked back at Z, his meeyes flickering uncertainly. "I appear to be missing a—"
+
+The third arm hit the floor before he could finish the sentence. The fourth followed almost immediately after, landing beside the others with another loud metallic crash. All four laser swords clattered across the staircase, skidding in different directions as Commander Sirius remained still. After another long pause, the robot let out what sounded like a deeply disappointed sigh. "Well, things are turning out significantly less favorable than I had anticipated."
+
+Chloe could only stare in silence. That wasn't even a fight, man, it was barely an inconvenience for Z. And like, yes, she did want to win in the end and beat up Commander Sirius, but she wanted it to take a little bit longer.
+
+Instead, Z had simply walked over, stolen one of those swords, and removed all four of his arms before he'd even finished introducing himself. To be completely and totally one hundred percent honest, Chloe felt it was a little unfair.
+
+She opened her mouth to complain, but Z glanced at her and calmly said, "Remember what we are here for, please."
+
+Chloe puffed out her cheeks in a small pout, though she couldn't really argue with that. While Chloe sulked, Z stepped over to Commander Sirius and handed back the stolen laser sword. Or rather, she politely placed it into one of the robot's severed hands lying on the floor. Commander Sirius slowly looked down at the detached hand. Then he looked at the sword resting inside its fingers.
+
+Finally, his gaze drifted toward the four empty sockets where all of his arms used to be. After painfully awkward seconds, he spoke, "I believe I have made a tactical error."
+
+Then Commander Sirius made an attempt at running away. Without any arms to help balance himself, the robot stumbled as he spun around and sprinted up the staircase. He lurched from side to side with every step, looking far less like the elegant master swordsman he had introduced himself as only moments earlier. His once majestic cape flapped wildly behind him as he fled, and Chloe had to admit that it looked considerably less intimidating now.
+
+Chloe pointed up the staircase after the fleeing robot. "He's retreating!"
+
+"I noticed," Liz replied dryly.
+
+Dark energy gathered around Liz's outstretched hand, swirling together into a dense sphere of black magic. After taking barely half a second to aim, she flicked her wrist and released the spell. The sphere shot through the stairwell with a deep, rumbling hiss, leaving a trail of dark mist behind it as it raced toward its target.
+
+Commander Sirius had only managed a few more awkward steps before the spell caught him. The black sphere slammed directly into the middle of his back and blasted straight through his torso, leaving a massive hole clean through his chest. The force of the impact sent him lurching forward, and he staggered before his glowing eyes flickered violently. Sparks burst from the gaping hole in his body, showering the staircase as strange mechanical noises sputtered from within him.
+
+Chloe stared at the motionless robot for several long seconds, waiting for... something. Maybe one last dramatic speech. Maybe some hidden emergency laser cannon would pop out of his chest. Maybe he'd suddenly stand back up and reveal this had only been Phase One of the boss fight. Instead, Commander Sirius remained face-down on the stairs, completely lifeless. "I kinda thought he'd last longer."
+
+"So did I," Liz admitted with a small shrug.
+
+"Guess that was that. But can I keep his laser swords?"
+
+"Uh... sure, I guess. I don't really care."
+
+A huge smile immediately spread across Chloe's face. "Sweet!"
+
+She hurried over before anyone else could possibly change their mind and scooped up the first glowing blade with both hands. It was surprisingly light for something that looked so ridiculously cool. She admired it for all of two seconds before turning toward Cloaky. "Here ya go, buddy."
+
+Almost instantly, the cloak rippled, and several shadowy hands emerged from the darkness between its folds, stretching outward with clawed fingers before gently wrapping around the sword. They pulled it inside, and the glowing weapon slowly disappeared beneath the shifting shadows as though Cloaky had swallowed it whole, which to be fair, it did.
+
+Chloe giggled and she eagerly grabbed the second laser sword and held it out. Once again, the shadowy hands reached out from Cloaky, this time with a little more enthusiasm, curling around the weapon before drawing it in. The blade vanished without a trace, leaving Chloe grinning even wider. By the third sword, she had started treating it like a game.
+
+"One more!"
+
+More shadowy hands reached out, almost impatiently this time, plucking the weapon straight out of her hands before pulling it beneath the black fabric. Chloe could have sworn Cloaky looked a little happier after each one. Maybe he liked collecting shiny things, which would be understandable.
+
+Finally, she picked up the last remaining laser sword and presented it to Cloaky. Several shadowy hands burst from Cloaky together, almost as if they couldn't decide who got to take this one. They all grabbed different parts of the sword before dragging it beneath the cloak, where it vanished alongside the others.
+
+There, now nobody could steal the laser swords because they were safely inside her magical shadow cloak. That seemed like a perfectly reasonable storage solution, because Cloaky has never failed her so far.
+
+Only after she had finished admiring her excellent decision did she notice Z quietly watching the whole thing. "Are you done?"
+
+Chloe beamed at her and nodded cheerfully. "Yep!"
+
+Z held Chloe's gaze for a brief moment before giving a small nod of her own. She then looked toward Percy, who responded with his usual silent nod, before turning to Liz. Liz sighed, though she eventually nodded as well. Well, that settled it. The whole gang was ready again.
+
+The group had barely made it a few steps down the staircase before something behind Chloe suddenly caught her attention. A blue glow began shining from Commander Sirius's severed head, which was still lying on the floor. Chloe immediately spun around, electricity already crackling around her fingertips.
+
+She was just about to blast the head into tiny metal pieces when a beam of light suddenly shot upward from its eyes instead. The light spread out into a large holographic projection floating above the stairs. Chloe paused, lowering her hand as the image stabilized and showed a room.
+
+The room looked almost like an office, but Chloe barely noticed any of the furniture because two familiar people immediately caught her eye. Sierra? Raenof?
+
+Both Sierra and Raenof were chained to the floor with chains around their wrists and ankles. They looked exhausted and battered, but thankfully they looked like they were both alive. Chloe didn't feel comfortable looking at the two of them all tied up like that though, and a part of her felt responsible for putting the two of them in that position. They both just wanted to help her find Mom after all. The least Chloe could do was to at least give it her all to rescue her friends.
+
+Suddenly, a voice echoed from Commander Sirius's severed head. "Did you truly believe I wouldn't notice all of you moving through my facility?"
+
+Chloe frowned, because that wasn't Commander Sirius's voice at all. It was calmer, colder, and really annoying. Z stepped up beside Chloe and quietly looked at the hologram before speaking. "Administrator A, how unpleasant."
+
+"Speak for yourself, traitor. But regardless, I shall keep this brief. You have exactly ten minutes to arrive at my office."
+
+The hologram shifted slightly, giving them another look at Sierra and Raenof struggling against their chains. "If you fail to do so… then I will have to repurpose your friends."
+
+Chloe didn't know what "repurpose" meant in this situation, but she was absolutely certain she didn't like the sound of it. A second later, the hologram flickered again before disappearing altogether. Commander Sirius's head gave one final burst of sparks, smoke drifted from the damaged metal, and whatever had been powering the projection finally died.
+
+Liz stepped closer and looked between Chloe and Z. "Those two are your friends?"
+
+"Yeah! And they're both in really big trouble!" Chloe answered.
+
+Liz's expression became much more serious. Before anyone else could speak, Z folded her arms and began thinking aloud. "Then perhaps we should adjust our plans and split up. While rescuing allies is important, investigating the Records Office is also still extremely important. We cannot abandon either objective."
+
+Percy nodded. "Sure. Me and Liz can check the Records Office while you and Chloe rescue your friends."
+
+Chloe's excitement immediately faded into uncertainty. She looked back and forth between everyone, nervously rubbing the back of her head. "Wait... are you guys sure splitting up is a good idea?"
+
+"Probably not," Percy admitted with a shrug. "But we've gotta work with the situation we've got."
+
+"I must agree. Administrator A is expecting Chloe and me to come after him. While we keep his attention occupied, there is a reasonable chance that breaking into the Records Office will be considerably easier than it otherwise would have been." Z explained.
+
+Chloe frowned as she thought about it. She didn't like the idea of splitting up, but Sierra and Raenof only had ten minutes, and if Administrator A was willing to threaten them so casually, then Chloe wasn't about to waste a single second. She just hoped that everything was going to work out in the end.

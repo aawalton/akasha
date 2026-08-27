@@ -1,0 +1,175 @@
+---
+id: b59ab33a-c0ad-5b21-93bc-5c78c8bd5f7a
+page-type-slug: story-chapter-royal-road
+title: "168: Stranger Danger"
+slug: 0168-168-stranger-danger
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 168
+ownLength: 2473
+unit: words
+publishedAt: 2026-06-22
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3575034/168-stranger-danger"
+royalRoadId: "3575034"
+---
+
+So, the current situation really wasn’t looking great, and Chloe had already started mentally preparing herself for a fight, because at this point getting chased by corporate angels in a dystopian hell city wasn't really that weird anymore. But surprisingly, the angels didn’t seem nearly as alarmed as she expected. If anything, they looked more annoyed than concerned. Chloe could only blink in confusion while watching the following conversation happen.
+
+One of the angels let out a long sigh while rubbing the bridge of his nose “You’ve gotta be kidding me, there's nothing here."
+
+Another angel folded her arms while her wings twitched behind her. “I told maintenance that thing’s scanners were busted after it flagged a trash bag as a hostile entity yesterday.”
+
+Chloe was still hiding behind the lamp post while listening to this conversation. She had genuinely expected shouting, alarms, maybe an immediate city-wide manhunt, but instead these people just sounded tired. Then again, they were working for a Divinity Inc. that didn't have Mom as CEO, so that probably tracked.
+
+The first angel tapped the side of the robot's head with his knuckles. “Unit Seventeen. Clarify what hostile entity you detected please."
+
+The robot’s glowing eyes flickered. “Potential environmental distortion detected. Probability of unidentified presence: thirty two percent.”
+
+"Seriously? I asked about a hostile entity Unit Seventeen, give me details about the hostile entity."
+
+"Error, data not found. Would you like to contact information management?"
+
+“Oh my god,” another angel groaned. “That’s literally the bug from last month.”
+
+“I thought they patched that.”
+
+“Management said they got the IT team to work on that, but clearly that didn't mean anything.”
+
+Chloe had to physically press both hands over her mouth to stop herself from laughing out loud, because this situation was just too good. When she looked to Z, the former administrator didn't look all that entertained, but she was pretty sure Z was just shy when it came to being more expressive.
+
+“Look, if there really was an intruder, the city grid would’ve flagged it already.” One of the uniformed angels finally said.
+
+“Unless they’re using concealment.” His coworker replied.
+
+“Then that sounds like Internal Security’s problem, not ours.”
+
+“That is true,” another angel admitted.
+
+The first angel stood back up with another exhausted sigh before pointing at the robot. “Just submit another maintenance request.”
+
+"Duly noted, maintenance request submitted.' The robot said.
+
+A couple of the angels snorted while the others looked mildly amused. Chloe stared from behind the lamp post as she struggled to process how unbelievably unserious these people were. Weren’t they supposed to be terrifying corporate enforcers or something? But maybe they just weren't paid that much? She'd have to ask Z about how compensation worked in Divinity Inc. later.
+
+Eventually one of the angels stretched his wings lazily before speaking again. “Alright, are we done here?
+
+“We're done here." Another angel said.
+
+And just like that, the entire group decided that possible invisible intruders somehow mattered less than getting coffee. The angels turned away from the robot while continuing their lazy conversation, and a few seconds later they launched themselves back into the air before disappearing between the buildings overhead.
+
+Chloe still couldn’t fully process what she had just witnessed. She had been fully prepared for a dramatic chase, maybe even an extremely cool fight sequence where she got to punch somebody through a billboard. But today was not going to be that day apparently.
+
+She opened her mouth, about to whisper something to Z, but then she immediately sensed Z moving away. Chloe quickly pushed herself away from the lamp post and followed after her instead while trying not to accidentally bump into another robot.
+
+The two of them eventually entered a narrower side alley squeezed between several unfinished buildings. Of course, as one would expect, the alley itself looked absolutely miserable.
+
+There was a lot of construction junk that had been dumped everywhere without any care at all. Half-finished pipes stuck out from the walls while thick cables hung overhead. Bent metal beams leaned against the walls, while piles of cracked tiles and broken equipment were scattered across the ground, and several large plastic containers overflowed with random industrial trash that Chloe definitely did not want to identify too closely.
+
+Z continued moving deeper inside until she finally stopped near the far end of the alley beside a stack of unused construction panels. Only then did the faint shimmer of invisibility around her body disappear.
+
+A second later, Chloe dropped her own invisibility too. Her body flickered back into view almost instantly, and she immediately stretched her arms out. "Being invisible for too long always makes me feel weirdly itchy. I don’t even know if that makes sense.”
+
+Z didn’t answer immediately. She remained focused on the alley entrance for another few seconds first, clearly making sure nobody had followed them. Meanwhile Chloe glanced around the filthy alley again before looking back toward Z with a puzzled expression. “Hey uh, Z. What are we even doing here?”
+
+Z finally shifted her attention away from the alley entrance and looked toward the stained concrete wall. “There’s a hidden entrance here, and I think we should go check it out."
+
+Chloe blinked a few times before immediately looking around the alley again in confusion. “What hidden entrance? This place literally just looks like somebody dumped an entire construction site into a garbage alley."
+
+"Try sensing it, Chloe, don't you feel the presence of strong magic far under us?"
+
+"Huh, guess I'll give it a go then."
+
+Chloe frowned slightly before closing her eyes. For a while, she sensed absolutely nothing useful, and she was already halfway convinced Z was just doing that mysterious cool thing again where she somehow magically knew stuff for no reason. But then Chloe finally felt what Z was probably feeling.
+
+A strange pulse of mana hidden beyond the walls and deep underground, subtle enough that she probably would’ve walked right past it normally without ever noticing. The energy felt old too, different from the cleaner artificial mana signatures she’d been sensing all over Divinity Inc.’s city above.
+
+“Okay wow, wait, yeah, I do actually sense something there,” Chloe admitted while opening her eyes. “But how were you so confident there was a hidden entrance here in the first place?”
+
+“Because Heaven has always had outcasts. Not every angel was willing to follow its rules, and not every fallen angel ended up joining organized factions either. Long before Divinity Inc. arrived in this place, many angels already came to Tartarus in order to hide."
+
+“Wait seriously?"
+
+“Yes, and honestly, there were a non-zero amount of employees who tried to escape to Tartarus in order to 'quit' their jobs at Divinity Inc."
+
+"Oh wow, guess things took a real bad turn after Mom left huh."
+
+"In many ways, yes."
+
+Chloe glanced around the alley again. “But if there are hidden groups and underground communities here, then why doesn’t Divinity Inc. just wipe them out?”
+
+“Because not everything you see here was built by the company,” Z answered calmly. “A large portion of Tartarus already existed before they arrived. Divinity Inc. likely repurposed many of those structures instead of building entirely new systems from scratch. And despite their power, controlling every hidden section of Tartarus completely would require enormous resources.”
+
+“So basically this place is too big and messy for them to fully lock down?”
+
+“More or less.”
+
+While Chloe was still processing all that, Z walked over toward one of the larger metal panels leaning against the alley wall, the kind Chloe had completely ignored earlier because honestly it looked identical to every other piece of random construction junk scattered around the area. Z placed one hand lightly against the side of it, and a second later Chloe heard a faint mechanical click echo from somewhere deep inside the concrete. Then part of the wall suddenly slid sideways.
+
+Whoa, very cool. Chloe thought to herself.
+
+A narrow opening had appeared behind the panel, revealing a hidden stairwell descending underground. Dim lights flickered faintly while cold air drifted through the entrance. The whole thing looked incredibly suspicious, but in the coolest possible way.
+
+“How did you even know this was here? Actually wait no, more importantly, can I have a secret underground base too someday? Because this is awesome.”
+
+Z let out the faintest snort at that, though her expression barely changed. “Focus, Chloe.”
+
+“Right, right. Secret mystery stairs first."
+
+Z stepped through the hidden entrance and started descending the stairs. Chloe quickly followed after her while glancing back toward the alley one last time before the wall quietly slid shut behind them again. Their footsteps echoed softly as they continued deeper underground, and the farther down they went, the quieter the sounds of the city above became.
+
+After several minutes, the stairs finally opened into a small underground hallway with smooth metal walls and cold white lights lining the ceiling. The corridor itself was completely silent, and at the far end stood a lone elevator door built directly into the wall beside a glowing control panel. Z walked over and pressed the button, and a few seconds later a faint mechanical chime echoed somewhere above them.
+
+“Uh… should we really be going into random secret underground elevators? Because this feels exactly like how people end up getting experimented on.”
+
+“We’re looking for leads,” Z replied calmly while keeping her eyes on the elevator display. “And one way or another, this elevator will take us somewhere.”
+
+“I mean, that’s technically fair, but also that logic feels super dangerous.”
+
+“Make no mistake, Chloe, this is absolutely dangerous. But we need to take some risks if we want to make progress."
+
+"Guess that is fair, but something about this place doesn't feel right."
+
+A few seconds later, the elevator finally arrived with a ding. The doors slid open, and Chloe immediately narrowed her eyes at it while Z stepped inside without hesitation. After a moment, Chloe followed her in too, though she still looked deeply unconvinced this wasn’t about to become some kind of mistake. The doors closed behind them with a thud, and soon the elevator began descending deeper underground.
+
+The ride lasted much longer than Chloe expected, and the longer they stood there in silence, the worse her imagination started getting. At first she just pictured some creepy underground laboratory full of glowing tubes and science nonsense, but then her brain kept escalating things from there. Corporate torture basements, maybe giant monsters in containment chambers, and all sorts of other weird stuff.
+
+“But what if we get into trouble?” Chloe asked after a moment.
+
+At that, Z finally turned fully toward her. Suddenly, her gaze became much more intense and focused, enough that Chloe instinctively straightened slightly under it. “I promise that I will always protect you. No matter what happens, even if something were to happen to me, I'll make sure you will be able to escape."
+
+The words caught Chloe completely off guard. She just stood there blinking at Z awkwardly while her brain struggled to process the sudden emotional sincerity attack.
+
+“That’s uh…” Chloe rubbed the back of her neck while looking away for a second. “That’s kinda a lot, actually, but thanks."
+
+Z didn’t answer her comment at all and simply stepped back against the side of the elevator, which made Chloe feel more nervous somehow. The elevator itself stayed completely silent during the descent aside from the faint mechanical hum vibrating softly through the walls and floor.
+
+Eventually, the elevator finally began slowing down. The hum of the machinery changed pitch slightly and the doors slid open.
+
+The first thing Chloe noticed was the darkness. Not normal darkness either, but this was… advanced darkness, if that made sense. The massive underground corridor beyond the elevator was barely lit at all, with only a handful of weak overhead lamps scattered far apart along the ceiling.
+
+Most of them flickered constantly with an annoying electrical buzz. Rust stains spread across parts of the metal walls like dried blood, thick exposed pipes ran overhead through the ceiling, and somewhere deeper inside the underground structure Chloe could hear the faint dripping sound of water echoing.
+
+The whole place reminded Chloe way too much of those movie scenes where the heroes wandered into some shady underground hideout right before getting ambushed by criminals or mutants or weird sewer cultists or whatever. The kind of place where somebody always stepped out of the shadows while holding a knife.But what were the chances of that actually happening? Right?
+
+The elevator doors closed behind Chloe and Z as they both walked out. Chloe immediately regretted hearing that sound because now it really felt like they had just willingly trapped themselves inside a horror movie.
+
+Meanwhile Z continued walking forward calmly like none of this bothered her at all. Chloe honestly didn’t understand how Z stayed so composed in places like this. If anything, the creepy atmosphere only seemed to make her more focused.
+
+Chloe hurried after her while instinctively lowering her own voice. “So, what exactly is this place anyway?”
+
+“A lower district beneath Tartarus,” Z answered quietly. “Divinity Inc. focuses most of its attention on the upper sectors. Areas like this are largely ignored unless they become problematic.”
+
+“Cool… I guess.” Chloe whispered.
+
+The two of them continued deeper into the underground passage while their footsteps echoed softly across the floor. The farther they walked, the more tense Chloe started feeling. Something about this place just felt wrong.
+
+Then Chloe heard it. A faint noise somewhere ahead in the darkness. She immediately stopped moving, and beside her, Z stopped too. The underground corridor fell completely silent for several seconds before another sound echoed softly through the shadows, the sound of footsteps. Chloe instantly shifted closer until she and Z stood back to back instinctively, both scanning opposite directions while the footsteps continued approaching through the darkness.
+
+“Okay,” Chloe whispered while narrowing her eyes, “I’ve got a really bad feeling about this.”
+
+“So do I,” Z replied.
+
+The footsteps grew louder until finally a figure emerged from the darkness ahead, tall and painfully thin with pale skin that almost looked gray. Shoulder-length black hair hung messily around his face, and his black clothes looked old and ragged, like they’d been stitched back together so many times they were barely holding themselves together.
+
+But what caught Chloe’s attention most were the wings. Black wings extended from his back, though “extended” honestly felt generous. They were badly damaged, with feathers missing across huge sections while several joints bent at angles that definitely looked like they must have hurt, or at least were uncomfortable.
+
+The man stopped several feet away while staring calmly at Chloe and Z. “Wanna do this the easy way? Or the hard way?”

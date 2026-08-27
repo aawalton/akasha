@@ -1,0 +1,135 @@
+---
+id: 8d2404a7-7df7-5cb6-8122-ebd43a107167
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1390 - The New Initiates"
+slug: 0037-chapter-1390-the-new-initiates
+partOf: chrysalis
+position: 37
+ownLength: 1101
+unit: words
+ownProgress: 1101
+publishedAt: 2024-08-12
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1754457/chapter-1390-the-new-initiates"
+royalRoadId: "1754457"
+markedReadAt: "2026-06-29T19:44:49.728Z"
+---
+
+Three little squirts are kneeling in front of me. Honestly, it’s kind of hard to tell how old they are. Recognising human features gets harder and harder the longer I live this new life. They’re older than ten, but not eighteen. Probably.
+
+These three have lived interesting lives up to this point, I can tell. Taken in by the Nameless Ones, and now this? I wonder how they got caught up in the crusade in the first place? Actually, I think I can guess. After all, we wouldn’t want the crusaders to overwork themselves….
+
+“You three can understand me?” I say, speaking to them via pheromones.
+
+It’s polite to be sure of these things.
+
+All three of them nod.
+
+How in the heck?
+
+“You kids went through some tough training… didn’t you?”
+
+Again, they nod. Come on now, say something… anything. I’m a friendly ant, not scary at all!
+
+Or perhaps they just aren’t comfortable speaking out loud? After all, if they gained the Templar Initiate Class like the other two did, they won’t get pheromonal language until they advance it.
+
+Welcome.
+
+I gesture to them with the secret language of the Nameless, and I see all three of them react, stiffening in place.
+
+It is an honour to be before you, Eldest.
+
+The way they move is interesting. After all, they can’t move like an ant does, for obvious reasons, but they’ve adapted to make the required gestures using various other means.
+
+You should probably get used to it, considering what you’ve now become.
+
+The Templars need to be around me in order to level up, at least at the Initiate stage. Forging bonds with me or something? I don’t know how it works. Honestly, I’m not sure how useful they are in the first place, but it’d be rude for me to cut off their potential because I found them inconvenient.
+
+Alis and Jern were able to get the necessary levels to advance their classes during the trade mission, unlocking a range of new abilities including pheromonal language. Despite this, none of us are any clearer on how they’re supposed to ‘defend my sanctum’ or from what.
+
+These three were the second set of statues to turn up inside the Nave, and there will probably be more in the future. I’d love to know just what they’re supposed to do, for their sake as well as mine.
+
+It kind of feels bad to have these dedicated people hanging around without some sort of purpose.
+
+We do not know what we have become, Eldest. We wish to serve the Sanctum of Sleep, as we ever have.
+
+It’s the boy who gestures this message to me, but the other two don’t contradict him in the slightest.
+
+Of course, you can continue to perform your role as Nameless. I wouldn’t dream of denying you your purpose.
+
+All three of them visibly relax. Clearly they were deeply worried about it. As if I would ever mess with the torpor police. Those ants are scary! They were inspired by Crinis, after all. I mean, do I even need to say more?!
+
+But you have an additional calling now. Defending my sanctum… whatever that is.
+
+That caused a little confusion amongst the three.
+
+You don’t know, Eldest?
+
+No idea,  I gestured back. It’s not like I’m the one handing these Classes out. We’ll figure it out as we go, I’m sure.
+
+It’s not like I’ve ever taken a hit and thought to myself ‘oof! Right in the sanctum!’
+
+Clearly, there’s some manner of spiritual attack that can hit the Vestibule, Nave or Altar. Possibly all three. That seems like the only explanation, but I haven’t come across anything like that before, so how can I be sure?
+
+You three will need to get situated with the Sanctum here in the fourth, I gesture to them.
+
+They could stay in the guest wings, but these three are a bit more than guests. I’m sure they’ll be more comfortable amongst the ants who’ve accepted them as their own.
+
+I’ll find as much time for you as I can, but I won’t be taking you down to the fifth with me any time soon.
+
+Though I’ll probably have to at some point… ugh. Exposing humans this young to that place? That doesn’t feel good.
+
+“Nameless One,” I say to the chamber around me.
+
+Sure enough, one of the shadows detaches from the walls and slides out toward me.
+
+You called me from the darkness, Eldest?
+
+Gah! They’re so creepy!
+
+“I want you to train up these three. They’re already good, but they need to be better, considering where they’re going.”
+
+There’s a moment of hesitation.
+
+They are already Nameless.
+
+“Yeah, I know they’ve gone through that training. I’m talking about more… fighty type training. Sneaking and abducting is one thing, but they need to be able to defend themselves properly.”
+
+I consider for a moment then indicate Jern and Alis, who’ve been standing around looking confused nearby.
+
+“Take them as well while you’re at it. The more the merrier, I suppose.”
+
+There is a spark of hesitation from the shadow, and I can tell what they’re worried about.
+
+“I don’t intend to interfere with your operations, and I know you aren’t combat specialists. It’s fine, just do what you can. I have complete faith in the Nameless to come up with something that will work. You’re adaptable, after all.”
+
+It will be as you wish, Eldest.
+
+“Great. I’ll send Crinis along to keep an eye on things and pass along any ideas I come up with, alright?”
+
+We will be blessed by the Shadow?
+
+In a sense….
+
+“Hey, Jern! Alis! Come over here.”
+
+The two Templars brighten up as I call them and jog over to me.
+
+“What can we do for you, Anthony?” Jern asks.
+
+Alis is still fairly intimidated by me, but Jern seems as unperturbed as always. He’s getting better at pheromones faster than she is simply because he doesn’t hesitate to use them.
+
+“I’ve got good news and bad news for you.”
+
+“What’s the good news?” Jern asks.
+
+“I have arranged for some special training for you. When you complete it, I guarantee you’ll feel more connected to the Colony and much more confident in yourselves as a result.”
+
+“What’s… the bad news?” Alis asks, looking a little concerned.
+
+I clack my mandibles happily.
+
+“I have arranged some special training for you! It’s going to be so hard, you’ll almost wish you were dead!”
+
+No sooner have I finished speaking than the shadows rise like a wave and swallow them all.
+
+It’ll be fine.

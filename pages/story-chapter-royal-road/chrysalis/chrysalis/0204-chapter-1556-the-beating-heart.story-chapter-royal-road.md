@@ -1,0 +1,65 @@
+---
+id: 48c15dcf-f528-5576-8d38-d7ec238b6e43
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1556 - The Beating Heart"
+slug: 0204-chapter-1556-the-beating-heart
+partOf: chrysalis
+position: 204
+ownLength: 1222
+unit: words
+ownProgress: 1222
+publishedAt: 2025-04-22
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2221108/chapter-1556-the-beating-heart"
+royalRoadId: "2221108"
+markedReadAt: "2026-06-29T19:50:20.815Z"
+---
+
+Zluth’s words to the Krath’lath of the Bulg detonated like explosive mould within the Slimeground. A vision from Theorazzn, instructions from the Maker, these weren’t something even Ulliz, powerful leader that he was, could hope to dismiss, even if he wanted to.
+
+Zluth watched with satisfaction at the mess of activity. Ulliz was deeply feared amongst the tribe, as a good Krath’lath should be, and when he said to move, every Krath slid like their lives depended upon it. Not that he needed to be feared and respected in this instance. Theorazzn had spoken, and every Krath not quivering with fear, that is to say, every real Krath, would rush to obey without having to be told.
+
+After delivering his message, Ulliz had pushed him away, told him to rest and heal as an ‘honoured guest’. As if the tribes had such a concept. There were deadly enemies and members of the tribe you wouldn’t kill on sight. That was the way of the Krath.
+
+The current situation had changed so many things that Zluth had considered immutable laws of his people. Tribes could ally and work together in the face of a common enemy. Theorazzn could speak in dreams and unite them further. Eventually, when the invaders were defeated and the Ancient satisfied, things would return to normal, he knew that. By that time, he would have risen to a great height. A feared and respected leader who would cause his foes to tremble at the mention of his name. Under his rule, the Slee would rise to dominate the local tribes, becoming a true power in the upper reaches of the fifth.
+
+It would be delicious.
+
+For now, he would wait, and watch. The eyes of the Ancient were on the tribes, and an opportunity would surely come for him to further his reputation. He would just have to seize it when it came.
+
+While he waited, Zluth was surprisingly well fed, served a more than generous serve of mould and meat that he greedily devoured. No sooner was the first bowl licked clean than another was pushed into his many hands, which he was only too happy to accept.
+
+Swollen with food, he stayed out of the way, watching the activity within the Slimeground through narrowed eyes as he concentrated on his digestion. Directing the acid in his body to break down the food, to thicken and condense, growing more powerful even as the nutrients infused his flesh. Along with the healing he’d received, this was enough to ensure that Zluth would make a rapid recovery.
+
+Unusual generosity for the Krath, but again, he lived in unusual times.
+
+As an experienced and talented scout, it didn’t take Zluth long to realise that the Bulg were working hard to keep him in the dark. His senses were exceptionally sharp for a Krath, but he could hear nothing but murmurs and whispers; no slugs would talk anywhere he could see their mouths. Whatever Ulliz had planned for his tribe, he didn’t want Zluth to know until they were good and ready to tell him.
+
+Well, this simply wouldn’t do.
+
+Waiting for a moment, he found an opportunity and slipped into the shadows, creeping up the wall with the stealth and guile he had honed over his lifetime. It wouldn’t be easy to move unseen in such a densely populated space, but everyone was busy, and he hadn’t seen anyone specifically tasked with watching him. He could do it.
+
+It took longer than he expected to slip deeper into the Slimeground unnoticed. Despite the urgent activity, those Krath responsible for security were on high alert, keen not to allow anything to slip past them and bring the attention of the Krath’lath down on their heads.
+
+Zluth suppressed an evil chuckle as he slid through another archway and into the central chamber of the Bulg. No doubt several guards would feed the Blubbeasts as a result of his intrusion, but the fault lay on them.
+
+As expected, Ulliz remained in his place of power, dispensing orders and listening to the members of his inner circle report on the progress of the tribe.
+
+Listening in, Zluth was able to learn exactly what the Bulg were up to. As expected, they were mobilising. A portion of their warriors had already been sent to join the expedition, but many more remained. A large group would be sent to reinforce Chozth and the others to help ramp up the pressure and kill the ant Theorazzn had chosen for death. Scouts would also be sent out. The other monster had to be found, then killed.
+
+Also, the singing. Whatever it was, wherever they hid, they would be found.
+
+Last but not least, the word needed to be spread. All the tribes must know what Theorazzn had decreed, which meant messengers would need to traverse the Dungeon, most of them alone. For some messengers, this would be easy. The nearby minor tribes, who all paid tribute to the Bulg, were simple to reach. There would be hidden paths, waystations, secret cracks and faults known only to the tribes that could be trusted, even during a wave. For the more distant, medium-sized tribes, there were also well-worn paths. Extremely dangerous routes during a wave, but known, familiar, with experienced Krath who had travelled those tunnels dozens of times before.
+
+For the larger, further, deeper tribes, there was real danger. For some, the responsibility could be pushed to other Krath whose Slimegrounds were closer. For others, they were too large, too powerful, for even the Bulg to ignore. They had to be contacted, as soon as possible. There was no time to work through an intermediary. If they were the last to find out, they would not forget the slight the Bulg had given them.
+
+To Zluth, the idea of tribes so strong that even the Bulg would tremble in fear was absurd. He had never even heard of these Krath. The tribe names meant nothing to him, and the Krath’lath who were discussed were completely unknown.
+
+More disconcerting was the rising fury of Ulliz. It was becoming more and more difficult for him to find scouts willing to brave the journeys to these deep tribes. Traversing hundreds of kilometres of deadly tunnels, heading deeper and deeper into the fifth, was close to a death sentence during a wave. The Krath’lath expected volunteers to leap forward to do the work of the Ancient, and was infuriated when none did. Several times, he was forced to lean heavily on his scouts. Until finally, he sought a messenger for the Zissth tribe.
+
+“Their Slimeground is right next to the Tainted Heart, where the strongest monsters are born,” Ulliz warned. “The Zissth are the mightiest of all the tribes we can reach, they must be contacted. Is there a scout willing to make the journey?”
+
+There were still five scouts arrayed before the Krath’lath, and though several shifted in place, to their leader’s rising fury, none were willing to put their hands up.
+
+Before Ulliz could explode with rage and consume them, Zluth spoke up from his hiding place on the wall.
+
+“I will go,” he said, returning the colour of his skin to normal and revealing himself. “Tell me the way, warn me of the dangers, and I will leave in an hour.”

@@ -1,0 +1,204 @@
+---
+id: 87cb800f-58bf-5d17-927f-d22707ffded7
+page-type-slug: story-chapter-royal-road
+title: "159 - Multiple Public Indecency Charges"
+partOf: bunny-girl-evolution
+position: 25
+ownLength: 3285
+unit: words
+ownProgress: 3285
+publishedAt: 2025-12-30
+link: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/2891927/159-multiple-public-indecency-charges"
+royalRoadId: "2891927"
+markedReadAt: "2026-06-29T20:03:28.241Z"
+---
+
+Unlike the Basic Unattributed Spells class, which had hundreds of students, the Intermediate version only had about fifty. As Elise understood it, the basic one was a prerequisite for a lot of other classes, so a lot of people took it, even if they weren’t interested, while the intermediate and advanced classes were only for people who actually wanted to dive deeper into unattributed magic. There were still plenty of those kinds of people, but with so many different time slots, they were able to keep the class sizes much smaller.
+
+It was only half full right now, which made it easy to focus on the duke’s son, but when she pulled her eyes away from him, she noticed that she had drawn the attention of everyone else too, including the teacher, who was walking in her direction with a big smile. It was an older woman, likely around 60, with gray hair tied up in a bun and large glasses with a polished golden chain around the back of her head. She was wearing a long, very colorful dress that looked like someone had taken a quilt and tailored it into a dress. It was a bit chaotic, but it combined with everything else about her, it somehow worked quite well.
+
+“Hello!” she said enthusiastically. “You must be Eleanor!”
+
+“Yes, that’s me,” Elise replied.
+
+“Welcome to Intermediate Unattributed Spells! I am so happy to have you here.”
+
+“Thank you for having me,” said Elise, a little put-off.
+
+Overly enthusiastic people had always been Elise’s least favorite to deal with. It wasn’t because she disliked them though. It was just that she had no idea how to deal with them. The effect was amplified with this teacher because unlike most people who said they were “so happy,” she actually was. In fact, the emotional feedback Elise got from {Sense Emotions} was intense enough that she wondered if the teacher was on Euphoria.
+
+“I am Professor Patricia Dellinger, but you can call me whatever you’d like. Professor, Dellinger, Patricia, Patsy, Delly… Even Mom! You wouldn’t believe how many students accidentally called me that.”
+
+She chuckled at that statement, then turned side to side, making her dress float outward as she looked around the room.
+
+“Why don’t you have a seat over there next to Cassie! We had an odd number of students until you joined, so she always had to join another group when we split into pairs, but now we have the perfect number!”
+
+The excited professor gestured over to Elise’s left, where a blonde girl with shoulder-length straight hair gave a small wave and a nervous smile. She seemed nice enough, but unfortunately for Elise, she sat right behind Liam Grane. There was no room to complain, so Elise just nodded.
+
+“Sounds good,” she said.
+
+“Wonderful!” said Professor Dellinger. “You’ll be a little behind, but lucky for you, you didn’t miss much! And since this is a practical class, you can make up for what you missed by just practicing a little extra! After class starts, I’ll stop by your seat to give you a quick make-up lesson and then you can jump right in!”
+
+“Thank you,” said Elise.
+
+“No problem! Alright, I’ll leave you two to get acquainted. Have fun!”
+
+Without waiting for Elise’s response, she twirled around and walked back up to the front of the classroom, bouncing with every step and humming a strange tune. Elise watched her go for a few seconds, then turned to head to her own spot.
+
+Since the class was a practical class, most of the room was empty space. There were “desks” all around, but the desks were more like wooden cubes with one side open. So that a chair could slide into it. They weren’t really meant for studying though, so they didn’t need to be anything more. Their real purpose was to provide students a safe place to stow their bags while practicing, and occasionally, to give them a hard surface so they could take notes. Elise was familiar with them after her week in Basic Unattributed Spells, since they used the same style of classroom.
+
+“H– Hello,” said the blonde girl, Cassie, when Elise arrived at her desk.
+
+“Hi,” said Elise. “My name is Eleanor. Nice to meet you.”
+
+“Nice to meet you too,” said Cassie.
+
+Both were silent after that, Cassie because she was nervous, and Elise because her attention was taken up by the arrogant noble in front of her who was fixing her with a haughty glare.
+
+“What are you looking at?” he asked.
+
+“You,” said Elise. “What are you looking at?”
+
+“A commoner who doesn’t know respect, apparently,” he said with a sneer.
+
+Cassie let in a small gasp, and Elise had to refrain from rolling her eyes. Then, she raised an eyebrow as she felt the young noble’s aether intensify slightly. Everyone in the vicinity looked over at him as he did this, most with a bit of reverence in their eyes. Elise immediately recognized what he was using as an aura skill. For a moment, she was tempted to respond with her own, but that was a fantastically stupid way to blow her cover, so she just continued to stare at him instead as his aether did absolutely nothing to her.
+
+“Tsk,” he scoffed, disabling the Skill and turning away.
+
+Elise realized belatedly that being so obviously unaffected was probably suspicious, but she found that she didn’t really care. She was pretty sure that her existence in general was suspicious, so something like that wouldn’t be the straw that broke the camel’s back. As long as she didn’t do anything blatant, like disabling her suppression skill and activating {Royal Presence}, she would probably just remain mildly suspicious.
+
+Plus, if Titania was correct, she probably wouldn’t have to maintain this identity for very long, and she always had the backup fake identity to fall back on. Attending school as a literal princess would probably get annoying, but it wasn’t the end of the world.
+
+With the noble’s attention no longer on her, Elise turned back to her deskmate, who was quite shocked by the interaction. She was clearly not a noble at all, or at most a member of a very minor noble house, so seeing Elise act like that to the son of a noble was surprising. Out of curiosity, Elise used {Inspect} on the other girl to see what her Class was, and when she saw it, she was quite surprised.
+
+[ Independent Archaeologist, lvl 18 ]
+
+Huh, Elise thought. What’s an archaeologist doing here?
+
+She couldn’t exactly ask that out loud though, so instead she started a different conversation.
+
+“So what has the class covered so far?”
+
+“Hmm?” said Cassie. “Oh. Um. Well. We were working on {Levitate}.”
+
+“Is that the one that’s based on {Telekinesis}?”
+
+“Y– Yeah.”
+
+Cassie was too nervous to make eye contact, or even speak without stuttering, apparently, so Elise decided to let the conversation end there. Her curiosity was piqued, but she didn’t need to sate it now. Besides, there were only a few minutes before class began. They could always talk later while they practiced.
+
+Elise spent the rest of the time before class observing the rest of her new classmates. Most of them gave her a few curious glances, but nothing more. None of them really jumped out at her either. There were a few with quite a bit of mana who were clearly heavily focused on mana, but nothing absurd, and there were a few with so little mana that she wondered if they could even complete the coursework. Cassie was among the latter group. Elise herself was somewhere in the middle, though she suspected that was only due to the fact that all her Species had been of high rarity and inflated her mana stats beyond what an aether specialist of her level would normally have.
+
+As far as aether went, there was no one of note. The one with the most was young master Liam Grane himself, but even so, he didn’t actually have much. He lost out to everyone in the Aetheric Illusions class by a fairly wide margin.
+
+And if she set aether and mana aside, and just looked for people who seemed interesting… Unfortunately, she was the most interesting-looking person in the room. Everyone else just looked like normal young adults.
+
+“Alright, class, it’s time to begin!” said Professor Dellinger the instant the clock reached the top of the hour. “We have a new student today! Everyone say hello to Eleanor Gray!”
+
+There was a chorus of unenthusiastic greetings as the entire room turned their attention to Elise.
+
+“She just completed Basic Unattributed Spells, so she’ll be joining us for the rest of the semester, unless she graduates early from this class too.” She laughed out loud, joined by none of the students. “Today we’ll be continuing our work on {Levitate}! Remember, no more than two feet off the ground!
+
+“I’ll be catching Eleanor up to speed, then I’ll walk around the class to give advice. You may begin!”
+
+The sound of dozens of chairs scraping across the tile floor echoed throughout the room as the students got out of their seats and took positions in the open spaces in front of the desk. Meanwhile, the professor bounced her way over toward Elise, just as cheerful as ever.
+
+“Hello again, Eleanor!” she said. “Are you ready to learn about {Levitate}?”
+
+“Yep,” said Elise.
+
+“How much do you know about it already?”
+
+“It’s a spell you use on yourself, right?” replied Elise. “And it’s based on {Telekinesis}?”
+
+“Very good! Looks like you don’t need me much at all! Hahaha! Well, {Levitate} is one of my personal favorite spells! In fact, whenever I’m not in a rush, I always use it instead of {Fly}. There’s just something so satisfying about slowly floating around without a care in the world. Just make sure you’re wearing pants when you do it though! I accidentally forgot I was wearing a skirt once while I was heading out to buy some snacks and that’s how I got my second public indecency charge!”
+
+What?! thought Elise as the professor laughed at her own anecdote. Second?!
+
+“Oh, there was another time that I did that while flying near the boys’ dormitories. But you wanna know a secret?” The professor leaned in and whispered in Elise’s ear. “That time, it wasn’t an accident.”
+
+Even with {Transformation} giving her more or less perfect control over her body’s appearance, Elise couldn’t stop herself from blushing.
+
+“And that’s how I met my first husband!” said the professor much louder while leaning back and laughing. “But you didn’t come here to hear about my life story, so I’ll get right into things. The {Levitate} Skill Quest is very easy to unlock, as long as you have {Telekinesis} at a high enough level! All you need to do is use it to lift a person! It can be yourself or someone else. Many people find that it’s easier to do it on other people first, since casting {Telekinesis} on yourself isn’t very intuitive, and that’s why we’re in pairs!
+
+“So, for right now, your goal in this class is to get {Telekinesis} to the level that you need it to be at to lift a person, and then lift a person! It’s that simple! Cassie will be your training partner. Do you have any questions?”
+
+“No,” said Elise.
+
+Not about the Skill, at least, she added mentally.
+
+“Wonderful! Well, if you have a question later, feel free to call me over! I’m always happy to help!”
+
+How is she allowed to teach here? Elise wondered as the professor walked away.
+
+Public indecency sounded like the kind of crime that would get someone barred from teaching. Especially if she had multiple charges of it. Did the university just not care? Or was she such a valuable asset that they were willing to look past it?
+
+Elise observed her for a few seconds, trying to sense her mana, but found that she couldn’t. It was as though the professor didn’t have any, which was obviously false. And when Elise used {Inspect}, the result was just a bunch of question marks. Elise was worried for a moment, but neither the woman’s actions nor aether indicated that she had noticed, which meant that either she had an artifact to block inspections, or that she was simply so high level that Elise couldn’t see it. And given that Elise had successfully inspected 8th tiers in the past, that could only mean she was 9th.
+
+Before she could get too deep in her own thoughts, she heard a noise from behind her and saw Cassie getting out of her chair. Shaking her head slightly, Elise turned her attention back to the class and started preparing herself to work on {Telekinesis}. Using the Skill on herself was not something she had really ever considered before. She had wings, after all, so she didn’t need mana to fly.
+
+“So, umm…” said Cassie. “What level is your {Telekinesis}?”
+
+Elise glanced at her Status Window, grimacing slightly at how she had been so lazy that she had made almost no progress since evolving.
+
+“Seventy,” she said.
+
+“Oh!” said Cassie, surprised. “You might already be able to unlock the Quest then.”
+
+“Have you not unlocked it yet?” asked Elise.
+
+“Ah, no…” said Cassie, looking down, a bit embarrassed. “My mana pool isn’t very big and my {Telekinesis} is only level 48.”
+
+“Ah, I see,” said Elise. “Well, do you want to start? Or are you just going to lift some objects to level your {Telekinesis}?”
+
+“Um, can I try it on you? I couldn’t do it to the others, but you’re… Well, smaller.”
+
+“Sure,” said Elise.
+
+Elise wasn’t the shortest person in the room, but she was definitely near the bottom, and since she controlled her form with {Transformation}, she wasn’t carrying any extra fat on her, so she was definitely among the lightest as well. With Cassie’s mana pool, she didn’t know if it would be possible, but it was worth a shot.
+
+“Thank you,” said Cassie, relieved. “I’m starting now.”
+
+A second later, Elise felt Cassie’s mana leave her body and gently wrap around her own. Usually, {Telekinesis} couldn’t be used on other living creatures, since the body’s internal mana naturally rejected external mana, but if Elise just consciously chose not to resist, that restriction would disappear. The mana enveloped her and started what felt like a gentle grab, slowly pulling her upward. It didn’t hurt at all, but it did feel a bit strange.
+
+After a few seconds, it became obvious that Cassie would not be able to get Elise off the ground. Not in her current state. Elise felt a bit bad for the girl, handicapped as she was by her small mana pool, and decided to toss her a bone. Subtly, she altered her form, removing a bit of muscle here and there, and reducing her bone density. None of it showed outwardly, but it was making her noticeably lighter, and not long after, Cassie managed to lift Eise high enough that she just barely left the ground.
+
+Immediately, the mana dissipated as Cassie gasped, staring at something in front of her that Elise couldn’t see. She could only assume that she was looking at the System notification informing her that she had unlocked the Skill Quest. Elise smiled as she sensed Cassie’s happiness.
+
+“Um,” said Cassie after a few seconds. “I don’t mean to be rude, but I think you should eat more. You were… really light.”
+
+“Oh, it’s not rude at all,” said Elise. “Thank you for worrying.”
+
+“Sure,” she said, blushing slightly and turning away. “Do you want to try it on me now?”
+
+“Sure,” said Elise.
+
+Elise was pretty sure she could figure out how to use it on herself, but she had never used it on another living creature either, so she was curious how it would work.
+
+Cassie stood still, relaxing her body as Elise activated {Telekinesis}, trying to lift the other girl off the ground. It was actually more difficult than she expected. Cassie wasn’t heavy, but she was heavier than anything Elise had ever tried to lift before, and even though she wasn’t resisting, lifting up another person still felt completely different to how it usually felt when using the Skill. It was like after months of holding solid objects, she was now trying to grab a liquid.
+
+She had enough mana that she could afford to take her time though, and she fiddled with the Skill, earning a whole level in her experiments until after about a minute, she managed to get Cassie’s feet off the ground.
+
+[ You have discovered a hidden Skill Quest: {Levitate} ]
+
+[ {Levitate} (Skill Quest): Use {Telekinesis} to lift your body for five minutes without faltering. ]
+
+[ Progress: 0:00.0 ]
+
+[ Reward: {Levitate} skill ]
+
+Elise frowned at the description. Five minutes was quite a long time to be using the Skill. Even for those with larger mana pools, it would require a fair amount of mana efficiency. For people like Cassie… Was it even possible?
+
+Elise glanced over at the other girl and noticed that she seemed a bit melancholy, probably wondering the same thing as Elise. She had barely managed to lift a lightened Elise. She couldn’t even lift herself at the moment, let alone hold herself up for so long. Elise felt pretty bad for her.
+
+There was nothing she could do about it though, so after thanking Cassie, she sat down to meditate for a bit to recover her mana before she started experimenting with using {Telekinesis} on herself. Unlike when she was letting Cassie lift her, she did not lighten her body, instead doing it in her normal state. The reason for this was that she was pretty sure she could cheat her way through by just completing the Quest in a smaller form, so for now, it was better to get accustomed to her normal human form.
+
+Lifting herself was much easier said than done though, and she soon had a complete understanding of why the professor had recommended practicing on another person first. Using it on Cassie had been a new and unique challenge, but it wasn’t all that hard. Using it on herself just felt like she was using the Skill wrong. The Skill wasn’t intended for this. All Skill Quests had the user use the Skill in unintended ways, but this was the first time that Elise truly struggled with it.
+
+It took her fifteen minutes to get off the ground, and when she did, she promptly flipped over, barely stopping herself from faceplanting into the ground. From nearby, she heard laughter, and when she stood up, she saw Liam Grane and a few other boys around him glancing her direction. Liam himself was floating in the air, hands behind his head as if this was the easiest thing in the world.
+
+Elise glared at them, and they looked back, as if daring her to say something. She chose not to take the bait, turning around, but as she did, she decided to get a small bit of retaliation.
+
+Behind me! she sent to Liam Grane using {Suggest}.
+
+A split second later, she heard him gasp, then heard a thump as something heavy hit the ground. She turned with an expression of false surprise, seeing him on the ground, rubbing his rear as he slowly got to his feet. In that moment, she realized that perhaps being placed right behind him might not have been a bad thing. This could actually be a very fun class.

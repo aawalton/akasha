@@ -1,0 +1,146 @@
+---
+id: 34403890-4beb-5afb-bd93-fcb9b36a970f
+page-type-slug: story-chapter-royal-road
+title: "160 - Cheating on a Test"
+partOf: bunny-girl-evolution
+position: 26
+ownLength: 3757
+unit: words
+ownProgress: 3757
+publishedAt: 2026-01-03
+link: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/2907410/160-cheating-on-a-test"
+royalRoadId: "2907410"
+markedReadAt: "2026-06-29T20:03:30.177Z"
+---
+
+Aside from those few moments of excitement, the rest of the class was actually quite peaceful and uneventful. It was just an endless cycle of trying to float and then meditating to replenish mana. The only reason that they got more than one attempt was that the mana in the room was oddly dense and strangely eager to enter their mana cores. Elise was able to make quite a few attempts before the class ended, though her record ended up being only three seconds, since balance while levitating still eluded her.
+
+After the class ended, she said goodbye to Cassie, shared a mutual dirty look with Liam Grane, and then headed off to join Sophie at their final class of the day, Basic Magical Combat. With Basic Unattributed Spells no longer on schedule, Basic Magical Combat had taken the top spot for most boring elective. Each class thus far had been the instructor, a gray-haired, but well-built man with a voice like a drill instructor lecturing them on various types of combat and how to avoid them. The main point of the entire first week of classes was “avoid combat whenever possible.”
+
+As soon as she entered the classroom, it was clear that today would be different. Rather than his usual faded suit, the professor was wearing shorts showing off his muscular and extremely hairy legs, and a shirt that was clearly too small, his muscles threatening to tear it at the seams. The students who were already present were talking in hushed, confused whispers, but he did not react to any of them, instead simply observing. Each student who entered.
+
+In front of him, there was a long table completely covered with clothes. The clothes were neatly folded in piles, and while they varied greatly in size, the outfits were identical. Each contained a simple gray shirt, a pair of shorts, and a pair of leather shoes. In fact, it all looked identical to the professor’s own outfit. They reminded Elise enough of gym uniforms that she almost immediately knew what was going on, and when the class began, the professor's words confirmed it.
+
+“It looks like most of you did not read the syllabus,” he said.
+
+His voice was not magically amplified, but it was strong enough that it carried clearly to the ears of all 200 or so students.
+
+“Some of you probably didn’t read the class information while you were registering either,” he continued. “Despite how this past week has gone, this is a practical course. That means that you are going to be actually practicing what I have lectured you about. And to do that, you need to be dressed appropriately, which most of you are not.”
+
+Elise looked around and saw that this was very much true. Only about half the students were wearing something that they could exercise in, while the rest had chosen fashion over function. There were even a few young noble ladies in frilly dresses who now had their jaws hanging wide open. Elise herself wasn’t innocent either, having opted for a skirt that day, unfortunately, but even so, she scoffed at the noble ladies. Having dressed up as a noble lady herself more than once, she knew how impractical those dresses were even for doing everyday things, let alone exercising. And attending a class called “Basic Magical Combat” in such clothes was the height of foolishness.
+
+“Fortunately for you, the University is generous and has provided you with some activewear!” He slapped one of the stacks of clothes in front of him. “These are labeled and in alphabetical order. Those of you who were smart, grab yours and leave them in your bag and come outside. The rest of you, go into the changing rooms. No, you don’t have a choice. If you don’t want to participate, you are free to drop the class. I will not tolerate insolence. Now begin!”
+
+A few students tried calling out to him with questions and complaints, but he ignored them all and exited out of a door in the back of the classroom, leaving half the room dumbfounded, and the other half stifling laughter. One by one, the students started moving toward the front of the classroom to grab their new clothes until the entire room became an almost impenetrable wall of people. Elise and Sophie were smart enough to move early so they could be among the first to grab their clothes, but not smart enough to realize that this would leave them drowning in a sea of flesh wishing that they had mastered {Levitate} already.
+
+A savior arrived shortly though in the form of a female giant who towered over the crowd, which parted before her. She walked right beside Elise, allowing Elise and Sophie to slip in behind her, making it through the crowd before the gap closed. Safe from the crowd, the Elise made for the changing rooms while Sophie simply went back to her desk. Unlike Elise, Sophie was already dressed appropriately, so she just went straight outside after stowing away her new clothes.
+
+The classroom for Practical Magical combat was situated a little ways outside the central compound of the campus, and it had its own building. About two thirds of the building was the lecture hall, and the other third of the building was split between men’s and women’s changing rooms, with dozens on each side. Since she was lucky enough to have gotten out quickly, Elise snagged a room near the exit and began changing.
+
+Of course, she didn’t actually change into the new outfit. Instead, she just modified her own clothes to be identical before stowing the mundane outfit away in her spatial bag. Then, she went ahead and used a trick with {Transformation} that Oberon had taught her.
+
+Normally, a person was not able to access the full capabilities of their Stats. Even if one had 1000 Strength, if they never did any strength training, they would likely only have access to about half that. It was the same with all physical Stats, though not all were quite as straightforward to train as Strength. With all her efforts focused on mana and aether, Elise had no time to train her body. However, through the power of {Transformation}, she didn’t need to.
+
+One of Oberon’s first lessons for her was that she could alter her appearance however she wished, making herself more muscular or less, and things like that. Another facet of that that he only explained later was that doing so also affected her body’s ability to access its physical Stats, so by making herself more muscular, she was able to use more of her Strength, and by strengthening her Tendons, she could have better Agility and so on. She couldn’t go too far, since she wouldn’t be able to explain how she went into the changing room normal and came out looking like a professional athlete, but she could subtly alter her musculature to be denser, her tendons to be stronger, her lungs to be larger, and a few other minor things that had little to no bearing on her external appearance. She did look a little more toned than she had when she entered, but it was subtle enough that anyone who noticed would just assume they had seen incorrectly earlier. Hopefully.
+
+When she went outside, she was greeted by a view of a large, circular dirt track with a grass field in the center. The students that had already been dressed properly were all standing on the dirt track with the professor, who had returned to his still silence. Sophie waved when she saw Elise, and Elise jogged down to stand beside her.
+
+“This is so exciting!” whispered Sophie. “We’re finally gonna learn how to fight!”
+
+Elise glanced around.
+
+“Maybe…”
+
+“What do you mean maybe?”
+
+“If we’re learning to fight, then why are we standing on the track and not in the field?”
+
+Though Elise spoke in a low voice, the moment she uttered those words, the professor looked over at her and winked.
+
+“Wait, what?” said Sophie.
+
+“We’re not fighting right now,” said Elise. “We’re going to be running.”
+
+“Running?!”
+
+“Yes, running,” said the teacher, his voice silencing all the other conversations students were having. “As I explained on the first day, the results of a battle are always determined in an instant. One slip-up can spell death for you or your opponent. The more tired you are, the more you slip up. The solution? Don’t get tired.
+
+“Today, I will be assessing your basic physical fitness. This isn’t a test, and you can’t fail. I’m just finding your starting points. And before any of you complain, yes, pure mages still need physical fitness. What will you do if you run out of mana? Perhaps running out of mana in a fight means death, but it’s better to give yourself a chance instead of gasping and wheezing your way to death trying to run away.”
+
+There were still people trickling in from the changing rooms, but the professor didn’t seem to care, launching into a story about how a mage he knew had gotten cocky about his magic while neglecting his physical fitness and ended up losing his legs because he didn’t have the stamina to run far enough to safety. By the time he finished, about three quarters of the class was present, which was apparently enough for him to start everyone moving.
+
+He clapped twice, and the ground rumbled and everyone looked to the side to see a hole open up in the ground and from it, a large table emerged with a basket full of something on top of it. Elise could not see what was in the basket because all the other students were in the way, but it clearly wasn’t anything too impressive, since no one reacted with anything other than confusion.
+
+“Each of you is going to put one of these on and then run five laps,” the professor explained. “If you can’t finish all five, that’s fine. Just do as much as you can. And try to run the whole time. No walking unless you can’t run anymore. These rings will detect your Stats and adjust accordingly, making you feel heavier depending on how strong you are. This should make it fair no matter how many physical stats.”
+
+“Professor, I thought this was magical combat. Why are we doing exercise?”
+
+Everyone turned to look at a young man who had only just arrived, and clearly hadn’t heard the professor’s speech just now. He was a little bit pudgy, and while he had switched into the plain gym clothes, he still had half a dozen jeweled rings on his fingers. His expression was one of arrogant disdain. Elise was worried that the professor would go through his whole speech again, but thankfully, the professor was not that kind of person.
+
+“Maybe if your head wasn’t just for decoration and you had gotten here sooner, you would know that!” he said.
+
+“I was changing!” protested the rich kid.
+
+“You shouldn’t have had to! Now, the rest of you, get started while I knock some sense into these fools.”
+
+Elise and Sophie hesitated for a moment, but a few others immediately ran to grab rings from the basket, and soon, most of the class followed and started their run. By the time they got their rings and started around the track, Elise and Sophie found themselves right behind the same giant woman who had parted the crowd for them earlier. Elise made eye contact with the tall woman, who nodded at her in acknowledgement before accelerating, her long legs taking her much further than Elise and Sophie could go.
+
+Elise was extremely glad that she had the foresight to strengthen her body before emerging from the changing room. The ring did exactly what the instructor said, making her feel much heavier than she was. Its mana enveloped her completely, pressing down on her entire body, making each step a chore. Fortunately, it was only a chore compared to how easy it usually was. Compared to her original human body back on Earth, it wasn’t actually bad. In fact, she was pretty sure that she felt better than she would have as an ordinary human now that she had magicked herself into perfect shape.
+
+Sophie, unfortunately, did not feel the same. She had been in good shape once, but then she spent 3 months sitting around on an island followed by two more months enjoying a life of wealth, and she had no way to magically enhance it like Elise did. By the end of the first lap, which Elise estimated was probably a little more than half a mile, Sophie was sweating profusely and starting to wheeze. By the end of the second lap, she was forced to slow to a walk, and Elise had to leave her behind.
+
+Unlike Sophie, Elise felt great. She was breathing a little heavily, and she was sweating a bit, but it wasn’t bad at all. Each breath filled her oversized lungs with more than enough air, and her muscles were only just starting to feel warm. She felt so good that she was able to accelerate to more than twice her initial speed, and she finished her last three laps before Sophie even finished walking her third.
+
+She was not the fastest, but based on her speed after she abandoned Sophie, she suspected that she would have been in the top ten if she had gone all out from the start. Now, there were about twenty five people who had already finished and were now standing in the grass just inside the track. A few were talking with each other, and even laughing as the other students struggled, while a few others were sitting in the grass and breathing deeply to recover. Standing out from the bunch, Elise noticed the giant woman standing casually to the side of the group, calmly watching everything going on around her.
+
+While she was gone, another table had risen out of the ground, this one with hundreds of cups and a small fountain constantly circulating clean water. Elise wasn’t too out of breath, but her mouth was slightly dry, so she filled a cup for herself and after a moment’s hesitation, went over to stand next to the giant. The two nodded at each other, then Elise turned to look out at the others without a word.
+
+The professor was having a loud argument with the pudgy rich kid and a few others like him who were defiantly refusing to run. There were about a dozen of them in total, all of whom looked wealthy and pampered.
+
+“Fine then!” she heard the professor say loudly. “Do you think reporting me to the school will do anything? Do you think I would be doing all this if a simple report from a stuck-up brat could stop me? I’ll give you all one chance. Go cry to the school, to your mommies and daddies, and whoever else you think will listen. When you realize it’s pointless, you have two choices. Either drop the class, or suck it up and do the work. You got it?”
+
+“You won’t get away with this!” said the pudgy rich kid before storming off.
+
+“Watch me!” said the professor.
+
+The rest of the rich kids followed behind the first, their noses up in indignation. A few of them hadn’t even bothered to change into their gym uniforms.
+
+“Idiots.”
+
+Elise looked up to see that the giant woman had spoken, and {Sense Emotions} told Elise that the other woman felt just as much disdain for the rich kids as the rich kids felt toward physically exerting themselves. Elise nodded in agreement. They were indeed idiots. They had probably never been talked back to in their lives, or else she doubted they couldn’t possibly have been able to believe that their complaints would have any effect. Jelor University was one of very few organizations in the world that was too powerful to be swayed by political influence. It was not incorruptible, but she doubted that whoever those kids’ parents were would have the power to change anything.
+
+The professor shook his head in disappointment, then walked toward the opposite side of the track toward the people who had finished their runs. He stopped at the edge of the grass, not saying a word for about a minute. Five more students finished in that time, and as soon as the fifth one arrived, he finally spoke.
+
+“You all pass,” he said. “I’ll explain what I mean later, but just remember that you all have passed.”
+
+He went silent again after that, and the conversations among the finished students resumed as more and more came trickling in. The class period was almost over by the time the last of the students finished their five laps, but the professor did not look the least bit annoyed. In fact, when the final student, a short, very overweight man, finished his laps, he nodded and Elise felt a strong wave of approval from him.
+
+“Very well done, all of you,” said the professor, silencing the class. “And yes, I mean all of you. Fitness is important for combat, but what’s more important is the resolve to see things through to the end. Even if you were slow, you finished your laps. All of you here right now get full marks for today’s class.”
+
+He started clapping, and soon, the rest of the class joined in, giving a round of applause. Beside her, Elise sensed that Sophie’s spirits had been lifted from the speech, which was much-needed. She had been quite dejected when she finished so much later than Elise.
+
+“From now on, every class will take place out here,” he said once the applause died down. “Every Monday, Wednesday, and Friday, we will begin the same way as today, with five laps. The rest of the time when you finish your laps will be dedicated to combat drills and sparring. On Tuesdays and Thursdays, we will skip that warmup, and jump right into the drills.
+
+“For those of you that I told that you passed, what I meant by that was that you have met the bare minimum standard of fitness. Simply by finishing that quickly, you have passed the fitness portion of my final exam. Anyone who reaches that threshold between now and then will also automatically pass. If you fail to do so, as long as you make noticeable progress, you will pass as well. It is clear that you all come from different backgrounds with different starting levels, and since this is not the military, I won’t hold you all to the same standard.
+
+“That said, the standards I set are the bare minimum for what I deem ‘competence’ and you should all strive to reach them, even if you graduate from my class before you do. This is something that will serve you well for your entire life, not just this class. And if you plan to take more advanced combat courses in the future, you will definitely want to meet my standards. The other combat instructors are not as lenient as I am.
+
+“We have about fifteen minutes left, so for the rest of class, I’ll be going over some of the drills we’ll be doing…”
+
+The professor began explaining various types of drills that they would be doing. They were all quite simple, and clearly designed to target specific aspects of combat. There would be accuracy drills, defense drills, dodging drills, and a few more open-ended ones where the students could use their own unique Class-granted abilities to find solutions to various scenarios.
+
+At first, Elise thought that some of it sounded a bit beneath her, since she was already somewhat proficient in fighting, but then she shook her head to clear those arrogant thoughts. She had been hunting monsters for a few months now, but calling herself good at combat was definitely a stretch. At best, she was good at surviving. She had never had any formal combat training, and even if she was already somewhat evasive and her attacks were accurate, there was definitely much room for improvement.
+
+Sophie started to get excited for the class as well, now that the professor was finally letting them learn actual combat. Alongside the excitement though, Elise also sensed some anxiousness. She suspected it was related to the Fighting with Nature club. Sophie had mentioned over the weekend that she was interested in joining the rookie Dungeon team, but didn’t think she would be good enough. Now, she finally had a chance to learn to fight, but it was a beginner class, and the Dungeon competition was only a few months away.
+
+Elise put a hand on her adopted sister’s shoulder, hoping to comfort her, and it seemed to work a little bit.
+
+After class, Elise and Sophie nodded goodbye to the giant woman, who nodded back, then Elise changed her clothes and they headed back to their house. Sophie was slightly less talkative than usual when they started walking back, but soon returned to her usual self, and by dinnertime, she was chattering away like she always did. She told Nick, Bianca, and Irylax about her day, and when she reached the combat class, she did an impression of the professor that was simultaneously terrible and perfectly accurate, which made Elise snort water from her nose in laughter.
+
+That night, Elise made some minor progress on her soul realm, but nothing of significance, and when she went to bed, she tried to sense her aetheric connections and visit people in her dreams, but had no luck there. The next day, her morning classes were just as unremarkable as usual, and once they were over, she ate lunch with Samantha and Helene, which she suspected would become a regular thing.
+
+When they arrived at the clearing in the woods for Aetheric Illusions, the conversation they were having suddenly came to a halt as they saw an unfamiliar face opening the trapdoor. It was a woman in a white dress with long black hair and a face so beautiful it was hard to believe it was real. The woman looked up at them when they arrived, then started beaming.
+
+“Eleanor!” she exclaimed. “Samantha, Helene!”
+
+Elise only suffered from a brief moment of confusion before she realized what was going on and recognized the woman’s aether. It was Jessie!

@@ -1,0 +1,47 @@
+---
+id: 3cb8c655-9ca9-50ed-8e7e-cc111583cc9f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1559 - Escalation"
+slug: 0207-chapter-1559-escalation
+partOf: chrysalis
+position: 207
+ownLength: 860
+unit: words
+ownProgress: 860
+publishedAt: 2025-04-25
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2228844/chapter-1559-escalation"
+royalRoadId: "2228844"
+markedReadAt: "2026-06-29T19:50:26.538Z"
+---
+
+I have to say, the new armour is working out nicely. Not only is it resistant to the slime and slop of the fifth, but it also imparts a little of that resistance to my carapace. Which means I can endure getting splashed with the filth that comes my way a little better than I could before. Of course, being resistant is one thing, not getting damaged is quite another. As far as I know, there isn’t anything on Pangera capable of surviving prolonged exposure to the mana of the fifth stratum, and this armour will be no different.
+
+If I don’t treat it well, it’s going to need repairs sooner rather than later, and I’d rather not have Smithant mad at me so soon after she went ahead and made something so nice. I’ll do my best to make sure that it doesn’t get damaged too soon.
+
+At least I can stand on the front with a little more confidence than I did before, which is good. Naturally, that’s where I am now, unleashing as much punishment upon the enemy as I can using my Starcrusher, Gravity Bombs and Wells, Dragon’s Breath and all the other tricks I have up my carapace.
+
+The howl of Gravity Bombs has become a constant refrain lately. They’re so energy-intensive, and they become exhausted quickly when they suck up mucus, but they’re still the most efficient method for chewing up problematic monsters before they can get too close.
+
+Speaking of problematic monsters, there are more and more of them lately. The wave is intensifying, and more monsters are crawling up from their hidey-holes lower down. Right now, we don’t have the Krath herding them all towards us, which is nice, but the ones who do manage to spot the fortress always come gunning for it. Some of them have been big, beefy beasts, needing empowered Gravity Bombs to help bring them down.
+
+This is a problem that’s only going to get worse over time. There are still weeks left before the wave subsides, and until then, the pressure is only going to ramp up further and further. Well, I’m also gaining tons of XP from all of this constant fighting. I’ll need to check my Skills and mutations soon to see what I can improve. If there are any big ticket items, it’ll be a massive help, powering me up for the struggles to come. Although I’m not sure how much Biomass I’ve actually managed to get… not much, probably.
+
+Just as I’m lamenting the poor food options in this place, I hear a strange sound come reverberating up the tunnel. It’s not a roar, or scream. I’ve heard an awful lot of those since being reborn on Pangera, so I think I’m an expert at monster sounds at this point. No, it’s something entirely different. It’s like… like a rock complaining about its joints.
+
+A grinding, rumbling sound, the sound of minerals cracking and scraping, but in a… living, moving sense.
+
+I have a sinking feeling in my core.
+
+“Everyone brace! Something is coming!” I warn the platform.
+
+Pushing my brains to their limits, I spin together two Gravity Bombs, packing them tight with mana from a gravitational construct, then launching them. I dump the energy of the Altar into both as well, giving them the extra oomph they need. Immediately, the howling screech of the bombs sucks away the air and sound of the battle before they expand into voids of pure darkness, pulling in and devouring monsters and mucus alike.
+
+Despite how powerful they are, not even Gravity Bombs are immune to the degradation of the fifth; filling up rapidly with literal tons of thick, toxic mucus, those two will fade away soon. Using the time they bought, I continue to pump out as much gravity mana as I can, my minds straining as the threads of power are seized and woven into a new shape, one I haven’t used all that much. It might be a bit risky to go for a Singularity right now, but I have a sneaking suspicion that it’s going to prove necessary.
+
+Once again, a deep, reverberating mineral sound echoes up the tunnel. More desperate this time, more furious. It sounds like someone has seriously ticked off a block of quartz. What sort of monster makes a noise like that? I have no idea, but I get the feeling I’m going to find out.
+
+The local monsters don’t seem at all affected. The cleansed mana covering the platform is so offensive to them that they continue to attack, heedless of everything else that’s happening. With most of my attention locked into crafting the Singularity, I don’t have the capacity to help my fellow ants much right now; they’re going to have to hold out on their own.
+
+The noise is getting closer, and angrier, with every passing second. I’m still baffled, what sort of monster is this?!
+
+Then it comes into view. At first, I thought I saw the tunnel moving in the distance, but no, it isn’t. A block of sentient quartz? I wasn’t far off! This monster is definitely from the sixth….

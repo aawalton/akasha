@@ -1,0 +1,57 @@
+---
+id: 281e7ecb-f88b-5ff1-99c9-655b4a92032d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1465 - It Begins"
+slug: 0113-chapter-1465-it-begins
+partOf: chrysalis
+position: 113
+ownLength: 948
+unit: words
+ownProgress: 948
+publishedAt: 2024-12-04
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1938547/chapter-1465-it-begins"
+royalRoadId: "1938547"
+markedReadAt: "2026-06-29T19:47:41.611Z"
+---
+
+Solant stood, as always, in the command centre. She was, as always, calm, centred and focused.
+
+Around her flowed the organised chaos of the HQ, a constant stream of pheromone conversations, scouts coming in and out, generals discussing, theorising and carvers planning, plotting, working through construction issues and tracking logistics. It was a confusing, chaotic and neverending barrage of information that would have completely flattened most ants, or even most individuals around Pangera, but she wasn’t just anyone, she was Solant.
+
+She was, quite literally, built for this.
+
+Her brain, or brains, to be more accurate, filtered and allocated information through a precise network of channels, her Logistics Matrix able to funnel the right information to the right processing centres, which then synthesised the information, weaving together the relevant pieces to create a coordinated whole out of the chaos.
+
+Solant had designed herself very carefully, ensuring every drop of evolutionary energy was wisely spent to turn her into the best general she could possibly be. Her mastery over the battlefield had increased dramatically, but the need for her to be on the frontlines managing the fighting herself had gone down just as much.
+
+It was a shame. She missed it, but to operate at the level her Senior had demanded required sacrifices, and she had adjusted her evolutionary priorities accordingly. There would still be chances for her to put her true speciality to use, of that she was sure, but for now, she was responsible for so much more than a single battle: an entire campaign, with millions of ants, thousands of generals and hundreds of different battlefields. She had changed herself to become a vessel, a receptacle that could receive the necessary information, process it, and apply it to her tactical and strategic framework.
+
+What seemed like chaos, what appeared to be a messy cacophony of pheromones, was, to her, a symphony, one that only she could understand.
+
+And now, there were discordant notes slipping in here and there, burrs in the data that threw the balance of the whole composition out of order. Of course, she knew who was responsible, the Krath weren’t even being secretive about it, they wanted her to know they were out there, playing games. They’d been poking and prodding for days now, ceaselessly.
+
+The mana levels in different tunnels were beginning to fluctuate wildly as the Krath utilised techniques outside the Colony’s sphere of influence to manipulate the flow of energy. Thankfully, they couldn’t control the mana completely, as that would allow them to starve the wuffers by cutting off the supply, then bringing it back all at once, crushing the Colony’s weakened safe-zone.
+
+Well, they hadn’t done it yet. Solant had, of course, planned for such an eventuality, but those countermeasures weren’t in place yet.
+
+Unique and challenging monsters were beginning to appear, driving deep into the blue mana and disgorging bile, mucus and parasites, heedless of their own lives. They weren’t intended to succeed, Solant knew that much; the Krath were merely testing what they could get away with, how long it took the blue mana to cleanse the corruption.
+
+And of course, the more mundane efforts. There was never a time when they weren’t under attack. This had always been true in the past, random monster spawnings would rush headlong at the Colony whenever they appeared, but this was different. The Krath were coordinating the spawns, gathering and directing them somehow. Different sides of the fortress were hit at the same time, then the same tunnel four times in a row, then six points simultaneously. Then there was a break, nothing at all for two hours, only for the peace to be broken by ten different tunnels being attacked at once. Alongside those strikes had been a small, hidden attempt to create a hidden tunnel behind the ant lines and flood the area with toxic spores and slime. Naturally, the mages on site had detected the intrusion and countermeasures were enacted, preventing the catastrophe, but she knew the enemy was only testing the waters.
+
+Relentlessly, viciously, probing for a weakness.
+
+In all of these attacks and intrusions, the Krath themselves had never been seen. They remained out of view, hidden, watching and waiting for an opportunity to reveal itself. The slugs probably imagined that the ants would begin to stumble under the pressure, to falter as the danger escalated higher and higher.
+
+Most would, or at least, she believed they would. Solant imagined that humans, or ka’armodo, or even the Krath themselves perhaps, would be susceptible to such emotions.
+
+To her soldiers, this was merely work, and work would get done.
+
+With every minute that ticked by, the living model in front of her continued to grow and expand. Sections of wall were being finished, channels for mana, wuffer platforms, roads, chambers, storehouses, powered transport shafts, elevators and distribution networks, all being reported as done, allowing the mages to shape the living stone to include the completed work in the model. There were over a thousand construction crews working at any given moment, and progress toward the completed fortress was rapid.
+
+If the Krath took too long to find a weakness, then the work would be complete, and Solant would happily slam the door in their faces. The family would then wait out the wave, growing stronger and developing the strategy for the second phase of the invasion.
+
+Until then, it would be the Krath versus the systems, discipline and tactics she had instilled in the army that guarded the tunnels.
+
+Solant didn’t like to gamble, but she was very confident on which side was going to win.
+
+Which was a good thing, since she hated to lose.

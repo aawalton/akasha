@@ -1,0 +1,101 @@
+---
+id: 3f42d046-04f9-5f5f-8c97-964da03be704
+page-type-slug: story-chapter-royal-road
+title: "155. Mortal Peril"
+slug: 0155-155-mortal-peril
+partOf: breaker-of-horizons
+position: 155
+ownLength: 1898
+unit: words
+publishedAt: 2021-11-25
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/794263/155-mortal-peril"
+royalRoadId: "794263"
+---
+
+When Caden left the cluster of buildings housing the arena and the duelling chambers and stepped out into the cold air, he felt weighed down by more than just the mental exhaustion of the training he had endured.
+
+The worries that plagued him now were nothing like the ones that had troubled him at the start of the first term. Looking back now, those fears and uncertainties about adjusting to life as a student in the Academy seemed laughably simple. The shadow of learning how to unmake his sister's minor prophecy had cast a slight pall over his entrance into the Academy, but even that paled in comparison to the things he had to face now. So much had changed in less than half a year.
+
+Absently, he blanketed himself in a soft layer of arcana and gently warmed it to ward off the chill. A moment later, the ease with which he managed this bit of practical arcanophany made him realise how far he had come. An ordinary student would still be stuck using a small bit of arcanic fire and a thin shield to keep the heat in, but he had already delved so far into the nature of arcana that he knew how to transmute it in subtler and more efficient ways.
+
+'Yes. The unchosen-sighted-{~?~} has grown much. Grown beyond the sight of the Fateweavers. But not yet beyond their reach.'
+
+Caden continued walking as he glared up at peak of the Spire. It was too dark to really make out against the night sky, but in the arcana, it was still possible for him to pinpoint the source of the voice. The Academy augera was speaking to him, its presence clearly centred in the crystal dodecahedron inside the Spire.
+
+'What do you want?' he asked coldly.
+
+'To warn,' the augera replied, conveying a sense of solicitousness. 'Fateweavers cannot read your threads, but they can see the space it occupies. They will try to use other threads to guide the emptiness, to fill it in one way so it goes another.'
+
+'Yes, I know that,' Caden replied tersely. 'Is that all? Are you sure the warning doesn't come with strings attached?'
+
+This time, the augera's voice was tinged with a hint of anger, as if it had been wronged. 'Strings always attached. But you choose your strings. We told you this. And you took from us a way to hide auric-ambient-flares.'
+
+'Yes, I chose that, but you didn't tell me about that when you got me to ensorcel Ambrose when we first met,' Caden snapped.
+
+'You reached out to us. Offered us a bargain — asked for us to protect you from the Prophecy in return for your service of ensorceling the Chosen-Blinded-Jailer,' it answered, indignant.
+
+Caden let out a loud snort, and the sound ended up startling him a little since the conversation had been entirely conducted through arcanic contact. But the anger he felt was now giving way to simple tiredness. 'I'm not going to argue with you. Just tell me what you want now, plain and clear. And don't you dare think of trying to slide some unknown strings in, or I swear you'll never get anything from me ever again.'
+
+Was it his imagination, or was there a sense of grudging respect from the augera? But it was gone before he could pin it down. The Academy augera seemed to withdraw a little and Caden got the impression it was conferring with the rest of the augera before coming back to him.
+
+'We want you to avoid re-establishing contact with the Six-Chained-Foundations. Fateweavers are certain to make use of them to influence you. Keep away, grow and consolidate your power, and give us future opportunities to work together with you.'
+
+'... that sounds like you want things from me, but I don't get anything in return,' Caden pointed out a little testily.
+
+'Woven-shackled-streams are no longer tied to your auric-ambient-flare,' the augera replied matter-of-factly. 'You have lost the shapes that once gave you access to sequences you never learned. When we were joined, we did not need to give you the shapes of knowing for each thing before you used them. But now we are separate, and all you are left with are the shapes of knowing in your own auric-ambient-flare.'
+
+Caden stopped. By now he was almost at the foot of the Spire, and it felt like the augera was looming over him. In his mind's eye, he imagined it like an ancient-distant-spider of sorts, dangling threads and hoping to catch him in them.
+
+'You're telling me that if I avoid the Six-Chained-Foundations, you'll re-join yourself to me so that I can make use of sequences without needing to actually know them?' Caden clarified.
+
+'Yes.'
+
+'No, thank you. I don't want to be joined to you again,' Caden said firmly.
+
+'Then, a compromise. We will not be joined, but we will offer you any shape of knowing you desire, and gift it to you.'
+
+'You mean like the sequence for complete healing? Without any strings of manipulation attached? You'll just give me the knowledge of the sequences I ask for?'
+
+The augera hesitated briefly. 'Yes. No alterations. No hidden twisted threads. Pure shapes of knowing, unsullied.'
+
+This sounded far too good to be true. In fact, it seemed to Caden that this was an even better option than having the augera joined to him while offering only a nebulous, instinctive access to sequences. '... Any sequences? Won't this involve far too much movement that isn't 'soft'? You mean the Fateweavers will just let you grant me knowledge of things like... like the sequences for the creation of a wysana?'
+
+'Cannot promise Fateweavers will not stop us. Moving softly still necessary. But if you ask, we will do all we can to give. Any sequence, from dawn of will-curse-test to present age. All that has been dreamt of and made under the watch of our web. All the craft of arcanophany in the Vaults. All the secret etchings committed only to memory. We offer all.'
+
+It was really far too good to be true. Why would they be promising so much, even with the caveat that the Fateweavers might stop them? It sounded like they were truly desperate to stop him from getting in touch with his friends.
+
+'Why don't you want me to get in touch with my friends so badly? Do you know the details of what the Fateweavers have planned if I do make contact?'
+
+'No details, but woven-shackled-streams know Fateweavers' inclinations. No threads woven yet, but they are ready to use Six-Chained-Foundations to steer unchosen-sighted-{~?~}. The Fateweaver you met warned you of this herself. Said they will work around you. Woven-shackled-streams do not wish for unchosen-sighted-{~?~} to be so close to danger, not now that you are so free.'
+
+'Thank you for your concern,' Caden replied with a touch of sarcasm. 'I'll... think about it.'
+
+'Remember. We offer all shapes of knowing. We will risk much for this. Think carefully.' The augera's presence vanished like the closing of an eye. Caden managed to pick up a little more of its movements given his more highly developed sense of oblivion, and he thought he sensed it shifting into higher dimensions, which meant that it was actually still 'there'.
+
+When he finally reached the dormitory, he was too tired to do much more than shower, change, and crawl into bed. The augera's words danced around in his head, but without the mental energy to contemplate the matter further, they simply formed an uneasy backdrop for his dreams. The augera's warning tones gave way to muddled scenes. He dreamed he was together with his friends, chasing a wild augera through a ruined Spire while the Demiurge rained arcanic lightning and detonators on them, and even though it was terrifying and horrific, he somehow still felt happy.
+
+Caden woke with a jolt.
+
+There was a stillness in the air that told him it was still in the dead of night. Blearily, he reached out for his watch on the bedside table and peered at it. It was too dark to make out, so he instinctively connected with the globelight and tuned it up just a smidge.
+
+In that instant, his highly-developed arcanic senses caught something else in the arcana. With instincts honed by his painful sessions with the Demiurge, Caden threw himself out of bed and into a corner of the room while he wrapped himself in a sheath of protective energy. A moment later, something crashed through the ceiling and onto his bed, and then sent his bed right through the floor as well. Caden stared, his heart beating furiously, as he heard the destruction go through the next two floors before coming to a rest on the ground level.
+
+Half his attention was already skimming oblivion, keeping watch for budding sequences so he could unravel them. But there was nothing after that initial surge that had awakened him.
+
+He crept back towards the centre of the room, just far enough to peek through the hole in the roof. The black night sky was the only thing that greeted him. Light snow drifted in through the gap. When he looked down, he saw only his ruined bed on the ground floor, half-buried under the debris.
+
+Caden sank a little deeper into oblivion to scan the area more carefully. When he still couldn't find anything, he tentatively called out, 'Wysana? Caldwell's wysana, are you there?'
+
+'Yes,' it replied instantly, sounding perfectly untroubled.
+
+'... I've... been attacked,' Caden said, somehow feeling a little silly despite the situation. The wysana was just so supremely unconcerned that it made him feel like he was stirring up unnecessary trouble.
+
+'It will be reported to the Demiurge immediately. He will come and investigate. Please take all necessary protective measures in the meanwhile.' With that, its presence faded.
+
+Caden didn't feel like it was entirely wise to simply crouch in a corner behind shields. It seemed almost certain that there was no one else around, so he decided to take a bit of time to layer some more complex protections over his hastily-conjured barrier before venturing downstairs. He sent arcana thrumming through his limbs so he could move more rapidly, then quickly darted down to the ground level to investigate the wreckage of his bed.
+
+He supposed it was rather fortunate that there was no one else in the entire building. Whoever or whatever it was that had attacked clearly hadn't bothered about collateral damage. Judging from the state of the bed and the rest of the things that had occupied the whole vertical section of the building, if anyone had been sleeping in the rooms below, they would almost certainly have been killed. The added bonus of having no one else around (if such a thing could be considered a 'bonus') was that Caden knew for sure that someone was targeting him.
+
+Something finally registered in Caden's arcanic senses. There was an object in the wreckage. He reached out through the arcana to extract the object from beneath the rubble.
+
+And there floating before him, as if to confirm his theory that he was being targeted, was a knife. His heart skipped a beat as he recognised it. A silver knife, just like the ones set out for dinner in Devon's home, etched with eldritch glyphs.

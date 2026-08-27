@@ -1,0 +1,197 @@
+---
+id: 06d5de9b-14f1-53d7-b61e-892dfa104f2c
+page-type-slug: story-chapter-royal-road
+title: "37: Not Zombies"
+slug: 0037-37-not-zombies
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 37
+ownLength: 2132
+unit: words
+publishedAt: 2025-09-23
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2622846/37-not-zombies"
+royalRoadId: "2622846"
+---
+
+Chloe was really confused. Those villagers were all kinds of wrong. Broken in the head, maybe, but villagers weren’t supposed to crawl around on all fours. She was pretty sure of it.
+
+She turned to Shrike, who was crouched over one of the corpses with his sword still in hand. He gave her a quick glance. “Chloe, did you get kill notifications?”
+
+“Yup, the notifications mentioned that they were all mind broken villagers."
+
+Shrike’s jaw tightened. He wiped his blade clean on the corpse’s rags. “Villagers turned into this… I’d wager Ynett’s work. These people must’ve been twisted until nothing was left.”
+
+“But the notifications didn’t say mind controlled. They said mind broken. That’s totally different, right?”
+
+“Maybe. But even if it is different, who else could twist people like this?"
+
+Yet, before Chloe could say anything, an arrow punched straight through Shrike’s neck. The shaft jutted clean out the other side, blood spraying dark across the stone as his eyes went wide.
+
+Chloe froze. “Shrike?”
+
+Then, thunk. Something slammed into her own neck. Chloe’s hand shot up, and sure enough, an arrow was sticking out of her. Seriously?
+
+With a huff, she yanked the arrow free. It felt weird, sure, but it wasn’t anything worth whining about. If anything, it just made her mad.
+
+Chloe squinted into the deeper dark of the cave as shapes shuffled closer, slipping past the edge of the glow. Five… no, seven of them. More of those not-zombies, well, “villagers,” if the System wanted to call them that, but these ones weren’t crawling.
+
+They staggered upright, clutching whatever junk they could use as weapons. Rusty knives, busted sticks, and one of them had a bow. Chloe’s eyes narrowed on him instantly. That had to be the jerk who shot both Shrike and her. And he was already pulling the string back for another shot.
+
+No way was Chloe letting him fire again. And while she was at it, she might as well smash the rest, too.
+
+She dashed as fast as she could, and her fist soon slammed straight into the first villager's jaw. Bone cracked, teeth sprayed across the stone, and the poor thing crumpled to the ground.
+
+Another lurched with a rusty sword, but Chloe dipped low, dragging her own sword clean up through its gut and out its throat. The body lifted right off its feet before she kicked it aside.
+
+Meanwhile, Bow guy finally loosed his shot, but Chloe was already too quick. She sprinted in and smashed her fist into his chest. The bow clattered away, and she finished him with a quick stab through the chest.
+
+The rest of the villagers swarmed, snarling and swinging their weapons. Chloe spun and danced between them.
+
+She caught one strike with her sword, slammed her elbow into another’s ribs, then stomped one flat on its neck. The last two tried to flank her, but Chloe sliced one across the throat before shoving her sword straight into the other’s eye.
+
+[You have killed: Mind Broken Villager (Level 12)]
+
+[You have killed: Mind Broken Villager (Level 11)]
+
+[…]
+
+[You have killed: Mind Broken Villager (Level 11)]
+
+[Experience Awarded]
+
+Chloe wiped her blade on Cloaky, her grin never fading. That’s what you get for trying to kill me, jerks.
+
+But then, her stomach rumbled loud enough to make her pause. I’m probably forgetting something… but whatever. Food first.
+
+She leaned down by one of the corpses, lips puckered in thought. The word mind broken clung to her head, and that sounded bad. If the villagers' minds were broken, then their brains were probably broken too. And if she ate one, would that make her broken as well?
+
+Chloe sulked as she stared at the limp bodies. It wasn’t fair. She was hungry, but at the same time, she didn't want to risk eating the brains of these particular villagers.
+
+Then, she looked back to Shrike. He was slumped where he’d fallen, the arrow still jutting through his neck with blood spreading beneath him.
+
+Chloe crouched beside him and nudged his leg with her boot. No reaction.
+
+She nudged harder. Still nothing.
+
+He was definitely dead. Super dead. That was a shame, he’d actually been kinda nice. But brains were brains, and letting them go to waste felt wrong.
+
+With a cheerful hum, Chloe cracked his skull open. Shrike's brain would have to do.
+
+[Brain Consumed: Shrike of Evergale (Scout Level 14)]
+
+[Experience Awarded]
+
+[New Trait Acquired: Navigator (Basic)]
+
+Chloe licked her fingers clean and blinked at the floating text. She was a bit surprised that she only got a boring sounding trait after eating Shrike's brain.
+
+But to be fair, Shrike’s brain hadn’t been anything special. Not gross, not yummy, just... okay.
+
+Then, a sharp jolt ripped through her head, making her flinch. The cave spun around her, and in an instant, she was staring out through Shrike’s eyes. Step after step, boots crunching on dirt, then gravel, then frost.
+
+The endless walking nearly drove her nuts. Chloe wanted to scream at Shrike to move faster already, but the vision dragged her along step after step whether she liked it or not. Boots crunched on dirt, then gravel, then frost, all slow and boring until the world ahead turned blinding white.
+
+A village flickered into view, buried deep under white stuff. The word snow popped sharp in her head.
+
+Chloe had seen plenty of it piling up around the cave on her way here, but this place was drowned in it. Snow really did make everything look super weird.
+
+Anyway, Shrike was there too, walking through the place. He kept looking around, all scouty and serious.
+
+The villagers, though? They didn’t react to him much, if at all. And then one word blared through her head: Ynett.
+
+The pounding in Chloe's skull spiked hard, and the vision cracked. She staggered, groaning loud, clutching her head before flopping flat on her back.
+
+After a moment, Chloe sat up, shaking herself off. The headache still throbbed behind her eyes, but under it was something new.
+
+A tug in her head, dragging her forward. It was something like an annoying little itch pointing her somewhere. Still, Chloe somehow knew the village’s location now.
+
+It was probably that new Navigator trait doing its thing. Still, Chloe popped open its description just to make sure.
+
+[Navigator (Basic)]
+
+Your senses carry a faint instinct for direction. Paths you travel are easier to recall, and new routes feel less confusing. When you focus on a destination, a subtle pull guides you toward it, growing stronger if the place was recently seen or sensed.
+
+Chloe hopped to her feet, snatched up her sword, and strutted out of the cave. Shrike’s brain had given her a general idea of where to go. All she had to do now was keep walking until the village popped up in front of her.
+
+***
+
+The jungle pressed close on every side, but Sabine stood where the canopy broke, high on a ridge that overlooked the valley below. The air was warm and wet, humming with cicadas and the distant cry of some unseen bird. She did not seem to mind.
+
+Down in the hollow below, a tower rose from the greenery. Its surface was carved through with twisting runes, each glowing with blue light.
+
+The glow crawled slowly across its face like veins, pulsing in a lively rhythm. Higher up, where the glyphs burned brightest, the plants had withered away. Even the birds circled wide, giving the place a wary berth.
+
+“So then, how shall I do things this time, mm?” Sabine asked out loud.
+
+The hooded man shifted beside her, arms still crossed. “Hopefully, with more subtlety than last time."
+
+“Subtlety? Please, subtlety is the very air I breathe. I assure you, no one does it better.”
+
+Before the hooded man could reply, a third voice cut across the ridge. “Enough posturing. Get on with it. There is still much to be done.”
+
+Sabine didn’t flinch. Instead, she turned her head slightly upwards. “Ah, Four, tell me, have you brought along any roasted peanuts? A woman does work so much better with proper incentives.”
+
+From deeper within the shadows, the voice answered without a hint of amusement. “No peanuts. Not until the job is done.”
+
+Sabine exhaled a sigh. “Cruel, but very well. You may rest assured, I won't take too long.”
+
+The hooded man glanced sideways at her. “Well, you heard her.”
+
+“Yes, yes, I’ll get to work. And I promise that it shall be as subtle as I can manage.”
+
+“Good, I’ll provide cover."
+
+The man lifted his hands, clasping them together before him. Then, almost imperceptibly at first, the world began to dim. Clouds bled into the night sky where moments before there had been none, forming out of nothing. They spread fast, rolling over the moon until its light was smothered.
+
+The sky churned until the first drop of rain struck Sabine’s hand. Another followed, then another, until the heavens opened fully and poured down in heavy rain.
+
+Finally, the hooded man lowered his hand. “Will this do?”
+
+Sabine tipped her face into the rain. The water trailed down her cheekbones, catching on her lashes before falling free. “More than enough.”
+
+She stepped forward, the ridge yawning wide before her, and flew into the storm. Her ascent was smooth, as if the air itself bent to carry her upwards.
+
+Rain battered against her cloak and hair in relentless sheets, but it slid from her like nothing more than a passing nuisance. Higher and higher she climbed, until she hovered beneath the storm’s heart, the sky itself crackling at her presence.
+
+Lightning flared above, tearing through black clouds. Sabine lifted her right hand, fingers reaching upwards. The storm obeyed instantly.
+
+Thunder rolled, swelling louder with each passing second. Lightning churned into a frenzy, writhing like a nest of serpents, gathering tighter and tighter around the focus of her hand. Strikes snapped across the sky, bound to her will as if the heavens themselves bent to her touch.
+
+Sabine's gaze never left the tower. The order was simple, destroy the tower. And she would.
+
+Her hand fell. The sky shattered.
+
+A pillar of lightning tore downward in a single strike. It slammed into the tower with a violence that split the air, bluish light consuming everything in its path. The runes flared one last time in before exploding into fragments of light, their magic ripped apart in an instant.
+
+Stone screamed as it cracked. Massive blocks split apart, tumbling in molten shards that crashed into the jungle below. The ground heaved with the force of the strike, trees thrashing as wild arcs of lightning leapt from the impact, carving through trunks, burning vines to ash, and scorching earth into black ruin.
+
+Thunder followed, a roar so immense it drowned thought itself. And then, silence.
+
+The tower was gone. In its place, only a jagged ruin smoldered in the rain. Smoke hissed where water met fire, steam curling into the night sky. What remained was no more than a blackened stump.
+
+Sabine bore no malice toward the souls within the tower, nor even toward the kingdom that sheltered them. But Sol had given the order, and as one of the Inner Circle, she would see it carried out without hesitation.
+
+For Sol’s designs reached beyond borders, beyond lives and nations. A greater purpose demanded greater deeds, and she was simply one of the ones chosen to see them done.
+
+The storm still grumbled overhead as Sabine descended, drifting down from the sky. Rain sheeted off her cloak in silver streams, her boots touching the ground with hardly a sound.
+
+“Would you say that was subtle enough for our purposes?” She asked, looking towards the hooded man.
+
+“If anything, it was more precise than I expected.”
+
+“There, you see? Proof that I can indeed be subtle when the mood takes me.”
+
+And then, another voice cut through. “Nine. Eight. Return to the rendezvous point. We’ve no time to linger.”
+
+“Ah, Four, ever so efficient. Of course, we’ll be along shortly. But might I trouble you to prepare some roasted peanuts for my arrival? A little indulgence after such a dreadful expenditure of effort.”
+
+There was a long pause. But eventually, Four’s voice returned. “Very well.”
+
+“The ones from Kelvane were quite lovely, if you recall. Just the right balance of salt and crunch."
+
+“Nine, surely you can content yourself with any other toasted peanut. It is hardly a matter worth fussing over.”
+
+“Oh, but I do believe it is. You, of all people, could procure them without the faintest trouble. And really, what is life without its small pleasures? Surely it isn’t such a terribly big deal.”
+
+“... Fine.”
+
+“Splendid. I knew I could count on you.”

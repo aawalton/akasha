@@ -1,0 +1,89 @@
+---
+id: 35eff86f-c74c-5549-a92d-59bbd0ef7fe6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1583 - Deployment"
+slug: 0231-chapter-1583-deployment
+partOf: chrysalis
+position: 231
+ownLength: 1004
+unit: words
+ownProgress: 1004
+publishedAt: 2025-06-12
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2349734/chapter-1583-deployment"
+royalRoadId: "2349734"
+markedReadAt: "2026-06-29T19:51:12.320Z"
+---
+
+Rathwyn arrived in what he assumed was the central hub of the Colony only thanks to the assistance of several helpful ants who were more than happy to direct him on his way. He thought their security might be stunningly lacking at first, only to realise he’d been directed to a small sitting room, a cup of tea steaming on the table, with accompanying scone.
+
+“I really need to speak with the diplomatic corps when I get back,” he muttered to himself as he sat down. “I refuse to allow the Golden City to be out-done by ants.”
+
+Of course, acting in his role as a diplomat, he had taken part in so many negotiations, so many welcomes, trade missions, functions and the like that he'd seen it all before. The Golden City, richest, most powerful island in the entire fourth stratum, perhaps the entire world, was more than capable of hosting visiting dignitaries in the most lavish manner imaginable, but there was something to be said for the quiet dignity and thoughtful nature of the Colony. It may not endear them to some of the royalty he had met, but to him, it spoke of their generous spirit and careful consideration of the needs of their guests.
+
+He sipped his tea and smiled to himself. It didn’t hurt that they had so quickly mastered the art of growing and brewing tea leaves, a remarkable achievement.
+
+After a few minutes of ruminating to himself, he was joined by Solant, stepping into the room quietly and closing the door behind her. The Colony had even designed their doors to be easy for their guests, and their own variously sized ants to use. There were the sort of handles a humanoid could easily grasp, and indeed he’d seen some of the smaller ants, the ones with the developed forelegs, use them as well. There were also handles designed to be gripped with mandibles. Squeezing them with enough pressure released the door, making it simple for ants to grip and manipulate them as they came and went.
+
+Since there was no one else joining them, Rathwyn took it upon himself to spin together a mind bridge and connect it to the curiously diminutive ant.
+
+[Is it rude of me to ask why you are so much smaller than other ants of your caste?] Rathwyn said.
+
+Solant clacked her mandibles, amused.
+
+[Did you really run here to question me about my size? This is not what I expected you to say to open our conversation.]
+
+Rathwyn chuckled to smooth over the slight awkwardness he had created.
+
+[I apologise, the thought struck me in the moment and I was curious.]
+
+The general waved an antenna, dismissing his apology.
+
+[It is of no matter.]
+
+She settled down into the ant-chair on the other side of the table while the mage sipped his tea again. The flavour was so rich and complex, and the aroma! Was there a subtle hint of spices?
+
+[Although the Eldest labelled my caste ‘generals,’ it would be more accurate to think of us as ‘captains.’ The bulk of my siblings fight on the front lines, helping to coordinate the soldiers and provide useful auras in the thick of fighting. I am somewhat different in that I was raised to be a general in the more regular sense of the word. I have forgone size and strength to expand my mental capacity and gain other advantages.]
+
+[That makes sense,] Rathwyn nodded thoughtfully.
+
+As monsters, with their uniquely modular and changeable biology, the Colony could craft an ideal general from the ground up. Starting at tier one, they could stuff them with knowledge and shape each evolution to create the perfect, formidable general. However…
+
+As always, the clever ant in front of him seemed to know what he was thinking.
+
+[Indeed. Even among ants, our predispositions can be different. Not every smith is as obsessed as Smithant, or as successful. Despite being social insects, born nearly identically from identical Queens, our abilities and interests can vary wildly. If you select a hatchling and try to make them a master general, it may work out well, it may not. Even among monsters, natural talent cannot be forced.]
+
+She adjusted herself in her chair.
+
+[Now, should we speak of how you might contribute to the war effort?]
+
+[Of course you know why I’m here,] he laughed.
+
+[It isn’t hard to deduce. Despite your… oddness… you scholars are not so selfish as you first appear.]
+
+Rathwyn nodded, then raised a brow.
+
+[Scholars? Plural?]
+
+[You thought you were the only one? All of your contemporaries… minus one… are in the room next door.]
+
+All he could do was shake his head.
+
+Those idiots.
+
+There was no rancour behind the thought, only a mild frustration. If they were going to stand up and help, why not do so from the beginning?
+
+[Naturally, we, the Colony, don’t want to have an international incident on our hands if you or any of your colleagues were to die in defence of this fortress. So, let's talk about what magic you can perform from a safe distance, then get you deployed before a certain someone works out that we have given her incorrect directions.]
+
+[You know about… Kathy?]
+
+[She isn’t subtle.]
+
+It was hard for Rathwyn to disagree with that. If she was going to pretend to be a scholar, it would have helped if she didn’t openly show her dislike for them at every opportunity.
+
+Another note for the diplomatic corps. Next time they wanted to foist a moron on someone, they should make sure said moron was infiltrating idiots, not high-intelligence ants.
+
+[There’s quite a bit we can do,] he said. [Without breaking any… strategic restrictions placed on us by the Tower, we are still very capable mages. For best effect, you should probably put us together. I know that limits our usefulness.]
+
+Solant tilted her head thoughtfully.
+
+[That’s fine. I can think of a platform that can use all the help it can get.]

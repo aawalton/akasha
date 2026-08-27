@@ -1,0 +1,171 @@
+---
+id: 6879da63-82fc-5ce7-9442-06c580093f6e
+page-type-slug: story-chapter-royal-road
+title: "44: Very Cold"
+slug: 0044-44-very-cold
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 44
+ownLength: 2045
+unit: words
+publishedAt: 2025-10-02
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2646191/44-very-cold"
+royalRoadId: "2646191"
+---
+
+Chloe blinked as the shiny text flickered out, still wobbling on her one knee like she might topple over at any second. Totally had it handled the whole time. Yup. Not even close.
+
+She glanced back at the steaming mess of ice and flesh splattered across the snow. The big lizard’s head flopped to the side, jaw stretched open. Chloe dragged herself a bit closer with her good arm. Sooo… do I eat it?
+
+Of course, that was a silly question. Brains always hit differently after a fight.
+
+However, some doubt did cross her mind. The Shivermaw might’ve been under Ynett’s control. What if munching it meant bad brain juice? One second she’s snacking, next thing she knows, she’s not even the one moving her own body anymore.
+
+Still, the villagers had “Mind Broken” floating above their heads when she offed them. This one just said “Shivermaw.” No creepy tag.
+
+“Safe brain snack… or brain trap?” Chloe squinted at the skull like it owed her an answer. Safe… trap… safe… trap…
+
+Her stomach howled again, louder this time. She groaned, flopping forward. “Ugh, whatever. I’m eating this brain.”
+
+With a grunt, she dug her remaining hand into the cracked skull. She pried it open with a wet crunch, leaned in, and scooped out a chunk of glistening brain matter.
+
+The bite nearly froze her jaw off, a shock of cold stabbing all the way into her skull, but she just kept chewing. She was going to enjoy every frosty bite.
+
+[Brain Consumed: Shivermaw (Level 25)]
+
+[Experience Awarded]
+
+[You have leveled up! 2 >> 4]
+
+[Strength +18, Speed +8, Vitality +12, Magic +20, Resistance +3]
+
+[Skill Upgraded: Magic Resistance V >> Magic Resistance VI]
+
+[New Skill Acquired: Frost Resistance III]
+
+[New Skill Acquired: Ice Magic Affinity II]
+
+[New Skill Acquired: Frost Scales I]
+
+[1 Trait Point Awarded]
+
+Chloe wiped her messy hand on the snow, smearing streaks of red until they melted into the frost. A strange chill curled inside her chest, and even Cloaky twitched like it felt something crawling over her skin.
+
+She hunched her shoulders with a grin. That lizard’s brain had been really cold. Totally worth it though.
+
+Before she could shake the feeling off, her vision warped. The snow vanished, and she was suddenly standing in a wide, shadowy cave. Chloe blinked, frowning.
+
+This wasn’t real. Had to be another vision.
+
+The Shivermaw was alive again, roaring so loud her bones rattled. A crowd of people rushed it with weapons raised. Of course they were puppets. At the back stood Ynett, calm as ever, acting like she owned the whole cave.
+
+The lizard’s tail lashed in a brutal arc, smashing bodies against stone. Its jaws clamped down, and two more humans disappeared with a wet crunch.
+
+Blood sprayed, but Ynett didn’t flinch. She didn’t even look interested. The beast rampaged on, tearing, smashing, shredding, until only the White Witch was left.
+
+Chloe braced herself, expecting Ynett to run, but the witch didn’t move. Instead, she lifted her hand. Ice ripped up from the ground, spearing straight through the Shivermaw's legs.
+
+The lizard shrieked, thrashing, but the frost spread too fast, locking it down. Ynett’s lips moved in silent words. Chloe didn’t hear the spell, but she didn’t need to.
+
+She felt it clawing at her own chest, that greasy tug as the Shivermaw's will shattered. And just like that, the vision popped.
+
+Chloe stumbled back into the snow. The poor lizard hadn’t stood a chance, first Ynett broke its will and took control of its mind, then Chloe had gone and eaten its brain. Oh well, at least the lizard died for a good cause.
+
+She shook her head and dragged her gaze to the glowing notifications. Her grin stretched wider until it nearly split her face.
+
+Chloe had gotten two levels at once. She could practically feel the stat boosts humming through her bones.
+
+But the real prize blinked back at her: a Trait Point. That was definitely not the kind of thing that just popped up whenever she wanted. She decided to save it for now. The last time she’d hoarded points, she’d gotten a pretty nice trait out of it. If I’m patient again, maybe I’ll get something even cooler. Future-me is gonna love me for this.
+
+Onto the other goodies she’d gotten, first up was Frost Resistance. The trait meant that ice shouldn't be nearly as scary anymore, which was nice. But then Chloe looked to the new skill she acquired: Frost Scales I.
+
+Chloe tilted her head. Scales?
+
+The lizard had those, sure, but that was part of its body. How was that even a skill? Skills were supposed to grow and level up.
+
+And besides, Chloe didn’t have any scales on her right now anyway. But, the more she thought about it, the more it felt like she was looking at this whole Frost Scales thing sideways. Maybe she just had to feel the skill out first.
+
+First things first. She stretched her arm out, squinting down at her hand. Okay, scales. Do your thing.
+
+Nothing happened. Chloe frowned, wiggling the fingers of her lone hand. C’mon, don’t be shy.
+
+This time, a faint shimmer of frost crawled across her knuckles. Thin, sharp ridges pushed out of her skin like tiny plates of ice. Chloe gasped in delight and tried to clap, only to smack her one hand against her thigh.
+
+The scales cracked off with a brittle snap. Looks like she'd need to try again.
+
+Concentrating, Chloe flexed her hand. The ice scales crept back, thicker this time, coating her knuckles. Nice.
+
+Only one way to test it. Chloe turned and slammed her fist into a big rock.
+
+The crunch echoed through the stone. Chips of rock flew, leaving a fist-sized crater. Chloe pulled back, staring at the damage, then at her hand. The scales were chipped, but her knuckles were fine.
+
+She threw another punch, then another, hopping awkwardly on her single leg to keep balance. Each blow cracked stone and showered ice-dust across the ground. The rock groaned under the abuse, but Chloe just giggled between hops.
+
+When she tried to spread the frost further, up her arm, across her chest, it sputtered out. No matter how hard she pushed, the scales clung only to her fingers, knuckles, and toes.
+
+She stomped her one foot, and her toes spiked with ice. So, full-body scales were not possible. But fists and toes worked fine.
+
+Finally, Chloe sat back. The ice scales could stay picky. But one day, she’d crack the trick and cover herself in plates from head to toe.
+
+But then, as she eyed her lopsided body, Chloe remembered something kind of important; she still only had one arm and one leg. As fun as punching rocks was, she probably needed to, you know, fix that sooner rather than later.
+
+Her eyes narrowed in thought until she remembered. Shrike. He’d died back in that other cave, the one where she first ran into the mind-broken villagers. His body should still be there, just waiting.
+
+Chloe pushed herself upright, wobbling on her single leg before catching her balance. Time to go pay Shrike a visit.
+
+***
+
+Getting to Shrike wasn’t easy. Chloe hopped, dragged, and occasionally flopped her way across the snow, leaving behind a trail of dents and smears.
+
+Eventually, she reached the cave where Shrike had died. And there he was, right where she’d left him. Chloe tilted her head, humming thoughtfully, then patted his shoulder. “Thanks in advance.”
+
+With her one hand, she got to work. It was clumsy, messy, and took way too much hopping around, but after some stubborn tugging she managed to "borrow" an arm and a leg from Shrike.
+
+The reattachment involved a lot of shoving and awkwardness. But in the end, the new parts settled in.
+
+Chloe stretched her new arm, gave her new leg an experimental kick, just to make sure they moved okay. Satisfied with her patchwork fix, Chloe left the cave and decided it was time to find Ynett.
+
+She trudged through the snow. Her focus was stretched thin, as she really pushed her mana sense to the limit. She’d been sweeping it again and again, combing the land for anything big enough to stand out. Ynett had to be the biggest lump of magic around, right?
+
+But that was the weird part. The mana she found wasn’t hidden off in some spooky place or down a cave. No, Ynett’s core blazed right in the middle of the village. It pulsed steady and bright, like it had been waiting for her.
+
+Oh, she wants me to come to her? Saves me the trouble I guess.
+
+The rooftops of the northern village poked up ahead, all frosted white and sagging with snow. The place looked quiet as Chloe strutted closer.
+
+She slipped past the first row of houses, and that’s when she felt it. Dozens of eyes turned in unison. Every villager in sight froze, their heads snapping toward her. All of them were staring right at her.
+
+Chloe slowed, tilting her head. …Huh. They didn’t do this before.
+
+Last time, they just sort of ignored Chloe unless she poked them. Now every single one of them stood frozen in place, watching her cross the snow.
+
+Chloe planted her hands on her hips and strutted right through the street, letting the villagers stare. Their heads tracked her every step, all stiff and creaky.
+
+She slowed in front of one of them, a burly man with blank eyes and a woodcutter’s axe dangling loose in his hand. His head jerked toward her with a stiff snap, and before Chloe could even raise her fist, he swung.
+
+The blade whistled past her face, close enough that Cloaky fluttered. Chloe hopped back with a sharp grin. Obviously, she wasn't just going to let a guy swing a weapon at her and not punch back.
+
+She wound her fist back, ice scales crawling thick over her knuckles, and popped him right across the jaw. The crack rang sharp in the air, echoing down the street.
+
+Yet, the villager didn’t flinch. Instead, the skin around his face and neck shimmered blue, frost blooming fast. Wait… that’s new.
+
+The frost spread, and before Chloe could yank her arm back, the man grabbed her wrist. Ice raced down her sleeve, locking her elbow in place.
+
+“Hey, no fair!” Chloe tugged, but the grip held tight.
+
+The chill pressed heavy against her skin, even though she didn’t feel pain. Before she could pull free, another villager lunged from the side. A woman this time, her blank face just as empty. Her hand slapped against Chloe’s shoulder, and immediately the same frost spread over Cloaky.
+
+Chloe twisted, jerking her arm and shoulder, but the two villagers clung hard. The ice kept crawling, weighing her down, locking her joints one by one. For a second, she pictured herself frozen solid in the middle of the street, left standing there like one of Ynett’s creepy decorations.
+
+Nope. Not happening.
+
+With a sharp growl, Chloe focused on her scales. Ice ridges burst jagged along her knuckles and toes, and she swung hard. Her frosty fist cracked into the man’s temple, and this time his head snapped back.
+
+She spun and kicked the woman square in the stomach. The impact sent her staggering back, Cloaky shedding chunks of ice where her hand had been.
+
+Chloe stumbled free, shaking her arms. The frost shattered away in brittle shards, though patches still clung stubbornly to her sleeves. Both villagers staggered a step, then stilled. Their dull eyes glowed faint, a pale, hungry blue. Light spread over their bodies, pulsing under their skin. That… looks bad.
+
+Sensing something bad might be coming, Chloe backed away. She ran behind the nearest house, pressing herself flat against the wall. A second later, the world lit white.
+
+The explosion thundered through the village, shards of ice and snow ripping down the street. The ground shook beneath her boots, dusting Cloaky in powder.
+
+Chloe peeked around the corner just in time to see a plume of frost blast skyward, scattering icy debris across the rooftops. When the mist cleared, the two villagers were gone. Only craters of ice remained where they had stood.

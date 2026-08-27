@@ -1,0 +1,93 @@
+---
+id: 947c2e68-b106-51c6-b30c-0d770c168160
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1521 - Fortress Interior"
+slug: 0169-chapter-1521-fortress-interior
+partOf: chrysalis
+position: 169
+ownLength: 993
+unit: words
+ownProgress: 993
+publishedAt: 2025-03-04
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2102294/chapter-1521-fortress-interior"
+royalRoadId: "2102294"
+markedReadAt: "2026-06-29T19:49:15.025Z"
+---
+
+The inside of the fortress has become an interesting place since the wave started. After I take my requisite eight hours of rest, satisfying my own standards and getting the three human children off my case, I decide to poke about the inside for a few minutes, just to see what’s going on. To be specific, I want to see what was going on particularly in the upper and outer layers.
+
+The tunnels are packed full of ants and militia, running to reinforce one of the platforms, or on their way back from one. It’s weird the way we defend this fortress. There’s no manning the walls or any such thing down here, all we have to do is defend the platforms. Mana is flooding in through the channels now as more and more wuffer stations come online, stuffing the fortress full of cleansed mana and keeping us safe from the toxic nightmare outside.
+
+However, it’s exactly that cleansed environment that I’m curious about. Although the mana veins that normally distribute energy have been peeled and folded away inside the walls of the fortress, that doesn’t mean spawn points can’t form. In fact, the cleansed mana is so dense now, and continuing to thicken, that I’m convinced it has started to create a whole new type of monster.
+
+When I appear in the upper levels, the last place I saw the little critters running around, I happen to bump into exactly the ant I was hoping to see: Bella.
+
+I mean, Ellie would have also been fine.
+
+“Bella! How is one of my two favourite core shapers going today?” I greet her cheerfully.
+
+The normally chipper ant waggles her antenna disapprovingly.
+
+“You shouldn’t play favourites, Eldest. The Queens never do, and neither should you.”
+
+“I’m not a Queen!” I defend myself. “You’re my siblings, not my children!”
+
+“Even so,” she replies, a little snippily, “you’re the Eldest.”
+
+“Alright, fine. I suppose you have a point.”
+
+I reach out and prod her with an antenna.
+
+“So, what’s got you so frazzled?”
+
+Bella sighs heavily.
+
+“It’s the monsters that are spawning up here. Ellie and I have been trying to study them, now that we have some spare time from wuffer management, but it’s proving to be a bit of a pain.”
+
+“How so? Can’t you just fight some, grab a core and get all the information you want?”
+
+“Normally, yes,” she says, frustrated, “but for some reason, it isn’t quite working out like it normally would. We’re getting more and more monsters spawning at various points around the fortress, but mostly up here, for some reason, so you’d think there would be enough for them to fight each other, get levels and get cores, but they aren’t.”
+
+“Aren’t getting cores?”
+
+“Aren’t fighting each other! Not that much, at least.”
+
+I’m confused.
+
+“Uh, are you saying the Dungeon has actually produced monsters that don’t really fight? That seems… unnatural.”
+
+All monsters fight, even the sapient ones. I’ve never seen the Dungeon produce something that had an instinctive belief in peace. What the heck is going on here?
+
+“It’s not that they don’t fight at all, not exactly. It’s probably easier to show you.”
+
+She directs me to follow her, and we trot off through a broad tunnel.
+
+“I don’t have long, mind you, Bella, I have to be back on the platform soon.”
+
+“It’s not far. I’ve been trying to set up a rudimentary farm for the creatures, allowing the cleansed mana to pool within. Seeing it for yourself will be better than me explaining it.”
+
+Fair enough. As she said, we don’t have far to go before we arrive at a side tunnel that Bella asked the carvers to excavate. Within is a relatively small farm, as these things go, dug out into a pit so that we can observe from above. I barely fit through the entrance, but that’s okay; I can just get my head far enough inside to see the goings-on within.
+
+“As you can see, Eldest, the monsters are strangely… cooperative.”
+
+She isn’t wrong. Within the pit, I can see little packs of reddish globs, almost like slimes, just sort of… wibbling about together. Pale crab-looking things stalk among them, seemingly content to leave the others be. It’s almost unnerving to watch them being so cooperative. What the heck is going on down there?
+
+“Wait, I think we have an enemy spawn over there,” Bella pointed out.
+
+“An enemy?” I say.
+
+“The other monsters down there don’t fight among themselves much, but they will jump on certain types. Watch.”
+
+The mana is coalescing in specific little pits, and out of one crawls an ugly, imp-looking thing, covered in fat, finger-like tendrils that wave in the air. The moment it emerges, it tries to sneak toward the other monsters, but the crabs are having none of it. With a savagery that belies their previous chilled-outedness, they go absolutely feral, throwing themselves at the newcomer with a wild and selfless abandon that would bring a tear to Leeroy’s eye.
+
+In short order, the new arrival is no more, and the crabs waste no time consuming the Biomass before getting back to their own group and resuming the relaxed atmosphere from before. I watch the whole thing, quite stumped.
+
+“Maybe the monsters here are especially tribal?” I say. “Some types work together against others?”
+
+The real question is, are these the monsters that spawned in the fifth before it was corrupted, or are they something entirely new? The academics might know something, but I kind of doubt it. Records of the fifth before it was gooped would probably only be found… in the Legion.
+
+“I’ll keep studying them, Eldest, but as you can see, it’ll take a long time before we get enough cores to start learning something. They just aren’t amassing experience all that fast.”
+
+“Keep at it, and let me know when you have something to share. I’m curious.”
+
+“I will.”

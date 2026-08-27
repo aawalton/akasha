@@ -1,0 +1,103 @@
+---
+id: ff4532ba-776f-596e-9b8d-a9a257da51e4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1473 - Well Well Well"
+slug: 0121-chapter-1473-well-well-well
+partOf: chrysalis
+position: 121
+ownLength: 972
+unit: words
+ownProgress: 972
+publishedAt: 2024-12-12
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1952168/chapter-1473-well-well-well"
+royalRoadId: "1952168"
+markedReadAt: "2026-06-29T19:47:56.638Z"
+---
+
+“No, you can’t just hang around,” I roar at Leeroy as she helps pull the trapped and struggling members of the Immortals out of the mucus that still clings to them. “You have to get back to the Colony as soon as possible! All of you are going to be infected with toxic energy.”
+
+“Well… we might be able to… find something that will help the family…” Leeroy says, in an openly shifty way.
+
+“Do you really think dying of curable mana poisoning is a glorious death in service of the Colony?” I snap, running out of patience. “Get yourself, and our poor sibling, back to the safe-zone and get cleansed, Leeroy. If not, I’ll trap you in a gravity well and drag you back myself!”
+
+The entire column of Immortals begins to emit a sullen energy, but I’m totally uninterested in indulging them. Instead, I follow my senses forward deeper into the area under the effect of the gravity well. It’s not much, in fact, it’s tiny, but I recognise this pattern, and I’m rather surprised to find it.
+
+Casting a well that could lift up an entire mucus river took a lot of my remaining energy, and I won’t be able to maintain it much longer, but I have enough time that I don’t need to rush. I wander down to the edge of the spell and take a look. The mucus draining back into the now empty river is getting caught and rising up into the air. It’s an odd sight, to say the least.
+
+I turn back to look at the slime spreading out across the ceiling, waiting. A few long seconds pass, and nothing happens. Which is curious.
+
+I reach out with an antenna and prod a certain piece of muck, which looks no different from any of the other slime around it. I prod something fleshy, and it retracts away from the antenna before growing still again.
+
+Once more, I wait. Once more, nothing happens.
+
+Curiouser and curiouser.
+
+I whip together a mind bridge and latch it onto my target.
+
+[I know you’re there,] I say.
+
+For a long moment, there isn’t a reply, and I have to remake the bridge since the mana here decays everything.
+
+[This is unexpected,] I hear back.
+
+The voice sounds old, sort of thin? Have I found a geriatric Krath?
+
+[I’ll say. Don’t you guys melt yourselves when you get caught?]
+
+I have to say, touching minds with a Krath is… less than pleasant. Even their thoughts reek of corruption.
+
+[I… enjoy living more than a good Krath should.]
+
+Well now… that is something I don’t mind hearing. Hang on. Why the heck is this Krath more keen on living than Leeroy and the other idiots in armour behind me?! I turn back to yell at them.
+
+“Hurry up! I’m leaving soon, and you’d better be gone by the time I do, or I’m dragging you all back and putting you in mandatory rest!”
+
+A chorus of boos rises from the armoured ants, and I snap my mandibles at them in warning before turning back to my weirdly cooperative Krath.
+
+[So… you would like to continue living.]
+
+[... If possible.]
+
+[Even though it would mean betraying other Krath?]
+
+A dry chuckle.
+
+[It wouldn’t be the first time.]
+
+[That may be so, but I get the feeling you Krath betray each other regularly to other Krath. Not to outsiders.]
+
+I can feel the boiling rage just beneath the surface of his thoughts. He hates me. Hates all of us. A lot.
+
+[Gugugugugugug. That’s true; this will be a first, even for me.]
+
+[I imagine your friends won’t be all that pleased with your decision.]
+
+[Hopefully they think I’m dead.]
+
+[Nope, they’re watching you right now.]
+
+[Well, that means I can never go back, I suppose. Which means I’ll be fully dependent on you for my survival. That should make me trustworthy.]
+
+[You’re a Krath. I trust you about as much as I like you.]
+
+[I’m a very likeable Krath.]
+
+[No you aren’t.]
+
+[That’s true.]
+
+I have an odd feeling. Finally, a Krath has been captured who is willing to talk, willing to betray his own kind. I should be up on my back legs dancing the Charleston, but confronted with the reality, I’m starting to realise the problems. First of all, even under duress, how much can we trust what this slippery slug has to say?! Any of it at all? Would he even feed us malicious, false information, leading us into disaster? Come to think of it, could he be a plant, placed here for exactly that purpose?!
+
+My head starts to spin, and I seriously consider just chomping the slug and moving on with life, but I know I shouldn’t. It’s too complex for me to think about, which is exactly why there are ants who’re much smarter than me to make these decisions.
+
+[Alright, I’m going to wrap you up and take you back with me. I have no idea how we’ll smuggle you inside the safe-zone, but we’ll figure something out.]
+
+[I'm sure your masters will have a way.]
+
+My what?
+
+[Uh… sure.]
+
+Moving the Krath turns out to be easier than I thought. Once he agrees to cooperate and emerge from his hiding place, I blast him with gravity bolts until I get the balance right and drop the well. The end result has the Krath floating in midair, absolutely unable to go anywhere at all under his own power. From there, it’s pretty simple to wrap him up in a ball of air and float him along in front of me… right between my mandibles.
+
+I have to kick and poke a bunch of the immortals on the way back, but eventually they get moving and we make a fighting retreat back to the Colony.

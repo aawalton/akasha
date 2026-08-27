@@ -1,0 +1,107 @@
+---
+id: 8778ebd2-fd5a-59f1-91b3-e60867828a80
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1610 - Acceleration"
+slug: 0259-chapter-1610-acceleration
+partOf: chrysalis
+position: 259
+ownLength: 1022
+unit: words
+ownProgress: 1022
+publishedAt: 2025-07-28
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2471691/chapter-1610-acceleration"
+royalRoadId: "2471691"
+markedReadAt: "2026-06-29T19:52:06.185Z"
+---
+
+Hmmmmm.
+
+Thanks to the most broken of all Skills, Tunnel Map, which somehow works even though I can’t see a thing, I can tell that the Krath have managed to drag me to a shortcut. The speed they're taking me away from the fortress is really accelerating right now.
+
+I’m not happy about it.
+
+[Hey, is there any sign of the wave finishing yet?] I ask Solant, interrupting her thoughts.
+
+[A moment… Not yet.]
+
+Dangit! I was sure it was going to be dropping by now… this isn’t good. Every moment, I’m being dragged further and further away from safety and closer and closer to a swim I do not wish to take! If I don’t manage to get myself out of this situation, I’m going to be very, very annoyed with me.
+
+[Master? Is there a problem?] Crinis asks me.
+
+[What? Nooooo. Why would there be a problem?]
+
+[Because you threw yourself off the platform.]
+
+Oof. That’s cold.
+
+[Yes, alright, things aren’t exactly ideal right now, I’m aware. I was checking with Solant to see if the mana concentration was going down and she tells me it isn’t.]
+
+[Why don’t you just check for yourself?]
+
+[Because I don’t want the Krath to know I’m awake and alert in here! If they tear open this cocoon of slime, we’ll both be toast. I’d rather avoid that scenario if I can.]
+
+[But they can’t detect you using your special organ to communicate?]
+
+[It seems not.]
+
+Now that Crinis mentions it, I am a little surprised they can’t, actually. I’m glad, but a little surprised. This lends more weight to the theory that they didn’t have anything to do with the spiritual assaults that were made on my Nave. If they knew about the Nave and Vestibule well enough to actually attack it, then they would know enough to sniff out communication, surely?
+
+Either it can’t be done, or they don’t know anything about it, which would mean there was another culprit. I already had someone in mind, but this does make it much more likely my suspect is the one to blame.
+
+I guess I don’t have any other option than to go with the flow, still. My wounds are well on the way to healing at this stage, thanks to repeated use of the regeneration gland, and the war against contamination continues, my mind-constructs continue to work hard, fighting to break down the invasive mana faster than it can replicate itself. With every passing minute, the battle tips ever so slightly more in my favour, since less of the native energy of the fifth within my body means the speed it creates more decreases.
+
+Looking forward to the moment when that is finally dealt with. If I had a healer with me to help deal with the internal damage, I would have been able to recover so much faster, but there was no way I was going to drag one of them out here with me.
+
+Once I’m fully recovered, that’ll be something, at least. Even if I have to hop out of my protective little shell, I’ll be able to last at least for a little while, long enough to inflict some serious pain on the Krath nearby. Gweheheheh.
+
+Thinking about the Vestibule invasion has put the Templars back into my mind. I wonder what they’re up to. Even more than that, I hope they aren’t planning anything silly.
+
+Of all of them, Bertram and Jern are probably the most calm. I imagine the three kids are fairly worked up, and Alis can be a bit… fiery. I’ll check in with the more levelheaded of my spiritual defenders and make sure they aren’t doing anything foolish.
+
+[Hey there, Bertram! Anthony here. How are you doing?’]
+
+[Gah! Anthony? Is that you?]
+
+[Yes? Who else is going to contact you like this and introduce themselves as Anthony?]
+
+[Well… only you, I suppose. Hah. You caught me off guard is all.]
+
+Why does he sound so nervous? So shifty? Bertram is the newest of my Templars, but he’s a pretty stand-up sort of fellow, a bit of a gadgeteer who made his living tinkering and doing odd jobs for most of his life. Dodgy dealings are certainly not his forte.
+
+[Are you doing something you shouldn’t be, Bertram?]
+
+[Me? O-of course not!] he says, entirely unconvincingly. [Certainly, I don’t have any knowledge of any rescue plans. I-I mean… why would I? Who is there who even needs rescuing?]
+
+[Uh… me?]
+
+[O-oh! You-you do? I hadn’t heard! Erm… Oh no!]
+
+This guy… is absolutely the worst liar in the history of the universe. I can’t imagine what that must be like, considering my own incredible skill and suave manner of speech, Bertram however, is practically leaking guilt with every thought he sends my way!
+
+[Why don’t you tell me about this rescue plan?] I ask him.
+
+[Uhh… what rescue plan is that, Anthony? C-certainly none that I know of! Ha-ha!]
+
+I’ll leave you to it, then. I’m going to talk to Jern.
+
+As always, the big fellow has a very placid and calm mind, never too worked up about anything is Jern.
+
+[Jern! Anthony here! Bertram seems to be working on some sort of hairbrained rescue scheme. Can you go tell him to stop before he gets hurt? I’d appreciate it.]
+
+[Hello, Anthony,] he greets me, unsurprised by my sudden communication. This man is like a cucumber buried in an arctic hillside. Way too cool.
+
+[Oh, I can’t do that, sorry,] he tells me.
+
+Uh… what?
+
+[Why?!] I demand.
+
+Is he trying to get his fellow Templar hurt or something? The idea of Bertram waging war on the fifth with a cast iron skillet is making me very worried!
+
+[Because he’s working on my rescue plan,] Jern tells me calmly. [If he was just working on his own, I would tell him for you. Sorry about that.]
+
+Dammit!
+
+[This isn’t any better! You need to scrap your rescue plan too! Coming out here is certain death for you. Don’t be daft!]
+
+[We’ll figure something out,] he tells me, still unshakably calm. [No need to worry.]

@@ -1,0 +1,313 @@
+---
+id: c406b4d5-38af-5033-920f-07169a381561
+page-type-slug: story-chapter-royal-road
+title: "33 - Class Upgrade"
+slug: 0033-33-class-upgrade
+partOf: cat-girl-evolution
+position: 33
+ownLength: 3488
+unit: words
+publishedAt: 2025-10-08
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2660089/33-class-upgrade"
+royalRoadId: "2660089"
+---
+
+The small town is empty. I was not expecting that. When Lauren said that she had been staying there, I thought she meant like at an inn or something. Not that she had taken over the entire inn in the absence of its owners.
+
+“Where did everyone go?” I ask.
+
+“Evacuated,” says Lauren. “For the Named monsters.”
+
+“Oh, yeah. That makes sense.”
+
+Since I’m still covered in blood, the first thing I do is take a bath. There are a buncha tubs in the basement, and they have some kind of magical water pipes that pump hot water out. It’s very nice.
+
+And before a certain Annoying Blue Box living in my head says anything, baths are a completely different way of experiencing water. This doesn’t count as water. It’s more like a nice, warm hug that also happens to clean me. I still hate getting wet, but a warm bath is acceptable.
+
+While I’m in the bath, Lauren finds me some new clothes from somewhere, and once I put them on, I head to find a room.
+
+I don’t settle, of course, and take the best room. It’s on the third floor, which is the top floor, it’s the biggest room, and it has the comfiest bed. Though for some reason, the sheets aren’t done, and it smells a bit like Lauren.
+
+I’m still hungry, but in a magnificent display of self control, I decide not to make Lauren cook more for me. I want to, of course, but we just had those two steaks a couple hours ago, and she might get suspicious if my appetite is too big. Plus, I want to eat some of the Skarn meat. I’ve been curious about what it tastes like for hours now.
+
+Once inside my room with the door locked, I immediately switch back to cat form. There’s nothing wrong with the cat girl form, but sleeping as a cat is super comfy, and I bet it will be less comfy in my cat girl form. Maybe I should experiment with that later, but I haven’t slept on a bed as a cat in a little while now. I haven’t slept on a bed as a human either, but that’s beside the point.
+
+At the foot of the bed, there’s a nice open space, so I take out Skarn’s upper half, leaving it oozing on the floor. That’ll probably be a bitch to clean later. Sucks for the owner.
+
+After some deliberation, and a bit of input from Abby, I decide to just take a bite from the already exposed flesh. Apparently, Skarn’s scales are probably worth some decent money, since he was a Named monster, so I should save them instead of cutting through them to get to the meat.
+
+When I take a bite of the meat… well, I don’t know if I can really describe it. His meat is different from Flarn’s. While she was more of a savory, buttery white fish, he’s more like ahi. Ahi, but with a hint of sweetness, a naturally perfect level of saltiness, and a texture that melts in my mouth. Top that off with a healthy dose of mana, and it’s the best food I’ve ever eaten. It even beats out Lauren’s cooking, though I doubt that will be true later once I try some of her other dishes. She said she wasn’t at full capacity in the woods, and she was using ordinary steak. I’ll make her cook some eelman or octodude tomorrow to see how that stacks up.
+
+For now though, I put Skarn back in my Stomach. He’s delicious, and I would love to just devour him right now, but now that I’m gonna get a cooking Profession, I need to save my best ingredients until I can make them into meals worthy of a princess. Until then, I settle on a healthy dose of eelman and octodude, with a bit of big sharkman for dessert.
+
+Once I’ve eaten my fill, I jump up onto the bed and find the best spot, then lay down. Abby, let’s do that Class upgrade now!
+
+[ Class Upgrade options: ]
+
+[ Capable Mana Vivitect ]
+
+[ Beginner Fire Mana Vivitect ]
+
+[ Beginner Space Mana Vivitect ]
+
+[ Wannabe Vivitect ]
+
+[ Mana Asura ]
+
+[ Wannabe Mana Cloner ]
+
+[ Beginner Mana Avatar Pilot ]
+
+Hey, some of these actually sound pretty cool!
+
+“Yes, well, you’ve done some pretty cool things with your Class.”
+
+I know. Of course I deserve it. I’m just pleasantly surprised that the System came up with some decent names for once. Though what’s with the “wannabe”? Is that really a word that should be in a Class name?
+
+“Wannabe is the stage before Beginner. And the System’s names-”
+
+I see, so they’ll turn into Beginner Vivitect and Beginner Mana Cloner if I upgrade them again. Makes sense. Alright, Abby, which one is best?
+
+“They are all good. The bottom four all have stat totals defined by the System as ‘Excellent’ and it ultimately depends on what you want most.”
+
+Okay, but which one is best?
+
+“Why don’t you look through them and decide for yourself?”
+
+But then what’s the point of having you?
+
+“I am here to give you guidance, not make your decisions for you. I can at least tell you with certainty that you will not be interested in either of the elemental options.”
+
+Why not?
+
+“Either of those options would steer you toward applying those elements to your anatomical constructs, and with either element, it would no longer be comfortable or possible to pet yourself unless you gain Fire or Spatial Resistance.”
+
+Alright, yep, those are off the list. What else?
+
+“Capable Mana Vivitect is the most ‘lame’ of the bunch, but you should at least look at it to see what your baseline is.”
+
+Are you really not going to tell me which is best?
+
+“There is no best. Only the one that suits you best, and as well as I’ve gotten to know you, only you can make that decision.”
+
+Ughhhhh, fine. Show me Capable Mana Vivitect.
+
+[ Capable Mana Vivitect ]
+
+[ You are a Mana Vivitect who has progressed beyond the beginner level. Their anatomical constructs are sturdier and more lifelike. ]
+
+[ Stats per level: +12 Power, +60 Finesse, +12 Resilience, +60 Memory, +48 Willpower, +48 Sensitivity ]
+
+[ Skills: Anatomical Analysis ]
+
+[ Other: Merges Anatomical Blueprint, Anchor Point, Phantom Limb Control into External Mana Manipulation - Anatomical Constructs of the Glutton ]
+
+Pretty lame. Merging Skills sounds interesting though. Is that a good thing?
+
+“Yes. When Skills get merged, that means that you only need to upgrade one Skill to upgrade them all. Mass Skill merges like this are very valuable. Even more valuable for you since External Mana Manipulation - Anatomical Constructs of-”
+
+Emma. Its name is Emma.
+
+“Since Emma is tied to Gluttony, which is already at Stage 5.”
+
+Right. Okay, so not the worst, I guess. What about Wannabe Vivitect?
+
+[ Wannabe Vivitect ]
+
+[ You are an aspiring Vivitect, but do not yet have the skills to make your dream a reality. You can manipulate your own flesh to an extent, but true vivitecture eludes you. Still, you are working hard toward your goal, and with a bit more effort, you will likely be able to become a true Vivitect ]
+
+[ Stats per level: +30 Power, +60 Finesse, +60 Resilience, +40 Memory, +40 Willpower, +40 Sensitivity ]
+
+[ Skills: Anatomical Analysis, Internal Mana Manipulation - Fleshbender ]
+
+[ Other: Merges Anatomical Blueprint, Anchor Point, Phantom Limb Control into External Mana Manipulation - Anatomical Constructs of the Glutton ]
+
+This one sounds… creepy. What does that mean? I’ll be able to mess with my own body? Like shapeshifting?
+
+“Shapeshifting is one possible path for Vivitects. The path that I believe this Class will take you though is more of what you’ve already been doing, but making your mana constructs fleshy.”
+
+…That’s pretty cool, actually. So I’ll be able to conjure literal hands? I could leave them in places to freak people out. Ooh, or I could even do that thing I talked about before with having a bunch of arms, but they’ll be real arms instead of mana arms! Or tentacles! I could have literal tentacles!
+
+“I fear for your enemies.”
+
+As you should. Wait, but to use this, won’t I need to use my own body? What about conservation of mass and all that? I won’t be able to make extra arms!
+
+“Perhaps if you put on some weight-”
+
+Absolutely not!
+
+“Alternatively, higher level Vivitects don’t need to use their own flesh. However, while my information on this world is very limited, I don’t think that most societies would take kindly to you manipulating the flesh of others.”
+
+Right… Well, what if they’re dead?
+
+“I don’t think that killing people for their flesh is any better.”
+
+No, I mean what if I take flesh from bodies that are already dead?
+
+“You mean-? Oh. I see. Hmmm. Yes, that could work.”
+
+I bet this Class would go really well with the Gluttony Trait.
+
+“So it would seem. Also, it’s important to note that this class provides 30 more stat points each level than the basic Capable Mana Vivitect.”
+
+Sweet! Alright, that one’s on the short list. What’s next? Mana Asura!
+
+[ Mana Asura ]
+
+[ You thrive in close combat situations, using arms made of mana to multiply your damage output ]
+
+[ Stats per level: +72 Power, +72 Finesse, +72 Resilience, +24 Memory, +24 Willpower, +24 Sensitivity ]
+
+[ Skills: Heavy Blow, Split Focus, Internal Mana Manipulation ]
+
+[ Other: Merges Anatomical Blueprint, Anchor Point, Phantom Limb Control into External Mana Manipulation - Anatomical Constructs of the Glutton. Mutates External Mana Manipulation - Anatomical Constructs of the Glutton to External Mana Manipulation - Brachial Constructs of the Glutton ]
+
+Why can’t the System just call Emma Emma? It turns that whole Other section into word soup. My eyes glaze over as I read it. Also, this Class seems cool, but not for me.
+
+“It has the highest total stat gain of any of the classes.”
+
+Cool. Still don’t like it. It changes Emma to Emmb, which sucks.
+
+“If that’s your only reason-”
+
+I also like being able to make tentacles, and this looks like it’s all focused on arms. I also need to make wings in the future, so I can’t be stuck making only arms.
+
+“You’ll still be able to make other things. In fact, wings and tentacles could both be considered arms, in some ways. Though you wouldn’t be able to make legs or heads as easily anymore.”
+
+Right. So that one’s out. I need my mana heads. Next! Wannabe Mana Cloner!
+
+[ Wannabe Mana Cloner ]
+
+[ You wish to be able to make fully functional clones out of mana, but unfortunately, that skill still eludes you. However, you can still make manually controlled mana puppets, which is halfway there. With enough hard work, you may be able to make autonomous clones in the future. ]
+
+[ Stats per level: +9 Power, +9 Finesse, +9 Resilience, +96 Memory, +96 Willpower, +60 Sensitivity ]
+
+[ Skills: Anatomical Analysis, Internal Mana Manipulation - Fleshbender ]
+
+[ Other: Merges Anatomical Blueprint, Anchor Point, Phantom Limb Control into External Mana Manipulation - Anatomical Constructs of the Glutton. Mutates External Mana Manipulation - Anatomical Constructs of the Glutton to External Mana Manipulation - Body Constructs of the Glutton ]
+
+Alright, that one’s out. It changes Emma.
+
+“But-”
+
+I also don’t really like the idea of clones. There can only be one Yona.
+
+“Fair enough.”
+
+Alright, moving on. Beginner Mana Avatar Pilot!
+
+[ Beginner Mana Avatar Pilot ]
+
+[ You are taking your first steps on your journey to becoming a true Mana Avatar Pilot. You can create a basic avatar of mana around your body, and control it like your own body ]
+
+[ Stats per level: +30 Power, +70 Finesse, +30 Resilience, +40 Memory, +60 Willpower, +30 Sensitivity ]
+
+[ Skills: Mana Exoskeleton, Avatar Control ]
+
+[ Other: Merges Anatomical Blueprint, Anchor Point, Phantom Limb Control into External Mana Manipulation - Anatomical Constructs of the Glutton. ]
+
+Kinda weird that all of them merge those skills into Emma. Not that I’m complaining, but it’s just a weird coincidence.
+
+“I believe that those Skills merging is just the natural consequence of continuing along the Mana Vivitect line. Had you upgraded the Skills in a different direction, you might have gotten other Class options that didn’t do it, but since you went all in on the Mana Vivitect, all your options cater to that.”
+
+Makes sense, I guess. This one seems interesting. I was gonna do something like this already, so this just makes that much easier. It seems pretty cool too. Imagine in the future, me with a giant-ass mana body around me as I stomp through the city like a kaiju.
+
+“Are you planning on stomping through the city like a kaiju?”
+
+I dunno. Maybe if the city is, like, super evil. Or if there’s no one around. I’m not just gonna kill a buncha people, but I’ve always wanted to stomp around a city like a kaiju.
+
+“...I see. Well, it’s important to note that this Class gives 10 fewer stat points per level than Wannabe Vivitect.”
+
+That sucks.
+
+“It’s not actually all that much though. That would mean that by the time you reach the Tier 3, you would have missed out on a total of 300 stat points, or 960, with your absurd bonuses, which is frankly a drop in the bucket compared to what you have. For reference, right now, at this very moment, you have a grand total of nearly 34,000 stat points, and that number will only get larger as you level up further. Missing out on those 960 isn’t a huge deal, if you really want to be a Mana Avatar Pilot.”
+
+Hmmm… Nah. Vivitect sounds cooler. I can have real tentacles!
+
+“You’re not going to-?”
+
+I choose Wannabe Vivitect!
+
+[ You have selected the Wannabe Vivitect class! Skills and Stat points have been assigned. Please refer to your Status Window for changes ]
+
+Lauren was confused. When she was making food and eating and talking with Yona, she almost forgot about that confusion, but now that they were separated, it was back in full force.
+
+Where had Yona come from? Why was she there? Was she really a princess? Why did she set her namecard to something so obviously fake? Unless her parents were odd and literally named her “Princess Yona, the Chosen One.” But that would be absurd.
+
+The fact that she had the Custom Namecard trait at all was mildly suspicious. It wasn’t entirely uncommon for various Rogue-based Classes to unlock it at later levels, but based on what Lauren observed, the other woman wasn’t a Rogue. At least, she couldn’t imagine a Rogue voluntarily wielding a weapon larger than they were. It sort of went against the whole stealth attack schtick. Though the sword was also clearly a Soul Weapon, so perhaps she had just gotten unlucky with its shape and decided to use it to clean up after taking out the Named monsters.
+
+Regardless, it was strange. After talking with Yona, she knew the other woman wasn’t stupid, but she did seem a bit naive. She had clearly been educated somewhere, but wherever that was, it was nowhere near their current location within the nation of Elyria. Which made sense, since there were no beastpeople in Elyria, or anywhere near it.
+
+Yona had mentioned somewhere called Rushah, or something like that, but she had never heard of such a nation, and she had learned a bit about mainland geography. The name of the nation didn’t sound the least bit familiar. Maybe she had misheard? Or more likely, Yona was lying.
+
+The fact that she didn’t have a Profession was equally strange. For her to be so strong, she should have had her Class for quite a while, and she should have been at least near the peak of Tier 3. Not having a Profession was extremely strange.
+
+It wasn’t really Lauren’s place to pry, but she had an important opportunity here. Yona was powerful, clearly, since she had managed to take out not one, but two Named monsters one of which even Lauren struggled with. If she could secure the beastwoman’s help, she would no doubt reach Platinum by the end of the year. A competent Dungeon teammate was invaluable.
+
+But depending on Yona’s origins, doing that could also be dangerous. Odd people with mysterious backgrounds usually had something to hide, or something to hide from. Yona didn’t seem much like she was in hiding, but Lauren could never be too sure.
+
+As she finished up with her bath, she shook her head to clear it. Suspicion towards suspicious people was healthy, but too much was poison. Yona had done the world a great service by taking out the Named monsters, and so far, she was pleasant company. It wasn’t fair to suspect her too overtly or treat her unfairly unless she had stronger evidence beyond Yona simply being strange.
+
+She got out of the steaming tub, dried herself off, and dressed in a set of comfortable nightclothes that she had prepared. It had been a week since she got to wear them, since she had been sleeping in her armor in order to be prepared for any potential attacks. She welcomed the change.
+
+She didn’t see Yona anywhere on the bottom floor, so she assumed that the catwoman had found a room to sleep in. She did mention she would when she got out of the baths, so that made sense.
+
+Guess I’ll have to wait until morning to ask her more.
+
+Lauren went up to the fourth floor toward the nice room she had been staying in, but when she tried the door, she found it locked. She didn’t remember locking it before she left. Would she have to pick the lock again to get in?
+
+“Go away!” came Yona’s voice from within. “This is my room!”
+
+Lauren blinked in surprise, and then for a moment, considered barging in and throwing the catwoman out. Then, she took a deep breath and settled down. It wasn’t that big of a deal. It was just a room. A temporary room that they would be leaving in the morning.
+
+It didn’t matter. Lauren didn’t care. She wasn’t at all annoyed that the room she had grown accustomed to was taken without warning. Or that she would have to settle for the lower quality beds in the other rooms. Or that some of her dirty clothes were now trapped inside where she couldn’t reach them. She wasn’t at all angry.
+
+She took her hand off the handle and found that she had accidentally dented the metal slightly.
+
+Oops.
+
+“Alright,” she called back. “I’ll come wake you up in the morning for breakfast.”
+
+“Okay.”
+
+Lauren trudged away, a half-scowl on her face. She settled for one of the rooms on the third floor. It was clean, but significantly smaller and less comfortable. But she didn’t care. Not at all. This was nothing.
+
+Oddly, as she lay in bed trying to sleep, she found her mind drifting to her ingredient pouch. She recalled something that she had gotten as an import from the northern mountains not too long ago. It was a bit expensive, but tasty, and it was supposed to be a highly acquired taste. Many people couldn’t handle it at all, not able to eat more than a bite or two of any food that contained it. And it was relatively unique to Elyria, so people from the mainland wouldn’t have much experience.
+
+A smile crept along her face as she thought of a few dishes she could make with it.
+
+I’m not being petty, she thought. I’m just trying out a new recipe.
+
+Still, the smile grew wider as she drifted off to sleep, imagining what Yona’s face might look like at breakfast.
+
+Yona’s current stat sheet:
+
+[ Name: Yona ]
+
+[ Age: 0 ]
+
+[ Species: Yona, the Gastronome. Tier: 2. Level: 18. ]
+
+[ Class: Wannabe Vivitect. Tier: 2. Level: 1. ]
+
+[ Profession: --Select-- ]
+
+[ Titles: Second Lifer, System Breaker, Named, Taker of Names I ]
+
+[ Traits: Cat-like Reflexes, Gluttony, Spatial Affinity, Nimble, Fire Affinity, Custom Namecard ]
+
+[ Stats ]
+
+[ Power: 4003 (+2755) ]
+
+[ Finesse: 7069 (+4863) ]
+
+[ Resilience: 4816 (+3314) ]
+
+[ Memory: 5664 (+3897) ]
+
+[ Willpower: 5696 (+3919) ]
+
+[ Sensitivity: 7594 (+5224) ]
+
+[ Skills: Spatial Slice, Stomach of the Glutton, Bite of the Glutton, Snatch of the Glutton, Blink, Ember, External Mana Manipulation - Anatomical Constructs of the Glutton, Meditate of the Glutton, Perfect Disguise, Anatomical Analysis, Internal Mana Manipulation - Fleshbender ]

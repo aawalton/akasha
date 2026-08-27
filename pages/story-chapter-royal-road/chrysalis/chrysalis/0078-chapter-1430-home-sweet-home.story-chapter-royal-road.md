@@ -1,0 +1,97 @@
+---
+id: c1cc20dd-8750-5397-ad54-68016bc19dbf
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1430 - Home Sweet Home"
+slug: 0078-chapter-1430-home-sweet-home
+partOf: chrysalis
+position: 78
+ownLength: 979
+unit: words
+ownProgress: 979
+publishedAt: 2024-10-15
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1851128/chapter-1430-home-sweet-home"
+royalRoadId: "1851128"
+markedReadAt: "2026-06-29T19:46:18.631Z"
+---
+
+“We need more meat for the beasts,” Jozish gurbled at Zluth, her tone flat and angry.
+
+“Of course we need more meat for the beasts,” Zluth snapped, “we need more meat for everyone! Our hunters are working as quickly as they can, but these are unfamiliar hunting grounds. These things take time.”
+
+The rage was bubbling up in him, but he controlled it with difficulty. It wouldn’t do to start chomping on the members of his tribe. The previous Krath’lath had done enough of that and deprived the Slee of too many Krath. Some were incompetent, but others weren't, and now they were sorely missed.
+
+Soon the eggs would hatch and a new generation of vicious Slee would be born. It would take time for them to grow, but the Krath would never have survived if they hadn’t found ways to put the young to work. Zluth himself had tended to the mould fields, which had a much higher survival rate than the beast pits.
+
+After all, the beasts need meat.
+
+“Now, you will need to make do with the supply we have,” Zluth hissed savagely, “or we will be forced to seek alternate methods to slake the creatures’ hunger.”
+
+“There aren’t enough beast keepers left for you to kill any of us and hope to replenish our stock,” Jozish spat.
+
+“I wasn’t talking about you,” Zluth whispered with glee. “You aren’t wrong, the beast keepers are much too precious to risk. However… did you lay any eggs this season, Jozish?”
+
+The female Krath’s eyes bulged red with fury as her mouth gaped open, revealing her savage fangs. Zluth slid away from her, backing up and giving her the space she needed to control herself.
+
+“I’m glad we understand each other,” he said, once she had calmed down.
+
+Jozish glared at him hatefully.
+
+“The beasts will get their meat,” he assured her, “but do not question my decisions again unless you are willing to pay the price.”
+
+And away she went, back to the pits, while Zluth turned to deal with the next emergency, only to find Goszi waiting. The old Krath looked disgruntled, as he always did at the moment. His planned cosy retirement had become anything but, as Zluth seemed determined to work him to the bone.
+
+And the more unhappy he became, the more Zluth was determined to watch him. He’d shown how far he would go to survive, the cunning old slug, and Zluth was unwilling to give him the chance to do it again.
+
+“What word, Goszi?” Zluth asked, turning both his eyes toward his partner in crime.
+
+“The Suggoth have sent a messenger,” the old slug slurgled. “They’re waiting just outside the entrance to the Slimeground.”
+
+“Well, we can’t keep our fellow Krath waiting,” Zluth said. “We should go and meet them immediately.”
+
+“We?”
+
+“Of course, we. Lead the way, Goszi, I’ll be right behind you.”
+
+It was most amusing to see the old Krath turn without a word and head toward the entrance, uncomplaining. He’d known all along that Zluth would demand he come along. It would be interesting to see if he had any… surprises planned along the way.
+
+The two made their way through the Slimeground, and then to the narrow, winding entrance. Compressing themselves down, they slid through the concealed entrance, emerging into the tunnel outside. The two Slee on duty were still there, concealed in the nearby mould and slime, but they were alone.
+
+Zluth and Goszi both emerged, slow and careful. The eye stalks of the two guards twitched to acknowledge their presence, but never stopped scanning the surrounding tunnel. And with good reason.
+
+A dozen metres away, a pack of six Krath huddled together, compressed and concealed between the folds in the rock. They were visibly uneasy at being so exposed, and Zluth didn’t want to make them wait, not with the threat of invasion looming over them all.
+
+Prodding Goszi to go first, Zluth crept forward before he extended himself a little to expose his mouth.
+
+“Greetings, friends from the Suggoth tribe. I am Zluth, Krath’lath of the Slee.”
+
+“I am Puzith, Krath’lath of the Suggoth,” one of the slugs replied. “We will not stay long. Your words of the invasion have been confirmed. Our tribal enmity will be put to one side, and you are given free rein over these tunnels to use as your hunting grounds. We have already sent messengers to the other nearby tribes, and there will likely be a gathering soon.”
+
+“Will I be expected to attend?”
+
+“Of course. You’re the most familiar with the invasion. We will send someone to give you the details of the gathering. Is there anything else?”
+
+“Our tribe is in a difficult position,” Zluth said. “After confronting the invasion, we lost most of our beasts, our Slimeground and many fine Krath. Would it be possible for the Suggoth to provide any assistance?”
+
+There was silence for a long moment as each of the slugs absorbed this extremely unusual request. Assistance… from another tribe? That would be… unusual.
+
+“What would you need?” Puzith said slowly.
+
+“Meat, mainly. These tunnels are unfamiliar to our hunters, and we can’t afford to lose any more Krath.”
+
+One didn’t get to be the Krath’lath of a large tribe like the Suggoth without being decisive.
+
+“We will deliver some meat in the next few days.”
+
+So saying, they were gone, the six sliding away into the tunnel and quickly hiding from view. After waiting a few beats, Goszi burbled a quiet laugh.
+
+“You asked them for meat?” he chortled.
+
+“And they agreed.”
+
+“I never thought I would see the day when the tribes helped each other.”
+
+“You probably never thought you’d see a mass invasion either.”
+
+“True.”
+
+“Well,” Zluth mused as he began to make his way back into the Slimeground, “at least I have some good news for Jozish.”

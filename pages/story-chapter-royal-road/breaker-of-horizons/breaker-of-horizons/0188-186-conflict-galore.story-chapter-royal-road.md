@@ -1,0 +1,361 @@
+---
+id: 95b28cfe-2658-5776-94cf-bb24310df9c4
+page-type-slug: story-chapter-royal-road
+title: "186. Conflict Galore"
+slug: 0188-186-conflict-galore
+partOf: breaker-of-horizons
+position: 188
+ownLength: 7506
+unit: words
+publishedAt: 2022-05-31
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/917896/186-conflict-galore"
+royalRoadId: "917896"
+---
+
+Caden's mind was buzzing with the possibilities that came with the idea of using the glyph of corporeal substance in various ways, but he couldn't think more deeply about it because when Ward passed by and found him and Bertram already done with the task at hand, he posed them additional questions and variations on the original task.
+
+Thus far the cuts and abrasions had been relatively uniform or simple, so Ward took up the knife and worked on both arms of the puppet, creating new patterns of wounds for them to deal with. There were cuts that ran across each other, each differing in depth, though they still stopped short of the muscles beneath; abrasions that had a gradation across a wider swathe of skin, going from a gentle scuff to an almost-shredded mess; simple cuts layered on top of patches of lightly abraded skin; and finally a mixture of all these varieties.
+
+"Progress must be met with challenge, not stagnation," Ward said, his jowls quivering as he grinned at them, before turning away to monitor the others.
+
+Caden moved to one of the arms and considered the wounds carefully while Bertram worked opposite him on the other arm. After some deliberation, Caden decided that there wasn't anything he needed to change about the sequence itself. From what he understood about the principles of how the sequence worked, the Special Set glyphs would 'read' his intent, so all he needed to do was focus carefully upon the damaged sites and simply will for the wounds to be smoothly covered while holding the sequence in place. Still, it was best to proceed cautiously. Instead of using the sequence with the full flow of arcana at the moment of activation, he fed it gradually, watching carefully to see what the effect would be.
+
+His caution was warranted after all. The wounds did not heal cleanly. The abrasions were the cleanest as they slowly healed, but even then there were leftover flakes of skin that protruded from the surface, forming a sort of fuzz. The deeper cuts were smoothed over for only a moment before breaking open again, exacerbating the injury. He hastily cut off the flow of arcana before the sequence could ruin the puppet any further.
+
+Bertram was facing some difficulty too. He managed to erase the abrasions without any issue, but the deeper cuts split open just like Caden's.
+
+"I thought you knew this stuff," Caden remarked, a little surprised by Bertram's failure.
+
+"Not well enough, apparently," Bertram murmured to himself. He had suddenly become deeply contemplative, the cavalier attitude falling off like a mask as he brought his focus to bear on the problem. The third-year's auric-ambient-flare had been pretty telling when Caden had taken a good look earlier — the clever-potent-needle. But now Caden could see how Bertram had managed to hold on to the Top Scorer spot across all three years while running a smuggling business. Beneath that easygoing manner that he used as a social lubricant there was a prodigious intellect, and a burning will that applied it with ruthless efficiency.
+
+Quietly, Caden stepped onto the edge of oblivion to see if he could follow the tenor of Bertram's thoughts.
+
+Bertram had formed the sequence once again and was holding it in his mind where it waited, poised, ready to activate. However, instead of channelling arcana through it, he seemed to stretch the sequence out within his auric-ambient-flare, which itself suddenly shifted in its configuration. He was still the clever-potent-needle, but it was now an identity that had twisted in on itself so that some portions were in greater prominence, and it was those segments that now touched and manipulated the sequence. This, Caden realised, was probably what Bertram had meant when he had talked about 'stances'.
+
+Caden couldn't really gain access to the exact details of Bertram's thoughts without making direct contact, so he simply continued observing in silence. A segment of Bertram's auric-ambient-flare was now wrapping around the sequence like some bizarre amoeba, focusing on the Special Set glyphs at its heart. And, amazingly, the glyphs seemed to be responding, appearing to shift through various configurations themselves, acting out Bertram's stances in miniature, even as they retained their general sense.
+
+This went on for another minute or so before Bertram finally relaxed, allowing his auric-ambient-flare to flow back into its previous shape. Then, without preamble, he activated the sequence. This time, the wounds were erased cleanly, leaving the puppet's arm completely unblemished.
+
+"What I wouldn't give to know how you do it," Bertram said, shaking his head as he addressed Caden.
+
+"Eh?" Caden brought his awareness back to the physical world and shot a quizzical look at Bertram. "That's my line. How did you just manage to heal those wounds?"
+
+Bertram snorted softly. "I'd say that's nowhere near as complex as whatever it is you're doing. You were watching me somehow, weren't you? You have this look on your face when you're doing whatever it is you do to analyse sequences or observe things in the arcana. But in the upper reaches, your auric-ambient-flare isn't stanced at all. You're just there, apparently passive and inert."
+
+"Well, you've got two weeks to figure it out, as per our arrangement," Caden answered as nonchalantly as he could.
+
+"Yeah, I'll be trying my best to crack this. And if it's humanly possible to learn something like that in two weeks, you can bet that I'll get it done," Bertram said, with almost a hint of menace in his tone. Caden was left with no doubt about Bertram's utter conviction and the confidence he had in his own abilities. That glimpse of Bertram's process, figuring out the workings of an advanced arcanophanic healing sequence in such a short time, made it clear that he had a firm grasp of the principles of arcanophany, and that he wasn't just mindlessly going through a checklist and blindly trying different iterations of things.
+
+"Well," Bertram raised an eyebrow at Caden as he gestured at the puppet's other wounded arm, slipping back into his more relaxed manner, "your turn, freshie. Let's see you crack this one."
+
+Caden sighed and slipped into the arcanic sea, and he saw Bertram's auric-ambient-flare adopting another stance, becoming somehow more diffuse around the edges. Bertram clearly wasn't about to pass up this opportunity to watch Caden up close. It was tempting to just sit there in the arcanic sea and try to figure out more about Bertram's 'stances', but Caden thought it wiser to focus on the task at hand and give Bertram a genuine opportunity to observe him at work. He didn't want to exhaust Bertram's goodwill or be the first to act in bad faith in their tenuous partnership.
+
+It occurred to Caden that perhaps Ward had set a task that was impossible for him to complete without any help, at least at this point in time. After all, if not for Bertram telling him about the glyphs of pattern replication and corporeal substance, Caden wouldn't have been able to break down the functions of the sequence. Still, he was determined to try and figure out whatever he could. At the very least, he might learn something from the process.
+
+Taking his cue from what he had seen Bertram doing with the stances, Caden focused his attention on the Special Set glyphs of pattern replication and corporeal substance. Professor Ward had already explained the sequence worked in two segments, and Caden guessed that these two glyphs were the most foundational to how the healing itself worked, and that the others he did not yet recognise were aimed at fortifying the body. That gave him a bit of hope, because it meant that he probably already knew all he needed to know in order to get the sequence to heal these complicated patterns of wounds.
+
+By a simple process of elimination, Caden decided that he ought to look more deeply at the glyph of pattern replication. The name explained its function at a superficial level, but Caden didn't know how it actually worked.
+
+In the arcanic sea, the glyph was a dense knot, radiating purpose and significance in a way that those of the Basic Set did not. It was nowhere near as inscrutable as the nameless glyphs that Caden had once seen in oblivion which had been used to trap Emilia, so he could parse a little of its intent just by drawing closer to it and watching closely. He fell into quiet contemplation, watching how the arcana drifted through the glyph itself, and reading its eddies and swirls.
+
+Bertram had manipulated his own auric-ambient-flare in what he called a 'stance', and that had somehow helped the glyph work differently. Special Set glyphs interacted with the user and changed to fit their intention, but apparently the transference of intent wasn't perfect, so that meant getting the glyph to work differently came down to a communication issue. It seemed silly to think of 'communicating' with these abstractions of meaning, but Caden understood from the augera that it wasn't really about speaking with glyphs. 'Shadows of our light', the augera had said, referring to the glyphs. The very nature of the glyphs was tied to the essence of the augera. And Caden had spent all this time exposed to the raw stuff of their thoughts, so he understood that the augera were not like mortals — they did not think or feel in the same way. Their experience of reality itself was almost entirely alien, and it was only supreme condescension on the augeras' part that allowed Caden to understand them so easily. Did that mean the glyphs only worked at that slender intersection between human understanding, and the augeras' understanding of human understanding? Perhaps that was why 'precision is important'. How could he bridge the gap, and help them understand him more precisely?
+
+And it clicked. A memory surfaced — Caden had been in a clearing with Emilia, but that clearing was not a real space, simply a construct of their minds to deal with the raw material of oblivion. They had spoken then about the shape of their thoughts, about the malleability of their own concepts and how they understood reality. A pose for the mind. A stance. Even Emilia had only understood that in limited terms at the time, because she was working with the familiar portions of her auric-ambient-flare in the arcanic sea. That was as far as people like Bertram could go. But Caden and Emilia had learned back then that the auric-ambient-flare extended into oblivion, interacting with the world on deeper, more fundamental levels that were beyond the ordinary comprehension of humans.
+
+Which meant... which meant that everyone used glyphs by moulding their auric-ambient-flare to deliver meaning in a way that was comprehensible to the augera, and the augera in turn made use of the arcana on their behalf, and the glyphs were the medium of communication for people to give instructions to the augera. But it was imperfect, because it was a language not native to either of them, and both sides were locked in a perpetual struggle of pointing at the same referent and trying to build consensus. The problem was made worse by the fact that only one side was aware of the other, because whether by accident or by design, most people did not even know about the existence of the augera. So they muddled around in the shallow end of mutual comprehension, working with only a small segment of their auric-ambient-flares and mucking around with vague 'poses'. To the augera, it must have been like trying to communicate with someone who was using only their eyes, and who was ignoring anything you said or did if you didn't signal back with only your eyes too.
+
+Caden sat down, staggered by the scope of what he had just realised. He wasn't sure, of course, because it was still mostly speculation at this point. But with the whole theoretical framework in his head now, he realised it was possible for him to make rapid progress with some experimentation and practice. Suddenly, suddenly, the monumental task of subjugating a Major Prophecy, or even tearing it apart, didn't seem impossible or inconceivable anymore.
+
+But Caden didn't have time to really think about this. Bertram, who had been watching him all this while with a look of intense concentration, suddenly got to his feet and gave him a sharp jab in the ribs. The whole edifice of possibility in Caden's head came crashing down as his mind was returned firmly to the present.
+
+"What the hell is wrong with you?" Caden snapped.
+
+"What the hell is wrong with you?" Bertram hissed, throwing the words right back, just as Professor Ward's voice also rang out in alarm.
+
+"What's happened?" Professor Ward asked, pushing firmly past some of the other people in order to cross the room.
+
+There was quite a bit of whispering at first, but it gave way to an uncomfortable silence as Ward came to stand before the two of them. Caden followed everyone's gaze and finally realised what had happened to his puppet.
+
+It wasn't really a humanoid puppet any more. Its form was obscured by the changes that had been wrought, but they were not cancerous tumours or growths. There were vein-like structures expanding outwards from the skin, twisting into slender and fantastical shapes that somehow managed to hold their integrity even though they appeared no more substantial than wisps in some areas. If an auric-ambient-flare could be seen with the naked eye then this, Caden imagined, was what a part of it probably looked like.
+
+"Who did this?" Ward asked, sounding more intrigued than alarmed now.
+
+Bertram gestured at Caden with a dramatic flourish.
+
+"And it was almost instantaneous?" Ward glanced at Bertram. When he nodded in confirmation, Ward started muttering to himself as he looked down at the puppet. "Yes, felt that way. Marvellous. Not the intended use, but certainly within parameters, which begs the question..."
+
+Ward shuffled a little closer to Caden and regarded him with piercing eyes. He addressed the class while still staring at Caden. "I think we are done for today. Leave your puppets, and I will review what progress you have made. For our next class, I want everyone to read ahead and learn the sequence to address bruises."
+
+In the general noise of dismissal and excited speculation, Ward spoke to Caden in low tones, though he also pitched it loud enough for Bertram to hear. "Be careful, young Dundale. Despite his pretensions to safety, the Demiurge is sometimes overzealous in his desire to teach, and may goad you into running well before you are able to walk."
+
+"Come on, just ONE hint?"
+
+Caden shook his head irritably. He and Bertram had retreated to the library cafe once again and were now under a bubble of privacy. More accurately, Caden had retreated, and Bertram had followed like a second shadow, pestering him every step of the way. Caden had managed to dodge Henry, who had become quite unctuous, and was rather relieved that he hadn't needed to evade the twins, who had actually helped him to get Henry off his back. The rest of the students were too intimidated to approach
+
+But Bertram...
+
+"Was it a frameshift? It has to be a frameshift, because nothing in the glyphs deals with speed, and usually how fast a sequence takes effect is just about arcanic flow. But then how do you increase the flow so dramatically without just making the whole thing explode? What frameshift handles that?"
+
+"Why don't you ask Reeves, since he's your patron professor?" Caden asked through gritted teeth.
+
+"So the Demiurge supplied you with that frameshift? But that doesn't track, because you'd probably have been able to manage the healing the first time around." Bertram stopped, then frowned in confusion. "But then Ward did imply that whatever you did was only possible because of something you might have learned from the Demiurge..."
+
+"You know what? I'm just going to designate this as 'personal information', so that means it doesn't fall under the umbrella of what we've agreed to share," Caden said firmly.
+
+Bertram was about to voice his objection, but after a visible struggle he stopped himself and let out a long sigh. "I'd say that wasn't done in good faith, but fine. I've got my secrets, and you've got yours."
+
+"Right. Now do you mind leaving me alone? I need to think," Caden said.
+
+"Hey, the bubble's mine," Bertram replied indignantly. "If you want privacy, you can go find another spot and set up your own bubble."
+
+Caden got to his feet and left Bertram sitting there. Going by the look of surprise on his face, he hadn't expect Caden to seriously take up that suggestion. Before Bertram could recover and catch up, Caden darted into the Lower Library and made enough sharp turns to ensure that no one had managed to stay on his tail. When was sure he was alone, he went all the way down into the Vault.
+
+As soon as he stepped over the threshold, the wysana made its presence known. 'The Demiurge has a message. There will be no further evening sessions this week because he is otherwise engaged. The sessions will resume on the weekend. If necessary, you can get in touch with him by calling upon me, but only if absolutely required.'
+
+As usual, it did not wait for any acknowledgement, and was gone before Caden could verbalise his thanks. Caden dithered there for a moment, then decided that staying in the Vault for some privacy was actually a pretty good idea.
+
+It was quiet, but that wasn't much help. There was plenty of noise in Caden's head as he ran over all that he had thought of during Ward's lesson, and the little he ha managed to piece together despite Bertram's chattering. In fact, all that speculation from an arcanist more skilled in the technical terms had actually helped Caden get a handle on some things, and it was a little sobering to realise that even though he had possibly just stumbled into a monumental revelation, there were still many other perspectives he hadn't even conceived of.
+
+The study materials the Demiurge had left for Caden were still there, so he crossed over to the table and started throwing down his thoughts in order to better organise them later. It wasn't even possible for him to properly capture things in prose, so he started sketching glyphs and writing notations around them, and the very act of attempting to notate segments of the glyphs was helping him to crystallise some concepts.
+
+There was something he could do — or rather, someone he could ask — but he wanted to be very sure he had it right before he made he attempt. When he was reasonably sure he had captured the essential details of what he had conceived of, he sat back and read his notes over once more, then steeled himself.
+
+'Woven-shackled-stream', he intoned.
+
+'Caden,' the augera replied instantly, sounding eager. 'Is it time for a compact?'
+
+'No,' he answered firmly. 'Not yet. Earlier, you told me glyphs, especially the Special Set, are shadows of your light. But glyphs... they're not... they're not arcana itself. Right?'
+
+'No difference,' the augera answered hesitantly. 'Once, perhaps, but not now. Not here.'
+
+That threw a wrench into Caden's theoretical framework. 'Not now?' he repeated. 'Then in the past, it was? And what do you mean by 'not here'? Do you mean the Empire?'
+
+'Caden, your questions are vast.' A tone of warning and mild panic had crept into the augera's response, and it seemed to lean in more closely, its voice become a mere whisper. 'You know to think softly. But your questions cannot be asked softly, and the asking of such questions soars. They drift, now, like clouds in the wind. The Fateweavers can see, if they are watching. Do not ask us until you can veil the skies.'
+
+And abruptly, the augera withdrew from Caden, leaving him in sudden silence and with even more questions than he had to begin with. The thought of trying to look for the Demiurge crossed his mind, but he felt suddenly weary from all the deep contemplation, and he didn't think he had the energy to deal with the Demiurge at the moment. In resignation, Caden tidied his notes and made his way back to the dorm.
+
+Despite Caden's worry that the twins would end up badgering him in their dorm, the rest of his day passed in relative peace. Kevan did ask, very respectfully, if Caden would mind shedding some light on what had happened, and when Caden had provided a polite refusal, Kevan didn't pursue the matter any further, and even went so far as to cuff Lynus over the head when his twin started making passive-aggressive comments about being afraid of competition. Caden found himself being highly impressed with this new-and-improved Kevan, though he was a little saddened by Lynus' descent into asshole-ery. The one person who didn't bother Caden at all was Emilia. When she turned up later to hang out, she greeted him shortly, and then proceeded to sit by Kevan and read quietly.
+
+There was no avoiding the topic completely, though. Apparently word had spread around the campus that a first-year student had utterly trounced the entire class when it came to healing capabilities (though Caden had no idea how the original story had morphed into such a terrible misrepresentation of events), and as Devon prepared their meal, he launched into a detailed account of all the rumours he had heard over the last few hours. Some were highly amusing and fantastical, featuring runaway sequences that had caused serious-but-funny injuries that the first-year student had then managed to heal, albeit with unintended side-effects. The more off-colour stories involved an unnamed third-year student (who was recognisably Henry, going by the contextual clues) losing 'treasured organs' and having them replaced or patched over with 'more interesting features'. Caden wondered if Bertram had had a hand in spreading those particular rumours. It certainly sounded like the kind of thing he'd get up to, not out of spite, but purely for the mischief of it. The rest at the table joined in the general hilarity, even the twins, which surprised Caden a little since he had the impression that those two were in Henry's camp.
+
+"But seriously, Caden," Devon said, once they had all settled down around the table. "Whatever you did apparently spooked Professor Ward and impressed him at the same time. What really happened?"
+
+Caden raised an eyebrow and shot a look at the twins. "They were there. You can ask them."
+
+Lynus snorted. "We saw what was left. We still don't know what happened."
+
+"It happened too quickly," Kevan clarified, throwing his brother an irritated look. "Ward called out, and then most of us realised something was up, and by the time we looked, the puppet was already changed. It was all covered in little threads, like veins, but which formed a sort of cloud around it."
+
+The others were looking at him expectantly. Ambrose in particular, who usually wasn't very expressive, seemed very intent. Caden felt the weight of their scrutiny, made all the heavier because of the unspoken social pressure they were exerting on him now even if they didn't know it. They probably thought they were waiting in polite silence, but Caden couldn't shake the viscerl feeling that his friends were waiting for him to share something with them. It took a great deal of effort to bear in mind the fact that they no longer knew who he was, and were not relating to him as a good friend. Even Devon.
+
+But keeping secrets was utterly exhausting, and Caden hadn't decided to come back to the dorm only to become a reclusive hermit. At some point, he would have to let go a little.
+
+"Here it comes," Lynus remarked, grinning a little.
+
+"What?" Caden asked, a little thrown off.
+
+"Don't interrupt," Jerric said a little wearily. "Let him talk."
+
+"He's gonna know eventually about the Proph—" Lynus began, but Kevan elbowed him sharply.
+
+Caden stood slowly, and everyone stopped eating to watch him. Emilia was impassive. Devon had a look of naked fear on his face. Jerric and Kevan looked wary, while Lynus tensed, apparently ready for a fight. Ambrose's lips tightened ever-so-slightly, but he didn't make any move and his expression remained largely unchanged — one of deep curiosity and expectation.
+
+"The Prophecy," Caden said quietly. He glanced at Devon, wondering if his once-friend had revealed anything about their conversations. He hadn't sworn Devon to secrecy, of course, and it made sense for him to share everything with the rest. He was, after all, one of the Six-Chained-Foundations. But Devon seemed to read the unspoken question and gave a tiny, frightened jerk of his head, as if to indicate that he hadn't said anything.
+
+"The Prophecy led me here," Caden continued, "and you're expecting that it'll exert pressure on me to share information with you all, because that's one of the things it has been doing all of the previous term. It's bound you all together as a group of friends, and you expect it to work on me, too."
+
+The silence was deafening. Ambrose was now regarding Caden with undisguised fascination.
+
+"Do you really want to know what happened?" Caden asked, looking around at all of them before meeting Ambrose's eyes.
+
+The silence stretched as everyone seemed to be waiting on Ambrose's reply, even though Caden had directed that question to the group at large. Caden sensed Ambrose gently sliding into oblivion, so he followed. Ambrose acknowledged his presence, but otherwise ignored him as he moved. The Chosen-Blinded-Jailer's appendages shivered, then untethered themselves from where they had been moored in other times and locations. They moved now with nauseating speed and uncanny precision, all of them coming to fix themselves in the present moment, firmly focusing on the immediate surroundings. The prophetic threads hung thick and heavy, but Ambrose was not weaving. He was reading, frantically reading, and the more he read it seemed the less he understood. After what seemed like an eternity, he slipped back into the physical world, and once again Caden followed without comment.
+
+"No," Ambrose said quietly, his mouth suddenly softening into a smile. "No, I don't want to know, if you don't want to tell. Do you?"
+
+Ambrose's answer surprised Caden a little. What had Ambrose read in the threads? Come to think of it, Caden wasn't sure whether Ambrose was now resigned to following along with the Prophecy as the Fateweavers' pawn and eventual successor, or if he still harboured that seed of doubt that had led him to once team up with Caden to try and subvert the Prophecy or steer it to their own purposes. Ambrose was an almost complete unknown factor now, moreso than the rest. It was something Caden had to gather more information on for his future plans.
+
+For now, Caden was about to answer "no", but he realised that wasn't really true. He did want to tell them. They were his friends, even if they didn't remember it. And he cared for them. Well, some of them. But now was not the time nor place to do so. It was for their own good.
+
+"Not yet," he answered heavily. "Maybe one day, when I can trust all of you."
+
+"Trust us?" Lynus asked indignantly. "What the hell? You can't just drop a pronouncement like that and then not give an explanation! What do you know about the Prophecy? How do you know it's got something to do with us?"
+
+"With a big mouth like yours, you expect me to trust you?" Caden asked acidly.
+
+"You just pretending to know stuff. Or someone else here leaked some information, because it sure as hell wasn't me!" Lynus retorted.
+
+"It's been a whole term," Caden said, sitting back down to continue eating. He fell back on the fabrication he had used on Devon. "Anyone who's paying attention can spot the observable phenomena that marks the influence of a prophecy, especially a Major Prophecy. It's pretty obvious one of you is the Chosen One."
+
+"Oh yeah? If you're so clever, does that mean you've figured out who it is?" Lynus challenged.
+
+"Definitely not you," Caden replied archly. "You don't have the temperament."
+
+Lynus was obviously stung by the remark, though he tried to hide it. "You don't know who it is. Guess you're not that clever after all."
+
+Caden could see the trap a mile off. He smiled thinly at Lynus and simply kept eating. Lynus was about to challenge Caden again when Emilia spoke for the first time.
+
+"Don't make enemies with someone if you're not sure you can win," she remarked, looking at Lynus. But then she glanced at Caden and raised an eyebrow, obviously to indicate that she was addressing him as well, though no one else caught that brief look.
+
+Kevan chuckled and nudged his brother good-naturedly. "Basically, Emilia thinks you're not good enough to beat the new guy. Tough, bro."
+
+"I didn't say that," Emilia frowned.
+
+"You implied it, and even if you didn't mean it, you should mean it," Kevan said, grinning.
+
+"But you're both roughly at the same skill level, so if that is what I really implied, then it also follows that I think you're not good enough to win against Caden," Emilia pointed out seriously.
+
+There was a little chortling from the rest, even Lynus, as Kevan turned to her in mock indignation. "Is that really what follows? Is that what you really think?"
+
+"Only if I really meant what you claim I implied," Emilia said evenly, meeting Kevan's eyes and smiling ever-so-slightly. "Perhaps you shouldn't presume to speak for me. But I suppose that I do like that complete self-assurance, and how you think you know everything. It's attractive, sometimes."
+
+Lynus gagged and Jerric let out a long, weary sigh. Devon looked a little embarrassed on Kevan's behalf and was resolutely focusing on his plate.
+
+Kevan himself was blushing a little, though he also seemed a bit offended. "Are you insulting me or complimenting me?"
+
+"Yes," Emilia answered, with a definite impish twist to her lips now as she returned her attention to her plate.
+
+"Fates, this is awkward," Jerric muttered to his own food. "Can someone say something please. Anything else."
+
+"How did everyone do on the Thaumaturgy session?" Ambrose supplied.
+
+Jerric seized gratefully on the topic and the talk turned to the events of the morning. Ambrose had been in a separate group with none of the dormmates, while Devon and Jerric were in the same group, but evidently everyone had been under Kant. They swapped stories about the tactics they had employed, and observations of what other people in the various groups had done. Caden decided that this was rather harmless and shared about what it was like to work with Bertram, though he kept the details of Bertram's side-business a secret.
+
+"You know, he and Henry have this huge thing going on," Kevan said, "like rivalry on a whole other level. Ly and I tried to get on Bertram's good side early on when we were looking for seniors to learn from, but he was pretty closed up, so we fell in with Henry."
+
+"He didn't want the two of you hanging around him? How shocking. I can't imagine why. It can't be because you're both so friendly," Jerric said dryly.
+
+"Hah," Kevan rolled his eyes. "Nah, Bertram's all about business. He's pretty clear-headed, focused. Knows what he wants. It's just bad luck for us that we don't have anything he wants."
+
+"What does he want?" Devon asked, interested.
+
+"Connections, usually," Kevan answered, shrugging. Then he cast a sidelong glance at Caden. "Which makes you pretty interesting. But we already know that."
+
+"Connections?" Devon looked at Caden with an appraising eye, frowning deeply. Caden knew he had to be thinking about whether or not he might have failed to properly place Caden as the son of some dignitary or influential businessman.
+
+"Or talent," Kevan conceded with a heavy sigh. "One of the two. I heard that he's got something going on with the second-year Top Scorer too."
+
+"So Bertram thinks Caden has more talent than either of you?" Devon asked, with a little too much delight in his voice than was decent.
+
+"Or he's just forming a Top-Scorer club," Kevan replied testily.
+
+Caden blinked at Kevan. He seemed remarkably well-informed. "How do you know he's got links with Leyla?"
+
+Lynus suddenly sat up straight. "Hoooold on. Leyla? Did we mention her name, Kev? I don't think we did."
+
+Caden flushed, but rallied. "I know who the Top Scorers are. That's common knowledge."
+
+"Uh-huh. Sure. So when you went out early today, you're gonna tell us it wasn't to meet Leyla?" Lynus pressed.
+
+"C'mon, he could've been meeting any number of other girls, that's a stretch even for—" Kevan began, but when he saw Caden struggling to reply, he stopped and gaped.
+
+"You see?" Lynus crowed, then tapped his nose. "Gotta trust me, I have a way of sniffing these things out."
+
+"That is probably the least-attractive aspect of you," Emilia said, not looking up from a book that she had pulled out and was now reading as they ate.
+
+Lynus ignored her and turned to Caden. "Okay, so you're clever enough to figure out Prophecy stuff. How are you in the girlfriend department? What's the deal with you and Leyla? How long have you been together?"
+
+"I'm not comfortable with this line of questioning," Caden muttered, looking away.
+
+"Well, tough!" Lynus banged his fork on the table in irritation and half-rose from his seat, leaning across the table towards Caden. "You've got to give us something!"
+
+Kevan was shaking his head and trying not to laugh. It was clear he wasn't going to rein his brother in on this. Caden cast around in desperation, but Jerric was smirking into his own plate while Devon, even Devon was watching, looking back at him with rapt attention. Ambrose returned a pained smile. Emilia seemed to be ignoring all of them and was reading while she chewed.
+
+Caden let out an exasperated sigh. "I just met her. We exchanged study notes this morning," he answered shortly.
+
+"So she's available?" Lynus asked.
+
+"No, she's not!" Caden said hotly.
+
+"You're saying she's already taken by somebody else?"
+
+"No, but—"
+
+"Does this in fact mean that you are laying prior claim to her?"
+
+"She's not a possession!" Caden shot back, just as Emilia closed her book with a snap and said exactly the same thing.
+
+Lynus sat back down, raising his hands in a placatory manner. "I'm just asking, not trying to say that I'm up to anything," he said sheepishly.
+
+Emilia pointed her fork threateningly at Lynus. "If you bother Leyla, you will regret it."
+
+"Didn't you say you shouldn't make enemies with someone if you're not sure you can win?" Lynus raised an eyebrow at her. "And now you're making threats to me?"
+
+"Precisely." She got to her feet. "Need I spell it out?"
+
+"Alright, can we not fight over the food that I've lovingly cooked?" Devon asked plaintively, with a dramatic sigh. "Why can't we all just eat, drink, and be merry?"
+
+That defused the tension a little, and Caden seized the opportunity to address Emilia. "Do you know her? Leyla?"
+
+Emilia sat back down a little heavily, looking a little flustered by her own outburst. "Not really. She supplied me with good materials for further reading when I was in the library once. She was passing, and happened to see what I was reading, and then stopped to make recommendations and to talk a little."
+
+"She sounds nice," Jerric remarked. "Definitely too nice for someone like Lynus."
+
+"You just threatened me to 'protect' someone you've only spoken with once before," Lynus pointed out, sounding wounded.
+
+"I haven't even met her and I think I'd do the same," Jerric said, grinning.
+
+Lynus snorted, then turned to Caden. "So, since I'm clearly out of the equation, you get a free shot. Are you gonna take it?"
+
+"I'm not an expert in that department, but I imagine that it makes more sense to be friends first instead of trying to force something out of all this," Caden said, fighting to keep the exasperation from his voice.
+
+"What? But she's right there for the taking! Take the shot, man!" Lynus said.
+
+"And that's why you're still single, Ly," Kevan said, laughing.
+
+"Oh, shut up. Your pick-up line was 'I like the way you fight' or something lame like that," Lynus retorted.
+
+"You have to hear this story," Devon cut in, and started regaling the whole group with the account of how Kevan and Emilia had ended up together. The others joined in and supplied embellishments and remarks, and Caden tried his best to sit there and smile, pretending that this was the first time he was hearing it.
+
+And every now and then, Ambrose would look at him, watching, weighing, evaluating.
+
+After dinner and the subsequent cleanup, the group lounged in the common area. There was a general effort to study the glyphs of the Special Set, with some occasional lapses into casual conversation. Emilia and the twins were on the couch while Ambrose took the single cushioned seat. That left Jerric, Devon and Caden at the dining table. It felt familiar, and Caden allowed himself to relax into the routine of study. It actually felt nice to have others around, even if he wasn't yet ready to get into the really deep discussions of arcanophanic principles for fear of revealing too much. Fortunately for him, they were still only on simple memory work since they had only just been formally introduced to the Special Set.
+
+During a self-imposed break, Caden shot a surreptitious look at Ambrose. He was comfortably cross-legged, and the reference book for the glyphs was open on his lap while he stared, glassy-eyed, at the symbols. Did he actually need to study this?
+
+Caden casually dipped into oblivion just to get a quick sense of what was happening in the vicinity. It was becoming a habit, as natural as glancing at one's surroundings. He stiffened a little when he realised that Ambrose was there, too, looming in a very spider-like manner.
+
+'Hi,' Ambrose remarked, conveying a little surprise himself.
+
+Caden arranged himself more comfortably in the physical world so he could relax and pay less attention there and not draw too much attention to himself, then focused on Ambrose again.
+
+'Not up to something, are you?' Caden asked, indicating the Fateweaverish appendages. They were once again anchored in some other distant time and place.
+
+'Not actively.' Ambrose hesitated, then continued. 'It's more of a passive thing. You could say I'm... just taking things in. Feeling the vibrations of Prophecy itself, being tuned to how it moves.'
+
+Ambrose was being less guarded now, to the point where Caden could actually pick up on the shades of emotion and meaning behind the words. It was a far cry from their first encounter in oblivion on Caden's first night back in the dorm.
+
+'Yes.' The Chosen-Blinded-Jailer seemed to stretch itself (himself? No, 'itself') out, like someone spreading their palms and declaring innocence. 'I'm being open. Because I think I can trust you. I think I did trust you once. And then something happened. I'm still trying to read it, and it's not making sense. If there was once any sort of trust between us... then do you think you trust me enough now to help me fill in the gaps?'
+
+Caden spent a long time thinking it over, and he allowed Ambrose to glimpse the storm of indecision. It felt fair to at lesst reveal that much instead of making himself an inscrutable sphere.
+
+'I'm sorry, Ambrose, but the situation is too complicated for me to give you a quick and easy answer. We may come to trust each other again, but right now, there's too much at stake.'
+
+'Too much at stake,' Ambrose repeated heavily. 'Yes, an entire Empire, and the future of the Fateweavers themselves, by the looks of it. I hope we end up friends, Caden. It's not something I can read... and it's a bit odd for me to be so uncertain about something... but I just have a feeling that it'd be better for the both of us, whatever happens, if we were on the same side.'
+
+Caden found himself as a loss for words. The Chosen-Blinded-Jailer seemed to bob a little in acknowledgement before pointedly sliding its consciousness out of oblivion and back into the physical world. Caden could still see the whole auric-ambient-flare there, alien in its configuration, poised like a metaphysical spider, but Ambrose was firmly focused on the physical world and had left Caden to brood here in silence. It was obvious now that the book had been only for show and that Ambrose hadn't actually been memorising the Special Set glyphs. His departure was, in some strange way, kind of like a thoughtful gesture that amounted to giving Caden a little privacy.
+
+And it was indeed oddly comforting to simply be there, a disembodied mote of consciousness in oblivion. Without Ambrose actively watching, Caden could relax even though the Chosen-Blinded-Jailer was right there. It wasn't exactly quiet, but Caden could filter out the impressions from all the arcana from the sequences in and around the dorm, and look inward so he wasn't hearing the spillage from everyone else nearby.
+
+So here he was, almost at the end of one full day back in classes with the dormies, just drifting alone in oblivion and soaking in the quiet, while everyone else was back in the physical world, studying together.
+
+Was this what Ambrose's life was like? A part, but always apart? In the last term, even before he shared about his discovery of oblivion, had he always been operating on a higher plane during these casual study sessions, quietly prodding at the edges of reality while the rest of them were poring over books?
+
+In the relative peace of oblivion, it was easier to feel less burdened by the concerns of the day. His irritation with Bertram now seemed like a distant memory, and even the fears and anxieties he harboured over his present complicated situation seemed less intractable.
+
+He stayed there until a distant stirring told him that Ambrose was sliding a part of attention back into oblivion. The Chosen-Blinded-Jailer's appendages shifted ever-so-slightly, but to Caden it felt like the world itself was tilting a little. Ambrose sent a general note of apology. 'The study session is breaking up. You, uh, wanna shower first, or shall I?'
+
+Caden was completely nonplussed. Then the absurdity of the situation sent bubbles of mirth skittering across his auric-ambient-flare. The Chosen One himself was speaking with him on a plane that transcended the physical world, and was asking him about who wanted to use the shower first.
+
+Ambrose echoed Caden's mirth, acknowledging the hilarity of the moment. 'I'll go first,' he decided. 'You relax here a little longer.'
+
+His presence retreated, leaving Caden in comfortable silence again.
+
+Maybe Ambrose is right, Caden found himself thinking, though he kept this notion buried deep within his auric-ambient-flare where no one could hear it being expressed. Maybe we should be friends.
+
+It would be such a balm to have a peer to connect with. Caden's world had been completely destabilised since his return to the Academy, particularly after the revelations he had been given in the Vault. At least in his first term in the Academy, he had the support of the dormies as they all grappled together with the strangeness of the Prophecy and of Ambrose's Chosen One status. And even when they had met up in Devon's home and been exposed to even more danger, not to mention the mind-shattering experience of rescuing Emilia from oblivion and also actually brushing minds with a wellspring-ocean-core, Caden knew he wasn't going through all that alone.
+
+But he had already been burned by the attempt to reconnect with Devon. And the one thing that kept Caden from allowing himself to start reforging his friendship with Ambrose and the others was the fact that they were all still bound by the Major Prophecy. The Fateweavers were almost certainly using them in some way, and Caden understood perfectly that his once-friends could be used as channels of influence to divert or control him, even if the Fateweavers couldn't touch him with prophetic links.
+
+Yet there was the possibility, however faint, that Caden could someday learn to use that against the Fateweavers.
+
+Wouldn't it be so wonderfully poetic if Caden ended up turning Ambrose himself against the whole edifice the Fateweavers had built?

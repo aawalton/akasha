@@ -1,0 +1,77 @@
+---
+id: 600556ac-6fe0-56dc-b761-3971344eabb2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1381 - Battling in the Fifth"
+slug: 0028-chapter-1381-battling-in-the-fifth
+partOf: chrysalis
+position: 28
+ownLength: 994
+unit: words
+ownProgress: 994
+publishedAt: 2024-07-30
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1737515/chapter-1381-battling-in-the-fifth"
+royalRoadId: "1737515"
+markedReadAt: "2026-06-29T19:44:32.851Z"
+---
+
+Before Crinis can dive headlong into the enemy and give herself a terminal case of toxic mana poisoning, I rush back to the safe-zone, alerting the ants as I go.
+
+“We’ve got an attack! Weird… things coming out of the river!”
+
+Once I’m close enough, I use my antennae to try and scrape Crinis off my carapace and fling her into the purified mana, but she clings onto me, refusing to go. More accurately, she lets her body become shadow, and my antennae just slide straight through her. Heck of a trick.
+
+[Crinis, get into the safe-zone, that’s an order.]
+
+[I want to help fight!]
+
+[Sure, do it from inside there. Go! Shoo!]
+
+Unable to resist a direct order, she has no choice but to accede to my demand and slink back inside the blue mana. Invidia is already there, hovering over the blob of darkness, healing and cleansing her of the infection she’s accumulated.
+
+Seriously, eating the things that live here is dangerous business. If we could work out a way to clean the Biomass so we could consume it safely, that would go a long way to helping us break through the stratum.
+
+Considering there’s literal tons of inedible monster coming towards me right now, it’s a bit unfortunate we haven’t worked out that solution yet. Ah well, no time to worry about it now, I’ve got weird… slime things to destroy!
+
+Mandibles wide and mind-constructs spinning, I run forward to put myself between the monsters and the Colony. The only problem with that strategy is the fact the river runs all the way down the length of this tunnel, which means there’s a good stretch of it within the safe zone, and of course there are enemies emerging in there as well.
+
+The way they react to the cleansed mana is interesting to see. We know that they hate and try to destroy it, but actually being inside it? Let’s just say it doesn’t seem to agree with them. The moment the monsters emerge, they writhe in pain as the mana which is safe for us proves to be deadly toxic to them.
+
+There’s a limited number of them inside the purified area. Perhaps they were all going to emerge in there, but one of them jumped the gun when I got too close to the river. As it stands, I shouldn’t need to help out with that part of the fight, considering who else is inside.
+
+[Tiny! Take care of the monsters in there! I’ll deal with the ones outside!]
+
+I don’t need to see him to feel the grin stretch across his bat-like face. With a primal roar, the giant ape leaps into battle, fists crackling with lightning and eyes blazing red.
+
+[And keep a close eye on them even after you beat them! They seem to be able to pull themselves back together or something. Keep fighting until you get the notification from Gandalf!]
+
+If anything, the news that these opponents can take a lot of punishment only seems to fire him up more. Typical.
+
+As for me, what the heck am I going to do? I don’t want to get too close to these things; I’ve already got a dangerous level of toxin exposure, and getting wrapped up by half a dozen of these things wouldn’t help the situation. With the bulk of my mind-constructs devoted to purifying myself, I guess I’m going to have to go about this the old fashioned way.
+
+The monsters rush towards me, crawling over the rock floor of the tunnel in a disgusting tangle of gloopy limbs. The muck of the river sloughs off them as they move, leaving a trail behind that will have to be cleaned up later. Ugh, these things are awful. This might get a little messy, but I can only think of one way to deal with them appropriately.
+
+The monsters are shockingly quick for their size, squelching and slurping as they use their many limbs to propel themselves forward. Every now and again, I catch a glimpse of their gnashing maws, right in the middle of their bodies.
+
+They really are like an awful, fifth stratum version of Crinis gone wrong, aren’t they? If she’d been like this the first time I saw her, there’d be little chance I’d ever think of raising her to be a friend.
+
+Well, let’s see how they deal with this!
+
+When they draw close enough, the monsters begin to shoot limbs toward me, trying to latch on and poison me further. Using my reflexes and forewarning, I dodge efficiently out of the way, letting them draw closer. A little closer…
+
+VOID CHOMP!
+
+My mandibles begin to slam shut, and I empower the ability with the Altar. A flood of energy rips through my body as I my jaws close. Mandibles of dark light manifest, extending from my own for dozens of metres as the void itself begins to manifest right in front of my face.
+
+Along with the void, comes the pull. The monsters are helpless to resist it; no matter how strong their strange flesh may be, some things cannot be fought against. My vision darkens, the air howls, my jaws continue to close.
+
+They finally latch onto me, trying to pull me off balance, trying to inject their poison into me, but it’s far too late.
+
+When my mandibles finally slam shut, there comes a great detonation in front of me. Stone shatters, mucus flies, and a rain of flesh begins to fall.
+
+Oh, that’s disgusting.
+
+The empowered Void Chomp has, once again, created quite the scene in front of me, the terrain of the tunnel having been rearranged rather significantly. The problem is, the monsters charging me basically exploded under the impact of my bite. There are bits of them everywhere.
+
+And I still haven’t heard any notifications….
+
+All over the tunnel, even within the purified area, little globs of monster begin to pull themselves together….

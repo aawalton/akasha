@@ -1,0 +1,221 @@
+---
+id: c28b9c24-fb04-57ea-824b-7f8276a1ddae
+page-type-slug: story-chapter-royal-road
+title: "145 - Wheel of Traits!"
+slug: 0148-145-wheel-of-traits
+partOf: cat-girl-evolution
+position: 148
+ownLength: 2296
+unit: words
+publishedAt: 2026-07-31
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3749499/145-wheel-of-traits"
+royalRoadId: "3749499"
+---
+
+The time it would normally take to get to the capital from Maligar is about a month, meaning we have an extra two months in which we can mess around and kinda do whatever. Some of that time will be taken up by us going after that pseudo-Delicacy, but none of us expect that to take too long. It’s not a Dungeon this time, and is instead just a spawn zone, so there’s no crazy rules, and Food Sense should make the actual retrieval of the frogs easy.
+
+So, on our way to that spawn zone, we take our sweet time, stopping by a bunch of random little villages and trying out the local cuisine. Most of it is pretty unimpressive, but we find a few hidden gem dishes along the way, which is nice.
+
+Meanwhile, in my Dungeon, Abby and Phillip are hard at work on my new Dungeon Floor. The cooldown for them being able to change the second Floor isn’t quite up yet, but they can do the design work, and have set up a sort of test platform on the third Floor. Unlike the first Floor, I am not leaving the work unsupervised this time. Sure, what Abby did was kinda funny, but I can’t just take it lying down. She chose her fate. Now she has to literally create her own punishment. I can’t wait to see the finalized version.
+
+I do encounter one minor problem as we travel, though. I’m kinda bored. Napping is great and all, but napping all day every day as we ride from city to city can get old. Especially when I’ve gotten so used to always doing something ever since coming to this world. First it was killing Skarn, then it was killing Joshua, then it was worrying about the assassin after me, then it was training for my next evolution, then it was just training in general, then it was Maligar, and now… nothing.
+
+I have no pressing issues, no obligations, nobody who needs anything from me, and I don’t even really have to get any stronger either. I mean, at least here in Elyria, I’m already near the top. Sure, there are plenty of people stronger than me, and sure, I’ll need to be much more powerful to get some of the later Delicacies… but I don’t have to do any of that right now. The pseudo-Delicacy is deep in a Tier 4 spawn zone, but it’s still just Tier 4, and the second real Delicacy is in a Story Dungeon that’s only Platinum-rated. I’m basically good right where I’m at for the entire next six months. Or more.
+
+I don’t even have to worry much about the Chosen One Competition. Since I finished the First Event so early, I basically have nothing to do until the rest of the contestants finish it. I have literally no pressure to do anything at the moment.
+
+Usually, I would love this. And I did love it, for a few days. I mean, even at the end of our time in my Dungeon, I was starting to slack off and laze around. But after a week of doing nothing but travel, the boredom is starting to get to me. I need something to do.
+
+“You could finally look through the curated list of Traits for your Selector Token I made for you two weeks ago.”
+
+But that sounds like w*rk.
+
+“A very small amount of work that will result in a brand new Trait. You’re a monster, so you probably don’t appreciate how good you have things. Traits are very valuable, and your Selector Token is arguably one of the most valuable items in existence. Many, many people would kill for that.”
+
+Yeah, yeah, I get it… But it’s so hard to choose! Why do there have to be so many of them?
+
+“This is beyond 1st world problems. This is a negative 1st world problem. Wahh, I have too many incredible Traits to choose from! That’s what you sound like right now.”
+
+Shut up.
+
+“Do you want me to pick for you?”
+
+Kinda, yeah.
+
+“Okay. Take Compression.”
+
+No, you’re just gonna make fat jokes.
+
+“It fits so well with your other abilities, though. And you’ll look completely normal!”
+
+Abby, even if I look fine, if I weigh 300 kilos, would you make fun of me?
+
+“No.”
+
+Abby…
+
+“Okay, yes, but is that really a good reason not to pick something so useful?”
+
+Yes. Besides, if I weigh that much, what if I start breaking furniture or something? Do you know how embarrassing it would be to walk into a building and fall through the floor because I weigh too much?
+
+“It would be funny, though.”
+
+Absolutely not.
+
+“Okay, well, then, pick Malleable.”
+
+What’s that one do again?
+
+“It makes it easier for you to morph your body’s form. At later stages, you might be able to do full transformations, turning your arms into tentacles, or something like that.”
+
+Hmmmmm… I dunno. I’m not really feeling it.
+
+“Compatible, then? It makes your biology compatible with the biology of other species. Usually this is used by dragons for breeding, but–”
+
+Okay, no.
+
+“But it would also pair extremely well with your Vivitect Class, since making your biology compatible with other creatures would let you do more with your attached limbs. Like your tentacle maws would be more a part of you, and less just stitched-on prosthetics.”
+
+Okay, but how does that actually help me?
+
+“It would mostly help with control and sensation. You would be able to connect to the limbs and feel what they’re doing very easily.”
+
+Eh, that doesn’t sound that useful. And I don’t want a breeding Trait.
+
+“It’s not– okay, nevermind. Are you gonna make me go through the whole short list while you veto every single one again?”
+
+Maybe.
+
+“If you’re so apathetic toward this, why not just pick one at random?”
+
+That sounds dumb.
+
+“Well, you are the Chosen One. If you do that, Fate will guide the odds, right?”
+
+Don’t tempt me.
+
+“I’m tempting you. It would be faster and more interesting than waiting for you to actually pick something.”
+
+…
+
+Alright, you know what? Fuck it. Let’s do it.
+
+“Okay, but if we’re doing this, you need to actually choose the one that gets randomly selected.”
+
+But what if I don’t like it?
+
+“Well, you haven’t really liked any of them so far, so does that really matter? Besides, aren’t you trusting Fate?”
+
+Well, yeah…
+
+“I can set it up so that we do a random number generator, and whatever it lands on, it auto-selects that Trait. You have to give explicit permission beforehand, but that will guarantee that you can’t change your mind later. How about it?”
+
+I lick my paw as I think. She definitely has a point. None of these Traits really jump out as the one, and I’m pretty sure that’s not gonna change if I sit around waiting. At least this way, I’ll finally use the reward up. Besides, I am the Chosen One.
+
+Alright, let’s do it.
+
+“Are you absolutely certain?”
+
+Yes.
+
+“What if it lands on Compatible?”
+
+Why are you suddenly trying to convince me not to? This was your idea!
+
+“I’m just making sure you’re fully on board so you don’t get mad at me if it lands on something you don’t like.”
+
+Yes, I’m on board! Just remove Compatible from the short list before we do it.
+
+“Alright. Done. Are you ready?”
+
+Ye– wait!
+
+I nestle into a more comfortable position in the carriage’s seat cushion.
+
+Okay, I’m ready now.
+
+“Aaaand, we’re spinning the wheel.”
+
+A tense moment of silence passes before an Annoying Blue Box appears in front of me.
+
+[ You have acquired the Trait Lucky! ]
+
+Huh. Abby, was that on the list?
+
+“I honestly don’t remember.”
+
+Well, if it wasn’t, that just proves this is Fate. I mean, of course the Chosen One would get a Trait like this.
+
+“Of course. Now check its description.”
+
+[ Lucky: Rare opportunities will find you. ]
+
+Huh. No Stages on this Trait. It doesn’t even say MAX.
+
+“Yes. It’s also interesting that it talks about opportunities, rather than outcomes. If I had to guess, that would mean that you won’t be any luckier at things like coin tosses or dice rolls, or anything like that. But you’ll have more opportunities to gain.”
+
+Yeah. Dang, that’s kinda disappointing. I was hoping I could cheat at the casino.
+
+“I thought you said you didn’t gamble.”
+
+Is it really gambling if I have a Trait that guarantees victory?
+
+“That’s a good point, actually.”
+
+Oh well. I’m sure it’ll be useful at some point. Opportunities are usually good, right?
+
+“If you can take advantage of them. But yes, this should be good.”
+
+Cool. Well, I am thoroughly whelmed. I don’t know what I was expecting, but I am neither pleased nor disappointed, so I guess that’s the best outcome here.
+
+Now, I just need to find something to do for the rest of the trip besides nap. Maybe Lucky will get to work and present me with a good opportunity to do something…
+
+Ever since his reincarnation, Mac Maher had had a pretty smooth ride. It definitely helped that he mostly knew what to expect coming in. Well, the actual reincarnating as a monster had been a surprise, and he had never heard of this world before, but it was still familiar. After all, he had read literally hundreds of stories set in worlds just like this one.
+
+Well, listened to, actually. Reading while driving would have been dangerous, but when he had nothing to do for 12 hours a day while sitting on his ass driving cargo across the country, listening to audiobooks was a pretty good way to pass the time.
+
+When he had arrived in the world, after getting used to his strange new body, he got right to work learning how to grow stronger, and learning magic. He wasn’t the most talented, but if Mac knew how to do anything, it was putting in hours. Hour after hour, day after day, he trained, and worked hard, and had made some very satisfying progress. He killed a Named monster in his first month, saving the lives of a nearby village, which felt nice, and recently, he had been learning magic under a kind retired Adventurer. He would have been satisfied to just do that until he was an archmage, but apparently, the gods had other plans.
+
+This whole First Event business threw a wrench into his perfect isekai life, but he didn’t totally mind. He was fine with monotony, but he was also fine with excitement. Besides, excitement and danger was the only way to truly progress. He had just gone through a long training arc, and now it was time to show the results. He just hoped his Target, Zorg, was either evil enough he wouldn’t feel bad about killing him, or smart enough to surrender. His god had assured him that if his enemy forfeit, Mac would be able to spare them. Mac didn’t really want any innocent blood on his hands.
+
+Or maybe, the one targeting me will show up soon, he thought. I wouldn’t feel bad if they tried to kill me first.
+
+He rode onward across the countryside, passing by dozens of picturesque little fantasy houses, while snow-capped mountains loomed in the distance. It wasn’t quite the same as his old job, but it was oddly soothing to just be traveling through the countryside like this, with nothing but himself for company.
+
+Man, a good audiobook would be perfect right about now…
+
+“Commander Wesley!”
+
+“What is it, son?” asked the paladin, turning to face his squire.
+
+William was just 15, and a good lad, but his parents had been bakers, and were a bit too generous with their leftovers, so his cardio left much to be desired. Wesley had watched the boy sprint down from the temple, which wasn’t even that far, but he was already winded just from that.
+
+“It’s– It’s a–” stammered William, gasping for air.
+
+“Calm down, son,” said Wesley. “Catch your breath.”
+
+“Prophecy!” said William. “It’s– a Prophecy!”
+
+“Well, I’ll be,” said Wesley. “From the High Priestess? Don’t speak, boy, just nod or shake your head. And stand up straight. You’re a future paladin, for heavens’ sake.”
+
+William stood up, still panting, then nodded his head.
+
+“Is it about the invaders?”
+
+William nodded again.
+
+“A town is in danger?”
+
+William shook his head and put up a finger to ask Wesley to wait. He took a few deep breaths to calm himself.
+
+“An opportunity,” he finally said. “The prophecy says there's going to be an opportunity soon. Three of the invaders will meet three weeks from now near Dryadil.”
+
+“That’s pretty far,” said Wesley. “Sounds like we’d better get moving. Go round up the rest of the order. We ride at dawn! And don’t sprint this time. Make sure you can still talk when you get there.”
+
+“Sir, yes, sir!”
+
+William saluted, then jogged off toward the barracks where the other paladins stayed. Meanwhile, Wesley sighed and sheathed the sword he had been practicing with.
+
+“I’m getting too old for this,” he muttered as he walked up toward the temple.
+
+His body didn’t work quite as well as it used to. He might have been high in level, but even if he had gotten all the way to 10th Tier, he wouldn't have been immortal. Time always won in the end, and Wesley was starting to lose his touch. But he wasn’t so far gone he couldn’t keep fighting. And even if he was, he would fight anyway. He couldn’t just ignore devils from another world trying to invade his home.

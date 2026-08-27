@@ -1,0 +1,137 @@
+---
+id: b0e61f3f-8af5-5e08-8f86-b9a988ea9f4e
+page-type-slug: story-chapter-royal-road
+title: "180: Standoff"
+slug: 0180-180-standoff
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 180
+ownLength: 2011
+unit: words
+publishedAt: 2026-07-20
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3702177/180-standoff"
+royalRoadId: "3702177"
+---
+
+Well, however Ynett had managed to come back from being extremely, definitely, absolutely dead, Chloe wasn't about to complain. If there was one thing Ynett excelled at, it was being cool in the most horrifying way imaginable.
+
+The fight itself was already hard to follow. Brilliant blasts of light carved through the floor while the Graves Patriarch's enormous fire-wreathed axe swept through the air. Ynett danced between both opponents with that same maddening grin plastered across her face, slipping around attacks that should've been impossible to avoid. For a moment, it genuinely looked like she had everything under control.
+
+But eventually, the Graves Patriarch caught her. His burning axe crashed through Ynett's waist in a single devastating swing, splitting her cleanly in half. Flames erupted from the blade as it tore through her body, and for a split second Chloe actually thought she'd just witnessed Ynett die all over again.
+
+"Ohhh, that looked painful," Chloe muttered.
+
+Except Ynett apparently disagreed. Instead of blood and guts, the upper half of Ynett's body suddenly exploded into a writhing cloud of white snakes. Dozens of pale serpents burst outward in every direction, hissing as they scattered across the floor.
+
+Meanwhile, the lower half of Ynett's body remained standing. Then, somehow, the severed lower torso sprouted arms.
+
+Not normal arms either. Long, pale, horribly elongated limbs burst from the torn flesh and shot outward like living ropes. The limbs stretched across the room before wrapping themselves around the Graves Patriarch from multiple directions. Before the man could even react, the grotesque arms tightened and slammed him against the floor hard enough to crack the stone beneath him.
+
+The Patriarch roared in fury as fire exploded around his body, struggling against the restraints while the detached lower half of Ynett stood there like this was all perfectly normal. Ewww, gross! But also, kinda awesome. I wonder if I could do that one day?
+
+Honestly, Chloe was perfectly happy standing back and watching Ynett get absolutely wrecked. The snake lady had tried to kill her before, manipulated a bunch of people, and generally acted like the creepiest person ever. The point was, Ynett totally deserved to get her ass kicked for a while, and Chloe intended to enjoy every second of it.
+
+Then Ynett's lower half started moving. She stared as the severed waist and legs sprinted across the battlefield with surprising enthusiasm, weaving around slime furniture before changing course. And by changing course, to be precise, they were charging directly at her.
+
+"Oh, no thanks!"
+
+Chloe thrust out a hand and blasted the approaching lower half with a crackling bolt of lightning. The blast struck dead center, electricity dancing across the detached legs in a brilliant flash. But instead of going down, Ynett's lower body barely seemed to notice. It simply kept running, the muscles twitching for only a fraction of a second before continuing its charge like being electrocuted was nothing more than a mild inconvenience.
+
+Not willing to take any chances, Chloe immediately hurled a fireball after it, and this didn't work out much better. The detached legs actually jumped.
+
+Not only did they leap clean over the ground, but they twisted through the air and delivered a perfectly timed spinning kick that smacked the fireball away like it was some kind of flaming soccer ball.
+
+Chloe's jaw slowly dropped. Wow, that was super cool. But also, super terrifying!
+
+The possessed lower half landed gracefully before immediately lunging at her again, apparently deciding the most efficient way to murder Chloe was to simply tackle her. Oh no you don't! I am not losing to somebody's legs!
+
+Chloe skipped sideways just in time, letting the detached legs fly right past her. Unable to correct their course, Ynett's lower body crashed into an unconscious fallen angel lying on the floor with a loud thud.
+
+"Hah!" Chloe planted her hands on her hips, grinning triumphantly.
+
+She felt ridiculously proud of herself, but only for approximately three seconds. The detached lower body wasn't trying to stand anymore, instead... it was melting.
+
+White snakes poured out from the severed waist in an endless stream, writhing over one another until the entire pair of legs dissolved into a living carpet of pale serpents. They immediately swarmed over the unconscious fallen angel beneath them.
+
+Chloe watched for a moment. She wasn't entirely sure what the snakes were doing under there, and honestly she had zero interest in finding out. Whatever horrifying snake-related activity was taking place beneath that wriggling pile was something future historians could investigate.
+
+She briefly considered helping the poor guy by zapping the snakes before they... did whatever they were doing. Unfortunately, morbid curiosity got the better of her. She kept watching for just a little too long, unable to look away from the horrifying spectacle despite every instinct screaming that she absolutely should.
+
+By the time she finally raised a hand to cast another lightning spell, the snakes had already begun slithering away from the body. They scattered across the floor in every direction, multiplying as they moved until hundreds of white serpents flooded the floor. Then, every single snake abruptly changed direction and converged on an empty patch of stone several yards away.
+
+The mass of serpents climbed over one another, twisting together into a writhing pillar of scales before flesh began replacing scales, limbs formed from intertwined bodies, and a familiar smiling figure slowly emerged from the living swarm. Of course, it was Ynett.
+
+Ynett slowly pieced herself back together before brushing a few specks of dust from her clothes. Once she looked completely unharmed again, she turned toward Chloe with that same infuriating smile she'd always worn. "Looks like we meet again, zombie girl."
+
+Chloe folded her arms and puffed out her cheeks. "What're you up to this time?"
+
+Ynett didn't answer right away. She simply lifted a finger and pointed past Chloe. "That."
+
+Chloe frowned before turning to look. "Oh."
+
+Standing several yards away, the Bright Family Patriarch and the Graves Family Patriarch had both stopped doing whatever they were doing. Instead, they were staring directly at Chloe and Ynett with expressions that suggested they had mutually agreed these two were now the biggest problem in the room.
+
+Scattered across the floor where Ynett's upper half had been only moments ago was nothing but drifting ash. Apparently, while Chloe had been busy panicking over possessed legs, the Graves Patriarch had completely obliterated the rest of Ynett's body with that gigantic burning axe.
+
+Well, it was clear enough to Chloe that those two were not only strong, but really strong. She really, really didn't like the idea of fighting alongside Ynett. If anything, she'd much rather punch the snake lady herself after all this was over. But unless Chloe suddenly developed the ability to duplicate herself several dozen times, taking on both patriarchs alone sounded like an excellent way to spend the next hour getting her butt thrown around.
+
+Thankfully, before either patriarch made their move, Z stepped next to Chloe and spoke up"Do you two truly wish to continue fighting against us?"
+
+The Graves Family Patriarch's face twisted with open offense, his grip tightening around the massive fire-wreathed axe as though he'd just been personally insulted. Before he could answer, however, the Bright Family Patriarch raised a hand. "We can talk but only after the snake's assailants leave us."
+
+Chloe whipped her head toward Ynett. She didn't even need words.
+
+Her expression alone screamed, See? This is why nobody likes you.
+
+Ynett shrugged, looking entirely unconcerned. "It is done."
+
+Chloe looked around the battlefield. Sure enough, the mysterious hooded figures accompanying Ynett had already stopped fighting. Without a single word or even acknowledging anyone around them, they quietly turned and began walking toward the exit until none of them remained.
+
+Chloe watched them leave, trying to figure out what exactly they were. Friends? Probably not. Minions sounded a lot more likely.
+
+Honestly, they reminded her an awful lot of the villagers from the first time she'd met Ynett. Back then, the snake lady had casually puppeteered an entire village full of people like they were toys. These hooded weirdos had that exact same vibe.
+
+Some things, apparently, never changed. Which only made Chloe even more confused. Seriously... what in the world was Ynett actually trying to accomplish? Every time Chloe thought she understood the snake lady's plan, Ynett somehow managed to make things even weirder. At this point, Chloe wasn't even sure Ynett herself knew what she was doing anymore.
+
+Once the last of the hooded figures disappeared, an uneasy silence settled over the ruined hall. It wasn't a comfortable silence by any means. The floor was still littered with unconscious fallen angels, smoldering craters, broken furniture, and enough scorch marks to suggest that everyone involved had made several questionable life choices.
+
+But as if ignoring all that, the two patriarchs slowly began walking toward Chloe's group. Almost instinctively, Chloe tensed.
+
+She could regenerate from all sorts of unpleasant things, but something about these two made her think they could probably invent entirely new ways to ruin her day. Fortunately, Z calmly stepped forward before either patriarch got too close. "We can talk from a distance."
+
+The Graves Family Patriarch let out a snort, while the Bright Family Patriarch's expression immediately soured. This time, however, the Graves Patriarch spoke first.
+
+He rested the burning axe across one shoulder with an easy grin. "Fine by me, name's Sullivan."
+
+The Bright Family Patriarch folded his arms, looking as dignified as someone could while standing in the middle of a battlefield. "Hmph. And I am Amon."
+
+Wow, those names actually kinda sounded familiar to Chloe. She squinted at both patriarchs, tilting her head as she searched through the absolute disaster that was her memory.
+
+She was positive she'd heard both names before. Maybe Mom had mentioned them one time? Or maybe she'd overheard Z talking about them once? Or she'd read it somewhere? The harder Chloe thought about it, the less certain she became, and she just gave up after a while and decided to ask directly."
+
+"Hey," she said, pointing between the two men. "I swear I've heard both your names before somewhere."
+
+Sullivan laughed. "Wouldn't surprise me. You probably saw us in the news back when we were still in Heaven."
+
+Amon let out a dismissive scoff. "Is that truly important information?"
+
+"Guess not," Sullivan admitted with a shrug.
+
+Sullivan's grin stayed as relaxed as ever, but Chloe noticed his eyes quietly bouncing between Z, herself, and finally Ynett. He didn't seem to be sizing them up for another fight anymore. Instead, he looked like he was trying to figure out whether picking another fight with them was actually a smart idea.
+
+"Honestly," Sullivan continued, "I don't particularly like any of you."
+
+"Fair," Chloe muttered.
+
+"But it's obvious enough that you're all capable. If you've got a reasonable request, we'll hear it out. Afterwards, you're free to leave."
+
+Amon immediately shot Sullivan an irritated glare. "Do not presume to speak on my behalf."
+
+Sullivan simply shrugged again. "You can fight them if you want. Just don't blame me if I happen to... take advantage of the opportunity while everyone's distracted."
+
+Amon stared at him for several seconds before letting out an exhausted sigh. Chloe watched the exchange with growing satisfaction, as it was clear that these two really didn't like each other.
+
+Enemies who argued with each other were way easier to deal with than enemies who actually worked together. It meant less teamwork, more distractions, and hopefully fewer giant flaming axes aimed at her face, although there was one more thing she was worried about.
+
+Chloe's smile faltered slightly as her eyes drifted toward Ynett. Come to think of it, that was probably good news for the snake lady too.
+
+So, Chloe made a mental note to keep one eye on Sullivan, and then one eye on Amon, and somehow another eye on Ynett. She wasn't entirely sure where she'd get a third eye, but it really felt like this situation warranted one.

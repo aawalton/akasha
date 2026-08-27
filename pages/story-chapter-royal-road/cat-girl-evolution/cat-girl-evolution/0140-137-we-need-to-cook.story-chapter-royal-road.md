@@ -1,0 +1,195 @@
+---
+id: e12dd407-ff39-5e0f-9bb8-23c2a03a9c3a
+page-type-slug: story-chapter-royal-road
+title: "137 - We Need to Cook"
+slug: 0140-137-we-need-to-cook
+partOf: cat-girl-evolution
+position: 140
+ownLength: 2303
+unit: words
+publishedAt: 2026-07-08
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3647328/137-we-need-to-cook"
+royalRoadId: "3647328"
+---
+
+The first thing I do when I get back into my Dungeon is finalize the consumption of Joakim’s Dungeon. I was putting it off because we didn’t want to accidentally screw anything up before talking to the Maligar Dungeon Core, but now, we’re free to mess with stuff.
+
+As it turns out, we shouldn’t have been worried. Well, not about that part, at least. Consuming the other Dungeon basically just gave us a bunch of Dungeon essence, and moved our entry portal up a layer so it’s directly in Maligar now. Of course, that didn’t affect the cooldown for when I’m able to pick it up, but now, at least, I don’t have to worry about having different layers of the Dungeon.
+
+I do have to worry about what happened immediately after we did this, though.
+
+[ Dungeon Destroyer I → Dungeon Destroyer II ]
+
+“What?!” I say aloud. “That’s stupid! Why are the developers always so incompetent?!”
+
+“What happened?” asks A.
+
+“Dungeon Destroyer leveled up when I consumed the other Dungeon!”
+
+“Well, you technically did destroy it,” says B.
+
+“No, I consumed it,” I say. “And the core is still around. See, look! There he is!”
+
+I gesture toward the ginger-haired man that just appeared nearby to greet his sisters. Now that he’s here he’s basically free to move around the Dungeon as he pleases, and he can even make stuff like Abby and I can, as long as we don’t veto him. And he uses this power to make a small private area for him and the other two to talk.
+
+That’s fine, though. They can have their privacy. I mean, they all have died and been resurrected since they last saw each other, so it makes sense that they’d want to talk.
+
+“Well, I’d imagine this is one of those weird cases that they never thought would happen,” says A.
+
+“Dungeons aren’t really supposed to be walking around and entering other Dungeons, so it normally wouldn’t matter.”
+
+“It’s still stupid. Isn’t the next Delicacy in a Story Dungeon? Now that Dungeon Core is gonna be mad at me too! And what if that one has an even weirder fetish than feet. What if he likes… armpits?”
+
+“That’s what you’re worried about?” asks Lauren.
+
+“There are some real weirdos out there.”
+
+“Right,” she says.
+
+“But on the bright side, at least this means the dumb Dungeons might throw more Named monsters at us! We should go see if we can fleece a few of them when we get out.”
+
+“That’s a dangerous game,” says Abby, appearing next to us. “They may be dumb, but they’re not going to waste their essence like that if they don’t think they can defeat you. Any Named monster you fight in a Dungeon is almost definitely going to be stronger than you.”
+
+“That never stopped me before.”
+
+“You got lucky before.”
+
+“It’s not luck. I’m the Chosen One.”
+
+Abby stares at me, then sighs.
+
+“Well, at least be careful.”
+
+“I’m always careful. Anyway, Lauren.” I turn to my attention to my chef minion. “We need to cook.”
+
+“Huh?”
+
+I summon one of the tree fruits from my Stomach, hugging it in my arms and looking over it at her.
+
+“We need to cook.”
+
+“Ah,” she says. “Right. Yes. I agree.”
+
+“Okay, let’s go!”
+
+After the battle with Andala, the first Floor instance we were originally in was pretty trashed, so we’re in a new one that I had Abby make. As for Andala’s corpse, I just let Abby have it. I would normally have wanted to eat the meat, but all of Andala’s meat was rotten and smelled disgusting. Abby pointed out that it would probably still taste fine to my tastebuds, but even so, I have standards. I’m not going to eat months-old roadkill.
+
+The rest of the Dungeon is actually doing pretty well. With the addition of the other Dungeon’s essence, we can now build up to five regular Floors, or three complex ones. “Complex,” according to Abby, means having multi-faceted clear requirements, or multiple methods of completion. Technically, this first Floor is actually a complex one, since there are multiple ways to achieve the objective. A “simple” Floor would be something more objective and not up for interpretation, like killing a monster, or capturing a doll, or finding a labyrinth exit.
+
+Unfortunately, we can’t actually do anything about these Floors for a little while, since we had to “finalize” the second Floor earlier when we were dealing with Annie and Fiona, so it’ll be a while before we can make any big, sweeping changes. I can technically just delete the second Floor right now, but it won’t affect the cooldown before we can make any changes, so I just leave it in case I need to transport people between instances again.
+
+In the new, intact Floor, the royal kitchen in Queen Abby’s castle is also new and intact, and because Abby sometimes makes good decisions, it’s a very nice kitchen. On top of that, because Abby didn’t have the time to flesh everything about the Floor out, only the head chef has an actual personality, and everyone else there is a “default homunculus” meaning they only have, like, 3 lines and mostly just do whatever you tell them. Basically, we have assistants.
+
+James, the head chef is, predictably, a handsome man. He’s a bit different from Abby’s usual style, though. He’s huge—over two meters—scruffy, and notably lacking in washboard abs, but I think this is her attempt at more of a “dad bod” type character. He’s slightly older—mid-thirties, probably—with a short beard, and while his collar is unbuttoned at the top, his collarbone is not clean and smooth, and is instead a bit hairy. He’s got a resting stern face, and he doesn’t look too happy about us invading his kitchen, but when “Queen Abby” arrives to tell him to assist us however he can, he relents. Just like every other handsome man here, he is utterly devoted to Abby for no apparent reason, which works out in our favor.
+
+With assistants secured, we immediately get to work. The first thing we do is “butcher” the fruit. It’s too big to work with on its own, so we cut it into much more manageable chunks, many of which mysteriously disappear when they get too close to me. For the ones that don’t disappear, I store most of them away so they don’t spoil, leaving just one cantaloupe-sized chunk out on the counter in front of us.
+
+Interestingly, the fruit doesn’t have a seed. It’s all just edible fruit. I guess that makes sense, since even if it was possible to just grow Named monsters like that, there’s no way the Maligar Dungeon Core would allow that. If the original fruits had seeds, he would have no doubt removed them before letting anyone have them.
+
+“So, what are we making?” asks the chef.
+
+He looks at Lauren, since Lauren showed herself to be the more serious chef of the two of us, but Lauren then looks at me, while I look at the fruit.
+
+“Yona?” she prompts me.
+
+“I didn’t think this far ahead,” I say. “I’m actually not sure what I want…”
+
+“Seriously?”
+
+I massage my temples as I try to think of dishes that we can make with a mango-like fruit. I’m a big fan of mango, but I usually ate it on its own, or in a dessert. Mango sorbet is great, of course, but I’m in the mood for something more savory right now. Plus, I still have all that meat I need to do stuff with. And as far as nicer ingredients go, I have some Menyar, some Algon, and even some Skarn and Flarn…
+
+“I’ve got it!” I say, pounding my fist on my palm. “Fish tacos with mango habanero salsa!”
+
+“Mango what what?” asks Lauren.
+
+“Mango habanero salsa. Salsa made with mango and habanero.”
+
+“What are salsa and habanero?”
+
+“Salsa is sauce made with tomatoes and habanero is a type of spicy pepper.”
+
+“Huh,” says Lauren. “That’s an… interesting flavor combination.”
+
+“And a delicious one.”
+
+“How is it made?”
+
+“That’s a good question.”
+
+I didn’t get to eat it very often, since Mexican restaurants were few and far between in
+
+I’ve eaten it a few times, but I never bothered to find out how it was actually made. I know it’s got tomatoes and mangoes and habaneros, of course, but I’m not sure what else. Onions? Spices?
+
+Abby!
+
+“Already on it. Here you go.”
+
+A really long piece of paper appears in front of us. I grab it and start reading through it, then immediately go all the way to the bottom to find the actual recipe. I extend a claw, cutting off most of the top of the paper, then incinerate it with a miniature Fire Burst and set the shortened paper back on the counter.
+
+Abby, next time, get rid of the really long life story. I don’t need to know about Maria Jimenez’s abuela’s life motto or whatever that was talking about.
+
+“Whoops.”
+
+Lauren and James read through the ingredient list, and from there, we progress quickly. The ingredients are pretty simple, and because they’re simple. Abby and I can just conjure them. It costs us a bit of essence to do so, but for mundane ingredients, the cost is negligible to the point it’s not even worth mentioning. Fresh tomatoes, garlic cloves, habaneros, jalapeños, olive oil, and more appear on the counters all around, and the three of us get to work. The NPC chefs all stand to the side, smiling blankly while we work, which gets creepy enough that I make them all leave the room so we can work in peace.
+
+It takes a little over half an hour for the first batch to be ready, and as soon as it is, I use my Dungeon powers to conjure us a bowl of tortilla chips to taste test it. The three of us all grab a chip, load it with our salsa, and take a big bite.
+
+“Hmmm…” I say as I chew. “This just tastes like the fruit.”
+
+“I can’t taste the habanero at all,” says Lauren.
+
+“The tomato might as well not be there,” says James.
+
+“So, this recipe was a failure,” I say.
+
+We had half-expected something like this to happen. We took a fruit from a Named Disaster that was powerful enough that the holder of True Patience had to step in to take care of it, and paired it with a bunch of mundane ingredients with comparatively little flavor. We tried to counteract this by infusing the mundane ingredients with as much mana as they could hold, but clearly, it wasn’t enough. Not even close. I could barely taste the other flavors, and I’ve got like 3 Traits enhancing my taste buds.
+
+“Abby, give us some magic tomatoes this time,” I say.
+
+We repeat the process, this time with higher level ingredients. These ones are already naturally mana-infused, and their capacity for our infused mana is significantly higher, but in the end, the salsa ends up very similar to the previous version.
+
+“Well, at least I can kind of almost taste the spice this time,” says Lauren.
+
+“I feel a faint tingle on my tongue,” says James, nodding.
+
+“Abby?” I say.
+
+“There’s a limit to how much further we can go.”
+
+“Just give me the strongest you can.”
+
+A new set of ingredients appears on the table, these ones dense with mana. Nowhere near as dense as the giant mango, but they’re on par with some of the Tier 4 monster meat I’ve got in my Stomach. We take extra care this time, infusing them with mana before roasting them, after roasting them, and right before we mix them with the sliced maligar fruit. Lauren and James both show me a couple neat tricks with Mana Infusion, pushing me to Late Proficiency in the Skill, and at the end, we’re all feeling pretty good about the result.
+
+On top of the extra mana infusion in the non-Delicacy ingredients, we also drastically altered the ingredient ratios. We’re using about a tenth as much maligar fruit as we’re supposed to, and double the other stuff. The end result is… passable.
+
+“I don’t get it,” I say out loud as I swallow. “How is it still overpowering the other ingredients? We barely even used any!”
+
+“It’s not a Delicacy for nothing,” says Lauren. “I know I should have expected as much from something so famous, but this is still humbling. We are not at the level where we can comfortably work with this.”
+
+“That’s loser mindset. Besides, we’re getting there pretty quickly. How many levels have you gotten since we started?”
+
+“Two.”
+
+“Right. And how long did it take you to get your last level?”
+
+“A week.”
+
+“Exactly! If we just keep going, we’ll get something. We need to dilute the mango even more. Maybe we can infuse mana to reduce the intensity of the flavor or something. And if not, I’m only twelve levels off from my next Profession upgrade, and one Proficiency level from a Mana Infusion upgrade. We can do it!”
+
+“You know, you might be right,” she says.
+
+“Of course I’m right! Now, let’s try again. Abby, more fancy ingredients! Lauren, James, get ready to do the best mana infusion you’ve ever done. We’re gonna do it!”
+
+“Yeah!” says Lauren, getting fired up.
+
+“Yes,” says James, much less fired up.
+
+“Yeah!” I say louder.
+
+“Yeah!!” repeats Lauren.
+
+“You’re unusually energetic.”
+
+Abby, I’ve been carrying around Skarn’s corpse for months, and now I finally have a chance to make a condiment worthy of his meat. It needs to be perfect! So gimme those ingredients!
+
+“As you wish, Your Highness. And good luck in your cooking.”

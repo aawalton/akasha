@@ -1,0 +1,189 @@
+---
+id: ddf76d8f-f52c-5d43-9254-ddac4f698645
+page-type-slug: story-chapter-royal-road
+title: "109 - The Second Floor"
+slug: 0111-109-the-second-floor
+partOf: cat-girl-evolution
+position: 111
+ownLength: 2700
+unit: words
+publishedAt: 2026-04-03
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3225458/109-the-second-floor"
+royalRoadId: "3225458"
+---
+
+I let the others go and share their findings first, partly because Lauren is really taking charge and I don’t wanna interrupt her, and partly because I wanna see if I can solve the mystery before they do. If they all give me their information before I give them mine, I will be the only one with all the pieces, and I will have the highest chance of solving it. It’s genius!
+
+I nod seriously as Chad talks more than he ever has before—a whole five sentences—explaining what he found. It’s not much. He found the same tidbit that I did about the Sanctuary being locked down for the past few years, a few rumors about some random rich people that honestly sound like typical conspiracy theories to me, and finally, the fact that there’s a new product on the market that popped up recently. Some miracle panacea potion thingy that works on just about every single illness, infection, and even curses. No one knew where it came from, or how it was made, but everyone swore by it.
+
+Lauren found out roughly the same things, though with her stealth abilities, she was a little less limited in her exploration. Chad just had to wander around and talk to people, but Lauren could do that and follow suspicious-looking people around. She too thought that the potions were suspicious, and snuck into a couple of the sellers’ houses, and looked through their ledgers to find their suppliers. It looked like there were two regular suppliers, both wealthy noble families living in the city. If I was a betting woman, I’d bet that one of them was the same house that I was investigating right before I came here.
+
+The twins confirmed that the Sanctuary had been closed to the public for the past four years, and also had a whole slew of information straight from the castle. The city lord has been in an excellent mood, and has been spending more lavishly lately, despite no apparent changes to the city’s finances. Additionally, two other wealthy merchant-lords, who happen to be the same two suppliers that Lauren discovered, have been frequenting the castle, and there’s a rumor that the three of them have been going into the Sanctuary together late at night. Also, the city lord is sleeping with one of their wives.
+
+On top of that, four years ago, right after the Sanctuary was first sealed, the city’s most renowned artificer was silently called to the castle to complete a two month-long commission, after which the artificer suddenly got out of the enormous debt he had been in, and began living a very extravagant lifestyle that put him right back in debt, followed by an early grave. The early grave was likely not related to the extravagant lifestyle, though. Not directly, at least. It was rumored that he had been fooling around with the City Lord’s daughter shortly before he died of a sudden heart attack. Quite the coincidence.
+
+The twins went on and on about a dozen other small rumors, some of which seemed mildly relevant, and others of which seemed completely irrelevant until finally, I decide to interrupt them and ask the question that I know is on the rest of our minds.
+
+“How did you guys even find this stuff out? Did you just do your regular interrogation thing and happen to find someone with loose lips?”
+
+“Kinda,” says A.
+
+“We saw one of the guards finishing his shift and heading toward a tavern, so we seduced him,” explains B.
+
+“What?” I ask.
+
+“We seduced him,” repeats A.
+
+“Really?”
+
+“You’d be surprised what some men are willing to say when they’ve got a few drinks in them, and one of us on either side,” says B.
+
+“We followed him to the tavern, bought him drinks, and let him talk.”
+
+“He’s actually a pretty nice guy.”
+
+“He’s got a nasty gambling addiction, though.”
+
+“His wife left him last year because of it.”
+
+“He tried to get better by giving a friend control of his money so he couldn’t gamble it away, but then he caught his friend embezzling it, and after that, the gambling only got worse.”
+
+“And after that–”
+
+“Okay, okay,” I say. “He’s got a tragic backstory. What did you do with him afterward?”
+
+“We slipped him some extremely concentrated alcohol to knock him out and left him for the tavern owner to deal with.”
+
+“That’s pretty shameless.”
+
+The twins shrug.
+
+“They’re homunculi,” says A.
+
+“And we’re probably gonna be leaving this Floor pretty soon anyway,” says B.
+
+“It sounds like we already found all the clues we need to put the answer together.”
+
+“Unless you found something that contradicts our findings?”
+
+I think for a moment, then shake my head. Unfortunately, it seems that my information is going to be largely useless, and I won’t be solving the mystery first. I think that all of us already know the answer to the Floor Challenge. The tree was kept alive because its fruits are valuable, and can be used to make that panacea potion. The city lord and the two other merchant nobles are in on it, and are making big money off it. The artificer probably made some kind of containment or suppression device so people wouldn’t notice. Or maybe a mana concentration device to improve the fruit. Either way, the answer is pretty obvious.
+
+“Nah,” I say. “Basically the same as you guys. I found one of those noble merchant people you guys were talking about, and I know his face, but I didn’t get his name, so I don’t know which one he is. Oh, and also, I was talking to the Dungeon Core, and he said–”
+
+“You talked with the Dungeon Core?!” exclaims Lauren, rudely interrupting me.
+
+“Yes, and–”
+
+“Are you sure?!”
+
+“Why wouldn’t I be? As I was say–”
+
+“Yona, that’s not something you can just gloss over,” says A.
+
+“Dungeon Cores don’t just talk to people,” says B.
+
+“Well, apparently this one does,” I say.
+
+“But why?” asks A.
+
+“And why only you?”
+
+“I dunno. The first time he showed up, he said he was suspicious about me having Dungeon Destroyer.”
+
+“The first time?” asks Lauren. “He’s spoken to you before?”
+
+“Yeah, a couple times. First on the first Floor when we went into the Sanctuary for the first time, and then again when I was digging to find the bottom of the Dungeon. By the way, it’s not actually that far down. Only a kilometer or so.”
+
+“You’ve been regularly communicating with the Dungeon Core this whole time and didn’t tell us?”
+
+“Well I wouldn’t say regularly. He just kinda shows up to bother me occasionally and acts like a perv, then goes away. Well, at least the first two times he did. I didn’t say anything because he said he would watch me while I was changing, and I figured you guys would be creeped out if you knew he was doing that.”
+
+“He’s what?!” ask the twins, showing a rare expression of disgust.
+
+“He said he’d stop, though,” I explain. “We came to an agreement. Besides, he’s probably more interested in what’s under your shoes than what’s under your clothes. But that’s not important. The important thing is that there’s another Dungeon Destroyer here, and that one is actually trying to destroy the Dungeon. And that Dungeon Destroyer has set up their own Dungeon on the 5th Floor somehow, which is preventing the Dungeon Core from killing them, and also screwing up the 5th Floor.”
+
+I give them a few seconds to digest the information before I continue.
+
+“The Dungeon Core says he’s recruiting the other Parties challenging the Dungeon right now, and he wants our help too. He can’t send his own constructs into the nested Dungeon, and he can’t go in himself, because it would be suicide, so he’s hoping that we and the others can solve the problem. If we destroy the core of the nested Dungeon, the Dungeon Destroyer will be exposed, and the Dungeon Core will be able to participate in killing him. Or we can kill them ourselves, since it would benefit us a lot, as the Dungeon Destroyer is a Named monster.”
+
+There are a few more seconds of silence before the others explode with clarifying questions. It is at that point that I realize I probably should have also asked some clarifying questions, because I can’t answer any of theirs. I don’t know what the monster’s Name is, or what kind of abilities it has, and I don’t even know what type of Named it is. And when I try very politely to ask the Dungeon Core to give us more information, for some reason, he doesn’t answer.
+
+“Maybe he’s talking to another group right now,” Lauren suggests.
+
+“Maybe…” I say.
+
+“No, he should have heard it. Dungeon Cores have excellent awareness of what happens in the Dungeon.”
+
+Ah, then maybe he’s just embarrassed that I exposed his foot fetish.
+
+“Or, he doesn’t feel like helping after you badmouthed him.”
+
+But his life is at stake!
+
+“And you’re not going to be on the 5th Floor for a while, so he has some time to be petty.”
+
+Shit, you’re right.
+
+“Well, we’ll just have to figure it out when we get there,” says Lauren. “For now, though, we should focus on these Floors. Especially if the Dungeon is in danger. We want to clear them as quickly as possible.”
+
+“Oh, right, he also said that my abilities kinda counter the Dungeon, so we should make some quick progress.”
+
+“That’s good,” says Lauren.
+
+“It’s a bit of a shame, though,” says A.
+
+“We were hoping that Maligar would be a bit more challenging,” says B.
+
+“It would make things more interesting.”
+
+“Such a shame…”
+
+“Actually, yeah, why is it so easy?” I ask. “I mean, even without me, you guys basically solved this Floor on your own, and you didn’t even do anything crazy. Why is this a Platinum Dungeon?”
+
+“Challenge Dungeons are rated slightly differently from Tower and Field Dungeons,” says Lauren. “They’re rated on potential danger rather than actual danger, and that potential danger has to remain reasonable. Some Silver Challenge Dungeons have Tier 4 and higher monsters roaming around, but since they’re relatively easy to avoid, and you’re not supposed to confront them, the difficulty still remains at Silver. The Platinum rating on this Dungeon just means that it will be dangerous enough that being in Platinum is recommended, but that doesn’t necessarily make it any more difficult.”
+
+“Huh,” I say. “I guess that makes sense. But this Floor definitely isn’t Platinum-rated danger.”
+
+“No, but I assume the later Floors will be. Especially if it continues with the theme of the tree growing more powerful, to the point that the entire city needs to be erased to deal with it.”
+
+“Yeah, fair. Alright, then, since that’s covered, I think we all know what the answer to this Floor is, right?”
+
+Everyone nods, and then Lauren explains it out loud, at which point, an Annoying Yellow Box appears in front of us.
+
+[ You have uncovered the greed and hubris of the people of Maligar and completed the Floor Challenge! Reward: Panacea Potion x5 ]
+
+[ Waiting for Party Leader to select course of action… ]
+
+In front of each of us, five glass vials appear filled with translucent orange liquid. Based on the name and the recognition on Chad and Lauren’s faces, this must be the same potion that they were selling in the markets. And since it’s a Dungeon reward, that means it’s probably safe. After briefly studying them, we all deposit ours away and turn back to Lauren.
+
+“Are we ready?” she asks.
+
+“Y–” I start. “Wait, no! Hang on! I’ll be right back!”
+
+With only one hour remaining before we’re forcibly ejected, I have to be quick, so I switch to cat form, and start Blinking rapidly through the city until I reach the castle. I can sense some kind of mana patterns in all the walls surrounding the castle, and it makes it impossible to Blink in, so instead, I just Spatial Slice my way through the wall. This sets off a million alarms, of course, but I ignore them and Blink past the broken barrier, then repeat the process a few more times until I reach the Sanctuary.
+
+It looks almost exactly how we left it, with two major differences. First, the tree is way bigger, and way more ominous. It was hard to tell from the little bit poking out of the glass, but the tree has definitely grown more monstrous. Sharp roots stick out of the ground all around it, and many of the branches end in what look like sharpened points. The mana inside is flowing much faster as well, and the entire plant seems to be quivering, almost like it’s angry.
+
+The second major difference is an enormous metal ring surrounding the entirety of the Sanctuary. It’s intricately carved with mana patterns, and feels like it has as much mana as the rest of the city combined. It’s constantly shoving mana into the tree, and though I haven’t had much experience with it, I’m pretty sure it’s nature magic. That would make sense, since they need the tree to produce a lot of fruit, so they’re probably boosting it a bit. There’s also further enchantments that seem to have some kind of restraining effect, both on the tree itself, and its mana to keep it from being sensed from outside.
+
+Almost as soon as I enter, the doors to the Sanctuary burst open, and half a dozen guards file in, but I ignore them, Snatching as many ripe fruits from the Sacred Mali Tree as I possibly can, then Blinking away before any of their attacks can reach me.
+
+As I flee the scene of the crime, I store most of the fruits away in my Stomach, but I peel one with a pair of mana hands and start munching on it, taking a big bite of the fruit right as I teleport back into the inn. The city is in chaos all around, but I barely notice as the heavenly taste of the fruit fills my mouth, juice dribbling down my furry chin. It tastes even better than it did on the last Floor, somehow, and I know this is only the beginning. We still have three more Floors to go, and a Named tree on the final Floor to pluck.
+
+“Really?” asks Lauren.
+
+“What?” I say, mouth full. “I got you some too.”
+
+“For us too?” ask the twins.
+
+“Of course! I treat all my minions well! Now let’s get going before the alarms get too annoying.”
+
+Lauren sighs, but nods, and a moment later, our surroundings fade as we are transferred to the third Floor.
+
+Life in Lauren’s backpack was as terrible as usual. Annie couldn’t see anything, and could only guess what was going on based on the sounds she heard. She was grateful she at least had that much stimulation, but she had to admit that not having a body was starting to get to her. With nothing to do but think, she felt like she was starting to go crazy.
+
+Worse than the deprivation, however, was the knowledge that it would be ending soon, one way or another. She knew that Yona and her minions wouldn’t kill her, and she knew that with her siblings’ lives still hanging in the balance, she wouldn’t kill herself, but that didn’t matter. Not when her creator was involved.
+
+When she entered Maligar, she finally understood why she had so briefly felt his mana a month earlier just before Yona finished her Evolution. The brief sensation followed by it disappearing could really have only one meaning: he had exited, then re-entered a Dungeon. And as soon as she arrived at Maligar and sensed his residual mana, she knew exactly which one it had been.
+
+Her time as a severed head would be ending soon, one way or another, and despite how much she disliked her current situation, she was not looking forward to it in the slightest.

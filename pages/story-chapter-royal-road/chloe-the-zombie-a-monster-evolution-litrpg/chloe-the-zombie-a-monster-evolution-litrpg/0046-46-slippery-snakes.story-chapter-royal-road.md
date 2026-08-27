@@ -1,0 +1,259 @@
+---
+id: 097e9a06-0d7b-5ef0-a251-2d909baba745
+page-type-slug: story-chapter-royal-road
+title: "46: Slippery Snakes"
+slug: 0046-46-slippery-snakes
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 46
+ownLength: 3117
+unit: words
+publishedAt: 2025-10-06
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2655915/46-slippery-snakes"
+royalRoadId: "2655915"
+---
+
+Ynett felt a bit concerned. The flow of mana within her body was not what it had been at the start.
+
+She had indulged herself too long, toying with the Zombie Girl, underestimating her tenacity and unnatural resilience. For the first time, she regretted the choice.
+
+The constant maintenance needed to control her thralls, and the strain of weaving her illusions had drained her mana reserves more than she cared to admit.
+
+Even after splitting her body, Ynett had regained much of her strength before Chloe arrived. And yet, the zombie girl still proved troublesome.
+
+But Ynett refused to believe she could lose. She had fought too hard to evolve into her current state. She would not be undone here, by this wretched corpse.
+
+The creature stumbling toward her was armless and clumsy. Even stripped of her illusions, Ynett knew she remained the superior one.
+
+She shifted her stance, her sword of ice gleaming as Chloe barreled closer. One clean strike would suffice.
+
+Then her gaze fell to the ground. Water pooled around her feet, remnants of the earlier fireballs. When her eyes rose again, Chloe was still grinning, far too wide for someone on the verge of death.
+
+So that was her plan. Pathetic.
+
+Ynett did not even bother to raise her blade. Instead, she shifted her step, pressing her heel against the puddle. Frost bloomed outward in an instant, sealing the water into a sheet of slick ice.
+
+Chloe’s charge carried her right onto it. Her balance vanished as she slid across the frozen patch. Ynett stepped aside, watching as the girl flailed before crashing headlong into the snow.
+
+It was time to end things. Chloe was an abomination, yes, but even abominations had rules. Most creatures, no matter their origin, tended to die when their head was destroyed.
+
+Ynett raised her sword and aimed it at Chloe’s skull. She drove the blade down.
+
+The moment the blade should have pierced flesh, the girl’s cloak writhed. Black tendrils burst from its folds, coiling around Ynett’s wrist and dragging her strike away from its intended target. Her sword bit into the ground instead, frozen dirt spraying up in shards.
+
+Ynett bit her lip in frustration. That cloak, whatever it truly was, had no right to interfere. It should’ve been a passive object, not a combatant.
+
+Soon, she conjured another ice blade in her free hand. Ynett brought it down and slashed through the writhing tendrils still wrapped around her arm.
+
+The black things let out a strange, faint shudder before curling back into the cloak’s folds like dying spiders. It was unpleasant, but effective. She wrenched her other hand free and took a step forward.
+
+Chloe, for her part, had begun trying to crawl away. It was a laughable attempt at best.
+
+Ynett had seen creatures broken in battle before, but this was just embarrassing. With a sigh, she raised both blades and drove them down: one into the zombie’s chest, the other into her throat. The crunch of ice slicing through flesh was satisfying.
+
+Of course, she didn’t expect the girl to die from such wounds. Chloe wasn’t built like anything else Ynett had faced before. No heart to stop, no blood to spill, not much that played by the rules. Regardless, this would keep her still long enough.
+
+Ynett had won. Chloe was beaten, and now she could do whatever she pleased. Sure, part of her wanted to finish the girl off completely, but why waste a good opportunity?
+
+Killing Chloe now would grant a fine burst of experience, maybe even bump her up several levels if she was lucky. But that would be shortsighted.
+
+Ynett was a visionary. Why settle for a short term reward when she could shape Chloe into her most powerful thrall yet? The Great Game wasn’t ending anytime soon, and for that, a long term plan was necessary.
+
+The White Witch didn’t know exactly how the girl had broken free last time, but it hardly mattered. This time, Ynett would make sure that Chloe had no chance of breaking free. Maybe she’d been sloppy with her mind magic before. That wouldn’t happen again.
+
+Ynett knelt and placed her palm just above Chloe’s head. Mana curled from her fingers, threading toward the mind below.
+
+The moment her spell touched the zombie girl's mind, Ynett felt the pushback of mental resistance, but it was weak. Chloe's resistance, if it could be called that, was like a door held shut by a child.
+
+Ynett made short work of Chloe's mind. The zombie’s head was full of distractions and nonsense. But more than that, it was simple.
+
+The White Witch couldn’t help but laugh as she dug through Chloe's mind. It was almost disappointing how easy it was to slip her influence in.
+
+But then, Ynett felt something strange. Something shifting beneath the surface of Chloe’s mind. She frowned and reached for it, a bit curious about what it could be. Unfortunately, that curiosity would turn out to be a mistake.
+
+That was when she sensed hatred coming from Chloe's mind. Not just anger or frustration, but real, seething hatred.
+
+It didn’t make sense. Chloe had never shown anything like that before. Even when her arms were torn off, she didn't seem that bothered.
+
+But this was something deeper. A kind of malice that had been buried for a long time, left to fester and grow into something terrible.
+
+Ynett’s body reacted before her mind could catch up as she stumbled back. The fear she felt wasn’t logical at all.
+
+Then she heard it. A sharp crack.
+
+Ynett looked at Chloe’s body. Both of her ice swords, still jammed into the girl’s chest and neck, shattered like glass. The shards scattered into the snow and vanished, leaving nothing behind.
+
+And just like that, the last of Ynett’s control over the situation crumbled. For the first time in years, she felt fear.
+
+She couldn't believe her eyes as she watched Chloe rise. The zombie girl pushed herself up from the ground slowly. The wounds in her chest and neck both healed in a matter of seconds.
+
+However, Chloe's arms were still gone. By all rights, she should still be losing.
+
+Ynett still had most of her strength. She still had mana. She still had the advantage. And yet… she couldn’t move.
+
+Her legs and hands refused to do anything. Because Chloe was staring straight at her.
+
+There was none of that chaotic energy left. No wildness in the girl's eyes. Instead, there was a strange calm. Something that didn’t belong on that face.
+
+Ynett got the sinking feeling she wasn’t looking at the same person anymore. Or maybe… this had never really been Chloe to begin with.
+
+Then the girl spoke. “If you hadn't indulged in pride, perhaps your ambitions may have succeeded. But you will now pay for your arrogance.”
+
+Ynett felt her lips move before she even thought about it. “Who… who are you really?”
+
+There was a pause. A faint smile tugged at Chloe’s lips. “I am who I am."
+
+Ynett’s breath turned to fog in the cold. Her hands started shaking. Something was wrong, very wrong.
+
+“Perdition Rite Number Six: Divine Spear.”
+
+A second later, something tore through Ynett’s chest. Pain exploded all at once.
+
+Her knees buckled, barely keeping her upright. She hadn’t felt any mana stir. There had been no warning. Just pain.
+
+Ynett gasped, grabbing her chest. Her fingers touched something hot and thrumming. A red spear, made from pure energy pierced through her heart, vibrating against her ribs.
+
+She coughed, blood spraying from her mouth and splattering against the snow. Chloe, if that was still her, walked towards her slowly. “I do hope you return stronger, because I see potential in you. In time, you might actually become a proper adversary.”
+
+Ynett tried to reply. She wanted to curse her, to scream, to lash out. But all that came out was a broken rasp.
+
+The red spear pulsed once more, and her strength drained in an instant. Her legs gave way. Her shoulders sagged.
+
+But in one last act of defiance, Ynett forced her mana into one final ice sword. It was all she had left.
+
+Chloe looked anything but impressed. The zombie girl just watched as Ynett’s grip faltered, unable to even hold on to her own sword.
+
+Ynett tried to fight. To do something. But it was all too late.
+
+***
+
+There was a lot of confusion. First of all, Chloe's head hurt like crazy.
+
+Everything was spinning, and the last thing she did remember was getting stabbed twice with ice swords. Which made it super weird that she was now standing in the snow, still armless, but very much not impaled.
+
+Across from her, Ynett was crumpled on the ground, with a gaping hole punched clean through her chest. Chloe stared, blinking a few times just to make sure what she was seeing was real.
+
+That definitely hadn’t been there before. She glanced down at herself, then back at Ynett. Huh, did I do that?
+
+Well, Chloe didn't really know how exactly she beat up Ynett. But she guessed that her sheer awesomeness must have worked things out somehow. And the notifications soon appearing confirmed her achievement.
+
+[You have killed: Ynett, the White Witch (Ophian Cryomiragist Level 5)]
+
+[Experience Awarded]
+
+[You have leveled up! 4 >> 7]
+
+[Strength +22, Speed +11, Vitality +13, Magic +33, Resistance +14]
+
+[Skill Upgraded: Cursed Rock Shot V >> Cursed Rock Shot VI]
+
+[Skill Upgraded: Fireball IV >> Fireball VI]
+
+Chloe couldn't help but feel proud of herself. Something about beating Ynett felt a lot more satisfying than beating the other enemies she's had so far.
+
+But then, Chloe tilted her head, looking at the notifications. Ynett, the White Witch. Ophian Cryomiragist, Level 5. That’s… kind of low, isn’t it?
+
+She chewed on the thought for a moment, or at least pretended to. Wolfie had mentioned that Ynett was a champion of chaos like her, which meant she must have gone through an evolution not too long ago. That would have reset her level back down. That made sense enough to Chloe.
+
+Her grin sharpened as she mulled it over. If champions had their levels reset, then what about everyone else? Normal monsters, normal people, did their levels stay the same? Or did they just need more levels to evolve? Or fewer? Or both?
+
+Anyway, all that thinking had done nothing but stir up Chloe's appetite. Now she really wanted to chew on a brain. Conveniently, there was one right next to her.
+
+Chloe leaned closer to Ynett’s body, only to stop as it hit her. She still didn’t have arms.
+
+She glanced around the ruined village. The street was littered with shards of ice and splintered wood, but no villagers. Every villager had gone boom.
+
+Chloe scratched at Cloaky with her shoulder while she thought it over. She needed arms. Obviously, Ynett’s arms would do. The problem was figuring out how to cut them off… without hands.
+
+She tried to tap her chin out of habit, only to remember she didn’t have a hand to tap with. That just made her scowl harder.
+
+Her gaze darted to Ynett’s own ice sword, still stuck in the ground. Ohhh, yes. That’ll do.
+
+Chloe waddled over awkwardly, nudging the sword loose with her foot until it clattered free. She kicked it around a few times, scooting it this way and that until the angle looked just right.
+
+Then she flopped onto her back, lifted her legs high, and pinched the hilt between her knees. With a bit of wiggling, the blade stood upright, wobbling dangerously.
+
+She hooked her boot under Ynett’s limp body and dragged her closer, lining one pale arm against the waiting blade. Then she shoved hard with her foot. The ice edge bit clean, and the witch’s arm thumped into the snow.
+
+Ha! Who needs hands when you’ve got legs?
+
+She repeated the process with the other arm, grunting every time the sword tilted like it might slip. By the end, both limbs lay neatly in the snow.
+
+With that settled, Chloe crouched and pressed her stumps against the severed hands. Almost immediately, her tendrils stirred, writhing out as they slithered into the flesh, snapping and popping as they dragged Ynett's arms tight.
+
+Chloe grinned wide as her tendrils snaked into Ynett’s severed arms, pulling them snug against her stumps. In just a few seconds the stitching was done.
+
+At first they looked all wrong, too pale, too thin, and definitely not hers. But her tendrils weren’t sloppy. They reshaped muscle, darkened skin, and tweaked every little detail until the arms blended in with the rest of Chloe's body.
+
+By the time both arms finished shifting, she was back in business. She punched the air with a laugh. “Good as new!”
+
+And with that sorted… it was finally brain time. Chloe crouched over Ynett’s head, licking her lips.
+
+She cracked Ynett's skull open and dug right in. The first bite was cold, sharp, and tingly, almost like chewing snow that somehow tasted sweet.
+
+The next mouthful fizzed across her tongue before melting into something buttery and rich. Chloe’s eyes rolled back in glee. Best. Brain. Ever.
+
+[Brain Consumed: Ynett, the White Witch (Ophian Cryomiragist Level 5)]
+
+[Experience Awarded]
+
+[You have leveled up! 7 >> 13]
+
+[Strength +44, Speed +26, Vitality +28, Magic +63, Resistance +25]
+
+[Skill Upgraded: Charm Resistance II >> Charm Resistance IV]
+
+[Skill Upgraded: Magic Resistance VI >> Magic Resistance VII]
+
+[Skill Upgraded: Mana Sense VIII >> Mana Sense IX]
+
+[Skill Upgraded: Mana Control VIII >> Mana Control IX]
+
+[Skill Upgraded: Frost Resistance III >> Frost Resistance IV]
+
+[New Skill Acquired: Frost Touch I]
+
+Chloe blinked at the flood of text and almost squealed. Six whole levels meant a bunch of numbers went up at once, and the new skills made it even sweeter. Frosty fingers sounded like something she couldn’t wait to try.
+
+Beating Ynett had been satisfying, but eating Ynett was even better. She wiggled her new fingers, still amazed at how neatly they’d attached. Clapping them together just to hear the sound made her grin widen. They were hers now, no question.
+
+Sadly, she didn’t get any of Ynett’s mind control powers, which was a little disappointing. But her charm resistance had gone up two levels, so if she ever fought someone like Ynett again, she’d be ready.
+
+Anyway, Chloe was just about to test Frost Touch when a sharp throb cracked through the back of her skull. She winced, as it was clear that a vision was coming.
+
+The throb in Chloe’s skull sharpened, and before she could even whine about it, the world tilted. Snow and ruins melted away, and in their place something pale slithered through the dark. A snake.
+
+Its body gleamed white as it slipped over roots and rocks. Chloe squinted and tilted her head, thinking it had to be Ynett. Or maybe baby Ynett. Or pre-witch Ynett.
+
+The snake wasn’t sliding through some cozy cave or a nice snowy meadow either. It lived in a place that looked rough. A dense forest with predators waiting in every corner.
+
+Still, the snake endured. Chloe watched as it struck at smaller creatures, snapping them up one by one. Rats, birds, even lizards that reminded her way too much of the Shivermaw, except a lot smaller. The more it ate, the bigger it grew, and the bigger it grew, the braver it became.
+
+Soon it wasn’t just snatching small prey anymore, it lunged at monsters much larger than itself, refusing to stop. Chloe was amused at the sight.
+
+She figured Ynett would always try to chew on something bigger. Then again, Chloe sort of did the same with brains, so she really couldn’t judge.
+
+The vision shifted again, and Chloe saw the snake coiled tight around a beast twice its size. Its body squeezed until the monster turned completely still. By this point, Chloe realized the snake was eating for more than food, it was pushing itself further.
+
+Then, for the first time, Chloe got to see what it actually looked like when a monster evolved. Shadows poured over the snake’s body, swallowing it whole until not a single scale was visible. Inside the strange cocoon looking thingy, the snake writhed, twisting and reshaping itself.
+
+After about a day, the dark shell finally peeled back and dissolved into nothing. A few minutes later, the snake slid free, but it wasn’t the same as before. Its body was larger, its fangs sharper, and even its eyes started to glow a little bit. So that’s what happens when I evolve? Neat.
+
+The newly evolved snake slid across the forest floor with far more confidence than before. And when its glowing eyes settled on the smaller animals around it, something big happened.
+
+Rabbits froze in place, their ears twitching. Birds tilted their heads in eerie silence. Then, one by one, they began to move exactly as the snake wanted. Ohhh, so this is the start of Ynett's Mind-control powers. Figures. Creepy little boss snake, telling other animals what to do.
+
+The serpent slithered deeper into the woods, its unwilling entourage trailing close behind. For a moment, it looked untouchable, like the entire forest bent to its will.
+
+But then the air shifted, sharp and heavy, and something darker moved in the shadows. A black wolf padded into view.
+
+The snake’s head snapped up, tongue flicking quick. For once, it looked nervous.
+
+The wolf prowled closer, gaze locked tight on the pale serpent. And just like that, the snake panicked. It whipped around, scrambling up the nearest tree and vanishing into the branches while the wolf circled below.
+
+The vision bled out after that. Chloe blinked hard, and the ruined village snapped back into place around her. She wobbled once, rubbing her eyes.
+
+So that’s her deal? Rough life, lots of chomping, then she evolves into a creepy snake. Guess that’s why she’s so obsessed with bossing people around. Well, sucks to be her. Now her brain’s in my belly.
+
+Chloe glanced down at what was left of Ynett’s body. Last time, when she’d beaten Luther, she’d stuffed his corpse into a storage scroll to drag it back. There was no scroll this time, but she still needed to bring Ynett's body back to complete the bounty.
+
+She looked between Ynett’s limp form and Cloaky’s restless folds. Then, suddenly, a thought popped into her head. What if I just stuffed Ynett into Cloaky? But wait, I'm pretty sure I tried with Luther last time, and that didn't really work. Hmm, does this mean I just have to drag Ynett all the way back?

@@ -1,0 +1,163 @@
+---
+id: 962a7bc0-279c-58de-8041-a14bb337fbfb
+page-type-slug: story-chapter-royal-road
+title: "66 - The Field Boss"
+slug: 0066-66-the-field-boss
+partOf: cat-girl-evolution
+position: 66
+ownLength: 3060
+unit: words
+publishedAt: 2025-12-24
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2875445/66-the-field-boss"
+royalRoadId: "2875445"
+---
+
+The boar doesn’t seem to notice me. It doesn’t seem to notice much of anything, really. It just trudges around mindlessly. Of course, it doesn’t need to do much else to cause destruction, since every footstep leaves a hoof-shaped crater behind and it’s already killed at least twenty trees, but its odd passiveness gives me some time to think about how best to go about killing it.
+
+Clearly, it’s a Disaster. Abby said as much, and even if she hadn’t told me that, it would be obvious. It isn’t an Infiltrator because… Well, because it’s enormous and not at all stealthy. It’s not a Leader because all the other boars are running away from it, and it’s not a Hermit because it’s moving around. I think. I guess it could technically be a Hermit, but Abby said it’s a Disaster, so it’s a Disaster.
+
+Because it’s a Disaster, that also means that it has some pretty crazy Stats. Joshua was a Disaster too, but he was a stupid Disaster and the only thing he had going for him was a massive mana pool that he didn’t even use. As mindless as this Disaster is, I doubt it’s going to be that bad at using its Stats. And since it’s a tier above me, it probably has higher Stats than me too. That means I have to be smart about how I fight, which is fortunate, because I am very smart.
+
+It’s big enough that none of my regular attacks are gonna be able to do much. Even as big as my sword is, I don’t think it’s long enough to pierce any vital organs. On the bright side, if it’s anything like the regular boars, it’s probably super weak to Spatial magic. It also probably can’t fly, so I guess the first thing I need to do is test its defense.
+
+I float over, still on my hand, but with every meter I move closer, I start having doubts. It’s a Named Disaster. Should I really be getting this close? There’s no way it’s that one-dimensional, right? I should back out.
+
+I push the thoughts aside and press further, but they come back stronger, and when I get to about twenty meters away, I stop moving. I refuse to go any further. This is too dangerous. My whole body is trembling. I can barely move. I need to leave.
+
+Two Blinks get me back to my original distance, and as soon as I get there, I stop again. Something’s weird. What just happened? Why did I suddenly get so scared?
+
+“All Disasters have aura Skills.”
+
+Ohhhhhh. You’re right. I forgot about that. And this one’s name is “Terror of the Forest,” which means that it probably has something to do with terror or fear, and that’s why I felt that way.
+
+“Precisely.”
+
+Well, that’s dumb. I’m glad that no one else is here to see me, because that probably looked pretty stupid. Time for take two!
+
+I approach again, and the fear slowly grows inside me, but this time, now that I’m consciously aware of the aura’s effect, it’s almost a non-issue. I can feel the fear, but it’s not affecting me. I’m still moving forward. I’m not stopping. I don’t want to stop. Well, I kinda do, because somehow, despite only spawning a few seconds ago, this thing already reeks, but that’s different. I am fine.
+
+I summon the Gluttonous Greatsword. My hands are trembling.
+
+Okay, maybe not that fine, but it’s bearable.
+
+The monster still hasn’t noticed me yet, still casually walking around with me floating right over its head. I have my mana hand follow it from just above as I charge up a Spatial Slice to about half. Then, I re-absorb the hand and fall down toward its neck, swinging down.
+
+This close to the boar, the effect of its aura is extremely powerful, and I even flinch as I’m about to hit it, making my attack much weaker. The mana from the Spatial Slice hits first, sending severed furs and drops of blood flying, and the sword hits a moment later, sinking into the cut made by the mana and pressing deeper.
+
+When it stops moving, the sword has sunk an entire… meter into the boar’s flesh. I feel it get caught on the bone, not able to go any deeper. Shit.
+
+Feeling the pain in its neck, the boar finally seems to notice me, and lets out a deafening squeal of rage and pain. I don’t think there was any magic in the attack, but just the volume of the squeal alone is enough to dizzy me. Fortunately, it doesn’t seem to have any good attacks for hitting something on its back, so I’m able to recover and Blink away before it can really do anything.
+
+It squeals again, and this time I dismiss my sword and cover my ears to protect them as I observe the monster from above. It doesn’t look all that affected by my attack. It wasn’t full power, but it was half, so a full power attack probably wouldn’t do too much more. I guess if I went a little deeper, I would have cut into its spine, and that could have been damaging, but its bones seem a lot stronger than its flesh, so even then, maybe not.
+
+It charges toward me, knocking over dozens of trees. It can’t actually hit me, but it does stop right below me and tense its entire body, causing its fur to bristle in an attack I recognize. I immediately Blink upward half a dozen times trying to get out of its range. Then, right as it fires its attack, Abby shouts in my ear.
+
+“Use your shield!”
+
+My shield? My shield! I have a shield!
+
+As the bristles fly upward at near supersonic speeds, I conjure a wide Autonomous Mana Shield right below me. Then, I conjure three more, just to be safe. The last one appears right as the needles hit the first one, shattering it instantly. The second one also shatters, and the third one barely holds, a dozen hairy bristles stuck deep in the mana. That would have been bad if that hit me. Thanks, Abby!
+
+“I was just protecting myself.”
+
+Yeah, whatever.
+
+I look down at the boar, which is turning around in confusion, apparently having lost track of me. With a bit of time to breathe, I start thinking of options. Of course, there’s the classic strategy of taking out its legs before finishing it off, but that’s still risky. I’m sure I could take it to the ground, but it still has the bristly fur attack, so even if I cripple it, I won’t be able to finish it off easily.
+
+Maybe a big explosion right in front of its face would do some work. If I could stun it so it couldn’t shoot its bristles, I’d be able to hack away more. I do have Fireball now. Plus, I still have a couple of those super attacks from A stored up. But if it’s that resistant to the already very magical Spatial Slice, I’m not sure if those will be enough. Right, Abby?
+
+“Structured magical attacks are generally better at overcoming defenses than large, undirected explosions, yes. Perhaps if you could direct all that explosive energy at one point, it would work, but your Spatial Slice is better against its hide than any explosion will be.”
+
+But it’s still not enough. Hmmm…
+
+I summon the Gluttonous Greatsword and study the veins, which are now faintly glowing with blood and mana. I bet that if I fully charged this thing up, it’d do the job. And that big pig down there has a lot of blood and mana.
+
+Grinning, I look back down at the boar. The sword might not be able to go through its bones right now, but its bones aren’t where the blood is anyway.
+
+The boar looks like it has forgotten about me, and is now back to wandering around the Dungeon, so I slowly descend back down until I’m right over it again. Ignoring the fear aura is even easier after experiencing it twice, so I push the subconscious thoughts of running away to the back of my mind and charge up another Spatial Slice. However, this time, I don’t “slice.” Instead, I use Food Sense to detect the soft meat between two of its ribs, then stab, pointing the blade almost straight downward.
+
+The sword sinks almost hilt-deep into the boar’s back, eliciting another squeal of rage and pain. I feel a surge of mana entering my body through the sword, and I’m about to pull it back when something in the back of my mind stops me, and instead, I let go of the sword. The flow of mana stops, but I can sense the sword still greedily gobbling it up. Perfect!
+
+Without looking back, I Blink straight up again until I’m about a kilometer up, and summon another four-layer shield below me to block the boars fur needles. Unlike the last time though, that first needle attack isn’t the end of it. With my sword still in its back, sucking up its blood and mana, it stays angry, charging all over the forest at random, destroying everything in its path, and occasionally firing bristle volleys.
+
+I can still sense my connection to the Gluttonous Greatsword, and I can tell it’s not done yet, so I just stay in the air, making shields to keep myself safe. After almost an entire minute, the sword’s consumption finally slows as it nears its limits, and another fifteen seconds later, it slows to a mere trickle. I dismiss the weapon, then re-summon it right in my hands. It’s literally vibrating with power, and the red veins are glowing so brightly it’s almost hard to look at.
+
+I can sense it slowly dissipating over time, but not at a rate that’s concerning. It’ll probably take at least ten minutes to make a dent in the massive amount of energy it has stored up. Smiling, I grip it tightly, and look back down at the boar.
+
+With the blade gone, it almost immediately calms down and goes back to its aimless wandering. With my enhanced Sensitivity, even from this height I can see it clearly, and observing its wounds, I can see that it is already healing, and quite quickly too. It doesn’t matter though. It’s not like—
+
+[ Silas has entered ]
+
+[ Jacqueline has entered ]
+
+[ Hammond has entered ]
+
+[ Findel has entered ]
+
+[ Millicent has entered ]
+
+Huh? Annoying Yellow Boxes?
+
+I glance down toward the center of the forest where the entrance portal is and see that a group of four humans and a dwarf have just entered. Immediately, they notice the boar, which is only about two hundred meters away from them. It seems that is close enough for them to be affected by its fear aura, because they all stop moving, and I see beads of sweat forming on their foreheads.
+
+The boar doesn’t notice them, fortunately, but it looks like they’re all too terrified to retreat. Oh well. It’s fine. I can handle it. I just have an audience now.
+
+A few minutes earlier…
+
+“What’s the quota for today again?” asked Hammond, a hulking mountain of muscle barely contained by his leather armor with a sword almost as tall as he was strapped to his back.
+
+“Just five,” replied Millicent, a slender mage. “It should only take a couple hours.”
+
+“Good, good,” said Hammond, cracking his knuckles. “I’ve got a date tonight.”
+
+“You?” asked another woman. “A date?”
+
+“Shut up, Jackie. Yes, I have a date, and she’s way hotter than you.”
+
+As the five Adventurers got nearer to the front of the line, they started bickering like siblings, much to the amusement of the ones around them. None of their neighbors dared laugh out loud though. The five Adventurers were one of the few all-Gold Parties in the city, which commanded a certain level of respect, even if they were only low Gold.
+
+When they reached the front of the line and entered the Dungeon, Millicent took charge, as she was the Party leader. When presented with the options for which Instance to join, her eyes immediately went to the highest difficulty Instances, then zeroed in on Instance 9. There was only one person there. The only people in the city who would dare enter the Boar Forest alone on Hard Difficulty were the high Golds. Millicent hesitated, not wanting to accidentally offend one by taking their hunting grounds, but ultimately decided to go for it anyway. Even if they were a High Gold, the Dungeon was plenty big enough to share.
+
+A moment later, she and the rest of her Party appeared in the forest as usual. They ended up here rather often, having secured a deal with the Pig Palace to supply it with meat, so it was a very familiar location and they knew everything about it. Well, almost.
+
+The second they stepped out of the darkness and into the woods, the entire Party was assaulted by a wave of fear so intense it froze them in their tracks. They could not move except to raise their gaze to see the source of the fear. An enormous boar so tall they could see it over the trees was stomping around, shaking the ground beneath their feet.
+
+[ A Field Boss has appeared! Slay it to earn bonus rewards! ]
+
+A Field Boss… thought Millicent.
+
+She had been a teenager at the time, but she remembered the last time a Field Boss had spawned. It made the headlines for weeks. Two entire parties of Golds were slaughtered after it spawned while they were out hunting. Another nearly lost their lives trying to hunt it, and eventually, Pike even had to call in a Party of Platinums from another city to put it down.
+
+Only one occupant…
+
+At that moment, a horrible thought crossed Millicent’s mind. The lone occupant was not one of the high Golds. It was a low Gold like her. They were just alone because their Party had perished. A fate that her Party would share if they didn’t move.
+
+She clenched her teeth, gathering her willpower to say something and get her comrades moving before she paused in confusion as she saw something else. At first it looked like a black speck high in the sky, but as it drew nearer, she saw that it was a human. No, not a human. She had feline ears and… a tail?
+
+She was wearing a black shirt and a black skirt, and had a sword even bigger than Hammond’s resting on her shoulder. The sword was black, but it had a spiderweb of red veins starting at the base of the blade and running all the way to its tip. The veins were glowing and almost seemed to be pulsating, and for a moment, the blade induced a fear in Millicent just as strong as that from the Field Boss’s aura.
+
+She was standing in a casual stance on top of a giant translucent hand as though a giant was lowering to the ground. She stopped a dozen meters above the boar, then turned to the party, making eye contact with Millicent. Millicent could have sworn she saw the beastwoman wink at her before turning her attention back to the boar.
+
+The beastwoman took one step forward into the air, falling off the hand into a freefall. She flipped over once, then tucked her body and flipped a second time. The second time, she gripped the sword tightly and swung it around over her, and as the sword came back around, the glowing veins suddenly pulsed and vanished. The next moment, a curtain of pitch blackness came from the blade, following behind it and extending more than a hundred meters as the blade fell down onto the neck of the boar.
+
+For a full second, there was silence as the sky turned black and the beastwoman disappeared below the treeline. Then, the intense fear that Millicent and her party were struggling with vanished, and they saw the boar’s head crash to the ground, severed cleanly, with the body following soon after.
+
+Suddenly able to move, the entire Party gasped, letting out a breath they hadn’t realized they were holding. Millicent stumbled a step forward, panting as sweat dripped down her cheek.
+
+[ Congratulations! The Field Boss has been defeated! Your contribution: 0% ]
+
+What the hell was that?!
+
+The entire Party was silent, recovering from the experience for a few seconds before Millicent suddenly dashed forward.
+
+“Hey, Millie!” shouted Hammond behind her, but she ignored him, continuing toward where the boar fell.
+
+Soon, she reached a clearing where the trees had all been toppled and crushed, but the body of the creature that had crushed them was gone. In its place, only the beastwoman stood. Her face and clothes were splattered with blood, but she was completely unharmed, and grinning like a madwoman, showing off a pair of sharp canines. Or were they felines?
+
+She was standing casually, just as she had been when she descended, her sword resting on her shoulder, and she looked at Millicent like she had been expecting her. In that moment, Millicent was filled with fear, and of a different variety than the artificially induced fear of the FIeld Boss. This fear was deeper, almost shaking her very soul. The woman in front of her had faced a boss that gave a party of Platinums trouble, and killed it with a single strike. A single, awe-inspiring strike that not only severed the head of the massive beast, but left a scar in the land that, with her Earth Sense, Millicent could tell was almost a hundred meters deep.
+
+M- Monster, thought Millicent. She’s a monster.
+
+The feline woman’s smile widened, seemingly enjoying Millicent’s reaction. A moment later, the rest of her Party came running in, stopping just behind her, frozen the same way she was. None of them said a word. They had all seen the same thing Millicent had, and were struck by the same fear. The silence was only broken when the beastwoman finally spoke.
+
+“Hey, it’s rude to stare, you know.”

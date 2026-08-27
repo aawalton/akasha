@@ -1,0 +1,95 @@
+---
+id: 31bfa733-3dee-515e-b75e-0158d14fa0d3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1371 - Guess Who?"
+slug: 0018-chapter-1371-guess-who
+partOf: chrysalis
+position: 18
+ownLength: 1191
+unit: words
+ownProgress: 1191
+publishedAt: 2024-07-17
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1720788/chapter-1371-guess-who"
+royalRoadId: "1720788"
+markedReadAt: "2026-06-29T19:44:13.699Z"
+---
+
+When people play sports and get together after a game, they’re all standing around drinking… sports juice… or whatever, talking about the game and clapping each other on the back, it’s always such a heartwarming scene, such an inviting feeling.
+
+Not that I would know, I’ve never been a part of something like that in my entire life. In my human life, anyway.
+
+However, this here, this must have been what that would have felt like. After our successful effort spelunking the fifth, the entire advance team withdraws up into the tunnel. No ant or wuffer is left behind, all our records and observations are collected, no fuss, no muss, no misses. In every sense of the word, a successful mission!
+
+The generals are happy, the mages are happy, the core shapers are happy, the soldiers are happy. The healers are not happy, because… healers… but also because there were many cases of mana contamination that had crept under the radar and needed to be taken care of.
+
+In terms of downsides, that’s probably the biggest one to come out of the scouting operation. Despite all our precautions, it still wasn’t enough. Many of the frontline ants, our biggest and bulkiest soldiers, experienced some level of exposure to the toxic mana of the fifth. It’s not that surprising, really; all they have to do is poke a leg out of the safe zone for a fraction of a second and bam, contaminated.
+
+How exactly we’re supposed to counter that, I have no idea, but I’m sure the boffin, big brain ants will be able to figure something out.
+
+“Eldest, we aren’t scheduled to do another exploratory mission for another week,” Advant tells me, walking up with a fair bit of pep in her step. “Obviously, we want you and the guardians to be a part of the team. More specifically, Solant wants you as part of the team.”
+
+“Well, if the great general wants me along, who am I to say no?”
+
+She’s getting too big for her carapace, that Solant. She’s cruising for another thwacking! But obviously I’m going to go along, what else am I supposed to do? I mean, there’s a ton of work to do cleaning out and securing the tunnels beneath the nest, but the invasion of the fifth was my idea in the first place. I demand to be in the centre of the action!
+
+“Are we going in with a similar sized team next time around?” I ask.
+
+Advant shakes her head.
+
+“No, we’ll be scaling up to around double the size. A thousand wuffers, ten thousand ants. The core shapers, carvers and generals will make modifications to our strategy in the intervening time. Hopefully, things will go just as smoothly next time.”
+
+From her tone, she certainly doesn’t think so.
+
+“How long until the Krath catch on to what we’re doing?” I ask. “They’re bound to work it out eventually.”
+
+And when they do, things will get much more complicated.
+
+“I’m sure they already have,” Advant waves away my doubt. “Certainly, it’s in our interest to act at all times as if they are fully aware of our actions. Our next entrance into the fifth will be significantly more difficult.”
+
+“Something to look forward to, then.”
+
+Of course it was always going to get more difficult. The first mission was an unprecedented success; it couldn’t possibly continue in that vein.
+
+[You happy to go back down there, gang?] I ask my three friends.
+
+Tiny gives me a clear thumbs up, while Crinis and Invidia both tell me using more conventional methods that of coursssssse they are more than happy to go back.
+
+I can tell the fighting wasn’t super satisfactory for Tiny. He had to remain inside in the safe-zone, only able to blast things outside with the light extensions of his punches. He much prefers to hit things directly, but it seems the quantity and variety of bizarre monsters we had to fight has mostly made up for it.
+
+As I discuss our experience with my closest comrades, a scout rushes up to Advant and I.
+
+“Eldest! We have something to report. Someone has come looking for you!”
+
+It doesn’t take long for me to find her, roughly a kilometre away with a few other Legion soldiers by her side.
+
+I cheerfully reach out with a mind bridge, only to be rebuffed by the head gear. Sheesh. How does she expect us to converse? You want me to write things down? I don’t even know how to spell in this place! Unless she can smell pheromonal language, we’re going to be totally out of luck.
+
+I came over with a bunch of ants as well as the crew, so the small group of Legionaries are looking rather pathetic compared to the firepower we have on our side. I hadn’t intended to try and intimidate them, but it certainly doesn’t look that way.
+
+I stop roughly fifty metres away from the soldiers and plop myself down into a comfortable position, waiting to see how they want this to play out. I assume they came over to talk and not launch an ambush or something, although the Colony is swarming the surrounding tunnels, just in case. So if they want to talk, they’re going to have to figure out a way to make it happen.
+
+There’s some discussion between Morrelia and her troops, none of whom seem all that happy about the situation. As discussions continue, Morrelia becomes more and more visibly frustrated, until finally she relents to whatever is being proposed, though with ill grace. At that point, one of the soldiers removes their helmet and reaches out to me with a bridge.
+
+[Hey, what’s up?] I ask, keeping it friendly.
+
+[We would like you to bring a human here to act as an intermediary.]
+
+[You’re worried I’d pull some weird mind shenanigans?]
+
+[I know not of these shenanigans that you speak of, but we would like to minimise risk when communicating.]
+
+I mean, understandable, and it wouldn’t be the first time, but these Legion chumps are really getting under my carapace. And clearly, it’s bothering my good friend Morrelia too, since she looks so unhappy at the idea of having to bring someone down here to speak with her.
+
+[No, I don’t think we will,] I say. [It’s dangerous down here. These tunnels aren’t secure yet, far from it, and we are close to the fifth.]
+
+Which I would bet three legs they already know.
+
+[So, if you want to communicate with us, then I insist you do so directly. We are just as vulnerable to mental manipulation as you are, don’t forget. The risk is taken on by both parties.]
+
+There’s more discussion between the soldiers at this. I wouldn’t really call it an argument, since it’s clear that Morrelia is in charge, and eventually she makes the final decision and takes off her helmet. I snap a bridge into place immediately.
+
+[Is that really Tiny?] she asks me.
+
+As if sensing his name was spoken, the gorilla flexes his impressive biceps.
+
+[That is definitely Tiny,] she laughs in my mind.

@@ -1,0 +1,143 @@
+---
+id: 975665e0-b62d-532e-9175-37f682bf713b
+page-type-slug: story-chapter-royal-road
+title: "72 - A Busy Day at Play"
+slug: 0072-72-a-busy-day-at-play
+partOf: cat-girl-evolution
+position: 72
+ownLength: 2350
+unit: words
+publishedAt: 2026-01-07
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2919417/72-a-busy-day-at-play"
+royalRoadId: "2919417"
+---
+
+When I wake up in the morning, I have a quick breakfast with Lauren before she runs out, saying she has to do some work or something. I then eat a bunch more before taking a quick nap and heading out to explore again.
+
+This time, I head back to the south side of the city, since there are a couple places that Lauren mentioned were only open during the day, and it is currently the day. I stop by the plant nursery run by the elf first, but unfortunately, I can’t get in. Apparently, I have to make a reservation if I want to go inside. When I ask why, the two guards explain that the owner of the shop gets frequently harassed, so he prefers to limit his clientele due to his appearance. Or at least, that’s what he claims. The guards don’t seem to fully believe it.
+
+I’m tempted to Blink inside to see if his appearance really is worthy of harassment, but that would probably be illegal, and I probably shouldn’t be breaking laws so blatantly when Pike is suspicious of me.
+
+Disappointed, I continue down the street until I end up at the bakery that Lauren says is owned by an adorable old couple. There’s a line out the door, but it smells heavenly, so I decide it’s probably worth it to wait. A few seconds after I get in line, I realize that the reason for the line isn’t actually the bakery’s popularity. I mean, it is popular, but it’s not popular enough to have a line this long. No, the reason the line is so long is that the owners like to chat with all their customers while performing the transaction. Each pastry purchase takes a couple minutes for no other reason than that the owners can’t help but ask their customers how their lives are going. The conversations are pleasant enough, I guess, but it’s a little annoying that being 20th in line will have me waiting here for an hour.
+
+I’m already here though, and someone got in line behind me, so I can’t leave now. I’m stuck.
+
+I somehow manage to keep myself occupied through a combination of eavesdropping and messing around with Internal Mana Manipulation until I finally reach the front of the line. I have my own three minutes of pleasantries with the owners, and while they’re nice enough, after waiting for so long, I’m not particularly inclined to view them favorably. They should really hire someone else to run the shop if they want to chat with everyone like this.
+
+At least the pastries are good. They’re not worth-the-hour-long-wait good, but they’re good. I don’t think I’ll be coming back here unless there’s no line, though. I can get stuff that’s almost as good for a lot less wasted time in other places.
+
+After I eat my pastries, I continue on to the clothes shop from last time and ask them to fix the hole that the boar put in my skirt the other day. They offer to fix it for free, so I buy another outfit while I’m there and then head out.
+
+I hesitate a bit before turning around and heading back up the street before making another turn to head toward the hammering sounds of the dwarf district. I don’t really need anything there, but I didn’t really get a ton of time to look around when I was with Lauren, and there’s also something I want to ask. Earlier, I was nibbling on Skarn, and I remembered something that Abby said back when I killed him about his scales being valuable. His scales don’t seem very tough to me, but maybe they have some magical properties or something? I’m not sure, but I figured that if anyone would know, it would be a dwarven smith.
+
+It’s a little bit busier than it was when Lauren and I came here the other night, but surprisingly, not by much. I expected a lot more customers, and while there are some Adventurers walking around, browsing for weapons and tools, all the dwarven smiths are unoccupied. Unoccupied by people, at least. Most of them are hard at work, but there’s no line I need to stand in to talk to them.
+
+I find Foundri in his foundry, pouring white-hot metal into molds. It’s hot and bright enough that it almost hurts to look at, and it makes me uncomfortable to stand too close, but he has his face right up in it, watching each and every drop as it pours in. Once, he seems to accidentally pour a little too much, but rather than overflowing from the mold, the molten metal just stops mid-air and flows backward into its original container, guided by his mana.
+
+He fills about a dozen of these molds before the metal runs out, at which point he finally turns to me.
+
+“Ah, Yona, was it?”
+
+“That’s me!” I say.
+
+“What brings ya here today?”
+
+“I’ve got a question about some monster parts.”
+
+“Oh, let’s hear it then!” he says excitedly.
+
+“I’ve got the body of a Tier 3 named fishman. Are his scales worth anything?”
+
+“Are ya serious?” he asks. “Of course they’re worth something! Was it a monster with more physical strength or magical strength?”
+
+“Physical.”
+
+“Oh, perfect!” he exclaims. “I’d be happy ta buy ‘em off ya. Just bring ‘em on by whenever and I’ll take a look. I’m a licensed appraiser, so ya can trust me.”
+
+“I have them right now, actually—”
+
+“Then let’s see ‘em!”
+
+“—But they’re still attached to the body.”
+
+“Ah, that’s no problem at all. Just give me a minute or two to wash up and we can take it to my dismantlin’ station!”
+
+Five minutes later, we’re in the basement of his workshop where it’s surprisingly cool and compared to the sweltering heat above. He doesn’t really look much cleaner, but I did sense him washing his hands at least, so as long as he only uses his hands, I suppose he can touch my Skarn.
+
+The basement has a bunch of tables on wheels with latches between them so that they can all be connected together, I guess that’s for when he has to dismantle larger corpses. Fortunately, Skarn is basically man-sized, so we only need one of the tables to hold all of him. Not to mention that he weighs significantly less than he did when I killed him due to how good he tastes.
+
+As soon as the body is on the table, Foundri’s eyes widen and he leans in close to take a look at the point where it was cut in half.
+
+“Good gods, girl, what the hell did you do to it?!” he exclaims. “Are those teeth marks?”
+
+“He tastes good,” I say defensively. “I didn’t eat most of the scales though, so they should be good.”
+
+“Aye, they are…” he says. “Wait, you ate some of these?” he says, peeling one off and holding it up.
+
+“Yeah.”
+
+“Your poor arse,” he says. “Must have hurt like a bitch coming out.”
+
+Ah, right, those probably aren’t things that are supposed to be edible.
+
+“Haha, yeah,” I say. “I wanted to see how they tasted though.”
+
+“You’re crazy,” he says. “Did they taste good?”
+
+“They weren’t bad, but not as good as the rest of the meat.”
+
+He laughs loudly as he continues to inspect the scale and walks around the table to get a good look at the entire corpse.
+
+“Well, it’s a bit small for a Named monster, but the body is remarkably intact. Looks like he got unlucky, meeting someone like you who could kill him in one hit. Some of the scales are ruined, but most of them are in perfect condition. There’s more than enough for a full suit of armor and a few accessories, and they have a few inherent magical properties that make them useful. Friction mitigation, water affinity, and even overclocking. They’ll make a fantastic suit of armor for a water-based warrior. Might be a bit of a hard sell in Riverfork, but it shouldn’t be too hard to find a buyer.
+
+“The bones are a bit less valuable. Fairly strong, but nothing special. They could make some decent hilts and handles, but it would be a largely stylistic thing. And as for the meat, that’s beyond my area of expertise, but I’m sure it would fetch a good price.”
+
+“I’m not selling the meat,” I say. “Or the bones. How much are the scales worth?”
+
+“I think a suit of armor made from ‘em would fetch a minimum of 1500 gold, so factoring in labor, I expect ya’d be able to get 500 for ‘em. Maybe more if ya went to one of the bigger coastal cities. If you sell ‘em to me, I’ll pay you the same, or I’ll give ya 600 gold in store credit. As in, you can take 600 gold worth of things from my shop in exchange for the sales. I’ll waive the dismantlin’ fee too.”
+
+I squint at him for a few seconds. Over the years, I’ve gotten pretty good at telling when I’m being scammed… and I’m pretty sure I’m not being scammed here. 500 gold isn’t much compared to what I have, but it’s still a lot. And I get to keep the most valuable parts too. The scales tasted pretty interesting, but unlike the meat, they’re nothing special. Even the bones taste better. So I’ll gladly part with them for some good money.
+
+“How much more could I get at one of the coastal cities?” I ask.
+
+“Hmmm,” he says, stroking his beard. “Depends. It’s hard to say for certain, since it all depends on the market. If they’re short on armor, then ya might get as much as 1000. Otherwise, ya might not get any higher than that 500.”
+
+I think for a few seconds, then shrug.
+
+“Alright, I’ll just sell to you.”
+
+“Excellent!” he says happily. “Gold or store credit?”
+
+“Do you have anything that would suit me for 600 gold?”
+
+“I’ve got plenty!” he says. “How about this? I’ll dismantle it and collect the scales, then I’ll show ya a few of the items I have available. If ya like ‘em, you can take the store credit. If not, I’ll give ya the 500 gold.”
+
+“Sounds good to me,” I say.
+
+“Right then. Sit tight. This shouldn’t take long.”
+
+He reaches a hand out and places it on the top half of Skarn. I sense his mana reach out and spread across the entire piece of the body, and after a few seconds, it surges and all the scales pop off at once. My jaw drops as he calmly walks to the bottom half and repeats the process before raising a hand and summoning all the scales into a leather bag that he had lying around on a nearby table.
+
+I’m not entirely sure what he did, but not only did it get all the scales off of Skarn in an instant, it left the skin completely intact underneath. I didn’t expect that, but it’s very nice. The skin actually tastes pretty good, so now I get to keep that too!
+
+With the scales removed, he takes me back up to the ground floor and shows me some of his wares. He’s got lots of different weapons and armor, but in the end, I decide to just take the money. Maybe if I didn’t just get the Terror Blade, I would have been tempted, but between that and the Gluttonous Greatsword and all the random knives I bought from him last time, I really don’t need any more weapons, and none of the armor he has in the 600 gold price range is any stronger than my skin at this point. The strongest armor he has with that budget is the equivalent of 10,000 Resilience, apparently, but mine is already at 11,500, so I really don’t need it.
+
+It’s a little disappointing, but 500 gold is still a pretty good haul. I can buy a lot of food with 500 gold. That’s enough to feed even someone like me for almost a year.
+
+I browse around the dwarven district a bit longer, but I don’t see anything else that catches my eye, so I start to meander my way back to the safe house. I stop for food a couple more times, and by the time I get back, it’s mid-afternoon. I take another nap, and when I wake up, Lauren unfortunately isn’t back. Too hungry to wait, I just make myself dinner, earning myself two more Profession levels, putting me just one away from the upgrade. I’m tempted to cook something else but then my laziness wins out, and I instead take another nap after I eat.
+
+When I wake up, the clock says that it’s around ten. Lauren still isn’t back. She said she’d wait outside the safehouse when she was done, and that she’d call my name. I didn’t sleep through that, did I? Maybe I did and she decided to just go home. Oops. Oh well.
+
+I stretch out on the bed and lay there for a few seconds, then Blink back to the kitchen. I summon some eelman from my Stomach and immediately start preparing it. There are some basic ingredients in the safehouse that I use to spice it up a bit, though to be honest, I kinda just use them randomly. I just give all the spices a sniff and use whatever smells like it would go well with eel.
+
+The end result is passable, though Culinary Analysis still calls it “Poor.” That doesn’t really matter though, because screw that Skill and its lame name. I’ve got more important things to worry about. Like this Profession upgrade!
+
+[ Your Profession leveled up! Cook, 9 → 10 ]
+
+[ You have reached a Profession Upgrade threshold! Would you like to initiate Profession Upgrade? ]
+
+Yes! Abby, it’s time for your favorite activity!
+
+“And what would that be?”
+
+Telling me what to do!

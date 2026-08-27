@@ -1,0 +1,153 @@
+---
+id: 5cb96387-65c5-559b-af6d-0558ba6064ce
+page-type-slug: story-chapter-royal-road
+title: "89: The Trials of Chloe - II"
+slug: 0089-89-the-trials-of-chloe-ii
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 89
+ownLength: 1897
+unit: words
+publishedAt: 2025-12-19
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2861786/89-the-trials-of-chloe-ii"
+royalRoadId: "2861786"
+---
+
+Chloe glanced around the room again, just to be sure. Somehow, Morikhan had vanished completely. She wasn’t even sure how something that massive could hide so well, but apparently that was a thing ancient spooky wolves could do.
+
+Still, that wasn't the biggest problem right now. When she turned back to the mirror, Chloe found herself at a bit of a loss.
+
+On the surface, her reflection looked awesome. If she didn’t know better, she might’ve stopped to admire herself for a bit. It was nice seeing herself look that confident. But... there was something off.
+
+The way her mirrored self stood didn’t feel like her usual brand of cool confidence. It felt less nice. Like her reflection wasn’t just showing off... It was scheming.
+
+She took a step closer anyway as she studied the mirror. Something about this version of her gave off big evil vibes. And not even the fun kind. Even Mirror Leftie, who sat smugly on Mirror Chloe’s shoulder, looked like he had some choice opinions.
+
+Mirror Chloe stepped forward. Her smirk deepened, and Mirror Leftie waggled a single smug finger from her shoulder. “You know, you could be so much more. Just keep eating brains. Get stronger. Then eat more brains. Eventually, no one can stop you."
+
+Chloe squinted at her reflection. “Okay, umm… I do like brains and all that, but I feel like that’s not the actual point you’re trying to make. For some reason.”
+
+“I’ll put it simply, then. Brains are good. Everything else? Bad.”
+
+“But… I like some other stuff too. Like, did you know I met this super cool horse? He’s kinda dead now, but when he wasn’t, he was awesome. I named him Mr. White.”
+
+“I do know Mr. White, actually. And he’s dead because you were too weak. If you just ate more brains, you could’ve protected him.”
+
+Chloe’s fingers curled tight at her sides, nails digging into her palms. The words hit harder than she expected, like someone had just stomped straight through her chest. “Hey, that’s not fair. I… I really tried my best.”
+
+Mirror Chloe didn’t hesitate to answer. “Then your best wasn’t enough. Because in the end, Mr. White died. And that was your fault.”
+
+The sentence landed like a punch. Too close to where it hurt most. Chloe’s stomach twisted in a way that made her want to curl up right there. Hearing it out loud made everything inside her sink.
+
+She loved that horse. She really, really loved that horse.
+
+For the first time since ever, Chloe felt her eyes sting. Her throat wobbled, and a few heavy tears rolled down her cheeks. She wasn’t even sure how zombie crying worked. “I didn’t want him to die, I really didn’t.”
+
+To her surprise, Mirror Chloe’s expression softened a little. “I know, I liked Mr. White too. That’s why I’m telling you this. You need to stop being weak. Get stronger so nothing like that happens again.”
+
+Chloe sniffled, wiping her cheek with the edge of her sleeve. “You really think getting stronger would help?”
+
+“Of course. We’re undead, remember? With the right skills, the right power… maybe we could even bring Mr. White back.”
+
+“Wait. Really? Like, actually bring him back? As a zombie horse?”
+
+“Not just any zombie horse. A super awesome zombie horse."
+
+“Okay, but like… how do I do that?”
+
+“Easy, just keep eating brains.”
+
+“That… makes sense.”
+
+“Exactly, and you’ve got a perfect option that's pretty easy to eat. The wolf girl.”
+
+“Sierra? But… I kinda like her. She's pretty cool."
+
+Mirror Chloe tilted her head, as if she couldn’t believe what she was hearing. “Why? What’s she ever done for you? The first time you met, she attacked you, remember? Then not long ago, she completely lost control and had to be calmed down by you, Scar, and Sabine.”
+
+Chloe frowned. “Yeah, but…”
+
+“She’s pretty strong. And now she has some new shadowy magic thing going on, doesn’t she? Imagine what you could do with her abilities.”
+
+Chloe fell quiet, her gaze drifting to the floor. Not gonna lie, everything Mirror Chloe had said so far… kinda made sense. It was a little spooky how much sense it made. So what was it, exactly, that was making her hesitate?
+
+“I mean… I guess I'm not sure if I really should be eating Sierra's brain like that, you know?" Chloe said.
+
+Her reflection perked up. “No need to be! You’re the bestest zombie ever, remember? That means we can do anything.”
+
+Chloe chewed on that for a second. What if I did just eat all the brains?
+
+Wouldn’t that make everything easier? Someone giving her weird looks? Brain time. Someone looking super magical and fancy? Brain time. Someone trying to stab her with a flaming sword or something? Extra crunchy brain time.
+
+And she would get a lot stronger. Especially if she focused on eating the big, tasty brains and left the bad tasting ones alone. And if she got strong enough… maybe she could even figure out how to bring back Mr. White. Now that would be awesome.
+
+Just then, Mirror Chloe extended a hand through the surface of the mirror, like it was made of water instead of glass. “All you need to do is accept your true self. You’re a brain-eating zombie queen. And that’s all there is to it.”
+
+Chloe reached out. Her fingers were just inches from touching the hand. She really was going to take it. But then… she stopped.
+
+Mirror Chloe blinked. “Why did you stop?”
+
+Chloe lowered her hand, and stared at the reflection. “I’ve just been thinking. Ever since I left my dungeon, I’ve seen a lot. Like… a lot a lot. The world’s way bigger than I thought it’d be. I haven’t even explored most of it yet. I’ve met cool people, weird people, evil people. Baron Willy was super weird. Ynett was just a big jerk. But then there’s folks like Ray, Iris, Raenof… and yeah, even Wolfie, er, Sierra. Somehow, through all that chaos, I realized something.”
+
+She looked Mirror Chloe in the eye. “People can be pretty fun.”
+
+“Fun doesn’t matter. Power does. And power means eating brains.”
+
+“Oh, I’m definitely still gonna eat brains, don’t be ridiculous. But there are some people I like. And I’d be really bummed if they were gone. You know?”
+
+Mirror Chloe opened her mouth to argue again, but Chloe cut her off, her smile getting a little smug now. “Also, Raenof’s way cooler than you. So maybe stop trying so hard.”
+
+Mirror Chloe just smiled in the end. It wasn’t smug this time, well, maybe a tiny bit, but mostly, it looked… weirdly proud. “Congratulations, but don’t get comfy. There are more challenges ahead.”
+
+And with that, her form shimmered like mist in sunlight, fading until the mirror reflected nothing but Chloe’s very confused face.
+
+“Uh… okay. Bye, I guess?” Chloe muttered, squinting at her own now-normal reflection.
+
+The silence stretched for just a little too long. Chloe shifted her weight, half-expecting her reflection to pop back up with some final sassy words. But instead, the ground beneath her feet gave a sudden, low rumble. She yelped, flailing her arms as she stumbled to keep her balance.
+
+Somewhere nearby, though from where exactly, she still had no clue, Morikhan emerged from the darkness. “It seems you’ve passed the first trial."
+
+Chloe gave a quick thumbs-up, even though her knees were still a little wobbly. “Yup! Mirror Me tried to get me to eat all my friends, but I only kinda thought about it. That counts as a win, right?”
+
+Morikhan didn’t give her a yes or a no, but the flick of his massive tail felt... vaguely approving. At least, she hoped it was. “It’s time to move to the next trial."
+
+Chloe gulped. Her mouth was dry, well, drier than usual for a zombie. But she straightened up anyway. Round one survived.
+
+Morikhan turned and began to walk, his heavy paws thudding against the stone. Chloe followed, trying to hum a little something to calm herself down. But the way the floor trembled with each of his steps kept throwing off her rhythm, and eventually she gave up and settled for awkward silence.
+
+After a short walk, they reached another chamber. And what a place it was.
+
+She knew this vibe all too well. The wide circular dirt floor, the towering stone pillars, the way the curved walls rose around the open space like a giant stone bowl, it all screamed arena. The sight gave her big, unpleasant flashbacks to that time she fought Aleph and almost got turned into crispy zombie toast.
+
+Morikhan stepped up to the edge of the platform and lifted his head. “This is your second trial. Here, you will face an opponent worthy of challenging you. To advance, you must win.”
+
+Chloe blinked a few times. “Right. And uh… what exactly does that mean? Like, who am I fighting?"
+
+Morikhan didn’t answer. He simply tilted his head, then pointed his massive snout toward the center of the arena.
+
+The shadows there began to twist, dragging along a cold, creeping sense of magic that made Chloe’s arms tingle. The dark kept rising, thickening, gaining shape. Uh oh.
+
+The shadows peeled back like mist, revealing a figure that stepped forward with unnatural grace. A woman, tall and pale, her flowing robes drifting around her like snow.
+
+Her eyes were pale yellow. Serpent-like, in a face that was far too calm for someone so terrifying. Shimmering scales glinted across her skin, on her face, her arms, and her legs. And atop it all sat the hat. Tall, pointed, and the same unsettling shade of white as the rest of her. Like a wizard’s hat… if the wizard in question specialized in ruining lives.
+
+Chloe’s eyes widened. Because standing smack in the center of the arena, looking just as spooky as she remembered, was none other than Ynett.
+
+Her first instinct was to turn around and ask Morikhan what kind of messed-up nonsense this was. How in the heck did Ynett get in here?
+
+But, of course, Morikhan had already vanished. Again.
+
+Before she could do anything else, Chloe felt the sting of ice. Several sharp shards slammed into her side and shoulder, slicing through the air.
+
+She gritted her teeth and spun back around just in time to see Ynett charging straight at her. Chloe didn’t hesitate. She braced herself and lunged forward, coating her fists in flame. They lit up with a whoosh, and she swung hard, aiming straight for Ynett’s face.
+
+Her punches connected, kind of. Because the moment her fiery fists hit, Ynett’s entire body exploded into a flurry of ice shards. A blast of freezing wind hit her square in the face, and she had to throw up her arms to shield her eyes.
+
+“Rude!” Chloe yelled, staggering back a step.
+
+When she lowered her arms, she blinked at the empty space in front of her. Where did she go?
+
+A tiny tug on her attention pulled her to the side. Leftie, still hanging out on her shoulder, raised a finger and pointed behind them.
+
+Chloe turned, and there she was. Ynett. Standing at the far end of the arena like nothing happened. Not a single scratch on her.
+
+Chloe’s gut twisted. She didn’t like this one bit.

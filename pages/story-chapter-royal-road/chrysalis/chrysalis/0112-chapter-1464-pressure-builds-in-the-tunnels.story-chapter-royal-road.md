@@ -1,0 +1,83 @@
+---
+id: 3bc71b59-5403-50c8-9787-e999c4c91d00
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1464 - Pressure Builds in the Tunnels"
+slug: 0112-chapter-1464-pressure-builds-in-the-tunnels
+partOf: chrysalis
+position: 112
+ownLength: 1023
+unit: words
+ownProgress: 1023
+publishedAt: 2024-11-29
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1929549/chapter-1464-pressure-builds-in-the-tunnels"
+royalRoadId: "1929549"
+markedReadAt: "2026-06-29T19:47:39.708Z"
+---
+
+Morrelia looked out into the tunnel, her highly trained senses taking in every subtle shift, every tiny sound. Something was off, that much was obvious, but determining what and then acting accordingly was her responsibility as a leader.
+
+She already knew what the problem was, the issue was finding the evidence to prove it. Chyron would not move the Legion based on a hunch, even if she shared it, not unless they had to. Finding evidence of a Krath presence was notoriously difficult; the slugs were careful and cunning opponents, unlikely to leave any sign of their passage.
+
+They were here, though, she was sure of it.
+
+Morrelia moved up and down the line, talking to the soldiers, encouraging them with a word, a gesture, or merely her presence. It was easy for the troops to become distracted during long stints on watch as these were, but so far Chyron’s Legion had proven their professionalism. Everyone she saw was alert, their eyes sharp, weapons ready and armour polished to a shine.
+
+It helped, being in the fifth. With the reputation that this place had, the troops were on edge merely being stationed here. Perhaps, given more time, that discipline would start to weaken, but so far it was holding strong.
+
+As she strode down the line, Morrelia kept her senses tuned to the tunnel. She had to be patient, wait and watch. It wasn’t possible to go out and try to chase down the slugs, so her only hope was to have one of them make a mistake. When they did, she would be there to see it.
+
+So engrossed in this activity was Morrelia that when she received a tap on the shoulder plate, she hadn’t realised anyone was even approaching. For a moment, the moustached and punchable face of Isaac popped into her head, and she turned slowly, hoping against hope it was someone else.
+
+“Why are you looking at me like that?” Commander Chyron snapped. “Is my face displeasing to you all of a sudden?”
+
+“Not at all, Commander!” Morrelia said, snapping out a quick salute, her fist crashing into her chest as she straightened, embarrassed. “I was just focused on the tunnel….”
+
+“Trying to spot our guests?” Chyron sneered. “The slithering scum wouldn’t dare show their faces to the Legion.”
+
+Just as she’d suspected, Chyron was already well aware of what was happening in the tunnels.
+
+“I was hoping to get evidence of their presence, as I believed you would be reluctant to act without it,” Morrelia said, not judging, but stating her thoughts directly.
+
+“Normally, you’d be right,” Chyron snorted, striding through the ranks and staring out into the tunnel, grey hair swaying around her shoulders. “In this case, we will need to act without it. Though, there isn’t much we can do. They won’t attack us if they can help it. I expect every tunnel other than the ones we guard to get hit. All the Krath will do is watch us.”
+
+Morrelia strode forward to stand alongside her Commander, frowning.
+
+“Then what is the point of us being here? I mean, I know our primary objective is to observe the target,” she hastily corrected herself, “but if there is to be conflict with the Krath, I would rather participate than stand nearby and watch it play out.”
+
+“I understand what you’re saying,” Chyron replied dryly. “There is no such thing as a Legionary with a soft spot for the Krath, particularly among the officers.”
+
+The experienced and weathered veteran grimaced as she looked out at the toxic mana and slime-filled environment of the fifth.
+
+“In this instance, there’s no going around it. The only way to ensure our troops would see action would be to fully integrate them with the ants’ forces, which I will not allow, no matter the situation.”
+
+Morrelia went to protest, but Chyron held up a hand to forestall her.
+
+“In any case, I don’t think the ants would allow it either. They do not trust us, we do not trust them, that’s the end of it.”
+
+“We expressly made it our mission to destroy their most beloved member,” Morrelia pointed out. “It’s hard for them to trust us after that.”
+
+“They’re monsters,” Chyron stated simply. “They will turn on all of their allies, succumbing to the control of a more fearsome and hungrier beast in the end. There was never a chance we would trust them, I don’t care if the reverse is also true.”
+
+No matter how much progress the Colony made, Morrelia continued to run into the same wall: the Legion would never ally themselves with monsters. It was a fundamental truth baked into their essence, and had been from their founding. It was deeply frustrating, because she could see just how much the Colony could accomplish, how much Anthony could do to help the people of Pangera if given the chance. She sighed and let it go for the moment; there were more immediate problems to focus on.
+
+“What are the Krath going to do?” she asked.
+
+“What do you think they’ll do?” Chyron shot back, one brow raised.
+
+Always tests, always questions. The assessment of an officer was never over, not really. Morrelia dipped her head as she considered the question.
+
+“Whatever they think will cause the most difficulty, the most pain. Fluctuations in the mana flow. Diverting rivers of slime. Unleashing waves of monster assaults. Varying the time and strength and direction of their strikes to prevent the Colony from recovering. I expect there will be many abduction attempts.”
+
+Chyron waited for a moment.
+
+“Is that all?” she wondered.
+
+Morrelia thought longer, then gave up.
+
+“I’m not sure what else they will do, though I’m sure there’s going to be more.”
+
+“There will be,” Chyron assured her. “The slugs are bound to be riled up after all this, to say the least. They’re going to pull out all the stops. I’m not sure who I feel more sorry for, though.”
+
+“What do you mean?”
+
+“The ants or the slugs,” Chyron said with a savage grin. “I’m sure they’re going to be absolutely horrible to each other.”

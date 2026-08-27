@@ -1,0 +1,159 @@
+---
+id: 9f0504c0-487f-56bf-8e2b-9f63b6a13dec
+page-type-slug: story-chapter-royal-road
+title: "4: Out of the Dungeon"
+slug: 0004-4-out-of-the-dungeon
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 4
+ownLength: 1822
+unit: words
+publishedAt: 2025-08-17
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2525515/4-out-of-the-dungeon"
+royalRoadId: "2525515"
+---
+
+With her left hand now firmly reattached and no longer flopping off at awkward moments, Chloe had only one thing left to do: figure out how to reach the next floor of the dungeon.
+
+She wandered for a while, nosing around half collapsed tunnels and cracking a few skeletons along the way. Honestly, the skellies really should have given up by now. They were barely holding themselves together as is.
+
+Eventually, she spotted a narrow passage tucked into the far end of a dim, crumbling chamber. Stretching her arms overhead, she eyed it with tempered hope. The next floor had better involve less mimic nonsense and more snack opportunities. Ideally the kind that didn’t scream when she opened them.
+
+But, naturally, it couldn’t be that simple. Two skeletons stood directly in front of the archway.
+
+Their rusted armor creaked as they shifted, swords and shields raised in stiff readiness. One of them slowly lifted its blade like it was trying to issue some kind of challenge. The other stomped once and let out a low, grating hiss that might have been an attempt at intimidation.
+
+Chloe just snorted. As if two clunky piles of bones were supposed to scare her now.
+
+The skeletons didn’t wait. They charged, rattling forward in perfect undead fury.
+
+Chloe raised a hand, mana thrumming beneath her skin. With a sharp flick of her wrist, she fired off a Rock Shot.
+
+The spell cracked through the air and hit the first skeleton dead center in the chest. Bone and metal burst apart, the skull whipping backward before the rest of it collapsed into a mess on the stone floor.
+
+The second one moved faster than Chloe expected, but she still managed to fire off a shot that struck the side of its helmet, blasting the skull clean off. The rest of its bones collapsed in a satisfying heap.
+
+[You have killed: Skeleton Warrior (Level 4)]
+
+[You have killed: Skeleton Warrior (Level 4)]
+
+[Experience Awarded]
+
+[You have leveled up! 3 >> 4]
+
+[Strength +1, Speed +2, Vitality +4, Magic +4, Resistance +1]
+
+[Skill Upgraded: Rock Shot III >> Rock Shot IV]
+
+Chloe read through the stream of messages with a smug little smile. Those two make ten now, don't they? Ten skeletons. And not a single one has been interesting. They really are just zombies without any of the cool parts.
+
+Kneeling beside one of the fallen skeletons, she gave its weapon a thoughtful once-over. The sword was old, chipped, and more than a little crusty, but still looked serviceable. Definitely usable in a pinch.
+
+She picked it up and tested the weight with one hand. It would make a decent backup if, for whatever reason, Rock Shot didn't work against whatever she was fighting.
+
+With a satisfied nod, Chloe strapped it to her side and strutted into the passage beyond. The next floor of the dungeon awaited.
+
+She crept along, eyes sharp and alert. No skeletons this time, but that probably just meant something worse was waiting ahead.
+
+When the tunnel finally opened into a new chamber, Chloe stopped, blinking at the unexpected sight. The floor wasn’t swarming with the usual undead. Instead, strange green blobs wobbled across the stone, each one cradling a glowing little orb at its center.
+
+So many questions popped up in Chloe's head. What were these things? Were they edible? Were they sentient? Were they edible and sentient?
+
+Curiosity pulled her forward as she tiptoed closer to one of them. The blob gave a slow, lazy wiggle in her direction. Honestly, it was kind of cute.
+
+Then it jumped. And Chloe instantly regretted ever thinking it was cute.
+
+The thing launched straight at her, goo flying everywhere. Chloe screamed, panicked, and squished it with both hands, her fingers plunging through the slime until they crushed the glowing orb at the center. The creature soon collapsed into a green puddle.
+
+[You have killed: Cave Slime (Level 2)]
+
+[Experience Awarded]
+
+Chloe blinked, goo dripping from her fingers, and let the realization sink in. Slimes were aggressive. And that glowing core inside them? Definitely the weak spot.
+
+Her gaze swept over the rest of the blobs, all wiggling and pulsing like smug little jelly lumps.. Fine then. If they wanted trouble, they’d get it. It was slime smashing time.
+
+The next slime came bouncing her way, its gelatinous body wobbling like it had something to prove. Chloe flicked her hand.
+
+A sharp crack echoed as her Rock Shot burst forward, slamming through the goo and shattering the glowing orb at its center. The creature collapsed in a faint splatter of slime.
+
+Another one wobbled in from the side. Chloe turned, didn’t even break stride, and blasted it mid-hop. It hit the ground with a splash.
+
+More slimes came. Chloe dealt with them all with a combination of Rock Shots and well placed stomps.
+
+[You have killed: Cave Slime (Level 2)]
+
+[You have killed: Cave Slime (Level 1)]
+
+[…]
+
+[You have killed: Cave Slime (Level 2)]
+
+[Experience Awarded]
+
+[Skill Upgraded: Unarmed Combat IV >> Unarmed Combat V]
+
+Chloe stood in the middle of the carnage, green goop dripping from her feet, her fingertips still warm from casting. That had been easy, maybe a little too easy.
+
+These slimes were weak. Embarrassingly so. In the previous two floors, she’d been dealing with higher leveled skeletons and zombies. So why did this floor feel like such a downgrade?
+
+Chloe wiped her hand on her already-filthy clothes and scoffed. There had to be a reason. If the monsters were getting weaker the higher she went, then maybe, just maybe, she was getting closer to the exit.
+
+Her thought process went something like this: the dungeon’s strongest creatures were probably lurking way down below, guarding whatever important stuff was buried at the bottom. But she wasn’t headed down, she was going up.
+
+And the monsters up here? Probably not all that tough. They’d be some of the first ones adventurers ran into, after all. All the cool monsters were likely hanging out on the lower floors.
+
+But whatever the case, if she was right, then Chloe figured she had to be getting close to freedom. She pressed on, wandering deeper into the cave until something up ahead caught her. A pale glow spilled across the cave floor.
+
+She crept toward it, squinting with suspicion. Her fingers twitched, ready to fire off a Rock Shot at whatever had the nerve to shine this brightly.
+
+As she reached the end of the tunnel, the glow intensified, flooding the passage with warmth and color. Chloe froze on the spot. Something about this felt very suspicious. She didn’t trust it one bit.
+
+Still, curiosity clawed harder than caution. She stepped forward into the light, and instantly regretted everything. “Agh! What is this?! Are my eyes melting?"
+
+Chloe had been far too used to the gloom of the dungeon. It took several long moments of whining and blinking before she could pry her eyes open.
+
+When she finally stepped outside, Chloe couldn't believe what she was seeing. There was endless green as far as her eyes could see. Then there were these weird tall things with leafy tops that swayed in the breeze.
+
+Are those... trees? Somehow the word popped into her head like it had been buried in some dusty corner of her brain.
+
+And above it all, was a giant blue ceiling curved overhead, scattered with puffy white blobs and one massive, blinding gold circle. Chloe's jaw dropped as she took in her surroundings, all of it completely alien. Is what I'm seeing real?
+
+She pointed a shaky finger above. “What is that glowing disc? Why is it looking at me?! Stop looking at me!”
+
+[You have exited: Gloom Hollow (Tier 1 Dungeon)]
+
+Chloe blinked at the glowing message. That was it? She’d won? Beat the dungeon? The thought felt strange, though a smug little spark curled in her chest. Of course she beat the dungeon, it wasn't even that hard.
+
+Even so, confusion tugged at her while curiosity pushed her forward. Her gaze landed on a nearby bush, and she eyed it like it was plotting something. Puffy, round, dripping with fat leaves. She gave it a cautious poke. It was weirdly fuzzy. Definitely suspicious.
+
+Then, a sudden string of high-pitched chirps cut through the air above her. Chloe spun, eyes wide. Something zipped past overhead, darting through the area. Her jaw dropped, a gasp bursting out as she pointed after it like it had personally insulted her. The creature was colorful, fast, and looked poofy. Was that… some kind of fancy bat? Chloe wasn't sure.
+
+Regardless, Chloe kept on exploring. Every step brought something new to poke, prod, or flinch from.
+
+Trees stretched on as far as the eye could see, groaning when the wind pushed through their branches. Strange crawling things skittered across the ground, most of them far too leggy for comfort. Chloe narrowed her eyes at one as it vanished beneath a leaf, muttering under her breath about creepy crawlers and personal space.
+
+Then she froze. Up ahead, tucked between the trees, was… something. A crooked beam jutting up with cloth flapping weakly in the breeze. Rope dangled loose, and a weathered wooden frame leaned against a scatter of crates and sacks, all thrown together like someone had been in a rush. She’d seen setups like this before, back in the dungeon.
+
+Camp stuff. Definitely camp stuff. And that usually meant humans, although Chloe didn’t see any around.
+
+She stepped into the camp and took a better look at the scattered belongings. A sword rested against a crate, dull and dusty from disuse. Near a mossy stump, her eyes landed on a staff. Something about it made her pause, head tilting slightly.
+
+It looked familiar, too familiar. That wizard she’d eaten back in the dungeon... this had to be his staff.
+
+She reached out and brushed her fingers along the wooden staff. He was dead, after all. That made it hers now. Totally fair.
+
+Grinning, Chloe snatched it up and gave it a playful spin. It felt light in her grip. She raised it high like a queen brandishing her scepter, then lowered it and closed her eyes. She already knew how to cast spells without a staff, but what would happen if she used one anyway?
+
+There was only one way to find out.
+
+She pushed her will into the staff. Mana surged from her core, pouring through her like a flood, drawn straight into the wood.
+
+And then—
+
+BOOM.
+
+The staff exploded in her hands. The blast threw Chloe backward into a bush, her arms flailing, hair wild and full of leaves. The charred remains of the staff clattered to the ground beside her, smoking gently.
+
+Chloe was stunned, lying half-upside down in a thicket. Ow. Maybe I'm not meant to use magic sticks.
+
+Then, from somewhere beyond the trees, a voice rang out. “Hey! Who’s there?!”

@@ -1,0 +1,85 @@
+---
+id: 37ef56b1-3599-5e8b-8e6e-55f73a104f54
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1676 - Shake Your Money Maker pt 7"
+slug: 0327-chapter-1676-shake-your-money-maker-pt-7
+partOf: chrysalis
+position: 327
+ownLength: 909
+unit: words
+ownProgress: 909
+publishedAt: 2025-10-29
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2712990/chapter-1676-shake-your-money-maker-pt-7"
+royalRoadId: "2712990"
+markedReadAt: "2026-06-29T19:54:16.440Z"
+---
+
+[There is more to being a merchant than maths,] Enid explained patiently for the hundredth time.
+
+[But… but… if the numbers line up, it’s a good trade… isn’t it?]
+
+[Yes, of course the numbers are the foundation. Buy low, sell high, margins, markups, scarcity, we’ve talked about all that. However, if all that was required to be a good merchant was to be good with numbers, then mathematicians would be the richest people on Pangera. They aren’t, by the way.]
+
+The hatchling looked a little despondent, but Enid remained placid, nibbling on a biscuit as they conversed in her sitting room.
+
+It had been weeks since they’d started this routine. Enid was pleased with her new student’s attitude. She hadn’t been sure what to expect from an ant who wanted to be a merchant, but it hadn’t been… this. The hatchling was attentive, inquisitive, had a good sense for numbers and possessed a genuine passion for commerce behind her compound eyes.
+
+Which was the most surprising thing. The Colony, as a whole, had absolutely no interest in commercial activities of any kind, to the point that they’d brought her in, a rural merchant from a backwater kingdom, to negotiate on their behalf with a brathian conglomerate!
+
+What it was about this particular ant that caused her to take an interest, she had no idea, but it was a pleasant surprise.
+
+[I don’t understand,] the hatchling groaned.
+
+This was the first major sticking point that they’d run into. The hatchling had a logical mind, an understanding of cause and effect. She’d already developed a working understanding of market forces on her own, without having any sort of teacher at all. Remarkable.
+
+Yet this was something that she just didn’t seem to be able to grasp.
+
+[Connections, reputation, trust. There are so many factors that go into a successful deal other than the price.]
+
+[Of course, quality is an important factor, not only price.]
+
+Enid put her cup down.
+
+[Let’s imagine there are two different traders, both offering the same item for sale. The price is identical, and they are sourced from the same vendor. Who do you buy from?]
+
+The hatchling considered the question, antennae waggling through the air.
+
+[Either,] she said finally. [There is no meaningful difference between the two, so the decision is arbitrary.]
+
+Enid shook her head.
+
+[Wrong,] she hummed. [It turns out one of the merchants has a poor reputation in the local community. Two summers ago, they were found to have cheated some locals out of a few silver. You can’t be sure they haven’t interfered with the goods.]
+
+[I didn’t know that,] the hatchling complained.
+
+[You didn’t ask,] Enid pointed out. [And besides, if it matters, then it proves my point. A merchant is only as good as their reputation. If the people of Renewal had found out you’d lost their money, would you have ever been able to start another business in that community?]
+
+Again, the hatchling considered the question for a moment.
+
+[No,] she said with finality.
+
+[Exactly. There are two key elements to being a successful merchant. To gather knowledge, ask questions, find opportunities and then take advantage of them. This requires careful research, a logistical and analytical thought process, going through the numbers, so to speak. The second is to cultivate both contacts and reputation. Customers will pay more for an item if it's from someone they know and trust. Vendors are more likely to reach out to you with ideas and goods if you have dealt fairly with them in the past.
+
+[If you want to make money, then you must learn how to deal with people just as well as you can deal with numbers. How to read people, discern who is trustworthy and who isn’t, divine their motivations and manipulate them into seeing things your way.]
+
+The more she spoke on the matter of trading, the more enthused Enid became. This had been her bread and butter for decades. While her husband had been gone for months on end, delving deep into the Dungeon below, she had been on the road, selling here, buying there, shaking hands and making deals.
+
+[It’s going to be difficult for you,] she said, looking down at the little hatchling. [Most people have some form of prejudice against monsters, against ants especially. As an insect, you don’t look familiar to them, so it's hard for people to relate, and they can’t read your expression, since you don’t really have one. Inspiring confidence with those disadvantages will be difficult.]
+
+[That will just make it all the more satisfying when it works,] the hatchlings declared. [Teach me. I will do anything to unlock the power to make money.]
+
+[Anything?]
+
+[Anything!]
+
+The hatchlings' eyes blazed with passion, and Enid sighed. She had seen that look many times before, in people who walked down the dark path, accumulating, ripping off their customers, beating down their competitors with shady methods.
+
+[I will only teach you if you agree to adhere to my standards,] she said. [No funny business.]
+
+Antennae waggling in confusion, the hatchling tilted her head to the side.
+
+[I am very serious about business, teacher. I would never joke about it.]
+
+Enid laughed. Perhaps she had been thinking too deeply. This little ant had already refused to take advantage of her family to outcompete others. She already had a code of values she adhered to.
+
+Just how bad could an ant business magnate really become?

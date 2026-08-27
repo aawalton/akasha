@@ -1,0 +1,259 @@
+---
+id: 7c660068-4658-5ed2-af40-20c0df45effb
+page-type-slug: story-chapter-royal-road
+title: "15 - Skill Upgrades"
+slug: 0015-15-skill-upgrades
+partOf: cat-girl-evolution
+position: 15
+ownLength: 3004
+unit: words
+publishedAt: 2025-08-26
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2548131/15-skill-upgrades"
+royalRoadId: "2548131"
+---
+
+[ Upgrades available for External Mana Manipulation: ]
+
+[ External Mana Manipulation - Constructs: You manipulate mana outside your body with an emphasis on creating physical objects ]
+
+[ External Mana Manipulation - Anatomical Constructs: You manipulate mana outside your body with an emphasis on making pseudo-biological objects ]
+
+[ External Mana Manipulation - Equipment Constructs: You manipulate mana outside your body with an emphasis on creating tools and weapons ]
+
+[ External Mana Manipulation - Fire: You manipulate mana outside your body with an emphasis on creating Fire-attributed mana ]
+
+Hmmm. This is going to be tough.
+
+Abby, which one is best?
+
+[ That depends on your goals ]
+
+Yeah, I know…
+
+But which one is best?
+
+[ I’m being serious. All four options are equally good. It just depends on your goals. ]
+
+Okay. My goals are to kill and eat all the different types of seafoodmen. And also escape the island. Which one is best?
+
+[ Before I answer that- ]
+
+No, just tell me.
+
+[ BEFORE I ANSWER THAT, I need you to understand something about Skill upgrades ]
+
+Fine. What is it?
+
+[ Each option comes with benefits and tradeoffs. If you pick one with a narrower focus, you will have more power and control within that focus, but less everywhere else. Meanwhile, if you choose something broader, the bonus will be lesser, but your skillset will be more versatile. For example, both the Anatomical Constructs and the Equipment Constructs upgrades are specializations of the first option, the ordinary Constructs upgrade. If you choose Constructs, you will be able to do both Anatomical Constructs and Equipment Constructs, but at lesser efficiency than if you chose either of those specializations. Meanwhile, if you were to choose, for example, Anatomical Constructs, you would be able to make hands much more easily, but you would struggle more when it came to creating equipment. ]
+
+[ It’s important to note though that choosing a specialization won’t block the other path. If you choose Equipment Constructs, you will still be able to make anatomical constructs if you wish. You will just have to do it manually without System assistance. So your spoons will be much easier to create, but your hands will be just as difficult as before. Do you understand? ]
+
+Not reading all that.
+
+[ Seriously?! ]
+
+Just kidding. Okay, I understand. Now which one is best?
+
+[ For combat in general, the Fire upgrade would be best, but for the fish people specifically, you may find Equipment Constructs more useful, as water-based species tend to be somewhat resistant to fire, but as you’ve found, sharp things pierce their skin just fine. ]
+
+Hmmm. But if I choose the fire one, I’ll be able to cook my food, right?
+
+[ Technically, that’s something you can already do, but you haven’t experimented with applying elements to your mana yet. However, yes, if you choose the Fire upgrade, you’ll be given System assistance in creating fire, which will make it trivial. ]
+
+Hmmm. Abby, this wasn’t helpful at all. Now I’m even more conflicted.
+
+[ Would you like me to flip a virtual coin? ]
+
+And leave it up to chance? That’s not a bad idea.
+
+[ No, I mean to help you decide. If you don’t like whatever it lands on, you pick the other one ]
+
+Oh, that’s a good idea too. Let’s do that.
+
+[ Okay. Heads is Fire, tails is Equipment. ]
+
+[ Flipping… ]
+
+[ Heads! ]
+
+I don’t like it.
+
+[ Then choose Equipment ]
+
+I don’t like that either.
+
+[ Then let’s flip between the other two. Heads is- ]
+
+I choose Anatomical Constructs.
+
+[ External Mana Manipulation has been upgraded to External Mana Manipulation - Anatomical Constructs! ]
+
+[ External Mana Manipulation - Anatomical Constructs: You manipulate mana outside your body with an emphasis on making pseudo-biological objects. Proficiency: Early. Includes Skills: External Mana Manipulation ]
+
+Immediately, I conjure a hand made of mana. This time, it’s complete. It’s a bit off, like it’s a low-resolution image, and it doesn’t bend quite as smoothly as I’d like, but it’s complete, and it works!
+
+[ …What? ]
+
+Silence, Abbel. Operation Real Fake Hand is complete!
+
+I scratch myself behind the ears with it. It feels great. I conjure a second hand and start scratching my butt. Even better! I roll over and make both hands rub my belly. Perfect!
+
+For a few minutes, I just lay like that, enjoying the scratches for the first time in days. Then, I get bored and roll back over and move the hands to be in front of me. They’re completely invisible, but at this point, I can sense mana clearly enough that I know exactly where both of them are. Time for some more experimentation.
+
+I maneuver them so that they’re right in front of me and just below me, and then carefully place them under my legs and start lifting myself up. They’re not as easy to work with as my real hands used to be, so it’s slow progress, but it still doesn’t take long before I lift myself completely off the ground, my back legs and tail dangling below.
+
+Haha! I can fly! Suck it, Abbot, now I can get off the island on my own!
+
+I start floating my hands over toward the shore, but after less than a minute, I notice a minor problem with my plan. Moving like this costs a lot of mana for some reason. The mana in the hands dissipates much faster than usual, and I can already tell that I won’t be able to even make it to shore before they disappear completely because I’m out of mana.
+
+Nooooo!
+
+[ That is perhaps the most inefficient way to fly you could have possibly chosen ]
+
+Shut up, Abb- Abb-
+
+…
+
+Shut up, Abbandoned!
+
+[ You really have to stretch for those now, huh ]
+
+I said shut up!
+
+Anyway, I guess that’s not going to work. Sad. But I have hands now! That means I can grab things.
+
+[ Only when you have mana ]
+
+Right, but I can replenish my mana super easily now. Just a few minutes of mana eating, and I’m back!
+
+[ How are you going to eat mana without enough mana to make a mana spoon? Or to summon something from your Stomach? ]
+
+…
+
+I’ll figure something out.
+
+I sit down to Meditate again and wait very impatiently for the five minutes it takes to replenish enough mana to summon a piece of fish dude from my stomach. Then, I notice that it barely has any mana, so I have to Meditate for a few more minutes to be able to summon some Octodude. Once my stomach is full, my mana starts replenishing much more rapidly, so I sit and wait a bit while I digest.
+
+Sitting still is boring though, so I conjure a mana spoon and start messing with it. I had a Fire option available for one of my External Mana Manipulation upgrades, and Annoying Blue Box said that I should be able to do all the things that it said I could do, including making fire, right?
+
+I float the spoon out in front of me and imagine it catching on fire. Nothing happens. Well, the mana shifts a little bit, but it doesn’t seem to work, so that can’t be the right way. After a few seconds, I try again, but differently. Fire is just superheated air, right? So if I just make the spoon hotter, it will be fire!
+
+This method seems to work. The mana in the spoon starts vibrating as though it’s excited, and after a few seconds, I begin to feel heat on my face. A few seconds later, the mana undergoes a complete shift, and the spoon shape disappears, leaving me with just a ball of very hot mana. It’s threatening to singe my whiskers, so I move it away. That turns out to be unnecessary though, because not long after, the mana in what used to be the spoon is all spent and the flame dies out.
+
+Interesting. Looks like fire mana isn’t that hard to make, but it burns out quickly. I can’t just hold it out like that. That makes sense, I guess. Good to know
+
+By this time, the mana in my stomach is digested enough that I’m about half full, so I form another spoon and shovel some more into my mouth before opening my eyes again. I would have eaten more octodude, but I’m pretty sure that if I eat any more, my stomach is gonna explode.
+
+[ You just got Meditate to Peak Proficiency, by the way ]
+
+Oh, cool! Upgrade Meditate!
+
+[ Upgrades available for Meditate ]
+
+[ Meditate - Deep: Meditate with increased effectiveness by shutting out external stimuli ]
+
+[ Meditate - Alert: Meditate while keeping an eye on one’s surroundings without suffering a penalty ]
+
+[ Meditate - Split: Meditate on multiple things at once with decreased effectiveness by splitting your focus ]
+
+[ Meditate - Efficient: Meditate with increased efficiency in mana conversion ]
+
+[ Meditate - Sensitive: Meditate with increased mana sensitivity ]
+
+[ Meditate - Precise: Meditate with more control over your mana ]
+
+[ Meditate of the Glutton: Meditate with increased effectiveness scaling with Satiety and increased mana digestion rate ]
+
+Abby, which-? Wait, does that say it scales with Satiety?
+
+I pull up the description of Stuffed. My Satiety is currently at a number so big I don’t even want to try to tell what it says. If it actually scales with Satiety…
+
+[ It almost definitely has a cap. I am not aware of any skills that scale without limit, and I doubt the System creators would leave such an obvious error in when Satiety is a core aspect of Gluttony abilities. ]
+
+Dang. It’s still the best one though, right?
+
+[ Easily ]
+
+I choose Meditate of the Glutton.
+
+[ Meditate has been upgraded to Meditate of the Glutton! ]
+
+[ Meditate of the Glutton: Meditate with increased effectiveness scaling with Satiety and increased mana digestion rate. Includes: Meditate ]
+
+Dang, the Proficiency is gone.
+
+[ Likely tied up in your Gluttony Trait again. It’s fine though. Meditate probably wouldn’t be something that you’d upgrade more than one or two times, given your personality. Not without a Sloth Trait, at least ]
+
+What would a Sloth Trait do?
+
+[ It would let you Meditate while you sleep ]
+
+How do I get a Sloth Trait?
+
+[ You don’t. You can only have 1 Sin Trait at once, and you already have Gluttony. Getting Sloth would mean forfeiting Gluttony, and that would also mean forfeiting all your Gluttony Traits and Skills ]
+
+Yeah, no thanks. I’ll stick with Gluttony. As much as I like napping, I like my Stomach more. Now, let’s test out this new Skill!
+
+I sit down to Meditate, and as soon as the Skill activates, I can immediately tell the difference. I honestly didn’t expect it to be so drastic, but now, it feels like I got glasses for my mana sense. I didn’t realize how fuzzy and unclear my senses were before.
+
+I make my hand again, and while I thought it was pretty good before, now, I can see that it’s actually pretty terrible. It’s totally undetailed, and it’s constantly leaking mana from little tiny pore-like holes all over. I focus on filling in both the details and the holes, and only a few seconds later, both issues significantly lessen. Must be a Proficiency upgrade. I don’t check it yet though.
+
+Instead, I focus on the hand again. Now that I think about it, my new External Mana Manipulation Skill is supposed to be for Anatomical Constructs, but so far, I’ve only made hands. I wonder what else I can make.
+
+With the new Meditate upgrade, I can experiment basically infinitely. That Proficiency upgrade I got to my constructs makes them way more mana-efficient, and when I eat mana, it gets processed quicker than I expend it.
+
+I go through different anatomical constructs, starting with feet, then full arms and legs, then single fingers and toes, then a torso, then a torso with limbs, and eventually, I make a full, almost-full-sized person. It took a while, and I had to pause to eat mana twice so I could supply the construct with everything it needed, but now I have it: a mana person.
+
+I’m pretty sure that if I cancelled my Meditate skill, it would dissipate, since I wouldn’t be able to control all this mana properly. I’m barely holding it together as-is.
+
+For a little while, I just sit there with the mana body standing over me, unmoving. Now that I have it, I don’t know what to do with it. Precisely controlling just the hands is already pretty hard. There’s no way I’ll be able to control this whole thing. I mean, I could try…
+
+I try to make it lift a foot to take a step, but it just wobbles a bit and falls over, barely missing me. Yeah, nope. Not happening. Not yet, at least. I’ll need more mana too before anything I could do with a full mana person would be practical.
+
+I absorb as much mana as I can back into myself, then start messing around with hands again. Since I still have a bunch of mana under my control that doesn’t fit in my body, I try making a really big hand, which does work. When I try to pet myself with it though, it threatens to squish me, so I quickly move it away.
+
+I mess around with the giant hand for a little while longer, trying to increase my control until my growling stomach ends my practice session. I’m about to just let the hand dissipate into the air when I suddenly have an idea. Rather than just letting it dissipate, I compress it into a ball. I can’t compress it that far, but I do get it somewhat dense, and once I do that, I convert it to Fire mana.
+
+Immediately, I know I have made a mistake, and I launch it up into the air just a split second before it explodes. A wave of heat washes over me, flattening the fur on my back. Dang, that was almost bad.
+
+[ Very bad. If you're going to die, at least don’t make it self-inflicted. ]
+
+C’mon, I’m not an idiot.
+
+[ Right ]
+
+That sounded sarcastic.
+
+[ It’s just text. How can it sound sarcastic? ]
+
+I’m onto you, Abbs. I’m onto you.
+
+Anyway, dinnertime!
+
+“Blergh!”
+
+Apparently, all that mana practice made me really hungry, because I eat a lot tonight. As soon as I finish, I climb up to my spot and collapse in a food coma.
+
+I wake up in the middle of the night, and for a moment, I panic. It’s way past sunset. Are the octodudes here? I don’t sense anything, but they could be sneaking up.
+
+I stay alert and still for a full quarter hour before I start to relax. It looks like they really aren’t here yet. Still, I wait a few more minutes before I start moving.
+
+For the rest of the night, I do patrols around the edge of the island, listening carefully for anything that sounds even kind of suspicious. At this point, all I need is one single kill, and I’ll be able to leave this island. Just one. It doesn’t even have to be strong.
+
+However, morning arrives, and there is no sign of any seafoodmen.
+
+That day, I do my normal stuff. I practice with mana, I eat, I sleep, I watch out for enemies, but there’s nothing. I spend most of the day asleep, and the rest of it practicing mana, and when night comes, once again, there are no enemies.
+
+The same thing happens three more nights before anything changes. In this time, I get External Mana Manipulation - Anatomical Constructs to Late Proficiency, and I get Slice there as well, since apparently, it went up to Middle at some point while I was killing octodudes. I haven’t messed with Ember, but it’s actually gone up to Late Proficiency as well, probably due to that fireball I made.
+
+It’s only on the fifth night that something finally happens. I’m lying on my tree like usual, half of me paying attention to the ocean and the other half nodding off when I hear it. That familiar splashing of something coming to shore.
+
+I almost fall out of the tree in surprise before dashing toward the source of the noise. I do my usual routine of stopping at the shoreline and climbing a tree to get a better look at my new targets. However, what I see leaves me confused. It’s not a seafoodman. It’s a human. A very tall, very buff human, wearing nothing but a scaly loincloth, but still a human. And he’s holding the Named monster’s trident.
+
+Is he friendly? Did he kill the Named monster? How did he get here? He must have swam, right? He’s soaking wet and I don’t see a boat. What kind of maniac would be able to swim all the way here with so many seafoodmen around. Well, I guess the kind of maniac that would be able to kill a Named monster without a scratch.
+
+Should I reveal myself to him? No, not yet. What if he’s like Old Man Jenson and he kicks cats? I don’t think I could survive a kick from him.
+
+I wait in the tree as he stands on the sand, flexing his massive muscles for a few seconds. Then he starts walking up the sand, and when he enters the range of my Food Sense, my fur stands on end. He is edible, but he is not a human, and he didn’t kill the Named monster.
+
+That is the Named monster.

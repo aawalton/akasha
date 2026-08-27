@@ -1,0 +1,139 @@
+---
+id: 8cf574a0-7924-5fd6-ba88-378c21ced853
+page-type-slug: story-chapter-royal-road
+title: "5 - Scratch"
+slug: 0005-5-scratch
+partOf: cat-girl-evolution
+position: 5
+ownLength: 1793
+unit: words
+publishedAt: 2025-08-17
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2525538/5-scratch"
+royalRoadId: "2525538"
+---
+
+The fishmen don’t seem to be returning tonight, so I take the most logical next step. I find the tallest tree on the island and take a nap in the highest branch I can reach. Abby said something about training my Scratch skill or something instead, but that’s ridiculous. How can I train when I’m not well-rested? I’ll probably pull a muscle and hurt myself. Or something.
+
+Also, for some reason, I just don’t have the mental energy to do anything productive right now.
+
+When I wake up, the sun is just beginning to rise. There are seagulls are making their screeching sounds, and the sound of the waves against the shore make a pleasant backdrop as I stretch out on my branch. Then I almost fall off as my stomach makes the loudest growl it ever has. I am starving. I have never been this hungry.
+
+“Mraw!” I call.
+
+Someone get me down!
+
+I wait a few seconds and no one arrives.
+
+Oh right.
+
+I climb down myself and as soon as I hit the ground, I start looking for something to eat. My Food Sense marks basically everything organic around me as edible, but I don’t want to eat tree bark or bush leaves or grass. That’s peasant herbivore food. I am a true carnivore. I should be eating better food. Like fish!
+
+I feel a nagging in the back of my mind, and I turn my attention to my Stomach of the Glutton. I’m pretty sure I can get stuff back out of that space. But how? Ah, I think I’ve got it.
+
+“Blergh!”
+
+Ugh. That sucked. That felt like throwing up a hairball. There has to be a better way to do that. At least it worked! Now I have a fishman corpse for breakfast!
+
+I ignore the odd feeling at the back of my mind that comes from eating something human-shaped as I dig into my all you can eat fishman buffet. I manage to get through a significant portion of its left leg before I finally start to feel full. I return the fishman to my second Stomach, then stretch again and look around.
+
+This island is actually pretty nice. Very peaceful. Very pleasant. At least it would be without all the corpses. I should have collected more last night. They’re starting to smell. There’s no way I’m putting my mouth on them to put them into my stomach now. I guess I’ll just have to live with it.
+
+I should probably do that thing Abby told me to do. What was it again?
+
+[ Practice Scratch ]
+
+Right.
+
+I scratch a tree. Four lines appear.
+
+Wait, but why?
+
+[ If you raise a skill to Peak proficiency, you can upgrade it. ]
+
+Oh, that sounds cool. Alright!
+
+I scratch the tree again. Four more lines are cut into the bark. Again. Four more lines. The bark on this section is crumbling and falling away, exposing the naked wood. I scratch again, and this time, the cut isn’t as deep. The actual wood of the tree is much more solid, and the lines I leave are only a few millimeters deep. Still better than I could do before unlocking the System, but disappointing. I wonder how long it will take before I can knock over a tree with a single swipe.
+
+I Scratch the tree another dozen or so times, digging out a solid chunk of wood, but when I check my Royal Status Window, the proficiency still says Early.
+
+[ Did you really expect it to go up after just a few minutes? ]
+
+Yes.
+
+[ Well, expect differently. Also, if you want to make faster progress, try using the skill with more purpose. Just blindly using the skill won’t do much. The key areas to look at for improving skill Proficiency are consistency, accuracy, and versatility ]
+
+Thanks, Abbraham.
+
+[ … ]
+
+So, consistency. That means the same thing every time. And accuracy means hitting what I’m aiming for. I mean, I’m already pretty good at that though, right?
+
+I strike the tree again, then study the four lines I just made. They don’t look any different from the others, beyond the fact that I made them a bit higher up so they’d be visible. That wasn’t difficult at all. I hit where I was aiming, and it’s the same as all the others. But maybe…
+
+I Scratch again, aiming for the exact same spot. I miss. Not by much, but there are four new lines just to the right of the original ones. I also was holding my paw slightly differently, so the spacing between the lines is slightly off. I see. So this is where the accuracy and consistency come in.
+
+I spend the next ten minutes Scratching away at the tree. I slowly rotate around it when the section I’m on gets too marked up, and by the end of the ten minutes, the entire bottom of the tree is pretty much stripped of bark. However, I have succeeded! I mean, I succeeded the first time pretty quickly, but now, it’s consistent. I can hit exactly where I hit before almost every time. With my right paw.
+
+I check the skill again, and see that the Proficiency is still at Early, so I find a new tree and start doing the same with my left paw. This one goes a bit quicker, but it’s not because I’m left-pawed. It’s just that I had already figured out what kind of adjustments I needed to make on my right side, so I just had to mirror them on the other side. However, when I check the skill, it’s still stuck at Early.
+
+Abbdul, why is it not going up?
+
+[ Abbdul? I don’t know anyone by that name. ]
+
+Come on, Abberdeen.
+
+[ You’re going to run out of names eventually. ]
+
+Not anytime soon, Abbu. Now tell me why my skill Proficiency isn’t going up.
+
+[ Call me Abby first ]
+
+Answer, and I’ll call you Abby.
+
+[ You promise? ]
+
+Sure.
+
+[ It’s because you lowered the power and speed to focus on accuracy and consistency. If you can do the same at full force, you’ll likely achieve the Proficiency upgrade. ]
+
+Oh, now that I think about it, my scratches are more shallow than the first ones I did. Thanks, Abby!
+
+[ At your service, Princess Yona ]
+
+Despite now knowing what I need to do, it still takes me two full hours before anything happens. I do another scratch, same as all the ones before, but suddenly, it feels easy. Rather than needing my full focus to hit my mark, I only need half. It feels almost casual, and when it lands, my claws dig deeper into the wood than before. When I check my Scratch skill, the Proficiency has changed to Middle.
+
+Yes!
+
+[ Congratulations, Your Highness. Your talent is remarkable. ]
+
+I know, right? This calls for a celebratory feast!
+
+“Blergh!”
+
+A lightly gnawed fishman corpse appears mysteriously on the ground in front of me and I go to town. It’s just as delicious as ever, from the skin to the bones. I don’t actually eat the bones (yet), but I do give the exposed ones a few good licks before I put it back into my Stomach. As I do, a thought comes to mind and I check the skill’s description again.
+
+Hey Abby, how come Stomach of the Glutton doesn’t have proficiency?
+
+[ Ah, Your Royal Highness raises a good question. Stomach of the Glutton is a skill that has been mutated by your Gluttony trait so that it no longer lies within the bounds of the normal Skill system. Its progression is now tied to your Gluttony Trait. When your Gluttony Trait improves, so will your Gluttony Skills ]
+
+How do I upgrade traits? Why are they all at Stage 1?
+
+[ Trait stages are tied to evolutions. As your species increases in tier, you will evolve your species, and when you do, you will gain or level up traits in accordance with your evolution. So if you choose an evolution that takes you off the path of Gluttony, your Gluttony Trait will not upgrade, and if you go too far off, you may even lose it entirely. ]
+
+I see. That makes sense. And if I want to evolve and upgrade my traits, I need to level up my race, and to do that, I need to fight and kill things.
+
+[ All correct, Your Excellency. You are learning quickly. ]
+
+Awesome! Now, I just need to find some things to hunt. Except the only things I’ve seen on this island are seagulls and the fishmen. And I’ve killed a seagull before and it didn’t give any experience points, I’m pretty sure.
+
+[ Ordinary animals don’t have full access to the System, and therefore provide no experience points ]
+
+Ah, I see. So really, my only options are the fishmen, and since I can’t go into the water to hunt them, my only option is to wait here for them to come to me. In that case, I guess there’s nothing I can do. Time for a nap.
+
+When I wake up, the sun is already starting to set. Whoops. That nap went a little long. Seems like nothing happened though while I was asleep. My ears are sensitive enough and the island is small enough that if the fishmen had been poking around, I would have woken up.
+
+I have a feeling they’re more nocturnal, anyway. After all, the last time I saw them active, it was at night, and they were swarming the island. They’ll probably show up soon, if they show up at all.
+
+More importantly though, I am once again starving. Ever since I unlocked the System, my hunger seems to be more intense. I guess that’s the Trait talking. Will that get worse as the Trait upgrades? That might suck a little. Well, as long as I kill a bunch of fishmen and put them in my Stomach, I’ll probably be fine. There were dozens of them here last night. If I kill them all, that will be enough to feed me for years.
+
+I gorge myself on some more fishman, and right as I finish, I hear something faint in the distance. It’s a quiet splashing that could almost be confused for waves if the tide wasn’t so gentle in these parts. I sprint in the direction of the sound, only stopping when I reach the edge of the treeline. I climb one of the trees closest to shore and look out at the beach to find that my suspicions have been proven correct. The fishmen are here.

@@ -1,0 +1,191 @@
+---
+id: a5ecddb3-7b7c-5e04-a8f7-3adf0564dc3c
+page-type-slug: story-chapter-royal-road
+title: "45: Headlong Rush"
+slug: 0045-45-headlong-rush
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 45
+ownLength: 2101
+unit: words
+publishedAt: 2025-10-03
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2649031/45-headlong-rush"
+royalRoadId: "2649031"
+---
+
+Chloe peeked around the shattered corner of the house. The street was still dusted white from the blast. Okay, so maybe running up to creepy villagers that explode in your face isn’t the best idea. Who knew?
+
+Fine then. New plan. No more running in like a dummy. From now on, everything was going boom from a distance.
+
+Her grin sharpened as she remembered the Shivermaw. It hadn’t liked fire one bit, at least at first. If fire could scare the overgrown lizard, it ought to work against these weird villagers too.
+
+She stepped out of hiding. The street was too quiet, and quiet in a place like this usually meant something was about to jump at her.
+
+Sure enough, a villager broke from the shadows, charging at her with a stick raised high like it was the deadliest weapon in the world. Chloe couldn't hold back the urge to laugh. A stick. He was really coming at her with a stick.
+
+Chloe conjured a fireball and threw it at the villager. The ball of flame slammed into his chest and blossomed into a rush of fire.
+
+The man staggered mid-charge, flames licking up his arms and face. For a second, Chloe pumped her fist. Yes! Burn! Burn!
+
+Then the glow under his skin flared bright. The fire snuffed out in a sharp hiss as the villager blew apart, shards of ice ripping through the air. Frost gusted over the street, smothering the flames in a rush of glittering powder.
+
+Chloe yanked Cloaky up like a shield, squinting through the icy haze. Steam curled from the ground where fire and snow had clashed, and when the mist cleared, there wasn’t even a scrap of villager left. Just a smoking patch of frost like he’d never been there at all.
+
+[You have killed: Iceborne Thrall (Level 15)]
+
+[Experience Awarded]
+
+Chloe dusted Cloaky off and straightened with a smug grin. It looked like fire did the trick on these frosty weirdos. Good enough for her. She was just gonna keep chucking fireballs.
+
+The next thrall stumbled into view, dragging a shovel. Chloe lobbed a flame straight into his chest. A second later, boom. The explosion shredded the flames into glittering shards, the snow hissing as the two elements fought.
+
+[You have killed: Iceborne Thrall (Level 16)]
+
+[Experience Awarded]
+
+Chloe clapped her hands together, grinning so wide it almost split her face. Two for two. Who’s the best zombie? Me. Obviously.
+
+More thralls staggered out of the alleys, sticks and shovels in hand like some sad little army. Chloe didn’t even flinch.
+
+Fireballs bloomed bright in her hands, and she started lobbing them left and right. Each blast filled the street with fire and frost, every thrall bursting apart in icy explosions.
+
+[You have killed: Iceborne Thrall (Level 16)]
+
+[You have killed: Iceborne Thrall (Level 15)]
+
+[…]
+
+[You have killed: Iceborne Thrall (Level 15)]
+
+[Experience Awarded]
+
+Chloe spun once, laughing as steam curled off the snow. She was having a great time.
+
+However, the fun cut off when a familiar pressure pressed heavy against her chest. Chloe froze mid-step, she could feel it, Ynett finally decided to show her face.
+
+The White Witch appeared at the far end of the street. Her eyes glowed faintly, lips curling in a sneer. “Welcome back, Chloe."
+
+Chloe planted her feet and bared her teeth in a grin. “Oh, I’ve been waiting for this. You made me feel real bad before, so now it’s your turn. I’m gonna make you feel worse. Way worse.”
+
+Ynett’s laugh rang clear across the snow. “You should have stayed asleep. For your own sake.”
+
+“Liar! You don’t get to act like you’re doing me a favor. You’re going down. All the way down.”
+
+“Then let me see you try.”
+
+The air around Ynett shimmered. Pressure slammed into Chloe’s skull, crawling through her bones. Her thoughts fuzzed, edges blurring, the command pressing her down like a boot grinding her neck.
+
+But before things took a turn for the worst, Chloe’s eyes snapped open. Something inside of her shoved, and the pressure cracked.
+
+[Charm effect successfully resisted]
+
+As the weight on her mind fizzled away, Chloe let out a confident smile. “Hah! Nice try. But that's not gonna work on me anymore.”
+
+For the first time, Ynett actually looked annoyed, and not just smug. “How… tiresome.”
+
+Shards of ice spun into existence around her fingers. She flicked her wrist, and spears of frost screamed down the street. Chloe yelped and dove behind a wooden cart. The spikes punched through the wood in a spray of splinters, cold mist curling around the wreckage.
+
+Nope! Chloe thought to herself, crawling out and running toward the nearest house.
+
+Ynett followed her, all while launching a barrage of ice magic blasts. Chloe zig-zagged between buildings, countering with her own fireballs whenever she got the chance. But Ynett’s ice tore through them easily, smothering the flames before they could reach.
+
+Chloe ducked behind a house just as a spear of ice ripped the roof clean open, spraying snow over her. She scrambled away before tumbling behind the next row of houses.
+
+Things were not looking good, and Chloe knew it. She needed to find an opening to get an attack in somehow, but that was easier said than done.
+
+Another pulse of mana surged behind her. Chloe whipped around just in time to see Ynett level her hand, a thick shard of ice coiling together in her palm. The witch hurled it.
+
+Chloe rolled hard across the snow as the blast slammed into the house behind her. The entire wall blew apart in a roar of ice and wood.
+
+She skidded to a stop just behind another house. That was way too close.
+
+Chloe wiped frost from her face. Okay, think, Chloe. Maybe it's time to switch things up a bit.
+
+Chloe crouched low, calling up her Cursed Rock Shot. The air shimmered, and a stone blinked into her palm, dripping with black energy. She wished the little rock good luck, aimed it at Ynett, and let it fly.
+
+The rock screamed through the air, cutting a dark trail. Ynett barely flicked her wrist, and a wall of ice surged out of the snow. The stone struck, hissing against the barrier, before cracking apart and fizzling into nothing.
+
+Chloe scowled. This was harder than she thought.
+
+She swapped to fireballs again, hurling orb after orb. The street lit up in bursts of red, steam roaring every time fire clashed with ice.
+
+Despite Chloe's best efforts, Ynett moved like she had all the time in the world, conjuring shards of ice to counter the fireballs. Eventually, one struck home.
+
+A shard of ice ripped through Chloe's guard and slammed into her left arm. She could only watch as her arm froze and then shattered past the elbow. Icy shards scattered across the snow.
+
+She staggered back, staring at the empty space where her hand should’ve been. This was not good.
+
+Ynett’s eyes gleamed as she stepped forward. “Just give up. You may scurry and squirm, but you cannot win.”
+
+Chloe narrowed her eyes, teeth grinding. Was Ynett ever going to shut up? Blah, blah, blah, always with the "just give up" talk. No way I'm doing that.
+
+She snapped her remaining hand forward, a fireball blooming in her palm. Chloe hurled it straight into Ynett’s chest.
+
+But, disappointingly, the flames flew through the witch’s body without leaving a mark. Chloe’s mood soured. Figures. Another fake.
+
+“Pathetic,” Ynett called out. Frost swirled around her fingers as she shaped a massive shard of ice.
+
+Chloe wasn’t about to just stand there and get skewered. Her right arm shot away, dark tendrils snapping out. They hooked into the beam of a ruined house, and she yanked hard. The pull dragged her across the street, just as the shard exploded where she’d been.
+
+She slammed into the ground, skidding rough before crashing against another house. The impact rattled Chloe, but she just shook her head and reeled her hand back in, the tendrils snapping shut as her arm knit itself into place.
+
+Chloe pushed herself up and raised her hand, conjuring a fireball. But when she looked around, Ynett had somehow vanished from sight.
+
+Disappearing right when she was about to blast her? That was super annoying.
+
+If Ynett wanted to hide, then Chloe had tricks too. She dropped low, pressing her awareness into the ground.
+
+Tremor sense stretched out in every direction, but all she got back was a muffled haze. The thick snow covering the village must have made the skill pretty useless. Snow is the worst. How’s a zombie supposed to track down brains like this?
+
+The witch’s laughter echoed loudly, somehow coming from everywhere at once. Chloe shut her eyes, blocking it out.
+
+Tremor sense was no good, but she had another option. Time to test mana sense.
+
+Chloe stretched her mana sense wide. Faint sparks answered back.
+
+The thralls flickered against her senses, dim and weak, like torches about to snuff out. Ynett’s illusions were brighter, flashy and sparkly, but they felt hollow the moment Chloe pressed harder on them.
+
+Then she caught something different. A mana core, sharp and cold, tucked deep like it was trying way too hard to hide. The more she focused, the more obvious it felt.
+
+Chloe’s lips curled into a wide grin. Got you!
+
+She strode out into the open, her one remaining hand rising. Heat pooled fast, fire blooming in her palm. The flames hummed against the cold before she hurled them at what looked like empty air.
+
+For a moment, nothing. Then the fire slammed into something solid, hissing against an ice wall that cracked into existence with a sharp snap. The barrier shattered, and Ynett finally appeared.
+
+Her perfect calm broke, just for a blink, as the flames died. Chloe pressed her advantage, summoning a jagged Cursed Rock Shot.
+
+She flung it, shadows screaming behind the stone. Ynett tried to dodge, but the witch wasn't fast enough. The rock nicked her side, tearing cloth and skin. Blood dotted the snow.
+
+Ynett’s eyes widened. Then her face hardened into a scowl. “You insolent wretch!”
+
+Ha! You’re mad. I love it.
+
+A thick ice shard formed around Ynett's fingers. Chloe’s arm extended out again, snagging a broken roof beam and yanked hard, slinging her across the street as the ice tore through the wall behind her.
+
+Ynett hurled more ice shards, every blast strong enough to rip houses apart. Chloe zipped from ruin to ruin, her elongated hand dragging her to safety. She swung around corners, Cloaky snapping in the wind, frost chewing at her heels.
+
+Chloe's strategy worked. Until it didn’t.
+
+She launched herself toward the next rooftop, tendrils snapping her forward. But Ynett aimed a little too well this time.
+
+An ice shard surged out, catching Chloe’s arm mid-stretch. When the shard hit, frost crawled fast over her tendrils, freezing them solid before she could pull back. With a sharp crack, the whole limb shattered into glittering shards.
+
+Chloe hit the ground hard, tumbling across the snow until she skidded to a stop. She blinked down at herself. Both arms were gone. Just stumps left.
+
+For a moment, she just stared. Well… this is not good.
+
+Ynett strode forward, triumph dripping off her. “You see? Even with all your tricks, you cannot win."
+
+Chloe’s grin wobbled, panic prickling through her like crawling frost. Okay, so… this is bad. Really bad. No arms, no punches. How am I supposed to smash her smug face in without fists? And it’s not like I can just pick up spare arms immediately. Ugh, this is the worst time to be armless.
+
+But when Chloe looked more closely at Ynett, she noticed something strange. The White Witch wasn’t lifting her hand for another blast. Instead, the witch walked closer, like she was savoring every step.
+
+Chloe’s eyes narrowed. Wait… why isn’t she just blasting me again? What’s she waiting for?
+
+If Ynett wanted to take her sweet time, then fine. Chloe wasn’t about to waste the chance. Honestly, she always felt more confident bashing things up close anyway.
+
+She bent forward and ran as fast as her legs could carry her. Ynett probably saw this coming, so the witch raised a hand to conjure a sword of solid ice.
+
+But Chloe had already planned for that. She anticipated Ynett’s anticipation.
+
+The many fireballs she’d tossed earlier had melted patches of snow, leaving open soil and glistening puddles of water underneath. And Ynett just happened to be standing right in front of a pretty big puddle.

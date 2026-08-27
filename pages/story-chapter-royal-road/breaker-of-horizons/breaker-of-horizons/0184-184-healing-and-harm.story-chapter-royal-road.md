@@ -1,0 +1,111 @@
+---
+id: 57c0d2a8-07b2-549a-ac2d-91388ccd629b
+page-type-slug: story-chapter-royal-road
+title: "184. Healing and Harm"
+slug: 0184-184-healing-and-harm
+partOf: breaker-of-horizons
+position: 184
+ownLength: 2282
+unit: words
+publishedAt: 2022-03-10
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/861831/184-healing-and-harm"
+royalRoadId: "861831"
+---
+
+They finally got to the training room, which was the same kind as the others Caden had been in before. There was still enough room for everyone and they were early enough to claim the front seats, though by the time the rest of the class arrived, it felt a little more crowded with thirty people packed into it. The usual chairs with writing boards had been set up in a typical forward-facing classroom arrangement, but instead of a teacher's table at the front, there was a slab-like table of conjured material with what looked like a puppet on it.
+
+The final class they had for the day was something Caden had rather been looking forward to when he first saw the schedule, but he was so preoccupied with thinking about what Bertram had said that he didn't really pay much attention to what was happening. Distantly, Caden noted that Henry and his posse had settled down right behind them in the second row, but none of them engaged with either him or Bertram, so he sank deeper into his thoughts.
+
+He remained totally absorbed until he was alerted to the entrance of a professor by the sudden hush that fell across everyone in the room. When he looked up, he found himself staring at a deeply sun-browned aged man with bristly white hair, dressed in a deep burgundy shirt with its sleeves rolled up. His well-weathered face was frowning down at all of them as he leaned over the puppet with both his hands placed on the slab.
+
+"Professor Roland Ward," he said softly, which surprised Caden a little since he was expecting something more of a growl. Then he realised that Professor Ward wasn't really frowning at all — his face just looked like that.
+
+"You're here to learn the basics of healing," he continued, looking around at them, speaking each word with a great deal of care, as though afraid they might take offense if he chose his words poorly. "It will, paradoxically, make you more dangerous. When you have the basics, you know enough to do harm, and not yet enough to be effective reversers of it."
+
+He gestured broadly, and a series of glyphs appeared over the puppet on the slab. Caden only really understood a few of them, but he did recognise that they were all from the Special Set.
+
+"Your progress here will depend a lot on your progress in glyphwork. We will see these most often in sequences meant for healing, and until you understand these glyphs fully, your utilisation of the healing sequences will be by rote, and its applications will be limited. Ordinarily, we would never unleash subpar healers out into the wider world, but the Empire's present stance calls for a revision of that policy." He waved his hand again and formed a sequence in mid-air, focusing on a few Special Set glyphs and embedding them within clauses of more familiar Basic and Advanced Set glyphs. "This is a relatively simple sequence for mending superficial cuts and grazes. However, it has limited utility for deeper cuts, which we usually call lacerations, and is utterly pointless for puncture wounds."
+
+He peered up at them from beneath his heavy brows. "You are a hodge-podge of students across three years, so I shall have to prevail upon the seniors to take some of the younger ones under your wing and explain the basics. Form your own little groups, then study the sequence for ten minutes. After that, we shall discuss how it works, and why it has such limitations."
+
+There was a little reluctant shuffling as everyone looked around uncertainly. Henry's group was the first to get organised as they pulled their chairs out of the orderly rows so they could huddle closer together, and after that the rest of the class followed. It took about a minute for everyone to settle, and Caden saw that almost everyone had simply defaulted to the gestalts they had formed back in Kant's first class, though some had merged so that there was at least one third-year in every group. Caden and Bertram were left alone, though Caden noticed that Bertram had once again given a subtle shake of his head in the direction of his friends.
+
+"Got a reason for keeping them away?" Caden asked casually as he and Bertram pulled their seats further away from the others, and closer to the slab with the puppet on it."
+
+"If they're around, you're less likely to drop nuggets of advanced arcanophany," he whispered conspiratorially, winking.
+
+Caden rolled his eyes and turned his attention to the sequence that was still floating over the puppet. Many other groups had already duplicated the glyphs and were studying it up close in their circles, so Caden did the same. He tried to sort out whether he could match them to the Special Set glyphs he knew but didn't yet understand from sequences like the shield-piercer or Bertram's scanning pulse, but he didn't want to sketch them out in mid-air because it would give away the fact that he knew quite a lot more about the Special Set than he had any right to know. So he was forced to work with the symbols in his head.
+
+However, he became distracted when he realised Bertram had been watching him intently the entire time. "You do realise that's very irritating?" Caden asked through gritted teeth.
+
+"Maybe a running commentary would help. Otherwise, I'm gonna have to keep my eyes peeled, almost literally, just to try and glean something," Bertram replied, widening his eyes on purpose.
+
+Caden let out a huff. "I'm comparing it to Special Set glyphs I've encountered but don't yet understand."
+
+It was obvious that Bertram wanted to ask where Caden had seen other Special Set glyphs before, but he bit his tongue and nodded appreciatively. "Why do you think that'll help?" he prompted.
+
+"Because I'm hoping to do some basic pattern-matching. If I can spot some glyphs I recognise, I may be able to make a guess about their function based on how they're placed in the sequence," Caden replied, noting with some satisfaction that Bertram was apparently serious about not pressing for personal information.
+
+"Good process!" Bertram said approvingly, and he gestured at Caden to continue.
+
+"Are you going to contribute anything here besides acting sagely?" Caden asked, raising an eyebrow.
+
+"I wouldn't want to get in the way of your learning!" Bertram declared, grinning. "Besides, I already know this one."
+
+"What?" All thought of the sequence was momentarily abandoned as Caden turned to look properly at Bertram. "But... I thought they didn't do healing in the generalist syllabus?"
+
+Bertram winked and mouthed the words "staff politics", then gestured at Caden to go back to trying to parse the sequence.
+
+That was even more distracting. Caden's mind was now sketching ahead and wondering about why it was apparently necessary for the staff members jostling for the privilege to select a Demiurge to include providing healing training to younger students as part of their plans. He knew it'd be pointless to ask, though, because that was the kind of information Bertram was offering for trade. That was fine. He'd shelve the question for now.
+
+None of the Special Set glyphs were from sequences he had seen before, so he was forced to try and simply infer their function from the way the Basic and Advanced Set glyphs were arranged around them. The Basic Set ones were all directional in nature, while the Advanced Set ones seemed to involve demarcating boundaries or establishing conditions.
+
+"It's like the shield-piercer," Caden murmured to himself. "The core glyphs are being corralled by..."
+
+He stopped when he realised that he had been speaking aloud, but by then it was too late. Bertram's eyebrows had risen so high they were in danger of disappearing into his already-short fringe.
+
+"Military-grade, huh?" Bertram asked softly. Then he shrugged and leaned forward to point at one of the Special Set glyphs. "This one is called the glyph of pattern replication. I won't explain the full function, but the name should help you figure out the basics."
+
+Caden cast a fresh eye over the sequence and nodded. "But what counts as a pattern?"
+
+"This other one is the glyph of corporeal substance," Bertram said, pointing at another.
+
+A glyph that represented corporeal substances? Perhaps, Caden thought, that meant that healing supercial cuts and grazes was simply a matter of designating a healthy bit of flesh, and then replicating that pattern to cover the injury.
+
+"You just fix small cuts and grazes by replicating healthy skin and getting it to cover the sites of the injury?" Caden asked.
+
+Bertram pursed his lips. "I guess you could describe it that way. So if that's the case, what do you think? Why won't it really work on lacerations? Those are just bigger cuts, aren't they?"
+
+Caden was extra careful not to think aloud when he made a connection with something he remembered. Back when he had been suffused with the augera's collective knowledge of sequences and been gifted the ability to knit flesh and bone together, he had been aware of how fiendishly complex the process was. Mending wounds wasn't just a matter of closing up a generic hole or tear in the body. Layers and layers of things had to be attended to — skin, nerves, muscles, blood vessels, bones, and all the other minuscule things that tied it all together into one cohesive whole.
+
+"The pattern... it only focuses on skin?" Caden ventured, striving to sound less certain than he felt.
+
+Bertram nodded, impressed. "That's not the whole issue, but it is one of the foundational problems. This sequence only targets skin."
+
+Despite his earlier claim about not wanting to 'get in the way' of Caden's learning, Bertram launched into an explanation about the other Special Set glyphs that anchored the sequence. Apparently, the main problem with healing sequences in general was that they required a great deal of arcana to function, but safely channelling that much power involved walking a delicate balance. Too much arcana, and the body would tear itself apart. Too little, and the arcana wouldn't be dense enough to have any meaningful effect. Thus, healing sequences had clauses to fortify the body and prepare it for the transformative effects that it would be forced to endure. However, those clauses had to be written carefully so they didn't end up throttling the flow too much.
+
+"But it's so short," Caden said, noting the brevity of the sequence.
+
+"It's not exactly short, but it is really quite compact for something that has to juggle so many things," Bertram replied. "So, that's where the nature of Special Set glyphs comes into play. A simple way to think of it is that why you use them actually affects how they can be used. If you intend to restore, then the glyphs modulate their own flow better. Neat, isn't it?"
+
+"Neat," Caden nodded absently, his mind now turning to what he knew about the whole theory behind glyphs, and arcana itself. Were the augera, tied as they were into the fabric of arcana, somehow stepping in to cause Special Set glyphs to work in this manner?
+
+And then he remembered that he already knew the answer to this, and he had simply not connected the dots. Kevan had mentioned this before, when Kant had suggested to the twins that they ought to eliminate him because he wanted to free the augera. He had told them that modern arcanophany was built on the structure provided by the augera. The augera network, which Caden had assumed simply served as anchors for the Fateweavers' webs of prophecy, was itself responsible for the very foundation of modern arcanophany. These facts were known to him, but now they actually clicked. If he freed the augera, things like the Special Set would in all probability cease to function in the same way, and the cascading effects of that kind of disruption could lead to the swift and literal collapse of the Empire. Buildings could fall, artefacts could shatter and explode, and the very sequences that people used for day-to-day life could cease to function.
+
+Sweat was beginning to bead on Caden's brow. Bertram was saying something, but he couldn't hear it over the pounding of blood in his ears.
+
+"Caden?" Bertram shook him gently with a hand on his shoulder.
+
+"I... uh... it's pretty mind-blowing."
+
+Bertram fixed him with a measuring gaze. "Uh huh. You obviously think so. It wasn't that mind-blowing to me. Which makes me think you've just figured out something big, and which is way beyond me. Do I get any nuggets of info here?"
+
+Caden shook his head with his lips firmly pressed together, not daring to speak.
+
+"Fine," Bertram said with a huff. "Well, whatever it is, you better see the Demiurge and talk it out before you fry your brain or something."
+
+The Demiurge. Suddenly, his pronouncement that he wanted the Empire to be either 'properly preserved or properly destroyed' didn't seem so absurd anymore. Bertram's suggestion to ask the Demiurge about his latest realisation sounded like an excellent idea, and he desperately wanted to act on it that very instant, but he decided it would be best to finish this lesson and then take some time to gather his thoughts before meeting Caldwell.
+
+"Yeah. Demiurge. Good idea," he muttered feverishly.
+
+Bertram shook his head and gave a wry grin. "I don't have a clue about what the heck just went on, but I get the feeling that I'm getting dragged into something horrible here. You better make it worth my while."

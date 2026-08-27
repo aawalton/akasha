@@ -1,0 +1,119 @@
+---
+id: d316e98c-cf1a-53c0-b3d4-f8cd6a2fafee
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1475 - Slime Mind"
+slug: 0123-chapter-1475-slime-mind
+partOf: chrysalis
+position: 123
+ownLength: 1099
+unit: words
+ownProgress: 1099
+publishedAt: 2024-12-17
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1960480/chapter-1475-slime-mind"
+royalRoadId: "1960480"
+markedReadAt: "2026-06-29T19:48:00.348Z"
+---
+
+How does one negotiate in good faith with someone you fundamentally cannot trust? Going deeper, how does one negotiate in good faith with someone fundamentally incapable of trust?
+
+With difficulty.
+
+-           Excerpt from the ‘Guide to Diplomacy’ by Diplomant
+
+Solant found herself fascinated by the Krath, almost despite herself. This Goszi had a mind almost as slippery as his flesh. The longer they conversed, the more labyrinthine the twists and turns became, until she doubted anyone else could possibly have tracked them. Goszi was hesitant to commit to anything, and when Solant attempted to be forthright and make guarantees, he recoiled, as if instinctively distrusting such things.
+
+Progress towards an agreement was glacial, to say the least. Once something appeared settled, it would be revisited, changed, queried, as the Krath insisted on testing, poking, probing, doing everything he could to find the limits.
+
+On several occasions, Solant was forced to deploy her most powerful negotiating tactic, which was simply to say nothing. Being unresponsive to Goszi’s wheedling made him furious, though he tried to conceal it. What’s more, it was the only way to fully shut down a subject, as the slug would wriggle and squirm back to anything if he could get away with it.
+
+Many might have found it exhausting, dealing with such a creature, but to Solant it was almost entertaining. The more she spoke to Goszi, the more astounded she became that the Krath were a functional society at all.
+
+[I will have to end these talks,] she told the slug, [as I’m required elsewhere. I do not have infinite time to reach an agreement with you.]
+
+[You could always send someone else,] Goszi suggested slyly, [I’m sure there are others who have the authority to negotiate with me.]
+
+[As of right now, that is not the case,] she replied bluntly, but she was certain he read some other meaning into her words. [At this moment, our agreement stands thus: we won’t kill you, but we will imprison you. At this time, you are not required to provide any information, but neither will we make any special allowances for you. You will remain in your cell at all times. Do you have any questions?]
+
+Two hours to reach this agreement. And it was basically the same as no agreement at all.
+
+[Well, there may be some things I can share,] Goszi said, grinning, [if the price is right.]
+
+This wasn’t the first time he’d made similar suggestions, but any discussion trying to nail down specifics was pointless since he would wriggle and squirm, promising nothing but demanding concrete offers in return.
+
+[That may be so, but there is no time,] Solant replied coolly. [Perhaps you can take some time ahead of our next conversation to consider what you may be willing to share.]
+
+In other words, come prepared to make a deal.
+
+[Of course I will,] Goszi replied, eyes curving into moons as he smiled, a dreadful expression to see on a Krath’s face. [Where am I to be housed? Not within your blue mana field, I hope?]
+
+[Your cell is ready,] Solant replied. [You will be taken there now.]
+
+During the discussion, a tunnel had been prepared not far away, though she didn’t think the Krath had noticed. Goszi barely had the chance to blink before he was seized by the Eldest and taken toward the tunnel. Right now, the Eldest was the only one in the Colony able to traverse the fifth ‘safely’, so it was up to them to deliver the Krath to his new home.
+
+The cell itself had been difficult to construct, to say the least. The carvers responsible had been forced to work at a distance, shaping the stone at range, which wasn’t ideal. Ultimately, all Solant needed to hear was the assurance of Tungstant that the cell was secure, which she did.
+
+If the carvers were happy, then so was she.
+
+“Do you think we’ll ever get anything useful out of it?” Leonidant asked when Solant finished relating the contents of their conversation.
+
+“It’s too early to say,” she replied. “One conversation isn’t enough to build a rapport or create trust.”
+
+“It sounds more like this… Goszi is just trying to use us to stay alive for as long as possible.”
+
+“That may well be the case,” Solant admitted. “We have no reason to keep Goszi around if he provides nothing of value, and I think he may be willing to push until we reach a breaking point to establish that.”
+
+Solant considered for a moment, then shrugged her antennae. She had no need to commit to anything; the Krath wasn’t going anywhere after all.
+
+“Let’s go see how well he’s adjusting to his new abode,” she suggested.
+
+The carvers had been skilled enough to build a viewing window into the cell so their captive could be in view at all times. An invasion of privacy to be sure, but a necessary precaution, given what they were dealing with.
+
+She and her closest advisors made their way around and down to the holding cell, well away from any of the main tunnels. A single room of native mana, surrounded by a bubble of purified energy. It was impossible for the slug to escape.
+
+When they reached the adjacent viewing room, they found Goszi sliding around inside his cell, looking uncomfortable.
+
+A mind bridge was formed so Solant could communicate with the prisoner once more, a final check before she resumed her normal duties.
+
+[Is there anything wrong with your cell?] she enquired.
+
+The slug turned toward the window, hesitant.
+
+[What is this thing?] he asked, using his spindly arms to point at the floor.
+
+Solant looked down.
+
+[That’s a rug.]
+
+[What is its purpose?]
+
+[To make the floor more comfortable.]
+
+[It is unpleasant to slide over.]
+
+[Then I suggest you roll it up and move it to the side of the cell.]
+
+[And what is this thing?]
+
+Again, Solant looked.
+
+[A bed.]
+
+[A bed?! Why is it so… bouncy and fluffy?]
+
+[For comfort.]
+
+[I don’t like it,] the Krath declared.
+
+[I apologise if it isn’t up to your standards. You’ll have to make do as best you can for the time being.]
+
+[And when will I be fed? Or am I going to be starved?]
+
+[Why would we starve you?] Solant enquired. [Tea and biscuits will be served in a half-hour.]
+
+The Krath compressed himself, his eyes circling around the cell atop their stalks.
+
+[I feel like you are treating me too well,] he said suspiciously. [What is the trick?]
+
+Solant clacked her mandibles in satisfaction.
+
+[No trick.]

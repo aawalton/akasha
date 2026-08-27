@@ -1,0 +1,346 @@
+---
+id: a4f4df45-101a-5a0f-94e4-2b26f51ffe18
+page-type-slug: story-chapter-royal-road
+title: "58 - The Alliance"
+partOf: bunny-girl-evolution
+position: 11
+ownLength: 3602
+unit: words
+ownProgress: 3602
+publishedAt: 2024-12-27
+link: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/1976695/58-the-alliance"
+royalRoadId: "1976695"
+markedReadAt: "2026-06-29T20:03:01.083Z"
+---
+
+“W-wait, I’m not an enemy!” said Elise.
+
+“Prove it!” said Penelope. “Who are you? Why are you here? How do you know what happened here? Or were you lying about that too?”
+
+“I- I-” stammered Elise. “I can explain everything! Please put the sword away.”
+
+“Not until you start talking.”
+
+Penelope stepped forward and Elise took another panicked step back. She had no idea what to do. Half of her just wanted to cut her losses and turn tail and run. The other half wouldn’t let her. Penelope might have been her best lead on finding the Grays. If she ran away then, she’d have to start over from scratch, and there would now be someone wary of her. She couldn’t change what her human form looked like, and all her other humanoid forms looked almost identical, so her cover was more or less blown.
+
+What she needed to do was get Penelope on her side. Whatever she might have been trying to do before had failed, but it was doomed to from the start. The moment she called herself an “Agent”, the lie got too big. She needed something more subtle. Something more believable. But what?
+
+Penelope was asking very valid questions. How did Elise know what happened? With the official investigator cover already blown, there was only one valid answer: she had witnessed it.
+
+Should I just tell her the truth?
+
+The problem with telling the truth is that Elise had no idea how Penelope would react to the knowledge that Elise wasn’t human. Her time at Ostra had taught her that the answer might be “not well”, but how much could she trust the testimony of a group of monsters who, for the most part, had killed their way to sentience?
+
+I should try it. If it doesn’t work, I run.
+
+…Fine.
+
+“I’m sorry for lying!” said Elise. “I- I had to.”
+
+“Why?” demanded Penelope.
+
+“I’m not a humanoid. I heard humanoids don’t like non-humanoids.”
+
+“Not humanoid?” Penelope looked Elise up and down. “Then what are you?”
+
+“A changeling.”
+
+Penelope scowled. “A fey,” she spat.
+
+“Wait!” said Elise. “I swear I don’t want to hurt anyone. I- I can prove it to you. I’ll let you ask 3- no, 5 questions! If I don’t answer truthfully, I’ll- I’ll be cursed! I have a skill that can make that happen.”
+
+Elise activated {Fey Bargaining} as she spoke. It was a risky proposal, and not one that Elise gave much thought too, but she also didn’t throw it out thoughtlessly. If she had judged Penelope correctly, the knight wouldn’t do anything actively harmful with her questions. She would ask about Elise, and then about the Grays, and that would be it.
+
+“I know better than to make a deal with a fey,” said Penelope. “I won’t agree to that. I’m going to tell you how it’s going to go: you are going to tell me the truth, or I’m going to turn you into a corpse.”
+
+“It can’t hurt you!” said Elise. “There are no conditions that can hurt you. It will only restrict me! Just think about it, please. 5 questions, and you can ask whatever you want. If I don’t answer truthfully, I’ll be visibly cursed for it.”
+
+Penelope scrunched her brows.
+
+“Fine,” she said a few seconds later.
+
+Elise felt the icy feeling in her chest as the skill took hold, barely keeping herself from shivering. Penelope flinched as well, but after seeming to read something in front of her, she relaxed a bit, and turned her attention back to Elise.
+
+“A-ask away,” said Elise.
+
+“Are you planning to trick me or hurt me or try to kill me in any way?” asked Penelope?
+
+Elise almost answered with an immediate “no”, but realized that she couldn’t guarantee she wouldn’t try to trick Penelope later. Revealing that she was not humanoid had already gone badly, and Elise didn’t want to find out what might happen if she revealed she was reincarnated. That would probably be better, but with what the dwarves knew of the Rune of Fate, she wouldn’t have been surprised if there was some kind of history with reincarnators as well.
+
+“I have some things I don’t want to tell you, but I promise I’m not trying to hurt or kill you. I just want to find the Grays.”
+
+“Do you want to hurt or kill them?” asked Penelope.
+
+“No! I just want to find them and make sure they’re alright!”
+
+Penelope frowned. “Why?”
+
+“I-” How do I explain this? “I wasn’t always a changeling. I used to be just an ordinary Forest Rabbit. I gained some levels due to pure luck, but I was still too weak to fend for myself. Sophie took me in and I lived with them as a pet for a little while. Then, the warg attacked. Corwin and Sylvanna d- died, and Nick, Sophie, and Bianca took a teleportation scroll away. I barely escaped with my life. That was 3 months ago, and I haven’t seen them since.”
+
+“You were their pet?” asked Penelope.
+
+“D-do you really want that to be your fourth question?” replied Elise.
+
+Giving up a freebie like that might have been stupid against someone else, but it was more important that she gain Penelope’s trust than anything else, and that meant she had to make small sacrifices.
+
+Penelope squinted at Elise suspiciously. “No, I don’t. If that happened 3 months ago, why are you still here? Why haven’t you gone to look for them?”
+
+“I was in a… a situation,” said Elise. “It’s a really long story. It would probably take a whole book to tell you everything that happened. I had to resolve an issue somewhere else, and now I have, so I can look for the Grays.”
+
+“Really?”
+
+“If I answer, that will be your last question.”
+
+Elise watched as Penelope frowned again. The other woman was clearly feeling conflicted. One {Suggest} might be enough to push her over the edge, but Elise was worried it could also have the opposite effect. Penelope was on the edge of trusting her, and one slip could ruin it all.
+
+“I just want to help the Grays,” continued Elise. “I don’t want to be your enemy. I just want to help.”
+
+Penelope stared at Elise for almost a full minute without saying a word. Then, she sighed and sheathed her sword. Elise blinked in surprise. Was it over?
+
+“So Mr. and Mrs. Gray are really… dead?” asked Penelope.
+
+“Are you sure that-?” started Elise.
+
+“Yes. Just tell me.”
+
+“Yes, they are. I- I put their bodies somewhere safe, so that they can have a proper burial.”
+
+The coldness in her chest vanished, and a System window appeared in front of her.
+
+[ {Fey Bargaining} has leveled up! 14 -> 15 ]
+
+Penelope stared at the ground, nodding lightly. “And Nick and Bianca and Sophie teleported away?”
+
+“Yes.”
+
+“To where?”
+
+“I don’t know,” said Elise. “Corwin said it would take them somewhere safe, but if you haven’t heard from them…”
+
+They stood in silence for almost a full minute before Penelope spoke again.
+
+“They’re not dead,” she said. “They can’t be dead.”
+
+“I hope so too.”
+
+“I’m going to find them,” said Penelope. “You said you want to find them too? Let’s work together.”
+
+“What?” said Elise. “Really?”
+
+That was exactly what Elise wanted, but she hadn’t expected the conversation to get there so quickly.
+
+“Yes,” said Penelope. “You might be a changeling, but… Well, I’ve never heard of a fey that acts like you. And the System said your deal was real, and that you weren’t lying. Maybe you’re tricking me somehow, and the deal was fake, or maybe you lied when you answered, and you’re just hiding the curse, but I tend to trust my gut, and my gut says I should trust you.”
+
+“Oh,” said Elise. “Then I… look forward to working with you?”
+
+“I look forward to working with you as well.”
+
+“Do you have a plan?” asked Elise. “Or at least a lead we can follow? I’ve never really left this area.”
+
+“We need to talk to Bianca’s family,” said Penelope.
+
+“Wait, are they actually…?”
+
+“I exaggerated how well-known they are, but they are powerful. I don’t know why they never responded to my letters, but I know they’re not the type to just leave Bianca for dead. They’re probably searching for her as well.”
+
+“Then why didn’t they come here?” asked Elise. “This cabin has been untouched since the attack.”
+
+“Maybe they checked it remotely,” said Penelope, shrugging. “They can afford to do that. They might be months ahead of me in my search, but since I couldn’t get in contact with them, I had to come here myself.”
+
+“It sounds like we should definitely be paying them a visit then,” said Elise. “Why didn’t you do that first?”
+
+“They don’t live in Jelor. It would take longer to get to them than to get here.”
+
+“Where do they live?”
+
+“Do you know about the Jungle? Probably not, if you’ve lived your whole life here.”
+
+“I do, actually. Do they live near the Jungle?”
+
+“Yes,” said Penelope. “But on the other side, so it’s really hard to get there. Going through the Jungle is pretty much impossible if you’re not 7th tier, and going around can take months, and teleportation is stupid expensive, so I came here first.”
+
+“I see,” said Elise. “So we need to get down there.”
+
+“It will be a long journey, unless you happen to have a couple dozen gold stashed somewhere.”
+
+“Actually…” Elise turned her attention to Astrid’s Star to double check how much Hallbjorn had given her. “I do.”
+
+“You do?” said Penelope looking up at her in surprise. “Where is it?”
+
+“Right here,” said Elise holding her hand up as a gold coin appeared in it.
+
+“Wha- How did you do that?”
+
+“I can’t tell you,” said Elise. “But I have a few hundred of these.”
+
+Penelope squinted at the coin. “Where are they from? I don’t recognize that symbol.”
+
+Elise pulled the coin closer to her face to look at the engravings on its faces. On one side, there was a dwarven warrior in heavy armor wielding dual axes. He reminded Elise a bit of Sindri. On the other side, there was a symbol she vaguely recognized as having been carved on a few things in the castle.
+
+“Shoot,” said Elise. “These probably won’t be properly usable anywhere. They’re from an ancient kingdom that doesn’t exist anymore.”
+
+“Where did you-?” started Penelope. “Nevermind. They’re still gold, right?”
+
+“I think so,” said Elise, weighing it in her hand.
+
+“Then I’m sure we can find someone willing to take it,” said Penelope.
+
+“We might even be able to get a lot of money from it, since these would be considered antiques,” said Elise. “Maybe.”
+
+“Maybe,” agreed Penelope. “In that case, we should head back right now. No point in wasting time here.”
+
+“One thing before we go,” said Elise.
+
+“What is it?”
+
+“I can’t maintain this form for very long. 4 hours at most. Then I turn back into a rabbit.”
+
+“Oh,” said Penelope. “That… might actually make things easier.”
+
+“Why?”
+
+“Well…” Penelope looked Elise up and down. “You’d probably draw a lot of attention as you are now. You look really unique. In a good way though! But also your clothes…”
+
+Elise looked down at herself. “Are they really that weird?”
+
+She had expected them to be abnormal, but didn’t think it would be to the point that Penelope was worried they’d draw attention. They seemed like fairly standard medieval-ish clothes to her. It was just simple leather pants and a black tunic with a belt. Elise was never big on fashion, but as far as she could tell, it was similar to the outfits she had seen the succubus and incubus displaying at Ostra.
+
+“Not weird, per se,” replied Penelope. “But they look more like men’s clothes than women’s, and most people tend to avoid wearing black. Also, most importantly, you don’t have any form of identification do you?”
+
+“I don’t. Do I need one?”
+
+“If you don’t want to get tolled when you enter a city, yes. But if you’re going to be in your rabbit form when we enter, we don’t need to worry about it. Are you gonna transform now, or when we get closer?”
+
+“Now,” said Elise, transforming into her changeling form. “The skill has a cooldown, so this way, by the time we get to the city, I should have it back again.”
+
+Penelope stared at Elise with a blank expression. Elise realized that her changeling form would probably draw just as much attention, so she shifted back one evolution. It hadn’t been that long since her evolution, but she already hated the way her old forms felt. She was less than half her normal strength, and it felt like a quarter of her mana pool had just vanished into thin air. Still, it was better than nothing.
+
+“Alright,” said Penelope, nodding. “Let’s go.”
+
+Elise flew beside the knight as they walked back out of the forest, then perched on her shoulder for the way back. Penelope had been worried that someone would see Elise flying, and offered to carry her to make it less conspicuous. Elise agreed that it would be too conspicuous, but when Penelope tried carrying her, Elise found it incredibly uncomfortable, especially when Penelope shifted her arms and the pleats pinched her fur. Perching on the shoulder was more conspicuous, but the armor was big enough that Elise had plenty of room and didn’t have to worry too much about balance, as long as Penelope didn’t do anything odd.
+
+When they reached the nearest city–the same one Elise had seen while flying around the forest– Elise got back in the knight’s arms and pretended to be asleep as they got within view of the city guards.
+
+“Name?” said one.
+
+“Dame Penelope of the Steel Serpent order of the Jelorian Knights.”
+
+Elise felt herself get shifted to one arm as Penelope fished something out of one of the pouches hanging from her waist and handed it to the guard. A moment later, the guard handed it back.
+
+“Confirmed,” he said. “What is that?”
+
+“A rabbit,” said Penelope. “I found it in the forest.”
+
+“Monsters from the forest are not permitted within the city.”
+
+“It’s just a simple rabbit, not a monster,” said Penelope. “First tier. Couldn’t hurt anything if it tried. I found it getting attacked by a red viper.”
+
+“Hmmm,” said the guard. “It’s not that I don’t trust you, but it’s city policy not to let unapproved animals inside, especially considering recent events. Let me call my superior.”
+
+She heard the guard turn and walk away, leaving Penelope and Elise alone with the other guard. For about a minute, no one spoke. Then, the guard cleared his throat.
+
+“So, the Steel Serpent order, huh,” he said.
+
+“Yes,” said Penelope.
+
+“I’ve got a cousin in the Jelorian Knights.”
+
+“Oh? In the Steel Serpents?”
+
+“No, he’s in a different order. I forget which one. I think it had something to do with fire?”
+
+“The Flame Boars?” guessed Penelope after a short pause.
+
+“No, not that one,” replied the guard. “I think it was a bird, maybe?”
+
+“I don’t know any orders based on fire and a bird.”
+
+“No, there definitely is one. Shoot, what’s it called? Oh! Phoenix! The Phoenix Order!”
+
+“The Ice Phoenixes?”
+
+“Oh yeah, that’s the one!”
+
+“Your cousin is talented,” said Penelope. “They only take the best.”
+
+“Yeah, when he got accepted, my uncle wouldn’t stop talking about it until- no, he still hasn’t stopped talking about it, actually. He’ll tell anyone who’ll listen.”
+
+“Ah, yeah, I know the type.”
+
+“So, what brings someone like you all the way out here?”
+
+“One of my comrades went missing in this area. I was investigating.”
+
+“Was it because of the Zone Shift?” asked the guard.
+
+“That’s what I had guessed,” said Penelope. “And I think that was related, but it’s not the whole story.”
+
+“What is the whole story?”
+
+“I’m sorry, but I can’t say.”
+
+“Ah, that’s a shame,” said the guard. “There was a family that went missing in there too, back when the Shift started. No one really knew who they were, since they kept to themselves, but they came into town every once in a while to pick up supplies. Seemed like nice people. No one’s seen them since though.”
+
+“Yeah…”
+
+“Zone Shifts are dangerous stuff. I heard they evaluated this one as rank 3. We’re lucky it only affected the forest. I’d hate to think what might have happened if it extended all the way to here. We’d have to evacuate the whole city, which would suck, because I kinda like it here.”
+
+“Yeah.”
+
+“By the way, that’s a really cute rabbit. I know Tony’s a little wary of it, but I’m sure it will be fine.”
+
+“I hope so.”
+
+“...Mind if I pet it?”
+
+“I uh…” said Penelope. “I don’t know if she’d like that?”
+
+Penelope shook her arms a little bit, so Elise took the opportunity to pretend to wake up, blinking the feigned drowsiness out of her eyes. The guard was a young man, probably around her age. He had a round face, and a few extra pounds, and looked very cheerful.
+
+“Hi there,” he said with a higher voice. “Is it okay if I pet you?”
+
+Elise thought it over for a moment, then decided that she might as well. He seemed polite enough, and showing she was harmless and friendly would help her case when the superior came down. Besides, being pet felt nice.
+
+The guard slowly reached his hand toward her, and Elise didn’t react. When he brought it down on her head, she blinked slowly, then leaned into his palm.
+
+“Awww,” he said. “She’s so soft.”
+
+“Yeah, haha,” said Penelope. “She looks like it. I haven’t gotten the chance to pet yet though…”
+
+“Ah, yeah, that sucks,” said the guard, still gently stroking Elise’s head. “You’re missing out. I bet you can’t wait to get out of that armor. Wait. That sounded weird.”
+
+“I know what you meant. You’re right. It’s too hot for full plate.”
+
+“It’s too hot for long sleeves,” said the guard, pausing his petting to shake his arms. “I hate uniforms.”
+
+Penelope was about to respond, but Elise heard footsteps and perked her ears up, making both the others look back toward the city gate. There were two men walking toward them. The first looked to be a man in his thirties with an impressive black mustache, and the second was an older man with a neatly trimmed gray beard. Both were wearing the same clothes as the young guard, though they were fitter, making it look much more imposing.
+
+Elise could sense that the mana in the old man was much denser than just about anyone she had met before, and she suddenly recalled what Hallbjorn had said when they first met about {Inspect} being a skill exclusive to high tiers. She couldn’t tell if this man was strong enough, but there was a chance, and just in case, she didn’t want him sniffing her out at a glance, so she transformed all the way back into a [Forest Rabbit]. The sudden loss of nearly all her stats left her feeling almost as though it was difficult to breathe, but no one seemed to have noticed the change. She was thankful that her first 3 forms were so identical.
+
+The old man zeroed in on her and bent down to look more closely at her without saying a word. He changed his angle a few times, viewing Elise from all around for a full minute before finally returning to his upright position.
+
+“Seems fine to me,” he announced.
+
+He gave Elise a quick scritch under the chin, then turned and walked back to the gate. The other two guards watched until he was out of sight, then turned back to Penelope.
+
+“Well, looks like you’re good!” said the younger guard with a wide smile.
+
+“Yes, welcome,” said the other. “Enjoy your stay.”
+
+“Thank you,” said Penelope.
+
+“Have a good day,” said the younger guard. “If you have time later, feel free to stop by again so I can pet the rabbit again.”
+
+“Sorry, I think I’ll be leaving soon,” said Penelope.
+
+“Ah, that’s a shame,” said the young guard. “Well, it was nice meeting you.”
+
+“You as well.”
+
+The streets just inside the city walls were fairly clean and pleasant, but as Penelope walked further in and started making turns, they got much less so. By the time they reached their destination, Elise was certain they were in the slums. The inn that Penelope was staying at was a lopsided building made of splintering wood with mismatched roof tiles. There were a half dozen homeless people lounging against the side. Elise used {Inspect} on them, and while most of them showed as simply tradesmen, one came up as a [Pickpocket].
+
+They watched Penelope and Elise enter, but Penelope ignored them, making her way into the building and heading confidently toward the staircase. A middle-aged woman was sleeping at the reception desk, and didn’t seem to notice their entry. As they walked up the stairs, Penelope shifted Elise to one arm again as she rummaged in her hip pouch for a key. However, when they reached the top of the stairs, she paused.
+
+“Shit!” muttered Penelope.
+
+Elise followed her gaze to the second door on the right, which was standing ajar.

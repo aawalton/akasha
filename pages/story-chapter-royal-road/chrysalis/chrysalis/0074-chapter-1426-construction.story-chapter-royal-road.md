@@ -1,0 +1,75 @@
+---
+id: 8c4e6fb5-7bdd-57a2-a5be-fd15ee22d2d2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1426 - Construction"
+slug: 0074-chapter-1426-construction
+partOf: chrysalis
+position: 74
+ownLength: 1000
+unit: words
+ownProgress: 1000
+publishedAt: 2024-10-08
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1839769/chapter-1426-construction"
+royalRoadId: "1839769"
+markedReadAt: "2026-06-29T19:46:06.510Z"
+---
+
+“What in the name of The Queen are they doing now?” Tungstant demanded.
+
+Cobalt turned to look behind her. The edge of the safe-zone had drawn close, much closer than either of them had expected it to be, and that meant there were thousands of ants in position up and down the width of the tunnel to defend it.
+
+Not only were they defending it, there was all sorts of activity—loud, distracting activity. Monsters roared, squelched and gurgled over and over again as the ants utilised strange, enchanted equipment to do… something.
+
+“Should we tell them to try and be quiet?” Cobalt asked.
+
+“Working on a modular fortress is tricky work,” Tungstant grumbled before looking up, “but I suppose they have their own difficulties.”
+
+Right now, they were tussling with a giant, mould covered turtle-looking thing. The monster snapped and gurgled at the ants as they laboured to bring it down without leaving the safety of the blue mana.
+
+Both carvers turned their minds back to the build plans in front of them and tried their best to keep the distraction from affecting their work. Normally, they wouldn’t have an issue, but the construction plan for what Solant had demanded they design and build was so inordinately complicated.
+
+Not because the final structure was necessarily beyond anything that they had seen before, but because of the way it was designed. Solant had insisted that the entire thing be built as modular as possible, so that the build teams could work on almost any section, without necessarily having the components around it being completed.
+
+There were limits, of course. Building walls and heavy sections couldn’t be done without weight-bearing support completed. In spite of that, the fifth stratum fortress that they were attempting to build was proceeding, but in a completely piecemeal fashion. Tracking exactly what had been done and when was a nightmare, and attempting to build without knowing what the neighbouring teams were doing made logistics extremely difficult.
+
+In short, it was stressing them out, and all the builders working in the fifth were growing increasingly irritated.
+
+“Have the materials we needed been delivered?” Cobalt asked one of the nearby carvers.
+
+“They have. Somehow,” came the reply.
+
+Caught halfway into a complaint, Cobalt had to shut off her pheromones and grind her mandibles instead. If she could give credit for something, it was that Solant and her logistic organisation were working flawlessly. Nothing had been delivered to the wrong build site, no supplies had gone missing, and everything arrived relatively on time. It was, in Cobalt and Tungstant’s eyes, an ongoing miracle.
+
+Solant had assured them it would work, but they just hadn’t been able to bring themselves to fully believe it. Now that everything was functioning as intended, they still couldn’t believe it was working as well as it was.
+
+“Alright then, let's get going. Tungstant, I’ll handle the interior if you want to work on the exterior?”
+
+“Smells good.”
+
+The two split up and divided their teams into halves. Everything being worked on right now was part of the interior of the fortress, the innermost chambers, but far from being flimsy, or even sturdy, every section of this fortress was reinforced and fortified to an absurd degree.
+
+To make things even more complicated, the layout was… difficult. It was layered, like an egg within an egg within an egg. Everything was designed with the flow of energy in mind. Mana had to be able to permeate outward, but limited when moving inward.
+
+The massive pipe networks were also highly, highly complex, enormous in scale and delicate in construction. They were the most important element of the entire design, and they were being built in sections totally disconnected from each other, with the expectation it would all slot together in the end.
+
+It wouldn’t, of course. Tungstant and Cobalt were both experienced enough to know that there was no possible way everything would slot together as designed, but solving these problems on the fly was exactly why they, the two most experienced engineers in the entire Colony, were here in person.
+
+“Be careful with that section, it has to be totally level. Check the design plans for the right specifications!”
+
+The foundations for the pipelines were key to the entire design. Everything had been worked out in advance, down to the exact angles, and the lengths down to the millimetre. If the surfaces weren’t prepared absolutely perfectly, then everything that needed to be layered on top simply wouldn’t line up.
+
+“Make sure you grade the hardness of the rock. If it doesn’t meet specifications, do not continue until it does. We take as long as we need to get the fundamentals right. Do we have the reinforcing beams ready?” Tungstant asked.
+
+“We do.”
+
+“Great. Let’s aim to get that in before the hour is up. We’re still ahead of schedule, so take your time.”
+
+“Can you come take a look at this, team leader?” one of the workers asked.
+
+Tungstant scuttled over and leaned down, using her antennae and other, more esoteric senses to examine the stone in front of her. With her forelegs, she grasped hold of the enchanted measuring instruments every team carried with them and began to take careful measurements.
+
+“Still one third of a degree shy of the level we want, but the density is spot on. Well done.”
+
+The carvers pored over every inch of the build site, moulding the rock, sinking the reinforcing frame in underneath and testing, testing, testing to ensure it was as perfect as they could make it. When the base was done, they began to install the complex pipework over the top, an even more exacting task than what had gone before. When it was all done, they would be capable of moving vast amounts of mana from the outside of the fortress to the inside, ready for the wuffers to purify.
+
+These were the lifelines of the ants within the fifth stratum, and they would be perfect.

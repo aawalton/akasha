@@ -1,0 +1,160 @@
+---
+id: 7a9aa0cb-e246-5b64-a403-9f9b881db7e5
+page-type-slug: story-chapter-royal-road
+title: "190 - Sparring with the Giantess"
+partOf: bunny-girl-evolution
+position: 58
+ownLength: 3303
+unit: words
+publishedAt: 2026-04-18
+link: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3288502/190-sparring-with-the-giantess"
+royalRoadId: "3288502"
+---
+
+The announcement about sparring spawned a wave of mutters all around filled with equal parts excitement and apprehension. Elise herself wasn’t quite sure how she felt. On one hand, she thought it would be more interesting than the endless drills, but on the other, sparring without being able to use most of her strength would be frustrating. Still, she had been practicing during her delves with the Dungeon Competition team, and more practice hiding her skills was always welcome.
+
+Sophie seemed a bit conflicted as well, though no doubt her conflict was of a different kind than Elise’s. Hers was probably due to nervousness, worrying about whether she’d be able to do well. She wasn’t alone in that, at least. In fact, almost every single person seemed to have a similar sense of internal conflict, based on their emotions. Some were more on the side of confidence and excitement, while others where more nervous, but of all the people Elise could read, only one had no conflict: Attalaya.
+
+Elise glanced upward to see that the giantess was looking directly at her with a fire in her eyes that she had rarely seen from her taciturn friend.
+
+“I hope you won’t hold back,” she said, placing a hand on Elise’s shoulder.
+
+“I–” started Elise.
+
+“Alright, now listen up!” shouted the instructor. “This is important. We still have a few minutes left, so let me make a few things absolutely clear for you all. If any of you break any of these rules, I will remove you from my class immediately, and depending on the severity, I may even have you expelled. Do you all understand?”
+
+“Yes, sir!” replied a chorus of students.
+
+“Good. I will be requisitioning a set of protective artifacts from the school’s storage for these spars. You can only spar if you have one of these on, and it is charged. If you try to spar without one, or you try to spar with someone else who doesn’t have one, that’s it. You’re done. Additionally, you will not continue sparring after the artifacts reach their limit. All spars must be personally supervised by me. I can watch up to six at a time, but to keep things safer, we will only be doing four. There will not be any more.
+
+“Later in the semester, I may allow for unsupervised sparring between certain, trusted students, but for now, any breaking of these rules will be dealt with harshly. Do you all understand?”
+
+“Yes, sir!”
+
+“Good! Class dismissed!”
+
+Elise turned back to talk to Attalaya, but the giantess was already walking away, and with the throng of students rushing back to the classroom, Elise was swept away by the human tide, unable to reach her. She tried to use {Whisper} to say her piece, but to her great surprise, the Skill failed to activate.
+
+What? she thought.
+
+Attalaya had always been a mystery to Elise, but she had never been more confused than she was now. As far as she knew, Attalaya had quite a small amount of aether, and since her emotions were so easy to read, Elise had assumed she didn’t have any kind of mental defenses either. Yet Whisper, an aetheric Skill, had completely bounced off.
+
+Whatever. I’ll figure it out later.
+
+Attalaya always wore clothing suited for combat by default, so unlike Elise and Sophie, she didn’t need to change, and by the time they got out of the changing rooms, the giantess was long gone. Mildly frustrated, Elise and Sophie met up with Jessie as usual and headed back home. On the walk back, Sophie jabbered on about some of the training that she had done under Irylax, and how much better at fighting she had gotten, which helped Elise take her mind off it, but when they had almost reached the house, she suddenly brought up Attalaya.
+
+“Snowberry, could you beat Attalaya in a fight?”
+
+“What?” asked Elise, taken aback.
+
+“I’m curious too,” said Jessie.
+
+Jessie had never met the giantess, but Sophie was able and willing to talk about anything with anyone, and with how much time Jessie spent at their house, Attalaya had come up in conversation more than once.
+
+“I’m not sure…” said Elise.
+
+Until just a few minutes ago, she would have said yes. As strong as Attalaya was, with how little aether she had, she would be basically defenseless against Elise’s aether-based attacks. But now she wasn’t so sure. Sure, {Whisper} wasn’t exactly a powerful Skill, but Attalaya had passively deflected it somehow, and if she could do that to a completely harmless Skill, why wouldn’t she be able to do it to the more harmful ones.
+
+“Can you speculate?” asked Jessie.
+
+“Well… Either way, it would be over quickly. No more than a few seconds. If my abilities work on her, I win. If they don’t, she wins. She’s way too strong and fast to beat with just my regular stuff. I guess maybe I could fly up and out of reach, but I would be extremely surprised if she didn’t have a way to counter that. And even if I did manage to get away, it would only be an escape. Not a victory.”
+
+“Huh,” said Sophie, clearly a little disappointed at how simple Elise’s answer was.
+
+“Is she really that strong?”
+
+“Well, we just got confirmation that she’s the strongest person in our class,” said Elise. “We had a competition to see who could hit the hardest, and she won pretty easily. And she didn’t even look like she was trying that hard. She didn’t seem to use any kind of special Skills, at least. It was just a simple kick, and it was almost enough to double the power of my strongest attack that I charged with a quarter of my mana pool.”
+
+“Wow…” said Jessie. “I wanna meet her now.”
+
+“Oh, maybe we can invite her over next week!” suggested Sophie excitedly before frowning. “Wait, hold on. Elise, do you think she can keep a secret?”
+
+“Definitely,” said Elise. “But I don’t know if she can keep our secrets. I guess it’s up to Jessie whether she wants to reveal herself, but I will definitely not be revealing anything about myself to her. Not yet, at least.”
+
+“I’m fine with it,” said Jessie. “The whole school already knows I’m somewhere at the University, and it doesn’t sound like this Attalaya girl is much of a chatterbox. It should be fine, right?”
+
+“Probably…” said Elise.
+
+“We’ll talk to her first,” assured Sophie. “We’ll make sure she knows she can’t tell anyone. I trust her, I think. Besides, I think we’re her only friends. She doesn’t have anyone else she can tell.”
+
+“That’s a little harsh,” said Elise. “I’m sure she knows a few other people…”
+
+“She only talked to you because she thought you were strong,” Sophie pointed out. “She’s never said a word to anyone else in the class.”
+
+“True…” said Elise. “Oh, shoot. We might not be able to invite her to our house, actually.”
+
+“Huh? Why not?”
+
+“Iris.” Elise used her nickname, since they weren’t quite at the house yet. “Jessie is one thing, but Iris is on a completely different level. And Attalaya will instantly know how powerful she is. Iris doesn’t exactly hide it.”
+
+“Oh yeah…” said Sophie. “Well, I can ask Iris about it.”
+
+“Yeah, but if that fails, I have another good idea,” said Elise. “We could go into the Dungeon with her.”
+
+“Oh, yeah!” said Jessie. “Then we can see her in action!”
+
+Jessie made a few mock punches in midair with sound effects included, bobbing her head like a boxer in the ring.
+
+“We should go to the Rock Crawler area!” said Sophie. “I wanna see her make them explode!”
+
+As Sophie was talking, they turned the corner to head up the pathway to the front door, and the conversation from there took a turn as Nick and Bianca greeted them. Jessie had become a regular evening guest, so neither were surprised to see her, and in fact, they already had a table setting for her.
+
+The rest of the weekend passed quickly and uneventfully. Elise spent a bit of time in the Dungeon, but most of her time was dedicated to her soul realm, doing the exercises that Irylax had shown her. Localized rules continued to elude her, but she felt like she was getting close. She had already known how to make specific objects immune to the rules, like the arrow she made to control gravity, so all she had to do was expand that out further. It wasn’t quite the same as a true localized rule, but creating a large hollow box where gravity didn’t apply was a good first step.
+
+Monday went by quickly as well. With how much she enjoyed the free time she earned by skipping out on Modern Language, Elise was growing increasingly tempted to skip out on her other two general education classes as well. Introduction to Mana and History of the System were somewhat interesting, and the former had been at least a little helpful toward Elise’s understanding of mana, but they were most definitely not efficient uses of her time. And since every passing day made it seem more and more likely that she wouldn’t be back next semester, failing the classes wouldn’t be a real problem.
+
+She was not quite at that point yet, though, and still sat through them like a good student before moving on to her more interesting classes.
+
+At her usual lunch with Samantha, Helene, and Jessie, she noted that Samantha had been oddly subdued ever since they got back from the break. She was still herself, but she was a little less gung-ho about finding Elise’s true identity, and still never asked her to go back into the Dungeon with her. That made Elise a little nervous, since she now wondered if Samantha might have found out the truth, and that was why she lost interest, but it was impossible to tell.
+
+Aetheric Illusions that day was a practical lesson about resisting diversion Skills, such as {Don’t Look At Me, Peasants!}. It worried Elise a little bit that they were being taught how to get around her greatest stealth Skill, but it was a small comfort that aside from Leonidas and Cassian, it was clear that none of the others in the class were close to being able to do that. They were starting with extremely rudimentary versions of similar Skills, such as a Skill that Erin used to keep them from looking into her eyes. Elise was able to resist the basic level of the Skill by brute forcing it with her aether, but when Erin turned up the power, she too struggled. Even Sophie wasn’t doing well, since {Dragon Eyes} only worked if she could actually make her eyes look in the right direction.
+
+In Defensive Gardening, Elise and Sophie had both submitted rough descriptions of their own house for their intended target of defense, and they were now working together to come up with ideas on what they could add to their chimera vines. They had decided that, despite Sucri’s warnings, they would work together, since their vines would protect the same place. They would have to produce double the results, since there were two of them, but they hoped that they would be able to make up for the handicap with quality and synergy. Sucri had approved of their idea, so they knew it wasn’t going to be too difficult to pass, but they still felt a bit of pressure to get working.
+
+In Intermediate Unattributed Spells, Liam Grane continued to be meek, and Cassie had grown bolder in his silence. She was not quite outgoing, but she had grown much more willing to talk about her goals, and she and Elise had a good dialogue going during the class about archaeology in Carsas and what exactly it would entail.
+
+After that, it was finally time for Basic Magical Combat. The students all went out to the field and did their warmup laps, as usual, but when they finished and went to meet the instructor in the middle, they found that four squares had been drawn in the grass in white paint. The instructor had added a straw hat to his usual t-shirt and a-little-too-short shorts for some reason, and was standing in front of the white squares with his hands on his hips.
+
+“From today onward, we will be sparring twice every week,” he announced once everyone was present. “Once on Monday, once on Friday. On Monday, it will be individual spars. On Friday, it will be team spars. For these next two weeks, I will allow you to choose your own partners. After that, I will use the results of the spars as well as your performance in class so far to assign sparring partners.
+
+“All of you will be sparring twice today, no exceptions. You cannot spar with the same person twice. If possible, try to spar with two different types of fighters. If your first opponent is a ranged spellcaster, choose a melee fighter for the second one. Get used to a variety of different fighting styles so that you can be prepared for anything in the real world.”
+
+Elise glanced at Sophie and Attalaya, knowing that these two would be her sparring partners for the day. The other two met her gaze and nodded.
+
+The instructor went on to explain the rules of the spars. The most important, of course, were the ones he had gone over in the previous class, but he also added a few more for the purpose of the individual spars. The painted squares were the boundaries for the spar, but they also marked the edge of shield arrays buried deep beneath the ground. The students wouldn’t have to worry about their attacks reaching beyond the boundary, since the shields had been calibrated based on the results of the previous class’s competition.
+
+The spars would only last two minutes each, since they had a lot of students to get through, and as soon as they finished, they would be required to leave. The professor also mentioned that the terrain would likely get torn up by the nature and earth mages, and that it was completely intended for that to happen. It would provide an extra layer of difficulty, forcing the students to adapt to the changing terrain.
+
+He didn’t go on too much longer than that, since they needed to get started if they wanted to get through everyone, but he did give one final piece of advice about not putting too much weight on the results. There would be winners and losers, but their grades would not be determined by their victories, but rather their improvement. Win or lose, learning was the chief intent of the exercise.
+
+As soon as he released them to find sparring partners and line up to begin, Elise, Sophie, and Attalaya had a brief conversation about the order of the spars. Since Attalaya was primarily a physical fighter, she could fight again almost immediately after the first finished, so she would be fighting twice in a row, once against each Elise and Sophie. Then, Elise and Sophie would take the time to recover their mana, and they would spar each other near the end.
+
+Elise and Attalaya were the first to go, since Elise took longer to recover her mana than Sophie did. The two faced off in the square, and as soon as the professor gave the signal, they began the fight. Not more than ten seconds later, there was a flash of mana as Elise’s protective artifact signaled her defeat.
+
+She hadn’t lost on purpose, and she had barely been holding back. She didn’t use her more dangerous Skills, of course, but she still went all out with her mana and {Suggest}. The {Suggest} trick had worked twice, making Attalaya miss her attacks, but the third time, she closed her eyes, and although Elise tried her best to divert her, it quickly became apparent that her little trick didn’t work as well when her opponent wasn’t using their eyes to track her. She still managed to dodge two more strikes, and fired a couple volleys of {Magic Missile}, but Attalaya was just too fast, and the square was small enough that Elise didn’t have much room to dodge.
+
+“Good fight,” said Attalaya, reaching out her hand out.
+
+“You’re really strong,” said Elise, accepting the handshake.
+
+“Perhaps. I understand now why you cannot reveal your strength, but one day, I hope that we can have a true spar without holding back.”
+
+“...Maybe,” said Elise.
+
+Elise didn’t feel comfortable not holding back against another person when her most powerful Skill just caused instant death, but she was also curious. Attalaya was clearly not completely resistant to mental Skills. Elise had to supercharge {Suggest} to get through the giantess’ mental barrier, but she had done it, and the fact that she had done it with {Suggest} meant that she could do it with other Skills too. Or, she could just use Suggest differently. She had a few different ways she could have fought differently, but Attalaya’s stunt with closing her eyes had left Elise so bewildered that she didn’t think of it until afterward. She would be absolutely willing to at least have a less restrained spar so she could test a few things.
+
+Beside that, Attalaya’s words had made her seem slightly more trustworthy. Elise had displayed clear signs of mental magic, and it didn’t take a genius to guess that she would have more. Maybe other students would overlook it, but since Attalaya already knew how dangerous Elise was, it wasn’t much of a logical leap at all. And the fact that she didn’t seem bothered by it, and in fact seemed eager to see more, meant she at least wasn’t completely untrustworthy.
+
+Still, it was too early for that much trust, so she didn’t say any more.
+
+The spar with Sophie went similarly, with Attalaya crushing her in less than ten seconds. Sophie tried a few flashier spells, but Attalaya just dodged or burst through them all and activated Sophie’s artifact all the same. Elise and Sophie’s spar was a bit different. Elise could have won easily if she used her aether Skills, but she decided to handicap herself a bit and try to fight only with mana. Sophie was superior to her in terms of mana and mana control, but Elise had the edge in terms of combat experience, so it turned out to be a rather competitive spar.
+
+In the end, their two minutes were up before a winner could be decided, but Elise knew that she was well on her way to losing. Sophie had started out using nature magic and unattributed magic like Elise, but gave up and switched to fire after a minute or so, and between her larger mana pool and the effectiveness of fire against nature, Elise was going to run out of tricks before Sophie ran out of mana.
+
+Elise was tempted to pull out her own trump card of {Suggest}, but decided against it. Sophie had been disheartened by losing so quickly to Attalaya, so giving her the win there was good for her morale, and it didn’t bother Elise, since mana wasn’t her specialty anyway.
+
+After class ended, Sophie tried to take the lead in inviting Attalaya to the Dungeon with them, which the giantess readily accepted. She seemed a little disappointed at the mention that a fourth person would be joining them, but it didn’t otherwise bother her, and she said it was fine.
+
+“Tomorrow night at seven, then,” said Sophie cheerfully.
+
+“Yes,” said Attalaya. “I will look forward to it.”

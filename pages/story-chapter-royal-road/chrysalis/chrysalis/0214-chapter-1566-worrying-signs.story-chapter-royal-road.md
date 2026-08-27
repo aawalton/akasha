@@ -1,0 +1,137 @@
+---
+id: 6dc30a54-0dc5-59ca-bada-478d688f4e2c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1566 - Worrying Signs"
+slug: 0214-chapter-1566-worrying-signs
+partOf: chrysalis
+position: 214
+ownLength: 1337
+unit: words
+ownProgress: 1337
+publishedAt: 2025-05-20
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2291887/chapter-1566-worrying-signs"
+royalRoadId: "2291887"
+markedReadAt: "2026-06-29T19:50:39.862Z"
+---
+
+Of course, the knowledge that massive quantities of tainted mana are being pumped into the fortress is causing me a little stress. Why wouldn’t it? Hopefully the Colony has it under control. I could help! Or could I? I mean, what would I even do if I were to go in there? Nothing, that’s what.
+
+I’m worried!
+
+“You’re worried,” Jern said from beside me.
+
+“Gah! When the heck did you get there?”
+
+“I’ve been here for ten minutes.”
+
+Probably didn’t notice him because I’ve been too worried. Wait a sec.
+
+“How the heck did you know I was worried?” I demand.
+
+The young man shrugs and scratches the back of his head. “Not sure. I keep getting a feeling about… what you’re feeling.”
+
+“You can’t read my thoughts, can you?”
+
+Jern is a dummy, Jern is a dummy. Jern is a dummy. Jern is a dummy.
+
+“No, nothing like that. I think it’s more of an emotions thing.”
+
+“So you know I’m worried.”
+
+“I do,” he nods his head.
+
+“One sec.”
+
+HOOOOOOWWWWWWLLLLLLLL.
+
+Another bomb launched into the void. It’ll chew up the monsters I aimed it at, but then it’ll suck up a heap of mucus and run out of power. I have to wonder, just where is all this lousy mucus going?
+
+Monsters aren’t the only thing springing from the walls in the fifth during the wave, oh no. Every wall, every surface is also producing a viscous mucus at a steady rate. Not much per square metre, but it adds up quick! Since the fortress was disconnected from the tunnels around us, the stuff flowing towards the platforms is just dropping down into the void and piling up at the bottom of the cavity we built. Presumably, there are tunnels down there receiving absolutely catastrophic amounts of slime and filling up from top to bottom.
+
+Then where the heck does it go? Presumably, it flows down into lower tunnels, then down further, and then it drops into the sixth, right? Like, the volume of mucus being produced, from the entire fifth, would have to add up to millions and millions of tons per day. If all of that eventually dropped into the sixth, it would have to corrupt it as well, surely.
+
+Except we know that isn’t the case, I’ve seen sixth stratum monsters with my own eyes. Which brings me back to my question, where the heck is all the mucus going?!
+
+“Now you’re annoyed about something,” Jern nods.
+
+Gah!
+
+“If you’re worried, or annoyed, you could just ask us to look into whatever it is you have on your mind. I can go right now if you want.”
+
+“Go… and do what?”
+
+“Look into whatever is bothering you. I’m not doing much around here right now.”
+
+He is, in fact, on a break from fighting. Of all the Templars, he seems to be the one best suited to combat. When he whips that axe around, he does some serious work, and the light coming off that blade is getting more dense seemingly by the day.
+
+I wonder…
+
+“Now you’re curious about something,” he says.
+
+DAMMIT.
+
+“Fine! What rank are your axe Skills?”
+
+His eyes blank out for a second.
+
+“Rank five, nearly rank six.”
+
+That’s fast! Holy moly!
+
+“Where the heck does all the mucus go after it all falls down?”
+
+“No idea, but I’ll ask someone. Anything else?”
+
+“How is the fortress coping with the influx of mana from the vents?”
+
+“I’ll find out. Be back soon.”
+
+And he trots off, axe resting on his shoulder.
+
+Huh.
+
+I guess… I’m not used to having someone be so helpful. I mean… I could use the Vestibule to spy on all the most relevant ants to find out what’s going on inside the walls, but I get a pretty incomplete picture when I do that. Like… what’s Tungstant up to right now?
+
+Takes a while to find an individual… there!
+
+She’s really wishing the pipe in front of her was connected using the cross method.
+
+What the heck does that mean?! Now she’s thinking about flow rates. Unhelpful!
+
+I could hassle a few ants who appear in the Nave, but then I’d feel bad for distracting them from their work. I mean, if there is a crisis inside the fortress, the last thing they need is me annoying them when there’s nothing I could do to help anyway.
+
+I never thought of just having someone… go and ask for me. It’s a good idea, I guess. I’ll have to thank Jern when he gets back.
+
+Well, enough worrying about that, it isn’t like I don’t have work to do.
+
+Briefly, I check in on the sub brains and see that they are indeed working very hard. Good work, team! Out of sheer boredom, I’ve been diversifying my spell selection away from just Dragon’s Breath all the time and seeing what else works. Throwing gobs of lava around has been fun, I can’t deny it, but it isn’t super effective. The fifth is just so contagious that even lava starts to bubble and go yellow, degenerating into super hot slime in a matter of seconds.
+
+My solution to that problem: more lava! Which worked better. At least the stuff was able to reach its target before going bad. Ice was pretty much useless, water was worse than useless, almost instantly turning into mucus. Earth and stone just don’t work that well against the monsters here. They’re coated in thick layers of slime or are so spongy that blunt impacts just aren’t effective. Stone spears are decent but not as effective as lobbing blobs of lava. I have to say, all the experimentation and variation has certainly been pushing my levels in the Omni-Elemental magic further than mindless flame-throwing.
+
+At the rate I’m going it won’t be that long until I get another rank, and I expect some juicy new spells to come out of that.
+
+To be honest, fighting here has been a huge boon to my Level gain in a lot of ways. The monsters of the fifth might be awful, but they appear to be fairly juicy sacks of XP. I guess that helps compensate for the complete lack of Biomass they provide. So unsatisfying. Not that I want to eat them!
+
+Idly blasting away, my senses spike for an instant, sending my minds spinning as they hunt down the source.
+
+Turns out it isn’t that hard to find.
+
+A giant glob of mucus has been launched towards the platform, so dense with energy that it’s ringing like an alarm to my mana sense.
+
+What the heck? Where did that come from? Someone had to have been masking it while they were casting to produce something like that! That’s no fair, I do that!
+
+Before it can reach us, I ditch all of my spells, even letting the omni-elemental construct go in order to use everything on one magic. I draw out my personal supply of gravitational magic and pour it into a single bomb. The sludge bomb is arcing through the air towards us, growing larger in my sight by the second. I am not a fan of this!
+
+Desperate, I throw out the Gravity Bomb as soon as I judge it’s ready and empower it with the Altar.
+
+HOOOOOOWWWWWLLLLLLL!!!!
+
+Not as large as I would have liked it to be, the bomb flies outward like a shrieking banshee, sucking in air like the eye of a hurricane. Luckily, my aim is on point and the two bombs collide. The gravity ball is immediately swallowed by the larger blob of hyper-dense mucus, only to expand inside it.
+
+I can sense the two energies colliding more clearly than I can see it, two condensed balls trying to consume each other.
+
+The mucus wins, but has been hollowed out and thrown off course. What remains falls into the void before the platform, dropping down into the abyss.
+
+Phew.
+
+Now… I’m fairly sure Jern can sense that I’m really worried. What the heck was that?!

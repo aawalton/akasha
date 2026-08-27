@@ -1,0 +1,135 @@
+---
+id: 33037beb-1e77-5bdb-86d8-0dca63260156
+page-type-slug: story-chapter-royal-road
+title: "98: Inquisitive Minds"
+slug: 0098-98-inquisitive-minds
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 98
+ownLength: 1864
+unit: words
+publishedAt: 2026-01-09
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2926649/98-inquisitive-minds"
+royalRoadId: "2926649"
+---
+
+With Raenof saying they should explore the city, Chloe felt it was the perfect time to look around properly. There was no way she could ignore a whole new place full of shiny buildings and interesting things.
+
+Sierra still looked nervous, but Chloe stayed close to her. She wasn’t going to let anyone mess with the wolf girl, not when bird people could be jerks.
+
+Raenof suggested they start by looking for anything related to Maeve, since that was the whole reason they came here. Chloe tried to listen. She really did. But the moment they walked past the first statue, her focus drifted.
+
+Aetherion had statues everywhere. Big ones, small ones, fancy ones with flowing robes, and some with giant wings spread out behind them. Chloe couldn’t resist. She poked the nearest one right on the stone talon, then leaned in to inspect the carved feathers. She did the same to the next statue they passed, and the next one after that.
+
+Raenof kept talking about temples and places to check, but Chloe only half-listened as she wandered around touching every statue in sight. He let out a breath behind her. “Chloe, please focus. We’re trying to find something connected to Maeve.”
+
+“I am focused!” Chloe said cheerfully, even though she was poking a stone bird beak. “I’m focusing on… city stuff.”
+
+Raenof pinched the bridge of his nose for a moment, then finally gave up trying to fight Chloe’s curiosity. “Alright, we can look around first. But only for a little while. After that, we really do need to search for anything connected to Maeve.”
+
+Chloe lit up immediately. “Really? Yay!”
+
+Sierra nodded quietly beside her. She still looked nervous, but Chloe took the tiny nod as a sign that Sierra was warming up to the idea of exploring. With that, the three of them headed deeper into the city.
+
+The main streets were lined with colorful little stalls selling roasted fruits, fluffy pastries, and skewers that smelled almost unfairly good. Chloe ended up buying something called “sunfeather bread,” a warm, sweet roll shaped like a wing.
+
+She didn’t usually bother with normal food, but she was curious since it looked pretty. Unfortunately, it tasted exactly like normal bread, which meant it tasted nothing like brains, so she wasn’t impressed.
+
+Next, Sierra bought a bowl of a seed-filled soup thing. She hesitated at first, sniffing it carefully, but after one sip her tail flicked happily. Chloe decided that meant it tasted amazing, even though she didn’t try it herself.
+
+They reached a clothing shop soon after. Raenof asked if either of them wanted to take a look inside, and Chloe practically lit up. The shop was full of things she wanted to touch.
+
+She ended up trying on a big fluffy cape that made her look like a giant bird. Sierra said it looked cute, which almost made Chloe buy it on the spot. But then Raenof pointed out that she didn’t need the cloak, that she only wanted it. And since they were traveling, maybe it was best not to buy things they didn’t actually need.
+
+Chloe couldn’t argue with that, even if she did feel a little disappointed as she put the fluffy cape back. Meanwhile, Sierra tried on a simple blue dress that made her ears perk, but she quickly took it off when a few Avians stared at her.
+
+Some bird people still gave Sierra strange looks, their eyes lingering too long on her tail or ears. Chloe felt irritation bubble up each time she noticed it. Seriously, what’s their problem? Sierra’s adorable.
+
+She stayed close to Sierra after that, just in case any bird person tried to be rude again. But most of the bird people they met weren’t too bad. They just seemed kinda unfamiliar with Luphians. Chloe figured they maybe hadn’t talked to many Luphians before. Because whenever Sierra actually spoke to someone, like the tailor or the food vendor, they softened up, smiled, and treated her like normal.
+
+Chloe decided that meant Sierra was just too sweet for anyone to stay weird around for long. They wandered through a crafts market next, full of trinkets shaped like birds and feathers. Chloe stopped at every stall. She touched glass wings, poked wooden bird masks, and tried on a silly feather hat that made Raenof laugh out loud.
+
+Eventually, Chloe spotted something that instantly stole her attention, a small plush bird toy sitting on a shelf near the counter. It was round, fluffy, and had these tiny wings that made it look like it was trying very hard to fly and almost succeeding. Chloe grabbed it the moment she saw it, hugging the soft little creature against her chest.
+
+Raenof followed her out of the shop a moment later, carrying a few items that Chloe wasn't sure if he paid for, meanwhile, she walked beside him with her new treasure clutched in both arms.
+
+Chloe spun toward him with a huge grin. “Look, Raenof! Isn’t it adorable? I’m naming him Puffy.”
+
+Raenof nodded. “Yes, it is quite cute."
+
+Then his gaze sharpened a little, and he glanced around the busy street. “Speaking of cute… have either of us seen Sierra in the last few minutes?”
+
+Chloe blinked. She turned her head left, then right. Sierra wasn’t beside her. She wasn’t behind her either. She wasn’t… anywhere.
+
+“Oh,” Chloe muttered, hugging Puffy a little tighter as if he could help. “Uh… maybe she wandered into a shop?"
+
+Raenof scanned the street again, then tucked his mysteriously acquired items into his cloak. “We should search for her. She couldn’t have gone far.”
+
+“Right!” Chloe nodded, already stuffing Puffy carefully into Cloaky. Good job, Cloaky. Protect Puffy with your life. Or… whatever you have instead of a life.
+
+They set off at once checking every corner. Raenof moved quickly, scanning faces, ducking into side streets, and glancing toward alleyways. Chloe, meanwhile, called Sierra’s name loudly and stared into every window they passed. It felt a little like a game of sorts, except the stakes were way higher and the city was full of bird people who looked like they’d hiss at her if she poked them.
+
+They checked a row of food stalls, then a fountain surrounded by tall statues, then a small garden where Avians liked to perch. But Sierra wasn’t there. Where did she go? She wouldn’t leave without saying anything, right?
+
+Finally, when they turned down a quieter street, Chloe spotted her. Sierra was backed against a wall, ears flattened and tail tucked tightly behind her. She looked tense and small and very, very scared.
+
+Surrounding her were three Avians dressed in silvery-white armor, carrying pointy spears. Their helmets had narrow slits for eyes, making them look even more unfriendly.
+
+Chloe didn’t even wait for Raenof. She stomped straight toward them. “Hey! What’s going on here?”
+
+One of the armored Avians turned to face her. His feathers rustled, and his eyes narrowed behind the metal of his helmet. “This matter concerns only the Inquisition. Foreigners should stay away.”
+
+Chloe marched right up to the closest guard, planting her hands on her hips. “Well, that’s too bad, because Sierra is with us. So whatever you’re doing, you can stop it right now.”
+
+The Avian’s beak-shaped helmet tilted down at her. “This creature is being questioned for trespassing in a restricted area.”
+
+Sierra shook her head quickly, voice trembling. “I wasn’t trespassing. I was just looking for you two…”
+
+The Avian inquisitor closest to them flared his wings slightly. He jabbed a finger toward Sierra. “This Luphian harassed an officer of the Inquisition.”
+
+“I—I didn’t! I just bumped into him by accident, I didn’t even—”
+
+“Silence.”
+
+Chloe felt her irritation spike so fast it almost made her vision wobble. Something hot and stubborn twisted in her chest, pushing her forward before she even realized she was moving. She stepped in front of Sierra, planting herself firmly between the wolf girl and the armored feather jerks. “Hey! She didn’t do anything! Stop being mean!”
+
+The inquisitor closest to her glared down through his helmet. “Human, this matter does not concern you. The Inquisition handles threats to the sanctity of Aetherion.”
+
+“She’s scared and small and nice. If anything, you’re the threats! You’re pointing pointy sticks at her for nothing!”
+
+Murmurs spread through the inquisitors. One of them, bigger than the others, stepped forward with his spear lowered. “You will step aside. Or you will be detained alongside the Luphian.”"You wanna try?” Chloe asked, glaring back at the inquisitor.
+
+The guards stiffened. Their feathers puffed slightly. She could almost feel them deciding whether to poke her with their spears or run away. Honestly, she kind of hoped they picked the wrong choice. I could totally take them.
+
+Sierra grabbed the back of Chloe’s sleeve, voice trembling. “Chloe… please don’t fight them…”“But they’re being rude!” Chloe said, not taking her eyes off the inquisitors.
+
+The lead inquisitor stepped forward until his spear tip hovered an inch from Chloe’s shoulder. “Last warning, foreigner. Interfere again, and you will be punished.”
+
+Chloe clenched her fists. “Back. Off. Sierra.”
+
+The air around them grew tight and heavy, like the whole street was holding its breath. Nearby conversations died off, and several avians watched from a safe distance. It felt as though one wrong move would make everything snap. That was when Raenof stepped in.
+
+He stepped smoothly between Chloe and the inquisitor. His expression stayed steady, almost relaxed. “Let’s all relax, my companion is right. The Luphian girl is with us, and she meant no harm.”
+
+“You elves always think you can talk your way around consequences.”
+
+“Only when those consequences are being forced onto innocent people.”
+
+The guards bristled at that as they argued back and forth with him. Chloe watched their wings flare and their armor shift as they stepped closer, tension growing in a tight circle around Sierra.
+
+The exchange grew louder and more heated, each side pushing harder, neither willing to back down.
+
+Finally, one of the inquisitors snapped. With a rough shove, he pushed Raenof backward, knocking him off balance. Another guard lunged for Sierra, gripping her arm as if preparing to drag her away.
+
+That was the moment Chloe stopped thinking. She knew exactly what she had to do.
+
+She stepped forward, planted her feet, and looked the nearest inquisitor dead in the eyes. Then she drew back her fist, every bit of undead strength she had swirling into her muscles, and threw the biggest punch she could muster.
+
+The inquisitor flew. Chloe’s punch sent him crashing across the street, where he slammed into the wall of a nearby building hard enough to leave a deep dent in the stone.
+
+For a second, everyone froze. Then the remaining inquisitors snapped into motion, and they lunged toward Chloe with their spears raised.
+
+In response, Chloe grabbed Sierra by the wrist, yanked her close, and took off down the street. “Run!” she shouted, dragging the wolf girl.
+
+She looked back just long enough to shout, “Raenof! Move it!”
+
+Raenof let out the longest, most suffering sigh she had ever heard from him, but he still turned and sprinted after them.

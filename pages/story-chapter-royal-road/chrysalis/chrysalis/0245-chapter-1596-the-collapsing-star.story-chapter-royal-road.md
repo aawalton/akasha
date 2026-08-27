@@ -1,0 +1,147 @@
+---
+id: 664de291-c452-5431-a0be-df349e0094a0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1596 - The Collapsing Star"
+slug: 0245-chapter-1596-the-collapsing-star
+partOf: chrysalis
+position: 245
+ownLength: 1098
+unit: words
+ownProgress: 1098
+publishedAt: 2025-07-01
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2399040/chapter-1596-the-collapsing-star"
+royalRoadId: "2399040"
+markedReadAt: "2026-06-29T19:51:39.154Z"
+---
+
+There isn’t much time to think. I pump some of the Altar energy into my carapace, reinforcing it to protect myself, then pour all of the rest into my chomp.
+
+It’s a blessing the rest of the Colony has listened to me and given me some space. Almost a miracle. Ultimately, a miracle that saves a lot of lives.
+
+It’s difficult to explain what happens next. The sensation of power floods through my mandibles. Light explodes from before my face.
+
+It blazes.
+
+It burns.
+
+I can’t see a thing as my mandibles crash shut and the Dungeon is consumed by fire. Waves of heat roll over my carapace. What’s left of my antennae burns away and my eyes can barely take it. Even if they don’t melt, the blazing light of the star has blinded me for a good while.
+
+I stagger and lurch to the side. The platform is unstable beneath me, which can’t be right, this thing is rock solid. I can only imagine my legs have been damaged even further by my chomp. Well, if it’s bad for me, then it must be terrible for the Krath and monsters that were out there.
+
+Gweheheheh. I can imagine their gnashing, sluggy faces now. Well, I have to imagine them, it isn’t like I can see. No problem, I did my legs in and try to get my bearings.
+
+“What’s going on?” I ask, hoping someone can answer me.
+
+Surprisingly, I don’t get an immediate reply. Where’s the rest of the Colony at?
+
+Something hits my carapace and I genuinely can’t tell what it is. Debris maybe?
+
+[Master!] a voice rings in my mind.
+
+[Crinis?! What the heck are you doing here?]
+
+Man, I’m feeling sleepy. Seriously sleepy.
+
+[Master! You need to hold on!]
+
+Hold onto what? The floor? I’m doing that.
+
+[The platform has broken! Your bite attack sheared a chunk off the front!]
+
+Well, that wakes me up a bit.
+
+[It did what?! Wait, it broke the section I was standing on, didn’t it?]
+
+[Yes!]
+
+[Typical.]
+
+Yeesh, if the explosion from the bite was enough to do that, then I’m lucky it didn’t blow my head off! That wasn’t even fully empowered either. Something to think about… another time. I tighten my grip further and try to figure out what’s going on.
+
+My head is ringing and my minds are drifting, there’s so much poison in my body and it’s a real struggle to break it down. The paralytic venom of the ooze-nets isn’t helping either. Gritting my mandibles, I force my minds to work. If I let the native mana run rampant, it’ll quickly reach the point where it propagates itself faster than I can destroy it.
+
+[So… am I falling to my death or something?]
+
+If the section of platform broke off, then I should have plunged into the abyss along with about a gajillion tonnes of hyper-mucus. I might be durable, but it’ll be tough coming back from that one.
+
+[No, you aren’t falling, Master!]
+
+[Oh? How’s that?]
+
+[I’m holding onto the broken section.]
+
+There is an awful lot of darkness around me. So… Crinis is using her tentacles to hold the platform together? That would be quite the sight. For a second, I wonder why she didn’t just grab me, then I realise that she can’t, I still have too much gunk on me. Crinis has proven to be particularly vulnerable to the toxins of the fifth. Any tentacle she used to grab me would have to be cut off almost immediately.
+
+Nothing for it, I just have to make it back to the main platform. My legs twitch feebly and I start to turn myself around.
+
+[Let me know when I’m facing the platform.]
+
+[You’re turning the wrong way, Master!]
+
+Dangit! Back the other way.
+
+I can feel the strain in Crinis’ mind, she’s working hard to hold on. I have no idea how large this chunk is, but it must be massive. Hopefully Tiny gets here soon to help out. If Crinis got here through the shadows, then I guess he’s also on his way, coming through the tunnels in the fortress.
+
+[How about now?]
+
+[That’s it! Can you walk?]
+
+[Don’t you dare grab me,] I warn her, [I can make it. Any sign of the Krath?]
+
+[There’s a bit of acid being shot down from above. I think they’re coming back. The ones who survived, anyway. Stay away from my Master, FILTH!]
+
+A fresh wave of healing from the regeneration gland does a little to help restore some clarity. The Vestibule is cleansing the fatigue from my body, and my brains are slowly sharpening up. Just in time, every mind-construct is dedicated to anti-fifth mana duties, and I’m only now starting to get ahead of it.
+
+I’m still so damn tired.
+
+My legs start to push against the ground, and the strain is unbelievable. I don’t think I’ve ever felt so heavy.
+
+[I’m on the way, Crinis. Be there in a jiffy.]
+
+I can vaguely feel some impacts on my carapace. If I had to guess, more nets. Lousy Krath. They still haven’t had enough? Well good! I’ve got more for them!
+
+Soon.
+
+[Hey Crinis?]
+
+[Just keep moving forward!]
+
+[I just couldn’t help but notice that sudden lurch.]
+
+[It’s fine! Keep pushing!]
+
+I sigh to myself.
+
+[They’re targeting you with acid, aren’t they?]
+
+[No, it’s fine. Keep moving.]
+
+[I order you to tell me the truth.]
+
+[... Th… Th-they are, yes.]
+
+Well, nards. This is a bit of a pickle. I’ll figure something out, I always do.
+
+[Let me drop and get back to safety, Crinis.]
+
+[Never!]
+
+[I’ll survive, don’t worry.]
+
+I start pulling in all the cleansed mana I can. I’m going to need it where I’m going. I really have to give Smithant a lot of credit. The ooze-nets are spreading over me again, but there’s so little space where they can actually attack me since my joints are well protected. The beginnings of an idea start to percolate in my addled brains.
+
+[I’ll never let you go, Master. Don’t make me,] Crinis says, stubbornly.
+
+[I’d rather not order you….]
+
+I don’t like ordering them. They’re my friends.
+
+After a few seconds, it becomes clear she isn’t going to let go. Another lurch in the platform beneath me tells me everything I need to know.
+
+[Crinis, I or–]
+
+Before I can finish the thought, something ice-cold plunges into my head, stabbing right into my brain.
+
+[I won’t. I WON’T!] Crinis screams into my head.
+
+A mass of shadow rushes inside my carapace, and then I’m falling.

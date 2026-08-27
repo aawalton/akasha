@@ -1,0 +1,119 @@
+---
+id: 427a946d-8bba-52cd-8df5-eff0d11ddeda
+page-type-slug: story-chapter-royal-road
+title: "146 - Welcome to Dryadil"
+slug: 0149-146-welcome-to-dryadil
+partOf: cat-girl-evolution
+position: 149
+ownLength: 2264
+unit: words
+publishedAt: 2026-08-03
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3762207/146-welcome-to-dryadil"
+royalRoadId: "3762207"
+---
+
+Strangely enough, the addition of a new Trait that I can’t control actually doesn’t do much to alleviate my boredom. No new opportunities arrive. Abby says that there’s no way I can know that, since I’ve been napping most of the time, but what does she know?
+
+Eventually, even napping gets too boring, though, so I start messing with magic. The twins help me out with this, and as the days go by, I slowly master the art of telekinesis. I never really needed this before, since mana constructs did everything I would have needed actual telekinesis to do, but having the actual ability is nice. And having another Skill on my Royal Status Window is always a plus.
+
+After a full sixteen days of slow travel, our destination finally comes into sight. Kind of. The general area, comes into sight, but that’s at least enough to give me something to look at. A thousand kilometers of generic plains and forests has finally given way to a new biome: swamp. I’ve never been a big swamp girl, but this one is actually pretty impressive.
+
+The Dryadil swamp is not like other swamps. I always thought of swamps as being gross and smelly and full of water, and while I’m sure there’s plenty of grosser swamp area, the part that we travel through is actually quite nice. I guess it helps when the entire swamp is basically one living being.
+
+Before we fully entered, far in the distance, we could see the center, which is a tree taller than a mountain, its trunk stretching up into the clouds, disappearing beyond our sight. It’s kind of ironic that we’re coming here right after Maligar, but unlike Maligar, this tree is not a Disaster. It’s actually a Hermit.
+
+I’ve asked the twins about Hermits before, and they say that there are probably more than a hundred in Elyria alone, not to mention the mainland, and the other island continents surrounding it. Most of them are fairly docile, and some, like the one at the center of Dryadil, are even friendly.
+
+This entire swamp is actually just her body. According to Lauren, who bought a guidebook at some point and read through the whole thing, a lot of the individual trees we see around us aren’t actually individual trees at all. They’re part of the Hermit in the center, a dryad even older than Maligar, and rumored to be at Tier 10.
+
+There’s also a rumor that the dryad has Sloth, based on how often she seems to be asleep. The guidebook calls that theory ridiculous, since the inhabitants of Dryadil do not experience the usual effects of being in the presence of a Sin Trait holder, but with what we know about the True versions of the Sin Traits, we all assume it’s entirely possible. A and B say they haven’t heard anything about the dryad being the holder of True Sloth, but they haven’t heard anything about anyone else having it, so there’s definitely a chance.
+
+It almost makes me want to tread carefully while we’re here, but the guidebook also says that the dryad once slept through a quarter of the swamp getting incinerated by a battle between dragons, so there’s probably nothing to worry about. Unless she’s already awake. But that would be a pretty ridiculous coincidence… Right?
+
+“You just love willing these things into existence, don’t you?”
+
+I mean, even if she is True Sloth, that would mean she’s too lazy to bother with us, right?
+
+“Probably. And you don’t plan on doing anything to her anyway, so there’s no reason for her to bother you, even if she wasn’t lazy.”
+
+So then even if she is awake, we have nothing to worry about.
+
+“Theoretically.”
+
+Cool.
+
+Anyway, all that background is just to say that the well-traveled paths are actually quite clean. There’s some swampiness further out, but the roads themselves are raised above the water level, and there’s a cage-like network of tree trunks and branches growing all around to keep the nearby monsters out. The whole place is a spawn zone, but the roads are arguably safer than even normal roads due to the dryad’s protection.
+
+There are also some river paths, where you can take boats in toward the center, but water sucks, so we don’t take those.
+
+Once we get into the swamp, I spend most of the ride leaning out the window and taking in the sights, sounds, and smells. While a lot of the “trees” here are just the dryad, there are also plenty of ordinary trees and other kinds of plants. Some of the bushes even have berries, which I Snatch and eat. They’re all quite tasty, though Lauren’s guidebook says a few are actually poisonous. Not to me, though. The poison is just a flavor.
+
+There are also about a billion different kinds of animals and monsters that we pass by. There are frogs, ranging from tiny poison dart frogs to Tier 3 monstrosities big enough to swallow a horse. There are crocodiles everywhere, floating around lazily, and sometimes giving us a hungry side-eye. Some of those get absolutely enormous too.
+
+The snakes are harder to see, but Food Sense picks them up clear as day. There are tree vipers disguised as vines, water snakes snapping up fish underwater, and even constrictors that are big enough to swallow the giant crocodiles and frogs whole. Huge seems to be a pretty consistent theme with the more powerful monsters here. Huge frogs, huge crocs, huge snakes, as well as some huge fish and birds. At one point as we ride by, we spot a twenty meter-tall crane not too far away, wading through the water and snapping up the crocs who didn’t swim away quickly enough.
+
+One of the more surprising things I see are cats. Good house cats hate water, but these big swamp cats love it. I’ve sensed dozens of them, some swimming, and some napping, and while there are lots of different monsters here, these ones seem to be the true kings of the jungle. Err, swamp.
+
+When I sense an especially powerful one, I actually Blink out to get a closer look. It’s a jaguar the size of a bus napping on a branch of one of the biggest trees in the area. There are no other monsters in the area, all doing their best to avoid this one predator.
+
+I appear in my base form on the branch right in front of its face. It wakes up when it senses my mana, and stares lazily at me. I stare back at it, crouching on the branch just a meter away. Neither of us move, but I can tell it’s sizing me up. I’m sizing it up too, and I don’t think it feels that strong. It’s Tier 4 for sure, but it’s not Named, and it doesn’t seem too special.
+
+It doesn’t seem to think I’m a threat, but it also doesn’t go back to sleep, instead standing up and stretching out before sitting down in front of me.
+
+“Mra!” I say.
+
+It growls in response, but in a half-friendly, half-confused way. I honestly don’t know exactly what I’m doing here, or what exactly I wanted to get out of this, but nod to it, then teleport away again, appearing back inside the carriage and switching to cat girl form.
+
+It takes two full days to reach the center of Dryadil, but during that entire time, the scenery never loses its novelty. It feels like every hour, we’re entering a new microbiome with new mana levels and new types of monsters and animals living within it. In spite of all the water on the ground nearby, I think this might be my favorite place I’ve been since coming to this new world. And if the weird swamp frogs live up to their title as a Pseudo-Delicacy, that “might” will go away.
+
+At the end of these two days, the road starts to rise up below us, the packed dirt replaced by wood as we start driving up one of the great tree’s roots. Soon, the city of Dryadil comes into view, and I can say with confidence that even though it took two full days of travel to get here, it was worth the wait.
+
+The entire city is set on and around the great tree’s trunk. The trunk has to be at least a few kilometers wide, and every single part of it is lined with houses and buildings that literally grow out of the wood. Some of them are even suspended, connected to the rest of the city by more roots growing out like bridges over the open air.
+
+The people are almost as interesting as the architecture, and mostly for one single reason: they all have elf blood. Dryadil is one of the largest elven cities in Elyria, and while not everyone who lives here is a full elf, having elf ancestry is a legal requirement for permanent residence here. Of course, there are still tourists all over the place, and non-elven temporary residents, but every single local we see has pointed ears, which feels extremely weird after seeing almost none of them anywhere else.
+
+And of course, with elves comes elven cuisine, which I have been extremely excited to try.
+
+Because elves live such long lives, they can afford to do things that most other species can’t. For example, aging wine for three hundred years, or cultivating gardens and orchards with edible plants with scarily precise flavors, or spending a decade perfecting a single recipe. Even if their ingredients aren’t of the highest Tier, the dishes will be about as perfect as they can be, and the chefs will have decades, or even centuries more experience cooking than humans.
+
+The only unfortunate thing about all this is that none of the chefs will be that high in level. Unfortunately, the cost of living such long lives is a massive reduction in experience points granted by the System. An elf will have to work ten times as long at a task to get the same System benefits as a human would. So there unfortunately won’t be any 1000 year old Tier 9 chefs making my food, but they still might have that much practical experience, which is almost as good.
+
+Our very first stop after we arrive is an inn noted in Lauren’s guidebook for having been open for almost 1500 years, and for having fantastic food. None of us needed convincing to decide to go there.
+
+When we arrive, we are greeted by a young elf—probably less than a century old—who guides us to our rooms, and then the hot spring so we can have a bath. It’s not a natural hot spring, of course, but according to our guide, it’s better than one, because it’s created and maintained by the dryad herself. Its waters are filled with soothing mana that alleviate soreness and stiffness, and automatically clean you as long as you’re in it. Even the steam has those cleaning properties, so you don’t need to submerge yourself fully.
+
+The bath works just as advertised, and it’s so comfortable that I almost fall asleep inside. Only the thought of elven food—and also the twins’ incessant questions to the inn employee—keeps me from drifting off as I let the magic of the pool scrub my body clean.
+
+Once we dry off, it’s a battle against my own instincts to keep myself from teleporting into the dining area and stealing food from nearby plates. Lauren must notice my appearance, because once we’re seated, she asks the server what the quickest dishes on the menu are, so we can order them first and at least keep our appetites at bay while we wait for the other food.
+
+While she does this, I read through the menu, drooling at the descriptions of some of the dishes. Whoever wrote this menu knows exactly how to make a dish sound good, even when that dish is literally a rotisserie rodent. I read through them all while the server takes the orders from the others, and when she reaches me, I order the classic.
+
+“One of everything.”
+
+“E– Everything, ma’am?” asks the server nervously.
+
+“Did I stutter?”
+
+“N– no,” she replies. “But we have more than fifty different–”
+
+“One. Of. Everything.”
+
+“I– I need to go ask my manager!”
+
+She runs off toward the back, and I slump back with a sigh. I don’t get it. Fifty dishes is a lot, sure, but–
+
+“Yona, this is going to cost you more than 500 gold.”
+
+Don’t I have plenty?
+
+“For now. Not if you keep spending like this, though.”
+
+Meh. I’ll just make more. Food is more important than money.
+
+I keep an eye on our server with Food Sense, waiting for the manager to get done doing whatever he’s doing so she can talk to him, and while I wait, I notice another person nearby stand up and approach me. I look up to see an older man with gray hair and a kindly smile standing over me.
+
+Despite his appearance, I immediately tense up. This man might look old, but he’s strong. He doesn’t feel quite as strong as the Royal Inspector and Guild Investigator, but if he’s weaker, it can’t be by too much. I mean, just looking at his Namecard tells me that much. I mean, he’s Tier 6, and he’s got an Epithet.
+
+[ Wesley, Defender of Eryndell, lvl ?? ]
+
+“You wouldn’t happen to be Princess Yona, would you?”

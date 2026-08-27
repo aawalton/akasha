@@ -1,0 +1,99 @@
+---
+id: 29c5b0ee-f756-5c60-9dda-99bfc57624ce
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1612 - Winning Time"
+slug: 0261-chapter-1612-winning-time
+partOf: chrysalis
+position: 261
+ownLength: 1136
+unit: words
+ownProgress: 1136
+publishedAt: 2025-07-30
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2477336/chapter-1612-winning-time"
+royalRoadId: "2477336"
+markedReadAt: "2026-06-29T19:52:09.997Z"
+---
+
+The pressure was crushing. All over the fortress, the systems that Solant had so thoroughly built, so painstakingly tested and reinforced, were reaching breaking point.
+
+The internal cleansing system, with its interweaved network of channels, had endured enormous strain ever since the vents had started dumping incredibly concentrated toxic mana inside the fortress. The work of the construction teams had been nothing short of heroic, braving extremely dangerous conditions to conduct emergency repairs and keep the energy flowing.
+
+In truth, they had lasted longer than Solant had expected. A testament to their skill, bravery and endurance. Yet even with such dedicated ants giving their all to the task, the system was starting to crack.
+
+Solant clacked her mandibles as she read over the report. The channel system had experienced multiple, massive failures in a short amount of time. Sections of the fortress had become flooded with toxic mana, making them inaccessible and putting even more strain on the channels that remained functional. Emergency repairs would rectify the situation in hours, but if something else were to go wrong, the system could break entirely and the fortress itself would be lost.
+
+She had pushed the system as hard as it could possibly be pushed. It was time to step back. Nearby, messengers waited for her to pass the word. The air in the headquarters was always tense, but now it felt so thick she thought she might be able to cut through it with a bite of her mandibles.
+
+“Send word to the teams on the platforms. Shut off the intakes.”
+
+She’d barely finished getting the words out of her pheromone gland before the rush of movement occurred. The messengers were gone, the mages were working their spells. Word would be spread in a matter of minutes, the massive intakes, bringing in thunderous amounts of corrupt energy, would be shut off.
+
+It wouldn’t provide immediate relief for the overworked carvers, who were in desperate need of help, but it wouldn’t be long. With the amount of energy being brought in reduced by more than half, the remaining channels shouldn’t break and the danger could be averted.
+
+Solant turned to her advisors.
+
+“I want to hear directly from the storage where our levels are. Get me word as soon as you can.”
+
+Another burst of activity. She had done everything she possibly could to keep the energy flowing. Everything depended on the storage, the fate of the fortress, the life of the Eldest, the victory that Solant craved.
+
+The entire fortress was built for the sole purpose of converting mana. Solant had determined early in the course of her planning that fighting against the fifth, and the Krath, was impossible if you tried to play by their rules. The home field advantage was simply too strong. But if that advantage could be flipped on its head, then the possibilities began to open up.
+
+“Send word to the platforms,” she said. “I want them on standby to prepare for withdrawal.”
+
+The battalions fighting out there were another point of failure right on the verge of breaking. As the wave had worn on, the level of attrition had continued to grow. The hospitals were full, the medics weren’t complaining, which spoke of just how dire the situation had become. Only the platform manned by the Legion had been anything like stable, since the Krath had avoided it assiduously.
+
+Everywhere else had been engaged in a never-ending, brutal and deadly struggle for survival. The losses were high, too high, but they had held the line against impossible odds and given the Colony a chance of victory.
+
+Solant turned her gaze to the model of the fortress. Updated constantly, it showed many, blaring warnings and issues. Dozens of high-grade alerts, reports flooding in every second. There was no way she could possibly resolve all of these matters in the short term. If the number came back from the storage sufficiently high, then nothing else would matter.
+
+All they needed was for the wave to recede.
+
+“Word has been sent to the platforms, they are preparing the withdrawal formation.”
+
+“Tell them to abandon the defensive tools and apparatus,” she instructed them. “Don’t waste time trying to bring them in. I want our people inside the walls and safe.”
+
+“Yes, General.”
+
+There was no need to risk them any further. They were heroes, each and every one. A rest was the least that they deserved.
+
+All she needed was the number. If it was high enough… she had won. If it wasn’t… then she would have to try again another time. There was no backup if the fortress failed. After everything they’d done to keep the energy flowing, it had to be enough. Surely.
+
+The headquarters was eerily still.
+
+Messengers arrived with urgent word, but none of it would matter if the order to retreat was given.
+
+“The intakes are shut off!” someone announced.
+
+“Let the construction teams know,” Solant said calmly. “They’ll be able to move with more confidence knowing the flow is greatly reduced.”
+
+They wouldn’t have to fear every second channel would burst beneath their legs, more to the point.
+
+And then… they waited.
+
+It was Leonidant who rushed into the chamber, not even hesitating to climb over the gathered generals, scouts, mages and others waiting to see what would happen next. She ran directly up to the General and whispered something for her antennae only.
+
+Solant clacked her mandibles thoughtfully.
+
+“Give the order for the battalions to retreat from the platforms. Full retreat. Everyone inside the gates and prepare for the defence. Send word to the mages, we will need to regulate the flow of cleansed mana, we don’t need to cover the platforms anymore.”
+
+She gave out a string of orders, and hundreds of ants sprang to life. All of a sudden, there were a thousand things that needed to be done instantly, and they all rushed to do them.
+
+It wouldn’t be long until the fortress was fully sealed, the gates would slam shut and the Krath would begin their final assault, trying to break through the walls. It would be a torrid defence, but Solant was sure that the Colony would hold.
+
+In the eye of the storm, Solant stood, an island of calm in a frenzy of motion.
+
+Leonidant leaned close to her sister.
+
+“Is it enough?” she asked. “Did we win?”
+
+“If it is or it isn’t, we still have to shut the fortress,” Solant replied. “We’ve done everything we can.”
+
+“But is it enough?” the scout insisted.
+
+Solant dipped her head and cleaned her antennae, thoughtfully.
+
+“Leonidant. You should know by now, I always win.”
+
+As long as the Eldest survived, the Colony would do what had never been done before: a full and total victory over the fifth.
+
+Don’t let me down, Senior.

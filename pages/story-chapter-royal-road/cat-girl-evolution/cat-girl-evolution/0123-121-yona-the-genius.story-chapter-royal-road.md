@@ -1,0 +1,257 @@
+---
+id: bed0df3a-f6a9-5e22-a04a-c2bae974dcb1
+page-type-slug: story-chapter-royal-road
+title: "121 - Yona, the Genius"
+slug: 0123-121-yona-the-genius
+partOf: cat-girl-evolution
+position: 123
+ownLength: 2289
+unit: words
+publishedAt: 2026-05-01
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3339778/121-yona-the-genius"
+royalRoadId: "3339778"
+---
+
+[ You have found the Sister’s doll and completed the Floor Challenge! Reward: Sister’s Doll ]
+
+“How did you do it?” demand the twins in unison.
+
+“I’m just a genius,” I reply, holding the squirming doll in my hand.
+
+“This shouldn’t have been possible,” says A.
+
+“You’re not this smart,” says B.
+
+“Hey!” I protest. “I’m plenty smart.”
+
+“Are you suggesting that you, entirely on your own, were able to study, experiment, and master the Dungeon before us?” asks A.
+
+“And that you had the presence of mind to notate all your discoveries for us to find so that we could coordinate?” asks B.
+
+“And that you were able to deduce exactly where and when we were without ever actually meeting up with us while also keeping track of the doll.”
+
+“All without any outside help or cheat Skills.”
+
+“...Yes.”
+
+“Bullshit,” they say in unison, Lauren joining them.
+
+“Hey, you too?!” I ask, turning to Lauren.
+
+“Sorry, but I barely understood what was going on here, and I’m pretty sure if you were actually on your own without cheating, you would have just taken a nap and waited for us to figure it out.”
+
+“Do you really think so little of me?”
+
+“No, we just know you better than that.”
+
+I huff and turn away, acting offended.
+
+Abby, they’re being mean.
+
+“Yona, lying is bad.”
+
+Oh, then how come you keep lying to me?
+
+“I don’t– Okay, nevermind. It’s not important. We should get moving.”
+
+“Just give us a hint, please,” says A.
+
+“Was there some kind of trick we missed?” asks B.
+
+“Do you have an intuition Skill?”
+
+“Did you talk to the Dungeon Core again?”
+
+“Have you already done a Dungeon like this before?”
+
+“Have you already done this Dungeon before?”
+
+“Why can’t you just accept that I’m smarter than you?”
+
+“Because it’s not true,” the twins say simultaneously.
+
+“Damn, your master’s Pride really rubbed off on you.”
+
+“It’s not Pride.”
+
+“We’re just objectively smarter than you.”
+
+“...I dunno, that sounds pretty prideful. But fine, I’ll give you a hint. Abby.”
+
+“Abby?” asks A.
+
+“It’s what she calls her System Assistant,” says Lauren. “She sometimes talks to it under her breath. Yona, are you saying that your System Assistant helped you solve the Dungeon?”
+
+“Maybe.”
+
+“That’s impossible,” says B.
+
+“Maybe for you, but I’m different,” I say, shrugging.
+
+“You must be,” says A, rubbing her chin. “System Assistants are usually only supposed to help with System information.”
+
+“They’re like encyclopedias,” adds B. “At best, it could have told you the fundamental rules of Dungeons.”
+
+“Well, I guess my Abby is just cooler than yours.”
+
+“Rogue System Assistants aren’t completely unheard of,” says A. “But they’re very rare.”
+
+“Do you really have one?” asks B. “And are you saying that your System Assistant solved the whole Dungeon for you while you just followed its directions?”
+
+“I dunno. Abby, are you a rogue System Assistant?”
+
+“...Something like that. And yes, you did just follow my directions while I solved the Dungeon.”
+
+“She says maybe. And also that I solved the Dungeon on my own.”
+
+“Right,” says A. “So your rogue System Assistant did it.”
+
+“That sort of makes sense,” says B. “But even then, rogue System Assistants aren’t usually that smart. They’re still just System Assistants…”
+
+“Well, she is reincarnated,” suggests A. “Maybe she has an experimental version?”
+
+“Or maybe her goddess was helping?”
+
+“Nah, she wouldn’t do that,” I say.
+
+“It doesn’t matter,” says Lauren, stopping the twins before they can get going again. “We can talk about it later. Right now, we’re in the middle of a hostile Dungeon, and we should be focused on that. We need to focus on our next move. Should we ascend immediately, or wait?”
+
+“Wait,” say the twins immediately.
+
+“Whatever the necromancer is doing, we’re not qualified to deal with it,” says A.
+
+“And the longer we wait, the sooner that Tier 5 party gets here.”
+
+“I agree,” says Lauren. “Any objections?”
+
+“I don’t really think it’ll make much of a difference, but sure,” I say.
+
+Chad just shrugs.
+
+“Then let’s settle down here. I’ll whip up some food. Also, Yona, what’s the deal with the doll? It says it’s the Dungeon reward.”
+
+“Oh yeah, lemme check.”
+
+The little fabric doll is still squirming in my hand, but when I focus on it, I notice a little mana core thingy inside that feels a bit like my mana anchors. Curiously, I reach my mana out, and as soon as it touches the core, a connection forms, and the doll stops struggling, instead looking up at me expectantly with its button eyes. At the same time, an Annoying Blue Box appears with a description.
+
+[ Sister’s Doll: The first masterwork of a genius young golemancer. She animated her childhood doll, giving it the ability to follow simple commands, and use minor telekinesis. Now, it will do the same for whoever it is bound to. ]
+
+“Huh,” I say.
+
+“What is it?” asks Lauren.
+
+Instead of answering, I set the doll down on the ground and give it a mental command. It turns around and runs toward Lauren, a little wobbly on its soft fabric feet. Lauren steps back in surprise, but doesn’t stop the doll from running up to her leg and latching on, giving it a hug. Then, I give the doll another command, and it starts climbing upward, making Lauren squirm uncomfortably until it’s standing on her shoulder.
+
+“It’s that,” I say, gesturing to it. “I can control it.”
+
+“I see…” says Lauren, glancing at the doll with suspicion. “Can it do anything else?”
+
+“The description says ‘minor telekinesis.’”
+
+I give it another command, and it stretches out an arm, making a tea cup on the table float up a few inches before floating back down.
+
+“So yeah, it can do things like that.”
+
+“Well, that’s not very useful.”
+
+“It’s cute, though,” says A, reaching out to pet its head.
+
+I make the doll lean into the pet, which makes A smile, and B reaches out to pet it as well. Then, I send out a mana head to put the doll in my Stomach, switch to cat form, and jump up onto Lauren’s shoulder in its place. After I have been sufficiently scritched, I jump back down, and Lauren and I get working on a quick stew.
+
+Over the next hour, we all take a bit of time to relax. I take a nap, Lauren sharpens her knives, Chad carves what looks like a small version of the doll out of a piece of wood, and the twins tinker with a metal thingamajig that I have no way of identifying.
+
+When the timer winds down for us to make our choice on whether to ascend to the next Floor or not, we all gather our things and gear up. Given the fact that the necromancer controls this Dungeon, and is most definitely hostile against us, we all prepare as well as we can in case of an ambush, and immediately after Lauren accepts the prompt, we are glad we did.
+
+B manages to erect a shield just barely in time to intercept a knife aimed for my back. We all whip around to see a figure shrouded in shadows slink backward. Lauren lunges forward, A prepares a mana bullet, and I start Blinking toward it, but the figure dissipates into smoke as we move, and all our attacks strike empty air. I try to sense around with Food Sense, but as far as I can tell, whatever that was is gone. Or at least, it’s not in the room with us. Unfortunately, like the last Floor, this room seems to be spatially isolated from anything else, so the room and the hallway leading out of it are as far as my senses reach.
+
+“It’s gone,” I say. “For now.”
+
+B re-absorbs her shield, and A, Lauren, and I lower our weapons, but we all keep our guards up as we get back into formation.
+
+“It’s Tier 4,” says B. “Or at least a Tier 3 Named. Its attack was powerful. If I didn’t have the shield pre-charged, I wouldn’t have been able to block that.”
+
+“Good to know,” says Lauren. “Can you block off the hallway?”
+
+“Yes.”
+
+Another shield appears right on the entrance to the hallway, this one quite thick and dense. I recognize it as B’s strongest barrier variant, and also most restricted kind. It’s the one that can stop the greatest force, but it’s also completely immobile, and it’s two-way, meaning we can’t attack through it or pass through it like we can with some of her other shields. But for something like this, it’s perfect.
+
+With our safety reasonably assured for the time being, we have a bit of breathing room, which we all use to check the Annoying Yellow Box in front of our faces.
+
+[ Floor Challenge: Escape the labyrinth ]
+
+“Okay, I vote no splitting up this time,” I say.
+
+“Agreed,” said Lauren. “It worked out last time, but I don’t want to repeat it.”
+
+“Plus, this place is similar to the last Floor,” I say. “I can’t sense anything beyond the walls. I can sense down to the end of the tunnel where it turns, but nothing beyond that.”
+
+“At least there shouldn’t be different instances of the rooms if the passages are all open like this,” says B.
+
+“So getting separated won’t be as bad.”
+
+“But with at least one assassin around, it’s definitely not good either,” points out Lauren.
+
+“True,” says A.
+
+“And the assassin definitely isn’t a Floor Hazard,” adds B.
+
+“Based on the Floor Hazards of the first Floor, that would be too much of a step up.”
+
+“It would break the System rules.”
+
+“They are correct.”
+
+“Okay, so basically, we’re in a labyrinth that we can’t cheat our way through, and we have at least one assassin sent by the necromancer to kill us,” summarizes Lauren. “Great. That’s not good. But it’s also not that bad. But still not good.
+
+“Yona can’t really eat anything as we are, and if I had to guess, there won’t be too much to eat on this Floor in general. I would expect a few Floor Hazards lurking around the labyrinth, but nothing substantial, meaning we can’t do much good on this Floor. On the other hand, weakening the Dungeon is only a bonus. We don’t need to do everything ourselves. We can afford to take our time and wait a bit. In fact, the safest and best option might be to just wait in this room. If the assassins are here, that means they’re not after the 5th Tier Party. And if the 5th Tier Party shows up, then the assassins will probably leave and go attack them, clearing a route for us.”
+
+“Sounds good to me,” I say. “That nap wasn’t quite long enough.”
+
+“We agree,” says A. “We should rest up properly here.”
+
+“I can keep the shield up indefinitely if it’s not being attacked,” says B. “So we should be reasonably safe.”
+
+“Chad?” asks Lauren.
+
+“Works for me,” he replies.
+
+“Then that settles it. We’ll still sleep in shifts, though. Three groups. The twins, Chad and I, and Yona.”
+
+“Dibs on first sleep!” I say.
+
+The others don’t protest that, so I summon a bed that I borrowed from Lauren’s house as well as some privacy curtains, then curl up for a nice, long nap. Annie’s situation does cross my mind, but there’s not really anything I can do about it from here. The necromancer isn’t really someone we can, or should handle. And as much as I’d like to save Annie, I’m afraid she’s basically already dead. And she was as soon as the necromancer took her back. I pity her, but if she attacks us under his orders, I’m not gonna hold back.
+
+By the way, Abby, before I go to bed, how much longer until the Dungeon is ready?
+
+“It might be functional when you wake up. Otherwise, it’ll be ready sometime after that, but probably not before you need to sleep again. But again, it won’t be completed. Just functional, and at the point where I can ‘finalize’ it with the System while still making minor adjustments to truly finish it up in the background.”
+
+What’s taking all that extra time.
+
+“NPCs. I want them all to have proper personalities and such. Right now, most of them are just System defaults, which are… not very good.”
+
+Well, the System Developers suck, so that makes sense.
+
+“They don’t–! Okay, nevermind. I’m just finishing up the details of the Floor Challenge, and making sure the relevant NPCs are fleshed out, as well as calibrating the difficulty of the Floor Hazards, just to make sure it can scale properly as you grow stronger. Actually, speaking of scaling, we should try to get one of those assassins to follow you in once the Dungeon is ready. If we can kill them in the Dungeon, the Dungeon will get experience points and essence, and we might be able to unlock a second Floor.”
+
+Ooh, good idea. But how do I do that?
+
+“You should be able to make an entrance in your mouth. Or in one of your construct’s mouths. Just do that, and either eat them up, or run in yourself and hope they follow. Then, you just need to take them to the main Floor Hazard and make sure they die.”
+
+Sounds easy enough. And I can do that tomorrow?
+
+“Hopefully.”
+
+Sweet! I can finally use my Dungeon!
+
+“Also, there’s one more thing you should probably know.”
+
+What?
+
+“You remember Joshua, right?”
+
+Yeah?
+
+“Well, he might not be quite as dead as we thought.”
+
+…Huh?

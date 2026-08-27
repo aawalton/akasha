@@ -1,0 +1,107 @@
+---
+id: 6b29724e-cb65-556a-9f3d-df397fc7f9df
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1419 - Heartbeat"
+slug: 0067-chapter-1419-heartbeat
+partOf: chrysalis
+position: 67
+ownLength: 1160
+unit: words
+ownProgress: 1160
+publishedAt: 2024-09-27
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1822205/chapter-1419-heartbeat"
+royalRoadId: "1822205"
+markedReadAt: "2026-06-29T19:45:46.547Z"
+---
+
+“Yessss! Look at them burn! Burn them all!”
+
+Coolant watched as her fiery sibling unleashed her devastating magic upon the encroaching slime monsters. As she channeled her spells, Propellant herself burned red hot, flames rising from the mini-volcano on her back as she launched gobs of lava and bars of almost liquid blue fire at the creatures of the fifth.
+
+“I would estimate that your spells are only twenty percent effective,” Coolant observed in her usual, clipped, chilly tones. “Despite all of the evolutionary energy you poured into maximising your fire magic. Such a waste.”
+
+Propellant rounded on her sister, her anger flashing hot.
+
+“What?! You’re one to talk! You spent all of your energy making yourself even icier, and just how effective is your magic down here? It’s even worse than mine!”
+
+“There is a utility to water and ice magic that has yet to be fully realised,” Coolant replied, clacking her mandibles dismissively.
+
+“Hah! You think anyone in the Colony is falling for this ‘it’s good but we don’t know how yet’ line of reasoning? You’re fooling yourself!”
+
+“Jumping to conclusions? I would never have expected you to make such a rushed judgement,” Coolant observed, a hint of sarcasm coming through in her pheromones.
+
+The two sisters stared at each other, one growing colder, the other hotter, by the second. Finally, they both turned away with a huff and put some space between themselves.
+
+“Have we eliminated everything in this section of tunnel?” Coolant asked after a moment.
+
+“I believe so,” Propellant replied, “though I did most of the work!”
+
+Refusing to rise to the bait, Coolant merely sighed and began to focus on her more esoteric senses. It was difficult to do anything in the fifth, even to use mana sense properly. The toxicity of the fifth was so all-encompassing, everything that touched it broke down, even mana. Communicating via mind-magick was impossible through a certain amount of toxic mana. The messages became corrupted, and any bridge constructed would eventually fall apart.
+
+It was the same principle that prevented gate travel through the stratum.
+
+“The safe-zone is pressing back against the vent,” Coolant observed, “but it’ll still be some time before it’s fully overcome.”
+
+“Will we ever be able to eliminate its influence completely, so long as it continues to vent?” Propellant replied, irritably.
+
+Anything she couldn’t solve with fire tended to irritate her these days. She did have a point, though. There was no way to know when the vents would stop, or if they ever would at all. This incident had set the invasion back significantly. Despite all the work that was still ongoing, the safe-zone, inevitably, was shrinking.
+
+“We need to rejoin the others,” Coolant declared, and the two turned their backs on the open tunnel and moved deeper into Colony-claimed territory. Several ranks of troops closed behind them, on high alert given the current crisis.
+
+Not far away, they found their mage squads working feverishly. New pipes needed to be laid, the network needed to be adjusted in several places, and even small adjustments created imbalances that affected performance. Even pipes that didn’t need to be moved still had to be adjusted. Until the vents stopped spewing out mana, the wuffers would have to prioritise consuming that energy above other sources.
+
+“Have there been any changes with the vent?” Coolant asked as she arrived amongst the bustling ant mages.
+
+“Nothing,” came the swift reply. “The rate has remained steady since you left, as has the density.”
+
+No change at all. Well, it wasn’t getting better, but at least it wasn’t getting worse.
+
+“Keep working on the pipe network. Coolant and I will inspect the vent again while we have the chance,” Propellant growled.
+
+“We won’t have long,” Coolant reminded her sister. “We need to reinforce the tunnel defence again soon.”
+
+“I know that! Come on.”
+
+The two council members moved beyond their teams, following the newly laid enchanted pipe, which moved a steady flow of corrupted mana back to the nearest wuffer node, two hundred metres away. It didn’t take long for them to encounter the new, unwelcome border between the vent and the cleansed energy. Right in the middle of the tunnel, the porous rock sat, an endless stream of pure filth vomiting forth to push against the safe-zone from within.
+
+Coolant and Propellant moved forward until they were only two-dozen metres away from it. The bubble of toxicity produced by the vent had shrunk rapidly once the pipe network had begun to siphon it away, but had stabilised at roughly this size. At least it no longer cut them off from the rest of the Colony.
+
+“Are you sensing anything different?” Coolant asked, feeling out the vent.
+
+“No,” Propellant grouched, her carapace glowing a deep red as her ire grew. “It’s just sitting there. Are you sure I can’t set it on fire?”
+
+“Yes, I’m sure,” Coolant sighed. “We are under strict instructions not to harm them.”
+
+Knowing Propellant, she’d blow the thing up, opening an even wider hole that allowed an even greater flow of energy.
+
+“Give me a minute, I’m going to see if I can sense anything.”
+
+Pushing her sibling’s impatient reply from her mind, Coolant sank deep into herself, putting all of her focus into studying the energy around her. The vent changed instantly, from a strange form of rock, into the source of a dense plume of mana. There didn’t seem to be any end to the flow. Wherever this mana was coming from, the source didn’t seem to be running low in any way.
+
+It was frustrating; there didn’t seem to be any way to trace the energy. She could feel it rising up through the rock, but if she tried to follow it down, it began to blend into the surrounding rock before she got far at all.
+
+How vexing!
+
+Determined not to chase after dead ends, Coolant instead turned her attention to the plume of toxic mana itself. She examined it minutely, patiently, even as Propellant grew more and more impatient by her side.
+
+“Are you done?” the fire mage demanded.
+
+“Wait, can you sense that?” Coolant said suddenly.
+
+Propellant frowned, extending her own senses. “Sense what?”
+
+There was nothing, as far as she could tell, but there was an intensity to Coolant’s scent that caused her to redouble her efforts.
+
+“Wait for it…” Coolant muttered. “I’m sure… yes! There! Did you see that?”
+
+“I… I think I did,” Propellant said, clacking her mandibles thoughtfully. “What was that?”
+
+There had been… a shift… in the flow coming from the vent. It had been slight. Very slight, but she had indeed detected it.
+
+For the next several minutes, they studied the vent, examining these minute changes as they occurred and eventually determined the pattern.
+
+“It’s like… a heartbeat,” Coolant realised. “It’s slow, very slow, but it’s just like a heartbeat.”
+
+Thump-thump. Thump-thump. Thump-thump.
+
+“What in the name of Pangera does it mean?” Propellant wondered.

@@ -1,0 +1,336 @@
+---
+id: 8924d8d5-d959-55c7-aa06-d942eb1f8d5d
+page-type-slug: story-chapter-royal-road
+title: "194 - Shirt Hurt! Shirt Healer!"
+partOf: bunny-girl-evolution
+position: 62
+ownLength: 4410
+unit: words
+publishedAt: 2026-05-02
+link: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3344519/194-shirt-hurt-shirt-healer"
+royalRoadId: "3344519"
+---
+
+The easiest thing to do with Charlotte would have been to contact someone from Ostra and get her taken into the System. Elise considered doing that, then decided against it. She might have done exactly that in the past, and even now, if she found a random sentient monster, she might direct them toward Ostra, but with Charlotte, it felt different. She hadn’t known the spider girl for long, but Elise felt responsible for her. Perhaps not in a motherly way, but at least in a sisterly one, and although Elise knew that the ordinary Ostra members like Jag were good people, she didn’t trust Freddy anymore.
+
+Besides, if Charlotte was going to join Ostra, she would have to sign the secrecy contract, and she was nowhere near being able to understand what that would actually mean. And even Elise wasn’t willing to sign that. If she wasn’t willing to sign it, how could she let Charlotte, who had less sapient life experience than a toddler, sign it?
+
+At the same time, though, she couldn’t just leave Charlotte in the Dungeon. Charlotte was more than capable of handling herself amongst mindless monsters, but as demonstrated by what she had done with Wilbur, she would only get herself in trouble with humanoids. Either she would make a mistake and be hunted, or she would end up at Ostra anyway after the humanoids informed them of her existence.
+
+Of course, there was one more easy solution as well, but Elise was a little reluctant to use it. It wasn’t that she didn’t trust Oberon—she knew that Charlotte would likely be safe and well-cared-for at his castle—but she wasn’t sure she was a fan of what she knew Oberon would teach her. She could already imagine coming home to find a severed monster head on her bed with Charlotte appearing from behind to say “friends prank each other!”
+
+Another option would be finding a way to sneak her back to the Gray’s house. At least until Irylax ascended, it would likely be the safest place in the world. It was connected to Ostra, but with Irylax there, she doubted they would be bothered. And while Charlotte was large, she wasn’t that much bigger than Jag, and would likely fit in Astrid’s Star if Elise took all the other stuff out of it, so getting her to the house wouldn’t be a problem. The real problem with this option was forcing the Grays to live with a giant spider monster who only just awoke to sapience and was strong enough to not only survive, but thrive in an environment full of high tier monsters.
+
+Better there than with Freddy or Oberon, though…
+
+The more she thought about it, the more she knew that it was the best option, but it still wasn’t a decision she could make on her own. Fortunately, she didn’t have to. She didn’t even have to make a decision right at that moment. She had planned to be gone all weekend, and even if she had Charlotte with her, that didn’t mean that plan needed to change. In fact, she could actually still accomplish her goal of reaching the Platinum areas with Charlotte in tow while figuring out what to do afterward.
+
+On top of that, her lessons with Irylax had been bearing fruit. Dreamwalking was not the main thing she had been working on, but visiting Sophie was something she could do easily and consistently now, and if she could visit Sophie, she could ask Sophie to ask Nick and Bianca, and they could decide together. And in the case they said “no,” she could always try to get Oberon to make some kind of deal not to teach Charlotte anything too weird.
+
+She turned to look up at Charlotte, who was looking down at her with her head tilted slightly in confusion.
+
+“Charlotte,” said Elise. “Let’s go back up to your lair for a minute.”
+
+Charlotte still looked confused, so Elise used her wings to start flying upward, pointing to the hole in the ceiling.
+
+“Up,” she said.
+
+“Up?” said Charlotte. “Up up up.”
+
+A pair of small, dragonfly wings appeared on the back of Charlotte’s human half, and a moment later, she was floating upward as well. Elise took a moment to be amused at the tiny wings supporting the weight of the huge spider body before flying back up and into the chamber where she had found Wilbur. She sat down with her legs crossed, preparing to dreamwalk to Sophie, only to be interrupted by Charlotte.
+
+“Elise hurt?” asked Charlotte. “Elise healer?”
+
+“No, I’m not hurt,” said Elise with a smile. “Not hurt.”
+
+“Not hurt?” repeated Charlotte.
+
+“Yes,” said Elise. “Not hurt. Healthy.”
+
+“Healthy,” said Charlotte, seeming satisfied. “Healer?”
+
+“No healer,” said Elise. “I need to meditate.”
+
+“Meditate?”
+
+“Meditate,” said Elise, demonstrating by closing her eyes and taking a deep breath.
+
+At the same time, she sent Charlotte the sensation of calming down, and that seemed to make Charlotte understand. Sort of.
+
+“Meditate,” said Charlotte, nodding sagely.
+
+As she spoke, she curled her legs, setting her body gently on the ground, and closed her eyes and took a deep breath. She breathed about four times before cracking an eye open to see if Elise was watching.
+
+“Meditate?” asked Charlotte.
+
+“Yes, good job!” said Elise. “You are very good at meditating.”
+
+“Meditate!” said Charlotte excitedly.
+
+“I will now meditate too,” said Elise. “Let’s meditate together.”
+
+“Meditate!”
+
+Elise closed her eyes and focused her mind, and sensed as Charlotte did the same. She smiled at the spider’s antics, then turned her attention to the task at hand. It took a minute or so to get into the right frame of mind for dreamwalking, and then another minute to find the aetheric thread that connected her to Sophie, but once she found it, the transition from meditation to dreamwalking was almost instantaneous. One moment, she was in her own mind, and the next, she was in Irylax’s room, watching Sophie meditate while Irylax munched on an entire loaf of unsliced bread.
+
+“Yes, rabbit?” said Irylax’s voice in Elise’s mind.
+
+“Oh, I was just hoping to ask Sophie something,” Elise replied with {Whisper}.
+
+“She is busy at the moment,” said Irylax. “What did you need to ask?”
+
+“I found a newly sapient monster in the Dungeon and I was hoping I could bring her to stay at the house, at least for a little while? Enough to teach her how to talk and how not to cause trouble, at least?”
+
+“Why not entrust her to Ostra?”
+
+“Because I don’t trust Ostra.”
+
+“Hmmm. Wise. Oberon? Nevermind. I understand. However, I do not think this is wise. I have another idea.”
+
+“What is–?” Elise started.
+
+She never finished because at that moment, her vision blurred and spun, and a moment later, she was staring at an enormous, bearded man eating what looked like an entire roast pig with a companion. It took a moment for Elise to recognize him without his armor on, but when she realized who it was, she only grew more confused.
+
+Quel’Khulan?
+
+The huge man didn’t seem to notice her, but his companion did. He looked small in comparison, but he was probably still over six feet tall. He was built like an athlete, lean, but not skinny, and he had a slightly weathered face like someone who had spent a bit too much time in the sun. His hair was black, but he had the same golden eyes as Quel’Khulan, and he stared directly at Elise with a gaze that made Elise feel like he could see her very soul. And for all she knew, he could do exactly that. While not physically imposing, there was something about him that radiated the same kind of immense power that Quel’Khulan had, and it wasn’t hard to guess that the two had similar origins.
+
+“Khulan, we have a guest,” said the other man. “The dragon has sent us a fey.”
+
+“Oh?” said Khulan, finally looking up from his meal. “Ah, Elise!”
+
+A small piece of meat flew forward from his mouth as he spoke, so he took a few seconds to finish chewing and swallow before speaking again.
+
+“I apologize for not being in contact sooner,” he said. “I have been rather busy, but I planned to speak with you again as soon as I could. Unfortunately, Aya’Rhun is not yet unsealed, so I’m afraid your magic will have to wait. The moment she is available, though, I will ask her.”
+
+“That’s alright,” said Elise.
+
+“In the meantime, did you need something?” he asked. “I’d be happy to help in any way I can. Oh, and this is my brother-in-arms, Quel’Tyral of Khavar, otherwise known as the Hunter. He was released from his seal shortly after I was. Tyral, this is Elise, the young fey who freed me.”
+
+“Nice to meet you, Quel’Tyral,” said Elise.
+
+“Yes, it is nice to meet you as well,” said the other man.
+
+“So, what did you need?” asked Quel’Khulan.
+
+“I’m… honestly not sure,” said Elise. “Irylax just sent me here without any explanation. Do you know her?”
+
+“Yes, she is a… friend. She contacted me shortly after you left, and we spoke for a bit and formed a… mutual bond.”
+
+“Khulan is bad at subtlety,” said Tyral. “But we unfortunately can’t share any further details.”
+
+“I see,” said Elise, a few possibilities coming to mind. “Well, I don’t think I’m here because of anything related to that.”
+
+“That’s good, then,” said Tyral. “Then we should be able to speak freely. Do you have any guesses about why she would have sent you to us?”
+
+“Maybe?” said Elise. “It’s still a bit strange, though. When she sent me to you, we were talking about a fellow monster that I found. I wanted to make sure she was cared for, and not in any danger while being taught how to speak and act, and she can’t stay where she is now. I was hoping I could bring her back to the house that I share with Irylax, but she sent me to you instead.”
+
+“A young monster?” asked Khulan, stroking his beard with a large, greasy hand.
+
+“I think I understand,” said Tyral. “We can care for her, if you’d like.”
+
+“Really?”
+
+“Yes, it shouldn’t be a problem,” said Khulan. “A new face should liven things up. Though we have yet to master this Common language of the people here.”
+
+“Charlotte has {Tongues}, so as long as she learns to speak any language, she should be fine,” Elise replied. Then, she elaborated when she saw their confusion. “{Tongues} is a Skill granted by the System that automatically translates between languages. It’s how I can speak with you despite not knowing whatever language it is you’re speaking right now.”
+
+“Ah, right,” said Khulan. “I believe that–”
+
+“The Spy,” interrupted Tyral.
+
+“Yes, the Spy mentioned something like that to us,” continued Khulan. “Good catch, Tyral. I was about to say their name.”
+
+“I know,” said Tyral before turning to Elise. “Anyway, if you have a young monster you need taught, we’d be happy to help. I am actually a monster myself, so I am more than capable of providing whatever assistance she may need.”
+
+“Oh!” said Elise.
+
+“And Tyral is very intelligent,” added Khulan. “Much more than me. He will make an excellent teacher. And trustworthy too. I would stake my life on it.”
+
+“And I would stake mine on keeping my word,” said Tyral.
+
+Elise’s mind raced as she worked through the sudden new option presented to her. Despite having only spoken to Quel’Khulan for an hour total, she trusted him more than Freddy, and she trusted what he would teach her more than Oberon. She wasn’t ready to entrust Charlotte’s life to the man and his companion, but she wasn’t against the idea either.
+
+“I’ll need some assurances,” she said. “It’s not that I don’t trust you, but I don’t want to just send her off without them.”
+
+“Of course,” said Tyral. “I will gladly sign some sort of agreement if necessary. Actually, you are a fey, yes? We could come to an agreement now, if you’d like. Though we are quite far away at the moment, so I’m not sure how–”
+
+“I will handle the transportation,” Irylax’s voice suddenly said.
+
+“Well, there you have it,” said Tyral. “Now, what kind of assurances did you want, exactly?”
+
+Elise listed her demands out, and the other two agreed instantly without any pushback. In fact, they even suggested further conditions to put Elise’s mind even further at ease. They guaranteed not only that Charlotte would be safe and learn language and behavior, but they would also teach her things like soul meditation, and aether and mana use to the best of their abilities. They invited Elise to join for that last part, but Irylax had chimed in again, saying that she had that handled, and that they would get there eventually. Elise was a bit disappointed, but both of the ancient men seemed to defer to her, so she had no choice but to accept.
+
+In the end, they came to an agreement that favored Elise heavily that was then sealed with {Fey Bargaining}. Irylax offered to take Charlotte right then and there, but Elise turned that offer down, saying she would rather at least give the other monster some warning instead of ripping her away. She would spend the next few days in the Dungeon with her, and then hopefully have a proper goodbye before sending her away. If possible, she would have also liked to teach Charlotte enough language to at least partially explain what was going on. Part of her conditions was that she would get to visit and talk with Charlotte whenever she wanted, so it wasn’t going to be a permanent parting, but she still didn’t want to just end their time together so suddenly without any warning.
+
+With everything settled, she exited her dreamwalking state, returning to reality, and when she opened her eyes, she found that Charlotte had fallen asleep. She was leaning forward precariously, her arms dangling in front of her with a long glob of drool hanging from her mouth. It was cute, though the fact that her drool had melted a small hole in the floor made it also slightly concerning.
+
+“Charlotte,” said Elise softly.
+
+Charlotte immediately snapped awake, flinging droplets of acidic drool that Elise had to erect a hasty {Mana Shield} to block. She looked around for a few seconds, then back at Elise before putting her hands on her hips.
+
+“Meditate!” she said proudly.
+
+“Yes, you did well,” said Elise, smiling. “Now, do you want to go on an adventure?”
+
+“Venture?”
+
+“Yes, an adventure,” said Elise. “Follow me.”
+
+Elise stood up and took a moment to stretch her arms—a motion Charlotte mimicked—then summoned her wings and flew back out of the lair and into the main chamber. Charlotte followed, asking questions in extremely broken English until Elise was able to get the right ideas across about what an “adventure” was. After that, Charlotte was all in, excitedly flying ahead, only to have to double back whenever she went down the wrong path.
+
+While the night hadn’t started quite how Elise envisioned, she still remembered the route she planned to take to get down to the Platinum areas and earn her Platinum passes, and had made sure to thoroughly memorize it. She also made sure that her route included a detour to check on Charlotte, so she knew where to go from Charlotte’s lair to get back on track.
+
+From the lair, it only took a few minutes to find their first monsters. Charlotte actually noticed them first, though Elise wasn’t entirely sure how. They were flying, forward, then suddenly, Charlotte stopped, and held out her arm to stop Elise as well.
+
+“What is it?” asked Elise.
+
+“Not friends,” said Charlotte.
+
+“Not friends?” asked Elise. “Enemies? Monsters?”
+
+“Not friends,” said Charlotte. “Charlotte help. Friends help each other.”
+
+Before Elise could ask what she meant by that, Charlotte flew up to the ceiling and activated some kind of camouflage Skill before racing forward. Elise activated {Don’t Look At Me, Peasants!}, following close behind, and a few seconds later, she noticed the monsters as well. She debated helping, but decided to hold back, wanting to see what Charlotte was capable of. And she was glad she did.
+
+Soon, she and Charlotte arrived at a small group of Mithril Crawlers marching through the tunnel. There were only four of them, so it wasn’t a huge threat, but the look on Charlotte’s face was as serious as if she was preparing to sacrifice herself against an endless horde.
+
+Charlotte stopped a few dozen feet in front of the Crawlers, sticking a web to the ceiling above her, and as soon as the last one passed beneath her, she pushed off with her legs, rocketing downward. She moved so quickly Elise almost didn’t catch it, landing directly on the Mithril Crawler’s back with her spider body’s fangs around its neck. There was a loud sizzle, then the Crawler’s head popped off in Charlotte’s hands, its neck melted clean through by her acid. Before the other Crawlers could turn around, Charlotte was already back on the roof and attaching the dead crawler’s head to her back with a thin web net.
+
+The entire assassination had taken no more than a quarter second, and left the other three Mithril Crawlers confused and angry, but unable to do anything. Ten seconds later, a second Crawler died, and twenty seconds after that, they were all dead, and Charlotte had collected all of their heads. She was fastening the last one to the back of her spider half when Elise decided to reveal herself and call out.
+
+“Charlotte!”
+
+“Elise!” said Charlotte, beaming as she launched herself toward the ground again.
+
+In an instant, she was standing in front of Elise, and reaching back to grab the heads.
+
+“Gift!” she said. “Friends!”
+
+“Thank you,” said Elise, accepting it and quickly storing it away.
+
+As she took it, Charlotte reached back for a second head. Elise prepared to try to turn it down, but evidently, this head was not for her. It was for Charlotte.
+
+The spider girl pressed the bottom of the head to her stomach, then dug her fingers into it, melting through the metallic shell until her fingers were in almost down to the palm. Then, she pried outward, bending the metallic shell and exposing the meat within. She raised the opened head to her mouth, and with a spine-tingling slurp, started devouring the meat and juices within.
+
+Elise watched silently with her mouth hanging half-open as Charlotte made short work of the insides of the head. Then, she walked over to the main bodies, drawing a line with her hands across the back of the shell. The shell sizzled beneath her fingers, acid melting right through, and soon, she had the main Crawler’s body cracked open as well. With it open, her spider’s maw below her human torso started eating, and she grabbed another head from her back to eat with her human mouth. She offered the final head to Elise, but Elise turned it down, instead continuing to watch the fabulously messy feast.
+
+When Charlotte finished, her once-nice shirt was covered in insect guts, and it also had a few holes in it. Some were from her own acidic saliva, and others were from the jagged metal of the crawlers tearing into it. She did not seem to notice until Elise pointed it out though, at which point she gasped in horror.
+
+“Shirt!” she exclaimed. “Shirt hurt! Shirt hurt! Shirt healer!”
+
+“I’m sorry, I can’t heal the shirt,” said Elise.
+
+“Shirt healer!” Charlotte begged. “Shirt healer!”
+
+“I can’t,” said Elise. “We’ll just have to get you a new shirt.”
+
+Tears welled up in Charlotte’s eyes, and Elise was forced to spend the next ten minutes consoling her, and coaxing her out of the shirt to keep it from getting damaged any further. Convincing her that they would not meet any more friends in the next few days, and Elise was not sure that she actually succeeded, or if Charlotte had come to some kind of misunderstanding, but she managed to calm Charlotte down and take the shirt for safekeeping.
+
+After the shirt hurt incident, the rest of the journey was somewhat calmer. Elise taught Charlotte whatever she could. They made a surprising amount of progress, something that Elise attributed to a combination of Charlotte having high Intelligence (she assumed) and Elise’s own method of using {Suggest} to help give meaning to words. Charlotte was still far from being fluent, but she was at least able to ask questions and somewhat understand the answers.
+
+Elise also taught her some table manners, showing her how to eat politely and cleanly to keep her future shirts safe. Elise’s question about how Charlotte had been so clean when they first met was answered when she saw the Crawler residue slowly disappearing as monster corpses tended to do in high mana zones. Elise had hoped that Charlotte actually had some sense of hygiene, but unfortunately, Elise had to try to teach her that too.
+
+Quel’Khulan and Quel’Tyral have their work cut out for them…
+
+On the final day, they finally stopped as they reached the homestretch of the journey. Just another hour of travel, and Elise would be at the Platinum entrance she had been aiming for. Obviously, Charlotte couldn’t come with her, though, so they stopped to meditate again, and Elise contacted Irylax, saying both that Charlotte was ready to go, and asking Irylax to bring a new shirt. Only a moment after Elise asked, the dreamwalking connection was cut, and when she returned to her body and opened her eyes, Irylax was already standing there, holding out a shirt toward Charlotte.
+
+“F– Friend?” asked Charlotte nervously.
+
+“Yes, she’s a friend,” said Elise. “Charlotte, this is Irylax. Irylax, Charlotte.”
+
+“Hello, Irylax,” said Charlotte. “I am Charlotte.”
+
+“Hello,” said Irylax. “I brought a shirt—”
+
+“A shirt!” exclaimed Charlotte, seizing it. “Shirt means friends!”
+
+She struggled to put it on for a few seconds until Irylax sighed and sent some mana over to help speed the process up. Once the shirt was on, Charlotte smiled widely, then lunged forward to give Irylax a hug, something that the dragon reluctantly accepted.
+
+“Charlotte and Irylax are friends,” said Charlotte. “Charlotte has shirt. Irylax has shirt. Shirt means friends!”
+
+“Yes, yes,” said Irylax, gently pushing Charlotte away. “Now, let’s get this over with. Rabbit, come here.”
+
+Elise stepped forward and as soon as she was within arms reach, Irylax reached out and touched her, and a moment later, the three of them were standing on a hill in the sun. Charlotte hissed, shrinking away, but Irylax didn’t pay any attention, instead turning to face a cabin at the base of the hill where two men were emerging.
+
+“It’s alright, Charlotte,” said Elise. “That’s the sun.”
+
+“Sun?” asked Charlotte, eyes tightly shut.
+
+“Yes. That means we’re out of the caves. We’re free.”
+
+“Free?” asked Charlotte, cracking one eye open before quickly shutting it.
+
+“Not trapped anymore,” said Elise.
+
+“Not trapped anymore…”
+
+Charlotte slowly worked on opening her eyes, getting used to the sudden light after a life in a dark cave. As she did, Irylax shared a quick conversation with Quel’Khulan and Quel’Tyral before bringing them over to meet Elise and Charlotte.
+
+“Charlotte?” said Quel’Tyral.
+
+Charlotte turned to face him, still squinting.
+
+“Friend?” she asked.
+
+“Yes, I’m your new friend,” he said.
+
+“Remember when I told you about new friends?” asked Elise. “These are your new friends.”
+
+“New friends,” said Charlotte, smiling, but still squinting.
+
+“And I have to go now.”
+
+“Go?” asked Charlotte, turning to Elise.
+
+“Yes.”
+
+“How long?”
+
+“Long time,” said Elise.
+
+Charlotte pouted. “Why?”
+
+“Well…” Elise started, not sure how to explain in a way she would be understood.
+
+“May I?” asked Quel’Tyral, holding his hand out. “I should be able to explain things.”
+
+“Sure?” said Elise.
+
+Tyral reached out to Charlotte, gently touching her on the temple, and Elise sensed a very fast, very complicated exchange of aether between the two. When he finished, Charlotte smiled.
+
+“Charlotte understands,” said Charlotte. “Charlotte and Elise friends?”
+
+“Of course.”
+
+“Charlotte see Elise later?”
+
+“Yes,” said Elise. “I’ll visit whenever I can.”
+
+“Okay.”
+
+With a strange calmness, Charlotte, smiled, nodded, then turned to Tyral.
+
+“Charlotte is ready.”
+
+“Lovely,” said Tyral, smiling back.
+
+“What did you do?” asked Elise with {Whisper}.
+
+“I shared some of my memories of being a monster, and my struggles to make friends. It’s a bit complicated, but it’s a standard technique to use on newly awakened monsters. I can show you how to do it yourself later, if you’d like.”
+
+“Yes, please.”
+
+Quel’Tyral led Charlotte away, chatting with her, which left Elise alone with Quel’Khulan and Irylax. Quel’Khulan started to say something, but was almost immediately silenced by Irylax.
+
+“You two talking can only go badly right now,” said Irylax. “We’re leaving. Good luck, Celestial.”
+
+Without waiting for a response, Irylax grabbed Elise and the two teleported back to the tunnels below Jelor City.
+
+“Wait, I couldn’t even say goodbye to him?” asked Elise.
+
+“It’s his fault,” said Irylax. “He has all the subtlety of a street prostitute, and you two have already shared far too much. The less communication you two have, the better. You’ll understand soon. For now, just worry about yourself.”
+
+Before Elise could say anything Irylax vanished. Elise stomped her foot in frustration, but there was really nothing she could do. Plus, Irylax was probably right, and Elise knew it. That didn’t make it any less annoying, but it made it easier to accept.
+
+Not long after, she emerged from the Dungeon in the Platinum area, earning her Platinum Dungeon Pass. It didn’t feel like much of an accomplishment, since Charlotte had done most of the work, but she was glad to have it. And with the Charlotte business largely taken care of, that was one more thing off her mind, which gave her a little more mental space to focus on things of more immediate importance. Like school. The end of the semester was approaching, and with it, the Dungeon Competition, and Elise’s team was ramping up their training so they could make a run for the top of the rookie team leaderboard.

@@ -1,0 +1,183 @@
+---
+id: 8becd427-c556-515f-b7c6-7558ddbbaf60
+page-type-slug: story-chapter-royal-road
+title: "125: A New Quest"
+slug: 0125-125-a-new-quest
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 125
+ownLength: 1931
+unit: words
+publishedAt: 2026-03-13
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3147748/125-a-new-quest"
+royalRoadId: "3147748"
+---
+
+Everything around Chloe and Maeve had turned into a blank void. No walls, no floor, no ceiling. Just a white nothingness that kept stretching on forever, almost like a game that failed to load a certain area. But Chloe didn’t care about that part right now.
+
+The more Maeve spoke, the more Chloe’s memories clicked back into place. This wasn’t her life anymore. Everything she’d just lived through, the guns, the stairs, the bodies, the moment she found Mom… it had been fragments of Maeve's memories, a past that already happened.
+
+Chloe felt sick as she understood it, because it meant she hadn’t actually saved her mom. She hadn’t actually made it in time. She’d just stepped into a story that was already written, and for a second she’d been tricked into thinking she could change it.
+
+Except there was a difference in how things played out. In the real version of it, Maeve left with Chloe, they escaped and never reached the top floor, and they never found Mom in time.
+
+Chloe’s vision had changed something. It let Chloe push Maeve into making a different choice, one where they both came to rescue Mom. But it still wasn’t real, and just a “what if."
+
+“So where’s Mom now?” She asked.
+
+“She is in Tartarus, Miss Chloe, it is place between worlds. You should ask your friend Sierra for details.”
+
+“Which one?”
+
+“The non-angel one.”
+
+“Oh, you mean Wolfie. Got it.”
+
+"Yes, that girl has been through quite a lot, you know? "
+
+“I get that, but what was the point of all this? You said I didn’t do it for nothing, but it kinda feels like nothing. I didn’t save Mom. I didn’t fix anything in the end."
+
+“You did more than you think, and you will soon return to the real world, with significant benefits.”
+
+“Benefits? Like what, a coupon? Trauma points? A fancy notification?”
+
+Maeve’s lips twitched, like she almost wanted to laugh, but the moment didn’t last. Chloe noticed how Maeve’s outline kept thinning at the edges, and how parts of her wings had already vanished.
+
+“Maeve… you’re fading more.” Chloe said, frowning.
+
+Maeve glanced down at herself, then back up at Chloe. “Yes, I do not have much time left."
+
+Chloe still had so many questions, like the whole being a zombie thing, the stupid dungeon, who Z really was, as well as what Mom was actually doing all this time.
+
+But one look at Maeve was enough to make Chloe stop. Maeve was fading more by the second, and Chloe didn’t want to waste what little time they had left on a long list of questions that probably didn’t have simple answers anyway.
+
+Instead, Chloe grabbed Maeve and hugged her tight, like she could hold her in place through sheer stubbornness. Maeve’s arms circled her gently, careful and warm, even as her body kept fading at the edges. “It will be alright, as I'll be with Lady Ishgria soon."
+
+Chloe’s throat burned, and she shook her head hard, squeezing tighter. “But I want to see Mom, and I want to see you too. I… don’t want you to go.”
+
+Maeve patted Chloe’s back slowly. "If you do things right, you can absolutely see both myself and Lady Ishgria again."
+
+Chloe pulled back just enough to look at her. “But how?”
+
+“You will find us again, just not here.”
+
+Chloe sniffed, wiping her face with the back of her hand even though it didn’t really help. “Okay, then tell me how."
+
+“When you return to the real world, you must find the other Sages of the Wilds. Each one of us are those who served Lady Ishgria in the past."
+
+“So like… Mom’s ancient besties?”
+
+Maeve actually smiled a little at that. “In your words, yes.”
+
+“Okay, in that case, I've actually already met one of this sages aside from you.”
+
+“Which one?”
+
+“Morikhan,” Chloe said. “Except he’s not a pup anymore. He’s a massive wolf now, like, stomp-a-house massive. He’s still kinda cute though."
+
+“Good, if you found him, then you are closer than I expected.”
+
+“That’s… good, right?”
+
+“Yes, it means you only have one Sage left to find. After that, you will be ready to go to Tartarus, where I and your Mother will be."
+
+“So who’s the last Sage anyway? Just tell me who they are so I can go grab them and do whatever I'm supposed to do.”
+
+Maeve’s wings flickered faintly, entirely see-through now. "The last Sage of the Wilds is a man named Baal, and he is the head of the Thieves’ Guild.”
+
+"Hmm, it’s been a while since I talked to anyone from the Thieves’ Guild actually. But I don't think I ever found out who their big boss was."
+
+Maeve’s mouth curved slightly, amused. “You will manage.”
+
+Chloe scratched the back of her head, trying to sound more confident than she felt. “I mean, finding the big boss shouldn’t be too hard, I'll just start asking around."
+
+“He will probably be in Ishgria for a start,” Maeve said gently, “but you should look wherever you can.”
+
+“Okay, so I find this Baal guy, and then I go to Tartarus.”
+
+“Exactly."
+
+But even as she spoke, Maeve’s fading got worse. By now, even her eyes started to lose their sharpness around the edges.
+
+Chloe’s throat tightened all over again. “Maeve…”
+
+Maeve reached out and touched Chloe’s cheek one last time. “Good luck, Miss Chloe, and please… do not lose yourself.”
+
+Chloe nodded. “I won’t."
+
+Maeve’s smile turned soft and sad, like she believed Chloe and also worried anyway. Then she faded completely, her shape dissolving into the blank nothing around them until she was gone.
+
+Chloe stood there for a beat, alone in the void, staring at the empty space Maeve had left behind. Then her own body started to fade too. It began at her fingers, like she was turning into smoke and light, peeling away in thin layers. She guessed that this was the part where she had to go back too.
+
+Her vision flickered, and right before the white void swallowed her completely, some notifications appeared in the air in front of her.
+
+[Skill Upgraded: Heresy III >> Heresy VI]
+
+[New Skill Acquired: Prescience I]
+
+[New Trait Acquired: Scion of Ishgria (???)]
+
+***
+
+Iris’s hotel room was exactly what she deserved. The carpets were beyond soft, the furniture was all exquisite, and the window view framed the city like it existed purely to entertain her. She crossed the room like she owned it, because honestly, she did. If not by title, then by sheer competence.
+
+Tomorrow, the auction will begin. The little rats and nobles and collectors would gather with their pockets full of gold and their heads full of delusion, all smiling like they weren’t about to tear each other apart over shiny objects and whispered promises. Iris adored it.
+
+She paused at the table near the window where a bottle of wine waited, already opened. Of course it was. This place knew how to treat a guest of taste. She lifted the bottle, inspected the color, then poured herself a glass with a slow, steady hand. The deep red liquid swirled, catching the light, smooth as silk.
+
+She didn’t rush to drink it. Instead, she held the glass at just the right angle and let herself enjoy the moment.
+
+Then she felt it. A presence behind her, not hostile, but familiar enough that her spine tightened anyway.
+
+Iris simply took another slow sip, letting the rich taste settle on her tongue, and spoke like she’d been expecting him all along. “How are you doing, Boss?”
+
+A man’s voice answered from behind her. "Ishgria's daughter will return soon. I want you to help her."
+
+Iris finally turned around. Standing near the bed was a man who looked like he’d crawled out of an alley and decided to haunt expensive places out of spite. His clothes were worn and mismatched, his boots scuffed, and he had his usual thick beard covering most of his face.
+
+He didn’t belong in this room. And in a way, that meant the man belonged perfectly.
+
+"You truly don’t need to wear that appearance here,” Iris said. “This hotel would’ve welcomed you in any form you pleased.”
+
+“I have my reasons,” he said simply, then looked at her like. “Do you understand your assignment?”
+
+“Yes, I will help Chloe as best as I can. But what will you do, Boss?”
+
+The man's eyes didn’t change, but something behind them did. Like there were plans layered under plans, and he was already looking ten steps ahead. “She will try to find me soon, so I want that meeting to happen in the right place, with the right items already in motion.”
+
+The word items made Iris’s stomach sink slightly. Not because she feared the task, but because she knew what it meant.
+
+"And once I have these items?"
+
+"Return to Ishgria at once, and head to the capital. Preferably with Chloe with you.'
+
+The man reached into his coat and pulled out a folded note. He held it out, and Iris accepted it carefully.
+
+“Get these during the auction, I've adjusted some of the listings due to developing circumstances."
+
+Iris unfolded the note and scanned it quickly. Her eyes moved with practiced speed, taking in each line, each name.
+
+Then, she refolded the note and placed it neatly on the table, beside her wine. "I understand. Will you be leaving now?”
+
+Baal nodded. “Yes. I am preparing for something big.”
+
+Something big. Iris didn’t like the way that sounded. She didn’t like it because she could feel the shape of the danger behind those words, and it wasn’t small.
+
+She took another sip of wine, slower this time, using the motion to hide her thoughts. “Are we mobilizing the entire Thieves’ Guild soon?”
+
+“I hope we will not have to, but Sol continues to make things difficult. Difficult enough that I must intervene personally.” The man said.
+
+Iris’s fingers flexed slightly around her glass, a faint irritation curling in her chest. Sol had always been a thorn to the Thieves' Guild, and to the world at large. The fact that they're growing more bold was concerning.
+
+Then smoke curled up from the floor, dark and thin, swallowing the man’s boots first before rising up to consume his body. But before he disappeared completely, his voice cut through the haze. “One last thing. Chloe knows more than she did before. Consider telling her more.”
+
+And after saying that, he was gone. The smoke dissipated quickly, leaving Iris alone in the hotel room again.
+
+Iris exhaled slowly, though she didn’t let it look like a sigh. She lifted her wine glass again and took a sip, letting the warmth settle in her throat.
+
+Her free hand rose to her face, fingers brushing her mask. The only thing keeping the purple fog from spilling out between her lips.
+
+Iris’s gaze drifted to the note on the table, then to the wide window beyond it. Chloe was coming, and she couldn’t help but wonder if the zombie girl would even remember who she really was.
+
+But regardless, Ishgria had done a lot for every Guildmaster of the Thieves’ Guild. Helping her daughter was a no-brainer. Chloe had been… certainly unstable before. But if she’d truly regained her true self, then it was time for Iris to change how she carried herself.
+
+Maybe it was time to tell Chloe some more truths that the girl deserved to know. At least, to whatever extent that was possible.

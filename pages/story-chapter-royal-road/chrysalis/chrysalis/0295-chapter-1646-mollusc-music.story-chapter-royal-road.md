@@ -1,0 +1,105 @@
+---
+id: 9447df2c-1a92-5d9d-b31d-1a970b759ab2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1646 - Mollusc Music"
+slug: 0295-chapter-1646-mollusc-music
+partOf: chrysalis
+position: 295
+ownLength: 1316
+unit: words
+ownProgress: 1316
+publishedAt: 2025-09-16
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2603691/chapter-1646-mollusc-music"
+royalRoadId: "2603691"
+markedReadAt: "2026-06-29T19:53:15.096Z"
+---
+
+The contamination inside Anthony had spread too far and too fast. Without the ant himself to hold back the tide, there was only so much the golgari and healers could do. Working with mana inside the body of another was so much harder than manipulating it in almost any other context.
+
+The triad maintained their connection, pooling their three minds into one, yet they felt they were barely having an effect.
+
+The mana of Theorazzn was absurdly potent, truly the work of an Ancient. Containing it, breaking it down, preventing it from spreading, was a monumental task, and frankly, it was impressive Anthony had held on as long as he had. The triad focused, bending their minds to the utmost to try and ensure the giant ant would survive, as did the hundreds of healers pressed against his carapace.
+
+The evolution process had begun, Anthony had been dormant for almost two hours now, and the evidence was there to see for those pushing their consciousness within his body. The triad had to focus to avoid being too distracted, as none of the three had ever seen anything like this. Unfathomable energies swirled within that massive carapace, only just starting to take shape. New organs were forming, tissues being created, more layers of exo-skeleton being put together. Torrents of power flowed from within the core, spreading out to every inch of the ant’s body.
+
+And already, they were starting to suck in the poison, drawing in the power of Theorazzn and using it to shape themselves, yet the process was just too slow.
+
+Is he going to make it?
+
+The unity of the triad wobbled as doubts started to bubble up from within. If the three minds weren’t in harmony, they could fall apart, which they couldn’t afford to do. A fraction of a second later, they stabilised, their collective resolve firming.
+
+He IS going to make it!
+
+They just needed to hold on a little longer. Vortices of power were taking shape within Anthony, sucking in the energy they needed to take on a new form. With every passing second, those swirling masses of energy grew stronger, pulled in more and more power. In ten, perhaps twelve hours, they would be consuming the energy of Theorazzn faster than it could replicate itself. A day or so after that, they would probably be eating it so quickly that the healers and golgari wouldn’t even be needed.
+
+The finish line was there, they just had to make it, no matter how impossible it seemed right now.
+
+When the singing started, the triad were so focused on their work they didn’t react at first. It was external stimulus, a distraction, background noise that they and the other healers couldn’t afford to pay attention to. They had a task, and it required every drop of focus and concentration they could muster.
+
+When the change started, they certainly took notice. A tiny shift, an ever-so-slight wisp of energy, yet they saw it in an instant, because what they sensed simply could not be.
+
+The energy of Theorazzn reacted. It changed. It never did that, it only consumed. The triad reeled back in shock, their harmony shattering in an instant.
+
+“What in the name of the Worm was that?!” Granin bellowed.
+
+“I-I don’t know,” Torrina replied, clutching at her temple.
+
+“Did I… was that what I think it was?” Corun muttered, shaking his head as the forceful separation of their minds rattled him.
+
+Granin was the first to recover, glaring about the chamber, desperate to understand what the disturbance could possibly be. Then his eyes landed on the snails, dozens of them, with glowing blue skin and shining golden eyes, replete with dignified moustaches, singing in unison a song so beautiful it brought tears to his eyes.
+
+“What the heck is this?!” he bellowed, eyes boggling from within his stone skin.
+
+A mind pushed toward his own, and he allowed the connection, which rapidly snapped into place.
+
+[Keep your voice down! You’ll disturb the hatchlings.]
+
+Granin looked around until he saw a Brood Tender walking towards him. He dipped his head in respect, knowing just how highly the Colony held this particular caste of ants. Even so, it was difficult to ignore what was happening in front of him.
+
+[Hatchlings?] he said, full of confusion.
+
+They certainly didn’t look like ants….
+
+[They are chal hatchlings. We found Krath eggs that had been cleansed by the purified mana. These snails hatched out of them, and the Colony has taken them in,] another Brood Tender stated, joining the conversation. [For some reason, they were desperate to come here, so we let them out. We didn’t know they wanted to sing to the Eldest… for some reason.]
+
+There was a lot there for Granin to process. First of all… chal?! Secondly… the Krath were fallen chal?!?! Thirdly… this was the legendary song of the chal?!?!?!
+
+[They aren’t just singing to him,] Granin said, turning back to Anthony and slapping a hand on his carapace once more.
+
+He focused inside the ant once more, pushing his mind as close to the toxic mana as he dared, fearing it would leap through his thoughts and into his mind. It was faint, just a breath, but the mana was reacting… changing.
+
+[They’re curing him,] he breathed.
+
+[Curing him? What do you mean?]
+
+Granin shook his head, hardly able to believe what he was seeing.
+
+[They’re doing something to the mana infecting Anthony… the Eldest. That shouldn’t be possible. It should be a million miles away from possible. That’s the mana of an Ancient!]
+
+He looked again. Even the mana that had been pulled into Anthony’s newly forming organs was being affected. Slowly at first, but with growing momentum, the snails were somehow transforming the taint, turning it into… something else. Being able to manipulate the mana inside another creature like this was… absurd… but doing it to the poison of Theorazzn? This was a miracle.
+
+The little snails didn’t seem to notice anything going on around them, they simply continued to sing in unison, a wordless song of peerless beauty that rang through the air and reached deep into the heart of the monster in front of them.
+
+[This is a good thing, isn’t it?] the Brood Tender asked. [Is the Eldest still in danger? Do you… have any idea how much longer this is going to take?]
+
+Granin shook his head dazed, his thoughts spinning and he tried to consider the implications.
+
+[The Eldest is still in danger,] he said, [but not nearly as much as before. As for how long? A long time, hours, at least. Possibly days.]
+
+[Days?] the Tender exclaimed, dismayed, but Granin was no longer paying attention.
+
+They were doing this mid-evolution. Anthony was busy consuming the mana of Theorazzn, and several of his new organs would make use of the unique properties that energy contained, but that mana was in the process of being changed. That would have an impact on the organs; there was no way they could turn out the same as they did before. The stuff they were being made from was changing, after all.
+
+Granin thought of what the final outcome would be, but couldn’t process it.
+
+However, a flicker of hope began to burn within his chest. He had been disappointed at first, worried that Anthony would be permanently weakened by being forced onto this path.
+
+Now? This could prove to be a blessing in disguise. Could he gain the benefits of Theorazzn’s ‘blessing’ with none of the downsides?
+
+“What’s happening?” Torrina demanded. “Is everything alright? Shouldn’t we get back to work?”
+
+Granin planted his hands on his hips and stared.
+
+“Give me a minute,” he said. “You should take a second to soak this in as well. We may well be witnessing the birth of something truly, truly unique.”
+
+With a little luck, the twentieth Ancient.

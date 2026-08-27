@@ -1,0 +1,207 @@
+---
+id: add1c378-1859-5f67-94d9-8ccc89eb443e
+page-type-slug: story-chapter-royal-road
+title: "152 - Heist Prep"
+slug: 0155-152-heist-prep
+partOf: cat-girl-evolution
+position: 155
+ownLength: 2958
+unit: words
+publishedAt: 2026-08-21
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3842087/152-heist-prep"
+royalRoadId: "3842087"
+---
+
+“So,” I say, mouth full of steak. “Obviously, the first thing we need to do is find out where the frogs actually are.”
+
+“Right,” says Lauren. “So we need to scout around. I’ll be the best at that. Yona…”
+
+“I’m great at scouting.”
+
+“You don’t have any stealth Skills, though.”
+
+“But I’ve got the Stealthy Trait.”
+
+Lauren blinks. “What? How? Since when?”
+
+“Uhhhhh…”
+
+“You got it at your last Evolution.”
+
+“Since my last Evolution.”
+
+“How many Traits do you have?”
+
+“My Royal Status Window shows 12, but I think a couple of them are more bundles. Gluttony has like 10 other Traits inside it, and Gastronome has a couple too.”
+
+“Including nested Traits, you have 28.”
+
+“Abby says I have 28 total.”
+
+“That is so not fair,” says Lauren. “I have five.”
+
+“We have six,” says A.
+
+“And that’s only because we were born with two,” says B.
+
+“What was your second Trait?” I ask.
+
+“Twin Telepathy,” they say simultaneously.
+
+“You’re lying.”
+
+“Why would we lie about that?” they ask, still in sync.
+
+“Because it would be funny.”
+
+“It would,” they say. “But it’s also true.”
+
+“Nuh uh.”
+
+“Yuh huh.”
+
+“Okay, show me your Status Windows, then.”
+
+“That’s private information.”
+
+“I showed you mine.”
+
+“You had no choice.”
+
+“I had a choice. I could have just run away, but I decided to trust you guys instead. But I guess you don’t trust me. But that’s fine, I guess. I never really expected trust from you guys, despite living with you for months and even sometimes sharing my food.”
+
+I raise a hand to put more meat in my mouth and also wipe a fake tear from my eye. The twins both let out a small puff of air through their nose in their version of a laugh.
+
+“Yeah, we were lying,” says A.
+
+“It’s actually called Synchronicity,” says B.
+
+“It gives us a general sense of what the other one is thinking and feeling at the time.”
+
+“It’s not very powerful, but it makes it very easy for us to work together, and hard for misunderstandings to crop up.”
+
+“Actually, I’ve been wondering about that for a little while,” I say, shifting myself so I’m facing them more directly. “Do you guys ever argue or fight? ‘Cause I know my brother and I argued and fought all the time, but I’ve never even seen you guys disagree on something.”
+
+“When we disagree, we talk it out telepathically,” says A.
+
+“And we haven’t fought in a while.”
+
+“Not since we were picking our Classes.”
+
+“But we compete when we’re doing artificery work sometimes.”
+
+“Huh,” I say. “I guess that makes sense.”
+
+“Anyway,” says Lauren. “Back to the topic at hand, we need to scout, and–”
+
+“Wait, hold on,” I say. “Chad hasn’t said how many Traits he has.”
+
+“Well, he doesn’t need to if he doesn’t want to,” says Lauren.
+
+“Yeah, but now I’m curious,” I say. “Chad, how many Traits do you have?”
+
+“…Eight.”
+
+“Eight?!” says Lauren, turning to him. “You were born with four?”
+
+“…I’d rather not talk about it.”
+
+“This isn’t fair,” says Lauren grumpily. “How come I’m the only normal one here?”
+
+“Maybe if you keep spending time with me, you’ll pick up Gluttony too,” I say.
+
+“I’m not sure I want it.”
+
+“Are you sure?” I ask, stabbing my fork into a piece of cheese, and then tossing the whole thing into my mouth and chewing slowly while looking her in the eyes.
+
+“…Does that even taste good?” she asks.
+
+“Yeah, pretty good,” I say, mouth still full of metal and cheese. “One of my Gluttony Traits lets me enjoy just about anything, and this is some pretty high quality metal.”
+
+Lauren watches me chew for a few more seconds, then shakes her head.
+
+“Anyway, Stealthy won’t be good enough if they have any kind of magical detection. It’s great for going unnoticed in urban settings, and it helps you intuitively understand how to use stealth Skills better, but if you don’t have any real stealth Skills, and they have any real defenses, it won’t be enough.”
+
+“Can’t I just use that stuff that the twins gave me for my Evolution?”
+
+“Can she?” asks Lauren, turning to the twins, who shake their heads.
+
+“Those devices were designed for when Yona was much weaker, and they’re designed for areas, not people.”
+
+“They won’t cover her completely, and they’ll get finicky if they are on the move.”
+
+“So Yona, you’re off of scouting duty.”
+
+“Awwww…”
+
+“We could ask the paladins if they have any information,” suggests A.
+
+“If we say we want to take on some Quests to earn some money, and that we want to know which areas to avoid, they might give us a map,” says B.
+
+“Good idea,” says Lauren. “We should do that before I go out to search for the frogs. And then once we find them, we need a way to catch them all. They’re too small and fragile for wide area spells. We’d destroy the meat. We need to kill them individually with as little damage as possible, we need to do it quickly, so they can’t all run away, and we need to do it quietly, so we don’t draw too much attention. A and B, you two are in charge of figuring that out while I locate the frogs. And Yona and Chad…”
+
+Lauren considers us for a few seconds.
+
+“You two just help the twins. Or maybe take some Quests to maintain our cover or something.”
+
+“Aye-aye, cap’n,” I say, mouth full of something vaguely similar to deep fried pickles.
+
+The conversation continues as the others get into more specifics. I mention that I can Snatch multiple things at once, and the twins talk about making a box that completely locks down space inside. I can grow some extra arms and Snatch all the frogs in rapid succession, then deposit them in the box, and they won’t be able to escape. Killing them can wait until later, but the twins also mention they can come up with a non-invasive method of euthanasia that will leave all the meat intact. It sounds perfect, but the enthusiasm with which they discuss it is mildly worrying.
+
+The box will be made by Chad out of Maligar wood. The twins are capable of working with metals in small quantities, but they don’t have the Skills or the material to make a box that is both big enough, strong enough, and can handle enough mana to be useful for this. Chad can easily do that with all the wood we grabbed from Maligar, so the three of them will be holed up in a rented-out workshop for the next two days while Lauren is gone. Lauren doesn’t seem particularly enthusiastic about Chad spending that long locked up with two beautiful women, and the twins tease her about it a little bit, but she doesn’t make a huge deal out of it.
+
+With all that planned on their end, though, that kinda leaves me with nothing. Not that I mind having nothing to do. I love having nothing to do. But it does feel a little weird to laze around while everyone else is hard at work, so when Lauren suggests I see if I can gather information in cat form or take a Quest or two to earn money, I agree to do one of the two. I mean, I was already going to do the first, just so I can see what kind of free handouts elves give out, but I bet the Quest board in this city is juicy. If all those foods and stuff are so expensive, there’s no way that the Adventurers make so little they can’t afford it. I need to replenish my money anyways.
+
+Once we finish talking, Lauren heads directly for the paladins, who arrived sometime while we talked, and it doesn’t even take a minute before Wesley pulls out a map and starts showing things to her. Lauren pulls out her own map that she bought when we arrived and makes a couple pencil markings on it, based on Wesley’s words, nodding along, and adding her own comments.
+
+They talk for about five minutes before Lauren returns with a doodled-up map marking the approximate edge of Zorg’s Territory, as well as a few other points of interest, both inside and outside of it. It’s a lot more information than we expected, and it feels a little weird that he’s giving it out for free, but Lauren must have made a convincing argument to get it. I couldn’t hear because all the tables in here have privacy enchantments, but whatever it was, it worked.
+
+She also learns that their planned date of attack is around one week from today, giving us plenty of time to pull our heist off and get out of here. With all that new information, we’re able to finalize our plans for the next few days. Lauren will be scouting Zorg’s territory in the places she thinks are most likely to have the frogs, Chad and the twins will be crafting their frog-proof box, and I will be doing “information gathering.”
+
+With that, we finally end our meal and split up for the night. It’s evening, but still early in the evening. The twins say they’re going to start planning out their spatial lock enchantment, while Chad is going to go find a workshop. Lauren decides to just set out for Zorg’s territory immediately, since she is paranoid about wasting time and not pulling the heist off before the paladins attack, and I… take a nap.
+
+When I wake up, it’s around nine in the evening. I spend a few seconds stretching and munching on snacks, then head right out to begin gathering food. I mean information.
+
+I can’t transform at the inn, so I walk for a little while until I’m basically outside the city to do it. The inn is right on the edge of the city, so I thankfully don’t have to walk far. Once I’m reasonably certain no one is watching, I switch to my full cat disguise and return. Cats are a little less common here than they were in the more normal cities we’ve been to, but I still noticed quite a few around while Lauren and I were shopping, so I shouldn’t stand out too much.
+
+It’s a little late to be doing this, and most ordinary people are at the very least done with their meals, if not getting ready for bed, so I immediately make for the Adventurer’s district. The Adventurer’s district in just about any town is usually lively at all hours, since Quests are so irregular, so it’s my best bet for food. And information, probably. Wesley was recruiting Adventurers, right? Maybe I’ll overhear something important while I wander around…
+
+Traveling through this city is kind of weird. Most of the buildings are built along the roots, and the dryad seems to have grown some of her roots specifically to help with the city’s infrastructure, but there’s still a lot of open space that keeps me from traveling down back alleys like I normally would. There kind of aren’t any back alleys, which feels really weird. There are just streets built on wide roots, and between the roots, there’s just giant open pits. Some of the open pits have more roots below, and others just drop straight down into the water at the base of the tree. Either way, going behind or between buildings isn’t really as much of an option as it usually is, so I end up climbing on top of houses a bunch.
+
+I make it to the Adventurer’s district after half an hour or so. It’s not quite as lively as I hoped, but there are still plenty of taverns and restaurants open, and people in armor and robes eating on public benches. I have quite a bit of success begging for scraps from them in the beginning, but I also draw a bit more attention than I intended to. Not that I don’t like when there are dozens of people with Finesse in the tens of thousands trying to pet me, but at some point, it just becomes too much.
+
+I escape from the grasping hands, finding my way into the narrow space between two buildings and running along the backside of the root until I’m out of range. The Adventurers are a little harder to shake off than the average cat-petters, but they also don’t chase too far, so a few minutes later, I’m home free, and ready to try a new angle.
+
+I make a brief circuit around a couple root streets, re-entering the Adventurer’s district from a different angle, ready to look for more snacks, but before I get back to the main square, a delicious scent catches my attention. There are lots of delicious scents all around, especially near the nice restaurants, but there’s something about this one that’s just very… alluring.
+
+I slow down and sniff the air, then start tracking the smell down toward its source, hoping it’s not a restaurant. If it is, that means I’ll have to come back in my normal form and pay for it. I mean, I could also try to steal it, but Lauren and the twins warned me that the nicer restaurants here would have magical defenses to prevent exactly that. Maybe they couldn’t stop my Snatch, but given that this is a city of elves, it’s better to be safe than sorry.
+
+Lucky for me, the scent is not a restaurant. Following it leads me instead to a small garden area right on the edge of the district. I’ve seen a few of these around, and they seem to be kind of like public parks back on Earth. Just areas that someone filled with dirt and grew a bunch of plants in to create a relaxing atmosphere and a pleasant slice of nature in the middle of the city.
+
+I slip in, hiding behind bushes as I make my way toward the center, where the smell seems to be coming from. The source turns out to be a young woman sitting on a bench, enjoying a meat pie. She’s wearing robes kind of like the twins’, but they’re green, and somehow witchier. Her hat is also bigger, and there’s a wooden staff resting on her lap that looks like it’s still alive. Interestingly enough, it’s also not edible, which is very strange. It must be the same wood that Guildmaster Pike’s leg is made of.
+
+Minor details aside, the source of the smell is the meat pie in her hands. It looks ordinary, but the smell is anything but. I don’t know what exactly it is about it that smells so amazing, but I know I’ve never smelled anything quite like it before. I think it must be some kind of herb, because the meat itself smells pretty normal.
+
+I take a moment to condense some of my fat, making myself appear much thinner than I should, then slip out of the bushes and approach her.
+
+Ohmygosh is that Yona?! She’s so adorable!!!
+
+Dryadil tried to keep her emotions in check as the suspiciously thin cat approached. She was in disguise. She had a persona to maintain. But she hadn’t been expecting Yona to actually show up, so it was hard.
+
+She had, of course, been hoping to meet Yona. The whole reason she even created this persona was so she could interact with the contestants if they came to her domain. And it would be a lie to say she hadn’t been daydreaming about one of them just appearing while she was going about her business. But daydreaming about it and having it actually happen were completely different things. Especially when the one who had shown up was her absolute favorite.
+
+She had been totally plugged into all the gossip ever since the game started. She was usually plugged in, since she was the founder of the Tea Society, but she was super plugged in to the game of the gods. The events the God of Games put on were always so interesting. There were a few standout candidates this time around, many of which were highly amusing, but Yona the one Dryadil cared most about.
+
+First of all, she was the most famous of the contestants. Most of the contestants tried their best to lay low and avoid attention, because they wisely realized that if they got found out, they would probably be killed. Yona didn’t seem to care about that at all, and had even gone as far as getting legitimized as a princess.
+
+Second, Yona didn’t care about the game. There were always a few of that type whenever the God of Games tried something, and they were always Dryadil’s favorites. The ones playing the game were fun too, but the ones not playing always added so much chaos. And Yona was exactly that.
+
+Third and finally, she was jealous. Cecilia and Arianne had already gotten to meet Yona. They had told their stories about it at a recent Tea Society meeting. Dryadil rarely got interactions like that, since she couldn’t really leave her domain, so whenever the other members got involved, it made her burn inside. Especially when the stories were so fun.
+
+But now, she was finally getting a chance to meet Yona herself! And on accident! It was a dream come true!
+
+She gathered herself as Yona walked up and sat down in front of her, staring at the meat pie in her hand.
+
+Ohymygosh it’s happening!!
+
+“Oh, hello there,” she said, as if she had just noticed Yona’s presence. “You look hungry!”

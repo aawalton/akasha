@@ -1,0 +1,151 @@
+---
+id: 3afecfc6-ddc2-5523-8a83-ac11b66a9fbc
+page-type-slug: story-chapter-royal-road
+title: "114 - Told You So"
+slug: 0116-114-told-you-so
+partOf: cat-girl-evolution
+position: 116
+ownLength: 2378
+unit: words
+publishedAt: 2026-04-15
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3275718/114-told-you-so"
+royalRoadId: "3275718"
+---
+
+“I told you so.”
+
+“Shhhhuuuuuuuuut uuuuuuuuuup, yoooouuuuuu baaaaassssstaaaarrrrrd.”
+
+“You sound hilarious right now, by the way.”
+
+I try to furrow my brow into a glare, but even that is slow and takes a few seconds to set in place properly. The squirrel doubles over in laughter atop my mana hand, completely unaffected while behind me, the rest of the Party looks similarly annoyed.
+
+Apparently, despite the fact that the tree is evolving, all its Traits are still intact. I guess that makes sense, since mine worked while I was evolving too, but what we failed to consider is that this tree is a Disaster and has an aura Trait that is intrinsically tied to Patience while simultaneously completely independent of anything else we’ve seen before.
+
+All the Maligar citizens being unusually patient? Just the effects of growing up in a city influenced by Patience. The increased mana density? That’s actually just one of its ordinary Traits from its original species, now hugely magnified by its inflated Stats. Its real aura Trait is this field of slowness.
+
+I thought it was time magic at first, but Abby assures me that if it was, my mind would not be working this quickly. She suspects it might be space magic, actually, and that space is just extremely compressed here. I don’t really get that, but it does feel kinda like my own magic, so she’s probably right, as usual.
+
+We flew in on my mana hand, making sure to stay out of reach of all the husks, and our plan was to just get to the trunk and start whaling on it, but obviously, that’s not happening. I even tried Blinking, but, as Abby theorized, that didn’t work. I can’t move more than a half meter in any direction. I could still theoretically just Blink repeatedly until I reached the trunk, but that would drain my reserves multiple times, and once I got there, I would still need to find a way to kill the tree while being slowed.
+
+Stabbing the tree with the sword would be simple, charging up a Fireball would be simple, escaping the ensuing explosion would be not. And even if I did manage to get the Fireball off, and escape the explosion, there’s no guarantee it would kill the tree. Sure, I decimated it last time, but it was a fraction the size last time, and it didn’t have this aura Trait.
+
+Wait, does that mean it wasn’t a Disaster last time?
+
+“It was likely a Hermit.”
+
+I guess that makes sense.
+
+“That also means that its stats are many times larger this time than last time, and that even beyond its size, the tree is significantly more durable than before.”
+
+This is bullshit. This tree is way too overpowered. How the hell is anyone supposed to kill it?
+
+“If it makes you feel any better, the tree is affected by its own aura as well,” says the squirrel, as if it heard my thoughts. “If it was awake, it wouldn’t be able to move any more easily than you can. But that’s the nature of Patience. It doesn’t have to. It’s perfectly content to slowly move its roots toward you while you struggle to maintain your concentration for the hours it takes to prepare to handle its attacks.
+
+“A few Parties in the past actually have managed to kill it before. None on their first attempt at the Dungeon, though. They came at a later time, already knowing about the tree’s abilities, and managed to poison its roots from outside the range of its aura Trait. It took quite a while, but they managed it. Only one Party has successfully fought through the aura and killed it outright, though, and they were much stronger than you. You really never stood a chance.
+
+“On the bright side, this gives me plenty of time to explain more about the next Floor, and what I need you to do. Nice to meet you, by the way, Yona’s Party members. I pity you for being stuck with this one.
+
+“The fifth and final Floor of Maligar is currently completely different from what it’s supposed to be. I don’t mind spoiling it for you, because it’s not really much of a challenge. You just need to watch what happens to the tree, and see how it became the crater that now exists on the outside. But that’s beside the point.
+
+“Ordinarily, after the fifth Floor becomes a crater, the Challenge is cleared, and once the challengers leave, the instance is killed, and the next Party will get a fresh one. Well, because of that other Dungeon, I can’t kill the instance, even after the Challenge was completed. I can reset it, manipulate, and generally do whatever I please, but I can’t destroy the Dungeon that rooted itself there. I also can’t send in my Dungeon creations for two reasons.
+
+“First, artificial creations can’t leave their Dungeons. Entering a nested Dungeon counts for that. And while I could create some real monsters to send in, I would completely lose control after they entered. Even worse, anything that I send in that gets killed only empowers the other Dungeon, and in more ways than one. Not only will the creature’s essence be used to level up the other Dungeon, but its corpse will be reanimated and used to bolster its defenses.”
+
+My eyes widen slowly, and behind me, I sense the others having the same reaction.
+
+“Yes, the owner of the other Dungeon is a necromancer,” continues the squirrel. “I believe that is also why he wants to kill me. If he kills me, and then reanimates me, he will be able to take control of Maligar. And obviously, that would be bad.”
+
+At this point, I get frustrated about being unable to speak, and decide to bite the bullet and start Blinking the mana hand backward and out of range of the aura. I had been carrying us forward before, hoping we might eventually make it, but that’s not happening, so no point in being stuck there anymore.
+
+Everyone breathes a sigh of relief as soon as we escape, but I immediately turn toward the squirrel.
+
+“You can make a construct as powerful as this tree, and you can even make a construct powerful enough to overcome the tree’s aura and turn the surroundings into a crater. Why can’t you just make one that will kill the necromancer?”
+
+“Unfortunately, that’s not how Dungeons work,” says the squirrel with a sigh. “Dungeons have to work within a certain difficulty range. And cannot violate that. Having such a powerful creation directly attacking an entrant without provocation would be a huge violation.”
+
+“Isn’t trying to destroy you provocation enough?”
+
+“Not according to the rules of the Dungeon System. If I want one of those creations to be able to attack the invader, he would have to attack them first. Similarly, since he has not directly attacked me, I can’t directly retaliate against him either. Unfortunately, the difficulty range for this Dungeon sits firmly within Tier 4, and the invader is more than capable of handling any Tier 4 threats I can throw at him. And even if I send in something that should counter his abilities, he just retreats to his Dungeon again.”
+
+“What makes you think that we can kill him, then?” asks Lauren. “I mean no disrespect, Dungeon Master, but we are fresh Tier 4s ourselves. How can we kill someone that powerful?”
+
+“I don’t expect you to,” says the squirrel. “You’re not the only ones I’m recruiting, though, remember? There are other Parties in this Dungeon. And none of you are bound by my restrictions. Besides, your gluttonous companion can actually do quite a bit of good work.”
+
+“Me?” I ask.
+
+“Yes. Whenever you eat something from the Dungeon with your Gluttonous abilities, you are also eating its essence, preventing the Dungeon from regenerating. I don’t mind because I have so much essence I can’t use it all, but for a new Dungeon like that one, it could be devastating.”
+
+“Huh? Wait, then what happens to that essence I consume?”
+
+“I don’t know. You’re the one with Gluttony. You tell me.”
+
+Abby, what happens to that essence?
+
+“I have no idea. I didn’t even realize we were getting it.”
+
+Huh. Weird.
+
+“Maybe it’s being consumed by Gluttony.”
+
+What do you mean?
+
+“Remember when you ate Joshua and Gluttony leveled up? And also how you ate that mussel boss monster and you got that System message?”
+
+Oh, yeah, that really creepy message about Gluttony being pleased. Interesting…
+
+“Okay, I get it now,” I say aloud. “So we don’t need to actually kill the necromancer, but you want me to help the other Parties kill the necromancer, and also destroy the Dungeon inside of you.”
+
+“Exactly. There’s already a Tier 5 Party on their way up, so they’ll likely take care of the necromancer himself. All you need to do is fight off his undead summons, and weaken the Dungeon.”
+
+“Okay, that sounds pretty simple. By the way, would the necromancer’s name happen to be Joakim?”
+
+“Yes, yes it is. I assume that your sixth Party member is one of his?”
+
+“Right. By the way, Annie, you’ve been pretty quiet lately. I almost forgot you existed. Did you know we were getting close to your creator?”
+
+“Yes,” comes a muffled voice from Lauren’s bag.
+
+Lauren slings it from her shoulder and pulls Annie out by the hair, setting her on the hand next to her.
+
+“And why didn’t you say anything?”
+
+“The same reason I can’t say anything else,” says Annie, looking moody. “That would be revealing his location, which I’m not allowed to do.”
+
+“Well, is there anything else you are allowed to say so that we’re not going in blind?”
+
+“No.”
+
+“Alright. Thanks anyway.”
+
+“I recommend not bringing her with you,” says the squirrel. “Kick her from your Party. Or at least, don’t bring her into the nested Dungeon. Leave her outside, or else you might end up with a nasty surprise backstabbing.”
+
+“Yeah, I already had one of those…” I say. “Sorry, Annie, but you’re gonna have to stay outside. No meeting your maker. Actually, what happens to you when he dies?”
+
+“She should be fine,” says A.
+
+“She’s subordinate to him, but since she has her own soul, she’s not dependent on him to exist,” says B.
+
+“The soul seal will hold, regardless of whether her creator is alive or dead.”
+
+“Well, that’s good, at least,” I say. “Don’t worry Annie! You’ll be free soon!”
+
+“I’m looking forward to it.”
+
+I narrow my eyes at her lack of enthusiasm, but lack of enthusiasm is probably due to whatever family members she has that are dead. I bet the necromancer is probably holding them over her head, and while I sympathize, I’m still not gonna let her come into the nested Dungeon with us.
+
+“Now, back to the topic at hand…” says the Squirrel.
+
+He goes on to describe Joakim the necromancer and some of his abilities. Unfortunately, the Dungeon Core doesn’t know much about Joakim himself. He knows that Joakim is a Named monster—proving that Joakim is probably another Chosen One candidate—and he knows the abilities of some of Joakim’s summons, but that’s about it. He does know that Joakim has a Spatial Affinity, though. He can store his undead in a spatial storage, and unleash them at a moment’s notice, as well as teleport away from danger.
+
+He doesn’t actually have that many powerful undead under him, but the ones he does have are pretty dangerous. The warnings about them are definitely appreciated. He also mentions the other four Parties currently in the Dungeon on their way to the fifth Floor. One is actually already there and in the Dungeon, and the others include the Silver Cunt and his primary color wizards, the Tier 5 Party whose original purpose here was to slay the 4th Floor’s tree, and one more Tier 4 Party who are here on their first run of Maligar as well.
+
+Once he’s done with all that, we have about twenty minutes left before we get automatically ejected from the Dungeon, and nothing else to do. The Dungeon Core encourages us to ascend to the 5th Floor, but before Lauren can accept the prompt, I stop her. The conversation earlier about me eating essence from a Dungeon got me thinking, and I think there might actually be a way for me to kill the tree. Or if not kill it, I can at least collect some of its wood to feed my own Dungeon.
+
+The aura effect around the Tree is related to spatial mana. And all that mana around the tree still registers as edible to my Food Sense. I also have Devour of the Glutton now, and while eating the mana wouldn’t be that useful if the aura is still in place, the fact that it’s tied to Gluttony means it might have a more potent effect.
+
+I stand up from the hand, conjure a mana head, and send it toward the barrier where the aura starts with its mouth open. When the nose hits the aura, the whole thing slows down, but a few seconds later when the first of the aura enters the inside of the mouth, something strange happens. The mana gets sucked inside, and immediately gets broken down and expelled out the back of the head. Even better, the mana that gets expelled out the back is attuned mana, meaning that I can control it perfectly if I want to.
+
+I float up, and stick my hand through the mana wind until it’s well within the border of the aura. I can move it normally. It’s not slowed at all. The compressed space is no longer compressed within the cat head.
+
+I grin and turn to the squirrel. It’s jaw is hanging open. I don’t know if this is going to be enough to actually kill the tree, but the fact that it works at all, and that the Dungeon Core didn’t expect it bodes well. At the very least, I can harvest all this mana for my own Dungeon, and maybe a bit of the tree as well.

@@ -1,0 +1,67 @@
+---
+id: 91b394ce-8806-569c-a9dc-c35881bebf08
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1582 - Mage Hand"
+slug: 0230-chapter-1582-mage-hand
+partOf: chrysalis
+position: 230
+ownLength: 762
+unit: words
+ownProgress: 762
+publishedAt: 2025-06-11
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2346910/chapter-1582-mage-hand"
+royalRoadId: "2346910"
+markedReadAt: "2026-06-29T19:51:10.395Z"
+---
+
+Rathwyn Werilos felt that he was in real danger. It was odd, in a sense. He was sitting in a quiet study, in a comfortable chair, drinking tea and eating delicious cakes with a book in his lap and his pipe between his teeth. On the surface, he seemed as safe as it was possible to be. His fellow Magio-Scholars were still feverishly documenting everything they could about the ant invasion, the nature of the fifth and the incredible discovery of the chal, arguing loudly with each other almost every minute of the day.
+
+For his part, Rathwyn was content to accept the hospitality of the Colony and watch over his fellows, acting as the diplomat and keeping them from stepping on any… antennae.
+
+Yet it felt so… wrong. Here they were, engaged in studious activity and learning, debating, drinking tea, as if there wasn’t an apocalyptic battle going on around them. The ants took care of them, but it was obvious there was a strain on their resources. They were fighting for their lives while hosting holiday goers. It simply wasn’t right.
+
+He stood from his seat.
+
+Perhaps there was something about his presence that had shifted, because discussion in the room sputtered out and ceased as his fellow scholars looked to him.
+
+“I’m going out to fight,” he announced calmly. “You should all join me.”
+
+If he was expecting a rousing response, he didn’t get it. The other scholars seemed to freeze, their eyes locked on him, then… slowly, their collective gaze slid to someone else.
+
+Nemis, agent of the crown.
+
+Leaning against the wall, watching the scholars with a general air of contempt, she sneered.
+
+“No,” she said.
+
+The scholars looked back to Rathwyn.
+
+“Be reasonable. We are here as guests, our survival is dependent on the success of the ants at holding off the wave. Why shouldn’t we assist them? It is our moral obligation.”
+
+As ever, he slipped into a diplomatic frame of mind. It was his reflex, in these moments, to appeal to an individual's better nature. Intellectually, he knew that was a failing strategy.
+
+“Our… path of retreat… has long been secured. Our survival is not tied to the fate of these monsters at all.”
+
+“Are you unmoved by their valorous struggle? Their bold, courageous attempt to conquer that which has defeated even us in the past? If they succeed, the history books will speak of this endeavour for a thousand years as a turning point in the unfolding story of Pangera. The Golden City has a chance to earn its place in those pages, to be a part of that great tale. The name of our great and glorious city will ring down the centuries as contributing, even in a small way, to all that is good and right in our world, moving forward, unafraid of the Dungeon.
+
+“This is a moment that we must seize. It will not do for it to be known that we stood idly by while others carved the path to victory without us. Surely you can see the political and reputational stakes in this conflict? We shouldn’t shy away, but be unafraid to make bold strokes!”
+
+Voice ringing with conviction (and the nigh irresistible persuasive power of his Skills), Rathwyn stood, hand extended outwards to Nemis, inviting her to step forward into the wondrous future he had painted for them. Tears shining in their eyes, the other scholars looked back to the palace official.
+
+Nemis spat on the floor.
+
+“Your effort is wasted on me, Mage Werilos, stop trying. You have only been allowed to come here to observe and study, nothing else. The Golden City will not risk Magio-Scholars fighting for these… ants. Your request is denied. Any further attempts at persuasion will result in this trip being summarily cancelled. Am I clear?”
+
+Eyes wide, the scholars slowly turned to look back at Rathwyn. Their faces were pale, terrified their precious research would be taken away from them. Rathwyn’s shoulders slumped. Nemis smirked. The scholars flinched, but couldn’t hide their relief.
+
+After a long moment, the proud diplomat drew himself up to his full height.
+
+“If you will excuse me, I would like to step outside for a moment,” he said stiffly.
+
+“You are permitted,” Nemis replied.
+
+Turning away from her contemptuous look, Rathwyn adjusted his robes with quiet dignity, stepped out, closed the door behind him, then took off running.
+
+Inside the room, Camsworth and Lady Meritious exchanged glances.
+
+“We might also step outside,” Camsworth said with a cough. “Just to stretch our legs a bit.”

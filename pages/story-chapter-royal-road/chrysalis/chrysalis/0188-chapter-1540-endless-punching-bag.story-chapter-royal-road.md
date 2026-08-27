@@ -1,0 +1,81 @@
+---
+id: b407060d-8254-5bcb-ac31-ff5b565696d6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1540 - Endless Punching Bag	"
+slug: 0188-chapter-1540-endless-punching-bag
+partOf: chrysalis
+position: 188
+ownLength: 908
+unit: words
+ownProgress: 908
+publishedAt: 2025-03-31
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2162364/chapter-1540-endless-punching-bag"
+royalRoadId: "2162364"
+markedReadAt: "2026-06-29T19:49:50.633Z"
+---
+
+The wave represented many different things, to many different people. To some, it was a time of opportunity, when the wealth of the Dungeon overflowed in the form of endless monsters to be harvested for cores and other components. To others, it was a time of fear and despair. Huddling in their homes, behind walls and praying that others would be able to hold back the tide and keep them safe.
+
+To a privileged few, a wave was much the same as any other time. Above the danger, protected behind layer after layer of sturdy defense, these people had little notice or care for the Dungeon.
+
+For Tiny, the wave was a wonderful and precious time. A time of gladness, of joy, of smiles and laughter. A season of fists.
+
+“Roaaaaaaar!” he bellowed, unleashing his fierce battle cry once more as another wave of monsters approached.
+
+Eyes filled with madness and rage, the monsters of the fifth rushed towards the platform, bursting out of the sludge river to launch themselves directly at him. Tiny’s eyes narrowed…
+
+A storm of fists exploded outward, a dazzling display of light and force that struck the air with the force of a thunderclap. Some monsters were pulverised in an instant, others were pushed back, but only momentarily. Soon, they rallied, and came again with renewed fury.
+
+That was fine, Tiny had more punches to go around.
+
+He raised his hands, tightened his posture, sucked in his gut and relaxed his shoulders.
+
+To achieve the perfect punching form, there were many requirements, and Tiny was willing to meet them all.
+
+Close the fist, but don’t clench it.
+
+Keep the muscles loose, lest he sacrifice speed.
+
+Rotate the body, putting his weight behind each strike, lest he sacrifice power.
+
+Stay light on his feet, rotating smoothly through the joints.
+
+Explode the hands forward, then bring them back twice as fast.
+
+When everything went perfectly, Tiny could feel it in every muscle fibre, a single chord of perfect music, a flawless artwork that touched the soul. He could see it in his mind. His fist, snapping out so fast he couldn’t even see it, only feel. At full extension, there was a strain in the shoulder as the force exploded outward and he pulled at the same moment, drawing the hand back. As it returned, his shoulders rotated, his hips, his knees and ankles. The force transferred to the other side of his body, then… BAM! The other hand flew out to snap, then explode, then return, ready to load the other hand.
+
+In Tiny’s mind, this was poetry. This was art. He danced on his feet as his fists flashed out again and again and again. When the fists of light had pummeled everything before him into oblivion and no monsters remained, the burning red light in his eyes faded and he wobbled on his feet.
+
+In an instant, the ants were there. A chair slid into place just as the giant ape fell backwards, catching him at the perfect moment. Healers appeared as if from nowhere, climbing over his arms, healing and massaging the muscles, driving away the fatigue and trying to restore some energy.
+
+A towel was thrown over his shoulders and Tiny grabbed it eagerly, wiping his face and running it over his head. The cloth came away dripping, drenched in sweat.
+
+The ants saw it, they saw everything, and soon Tiny groaned in delight as cool, refreshing liquid was poured over him, a large container pressed into his hand. He took a long drink, swished the water in his mouth, then spat it out again. A small plate of Biomass was presented, and he munched it down while the healers continued to work on him, turning his attention to the general who had appeared before him.
+
+Tiny looked down at the little ant intently, ready to receive instructions from the general who had taken it upon herself to coach him in the grand battle of the platform.
+
+The general rose up and mimed throwing a few quick punches with her front legs.
+
+Tiny nodded.
+
+The general then mimicked giving him a thumbs up.
+
+Tiny nodded, and returned the gesture.
+
+More punches. Good.
+
+Not even a minute had passed, and it was time to get back into the fight. Tiny stood, rolling his shoulders and swinging his arms, letting the blood and mana flow. The chair was taken away, the towel removed and the general gave him an encouraging pat on the leg, followed by another thumbs up.
+
+It warmed Tiny’s heart and he smiled broadly as he strode forward again, the endless tide of sludge and monsters rising up to meet him.
+
+Lightning crackled along his shoulders, running down his limbs in snaking ribbons of power that lifted his fur and sent sparks flying into the air. Gradually, the power built, rising higher and higher until his body almost couldn’t contain it anymore.
+
+Once more, Tiny opened his mouth and unleashed his mighty warcry, daring the monsters of the fifth to come and challenge him.
+
+There were more monsters, of course there were. They wouldn’t stop coming until the wave itself faded. Perfect.
+
+The great ape balled his fists once more, bounced on his feet, and let his hands do the talking.
+
+Electricity blasted outwards, searing and sizzling in the air and sludge as fists formed of pure light slammed, flattened, and fractured everything they touched.
+
+This… this was perfect.

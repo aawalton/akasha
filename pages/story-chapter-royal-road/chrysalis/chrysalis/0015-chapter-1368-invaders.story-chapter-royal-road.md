@@ -1,0 +1,75 @@
+---
+id: 2215addb-a6f6-54aa-8d6a-a65c758ef869
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1368 - Invaders"
+slug: 0015-chapter-1368-invaders
+partOf: chrysalis
+position: 15
+ownLength: 1093
+unit: words
+ownProgress: 1093
+publishedAt: 2024-07-04
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1703945/chapter-1368-invaders"
+royalRoadId: "1703945"
+markedReadAt: "2026-06-29T19:44:07.917Z"
+---
+
+Zluth could hardly believe what his eyestalks were seeing. Just to be certain, he extended them up from the pool of muca-sludge he’d currently flattened his body into a little further. The same sight met his gaze.
+
+The ants from above… had descended?
+
+And not just descended… they were… attempting to taint the fifth!
+
+It was so absurd it almost made him want to laugh. It was so infuriating it almost caused his slug flesh to boil. How dare they? HOW DARE THEY?!
+
+No, no. It wasn’t time to let the rage run loose, this was a time for cunning, stealth and schemes. As much as he wanted to scrape these filthy insects to shreds with his radula and gulp them down, he needed to be patient. After observing, he would report back to the tribe and they could plan together how to deal with this… incursion.
+
+The thought of the joy the tribe would soon experience as they tore these invaders apart… it was almost enough to slake the endless rage that burned within his kind.
+
+Zluth controlled himself, applying his iron will and pulling in any sign of his mana, holding himself tight and small. When he was convinced his own energy signature was indistinguishable from that which surrounded him, he began to move. Compressed flat, his slug body was only a few inches thick, and he undulated over the ground like a sinister puddle. Amongst the mould, slime and sludge that coated every surface in the fifth, he was impossible to see.
+
+After covering a dozen metres, he extended his eyes once more to take in the surroundings.
+
+Gug-gug-gug-gug… these ants really were putting in all their effort. Such organised and pretty ranks. A neat and clean army, polished and prepared for the task at hand. It was so much nicer to break things that were well made.
+
+But the filthy, poisonous energy they were bringing with them. How were they making it? It offended his senses on a fundamental level. The primitive Dungeon spawn were already drawn to it, seeking to eradicate the unwelcome mana in which they could not live. With little effort, Zluth could direct many, many more spawn towards this tunnel, burying the insects in a tide of mucus and bubbling slime.
+
+First, he needed to see, just what were they doing to make this energy? As all the Krath knew, the mana of the fifth was special. It nourished them, but was anathema to any creatures from elsewhere in the Dungeon. To the Krath, it was their greatest defence, and their most valuable weapon. Time had proven over and over again just how difficult it was for outsiders to handle it, so how had these ants succeeded in bringing their… disturbing mana down here?
+
+He retracted his stalks and undulated across the surface until he came to rest in a patch of bright red mould. With a thought, he excreted a layer of slime to coat himself, matching the colour of his surroundings perfectly, then tentatively extended his eyes once more.
+
+Only to see a giant, giant ant nearby.
+
+With a pop, the Krath retracted his stalks and remained perfectly motionless, hoping he hadn’t been seen. He knew that ant, he’d seen it before! He pulled all sense of his presence tight and close, preventing any trace of his existence from leaking out.
+
+His only way to trace the movement of the massive creature was through the vibrations in the mould beneath him. After a minute, the ant moved away, travelling closer to the area of foul mana. Heading back for a breather, perhaps? No matter the reason, it relieved the pressure on the hidden Krath, and once again he dared to take a look around him.
+
+One stalk rose from his mass, taking a rapid glance in all directions.
+
+Yes, the giant ant had retreated, a powerful monster, that one, a prime candidate for the pits. As for the rest…
+
+Ah! He could see it. Those disgusting, jelly-like pets were here, being fed a constant stream of potent fifth stratum mana through enchanted channels of some sort. Hidden deep in the middle of the ant formation, they were relatively safe, and seemed perfectly happy to consume the energy they were being fed.
+
+The sight of it was enough to ignite the rage within Zluth. Doing such a thing to the mana of his home… it was… sacrilegious. It was the virulent mana of the fifth that would overflow and coat the entire Dungeon in its filth. They would be the ones to change Pangera, not the other way around!
+
+A savage glee tickled within the Krath as he thought of what would come next. The entire tribe would put aside their bickering and backstabbing once they heard of this. With the full might of the tribe, they would crush this incursion and throw the ants into the sludge pits. These creatures seemed industrious; they would make excellent slaves.
+
+Satisfied that he’d seen enough, Zluth retracted the stalk and began to flow over the landscape once again.
+
+He felt a slight tremor in the air, directly above him.
+
+He didn’t know why, on many occasions he had ignored such disturbances, but this time, Zluth’s instinct screamed at him to move, and so he did. Every nerve in his foot fired at once and he flung his compressed, slug body to one side.
+
+BOOM!
+
+A heavy mass crashed to the ground where he had been as something speared into the mould patch he’d been hiding in. The ant had spotted him somehow!
+
+With no need to maintain the pretence, Zluth extended both stalks, one facing forward, the other behind as he pushed himself for more speed.
+
+The massive ant was watching him, its antennae twitching as it set off in pursuit.
+
+Gug-gug-gug-gug-gug.
+
+Did it really think it could keep up with a Krath in its natural domain? Foolishness in the extreme. Zluth decompressed himself a little further, allowing him to use more of his strength as he began to zip across the surface of the tunnel like a slimy missile. In moments, he’d accelerated to top speed and hurled himself into the mucus river, plunging straight to the bottom.
+
+Once inside, he gripped tight to the river floor and began to move against the current. After a few minutes, he was already a kilometre away, moving fast. It had been closer than it should have been, but soon the entire tribe would descend on this place, and they would make these ants pay for their desecration.

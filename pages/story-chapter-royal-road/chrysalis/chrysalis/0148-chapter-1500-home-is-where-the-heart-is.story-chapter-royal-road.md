@@ -1,0 +1,71 @@
+---
+id: de708b42-386c-5c6a-bf87-1303b755eda0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1500 - Home Is Where The Heart Is"
+slug: 0148-chapter-1500-home-is-where-the-heart-is
+partOf: chrysalis
+position: 148
+ownLength: 998
+unit: words
+ownProgress: 998
+publishedAt: 2025-02-05
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2048429/chapter-1500-home-is-where-the-heart-is"
+royalRoadId: "2048429"
+markedReadAt: "2026-06-29T19:48:35.112Z"
+---
+
+Home can also, as it turns out, be a giant platform outside a family mega-fortress.
+
+“Eldest, are you smelling me?”
+
+“Yes! I can smell you perfectly well. Finish what you’re saying, sheesh!”
+
+“Fine,” Tungstant says, watching me suspiciously. She turns and gestures to the platform still under construction. “This will be one of the intake points of the nest. When we’re done with it, anyway. We need you to stand guard here as much as possible. Other than building the site itself, we don’t have time to complete the defensive installations, so we’re relying on you and regular battalions to cover these points. Without them, we won’t be able to feed the wuffers, and then everything falls apart.”
+
+“I know that! I’ve been out in the tunnels fighting for weeks now. You think I don’t know how this fortress is supposed to operate just because I wasn’t building it? I just have to hang around and defend the platform, right? Easy. You get back to doing what you do and leave this to me.”
+
+I feel like we need to start brewing higher caffeine content in our tea. Tungstant and the other builders look like they’re in desperate need of it, a little extra oomph before they start a shift could be just the thing they need. I wave her off and turn to look at my new deployment zone.
+
+It feels a little disingenuous to just call it a ‘platform’. This thing is enormous. It’s roughly a square kilometre in size and is built in several layers. The bottom layer is the same as the outer shell, with all the enchanted steel, living stone, and layer after layer of compressed stone. Above that lies the mana channels. This is an entire layer of highly-engineered connectors that effectively act like giant mana pipes. And I do mean giant.
+
+There are only eight of these platforms in the final design of the fortress, and they are intended to funnel a truly absurd amount of mana inside. These pipes be CHUNKY. The intake sections are enormous vacuums, sucking in mana on an industrial scale. All of that energy gets pumped inside the fortress and fed to the delightfully wobbly wuffers who are much more safely housed in their own dedicated chambers closer to the centre of the fortress.
+
+The final layer is something new, for the Colony anyway. It seems my fellow ants have finally embraced what is truly beautiful in life: diamonds. Sweet, shiny diamonds.
+
+That’s right. The surface of the platform is an entire layer of hardened diamond. How did they get so much of it? I feel like I don’t want to know, but they did, and it’s all here. The diamond is laid down in one metre by one metre by one foot squares, which the carvers can conveniently lift up to work on the channels beneath if something goes wrong.
+
+And yes, that is an entire foot of depth. They wanted these things to be sturdy. As a result, I think these platforms are the single most complex and expensive thing the Colony has ever built anywhere.
+
+There are EIGHT of them.
+
+Tiny, Crinis, Invidia, myself and Sarah (with Odin) have been assigned our own platforms to guard, while Vibrant and her followers are going to take care of the other three. Naturally, it isn’t just us. Each one will also hold no fewer than four battalions of ants, which is forty thousand, with the Immortals held in reserve and at the ready if there’s a need.
+
+Once the entire fortress is sealed up like an egg, these are going to be the only places where the Colony will be interacting with the fifth stratum in any way during the wave, but the fighting here is going to be… well… I think it’s going to be pretty messy. Which is an understatement.
+
+Right now, this area is still well within the coverage of the cleaned mana, but that won’t be the case for long. Once the build teams are done, the Colony will redirect the energy, and our territory here will shrink back until the platform is surrounded by a thick cloud of toxic goop. Once that happens, the monsters will be able to get right up to the platform as well, which is when the fisticuffs come into it.
+
+I know the final design includes all sorts of stuff to help protect the platform and in particular the intake valves. Walls, more walls, shooting towers, enchanted zappers and apparently Brilliant has worked out how to shoot cleansed mana, so they’ll be building those as well.
+
+For now… there’s none of that. It’s just me, my siblings and the militia who are here to fight alongside us. This time, that also includes a few familiar faces.
+
+“Hey there Jern, Alis!”
+
+“H-hello there… Great One.”
+
+“Who are you and what have you done with Alis?”
+
+“Shut up!”
+
+The young woman claps her hands over her mouth as she realises she might have offended ‘the Great One.’ Good lord. Has Beyn been getting into her ear? Whispering pointless nonsense?
+
+“Beyn told us we should be referring to you with more respect,” Jern tells me, looking as bland-faced as ever. He still has that enormous axe over his shoulder, but he looks a lot more comfortable with it than he did before.
+
+“He also told us we shouldn’t say that,” Alis says through gritted teeth, glaring at the big, oblivious fellow standing next to her.
+
+“Hey, you guys are all part of the… templar… or whatever. You get a special spot in my Nave, so you should probably listen to me ahead of whatever nonsense the priest tells you. Right?”
+
+Alis looks reluctant to agree, but my logic is flawless!
+
+“I suppose,” she grudgingly admits.
+
+“That’s right! So you call me Anthony. That’s my name, after all! Now, I see the rest of the templars have turned up for this. We should get together and have a chat.”

@@ -1,0 +1,241 @@
+---
+id: 5ddb8b96-82a1-528e-bd4e-3882c8ad6097
+page-type-slug: story-chapter-royal-road
+title: "62: Chloe's Custom Evolution"
+slug: 0062-62-chloes-custom-evolution
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 62
+ownLength: 2198
+unit: words
+publishedAt: 2025-11-02
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2725825/62-chloes-custom-evolution"
+royalRoadId: "2725825"
+---
+
+Seeing the evolution notification pop up all of a sudden really distracted Chloe. She was all kinda sad before, but that quickly changed.
+
+“Chloe? Is something wrong?” Ranoef asked.
+
+“Huh? Nope! Nothing weird going on in my eyeballs at all.”
+
+“Right… Well, I’ll go start setting up camp then. Maybe further from all the corpses nearby.”
+
+“Okay. You go do that. I’ll… find you later!”
+
+Chloe threw up a quick wave before Raenof could squeeze in another word. “Welp, see ya!” she said, already skipping off.
+
+It’s been forever since my last evolution. No way I’m wasting this chance! I mean, yeah… still kinda sad about Mr. White. But also, evolution is gonna be so cool!
+
+She picked a random direction and wandered off between the trees. Her brain, meanwhile, was buzzing with thoughts, some of which included doubts.
+
+The last time she evolved, it had taken her days. Which, sure, had been worth it in the end, but what if it took even longer this time? But at the same time, evolution was surely going to be a big power boost.
+
+Evolution was exciting. It meant new things and more cool powers. Chloe stopped near a cluster of trees and glanced around. The area looked peaceful and quiet enough.
+
+“Alright, system, I wanna evolve.”
+
+[Are you sure you wish to begin the evolution process now? This process will leave you temporarily vulnerable for up to 7 seconds.]
+
+Chloe blinked. Then blinked again. Wait, seven seconds?
+
+She squinted at the words, even rubbed her eyes, just in case some dirt or weird magic juice was making her hallucinate. But no matter what she did, the evolution still said it took seven seconds.
+
+That’s insane. Seven seconds? Is this real?
+
+Chloe wondered why is her evolution so fast this time? Was it because she was stronger now? Was this a special evolution? Or was something else going on?
+
+Hmm… definitely suspicious. But also, seven seconds is seven seconds. And I do wanna evolve.
+
+She looked around one more time, just to be safe. Chloe was sure she'd be safe for at least seven seconds in this place.
+
+“Alright, System, hit me with that evolution."
+
+[Evolution Confirmed.]
+
+[Initiating Evolution Sequence.]
+
+***
+
+Next thing Chloe knew, she was back to an endless black void she knew all too well. She floated for a moment, stretching her fingers as the nothingness curled around her.  Looks like I'm back here again. Neat.
+
+She looked ahead, and immediately, there she was. Z. The administrator stood a few paces away, but something was off. Z looked… nervous. Chloe had never seen her like that before.
+
+Anyway, Chloe lifted a hand and waved. “Hiya, Z!”
+
+Z didn’t wave back. She smiled, sort of. It was a small, tight one, and there was this tiny line between her eyebrows that definitely hadn’t been there before. “I’m very glad to see you again, Chloe. But to cut things short, we don’t have much time.”
+
+Chloe floated closer, squinting at Z's face. "But why not?"
+
+"It's hard to explain, but trust me, we need to make the most of the time we have."
+
+“Well someone’s lookin’ extra tense today. What’s got your face all tight like that? Also! I’ve got a ton of questions about this latest evolution."
+
+Z let out a soft, tired sigh and adjusted her face circles. “I’ll explain briefly. You’ve probably noticed that the evolution time is significantly shorter than your previous ones.”
+
+“Oh yeah, I definitely noticed. Seven seconds is crazy fast."
+
+“The reason for that, and for a few other changes, is because I’ve decided to be more… hands on this time.”
+
+“Well, alright then. You can put your hands on me, I guess. But like, no weird places okay?"
+
+Z closed her eyes and let out a really big sigh. “Not literally hands-on, Chloe. What I mean is: For reasons I can’t explain, I have limited access to directly influence your evolution. Although that means you won't get any evolution options this time."
+
+“Really? No options at all?”
+
+“Correct. Instead, you’ll simply tell me what kind of evolution you want, and I’ll tailor it for you as best I can. Within reason.”
+
+Chloe floated upright and made a tiny “o” with her mouth. “Wait, are you serious? You’re letting me actually pick what stuff I want in my evolution this time?"
+
+Z raised an eyebrow. “All within reason of course. There are still things I can't do for you, but I’ll try my best to work with you.”
+
+Chloe immediately started bouncing in place, the void under her feet warping slightly with each hop. “Oh, this is the best! Do I get to actually ask for the cool stuff?!”
+
+“That’s the idea. But we’re on a very short timeline. So, Chloe, quickly tell me what you want from this evolution. Abilities, enhancements, anything meaningful. Be specific.”
+
+Chloe stopped hopping and squinted, pressing a finger to her chin. Okay. Big moment. Gotta ask for the good stuff. Think, Chloe, think!
+
+At that moment, she remembered what Raenof told her before. How if she got better at mana stuff, she'd eventually be able to fly. That sounded awesome, but Chloe really wanted to fly sooner rather than later. So she figured she might as well give it a shot and see if Z could do something about that.
+
+Then she perked up and clapped her hands together. “I wanna fly! Can you do that for me?"
+
+Z didn’t respond right away. Instead, she reached up and pulled out: a flat, shiny, metal rectangle from thin air and started tapping in.
+
+After a while, Z she looked up at Chloe and said, “Done. What else?”
+
+“Wait, that's it?"
+
+“Yes. Flight has been integrated into your next evolution.”
+
+“Wow, I did not expect that. That’s like… way too easy.”
+
+“It is. Now tell me what you want next."
+
+“Right! Next thing I want is the power to blow up the world!”
+
+“No can do, denied.”
+
+“Aw, come on!”
+
+"Try something else. Something a lot more reasonable this time. I can do a lot for you, but not too much."
+
+Chloe crossed her arms and pouted. “Fine. Worth a shot.”
+
+Okay, so no world exploding powers. Maybe I'll try something related to my current skills instead.
+
+“So, I’ve got all these different magic affinities, right? Like dark, fire, ice, blood, and earth. Can you make me, like, super good at all of them?”
+
+“Not quite. I can’t make you a master of every magical affinity you’ve ever touched. However… I can group your elemental affinities. Specifically fire, earth, and ice, and combine them into a unified skill."
+
+“Wait, only those three? What about my blood magic? And dark magic?"
+
+“Those affinities are more niche and unique, so I can’t group them the same way. But the elemental ones are compatible, which means I can make them stronger together.”
+
+“Huh, okay then. But, is there a catch? Like, will my spells explode in my face if you combine my affinities?"
+
+Z shook her head. “No downside. Quite the opposite. You’ll likely find your elemental casting improves significantly.”
+
+Chloe nodded enthusiastically. “Alright! Let’s do it.”
+
+Z tapped the metal rectangle again. “Done. What else?”
+
+Chloe paused. She wanted to think this one through a little more. So far, she couldn’t ask for anything too wild, but it looked like she could sneak in some really cool upgrades.
+
+“Since you’re already giving me the fancy grouped-up elemental thingy, can I also get some skills to go with them?"
+
+Z tapped the shiny rectangle a few times, thinking. After a moment she nodded. “I can give you a general skill with basic spells for your elements: fire, earth, and ice. Nothing fancy, but it’ll give you more options.”
+
+Chloe grinned. “Good enough for me!”
+
+Z’s fingers hovered over her weird shiny rectangle, but she didn’t tap it yet. Instead, she looked up and adjusted her face-circles with one finger. “Any other particular requests, Chloe? Because if not, I do have a few suggestions.”
+
+“Ooh, like what?”
+
+“Nothing too major. Just some divine magic skills, a few flexible healing abilities, and I’d like to reinforce your dark magic too. Oh, and I plan to add a couple of useful traits as well, such as full-body regeneration.”
+
+Chloe stared at Z. She couldn't believe what she was hearing.
+
+“Wait. Wait wait wait. Divine magic? Healing? More dark stuff? And body regrowing? Z, that all sounds super cool! Are you sure I’m allowed to get all that?! Like, I don't even know what divine magic is, but I bet it's really strong."
+
+“No, you’re absolutely not. But I’m going to do it anyway.”
+
+Chloe blinked a few times, still confused. “Huh?”
+
+Z tapped her metal rectangle once. “Let’s just say... I may not get another opportunity to help you like this. So I’m taking the chance while I have it.”
+
+"What does that mean? You’re not gonna go away forever are you?”
+
+“What I mean is, this level of assistance is already pushing the boundaries of what I’m permitted to do. After this, I might not be able to interact with you at all. Not for a while, at least.”
+
+“Wait, for real? You’re just gonna… vanish?”
+
+“Maybe. Maybe not. Things are complicated.”
+
+“Then why are you doing this for me?”
+
+Z let out a smug smile. “That’s a secret.”
+
+“Aww, come on!” Chloe groaned. “I’m the one getting the secret upgrades here! I deserve a hint!”
+
+Z shook her head gently. “You’ll find out. Eventually. Assuming things go well.”
+
+“Fine. Be all mysterious and stuff. See if I care.”
+
+“You look like you care, a lot actually."
+
+“Yeah, obviously. But still… Thanks, Z. For all this. Even if you’re being all shady about it.”
+
+Z nodded. “You’re welcome."
+
+She tapped the screen again, a series of softly glowing lines rippling across the air behind her. "Regardless, I’ve got a few last things to tell you before we finish up here."
+
+“Kay, I'm listening."
+
+Z’s fingers stilled on her weird metal rectangle as she looked at Chloe with that calm, focused expression. "A lot of things are going to happen soon. Complicated things. Dangerous things. I’m giving you this help now because you need to be prepared.”
+
+“Prepared for what? Like… explosions? Giant monsters? Exploding brains?"
+
+“Bad things. Very bad. I can’t tell you the details, but just know that what’s coming won’t be easy. Even with this evolution, it won’t be enough in the long run. You’ll have to keep getting stronger if you want to survive.”
+
+“Well, yeah. I already wanted to be the strongest. So that tracks.”
+
+“Good, but you should know this. After this evolution, your progress will slow a lot. Your body and soul will be on a higher level, so you’ll need much more experience to gain levels. Leveling up from now on will be much harder.”
+
+“Aww, that sounds kinda lame. But I get it. If I’m stronger, I gotta fight stuff that’s worth my time, right?"
+
+“Exactly, you need to focus on growing with purpose. And the best path forward now is to develop your Heresy skill.”
+
+Chloe scratched her head. “Heresy? I don’t think I have a skill like that.”
+
+Z rolled her eyes a bit. “Chloe, you do have the skill. Actually, you already have two levels in it. Next time, please pay more attention to your own stats.”
+
+“Wait… really?”
+
+“Yes.”
+
+“Oh! Oh yeah! I do have those heresies! So if I level up Heresy, I’ll get stronger?”
+
+“Yes, leveling up your Heresy skill will allow you to unlock many more powerful abilities in the future. Including more unique evolution options."
+
+"Sounds good to me, what do I gotta do?"
+
+"Simple, to level up your Heresy skill, you’ll need to understand the world better."
+
+“Okay, but how do I do that? Like, do I read books? I honestly don't mind, as long as they're not like, boring books."
+
+“Some books might help, but I have a more interesting and impactful plan. You should go find the three Sages of the Wilds. Once you’re back in the real world, start looking for them.”
+
+“Three sages? Who are these people?”
+
+Z opened her mouth to reply, then froze. Her eyes flicked down to the glowing rectangle in her hands, and she suddenly looked really scared. Her fingers flew across the screen, tapping and swiping like she was trying to fight off something.
+
+“I’m sorry. We’re out of time, so I have to send you back now.” Z said.
+
+Chloe’s ears gave a twitch. “Wait, already? Oh. Okay, well... thanks, Z. For all the upgrades and stuff.”
+
+Z gave her a gentle nod. “You’re welcome, Chloe. This is goodbye for now. I hope I’ll see you again someday.”
+
+“Yeah! Sure thing. You’ve actually been super nice to me, y’know? So, I hope I see you again too!"
+
+Chloe gave one last wave towards Z as a pale white light began to spread across the void. Yet, as everything turned more white, she squinted through the glow.
+
+Just before the light swallowed everything, behind Z’s shiny face-circles, something slipped down the administrator's cheek. Wait… is Z crying?

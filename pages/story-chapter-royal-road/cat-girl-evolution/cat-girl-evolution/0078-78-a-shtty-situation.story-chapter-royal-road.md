@@ -1,0 +1,307 @@
+---
+id: 20e63da6-e080-5f59-8034-53e3b8f3df8c
+page-type-slug: story-chapter-royal-road
+title: "78 - A Sh*tty Situation"
+slug: 0078-78-a-shtty-situation
+partOf: cat-girl-evolution
+position: 78
+ownLength: 2890
+unit: words
+publishedAt: 2026-01-21
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2963512/78-a-shtty-situation"
+royalRoadId: "2963512"
+---
+
+“Fine. Just get this over with.”
+
+“First…” I start, staring down at her bloody neck. “How are you talking?”
+
+“Seriously?”
+
+“Well, you’re not attached to your lungs right now, so you shouldn’t be able to make noise.”
+
+“My body is dead, so I shouldn’t be alive at all. Maybe it has something to do with that.”
+
+I shake her violently for a few seconds, sending blood droplets flying everywhere.
+
+“What was that for?” she demands.
+
+“The sarcasm. Okay, next question: What did you do to Lauren?”
+
+“Relax, your experience bag is fine.”
+
+I shake her again.
+
+“What the–?! Stop!”
+
+“I said no sarcasm.”
+
+“That wasn’t sarcasm, that was vitriol– Hey!”
+
+I shake her for a full fifteen seconds this time before stopping.
+
+“What the fuck?!” she exclaims.
+
+“You are literally a severed head right now, and you are entirely at my mercy,” I explain. “There are a lot worse things I can do to you than shaking you around. For example, that stolen cow left a little gift not too far away from here…”
+
+“Do whatever you want to me, I don’t—”
+
+Before she can finish her sentence, I Snatch the cow pie, making it appear on the ground in front of me, then I shove her face into it. I leave the face shoved so that she can’t speak while I talk.
+
+“Here’s the deal, Annie,” I say. “I want answers out of you, and I’m going to get them, and I’m going to get them without attitude attached. After that I’m either going to finish you off, or, if you can convince me, I might even let you live. How long it takes us to reach that point is up to you. You can keep talking back like you have been, and I’ll keep finding more creative things to do with a severed head, or you can answer normally, and we can be done in a few minutes. Got it?”
+
+She doesn’t respond because her face is buried in cow shit.
+
+“I’m going to assume you’ve got it and let you back up now.”
+
+I pull her head back up, and she immediately starts gagging and spitting from her mouth. Her eyes are tightly shut, and her entire face is coated with a layer of the brown, mud-like substance. What I just did was actually pretty disgusting. And now I have to hold her head. Maybe that was a mistake. This is kinda gross.
+
+“F– Fine,” she says. “I’ll talk.”
+
+I am a genius and a master of interrogation.
+
+“Okay. What did you do with Lauren?”
+
+“I pretended to be a new Adventurer, got her alone in a Dungeon, then used that scepter I stole from you to get some answers out of her.”
+
+“How? What does the scepter do?”
+
+“It lets you make thralls. I put her under my control, though I had to knock her out first. Then I asked her about you, except that contract she was under was tight, so I had to torture her.”
+
+“You tortured Lauren?”
+
+“Only technically. A few cuts to trigger the exception condition on the contract. I gave her a health potion and wiped her memories afterward so she’s unharmed and doesn’t remember a thing. Unlike you, I don’t hurt innoc—”
+
+I accidentally drop her and she lands back in the cow pie, face first. Then I pick her back up, summoning a mana shield as she gags and tries to spit something out from her mouth.
+
+“So Lauren isn’t harmed?”
+
+“She’s missing about an hour of memories, and she was probably a little disoriented for a while, but no, she’s not harmed otherwise. She won’t have any scars or lasting effects. As I said—”
+
+I lower her downward slightly.
+
+“...I don’t hurt innocents…” she trails off.
+
+“Hmmm…” I say, narrowing my eyes at her. “Alright. If you’re lying and I find out that my minion is actually hurt somehow, I’m going to find more kinds of poop to drop you in.”
+
+“Why would I lie about that?”
+
+“Because I have you at my mercy and you don’t want me to do something terrible to you while you’re defenseless after I get angry because you did something horrible to my minion.”
+
+“I didn’t do anything else to her!” she exclaims. “That’s the whole truth! You met her earlier, didn’t you?”
+
+“I did, and she recommended that I take a Quest if I’m bored, and I did, and whaddya know, I found you, and you lured me here. Are you sure you didn’t do anything else to her?”
+
+“I just planted that idea in her head. Normally! I talked about taking small Quests when I’m bored to earn a few extra coins and keep my skills fresh. I hoped she would mention it to you, but I didn’t make her do it.”
+
+“Hmm. Alright, I’ll take your word for now. Now, next question. How did you find me?”
+
+“You’re not exactly hiding.”
+
+“That sounded an awful lot like sarcasm,” I say, lowering her down.
+
+“Wait!” she shouts. “I just meant that it wasn’t too hard! I got a Quest to kill a Named monster pretending to be Enlightened somewhere in this area, and you’ve gotten pretty famous around here already. It wasn’t hard to figure out that you were the Named monster.”
+
+“And where did you get that Quest?”
+
+“...I can’t say.”
+
+“We’ll see—”
+
+“No, I literally can’t say,” she says quickly. “I am incapable of sharing that information. Trust me, I would love to tell you, and not just because you’re going to shove my face in shit if I don’t, but I can’t.”
+
+“Why not?”
+
+“...I’m an undead.”
+
+“What does that have to do with anything?”
+
+“Ask someone less ignorant about the world. I really can’t say anything else.”
+
+“...Alright, fine. So you got a Quest to come kill me, and you can’t say who gave it to you. Now, why are you so certain that I am an evil monster and that I didn’t used to be human, even though I definitely did?”
+
+“Why should I believe the words of a monster?”
+
+“You’re a monster too now.”
+
+“Undead are different. All undead used to be something else. I used to be human. I still consider myself human. You are not. Lauren told me of your true form and your ridiculous story about being chosen by the gods for reincarnation.”
+
+I accidentally drop her in the poop again, then pick her up.
+
+“I said no more attitude.”
+
+“Is it attitude to—? No, wait! I’ll stop, I’ll stop!”
+
+“Good. Well, I think you’re being stubborn, because my story isn’t ridiculous. It’s true.”
+
+“And also ridiculous.”
+
+Shut up, Obbelisk.
+
+“You really expect me to believe that the gods chose to reincarnate you because you are, and I quote, ‘the Chosen One’?”
+
+“Yes,” I say. “But you don’t just have to take my word for it.”
+
+Abby, do that thing we did with Lauren and show her my Royal Status Window down to the Titles!
+
+[ Are you sure you would like to share your Status Window? Sharing your Status Window with those you don’t trust can have severe consequences. ]
+
+[ Yes ] [ No ]
+
+Yes!
+
+“Take a look at that.”
+
+“My eyelids are covered in shit,” Annie replies.
+
+“Oh, right,” I say. “Hold on.”
+
+I conjure a mana hand and scrape away some of the stuff so that she can open her eyes again, and she then goes silent as she peers at the invisible words in front of her.
+
+“Look at the Second Lifer Title,” I say after a few seconds.
+
+“Yeah, I know,” she says. “How do I know this isn’t an illusion?”
+
+“Jeez, are you really that paranoid? How do you know you’re even here in this forest? What if that’s all an illusion too? Maybe you’re not even dead. Maybe I’m not even real. Stop being so existential and just ask your Abby.”
+
+“My what?”
+
+“Your Annoying Blue Box. You know, the thing that answers when you ask it questions.”
+
+“System Assistant.”
+
+“Your System Assistant.”
+
+Annie goes quiet for a few more seconds, then frowns.
+
+“This— This is vague. It doesn’t necessarily prove that you are, in fact, reincarnated. What even is a rodeo? This isn’t—”
+
+“Oh my God, just accept it already,” I say. “It’s right there. You know what it means. You know it’s real. Stop trying to reject reality.”
+
+She stares blankly ahead for a few seconds, clearly struggling for a counter argument, then her face falls.
+
+“Fuck,” she says.
+
+“Yup.”
+
+“Fuck!” she shouts.
+
+“Hey, no need to get so worked up about it. Everyone is wrong sometimes. Even me.”
+
+“I’m going to quote you on that.”
+
+Shut up.
+
+“I…” starts Annie. “Does that mean that the other one was…?”
+
+“The other one?”
+
+“My last Quest was to kill a monster pretending to be human in the eastern swamp. Was he… like you?”
+
+“Uhhhh, maybe? Wait, you mean the guy who killed the Named monster that got assassinated?”
+
+I remember Pike saying something about that. He never mentioned that it was a Named monster, but that actually makes a lot of sense if it was another one of the Chosen One candidates.
+
+“Yes, him,” says Annie. “Did— Did I kill an innocent man?”
+
+“Maybe,” I say with a half shrug.
+
+She looks devastated, and completely at a loss for words. Meanwhile, I think of the implications of her being sent after that other dude and then me.
+
+Clearly, Annie isn’t one of the Chosen One candidates. However, equally clearly, the one giving her these Quests is aware of us. They might be a candidate themselves. And they’re sending Annie out to do their dirty work. That’s going to be a problem. I wish she could just tell me who it was. It’s annoying that she can’t tell me for some reason.
+
+“I know the reason.”
+
+Well, why didn’t you say so earlier?
+
+“You were busy and I didn’t want to distract you too much. Anyway, she gave you the hint that she’s an undead, and the answer is pretty simple: the one that sent her is the one that raised her as an undead. Wild undead cannot recall their past lives, but she still considers herself a human, meaning she is a raised undead, not a natural one. And since she is a raised undead, that means that someone else has control over her, and whoever that is is the one who sent her on those Quests.”
+
+Ah, I see. So she’s a native of this world resurrected by someone like me?
+
+“The odds are high, yes.”
+
+Damn. Sucks for her. And that makes two for two on the other candidates being crazy. Abby, am I the only normal one?
+
+“You are not normal, and even if you were, how would I know the answer?”
+
+I thought you were supposed to know everything.
+
+“You’re not even adding ‘about the System’ to the end anymore. You’re getting lazy.”
+
+“So…” says Annie suddenly, interrupting my conversation with Abby. “You really were human once?”
+
+“Yup!”
+
+“And… there are more people like you?”
+
+“I was told there were 30 of us, but I already killed one, so that brings it down to 29. And I guess you killed one more, so that makes 28. By the way, is the guy who turned you undead also on his second life?”
+
+“Even if I knew the answer, I couldn’t answer that.”
+
+“Of course,” I sigh. “Well, I’m pretty sure I know what’s going on here now. I just have a few final questions. First, are you the only one after me?”
+
+“As far as I am aware, yes.”
+
+“If I kill you, will someone else be sent after me?”
+
+“I can’t say for sure, but I’d guess so.”
+
+“What if I don’t kill you? Will someone still be sent if you don’t finish quickly enough?”
+
+“I… honestly don’t know. If someone else was sent, though, it would take longer than if you killed me.”
+
+“And you’re not just saying that so I don’t kill you?”
+
+She looks downward, seeming very depressed.
+
+“I think… that I might deserve to die. Whether you kill me or not, I truly no longer care.”
+
+“What about…?”
+
+I slowly lower her head downward, but she doesn’t do anything to resist. She just closes her eyes in acceptance and waits for it to happen. It doesn’t happen though because I stop a few centimeters above the pile.
+
+“Damn,” I say. “Well, alright then. I guess I’m not killing you for now. But I can’t just leave you out here. I can’t put you in my storage either. Hmmm…”
+
+Abby, how do I smuggle a severed head into the city?
+
+“I imagine you could handle that fairly easily by teleporting.”
+
+True… How do I finish up this Quest while holding a severed head, though?
+
+“...Don’t? Just leave her head somewhere. It’s not like she can run away, and if she tries to use magic to do it, you have Food Sense.”
+
+Oh, good idea. After I heal up a bit though.
+
+I pull my hand away from my side and find that beneath the blood, a thin layer of skin has formed, though my whole side is kinda concave. It also hurts a ton now that I’m paying attention to it again. How the heck was I ignoring it before?
+
+“High Willpower allows you to compartmentalize your mind better, helping to ignore pain.”
+
+That makes sense. Actually, yeah, as soon as I stopped paying attention and started talking to you, the pain kinda faded into the background. And now it’s back. That’s really useful, actually. Though this still looks nasty, and my organs are kinda fucked up. At least I’ve got that ideal narrow waistline now! All I had to do was eat my own liver!
+
+I lay back on the ground, setting Annie’s head down so that I can rest and she can have an existential crisis or something. After a few minutes, I get a little peckish, so I summon a pork leg and start munching. To my surprise, eating seems to accelerate my healing a bit. Not to a ridiculous degree, but it’s definitely noticeable.
+
+I continue to munch and rest for another hour or so, and by the end, my body is mostly healed. I can still feel it finishing up its work inside, but I feel mostly back to normal now. Annie hasn’t said a word the entire time, and I haven’t said anything to her either. I just teased Abby a bit and maybe dozed off a little.
+
+With my body healed, I conjure a few mana shields thick enough to be opaque and change out of my destroyed clothes into something that looks less like I just almost died. Unfortunately, this gets them covered in blood, but there is no bath out here, so I can’t help it. I make a mental note to store a bathtub in my Stomach later, then dismiss my shields, grab Annie’s head, and fly off toward where the zombies with the cow went.
+
+Weirdly enough, when I get there, they’re already dead. I guess Annie must have undid whatever she did to animate them in the first place. I grab the cow with a giant mana hand as it moos in protest, then fly back toward the ranch.
+
+I keep Annie’s head enclosed in a big mana hand so that she can’t escape if she tries, and also so that I don’t have to touch or smell her. I then talk to the mean old farmer, give him his cow back, claim my prize cheese, which seems to be similar to parmesan, retrieve Annie, then head back toward the city.
+
+With no need to walk slowly anymore, we make it back to the city in just a few minutes, shortly before sunset, and I use a combination of Food Sense and Blink to travel without being seen. I stop by the safehouse first, carving a message to Lauren in one of the cobblestones on the street, then I head over to her house, which is safe now that I have caught the assassin. Once inside, I immediately head for the kitchen and dump Annie into it. She lands on her side, a listless expression on her face as she glances up at me. Then, I turn the water on, and begin the process of washing her off.
+
+A couple seconds later, I sense someone at the door, and it only takes a moment to identify that someone as Lauren. She couldn’t have seen my note at the safehouse, so she must have come home first, which is actually really convenient.
+
+I glance at Annie’s half-clean head in the sink, then back at the hallway where Lauren will soon emerge. Then, I smirk.
+
+“Hey, Lauren,” I call.
+
+“Yona?” she says, walking toward the kitchen. “What are you doing here?”
+
+“I finished my Quest and wanted to come here first. Hey, can you help me out with something really quick? I’m trying to wash this, but I’m not sure how.”
+
+“Yeah, sure,” says Lauren, walking into the kitchen. “What are you making? And why does it smell like sh—?”
+
+She freezes and her eyes widen as she reaches the sink and sees Annie’s severed head inside.
+
+“Yona, what the hell did you do?!”

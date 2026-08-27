@@ -1,0 +1,169 @@
+---
+id: 8883db33-17df-5a78-b813-f911dd1b6ba1
+page-type-slug: story-chapter-royal-road
+title: "57 - Aura Farming"
+slug: 0057-57-aura-farming
+partOf: cat-girl-evolution
+position: 57
+ownLength: 2019
+unit: words
+publishedAt: 2025-12-03
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2814306/57-aura-farming"
+royalRoadId: "2814306"
+---
+
+On the way to the outskirts of the town, we grab Chad and the twins. Chad has been working on something carpentry the whole time. I don’t know what it is, and he won’t show us. It must be something pretty crazy though, since it’s taking him so long. I’m excited to see what it is. A and B have been doing something with their Profession too, but I barely even understand what their Profession is, so I can’t even begin to guess what it might be. I asked them before and they said “Spell Weaving” which is apparently a subset of artificery, but the rest of their explanation went over my head.
+
+I haven’t seen much of them since Lauren and I started gathering scallops, but on the bright side, they seem to have recovered from the shock. Mostly. A and B are still a bit quieter than they were, but their faces are back to being blank and they’re walking normally instead of trudging.
+
+We get out to the front gates and stand in a line, waiting for the new adventurers. I can hear them approaching, and they’ll be cresting the hill ahead of us soon, so I summon my sword and rest it on my shoulder. The others all turn to look at me.
+
+“What are you doing?” asks Lauren.
+
+“Aura farming.”
+
+“What?”
+
+“Don’t worry about it.”
+
+“We’re not here to fight them!”
+
+“Yeah, I know. But I’m pretty sure I look cool as fuck right now.”
+
+“Okay? And?? Put that away!”
+
+“No. I’m aura farming.”
+
+“What does that even mean?”
+
+“I think she means she’s trying to make a strong first impression,” says A.
+
+“It’s not a bad idea,” says B.
+
+The twins glance at each other, then take a few steps to stand on either side of me, half a step behind. They each cradle their staffs to their shoulders, the tips pointing slightly inward toward me.
+
+“Chad, take two steps forward and one to the left,” says A.
+
+“Yeah, good idea,” I say. “Chad, stand there, and then rest your hand on your sword hilt. And Lauren, go lean on that tree and try to act casual.”
+
+“What the hell is going on?” asks Lauren.
+
+Chad glances at me and the twins, then at Lauren, then back at the twins, and then with a faint smile, steps forward and strikes a casual, but cool pose, looking off down the road. Lauren’s jaw drops, completely speechless.
+
+“Lauren, quick, go lean on the tree!” I say. “They’re gonna be here soon. You’re gonna ruin it!”
+
+“I am not doing… whatever the hell this is!”
+
+“Hey, you’re my minion and you need to do what I say!”
+
+“I never agreed to do things like this!”
+
+“It’ll look so cool! C’mon, even Chad wants to do it! Tell ‘er, Chad.”
+
+“...I think it’s kinda fun,” he says slowly in his deep, smooth voice.
+
+Lauren is completely lost for words.
+
+“Please?” says A.
+
+“Ughh, fine!” says Lauren, stomping over to the tree and leaning against it. “Happy?”
+
+“You need to look more casual. Like you’re about to nod off, but you’re secretly paying really close attention.”
+
+Lauren adjusts her position a bit, her cheeks turning red. “Better?”
+
+“Almost. Relax a bit. You look so stiff.”
+
+“We’ll handle this,” says B using her telepathy thingy. “Just keep aura farming.”
+
+I hold back a smile. The twins are the perfect minions. They completely understand my intentions, and over the next minute, I sense them giving Lauren instructions as she keeps making adjustments to look cooler and cooler. She also puts on a black half-mask because she can’t stop blushing.
+
+“This is so stupid,” she mutters under breath.
+
+“I heard that,” I say.
+
+She starts blushing harder, but keeps following A and B’s instructions, settling into something that looks pretty good just a half a minute before the other Adventurers arrive. As long as they don’t look too closely at her cheeks, she should pass. When they crest the hill, I am pleased to see that they are aura farming as well. Well, maybe not “pleased” but definitely “vindicated.” If they were aura farming, but not us, we would have lost.
+
+There are three wagons with them, but they’re linked together like train cars, all pulled by two horses that, if they were humans, would be bodybuilders. They’re so muscular they almost look cartoonish. In the driver’s seat is a man in very shiny silver armor. His helmet is on his left, so his head of bright blond hair is highly visible, and on his right, a longsword with a jeweled hilt and a scabbard decorated in gold filigree is leaning against the wagon wall. He looks handsome, like a movie knight, and his jawline is almost as good as Chad’s, and his expression is serious and stoic like any good knight’s should be.
+
+On the wooden roofs of each wagon, there’s a mage sitting. They all have their legs crossed and their staffs resting horizontally on top of them. Their robes are all the same style, but different colors, going red, blue, yellow from front to back. It actually looks kinda ridiculous. Why did they all choose primary colors? It’s eye-catching, sure, but it’s also tacky. My generic leather looks better. And A and B’s casual gray looks much better, and Chad’s less shiny, more rugged armor makes him look more like a proper knight, and less like a movie knight.
+
+When they get closer, I shoot them a confident smile, knowing that we won this round. If they realize it though, they don’t show it.
+
+“Are you the Adventurers who took care of the Disaster?” asks the knight.
+
+“Yes,” I say. “Are you the ones on the supply run?”
+
+His brow creases slightly. I win again.
+
+“I suppose that is one way to put it.”
+
+“You must be Yona,” he says. “I thought they were insulting you for being crude when they called you a beast. I must apologize for letting that color my expectations, as I now see that it was an accurate physical descriptor as well.”
+
+I narrow my eyes. That was an insult, right?
+
+“Most definitely.”
+
+Wow. Rude. What a sore loser. He lost the aura farming battle and now he’s falling to insults.
+
+“And who are you?” I ask.
+
+“My name is Kai,” he says. “I am a mid Platinum ranked Adventurer specializing in physical combat. The three on the wagons are Larry, Maurice, and Connor, all elemental mages.”
+
+Dang, zero for three. Those names have absolutely no aura.
+
+“Why are you suddenly obsessed with aura?”
+
+Well, at first, I was just messing around, but this is actually pretty fun, so I’m gonna keep doing it.
+
+“...Fair enough.”
+
+“Well, yes, I am Yona, and these are my min– comrades. The witches are A and B, the handsome one is Chad, and that’s Lauren over there.”
+
+Damn, I messed that up. That was not a very aura-ful introduction.
+
+“A pleasure,” says Kai in a tone that makes it clear that statement is a lie. “Well, thank you for taking care of the Disaster and for keeping watch over the village. We’ll take things from here. You’re free to leave.”
+
+I don’t really just want to let him go when he insulted me like that earlier, but they are carrying aid for the formerly starving townspeople, so holding him up for calling me crude would be kind of a dick move. Especially since he seems like the type to escalate instead of calming down. I guess I’ll have to be the bigger person and let him go this time. I’ll remember his name. K– What was it again? Kyle?
+
+“It was—”
+
+Shut up, I’m trying to forget it on purpose.
+
+“Ah, my bad.”
+
+Anyway, I have a feeling I’ll be seeing him again, eventually. He probably came from the nearest city that can host Platinums, and that’s probably where I’ll be going next, so there’s a good chance we’ll run into each other again. I’ll just have to get my revenge then.
+
+“Alright,” I say out loud. “Have fun.”
+
+He nods, then flicks the reins, guiding the overmuscled horses deeper into the city. The three mages nod at me as they pass, each of them with a face more forgettable than the last. I guess it makes sense why they chose such garish colors. They don’t stand out otherwise. No aura in their names or appearance.
+
+We watch them go, mostly holding our poses until they disappear through the gates, at which point Lauren speaks.
+
+“Can I move now?”
+
+I look back and see that her face is completely red beneath her mask. That’s not good. I can’t have my minion ruining our group’s aura.
+
+“Yeah,” I reply. “You did great, by the way. You looked like a proper, edgy assassin.”
+
+She starts blushing harder, but doesn’t respond. I think it’s working.
+
+“That was uncharacteristically kind of you.”
+
+When you’re leading people, you need to use the carrot and the stick. Gotta reward good behavior. You know? Plus, it seems that Lauren likes being praised. I’ll have to keep that in mind.
+
+“So, time to leave?” asks A.
+
+“Yep!” I say. “Let’s go!”
+
+The wagon that we took here is still in the city by the church, but that’s intentional. All the horses in the town are dead, so we decided to leave ours with them in case they needed them, and without the horses, we can’t really pull the wagon. It’s not our wagon anyway, so it’s not a huge deal. It does mean that I have to walk, but that’s actually good, because I can practice with my anatomical constructs more. I can further refine the catmobile, and maybe eventually get it working with the LSMLs.
+
+We didn’t really pack much, since it was an emergency Quest, and everything we need is in our respective spatial storages, so there’s nothing to pack, so we just start walking away from where we met the other adventurers. It feels a little weird to leave like that, but there’s really nothing else to do. I guess I could say goodbye to the people at the church, but I kinda already did that last night, since they knew we would be leaving today. Besides, I barely even knew them. I talked to them for like ten minutes.
+
+So yeah. We’re leaving.
+
+Absolutely nothing exciting happens on the way back. Nothing important, at least. I did get a Profession level from helping Lauren with the scallops, and I get another on the road from helping her cook our meals. I kill a bird and finally get to make wings, but apparently, the laws of physics still apply, so even with wings, I can’t fly. Not yet, at least. I’m sure I’ll figure it out eventually, but for now, standing on a mana hand is still a better way to move through the sky.
+
+I still don’t manage to upgrade Fire Burst, unfortunately. Part of it is that I can’t really use it since we’re surrounded by forest and don’t want to start a fire, but another part of it is probably that I have never actually used even Ember in combat. I mean, I tried it that one time against Flarn, but that doesn’t really count, since I was just using it to see what those bubbles did. It seems that the cruel, unjust System really wants me to use it in actual combat before it will let me upgrade it. Lame, just like everything else about the System.
+
+We get back to Riverfork right in the middle of the day, and as soon as we walk through the gate, some dude calls out to Lauren and says that Pike wants to talk to the five of us. I wanted to take a nice nap in a real bed, but Lauren mentioned that we would probably get our reward, so reluctantly, I follow along, and soon, we’re all in his office, sitting on the couches as he stares at us from the desk with a serious expression on his face.

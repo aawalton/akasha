@@ -1,0 +1,223 @@
+---
+id: 11057898-1ce0-5daf-a16c-a2c77dfe8b2a
+page-type-slug: story-chapter-royal-road
+title: "134 - Help Me Eat Him"
+slug: 0137-134-help-me-eat-him
+partOf: cat-girl-evolution
+position: 137
+ownLength: 2295
+unit: words
+publishedAt: 2026-07-01
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3615678/134-help-me-eat-him"
+royalRoadId: "3615678"
+---
+
+When I open my eyes, I’m back in my old house from Earth again. For a moment, I panic, worried that I’ve somehow triggered another Winter-like trial, but then I notice that I’m in cat form, and that I’m physically here, so if I’m in some weird version of the past, it’s not the same kind as that.
+
+I also feel really weird. It takes me a couple seconds to realize why: none of my Traits are active. But it also doesn’t feel bad. Like, I should be panicking about that, but I somehow know that it’s fine.
+
+Abby, is something messing with my head?
+
+…
+
+Abby?
+
+…
+
+Damn, I guess no Abby. Where even am I? I was fighting Joakim, then he died, then Gluttony said it needed assistance, and then I blacked out… and now I’m here? Is this my soul then? Yeah, that sounds right. Does that mean that Abby isn’t in my soul? I mean, I guess that makes sense, since she’s part of the System, not part of me. I guess I never really thought about where she is. Is she even anywhere?
+
+Hmmm…
+
+Too abstract. I don’t wanna think about it anymore.
+
+So, I’m in my soul, and Gluttony wants me here because…
+
+I look around, and see no signs of anything that might resemble Gluttony. I’m in my old childhood bedroom again, sitting on the pillow, but it’s pretty much exactly how it’s supposed to be. Even the shiny jewels and coins I hid under the bed are there.
+
+Wait, how did I know that?
+
+Okay, so I don’t have Food Sense, but I have some kind of extra awareness here. I can tell where things are without seeing them. Like that candelabra on the wall outside the room. Or that weird mass of foreign energy in the courtyard. Or the cat that looks just like me but is actually my Gluttony Trait staring at it.
+
+I think I understand what the problem might be.
+
+I jump off the bed and walk to the door, which opens on its own as I approach and wander out into the hall. I have a vague feeling that I could just appear out in the courtyard if I want to, but since it doesn’t actually seem all that urgent, and I’ve never seen my soul, I wanna take a look around first. I don’t even know how I got here, much less when I’ll get back. No point in wasting the opportunity.
+
+The hallways are pretty basic, but nostalgic, and strangely enough, in a good way. I never thought I’d miss this house, but it’s clear that this version of the house is not the one that existed when I died. It feels much brighter and more cheerful, and it’s decorated with paintings and flowers that I know Zima would never have put up. This must be the version of my house from back when Mom was still alive.
+
+Curious, I try to feel around to see if there’s anyone else here, but there’s not. It’s just me, Gluttony, and the mass of energy that I’m fairly certain is Joakim. Or at least what’s left of him, because something about it doesn’t feel right. But that’s a problem for later.
+
+I slowly tour the house, checking each and every room. Some details are missing, probably because I wasn’t aware of them back when this snapshot of the house was taken. For example, most of the drawers and cabinets in my parents’ room are empty, and the only ones that have things in them are Mom’s closet and some of her jewel and accessory cabinets that I liked to browse through when no one was looking.
+
+Vitaly’s room is similarly blank, and Aleksandr doesn’t have a room at all. The room that later became his is now just another guest room.
+
+Pleased that that bastard didn’t make it into my soul, I continue my exploration, checking every room and every nook and cranny. The kitchen and pantry unfortunately don’t have any food in them, but it’s okay because I feel uncharacteristically not hungry. There are books in the library and the sitting room, but they’re all full of gibberish that I’m pretty sure aren’t even words.
+
+Outside the front door, the front yard looks the same, but the neighborhood is gone, replaced by a grassy slope going down into a lake with snowy mountains rising high up in the distance. It’s like someone took my old house and plopped them down in the middle of the Swiss Alps.  I squint at them trying to figure out if they’re just a painted backdrop or if my soul is actually that big. I really can’t tell just from looking, but I know my ability to sense stuff gets hazy right around the edge of the lake. I’m not sure if anything actually exists that far out, but it’s certainly pretty.
+
+I head back into the house and meander around a bit before finally stopping at the place I’ve been trying to avoid. The door to the staircase leading down to the basement looks ordinary. I can tell from my soul sense that there’s something down there. Not something alive, but it’s not blank and hazy. I don’t focus too closely on it, and I eventually turn away from the door. Whatever’s down there, I’d rather not see it. I’ll save that for next time I’m here. If there is a next time.
+
+I wander around a bit longer, purposefully taking my time, despite the growing annoyance I sense from Gluttony. I’m not sure how I sense it, but I can feel that it’s not happy with how long I’m taking. That makes me want to take even longer, so I do one final circuit around the house before finally going out the backdoor and into the courtyard.
+
+“Took you long enough,” says Gluttony in my voice. “Help me eat this.”
+
+Not-Me nods her head toward the mass of energy, which I can see is just Joakim’s leech form hovering a meter in the air.
+
+“Why can’t you do it?” I ask.
+
+“Don’t know,” says Gluttony. “Fix it. I’m hungry, and he smells delicious.”
+
+“How?”
+
+“You figure it out.”
+
+I look at Gluttony, who is sitting perfectly still and staring at Joakim with her eyes wide and unblinking. I ignore her demand and just stare at her for a few seconds, confused. I knew Gluttony was a little more independent than I would prefer, but I didn’t realize that it was just a whole different entity in my soul. A rude one too. Is that what Cecilia was talking about when she said getting a Sin Trait to its True form meant gaining control over it? Do I have to gain control over this bitchy Trait? And if so, can’t I just do it now while I’m here?
+
+“What are you waiting for?” it asks.
+
+“I’m waiting for you to ask me more politely.”
+
+“Why? Just help me eat it.”
+
+“I don’t see why I should when you’re asking so rudely.”
+
+“I’m not asking.”
+
+“Exactly. And this doesn’t seem to be very time sensitive.”
+
+“I’m hungry.”
+
+“Are you ever not hungry?”
+
+“No.”
+
+“Well, then this isn’t time sensitive.”
+
+“Help me eat it.”
+
+“No.”
+
+Gluttony turns to me and stares me down with the same intensity it was staring down Joakim.
+
+“Why do you deny yourself this sustenance.”
+
+“I’m denying you the sustenance.”
+
+“We are one. You are me. I am you.”
+
+“Nuh uh. You are my Trait. I am in charge.”
+
+“No.”
+
+“Yes.”
+
+“No.”
+
+“Yes.”
+
+“No.”
+
+I stare at Gluttony for a few seconds, then sigh. I’m pretty sure that if I kept going, Gluttony would just keep doing that forever. It doesn’t quite feel alive, if that makes any sense. Or maybe not intelligent. Which would explain why its messages were so ominous. It’s literally just a hungry entity with an attitude living in my soul. It does not care about tact or anything like that. It just wants to eat.
+
+Which brings me back to the main issue of it being unable to eat Joakim. I focus my soul sense on him and the feedback is weird. He feels even less alive than Gluttony. He’s clearly right there, but he’s completely inert. I guess he is dead. Maybe that’s why Gluttony can’t eat him? Joshua was alive when he tried to possess me, but Joakim died in my stomach with no possession involved, and he ended up in here because… I guess because that’s where souls go when they die in my stomach?
+
+“Did that Carnivorous Mussel Swarm end up in here too?” I ask.
+
+“Yes, and it was tasty. Now help me eat Joakim.”
+
+So, that means it’s not the fact that he’s dead that makes it impossible for Gluttony to eat him. So what’s different about Joakim? It can’t be that he’s a higher Tier than me, because the mussel swarm was also a higher Tier. Unless it’s different because he’s Named and the mussel swarm wasn’t? But that can’t be right either, because Joshua was also a Tier higher than me and a Named monster. He even had a Virtue Trait.
+
+I wish Abby was here to do my thinking for me. Maybe I should leave and ask her? I’m pretty sure I can leave whenever I want. It feels like that’s something I can do. But will Gluttony just yank me back if I do? Will I be able to stop it from yanking me back if I leave without helping it eat Joakim first?
+
+Guess there’s only one way to find out.
+
+I focus on leaving my soul, and the next moment, I open my eyes again to find that I am back in the Dungeon. Joakim’s Dungeon, specifically, with the aftermath of the battle all around. I’m also back in cat form, even though I was fighting in catgirl form. The others are standing around looking concern, but look relieved when I wake up.
+
+Immediately, I feel another mental tug of Gluttony trying to pull me back in, but I just put up a bit of resistance, and it fails. Gluttony keeps trying, but I resist long enough to talk to the others for just a little bit.
+
+“What happened?” asks Lauren.
+
+“It’s complicated, but I’m fine,” I say. “And I might have to go back in a sec. Hold on, I need to talk to Abby.”
+
+“Yes?”
+
+“Okay, so basically…”
+
+I explain what I found in my soul, and the strange state of Joakim as well as my thoughts on the matter, and she immediately has an answer, as usual.
+
+“Maybe his Sin Trait is of a higher Stage than yours.”
+
+…Oh yeah, why didn’t I think of that?!
+
+“Or maybe just the same Stage. But you should ask Gluttony what Stage Joshua’s Temperance was. If he was at the same Stage or lower, then you’ll have your answer. Maybe.”
+
+Okay, good idea. Thanks, Butler!
+
+With that, I stop resisting, allowing Gluttony to pull me back in, where I reappear right back beside it and Joakim.
+
+“Help–” it starts.
+
+“What Stage was Joshua’s Temperance.”
+
+“Four. Now–”
+
+“And what Stage were you when you ate him?”
+
+“Five. Now–”
+
+“Okay, I’m pretty sure that eating Joakim is going to be impossible.”
+
+“No. Help me eat him.”
+
+“I can’t. I’m pretty sure his Envy is the same Stage as you, or higher, which is why he’s inedible.”
+
+Gluttony looks over at Joakim, then back at me.
+
+“Oh.”
+
+“Yeah. So stop being so annoying.”
+
+“I’m hungry.”
+
+“Yeah, I’ll go eat something when I get out.”
+
+“Bring me Fiona, then.”
+
+“What? No!”
+
+“We had a deal. I let her free so she could bring me Joakim. But she failed. You brought Joakim, not her. So now I get to eat her.”
+
+“No.”
+
+“Yes.”
+
+“No, and if you keep asking, I’m going to let Joakim go.”
+
+Gluttony’s eyes widen. I honestly didn’t even know I could do that until I said it, but now that I’ve said it, I realize it’s entirely possible. In fact, not only can I let him go, it feels almost like he wants to go. Well, no, not him. It’s like there’s something else trying to pull him out. Probably because he’s dead, I guess, and I’m not supposed to keep dead souls.
+
+“You wouldn’t,” Gluttony says.
+
+“I would,” I say. “So stop asking for ridiculous things.”
+
+“But I’m hungry!”
+
+“Well, you’ll be hungry anyway even if I give you Fiona, so just deal with it. I’ll try to find something else you can eat later.”
+
+“You’d better.”
+
+“Alright then, do we have a deal? You stop bothering me, and I’ll try to find you something else to eat. And I’ll also help you eat Joakim eventually by upgrading you.”
+
+“Fine,” it says. “But hurry up. I’m hungry.”
+
+“Yeah, you’ve mentioned.”
+
+With that taken care of, I do one last scan of my soul to make sure there’s not anything that I missed, then I head back out. This time, the others are no longer crowding around me. Lauren has me in her arms, but everyone else seems to be busy with stuff. The twins are talking to Fiona, and Chad is idly carving some wood as Abby’s avatar crouches beside him and watches. Her presence confuses me for a second before I remember that I usurped Joakim’s Dungeon, so I guess that means she can appear here now too.
+
+“Are you back now?” asks Lauren when she feels me stir.
+
+“Yup, I’m back,” I say.
+
+“And you won’t need to go back into whatever that state was?”
+
+“Nope!”
+
+“Great. Now we can figure out what to do with this Dungeon, as well as the surviving undead.”

@@ -1,0 +1,105 @@
+---
+id: 3383d19d-5906-5d2f-9e0b-be5f29cf79ed
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1424 - Gather the Tribes"
+slug: 0072-chapter-1424-gather-the-tribes
+partOf: chrysalis
+position: 72
+ownLength: 1051
+unit: words
+ownProgress: 1051
+publishedAt: 2024-10-04
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1833668/chapter-1424-gather-the-tribes"
+royalRoadId: "1833668"
+markedReadAt: "2026-06-29T19:46:00.336Z"
+---
+
+Neutral ground in the fifth wasn’t really something the Krath did. The tribes were always at war, and meetings between them were always tense affairs. No tribe wanted to reveal the location of their Slimegrounds, so the open tunnels were the preferred place to come together. However, the open tunnels were the most treacherous locations, filled with danger and perfectly ripe for ambush.
+
+“Are you sure they aren’t surrounding us?” Goszi muttered softly.
+
+“Shut up, you’re going to give us away,” Zluth hissed softly.
+
+The two were pressed down as flat as they could go, their eye stalks extending only a little into the air to see what was coming.
+
+They were as hidden as they could be, but even so, Zluth felt uneasy. Knowing what was coming, how could he not be?
+
+“Any sign of them?”
+
+“For the last time, shut up or I will eat you on the spot, stealth be damned!”
+
+Gozsi finally subsided, grumbling and sizzling to himself. The old slug was especially nervous. Not as fast as he used to be, he’d be a sitting duck caught out here.
+
+If the Suggoth tribe decided to kill them, then he was as good as dead.
+
+Zluth, however, was confident. News of an invasion of the fifth would grab the attention of any Krath. It would do more than that, it would boil the acid inside their flesh, driving them into a rage. If there was one thing the Krath hated more than each other, it was outsiders inside their stratum.
+
+The air was thick with dense mana; the stratum was breathing, an auspicious sign.
+
+The two Krath remained hidden, protected as well as they could be as the monstrous life native to the fifth moved around them. This section of tunnel was busy, filled with nourishing slime and mucus, which allowed a rich variety of monsters to flourish.
+
+It was hours before they saw any sign of the Suggoth. A subtle shift of colour in one of the mould beds, followed by a faint glinting of light, almost imperceptible.
+
+The agreed upon signal.
+
+“Goszi, they’re here,” Zluth hissed.
+
+The two members of the Slee tribe made their way down toward the mould with extreme caution. At any moment, Goszi feared a dozen fearsome Suggoth warriors would leap at them from amongst the mucus strands, but no such attack came.
+
+When they were still ten metres apart, the two sides beheld each other. The Suggoth had sent four members, safety in numbers, despite pledging to bring only three. It wasn’t unexpected.
+
+For several long moments, six pairs of eyes extending up just a few inches from the mould watched each other suspiciously. Nearby, the monsters of the fifth went about their business, unaware of the well-concealed Krath in their midst.
+
+It was Zluth who broke the silence, uncompressing himself just enough to free his mouth so he could speak.
+
+“Welcome, brothers and sisters of the Suggoth tribe.”
+
+“You welcome us to our hunting grounds?” one of the Krath burbled harshly. “Speak quickly, Slee, or we will annihilate you on the spot.”
+
+That they hadn’t already done so was a good sign to Zluth. Clearly, they were willing to listen.
+
+“The Slee tribe has lost its Slimeground; this is the reason why we have been forced to come here. Before you ask, no, we were not defeated by another tribe, but displaced by an invasion from above.”
+
+The four Suggoth slugs trembled in rage at the mere mention of such an affront.
+
+“Who would dare to invade the fifth? Haven’t we punished the previous attempts harshly enough?” one spat.
+
+“The answer is surprising,” Zluth burbled maliciously.
+
+“Then who? Who is it?”
+
+“Everyone. The humans, the golgari, the ka’armodo, the Folk, the trees, all of them together. And they are using a species of monster they crafted as the vanguard. An enormous colony of ants.”
+
+As he spoke, the other Krath grew so incensed they began to sizzle and pop, the rage igniting the acid in their flesh.
+
+“We will need to confirm your words,” one strangled out.
+
+“Of course. If you head towards the old Slee territory, you cannot fail to find them. A word of warning: they are spreading a bubble of blue mana to protect themselves, and it is deadly to any native of the fifth. Do not get close to it.”
+
+The four Krath absorbed his words, taking a moment to calm their rage. If they exposed themselves here, they would die to the monsters, an embarrassing end for a member of the slug tribes.
+
+“If what you say is true…” one gurgled, “then your presence in our territory will be forgiven for now.”
+
+“Of course, the Slee would be more than happy to return to our own Slimegrounds once the invaders have been purged,” Zluth replied smoothly.
+
+The Suggoth were in a difficult position. They would like nothing more than to annihilate the Slee, but if they were found attacking another tribe during an invasion, the other tribes would surely annihilate them.
+
+However, that was only if they were caught.
+
+Four sets of eyes watched him carefully, weighing his words.
+
+“We will assess the truth of what you’ve said, then we’ll return to speak to you again,” one stated finally.
+
+“Good,” Zluth said. “Soon, we will need to work together against a common foe.”
+
+“That remains to be seen.”
+
+With the conversation concluded, both sides compressed themselves back down and slowly moved away from each other, making sure to keep watch the entire time.
+
+“That went surprisingly well,” Goszi noted. “Why did you have to drag me out here for this? I’m too old to be out in the tunnels like this.”
+
+“I don’t want you to feel safe,” Zluth replied as they continued to creep away from the meeting site. “And someone else needs to be a witness in case something happens to me. Someone who would never be chosen to replace me as Krath’lath.”
+
+“Good point,” Goszi observed sourly.
+
+Zluth was well pleased with how things had gone. When the Suggoth had confirmed the invasion, the tribes would gather, and the full might of the Krath would be pitted against those from above. It would be a glorious purge, with much to be won, and he intended to be right at the forefront.

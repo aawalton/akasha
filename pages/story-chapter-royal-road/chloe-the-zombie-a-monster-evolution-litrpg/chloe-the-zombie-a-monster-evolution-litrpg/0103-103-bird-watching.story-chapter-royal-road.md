@@ -1,0 +1,147 @@
+---
+id: 94999489-2308-509e-842c-fa7f57f79c1b
+page-type-slug: story-chapter-royal-road
+title: "103: Bird Watching"
+slug: 0103-103-bird-watching
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 103
+ownLength: 1998
+unit: words
+publishedAt: 2026-01-21
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2964518/103-bird-watching"
+royalRoadId: "2964518"
+---
+
+They left for the mountainside later that day, heading toward the place where Thunder Birds supposedly nested. Getting out of Aetherion was easy, since the guards barely looked at them thanks to Ynett’s disguise. The real trouble started once they reached the open road and had to figure out how to actually travel.
+
+Chloe had called Mr. White back and was ready to hop onto his back when she remembered Raenof didn’t have a ride anymore. His poor horse went missing during the inquisitor chase, and they hadn’t seen it since. Before she could think of a solution, Ynett offered to use her magic so Raenof could fly.
+
+Chloe immediately said no. There was no way she was letting Ynett throw Raenof into the sky with mystery magic. Ynett, of course, acted like it was a perfectly reasonable suggestion, which only made Chloe trust it even less.
+
+Ynett could fly on her own, apparently, and Chloe did not like the thought of her drifting around unsupervised. So she decided she would fly too. That way, she could keep an eye on the meanie and make sure she didn’t try anything sneaky.
+
+That left Raenof and Sierra with Mr. White. The skeleton horse wasn’t thrilled about having Raenof on his back at first, so Chloe leaned down, patted his skull, and told him Raenof was actually a cool guy. Mr. White snorted, then begrudgingly accepted the situation.
+
+With Sierra settled behind Raenof on Mr. White and Chloe lifting off to match Ynett’s pace in the sky, the group finally headed toward the mountains. Since she was flying, that meant she suddenly had extra responsibility.
+
+She kept reminding herself what Thunder Birds were supposed to leave behind. The first sign was the clouds. Not normal clouds, but the weird swirling ones that formed when a Thunder Bird got moody. If she saw the sky twisting in a spiral, that meant they were close.
+
+The second sign was burnt dirt. Thunder Birds sometimes blasted the ground when they took off or landed, leaving big, blackened patches across the earth. The last sign was checking for big feathers that crackled with faint lightning. If she spotted even one of those, they’d know exactly where to go.
+
+Chloe scanned everything she could. She wanted to spot the bird before Ynett did. Actually, she needed to. If Ynett found it first, Chloe would never hear the end of it, and Ynett would probably be all smug about it.
+
+Anyway, Chloe kept scanning the cliffs like a proper bird hunter, which she definitely was not, but she liked the idea of it. The wind pushed against her as she flew a little ahead of the group, trying to look focused. Every now and then she glanced sideways to make sure she was still beating Ynett in speed.
+
+She tried to keep her eyes sharp for any clouds swirling weirdly. But the sky stayed painfully normal. She huffed and pushed her hair back. Come on, sky. Do something cool.
+
+It wasn’t long before she spotted what looked like a patch of scorched dirt near a rocky outcropping. Chloe swooped down fast enough that Raenof shouted her name behind her. The moment she landed, she puffed out her chest a little. “Found something!”
+
+Except… once she crouched closer, the “burnt patch” turned out to be a campfire someone had put out a little too aggressively. Pieces of burnt wood poked out from the dirt, and there was even an old stick with some burnt meat stuck at the end.
+
+Raenof caught up, breathing a little harder than usual. “Chloe… this is not a Thunder Bird sign.”
+
+“I knew that,” she said quickly.
+
+“You clearly did not.”
+
+“Okay, maybe I didn’t. But it looked suspicious from higher up!”
+
+"Right, well, let's just keep going."
+
+They moved on, and Chloe returned to the sky, determined to redeem herself. She pushed ahead again, sweeping the mountainsides. A while later, she spotted something glinting between two boulders.
+
+Chloe shot forward and landed with enough force to kick up dust. “Found it for real this time!”
+
+It was not a Thunder Bird feather. It was a shiny spoon. A very reflective spoon. Someone had dropped it near a bundle of old cloth, probably from a traveler’s pack. Chloe held it up anyway as the rest of the group approached.
+
+Raenof pinched the bridge of his nose, and Sierra just looked unsure whether she should laugh or not. Ynett was smiling, which annoyed Chloe more than anything. She dropped the spoon with a grumble and pushed back into the sky, muttering that spoons shouldn’t be allowed to be that misleading.
+
+They searched for a while longer until another possible sign appeared near the base of the cliffs. This time Chloe didn’t dive as aggressively, but she still made sure to get there first. The ground did look darker, and something faintly sparkly lay across the rocks.
+
+Her hopes rose, then fell instantly when she picked it up. A piece of broken pottery. Blue glaze with tiny white flecks.
+
+“I hate everything on the ground,” she muttered.
+
+Raenof gave her a gentle pat on the shoulder. “It is fine. These things take time.”
+
+They kept going until the sun dipped a bit lower. The path narrowed and twisted upward as Chloe hovered in the air again, squinting into the distance. Something bright flickered near the ridge. “There! I saw something! I swear I did!”
+
+Raenof stared hard at the spot, then glanced at her. “Chloe… are you certain this time?”
+
+“Yes!!”
+
+"Are you really sure?" Sierra asked.
+
+"Totally!"
+
+Ynett floated over with a thoughtful hum. “Well, I am happy to go with the majority. If most of you believe Chloe, then we follow her lead.”
+
+Chloe puffed out her chest a little as she flew ahead, leading the group toward the ridge where she definitely saw something shiny earlier. This time I know that I have to be right.
+
+She beat her wings a little harder to look extra confident, even though she almost smacked into a passing tree branch. The ridge came into view as they rounded the next rise. Sharp cliffs jutted out over a drop so steep it made her toes curl.
+
+Something glimmered at the edge, caught in the sunlight. Chloe nearly squealed. She swooped down fast enough that her hair whipped straight back and she almost collided with a big rock.
+
+“I knew it! I knew it this time!” she yelled as she landed.
+
+A long feather was wedged between two jagged stones. It was huge, way longer than Chloe’s arm, and shimmered with faint blue sparks.
+
+Raenof arrived next, sliding off Mr. White with Sierra right behind him. Ynett descended in that irritatingly smooth way of hers, while Chloe bounced in place.
+
+Raenof crouched beside the feather and reached out carefully. “Wow, this really is from a Thunder Bird. Fresh, too. Not more than a day old.”
+
+Chloe beamed so hard her cheeks hurt. “Ha! I told you!"
+
+Sierra peered at the feather with wide, nervous eyes. “So, does this mean we have enough for the ritual now?”
+
+“That was what the text implied. A body part from a beast of the sky was all that's needed, so a feather should qualify.” Raenof said.
+
+Chloe clapped her hands. “Great! Perfect! Fantastic! Let’s go do the ritual then."
+
+But Ynett’s feathers rustled softly as she tilted her head. “We should be cautious. If the feather is fresh, the creature may still be nearby.”
+
+Chloe opened her mouth to reassure everyone that things were totally under control, but the sky answered before she could. A shriek ripped through the air, sharp enough to feel like thunder stabbing straight through her ears. Her whole spine snapped straight, every instinct screaming at her that this was very, very bad.
+
+Raenof tilted his head upward. Sierra whimpered and pressed herself tight against Mr. White’s skeletal ribs. Ynett, of course, simply lifted her chin and stared calmly toward the clouds.
+
+Chloe squinted up as a massive silhouette circled high above them. Its wings stretched wider than the cliff itself, each beat stirring the air with heavy gusts. Lightning ran across its feathers in vivid streaks. The creature spun once with terrifying grace, shrieked again, and angled downward in a deadly dive.
+
+“Run!” Chloe shouted. “Go go go go! Everybody, Mr. White, move!"
+
+Mr. White sprang into action, hooves pounding in rapid bursts as he bolted down the path. Raenof tucked the feather safely away before scooping Sierra close and sprinting after the skeletal horse with surprising speed.
+
+Chloe shot into the air, and beside her, Ynett rose in one smooth, elegant glide, looking far too calm for someone who might be hit by a lightning bird any second now. Soon, the world behind them erupted.
+
+The Thunder Bird slammed into the cliff with explosive force. Stone shattered beneath its talons, sending jagged shards bursting outward. A booming crack rolled across the mountainside, swallowed almost instantly by the roar of thunder and the storm of dust rushing past them. Chloe screamed something that she couldn't even hear herself thanks to the loud boom behind her.
+
+All she knew was that their plan had turned for the worst. They weren’t hunting a Thunder Bird anymore. The Thunder Bird was now very much hunting them.
+
+Chloe kept flying as fast as she could. She wanted to focus on getting away, she really did, but curiosity yanked her head around before she could stop herself. When she glanced back, she finally got a proper look at the Thunder Bird chasing them.
+
+It was stupidly huge. Its feathers were a deep blue, glowing at the edges.
+
+Its wings stretched wide, each flap sending crackles of static through the air. A hooked, predatory beak snapped open and shut with sharp clicks, and its talons looked big enough to pick up a small house and throw it for fun. The worst part was its eyes, which locked directly on Chloe. It didn’t just look angry. It looked hungry. Or maybe both.
+
+“Oh no no nope nope nope,” Chloe muttered, pumping her wings faster.
+
+She knew Raenof and Sierra could be in big danger if that thing decided to swoop lower, and Mr. White, could only run so fast. So, Chloe clenched her teeth and spun around mid-air.
+
+If the bird wanted something to chase, she could be bait. She shot upward and waved her arms. “Hey! Stupid Bird! Over here!”
+
+The Thunder Bird screeched and dove straight at her. Chloe yelped and hurled a fireball at its face. The fireball hit, crackled brightly, and then fizzled out. Kay, that didn't work.
+
+She tried again, this time conjuring a shadow spear. The spear shot through the air in a perfect arc that she was actually very proud of. It struck the bird’s chest, then dissolved like smoke, leaving nothing but a faint ripple in its feathers.
+
+Chloe’s jaw dropped. Seriously?That should’ve done something!
+
+The Thunder Bird clearly disagreed as it lunged forward, faster than she expected, and its beak snapped down around her torso. Chloe yelped as the bird clamped down and lifted her like she weighed nothing at all.
+
+“HEY, I'M NOT A SNACK!” she shrieked, kicking wildly as the creature shook her over and over. If she had been a normal person, she would have been dead or in half by now, but instead she just rattled around. Being a zombie meant she was durable like that.
+
+Still, Chloe’s vision wobbled. Her head spun. Somewhere below, Raenof shouted her name, Sierra screamed, and Mr. White made an angry skeletal noise that sounded like clacking bones.
+
+Chloe flailed, twisted, and finally managed to look upward. Ynett hovered a short distance away, completely unbothered. Her expression was calm, almost bored, and she made absolutely no move to help.
+
+“YNETT!” Chloe screamed as the bird shook her again. “STOP WATCHING AND DO SOMETHING!”
+
+Ynett’s lips curled into an amused smile. “If you insist.”

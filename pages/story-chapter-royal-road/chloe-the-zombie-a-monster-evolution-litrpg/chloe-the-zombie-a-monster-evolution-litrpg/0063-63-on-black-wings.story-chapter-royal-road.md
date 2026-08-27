@@ -1,0 +1,137 @@
+---
+id: bb994676-f18d-565a-868d-6d797a685827
+page-type-slug: story-chapter-royal-road
+title: "63: On Black Wings"
+slug: 0063-63-on-black-wings
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 63
+ownLength: 1568
+unit: words
+publishedAt: 2025-11-03
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2728688/63-on-black-wings"
+royalRoadId: "2728688"
+---
+
+This latest evolution hit Chloe real hard. She blinked a few times as the world slid back into focus. And soon, the ground felt solid again under her boots.
+
+She always felt good after an evolution. But this time felt different. Chloe felt almost like she’d been remade from the inside out. Whoa. I feel strong. Like, really strong. No, really really strong!
+
+Weirdly, her body didn’t look that different though. She glanced herself over, same hands, same pale skin. Even her reflection in the water nearby looked mostly like her old self.
+
+However, Cloaky…  looked a lot nicer. Like, it just looked tighter and cleaner, like someone had washed and polished it a lot. And her clothes were new too. Sleek, black, and just a little fancy. Not noble fancy, but definitely “I can punch you and look good doing it” fancy.
+
+[You have successfully completed your third evolution!]
+
+[Your new Species is: Ascended Wraithlord Zombie – Level 1]
+
+[+513 Strength, +412 Speed, +444 Vitality, +615 Magic, +388 Resistance]
+
+Chloe stared at the stat screen, her jaw dropping just a bit. She’d known evolution came with some juicy bonuses, but this? This was ridiculous.
+
+That’s like… a whole mountain of stats. I could probably punch through a house. Or three houses stacked on top of each other. Or a mountain made of houses.
+
+And the name of her new species wasn’t bad either. Ascended Wraithlord Zombie  sounded fancy. Of course, Chloe had no clue what a wraithlord actually did, but it definitely sounded very epic and cool. And most importantly, Z didn't forget to make sure she kept "zombie" in the name of her new species! Aww, she's so nice.
+
+But anyway, Chloe hadn’t even gotten to the best part yet. There were still all the new skills and whatever special goodies Z had crammed into her evolution. And sure enough, another notification popped up right on cue.
+
+[Due to ERROR, several skills have received alterations. Would you like to check your Skills List?]
+
+Chloe squinted at the word “ERROR,” tilting her head as if that would make the message explain itself.  Huh, what's that all about? Hmm, probably not a big deal right? Not like I feel anything weird right now.
+
+She poked the notification lightly, half expecting it to buzz back at her. But nothing really happened.
+
+The System didn’t give her any clues. Everything still looked normal. Notifications kept appearing, and nothing on her body felt weird or about to fall off. She flexed a finger just to be sure, but nothing really was acting too weirdly except for that error thingy.
+
+So, with that settled for now. Chloe decided it was time to get a good look at all of her skills.
+
+[Displaying Skills]
+
+[Combat Skills]1. Unarmed Combat X2. Martial Weapon Mastery I
+
+[Utility Skills]1. Thieving VIII2. Tremor Sense III3. Horse Riding IV
+
+[Magic Skills]1. Mana Mastery III2. Tri-Elemental Magic Affinity I3. Tri-Elemental Magic Resistance I4. Basic Tri-Elemental Spell Mastery I5. Dark Magic Affinity X6. Magic Resistance X7. Basic Dark Magic Spell Mastery I8. Wraith Form I9. Shadow Spears I10. Acidic Spit III11. Acid Resistance III12. Charm Resistance VII13. Blood Magic Affinity IV14. Blood Kinesis I15. Blood Arsenal I16. Divine Magic Affinity I17. Divine Resistance I18. Divine Barrier I19. Divine Fear I20. Greater Healing Touch I
+
+[???]1. Heresy III
+
+Chloe stared at the list. Then she blinked, tilting her head like it might rearrange itself if she squinted hard enough. Wait a second… is this seriously the first time I’ve actually looked at all my skills properly?
+
+She scratched her cheek, a sheepish grin creeping in. Uh… I think it actually might be. Wow. Can’t believe it took me this long to check my own skills. Well, guess there’s a first time for everything.
+
+What became quickly clear, however, was the fact that Chloe had a lot of skills. And that was even after Z had smooshed a bunch of them together.
+
+Chloe started at the top of the list, skimming for anything that stood out. Her old sword and dagger skills were gone, now replaced by something called Martial Weapon Mastery. She didn’t know the exact details, but her gut told her it probably covered most stabby and smashy weapons now. So, it was probably an upgrade.
+
+Next came the Tri-Elemental stuff Z had promised: fire, earth, and ice, all bundled into one neat little package. The Spell Mastery skill stood out too. Something in the back of Chloe’s head told her that one was what unlocked a bunch of new spells, definitely something she’d have to mess around with soon.
+
+Then came the upgraded resistances. Magic resistance got stronger, charm resistance too, and even her dark magic affinity ticked up. Also, her Heresy skill gained a level as well. Z said that one was important, so that felt like a win.
+
+And after that was the divine stuff. Just like Z said, she got a couple of divine skills like Divine Affinity, Divine Barrier, and whatever Divine Fear was.
+
+Chloe's eyes sparkled as she scrolled through everything again. There was so much cool stuff packed into the list, like that greater healing touch skill, and she hadn’t even seen her traits yet.
+
+Maybe that Healing Touch skill could help with Mr. White too. What if she could heal him back to normal? The thought excited her, though there was still so much to figure out.
+
+[Would you like to view the rest of your stat screen now?]
+
+Chloe thought about this hard. She was tempted, but her head was already swimming. Too many numbers all at once wasn't doing great things to her brain.
+
+“System, just show me the new traits that I got for now."
+
+[Here is a summary of the changes: 1 trait has evolved, and you have gained 3 new traits.]
+
+[Profane Regeneration (Uncommon) has become Blasphemous Regeneration (Epic)]
+
+[New Trait Acquired: Scion of Night (Epic)]
+
+[New Trait Acquired: Otherworldly Glamor (Epic)]
+
+[New Trait Acquired: Shadow Wings (Epic)]
+
+Chloe could barely contain herself. Three new traits, and all of them were Epic! Oh wow, I can’t wait to try all this stuff! I bet Otherworldly Glamor makes me look extra cool. And Scion of Night? That one sounds like I get free spooky powers just for existing!”
+
+But even with all the shiny new names bouncing around her head, there was one thing that stood above the rest. Shadow Wings.
+
+[Shadow Wings]
+
+Allows the user to manifest wings formed from condensed shadow energy. Wings grant the ability to fly, and flight speed increases significantly in low-light or total darkness. Wings may be summoned or dismissed at will.
+
+Huh. That’s… surprisingly easy to understand. Chloe thought.
+
+She had expected something more complicated. Maybe a dramatic warning that her spine might explode, or a message about unlocking forbidden sky powers. But nope. Shadow Wings just did exactly what they were supposed to do.
+
+Chloe closed her eyes and focused. It wasn’t even hard. Something inside her just clicked. A cool sensation washed over her, like someone had poured liquid night down her shoulders.
+
+She opened her eyes, then turned to look, and immediately grinned. Wow.
+
+Stretching out behind her were a pair of massive wings made entirely of shadow. Each feather shimmered like smoke, the edges fuzzy and flickering like they didn’t quite belong in the real world.
+
+Chloe didn’t even hesitate. She knew exactly what she wanted to do. With a wild laugh that turned into a half-squeal, she bent her knees and jumped.
+
+The wings caught her weight like they’d always been part of her. She shot up into the air, her laughter trailing behind.
+
+“I’m flying! I’m actually flying!” she shouted, spinning midair just because she could. “I am the darkness! I am—”
+
+The wings tilted. A little too far left. Uh oh.
+
+Chloe flailed in the air as she  panicked. Her whole body wobbled and jerked sideways. Turns out, flying wasn’t exactly easy, and that was something Chloe was learning the hard way.
+
+She plummeted, flapping wildly as the trees below rushed up to greet her. At the last second, she spotted Raenof standing at the edge of a clearing.
+
+“Raenof! Heads up!” she screamed.
+
+The elf glanced up just in time, eyes going wide. Chloe thought he might try to catch her or help her somehow, but instead, he just took a few steps to the side.
+
+Chloe missed him by a hair and crash-landed into the dirt. Cloaky flipped over her head as she hit the ground face-first, her butt sticking straight up. I am so gonna have a talk with Raenof after this.
+
+After a lot of grunts and effort, Chloe pushed herself up, bits of grass and mud sticking to her face. Cloaky slithered back into place on her shoulders like it was pretending none of that had just happened.
+
+She wiped at her mouth, still crouched, then pointed a finger at Raenof. “Hey! Why didn’t you catch me?”
+
+“You look fine to me. Maybe you didn’t need to be caught at all.”
+
+“Well, yeah, obviously I’m fine. But, y’know, catching me would’ve been nice!”
+
+Raenof raised a hand in a small, apologetic gesture. “Fair enough. My mistake."
+
+But then his eyes shifted, his expression softening into something more serious as he studied her. “Chloe… you’ve definitely changed. What exactly happened while you were uh, doing whatever it was you were doing?"

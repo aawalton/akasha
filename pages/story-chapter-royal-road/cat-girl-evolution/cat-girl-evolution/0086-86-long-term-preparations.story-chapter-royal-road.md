@@ -1,0 +1,93 @@
+---
+id: cffca2a9-f0fc-5537-a317-258b930c804c
+page-type-slug: story-chapter-royal-road
+title: "86 - Long Term Preparations"
+slug: 0086-86-long-term-preparations
+partOf: cat-girl-evolution
+position: 86
+ownLength: 2841
+unit: words
+publishedAt: 2026-02-08
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3024225/86-long-term-preparations"
+royalRoadId: "3024225"
+---
+
+Back in the capital of Elyria, Arianne was enjoying a comfortable warm bath deep in the comfort of her own estate. Long-distance teleportation was convenient, but being squeezed through a tunnel of space always seemed to leave her exhausted in a way nothing else did, and a bath was the best remedy. Plus, she missed the comfort of her own home.
+
+She had spent an entire week in Riverfork before revealing herself to the young Infiltrator, hidden in the bunker beneath the Guild. Given the potential danger of a new Infiltrator, someone powerful enough to stop her needed to be present in the city in case she began going down the wrong path, and given Arianne’s personal interest in the case, she volunteered to take on that duty herself.
+
+That first week of observation had told her most of what she needed to know. In fact, a single glance had told her most of what she needed to know, and the first question in the interview—the one about her Infiltrator Quest—had told her the rest. Her soul was too old and too mature for it to belong to a recently-evolved monster, and her mannerisms were too human. It was obvious what she was.
+
+Arianne already knew about the game with the gods. The unfortunate victim of the Tarnton assassination was not the only new Named monster that the Guild had in custody, and the other was quite cooperative. Arianne had personally interrogated her, getting all the details she could so that she and the Guild could prepare for the chaos this would no doubt cause.
+
+Of course, there was nothing she could do to stop the gods’ game. Well, perhaps she could, but she knew the gods well enough to know that interrupting their game would not end well for her. All she could do was try to prepare the Adventurers’ Guild to minimize the collateral damage as best they could. And a key component of that was locating and gathering information on all the mortals being used as the gods’ playthings.
+
+Yona had been a pleasant surprise. Yona was lazy, prideful, gluttonous (of course), selfish, rude, reckless, and impulsive… but she was not an existential threat to the world. She would not kill innocents, her goals—at least on the surface—would not cause any major issues, and when it all came down to it, even if she wasted the rest of her life, she had already done the world quite a bit of good. The Guild would, of course, need to keep tabs on her, but Arianne didn’t expect any serious trouble.
+
+The other divine avatars, though… Even the cooperative one in the Guild’s custody was more troublesome. She was not any more dangerous than Yona, but unlike Yona, she had grand ambitions. She wanted to hunt the other Avatars. She was cooperating with the Guild, hoping they would do her work for her. Still, at least she was manageable.
+
+Arianne let out a long sigh, sinking down into her tub until only her nose and up were above the water.
+
+Arianne was a pragmatist, but sometimes, being so pragmatic was painful. As powerful as she was, she could solve most of her country’s problems directly if she wished. The spawn of a new Named monster? Not a problem. She had killed hundreds. A Dungeon break? There were few Dungeons in Elyria whose denizens she could not effortlessly eradicate. War threatening to break out? Well, there was a very good reason that the disagreements between nations so rarely became violent.
+
+In the past, she had personally resolved many issues. She had a different name and face then, but it was still her. She wanted to save all the people that she could, and she used her power to solve crises all across the continent. At first, it worked. She was saving lives. Everyone was happy. She was worshipped not only as a hero, but the entire continent relied on her as their protector.
+
+But the more they relied on her, the weaker they got, and the more work Arianne had to do. The ambitious Adventurers still got stronger, the same as they did before, but they became fewer and fewer, and the rest of the world got weaker, until at some point, Arianne could no longer keep up. The crises appeared faster than she could squash them. Elyria fell into a dark age, and Arianne was weighed down by the guilt of her failure.
+
+Then, something miraculous occurred. Amidst the suffering and catastrophe, new heroes emerged. All across the continent, warriors fought to protect their homes, distinguishing themselves and earning powerful Classes, Titles, and Traits. Crises started being resolved before Arianne could even get to them. The people rallied, and as a whole, became stronger.
+
+Arianne was filled with a new kind of guilt as she watched all this happen. The catastrophe was her fault, but not in the way she imagined. Her presence served as a shield for the Enlightened Races, but also a limiter. Without crisis to forge them, the people became weak. She was like an overprotective parent creating an entire continent of weak children who couldn’t stand up for themselves.
+
+When the largest issues were finally resolved, and the Enlightened Races were able to begin rebuilding, she announced that she was going on a quest for power, so that such a thing would never happen again. Her journey began in one of the continents’ unconquered Dungeons whose first floor alone required a party of Adamantium Adventurers to clear. She gave a brave speech as she entered… and then never emerged.
+
+Officially.
+
+Her closest friends knew that it was impossible for her to have perished, and that was for one simple reason. True Wrath, and more specifically, the Everlasting Fire Trait that came with it.
+
+[ Everlasting Fire: So long as the object of your Wrath remains, you cannot die ]
+
+The object of her Wrath was not gone, and therefore, neither was she. It took a long time—so long that nearly everyone thought her dead—but she eventually did clear the Dungeon and re-emerge to find a changed world. One that no longer needed her. Just as she preferred.
+
+Even so, it was times like these that made her hate her new stance. She recognized the importance of not solving the worlds’ crises for it, and instead allowing those crises to temper the people, hearing about entire towns being wiped out when she could have saved them still hurt. And it always hurt, no matter how many times it happened.
+
+Still, while she hated her inability to act, she never regretted her choices. Even now, new heroes were emerging. While perhaps Yona was not a typical hero, she was not the only one. On the mainland, a paladin had stood alone against a powerful abomination, nearly sacrificing herself to slay it, and while her sight would never return, she had earned not only a powerful Title, but a powerful Class that hadn’t been seen in centuries, and her Species Evolution granted her a Trait that made her lack of sight a non-issue.
+
+And no doubt, with the existence of the necromancer, another would have to emerge. Arianne dreaded all the innocents that would perish to the necromancer before it was stopped, but she would not interfere. Not directly. She knew that if she allowed herself to do it even once, it wouldn’t be long until she was in the exact same situation as before.
+
+That didn’t mean she wouldn’t do her duty as Guildmaster though.
+
+With another long, heavy sigh, she pulled herself out of her tub, dried off, and dressed herself. The bath left her body refreshed and her mind sharp, so she wasted no time teleporting back to the main branch of the Adventurer’s Guild to begin her work. One of her subordinates had been tasked with heading the search and eventual eradication of the necromancer and its forces. He had already come up with a detailed plan on who would be involved, and where they would begin, and what tactics they would use, and had delivered it to her office.
+
+Overall, it was a sound plan, but there were a few flaws. Flaws that Arianne would gladly point out for correction. Maybe she would even give him a hint or two. That was not direct interference, after all. She was just doing her job.
+
+After seven days of travel, all of us are itching to just relax in bed. The first thing we do in the city is book an inn and crash. Lauren hired this world’s equivalent of a realtor to find us a house to live in while we’re here, but we’re not scheduled to meet them until tomorrow, so for the next eighteen hours or so, we can just relax.
+
+I take a nice, long nap in the inn, waking up close to sunset. I grab a nice, big dinner with the twins—Lauren and Chad are both gone, for some reason—and then we split up. The twins want to head down to the dwarven district to see if there are any local materials worth anything, and I need to find a place where I can complete my evolution within the city. And lucky for me, I believe there might be a perfect place.
+
+The city of Doralak is largely this world’s version of “modern” but Lauren was telling me about it on the way here, and apparently, it actually has a really long history. I didn’t really pay too much attention, but I listened closely enough to know that this city has existed for thousands of years, and has undergone many waves of destruction, reconstruction, and renovation. While the city we see now is mostly modernized, beneath our feet, there are layers and layers of history. And more importantly, layers and layers of buried buildings and man-made caves that people just kinda covered up and built over.
+
+I sensed these underground relics basically as soon as we entered the city, and as I walk around and munch on food I buy from street stalls, I am also scanning the underground labyrinth for a suitable Evolution spot. Unfortunately, despite the abundance of empty space below my feet, I’m having a lot of trouble finding a good spot.
+
+Of course, if Lauren, someone who has never been to this city, knows about all the history, basically everyone else does too, so all the best tunnels and buried basements are already occupied, mostly by criminals. There are a few that are big enough, but are completely cut off from everything else, and Abby assures me that I need oxygen during my evolution, so those aren’t an option either. So I need to somehow find a place that is both unoccupied, and also is accessible from aboveground. Or at least, has airflow from aboveground. I can teleport, so I don’t need to be able to physically get in, but I do need air to be able to get there.
+
+After an hour of wandering, I decide to give up on finding such a place, and instead decide to make one. Maybe, I could eventually find such a place if I scoured the entire city, but why waste time doing that when I’m perfectly capable of a little bit of excavation on my own.
+
+I backtrack a little bit to a place that I remember scanning earlier, and after checking it out in more detail, I dip into a dark alley and Blink downward. I appear in a tunnel lit faintly with luminescent rocks that smells like mildew and body odor. This tunnel belongs to one of those criminal organizations, making it completely unsuitable for my needs, but it is very well-connected to the surface, so there’s plenty of airflow, and on top of that, there are a few inaccessible rooms near it. More specifically, there’s one just a dozen meters below where I’m standing right now.
+
+Now that I’m closer, I re-scan it, double checking to make sure it will work, then I Blink down into it. The air here is breathable for now, but it won’t be for long, so I immediately get to work. I create six miniature cat heads and send them to opposite sides of the ceiling and have them start taking bites of the stone and dirt, storing each bite in my Stomach. Soon, tiny tunnels begin to form, leading up into the larger tunnel belonging to the criminal organization. It doesn’t take long before the connection is complete. Then, I make six more, just to be safe. All emerge at points in the tunnel that are hidden behind ancient bricks or rocky outcroppings, so none of them should be all that noticeable. Abby seems to think they won’t be, but she also is wary of an air mage potentially noticing the air flow, and recommends I check with the twins to see if they have any ideas.
+
+I Blink back out of my new hidey hole and return to the inn to ask them exactly that. They say that for an organization like that, they shouldn’t have anyone sensitive enough to notice that, but just in case, they offer me a few artifacts that will turn me invisible and undetectable, so even if someone does notice, and they come to investigate my little hole, they won’t notice me. I doubt I’ll get much better odds of safety anywhere else, so I gladly accept and finalize that old, buried basement as my evolution spot.
+
+Chad and Lauren return shortly after I do, and we all relax and chat a bit before bed. The next morning, we meet with the realtor, who shows us three houses that we can purchase or rent. I leave the selection to the others, since all three have suitable bedrooms and kitchens, so only the details of the basement and potential workshops are up for debate, and the twins and Chad can settle that on their own.
+
+By noon, we have a new place to stay. Lauren only gets a three month lease, because our plans to challenge Maligar will probably have us out of Doralak for an extended period of time, and even after that, if we’re traveling together, I’ll be going for the next Delicacies, so there’s no point in permanently buying anything. I raise the question of why we don’t just find an empty plot of land for the twins to put their house on, but they say that the house artifact has a long cooldown, so they won’t be able to place it for another three months.
+
+With the house situation settled, we all head out for a nice, big lunch where we can finalize our plans. We already discussed them on the journey up, but at lunch, we all double check what we’re doing. Lauren, Chad, and the twins are all right on the verge of their next Class upgrades, which will qualify them for Platinum rank, something they’re all confident they have the achievements for, so their top priority is going to be getting the last few levels they need.
+
+Mine is similar, but since I need to complete a monster Evolution, that means that I’ll need to disappear for a while after I reach that threshold, so they’ll all have to find things to do without me. That works out fine, though, because that should give them time to grind even more levels and hopefully try to catch up to me a little bit.
+
+Once we’re all done with that stuff, the twins, Lauren, and Chad want to take some time to give me some lessons on mana use. We talked on the way up, and while I’m strong, my techniques are still unrefined, and my knowledge is lacking, so once I’m done with my evolution, I’m gonna get a crash course on some more advanced uses of both Internal and External Mana Manipulation. The others actually argue that we should do it before I evolve, and while that’s not a bad idea, I refuse the idea. I’m not that impatient, but I’d rather have the power boost of a new evolution than slower technical improvement right now, especially with more undead assassins potentially on the way. Besides, I really want to see what the Goddess of Bitch’s reward at my evolution is gonna be.
+
+With that all settled, we finish our meal and separate. Chad, Lauren, and the twins picked out one Dungeon to raid as a Party that’s more suitable for their goals, while I am heading to the mussel Dungeon by the lakeside. It’s apparently not a very popular Dungeon because the mussels have excellent defenses and are annoying to fight, but my Spatial Slice should mostly nullify that. Plus, I want magical mussel meat. That sounds delicious.
+
+So, about an hour after we part ways, I arrive at the lake side and get into line, ready to load up on a new source of food and also get my last level to unlock my next Evolution.

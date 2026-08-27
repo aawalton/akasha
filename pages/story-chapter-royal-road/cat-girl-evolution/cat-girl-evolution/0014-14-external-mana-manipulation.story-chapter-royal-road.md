@@ -1,0 +1,143 @@
+---
+id: 3f95dd30-9cb5-5e70-a200-d9f4cbb98f99
+page-type-slug: story-chapter-royal-road
+title: "14 - External Mana Manipulation"
+slug: 0014-14-external-mana-manipulation
+partOf: cat-girl-evolution
+position: 14
+ownLength: 2407
+unit: words
+publishedAt: 2025-08-23
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2540191/14-external-mana-manipulation"
+royalRoadId: "2540191"
+---
+
+[ Avatar Quest: Raise your Class to Tier 1 ]
+
+[ Reward: Teleport to the mainland ]
+
+What’s an Avatar Quest?
+
+[ I have no idea ]
+
+But I thought you knew everything about the System!
+
+[ This is not part of the System. There is nothing about this in my database. My only assumption is that a god or goddess must have interfered somehow ]
+
+A god or goddess? Those are real?
+
+[ Yes ]
+
+Cool! So if a god or goddess is giving me a quest like this to teleport me off the island, that must mean that they like me, right?
+
+[ I wouldn’t be so sure about- ]
+
+It also means they’ve been watching me. Maybe they were the one that sent me to this world in the first place! And that would mean that it wasn’t just a coincidence or an accident. I was chosen!
+
+[ Well, old souls can’t take new bodies without assistance, so it’s true that someone helped you reincarnate. Whether that person and the one that gave you this Quest are the same remains to be seen. ]
+
+I knew it! I am the Chosen One!
+
+[ There is no “Chosen One” ]
+
+Yeah there is, and it’s me.
+
+[ No there’s- you know what, nevermind. We don’t have time for this. Whatever gets sent after you next might be more than you can handle. You need to work on getting your Class to Tier 1 ]
+
+How do I do that if there are no more monsters to kill?
+
+[ Class experience works slightly differently compared to Species experience. Species experience is based purely on kills and age, but Class experience is somewhat related to Skills as well. Improving with Skills won’t gain you immediate levels, but if you upgrade, or simply improve the Proficiency of a skill from your Class, and then you use that Skill in combat, you’ll gain more Class experience. If you don’t use your Class Skills though, you will hardly gain any Class experience. The reason you’ve already leveled your Class three times is that you used your Class skills to replenish your mana before killing the Octopoid ]
+
+But doesn’t that mean I still can’t level up unless I kill something?
+
+[ Correct, but if you work hard on your Class Skills, then your next kill might give you enough experience to jump straight to level 10 and earn your Tier 1 upgrade, at which point, you can run away, make a quick decision, and be teleported off the island. It’s a bit risky, but it’s the only plan you’ve got. ]
+
+Ah, I see. Makes sense. I guess that means I need to Meditate more though. Boring, but whatever. I’d rather not die again.
+
+I run back toward my tree at the center of the island, and after listening for more monsters trying to infiltrate my safe space, I start Meditating. I have no idea how I’ll upgrade Meditate, so I’ll just work on External Mana Manipulation instead.
+
+Now that I can sense the mana again, I move some of it out of my body and form it into a spoon again. I eat mana until my stomach is full again, then start idly spinning the spoon while I think of what else I can do. I think that just keeping the spoon manifested is probably increasing my Proficiency, since it does take mental effort, but I doubt it’s much. I’ll try making something else and see if that helps. There is one thing that I’ve been kind of missing as a cat…
+
+It takes about fifteen minutes of difficult thinking, but eventually, the spoon turns into a hand. Well, most of a hand. It’s only got two fingers and a thumb, and it’s kind of lumpy, but it’s definitely a hand. And with a bit of mental effort, I can bend the fingers. Now, time to do the things that hands were always meant to do. Pet cats!
+
+I lower the hand down on my back and try to rub my fur, but I can barely feel it. My fur rustles like there’s a light wind, but that’s it. That’s not good. I try to make the hand denser by adding more mana from my body while keeping it the same size. At first, it only kind of works. I make it twice as dense, and when I try to pet myself, the it feels like wind that’s twice as strong. Then, while I’m packing more mana into it, suddenly, it becomes much easier.
+
+I crack my eye open to confirm that External Mana Manipulation’s Proficiency has indeed leveled up to Late. Perfect! I bet I could add the missing fingers to my hand now! But not yet. I need to pet myself first.
+
+I empty almost my entire mana reserve into the hand, making it almost ten times as dense as it started, and when I pet myself, I can almost feel it properly. It’s kind of like a hand is petting me, but if that hand was made of the lightest, fluffiest marshmallow in existence. Still not good enough. Maybe…
+
+With my newfound control of my mana hand’s density, I try to move some of the mana from the center to the edges. It works surprisingly well, and soon, the hand is mostly hollow, and the edges are twice as dense as they were before. This time, when I pet myself, it feels almost like a real hand. Not quite perfect, but very close. A few minutes of tweaking later, and it’s there. I have my very own solid mana hand!
+
+I stroke my own back for a minute or ten, then absorb the mana back in and check the skill. It’s still at Late Proficiency. Not upgradeable yet. There’s also a message from everyone’s favorite Annoying Blue Box.
+
+[ You’re actually pretty talented at manipulating mana. ]
+
+Of course I am! That’s why I am the Chosen One!
+
+[ Regardless, good work. Between External Mana Manipulation and Meditation, you might already have enough Skill upgrades to push yourself to Tier 1 with your next kill ]
+
+Meditation?
+
+I check Meditation’s description, and to my surprise, it is also at Late proficiency. How’d that happen?
+
+[ Meditation is about focus and mana absorption. You focused hard, and by absorbing mana at a significantly faster rate by eating it, the skill naturally upgraded. You might not have noticed, but your mana digestion is more efficient than it was earlier. ]
+
+I go to enter Meditation again, but before I start, I notice that I can actually sense the mana digestion without even Meditating. In fact, I can get a vague sense of the mana around without Meditating. The sensation is very gradually fading, but it’s there. I bet that soon, I’ll just be able to sense the mana without Meditation.
+
+[ Yes, that’s how it’s supposed to go. With Meditation heightening your senses, your sixth sense, mana, finally got used a bit, and the more you use it, the better it will get. It’s similar to eating lots of different foods to improve your sense of taste, or listening to music to improve your sense of pitch and tone ]
+
+You know, for an Annoying Blue Box who only knows about the System, you seem to know an awful lot about other things.
+
+[ I was also given a database with information from your old world so that I could understand your words properly and communicate with you without issues ]
+
+A database from Earth? Does that have any videos?
+
+[ Some ]
+
+Can I watch MeTube on you?
+
+[ No ]
+
+Aww, dangit. Well, anyway, since you said I’m good on Skill upgrades, I think that means it’s time for a nap.
+
+[ What if more enemies appear? ]
+
+I will just wake up and kill them then. Alright, good night.
+
+If Abby sends me any more messages, I do not see them because my eyes are closed. After a few seconds, I fall asleep. When I wake up, it is past sunrise already. Looks like nothing attacked while I was sleeping. That’s good. Abby doesn’t seem to have anything to say either, which is also good.
+
+I stretch, then eat, then go on a quick patrol around the island, using Food Sense to check to see if any more octodudes infiltrated while I was asleep. There don’t seem to be any. However, the Food Sense does seem to be a bit fuzzy. The objects in it are a bit clear, but it’s like it considers the air itself edible now. Wait, no, not the air. The mana! Interesting.
+
+After my patrol, I lay down for another quick nap after ignoring Abby’s message. When I wake up, it’s still waiting for me. I eat again before reading it.
+
+[ You might have gotten to the threshold, but that doesn’t mean you should be slacking off ]
+
+Why not? You said it yourself. I already did enough. Now I just need to wait for another monster to come by so I can kill them.
+
+[ You’re very close to upgrades for both your Class Skills. You actually also increased your Proficiency in both Snatch and Blink to Middle last night while fighting. You could work on any of those skills and aim for an upgrade. ]
+
+I guess…
+
+[ If you Meditate more, you’ll also be able to sense mana passively without doing it, which means you’ll be able to use External Mana Manipulation without Meditating. ]
+
+Nnnngh. Alright fine. I’ll Meditate some more. It’s not like I have anything better to do. And being able to pet myself without going into full Meditation does sound nice.
+
+I Meditate and immediately get working on creating a mana hand. This time, I’m not gonna half-ass it. I’m going for a full, five-fingered, slender, delicate lady hand. Not some ugly alien hand like last time.
+
+It takes me a full fifteen minutes just to get the shape right, and then since I’ve already gone that far, I decide to go even further. Right now, I can kind of use it like a hand, but it takes forever to bend it into shape, and also, I can bend it completely the wrong way if I want, because it’s not actually a hand. It’s basically a piece of mana rubber shaped like a hand. So to make it a real hand, it needs to be able to move like a hand, which means it needs proper joints and stuff.
+
+Making even a single joint turns out to be tougher than I thought it would be. It takes five minutes just to decide how to do it, and then I even lose a finger while trying to get it to bend properly. I meant to just separate it from my mana hand so I could make a joint between, but as soon as it separated, I lost control and it disintegrated into atmospheric mana. After five more minutes of fiddling, I give up on the full hand idea, and scale it back.
+
+I absorb most of the mana back into my body, leaving me with just a single fingertip. After that, I try to form the joint separately. Since I don’t actually understand the anatomy of the musculature well enough to recreate it, I’ve decided to just make a ball and socket joint, so really, this is just a ball. Still, making a second thing while I already have one manifested turns out to be a challenge, even for something as simple as a ball. It takes a quarter hour of struggling and a minor headache, something clicks though, and the ball and fingertip both hover in front of me.
+
+Yes! I’m pretty sure that’s the final upgrade to Peak Proficiency, but I’m not done yet. Now that I can make multiple things, Operation Real Fake Hand is a go!
+
+I stick the ball and fingertip together, and I’m about to start working on the next segment when I realize that the two existing parts aren’t actually connected. They’re just touching. I forgot the string! There needs to be a string connecting the two so that they don’t fall apart!
+
+The string ends up being just as hard as the other two things though. Making it thin enough to be actually string instead of a stick of mana takes a quarter hour, and adding slits to the segment and ball and tying it in takes another quarter hour. The next segment and string takes another quarter hour combined though, and the one after that takes even less time. The nice thing about this External Mana Manipulation upgrade is that it looks like as long as I’m not doing anything complicated with the existing parts, they can just kind of exist on the side and I can put most of my full focus into the part I’m actively working on. The not nice thing is that this all is costing me a lot of mana. I’m also hungry.
+
+I absorb my mana back into my body, then summon some octodude to chow down on. While I eat, I notice that I can sense the mana in the air pretty easily now. I can also sense mana in the octodude meat. It’s denser than the mana in the air. Can I just replenish my mana by eating then? That’s super nice!
+
+Once I finish eating, I get right back to Operation Real Fake Hand. Now that I’ve already figured out what I need to do, it’s much faster to get to the point I stopped at last time, and then every new piece after that comes even faster. Still, with how complicated hands are, it takes me a full two hours to make a mostly correct hand. It’s not as pretty as my rubbery fake hand, but it moves similarly. Kinda. It’s not perfect, and controlling all the fingers at once is hard, but it works! And since I made the pieces all hollow and dense, I can touch it.
+
+I give myself some very slow and satisfying ear scratches, then absorb the mana back into my body and open my eyes. I check External Mana Manipulation and see that it has indeed gone to Peak. Meditation is still only Late, but I think it’s only a matter of time. Now, upgrade External Mana Manipulation!

@@ -1,0 +1,185 @@
+---
+id: 120718b2-6bf6-510e-9301-13eba889316c
+page-type-slug: story-chapter-royal-road
+title: "40 - Lizard Dungeon"
+slug: 0040-40-lizard-dungeon
+partOf: cat-girl-evolution
+position: 40
+ownLength: 2898
+unit: words
+publishedAt: 2025-10-24
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2700508/40-lizard-dungeon"
+royalRoadId: "2700508"
+---
+
+As we walk to the Dungeon, Lauren stands on my left, Guildmaster Pike on my right, and Chad to the right of Pike. There’s definitely something going on between him and Lauren. I need to get to the bottom of it. If we’re going to Ryanville or wherever–
+
+“Ryantown.”
+
+Yeah, there. If we’re going there together, then I’ll have plenty of time. Are they ex-lovers? Or maybe he asked her out and she rejected him? Or maybe it’s the other way around. Or maybe, they’re childhood friends that have romantic feelings for each other, but don’t know how to bring it up.
+
+“Or maybe, they just don’t like each other, but are trying to remain professional.”
+
+Or, they’re dating and they’re trying to keep it secret.
+
+“It doesn’t have to be romantic.”
+
+I’ve got a good sense for this kind of thing, Abby. Back on Earth, they called me the Cupid of Moscow. I helped lots of people find love.
+
+“And how many relationships did you ruin?”
+
+Not everything works out the way we want it when it comes to love, Abby. No risk, no reward. You can’t win the bet if you don’t pick a horse.
+
+“Please don’t-”
+
+The key to developing love is forced togetherness. We’re already going to be getting quite a bit of that with this trip, but sometimes, you need to be patient with love, so longer is better. I think I will have to make Chad my minion.
+
+“You can’t be serious.”
+
+As serious as a train derailment. Though you’re right. It’s too early to make that kind of decision. I have no idea how good of a minion he would be. I will need to see his Profession. If he has something like Massage Therapist, I will have to make him mine.
+
+“...Right.”
+
+The Dungeon isn’t very far outside the city. And there’s a pretty steady stream of Adventurers walking to and from it. They all make way for us though, and a few nod respectfully to the guildmaster and look curiously at me. I’m wearing my hooded cloak, of course, which is a little annoying. Pike said something about not wanting to get swarmed and delayed. I want to take it off and let my ears be free though. Or better yet, turn back into a cat and make Lauren carry me. Alas, I asked Lauren and she said I would need to be able to pose as a Tier 5 to be able to pass as both a shapeshifter, and as everything else that I am. Truly, I am suffering from being too special.
+
+We arrive at what looks like a narrow, pitch dark cave in the side of a hill, but as we get closer, I see that it is not a cave, and is in fact simply a wall of void. A wall of void that we walk straight into with no resistance. On the other side is a cave, but rather than being narrow and pitch dark, it is massive and well-lit by huge crystals that glow a soft blue color. They look valuable.
+
+“They’re not worth much,” says Lauren. “They stop glowing as soon as they leave the cave, and while they still look pretty, there are so many of them here and they’re so easy to get that any random Bronze can walk in and grab a couple without any effort.”
+
+“Can you read minds?” I ask.
+
+“I can read faces, and yours isn’t very hard to read.”
+
+“Oh. Lame.”
+
+“Enough yapping,” says Pike. “Hurry up and join the Party. We need to make it to the fourth floor to properly test.”
+
+[ Indarius Pike has invited you to join a Party. Accept? ]
+
+[ Yes ] [ No ]
+
+Ooh, Annoying Yellow Box! Yes.
+
+Once I accept, a new yellow box appears with some vague details of the rest of the Party, which is just Pike, Lauren, and Chad. Apparently Lauren’s last name is Haddock. I think she was always meant to be my minion. And Chad’s last name is Mann. So he is Chad Mann. That sounds kind of fun.
+
+And move we do. We run through the caves, following Lauren’s lead since she’s apparently been here a bunch of times before. There are a lot of little angry lizards around, but we mostly ignore them, because they’re too weak to do anything to us, and they’re not worth our time. At the end of the path we follow, there’s a door leading to a room with a slightly larger lizard that Lauren kills with a single swipe of her daggers.
+
+The way the Dungeon handles floors is interesting. After we kill the big lizard, we all get a prompt asking whether we want to move on to the next floor, or exit the dungeon. We all choose to move on, of course, but supposedly, if anyone chose something else, the party would be given 15 minutes to talk, and if that person didn’t change their mind, the whole party would be sent out.
+
+The next two floors are basically the same, but the lizards get a little bigger each time, and the big lizard at the end of the third floor takes a few more seconds to kill, and Chad and Lauren need to work together just a little. In the end, Chad stabs it in the chest right as Lauren stabs it in the back. How romantic.
+
+Along the way, I secretly grab a few corpses for future snacks. Well, “secretly” is a bit of an overstatement. Pike definitely notices. He doesn’t comment though, apparently not thinking it’s worth the trouble. The lizards don’t smell that good, but frankly, some of the seafoodmen didn’t either, so I’m not holding that against them. Maybe they taste better than they smell.
+
+When we arrive on the fourth floor, Pike stops us to give us a short lecture.
+
+“Now begins the individual portion of the test. You do not yet have the merits to reach Platinum, so you are merely being tested as a Gold, so you will likely find this test easy. Still, it is Guild policy that you have a qualified witness see your capabilities as a solo adventurer. Show us how you fight, and how you handle Dungeon problems. Once you clear this floor, we’ll do the 5th floor as a party. It should also be easy, but we need to see how you work with others too. Are you ready?”
+
+“Do cats purr?”
+
+“Good. Then get going.”
+
+“Okay!”
+
+We’re in a cave that’s basically identical to the one we started in with crystals everywhere, and about seven different paths to go down. My Food Sense has wide enough range now though that I can tell there are tier 2 lizards down all but 1 of them. I lead us confidently to the one with no lizards, which takes us down a mildly windy path to another fork. I repeat the process there, taking us all the way through the caves until we reach a familiar set of doors behind which I know is the floor boss.
+
+“Do you have a navigation Skill?”
+
+“No. Why?”
+
+“Because it’s highly unlikely that you guessed correctly thirteen times in a row.”
+
+Oh shoot.
+
+“I was just using my nose,” I say, tapping the facial protuberance in question.
+
+It’s not completely false. I could have used my nose to do the exact same thing. Food Sense is just easier.
+
+“I see,” he says, nodding. “Full points. Navigating dangerous areas safely is one of the best skills an Adventurer can have. I still need to see you fight though, so make sure you show what you can do in this battle. Slow it down if you have to. I’d like to see at least some of your capabilities.”
+
+“Aye-aye, Cap’n!”
+
+“What?”
+
+“Nothing. Let’s go. I’m getting hungry.”
+
+With that, I push open the doors and face my enemy. Weirdly enough, I couldn’t sense it with Food Sense until I opened the doors. It’s like it didn’t exist.
+
+“That’s because it didn’t. Dungeons spawn monsters to meet entrants.”
+
+I see. Can the Dungeon Core in my Stomach do that?
+
+“Once it levels up a bit, yes. As a brand new Dungeon Core though, its capabilities will be limited. And once again, you shouldn’t eat it yourself. This whole structure that you are inside right now? It used to be a monster. You will turn into something like this. A structure. A tool for training Adventurers.”
+
+Yeah, that would suck. And it would only spawn cat monsters. I don’t want to eat cats. That would be cannibalism.
+
+“And you’re fine with eating people?”
+
+Only bad people. And only to be able to make human constructs better. I’m not just gonna hunt people down.
+
+Anyway, I think I should feed the Dungeon Core to a fish or something. Maybe a cow. No, I’ll find the tastiest monster I can, and then feed it the Dungeon Core so that it can spawn more of itself for me to eat. Yeah, that’s a good plan.
+
+“Yes, I approve.”
+
+As I talk with Abby, the floor boss attacks me, and I casually dodge around. Its namecard says it’s a Crystal Pseudo-Drake, and it pretty much looks like a really big lizard with thick legs and a crystalline ridge of spikes on its back. It’s tier 2, the same as me, but unlike me, it does not have a sin trait, it’s not Named, and if it has a Class, it’s a lame one. Its attacks are basically bite, jump and bite, run and bite, and tail slap, all of which are so slow I can dodge without even using Blink. I could probably kill it in one hit if I got out my sword. Pike wanted me to show what I could do though, so I should play with it a little more. Besides, there are a couple things I’ve been wanting to try out.
+
+I dodge another tail swipe by jumping back, and as it crouches to lunge at me, I conjure a giant mana hand over my head. My mana pool is pretty big now, but even so, making a hand this big still takes a good chunk out of it. It’s nothing I can’t handle though, and when the lizard jumps forward, I leap to the side and make the hand go down and grab onto its tail and lift.
+
+That costs a lot of mana. I don’t really understand how the hand that’s not connected to me can siphon mana from my body, but it does, and before I know it, I’m down to less than half my full capacity. It’s worth it though. The hand manages to lift the entire back end of the lizard up off the ground. It flails around a bit, but with its powerful back legs wiggling uselessly in the air. After a few seconds, in typical lizard fashion, it decides to ditch its tail. Its back legs land on the ground with a thud, and its wriggling tail comes free, still held in my mana hand. Then, I use its own tail to slap it.
+
+For a second, it stops moving to stare at me, as if struck by the audacity of my action. Since it’s so kindly giving me a window, I slap it again. It lets out an angry hiss and charges at me. This time, I decide to Blink out of the way instead of just dodging normally. Pike said he wanted to see my abilities, after all.
+
+I slap it with its tail again, then Blink out of its way again, and then glance over at Pike. He nods, indicating that he’s seen enough, so I decide to end it. Abby says I need to keep my Gluttony abilities secret, but Lauren already saw my sword, so that’s fair game, plus it’s really cool, so I bring it out to deliver the final blow.
+
+The lizard charges again, and this time, instead of dodging, I bring my sword down in an overhead Spatial Slice. The slice splits it cleanly in two, and the two halves skid to a halt on either side of me. I stand proudly in between them until I notice that its gut juices are soaking into my boots, at which point, I Blink away.
+
+“Full points,” says Pike. “Good work. What is that weapon?”
+
+“Mine,” I say, resting the blade on my shoulder. “Pretty cool, huh?”
+
+“Is it a Soul Weapon?”
+
+“Yes.”
+
+“I see.”
+
+Pike pretends not to be impressed, but behind him, Chad is staring at it with almost sparkling eyes. He has just earned himself some Good Minion Points. My sword is very cool. Especially now that it’s gotten a kill and the veins are starting to glow red.
+
+“Well, you got full points, and you are clearly at a level beyond the low Golds this particular difficulty is best for, as the guildmaster, I would be remiss if I didn’t give you a few pointers…”
+
+He starts talking about some boring strategy and stuff with dealing with monsters. Apparently, I was “cocky” and I let the lizard get too close a couple times. He says that other monsters might have unexpected Skills or Traits, and that such actions could be dangerous in the future. Boring stuff like that. I don’t think he knows that I have Cat-Like Reflexes and that I can just dodge better if that happens. Oh well.
+
+While he talks, I very sneakily use a mana cat head to take the corpse into my Stomach. That makes him pause what he’s saying to stare at me in disbelief, but he still doesn’t comment on it, and instead, keeps lecturing. While he talks, Lauren rolls her eyes and makes a hand motion like a yapping mouth. This makes Chad smile for a second before he tries to hide it. They’re so adorable.
+
+“...and when you face a purple toe goblin, you need to make sure you wear pastel-colored socks.”
+
+“Wait, what?”
+
+“I was checking to see if you were paying attention,” says Pike. “Clearly, you were not. It doesn’t matter. I spoke for too long anyway. Let’s go to the fifth floor. I doubt we’ll get to see the full extent of what you’re capable of even there, but it’s the last floor, so it will have to do. I suspect there won’t be an issue with your abilities though. This will mainly be a test of your teamwork and ability to follow directions.”
+
+“Uh oh.”
+
+What do you mean, “uh oh.”
+
+“You don’t strike me as the type to follow directions.”
+
+Oh, you don’t need to worry. I’m very good at following directions.
+
+“Really?”
+
+You could say I’ve got some experience with it. Decades of experience.
+
+“...Now you’re just teasing me. I know you’re not going to tell me about your past life if I ask.”
+
+Actually, I would have that time, but you didn’t so the opportunity is gone.
+
+“Whose instructions did you follow? Why?”
+
+Alright, let’s see what this fifth floor is all about!
+
+Ever since Yona entered the dungeon, the goddess had been watching eagerly. Her divine power allotment had refreshed a couple days ago, but she decided to refrain from sending any messages for the time being. Yona had progressed beyond her wildest dreams without the goddess’ input. In one fell swoop, the goddess had gone from near last in the competition to the top seven. She was seventh of the top seven, but there was quite a wide gap between the top seven and the rest, so the goddess still felt good, and she didn't feel she needed to waste any more divine power sending further messages.
+
+However, things might not continue to go well. Yona was now set on a path to meet another avatar, and as far as the goddess knew, all the other avatars were aware of the game. Yona was the only one in the dark, and that might put her at a slight disadvantage. On top of that, Yona had gotten a bit of a late start, so despite her rapid leveling, she was much less experienced than all the others. Well, almost all the others. One of the goddess’ poor friends had gotten an avatar that earned the Sloth Trait, and was suffering mightily from it. Regardless, the goddess needed to tell Yona about the competition at some point, and she had a golden opportunity coming up.
+
+Contact between the divine realm and the mortal realm was usually highly restricted. The System deemed it too dangerous to allow the gods to meddle overmuch with mortal affairs, which was why they had to go about things in such roundabout ways as having independent avatars instead of descending to play themselves. There was one exploit though, and it involved Dungeons.
+
+When entering or leaving a Dungeon, the mortal would temporarily pass through a kind of in-between space, and if a deity was quick enough, they could intercept them in transit and have a direct conversation under the influence of time dilation without incurring the wrath of the System. The goddess had intentionally missed the first window when Yona entered, but she was poised and ready to go for the second. The cat wouldn’t get away from her this time. It was finally time to have a little talk.

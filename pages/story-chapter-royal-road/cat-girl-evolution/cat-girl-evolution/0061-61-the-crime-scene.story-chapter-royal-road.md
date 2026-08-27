@@ -1,0 +1,261 @@
+---
+id: c87ec2c8-6c67-513e-9e8d-283fe40ecf1d
+page-type-slug: story-chapter-royal-road
+title: "61 - The Crime Scene"
+slug: 0061-61-the-crime-scene
+partOf: cat-girl-evolution
+position: 61
+ownLength: 2579
+unit: words
+publishedAt: 2025-12-12
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2840716/61-the-crime-scene"
+royalRoadId: "2840716"
+---
+
+We both immediately turn and start running back the way we came. Fortunately, the streets are mostly empty, so we can make full use of our stat-buffed speed and we make it back to Lauren’s house in only a couple minutes. When we arrive, we find that there are a pair of men in uniforms that I think are police uniforms standing outside the front door, which is in pieces.
+
+“What happened?” asks Lauren, rushing forward.
+
+“Are you Ms. Haddock?” asks one of the officers.
+
+“Yes, that’s me,” says Lauren, holding out her Adventurer’s badge to him.
+
+The officer takes the badge and inspects it for a second before handing it back.
+
+“We don’t know much,” he says. “We only arrived here a few seconds ago. If you’ll head inside, the deputy is talking to your servants.”
+
+“Thank you,” she says, pushing past.
+
+Inside, we find the three maids standing in front of another pair of officers, and they all look more bewildered than anything else. Two of them look like they just woke up, still wearing pajamas and with messy hair. None of them look hurt or particularly frazzled.
+
+Before Lauren or I have a chance to say anything one of the officers turns around, and I am momentarily floored by his appearance. His mustache is so big and bushy that it completely covers his mouth, and his eyebrows are as thick as my fingers.
+
+“Lauren,” he says.
+
+“Oh, Franz, it’s you,” says Lauren. “Have you found anything out yet?”
+
+“Nothing concrete, but enough to know that this wasn’t a random break-in.”
+
+“What do you mean?”
+
+“Whoever did this was skilled, and this was targeted. According to your servants, nothing in these more public spaces is stolen, broken, or otherwise disturbed. The criminal knew exactly what they wanted. And they’re also very good at covering their tracks. Jenkins’ Skills haven’t found any hint of them, so we’re blind. Be careful, because there’s a chance they’re still in the house. If you’re friend isn’t able to protect herself, it might be best if she waits outside.”
+
+“I’m stronger than Lauren,” I say. “And there’s no one else here. We’re the only ones in the house.”
+
+Unless whoever it is can hide from Food Sense, which is highly unlikely.
+
+“How can you tell?”
+
+“I just can,” I say.
+
+I focus my Food Sense on the rest of the house, trying to see if anything is disturbed, but everything seems exactly how we left it. I mean, I didn’t memorize the house’s exact state or anything, but my Memory is almost 10,000, so even just my passive observation is enough to tell that basically everything is the same. Lauren’s “secret” vault is still intact and full, all the random decorations she has around the house are still there. The only things that are messed up are the door… and the window to my room.
+
+“They went to my room,” I say. “My window is broken.”
+
+Lauren and Franz the police officer both stare at me. Hmmm, maybe I shouldn’t have revealed how thorough my spatial awareness is. Wait, “spatial awareness?” Abby, is there a Skill that could do this with Spatial magic.
+
+“Yes.”
+
+Perfect!
+
+“I have a Spatial Affinity,” I say. “I can sense things.”
+
+“Oh, I see,” says Franz, nodding. “Then let’s go. And stay wary, because if they can hide from Jenkins’ tracking Skills, they might be able to hide from your awareness Skill too.”
+
+“Not likely. Anything that can hide from your Food Sense is overcoming Stage 6 of Gluttony, which means you don’t stand a chance if they are around.”
+
+That’s comforting.
+
+“Well, either that’s the case, and there’s no point in worrying because you’re dead either way, or they’re gone like you initially assumed.”
+
+Yeah, I guess.
+
+The other police officer, Jenkins, stays behind with the maid while Franz and I follow Lauren upstairs toward my bedroom. We find it mostly the same as the rest of the house, though I think that’s mostly because I left all the doors wide open so I could move around easily in cat form without needing to make mana limbs. The intruder could have searched the bathroom and the closet without really touching anything. The window is broken though, and clearly from the inside, since there are barely any glass shards inside.
+
+“Harkin, the intruder escaped out a bedroom window on the second floor on the east side.”
+
+I glance over to see Franz leaning down and talking into the badge on his chest while pressing it with his hand.
+
+“Copy that,” I hear one of the officers out front say.
+
+“Is anything missing?” asks Franz. “Anything at all, even if it’s small?”
+
+“Nope,” I say. “I keep all my stuff in my—”
+
+I pause. I usually keep all my stuff in my Stomach, but recently, I acquired something that I couldn’t put there. Something that Food Sense marked as inedible.
+
+I run forward and fall to the ground so I can peer under the bed. There’s nothing there. The Scepter of the Temperant Idol is missing.
+
+“It’s gone!” I say.
+
+“What’s gone?” asks Franz.
+
+“My Soul Weapon!”
+
+“...Shit!”
+
+“A Soul Weapon?” says Franz. “So the thief was after that, then. I see.”
+
+“No, that’s impossible,” I say. “No one knew I had it. No one but Lauren, Chad, and the twins. And probably Pike, since he’s not an idiot and probably guessed what it was.”
+
+“Someone else could have recognized it when you were swinging it around while walking into town,” says Lauren.
+
+“They all probably thought it was just a cool stick.”
+
+“No one is that dumb.”
+
+“Alright, that’s enough,” says Franz. “So you had a Soul Weapon under the bed, and the thief broke in, stole it, and broke out. Is anything else missing?”
+
+“No, that’s the only thing I had that wouldn’t go into my spatial storage. Everything else I have is there.”
+
+“Then it’s not unreasonable to say that the thief could have witnessed you carrying it earlier, and chose to break in to steal it.”
+
+“But even if they knew it was a soul weapon, how would they know she would leave it under the bed?” asks Lauren.
+
+“Yeah,” I agree. “Or that I wasn’t bonded to it? Seems like a stretch to say that’s the motive.”
+
+“I didn’t say it was,” says Franz. “Only that it was a possibility. Another possibility is that taking the Soul Weapon was happenstance, and that they were there for another reason. And if you had nothing else in here to steal, then there is only one reason that they could possibly have entered.”
+
+“So they were after me,” I say.
+
+“Again, only a possibility,” says Franz. “But given what you’ve told me, I think that’s the more likely of the two.”
+
+“Dang… I hate dealing with assassins.”
+
+“You’ve dealt with them before?” asks Lauren.
+
+“You haven’t?”
+
+“So you have had assassins after you before, then,” says Franz, pulling a notepad out and writing things down. “Do you have any idea who this one might be?”
+
+“Nah. All my assassins were back home. There’s no way they could be here.”
+
+“There are some assassins that will travel across the world to find their targets.”
+
+“It’s impossible,” I say, staring at him. “Trust me. None of them could be here.”
+
+“...If you say so. It would be helpful if you could provide details on past events, but if you are certain that they are not relevant, then we can let it go for now. Do you have any ideas on who else might be trying to assassinate you?”
+
+“No clue,” I say. “I haven’t done anything that would make someone want to assassinate me. I don’t know why anyone would.”
+
+Unless they knew I was a monster…
+
+I narrow my eyes at Lauren. It’s obviously not her, since it would be incredibly stupid to hire an assassin to kill me while not only was I out, but Lauren knew I was out, and was even with me. That would just be stupid. However, it’s not impossible that she told someone else that I was a monster, and they hired the assassin. She hasn’t really had a chance to talk to anyone without me… but she did spend a lot of time with Chad alone.
+
+“Or, it could be completely unrelated to her. According to the goddess, there are many others like you. It could be another contestant.”
+
+Oh yeah! You’re right!
+
+“Or it could be the servant of another deity who isn’t participating in the competition.”
+
+Is that allowed?
+
+“How would I know? I know less about the competition than you do.”
+
+Hey, goddess lady! Is that allowed?
+
+…
+
+Goddess lady?
+
+“As I posited the other day, she likely cannot speak with you right now after spending all her divine power.”
+
+Not much of a goddess if she can’t even talk to her Chosen One, is she.
+
+“You should be grateful. If the gods were free to interfere with the world as they pleased, things would be much more chaotic than they are.”
+
+Maybe. Or maybe she’s just being a bitch and ignoring me on purpose.
+
+“Yona, you really, really shouldn’t be calling goddesses bitches.”
+
+I don’t care. I call it like I see it. If she’s not a bitch, she should do something completely un-bitchlike and prove it. Like telling me the truth instead of promising me something cool and then pulling the rug out from under me with the fine print.
+
+“If you keep calling her a bitch, she probably won’t feel very inclined to do that.”
+
+Why not? She’s a goddess, right? She can be the bigger person. I bet she is a bigger person. I bet she’s jealous of my perfect figure.
+
+“Yona, please stop before you get yourself in trouble. And you customized that figure yourself. You can’t just—”
+
+My figure is and always has been perfect, and you can’t prove–
+
+“Yona?”
+
+I look up to see Lauren and Franz staring at me in confusion. Whoops. I was talking to Abby for a bit too long there.
+
+“Yeah, what’s up?” I say casually.
+
+“You looked like you had an idea,” says Franz. “Do you have a guess about who might be targeting you?”
+
+“Oh. That. Yes. I mean no. I mean, I had an idea, but it was a dumb idea.”
+
+“A dumb idea is better than no idea.”
+
+“Well…” I look between them and see that I probably can’t get out of this without giving them a dumb idea. “I thought that maybe it was Lauren.”
+
+“What?!” exclaims Lauren.
+
+“But that’s dumb,” I add quickly. “Lauren’s not dumb enough for this to have been her.”
+
+“Of course I’m not! And why would I hire an assassin to kill you? I am an assassin!”
+
+“Lauren,” says Franz, holding his hand up with a very serious expression on his face.
+
+Actually, now that I think about it, is it possible for his expression to not be serious? With that facial hair, probably not.
+
+“Even if, as you say, it’s a dumb idea, we have to take any possibility seriously,” he continues. “Why would you suspect Lauren?”
+
+“Well, I accidentally sliced into her countertop a little while ago. And I also teased her about her love life.”
+
+Franz blinks. “That’s it?”
+
+“Yeah. That’s why it was a dumb idea.”
+
+“...I see.”
+
+Franz asks me a few more questions about who would want to assassinate me, but nothing else comes of it. The other police officers move around the house for a little while, looking for clues, but they don’t find anything, so they all leave after about half an hour. I also try to track the intruder with my sense of smell, but unfortunately, there’s nothing. If they didn’t have to break the door and window to get in and out, I might think they were a ghost. I guess it could still be a ghost, just one covering their tracks by breaking things to make it seem like a physical break-in.
+
+Either way, the investigation ends anticlimactically with Franz saying he’ll return tomorrow with the district’s best tracker to see if they can find anything, then leaving. As soon as they all leave, Lauren turns to me with a serious expression on her face.
+
+“I didn’t tell anyone about you.”
+
+“Are you sure?” I ask. “Not even Chad?”
+
+“No one,” she says. “I definitely didn’t trust you at first, and honestly, I still don’t, but you haven’t done anything to make me trust you less, and I’m not the type to go back on my word. I said I’d keep your secret, so I will, at least until you give me a reason not to.”
+
+Her expression is very earnest, and while I’m not usually the trusting type, I am pretty sure she’s telling the truth. With that possibility gone, that leaves only the other two that Abby came up with. Either it’s another Chosen One candidate, or it’s a servant of another deity. Either way, it’s probably not good.
+
+“Alright, what do we do now then?” I ask. “This house doesn’t seem very secure, and they might come back, and I want to sleep. I don’t wanna have to stay up all night on watch.”
+
+“I agree,” says Lauren. “And I can only really think of one good option. The Adventurer’s Guild has a few safehouses located around the city. They’re designed to shelter people during extreme emergencies, but I’ve heard about them being used for things like this in the past. We should head back to the Guild and talk to Pike.”
+
+I think for a few seconds, then shrug.
+
+“Sounds good to me. Let’s go.”
+
+In her divine realm, a goddess stood in a clearing that had been a garden a moment before. She had been watching her avatar, as she was usually doing, when she had seen something frustrating beyond belief in the chat logs.
+
+“There are still two spares left,” she muttered to herself. “If the cat dies, I can have one of them. There’s still time.”
+
+“Trying to get your avatar killed?”
+
+The goddess whipped around to see another goddess floating lazily toward her on a couch.
+
+“Look at this!” said the angry goddess, showing her friend the chat logs.
+
+“Hmmm. Yes, I see,” said the other goddess. “But are you really going to be so petty? You should really try to be the bigger person here.”
+
+“Shut up!”
+
+“Your avatar really has you pegged, doesn’t she.”
+
+“I said shut up!”
+
+“Hun, I know you’ve never been the best thinker, but cool off for a sec’, ‘kay? You may be in 6th place right now, but the way I see it, you’re actually in first. Your avatar might be behind in raw power, but in terms of other attributes… She’s at least top 3, and I don’t think she’s third. And I saw the request you put in for her reward. If she uses that well, that’ll put you ahead of everyone else. Are you really going to throw it all away because of a few names?”
+
+“Are you saying I should just tolerate this?! I didn’t get this far by allowing others to disrespect me!”
+
+“I didn’t say that, hun. But there are better ways to discipline misbehaving children than killing them.”
+
+The angry goddess narrowed her eyes. “You have something in mind, don’t you?”
+
+“I do,” said the other cheerfully. “And I think you’ll like it.”

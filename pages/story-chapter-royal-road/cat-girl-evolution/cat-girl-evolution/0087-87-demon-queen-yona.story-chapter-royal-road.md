@@ -1,0 +1,131 @@
+---
+id: 63b1ce15-84a1-5e52-874f-68e79c356ce8
+page-type-slug: story-chapter-royal-road
+title: "87 - Demon Queen Yona"
+slug: 0087-87-demon-queen-yona
+partOf: cat-girl-evolution
+position: 87
+ownLength: 2300
+unit: words
+publishedAt: 2026-02-11
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3035367/87-demon-queen-yona"
+royalRoadId: "3035367"
+---
+
+The lakeside Dungeon entrance, unlike the other Dungeon entrances I’ve seen, sticks out like a sore thumb. It’s not hidden in a tree trunk, or set in a hillside, or buried underground, but instead hovers in the air on the beach like an ugly black ink splotch on what would have been a picturesque view. It’s kinda annoying, actually, because the lakeside would look really nice if there wasn’t a giant black tear in space floating in the middle of it.
+
+That’s not even the worst part though. Not only is it just hovering there, it’s hovering three meters in the air, so all the Adventurers have to jump to get into it. I have no idea why they didn’t bother building something leading up to it, or even a nice building around it. A beachside cottage would be a lovely way to cover up the stupid Dungeon entrance. The people in this city have no sense of taste.
+
+I do have a sense of taste, and I think all the Adventurers jumping really high to get in look kinda stupid doing it, and also, I’m wearing a skirt, so when I get up to the front of the line, rather than standing, I am sitting casually on a giant mana hand that I have bent to form a nice, comfy chair. I was already drawing stares from the Adventurers around for my apparent species, but when I pulled out the mana hand, they were no longer able to look away.
+
+Calmly—elegantly—I pull out the shiny new Platinum badge that Arianne gave me before she left and hand it to the guard at the front of the line. He raises an eyebrow at me, but doesn’t say anything as he checks my badge and gestures toward the black rift. Elegantly—calmly—I take my badge back, giving him a mysterious half-smile before floating gracefully up and into the rift.
+
+As soon as I’m inside, I fall to the ground, landing butt-first on a pile of sand. Apparently mana constructs don’t follow you through Dungeon portals.
+
+“Shit!” I mutter, standing up and brushing myself off.
+
+Good thing there’s no one to see it since this is a Tower type Dungeon.
+
+“I saw it.”
+
+“Shut up, Obbese.”
+
+“I am a part of you, so you basically just called yourself fat.”
+
+“I said shut up.”
+
+I brush my butt off a bit more, then take a few seconds to look around the interior of the Dungeon. It’s not quite what I expected. Since it’s a Tower Dungeon, I was expecting there to be a ceiling, but all I can see above me is clear blue sky, like a Field type dungeon. I’m currently standing on a tiny island about ten meters across with nothing else on it. It’s just sand and me. And all around me is nothing but ocean. There is no other land.
+
+There are no living creatures in the water around either, but there are four underwater tunnels leading down on each side of the island…
+
+“Abby…” I say out loud. “Does this mean what I think it means?”
+
+“If you think it means you have to go underwater, then I believe that yes, that is the case.”
+
+No, that can’t be right. There has to be another way.
+
+I conjure up another mana hand and float up to have a look around. I pick an arbitrary direction and fly, but after only a few seconds, something weird happens with Food Sense. At the edge of my range, Food Sense stops working. Or maybe, it’s actually that there’s nothing to sense. When I reach the point where Food Sense stops, I collide with an invisible barrier. I can still see the ocean continue past the edge of the barrier, but I can’t actually move there.
+
+“It’s probably an illusion.”
+
+“Yeah, I’m not an idiot.”
+
+“I think you have to go into the tunnels”
+
+“No, I think I just went the wrong direction. I bet there’s a way to go somewhere here.”
+
+I pick a random direction and start flying around the edge of the barrier, only to find that it’s a perfect circle all the way around. When I fly up as high as I can, I encounter an invisible ceiling too. And when I scour the entire miniature ocean for alternatives, I can still only find the four tunnels that go so deep my Food Sense can’t tell where they end.
+
+“What the heck kind of Dungeon is this?!” I shout. “This is stupid!”
+
+“Why did you expect a Dungeon for aquatic species not to be aquatic?”
+
+“Mussels live in shallow water!”
+
+“But these are giant monster mussels.”
+
+“Uggghhhhhhhh. I wanna go home. I don’t care about the mussels anymore.”
+
+“You can’t leave without clearing at least one floor.”
+
+“But I don’t wanna go into the water,” I whine.
+
+“Well, you don’t have much of a choice.”
+
+Defiantly, I flop down on the tiny island and stare up into the artificial sky for a few minutes. Then, with a sigh, I sit up and start preparing to actually clear the Dungeon. This is stupid, but I don’t really have a choice.
+
+I figured that the mussels would live underwater, but mussels usually live in shallower water, so I figured I’d be able to just float above it on a mana hand and Snatch them up to kill them. Or at least that there’d be some dry land that I could stand on while they attacked. Not… this.
+
+I slowly build myself a big submarine that happens to look just like an enormous mana hand. The insides of my constructs are generally hollow already, so I didn’t really need to change much. I just needed to make it bigger. The inside is full of breathable air, but I have no idea how long that will last, so I make some giant mana heads to eat a bunch of fresh air and store it in my Stomach in case I need that later.
+
+Once I’m ready, I grimace, then pick an underwater tunnel at random and send my handmarine into it. Moving the handmarine through water is much more difficult than moving it through air, to the point where it’s actually eating into my mana reserves, so I stop for a few seconds to add a fish tail to the hand’s wrist, and then use that to propel myself forward. It’s still not the most efficient, but it’s much cheaper than manually pushing the entire hand forward with just my own willpower.
+
+Not long after, I encounter a pleasant surprise. The tunnel doesn’t just keep going down forever! After about a kilometer, it starts curving until it’s horizontal, and after that, it keeps curving until it’s going up again. And not long after it starts curving up, there’s something even better. Air! And dry land! And mussels!
+
+As soon as I sense the dry land, I anchor myself to my handmarine, then Blink to safety before re-absorbing the construct. The little pocket of pleasantness is about two hundred meters across, and the dry land is about half that. The other half is water, half of which leads down into the tunnel I came from, and the other half of which leads into an almost identical tunnel that goes somewhere else.
+
+There are three mussel monsters in this cave with me, and… they’re literally just giant mussels. Unlike the seafoodmen, there is nothing anthropomorphic about them. They are just big, oval mollusks four meters long and two meters wide. As soon as I appear on dry land, they all crack open their shells and simultaneously fire jets of high-pressure water at me. I Blink again, letting the water sail harmlessly by, then summon the Gluttonous Greatsword and Blink again so that I’m right above one of them.
+
+When I appear above it, its shell shuts completely, and I sense its shell flooding with mana. Out of curiosity, I don’t empower the blade with Spatial Slice, instead seeing how it will do unempowered. Unsurprisingly, it can’t break through the mussel’s defenses, but it doesn’t completely fail either. The blade ends up embedded about a centimeter into the shell, not able to get any further, but not completely stopped either.
+
+I Blink away as the other two mussels fire more jets of water at me, reappearing above a different one. It quickly shuts its shell and activates its defensive Skill too, just like the first, but unlike the first, I put a full Spatial Slice into it, which ends up cutting it cleanly in half.
+
+[ You have slain Giant Monster Mussel, Tier II, lvl 3. Reduced experience for killing an enemy below your level ]
+
+I take my time with the other two wondering if they’ll show off any other abilities, but it looks like all they have is the water jet and the defensive Skill, and then one more that lets them turn their bodies to aim the water jet.
+
+“Well, that was lame,” I say aloud. “Wait, what the heck? What’s going on with my voice?”
+
+When I spoke, my voice sounded, like, two octaves deeper. Like I inhaled helium, but the opposite.
+
+“The air is at a very high pressure down here with all this water pushing up from below. It’s affecting the sound.”
+
+Now that I think about it, the fight did sound a little weird too. The impacts didn’t quite sound right. And now that I’m paying attention, the air is weirdly dense down here. Breathing actually feels really good. Like I’m taking a deep breath for the first time after hyperventilating for years.
+
+“This is kinda cool, actually. I sound cool. Like a demon! I am Demon Queen Yona! Bow before me, mortals, and I may spare your life!”
+
+I let out a small giggle that soon turns into full-blown laughter when I hear the giggle. The laughter sounds hilarious, which makes me laugh even harder, and for a full minute, I am basically incapacitated by the sound of my own voice. When I recover, I notice that the mussels’ bodies are still right where I left them, so I quickly store all but one of them, then go to town.
+
+As a teaser, I take a bite of the shell first. It’s pretty thick, and a little hard to get my mouth around, but it crunches satisfyingly, and, like the scallops from Ryantown, it tastes like a seafood-flavored chip. Crunchy, a little savory, but mostly salty. Not bad at all.
+
+Then, I move on to the main course: the meat.
+
+“Mmmmmm.”
+
+I let out an involuntary moan as I take a bite. It’s sublime. All the tier 2 seafoodmen were, but I think something about this being 100% seafood and 0% man makes this different. It’s less complex, but richer, and somehow just… more. Interestingly enough, the flesh doesn’t actually have that much mana in it. Most of the mana is concentrated in the shell, which I guess is pretty predictable.
+
+I set my sword down on the ground, then break off two pieces of shell, and use them to grind each other into crumbs over the sword. Then, I cut off a sizable piece of meat with my claws, sprinkle some of the shell crumbs on it, and take a bite.
+
+Perfect.
+
+I spend a quarter hour or so enjoying my impromptu meal, using my sword as a plate, then I store the rest of the mussel away and dust the crumbs off my clothes before standing back up. Not long after, I’m back underwater in my handmarine, on my way to the next underwater cave.
+
+I quickly blow through six similar rooms, each with varying numbers of mussel monsters, with the most being seven. They all die quickly, and they all taste delicious, but none of them give me any levels, which makes sense, since they’re weak, lame, and low-leveled. But I never expected to level on this floor anyway.
+
+In the seventh room after the first, there is only one enemy. It is also a giant mussel. The only difference between it and the others that I already killed is that it is bigger and higher-leveled. It is just as intelligent and has the exact same Skills as the others, though, so it dies just as easily, and I am rewarded with an even tastier post-fight snack than before, and a prompt asking if I want to go to the next floor.
+
+Originally, the plan was to keep going, but then after the reveal that this was a deep water Dungeon, my new plan was to leave and go find a better Dungeon. But that… actually wasn’t that bad. In fact, it was pretty chill. The handmarine worked really well, and the mussels were weak and delicious. And the underwater caves were pretty funny too. I’m gonna keep going.
+
+I accept the prompt to continue and find myself on a new island basically identical to the first one with more tunnels. I choose one at random and blow through this floor of the Dungeon even more quickly than I finished the first one. The mussels are much stronger than they were before, all of them being about the same as the boss mussel from the previous floor, but that’s about it. They’re still too weak to do anything to me, and the only thing that slows me down on this Floor is the fact that the mussels are big enough that it costs a lot of mana to store them away, so I have to eat to replenish my reserves.
+
+The next floor after that, however, is different. And in a good way. The enemies are finally Tier 3, meaning I can get experience from them, and more importantly, they’re finally not just basic mussels.

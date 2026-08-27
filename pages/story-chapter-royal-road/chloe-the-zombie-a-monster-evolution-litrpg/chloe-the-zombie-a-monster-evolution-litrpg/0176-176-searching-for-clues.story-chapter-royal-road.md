@@ -1,0 +1,127 @@
+---
+id: 0318bd5b-bfa7-5cba-b173-d22247b2f5f5
+page-type-slug: story-chapter-royal-road
+title: "176: Searching for Clues"
+slug: 0176-176-searching-for-clues
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 176
+ownLength: 2006
+unit: words
+publishedAt: 2026-07-10
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3658032/176-searching-for-clues"
+royalRoadId: "3658032"
+---
+
+Of all the members of Sol, Leopold had always respected Sabine the most. It wasn't because she was the strongest, nor was it because she was the most loyal to the organization. If anything, Sabine's loyalty had often seemed somewhat selective compared to many of the others.
+
+But, the truth was that Sabine had been one of the few members who still felt like a person. Many within Sol became consumed by the organization's goals over time. They dedicated themselves completely to its mission, allowing their ambitions, beliefs, and identities to slowly merge with the cause they served. Leopold had always found that tendency troubling.
+
+Sabine had never fallen into that trap. While she served Sol, certainly, and she carried out its objectives when necessary, she also followed her own whims. She made decisions because she wanted to make them. She pursued interests that had nothing to do with the organization. Even when Leopold disagreed with her actions, he respected the fact that they had truly been her own.
+
+Perhaps that was why her death had surprised him so much. Leopold would've expected a powerful adventurer, a veteran hero, or perhaps even an elite military force to eventually bring her down. Instead, he'd learned that she'd been defeated by someone associated with the Thieves' Guild, specifically, a certain undead girl named Chloe.
+
+Even now, after fighting her personally, Leopold still struggled to understand exactly how it had happened. The girl was powerful, yes, that much was obvious.
+
+She possessed remarkable physical strength, dangerous magic, and surprising durability. Yet despite all of that, she didn't move like a seasoned warrior. There were imperfections in her movements. Moments where she relied more on raw power than refined technique, and yet Sabine was defeated by this girl.
+
+Unfortunately for the undead girl, none of that was going to matter now. She floated helplessly within the water prison Leopold had created, trapped at the center of countless intersecting currents that pushed against her from every direction. The spell had taken years to perfect, and once caught inside, most opponents simply exhausted themselves struggling.
+
+Leopold decided to end things, and clench his hand. Immediately, the currents inside the sphere intensified.
+
+The water prison compressed as pressure mounted from every direction at once as the spell began crushing inward. Tiny fractures spread across Chloe's skin as the force increased, while new cracks appeared moments later. Leopold watched calmly as the undead girl's expression shifted from irritation to genuine alarm. Normally, he would've felt some satisfaction, but instead, he felt only certainty.
+
+The pressure continued rising, until something felt wrong. A faint sensation rippled through the water around him. It was subtle at first, almost impossible to notice beneath the countless currents already filling the flooded chamber. Yet the more he focused, the more unsettling the feeling became.
+
+His instincts suddenly screamed. Leopold released the spell as water surged, propelling him away with explosive force as he retreated. He was barely fast enough as a blinding flash erupted from the center of the prison.
+
+The light was so intense that it swallowed everything else. The flooded hallways vanished. The walls disappeared. Even the water itself seemed to cease existing beneath the overwhelming light. The last thing Leopold saw before the light consumed his vision was a massive wave of crackling lightning racing toward him through the water
+
+***
+
+Oh boy, that had been way too close. Chloe floated in the water while her brain slowly caught up to what had just happened. The water prison had nearly crushed her, and if she hadn't completely panicked and dumped every last bit of lightning magic she could get her hands on into a single desperate attack, she was pretty sure she'd be a pile of zombie pieces right now.
+
+Slowly, Chloe looked around at the aftermath. The entire floor was super smashed. Deep cracks spread across the walls and floor, scorch marks covered nearly every surface she could see, and chunks of concrete drifted through the water alongside twisted metal and shattered furniture. One section of wall had simply ceased to exist entirely, leaving behind a massive hole that Chloe immediately decided not to think too hard about.
+
+Maybe she'd gone a little overboard. But in her defense, she'd been getting crushed to death, so that felt like a pretty reasonable excuse.
+
+Anyway, once all was said and done, Chloe did make sure to try and sense if that water guy was still around. But as she closed her eyes and tried to really hone in on her mana sense, she didn't feel anything out of the ordinary. She opened her eyes and looked around just to make sure she wasn't just imagining things, but for now, it really did seem like she was in the clear, at least for now.
+
+Chloe doubted she'd really defeat the guy though, she was reminded of the times when she fought Ynett, who she also guessed had a chance might still be alive and kicking somehow despite getting totally destroyed by Maeve last time. Like, unless she saw that kill notification herself, she wasn't convinced anyone was truly dead until then.
+
+That said, she continued her search though. And with the water guy gone she could seach for Greg in peace. Chloe swam around the floor and looked into every room, every nook and cranny,but there was no Greg to be found.
+
+Feeling more than a little disappointed, Chloe eventually gave up searching the flooded lower levels and made her way back toward the upper floors where Z and Liz were waiting. The trip back was significantly less exciting than the trip down, which was probably for the best considering she'd already fought a magical water wizard and nearly gotten crushed to death.
+
+More importantly, the moment she finally emerged from the water, Chloe was reminded of something very important, going out somewhere dry felt so good. Even though she didn't actually need to breathe, she still found herself appreciating the feeling of being out of the water. No more awkward swimming and no more mysterious underwater attacks. Just solid ground beneath her feet like nature intended.
+
+Or at least like Chloe intended. The moment she climbed out of the water, Z immediately looked up from where she'd been waiting. The concern on her face was obvious, and Chloe probably couldn't blame her. There had been a lot of lightning flying around down there, and in hindsight she might have gone a tiny bit overboard.
+
+Z adjusted her glasses as she looked Chloe over. "Chloe, I sensed a considerable amount of magical activity below. Are you alright?"
+
+Chloe waved a hand dismissively as she stepped onto dry ground. "I'm fine. Had to fight one of those Sol guys down there. You know, shady organization, sun symbols everywhere, magical nonsense, the usual. The guy I fought was really annoying though, every time I hit him, he'd turn into water and disappear."
+
+Z straightened. "I would need to review my files to be certain, but that name does sound familiar. If this individual truly belonged to Sol, then his presence here is unlikely to be a coincidence."
+
+Before Chloe could ask anything else, Liz stepped forward. "No sign of Greg?"
+
+"Nope, sorry." Chloe said with a slight frown. "Do you know anywhere else he might be?"
+
+Liz sighed and shook her head. "Honestly? No. At this point I'm starting to worry that Divinity Inc. got to him first."
+
+"Okay, hold on. What's so special about Greg anyway?"
+
+"I don't know all the details, but what I do know is that Greg used to work for Divinity Inc. before he disappeared down here. He never really talked about what he did there, though."
+
+Chloe looked toward Z. "Does that ring any bells to you Z?"
+
+"Not really. I cannot recall anyone named Greg. The only Greg I remember was a janitor."
+
+Liz immediately laughed. "Oh, Greg was definitely not a janitor. I'm at least confident about that much."
+
+"Okay, so if mysterious ex-Divinity Inc. Greg isn't here, where do we look next?" Chloe asked.
+
+"Well, our next option isn't exactly pretty," Liz admitted. "If we want information, we're probably going to need help from one of the families that control parts of the underground city."
+
+"So... like a gang?"
+
+"Basically, yea."
+
+"Wait, are you part of one of these family things?"
+
+"No, no. I've never liked the idea of tying myself to one of the families. You'll definitely lose some part of yourself by joining any one of them."
+
+"Then can you tell me more about these gangs?"
+
+"Families, Chloe." Liz corrected.
+
+"Yeah, yeah, whatever, just tell me already." Chloe said impatiently.
+
+Z nodded. "Yes please, I'd also like to know the details as I am not familiar with the balance of power of this city."
+
+Liz took a breath, then exhaled. "Alright, listen up and pay attention, because this is gonna be a long one. I'll try to keep things as brief as possible though."
+
+As it turned out, the underground city had historically been controlled by two major families. Both of them apparently had long, fancy names that Liz spent several minutes explaining, but somewhere around the second or third title Chloe's brain had quietly checked out. She was pretty sure she'd forgotten both names almost immediately because she was too busy thinking about other more important… stuff. The good news, however, was that Z was taking notes on her laptop, which meant Chloe could simply ask her later and avoid the whole remembering-things part of the process.
+
+Liz then explained how each family had its own symbol, territory, history, and influence. Chloe had expected the conversation to sound a lot more criminal. In her head, underground families were supposed to be shady organizations filled with smug crime bosses, secret gambling dens, and people constantly plotting against one another. Instead, the more Liz talked, the more complicated everything sounded. In fact, the more Chloe learned about the founders of the families, the more confused she became.
+
+Apparently, a lot of fallen angels weren't actually exiled for doing anything especially terrible. Sure, some probably deserved it. But others seemed to have gotten kicked out of Heaven for reasons that sounded surprisingly petty.
+
+Take one of the family founders, for example. The guy had apparently organized some sort of workers' rights strike against Divinity Inc. a long time ago, and that was it. Although, the other family founder had admittedly been a little less sympathetic.
+
+From what Chloe understood, he'd been caught embezzling a huge amount of money and doing something involving tax fraud. Chloe wasn't entirely sure what tax fraud actually was, but everybody always talked about it like it was bad, so she assumed it probably counted as a crime.
+
+With all of that in mind, the choice seemed pretty obvious. "So we just go with the guys who are obviously good, right?"
+
+Liz immediately rubbed her forehead. "Chloe, yes, the Bright Family started with a genuinely good leader. The problem is that the leader died a very long time ago. After that, there were decades of leadership changes and internal politics. The family slowly changed over time, and eventually they became just as corrupt as their rivals."
+
+Chloe frowned. "Oh. So they're not the good guys anymore?"
+
+"They haven't been for a long time," Liz replied.
+
+Suddenly, Z looked up from her laptop. Throughout the entire conversation, she'd been quietly typing notes and organizing information like the responsible person she was. Chloe honestly had no idea how Z managed to keep track of so much stuff without her brain exploding. "Liz, earlier you mentioned that a third faction has recently been gaining prominence within the city. Could you provide more information regarding them?"
+
+Liz snapped her fingers. "Ah, right. Well, they're newer than the other two groups, and they're growing surprisingly fast. Most people still don't know exactly what to make of them."
+
+"And who's in charge?" Chloe asked.
+
+"Some snake lady, I think. Her name was Ynett."

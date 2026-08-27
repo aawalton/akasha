@@ -1,0 +1,155 @@
+---
+id: 30838573-6431-5b19-97a9-ab3040e65958
+page-type-slug: story-chapter-royal-road
+title: "162. Broken Boundaries"
+slug: 0162-162-broken-boundaries
+partOf: breaker-of-horizons
+position: 162
+ownLength: 2232
+unit: words
+publishedAt: 2021-12-20
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/809773/162-broken-boundaries"
+royalRoadId: "809773"
+---
+
+Caden was eager for a second round now that he had a little more insight into how Devon's method worked, but the young lord was in no shape for any further arena practice after that. He was clearly giddy with the heady rush of victory against the Top Scorer, but still trying to keep a lid on it in an attempt to be a gracious winner. If it were anyone else who had beaten him, Caden might have found it extremely difficult to accept his defeat, but seeing Devon being so thoughtful even in his triumph made it much easier to bear the loss.
+
+With a sigh of resignation, Caden called up the control sphere and cleared the arena of all the globelights. Devon apologised about not being calm enough to continue, his expression torn between manic glee and something vaguely consolatory.
+
+"It's fine," Caden said as breezily as he could, waving his hand dismissively. "We can always try this again another time."
+
+"Okay, sorry, I mean, if we went again you'd probably win this time, so I shouldn't be gloating, I mean it was just a fluke—"
+
+"It wasn't a fluke," Caden grasped Devon by the shoulders and fixed him with a stern gaze. "You beat me properly."
+
+"But I, well, it was your first time seeing the orbs and—"
+
+"You beat me properly," Caden repeated firmly, giving him a little shake. "Say it."
+
+Devon pressed his lips tightly shut and shook his head in denial. Caden frowned. "It literally just happened. Why won't you own it?"
+
+Before Caden could stop him, Devon deftly slipped out of his grasp with a little arcanic assistance and backed up a few steps. He opened his mouth to say something, then seemed to think better of it, and instead turned away, folding his arms tightly around himself.
+
+A shiver of fear ran up Caden's spine, though he didn't know why. He swallowed and took a tentative step forward. "... Dev? Is something wrong?"
+
+Devon's shoulders were shaking a little as he walked further away from Caden. The soft sound of his sniffling seemed especially forlorn in the emptiness of the arena.
+
+By instinct, Caden was already half-dipped into oblivion, his senses straining to catch any sort of influence at work here. But the prophetic links wrapped around Devon didn't seem to be especially numerous, nor did they appear to be pulling him to a specific act in the moment. There weren't any perceptible threats either.
+
+He had no idea what to do now. What had happened to his friend in the short time they spent apart? Did their little game with the globelights bring to mind some recent horror he had endured? And if so, how could he help without tipping his own hand?
+
+"Sorry," Devon finally managed to say, sounding a little choked. His back was still turned. "I, uh... I don't know what came over me."
+
+"Was it something I said?"
+
+Devon glanced over his shoulder and shrugged. "You know, all I really wanted to do in the Academy was muck around with some research about applying arcanophany to food preparation."
+
+"Yeah, you've told me," Caden replied, not quite sure where this was going.
+
+"Oh, have I?" Devon sounded momentarily confused, but he shook his head and continued. "Well... that was before the whole conscription thing. If I had my way, I... I guess I wouldn't have come back."
+
+"I thought you and the rest talked it over and decided to come back together," Caden said carefully. "Are you saying they... forced you?"
+
+Devon stiffened a little and started slowly walking away from Caden, towards the far end of the arena. "No. No, they didn't force me. I mean it's just... my family. Having me in the Academy means a lot to them."
+
+That was, Caden decided, not entirely untrue. Devon didn't know that Caden had already learned this, but he knew that Duke Rhys Ka'atyrn had put immense pressure on Devon to become an arcanist. Still, Caden also knew that Devon wasn't giving the truest answer — that the Prophecy had compelled him to return. But that wasn't something new either. What did all that have to do with Devon's strange behaviour now?
+
+"So you decided to submit to the conscription to make your family proud. What's wrong with that?" Caden took a few more tentative steps forward.
+
+"There's nothing wrong with that," Devon answered, sounding agitated now. He stopped as he reached the lowest tier of the seats and held his hands up so he could stare at them. "But when I decided to come back, I changed. I learned things. I practiced. I became better."
+
+Caden nodded. "And it paid off. You've beaten me properly, so that's proof you're definitely capable. What's the problem, then?"
+
+Devon turned sharply, and Caden found himself taking an involuntary step back. There was a look of such naked horror in Devon's eyes. But then Devon blinked and the moment passed, and he looked merely sad. He gave a wry smile. "I beat you properly."
+
+"Yes," Caden said slowly, looking worriedly at Devon. "Yes, you did."
+
+Devon nodded and looked down at his hands. "I beat you properly," he said, more to himself than to Caden. "Isn't that just terrible? The Top Scorer, and I beat you properly."
+
+"Now you're just rubbing it in," Caden said, trying to inject some levity into his tone.
+
+That got a mirthless laugh out of Devon. Caden had never seen him like this before. "Dev, I want to help. Tell me what's wrong."
+
+"Everything's wrong," Devon muttered darkly as he sat down on the lowest tier. "And I guess now that you're in our dorm, you're going to get caught up in the thick of it."
+
+Caden was now so tense that he could feel himself clenching his jaw tightly together. Was Devon going to spill the beans about the Prophecy? If so, how should he react? Should he tell Devon about their past, and about the Fateweaver's intervention? He wished he had thought things through more carefully before anyone's arrival, so that he would be better prepared for all the eventualities.
+
+"What, is the dorm cursed or something?" Caden asked lightly, sitting down next to Devon.
+
+He smiled thinly. "Yeah, in a way. And unless you get out of our dorm, you'll be cursed too."
+
+Caden forced himself to laugh, but Devon snapped at him. "I'm not joking."
+
+"Alright, if you're serious, then tell me more about this curse," Caden shot back.
+
+"There's no point telling you if you can't do anything about it. Just get yourself out while you still can."
+
+"Allocations are fixed," Caden lied. "I was forced to move out of my old dorm and I couldn't appeal against it."
+
+Devon shook his head. "Then that's it for you. I guess that just means you're already marked."
+
+He was clearly alluding to being dragged into the Prophecy. But why was Devon being so careless and making cryptic references to it with someone he had only just met? There was almost a kind of recklessness in his manner.
+
+"This 'curse'," Caden said, sketching quotations marks with his fingers around the word. "Why are you talking about it now? What brought this on?"
+
+"I'm owning it," Devon answered, grimacing. "That's what you asked me to do. I beat you properly. And I managed it because of this... curse."
+
+Caden raised an eyebrow. "This curse made it possible for you to beat the Top Scorer? That doesn't sound so bad, does it?"
+
+"You don't get it," Devon sighed. "I never wanted this. Like I said, I just wanted to live my own life. Do simple things. I never wanted this power. Do you know how scary it is?"
+
+"... I think I've got some idea, yeah," Caden answered quietly.
+
+Devon seemed to suddenly realise he had been too free with his words. He sprang to his feet and paced around. "Sorry. Didn't mean to dump all that stuff on you. Just forget what I said about curses and stuff."
+
+"It's the Prophecy, isn't it?" Caden asked, looking up.
+
+Devon froze, stricken. He turned slowly to Caden and swallowed.
+
+"Leading theories say that Prophecies alter probabilities. That means it'll result in some observable phenomena that makes it possible to deduce whether you're near the subject of a Prophecy, especially if you spend a lot of time around them," Caden said, paraphrasing Emilia from one of their first proper conversations. "So the obvious conclusion is that either you're the Chosen One, or one of the people in the dorm is."
+
+"Obvious conclusion?" Devon croaked.
+
+"You talked about a 'curse' that appears to be randomly centred on a dormitory, but what makes this dormitory special? It makes more sense if it's someone in it. But why would someone be cursed in such a way that affects others? Perhaps it's because they're the subject of a prophecy. And when you consider the fact that we know the Chosen One is in our cohort, this makes the most sense." It was extremely easy to come up with these so-called deductions when he already knew the truth, and if Caden was being honest, he was actually enjoying this bit of fibbing a little.
+
+"The one thing I don't get is why call it a curse," Caden continued, when Devon simply stared in silence. "It seems to have given you an edge and helped you develop your arcanophany at a higher level than the average student. I get that it's scary to have access to more power... but I wouldn't go so far as to label that a curse. Unless there's something more behind it."
+
+Devon was still staring, wide-eyed.
+
+"You beat the Top Scorer without breaking a sweat. You didn't want to accept the victory in our little exercise. You didn't want to accept the fact that you have power. Why?" Caden pressed.
+
+Devon's lower lip trembled a little. "Because it comes with a price."
+
+And there it was. Caden finally saw it, because it was the first time he thought to properly look. During the globelight exercise, he had only paid attention to where Devon's thoughts were directed, but now Caden tuned his mind to look at the whole sweep of Devon's auric-ambient-flare, The warmth that had been so familiar to Caden, that he had seen only moments ago, was only a fragment now. His friend had gone through a fundamental shift, and was now the broken-skillful-bridge.
+
+"What happened?" Caden asked in a horrified whisper.
+
+"It's..." Devon turned away and wrapped his arms around himself again.
+
+"You have to tell me since I'm going to be in the same dorm." Caden came forward and laid a hand on his shoulder, but Devon shrugged it off. "You wanted to prep me for the twins. Isn't this more important?"
+
+"It is. But I don't know how much I should say," Devon mumbled.
+
+"You mean you think you need the Chosen One's permission?" Caden asked.
+
+Devon nodded mutely, and Caden clenched his fist so hard that he felt his knuckles crack. If Ambrose had something to do with this mutilation—
+
+But he stopped himself there and forced himself to take a deep breath. Ambrose might have been involved, but he was bound by Prophecy to act. The ultimate blame lay with the Fateweavers.
+
+"Prophecies are not the commandments of some deity," Caden said grimly. "The Fateweavers are not gods. I don't know what you believe about them, but you definitely shouldn't believe that. You're caught in a Prophecy... but that doesn't mean your choices mean nothing."
+
+Devon turned slowly and looked at Caden with reddened eyes. His brow furrowed as he considered Caden's words.
+
+"So right here," Caden continued slowly, reaching out to place his hand on Devon's shoulder again, "in this moment... your choice is what matters. Forget A—... any Chosen One, and what they might think. What do you want to do?"
+
+Devon's face crumpled, and he sank to his knees. "It's what I didn't want to do. I didn't want to do it, but we all had to, and so I did, too."
+
+It tore at Caden to see his friend this way, but he had to stay focused, he had to figure out what was going on. He knelt down next to Devon. "What did you do?"
+
+Devon shook his head and buried it in his arms. Caden laid a comforting arm around him, thinking to give Devon some time to gather himself before plying him with more questions. In the meanwhile, he would take a closer look at Devon's auric-ambient-flare.
+
+But as Caden sank more fully into oblivion and turned his elevated attention to the higher aspects of Devon's auric-ambient-flare, something in it responded. It turned to look at him even as he looked at it, and Caden felt a flash of recognition and a thrill of fear. Both Caden and Devon flinched away from each other, and Caden stared in horror at his friend, who was now clutching his head and crawling away from him.
+
+"Devon, what did you do?" Caden repeated in a hoarse whisper.
+
+'He made us do it. But we... I also... wanted to do it,' Devon replied, his thoughts spilling out across the arcanic sea. And the shattered fragment of the wild augera that had been spliced to his auric-ambient-flare echoed his thoughts in oblivion.

@@ -1,0 +1,63 @@
+---
+id: 92c776bd-35e7-5fdd-87b1-b2c576e23d08
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1449 - Kicking into Full Gear"
+slug: 0097-chapter-1449-kicking-into-full-gear
+partOf: chrysalis
+position: 97
+ownLength: 936
+unit: words
+ownProgress: 936
+publishedAt: 2024-11-08
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1891211/chapter-1449-kicking-into-full-gear"
+royalRoadId: "1891211"
+markedReadAt: "2026-06-29T19:47:11.000Z"
+---
+
+It was truly impressive to see what the family was capable of when they really put their minds to it. I’m so used to my siblings’ unified way of thinking, thanks to the Vestibule, that I’ve stopped considering what it actually looks like to others when all the ants work in such a coordinated fashion.
+
+During a break from exploring and fighting territorial monsters, I take a little time to creep back up to the entrance to the fifth, just to check things out.
+
+I have to say, I like what they’ve done with the place.
+
+It hasn’t been that long, all things considered, but the narrow entrance into the tunnel, and indeed the tunnel itself, don’t look anything like what I remember when I first came down here.
+
+In fact, it couldn’t be more different.
+
+The entrance has been widened and the engineers have been busy working on it. A series of lifts are in constant motion, rising and falling as a never ending stream of ants, people, materials and everything else needed to fuel the invasion comes down. I can only imagine the shenanigans going on above in the fourth to maintain this flow. Solant’s logistical mastery at work, no doubt.
+
+The tunnel itself has transformed completely. Cleansed by the blue mana, it’s lost the toxic atmosphere and hazy yellow-green hue I see everywhere else in this place. Instead, the carvers have turned it into a massive hub for receiving and distributing everything coming down from above. There are stockpiles, warehouses, wide paths filled with traffic I guess I could describe as roads.
+
+Unsatisfied with the existing network of tunnels, the Colony has been busy boring their own channels through the rock to make more direct and efficient connections. I can already see the colossal fortress that Solant has envisioned starting to take shape, and this right here is intended to be the beating heart of the operation. We may never be self-sustaining here in the fifth, but as long as we can move things efficiently from the fourth, we should be able to get everything we need to make it through the coming wave.
+
+Just thinking about the wave is enough to dim my spirits a bit. I mean, they’re always terrible, but this next one…
+
+Take any stratum, and during a wave, whatever makes it a pain in the carapace is dialled all the way up to eleven and beyond. I still shudder to think of the never ending hordes of demon larvae on the third clawing and chewing on each other as far as the eye could see. Just what is the fifth going to be like? How much more awful could this place really get?
+
+I know the answer to that question: a lot. It’s going to get a lot worse. I may not be able to articulate how, but I can feel the slimy doom coming in the tiniest hairs on my antennae. Man, they’re twitching already, that’s how bad it’s going to be.
+
+Actually… that makes no sense, what the heck is going on?
+
+I am definitely detecting something, and I’m fairly sure it isn’t my own future despair, so just what am I picking up?
+
+To the surprise of everyone around me, I launch to my feet and start crawling over the area, my antennae sweeping from side to side as I track down the sensation like a bloodhound on a scent trail.
+
+Luckily I’m large enough to step over everything in the way, but that doesn’t mean it’s not discomforting for the non-ants who have to watch the giant monster crawl overhead.
+
+Thankfully, I don’t cause too much of a disturbance as I move through the area, focused on the faint feeling I’m getting. It’s definitely gravitational, I decide. There’s a slight eddy in the field, or perhaps several, but they're quite small, barely enough to register in the ‘noise’ of everyone else moving around in here.
+
+I spend ten minutes moving this way and that, doubtless getting in the way of many people, but for some reason, this is really sticking in my mandibles, and I’m determined to work out why. Eventually, I come to what I’m fairly sure is the source of at least one of the disturbances, but find myself quite confused to be staring at a wall.
+
+I mean… it’s a nice wall, as far as they go. Natural, Dungeon-formed tunnel, vintage stuff, newly cleaned of slime and mucus, top quality rock, all that good stuff. So why in the heck am I getting vibrations coming from it? The wave hasn’t started, so there shouldn’t be monsters forming in there, so what exactly is going on?
+
+That’s when I notice the very slight hole, little more than a crack, and I lean closer to investigate. Yes, there’s definitely a cavity of some sort behind this wall, though it isn’t very big. I don’t suppose it’ll cause much of an issue, so I shrug and engage my mandibles, tearing chunks of stone away to reveal the little hidden pocket… and the monsters tucked away inside.
+
+Aha! A sneaky little spawn point must have formed in there, but… but what have we got here?
+
+There’s roughly a dozen of them, bigger than demon larvae, possibly the size of ant hatchlings, and they are aggressively red, glaring up at me with fluid-adjacent eyes and limbs. With little to no warning, they throw themselves at me and I rear back, instinctively unleashing a barrage of fire magic that evaporates the little creatures.
+
+[You have slain Level 1 Vas Rubrum]
+
+[You have gained XP]
+
+Uh… excuse me?

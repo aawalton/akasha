@@ -1,0 +1,193 @@
+---
+id: c96926c0-7ed1-5c2b-8779-58afcb9c124b
+page-type-slug: story-chapter-royal-road
+title: "138: Planning"
+slug: 0138-138-planning
+partOf: chloe-the-zombie-a-monster-evolution-litrpg
+position: 138
+ownLength: 1848
+unit: words
+publishedAt: 2026-04-13
+link: "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3268354/138-planning"
+royalRoadId: "3268354"
+---
+
+See, Chloe remembered that whole vision thing she got when she met Maeve, and she was pretty sure there wasn’t any Graham in it. She totally would’ve remembered a headless knight, because that felt like the kind of thing you don’t just forget.
+
+Come to think of it, Iris hadn’t been there either. But Chloe was pretty sure she had seen Ray somewhere in the background, as “Mr. Raymond” in her memories, which only made things more confusing. So either her memory was being weird, or Graham was only telling part of the truth.
+
+Chloe crossed her arms. “So… when did you even meet my mom?” Actually, wait, you do know Ishgria is my mom, right?”
+
+“I am aware,” Graham said. “I first met Ishgria when she was banished from heaven and sent to this world.”
+
+“Okay, hold on, why did Mom get banished from heaven in the first place?"
+
+Graham was silent for a brief moment. “That is… a long story,” one that would be best heard from Ishgria herself.”
+
+Chloe made a face. “Wow, okay."
+
+“What I can tell you, however, is how we will reach her. Now that you’ve grown stronger, the plan can finally move forward.”
+
+“Fine, so what do I do?”
+
+Graham gestured toward the desk. “Come closer.”
+
+He pulled out a large map and spread it across the desk. The map was covered in detailed markings and symbols that definitely looked important, even if Chloe had no idea what half of them meant.
+
+Chloe immediately stepped forward, leaning in without touching the map, with Raenof and Sierra following close behind, while Iris moved in more calmly from the side. Graham then turned slightly toward Iris. “Do you have all the items from the auction?”
+
+“We’ve secured everything we need.” Iris said.
+
+“Good.”
+
+One by one, the items were placed onto the table. First came the compass, then the broken sword, and finally, the black box. It sat right in the center, perfectly still, perfectly box-looking, and yet somehow the most suspicious thing there.
+
+“Alright,” Chloe said, glancing up at Graham. “So what do these actually do?”
+
+Graham gestured toward the compass first. “That will guide us to a gateway that leads to Tartarus.”
+
+He then motioned to the broken sword. “This will be used to open the gate once we arrive.”
+
+Chloe tilted her head, leaning a little closer to it. “Wait, really? It doesn’t even look usable.”
+
+“It is not meant to function as a weapon,” Graham said.
+
+"Ah, so is it gonna be used as some kind of key?"
+
+“Something like that, yes”
+
+Finally, Graham looked toward the black box. “And last but not least, the box is to be delivered to Ishgria once we reach her.”
+
+Chloe’s eyes shifted to the box again, narrowing slightly as she stared at it for a moment longer than necessary. "That thing is still super suspicious, but sure.”
+
+She leaned back slightly, crossing her arms as she looked between all three items again. “Honestly, all of that sounds pretty straightforward, I was expecting something way more complicated.”
+
+“The steps themselves are simple, the difficulty lies in carrying them out.”
+
+Graham turned slightly and pointed at a specific location on the map. “The gateway lies here."
+
+Chloe leaned in again, following his hand, and oh boy did that place not look happy. The location Graham pointed at was deep within a massive mountain range. The peaks were drawn to be extra pointed, and strange swirling markings covered the upper areas, which Chloe was pretty sure meant something like “do not go here unless you enjoy suffering and possibly dying.”
+
+Raenof frowned slightly as he studied the map more closely. “That’s the Blackspine Range, the higher you go, the thicker the miasma becomes. People get lost there all the time, especially near the peak.”
+
+Sierra shrank slightly as she looked at the map. “That place does look rather scary."
+
+“It is,” Raenof said.
+
+Iris, on the other hand, remained calm as she studied the markings. “I don't mean to add on to the bad news, but the miasma in that region will likely interfere with certain abilities, including my smoke.”
+
+Chloe turned to her immediately. “Wait, seriously? So no teleporty shortcuts?”
+
+“Not reliably.”
+
+"Wow, so this place is already a pain in the butt. What's the plan if we do get there?" Chloe asked.
+
+“Once we reach the gateway, we will need to activate it,” he said.
+
+“Right, with the sword thing.”
+
+“Yes, but before that, we will require something else.”
+
+“Uh… what kind of something?”
+
+“We will need the heart of a dragon.”
+
+Chloe blinked. “I’m sorry, the what?”
+
+Sierra’s eyes widened, her voice small. “A… a dragon?”
+
+Graham nodded. “The gate requires a significant amount of energy to open. A dragon’s heart will provide that.”
+
+Chloe stared at him for a second, then slowly looked back down at the map, her brain trying to put everything together. “So let me get this straight, we go to a horrible mountain that wants to kill us, find a hidden gate to Tartarus, and before we can even open it, we have to kill a dragon and bring its heart there?”
+
+“Yes."
+
+"I uh, huh."
+
+"Come now, you didn't expect getting to Ishgria would be easy, right?"
+
+"Yeah, fair I guess."
+
+Raenof sighed a little as he looked down at the map. “Dragons aren’t exactly something you just… find. Most people go their entire lives without ever seeing one.”
+
+Iris stepped in then. “That is generally true. However, there is one place I know of where we are guaranteed to find at least one.”
+
+Chloe immediately perked up. “Oh? Where?”
+
+“Under Ishgria.”
+
+"Wait, you mean right under the kingdom? Like, under here?"
+
+“Correct, there is a dragon deep beneath the kingdom. And It is part of the reason I wanted to bring you back here.”
+
+Chloe stared at her for a second, then slowly turned to Graham like she was hoping he’d say “just kidding.”
+
+But instead, Graham just kept on going like what Iris said was totally normal. “It is true, a dragon resides beneath Ishgria, sealed far below the surface. I possess a map that will lead you to it.”
+
+"But how does a dragon even end up under a whole kingdom? Like, who looked at that situation and went ‘yeah, let’s build a city on top of that’?”
+
+“That is a long story, but Ishgria was involved. As in, your mother was responsible."
+
+Chloe wasn’t entirely sold on the idea that her mom would just casually put a dragon under an entire kingdom, because that really didn’t feel like something a normal person would do. But then again, Mom wasn’t exactly normal, and she was ridiculously smart, so there was probably some big-brain reason behind it that Chloe just wasn’t getting yet.
+
+“Alright, cool,” Chloe said, nodding like she totally understood. “So we go down there, beat it up, grab the heart, and then we’re good, right? So when do we go?”
+
+“There will be no ‘we’, in regards to slaying the dragon." Graham said.
+
+Chloe blinked. “What?”
+
+“You will face the dragon alone, Chloe."
+
+“Me? Alone? Like, solo mode?"
+
+“Yes.”
+
+“But why?"
+
+“To put things simply, the place where the dragon resides is not one others can enter, not even me. It will only allow you passage."
+
+Chloe frowned, her brows pulling together as she looked at Graham. “That sounds very specific, why does this place only allow me anyway?”
+
+Graham remained still. “Perhaps your mother had plans for you, I cannot say for certain. But you will likely understand when you arrive.”
+
+Sierra shifted a little closer to Chloe as she looked up at her. “Y-You’ll be okay, right?”
+
+Well, Chloe wasn't sure how to answer that. Fighting a dragon alone didn’t exactly sound easy, and if she really thought about it, she wasn’t even sure how strong she actually was compared to something like that. She was still on her third evolution, and in her head, dragons were definitely way higher than that, like boss-level, endgame kind of monsters. But then again, she wasn’t exactly normal either.
+
+Chloe had gotten way stronger recently, picked up a bunch of new skills, and honestly, she had already survived a lot of things that probably should’ve killed her. So maybe this whole killing a dragon thing wasn't completely impossible.
+
+And in fact, maybe if she just believed hard enough, she could totally win. “Pfft, yeah, obviously, how hard could beating a dragon be?"
+
+"Good to see you're confident." Raenof said, smiling.
+
+Chloe puffed her cheeks for a second after that, feeling pretty great, before something suddenly clicked in her head. “Wait a minute,” she said, raising a finger. “So what are the rest of you doing while I’m out there fighting this dragon?”
+
+“Graham and I will move ahead,” Iris said. “We’ll use the compass to locate the gateway in advance, and once you’ve dealt with the dragon, I’ll come retrieve you.”
+
+"Retrieve me? Wow, okay, that makes me sound like I’m a lost item.”
+
+“It is simply efficient."
+
+“Mm-hm, sure."
+
+Chloe then turned toward Raenof and Sierra. “Alright, and what about you two?"
+
+Graham shifted his attention toward them. “I will leave that decision to you both. If you wish to proceed to Tartarus, you may accompany us. Otherwise, I can return you safely to your home, wherever that may be.”
+
+Raenof exhaled softly, running a hand through his hair. “Well, I don’t exactly have anything better to do. And I am quite curious as to what Tartarus is like."
+
+Chloe snorted immediately, crossing her arms. “Wow, okay, I see how it is, very inspiring reason.”
+
+Raenof gave her a tired look. “I’m coming because you’ll probably get into trouble, the lack of alternatives is just a bonus.”
+
+“Rude,” Chloe said, though she didn't feel offended at all by what Raenof said.
+
+Sierra clutched her cloak as she spoke. “I want to help too, since I’ve been to Tartarus before, I think I might be useful.”
+
+Iris gave a small nod. “Then your presence may indeed prove valuable.”
+
+Chloe looked between all of them as everything clicked into place in her head. This whole thing reminded her of a game she had played with Mom a long time ago, back when things were simpler and her mom actually had time to sit down and play with her. It was some role-playing game, something like Everreal Quest.
+
+They only played it when her mom was on leave, since she was usually too busy otherwise, so those moments stuck with her more than she expected. And thinking about it now, Chloe clearly remembered that there was also a dragon in that game, one that was hidden deep beneath a kingdom until players figured out how to reach it.
+
+Actually… that sounded really familiar. Chloe wasn’t entirely sure, but the more she thought about it, the more it felt like maybe Mom had gotten the idea from that game. Was it possible that Mom copied other stuff from that game too with this dragon setup?
