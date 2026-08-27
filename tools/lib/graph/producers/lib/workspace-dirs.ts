@@ -51,7 +51,12 @@ export const workspaceDirsAt = (ctx: BuildContext, repo: Repo): readonly string[
   const out: string[] = []
   for (const entry of declared) {
     if (!entry.includes("*")) {
-      out.push(entry)
+      // A WORKSPACE THIS VIEW DOES NOT HOLD IS NOT THIS VIEW'S WORKSPACE, which is the test the glob
+      // branch below already applies through `holders`. A plain entry skipped it and was named
+      // whatever the view held, so a view narrowed to part of the tree still claimed all 263 of the
+      // workspaces the root manifest declares — and reading the first one's manifest was refused
+      // for standing outside that view's declared reach, which took the whole snapshot down.
+      if (holders.has(entry)) out.push(entry)
       continue
     }
     const { prefix, depth } = parseTrailingStarGlob(entry)
