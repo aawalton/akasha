@@ -1,5 +1,6 @@
 ---
 id: 09c611a5-feb4-5382-b407-8239a598b2af
+slug: protection
 page-type-slug: temper-affix-script
 title: Protection
 icon: "/esoui/art/icons/scribing_tertiary_protection.dds"

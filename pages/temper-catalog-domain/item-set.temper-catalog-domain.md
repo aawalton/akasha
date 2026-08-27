@@ -1,6 +1,7 @@
 ---
 page-type-slug: temper-catalog-domain
 id: af787657-71ae-5d10-8947-98ff4e745ebc
+slug: item-set
 title: Item Set
 icon: file-text
 api-version: eso.live.12.0.8.3288357

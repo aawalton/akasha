@@ -1,5 +1,6 @@
 ---
 id: c749579f-1c7a-5adc-8fd1-531f2555e167
+slug: uncertainty
 page-type-slug: temper-affix-script
 title: Uncertainty
 icon: "/esoui/art/icons/scribing_tertiary_uncertainty.dds"

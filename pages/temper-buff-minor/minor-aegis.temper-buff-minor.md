@@ -1,5 +1,6 @@
 ---
 id: f46fd55f-21b3-58eb-bf85-c585f70f9588
+slug: minor-aegis
 page-type-slug: temper-buff-minor
 title: Minor Aegis
 buff-id: minor-aegis

@@ -1,6 +1,7 @@
 ---
 page-type-slug: relationship
 id: 019db533-f382-7989-aa89-a6b545b5372a
+slug: rick-walton
 title: "Rick Walton"
 current-circle: deceased
 commitment: 3

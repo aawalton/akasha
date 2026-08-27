@@ -1,6 +1,7 @@
 ---
 page-type-slug: temper-catalog-domain
 id: 638fc696-9a89-5234-9d1b-f95c07c2be30
+slug: zone-completion
 title: Zone Completion
 icon: file-text
 api-version: eso.live.12.0.8.3288357

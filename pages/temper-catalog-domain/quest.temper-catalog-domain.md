@@ -1,5 +1,6 @@
 ---
 id: 699fbe5e-459a-5d09-868c-14fe05e2eeaa
+slug: quest
 page-type-slug: temper-catalog-domain
 title: Quest
 icon: file-text

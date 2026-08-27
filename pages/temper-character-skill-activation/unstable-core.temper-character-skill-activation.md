@@ -1,5 +1,6 @@
 ---
 id: 019e646c-c4e8-763f-9f7b-5e61f8c7b754
+slug: unstable-core
 page-type-slug: temper-character-skill-activation
 title: "unstable-core"
 skill-key: unstable-core

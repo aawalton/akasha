@@ -1,5 +1,6 @@
 ---
 id: 01c2e81f-af91-58c0-9a27-68d5e02068a9
+slug: nirnhoned
 page-type-slug: temper-armor-trait
 title: Nirnhoned
 key: nirnhoned

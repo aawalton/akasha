@@ -1,5 +1,6 @@
 ---
 id: 57deba63-0299-5b12-94d3-13db5404f167
+slug: ops-instructions
 page-type-slug: review-instructions-report
 title: "Ops instructions"
 ---

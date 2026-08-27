@@ -1,5 +1,6 @@
 ---
 id: 019e646c-c4df-7b45-9afc-9ba7522a425d
+slug: solar-prison
 page-type-slug: temper-character-skill-activation
 title: "solar-prison"
 skill-key: solar-prison

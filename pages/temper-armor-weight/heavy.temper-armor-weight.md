@@ -1,5 +1,6 @@
 ---
 id: cfcacced-5270-54e0-8d29-a65a25c20044
+slug: heavy
 page-type-slug: temper-armor-weight
 title: Heavy
 key: heavy

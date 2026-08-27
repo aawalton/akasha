@@ -1,5 +1,6 @@
 ---
 id: 26804e0e-2458-506e-be80-2e9acff514e2
+slug: health
 page-type-slug: temper-armor-enchant
 title: Health
 key: health

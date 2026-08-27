@@ -1,6 +1,7 @@
 ---
 page-type-slug: relationship
 id: 019db533-f382-75e7-aa74-114c99f6c3d1
+slug: stephen-darby
 title: "Stephen Darby"
 current-circle: acquaintances
 commitment: 3

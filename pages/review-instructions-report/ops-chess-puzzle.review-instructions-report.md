@@ -1,5 +1,6 @@
 ---
 id: c5877a94-f869-5295-a716-e59719510a7a
+slug: ops-chess-puzzle
 page-type-slug: review-instructions-report
 title: "Ops chess-puzzle"
 ---

@@ -1,5 +1,6 @@
 ---
 id: 89ad53ef-fc13-5b56-bf94-942a4fc2bf61
+slug: prismatic-defense
 page-type-slug: temper-armor-enchant
 title: Prismatic Defense
 key: prismatic-defense

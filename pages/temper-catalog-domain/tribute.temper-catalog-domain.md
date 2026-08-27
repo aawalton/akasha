@@ -1,6 +1,7 @@
 ---
 page-type-slug: temper-catalog-domain
 id: 4f314828-2bcc-5a26-86df-b51072a87986
+slug: tribute
 title: Tribute
 icon: file-text
 api-version: eso.live.12.0.8.3288357

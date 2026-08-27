@@ -1,5 +1,6 @@
 ---
 id: b3e49f96-a88f-5ac1-8e36-9ef7af7c60d1
+slug: selection-policy
 page-type-slug: selection-policy
 title: "Selection policy"
 weight-longevity: 40

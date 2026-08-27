@@ -1,6 +1,7 @@
 ---
 page-type-slug: temper-catalog-domain
 id: df3176c5-6d1c-5457-8036-fe7ccee61e11
+slug: skill
 title: Skill
 icon: file-text
 api-version: eso.live.12.0.8.3288357

@@ -1,5 +1,6 @@
 ---
 id: 04649e36-d928-5d8d-bcdb-eedfe133dae8
+slug: well-fitted
 page-type-slug: temper-armor-trait
 title: Well-Fitted
 key: well-fitted

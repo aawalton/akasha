@@ -1,6 +1,7 @@
 ---
 page-type-slug: temper-catalog-domain
 id: a08ab348-94e5-5951-bbbf-d36342d11f57
+slug: furniture
 title: Furniture
 icon: file-text
 api-version: eso.live.12.0.8.3288357

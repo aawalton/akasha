@@ -1,5 +1,6 @@
 ---
 id: c3feed11-c7d8-507f-81fa-9a095b8d4305
+slug: impenetrable
 page-type-slug: temper-armor-trait
 title: Impenetrable
 key: impenetrable

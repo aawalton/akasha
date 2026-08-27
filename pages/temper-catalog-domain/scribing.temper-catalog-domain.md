@@ -1,6 +1,7 @@
 ---
 page-type-slug: temper-catalog-domain
 id: 0c5f69d3-659f-5fdf-8916-8057ff7fd608
+slug: scribing
 title: Scribing
 icon: file-text
 api-version: eso.live.12.0.8.3288357

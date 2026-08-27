@@ -1,6 +1,7 @@
 ---
 page-type-slug: relationship
 id: 019db533-f382-75b3-ba0e-7ec53636498c
+slug: seth-tippetts
 title: "Seth Tippetts"
 current-circle: acquaintances
 commitment: 2

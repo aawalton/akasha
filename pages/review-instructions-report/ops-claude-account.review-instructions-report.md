@@ -1,5 +1,6 @@
 ---
 id: f811e635-1eed-540b-a004-8ca40cf385f9
+slug: ops-claude-account
 page-type-slug: review-instructions-report
 title: "Ops claude account"
 ---

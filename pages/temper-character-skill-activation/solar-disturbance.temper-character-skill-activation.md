@@ -1,5 +1,6 @@
 ---
 id: 019e646c-c4e2-7198-a5a7-d5d105f2b4e0
+slug: solar-disturbance
 page-type-slug: temper-character-skill-activation
 title: "solar-disturbance"
 skill-key: solar-disturbance

@@ -1,6 +1,7 @@
 ---
 page-type-slug: relationship
 id: 019db533-f382-784e-b6a5-e46e91bf7522
+slug: wilbur-walton
 title: "Wilbur Walton"
 current-circle: acquaintances
 commitment: 5

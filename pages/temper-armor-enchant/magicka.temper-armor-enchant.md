@@ -1,5 +1,6 @@
 ---
 id: d9a1bfb3-5c10-5720-a850-b7a867da5a35
+slug: magicka
 page-type-slug: temper-armor-enchant
 title: Magicka
 key: magicka

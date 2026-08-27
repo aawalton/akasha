@@ -1,5 +1,6 @@
 ---
 id: ef684cc0-f651-5a47-9333-fde35903a707
+slug: medium
 page-type-slug: temper-armor-weight
 title: Medium
 key: medium

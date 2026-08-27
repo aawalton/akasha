@@ -1,5 +1,6 @@
 ---
 id: 019e646c-c4dd-719a-a195-98c26384f1a9
+slug: reflective-light
 page-type-slug: temper-character-skill-activation
 title: "reflective-light"
 skill-key: reflective-light

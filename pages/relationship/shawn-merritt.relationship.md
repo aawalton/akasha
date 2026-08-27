@@ -1,6 +1,7 @@
 ---
 page-type-slug: relationship
 id: 019db533-f384-7e59-a485-7259a7d411a6
+slug: shawn-merritt
 title: "Shawn Merritt"
 current-circle: acquaintances
 commitment: 3

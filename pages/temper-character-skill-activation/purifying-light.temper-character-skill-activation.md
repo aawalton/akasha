@@ -1,5 +1,6 @@
 ---
 id: 019e646c-c4e4-7f50-aafc-ac53cbcd88e4
+slug: purifying-light
 page-type-slug: temper-character-skill-activation
 title: "purifying-light"
 skill-key: purifying-light

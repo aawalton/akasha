@@ -1,5 +1,6 @@
 ---
 id: 9287aac3-986d-5470-a9ab-93735482c408
+slug: healer
 page-type-slug: temper-companion-base-role
 title: Healer
 key: healer

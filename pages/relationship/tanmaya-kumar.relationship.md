@@ -1,6 +1,7 @@
 ---
 page-type-slug: relationship
 id: 019db533-f382-762f-86e3-4ef3f749b30c
+slug: tanmaya-kumar
 title: "Tanmaya Kumar"
 current-circle: acquaintances
 commitment: 4

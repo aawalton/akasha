@@ -1,6 +1,7 @@
 ---
 page-type-slug: relationship
 id: 019db533-f385-70d7-9034-c413dae12bfa
+slug: ryan-seamons
 title: "Ryan Seamons"
 current-circle: confidants
 commitment: 5

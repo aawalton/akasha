@@ -1,5 +1,6 @@
 ---
 id: a29ddbad-6aff-5ffc-a4ae-6f42e1caf206
+slug: invigorating
 page-type-slug: temper-armor-trait
 title: Invigorating
 key: invigorating

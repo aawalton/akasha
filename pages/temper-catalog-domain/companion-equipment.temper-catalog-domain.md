@@ -1,6 +1,7 @@
 ---
 page-type-slug: temper-catalog-domain
 id: 448f8abd-1c56-55ae-8eb1-8341d0171706
+slug: companion-equipment
 title: Companion Equipment
 icon: file-text
 api-version: eso.live.12.0.8.3288357

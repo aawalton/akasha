@@ -1,5 +1,6 @@
 ---
 id: 090732bf-9a0d-5dd2-9075-a9d26b12b38c
+slug: intricate
 page-type-slug: temper-armor-trait
 title: Intricate
 key: intricate

@@ -1,5 +1,6 @@
 ---
 id: 2e716dca-81fe-5e04-a44b-5839380a472b
+slug: courage
 page-type-slug: temper-affix-script
 title: Courage
 icon: "/esoui/art/icons/scribing_tertiary_courage.dds"

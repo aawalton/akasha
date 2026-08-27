@@ -1,5 +1,6 @@
 ---
 id: b0d3ca21-291b-55f6-99b1-f36fdef54b35
+slug: training
 page-type-slug: temper-armor-trait
 title: Training
 key: training

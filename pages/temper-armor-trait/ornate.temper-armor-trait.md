@@ -1,5 +1,6 @@
 ---
 id: 78451c2f-8ae0-50be-b896-4e016d2cdcfd
+slug: ornate
 page-type-slug: temper-armor-trait
 title: Ornate
 key: ornate

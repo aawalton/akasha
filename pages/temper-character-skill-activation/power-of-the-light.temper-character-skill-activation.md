@@ -1,5 +1,6 @@
 ---
 id: 019e646c-c4e7-70ab-a496-c082da9ab7f7
+slug: power-of-the-light
 page-type-slug: temper-character-skill-activation
 title: "power-of-the-light"
 skill-key: power-of-the-light

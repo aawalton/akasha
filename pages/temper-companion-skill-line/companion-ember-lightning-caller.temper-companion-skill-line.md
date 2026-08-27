@@ -1,5 +1,6 @@
 ---
 id: 543981f1-76f8-5f3c-8114-f00e2458a611
+slug: companion-ember-lightning-caller
 page-type-slug: temper-companion-skill-line
 title: Lightning Caller
 key: companion-ember-lightning-caller

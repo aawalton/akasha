@@ -1,6 +1,7 @@
 ---
 page-type-slug: relationship
 id: 019db533-f384-737e-9b52-899a024ec566
+slug: rebecca-poulsen
 title: "Rebecca Poulsen"
 linkedin-url: "https://www.linkedin.com/in/rebeccapoulsen"
 ---

@@ -1,5 +1,6 @@
 ---
 id: 9d82e66f-9344-564d-8aac-dc0ab63331d3
+slug: companion-bastian-draconic-armor
 page-type-slug: temper-companion-skill-line
 title: Draconic Armor
 key: companion-bastian-draconic-armor

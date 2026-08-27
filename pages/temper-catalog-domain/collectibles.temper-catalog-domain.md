@@ -1,6 +1,7 @@
 ---
 page-type-slug: temper-catalog-domain
 id: dfd23a17-b4e1-5563-9022-bf0ff004b15f
+slug: collectibles
 title: Collectibles
 icon: file-text
 api-version: eso.live.12.0.8.3288357

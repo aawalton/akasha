@@ -1,5 +1,6 @@
 ---
 id: 7eba2198-999c-5ada-83ef-96c0efb06a49
+slug: support
 page-type-slug: temper-companion-base-role
 title: Support
 key: support

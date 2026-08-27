@@ -1,6 +1,7 @@
 ---
 page-type-slug: relationship
 id: 019db533-f385-713f-8980-bac260338c5e
+slug: sky-chris-evans
 title: "Sky + Chris Evans"
 current-circle: acquaintances
 commitment: 3

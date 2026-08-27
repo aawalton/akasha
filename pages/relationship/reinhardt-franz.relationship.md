@@ -1,6 +1,7 @@
 ---
 page-type-slug: relationship
 id: 019db533-f382-75f9-93e0-52d8fa34d679
+slug: reinhardt-franz
 title: "Reinhardt Franz"
 current-circle: acquaintances
 commitment: 4

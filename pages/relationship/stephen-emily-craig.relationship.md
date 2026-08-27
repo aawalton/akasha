@@ -1,6 +1,7 @@
 ---
 page-type-slug: relationship
 id: 019db533-f384-7dc4-a561-9fdb06d196ab
+slug: stephen-emily-craig
 title: "Stephen + Emily Craig"
 current-circle: acquaintances
 commitment: 4

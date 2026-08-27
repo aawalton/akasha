@@ -1,5 +1,6 @@
 ---
 id: b0bae0d9-a3ec-5a02-8552-f169b26edcff
+slug: evasion
 page-type-slug: temper-affix-script
 title: Evasion
 icon: "/esoui/art/icons/scribing_tertiary_evasion.dds"

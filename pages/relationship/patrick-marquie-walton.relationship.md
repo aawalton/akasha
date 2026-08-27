@@ -1,6 +1,7 @@
 ---
 page-type-slug: relationship
 id: 019db533-f382-75a1-877e-481e938e7964
+slug: patrick-marquie-walton
 title: "Patrick + Marquie Walton"
 current-circle: affiliates
 commitment: 5

@@ -1,5 +1,6 @@
 ---
 id: 019e646c-c4d7-7476-98c1-519adf268149
+slug: vampires-bane
 page-type-slug: temper-character-skill-activation
 title: "vampires-bane"
 skill-key: vampires-bane

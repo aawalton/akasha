@@ -1,5 +1,6 @@
 ---
 id: 1a00ef3e-321e-5e54-a0c2-52f0f7f9ad5d
+slug: sturdy
 page-type-slug: temper-armor-trait
 title: Sturdy
 key: sturdy

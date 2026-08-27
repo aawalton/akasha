@@ -1,5 +1,6 @@
 ---
 id: 47b01fb0-0e06-58d3-8b80-a43fd89934df
+slug: tank
 page-type-slug: temper-companion-base-role
 title: Tank
 key: tank

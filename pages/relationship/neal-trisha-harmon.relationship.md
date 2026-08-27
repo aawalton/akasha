@@ -1,6 +1,7 @@
 ---
 page-type-slug: relationship
 id: 019db533-f382-7675-b181-bfc31934818a
+slug: neal-trisha-harmon
 title: "Neal + Trisha Harmon"
 current-circle: acquaintances
 commitment: 2

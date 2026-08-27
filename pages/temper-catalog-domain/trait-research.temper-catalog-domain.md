@@ -1,6 +1,7 @@
 ---
 page-type-slug: temper-catalog-domain
 id: 682e4f16-af85-570b-aea4-c22739bf5d1d
+slug: trait-research
 title: Trait Research
 icon: file-text
 api-version: eso.live.12.0.8.3288357

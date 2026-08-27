@@ -1,6 +1,7 @@
 ---
 page-type-slug: relationship
 id: 019db533-f385-70fa-93c8-63d50c4eb498
+slug: rusty-lopez
 title: "Rusty Lopez"
 current-circle: affiliates
 commitment: 2

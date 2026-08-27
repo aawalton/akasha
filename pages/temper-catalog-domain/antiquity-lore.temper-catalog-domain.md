@@ -1,6 +1,7 @@
 ---
 page-type-slug: temper-catalog-domain
 id: 79b1b92e-13f9-5040-8b78-3040b1bdf590
+slug: antiquity-lore
 title: Antiquity Lore
 icon: file-text
 api-version: eso.live.12.0.8.3288357

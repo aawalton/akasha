@@ -1,6 +1,7 @@
 ---
 page-type-slug: temper-catalog-domain
 id: 2659c114-097d-5671-9330-8e31fdac899e
+slug: lore-library
 title: Lore Library
 icon: file-text
 api-version: eso.live.12.0.8.3288357

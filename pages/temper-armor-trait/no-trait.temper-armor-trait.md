@@ -1,5 +1,6 @@
 ---
 id: ff60ce5e-c32f-5bb3-806a-86d44dc094fa
+slug: no-trait
 page-type-slug: temper-armor-trait
 title: No Trait
 key: no-trait

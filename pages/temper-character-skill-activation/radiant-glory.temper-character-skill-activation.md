@@ -1,5 +1,6 @@
 ---
 id: 019e646c-c4ec-7752-bf6b-35862f20781c
+slug: radiant-glory
 page-type-slug: temper-character-skill-activation
 title: "radiant-glory"
 skill-key: radiant-glory

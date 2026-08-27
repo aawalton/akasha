@@ -1,6 +1,7 @@
 ---
 page-type-slug: relationship
 id: 019db533-f382-77e5-bfa9-8b34bd3ed898
+slug: sarah-colt-williams
 title: "Sarah + Colt Williams"
 current-circle: acquaintances
 commitment: 5

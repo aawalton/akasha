@@ -1,5 +1,6 @@
 ---
 id: c75cef49-d070-5bd8-9deb-36de67eff448
+slug: minor-fortitude
 page-type-slug: temper-buff-minor
 title: Minor Fortitude
 buff-id: minor-fortitude

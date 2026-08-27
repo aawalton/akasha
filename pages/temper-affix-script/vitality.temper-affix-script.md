@@ -1,5 +1,6 @@
 ---
 id: 063f85ad-af32-5b91-bc26-4ccc56649f86
+slug: vitality
 page-type-slug: temper-affix-script
 title: Vitality
 icon: "/esoui/art/icons/scribing_tertiary_vitality.dds"

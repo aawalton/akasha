@@ -1,5 +1,6 @@
 ---
 id: 019e646c-c4ed-7ba0-8d00-df4d036b4685
+slug: radiant-oppression
 page-type-slug: temper-character-skill-activation
 title: "radiant-oppression"
 skill-key: radiant-oppression

@@ -1,5 +1,6 @@
 ---
 id: 0c2fe5ae-676c-5f00-bc14-e84f589c54bd
+slug: code-comment
 page-type-slug: review-instructions-report
 title: "Code comment"
 ---

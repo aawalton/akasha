@@ -1,6 +1,7 @@
 ---
 page-type-slug: relationship
 id: 019db533-f384-7e4d-97fc-4a3dbf9d3135
+slug: tyler-ferris
 title: "Tyler Ferris"
 commitment: 4
 connection: 3

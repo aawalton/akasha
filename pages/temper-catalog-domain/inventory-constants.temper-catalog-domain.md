@@ -1,6 +1,7 @@
 ---
 page-type-slug: temper-catalog-domain
 id: 83d6a6a9-a03d-536c-b4b1-4c833da37dc3
+slug: inventory-constants
 title: Inventory Constants
 icon: file-text
 api-version: eso.live.12.0.8.3288357

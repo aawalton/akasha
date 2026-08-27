@@ -1,5 +1,6 @@
 ---
 id: 2150a212-54aa-52cf-a79f-2019b2cd5932
+slug: heroism
 page-type-slug: temper-affix-script
 title: Heroism
 icon: "/esoui/art/icons/scribing_tertiary_heroism.dds"

@@ -1,5 +1,6 @@
 ---
 id: 1e60e490-0dec-51be-a4b2-05ffb343656f
+slug: minor-sorcery
 page-type-slug: temper-buff-minor
 title: Minor Sorcery
 buff-id: minor-sorcery

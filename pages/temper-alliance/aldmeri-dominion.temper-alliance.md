@@ -1,5 +1,6 @@
 ---
 id: 24cabf3d-875b-587f-aa4a-1c2ede7f0e4b
+slug: aldmeri-dominion
 page-type-slug: temper-alliance
 title: Aldmeri Dominion
 temper-id: aldmeri-dominion

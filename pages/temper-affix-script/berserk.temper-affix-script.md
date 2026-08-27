@@ -1,5 +1,6 @@
 ---
 id: b542d8f1-7efd-5bc8-bbeb-08c989ca980b
+slug: berserk
 page-type-slug: temper-affix-script
 title: Berserk
 icon: "/esoui/art/icons/scribing_tertiary_berserk.dds"

@@ -1,6 +1,7 @@
 ---
 page-type-slug: relationship
 id: 019db533-f384-7e05-b2d8-7c8efe86d91b
+slug: shawn-mary-nevers
 title: "Shawn + Mary Nevers"
 current-circle: acquaintances
 commitment: 4

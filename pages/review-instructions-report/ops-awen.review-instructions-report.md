@@ -1,5 +1,6 @@
 ---
 id: 9ce23254-d95d-5ce0-8f47-68ac410355ab
+slug: ops-awen
 page-type-slug: review-instructions-report
 title: "Ops awen"
 ---

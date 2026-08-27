@@ -1,6 +1,7 @@
 ---
 page-type-slug: temper-catalog-domain
 id: a1329f2f-2539-5aad-9368-8601183d7999
+slug: recipe
 title: Recipe
 icon: file-text
 api-version: eso.live.12.0.8.3288357

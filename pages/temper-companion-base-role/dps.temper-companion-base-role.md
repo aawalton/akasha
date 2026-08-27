@@ -1,5 +1,6 @@
 ---
 id: 1458785e-603b-5602-a181-a41c33fcbc91
+slug: dps
 page-type-slug: temper-companion-base-role
 title: DPS
 key: dps

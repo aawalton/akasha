@@ -1,5 +1,6 @@
 ---
 id: 128480ab-68bb-58b0-97d8-6833c156f48b
+slug: waist
 page-type-slug: temper-armor-type
 title: Waist
 key: waist

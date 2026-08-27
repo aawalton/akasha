@@ -1,5 +1,6 @@
 ---
 id: 019e646c-c4eb-7243-aa0a-27d3366fa972
+slug: solar-barrage
 page-type-slug: temper-character-skill-activation
 title: "solar-barrage"
 skill-key: solar-barrage

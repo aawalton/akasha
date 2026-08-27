@@ -1,5 +1,6 @@
 ---
 id: 019e646c-c4e9-7d87-8cb4-29b1cb1711e0
+slug: dark-flare
 page-type-slug: temper-character-skill-activation
 title: "dark-flare"
 skill-key: dark-flare

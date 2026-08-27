@@ -1,6 +1,7 @@
 ---
 page-type-slug: relationship
 id: 019db533-f384-7df8-b72b-053452281e54
+slug: shayne-susan-roy
 title: "Shayne + Susan Roy"
 current-circle: community
 commitment: 2

@@ -1,6 +1,7 @@
 ---
 page-type-slug: temper-catalog-domain
 id: 09cefe29-ca9d-505e-b328-5649f3a6e689
+slug: cadwell
 title: Cadwell
 icon: file-text
 api-version: eso.live.12.0.8.3288357

@@ -1,5 +1,6 @@
 ---
 id: 248adf42-b416-5780-8517-f334362cecc3
+slug: no-enchant
 page-type-slug: temper-armor-enchant
 title: No Enchant
 key: no-enchant

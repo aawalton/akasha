@@ -1,6 +1,7 @@
 ---
 page-type-slug: relationship
 id: 019db533-f382-76bb-a316-a181bd4f95b4
+slug: taylor-blake
 title: "Taylor Blake"
 current-circle: affiliates
 commitment: 4
