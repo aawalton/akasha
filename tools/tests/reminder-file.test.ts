@@ -4,7 +4,10 @@ import { reminderAt, selfRemindersOf } from "../lib/reminder-file.ts"
 
 const ROOT = "/var/tmp/reminder-file-test"
 
-const STOOD = process.env.MEMORY_ROOT
+// `AKASHA_ROOT` NAMES THE TEMP REPOSITORY. `reminder-file.ts` reads `akashaRoot()`, and the
+// `memory` repository the old variable named is absorbed into it, so setting `MEMORY_ROOT`
+// pointed nothing anywhere and every case below read the live checkout's own reminders.
+const STOOD = process.env.AKASHA_ROOT
 
 function reminder(recipient: string, name: string, stated: Record<string, string>): string {
   const dir = `${ROOT}/pages/reminder/${recipient}`
@@ -19,7 +22,7 @@ function reminder(recipient: string, name: string, stated: Record<string, string
 
 beforeAll(() => {
   rmSync(ROOT, { recursive: true, force: true })
-  process.env.MEMORY_ROOT = ROOT
+  process.env.AKASHA_ROOT = ROOT
   reminder("athena", "own", { to: "athena", from: "athena", schedule: "hourly" })
   reminder("athena", "handed-over", { to: "athena", from: "supervisor", schedule: "hourly" })
   reminder("athena", "no-schedule", { to: "athena", from: "athena" })
@@ -28,8 +31,8 @@ beforeAll(() => {
 
 afterAll(() => {
   rmSync(ROOT, { recursive: true, force: true })
-  if (STOOD === undefined) delete process.env.MEMORY_ROOT
-  else process.env.MEMORY_ROOT = STOOD
+  if (STOOD === undefined) delete process.env.AKASHA_ROOT
+  else process.env.AKASHA_ROOT = STOOD
 })
 
 describe("which reminders stand as a turn start the seat itself arranged", () => {
