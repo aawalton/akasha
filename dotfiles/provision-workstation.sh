@@ -4,8 +4,7 @@ set -euo pipefail
 
 DOTFILES="$(cd -- "$(dirname -- "$(readlink -f -- "$0")")" && pwd -P)"
 . "$DOTFILES/../tools/lib/repo-roots.sh"
-CODE="$CODE_ROOT"
-INSTRUCTIONS="$INSTRUCTIONS_ROOT"
+AKASHA="$AKASHA_ROOT"
 SUDOERS_FILE="/etc/sudoers.d/walton-nopasswd"
 SUDOERS_LINE="$(whoami) ALL=(ALL) NOPASSWD: ALL"
 
@@ -59,16 +58,16 @@ else
   echo "      falling back to 'npx playwright-core install chromium' (may differ in revision)." >&2
   npx --yes playwright-core install chromium
 fi
-ws_core_cli="$(find "$CODE/node_modules" -path '*/playwright-core/cli.js' 2>/dev/null | head -1)"
+ws_core_cli="$(find "$AKASHA/node_modules" -path '*/playwright-core/cli.js' 2>/dev/null | head -1)"
 if [ -n "$ws_core_cli" ]; then
   node "$ws_core_cli" install chromium
 else
-  echo "WARN: workspace playwright-core not found in $CODE/node_modules — run 'bun install' first." >&2
+  echo "WARN: workspace playwright-core not found in $AKASHA/node_modules — run 'bun install' first." >&2
 fi
 
 echo "==> Installing ast-grep..."
 ASTGREP_LIB="$HOME/.local/lib/ast-grep"
-astgrep_url="$(cd "$INSTRUCTIONS" && bun -e 'import { CI_TOOLCHAIN_URLS } from "@infra/ci-workflows/toolchain-manifest"; console.log(CI_TOOLCHAIN_URLS.astGrepZip)')"
+astgrep_url="$(cd "$AKASHA" && bun -e 'import { CI_TOOLCHAIN_URLS } from "@infra/ci-workflows/toolchain-manifest"; console.log(CI_TOOLCHAIN_URLS.astGrepZip)')"
 astgrep_want="$(printf '%s\n' "$astgrep_url" | sed -n 's|.*/download/\([^/]*\)/.*|\1|p')"
 astgrep_have=""
 if [ -x "$ASTGREP_LIB/ast-grep" ]; then
@@ -101,20 +100,20 @@ fi
 
 echo "==> Installing the vendored upstream TamrielTradeCentre addon (ESOUI, via community-addon install command)..."
 if [ "$(uname)" != "Darwin" ]; then
-  if ! (cd "$CODE" && bun ops temper community-addon install TamrielTradeCentre); then
+  if ! (cd "$AKASHA" && bun ops temper community-addon install TamrielTradeCentre); then
     echo "WARN: TamrielTradeCentre install via community-addon command failed — continuing." >&2
   fi
 fi
 
 
 echo "==> Projecting the workstation-service documents into systemd units..."
-if [ -f "$INSTRUCTIONS/tools/ops/cli.ts" ]; then
-  if ! (cd "$CODE" && bun ops service install --apply); then
-    echo "WARN: 'ops service install --apply' failed — every service that domains/services/*.md" >&2
+if [ -f "$AKASHA/tools/ops/cli.ts" ]; then
+  if ! (cd "$AKASHA" && bun ops service install --apply); then
+    echo "WARN: 'ops service install --apply' failed — every service that pages/service/*.md" >&2
     echo "      describes is uninstalled on this box. Re-run it once the cause is cleared." >&2
   fi
 else
-  echo "WARN: no instructions checkout at $INSTRUCTIONS, so domains/services/*.md cannot be read" >&2
+  echo "WARN: no akasha checkout at $AKASHA, so pages/service/*.md cannot be read" >&2
   echo "      and none of the services it describes is installed." >&2
 fi
 
@@ -162,8 +161,8 @@ fi
 echo "    swap: $(swapon --show=NAME,SIZE,PRIO --noheadings | tr '\n' ' ')"
 
 echo "==> Materializing Claude account alias snapshot (best-effort)..."
-if ! (cd "$CODE" && bun ops claude-account sync-aliases) 2>/dev/null; then
-  echo "    WARN: alias snapshot not written — run 'bun ops claude-account sync-aliases' once the instructions repo is in place." >&2
+if ! (cd "$AKASHA" && bun ops claude-account sync-aliases) 2>/dev/null; then
+  echo "    WARN: alias snapshot not written — run 'bun ops claude-account sync-aliases' once the akasha repo is in place." >&2
 fi
 
 echo
@@ -174,5 +173,5 @@ echo "  - Restore the workstation SMS outbound creds (TELNYX_FROM_NUMBER, TELNYX
 echo "    from their tracked SOPS source into ~/.secrets.env (reproducible from main, IaC):"
 echo "      sops -d packages/alanwalton/sms/cli/secrets/telnyx-outbound.sops.yaml"
 echo "    then add each as 'export KEY=value' (edit specific lines; never overwrite the file)."
-echo "  - Once the instructions repo is in place, run 'bun ops claude-account sync-aliases' to"
+echo "  - Once the akasha repo is in place, run 'bun ops claude-account sync-aliases' to"
 echo "    rebuild ~/.claude/account-aliases.json (the cN shell aliases) from the account pages."

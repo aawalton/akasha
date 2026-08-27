@@ -4,7 +4,6 @@ set -euo pipefail
 
 DOTFILES="$(cd -- "$(dirname -- "$(readlink -f -- "$0")")" && pwd -P)"
 . "$DOTFILES/../tools/lib/repo-roots.sh"
-CODE="$CODE_ROOT"
 AKASHA="$AKASHA_ROOT"
 SUDOERS_FILE="/etc/sudoers.d/walton-nopasswd"
 SUDOERS_LINE="$(whoami) ALL=(ALL) NOPASSWD: ALL"
@@ -74,12 +73,11 @@ ensure_clone() {
   git clone "$origin_base$repo.git" "$root"
 }
 ensure_clone akasha "$AKASHA"
-ensure_clone code "$CODE"
 
 echo "==> Installing workspace dependencies (bun install)..."
 export BUN_INSTALL="$HOME/.bun"
 export PATH="$BUN_INSTALL/bin:$PATH"
-( cd "$CODE" && bun install )
+( cd "$AKASHA" && bun install )
 
 echo "==> Setting up home-directory symlinks..."
 bash "$DOTFILES/setup-symlinks.sh"
