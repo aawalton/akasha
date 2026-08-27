@@ -1,0 +1,34 @@
+{
+  "name": "@alanwalton/chess",
+  "functionalType": "io",
+  "dependencies": {
+    "@shared/errors-core": "workspace:*",
+    "@shared/pages-access": "workspace:*",
+    "@shared/supabase-auth": "workspace:*",
+    "@shared/utils-narrow": "workspace:*",
+    "@shared/utils-sync": "workspace:*",
+    "zod": "^4.3.6"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.3.9",
+    "typescript": "^5.8.3"
+  },
+  "version": "0.1.0",
+  "type": "module",
+  "private": true,
+  "exports": {
+    "./lib/engine": "./src/lib/engine.ts",
+    "./lib/uci": "./src/lib/uci.ts",
+    "./lib/position": "./src/lib/position.ts",
+    "./lib/maia": "./src/lib/maia.ts",
+    "./lib/game": "./src/lib/game.ts",
+    "./lib/loop": "./src/lib/loop.ts",
+    "./lib/persist-game": "./src/lib/persist-game.ts"
+  },
+  "scripts": {
+    "test": "bun test",
+    "typecheck": "bunx @typescript/native-preview -b",
+    "lint": "biome check .",
+    "lint:fix": "biome check --write ."
+  }
+}
