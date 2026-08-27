@@ -5,7 +5,7 @@ title: "DDNS headscale"
 slug: ddns-headscale
 domain-parent-slug: page-type/cluster-service
 kind: CronJob
-namespace: cloudflared
+namespace: ddns-headscale
 resource-name: ddns-headscale
 ---
 
