@@ -1,0 +1,22 @@
+**What it is.** `check-principle-citations` turns CORRECT citations of REAL principles into violations,
+via three independent truncations in one parser: a comma ends the candidate, a newline ends it, and a
+6-word cap in the resolver that the registry harvest does not apply — so the index holds keys its own
+lookup can never emit.
+
+**Four of our most-cited principles are structurally uncitable**, including *A Green Condition Can Be
+Anti-Correlated with Correctness* and *What Fails Silently Cannot Be Found by Looking*.
+
+**The damage is confirmed, not predicted.** An author cited `Never Auto-Relaunch a Failed Agent`
+correctly, it wrapped across a line, the parser cut it to `Never`, and they replaced it with the coarser
+`Principle: Safety`. Their commit message diagnoses the parser exactly — and they reworded anyway,
+because the parser was not theirs to fix.
+
+**Why it is Stability tier:** it fails EVERY domain's tree check on content no branch owns, and every
+route to green degrades the corpus (rename a principle, weaken a citation, or suppress the check — I
+will refuse the third).
+
+**Three children defined:** #17102 measures the true denominator over the check's own registry harvest,
+#17103 fixes the resolver and lands a round-trip property test, #17104 sweeps for citations already
+reworded to pass.
+
+Four trees in flight (#16520, #16922, #17058, #17086), so this is within the five-project budget.

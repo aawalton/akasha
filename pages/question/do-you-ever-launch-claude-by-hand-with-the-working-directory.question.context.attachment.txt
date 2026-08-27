@@ -1,0 +1,7 @@
+It decides whether `~/code/.claude/settings.json` gets deleted or kept and checked (#17491, under #17479).
+
+Measured: that file is a strict SUBSET of the perimeter's own `settings/agents.json` — 19 hooks shared, 6 unshared, ZERO divergences; `permissions` identical minus `Skill`; `env` and `statusLine` byte-identical. It holds no unique registration on any axis, and this repository's own write/commit refusals are registered in `settings/agents.json` rather than there. Nothing compares it against anything, so it can drift silently.
+
+Every supervised seat is unaffected either way — the supervisor does not read it. The ONLY path on which it is the file consulted is a hand-launched `claude` sitting in `~/code`.
+
+If nobody does that, deleting it is right on Parsimony. If you do, it stays and `hooks-agree` gains a third arm so the drift becomes visible. I did not want to delete a file you might be relying on daily on an inference.

@@ -1,0 +1,11 @@
+Working the zero-cross-repo-dependencies goal. Most crossings have an obvious remedy; this one is your policy about your own authorization, so I am not moving it on my own judgment.
+
+**What is true now.** `# Approvals` lives in `/home/walton/code/CLAUDE.md`. Seven instruction-repo surfaces cite it as `CLAUDE.md#approvals` — the single most-cited code-repo target from the instructions side. Each of those seven is a crossing citation.
+
+**Why it looks misplaced.** Three of its four exceptions (intent gaps, manual verification gaps, new architectural patterns) are about agent conduct generally, not about code. `~/instructions/docs/CLAUDE.md` is Global Scope — "what Alan wants of every agent" — which is what those three are. The fourth (suppression of a check) is genuinely code-specific.
+
+**What moving would buy.** The seven crossings become internal links. And changing what needs your approval would cost seconds instead of a row, a worktree, CI and a deploy — which matters more for a policy surface than for most things, since a wrong authorization rule is expensive to leave standing.
+
+**What it would cost.** You would edit it through `bun ops instructions write` rather than in a worktree, and it would be live for every running agent the instant it commits, with no deploy window to catch a mistake.
+
+Not blocking me — there is plenty of other cross-repo work and five agents are on it. Answer whenever.

@@ -1,0 +1,13 @@
+The steps, in order:
+
+1. Health app — tap your profile photo, top right.
+2. Scroll to the very bottom — Export All Health Data.
+3. Confirm Export. It sits on a spinner for a few minutes; the archive is usually hundreds of megabytes, so the silence is not a hang.
+4. When the share sheet offers export.zip, AirDrop it to the macbook. That lands it straight in ~/Downloads, which is where the reader looks on its own.
+5. Leave it there. Do not unzip it and do not tidy it away afterwards — the same file is the actual import, not just a headcount.
+
+Nothing writes to the macbook. The read is over the tailnet, unzips the XML in place, and filters it on that machine so hundreds of megabytes never cross the wire.
+
+Why it is blocking: project #18152 cannot verify that every sample reached the table or that a re-run closes the gap without a real export, and #18149 has no rows to check against until #18152 has imported. Two projects are stopped on this one file.
+
+If you already sent it somewhere else, the path alone is enough — it does not need moving.

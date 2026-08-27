@@ -1,0 +1,1 @@
+Recents/favorites fixes shipped (#15525): cross-type rows had empty hrefs (tap did nothing) — fixed; and table rows gained a trailing actions menu reusing the standard page menu, so add/remove favorite works right from the list. Deployed-web nav legs already verified; the menu render + toggle on your live data is the device-only leg.

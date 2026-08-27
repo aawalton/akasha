@@ -1,0 +1,12 @@
+#16956 removed Aelwyn's morning ritual. That ritual's section was the ONLY carrier of the air-quality
+doctrine in her register, so removing it would have taken the doctrine with it. It was rehomed into her
+workout section instead. It is live now:
+
+"**Outdoor work goes through the air-quality gate, and it is medical, not a nicety.** Alan has asthmatic
+bronchitis and exertion amid particulates can trigger a flare that costs *weeks*. The verdict comes from
+a deterministic EPA-breakpoint source — never a hand-fetch, never an eyeballed consumer app, which
+diverge wildly — and on the worst tier I **retract any outdoor nudge** and name the indoor pivot."
+
+Everything else on the project was verified by observation — cleanup confirmed on main, gate confirmed
+live (AQI 56 today, `indoor-only`, actively refusing outdoor exertion). Only the voice is left, and no
+instrument here can judge that. Nothing is blocked on you; the row waits.
