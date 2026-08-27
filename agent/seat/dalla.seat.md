@@ -8,6 +8,7 @@ role-slug: definer
 person-slug: alan
 start-mode: interactive
 on-call: true
+errand: "Okay, lets clean up the loose ends first"
 registration-account: aawalton
 claude-code-session-uuid: 95b38980-47c1-43e6-bc59-bf2513e54be8
 transcript-path: /var/home/walton/.claude/accounts/aawalton/projects/-var-home-walton-repos/95b38980-47c1-43e6-bc59-bf2513e54be8.jsonl
