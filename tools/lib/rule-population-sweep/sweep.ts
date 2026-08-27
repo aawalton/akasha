@@ -5,7 +5,7 @@ import {
   BLIND_SPOTS,
   gatherRulePopulations,
 } from "../../../infra/cluster-checks/src/audits/rule-population.ts"
-import { getRepoRoot } from "../../../infra/cluster-checks/src/lib/repo-root.ts"
+import { akashaRoot } from "../../../repo/roots/roots.ts"
 
 export const LOG = "[rule-population-sweep]"
 
@@ -25,7 +25,11 @@ export interface SweptReading {
 }
 
 export async function readRulePopulations(log: (line: string) => void): Promise<SweptReading> {
-  const repoRoot = getRepoRoot()
+  // THE TREE SWEPT IS THIS REPOSITORY, named by `akashaRoot`. `getRepoRoot` was used here, and it
+  // names no tree of its own: it reads `WORKSPACE` and throws when nothing set it. That suited a
+  // check pointed at a separate code checkout, and there is no separate checkout now, so the
+  // service — which sets no `WORKSPACE` — threw before it read a single rule.
+  const repoRoot = akashaRoot()
   log(`${LOG} reading rule populations over ${repoRoot}`)
 
   const audit = await gatherRulePopulations({
