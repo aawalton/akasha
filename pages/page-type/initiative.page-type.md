@@ -8,8 +8,6 @@ body-shape-slug: initiative
 slug: initiative
 plural-slug: initiatives
 domain-parent-slug: domain/work-system
-required-reading-slugs:
-  - repo/memory-repo
 named-for: "{slug}"
 conditional-reading-slugs:
   - define-initiative
