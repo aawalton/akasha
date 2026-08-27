@@ -120,7 +120,7 @@ describe("decideSmsRoute", () => {
     }
   })
 
-  test("a jenny-targeted identity routes to jenny-handler carrying HER account", () => {
+  test("a jenny-targeted identity routes to jenny carrying HER account", () => {
     const d = decideSmsRoute({ sender: "+16085122511", content: "add a place" }, [
       kiAllowed,
       jennyAllowed,
