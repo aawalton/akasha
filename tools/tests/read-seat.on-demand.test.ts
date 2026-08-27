@@ -6,7 +6,7 @@ import { readingsOf } from "../lib/read-record.ts"
 import { canonicalize } from "../../repo/path/path"
 import { toolArgv } from "../lib/tool-argv.ts"
 import { type Fixture, fixture, installGates, installRepos } from "./fixture.ts"
-import { plantSeat } from "./seat-fixture.ts"
+import { indexFixture, plantSeat } from "./seat-fixture.ts"
 
 const LIVE = `${import.meta.dir}/../..`
 const AGENT = "agent-seat-read"
@@ -32,14 +32,16 @@ beforeEach(() => {
   )
   plantSeat(at, { agent: AGENT, name: "reading", domain: "global" })
   Bun.spawnSync(["git", "init", "-q"], { cwd: at.root })
-  Bun.spawnSync(["git", "init", "-q"], { cwd: at.memory })
 })
 
 afterEach(() => at.dispose())
 
 function run(argv: readonly string[], env: Record<string, string | undefined> = {}): { code: number; out: string } {
-  Bun.spawnSync(["git", "-C", at.root, "add", "-A", "pages"])
-  Bun.spawnSync(["git", "-C", at.memory, "add", "-A", "pages"])
+  // INDEXED HERE RATHER THAN IN THE HOOK, because each case plants its own pages after the hook has
+  // run and this must come after the last of them. `indexFixture` also lands the command pages the
+  // spawned `ops` dispatches from, under this temp root — without them it answers `unknown command`
+  // — and staging alone left every slug a seat names carrying no page at all.
+  indexFixture(at)
   const log = `${at.root}/seat-read.log`
   const kept: Record<string, string> = {}
   for (const [key, value] of Object.entries(process.env)) {
@@ -49,8 +51,13 @@ function run(argv: readonly string[], env: Record<string, string | undefined> = 
   const settled: Record<string, string> = {
     ...kept,
     HOME: at.home,
-    INSTRUCTIONS_ROOT: at.root,
-    MEMORY_ROOT: at.memory,
+    // `AKASHA_ROOT` NAMES THE TEMP REPO. This set `INSTRUCTIONS_ROOT` and `MEMORY_ROOT`, naming
+    // repositories that are gone: nothing reads them, so the child read the live checkout instead.
+    AKASHA_ROOT: at.root,
+    // `CODE_ROOT` IS WHERE THE PACKAGES ARE. `codeRoot()` falls back to the akasha root, which is
+    // now this temp repo, and it carries no `node_modules` — so the child died resolving a package
+    // specifier before the reading under test happened at all.
+    CODE_ROOT: LIVE,
     AGENT_ID: AGENT,
   }
   for (const [key, value] of Object.entries(env)) {
@@ -115,14 +122,10 @@ describe("a context that lost the bodies while the record stands", () => {
   })
 })
 
-function recordedIn(root: string, relPath: string): boolean {
-  return readingsOf(AGENT)[canonicalize(`${root}/${relPath}`)] !== undefined
-}
-
 const INITIATIVE_AT = "pages/initiative/athena-consistent-seats.initiative.md"
 
 function carryingAnInitiative(): void {
-  at.putMemory(
+  at.put(
     INITIATIVE_AT,
     "---\npage-type-slug: initiative\nslug: consistent-seats\ntitle: \"Consistent seats\"\n---\n\n# Intent\n\nWhat the initiative itself asks for.\n"
   )
@@ -130,7 +133,7 @@ function carryingAnInitiative(): void {
 }
 
 describe("what a seat holding an initiative gets", () => {
-  test("the initiative's own body, out of the memory repo", () => {
+  test("the initiative's own body", () => {
     carryingAnInitiative()
     const { code, out } = run(["--seat"])
     expect(code).toBe(0)
@@ -139,9 +142,9 @@ describe("what a seat holding an initiative gets", () => {
 
   test("a reading recorded against it there, so the next act is not refused for it", () => {
     carryingAnInitiative()
-    expect(recordedIn(at.memory, INITIATIVE_AT)).toBe(false)
+    expect(recorded(INITIATIVE_AT)).toBe(false)
     run(["--seat"])
-    expect(recordedIn(at.memory, INITIATIVE_AT)).toBe(true)
+    expect(recorded(INITIATIVE_AT)).toBe(true)
   })
 })
 
@@ -202,7 +205,7 @@ function delegating(): void {
     "---\nslug: definer\ndomain-parent-slug: global\n---\n\n# Definition\n\n- **Definer** — the role the seat itself carries.\n\n# Design\n\nWhat the seat's own role decides.\n"
   )
   plantSeat(at, { agent: AGENT, name: "reading", domain: "global", persona: "athena", role: "definer" })
-  const page = `${at.akasha}/agent/subagent/${CHILD}.subagent.md`
+  const page = `${at.root}/agent/subagent/${CHILD}.subagent.md`
   mkdirSync(dirname(page), { recursive: true })
   writeFileSync(page, `---\npage-type-slug: subagent\nsubagent-id: ${CHILD}\ntitle: "${CHILD}"\n---\n`, "utf8")
   at.sweepOnDispose(page)
@@ -227,7 +230,7 @@ describe("what a subagent gets when it asks what it is bound to", () => {
     delegating()
     const first = run(["--seat"], { ACTING_AGENT_ID: CHILD }).out
     writeFileSync(
-      `${at.akasha}/agent/subagent/${CHILD}.subagent.md`,
+      `${at.root}/agent/subagent/${CHILD}.subagent.md`,
       `---\npage-type-slug: subagent\nsubagent-id: ${CHILD}\ntitle: "${CHILD}"\npersona-slug: athena\nrole-slug: definer\ndomain-slug: widget\n---\n`,
       "utf8"
     )
