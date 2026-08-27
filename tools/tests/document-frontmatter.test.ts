@@ -123,7 +123,7 @@ describe("a double-quoted scalar gives its escapes back decoded", () => {
 describe("a list item stating several keys is read as one record", () => {
   test("a key written under the item stands beside the one on the dash line", () => {
     const got = read("a:\n  - kind: ts-file\n    under: infra\n  - kind: workflow\n")
-    expect(got.fields.a).toEqual([{ kind: "ts-file", under: "packages/infra" }, { kind: "workflow" }])
+    expect(got.fields.a).toEqual([{ kind: "ts-file", under: "infra" }, { kind: "workflow" }])
     expect(got.unreadable).toBe(0)
   })
 
