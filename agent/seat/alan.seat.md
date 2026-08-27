@@ -6,5 +6,6 @@ persona-slug: amy
 domain-slug: all-about-alan-topic/alan
 role-slug: handler
 person-slug: alan
+start-mode: interactive
 on-call: true
 ---
