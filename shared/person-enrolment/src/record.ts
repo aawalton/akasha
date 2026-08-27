@@ -2,7 +2,7 @@ import { createPage } from "@shared/pages-access/create"
 import { getPages } from "@shared/pages-access/get"
 import { patchPageById } from "@shared/pages-access/patch"
 import { type Page } from "@shared/pages-core/page-types"
-import { handlerSeatName, type PersonDocument } from "@shared/person-document/person-document"
+import { type PersonDocument } from "@shared/person-document/person-document"
 import type { EnrolledPerson } from "./page-type"
 import { PERSON_SLUG } from "./page-type"
 
@@ -41,7 +41,7 @@ function enrolledPerson(row: Page): EnrolledPerson | null {
     slug,
     personUserId,
     persona,
-    handlerSeat: handlerSeatName(persona, slug),
+    handlerSeat: slug,
     phone: textOf(row, "phone"),
     email: textOf(row, "email"),
   }
