@@ -1,0 +1,1 @@
+gate=slug:temper-task (Electric snapshot fold) elapsed>=4000ms acquired=true

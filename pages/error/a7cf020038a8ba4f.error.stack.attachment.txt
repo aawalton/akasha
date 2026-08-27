@@ -1,0 +1,1 @@
+gate=core-definitions elapsed>=4000ms acquired=true

@@ -1,0 +1,1 @@
+TypeError: Failed to fetch dynamically imported module: https://alanwalton.com/assets/idle-game-Bw4Cgy2p.js

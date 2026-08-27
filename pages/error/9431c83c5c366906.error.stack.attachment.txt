@@ -1,0 +1,1 @@
+/question/completion-cleanup-14317-the-folded-skill-point-finder-still-has-its-own-separate-window-uspf-gui-cross-character-skill-point-sources-view-with-its-own-savedvariables-the-native-task-hud-also-tracks-skill-points-retire-the-separate-window-or-keep-it-as-a-distinct-cross-char-view-04305e39

@@ -1,0 +1,1 @@
+gate=slug:pipeline (Electric snapshot fold) elapsed>=4000ms acquired=true
