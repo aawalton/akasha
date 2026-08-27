@@ -6,10 +6,9 @@ import { stateSpawnedSeat } from "../lib/state-spawned-seat.ts"
 const AGENT = "01a0aaaa-bbbb-7ccc-8ddd-eeeeffff0000"
 
 // `AKASHA_ROOT` NAMES THE REPOSITORY THE COMMAND IS RUN OUT OF. `state-spawned-seat.ts` spawns
-// `${akashaRoot()}/tools/seat-call.ts`, and the `instructions` repository is absorbed into akasha,
-// so setting `INSTRUCTIONS_ROOT` pointed nothing anywhere: every case below ran the live
-// checkout's real `seat-call.ts`, which wrote no `calls.jsonl` here and answered with real
-// initiative slugs.
+// `${akashaRoot()}/tools/seat-call.ts`, so the recorder each case reads is only reached while this
+// names the temp tree; against the live checkout the real `seat-call.ts` runs and writes no
+// `calls.jsonl` here at all.
 const stood = process.env.AKASHA_ROOT
 
 let root: string
