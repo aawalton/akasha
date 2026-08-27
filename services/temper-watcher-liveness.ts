@@ -5,7 +5,8 @@ export const tool = {
 
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { codeModule } from "../tools/lib/code-import.ts"
+import { watcherLogDir } from "@temper/shared-foundation-misc-eso-paths"
+import { z } from "zod"
 import {
   decideCrashAlert,
   decideLivenessAlert,
@@ -13,9 +14,6 @@ import {
 } from "../tools/lib/temper-watcher-liveness-decide.ts"
 import { parseLogLine } from "../tools/lib/temper-watcher-parse-log-line.ts"
 import { isUnitActive } from "../tools/lib/temper-watcher-systemd.ts"
-
-const ESO_PATHS = "@temper/shared-foundation-misc-eso-paths"
-const ZOD = "zod"
 
 const HEALTHY_HEARTBEAT_MESSAGE = "Realtime health: SUBSCRIBED (healthy)"
 
@@ -56,29 +54,6 @@ Usage:
 
   --help  This.
 `
-
-interface EsoPaths {
-  readonly watcherLogDir: () => string
-}
-
-interface ZodSchema {
-  readonly nullable: () => ZodSchema
-  readonly optional: () => ZodSchema
-}
-
-interface Zod {
-  readonly z: {
-    readonly number: () => ZodSchema
-    readonly object: (shape: Record<string, ZodSchema>) => {
-      readonly strict: () => {
-        readonly parse: (value: unknown) => {
-          readonly alertedAtMs: number | null
-          readonly fatalAlertedAtMs?: number | null
-        }
-      }
-    }
-  }
-}
 
 interface ProbeState {
   readonly alertedAtMs: number | null
@@ -129,13 +104,13 @@ function scanLog(logDir: string): LogScan {
   return { lastHealthyMs, lastFatalMs }
 }
 
-function readPriorState(statePath: string, schema: Zod): ProbeState {
+function readPriorState(statePath: string): ProbeState {
   if (!existsSync(statePath)) return { alertedAtMs: null, fatalAlertedAtMs: null }
   try {
-    const stateSchema = schema.z
+    const stateSchema = z
       .object({
-        alertedAtMs: schema.z.number().nullable(),
-        fatalAlertedAtMs: schema.z.number().nullable().optional(),
+        alertedAtMs: z.number().nullable(),
+        fatalAlertedAtMs: z.number().nullable().optional(),
       })
       .strict()
     const parsed = stateSchema.parse(JSON.parse(readFileSync(statePath, "utf8")))
@@ -166,19 +141,14 @@ async function main(argv: readonly string[]): Promise<number> {
   const stalenessThresholdMs = STALENESS_THRESHOLD_MS
   const cooldownMs = COOLDOWN_MS
 
-  const [esoPaths, zodModule] = await Promise.all([
-    codeModule<EsoPaths>(ESO_PATHS),
-    codeModule<Zod>(ZOD),
-  ])
-
-  const logDir = esoPaths.watcherLogDir()
+  const logDir = watcherLogDir()
   const statePath = join(logDir, STATE_FILE)
 
   const now = Date.now()
   const { lastHealthyMs, lastFatalMs } = scanLog(logDir)
   const lastHealthyHeartbeatAgeMs = lastHealthyMs === null ? null : now - lastHealthyMs
   const unitActive = isUnitActive()
-  const priorState = readPriorState(statePath, zodModule)
+  const priorState = readPriorState(statePath)
 
   const decision = decideWatcherLiveness({
     lastHealthyHeartbeatAgeMs,

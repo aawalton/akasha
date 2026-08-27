@@ -6,35 +6,18 @@ export const tool = {
 import { chmodSync, mkdirSync } from "node:fs"
 import { dirname } from "node:path"
 import { buildBrowserLaunchEnv } from "@shared/browser-launch-env"
+import {
+  assertCredentialPathAllowed,
+  isInvalidCredentialsError,
+  signInWithPassword,
+} from "@shared/supabase-auth"
+import { createClient } from "@shared/supabase-client/client"
 import { chromium } from "playwright-core"
 import { DEFAULT_THROWAWAY_EMAIL, ensureThrowawayUser } from "./lib/browser-test-ensure-user.ts"
-import { codeModule } from "./lib/code-import.ts"
 import { playwrightStorageStatePath } from "./lib/mcp-registry.ts"
 import { shape } from "./lib/shape.ts"
 
-const SUPABASE_AUTH = "@shared/supabase-auth"
-const SUPABASE_CLIENT = "@shared/supabase-client/client"
-
 const NAVIGATION_TIMEOUT_MS = 60_000
-
-interface SignInOutcome {
-  readonly error?: { readonly message: string } | null
-  readonly user?: { readonly id: string } | null
-}
-
-interface SupabaseAuthLib {
-  readonly assertCredentialPathAllowed: (input: { readonly resolvedUserId: string }) => void
-  readonly isInvalidCredentialsError: (error: unknown) => boolean
-  readonly signInWithPassword: (
-    client: unknown,
-    email: string,
-    password: string
-  ) => Promise<SignInOutcome>
-}
-
-interface SupabaseClientLib {
-  readonly createClient: (url: string, anonKey: string) => unknown
-}
 
 const EnvShape = shape.object({
   BROWSER_TEST_URL: shape.string().url(),
@@ -49,11 +32,8 @@ export async function exportPlaywrightStorageState(): Promise<string> {
   const baseUrl = env.BROWSER_TEST_URL.replace(/\/+$/, "")
   const storageStatePath = playwrightStorageStatePath()
 
-  const auth = await codeModule<SupabaseAuthLib>(SUPABASE_AUTH)
-  const { createClient } = await codeModule<SupabaseClientLib>(SUPABASE_CLIENT)
-
   const authClient = createClient(env.SUPABASE_URL, env.SUPABASE_ANON_KEY)
-  let signIn = await auth.signInWithPassword(
+  let signIn = await signInWithPassword(
     authClient,
     env.BROWSER_TEST_EMAIL,
     env.BROWSER_TEST_PASSWORD
@@ -62,7 +42,7 @@ export async function exportPlaywrightStorageState(): Promise<string> {
   const selfHealable =
     signIn.error != null &&
     env.BROWSER_TEST_EMAIL === DEFAULT_THROWAWAY_EMAIL &&
-    auth.isInvalidCredentialsError(signIn.error)
+    isInvalidCredentialsError(signIn.error)
   if (selfHealable) {
     console.warn(
       `sign-in failed (${signIn.error?.message}); self-healing the browser-test password to the env value and retrying once`
@@ -73,7 +53,7 @@ export async function exportPlaywrightStorageState(): Promise<string> {
       resetPassword: true,
       acknowledgeCanonicalRotation: true,
     })
-    signIn = await auth.signInWithPassword(
+    signIn = await signInWithPassword(
       authClient,
       env.BROWSER_TEST_EMAIL,
       env.BROWSER_TEST_PASSWORD
@@ -82,7 +62,7 @@ export async function exportPlaywrightStorageState(): Promise<string> {
 
   if (signIn.error != null) throw new Error(`storage-state export sign-in: ${signIn.error.message}`)
   if (signIn.user == null) throw new Error("storage-state export sign-in: no user returned")
-  auth.assertCredentialPathAllowed({ resolvedUserId: signIn.user.id })
+  assertCredentialPathAllowed({ resolvedUserId: signIn.user.id })
 
   const browser = await chromium.launch({
     headless: true,
