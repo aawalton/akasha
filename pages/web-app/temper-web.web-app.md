@@ -3,7 +3,7 @@ id: c0a1a793-2ed5-5ae3-98ec-01b57d9d129f
 page-type-slug: web-app
 title: "Temper web"
 slug: temper-web
-repo: code
+repo: akasha
 domain-parent-slug: domain/temper
 cluster-service-slugs:
   - temper-web-deployment

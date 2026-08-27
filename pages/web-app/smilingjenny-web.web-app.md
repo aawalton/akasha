@@ -3,7 +3,7 @@ id: b9d75c12-47b0-512b-8c13-747988c3ce3c
 page-type-slug: web-app
 title: "Smiling Jenny web"
 slug: smilingjenny-web
-repo: code
+repo: akasha
 domain-parent-slug: domain/smilingjenny
 cluster-service-slugs:
   - smilingjenny-web-deployment
