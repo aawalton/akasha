@@ -1,7 +1,7 @@
 
 import { describe, expect, test } from "bun:test"
 import { writeFileSync } from "node:fs"
-import { type Fixture, fixture } from "./fixture.ts"
+import { type Fixture, fixture, installRepos } from "./fixture.ts"
 import { type Planted, plantInitiative, plantSeat } from "./seat-fixture.ts"
 import { statedOf } from "../lib/seat-stated.ts"
 
@@ -56,6 +56,9 @@ describe("a seat page with no live process", () => {
     try {
       const agent = unrunning()
       plantWhole(at, agent)
+      // THE REPO PAGES SAY WHICH REPOSITORIES THERE ARE, read out of the root `AKASHA_ROOT` names,
+      // so a child pointed here throws in `repo/roots/roots.ts` before `statedOf` says anything.
+      installRepos(at.root)
       const script = `${at.home}/read-one.ts`
       writeFileSync(
         script,
