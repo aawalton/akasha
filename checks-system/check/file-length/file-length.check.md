@@ -5,7 +5,7 @@ title: "File length"
 slug: file-length
 needs: file
 cached: false
-check-on-patch: false
+check-on-patch: true
 check-on-worktree: false
 ---
 
