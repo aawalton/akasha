@@ -203,10 +203,6 @@ export function readSubject(root: string, subject: Subject, withBody = false): S
   const one = subject.slice(0, -1)
   const home = homeOf(root, subject, one)
   if (subject === "domains") {
-    // A domain slug is declared by pages of many types, not only by `*.domain.md`,
-    // so the whole tree the domain page type names is walked rather than the glob
-    // that page type files its own pages under. Which tree that is was the root
-    // handed in here until `pages/` landed in akasha and this walked an empty one.
     const walked = byDeclaredSlug(home.root, documentsUnder(home.root, "", one, true), false, withBody)
     return deadUnless(walked, subject, one, home.root)
   }

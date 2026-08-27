@@ -41,12 +41,6 @@ function under(at: string, dirs: readonly string[]): boolean {
   return dirs.some((dir) => at.startsWith(`${dir}/`))
 }
 
-// A page type states WHERE its pages are filed, per repository, and that place
-// is a glob rather than a folder named for the slot: a persona stands under
-// `alan/persona/`, never `pages/persona/`. Read the places the type declares,
-// in every repository it names, and fall back to the slot's folder under this
-// root only where no type states one — which is the whole of what this did
-// before, and was right only while one repository held every page.
 function stemsIn(
   root: string,
   dirs: readonly string[],
