@@ -1,6 +1,6 @@
 export const tool = {
   summary: "Run every check across the repo",
-  repos: ["instructions"],
+  repos: ["akasha"],
 } as const
 
 import { existsSync, readFileSync } from "node:fs"
@@ -58,17 +58,17 @@ export const CHECKS: Readonly<Record<string, Levy>> = {
   "editor-extension-single": { repos: ["akasha"], run: editorExtensionSingle },
   "email-rules-cover": { repos: ["akasha"], run: emailRulesCover },
   "email-rules-disjoint": { repos: ["akasha"], run: emailRulesDisjoint },
-  "findings-sorted": { repos: ["memory"], run: findingsSorted },
+  "findings-sorted": { repos: ["akasha"], run: findingsSorted },
   "graph-attributes-claimed": { repos: ["akasha"], run: graphAttributesClaimed },
   "hooks-agree": { repos: ["akasha"], run: hooksAgree },
   "hooks-delivered": { repos: ["akasha"], run: hooksDelivered },
   "hooks-uncopied": { repos: ["akasha"], run: hooksUncopied },
-  "links-resolve": { repos: ["akasha", "memory"], run: linksResolve },
+  "links-resolve": { repos: ["akasha"], run: linksResolve },
   "relations-resolve": { repos: ["akasha"], run: relationsResolve },
   "lint-scope-coverage": { repos: ["akasha"], run: lintScopeCoverage },
-  "pages-hold-properties": { repos: ["akasha", "memory"], run: pagesHoldProperties },
-  "pages-hold-shape": { repos: ["akasha", "memory"], run: pagesHoldShape },
-  "pages-named-as-stated": { repos: ["akasha", "memory"], run: pagesNamedAsStated },
+  "pages-hold-properties": { repos: ["akasha"], run: pagesHoldProperties },
+  "pages-hold-shape": { repos: ["akasha"], run: pagesHoldShape },
+  "pages-named-as-stated": { repos: ["akasha"], run: pagesNamedAsStated },
   "persona-values": { repos: ["akasha"], run: personaValues },
   "positionals-cover-identifiers": { repos: ["akasha"], run: positionalsCoverIdentifiers },
   "property-types-bind": { repos: ["akasha"], run: propertyTypesBind },
