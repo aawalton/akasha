@@ -4,10 +4,10 @@ import { tmpdir } from "node:os"
 import { join } from "node:path"
 import { listAllAddons, listExternalAddonRelDirs } from "./index"
 
-const NEW_ADDON_REL = "packages/temper/newthing/addon"
-const HOST_REL = "packages/temper/newthing/core"
-const FLAT_REL = "packages/temper/addons/FlatFoo"
-const STRAY_REL = "packages/temper/stray/addon"
+const NEW_ADDON_REL = "temper/newthing-addon"
+const HOST_REL = "temper/newthing-core"
+const FLAT_REL = "temper/addons/FlatFoo"
+const STRAY_REL = "temper/stray-addon"
 
 let root: string
 

@@ -3,22 +3,22 @@ import { join } from "node:path"
 import { listDeployables } from "./deployables"
 import type { AddonInfo } from "./index"
 
-const repoRoot = join(import.meta.dir, "..", "..", "..", "..", "..", "..")
+const repoRoot = join(import.meta.dir, "..", "..", "..")
 
 function addon(canonicalName: string, workspaceClosure: readonly string[] = []): AddonInfo {
   return {
     dir: `/fake/${canonicalName}`,
     canonicalName,
-    repoRelDir: `packages/temper/addons/${canonicalName}`,
+    repoRelDir: `temper/addons/${canonicalName}`,
     workspaceClosure,
   }
 }
 
 describe("listDeployables", () => {
   test("standalone deployable carries its own closure verbatim", () => {
-    const roster: readonly AddonInfo[] = [addon("TemperInventory", ["packages/temper/inventory"])]
+    const roster: readonly AddonInfo[] = [addon("TemperInventory", ["temper/game-items-addon"])]
     expect(listDeployables(roster)).toEqual([
-      { name: "TemperInventory", workspaceClosure: ["packages/temper/inventory"] },
+      { name: "TemperInventory", workspaceClosure: ["temper/game-items-addon"] },
     ])
   })
 
