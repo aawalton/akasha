@@ -2,3 +2,4 @@
 *.uncommitted.jsonl
 *.uncommitted.attachment.*
 *.lock/
+editor-extension/generated/
