@@ -1,5 +1,5 @@
 import { readdirSync } from "node:fs"
-import { globFor, matchesGlob, scanGlob } from "./glob/glob.ts"
+import { matchesGlob, scanGlob } from "./glob/glob.ts"
 import { isRowsFile } from "./rows-file.ts"
 import { isAttachmentFile } from "./attachment-file.ts"
 import { listField, type Frontmatter } from "./frontmatter.ts"
@@ -30,9 +30,6 @@ export const PAGE_GLOBS = [...PAGE_TYPE_GLOBS, ...PAGE_BODY_SHAPE_GLOBS, ...PROP
 export const PAGE_PROPERTY_TYPE_GLOB = placeOf("page-property-type")
 
 export const PAGE_SHAPE_GLOBS = [...PAGE_GLOBS, PAGE_PROPERTY_TYPE_GLOB]
-
-/** Handed on from where it now lives, so the checks importing it from here still find it. */
-export { globFor }
 
 export function matchesAny(relPath: string, globs: readonly string[]): boolean {
   return globs.some((one) => matchesGlob(relPath, one))

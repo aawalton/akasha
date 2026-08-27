@@ -1,5 +1,6 @@
 import { isAttachmentFile } from "../../../page/attachment-file.ts"
-import { claiming, globFor, type PageType, placesOf, reposOf } from "../../../page/page-types.ts"
+import { claiming, type PageType, placesOf, reposOf } from "../../../page/page-types.ts"
+import { globFor } from "../../../page/glob/glob.ts"
 import type { FileTree } from "../../../page/file-tree.ts"
 import { compiledPageTypeFor } from "../../../page/property/frontmatter.ts"
 import { judgeFrontmatter } from "../../../page/property/judge.ts"
