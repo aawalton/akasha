@@ -59,6 +59,8 @@ Settled with Alan on 2026-08-27, before any intent was written:
 
 **A name formula is a property definition scoped to its page type, settled 2026-08-27.** A page type naming differently from the default declares its own `name` property definition, carrying the formula. A property definition already scopes to a page type, so naming takes no mechanism of its own. Thirty-six page types need one.
 
+**The default name formula is `{slug} ?? {id}`, settled 2026-08-27.** No title arm: a title is not guaranteed to be a valid identifier. The 10,239 pages holding no slug take one from their filename instead, which is already a folded stem. Four are named by their id and stay so. Seven are named by a case-carrying external identifier, which folding would change.
+
 **Loose ends, found 2026-08-27.** Taken as they block an intent or come up alongside one.
 
 - Seventeen hyphenated holes, over twenty-three occurrences, parse as subtraction rather than as references unless every one is spelled `prop(...)`.
