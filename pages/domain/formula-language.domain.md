@@ -6,6 +6,7 @@ slug: formula-language
 domain-parent-slug: domain/page-property-computed
 required-reading-slugs:
   - list/formula-values
+  - domain/formula-absent-value
   - domain/language-power
   - domain/language-syntax
   - domain/language-type-system

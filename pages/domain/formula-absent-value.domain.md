@@ -1,0 +1,21 @@
+---
+id: 01a044ed-0d79-7000-81ff-92265bb277db
+page-type-slug: domain
+title: "Formula absent value"
+slug: formula-absent-value
+domain-parent-slug: domain/formula-language
+---
+
+# Definition
+
+- **Formula absent value** — what a formula does where a value is not there.
+
+# Intent
+
+An operator given an absent value answers absent.
+
+`==` and `!=` answer a boolean, absent being equal only to absent.
+
+A case row matches only where its test answers true.
+
+`??` answers its left side, or its right where its left is absent.
