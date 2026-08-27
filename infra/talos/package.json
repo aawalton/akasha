@@ -12,7 +12,6 @@
     "./emit-yaml": "./src/emit-yaml.ts",
     "./nodes": "./src/nodes.ts",
     "./build-volumes": "./src/build-volumes.ts",
-    "./admin-bootstrap-plan": "./src/admin-bootstrap-plan.ts",
     "./lib/factory": "./src/lib/factory.ts",
     "./lib/kubectl": "./src/lib/kubectl.ts",
     "./lib/paths": "./src/lib/paths.ts",
