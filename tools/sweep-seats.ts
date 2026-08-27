@@ -1,6 +1,6 @@
 export const tool = {
   summary: "Name every running seat holding no unfinished assignment",
-  repos: ["akasha"],
+  path: "seat sweep",
 } as const
 
 import { basename } from "node:path"
