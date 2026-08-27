@@ -40,7 +40,7 @@ function withScratchTree(use: (root: string) => undefined): undefined {
 }
 
 function writePrimitivesManifest(root: string, name: string): string {
-  const dir = resolve(root, "packages/shared/design/primitives")
+  const dir = resolve(root, "shared/design-primitives")
   mkdirSync(resolve(dir, "src/components"), { recursive: true })
   writeFileSync(resolve(dir, "package.json"), `{ "name": "${name}" }\n`)
   return dir
