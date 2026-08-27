@@ -15,7 +15,7 @@ Found while moving these verbs' bodies into the instructions repository. Every e
 
 Exit 2, on a name that is well formed and held by nobody:
 `ops seat send --to <unheld name>`, `ops seat send --from <unheld name>`, `ops seat send --blocked <unheld name>`, `ops seat session-flush <unheld name>`, `ops seat start <name held by a live seat>`.
-`send` declares no `exits:` list. `session-flush` declares 0 and 1 only.
+`send` declares no `exits:` list; its help stands at `tools/lib/seat-send-help.ts`. `session-flush` declares 0 and 1 only.
 
 Exit 3, on a turn-end classified as a stall: `ops seat interactive-verdict --transcript <a transcript whose final text announces a next act>`. Declared nowhere in the block; `tools/hooks/block-interactive-stall.sh` is the caller that reads it.
 
