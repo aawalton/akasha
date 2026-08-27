@@ -4,7 +4,7 @@ import { PAGE_BODY_SHAPE_GLOBS, PAGE_TYPE_GLOBS } from "../../page/page-types.ts
 import { fromDisk, refusalText } from "./refusal.ts"
 import { type Roots } from "../../page/page"
 import { isInside, normalizeAbsolute } from "../../repo/path/path"
-import { targetRepo, targetRoot } from "../../repo/roots/roots"
+import { AKASHA, targetRepo, targetRoot } from "../../repo/roots/roots"
 import { proseOnly } from "./markdown.ts"
 
 const SCHEME_RE = /^[a-z][a-z0-9+.-]*:/i
@@ -157,8 +157,9 @@ function resolveOne(
       : target.startsWith("/")
         ? normalizeAbsolute(target)
         : normalizeAbsolute(`${fromDir}/${target}`)
-  const { instructions, code, memory, books, stories } = input.roots
-  const declared = [instructions, code, memory, books, stories].filter((one) => one !== undefined)
+  const declared = Object.entries(input.roots)
+    .filter(([repo, root]) => repo !== "target" && root !== undefined)
+    .map(([, root]) => root as string)
   if (!declared.some((root) => isInside(root, absolutePath))) {
     return {
       href,
@@ -211,7 +212,7 @@ export function resolveLinks(input: LinkInput): readonly ResolvedLink[] {
   const selfPath = `${targetRoot(input.roots)}/${input.relPath}`
   const shapes = [...PAGE_TYPE_GLOBS, ...PAGE_BODY_SHAPE_GLOBS]
   const template =
-    targetRepo(input.roots) === "instructions" && shapes.some((glob) => new Bun.Glob(glob).match(input.relPath))
+    targetRepo(input.roots) === AKASHA && shapes.some((glob) => new Bun.Glob(glob).match(input.relPath))
   return extractLinks(input.body).map((l) =>
     resolveOne(l.href, l.text, l.line, fromDir, selfPath, template, input)
   )
