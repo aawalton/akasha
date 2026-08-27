@@ -12,9 +12,9 @@ The keyboard registry declares a three-layer authority model that nothing enforc
 
 # Evidence
 
-`packages/shared/design/primitives/src/utils/keyboard-registry.ts:10` declares `export type KeyLayer = "reserved" | "conventional" | "house"` under the comment `/** The three-layer authority a binding belongs to (see the standard). */`.
+`shared/design-primitives/src/utils/keyboard-registry.ts:3` declares `export type KeyLayer = "reserved" | "conventional" | "house"` under the comment `/** The three-layer authority a binding belongs to (see the standard). */`.
 
-Searching the code repo outside its tests for reads of the field returns two product sites, both in `packages/shared/design/primitives/src/utils/shortcut-surfaces.ts`: line 70 filters descriptors into one section per layer, line 75 collects the layer-less into a trailing "Other" bucket. Both sit inside `groupByLayerAndGroup`, whose own comment describes it as grouping for the sheet. `use-keyboard-registry.ts:233` copies the field into the descriptor and reads it nowhere.
+Searching the code repo outside its tests for reads of the field returns two product sites, both in `shared/design-primitives/src/utils/shortcut-surfaces.ts`: line 45 filters descriptors into one section per layer, line 50 collects the layer-less into a trailing "Other" bucket. Both sit inside `groupByLayerAndGroup`, whose own comment describes it as grouping for the sheet. `shared/design-primitives/src/hooks/use-keyboard-registry.ts:203` copies the field into the descriptor and reads it nowhere.
 
 That nothing enforces it: `matchBindings` in `keyboard-registry.ts` is a single `bindings.filter(...)` testing `enabled`, `inTextInput`, `scope`, the character-key toggle and the chord itself, and returns every survivor. `handleKeyDown` in `use-keyboard-registry.ts` loops over the whole returned array calling each `onTrigger`, calling `preventDefault` once. There is no ordering step and no collision check anywhere in either file.
 
